@@ -1,38 +1,28 @@
+[Help Center](https://support.rev.com/hc/en-us)[Developers](https://www.rev.ai/)[Security](https://www.rev.com/security)
+
+[Login](https://www.rev.com/app)
+
 [![Rev's logo](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/65e0b921d865d7bb0f8c9062_logo_white.svg)](https://www.rev.com/)
-
-[Pricing](https://www.rev.com/pricing)
-
-Services
-
-For Business
 
 [Services](https://www.rev.com/services)
 
 [Human Transcription
 
-Expert Human Transcription with 99% Accuracy](https://www.rev.com/services/human-transcription)
+Expert Human Transcription with 99% Accuracy](https://www.rev.com/services/human-transcription)[AI Transcription
 
-[AI Transcription
+Transcribe Audio and Video to Text with AI Speed](https://www.rev.com/services/ai-transcription)[Human Captions
 
-Transcribe Audio and Video to Text with AI Speed](https://www.rev.com/services/ai-transcription)
+Accessible and Compliant Captions for Video Content in English or Spanish](https://www.rev.com/services/closed-captions)[AI Captions
 
-[Human Captions
+Increase Global Reach with AI Captions in 37 Languages](https://www.rev.com/services/ai-captions)[Global Subtitles
 
-Accessible and Compliant Captions for Video Content in English or Spanish](https://www.rev.com/services/closed-captions)
+Expand Globally with Accurate Subtitles in 17 Lanaguages](https://www.rev.com/services/global-subtitles)
 
-[AI Captions
-
-Increase Global Reach with AI Captions in 37 Languages](https://www.rev.com/services/ai-captions)
-
-[Global Subtitles
-
-Expand Globally with Accurate Subtitles in 17 Languages](https://www.rev.com/services/global-subtitles)
-
-![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
+![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
 
 Ignite Your Productivity
 
-Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work. Coming soon.
 
 [Explore VoiceHub](https://www.rev.com/services/voicehub)
 
@@ -40,74 +30,45 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 [Newsrooms & Journalists
 
-Capture Every Detail, Break Every Story](https://www.rev.com/solutions/news-broadcast)
+Capture Every Detail And Break Every Story](https://www.rev.com/solutions/news-broadcast)[Research & Consulting
 
-[Research & Consulting
+Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Healthcare
 
-Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)
+Capture and Safeguard Every Clinical Conversation](https://www.rev.com/solutions/industries?health)[Legal & Court Reporting
 
-[Legal & Court Reporting
+A Trusted Partner from Transcription to Certification](https://www.rev.com/solutions/legal)[Education
 
-A Trusted Partner From Transcription to Certification](https://www.rev.com/solutions/legal)
+Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Financial Services
 
-[Education
+Turn Investor Calls into Actionable Intelligence](https://www.rev.com/solutions/industries?fin)[Video Distribution & Accessibility
 
-Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)
+Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Technology
 
-[Video Distribution & Accessibility
+Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology)[Government
 
-Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)
+Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/industries?gov)
 
-[Technology
-
-Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology) 
-
-![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
+![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
 
 Ignite Your Productivity
 
-Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work. Coming soon.
 
 [Explore VoiceHub](https://www.rev.com/services/voicehub)
 
-[Blog](https://www.rev.com/blog)
+[Services](#)[For Business](#)[Pricing](https://www.rev.com/pricing)
 
-[Developers](https://www.rev.ai/)
+[Help Center](https://support.rev.com/hc/en-us)[Developers](https://www.rev.ai/)[Security](https://www.rev.com/security)[Login](https://www.rev.com/app)
 
-Contact Us
+[Get Started](https://www.rev.com/pricing)[Request a Demo](https://www.rev.com/online-transcription-services/contact-sales)
 
-Contact Us
-
-[Give Support a Call
-
-(888) 369-0701  
-Available Monday - Friday  
-9am - 4pm CT](tel:+18883690701)
-
-[Talk to Sales
-
-Learn about our AI and human-led Speech-to-Text solutions](https://www.rev.com/online-transcription-services/contact-sales)
-
-[Send Support a Message
-
-Have a question?  
-We can help!](mailto:support@rev.com)
-
-[Help Center
-
-Visit Rev’s Knowledge Base for Answers to Common Questions](https://support.rev.com/hc/en-us)
-
-[Request a Demo](https://www.rev.com/online-transcription-services/contact-sales)[Login](https://www.rev.com/app)
-
-[Get Started](#services-modal_navbar-cta)
-
-back to menu
+[Back to menu](#)
 
 [Human Transcription
 
 Expert Human Transcription with 99% Accuracy](https://www.rev.com/services/human-transcription)[Human Captions
 
-Accessible and Compliant Captions for Video Content in English or Spanish](https://www.rev.com/services/closed-captions)[Global Subtitles
+Accessible and Compliant Captions for Video Content](https://www.rev.com/services/closed-captions)[Global Subtitles
 
 Expand Globally with Accurate Subtitles in 17 Languages](https://www.rev.com/services/global-subtitles)[AI Transcription
 
@@ -115,145 +76,43 @@ Transcribe Audio and Video to Text with AI Speed](https://www.rev.com/services/a
 
 Increase Global Reach with AI Captions in 38 Languages](https://www.rev.com/services/ai-captions)
 
-![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
+![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
 
 Ignite Your Productivity
 
-Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work. Coming soon.
 
-[Learn More](https://www.rev.com/services/voicehub)
+[Explore VoiceHub](https://www.rev.com/services/voicehub)
 
-back to menu
+[Back to menu](#)
 
 [Newsrooms & Journalists
 
-Capture Every Detail, Break Every Story](https://www.rev.com/solutions/news-broadcast)[Research & Consulting
+Capture Every Detail And Break Every Story](https://www.rev.com/solutions/news-broadcast)[Legal & Court Reporting
 
-Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Legal & Court Reporting
+A Trusted Partner from Transcription to Certification](https://www.rev.com/solutions/legal)[Video Distribution & Accessibility
 
-A Trusted Partner From Transcription to Certification](https://www.rev.com/solutions/legal)[Video Distribution & Accessibility
+Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Research & Consulting
 
-Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Education
+Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Education
 
 Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Technology
 
-Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology) 
+Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology) [Government
 
-![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
+Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/industries?gov)[Financial Services
+
+Turn Investor Calls into Actionable Intelligence](https://www.rev.com/solutions/industries?fin)[Healthcare
+
+Capture and Safeguard Every Clinical Conversation](https://www.rev.com/solutions/industries?health)
+
+![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
 
 Ignite Your Productivity
 
-Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work. Coming soon.
 
-[Learn More](https://www.rev.com/services/voicehub)
-
-back to menu
-
-[Give Support A Call
-
-(888) 369-0701  
-Available Monday - Friday  
-9am - 4pm CT](tel:+18883690701)[Send Support a Message
-
-Have a question? We can help!](mailto:support@rev.com)[Help Center
-
-Visit Rev’s Knowledge Base for Answers to Common Questions](https://support.rev.com/hc/en-us)[Talk to Sales
-
-Learn about our AI and human-led Speech-to-Text solutions](https://www.rev.com/online-transcription-services/contact-sales)
-
-close
-
-Speech-to-Text Solutions That Fit Any Project
-
-Subscription
-
-Free
-
-For occasional transcription and captioning needs.
-
-[Get Started](https://www.rev.com/subscription/signup/groups/1/plans/50)
-
-[Get Started](https://www.rev.com/subscription/signup/groups/1/plans/50)
-
-Basic
-
-For individuals and small teams with consistent transcription needs.
-
-[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/52)
-
-[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/52)
-
-Pro
-
-RECOMMENDED
-
-For teams and organizations with higher volumes of content.
-
-[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/53)
-
-[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/53)
-
-Enterprise
-
-For organizations that require enterprise security, control, and more.
-
-[Request A Demo](https://www.rev.com/online-transcription-services/contact-sales)
-
-[Request A Demo](https://www.rev.com/online-transcription-services/contact-sales)
-
-[Compare All Subscription Plans](https://www.rev.com/pricing)
-
-Transcripts by The Minute
-
-Human Transcription
-
-Our expert transcriptionists turn speech-to-text in 12 hours or less, 99% accuracy guaranteed.
-
-[Order Human Transcripts](https://www.rev.com/checkout/transcriptionfiles)
-
-[Order Human Transcripts](https://www.rev.com/checkout/transcriptionfiles)
-
-AI Transcription
-
-Transcribe video and audio to text in minutes with AI-powered automatic speech recognition.
-
-[Order AI Transcripts](https://www.rev.com/checkout/automated-transcription-files)
-
-[Order AI Transcripts](https://www.rev.com/checkout/automated-transcription-files)
-
-Captions by The Minute
-
-Human Captions
-
-Reach a wider audience with human-generated captions in English or Spanish.
-
-[Order Human Captions](https://www.rev.com/checkout/captionfiles)
-
-[Order Human Captions](https://www.rev.com/checkout/captionfiles)
-
-AI Captions
-
-Boost your engagement by adding AI generated captions in 38 languages.
-
-[Order AI Captions](https://www.rev.com/checkout/automated-caption-files)
-
-[Order AI Captions](https://www.rev.com/checkout/automated-caption-files)
-
-Subtitles by The Minute
-
-Global Subtitles
-
-Reach a wider audience and improve search discoverability with human-generated English captions.
-
-[Order Global Subtitles](https://www.rev.com/checkout/subtitlefiles)
-
-[Order Global Subtitles](https://www.rev.com/checkout/subtitlefiles)
-
-Looking for something else?
-
-Rev handles the tedious job of transcripts, captions, and subtitles so you’ll get work done faster. If you haven’t found what you need yet, we still bet we can help.
-
-[Learn More](https://www.rev.com/online-transcription-services/contact-sales)
+[Explore VoiceHub](https://www.rev.com/services/voicehub)
 
 Privacy Policy  
 
