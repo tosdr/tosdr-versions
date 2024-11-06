@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121365435.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121445878.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
 
 Service Stiftung Warentest
 
