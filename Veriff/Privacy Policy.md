@@ -1,4 +1,4 @@
-[![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg)](https://www.veriff.com/)
+[![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg?auto=compress,format)](https://www.veriff.com/)
 
 * Veriff Data Processing Addendum for Starter Plans
 * [1\. Definitions](#anchor-h2-1)
@@ -214,7 +214,7 @@ _This is applicable only if Standard Contractual Clauses Module 1 transfers are 
 
 Herewith the Client confirms that when processing personal data (first and foremost, Veriff’s representatives work-related contact details) under Standard Contractual Clauses Module 1, it abides by at least equivalent  technical and organizational measures as applied by Veriff (as described in section “Security Controls” in the Agreement) to ensure the level of security appropriate to the risk related to processing of the personal data. The Client has the right to change and update, from time to time and as seen necessary by the Client any and all technical and organizational measures, provided, in all cases, such modifications will not result in material degradation of the security of the personal data.
 
-![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg)
+![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg?auto=compress,format)
 
 ###### Products
 
