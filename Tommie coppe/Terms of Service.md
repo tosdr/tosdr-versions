@@ -2,8 +2,6 @@
 
 BOGO Free Shirts & Bras! DETAILS
 
-Save up to $75 on Infrared Therapy DETAILS
-
 BUY 1 GET 1 FREE
 
 Close the Modal
