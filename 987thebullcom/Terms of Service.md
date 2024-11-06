@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Broken HalosChris Stapleton<br><br>4:39pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:34pm |
-| Need A FavorJelly Roll<br><br>4:31pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:28pm |
-| Something Like ThatTim Mcgraw<br><br>4:25pm |
+| Drunk On A PlaneDierks Bentley<br><br>10:41pm |
+| LosersPost Malone Ft Jelly Roll<br><br>10:38pm |
+| Man Made A BarMorgan Wallen Ft Eric Church<br><br>10:35pm |
+| Pretty Little PoisonWarren Zeiders<br><br>10:31pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
