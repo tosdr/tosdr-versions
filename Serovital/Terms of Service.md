@@ -1,9 +1,16 @@
 [Skip to content](#MainContent)
 
+Pause slideshow Play slideshow
+
+[**HOLIDAY KITS:** Sparkle & shine with limited-edition gift sets 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
+
+[**HOLIDAY KITS:** Sparkle & shine with limited-edition gift sets 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
+
 SeroVital [![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766)](https://www.serovital.com/)[![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786)](https://www.serovital.com/)
 
 * [SHOP](https://www.serovital.com/collections/all-products)
     
+    * [Limited-Time Holiday Kits](https://www.serovital.com/collections/holiday-kits)
     * [Anti-Aging & Wellness](https://www.serovital.com/collections/anti-aging-wellness)
     * [Skincare](https://www.serovital.com/collections/skincare)
     * [Hair & Scalp](https://www.serovital.com/collections/hair)
@@ -40,6 +47,7 @@ Your cart is currently empty.
     SHOP Expand submenu
     * SHOP
     * [View all](https://www.serovital.com/collections/all-products)
+    * [Limited-Time Holiday Kits](https://www.serovital.com/collections/holiday-kits)
     * [Anti-Aging & Wellness](https://www.serovital.com/collections/anti-aging-wellness)
     * [Skincare](https://www.serovital.com/collections/skincare)
     * [Hair & Scalp](https://www.serovital.com/collections/hair)
