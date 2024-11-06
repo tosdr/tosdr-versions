@@ -269,13 +269,15 @@ Menu
     * [Christmas](https://www.moonpig.com/uk/gifts/food-drink/christmas/)
     * [Congratulations](https://www.moonpig.com/uk/gifts/food-drink/congratulations/)
     * [Engagement](https://www.moonpig.com/uk/gifts/food-drink/engagement/)
-    * [Wedding](https://www.moonpig.com/uk/gifts/food-drink/wedding/)
+    * [Wedding](https://www.moonpig.com/uk/gifts/food-drink/weddings/)
     * [Thank You](https://www.moonpig.com/uk/gifts/food-drink/thank-you/)
     
     ### Shop by Price
     
+    * [£15 & Under](https://www.moonpig.com/uk/gifts/food-drink/under-15/)
     * [£20 & Under](https://www.moonpig.com/uk/gifts/food-drink/under-20/)
-    * [£20-£60](https://www.moonpig.com/uk/gifts/food-drink/20-60/)
+    * [£20-£40](https://www.moonpig.com/uk/gifts/food-drink/20-40/)
+    * [£40-£60](https://www.moonpig.com/uk/gifts/food-drink/40-60/)
     * [Premium](https://www.moonpig.com/uk/gifts/food-drink/premium/)
     
 * Open Experiences dropdown[![Experiences](https://static.web-explore.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
