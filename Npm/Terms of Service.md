@@ -280,32 +280,6 @@
 
 * [GitHub](https://github.com/npm/documentation)
 
-### Table of contents
-
-* [Important Terms](#important-terms)
-* [Other Terms](#other-terms)
-* [Legal Agreement](#legal-agreement)
-* [Changes](#changes)
-* [npm Policies](#npm-policies)
-* [Use of npm Open Source](#use-of-npm-open-source)
-* [Conditions](#conditions)
-* [Acceptable Use](#acceptable-use)
-* [Acceptable Content](#acceptable-content)
-* [Commercial Content](#commercial-content)
-* [Enforcement of Acceptable Use](#enforcement-of-acceptable-use)
-* [Your Account](#your-account)
-* [Your Content](#your-content)
-* [Feedback](#feedback)
-* [Indemnity](#indemnity)
-* [Disclaimers](#disclaimers)
-* [Third-Party Services](#third-party-services)
-* [Limits on Liability](#limits-on-liability)
-* [Termination](#termination)
-* [Payment Terms](#payment-terms)
-* [General Terms](#general-terms)
-* [Disputes](#disputes)
-* [Notices and Questions](#notices-and-questions)
-
 1. [Policies](https://www.npmjs.com/policies)
 2. [Open Source Terms](https://www.npmjs.com/policies/open-source-terms)
 
@@ -614,3 +588,29 @@ Attn: npm Legal Department
 San Francisco, CA. 94107
 
 npm may send you notice using the email address you provide for your Account or by posting a message to the homepage or your Account page on the Website.
+
+### Table of contents
+
+* [Important Terms](#important-terms)
+* [Other Terms](#other-terms)
+* [Legal Agreement](#legal-agreement)
+* [Changes](#changes)
+* [npm Policies](#npm-policies)
+* [Use of npm Open Source](#use-of-npm-open-source)
+* [Conditions](#conditions)
+* [Acceptable Use](#acceptable-use)
+* [Acceptable Content](#acceptable-content)
+* [Commercial Content](#commercial-content)
+* [Enforcement of Acceptable Use](#enforcement-of-acceptable-use)
+* [Your Account](#your-account)
+* [Your Content](#your-content)
+* [Feedback](#feedback)
+* [Indemnity](#indemnity)
+* [Disclaimers](#disclaimers)
+* [Third-Party Services](#third-party-services)
+* [Limits on Liability](#limits-on-liability)
+* [Termination](#termination)
+* [Payment Terms](#payment-terms)
+* [General Terms](#general-terms)
+* [Disputes](#disputes)
+* [Notices and Questions](#notices-and-questions)
