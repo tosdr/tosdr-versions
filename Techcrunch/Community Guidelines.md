@@ -180,10 +180,10 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Kindle Colorsoft](https://techcrunch.com/2024/11/04/amazon-acknowledges-screen-issues-on-a-small-number-of-kindle-colorsoft-units/)
+* [Mozilla Foundation Layoffs](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/)
 * [NYT Tech Strike](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-to-replace-striking-nyt-staff-with-ai/)
-* [ChatGPT Search](https://techcrunch.com/2024/10/31/openai-launches-its-google-challenger-chatgpt-search/)
-* [Anduril](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/)
+* [Waymo $45B Valuation](https://techcrunch.com/2024/11/05/waymos-latest-funding-round-boosts-it-to-45b-valuation/)
+* [Google In Saudi Arabia](https://techcrunch.com/2024/11/05/google-is-opening-an-ai-hub-in-oil-rich-saudi-arabia/)
 * [Apple Intelligence](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
