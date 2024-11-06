@@ -394,45 +394,45 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/149/84/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+[![Live Texas Election Results 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/texas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/texas-election-results-2024)
 
 ELECTION DAY 2024
 
-[Today is Election Day. Here’s what you need to know](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+[Live Texas Election Results 2024](https://www.fox4news.com/election/texas-election-results-2024)
 
-[The polls will open at 7 a.m. across Texas. Here's what you need to know to cast your ballot on Election Day.](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+[Election results for the 2024 Election in Texas will come in at 7 p.m. Find the races that are important to you here.](https://www.fox4news.com/election/texas-election-results-2024)
 
-[![Where to vote in Dallas County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/05/149/84/NC-voting-booth.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
-
-ELECTION DAY 2024
-
-[Where to vote in Dallas County on Election Day](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
-
-[For Election Day there will be more than 400 Vote Centers across Dallas County, providing you with multiple locations to make your voice heard. You are able to vote at any of these locations within Dallas County.](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
-
-[![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/149/84/GettyImages-1058414620-1.jpg?ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+[![Live Election Results: Dallas County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/dallas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
 
 ELECTION DAY 2024
 
-[Where to vote in Tarrant County on Election Day](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+[Live Election Results: Dallas County](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
 
-[Tarrant County registered voters on Election Day can vote at any polling location in the county from 7 a.m. until 7 p.m. See where you can vote here.](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+[Here are the results of the 2024 Election in Dallas County.](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
 
-[![Where to vote in Collin County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/149/84/GettyImages-1338949648.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-collin-county-election-day)
-
-ELECTION DAY 2024
-
-[Where to vote in Collin County on Election Day](https://www.fox4news.com/election/where-vote-collin-county-election-day)
-
-[Collin County registered voters on Election Day can vote at any polling location within Collin County from 7 a.m. until 7 p.m. Election Day is Tuesday, November 5, 2024.](https://www.fox4news.com/election/where-vote-collin-county-election-day)
-
-[![Where to vote in Denton County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/149/84/GettyImages-1206416963.jpg?ve=1&tl=1)](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+[![Live Election Results: Tarrant County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/tarrant-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
 
 ELECTION DAY 2024
 
-[Where to vote in Denton County on Election Day](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+[Live Election Results: Tarrant County](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
 
-[Denton County registered voters on Election Day can vote at their precinct polling location from 7 a.m. until 7 p.m.](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+[Here are the results of the 2024 Election in Tarrant County.](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
+
+[![Live Election Results: Collin County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/collin-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-collin-county-2024-election)
+
+ELECTION DAY 2024
+
+[Live Election Results: Collin County](https://www.fox4news.com/election/election-results-collin-county-2024-election)
+
+[Here are the results of the 2024 Election in Collin County.](https://www.fox4news.com/election/election-results-collin-county-2024-election)
+
+[![Live Election Results: Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/denton-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-denton-county-2024-election)
+
+ELECTION DAY 2024
+
+[Live Election Results: Denton County](https://www.fox4news.com/election/election-results-denton-county-2024-election)
+
+[Here are the results of the 2024 Election in Denton County.](https://www.fox4news.com/election/election-results-denton-county-2024-election)
 
 ###### [News](https://www.fox4news.com/news)
 
