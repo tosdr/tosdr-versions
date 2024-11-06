@@ -70,7 +70,7 @@ If you have any questions about our privacy policies, contact us at [info@karenw
 
 [![YouTube button](/images/youtube/youtube-button-64.png "Visit our YouTube channel")](https://www.youtube.com/c/Karenware)
 
-Downloads Today: 56  
+Downloads Today: 73  
 More than 6000 downloads monthly  
 Received $51.65 this month\* — Thanks!
 
