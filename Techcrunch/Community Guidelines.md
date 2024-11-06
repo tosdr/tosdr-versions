@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Mozilla Foundation Layoffs](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/)
+* [Elon Musk](https://techcrunch.com/2024/11/06/what-trumps-win-might-mean-for-elon-musk/)
+* [AI Regulation](https://techcrunch.com/2024/11/06/what-trumps-victory-could-mean-for-ai-regulation/)
 * [NYT Tech Strike](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-to-replace-striking-nyt-staff-with-ai/)
-* [Waymo $45B Valuation](https://techcrunch.com/2024/11/05/waymos-latest-funding-round-boosts-it-to-45b-valuation/)
-* [Google In Saudi Arabia](https://techcrunch.com/2024/11/05/google-is-opening-an-ai-hub-in-oil-rich-saudi-arabia/)
-* [Apple Intelligence](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
+* [OpenAI Acquires Chat.com](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/)
+* [Dave FTC Action](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
