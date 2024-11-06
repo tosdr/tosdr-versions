@@ -25,7 +25,17 @@
 
 [](javascript:void(0))
 
-  [![logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png) ![dark logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png) ![light logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)](https://www.firstamendment.com/)
+[![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
+
+![logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)
+
+![dark logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
+
+![dark logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)
+
+![light logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
+
+![light logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)](https://www.firstamendment.com/)
 
 [(407) 975-9150](tel:(407)%20975-9150) [Facebook](https://www.facebook.com/WebLaw) [Twitter](https://twitter.com/walterslawgroup) [Linkedin](https://www.linkedin.com/company/walters-law-group-firstamendment.com-?trk=company_logo) [Instagram](https://www.instagram.com/walterslawgroup/) [wikipedia](https://en.wikipedia.org/wiki/Lawrence_G._Walters) [YouTube](https://www.youtube.com/user/webattorney/videos) [Menu](javascript:void(0))
 
@@ -170,11 +180,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![myadultattorney](https://pbs.twimg.com/profile_images/713488698357248000/QrY7LxXt_normal.jpg)](https://twitter.com/myadultattorney)[Corey D. Silverstein, Esq.](https://twitter.com/myadultattorney) [@myadultattorney](https://twitter.com/myadultattorney) ·
 
-[17h](https://twitter.com/myadultattorney/status/1851762989990547644)
+[30 Oct](https://twitter.com/myadultattorney/status/1851762989990547644)
 
 We are about to have a new US President! So get your ticket to my newest legal impact webinar, sponsored by and join @WaltersLawGroup , @SavannahSly, @AlisonBodenFSC, @TheClaraKitty and I on November 12th at 4 PM EST here: https://www.eventbrite.com/e/we-have-a-new-us-president-legal-and-community-implications-tickets-1061785191089
 
-[Reply on Twitter 1851762989990547644](https://twitter.com/intent/tweet?in_reply_to=1851762989990547644&related=myadultattorney) [Retweet on Twitter 1851762989990547644 2](https://twitter.com/intent/retweet?tweet_id=1851762989990547644&related=myadultattorney) [Like on Twitter 1851762989990547644 5](https://twitter.com/intent/like?tweet_id=1851762989990547644&related=myadultattorney) [Twitter 1851762989990547644](https://twitter.com/myadultattorney/status/1851762989990547644)
+[Reply on Twitter 1851762989990547644](https://twitter.com/intent/tweet?in_reply_to=1851762989990547644&related=myadultattorney) [Retweet on Twitter 1851762989990547644 2](https://twitter.com/intent/retweet?tweet_id=1851762989990547644&related=myadultattorney) [Like on Twitter 1851762989990547644 7](https://twitter.com/intent/like?tweet_id=1851762989990547644&related=myadultattorney) [Twitter 1851762989990547644](https://twitter.com/myadultattorney/status/1851762989990547644)
 
 [Load More](javascript:void(0);)
 
