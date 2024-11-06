@@ -117,57 +117,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=142723773)  
-MOSELA GROUP Pty(ltd)
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=1740000)  
+Atalie Scented Candles Pty Ltd
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=126620368)  
-FlipDesign - Renovation Contracting Firm
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=50066953)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=47631557)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=105798040)  
+Wiselink Broadband Dundee
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=124407254)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=138624480)  
+Xpress Designs
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=195477825)  
-Leef in Afrikaans
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=201185113)  
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=9182064)  
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=160889195)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=173676132)  
+Skinz Printing & Branding
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=56856356)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=75863905)  
 Firstweb Hosting & Design
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=95888950)  
-TIGERDSL
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=118337158)  
+Lion Software Develepment
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=180848677)  
-Kainos (Pty) Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=71185594)  
+MSPCloud (Pty) Ltd
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=69962577)  
-Myfinance-Online
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=199737681)  
+Henry's Home Renovations
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=95319483)  
-WIP Digital Solutions
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=88537683)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=171621066)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=82210748)  
+ARCHITEK PTY LTD
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=78421047)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=54633560)  
-SLOANE STAR MEAT MARKET
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=136798871)  
-CBR Verwe/Paints
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=159947778)  
-AquariumSmiths
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=d43a32cce6a1d16057aaaa1baa2e6f71a6c8787f2ebc29b120e57c05c666e6e2&c=94915480)  
+SA Security Brokerz (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
