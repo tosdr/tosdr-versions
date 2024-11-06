@@ -1,4 +1,4 @@
-[Limited-time $1-for-$1 match on monthly gifts](https://www.edf.org/donate/?addl_info=earth-day-sf) [Donate now](https://www.edf.org/donate/?addl_info=earth-day-sf)
+[Triple your impact to protect and defend climate progress.](https://www.edf.org/donate/?addl_info=eoy-day-sf) [Donate now](https://www.edf.org/donate/?addl_info=eoy-day-sf)
 
       
 
