@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![WilliamJacob](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/5785f903744ba85238ddfd368b28cf64.thumb.jpg.3afc60cfa55f44a9f24e66a4c4ffabc1.jpg)](https://www.clubedohardware.com.br/profile/1163972-williamjacob/ "Ir ao perfil de WilliamJacob")
-        
-        0
-        
-        [Troca de NVMe 512 GB por 1TB para sistema operacional windows 11.](https://www.clubedohardware.com.br/forums/topic/1701583-troca-de-nvme-512-gb-por-1tb-para-sistema-operacional-windows-11/?do=getNewComment "Troca de NVMe 512 GB por 1TB para sistema operacional windows 11.")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [WilliamJacob](https://www.clubedohardware.com.br/profile/1163972-williamjacob/ "Ir ao perfil de WilliamJacob")  
-        2 minutos atrás
-        
-    * [![Enzo Tenuta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1229984.thumb.jpeg.08e22e0b3c3f7be0f4b37db401851c9a.jpeg)](https://www.clubedohardware.com.br/profile/1229984-enzo-tenuta/ "Ir ao perfil de Enzo Tenuta")
-        
-        0
-        
-        [Water Cooler Rise Mode Frost, RGB, 360mm](https://www.clubedohardware.com.br/forums/topic/1701582-water-cooler-rise-mode-frost-rgb-360mm/?do=getNewComment "Water Cooler Rise Mode Frost, RGB, 360mm")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Enzo Tenuta](https://www.clubedohardware.com.br/profile/1229984-enzo-tenuta/ "Ir ao perfil de Enzo Tenuta")  
-        28 minutos atrás
-        
-    * [![Karol Martins](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1156060.thumb.jpeg.641499f53e8e6f8c17793ddb821fffd3.jpeg)](https://www.clubedohardware.com.br/profile/1156060-karol-martins/ "Ir ao perfil de Karol Martins")
+    * [![yZDarK](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/IMG_20220630_183142_377.thumb.jpg.8bbeca35dc0ab53c7a84ff9a88a1e7d2.jpg)](https://www.clubedohardware.com.br/profile/1116428-yzdark/ "Ir ao perfil de yZDarK")
         
         1
         
-        [Placa de vídeo muito grande atrapalhando sata e USB 3.0 na placa-mãe matx](https://www.clubedohardware.com.br/forums/topic/1701581-placa-de-v%C3%ADdeo-muito-grande-atrapalhando-sata-e-usb-30-na-placa-m%C3%A3e-matx/?do=getNewComment "Placa de vídeo muito grande atrapalhando sata e USB 3.0 na placa-mãe matx")
+        [Em busca de um Teclado novo](https://www.clubedohardware.com.br/forums/topic/1701621-em-busca-de-um-teclado-novo/?do=getNewComment "Em busca de um Teclado novo")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [yZDarK](https://www.clubedohardware.com.br/profile/1116428-yzdark/ "Ir ao perfil de yZDarK")  
+        31 minutos atrás
+        
+    * [![Luizinn77](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255613.thumb.png.b6aa8ab4fc766533fddaed72040a1fc1.png)](https://www.clubedohardware.com.br/profile/1255613-luizinn77/ "Ir ao perfil de Luizinn77")
+        
+        1
+        
+        [Qual placa devo colocar? para um upgrade](https://www.clubedohardware.com.br/forums/topic/1701620-qual-placa-devo-colocar-para-um-upgrade/?do=getNewComment "Qual placa devo colocar?  para  um upgrade")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Karol Martins](https://www.clubedohardware.com.br/profile/1156060-karol-martins/ "Ir ao perfil de Karol Martins")  
-        38 minutos atrás
+        Por [Luizinn77](https://www.clubedohardware.com.br/profile/1255613-luizinn77/ "Ir ao perfil de Luizinn77")  
+        42 minutos atrás
         
-    * [![robertoros](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255595.thumb.png.3e7c7f566cc64c752ba220daeeab1124.png)](https://www.clubedohardware.com.br/profile/1255595-robertoros/ "Ir ao perfil de robertoros")
+    * [![Pedrão09098](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255598.thumb.jpeg.cf96d795006b69b137371a33cd987cdf.jpeg)](https://www.clubedohardware.com.br/profile/1255598-pedr%C3%A3o09098/ "Ir ao perfil de Pedrão09098")
+        
+        1
+        
+        [NVMe não aparece na BIOS](https://www.clubedohardware.com.br/forums/topic/1701619-nvme-n%C3%A3o-aparece-na-bios/?do=getNewComment "NVMe não aparece na BIOS")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Pedrão09098](https://www.clubedohardware.com.br/profile/1255598-pedr%C3%A3o09098/ "Ir ao perfil de Pedrão09098")  
+        42 minutos atrás
+        
+    * [![mpmp](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c46e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255611-mpmp/ "Ir ao perfil de mpmp")
         
         0
         
-        [memória RAM PARA DE FUNCIONAR UM LADO](https://www.clubedohardware.com.br/forums/topic/1701580-mem%C3%B3ria-ram-para-de-funcionar-um-lado/?do=getNewComment "memória RAM PARA DE FUNCIONAR UM LADO")
+        [Conector PWM derreteu, o que fazer?](https://www.clubedohardware.com.br/forums/topic/1701618-conector-pwm-derreteu-o-que-fazer/?do=getNewComment "Conector PWM derreteu, o que fazer?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [mpmp](https://www.clubedohardware.com.br/profile/1255611-mpmp/ "Ir ao perfil de mpmp")  
+        1 hora atrás
+        
+    * [![HenryTeo](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/imported-photo-1175857.thumb.jpeg.a2f71b8c460ee63547215dc0b995d825.jpeg)](https://www.clubedohardware.com.br/profile/1175857-henryteo/ "Ir ao perfil de HenryTeo")
+        
+        0
+        
+        [Processador para Biostar B650MT](https://www.clubedohardware.com.br/forums/topic/1701617-processador-para-biostar-b650mt/?do=getNewComment "Processador para Biostar B650MT")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [HenryTeo](https://www.clubedohardware.com.br/profile/1175857-henryteo/ "Ir ao perfil de HenryTeo")  
+        1 hora atrás
+        
+    * [![jhonny_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247083.thumb.jpeg.05bf751de10986f200ebc711739a5b5a.jpeg)](https://www.clubedohardware.com.br/profile/1247083-jhonny_/ "Ir ao perfil de jhonny_")
+        
+        4
+        
+        [Monitor Até 1000 R$](https://www.clubedohardware.com.br/forums/topic/1701616-monitor-at%C3%A9-1000-r/?do=getNewComment "Monitor Até 1000 R$")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [jhonny\_](https://www.clubedohardware.com.br/profile/1247083-jhonny_/ "Ir ao perfil de jhonny_")  
+        1 hora atrás
+        
+    * [![Marcelo Barros oficial](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255610.thumb.jpeg.5bb3405359e991629a2edd446cf31a34.jpeg)](https://www.clubedohardware.com.br/profile/1255610-marcelo-barros-oficial/ "Ir ao perfil de Marcelo Barros oficial")
+        
+        0
+        
+        [QUAL A memória IDEAL PARA placa-mãe DUEX LGA 1150 DDR3 DX H81ZG-M2??](https://www.clubedohardware.com.br/forums/topic/1701615-qual-a-mem%C3%B3ria-ideal-para-placa-m%C3%A3e-duex-lga-1150-ddr3-dx-h81zg-m2/?do=getNewComment "QUAL A memória IDEAL PARA placa-mãe DUEX LGA 1150 DDR3 DX H81ZG-M2??")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [robertoros](https://www.clubedohardware.com.br/profile/1255595-robertoros/ "Ir ao perfil de robertoros")  
+        Por [Marcelo Barros oficial](https://www.clubedohardware.com.br/profile/1255610-marcelo-barros-oficial/ "Ir ao perfil de Marcelo Barros oficial")  
         1 hora atrás
         
-    * [![Busnello](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236294c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/632852-busnello/ "Ir ao perfil de Busnello")
+    * [![hannigram](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/slayqueen(1)(1).thumb.png.5a43ea71ae7f19224f760acc3c128e93.png)](https://www.clubedohardware.com.br/profile/1255609-hannigram/ "Ir ao perfil de hannigram")
         
-        3
+        0
         
-        [Notebook novo até R$ 2.000,00](https://www.clubedohardware.com.br/forums/topic/1701579-notebook-novo-at%C3%A9-r-200000/?do=getNewComment "Notebook novo até R$ 2.000,00")
+        [Recuperação de arquivos de um HD que não é reconhecido](https://www.clubedohardware.com.br/forums/topic/1701614-recupera%C3%A7%C3%A3o-de-arquivos-de-um-hd-que-n%C3%A3o-%C3%A9-reconhecido/?do=getNewComment "Recuperação de arquivos de um HD que não é reconhecido")
         
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Busnello](https://www.clubedohardware.com.br/profile/632852-busnello/ "Ir ao perfil de Busnello")  
+        [Recuperação de dados](https://www.clubedohardware.com.br/forums/forum/254-recupera%C3%A7%C3%A3o-de-dados/ "Recuperação de dados")  
+        Por [hannigram](https://www.clubedohardware.com.br/profile/1255609-hannigram/ "Ir ao perfil de hannigram")  
         1 hora atrás
         
-    * [![Alyson J](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249657.thumb.png.328b9e04e0316f30c51471fb0483f825.png)](https://www.clubedohardware.com.br/profile/1249657-alyson-j/ "Ir ao perfil de Alyson J")
+    * [![SergioP](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1096935.thumb.jpeg.d3630fa85239c0ace53a1d0c60e80125.jpeg)](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")
         
-        3
+        0
         
-        [upgrade na cpu ou risco em overclock?](https://www.clubedohardware.com.br/forums/topic/1701578-upgrade-na-cpu-ou-risco-em-overclock/?do=getNewComment "upgrade na cpu ou risco em overclock?")
+        [Memória Corsair 3200mhz e boa latência, faz diferença?](https://www.clubedohardware.com.br/forums/topic/1701612-mem%C3%B3ria-corsair-3200mhz-e-boa-lat%C3%AAncia-faz-diferen%C3%A7a/?do=getNewComment "Memória Corsair 3200mhz e boa latência, faz diferença?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Alyson J](https://www.clubedohardware.com.br/profile/1249657-alyson-j/ "Ir ao perfil de Alyson J")  
-        1 hora atrás
-        
-    * [![Wonjong](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/Screenshot_30.thumb.png.6cea6af843e96af9849067d5fef412ab.png)](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")
-        
-        2
-        
-        [Essa montagem dá certo?](https://www.clubedohardware.com.br/forums/topic/1701577-essa-montagem-d%C3%A1-certo/?do=getNewComment "Essa montagem dá certo?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Wonjong](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")  
-        1 hora atrás
-        
-    * [![saiborgu](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1241118-saiborgu/ "Ir ao perfil de saiborgu")
-        
-        3
-        
-        [Melhor fonte pra PC Ryzen 5 4600G](https://www.clubedohardware.com.br/forums/topic/1701576-melhor-fonte-pra-pc-ryzen-5-4600g/?do=getNewComment "Melhor fonte pra PC Ryzen 5 4600G")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [saiborgu](https://www.clubedohardware.com.br/profile/1241118-saiborgu/ "Ir ao perfil de saiborgu")  
-        1 hora atrás
-        
-    * [![Nelson Kheijy Yamashita](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-710147.jpg)](https://www.clubedohardware.com.br/profile/710147-nelson-kheijy-yamashita/ "Ir ao perfil de Nelson Kheijy Yamashita")
-        
-        1
-        
-        [Configuração PC arquitetura até R$3.500,00](https://www.clubedohardware.com.br/forums/topic/1701575-configura%C3%A7%C3%A3o-pc-arquitetura-at%C3%A9-r350000/?do=getNewComment "Configuração PC arquitetura até R$3.500,00")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Nelson Kheijy Yamashita](https://www.clubedohardware.com.br/profile/710147-nelson-kheijy-yamashita/ "Ir ao perfil de Nelson Kheijy Yamashita")  
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [SergioP](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")  
         2 horas atrás
         
-    * [![Luiz Lucas 73](https://www.clubedohardware.com.br/uploads/members/monthly_2022_10/clube.thumb.jpg.33a894d7f84d50fef46718ceb5227d71.jpg)](https://www.clubedohardware.com.br/profile/1067408-luiz-lucas-73/ "Ir ao perfil de Luiz Lucas 73")
+    * [![josino Neto](https://www.clubedohardware.com.br/uploads/members/monthly_2021_05/imported-photo-1155705.thumb.png.e98654ebf2b31665cd55e4eddf822bd5.png)](https://www.clubedohardware.com.br/profile/1155705-josino-neto/ "Ir ao perfil de josino Neto")
         
-        1
+        0
         
-        [Conversar online em vídeo é perigoso?](https://www.clubedohardware.com.br/forums/topic/1701574-conversar-online-em-v%C3%ADdeo-%C3%A9-perigoso/?do=getNewComment "Conversar online em vídeo é perigoso?")
+        [Engrenagem Epson L5290 - Caio do Scaner e não sei da onde é!](https://www.clubedohardware.com.br/forums/topic/1701611-engrenagem-epson-l5290-caio-do-scaner-e-n%C3%A3o-sei-da-onde-%C3%A9/?do=getNewComment "Engrenagem Epson L5290 - Caio do Scaner e não sei da onde é!")
         
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [Luiz Lucas 73](https://www.clubedohardware.com.br/profile/1067408-luiz-lucas-73/ "Ir ao perfil de Luiz Lucas 73")  
+        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
+        Por [josino Neto](https://www.clubedohardware.com.br/profile/1155705-josino-neto/ "Ir ao perfil de josino Neto")  
         2 horas atrás
         
     
@@ -268,7 +268,7 @@ Política de privacidade
         
         [Vídeo](https://www.clubedohardware.com.br/artigos/video/ "Vídeo")  
         Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")  
-        20 horas atrás
+        segunda-feira às 23:04
         
     * ![Tabela comparativa dos chips GeForce da NVIDIA (notebooks)](https://www.clubedohardware.com.br/uploads/cms/monthly_2023_04/36351_icone.thumb.jpg.9600505388de928d543e36160574c511.jpg "Tabela comparativa dos chips GeForce da NVIDIA (notebooks)")
         
@@ -278,7 +278,7 @@ Política de privacidade
         
         [Vídeo](https://www.clubedohardware.com.br/artigos/video/ "Vídeo")  
         Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")  
-        20 horas atrás
+        segunda-feira às 22:54
         
     * ![Tabela comparativa dos chips Radeon da AMD (notebooks)](https://www.clubedohardware.com.br/uploads/cms/monthly_2024_03/36443_icone.thumb.jpg.282dc0932c52c6fb2cff7c4fb1218a3e.jpg "Tabela comparativa dos chips Radeon da AMD (notebooks)")
         
