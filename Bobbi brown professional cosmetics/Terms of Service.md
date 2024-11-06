@@ -296,8 +296,6 @@ Special offers
 
  [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
 
- [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
-
 Explore Explore
 
 Close
