@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
+* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
     
-    New Releases
+    Children’s & YA Books That Celebrate Native American Heritage
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
-
-* * *
-
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
-    
-    Join Our Authors for Upcoming Events
-    
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     Books Bans Are on the Rise in America
     
     Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+    
+    How To Read More in 2024
+    
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * <
     
