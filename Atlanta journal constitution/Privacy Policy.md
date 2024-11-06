@@ -1,4 +1,4 @@
-[Breaking: Most polls in Georgia have closed; voters split equally over Harris and Trump, according to AP survey](https://www.ajc.com/politics/election/georgia-election-live-updates-most-polls-have-closed-election-results-coming-in/UWOLNGNA4JHGPHGCDPL5R35KYM/)
+[Breaking: Flipped back: Trump recaptures Georgia four years after losing the battleground state](https://www.ajc.com/politics/flipped-back-trump-recaptures-georgia-four-years-after-losing-the-battleground-state/NEDAISGHABHYRO2FVYGVPIXPPA/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1792)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1792)](https://www.ajc.com/)
 
