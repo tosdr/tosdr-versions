@@ -1,73 +1,46 @@
 [](https://www.rainforest-alliance.org/ "Home")
 
-[For Individuals](https://www.rainforest-alliance.org/)
+[Give](https://give.rainforest-alliance.org/give/291977/#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav)
 
-[For Business](https://www.rainforest-alliance.org/business)
-
-* Search for:   
-    
-* [About](https://www.rainforest-alliance.org/about/)
-* [Knowledge Hub](https://knowledge.rainforest-alliance.org/)
-* [The Latest](https://www.rainforest-alliance.org/resource/latest/)
-* English
+* [Our Work](https://www.rainforest-alliance.org/our-work/)
+* [Get Involved](https://www.rainforest-alliance.org/get-involved/)
+* [Learn](https://www.rainforest-alliance.org/learn/)
+* [For Business](#)
+    * * Certification
+        * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/mmseal-thumb.jpg.optimal.jpg)
+            * [Certification Program](https://www.rainforest-alliance.org/for-business/2020-certification-program/)Designed to deliver most value to the farmers and companies that use Rainforest Alliance Certification.
+    * * [More about...](#)
+        * [Our Commodities](https://rainforest-alliance.org/commodity)
+        * [Tailored Services](https://rainforest-alliance.org/business/tailored-services/)
+        * [Marketing Sustainability](https://rainforest-alliance.org/business/marketing-sustainability/)
+        * [For Partners](https://rainforest-alliance.org/resources-for-partners/)
+        
+        * [Why Certification?](https://rainforest-alliance.org/why-certification/)
+        * Considering getting certified? Learn how Rainforest Alliance certification can help people, nature, and your business
+        * [Learn more](https://rainforest-alliance.org/why-certification/)
+        
+        [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
+        * WHAT OUR SEAL MEANS  
+            The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
+* en
     * [Español](https://www.rainforest-alliance.org/es/politica-de-privacidad/)
     * [Deutsch](https://www.rainforest-alliance.org/de/datenschutzbestimmungen/)
     * [Français](https://www.rainforest-alliance.org/fr/politique-de-confidentialite/)
     * [Indonesia](https://www.rainforest-alliance.org/id/kebijakan-privasi/)
     * [日本語](https://www.rainforest-alliance.org/ja/privacy-policy/)
     * [Português](https://www.rainforest-alliance.org/pt-br/politica-de-privacidade/)
-
-* Search for:   
+* [Give](https://give.rainforest-alliance.org/give/291977/#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav)
+* Search for:  
     
 
-[For Individuals](#)
+* Search for:  
+    
+* [Our Work](https://www.rainforest-alliance.org/our-work/)
+* [Get Involved](https://www.rainforest-alliance.org/get-involved/)
+* [Learn](https://www.rainforest-alliance.org/learn/)
 
-[For Business](#)
-
-* [For Individuals](#)
-    * [Donate](https://give.rainforest-alliance.org/give/291977/#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav)
-    * [What We're Doing](#)
-        * * What We're Doing
-            * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/measuring-water-quality-Rwanda_thumb.jpg.optimal.jpg)
-                * [Our Impacts](https://www.rainforest-alliance.org/impact/)See the positive change our work is making around the world
-                
-                * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/drc-tree-canopy-thumb.jpg.optimal.jpg)
-                * [Our Approach](https://www.rainforest-alliance.org/approach/)Restoring the balance between people and nature so they both thrive in harmony
-        * * [Issues](https://www.rainforest-alliance.org/issues/)
-            * [Forests & Biodiversity](https://www.rainforest-alliance.org/issues/forests/)
-            * [Livelihoods](https://www.rainforest-alliance.org/issues/human-rights/)
-            * [Climate](https://www.rainforest-alliance.org/issues/climate/)
-            * [Human Rights](https://www.rainforest-alliance.org/issues/livelihoods/)
-            
-            * [Regions](https://www.rainforest-alliance.org/regions/)
-            * [Asia](https://www.rainforest-alliance.org/regions/asia/)
-            * [East Africa](https://www.rainforest-alliance.org/regions/east-africa/)
-            * [West & Central Africa](https://www.rainforest-alliance.org/regions/west-central-africa/)
-            * [South America](https://www.rainforest-alliance.org/regions/south-america/)
-            * [Central America & Mexico](https://www.rainforest-alliance.org/regions/central-america-mexico/)
-            
-            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
-            * WHAT OUR SEAL MEANS  
-                The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
-    * [What You Can Do](#)
-        * * What You Can Do
-            * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/amazon-rainforest-thumb.jpg.optimal.jpg)
-                * [Support Our Work](https://www.rainforest-alliance.org/support/)Protect rainforests, fight climate change, and improve livelihoods.
-        * * [Everyday Actions](https://rainforest-alliance.org/everyday-actions)
-            * [Find the Frog](https://rainforest-alliance.org/find-certified)
-            * [School Curricula](https://rainforest-alliance.org/environmental-curriculum/)
-            * [Kids Games & Activities](https://rainforest-alliance.org/resource/kids/)
-            * [Shop to Support](https://shoprainforestalliance.org/)
-            
-            * [FOR BUSINESS](https://rainforest-alliance.org/for-business)
-            * [Transform your business practices](https://rainforest-alliance.org/for-business)
-            
-            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
-            * WHAT OUR SEAL MEANS  
-                The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
 * [For Business](#)
-    * [Work With Us](#)
-    * [Certification](#)
+    * [For Business](#)
         * * Certification
             * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/mmseal-thumb.jpg.optimal.jpg)
                 * [Certification Program](https://www.rainforest-alliance.org/for-business/2020-certification-program/)Designed to deliver most value to the farmers and companies that use Rainforest Alliance Certification.
@@ -84,13 +57,7 @@
             [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
             * WHAT OUR SEAL MEANS  
                 The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
-    * [Tailored Services](https://www.rainforest-alliance.org/business/tailored-services/)
-    * [Marketing Sustainability](https://www.rainforest-alliance.org/business/marketing-sustainability/)
-    * [For Partners](https://www.rainforest-alliance.org/resources-for-partners/)
-* [Seal](https://www.rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
-* [About Us](https://www.rainforest-alliance.org/about/)
-* [The Latest](https://www.rainforest-alliance.org/resource/latest/)
-* [Knowledge Hub](https://knowledge.rainforest-alliance.org/)
+* [Seal](#)
 * English
     * [Español](https://www.rainforest-alliance.org/es/politica-de-privacidad/)
     * [Deutsch](https://www.rainforest-alliance.org/de/datenschutzbestimmungen/)
@@ -98,47 +65,6 @@
     * [Indonesia](https://www.rainforest-alliance.org/id/kebijakan-privasi/)
     * [日本語](https://www.rainforest-alliance.org/ja/privacy-policy/)
     * [Português](https://www.rainforest-alliance.org/pt-br/politica-de-privacidade/)
-
-* [What We're Doing](#)
-    * * What We're Doing
-        * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/measuring-water-quality-Rwanda_thumb.jpg.optimal.jpg)
-            * [Our Impacts](https://www.rainforest-alliance.org/impact/)See the positive change our work is making around the world
-            
-            * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/drc-tree-canopy-thumb.jpg.optimal.jpg)
-            * [Our Approach](https://www.rainforest-alliance.org/approach/)Restoring the balance between people and nature so they both thrive in harmony
-    * * [Issues](https://www.rainforest-alliance.org/issues/)
-        * [Forests & Biodiversity](https://www.rainforest-alliance.org/issues/forests/)
-        * [Livelihoods](https://www.rainforest-alliance.org/issues/human-rights/)
-        * [Climate](https://www.rainforest-alliance.org/issues/climate/)
-        * [Human Rights](https://www.rainforest-alliance.org/issues/livelihoods/)
-        
-        * [Regions](https://www.rainforest-alliance.org/regions/)
-        * [Asia](https://www.rainforest-alliance.org/regions/asia/)
-        * [East Africa](https://www.rainforest-alliance.org/regions/east-africa/)
-        * [West & Central Africa](https://www.rainforest-alliance.org/regions/west-central-africa/)
-        * [South America](https://www.rainforest-alliance.org/regions/south-america/)
-        * [Central America & Mexico](https://www.rainforest-alliance.org/regions/central-america-mexico/)
-        
-        [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
-        * WHAT OUR SEAL MEANS  
-            The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
-* [What You Can Do](#)
-    * * What You Can Do
-        * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/amazon-rainforest-thumb.jpg.optimal.jpg)
-            * [Support Our Work](https://www.rainforest-alliance.org/support/)Protect rainforests, fight climate change, and improve livelihoods.
-    * * [Everyday Actions](https://rainforest-alliance.org/everyday-actions)
-        * [Find the Frog](https://rainforest-alliance.org/find-certified)
-        * [School Curricula](https://rainforest-alliance.org/environmental-curriculum/)
-        * [Kids Games & Activities](https://rainforest-alliance.org/resource/kids/)
-        * [Shop to Support](https://shoprainforestalliance.org/)
-        
-        * [FOR BUSINESS](https://rainforest-alliance.org/for-business)
-        * [Transform your business practices](https://rainforest-alliance.org/for-business)
-        
-        [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
-        * WHAT OUR SEAL MEANS  
-            The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
-* [Donate](https://give.rainforest-alliance.org/give/291977/#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav)
 
 Privacy Policy
 ==============
@@ -368,7 +294,7 @@ general or business(Required)
 
  Send me business updates
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
