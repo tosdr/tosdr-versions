@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
+Harry Potter’s middle name is James, Hermione Granger’s is Jean, Ginny Weasley’s is Molly – after her mother – and poor old Ron Weasley’s is Bilius.
 
 ### Potter History
 
-January 3, 2006 – Harry Potter and the Goblet of Fire was named the highest-earning film internationally for 2005. It earned $850 million.
+July 16, 2005 – Harry Potter and the Half-Blood Prince book is released internationally in English to the delight of Harry Potter fans everywhere.
 
 ### Potter Quote
 
-“Cedric was a person who exemplified many of the qualities that distinguish Hufflepuff house. He was a good and loyal friend, a hard worker, he valued fair play. His death has affected you all, whether you knew him well or not. I think that you have the right, therefore, to know exactly how it came about. \[…\] Cedric Diggory was murdered by Lord Voldemort.”
+“Are you insane? Of course I want to leave the Dursleys! Have you got a house? When can I move in?”
 
 [](#)
 
