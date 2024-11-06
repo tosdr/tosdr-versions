@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🐳 14,109 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
+🐳 12,957 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
 
 [![Atari 7800+](https://www.mobygames.com/static/img/7800__1180x90.03241eff.jpg)](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
 
