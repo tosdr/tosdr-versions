@@ -118,16 +118,16 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Larry Ellison: Billionaire Samurai Warrior of Silicon Valley](/wp-content/thumbnails/12955-100x70.jpg?x53432)
+* [![The Hungerford Massacre](/wp-content/thumbnails/8722-100x70.jpg?x53432)
     
-    Larry Ellison: Billionaire Samurai Warrior of Silicon Valley
+    The Hungerford Massacre
     
-    He is considered to be the Samurai Warrior of Silicon Valley, due to way in which he goes to battle with any competition. Larry Ellison started Oracle Software over 30 years ago and it has made him th](https://documentaryheaven.com/larry-ellison-billionaire-samurai-warrior-silicon-valley/ "Larry Ellison: Billionaire Samurai Warrior of Silicon Valley")
-* [![Derek Tastes of Ear Wax](/wp-content/thumbnails/226-100x70.png?x53432)
+    On a summers day in 1987, a quite English town became the victim of a one man killing spree. Scenes shown in this film reconstruct events based on the eye witness accounts of those who were involved.](https://documentaryheaven.com/hungerford-massacre/ "The Hungerford Massacre")
+* [![The Manhattan Project](/wp-content/thumbnails/321-100x70.png?x53432)
     
-    Derek Tastes of Ear Wax
+    The Manhattan Project
     
-    This documentary looks at the fact that perhaps one in every hundred people experiences a blending of the senses.Imagine if every time you saw someone called Derek you got a strong taste of earwax](https://documentaryheaven.com/derek-tastes-of-ear-wax/ "Derek Tastes of Ear Wax")
-* [![Putin, Russia and The West](/wp-content/thumbnails/6445-100x70.png?x53432)
+    In a race against the Nazis to develop an atomic bomb, the USA assigned leading scientists like Albert Einstein from all over the world to The Manhattan Project, an incredible scientific, engineering](https://documentaryheaven.com/the-manhattan-project/ "The Manhattan Project")
+* [![Lovecraft: Fear of the Unknown](/wp-content/thumbnails/7063-100x70.jpg?x53432)
     
-    Putin, Russia and The West
+    Lovecraft: Fear of the Unknown
     
-    Taking Control Vladimir Putin, after eight years as president of Russia and four more as prime minister, is stubbornly holding onto power. He has announced his intention to return as president and dec](https://documentaryheaven.com/putin-russia-and-the-west/ "Putin, Russia and The West")
-* [![DPRK: The Land of Whispers](/wp-content/thumbnails/7061-100x70.jpg?x53432)
+    H.P. Lovecraft was the forefather of modern horror fiction. He inspired writers such as Stephen King, Robert Bloch and Neil Gaiman, but what lead an Old World, xenophobic gentleman to create one of li](https://documentaryheaven.com/lovecraft-fear-of-the-unknown/ "Lovecraft: Fear of the Unknown")
+* [![Inside Britain’s Fattest Man](/wp-content/thumbnails/13826-100x70.jpg?x53432)
     
-    DPRK: The Land of Whispers
+    Inside Britain’s Fattest Man
     
-    North Korea lies somewhere between a 1930′s Soviet Union frozen in time and a dark, futuristic vision of society… as imagined back in the 70′s.Land of Whispers invites you to visit arguably the mo](https://documentaryheaven.com/dprk-the-land-of-whispers/ "DPRK: The Land of Whispers")
-* [![Evidently… John Cooper Clarke](/wp-content/thumbnails/16518-100x70.jpg?x53432)
+    At the dawn of the 21st century there is one last unexplored territory on Earth, it's a place of awesome spectacle, unseen horrors and terrifying life and death battles between man and nature, where i](https://documentaryheaven.com/inside-britains-fattest-man/ "Inside Britain’s Fattest Man")
+* [![The Drugging of Our Children](/wp-content/thumbnails/1858-100x70.jpg?x53432)
     
-    Evidently… John Cooper Clarke
+    The Drugging of Our Children
     
-    John Cooper Clarke is an English performance poet, who first became famous as a "punk poet" in the late 1970s. This documentary film is a celebration of his life and works, examining his life as a po](https://documentaryheaven.com/evidently-john-cooper-clarke/ "Evidently… John Cooper Clarke")
+    In the absence of any objective medical tests to determine who has ADD or ADHD, doctors rely in part on standardized assessments and the impressions of teachers and guardians while the they administer](https://documentaryheaven.com/the-drugging-of-our-children/ "The Drugging of Our Children")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
