@@ -1,4 +1,4 @@
-[](https://lp.bayclubs.com/1daypass-2/)
+[](https://www.proclub.com/club/join/schedule-a-tour)
 
 [](https://www.proclub.com/club)
 
