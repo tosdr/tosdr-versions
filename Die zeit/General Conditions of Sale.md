@@ -108,8 +108,6 @@ Anzeigen
     * Hell
     * Dunkel
 
-[**Eilmeldung** 14:02 Uhr Sondierungen von CDU, SPD und BSW in Sachsen gescheitert](https://www.zeit.de/politik/deutschland/2024-11/sondierungen-von-cdu-spd-und-bsw-in-sachsen-gescheitert)
-
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
 
