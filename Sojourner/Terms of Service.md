@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3665b80af74aab7fa6358ab632a2b1b1
+974436890d64c7c9996411a7bdc73d2f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Single oval amethyst clasp](https://sojourner.biz/images/cache/SKU0070front.200.jpg)](https://sojourner.biz/clasps/semi-precious/single-oval-amethyst-clasp.html "Single oval amethyst clasp")
+[![8 mm by 5 mm oval Czech glass beads](https://sojourner.biz/images/cache/glass/GL0307.200.jpg)](https://sojourner.biz/beads/glass/8-mm-by-5-mm-oval-czech-glass-beads.html "8 mm by 5 mm oval Czech glass beads")
 
-#### [Single oval amethyst clasp](https://sojourner.biz/clasps/semi-precious/single-oval-amethyst-clasp.html "Single oval amethyst clasp")
+#### [8 mm by 5 mm oval Czech glass beads](https://sojourner.biz/beads/glass/8-mm-by-5-mm-oval-czech-glass-beads.html "8 mm by 5 mm oval Czech glass beads")
 
-$23.00
+$4.00
 
 ### Best Sellers
 
@@ -162,14 +162,14 @@ $23.00
     $28.00
 6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Electric yellow Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/electric-yellow-swarovski-polka-dot-clasp.html "Electric yellow Swarovski polka dot clasp")  
-    $15.00
+10. [2 mm amethyst round beads](https://sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
+    $10.00
 
 [Top](#)
 
