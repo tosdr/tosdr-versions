@@ -30,9 +30,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![INSIDE SCOOP WEBINAR: Measuring ROI and Impact with Data in Drive-to-Store Advertising](https://illumin.com/wp-content/uploads/2024/11/illumin_InsideScoop-Blog-1-263x300.png)
+    * ![Brand Innovators Marketing Leadership Summit at Advertising Week 2024](https://illumin.com/wp-content/uploads/2024/11/BI-event-1-263x300.jpg)
         
-        INSIDE SCOOP WEBINAR: Measuring ROI and Impact with Data in Drive-to-Store Advertising[Read More](https://illumin.com/insights/podcasts-webinars/webinar-measuring-roi-impact-data-drive-store-ads/)
+        Brand Innovators Marketing Leadership Summit at Advertising Week 2024[Read More](https://illumin.com/insights/events/bi-marketing-leadership-summit-at-advertising-week-2024/)
         
 * [Company](#)
     * [Company](#)
