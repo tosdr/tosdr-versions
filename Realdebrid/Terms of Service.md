@@ -42,6 +42,6 @@ If our website was inaccessible over a period of more than 10 minutes per week t
 
 Language: [**![English (US)](https://fcdn.real-debrid.com/0830/images/flags/en.gif) English (US)**](#) [...](https://real-debrid.com/ajax/lang.php)
 
-© 2009-2024 Real-Debrid, All Rights Reserved - [Privacy Policy](https://real-debrid.com/privacy) - [Legal](https://real-debrid.com/legal) - [Terms Of Services](https://real-debrid.com/terms)B4 (121.83ms)
+© 2009-2024 Real-Debrid, All Rights Reserved - [Privacy Policy](https://real-debrid.com/privacy) - [Legal](https://real-debrid.com/legal) - [Terms Of Services](https://real-debrid.com/terms)B6 (51.48ms)
 
 [](http://twitter.com/RealDebrid)[](http://www.facebook.com/realdeb)
