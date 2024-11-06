@@ -3,7 +3,7 @@
 [BILD Logo](https://www.bild.de/)
 
 * [Bild-KI](https://bild.de/hey-ki-helfer)
-* [Infos zu BILDplus](https://angebot.bild.de/50cent/)
+* [Infos zu BILDplus](https://angebot.bild.de/info/)
 * [Wetter IconWetter](https://www.bild.de/wetter)
 * [Video IconVideo & Audio](https://www.bild.de/video/mediathek/video/bild-live-71144736.bild.html)
 * [Marktplatz](https://marktplatz.bild.de/)
@@ -207,25 +207,25 @@ Menü
 
 [BreakingNews
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
+CNN meldet: Donald Trump Wahlsieger! Trumpback!
 
-Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab](https://www.bild.de/politik/ausland-und-internationales/trump-gegen-harris-der-wahlkampf-in-den-usa-im-liveticker-672348a1f7653a077c0e8a27)
+CNN meldet: Donald Trump Wahlsieger! Trumpback!](https://www.bild.de/politik/ausland-und-internationales/us-wahlen-trump-fuehrt-in-allen-entscheidenden-staaten-672ae6f1ebdb8724738e9d89)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
