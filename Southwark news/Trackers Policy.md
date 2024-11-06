@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
+    
+    ### [Bakerloo Line extension on the slow track to nowhere](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
+    
     [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
     
     ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
@@ -52,11 +56,6 @@
     [![Councillor Ian Edwards, London Councils’ executive member for children and young people](https://southwarknews.co.uk/wp-content/uploads/2024/11/Councillor-Ian-Edwards-e1730806255754-200x180.jpg)](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
     
     ### [Children with special educational needs and disabilities are being failed, a new report has warned](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
-    
-    [![CGI of Lewisham Shopping Centre redevelopment. Lewisham High Street in foreground. 
-    Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/CGI-of-Lewisham-Shopping-Centre-redevelopment-3-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
-    
-    ### [New photos show how Lewisham town centre will be changed forever](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
+    
+    ### [Bakerloo Line extension on the slow track to nowhere](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
+    
     [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
     
     ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
@@ -139,11 +142,6 @@ View All Result
     [![Councillor Ian Edwards, London Councils’ executive member for children and young people](https://southwarknews.co.uk/wp-content/uploads/2024/11/Councillor-Ian-Edwards-e1730806255754-200x180.jpg)](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
     
     ### [Children with special educational needs and disabilities are being failed, a new report has warned](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
-    
-    [![CGI of Lewisham Shopping Centre redevelopment. Lewisham High Street in foreground. 
-    Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/CGI-of-Lewisham-Shopping-Centre-redevelopment-3-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
-    
-    ### [New photos show how Lewisham town centre will be changed forever](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
