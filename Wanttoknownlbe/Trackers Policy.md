@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/een-meesterwerk-de-voedingswijzer/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/drinkwaterklachten-dan-ben-je-een-terrorist/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
