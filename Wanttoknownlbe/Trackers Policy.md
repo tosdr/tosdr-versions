@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/het-doel-van-de-wereldwijde-valse-vlag-operaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/gaat-mewe-facebook-ten-onder-brengen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
