@@ -1,3 +1,12 @@
+[Skip to main content](#main)
+
+[](https://www.itpro.tv/itpro/)
+
+Site navigation
+---------------
+
+[For Businesses](https://www.itpro.tv/)[For Individuals](https://www.itpro.tv/itpro/)
+
 ![ITPro logo](/static/8181d915d7f21bcb1482e893bffd0111/itpro_logo_831fcd69b8.svg)
 
 Video on-demand IT training courses & labs
