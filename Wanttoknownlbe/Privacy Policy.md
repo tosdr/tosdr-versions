@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/de-idiote-cijfers-achter-911-of-toch-niet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/kerstboodschap-marcel-messing/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
