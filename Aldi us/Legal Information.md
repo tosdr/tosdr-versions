@@ -219,6 +219,8 @@ Shopping List
         
     * [Thanksgiving](https://www.aldi.us/products/thanksgiving/ "From turkey to delicious sides & desserts, we’ve got everything you need to get ready for Thanksgiving. Save on Thanksgiving essentials when you shop at ALDI.  ")
         
+    * [Holiday](https://www.aldi.us/products/holiday/ "Get holly and jolly for the Holiday season. View recipe ideas and assemble your Holiday grocery list and find dinner, side dishes, desserts and more at your local ALDI.  ")
+        
     * [BBQ & Picnic](https://www.aldi.us/products/bbq-picnic/ "Dive into spring and summer with ALDI’s barbecue and picnic essentials! Browse our finest selection of meats, fresh produce and sides for your outdoor feast.")
         
     * [Game Day Favorites](https://www.aldi.us/products/game-day/ "Get ready for game day by shopping for all your favorite snacks at ALDI. We offer a wide variety of nachos, dips, pizza and more at a great price. ")
