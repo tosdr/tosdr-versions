@@ -455,6 +455,7 @@ Company Statements
 * [Brexit Statement](https://www.theaccessgroup.com/en-gb/about/brexit-statement/)
 * [Accessibility Statement](https://www.theaccessgroup.com/en-gb/accessibility-statement/)
 * [Director’s Statement on Section 172](https://www.theaccessgroup.com/en-gb/director-s-statement-on-section-172/)
+* [Supplier Code of Conduct](https://pages.theaccessgroup.com/Access-Supplier-Code-of-Conduct.html)
 
 About Access
 
