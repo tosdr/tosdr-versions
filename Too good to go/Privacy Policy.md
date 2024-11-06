@@ -6,11 +6,11 @@
 
 Download the App
 
-[Business sign-up](https://store.toogoodtogo.com/onboarding?cookie_consent=false&locale=en-us "Business sign-up")
+[Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
 Download the App
 
-[Business sign-up](https://store.toogoodtogo.com/onboarding?cookie_consent=false&locale=en-us "Business sign-up")
+[Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
 Download the App
 
@@ -18,11 +18,11 @@ Download the App
 
 Download the App
 
-[Business sign-up](https://store.toogoodtogo.com/onboarding?cookie_consent=false&locale=en-us "Business sign-up")
+[Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
 Download the App
 
-[Business sign-up](https://store.toogoodtogo.com/onboarding?cookie_consent=false&locale=en-us "Business sign-up")
+[Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
 Download the App
 
@@ -82,7 +82,7 @@ Download our Impact Report and learn about how our collective efforts have made 
 
 Download now
 
-![](https://cdn.sanity.io/images/nqimd3nr/production/c20302e14c2a56d397ee8cd6f1fb94d672d4a190-1458x1458.png?w=133&h=133&fit=max&auto=format)](https://cdn.sanity.io/files/nqimd3nr/production/fa4075717ba03b510e4f0b29aca8f83dd19fda76.pdf?cookie_consent=false&locale=en-us "Impact Report")
+![](https://cdn.sanity.io/images/nqimd3nr/production/c20302e14c2a56d397ee8cd6f1fb94d672d4a190-1458x1458.png?w=133&h=133&fit=max&auto=format)](https://cdn.sanity.io/files/nqimd3nr/production/fa4075717ba03b510e4f0b29aca8f83dd19fda76.pdf "Impact Report")
 
 About Food Waste
 
@@ -102,7 +102,7 @@ Get inspired to do good with the latest news, information, tips & tricks, recipe
 
 United States (English)
 
-[Business sign-up](https://store.toogoodtogo.com/onboarding?cookie_consent=false&locale=en-us "Business sign-up")
+[Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
 Privacy Policy
 ==============
@@ -836,7 +836,7 @@ In the case of our related entities, personal information may be disclosed to ou
 
 [![Too Good To Go Logo](/_nuxt/logo.LysY4rrc.svg)](https://toogoodtogo.com/en-us)
 
-[Careers](https://toogoodtogo.com/en-us/careers "Careers")[Press](https://toogoodtogo.com/en-us/press "Press")[Support](https://toogoodtogo.com/en-us/support "Support")[Mystore](https://store.toogoodtogo.com/login?cookie_consent=false&locale=en-us "Mystore")
+[Careers](https://toogoodtogo.com/en-us/careers "Careers")[Press](https://toogoodtogo.com/en-us/press "Press")[Support](https://toogoodtogo.com/en-us/support "Support")[Mystore](https://store.toogoodtogo.com/login "Mystore")
 
 [](https://www.linkedin.com/company/too-good-to-go)[](https://www.instagram.com/toogoodtogo.usa/)[](https://www.facebook.com/toogoodtogoUSA/)[](https://www.tiktok.com/@toogoodtogo)[](https://www.youtube.com/channel/UCBonm_44z7UL0OvhHksBCAw)[](https://www.twitter.com/toogoodtogo)
 
@@ -844,6 +844,6 @@ In the case of our related entities, personal information may be disclosed to ou
 
 [![Certified B Corporation](/_nuxt/certification-b-corporation.COzENzNS.svg)](https://toogoodtogo.com/en-us/about-us/b-corp)
 
-[Legal](https://toogoodtogo.com/en-us/legal "Legal")[Privacy Policy](https://toogoodtogo.com/en-us/privacy "Privacy Policy")[Cookie Policy](https://toogoodtogo.com/en-us/cookie-policy "Cookie Policy")[Terms & Conditions](https://toogoodtogo.com/en-us/terms-and-conditions-using-the-app "Terms & Conditions")[Contact us](https://toogoodtogo.com/en-us/contact-us "Contact us")[DSA Disclosure](https://toogoodtogo.com/en-us/legal/dsa-disclosure "DSA Disclosure")[Do Not Sell or Share My Data](https://toogoodtogo.com/en-us/legal/privacy-settings "Do Not Sell or Share My Data")[Food Waste Sources](https://toogoodtogo.com/en-us/tgtg-claims "Food Waste Sources")[Status](https://status.toogoodtogo.com/?cookie_consent=false&locale=en-us "Status")
+[Legal](https://toogoodtogo.com/en-us/legal "Legal")[Privacy Policy](https://toogoodtogo.com/en-us/privacy "Privacy Policy")[Cookie Policy](https://toogoodtogo.com/en-us/cookie-policy "Cookie Policy")[Terms & Conditions](https://toogoodtogo.com/en-us/terms-and-conditions-using-the-app "Terms & Conditions")[Contact us](https://toogoodtogo.com/en-us/contact-us "Contact us")[DSA Disclosure](https://toogoodtogo.com/en-us/legal/dsa-disclosure "DSA Disclosure")[Do Not Sell or Share My Data](https://toogoodtogo.com/en-us/legal/privacy-settings "Do Not Sell or Share My Data")[Food Waste Sources](https://toogoodtogo.com/en-us/tgtg-claims "Food Waste Sources")[Status](https://status.toogoodtogo.com/ "Status")
 
 Copyright © 2023—2024 Too Good To Go International. All Rights Reserved.
