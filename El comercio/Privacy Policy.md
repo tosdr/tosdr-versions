@@ -31,6 +31,378 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Se incautan de 13 toneladas de cocaína procedentes de Ecuador en España
+=======================================================================
+
+En Imbabura, la Policía Nacional también se incautó de 99 paquetes tipo ladrillo de cocaína, en una inspección a un automotor
+-----------------------------------------------------------------------------------------------------------------------------
+
+![La Policía Nacional se incautó de 99 paquetes de cocaína en Ambuquí.](https://www.elcomercio.com/wp-content/uploads/2024/11/Policia-Espana-.jpg)
+
+Agentes españoles **se incautaron de 13 toneladas** de cocaína en un contenedor procedente de Ecuador. La carga llegó al puerto de Ageciras, en el sur de España, **el mayor alijo de esta droga** en la historia del narcotráfico en España.
+
+### Más noticias
+
+* [Policía libera a mujer víctima de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/policia-libera-mujer-victima-secuestro-guayas.html "Policía libera a mujer víctima de secuestro en Guayas")
+* [Vehículo de sacerdote asesinado fue encontrado en la vía a Lloa, en Quito](https://www.elcomercio.com/actualidad/seguridad/vehiculo-sacerdote-asesinado-encontrado-via-lloa-quito.html "Vehículo de sacerdote asesinado fue encontrado en la vía a Lloa, en Quito")
+* [España incauta el mayor cargamento de droga de su historia](https://www.elcomercio.com/actualidad/mundo/espana-mayor-cargamento-droga-ecuador.html "España incauta el mayor cargamento de droga de su historia")
+
+La incautación fue fruto de una **operación conjunta** de la Policía Nacional y el Servicio de Vigilancia Aduanera. Estos operativos se llevaron a cabo en el puerto con más tráfico de España y considerado la gran puerta su de Europa.
+
+La **droga viajaba en un contenedor** que salió procedente de Ecuador y transportaba una carga de bananas dirigida a un importador español.
+
+Este importador ya recibía, desde hace años, grandes cantidades de fruta desde Ecuador. Esto dificultó enormemente el análisis e **inspección de sus envíos**, según informaron este miércoles 6 de noviembre representantes de la **Policía y de la Agencia Tributaria.**
+
+Durante el operativo de revisión se realizaron **registros en domicilios y oficinas de Madrid y Alicante.** En estas labores investigativas fue detenida una persona, mientras los dos responsables de la empresa importadora son buscados para capturarlos.
+
+Las autoridades ecuatorianas aún [no se han pronunciado al respecto.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Policía detiene 99 paquetes de droga
+------------------------------------
+
+La Policía Nacional realizó un**a inspección antinarcóticos a un vehículo** en Ambuquí, Imbabura. En estas labores localizó **99 paquetes tipo ladrillo de cocaína.**
+
+En este operativo se aprehendió a dos sujetos que se movilizaban en el automotor. Además, se recolectaron los siguientes indicios:
+
+* 990 000 gramos de cocaína
+* Vehículo
+* Terminales móviles
+* Dinero en efectivo
+
+> EVITAMOS EL TRÁFICO DE 99 PAQUETES DE DROGA EN IMBABURA  
+>   
+> Mediante una inspección antinarcóticos a un vehículo en Ambuquí, [#Imbabura](https://twitter.com/hashtag/Imbabura?src=hash&ref_src=twsrc%5Etfw), localizamos 99 paquetes tipo ladrillo de cocaína y aprehendimos a 2 sujetos que se movilizaban en el automotor.  
+>   
+> Indicios:  
+> \-990.000 gramos de… [pic.twitter.com/KMMkLG5Q2z](https://t.co/KMMkLG5Q2z)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [November 5, 2024](https://twitter.com/PoliciaEcuador/status/1853906032734396448?ref_src=twsrc%5Etfw)
+
+Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump
+=====================================================================================
+
+Donald Trump logra una elección histórica en Estados Unidos y marca varios hitos en la historia de ese país.
+------------------------------------------------------------------------------------------------------------
+
+![Donald Trump será el presidente más longevo en asumir el cargo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-28.jpg)
+
+El segundo mandato del republicano **Donald Trump**, ganador de las presidenciales en Estados Unidos de este martes 5 de noviembre de 2024, es una **elección histórica** por su avanzada edad, su historial judicial, su victoria en el voto popular y por el regreso a la Casa Blanca de un exmandatario[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
+
+### Más noticias
+
+* [Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-las-elecciones-presidenciales-en-ee-uu-segun-proyecciones.html "Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones")
+* [Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca](https://www.elcomercio.com/actualidad/mundo/donald-trump-florida-supera-kamala-harris.html "Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca")
+
+Donald Trump gana una elección histórica
+----------------------------------------
+
+Cuando asuma el poder en enero de 2025, Donald Trump se convertirá en la persona de mayor edad en convertirse en presidente de Estados Unidos, cinco meses más mayor que Joe Biden cuando llegó al poder en 2021.
+
+El magnate neoyorquino concluirá su segundo mandato con 82 años en enero de 2029.El tema de la edad había estado en el centro de la campaña electoral cuando competían Trump y Biden, pero quedó relegado cuando Kamala Harris, de 60 años, asumió la candidatura demócrata.
+
+Un presidente sancionado por la Justicia
+----------------------------------------
+
+Otro hecho inédito es que nunca un criminal convicto había ganado las elecciones presidenciales en Estados Unidos.
+
+Trump fue condenado este año por un tribunal de **Nueva York** por haber **falsificado** registros comerciales para comprar el silencio de la actriz porno Stormy Daniels durante la campaña electoral de 2016.
+
+El republicano sigue pendiente de **sentencia** por este caso, que se aplazó después de que el Tribunal Supremo dictaminara que los exmandatarios del país gozan de una amplia inmunidad judicial.
+
+Trump también hizo historia en su momento al convertirse en el primer expresidente en ser **imputado** penalmente, por varios casos, entre ellos el del asalto al **Capitolio**.
+
+Pero como presidente tendrá potestad para ordenar al **Departamento de Justicia** que cierre las investigaciones en su contra.
+
+Trump también se quitó una deuda pendiente al ganar por primera vez el **voto popular** en unas elecciones, algo que no consiguió ni en 2016 contra **Hillary Clinton** ni en 2020 contra Biden y que los republicanos no han conseguido desde hace dos décadas.
+
+Gana con más votos
+------------------
+
+Según cifras preliminares, podría sacarle a Kamala Harris unos **cinco millones de votos** de ventaja.
+
+En las elecciones presidenciales de Estados Unidos no sale elegido aquel candidato que consiga más votos a **nivel nacional**, sino aquel que logre al menos 270 compromisarios repartidos por los diferentes estados.
+
+Aunque Trump ganó en 2016, obtuvo **tres millones menos de votos que Clinton**; y en los comicios que perdió contra Biden obtuvo siete millones menos.
+
+Ningún candidato republicano había ganado el **voto popular desde George W. Bush** en 2004.
+
+Trump, que en su primer mandato ostentó el número de presidente **45**, ejercerá su segundo período como el mandatario número **47.**
+
+Dos veces presidente
+--------------------
+
+El único caso de un presidente que ocupó **dos mandatos no consecutivos** fue el de **Grover Cleveland**, quien estuvo en la Casa Blanca entre 1885 y 1889, año en el que perdió las elecciones, y volvió al poder para el período 1893-1897.  
+
+Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos
+==========================================================================================
+
+Donald Trump vuelve a la Casa Blanca tras vencer a su rival, la demócrata Kamala Harris, en las elecciones presidenciales.
+--------------------------------------------------------------------------------------------------------------------------
+
+![El expresidente estadounidense Donald Trump (2017-2021).](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-par-cortar.webp)
+
+El republicano **Donald Trump** logró los **270 votos** necesarios del **Colegio Electoral** y con ello ganó las **elecciones** **presidenciales** de Estados Unidos que se realizaron este martes 5 de noviembre de 2024.
+
+Trump ganó importantes estados, como: **Florida**, Pensilvania, California del Norte, Georgia, Tennessee, Alabama, entre otros.
+
+### Más noticias
+
+* [Nicky Jam retira su apoyo a Donald Trump](https://www.elcomercio.com/actualidad/mundo/nicky-jam-retira-apoyo-donald-trump.html "Nicky Jam retira su apoyo a Donald Trump ")
+* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html")
+* [Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.](https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html")
+
+Así fue la trayectoria política de Donald Trump, uno de los **personajes más conocidos** y controvertidos del país norteamericano[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
+
+Comienzos de Donald Trump
+-------------------------
+
+Trump nació el 14 de junio de 1946 en **Queens, Nueva York**, Trump proviene de una familia de empresarios, lo que marcó e**l comienzo de su carrera en el mundo de los negocios.** Su padre, Fred Trump, fue un prominente **desarrollador inmobiliario** que le dio las bases para expandir y modernizar el imperio familiar[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
+
+Tras graduarse de la **Universidad de Pensilvania** con un título en economía en 1968, Trump se unió a la empresa de su padre, donde comenzó a hacer **crecer el negocio** con proyectos inmobiliarios de alto perfil en Manhattan, como el famoso **Trump Tower.**
+
+A lo largo de las décadas siguientes, Trump se convirtió en una de las **figuras más reconocidas** del mundo empresarial, aunque no sin controversias. A lo largo de su carrera, fue dueño de **casinos, hoteles, campos de golf y otros negocios**, algunos de los cuales enfrentaron **dificultades financieras** y demandas legales. No obstante, su marca personal, “Trump”, se consolidó como sinónimo de **lujo, poder y riqueza.**
+
+De empresario a político
+------------------------
+
+En 2015, Donald Trump dio un giro inesperado en su carrera al anunciar su **candidatura a la presidencia de los Estados Unidos.** Su estilo directo, sin filtros y su promesa de “hacer grande a Estados Unidos de nuevo” resonaron con una parte significativa del electorado.
+
+Su campaña presidencial se centró en temas como la **inmigración, la seguridad nacional, el comercio y la reducción de impuestos.** Trump ganó la nominación republicana y, en noviembre de 2016, logró una sorpresiva victoria sobre la demócrata Hillary Clinton, convirtiéndose en el 45º presidente de los Estados Unidos.
+
+Durante su presidencia (2017-2021), Trump impulsó políticas que favorecían la **desregulación**, recortes fiscales y un **enfoque nacionalista** en comercio exterior, además de una postura muy firme sobre inmigración. Su mandato estuvo marcado por una **polarización política** sin precedentes, conflictos con los medios de comunicación y una controversial gestión de la pandemia de covid-19.
+
+Tras perder las elecciones de 2020 ante Joe Biden, **Trump no reconoció su derrota** y promovió teorías de fraude electoral, lo que culminó en el asalto al Capitolio de Estados Unidos el 6 de enero de 2021.
+
+A pesar de las 91 investigaciones legales en su contra, Trump mantuvo su **base de seguidores** y lanzó su campaña para la reelección en 2024, buscando recuperar la Casa Blanca para el Partido Republicano (conservador).
+
+Trump 2024: ¿Qué esperar de su regreso a la política?
+-----------------------------------------------------
+
+En su regreso a la política, Donald Trump promete mantener su **mensaje de cambio radical** y promesas de restaurar la “grandeza” de Estados Unidos. A pesar de las críticas y las **múltiples investigaciones legales** que enfrenta, el expresidente sigue siendo una **figura central en el Partido Republicano**, con una base de apoyo fiel que lo ve como un líder que desafía el “sistema” político tradicional.
+
+Con su regreso a la arena política, Trump continúa siendo un **fenómeno tanto admirado** como polarizador, y su **impacto en las elecciones presidenciales de 2024** será un factor clave en la contienda electoral.
+
+Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones
+=============================================================================
+
+El candidato republicano a la Casa Blanca, Donald Trump, se proclamó este miércoles 6 de noviembre ganador de las elecciones en Estados Unidos con un total de 277 votos electorales, según las proyecciones de CNN y AP
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Simpatizantes de Donald Trump celebran los resultados de las elecciones presidenciales de EE.UU. 2024 durante la fiesta de seguimiento en West Palm Beach, Florida.](https://www.elcomercio.com/wp-content/uploads/2024/11/Celebraciones-de-Trump.jpg)
+
+**Donald Trump** ha sido declarado el ganador de las elecciones presidenciales de **Estados Unidos** del 6 de noviembre de 2024, según las proyecciones iniciales. Con este triunfo, Trump se convierte en el presidente número 47 de su país. Las reacciones, a favor y en contra, ocurrieron apenas Trump se proclamó el triunfo.
+
+### Más noticias:
+
+* [Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.](https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html "Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.")
+* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
+* [Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’](https://www.elcomercio.com/actualidad/mundo/donald-trump-alaba-privado-nicolas-maduro-fuerte.html "Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’")
+
+El candidato republicano, según las proyecciones de CNN y AP, ganó con un total de 277 votos electorales. Trump logró asegurar victorias decisivas en varios estados cruciales que fueron determinantes para su éxito electoral. Entre ellos destacan:
+
+* **Pensilvania:** Un estado que había sido un bastión demócrata, pero que Trump logró capturar con un enfoque en la economía y la seguridad.
+* **Wisconsin:** La victoria aquí fue fundamental, ya que el estado ha sido un campo de batalla electoral en años recientes.
+* **Georgia:** Trump reafirmó su apoyo en este estado, donde había enfrentado desafíos significativos en elecciones pasadas.
+
+La combinación de estos estados le permitió superar la barrera de los 270 votos electorales necesarios para ganar la presidencia. La participación electoral fue alta, con un notable aumento del voto hispano y afroamericano a favor del candidato republicano, lo que indica un cambio potencial en las dinámicas electorales tradicionales.
+
+Discurso de la victoria
+-----------------------
+
+En su discurso de aceptación, pronunciado en **West Palm Beach, Florida**, Trump se mostró triunfante y optimista. Comenzó afirmando que “esto es un movimiento como nunca antes se ha visto”, refiriéndose a su base de apoyo y a la coalición diversa que ha formado. Prometió “curar el país” y “sellar las fronteras”, reafirmando sus posturas sobre la inmigración y la seguridad nacional.
+
+Trump también hizo un llamado a la unidad: “Es hora de dejar atrás las divisiones de los últimos cuatro años”. Este tono conciliador sorprendió a muchos observadores, dado su historial de retórica divisiva. Acompañado por su familia y aliados políticos, enfatizó que su gobierno trabajará para todos los estadounidenses, no solo para sus seguidores más leales. El ex presidente destacó sus logros pasados y prometió una “era dorada” para Estados Unidos, donde se enfocará en reducir impuestos y mejorar la economía. Su discurso incluyó referencias a la creación de empleos y al fortalecimiento del ejército, temas recurrentes durante su campaña.
+
+Reacciones internacionales
+--------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Felicitacion-de-Ucrania.jpg)
+
+Las reacciones a la victoria de Trump no se hicieron esperar. Líderes mundiales expresaron sus felicitaciones a través de redes sociales:
+
+* **Benjamin Netanyahu**, primer ministro de Israel, celebró el triunfo como “la mayor remontada de la historia” y destacó el compromiso renovado entre ambos países.
+* **Volodímir Zelenski**, presidente de Ucrania, manifestó su deseo de trabajar juntos por una paz justa, subrayando el principio de “paz mediante la fortaleza”.
+* **Giorgia Meloni**, primera ministra italiana, también envió sus felicitaciones, señalando que esto fortalecerá aún más los vínculos estratégicos entre Italia y Estados Unidos.
+
+Sin embargo, no todas las reacciones fueron positivas. Desde Irán, se minimizó el impacto del resultado electoral en las relaciones bilaterales, sugiriendo que las políticas estadounidenses seguirán siendo constantes, independientemente del presidente.
+
+Implicaciones políticas futuras con Trump
+-----------------------------------------
+
+Con Trump nuevamente al mando, se anticipan cambios significativos en la política estadounidense. Distintos analistas prevén que su administración priorizará:
+
+* **Políticas económicas agresivas:** Se espera que busque recortes fiscales y desregulación para estimular el crecimiento económico.
+* **Inmigración:** Continuará con medidas estrictas para controlar la frontera y limitar la inmigración ilegal.
+* **Relaciones exteriores:** Su enfoque podría ser más unilateral y centrado en intereses estadounidenses, lo que podría afectar alianzas tradicionales.
+
+La política interna también podría volverse más polarizada. La retórica conciliadora utilizada por Trump durante su discurso podría ser puesta a prueba por los desafíos inherentes a gobernar un país dividido políticamente.
+
+Donald Trump ha marcado un regreso espectacular al escenario político estadounidense. Su victoria no solo redefine el futuro inmediato del país, sino que también plantea preguntas sobre cómo se desarrollará la política interna y externa bajo su liderazgo. La atención ahora se centra en cómo implementará sus promesas y si podrá unir a un país fracturado tras años de divisiones profundas.
+
+Así funciona el Pico y placa en Quito este miércoles 6 de noviembre
+===================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![La restricción del Pico y placa se estableció para regular el tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/transito-ciudad.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [En el feriado de noviembre se registraron más de 47 000 emergencias](https://www.elcomercio.com/actualidad/ecuador/feriado-de-noviembre-se-registraron-mas-de-47-000-emergencias.html "En el feriado de noviembre se registraron más de 47 000 emergencias")
+* [Choque de buses de pasajeros deja al menos seis heridos, en Daule](https://www.elcomercio.com/actualidad/ecuador/choque-de-buses-de-pasajeros-deja-al-menos-seis-heridos-en-daule.html "Choque de buses de pasajeros deja al menos seis heridos, en Daule")
+* [El Reventador registra 64 explosiones este martes 5 de noviembre](https://www.elcomercio.com/actualidad/ecuador/el-reventador-registra-64-explosiones-este-martes-5-de-noviembre.html "El Reventador registra 64 explosiones este martes 5 de noviembre")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
+Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca
+===============================================================================
+
+El republicano Donald Trump espera las proyecciones finales para convertirse en el Presidente 47º de Estados Unidos.
+--------------------------------------------------------------------------------------------------------------------
+
+![El multimillonario Donald Trump dio un discurso donde se proclamó como el ganador de las elecciones presidenciales de Estados Unidos](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-gana-elecciones.jpg)
+
+El candidato republicano a la Casa Blanca, **Donald Trump**, se impuso a **Kamala Harris** en el recuento del Colegio Electoral de **Estados Unidos**, la madrugada de este miércoles de noviembre de 2024.
+
+### Más noticias:
+
+* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
+* [Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.](https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html "Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.")
+
+El republicano **Donald Trump** está próximo a lograr los **270 votos** necesarios del **Colegio Electoral** y con ello ganar las **elecciones** **presidenciales** de Estados Unidos que se realizaron este martes 5 de noviembre de 2024.
+
+Trump ganó importantes estados, como: **Florida**, **Pensilvania**, California del Norte, Georgia, Tennessee, Alabama, entre otros.
+
+Con estas proyecciones de las cadenas Fox y CNN, Trump está a un paso de convertirse en el **Presidente 47º** de los Estados Unidos.
+
+Donald Trump se impuso a Kamala Harris
+--------------------------------------
+
+En tanto, la vicepresidenta demócrata, **Kamala Harris**, se hizo con Washington, Oregón, California, Massachusetts, Maryland, Rhode Island, Connecticut, entre otros estados, que no le bastaron para pelear en la parte final de los conteos.
+
+Poco después de la media noche y tras conocerse la derrota en ‘**estados bisagras**‘, la Vicepresidenta estadounidense canceló el mensaje que estaba previsto que ofreciera desde la Universidad de Howard, en Washington.
+
+Los estadounidenses no decidieron por **voto popular** quién será su próximo Presidente, sino que designaron a un número de electores en cada estado que conforman el **Colegio Electoral** y que se encargan de elegir al próximo mandatario.
+
+El Colegio Electoral tiene **538 compromisarios** y, para ganar, Trump o Harris necesitaban al menos una mayoría de 270[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
+
+Pensilvania, el estado clave para la victoria de Trump
+------------------------------------------------------
+
+Los colegios electorales de la mitad de los estados de EE. UU. **ya cerraron** a las 20:00 hora local, incluido Pensilvania, el estado bisagra que más compromisarios otorga para el Colegio Electoral y del que todavía no se conocen los resultados. 
+
+Fue justamente este estado, qué pasadas las 01:00 de este miércoles 6 de noviembre, el que **encaminó la victoria** de Donald Trump.
+
+Hasta las **03:00** de este miércoles estos son los resultados:
+
+|     |     |     |
+| --- | --- | --- |
+|     | **Kamala Harris (D)** | **Donald Trump (R)** |
+| Alabama (9) | 0   | 9   |
+| Alaska (3) |     |     |
+| Arizona (11) |     |     |
+| Arkansas (6) | 0   | 6   |
+| California (54) | 54  | 0   |
+| Carolina del Norte (16) | 0   | 16  |
+| Carolina del Sur (9) | 0   | 9   |
+| Colorado (10) | 10  | 0   |
+| Connecticut (7) | 7   | 0   |
+| Dakota del Norte (3) | 0   | 3   |
+| Dakota del Sur (3) | 0   | 3   |
+| Delaware (3) | 3   | 0   |
+| Distrito de Columbia (3) | 3   | 0   |
+| Florida (30) | 0   | 30  |
+| Georgia (16) | 0   | 16  |
+| Hawái (4) | 4   | 0   |
+| Idaho (4) | 0   | 4   |
+| Illinois (19) | 19  | 0   |
+| Indiana (11) | 0   | 11  |
+| Iowa (6) | 0   | 6   |
+| Kansas (6) | 0   | 6   |
+| Kentucky (8) | 0   | 8   |
+| Luisiana (8) | 0   | 8   |
+| Maine (4) | 1   | 1   |
+| Maryland (10) | 10  | 0   |
+| Massachusetts (11) | 11  | 0   |
+| Míchigan (15) |     |     |
+| Minnesota (10) |     |     |
+| Misisipí (6) | 0   | 6   |
+| Misuri (10) | 0   | 10  |
+| Montana (4) | 0   | 4   |
+| Nebraska (5) | 1   | 4   |
+| Nevada (6) |     |     |
+| Nuevo Hampshire (4) | 4   | 0   |
+| Nueva Jersey (14) | 14  | 0   |
+| Nuevo México (5) | 5   | 0   |
+| Nueva York (28) | 28  | 0   |
+| Ohio (17) | 0   | 17  |
+| Oklahoma (7) | 0   | 7   |
+| Oregón (8) | 8   | 0   |
+| Pensilvania (19) | 0   | 19  |
+| Rhode Island (4) | 4   | 0   |
+| Tennessee (11) | 0   | 11  |
+| Texas (40) | 0   | 40  |
+| Utah (6) | 0   | 6   |
+| Vermont (3) | 3   | 0   |
+| Virginia (13) | 13  | 0   |
+| Virginia Occidental (4) | 0   | 4   |
+| Washington (12) | 12  | 0   |
+| Wisconsin (10) |     |     |
+| Wyoming (3) | 0   | 3   |
+| **TOTAL (538)** | **214** | **2**67 |
+
 Es necesaria una solución al caos vehicular en los feriados
 ===========================================================
 
@@ -60,6 +432,24 @@ El lunes 4 de noviembre, en el último día del feriado de Difuntos y la indepen
 El ingreso a **Quito desde Oyacachi**, por el norte desde Ibarra y Tulcán, el viaje de retorno del **feriado** tomó hasta cuatro horas. 
 
 Tanto las prefecturas y los municipios, como el **Ministerio de Transporte y Obras Públicas** son los llamados a crear soluciones para impedir el caos vehicular, la pérdida de tiempo y el estrés que provocan las congestiones.
+
+El totalitarismo (I)
+====================
+
+El totalitarismo y su asociación con regímenes opresivos, alertando sobre su posible resurgimiento en América Latina.
+---------------------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Las **palabras** tienen su historia y su tiempo. El significado no siempre es el mismo. Varía o adquiere sentidos que pueden ser equívocos o difieren en determinados **contextos**. Así sucede con la **expresión** «**totalitarismo**», que es reciente. Quizá tiene un siglo. No es, por cierto, asimilable a la «**tiranía**» que utilizaron los **filósofos griegos** como forma de gobierno, cuatrocientos años antes de Cristo.
+
+Se dice que la palabra _**totalitarismo**_ utilizó por primera vez Mussolini en un **discurso** de 1925. Él no inventó el vocablo, el fascismo fue «una conceptualidad de la vida» decía Giovanni Gentile, destacado filósofo del **fascismo**.  El mismo Mussolini, para definir su régimen lo hizo con la **expresión** ardorosa de «_Estado totalitario_».
+
+Luego se asimila la palabra al **régimen soviético** de Stalin y al **nacionalsocialismo** de Hitler, en Alemania.  O sea, al **nazismo**.  Tendrá su caracterización en la vigencia de un partido único, exclusivo y excluyente, que ocupa la totalidad del entramado estatal. Partido y Estado se licúan y mezclan como lo único que existe y hegemoniza. La **pluralidad** y lo diverso, la **tolerancia** y el **respeto** a la **dignidad** **humana** es devastada. Solo queda el Estado **propaganda**. Hannah Arendt, en su bello libro _Los **orígenes** del **totalitarismo**,_ nos trae dos frases que merecen recordarse, la primera: _«Solo el **populacho** y la élite pueden sentirse atraídos por el ímpetu mismo del **totalitarismo**: las masas tienen que ser ganadas por la propaganda (…) los **movimientos totalitarios** que luchan por el poder pueden emplear el terror»._ La segunda, «_La **propaganda**, en otras palabras, es un **instrumento** del **totalitarismo** (…) y el terror la verdadera esencia de su forma de **gobierno**»._
+
+En principio, el **totalitarismo** es asociado a los **regímenes** fascistas en Italia, al **nacionalsocialismo** alemán, al **estalinismo** y luego a los **regímenes** que se asimilan a la **ideología** del **marxismo**–**leninismo**, como China Popular, Cuba, o la dinastía de los tres Kim (In-Sung, Gong Il y Jong-un) en Corea del Norte. O los países que fueron parte de la vieja URSS. Los **totalitarismos** son gigantescas **maquinarias** de **adoctrinamiento** y **propaganda**. Reescriben la historia. Destruyen las **sociedades** diversas. Ahí, en la **centralidad** luce un **iluminado**. El Gran o Amado Líder, cuya **voluntad** es **todopoderosa**. El extremado culto a la **personalidad**.
+
+En **América Latina**, los **regímenes populistas** y **autoritarios** deben considerarse como la fuente dónde puede **germinar** y crecer un monstruo: los neo **totalitarismos**.
 
 Cartas a Quito / 6 de noviembre de 2024
 =======================================
@@ -114,119 +504,6 @@ En **materia** **internacional** fueron evidentes los crasos errores de **Trump*
 
 La señora Harris tampoco es, precisamente, un **personaje ideal** para dirigir el país más poderoso de la tierra, pero al menos tiene un pasado personal limpio, una carrera de **servicio público** destacada y una probada **estabilidad emocional**, indispensables en un **mundo convulsionado** y al borde de una **conflagración mundial**, como el actual.
 
-El totalitarismo (I)
-====================
-
-El totalitarismo y su asociación con regímenes opresivos, alertando sobre su posible resurgimiento en América Latina.
----------------------------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Las **palabras** tienen su historia y su tiempo. El significado no siempre es el mismo. Varía o adquiere sentidos que pueden ser equívocos o difieren en determinados **contextos**. Así sucede con la **expresión** «**totalitarismo**», que es reciente. Quizá tiene un siglo. No es, por cierto, asimilable a la «**tiranía**» que utilizaron los **filósofos griegos** como forma de gobierno, cuatrocientos años antes de Cristo.
-
-Se dice que la palabra _**totalitarismo**_ utilizó por primera vez Mussolini en un **discurso** de 1925. Él no inventó el vocablo, el fascismo fue «una conceptualidad de la vida» decía Giovanni Gentile, destacado filósofo del **fascismo**.  El mismo Mussolini, para definir su régimen lo hizo con la **expresión** ardorosa de «_Estado totalitario_».
-
-Luego se asimila la palabra al **régimen soviético** de Stalin y al **nacionalsocialismo** de Hitler, en Alemania.  O sea, al **nazismo**.  Tendrá su caracterización en la vigencia de un partido único, exclusivo y excluyente, que ocupa la totalidad del entramado estatal. Partido y Estado se licúan y mezclan como lo único que existe y hegemoniza. La **pluralidad** y lo diverso, la **tolerancia** y el **respeto** a la **dignidad** **humana** es devastada. Solo queda el Estado **propaganda**. Hannah Arendt, en su bello libro _Los **orígenes** del **totalitarismo**,_ nos trae dos frases que merecen recordarse, la primera: _«Solo el **populacho** y la élite pueden sentirse atraídos por el ímpetu mismo del **totalitarismo**: las masas tienen que ser ganadas por la propaganda (…) los **movimientos totalitarios** que luchan por el poder pueden emplear el terror»._ La segunda, «_La **propaganda**, en otras palabras, es un **instrumento** del **totalitarismo** (…) y el terror la verdadera esencia de su forma de **gobierno**»._
-
-En principio, el **totalitarismo** es asociado a los **regímenes** fascistas en Italia, al **nacionalsocialismo** alemán, al **estalinismo** y luego a los **regímenes** que se asimilan a la **ideología** del **marxismo**–**leninismo**, como China Popular, Cuba, o la dinastía de los tres Kim (In-Sung, Gong Il y Jong-un) en Corea del Norte. O los países que fueron parte de la vieja URSS. Los **totalitarismos** son gigantescas **maquinarias** de **adoctrinamiento** y **propaganda**. Reescriben la historia. Destruyen las **sociedades** diversas. Ahí, en la **centralidad** luce un **iluminado**. El Gran o Amado Líder, cuya **voluntad** es **todopoderosa**. El extremado culto a la **personalidad**.
-
-En **América Latina**, los **regímenes populistas** y **autoritarios** deben considerarse como la fuente dónde puede **germinar** y crecer un monstruo: los neo **totalitarismos**.
-
-Elecciones de Estados Unidos: Donald Trump se impone a Kamala Harris y está a un paso de la Casa Blanca
-=======================================================================================================
-
-El republicano Donald Trump logra una ventaja considerable frente a la demócrata Kamala Harris, según las proyecciones del Colegio Electoral.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump ya no compite en Florida y supera a Kamala Harris](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-florida-kamala-harris.jpg)
-
-El candidato republicano a la Casa Blanca, **Donald Trump**, se impuso a **Kamala Harris** en el recuento del Colegio Electoral de **Estados Unidos**, la madrugada de este miércoles de noviembre de 2024.
-
-### Más noticias:
-
-* [¿A qué hora se conocerán los resultados de las elecciones de Estados Unidos?](https://www.elcomercio.com/actualidad/mundo/hora-conoceran-resultados-elecciones-estados-unidos.html "¿A qué hora se conocerán los resultados de las elecciones de Estados Unidos?")
-* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
-
-El republicano **Donald Trump** logró los **270 votos** necesarios del **Colegio Electoral** y con ello logró ganar las **elecciones** **presidenciales** de Estados Unidos que se realizaron este martes 5 de noviembre de 2024.
-
-Trump ganó importantes estados, como: **Florida**, **Pensilvania**, California del Norte, Georgia, Tennessee, Alabama, entre otros.
-
-Donald Trump se impuso a Kamala Harris
---------------------------------------
-
-En tanto, la vicepresidenta demócrata, **Kamala Harris**, se hizo con Washington, Oregón, California, Massachusetts, Maryland, Rhode Island, Connecticut, entre otros estados, que no le bastaron para pelear en la parte final de los conteos.
-
-Poco después de la media noche y tras conocerse la derrota en ‘estados bisagras’, la Vicepresidenta estadounidense canceló el mensaje que estaba previsto que ofreciera desde la Universidad de Howard, en Washington.
-
-Los estadounidenses no decidieron por **voto popular** quién será su próximo Presidente, sino que designaron a un número de electores en cada estado que conforman el **Colegio Electoral** y que se encargan de elegir al próximo mandatario.
-
-El Colegio Electoral tiene **538 compromisarios** y, para ganar, Trump o Harris necesitaban al menos una mayoría de 270[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-Pensilvania, el estado clave para la victoria de Trump
-------------------------------------------------------
-
-Los colegios electorales de la mitad de los estados de EE. UU. **ya cerraron** a las 20:00 hora local, incluido Pensilvania, el estado bisagra que más compromisarios otorga para el Colegio Electoral y del que todavía no se conocen los resultados. 
-
-Fue justamente este estado, que pasadas las 01:00 de este miércoles 6 de noviembre, el que encaminó la victoria de Donald Trump.
-
-Hasta las 01:40 de este miércoles estos son los resultados:
-
-|     |     |     |
-| --- | --- | --- |
-|     | **Kamala Harris (D)** | **Donald Trump (R)** |
-| Alabama (9) | 0   | 9   |
-| Alaska (3) |     |     |
-| Arizona (11) |     |     |
-| Arkansas (6) | 0   | 6   |
-| California (54) | 54  | 0   |
-| Carolina del Norte (16) | 0   | 16  |
-| Carolina del Sur (9) | 0   | 9   |
-| Colorado (10) | 10  | 0   |
-| Connecticut (7) | 7   | 0   |
-| Dakota del Norte (3) | 0   | 3   |
-| Dakota del Sur (3) | 0   | 3   |
-| Delaware (3) | 3   | 0   |
-| Distrito de Columbia (3) | 3   | 0   |
-| Florida (30) | 0   | 30  |
-| Georgia (16) | 0   | 16  |
-| Hawái (4) | 4   | 0   |
-| Idaho (4) | 0   | 4   |
-| Illinois (19) | 19  | 0   |
-| Indiana (11) | 0   | 11  |
-| Iowa (6) | 0   | 6   |
-| Kansas (6) | 0   | 6   |
-| Kentucky (8) | 0   | 8   |
-| Luisiana (8) | 0   | 8   |
-| Maine (4) | 1   | 0   |
-| Maryland (10) | 10  | 0   |
-| Massachusetts (11) | 11  | 0   |
-| Míchigan (15) |     |     |
-| Minnesota (10) |     |     |
-| Misisipí (6) | 0   | 6   |
-| Misuri (10) | 0   | 10  |
-| Montana (4) | 0   | 4   |
-| Nebraska (5) | 1   | 4   |
-| Nevada (6) |     |     |
-| Nuevo Hampshire (4) | 4   | 0   |
-| Nueva Jersey (14) | 14  | 0   |
-| Nuevo México (5) | 5   | 0   |
-| Nueva York (28) | 28  | 0   |
-| Ohio (17) | 0   | 17  |
-| Oklahoma (7) | 0   | 7   |
-| Oregón (8) | 8   | 0   |
-| Pensilvania (19) | 0   | 19  |
-| Rhode Island (4) | 4   | 0   |
-| Tennessee (11) | 0   | 11  |
-| Texas (40) | 0   | 40  |
-| Utah (6) | 0   | 6   |
-| Vermont (3) | 3   | 0   |
-| Virginia (13) | 13  | 0   |
-| Virginia Occidental (4) | 0   | 4   |
-| Washington (12) | 12  | 0   |
-| Wisconsin (10) |     |     |
-| Wyoming (3) | 0   | 3   |
-| **TOTAL (538)** | **214** | **2**66 |
-
 Jimmy Ruiz, asesor de Augusto Verduga, fue asesinado
 ====================================================
 
@@ -264,9 +541,9 @@ El **Consejo de Participación Ciudadana emitió un comunicado condenando** y 
 
 El Consejo expresó su “más enérgica condena ante el execrable asesinato de Jimmy Gabriel Ruiz Engracia”, quien se desempeñaba como **asesor del despacho** del consejero Augusto Verduga.
 
-E el comunicado, el Cpccs demandó de las autoridades una investigación exhaustiva para que se ubique y detenga a los **responsables**.
+En el comunicado, el Cpccs demandó de las autoridades una investigación exhaustiva para que se ubique y detenga a los **responsables**.
 
-El cuerpo colegiado exigió que la justicia que procese a los **autores intelectuales y materiales** del hecho y “los castigue con toda la severidad que la ley permita”.
+El cuerpo colegiado exigió a la justicia que procese a los **autores intelectuales y materiales** del hecho y “los castigue con toda la severidad que la ley permita”.
 
 “El Consejo también exige al Estad**o salvaguardar y proteger la integridad del consejero Augusto Verduga,** así como de todos los integrantes del Pleno y de sus equipos de trabajo”, agregó la institución en el comunicado.
 
@@ -702,209 +979,3 @@ En octubre de 2023, **seis sospechosos** fueron asesinados en prisión, lo cual 
 Fiscalía señala a Carlos Angulo, alias ‘Invisible’ como la persona que dio la orden del crimen desde la **cárcel** de Cotopaxi.
 
 La Fiscalía lleva adelante dos investigaciones previas más, derivadas del caso del asesinato de Fernando Villavicencio. Las mismas buscan a los **autores intelectuales y posibles omisiones relacionadas con el delito**.
-
-Fabián Bustos se sorprendió por el irrespeto a Damián Díaz en Barcelona SC
-==========================================================================
-
-Damián Díaz cerró su etapa en Barcelona SC de forma turbulenta, pese a ser uno de los ídolos de este siglo.
------------------------------------------------------------------------------------------------------------
-
-![Damián Díaz en su etapa con la camiseta de Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-84.jpg)
-
-**Fabián** **Bustos**, el último DT exitoso de **Barcelona Sporting Club** y artífice del título del club en 2020, habló sobre la salida de **Damián Díaz**, uno de los últimos grandes ídolos del equipo.
-
-Para el ‘Toro’ Bustos, la partida del volante creativo no fue adecuada, considerando todo lo que Díaz aportó al equipo en casi una década en el ‘Ídolo del Astillero’.
-
-### Más noticias:
-
-* [Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes](https://www.elcomercio.com/deportes/futbol/damian-diaz-demando-barcelona-sporting-club-deudas-pendientes.html "Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes")
-* [Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-emelec-clasico-astillero.html "Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico")
-* [Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11](https://www.elcomercio.com/deportes/futbol/barcelona-goleada-delfin-tabla-posiciones-fecha11.html "Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11")
-
-Descontento con la salida de Damián Díaz
-----------------------------------------
-
-Barcelona SC sorprendió a muchos el miércoles 31 de julio al anunciar que su capitán, el ‘Kitu’ Díaz, no continuaría en el plantel, dando fin a una historia llena de éxitos y alegrías.
-
-Según el representante de Díaz, su salida no se debió a motivos deportivos, sino a decisiones **estrictamente** **dirigenciales**. Esto sorprendió al cuerpo técnico, que creía que el argentino nacionalizado ecuatoriano todavía tenía mucho que ofrecer.
-
-Bustos habló con el periodista César Luis Merlo y expresó su desacuerdo por la manera en que se dio la **salida de Díaz,** a quien aprecia mucho por todo lo que vivieron juntos.
-
-“**No me gustó su salida porque no fue prolija, considerando todo lo que significó para Barcelona SC**“, expresó el entrenador.
-
-Asimismo, señaló que una decisión tan importante no debería tomarse de manera unilateral, sino en conjunto entre cuerpo técnico y dirigencia, especialmente tratándose de alguien tan significativo como **Damián** **Díaz**.
-
-“**Es uno de los ídolos del club.** Tuve la suerte de trabajar con él, fue una pieza importantísima en el campeonato, y durante los tres años que compartimos, siempre le estaré agradecido. Lo quiero mucho, es uno de los mejores jugadores que he dirigido,” dijo Bustos.
-
-Los números del ‘Kitu’ Díaz
----------------------------
-
-**Damián** Rodrigo **Díaz** se unió a Barcelona SC en el segundo semestre de 2011, a pedido de Luis Zubeldía, entonces director técnico del club.
-
-Su primera etapa en el club duró dos años, y en el segundo semestre de 2013 fue transferido al Al-Wahda de Emiratos Árabes Unidos. Durante esta primera fase, se coronó campeón nacional en 2012, rompiendo una **racha de 15 años sin títulos**. Fue una de las figuras clave en un equipo que también contaba con Máximo Banguera, Matías Oyola y Narciso Mina.
-
-En 2016, Díaz regresó definitivamente a BSC. En esta segunda etapa, ganó los campeonatos nacionales de **2016 y 2020.** Además, fue subcampeón en 2022, año en el que fue señalado por fallar un penal decisivo ante Aucas en el estadio Gonzalo Pozo Ripalda.
-
-En total, según Transfermarkt, Damián Díaz disputó **346 partidos en Ecuador, anotando 90 goles y registrando 83 asistencias.**
-
-Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales por crisis energética
-===========================================================================================================
-
-La solicitud de Daniel Noboa a entidades financieras por la crisis energética, se extiende a las casas comerciales.
--------------------------------------------------------------------------------------------------------------------
-
-![La crisis energética provoca que Daniel Noboa haga varias solicitudes a las entidades financieras y casas comerciales.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-entidades-financieras-crisis-energetica.jpg)
-
-El presidente **Daniel Noboa** propuso “**alivios económicos**” a **entidades financieras** y **casas comerciales** por la **crisis energética**, vía Decreto Ejecutivo N° 444, este martes 5 de noviembre de 2024.
-
-Noboa emitió varias disposiciones que permiten a estas entidades tomar varias acciones sobre las **deudas** de sus clientes.
-
-### Más noticias:
-
-* [Daniel Noboa amplió los meses de descuento del valor de las planillas de luz](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-amplio-tiempo-rebaja-valor-planillas-de-luz.html "Daniel Noboa amplió los meses de descuento del valor de las planillas de luz")
-* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
-
-‘Alivios económicos’ propuestos por Daniel Noboa a entidades financieras y casas comerciales por crisis energética
-------------------------------------------------------------------------------------------------------------------
-
-La crisis energética ha hecho que el Gobierno busque acuerdos con varios sectores que ofrecen **servicios** a la ciudadanía.
-
-Así, días atrás resolvió con las **telefónicas** varias medidas de compensación a sus clientes por las intermitencias en el servicio de telefonía móvil.
-
-En cuanto al servicio de energía eléctrica, redujo el valor de la **planilla** por cuatro meses, entre 2024 y 2025.
-
-Este miércoles, el mandatario, vía decreto, solicitó a las **entidades financieras** otorgar alivios económicos con diferimiento de obligaciones por hasta **90 días**.
-
-“La Presidencia de la República reconoce el esfuerzo de la ciudadanía ecuatoriana para enfrentar los impactos de la emergencia energética que atraviesa el país a causa de la peor **sequía** que ha visto el Ecuador en décadas”, señaló en un comunicado.
-
-El **Decreto Ejecutivo N° 444**, señala que las **entidades financieras**, públicas, privadas y popular y solidario; así como a las **casas comerciales**, puedan otorgar un “alivio económico a las familias que mantengan deudas”.
-
-Estas entidades podrán crear programas de **diferimiento** extraordinario y temporal de las obligaciones financieras de sus clientes por hasta 90 días.
-
-Con esta medida **no se implementarán cobros adicionales** de intereses, moratorias, recargos ni multas para los beneficiarios.
-
-El documento también requiere a los proveedores del servicio de **Internet** implementar medidas de compensación a sus usuarios; así como facilidades de pago en las planillas de facturación.
-
-“Con **medidas concretas**, y sin comprometer el futuro del país, se busca aliviar la carga económica de los hogares”, señaló la Presidencia.
-
-Preocupante lesión de Neymar tras volver a las canchas
-======================================================
-
-El brasileño Neymar volvió a las canchas y, tras escasos minutos de fútbol, volvió a lesionarse y preocupa.
------------------------------------------------------------------------------------------------------------
-
-![Neymar en su último partido, donde volvió a las canchas, pero se lesionó de nuevo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-05T185805.862.jpg)
-
-El delantero brasileño **Neymar** tuvo que ser sustituido por lesión tras solo jugar menos de media hora del partido de la cuarta jornada de la Liga de Campeones de Asia. Su equipo, el Al-Hilal saudí, ganó por 3-0 al Esteghlal iraní con un triplete de **Aleksandar Mitrovic**.
-
-El brasileño entró en el campo en el minuto 58, pero en el 87 tuvo que dejar el campo con molestias en la parte anterior del muslo izquierdo y gestos de dolor. Fue reemplazado por **Mohammed Al Qahtani** para jugar los últimos minutos.
-
-### Más noticias:
-
-* [Neymar, un fichaje ‘imposible’ para el Inter Miami](https://www.elcomercio.com/deportes/futbol/neymar-inter-miami-tata-martino.html "Neymar, un fichaje ‘imposible’ para el Inter Miami")
-* [La emotiva reaparición de Neymar en el fútbol tras un año de ausencia](https://www.elcomercio.com/deportes/futbol/emotiva-reaparicion-neymar-futbol-ausencia-lesion.html "La emotiva reaparición de Neymar en el fútbol tras un año de ausencia")
-* [Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-gol-908-champions-asia.html "Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia")
-
-Neymar regresó a los terrenos de juego el pasado 21 de octubre tras superar la grave lesión de rodilla que lo mantuvo de baja durante un año. Fue también en la **Champions** asiática contra el Al Ain de Emiratos Árabes
-
-El brasileño sufrió la rotura del ligamento cruzado anterior y de un menisco de la pierna izquierda en el encuentro que la selección brasileña disputó el 17 de octubre de 2023 con **Uruguay**[.](https://en.wikipedia.org/wiki/Neymar "https://en.wikipedia.org/wiki/Neymar") 
-
-¿Qué dijo Neymar tras su lesión?
---------------------------------
-
-El brasileño **Neymar**, delantero del Al Hilal saudí, que se tuvo que retirar este lunes del partido de la Liga de Campeones asiática ante el **Esteghlal** iraní con molestias en la parte trasera de su muslo izquierdo, espera que la lesión “no sea nada”.
-
-El astro brasileño, que después de estar de baja un año por una rotura del **ligamento cruzado anterior** y de menisco de su pierna izquierda, reapareció el pasado día 21 de octubre ante el Al-Ain emiratí y este era el segundo encuentro en el que participaba tras su vuelta.
-
-Neymar saltó al césped a los 58 minutos en sustitución de **Abdullah Al Hamdan** y 29 después tuvo que retirarse visiblemente dolorido y contrariado tras sentir unas molestias en su muslo en primer lugar por una entrada de Zamani y más tarde por estirar demasiado su pierna izquierda, para que le sustituyera Mohammed Al Qahtani, lo que hizo saltar de nuevo las alarmas.
-
-El mensaje del brasileño en redes
----------------------------------
-
-Después del partido, en el que el Al Hilal se impuso por 3-0 con un triblete del serbio Aleksandar Mitrovic, mandó un mensaje de calma a través de sus redes sociales para tranquilizar a sus aficionados. ”_**Sentí como si fuera un calambre, solo que muy fuerte. Haré exámenes y espero que no sea nada má**_s”, deseó.
-
-”_**Es normal que después de un año pase esto, los médicos ya me avisaron, por eso tengo que tener cuidado y más minutos para jugar**_‘,’ añadió el internacional brasileño, que no esta inscrito en las competiciones nacionales por la incertidumbre en cuanto a su recuperación, y por tanto, sea cual sea el alcance de su lesión, no volverá a jugar hasta el próximo 26 de noviembre en la quinta jornada de la ‘**Champions**‘ asiática ante el Al-Sadd catarí
-
-La mina de cobre Mirador suspendió actividades por falta de energía
-===================================================================
-
-Ecuacorriente S.A., operadora del proyecto Mirador, suspendió sus actividades por falta de electricidad, como exigió el Ministerio de Energía.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![EL proyecto minero Mirador empezó a operar en 2019.](https://www.elcomercio.com/wp-content/uploads/2024/11/mirador.jpg)
-
-La empresa china **Ecuacorriente S.A. (ECSA), que opera el proyecto minero Mirador,** mantuvo paralizadas el 100% de sus actividades por falta de **electricidad**. La compañía confirmó este martes 5 de noviembre de 2024, que las actividades se suspendieron por más de 15 días[.](https://en.wikipedia.org/wiki/Mirador_mine "https://en.wikipedia.org/wiki/Mirador_mine")
-
-### Más noticias
-
-* [Nueva tarifa de luz para la industria está vigente, ¿cuánto ahorrará Ecuador?](https://www.elcomercio.com/actualidad/negocios/nueva-tarifa-electrica-sector-industrial-vigente-ahorro-ecuador-cortes-luz.html "Nueva tarifa de luz para la industria está vigente, ¿cuánto ahorrará Ecuador?")
-* [¿Cuándo se cambiarán las tarifas eléctricas para las empresas mineras?](https://www.elcomercio.com/actualidad/negocios/cuando-cambiara-tarifas-electricas-empresas-mineras-cortes-luz.html "¿Cuándo se cambiarán las tarifas eléctricas para las empresas mineras?")
-* [Empresa minera se desconecta de la energía pública de Ecuador](https://www.elcomercio.com/actualidad/negocios/empresa-minera-desconecta-red-electrica-ecuador-cortes-luz.html "Empresa minera se desconecta de la energía  pública de Ecuador")
-
-El pasado 16 de octubre de 2024, la ministra de Energía encargada, **Inés Manzano**, informó que solicitó a la firma china que se desconecte del Sistema Nacional Interconectado (SNI). Es decir, que deje de **consumir energía**. Por ello, paralizar sus actividades.
-
-Según cálculos del Ministerio de Energía, la desconexión de la minera permitió a Ecuador contar con 83 megavatios (MW), en medio de una de las peores **crisis energéticas del país**, que ha obligado a programar **cortes de luz** de hasta 14 horas al día.
-
-Se confirma la suspensión de actividades en mina Mirador
---------------------------------------------------------
-
-**Ecuacorriente** confirmó que sus actividades se suspendieron desde las 00:00 del viernes 18 de octubre hasta el 3 de noviembre. Se paralizó todo el proceso de **operación minera**, tanto la extracción del mineral como el procesamiento del mismo, señaló.
-
-Sin embargo, la firma china, informó que el lunes 4 de noviembre de 2024 se retomaron las actividades iniciales en una de las dos líneas de producción. “Pero, no es que estamos operando al 100%”, dijo.
-
-Además, agregó que aún no se tiene una fecha exacta para el restablecimiento total de sus actividades.
-
-¿Por qué se tuvo que paralizar las actividades la empresa china?
-----------------------------------------------------------------
-
-Las empresas mineras en fase de explotación requieren de mucha energía para operar. Por esta razón, en el **contrato firmado en 2012** entre E**cuador y Ecuacorriente** se incluye el compromiso de la firma china de construir la **hidroeléctrica Santa Cruz**, con una capacidad de 129 MW y una inversión de más de 216 millones de dólares. Esto, para garantizar el suministro energético a la minera.
-
-Según el acuerdo, el Estado tenía la obligación de proveer el 100% de la energía eléctrica requerida para el proyecto Mirador durante los primeros cinco años contados a partir de la construcción de la línea de transmisión Taday-Bomboiza-Ecuadorriente, es decir, desde noviembre de 2019, o hasta que la hidroeléctrica Santa Cruz estuviera operativa.
-
-Sin embargo, la firma china nunca construyó la **central hidroeléctrica**, señaló Fernando Benalcázar, exviceministro de Minas. “Es un serio problema el que tienen actualmente”, agregó.
-
-El **proyecto minero Mirador** es la primera mina a cielo abierto de cobre del país. Está ubicada en la parroquia Tundayme, del cantón El Pangui, en la provincia de **Zamora Chinchipe**. Actualmente, tiene más de 3 900 empleados.
-
-Cortes de luz en Guayaquil este miércoles 6 de noviembre
-========================================================
-
-Los cortes de luz en Guayaquil para este miércoles 6 de noviembre son de hasta seis horas.
-------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil este miércoles 6 de noviembre se mantienen en hasta seis horas de duración.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-miercoles-6-noviembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **miércoles 6 de noviembre** serán de hasta seis horas para el sector residencial.
-
-Para el **sector industrial**, la suspensión del servicio de energía eléctrica en la urbe porteña tiene diferentes horarios.
-
-### Más noticias:
-
-* [El ecuatoriano compra solo ciertos alimentos por los cortes de luz](https://www.elcomercio.com/actualidad/negocios/como-conservar-alimentos-durante-cortes-luz-ecuador.html "El ecuatoriano compra solo ciertos alimentos por los cortes de luz")
-* [Daniel Noboa amplió los meses de descuento del valor de las planillas de luz](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-amplio-tiempo-rebaja-valor-planillas-de-luz.html "Daniel Noboa amplió los meses de descuento del valor de las planillas de luz")
-
-Cortes de luz en Guayaquil este miércoles 6 de noviembre
---------------------------------------------------------
-
-Durante los feriados de noviembre, **Mazar** presentó una leve mejoría y el incremento en Coca Codo Sinclair permitió reducir las horas.
-
-Sin embargo, el país sigue dependiendo de la cantidad de lluvias para estabilizar el funcionamiento de las **hidroeléctricas**.
-
-Por estos motivos, las autoridades mantienen los cortes de energía eléctrica de **hasta seis horas** en todo el país, para el sector residencial.
-
-Mientras que, para el sector industrial, los cortes llegan hasta las **14 horas**.
-
-Esto, en medio de los proyectos de Gobierno para comprar energía, transformar la **matriz energética** para no depender de las lluvias.
-
-Además, de la eliminación de impuestos a la comercialización de **generadores** y el retiro del subsidio tarifario a las mineras.
-
-Con estas acciones, el Gobierno prevé que, para **diciembre**, los cortes de luz sean mínimos o ya no existan.
-
-En Guayaquil, la mayoría de sectores tiene cortes de luz de hasta seis horas, dividido en **dos franjas**.
-
-Aunque, existen sectores como Terranova 4,9 y avenida Gustavo Noboa Bejarano, desde vía Daule a subestación Mi Lote, sector Cervecería Nacional, con cortes de **tres horas**, durante todo el día.
-
-En el **sector industrial**, hay tres horarios: 09:00 a 15:00, 08:00 a 11:00, de 13:00 a 16:00, de 11:00 a 14:00 y de 10:00 a 13:00.
-
-CNEL recordó que, debido a la mejora de las **condiciones hidrológicas**, los cortes de energía pueden reducirse dentro del período de corte programado.
-
-A continuación, los cortes de luz en Guayaquil este **miércoles 6 de noviembre**, por sectores y franjas horarias:
