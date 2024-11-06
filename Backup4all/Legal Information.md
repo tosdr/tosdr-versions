@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [HDD enclosures Backup4all is compatible with](https://www.backup4all.com/which-one-touch-backup-hdd-enclosures-is-backup4all-compatible-with-kb.html)  
+* [What is a Full Backup?](https://www.backup4all.com/full-backup-kb.html)  
     
-* [How to restore a backup to Dropbox](https://www.backup4all.com/how-to-restore-a-backup-to-dropbox-kb.html)  
+* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
     
-* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
+* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
     
-* [How to back up data files from CenturyLink us ...](https://www.backup4all.com/how-to-back-up-data-files-from-centurylink-using-backup4all-kb.html)  
+* [How to back up data files from T Cloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-t-cloud-using-backup4all-kb.html)  
     
-* [How to configure backups to run sequentially](https://www.backup4all.com/how-to-configure-backups-to-run-sequentially-kb.html)  
+* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
     
 
 Choose language:
