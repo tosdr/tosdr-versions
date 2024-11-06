@@ -68,14 +68,6 @@ Free accounts support our journalism [Become a Member](https://www.snopes.com/jo
 
 Login [My Profile](https://www.snopes.com/profile/) Logout
 
-![republican_symbol](/design/images/republican_symbol.png)
-
-[Snopes is fact-checking the presidential election live!](https://www.snopes.com/live/2024-election-trump-harris/)
-
-[Read more here](https://www.snopes.com/live/2024-election-trump-harris/)
-
-![democrat_symbol](/design/images/democrat_symbol.png)
-
 [Cookie Policy](https://www.iubenda.com/privacy-policy/49533561/cookie-policy "Cookie Policy ")
 
 [![Snopes.com](/design/images/logo-main.png)](https://www.snopes.com/)
