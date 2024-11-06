@@ -2,6 +2,8 @@
 
 PC Health Solution](https://www.iobit.com/en/index.php)
 
+* [![SALE](../tpl/images/2024/blackfriday/nav_sale_icon.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=navi_iconbfs)
+* [![Time-Limited 90% OFF >](../tpl/images/2024/blackfriday/nav_off_icon.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=navi_iconbfd)
 * [Partner](https://www.iobit.com/en/partnersolutions.php)
 * Support
     
@@ -148,13 +150,4 @@ PC Health Solution](https://www.iobit.com/en/index.php)
     
 * Store
     
-    [](https://www.iobit.com/en/store.php)
-    
-    ![](../tpl/images/product-icons/shop.svg)
-    
-    ### IObit Shop
-    
-    Up to 87% OFF
-    
-    Complete Solutions for PC  
-    Problems & Threats.
+    [**Get It Now** ![83% OFF](../tpl/images/2024/blackfriday/header_store_banner_en.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=store_menu)
