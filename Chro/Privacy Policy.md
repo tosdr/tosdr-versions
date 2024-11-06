@@ -1,14 +1,17 @@
 [Skip to main content](#brx-content) [Skip to footer](#brx-footer)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201104%20244'%3E%3C/svg%3E)](https://chroseries.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201060%20209'%3E%3C/svg%3E)](https://chroseries.com/)
 
-* [Indonesia](https://chroseries.com/country/indonesia/)
-* [Malaysia](https://chroseries.com/country/malaysia/)
-* [Singapore](https://chroseries.com/country/singapore/)
 * [Philippines](https://chroseries.com/country/philippines/)
 * [Vietnam](https://chroseries.com/country/vietnam/)
+* [Indonesia](https://chroseries.com/country/indonesia/)
+* [Malaysia](https://chroseries.com/country/malaysia/)
+* [Thailand](https://chroseries.com/country/thailand/)
+* [Hong Kong](https://chroseries.com/country/hong-kong/)
+* [Singapore](https://chroseries.com/country/singapore/)
 
-### Privacy policy
+Privacy policy
+==============
 
 PRIVACY POLICY
 --------------
@@ -31,7 +34,7 @@ By submitting this application form to HRM Asia, attendees agree that any person
 
 If attendees are providing someone else’s personal data or submitting this Form on behalf of someone else, you hereby declare that you have obtained consent from the named individual(s) in this Form, for the collection, use and disclosure of his/her personal data by you to organiser, HRM Asia, HRM Asia business partners and other third party service providers.
 
-If attendees would like to request access to, or to correct, or to withdraw consent to organiser use of your personal data, photographs and/or videos after submitting this form, or if attendees have questions on how organiser and HRM Asia handles personal data, please send an email to the programme organiser at [\[email protected\]](https://chroseries.com/cdn-cgi/l/email-protection). Please note that by withdrawing consent from organiser/HRM Asia list after the event will unsubscribe attendee from receiving emails from organiser/HRM Asia which does not include third party emails like sponsors and exhibitors.
+If attendees would like to request access to, or to correct, or to withdraw consent to organiser use of your personal data, photographs and/or videos after submitting this form, or if attendees have questions on how organiser and HRM Asia handles personal data, please send an email to the programme organiser at info@hrtechfestasia.com. Please note that by withdrawing consent from organiser/HRM Asia list after the event will unsubscribe attendee from receiving emails from organiser/HRM Asia which does not include third party emails like sponsors and exhibitors.
 
 ### THIRD PARTY LINKS AND CONTENT
 
@@ -105,15 +108,15 @@ In general terms, this will mean that your personal information will be kept for
 
 Proudly organised by:![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2073'%3E%3C/svg%3E)
 
-### Get in touch
+###### Get in touch
 
 [Linkedin](https://www.linkedin.com/company/hrmasia/)[Facebook](https://www.facebook.com/HRMAsiaMag?mibextid=ZbWKwL)[Twitter](https://twitter.com/HRM_Asia?t=0klS_r2TdbRSiRLa5fHjVw&s=09)
 
-### Events
+###### Events
 
-[Singapore](https://chroseries.com/country/singapore/)[Indonesia](https://chroseries.com/country/indonesia/)[Malaysia](https://chroseries.com/country/malaysia/)[Philippines](https://chroseries.com/country/philippines/)[Vietnam](https://chroseries.com/country/vietnam/)
+[Philippines](https://chroseries.com/country/philippines/)[Vietnam](https://chroseries.com/country/vietnam/)[Indonesia](https://chroseries.com/country/indonesia/)[Malaysia](https://chroseries.com/country/malaysia/)[Thailand](https://chroseries.com/country/thailand/)[Hong Kong](https://chroseries.com/country/hong-kong/)[Singapore](https://chroseries.com/country/singapore/)
 
-### Resources
+###### Resources
 
 [Exhibit/Sponsor](https://chroseries.com/become-sponsor/)[Become a Speaker](https://chroseries.com/apply-speaker/)[Privacy Policy](https://chroseries.com/privacy-policy/)[Terms and Conditions](https://chroseries.com/terms-and-conditions/)
 
