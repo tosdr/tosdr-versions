@@ -1,14 +1,14 @@
-[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/hr/)
+[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/pt-br/)
 
-[Inkscape](https://inkscape.org/hr/)
-====================================
+[Inkscape](https://inkscape.org/pt-br/)
+=======================================
 
-[Crtaj slobodno.](https://inkscape.org/hr/)
--------------------------------------------
+[Desenhe Livremente.](https://inkscape.org/pt-br/)
+--------------------------------------------------
 
-* [❤️ Pomogni razvoju Inkscapea! ❤️](https://inkscape.org/hr/support-us/donate/)
+* [❤️ Help us make Inkscape awesome! ❤️](https://inkscape.org/support-us/donate/)
     
-* Hrvatski
+* Português Brasileiro
     
     [English](https://inkscape.org/en/community/coc/)
     
@@ -42,131 +42,131 @@
     
     [Indonesia](https://inkscape.org/id/community/coc/)
     
-* [Prijavi se](https://inkscape.org/hr/user/login/?next=/hr/zajednica/pravila-ponasanja/)
+* [Entrar](https://inkscape.org/pt-br/user/login/?next=/pt-br/comunidade/coc/)
     
-* [Registriraj se](https://inkscape.org/hr/user/register/)
+* [Registrar](https://inkscape.org/pt-br/user/register/)
     
 
- ![Traži](https://media.inkscape.org/static/images/search.svg)
+ ![Buscar](https://media.inkscape.org/static/images/search.svg)
 
-* [O programu](https://inkscape.org/hr/o-programu/)
-    * [Pregled](https://inkscape.org/hr/o-programu/pregled/)
-    * [Karakteristike](https://inkscape.org/hr/o-programu/karakteristike/)
-    * [Snimke ekrana](https://inkscape.org/hr/o-programu/snimke-ekrana/)
-    * [Voditeljstvo](https://inkscape.org/hr/*board/)
-    * [Licenziranje](https://inkscape.org/hr/o-programu/licenziranje/)
-    * [Brend i logo](https://inkscape.org/hr/o-programu/brend-i-logo/)
-* [Preuzimanja](https://inkscape.org/hr/release/)
-    * [Aktualna verzija 1.4](https://inkscape.org/hr/release/)
-    * [Najnovija razvojna verzija](https://inkscape.org/hr/release/inkscape-master/?latest=1)
-    * [Proširenja](https://inkscape.org/hr/gallery/=extension/)
-* [Novosti](https://inkscape.org/hr/news/)
-    * [Kalendari](https://inkscape.org/hr/cals/)
+* [Sobre](https://inkscape.org/pt-br/sobre/)
+    * [Visão Geral](https://inkscape.org/pt-br/sobre/visao-geral/)
+    * [Características](https://inkscape.org/pt-br/sobre/caracteristicas/)
+    * [Capturas de Tela](https://inkscape.org/pt-br/sobre/capturas-de-tela/)
+    * [Administração](https://inkscape.org/pt-br/*board/)
+    * [Licenciamento](https://inkscape.org/pt-br/sobre/licenciamento/)
+    * [Identidade Visual](https://inkscape.org/pt-br/sobre/identidade-visual/)
+* [Download](https://inkscape.org/pt-br/release/)
+    * [Current Stable Version 1.4](https://inkscape.org/release/)
+    * [Unstable development snapshot](https://inkscape.org/release/inkscape-master/?latest=1)
+    * [Complementos](https://inkscape.org/pt-br/gallery/=extension/)
+* [Notícias](https://inkscape.org/pt-br/news/)
+    * [Calendars](https://inkscape.org/cals/)
     * [Contributor Blog](https://inkscape.org/*membership/blog/)
-* [Zajednica](https://inkscape.org/hr/zajednica/)
-    * [Pravila ponašanja](https://inkscape.org/hr/zajednica/pravila-ponasanja/)
-    * [Forumi](https://inkscape.org/hr/forums/)
-    * [Chat zajednice](https://chat.inkscape.org/channel/inkscape_user)
-    * [Pretplatničke liste](https://lists.inkscape.org/postorius/lists/?all-lists)
-    * [Galerija](https://inkscape.org/hr/gallery/)
-    * [Timovi](https://inkscape.org/hr/user/teams/)
+* [Comunidade](https://inkscape.org/pt-br/comunidade/)
+    * [Código de Conduta](https://inkscape.org/pt-br/comunidade/coc/)
+    * [Forums](https://inkscape.org/forums/)
+    * [Chat](https://chat.inkscape.org/channel/inkscape_user)
+    * [Listas de Discussão](https://lists.inkscape.org/postorius/lists/?all-lists)
+    * [Galeria](https://inkscape.org/pt-br/gallery/)
+    * [Teams](https://inkscape.org/user/teams/)
     * [About Screen Contest](https://inkscape.org/community/about-screen-contests/)
-* [Nauči](https://inkscape.org/hr/nauci/)
-    * [Pitanja i odgovori](https://inkscape.org/hr/nauci/pitanja-i-odgovori/)
-    * [Knjige i priručnici](https://inkscape.org/hr/nauci/knjige-i-prirucnici/)
-    * [Vježbe](https://inkscape.org/hr/nauci/vjezbe/)
-    * [Animacije](https://inkscape.org/hr/learn/animation/)
-* [Surađuj](https://inkscape.org/hr/suradjuj/)
-    * [Testiranje](https://inkscape.org/hr/contribute/testing/)
-    * [Prijava grešaka](https://inkscape.org/hr/contribute/report-bugs/)
-    * [Prijevodi](https://inkscape.org/hr/contribute/translations/)
-    * [Popis zadataka zajednice](https://inkscape.org/hr/contribute/to-do-list/)
-    * [Unapređuj Inkscape](https://inkscape.org/hr/contribute/promote/)
-    * [Statistike o suradnicima](https://inkscape.org/hr/suradjuj/statistike-o-suradnicima/)
+* [Aprender](https://inkscape.org/pt-br/aprender/)
+    * [FAQ](https://inkscape.org/pt-br/aprender/faq/)
+    * [Livros e Manuais](https://inkscape.org/pt-br/aprender/livros/)
+    * [Tutoriais](https://inkscape.org/pt-br/aprender/tutoriais-do-inkscape/)
+    * [Animação](https://inkscape.org/pt-br/aprender/animacao/)
+* [Contribuir](https://inkscape.org/pt-br/contribuir/)
+    * [Testando](https://inkscape.org/pt-br/contribuir/testando/)
+    * [Relatar Erros](https://inkscape.org/pt-br/contribuir/relatar-erros/)
+    * [Tradução](https://inkscape.org/pt-br/contribuir/traducao/)
+    * [Lista de Tarefas da Comunidade](https://inkscape.org/pt-br/contribuir/lista-de-tarefas-da-comunidade/)
+    * [Promover](https://inkscape.org/pt-br/contribuir/promover/)
+    * [Estatísticas de Contribuidores](https://inkscape.org/pt-br/contribuir/estatisticas-de-contribuidores/)
     * [Extensions](https://inkscape.gitlab.io/extensions/documentation/)
-* [Razvijaj](https://inkscape.org/hr/razvijaj/)
-    * [Kako započeti](https://inkscape.org/hr/develop/getting-started/)
-    * [O SVG-u](https://inkscape.org/hr/develop/about-svg/)
-    * [Način kodiranja](https://inkscape.org/hr/develop/coding-style/)
-    * [Upravljanje greškama](https://inkscape.org/hr/develop/bug-management/)
-    * [Inkscapeova spremišta](https://inkscape.org/hr/develop/inkscape-git/)
-    * [Ispravljanje grešaka](https://inkscape.org/hr/develop/debugging/)
-    * [Proširenja](https://inkscape.org/hr/develop/extensions/)
-* [Podrži nas](https://inkscape.org/hr/podrzi-nas/)
-    * [Doniraj](https://inkscape.org/hr/podrzi-nas/doniraj/)
-    * [Hakerski krug](https://inkscape.org/hr/support-us/hackfests/)
-    * [Suradnja na SVG standardu](https://inkscape.org/hr/podrzi-nas/suradnja-na-svg-standardu/)
-    * [Sponzori](https://inkscape.org/hr/podrzi-nas/sponzori/)
+* [Desenvolvimento](https://inkscape.org/pt-br/desenvolvimento/)
+    * [Primeiros Passos](https://inkscape.org/pt-br/desenvolvimento/primeiros-passos/)
+    * [Sobre SVG](https://inkscape.org/pt-br/desenvolvimento/sobre-svg/)
+    * [Estilo de Codificação](https://inkscape.org/pt-br/desenvolvimento/estilo-de-codificacao/)
+    * [Gerenciamento de Erros](https://inkscape.org/pt-br/desenvolvimento/gerenciamento-de-erros/)
+    * [Repositórios do Inkscape](https://inkscape.org/pt-br/desenvolvimento/inkscape-bzr/)
+    * [Depuração](https://inkscape.org/pt-br/desenvolvimento/depuracao/)
+    * [Extensões](https://inkscape.org/pt-br/desenvolvimento/extensoes/)
+* [Nos Apóie](https://inkscape.org/pt-br/nos-apoie/)
+    * [Doar](https://inkscape.org/pt-br/nos-apoie/doar/)
+    * [Maratonas de Programação](https://inkscape.org/pt-br/nos-apoie/maratonas-de-programacao/)
+    * [Padronização do SVG](https://inkscape.org/pt-br/nos-apoie/padronizacao-do-svg/)
+    * [Patrocinadores](https://inkscape.org/pt-br/nos-apoie/patrocinadores/)
 
-[Početna](https://inkscape.org/hr/) » [Zajednica](https://inkscape.org/hr/zajednica/) » _Pravila ponašanja_
+[Início](https://inkscape.org/pt-br/) » [Comunidade](https://inkscape.org/pt-br/comunidade/) » _Código de Conduta_
 
-Pravila ponašanja Inkscape zajednice
-====================================
+Código de Conduta da Comunidade Inkscape
+========================================
 
- ![None](https://media.inkscape.org/media/cms_page_media/380/inky_halo_3_2nxtW58.png "None")Inkscapeove online zajednice su prijateljski, otvoreni prostori u kojima korisnici mogu surađivati na daljnjem razvoju Inkscapea, dijeliti i raspravljati o svojim radovima, inspirirati jedni druge i komunicirati na konstruktivan način. U tu svrhu smo uspostavili skup smjernica za koje vjerujemo da će pomoći u poticanju takvog okruženja. Svatko tko je voljan slijediti ove smjernice dobrodošao je u našim zajednicama.
+ ![](https://media.inkscape.org/media/cms_page_media/380/inky_halo_3.png)As comunidades on-line do Inkscape destinam-se a ser espaços amigáveis, inclusivos para os usuários para colaborar com o desenvolvimento do Inkscape, compartilhar e discutir suas criações, inspirar uns aos outros e interagir de forma construtiva. Para esse fim, nós estabelecemos um conjunto de orientações que acreditamos que irão ajudar na melhoria do ambiente. Qualquer pessoa disposta a seguir essas diretrizes é bem-vinda em nossas comunidades.
 
-_Ova se pravila ponašanja primjenjuju na sve prostore kojima upravlja projekt Inkscape. To uključuje internetski chat, pretplatničke liste, sustav za praćenje grešaka, web stranice, službene Inkscape događaje i sve druge forume koje je osmislio projektni tim, a koji zajednica koristi za komunikaciju._
+_Este código de conduta se aplica a todos os espaços gerenciados pelo projeto Inkscape. Isso inclui bate-papo na internet, as listas de discussão, o rastreador de erros e falhas, o web site, eventos oficiais do Inkscape e quaisquer outros fóruns criados pela equipe do projeto que a Comunidade usa para comunicação._
 
-Poželjno ponašanje
-------------------
+Comportamento desejável
+-----------------------
 
-U interakciji s drugima, molimo te da se trudiš slijediti ova načela:
+Em suas interações com os demais, por favor faça o seu melhor para seguir estes princípios:
 
-* **Budi obazriv i prijateljski raspoložen.** Na drugoj strani uvijek postoji čovjek poput tebe. Poštuj ljude i budi ljubazan prema njima. Ljudi su najproduktivniji u zajednicama u kojima se osjećaju dobrodošlo i ugodno.
-* **Zatraži pomoć kad nisi siguran i pruži pomoć ako možeš.** I najbolji stručnjaci se jednom bili početnici. Postavljanje pitanja u ranom stadiju izbjegava mnoge probleme kasnije. Postavljaj pitanja po mogućnosti na odgovarajućem forumu. Ako možeš, pomogni manje iskusnim korisnicima ostvariti svoje ideje, čak i ako ti se problemi čine trivijalnima. Na primjer, ako je na pitanje odgovoreno u često postavljanim pitanjima, navedi poveznicu do odgovarajućeg odjeljka, umjesto da ih grdiš da ne čitaju odjeljak s često postavljanim pitanjima.
-* **Diskutiraj razumno.** Po mogućnosti zbjegavaj nestrukturiranu kritiku. Pobrini se da svaka kritika koju nudiš bude razumna, konstruktivna i izražena na uljudan način i nemoj kritiku drugih smatrati osobnim napadom. Prihvati da nećeš uvijek biti u pravu. Shvati da ljudi imaju različita mišljenja i da ponekad ne postoji jedan pravi odgovor.
-* **Budi odgovoran.** Svatko povremeno griješi – preuzmi odgovorsnost i budi voljan ih ispraviti. Ako se netko osjeća uvrijeđen, pažljivo ga saslušaj i ispravi svoju pogrešku.
-* **Opraštaj.** Ako te je netko uvrijedio, budi spreman prihvatiti isprike i krenuti dalje. Nemoj mu zamjerati ili mu se osvetiti. Ne dopusti da manji prekršaji eskaliraju u velike borbe. Biti osvetoljubiv boli zajednicu čak i ako si u pravu, dok opraštanje omogućuje počiniteljima da postanu bolji.
-* **Priznanja i zasluge.** Nemoj pokušavati prikazati tuđi rad kao svoj. Mnogi ljudi dijele svoje kreativne radove online kako bi postali poznati. Nepriznavanje pravog autora lišava ih tog priznanja i ozbiljno će naškoditi tvom ugledu kad se otkrije plagijat.
-* **Koristi neutralni jezik.** Izbjegavaj riječi koje će drugi vjerojatno smatrati uvredljivima.
-* **Otvoreno govori o sukobima interesa i riješavaj ih.** Budi svjestan kad si u sukobu interesa zbog zaposlenja ili drugih projekata u koje si uključen. U takvom slučaju se suzdrži ili delegiraj odluke koje bi se mogle smatrati osobnim interesom. Kad si u nedoumici, zatraži drugo mišljenje.
-* **Budi pažljiv kad odlaziš.** Kad napuštaš odgovorno mjesto u projektu Inkscape, učini to na način, kako bi poremećaj u zajednici bio što manji. Reci ljudima da odlaziš i poduzmi odgovarajuće korake, kako bi osigurao da drugi mogu nastaviti tamo gdje si stao.
-* **Poznaj svoje granice.** Inkscape je istovremeno vrlo veliki projekt, ali i vrlo mali dio svijeta. Podijeli svoje odgovornosti i ne pokušavaj učiniti sve odjednom. Odmori se kad više nemaš volje raditi na Inkscapeu. Bolje je stvari neko vrijeme staviti na stranu, nego izgorjeti od rada.
+* **Seja respeitoso e amigável.** Há sempre um ser humano muito parecido com você na outra extremidade. Sempre trate-os com todo o respeito e seja gentil com eles. As pessoas são mais produtivas nas comunidades onde eles se sentem bem acolhidos e confiantes.
+* **Peça ajuda quando não tiver certeza, e forneça ajuda se você puder.** Mesmo os melhores especialistas já foram iniciantes. Perguntar mais cedo evita muitos problemas mais tarde, então incentivamos as perguntas, mas elas devem ser encaminhadas ao fórum apropriado. Se você puder, ajude os usuários menos experientes do que você para trazer suas idéias à fruição, mesmo que seus problemas pareçam triviais para você. Por exemplo, se uma pergunta é respondida na FAQ, forneça um link relevante para a seção em vez de escárnio-los por não ler a FAQ.
+* **Discuta racionalmente.** Mantenha a crítica não-estruturada ao mínimo. Certifique-se de que qualquer crítica que você oferece seja expressa de uma forma educada, construtiva e racional e não aceite as críticas dos outros como um ataque pessoal. Aceite que você nem sempre estará com a razão. Reconheça que as pessoas têm diferenças de opinião e que às vezes não há uma única resposta correta.
+* **Seja responsável.** Todo mundo comete erros de vez em quando—assuma-os e esteja disposto a trabalhar em corrigí-los. Se alguém foi prejudicado ou ofendido, ouça com atenção e trabalhe para corrigir o erro.
+* **Perdoe.** Se você é injustiçado, esteja preparado para aceitar as desculpas e seguir em frente. Não guarde rancor e nem procure acertar as contas. Não deixe que delitos menores se transformem em grandes batalhas. Ser vingativo fere a Comunidade, mesmo que você esteja certo, enquanto o perdão permite que os infratores melhorem.
+* **Dê créditos onde eles são devidos.** Não tente passar o trabalho dos outros como sendo seu. Muitas pessoas compartilham seu trabalho criativo online principalmente para ser reconhecido. Não dar créditos ao verdadeiro autor priva-os do reconhecimento, e sua reputação será gravemente prejudicada quando o plágio for descoberto.
+* **Use um idioma neutro.** Evite palavras que os outros são propensos a considerarem ofensivo ou excluídos.
+* **Divulgar e resolver conflitos de interesses.** Você deve estar ciente de que quando você tem um conflito de interesses, devido ao emprego ou outros projetos em que você está envolvido, abstenha-se ou delegue decisões que podem ser vistas de forma egoísta. Quando houver dúvidas, peça uma segunda opinião.
+* **Demita-se cordialmente.** Quando você deixar uma posição responsável do projeto Inkscape, faça-o de uma forma que minimize interrupções para a Comunidade. Diga às pessoas que está saindo e tome as medidas adequadas para assegurar que os outros podem continuar de onde você parou.
+* **Conheça seus limites.** O Inkscape é ao mesmo tempo, um projeto muito grande e uma parte muito pequena do mundo. Compartilhe suas responsabilidades e não tente fazer tudo de uma vez. Faça uma pausa, se já não sente mais vontade de trabalhar com o Inkscape. É melhor colocar as coisas em espera por um tempo do que se queimar.
 
-Smjernice za sadržaje koje šalju korisnici
+Diretrizes para os conteúdos enviados pelo usuário
+--------------------------------------------------
+
+O conteúdo enviado para a Galeria deve estar relacionado ao Inkscape ou ao projeto Inkscape (por exemplo, criado com o Inkscape, criado para uso com o Inkscape ou no site, mostrando como trabalhar com o Inkscape, etc.). Reservamo-nos o direito de remover qualquer conteúdo que não pareça apropriado ou que não cumpra as seguintes regras obrigatórias:
+
+* A Arte deve ser original e de sua própria criação ou derivada de uma arte disponível sob uma licença aberta. Não podemos aceitar submissões que infrinjam direitos autorais.
+* Sem nudez ou violência gráfica. (Nota: podemos permitir este tipo de conteúdo uma vez que seja possível marcá-lo como tal, mas material pornográfico e/ou ilegal ainda iria ser reprovado.)
+* Nenhum conteúdo que seja explicitamente de natureza discriminatória.
+* Sem partidarismo político ou que simbolizem regimes totalitários.
+
+Comportamento inaceitável
+-------------------------
+
+As seguintes ações e comportamentos são consideradas inaceitáveis:
+
+* Assédio de outros usuários. Isto inclui, mas não está limitada a ameaças de qualquer tipo, insultos, linguagem discriminatória e piadas, atenção sexual indesejada, postando informações de identificação pessoal ("doxing").
+* Perturbação deliberada: perturbações, mensagens indesejadas, mensagens ofensivas, mensagens provocadoras, chamar atenção, distribuição de malware, qualquer tipo de ataques contra a infra-estrutura de computação do projeto Inkscape ou suas organizações colaboradoras.
+* Distribuição de material pornográfico ou ilegal em comunidades do Inkscape.
+* Argumentos extendidos sobre quais comportamentos são e não são permitidos sob os termos deste código.
+* Defendendo ou encorajando qualquer um dos acima.
+
+Consequências do comportamento inaceitável
 ------------------------------------------
 
-Svi radovi preneseni u galeriju trebali bi biti povezani s Inkscapeom ili Inkscape projektom (to znači da su: stvoreni s Inkscapeom, stvoreni za korištenje s Inkscapeom ili njegovom web-lokacijom, pokazuju kako raditi s Inkscapeom, itd.). Zadržavamo pravo uklanjanja bilo kojeg neprikladnog sadržaja ili sadržaja koji se ne pridržava sljedećih obaveznih pravila:
+Se um membro de uma comunidade Inkscape não segue esse código, por favor relate aos moderadores apropriados, mesmo se você não está entre as partes diretamente afetadas. Os moderadores então tomarão as medidas que considerem necessárias para proteger a Comunidade. Violações repetidas do código podem resultar em expulsão temporária ou permanente (proibição).
 
-* Umjetnički radovi moraju biti tvoje vlastite izvorne kreacije ili izvedene iz radova dostupnih pod otvorenom licencom. Ne možemo prihvatiti prijave koje krše autorska prava.
-* Nema golotinje ili grafičkog nasilja. (Napomena: ovu vrstu sadržaja možemo dopustiti, kad ga je moguće kao takvog označiti, ali bi pornografski i/ili nezakoniti materijali i dalje bili zabranjeni.)
-* Nema sadržaja koji je eksplicitno diskriminirajući.
-* Nema političke agitacije ili totalitarne simbolike.
+Emissão de relatórios
+---------------------
 
-Neprihvatljivo ponašanje
-------------------------
+Para violações do código de conduta que evolui no canal de IRC, um dos usuários com direitos mod da mensagem (seu cliente IRC deve mostrar quem tem direitos mod). Para outras violações, escreva um e-mail para Christopher Rogers: cajhne@gmail.com. Forneça informações detalhadas sobre o que aconteceu.
 
-Sljedeće radnje i ponašanja smatraju se neprihvatljivima:
+Se você acredita que você tem sido injustamente penalizado por um moderador, pode contatar a [Administração do Inkscape](https://inkscape.org/about/governance/). As decisões da Administração são finais.
 
-* Uznemiravanje drugih korisnika. To uključuje, ali nije ograničeno na, prijetnje bilo koje vrste, uvrede, diskriminirajući jezik i viceve, neželjenu seksualnu pozornost, postavljanje osobnih podataka („doxing”).
-* Namjerno ometanje: trolling, spamanje, „paljenje” diskusije, provociranje, traženje pažnje, distribuiranje zlonamjernog softvera, bilo kakve napade na računalnu infrastrukturu Inkscape projekta ili njegovih suradničkih organizacija.
-* Distribucija ilegalnog ili pornografskog materijala u Inkscape zajednicama.
-* Razvučene diskusije o tome koja od ovih pravila ponašanje su dopuštena a koja ne.
-* Zagovaranje ili poticanje bilo čega od gore navedenog.
-
-Posljedice neprihvatljivog ponašanja
-------------------------------------
-
-Ako neki član Inkscape zajednice ne slijedi ova pravila, molimo te da to javiš odgovarajućim moderatorima, čak i ako nisi izravno pogođen. Moderatori će tada poduzeti radnje koje smatraju potrebnima za zaštitu zajednice. Ponovnim kršenjem pravila može rezultirati privremenim ili trajnim isključenjem (zabranom).
-
-Prijavljivanje kršenja pravila
-------------------------------
-
-Kršenja pravila ponašanja na IRC kanalu prijavi jednom od korisnika koji imaju moderatorska prava (tvoj IRC klijent bi trebao pokazati tko ima moderatorska prava). Za ostala kršenja pravila, napiši [Inkscapeov odbor](https://inkscape.org/about/governance/). Navedi detaljne informacije o tome što se dogodilo.
-
-Ako smatraš da te je moderator nepravično kaznio, možeš kontaktirati [Inkscapeov odbor](https://inkscape.org/about/governance/). Odluke odbora su konačne.
-
-Daljnje čitanje
+Outras Leituras
 ---------------
 
-Daljnje savjete za dobru i uspješnu komunikaciju, uključujući, ali ne ograničavajući se na zaštitu od prezaposlenosti, možeš naći u smjernicama [Freenode Channel Guidelines](https://freenode.net/changuide).
+Mais dicas para uma comunicação boa e bem sucedida, incluindo mas não limitado a como se proteger de _burnout_, podem ser encontradas nas diretrizes do [Canal de Orientações Freenode](https://freenode.net/changuide).
 
-_Zasluge za izvore i inspiraciju prelaze na SpeakUp! projekt, [Django projekt](http://www.djangoproject.com/conduct/), [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct), [Citizen Code of Conduct](http://citizencodeofconduct.org/), kao i mnoge druge. Ova pravila ponašanja su licencirana pod licencom [Imenovanje-Dijeli pod istim uvjetima 3.0](https://creativecommons.org/licenses/by-sa/3.0/hr/)._
+_Créditos para as fontes e inspiração para o [projeto SpeakUp!](http://speakup.io/), o [Projeto Django](http://www.djangoproject.com/conduct/), [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct),_ [Código de Conduta do Cidadão](http://citizencodeofconduct.org/)_, bem como muitos outros. Este código de conduta é licenciado sob a [Licença Creative Commons Attribution Share-Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/)._
 
-Inkscape je slobodan softver otvorenog koda, licenciran pod općom javnom licencom ([GPL](http://www.gnu.org/licenses/gpl-2.0.html)).
+O Inkscape é Gratuito e de Código Aberto licenciado sob a [GPL](http://www.gnu.org/licenses/gpl-2.0.html).
 
-Zahvaljujemo se: [Fastly](http://www.fastly.com/ "Spremanje sadržaja putem usluge Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [Autori](https://inkscape.org/hr/credits/ "Autori") [![PY](https://media.inkscape.org/static/images/django.svg "Ova web-stranica koristi:
+Com agradecimentos a: [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [Autores](https://inkscape.org/pt-br/credits/ "Autores") [![PY](https://media.inkscape.org/static/images/django.svg "Site executado em:
 Python 3.6.8
 Django 2.2
-App: CMS [Pravila ponašanja]
+App: CMS [Código de Conduta]
 InkscapeWeb 1.6, as of Mon Oct 14 23:27:40 2024 (cf26cc5)")](https://gitlab.com/inkscape/inkscape-web)
