@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/b306dab3-95ba-4a14-9a65-fde1d719340d/20241106T192434/b306dab3-95ba-4a14-9a65-fde1d719340d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b306dab3-95ba-4a14-9a65-fde1d719340d/20241106T192434/b306dab3-95ba-4a14-9a65-fde1d719340d_360x203.jpg)](https://www.king5.com/article/news/politics/elections/when-election-results-expected-washington-state-counties/281-7aff4c01-aa00-4011-887e-2784ef2aa128)
+        
+        #### [When will Washington drop more election results? Check this list](https://www.king5.com/article/news/politics/elections/when-election-results-expected-washington-state-counties/281-7aff4c01-aa00-4011-887e-2784ef2aa128)
+        
     *  [![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_360x203.jpg)](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
         
-        #### [Key races: Cantwell expected to serve 5th term in Senate, Ferguson projected to be governor,](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
-        
-    *  [![](https://media.king5.com/assets/KING/images/1bc79eba-c968-456f-8cd7-7073302bb01f/20241106T075847/1bc79eba-c968-456f-8cd7-7073302bb01f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bc79eba-c968-456f-8cd7-7073302bb01f/20241106T075847/1bc79eba-c968-456f-8cd7-7073302bb01f_360x203.jpg)](https://www.king5.com/article/news/local/couple-killed-newcastle-tree/281-8a91a231-7997-4ac5-b9f6-ed508871204b)
-        
-        #### [Family, friends mourn loss of couple killed by tree in Newcastle](https://www.king5.com/article/news/local/couple-killed-newcastle-tree/281-8a91a231-7997-4ac5-b9f6-ed508871204b)
+        #### [Key races: Cantwell expected to serve 5th term in Senate, Ferguson projected to be governor](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+54°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
