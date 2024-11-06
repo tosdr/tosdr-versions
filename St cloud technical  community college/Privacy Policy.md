@@ -2,6 +2,7 @@
     * [Technology Services](https://sctcc.edu/technology-services)
         * [D2L Brightspace](https://sctcc.edu/d2l)
         * [Email and Office 365](https://sctcc.edu/office365)
+        * [Cyclone ID Card](https://sctcc.edu/cyclone-card)
         * [StarID](https://sctcc.edu/starID)
         * [Star Alert Notifications](https://sctcc.edu/star-alert)
         * [Online Privacy Statement](https://sctcc.edu/online-privacy-statement)
