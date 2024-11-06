@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,26 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111705-garbage-day-2024-11-05)
+     [](https://patriotpost.us/memes/111732-unburdened-2024-11-06)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34471)
+     [](https://patriotpost.us/cartoons/34475)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [The Washington Stand Florida’s Pro-Abortion Amendment 4 Ballot Initiative Fails](https://patriotpost.us/opinion/111733-floridas-pro-abortion-amendment-4-ballot-initiative-fails-2024-11-06)
+*      [John Stossel The Best of Life](https://patriotpost.us/opinion/111717-the-best-of-life-2024-11-06)
 *      [Byron York Amid Poll Flap, Celebrities Rush Contributions to Harris Campaign](https://patriotpost.us/opinion/111715-amid-poll-flap-celebrities-rush-contributions-to-harris-campaign-2024-11-06)
 *      [Betsy McCaughey TB — The Silent Killer Crossing Our Border](https://patriotpost.us/opinion/111711-tb-the-silent-killer-crossing-our-border-2024-11-06)
 *      [Tim Graham The Media Are Egotistical Exaggerators and Liars](https://patriotpost.us/opinion/111710-the-media-are-egotistical-exaggerators-and-liars-2024-11-06)
+*      [The Babylon Bee America Unburdens Itself From What Has Been](https://patriotpost.us/opinion/111716-america-unburdens-itself-from-what-has-been-2024-11-06)
 *      [Allen West November 6, 2024](https://patriotpost.us/opinion/111714-november-6-2024-2024-11-05)
 *      [Rich Lowry The Media on the Ballot](https://patriotpost.us/opinion/111713-the-media-on-the-ballot-2024-11-05)
-*      [Ian Haworth Kemi Badenoch Teaches Us a Lesson on Race](https://patriotpost.us/opinion/111712-kemi-badenoch-teaches-us-a-lesson-on-race-2024-11-05)
-*      [Dennis Prager Calling Trump ‘Hitler’ Has Done Permanent Damage to the Moral Realm](https://patriotpost.us/opinion/111685-calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm-2024-11-05)
-*      [Victor Joecks Harris Is Wearing ‘The Emperor’s New Clothes’](https://patriotpost.us/opinion/111683-harris-is-wearing-the-emperors-new-clothes-2024-11-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +228,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
-“Let each citizen remember at the moment he is offering his vote that he is not making a present or a compliment to please an individual — or at least that he ought not so to do; but that he is executing one of the most solemn trusts in human society for which he is accountable to God and his country.” —Samuel Adams (1781)
+“What a glorious morning this is!” —Samuel Adams (1775)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
