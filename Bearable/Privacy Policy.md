@@ -422,5 +422,3 @@ Menu
 [Privacy Policy](http://bearable.app/privacy-policy)
 
 [Terms & Conditions](http://bearable.app/terms-and-conditions)
-
-![](https://www.facebook.com/tr?id=1464682303877027&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=bearable.app%2Fprivacy-policy%2F)
