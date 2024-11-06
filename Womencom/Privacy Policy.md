@@ -54,19 +54,7 @@
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
     
-* *  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-        
-        ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-        
-        Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-        
-    *  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+* *  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
         [Wellness](https://www.women.com/category/wellness/)
         
@@ -78,22 +66,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
+    *  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        
+        ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+        
+        While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+        
 
 More Stories
 ------------
 
-*  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-    
-    ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-    
-    While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-    
 *  [![Ehan and Vinay Kamat](https://www.women.com/img/gallery/heres-what-went-down-with-solemender-after-shark-tank/intro-1730216668.jpg)](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
     [Living](https://www.women.com/category/living/)
@@ -117,6 +105,18 @@ More Stories
     The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    
+*  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    
+    Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
     
 *  [![Kourtney Kardashian kissing Travis Barker](https://www.women.com/img/gallery/10-awkward-celebrity-pda-moments-we-wish-we-didnt-have-to-see/intro-1730224757.jpg)](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
     
@@ -417,6 +417,6 @@ Back
 
 More From Static Media
 
-[Chowhound](https://www.chowhound.com/)[Cuteness](https://www.cuteness.com/)[Explore](https://www.explore.com/)[Foodie](https://www.foodie.com/)[Food Republic](https://www.foodrepublic.com/)[Glam](https://www.glam.com/)[Grunge](https://www.grunge.com/)[Health Digest](https://www.healthdigest.com/)[House Digest](https://www.housedigest.com/)[Hunker](https://www.hunker.com/)[Islands](https://www.islands.com/)[Looper](https://www.looper.com/)[Mashed](https://www.mashed.com/)[Money Digest](https://www.moneydigest.com/)[Nicki Swift](https://www.nickiswift.com/)[Outdoor Guide](https://www.outdoorguide.com/)[SlashFilm](https://www.slashfilm.com/)[SlashGear](https://www.slashgear.com/)[SVG](https://www.svg.com/)[Tasting Table](https://www.tastingtable.com/)[The Daily Meal](https://www.thedailymeal.com/)[The List](https://www.thelist.com/)[The Takeout](https://www.thetakeout.com/)[Wrestling Inc.](https://www.wrestlinginc.com/)
+[Chowhound](https://www.chowhound.com/)[Cuteness](https://www.cuteness.com/)[Explore](https://www.explore.com/)[Foodie](https://www.foodie.com/)[Food Republic](https://www.foodrepublic.com/)[Glam](https://www.glam.com/)[Grunge](https://www.grunge.com/)[Health Digest](https://www.healthdigest.com/)[House Digest](https://www.housedigest.com/)[Hunker](https://www.hunker.com/)[Islands](https://www.islands.com/)[Looper](https://www.looper.com/)[Mashed](https://www.mashed.com/)[Money Digest](https://www.moneydigest.com/)[Nicki Swift](https://www.nickiswift.com/)[Outdoor Guide](https://www.outdoorguide.com/)[Sciencing](https://www.sciencing.com/)[SlashFilm](https://www.slashfilm.com/)[SlashGear](https://www.slashgear.com/)[SVG](https://www.svg.com/)[Tasting Table](https://www.tastingtable.com/)[The Daily Meal](https://www.thedailymeal.com/)[The List](https://www.thelist.com/)[The Takeout](https://www.thetakeout.com/)[Wrestling Inc.](https://www.wrestlinginc.com/)
 
 ![Women](https://www.women.com/img/Women-com-Icon-Pink-RGB-V2.svg)
