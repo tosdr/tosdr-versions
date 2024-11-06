@@ -18,7 +18,7 @@ Men's [Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](
 
 Women's [Tops](https://moonclimbing.com/clothing/womens/tops.html "Tops") [Legwear](https://moonclimbing.com/clothing/womens/legwear.html "Legwear") [Accessories](https://moonclimbing.com/clothing/womens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/womens/women-s-clearance.html "Clearance") [View All](https://moonclimbing.com/clothing/womens.html "View All")
 
-Equipment [Crash Pads](https://moonclimbing.com/equipment/bouldering-pads.html "Crash Pads") [Packs & Bags](https://moonclimbing.com/equipment/packs-and-bags.html "Packs & Bags") [Chalk Bags](https://moonclimbing.com/equipment/chalk-bags.html?p=2 "Chalk Bags") [Chalk & Accessories](https://moonclimbing.com/equipment/chalk-and-brushes.html "Chalk & Accessories") [View All](https://moonclimbing.com/equipment.html "View All")
+Equipment [Crash Pads](https://moonclimbing.com/equipment/bouldering-pads.html "Crash Pads") [Packs & Bags](https://moonclimbing.com/equipment/packs-and-bags.html "Packs & Bags") [Chalk Bags](https://moonclimbing.com/equipment/chalk-bags.html "Chalk Bags") [Chalk & Accessories](https://moonclimbing.com/equipment/chalk-and-brushes.html "Chalk & Accessories") [View All](https://moonclimbing.com/equipment.html "View All")
 
 Training [Hangboards](https://moonclimbing.com/training/hangboards.html "Hangboards") [Rungs](https://moonclimbing.com/training/rungs.html "Rungs") [Clearance](https://moonclimbing.com/training/training-clearance.html "Clearance") [View All](https://moonclimbing.com/training.html "View All")
 
@@ -54,7 +54,7 @@ Women's
 
 Equipment
 
-[Crash Pads](https://moonclimbing.com/equipment/bouldering-pads.html "Crash Pads") [Packs & Bags](https://moonclimbing.com/equipment/packs-and-bags.html "Packs & Bags") [Chalk Bags](https://moonclimbing.com/equipment/chalk-bags.html?p=2 "Chalk Bags") [Chalk & Accessories](https://moonclimbing.com/equipment/chalk-and-brushes.html "Chalk & Accessories") [View All](https://moonclimbing.com/equipment.html "View All")
+[Crash Pads](https://moonclimbing.com/equipment/bouldering-pads.html "Crash Pads") [Packs & Bags](https://moonclimbing.com/equipment/packs-and-bags.html "Packs & Bags") [Chalk Bags](https://moonclimbing.com/equipment/chalk-bags.html "Chalk Bags") [Chalk & Accessories](https://moonclimbing.com/equipment/chalk-and-brushes.html "Chalk & Accessories") [View All](https://moonclimbing.com/equipment.html "View All")
 
 Training
 
