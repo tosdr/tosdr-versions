@@ -98,7 +98,7 @@ Baumarkt![](https://i.otto.de/i/otto/2e04cc29-0785-5cbf-ad7b-24c9bc19c946/?h=200
 
 <Zurück[Baumarkt](https://www.mirapodo.de/baumarkt/)
 
-Weihnachten![](https://i.otto.de/i/otto/1b48d977-ed73-569d-93c4-31fd4922843c/?h=200&upscale=true&w=200)
+Weihnachten![](https://i.otto.de/i/otto/mpp360_224065_323086/?h=200&upscale=true&w=200)
 
 <Zurück[Weihnachten](https://www.mirapodo.de/weihnachten/)
 
