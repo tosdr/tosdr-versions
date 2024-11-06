@@ -26,23 +26,23 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-trump-1200x630.jpg)](https://americanwirenews.com/trump-shares-who-he-will-call-on-day-one-if-hes-elected-president/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-howard-stage-1200x630.jpg)](https://americanwirenews.com/kamala-pulled-a-hillary/)
 
-(Official White House Photo by Joyce N. Boghosian)
+[Kamala pulled a Hillary, deflated supporters stiffed](https://americanwirenews.com/kamala-pulled-a-hillary/)
 
-[Trump shares who he will call on ‘day one’ if he’s elected president](https://americanwirenews.com/trump-shares-who-he-will-call-on-day-one-if-hes-elected-president/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stew-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kapolei-1200x630.jpg)](https://americanwirenews.com/parents-fume-when-blue-state-middle-schoolers-swamped-with-biased-propaganda-ahead-of-election/)
+[Jon Stewart’s profane on-air meltdown as Kamala crashes on election night](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
 
-[Parents FUME when blue state middle schoolers swamped with biased ‘propaganda’ ahead of election](https://americanwirenews.com/parents-fume-when-blue-state-middle-schoolers-swamped-with-biased-propaganda-ahead-of-election/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-1200x630.jpg)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-migrants-caravan-1200x630.jpg)](https://americanwirenews.com/biden-harris-admin-brought-in-many-more-migrants-than-jobs-for-october-final-report-before-election-says/)
+(Official White House Photo by Cameron Smith)
 
-[Biden-Harris admin brought in MANY more migrants than jobs for October, final report before election says](https://americanwirenews.com/biden-harris-admin-brought-in-many-more-migrants-than-jobs-for-october-final-report-before-election-says/)
+[Where’s Joe? Where the hell is our CURRENT president? Just let Trump start early!](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-door-knock-1200x630.jpg)](https://americanwirenews.com/humiliating-kamala-caught-staging-a-door-knock-after-already-greeting-pennsylvania-family-on-porch/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-1200x630.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
-[‘Humiliating!’ Kamala caught staging a ‘door knock’ after already greeting Pennsylvania family on porch](https://americanwirenews.com/humiliating-kamala-caught-staging-a-door-knock-after-already-greeting-pennsylvania-family-on-porch/)
+[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kilmeade-buttigieg-1200x630.jpg)](https://americanwirenews.com/excuse-me-kilmeade-holds-buttigiegs-feet-to-the-fire-for-spewing-fallacies-in-tense-interview/)
 
@@ -60,9 +60,9 @@ Search for:
 
 [Joy Reid finally reaches peak TDS with ‘completely unhinged’ pre-election screed](https://americanwirenews.com/joy-reid-finally-reaches-peak-tds-with-completely-unhinged-pre-election-screed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/9bd81036-25a0-49c9-b520-1e12ed366407-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-1200x630.jpg)
 
-### Kamala confuses crowd with yet another cringe chant: ‘I’ve never seen anything so awkward’](https://americanwirenews.com/kamala-confuses-crowd-with-yet-another-cringe-chant-ive-never-seen-anything-so-awkward/)
+### Bette Midler suggests she’ll drink a bottle of Drano if Trump wins, X users are waiting](https://americanwirenews.com/bette-midler-suggests-shell-drink-a-bottle-of-drano-if-trump-wins-x-users-are-waiting/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +79,12 @@ Search for:
 ### [Republicans call on Mayorkas to return to COVID-era border policy amid rapid surge in tuberculosis](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-220x180.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+
+[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+
+(Getty Images)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-puerto-rican-voter-220x180.jpg)](https://americanwirenews.com/cnn-reporter-questions-puerto-rican-womans-vote-for-trump-i-want-a-better-life/)
 
@@ -173,10 +179,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-indictment-220x180.jpg)](https://americanwirenews.com/axios-predicts-prison-in-trumps-future-if-he-loses/)
 
 [Axios predicts prison in Trump’s future if he loses](https://americanwirenews.com/axios-predicts-prison-in-trumps-future-if-he-loses/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kam-joe-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/excuses-already-being-made-for-potential-kamala-loss-its-biden/)
-
-[Excuses already being made for potential Kamala loss: ‘It’s Biden’](https://americanwirenews.com/excuses-already-being-made-for-potential-kamala-loss-its-biden/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
