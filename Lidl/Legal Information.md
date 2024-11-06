@@ -32,7 +32,7 @@ Main Navigation[Back](#)
 10. [Magazines](https://www.lidl.co.uk/c/magazines/s10023096)
 
 1. [ChristmasShow](https://www.lidl.co.uk/c/christmas/s10031266)
-2. [Christmas Food And Drink](https://www.lidl.co.uk/c/christmas-food-and-drink/s10056111)
+2. [Christmas Food And Drinks](https://www.lidl.co.uk/c/christmas-food-and-drink/s10056111)
 3. [Lidl Christmas Calendar](https://www.lidl.co.uk/c/lidl-christmas-calendar/s10056680)
 4. [Toys & Christmas Gifts](https://www.lidl.co.uk/c/toys-christmas-gifts/s10056112)
 5. [Christmas Recipes](https://www.lidl.co.uk/c/christmas-recipes/s10056397)
