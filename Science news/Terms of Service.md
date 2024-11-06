@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Putting vampire bats on treadmills reveals an unusual metabolism](https://www.sciencenews.org/article/vampire-bats-treadmills-metabolism)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")3 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")9 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Agriculture](https://www.sciencenews.org/topic/agriculture)
+            
+            ### [Exploiting a genetic quirk in potatoes may cut fertilizer needs](https://www.sciencenews.org/article/potatoes-genetic-quirk-less-fertilizer)
+            
+            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")43 mins ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
             
@@ -150,12 +156,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")October 29, 2024
             
-        * [Environment](https://www.sciencenews.org/topic/environment)
-            
-            ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
-            
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")October 18, 2024
-            
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Feather-inspired airplane flaps could boost flight performance](https://www.sciencenews.org/article/feather-inspired-airplane-flaps)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")11 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")16 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
