@@ -160,6 +160,14 @@ More information about our use of Cookies is available in our [Cookies and Simil
 
 We are headquartered in the United States. Please be aware that information you provide to us or that we obtain as a result of your use of our Platforms may be collected in your country and subsequently transferred to, maintained and processed in the United States by us or our service providers for the purposes mentioned above in accordance with applicable law. The privacy laws of the United States may not always offer the same level of protection as in your country. While such information is outside of your jurisdiction of residence, it is subject to the laws of the jurisdiction in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other jurisdictions, pursuant to local laws. By using our Platforms, you consent to the collection, international transfer, storage, and processing of your information. If you would like more information about such transfer, maintenance, or processing of your data, please contact our Privacy Officer at [privacy@gfs.com](mailto:privacy@gfs.com).
 
+##### Chat Services
+
+Our chat services (for example, Tess, Expo) may rely on AI and Generative AI (“GenAI”) and are intended to provide general information and support. Communications with our chat services may be recorded and retained by Gordon Food Service and its chat service providers for quality and training purposes as well as to better serve our valued customers. While we strive for accuracy, the information provided by these services may not always be up-to-date, accurate, or complete. Product information, including nutrition, ingredients, allergens, and other details, is sourced from manufacturers and may change periodically. Be careful:
+
+* Do not rely solely on the information provided by our chat services.
+* Always consult the product’s label for the most accurate and current information.
+* Contact the manufacturer directly if you have specific dietary concerns or questions about a product.
+
 ##### Withdrawing Your Consent to Our Processing
 
 Except for personal information which is required to be retained by law or which is needed to process a purchase, exchange or return, individuals may withdraw consent to all or part of the collection, use and disclosure of their personal information at any time by giving us reasonable notice. If you would prefer that we not collect, use, or disclose your personal information, or that we not use your personal information to contact you to promote our products or services, please contact us. We will act on your instructions as quickly as possible subject to contractual and legal restrictions, but there may be certain uses of your information that we may not be able to stop immediately. Please be advised that withdrawal of consent may make it impossible for us to provide certain services to you.
