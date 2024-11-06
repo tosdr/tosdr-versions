@@ -1,7 +1,5 @@
 Unique. Colorful. Innovative. Check out our PDP brand today. [SHOP NOW](https://pdp.com/ "shop now")
 
-LOOKING FOR ROCCAT? [CLICK HERE](https://www.turtlebeach.com/collections/outlet "Roccat FAQ")
-
 Free Shipping on orders over $39
 
 [](https://www.turtlebeach.com/pages/terms-of-sale#shipping "Free Shipping on orders over $39")
