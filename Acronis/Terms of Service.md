@@ -122,7 +122,7 @@ Menu Close
     
     MSP operations
     
-    [Management](https://www.acronis.com/en-us/products/cloud/cyber-protect/management/) [Automation](https://www.acronis.com/en-us/products/cloud/cyber-protect/automation/)
+    [Management (RMM)](https://www.acronis.com/en-us/products/cloud/cyber-protect/management/) [Automation (PSA)](https://www.acronis.com/en-us/products/cloud/cyber-protect/automation/)
     
     * [Try it free](https://www.acronis.com/en-us/products/cloud/trial/)
     * [Get a demo](https://www.acronis.com/en-us/products/cloud/cyber-protect/demo-center/)
