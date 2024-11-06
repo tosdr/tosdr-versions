@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-eb50f46c84bff2bbe4d5faa3026d64e1
+7a6fa7cc5251fd607b4291f09bc0ffc0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![3 mm by 4 mm African glass heishe beads](https://www.sojourner.biz/images/cache/glass/GL0170.200.jpg)](https://www.sojourner.biz/beads/glass/3-mm-by-4-mm-african-glass-heishe-beads.html "3 mm by 4 mm African glass heishe beads")
+[![Swarovski Siam hook clasp](https://www.sojourner.biz/images/cache/SKU0496front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/swarovski-siam-hook-clasp.html "Swarovski Siam hook clasp")
 
-#### [3 mm by 4 mm African glass heishe beads](https://www.sojourner.biz/beads/glass/3-mm-by-4-mm-african-glass-heishe-beads.html "3 mm by 4 mm African glass heishe beads")
+#### [Swarovski Siam hook clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-siam-hook-clasp.html "Swarovski Siam hook clasp")
 
-$6.00
+$40.00
 
 ### Best Sellers
 
