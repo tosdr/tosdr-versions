@@ -62,23 +62,23 @@ Market Cap: 
 
 [$2.47T](https://coinmarketcap.com/charts/)
 
-8.11%
+7.72%
 
 24h Vol: 
 
-[$165.48B](https://coinmarketcap.com/charts/)
+[$198.59B](https://coinmarketcap.com/charts/)
 
-95.70%
+135.44%
 
-Dominance: [BTC: 59.6% ETH: 12.6%](https://coinmarketcap.com/charts/bitcoin-dominance/)
+Dominance: [BTC: 59.4% ETH: 12.8%](https://coinmarketcap.com/charts/bitcoin-dominance/)
 
  ETH Gas: 
 
-25.92 Gwei
+17.7 Gwei
 
  Fear & Greed: 
 
-[54/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
+[62/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
 
 CoinMarketCap.com Terms of Use
 ==============================
