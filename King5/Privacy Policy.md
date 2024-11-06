@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_360x203.jpg)](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
+        
+        #### [Key races: Cantwell expected to serve 5th term in Senate, Ferguson projected to be governor,](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
+        
     *  [![](https://media.king5.com/assets/KING/images/1bc79eba-c968-456f-8cd7-7073302bb01f/20241106T075847/1bc79eba-c968-456f-8cd7-7073302bb01f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bc79eba-c968-456f-8cd7-7073302bb01f/20241106T075847/1bc79eba-c968-456f-8cd7-7073302bb01f_360x203.jpg)](https://www.king5.com/article/news/local/couple-killed-newcastle-tree/281-8a91a231-7997-4ac5-b9f6-ed508871204b)
         
         #### [Family, friends mourn loss of couple killed by tree in Newcastle](https://www.king5.com/article/news/local/couple-killed-newcastle-tree/281-8a91a231-7997-4ac5-b9f6-ed508871204b)
-        
-    *  [![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_360x203.jpg)](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
-        
-        #### [Key races: Ferguson projected to be governor, Cantwell expected to serve 5th term in Senate](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/4637de92-9717-499d-9442-ebe60f908126/20241105T130013/4637de92-9717-499d-9442-ebe60f908126_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4637de92-9717-499d-9442-ebe60f908126/20241105T130013/4637de92-9717-499d-9442-ebe60f908126_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4/20241106T132503/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4/20241106T132503/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-45°
+42°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
