@@ -327,8 +327,7 @@ Secure cloud-backed services that span across all products in the DevEx platform
 
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/Union.svg)
 
-Start Your Free Trial  
-7 days; no credit card](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)
+Start Your Free Trial](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success)
 
 #### GitKraken Browser Extension
 
@@ -351,8 +350,7 @@ Your IDE, Smarter with Git
 
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gitlens-btn-icon.svg)
 
-Install GitLens in VS Code  
-7 days; no credit card](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjY0OTciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
+Install GitLens in VS Code](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjY0OTciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
 #### GitKraken CLI
 
