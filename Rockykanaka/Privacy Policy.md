@@ -21,6 +21,7 @@
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
     
+* [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
 
 [Log in](https://rockykanaka.com/account/login)
@@ -44,6 +45,7 @@
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
     
+* [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
 
  Search our site  
