@@ -1,3 +1,12 @@
+[Skip to main content](#main)
+
+[](https://www.itpro.tv/itpro/)
+
+Site navigation
+---------------
+
+[For Businesses](https://www.itpro.tv/)[For Individuals](https://www.itpro.tv/itpro/)
+
 ACI Learning privacy statement
 ==============================
 
