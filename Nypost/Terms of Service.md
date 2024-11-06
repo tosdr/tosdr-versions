@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Live
+#### Breaking News
 
-[Polls close in New York with many races still undecided](https://nypost.com/2024/11/05/us-news/ny-nj-election-day-2024-live-updates-results-photos-reactions-more/)
+[Donald Trump wins 2024 presidential election, defying the odds again](https://nypost.com/2024/11/06/us-news/donald-trump-wins-2024-presidential-election-defying-the-odds-again/)
 
 Terms Of Use
 ============
