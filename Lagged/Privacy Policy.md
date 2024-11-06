@@ -245,7 +245,7 @@ Games you might like
 
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
-[Pop Them All](https://lagged.com/en/g/pop-them-all) ![Pop Them All Game](https://imgs2.dab3games.com/pop-them-all-game41.png) new
+[Pop Them All](https://lagged.com/en/g/pop-them-all) ![Pop Them All Game](https://imgs2.dab3games.com/pop-them-all-game41.png)
 
 [Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
 
