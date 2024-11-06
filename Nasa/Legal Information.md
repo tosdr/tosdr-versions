@@ -303,7 +303,7 @@ article 6 days ago](https://www.nasa.gov/missions/swot/international-swot-satell
 
 ### NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
 
-article 7 days ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)
+article 1 week ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)
 
 ### Highlights
 
@@ -351,25 +351,25 @@ article 6 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nas
 
 ### Highlights
 
-[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
+[![10 Things to Know About Tissue Chips and How They Benefit Humanity](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/precision-health/tissue-chips/3d_tissue_chips.png)
+
+2 min read
+
+### 10 Things to Know About Tissue Chips and How They Benefit Humanity
+
+article 3 hours ago](https://science.nasa.gov/10-things-to-know-about-tissue-chips-and-how-they-benefit-humanity/)[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
 
 3 min read
 
 ### Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
 
-article 18 hours ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)[![Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/1500/WIYN.jpeg)
+article 21 hours ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)[![Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/1500/WIYN.jpeg)
 
 1 min read
 
 ### Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.
 
-article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/)[![Mars Surface Science Workshops (MSSW)](https://science.nasa.gov/wp-content/uploads/2024/10/mars-crater-rim.jpeg)
-
-2 min read
-
-### Mars Surface Science Workshops (MSSW)
-
-article 21 hours ago](https://science.nasa.gov/planetary-science/resources/documents/mars-surface-science-workshops/)
+article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/)
 
 ### Highlights
 
@@ -413,29 +413,17 @@ article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/from-
 
 ### NASA Technologies Named Among TIME Inventions of 2024
 
-article 7 days ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)
+article 1 week ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)
 
 ### Featured
 
-[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
+[![](https://www.nasa.gov/wp-content/uploads/2024/11/globe-gif-2.gif?w=602)
 
-3 min read
+5 min read
 
-### Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
+### NASA Knows – How Can I Get Involved With NASA Research?
 
-article 18 hours ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)[![Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/1500/WIYN.jpeg)
-
-1 min read
-
-### Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.
-
-article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/)[![Professional Learning: Using Children’s Books to Build STEM Habits of Mind](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/STEMbooks_24-10-14-Shannon_Verstynen.jpg)
-
-3 min read
-
-### Professional Learning: Using Children’s Books to Build STEM Habits of Mind
-
-article 2 days ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)
+article 1 min ago](https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/)
 
 ### Featured
 
