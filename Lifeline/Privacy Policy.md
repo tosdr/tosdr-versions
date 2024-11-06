@@ -1,10 +1,10 @@
 [Healthcare and Senior Living](https://www.lifeline.com/business/)
 
-[800-686-1372](tel:800-686-1372)
+[855-681-5351](tel:855-681-5351)
 
 [](https://www.lifeline.com/?s=)
 
-[800-686-1372](tel:800-686-1372)
+[855-681-5351](tel:855-681-5351)
 
 [![Lifeline Logo](https://www.lifeline.com/wp-content/uploads/2024/02/LL50-horiz-3_LL50-horiz-3.png)](https://www.lifeline.com/)
 
@@ -248,7 +248,7 @@ License Information: FL #EF20001169; AZ #20350-0; CA #ACO7931
 
 ![](https://www.lifeline.com/wp-content/uploads/2024/02/LL50-horiz-3_LL50-horiz-3.png)
 
-#### Call us at: [800-686-1372](tel:800-686-1372)
+#### Call us at: [855-681-5351](tel:855-681-5351)
 
 [](https://www.facebook.com/LifelineMedicalAlertService)
 
