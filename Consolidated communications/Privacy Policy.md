@@ -130,6 +130,7 @@
         * [Internet & Email Support](https://www.consolidated.com/support/residential-support/internet-email-support)
         * [TV Support](https://www.consolidated.com/support/residential-support/tv-support)
         * [Phone Support](https://www.consolidated.com/support/residential-support/phone-support)
+        * [Moving](https://www.consolidated.com/support/residential-support/moving)
         * [Refer a Friend](https://www.consolidated.com/support/residential-support/refer-a-friend)
         * [Lifeline & Assistance Programs](https://www.consolidated.com/support/residential-support/lifeline-assistance-programs)
         
@@ -255,6 +256,7 @@
         * [Internet & Email Support](https://www.consolidated.com/support/residential-support/internet-email-support)
         * [TV Support](https://www.consolidated.com/support/residential-support/tv-support)
         * [Phone Support](https://www.consolidated.com/support/residential-support/phone-support)
+        * [Moving](https://www.consolidated.com/support/residential-support/moving)
         * [Refer a Friend](https://www.consolidated.com/support/residential-support/refer-a-friend)
         * [Lifeline & Assistance Programs](https://www.consolidated.com/support/residential-support/lifeline-assistance-programs)
     * [Business Support](#)
@@ -867,7 +869,6 @@ If you would like to print a copy of this Privacy Policy, please select the “P
 
 [About Us](https://www.consolidated.com/about-us)
 
-* [Investor Relations](http://ir.consolidated.com/)
 * [News](https://www.consolidated.com/about-us/news)
 * [Community Matters](https://www.consolidated.com/about-us/community-matters)
 * [Locations](https://www.consolidated.com/about-us/locations)
@@ -878,6 +879,7 @@ If you would like to print a copy of this Privacy Policy, please select the “P
 * [Internet & Email Support](https://www.consolidated.com/support/residential-support/internet-email-support)
 * [TV Support](https://www.consolidated.com/support/residential-support/tv-support)
 * [Phone Support](https://www.consolidated.com/support/residential-support/phone-support)
+* [Moving](https://www.consolidated.com/support/residential-support/moving)
 * [Refer a Friend](https://www.consolidated.com/support/residential-support/refer-a-friend)
 * [Lifeline & Assistance Programs](https://www.consolidated.com/support/residential-support/lifeline-assistance-programs)
 
