@@ -41,47 +41,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+*  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
     
-    [5 Celebs Who Have Spoken Out About How Therapy Has Improved Their Lives](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
-    ==================================================================================================================================================
+    [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+    ================================================================================================================================================
     
-    Life is hard enough as it is, and managing a mental health issue with therapy is always the best decision anyone can make for themselves.
+    While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
     
-    By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
     
-* *  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+* *  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
         
-        [Living](https://www.women.com/category/living/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+        ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
         
-        While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
+        Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
         
-        By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+        By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
         
-    *  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    *  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
-        [Living](https://www.women.com/category/living/)
+        [Wellness](https://www.women.com/category/wellness/)
         
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
         
-        ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+        ### [5 Celebs Who Have Spoken Out About How Therapy Has Improved Their Lives](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
-        The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
+        Life is hard enough as it is, and managing a mental health issue with therapy is always the best decision anyone can make for themselves.
         
-        By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+        By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
 
 More Stories
 ------------
 
+*  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    
+    While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    
 *  [![Ehan and Vinay Kamat](https://www.women.com/img/gallery/heres-what-went-down-with-solemender-after-shark-tank/intro-1730216668.jpg)](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
     [Living](https://www.women.com/category/living/)
@@ -94,17 +106,17 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
-*  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+*  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Living](https://www.women.com/category/living/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
     
-    Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
+    The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
     
-    By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
     
 *  [![Kourtney Kardashian kissing Travis Barker](https://www.women.com/img/gallery/10-awkward-celebrity-pda-moments-we-wish-we-didnt-have-to-see/intro-1730224757.jpg)](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
     
@@ -393,18 +405,6 @@ More Stories
     There's truly something for every lover of this big, wide world of romances. And 2025 is coming with some heavyweights.
     
     By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
-    
-*  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Zahara Jolie's Gorgeous Transformation](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
-    
-    Zahara Jolie isn't just the daughter of two famous actors, but a young woman coming into her own. And she's doing it on her own terms.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
     
 
 Back
