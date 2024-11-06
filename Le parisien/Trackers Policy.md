@@ -83,7 +83,6 @@ Rechercher sur Le Parisien
     * [Rugby](https://www.leparisien.fr/sports/rugby/)
     * [Basket](https://www.leparisien.fr/sports/basket/)
     * [Tennis](https://www.leparisien.fr/sports/tennis/)
-    * [Rolex Paris Masters 2024](https://www.leparisien.fr/sports/tennis/rolex-paris-masters/)
     * [Cyclisme](https://www.leparisien.fr/sports/cyclisme/)
     * [Handball](https://www.leparisien.fr/sports/handball/)
     * [Formule 1](https://www.leparisien.fr/sports/formule-1/)
@@ -537,9 +536,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=756)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=757)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=756)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=757)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
