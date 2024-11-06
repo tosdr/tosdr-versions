@@ -310,7 +310,7 @@
     Payroll Success](https://www.paycom.com/resources/nucleus-research-beti-bolsters-payroll-success/)
     
     [Forrester: Total Economic Impact™  
-    Study](https://www.paycom.com/resources/total-economic-impact-paycom/)
+    Study](https://www.paycom.com/resources/total-economic-impact-paycom-gone/)
     
 
 *   [Login](#)
