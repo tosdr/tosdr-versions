@@ -1036,6 +1036,7 @@ Please note, some products may not be available in your location.
 * [Listing Application](https://www.binance.com/en/my/coin-apply)
 * [Institutional & VIP Services](https://www.binance.com/en/vip-institutional-services)
 * [Labs](https://labs.binance.com/)
+* [Binance Connect](https://www.binance.com/en/binance-connect)
 
 ### Learn
 
