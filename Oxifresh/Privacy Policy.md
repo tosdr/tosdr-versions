@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 302,866 Carpet Cleaning Services Reviews
 
-**KD.** - Lone Tree, CO - 11/04/2024
+**AC.** - Cleveland, OH - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-I have used oxifresh many times and it’s always been great! For some reason this time wasn’t awesome. There was quite a bit of odor in the floors when I moved into this house and i tried and failed to clean them myself. The floors smell worse than before and it might just be because it pulled all of the odor to the top. I love this company but this round was different but I assume it’s because of my carpets. It’s okay. Love you guys **SM.** - Sedgwick, KS - 11/03/2024
+Great service and good service from tech **KH.** - Clemmons, NC - 11/03/2024
 
-(4.0 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-Excellent results On a very badly stained carpet, love the results **KM.** - Watertown, WI - 11/03/2024
+**CH.** - Sheboygan, WI - 11/03/2024
 
 (5.0 Out of 5 stars)
 
