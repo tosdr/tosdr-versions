@@ -1,10 +1,10 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111752-mid-day-digest-2024-11-06?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111752-mid-day-digest-2024-11-06?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -207,14 +207,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander Thank God!](https://patriotpost.us/alexander/111757-thank-god-2024-11-06)
+*      [Cal Thomas Democracy Lives in Brightness](https://patriotpost.us/opinion/111755-democracy-lives-in-brightness-2024-11-06)
 *      [The Washington Stand Florida’s Pro-Abortion Amendment 4 Ballot Initiative Fails](https://patriotpost.us/opinion/111733-floridas-pro-abortion-amendment-4-ballot-initiative-fails-2024-11-06)
 *      [John Stossel The Best of Life](https://patriotpost.us/opinion/111717-the-best-of-life-2024-11-06)
 *      [Byron York Amid Poll Flap, Celebrities Rush Contributions to Harris Campaign](https://patriotpost.us/opinion/111715-amid-poll-flap-celebrities-rush-contributions-to-harris-campaign-2024-11-06)
 *      [Betsy McCaughey TB — The Silent Killer Crossing Our Border](https://patriotpost.us/opinion/111711-tb-the-silent-killer-crossing-our-border-2024-11-06)
 *      [Tim Graham The Media Are Egotistical Exaggerators and Liars](https://patriotpost.us/opinion/111710-the-media-are-egotistical-exaggerators-and-liars-2024-11-06)
 *      [The Babylon Bee America Unburdens Itself From What Has Been](https://patriotpost.us/opinion/111716-america-unburdens-itself-from-what-has-been-2024-11-06)
-*      [Allen West November 6, 2024](https://patriotpost.us/opinion/111714-november-6-2024-2024-11-05)
-*      [Rich Lowry The Media on the Ballot](https://patriotpost.us/opinion/111713-the-media-on-the-ballot-2024-11-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
