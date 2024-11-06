@@ -62,7 +62,7 @@ Select
 * [3\. How We Share Your Information](#how-we-share)
 * [4\. Cookies and Other Tracking Technologies](#cookies)
 * [5\. Opt-Out Preference Signals](#opt-out)
-* [\>6. Choices About Your Information](#choices-about-info)
+* [6\. Choices About Your Information](#choices-about-info)
 * [7\. Security](#security)
 * [8\. Third Party Links](#third-party-links)
 * [9\. Children’s Privacy](#childrens-privacy)
