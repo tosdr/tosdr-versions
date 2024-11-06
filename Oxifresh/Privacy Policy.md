@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 302,829 Reviews
+Average 4.7 Stars Based on 302,866 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,17 +383,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 302,829 Carpet Cleaning Services Reviews
+Based on 302,866 Carpet Cleaning Services Reviews
 
-**DG.** - Land O Lakes, FL - 11/03/2024
-
-(5.0 Out of 5 stars)
-
-complete explanation from start to finish Communication was thorough **CC.** - Quincy, IL - 11/02/2024
+**LL.** - Mason, OH - 11/04/2024
 
 (5.0 Out of 5 stars)
 
-OxiFresh technician, Wyatt, was prompt, friendly and courteous. He communicated clearly and did an excellent job of cleaning our carpet and furniture. Highly recommend! **EM.** - Bastrop, TX - 11/02/2024
+Nontoxic dries quick, very friendly and very informative, courteous, respectful. **RV.** - Albuquerque, NM - 11/03/2024
+
+(5.0 Out of 5 stars)
+
+Excellent service staff very professional.. the cleaning came out beautiful **AJ.** - Windsor, NC - 11/03/2024
 
 (5.0 Out of 5 stars)
 
