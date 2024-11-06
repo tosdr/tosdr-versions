@@ -113,6 +113,11 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
@@ -123,11 +128,6 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Beat This: A History of Hip Hop](/wp-content/thumbnails/118-100x70.png?x53432)
+* [![Curiosity: The Questions of Life](/wp-content/thumbnails/5963-100x70.jpg?x53432)
     
-    Beat This: A History of Hip Hop
+    Curiosity: The Questions of Life
     
-    Where did Hip Hop start, how has it evolved and who or what made Hip Hop music popular. In this unique documentary film about the history of Hip Hop is presented like never bevore.Beat this! A Hip H](https://documentaryheaven.com/history-of-hip-hop/ "Beat This: A History of Hip Hop")
-* [![Ice Hotel](/wp-content/thumbnails/890-100x70.jpg?x53432)
+    Episode 1: Did God Create The Universe:Stephen Hawking unfolds his personal, compelling vision of the biggest question of all: Who or what created the universe in which we live? The groundbreaking s](https://documentaryheaven.com/curiosity-the-questions-of-life/ "Curiosity: The Questions of Life")
+* [![Real Life Hannibal Lecters](/wp-content/thumbnails/3431-100x70.jpg?x53432)
     
-    Ice Hotel
+    Real Life Hannibal Lecters
     
-    The Ice Hotel of Sweden is the biggest hotel in the world that is built entirely by ice and snow. This hotel is the brainchild of two close friends who are specialized in Ice architecture, Arne Bergh](https://documentaryheaven.com/ice-hotel/ "Ice Hotel")
-* [![Hofmann’s Potion](/wp-content/thumbnails/6586-100x70.jpg?x53432)
+    Before the fictional Hannibal Lecter there was a select group of real life monsters that terrorized our neighborhoods.Albert Fish, Andrei Chickatilo, Jeffrey Dahmer, Ted Bundy and John Wayne Gacy. B](https://documentaryheaven.com/real-life-hannibal-lecters/ "Real Life Hannibal Lecters")
+* [![Mad But Glad](/wp-content/thumbnails/651-100x70.png?x53432)
     
-    Hofmann’s Potion
+    Mad But Glad
     
-    This documentary offers a compassionate, open-minded look at LSD and how it fits into our world. Long before Timothy Leary urged a generation to “tune in, turn on and drop out,” the drug was hailed as](https://documentaryheaven.com/hofmanns-potion/ "Hofmann’s Potion")
-* [![Seeking Elvis](/wp-content/thumbnails/6833-100x70.jpg?x53432)
+    Is there really such a thing as the mad genius? Can an illness be both a blessing and a curse? At seven years old, Nick van Bloss started shaking his head, grinding his teeth and making wild whooping](https://documentaryheaven.com/mad-but-glad/ "Mad But Glad")
+* [![Super Rich: The Greed Game](/wp-content/thumbnails/603-100x70.png?x53432)
     
-    Seeking Elvis
+    Super Rich: The Greed Game
     
-    American humorist Dave Barry said it best: "Eventually everybody has to die, except Elvis". In many ways in both culture and the law, Elvis Presley never really died. Today, after more than 35 years](https://documentaryheaven.com/seeking-elvis/ "Seeking Elvis")
-* [![The Secret of El Dorado](/wp-content/thumbnails/1001-100x70.jpg?x53432)
+    As the credit crunch bites and a global economic crisis threatens, Robert Peston reveals how the super-rich have made their fortunes, and the rest of us are picking up the bill.](https://documentaryheaven.com/super-rich-the-greed-game/ "Super Rich: The Greed Game")
+* [![Jonnie Walker, Story of an Armed Robber](/wp-content/thumbnails/6559-100x70.jpg?x53432)
     
-    The Secret of El Dorado
+    Jonnie Walker, Story of an Armed Robber
     
-    In 1542, the Spanish Conquistador, Francisco de Orellana ventured along the Rio Negro, one of the Amazon Basin's great rivers. Hunting a hidden city of gold, his expedition found a network of farms, v](https://documentaryheaven.com/the-secret-of-el-dorado/ "The Secret of El Dorado")
+    Journey of One tells peoples stories using the photofilm format, giving a fascinating and intimate glimpse into individual lives.](https://documentaryheaven.com/jonnie-walker-story-of-an-armed-robber/ "Jonnie Walker, Story of an Armed Robber")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
