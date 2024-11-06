@@ -93,7 +93,7 @@ Industries we serve [Financial services](https://www.quadient.com/en/enterprise-
 
 Overview [AP overview](https://www.quadient.com/en/ap-automation) [Accounting teams](https://www.quadient.com/en/ap-automation/accounting-teams) [Plans](https://www.quadient.com/en/ap-automation/plans) [Compare](https://www.quadient.com/en/vs/quadient-ap)
 
-Products [Invoice automation](https://www.quadient.com/en/ap-automation/invoice-automation) [Expenses](https://www.quadient.com/en/ap-automation/expense-management) [Payments](https://www.quadient.com/en/ap-automation/payments) [Purchase orders](https://www.quadient.com/en/ap-automation/purchase-orders)
+Products [Invoice automation](https://www.quadient.com/en/ap-automation/invoice-automation) [Purchase orders](https://www.quadient.com/en/ap-automation/purchase-orders) [Expenses](https://www.quadient.com/en/ap-automation/expense-management)
 
 Integrations [Microsoft Dynamics GP](https://www.quadient.com/en/ap-automation/integrations/microsoft-dynamics) [Microsoft Dynamics NAV](https://www.quadient.com/en/ap-automation/integrations/microsoft-dynamics-nav) [NetSuite](https://www.quadient.com/en/ap-automation/integrations/netsuite) [QuickBooks](https://www.quadient.com/en/ap-automation/integrations/quickbooks) [Rent Manager](https://www.quadient.com/en/ap-automation/integrations/rent-manager) [Sage](https://www.quadient.com/en/ap-automation/integrations/sage-ap-automation) [Sage Intacct](https://www.quadient.com/en/ap-automation/integrations/sage-intacct) [Xero](https://www.quadient.com/en/ap-automation/integrations/xero) [Custom integrations](https://www.quadient.com/en/ap-automation/integrations/custom-integrations) [See all integrations](https://www.quadient.com/en/ap-automation/integrations)
 
