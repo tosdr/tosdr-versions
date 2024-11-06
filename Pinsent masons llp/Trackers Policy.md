@@ -109,8 +109,8 @@ Please enter a search term
         * [Insurance](https://www.pinsentmasons.com/sectors/financial-services/insurance)
         * [Private Equity](https://www.pinsentmasons.com/sectors/financial-services/private-equity)
         * [All Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
-    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Diversified Industrial](https://www.pinsentmasons.com/sectors/technology-science-industry/diversified-industrial)
@@ -175,6 +175,7 @@ Please enter a search term
     * [Biotech Express - biotech startup documentation](https://www.pinsentmasons.com/solutions/biotech-express)
     * [Carry Scheme Automation](https://www.pinsentmasons.com/solutions/carry-scheme-automation)
     * [CLM Maturity Assessment - contract management maturity](https://www.pinsentmasons.com/solutions/clm-assessment)
+    * [CSDDD Self Check](https://www.pinsentmasons.com/solutions/csddd-self-check)
     * [CSRD Self Check](https://www.pinsentmasons.com/solutions/csrd-self-check)
     * [Cyturion - cyber readiness](https://www.pinsentmasons.com/solutions/cyturion)
     * [Datalis](https://www.pinsentmasons.com/solutions/datalis)
@@ -184,6 +185,7 @@ Please enter a search term
     * [Employment Law +](https://www.pinsentmasons.com/solutions/employment-law-plus)
     * [Human Cyber Index - security culture development](https://www.pinsentmasons.com/solutions/human-cyber-index)
     * [Medtech Express - medtech startup documentation](https://www.pinsentmasons.com/solutions/medtech-express)
+    * [Pay Equity Solution](https://www.pinsentmasons.com/solutions/pay-equity-solution)
     * [Pensions Solutions](https://www.pinsentmasons.com/solutions/pensions-services)
     * [P2C: Procurement to Completion](https://www.pinsentmasons.com/solutions/construction-procurement-contracts)
     * [Schrems II Managed Legal Service](https://www.pinsentmasons.com/solutions/schrems-ii-managed-legal-service)
@@ -333,7 +335,7 @@ Where we process 'personal data' using these essential cookies, we do so on the 
     | Purpose of essential cookies | The essential cookies that we use on our website are technically necessary for the site to function properly.<br><br>For example, essential cookies are required so that you can log into your account, set your preferences and complete forms. They remember you and your settings, and save you having to retype information when navigating between pages. They ensure our pages load quickly by distributing the workload. Essential cookies are also necessary for our site to distinguish between browsers, differentiate users behind a shared IP address so as to deliver correct content, and to recognise trusted traffic and apply security settings. |
     | Data processed by essential cookies | When you navigate to and around our website our essential cookies collect your session ID, a time stamp of your visit and log in, and session verification data. Our essential cookies may also collect information about your browser type and settings, device type and settings, operating system and mobile network. |
     | Recipients | We process data collected by essential cookies on our own servers. Data collected by certain essential cookies may be collected, in aggregate form only from which no one visitor to our site can be identified or distinguished from another, by our third party essential cookie providers such as Sitecore, for their own purposes. |
-    | Transfers | Our global presence means that your personal information may be transferred across the business worldwide due, for example, to our shared IT systems and datacentres, and cross-border working practices. For more information about such transfers across our business please see section 3 of our [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy). |
+    | Transfers | Our global presence means that your personal information may be transferred across the business worldwide due, for example, to our shared IT systems and datacentres, and cross-border working practices. For more information about such transfers across our business please see section 3 of our [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy). |
     | Duration | Certain of our essential cookies are session cookies, meaning they expire once you exit your session and close your browser.<br><br>Other of our essential cookies may last for six months or longer, for example to remember your cookie preferences for this period and to recognise trusted traffic, or for as long as you retain an online account with us. |
     
 
@@ -482,20 +484,20 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
