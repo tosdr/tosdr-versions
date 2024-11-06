@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/newspiration-com-de-internationale-opvolger-van-zinfo-nl-online/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/100-150-doden-was-dit-anti-braakmiddel-getest/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
