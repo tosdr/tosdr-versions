@@ -306,15 +306,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![SharePoint](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Microsoft SharePoint RCE bug exploited to breach corporate network](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/)
 * [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Meet Interlock — The new ransomware targeting FreeBSD servers](https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
 * [![Robot Customer Support](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ChatGPT-4o can be used for autonomous voice-based scams](https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
+* [![DocuSign](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    DocuSign's Envelopes API abused to send realistic fake invoices](https://www.bleepingcomputer.com/news/security/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/)
 
 ##### Follow us:
 
