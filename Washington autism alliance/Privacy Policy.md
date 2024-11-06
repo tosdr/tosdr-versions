@@ -132,16 +132,6 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     November 2024
     
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
-    
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-11-11)
-    
-    Nov 11 2024
-    
-    #### [Supporting Parents of Autism - SPA](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-11-11)
-    
-    Zoom https://zoom.us (please download the app and check your internet connectivity)
-    
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABDAQAAAABWicHTAAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUUAqAAAFPAABh2z/ogAAAABJRU5ErkJggg==)
     
     ![](https://washingtonautismalliance.org/wp-content/uploads/2024/08/Understanding-Applied-Behavior-AnalysisABA-Medium-Banner-US-Landscape-1-150x67.jpeg)](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba/?occurrence=2024-11-14)
@@ -158,7 +148,19 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Nov 21 2024
     
-    #### [Understanding Applied Behavior Analysis (ABA) in Spanish](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-798/?occurrence=2024-11-21)
+    #### [Entendiendo el Análisis Aplicado del Comportamiento (ABA) en español](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-798/?occurrence=2024-11-21)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
+    December 2024
+    
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-12-09)
+    
+    Dec 09 2024
+    
+    #### [Supporting Parents of Autism - Friendship Skills for Students Who are High-Masking/Low Support Needs Autistic](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-12-09)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
