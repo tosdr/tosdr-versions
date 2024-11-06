@@ -101,7 +101,7 @@
         
     * [Why Thryv](#)
         
-        * * WHY THRYV
+        * * [WHY THRYV](https://www.thryv.com/why-thryv/)
                 
             * [Unlimited Onboarding & Support](https://www.thryv.com/service-and-support/)
             * [Competitor Comparison](https://www.thryv.com/compare/)
