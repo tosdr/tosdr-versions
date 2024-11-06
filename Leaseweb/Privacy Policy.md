@@ -180,7 +180,6 @@ Skip to Header Skip to Main Content Skip to Footer
     
     [Leaseweb Labs](https://labs.leaseweb.com/ "Leaseweb Labs")
     
-* [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * About Us
     
     Leaseweb
@@ -243,6 +242,7 @@ Skip to Header Skip to Main Content Skip to Footer
     
     [KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer "KYC Customer Verification")
     
+* [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * [Contact](https://www.leaseweb.com/en/contact "Contact")
 
 When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.
@@ -441,7 +441,6 @@ Language
     
     [Leaseweb Labs](https://labs.leaseweb.com/ "Leaseweb Labs")
     
-* [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * About Us
     
     Leaseweb
@@ -504,6 +503,7 @@ Language
     
     [KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer "KYC Customer Verification")
     
+* [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * [Contact](https://www.leaseweb.com/en/contact "Contact")
 
 Legal & Compliance
