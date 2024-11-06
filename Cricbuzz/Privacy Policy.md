@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PRSW vs BRHW - PRSW Won](https://www.cricbuzz.com/live-cricket-scores/101327/prsw-vs-brhw-14th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Brisbane Heat Women, 14th Match - PRSW Won")[AFG vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/108769/afg-vs-ban-1st-odi-afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh, 1st ODI - Preview")[KAR vs BEN - Preview](https://www.cricbuzz.com/live-cricket-scores/97619/kar-vs-ben-elite-group-c-ranji-trophy-elite-2024-25 "Karnataka v Bengal, Elite Group C - Preview")[HBHW vs SYSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101331/hbhw-vs-sysw-15th-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Sydney Sixers Women, 15th Match - Preview")[NED vs OMAN - OMAN Won](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cricket-world-cup-league-two-2023-27 "Netherlands v Oman, 45th Match - OMAN Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AFG vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/108769/afg-vs-ban-1st-odi-afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh, 1st ODI - Preview")[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95160/wi-vs-eng-3rd-odi-england-tour-of-west-indies-2024 "West Indies v England, 3rd ODI - Preview")[HBHW vs SYSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101331/hbhw-vs-sysw-15th-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Sydney Sixers Women, 15th Match - Preview")[VIC vs SAUS - Live](https://www.cricbuzz.com/live-cricket-scores/103186/vic-vs-saus-11th-match-australia-domestic-one-day-cup-2024-25 "Victoria v South Australia, 11th Match - Live")[KAR vs BEN - Preview](https://www.cricbuzz.com/live-cricket-scores/97619/kar-vs-ben-elite-group-c-ranji-trophy-elite-2024-25 "Karnataka v Bengal, Elite Group C - Preview")
 
 AllLive NowToday
 
@@ -152,13 +152,13 @@ AllLive NowToday
     
     Elite Group B
     
-* [Kerala vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97637/ker-vs-up-elite-group-c-ranji-trophy "Kerala v Uttar Pradesh, Elite Group C - Preview")
-    
-    Elite Group C
-    
 * [Mumbai vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97581/mum-vs-odsa-elite-group-a-ranji-trophy "Mumbai v Odisha, Elite Group A - Preview")
     
     Elite Group A
+    
+* [Kerala vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97637/ker-vs-up-elite-group-c-ranji-trophy "Kerala v Uttar Pradesh, Elite Group C - Preview")
+    
+    Elite Group C
     
 * Ranji Trophy Plate
     
@@ -190,7 +190,7 @@ AllLive NowToday
     
 * Australia Domestic One-Day Cup 2024-25
     
-    [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/103186/saus-vs-vic-11th-match-australia-domestic-one-day-cup-2024-25 "South Australia v Victoria, 11th Match - Preview")
+    [Victoria vs South Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/103186/vic-vs-saus-11th-match-australia-domestic-one-day-cup-2024-25 "Victoria v South Australia, 11th Match - Live")
     
     11th Match
     
@@ -262,6 +262,10 @@ AllLive NowToday
     
     17th Match
     
+* [Melbourne Stars Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101344/mlsw-vs-sysw-18th-match-wbbl-2024 "Melbourne Stars Women v Sydney Sixers Women, 18th Match - Upcoming")
+    
+    18th Match
+    
 * China Womens T20I Quadrangular Series
     
     [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/109173/chnw-vs-hkw-1st-match-china-womens-t20i-quadrangular-series "China Women v Hong Kong Women, 1st Match - Upcoming")
@@ -271,6 +275,10 @@ AllLive NowToday
 * [Mongolia Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/109180/mglw-vs-mmrw-2nd-match-china-womens-t20i-quadrangular-series "Mongolia Women v Myanmar Women, 2nd Match - Upcoming")
     
     2nd Match
+    
+* [China Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/109183/chnw-vs-mglw-3rd-match-china-womens-t20i-quadrangular-series "China Women v Mongolia Women, 3rd Match - Upcoming")
+    
+    3rd Match
     
 
 Privacy Policy
@@ -579,41 +587,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132337/david-warner-appointed-sydney-thunder-captain "David Warner appointed Sydney Thunder captain")
+
+[David Warner appointed Sydney Thunder captain](https://www.cricbuzz.com/cricket-news/132337/david-warner-appointed-sydney-thunder-captain "David Warner appointed Sydney Thunder captain")
+
+1m ago
+
   [](https://www.cricbuzz.com/cricket-news/132336/ipl-auction-to-be-held-in-jeddah-on-november-24-and-25 "IPL Auction to be held in Jeddah on November 24 and 25")
 
 [IPL Auction to be held in Jeddah on November 24 and 25](https://www.cricbuzz.com/cricket-news/132336/ipl-auction-to-be-held-in-jeddah-on-november-24-and-25 "IPL Auction to be held in Jeddah on November 24 and 25")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132335/mohammad-salahuddin-appointed-as-bangladeshs-assistant-coach "Mohammad Salahuddin appointed Bangladesh's senior assistant coach")
 
 [Mohammad Salahuddin appointed Bangladesh's senior assistant coach](https://www.cricbuzz.com/cricket-news/132335/mohammad-salahuddin-appointed-as-bangladeshs-assistant-coach "Mohammad Salahuddin appointed Bangladesh's senior assistant coach")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132334/its-not-in-our-control-najmul-shanto-on-off-field-issues "'It's not in our control' - Najmul on off-field issues")
 
 ['It's not in our control' - Najmul on off-field issues](https://www.cricbuzz.com/cricket-news/132334/its-not-in-our-control-najmul-shanto-on-off-field-issues "'It's not in our control' - Najmul on off-field issues")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132333/can-livingstone-complete-odi-turnaround-with-a-series-win "Can Livingstone complete ODI turnaround with a series win?")
 
 [Can Livingstone complete ODI turnaround with a series win?](https://www.cricbuzz.com/cricket-news/132333/can-livingstone-complete-odi-turnaround-with-a-series-win "Can Livingstone complete ODI turnaround with a series win?")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132332/the-nuances-of-indias-approach-at-home-that-need-a-re-look "The nuances of India's approach at home that need a re-look")
 
 [The nuances of India's approach at home that need a re-look](https://www.cricbuzz.com/cricket-news/132332/the-nuances-of-indias-approach-at-home-that-need-a-re-look "The nuances of India's approach at home that need a re-look")
 
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132331/mooney-fifty-king-five-fer-drive-scorchers-to-comprehensive-win "Mooney fifty, King five-fer drive Scorchers to comprehensive win")
-
-[Mooney fifty, King five-fer drive Scorchers to comprehensive win](https://www.cricbuzz.com/cricket-news/132331/mooney-fifty-king-five-fer-drive-scorchers-to-comprehensive-win "Mooney fifty, King five-fer drive Scorchers to comprehensive win")
-
-6h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
