@@ -55,6 +55,8 @@
 Privacy Statement for Kurzweil Education Data Management System
 ===============================================================
 
+_Last Updated: October 14, 2024_
+
 This site provides you with access to Kurzweil Education's Data Management System. This system is an integral component of Kurzweil Education's curriculum products and provides valuable reporting, instructional recommendations, and other resources used by teachers and other instructional leaders in conjunction with Kurzweil Education's curriculum with the goal of improving student performance.
 
 This statement describes the privacy and security practices Kurzweil Education employs for this site. We have adopted these practices to protect you, the students, and the school district, and to enable each of us to comply with applicable legal requirements. Use of this site requires district acceptance of the practices outlined in this statement.
