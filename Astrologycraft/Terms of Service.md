@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-Astrologycraft.com is a product offered by ![Name](//astrologycraft.com/common/images/entity_name.png) ("we," "us," or "our").
+Astrologycraft.com is a product offered by ![Innover Online Media Group Ltd](//astrologycraft.com/common/images/entity_name.png) ("we," "us," or "our").
 
 We are pleased to provide you its browser extensions/add-ons (the “Extension(s)”) for search applications installed on your computer.
 
@@ -53,7 +53,7 @@ The Extension, including its source code, graphics, content, protocols, software
 
 We respect, and expect all our users to respect, all Intellectual Property Rights. In the event that we are notified of a potential or actual violation of a copyright, we will take appropriate actions to investigate and remove any content that infringes that copyright. We have adopted the following policy pertaining to copyright infringement, which accords with the Digital Millennium Copyright Act. Any notification of claimed infringement should be provided to our agent designated to receive notifications of claimed infringement (“Designated Agent”):
 
-![Name](//astrologycraft.com/common/images/entity_name.png)
+![Innover Online Media Group Ltd](//astrologycraft.com/common/images/entity_name.png)
 
 [\[email protected\]](https://astrologycraft.com/cdn-cgi/l/email-protection)
 
