@@ -10,6 +10,7 @@
 * [Assistive Technology](https://www.therapyshoppe.com/products/25-low-tech-assistive-technology-fidgets-weighted-special-needs-sensory-tools "Assistive Technology")
 * [Autism Specialties](https://www.therapyshoppe.com/products/1033-aspergers-autism-tools-toys-for-autistic-children-therapy-shoppe-sensory "Autism Specialties")
 * [Bilateral Coordination](https://www.therapyshoppe.com/products/13-bilateral-coordination-integration-child-occupational-therapy-toys-tools-sensory "Bilateral Coordination")
+* [BFRB](https://www.therapyshoppe.com/products/1844-bfrb "BFRB")
 * [College Specialties](https://www.therapyshoppe.com/products/1734-college-specialties "College Specialties")
 * [Educational Toys](https://www.therapyshoppe.com/products/1576-therapy-shoppe-educational-focus-fidget-special-needs-sensory-toys-tools "Educational Toys")
 * [Favorites for Teens and Adults](https://www.therapyshoppe.com/products/1433-teens-adults-favorite-writing-sensory-therapy-tools "Favorites for Teens  and Adults")
@@ -41,7 +42,6 @@
 * [Visual Perception](https://www.therapyshoppe.com/products/14-visual-perception-perceptual-skills-special-needs-educational-toys "Visual Perception")
 * [Weighted Vests and Other Weighted Tools](https://www.therapyshoppe.com/products/5-weighted-vests-lap-pads-blankets-belts-animals-fidgets-pencils "Weighted Vests and Other Weighted Tools")
 * [Wipe Clean Sensory Tools](https://www.therapyshoppe.com/products/1788-wipe-clean-sensory-tools "Wipe Clean Sensory Tools")
-* [BFRB](https://www.therapyshoppe.com/products/1844-bfrb "BFRB")
 * [Discontinued Products](https://www.therapyshoppe.com/products/1692-discontinued-products "Discontinued Products")
 
 [![Therapy Shoppe](/images/TherapyShoppeLogo.png)](https://www.therapyshoppe.com/)
@@ -84,6 +84,7 @@
 * [Assistive Technology](https://www.therapyshoppe.com/products/25-low-tech-assistive-technology-fidgets-weighted-special-needs-sensory-tools "Assistive Technology")
 * [Autism Specialties](https://www.therapyshoppe.com/products/1033-aspergers-autism-tools-toys-for-autistic-children-therapy-shoppe-sensory "Autism Specialties")
 * [Bilateral Coordination](https://www.therapyshoppe.com/products/13-bilateral-coordination-integration-child-occupational-therapy-toys-tools-sensory "Bilateral Coordination")
+* [BFRB](https://www.therapyshoppe.com/products/1844-bfrb "BFRB")
 * [College Specialties](https://www.therapyshoppe.com/products/1734-college-specialties "College Specialties")
 * [Educational Toys](https://www.therapyshoppe.com/products/1576-therapy-shoppe-educational-focus-fidget-special-needs-sensory-toys-tools "Educational Toys")
 * [Favorites for Teens and Adults](https://www.therapyshoppe.com/products/1433-teens-adults-favorite-writing-sensory-therapy-tools "Favorites for Teens  and Adults")
@@ -115,7 +116,6 @@
 * [Visual Perception](https://www.therapyshoppe.com/products/14-visual-perception-perceptual-skills-special-needs-educational-toys "Visual Perception")
 * [Weighted Vests and Other Weighted Tools](https://www.therapyshoppe.com/products/5-weighted-vests-lap-pads-blankets-belts-animals-fidgets-pencils "Weighted Vests and Other Weighted Tools")
 * [Wipe Clean Sensory Tools](https://www.therapyshoppe.com/products/1788-wipe-clean-sensory-tools "Wipe Clean Sensory Tools")
-* [BFRB](https://www.therapyshoppe.com/products/1844-bfrb "BFRB")
 * [Discontinued Products](https://www.therapyshoppe.com/products/1692-discontinued-products "Discontinued Products")
 
 * [Home](https://www.therapyshoppe.com/) \> 
