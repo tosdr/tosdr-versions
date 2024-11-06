@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Les Formes et les Couleurs](https://www.myabandonware.com/game/les-formes-et-les-couleurs-sts)
-* [Les Chiffres et les Nombres](https://www.myabandonware.com/game/les-chiffres-et-les-nombres-str)
-* [Les Oiseaux des Parcs et des Jardins](https://www.myabandonware.com/game/les-oiseaux-des-parcs-et-des-jardins-stq)
-* [Lissy: 50 Pferde-Spiele](https://www.myabandonware.com/game/lissy-50-pferde-spiele-stp)
-* [Who Stole Hanukkah!?](https://www.myabandonware.com/game/who-stole-hanukkah-sto)
+* [pop'n music 8](https://www.myabandonware.com/game/pop-n-music-8-t7i)
+* [pop'n music 7](https://www.myabandonware.com/game/pop-n-music-7-t7h)
+* [pop'n music 6](https://www.myabandonware.com/game/pop-n-music-6-t7g)
+* [pop'n music 5](https://www.myabandonware.com/game/pop-n-music-5-t7f)
+* [Police Trainer 2](https://www.myabandonware.com/game/police-trainer-2-t7e)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Missile-X](https://www.myabandonware.com/game/missile-x-sp2)
-* [Imagine: Pet Hospital](https://www.myabandonware.com/game/imagine-pet-hospital-hfk)
-* [Nekkyū Kōshien](https://www.myabandonware.com/game/nekkyu-koshien-p4e)
+* [The Tolkien Trilogy](https://www.myabandonware.com/game/the-tolkien-trilogy-70n)
+* [Fun School!](https://www.myabandonware.com/game/fun-school-hn7)
+* [Wayne Gretzky's 3D Hockey](https://www.myabandonware.com/game/wayne-gretzky-s-3d-hockey-sb1)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
