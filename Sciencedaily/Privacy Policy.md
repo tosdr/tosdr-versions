@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [AI Doesn't Really Understand the World](https://www.sciencedaily.com/releases/2024/11/241105191826.htm)
 * [When Earth Was Slushy](https://www.sciencedaily.com/releases/2024/11/241105174745.htm)
 * [Bio-Based Fibers May Be Worse Than Plastics](https://www.sciencedaily.com/releases/2024/11/241105114318.htm)
 * [Towards a Hydrogen-Powered Future](https://www.sciencedaily.com/releases/2024/11/241105114155.htm)
@@ -217,7 +218,6 @@ this hour
 * [The Secrets of Baseball's Magic Mud](https://www.sciencedaily.com/releases/2024/11/241104150622.htm)
 * [Exploding Neutron-Stars: Dance of Electrons](https://www.sciencedaily.com/releases/2024/11/241104112242.htm)
 * [Synthetic Genes for Medicine and Biotech](https://www.sciencedaily.com/releases/2024/11/241104112240.htm)
-* [Fossil of Huge Terror Bird Discovered](https://www.sciencedaily.com/releases/2024/11/241104112355.htm)
 
 Trending Topics
 ---------------
@@ -232,15 +232,15 @@ this week
 
 [Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
-[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
