@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Live
+
+[Polls close in New York with many races still undecided](https://nypost.com/2024/11/05/us-news/ny-nj-election-day-2024-live-updates-results-photos-reactions-more/)
+
 Privacy Notice Highlights
 =========================
 
