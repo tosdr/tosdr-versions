@@ -261,4 +261,4 @@ Bryn Mawr, PA 19010
 * [Senior Home Care By Angels Canada](https://www.seniorhomecarebyangels.com/)
 
 _Not all services are available at all locations. Please check with your [local agency](https://www.visitingangels.com/office-locator)._ Each Visiting Angels agency is a franchise that is independently owned and operated.  
-The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency. © Visiting Angels is a registered trademark of Living Assistance Services, Inc. [Privacy Notice](https://www.visitingangels.com/privacy-notice) | [Portal](https://arc.franconnect.net/fc/) master (8a7bd4a) - prod
+The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency. © Visiting Angels is a registered trademark of Living Assistance Services, Inc. [Privacy Notice](https://www.visitingangels.com/privacy-notice) | [Portal](https://arc.franconnect.net/fc/) master (1bea162) - prod
