@@ -31,7 +31,7 @@
     * [Quantum Optimization Summary](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-optimization-landing-page/)
     * [Workforce Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/workforce-scheduling/)
     * [Production Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/production-scheduling/)
-    * [Vehicle Routing](https://www.dwavesys.com/solutions-and-products/quantum-optimization/vehicle-routing/)
+    * [Logistics Routing](https://www.dwavesys.com/solutions-and-products/quantum-optimization/logistics-routing/)
     * [Resource Optimization](https://www.dwavesys.com/solutions-and-products/quantum-optimization/resource-optimization/)
     * [Cargo Loading](https://www.dwavesys.com/solutions-and-products/quantum-optimization/cargo-loading/)
     * [Additional Use Cases](https://www.dwavesys.com/learn/featured-applications/)
@@ -48,10 +48,10 @@
     
     Discover how you can use quantum computing today
     
-    * [Quantum Research](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-research-landing-page/)
     * [Manufacturing & Logistics](https://www.dwavesys.com/solutions-and-products/manufacturing-logistics/)
-    * [Quantum AI](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-ai-landing-page/)
     * [Public Sector](https://www.dwavesys.com/solutions-and-products/public-sector/)
+    * [Quantum Research](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-research-landing-page/)
+    * [Quantum AI](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-ai-landing-page/)
     
 * Learn
     
@@ -211,7 +211,7 @@ Follow Us [Facebook](https://www.facebook.com/dwavequantum) [LinkedIn](https://w
 * [Quantum Optimization Summary](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-optimization-landing-page/)
 * [Workforce Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/workforce-scheduling/)
 * [Production Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/production-scheduling/)
-* [Vehicle Routing](https://www.dwavesys.com/solutions-and-products/quantum-optimization/vehicle-routing/)
+* [Vehicle Routing](https://www.dwavesys.com/solutions-and-products/quantum-optimization/logistics-routing/)
 * [Resource Optimization](https://www.dwavesys.com/solutions-and-products/quantum-optimization/resource-optimization/)
 * [Cargo Loading](https://www.dwavesys.com/solutions-and-products/quantum-optimization/cargo-loading/)
 
