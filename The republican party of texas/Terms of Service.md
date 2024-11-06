@@ -47,18 +47,18 @@ Skip links
     
     [Press releases](https://texasgop.org/category/press-releases/)
     
-    [“Limited Term” Driver’s Licenses](https://texasgop.org/texas-gop-chair-abraham-george-limited-term-dl/)
-    --------------------------------------------------------------------------------------------------------
+    [Official Trump Statement](https://texasgop.org/official-trump-statement/)
+    --------------------------------------------------------------------------
     
     [Press releases](https://texasgop.org/category/press-releases/)
     
-    [Texas GOP Chair Abraham George Announces Major Investment In Legislative Races](https://texasgop.org/texas-gop-chair-abraham-george-announces-major-investment-in-legislative-races/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Official Cruz Statement](https://texasgop.org/official-cruz-statement/)
+    ------------------------------------------------------------------------
     
-    [Press releases](https://texasgop.org/category/press-releases/) | [News](https://texasgop.org/category/news/)
+    [Press releases](https://texasgop.org/category/press-releases/)
     
-    [Texas GOP Announces U.S. Rep. Beth Van Duyne as Victory Chair 2024](https://texasgop.org/texas-gop-announces-u-s-rep-beth-van-duyne-as-victory-chair-2024/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [“Limited Term” Driver’s Licenses](https://texasgop.org/texas-gop-chair-abraham-george-limited-term-dl/)
+    --------------------------------------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
