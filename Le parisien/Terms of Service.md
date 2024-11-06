@@ -824,9 +824,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=755)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=756)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=755)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=756)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
