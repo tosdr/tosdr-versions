@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)4°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)5°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
+* [élections](https://www.watson.ch/fr/elections/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Commentaire](https://www.watson.ch/fr/commentaire/)
+* [nourriture](https://www.watson.ch/fr/nourriture/)
+* [Vidéo](https://www.watson.ch/fr/video/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [People](https://www.watson.ch/fr/people/)
 * [Espionnage](https://www.watson.ch/fr/espionnage/)
 * [Terrorisme](https://www.watson.ch/fr/terrorisme/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
+* [Russie](https://www.watson.ch/fr/russie/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Vidéo](https://www.watson.ch/fr/video/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
 * [Israël](https://www.watson.ch/fr/israel/)
-* [Salaire](https://www.watson.ch/fr/salaire/)
 * [Musique](https://www.watson.ch/fr/musique/)
 * [Interview](https://www.watson.ch/fr/interview/)
-* [Storypics](https://www.watson.ch/fr/storypics/)
 * [Football](https://www.watson.ch/fr/football/)
-* [élections](https://www.watson.ch/fr/elections/)
 * [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
