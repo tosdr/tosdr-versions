@@ -2978,6 +2978,7 @@
             * [ ]  [Observation Remediation](https://handbook.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure/)
             * [ ]  [Production Readiness: Compliance Assessment](https://handbook.gitlab.com/handbook/security/security-assurance/production-readiness-compliance-assessment/)
             * [ ]  [Security Compliance Team](https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/)
+                * [ ] [](https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/scap-scanning/)
                 * [ ]  [Access Review Procedure](https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews/)
                 * [ ]  [External Audits, Certifications, and Attestations](https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/certifications/)
                 * [ ]  [FedRAMP Vulnerability Deviation Request Procedure](https://handbook.gitlab.com/handbook/security/security-assurance/security-compliance/poam-deviation-request-procedure/)
