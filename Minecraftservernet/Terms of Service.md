@@ -29,15 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
+[![ByniuMC](plugins/MineCraft/icons/25x25xByniuMC_1727110924.png.pagespeed.ic.csO5XeMY1u.png)
 
-Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+ByniuMC.pl | Earth SMP](https://minecraft-server.net/details/ByniuMC/ "ByniuMC.pl | Earth SMP")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![KoalaServers](plugins/MineCraft/icons/25x25xKoalaServers_1717903318.png.pagespeed.ic.D0QllTPRc1.png)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy") [Trunov\_ivan](https://minecraft-server.net/details/Cs2/ "Trunov_ivan")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!](https://minecraft-server.net/details/KoalaServers/ "KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!")[![MineWise_Netowrk](plugins/MineCraft/icons/25x25xMineWise_Netowrk_1729696412.png.pagespeed.ic.I96Y6cCM20.jpg)
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![KretMCPL](plugins/MineCraft/icons/25x25xKretMCPL_1716618508.png.pagespeed.ic.csO5XeMY1u.png)
 
-MINEWISE NETWORK](https://minecraft-server.net/details/MineWise_Netowrk/ "MINEWISE NETWORK") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")
+KretMC.PL - STAFF NEEDED](https://minecraft-server.net/details/KretMCPL/ "KretMC.PL - STAFF NEEDED")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -123,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06645 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.08435 - Created by [Debaucus](https://debauc.us/)
