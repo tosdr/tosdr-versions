@@ -36,6 +36,9 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![Affordable & eco-friendly laptop for everyday use — 30% off now](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Affordable & eco-friendly laptop for everyday use — 30% off now](https://www.bleepingcomputer.com/offer/deals/affordable-and-eco-friendly-laptop-for-everyday-use-30-percent-off-now/)
     * [![Google Cloud to make MFA mandatory by the end of 2025](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Google Cloud to make MFA mandatory by the end of 2025](https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/)
@@ -45,9 +48,6 @@
     * [![Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://www.bleepingcomputer.com/news/security/interpol-disrupts-cybercrime-activity-on-22-000-ip-addresses-arrests-41/)
-    * [![US warns of last-minute Iranian and Russian election influence ops](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        US warns of last-minute Iranian and Russian election influence ops](https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
