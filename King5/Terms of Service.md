@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2e54bc31-c504-4f45-a4e4-6581dadfe8a9/20241105T024516/2e54bc31-c504-4f45-a4e4-6581dadfe8a9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e54bc31-c504-4f45-a4e4-6581dadfe8a9/20241105T024516/2e54bc31-c504-4f45-a4e4-6581dadfe8a9_360x203.jpg)](https://www.king5.com/article/news/crime/3-injured-shooting-in-seattle-belltown-neighborhood/281-997e5fee-18b4-4b08-9504-9e0c314ed7b0)
+    *  [![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_16x9.jpg) ![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_360x203.jpg)](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075)
         
-        #### [3 injured in shooting in Seattle's Belltown neighborhood](https://www.king5.com/article/news/crime/3-injured-shooting-in-seattle-belltown-neighborhood/281-997e5fee-18b4-4b08-9504-9e0c314ed7b0)
+        #### [Granite Falls parents plead guilty to manslaughter charges in accidental shooting of infant daughter](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075) [![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_16x9.jpg) ![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_360x203.jpg)](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075)
         
-    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/crime/man-shot-himself-buttocks-accidentally-police/281-755851b0-823a-4c62-b356-5a7dbb188e77)
+        #### [Granite Falls parents plead guilty to manslaughter charges in accidental shooting of baby](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075)
+    *  [![](https://media.king5.com/assets/KING/images/3582772e-9397-4924-bd67-0c7aa4248686/20241106T012101/3582772e-9397-4924-bd67-0c7aa4248686_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3582772e-9397-4924-bd67-0c7aa4248686/20241106T012101/3582772e-9397-4924-bd67-0c7aa4248686_360x203.jpg)](https://www.king5.com/article/news/local/woman-filing-lawsuit-against-bicyclist-hit-her-east-lake-sammamish-trail/281-52c3bb01-0dce-4880-8aa7-84cc89b283f9)
         
-        #### [Man who shot himself in buttocks accidentally in Kent will be arrested, police say](https://www.king5.com/article/news/crime/man-shot-himself-buttocks-accidentally-police/281-755851b0-823a-4c62-b356-5a7dbb188e77)
+        #### [Woman filing lawsuit against bicyclist who hit her on popular East Lake Sammamish Trail](https://www.king5.com/article/news/local/woman-filing-lawsuit-against-bicyclist-hit-her-east-lake-sammamish-trail/281-52c3bb01-0dce-4880-8aa7-84cc89b283f9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+48°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
