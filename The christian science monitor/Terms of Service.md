@@ -118,7 +118,7 @@ Today, our live updates blog (which you can read here) will keep you up to speed
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
-Live Updates
+Featured Coverage
 
 [Here’s what Monitor reporters are watching.
 
@@ -126,7 +126,7 @@ Read now
 
 ![](//images.csmonitor.com/csm/2024/11/1183811_1_1105-election-illo-with-text_square.png?alias=square_200x200)
 
-### Election 2024 coverage](https://www.csmonitor.com/election110524?icid=topics-tab)
+### Election 2024 coverage](https://www.csmonitor.com/election2024?icid=topics-tab)
 
 News
 
