@@ -53,11 +53,11 @@
     * [SaaS Platforms](https://www.visitor-analytics.io/en/white-label/saas-platforms "SaaS Platforms")
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
+    * [What Is Digital Experience Analytics? A Complete A-Z Guide](https://www.visitor-analytics.io/en/blog/digital-experience-analytics "What Is Digital Experience Analytics? A Complete A-Z Guide")
     * [Website Intelligence News Roundup October 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-october-2024 "Website Intelligence News Roundup October 2024")
     * [How These 16 Marketing Case Studies Changed the Game](https://www.visitor-analytics.io/en/blog/marketing-case-studies "How These 16 Marketing Case Studies Changed the Game")
     * [What Is a Compliance Audit? Key Steps & Examples](https://www.visitor-analytics.io/en/blog/compliance-audit "What Is a Compliance Audit? Key Steps & Examples")
     * [Interview: EST Global Founder Dr Sindhu Bhaskar](https://www.visitor-analytics.io/en/blog/interview-dr-sindhu-bhaskar-data-privacy-future-financial-services "Interview: EST Global Founder Dr Sindhu Bhaskar")
-    * [Demographic Segmentation for Marketers: The Only Guide You Need](https://www.visitor-analytics.io/en/blog/demographic-segmentation-in-marketing "Demographic Segmentation for Marketers: The Only Guide You Need")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
