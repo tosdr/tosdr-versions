@@ -112,19 +112,19 @@ Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y 
 
 Noticia
 
-Transformación Digital PYMES
+Internacionalización
 
-Red.es participa en Gastronomic Forum Barcelona con su stand informativo del programa de ayudas Kit Digital
+Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
 
-[Red.es participa en Gastronomic Forum Barcelona con su stand informativo del programa de ayudas Kit Digital](http://red.es/es/actualidad/noticias/redes-participa-en-gastronomic-forum-barcelona-con-su-stand-informativo-del-0 "Ir al contenido de: Red.es participa en Gastronomic Forum Barcelona con su stand informativo del programa de ayudas Kit Digital")
+[Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
 
 Noticia
 
 Internacionalización
 
-Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
+Descubre a las 38 empresas que forman parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
 
-[Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
+[Descubre a las 38 empresas que forman parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que forman parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
