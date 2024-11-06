@@ -585,7 +585,7 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
+* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
 Fußbereich
 
@@ -2720,7 +2720,7 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
+* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2776,7 +2776,7 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
+* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
@@ -2785,16 +2785,16 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
 Neueste Tests
 
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
+* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
 
 Service Stiftung Warentest
 
