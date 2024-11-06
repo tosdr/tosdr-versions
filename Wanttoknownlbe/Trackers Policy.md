@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/leven-wij-in-een-simulatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/het-doel-van-de-wereldwijde-valse-vlag-operaties/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
