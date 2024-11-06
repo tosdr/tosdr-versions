@@ -2,7 +2,7 @@
 
 [](https://www.spiceworks.com/ "Ziff Davis Logo")
 
-[**ZD $50.91** ▲7.12%](http://investor.ziffdavis.com/)
+[**ZD $49.97** ▲5.16%](http://investor.ziffdavis.com/)
 
 Minimum 20 minute delay.
 
