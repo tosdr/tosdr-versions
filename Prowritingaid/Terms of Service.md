@@ -10,7 +10,7 @@
     * [Rephrase](https://prowritingaid.com/rephrase)
     * [Paraphrasing Tool](https://prowritingaid.com/paraphrasing-tool)
     * [Critique Report](https://prowritingaid.com/features/critique-report)
-    * [AI Sparks](https://prowritingaid.com/features/AI-Sparks)
+    * [Sparks](https://prowritingaid.com/features/sparks)
     * [Writing Reports](https://prowritingaid.com/features/writing-reports)
 * [Reviews](https://prowritingaid.com/reviews)
 * [Pricing](https://prowritingaid.com/pricing)
