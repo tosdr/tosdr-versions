@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [AI Doesn't Really Understand the World](https://www.sciencedaily.com/releases/2024/11/241105191826.htm)
+* [When Earth Was Slushy](https://www.sciencedaily.com/releases/2024/11/241105174745.htm)
+* [Bio-Based Fibers May Be Worse Than Plastics](https://www.sciencedaily.com/releases/2024/11/241105114318.htm)
+* [Towards a Hydrogen-Powered Future](https://www.sciencedaily.com/releases/2024/11/241105114155.htm)
+* [Deaf Male Mosquitoes Don't Mate](https://www.sciencedaily.com/releases/2024/11/241105113844.htm)
 * [AI for Real-Time, Patient-Focused Insight](https://www.sciencedaily.com/releases/2024/11/241104150638.htm)
 * [Tonga Eruption: Seismic Wave 15 Minutes Earlier](https://www.sciencedaily.com/releases/2024/11/241104150630.htm)
 * [The Secrets of Baseball's Magic Mud](https://www.sciencedaily.com/releases/2024/11/241104150622.htm)
 * [Exploding Neutron-Stars: Dance of Electrons](https://www.sciencedaily.com/releases/2024/11/241104112242.htm)
 * [Synthetic Genes for Medicine and Biotech](https://www.sciencedaily.com/releases/2024/11/241104112240.htm)
-* [Fossil of Huge Terror Bird Discovered](https://www.sciencedaily.com/releases/2024/11/241104112355.htm)
-* [Fastest-Feeding Black Hole in the Early Universe](https://www.sciencedaily.com/releases/2024/11/241104112032.htm)
-* [Indigenous Cultural Burning in Australia](https://www.sciencedaily.com/releases/2024/11/241101123754.htm)
-* [Why No Deep-Diving Crocodiles: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
-* [Revolutionary High-Speed 3D Bioprinter](https://www.sciencedaily.com/releases/2024/11/241101123841.htm)
 
 Trending Topics
 ---------------
@@ -257,17 +257,17 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
-[Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
