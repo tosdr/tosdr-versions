@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: A Man's World (10,986)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: A Man's World" (10,986 posts)")
-* [AN Out of Context III (3,885)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (3,885 posts)")
-* [\[q\] Regarding Mottos and the rules. (8)](https://forum.nationstates.net/viewtopic.php?t=558010&f=16&view=unread#unread ""[q] Regarding Mottos and the rules." (8 posts)")
-* [What music are you listening to? v19 (198)](https://forum.nationstates.net/viewtopic.php?t=557533&f=25&view=unread#unread ""What music are you listening to? v19" (198 posts)")
-* [2023-24 Israel-Iran proxy conflict (1,288)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,288 posts)")
+* [On a pair of Leftist slogans (29)](https://forum.nationstates.net/viewtopic.php?t=558005&f=20&view=unread#unread ""On a pair of Leftist slogans" (29 posts)")
+* [Your nation's reaction to the US pres… (14)](https://forum.nationstates.net/viewtopic.php?t=558003&f=23&view=unread#unread ""Your nation's reaction to the US presidential election" (14 posts)")
+* [American Politics: A Man's World (12,004)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: A Man's World" (12,004 posts)")
+* [The Collective Security League: OOC s… (6,685)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,685 posts)")
+* [What triggers you about the AN? (10,334)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,334 posts)")
 
 Advertisement
 
