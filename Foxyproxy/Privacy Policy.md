@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Tried FoxyProxy for one month. Have now subscribed for a full year on the whole a very good service. Sometimes its a bit sticky but that could be my service providers not giving me enough bandwidth. Will certainly recomend to others.
+I'm tremendously happy with the UK proxy service and will very likely be a longtime customer. I use the service to catch BBC programs whilst abroad. It's indispensable.
 
-Philip Abbott
+Jacomo Corbo
