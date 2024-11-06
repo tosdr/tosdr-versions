@@ -73,16 +73,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
-* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
+* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
-* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
+* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
+* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
+* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
+* [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 
 Close
 
@@ -137,16 +137,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
-* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
+* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
-* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
+* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
+* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
+* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
+* [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 
 [Skip to content](#main)
 
