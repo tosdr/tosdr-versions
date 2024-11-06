@@ -309,7 +309,7 @@ If you have any questions about our use of cookies, you can find the most releva
     
     *  [![](https://s2.wp.com/i/logo/wpcom-gray-white.png) Automattic](https://automattic.com/)
     
-    Join 10,433 other subscribers
+    Join 10,435 other subscribers
     
         
     
@@ -318,7 +318,6 @@ If you have any questions about our use of cookies, you can find the most releva
     * Already have a WordPress.com account? [Log in now.](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fautomattic.com%252Fcookies%252F)
         
     
-* [Privacy](#)
 * *  [![](https://s2.wp.com/i/logo/wpcom-gray-white.png) Automattic](https://automattic.com/)
     * [Customize](https://automattic.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fautomattic.wordpress.com%2Fcookies%2F)
     * Subscribe Subscribed
