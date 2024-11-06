@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 302,829 Reviews
+Average 4.7 Stars Based on 302,866 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -441,17 +441,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 302,829 Carpet Cleaning Services Reviews
+Based on 302,866 Carpet Cleaning Services Reviews
 
-Fast, friendly and did an excellent job. **MV.** - SAINT PETERS, MO - 11/02/2024
-
-(5.0 Out of 5 stars)
-
-Friendly and on time **Kc.** - Scottsdale, AZ - 11/02/2024
+**MH.** - Buchanan, VA - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-**EC.** - Pocatello, ID - 11/02/2024
+Quick service I loved the same day service , Cory was very proffesional and efficient, the house has a whole new vibe now after he cleaned the floors, I highly recommend to other people! **JS.** - Indianapolis, IN - 11/03/2024
+
+(5.0 Out of 5 stars)
+
+**ML.** - Naples, FL - 11/03/2024
 
 (5.0 Out of 5 stars)
 
