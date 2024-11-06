@@ -361,6 +361,7 @@ Cookies
 | Session | Gainsight Inc | ESSENTIAL | Stores users session | Session |
 | set\_visit\_source | Lucid Software Inc | ESSENTIAL | Used as part of the team invitation flow. | Session |
 | sharepointJwt | Lucid Software Inc | ESSENTIAL | Used as part of Sharepoint integration. | 15 minutes |
+| showDocLimitDialog | Lucid Software Inc | ESSENTIAL | Used to show/hide doc limit dialog. | 1 minute |
 | showLanguagePicker | Lucid Software Inc | ESSENTIAL | Used to determine if language picker should be shown. | Session |
 | showSuggestions | Lucid Software Inc | ESSENTIAL | Used to determine if suggestions should be shown during onboarding. | Session |
 | showTemplateTooltip | Lucid Software Inc | ESSENTIAL | Used to determine if we should show the tooltip to create from template. | 365 days and 6 hours |
