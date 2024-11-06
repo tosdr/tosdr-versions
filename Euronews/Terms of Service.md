@@ -18,55 +18,53 @@
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
     * [Donald Trump](https://www.euronews.com/tag/donald-trump)
     * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [Election results](https://www.euronews.com/tag/election-results)
     * [European Commission](https://www.euronews.com/tag/eu-commission)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
     
     * * *
     
     Latest stories
     
-    [![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")
+    [![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")
     
-    ![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](https://static.euronews.com/articles/stories/08/82/31/44/368x207_cmsv2_a9a9bd2c-cccf-52fd-acf2-d2091be51fae-8823144.jpg "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
+    ![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](https://static.euronews.com/articles/stories/08/83/56/60/368x207_cmsv2_3c7f790b-d081-509e-a111-262433d5c0de-8835660.jpg "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
     
     Now playing Next
     
-    [Business](https://www.euronews.com/business/business)
+    [No Comment](https://www.euronews.com/nocomment)
     
-    ### [Swiss banking giant UBS beats forecasts with leap in profits](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
+    ### [No Comment. Anti-government protests in Israel](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
     
-    [![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")
+    [![The British Museum celebrates Picasso’s lesser-known printmaking legacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The British Museum celebrates Picasso’s lesser-known printmaking legacy")
     
-    ![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](https://static.euronews.com/articles/stories/08/82/33/32/368x207_cmsv2_b2a87237-675b-5a79-8bc3-cad308be5d8a-8823332.jpg "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
+    ![The British Museum celebrates Picasso’s lesser-known printmaking legacy](https://static.euronews.com/articles/stories/08/83/58/80/368x207_cmsv2_6612e37a-fb58-5e28-9af1-8aebce82e9a6-8835880.jpg "The British Museum celebrates Picasso’s lesser-known printmaking legacy")](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
     
     Now playing Next
     
     [Art](https://www.euronews.com/culture/art)
     
-    ### [Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
+    ### [Never-seen-before Picasso prints go on display at British Museum](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
     
-    [![Election officials attend to a voting station in Hrusevo, 20 October 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Election officials attend to a voting station in Hrusevo, 20 October 2024")
+    [![US Presidential election winner Donald Trump, left, with JD Vance right. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "US Presidential election winner Donald Trump, left, with JD Vance right. ")
     
-    ![Election officials attend to a voting station in Hrusevo, 20 October 2024](https://static.euronews.com/articles/stories/08/82/24/02/368x207_cmsv2_11ff5ee3-049b-586d-bb8c-2590b088bcda-8822402.jpg "Election officials attend to a voting station in Hrusevo, 20 October 2024")](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Sandu and Stoianoglo face off in crucial Moldova presidential runoff](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
-    
-    [![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")
-    
-    ![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](https://static.euronews.com/articles/stories/08/75/55/70/368x207_cmsv2_0985e023-30a0-538d-a209-424f96767c68-8755570.jpg "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
+    ![US Presidential election winner Donald Trump, left, with JD Vance right. ](https://static.euronews.com/articles/stories/08/83/61/12/368x207_cmsv2_465f179c-06d8-5dd5-af4f-13fc24983584-8836112.jpg "US Presidential election winner Donald Trump, left, with JD Vance right. ")](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
     
     Now playing Next
     
-    [Qatar 365](https://www.euronews.com/programs/qatar-365)
+    [Green News](https://www.euronews.com/green/green-news)
     
-    ### [Pumping out premium content– from stage shows to premium video content](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
+    ### [What does Trump’s win mean for global climate action?](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
     
-    In partnership with **Media City**
+    [![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")
+    
+    ![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](https://static.euronews.com/articles/stories/08/83/60/76/368x207_cmsv2_62f6ac36-bc86-547e-ac53-916d176d0866-8836076.jpg "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
+    
+    Now playing Next
+    
+    [Russia](https://www.euronews.com/news/europe/russia)
+    
+    ### [Russia-North Korea treaty signed amid Pyongyang troops joining fight](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -319,8 +317,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -342,6 +338,7 @@ Partner content
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
+* [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
 * [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
 
@@ -368,61 +365,59 @@ Trending
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
 * [Donald Trump](https://www.euronews.com/tag/donald-trump)
 * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [Election results](https://www.euronews.com/tag/election-results)
 * [European Commission](https://www.euronews.com/tag/eu-commission)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
 
 * * *
 
 Latest stories
 
-[![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")
+[![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")
 
-![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](https://static.euronews.com/articles/stories/08/82/31/44/368x207_cmsv2_a9a9bd2c-cccf-52fd-acf2-d2091be51fae-8823144.jpg "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
+![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](https://static.euronews.com/articles/stories/08/83/56/60/368x207_cmsv2_3c7f790b-d081-509e-a111-262433d5c0de-8835660.jpg "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[No Comment](https://www.euronews.com/nocomment)
 
-### [Swiss banking giant UBS beats forecasts with leap in profits](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
+### [No Comment. Anti-government protests in Israel](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
 
 * * *
 
-[![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")
+[![The British Museum celebrates Picasso’s lesser-known printmaking legacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The British Museum celebrates Picasso’s lesser-known printmaking legacy")
 
-![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](https://static.euronews.com/articles/stories/08/82/33/32/368x207_cmsv2_b2a87237-675b-5a79-8bc3-cad308be5d8a-8823332.jpg "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
+![The British Museum celebrates Picasso’s lesser-known printmaking legacy](https://static.euronews.com/articles/stories/08/83/58/80/368x207_cmsv2_6612e37a-fb58-5e28-9af1-8aebce82e9a6-8835880.jpg "The British Museum celebrates Picasso’s lesser-known printmaking legacy")](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
 
 Now playing Next
 
 [Art](https://www.euronews.com/culture/art)
 
-### [Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
+### [Never-seen-before Picasso prints go on display at British Museum](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
 
 * * *
 
-[![Election officials attend to a voting station in Hrusevo, 20 October 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Election officials attend to a voting station in Hrusevo, 20 October 2024")
+[![US Presidential election winner Donald Trump, left, with JD Vance right. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "US Presidential election winner Donald Trump, left, with JD Vance right. ")
 
-![Election officials attend to a voting station in Hrusevo, 20 October 2024](https://static.euronews.com/articles/stories/08/82/24/02/368x207_cmsv2_11ff5ee3-049b-586d-bb8c-2590b088bcda-8822402.jpg "Election officials attend to a voting station in Hrusevo, 20 October 2024")](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
+![US Presidential election winner Donald Trump, left, with JD Vance right. ](https://static.euronews.com/articles/stories/08/83/61/12/368x207_cmsv2_465f179c-06d8-5dd5-af4f-13fc24983584-8836112.jpg "US Presidential election winner Donald Trump, left, with JD Vance right. ")](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Green News](https://www.euronews.com/green/green-news)
 
-### [Sandu and Stoianoglo face off in crucial Moldova presidential runoff](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
+### [What does Trump’s win mean for global climate action?](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
 
 * * *
 
-[![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")
+[![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")
 
-![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](https://static.euronews.com/articles/stories/08/75/55/70/368x207_cmsv2_0985e023-30a0-538d-a209-424f96767c68-8755570.jpg "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
+![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](https://static.euronews.com/articles/stories/08/83/60/76/368x207_cmsv2_62f6ac36-bc86-547e-ac53-916d176d0866-8836076.jpg "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
 
 Now playing Next
 
-[Qatar 365](https://www.euronews.com/programs/qatar-365)
+[Russia](https://www.euronews.com/news/europe/russia)
 
-### [Pumping out premium content– from stage shows to premium video content](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
-
-In partnership with **Media City**
+### [Russia-North Korea treaty signed amid Pyongyang troops joining fight](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -677,8 +672,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -700,6 +693,7 @@ Partner content
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
+* [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
 * [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
 
