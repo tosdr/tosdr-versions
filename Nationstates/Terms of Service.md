@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [People not voting Kamala because of G… (368)](https://forum.nationstates.net/viewtopic.php?t=557663&f=20&view=unread#unread ""People not voting Kamala because of Gaza, who are you voting" (368 posts)")
-* [Guess the AU's music taste (313)](https://forum.nationstates.net/viewtopic.php?t=554486&f=25&view=unread#unread ""Guess the AU's music taste" (313 posts)")
-* [American Politics: A Man's World (10,436)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: A Man's World" (10,436 posts)")
-* [UK Politics Thread: Kemi Badenoch ele… (12,134)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,134 posts)")
-* [Empires: 2024 REVIVED IC (134)](https://forum.nationstates.net/viewtopic.php?t=557841&f=31&view=unread#unread ""Empires: 2024 REVIVED IC" (134 posts)")
+* [American Politics: A Man's World (10,986)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: A Man's World" (10,986 posts)")
+* [AN Out of Context III (3,885)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (3,885 posts)")
+* [\[q\] Regarding Mottos and the rules. (8)](https://forum.nationstates.net/viewtopic.php?t=558010&f=16&view=unread#unread ""[q] Regarding Mottos and the rules." (8 posts)")
+* [What music are you listening to? v19 (198)](https://forum.nationstates.net/viewtopic.php?t=557533&f=25&view=unread#unread ""What music are you listening to? v19" (198 posts)")
+* [2023-24 Israel-Iran proxy conflict (1,288)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,288 posts)")
 
 Advertisement
 
