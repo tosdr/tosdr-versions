@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7a2ffb1d1edd257f27c0c990fe1605c1
+3665b80af74aab7fa6358ab632a2b1b1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![5 mm round greenish brown pearls](https://sojourner.biz/images/cache/pearls/PE0097.200.jpg)](https://sojourner.biz/beads/pearls/5-mm-round-greenish-brown-pearls.html "5 mm round greenish brown pearls")
+[![Single oval amethyst clasp](https://sojourner.biz/images/cache/SKU0070front.200.jpg)](https://sojourner.biz/clasps/semi-precious/single-oval-amethyst-clasp.html "Single oval amethyst clasp")
 
-#### [5 mm round greenish brown pearls](https://sojourner.biz/beads/pearls/5-mm-round-greenish-brown-pearls.html "5 mm round greenish brown pearls")
+#### [Single oval amethyst clasp](https://sojourner.biz/clasps/semi-precious/single-oval-amethyst-clasp.html "Single oval amethyst clasp")
 
-$13.00
+$23.00
 
 ### Best Sellers
 
