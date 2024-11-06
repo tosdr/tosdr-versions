@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![William Russell](https://www.expatexchange.com/images/working_in_bahamas_fb.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=64187-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=79195-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[William Russell](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=64187-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=79195-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-Get a quote for international health insurance from our partner, William Russell.  
-[Get Quote](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=64187-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=79195-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
-[![William Russell](https://www.expatexchange.com/images/working_in_bahamas_fb.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=64187-MOBILE-cbar-vrs-B-hicontent-Global-62)[William Russell](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=64187-MOBILE-cbar-vrs-B-hicontent-Global-62)
+[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=79195-MOBILE-cbar-vrs-A-hicontent-Global-62)[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=79195-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-Get a quote for international health insurance from our partner, William Russell.  
-[Get Quote](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=64187-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=79195-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
