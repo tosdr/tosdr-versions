@@ -561,8 +561,6 @@ or
 
 [Community](https://www.honeypot.io/en/community/)
 
-[Blog](https://blog.honeypot.io/)
-
 [GraphQL Conf](https://graphqlconf.org/)
 
 We're social, too!
