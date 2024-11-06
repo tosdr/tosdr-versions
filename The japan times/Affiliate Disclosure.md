@@ -131,68 +131,62 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Nearly half of Japanese married couples are 'sexless,' survey finds](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Trump takes early electoral lead as race with Harris takes shape](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432403.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.")](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Snow seen on Mount Fuji after record time without snowcap](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432438.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ")](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Nearly half of Japanese married couples are 'sexless,' survey finds](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
-
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+[Trump takes early electoral lead as race with Harris takes shape](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
-
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432403.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.")](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Snow seen on Mount Fuji after record time without snowcap](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
+
+By [Hiroshi Hiyama](https://www.japantimes.co.jp/author/2633/hiroshi-hiyama/ "Hiroshi Hiyama")  
+
+  [![A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432438.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ")](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
 Podcast
 -------
@@ -213,9 +207,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +251,19 @@ Latest News
 
 [Trump defeats Harris, returning U.S. to era of uncertainty](https://www.japantimes.co.jp/news/2024/11/06/world/politics/us-election-trump-harris/ "Trump defeats Harris, returning U.S. to era of uncertainty")
 
-2 hours ago
+8 hours ago
 
 [Obesity drug maker Novo Nordisk posts strong profit](https://www.japantimes.co.jp/business/2024/11/06/obesity-drugmaker-novo-nordisk-profit/ "Obesity drug maker Novo Nordisk posts strong profit")
 
-3 hours ago
+9 hours ago
 
 [White House win gives Trump a legal reprieve](https://www.japantimes.co.jp/news/2024/11/06/world/white-house-win-legal-reprieve/ "White House win gives Trump a legal reprieve")
 
-4 hours ago
+9 hours ago
 
 [Nintendo Switch sales drop as successor console looms](https://www.japantimes.co.jp/business/2024/11/06/companies/nintendo-switch-sales/ "Nintendo Switch sales drop as successor console looms")
 
-6 hours ago
-
 [American voters in Japan reflect divisions in home country](https://www.japantimes.co.jp/news/2024/11/06/japan/japan-us-election/ "American voters in Japan reflect divisions in home country")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
