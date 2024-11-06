@@ -275,6 +275,13 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+WATCH: Secretary of State Election Briefing at 8:30 pm
+------------------------------------------------------
+
+[WATCH LIVE!](https://www.gpb.org/events/news/2024/11/05/secretary-of-state-election-update-1)
+
 Messages
 --------
 
