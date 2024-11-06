@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+More Fark for your buck
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Abortion measure stalls in the one state that doesn't know better](https://www.fark.com/goto/13453966) ( [salon.com](https://www.fark.com/goto/13453966) ) » [(4 comments)](https://www.fark.com/comments/13453966/Abortion-measure-stalls-in-one-state-that-doesnt-know-better) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13453060) ( [fark.com](https://www.fark.com/goto/13453060) ) » [(24 comments)](https://www.fark.com/comments/13453060/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [The Jets, Panthers, and Wild stay hot while the Flyers join a collection of aquatic animals in the basement - and some guy named Ovechkin is on track to break the Great One's goal record ... this season. It's your NHL Week 4 Power Rankings](https://www.fark.com/goto/13453188) ( [dailyfaceoff.com](https://www.fark.com/goto/13453188) ) » [(3 comments)](https://www.fark.com/comments/13453188/The-Jets-Panthers-Wild-stay-hot-while-Flyers-join-a-collection-of-aquatic-animals-in-basement-some-guy-named-Ovechkin-is-on-track-to-break-Great-Ones-goal-record-this-season-Its-your-NHL-Week-4-Power-Rankings) |
-| [Business](https://www.fark.com/business/) | [Return to office is so bad, not even Grindr employees wanted to go back](https://www.fark.com/goto/13454000) ( [arstechnica.com](https://www.fark.com/goto/13454000) ) » [(0 comments)](https://www.fark.com/comments/13454000/Return-to-office-is-so-bad-not-even-Grindr-employees-wanted-to-go-back) |
-| [STEM](https://www.fark.com/stem/) | [During WW2 and immediately afterwards, Britain rationed everything. This was very good for the British](https://www.fark.com/goto/13453838) ( [smithsonianmag.com](https://www.fark.com/goto/13453838) ) » [(0 comments)](https://www.fark.com/comments/13453838/During-WW2-immediately-afterwards-Britain-rationed-everything-This-was-very-good-for-British) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Andy Samberg hit with reminder of how stressful SNL was](https://www.fark.com/goto/13453954) ( [hollywoodreporter.com](https://www.fark.com/goto/13453954) ) » [(4 comments)](https://www.fark.com/comments/13453954/Andy-Samberg-hit-with-reminder-of-how-stressful-SNL-was) |
-| [Fandom](https://www.fark.com/fandom/) | [Nintendo continues trolling by actually announcing Switch 2 news today of all days](https://www.fark.com/goto/13453960) ( [kotaku.com](https://www.fark.com/goto/13453960) ) » [(5 comments)](https://www.fark.com/comments/13453960/Nintendo-continues-trolling-by-actually-announcing-Switch-2-news-today-of-all-days) |
-| [D'awww](https://www.fark.com/dawww/) | [Need to a break from the election? Rare D'awww tab crossover because stress isn't healthy](https://www.fark.com/goto/13453884) ( [twitch.tv](https://www.fark.com/goto/13453884) ) » [(54 comments)](https://www.fark.com/comments/13453884/Need-to-a-break-from-election-Rare-Dawww-tab-crossover-because-stress-isnt-healthy) |
-| [Food](https://www.fark.com/food/) | [Brantford Butter Bandits Burgle Bodega](https://www.fark.com/goto/13453658) ( [kitchener.ctvnews.ca](https://www.fark.com/goto/13453658) ) » [(4 comments)](https://www.fark.com/comments/13453658/Brantford-Butter-Bandits-Burgle-Bodega) |
-| [Politics](https://www.fark.com/politics/) | [Just keep drinking](https://www.fark.com/goto/13454056) ( [fark.com](https://www.fark.com/goto/13454056) ) » [(137 comments)](https://www.fark.com/comments/13454056/Just-keep-drinking) |
+| [Main](https://www.fark.com/) | [Stop scratching your nads New Yorkers, it's just a highly contagious 'jock itch' that has started spreading rapidly all around you](https://www.fark.com/goto/13454174) ( [metro.co.uk](https://www.fark.com/goto/13454174) ) » [(1 comment)](https://www.fark.com/comments/13454174/Stop-scratching-your-nads-New-Yorkers-its-just-a-highly-contagious-jock-itch-that-has-started-spreading-rapidly-all-around-you) |
+| [Discussion](https://www.fark.com/discussion/) | [Dear Deidre, I had revenge sex to get back at my husband but now I'm consumed with guilt over it. Dear revenge sex goddess, was the sex guilty good?](https://www.fark.com/goto/13454192) ( [thesun.ie](https://www.fark.com/goto/13454192) ) » [(3 comments)](https://www.fark.com/comments/13454192/Dear-Deidre-I-had-revenge-sex-to-get-back-at-my-husband-but-now-Im-consumed-with-guilt-over-it-Dear-revenge-sex-goddess-was-sex-guilty-good) |
+| [Sports](https://www.fark.com/sports/) | [Holy sh... how much hyped up Red Bull do you need to be on?](https://www.fark.com/goto/13454112) ( [newatlas.com](https://www.fark.com/goto/13454112) ) » [(1 comment)](https://www.fark.com/comments/13454112/Holy-sh-how-much-hyped-up-Red-Bull-do-you-need-to-be-on) |
+| [Business](https://www.fark.com/business/) | [CVS taps former UnitedHealth executive to run Aetna after "unexpected spending on medical services in its health insurance unit." In other news, did you know CVS owned Aetna?](https://www.fark.com/goto/13454180) ( [msn.com](https://www.fark.com/goto/13454180) ) » [(4 comments)](https://www.fark.com/comments/13454180/CVS-taps-former-UnitedHealth-executive-to-run-Aetna-after-unexpected-spending-on-medical-services-in-its-health-insurance-unit-In-other-news-did-you-know-CVS-owned-Aetna) |
+| [STEM](https://www.fark.com/stem/) | ["Zinc Oxide and You" gets a surprising sequel](https://www.fark.com/goto/13454142) ( [phys.org](https://www.fark.com/goto/13454142) ) » [(0 comments)](https://www.fark.com/comments/13454142/Zinc-Oxide-You-gets-a-surprising-sequel) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Five times the manatees writing Family Guy really blew it](https://www.fark.com/goto/13454072) ( [slashfilm.com](https://www.fark.com/goto/13454072) ) » [(2 comments)](https://www.fark.com/comments/13454072/Five-times-manatees-writing-Family-Guy-really-blew-it) |
+| [Fandom](https://www.fark.com/fandom/) | [If you look, you can now count 30 rings around Saturn](https://www.fark.com/goto/13454170) ( [theguardian.com](https://www.fark.com/goto/13454170) ) » [(1 comment)](https://www.fark.com/comments/13454170/If-you-look-you-can-now-count-30-rings-around-Saturn) |
+| [D'awww](https://www.fark.com/dawww/) | [I'll have what he's having](https://www.fark.com/goto/13454164) ( [bbc.com](https://www.fark.com/goto/13454164) ) » [(0 comments)](https://www.fark.com/comments/13454164/Ill-have-what-hes-having) |
+| [Food](https://www.fark.com/food/) | [The Intern says you're filling up on bread wrong](https://www.fark.com/goto/13454198) ( [lifehacker.com](https://www.fark.com/goto/13454198) ) » [(1 comment)](https://www.fark.com/comments/13454198/The-Intern-says-youre-filling-up-on-bread-wrong) |
+| [Politics](https://www.fark.com/politics/) | [Florida can't even get recreational marijuana right](https://www.fark.com/goto/13454200) ( [npr.org](https://www.fark.com/goto/13454200) ) » [(39 comments)](https://www.fark.com/comments/13454200/Florida-cant-even-get-recreational-marijuana-right) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 06 2024 02:42:44  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 06 2024 08:42:38  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
