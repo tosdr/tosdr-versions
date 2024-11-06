@@ -299,13 +299,13 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Внимание, фейк!](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/vnimanie-fejk)
+[![Внимание, фейк!](https://cdn.er.ru/media/news/November2024/vrEmHMjcOVYCTKqFQEBR-small.jpg)](https://er.ru/activity/news/vnimanie-fejk)
 
 [Внимание, фейк!](https://er.ru/activity/news/vnimanie-fejk)
 
 [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#фейки](https://er.ru/activity/news?tags%5B0%5D=148078)
 
-Сегодня 19:11
+06.11.24
 
 [![«Единая Россия» перезагружает работу института сторонников партии](https://cdn.er.ru/media/news/November2024/Qb9kFwhwGuoA7xq0NrjB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-perezagruzhaet-rabotu-instituta-storonnikov-partii)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868)
 
-Сегодня 18:45
+06.11.24
 
 [![«Единая Россия» обновила состав Центрального совета сторонников партии](https://cdn.er.ru/media/news/November2024/ew9hHjeToCYRxYUza3nX-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-obnovila-sostav-centralnogo-soveta-storonnikov-partii)
 
@@ -321,7 +321,7 @@
 
 [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#СоветСторонников](https://er.ru/activity/news?tags%5B0%5D=126900) [#обновление](https://er.ru/activity/news?tags%5B0%5D=2222)
 
-Сегодня 17:57
+06.11.24
 
 [![Владимир Якушев: В народную программу «Единой России» войдут положения Послания Президента, национальных целей развития и новых нацпроектов](https://cdn.er.ru/media/news/November2024/TXhd9hMFplewTYhITNmi-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-narodnuyu-programmu-edinoj-rossii-vojdut-polozheniya-poslaniya-prezidenta-nacionalnyh-celej-razvitiya-i-novyh-nacproektov)
 
@@ -329,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192)
 
-Сегодня 17:21
+06.11.24
 
 [![Владимир Путин включил Владимира Якушева в наблюдательный совет фонда «Защитники Отечества»](https://cdn.er.ru/media/news/November2024/6rbamN5jqBHaivf6DlRe-small.jpg)](https://er.ru/activity/news/vladimir-putin-vklyuchil-vladimira-yakusheva-v-nablyudatelnyj-sovet-fonda-zashitniki-otechestva)
 
@@ -337,7 +337,7 @@
 
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#фондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094370) [#наблюдательныйсовет](https://er.ru/activity/news?tags%5B0%5D=150137)
 
-Сегодня 17:13
+06.11.24
 
 [![Владимир Якушев: «Единая Россия» продолжит поддержку НКО](https://cdn.er.ru/media/news/November2024/lTWOPeyF8ITxETRfIVPj-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-nko)
 
@@ -345,7 +345,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#СоветСторонников](https://er.ru/activity/news?tags%5B0%5D=126900) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#некоммерческиеорганизации](https://er.ru/activity/news?tags%5B0%5D=124781)
 
-Сегодня 17:00
+06.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
