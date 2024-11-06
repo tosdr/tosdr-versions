@@ -377,14 +377,14 @@ Bitrix24 Privacy Policy
 
 [G. YOUR RIGHTS](#g)
 
-Last Updated: October 10, 2024
+Last Updated: November 6, 2024
 
 #### A. INTRODUCTION
 
 This Website is operated by Bitrix24. The Data Controllers are Bitrix24 legal entities. Bitrix24 will have the meaning according to the Contracting Party section of Bitrix24 Terms of Service ([https://bitrix24.com/terms/](https://bitrix24.com/terms/)) depending on the domain zone registration of your customer account, the following legal entities will be your Data Controllers:  
-a) Bitrix24 Ltd, a company registered under the laws of the Republic of Cyprus with its registered office at Frema House, office 102, No. 9, Constantinou Paparigopoulou Str., 3106, Limassol, Cyprus;  
-b) Bitrix, Inc. a company organized under the laws of the Commonwealth of Virginia, United States of America with its registered address at 700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA; and  
-c) Bitrix24 India Private Limited with its registered office address is #66/1, Coles Road, C Stn F4, Benson Town, Bangalore, Bangalore North, Karnataka, India, 560046, and its affiliates (collectively, "Bitrix24", "We", "Us" "Our" or "Bitrix").  
+a) Alaio Cloud Limited a company registered under the laws of the Republic of Cyprus with its registered office at Frema House, office 102, No. 9, Constantinou Paparigopoulou Str., 3106, Limassol, Cyprus;  
+b) Alaio Inc. a company organized under the laws of the Commonwealth of Virginia, United States of America with its registered address at 700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA; and  
+c) Bitrix24 India Private Limited with its registered office address is B-01, Prestige Centre Point, Edward Road, H.K.P.Road, Bangalore, Bangalore North, Karnataka, India, 560054, and its affiliates (collectively, "Bitrix24", "We", "Us" "Our" or "Bitrix").  
 Bitrix24 is committed to keeping your information secure and managing it in accordance with our legal responsibilities under the applicable privacy and data protection laws.
 
 This Privacy Policy provides information about how we process personal information through the websites [www.bitrix24.eu](https://www.bitrix24.eu/), [www.bitrix24.com](https://www.bitrix24.com/), [www.bitrix24.de](https://www.bitrix24.de/), [www.bitrix24.pl](https://www.bitrix24.pl/), [www.bitrix24.it](https://www.bitrix24.it/), [www.bitrix24.com.tr](https://www.bitrix24.com.tr/), [www.bitrix24.com.br](https://www.bitrix24.com.br/), [www.bitrix24.es](https://www.bitrix24.es/), [www.bitrix24.fr](https://www.bitrix24.fr/), [www.bitrix24.cn](https://www.bitrix24.cn/), [www.bitrix24.cn/tc/](https://www.bitrix24.cn/tc/), [www.bitrix24.com/my/](https://www.bitrix24.com/my/), [www.bitrix24.com/th/](https://www.bitrix24.com/th), [www.bitrix24.in](https://www.bitrix24.in/), [www.bitrix24.co](https://www.bitrix24.co/), [www.bitrix24.mx](https://www.bitrix24.mx/), [www.bitrix24.uk](https://www.bitrix24.uk/), [www.bitrix24.id](https://www.bitrix24.id/), [www.bitrix24.vn](https://www.bitrix24.vn/), [www.bitrix24.jp](https://www.bitrix24.jp/), [mailinternetsub.com](https://mailinternetsub.com/) ("Website"), our mobile apps and our Products and Services.
