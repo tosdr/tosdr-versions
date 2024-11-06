@@ -16,7 +16,6 @@ SeroVital [![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_
     * [Hair & Scalp](https://www.serovital.com/collections/hair)
     * [Best Sellers](https://www.serovital.com/collections/best-sellers)
     * [What's New](https://www.serovital.com/collections/new-products)
-    * [Kits](https://www.serovital.com/collections/kits)
     * [All Products](https://www.serovital.com/collections/all-products)
     
 * [SUBSCRIBE](https://www.serovital.com/pages/subscribe)
@@ -53,7 +52,6 @@ Your cart is currently empty.
     * [Hair & Scalp](https://www.serovital.com/collections/hair)
     * [Best Sellers](https://www.serovital.com/collections/best-sellers)
     * [What's New](https://www.serovital.com/collections/new-products)
-    * [Kits](https://www.serovital.com/collections/kits)
     * [All Products](https://www.serovital.com/collections/all-products)
 * [SUBSCRIBE](https://www.serovital.com/pages/subscribe)
 * [SCIENCE](https://www.serovital.com/pages/science)
