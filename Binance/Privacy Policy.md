@@ -389,6 +389,7 @@ Please read the [FAQ](https://www.binance.com/en/support/faq/how-to-delete-my-bi
 * [Listing Application](https://www.binance.com/en/my/coin-apply)
 * [Institutional & VIP Services](https://www.binance.com/en/vip-institutional-services)
 * [Labs](https://labs.binance.com/)
+* [Binance Connect](https://www.binance.com/en/binance-connect)
 
 ### Learn
 
