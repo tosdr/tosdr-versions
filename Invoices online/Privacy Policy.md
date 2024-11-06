@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=73027969)  
-Enhle Oarabile Kea
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=142723773)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=209837713)  
-Nilbet T/A Waterman
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=126620368)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=164432368)  
-M's Frozen Delights
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=47631557)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=158167784)  
-Camp 4 Africa (Pty) Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=124407254)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=81474892)  
-Henry's Home Renovations
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=195477825)  
+Leef in Afrikaans
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=161345846)  
-VIR Electrical (PTY) LTD
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=9182064)  
+Firstweb Hosting & Design
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=74429139)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=95888950)  
+TIGERDSL
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=200655649)  
-NIMAWELL
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=180848677)  
+Kainos (Pty) Ltd
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=130282296)  
-Tiny Cuddles Photography
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=69962577)  
+Myfinance-Online
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=33873624)  
-Roamfree Boerdery (PTY) LTD
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=95319483)  
+WIP Digital Solutions
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=212194757)  
-Gemini-IT Group
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=171621066)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=19267052)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=78421047)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=159423130)  
-Creative Characters
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=54633560)  
+SLOANE STAR MEAT MARKET
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=132639696)  
-All Trucking Solutions
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=136798871)  
+CBR Verwe/Paints
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=82865231)  
-Forgotten Goods (Pty) Ltd
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=9e026742bce0d7cdcaa691052cca85838ec5ef099f09301189fb24ab450d2db4&c=159947778)  
+AquariumSmiths
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
