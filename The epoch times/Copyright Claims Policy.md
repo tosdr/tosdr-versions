@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Trump Calls Election Result ‘Massive Victory for Democracy and Freedom’](https://www.theepochtimes.com/us/trump-calls-election-result-massive-victory-for-democracy-and-freedom-5755199)
+* [Bay Area Voters Recall Big City Mayor, County’s District Attorney](https://www.theepochtimes.com/us/bay-area-voters-recall-big-city-mayor-countys-district-attorney-5753973)
     
-    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
-    [![Trump Calls Election Result ‘Massive Victory for Democracy and Freedom’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bay Area Voters Recall Big City Mayor, County’s District Attorney](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Calls Election Result ‘Massive Victory for Democracy and Freedom’](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755150-Trump-Win-1_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-calls-election-result-massive-victory-for-democracy-and-freedom-5755199)
-* [World Leaders Congratulate Trump on Winning Presidency](https://www.theepochtimes.com/us/world-leaders-congratulate-trump-on-winning-presidency-5755180)
+    ![Bay Area Voters Recall Big City Mayor, County’s District Attorney](https://img.theepochtimes.com/assets/uploads/2024/06/26/id5675438-GettyImages-2151163507-205x123.jpeg.webp)](https://www.theepochtimes.com/us/bay-area-voters-recall-big-city-mayor-countys-district-attorney-5753973)
+* [Trump Has Sweeping Plans for His 2nd Administration: Here’s What He Has Proposed](https://www.theepochtimes.com/us/trump-has-sweeping-plans-for-his-2nd-administration-heres-what-he-has-proposed-5755289)
     
-    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![World Leaders Congratulate Trump on Winning Presidency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Has Sweeping Plans for His 2nd Administration: Here’s What He Has Proposed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![World Leaders Congratulate Trump on Winning Presidency](https://img.theepochtimes.com/assets/uploads/2019/03/25/presidnet-donald-trump-prime-minister-benjamin-netanyahu-1132776809-205x123.jpg.webp)](https://www.theepochtimes.com/us/world-leaders-congratulate-trump-on-winning-presidency-5755180)
-* [Rep. Molinaro Unseated as Other Incumbents Win Reelection in New York House Races](https://www.theepochtimes.com/us/rep-molinaro-unseated-as-other-incumbents-win-reelection-in-new-york-house-races-5752125)
+    ![Trump Has Sweeping Plans for His 2nd Administration: Here’s What He Has Proposed](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754696-GettyImages-2183109481-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-has-sweeping-plans-for-his-2nd-administration-heres-what-he-has-proposed-5755289)
+* [Nvidia Dethrones Apple as Most Valuable Company in World](https://www.theepochtimes.com/business/nvidia-dethrones-apple-as-most-valuable-company-in-world-5755280)
     
-    1hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Rep. Molinaro Unseated as Other Incumbents Win Reelection in New York House Races](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Nvidia Dethrones Apple as Most Valuable Company in World](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rep. Molinaro Unseated as Other Incumbents Win Reelection in New York House Races](https://img.theepochtimes.com/assets/uploads/2023/10/04/id5504193-10042023-DSC04633-Marcus-Molinaro-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-molinaro-unseated-as-other-incumbents-win-reelection-in-new-york-house-races-5752125)
-* [Californians Choose Tougher Drug and Theft Penalties, Reject Rent Control Measure: Early Results](https://www.theepochtimes.com/us/californians-choose-tougher-drug-and-theft-penalties-reject-rent-control-measure-early-results-5754088)
+    ![Nvidia Dethrones Apple as Most Valuable Company in World](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636796-Artificial-Intelligence-205x123.jpg.webp)](https://www.theepochtimes.com/business/nvidia-dethrones-apple-as-most-valuable-company-in-world-5755280)
+* [Abortion on the Ballot: Here’s What Voters Decided](https://www.theepochtimes.com/us/abortion-on-the-ballot-heres-what-voters-decided-5750544)
     
-    2hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Californians Choose Tougher Drug and Theft Penalties, Reject Rent Control Measure: Early Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Abortion on the Ballot: Here’s What Voters Decided](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Californians Choose Tougher Drug and Theft Penalties, Reject Rent Control Measure: Early Results](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754141-Voting-California-205x123.jpg.webp)](https://www.theepochtimes.com/us/californians-choose-tougher-drug-and-theft-penalties-reject-rent-control-measure-early-results-5754088)
-* [Trump Projected to Win 2024 Presidential Election](https://www.theepochtimes.com/us/trump-declares-victory-in-presidential-contest-5754642)
+    ![Abortion on the Ballot: Here’s What Voters Decided](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751445-Yes-on-4-supporters-205x123.jpg.webp)](https://www.theepochtimes.com/us/abortion-on-the-ballot-heres-what-voters-decided-5750544)
+* [House Control Too Close to Call](https://www.theepochtimes.com/us/house-too-close-to-call-5754548)
     
-    2hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov), [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    1hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![Trump Projected to Win 2024 Presidential Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House Control Too Close to Call](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Projected to Win 2024 Presidential Election](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755162-Trump-Win-3_JF_11052024_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-declares-victory-in-presidential-contest-5754642)
-* [Trump Wins Key Battleground State Pennsylvania](https://www.theepochtimes.com/us/trump-takes-pennsylvania-5754052)
+    ![House Control Too Close to Call](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693263-GettyImages-1769333224-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-too-close-to-call-5754548)
+* [Protests Erupt in Israel After Netanyahu Sacks Defense Minister Gallant](https://www.theepochtimes.com/world/protests-erupt-in-israel-after-netanyahu-sacks-defense-minister-gallant-5755214)
     
-    2hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![Trump Wins Key Battleground State Pennsylvania](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Protests Erupt in Israel After Netanyahu Sacks Defense Minister Gallant](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Wins Key Battleground State Pennsylvania](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755197-GettyImages-2182503287-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-takes-pennsylvania-5754052)
-* [Trump Gains Ground With Latino Voters in Pennsylvania, Nevada: Exit Poll](https://www.theepochtimes.com/us/trump-gains-ground-with-latino-voters-in-pennsylvania-nevada-exit-poll-5755045)
+    ![Protests Erupt in Israel After Netanyahu Sacks Defense Minister Gallant](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755261-Israel_Politics_24310709882999-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/protests-erupt-in-israel-after-netanyahu-sacks-defense-minister-gallant-5755214)
+* [GOP Newcomer Ousts 3-Term Democrat From Montana US Senate Seat](https://www.theepochtimes.com/us/gop-newcomer-ousts-3-term-democrat-from-montana-us-senate-seat-5754164)
     
-    3hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
-    [![Trump Gains Ground With Latino Voters in Pennsylvania, Nevada: Exit Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![GOP Newcomer Ousts 3-Term Democrat From Montana US Senate Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Gains Ground With Latino Voters in Pennsylvania, Nevada: Exit Poll](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755066-GettyImages-2183092941-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-gains-ground-with-latino-voters-in-pennsylvania-nevada-exit-poll-5755045)
-* [Harris Will Not Address Supporters on Election Night, Campaign Co-Chair Says](https://www.theepochtimes.com/us/harris-will-not-address-supporters-on-election-night-campaign-co-chair-says-5755106)
+    ![GOP Newcomer Ousts 3-Term Democrat From Montana US Senate Seat](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755258-Sheehy-Three-Forks-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-newcomer-ousts-3-term-democrat-from-montana-us-senate-seat-5754164)
+* [7 Takeaways From Election Night as Trump Retakes White House](https://www.theepochtimes.com/us/7-takeaways-from-election-night-as-trump-retakes-white-house-5755200)
     
-    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo) and [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Harris Will Not Address Supporters on Election Night, Campaign Co-Chair Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![7 Takeaways From Election Night as Trump Retakes White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Will Not Address Supporters on Election Night, Campaign Co-Chair Says](https://img.theepochtimes.com/assets/uploads/2017/03/25/AP17082753303884-ap-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-will-not-address-supporters-on-election-night-campaign-co-chair-says-5755106)
-* [Harris Wins Reliably Blue Oregon, Swing District House Seat Too Close to Call](https://www.theepochtimes.com/us/harris-wins-reliably-blue-oregon-swing-district-house-seat-too-close-to-call-5755102)
+    ![7 Takeaways From Election Night as Trump Retakes White House](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755263-Trump-VANCE-Win-11_JF_11052024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/7-takeaways-from-election-night-as-trump-retakes-white-house-5755200)
+* [US House Races in California Hold Narrowing Path for Democrats as Republicans Sweep Senate](https://www.theepochtimes.com/us/us-house-races-in-california-hold-narrowing-path-for-democrats-as-republicans-sweep-senate-5754877)
     
-    4hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    5hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
     
-    [![Harris Wins Reliably Blue Oregon, Swing District House Seat Too Close to Call](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US House Races in California Hold Narrowing Path for Democrats as Republicans Sweep Senate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Wins Reliably Blue Oregon, Swing District House Seat Too Close to Call](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729509-Oregon-voters-AP24267827041959-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-wins-reliably-blue-oregon-swing-district-house-seat-too-close-to-call-5755102)
-* [Trump Declared Victor in Georgia, 2nd Swing State Called for Former President](https://www.theepochtimes.com/us/trump-declared-victor-in-georgia-2nd-swing-state-called-for-former-president-5754075)
+    ![US House Races in California Hold Narrowing Path for Democrats as Republicans Sweep Senate](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5754962-California-Voters-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-house-races-in-california-hold-narrowing-path-for-democrats-as-republicans-sweep-senate-5754877)
+* [Bolivians Say Private Interest Groups Are Causing Record Fire Devastation in Forests](https://www.theepochtimes.com/world/bolivians-say-private-interest-groups-are-causing-record-fire-devastation-in-forests-5746358)
     
-    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Trump Declared Victor in Georgia, 2nd Swing State Called for Former President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bolivians Say Private Interest Groups Are Causing Record Fire Devastation in Forests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Declared Victor in Georgia, 2nd Swing State Called for Former President](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755034-Trump-1_JF_08292024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-declared-victor-in-georgia-2nd-swing-state-called-for-former-president-5754075)
+    ![Bolivians Say Private Interest Groups Are Causing Record Fire Devastation in Forests](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755262-WhatsApp-Image-2024-10-23-at-10.12.44-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/bolivians-say-private-interest-groups-are-causing-record-fire-devastation-in-forests-5746358)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
