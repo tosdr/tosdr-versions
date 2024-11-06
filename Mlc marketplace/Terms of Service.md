@@ -1,6 +1,6 @@
 □
 
-                                                                    Terms & Conditions - Muscat Livestock                                                 
+                                                                            Terms & Conditions - Muscat Livestock                                         
 
 [Skip to content](#main-content)
 
