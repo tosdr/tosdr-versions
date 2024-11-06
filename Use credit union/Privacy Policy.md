@@ -9,12 +9,6 @@ BluPeak Credit Union ![BluPeak Credit Union App stars rating](https://www.blupea
 
 [Install App](https://apps.apple.com/us/app/id390555899) [Install App](https://play.google.com/store/apps/details?id=com.ifs.androidmobilebanking.fiid3265)
 
-Notice
-
-Branches will be closed on Nov 5th for Election Day. Access your accounts via online and mobile banking, or call us at 866.873.4968.
-
-[](#)
-
 [Skip to web banking login](#js-header_login_panel)
 
 What can we help you find?
