@@ -1,4 +1,4 @@
-[![NorthRock software Logo](/build/_assets/NorthRock_night-7WZQI5TA.webp)](https://northrock.software/)
+[![NorthRock software Logo](/assets/NorthRock_night-DGGmfuEG.webp)](https://northrock.software/)
 
 Leistungen
 
@@ -611,17 +611,13 @@ Als DSV stehe ich Ihnen für Fragen zum Datenschutz zur Verfügung.
 
 [#### Websites](https://northrock.software/websites/)
 
-* * *
-
 [#### Software](https://northrock.software/applications/)
-
-* * *
 
 [#### Prozesse](https://northrock.software/workflows/)
 
 * * *
 
-![NorthRock Software Logo](/build/_assets/NorthRock_night-WFT2K5DK.svg "NorthRock software GmbH")
+![NorthRock Software Logo](data:image/svg+xml,%3csvg%20id='Layer_1'%20data-name='Layer%201'%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20529.55%20837.5'%3e%3cdefs%3e%3cstyle%3e.cls-1{fill:%23fff;}%3c/style%3e%3c/defs%3e%3cpath%20class='cls-1'%20d='M501.8,328.08,567,527.67l-30.36,26.75L390.11,683.5,501.8,328.08M500.46,81.25h0a5.53,5.53,0,0,0-5.24,3.87L235.48,911.56a5.54,5.54,0,0,0,8.94,5.81L588.91,613.8,754.53,882.45a5.53,5.53,0,0,0,4.72,2.63,5.62,5.62,0,0,0,2.32-.51,5.54,5.54,0,0,0,2.93-6.74L505.72,85.06a5.53,5.53,0,0,0-5.26-3.81Z'%20transform='translate(-235.22%20-81.25)'/%3e%3c/svg%3e "NorthRock software GmbH")
 
 ##### © 2024 NorthRock software GmbH  
 Entwickelt und gehostet in Deutschland.
