@@ -286,7 +286,7 @@ Search for
 
 [![Search Button](/img/global/ico-search.png)](https://www.opm.gov/search/)
 
-[OPM.gov](https://www.opm.gov/) / [Information Management](https://www.opm.gov/information-management/) / [Privacy Policy](https://www.opm.gov/information-management/privacy-policy/) / 
+[OPM.gov](https://www.opm.gov/) / [Information Management](https://www.opm.gov/information-management/) / Privacy Policy
 
 [Skip to main content](#main-main-content)
 
