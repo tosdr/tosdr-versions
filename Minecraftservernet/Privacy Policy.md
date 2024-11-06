@@ -29,15 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![ByniuMC](plugins/MineCraft/icons/25x25xByniuMC_1727110924.png.pagespeed.ic.csO5XeMY1u.png)
+[![IllusiveMC](plugins/MineCraft/icons/IllusiveMC_1681214308.png)
 
-ByniuMC.pl | Earth SMP](https://minecraft-server.net/details/ByniuMC/ "ByniuMC.pl | Earth SMP")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+IllusiveMC Survival](https://minecraft-server.net/details/IllusiveMC/ "IllusiveMC Survival")[![WinterCrest](plugins/MineCraft/icons/25x25xWinterCrest_1730715587.png.pagespeed.ic.abyuJw4X9V.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy") [Trunov\_ivan](https://minecraft-server.net/details/Cs2/ "Trunov_ivan")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+WinterCrest Non Grief Survival](https://minecraft-server.net/details/WinterCrest/ "WinterCrest Non Grief Survival ")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![KretMCPL](plugins/MineCraft/icons/25x25xKretMCPL_1716618508.png.pagespeed.ic.csO5XeMY1u.png)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-KretMC.PL - STAFF NEEDED](https://minecraft-server.net/details/KretMCPL/ "KretMC.PL - STAFF NEEDED")
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
+
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06455 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06698 - Created by [Debaucus](https://debauc.us/)
