@@ -288,11 +288,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![myadultattorney](https://pbs.twimg.com/profile_images/713488698357248000/QrY7LxXt_normal.jpg)](https://twitter.com/myadultattorney)[Corey D. Silverstein, Esq.](https://twitter.com/myadultattorney) [@myadultattorney](https://twitter.com/myadultattorney) ·
 
-[17h](https://twitter.com/myadultattorney/status/1851762989990547644)
+[30 Oct](https://twitter.com/myadultattorney/status/1851762989990547644)
 
 We are about to have a new US President! So get your ticket to my newest legal impact webinar, sponsored by and join @WaltersLawGroup , @SavannahSly, @AlisonBodenFSC, @TheClaraKitty and I on November 12th at 4 PM EST here: https://www.eventbrite.com/e/we-have-a-new-us-president-legal-and-community-implications-tickets-1061785191089
 
-[Reply on Twitter 1851762989990547644](https://twitter.com/intent/tweet?in_reply_to=1851762989990547644&related=myadultattorney) [Retweet on Twitter 1851762989990547644 2](https://twitter.com/intent/retweet?tweet_id=1851762989990547644&related=myadultattorney) [Like on Twitter 1851762989990547644 5](https://twitter.com/intent/like?tweet_id=1851762989990547644&related=myadultattorney) [Twitter 1851762989990547644](https://twitter.com/myadultattorney/status/1851762989990547644)
+[Reply on Twitter 1851762989990547644](https://twitter.com/intent/tweet?in_reply_to=1851762989990547644&related=myadultattorney) [Retweet on Twitter 1851762989990547644 2](https://twitter.com/intent/retweet?tweet_id=1851762989990547644&related=myadultattorney) [Like on Twitter 1851762989990547644 7](https://twitter.com/intent/like?tweet_id=1851762989990547644&related=myadultattorney) [Twitter 1851762989990547644](https://twitter.com/myadultattorney/status/1851762989990547644)
 
 [Load More](javascript:void(0);)
 
