@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Live
+
+[Harris calls Trump to concede](https://nypost.com/2024/11/06/us-news/2024-presidential-election-live-updates-11-6-2024/)
+
 Terms Of Use
 ============
 
