@@ -182,16 +182,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [2024 Election Fears Fail to Drive Increase in Gun Sales](https://www.thegunpage.com/2024-election-fears-fail-to-drive-increase-in-gun-sales/10611689)
+* [At a Loss: Voters Still Have No Idea What Harris Stands For, Neither Does She](https://www.thegunpage.com/at-a-loss-voters-still-have-no-idea-what-harris-stands-for-neither-does-she/10611686)
+* [Buy A Rossi Rifle, Get A Free Revolver](https://www.thegunpage.com/buy-a-rossi-rifle-get-a-free-revolver/10611688)
+* [Best First-Aid Kit for EDC: Essential Medical Gear For Daily Carry](https://www.thegunpage.com/best-first-aid-kit-for-edc-essential-medical-gear-for-daily-carry/10611684)
+* [New Factory For Hydra Weaponry](https://www.thegunpage.com/new-factory-for-hydra-weaponry/10611680)
 * [Charges Dropped Against Georgia Gun Owner Over Illegal Storage Ordinance](https://www.thegunpage.com/charges-dropped-against-georgia-gun-owner-over-illegal-storage-ordinance/10611676)
+* [Century BFT74 And BFT556: USA-Made Small-Bore AK](https://www.thegunpage.com/century-bft74-and-bft556-usa-made-small-bore-ak/10611681)
 * [Biden-Harris Action Seeks to Close Shooting Access on 1.3 Million Acres of Public Land in Utah](https://www.thegunpage.com/biden-harris-action-seeks-to-close-shooting-access-on-1-3-million-acres-of-public-land-in-utah/10611673)
 * [Walther Arms Announces New Promo Deals](https://www.thegunpage.com/walther-arms-announces-new-promo-deals/10611678)
 * [Gun Owners, Remember to Vote Today](https://www.thegunpage.com/gun-owners-remember-to-vote-today/10611669)
-* [Harris appears confused about how to actually become president](https://www.thegunpage.com/harris-appears-confused-about-how-to-actually-become-president/10611667)
-* [Hillsdale College ‘Citizenship And Shooting’ Event Celebrates USA Shooting Olympians, Importance Of Second Amendment In The Constitution](https://www.thegunpage.com/hillsdale-college-citizenship-and-shooting-event-celebrates-usa-shooting-olympians-importance-of-second-amendment-in-the-constitution/10611675)
-* [Tandemkross Unveils New 10/22 Barrel Concept](https://www.thegunpage.com/tandemkross-unveils-new-10-22-barrel-concept/10611666)
-* [Ten Weird Guns You Can Buy Today](https://www.thegunpage.com/ten-weird-guns-you-can-buy-today/10611663)
-* [POTD: Noveske Rifleworks 6mm ARC Batwing](https://www.thegunpage.com/potd-noveske-rifleworks-6mm-arc-batwing/10611664)
-* [The Rimfire Report: An (Almost) 100% Aftermarket 10/22](https://www.thegunpage.com/the-rimfire-report-an-almost-100-aftermarket-10-22/10611665)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,6 +233,7 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783035)
 * Not\_Represented on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783024)
 * charles wilkins on [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/#comment-783017)
 * Richard McDonough on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-783016)
@@ -241,7 +242,6 @@ Recent Comments
 * charles wilkins on [Headless In D.C.](https://www.conservativedailynews.com/2024/10/headless-in-d-c/#comment-783005)
 * TMann on [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/#comment-782998)
 * Stanley Warner on [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/#comment-782997)
-* Stanley Warner on [Problem-Riddled Boeing Axes Entire Diversity Division](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/#comment-782996)
 
 [Close](#)
 
