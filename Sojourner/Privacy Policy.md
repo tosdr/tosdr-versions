@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6c34bfb60c2af9ffdddff77f07793c62
+70c57226d2f75fde2cd46b1c038c3d5f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![15 mm transparent purple heart beads](https://www.sojourner.biz/images/cache/glass/HRT027.200.jpg)](https://www.sojourner.biz/beads/glass/15-mm-transparent-purple-heart-beads.html "15 mm transparent purple heart beads")
+[![Pink pearl bar toggle clasp](https://www.sojourner.biz/images/cache/SKU0141front.200.jpg)](https://www.sojourner.biz/clasps/toggles/pink-pearl-bar-toggle-clasp.html "Pink pearl bar toggle clasp")
 
-#### [15 mm transparent purple heart beads](https://www.sojourner.biz/beads/glass/15-mm-transparent-purple-heart-beads.html "15 mm transparent purple heart beads")
+#### [Pink pearl bar toggle clasp](https://www.sojourner.biz/clasps/toggles/pink-pearl-bar-toggle-clasp.html "Pink pearl bar toggle clasp")
 
-$7.00
+$13.50
 
 ### Best Sellers
 
@@ -191,14 +191,14 @@ $7.00
     $28.00
 6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Electric yellow Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/electric-yellow-swarovski-polka-dot-clasp.html "Electric yellow Swarovski polka dot clasp")  
-    $15.00
+10. [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
+    $10.00
 
 [Top](#)
 
