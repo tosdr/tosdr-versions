@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=52970348)  
-Moremi Kitchens Rustenburg
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=69156241)  
+FX ACCOUNTING
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=24257981)  
-Wiselink Broadband Dundee
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=74139337)  
+Chiron Medical Solutions
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=76241772)  
-AMS Ambu Medical Supplies
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=11098785)  
+SLOANE STAR MEAT MARKET
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=59437704)  
-Hydroworld T/A Milliqua
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=57359734)  
+SR Travel Services
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=23883924)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=26580201)  
+Peter Salvage Pty Ltd
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=58943688)  
-McKaynine Mobility
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=33775649)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=186091075)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=35049612)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=66381617)  
-Fox Alarms & Security
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=165192797)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=137389679)  
-Safe-Train Consulting (PTY) Ltd
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=119536874)  
+OptaServ
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=67559946)  
-Prosper Park
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=105350634)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=211770270)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=127695383)  
-Goju Ryu Karate Centre
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=54149172)  
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=72825639)  
 webb it services
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=27745204)  
-KTEN PARTS
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=59583891)  
+Nogana Events and Decor
+
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=62071980)  
+Henry's Home Renovations
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=52427848)  
+Wiselink Broadband Pty Ltd
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=179629883)  
+Westside Car Audio CC
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=142209209)  
+UMVIKELI PRIVATE SECURITY
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
