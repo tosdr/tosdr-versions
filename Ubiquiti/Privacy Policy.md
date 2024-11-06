@@ -204,6 +204,7 @@ Copyright © 2024 Ubiquiti Inc. All rights reserved.
 * [UISP](https://uisp.ui.com/ "Let your network and business grow")
 * [UniFi Design Center](https://design.ui.com/ "UniFi Design Center")
 * [UISP Design Center](https://ispdesign.ui.com/ "UISP Design Center")
+* [Downloads](https://www.ui.com/download "Downloads")
 
 Stay In touch
 
