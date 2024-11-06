@@ -153,8 +153,10 @@ Latest reactions
 
 Latest forum posts
 
+* [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=1 "New V9990 Wolfenstein-3D-Like Interactive Demo")
+* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
+* [I've ruined my openmsx installation. Uncaught exception](https://www.msx.org/forum/msx-talk/openmsx/ive-ruined-my-openmsx-installation-uncaught-exception "I've ruined my openmsx installation. Uncaught exception")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
-* [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo "New V9990 Wolfenstein-3D-Like Interactive Demo")
 * [Contact](https://www.msx.org/forum/msx-talk/msx-resource-center/contact "Contact")
 * [One Cartridge To Rule Them All](https://www.msx.org/forum/msx-talk/hardware/one-cartridge-to-rule-them-all "One Cartridge To Rule Them All")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
@@ -163,9 +165,7 @@ Latest forum posts
 * [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
 * [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
-* [I've ruined my openmsx installation. Uncaught exception](https://www.msx.org/forum/msx-talk/openmsx/ive-ruined-my-openmsx-installation-uncaught-exception "I've ruined my openmsx installation. Uncaught exception")
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
-* [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k "9958 FPGA drop-in clone is here: TN-VDP 20K.")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
