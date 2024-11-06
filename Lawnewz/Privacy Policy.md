@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Kristofer Kelle McDonald (WCSC).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Kristofer-Kelle-McDonald-432x243.jpg)](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
+1. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
     
-    ### ['There’s just no excuse': Nighttime hunter shot woman thinking he heard deer, deputies say](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
+    ### ['Heartbreaking and unimaginable': Mom gave 2-year-old daughter to drug dealer while buying meth, girl hasn’t been seen since, police say](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
     
-2. [![Wayne Streeter and Alana Cagle](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Wayne-Streeter-and-Alana-Cagle-432x243.jpg)](https://lawandcrime.com/crime/man-who-wanted-to-have-sex-on-beach-while-tied-up-was-hit-with-hatchet-choked-by-woman-and-her-boyfriend-cops/)
+2. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
     
-    ### [Man who wanted to have sex on beach while tied up was hit with hatchet, choked by woman and her boyfriend: Cops](https://lawandcrime.com/crime/man-who-wanted-to-have-sex-on-beach-while-tied-up-was-hit-with-hatchet-choked-by-woman-and-her-boyfriend-cops/)
+    ### ['I have a stolen ar15 and a target': Man threatens to 'carry out an attack' if Trump wins election, feds say](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
     
-3. [![Kamala Harris SNL appearance](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Harris-SNL-appearance-FCC-432x243.jpg)](https://lawandcrime.com/high-profile/clear-and-blatant-snl-appearance-by-kamala-harris-violates-fccs-equal-time-law-republican-commissioner-says/)
+3. [![Background: Joshua Hunsucker in court (WSOC-TV/YouTube). Inset: Stacy Hunsucker's parents, John and Susie Robinson (WSOC-TV/YouTube).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Joshua-Hunsucker-North-Carolina-poison-killer-432x243.jpg)](https://lawandcrime.com/uncategorized/former-paramedic-accused-of-poisoning-wife-with-visine-gets-bail-yanked-after-allegedly-tainting-daughters-drink-to-frame-in-laws/)
     
-    ### ['Clear and blatant': SNL appearance by Kamala Harris violates FCC's 'equal time' law, Republican commissioner says](https://lawandcrime.com/high-profile/clear-and-blatant-snl-appearance-by-kamala-harris-violates-fccs-equal-time-law-republican-commissioner-says/)
+    ### [Former paramedic accused of poisoning wife with Visine gets bail yanked after allegedly tainting daughter's drink to frame in-laws](https://lawandcrime.com/uncategorized/former-paramedic-accused-of-poisoning-wife-with-visine-gets-bail-yanked-after-allegedly-tainting-daughters-drink-to-frame-in-laws/)
     
-4. [![Kristofer Kelle McDonald (WCSC).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Kristofer-Kelle-McDonald-432x243.jpg)](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
+4. [![Jordan L. Boggess and Baby Waylon](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jordan-L.-Boggess-and-Baby-Waylon-432x243.jpg)](https://lawandcrime.com/crime/reset-to-a-newborn-moms-fiance-bear-hugged-her-infant-son-to-get-him-to-stop-crying-police-say/)
     
-    ### ['There’s just no excuse': Nighttime hunter shot woman thinking he heard deer, deputies say](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
+    ### ['Reset to a newborn': Mom's fiance 'bear hugged' her infant son to get him to stop crying, police say](https://lawandcrime.com/crime/reset-to-a-newborn-moms-fiance-bear-hugged-her-infant-son-to-get-him-to-stop-crying-police-say/)
     
-5. [![Jack Smith, on the left; Joe Biden, in the middle; Donald Trump, on the right.](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Smith-Biden-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/it-makes-no-difference-if-the-president-acquiesced-republican-ags-say-jack-smiths-office-is-unconstitutional-because-of-his-independence-from-biden/)
+5. [![Left: FILE - Texas Attorney General Ken Paxton speaks at a rally in support of President Donald Trump called the ](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Ken-Paxton-Kamala-Harris-432x243.jpg)](https://lawandcrime.com/high-profile/ken-paxton-sues-biden-harris-administration-over-plans-to-send-federal-officials-to-monitor-polls-in-texas/)
     
-    ### ['It makes no difference if the President acquiesced': Republican AGs say Jack Smith's office is unconstitutional because of his independence from Biden](https://lawandcrime.com/high-profile/it-makes-no-difference-if-the-president-acquiesced-republican-ags-say-jack-smiths-office-is-unconstitutional-because-of-his-independence-from-biden/)
+    ### [Ken Paxton sues Biden-Harris administration over plans to send federal officials to monitor polls in Texas](https://lawandcrime.com/high-profile/ken-paxton-sues-biden-harris-administration-over-plans-to-send-federal-officials-to-monitor-polls-in-texas/)
     
 
 [](http://eepurl.com/c89Jdb)
