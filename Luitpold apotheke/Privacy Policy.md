@@ -314,15 +314,15 @@ Meist verkaufte Produkte
     
      1
     
-* [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
-    
-    1,86 €\*
-    
-     
-    
 * [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
     6,16 €\*
+    
+     1
+    
+* [Paracetamol ratiopharm 500mg - bei Fieber](https://www.medikamente-per-klick.de/paracetamol-ratiopharm-500-mg-tabletten-20st-01126111)
+    
+    1,85 €\*
     
      1
     
@@ -662,4 +662,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=xawzibpbbweripjuqrqtlqakwashlpda&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=lkpigcvqwwyqxoooszclwokvigzmhwrq&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
