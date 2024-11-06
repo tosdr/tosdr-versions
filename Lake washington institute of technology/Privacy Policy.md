@@ -13,7 +13,7 @@ search button
 Students
 --------
 
-[Student Landing Page](https://www.lwtech.edu/students/index.aspx)[Advising](https://www.lwtech.edu/admissions/advising/index.aspx)[Bookstore](https://www.lwtech.edu/campus-services/bookstore.aspx)[Student Support](https://www.lwtech.edu/students/mental-health-counseling/index.aspx)
+[Student Info Page](https://www.lwtech.edu/students/index.aspx)[Advising](https://www.lwtech.edu/admissions/advising/index.aspx)[Bookstore](https://www.lwtech.edu/campus-services/bookstore.aspx)[Student Support](https://www.lwtech.edu/students/mental-health-counseling/index.aspx)
 
 Employees
 ---------
@@ -259,9 +259,7 @@ Resources
 
 Information
 
-[Student Landing Page](https://www.lwtech.edu/students/index.aspx)[Employee Landing Page](https://www.lwtech.edu/employees/index.aspx)[Community Landing Page](https://www.lwtech.edu/about-us/community/index.aspx)[Calendar](https://www.lwtech.edu/calendar/index.aspx)[Directory](https://www.lwtech.edu/about-us/directory/index.aspx)
-
-Translate
+[Student Info Page](https://www.lwtech.edu/students/index.aspx)[Employee Info Page](https://www.lwtech.edu/employees/index.aspx)[Calendar](https://www.lwtech.edu/calendar/index.aspx)[Directory](https://www.lwtech.edu/about-us/directory/index.aspx)[Translation Tools](https://www.lwtech.edu/campus-services/it-services/guides/language-translation-tools.aspx)
 
 [Report Something](https://www.lwtech.edu/campus-services/campus-safety/incident-reporting/report-something.aspx)
 
