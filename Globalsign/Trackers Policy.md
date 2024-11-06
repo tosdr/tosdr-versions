@@ -322,7 +322,9 @@ Your file has been downloaded, check your file in downloads folder.
 
 View our [Privacy Policy](https://www.globalsign.com/en/repository/GlobalSign-Privacy-Policy.pdf) to understand how we collect and use your personal data. © 2024 GlobalSign. All Rights Reserved.
 
-[Get a GlobalSign Site Seal](https://www.globalsign.com/en/ssl/secure-site-seal) [![SSL](//seal.globalsign.com/SiteSeal/images/gs_noscript_125-50_en.gif)](https://www.globalsign.com/ "GlobalSign Site Seal")
+[Get a GlobalSign Site Seal](https://www.globalsign.com/en/ssl/secure-site-seal)
+
+![](data:image/gif;base64,R0lGODlhAQABAGAAACH5BAEKAP8ALAAAAAABAAEAAAgEAP8FBAA7 )
 
  [![Ernst and Young CertifyPoint eIDAS Compliance Certificate](/application/files/5716/5518/3014/lock.webp)](https://www.globalsign.com/en/repository/eidas.pdf)[![ISO](/application/files/8316/6636/0526/iso-logo.png)](https://www.globalsign.com/en/repository/GlobalSign_KK_ISMS.pdf)[![ISO CSM](/application/files/4216/6797/7242/iso-csm.png)](https://www.globalsign.com/en/repository/27017.pdf)[![ISO PM](/application/files/3916/6858/6238/iso-pm.png)](https://www.globalsign.com/en/repository/27701.pdf)
 
