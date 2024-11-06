@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: LIVE UPDATES | There’s steady turnout in Ga. What does it mean for the candidates?](https://www.ajc.com/politics/more-than-half-a-million-georgians-have-voted-since-polls-opened-today-live-updates/VDYLODTHGFCOVPAQIW5R64Z7SA/)
+[Breaking: Most polls in Georgia have closed; voters split equally over Harris and Trump, according to AP survey](https://www.ajc.com/politics/election/georgia-election-live-updates-most-polls-have-closed-election-results-coming-in/UWOLNGNA4JHGPHGCDPL5R35KYM/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1792)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1792)](https://www.ajc.com/)
 
@@ -18,7 +18,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-be-nice-to-poll-workers-please/THZMBAK6DBCYTBIMOMHLSSBMUU/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
@@ -48,10 +47,10 @@ Log In
     
 * [Politics](https://www.ajc.com/politics/)
     
-    * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
+    * [Live Updates](https://www.ajc.com/politics/election/georgia-election-live-updates-harris-trump-face-historic-moment/UWOLNGNA4JHGPHGCDPL5R35KYM/)
+    * [Election Results](https://www.ajc.com/politics/election-results/)
     * [Election 2024](https://www.ajc.com/politics/election/)
-    * [Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
-    * [Know Your Stuff](https://www.ajc.com/politics/know-your-stuff/)
+    * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
     * [Georgia by the Numbers](https://www.ajc.com/politics/georgia-by-the-numbers/fulton/)
     * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
