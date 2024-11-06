@@ -402,75 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Here's what world leaders are saying after Trump wins election](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183219023.jpg?ve=1&tl=1)
+ [![Live Election Results: Collin County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/collin-results.jpg?ve=1&tl=1)
 
- ![Here's what world leaders are saying after Trump wins election](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183219023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/world-leaders-react-trump-victory)
+ ![Live Election Results: Collin County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/collin-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-collin-county-races-live)
 
-### [Here's what world leaders are saying after Trump wins election](https://www.fox4news.com/news/world-leaders-react-trump-victory)
+### [Live Election Results: Collin County races](https://www.fox4news.com/election/election-results-collin-county-races-live)
 
- [![Police begin official search for missing 46-year-old Wylie woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-04-115435.png?ve=1&tl=1)
+ [![Live Election Results: Denton County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/denton-results.jpg?ve=1&tl=1)
 
- ![Police begin official search for missing 46-year-old Wylie woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-04-115435.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-search-missing-46-year-old-wylie-woman)
+ ![Live Election Results: Denton County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/denton-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-denton-county-races-live)
 
-### [Police begin official search for missing 46-year-old Wylie woman](https://www.fox4news.com/news/police-search-missing-46-year-old-wylie-woman)
+### [Live Election Results: Denton County races](https://www.fox4news.com/election/election-results-denton-county-races-live)
 
- [![Voters mostly reject North Texas school district bond proposals](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/classroom.jpg?ve=1&tl=1)
+ [![Live Election Results: Dallas County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dallas-results.jpg?ve=1&tl=1)
 
- ![Voters mostly reject North Texas school district bond proposals](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/592/333/classroom.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/voters-mostly-reject-north-texas-school-district-bond-proposals)
+ ![Live Election Results: Dallas County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dallas-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-dallas-county-races-live)
 
-### [Voters mostly reject North Texas school district bond proposals](https://www.fox4news.com/news/voters-mostly-reject-north-texas-school-district-bond-proposals)
+### [Live Election Results: Dallas County races](https://www.fox4news.com/election/election-results-dallas-county-races-live)
 
- [![Senate balance of power: Republicans win majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/senatebalanceofpowerthumbnail-scaled.jpg?ve=1&tl=1)
+ [![Abbott’s school voucher plan now has more than enough support](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/6496-tz-texas-school-choice-_00.00.00.00.jpg?ve=1&tl=1)
 
- ![Senate balance of power: Republicans win majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/senatebalanceofpowerthumbnail-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/senate-republicans-win-majority-balance-of-power)
+ ![Abbott’s school voucher plan now has more than enough support](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/6496-tz-texas-school-choice-_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/abbott-school-choice-vouchers-election-support)
 
-### [Senate balance of power: Republicans win majority](https://www.fox4news.com/news/senate-republicans-win-majority-balance-of-power)
+### [Abbott’s school voucher plan now has more than enough support](https://www.fox4news.com/news/abbott-school-choice-vouchers-election-support)
 
- [![Angie Chen Button staves off challenge from Averie Bishop](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/snapshot-2024-10-30t162404.252.jpg?ve=1&tl=1)
+ [![Live Election Results: Tarrant County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/tarrant-results.jpg?ve=1&tl=1)
 
- ![Angie Chen Button staves off challenge from Averie Bishop](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/snapshot-2024-10-30t162404.252.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/angie-chen-button-staves-off-challenge-from-averie-bishop)
+ ![Live Election Results: Tarrant County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/tarrant-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-tarrant-county-2024-live)
 
-### [Angie Chen Button staves off challenge from Averie Bishop](https://www.fox4news.com/election/angie-chen-button-staves-off-challenge-from-averie-bishop)
-
-[![Live Texas Election Results 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/texas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/texas-election-results-2024)
-
-ELECTION DAY 2024
-
-[Live Texas Election Results 2024](https://www.fox4news.com/election/texas-election-results-2024)
-
-[Election results for the 2024 Election in Texas will come in at 7 p.m. Find the races that are important to you here.](https://www.fox4news.com/election/texas-election-results-2024)
-
-[![Live Election Results: Dallas County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/dallas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Dallas County](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
-
-[Here are the results of the 2024 Election in Dallas County.](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
-
-[![Live Election Results: Tarrant County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/tarrant-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Tarrant County](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
-
-[Here are the results of the 2024 Election in Tarrant County.](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
-
-[![Live Election Results: Collin County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/collin-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-collin-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Collin County](https://www.fox4news.com/election/election-results-collin-county-2024-election)
-
-[Here are the results of the 2024 Election in Collin County.](https://www.fox4news.com/election/election-results-collin-county-2024-election)
-
-[![Live Election Results: Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/denton-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-denton-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Denton County](https://www.fox4news.com/election/election-results-denton-county-2024-election)
-
-[Here are the results of the 2024 Election in Denton County.](https://www.fox4news.com/election/election-results-denton-county-2024-election)
+### [Live Election Results: Tarrant County races](https://www.fox4news.com/election/election-results-tarrant-county-2024-live)
 
 ###### [News](https://www.fox4news.com/news)
 
