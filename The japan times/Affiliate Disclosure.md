@@ -131,28 +131,34 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Nearly half of Japanese married couples are 'sexless,' survey finds](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+
+  [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+
 [Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
   [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+
+[Harris and Trump conclude historic campaign with dueling rallies](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
+
+  [![Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ")](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
+
+[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+
+  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
 
 [Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
   [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
-[Alleged recruiter of Saitama burglary ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
-
-  [![Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432090.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
-
-[Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
-
-  [![In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/431956.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
-
-[Tokyo's climate goals rely on a fuel that is falling out of favor](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
-
-  [![The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431714.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.")](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Nearly half of Japanese married couples are 'sexless,' survey finds](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+
+  [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -162,33 +168,27 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
   [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+
+[Harris and Trump conclude historic campaign with dueling rallies](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
+
+By [Nancy Cook](https://www.japantimes.co.jp/author/3427/nancy-cook/ "Nancy Cook"), [Akayla Gardner](https://www.japantimes.co.jp/author/3022/akayla-gardner/ "Akayla Gardner"), [Jennifer Epstein](https://www.japantimes.co.jp/author/580/jennifer-epstein/ "Jennifer Epstein") and [Jenny Leonard](https://www.japantimes.co.jp/author/1029/jenny-leonard/ "Jenny Leonard")  
+
+  [![Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ")](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
   [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Alleged recruiter of Saitama burglary ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
-
-  [![Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432090.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
-
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/431956.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
-
-[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
-
-[Tokyo's climate goals rely on a fuel that is falling out of favor](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
-
-By [Chris Russell](https://www.japantimes.co.jp/author/170/chris-russell/ "Chris Russell")  
-
-  [![The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431714.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.")](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
 Podcast
 -------
@@ -251,21 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump vs. Harris: U.S. voters head to the polls as turbulent campaign concludes](https://www.japantimes.co.jp/news/2024/11/05/world/politics/trump-harris-voters-decide/ "Trump vs. Harris: U.S. voters head to the polls as turbulent campaign concludes")
+[U.S. anti-LGBTQ+ groups' spending in Africa soars, report finds](https://www.japantimes.co.jp/news/2024/11/06/world/society/us-anti-lgbtq-africa/ "U.S. anti-LGBTQ+ groups' spending in Africa soars, report finds")
 
-8 hours ago
+20 mins ago
 
-[Suzuki unveils first mass-market electric vehicle](https://www.japantimes.co.jp/business/2024/11/05/companies/suzuki-ev-mass-market/ "Suzuki unveils first mass-market electric vehicle")
+[Nvidia rides AI wave to surpass Apple as world’s largest company](https://www.japantimes.co.jp/business/2024/11/06/companies/nvidia-ai-apple-largest-company/ "Nvidia rides AI wave to surpass Apple as world’s largest company")
 
-10 hours ago
+25 mins ago
 
-[Kioxia sees flash memory demand almost tripling by 2028](https://www.japantimes.co.jp/business/2024/11/05/tech/kioxia-new-iwate-fab/ "Kioxia sees flash memory demand almost tripling by 2028")
+[Citizen panel nixes decision not to indict Hagiuda's secretary](https://www.japantimes.co.jp/news/2024/11/06/japan/politics/hagiuda-secretary-slush-funds/ "Citizen panel nixes decision not to indict Hagiuda's secretary")
 
-10 hours ago
+45 mins ago
 
-[UNESCO panel recommends sake brewing for intangible cultural heritage list](https://www.japantimes.co.jp/news/2024/11/05/japan/society/sake-brewery-unesco/ "UNESCO panel recommends sake brewing for intangible cultural heritage list")
+[Hoax bomb threats targeting polling places in battleground states: FBI](https://www.japantimes.co.jp/news/2024/11/06/world/politics/bomb-threats-russia-polling-places-fbi/ "Hoax bomb threats targeting polling places in battleground states: FBI")
 
-[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+55 mins ago
+
+[Chinese group accused of hacking Singapore's Singtel in telecom attacks](https://www.japantimes.co.jp/news/2024/11/06/asia-pacific/crime-legal/chinese-hacking-singtel-telecom/ "Chinese group accused of hacking Singapore's Singtel in telecom attacks")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
