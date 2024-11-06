@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Curiosity: The Questions of Life](/wp-content/thumbnails/5963-100x70.jpg?x53432)
+* [![Larry Ellison: Billionaire Samurai Warrior of Silicon Valley](/wp-content/thumbnails/12955-100x70.jpg?x53432)
     
-    Curiosity: The Questions of Life
+    Larry Ellison: Billionaire Samurai Warrior of Silicon Valley
     
-    Episode 1: Did God Create The Universe:Stephen Hawking unfolds his personal, compelling vision of the biggest question of all: Who or what created the universe in which we live? The groundbreaking s](https://documentaryheaven.com/curiosity-the-questions-of-life/ "Curiosity: The Questions of Life")
-* [![Real Life Hannibal Lecters](/wp-content/thumbnails/3431-100x70.jpg?x53432)
+    He is considered to be the Samurai Warrior of Silicon Valley, due to way in which he goes to battle with any competition. Larry Ellison started Oracle Software over 30 years ago and it has made him th](https://documentaryheaven.com/larry-ellison-billionaire-samurai-warrior-silicon-valley/ "Larry Ellison: Billionaire Samurai Warrior of Silicon Valley")
+* [![Derek Tastes of Ear Wax](/wp-content/thumbnails/226-100x70.png?x53432)
     
-    Real Life Hannibal Lecters
+    Derek Tastes of Ear Wax
     
-    Before the fictional Hannibal Lecter there was a select group of real life monsters that terrorized our neighborhoods.Albert Fish, Andrei Chickatilo, Jeffrey Dahmer, Ted Bundy and John Wayne Gacy. B](https://documentaryheaven.com/real-life-hannibal-lecters/ "Real Life Hannibal Lecters")
-* [![Mad But Glad](/wp-content/thumbnails/651-100x70.png?x53432)
+    This documentary looks at the fact that perhaps one in every hundred people experiences a blending of the senses.Imagine if every time you saw someone called Derek you got a strong taste of earwax](https://documentaryheaven.com/derek-tastes-of-ear-wax/ "Derek Tastes of Ear Wax")
+* [![Putin, Russia and The West](/wp-content/thumbnails/6445-100x70.png?x53432)
     
-    Mad But Glad
+    Putin, Russia and The West
     
-    Is there really such a thing as the mad genius? Can an illness be both a blessing and a curse? At seven years old, Nick van Bloss started shaking his head, grinding his teeth and making wild whooping](https://documentaryheaven.com/mad-but-glad/ "Mad But Glad")
-* [![Super Rich: The Greed Game](/wp-content/thumbnails/603-100x70.png?x53432)
+    Taking Control Vladimir Putin, after eight years as president of Russia and four more as prime minister, is stubbornly holding onto power. He has announced his intention to return as president and dec](https://documentaryheaven.com/putin-russia-and-the-west/ "Putin, Russia and The West")
+* [![DPRK: The Land of Whispers](/wp-content/thumbnails/7061-100x70.jpg?x53432)
     
-    Super Rich: The Greed Game
+    DPRK: The Land of Whispers
     
-    As the credit crunch bites and a global economic crisis threatens, Robert Peston reveals how the super-rich have made their fortunes, and the rest of us are picking up the bill.](https://documentaryheaven.com/super-rich-the-greed-game/ "Super Rich: The Greed Game")
-* [![Jonnie Walker, Story of an Armed Robber](/wp-content/thumbnails/6559-100x70.jpg?x53432)
+    North Korea lies somewhere between a 1930′s Soviet Union frozen in time and a dark, futuristic vision of society… as imagined back in the 70′s.Land of Whispers invites you to visit arguably the mo](https://documentaryheaven.com/dprk-the-land-of-whispers/ "DPRK: The Land of Whispers")
+* [![Evidently… John Cooper Clarke](/wp-content/thumbnails/16518-100x70.jpg?x53432)
     
-    Jonnie Walker, Story of an Armed Robber
+    Evidently… John Cooper Clarke
     
-    Journey of One tells peoples stories using the photofilm format, giving a fascinating and intimate glimpse into individual lives.](https://documentaryheaven.com/jonnie-walker-story-of-an-armed-robber/ "Jonnie Walker, Story of an Armed Robber")
+    John Cooper Clarke is an English performance poet, who first became famous as a "punk poet" in the late 1970s. This documentary film is a celebration of his life and works, examining his life as a po](https://documentaryheaven.com/evidently-john-cooper-clarke/ "Evidently… John Cooper Clarke")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
