@@ -207,25 +207,25 @@ Menü
 
 [BreakingNews
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab
 
-Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne](https://www.bild.de/politik/ausland-und-internationales/trump-gegen-harris-der-wahlkampf-in-den-usa-im-liveticker-672348a1f7653a077c0e8a27)
+Trump fast überall vorn +++ Er will in Kürze zu seinen Anhängern sprechen +++ Harris sagt eigene Wahlparty ab](https://www.bild.de/politik/ausland-und-internationales/trump-gegen-harris-der-wahlkampf-in-den-usa-im-liveticker-672348a1f7653a077c0e8a27)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
