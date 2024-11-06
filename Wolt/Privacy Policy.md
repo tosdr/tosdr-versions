@@ -60,7 +60,7 @@ In relation to the processing of personal data of Users in the below countries, 
 
 **Wolt Slovensko s. r. o.**, Nivy Tower, Mlynske Nivy 188890/5, 811 09 Bratislava, Slovak Republic, if the User is located in Slovakia,
 
-**Wolt Malta Limited**, 171, Old Bakery Street, Valletta, VLT 1455, Malta, if the User is located in Malta,
+**Wolt Malta Limited**, Level 2, Office 1, Trident Park, Triq l-Imdina, Birkirkara CBD 2010, Malta, if the User is located in Malta,
 
 **Wolt Norway AS**, Kongens gate 4, 0153 Oslo, Norway, if the User is located in Norway,
 
