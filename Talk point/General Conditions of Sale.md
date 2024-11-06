@@ -1,5 +1,7 @@
 [Zu Inhalt springen](#site-main)
 
+[](https://www.twitch.tv/talkpointgmbh)
+
 Wir sind LIVE 🔴 ab 11 Uhr - einschalten lohnt sich! #preisvergleich
 
 Wir sind LIVE 🔴 ab 11 Uhr - einschalten lohnt sich! #preisvergleich
@@ -287,6 +289,7 @@ Empfehlungen für dich
         * [TP Kofferset](https://talk-point.de/collections/tp-hartschalen-reisekoffer)
     
 * [Top-Seller](https://talk-point.de/collections/top-seller)
+* [Einzelstücke](https://talk-point.de/collections/b-ware-einzelstucke)
 
 * [Anmelden](https://talk-point.de/customer_authentication/redirect?locale=de&region_country=DE)
 
@@ -571,6 +574,7 @@ Empfehlungen für dich
         * [TP Kofferset](https://talk-point.de/collections/tp-hartschalen-reisekoffer)
     
 * [Top-Seller](https://talk-point.de/collections/top-seller)
+* [Einzelstücke](https://talk-point.de/collections/b-ware-einzelstucke)
 
 AGB
 ===
