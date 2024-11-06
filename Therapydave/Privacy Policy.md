@@ -114,7 +114,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”_
+_“Dave is the most professional therapist I have ever worked with. He provides well informed advice, and was able to help me through a very difficult relationship crisis other therapists weren't able to help with. What I learned is that specialization is important. Through his Gottman and other methods, he navigated respecting my background from a different culture and was sensitive in his consults which he helped me through a marriage crisis, trauma, depression and kept me focused on healing. I highly recommend his professional help. I wouldn't be where I am today without him.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
