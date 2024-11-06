@@ -153,6 +153,7 @@
 
 * [ja](https://wandb.ai/site/ja/privacy/)
 * [en](https://wandb.ai/site/privacy)
+* [de](https://wandb.ai/site/de/privacy/)
 
 ### [Weights & Biases Legal](https://wandb.ai/site/legal-home)
 
@@ -499,11 +500,13 @@ Copyright © Weights & Biases. All rights reserved.
 * [Privacy policy](https://wandb.ai/site/privacy)
 * [English](https://wandb.ai/site/privacy "English")
     * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+    * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
 
 * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
 * [Privacy policy](https://wandb.ai/site/privacy)
 * [English](https://wandb.ai/site/privacy "English")
     * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+    * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
 
 * Platform
     
