@@ -20,6 +20,8 @@ Platform
 
 [Templates](https://fibery.io/templates "Fibery Templates")
 
+[Download](https://fibery.io/download "Fibery Desktop App")
+
 Resources
 
 [Getting Started](https://fibery.io/getting-started "Getting Started")
@@ -289,6 +291,10 @@ Platform
 
 [Anxiety](https://fibery.io/anxiety "Anxiety")
 
+[Download](https://fibery.io/download "/download")
+
+[Browser Extension](https://fibery.io/features/browser-extension)
+
 Resources
 
 [Getting Started](https://fibery.io/getting-started "Getting Started")
@@ -306,10 +312,6 @@ Resources
 [API](https://api.fibery.io/ "Fibery API")
 
 [Status](https://status.fibery.io/ "Fibery Status")
-
-[Desktop App](https://fibery.io/desktop-app "/desktop-app")
-
-[Browser Extension](https://fibery.io/features/browser-extension)
 
 [Security & Privacy](https://fibery.io/security "Security & Privacy")
 
