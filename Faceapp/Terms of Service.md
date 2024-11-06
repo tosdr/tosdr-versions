@@ -319,6 +319,7 @@ This Agreement constitutes the entire agreement between you and FaceApp relating
 
 * [Privacy Policy](https://faceapp.com/privacy/)
 * [Terms](https://faceapp.com/terms/)
+* [Cookie Preferences](#cookie-preferences)
 
 ### Social
 
