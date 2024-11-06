@@ -165,61 +165,31 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Q&A
+More Acts & Facts
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_do_hominids_fit.jpg)](https://www.icr.org/article/how-do-hominids-fit-with-the-bible)
+[![](/i/articles/af/af2211-webcover.jpg)](https://www.icr.org/article/13711)
 
-[How Do Hominids Fit with the Bible?](https://www.icr.org/article/how-do-hominids-fit-with-the-bible/)
+[November-December 2022](https://www.icr.org/article/13711/)
 
-A recent survey showed that the most persuasive argument for evolution comes from the iconic drawing of the apes-to-man parade.1 This popular...
+...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_mosquitoes.jpg)](https://www.icr.org/article/why-did-god-make-mosquitos)
+[![](/i/articles/af/af2007-webcover.jpg)](https://www.icr.org/article/12162)
 
-[Why Did God Make Mosquitos?](https://www.icr.org/article/why-did-god-make-mosquitos/)
+[July 2020](https://www.icr.org/article/12162/)
 
-My wife and I enjoy evening walks with our dog when the Texas weather lets us. Unfortunately, mosquitos seem to like good weather too. And they recognize...
+...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/medieval_dinos.jpg)](https://www.icr.org/article/did-medieval-artists-see-real-dinosaurs)
+[![](/i/articles/af/af1907-webcover.jpg)](https://www.icr.org/article/11374)
 
-[Did Medieval Artists See Real Dinosaurs?](https://www.icr.org/article/did-medieval-artists-see-real-dinosaurs/)
+[July 2019](https://www.icr.org/article/11374/)
 
-Figure 1. The ancient choir hall in Carlisle Cathedral, UK. The blue rug in the center aisle covers the fascinating decorations on Bishop Bell’s...
+...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/6697896/file.jpg)
-
-How Darwinism Corrodes Morality](https://store.icr.org/dr-jerry-bergman-how-darwinism-corrodes-morality.html)
-
-$25.00
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26201921/file.jpg)
-
-Poor Design: An Invalid Argument Against Intelligent Design](https://store.icr.org/poor-design-an-invalid-argument-against-intelligen.html)
-
-$14.95
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/6414663/file.jpg)
-
-Evolution's Blunders, Frauds And Forgeries](https://store.icr.org/dr-jerry-bergman-evolutions-blunders-frauds-and-fo.html)
-
-$15.00
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26201913/file.jpg)
-
-Useless Organs: The Rise and Fall of a Central Claim of Evolution](https://store.icr.org/useless-organs-the-rise-and-fall-of-a-central-clai.html)
-
-$14.95
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
