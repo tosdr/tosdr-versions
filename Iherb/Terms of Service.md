@@ -831,7 +831,7 @@ Themenwelten
 
 [Haustierpflege](https://de.iherb.com/c/pet-grooming)
 
-[Pflegeprodukte Katzen](https://de.iherb.com/c/cat-groomings)
+[Pflegeprodukte Katzen](https://de.iherb.com/c/cat-grooming)
 
 [Pflegeprodukte Hunde](https://de.iherb.com/c/dog-grooming)
 
@@ -843,7 +843,7 @@ Themenwelten
 
 [Nahrungsergänzungen für Haustiere](https://de.iherb.com/c/pet-supplements)
 
-[Supplements Katzen](https://de.iherb.com/c/cat-supplementss)
+[Supplements Katzen](https://de.iherb.com/c/cat-supplements)
 
 [Supplements Hunde](https://de.iherb.com/c/dog-supplements)
 
