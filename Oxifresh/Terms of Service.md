@@ -215,7 +215,7 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
@@ -443,15 +443,15 @@ What Customers Are Saying
 
 Based on 302,866 Carpet Cleaning Services Reviews
 
-I couldn’t be happier with the outstanding service from Oxifresh Carpet Cleaning in Harlem, especially thanks to Frandy! From start to finish, the experience was seamless. Frandy was not only incredibly professional but also went above and beyond to ensure my hardwood floors were left spotless and gleaming. I was amazed at how thoroughly he cleaned every inch, making my floors look better than they have in years! He was prompt, respectful, and took great care in handling everything, leaving no mess behind. I highly recommend Oxifresh and Frandy if you’re looking for quality service that truly brings your floors back to life. Thank you, Frandy, for your excellent work! **CP.** - New York, NY - 11/05/2024
+The Carpet and funny look great! The whole process was pretty quickly completed and dry time was minimal. **BS.** - Damascus, VA - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-**LG.** - Katy, TX - 11/04/2024
+Great service and good service from tech **KH.** - Clemmons, NC - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-**GW.** - Jacksonville, FL - 11/04/2024
+Very professional **LE.** - Santa Rosa, CA - 11/03/2024
 
 (5.0 Out of 5 stars)
 
