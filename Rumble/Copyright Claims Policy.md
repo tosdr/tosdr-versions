@@ -59,121 +59,159 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Redacted News
+[The Dan Bongino Show
 
-30.3K](https://rumble.com/v5m7j3t-breaking-election-machine-outages-hit-swing-states-men-voting-in-record-num.html "Redacted News")
+500K](https://rumble.com/v5m8alt-election-night-live-100524.html "The Dan Bongino Show")
+
+[Steven Crowder
+
+414K](https://rumble.com/v5lyebq-2024-election-livestream-of-the-century-the-rumble-on-rumble.html "Steven Crowder")
+
+[The Charlie Kirk Show
+
+133K](https://rumble.com/v5m8pk5-judgment-day-the-election-results-stream.html "The Charlie Kirk Show")
+
+[Bannons War Room
+
+100K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Tate Speech by Andrew Tate
+
+53.4K](https://rumble.com/v5lu8z8-emergency-meeting-episode-86-the-fate-of-america.html "Tate Speech by Andrew Tate")
 
 [Badlands Media
 
-28K](https://rumble.com/v5lwcuy-badlands-media-special-coverage-the-2024-election.html "Badlands Media")
+31.8K](https://rumble.com/v5lwcuy-badlands-media-special-coverage-the-2024-election.html "Badlands Media")
 
 [NEWSMAX
 
-11.2K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+23.1K](https://rumble.com/v5m1a8t-live-vote-for-america-2024-election-night-coverage-newsmax2.html "NEWSMAX")
+
+[Redacted News
+
+16.3K](https://rumble.com/v5m7j3t-breaking-election-machine-outages-hit-swing-states-men-voting-in-record-num.html "Redacted News")
+
+[The Rubin Report
+
+9.64K](https://rumble.com/v5m8rs2-the-biggest-election-night-stream-megyn-kelly-ben-shapiro-russell-brand-jor.html "The Rubin Report")
+
+[Graham Allen
+
+8.51K](https://rumble.com/v5m8ya2--live-now-trump-vs-kamala-watch-party-tonight-decides-the-fate-of-america.html "Graham Allen")
+
+[barstoolsports
+
+7.47K](https://rumble.com/v5m71wn-election-day-coverage-with-jersey-jerry.html "barstoolsports")
+
+[Jerry After Dark
+
+7.41K](https://rumble.com/v5m71wn-election-day-coverage-with-jersey-jerry.html "Jerry After Dark")
+
+[vivafrei
+
+5.36K](https://rumble.com/v5m50yt-election-night-live-stream-trump.-vs.-kamala-who-will-win-viva-frei-live.html "vivafrei")
+
+[Rebel News
+
+4.67K](https://rumble.com/v5lypih-live-coverage-u.s.-election-results-and-analysis-with-rebel-and-friends.html "Rebel News")
 
 [SNEAKO
 
-2.55K](https://rumble.com/v5m6zj8-election-day-coverage-from-nyc-streets-trump-vs.-kamala.html "SNEAKO")
+3.92K](https://rumble.com/v5m6zj8-election-day-coverage-from-nyc-streets-trump-vs.-kamala.html "SNEAKO")
 
-[Matt Kim
+[Drew Hernandez
 
-1.81K](https://rumble.com/v5m7g6t-election-day-hangout.html "Matt Kim")
+3.04K](https://rumble.com/v5m5le8-election-night-2024-coverage.html "Drew Hernandez")
+
+[Due Dissidence
+
+2.75K](https://rumble.com/v5lzkc2-live-election-2024-results-and-commentary.html "Due Dissidence")
+
+[WeAreChange
+
+2.58K](https://rumble.com/v5m8jmk-we-proved-them-wrong-again-live-results-w-alex-jones-roger-stone-and-thequa.html "WeAreChange")
+
+[Kim Iversen
+
+2.4K](https://rumble.com/v5m8q3q-election-night-2024-watch-party-the-end-of-democracy.html "Kim Iversen")
+
+[Breaking Points
+
+1.08K](https://rumble.com/v5m8lsp-breaking-points-live-2024-election-coverage.html "Breaking Points")
 
 [John Burk
 
-1.8K](https://rumble.com/v5m73kl-israel-strikes-back..html "John Burk")
+882](https://rumble.com/v5m73kl-israel-strikes-back..html "John Burk")
 
-[Dr. Drew
+[Matt Kohrs
 
-938](https://rumble.com/v5m62eb-election-day-counter-programming-w-debbie-lerman-and-lisa-miron-ask-dr.-dre.html "Dr. Drew")
+787](https://rumble.com/v5m7zua-live-results-election-2024.html "Matt Kohrs")
+
+[DeVory Darkins
+
+773](https://rumble.com/v5m6203-2024-election-results-live-trump-vs-harris.html "DeVory Darkins")
+
+[Matt Kim
+
+670](https://rumble.com/v5m7g6t-election-day-hangout.html "Matt Kim")
+
+[Stephen Gardner
+
+633](https://rumble.com/v5m0rvz-2024-election-night-live-with-stephen-gardner-and-guests-trump-v.-kamala.html "Stephen Gardner")
 
 [Lofi Girl
 
-380](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+394](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+[Bitcoin Magazine
 
-[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+218](https://rumble.com/v5m6v1b-live-election-day-2024-by-bitcoin-magazine.html "Bitcoin Magazine")
 
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
-
-[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
-
-[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
-
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
-
-[NHRA](https://rumble.com/c/NHRA "NHRA")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
-
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
-
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
-
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
-
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
-
-[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
-
-[Havoc](https://rumble.com/c/Havoc "Havoc")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
-
-[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
-
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
-
-[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
-
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
-
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
-
-[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
-
-[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
-
-[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
-
-[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
+[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
 
 [FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
 
-[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
 
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
 
-[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
 
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
 
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
+
+[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
 
 [Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
 
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+
+[Major League Fishing](https://rumble.com/c/MajorLeagueFishing "Major League Fishing")
+
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
+
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
 
 ### Theme
 
