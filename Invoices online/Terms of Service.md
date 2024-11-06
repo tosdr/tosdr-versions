@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Anri van der Linde
+Terri Winfield
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=69156241)  
-FX ACCOUNTING
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=10665463)  
+West Coast Horse Trails
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=74139337)  
-Chiron Medical Solutions
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=117497484)  
+Well Hung Art
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=11098785)  
-SLOANE STAR MEAT MARKET
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=65216348)  
+Karino Merinos ( PTY ) LTD
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=57359734)  
-SR Travel Services
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=176137247)  
+Vplay Grafix
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=26580201)  
-Peter Salvage Pty Ltd
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=180805885)  
+IYD
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=33775649)  
-NJR ICT Services (Pty) Ltd
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=201207246)  
+CLEVER STUDENTS
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=35049612)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=189482669)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=165192797)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=116055197)  
+Tantra Sound and Lightz
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=119536874)  
-OptaServ
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=210835078)  
+Cooper Power
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=72825639)  
-webb it services
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=191251542)  
+All Trucking Solutions
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=59583891)  
-Nogana Events and Decor
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=199108273)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=62071980)  
-Henry's Home Renovations
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=130808448)  
+NWET Pty LTD
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=52427848)  
-Wiselink Broadband Pty Ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=95021474)  
+WIP Digital Solutions
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=179629883)  
-Westside Car Audio CC
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=48191546)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=145713142e4af8b1d154cc7a463549c76940e9075a9f1dc4ed50c80a7512ce2b&c=142209209)  
-UMVIKELI PRIVATE SECURITY
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=22b111621aa8fb6e6441e017575abf60bc381e4f43d32d3a4188b561343b538b&c=147904498)  
+Environment Friendly Toilets (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
