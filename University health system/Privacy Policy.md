@@ -25,9 +25,11 @@
         
          Search by name, specialty, or location Search
         
+        * [View Pediatric Doctors](https://www.universityhealth.com/pediatrics/providers?personalized=true)
     * * [View advanced search options](https://www.universityhealth.com/providers)
         * [View all doctors](https://www.universityhealth.com/providers)
     
+    * [View Pediatric Doctors](https://www.universityhealth.com/pediatrics/providers?personalized=true)
     * [View all doctors](https://www.universityhealth.com/providers)
     
 
@@ -267,7 +269,7 @@ San Antonio, Texas 78229
 
 * [Search for a Job](https://careers.universityhealth.com/)
 * [Featured Jobs](https://www.universityhealth.com/careers/featured-jobs)
-* [Benefits](https://www.universityhealth.com/careers/employee-benefits)
+* [Benefits](https://careers.universityhealth.com/benefits)
 * [Nursing](https://www.universityhealth.com/healthcare-professionals/nurses)
 * [Physician Opportunties](https://careers.universityhealth.com/university-medicine-associates)
 
