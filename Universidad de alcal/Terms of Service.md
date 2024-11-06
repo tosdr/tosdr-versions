@@ -405,5 +405,6 @@ Otros enlaces
 
 * [Perfil del contratante](https://licitacion.uah.es/licitacion/ "Perfil del contratante")
 * [Sede electrónica](https://sede.uah.es/ "Sede electrónica")
+* [Tablón de anuncios Sede](https://sede.uah.es/web/guest/tablon "Tablón de anuncios Sede")
 
 2022 © Universidad de Alcalá [Mapa Web](https://uah.es/es/mapa-web/ "Mapa Web") | [Política de cookies](https://uah.es/es/politica-de-cookies/) | [Política de privacidad](https://uah.es/es/politica-privacidad/) | [Aviso legal](https://uah.es/es/aviso-legal/)
