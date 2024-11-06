@@ -20,16 +20,16 @@ Wednesday, November 6 2024
 
 Latest
 
-* [Will I get banned from Facebook for using a VPN?](https://digitpatrox.com/will-i-get-banned-from-facebook-for-using-a-vpn/)
-* [Do this to set up VPN connection on Windows 10](https://digitpatrox.com/do-this-to-set-up-vpn-connection-on-windows-10/)
-* [Graco Slim Spaces Baby Swing Suddenly Rocking Too Fast](https://digitpatrox.com/graco-slim-spaces-baby-swing-suddenly-rocking-too-fast/)
-* [Input Lag vs. Frame Rate Drops: Whats the Difference, and How to Handle Each?](https://digitpatrox.com/input-lag-vs-frame-rate-drops-whats-the-difference-and-how-to-handle-each/)
-* [“Don’t believe the hype”: Broadcom claims it’s been able to solve most of its customer issues following VMware acquisition](https://digitpatrox.com/dont-believe-the-hype-broadcom-claims-its-been-able-to-solve-most-of-its-customer-issues-following-vmware-acquisition/)
-* [What Is a VPN? Definition, How It Works, and More](https://digitpatrox.com/what-is-a-vpn-definition-how-it-works-and-more/)
-* [Forget Apple Intelligence — iOS 18.2 beta could be introducing ‘Battery Intelligence’](https://digitpatrox.com/forget-apple-intelligence-ios-18-2-beta-could-be-introducing-battery-intelligence/)
-* [Google fixes two Android zero-days used in targeted attacks](https://digitpatrox.com/google-fixes-two-android-zero-days-used-in-targeted-attacks/)
-* [PS5 Pro review: how close is your TV?](https://digitpatrox.com/ps5-pro-review-how-close-is-your-tv/)
-* [Chainsaw Man Teases the Return of Two Fan-Favorite Characters, and It Hit Me Right in the Feels](https://digitpatrox.com/chainsaw-man-teases-the-return-of-two-fan-favorite-characters-and-it-hit-me-right-in-the-feels/)
+* [With xBridge, Pittsburgh International Airport is positioning itself as a beacon for the airline industry’s digital transformation voyage](https://digitpatrox.com/with-xbridge-pittsburgh-international-airport-is-positioning-itself-as-a-beacon-for-the-airline-industrys-digital-transformation-voyage/)
+* [Mozilla’s advocacy arm cuts 30% of staff – Computerworld](https://digitpatrox.com/mozillas-advocacy-arm-cuts-30-of-staff-computerworld/)
+* [You Can Search Through Your ChatGPT Conversation History Now](https://digitpatrox.com/you-can-search-through-your-chatgpt-conversation-history-now/)
+* [Ransomware gang claims responsibility for election-day cyber attack on Michigan county](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-election-day-cyber-attack-on-michigan-county/)
+* [Do this to check your device health on Windows 10](https://digitpatrox.com/do-this-to-check-your-device-health-on-windows-10/)
+* [Check a New Car for Damage Before Driving Off the Lot](https://digitpatrox.com/check-a-new-car-for-damage-before-driving-off-the-lot/)
+* [Steam Game Recording Now Available to All](https://digitpatrox.com/steam-game-recording-now-available-to-all/)
+* [Google Cloud will make MFA mandatory by the end of 2025 – here’s what you need to know](https://digitpatrox.com/google-cloud-will-make-mfa-mandatory-by-the-end-of-2025-heres-what-you-need-to-know/)
+* [6 Ways to Automate Key Elements of a Call Center Workflow](https://digitpatrox.com/6-ways-to-automate-key-elements-of-a-call-center-workflow/)
+* [Internet access returns to Mozambique – but social media remains blocked](https://digitpatrox.com/internet-access-returns-to-mozambique-but-social-media-remains-blocked/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Will-I-get-banned-from-Facebook-for-using-a-VPN_.jpg)](https://digitpatrox.com/will-i-get-banned-from-facebook-for-using-a-vpn/)
+* [![](https://cdn.mos.cms.futurecdn.net/HH9kVfewDR7wP5xgxjY85f-1200-80.jpg)](https://digitpatrox.com/with-xbridge-pittsburgh-international-airport-is-positioning-itself-as-a-beacon-for-the-airline-industrys-digital-transformation-voyage/)
     
-    [Will I get banned from Facebook for using a VPN?](https://digitpatrox.com/will-i-get-banned-from-facebook-for-using-a-vpn/)
-    
-    5 mins ago
-    
-* [![](https://pureinfotech.com/wp-content/uploads/2019/07/windows-10-vpn-setup-hero-mauro-huculak.webp)](https://digitpatrox.com/do-this-to-set-up-vpn-connection-on-windows-10/)
-    
-    [Do this to set up VPN connection on Windows 10](https://digitpatrox.com/do-this-to-set-up-vpn-connection-on-windows-10/)
+    [With xBridge, Pittsburgh International Airport is positioning itself as a beacon for the airline industry’s digital transformation voyage](https://digitpatrox.com/with-xbridge-pittsburgh-international-airport-is-positioning-itself-as-a-beacon-for-the-airline-industrys-digital-transformation-voyage/)
     
     9 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729883156/prod/content/dam/CRO-Images-2024/Special-Products/CR-Health-InlineHero-Graco-Baby-Swings-Accelerating-to-Scary-Speeds-1024)](https://digitpatrox.com/graco-slim-spaces-baby-swing-suddenly-rocking-too-fast/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3600136-0-71043200-1730914167-shutterstock_2320419653.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/mozillas-advocacy-arm-cuts-30-of-staff-computerworld/)
     
-    [Graco Slim Spaces Baby Swing Suddenly Rocking Too Fast](https://digitpatrox.com/graco-slim-spaces-baby-swing-suddenly-rocking-too-fast/)
+    [Mozilla’s advocacy arm cuts 30% of staff – Computerworld](https://digitpatrox.com/mozillas-advocacy-arm-cuts-30-of-staff-computerworld/)
     
-    10 mins ago
+    30 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/a-hand-holding-a-ps5-controller-showing-some-input-lags-and-a-tv-displaying-a-game-with-fps-issues.jpg)](https://digitpatrox.com/input-lag-vs-frame-rate-drops-whats-the-difference-and-how-to-handle-each/)
+* [![](https://lifehacker.com/imagery/articles/01JC0PH2R9YT0QMSMTT0YKYH6K/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/you-can-search-through-your-chatgpt-conversation-history-now/)
     
-    [Input Lag vs. Frame Rate Drops: Whats the Difference, and How to Handle Each?](https://digitpatrox.com/input-lag-vs-frame-rate-drops-whats-the-difference-and-how-to-handle-each/)
+    [You Can Search Through Your ChatGPT Conversation History Now](https://digitpatrox.com/you-can-search-through-your-chatgpt-conversation-history-now/)
     
-    11 mins ago
+    58 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/95gbTJifX2VTWuxfT2XwJd-1200-80.jpg)](https://digitpatrox.com/dont-believe-the-hype-broadcom-claims-its-been-able-to-solve-most-of-its-customer-issues-following-vmware-acquisition/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Election-day-cyber-attack-on-Michigan-county-claimed-by-ransomware-gang.jpg)](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-election-day-cyber-attack-on-michigan-county/)
     
-    [“Don’t believe the hype”: Broadcom claims it’s been able to solve most of its customer issues following VMware acquisition](https://digitpatrox.com/dont-believe-the-hype-broadcom-claims-its-been-able-to-solve-most-of-its-customer-issues-following-vmware-acquisition/)
+    [Ransomware gang claims responsibility for election-day cyber attack on Michigan county](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-election-day-cyber-attack-on-michigan-county/)
     
-    51 mins ago
+    1 hour ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2018/11/windows-10-health-check-hero-mauro-huculak.webp)](https://digitpatrox.com/do-this-to-check-your-device-health-on-windows-10/)
+    
+    [Do this to check your device health on Windows 10](https://digitpatrox.com/do-this-to-check-your-device-health-on-windows-10/)
+    
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 mins ago
-    
-    ### Will I get banned from Facebook for using a VPN?](https://digitpatrox.com/will-i-get-banned-from-facebook-for-using-a-vpn/)
 * [9 mins ago
     
-    ### Do this to set up VPN connection on Windows 10](https://digitpatrox.com/do-this-to-set-up-vpn-connection-on-windows-10/)
-* [10 mins ago
+    ### With xBridge, Pittsburgh International Airport is positioning itself as a beacon for the airline industry’s digital transformation voyage](https://digitpatrox.com/with-xbridge-pittsburgh-international-airport-is-positioning-itself-as-a-beacon-for-the-airline-industrys-digital-transformation-voyage/)
+* [30 mins ago
     
-    ### Graco Slim Spaces Baby Swing Suddenly Rocking Too Fast](https://digitpatrox.com/graco-slim-spaces-baby-swing-suddenly-rocking-too-fast/)
+    ### Mozilla’s advocacy arm cuts 30% of staff – Computerworld](https://digitpatrox.com/mozillas-advocacy-arm-cuts-30-of-staff-computerworld/)
+* [58 mins ago
+    
+    ### You Can Search Through Your ChatGPT Conversation History Now](https://digitpatrox.com/you-can-search-through-your-chatgpt-conversation-history-now/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 15, 2024
     
-    ### Finland seizes servers of ‘Sipultie’ dark web drugs market](https://digitpatrox.com/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
-* [August 13, 2024
+    ### How to Backup and Restore the Windows Registry](https://digitpatrox.com/how-to-backup-and-restore-the-windows-registry/)
+* [August 22, 2024
     
-    ### Signs Your Rent Is About to Go Up](https://digitpatrox.com/signs-your-rent-is-about-to-go-up/)
-* [August 16, 2024
+    ### Get Advanced Ad Blocking and Superior Data Privacy Tools for $11](https://digitpatrox.com/get-advanced-ad-blocking-and-superior-data-privacy-tools-for-11/)
+* [2 weeks ago
     
-    ### The Most Discounted New Cars Right Now](https://digitpatrox.com/the-most-discounted-new-cars-right-now/)
+    ### Hackers exploit Roundcube webmail flaw to steal email, credentials](https://digitpatrox.com/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
 
 Last Modified Topics
 
-* [56 mins ago
+* [1 hour ago
     
-    ### Forget Apple Intelligence — iOS 18.2 beta could be introducing ‘Battery Intelligence’](https://digitpatrox.com/forget-apple-intelligence-ios-18-2-beta-could-be-introducing-battery-intelligence/)
+    ### Steam Game Recording Now Available to All](https://digitpatrox.com/steam-game-recording-now-available-to-all/)
 * [2 hours ago
     
-    ### Google fixes two Android zero-days used in targeted attacks](https://digitpatrox.com/google-fixes-two-android-zero-days-used-in-targeted-attacks/)
+    ### Google Cloud will make MFA mandatory by the end of 2025 – here’s what you need to know](https://digitpatrox.com/google-cloud-will-make-mfa-mandatory-by-the-end-of-2025-heres-what-you-need-to-know/)
 * [2 hours ago
     
-    ### PS5 Pro review: how close is your TV?](https://digitpatrox.com/ps5-pro-review-how-close-is-your-tv/)
+    ### 6 Ways to Automate Key Elements of a Call Center Workflow](https://digitpatrox.com/6-ways-to-automate-key-elements-of-a-call-center-workflow/)
 
 Most Viewed Topics
 
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 21, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [September 28, 2024
     
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
