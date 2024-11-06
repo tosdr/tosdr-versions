@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Back up your smartphone or tablet using Backu ...](https://www.backup4all.com/back-up-your-smartphone-tablet-using-backup4all-kb.html)  
+* [Back-up to Google Drive using Backup4all](https://www.backup4all.com/backup-to-google-drive-kb.html)  
     
-* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
+* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
     
-* [How to configure logs and history](https://www.backup4all.com/how-to-configure-logs-and-history-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
-* [How to backup your data to mandic](https://www.backup4all.com/how-to-backup-your-data-to-mandic-kb.html)  
+* [What is block level backup](https://www.backup4all.com/what-is-block-level-backup-kb.html)  
     
-* [Network deployment strategy for Backup4all](https://www.backup4all.com/network-deployment-strategy-for-backup4all-kb.html)  
+* [How to find the logs in Backup4all](https://www.backup4all.com/how-to-find-the-logs-in-backup4all-kb.html)  
     
 
 Choose language:
