@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-05 Nov 2024
+06 Nov 2024
 
 * [Home
     
@@ -266,15 +266,6 @@ Most Popular
 [Throwback Tuesday: Out and About @ Dormans (2011)](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police attending security alert in Bogside area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police attending security alert in Bogside area of Derry")](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
-
-Police at the scene in Limewood Street, Derry
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police attending security alert in Bogside area of Derry](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -298,6 +289,13 @@ Derry courthouse
 [Trial date for Donegal man charged with rape may not now take place until next year](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Down Memory Lane: Spooktacular night for 2012 Banks of the Foyle Hallowe'en Carnival](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [!['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Viable suspected pipe bomb' removed from Bogside area following Derry security alert")](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
 
 Police cordon at the scene of last night's security alert in the Limewood Street area of Derry
@@ -306,13 +304,6 @@ Police cordon at the scene of last night's security alert in the Limewood Street
 
 ['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Down Memory Lane: Spooktacular night for 2012 Banks of the Foyle Hallowe'en Carnival](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer")](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
 
@@ -338,6 +329,15 @@ Chair of the Judging panel Joris Minne and NI Food to Go Association CEO Michael
 
 [Derry food to go businesses announced as finalists for NI Food to Go Awards](https://www.derrynow.com/news/arts---entertainment/1647752/derry-food-to-go-businesses-announced-as-finalists-for-ni-food-to-go-awards.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Harris v Trump](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Harris v Trump")](https://www.derrynow.com/poll/derry-news/1647785/poll-derry-who-will-be-the-next-president-of-the-united-states-of-america-trump-or-harris.html)
+
+Harris v Trump
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Poll: Derry - who will be the next President of the United States of America; Trump or Harris?](https://www.derrynow.com/poll/derry-news/1647785/poll-derry-who-will-be-the-next-president-of-the-united-states-of-america-trump-or-harris.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
