@@ -134,17 +134,7 @@ Pronatura Main
     * [Schutzgebiete sichern](https://www.pronatura.ch/de/schutzgebiete)
     * [Weitere Themen](https://www.pronatura.ch/de/unsere-themen)
     
-* [Mitmachen](https://www.pronatura.ch/de/ihr-engagement)
-    
-    * [Freiwilligenarbeit](https://www.pronatura.ch/de/freiwilligenarbeit "Freiwilligeneinsatz bei Pro Natura hilft der Natur und macht Spass")
-    * [Für Kinder & Jugendliche](https://www.pronatura.ch/de/jugend)
-    * [Für Lehrpersonen](https://www.pronatura.ch/de/lehrpersonen "Natur im Unterricht - unsere Angebote für Lehrpersonen")
-    * [Naturtipps](https://www.pronatura.ch/de/naturtipps)
-    * [Mitglied werden](https://www.pronatura.ch/de/mitglied-werden)
-    * [Spenden](https://www.pronatura.ch/de/spenden "Ihre Spende für die Natur")
-    * [Legate und Erbschaften](https://www.pronatura.ch/de/legate-erbschaften "Legate und Erbschaften - Heute schon für morgen sorgen")
-    * [Spenden im Andenken](https://www.pronatura.ch/de/spenden-im-andenken "Im Trauerfall für die Natur spenden")
-    
+* [Mitmachen](https://www.pronatura.ch/de/mitmachen)
 * [Besuchen](https://www.pronatura.ch/de/unsere-angebote)
     
     * [Veranstaltungen](https://www.pronatura.ch/de/kalender)
