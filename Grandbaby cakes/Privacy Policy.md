@@ -72,7 +72,13 @@ Submit
 
 Δ
 
- ![back to top button](https://grandbaby-cakes.com/wp-content/themes/grandbaby-cakes-2024/assets/images/misc/back-to-top.png) ![back to top button small](https://grandbaby-cakes.com/wp-content/themes/grandbaby-cakes-2024/assets/images/misc/back-to-top-mobile.png)
+![back to top button](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2052%2095'%3E%3C/svg%3E)
+
+![back to top button](https://grandbaby-cakes.com/wp-content/themes/grandbaby-cakes-2024/assets/images/misc/back-to-top.png)
+
+![back to top button small](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2043%2054'%3E%3C/svg%3E)
+
+![back to top button small](https://grandbaby-cakes.com/wp-content/themes/grandbaby-cakes-2024/assets/images/misc/back-to-top-mobile.png)
 
 © 2024 All rights reserved.
 
