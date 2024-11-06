@@ -213,7 +213,7 @@ We develop software for corporate networks, local area networks and home network
 * [](http://twitter.com/lizardsystems)
 * [](https://lizardsystems.com/feeds/)
 
-![LizardSystems](/static/favicon-16x16.png) [LizardSystems](https://lizardsystems.com/), 2022. All rights reserved.
+![LizardSystems](/static/favicon-16x16.png) [LizardSystems](https://lizardsystems.com/), 2024. All rights reserved.
 
 * [Privacy Policy](https://lizardsystems.com/privacy-policy/)
 * |
