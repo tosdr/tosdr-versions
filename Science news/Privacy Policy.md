@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Putting vampire bats on treadmills reveals an unusual metabolism](https://www.sciencenews.org/article/vampire-bats-treadmills-metabolism)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")9 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")15 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Exploiting a genetic quirk in potatoes may cut fertilizer needs](https://www.sciencenews.org/article/potatoes-genetic-quirk-less-fertilizer)
             
-            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")1 hour ago
+            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")7 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Feather-inspired airplane flaps could boost flight performance](https://www.sciencenews.org/article/feather-inspired-airplane-flaps)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")17 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")23 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
