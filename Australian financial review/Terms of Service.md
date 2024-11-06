@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Anglo American chief executive Duncan Wanblad is selling his company’s coal assets in Queensland.](https://static.ffx.io/images/$zoom_0.2294%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1eafcbf8f021726be192122a46bffba5bed8dd1e)](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
+[![Artist impression of a data centre in Artarmon, Sydney that Goodman will start building next year.](https://static.ffx.io/images/$zoom_0.2119%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f81a734b177259c70aa673f85f09574ef201b684)](https://www.afr.com/property/commercial/the-property-giant-that-will-soon-build-more-data-centres-than-sheds-20241106-p5ko9y)
 
-### [Billionaire pays $1.6b for Anglo’s stake in Qld mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
+### [The property giant that will soon build more data centres than sheds](https://www.afr.com/property/commercial/the-property-giant-that-will-soon-build-more-data-centres-than-sheds-20241106-p5ko9y)
 
-* Peter Ker
+* Larry Schlesinger
 
-* ### [Rich Lister was told ‘get a hobby’, now his horse is in the Cup](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
+* ### [Billionaire pays $1.6b for Anglo’s stake in Qld mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
     
-* ### [Mark Creasy banks lithium windfall by selling at the top](https://www.afr.com/companies/mining/mark-creasy-banks-lithium-windfall-by-selling-at-the-top-20241101-p5kn5y)
+* ### [Rich Lister was told ‘get a hobby’, now his horse is in the Cup](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
     
 
 [The Australian Financial Review](https://www.afr.com/)
