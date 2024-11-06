@@ -47,23 +47,21 @@ Free UK Shipping with orders over £50
         * [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
-    * Performance apparel to propel you forward.
+    * Shop our new performance wear styles.
         
-    * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
-    * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
-    * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
+    * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
     * [CAPS](https://puresportcbd.com/en-us/collections/caps)
+    * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
+    * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
     * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
     * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
-    * [COLLECTIONS](https://puresportcbd.com/en-us#)
-        * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
+    [![](//puresport.co/cdn/shop/files/135_ee638a29-ce56-4041-9143-e612a426b1bc.jpg?v=1730816676&width=1920)
     
-    Gift with Purchase
+    NEW PERFORMANCE WEAR
     
-    Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections/all)
+    Reflect who you are, even in the dark.](https://puresportcbd.com/en-us/collections/new-performance-wear)
     
 * Our story
     
@@ -151,23 +149,21 @@ Free UK Shipping with orders over £50
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
         
-        Performance apparel to propel you forward.
+        Shop our new performance wear styles.
         
-        * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
-        * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
-        * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
+        * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
         * [CAPS](https://puresportcbd.com/en-us/collections/caps)
+        * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
+        * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
         * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
         * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
         * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
-        * [COLLECTIONS](https://puresportcbd.com/en-us#)
-            * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
+    [![](//puresport.co/cdn/shop/files/135_ee638a29-ce56-4041-9143-e612a426b1bc.jpg?v=1730816676&width=1920)
     
-    Gift with Purchase
+    NEW PERFORMANCE WEAR
     
-    Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections/all)
+    Reflect who you are, even in the dark.](https://puresportcbd.com/en-us/collections/new-performance-wear)
     
 * [Our story](#)
     
@@ -226,11 +222,11 @@ Free UK Shipping with orders over £50
     An unfiltered insight into the brand, people and community.](https://puresportcbd.com/en-us/blogs/puresport-project)
     
 
-[![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
+[![](//puresport.co/cdn/shop/files/135_ee638a29-ce56-4041-9143-e612a426b1bc.jpg?v=1730816676&width=1920)
 
-Gift with Purchase
+NEW PERFORMANCE WEAR
 
-Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections/all)
+Reflect who you are, even in the dark.](https://puresportcbd.com/en-us/collections/new-performance-wear)
 
 PRIVACY POLICY
 ==============
