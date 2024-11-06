@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c030226686b9d76bbc3c926c9a23d677
+4702bdcd5eff87ca50de1ebbaba2956d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Vintage miniscule tan square beads](https://sojourner.biz/images/cache/glass/VB0010.200.jpg)](https://sojourner.biz/beads/glass/vintage-miniscule-tan-square-beads.html "Vintage miniscule tan square beads")
+[![Purple scarab clasp](https://sojourner.biz/images/cache/SKU0100front.200.jpg)](https://sojourner.biz/clasps/glass/purple-scarab-clasp.html "Purple scarab clasp")
 
-#### [Vintage miniscule tan square beads](https://sojourner.biz/beads/glass/vintage-miniscule-tan-square-beads.html "Vintage miniscule tan square beads")
+#### [Purple scarab clasp](https://sojourner.biz/clasps/glass/purple-scarab-clasp.html "Purple scarab clasp")
 
-$5.00
+$20.00
 
 ### Best Sellers
 
