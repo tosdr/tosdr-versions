@@ -1,4 +1,6 @@
-![](https://www.facebook.com/tr?id=2611858029067765&ev=PageView&noscript=1)        [Skip to content](#site-main)
+![](https://www.facebook.com/tr?id=2611858029067765&ev=PageView&noscript=1)     
+
+[Skip to content](#site-main)
 
 [240-800-JSSA (5772)](tel:2408005772)
 
