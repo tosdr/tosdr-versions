@@ -133,9 +133,9 @@
             
             video
             
-            ##### LevelBlue Managed Detection and Response
+            ##### LevelBlue Network Security
             
-            [Learn more](https://levelblue.com/resource-center/videos/levelblue-managed-detection-and-response)
+            [Learn more](https://levelblue.com/resource-center/videos/levelblue-network-security)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -175,9 +175,9 @@
             
             ebook
             
-            ##### Secure Your Inbox, Accelerate Compliance: LevelBlue Email Security with Check Point
+            ##### Your Guide to Zero Trust and Endpoint Security
             
-            [Learn more](https://levelblue.com/resource-center/ebook/secure-your-inbox-with-check-point)
+            [Learn more](https://levelblue.com/resource-center/ebook/your-guide-to-zero-trust-and-endpoint-security)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -205,7 +205,7 @@
         * [Support Overview Access area for all support queries](https://www.alienvault.com/support)
         * [Success Center Find answers to USM questions](https://success.alienvault.com/) 
         * [Certification Become security certified](https://www.alienvault.com/certification) 
-        * [Documentation Discover technical support documentation](https://www.alienvault.com/documentation)
+        * [Documentation Discover technical support documentation](https://www.alienvault.com/documentation/)
         * [Training Get expert instruction and hands-on practice](https://www.alienvault.com/training)
     
 * [Contact](https://www.alienvault.com/contact)
@@ -373,7 +373,7 @@ Customer Resources
 * [Support Overview](https://www.alienvault.com/support)
 * [Success Center](https://success.alienvault.com/)
 * [Certification](https://www.alienvault.com/certification)
-* [Documentation](https://www.alienvault.com/documentation)
+* [Documentation](https://www.alienvault.com/documentation/)
 * [Training](https://www.alienvault.com/training)
 
 GDPR and LevelBlue
@@ -455,7 +455,7 @@ Customer Success
 
 * [Support & Services](https://www.alienvault.com/support)
 * [Success Center](https://success.alienvault.com/)
-* [Documentation Center](https://www.alienvault.com/documentation)
+* [Documentation Center](https://www.alienvault.com/documentation/)
 * [Training](https://www.alienvault.com/training)
 * [Certification](https://www.alienvault.com/certification)
 
