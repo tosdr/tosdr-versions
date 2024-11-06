@@ -402,75 +402,79 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Amber Alert: 12-year-old Kaufman County boy found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/amber-alert.jpg?ve=1&tl=1)
+ [![Live swing state election results maps](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/swing-states-live-results.jpg?ve=1&tl=1)
 
- ![Amber Alert: 12-year-old Kaufman County boy found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-12-year-old-connor-young-found-safe)
+ ![Live swing state election results maps](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/swing-states-live-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/presidential-election-results-swing-states-live)
 
-### [Amber Alert: 12-year-old Kaufman County boy found safe](https://www.fox4news.com/news/amber-alert-12-year-old-connor-young-found-safe)
+Live Now
 
- [![5 tips to ease Election Day anxiety](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/gettyimages-643067734.jpg?ve=1&tl=1)
+### [Live swing state election results maps](https://www.fox4news.com/election/presidential-election-results-swing-states-live)
 
- ![5 tips to ease Election Day anxiety](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/592/333/gettyimages-643067734.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/steps-take-ease-election-anxiety)
+ [![Craig Goldman wins U.S. House District 12 seat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/P-DIAL-TX-DISTRICT-12-AND-26-RACE_KDFW4e6e_146_mxf_00.00.49.50.jpg?ve=1&tl=1)
 
-### [5 tips to ease Election Day anxiety](https://www.fox4news.com/news/steps-take-ease-election-anxiety)
+ ![Craig Goldman wins U.S. House District 12 seat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/P-DIAL-TX-DISTRICT-12-AND-26-RACE_KDFW4e6e_146_mxf_00.00.49.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/craig-goldman-house-district-12-kay-granger)
 
- [![First-time homebuyers are older than ever before, National Association of Realtors survey finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/house-for-sale.jpg?ve=1&tl=1)
+### [Craig Goldman wins U.S. House District 12 seat](https://www.fox4news.com/election/craig-goldman-house-district-12-kay-granger)
 
- ![First-time homebuyers are older than ever before, National Association of Realtors survey finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/house-for-sale.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-time-homebuyers-older-than-before-survey)
+ [![Election Day 2024: Live updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/people-at-the-voting-polls.jpg?ve=1&tl=1)
 
-### [First-time homebuyers are older than ever before, National Association of Realtors survey finds](https://www.fox4news.com/news/first-time-homebuyers-older-than-before-survey)
+ ![Election Day 2024: Live updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/people-at-the-voting-polls.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-day-live-updates-2024)
 
- [![When do polls close in Texas on Election Day?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/477b050b-Still0613_00024_1497396389972_3513222_ver1.0.jpg?ve=1&tl=1)
+Live Now
 
- ![When do polls close in Texas on Election Day?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/477b050b-Still0613_00024_1497396389972_3513222_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-do-polls-close-texas-election-day)
+### [Election Day 2024: Live updates](https://www.fox4news.com/news/election-day-live-updates-2024)
 
-### [When do polls close in Texas on Election Day?](https://www.fox4news.com/news/when-do-polls-close-texas-election-day)
+ [![Brandon Gill, son-in-law of conservative filmmaker Dinesh D'Souza, wins U.S. House District 26](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/brandon-gill.jpg?ve=1&tl=1)
 
- [![Can you bring kids to vote in Texas?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2182405904.jpg?ve=1&tl=1)
+ ![Brandon Gill, son-in-law of conservative filmmaker Dinesh D'Souza, wins U.S. House District 26](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/brandon-gill.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/brandon-gill-dinesh-dsouza-son-in-law-wins-u-s-house-district-26)
 
- ![Can you bring kids to vote in Texas?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182405904.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/can-you-bring-kids-vote-texas)
+### [Brandon Gill, son-in-law of conservative filmmaker Dinesh D'Souza, wins U.S. House District 26](https://www.fox4news.com/election/brandon-gill-dinesh-dsouza-son-in-law-wins-u-s-house-district-26)
 
-### [Can you bring kids to vote in Texas?](https://www.fox4news.com/election/can-you-bring-kids-vote-texas)
+ [![Marc Veasey wins reelection in Texas' 33rd Congressional District](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/0527b662-H-S-VEASEY20POLICE20TRANSPARE_1475547319621_2125605_ver1.0.jpg?ve=1&tl=1)
 
-[![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/149/84/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+ ![Marc Veasey wins reelection in Texas' 33rd Congressional District](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/0527b662-H-S-VEASEY20POLICE20TRANSPARE_1475547319621_2125605_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/marc-veasey-wins-reelection-north-texas-33rd-congressional-district)
 
-ELECTION DAY 2024
+### [Marc Veasey wins reelection in Texas' 33rd Congressional District](https://www.fox4news.com/election/marc-veasey-wins-reelection-north-texas-33rd-congressional-district)
 
-[Today is Election Day. Here’s what you need to know](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
-
-[The polls will open at 7 a.m. across Texas. Here's what you need to know to cast your ballot on Election Day.](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
-
-[![Where to vote in Dallas County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/05/149/84/NC-voting-booth.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
+[![Live Texas Election Results 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/texas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/texas-election-results-2024)
 
 ELECTION DAY 2024
 
-[Where to vote in Dallas County on Election Day](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
+[Live Texas Election Results 2024](https://www.fox4news.com/election/texas-election-results-2024)
 
-[For Election Day there will be more than 400 Vote Centers across Dallas County, providing you with multiple locations to make your voice heard. You are able to vote at any of these locations within Dallas County.](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
+[Election results for the 2024 Election in Texas will come in at 7 p.m. Find the races that are important to you here.](https://www.fox4news.com/election/texas-election-results-2024)
 
-[![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/149/84/GettyImages-1058414620-1.jpg?ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
-
-ELECTION DAY 2024
-
-[Where to vote in Tarrant County on Election Day](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
-
-[Tarrant County registered voters on Election Day can vote at any polling location in the county from 7 a.m. until 7 p.m. See where you can vote here.](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
-
-[![Where to vote in Collin County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/149/84/GettyImages-1338949648.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+[![Live Election Results: Dallas County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/dallas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
 
 ELECTION DAY 2024
 
-[Where to vote in Collin County on Election Day](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+[Live Election Results: Dallas County](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
 
-[Collin County registered voters on Election Day can vote at any polling location within Collin County from 7 a.m. until 7 p.m. Election Day is Tuesday, November 5, 2024.](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+[Here are the results of the 2024 Election in Dallas County.](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
 
-[![Where to vote in Denton County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/149/84/GettyImages-1206416963.jpg?ve=1&tl=1)](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+[![Live Election Results: Tarrant County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/tarrant-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
 
 ELECTION DAY 2024
 
-[Where to vote in Denton County on Election Day](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+[Live Election Results: Tarrant County](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
 
-[Denton County registered voters on Election Day can vote at their precinct polling location from 7 a.m. until 7 p.m.](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+[Here are the results of the 2024 Election in Tarrant County.](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
+
+[![Live Election Results: Collin County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/collin-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-collin-county-2024-election)
+
+ELECTION DAY 2024
+
+[Live Election Results: Collin County](https://www.fox4news.com/election/election-results-collin-county-2024-election)
+
+[Here are the results of the 2024 Election in Collin County.](https://www.fox4news.com/election/election-results-collin-county-2024-election)
+
+[![Live Election Results: Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/denton-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-denton-county-2024-election)
+
+ELECTION DAY 2024
+
+[Live Election Results: Denton County](https://www.fox4news.com/election/election-results-denton-county-2024-election)
+
+[Here are the results of the 2024 Election in Denton County.](https://www.fox4news.com/election/election-results-denton-county-2024-election)
 
 ###### [News](https://www.fox4news.com/news)
 
