@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Balance
+
+### Voter nostalgia for harmony, balance](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1106/Voter-nostalgia-for-harmony-balance "Voter nostalgia for harmony, balance")
+
+[Integrity
+
+### Here’s what it looks like when voting goes right](https://www.csmonitor.com/USA/Politics/2024/1106/election-results-North-Carolina-Trump "Here’s what it looks like when voting goes right")
+
 [Innovation
 
 ### Crops, cows, and solar panels? Why farmers are harvesting sunlight.](https://www.csmonitor.com/Environment/2024/1106/agrivoltaics-solar-power-farmers "Crops, cows, and solar panels? Why farmers are harvesting sunlight.")
-
-[Compassion
-
-### Mud boots of empathy in Spain](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1105/Mud-boots-of-empathy-in-Spain "Mud boots of empathy in Spain")
-
-[Trust
-
-### James Madison foresaw the big question worrying voters. What did he say?](https://www.csmonitor.com/Commentary/From-the-Editors/2024/1105/James-Madison-foresaw-the-big-question-worrying-voters.-What-did-he-say "James Madison foresaw the big question worrying voters. What did he say?")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
+[### Cargo packages waiting for North American flights ignited. Officials blame Russia.](https://www.csmonitor.com/World/Europe/2024/1106/Russian-sabotage-explosive-devices-planes-United-States "Cargo packages waiting for North American flights ignited. Officials blame Russia.")
+
+[### ‘An act of madness’: Protests erupt after Netanyahu fires defense minister Yoav Gallant](https://www.csmonitor.com/World/Middle-East/2024/1106/Israel-Gaza-Netanyahu-Yoav-Gallant-Hamas-Hezbollah "‘An act of madness’: Protests erupt after Netanyahu fires defense minister Yoav Gallant")
+
 [### AI makes the fashion industry faster and greener. But what will that mean for workers?](https://www.csmonitor.com/World/Asia-South-Central/2024/1105/AI-fast-fashion-workers-garment-industry-climate "AI makes the fashion industry faster and greener. But what will that mean for workers?")
-
-[### Boeing was losing $50 million per day. Then the air machinists ended their strike.](https://www.csmonitor.com/USA/2024/1105/Boeing-union-strike-ends-deal-Joe-Biden "Boeing was losing $50 million per day. Then the air machinists ended their strike.")
-
-[### How the FBI helped a small Kansas town recover stolen funds in a cryptocurrency scheme](https://www.csmonitor.com/USA/2024/1105/Kansas-life-savings-cryptocurrency-FBI "How the FBI helped a small Kansas town recover stolen funds in a cryptocurrency scheme")
 
 * * *
 
