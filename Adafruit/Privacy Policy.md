@@ -404,12 +404,12 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Every person is born with a creative mind. Everyone has the ability”
+“ Only through an inner spiritual transformation do we gain the strength to fight vigorously the evils of the world in a humble and loving spirit”
 
-[Mary Beatrice Davidson Kenner](https://en.wikipedia.org/wiki/Mary_Kenner)
+[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 [](https://www.adafruit.com/about)
 
-[](https://www.instagram.com/adafruit/)[](https://twitter.com/adafruit/)[](https://mastodon.cloud/@adafruit)[](https://www.facebook.com/adafruitindustries)[](https://www.youtube.com/adafruit)[](https://github.com/adafruit)[](https://www.tiktok.com/@adafruit)[](https://adafruit.tumblr.com/)[](https://adafru.it/discord)
+[](https://www.instagram.com/adafruit/)[](https://twitter.com/adafruit/)[](https://mastodon.cloud/@adafruit)[](https://www.facebook.com/adafruitindustries)[](https://www.youtube.com/adafruit)[](https://github.com/adafruit)[](https://www.tiktok.com/@adafruit)[](https://adafruit.tumblr.com/)[](https://www.threads.net/@adafruit)[](https://adafru.it/discord)
 
 [A Minority and Woman-owned Business Enterprise (M/WBE)](https://www.adafruit.com/about)
