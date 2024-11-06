@@ -183,13 +183,9 @@ By clicking the **Send** button, you agree to our [Privacy Policy.](https://www.
 
 Send
 
-Support Team
-
-[support@4kdownload.com](mailto:support@4kdownload.com)
-
 Community
 
- [![Twitter](https://static.4kdownload.com/main/img/redesign/ic-x-grey.3d28e08a8e92.svg)](https://twitter.com/4kdownload)[![YouTube](https://static.4kdownload.com/main/img/redesign/ic-youtube-grey.68e8c82c3f8d.svg)](https://www.youtube.com/channel/UCUlYb1XsnOxxOtW4Od19m7A)
+[![Twitter](https://static.4kdownload.com/main/img/redesign/ic-x-grey.3d28e08a8e92.svg)](https://twitter.com/4kdownload)
 
 ![Wechat](https://static.4kdownload.com/main/img/redesign/ic-wechat-footer.2fbee218ccaf.svg)
 
@@ -206,10 +202,6 @@ I want to receive 4K Download news, special offers and updates.
 By clicking the **Send** button, you agree to our [Privacy Policy.](https://www.4kdownload.com/privacy/1)
 
 Send
-
-Support Team
-
-[support@4kdownload.com](mailto:support@4kdownload.com)
 
 [](https://www.4kdownload.com/-54 "Home page")
 
