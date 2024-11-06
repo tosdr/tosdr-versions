@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Donald Trump wins 2024 presidential election, defying the odds again](https://nypost.com/2024/11/06/us-news/donald-trump-wins-2024-presidential-election-defying-the-odds-again/)
-
 Terms Of Use
 ============
 
