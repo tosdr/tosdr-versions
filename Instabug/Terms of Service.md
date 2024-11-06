@@ -12,7 +12,11 @@ Product
 
 What is Mobile Observability?
 
-The complete mobile observability platform for app growth and performance](https://instabug.com/mobile-observability)
+The complete mobile observability platform for app growth and performance](https://instabug.com/mobile-observability)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/671f8a8136a08d39af98991c_ai.svg)
+
+**AI-Powered Mobile Observability**
+
+Delivering smarter insights to optimize mobile app performance](https://instabug.com/ai)
 
 Instabug's Mobile Observability Platform
 
