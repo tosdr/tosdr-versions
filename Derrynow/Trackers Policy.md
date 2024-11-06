@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Down Memory Lane: Spooktacular night for 2012 Banks of the Foyle Hallowe'en Carnival](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -273,28 +266,19 @@ Most Popular
 [Derry Death Notices - Wednesday, November 6, 2024](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer")](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment")](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
+[![Arrest warrant issued for Derry man who pleaded guilty to drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Arrest warrant issued for Derry man who pleaded guilty to drug charges")](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Arrest warrant issued for Derry man who pleaded guilty to drug charges](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)")](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
+[![PICTURES: Fairy-tale home in Derry could be yours for €735k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fairy-tale home in Derry could be yours for €735k")](https://www.derrynow.com/news/home/1648910/pictures-fairy-tale-home-in-derry-could-be-yours-for-735k.html)
 
-Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)
+[Home](https://www.derrynow.com/)
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry-based baby loss foundation launched](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Fairy-tale home in Derry could be yours for €735k](https://www.derrynow.com/news/home/1648910/pictures-fairy-tale-home-in-derry-could-be-yours-for-735k.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Alleged New IRA man granted permission to move to Claudy area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Alleged New IRA man granted permission to move to Claudy area")](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
 
@@ -305,41 +289,64 @@ The application for a bail variation was heard this morning.
 [Alleged New IRA man granted permission to move to Claudy area](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport")](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+[![Derry discover opening weekend opponent in the defence of their National League crown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry discover opening weekend opponent in the defence of their National League crown")](https://www.derrynow.com/news/gaa/1648876/derry-discover-opening-weekend-opponent-in-the-defence-of-their-national-league-crown.html)
 
-Steve Frazer, City of Derry airport managing director
+[GAA](https://www.derrynow.com/section/1060/gaa)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Derry discover opening weekend opponent in the defence of their National League crown](https://www.derrynow.com/news/gaa/1648876/derry-discover-opening-weekend-opponent-in-the-defence-of-their-national-league-crown.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: 'Look at this for luxury' - Tommy Tiernan gives sneak peek of huge American tour bus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: 'Look at this for luxury' - Tommy Tiernan gives sneak peek of huge American tour bus")](https://www.derrynow.com/news/national-news/1648195/watch-look-at-this-for-luxury-tommy-tiernan-gives-sneak-peek-of-huge-american-tour-bus.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[WATCH: 'Look at this for luxury' - Tommy Tiernan gives sneak peek of huge American tour bus](https://www.derrynow.com/news/national-news/1648195/watch-look-at-this-for-luxury-tommy-tiernan-gives-sneak-peek-of-huge-american-tour-bus.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Arrest warrant issued for Derry man who pleaded guilty to drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Arrest warrant issued for Derry man who pleaded guilty to drug charges")](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
+[![Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment")](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Arrest warrant issued for Derry man who pleaded guilty to drug charges](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mourners gather for funeral of ‘journalistic giant’ David Davin-Power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mourners gather for funeral of ‘journalistic giant’ David Davin-Power")](https://www.derrynow.com/news/northern-ireland/1648035/mourners-gather-for-funeral-of-journalistic-giant-david-davin-power.html)
+[![Custodial sentence 'almost inevitable' for Maghera man who admitted series of domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Custodial sentence 'almost inevitable' for Maghera man who admitted series of domestic abuse offences")](https://www.derrynow.com/news/local-news/1648930/custodial-sentence-almost-inevitable-for-maghera-man-who-admitted-series-of-domestic-abuse-offences.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Derry courthouse
 
-[Mourners gather for funeral of ‘journalistic giant’ David Davin-Power](https://www.derrynow.com/news/northern-ireland/1648035/mourners-gather-for-funeral-of-journalistic-giant-david-davin-power.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Custodial sentence 'almost inevitable' for Maghera man who admitted series of domestic abuse offences](https://www.derrynow.com/news/local-news/1648930/custodial-sentence-almost-inevitable-for-maghera-man-who-admitted-series-of-domestic-abuse-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two men arrested as part of Derry dissident republican investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested as part of Derry dissident republican investigation")](https://www.derrynow.com/news/local-news/1648951/two-men-arrested-as-part-of-derry-dissident-republican-investigation.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men arrested as part of Derry dissident republican investigation](https://www.derrynow.com/news/local-news/1648951/two-men-arrested-as-part-of-derry-dissident-republican-investigation.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home")](https://www.derrynow.com/story-telling/pictures---videos/1646905/in-pictures-craft-fair-coffee-morning-held-in-the-ymca-drumahoe-in-aid-of-ardlough-care-home.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home](https://www.derrynow.com/story-telling/pictures---videos/1646905/in-pictures-craft-fair-coffee-morning-held-in-the-ymca-drumahoe-in-aid-of-ardlough-care-home.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: Stylish Derry home in ideal location hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Stylish Derry home in ideal location hits the market")](https://www.derrynow.com/news/pictures---videos/1646758/property-stylish-derry-home-in-ideal-location-hits-the-market.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PROPERTY: Stylish Derry home in ideal location hits the market](https://www.derrynow.com/news/pictures---videos/1646758/property-stylish-derry-home-in-ideal-location-hits-the-market.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Education Minsister Paul Givan visits St John's Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Education Minsister Paul Givan visits St John's Primary School")](https://www.derrynow.com/story-telling/pictures---videos/1649213/in-pictures-education-minsister-paul-givan-visits-st-john-s-primary-school.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Education Minsister Paul Givan visits St John's Primary School](https://www.derrynow.com/story-telling/pictures---videos/1649213/in-pictures-education-minsister-paul-givan-visits-st-john-s-primary-school.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Another successful year and AGM for Derry Credit Union](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Another successful year and AGM for Derry Credit Union")](https://www.derrynow.com/story-telling/pictures---videos/1648772/in-pictures-another-successful-year-and-agm-for-derry-credit-union.html)
 
@@ -405,13 +412,6 @@ Steve Frazer, City of Derry airport managing director
 
 [IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Derry City fans out in force for Derry v. Shelbourne game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry City fans out in force for Derry v. Shelbourne game")](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[PICTURES: Derry City fans out in force for Derry v. Shelbourne game](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,55 +513,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Two men arrested as part of Derry dissident republican investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested as part of Derry dissident republican investigation")](https://www.derrynow.com/news/local-news/1648951/two-men-arrested-as-part-of-derry-dissident-republican-investigation.html)
+[![Solar Potential to generate Derry economy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Solar Potential to generate Derry economy")](https://www.derrynow.com/news/home/1649156/solar-potential-to-generate-derry-economy.html)
 
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men arrested as part of Derry dissident republican investigation](https://www.derrynow.com/news/local-news/1648951/two-men-arrested-as-part-of-derry-dissident-republican-investigation.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mulholland family,  Bellaghy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mulholland family,  Bellaghy")](https://www.derrynow.com/news/county-derry-post/1648872/bellaghy-family-remember-late-grandmother-with-charity-concert.html)
-
-Mulholland family, Bellaghy
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Bellaghy family remember late grandmother with charity concert](https://www.derrynow.com/news/county-derry-post/1648872/bellaghy-family-remember-late-grandmother-with-charity-concert.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Arrest warrant issued for Derry man who pleaded guilty to drug charges](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Arrest warrant issued for Derry man who pleaded guilty to drug charges")](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Arrest warrant issued for Derry man who pleaded guilty to drug charges](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Alleged New IRA man granted permission to move to Claudy area](https://www.derrynow.com/resizer/165/93/true/2018/07/26120135/courts.jpg--.jpg "Alleged New IRA man granted permission to move to Claudy area")](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
-
-The application for a bail variation was heard this morning.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Alleged New IRA man granted permission to move to Claudy area](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![SOLD OUT: Self defence classes in Derry fully booked following recent attacks](https://www.derrynow.com/resizer/165/93/true/2024_11_06/karate-2578819_1280_%281%29-1730893358324.jpg--.jpg?1730893358369 "SOLD OUT: Self defence classes in Derry fully booked following recent attacks")](https://www.derrynow.com/news/home/1648816/sold-out-self-defence-classes-in-derry-fully-booked-following-recent-attacks.html)
-
-The classes will focus on using your voice as a defence, situational awareness, weapons defence, and body positioning, along with techniques, such as striking, kicking, escaping, and more. 
+Russell Smyth, KPMG, and Steven Agnew, RenewableNI Director.
 
 [Home](https://www.derrynow.com/)
 
-[SOLD OUT: Self defence classes in Derry fully booked following recent attacks](https://www.derrynow.com/news/home/1648816/sold-out-self-defence-classes-in-derry-fully-booked-following-recent-attacks.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Solar Potential to generate Derry economy](https://www.derrynow.com/news/home/1649156/solar-potential-to-generate-derry-economy.html)
+--------------------------------------------------------------------------------------------------------------------------------------
 
-[![Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](https://www.derrynow.com/resizer/165/93/true/2018/07/06170436/Altnagelvin-AE.jpg--.jpg "Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment")](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
+[![Another successful year and AGM for Derry Credit Union](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Another successful year and AGM for Derry Credit Union")](https://www.derrynow.com/news/local-news/1649001/another-successful-year-and-agm-for-derry-credit-union.html)
+
+Gerry McMonagle, Derry Credit Union, presenting £25 prizewinners at Monday's AGM. From left Ciara O'Reilly, Sean-Paul Brinkley, Frances Meenan and Grace McKenna.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Another successful year and AGM for Derry Credit Union](https://www.derrynow.com/news/local-news/1649001/another-successful-year-and-agm-for-derry-credit-union.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Fairy-tale home in Derry could be yours for €735k](https://www.derrynow.com/resizer/165/93/true/2024_11_06/Screenshot_2024-11-06_124912-1730897434377.png--.png?1730897434490 "PICTURES: Fairy-tale home in Derry could be yours for €735k")](https://www.derrynow.com/news/home/1648910/pictures-fairy-tale-home-in-derry-could-be-yours-for-735k.html)
+
+[Home](https://www.derrynow.com/)
+
+[PICTURES: Fairy-tale home in Derry could be yours for €735k](https://www.derrynow.com/news/home/1648910/pictures-fairy-tale-home-in-derry-could-be-yours-for-735k.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Signing of Mid South West Growth Deal Heads of Terms Agreement Marks a Pivotal Step in Transforming Region’s Economy](https://www.derrynow.com/resizer/165/93/true/2024_11_06/MSWHOT-1730909793019.JPG--.JPG?1730909794277 "Signing of Mid South West Growth Deal Heads of Terms Agreement Marks a Pivotal Step in Transforming Region’s Economy")](https://www.derrynow.com/news/home/1649194/signing-of-mid-south-west-growth-deal-heads-of-terms-agreement-marks-a-pivotal-step-in-transforming-regions-economy.html)
+
+Representatives pictured at the signing of the Heads of Terms Agreement for the Mid Ulster Growth Deal at the Burnavon in Cookstown.
+
+[Home](https://www.derrynow.com/)
+
+[Signing of Mid South West Growth Deal Heads of Terms Agreement Marks a Pivotal Step in Transforming Region’s Economy](https://www.derrynow.com/news/home/1649194/signing-of-mid-south-west-growth-deal-heads-of-terms-agreement-marks-a-pivotal-step-in-transforming-regions-economy.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Workers Party release statement on closure of Fairhill Health Centre, Magherafelt](https://www.derrynow.com/resizer/165/93/true/2024_10_15/IMG_1968-1729000744748.jpg--.jpg?1729000744839 "Workers Party release statement on closure of Fairhill Health Centre, Magherafelt")](https://www.derrynow.com/news/county-derry-post/1648934/workers-party-release-statement-on-closure-of-fairhill-health-centre-magherafelt.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Workers Party release statement on closure of Fairhill Health Centre, Magherafelt](https://www.derrynow.com/news/county-derry-post/1648934/workers-party-release-statement-on-closure-of-fairhill-health-centre-magherafelt.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sandy's African Food Hub: A Taste of Africa in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_06/IDNM_04-11-25_Sandys_African_Food_Hub_food_%282%29-1730904909334.jpg--.jpg?1730904910036 "Sandy's African Food Hub: A Taste of Africa in Derry")](https://www.derrynow.com/news/business/1649101/sandy-s-african-food-hub-a-taste-of-africa-in-derry.html)
+
+[Business](https://www.derrynow.com/section/1339/business)
+
+[Sandy's African Food Hub: A Taste of Africa in Derry](https://www.derrynow.com/news/business/1649101/sandy-s-african-food-hub-a-taste-of-africa-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
