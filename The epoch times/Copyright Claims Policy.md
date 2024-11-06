@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Latino Voter Support for Trump Grew in 2024: National Exit Poll](https://www.theepochtimes.com/us/latino-voter-support-for-trump-grew-in-2024-national-exit-poll-5754981)
+* [Trump Calls Election Result ‘Massive Victory for Democracy and Freedom’](https://www.theepochtimes.com/us/trump-calls-election-result-massive-victory-for-democracy-and-freedom-5755199)
     
-    NEW By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
-    [![Latino Voter Support for Trump Grew in 2024: National Exit Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Calls Election Result ‘Massive Victory for Democracy and Freedom’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Latino Voter Support for Trump Grew in 2024: National Exit Poll](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754788-voterline03-Charlotte-NC-Jennifer-Podis_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/latino-voter-support-for-trump-grew-in-2024-national-exit-poll-5754981)
-* [Angela Alsobrooks Beats Larry Hogan in Maryland US Senate Race](https://www.theepochtimes.com/us/angela-alsobrooks-beats-larry-hogan-in-maryland-us-senate-race-5753684)
+    ![Trump Calls Election Result ‘Massive Victory for Democracy and Freedom’](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755150-Trump-Win-1_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-calls-election-result-massive-victory-for-democracy-and-freedom-5755199)
+* [World Leaders Congratulate Trump on Winning Presidency](https://www.theepochtimes.com/us/world-leaders-congratulate-trump-on-winning-presidency-5755180)
     
     NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Angela Alsobrooks Beats Larry Hogan in Maryland US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![World Leaders Congratulate Trump on Winning Presidency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Angela Alsobrooks Beats Larry Hogan in Maryland US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739860-FotoJet-205x123.jpg.webp)](https://www.theepochtimes.com/us/angela-alsobrooks-beats-larry-hogan-in-maryland-us-senate-race-5753684)
-* [Florida Rejects Measure to Legalize Recreational Marijuana](https://www.theepochtimes.com/us/florida-rejects-measure-to-legalize-recreational-marijuana-5754996)
+    ![World Leaders Congratulate Trump on Winning Presidency](https://img.theepochtimes.com/assets/uploads/2019/03/25/presidnet-donald-trump-prime-minister-benjamin-netanyahu-1132776809-205x123.jpg.webp)](https://www.theepochtimes.com/us/world-leaders-congratulate-trump-on-winning-presidency-5755180)
+* [Rep. Molinaro Unseated as Other Incumbents Win Reelection in New York House Races](https://www.theepochtimes.com/us/rep-molinaro-unseated-as-other-incumbents-win-reelection-in-new-york-house-races-5752125)
     
-    1hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    1hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Florida Rejects Measure to Legalize Recreational Marijuana](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Rep. Molinaro Unseated as Other Incumbents Win Reelection in New York House Races](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Florida Rejects Measure to Legalize Recreational Marijuana](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754745-Florida-Voting-2_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-rejects-measure-to-legalize-recreational-marijuana-5754996)
-* [FTC Says Collector Tricked Consumers Into Paying Millions in Bogus Debt](https://www.theepochtimes.com/us/ftc-says-collector-tricked-consumers-into-paying-millions-in-bogus-debt-5753795)
+    ![Rep. Molinaro Unseated as Other Incumbents Win Reelection in New York House Races](https://img.theepochtimes.com/assets/uploads/2023/10/04/id5504193-10042023-DSC04633-Marcus-Molinaro-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-molinaro-unseated-as-other-incumbents-win-reelection-in-new-york-house-races-5752125)
+* [Californians Choose Tougher Drug and Theft Penalties, Reject Rent Control Measure: Early Results](https://www.theepochtimes.com/us/californians-choose-tougher-drug-and-theft-penalties-reject-rent-control-measure-early-results-5754088)
     
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    2hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
-    [![FTC Says Collector Tricked Consumers Into Paying Millions in Bogus Debt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Californians Choose Tougher Drug and Theft Penalties, Reject Rent Control Measure: Early Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FTC Says Collector Tricked Consumers Into Paying Millions in Bogus Debt](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706270-244month-day-year-Federal-Trade-Commission-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-says-collector-tricked-consumers-into-paying-millions-in-bogus-debt-5753795)
-* [Florida Rejects Measure to Make Abortion a Right](https://www.theepochtimes.com/us/florida-rejects-measure-to-make-abortion-a-right-5752065)
+    ![Californians Choose Tougher Drug and Theft Penalties, Reject Rent Control Measure: Early Results](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754141-Voting-California-205x123.jpg.webp)](https://www.theepochtimes.com/us/californians-choose-tougher-drug-and-theft-penalties-reject-rent-control-measure-early-results-5754088)
+* [Trump Projected to Win 2024 Presidential Election](https://www.theepochtimes.com/us/trump-declares-victory-in-presidential-contest-5754642)
     
-    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    2hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov), [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Florida Rejects Measure to Make Abortion a Right](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Projected to Win 2024 Presidential Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Florida Rejects Measure to Make Abortion a Right](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751430-DeSantis-Campaigns-Against-Amendment-4-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-rejects-measure-to-make-abortion-a-right-5752065)
-* [Republican Rick Scott Wins Reelection in Florida US Senate Race](https://www.theepochtimes.com/us/republican-rick-scott-wins-reelection-in-florida-us-senate-race-5751107)
+    ![Trump Projected to Win 2024 Presidential Election](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755162-Trump-Win-3_JF_11052024_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-declares-victory-in-presidential-contest-5754642)
+* [Trump Wins Key Battleground State Pennsylvania](https://www.theepochtimes.com/us/trump-takes-pennsylvania-5754052)
     
     2hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Republican Rick Scott Wins Reelection in Florida US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Wins Key Battleground State Pennsylvania](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Republican Rick Scott Wins Reelection in Florida US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5754970-GettyImages-2180265471-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-rick-scott-wins-reelection-in-florida-us-senate-race-5751107)
-* [Appeals Court Voids Biden’s $15 Federal Contractor Minimum Wage, Citing Overreach](https://www.theepochtimes.com/us/appeals-court-voids-bidens-15-federal-contractor-minimum-wage-citing-overreach-5754839)
-    
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Appeals Court Voids Biden’s $15 Federal Contractor Minimum Wage, Citing Overreach](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Appeals Court Voids Biden’s $15 Federal Contractor Minimum Wage, Citing Overreach](https://img.theepochtimes.com/assets/uploads/2021/02/24/biden-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-voids-bidens-15-federal-contractor-minimum-wage-citing-overreach-5754839)
-* [6 Insights From the First Exit Poll in Georgia](https://www.theepochtimes.com/us/six-insights-from-the-first-exit-poll-in-georgia-5754910)
+    ![Trump Wins Key Battleground State Pennsylvania](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755197-GettyImages-2182503287-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-takes-pennsylvania-5754052)
+* [Trump Gains Ground With Latino Voters in Pennsylvania, Nevada: Exit Poll](https://www.theepochtimes.com/us/trump-gains-ground-with-latino-voters-in-pennsylvania-nevada-exit-poll-5755045)
     
     3hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![6 Insights From the First Exit Poll in Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Gains Ground With Latino Voters in Pennsylvania, Nevada: Exit Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![6 Insights From the First Exit Poll in Georgia](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754757-11052024-DSC08185-voters-November-5-205x123.jpg.webp)](https://www.theepochtimes.com/us/six-insights-from-the-first-exit-poll-in-georgia-5754910)
-* [GOP Flips Senate Seat as Jim Justice Wins in West Virginia](https://www.theepochtimes.com/us/gop-flips-senate-seat-as-jim-justice-wins-in-west-virginia-5754932)
+    ![Trump Gains Ground With Latino Voters in Pennsylvania, Nevada: Exit Poll](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755066-GettyImages-2183092941-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-gains-ground-with-latino-voters-in-pennsylvania-nevada-exit-poll-5755045)
+* [Harris Will Not Address Supporters on Election Night, Campaign Co-Chair Says](https://www.theepochtimes.com/us/harris-will-not-address-supporters-on-election-night-campaign-co-chair-says-5755106)
     
-    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![GOP Flips Senate Seat as Jim Justice Wins in West Virginia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Will Not Address Supporters on Election Night, Campaign Co-Chair Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Flips Senate Seat as Jim Justice Wins in West Virginia](https://img.theepochtimes.com/assets/uploads/2024/05/15/id5650791-Jim-Justice-AP24131039282786-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-flips-senate-seat-as-jim-justice-wins-in-west-virginia-5754932)
-* [North Carolina Voters Share Stories of Historic Election Season](https://www.theepochtimes.com/us/north-carolina-voters-share-stories-of-historic-election-season-5754889)
+    ![Harris Will Not Address Supporters on Election Night, Campaign Co-Chair Says](https://img.theepochtimes.com/assets/uploads/2017/03/25/AP17082753303884-ap-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-will-not-address-supporters-on-election-night-campaign-co-chair-says-5755106)
+* [Harris Wins Reliably Blue Oregon, Swing District House Seat Too Close to Call](https://www.theepochtimes.com/us/harris-wins-reliably-blue-oregon-swing-district-house-seat-too-close-to-call-5755102)
     
-    3hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    4hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
     
-    [![North Carolina Voters Share Stories of Historic Election Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Wins Reliably Blue Oregon, Swing District House Seat Too Close to Call](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![North Carolina Voters Share Stories of Historic Election Season](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754787-voterline02-Charlotte-NC-Jennifer-Podis_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-voters-share-stories-of-historic-election-season-5754889)
+    ![Harris Wins Reliably Blue Oregon, Swing District House Seat Too Close to Call](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729509-Oregon-voters-AP24267827041959-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-wins-reliably-blue-oregon-swing-district-house-seat-too-close-to-call-5755102)
+* [Trump Declared Victor in Georgia, 2nd Swing State Called for Former President](https://www.theepochtimes.com/us/trump-declared-victor-in-georgia-2nd-swing-state-called-for-former-president-5754075)
+    
+    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![Trump Declared Victor in Georgia, 2nd Swing State Called for Former President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Declared Victor in Georgia, 2nd Swing State Called for Former President](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755034-Trump-1_JF_08292024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-declared-victor-in-georgia-2nd-swing-state-called-for-former-president-5754075)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
