@@ -178,6 +178,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * [Enterprise File Storage](https://www.ovhcloud.com/en/storage-solutions/enterprise-file-storage/) Fully managed file storage based on NetApp ONTAP Select
             * [HA-NAS](https://www.ovhcloud.com/en/storage-solutions/nas-ha/) Centralised storage or backup space for your file data
+            * Cloud Disk Array A scalable storage solution based on CEPH technology
             * [Veeam Enterprise Plus](https://www.ovhcloud.com/en/storage-solutions/veeam-enterprise/) The ultimate solution for protecting your data in a way that fits your needs
         * Use cases
             
@@ -951,6 +952,7 @@ Back to top
     
     * Press
     * Blog
+    * [Black Friday](https://www.ovhcloud.com/en/black-friday/)
     
 * Social networks
     
