@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Fred Matteson](https://cdn.returningveterans.org/images/honor/Fred_Matteson.jpg)  
+![Charlie Judoin](https://cdn.returningveterans.org/images/honor/15_Judoin.jpg)  
 
-**In Honor of Fred Matteson**  
-United States Marine Corps  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Charlie Judoin**  
+United States Army  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/06/24 - 1:24:15  
+Printed 11/06/24 - 7:28:03  
 © 2024 Returning Veterans Project
