@@ -47,6 +47,11 @@ Skip links
     
     [Press releases](https://texasgop.org/category/press-releases/)
     
+    [Official Trump Statement](https://texasgop.org/official-trump-statement/)
+    --------------------------------------------------------------------------
+    
+    [Press releases](https://texasgop.org/category/press-releases/)
+    
     [Official Cruz Statement](https://texasgop.org/official-cruz-statement/)
     ------------------------------------------------------------------------
     
@@ -54,11 +59,6 @@ Skip links
     
     [“Limited Term” Driver’s Licenses](https://texasgop.org/texas-gop-chair-abraham-george-limited-term-dl/)
     --------------------------------------------------------------------------------------------------------
-    
-    [Press releases](https://texasgop.org/category/press-releases/)
-    
-    [Texas GOP Chair Abraham George Announces Major Investment In Legislative Races](https://texasgop.org/texas-gop-chair-abraham-george-announces-major-investment-in-legislative-races/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
