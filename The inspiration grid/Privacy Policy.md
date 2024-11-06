@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-oupas-design-feature.jpg)
+
+[](https://theinspirationgrid.com/wonderful-paper-creations-by-oupas-design/)
+
+### Wonderful Paper Creations by Oupas Design
+
+![](https://inspgr.id/app/uploads/2024/11/3d-dream-car-feature.jpg)
+
+[](https://theinspirationgrid.com/dream-car-a-3d-tribute-by-tianchen-deng/)
+
+### Dream Car: A 3D Tribute by TianChen Deng
+
 ![](https://inspgr.id/app/uploads/2024/11/architecture-the-sphinx-feature.jpg)
 
 [](https://theinspirationgrid.com/the-sphinx-a-striking-minimalist-residence/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/65-degrees-north-gorgeous-photos-by-maxime-vantorre/)
 
 ### 65 Degrees North: Gorgeous Photos by Maxime Vantorre
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-rokas-aleliunas-feature.jpg)
-
-[](https://theinspirationgrid.com/vibrant-illustrated-portraits-by-rokas-aleliunas/)
-
-### Vibrant Illustrated Portraits by Rokas Aleliunas
-
-![](https://inspgr.id/app/uploads/2024/10/murals-ben-johnston-24-feature.jpg)
-
-[](https://theinspirationgrid.com/amazing-lettering-creations-by-ben-johnston/)
-
-### Amazing Lettering Creations by Ben Johnston
 
 Awesome products for creatives
 ------------------------------
