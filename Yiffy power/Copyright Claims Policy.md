@@ -83,21 +83,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 649 1
+0 663 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-ferr0nutella-director/)
+[](https://yiff-party.com/yiff/anonymous-character-and-fennix-epic-games-and-etc-created-by-natuss/)
 
-[directed by ferr0nutella (director)](https://yiff-party.com/yiff-ai-premium/directed-by-ferr0nutella-director/)
+[anonymous character and fennix (epic games and etc) created by natuss](https://yiff-party.com/yiff/anonymous-character-and-fennix-epic-games-and-etc-created-by-natuss/)
 
-0 30 0
+0 86 0
 
 October 7, 2024
 
-[](https://yiff-party.com/yiff/keith-keiser-twokinds-created-by-tokifuji/)
+[](https://yiff-party.com/yiff/created-by-silentbandit/)
 
-[keith keiser (twokinds) created by tokifuji](https://yiff-party.com/yiff/keith-keiser-twokinds-created-by-tokifuji/)
+[created by silentbandit](https://yiff-party.com/yiff/created-by-silentbandit/)
 
 0 2 0
 
