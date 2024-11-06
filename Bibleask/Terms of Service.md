@@ -1,8 +1,6 @@
 [Skip to content](#content "Skip to content")
 
-[![BibleAsk-Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2070'%3E%3C/svg%3E)
-
-![BibleAsk-Logo](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png)](https://bibleask.org/)
+[![BibleAsk-Logo](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png)](https://bibleask.org/)
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20155%2075'%3E%3C/svg%3E)
 
@@ -209,8 +207,6 @@ Download our apps
 ![Download the BibleAsk apps](https://bibleask.org/wp-content/uploads/bibleask-apps.png)](https://bibleask.org/apps/)
 
 Subscribe (Weekly Updates)
-
- 
 
 \* indicates required
 
