@@ -414,9 +414,9 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. c
+1. excel
     
-2. data science
+2. web development
     
 3. French
     
@@ -424,28 +424,28 @@ Most common
 Popular subjects
 ----------------
 
-1. [Data Analysis
+1. [Computer Science
     
-    8,547 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Computer Science
+    42,177 courses](https://www.classcentral.com/subject/cs)
+2. [Cybersecurity
     
-    42,054 courses](https://www.classcentral.com/subject/cs)
-3. [Artificial Intelligence
+    16,602 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Digital Marketing
     
-    13,262 courses](https://www.classcentral.com/subject/ai)
+    6,070 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Food as Medicine
+1. [Improving Your Study Techniques
     
-    Monash University](https://www.classcentral.com/course/food-as-medicine-5742)
-2. [Spatial Data Science: The New Frontier in Analytics
+    University of Groningen](https://www.classcentral.com/course/improving-study-techniques-13420)
+2. [How to Succeed at: Interviews
     
-    Esri](https://www.classcentral.com/course/independent-spatial-data-science-the-new-frontier-in-analytics-17227)
-3. [Understanding Medical Research: Your Facebook Friend is Wrong
+    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
+3. [Machine Learning for Musicians and Artists
     
-    Yale University](https://www.classcentral.com/course/medical-research-19515)
+    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
