@@ -1,4 +1,4 @@
-Tuesday, November 5 2024
+Wednesday, November 6 2024
 
 Breaking News
 
@@ -182,6 +182,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [My Favorite Appendix Carry Holsters](https://www.thegunpage.com/my-favorite-appendix-carry-holsters/10611691)
+* [POTD: U.S. Army Soldiers In Iraqi Kurdistan Region](https://www.thegunpage.com/potd-u-s-army-soldiers-in-iraqi-kurdistan-region/10611692)
 * [2024 Election Fears Fail to Drive Increase in Gun Sales](https://www.thegunpage.com/2024-election-fears-fail-to-drive-increase-in-gun-sales/10611689)
 * [At a Loss: Voters Still Have No Idea What Harris Stands For, Neither Does She](https://www.thegunpage.com/at-a-loss-voters-still-have-no-idea-what-harris-stands-for-neither-does-she/10611686)
 * [Buy A Rossi Rifle, Get A Free Revolver](https://www.thegunpage.com/buy-a-rossi-rifle-get-a-free-revolver/10611688)
@@ -190,8 +192,6 @@ Recent Posts
 * [Charges Dropped Against Georgia Gun Owner Over Illegal Storage Ordinance](https://www.thegunpage.com/charges-dropped-against-georgia-gun-owner-over-illegal-storage-ordinance/10611676)
 * [Century BFT74 And BFT556: USA-Made Small-Bore AK](https://www.thegunpage.com/century-bft74-and-bft556-usa-made-small-bore-ak/10611681)
 * [Biden-Harris Action Seeks to Close Shooting Access on 1.3 Million Acres of Public Land in Utah](https://www.thegunpage.com/biden-harris-action-seeks-to-close-shooting-access-on-1-3-million-acres-of-public-land-in-utah/10611673)
-* [Walther Arms Announces New Promo Deals](https://www.thegunpage.com/walther-arms-announces-new-promo-deals/10611678)
-* [Gun Owners, Remember to Vote Today](https://www.thegunpage.com/gun-owners-remember-to-vote-today/10611669)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
