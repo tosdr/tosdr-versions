@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Борис Грызлов: Успешный опыт работы Юрия Слюсаря позволит реализовать все намерения по развитию Ростовской области](https://cdn.er.ru/media/news/November2024/pQsQVf0qwAH4b88vLKqi-small.jpg)](https://er.ru/activity/news/boris-gryzlov-uspeshnyj-opyt-raboty-yuriya-slyusarya-pozvolit-realizovat-vse-namereniya-po-razvitiyu-rostovskoj-oblasti)
+
+[Борис Грызлов: Успешный опыт работы Юрия Слюсаря позволит реализовать все намерения по развитию Ростовской области](https://er.ru/activity/news/boris-gryzlov-uspeshnyj-opyt-raboty-yuriya-slyusarya-pozvolit-realizovat-vse-namereniya-po-razvitiyu-rostovskoj-oblasti)
+
+[#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#Слюсарь](https://er.ru/activity/news?tags%5B0%5D=35681) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Ростовская область](https://er.ru/activity/news?tags%5B0%5D=1284) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60)
+
+Сегодня 10:05
+
 [![Владимир Путин предложил секретарю реготделения «Единой России», главе ЕАО Ростиславу Гольдштейну стать врио главы Коми](https://cdn.er.ru/media/news/November2024/sK8Rti2qBD7Z2Ya5Ud2E-small.jpg)](https://er.ru/activity/news/vladimir-putin-predlozhil-sekretaryu-regotdeleniya-edinoj-rossii-glave-eao-rostislavu-goldshtejnu-stat-vrio-glavy-komi)
 
 [Владимир Путин предложил секретарю реготделения «Единой России», главе ЕАО Ростиславу Гольдштейну стать врио главы Коми](https://er.ru/activity/news/vladimir-putin-predlozhil-sekretaryu-regotdeleniya-edinoj-rossii-glave-eao-rostislavu-goldshtejnu-stat-vrio-glavy-komi)
@@ -338,14 +346,6 @@
 [#Макушева](https://er.ru/activity/news?tags%5B0%5D=127600) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285)
 
 05.11.24
-
-[![Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://cdn.er.ru/media/news/November2024/VC2dcavPMvhRU4SrSYwE-small.jpg)](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
-
-[Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
-
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-04.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
