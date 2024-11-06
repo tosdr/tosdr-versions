@@ -2,8 +2,6 @@
 
         
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Notice](https://www.jeffco.us/4520/2024-Ballot-Measure-and-Statement) [Severe Cold Weather Resources Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Severe-Cold-Weather-Resources-1225) [2024 Ballot Measure and Statement Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=2024-Ballot-Measure-and-Statement-1619)
-
  [![Search](/ImageRepository/Document?documentID=76)](https://www.jeffco.us/Search/Results) Search
 
  
