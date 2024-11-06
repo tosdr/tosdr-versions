@@ -545,7 +545,7 @@ Security Measures for the Codecov Service include the technical and organization
 
 © 2024 • Sentry is a registered Trademark of Functional Software, Inc.
 
-[](https://opensourcepledge.com/)[](https://sentry.io/)
+[](https://opensourcepledge.com/members/sentry/)[](https://sentry.io/)
 
 A peek at your privacy
 ----------------------
