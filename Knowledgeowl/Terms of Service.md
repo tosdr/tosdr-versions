@@ -1411,7 +1411,7 @@ If you do not agree to the new terms and conditions, you may terminate this agre
     
 * [Author team order consistently displayed](https://www.knowledgeowl.com/help/author-team-order-consistently-displayed)
     
-* [Conditional content based on tags](https://www.knowledgeowl.com/help/conditional-content-based-on-tags)
+* [Add a new glossary term](https://www.knowledgeowl.com/help/populate-the-glossary)
     
 
    
