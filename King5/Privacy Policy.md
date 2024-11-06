@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_16x9.jpg) ![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_360x203.jpg)](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075)
+    *  [![](https://media.king5.com/assets/KING/images/1bc79eba-c968-456f-8cd7-7073302bb01f/20241106T075847/1bc79eba-c968-456f-8cd7-7073302bb01f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bc79eba-c968-456f-8cd7-7073302bb01f/20241106T075847/1bc79eba-c968-456f-8cd7-7073302bb01f_360x203.jpg)](https://www.king5.com/article/news/local/couple-killed-newcastle-tree/281-8a91a231-7997-4ac5-b9f6-ed508871204b)
         
-        #### [Granite Falls parents plead guilty to manslaughter charges in accidental shooting of infant daughter](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075) [![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_16x9.jpg) ![](https://media.king5.com/assets/KING/images/31d19990-eb58-4b1d-873d-4015b541a432/31d19990-eb58-4b1d-873d-4015b541a432_360x203.jpg)](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075)
+        #### [Family, friends mourn loss of couple killed by tree in Newcastle](https://www.king5.com/article/news/local/couple-killed-newcastle-tree/281-8a91a231-7997-4ac5-b9f6-ed508871204b)
         
-        #### [Granite Falls parents plead guilty to manslaughter charges in accidental shooting of baby](https://www.king5.com/article/news/local/granite-falls-parents-plead-guilty-manslaughter-charge-accidental-shooting-infant-daughter/281-26799660-7497-4d9d-948a-ae4cea8dd075)
-    *  [![](https://media.king5.com/assets/KING/images/3582772e-9397-4924-bd67-0c7aa4248686/20241106T012101/3582772e-9397-4924-bd67-0c7aa4248686_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3582772e-9397-4924-bd67-0c7aa4248686/20241106T012101/3582772e-9397-4924-bd67-0c7aa4248686_360x203.jpg)](https://www.king5.com/article/news/local/woman-filing-lawsuit-against-bicyclist-hit-her-east-lake-sammamish-trail/281-52c3bb01-0dce-4880-8aa7-84cc89b283f9)
+    *  [![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_360x203.jpg)](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
         
-        #### [Woman filing lawsuit against bicyclist who hit her on popular East Lake Sammamish Trail](https://www.king5.com/article/news/local/woman-filing-lawsuit-against-bicyclist-hit-her-east-lake-sammamish-trail/281-52c3bb01-0dce-4880-8aa7-84cc89b283f9)
+        #### [Key races: Ferguson projected to be governor, Cantwell expected to serve 5th term in Senate](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-48°
+45°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
