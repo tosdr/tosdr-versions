@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 663 1
+0 677 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/anonymous-character-and-fennix-epic-games-and-etc-created-by-natuss/)
+[](https://yiff-party.com/yiff/zhen-kung-fu-panda-and-etc-created-by-smitty-g/)
 
-[anonymous character and fennix (epic games and etc) created by natuss](https://yiff-party.com/yiff/anonymous-character-and-fennix-epic-games-and-etc-created-by-natuss/)
+[zhen (kung fu panda and etc) created by smitty g](https://yiff-party.com/yiff/zhen-kung-fu-panda-and-etc-created-by-smitty-g/)
 
-0 86 0
+0 146 0
 
 October 7, 2024
 
-[](https://yiff-party.com/yiff/created-by-silentbandit/)
+[](https://yiff-party.com/yiff/fzzr-and-nova-mythology-created-by-dicorn-artist/)
 
-[created by silentbandit](https://yiff-party.com/yiff/created-by-silentbandit/)
+[fzzr and nova (mythology) created by dicorn (artist)](https://yiff-party.com/yiff/fzzr-and-nova-mythology-created-by-dicorn-artist/)
 
-0 2 0
+0 1 0
 
 November 6, 2024
 
