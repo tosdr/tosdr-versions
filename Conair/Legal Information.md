@@ -571,7 +571,7 @@ https://www.conair.com/cart?lang=en\_US
         * [Travel Neck Pillows](https://www.conair.com/neck-pillows?lang=en_US)
         * [Eye Masks](https://www.conair.com/eye-mask?lang=en_US)
     
-    * [Travel Power Adapters and Converters](https://www.conair.com/power?lang=en_US)
+    * [Travel Power Adapters/Converters](https://www.conair.com/power?lang=en_US)
         
         * [Adapters](https://www.conair.com/power-adapters?lang=en_US)
         * [Converters](https://www.conair.com/power-converters?lang=en_US)
@@ -624,7 +624,7 @@ https://www.conair.com/cart?lang=en\_US
         * [Eye Masks](https://www.conair.com/eye-mask?lang=en_US)
         
         [![](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwdeb38a0b/images/arrow-expand.svg)](https://www.conair.com/comfort?lang=en_US)
-    * [Travel Power Adapters and Converters](https://www.conair.com/power?lang=en_US)
+    * [Travel Power Adapters/Converters](https://www.conair.com/power?lang=en_US)
         
         * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
             
