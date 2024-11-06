@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Reba McEntire & Linda Davis Sing...](https://classiccountrymusic.com/reba-mcentire-linda-davis-sing-does-he-love-you-at-1993-cma-awards/)
 * [Hear A Previously Unreleased Recording Of...](https://classiccountrymusic.com/hear-a-previously-unreleased-recording-of-george-jones-tender-years/)
 * [Dolly Parton Addresses Rumors That She...](https://classiccountrymusic.com/dolly-parton-addresses-rumors-that-she-is-retiring-after-her-next-album/)
-* [Trace Adkins Salutes Military Veterans In...](https://classiccountrymusic.com/trace-adkins-salutes-military-veterans-in-music-video-for-still-a-soldier/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
