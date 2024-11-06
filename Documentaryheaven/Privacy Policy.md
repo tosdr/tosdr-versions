@@ -118,16 +118,16 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Hungerford Massacre](/wp-content/thumbnails/8722-100x70.jpg?x53432)
+* [![The Pink Floyd Story: Which One’s Pink?](/wp-content/thumbnails/9386-100x70.jpeg?x53432)
     
-    The Hungerford Massacre
+    The Pink Floyd Story: Which One’s Pink?
     
-    On a summers day in 1987, a quite English town became the victim of a one man killing spree. Scenes shown in this film reconstruct events based on the eye witness accounts of those who were involved.](https://documentaryheaven.com/hungerford-massacre/ "The Hungerford Massacre")
-* [![The Manhattan Project](/wp-content/thumbnails/321-100x70.png?x53432)
+    In 2005 for the first time in 25 years the members of Pink Floyd got back together to play a live show for Live Aid, for a precious 20 minutes they were once again the legendary Pink Floyd, a band tha](https://documentaryheaven.com/pink-floyd-story-which-ones-pink/ "The Pink Floyd Story: Which One’s Pink?")
+* [![Tour of Duty: Australia’s Secret War](/wp-content/thumbnails/6331-100x70.jpg?x53432)
     
-    The Manhattan Project
+    Tour of Duty: Australia’s Secret War
     
-    In a race against the Nazis to develop an atomic bomb, the USA assigned leading scientists like Albert Einstein from all over the world to The Manhattan Project, an incredible scientific, engineering](https://documentaryheaven.com/the-manhattan-project/ "The Manhattan Project")
-* [![Lovecraft: Fear of the Unknown](/wp-content/thumbnails/7063-100x70.jpg?x53432)
+    For the first time ever, Australia’s most secretive soldiers have invited a TV crew to document them in Afghanistan.This exclusive documentary, over three years in the making, follows investigativ](https://documentaryheaven.com/tour-of-duty-australias-secret-war/ "Tour of Duty: Australia’s Secret War")
+* [![PT 3/3 Nerds 2.0.1: A Brief History of the Internet](/wp-content/thumbnails/2565-100x70.jpg?x53432)
     
-    Lovecraft: Fear of the Unknown
+    PT 3/3 Nerds 2.0.1: A Brief History of the Internet
     
-    H.P. Lovecraft was the forefather of modern horror fiction. He inspired writers such as Stephen King, Robert Bloch and Neil Gaiman, but what lead an Old World, xenophobic gentleman to create one of li](https://documentaryheaven.com/lovecraft-fear-of-the-unknown/ "Lovecraft: Fear of the Unknown")
-* [![Inside Britain’s Fattest Man](/wp-content/thumbnails/13826-100x70.jpg?x53432)
+    Wiring the WorldNerds 2.0.1: A Brief History of the Internet (1998) is a three-hour documentary film written and hosted by Mark Stephens under the pseudonym Robert X. Cringely and produced by Oreg](https://documentaryheaven.com/pt-33-nerds-2-0-1-a-brief-history-of-the-internet/ "PT 3/3 Nerds 2.0.1: A Brief History of the Internet")
+* [![EP 5/6 The Private Life of Plants](/wp-content/thumbnails/2496-100x70.jpg?x53432)
     
-    Inside Britain’s Fattest Man
+    EP 5/6 The Private Life of Plants
     
-    At the dawn of the 21st century there is one last unexplored territory on Earth, it's a place of awesome spectacle, unseen horrors and terrifying life and death battles between man and nature, where i](https://documentaryheaven.com/inside-britains-fattest-man/ "Inside Britain’s Fattest Man")
-* [![The Drugging of Our Children](/wp-content/thumbnails/1858-100x70.jpg?x53432)
+    Broadcast 2 February 1995, the fifth programme explores the alliances formed between the animal and plant worlds. Attenborough dives into Australia’s Great Barrier Reef and contrasts the nocturnal fee](https://documentaryheaven.com/the-private-life-of-plants-5/ "EP 5/6 The Private Life of Plants")
+* [![World War II: Behind Closed Doors](/wp-content/thumbnails/5750-100x70.jpg?x53432)
     
-    The Drugging of Our Children
+    World War II: Behind Closed Doors
     
-    In the absence of any objective medical tests to determine who has ADD or ADHD, doctors rely in part on standardized assessments and the impressions of teachers and guardians while the they administer](https://documentaryheaven.com/the-drugging-of-our-children/ "The Drugging of Our Children")
+    This a documentary film on the role of Joseph Stalin during World War II. The film combines narrative-led documentary segments, interwoven by dramatic re-enactments, with actors representing main poli](https://documentaryheaven.com/world-war-ii-behind-closed-doors/ "World War II: Behind Closed Doors")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
