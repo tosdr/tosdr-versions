@@ -128,11 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-    * [US Election Seat Tally](https://www.news18.com/elections/us-election/)
-    * [Pennsylvania Election Result](https://www.news18.com/world/pennsylvania-election-result-2024-updates-will-kamala-harris-continue-bidens-winning-streak-9109033.html)
-    * [Khushi Kapoor](https://www.news18.com/web-stories/entertainment/khushi-kapoor-turns-24-7-of-her-family-photos-with-janhvi-kapoor-and-boney-kapoor-2585804/)
-    * [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-rahul-rawail-made-her-cry-rupali-gangulys-stepdaughter-claims-she-gives-dad-odd-meds-9109195.html)
+    * [Donald Trump](https://www.news18.com/world/donald-trump-speech-highlights-us-president-elect-calls-to-seal-borders-vows-to-stop-wars-9110916.html)
+    * [US Election Results](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
+    * [US Election Tally](https://www.news18.com/elections/us-election/)
+    * [Ind vs SA](https://www.news18.com/cricket/mayank-yadav-out-5-players-in-complete-list-of-changes-in-team-india-for-south-africa-t20is-9110571.html)
+    * [Usha Chilukuri Vance](https://www.news18.com/world/who-is-usha-chilukuri-vance-set-to-become-first-india-origin-second-lady-of-us-9111114.html)
+    * [Alia Bhatt](https://www.news18.com/movies/alia-bhatt-raha-enjoy-watching-monkeys-in-pic-shared-by-nani-soni-razdan-no-feeling-in-the-world-9111097.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -168,11 +169,12 @@ Follow us on
 
 In Trends:
 
-* [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-* [US Election Seat Tally](https://www.news18.com/elections/us-election/)
-* [Pennsylvania Election Result](https://www.news18.com/world/pennsylvania-election-result-2024-updates-will-kamala-harris-continue-bidens-winning-streak-9109033.html)
-* [Khushi Kapoor](https://www.news18.com/web-stories/entertainment/khushi-kapoor-turns-24-7-of-her-family-photos-with-janhvi-kapoor-and-boney-kapoor-2585804/)
-* [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-rahul-rawail-made-her-cry-rupali-gangulys-stepdaughter-claims-she-gives-dad-odd-meds-9109195.html)
+* [Donald Trump](https://www.news18.com/world/donald-trump-speech-highlights-us-president-elect-calls-to-seal-borders-vows-to-stop-wars-9110916.html)
+* [US Election Results](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
+* [US Election Tally](https://www.news18.com/elections/us-election/)
+* [Ind vs SA](https://www.news18.com/cricket/mayank-yadav-out-5-players-in-complete-list-of-changes-in-team-india-for-south-africa-t20is-9110571.html)
+* [Usha Chilukuri Vance](https://www.news18.com/world/who-is-usha-chilukuri-vance-set-to-become-first-india-origin-second-lady-of-us-9111114.html)
+* [Alia Bhatt](https://www.news18.com/movies/alia-bhatt-raha-enjoy-watching-monkeys-in-pic-shared-by-nani-soni-razdan-no-feeling-in-the-world-9111097.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
