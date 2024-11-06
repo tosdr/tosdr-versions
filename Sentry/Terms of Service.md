@@ -354,7 +354,7 @@ The “**Effective Date**” of this Agreement is the date which is the earlier 
 
 © 2024 • Sentry is a registered Trademark of Functional Software, Inc.
 
-[](https://opensourcepledge.com/)[](https://sentry.io/)
+[](https://opensourcepledge.com/members/sentry/)[](https://sentry.io/)
 
 A peek at your privacy
 ----------------------
