@@ -633,13 +633,11 @@ As a result, any European Consumer can use such platform for resolving any dispu
 
   
 
-![Transistor Logo](/images/transistor-mark-white.svg)
-
 Transistor provides podcast hosting and analytics for thousands of organizations, brands, and creatives around the world.
 
 [Learn how to start a podcast →](https://transistor.fm/how-to-start-a-podcast/)
 
-[Twitter](https://twitter.com/transistorfm) [YouTube](https://www.youtube.com/channel/UCY-RAM94RTpFuXvcYnRDqCA) [Facebook](https://facebook.com/transistor.fm) [Instagram](https://www.instagram.com/transistor.fm/) [Mastodon](https://podcastindex.social/@transistor)
+[Bluesky](https://bsky.app/profile/transistor.fm "Transistor on Bluesky") [YouTube](https://www.youtube.com/channel/UCY-RAM94RTpFuXvcYnRDqCA "Transistor on YouTube") [Facebook](https://facebook.com/transistor.fm "Transistor on Facebook") [Instagram](https://www.instagram.com/transistor.fm/ "Transistor on Instagram") [Mastodon](https://podcastindex.social/@transistor "Transistor on Mastadon")
 
 ### Podcast Solutions
 
