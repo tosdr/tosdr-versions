@@ -135,6 +135,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
+[Yen is the first of many Japanese assets set to pivot on U.S. election](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
+
+  [![A screen showing the yen's exchange rate against the U.S. dollar in July](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432252.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen showing the yen's exchange rate against the U.S. dollar in July")](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
+
 [Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
   [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
@@ -147,10 +151,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
 
-[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
-
-  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
-
 Editors' Picks
 --------------
 
@@ -159,6 +159,14 @@ Editors' Picks
 [Nearly half of Japanese married couples are 'sexless,' survey finds](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
   [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Yen is the first of many Japanese assets set to pivot on U.S. election](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
+
+By [Hideyuki Sano](https://www.japantimes.co.jp/author/2121/hideyuki-sano/ "Hideyuki Sano") and [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
+
+  [![A screen showing the yen's exchange rate against the U.S. dollar in July](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432252.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen showing the yen's exchange rate against the U.S. dollar in July")](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -183,12 +191,6 @@ By [Nancy Cook](https://www.japantimes.co.jp/author/3427/nancy-cook/ "Nancy Cook
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
-
-  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
 Podcast
 -------
@@ -251,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. anti-LGBTQ+ groups' spending in Africa soars, report finds](https://www.japantimes.co.jp/news/2024/11/06/world/society/us-anti-lgbtq-africa/ "U.S. anti-LGBTQ+ groups' spending in Africa soars, report finds")
+[Trump claims victory in U.S. election after wins in key swing states](https://www.japantimes.co.jp/news/2024/11/06/world/politics/us-election-trump-harris/ "Trump claims victory in U.S. election after wins in key swing states")
 
-20 mins ago
+22 mins ago
 
-[Nvidia rides AI wave to surpass Apple as world’s largest company](https://www.japantimes.co.jp/business/2024/11/06/companies/nvidia-ai-apple-largest-company/ "Nvidia rides AI wave to surpass Apple as world’s largest company")
+[Nintendo Switch sales drop as successor console looms](https://www.japantimes.co.jp/business/2024/11/06/companies/nintendo-switch-sales/ "Nintendo Switch sales drop as successor console looms")
 
-25 mins ago
+42 mins ago
 
-[Citizen panel nixes decision not to indict Hagiuda's secretary](https://www.japantimes.co.jp/news/2024/11/06/japan/politics/hagiuda-secretary-slush-funds/ "Citizen panel nixes decision not to indict Hagiuda's secretary")
+[American voters in Japan reflect divisions in home country](https://www.japantimes.co.jp/news/2024/11/06/japan/japan-us-election/ "American voters in Japan reflect divisions in home country")
 
-45 mins ago
+42 mins ago
 
-[Hoax bomb threats targeting polling places in battleground states: FBI](https://www.japantimes.co.jp/news/2024/11/06/world/politics/bomb-threats-russia-polling-places-fbi/ "Hoax bomb threats targeting polling places in battleground states: FBI")
+[Tokyo stocks rally and yen falls as Trump nears election win](https://www.japantimes.co.jp/business/2024/11/06/markets/trump-victory-markets/ "Tokyo stocks rally and yen falls as Trump nears election win")
 
-55 mins ago
+1 hours ago
 
-[Chinese group accused of hacking Singapore's Singtel in telecom attacks](https://www.japantimes.co.jp/news/2024/11/06/asia-pacific/crime-legal/chinese-hacking-singtel-telecom/ "Chinese group accused of hacking Singapore's Singtel in telecom attacks")
+[Seven & I is said to plan reducing stake in banking unit to 38%](https://www.japantimes.co.jp/business/2024/11/06/companies/seven-bank-stake-reduce/ "Seven & I is said to plan reducing stake in banking unit to 38%")
 
 1 hours ago
 
