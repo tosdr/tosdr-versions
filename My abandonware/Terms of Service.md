@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [pop'n music 8](https://www.myabandonware.com/game/pop-n-music-8-t7i)
-* [pop'n music 7](https://www.myabandonware.com/game/pop-n-music-7-t7h)
-* [pop'n music 6](https://www.myabandonware.com/game/pop-n-music-6-t7g)
-* [pop'n music 5](https://www.myabandonware.com/game/pop-n-music-5-t7f)
-* [Police Trainer 2](https://www.myabandonware.com/game/police-trainer-2-t7e)
+* [Hog Wild](https://www.myabandonware.com/game/hog-wild-t7x)
+* [OutRun 2 SP](https://www.myabandonware.com/game/outrun-2-sp-t7w)
+* [NBA Showtime: NBA on NBC](https://www.myabandonware.com/game/nba-showtime-nba-on-nbc-t7v)
+* [Melty Blood: Act Cadenza](https://www.myabandonware.com/game/melty-blood-act-cadenza-t7u)
+* [Mario Kart Arcade GP](https://www.myabandonware.com/game/mario-kart-arcade-gp-t7t)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
