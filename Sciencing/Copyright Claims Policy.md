@@ -1,188 +1,367 @@
-[](https://sciencing.com/)
+[![Sciencing](https://www.sciencing.com/img/sciencing-logo-RGB-negative.svg)](https://sciencing.com/)[](#)
 
-* [Sciencing\_Icons\_Science SCIENCE
-    =================================](https://sciencing.com/science/)
-    * [### Sciencing\_Icons\_Biology Biology](https://sciencing.com/biology/)
-        
-        * [### Sciencing\_Icons\_Cells Cells](https://sciencing.com/cells/)
-        * [### Sciencing\_Icons\_Molecular Molecular](https://sciencing.com/molecular/)
-        * [### Sciencing\_Icons\_Microorganisms Microorganisms](https://sciencing.com/microorganisms/)
-        * [### Sciencing\_Icons\_Genetics Genetics](https://sciencing.com/genetics/)
-        * [### Sciencing\_Icons\_Human Body Human Body](https://sciencing.com/human-body/)
-        * [### Sciencing\_Icons\_Ecology Ecology](https://sciencing.com/ecology/)
-    * [### Sciencing\_Icons\_Chemistry Chemistry](https://sciencing.com/chemistry/)
-        
-        * [### Sciencing\_Icons\_Atomic &amp; Molecular Structure Atomic & Molecular Structure](https://sciencing.com/atomic-molecular-structure/)
-        * [### Sciencing\_Icons\_Bonds Bonds](https://sciencing.com/bonds/)
-        * [### Sciencing\_Icons\_Reactions Reactions](https://sciencing.com/reactions/)
-        * [### Sciencing\_Icons\_Stoichiometry Stoichiometry](https://sciencing.com/stoichiometry/)
-        * [### Sciencing\_Icons\_Solutions Solutions](https://sciencing.com/solutions/)
-        * [### Sciencing\_Icons\_Acids &amp; Bases Acids & Bases](https://sciencing.com/acids-bases/)
-        * [### Sciencing\_Icons\_Thermodynamics Thermodynamics](https://sciencing.com/thermodynamics/)
-        * [### Sciencing\_Icons\_Organic Chemistry Organic Chemistry](https://sciencing.com/organic-chemistry/)
-    * [### Sciencing\_Icons\_Physics Physics](https://sciencing.com/physics/)
-        
-        * [### Sciencing\_Icons\_Fundamentals-Physics Fundamentals](https://sciencing.com/fundamentals-of-physics/)
-        * [### Mechanics](https://sciencing.com/mechanics/)
-        * [### Sciencing\_Icons\_Electronics Electronics](https://sciencing.com/electronics/)
-        * [### Sciencing\_Icons\_Waves Waves](https://sciencing.com/waves/)
-        * [### Sciencing\_Icons\_Energy Energy](https://sciencing.com/energy/)
-        * [### Sciencing\_Icons\_Fluid Fluid](https://sciencing.com/fluid/)
-        * [### Sciencing\_Icons\_Astronomy Astronomy](https://sciencing.com/astronomy/)
-    * [### Sciencing\_Icons\_Geology Geology](https://sciencing.com/geology/)
-        
-        * [### Sciencing\_Icons\_Fundamentals-Geology Fundamentals](https://sciencing.com/fundamentals-of-geology/)
-        * [### Sciencing\_Icons\_Minerals &amp; Rocks Minerals & Rocks](https://sciencing.com/minerals-rocks/)
-        * [### Sciencing\_Icons\_Earth Scructure Earth Structure](https://sciencing.com/earth-structure/)
-        * [### Sciencing\_Icons\_Fossils Fossils](https://sciencing.com/fossils/)
-        * [### Sciencing\_Icons\_Natural Disasters Natural Disasters](https://sciencing.com/natural-disasters/)
-    * [### Sciencing\_Icons\_Nature Nature](https://sciencing.com/nature/)
-        
-        * [### Sciencing\_Icons\_Ecosystems Ecosystems](https://sciencing.com/ecosystems/)
-        * [### Sciencing\_Icons\_Environment Environment](https://sciencing.com/environment/)
-        * [### Sciencing\_Icons\_Insects Insects](https://sciencing.com/insects/)
-        * [### Sciencing\_Icons\_Plants &amp; Mushrooms Plants & Mushrooms](https://sciencing.com/plants-mushrooms/)
-        * [### Sciencing\_Icons\_Animals Animals](https://sciencing.com/animals/)
-* [Sciencing\_Icons\_Math MATH
-    ===========================](https://sciencing.com/math/)
-    * [### Sciencing\_Icons\_Arithmetic Arithmetic](https://sciencing.com/arithmetic/)
-        
-        * [### Sciencing\_Icons\_Addition &amp; Subtraction Addition & Subtraction](https://sciencing.com/addition-subtraction/)
-        * [### Sciencing\_Icons\_Multiplication &amp; Division Multiplication & Division](https://sciencing.com/multiplication-division/)
-        * [### Sciencing\_Icons\_Decimals Decimals](https://sciencing.com/decimals/)
-        * [### Sciencing\_Icons\_Fractions Fractions](https://sciencing.com/fractions/)
-        * [### Sciencing\_Icons\_Conversions Conversions](https://sciencing.com/conversions/)
-    * [### Sciencing\_Icons\_Algebra Algebra](https://sciencing.com/algebra/)
-        
-        * [### Sciencing\_Icons\_Working with Units Working With Units](https://sciencing.com/working-with-units/)
-        * [### Sciencing\_Icons\_Equations &amp; Expressions Equations & Expressions](https://sciencing.com/equations-expressions/)
-        * [### Sciencing\_Icons\_Ratios &amp; Proportions Ratios & Proportions](https://sciencing.com/ratios-proportions/)
-        * [### Sciencing\_Icons\_Inequalities Inequalities](https://sciencing.com/inequalities/)
-        * [### Sciencing\_Icons\_Exponents &amp; Logarithms Exponents & Logarithms](https://sciencing.com/exponents-logarithms/)
-        * [### Sciencing\_Icons\_Factorization Factorization](https://sciencing.com/factorization/)
-        * [### Sciencing\_Icons\_Functions Functions](https://sciencing.com/functions/)
-        * [### Sciencing\_Icons\_Linear Equations Linear Equations](https://sciencing.com/linear-equations/)
-        * [### Sciencing\_Icons\_Graphs Graphs](https://sciencing.com/graphs/)
-        * [### Sciencing\_Icons\_Quadratics Quadratics](https://sciencing.com/quadratics/)
-        * [### Sciencing\_Icons\_Polynomials Polynomials](https://sciencing.com/polynomials/)
-    * [### Sciencing\_Icons\_Geometry Geometry](https://sciencing.com/geometry/)
-        
-        * [### Sciencing\_Icons\_Fundamentals-Geometry Fundamentals](https://sciencing.com/fundamentals-of-geometry/)
-        * [### Sciencing\_Icons\_Cartesian Cartesian](https://sciencing.com/cartesian/)
-        * [### Sciencing\_Icons\_Circles Circles](https://sciencing.com/circles/)
-        * [### Sciencing\_Icons\_Solids Solids](https://sciencing.com/solids/)
-        * [### Sciencing\_Icons\_Trigonometry Trigonometry](https://sciencing.com/trigonometry/)
-    * [### Sciencing\_Icons\_Probability-Statistics Probability & Statistics](https://sciencing.com/probability-statistics/)
-        
-        * [### Sciencing\_Icons\_Mean-Median-Mode Mean/Median/Mode](https://sciencing.com/mean-median-mode/)
-        * [### Sciencing\_Icons\_Independent-Dependent Variables Independent/Dependent Variables](https://sciencing.com/independent-dependent-variables/)
-        * [### Sciencing\_Icons\_Deviation Deviation](https://sciencing.com/deviation/)
-        * [### Sciencing\_Icons\_Correlation Correlation](https://sciencing.com/correlation/)
-        * [### Sciencing\_Icons\_Sampling Sampling](https://sciencing.com/sampling/)
-        * [### Sciencing\_Icons\_Distributions Distributions](https://sciencing.com/distributions/)
-        * [### Sciencing\_Icons\_Probability Probability](https://sciencing.com/probability/)
-    * [### Sciencing\_Icons\_Calculus Calculus](https://sciencing.com/calculus/)
-        
-        * [### Sciencing\_Icons\_Differentiation-Integration Differentiation/Integration](https://sciencing.com/differentiation-integration/)
-        * [### Sciencing\_Icons\_Application Application](https://sciencing.com/application/)
-* [Sciencing\_Icons\_Projects PROJECTS
-    ===================================](https://sciencing.com/science-projects/)
-    * [### Sciencing\_Icons\_Biology Biology](https://sciencing.com/biology-projects-activities/)
-    * [### Sciencing\_Icons\_Chemistry Chemistry](https://sciencing.com/chemistry-projects-activities/)
-    * [### Sciencing\_Icons\_Physics Physics](https://sciencing.com/physics-projects-activities/)
-    * [### Sciencing\_Icons\_Geology Geology](https://sciencing.com/geology-projects-activities/)
-    * [### Sciencing\_Icons\_Nature Nature](https://sciencing.com/nature-projects-activities/)
-    * [### Sciencing\_Icons\_Arithmetic Arithmetic](https://sciencing.com/arithmetic-projects-activities/)
-    * [### Sciencing\_Icons\_Algebra Algebra](https://sciencing.com/algebra-projects-activities/)
-    * [### Sciencing\_Icons\_Geometry Geometry](https://sciencing.com/geometry-projects-activities/)
-    * [### Sciencing\_Icons\_Probability-Statistics Probability & Statistics](https://sciencing.com/probability-statistics-projects-activities/)
-    * [### Sciencing\_Icons\_Calculus Calculus](https://sciencing.com/calculus-projects-activities/)
-* [Sciencing\_Icons\_News NEWS
-    ===========================](https://sciencing.com/news/)
-* [Share](#socialshare)
+* [Science](https://sciencing.com/category/science/)[ ] 
+    * [Astronomy](https://sciencing.com/category/astronomy/)
+    * [Biology](https://sciencing.com/category/biology/)
+    * [Chemistry](https://sciencing.com/category/chemistry/)
+    * [Geology](https://sciencing.com/category/geology/)
+    * [Nature](https://sciencing.com/category/nature/)
+    * [Physics](https://sciencing.com/category/physics/)
+* [Math](https://sciencing.com/category/math/)[ ] 
+    * [Algebra](https://sciencing.com/category/algebra/)
+    * [Geometry](https://sciencing.com/category/geometry/)
+* [Technology](https://sciencing.com/category/technology/)[ ] 
+    * [Electronics](https://sciencing.com/category/electronics/)
+* [Features](https://sciencing.com/category/features/)
+
+* [](https://sciencing.com/feed/ "RSS")
+* [Advertise](https://static.com/advertise "Advertise")
+
+* [About](https://sciencing.com/about/)
+* [Editorial Policies](https://sciencing.com/policies/)
+* [Privacy Policy](https://www.static.com/privacy-policy)
+* [Terms of Use](https://www.static.com/terms)
+
+© 2024 [Static Media](https://www.static.com/). All Rights Reserved
+
+[![Sciencing](https://www.sciencing.com/img/sciencing-logo-RGB-negative.svg)](https://sciencing.com/)
+=====================================================================================================
+
+[![Sciencing](https://www.sciencing.com/img/sciencing-icon-RGB-icon-default.svg)](https://sciencing.com/)
+
+[Science](https://sciencing.com/category/science/) [Math](https://sciencing.com/category/math/) [Technology](https://sciencing.com/category/technology/) [Features](https://sciencing.com/category/features/)
+
+* [](https://sciencing.com/feed/ "RSS")
+* [Advertise](https://static.com/advertise "Advertise")
+
+*  [![question mark galaxy formation](https://www.sciencing.com/img/gallery/the-real-reason-it-looks-like-theres-a-question-mark-in-space/intro-1730434725.jpg)](https://sciencing.com/1703065/real-reason-question-mark-space/)
     
-    [Tweet](#socialshare)
+    [Science](https://sciencing.com/category/science/)
     
-    [\[email protected\]](https://sciencing.com/cdn-cgi/l/email-protection)
+    [Science](https://sciencing.com/category/science/) By Elias Nash
     
-    Print
+    [The Real Reason It Looks Like There's A Question Mark In Space](https://sciencing.com/1703065/real-reason-question-mark-space/)
+    ================================================================================================================================
+    
+    In 2023, the powerful James Webb Telescope captured what looked like a question mark in the darkness of deep space, but the reason why is just as fascinating.
+    
+    By Elias Nash [Read More](https://sciencing.com/1703065/real-reason-question-mark-space/)
+    
+* *  [![Mouth and ear](https://www.sciencing.com/img/gallery/the-one-word-researchers-agree-makes-you-more-persuasive/intro-1730387907.jpg)](https://sciencing.com/1702267/one-word-scientists-agree-make-you-persuasive/)
+        
+        [Science](https://sciencing.com/category/science/)
+        
+        [Science](https://sciencing.com/category/science/) By Joe Roberts
+        
+        ### [The One Word Researchers Agree Makes You More Persuasive](https://sciencing.com/1702267/one-word-scientists-agree-make-you-persuasive/)
+        
+        Being persuasive doesn't come naturally for many people, yet some scientists agree that a simple word swap can get your ideas across more effectively.
+        
+        By Joe Roberts [Read More](https://sciencing.com/1702267/one-word-scientists-agree-make-you-persuasive/)
+        
+    *  [![Robot with severed leg trapped under rock](https://www.sciencing.com/img/gallery/meet-the-robot-that-amputates-its-own-limbs-to-survive/intro-1730386887.jpg)](https://sciencing.com/1702150/meet-robot-amputates-own-limbs-reason/)
+        
+        [Technology](https://sciencing.com/category/technology/)
+        
+        [Technology](https://sciencing.com/category/technology/) By Elias Nash
+        
+        ### [Meet The Robot That Amputates Its Own Limbs To Survive](https://sciencing.com/1702150/meet-robot-amputates-own-limbs-reason/)
+        
+        Increasing the survivability of robots might sound dystopian, but Yale researchers done just that by presenting a robot that can amputate its own limbs.
+        
+        By Elias Nash [Read More](https://sciencing.com/1702150/meet-robot-amputates-own-limbs-reason/)
+        
+    *  [![3D rendering of digital human brain with cell and neuron activity floating over hand](https://www.sciencing.com/img/gallery/the-4-stages-of-eating-inside-your-brain/intro-1730220417.jpg)](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
+        
+        [Science](https://sciencing.com/category/science/)
+        
+        [Science](https://sciencing.com/category/science/) By Tiffany Betts
+        
+        ### [How Your Brain Processes Food: The Neurological Experience Of Eating](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
+        
+        The brain governs much of what the body does, including the process of eating. Researchers have discovered this process occurs within our brains in four stages.
+        
+        By Tiffany Betts [Read More](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
+        
+
+More Stories
+------------
+
+*  [![Tomb of Idi in Ancient Egypt](https://www.sciencing.com/img/gallery/the-intricate-coffins-that-shed-light-on-an-overlooked-period-of-egyptian-history/intro-1730436114.jpg)](https://sciencing.com/1703073/intricate-coffins-shed-light-overlooked-period-egyptian-history/)
+    
+    [News](https://sciencing.com/category/news/)
+    
+    [News](https://sciencing.com/category/news/) By Elias Nash
+    
+    ### [The Intricate Coffins That Shed Light On An Overlooked Period Of Egyptian History](https://sciencing.com/1703073/intricate-coffins-shed-light-overlooked-period-egyptian-history/)
+    
+    In October 2023, Egyptologists discovered coffins adorned with hieroglyphics that shed new light on an oft overlooked period of ancient Egyptian history.
+    
+    By Elias Nash [Read More](https://sciencing.com/1703073/intricate-coffins-shed-light-overlooked-period-egyptian-history/)
+    
+*  [![hydrothermal explosion at biscuit basin yellowstone](https://www.sciencing.com/img/gallery/what-caused-the-yellowstone-biscuit-basin-explosion-and-could-it-happen-again/intro-1729787972.jpg)](https://sciencing.com/1696812/what-caused-yellowstone-biscuit-basin-explosion-could-happen-again/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Daniel Allen
+    
+    ### [What Caused The Yellowstone Biscuit Basin Explosion And Could It Happen Again?](https://sciencing.com/1696812/what-caused-yellowstone-biscuit-basin-explosion-could-happen-again/)
+    
+    In July 2024, a massive blast rocked the Biscuit Basin in Yellowstone National Park. Here's what caused the geothermal explosion and if it could happen again.
+    
+    By Daniel Allen [Read More](https://sciencing.com/1696812/what-caused-yellowstone-biscuit-basin-explosion-could-happen-again/)
+    
+*  [![dehumidifier and air purifier side by side](https://www.sciencing.com/img/gallery/what-is-the-difference-between-an-air-purifier-and-dehumidifier-and-when-should-you-use-each/intro-1729736839.jpg)](https://sciencing.com/1696457/what-difference-air-purifier-dehumidifier-when-use/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Tiffany Betts
+    
+    ### [What Is The Difference Between An Air Purifier And Dehumidifier And When Should You Use Each?](https://sciencing.com/1696457/what-difference-air-purifier-dehumidifier-when-use/)
+    
+    Air purifiers and dehumidifiers may look similar but they do very different jobs. Here are the differences and when each is suitable for use.
+    
+    By Tiffany Betts [Read More](https://sciencing.com/1696457/what-difference-air-purifier-dehumidifier-when-use/)
+    
+*  [![Satellite image of Antarctica from space with swirling weather systems](https://www.sciencing.com/img/gallery/the-inventor-of-aerosol-spray-destroyed-the-ozone-layer-heres-how-we-fixed-it/intro-1730413611.jpg)](https://sciencing.com/1703517/inventor-aerosol-spray-destroyed-ozone-layer-how-fixed/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Eric James Beyer
+    
+    ### [The Inventor Of Aerosol Spray Destroyed The Ozone Layer. Here's How We Fixed It](https://sciencing.com/1703517/inventor-aerosol-spray-destroyed-ozone-layer-how-fixed/)
+    
+    Aerosol spray cans may not seem all too dangerous, but they've actually wreaked havoc. So badly, in fact, that the world at large couldn't help but take notice.
+    
+    By Eric James Beyer [Read More](https://sciencing.com/1703517/inventor-aerosol-spray-destroyed-ozone-layer-how-fixed/)
+    
+*  [![Amelia Earhart in plane cockpit](https://www.sciencing.com/img/gallery/was-amelia-earhart-found-the-biggest-theories-on-what-happened-to-her/intro-1729272973.jpg)](https://sciencing.com/1692160/was-amelia-earhart-found-biggest-theories-what-happened/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Elias Nash
+    
+    ### [Was Amelia Earhart Found? The Biggest Theories On What Happened To Her](https://sciencing.com/1692160/was-amelia-earhart-found-biggest-theories-what-happened/)
+    
+    Numerous theories have surrounded world-famous aviator Amelia Earhart and her mysterious disappearance in the Pacific, including some that claim she was found.
+    
+    By Elias Nash [Read More](https://sciencing.com/1692160/was-amelia-earhart-found-biggest-theories-what-happened/)
+    
+*  [![An underwater ROV](https://www.sciencing.com/img/gallery/why-the-discovery-of-dark-oxygen-is-so-important/intro-1729531334.jpg)](https://sciencing.com/1693539/what-dark-oxygen-pacific-ocean-do-scientists-agree/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Eric James Beyer
+    
+    ### [Why The Discovery Of 'Dark Oxygen' Is So Important](https://sciencing.com/1693539/what-dark-oxygen-pacific-ocean-do-scientists-agree/)
+    
+    Oxygen production on Earth has long been attributed to sunlight-driven photosynthesis. But in the dark ocean depths lies a potential source of "dark oxygen."
+    
+    By Eric James Beyer [Read More](https://sciencing.com/1693539/what-dark-oxygen-pacific-ocean-do-scientists-agree/)
+    
+*  [![Skull half buried in leaves](https://www.sciencing.com/img/gallery/how-long-does-it-take-for-a-body-to-decompose-and-what-are-the-stages/intro-1729877675.jpg)](https://sciencing.com/1698913/how-long-does-take-body-decay-what-stages/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Pauli Poisuo
+    
+    ### [How Long Does It Take For A Body To Decompose And What Are The Stages?](https://sciencing.com/1698913/how-long-does-take-body-decay-what-stages/)
+    
+    After death, natural processes immediately begin to break down a body. But how long does a body take to decompose, and what are the stages?
+    
+    By Pauli Poisuo [Read More](https://sciencing.com/1698913/how-long-does-take-body-decay-what-stages/)
+    
+*  [![three hurricanes crossing the Gulf of Mexico and Caribbean Sea](https://www.sciencing.com/img/gallery/the-formation-of-tropical-cyclones-explained/intro-1729778351.jpg)](https://sciencing.com/1696478/formation-tropical-cyclones-explained/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Tiffany Betts
+    
+    ### [The Formation Of Tropical Cyclones Explained](https://sciencing.com/1696478/formation-tropical-cyclones-explained/)
+    
+    Tropical cyclones are known for their size and immense destructive power. But what conditions and processes are necessary for these giant storms to form?
+    
+    By Tiffany Betts [Read More](https://sciencing.com/1696478/formation-tropical-cyclones-explained/)
+    
+*  [![galaxy with glowing core](https://www.sciencing.com/img/gallery/blazars-vs-quasars-the-most-extreme-objects-in-the-universe-explained/intro-1729798774.jpg)](https://sciencing.com/1697630/blazar-vs-quasar-most-extreme-objects-universe-explained/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Daniel Allen
+    
+    ### [Blazars Vs. Quasars: The Most Extreme Objects In The Universe Explained](https://sciencing.com/1697630/blazar-vs-quasar-most-extreme-objects-universe-explained/)
+    
+    The most extreme objects in the universe are quasars and blazars. But what are the differences between these black-hole-driven celestial objects?
+    
+    By Daniel Allen [Read More](https://sciencing.com/1697630/blazar-vs-quasar-most-extreme-objects-universe-explained/)
+    
+*  [![A python opening its mouth](https://www.sciencing.com/img/gallery/the-terrifying-snake-found-in-india-thats-longer-than-a-bus/intro-1729876256.jpg)](https://sciencing.com/1697803/terrifying-snake-found-india-bigger-than-bus/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Tiffany Betts
+    
+    ### [The Terrifying Snake Found In India That's Longer Than A Bus](https://sciencing.com/1697803/terrifying-snake-found-india-bigger-than-bus/)
+    
+    Snakes can be pretty scary, no matter how big or small they are, but when researchers found one longer than a bus, the news made some interesting waves.
+    
+    By Tiffany Betts [Read More](https://sciencing.com/1697803/terrifying-snake-found-india-bigger-than-bus/)
+    
+*  [![Jupiter over a space background](https://www.sciencing.com/img/gallery/how-long-it-would-really-take-to-get-to-jupiter-on-our-fastest-manned-rocket/intro-1730483725.jpg)](https://sciencing.com/1703527/how-long-take-get-jupiter-fastest-manned-rocket/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Daniel Allen
+    
+    ### [How Long It Would Really Take To Get To Jupiter On Our Fastest Manned Rocket](https://sciencing.com/1703527/how-long-take-get-jupiter-fastest-manned-rocket/)
+    
+    Humanity has no plans to stop travelling to other worlds, whether the moon, Mars, or even Jupiter. In that last case, how long would a manned mission take?
+    
+    By Daniel Allen [Read More](https://sciencing.com/1703527/how-long-take-get-jupiter-fastest-manned-rocket/)
+    
+*  [![Visitors and camels standing outside of Al-Khazneh](https://www.sciencing.com/img/gallery/the-real-life-tomb-discovered-under-an-indiana-jones-filming-location/intro-1730487865.jpg)](https://sciencing.com/1703620/real-life-tomb-discovered-indiana-jones-filming-location/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Joe Roberts
+    
+    ### [The Real-Life Tomb Discovered Under An Indiana Jones Filming Location](https://sciencing.com/1703620/real-life-tomb-discovered-indiana-jones-filming-location/)
+    
+    Indiana Jones is the iconic archaeologist of film history, but in a strange turn, fictional archaeology has collided with real archaeology. Here's that story.
+    
+    By Joe Roberts [Read More](https://sciencing.com/1703620/real-life-tomb-discovered-indiana-jones-filming-location/)
+    
+*  [![Variables in a Science Experiment](https://www.sciencing.com/sciencing/definitions-dependent-variables-science-experiment-8623758/b7567772d84b413bbc09dc095a847bed.jpg)](https://sciencing.com/definitions-dependent-variables-science-experiment-8623758/)
+    
+    By Benjamin Twist
+    
+    ### [Definitions Of Control, Constant, Independent And Dependent Variables In A Science Experiment](https://sciencing.com/definitions-dependent-variables-science-experiment-8623758/)
+    
+    By Benjamin Twist [Read More](https://sciencing.com/definitions-dependent-variables-science-experiment-8623758/)
+    
+*  [![Man driving a car](https://www.sciencing.com/sciencing/convert-rpm-radians-8343758/50f12f97e81e47a8961bc6fe3f0f2030.jpg)](https://sciencing.com/convert-rpm-radians-8343758/)
+    
+    By Lee Johnson
+    
+    ### [How To Convert RPM To Radians](https://sciencing.com/convert-rpm-radians-8343758/)
+    
+    By Lee Johnson [Read More](https://sciencing.com/convert-rpm-radians-8343758/)
+    
+*  [![skateboarding woman legs at sunrise street](https://www.sciencing.com/sciencing/calculate-force-friction-6454395/9b69e5ea66424ddd91c88b3a1acdb739.jpg)](https://sciencing.com/calculate-force-friction-6454395/)
+    
+    By Lee Johnson
+    
+    ### [How To Calculate The Force Of Friction](https://sciencing.com/calculate-force-friction-6454395/)
+    
+    By Lee Johnson [Read More](https://sciencing.com/calculate-force-friction-6454395/)
+    
+*  [![Offshore Jack Up Rig in The Middle of The Sea](https://www.sciencing.com/sciencing/how-many-neutrons-does-hydrogen-have-13710216/6851388d75a6498eb6b5f70f12c478d3.jpg)](https://sciencing.com/how-many-neutrons-does-hydrogen-have-13710216/)
+    
+    By John Papiewski
+    
+    ### [How Many Neutrons Does Hydrogen Have?](https://sciencing.com/how-many-neutrons-does-hydrogen-have-13710216/)
+    
+    By John Papiewski [Read More](https://sciencing.com/how-many-neutrons-does-hydrogen-have-13710216/)
+    
+*  [![Focused mixed race woman wearing headphones watching webinar write notes](https://www.sciencing.com/sciencing/calculate-spring-force-5984750/9133d3de624b41e0a7c3cb942629f4f9.jpg)](https://sciencing.com/calculate-spring-force-5984750/)
+    
+    By Kevin Beck
+    
+    ### [How To Calculate Spring Force](https://sciencing.com/calculate-spring-force-5984750/)
+    
+    By Kevin Beck [Read More](https://sciencing.com/calculate-spring-force-5984750/)
+    
+*  [![Students in class volunteering for teacher at front board (selective focus)](https://www.sciencing.com/sciencing/partial-product-fourth-grade-math-6931919/84464102.jpg)](https://sciencing.com/partial-product-fourth-grade-math-6931919/)
+    
+    By Kathryn White
+    
+    ### [Partial Products: What Is A Partial Product In Fourth Grade Math?](https://sciencing.com/partial-product-fourth-grade-math-6931919/)
+    
+    By Kathryn White [Read More](https://sciencing.com/partial-product-fourth-grade-math-6931919/)
+    
+*  [![What is Chemical Energy?](https://www.sciencing.com/sciencing/what-is-chemical-energy-13712146/fbade2ad7766489eb4b94393e38253a5.jpg)](https://sciencing.com/what-is-chemical-energy-13712146/)
+    
+    By Mary Lougee
+    
+    ### [What Is Chemical Energy?](https://sciencing.com/what-is-chemical-energy-13712146/)
+    
+    By Mary Lougee [Read More](https://sciencing.com/what-is-chemical-energy-13712146/)
+    
+*  [![Applying silicone with caulking gun](https://www.sciencing.com/sciencing/what-is-urethane-4609711/155717157.jpg)](https://sciencing.com/what-is-urethane-4609711/)
+    
+    By Meg Michelle
+    
+    ### [What Is Urethane?](https://sciencing.com/what-is-urethane-4609711/)
+    
+    By Meg Michelle [Read More](https://sciencing.com/what-is-urethane-4609711/)
+    
+*  [](https://sciencing.com/heat-physics-definition-formula-examples-13722754/)
+    
+    By GAYLE TOWELL
+    
+    ### [Heat (Physics): Definition, Formula & Examples](https://sciencing.com/heat-physics-definition-formula-examples-13722754/)
+    
+    By GAYLE TOWELL [Read More](https://sciencing.com/heat-physics-definition-formula-examples-13722754/)
+    
+*  [![...](https://www.sciencing.com/sciencing/parent-functions-7707209/fotolia_2409350_XS.jpg)](https://sciencing.com/parent-functions-7707209/)
+    
+    By Usha Dadighat
+    
+    ### [How To Find Parent Functions](https://sciencing.com/parent-functions-7707209/)
+    
+    By Usha Dadighat [Read More](https://sciencing.com/parent-functions-7707209/)
+    
+*  [![...](https://www.sciencing.com/sciencing/mechanical-energy-kids-8520550/e19db6db536e4406ae3526736ced7198.jpg)](https://sciencing.com/mechanical-energy-kids-8520550/)
+    
+    By Luc Braybury
+    
+    ### [Mechanical Energy Facts For Kids](https://sciencing.com/mechanical-energy-kids-8520550/)
+    
+    By Luc Braybury [Read More](https://sciencing.com/mechanical-energy-kids-8520550/)
+    
+*  [![How to Round Numbers to Three Decimal Places](https://www.sciencing.com/sciencing/round-numbers-three-decimal-places-8447024/149ca424ee9b4540967ecb254c0c460d.jpg)](https://sciencing.com/round-numbers-three-decimal-places-8447024/)
+    
+    By Chris Deziel
+    
+    ### [How To Round Numbers To Three Decimal Places](https://sciencing.com/round-numbers-three-decimal-places-8447024/)
+    
+    By Chris Deziel [Read More](https://sciencing.com/round-numbers-three-decimal-places-8447024/)
+    
+*  [![Portrait of a green parrot on a black background](https://www.sciencing.com/sciencing/similarities-between-birds-mammals-8439713/5eef12768fac415d9fb8de156d92af29.jpg)](https://sciencing.com/similarities-between-birds-mammals-8439713/)
+    
+    By Jack Powell
+    
+    ### [What Are The Similarities Between Birds & Mammals?](https://sciencing.com/similarities-between-birds-mammals-8439713/)
+    
+    By Jack Powell [Read More](https://sciencing.com/similarities-between-birds-mammals-8439713/)
+    
+*  [![Line graph](https://www.sciencing.com/sciencing/how-to-get-a-good-grade-in-elementary-statistics-12753046/92573033.jpg)](https://sciencing.com/how-to-get-a-good-grade-in-elementary-statistics-12753046/)
+    
+    By Lorraine O'Neil
+    
+    ### [How To Get A Good Grade In Elementary Statistics](https://sciencing.com/how-to-get-a-good-grade-in-elementary-statistics-12753046/)
+    
+    By Lorraine O'Neil [Read More](https://sciencing.com/how-to-get-a-good-grade-in-elementary-statistics-12753046/)
+    
+*  [![Milky way and the Observatory](https://www.sciencing.com/sciencing/what-do-stars-look-like-4587447/458890475.jpg)](https://sciencing.com/what-do-stars-look-like-4587447/)
+    
+    By Chris Deziel
+    
+    ### [What Do Stars Look Like?](https://sciencing.com/what-do-stars-look-like-4587447/)
+    
+    By Chris Deziel [Read More](https://sciencing.com/what-do-stars-look-like-4587447/)
     
 
-Leaf Group Copyright Policy
-===========================
+Back
 
-### Effective Date: **November 9, 2016**
+[Next](https://sciencing.com/page/2/ "Ahead")
 
-REPORTING CLAIMS OF COPYRIGHT INFRINGEMENT
-------------------------------------------
+[About](https://sciencing.com/about/) [Privacy Policy](https://www.static.com/privacy-policy)
 
-We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any materials accessible on or from this Site (the "Site") infringe your copyright, you may request removal of those materials from the Site by submitting written notification to our Copyright Agent (designated below). In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) ("DMCA"), the written notice (the "DMCA Notice") must include substantially the following:
+© 2024 [Static Media](https://www.static.com/)® Sciencing.com All Rights Reserved
 
-* Your physical or electronic signature.
-* Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works on the Site, a representative list of such works.
-* Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material.
-* Adequate information by which we can contact you (including your name, postal address, telephone number and, if available, e-mail address).
-* A statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent or the law.
-* A statement that the information in the written notice is accurate.
-* A statement, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+More From Static Media
 
-Our designated Copyright Agent to receive DMCA Notices is:  
-  
-LEAF GROUP LTD.  
-ATTN: COPYRIGHT AGENT  
-1655 26TH Street  
-SANTA MONICA, CA 90404  
-(310) 917-6400 (phone)  
-(310) 564-7761 (facsimile)  
-[\[email protected\]](https://sciencing.com/cdn-cgi/l/email-protection)
+[Chowhound](https://www.chowhound.com/)[Cuteness](https://www.cuteness.com/)[Explore](https://www.explore.com/)[Foodie](https://www.foodie.com/)[Food Republic](https://www.foodrepublic.com/)[Glam](https://www.glam.com/)[Grunge](https://www.grunge.com/)[Health Digest](https://www.healthdigest.com/)[House Digest](https://www.housedigest.com/)[Hunker](https://www.hunker.com/)[Islands](https://www.islands.com/)[Looper](https://www.looper.com/)[Mashed](https://www.mashed.com/)[Money Digest](https://www.moneydigest.com/)[Nicki Swift](https://www.nickiswift.com/)[Outdoor Guide](https://www.outdoorguide.com/)[SlashFilm](https://www.slashfilm.com/)[SlashGear](https://www.slashgear.com/)[SVG](https://www.svg.com/)[Tasting Table](https://www.tastingtable.com/)[The Daily Meal](https://www.thedailymeal.com/)[The List](https://www.thelist.com/)[The Takeout](https://www.thetakeout.com/)[Women](https://www.women.com/)[Wrestling Inc.](https://www.wrestlinginc.com/)
 
-If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective. Please be aware that if you knowingly materially misrepresent that material or activity on the Site is infringing your copyright, you may be held liable for damages (including costs and attorneys' fees) under Section 512(f) of the DMCA.
-
-COUNTER-NOTIFICATION PROCEDURES
--------------------------------
-
-If you believe that material you posted on the Site was removed or access to it was disabled by mistake or misidentification, you may file a counter-notification with us (a "Counter-Notice") by submitting written notification to our copyright agent (identified below). Pursuant to the DMCA, the Counter-Notice must include substantially the following:
-
-* Your physical or electronic signature.
-* An identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access disabled.
-* Adequate information by which we can contact you (including your name, postal address, telephone number and, if available, e-mail address).
-* A statement under penalty of perjury by you that you have a good faith belief that the material identified above was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled.
-* A statement that you will consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or if you reside outside the United States for any judicial district in which the Site may be found) and that you will accept service from the person (or an agent of that person) who provided the Site with the complaint at issue.
-
-Completed Counter-Notices should be sent to:  
-  
-LEAF GROUP LTD.  
-ATTN: COPYRIGHT AGENT  
-1655 26TH Street  
-SANTA MONICA, CA 90404  
-(310) 917-6400 (phone)  
-(310) 564-7761 (facsimile)  
-[\[email protected\]](https://sciencing.com/cdn-cgi/l/email-protection)
-
-The DMCA allows us to restore the removed content if the party filing the original DMCA Notice does not file a court action against you within ten business days of receiving the copy of your Counter-Notice. Please be aware that if you knowingly materially misrepresent that material or activity on the Site was removed or disabled by mistake or misidentification, you may be held liable for damages (including costs and attorneys' fees) under Section 512(f) of the DMCA.
-
-REPEAT INFRINGERS
------------------
-
-We implement a policy where, in appropriate circumstances, we will disable and/or terminate the accounts of users who are repeat infringers.
-
-Our goal is to make science relevant and fun for everyone. Whether you need help solving quadratic equations, inspiration for the upcoming science fair or the latest update on a major storm, Sciencing is here to help.
-
-* Sciencing
-* [About](https://sciencing.com/about-us)
-* [Contact](https://sciencing.com/about-us#contact-us)
-* [Careers](https://www.leafgroup.com/job-openings/)
-*  
-* [Facebook](https://www.facebook.com/RealSciencing/)
-* Twitter
-
-* Legal
-* [Accessibility](https://sciencing.com/accessibility)
-* [Privacy Notice](https://sciencing.com/privacy)
-* [Cookie Notice](https://sciencing.com/cookie_notice)
-* Manage Preferences
-* [California Notice of Collection](https://sciencing.com/privacy#section_12_2)
-* [Terms of Use](https://sciencing.com/terms-of-use)
-* [Copyright Policy](https://sciencing.com/copyright-policy)
-
-© 2024 Leaf Group Ltd. / Leaf Group Media, All Rights Reserved.
+![Sciencing](https://www.sciencing.com/img/sciencing-icon-RGB-icon-default.svg)
