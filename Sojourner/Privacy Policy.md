@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7a6fa7cc5251fd607b4291f09bc0ffc0
+bbca06a4ee1bffb0f55b2e2bd25dc542
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Swarovski Siam hook clasp](https://www.sojourner.biz/images/cache/SKU0496front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/swarovski-siam-hook-clasp.html "Swarovski Siam hook clasp")
+[![Rose quartz hoop earrings](https://www.sojourner.biz/images/cache/jewelry/E0053.200.jpg)](https://www.sojourner.biz/jewelry/earrings/rose-quartz-hoop-earrings.html "Rose quartz hoop earrings")
 
-#### [Swarovski Siam hook clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-siam-hook-clasp.html "Swarovski Siam hook clasp")
+#### [Rose quartz hoop earrings](https://www.sojourner.biz/jewelry/earrings/rose-quartz-hoop-earrings.html "Rose quartz hoop earrings")
 
-$40.00
+$50.00
 
 ### Best Sellers
 
