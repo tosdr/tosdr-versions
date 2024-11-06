@@ -4,9 +4,7 @@ Black Friday Sneak Peek: Save up to 40% off the best sound for the season. [Shop
 
 Limited-edition QuietComfort Headphones are now available in Moonstone Blue. [Buy now](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1)
 
-Free White Silicone Case Cover with Ultra Open Earbuds purchase. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html)
-
-Sign up for Bose texts & get an extra 10% off Bose Certified Refurbished products! [Sign Up.](https://cloud.email.bose.com/sms-sign-up)
+Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
 [Cancel](#)
 
@@ -17,25 +15,24 @@ Back
     * [Black Friday Sneak Peek](https://www.bose.com/c/holiday-sale)
     * [Gift Guide](https://www.bose.com/holiday-gift-guide)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
-    * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
     Back
     
-    [![](https://assets.bosecreative.com/m/128e4c03488099a4/webimage-UOEB24_GWP_SF_SneakPeak_NavFlyout_Mobile.png)
+    [![](https://assets.bosecreative.com/m/5da336c11f25d14/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Gift-Guide.png)
     
-    ### Gift with purchase](https://www.bose.com/ULT-HEADPHONEOPN.html "Shop")
+    ### Holiday Gift Guide](https://www.bose.com/holiday-gift-guide "Shop")
     
      
     
-    Oprah's Favorite Thing 2024
+    Black Friday Sneak Peek
     
-    Gift with purchase
-    ------------------
+    Shop early. Own the gift game.
+    ------------------------------
     
-    Save $50 on Ultra Open Earbuds and get a free White Silicone Case Cover, too!
+    Stock up now on gifts with up to 40% off.
     
-    [SHOP](https://www.bose.com/ULT-HEADPHONEOPN.html "SHOP")
+    [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
     
 
 * [Shop](#)
@@ -53,7 +50,6 @@ Back
     * [Gifts](https://www.bose.com/holiday-gift-guide)
     
     * [Accessories](https://www.bose.com/c/accessories)
-    * [Sets](https://www.bose.com/c/sets)
     * [All Products](https://www.bose.com/c/all-products)
     
     Back
@@ -200,7 +196,7 @@ Black Friday Sneak Peek
 
 ### Shop early. Own the gift game.](https://www.bose.com/c/holiday-sale "SHOP")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw062e5bda/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw563b3756/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
