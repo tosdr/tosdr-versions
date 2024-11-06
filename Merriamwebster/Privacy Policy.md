@@ -387,9 +387,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [psephology](https://www.merriam-webster.com/word-of-the-day)
+#### [a cappella](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of psephology](/dist-cross-dungarees/2024-11-05--16-29-58-u4hehj/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of psephology")
+[![Listen to the pronunciation of a cappella](/dist-cross-dungarees/2024-11-05--16-29-58-u4hehj/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of a cappella")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
