@@ -402,39 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Election Day 2024: Live updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183154530.jpg?ve=1&tl=1)
+ [![Here's what world leaders are saying after Trump wins election](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183219023.jpg?ve=1&tl=1)
 
- ![Election Day 2024: Live updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183154530.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-day-live-updates-2024)
+ ![Here's what world leaders are saying after Trump wins election](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183219023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/world-leaders-react-trump-victory)
 
-Live Now
+### [Here's what world leaders are saying after Trump wins election](https://www.fox4news.com/news/world-leaders-react-trump-victory)
 
-### [Election Day 2024: Live updates](https://www.fox4news.com/news/election-day-live-updates-2024)
+ [![Police begin official search for missing 46-year-old Wylie woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-04-115435.png?ve=1&tl=1)
 
- [![Election 2024: Live swing state updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182509392.jpg?ve=1&tl=1)
+ ![Police begin official search for missing 46-year-old Wylie woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-04-115435.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-search-missing-46-year-old-wylie-woman)
 
- ![Election 2024: Live swing state updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182509392.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/swing-states-live-updates-president)
+### [Police begin official search for missing 46-year-old Wylie woman](https://www.fox4news.com/news/police-search-missing-46-year-old-wylie-woman)
 
-Live Now
+ [![Voters mostly reject North Texas school district bond proposals](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/classroom.jpg?ve=1&tl=1)
 
-### [Election 2024: Live swing state updates](https://www.fox4news.com/news/swing-states-live-updates-president)
+ ![Voters mostly reject North Texas school district bond proposals](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/592/333/classroom.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/voters-mostly-reject-north-texas-school-district-bond-proposals)
 
- [![Watch live: FOX News projects Trump will win race for White House](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183209475.jpg?ve=1&tl=1)
+### [Voters mostly reject North Texas school district bond proposals](https://www.fox4news.com/news/voters-mostly-reject-north-texas-school-district-bond-proposals)
 
- ![Watch live: FOX News projects Trump will win race for White House](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183209475.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-wins-presidency-fox-news-projects)
+ [![Senate balance of power: Republicans win majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/senatebalanceofpowerthumbnail-scaled.jpg?ve=1&tl=1)
 
-### [Watch live: FOX News projects Trump will win race for White House](https://www.fox4news.com/news/trump-wins-presidency-fox-news-projects)
+ ![Senate balance of power: Republicans win majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/senatebalanceofpowerthumbnail-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/senate-republicans-win-majority-balance-of-power)
 
- [![How many electoral votes does each swing state have? PA, GA, NC called for Trump](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2020/08/32/18/GettyImages-1058414620.jpg?ve=1&tl=1)
+### [Senate balance of power: Republicans win majority](https://www.fox4news.com/news/senate-republicans-win-majority-balance-of-power)
 
- ![How many electoral votes does each swing state have? PA, GA, NC called for Trump](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2020/08/32/18/592/333/GettyImages-1058414620.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-many-electoral-votes-does-each-swing-state-have)
+ [![Angie Chen Button staves off challenge from Averie Bishop](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/snapshot-2024-10-30t162404.252.jpg?ve=1&tl=1)
 
-### [How many electoral votes does each swing state have? PA, GA, NC called for Trump](https://www.fox4news.com/news/how-many-electoral-votes-does-each-swing-state-have)
+ ![Angie Chen Button staves off challenge from Averie Bishop](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/snapshot-2024-10-30t162404.252.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/angie-chen-button-staves-off-challenge-from-averie-bishop)
 
- [![U.S. Rep. Colin Allred: 'You can't just be a patriot when your side wins'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/abe37dacce96846e75008dfc4c9d7023.jpg?ve=1&tl=1)
-
- ![U.S. Rep. Colin Allred: 'You can't just be a patriot when your side wins'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/abe37dacce96846e75008dfc4c9d7023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/colin-allred-concession-speech)
-
-### [U.S. Rep. Colin Allred: 'You can't just be a patriot when your side wins'](https://www.fox4news.com/election/colin-allred-concession-speech)
+### [Angie Chen Button staves off challenge from Averie Bishop](https://www.fox4news.com/election/angie-chen-button-staves-off-challenge-from-averie-bishop)
 
 [![Live Texas Election Results 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/texas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/texas-election-results-2024)
 
