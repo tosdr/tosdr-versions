@@ -20,11 +20,6 @@ GPNQHZ987
 
 Type above to decrypt our story...
 
-D-Day: Interception, Intelligence, Invasion
--------------------------------------------
-
-This exhibition will be closed for maintenance on Tuesday 5 and Wednesday 6 November. **Thank you for your understanding.**
-
 Back
 
 * [Tickets](https://bletchleypark.org.uk/book-now/)
