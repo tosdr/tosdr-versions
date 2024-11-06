@@ -161,7 +161,7 @@ FR
         
         Chefs Plate
         
-        $7.50 Cash Back](https://www.rakuten.ca/ticket/campaign/5CategoryFeaturedStores/store/chefsplate?sourceName=nav-menu)
+        7.5% Cash Back](https://www.rakuten.ca/ticket/campaign/5CategoryFeaturedStores/store/chefsplate?sourceName=nav-menu)
         
     * [Drugstores](https://www.rakuten.ca/stores/drugstores "Drugstores Promo Codes and Coupons")
         
@@ -217,7 +217,7 @@ FR
         
         Holt Renfrew
         
-        2% Cash Back](https://www.rakuten.ca/ticket/campaign/8CategoryFeaturedStores/store/holt-renfrew?sourceName=nav-menu)
+        10% Cash Back](https://www.rakuten.ca/ticket/campaign/8CategoryFeaturedStores/store/holt-renfrew?sourceName=nav-menu)
         
     * [Hardware & Tools](https://www.rakuten.ca/stores/hardware-tools "Hardware & Tools Promo Codes and Coupons")
         
