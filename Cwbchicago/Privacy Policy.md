@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Martel-Mason-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/man-mugged-red-line-passenger-while-on-pretrial-release-for-3-other-crimes-prosecutors.html "Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb11-326x245.jpg)](https://cwbchicago.com/2024/11/passerby-finds-man-fatally-shot-on-a-street-previously-served-by-shotspotter.html "Passerby finds man fatally shot on a street previously served by ShotSpotter")
 
-CTA
+Ashburn
 
-### [Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors](https://cwbchicago.com/2024/11/man-mugged-red-line-passenger-while-on-pretrial-release-for-3-other-crimes-prosecutors.html "Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors")
+### [Passerby finds man fatally shot on a street previously served by ShotSpotter](https://cwbchicago.com/2024/11/passerby-finds-man-fatally-shot-on-a-street-previously-served-by-shotspotter.html "Passerby finds man fatally shot on a street previously served by ShotSpotter")
 
-[November 2, 2024 7:02 PM](https://cwbchicago.com/2024/11)
+[November 3, 2024 8:27 AM](https://cwbchicago.com/2024/11)
 
-Prosecutors say a man who participated in a violent robbery aboard the Red Line this summer was on pretrial release for three separate cases at the time of the crime.[](https://cwbchicago.com/2024/11/man-mugged-red-line-passenger-while-on-pretrial-release-for-3-other-crimes-prosecutors.html "Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors")
+A 21-year-old man was found shot to death in the Ashburn neighborhood early Sunday on a block that used to be monitored by the city’s ShotSpotter gunfire detection system. [](https://cwbchicago.com/2024/11/passerby-finds-man-fatally-shot-on-a-street-previously-served-by-shotspotter.html "Passerby finds man fatally shot on a street previously served by ShotSpotter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Daniel-Perez-326x245.jpg)](https://cwbchicago.com/2024/11/prosecutors-say-he-shot-a-man-in-the-face-while-on-parole-for-2-attempted-murders.html "Prosecutors say he shot a man in the face while on parole for 2 attempted murders")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/400-block-n-milwaukee-326x245.jpg)](https://cwbchicago.com/2024/11/drive-by-shooters-injure-2-in-fulton-river-district.html "Drive-by shooters injure 2 in Fulton River District")
 
-Portage Park
+West Town
 
-### [Prosecutors say he shot a man in the face while on parole for 2 attempted murders](https://cwbchicago.com/2024/11/prosecutors-say-he-shot-a-man-in-the-face-while-on-parole-for-2-attempted-murders.html "Prosecutors say he shot a man in the face while on parole for 2 attempted murders")
+### [Drive-by shooters injure 2 in Fulton River District](https://cwbchicago.com/2024/11/drive-by-shooters-injure-2-in-fulton-river-district.html "Drive-by shooters injure 2 in Fulton River District")
 
-[November 2, 2024 2:57 PM](https://cwbchicago.com/2024/11)
+[November 3, 2024 5:42 AM](https://cwbchicago.com/2024/11)
 
-A Chicago man on parole for shooting someone in 2016 is back in custody, accused of shooting someone else just months after getting out of prison.[](https://cwbchicago.com/2024/11/prosecutors-say-he-shot-a-man-in-the-face-while-on-parole-for-2-attempted-murders.html "Prosecutors say he shot a man in the face while on parole for 2 attempted murders")
+Drive-by gunmen opened fire as they rolled through the Fulton River District overnight, leaving two people injured.[](https://cwbchicago.com/2024/11/drive-by-shooters-injure-2-in-fulton-river-district.html "Drive-by shooters injure 2 in Fulton River District")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Tamer-Refaie-326x245.jpg)](https://cwbchicago.com/2024/11/fake-cab-driver-abucted-passengers-made-them-pay-exhorbinant-fares-for-rides-from-ohare-prosecutors.html "Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/7400-n-winchester-chicago-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-is-neighborhoods-9th-shooting-victim-in-a-month.html "Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month")
 
-O'Hare
+Rogers Park
 
-### [Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors](https://cwbchicago.com/2024/11/fake-cab-driver-abucted-passengers-made-them-pay-exhorbinant-fares-for-rides-from-ohare-prosecutors.html "Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors")
+### [Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-is-neighborhoods-9th-shooting-victim-in-a-month.html "Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month")
 
-[November 2, 2024 7:00 AM](https://cwbchicago.com/2024/11)
+[November 3, 2024 3:39 AM](https://cwbchicago.com/2024/11)
 
-Prosecutors have charged a man with kidnapping women and forcing them to withdraw money after picking them up from O’Hare in a fake Uber or taxicab.[](https://cwbchicago.com/2024/11/fake-cab-driver-abucted-passengers-made-them-pay-exhorbinant-fares-for-rides-from-ohare-prosecutors.html "Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors")
+A 24-year-old man was shot while sitting in a car in Rogers Park on Saturday evening, according to Chicago police. He is the ninth person shot in the neighborhood since October 1.[](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-is-neighborhoods-9th-shooting-victim-in-a-month.html "Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month")
 
 Search
 
