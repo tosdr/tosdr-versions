@@ -52,9 +52,7 @@ Runtimes
 
 * [Contact](https://render.com/contact)
 
-[Sign In](https://dashboard.render.com/)
-
-[Get Started](https://dashboard.render.com/register)
+[Sign In](https://dashboard.render.com/)[Get Started](https://dashboard.render.com/register)
 
 Privacy Policy
 
