@@ -394,46 +394,6 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[![Live Texas Election Results 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/texas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/texas-election-results-2024)
-
-ELECTION DAY 2024
-
-[Live Texas Election Results 2024](https://www.fox4news.com/election/texas-election-results-2024)
-
-[Election results for the 2024 Election in Texas will come in at 7 p.m. Find the races that are important to you here.](https://www.fox4news.com/election/texas-election-results-2024)
-
-[![Live Election Results: Dallas County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/dallas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Dallas County](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
-
-[Here are the results of the 2024 Election in Dallas County.](https://www.fox4news.com/election/election-results-dallas-county-2024-election)
-
-[![Live Election Results: Tarrant County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/tarrant-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Tarrant County](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
-
-[Here are the results of the 2024 Election in Tarrant County.](https://www.fox4news.com/election/election-results-tarrant-county-2024-election)
-
-[![Live Election Results: Collin County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/collin-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-collin-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Collin County](https://www.fox4news.com/election/election-results-collin-county-2024-election)
-
-[Here are the results of the 2024 Election in Collin County.](https://www.fox4news.com/election/election-results-collin-county-2024-election)
-
-[![Live Election Results: Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/denton-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-results-denton-county-2024-election)
-
-ELECTION DAY 2024
-
-[Live Election Results: Denton County](https://www.fox4news.com/election/election-results-denton-county-2024-election)
-
-[Here are the results of the 2024 Election in Denton County.](https://www.fox4news.com/election/election-results-denton-county-2024-election)
-
 ###### [News](https://www.fox4news.com/news)
 
 * [Local News](https://www.fox4news.com/local-news)
