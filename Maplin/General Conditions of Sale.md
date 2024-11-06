@@ -1754,7 +1754,7 @@ Our friendly support team is here to help
 ##### Shopping With Us
 
 * [Professional Supplies (MPS)](https://pro.maplin.co.uk/)
-* [Business & Education](https://www.maplin.co.uk/pages/b2b)
+* [Business & Education](https://www.maplin.co.uk/pages/business)
 * [Brand Directory](https://www.maplin.co.uk/pages/shop-by-brand)
 * [Gift Cards](https://www.maplin.co.uk/products/maplin-e-gift-card)
 * [Key Workers](https://www.maplin.co.uk/pages/key-worker-discount)
