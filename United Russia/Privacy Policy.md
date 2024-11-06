@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Борис Грызлов: Успешный опыт работы Юрия Слюсаря позволит реализовать все намерения по развитию Ростовской области](https://cdn.er.ru/media/news/November2024/pQsQVf0qwAH4b88vLKqi-small.jpg)](https://er.ru/activity/news/boris-gryzlov-uspeshnyj-opyt-raboty-yuriya-slyusarya-pozvolit-realizovat-vse-namereniya-po-razvitiyu-rostovskoj-oblasti)
+[![Внимание, фейк!](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/vnimanie-fejk)
 
-[Борис Грызлов: Успешный опыт работы Юрия Слюсаря позволит реализовать все намерения по развитию Ростовской области](https://er.ru/activity/news/boris-gryzlov-uspeshnyj-opyt-raboty-yuriya-slyusarya-pozvolit-realizovat-vse-namereniya-po-razvitiyu-rostovskoj-oblasti)
+[Внимание, фейк!](https://er.ru/activity/news/vnimanie-fejk)
 
-[#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#Слюсарь](https://er.ru/activity/news?tags%5B0%5D=35681) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Ростовская область](https://er.ru/activity/news?tags%5B0%5D=1284) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60)
+[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#фейки](https://er.ru/activity/news?tags%5B0%5D=148078)
 
-Сегодня 10:05
+Сегодня 19:11
 
-[![Владимир Путин предложил секретарю реготделения «Единой России», главе ЕАО Ростиславу Гольдштейну стать врио главы Коми](https://cdn.er.ru/media/news/November2024/sK8Rti2qBD7Z2Ya5Ud2E-small.jpg)](https://er.ru/activity/news/vladimir-putin-predlozhil-sekretaryu-regotdeleniya-edinoj-rossii-glave-eao-rostislavu-goldshtejnu-stat-vrio-glavy-komi)
+[![«Единая Россия» перезагружает работу института сторонников партии](https://cdn.er.ru/media/news/November2024/Qb9kFwhwGuoA7xq0NrjB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-perezagruzhaet-rabotu-instituta-storonnikov-partii)
 
-[Владимир Путин предложил секретарю реготделения «Единой России», главе ЕАО Ростиславу Гольдштейну стать врио главы Коми](https://er.ru/activity/news/vladimir-putin-predlozhil-sekretaryu-regotdeleniya-edinoj-rossii-glave-eao-rostislavu-goldshtejnu-stat-vrio-glavy-komi)
+[«Единая Россия» перезагружает работу института сторонников партии](https://er.ru/activity/news/edinaya-rossiya-perezagruzhaet-rabotu-instituta-storonnikov-partii)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#губернатор](https://er.ru/activity/news?tags%5B0%5D=1092859) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868)
 
-05.11.24
+Сегодня 18:45
 
-[![Делегация Союза коммунистической молодёжи Вьетнама посетит Россию с официальным визитом и подпишет соглашение о взаимодействии с «Молодой Гвардией Единой России»](https://cdn.er.ru/media/news/November2024/mC1VRtcUXO6uIlrEEXsB-small.jpg)](https://er.ru/activity/news/delegaciya-soyuza-kommunisticheskoj-molodyozhi-vetnama-posetit-rossiyu-s-oficialnym-vizitom-i-podpishet-soglashenie-o-vzaimodejstvii-s-molodoj-gvardiej-edinoj-rossii)
+[![«Единая Россия» обновила состав Центрального совета сторонников партии](https://cdn.er.ru/media/news/November2024/ew9hHjeToCYRxYUza3nX-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-obnovila-sostav-centralnogo-soveta-storonnikov-partii)
 
-[Делегация Союза коммунистической молодёжи Вьетнама посетит Россию с официальным визитом и подпишет соглашение о взаимодействии с «Молодой Гвардией Единой России»](https://er.ru/activity/news/delegaciya-soyuza-kommunisticheskoj-molodyozhi-vetnama-posetit-rossiyu-s-oficialnym-vizitom-i-podpishet-soglashenie-o-vzaimodejstvii-s-molodoj-gvardiej-edinoj-rossii)
+[«Единая Россия» обновила состав Центрального совета сторонников партии](https://er.ru/activity/news/edinaya-rossiya-obnovila-sostav-centralnogo-soveta-storonnikov-partii)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Вьетнам](https://er.ru/activity/news?tags%5B0%5D=2379) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#соглашение](https://er.ru/activity/news?tags%5B0%5D=345) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
+[#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#СоветСторонников](https://er.ru/activity/news?tags%5B0%5D=126900) [#обновление](https://er.ru/activity/news?tags%5B0%5D=2222)
 
-05.11.24
+Сегодня 17:57
 
-[![«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://cdn.er.ru/media/news/November2024/U599ujq81kSNLMXwlkA1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
+[![Владимир Якушев: В народную программу «Единой России» войдут положения Послания Президента, национальных целей развития и новых нацпроектов](https://cdn.er.ru/media/news/November2024/TXhd9hMFplewTYhITNmi-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-narodnuyu-programmu-edinoj-rossii-vojdut-polozheniya-poslaniya-prezidenta-nacionalnyh-celej-razvitiya-i-novyh-nacproektov)
 
-[«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
+[Владимир Якушев: В народную программу «Единой России» войдут положения Послания Президента, национальных целей развития и новых нацпроектов](https://er.ru/activity/news/vladimir-yakushev-v-narodnuyu-programmu-edinoj-rossii-vojdut-polozheniya-poslaniya-prezidenta-nacionalnyh-celej-razvitiya-i-novyh-nacproektov)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#неделяприемов](https://er.ru/activity/news?tags%5B0%5D=113281)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192)
 
-05.11.24
+Сегодня 17:21
 
-[![Ольга Занко: По инициативам советов сторонников «Единой России» Госдума приняла 15 законов](https://cdn.er.ru/media/news/November2024/yJplPOmssr2l2Fkk1LoA-small.JPG)](https://er.ru/activity/news/olga-zanko-po-iniciativam-sovetov-storonnikov-edinoj-rossii-gosduma-prinyala-15-zakonov)
+[![Владимир Путин включил Владимира Якушева в наблюдательный совет фонда «Защитники Отечества»](https://cdn.er.ru/media/news/November2024/6rbamN5jqBHaivf6DlRe-small.jpg)](https://er.ru/activity/news/vladimir-putin-vklyuchil-vladimira-yakusheva-v-nablyudatelnyj-sovet-fonda-zashitniki-otechestva)
 
-[Ольга Занко: По инициативам советов сторонников «Единой России» Госдума приняла 15 законов](https://er.ru/activity/news/olga-zanko-po-iniciativam-sovetov-storonnikov-edinoj-rossii-gosduma-prinyala-15-zakonov)
+[Владимир Путин включил Владимира Якушева в наблюдательный совет фонда «Защитники Отечества»](https://er.ru/activity/news/vladimir-putin-vklyuchil-vladimira-yakusheva-v-nablyudatelnyj-sovet-fonda-zashitniki-otechestva)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#семинар](https://er.ru/activity/news?tags%5B0%5D=5508) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#фондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094370) [#наблюдательныйсовет](https://er.ru/activity/news?tags%5B0%5D=150137)
 
-05.11.24
+Сегодня 17:13
 
-[![«Единая Россия»: Выставку «Сила V правде» в Самаре в первый день посетили более 40 тысяч человек](https://cdn.er.ru/media/news/November2024/eO5mQeVTSOHDSZVQMTsY-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-v-samare-v-pervyj-den-posetili-bolee-40-tysyach-chelovek)
+[![Владимир Якушев: «Единая Россия» продолжит поддержку НКО](https://cdn.er.ru/media/news/November2024/lTWOPeyF8ITxETRfIVPj-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-nko)
 
-[«Единая Россия»: Выставку «Сила V правде» в Самаре в первый день посетили более 40 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-v-samare-v-pervyj-den-posetili-bolee-40-tysyach-chelovek)
+[Владимир Якушев: «Единая Россия» продолжит поддержку НКО](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-nko)
 
-[#Макушева](https://er.ru/activity/news?tags%5B0%5D=127600) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#СоветСторонников](https://er.ru/activity/news?tags%5B0%5D=126900) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#некоммерческиеорганизации](https://er.ru/activity/news?tags%5B0%5D=124781)
 
-05.11.24
+Сегодня 17:00
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
