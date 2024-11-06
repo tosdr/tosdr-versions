@@ -141,36 +141,36 @@ Stay Up to Date
 
 Popular Events
 
-* [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
-* [Tickets for FC Barcelona](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "Tickets for FC Barcelona")
-* [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
+* [Adele Concert Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Concert Tickets")
+* [Tickets for Real Madrid CF](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Tickets for Real Madrid CF")
+* [FC Barcelona Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "FC Barcelona Ticket")
 * [Michael Buble Tour Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tour Tickets")
-* [Taylor Swift Tour 2024](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Tour 2024")
-* [Tyler, The Creator Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Tyler-The-Creator-Tickets "Tyler, The Creator Tickets")
-* [Coldplay Tour](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour")
+* [Taylor Swift Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Concert Tickets")
+* [Tickets for Boston Celtics](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Boston-Celtics-Tickets "Tickets for Boston Celtics")
 * [The Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Tickets")
-* [Billie Eilish Concert Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Concert Tickets")
-* [LSU Tigers Football Ticket](https://www.viagogo.com/Sports-Tickets/Florida-Louisiana-St/LSU-Tigers-Football-Tickets "LSU Tigers Football Ticket")
-* [Boston Celtics Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Boston-Celtics-Tickets "Boston Celtics Tickets")
-* [Houston Texans Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Houston-Texans-Tickets "Houston Texans Tickets")
+* [Tyler, The Creator Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Tyler-The-Creator-Tickets "Tyler, The Creator Tickets")
+* [Coldplay Tour 2025](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour 2025")
 * [Sabrina Carpenter Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tickets")
-* [Dave Chappelle Tickets](https://www.viagogo.com/Theater-Tickets/Comedy/Dave-Chappelle-Tickets "Dave Chappelle Tickets")
-* [Kansas City Chiefs Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Kansas-City-Chiefs-Tickets "Kansas City Chiefs Ticket")
+* [Billie Eilish Tour 2025](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Tour 2025")
 * [Trans-Siberian Orchestra Tickets](https://www.viagogo.com/Theater-Tickets/Classical/Trans-Siberian-Orchestra-Tickets "Trans-Siberian Orchestra Tickets")
-* [Jelly Roll Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap/West-Coast-Rap/Jelly-Roll-Tickets "Jelly Roll Concert Tickets")
-* [David Gilmour Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/David-Gilmour-Tickets "David Gilmour Concert Tickets")
-* [Texas Longhorns Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-Longhorns-Football-Tickets "Texas Longhorns Football Tickets")
-* [Zach Bryan Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Zach-Bryan-Tickets "Zach Bryan Tickets")
-* [New York Knicks Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/NBA/New-York-Knicks-Tickets "New York Knicks Tickets")
-* [Sebastian Maniscalco Tickets](https://www.viagogo.com/Theater-Tickets/Comedy/Sebastian-Maniscalco-Tickets "Sebastian Maniscalco Tickets")
-* [Chicago Bears Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Chicago-Bears-Tickets "Chicago Bears Tickets")
-* [Chicago Blackhawks Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Wintersports/Hockey/NHL/Chicago-Blackhawks-Tickets "Chicago Blackhawks Tickets")
-* [Billy Joel Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Billy-Joel-Tickets "Billy Joel Tickets")
+* [Zach Bryan Tour 2025](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Zach-Bryan-Tickets "Zach Bryan Tour 2025")
+* [New York Knicks Ticket](https://www.viagogo.com/Sports-Tickets/Basketball/NBA/New-York-Knicks-Tickets "New York Knicks Ticket")
+* [Jelly Roll Tickets](https://www.viagogo.com/Concert-Tickets/Rap/West-Coast-Rap/Jelly-Roll-Tickets "Jelly Roll Tickets")
+* [Los Temerarios Concert Tickets](https://www.viagogo.com/Concert-Tickets/Latin/Latin-Pop/Los-Temerarios-Tickets "Los Temerarios Concert Tickets")
+* [P!NK Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/P-NK-Tickets "P!NK Concert Tickets")
+* [Formula 1 Ticket](https://www.viagogo.com/Sports-Tickets/Sports-and-Outdoors/Formula-1-Tickets "Formula 1 Ticket")
+* [David Gilmour Tour 2024](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/David-Gilmour-Tickets "David Gilmour Tour 2024")
+* [Detroit Lions Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Detroit-Lions-Tickets "Detroit Lions Ticket")
+* [Kansas City Chiefs Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Kansas-City-Chiefs-Tickets "Kansas City Chiefs Tickets")
+* [Dallas Cowboys Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Dallas-Cowboys-Tickets "Dallas Cowboys Ticket")
+* [Minnesota Vikings Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/Minnesota-Vikings-Tickets "Minnesota Vikings Tickets")
+* [LA Clippers Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/LA-Clippers-Tickets "LA Clippers Tickets")
+* [National Finals Rodeo Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Rodeo/National-Finals-Rodeo-Tickets "National Finals Rodeo Tickets")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb04 : -
+\- : ecpuse1-webb05 : -
 
 }
 
