@@ -96,7 +96,7 @@ Field is required
 
 ###### Error!
 
-You must accept the terms and conditions to continue
+You must scroll and accept the terms and conditions to continue
 
 WTS Marketing and Operations LLC Terms \*
 
