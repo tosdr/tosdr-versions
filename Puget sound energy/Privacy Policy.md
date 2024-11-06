@@ -359,33 +359,6 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 05, 12:00 PM](#collapseOne)  
-
-November Wind Storm
--------------------
-
-The Nov. 4 damaging winds caused outages around our service area, with Island, Whatcom, and Skagit counties in the north and Thurston County in the south being most impacted.
-
-Our crews have restored power to 99% of affected customers with over 150,000 customers being impacted throughout the course of this storm.
-
-Calmer weather is expected for the rest of the day and crews will continue work until all customers are restored. As crews finish work in one area, they are assigned to repair damage in another.
-
-  
-
-[Read more](https://www.pse.com/en/outage/alerts-and-advisories)
-
-![alert](/-/media/Feature/PSE/Customer-Service/alert-active.png?rev=337ff3f6d24c41a2bc9dfc9658e05c97&sc_lang=en&modified=20200402191019&hash=58D121F47C9A99127D614F80BFA76756) 
-
-Safety first. Never touch or go within 35 feet of downed power lines because they might be energized. Call PSE at [1-888-225-5773](tel:1-888-225-5773) or [911](tel:911) to report problems.
-
-Report and track power outages online
-
-* Online outage reporting: [pse.com/outage](https://www.pse.com/en/outage)
-* Outage map: [pse.com/outagemap](https://www.pse.com/en/outage/outage-map)
-* myPSE mobile app: [pse.com/app](https://www.pse.com/en/pages/get-the-pse-app)
-* For general outage information, see: [pse.com/advisories](https://www.pse.com/en/outage/alerts-and-advisories) 
-* For outage preparedness tips, see: [pse.com/storm](https://www.pse.com/en/outage/outage-resources)
-
 Last Updated June 1, 2023
 
 ### NOTICE CONCERNING CUSTOMER INFORMATION
