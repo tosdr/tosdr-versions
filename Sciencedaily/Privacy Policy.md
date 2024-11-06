@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [When Earth Was Slushy](https://www.sciencedaily.com/releases/2024/11/241105174745.htm)
 * [Bio-Based Fibers May Be Worse Than Plastics](https://www.sciencedaily.com/releases/2024/11/241105114318.htm)
 * [Towards a Hydrogen-Powered Future](https://www.sciencedaily.com/releases/2024/11/241105114155.htm)
 * [Deaf Male Mosquitoes Don't Mate](https://www.sciencedaily.com/releases/2024/11/241105113844.htm)
@@ -217,7 +218,6 @@ this hour
 * [Exploding Neutron-Stars: Dance of Electrons](https://www.sciencedaily.com/releases/2024/11/241104112242.htm)
 * [Synthetic Genes for Medicine and Biotech](https://www.sciencedaily.com/releases/2024/11/241104112240.htm)
 * [Fossil of Huge Terror Bird Discovered](https://www.sciencedaily.com/releases/2024/11/241104112355.htm)
-* [Fastest-Feeding Black Hole in the Early Universe](https://www.sciencedaily.com/releases/2024/11/241104112032.htm)
 
 Trending Topics
 ---------------
@@ -232,7 +232,7 @@ this week
 
 [Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
