@@ -95,68 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Features
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/GaryPark.jpg)](https://www.icr.org/article/creationpioneer-garyparker)
-
-[Creation Pioneer Gary Parker](https://www.icr.org/article/creationpioneer-garyparker/)
-
-Gary Parker   In rural south Florida where I grew up (Arcadia, DeSoto County), where my wife, Mary, and I had the first of our...
-
-BY: [GARY PARKER, ED.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=54)
-
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1222_space.jpg)](https://www.icr.org/article/kids-edition-space)
-
-[Kids Edition 2022: Space](https://www.icr.org/article/kids-edition-space/)
-
-Hi, kids! We created a special Acts & Facts just for you! We hope you have fun doing the activities while learning how God designed creation...
-
-[![](/i/Main%20Stage%20-%201000x563/Mutation_Sel_CCC_1000x563.jpg)](https://www.icr.org/article/mutation-selection-calamitous-creationist)
-
-[Mutation-Selection: A Calamitous Creationist Concession](https://www.icr.org/article/mutation-selection-calamitous-creationist/)
-
-Creation scientists sometimes say to evolutionists, “We have the same data you do, but we have different interpretations.” That statement...
-
-BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/37284258/file.jpg)
-
-6 Días De Creación (Spanish)](https://store.icr.org/seis-dias-de-creacion-spanish.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57276817/file.jpg)
-
-The Book of Beginnings Paperback](https://store.icr.org/the-book-of-beginnings-paperback.html)
-
-$19.99
-
-$24.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/294001/file.jpg)
-
-Five Reasons to Believe in Recent Creation](https://store.icr.org/dr-henry-morris-iii-five-reasons-to-believe-in-rec.html)
-
-$2.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5005668/file.jpg)
-
-Science, Scripture, & Salvation Vol 3, Disc 1](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774957.html)
-
-$1.99
-
-$3.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216716/file.jpg)
-
-Six Days of Creation - eBook](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation-ebook.html)
-
-$1.99
-
-$2.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
