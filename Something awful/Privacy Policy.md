@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [I Spy Hoarders](https://www.somethingawful.com/photoshop-phriday/i-spy-hoarders/)
-* [Shroomery](https://www.somethingawful.com/weekend-web/shroomery/1/)
-* [That Awkward Moment; Labor Day; Gimme Shelter](https://www.somethingawful.com/current-movie-reviews/that-awkward-moment/1/)
-* [Maybe It's Time To Cool Off On The Last Samurai Sequels](https://www.somethingawful.com/news/last-samurai-sequels/)
-* [Phake Games 2](https://www.somethingawful.com/photoshop-phriday/phake-games-2/1/)
+* [Spaghetti-O Menstruation!](https://www.somethingawful.com/awfulvision/obama-poop-art/1/)
+* [Breaking News!](https://www.somethingawful.com/photoshop-phriday/breaking-news-skynews/1/)
+* [Network Solutions Lacks Solutions for Domain Name Hijacking](https://www.somethingawful.com/hogosphere/network-solutions-hijacking/1/)
+* [Normality In The Mid-90's](https://www.somethingawful.com/video-game-article/normality-90s-pc/)
+* [Perhaps Some Animes Are in Order?](https://www.somethingawful.com/news/anime-convention/1/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [100 Words or Phrases Whitelisted By Pakistan](https://www.somethingawful.com/news/pakistan-banned-texts/1/)
-* [Classic Rock](https://www.somethingawful.com/your-band-sucks/classic-rock/)
-* [Town Criers Are All the Rage!](https://www.somethingawful.com/news/town-criers-all/)
-* [The Inevitable Batman Movie Reboot](https://www.somethingawful.com/news/batman-movie-reboot/)
-* [Time Diver Eon Man](https://www.somethingawful.com/rom-pit/nes-time-travel/)
+* [The Realm of Hobos](https://www.somethingawful.com/awful-links/awful-link-869/)
+* [The Case against Freddy Krueger](https://www.somethingawful.com/feature-articles/freddy-krueger-mayor/)
+* [Turd Twister (Thanks, slimgoodbody!)](https://www.somethingawful.com/awful-links/turd-twister/)
+* [December 17, 2007](https://www.somethingawful.com/forum-fridays/ff12-17-07/1/)
+* [Maturation](https://www.somethingawful.com/awful-links/darkwing-duck-maturation/)
 
 [Random!](https://www.somethingawful.com/random/)
 
