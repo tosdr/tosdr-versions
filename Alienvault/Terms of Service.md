@@ -1,7 +1,7 @@
-be\_ixf;ym\_202411 d\_05; ct\_200
+be\_ixf;ym\_202411 d\_06; ct\_250
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://levelblue.com/terms/website
+* https://levelblue.com/terms/website?utm\_medium=Email&utm\_source=2024-11-13%20Webinar%20-%20Elevate%20Your%20GRC%20Game%3A%20A%20Collaborative%20Approach%20w%2FOneTrust%20-%20Send%20Invites&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=50c9359104464d1ab4780f61fd7f2363&elqaid=2018&elqat=1&elqCampaignId=1812&elqak=8AF52C73D67D9793A15705B69B7F67278B04287DF0A34CACB65670486272BAA0B36F
 * https://levelblue.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
@@ -119,9 +119,9 @@ be\_ixf;ym\_202411 d\_05; ct\_200
             
             Product Brief
             
-            ##### LevelBlue API Security is the Intelligent Way to Protect Your APIs from Business Logic Abuse and Data Theft
+            ##### LevelBlue Consulting Adversary Simulation Service
             
-            [Learn more](https://cyber.levelblue.com/m/a4ce2dcca22a5bd/original/PB-API-Security.pdf)
+            [Learn more](https://cyber.levelblue.com/m/7a567d558a6a2208/original/PB-Adversary-Simulation-Consulting.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -169,11 +169,11 @@ be\_ixf;ym\_202411 d\_05; ct\_200
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            blog
+            Blog: Security Essentials
             
-            ##### Ngioweb Remains Active 7 Years Later
+            ##### Enhancing Cyber Resilience in Energy and Utilities Organizations
             
-            [Learn more](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+            [Learn more](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-energy-and-utilities-organizations)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Fernando Martinez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Fernando Martinez
+#### Theresa Lanowitz
 
-Nov 1, 2024
+Nov 6, 2024
 
-### [Ngioweb Remains Active 7 Years Later](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+### [Enhancing Cyber Resilience in Energy and Utilities Organizations](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-energy-and-utilities-organizations)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
