@@ -19,7 +19,7 @@ DeutschEnglishEspañolFrançaisItalianoNederlandPortuguêsSuomiSvenskaTürkçeР
 TERMS OF SERVICE
 ================
 
-Effective Date: October 15, 2024
+Effective Date: November 6, 2024
 
 The terms of this agreement ("Terms of Service") govern the relationship between you and Supercell Oy, a Finnish company (business ID 2336509-6) having its registered office at Jätkäsaarenlaituri 1, 00180 Helsinki, Finland, (hereinafter "Supercell" or "Us" or "We") regarding your use of Supercell's games, store, sites and related services (the "Service"). Use of the Service is also governed by Supercell's [Privacy Policy](https://supercell.com/en/privacy-policy/) and other relevant policies, which are incorporated herein by reference. 
 
@@ -165,7 +165,7 @@ If you have a dispute with one or more users, you release us (and our officers, 
 
 In the Service you may purchase, with "real world" money, a limited, personal, non-transferable, non-sublicensable, revocable right to use (a) virtual currency, including but not limited to virtual cash or diamonds, all for use in Supercell games; (b) virtual in-game items, content or features; and (c) other goods or services (points a – c are jointly referred to as "Virtual Items"). You are only allowed to purchase Virtual Items from us or our authorized partners through the Service, and not in any other way.
 
-You expressly agree that we will start the performance of the purchase agreement of Virtual Items or any other digital content before the expiration of any statutory withdrawal period defined in applicable laws. You give explicit prior consent that the content you have purchased will be delivered to you before the withdrawal period ends and you thereby loose the statutory right of withdrawal.
+You expressly agree that we will start the performance of the purchase agreement of Virtual Items or any other digital content before the expiration of any statutory withdrawal period defined in applicable laws. You give explicit prior consent that the content you have purchased will be delivered to you before the withdrawal period ends and you thereby lose the statutory right of withdrawal.
 
 Supercell may manage, regulate, control, modify or eliminate Virtual Items at any time, with or without notice. To the fullest extent under applicable law, Supercell shall have no liability to you or any third party in the event that Supercell exercises any such rights.
 
@@ -199,33 +199,35 @@ You agree to indemnify, defend and hold Supercell (and our officers, directors, 
 
 ### 8\. Dispute Resolution
 
-You and Supercell agree that the processes for dispute resolution described in this agreement will apply to any dispute or claims related to these Terms of Service, the [Privacy Policy](https://supercell.com/en/privacy-policy/), or the Service. Disputes include any claims of any kind, including but not limited to legal, equitable, or statutory claims. Processes for dispute resolution will apply even if you stop using your Account, delete your Account, or stop using the Service. They will also apply to disputes that arose before we entered into this agreement.
+You and Supercell agree that the processes for dispute resolution described in this agreement will apply to any dispute or claims related to these Terms of Service, the [Privacy Policy](https://supercell.com/en/privacy-policy/), or the Service. Disputes include any claims of any kind, including but not limited to legal, equitable, or statutory claims, arising at any time, including before we entered into this agreement. Processes for dispute resolution will apply even if you stop using your Account, delete your Account, or stop using the Service.
 
-**Sections 8.1 to 8.6 apply to you if you are a resident of the United States or Canada. They do not apply to you if you are a resident of any other country.**
+**Sections 8.1 to 8.7 apply to you if you are a resident of the United States or Canada. They do not apply to you if you are a resident of any other country.**
 
 #### 8.1. Informal Dispute Resolution
 
-You must try to informally resolve any dispute directly with Supercell for at least thirty (30) days before you start an arbitration. The informal dispute resolution process starts when you give Supercell written notice of the dispute through legal-requests@supercell.com.
+If you have an issue that our customer support can't resolve, you and Supercell agree to try to informally resolve any dispute directly with each other for at least thirty (30) days before starting an arbitration. The informal dispute resolution process starts when you give Supercell written notice of the dispute through [legal-requests@supercell.com](mailto:legal-requests@supercell.com) (“Dispute Notice”). In your Dispute Notice you agree to include your name, any relevant Supercell game account name(s) or Supercell ID you use, mailing address, how best to contact you, what the problem is, and how you would like Supercell to resolve the problem. If Supercell has a dispute with you, Supercell will send its Notice of Dispute to any email address you have associated with your Supercell ID or Supercell game account. All applicable statutes of limitations will be considered tolled beginning on the day a Dispute Notice is received as described herein. Except in the case of a Mass Arbitration (see below), this tolling shall end either on the date an arbitration is filed or thirty (30) days after submission of the Dispute Notice, whichever is earlier.
+
+If your problem can’t be resolved by this informal dispute resolution process, you or Supercell may initiate an arbitration in accordance with these Terms of Service, as described below. In the case that Supercell cannot identify an email address or billing address associated with your ID or game account, this section shall not apply to Supercell, and it may immediately initiate an arbitration, as follows.
 
 #### 8.2. Arbitration
 
-Agreement You and Supercell agree to resolve any disputes exclusively in final and binding arbitration as follows:
+You and Supercell agree to resolve any disputes exclusively in final and binding individual arbitration as follows:
 
-Either you or Supercell may choose to submit any dispute for resolution exclusively by final and binding arbitration unless the claim is within the exceptions described below. If you or Supercell brings a claim in court that can be resolved by arbitration under this section, then either party can ask the court to order the parties to resolve the claim by arbitration. The arbitrator will have the exclusive authority to decide whether any portion of Section 8 (“Dispute Resolution”) is valid or enforceable, or whether it applies to a claim.
+Either you or Supercell may choose to submit any dispute for resolution exclusively by final and binding arbitration unless the claim is within the exceptions described below. These arbitration proceedings shall be conducted on an individual basis only, meaning **the dispute is solely between you and Supercell**. If you or Supercell brings a claim in court that can be resolved by arbitration under this section, then either party can ask the court to order the parties to resolve the claim by arbitration. The arbitrator will have the exclusive authority to decide whether any portion of Section 8 (“Dispute Resolution”) is valid or enforceable, or whether it applies to a claim.
 
-An arbitration proceeding will be held before a neutral arbitrator. This means **you and Supercell agree to give up the right to resolve the dispute in a trial before a judge or jury.** Arbitration has different rules than more formal lawsuits. For example, the ability to force the other side to share information may be more limited than the process called discovery in formal lawsuits. After the arbitrator decides the outcome, that decision will be final. You or Supercell can ask the arbitrator to put a decision or award and the reasons for it in writing. Either of us can ask a court to confirm or enter the arbitrator’s final decision or award, which will make it the same as a court judgment. You and Supercell will generally not be able to change the outcome of arbitration through courts outside of very limited circumstances. 
+An arbitration proceeding will be held before a single neutral arbitrator. This means **you and Supercell agree to give up the right to resolve the dispute in a trial before a judge or jury.** Arbitration has different rules than more formal lawsuits. For example, the ability to force the other side to share information may be more limited than the process called discovery in formal lawsuits. After the arbitrator decides the outcome, that decision will be final. You or Supercell can ask the arbitrator to put a decision or award and the reasons for it in writing. Either of us can ask a court to confirm or enter the arbitrator’s final decision or award, which will make it the same as a court judgment. You and Supercell will generally not be able to change the outcome of arbitration through courts outside of very limited circumstances.
 
 #### 8.3. Arbitration Process
 
-The arbitration will be run by the American Arbitration Association (“AAA”). AAA’s rules and procedures will be used for the arbitration, including the Consumer Arbitration Rules. But if there is a conflict between these Terms of Service and AAA’s rules and procedures, then we will follow these Terms of Service. To review AAA’s Rules or to start arbitration, you can go to [AAA’s website](https://adr.org/). If either of us decide to start arbitration, we agree to provide the other party with a written Demand for Arbitration as specified in the AAA Rules.
+The arbitration will be run by the American Arbitration Association (“AAA”). AAA’s rules and procedures will be used for the arbitration, including the Consumer Arbitration Rules. But if there is a conflict between these Terms of Service and AAA’s rules and procedures, then we will follow these Terms of Service. To review AAA’s Rules or to start arbitration, you can go to [AAA’s website](https://adr.org/). If either of us decides to start arbitration, we agree to provide the other party with a written Demand for Arbitration as specified in the AAA Rules.
 
-The fees for arbitration will be determined by AAA’s Consumer Arbitration Rules. If the arbitrator decides that those fees are excessive, Supercell will pay the fees. Each side will pay their own attorneys’ fees and costs unless the claims allow for to the prevailing party to recover attorneys’ fees and costs, in which case the arbitrator may award them under the applicable law. If either party unsuccessfully challenges the validity of the arbitrator’s decision or award through a subsequent court case, the unsuccessful party shall pay the opposing party’s costs and attorneys’ fees associated with the challenge.
+The fees for arbitration will be determined by AAA’s Consumer Arbitration Rules. If the arbitrator decides that those fees are excessive, Supercell will pay the fees. Each side will pay their own attorneys’ fees and costs unless the claims allow the prevailing party to recover attorneys’ fees and costs, in which case the arbitrator may award them under the AAA Rules or applicable law. If either party challenges the validity of the arbitrator’s decision or award through a subsequent court case, that party will pay its own costs and attorneys’ fees associated with the challenge.
 
-The arbitration will take place either in San Francisco, California, USA or in the county or province where you reside.
+The arbitration will take place either in San Francisco, California, USA, in the county or province where you reside, or virtually.
 
 #### 8.4 Exceptions to Agreement to Arbitrate
 
-You and Supercell agree that the arbitration agreement in Section 8.2 will not apply to the following disputes:
+You and Supercell agree that the informal dispute resolution process in Section 8.1 and arbitration agreement in Section 8.2 will not apply to the following disputes:
 
 * Claims about Supercell’s intellectual property, such as claims to enforce, protect, or concerning the validity of Supercell’s copyrights, trademarks, trade dress, domain names, patents, trade secrets, or other intellectual property rights.
     
@@ -240,24 +242,41 @@ Any dispute not subject to arbitration under these exceptions shall be resolved 
 
 #### 8.5 No Class Actions
 
-You and Supercell agree that we can only bring claims against each other on an individual basis.That means:
+You and Supercell agree that we can only bring claims against each other on an individual basis. That means:
 
-* You cannot bring a claim against Supercell as a plaintiff or class member in a class, collective, consolidated, or representative action.
+* You cannot bring a claim against Supercell as a plaintiff or class member in a class, collective, or representative action.
     
-* The arbitrator cannot combine any other person’s claims with yours into a single case or preside over any class, collective, consolidated, or representative arbitration proceeding.
+* The arbitrator cannot combine any other person’s claims with yours into a single case or preside over any class, collective, or representative arbitration proceeding.
     
 * The arbitrator’s decision or award in your case will not apply to anyone else and cannot be used to decide other people’s disputes.
     
 
-To increase the efficiency of administration and resolution of arbitrations, you and Supercell agree that in the event that there are twenty five (25) or more individual demands for arbitration of a substantially similar nature filed against Supercell by or with the assistance of the same law firm, group of law firms, or organizations or representation is consistent or coordinated across the cases, all such demands for arbitration are processed in accordance with AAA´s Mass Arbitration Supplementary Rules for consumer mass arbitration. The cases will be heard on the documents, rather than by in-person, telephone, or video conference hearings. Multiple cases can be assigned to one arbitrator. The arbitration will be based on the submission of documents and there shall be no in-person or oral hearing. This mass arbitration provision shall in no way be interpreted as authorizing a class or collective action of any kind, except as expressly set forth in this provision.
+If this section (Section 8.5 “No Class Actions”) is found to be unenforceable or invalid, then the entirety of Section 8, including Sections 8.1 to 8.7, shall be void.
 
-If this section (Section 8.5 “No Class Actions”) is found to be unenforceable or invalid, then the entirety of Section 8, including Sections 8.1 to 8.6, shall be void.
+8.6 Mass Arbitration
+--------------------
 
-#### 8.6 Opt-Out of Arbitration Agreement and No Class Actions Provisions
+If 25 or more similar arbitrable disputes (for example, your dispute against Supercell) are filed by or with the assistance of the same law firm, group of law firms, organizations, or with representation that is consistent or coordinated across the cases, these will be considered “Mass Arbitration Cases,” and will be processed in accordance with AAA’s Mass Arbitration Supplementary Rules for consumer mass arbitration. **You acknowledge and agree that depending on the circumstances, if you choose to file your individual claim as part of a Mass Arbitration, the resolution of your dispute may ultimately be resolved via global mediation or proceed to a court of competent jurisdiction.** You or Supercell may advise the other of a belief that certain cases are Mass Arbitration Cases, and disputes over whether a case or cases meet the contractual definition of “Mass Arbitration Case” will be decided by the arbitration provider as an administrative matter.
 
-You can choose to opt out of and not be bound by the Arbitration Agreement and No Class Action provisions above (Sections 8.1 to 8.5) by sending written notice of your decision to opt out to legal-requests@supercell.com with the subject line “ARBITRATION AND CLASS ACTION WAIVER OPT-OUT.” You must send us this notice within thirty (30) days of your first use of the Service or availability of this opt-out, whichever is later. If you do not send us a notice within that time, you will be bound to arbitrate disputes in accordance with the terms of these paragraphs. If you opt out of these arbitration provisions, Supercell also will not be bound by them.
+Demands for arbitration filed with the arbitration provider as part of the Mass Arbitration shall only proceed as permitted by the process set forth in this Section. Any applicable limitations periods (including statutes of limitations) for claims asserted in a Mass Arbitration Case will be tolled from the time a valid Dispute Notice has been received until the global mediation described below is completed, or the claim is otherwise settled, withdrawn, or resolved.
 
-#### 8.7 Alternative and Online Dispute Resolution
+Once the opposing party (e.g., Supercell, in the case of disputes against Supercell) has been notified that all or substantially all Mass Arbitration Cases have been filed with the arbitration provider, and before the “Initiation” stage of the Mass Arbitration is complete, counsel for the parties shall confer in good faith regarding the number of cases that should proceed in the arbitration (as “bellwether” cases) to allow each side a reasonable opportunity to test the merits of its arguments. Only the Mass Arbitration Cases selected as bellwethers will proceed beyond the “Initiation” stage of the Mass Arbitration, and neither party will be required to pay per case fees for cases that are not selected. If counsel for the parties cannot agree on the number of bellwethers, each side shall select five (5) cases from among the claimants who have provided valid Dispute Notices, and only those selected cases will proceed beyond the Initiation stage of the Mass Arbitration. If counsel for the parties cannot agree on the number of bellwethers and the arbitration provider (or, in the arbitration provider's discretion, a process arbitrator) determines that more than 10 bellwethers are warranted, the arbitration provider (or process arbitrator) may set a higher, even number of bellwethers not to exceed ten percent (10%) of the Mass Arbitration Cases or 500, whichever is lower. Again, each side will select half of any additional bellwethers.
+
+The parties agree that a limited service neutral shall be appointed to serve in the role of a process arbitrator as described by the AAA Mass Arbitration Rules, either by the arbitration provider in its discretion, or by selection agreed by the parties. Unless the parties agree otherwise, each bellwether case should be assigned to a different arbitrator that will decide the claim(s).
+
+Only bellwether cases will proceed in arbitration. For a case that proceeds as a bellwether, you and Supercell additionally agree that the following processes shall apply to make its resolution more efficient: A scheduling order setting forth deadlines across the bellwether cases, including deadlines for submission of documents and witness lists, completion of discovery, and filing of motions, shall be implemented. The process arbitrator or limited service neutral appointed to fill that role shall oversee administrative and procedural issues common to the cases, such as discovery, choice of law, and statute of limitations, and shall also oversee disputes regarding coordination and limitations on briefing, motions, and discovery requests across the cases to avoid duplication and burden on the parties. The parties may bring dispositive motions during these proceedings. The bellwether cases shall be heard on the documents, rather than by in-person, telephone, or videoconference hearings. Testimony via affidavit or recorded deposition shall be employed rather than requiring live witness testimony. The awards shall be in writing, executed in the form and manner required by law, and shall provide concise written reasons for the decision unless the parties agree otherwise.
+
+Once the bellwether cases have concluded, or sooner should counsel for the parties agree, the parties will engage in a single global mediation of all remaining Mass Arbitration Cases, with Supercell paying the applicable mediation fee. Counsel for both sides must agree on a mediator within thirty (30) days after the conclusion of the final bellwether case, but if they are unable to agree on a mediator within this time the arbitration provider or process arbitrator will appoint a mediator as an administrative matter. The parties will cooperate for the purpose of ensuring that the mediation is scheduled as quickly as practicable after the mediator is appointed.
+
+If the global mediation does not yield a full resolution for all Mass Arbitration Cases, this arbitration requirement shall no longer apply to the Mass Arbitration Cases that were not resolved in bellwether cases. Such cases will not proceed in arbitration and may only proceed individually in court subject to the Applicable Law (Section 9) and Venue (Section 10) clauses of these Terms of Service. In such cases, you consent to venue exclusively in these courts. Nothing in this paragraph shall be construed as prohibiting either you or Supercell from removing a case from state to federal court if removal is allowed under applicable law. To the extent your claim is part of the Mass Arbitration claims, you further agree to waive any objection or argument that the joinder of your claim with other Mass Arbitration claimants would be impracticable. If a formerly arbitrable dispute is brought in court, claimants may seek class treatment, but to the fullest extent allowed by applicable law, the classes sought may comprise only Mass Arbitration claimants who provided compliant Dispute Notices or filed Mass Arbitration Cases.
+
+If this Section applies to your dispute with Supercell and if, after exhaustion of all appeals, this Section is found to be unenforceable or invalid, then the entirety of Section 8 shall be void and any dispute will be resolved in court subject to the Applicable Law (Section 9) and Venue (Section 10) clauses of these Terms of Service.
+
+#### 8.7 Opt-Out of Arbitration Agreement and No Class Actions Provisions
+
+You can choose to opt out of and not be bound by the Arbitration Agreement and No Class Action provisions above (Sections 8.1 to 8.6) by sending written notice of your decision to opt out to legal-requests@supercell.com with the subject line “ARBITRATION AND CLASS ACTION WAIVER OPT-OUT.” You must send us this notice within thirty (30) days of your first use of the Service or availability of this opt-out, whichever is later. If you do not send us a notice within that time, you will be bound to arbitrate disputes in accordance with the terms of these paragraphs. If you opt out of these arbitration provisions, Supercell also will not be bound by them.
+
+#### 8.8 Alternative and Online Dispute Resolution
 
 If you are a consumer based in the EU or EEA, you may make use of the [Online Dispute Resolution platform](https://ec.europa.eu/consumers/odr)  offered by the European Commission as an out-of-court alternative to resolve disputes.  You may also recourse to alternative dispute resolution and refer a dispute to the consumer disputes board or other corresponding out-of-court institution in your domicile.
 
@@ -315,5 +334,6 @@ Supercell shall not be liable for any delay or failure to perform resulting from
 
 ### Old versions of the page
 
+* [September 1, 2023](https://supercell.com/en/terms-of-service/en/2023-09-01/)
 * [February 24, 2023](https://supercell.com/en/terms-of-service/en/2023-02-24/)
 * [August 12, 2022](https://supercell.com/en/terms-of-service/en/2022-08-12/)
