@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 636 1
+0 649 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/64372/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-ferr0nutella-director/)
 
-[#64372](https://yiff-party.com/yiff/64372/)
+[directed by ferr0nutella (director)](https://yiff-party.com/yiff-ai-premium/directed-by-ferr0nutella-director/)
 
-0 75 0
+0 30 0
 
 October 7, 2024
 
-[](https://yiff-party.com/yiff/snapchat-created-by-carbanogg/)
+[](https://yiff-party.com/yiff/keith-keiser-twokinds-created-by-tokifuji/)
 
-[snapchat created by carbanogg](https://yiff-party.com/yiff/snapchat-created-by-carbanogg/)
+[keith keiser (twokinds) created by tokifuji](https://yiff-party.com/yiff/keith-keiser-twokinds-created-by-tokifuji/)
 
-0 1 0
+0 2 0
 
 November 6, 2024
 
