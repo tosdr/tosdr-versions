@@ -1,40 +1,40 @@
-[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-purple_lf83vr.svg)](https://protonvpn.com/)
+[![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-purple_lf83vr.svg)](https://protonvpn.com/)
 
 * Products
     
-    [![Proton Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg)
+    [![Proton Mail](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fmail_xxy4bg.svg)
     
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/mail-purple_resbmb.svg)
+    ![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Mail](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fmail-purple_resbmb.svg)
     
-    Encrypted email that's private by default.](https://protonvpn.com/mail)[![Proton Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/calendar_ylg2jq.svg)
+    Encrypted email that's private by default.](https://protonvpn.com/mail)[![Proton Calendar](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fcalendar_ylg2jq.svg)
     
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/calendar-purple_axpwhi.svg)
+    ![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Calendar](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fcalendar-purple_axpwhi.svg)
     
-    Your calendar is a record of your life. Keep it safe.](https://protonvpn.com/calendar)[![Proton Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/drive_wo2nx4.svg)
+    Your calendar is a record of your life. Keep it safe.](https://protonvpn.com/calendar)[![Proton Drive](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fdrive_wo2nx4.svg)
     
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/drive-purple_gvgywi.svg)
+    ![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Drive](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fdrive-purple_gvgywi.svg)
     
-    Secure cloud storage that gives you control of your data.](https://protonvpn.com/drive)[![Proton VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
+    Secure cloud storage that gives you control of your data.](https://protonvpn.com/drive)[![Proton VPN](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg)
     
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)
+    ![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![VPN](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fvpn-purple_afexu9.svg)
     
     Your gateway to online freedom.
     
-    (new window)](https://protonvpn.com/?ref=prdmenuvpn)[![Proton Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
+    (new window)](https://protonvpn.com/?ref=prdmenuvpn)[![Proton Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fpass_wl1fk9.svg)
     
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/pass-purple_h2rbko.svg)
+    ![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fpass-purple_h2rbko.svg)
     
-    An encrypted password manager that protects your online identity.](https://protonvpn.com/pass)[![Proton Wallet](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/wallet_hnlslt.svg)
+    An encrypted password manager that protects your online identity.](https://protonvpn.com/pass)[![Proton Wallet](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fwallet_hnlslt.svg)
     
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Wallet](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/wallet-purple_gxmyyv.svg)
+    ![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Wallet](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fwallet-purple_gxmyyv.svg)
     
     Store and transact Bitcoin privately with an encrypted self-custody wallet.](https://protonvpn.com/wallet)
     
     * * *
     
-    [![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)
+    [![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)
     
-    ![For Business](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/business-black_xc1ryk.svg)
+    ![For Business](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fbusiness-black_xc1ryk.svg)
     
     Improve the security of your business and comply with data protection laws.](https://protonvpn.com/business)
     
@@ -368,23 +368,23 @@ On this page
 * [13.1. Binding arbitration agreement and class action waiver](#131-binding-arbitration-agreement-and-class-action-waiver)
 * [14\. Miscellaneous](#14-miscellaneous)
 
-![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-purple_lf83vr.svg)
+![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-purple_lf83vr.svg)
 
 Privacy by default
 
-* [![X](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/x.svg)(new window)](https://x.com/intent/user?screen_name=ProtonPrivacy)
-* [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/reddit.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
-* [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/instagram.svg)(new window)](https://www.instagram.com/protonprivacy/)
-* [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/facebook.svg)(new window)](https://www.facebook.com/Proton)
-* [![LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/linkedin.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
-* [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/mastodon.svg)(new window)](https://mastodon.social/@protonprivacy)
-* [![RSS](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/rss.svg)](https://protonvpn.com/blog/feed)
-* [![Threads](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/threads.svg)(new window)](https://www.threads.net/@protonprivacy)
-* [![WhatsApp](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/whatsapp.svg)(new window)](https://www.whatsapp.com/channel/0029VaErt8I4tRrjiU8eMd1U)
-* [![Telegram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/telegram.svg)(new window)](https://t.me/proton_privacy)
-* [![UserVoice](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/uservoice.svg)(new window)](https://protonmail.uservoice.com/)
-* [![YouTube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/youtube.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
-* [![TikTok](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/tiktok.svg)(new window)](https://www.tiktok.com/@privacytok)
+* [![X](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fx.svg)(new window)](https://x.com/intent/user?screen_name=ProtonPrivacy)
+* [![Reddit](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Freddit.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
+* [![Instagram](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Finstagram.svg)(new window)](https://www.instagram.com/protonprivacy/)
+* [![Facebook](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Ffacebook.svg)(new window)](https://www.facebook.com/Proton)
+* [![LinkedIn](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Flinkedin.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
+* [![Mastodon](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fmastodon.svg)(new window)](https://mastodon.social/@protonprivacy)
+* [![RSS](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Frss.svg)](https://protonvpn.com/blog/feed)
+* [![Threads](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fthreads.svg)(new window)](https://www.threads.net/@protonprivacy)
+* [![WhatsApp](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fwhatsapp.svg)(new window)](https://www.whatsapp.com/channel/0029VaErt8I4tRrjiU8eMd1U)
+* [![Telegram](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Ftelegram.svg)(new window)](https://t.me/proton_privacy)
+* [![UserVoice](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fuservoice.svg)(new window)](https://protonmail.uservoice.com/)
+* [![YouTube](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fyoutube.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
+* [![TikTok](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Ftiktok.svg)(new window)](https://www.tiktok.com/@privacytok)
 
 Proton AG
 
