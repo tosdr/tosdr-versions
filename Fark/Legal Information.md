@@ -232,7 +232,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Fark for your buck
+The next best thing to UltraFark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Stop scratching your nads New Yorkers, it's just a highly contagious 'jock itch' that has started spreading rapidly all around you](https://www.fark.com/goto/13454174) ( [metro.co.uk](https://www.fark.com/goto/13454174) ) » [(1 comment)](https://www.fark.com/comments/13454174/Stop-scratching-your-nads-New-Yorkers-its-just-a-highly-contagious-jock-itch-that-has-started-spreading-rapidly-all-around-you) |
-| [Discussion](https://www.fark.com/discussion/) | [Dear Deidre, I had revenge sex to get back at my husband but now I'm consumed with guilt over it. Dear revenge sex goddess, was the sex guilty good?](https://www.fark.com/goto/13454192) ( [thesun.ie](https://www.fark.com/goto/13454192) ) » [(3 comments)](https://www.fark.com/comments/13454192/Dear-Deidre-I-had-revenge-sex-to-get-back-at-my-husband-but-now-Im-consumed-with-guilt-over-it-Dear-revenge-sex-goddess-was-sex-guilty-good) |
-| [Sports](https://www.fark.com/sports/) | [Holy sh... how much hyped up Red Bull do you need to be on?](https://www.fark.com/goto/13454112) ( [newatlas.com](https://www.fark.com/goto/13454112) ) » [(1 comment)](https://www.fark.com/comments/13454112/Holy-sh-how-much-hyped-up-Red-Bull-do-you-need-to-be-on) |
-| [Business](https://www.fark.com/business/) | [CVS taps former UnitedHealth executive to run Aetna after "unexpected spending on medical services in its health insurance unit." In other news, did you know CVS owned Aetna?](https://www.fark.com/goto/13454180) ( [msn.com](https://www.fark.com/goto/13454180) ) » [(4 comments)](https://www.fark.com/comments/13454180/CVS-taps-former-UnitedHealth-executive-to-run-Aetna-after-unexpected-spending-on-medical-services-in-its-health-insurance-unit-In-other-news-did-you-know-CVS-owned-Aetna) |
-| [STEM](https://www.fark.com/stem/) | ["Zinc Oxide and You" gets a surprising sequel](https://www.fark.com/goto/13454142) ( [phys.org](https://www.fark.com/goto/13454142) ) » [(0 comments)](https://www.fark.com/comments/13454142/Zinc-Oxide-You-gets-a-surprising-sequel) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Five times the manatees writing Family Guy really blew it](https://www.fark.com/goto/13454072) ( [slashfilm.com](https://www.fark.com/goto/13454072) ) » [(2 comments)](https://www.fark.com/comments/13454072/Five-times-manatees-writing-Family-Guy-really-blew-it) |
-| [Fandom](https://www.fark.com/fandom/) | [If you look, you can now count 30 rings around Saturn](https://www.fark.com/goto/13454170) ( [theguardian.com](https://www.fark.com/goto/13454170) ) » [(1 comment)](https://www.fark.com/comments/13454170/If-you-look-you-can-now-count-30-rings-around-Saturn) |
-| [D'awww](https://www.fark.com/dawww/) | [I'll have what he's having](https://www.fark.com/goto/13454164) ( [bbc.com](https://www.fark.com/goto/13454164) ) » [(0 comments)](https://www.fark.com/comments/13454164/Ill-have-what-hes-having) |
-| [Food](https://www.fark.com/food/) | [The Intern says you're filling up on bread wrong](https://www.fark.com/goto/13454198) ( [lifehacker.com](https://www.fark.com/goto/13454198) ) » [(1 comment)](https://www.fark.com/comments/13454198/The-Intern-says-youre-filling-up-on-bread-wrong) |
-| [Politics](https://www.fark.com/politics/) | [Florida can't even get recreational marijuana right](https://www.fark.com/goto/13454200) ( [npr.org](https://www.fark.com/goto/13454200) ) » [(39 comments)](https://www.fark.com/comments/13454200/Florida-cant-even-get-recreational-marijuana-right) |
+| [Main](https://www.fark.com/) | [When your dump truck full of hot asphalt malfunctions, let it go man, it's gone](https://www.fark.com/goto/13454502) ( [fox5dc.com](https://www.fark.com/goto/13454502) ) » [(16 comments)](https://www.fark.com/comments/13454502/When-your-dump-truck-full-of-hot-asphalt-malfunctions-let-it-go-man-its-gone) |
+| [Discussion](https://www.fark.com/discussion/) | [You're using laundry detergent wrong](https://www.fark.com/goto/13454466) ( [mirror.co.uk](https://www.fark.com/goto/13454466) ) » [(18 comments)](https://www.fark.com/comments/13454466/Youre-using-laundry-detergent-wrong) |
+| [Sports](https://www.fark.com/sports/) | [Shedeur Sanders weighs NFL jump after NIL deal fizzles. Turns out even Deion's son can't prime the cash pump forever](https://www.fark.com/goto/13454328) ( [finurah.com](https://www.fark.com/goto/13454328) ) » [(1 comment)](https://www.fark.com/comments/13454328/Shedeur-Sanders-weighs-NFL-jump-after-NIL-deal-fizzles-Turns-out-even-Deions-son-cant-prime-cash-pump-forever) |
+| [Business](https://www.fark.com/business/) | [Target changes app to stop double-tappers, suggests they work on their cardio](https://www.fark.com/goto/13454332) ( [msn.com](https://www.fark.com/goto/13454332) ) » [(5 comments)](https://www.fark.com/comments/13454332/Target-changes-app-to-stop-double-tappers-suggests-they-work-on-their-cardio) |
+| [STEM](https://www.fark.com/stem/) | [Foreplay?](https://www.fark.com/goto/13454194) ( [gizmodo.com](https://www.fark.com/goto/13454194) ) » [(4 comments)](https://www.fark.com/comments/13454194/Foreplay) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Kim Kardashian's Instagram promotes son's Fortnite channel. Truly history's greatest monster](https://www.fark.com/goto/13454448) ( [consequence.net](https://www.fark.com/goto/13454448) ) » [(4 comments)](https://www.fark.com/comments/13454448/Kim-Kardashians-Instagram-promotes-sons-Fortnite-channel-Truly-historys-greatest-monster) |
+| [Fandom](https://www.fark.com/fandom/) | [Turns out the best part of waking up is fighting demons in your cup](https://www.fark.com/goto/13454360) ( [metro.co.uk](https://www.fark.com/goto/13454360) ) » [(4 comments)](https://www.fark.com/comments/13454360/Turns-out-best-part-of-waking-up-is-fighting-demons-in-your-cup) |
+| [D'awww](https://www.fark.com/dawww/) | [120 fuzzy cat bellies for petting-if you're tired of having unscarred hands](https://www.fark.com/goto/13454262) ( [boredpanda.com](https://www.fark.com/goto/13454262) ) » [(6 comments)](https://www.fark.com/comments/13454262/-120-fuzzy-cat-bellies-for-petting-if-youre-tired-of-having-unscarred-hands) |
+| [Food](https://www.fark.com/food/) | [An introvert's paradise, where the fries are hot and the human interaction is ice-cold](https://www.fark.com/goto/13454378) ( [metro.co.uk](https://www.fark.com/goto/13454378) ) » [(6 comments)](https://www.fark.com/comments/13454378/An-introverts-paradise-where-fries-are-hot-the-human-interaction-is-ice-cold) |
+| [Politics](https://www.fark.com/politics/) | [Trump's win will allow him to privatize Fannie and Freddie so we can revisit the glorious housing market of 2007. On a positive note, shooting for Big Short 2 will begin in a few months](https://www.fark.com/goto/13454506) ( [gurufocus.com](https://www.fark.com/goto/13454506) ) » [(10 comments)](https://www.fark.com/comments/13454506/Trumps-win-will-allow-him-to-privatize-Fannie-Freddie-so-we-can-revisit-glorious-housing-market-of-2007-On-a-positive-note-shooting-for-Big-Short-2-will-begin-in-a-few-months) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 06 2024 08:42:38  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 06 2024 14:42:59  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
