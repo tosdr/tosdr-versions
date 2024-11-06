@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1730815749581)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1730816505901)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
@@ -300,12 +300,12 @@ Search
 Download our App on
 -------------------
 
-[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/120/2022/06/apps.jpg "apps")](https://mykpl.us/app)
+[![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/120/2022/06/apps.jpg)](https://mykpl.us/app)
 
 Privacy Information
 ===================
 
-![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/120/2021/12/privacy-banner-e1550290022195.jpg "Privacy Banner")
+![](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/120/2021/12/privacy-banner-e1550290022195.jpg)
 
 The Kenosha Public Library is committed to protecting individual privacy and securing the personal information made available to us when you visit mykpl.info, our official social media pages, or use our digital partners. This page provides links to resources that describe what information is made available to the Kenosha Public Library and how that information is used and retained.
 
@@ -546,7 +546,7 @@ Kenosha, WI 53142-2129
 
 Powered by BiblioCommons.
 
-BiblioWeb: webapp07 Version 4.22.1 Last updated 2024/10/21 10:03
+BiblioWeb: webapp07 Version 4.23.0 Last updated 2024/11/06 08:40
 
 [Back to Top](#top)
 
