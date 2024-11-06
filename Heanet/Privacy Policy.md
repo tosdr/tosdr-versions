@@ -62,7 +62,7 @@
     * [Upcoming Events](https://www.heanet.ie/workshops/)
     * [Conference Archive](https://www.heanet.ie/conferences)
 * [Find Us](https://www.heanet.ie/who-we-are/contact-heanet)
-* [Logout](##logout_url##)
+* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=ddbb6d1482)
 
 [](#)
 
@@ -70,6 +70,8 @@
 
 Privacy Policy
 ==============
+
+[Home](https://www.heanet.ie/ "Go to HEAnet.") > [Who We Are](https://www.heanet.ie/who-we-are "Go to Who We Are.") > [Our Policies](https://www.heanet.ie/who-we-are/our-policies "Go to Our Policies.") > Privacy Policy
 
 **Introduction**
 ----------------
