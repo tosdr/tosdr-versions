@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Tuesday: Out and About @ Dormans (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Dormans (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Dormans (2011)](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -273,21 +266,12 @@ Most Popular
 [Down Memory Lane: Spooktacular night for 2012 Banks of the Foyle Hallowe'en Carnival](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man charged with theft, possession of cannabis and possession of a knife remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with theft, possession of cannabis and possession of a knife remanded")](https://www.derrynow.com/news/local-news/1647826/man-charged-with-theft-possession-of-cannabis-and-possession-of-a-knife-remanded.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Man charged with theft, possession of cannabis and possession of a knife remanded](https://www.derrynow.com/news/local-news/1647826/man-charged-with-theft-possession-of-cannabis-and-possession-of-a-knife-remanded.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Trial date for Donegal man charged with rape may not now take place until next year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Trial date for Donegal man charged with rape may not now take place until next year")](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
-
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Trial date for Donegal man charged with rape may not now take place until next year](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Wednesday, November 6, 2024](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer")](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
 
@@ -296,41 +280,12 @@ Derry courthouse
 [PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Viable suspected pipe bomb' removed from Bogside area following Derry security alert")](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
-
-Police cordon at the scene of last night's security alert in the Limewood Street area of Derry
+[![Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment")](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Christmas Tree in Guildhall Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas Tree in Guildhall Square")](https://www.derrynow.com/poll/derry-news/1647713/poll-is-it-too-early-for-christmas-decorations-to-go-up-in-november.html)
-
-Christmas Tree in Guildhall Square
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Poll: Is it too early for Christmas decorations to go up in November?](https://www.derrynow.com/poll/derry-news/1647713/poll-is-it-too-early-for-christmas-decorations-to-go-up-in-november.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Chair of the Judging panel Joris Minne and NI Food to Go Association CEO Michael Henderson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Chair of the Judging panel Joris Minne and NI Food to Go Association CEO Michael Henderson")](https://www.derrynow.com/news/arts---entertainment/1647752/derry-food-to-go-businesses-announced-as-finalists-for-ni-food-to-go-awards.html)
-
-Chair of the Judging panel Joris Minne and NI Food to Go Association CEO Michael Henderson
-
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
-
-[Derry food to go businesses announced as finalists for NI Food to Go Awards](https://www.derrynow.com/news/arts---entertainment/1647752/derry-food-to-go-businesses-announced-as-finalists-for-ni-food-to-go-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Harris v Trump](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Harris v Trump")](https://www.derrynow.com/poll/derry-news/1647785/poll-derry-who-will-be-the-next-president-of-the-united-states-of-america-trump-or-harris.html)
-
-Harris v Trump
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Poll: Derry - who will be the next President of the United States of America; Trump or Harris?](https://www.derrynow.com/poll/derry-news/1647785/poll-derry-who-will-be-the-next-president-of-the-united-states-of-america-trump-or-harris.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)")](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
 
@@ -341,11 +296,87 @@ Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)
 [County Derry-based baby loss foundation launched](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Alleged New IRA man granted permission to move to Claudy area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Alleged New IRA man granted permission to move to Claudy area")](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
+
+The application for a bail variation was heard this morning.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Alleged New IRA man granted permission to move to Claudy area](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport")](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+
+Steve Frazer, City of Derry airport managing director
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![WATCH: 'Look at this for luxury' - Tommy Tiernan gives sneak peek of huge American tour bus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: 'Look at this for luxury' - Tommy Tiernan gives sneak peek of huge American tour bus")](https://www.derrynow.com/news/national-news/1648195/watch-look-at-this-for-luxury-tommy-tiernan-gives-sneak-peek-of-huge-american-tour-bus.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[WATCH: 'Look at this for luxury' - Tommy Tiernan gives sneak peek of huge American tour bus](https://www.derrynow.com/news/national-news/1648195/watch-look-at-this-for-luxury-tommy-tiernan-gives-sneak-peek-of-huge-american-tour-bus.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Arrest warrant issued for Derry man who pleaded guilty to drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Arrest warrant issued for Derry man who pleaded guilty to drug charges")](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Arrest warrant issued for Derry man who pleaded guilty to drug charges](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mourners gather for funeral of ‘journalistic giant’ David Davin-Power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mourners gather for funeral of ‘journalistic giant’ David Davin-Power")](https://www.derrynow.com/news/northern-ireland/1648035/mourners-gather-for-funeral-of-journalistic-giant-david-davin-power.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Mourners gather for funeral of ‘journalistic giant’ David Davin-Power](https://www.derrynow.com/news/northern-ireland/1648035/mourners-gather-for-funeral-of-journalistic-giant-david-davin-power.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Another successful year and AGM for Derry Credit Union](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Another successful year and AGM for Derry Credit Union")](https://www.derrynow.com/story-telling/pictures---videos/1648772/in-pictures-another-successful-year-and-agm-for-derry-credit-union.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Another successful year and AGM for Derry Credit Union](https://www.derrynow.com/story-telling/pictures---videos/1648772/in-pictures-another-successful-year-and-agm-for-derry-credit-union.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: Stylish Derry home in ideal location hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Stylish Derry home in ideal location hits the market")](https://www.derrynow.com/news/pictures---videos/1646758/property-stylish-derry-home-in-ideal-location-hits-the-market.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PROPERTY: Stylish Derry home in ideal location hits the market](https://www.derrynow.com/news/pictures---videos/1646758/property-stylish-derry-home-in-ideal-location-hits-the-market.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Na Magha host Camogie Halloween Camp](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Na Magha host Camogie Halloween Camp")](https://www.derrynow.com/story-telling/pictures---videos/1648704/in-pictures-na-magha-host-camogie-halloween-camp.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Na Magha host Camogie Halloween Camp](https://www.derrynow.com/story-telling/pictures---videos/1648704/in-pictures-na-magha-host-camogie-halloween-camp.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home")](https://www.derrynow.com/story-telling/pictures---videos/1646905/in-pictures-craft-fair-coffee-morning-held-in-the-ymca-drumahoe-in-aid-of-ardlough-care-home.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home](https://www.derrynow.com/story-telling/pictures---videos/1646905/in-pictures-craft-fair-coffee-morning-held-in-the-ymca-drumahoe-in-aid-of-ardlough-care-home.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport")](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+
+Steve Frazer, City of Derry airport managing director
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
 
@@ -381,41 +412,6 @@ Multimedia
 
 [PICTURES: Derry City fans out in force for Derry v. Shelbourne game](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum")](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645082/in-pictures-derry-thronged-for-finale-of-europes-biggest-halloween-celebration.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](https://www.derrynow.com/story-telling/pictures---videos/1645082/in-pictures-derry-thronged-for-finale-of-europes-biggest-halloween-celebration.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day")](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts")](https://www.derrynow.com/news/pictures---videos/1644302/pictures-all-smiles-as-halloween-fun-celebrated-at-lincoln-courts.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts](https://www.derrynow.com/news/pictures---videos/1644302/pictures-all-smiles-as-halloween-fun-celebrated-at-lincoln-courts.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,57 +513,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
+[![Two men arrested as part of Derry dissident republican investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested as part of Derry dissident republican investigation")](https://www.derrynow.com/news/local-news/1648951/two-men-arrested-as-part-of-derry-dissident-republican-investigation.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, November 6, 2024](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Leading mental health charity AWARE NI announces new partnership with Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading mental health charity AWARE NI announces new partnership with Derry GAA")](https://www.derrynow.com/news/home/1648222/leading-mental-health-charity-aware-ni-announces-new-partnership-with-derry-gaa.html)
-
-Leigh Osborne and Bridie Kelly from AWARE NI with Derry GAA Chairman, John Keenan along with Health & Wellbeing Officer Geraldine McKay and Children’s Officer Michelle Friel.
-
-[Home](https://www.derrynow.com/)
-
-[Leading mental health charity AWARE NI announces new partnership with Derry GAA](https://www.derrynow.com/news/home/1648222/leading-mental-health-charity-aware-ni-announces-new-partnership-with-derry-gaa.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)](https://www.derrynow.com/resizer/165/93/true/2024_11_05/Cara_Hunter_MLA_East_Derry_and_Selina_Casey-1730808133528.jpg--.jpg?1730808133982 "Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)")](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
-
-Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry-based baby loss foundation launched](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/resizer/165/93/true/2024_11_05/923e11732c9c7c99e21fa103a07dd10d.jpg--.jpg "History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport")](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
-
-Steve Frazer, City of Derry airport managing director
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![ Gerry Darby and Michael Browne of Lough Neagh Partnership](https://www.derrynow.com/resizer/165/93/true/2024_11_05/LNP_MichaelBrowneGerryDarby-1730808903761.JPG--.JPG?1730808908842 " Gerry Darby and Michael Browne of Lough Neagh Partnership")](https://www.derrynow.com/news/county-derry-post/1647830/lough-neagh-partnership-delegation-visits-scotland-to-explore-ownership-models.html)
-
-Gerry Darby and Michael Browne of Lough Neagh Partnership
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Lough Neagh Partnership Delegation visits Scotland to explore ownership models](https://www.derrynow.com/news/county-derry-post/1647830/lough-neagh-partnership-delegation-visits-scotland-to-explore-ownership-models.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry set to celebrate Christmas with feast of festive fun and frolics](https://www.derrynow.com/resizer/165/93/true/2024_11_05/IDNT_7-11-24_Christmas_2024_launch_4-1730814175434.jpg--.jpg?1730814177873 "Derry set to celebrate Christmas with feast of festive fun and frolics")](https://www.derrynow.com/news/local-news/1647963/derry-set-to-celebrate-christmas-with-feast-of-festive-fun-and-frolics.html)
-
-Mayor Lilian Seenoi-Barr, launching the 2024 Christmas Programme for Derry and Strabane with the help of Santa Claus and his little helpers Cría Cole, Oisin Heffernan, Ennan Shiels.
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry set to celebrate Christmas with feast of festive fun and frolics](https://www.derrynow.com/news/local-news/1647963/derry-set-to-celebrate-christmas-with-feast-of-festive-fun-and-frolics.html)
+[Two men arrested as part of Derry dissident republican investigation](https://www.derrynow.com/news/local-news/1648951/two-men-arrested-as-part-of-derry-dissident-republican-investigation.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mulholland family,  Bellaghy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mulholland family,  Bellaghy")](https://www.derrynow.com/news/county-derry-post/1648872/bellaghy-family-remember-late-grandmother-with-charity-concert.html)
+
+Mulholland family, Bellaghy
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Bellaghy family remember late grandmother with charity concert](https://www.derrynow.com/news/county-derry-post/1648872/bellaghy-family-remember-late-grandmother-with-charity-concert.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Arrest warrant issued for Derry man who pleaded guilty to drug charges](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Arrest warrant issued for Derry man who pleaded guilty to drug charges")](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Arrest warrant issued for Derry man who pleaded guilty to drug charges](https://www.derrynow.com/news/local-news/1648914/arrest-warrant-issued-for-derry-man-who-pleaded-guilty-to-drug-charges.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Alleged New IRA man granted permission to move to Claudy area](https://www.derrynow.com/resizer/165/93/true/2018/07/26120135/courts.jpg--.jpg "Alleged New IRA man granted permission to move to Claudy area")](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
+
+The application for a bail variation was heard this morning.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Alleged New IRA man granted permission to move to Claudy area](https://www.derrynow.com/news/home/1648861/alleged-new-ira-man-granted-permission-to-move-to-claudy-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![SOLD OUT: Self defence classes in Derry fully booked following recent attacks](https://www.derrynow.com/resizer/165/93/true/2024_11_06/karate-2578819_1280_%281%29-1730893358324.jpg--.jpg?1730893358369 "SOLD OUT: Self defence classes in Derry fully booked following recent attacks")](https://www.derrynow.com/news/home/1648816/sold-out-self-defence-classes-in-derry-fully-booked-following-recent-attacks.html)
+
+The classes will focus on using your voice as a defence, situational awareness, weapons defence, and body positioning, along with techniques, such as striking, kicking, escaping, and more. 
+
+[Home](https://www.derrynow.com/)
+
+[SOLD OUT: Self defence classes in Derry fully booked following recent attacks](https://www.derrynow.com/news/home/1648816/sold-out-self-defence-classes-in-derry-fully-booked-following-recent-attacks.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](https://www.derrynow.com/resizer/165/93/true/2018/07/06170436/Altnagelvin-AE.jpg--.jpg "Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment")](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Altnagelvin Hospital Emergency Department is extremely busy with over 100 patients waiting treatment](https://www.derrynow.com/news/local-news/1648749/altnagelvin-hospital-emergency-department-is-extremely-busy-with-over-100-patients-waiting-treatment.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
