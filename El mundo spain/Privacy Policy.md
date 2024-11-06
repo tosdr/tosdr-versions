@@ -1,18 +1,16 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zyp1NQoAAVEAAABcxv0)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZyrJigoAAVEAAABctgo)
 
 Es noticia
 
-* [Elecciones EEUU](https://www.elmundo.es/internacional/2024/11/05/6729c841a75cca8941b90578-directo.html)
+* [Elecciones EEUU](https://www.elmundo.es/internacional/2024/11/06/672aa6561ee97cbdb6bc2693-directo.html)
 * [DANA Valencia](https://www.elmundo.es/espana/2024/11/05/6729c3851ee97cbdb69a4dfc-directo.html)
 * [García Ortiz](https://www.elmundo.es/espana/2024/11/05/672a090e21efa00e228b4585.html)
 * [Mario Picazo](https://www.elmundo.es/ciencia-y-salud/ciencia/2024/11/05/672913d1fc6c83f32a8b4595.html)
-* [Desaparecidos Albufera](https://www.elmundo.es/cronica/2024/11/05/672a54d8e85eceab558b45ad.html)
-* [Consejeros RTVE](https://www.elmundo.es/espana/2024/11/05/672a0094fc6c8397708b45a7.html)
+* [Ayudas Valencia](https://www.elmundo.es/espana/2024/11/05/672a3bdbe9cf4ab4348b4585.html)
 * [Reducción jornada](https://www.elmundo.es/economia/2024/11/05/672a1d08fc6c8323398b45da.html)
-* [Pérez Reverte](https://www.elmundo.es/television/momentvs/2024/11/05/6729be29e4d4d8a95b8b458c.html)
-* [Lehendakaris Muertos](https://www.elmundo.es/cultura/musica/2024/11/05/672a394d21efa0a27d8b4585.html)
+* [Felipe González](https://www.elmundo.es/espana/2024/11/05/672a64f4fc6c83b51b8b4574.html)
+* [Consejeros RTVE](https://www.elmundo.es/espana/2024/11/05/672a0094fc6c8397708b45a7.html)
 * [Río Poyo](https://www.elmundo.es/espana/2024/11/05/672a614721efa06f138b45aa.html)
-* [Tomás Páramo](https://www.elmundo.es/loc/famosos/2024/11/05/672a0f36fc6c83494b8b45ab.html)
 * [Muface](https://www.elmundo.es/economia/empresas/2024/11/05/6729e7c921efa0df338b4576.html)
 * [Papa Giorgio](https://www.elmundo.es/loc/2024/11/05/672a2a4efdddff24a18b457d.html)
 * [Jamón más caro](https://www.elmundo.es/andalucia/2024/11/05/672754c9fc6c83f0518b4589.html)
@@ -29,7 +27,6 @@ Es noticia
 * [Traductor](https://www.elmundo.es/traductor/)
 * [Programación TV](https://www.elmundo.es/television/programacion-tv/)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
-* [Felipe González](https://www.elmundo.es/espana/2024/11/05/672a64f4fc6c83b51b8b4574.html)
 
 [Portada](https://www.elmundo.es/) [Portada](https://www.elmundo.es/?intcmp=MENUMIGA01&s_kw=portada) [Portada](https://www.elmundo.es/)
 
