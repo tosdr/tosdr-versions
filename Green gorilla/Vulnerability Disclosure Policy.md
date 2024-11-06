@@ -10,7 +10,7 @@
 
 ![Traffic Roots Audience Pixel](https://service.trafficroots.com/audience/85b2d05e3b)
 
-20% OFF ON ORDERS OVER $40 WITH CODE:**FALL24**
+35% OFF ON ORDERS OVER $115 WITH CODE: **CARE35**
 
 _Regulations For Hemp CBD Access In California_  I  **[Learn More](https://www.cdph.ca.gov/Programs/OLS/Pages/DPH-24-005E-Emergency-Regulations-for-Industrial-Hemp.aspx)**
 
