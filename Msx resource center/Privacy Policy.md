@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
+* [Outrun MSX2 WIP](https://www.msx.org/forum/msx-talk/development/outrun-msx2-wip?page=13 "Outrun MSX2 WIP")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=1 "New V9990 Wolfenstein-3D-Like Interactive Demo")
+* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
+* [Announcing my latest project](https://www.msx.org/forum/msx-talk/development/announcing-my-latest-project?page=2 "Announcing my latest project")
 * [I've ruined my openmsx installation. Uncaught exception](https://www.msx.org/forum/msx-talk/openmsx/ive-ruined-my-openmsx-installation-uncaught-exception "I've ruined my openmsx installation. Uncaught exception")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
-* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
 * [Contact](https://www.msx.org/forum/msx-talk/msx-resource-center/contact "Contact")
 * [One Cartridge To Rule Them All](https://www.msx.org/forum/msx-talk/hardware/one-cartridge-to-rule-them-all "One Cartridge To Rule Them All")
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [Outrun MSX2 WIP](https://www.msx.org/forum/msx-talk/development/outrun-msx2-wip?page=13 "Outrun MSX2 WIP")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=123 "Please help testing upcoming openMSX release!")
 * [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
-* [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
