@@ -1,5 +1,3 @@
-Check out our lifetime ranks! [www.brickplanet.com/upgrade](https://www.brickplanet.com/upgrade)
-
   
 
 404
