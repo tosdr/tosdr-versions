@@ -777,11 +777,6 @@ follow us on
 
 * [Nestlé USA](https://www.youtube.com/user/nestleusa)
 
-Report Concern form modal block
--------------------------------
-
-[Report Concern](https://privacy.nestleusa.com/report-concern)
-
 Sub Footer Menu
 ---------------
 
