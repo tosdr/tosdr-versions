@@ -310,7 +310,6 @@ Advertise
 
 ### [This top fundie names the best business leaders she has met](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
 
-* 54 mins ago
 * Sally Patten
 
 * ### [Why retail was the Bunnings MD’s third career choice, and why he stayed](https://www.afr.com/work-and-careers/leaders/why-retail-was-the-bunnings-md-s-third-career-choice-and-why-he-stayed-20241104-p5knqm)
@@ -325,7 +324,6 @@ Advertise
 
 ### [The stories behind the world’s top-selling jewellery](https://www.afr.com/life-and-luxury/design/the-stories-behind-the-world-s-top-selling-jewellery-20241031-p5kmrx)
 
-* 54 mins ago
 * Hannah Tattersall
 
 * ### [Family SUV or powerful sports machine? Meet the new VW](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/family-suv-or-powerful-sports-machine-meet-the-new-vw-20241023-p5kkuw)
