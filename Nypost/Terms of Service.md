@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### LIVE UPDATES
+#### Live
 
-[Trump casts his ballot in Florida, urges voters to 'STAY IN LINE!'](https://nypost.com/2024/11/05/us-news/election-day-2024-live-updates-results-from-swing-states-and-across-us/)
+[Polls close in New York with many races still undecided](https://nypost.com/2024/11/05/us-news/ny-nj-election-day-2024-live-updates-results-photos-reactions-more/)
 
 Terms Of Use
 ============
