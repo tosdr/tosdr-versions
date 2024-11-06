@@ -99,8 +99,9 @@ Routing # 091305044
 Phone # [877-847-4540](tel:877-847-4540)
 
 * [Facebook](https://www.facebook.com/people/BankNorth/100072044932147/)
-* [Linkedin](https://www.linkedin.com/company/ibanknorth/)
 * [Instagram](https://www.instagram.com/ibanknorth/)
+* [Linkedin](https://www.linkedin.com/company/ibanknorth/)
+* [YouTube](https://www.youtube.com/@BankNorth1905)
 
 * Resources
     * [Lost or Stolen Debit Card](https://www.ibanknorth.com/resources/lost-or-stolen-debit-card)
