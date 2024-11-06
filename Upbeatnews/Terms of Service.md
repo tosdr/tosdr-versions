@@ -7,7 +7,7 @@
 
 ![](https://www.facebook.com/tr?id=1673630569695052&ev=PageView&noscript=1)
 
-                                                  
+                                         
 
 [![Inside Mystery](https://images.upbeatnews.com/logo.png)](https://upbeatnews.com/)
 
