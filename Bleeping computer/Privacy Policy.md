@@ -36,18 +36,18 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
-    * [![Affordable & eco-friendly laptop for everyday use — 30% off now](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![New SteelFox malware hijacks Windows PCs using vulnerable driver](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Affordable & eco-friendly laptop for everyday use — 30% off now](https://www.bleepingcomputer.com/offer/deals/affordable-and-eco-friendly-laptop-for-everyday-use-30-percent-off-now/)
-    * [![Google Cloud to make MFA mandatory by the end of 2025](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New SteelFox malware hijacks Windows PCs using vulnerable driver](https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
+    * [![Washington courts' systems offline following weekend cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google Cloud to make MFA mandatory by the end of 2025](https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/)
-    * [![Future IT workers can learn ethical hacking in this $50 bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Washington courts' systems offline following weekend cyberattack](https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/)
+    * [![Germany drafts law to protect researchers who find security flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Future IT workers can learn ethical hacking in this $50 bundle](https://www.bleepingcomputer.com/offer/deals/future-it-workers-can-learn-ethical-hacking-in-this-50-bundle/)
-    * [![Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Germany drafts law to protect researchers who find security flaws](https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/)
+    * [![Affordable & eco-friendly refurbed laptop for everyday use — 30% off now](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://www.bleepingcomputer.com/news/security/interpol-disrupts-cybercrime-activity-on-22-000-ip-addresses-arrests-41/)
+        Affordable & eco-friendly refurbed laptop for everyday use — 30% off now](https://www.bleepingcomputer.com/offer/deals/affordable-and-eco-friendly-refurbed-laptop-for-everyday-use-30-percent-off-now/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
