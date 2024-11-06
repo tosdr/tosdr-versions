@@ -108,6 +108,7 @@
 * [Subscribe](https://www.media24.com/subscriptions/ "Subscribe")
 * [Careers](https://media24.simplify.hr/ "Careers")
 * [Contact](https://www.media24.com/contact/ "Contact")
+* [](#)
 
 [](https://www.media24.com/)
 
@@ -317,3 +318,5 @@ To view Media24’s Promotion of Access to Information Act (PAIA) manuals, click
 © 2024 Media24 All rights reserved   /   [Privacy Policy](https://www.media24.com/privacy-policy)
 
 [](https://www.linkedin.com/company/media24/)
+
+Search for:Search Button
