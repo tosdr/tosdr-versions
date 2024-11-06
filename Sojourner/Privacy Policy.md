@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-bbca06a4ee1bffb0f55b2e2bd25dc542
+6c34bfb60c2af9ffdddff77f07793c62
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Rose quartz hoop earrings](https://www.sojourner.biz/images/cache/jewelry/E0053.200.jpg)](https://www.sojourner.biz/jewelry/earrings/rose-quartz-hoop-earrings.html "Rose quartz hoop earrings")
+[![15 mm transparent purple heart beads](https://www.sojourner.biz/images/cache/glass/HRT027.200.jpg)](https://www.sojourner.biz/beads/glass/15-mm-transparent-purple-heart-beads.html "15 mm transparent purple heart beads")
 
-#### [Rose quartz hoop earrings](https://www.sojourner.biz/jewelry/earrings/rose-quartz-hoop-earrings.html "Rose quartz hoop earrings")
+#### [15 mm transparent purple heart beads](https://www.sojourner.biz/beads/glass/15-mm-transparent-purple-heart-beads.html "15 mm transparent purple heart beads")
 
-$50.00
+$7.00
 
 ### Best Sellers
 
