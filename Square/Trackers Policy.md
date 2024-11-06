@@ -102,9 +102,9 @@ You can contact our privacy team with any questions about this Cookie Policy at 
 
 [E-sign Consent](https://squareup.com/ie/legal/general/sign)
 
-[Intellectual Property Policy](https://squareup.com/ie/legal/general/copyright)
-
 [Square Buyer Account Terms of Use](https://squareup.com/ie/legal/general/buyer-account-terms)
+
+[Intellectual Property Policy](https://squareup.com/ie/legal/general/copyright)
 
 [Payments](#)
 
