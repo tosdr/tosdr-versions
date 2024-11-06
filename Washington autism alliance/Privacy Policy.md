@@ -164,6 +164,16 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABLAQAAAAC62kO+AAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUTDcAAAF3AABhXCxcQAAAABJRU5ErkJggg==)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/11/DecLL-1-150x75.jpg)](https://washingtonautismalliance.org/events/initial-assessments-evaluations-reevaluations-iees/?occurrence=2024-12-12)
+    
+    Dec 12 2024
+    
+    #### [Initial Assessments, evaluations, reevaluations, IEEs](https://washingtonautismalliance.org/events/initial-assessments-evaluations-reevaluations-iees/?occurrence=2024-12-12)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
     No event found!
     
 * Blog Archives
