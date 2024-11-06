@@ -2,14 +2,14 @@ Wednesday, November 6 2024
 
 Breaking News
 
+* [America In The Age Of Stupidity: It Seems America Is Not As Stupid As I Thought](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
+* [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/)
 * [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
 * [CNN’s John King Breaks Down Candidates’ ‘Easiest’ Paths To Victory On Election Day](https://www.conservativedailynews.com/2024/11/cnns-john-king-breaks-down-candidates-easiest-paths-to-victory-on-election-day/)
 * [Megyn Kelly’s Powerful Trump Endorsement](https://www.conservativedailynews.com/2024/11/megyn-kellys-powerful-trump-endorsement/)
 * [President Joe Biden’s Schedule for Tuesday, November 5, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-5-2024/)
 * [Americans Might Kick Slew Of Soft-On-Crime Prosecutors To The Curb On Election Day](https://www.conservativedailynews.com/2024/11/americans-might-kick-slew-of-soft-on-crime-prosecutors-to-the-curb-on-election-day/)
 * [And Without Firing a Single Shot, America’s Infidels Are Now Atheists](https://www.conservativedailynews.com/2024/11/and-without-firing-a-single-shot-americas-infidels-are-now-atheists/)
-* [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
-* [Tuesday’s election will be a referendum on American capitalism](https://www.conservativedailynews.com/2024/11/tuesdays-election-will-be-a-referendum-on-american-capitalism/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -131,6 +131,42 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-garbagge-day-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/garbage-day/)
+    
+    [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/)
+    
+    November 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
+    
+    [America In The Age Of Stupidity: It Seems America Is Not As Stupid As I Thought](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
+    
+    November 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5744-scaled-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/)
+    
+    [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/)
+    
+    November 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/terrible-women/)
+    
+    [Total Losers](https://www.conservativedailynews.com/2024/11/terrible-women/)
+    
+    November 6, 2024
+    
+* [![Trump wins success fighter](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-wins-again/)
+    
+    [TRUMP WINS! \[Again\]](https://www.conservativedailynews.com/2024/11/trump-wins-again/)
+    
+    November 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/homemade-hot-chocolate.jpg)](https://www.conservativedailynews.com/2024/11/when-all-else-fails-cover-it-with-chocolate/)
+    
+    [When All Else Fails, Cover It With Chocolate](https://www.conservativedailynews.com/2024/11/when-all-else-fails-cover-it-with-chocolate/)
+    
+    November 6, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
     
     [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
@@ -143,55 +179,19 @@ Recent Posts
     
     November 5, 2024
     
-* [![Megyn Kelly](https://www.conservativedailynews.com/wp-content/uploads/2018/06/Megyn-Kelly.jpg)](https://www.conservativedailynews.com/2024/11/megyn-kellys-powerful-trump-endorsement/)
-    
-    [Megyn Kelly’s Powerful Trump Endorsement](https://www.conservativedailynews.com/2024/11/megyn-kellys-powerful-trump-endorsement/)
-    
-    November 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/01-famrisk-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/11/families-at-risk/)
-    
-    [Families At Risk](https://www.conservativedailynews.com/2024/11/families-at-risk/)
-    
-    November 5, 2024
-    
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-5-2024/)
-    
-    [President Joe Biden’s Schedule for Tuesday, November 5, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-5-2024/)
-    
-    November 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/11/calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm/)
-    
-    [Calling Trump ‘Hitler’ Has Done Permanent Damage to the Moral Realm](https://www.conservativedailynews.com/2024/11/calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm/)
-    
-    November 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/09/trump-thumbs-up-rally-toledo-ohio-2020-getty-640x480-1.jpg)](https://www.conservativedailynews.com/2024/11/americans-might-kick-slew-of-soft-on-crime-prosecutors-to-the-curb-on-election-day/)
-    
-    [Americans Might Kick Slew Of Soft-On-Crime Prosecutors To The Curb On Election Day](https://www.conservativedailynews.com/2024/11/americans-might-kick-slew-of-soft-on-crime-prosecutors-to-the-curb-on-election-day/)
-    
-    November 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz110524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/hipocrites/)
-    
-    [Hipocrites](https://www.conservativedailynews.com/2024/11/hipocrites/)
-    
-    November 5, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Langdon Tactical Releases Slate Of Beretta 1301 Upgrades](https://www.thegunpage.com/langdon-tactical-releases-slate-of-beretta-1301-upgrades/10611700)
+* [U.S. Reps Introduce Measure Targeting Gun-Specific Merchant Category Code](https://www.thegunpage.com/u-s-reps-introduce-measure-targeting-gun-specific-merchant-category-code/10611697)
+* [JK Armament Now Selling HUB Booster Assembly](https://www.thegunpage.com/jk-armament-now-selling-hub-booster-assembly/10611701)
+* [Election 2024: A Great Night For America’s Gun Owners](https://www.thegunpage.com/election-2024-a-great-night-for-americas-gun-owners/10611695)
+* [White Flyer Website Has New Look](https://www.thegunpage.com/white-flyer-website-has-new-look/10611703)
+* [Pro-Gun Candidates Sweep Elections](https://www.thegunpage.com/pro-gun-candidates-sweep-elections/10611694)
+* [51 Cadets, 12 Teams Compete At Fourth Annual NRA Arizona State JROTC 3-Position Air Rifle Championship](https://www.thegunpage.com/51-cadets-12-teams-compete-at-fourth-annual-nra-arizona-state-jrotc-3-position-air-rifle-championship/10611702)
+* [TRUMP WINS!](https://www.thegunpage.com/trump-wins/10611693)
 * [My Favorite Appendix Carry Holsters](https://www.thegunpage.com/my-favorite-appendix-carry-holsters/10611691)
 * [POTD: U.S. Army Soldiers In Iraqi Kurdistan Region](https://www.thegunpage.com/potd-u-s-army-soldiers-in-iraqi-kurdistan-region/10611692)
-* [2024 Election Fears Fail to Drive Increase in Gun Sales](https://www.thegunpage.com/2024-election-fears-fail-to-drive-increase-in-gun-sales/10611689)
-* [At a Loss: Voters Still Have No Idea What Harris Stands For, Neither Does She](https://www.thegunpage.com/at-a-loss-voters-still-have-no-idea-what-harris-stands-for-neither-does-she/10611686)
-* [Buy A Rossi Rifle, Get A Free Revolver](https://www.thegunpage.com/buy-a-rossi-rifle-get-a-free-revolver/10611688)
-* [Best First-Aid Kit for EDC: Essential Medical Gear For Daily Carry](https://www.thegunpage.com/best-first-aid-kit-for-edc-essential-medical-gear-for-daily-carry/10611684)
-* [New Factory For Hydra Weaponry](https://www.thegunpage.com/new-factory-for-hydra-weaponry/10611680)
-* [Charges Dropped Against Georgia Gun Owner Over Illegal Storage Ordinance](https://www.thegunpage.com/charges-dropped-against-georgia-gun-owner-over-illegal-storage-ordinance/10611676)
-* [Century BFT74 And BFT556: USA-Made Small-Bore AK](https://www.thegunpage.com/century-bft74-and-bft556-usa-made-small-bore-ak/10611681)
-* [Biden-Harris Action Seeks to Close Shooting Access on 1.3 Million Acres of Public Land in Utah](https://www.thegunpage.com/biden-harris-action-seeks-to-close-shooting-access-on-1-3-million-acres-of-public-land-in-utah/10611673)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,15 +233,15 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/#comment-783044)
+* KayCee on [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/#comment-783041)
+* KayCee on [Fingers Crossed](https://www.conservativedailynews.com/2024/11/fingers-crossed/#comment-783040)
 * KayCee on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783035)
 * Not\_Represented on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783024)
 * charles wilkins on [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/#comment-783017)
 * Richard McDonough on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-783016)
 * Sundevil75 on [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/#comment-783007)
 * charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-783006)
-* charles wilkins on [Headless In D.C.](https://www.conservativedailynews.com/2024/10/headless-in-d-c/#comment-783005)
-* TMann on [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/#comment-782998)
-* Stanley Warner on [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/#comment-782997)
 
 [Close](#)
 
