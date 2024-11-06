@@ -76,6 +76,79 @@ Search
 Privacy Policy
 ==============
 
+Main menu
+---------
+
+* [Reports & Research](https://www.fcc.gov/reports-research)
+    
+    * [Reports and Data Overview](https://www.fcc.gov/reports-research)
+        
+    * [Reports](https://www.fcc.gov/reports-research/reports)
+        
+    * [Data](https://www.fcc.gov/reports-research/data)
+        
+        Featured Item
+        
+        Off
+        
+        Mega Menu Desktop Only
+        
+        Off
+        
+    * [Guides](https://www.fcc.gov/reports-research/guides)
+        
+        Featured Item
+        
+        Off
+        
+        Mega Menu Desktop Only
+        
+        Off
+        
+    * [Maps](https://www.fcc.gov/reports-research/maps)
+        
+        Featured Item
+        
+        Off
+        
+        Mega Menu Desktop Only
+        
+        Off
+        
+    * [Working Papers](https://www.fcc.gov/reports-research/working-papers)
+        
+    * [For Developers](https://www.fcc.gov/reports-research/developers)
+        
+        Featured Item
+        
+        Off
+        
+        Mega Menu Desktop Only
+        
+        Off
+        
+    * [Fiscal Year 2022-2026 Strategic Plan](https://docs.fcc.gov/public/attachments/DOC-381830A1.pdf)
+        
+        Featured Item
+        
+        On
+        
+        Mega Menu Desktop Only
+        
+        Off
+        
+    * [Workload Dashboard](https://www.fcc.gov/reports-research/workload-and-operations-dashboard)
+        
+        Featured Item
+        
+        Off
+        
+        Mega Menu Desktop Only
+        
+        Off
+        
+    
+
 The FCC is committed to protecting the privacy of its visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
 
 ### Information Collected Automatically
