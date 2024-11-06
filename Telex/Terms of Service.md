@@ -2,9 +2,9 @@ Lénárd
 
 [belföld](https://telex.hu/rovat/belfold) [külföld](https://telex.hu/rovat/kulfold) [gazdaság](https://telex.hu/rovat/gazdasag) [videó](https://telex.hu/rovat/video) [élet](https://telex.hu/rovat/eletmod) [techtud](https://telex.hu/rovat/techtud) [after](https://telex.hu/after) [english](https://telex.hu/english)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "derült")
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "gyengén felhős")
 
-0°12°
+1°13°
 
 Menü
 
