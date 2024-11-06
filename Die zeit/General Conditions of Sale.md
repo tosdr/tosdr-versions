@@ -108,6 +108,8 @@ Anzeigen
     * Hell
     * Dunkel
 
+[**Eilmeldung** 08:29 Uhr Trump erklärt sich vorzeitig zum Wahlsieger](https://www.zeit.de/politik/ausland/2024-11/trump-erklaert-sich-vorzeitig-zum-wahlsieger)
+
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
 
