@@ -464,7 +464,7 @@ About
 
 [Request a Quote](https://www.symmetryelectronics.com/request-a-quote/)
 
-Symmetry Electronics, a division of Braemac, is a part of the Exponential Technology group (XTG). Copyright © 2024
+Symmetry Electronics, a division of Braemac, is a part of the Exponential Technology Group (XTG). Copyright © 2024
 
 **We use cookies to improve your experience on our site and to show you relevant recommendations.**  
 To find out more, read our updated [privacy policy](https://www.symmetryelectronics.com/about/privacy-policy/)
