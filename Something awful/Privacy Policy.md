@@ -205,21 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Cut-Rate Books! (Part Two of Two)](https://www.somethingawful.com/photoshop-phriday/cutrate-books/1/)
-* [Nightmares Fear Factory!](https://www.somethingawful.com/comedy-goldmine/nightmares-fear-factory/1/)
-* [AwfulVision: The Movie!](https://www.somethingawful.com/awfulvision/movie-effort-awfulvision/1/)
-* [Henchman Status Updates: Astro Panic](https://www.somethingawful.com/feature-articles/henchman-status-space/1/)
-* [The 22 Most Awful Moments in Science Fiction](https://www.somethingawful.com/most-awful/most-awful-scifi/1/)
+* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [craigslist, Ask / Tell, Pinocchia, and Walmart Sucks](https://www.somethingawful.com/weekend-web/craigslist-ask-tell/1/)
+* [CSNation, Teen Problems and Issues, PokeCommunity, and GoFuckYourself](https://www.somethingawful.com/weekend-web/csnation-teen-problems/1/)
+* [Darknest and I Hate My Miserable Life](https://www.somethingawful.com/weekend-web/darknest-miserable-life/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/books.png) [The Chronicles of Gnarlia: I work you into the story based on your username](http://forums.somethingawful.com/showthread.php?threadid=4074566 "The Chronicles of Gnarlia: I work you into the story based on your username")
+
 ### Random Articles
 
-* [Subj: THINGS I RAN AWAY FROM](https://www.somethingawful.com/news/roamin-dad-59/)
-* [Castle Vidcons](https://www.somethingawful.com/comedy-goldmine/castle-vidcons-game/1/)
-* [The Body Bouncer](https://www.somethingawful.com/awful-links/awful-link-3088/)
-* [Mission Briefings from Hell: Operation Glorious Pegasus](https://www.somethingawful.com/news/hell-briefing-1/1/)
-* [Silvert's Adaptive Clothing (Thanks, goodbyebluesky!)](https://www.somethingawful.com/awful-links/silverts-adaptive-clothing/)
+* [Anencephalie Info](https://www.somethingawful.com/awful-links/awful-link-3704/)
+* [The Jefferson Brothers: ARRESTED!](https://www.somethingawful.com/flash-tub/jefferson-brothers-arrested/)
+* [Porcupine Tree](https://www.somethingawful.com/garbage-day/porcupine-tree-incident/1/)
+* [Help! I learned about relationships from a homeschool textbook!](https://www.somethingawful.com/comedy-goldmine/homeschool-textbook/)
+* [H.P. Lovecraft's A-Team (Part 2)](https://www.somethingawful.com/news/hp-lovecrafts-ateam-2/)
 
 [Random!](https://www.somethingawful.com/random/)
 
