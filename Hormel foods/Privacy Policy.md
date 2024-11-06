@@ -9,7 +9,7 @@ Menu](# "(click to expand contents)")
 * [Supplemental Privacy Notice for the European Union, United Kingdom, Iceland, Lichtenstein and Norway](https://www.hormelfoods.com/privacy-policy/supplemental-privacy-notice-for-the-european-union-united-kingdom-iceland-lichtenstein-and-norway/)
 * [Supplemental Privacy Notice for Indonesia](https://www.hormelfoods.com/privacy-policy/supplemental-privacy-notice-for-indonesia/)
 * [Supplemental Privacy Notice for the Philippines](https://www.hormelfoods.com/privacy-policy/supplemental-privacy-notice-for-the-philippines/)
-* [Supplemental U.S. Privacy Notice for CA, CO, CT, VA, UT](https://www.hormelfoods.com/privacy-policy/supplemental-u-s-privacy-notice/)[Expand/collapse](#)
+* [Supplemental U.S. Privacy Notice for CA, CO, CT, VA, UT, TX, MT, OR](https://www.hormelfoods.com/privacy-policy/supplemental-u-s-privacy-notice/)[Expand/collapse](#)
     
     * [Request to Know](https://www.hormelfoods.com/privacy-policy/supplemental-u-s-privacy-notice/request-to-know/)
     * [Request for Deletion](https://www.hormelfoods.com/privacy-policy/supplemental-u-s-privacy-notice/request-for-deletion/)
