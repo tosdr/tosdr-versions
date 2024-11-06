@@ -129,12 +129,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 Upcoming Events
 ---------------
 
-Nov 6
-
-10:00 am - 11:00 am EST
-
-### [11/06 @ 10am EST – How do you BOND more than two internet connections? | Ask the CEO your tech questions](https://speedify.com/event/11-06-10am-est-how-do-you-bond-more-than-two-internet-connections-ask-the-ceo-your-tech-questions/ "11/06 @ 10am EST – How do you BOND more than two internet connections? | Ask the CEO your tech questions")
-
 Nov 13
 
 10:00 am - 11:00 am EST
@@ -205,3 +199,7 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
+
+                         
+
+This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
