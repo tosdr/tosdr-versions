@@ -159,7 +159,7 @@ Main navigation
     
     #### Trending Now
     
-    [Festival Shop](https://www.morphe.com/pages/festival-shop) [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
+    [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
     
     [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
@@ -347,8 +347,6 @@ Main navigation
     [Clean Beauty](https://www.morphe.com/collections/morphe2)
     
     #### Trending Now 
-    
-    [Festival Shop](https://www.morphe.com/pages/festival-shop)
     
     [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready)
     
