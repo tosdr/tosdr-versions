@@ -2,6 +2,10 @@
 
   
 
+[🎄 Extended Christmas Returns Are Here! 🎁](https://veno-scorp.co.uk/pages/christmas-extended-policy)
+
+  
+
 [🎄 Extended Christmas Returns Are Here! 🎁 Click here for details](https://veno-scorp.co.uk/pages/christmas-extended-policy)
 
      
@@ -36,7 +40,7 @@
 * [Help Support](https://veno-scorp.co.uk/pages/contact)
 * [Deals](https://veno-scorp.co.uk/collections/black-friday)
 
- [![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/CHRISMAS_LOGO_5e1dff14-b0c5-4724-8247-6fe56feb583f.png?v=1730814428&width=600) ![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/CHRISMAS_LOGO_f40bfab4-6f9d-4396-a9e0-d429f963668d.png?v=1730814458&width=600)](https://veno-scorp.co.uk/)
+ [![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/CHRISMAS_LOGO_5e1dff14-b0c5-4724-8247-6fe56feb583f.png?v=1730814428&width=600) ![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/cHRISMAS-lOGO_1.gif?v=1730891482&width=600)](https://veno-scorp.co.uk/)
 
  
 
