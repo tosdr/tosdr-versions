@@ -1,4 +1,4 @@
- [![Kimai - Open Source time-tracker](/images/kimai_logo.webp) Kimai](https://www.kimai.org/)
+ [![Kimai - Open Source time-tracker](/images/kimai_logo_48.webp) Kimai](https://www.kimai.org/)
 
 ##### Menu
 
