@@ -104,7 +104,7 @@ You understand and agree that Lemon.io may revise, modify and/or supplement the 
     * [Blog](https://lemon.io/blog/)
     * [Events](https://events.lemon.io/)
 * [Resources](#)
-    * [FAQ for business](https://lemon.io/support-help-faq/)
+    * [FAQ for companies](https://lemon.io/support-help-faq/)
     * [FAQ for developers](https://lemon.io/faq-for-devs/)
     * [Case studies](#)
         
