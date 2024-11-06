@@ -91,9 +91,9 @@ Menu
         * [![Flashlight Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FlashlightStunGuns_500x500_6e0aebe0-3f1f-4513-8388-824cc283e843.jpg?v=1615473141&width=300)
             
             Flashlight Stun Guns](https://www.thehomesecuritysuperstore.com/collections/flashlight-stun-guns)
-        * [![Baton Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BatonStunGuns_500x500_1b8db985-cb16-4006-91e0-5a770d27e3a4.jpg?v=1563419412&width=300)
+        * [![Baton Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StunBatons_500x500_0fdb027e-8661-4c80-9c31-42ff128bacbb.jpg?v=1626708970&width=300)
             
-            Baton Stun Guns](https://www.thehomesecuritysuperstore.com/collections/baton-stun-guns)
+            Baton Stun Guns](https://www.thehomesecuritysuperstore.com/collections/stun-batons)
         * [![Police Stun Guns & Tasers](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PoliceStunGun1_Edit.jpg?v=1718137802&width=300)
             
             Police Stun Guns & Tasers](https://www.thehomesecuritysuperstore.com/collections/police-stun-guns)
@@ -314,9 +314,9 @@ Menu
     * [![Flashlight Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FlashlightStunGuns_500x500_6e0aebe0-3f1f-4513-8388-824cc283e843.jpg?crop=center&height=300&v=1615473141&width=300)
         
         Flashlight Stun Guns](https://www.thehomesecuritysuperstore.com/collections/flashlight-stun-guns)
-    * [![Baton Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BatonStunGuns_500x500_1b8db985-cb16-4006-91e0-5a770d27e3a4.jpg?crop=center&height=300&v=1563419412&width=300)
+    * [![Baton Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StunBatons_500x500_0fdb027e-8661-4c80-9c31-42ff128bacbb.jpg?crop=center&height=300&v=1626708970&width=300)
         
-        Baton Stun Guns](https://www.thehomesecuritysuperstore.com/collections/baton-stun-guns)
+        Baton Stun Guns](https://www.thehomesecuritysuperstore.com/collections/stun-batons)
     * [![Police Stun Guns & Tasers](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PoliceStunGun1_Edit.jpg?crop=center&height=300&v=1718137802&width=300)
         
         Police Stun Guns & Tasers](https://www.thehomesecuritysuperstore.com/collections/police-stun-guns)
