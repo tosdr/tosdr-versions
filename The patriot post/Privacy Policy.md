@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,6 +126,9 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Allen West November 6, 2024](https://patriotpost.us/opinion/111714-november-6-2024-2024-11-05)
+*      [Rich Lowry The Media on the Ballot](https://patriotpost.us/opinion/111713-the-media-on-the-ballot-2024-11-05)
+*      [Ian Haworth Kemi Badenoch Teaches Us a Lesson on Race](https://patriotpost.us/opinion/111712-kemi-badenoch-teaches-us-a-lesson-on-race-2024-11-05)
 *      [Dennis Prager Calling Trump ‘Hitler’ Has Done Permanent Damage to the Moral Realm](https://patriotpost.us/opinion/111685-calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm-2024-11-05)
 *      [Victor Joecks Harris Is Wearing ‘The Emperor’s New Clothes’](https://patriotpost.us/opinion/111683-harris-is-wearing-the-emperors-new-clothes-2024-11-05)
 *      [Salena Zito Trump Has Reason in Pennsylvania to Feel Better Than Harris](https://patriotpost.us/opinion/111686-trump-has-reason-in-pennsylvania-to-feel-better-than-harris-2024-11-05)
