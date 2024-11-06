@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [John Shipton proclaims non-Western nations world's 'centre of gravity'](https://independentaustralia.net/article-display/john-shipton-proclaims-non-western-nations-worlds-centre-of-gravity,19143 "Permanent Link : John Shipton proclaims non-Western nations world's 'centre of gravity'")
+* [Nightshade empowers artists in the battle against unauthorised AI theft](https://independentaustralia.net/article-display/nightshade-empowers-artists-in-the-battle-against-unauthorised-ai-theft,19142 "Permanent Link : Nightshade empowers artists in the battle against unauthorised AI theft")
 * [BHP pays hefty price for deadly Brazilian dam disaster](https://independentaustralia.net/article-display/bhp-pays-hefty-price-for-deadly-brazilian-dam-disaster,19141 "Permanent Link : BHP pays hefty price for deadly Brazilian dam disaster")
 * [Win or lose, Donald Trump’s weird boys are pacing in the wings](https://independentaustralia.net/article-display/win-or-lose-donald-trumps-weird-boys-are-pacing-in-the-wings,19140 "Permanent Link : Win or lose, Donald Trump’s weird boys are pacing in the wings")
 * [Third stage of student visa boom grinds on in September](https://independentaustralia.net/article-display/third-stage-of-student-visa-boom-grinds-on-in-september,19139 "Permanent Link : Third stage of student visa boom grinds on in September")
 * [How Trump might steal election victory from Kamala Harris](https://independentaustralia.net/article-display/how-trump-might-steal-election-victory-from-kamala-harris,19138 "Permanent Link : How Trump might steal election victory from Kamala Harris")
 * [Norway’s economy still leads the world, with Australia and the USA advancing](https://independentaustralia.net/article-display/norways-economy-still-leads-the-world-with-australia-and-the-usa-advancing,19137 "Permanent Link : Norway’s economy still leads the world, with Australia and the USA advancing")
-* [Some very basic questions for the Reserve Bank of Australia](https://independentaustralia.net/article-display/some-very-basic-questions-for-the-reserve-bank-of-australia,19136 "Permanent Link : Some very basic questions for the Reserve Bank of Australia")
-* [POEM: The Odours](https://independentaustralia.net/article-display/poem-the-odours,19132 "Permanent Link : POEM: The Odours")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
