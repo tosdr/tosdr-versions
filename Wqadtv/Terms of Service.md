@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4c62ad05-766e-47fb-8596-206a35ee40e1/20241105T233958/4c62ad05-766e-47fb-8596-206a35ee40e1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4c62ad05-766e-47fb-8596-206a35ee40e1/20241105T233958/4c62ad05-766e-47fb-8596-206a35ee40e1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfc26164-6723-4f88-abb7-5706600a1374/20241106T130721/cfc26164-6723-4f88-abb7-5706600a1374_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfc26164-6723-4f88-abb7-5706600a1374/20241106T130721/cfc26164-6723-4f88-abb7-5706600a1374_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A break from the rain ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Sunshine, light winds return for Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b247d452-6c71-496c-84e5-95e0bf3c4a23/20241105T154945/b247d452-6c71-496c-84e5-95e0bf3c4a23_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b247d452-6c71-496c-84e5-95e0bf3c4a23/20241105T154945/b247d452-6c71-496c-84e5-95e0bf3c4a23_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-colonel-davenport-historical-foundation-has-been-selected-as-the-three-degree-recipient-for-november-2024/526-7355f410-b788-4e46-bddf-fd4d533bd67b)
+    *  [![](https://media.tegna-media.com/assets/KIII/images/dd45741b-76ed-413b-aa9c-d7820d210933/20241106T130405/dd45741b-76ed-413b-aa9c-d7820d210933_16x9.jpg) ![](https://media.tegna-media.com/assets/KIII/images/dd45741b-76ed-413b-aa9c-d7820d210933/20241106T130405/dd45741b-76ed-413b-aa9c-d7820d210933_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/tropical-update/503-98a38232-f648-4949-9a49-1e963935f5b6)
         
-        #### [The Colonel Davenport Historical Foundation has been selected as the Three Degree recipient for November 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-colonel-davenport-historical-foundation-has-been-selected-as-the-three-degree-recipient-for-november-2024/526-7355f410-b788-4e46-bddf-fd4d533bd67b)
+        #### [TROPICAL UPDATE: Hurricane Rafael set to land in Cuba Wednesday, then move into the Gulf of Mexico](https://www.wqad.com/article/weather/hurricane/tropical-update/503-98a38232-f648-4949-9a49-1e963935f5b6)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-47°
+49°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
