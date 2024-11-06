@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+    
+    ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+    
+    [![Max Templer outside the North Peckham Estate communal boiler](https://southwarknews.co.uk/wp-content/uploads/2024/11/6d6b1967-1096-4a21-9cdf-6e159826d97a-e1730813047139-360x180.jpg)](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
+    
+    ### [Individual boilers vs District heating: Leaseholder claims installing individual boilers on Peckham estate would have saved taxpayer £23 million](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
+    
+    [![Zoë Garbett, Green AM, speaking at the London Rent Commission at City Hall](https://southwarknews.co.uk/wp-content/uploads/2024/11/Zoe-Garbett-360x180.jpg)](https://southwarknews.co.uk/area/london/more-calls-for-rent-controls-in-london/)
+    
+    ### [More calls for rent controls in London](https://southwarknews.co.uk/area/london/more-calls-for-rent-controls-in-london/)
+    
     [![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
     
     ### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
@@ -45,18 +57,6 @@
     Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/CGI-of-Lewisham-Shopping-Centre-redevelopment-3-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
     
     ### [New photos show how Lewisham town centre will be changed forever](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
-    
-    [![Residents claim their block suffered persistent leaks months before the water outage](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3006-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
-    
-    ### [Water outage leaves Bermondsey families ‘living in the Stone Age’](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
-    
-    [![A police sniffer dog works at the scene in Bermondsey following the incident](https://southwarknews.co.uk/wp-content/uploads/2024/11/2W98EK6-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
-    
-    ### [Phone-snatching teen stabbed woman in laughing gas-fuelled argument on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
-    
-    [![Canada Water British Land, boardwalk opening © Tom Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/11/Canada-Water-British-Land-Asif-Khan-boardwalk-opening-©-Tom-Campbell-4-2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-    
-    ### [Canada Water boardwalk is now open, connecting shops, library and future homes](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +107,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+    
+    ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+    
+    [![Max Templer outside the North Peckham Estate communal boiler](https://southwarknews.co.uk/wp-content/uploads/2024/11/6d6b1967-1096-4a21-9cdf-6e159826d97a-e1730813047139-360x180.jpg)](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
+    
+    ### [Individual boilers vs District heating: Leaseholder claims installing individual boilers on Peckham estate would have saved taxpayer £23 million](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
+    
+    [![Zoë Garbett, Green AM, speaking at the London Rent Commission at City Hall](https://southwarknews.co.uk/wp-content/uploads/2024/11/Zoe-Garbett-360x180.jpg)](https://southwarknews.co.uk/area/london/more-calls-for-rent-controls-in-london/)
+    
+    ### [More calls for rent controls in London](https://southwarknews.co.uk/area/london/more-calls-for-rent-controls-in-london/)
+    
     [![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
     
     ### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
@@ -132,18 +144,6 @@ View All Result
     Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/CGI-of-Lewisham-Shopping-Centre-redevelopment-3-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
     
     ### [New photos show how Lewisham town centre will be changed forever](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
-    
-    [![Residents claim their block suffered persistent leaks months before the water outage](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3006-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
-    
-    ### [Water outage leaves Bermondsey families ‘living in the Stone Age’](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
-    
-    [![A police sniffer dog works at the scene in Bermondsey following the incident](https://southwarknews.co.uk/wp-content/uploads/2024/11/2W98EK6-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
-    
-    ### [Phone-snatching teen stabbed woman in laughing gas-fuelled argument on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
-    
-    [![Canada Water British Land, boardwalk opening © Tom Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/11/Canada-Water-British-Land-Asif-Khan-boardwalk-opening-©-Tom-Campbell-4-2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-    
-    ### [Canada Water boardwalk is now open, connecting shops, library and future homes](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -361,31 +361,43 @@ Website
 
 [3rd November 2024](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
 
+[![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+[5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+[![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+[5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+[![Canada Water British Land, boardwalk opening © Tom Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/11/Canada-Water-British-Land-Asif-Khan-boardwalk-opening-©-Tom-Campbell-4-2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
+
+### [Canada Water boardwalk is now open, connecting shops, library and future homes](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
+
+[4th November 2024](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
+
 [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
 
 ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
 
 [31st October 2024](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
 
-[![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-120x86.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-
-### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-
-[30th October 2024](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-
-[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-[![Josh Coburn wrestles for the ball against Burnley. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/DSC_9314-2024-11-03T17_03_53.509-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-praises-strikers-performance-in-first-game-back-from-injury/)
-
-### [Neil Harris praises striker’s performance in first game back from injury](https://southwarknews.co.uk/sport/football/millwall/neil-harris-praises-strikers-performance-in-first-game-back-from-injury/)
-
-[4th November 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-praises-strikers-performance-in-first-game-back-from-injury/)
-
 ### Featured Articles
+
+[![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+
+### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+
+[6th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+
+[![Max Templer outside the North Peckham Estate communal boiler](https://southwarknews.co.uk/wp-content/uploads/2024/11/6d6b1967-1096-4a21-9cdf-6e159826d97a-e1730813047139-120x86.jpg)](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
+
+### [Individual boilers vs District heating: Leaseholder claims installing individual boilers on Peckham estate would have saved taxpayer £23 million](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
+
+[6th November 2024](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
 
 [![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
 
@@ -411,18 +423,6 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 ### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
 [5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
-
-[![Residents claim their block suffered persistent leaks months before the water outage](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3006-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
-
-### [Water outage leaves Bermondsey families ‘living in the Stone Age’](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
-
-[4th November 2024](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
-
-[![A police sniffer dog works at the scene in Bermondsey following the incident](https://southwarknews.co.uk/wp-content/uploads/2024/11/2W98EK6-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
-
-### [Phone-snatching teen stabbed woman in laughing gas-fuelled argument on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
-
-[4th November 2024](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
 
 ### USEFUL PAGES
 
