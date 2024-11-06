@@ -443,15 +443,15 @@ What Customers Are Saying
 
 Based on 302,866 Carpet Cleaning Services Reviews
 
-I initially booked Oxi Fresh Carpet Cleaning Services for just one bedroom, but after seeing the amazing job Frandy did, I had him clean two more! Frandy was thorough, professional, and left my carpets looking like new. I’m so glad I decided to get the other rooms done as well. Thank you, Frandy, for your incredible work and attention to detail. Highly recommend! **RH.** - New York, NY - 11/04/2024
+I couldn’t be happier with the outstanding service from Oxifresh Carpet Cleaning in Harlem, especially thanks to Frandy! From start to finish, the experience was seamless. Frandy was not only incredibly professional but also went above and beyond to ensure my hardwood floors were left spotless and gleaming. I was amazed at how thoroughly he cleaned every inch, making my floors look better than they have in years! He was prompt, respectful, and took great care in handling everything, leaving no mess behind. I highly recommend Oxifresh and Frandy if you’re looking for quality service that truly brings your floors back to life. Thank you, Frandy, for your excellent work! **CP.** - New York, NY - 11/05/2024
 
 (5.0 Out of 5 stars)
 
-Great service and good service from tech **KH.** - Clemmons, NC - 11/03/2024
+**LG.** - Katy, TX - 11/04/2024
 
 (5.0 Out of 5 stars)
 
-Excellent service staff very professional.. the cleaning came out beautiful **AJ.** - Windsor, NC - 11/03/2024
+**GW.** - Jacksonville, FL - 11/04/2024
 
 (5.0 Out of 5 stars)
 
