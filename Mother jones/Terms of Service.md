@@ -57,15 +57,15 @@ Smart, Fearless Journalism
 membership ticker
 -----------------
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR60%7CPAHPR60/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR61%7CPAHPR61/)
 
 Do you give a damn about the future of this country?
 
-You wouldn’t be reading this if you didn’t. It’s never been more obvious that American democracy is fragile. And while the corporate media goes all in on horse-race journalism, we're digging for what matters: the ties between right-wing extremism and the GOP, dirty deeds done by billionaire-funded super-PACs, the how-this-affects-you implications of the candidates’ positions. **One thing that can reliably stop liars, grifters, and extremists? Truth-telling independent media.** And right now, we need your support.
+The guardrails protecting democracy may have buckled, but they are not broken. Autocratic forces are ascendant in America—yes, it _can_ happen here, and did—but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against Trump’s unrestrained exercise of power.** He rails against the press as the “enemy of the people,” because like all liars and extremists, he hates the scrutiny that comes from fearless investigative reporting. Our nonprofit newsroom is built for the chaos and uncertainty ahead. **Depend on it, and please stand with us.**
 
-We know you give a damn about this country’s future. So while the corporate media goes all in on horse-race journalism, we've spent this election season digging for the stories that matter. **One thing that can reliably stop liars, grifters, and extremists is truth-telling independent media.** And right now, we need your support.
+The guardrails protecting democracy may have buckled, but they are not broken. Autocratic forces are ascendant in America, but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against Trump’s unrestrained exercise of power.** He rails against the press as the “enemy of the people,” because he hates the scrutiny that comes from fearless investigative reporting. Our nonprofit newsroom is built for the chaos ahead. **Please stand with us.**
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRV%7CPAHPMRV/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRW%7CPAHPMRW/)
 
 Terms of Service
 ================
