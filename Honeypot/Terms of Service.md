@@ -536,8 +536,6 @@ New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, Commercial Register: Amtsge
 
 [Community](https://www.honeypot.io/en/community/)
 
-[Blog](https://blog.honeypot.io/)
-
 [GraphQL Conf](https://graphqlconf.org/)
 
 We're social, too!
