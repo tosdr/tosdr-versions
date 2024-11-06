@@ -136,17 +136,6 @@ Pronatura Main
     * [Sauvegarde des réserves naturelles](https://www.pronatura.ch/fr/reserves-naturelles)
     * [Autres thèmes](https://www.pronatura.ch/fr/nos-themes)
     
-* [Agir](https://www.pronatura.ch/fr/votre-engagement)
-    
-    * [Bénévolat](https://www.pronatura.ch/fr/engagement-benevole)
-    * [Enfants et jeunes](https://www.pronatura.ch/fr/juniors)
-    * [Corps enseignant](https://www.pronatura.ch/fr/enseignant-e-s)
-    * [Conseils nature](https://www.pronatura.ch/fr/trucs-astuces-nature)
-    * [Devenir membre](https://www.pronatura.ch/fr/devenir-membre)
-    * [Faire un don](https://www.pronatura.ch/fr/faire-un-don "Faire un don pour la nature")
-    * [Legs et héritages](https://www.pronatura.ch/fr/legs-heritages "Legs et héritages - penser d’ores et déjà à demain")
-    * [Dons en cas de deuil](https://www.pronatura.ch/fr/faire-un-don-pour-la-nature-en-cas-de-deuil "Faire un don pour la nature en cas de deuil")
-    
 * [Visiter](https://www.pronatura.ch/fr/nos-offres)
     
     * [Manifestations](https://www.pronatura.ch/fr/calendrier)
