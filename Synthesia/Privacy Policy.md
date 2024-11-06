@@ -250,7 +250,7 @@ We process all personal data in accordance with the principles of GDPR and espec
 * Ask to have inaccurate personal data rectified, or completed if it is incomplete.
 * Request the erasure of your personal data where data is no longer required for the original purpose or where you have withdrawn your consent, and no other lawful processing grounds apply.
 * Object to the processing of your personal data in certain circumstances.
-* Not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. You may exercise these rights by contacting us at [support@synthesia.io](http://about:blank).
+* Not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. You may exercise these rights by contacting us at [support@synthesia.io](mailto:support@synthesia.io).
 
 Where we are required to provide a copy of your personal data, this will be free of charge; however, any further copies requested may be subject to a reasonable fee based on administration costs.
 
