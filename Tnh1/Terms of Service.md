@@ -134,11 +134,7 @@ Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](htt
 
 Pessoas & Negócios
 
-Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5](https://www.tnh1.com.br/noticia/nid/estilo-e-solidariedade-10-edicao-do-brecho-luxo-no-cabide-comeca-nesta-terca-feira-5/ "Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5")   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
-
-Pessoas & Negócios
-
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
+Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5](https://www.tnh1.com.br/noticia/nid/estilo-e-solidariedade-10-edicao-do-brecho-luxo-no-cabide-comeca-nesta-terca-feira-5/ "Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -212,7 +208,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
+[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
 
 Exposição
 
@@ -220,15 +216,7 @@ Exposição
 
 Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais
 
-Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
-
-Temporada 2025
-
-Temporada 2025
-
-CSA anuncia contratação de atacante alagoano; veja elenco até o momento
-
-CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_42636616d7.jpeg)
+Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")[![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_42636616d7.jpeg)
 
 Interior
 
@@ -236,49 +224,57 @@ Interior
 
 Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia
 
-Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")[![Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/8/csm_aguinaldo_rayol_59ea4ec98a.jpeg)
+Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")[![Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_bebes-trocadas-maternidade-pexels_64221c8ccd.jpg)
 
-tinha 86 anos
+NA INGLATERRA
 
-tinha 86 anos
+NA INGLATERRA
 
-Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa
+Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser
 
-Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa](https://www.tnh1.com.br/noticia/nid/agnaldo-rayol-cantor-e-apresentador-morre-apos-levar-queda-em-casa/ "Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ")
+Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser](https://www.tnh1.com.br/noticia/nid/trocadas-no-nascimento-como-duas-mulheres-descobriram-aos-55-anos-que-nao-eram-quem-pensavam-ser/ "Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser")[![Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_Praia-do-Sonho-Verde_divulgacao_f8d3e4d94c.jpg)
 
-[![Alagoas já registrou mais de 100 casos de febre Oropouche em 2024](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Saude_confirma_obito_fetal_por_transmissao_vertical_de_Oropouche_-_foto_Sociedade_Brasileira_de_Medicina_Tropical_-_Divulgacao_fb3cab45d2.jpg)
+LEVADO A HOSPITAL
 
-Saúde
+LEVADO A HOSPITAL
 
-Saúde
+Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas
 
-Alagoas já registrou mais de 100 casos de febre Oropouche em 2024
+Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiro-e-atacado-por-caes-em-praia-do-litoral-norte-de-alagoas/ "Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas")
 
-Alagoas já registrou mais de 100 casos de febre Oropouche em 2024](https://www.tnh1.com.br/noticia/nid/alagoas-ja-registrou-mais-de-100-casos-de-febre-oropouche-em-2024/ "Alagoas já registrou mais de 100 casos de febre Oropouche em 2024")[![Dermatite atópica: novo medicamento é opção para casos moderados e graves](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/1/csm_hands-patient-suffering-from-psoriasis__1__4c9799eaf9.jpg)
+[![Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_bruno-mars-passeio-BH-reproducao_0bbcd7dff4.jpg)
 
-fármaco injetável
+Gente Famosa
 
-fármaco injetável
+Gente Famosa
 
-Dermatite atópica: novo medicamento é opção para casos moderados e graves
+Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar
 
-Dermatite atópica: novo medicamento é opção para casos moderados e graves](https://www.tnh1.com.br/noticia/nid/dermatite-atopica-novo-medicamento-e-opcao-para-casos-moderados-e-graves/ "Dermatite atópica: novo medicamento é opção para casos moderados e graves")[![PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_policia-militar-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior_2c11948cc1.jpg)
+Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://www.tnh1.com.br/noticia/nid/bruno-mars-passeia-em-bh-compra-cerveja-e-da-gorjeta-gorda-para-dono-de-bar/ "Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar")[![Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/f/csm_objetos-jogados-campo-reproducao_1a38626892.png)
 
-Polícia
+Futebol Nacional
 
-Polícia
+Futebol Nacional
 
-PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado
+Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo
 
-PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://www.tnh1.com.br/noticia/nid/pm-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior-do-estado/ "PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado")[![MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_Barragem_Jaramataia_ad8e890477.jpg)
+Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://www.tnh1.com.br/noticia/nid/cabeca-de-porco-dentadura-e-ate-moto-relembre-objetos-atirados-em-campo/ "Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo")[![Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/2/csm_medicos-agencia-brasil_75396f3dd9.jpg)
 
-Alagoas
+nova plataforma
 
-Alagoas
+nova plataforma
 
-MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas
+Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM
 
-MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://www.tnh1.com.br/noticia/nid/mpf-ajuiza-19-acoes-para-regularizacao-e-seguranca-de-barragens-do-dnocs-em-alagoas/ "MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas")
+Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM](https://www.tnh1.com.br/noticia/nid/justica-suspende-norma-que-obriga-medicos-a-emitirem-atestados-por-plataforma-digital-do-cfm/ "Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ")[![Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_Bruno_Henrique_-_foto_Alexandre_Vidal_-_Flamengo_0655eac4dd.jpg)
+
+Futebol Nacional
+
+Futebol Nacional
+
+Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal
+
+Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal](https://www.tnh1.com.br/noticia/nid/flamengo-se-manifesta-sobre-bruno-henrique-alvo-de-operacao-da-policia-federal/ "Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
