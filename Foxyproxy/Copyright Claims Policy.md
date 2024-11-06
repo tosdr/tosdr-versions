@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have had a UK proxy for sometime now that is great, works fine and lets me watch the BBC iPlayer (which is what i have it for).
+Fantastic service.
 
-Craig Turp
+Torrens Lyster
