@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
+[![2011-12 Ballot Measures](/assets/Images/teasers/small/SameSexMarriage.png)](http://www.followthemoney.org/research/institute-reports/2011-2012-ballot-measure-overview/)
+
+2011-12 same-sex marriage ballots in 5 states.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
