@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Cutting Sugar in First 1,000 Days of Life Reduces Late-Adulthood Disease Risk](https://www.theepochtimes.com/health/cutting-sugar-in-first-1000-days-of-life-reduces-late-adulthood-disease-risk-5753469)
+* [Latino Voter Support for Trump Grew in 2024: National Exit Poll](https://www.theepochtimes.com/us/latino-voter-support-for-trump-grew-in-2024-national-exit-poll-5754981)
     
-    1hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
+    NEW By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Cutting Sugar in First 1,000 Days of Life Reduces Late-Adulthood Disease Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Latino Voter Support for Trump Grew in 2024: National Exit Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Cutting Sugar in First 1,000 Days of Life Reduces Late-Adulthood Disease Risk](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754698-shutterstock_2483564373_sugar_candy_toddler_child_carbohydrate_sweet-205x123.jpg.webp)](https://www.theepochtimes.com/health/cutting-sugar-in-first-1000-days-of-life-reduces-late-adulthood-disease-risk-5753469)
-* [Voters in Arizona’s Maricopa County Share Their Views](https://www.theepochtimes.com/us/voters-in-arizonas-maricopa-county-share-their-views-5754683)
+    ![Latino Voter Support for Trump Grew in 2024: National Exit Poll](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754788-voterline03-Charlotte-NC-Jennifer-Podis_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/latino-voter-support-for-trump-grew-in-2024-national-exit-poll-5754981)
+* [Angela Alsobrooks Beats Larry Hogan in Maryland US Senate Race](https://www.theepochtimes.com/us/angela-alsobrooks-beats-larry-hogan-in-maryland-us-senate-race-5753684)
     
-    1hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Voters in Arizona’s Maricopa County Share Their Views](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Angela Alsobrooks Beats Larry Hogan in Maryland US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Voters in Arizona’s Maricopa County Share Their Views](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754791-J_K_9291-Cave-Creek-Arizona-Jason-Koster-1200x675-LS-205x123.webp)](https://www.theepochtimes.com/us/voters-in-arizonas-maricopa-county-share-their-views-5754683)
-* [Doctors Face Medicare Payment Cut Under New Rules](https://www.theepochtimes.com/us/doctors-face-medicare-payment-cut-under-new-rules-5754473)
+    ![Angela Alsobrooks Beats Larry Hogan in Maryland US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739860-FotoJet-205x123.jpg.webp)](https://www.theepochtimes.com/us/angela-alsobrooks-beats-larry-hogan-in-maryland-us-senate-race-5753684)
+* [Florida Rejects Measure to Legalize Recreational Marijuana](https://www.theepochtimes.com/us/florida-rejects-measure-to-legalize-recreational-marijuana-5754996)
     
-    1hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    1hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Doctors Face Medicare Payment Cut Under New Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Florida Rejects Measure to Legalize Recreational Marijuana](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Doctors Face Medicare Payment Cut Under New Rules](https://img.theepochtimes.com/assets/uploads/2023/12/19/id5549857-GettyImages-1157263234-205x123.jpg.webp)](https://www.theepochtimes.com/us/doctors-face-medicare-payment-cut-under-new-rules-5754473)
-* [Harris in Washington Awaiting Election Results](https://www.theepochtimes.com/us/harris-in-washington-awaiting-election-results-5754616)
+    ![Florida Rejects Measure to Legalize Recreational Marijuana](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754745-Florida-Voting-2_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-rejects-measure-to-legalize-recreational-marijuana-5754996)
+* [FTC Says Collector Tricked Consumers Into Paying Millions in Bogus Debt](https://www.theepochtimes.com/us/ftc-says-collector-tricked-consumers-into-paying-millions-in-bogus-debt-5753795)
     
-    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Harris in Washington Awaiting Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FTC Says Collector Tricked Consumers Into Paying Millions in Bogus Debt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris in Washington Awaiting Election Results](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754624-Harris_flight-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-in-washington-awaiting-election-results-5754616)
-* [National Guard Activated for Election Day Support in Multiple States: Pentagon](https://www.theepochtimes.com/us/national-guard-activated-for-election-day-support-in-multiple-states-pentagon-5754555)
+    ![FTC Says Collector Tricked Consumers Into Paying Millions in Bogus Debt](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706270-244month-day-year-Federal-Trade-Commission-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-says-collector-tricked-consumers-into-paying-millions-in-bogus-debt-5753795)
+* [Florida Rejects Measure to Make Abortion a Right](https://www.theepochtimes.com/us/florida-rejects-measure-to-make-abortion-a-right-5752065)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![National Guard Activated for Election Day Support in Multiple States: Pentagon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Florida Rejects Measure to Make Abortion a Right](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![National Guard Activated for Election Day Support in Multiple States: Pentagon](https://img.theepochtimes.com/assets/uploads/2021/08/08/razor-1230606901-205x123.jpg.webp)](https://www.theepochtimes.com/us/national-guard-activated-for-election-day-support-in-multiple-states-pentagon-5754555)
-* [Georgia Secretary of State Says Bomb Threat Temporarily Closed Fulton Polling Sites](https://www.theepochtimes.com/us/georgia-secretary-of-state-says-bomb-threat-closed-fulton-polling-sites-5754603)
+    ![Florida Rejects Measure to Make Abortion a Right](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751430-DeSantis-Campaigns-Against-Amendment-4-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-rejects-measure-to-make-abortion-a-right-5752065)
+* [Republican Rick Scott Wins Reelection in Florida US Senate Race](https://www.theepochtimes.com/us/republican-rick-scott-wins-reelection-in-florida-us-senate-race-5751107)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Georgia Secretary of State Says Bomb Threat Temporarily Closed Fulton Polling Sites](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republican Rick Scott Wins Reelection in Florida US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Secretary of State Says Bomb Threat Temporarily Closed Fulton Polling Sites](https://img.theepochtimes.com/assets/uploads/2024/08/27/id5713872-brad-raffenspergerKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-secretary-of-state-says-bomb-threat-closed-fulton-polling-sites-5754603)
-* [Netanyahu Fires Defense Minister](https://www.theepochtimes.com/world/netanyahu-fires-defense-minister-5754610)
+    ![Republican Rick Scott Wins Reelection in Florida US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5754970-GettyImages-2180265471-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-rick-scott-wins-reelection-in-florida-us-senate-race-5751107)
+* [Appeals Court Voids Biden’s $15 Federal Contractor Minimum Wage, Citing Overreach](https://www.theepochtimes.com/us/appeals-court-voids-bidens-15-federal-contractor-minimum-wage-citing-overreach-5754839)
     
-    2hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Netanyahu Fires Defense Minister](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Appeals Court Voids Biden’s $15 Federal Contractor Minimum Wage, Citing Overreach](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Netanyahu Fires Defense Minister](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754792-GALLANT-NETANYAHULS-205x123.webp)](https://www.theepochtimes.com/world/netanyahu-fires-defense-minister-5754610)
-* [Trump Casts Ballot in Florida, Encourages Voters to ‘Stay in Line’](https://www.theepochtimes.com/us/trump-casts-ballot-in-florida-encourages-voters-to-stay-in-line-5754503)
+    ![Appeals Court Voids Biden’s $15 Federal Contractor Minimum Wage, Citing Overreach](https://img.theepochtimes.com/assets/uploads/2021/02/24/biden-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-voids-bidens-15-federal-contractor-minimum-wage-citing-overreach-5754839)
+* [6 Insights From the First Exit Poll in Georgia](https://www.theepochtimes.com/us/six-insights-from-the-first-exit-poll-in-georgia-5754910)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Trump Casts Ballot in Florida, Encourages Voters to ‘Stay in Line’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![6 Insights From the First Exit Poll in Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Casts Ballot in Florida, Encourages Voters to ‘Stay in Line’](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754513-trump-votes-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-casts-ballot-in-florida-encourages-voters-to-stay-in-line-5754503)
-* [The Next US President Needs to Confront Threats Posed by ‘Axis of Evil,’ Says House Intelligence Chair](https://www.theepochtimes.com/china/the-next-us-president-needs-to-confront-threats-posed-by-axis-of-evil-says-house-intelligence-chair-5754418)
+    ![6 Insights From the First Exit Poll in Georgia](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754757-11052024-DSC08185-voters-November-5-205x123.jpg.webp)](https://www.theepochtimes.com/us/six-insights-from-the-first-exit-poll-in-georgia-5754910)
+* [GOP Flips Senate Seat as Jim Justice Wins in West Virginia](https://www.theepochtimes.com/us/gop-flips-senate-seat-as-jim-justice-wins-in-west-virginia-5754932)
     
-    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![The Next US President Needs to Confront Threats Posed by ‘Axis of Evil,’ Says House Intelligence Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![GOP Flips Senate Seat as Jim Justice Wins in West Virginia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![The Next US President Needs to Confront Threats Posed by ‘Axis of Evil,’ Says House Intelligence Chair](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754419-GettyImages-2078854512-205x123.jpg.webp)](https://www.theepochtimes.com/china/the-next-us-president-needs-to-confront-threats-posed-by-axis-of-evil-says-house-intelligence-chair-5754418)
-* [We Spoke to the Voters Who Were First in Line on Election Day](https://www.theepochtimes.com/article/we-spoke-to-the-voters-who-were-first-in-line-on-election-day-5754285)
+    ![GOP Flips Senate Seat as Jim Justice Wins in West Virginia](https://img.theepochtimes.com/assets/uploads/2024/05/15/id5650791-Jim-Justice-AP24131039282786-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-flips-senate-seat-as-jim-justice-wins-in-west-virginia-5754932)
+* [North Carolina Voters Share Stories of Historic Election Season](https://www.theepochtimes.com/us/north-carolina-voters-share-stories-of-historic-election-season-5754889)
     
-    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke), [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez), [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback), [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Richard Moore](https://www.theepochtimes.com/author/richard-moore), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    3hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
     
-    [![We Spoke to the Voters Who Were First in Line on Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![North Carolina Voters Share Stories of Historic Election Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![We Spoke to the Voters Who Were First in Line on Election Day](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754612-lead-205x123.jpg.webp)](https://www.theepochtimes.com/article/we-spoke-to-the-voters-who-were-first-in-line-on-election-day-5754285)
+    ![North Carolina Voters Share Stories of Historic Election Season](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754787-voterline02-Charlotte-NC-Jennifer-Podis_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-voters-share-stories-of-historic-election-season-5754889)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
