@@ -1,6 +1,6 @@
 [Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
 
-[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 40% off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 40% Off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
