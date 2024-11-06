@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Many thanks for your very swift action.
+I am very satisfied with the proxy you have given me and fully intend to renew my subscription.
 
-Philip Cochrane Ralph
+Arabella Rodriguez
