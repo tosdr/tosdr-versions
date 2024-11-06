@@ -160,7 +160,7 @@ Last Update 02/03/2016
 
 ### From Our Blog
 
-[How Dentists Address Sleep Apnea](https://www.henrichdental.com/2024/10/how-dentists-address-sleep-apnea/)[Wisdom Tooth Removal: What to Expect](https://www.henrichdental.com/2024/09/wisdom-tooth-removal-what-to-expect/)[Could You Benefit From Sedation Dentistry?](https://www.henrichdental.com/2024/08/could-you-benefit-from-sedation-dentistry/)
+[The Benefits of Dental Implants](https://www.henrichdental.com/2024/11/the-benefits-of-dental-implants/)[How Dentists Address Sleep Apnea](https://www.henrichdental.com/2024/10/how-dentists-address-sleep-apnea/)[Wisdom Tooth Removal: What to Expect](https://www.henrichdental.com/2024/09/wisdom-tooth-removal-what-to-expect/)
 
 * * *
 
