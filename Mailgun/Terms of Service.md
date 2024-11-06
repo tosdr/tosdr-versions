@@ -436,7 +436,7 @@ This app works best with JavaScript enabled.
         Schedule a demo](https://www.mailgun.com/contact/schedule-a-demo/)
     
 
-* [Get Started for Free](https://signup.mailgun.com/new/signup)
+* [Get Started For Free](https://signup.mailgun.com/new/signup)
 
 * [English](https://www.mailgun.com/legal/terms/)
 * [Français](https://www.mailgun.com/fr/legal/conditions-generales/)
@@ -879,7 +879,7 @@ Back to main menu
     * [Español](https://www.mailgun.com/es/legal/condiciones-servicio/)
     
 
-* [Get Started for Free](https://signup.mailgun.com/new/signup)
+* [Get Started For Free](https://signup.mailgun.com/new/signup)
 
 * [Send icon
     
