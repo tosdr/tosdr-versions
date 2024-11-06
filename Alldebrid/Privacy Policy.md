@@ -72,13 +72,41 @@ Any user agrees to our privacy policy when creating an account and using our sit
 
   
 
+  
+**Rétention et protection des données personnelles**
+
+  
+
+  
+
+  
+**Droits de l’utilisateur**
+
+  
+
+  
+
+  
+**Politique au sujet des cookies**
+
+  
+
+  
+
+  
+**Modification de la politique de confidentialité**
+
+  
+
+  
+
 Did you know ?
 
 ‘‘For optimal speed, we do not overcome 50% of our infrastructure bandwidth. This guarantees you a maximum speed under all circumstances, if the file hoster isn't having bandwidth issues itself of course :)‘‘
 
   
 
-© **AllDebrid.com** 2009 2042 - High quality premium link downloader. All rights reserved, reproduction prohibited without authorization. (1.85ms - 0)
+© **AllDebrid.com** 2009 2042 - High quality premium link downloader. All rights reserved, reproduction prohibited without authorization. (2.27ms - 0)
 
 [Mobile](https://m.alldebrid.com/)    |    [Downloader](https://alldebrid.com/service/)    |    [Pricing](https://alldebrid.com/offer/)    |    [Legal](https://alldebrid.com/legal/)    |    [Privacy](https://alldebrid.com/privacy/)    |    [Terms of Service](https://alldebrid.com/tos/)    |    [Bounty Program](https://alldebrid.com/bounty/)    |    [API (developer)](https://docs.alldebrid.com/)    |    [Japon](https://dondon.media/)    |    [Support](https://alldebrid.com/contact/)  
   
