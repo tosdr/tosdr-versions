@@ -31,951 +31,1055 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Se incautan de 13 toneladas de cocaína procedentes de Ecuador en España
-=======================================================================
+Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions
+=============================================================
 
-En Imbabura, la Policía Nacional también se incautó de 99 paquetes tipo ladrillo de cocaína, en una inspección a un automotor
------------------------------------------------------------------------------------------------------------------------------
+El Brujas consiguió su primera victoria de local en la actual edición de la Champions League 2024/25.
+-----------------------------------------------------------------------------------------------------
 
-![La Policía Nacional se incautó de 99 paquetes de cocaína en Ambuquí.](https://www.elcomercio.com/wp-content/uploads/2024/11/Policia-Espana-.jpg)
+![Joel Ordóñez con el Brujas en la Champions League 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/11/ordonez_brujas_1.jpg)
 
-Agentes españoles **se incautaron de 13 toneladas** de cocaína en un contenedor procedente de Ecuador. La carga llegó al puerto de Ageciras, en el sur de España, **el mayor alijo de esta droga** en la historia del narcotráfico en España.
+El ecuatoriano **Joel Ordóñez cada vez se afianza más en el equipo titular del Brujas** de Bélgica, club al que llegó en agosto de 2022, con 18 años y como una gran apuesta, desde Independiente del Valle.
+
+Este miércoles 6 de noviembre de 2024, Joel Ordóñez y el Brujas recibieron en el **estadio Jan Breydel al Aston Villa** en la cuarta fecha de la Champions League, logrando el primer triunfo de local en dos presentaciones.
+
+### Más noticias:
+
+* [Bayer Leverkusen y Piero Hincapié aplastados por Liverpool](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-liverpool-hincapie-champions.html "Bayer Leverkusen y Piero Hincapié aplastados por Liverpool")
+* [AC Milan sacude al Real Madrid en la Champions League](https://www.elcomercio.com/deportes/futbol/ac-milan-sacude-al-real-madrid-en-la-champions-league.html "AC Milan sacude al Real Madrid en la Champions League")
+* [Preocupante lesión de Neymar tras volver a las canchas](https://www.elcomercio.com/deportes/neymar-lesion-canchas-regreso-estado.html "Preocupante lesión de Neymar tras volver a las canchas")
+
+Como se esperaba, fue un partido cerrado, disputado y muy luchado en la mitad de la cancha, **con pocas opciones de goles en las dos áreas**, por lo que la efectividad a la hora de aprovecharlas iba a marcar la diferencia definitiva en el marcador.
+
+A los 52 minutos del segundo tiempo llegó el 1-0 para el Brujas. **Fue desde el punto penal con la firma de Hans Vanaken**, mediocampista de 32 años que lleva en el equipo desde la temporada 2015/16, y es una de las principales figuras.
+
+Con este resultado, **los belgas escalaron hasta la posición 20 con 6 puntos** y un gol diferencia negativo de -3, mientras que para los ingleses fue la primera derrota en la Champions y descendió a la quinta casilla con 9 puntos y un gol diferencia positivo de +5.
+
+En la quinta fecha, el Brujas viajará a Escocia para visitar al Celtic y el Aston Villa regresa a Villa Park para recibir a la Juventus italiana. Ambos juegos serán el miércoles 27 de noviembre, desde las 15:00.
+
+El partidazo de Joel Ordóñez
+----------------------------
+
+Seguridad, solvencia, tranquilidad y calidad fue lo que demostró Joel Ordóñez ante el Aston Villa, uno de los equipos que llegaba como uno de los líderes e invictos de la Champions League.
+
+La transmisión de televisión oficial de la Champions para Latinoamérica, **colocó al joven defensa en el podio de los más destacados** del encuentro, junto a Vanaken, autor del histórico gol para llevarse tres trascendentales puntos.
+
+San viernes
+-----------
+
+Policía detiene a exdocente por presunto ciberacoso, en Quito
+=============================================================
+
+El detenido habría buscado contacto con una de sus exalumnas mediante mensajería instantánea.
+---------------------------------------------------------------------------------------------
+
+![El sujeto fue detenido el martes 5 de noviembre en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/ciberacoso.jpg)
+
+La **Policía Nacional** informó este miércoles 6 de noviembre de 2024 sobre las labores investigativas y operativas que ejecutó en Quito en torno a un caso de **presunto ciberacoso.**
 
 ### Más noticias
 
 * [Policía libera a mujer víctima de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/policia-libera-mujer-victima-secuestro-guayas.html "Policía libera a mujer víctima de secuestro en Guayas")
-* [Vehículo de sacerdote asesinado fue encontrado en la vía a Lloa, en Quito](https://www.elcomercio.com/actualidad/seguridad/vehiculo-sacerdote-asesinado-encontrado-via-lloa-quito.html "Vehículo de sacerdote asesinado fue encontrado en la vía a Lloa, en Quito")
-* [España incauta el mayor cargamento de droga de su historia](https://www.elcomercio.com/actualidad/mundo/espana-mayor-cargamento-droga-ecuador.html "España incauta el mayor cargamento de droga de su historia")
+* [Se incautan de 13 toneladas de cocaína procedentes de Ecuador en España](https://www.elcomercio.com/actualidad/seguridad/se-incautan-de-13-toneladas-de-cocaina-procedentes-de-ecuador-en-espana.html "Se incautan de 13 toneladas de cocaína procedentes de Ecuador en España")
+* [Lo que se sabe del crimen del sacerdote Enrique Arcos](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-del-crimen-del-sacerdote-enrique-arcos.html "Lo que se sabe del crimen del sacerdote Enrique Arcos")
 
-La incautación fue fruto de una **operación conjunta** de la Policía Nacional y el Servicio de Vigilancia Aduanera. Estos operativos se llevaron a cabo en el puerto con más tráfico de España y considerado la gran puerta su de Europa.
+La operación Fénix 373
+----------------------
 
-La **droga viajaba en un contenedor** que salió procedente de Ecuador y transportaba una carga de bananas dirigida a un importador español.
+El operativo se realizó en conjunto con la **Fiscalía del Estado** el martes 5 de noviembre y con el apoyo de organismos internacionales, como Our Rescue y HSI.
 
-Este importador ya recibía, desde hace años, grandes cantidades de fruta desde Ecuador. Esto dificultó enormemente el análisis e **inspección de sus envíos**, según informaron este miércoles 6 de noviembre representantes de la **Policía y de la Agencia Tributaria.**
+Mediante labores investigativas y operativas ejecutadas en Quito, los uniformados procedieron con la **aprehensión de Carlos Ll.,** quien habría incurrido en el delito de ciberacoso.
 
-Durante el operativo de revisión se realizaron **registros en domicilios y oficinas de Madrid y Alicante.** En estas labores investigativas fue detenida una persona, mientras los dos responsables de la empresa importadora son buscados para capturarlos.
+El sujeto habría solicitado **archivos multimedia de carácter sexual,** así como encuentros físicos a una adolescente.
 
-Las autoridades ecuatorianas aún [no se han pronunciado al respecto.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+De ese modo, y luego de un análisis técnico digital, **se logró identificar** e individualizar a un ciudadano que **habría sido pasante como docente** de una materia en una unidad educativa.
 
-Policía detiene 99 paquetes de droga
-------------------------------------
+El sujeto, a través de mensajes de WhatsApp, **habría empezado a contactar con la adolescente**, quien era una de sus exalumnas.
 
-La Policía Nacional realizó un**a inspección antinarcóticos a un vehículo** en Ambuquí, Imbabura. En estas labores localizó **99 paquetes tipo ladrillo de cocaína.**
+Luego de establecer un **supuesto vínculo de amistad** y ganarse la confianza de la joven, el sujeto habría perpetrado el ciberacoso.
 
-En este operativo se aprehendió a dos sujetos que se movilizaban en el automotor. Además, se recolectaron los siguientes indicios:
+La Unidad de Ciberdelito ejecutó la **operación Fénix 373,** Protección 1799 y Digital 15, junto con personal táctico y técnico del GOE y Criminalística.
 
-* 990 000 gramos de cocaína
-* Vehículo
-* Terminales móviles
-* Dinero en efectivo
+Tras el allanamiento a un inmueble que sería la vivienda del investigado, se procedió con la **detención del sujeto** y así se evitó que se vulneren los **derechos de más niños, niñas y adolescentes en Ecuador.**
 
-> EVITAMOS EL TRÁFICO DE 99 PAQUETES DE DROGA EN IMBABURA  
+En la operación, se pudo recabar las [siguientes prueba](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")s:
+
+* Siete ‘flash memory’
+* Dos terminales móviles
+* Una microSD
+* Una laptop
+* Una simcard
+
+El presunto implicado fue entregado a las autoridades para que se defina su situación legal mediante un proceso. Las pruebas pasan a ser parte de una cadena de custodia y se presentarán en el proceso legal contra el detenido.
+
+> Entérate más sobre la detención de Carlos Ll., quien mediante ciberacoso habría solicitado archivos multimedia de carácter sexual en [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw).  
 >   
-> Mediante una inspección antinarcóticos a un vehículo en Ambuquí, [#Imbabura](https://twitter.com/hashtag/Imbabura?src=hash&ref_src=twsrc%5Etfw), localizamos 99 paquetes tipo ladrillo de cocaína y aprehendimos a 2 sujetos que se movilizaban en el automotor.  
->   
-> Indicios:  
-> \-990.000 gramos de… [pic.twitter.com/KMMkLG5Q2z](https://t.co/KMMkLG5Q2z)
+> 📰 [#Boletín](https://twitter.com/hashtag/Bolet%C3%ADn?src=hash&ref_src=twsrc%5Etfw): [https://t.co/QNWbBsK4hV](https://t.co/QNWbBsK4hV)[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw)[#NuestraMisiónSigueIntacta](https://twitter.com/hashtag/NuestraMisi%C3%B3nSigueIntacta?src=hash&ref_src=twsrc%5Etfw)
 > 
-> — Policía Ecuador (@PoliciaEcuador) [November 5, 2024](https://twitter.com/PoliciaEcuador/status/1853906032734396448?ref_src=twsrc%5Etfw)
+> — Policía Ecuador (@PoliciaEcuador) [November 6, 2024](https://twitter.com/PoliciaEcuador/status/1854200415757521134?ref_src=twsrc%5Etfw)
 
-Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump
-=====================================================================================
+JD Vance pasa de crítico de Donald Trump a vicepresidente y posible sucesor
+===========================================================================
 
-Donald Trump logra una elección histórica en Estados Unidos y marca varios hitos en la historia de ese país.
-------------------------------------------------------------------------------------------------------------
-
-![Donald Trump será el presidente más longevo en asumir el cargo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-28.jpg)
-
-El segundo mandato del republicano **Donald Trump**, ganador de las presidenciales en Estados Unidos de este martes 5 de noviembre de 2024, es una **elección histórica** por su avanzada edad, su historial judicial, su victoria en el voto popular y por el regreso a la Casa Blanca de un exmandatario[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-### Más noticias
-
-* [Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-las-elecciones-presidenciales-en-ee-uu-segun-proyecciones.html "Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones")
-* [Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca](https://www.elcomercio.com/actualidad/mundo/donald-trump-florida-supera-kamala-harris.html "Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca")
-
-Donald Trump gana una elección histórica
-----------------------------------------
-
-Cuando asuma el poder en enero de 2025, Donald Trump se convertirá en la persona de mayor edad en convertirse en presidente de Estados Unidos, cinco meses más mayor que Joe Biden cuando llegó al poder en 2021.
-
-El magnate neoyorquino concluirá su segundo mandato con 82 años en enero de 2029.El tema de la edad había estado en el centro de la campaña electoral cuando competían Trump y Biden, pero quedó relegado cuando Kamala Harris, de 60 años, asumió la candidatura demócrata.
-
-Un presidente sancionado por la Justicia
-----------------------------------------
-
-Otro hecho inédito es que nunca un criminal convicto había ganado las elecciones presidenciales en Estados Unidos.
-
-Trump fue condenado este año por un tribunal de **Nueva York** por haber **falsificado** registros comerciales para comprar el silencio de la actriz porno Stormy Daniels durante la campaña electoral de 2016.
-
-El republicano sigue pendiente de **sentencia** por este caso, que se aplazó después de que el Tribunal Supremo dictaminara que los exmandatarios del país gozan de una amplia inmunidad judicial.
-
-Trump también hizo historia en su momento al convertirse en el primer expresidente en ser **imputado** penalmente, por varios casos, entre ellos el del asalto al **Capitolio**.
-
-Pero como presidente tendrá potestad para ordenar al **Departamento de Justicia** que cierre las investigaciones en su contra.
-
-Trump también se quitó una deuda pendiente al ganar por primera vez el **voto popular** en unas elecciones, algo que no consiguió ni en 2016 contra **Hillary Clinton** ni en 2020 contra Biden y que los republicanos no han conseguido desde hace dos décadas.
-
-Gana con más votos
-------------------
-
-Según cifras preliminares, podría sacarle a Kamala Harris unos **cinco millones de votos** de ventaja.
-
-En las elecciones presidenciales de Estados Unidos no sale elegido aquel candidato que consiga más votos a **nivel nacional**, sino aquel que logre al menos 270 compromisarios repartidos por los diferentes estados.
-
-Aunque Trump ganó en 2016, obtuvo **tres millones menos de votos que Clinton**; y en los comicios que perdió contra Biden obtuvo siete millones menos.
-
-Ningún candidato republicano había ganado el **voto popular desde George W. Bush** en 2004.
-
-Trump, que en su primer mandato ostentó el número de presidente **45**, ejercerá su segundo período como el mandatario número **47.**
-
-Dos veces presidente
---------------------
-
-El único caso de un presidente que ocupó **dos mandatos no consecutivos** fue el de **Grover Cleveland**, quien estuvo en la Casa Blanca entre 1885 y 1889, año en el que perdió las elecciones, y volvió al poder para el período 1893-1897.  
-
-Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos
-==========================================================================================
-
-Donald Trump vuelve a la Casa Blanca tras vencer a su rival, la demócrata Kamala Harris, en las elecciones presidenciales.
---------------------------------------------------------------------------------------------------------------------------
-
-![El expresidente estadounidense Donald Trump (2017-2021).](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-par-cortar.webp)
-
-El republicano **Donald Trump** logró los **270 votos** necesarios del **Colegio Electoral** y con ello ganó las **elecciones** **presidenciales** de Estados Unidos que se realizaron este martes 5 de noviembre de 2024.
-
-Trump ganó importantes estados, como: **Florida**, Pensilvania, California del Norte, Georgia, Tennessee, Alabama, entre otros.
-
-### Más noticias
-
-* [Nicky Jam retira su apoyo a Donald Trump](https://www.elcomercio.com/actualidad/mundo/nicky-jam-retira-apoyo-donald-trump.html "Nicky Jam retira su apoyo a Donald Trump ")
-* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html")
-* [Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.](https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html")
-
-Así fue la trayectoria política de Donald Trump, uno de los **personajes más conocidos** y controvertidos del país norteamericano[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-Comienzos de Donald Trump
--------------------------
-
-Trump nació el 14 de junio de 1946 en **Queens, Nueva York**, Trump proviene de una familia de empresarios, lo que marcó e**l comienzo de su carrera en el mundo de los negocios.** Su padre, Fred Trump, fue un prominente **desarrollador inmobiliario** que le dio las bases para expandir y modernizar el imperio familiar[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-Tras graduarse de la **Universidad de Pensilvania** con un título en economía en 1968, Trump se unió a la empresa de su padre, donde comenzó a hacer **crecer el negocio** con proyectos inmobiliarios de alto perfil en Manhattan, como el famoso **Trump Tower.**
-
-A lo largo de las décadas siguientes, Trump se convirtió en una de las **figuras más reconocidas** del mundo empresarial, aunque no sin controversias. A lo largo de su carrera, fue dueño de **casinos, hoteles, campos de golf y otros negocios**, algunos de los cuales enfrentaron **dificultades financieras** y demandas legales. No obstante, su marca personal, “Trump”, se consolidó como sinónimo de **lujo, poder y riqueza.**
-
-De empresario a político
-------------------------
-
-En 2015, Donald Trump dio un giro inesperado en su carrera al anunciar su **candidatura a la presidencia de los Estados Unidos.** Su estilo directo, sin filtros y su promesa de “hacer grande a Estados Unidos de nuevo” resonaron con una parte significativa del electorado.
-
-Su campaña presidencial se centró en temas como la **inmigración, la seguridad nacional, el comercio y la reducción de impuestos.** Trump ganó la nominación republicana y, en noviembre de 2016, logró una sorpresiva victoria sobre la demócrata Hillary Clinton, convirtiéndose en el 45º presidente de los Estados Unidos.
-
-Durante su presidencia (2017-2021), Trump impulsó políticas que favorecían la **desregulación**, recortes fiscales y un **enfoque nacionalista** en comercio exterior, además de una postura muy firme sobre inmigración. Su mandato estuvo marcado por una **polarización política** sin precedentes, conflictos con los medios de comunicación y una controversial gestión de la pandemia de covid-19.
-
-Tras perder las elecciones de 2020 ante Joe Biden, **Trump no reconoció su derrota** y promovió teorías de fraude electoral, lo que culminó en el asalto al Capitolio de Estados Unidos el 6 de enero de 2021.
-
-A pesar de las 91 investigaciones legales en su contra, Trump mantuvo su **base de seguidores** y lanzó su campaña para la reelección en 2024, buscando recuperar la Casa Blanca para el Partido Republicano (conservador).
-
-Trump 2024: ¿Qué esperar de su regreso a la política?
------------------------------------------------------
-
-En su regreso a la política, Donald Trump promete mantener su **mensaje de cambio radical** y promesas de restaurar la “grandeza” de Estados Unidos. A pesar de las críticas y las **múltiples investigaciones legales** que enfrenta, el expresidente sigue siendo una **figura central en el Partido Republicano**, con una base de apoyo fiel que lo ve como un líder que desafía el “sistema” político tradicional.
-
-Con su regreso a la arena política, Trump continúa siendo un **fenómeno tanto admirado** como polarizador, y su **impacto en las elecciones presidenciales de 2024** será un factor clave en la contienda electoral.
-
-Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones
-=============================================================================
-
-El candidato republicano a la Casa Blanca, Donald Trump, se proclamó este miércoles 6 de noviembre ganador de las elecciones en Estados Unidos con un total de 277 votos electorales, según las proyecciones de CNN y AP
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Simpatizantes de Donald Trump celebran los resultados de las elecciones presidenciales de EE.UU. 2024 durante la fiesta de seguimiento en West Palm Beach, Florida.](https://www.elcomercio.com/wp-content/uploads/2024/11/Celebraciones-de-Trump.jpg)
-
-**Donald Trump** ha sido declarado el ganador de las elecciones presidenciales de **Estados Unidos** del 6 de noviembre de 2024, según las proyecciones iniciales. Con este triunfo, Trump se convierte en el presidente número 47 de su país. Las reacciones, a favor y en contra, ocurrieron apenas Trump se proclamó el triunfo.
-
-### Más noticias:
-
-* [Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.](https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html "Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.")
-* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
-* [Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’](https://www.elcomercio.com/actualidad/mundo/donald-trump-alaba-privado-nicolas-maduro-fuerte.html "Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’")
-
-El candidato republicano, según las proyecciones de CNN y AP, ganó con un total de 277 votos electorales. Trump logró asegurar victorias decisivas en varios estados cruciales que fueron determinantes para su éxito electoral. Entre ellos destacan:
-
-* **Pensilvania:** Un estado que había sido un bastión demócrata, pero que Trump logró capturar con un enfoque en la economía y la seguridad.
-* **Wisconsin:** La victoria aquí fue fundamental, ya que el estado ha sido un campo de batalla electoral en años recientes.
-* **Georgia:** Trump reafirmó su apoyo en este estado, donde había enfrentado desafíos significativos en elecciones pasadas.
-
-La combinación de estos estados le permitió superar la barrera de los 270 votos electorales necesarios para ganar la presidencia. La participación electoral fue alta, con un notable aumento del voto hispano y afroamericano a favor del candidato republicano, lo que indica un cambio potencial en las dinámicas electorales tradicionales.
-
-Discurso de la victoria
------------------------
-
-En su discurso de aceptación, pronunciado en **West Palm Beach, Florida**, Trump se mostró triunfante y optimista. Comenzó afirmando que “esto es un movimiento como nunca antes se ha visto”, refiriéndose a su base de apoyo y a la coalición diversa que ha formado. Prometió “curar el país” y “sellar las fronteras”, reafirmando sus posturas sobre la inmigración y la seguridad nacional.
-
-Trump también hizo un llamado a la unidad: “Es hora de dejar atrás las divisiones de los últimos cuatro años”. Este tono conciliador sorprendió a muchos observadores, dado su historial de retórica divisiva. Acompañado por su familia y aliados políticos, enfatizó que su gobierno trabajará para todos los estadounidenses, no solo para sus seguidores más leales. El ex presidente destacó sus logros pasados y prometió una “era dorada” para Estados Unidos, donde se enfocará en reducir impuestos y mejorar la economía. Su discurso incluyó referencias a la creación de empleos y al fortalecimiento del ejército, temas recurrentes durante su campaña.
-
-Reacciones internacionales
---------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Felicitacion-de-Ucrania.jpg)
-
-Las reacciones a la victoria de Trump no se hicieron esperar. Líderes mundiales expresaron sus felicitaciones a través de redes sociales:
-
-* **Benjamin Netanyahu**, primer ministro de Israel, celebró el triunfo como “la mayor remontada de la historia” y destacó el compromiso renovado entre ambos países.
-* **Volodímir Zelenski**, presidente de Ucrania, manifestó su deseo de trabajar juntos por una paz justa, subrayando el principio de “paz mediante la fortaleza”.
-* **Giorgia Meloni**, primera ministra italiana, también envió sus felicitaciones, señalando que esto fortalecerá aún más los vínculos estratégicos entre Italia y Estados Unidos.
-
-Sin embargo, no todas las reacciones fueron positivas. Desde Irán, se minimizó el impacto del resultado electoral en las relaciones bilaterales, sugiriendo que las políticas estadounidenses seguirán siendo constantes, independientemente del presidente.
-
-Implicaciones políticas futuras con Trump
------------------------------------------
-
-Con Trump nuevamente al mando, se anticipan cambios significativos en la política estadounidense. Distintos analistas prevén que su administración priorizará:
-
-* **Políticas económicas agresivas:** Se espera que busque recortes fiscales y desregulación para estimular el crecimiento económico.
-* **Inmigración:** Continuará con medidas estrictas para controlar la frontera y limitar la inmigración ilegal.
-* **Relaciones exteriores:** Su enfoque podría ser más unilateral y centrado en intereses estadounidenses, lo que podría afectar alianzas tradicionales.
-
-La política interna también podría volverse más polarizada. La retórica conciliadora utilizada por Trump durante su discurso podría ser puesta a prueba por los desafíos inherentes a gobernar un país dividido políticamente.
-
-Donald Trump ha marcado un regreso espectacular al escenario político estadounidense. Su victoria no solo redefine el futuro inmediato del país, sino que también plantea preguntas sobre cómo se desarrollará la política interna y externa bajo su liderazgo. La atención ahora se centra en cómo implementará sus promesas y si podrá unir a un país fracturado tras años de divisiones profundas.
-
-Así funciona el Pico y placa en Quito este miércoles 6 de noviembre
-===================================================================
-
-Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
--------------------------------------------------------------------------------------------------------------------
-
-![La restricción del Pico y placa se estableció para regular el tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/transito-ciudad.jpg)
-
-El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
-
-### Más noticias
-
-* [En el feriado de noviembre se registraron más de 47 000 emergencias](https://www.elcomercio.com/actualidad/ecuador/feriado-de-noviembre-se-registraron-mas-de-47-000-emergencias.html "En el feriado de noviembre se registraron más de 47 000 emergencias")
-* [Choque de buses de pasajeros deja al menos seis heridos, en Daule](https://www.elcomercio.com/actualidad/ecuador/choque-de-buses-de-pasajeros-deja-al-menos-seis-heridos-en-daule.html "Choque de buses de pasajeros deja al menos seis heridos, en Daule")
-* [El Reventador registra 64 explosiones este martes 5 de noviembre](https://www.elcomercio.com/actualidad/ecuador/el-reventador-registra-64-explosiones-este-martes-5-de-noviembre.html "El Reventador registra 64 explosiones este martes 5 de noviembre")
-
-¿Cómo se aplica el Pico y placa?
---------------------------------
-
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
-
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
-
-Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
-
-Contraflujos y Pico y placa en Quito
-------------------------------------
-
-Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
-
-–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
-
-Mañana: 06:30 a 07:00 y de 07:30 a 08:00
-
-Tarde: 16:30 a 17:00 y 17:30 a 18:00
-
-–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
-
-Mañana: 06:30 a 07:30 y de 08:00 a 08:30
-
-Tarde: 16:30 a 19:30
-
-–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
-
-Mañana: 06:00 a 08:30
-
-Tarde: 17:00 a 19:00
-
-– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
-
-Mañana: 07:00 a 08:30
-
-Tarde: de 16:00 a 19:30
-
-Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
-> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
->   
-> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
->   
-> 🤝 Juntos llegamos sin contratiempos.  
->   
-> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
-> 
-> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
-
-Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca
-===============================================================================
-
-El republicano Donald Trump espera las proyecciones finales para convertirse en el Presidente 47º de Estados Unidos.
---------------------------------------------------------------------------------------------------------------------
-
-![El multimillonario Donald Trump dio un discurso donde se proclamó como el ganador de las elecciones presidenciales de Estados Unidos](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-gana-elecciones.jpg)
-
-El candidato republicano a la Casa Blanca, **Donald Trump**, se impuso a **Kamala Harris** en el recuento del Colegio Electoral de **Estados Unidos**, la madrugada de este miércoles de noviembre de 2024.
-
-### Más noticias:
-
-* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
-* [Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.](https://www.elcomercio.com/actualidad/mundo/harris-vs-trump-contraste-dos-personalidades-polarizan-ee-uu.html "Harris vs. Trump, contraste entre dos personalidades que polarizan EE.UU.")
-
-El republicano **Donald Trump** está próximo a lograr los **270 votos** necesarios del **Colegio Electoral** y con ello ganar las **elecciones** **presidenciales** de Estados Unidos que se realizaron este martes 5 de noviembre de 2024.
-
-Trump ganó importantes estados, como: **Florida**, **Pensilvania**, California del Norte, Georgia, Tennessee, Alabama, entre otros.
-
-Con estas proyecciones de las cadenas Fox y CNN, Trump está a un paso de convertirse en el **Presidente 47º** de los Estados Unidos.
-
-Donald Trump se impuso a Kamala Harris
---------------------------------------
-
-En tanto, la vicepresidenta demócrata, **Kamala Harris**, se hizo con Washington, Oregón, California, Massachusetts, Maryland, Rhode Island, Connecticut, entre otros estados, que no le bastaron para pelear en la parte final de los conteos.
-
-Poco después de la media noche y tras conocerse la derrota en ‘**estados bisagras**‘, la Vicepresidenta estadounidense canceló el mensaje que estaba previsto que ofreciera desde la Universidad de Howard, en Washington.
-
-Los estadounidenses no decidieron por **voto popular** quién será su próximo Presidente, sino que designaron a un número de electores en cada estado que conforman el **Colegio Electoral** y que se encargan de elegir al próximo mandatario.
-
-El Colegio Electoral tiene **538 compromisarios** y, para ganar, Trump o Harris necesitaban al menos una mayoría de 270[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-Pensilvania, el estado clave para la victoria de Trump
-------------------------------------------------------
-
-Los colegios electorales de la mitad de los estados de EE. UU. **ya cerraron** a las 20:00 hora local, incluido Pensilvania, el estado bisagra que más compromisarios otorga para el Colegio Electoral y del que todavía no se conocen los resultados. 
-
-Fue justamente este estado, qué pasadas las 01:00 de este miércoles 6 de noviembre, el que **encaminó la victoria** de Donald Trump.
-
-Hasta las **03:00** de este miércoles estos son los resultados:
-
-|     |     |     |
-| --- | --- | --- |
-|     | **Kamala Harris (D)** | **Donald Trump (R)** |
-| Alabama (9) | 0   | 9   |
-| Alaska (3) |     |     |
-| Arizona (11) |     |     |
-| Arkansas (6) | 0   | 6   |
-| California (54) | 54  | 0   |
-| Carolina del Norte (16) | 0   | 16  |
-| Carolina del Sur (9) | 0   | 9   |
-| Colorado (10) | 10  | 0   |
-| Connecticut (7) | 7   | 0   |
-| Dakota del Norte (3) | 0   | 3   |
-| Dakota del Sur (3) | 0   | 3   |
-| Delaware (3) | 3   | 0   |
-| Distrito de Columbia (3) | 3   | 0   |
-| Florida (30) | 0   | 30  |
-| Georgia (16) | 0   | 16  |
-| Hawái (4) | 4   | 0   |
-| Idaho (4) | 0   | 4   |
-| Illinois (19) | 19  | 0   |
-| Indiana (11) | 0   | 11  |
-| Iowa (6) | 0   | 6   |
-| Kansas (6) | 0   | 6   |
-| Kentucky (8) | 0   | 8   |
-| Luisiana (8) | 0   | 8   |
-| Maine (4) | 1   | 1   |
-| Maryland (10) | 10  | 0   |
-| Massachusetts (11) | 11  | 0   |
-| Míchigan (15) |     |     |
-| Minnesota (10) |     |     |
-| Misisipí (6) | 0   | 6   |
-| Misuri (10) | 0   | 10  |
-| Montana (4) | 0   | 4   |
-| Nebraska (5) | 1   | 4   |
-| Nevada (6) |     |     |
-| Nuevo Hampshire (4) | 4   | 0   |
-| Nueva Jersey (14) | 14  | 0   |
-| Nuevo México (5) | 5   | 0   |
-| Nueva York (28) | 28  | 0   |
-| Ohio (17) | 0   | 17  |
-| Oklahoma (7) | 0   | 7   |
-| Oregón (8) | 8   | 0   |
-| Pensilvania (19) | 0   | 19  |
-| Rhode Island (4) | 4   | 0   |
-| Tennessee (11) | 0   | 11  |
-| Texas (40) | 0   | 40  |
-| Utah (6) | 0   | 6   |
-| Vermont (3) | 3   | 0   |
-| Virginia (13) | 13  | 0   |
-| Virginia Occidental (4) | 0   | 4   |
-| Washington (12) | 12  | 0   |
-| Wisconsin (10) |     |     |
-| Wyoming (3) | 0   | 3   |
-| **TOTAL (538)** | **214** | **2**67 |
-
-Es necesaria una solución al caos vehicular en los feriados
-===========================================================
-
-Los embudos para el tráfico en las vías principales para los viajeros generan caos vehicular, sobre todo en los feriados.
+JD Vance, el nuevo vicepresidente de Estados Unidos, es un excrítico de Donald Trump, hoy se perfila como su aliado fiel.
 -------------------------------------------------------------------------------------------------------------------------
 
-![Imagen muestra el caos vehicular en las vías.](https://www.elcomercio.com/wp-content/uploads/2024/11/editorial-6-noviembre.jpg)
+![En Atlanta, Estados Unidos, el senador de Ohio y vicepresidente electo, JD Vance, participó en un mitin de campaña.](https://www.elcomercio.com/wp-content/uploads/2024/11/d1338441170ea8d0b0fa93b4c5dbad9c017ce463.jpg)
 
-Una de las peores experiencias de los **turistas** durante los **feriados** es quedarse varado horas y horas (por lo general más de dos horas) en la **vía Alóag, en el ingreso y salida de Santo Domingo de los Tsáchilas.**
+El expresidente de Estados Unidos, **Donald Trump**, seleccionó al senador de Ohio, **JD Vance**, como su candidato a **vicepresidente** para las elecciones 2024, a pesar de que fue uno de **sus más férreos críticos**. Ahora, Vance se erige como uno de los vicepresidentes **más jóvenes** de la historia de Estados Unidos y, además, como su posible **sucesor**[.](https://es.wikipedia.org/wiki/J._D._Vance "https://es.wikipedia.org/wiki/J._D._Vance")
 
-Entre el peaje y la parroquia **Alluriquín, o en Tandapi,** se forma un embudo, que ocasiona una fila eterna de vehículos. Después de los cuatro carriles que tiene esa vía se llega a dos carriles que hay en estas zonas, muy habitadas.
+### Más noticias
 
-Lo mismo ocurre entre **Carchi e Imbabura**, en el ingreso a **Quito, por Oyacachi**; en el poblado de **Alóag; en Machachi; en Ambato**, por mencionar algunos ejemplos.
+* [¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?](https://www.elcomercio.com/actualidad/negocios/la-eleccion-de-donald-trump-influira-en-el-comercio-entre-ecuador-y-ee-uu.html "¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?")
+* [Donald Trump tiene varios planes para su segundo mandato](https://www.elcomercio.com/actualidad/mundo/donald-trump-tiene-grandes-planes-para-segundo-mandato.html "Donald Trump tiene varios planes para su segundo mandato")
 
-> Los turistas y viajeros necesitan vías rápidas y una buena gestión de la movilidad, para transitar durante los feriados.
+Vicepresidente de 39 años
+-------------------------
 
-Los embudos en las **vías** no son un problema reciente. A medida que se construyeron las carreteras a cuatro carriles, también quedaron esas zonas solo con **vías** de dos carriles.
+Donald Trump eligió a JD Vance como su **compañero de fórmula** en el inicio de la Convención Nacional Republicana en Milwaukee. Su apuesta, luego de los **resultados** de las elecciones presidenciales de Estados Unidos de este 4 de noviembre de 2024, parece haber **rendido frutos**.
 
-Mientras tanto, los **turistas** tardan entre dos y tres horas adicionales para ir al destino o para retornar a sus hogares. Eso produce una pérdida de tiempo de calidad del **turismo**, así como la experiencia de un mal servicio vial y una pésima gestión de la movilidad. Se debe agregar que los usuarios pagan peajes en ciertas carreteras para transitar.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/b4d5d9ed7497a5c00cde107a0005123e0d6a80e2-1024x683.jpg)
 
-Sobre esos embudos, nada se hace ni se ha hecho. Los gobiernos locales y el central cuentan con los planes de intervención, pero su ejecución se posterga. 
+JD Vance es senador republicano de Ohio. Es el nuevo vicepresidente de Estados Unidos, tiene 39 años. Foto: EFE/ SARAH YENESEL
 
-Las prefecturas de Santo Domingo de los Tsáchilas y de Pichincha tienen la administración de la vía Alóag. Pese a los planes de ampliación, esos sectores o embudos puntuales se mantienen sin ninguna intervención. 
+En un escenario de entusiasmo partidista, **Vance** fue presentado ante miles de delegados que apoyaron su designación con una ovación. El **senador de Ohio, de 39 años,** representa un cambio en la estrategia de Trump, quien buscó captar el **voto de la clase trabajadora** en los estados industriales y del voto **rural**.
 
-El lunes 4 de noviembre, en el último día del feriado de Difuntos y la independencia de Cuenca, salir de Santo Domingo fue una eternidad. Los 20 minutos que toma el tramo entre el **peaje y Alluriquín** se convirtieron en más de una hora de larga espera[.](https://es.wikipedia.org/wiki/Santo_Domingo_(Ecuador) "https://es.wikipedia.org/wiki/Santo_Domingo_(Ecuador)")
+Cuando Vance se posesione será el **segundo vicepresidente más joven** de la historia de Estados Unidos. El récord lo tiene **John C. Breckinridge**, quien asumió el cargo en 1857, a la edad de 36 años bajo la presidencia de **James Buchanan**.
 
-El ingreso a **Quito desde Oyacachi**, por el norte desde Ibarra y Tulcán, el viaje de retorno del **feriado** tomó hasta cuatro horas. 
+Crítico de Trump
+----------------
 
-Tanto las prefecturas y los municipios, como el **Ministerio de Transporte y Obras Públicas** son los llamados a crear soluciones para impedir el caos vehicular, la pérdida de tiempo y el estrés que provocan las congestiones.
+JD Vance, un exinfante de marina criado en el seno de una familia de clase trabajadora de Ohio, alcanzó notoriedad en **2016 por sus críticas a Trump**.
 
-El totalitarismo (I)
-====================
+Vance llegó a calificar a **Trump como “idiota” y “el Hitler de Estados Unidos”.** Sin embargo, en 2022, cambió su postura al iniciar su carrera en el **Senado**, así logró el respaldo del expresidente para su candidatura.  
+  
+Este cambio de dirección le permitió unirse a Trump en un **momento decisivo**, con un rol destacado en la política de su partido. Vance ha aprovechado su **plataforma en el Senado** para impulsar leyes **conservadoras** y ha sido crítico de la ayuda a Ucrania, en consonancia con el mensaje de Trump.
 
-El totalitarismo y su asociación con regímenes opresivos, alertando sobre su posible resurgimiento en América Latina.
----------------------------------------------------------------------------------------------------------------------
+Al aceptar la **candidatura a la vicepresidencia**, JD Vance también refuerzó su posición dentro del **Partido Republicano** y se convirtió en un potencial sucesor de Trump. Su juventud y su visión conservadora lo ubican como un **líder emergente** de la nueva generación republicana.
 
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+Trump elogió los antecedentes de **Vance en el Ejército**, su formación en la **Universidad de Yale** y su dedicación a la **clase trabajadora**, destacando que se centrará en los trabajadores del Medio Oeste, un **grupo crucial** para las aspiraciones electorales del partido en 2024.
 
-Las **palabras** tienen su historia y su tiempo. El significado no siempre es el mismo. Varía o adquiere sentidos que pueden ser equívocos o difieren en determinados **contextos**. Así sucede con la **expresión** «**totalitarismo**», que es reciente. Quizá tiene un siglo. No es, por cierto, asimilable a la «**tiranía**» que utilizaron los **filósofos griegos** como forma de gobierno, cuatrocientos años antes de Cristo.
+Una vez nominado, JD Vance salió al paso de sus antiguas declaraciones. “**Estaba equivocado** respecto de **Donald Trump**. No pensé que fuera a ser un buen presidente. Pero fue un gran presidente”.
 
-Se dice que la palabra _**totalitarismo**_ utilizó por primera vez Mussolini en un **discurso** de 1925. Él no inventó el vocablo, el fascismo fue «una conceptualidad de la vida» decía Giovanni Gentile, destacado filósofo del **fascismo**.  El mismo Mussolini, para definir su régimen lo hizo con la **expresión** ardorosa de «_Estado totalitario_».
+La presencia de Vance en la **fórmula republicana** evidencia una estrategia para conectar con los votantes que alguna vez criticaron a Trump, pero que ahora ven en él y en Vance una **opción de cambio**.
 
-Luego se asimila la palabra al **régimen soviético** de Stalin y al **nacionalsocialismo** de Hitler, en Alemania.  O sea, al **nazismo**.  Tendrá su caracterización en la vigencia de un partido único, exclusivo y excluyente, que ocupa la totalidad del entramado estatal. Partido y Estado se licúan y mezclan como lo único que existe y hegemoniza. La **pluralidad** y lo diverso, la **tolerancia** y el **respeto** a la **dignidad** **humana** es devastada. Solo queda el Estado **propaganda**. Hannah Arendt, en su bello libro _Los **orígenes** del **totalitarismo**,_ nos trae dos frases que merecen recordarse, la primera: _«Solo el **populacho** y la élite pueden sentirse atraídos por el ímpetu mismo del **totalitarismo**: las masas tienen que ser ganadas por la propaganda (…) los **movimientos totalitarios** que luchan por el poder pueden emplear el terror»._ La segunda, «_La **propaganda**, en otras palabras, es un **instrumento** del **totalitarismo** (…) y el terror la verdadera esencia de su forma de **gobierno**»._
+Reconocido escritor
+-------------------
 
-En principio, el **totalitarismo** es asociado a los **regímenes** fascistas en Italia, al **nacionalsocialismo** alemán, al **estalinismo** y luego a los **regímenes** que se asimilan a la **ideología** del **marxismo**–**leninismo**, como China Popular, Cuba, o la dinastía de los tres Kim (In-Sung, Gong Il y Jong-un) en Corea del Norte. O los países que fueron parte de la vieja URSS. Los **totalitarismos** son gigantescas **maquinarias** de **adoctrinamiento** y **propaganda**. Reescriben la historia. Destruyen las **sociedades** diversas. Ahí, en la **centralidad** luce un **iluminado**. El Gran o Amado Líder, cuya **voluntad** es **todopoderosa**. El extremado culto a la **personalidad**.
+El senador **JD Vance** se hizo ampliamente conocido en su país por **haber publicado Hillbilly Elegy**: A Memoir of a Family and Culture in Crisis, una **autobiografía** que ha despertado tanto elogios como críticas. Este hecho elevó la **popularidad del binomio Trump-Vance** en la campaña presidencial de Estados Unidos de 2024.
 
-En **América Latina**, los **regímenes populistas** y **autoritarios** deben considerarse como la fuente dónde puede **germinar** y crecer un monstruo: los neo **totalitarismos**.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/81gF17TRrPL._UF10001000_QL80_.jpg)
 
-Cartas a Quito / 6 de noviembre de 2024
-=======================================
+Carátula del libro, catalogado como best seller, de JD Vance. Foto: Cortesía
 
-Estas son las cartas a Quito de este miércoles 6 de noviembre de 2024
----------------------------------------------------------------------
+Vance es originario de **Ohio** y miembro de una familia trabajadora de los Apalaches. En su libro describe la **dura realidad de la vida en las zonas rurales de Estados Unidos**, y expone la falta de oportunidades y los problemas sociales que enfrentan las comunidades.
 
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+En el marco de la contienda electoral, seguidores de Trump y de Vance sostienen que **Hillbilly Elegy** revela la lucha de la clase trabajadora y retrata fielmente la vida rural. Sin embargo, sus **detractores** afirman que el enfoque de **Vance simplifica los problemas** y muestra una falta de empatía hacia los sectores vulnerables.
 
-Producción ganadera sostenible: necesidad ambiental, alimentaria, económica y social
-------------------------------------------------------------------------------------
+**La película**, basada en el libro y lanzada en 2020, también ha sido objeto de **críticas en plataformas de reseñas** como Goodreads, que suspendió temporalmente las valoraciones debido a un incremento en las críticas motivadas por la reciente nominación.
 
-A nivel mundial, la producción ganadera aporta cerca de un tercio de la proteína que es consumida día a día, siendo esencial para la seguridad alimentaria y nutricional global.  En América Latina y el Caribe, esta actividad no solo es crucial para la dieta de millones de personas, sino que también representa un pilar de la economía local.
+En el caso de Vance, **tanto el libro como la película han ocupado los primeros puestos de ventas** y visualizaciones en Amazon y Netflix respectivamente, a la par que se intensifica la atención mediática.
 
-De acuerdo con cifras de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), en 2022 la ganadería representó el 46% del Producto Interno Bruto agrícola de nuestra región. Sin embargo, este sector enfrenta desafíos significativos, como la disponibilidad de recursos naturales para la producción, la creciente demanda de proteína animal y la necesidad de utilizar prácticas que aun siendo rentables disminuyan el impacto ambiental del sector. Estas problemáticas requieren atención urgente para garantizar la sostenibilidad en el sector y un aporte a la seguridad alimentaria.
+Una vez que se dio el triunfo republicano, se **evidencia que el libro y la popularidad de Vance** lograron captar el voto rural y obrero en estados decisivos para las elecciones presidenciales.
 
-La FAO proyecta que para el 2050 aumente el 20% la demanda global de proteína animal, escenario ante el cual América Latina y el Caribe tiene la oportunidad de consolidarse como un proveedor estratégico, ya que actualmente alberga al 8,5% de la población del planeta, pero posee el 28% del hato ganadero mundial.
+¿Posible sucesor de Trump?
+--------------------------
 
-Aun así, el aumento en la producción ganadera debe ser equilibrado con la preservación de los recursos naturales y la biodiversidad y con un énfasis en la sostenibilidad, y para eso debemos actuar cuanto antes.
+A lo largo de la historia de **Estados Unidos**, varios vicepresidentes han buscado la presidencia después de **servir en el cargo**. En ese país, la tradición de que el vicepresidente sea el sucesor del presidente en las siguientes elecciones **refleja la continuidad** y estabilidad del liderazgo político.
 
-En este contexto, la FAO en conjunto con el Ministerio de Ganadería, Agricultura y Pesca y el Instituto Nacional de Carnes de la República Oriental del Uruguay, organizaron la primer Conferencia Regional para la Transformación Sostenible de la Ganadería en América Latina y el Caribe. El foco del evento se centra en la transformación hacia sistemas de producción ganadera más innovadores, resilientes y eficientes, que reduzcan el impacto ambiental y aumenten la accesibilidad de alimentos sanos en las diferentes cadenas de producción pecuarias, para lograr una Mejor Producción.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/1c8aa84ddeaa3ebb0cf64e369d5ff99fb0e408bd-1024x673.jpg)
 
-De esta forma, buscamos promover el intercambio de conocimiento y experiencias de la región para generar sinergias y equilibrios para la mejora de la productividad y producción animal.
+JD Vance, en un mitin, junto con la familia Trump. Foto: EFE/ CRISTOBAL HERRERA-ULASHKEVICH
 
-La FAO, junto a otras entidades, ya ha comenzado a implementar iniciativas que apuntan hacia una **producción** **ganadera sostenible,** que integran soluciones basadas en la gestión optimizada de los propios recursos naturales, como **proyectos de ganadería climáticamente inteligente, modelos agroforestales y silvopastoriles**, y otras buenas prácticas  relacionadas con **la bioeconomía circular,** como es el caso de la utilización de estiércol para abono y biocombustibles, y el uso eficiente de los servicios ecosistémicos y sus efectos protectores y armonizadores del medio ambiente.
+Este fenómeno responde a la necesidad de **mantener las políticas** de la administración vigente, respaldando a un candidato ya familiarizado con las funciones del **poder ejecutivo** y cercano al Presidente en ejercicio.
 
-Lo anterior no solo facilita la optimización de los recursos, sino que también incrementa el secuestro de carbono en los suelos. Además, al integrar especies adaptadas a las condiciones locales, como razas bovinas tropicalizadas, o como los camélidos sudamericanos en las zonas altoandinas, se fomenta una producción más diversa y resiliente.
+Además, como el **vicepresidente** suele tener un papel visible y activo, llega a ganar popularidad y apoyo dentro del partido, posicionándose como el **candidato natural**. Aunque esta tradición no siempre se cumple, ya que depende del **contexto político**, del estado de la administración y del respaldo interno, en los últimos tiempos se ha consolidado como una estrategia para capitalizar la **base electoral existente** y garantizar la lealtad de los **votantes** a la línea del partido. Esto facilita la campaña y disminuye el riesgo e divisiones internas.
 
-Estos avances requieren el respaldo de políticas públicas efectivas. Es fundamental que los gobiernos diseñen incentivos que promuevan la sostenibilidad en el sector ganadero, facilitando el acceso de pequeños productores a recursos y tecnologías.
+Estos son los **casos más importantes de vicepresidentes** que participaron luego en la contienda presidencial de EE.UU.
 
-Abordar la producción ganadera desde una perspectiva sostenible no es solo una cuestión ambiental, es una necesidad económica y social.
+* **John Adams:** Fue el primer vicepresidente de Estados Unidos bajo George Washington y luego se convirtió en el segundo presidente del país en 17961.
+* **Thomas Jefferson**: Sirvió como vicepresidente de John Adams y posteriormente ganó la presidencia en 18001.
+* **Martin Van Buren**: Vicepresidente de Andrew Jackson, Van Buren fue elegido presidente en 1836, sucediendo a su predecesor.  
+    **Richard Nixon**: Fue vicepresidente de Dwight D. Eisenhower y luego se postuló para presidente en 1960, perdiendo ante John F. Kennedy. Sin embargo, ganó la presidencia en 19681.
+* **Hubert Humphrey**: Vicepresidente de Lyndon B. Johnson, se postuló para presidente en 1968, pero perdió ante Richard Nixon.
+* **Lyndon B. Johnson:** Vicepresidente de John F. Kennedy, asumió la presidencia tras el asesinato de Kennedy en 1963 y luego fue elegido presidente en 1964.
+* **Walter Mondale**: Sirvió como vicepresidente de Jimmy Carter y fue el candidato demócrata a la presidencia en 1984, perdiendo ante Ronald Reagan.
+* **Al Gore**: Vicepresidente de Bill Clinton, se postuló para presidente en 2000 en una controvertida elección que perdió ante George W. Bush.
+* **Joe Biden:** Fue vicepresidente de Barack Obama y ganó la presidencia en 2020.
+* **Kamala Harris**: La actual vicepresidenta se ha convertido en la candidata demócrata para las elecciones presidenciales de 2024, buscando suceder a Joe Biden en la Casa Blanca.
 
-_**Andrés González Serrano, Oficial de Ganadería, Sanidad Animal y Biodiversidad de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO).**_
+La victoria de Donald Trump dominará la cumbre de líderes de la Unión Europea 
+==============================================================================
 
-Expectativa mundial
-===================
-
-Kamala Harris es vista como una candidata estable y con un historial limpio en un contexto mundial tenso.
+La agenda está dedicada principalmente al impulso de la competitividad económica del bloque y al diálogo.
 ---------------------------------------------------------------------------------------------------------
 
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-efe-.jpg)
 
-Se dice que **Estados Unidos** no es **democrático**, porque en la elección de presidente solamente participan sus **ciudadanos**, cuando deberían hacerlo todos los **habitantes** del **mundo**, por la trascendencia de esa función.
-
-Ayer martes se habrá elegido a **Kamala Harris** –**demócrata**– o al expresidente republicano Donald Trump. Y así se marcó lo que ocurrirá en el **mundo** en los próximos años. Más allá de las **diferencias políticas** entre los dos **personajes**, es evidente el riesgo que implicaría la **elección** de **Trump**: sus antecedentes de **inestabilidad emocional**, su tendencia a la mentira y al **engaño**, su comportamiento **antidemocrático**, sus manejos no **éticos** en sus **negocios personales**, la tenencia ilegal de **documentos confidenciales** sobre **seguridad nacional**, entre otros, configuran una **personalidad** que podría llevar al mundo a **conflictos** que pongan en peligro a la **humanidad**.
-
-12 ex altos **funcionarios** del gobierno de Trump 2017-2021, entre los que están: su vicepresidente Mike Pence, el ex secretario de Estado **Mike Pompeo**, el ex consejero de Seguridad John Bolton, el ex secretario de Defensa **Mark Esper**, coinciden en afirmar que “hemos visto de cerca que **Donald Trump** es cada vez más inestable \[ \] y que su **segundo mandato** sería más peligroso”. John Bolton ha dicho que Trump “no es apto para ser presidente”, y Mark Esper que es “una **amenaza** para la **democracia**”.
-
-**Trump** trató de torcer las elecciones de 2020 en las que perdió frente a **Biden**. Provocó el asalto al **Congreso**, presionó al vicepresidente Pence para que el Senado no declare vencedor a Biden, pidió al secretario de Estado de Georgia Brad Raffensberger que “encontrara” los votos que necesitaba para ganar en ese estado. Solamente la recia **institucionalidad** de **Estados Unidos** pudo imponerse sobre tales intentos.
-
-En **materia** **internacional** fueron evidentes los crasos errores de **Trump** en sus contactos con Putin, Xi y Kim Jong-un. A estos 3 **siniestros personajes** les conviene tener en la **Casa Blanca** a un político con **delirios de grandeza** y manipulable como el **expresidente**.
-
-La señora Harris tampoco es, precisamente, un **personaje ideal** para dirigir el país más poderoso de la tierra, pero al menos tiene un pasado personal limpio, una carrera de **servicio público** destacada y una probada **estabilidad emocional**, indispensables en un **mundo convulsionado** y al borde de una **conflagración mundial**, como el actual.
-
-Jimmy Ruiz, asesor de Augusto Verduga, fue asesinado
-====================================================
-
-El Cpccs cofirmó que Jimmy Ruiz trabajaba en el despacho de Augusto Verduga.
-----------------------------------------------------------------------------
-
-![Jimmy Ruiz, asesor de Augusto Verduga, transitaba entre Daule y Guayaquil en un auto.](https://www.elcomercio.com/wp-content/uploads/2024/11/jimmy-ruiz-asesor-augusto-verduga.jpg)
-
-**Jimmy Ruiz**, asesor del vocal de**l Consejo de Participación Ciudadana y Control Social (Cpccs)**, **Augusto Verduga**, fue asesinado, este martes 5 de noviembre de 2024.
-
-Ruiz fue asesinado bajo la modalidad de sicariato, en Guayas, a tiros, mientras conducía un auto.
-
-### Más noticias:
-
-* [Fiscal Marcelo Vásconez fue asesinado en Manta](https://www.elcomercio.com/actualidad/fiscal-marcelo-vasconez-fue-asesinado-en-manta.html "Fiscal Marcelo Vásconez fue asesinado en Manta")
-* [Empresario atacado en estacionamiento en Daule falleció, ¿qué causó su asesinato?](https://www.elcomercio.com/actualidad/seguridad/empresario-atacado-en-estacionamiento-en-daule-fallecio-que-causo-su-asesinato.html "Empresario atacado en estacionamiento en Daule falleció, ¿qué causó su asesinato?")
-
-Asesinato de Jimmy Ruiz, asesor de Augusto Verduga
---------------------------------------------------
-
-El hecho se produjo a las 17:00 de este martes 5 de noviembre de 2024 en **La Aurora**, en Daule.
-
-Ruiz manejaba un vehículo rojo por la **avenida León Febres Cordero**.
-
- Fuentes policiales señalaron que hombres en moto dispararon contra la humanidad del **abogado de 37 años**.
-
-La víctima habría acudido a una **plaza comercial** de la zona para cobrar un cheque.
-
-Aún no existen datos adicionales oficiales sobre est**e crimen.**
-
-El Cpccs se pronunció sobre el asesinato de Jimmy Ruiz, asesor de Augusto Verduga
----------------------------------------------------------------------------------
-
-El **Consejo de Participación Ciudadana emitió un comunicado condenando** y repudiando el asesinato de Jimmy Ruiz.
-
-El Consejo expresó su “más enérgica condena ante el execrable asesinato de Jimmy Gabriel Ruiz Engracia”, quien se desempeñaba como **asesor del despacho** del consejero Augusto Verduga.
-
-En el comunicado, el Cpccs demandó de las autoridades una investigación exhaustiva para que se ubique y detenga a los **responsables**.
-
-El cuerpo colegiado exigió a la justicia que procese a los **autores intelectuales y materiales** del hecho y “los castigue con toda la severidad que la ley permita”.
-
-“El Consejo también exige al Estad**o salvaguardar y proteger la integridad del consejero Augusto Verduga,** así como de todos los integrantes del Pleno y de sus equipos de trabajo”, agregó la institución en el comunicado.
-
-En los últimos meses, delincuentes asesinaron a varios **funcionarios judiciales y penitenciarios**.
-
-Todos los crímenes de estos funcionarios se cometieron bajo la modalidad de **sicariato**.
-
-Manta fortalece su seguridad con apoyo de la ciudadanía
-=======================================================
-
-La Alcaldía de Manta refuerza la seguridad con recursos, apoyo comunitario y cooperación policial.
---------------------------------------------------------------------------------------------------
-
-![Reunión entre la alcaldesa de Manta y las autoridades en el Ecu 911.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-10.jpg)
-
-En respuesta a la **creciente inseguridad en Manabí**, las autoridades locales y nacionales implementaron diversas estrategias para fortalecer la **protección en Manta**. Dentro de este plan de acción, la alcaldesa de Manta, **Marciana Valdivieso**, subrayó el e**nfoque integral y la participación ciudadana como pilares fundamentales**.
+La victoria de [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-tiene-grandes-planes-para-segundo-mandato.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-tiene-grandes-planes-para-segundo-mandato.html") en las **elecciones presidenciales de Estados Unidos** dominará la cumbre de jefes de Estado y de **Gobierno de la Unión Europea (UE)** en Budapest.
 
 ### Más noticias
 
-* [Manta cumple 102 años y tiene un deseo: agua potable](https://www.elcomercio.com/actualidad/ecuador/manta-cumple-102-anos-y-tiene-un-deseo-agua-potable.html "Manta cumple 102 años y tiene un deseo: agua potable")
-* [Megaparque Centenario Agustín Intriago aporta al cambio en Manta](https://www.elcomercio.com/actualidad/ecuador/megaparque-centenario-agustin-intriago-siembra-cambio-manta.html "Megaparque Centenario Agustín Intriago aporta  al cambio en Manta")
-* [Operativos en Durán y Manta se realizan ante la inseguridad](https://www.elcomercio.com/actualidad/seguridad/operativos-duran-manta-inseguridad.html "Operativos en Durán y Manta se realizan ante la inseguridad")
+* [Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump")
+* [Donald Trump tiene varios planes para su segundo mandato](https://www.elcomercio.com/actualidad/mundo/donald-trump-tiene-grandes-planes-para-segundo-mandato.html "Donald Trump tiene varios planes para su segundo mandato")
+* [¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?](https://www.elcomercio.com/actualidad/negocios/la-eleccion-de-donald-trump-influira-en-el-comercio-entre-ecuador-y-ee-uu.html "¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?")
 
-La colaboración entre la Policía Nacional, las Fuerzas Armadas y el municipio permiten consolidar operativos y recursos destinados a reducir los índices de criminalidad y brindar mayor tranquilidad a los habitantes y visitantes de la ciudad.
+La agenda está dedicada principalmente al impulso de la **competitividad económica del bloque** y al diálogo este con los países de la Comunidad Política Europea.
 
-La instalación de una mesa de seguridad es **clave en esta estrategia**, lo cual permite definir acciones conjuntas para **proteger a la ciudadanía**.
+El anfitrión será el primer ministro húngaro, **Viktor Orbán**, principal aliado dentro del club europeo del que ya fuera presidente estadounidense entre 2016 y 2020 y que ya adelantó que celebraría con una **“botella de champagne”** una vitoria de Trump.
 
-Con el respaldo de esta coordinación, el municipio desplegó un contingente adicional de recursos, que incluye vehículos, caballos y un refuerzo cercano a **1 000 agentes policiales**; se complementa con personal de las Fuerzas Armadas. Este esfuerzo, según la alcaldesa, permitirá cubrir las áreas de mayor afluencia y garantizar una mayor seguridad en el entorno urbano.
+Incluso antes de conocer los resultados, un alto funcionario europeo aseguraba que la “sombra” de las elecciones estadounidenses planearía no solo sobre la **cena de los líderes del jueve**s, 7 de noviembre de 2024, en la que está previsto un punto precisamente sobre las **relaciones con Estados Unidos**, sino sobre “toda la cumbre”.
 
-> Disfrutemos el feriado con tranquilidad.  
->   
-> Más de 2.400 personas resguardarán a los mantenses y visitantes. 🚔🚒[#MantaSeReactiva](https://twitter.com/hashtag/MantaSeReactiva?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/uvjVxCQL3o](https://t.co/uvjVxCQL3o)
-> 
-> — Alcaldía de Manta (@manta\_alcaldia) [November 2, 2024](https://twitter.com/manta_alcaldia/status/1852745702645834166?ref_src=twsrc%5Etfw)
+La misma fuente reconocía “ansiedad” entre las **capitales europeas** sobre las elecciones en EE. UU. por el “gran impacto” que tienen sobre el bloque – sobre todo con **respecto al comercio bilatera**l y su capacidad para romper la unidad del club – y en cuestiones geopolíticas de gran magnitud como la guerra rusa en Ucrania o el conflicto en Oriente Medio.
 
-Colaboración de la comunidad en la seguridad de Manta
------------------------------------------------------
+Unión Europea está preparada
+----------------------------
 
-Además del trabajo coordinado con las instituciones de seguridad, [Marciana Valdivieso](https://es.wikipedia.org/wiki/Alcalde_de_Manta "https://es.wikipedia.org/wiki/Alcalde_de_Manta") destacó el papel activo que desempeña la ciudadanía en los esfuerzos por mejorar la **seguridad en Manta**.
+Con todo, la UE está ahora **“bastante bien preparada”** para afrontar la vuelta de Trump a la Casa Blanca, defienden las fuentes, que resaltan que “esto no es 2016”, cuando el club recibió su primera victoria con “sorpresa”.
 
-A través de **comités, chats comunitarios y la instalación de botones de pánico** en áreas conflictivas, los habitantes de la ciudad **colaboran en la prevención de delitos** y en la respuesta rápida en situaciones de emergencia.
+Así, se espera que los líderes europeos señalen su **voluntad de trabajar con la nueva administración** estadounidense, poniendo el énfasis en la importancia de mantener unas buenas relaciones transatlánticas y de proteger el **orden internacional multilateral** basado en reglas, en línea con las primeras reacciones que han expresado ya varios de ellos en redes sociales.
 
-La alcaldesa señaló que esta participación c**omunitaria es fundamental en el plan de seguridad** de la ciudad. Esto permite que los ciudadanos tomen **medidas preventivas** y se mantengan en constante comunicación con las autoridades. Este esfuerzo se complementa con el **aporte de la empresa privada** para fortalecer las capacidades de los **cuerpos de seguridad**.
+Estrategias
+-----------
 
-> ¡Valió la pena!🥰🥳🩵🤍  
->   
-> En Manta todo lo que hacemos tiene un propósito. Nuestras fiestas fueron, más allá del disfrute, reactivación directa a la economía de miles de familias: a la del comerciante de la calle, la del taxista, del comedor o la del que cuida el carro, también a… [pic.twitter.com/YdBdjRfs3g](https://t.co/YdBdjRfs3g)
-> 
-> — Marciana Valdivieso (@marcivaldivieso) [November 5, 2024](https://twitter.com/marcivaldivieso/status/1853846644921372687?ref_src=twsrc%5Etfw)
+Después de esta “reacción inmediata”, la parte “complicada” llegará en la **cumbre de diciembre,** en la que los Veintisiete ya conocerán con más detalle las intenciones de Trump y, por tanto, mantendrán un intercambio más “sustancial” y “estratégico” al respecto.
 
-Centro de monitoreo y respuesta inmediata ante incidentes
----------------------------------------------------------
+Ese encuentro será el momento de tratar cuestiones como las **consecuencias de la victoria de Trump** en la agresión rusa sobre Ucrania, que puede obligar a la UE a redoblar su ayuda económica y militar a Kiev, o las relaciones con una China con la que el club europeo no quiere romper lazos pero puede verse presionado por Washington a hacerlo.
 
-Para reforzar la capacidad de respuesta en **Manta**, el municipio puso a funcionar un centro de monitoreo en colaboración con el **ECU911, la Policía y las Fuerzas Armadas**. Valdivieso explicó que esta infraestructura permite una respuesta inmediata ante cualquier incidente.
+Aunque la conversación específica sobre Estados Unidos está prevista en la cena del jueves, los resultados electorales también estarán muy presentes en la **conversación sobre competitividad económica** que es el único punto en la agenda del viernes.
 
-La respuesta se daría de forma rápida, ya que el **personal de seguridad** se encuentra en constante comunicación y preparado para actuar en el momento oportuno. “De esta manera, hay mayor tiempo de respuesta con personal de la Policía y Fuerzas Armadas presente”, afirmó la alcaldesa.
+El objetivo es cristalizar en prioridades concretas las medidas propuestas por los ex primeros ministros italianos Mario Draghi y Enrico Letta para cerrar la brecha de productividad con otras potencias globales y acelerar las transformaciones verde y digital para las que el bloque necesita unos **800 000 millones anuales.**
 
-Además, los agentes de tránsito y de control territorial del Municipio contribuyen a mantener la seguridad en el entorno urbano. Esto con la finalidad de asegurar un orden efectivo en **calles y espacios públicos**.
+El equipo del presidente del Consejo Europeo, Charles Michel, circuló en las últimas semanas un texto que muchos países consideran demasiado largo y que incluso generó cierto descontento en algunos de ellos, que prefieren un **debate más estratégico sobre** la reindustrialización de la UE y menos específico.
 
-Desde el inicio de las operaciones de **seguridad en Manta**, los resultados son positivos. Según datos del **Bloque de Seguridad**, los homicidios intencionales en el cantón se redujeron en un **27,6 % entre el 6 de junio y el 27 de octubre de 2024**, en comparación con el mismo periodo del año anterior.
+Aunque existe consenso entre las capitales sobre el diagnóstico, sí que genera división el debate sobre cómo financiar la transformación económica, en el que **Alemania, Países Bajos, Austria** o los nórdicos rechazan deuda común o aumentar los recursos públicos como piden otros como Francia o España.
 
-> 🔴📽️ [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
->   
-> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw), informamos detalles sobre los despliegues operativos ejecutados por el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw), en el país.  
->   
-> Participan: Ministra del Interior [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw), [@CmdtPoliciaEc](https://twitter.com/CmdtPoliciaEc?ref_src=twsrc%5Etfw) [#GraDVíctorZárate](https://twitter.com/hashtag/GraDV%C3%ADctorZ%C3%A1rate?src=hash&ref_src=twsrc%5Etfw) y Jefe del Comando Conjunto de [#FFAA](https://twitter.com/hashtag/FFAA?src=hash&ref_src=twsrc%5Etfw) (S)… [pic.twitter.com/ED9kbZc1nq](https://t.co/ED9kbZc1nq)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [November 4, 2024](https://twitter.com/PoliciaEcuador/status/1853493741018808360?ref_src=twsrc%5Etfw)
+Antes de estas conversaciones a Veintisiete, la cumbre comenzará la mañana del jueves con un nuevo encuentro de la Comunidad Política Europea (CPE), el foro que reúne a los Estados miembros de la UE con otros países del continente, como Reino Unido, los Balcanes Occidentales, Ucrania, Moldavia, Turquía, Armenia o Georgia.
 
-### Compromiso de la Alcaldía para un ambiente seguro y atractivo
+Precisamente la situación de Georgia y su acercamiento al Kremlin será tratado también por los líderes de la UE en su cena de mañana.
 
-Con estas medidas, la Alcaldía de Manta busca **consolidar un ambiente seguro** para los turistas y residentes de la ciudad.
+La de Budapest será la **quinta cumbre de este foro**, que reúne en total a 47 jefes de Estado y de Gobierno europeos, tras los encuentros de Praga en Chequia (en octubre de 2022), Chisinau en Moldavia (junio de 2023), Granada en España (octubre de 2023) y Woodstock en Reino Unido (julio de 2024).
 
-Valdivieso expresó que el objetivo es promover un **entorno acogedor** para quienes visitan Manta, especialmente en épocas de alta **afluencia turística**. La participación de los agentes municipales de tránsito y control territorial contribuye a **mantener el orden y la seguridad**.
+El presidente del Gobierno, Pedro Sánchez, anunció que suspendía su participación en estos encuentros europeos para seguir atendiendo en Madrid la emergencia causada por la dana.
 
-> Sigamos cambiando juntos, como la gran familia que somos.💙[@marcivaldivieso](https://twitter.com/marcivaldivieso?ref_src=twsrc%5Etfw) [#102AñosDeCantonización](https://twitter.com/hashtag/102A%C3%B1osDeCantonizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/M7UztvHz3o](https://t.co/M7UztvHz3o)
-> 
-> — Alcaldía de Manta (@manta\_alcaldia) [November 5, 2024](https://twitter.com/manta_alcaldia/status/1853785478719287468?ref_src=twsrc%5Etfw)
+La Liga Pro Serie B no tendrá descensos en el 2024
+==================================================
 
-Los uniformados son clave en la seguridad de las **áreas de interés turístico y en zonas de alto tránsito**.
+La Liga Pro Serie B está proyectada para que en el 2025 esté integrada por 12 equipos.
+--------------------------------------------------------------------------------------
 
-La colaboración entre las **autoridades locales, la ciudadanía y las instituciones de seguridad** es importante en el fortalecimiento de la **seguridad en Manta**.
+![Jugador de Vargas Torres (i), uno de los equipos descendidos en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/descensos_1.jpg)
 
-Hernán Galíndez capitanea y se acerca al título con Huracán
-===========================================================
+Los descensos en la **Liga Pro Serie B de 2024** fue uno de los temas abordados por el Consejo de Presidentes de la Liga Pro, convocado para este miércoles 6 de noviembre de 2024 en Guayaquil.
 
-Hernán Galíndez y Huracán, donde el arquero es capitán, se encaminan al título en la Superliga de Argentina.
-------------------------------------------------------------------------------------------------------------
-
-![Hernán Galíndez, arquero de la Selección de Ecuador, en un entrenamiento de Huracán.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-05T222616.478.jpg)
-
-**Hernán Galíndez** es el capitán de Huracán y se acerca a un título histórico para el equipo en la recta final de la Superliga Argentina. En su último partido con el ‘Globo’, el arquero de la **Selección de Ecuador** repitió su rol, su equipo ganó y dio un paso más para hacerse con el campeonato.
-
-La noche de este martes 5 de noviembre del 2024, Huracán venció por un marcador de 4-2 a Newell’s Old Boys de Rosario. Para el cotejo, **Galíndez** partió como titular bajo los tres palos y estuvo presente durante los 90 minutos de partido.
+La temporada de la Liga Pro Serie B llegó a su fin. Cuniburo y Manta, en calidad de campeón y vicecampeón, respectivamente, son los que ascendieron para jugar en el 2025 en la Serie A.
 
 ### Más noticias:
 
-* [¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-oscar-zambrano-dopaje.html "¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?")
-* [La Selección de Ecuador vs. Bolivia tendrá un árbitro ‘novato’](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-bolivia-arbitro-eliminatorias.html "La Selección de Ecuador vs. Bolivia tendrá un árbitro ‘novato’")
-* [¿Cuándo juega la Selección de Ecuador contra Bolivia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-bolivia-horario-dia.html "¿Cuándo juega la Selección de Ecuador contra Bolivia?")
+* [Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-gol-908-champions-asia.html "Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia")
+* [Imane Khelif, medallista olímpica, está envuelta en otra polémica](https://www.elcomercio.com/deportes/juegos-olimpicos/imane-khelif-medallista-olimpica-esta-envuelta-en-otra-polemica.html "Imane Khelif, medallista olímpica, está envuelta en otra polémica")
+* [Gustavo Alfaro vuelve a llamar al goleador Álex Arce](https://www.elcomercio.com/deportes/gustavo-alfaro-convocatoria-alex-arce-eliminatorias-goleador.html "Gustavo Alfaro vuelve a llamar al goleador Álex Arce")
 
-Con la escuadra bonaerense, el futbolista se ha convertido en uno de los referentes y, pese a que llegó a inicios de la vigente temporada, este se hizo con la capitanía de la escuadra. Asimismo, el nivel que lo ha destacado le ha permitido mantenerse en la Tri, donde también ha sido titular habitual con **Sebastián Beccacece.**
+Cuniburo jugará por primera vez en la máxima categoría del fútbol de Ecuador, **mientras que Manta regresa luego de cuatro años de ausencia**, con Efrén ‘Cachorro’ Mera, como el entrenador de un proyecto que espera consolidarse.
 
-El buen momento del arquero lo encuentra a puertas de una **próxima convocatoria** a las eliminatorias sudamericanas hacia el Mundial 2026. Para los próximos partidos ante Bolivia y Chile se espera que el guardameta vuelva a ser convocado y tenga minutos.
+En la otra cara de la **tabla de posiciones se ubicaron Vargas Torres y Chacaritas**, equipos que fueron los más irregulares del año y descendieron a la Segunda Categoría de Esmeraldas y Tungurahua, respectivamente.
 
-Hernán Galíndez y Huracán, en busca del título
-----------------------------------------------
+Pero al parecer lo que sucedió en la cancha, nuevamente, **será cambiado en la mesa de los directivos**, porque la propuesta de anular los descensos tomó fuerza y será una de las novedades más relevantes que deje la reunión del Consejo de Presidentes.
 
-Con su última victoria, Galíndez y Huracán se mantuvieron en el segundo puesto de la tabla de posiciones de la Superliga. Pese a ello, la única diferencia del conjunto quemero con **Vélez Sarsfield**, líder del torneo, es el **gol diferencia** y un partido más acumulado.
-
-La escuadra de Parque Patricios y el golero suman **39 puntos y 13 goles** a favor de diferencia, seis menos que los velezanos. A su vez, la ventaja que le saca a Talleres, tercero en la tabla, es de seis unidades[.](https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Hurac%C3%A1n "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Hurac%C3%A1n")
-
-A la escuadra de **Galíndez** le restan seis partidos pendientes para definir el campeonato. En ellos deberá mantener el ritmo y esperar por un tropezón de Vélez.
-
-¿Cuándo juega Galíndez con la Tri?
-----------------------------------
-
-La **Selección de Ecuador** tendrá su siguiente partido durante el jueves 14 de noviembre del 2024 ante Bolivia. Para tal cotejo, la Tri cambió su sede y no jugará en el Estadio Rodrigo Paz Delgado de Quito, sino en el Monumental de Guayaquil.
-
-El siguiente choque del conjunto tricolor serán ante **Colombia**. Para ello, la escuadra deberá trasladarse a Barranquilla y disputará su cotejo el martes 19 de noviembre del 2024.
-
-No te pierdas San Viernes
+Se anularán los descensos
 -------------------------
 
-TCE sanciona a Verónica Abad ¿Cuál fue el motivo?
-=================================================
+El 2024 no tendrá descensos y se mantendrá la decisión tomada por el mimo **Consejo de Presidentes el 2 de febrero**, pero que el 13 de septiembre el Congreso Extraordinario de la Federación Ecuatoriana de Fútbol (FEF), tomó la decisión de que sí habrá.
 
-Verónica Abad fue sancionada por el TCE, debido a una infracción de 2023.
--------------------------------------------------------------------------
+Los clubes de Serie A y Serie B, junto a las asociaciones de cada provincia, formaron parte del **referido Congreso y deslegitimaron decisiones** previas de los equipos y la Liga Pro y se determinó que habrá descenso en la Serie B.
 
-![Verónica Abad fue sancionada por el TCE.](https://www.elcomercio.com/wp-content/uploads/2024/11/veronica-abad-tce.jpg)
+Pese a dicha decisión, la FEF convocó al Congreso y, tras el mismo, Francisco Egas, su presidente, contó que sí descenderían los equipos y explicó por qué lo determinado en la Liga Pro era improcedente.
 
-El **Tribunal Contencioso Electoral** sancionó a la vicepresidenta **Verónica Abad**, este martes 5 de noviembre de 2024.
+“Los cambios al reglamento se deben hacer en la Federación Ecuatoriana de Fútbol. Estamos hablando de una modificación que se debió discutir en un congreso de la FEF, **pero que se tomó en un Consejo de Presidentes. Eso no está ni en sus atribuciones ni capacidades** (…) la mayoría del fútbol ecuatoriano ha considerado improcedente ese tema, sobre todo por las afectaciones al juego limpio que causa un sistema sin descensos”, señaló Egas.
 
-**Juan Esteban Guarderas**, vocal del Consejo de Participación Ciudadana y Control Social, puso una denuncia contra la funcionaria a mediados de año.
+En la previa de la reunió de este miércoles 6, Miguel Ángel Loor, presidente de la Liga Pro, mencionó que aún no tenían un “**comunicado oficial**” por parte de la FEF sobre el tema de los descensos en la Serie B, por lo que era un tema que no estaba finiquitado.
 
-### Más noticias:
+El periodista Sergio Basantes pudo confirmar que el **2024 no habrá descensos, y que en el 2025 la B** estará conformada por 12 equipos, puesto que de la Segunda Categoría son dos los que ascenderán.
 
-* [Verónica Abad suma dos denuncias por violencia política de género](https://www.elcomercio.com/actualidad/politica/veronica-abad-nueva-denuncia-reemplazar-daniel-noboa.html "Verónica Abad suma dos denuncias por violencia política de género")
-* [Jueza se pronunció sobre acción de protección de Verónica Abad contra el Ministerio del Trabajo](https://www.elcomercio.com/actualidad/politica/jueza-accion-proteccion-veronica-abad-ministerio-trabajo.html "Jueza se pronunció sobre acción de protección de Verónica Abad contra el Ministerio del Trabajo")
+Los cambios en esta categoría se están planteando para el 2026, con cuatro descensos y dos ascensos de la Segunda Categoría, con lo que se completarán los 10 clubes para el 2027.
 
-TCE se pronunció sobre una denunca contra Verónica Abad
--------------------------------------------------------
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/descensos_2-1024x683.jpg)
 
-Guarderas acusó a la Vicepresidenta de una **grave infracción electoral** y el TCE emitió su dictamen hoy.
+Foto: API.
 
-Esto, en la época que Verónica Abad fue candidata a la **Alcaldía de Cuenca**, en 2023.
-
-El organismo electoral basó su dictamen en el artículo 278, numeral 7 del **Código de la Democracia**.
-
-Según esta ley, constituye falta grave “realizar actos de **campaña anticipada** o precampaña electoral”.
-
-El Código de la Democracia sanciona este tipo de faltas con multa de **20 salarios básicos** unificados, destitución del cargo y hasta el retiro de sus derechos políticos.
-
-El TCE determinó que Verónica Abad sí cometió esta **infracción electoral** por actos de **precampaña** o campaña anticipada.
-
-La infracción se produjo a través de las **redes sociales** de la ahora Vicepresidenta de la República.
-
-La sanción del TCE a Verónica Abad
-----------------------------------
-
-Bajo el principio de **proporcionalidad**, el TCE señaló que se ha demostrado que Abad incurrió en dicha infracción.
-
-“No obstante, si bien su conducta es **reprochable**, no se evidenció que haya ocasionado una afectación significativa o irreparable al proceso electoral, en todas sus dimensiones”, señaló el organismo.
-
-Por esta razón, el TCE consideró que la imposición de una **multa significativa** a Abad era suficiente “para disuadir a la denunciada y a otros actores políticos de incurrir en conductas similares en el futuro”.
-
-La Vicepresidenta deberá pagar la multa en un plazo de **30 días**, a través de un depósito en la cuenta de Infracciones Ley de Elecciones, de BanEcuador.
-
-La multa impuesta por el TCE equivalente a los **8 500 dólares**.
-
-Mujer dio a luz en un bus con ayuda de un agente de tránsito, en Machala
-========================================================================
-
-La mujer entró en labores de parto mientras se movilizaba en un bus; los pasajeros, el chofer y un agente la ayudaron, pero la emergencia se complicó.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Momento en el que la mujer era trasladada hacia el Hospital Teófilo Dávila](https://www.elcomercio.com/wp-content/uploads/2024/11/mujer-bus-machala-dio-luz.jpg)
-
-Una **mujer de 21 años** dio a luz mientras se movilizaba en un bus de transporte público en **Machala**, provincia de El Oro.
-
-### Más noticias
-
-* [En el feriado de noviembre se registraron más de 47 000 emergencias](https://www.elcomercio.com/actualidad/ecuador/feriado-de-noviembre-se-registraron-mas-de-47-000-emergencias.html "En el feriado de noviembre se registraron más de 47 000 emergencias")
-* [Siniestro de tránsito en Quito deja dos personas fallecidas este 4 de noviembre](https://www.elcomercio.com/actualidad/quito/siniestro-de-transito-en-quito-deja-dos-personas-fallecidas-este-4-de-noviembre.html "Siniestro de tránsito en Quito deja dos personas fallecidas este 4 de noviembre")
-* [10 fallecidos en siniestro de tránsito en Morona Santiago](https://www.elcomercio.com/actualidad/seguridad/fallecidos-siniestro-transito-morona-santiago.html "10 fallecidos en siniestro de tránsito en Morona Santiago")
-
-La joven se encontraba en la unidad cuando entró en **labores de parto**, el lunes 4 de noviembre de 2024
-
-Ante la emergencia, el resto de **pasajeros** y el conductor trataron de ayudarla, mientras se alertaba a los servicios médicos para que envíen una **ambulancia** al lugar.
-
-Sin embargo, la situación se complicó por los **cortes de luz** que se registraban en el sector. Testigos del hecho explicaron que no podían contactarse con el **ECU 911** porque la señal de las antenas repetidoras no funcionaba en ese momento.
-
-Luego de unos minutos, finalmente los **paramédicos** recibieron el reporte de la **emergencia**.
-
-Agente de tránsito colaboró en las labores de parto
----------------------------------------------------
-
-Un **agente de tránsito** que tenía conocimientos en **primeros auxilios** se subió al bus de transporte y socorrió a la mujer para que dé a luz.
-
-La **Empresa de Movilidad Machala EP** detalló que la paciente y el recién nacido fueron trasladados hacia el **Hospital General Teófilo Dávila** para recibir atención especializada.
-
-### Recién nacido falleció
-
-Lamentablemente, se conoció luego de unas horas que el **pequeño no sobrevivió**.
-
-El estado de salud de la madre es **estable**[.](https://www.movilidadmachala.gob.ec/web/ "https://www.movilidadmachala.gob.ec/web/")
-
-Dos fallecidos y 18 heridos en Machala
---------------------------------------
-
-Además de esta emergencia, la Empresa de Movilidad registró otras **dos personas fallecidas** y 18 heridos en alertas por **siniestros de tránsito** en Machala, entre el 30 de octubre al 4 de noviembre.
-
-Según detalló la entidad, en total se contabilizaron **28 siniestros** y **14 vehículos retenidos**, en estos seis días.
-
-> [#MovilidadEnNúmeros](https://twitter.com/hashtag/MovilidadEnN%C3%BAmeros?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Registro de los operativos dese el 30 de octubre al 04 de noviembre de 2024.[#TrabajandoPorTuSeguridadVial](https://twitter.com/hashtag/TrabajandoPorTuSeguridadVial?src=hash&ref_src=twsrc%5Etfw)[#LaGranCiudad](https://twitter.com/hashtag/LaGranCiudad?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Elr1dm4467](https://t.co/Elr1dm4467)
-> 
-> — Movilidad Machala EP (@MovMachEp) [November 5, 2024](https://twitter.com/MovMachEp/status/1853883581619175497?ref_src=twsrc%5Etfw)
-
-El Nacional persiste en malestares por falta de pagos
-=====================================================
-
-El Nacional se mantiene en una crisis ecónomica e institucional y las manifestaciones internas por aquel presente retornaron.
------------------------------------------------------------------------------------------------------------------------------
-
-![Jugador de El Nacional se lamenta en un partido de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-05T210211.024.jpg)
-
-En el ocaso de la temporada, las molestias y el malestar continúan en El Nacional debido a la falta de pagos en la plantilla. **Anthony Bedoya**, defensa del equipo criollo, se expresó por medio de sus redes sociales y mostró su incomodidad.
-
-Por medio de dos historias en instagram, el **futbolista** se expresó con relación a la situación y a uno de los acuerdos previos entre la escuadra y la dirigencia. Asimismo, este se refirió a las exigencias y a promesas incumplidas.
-
-### Más noticias:
-
-* [Tres figuras de El Nacional en Copa Ecuador](https://www.elcomercio.com/deportes/figuras-nacional-copa-ecuador-final.html "Tres figuras de El Nacional en Copa Ecuador")
-* [Gabriel Cortez fue ‘borrado’ de BSC y ahora es figura en El Nacional](https://www.elcomercio.com/deportes/futbol/gabriel-cortez-el-nacional-barcelona.html "Gabriel Cortez fue ‘borrado’ de BSC y ahora es figura en El Nacional")
-* [El Nacional celebra y Marcelo Zuleta es ovacionado en Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-celebracion-zuleta-copa-ecuador.html "El Nacional celebra y Marcelo Zuleta es ovacionado en Copa Ecuador")
-
-“**Ya estamos cansados de tantas mentiras, de promesas que nunca se cumplen. Nunca hacen un esfuerzo por nosotros los jugadores, pero sí que nosotros lo hagamos por ustedes**“, escribió. En una nueva historia, este agregó “**Menos mal la taquilla de la copa era 100% jugadores, pero pasó lo de siempre**“.
-
-El segundo pronunciamiento de Bedoya estuvo referido a lo pactado entre la directiva del club y los futbolistas antes del partido. Tras una reunión, las dos partes acordaron que lo recaudado en la semifinal de vuelta de Copa Ecuador ante **Mushuc Runa** sería destinado a cubrir parte de los sueldos.
-
-Desde la dirigencia del club se confirmó a EL COMERCIO que se mantienen los trabajos por igualar los pagos. A su vez, se expuso que durante este 5 de octubre de 2024 se pagó la mitad de un sueldo y se cancelaron 70 mil dólares requeridos por la **Federación Ecuatoriana de Fútbol** (FEF).
-
-Fuentes cercanas a la plantilla señalaron que la deuda bordea los **cuatro meses de pagos**. Además, se señaló a este medio que con el acuerdo de la taquilla se esperaba que se cubra, al menos, un mes.
-
-Días convulsos en El Nacional
------------------------------
-
-Antes de obtener su clasificación hacia la final de la **Copa Ecuador**, El Nacional vivió tensos momentos. Previo al partido y los acuerdos en los cuales fue comprometida la taquilla, estos tuvieron dos intervenciones previas.
-
-Antes de chocar ante **Mushuc Runa** en el certamen copero, los criollos jugaron con Orense por la Liga Pro e intervinieron antes y después del partido. Antes del compromiso, estos paralizaron sus entrenamientos e hicieron pública la deuda que se mantiene con ellos[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
-
-Una vez que se produjo el choque ante los orenses, estos volvieron a tomar la palabra. En la rueda de prensa pospartido, la escuadra pidió la intervención de las Fuerzas Armadas, ente vinculado al club, y señaló que no había tenido contacto con el presidente **Marco Pazos.**
-
-Los puros criollos hacen frente con fútbol
-------------------------------------------
-
-A pesar de la crisis institucional, **El Nacional** ha conseguido mantener un nivel futbolístico aceptable y en la Copa Ecuador buscará su primer título en 18 años. A su vez, al clasificar a la final de tal torneo, el equipo aseguró su presencia en la Copa Libertadores 2025.
-
-Dentro de la **Liga Pro**, el elenco se encuentra en la décima posición de la segunda etapa. En la tabla acumulada ocupa el sexto puesto.
-
-No te pierdas San Viernes
--------------------------
-
-Ben Affleck elogió a Jennifer Lopez en pleno divorcio
-=====================================================
-
-En medio de su divorcio, el actor habló de su expareja. ¿Qué dijo?
-------------------------------------------------------------------
-
-![Ben Affleck junto a Jennifer Lopez durante un evento de noviembre de 2023. Foto: Facebook de JLo](https://www.elcomercio.com/wp-content/uploads/2024/11/JLO-El-Comercio-2.jpg)
-
-La **separación entre Ben Affleck y Jennifer Lopez** ha sido un tema candente en el mundo del entretenimiento desde que la pareja anunció su **divorcio** tras dos años de matrimonio.
-
-Aunque ambos se encuentran inmersos en este proceso, Affleck habló de su ex.
-
-### Más noticias
-
-* **[Preguntan a Jennifer Lopez por P. Diddy y su reacción inquieta a los fans](https://www.elcomercio.com/afull/jennifer-lopez-pdiddy.html "https://www.elcomercio.com/afull/jennifer-lopez-pdiddy.html")**
-* **[Chris Martin, líder de Coldplay, sufre caída en pleno concierto en Melbourne, Australia](https://www.elcomercio.com/tendencias/chris-martin-lider-de-coldplay-sufre-caida-en-pleno-concierto-en-melbourne-australia.html "https://www.elcomercio.com/tendencias/chris-martin-lider-de-coldplay-sufre-caida-en-pleno-concierto-en-melbourne-australia.html")**
-
-En una reciente **entrevista con Entertainment Tonight** para hablar de la película ‘**[Small Things Like These](https://www.youtube.com/watch?v=Nqwn5Y_Y4xs "https://www.youtube.com/watch?v=Nqwn5Y_Y4xs")**‘ , dice la revista HOLA!, el actor y director se refirió a López.
-
-¿Qué dijo Affleck de Jennifer Lopez?
-------------------------------------
-
-“Jennifer es espectacular”, afirmó Affleck refiriéndose a la actuación de la diva en la película ‘[Unstoppable](https://www.youtube.com/watch?v=3PHdfxiN6DA "https://www.youtube.com/watch?v=3PHdfxiN6DA")‘. Se ve que, a pesar de su ruptura, el respeto y la admiración mutua persisten.
-
-En ‘Unstoppable’, López interpreta a Judy, la madre del **luchador Anthony Robles**, un atleta que superó grandes obstáculos para convertirse en campeón.
-
-Este proyecto cinematográfico tiene un significado especial para ambos, ya que marca su primera colaboración profesional tras muchos años.
-
-Durante la promoción, Affleck destacó el talento de todos los involucrados en la película y enfatizó la importancia de las conexiones emocionales en la narración de historias.
-
-“Creemos en el poder de la narración cuando las personas están profundamente conectadas emocionalmente con la historia”, agregó el actor.
-
-Fuera de esa declaración, Affleck no se ha referido a ningún aspecto de su relación con JLo, a diferencia de ella, que sí lo ha hecho.
-
-Affleck acepta que Jennifer Lopez se sincere sobre su relación
---------------------------------------------------------------
-
-Jennifer López ha compartido su tristeza y soledad desde que comenzaron los trámites de divorcio, admitiendo sentirse “sola, extraña y triste”.
-
-Según fuentes cercanas, el actor está de acuerdo con que Lopez es capaz de su ruptura, aunque preferiría mantener algunos aspectos de su relación en privado.
-
-Ella
-
-Bolton, el exasesor de Trump que quiere su derrota en Estados Unidos
-====================================================================
-
-El exasesor de Donald Trump, John Bolton, es ahora uno de sus más enconados rivales. No valora su capacidad para ocupar la Casa Blanca.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![John Bolton fue asesor de Seguridad Nacional de Donald Trump. Ahora es su rival.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-19.jpg)
-
-**John Bolton** fue el asesor de **Seguridad Nacional** de **Estados Unidos** durante el gobierno de **Donald Trump** entre 2018 y 2019. Es uno de los **republicanos** de la línea dura, sobre todo en las relaciones internacionales. Sin embargo, cree que el regreso de Trump a la **Casa Blanca** sería uno de los mayores errores y de los mayores males para el país, según dijo a la cadena **Sky News.**
-
-### Más noticias
-
-* [¿Por qué Georgia acapara la atención en las elecciones de Estados Unidos?](https://www.elcomercio.com/actualidad/mundo/georgia-acapara-atencion-elecciones-estados-unidos.html "¿Por qué Georgia acapara la atención en las elecciones de Estados Unidos?")
-* [Estados Unidos votará por más de 140 iniciativas en las urnas el 5 de noviembre](https://www.elcomercio.com/actualidad/mundo/aborto-cannabis-inmigracion-medidas-votara-estados-unidos-5-noviembre.html "Estados Unidos votará por más de 140 iniciativas en las urnas el 5 de noviembre")
-* [¿A qué hora se conocerán los resultados de las elecciones de Estados Unidos?](https://www.elcomercio.com/actualidad/mundo/hora-conoceran-resultados-elecciones-estados-unidos.html "¿A qué hora se conocerán los resultados de las elecciones de Estados Unidos?")
-
-Bolton está en contra de Trump
+¿Cómo será la Serie B en 2025?
 ------------------------------
 
-En este extraño sistema electoral, **Bolton** votó este 5 de noviembre del 2024 por **Mike Pence**, quien fue el **vicepresidente** de Trump. Según dijo, optó por él porque fue el único que mantuvo la institucionalidad en el asalto al **Capitolio** por parte de las huestes de Trump el **6 de enero del 2020**. Ese día, el Congreso, cuando el Congreso estaba por proclamar como **presidente electo** a **Joe Biden.**
+La **Liga Pro Serie B** está planificada para que se juegue con 12 equipos en el 2025. Así consta en el Reglamento de Competiciones que se aprobó el 2 de febrero de 2024.
 
-Para Bolton, Trump es un **peligro para la seguridad nacional.** Es, dijo, un tema que no entiende sino en términos personales. Recordó el encuentro de alto nivel entre el exmandatario estadounidense y su equipo de trabajo, con la entonces primera ministra británica, **Theresa May**, y su gabinete. Allí, Trump había comentado sobre su visita a **China**: “dijeron que a ningún otro presidente rindieron honores como a mí”.
+Desde la temporada 2025 **intervendrán 12 equipos en la Serie B** con los ocho que no lograron el ascenso a la A, los dos descendidos de la Serie A y los dos ascendidos desde la Segunda Categoría.
 
-Lo que dijo Trump a May es el resumen de la **política internacional** para Trump: todo lo piensa en términos personales. **“No es un presidente que puede hacer filosofía y tampoco puede hacer política \[…\] Todo gira alrededor de él”.** Y si algo de política internacional tiene es en el sentido del comercio, “en centavos y dólares”. Por eso cree que China, por ejemplo, lo llamará y lo lisonjeará si resulta ganador.
+Lo 12 equipos competirán en una primera fase de todos contra todos en partidos de ida y vuelta para completar 22 fechas y 132 partidos.
 
-Bolton sabe de golpes de Estado
--------------------------------
+Luego se dividirá en dos hexagonales: **uno de ascenso (seis primeros)** y otro de descenso (seis últimos).
 
-Cuando la turba pro Trump se tomó el **Capitolio** para impedir que el Congreso proclamara al demócrata Joe Biden como presidente electo, se consideró como el intento de un **golpe de Estado.** Por primera vez, un candidato cuestionaba la legitimidad y legalidad de las elecciones.
+En ambos hexagonales se **jugarán partidos de ida y vuelta en 10 fechas** y se completarán 30 partidos.
 
-Trump veía desde una carpa en los exteriores de la **Casa Blanca** las acciones y cómo la vida de su vicepresidente, Mike Pence, corría peligro. Había música y sonaba la canción “**Gloria**“. Y aunque **John Bolton** votara por Pence por su posición en ese día, había reconocido anteriormente que Trump no tenía la capacidad para dar un golpe de Estado[.](https://es.wikipedia.org/wiki/Casa_Blanca "https://es.wikipedia.org/wiki/Casa_Blanca")
+Dos ascenderán a las **Serie A 2026 como campeón y vicecampeón,** y dos con menor puntaje perderán la categoría y descenderán a la Segunda División.
 
-“Como alguien que ha ayudado a planear golpes de Estado, no aquí, pero usted sabe, (en) otros lugares, se necesita mucho trabajo. Y eso no es lo que él hizo”, dijo Bolton a la cadena CNN el 12 de julio del 2022.
+Se mantiene la regla que los clubes considerados filiales, conforme a la reglamentación de aplicación de la Liga Pro, **[no podrán ascender](https://ligapro.ec/wp-content/plugins/pdf-poster/pdfjs-new/web/viewer.html?file=https://ligapro.ec/wp-content/uploads/2024/07/Reglamento-Competiciones-ed.-2024.1.pdf&nobaki=false&z=auto&stdono=vera&onlypdf=&raw=&fullscreen=1&sidebarOpen=false&side=false&open=false&hrscroll=)**.
 
-Un hombre sin atributos
------------------------
+San viernes
+-----------
 
-Bolton es una paradoja. Es un conservador entre conservadores. Siente una decepción entre los republicanos por seguir a Trump sin ningún tipo de cuestionamiento.
+Canadá se preparara para posibles conflictos comerciales durante la presidencia de Trump
+========================================================================================
 
-No es posible cuestionarlo. De hecho, Trump le pidió la renuncia el 10 de septiembre del 2019 por estar en desacuerdo con él. Entonces, cuando le preguntaron por qué, sabiendo cómo era, decidió ser su tercer asesor de Seguridad Nacional, dijo: “porque pensé que iba a sentir la fuerza” de la dignidad presidencial y que la institucionalidad lo disciplinaría. Pero fue todo lo contrario. Por eso, no vota por su ex jefe.
+Justin Trudeau recordó que "Canadá y Estados Unidos tienen la asociación más exitosa del mundo".
+------------------------------------------------------------------------------------------------
 
-¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?
-=======================================================================
+![Fotografía de archivo del primer ministro canadiense, Justin Trudeau.](https://www.elcomercio.com/wp-content/uploads/2024/11/justin-canada-efe.jpg)
 
-Óscar Zambrano fue suspendido por una caso de dopaje y no podrá retornar a las convocatorias de la Selección de Ecuador.
-------------------------------------------------------------------------------------------------------------------------
-
-![Óscar Zambrano durante un partido con la Selección de Ecuador durante su etapa juvenil.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-05T191913.322.jpg)
-
-La **Selección de Ecuador** está próxima a disputar las eliminatorias sudamericanas y sufrió una nueva baja a puertas de anunciar su convocatoria. A nueve días del siguiente cotejo de la Tri, el volante Óscar Zambrano sufrió una suspensión por dopaje y no podrá ser llamado.
-
-La mañana del martes 5 de noviembre del 2024, **Liga de Quito y Hull City** anunciaron que la Conmebol había tomado una decisión con respecto a **Zambrano**. La entidad ecuatoriana, dueña de sus derechos económicos, y la británica, donde se encuentra a préstamo, emitieron comunicados en los que anunciaban la sanción del jugador.
-
-### Más noticias:
-
-* [Óscar Zambrano sufre suspensión y a](https://www.elcomercio.com/deportes/oscar-zambrano-hull-city-derrota-doping.html "Óscar Zambrano sufre suspensión y su equipo es afectado")[fecta a su equipo](https://www.elcomercio.com/deportes/oscar-zambrano-hull-city-derrota-doping.html "https://www.elcomercio.com/deportes/oscar-zambrano-hull-city-derrota-doping.html")
-* [Óscar Zambrano suspendido por ‘infringir normas antidopaje’](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-suspendido-conmebol-antidopaje.html "Óscar Zambrano suspendido por ‘infringir normas antidopaje’")
-* [Óscar Zambrano, emocionado por volver a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-emocionado-por-volver-a-la-seleccion-de-ecuador.html "Óscar Zambrano, emocionado por volver a la Selección de Ecuador")
-
-Tanto los albos como los ‘tigers’ especificaron que la Confederación resolvió que el jugador infringió los artículos 6 y 7 de su reglamento antidopaje. En el caso de los albos, estos manifestaron que su apoyo al futbolista y señalaron que apelarán la decisión ante el **Tribunal de Arbitraje Deportivo (TAS)**.
-
-La decisión de la Conmebol llevó a que el jugador ecuatoriano quede fuera de la convocatoria del Hull City ante el **Oxford United**, pues aquel partido se disputaba en el mismo día de su sanción. A su vez, su inhabilitación aplicará para también para duelos con otros clubes y la selección.
-
-Óscar Zambrano en la Selección de Ecuador
------------------------------------------
-
-**Óscar Zambrano** aún no ha debutado en la **Selección de Ecuador**, sin embargo, ha sido llamado en reiteradas ocasiones. El jugador ha formado parte del grupo tanto con entrenadores como Félix Sánchez Bas como con el actual Sebastián Beccacece.
-
-Su primer llamado fue con **Sánchez Bas** para la primera doble fecha de eliminatorias al Mundial 2026 y el regreso se dio con Beccacece para la décima y undécima jornada. En todos los compromisos, **Zambrano** no pasó de entrenar con el grupo y se ubicó en el banco de suplentes[.](https://en.wikipedia.org/wiki/%C3%93scar_Zambrano "https://en.wikipedia.org/wiki/%C3%93scar_Zambrano")
-
-Antes de llegar a la máxima categoría de la Tri, este estuvo presente en categorías juveniles, donde se destacó. Con la escuadra sub-20 estuvo en el **Sudamericano** de la categoría y obtuvo la clasificación hacia el **Mundial** de esta.
-
-¿Cuándo juega la Selección de Ecuador?
---------------------------------------
-
-La **Selección de Ecuador** tendrá su siguiente partido durante el jueves 14 de noviembre del 2024 ante **Bolivia**. Para tal cotejo, la Tri cambió su sede y no jugará en el Estadio Rodrigo Paz Delgado de Quito, sino en el Monumental de Guayaquil.
-
-El siguiente choque del conjunto tricolor serán ante **Colombia**. Para ello, la escuadra deberá trasladarse a Barranquilla y disputará su cotejo el martes 19 de noviembre del 2024.
-
-Fiscalía se pronunció sobre paradero del celular de Fernando Villavicencio
-==========================================================================
-
-La Fiscalía se refirió a un video que asegura que el celular de Fernando Villavicencio está en posesión de desconocidos.
-------------------------------------------------------------------------------------------------------------------------
-
-![Fernando Villavicencio fue asesinado en agosto de 2023, en los exteriores de un colegio de Quito](https://www.elcomercio.com/wp-content/uploads/2024/11/efe-fernando-villavicencio-celular.jpg)
-
-La **Fiscalía General del Estado** (FGE) se pronunció tras la difusión de un **video** en el que se afirmaba que el **celular** del excandidato presidencial **Fernando Villavicencio** se encontraba en manos de desconocidos.
+[Canadá](https://www.elcomercio.com/actualidad/mundo/canada-advierte-diplomaticos-indios-estan-bajo-aviso-expulsar-embajador.html "https://www.elcomercio.com/actualidad/mundo/canada-advierte-diplomaticos-indios-estan-bajo-aviso-expulsar-embajador.html") empezó este miércoles, 6 de noviembre de 2024, a prepararse para 4 años de presidencia de Donald Trump con la atención puesta en las **relaciones económicas** entre los dos países, los dos mayores socios del mundo, ante el **temor que el presidente electo republicano desencadene** un conflicto comercial.
 
 ### Más noticias
 
-* [Policía libera a mujer víctima de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/policia-libera-mujer-victima-secuestro-guayas.html "Policía libera a mujer víctima de secuestro en Guayas")
-* [Vehículo de sacerdote asesinado fue encontrado en la vía a Lloa, en Quito](https://www.elcomercio.com/actualidad/seguridad/vehiculo-sacerdote-asesinado-encontrado-via-lloa-quito.html "Vehículo de sacerdote asesinado fue encontrado en la vía a Lloa, en Quito")
-* [Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta](https://www.elcomercio.com/actualidad/politica/comision-reforma-bases-militares-extranjeras-tiene-presidenta.html "Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta")
+* [Organizaciones sociales cuestionan confidencialidad del TLC entre Ecuador y Canadá](https://www.elcomercio.com/actualidad/negocios/organizaciones-sociales-cuestionan-confidencialidad-el-tlc-entre-ecuador-y-canada.html "Organizaciones sociales cuestionan confidencialidad del TLC entre Ecuador y Canadá")
+* [Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump")
+* [¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?](https://www.elcomercio.com/actualidad/negocios/la-eleccion-de-donald-trump-influira-en-el-comercio-entre-ecuador-y-ee-uu.html "¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?")
 
-El material audiovisual **anónimo** fue difundido en redes sociales este martes 5 de noviembre de 2024. En el video se menciona que supuestamente el **dispositivo móvil** estaba bajo el poder de un grupo de personas, las cuales “darían a conocer la información privada” en las próximas horas.
+La **Cámara de Comercio de Canadá** advirtió en un comunicado que Canadá debe “resistir” la **imposición de aranceles y barreras comerciales** “que sólo aumentarán los precios y dañarán a los consumidores de ambos países”.
 
-Ante ello, la Fiscalía emitió un **comunicado** desmintiendo este señalamiento. La entidad aseguró que el teléfono celular se encuentra en **cadena de custodia** de la Oficina Federal de Investigación (**FBI**, por sus siglas en inglés)
+“Con tanto en juego, esperamos que el **Gobierno canadiense** despliegue todos sus recursos para fortalecer esta **relación esencial en los críticos meses** y semanas que quedan por delante”, añadió la organización empresarial.
 
-La Fiscalía indicó que el dispositivo se encuentra protegido en **Estados Unidos**[.](https://www.fiscalia.gob.ec/ "https://www.fiscalia.gob.ec/")
+En 2023, el **comercio entre Canadá y EE.UU.** alcanzó los 1,3 billones de dólares canadienses (casi 1 billón de dólares estadounidenses), lo que supone un **comercio bilateral diario** por valor de 3.500 millones de dólares canadienses entre bienes y servicios.
 
-“Ese celular no fue periciado por esta institución, sino por el mismo FBI, entidad que entregó en diciembre de 2023 a la Fiscalía una **copia de su contenido**“, detalló la FGE.
+Trump impondrá aranceles
+------------------------
 
-La entidad enfatizó que “la información que circula es **falsa**” y que “no podría estar en posesión de quienes intentan generar **confusión** a puertas de una campaña electoral”. El comunicado oficial finaliza con un llamado a la opinión pública “a no utilizar a la institución con **intenciones electorales**“.
+Pero las amenazas de Trump durante la campaña electoral de que impondrá unos aranceles del 10 % a todos las importaciones estadounidenses, incluidas las procedentes de Canadá, han provocado la alarma en el país.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/image-4-1024x823.png)
+Un informe de la **Cámara de Comercio** dado a conocer en octubre indicó que esas tarifas podrían encoger la economía canadiense ya que el 77 % de todas las exportaciones canadienses tienen como destino Estados Unidos.
 
-Asesinato de Fernando Villavicencio
------------------------------------
+A primeras horas de la mañana, el **primer ministro canadiense, Justin Trudeau,** felicitó a Trump por su victoria en las elecciones del martes frente a la vicepresidenta, Kamala Harris, y recordó que “Canadá y Estados Unidos tienen la **asociación más exitosa del mundo**“.
 
-Un grupo de armados asesinó a **Fernando Villavicencio** el 9 de agosto de 2023, mientras era candidato presidencial de Ecuador.
+Trudeau también señaló que durante el primer mandato de Trump (2017-2021) su Gobierno renegoció “con éxito” el **tratado comercial entre EE.UU., México y Canadá,** (T-MEC) “que creó miles de empleos con buenos salarios y produjo inversiones y oportunidades” en los tres países.
 
-Villavicencio salía de un **mitin político**, en un colegio del norte de Quito, cuando ocurrió el ataque. A pesar de los esfuerzos médicos, **falleció en el lugar**.
+Precisamente la Cámara de Comercio de Canadá indicó que en 2026 está prevista la revisión del T-MEC gracias a una cláusula que introdujo EE.UU. durante la renegociación entre 2017 y 2018, y urgió al Gobierno de Trudeau a “colaborar de forma efectiva con la Administración de Trump para preservar y fortalecer” las relaciones comerciales.
 
-Villavicencio había recibido amenazas previas debido a su **postura anticorrupción** y sus denuncias contra el crimen organizado. Su asesinato ocurrió en un contexto de **creciente violencia política en Ecuador**.
+Por su parte, el Ejecutivo canadiense emitió mensajes de que estaba preparándose para cuatro años más de Trump, algo que Trudeau calificó hace meses como “un paso atrás”.
 
-Cinco sentenciados tras el crimen
+Trudeau, que no mantuvo las **mejores relaciones con Trump** durante su primer mandato, revivió en enero de este año el llamado ‘Team Canada’, una estrategia puesta en marcha a finales del siglo XX por anteriores gobiernos canadienses para promover y defender los intereses de Canadá en Estados Unidos.
+
+La iniciativa está dirigida por los ministros de Industria, François Philippe-Champagne, y Comercio Internacional, Mary Ng, y se ha centrado en intensificar las relaciones con gobernadores y otros políticos estadounidenses.
+
+Trudeau está interesado en trabajar con Trump
+---------------------------------------------
+
+En su mensaje de felicitación a Trump, **Trudeau añadió que está interesado en trabajar con él** y su administración, “incluidos temas como el comercio, las inversiones y la paz y seguridad continentales”.
+
+Ahora, el mundo político canadiense está pendiente de ver cómo Trump reacciona.
+
+Encuestas nunca pudieron resolver el empate técnico entre Trump y Harris
+========================================================================
+
+El empate técnico entre Donald Trump y Kamala Harris recién se pudo resolver con las elecciones del 5 de noviembre.
+-------------------------------------------------------------------------------------------------------------------
+
+![Partidarios de Donald Trump celebran su victoria en la madrugada del miércoles 6 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-21.jpg)
+
+Las **encuestas electorales** hicieron que la carrera hacia la **Casa Blanca** fuera como una final de infarto. Daban un empate técnico entre la vicepresidenta demócrata, **Kamala Harris**, y el expresidente republicano, **Donald Trump**. Finalmente, ayer, 5 de noviembre del 2024, el universo del **electorado** prefirió al **magnate millonario**.
+
+### Más noticias
+
+* [Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-elecciones-estados-unidos.html "Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos")
+* [Retos del nuevo gobierno de Estados Unidos en su política internacional](https://www.elcomercio.com/actualidad/mundo/retos-nuevo-gobierno-estados-unidos-politica-internacional.html "Retos del nuevo gobierno de Estados Unidos en su política internacional")
+* [Estados Unidos votará por más de 140 iniciativas en las urnas el 5 de noviembre](https://www.elcomercio.com/actualidad/mundo/aborto-cannabis-inmigracion-medidas-votara-estados-unidos-5-noviembre.html "Estados Unidos votará por más de 140 iniciativas en las urnas el 5 de noviembre")
+
+Las encuestas Trump-Biden eran otra cosa
+----------------------------------------
+
+El 2 de agosto del 2024, el **Partido Demócrata** oficializó a Kamala Harris como candidata a la **Presidencia**. Hubo que esperar que **Joe Biden** dejara de lado su obstinación de buscar la reelección. La presión de varios demócratas y, sobre todo, del expresidente **Barack Obama**, logró que desistiera. De lo contrario, la derrota hubiera sido inminente y, quizá, aún más dura.
+
+En las encuestas del **15 de abril del 2024**, por ejemplo, en **Real Clear Politics**, había una ventaja de 2,9 puntos a Trump sobre Biden. Pero con Harris en la boleta electoral, el panorama cambió, incluso radicalmente.
+
+De la victoria de Harris, al empate y su derrota real
+-----------------------------------------------------
+
+En agosto del 2024, **Harris** tenía el **48,5%** de la intención del voto, frente al **46,8% de Trump**. En septiembre, la diferencia fue aún mayor: Harris se aproximaba al **50%**, mientras el republicano fluctuaba entre el **46 y el 47%.**
+
+Harris sufrió una estrepitosa caída en octubre, mientras Trump crecía. Según la encuesta de **RealClear Polling**, el 3 de noviembre, dos días antes de la elección, Harris tenía 48,5%; Trump, 48,4%[.](https://en.wikipedia.org/wiki/RealClearPolitics "https://en.wikipedia.org/wiki/RealClearPolitics")
+
+En esa décima se resolvía todo el proceso electoral. Las encuestas a boca de urna dieron la victoria a Trump, tal como sucedió en el conteo real.
+
+[![Infografía: Trump y Harris: carrera presidencial ajustada | Statista](https://cdn.statcdn.com/Infographic/images/normal/33392.jpeg)](https://es.statista.com/grafico/33392/encuestados-que-quieren-votar-a-kamala-harris-o-a-donald-trump-en-las-elecciones-presidenciales-estadounidenses/ "Infografía: Trump y Harris: carrera presidencial ajustada | Statista") Más infografías en [Statista](https://es.statista.com/grafico-del-dia/)
+
+¿Alex Arce abandonará Liga de Quito al final de temporada?
+==========================================================
+
+Sin duda alguna, la mejor contratación del fútbol ecuatoriano ha sido la de Alex Arce para Liga de Quito.
+---------------------------------------------------------------------------------------------------------
+
+![Alex Arce es el goleador de Liga de Quito en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-86.jpg)
+
+Desde su llegada, **Alex Arce** ha demostrado ser una inversión valiosa para **Liga de Quito**. El delantero paraguayo llegó con la presión de mantener su estatus de goleador en la Serie B de Argentina y respondió con creces: goles y rendimiento inmediato.
+
+Arce no necesitó tiempo de adaptación, debutando con un gol en la **Recopa Sudamericana**. Desde entonces, ha trasladado su poderío ofensivo al campeonato ecuatoriano, donde lidera la tabla de goleadores y es pieza clave en el objetivo de Liga de Quito de lograr el bicampeonato en la Liga Pro.
+
+### Más noticias:
+
+* [Liga de Quito en riesgo por deuda a un exjugador](https://www.elcomercio.com/deportes/futbol/liga-de-quito-en-riesgo-por-deuda-a-un-exjugador.html "Liga de Quito en riesgo por deuda a un exjugador")
+* [¿Cuándo juegan Liga de Quito e Independiente del Valle?](https://www.elcomercio.com/deportes/cuando-juegan-liga-de-quito-independiente-del-valle.html "¿Cuándo juegan Liga de Quito e Independiente del Valle?")
+* [Liga de Quito venció a Emelec y presiona en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vencio-a-emelec-y-presiona-en-la-liga-pro.html "Liga de Quito venció a Emelec y presiona en la Liga Pro")
+
+Gracias a su talento, goles y gran campaña, **Arce se ha convertido en objetivo de importantes clubes** de Sudamérica. Aunque hubo acercamientos a mediados de año, su futuro sigue siendo incierto.
+
+¿Alex Arce continuará en Liga de Quito?
+---------------------------------------
+
+A mediados de año, **Corinthians** de Brasil presentó una oferta interesante por Alex Arce; sin embargo, la propuesta no avanzó, ya que para **Liga de Quito** es un jugador inamovible debido a su importancia y relevancia dentro del equipo.
+
+En una entrevista con Área Deportiva, Miguel Gareppe, representante de Arce, mencionó que el paraguayo tiene contrato con la ‘U’ hasta finales de 2026, siendo esta la única certeza en este momento.
+
+Sobre su futuro en el ‘Rey de Copas’, Gareppe adelantó que **evaluarán las opciones al finalizar la temporada**.
+
+> “Una vez finalice el campeonato, evaluaremos las propuestas, números y proyectos. **Decidiremos lo mejor para el futbolista. No podemos sacarlo de donde está tranquilo**“, afirmó.
+
+El representante también destacó que actualmente **Alex Arce está concentrado en Liga de Quito** y en lograr los objetivos de la temporada.
+
+> “Él está enfocado en el campeonato; **Alex está comprometido en ayudar a Liga**“, agregó.
+
+Los números de Arce en Liga de Quito
+------------------------------------
+
+**Alex Arce** está teniendo su mejor campaña goleadora. Durante el 2024, el paraguayo ha marcado 27 goles con la camiseta de Liga de Quito.
+
+En la **Liga Pro suma 20 goles** y dos asistencias, siendo el máximo goleador del campeonato ecuatoriano.
+
+En otras competencias, como la Copa Ecuador, anotó un gol en tres partidos; mientras que en competiciones internacionales, entre Copa Sudamericana, **Copa Libertadores** y Recopa, ha registrado seis goles en 12 partidos.
+
+Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump
+=======================================================================
+
+De acuerdo con Sheinbaum México mantendrá un diálogo de alto nivel con Estados Unidos y establecerá diálogo con el candidato electo.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![La presidenta de México Claudia Sheinbaum, habló durante una rueda de prensa en Palacio Nacional de la Ciudad de México (México).](https://www.elcomercio.com/wp-content/uploads/2024/11/claudia-shienbaum-6-noviembre.jpg)
+
+La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html"), reafirmó este miércoles, 6 de noviembre de 2024, su confianza en una buena relación con Estados Unidos. Esto **tras las elecciones presidenciales** que perfilan el regreso del republicano **Donald Trump a la Casa Blanca,** y aseguró que siempre defenderá los derechos de los migrantes mexicanos.
+
+### Más noticias:
+
+* [Claudia Sheinbaum asume como la primera mujer presidenta de México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html")
+* [Claudia Sheinbaum promete ‘buena relación’ con China](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html") 
+* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html")
+
+Durante su conferencia de prensa matutina, la gobernante mexicana adelantó que se prepara un **“esquema de apoyo por parte de los consulados**” a los connacionales que viven en territorio estadounidense, ante la **amenaza de Trump** de una deportación masiva de migrantes.
+
+“Los consulados van a modificar de manera muy importante la forma en que atienden y facilitan los **apoyos legales y administrativos** que requieren todos nuestros hermanos y hermanas que están en Estados Unidos”, mencionó.
+
+“Vamos a estar siempre con ellos y defendiéndolos. Esa es nuestra tarea y nuestra función”, aseveró Sheinbaum.
+
+Fortaleza de la economía mexicana
 ---------------------------------
 
-Las investigaciones se centraron en determinar los **motivos detrás del asesinato**. La **Policía Nacional** detuvo a **varios sospechosos**
+La presidenta destacó la **fortaleza de la economía mexicana y** de los beneficios de la relación comercial entre los países, particularmente del **Tratado México, Estados Unidos y Canadá (T-MEC)**, que será renegociado en 2026.
 
-En octubre de 2023, **seis sospechosos** fueron asesinados en prisión, lo cual añadió complejidad al caso. A principios de julio de 2024, dos instigadores fueron sentenciados a **34 años y ocho meses de prisión**. Tres cómplices recibieron penas de **12 años de prisión**. El juez ordenó a los condenados a pagar compensaciones a la **familia de Villavicencio**​.
+“México, Estados Unidos y también Canadá tienen hoy una **integración económica** muy importante que favorece a ambos países(…) Es una fortaleza de ambos, no competimos entre nosotros, sino al revés, nos complementamos”, aseguró.
 
-Fiscalía señala a Carlos Angulo, alias ‘Invisible’ como la persona que dio la orden del crimen desde la **cárcel** de Cotopaxi.
+Asimismo, señaló que “las exportaciones de México continuaron creciendo, y esta fortaleza es indispensable en el **terreno, incluso geopolítico**“, lo cual, auguró, “va a seguir fortaleciendo a ambos países”.
 
-La Fiscalía lleva adelante dos investigaciones previas más, derivadas del caso del asesinato de Fernando Villavicencio. Las mismas buscan a los **autores intelectuales y posibles omisiones relacionadas con el delito**.
+Empresarios mexicanos
+---------------------
+
+“En esto va a haber mucha **coordinación con el empresariado mexicano,** por supuesto”, indicó.
+
+En cuanto a las fluctuaciones del peso mexicano en los últimos días, Sheinbaum señaló que “los analistas” hablan de que la mayor **influencia es por la elección en Estados Unidos.**
+
+“Por eso digo que no debe haber motivo para que tengamos preocupaciones. **Va a haber una buena relación, yo estoy convencida de ello**, y nuestra economía está muy sólida, está muy fuerte”, sostuvo la presidenta.
+
+### Diálogo con Estados Unidos
+
+Además, indicó que México mantendrá un **diálogo de alto nivel con Estados Unidos** y establecerá diálogo con el candidato electo, una vez que se anuncien los resultados finales de la elección.
+
+“Vamos a buscar esta comunicación en el momento en que ya sea oficial el triunfo, y va a haber buena relación. Siempre hay sus características con cada uno de los presidentes, pero yo estoy convencida de que va a haber una buena relación”, insistió Sheinbaum.
+
+Plan para la migración
+----------------------
+
+Entre los primeros temas a tratar, Sheinbaum mencionó “un plan para la migración”, e insistió que en “México **disminuyó la migración** en la frontera norte en un 75 %, de diciembre de 2023 a la fecha, de una forma humanitaria”, como anunció el martes.
+
+De igual manera, dijo, están los temas que tienen que ver con la entrada de drogas de México a Estados Unidos y el ingreso de armas desde aquel país a territorio mexicano.
+
+“Es decir, (abordaremos) los temas relacionados con el **tráfico de drogas y otros sectores fundamentales** para el desarrollo de ambos países”, apuntó.
+
+Además, la mandataria avisó que dará un pronunciamiento formal sobre los resultados electorales del país vecino cuando termine el conteo de votos en los estados que faltan.
+
+Donald Trump
+------------
+
+Trump (2017-2021) se proclamó este miércoles ganador de las elecciones en Estados Unidos y el republicano volverá a la Casa Blanca tras una **reñida campaña electoral** en la que superó los 270 votos electorales necesarios, contra su principal rival, la demócrata Kamala Harris.
+
+Trump recibe felicitaciones y enciende preocupaciones a escala mundial
+======================================================================
+
+Líderes mundiales felicitan a Trump por su reelección, pero surgen preocupaciones sobre su política exterior y su enfoque en comercio.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump junto con su mujer Melania Trump (d) y su hijo Barron Trump. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-45.jpg)
+
+Líderes de todo el mundo felicitan a Donald Trump por su reelección como presidente de los EE.UU., pero también advierten sobre sus preocupaciones en política internacional.
+
+Más noticias
+------------
+
+* [Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump](https://www.elcomercio.com/actualidad/edad-historia-judicial-y-otros-hitos-que-hacen-historica-la-eleccion-de-donald-trump.html "Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump")
+* [Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.](https://www.elcomercio.com/actualidad/politica/daniel-noboa-felicita-a-donald-trump-por-ganar-las-elecciones-en-ee-uu.html "Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.")
+
+Trump resume su enfoque de política exterior con una frase del expresidente Ronald Reagan (1981-1989): “Paz a través de la fuerza”. Su postura es la más aislacionista a nivel de política exterior y proteccionista en términos económicos que ha tenido EE.UU. desde la Segunda Guerra Mundial.
+
+Ha asegurado que podría acabar rápidamente con la guerra en Ucrania y la guerra en Gaza, aunque sin especificar cómo. Ha criticado con frecuencia a la OTAN y elogiado a líderes autoritarios como Viktor Orbán, de Hungría, y Vladímir Putin, de Rusia.
+
+Las felicitaciones llueven en Latinoamérica
+-------------------------------------------
+
+Los líderes latinoamericanos fueron los primeros en felicitar a Trump tras su reelección y reafirmaron el compromiso de seguir fortaleciendo las relaciones entre sus países.
+
+El presidente de Brasil, **Luiz Inácio Lula da Silva**, felicitó al republicano y destacó que “la democracia es la voz del pueblo y siempre debe ser respetada”. Añadió: “El mundo necesita diálogo y trabajo conjunto para que tengamos más paz, desarrollo y prosperidad”. También le deseó “suerte y éxito”.
+
+**Javier Milei** retomó el slogan de Trump “Make America Great Again”. Aseguró que la nueva administración en la Casa Blanca podrá contar con Argentina para realizar sus tareas. 
+
+El presidente de El Salvador, **Nayib** **Bukele**, dio una breve felicitación: “Que Dios te bendiga y te guíe”.
+
+“Felicito al presidente electo de los EEUU, @realDonaldTrump. Trabajaremos junto al nuevo gobierno para seguir fortaleciendo la relación entre nuestros países, para beneficio de nuestra gente”. Este fue el mensaje del presidente de Uruguay, **Luis Lacalle Pou**.
+
+El líder opositor venezolano **Edmundo González Urrutia** también se unió a las felicitaciones.
+
+En Europa se muestran abiertos a trabajar en una agenda
+-------------------------------------------------------
+
+Líderes europeos expresaron su deseo de trabajar en una agenda común. La presidenta de la Comisión Europea, **Ursula von der Leyen**, espera trabajar con Trump en una “agenda transatlántica fuerte”.
+
+En su anterior administración, Trump se distanció de sus aliados europeos por sus cuestionamientos a la **OTAN** y su retiro del **Acuerdo de París** sobre el calentamiento global.
+
+Aun así, el presidente del gobierno español, **Pedro Sánchez**, adelantó: “trabajaremos en nuestras relaciones estratégicas bilaterales y en una asociación transatlántica fuerte”.
+
+El presidente francés **Emmanuel Macron** afirmó estar dispuesto a trabajar con Trump “con respeto y ambición. Por más paz y prosperidad”. Macron aboga por una visión global de una Europa autónoma estratégicamente, que no dependa de EE.UU., como en materia de seguridad en el seno de la OTAN.
+
+Macron conversó sobre la reelección de Trump con el canciller alemán **Olaf Scholz**, con quien acordó trabajar “por una Europa más unida, más fuerte y más soberana en este nuevo contexto. Cooperando con los Estados Unidos de América y defendiendo nuestros intereses y nuestros valores”.
+
+Entre las preocupaciones de Europa está la seguridad, pues Trump prometió recortar ayudas a la defensa ucraniana. El otro tema es el comercio, por un posible aumento de aranceles a la importación de productos europeos. 
+
+Por su parte, el presidente ucraniano, Volodymyr Zelensky, señaló: “Esperamos una era de un Estados Unidos fuerte, bajo el liderazgo decisivo del presidente Trump. Confiamos en el continuo fuerte apoyo bipartidista para Ucrania en Estados Unidos”.
+
+En la sede de la OTAN, su secretario **Mark Rutte** aseguró en un comunicado: “El presidente electo Trump demostró un fuerte liderazgo a lo largo de su primer mandato, un mandato que cambió el rumbo del gasto europeo en defensa, mejoró el reparto transatlántico de la carga y reforzó las capacidades de la Alianza”.
+
+En Asia, las reacciones varían según sus relaciones geopolíticas
+----------------------------------------------------------------
+
+Las reacciones en Asia han sido variadas, reflejando preocupaciones como expectativas según las relaciones geopolíticas de cada país.
+
+A pesar de no emitir una reacción oficial, las **autoridades chinas** se limitan a declarar que las elecciones son un “asunto interno”. Sin embargo, el tema de los aranceles, una de las promesas clave de Trump durante la campaña, genera incertidumbre: “Aranceles es la palabra más bella del diccionario” había dicho Trump, lo que sugiere que podría intensificar el conflicto comercial con China.
+
+El presidente de Taiwán, Lai Ching-te, expresó su apoyo inmediato: “Confío en que la asociación de larga data entre Taiwán y Estados Unidos, basada en valores e intereses compartidos, seguirá siendo una piedra angular para la estabilidad regional”.
+
+El presidente Yoon Suk Yeol, de Corea del Sur, afirmó que bajo el liderazgo de Trump “el futuro de la alianza entre la República de Corea y Estados Unidos será más luminoso”.
+
+El primer ministro de Camboya, Hun Sen, con un tono mordaz, señaló que la victoria de Trump era una indicación de que “la sociedad estadounidense no está preparada para tener una mujer como líder”. Afirmó que los estadounidenses prefieren la paz a la guerra interminable en Ucrania e Israel.
+
+Adicionalmente, las relaciones entre Moscú y Washington se encuentran en su punto más bajo desde la Guerra Fría. “Sacaremos nuestras conclusiones en virtud de las palabras concretas y los actos concretos” que el nuevo presidente acometa, afirmó el portavoz del Kremlin, **Dmitri Peskov**.
+
+Las paz en Oriente Medio es clave tras la reelección
+----------------------------------------------------
+
+El emir de Qatar, **Tamim Bin Hamad al Thani**, y el presidente de Egipto, **Abdelfatah al Sisi**, invitaron a Trump a trabajar juntos por la paz, la seguridad y la estabilidad de Oriente Medio.
+
+**El Cairo y Doha** han realizado esfuerzos de mediación con **EE.UU**., para una tregua en **Gaza** desde el inicio de la guerra en el enclave palestino.
+
+Por su parte, el primer ministro de Israel, **Benjamín Netanyahu**, celebró la victoria de Trump, destacando su “amistad” de larga data. “¡Felicitaciones por el regreso más grandioso de la historia!”.  
+  
+El alto funcionario de Hamás, **Sami Abu Zuhri**, aseguró que se pondrá la prueba las promesas de Trump respecto a la paz en la región.
+
+Ariel Holan, exDT de BSC, dirigirá a Rosario Central
+====================================================
+
+Ariel Holan fue uno de los tres entrenadores de Barcelona Sporting Club en el 2024.
+-----------------------------------------------------------------------------------
+
+![Ariel Holan en su etapa como entrenador como Barcelona SC en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/holan_dt_1.jpg)
+
+Ariel Holan **pasó sin pena ni gloria por Barcelona Sporting Club** y se marchó en menos de seis meses de gestión, en la que cosechó más fracasos y decepciones, que buenos resultados en su paso por Ecuador.
+
+En abril, Ariel Holan fue anunciado como nuevo entrenador de Barcelona SC, e**n lugar del uruguayo Diego López**, pero en octubre fue cesado del cargo y se marchó a Argentina en medio del rechazo de los hinchas amarillos.
+
+### Más noticias:
+
+* [Gustavo Alfaro vuelve a llamar al goleador Álex Arce](https://www.elcomercio.com/deportes/gustavo-alfaro-convocatoria-alex-arce-eliminatorias-goleador.html "Gustavo Alfaro vuelve a llamar al goleador Álex Arce")
+* [Bayer Leverkusen y Piero Hincapié aplastados por Liverpool](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-liverpool-hincapie-champions.html "Bayer Leverkusen y Piero Hincapié aplastados por Liverpool")
+* [AC Milan sacude al Real Madrid en la Champions League](https://www.elcomercio.com/deportes/futbol/ac-milan-sacude-al-real-madrid-en-la-champions-league.html "AC Milan sacude al Real Madrid en la Champions League")
+
+En lugar de Holan, la directiva de **Barcelona tomó la decisión de entregarle el cargo de entrenador** a Segundo Alejandro Castillo, parte del staff de trabajo del argentino, que será en que termine la temporada con los guayaquileños.
+
+La salida del argentino se dio luego de una serie de malos resultados que dejaron a los guayaquileños **fuera de la lucha por ganar la segunda etapa de la Liga Pro**, y solo con el objetivo de alcanzar uno de los cupos para la Copa Libertadores de 2025.
+
+Este miércoles 6 de noviembre de 2024, Rosario Central anunció a Holan como su nuevo entrenador, para tomar el puesto de **Matías Lequi, nombrado como interino tras la salida de Miguel Ángel Russo**, que dejó el club del que es considerado como uno de los máximos ídolos.
+
+El contrato de Holan es hasta diciembre de 2025 y tomará sentará en el banco de suplentes del equipo en el que se formó Damián Díaz, uno de los jugadores que salieron de BSC por decisión del entrenador y de la directiva canario.
+
+Ariel Holan en Barcelona SC
+---------------------------
+
+El rendimiento de Ariel Holan en **Barcelona Sporting Club es del 51,5%**, sumando los partidos de Copa Libertadores, Sudamericana, Copa Ecuador y Liga Pro.
+
+En esos cuatro torneos son 22 los encuentros dirigidos con un saldo de **10 victorias, cuatro empates y ocho derrotas**. Marcó 28 goles y recibió 27 para un gol diferencia positivo de +1.
+
+Sus derrotas fueron en momentos claves de la temporada: 3-1 ante Talleres en la Libertadores; 1-0 ante Mushuc Runa en el cierre de la primera etapa de la Liga Pro; 3-2 con Bragantino en la Sudamericana; **2-0 con Independiente Juniors en la Copa Ecuador**; y 3-0, 1-0 y 3-0 con LDU y Deportivo Cuenca y El Nacional en la Liga Pro.
+
+En su estadística personal se cuenta la eliminación de la Copa Libertadores; **eliminación de los play-off de octavos de final de la Copa Sudamericana**; y eliminación en los dieciseisavos de final de la Copa Ecuador.
+
+En la primera etapa de la **Liga Pro terminó en el segundo lugar con 31 puntos** y no le alcanzó para clasificarse a las finales de diciembre.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/holan_dt_2-1024x683.jpg)
+
+Foto: API.
+
+San viernes
+-----------
+
+Jóvenes ya pueden inscribirse en el proyecto del Gobierno para ganar 400 dólares mensuales
+==========================================================================================
+
+El programa Jóvenes en Acción ofrece a jóvenes ecuatorianos apoyo económico y oportunidades en proyectos ambientales y de recuperación económica.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa lanza iniciativa Jóvenes en Acción.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-611.jpg)
+
+El presidente de Ecuador, **Daniel Noboa**, lanzó el programa **Jóvenes en Acción**, este 5 de noviembre de 2024. La iniciativa busca promover la participación de la juventud en proyectos de protección ambiental y recuperación económica, a cambio recibirán una remuneración mensual de 400 dólares[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Daniel Noboa amplió los meses de descuento del valor de las planillas de luz](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-amplio-tiempo-rebaja-valor-planillas-de-luz.html "Daniel Noboa amplió los meses de descuento del valor de las planillas de luz")
+* [Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-alivios-economicos-entidades-financieras-crisis-energetica.html "Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales por crisis energética")
+* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
+
+Proyecto Jóvenes en Acción
+--------------------------
+
+Este programa permitirá a 80 000 jóvenes contribuir activamente en actividades como **reforestación, educación ambiental**, **mantenimiento de infraestructura vial**, apoyo a pequeños productores, entre otros.
+
+En esta iniciativa podrán participar jóvenes de entre 18 y 29 años, que **no tengan RUC** ni afiliación a la seguridad social. Además, deben desear colaborar en actividades comunitarias, bajo la guía de los ministerios del Ambiente, de Agricultura y de Transporte y Obras Públicas.
+
+A cambio, recibirán un beneficio económico de **400 dólares mensuales** durante tres meses. Este incentivo económico busca fomentar el involucramiento de la juventud en **causas de alto impacto social** y ambiental, señaló **Noboa** en sus redes sociales.
+
+El incentivo
+------------
+
+La información circuló en su cuenta de Instagram, junto con el mensaje: “Ustedes **confiaron** en un presidente joven, ahora es mi turno”.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCAo8i3RBo8/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Daniel Noboa Azin (@danielnoboaok)](https://www.instagram.com/reel/DCAo8i3RBo8/?utm_source=ig_embed&utm_campaign=loading)
+
+**Juventud en Acción** también se enmarca en los objetivos de **sostenibilidad y desarrollo económico** del gobierno, ofreciendo a los jóvenes una plataforma para contribuir al país mientras adquieren experiencia en el ámbito laboral y ambiental.
+
+Quienes deseen participar u obtener **más información** sobre el proyecto deben ingresar a la [página web Jóvenes en Acción](https://www.noboa.ec/juventudaccion "https://www.noboa.ec/juventudaccion") y llenar el formulario con sus datos.
+
+Karol G enternece las redes con un disfraz inspirado en una película icónica
+============================================================================
+
+Karol G y su amigo también compartieron un divertido video.
+-----------------------------------------------------------
+
+![Karol G reapareció en redes para alegrar a sus seguidores. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-06T123006.367.jpg)
+
+La cantante **Karol G** y su mejor amigo, el influencer y **DJ Daiky Gamboa**, sorprendieron a sus seguidores este **Halloween** con un original **disfraz** inspirado en una famosa película.
+
+A través de su cuenta de **Instagram**, Karol G compartió una secuencia de **fotos** en el que mostró los detalles de los disfraces.
+
+### **Más noticias:**
+
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+* [Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-salto-muerte-bloqueo-one-direction.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-salto-muerte-bloqueo-one-direction.html?source=Internal&ref=Single+Content+Link")
+* [Fans de Liam Payne en Ecuador se unen a los tributos mundiales](https://www.elcomercio.com/tendencias/liam-payne-one-direction-musica-homenajes-tributo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/liam-payne-one-direction-musica-homenajes-tributo.html?source=Internal&ref=Single+Content+Link")
+
+**¿Quién es DJ Daiky Gamboa?**
+------------------------------
+
+**DJ Daiky Gamboa** es un influyente DJ, **productor** y creador de contenido colombiano. Es conocido por su presencia en redes sociales y su habilidad para fusionar música electrónica con diversos géneros populares.
+
+Con una carrera que ganó terreno tanto en **Colombia** como a nivel internacional, Gamboa también se destaca por su carisma y su estilo único.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DBtwkYgvuBR/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Daiky Gamboa (@daikygamboa)](https://www.instagram.com/reel/DBtwkYgvuBR/?utm_source=ig_embed&utm_campaign=loading)
+
+Además de su faceta como **DJ**, ha trabajado en el mundo del entretenimiento y la música, colaborando con artistas de renombre y participando en eventos de gran escala.
+
+**Karol G enternece las redes con un disfraz inspirado en una película icónica**
+--------------------------------------------------------------------------------
+
+Karol G y su amigo **DJ Daiky Gamboa** sorprendieron a sus seguidores con un original disfraz inspirado en la famosa película ‘**Matilda’** (1996).
+
+La cantante colombiana personificó a **Amanda Thripp**, mientras que Daiky Gamboa se convirtió en la temible directora **Tronchatoro**.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DB1IWkXu1VJ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Daiky Gamboa (@daikygamboa)](https://www.instagram.com/reel/DB1IWkXu1VJ/?utm_source=ig_embed&utm_campaign=loading)
+
+A través de su cuenta de Instagram, Karol G también compartió un video en el que recrearon una de las escenas más memorables de la película: **Tronchatoro** (interpretada por Daiky) toma a **Amanda** (Karol G) de las trenzas y la lanza por el patio de la escuela.
+
+“Gracias a Dios por mi mejor amigo, quien está tan loco como yo”, escribió Karol G en su publicación. Daiky Gamboa respondió con un mensaje cariñoso: “Aquí siempre pa’ que nos disfracemos hasta que tengamos 110 años o más. Te amo”.
+
+Aplicaciones de citas más populares para hacer ‘match’ 
+=======================================================
+
+Las aplicaciones de citas han revolucionado las relaciones modernas.
+--------------------------------------------------------------------
+
+![Las primeras plataformas de citas en línea, como match.com, nacieron a finales de los 90. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/aplicaciones-de-citas.jpg)
+
+Las **aplicaciones de citas** han transformado la manera en que las personas se conectan y establecen relaciones. Desde su aparición, **han evolucionado significativamente**, adaptándose a las necesidades de los usuarios y a los cambios culturales.  
+
+### Más noticias
+
+* [Parejas, la popular plataforma de Facebook para encontrar relaciones y amigos](https://www.elcomercio.com/tecnologia/parejas-popular-plataforma-facebook-relaciones-amigos.html "https://www.elcomercio.com/tecnologia/parejas-popular-plataforma-facebook-relaciones-amigos.html")
+* [Empresa tecnológica diseñó un método para comunicarse en los sueños](https://www.elcomercio.com/tecnologia/empresa-tecnologia-comunicacion-suenos.html "https://www.elcomercio.com/tecnologia/empresa-tecnologia-comunicacion-suenos.html") 
+
+**Orígenes de las aplicaciones de citas** 
+------------------------------------------
+
+Las **primeras plataformas de citas en línea** surgieron a **finales de los años 90**. Sitios como **match.com** (lanzado en 1995) marcaron el inicio de una nueva era en la **búsqueda de pareja**.  
+
+Estos sitios **ofrecían perfiles detallados y un sistema de mensajería** que permitía a los usuarios interactuar antes de **concretar un encuentro físico**. A medida que Internet se expandía, también lo hacían estas plataformas, lo que **atrajo a un número creciente de usuarios**. 
+
+**La llegada de Tinder** 
+-------------------------
+
+En 2012, **Tinder revolucionó el mundo de las aplicaciones de citas** con su innovador **sistema de “swipe” (deslizar)**. Esta funcionalidad permitía a los usuarios **deslizar hacia la derecha si estaban interesados en un perfil** o hacia la izquierda si no lo estaban. Este enfoque **simplificó el proceso de selección y facilitó la interacción entre los usuarios**. En 2022, Tinder había acumulado más de **70 mil millones de “matches”**, consolidándose como **líder del mercado**, de acuerdo con la web [Lowi](https://www.lowi.es/blog/san-valentin-is-coming-las-mejores-aplicaciones-para-ligar/ "https://www.lowi.es/blog/san-valentin-is-coming-las-mejores-aplicaciones-para-ligar/").  
+
+**Evolución y competencia** 
+----------------------------
+
+A partir del **éxito de Tinder**, surgieron **numerosas aplicaciones alternativas** que buscaban captar la atención del público. **Bumble**, lanzada en 2014 por una **excofundadora de Tinder**, introdujo un enfoque donde **solo las mujeres podían iniciar la conversación tras un “match”**. Esta característica promovió un **ambiente más seguro** para muchas usuarias, a decir de [La Vaguardia](https://www.lavanguardia.com/andro4all/redes-sociales/tinder-apps-para-ligar "https://www.lavanguardia.com/andro4all/redes-sociales/tinder-apps-para-ligar"). 
+
+**Otro tipo de plataformas de citas** 
+--------------------------------------
+
+**Hinge**, otra competencia destacada, se diseñó con el **objetivo explícito de ser eliminada una vez que los usuarios encontraran pareja**. Esta aplicación se centra en **fomentar relaciones significativas** mediante preguntas y ‘prompts’ que invitan a **conversaciones más profundas**, según [Money](https://money.com/es/mejores-apps-de-citas/ "https://money.com/es/mejores-apps-de-citas/"). 
+
+En 2023, **Bumble alcanzó el 25% del mercado**, mientras que **Hinge capturó el 12%**, lo que evidencia el crecimiento del sector, de acuerdo con Lowi. 
+
+**Diversificación del mercado** 
+--------------------------------
+
+Con el tiempo, las aplicaciones comenzaron a diversificarse para **atender diferentes nichos**. **Grindr**, lanzada en 2009, se convirtió en la **principal plataforma para la comunidad LGBTQ+**, al utilizar un **formato similar al de Tinder** pero enfocado en conectar a hombres homosexuales y bisexuales, siguiendo con Lowi. 
+
+Por otro lado, **Fruitz utiliza símbolos frutales** para indicar lo que los usuarios buscan en una relación, desde algo casual hasta una conexión seria 
+
+Además, aplicaciones como **happn** ofrecen una experiencia única al **mostrar perfiles de personas con las que te has cruzado físicamente**, lo que añade una capa adicional de conexión local, según La Vanguardia. 
+
+Otras **aplicaciones populares** son **Badoo**, creada en 2006 por el emprendedor ruso **Andrey Andreev**, y es la **aplicación de citas más inclusiva y abierta a nivel mundial**, y **Facebook Parejas**, disponible desde septiembre de 2018, que busca **conectar a los usuarios de la plataforma más popular del mundo** para establecer relaciones de amistad, casuales o amorosas. 
+
+**Impacto social** 
+-------------------
+
+El auge de las **aplicaciones de citas** ha tenido un impacto significativo en las **dinámicas sociales**. Estas plataformas han **facilitado encuentros que antes requerían más tiempo y esfuerzo**. Sin embargo, también **han generado críticas sobre la superficialidad en las relaciones modernas**.  
+
+La **facilidad para deslizar y “match” puede llevar a interacciones menos significativas.** A pesar de esto, **muchas personas han encontrado amor verdadero a través de estas aplicaciones**. Un estudio reciente indica que **aproximadamente el 30% de las parejas heterosexuales en Estados Unidos** se conocieron a través de plataformas digitales, a decir de Money. 
+
+Esto demuestra que, a pesar de sus críticas, **las aplicaciones pueden ser efectivas para formar relaciones duraderas**. 
+
+Daniel Noboa remueve a Ivonne Baki de la Embajada en Francia
+============================================================
+
+Baki tiene una trayectoria de décadas en la Diplomacia. Fue embajadora en EE.UU. en el Gobierno de Moreno, luego de Lasso y finalmente de Noboa.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La embajadora Ivonne Baki en un paseo por la Plaza del Ecuador, en París.](https://www.elcomercio.com/wp-content/uploads/2024/11/Baki.jpg)
+
+Luego del **triunfo de Donald Trump** en las elecciones de EE.UU. el **Gobierno de Daniel Noboa** tomó una decisión en cuanto a la permanencia de la embajadora en Francia, **Ivonne Baki**.
+
+### Más noticias
+
+* [Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.](https://www.elcomercio.com/actualidad/politica/daniel-noboa-felicita-a-donald-trump-por-ganar-las-elecciones-en-ee-uu.html "Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.")
+* [Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-las-elecciones-presidenciales-en-ee-uu-segun-proyecciones.html "Donald Trump gana las elecciones presidenciales en EE.UU., según proyecciones")
+* [¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?](https://www.elcomercio.com/actualidad/negocios/la-eleccion-de-donald-trump-influira-en-el-comercio-entre-ecuador-y-ee-uu.html "¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?")
+
+Gobierno dio por terminadas sus funciones
+-----------------------------------------
+
+Mediante el decreto ejecutivo número 449, el presidente **Daniel Noboa agradeció a Ivonne Baki** por los servicios prestados en la Embajada ecuatoriana en Francia.
+
+Y dio por terminadas sus funciones como **embajadora extraordinaria** y plenipotenciaria de la República del ecuador ante el Gobierno de la República Francesa.
+
+Encargó a**l Ministerio de Relaciones Exteriores** y Movilidad Humana la ejecución de dicho decreto, el cual entra en vigencia desde su suscripción, es decir, desde este 6 de noviembre de 2024.
+
+Baki ejercía sus labores de **embajadora en París** desde el 8 de febrero de 2024. Antes de trasladarse en París, se desempeñaba como embajadora de Ecuador en Washington.
+
+Ivonne Baki tiene una trayectoria de **décadas en la Diplomaci**a. En la Embajada de Estados Unidos estuvo desde el Gobierno de Moreno, luego de Lasso y finalmente de Noboa.
+
+La victoria de Donald Trump podría ser un indicio de la salida de la embajadora de la sede parisina, pues podrían transferirla a Washington nuevamente para fortalecer la relación con el próximo mandatario.
+
+Daniel Noboa felicitó a Trump por la victoria
+---------------------------------------------
+
+En un mensaje en su cuenta de la red social X **envió un mensaje** de felicitaciones al expresidente de EE.UU. y ahora vencedor en el proceso electoral 2024.
+
+En su cuenta de Instagram, **el Presidente** hizo un posteo con la imagen de la publicación en X.
+
+“Congratulations to **Donald Trump!** Future looks bright for the continent” (Felicitaciones a Donald Trump! El futuro luce prometedor para el continente), expresó Noboa.
+
+De ese modo, el Presidente **celebró la victoria d**e quien se convertirá en el presidente número 47 de los [Estados Unidos de América.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
+
+Los comentarios en sus redes sociales no se hicieron esperar y sus seguidores se mostraron a favor y también en contra.
+
+> Congratulations to [@realDonaldTrump](https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw)! Future looks bright for the Continent
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [November 6, 2024](https://twitter.com/DanielNoboaOk/status/1854145115398267309?ref_src=twsrc%5Etfw)
+
+Donald Trump tiene varios planes para su segundo mandato
+========================================================
+
+Trump asegura que salvará empleos en Estados Unidos imponiendo aranceles de hasta el 20 % a todos los productos importados.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump junto con su mujer Melania Trump y su hijo Barron Trump.](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-noviembre-6.jpg)
+
+El presidente electo de Estados Unidos, [Donald Trump](https://www.elcomercio.com/actualidad/edad-historia-judicial-y-otros-hitos-que-hacen-historica-la-eleccion-de-donald-trump.html "https://www.elcomercio.com/actualidad/edad-historia-judicial-y-otros-hitos-que-hacen-historica-la-eleccion-de-donald-trump.html"), prometió tomar **medidas drásticas** en su segundo mandato, entre las que se incluyen la mayor deportación de inmigrantes en la historia del país, nuevos aranceles, una **política exterior aislacionista** y una mayor inversión en **combustibles fósiles.**
+
+### Más noticias
+
+* [¿Cuál será el rol de Elon Musk en las políticas tecnológicas de Donald Trump?](https://www.elcomercio.com/tecnologia/donald-trump-elon-musk-estados-unidos-elecciones.html "¿Cuál será el rol de Elon Musk en las políticas tecnológicas de Donald Trump?")
+* [Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump](https://www.elcomercio.com/actualidad/edad-historia-judicial-y-otros-hitos-que-hacen-historica-la-eleccion-de-donald-trump.html "Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump")
+* [Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-elecciones-estados-unidos.html "Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos")
+
+Durante toda su campaña, **Trump evitó ofrecer detalles concretos sobre sus planes**, aunque sus declaraciones públicas delinean una amplia agenda que combina enfoques tradicionales del conservadurismo estadounidense en economía, con una inclinación populista en política exterior.
+
+Estas son sus principales propuestas:
+
+Inmigración
+-----------
+
+De su eslogan de 2016 para construir un **muro en la frontera con México,** Trump pasó a prometer la creación del **“mayor programa de deportación masiva”** en la historia del país, otorgando a los reservistas de la **Guardia Nacional,** a los sheriffs y a policías locales el poder de arrestar a inmigrantes indocumentados.
+
+Además, busca **restringir tanto la migración irregular como la regular,** implementando una “evaluación ideológica” para quienes **soliciten un visado**, eliminando el derecho a la ciudadanía por nacimiento y limitando la entrada de migrantes por motivos de salud pública.
+
+También quiere **vetar el ingreso de ciudadanos de ciertos países de mayoría musulmana**, como intentó hacer en su primer mandato.
+
+Aborto
+------
+
+Trump presumió de haber colocado en el **Tribunal Supremo** durante su primer mandato a los tres jueces que pusieron fin a las **protecciones federales al aborto en 2022,** dando a los estados vía libre para restringir ese procedimiento, incluso en casos de **incesto o violación.**
+
+Sostiene que la política sobre el aborto debe decidirse a nivel estatal y, en el último mes de campaña, prometió que vetaría una **prohibición nacional** al aborto si el Congreso la aprobara.
+
+Política exterior
+-----------------
+
+Trump resume su enfoque de política exterior con una frase del expresidente Ronald Reagan (1981-1989): “Paz a través de la fuerza”. Su postura es la más **aislacionista a nivel de política exterior y** proteccionista en términos económicos que ha tenido EE.UU. desde la Segunda Guerra Mundial.
+
+Aseguró que podría acabar rápidamente con la **guerra en Ucrania** y la **guerra en Gaza,** aunque sin especificar cómo, criticó con frecuencia a la OTAN y elogió a **líderes autoritarios** como Viktor Orbán, de Hungría, y Vladímir Putin, de Rusia.
+
+Comercio
+--------
+
+Trump asegura que **salvará empleos en Estados Unidos i**mponiendo aranceles de hasta el 20 % a todos los productos importados, y del 60 % para aquellos provenientes de China, con quien busca intensificar la guerra comercial.
+
+Su objetivo principal es la **industria automotriz,** y amenazó con **aranceles de hasta el 200 %** a todos los automóviles provenientes de México para disuadir a los fabricantes chinos de instalarse en ese país.
+
+Impuestos y deuda
+-----------------
+
+Trump planea extender el **recorte de impuestos a las grandes empresas** que implementó durante su primer mandato y **propone reducir la tasa impositiva del 21 % al 15 %** para las compañías que fabriquen todos sus productos en Estados Unidos. Además, promete eliminar los impuestos sobre horas extra y propinas.
+
+Sin embargo, esta política incrementaría la **deuda federal en 5,8 billones de dólares** en la próxima década, según el Penn Wharton Budget Model. Actualmente, la deuda nacional de EE.UU. asciende a 35 billones de dólares.
+
+Medioambiente
+-------------
+
+Trump, quien **niega la existencia del cambio climático,** prometió **eliminar los subsidios para la compra de vehículos eléctricos** y aumentar la producción de petróleo y gas natural. “¡Perforar, perforar, perforar!” era un eslogan recurrente en sus mítines.
+
+Durante su Gobierno anterior, eliminó numerosas regulaciones ambientales y retiró a EE.UU. del Acuerdo de París.
+
+Salud
+-----
+
+Desde 2015, Trump abogó por **desmantelar la reforma sanitaria de Barack Obama** (2009-2017), sin proponer una alternativa concreta.
+
+En la última fase de su campaña, Trump reforzó su alianza con el que fue **candidato presidencial** independiente Robert F. Kennedy Jr., crítico de las vacunas, prometiendo ponerlo al frente de una iniciativa para “**hacer a EE.UU. saludable de nuevo**“.
+
+Derechos de la comunidad LGBTQ
+------------------------------
+
+Trump abogó por **limitar el énfasis en la diversidad** y las protecciones legales para la comunidad LGBTQ+.
+
+En cuanto a los derechos de las personas transgénero, prometió **prohibir la participación** de “chicos en deportes de chicas”, una retórica que le ha ganado apoyo.
+
+Sin embargo, sus propuestas van más allá de lo simbólico y prometió que pedirá al Congreso que se reconozcan solo dos **géneros (masculino y femenino)** al nacer, lo que supondría una vulneración de derechos para esa comunidad y limitaría el reconocimiento legal de identidades de género no binarias.
+
+¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?
+============================================================================
+
+Para el sector exportador, las elecciones en Estados Unidos representan una oportunidad para que se consolide un acuerdo comercial con Ecuador.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![El camarón es uno de los principales productos exportados hacia Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/camaron.jpg)
+
+**Estados Unidos** es uno de los principales socios comerciales del **Ecuador**, con una amplia gama de productos y empresas involucradas en el **comercio bilateral**. Las elecciones estadounidenses representan una oportunidad para consolidar un plan que fortalezca la cooperación bilateral en seguridad, economía y comercio, según el sector exportador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-elecciones-estados-unidos.html "Donald Trump, el controversial republicano que logra su segunda elección en Estados Unidos")
+* [Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.](https://www.elcomercio.com/actualidad/politica/daniel-noboa-felicita-a-donald-trump-por-ganar-las-elecciones-en-ee-uu.html "Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.")
+* [Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump](https://www.elcomercio.com/actualidad/edad-historia-judicial-y-otros-hitos-que-hacen-historica-la-eleccion-de-donald-trump.html "Edad, historia judicial y otros hitos que hacen histórica la elección de Donald Trump")
+
+Relación comercial Ecuador – Estados Unidos
+-------------------------------------------
+
+En 2023, el comercio no petrolero, alcanzó un saldo favorable de 1 474 millones de dólares. Es decir, las **exportaciones** tuvieron mayor peso que las **importaciones** desde ese destino.
+
+En el caso de las exportaciones no petroleras, alcanzaron 4 363 millones de dólares en 2023, lo que significó un incremento del 0,1% en relación con 2022, según datos del Banco Central del Ecuador.
+
+De esta forma, el año pasado, este mercado se constituyó en el **segundo destino para las exportaciones no petroleras de Ecuador**.
+
+Por su parte, las **importaciones no petroleras desde Estados Unidos** disminuyeron un 4% en 2023. Dentro de los principales productos comprados son alimentos para animales, maquinaria, plásticos y aparatos quirúrgicos. Estos representan el 54% de las importaciones totales.
+
+Estas importaciones también son clave para la producción local, ya que el 77% se destina a insumos productivos.
+
+Comercio bilateral en 2024
+--------------------------
+
+Durante los primeros ocho meses de 2024, las exportaciones ecuatorianas hacia **Estados Unidos** se incrementaron un 16% en comparación con el mismo período del año anterior.
+
+Actualmente, este mercado recibe más de 1 230 productos, entre los cuales se destacan el **camarón, el banano, minerales y metales, flores y frutas.** Estos cinco rubros abarcan el 69% del total exportado.
+
+El comercio no petrolero involucra a más de 2 000 empresas ecuatorianas, que han diversificado su oferta exportable, en respuesta a la demanda estadounidense.
+
+Según **Felipe Ribadeneira**, presidente de la Federación Ecuatoriana de Exportadores (Fedexpor), las actuales elecciones estadounidenses presentan una oportunidad para impulsar una **iniciativa estratégica** que podría consolidarse como un “Plan Ecuador”.
+
+“La nueva composición política de las cámaras en el Congreso es una oportunidad para acelerar el proyecto de Ley IDEA, como parte de este Plan Ecuador, que permitirá que los productos ecuatorianos ingresen sin barreras arancelarias a ese mercado, mientras trabajamos en concretar un acuerdo comercial con ese país lo más pronto posible”, señaló.
+
+Joel Ordóñez está entre los 10 defensores sub-21 más costosos
+=============================================================
+
+En los últimos años, Ecuador se ha convertido en cuna de defensores que destacan en Europa, entre ellos, el prometedor Joel Ordóñez.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Joel Ordóñez juega como defensor en el Club de Brujas de Bélgica.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-85.jpg)
+
+Joel Ordóñez, una de las jóvenes promesas del fútbol ecuatoriano, se formó en Independiente del Valle y, a los 18 años, partió hacia Europa en 2022. Hoy, dos años después, se ha consolidado como titular en el Club Brujas de Bélgica, uno de los equipos más importantes de ese país.
+
+Su desarrollo físico y futbolístico ha sido notable. Pasó del equipo B a ganarse un lugar en el primer equipo, siendo una **pieza clave en el título de liga que el Club Brujas consiguió** en la temporada 2023/24. Este crecimiento se ha reflejado también en su valor de mercado, impulsado por varios factores.
+
+Entre estos factores **destacan su juventud y proyección**, ya que a sus 20 años, se perfila como uno de los defensores con mayor potencial a nivel mundial. Además, su habilidad técnica con el balón le otorga características únicas para su posición.
+
+Joel Ordóñez y su valor de mercado
+----------------------------------
+
+En un informe reciente del Centro Internacional de Estudios Deportivos (CIES) sobre defensores centrales sub-21 con mayor valor de mercado, aparece **Joel Ordóñez**. Según este observatorio, el ecuatoriano tiene un **valor estimado de transferencia de 19,6 millones de dólares**, ubicándose en la décima posición de este prestigioso listado.
+
+En primer lugar, del ranking se encuentra **Lucas Beraldo**, el brasileño del París Saint-Germain y compañero de Willian Pacho, con un valor de 75 millones.
+
+Completan el podio Giorgi Scalvini, italiano del Atalanta, con 69 millones, y el francés Leny Yoro, del Manchester United, valorado en 58 millones de dólares. Otra de las figuras destacadas, **Pau Cubarsí**, del FC Barcelona, ocupa la cuarta posición con un valor de 54 millones de dólares.
+
+Joel Ordóñez y sus números
+--------------------------
+
+**Ordóñez** llegó al **Club Brujas** de Bélgica a mediados de 2022. En su primera temporada, con 18 años, jugó en el filial, en la segunda división belga, donde fue titular desde el inicio.
+
+Para la campaña 2023/24, continuó en el filial, pero rápidamente ascendió al primer equipo por su rendimiento, disputando 33 partidos, incluidas competencias europeas, y contribuyendo al título de liga de su equipo.
+
+En la temporada actual, Ordóñez sigue consolidado como titular y ha ganado experiencia. Ha disputado 12 partidos y ya debutó en la **Uefa Champions League**, donde ha sido titular en los tres encuentros del torneo hasta ahora.
+
+El Nacional quiere la final de la Copa Ecuador en Quito
+=======================================================
+
+La final de la Copa Ecuador se programó en el estadio Olímpico de Ibarra.
+-------------------------------------------------------------------------
+
+![Alejandro Cabeza, delantero de El Nacional en la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_quito_1.jpg)
+
+El **Nacional e Independiente del Valle** serán los encargados de jugar la final de la tercera edición de la Copa Ecuador, torneo que es organizado por la Federación Ecuatoriana de Fútbol (FEF).
+
+Para llegar a la final, **El Nacional derrotó en las semifinales de Mushuc Runa**, por un marcador global de 4-1, con lo que abrió la puerta para obtener el primer título nacional después de 18 años, tras el del torneo ecuatoriano de 2006.
+
+### Más noticias:
+
+* [Emelec anuncia oficialmente la renuncia de José Pileggi](https://www.elcomercio.com/deportes/emelec-jose-pileggi-renuncia-oficial.html "Emelec anuncia oficialmente la renuncia de José Pileggi")
+* [Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-gol-908-champions-asia.html "Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia")
+* [Imane Khelif, medallista olímpica, está envuelta en otra polémica](https://www.elcomercio.com/deportes/juegos-olimpicos/imane-khelif-medallista-olimpica-esta-envuelta-en-otra-polemica.html "Imane Khelif, medallista olímpica, está envuelta en otra polémica")
+
+Independiente del Valle dejó en el camino a **Universidad Católica de forma dramática y disputada**. En los partidos de ida y vuelta el marcador fue de 2-2 y en los penales los del Valle se impusieron por 6-5, con Moisés Ramírez como una de la figuras.
+
+La FEF decidió que la final entre los dos equipos de Quito se juegue, el miércoles 27 de noviembre, **en el estadio Olímpico de Ibarra**, escenario ubicado a 113 kilómetros de distancia de la capital ecuatoriana.
+
+La sede de la final tiene una capacidad de algo más de 18 000 espectadores, y ha sido sede del Torneo de **Segunda Categoría de Imbabura, del Ascenso Nacional, de la Liga Pro Serie B y Serie** A, de la Copa Ecuador y en el pasado de la Copa del Mundo sub-17 en 1995 y de campeonatos sudamericanos sub-17 y sub-20 en distintos ediciones.
+
+Sin embargo, esta decisión de llevar la final a otra ciudad fuera de Quito, **no tiene del todo contentos a los involucrados**, especialmente a El Nacional, que plantea la opción de mantener la final en la ciudad en la que juegan de local los finalistas.
+
+Marco Pazos hace un pedido a la FEF
+-----------------------------------
+
+Marco Pazos, presidente de El Nacional, mencionó este miércoles 6 de noviembre, que ya hicieron el **pedido a la FEF para que reconsidere la planificación original** de jugar la final de la Copa Ecuador en Ibarra.
+
+“Todavía no hemos tenido respuesta. Nosotros solicitamos que la final se la juegue en Quito al ser dos equipos de esta ciudad. **La lógica es que juguemos en nuestra ciudad y no entiendo** por qué se juega en otra ciudad”, declaró el presidente de los ‘rojos’ en la previa del Consejo de Presidente de la Liga Pro que se celebrará en Guayaquil.
+
+Andrés Larriva, dirigente de Independiente del Valle, mencionó, en entrevista con La Redonda, que no tiene “dudas” que el **Olímpico de Ibarra se va a “llenar” para la final de la Copa Ecuador**, al ser una ciudad futbolera.
+
+Agregó que “al ser dos equipos de Pichincha, la FEF podría tomar la decisión de que se juegue en Quito, pero en el **Gonzalo Pozo Ripalda (Aucas) o Rodrigo Paz Delgado (Liga de Quito)**“, y no en el Olímpico Atahualpa, la casa de El Nacional.
+
+Quito tiene dos antecedentes de recibir la final de la Copa Ecuador. La primera vez fue en la **ida de 2019 entre Liga de Quito y Delfín en el Rodrigo Paz Delgado**, mientras que la segunda fue en 2022 en la final única entre Independiente del Valle y 9 de Octubre en el Olímpico Atahualpa.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_quito_2-1024x683.jpg)
+
+Foto: API.
+
+San viernes
+-----------
+
+Contrato de mantenimiento de energía del Metro de Quito está por terminar
+=========================================================================
+
+El manteninimiento del sistema de energía del Metro de Quito está a cargo del CL1.
+----------------------------------------------------------------------------------
+
+![El Metro de Quito es uno de los sistemas de transporte más utilizados en la capital.](https://www.elcomercio.com/wp-content/uploads/2024/11/metro-de-quito.jpg)
+
+El contrato de mantenimiento del sistema de energía del **Metro de Quito** con el Consorcio CL1 está próximo a terminar[.](https://es.wikipedia.org/wiki/Metro_de_Quito "https://es.wikipedia.org/wiki/Metro_de_Quito")
+
+Más noticias
+------------
+
+* [El Metro de Quito trajo estos cambios al Centro Histórico](https://www.elcomercio.com/actualidad/quito/metro-quito-impulsa-economia-centro-historico.html "El Metro de Quito trajo estos cambios al Centro Histórico")
+* [Conozca el funcionamiento del Metro de Quito, Trolebús y Ecovía durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/cortes-luz-metro-trolebus-ecovia-funcionamiento.html "Conozca el funcionamiento del Metro de Quito, Trolebús y Ecovía durante los cortes de luz")
+* [Alcalde quiere extender el Metro de Quito y acude al Banco Mundial](https://www.elcomercio.com/actualidad/quito/alcalde-extender-metro-quito-banco-mundial-financiamiento.html "Alcalde quiere extender el Metro de Quito y acude al Banco Mundial")
+
+Este consorcio también asume el **mantenimiento de la infraestructura**, trenes y otros espacios del **Metro de Quito.**
+
+¿Cuándo termina el contrato?
+----------------------------
+
+Según informó el **Metro de Quito** a EL COMERCIO, el contrato de mantenimiento con **CL1** para el sistema de **energía** finalizará el 31 de diciembre de 2024.
+
+Por ello, la entidad avanza en los procesos de contratación de servicios de **mantenimiento**, con el objetivo de transferir estas tareas a la Empresa Pública Metropolitana Metro de Quito.
+
+La intención del **Metro** es contratar un paquete de **mantenimientos** **específicos** que debe entrar en vigencia antes de finalizar el 2024.
+
+El costo estimado de este nuevo contrato, actualmente en fase de preparación, ronda los 27,5 millones de dólares, de acuerdo con un representante de la entidad.
+
+Mantenimiento de los trenes del Metro de Quito
+----------------------------------------------
+
+El Consorcio de Construcciones y Auxiliar de Ferrocarriles S. A. (**CAF**) tiene a su cargo el **mantenimiento** de los trenes del Metro de Quito.
+
+Desde el 24 de junio, CAF realiza el mantenimiento de los trenes durante ocho meses, es decir, hasta febrero de 2025. Anteriormente, esta tarea estaba en manos del personal de la **Epmmq**.
+
+No obstante, la Empresa Pública Metropolitana Metro de Quito planea un proceso de **contratación** **público** y **transparente** para el mantenimiento a largo plazo.
+
+Mientras tanto, CAF efectúa el mantenimiento mediante visitas de seguridad y las intervenciones tipo B (cada 120 000 km), tipo C (cada 150 000 km) y tipo D (cada 180 000 km).
+
+Razones por las que la Empresa Metro de Quito asume el contrato
+---------------------------------------------------------------
+
+El Concejo Metropolitano de Quito aprobó que el **Alcalde**, o su delegado, suscriba el acta de mediación para el contrato de **mantenimiento del Metro de Quito** con la empresa **CAF**.
+
+Esto se debe a que el contrato inicial fue establecido entre el **Municipio de Quito** y la constructora **CAF**.
+
+Así, la competencia sobre este tema recae plenamente en el **Municipio**, y el **Concejo Metropolitano** debe decidir sobre la autorización para la mediación entre ambas partes.
+
+Para futuros contratos, al haber delegado el **Municipio** la competencia de este sistema de transporte a la Empresa Pública Metropolitana **Metro de Quito**, será esta última la encargada de realizar el **proceso** **correspondiente**.
