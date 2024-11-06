@@ -361,17 +361,11 @@ Website
 
 [3rd November 2024](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
 
-[![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+[![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
 
-### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
 
-[30th October 2024](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-
-[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+[31st October 2024](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
 
 [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-120x86.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
 
@@ -379,11 +373,17 @@ Website
 
 [30th October 2024](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
+[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
-### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
+### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
-[20th October 2024](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
+[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+
+[![Josh Coburn wrestles for the ball against Burnley. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/DSC_9314-2024-11-03T17_03_53.509-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-praises-strikers-performance-in-first-game-back-from-injury/)
+
+### [Neil Harris praises striker’s performance in first game back from injury](https://southwarknews.co.uk/sport/football/millwall/neil-harris-praises-strikers-performance-in-first-game-back-from-injury/)
+
+[4th November 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-praises-strikers-performance-in-first-game-back-from-injury/)
 
 ### Featured Articles
 
