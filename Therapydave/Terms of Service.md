@@ -148,7 +148,7 @@ Contact Information
 
 If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
 
-_“Before, it felt like torture to be in my own skin. I beat myself up for everything and guilt ruled my whole life. When I started therapy, I couldn’t cope with life at all. After working with Dave, I’m not beating myself up compulsively and I feel hopeful about the future for the first time in a long time.”_
+_“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
