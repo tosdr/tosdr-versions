@@ -541,6 +541,18 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+
+### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
+
+[Read More »](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+
+[![7 spectacular things to do on a Northern Lights cruise](https://media.restless.co.uk/uploads/2024/10/spectacular-things-to-do-on-a-northern-lights-cruise-768x512.jpg)](https://restless.co.uk/travel/spectacular-things-to-do-on-a-northern-lights-cruise/)
+
+### [7 spectacular things to do on a Northern Lights cruise](https://restless.co.uk/travel/spectacular-things-to-do-on-a-northern-lights-cruise/)
+
+[Read More »](https://restless.co.uk/travel/spectacular-things-to-do-on-a-northern-lights-cruise/)
+
 [![12 of the best winter sun cruise destinations](https://media.restless.co.uk/uploads/2024/11/the-best-winter-sun-cruise-destinations-768x512.jpg)](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
 
 ### [12 of the best winter sun cruise destinations](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/) 
@@ -559,23 +571,11 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/otherworldly-travel-destinations-for-the-ultimate-escape/)
 
-[![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
-
-### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
-
-[Read More »](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
-
 [![11 sunny spots five hours or less from the UK](https://media.restless.co.uk/uploads/2024/10/sunny-spots-five-hours-or-less-from-the-uk-768x365.jpg)](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 ### [11 sunny spots five hours or less from the UK](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
-
-[![10 of the world’s most diverse and beautiful countries](https://media.restless.co.uk/uploads/2024/10/the-worlds-most-diverse-and-beautiful-countries-768x512.jpg)](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
-
-### [10 of the world’s most diverse and beautiful countries](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
-
-[Read More »](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
 
 Popular travel guides
 ---------------------
