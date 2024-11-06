@@ -396,18 +396,18 @@ Email: [support@adguard.com](mailto:support@adguard.com) Website: [](https://adg
 
 Other documents:
 
-[Privacy policy](https://adguard.com/en/privacy.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms and conditions of the AdGuard account and AdGuard websites](https://adguard.com/en/terms-and-conditions.html) [Data Processing Agreement](https://adguard.com/en/data-processing-agreement.html)
+[EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms and conditions of the AdGuard account and AdGuard websites](https://adguard.com/en/terms-and-conditions.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Data Processing Agreement](https://adguard.com/en/data-processing-agreement.html)
 
 Privacy notices:
 
+* [AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
 * [AdGuard Browser Extension](https://adguard.com/en/privacy/browser-extension.html)
+* [AdGuard Content Blocker](https://adguard.com/en/privacy/content-blocker.html)
 * [AdGuard for Android](https://adguard.com/en/privacy/android.html)
 * [AdGuard for iOS](https://adguard.com/en/privacy/ios.html)
 * [AdGuard for Mac](https://adguard.com/en/privacy/mac.html)
-* [AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
 * [AdGuard for Safari](https://adguard.com/en/privacy/safari.html)
-* [AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
-* [AdGuard Content Blocker](https://adguard.com/en/privacy/content-blocker.html)
+* [AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
 * [AdGuard Home](https://adguard.com/en/privacy/home.html)
 * [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
 
@@ -443,7 +443,7 @@ License
 
 Legal documents
 
-[EULA](https://adguard.com/en/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms and conditions](https://adguard.com/en/terms-and-conditions.html) [Data Processing Agreement](https://adguard.com/en/data-processing-agreement.html)
+[EULA](https://adguard.com/en/eula.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms and conditions](https://adguard.com/en/terms-and-conditions.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [Data Processing Agreement](https://adguard.com/en/data-processing-agreement.html)
 
 AdGuard
 
@@ -467,7 +467,7 @@ Purchase license Recover license Get free license Partner with AdGuard Contribut
 
 Legal documents
 
-EULA Privacy policy Privacy policy of AdGuard websites Terms of sale EULA of AdGuard Temp Mail Terms and conditions Data Processing Agreement
+EULA EULA of AdGuard Temp Mail Privacy policy Privacy policy of AdGuard websites Terms and conditions Terms of sale Data Processing Agreement
 
 System theme Light theme Dark theme
 
