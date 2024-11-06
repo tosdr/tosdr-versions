@@ -433,7 +433,7 @@ That’s it! Thanks for reading.
     
     *  [![](https://s2.wp.com/i/logo/wpcom-gray-white.png) Automattic](https://automattic.com/)
     
-    Join 10,435 other subscribers
+    Join 10,436 other subscribers
     
         
     
@@ -442,6 +442,7 @@ That’s it! Thanks for reading.
     * Already have a WordPress.com account? [Log in now.](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fautomattic.com%252Fprivacy%252F)
         
     
+* [Privacy](#)
 * *  [![](https://s2.wp.com/i/logo/wpcom-gray-white.png) Automattic](https://automattic.com/)
     * [Customize](https://automattic.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fautomattic.wordpress.com%2Fprivacy%2F)
     * Subscribe Subscribed
