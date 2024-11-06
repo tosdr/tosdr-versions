@@ -196,59 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=151125808)  
-Lemba Truck Stop
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=52970348)  
+Moremi Kitchens Rustenburg
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=59232517)  
-Little Nutty Professors
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=24257981)  
+Wiselink Broadband Dundee
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=106729383)  
-Durbanville Classifieds (Pty) Ltd
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=76241772)  
+AMS Ambu Medical Supplies
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=48606555)  
-Henry's Home Renovations
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=59437704)  
+Hydroworld T/A Milliqua
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=127192039)  
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=23883924)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=58943688)  
+McKaynine Mobility
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=186091075)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=66381617)  
+Fox Alarms & Security
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=137389679)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=67559946)  
 Prosper Park
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=3194684)  
-Bchange Online CC
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=105350634)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=114183340)  
-Kara Medical (Pty) Ltd
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=211770270)  
+Entidee Enterprise PTY (ltd)
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=117351290)  
-SA Security Brokerz (Pty) Ltd
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=127695383)  
+Goju Ryu Karate Centre
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=176240849)  
-IEMS (PTY) ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=54149172)  
+webb it services
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=174756963)  
-Baby Toddles Infant Care
-
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=90684618)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=24452058)  
-Skinz Printing & Branding
-
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=211048065)  
-#DiGi3 Marketing & Design
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=55730836)  
-LEO DEVELOPMENT GROUP
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=66679310)  
-Chiron Medical Solutions
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=84e476a3a585ca7baa7a37f81ca429a6a8e94f9fbbcfddcb2ed255f2af95288f&c=27745204)  
+KTEN PARTS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
