@@ -301,25 +301,6 @@ Proud to be independently verified by:
 
 © 2024 Project HOPE. All Rights Reserved.
 
-Close Donation Form
-
-Your Gift Multiplies 4X
------------------------
-
-Rush your emergency gift today to provide urgent relief and make a lasting impact for people facing hurricanes, conflicts, health crises, and more.
-
-Donation type One Time  Monthly 
-
-Donation amount, one time $25  $50  $100 
-
-Donation amount, monthly $10  $25  $50 
-
-Donation amount, other Other donation amount 
-
-Donate Now
-
-[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Hurricane_Helene_Milton_Web_LO_12316.html "Donate")
-
 We use cookies to ensure that we give you the best experience on our website. By clicking “Accept”, you consent to us using data collected from the cookies on our website. To learn more, check out our [privacy policy](https://www.projecthope.org/privacy-policy).
 
 Accept
