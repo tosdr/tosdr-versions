@@ -89,9 +89,9 @@ Most Read
     
 2. 2. [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
     
-3. 3. [Boeing strike ends after workers vote to accept “life-changing” wage increase](https://arstechnica.com/tech-policy/2024/11/boeing-workers-vote-to-end-9-6b-strike-nabbing-43-wage-increase-over-4-years/)
+3. 3. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
     
-4. 4. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
+4. 4. [Boeing strike ends after workers vote to accept “life-changing” wage increase](https://arstechnica.com/tech-policy/2024/11/boeing-workers-vote-to-end-9-6b-strike-nabbing-43-wage-increase-over-4-years/)
     
 5. 5. [Guy makes “dodgy e-bike” from 130 used vapes to make point about e-waste](https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/)
     
