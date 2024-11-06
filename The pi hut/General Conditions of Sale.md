@@ -4,7 +4,7 @@
 
 Navigation
 
-[The Pi Hut ![the pi hut logo](//thepihut.com/cdn/shop/files/the-pi-hut-logo-standard_360x.jpg?v=1672762468)](https://thepihut.com/) 
+[The Pi Hut ![The Pi Hut Christmas Logo](//thepihut.com/cdn/shop/files/the_pi_hut_christmas_logo_360x.png?v=1730895868)](https://thepihut.com/) 
 
    No results found
 
