@@ -25,7 +25,7 @@
 © 2024 Splice.com
 
 * [Login](https://splice.com/accounts/sign-in)
-* [Try now](https://splice.com/plans)
+* [Try free](https://splice.com/accounts/sign-up)
 
 Splice - Terms of Use
 =====================
