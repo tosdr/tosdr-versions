@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/tv-duwt-kinderen-in-sjabloon/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/de-idiote-cijfers-achter-911-of-toch-niet/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
