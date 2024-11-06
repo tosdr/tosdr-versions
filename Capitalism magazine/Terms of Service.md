@@ -120,7 +120,7 @@ User represents, warrants, and covenants (a) that no materials of any kind submi
 * [The Woke Comprachicos](https://review.capitalismmagazine.com/2024/10/the-woke-comprachicos/)
 * [Catching up With Leonard Peikoff](https://review.capitalismmagazine.com/2024/09/catching-up-with-leonard-peikoff/)
 
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
+[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/09/peikkeep-peikoff-free-banner-1.jpg "peikkeep-peikoff-free-banner-1")](https://www.capitalismmagazine.com/2024/09/an-open-letter-from-dr-leonard-peikoff/)
 
 #### Recommended Reading
 
@@ -130,7 +130,7 @@ User represents, warrants, and covenants (a) that no materials of any kind submi
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2023/11/cui-red.jpg "cui-red capitalism")](https://amzn.to/3u1x8PJ)
 
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/05/democratic-party-hates-america-e1716436892372.jpg "democratic-party-hates-america")](https://amzn.to/44SNb0p)
+[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/11/black-hole-eco-125x200.jpg "black-hole-eco")](https://amzn.to/3YyWT5n)
 
 [More Books](https://www.capitalism.org/books/)
 
