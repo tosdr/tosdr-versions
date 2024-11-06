@@ -205,21 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Unnecessary Advertisements](https://www.somethingawful.com/photoshop-phriday/unnecessary-advertisements/1/)
-* [A Harrowing Account of One Man's... (Part 2)](https://www.somethingawful.com/comedy-goldmine/harrowing-account-birds/1/)
-* [A Bear Walks into a Diner ...](https://www.somethingawful.com/photoshop-phriday/bear-ginger-ale/1/)
-* [Clowns In Difficult Situations!](https://www.somethingawful.com/photoshop-phriday/ms-paint-clowns/)
-* [GI Army Funnies: Indiana Petraeus and the Crappers of Cairo](https://www.somethingawful.com/news/egypt-patraeus-afghanistan/1/)
+* [Cut-Rate Books! (Part Two of Two)](https://www.somethingawful.com/photoshop-phriday/cutrate-books/1/)
+* [Nightmares Fear Factory!](https://www.somethingawful.com/comedy-goldmine/nightmares-fear-factory/1/)
+* [AwfulVision: The Movie!](https://www.somethingawful.com/awfulvision/movie-effort-awfulvision/1/)
+* [Henchman Status Updates: Astro Panic](https://www.somethingawful.com/feature-articles/henchman-status-space/1/)
+* [The 22 Most Awful Moments in Science Fiction](https://www.somethingawful.com/most-awful/most-awful-scifi/1/)
 
 ### Popular Threads
 
 ### Random Articles
 
-* [Moon Patrol: The Erotic Adventures](https://www.somethingawful.com/feature-articles/moon-patrol-erotic/)
-* [The Wonders of IMDB Keywords](https://www.somethingawful.com/news/imdb-keyword-matches/1/)
-* [Today We Learn English! Lesson 4: The Parts of Speech](https://www.somethingawful.com/news/parts-of-speech/1/)
-* [2000 Awful Awards!](https://www.somethingawful.com/news/2000-awful-awards-2/)
-* [Next-Gen Gears of War!](https://www.somethingawful.com/photoshop-phriday/next-gen-gears/1/)
+* [Subj: THINGS I RAN AWAY FROM](https://www.somethingawful.com/news/roamin-dad-59/)
+* [Castle Vidcons](https://www.somethingawful.com/comedy-goldmine/castle-vidcons-game/1/)
+* [The Body Bouncer](https://www.somethingawful.com/awful-links/awful-link-3088/)
+* [Mission Briefings from Hell: Operation Glorious Pegasus](https://www.somethingawful.com/news/hell-briefing-1/1/)
+* [Silvert's Adaptive Clothing (Thanks, goodbyebluesky!)](https://www.somethingawful.com/awful-links/silverts-adaptive-clothing/)
 
 [Random!](https://www.somethingawful.com/random/)
 
