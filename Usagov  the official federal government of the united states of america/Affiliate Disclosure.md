@@ -33,8 +33,6 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
     * [Free commercial downloads](https://www.usa.gov/free-commercial-downloads)
     * [Paperwork Reduction Act statements](https://www.usa.gov/paperwork-reduction-act-statements)
 
-Election Day is Tuesday, November 5. [Find your polling place](https://www.usa.gov/find-polling-place).
-
 [](#paragraph--id--2532)
 
 Welcome to USA.gov
@@ -140,7 +138,6 @@ Ask a real person any government-related question for free. They will get you th
 * [All topics and services](https://www.usa.gov/#all-topics-header)
 * [Directory of U.S. government agencies and departments](https://www.usa.gov/agency-index)
 * [Branches of government](https://www.usa.gov/branches-of-government)
-* [Register to vote](https://vote.gov/)
 
 ### About us
 
