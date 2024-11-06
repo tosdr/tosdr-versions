@@ -306,29 +306,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3003%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_508%2C$y_87/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d694142ce0c447fcbdcc6381d9cc74ffc0900569)](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
+[![Coles Group chief executive Leah Weckert told the Chanticleer brunch the top job was “something I had always aspired to”.](https://static.ffx.io/images/$zoom_0.3165%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_620%2C$y_77/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/dc147fad3e8f1a411102072a3bed4dfb08c29dfa)](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
 
-### [This top fundie names the best business leaders she has met](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
+### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
 
-* Sally Patten
+* 53 mins ago
+* Patrick Durkin
 
-* ### [Why retail was the Bunnings MD’s third career choice, and why he stayed](https://www.afr.com/work-and-careers/leaders/why-retail-was-the-bunnings-md-s-third-career-choice-and-why-he-stayed-20241104-p5knqm)
+* ### [This top fundie names the best business leaders she has met](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
     
-* ### [How Victoria Racing Club’s new boss plans to turn around its fortunes](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
+* ### [Why retail was the Bunnings MD’s third career choice, and why he stayed](https://www.afr.com/work-and-careers/leaders/why-retail-was-the-bunnings-md-s-third-career-choice-and-why-he-stayed-20241104-p5knqm)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Cartier Love bracelet.](https://static.ffx.io/images/$zoom_0.3976%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_403/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bc672c5e34e84715b7f9eb855f5fbee3d4bb017b)](https://www.afr.com/life-and-luxury/design/the-stories-behind-the-world-s-top-selling-jewellery-20241031-p5kmrx)
+[![ Twins Jyoti Babani, Snehal Babani are dressed in partner look, both seen wearing black jackets, black short dresses, black tights with Chanel logo, black boots with silver chain details, lots of silver chains from Chanel.](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f1cafd525d38f627347c581984320e7d5d747195)](https://www.afr.com/life-and-luxury/fashion-and-style/the-tricks-to-layering-your-jewellery-20241028-p5klut)
 
-### [The stories behind the world’s top-selling jewellery](https://www.afr.com/life-and-luxury/design/the-stories-behind-the-world-s-top-selling-jewellery-20241031-p5kmrx)
+### [The tricks to layering your jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/the-tricks-to-layering-your-jewellery-20241028-p5klut)
 
-* Hannah Tattersall
+* 53 mins ago
+* Lauren Sams
 
-* ### [Family SUV or powerful sports machine? Meet the new VW](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/family-suv-or-powerful-sports-machine-meet-the-new-vw-20241023-p5kkuw)
+* ### [Good old tiles are making a comeback](https://www.afr.com/life-and-luxury/design/good-old-tiles-are-making-a-comeback-20241023-p5kkob)
     
-* ### [Classic dishes reinvented for contemporary palates](https://www.afr.com/life-and-luxury/food-and-wine/classic-dishes-reinvented-for-contemporary-palates-20240917-p5kb7e)
+* ### [The stories behind the world’s top-selling jewellery](https://www.afr.com/life-and-luxury/design/the-stories-behind-the-world-s-top-selling-jewellery-20241031-p5kmrx)
     
 
 [Rich List](https://www.afr.com/rich-list)
