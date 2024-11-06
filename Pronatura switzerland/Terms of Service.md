@@ -135,6 +135,13 @@ Pronatura Main
     * [Weitere Themen](https://www.pronatura.ch/de/unsere-themen)
     
 * [Mitmachen](https://www.pronatura.ch/de/mitmachen)
+    
+    * [Freiwilligenarbeit](https://www.pronatura.ch/de/freiwilligenarbeit "Freiwilligeneinsatz bei Pro Natura hilft der Natur und macht Spass")
+    * [Für Kinder & Jugendliche](https://www.pronatura.ch/de/jugend)
+    * [Für Lehrpersonen](https://www.pronatura.ch/de/lehrpersonen "Natur im Unterricht - unsere Angebote für Lehrpersonen")
+    * [Naturtipps](https://www.pronatura.ch/de/naturtipps)
+    * [Finanzielle Unterstützung](https://www.pronatura.ch/de/ihr-engagement)
+    
 * [Besuchen](https://www.pronatura.ch/de/unsere-angebote)
     
     * [Veranstaltungen](https://www.pronatura.ch/de/kalender)
