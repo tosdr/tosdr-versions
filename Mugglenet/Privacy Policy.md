@@ -244,14 +244,6 @@ MuggleNet Archive Select Month November 2024  (2) October 2024  (27) September
 
 ### November 2024
 
-#### Tue, Nov 5
-
-Harry Potter and the Philosopher's Stone Deluxe Illustrated Edition (UK)
-
-Recurs yearly
-
-2015
-
 #### Wed, Nov 6
 
 Hero Fiennes-Tiffin's birthday
@@ -318,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Golden Snitch was invented by Bowman Wright, a metal charmer who lived during the Middle Ages.
+Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
 
 ### Potter History
 
-March 23, 2007 – Warner Bros. announces that Daniel Radcliffe, Rupert Grint, and Emma Watson are all signed on for the final two Harry Potter films.
+January 3, 2006 – Harry Potter and the Goblet of Fire was named the highest-earning film internationally for 2005. It earned $850 million.
 
 ### Potter Quote
 
-“He knows what you were born, not who you are.”
+“Cedric was a person who exemplified many of the qualities that distinguish Hufflepuff house. He was a good and loyal friend, a hard worker, he valued fair play. His death has affected you all, whether you knew him well or not. I think that you have the right, therefore, to know exactly how it came about. \[…\] Cedric Diggory was murdered by Lord Voldemort.”
 
 [](#)
 
