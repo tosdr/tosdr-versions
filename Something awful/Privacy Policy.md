@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [craigslist, Ask / Tell, Pinocchia, and Walmart Sucks](https://www.somethingawful.com/weekend-web/craigslist-ask-tell/1/)
-* [CSNation, Teen Problems and Issues, PokeCommunity, and GoFuckYourself](https://www.somethingawful.com/weekend-web/csnation-teen-problems/1/)
-* [Darknest and I Hate My Miserable Life](https://www.somethingawful.com/weekend-web/darknest-miserable-life/1/)
+* [I Spy Hoarders](https://www.somethingawful.com/photoshop-phriday/i-spy-hoarders/)
+* [Shroomery](https://www.somethingawful.com/weekend-web/shroomery/1/)
+* [That Awkward Moment; Labor Day; Gimme Shelter](https://www.somethingawful.com/current-movie-reviews/that-awkward-moment/1/)
+* [Maybe It's Time To Cool Off On The Last Samurai Sequels](https://www.somethingawful.com/news/last-samurai-sequels/)
+* [Phake Games 2](https://www.somethingawful.com/photoshop-phriday/phake-games-2/1/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Anencephalie Info](https://www.somethingawful.com/awful-links/awful-link-3704/)
-* [The Jefferson Brothers: ARRESTED!](https://www.somethingawful.com/flash-tub/jefferson-brothers-arrested/)
-* [Porcupine Tree](https://www.somethingawful.com/garbage-day/porcupine-tree-incident/1/)
-* [Help! I learned about relationships from a homeschool textbook!](https://www.somethingawful.com/comedy-goldmine/homeschool-textbook/)
-* [H.P. Lovecraft's A-Team (Part 2)](https://www.somethingawful.com/news/hp-lovecrafts-ateam-2/)
+* [100 Words or Phrases Whitelisted By Pakistan](https://www.somethingawful.com/news/pakistan-banned-texts/1/)
+* [Classic Rock](https://www.somethingawful.com/your-band-sucks/classic-rock/)
+* [Town Criers Are All the Rage!](https://www.somethingawful.com/news/town-criers-all/)
+* [The Inevitable Batman Movie Reboot](https://www.somethingawful.com/news/batman-movie-reboot/)
+* [Time Diver Eon Man](https://www.somethingawful.com/rom-pit/nes-time-travel/)
 
 [Random!](https://www.somethingawful.com/random/)
 
