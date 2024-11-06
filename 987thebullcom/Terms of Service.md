@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Where It EndsBailey Zimmerman<br><br>10:40am |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:37am |
-| Heartache MedicationJon Pardi<br><br>10:34am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>10:30am |
-| Heart Like A TruckLainey Wilson<br><br>10:27am |
+| Broken HalosChris Stapleton<br><br>4:39pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:34pm |
+| Need A FavorJelly Roll<br><br>4:31pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:28pm |
+| Something Like ThatTim Mcgraw<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,17 +358,17 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Top 40 • Pacific NW
+Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
