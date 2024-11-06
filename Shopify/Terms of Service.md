@@ -75,6 +75,9 @@
     * [Manage your business.
         
         Track sales, orders & analytics](https://www.shopify.com/manage)
+    * [Manage your finances & access funding.
+        
+        Shopify Finance](https://www.shopify.com/finance)
     * [Measure your performance.
         
         Analytics and Reporting](https://www.shopify.com/analytics)
@@ -87,9 +90,6 @@
     * [Outsource fulfillment & returns.
         
         Shopify Fulfillment Network](https://www.shopify.com/fulfillment)
-    * [Manage your finances & access funding.
-        
-        Shopify Finance](https://www.shopify.com/finance)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
