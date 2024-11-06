@@ -173,10 +173,10 @@ NEW! Lower Everyday Pricing on Toddler Products & Subscriptions! [Get 50% OFF Ba
         * [**Find Your Store**](https://elsenutrition.com/pages/find-a-store)
         * [Our Story](https://elsenutrition.com/pages/our-story)
         * [Clean Label](https://elsenutrition.com/pages/clean-label)
+        * [Ingredients](https://elsenutrition.com/pages/ingredients)
         * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
         * [Investors](https://investors.elsenutrition.com/)
         
-    * [Ingredients](https://elsenutrition.com/pages/ingredients)
     
     [![](//elsenutrition.com/cdn/shop/files/Spring_promo_-_balancingpieces_3-_May_2024_1.jpg?v=1725281595&width=1100)](https://elsenutrition.com/pages/our-story)
     
@@ -293,10 +293,10 @@ Menu
         * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
         * [Our Story](https://elsenutrition.com/pages/our-story)
         * [Clean Label](https://elsenutrition.com/pages/clean-label)
+        * [Ingredients](https://elsenutrition.com/pages/ingredients)
         * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
         * [Investors](https://investors.elsenutrition.com/)
         
-    * [Ingredients](https://elsenutrition.com/pages/ingredients)
     
 * [Find a Store](https://elsenutrition.com/pages/find-a-store)
 * [Log in](https://elsenutrition.com/account/login)
@@ -394,10 +394,10 @@ Menu
         * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
         * [Our Story](https://elsenutrition.com/pages/our-story)
         * [Clean Label](https://elsenutrition.com/pages/clean-label)
+        * [Ingredients](https://elsenutrition.com/pages/ingredients)
         * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
         * [Investors](https://investors.elsenutrition.com/)
         
-    * [Ingredients](https://elsenutrition.com/pages/ingredients)
     
 * [Find a Store](https://elsenutrition.com/pages/find-a-store)
 * [Log in](https://elsenutrition.com/account/login)
@@ -584,10 +584,10 @@ Shop Now
 
 Else World
 
-* [Ingredients](https://elsenutrition.com/pages/ingredients)
 * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
 * [Blog](https://elsenutrition.com/a/resources/)
 * [Recipes](https://elsenutrition.com/blogs/else-recipes)
+* [Ingredients](https://elsenutrition.com/pages/ingredients)
 * [Our Story](https://elsenutrition.com/pages/our-story)
 * [Clean Label](https://elsenutrition.com/pages/clean-label)
 * [For HCP](https://hcp.elsenutrition.com/)
