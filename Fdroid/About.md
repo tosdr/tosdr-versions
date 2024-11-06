@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [Video guides, games and players](https://f-droid.org/en/2024/10/10/twif.html) Oct 10, 2024
 * [F-Droid website now available in Czech!](https://f-droid.org/en/2024/10/04/czech-language.html) Oct 04, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-11-02, fdroid-website [2.282](https://gitlab.com/fdroid/fdroid-website/tree/c624b5fd53)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-11-06, fdroid-website [2.282](https://gitlab.com/fdroid/fdroid-website/tree/c624b5fd53)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
