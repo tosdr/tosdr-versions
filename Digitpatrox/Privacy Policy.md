@@ -20,16 +20,16 @@ Wednesday, November 6 2024
 
 Latest
 
-* [Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://digitpatrox.com/interpol-disrupts-cybercrime-activity-on-22000-ip-addresses-arrests-41/)
-* [Suzuki teams up with Toyota on its first EV: the E Vitara](https://digitpatrox.com/suzuki-teams-up-with-toyota-on-its-first-ev-the-e-vitara/)
-* [Today’s Wordle Answer and Hints (November 6, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-6-2024/)
-* [Is the Government Watching Me? Do They Read Texts and Emails?](https://digitpatrox.com/is-the-government-watching-me-do-they-read-texts-and-emails/)
-* [Why ‘space as a service’ is helping businesses meet worker demands – even as tech execs push ‘return to office’](https://digitpatrox.com/why-space-as-a-service-is-helping-businesses-meet-worker-demands-even-as-tech-execs-push-return-to-office/)
-* [Extending corporate life of laptops by just one year can reduce harmful emissions by 25% – Computerworld](https://digitpatrox.com/extending-corporate-life-of-laptops-by-just-one-year-can-reduce-harmful-emissions-by-25-computerworld/)
-* [How to Quickly Pack Up a Hotel Room Without Forgetting Anything](https://digitpatrox.com/how-to-quickly-pack-up-a-hotel-room-without-forgetting-anything/)
-* [Common Venmo scams and how to avoid them](https://digitpatrox.com/common-venmo-scams-and-how-to-avoid-them/)
-* [How to enable Ultimate Performance power mode on Windows 11, 10](https://digitpatrox.com/how-to-enable-ultimate-performance-power-mode-on-windows-11-10/)
-* [What to Know About Over-the-Counter Hearing Aid Brands](https://digitpatrox.com/what-to-know-about-over-the-counter-hearing-aid-brands/)
+* [US warns of last-minute Iranian and Russian election influence ops](https://digitpatrox.com/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/)
+* [How to stop the Electoral College from invading your home screen](https://digitpatrox.com/how-to-stop-the-electoral-college-from-invading-your-home-screen/)
+* [Anime Battle Arena (ABA) Private Server Codes (November 2024)](https://digitpatrox.com/anime-battle-arena-aba-private-server-codes-november-2024/)
+* [Embracing the future: A visionary CIO’s perspective on predictable certainties and innovation](https://digitpatrox.com/embracing-the-future-a-visionary-cios-perspective-on-predictable-certainties-and-innovation/)
+* [How ChatGPT works with iOS 18.2 iPhones and Siri – Computerworld](https://digitpatrox.com/how-chatgpt-works-with-ios-18-2-iphones-and-siri-computerworld/)
+* [All the Home Maintenance Tasks You Should Tackle in November](https://digitpatrox.com/all-the-home-maintenance-tasks-you-should-tackle-in-november/)
+* [Is It Time to Get a TV Antenna?](https://digitpatrox.com/is-it-time-to-get-a-tv-antenna/)
+* [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://digitpatrox.com/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
+* [Microsoft and Nvidia are teaming up to support UK AI startups – and they want to attract firms outside of London and the South East](https://digitpatrox.com/microsoft-and-nvidia-are-teaming-up-to-support-uk-ai-startups-and-they-want-to-attract-firms-outside-of-london-and-the-south-east/)
+* [Will DECT Devices Work In A Call Center? Yes, With Limits](https://digitpatrox.com/will-dect-devices-work-in-a-call-center-yes-with-limits/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2022/10/28/law-enforcement-arrest-bright.jpg)](https://digitpatrox.com/interpol-disrupts-cybercrime-activity-on-22000-ip-addresses-arrests-41/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/05/election.jpg)](https://digitpatrox.com/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/)
     
-    [Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://digitpatrox.com/interpol-disrupts-cybercrime-activity-on-22000-ip-addresses-arrests-41/)
+    [US warns of last-minute Iranian and Russian election influence ops](https://digitpatrox.com/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/)
     
-    45 seconds ago
+    1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/h8ae7MZNf21lkjnvxcX934RQ9Bs=/0x0:1472x981/1200x628/filters:focal(736x491:737x492)/cdn.vox-cdn.com/uploads/chorus_asset/file/25717478/8.jpg)](https://digitpatrox.com/suzuki-teams-up-with-toyota-on-its-first-ev-the-e-vitara/)
+* [![](https://cdn.vox-cdn.com/thumbor/bRHgqWfyfGU3g8L1_p1jk445ZVM=/0x0:1206x1113/1200x628/filters:focal(584x176:585x177)/cdn.vox-cdn.com/uploads/chorus_asset/file/25717638/IMG_0478.PNG)](https://digitpatrox.com/how-to-stop-the-electoral-college-from-invading-your-home-screen/)
     
-    [Suzuki teams up with Toyota on its first EV: the E Vitara](https://digitpatrox.com/suzuki-teams-up-with-toyota-on-its-first-ev-the-e-vitara/)
+    [How to stop the Electoral College from invading your home screen](https://digitpatrox.com/how-to-stop-the-electoral-college-from-invading-your-home-screen/)
     
-    18 mins ago
+    1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-6-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/ABA-Private-Server-Codes.jpg)](https://digitpatrox.com/anime-battle-arena-aba-private-server-codes-november-2024/)
     
-    [Today’s Wordle Answer and Hints (November 6, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-6-2024/)
-    
-    36 mins ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Is-the-Government-Watching-Me_.jpg)](https://digitpatrox.com/is-the-government-watching-me-do-they-read-texts-and-emails/)
-    
-    [Is the Government Watching Me? Do They Read Texts and Emails?](https://digitpatrox.com/is-the-government-watching-me-do-they-read-texts-and-emails/)
+    [Anime Battle Arena (ABA) Private Server Codes (November 2024)](https://digitpatrox.com/anime-battle-arena-aba-private-server-codes-november-2024/)
     
     2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/3UoL2beVLxu2psXNFZTnFc-1200-80.jpg)](https://digitpatrox.com/why-space-as-a-service-is-helping-businesses-meet-worker-demands-even-as-tech-execs-push-return-to-office/)
+* [![](https://cdn.mos.cms.futurecdn.net/Nhy7xmyBmTQjk2s5vErMCU-1200-80.jpg)](https://digitpatrox.com/embracing-the-future-a-visionary-cios-perspective-on-predictable-certainties-and-innovation/)
     
-    [Why ‘space as a service’ is helping businesses meet worker demands – even as tech execs push ‘return to office’](https://digitpatrox.com/why-space-as-a-service-is-helping-businesses-meet-worker-demands-even-as-tech-execs-push-return-to-office/)
+    [Embracing the future: A visionary CIO’s perspective on predictable certainties and innovation](https://digitpatrox.com/embracing-the-future-a-visionary-cios-perspective-on-predictable-certainties-and-innovation/)
     
-    2 hours ago
+    3 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3599509-0-95306200-1730826069-Apple-Intelligence-hero.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-chatgpt-works-with-ios-18-2-iphones-and-siri-computerworld/)
+    
+    [How ChatGPT works with iOS 18.2 iPhones and Siri – Computerworld](https://digitpatrox.com/how-chatgpt-works-with-ios-18-2-iphones-and-siri-computerworld/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [45 seconds ago
+* [1 hour ago
     
-    ### Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://digitpatrox.com/interpol-disrupts-cybercrime-activity-on-22000-ip-addresses-arrests-41/)
-* [18 mins ago
+    ### US warns of last-minute Iranian and Russian election influence ops](https://digitpatrox.com/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/)
+* [1 hour ago
     
-    ### Suzuki teams up with Toyota on its first EV: the E Vitara](https://digitpatrox.com/suzuki-teams-up-with-toyota-on-its-first-ev-the-e-vitara/)
-* [36 mins ago
+    ### How to stop the Electoral College from invading your home screen](https://digitpatrox.com/how-to-stop-the-electoral-college-from-invading-your-home-screen/)
+* [2 hours ago
     
-    ### Today’s Wordle Answer and Hints (November 6, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-6-2024/)
+    ### Anime Battle Arena (ABA) Private Server Codes (November 2024)](https://digitpatrox.com/anime-battle-arena-aba-private-server-codes-november-2024/)
 
 Most Popular Topics
 
-* [September 21, 2024
+* [3 days ago
     
-    ### Style That You Don’t Get From Apple](https://digitpatrox.com/style-that-you-dont-get-from-apple/)
-* [September 5, 2024
+    ### Microsoft Outlook workaround fixes freezes when copying text](https://digitpatrox.com/microsoft-outlook-workaround-fixes-freezes-when-copying-text/)
+* [4 days ago
     
-    ### test – tablespress table – Comparitech](https://digitpatrox.com/test-tablespress-table-comparitech/)
-* [3 weeks ago
+    ### Apple’s AirTags have dropped to one of their best prices to date](https://digitpatrox.com/apples-airtags-have-dropped-to-one-of-their-best-prices-to-date/)
+* [September 20, 2024
     
-    ### Unknown 9 Awakening Review: A Failed Implementation to a Fantastical Story](https://digitpatrox.com/unknown-9-awakening-review-a-failed-implementation-to-a-fantastical-story/)
+    ### Best Exterior Paints of 2024](https://digitpatrox.com/best-exterior-paints-of-2024/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### How to Quickly Pack Up a Hotel Room Without Forgetting Anything](https://digitpatrox.com/how-to-quickly-pack-up-a-hotel-room-without-forgetting-anything/)
-* [3 hours ago
+    ### Is It Time to Get a TV Antenna?](https://digitpatrox.com/is-it-time-to-get-a-tv-antenna/)
+* [4 hours ago
     
-    ### Common Venmo scams and how to avoid them](https://digitpatrox.com/common-venmo-scams-and-how-to-avoid-them/)
-* [3 hours ago
+    ### How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://digitpatrox.com/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
+* [5 hours ago
     
-    ### How to enable Ultimate Performance power mode on Windows 11, 10](https://digitpatrox.com/how-to-enable-ultimate-performance-power-mode-on-windows-11-10/)
+    ### Microsoft and Nvidia are teaming up to support UK AI startups – and they want to attract firms outside of London and the South East](https://digitpatrox.com/microsoft-and-nvidia-are-teaming-up-to-support-uk-ai-startups-and-they-want-to-attract-firms-outside-of-london-and-the-south-east/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 28, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
