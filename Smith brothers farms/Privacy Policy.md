@@ -188,7 +188,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (50)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (53)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (30)](https://www.smithbrothersfarms.com/on-special)
         
@@ -310,12 +310,12 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (49)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (52)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
         * [Juice & Tea (23)](https://www.smithbrothersfarms.com/juice-3)
             
-        * [Coffee (26)](https://www.smithbrothersfarms.com/coffee-2)
+        * [Coffee (29)](https://www.smithbrothersfarms.com/coffee-2)
             
         
     * [Snacks (36)](https://www.smithbrothersfarms.com/snacks)
