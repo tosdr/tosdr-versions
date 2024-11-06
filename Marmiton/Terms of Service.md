@@ -39,6 +39,7 @@ Connexion
     * [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
     * [Promo](https://promo.marmiton.org/)
     * [Accords mets & vins avec Vinatis](https://www.marmiton.org/shopping/decouvrez-vinatis-votre-e-caviste-de-confiance-pour-l-achat-de-vins-en-ligne-s4089602.html)
+    * [Recettes réconfortantes pour l’automne avec](https://www.marmiton.org/recettes/recette-meme-auteur.aspx?pseudo=recettesjacquet)
 * Mes aides à la cuisine
     * [Table de conversion](https://www.marmiton.org/pratique/table-conversion.aspx)
     * [Mon Frigo](https://www.marmiton.org/recettes)
