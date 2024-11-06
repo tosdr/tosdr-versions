@@ -346,6 +346,7 @@ Feature Reference
 * [Rollbar REST API](https://docs.rollbar.com/reference)
 * [Usage](https://docs.rollbar.com/docs/usage)
 * [More Integrations](https://docs.rollbar.com/docs/other-integrations)
+    * [DevCycle](https://docs.rollbar.com/docs/devcycle)
     * [Bird Eats Bug](https://docs.rollbar.com/docs/bird-eats-bug)
     * [DataGrail](https://docs.rollbar.com/docs/datagrail)
     * [Fivetran](https://fivetran.com/docs/applications/rollbar)
