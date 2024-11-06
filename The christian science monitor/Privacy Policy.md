@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Innovation
+
+### Crops, cows, and solar panels? Why farmers are harvesting sunlight.](https://www.csmonitor.com/Environment/2024/1106/agrivoltaics-solar-power-farmers "Crops, cows, and solar panels? Why farmers are harvesting sunlight.")
+
 [Compassion
 
 ### Mud boots of empathy in Spain](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1105/Mud-boots-of-empathy-in-Spain "Mud boots of empathy in Spain")
@@ -99,10 +103,6 @@ Recent Stories
 [Trust
 
 ### James Madison foresaw the big question worrying voters. What did he say?](https://www.csmonitor.com/Commentary/From-the-Editors/2024/1105/James-Madison-foresaw-the-big-question-worrying-voters.-What-did-he-say "James Madison foresaw the big question worrying voters. What did he say?")
-
-[Innovation
-
-### This app developer is giving displaced young Nigerians an educational lifeline](https://www.csmonitor.com/World/Making-a-difference/2024/1105/nigeria-flowdiary-app-displaced-people "This app developer is giving displaced young Nigerians an educational lifeline")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
