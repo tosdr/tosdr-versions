@@ -166,6 +166,18 @@ United States (USD $)
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
 
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+* Please note we are currently experiencing technical difficulties with our phones. Please email help@bosu.com
+
 Terms of service
 ================
 
