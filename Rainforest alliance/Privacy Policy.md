@@ -368,7 +368,7 @@ general or business(Required)
 
  Send me business updates
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -403,19 +403,19 @@ The Rainforest Alliance is a 501(c)(3) Nonprofit registered in the US under EIN:
 
 [Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/RainforestAlliance)[](https://www.instagram.com/rainforestalliance)[](https://www.linkedin.com/company/rainforest-alliance)[](https://www.tiktok.com/@rainforestalliance)[](https://www.youtube.com/user/rainforestalliance)
 
-Rainforest Match Active
+People & Forests
 
-Double your impact against deforestation.
-
+Support nature’s guardians.  
 Act now!
 
 [Give Today](#)
 
 X
 
-People & Forests
+Rainforest Match Active
 
-Support nature’s guardians.  
+Double your impact against deforestation.
+
 Act now!
 
 [Give Today](#)
