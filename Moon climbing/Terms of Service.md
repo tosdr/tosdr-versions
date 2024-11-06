@@ -80,7 +80,7 @@ About Us
 
 [Sustainability](https://moonclimbing.com/sustainability "Sustainability") [History](https://moonclimbing.com/about-moon "History")
 
-[shopping bag](https://moonclimbing.com/checkout/cart/index/)[favorites](https://moonclimbing.com/wishlist/)[login / register](https://moonclimbing.com/customer/account/index/)
+[shopping bag](https://moonclimbing.com/checkout/cart/index/)[favorites](https://moonclimbing.com/wishlist/)[login / register](https://moonclimbing.com/customer/account/create/)
 
  ![UK shop](https://moonclimbing.com/static/version1727245739/frontend/Moon/hyva/en_GB/images/flag-uk.svg) UK shop
 
