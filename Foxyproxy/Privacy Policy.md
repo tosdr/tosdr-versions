@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I really appreciate the excellent & prompt customer support that your company provides; many thanks again.
+My review is that it worked perfectly. I will use again when abroad for more than a weekend (used it for iPlayer outside the UK).
 
-Louise Berry
+e.norris@mac.com
