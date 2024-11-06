@@ -1,6 +1,6 @@
-**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,19 +126,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Byron York Amid Poll Flap, Celebrities Rush Contributions to Harris Campaign](https://patriotpost.us/opinion/111715-amid-poll-flap-celebrities-rush-contributions-to-harris-campaign-2024-11-06)
+*      [Betsy McCaughey TB — The Silent Killer Crossing Our Border](https://patriotpost.us/opinion/111711-tb-the-silent-killer-crossing-our-border-2024-11-06)
+*      [Tim Graham The Media Are Egotistical Exaggerators and Liars](https://patriotpost.us/opinion/111710-the-media-are-egotistical-exaggerators-and-liars-2024-11-06)
 *      [Allen West November 6, 2024](https://patriotpost.us/opinion/111714-november-6-2024-2024-11-05)
 *      [Rich Lowry The Media on the Ballot](https://patriotpost.us/opinion/111713-the-media-on-the-ballot-2024-11-05)
 *      [Ian Haworth Kemi Badenoch Teaches Us a Lesson on Race](https://patriotpost.us/opinion/111712-kemi-badenoch-teaches-us-a-lesson-on-race-2024-11-05)
 *      [Dennis Prager Calling Trump ‘Hitler’ Has Done Permanent Damage to the Moral Realm](https://patriotpost.us/opinion/111685-calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm-2024-11-05)
 *      [Victor Joecks Harris Is Wearing ‘The Emperor’s New Clothes’](https://patriotpost.us/opinion/111683-harris-is-wearing-the-emperors-new-clothes-2024-11-05)
-*      [Salena Zito Trump Has Reason in Pennsylvania to Feel Better Than Harris](https://patriotpost.us/opinion/111686-trump-has-reason-in-pennsylvania-to-feel-better-than-harris-2024-11-05)
-*      [Stephen Moore Thank God for the Electoral College](https://patriotpost.us/opinion/111681-thank-god-for-the-electoral-college-2024-11-05)
-*      [Gary Bauer Poll Position](https://patriotpost.us/opinion/111680-poll-position-2024-11-05)
-*      [Daniel McCarthy How Politics Hasn’t Changed Since Jefferson](https://patriotpost.us/opinion/111682-how-politics-hasnt-changed-since-jefferson-2024-11-05)
-*      [Cal Thomas Is It Too Early to Talk 2028?](https://patriotpost.us/opinion/111684-is-it-too-early-to-talk-2028-2024-11-05)
-*      [Christine Flowers Newspapers Aren’t Giving Liberals the Validation They Need](https://patriotpost.us/opinion/111692-newspapers-arent-giving-liberals-the-validation-they-need-2024-11-05)
-*      [Guest Commentary On Election Integrity](https://patriotpost.us/opinion/111701-on-election-integrity-2024-11-05)
-*      [The Babylon Bee Democrats Warn That if Trump Is Elected It Will Be the End of Bureaucracy as We Know It](https://patriotpost.us/opinion/111679-democrats-warn-that-if-trump-is-elected-it-will-be-the-end-of-bureaucracy-as-we-know-it-2024-11-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -152,7 +147,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
