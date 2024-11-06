@@ -36,18 +36,18 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![Google Cloud to make MFA mandatory by the end of 2025](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Google Cloud to make MFA mandatory by the end of 2025](https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/)
+    * [![Future IT workers can learn ethical hacking in this $50 bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Future IT workers can learn ethical hacking in this $50 bundle](https://www.bleepingcomputer.com/offer/deals/future-it-workers-can-learn-ethical-hacking-in-this-50-bundle/)
     * [![Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://www.bleepingcomputer.com/news/security/interpol-disrupts-cybercrime-activity-on-22-000-ip-addresses-arrests-41/)
     * [![US warns of last-minute Iranian and Russian election influence ops](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         US warns of last-minute Iranian and Russian election influence ops](https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/)
-    * [![Suspect behind Snowflake data-theft attacks arrested in Canada](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Suspect behind Snowflake data-theft attacks arrested in Canada](https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/)
-    * [![Google fixes two Android zero-days used in targeted attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Google fixes two Android zero-days used in targeted attacks](https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-used-in-targeted-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
