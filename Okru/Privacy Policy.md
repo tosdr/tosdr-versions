@@ -16,7 +16,7 @@ Close
 
 Stop Cyberbullying Day
 
-11.11 is Anti-Cyberbullying Day. 💛 It's a sign of love and support to help defeat online hate.](https://ok.ru/dk?st.cmd=anonymMain)
+We are united in the fight against online bullying and encourage everyone to be kinder to each other!](https://ok.ru/dk?st.cmd=anonymMain)
 
 English
 
