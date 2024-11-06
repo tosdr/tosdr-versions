@@ -108,7 +108,7 @@ Anzeigen
     * Hell
     * Dunkel
 
-[**Eilmeldung** 08:29 Uhr Trump erklärt sich vorzeitig zum Wahlsieger](https://www.zeit.de/politik/ausland/2024-11/trump-erklaert-sich-vorzeitig-zum-wahlsieger)
+[**Eilmeldung** 14:02 Uhr Sondierungen von CDU, SPD und BSW in Sachsen gescheitert](https://www.zeit.de/politik/deutschland/2024-11/sondierungen-von-cdu-spd-und-bsw-in-sachsen-gescheitert)
 
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
