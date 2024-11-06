@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess AU's favorite irl country (625)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (625 posts)")
-* [American Politics: Judgement Day, Thr… (8,920)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Judgement Day, Thread the First" (8,920 posts)")
-* [Grant AN's wish then curse it (946)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (946 posts)")
-* [2 Lies & a Truth (10)](https://forum.nationstates.net/viewtopic.php?t=557808&f=25&view=unread#unread ""2 Lies & a Truth" (10 posts)")
-* [Favorite line from AN's Factbooks II (11,857)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (11,857 posts)")
+* [People not voting Kamala because of G… (368)](https://forum.nationstates.net/viewtopic.php?t=557663&f=20&view=unread#unread ""People not voting Kamala because of Gaza, who are you voting" (368 posts)")
+* [Guess the AU's music taste (313)](https://forum.nationstates.net/viewtopic.php?t=554486&f=25&view=unread#unread ""Guess the AU's music taste" (313 posts)")
+* [American Politics: A Man's World (10,436)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: A Man's World" (10,436 posts)")
+* [UK Politics Thread: Kemi Badenoch ele… (12,134)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,134 posts)")
+* [Empires: 2024 REVIVED IC (134)](https://forum.nationstates.net/viewtopic.php?t=557841&f=31&view=unread#unread ""Empires: 2024 REVIVED IC" (134 posts)")
 
 Advertisement
 
