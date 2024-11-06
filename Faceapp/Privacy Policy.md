@@ -239,6 +239,7 @@ United Kingdom
 
 * [Privacy Policy](https://faceapp.com/privacy/)
 * [Terms](https://faceapp.com/terms/)
+* [Cookie Preferences](#cookie-preferences)
 
 ### Social
 
