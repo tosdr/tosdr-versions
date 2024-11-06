@@ -274,4 +274,4 @@ Thank you for your interest in a career opportunity with Closets by Design. To f
 
  
 
-![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=2129477524259968f2c1edc-f6ae-4d0c-96cf-4085b00d90f8&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=2129477524259963c0db5b0-0bd0-4a40-a0cd-b1824ec835a0&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
