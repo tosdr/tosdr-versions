@@ -266,12 +266,12 @@ Most Popular
 [Throwback Tuesday: Out and About @ Dormans (2011)](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
+[![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry Death Notices - Tuesday, November 5, 2024](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Down Memory Lane: Spooktacular night for 2012 Banks of the Foyle Hallowe'en Carnival](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man charged with theft, possession of cannabis and possession of a knife remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with theft, possession of cannabis and possession of a knife remanded")](https://www.derrynow.com/news/local-news/1647826/man-charged-with-theft-possession-of-cannabis-and-possession-of-a-knife-remanded.html)
 
@@ -289,12 +289,12 @@ Derry courthouse
 [Trial date for Donegal man charged with rape may not now take place until next year](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
+[![PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer")](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Down Memory Lane: Spooktacular night for 2012 Banks of the Foyle Hallowe'en Carnival](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [!['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Viable suspected pipe bomb' removed from Bogside area following Derry security alert")](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
 
@@ -304,13 +304,6 @@ Police cordon at the scene of last night's security alert in the Limewood Street
 
 ['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer")](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Irish farmers on alert as rare vintage tractors from private collection on offer](https://www.derrynow.com/news/national-news/1647975/pictures-irish-farmers-on-alert-as-rare-vintage-tractors-from-private-collection-on-offer.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Christmas Tree in Guildhall Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas Tree in Guildhall Square")](https://www.derrynow.com/poll/derry-news/1647713/poll-is-it-too-early-for-christmas-decorations-to-go-up-in-november.html)
 
@@ -338,6 +331,15 @@ Harris v Trump
 
 [Poll: Derry - who will be the next President of the United States of America; Trump or Harris?](https://www.derrynow.com/poll/derry-news/1647785/poll-derry-who-will-be-the-next-president-of-the-united-states-of-america-trump-or-harris.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)")](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
+
+Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry-based baby loss foundation launched](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, November 6, 2024](https://www.derrynow.com/news/deaths/1648174/derry-death-notices-wednesday-november-6-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Leading mental health charity AWARE NI announces new partnership with Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading mental health charity AWARE NI announces new partnership with Derry GAA")](https://www.derrynow.com/news/home/1648222/leading-mental-health-charity-aware-ni-announces-new-partnership-with-derry-gaa.html)
 
 Leigh Osborne and Bridie Kelly from AWARE NI with Derry GAA Chairman, John Keenan along with Health & Wellbeing Officer Geraldine McKay and Children’s Officer Michelle Friel.
@@ -524,7 +533,7 @@ Leigh Osborne and Bridie Kelly from AWARE NI with Derry GAA Chairman, John Keena
 [Leading mental health charity AWARE NI announces new partnership with Derry GAA](https://www.derrynow.com/news/home/1648222/leading-mental-health-charity-aware-ni-announces-new-partnership-with-derry-gaa.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)")](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
+[![Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)](https://www.derrynow.com/resizer/165/93/true/2024_11_05/Cara_Hunter_MLA_East_Derry_and_Selina_Casey-1730808133528.jpg--.jpg?1730808133982 "Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)")](https://www.derrynow.com/news/county-derry-post/1647824/county-derry-based-baby-loss-foundation-launched.html)
 
 Cara Hunter (East Derry MLA) and Selina Casey (The White Butterfly Foundation)
 
@@ -559,13 +568,6 @@ Mayor Lilian Seenoi-Barr, launching the 2024 Christmas Programme for Derry and S
 
 [Derry set to celebrate Christmas with feast of festive fun and frolics](https://www.derrynow.com/news/local-news/1647963/derry-set-to-celebrate-christmas-with-feast-of-festive-fun-and-frolics.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with theft, possession of cannabis and possession of a knife remanded](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man charged with theft, possession of cannabis and possession of a knife remanded")](https://www.derrynow.com/news/local-news/1647826/man-charged-with-theft-possession-of-cannabis-and-possession-of-a-knife-remanded.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with theft, possession of cannabis and possession of a knife remanded](https://www.derrynow.com/news/local-news/1647826/man-charged-with-theft-possession-of-cannabis-and-possession-of-a-knife-remanded.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
