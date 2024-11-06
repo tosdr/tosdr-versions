@@ -147,7 +147,7 @@ Bei den nachfolgenden Online-Angeboten sind individuelle Datenschutzinformatione
 [heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html)  
 [heise shop und Abonnements](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-den-heise-shop-und-Abonnements-4058176.html)  
 [heise Academy und heise Academy Events](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-Academy-und-heise-Academy-Events-4058183.html)  
-[TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-TechStage-4058219.html)  
+[bestenlisten by TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-bestenlisten-by-TechStage-4058219.html)  
 [Mobile Apps](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-mobile-Apps-4058239.html)  
 [heise jobs](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-jobs-6014870.html)  
 [Heise Business Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Heise-Business-Services-7099857.html)  
@@ -745,8 +745,8 @@ Die rasante Entwicklung des Internets macht von Zeit zu Zeit Anpassungen in unse
     
 * 26.01.2021: Anpassung der Nummerierung für die Punkte ab 9.
 * 10.03.2021: Entfernung von Punkt 14, "Criteo" aus den [individuellen Datenschutzinformationen für heise online](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) und Anpassung der folgenden Nummerierung.
-* 17.03.2021: Erweiterung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-TechStage-4058219.html) um Punkt 10, "Ringier"
-* 06.04.2021: Änderung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-TechStage-4058219.html) und damit einhergehend die Entfernung der Punkte "Google Tag Manager", "Chartbeat", "Google Doubleclick for Publishers (DFP)", "AdDefend" und "Gravatar" sowie die Anpassung der Nummerierung
+* 17.03.2021: Erweiterung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-bestenlisten-by-TechStage-4058219.html) um Punkt 10, "Ringier"
+* 06.04.2021: Änderung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-bestenlisten-by-TechStage-4058219.html) und damit einhergehend die Entfernung der Punkte "Google Tag Manager", "Chartbeat", "Google Doubleclick for Publishers (DFP)", "AdDefend" und "Gravatar" sowie die Anpassung der Nummerierung
 * 20.04.2021: Erweiterung der [Datenschutzerklärung der Heise Medien GmbH & Co. KG](https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html) um die [individuelle Datenschutzinformationen für heise jobs](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-jobs-6014870.html)
 * 20.04.2021: Änderung von Punkt 8.5 - "Usercentrics Consent Management Plattform" wurde durch "Sourcepoint Consent Management Plattform" ersetzt
 * 26.04.2021: Entfernung von Punkt 3, "Yieldlab" aus den [individuellen Datenschutzinformationen für heise online](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) und Anpassung der Nummerierung der darauf folgenden Punkte.
@@ -758,8 +758,8 @@ Die rasante Entwicklung des Internets macht von Zeit zu Zeit Anpassungen in unse
 * 01.12.2021: Diverse Anpassungen zum Inkraftreten des Gesetzes zur Regelung des Datenschutzes und des Schutzes der Privatsphäre in der Telekommunikation und bei Telemedien (TDDDG).
 * 02.12.2021: Ergänzung des cookielosen Messverfahrens „INFOnline Measurement: Zensusmessung“ unter Punkt 8.1 "InfOnline".
 * 21.01.2022: Zusammenlegung der Unterpunkte "heise Academy" und "heise Events" sowie diverse weitere Änderungen.
-* 04.02.2022: Erweiterung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-TechStage-4058219.html) um Punkt 7, "guenstiger.de"
-* 27.02.2023: Erweiterung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-TechStage-4058219.html) um Punkt 9, "Trackonomics"
+* 04.02.2022: Erweiterung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-bestenlisten-by-TechStage-4058219.html) um Punkt 7, "guenstiger.de"
+* 27.02.2023: Erweiterung der [individuellen Datenschutzinformationen für TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-bestenlisten-by-TechStage-4058219.html) um Punkt 9, "Trackonomics"
 * 03.04.2023: Textliche Anpassungen bei den Punkten 7.1, 7.2, 7.3.
 * 03.04.2023: Hinzufügen von Punkt 7.4 "Dienste ohne Consent"
 * 03.04.2023: Textliche Anpassungen bei Punkt 6, "Cloudimage", der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html)
