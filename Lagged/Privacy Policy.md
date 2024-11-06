@@ -251,7 +251,7 @@ Games you might like
 
 [Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
 
-[Two Cats Duet](https://lagged.com/en/g/two-cats-duet) ![Two Cats Duet Game](https://imgs2.dab3games.com/two-cats-duet-ft44.png)
+[Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://imgs2.dab3games.com/marble-run-3d-ft1942.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
