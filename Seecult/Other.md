@@ -375,44 +375,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.msub.org.rs](https://www.msub.org.rs/)
     
-    [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
-    
-    **06.09.2024 | 10:00**
-    
-    Muzej savremene umjetnosti Republike Srpske, Trg Srpskih Junaka 2, Banja Luka
-    
-    **NEW ERA: UMJETNIČKI DISKURSI O DRUŠTVENIM I KLIMATSKIM PROMJENAMA** - grupna intermedijska izložba (5.9.-5.11.2024.)
-    
-    **Igor Bošnjak**
-    
-    **Isidora Branković**
-    
-    **Jovan Došenović**
-    
-    **Dejan Marković**
-    
-    **Marija Marković**
-    
-    **Danilo Milovanović DNLM**
-    
-    **Bojan Mrđenović**
-    
-    **Helena Tahir**
-    
-    **Nikola Tomić**
-    
-    **Adrien Ujhazi**
-    
-    **Umjetnička grupa diSTRUKTURA**
-    
-    **Umjetnička grupa PLATEAURESIDUE**
-    
-    Kustosi izložbe: Mladen Banjac (MSURS), Miha Colner (GBJ), dr Sanja Kojić Mladenov (MSUV)
-    
-    organizacija: Muzej savremene umjetnosti Republike Srpske, Muzej savremene umetnosti Vojvodine iz Novog Sada i Galerija Božidar Jakac - Muzej moderne i savremene umjetnosti iz Kostanjevice na Krki
-    
-    [http://msurs.net](http://msurs.net/)
-    
     [11:00 Misterij majstora Fortezze - Europska baština šibenskoga gravera, ZG](javascript:void(0);)
     
     **11.09.2024 | 11:00**
@@ -431,14 +393,46 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://gkd.hr](https://gkd.hr/)
     
+    [10:00 Odprti globus, LJ](javascript:void(0);)
+    
+    **12.09.2024 | 10:00**
+    
+    **[Cankarjev dom, Ljubljana](http://seecult.org/institucija/cankarjev-dom-ljubljana)**
+    
+    **ODPRTI GLOBUS / GOING GLOBAL - Umetnost milenijske generacije / Millennial generation art** - razstava (11.9.-28.11.2024.)
+    
+    **Katarina Caserman**
+    
+    **Evgen Čopi Gorišek**
+    
+    **Meta Drčar**
+    
+    **Živa Drvarič**
+    
+    **Katja Felle**
+    
+    **Jure Kastelic**
+    
+    **Gašper Kunšič**
+    
+    **Dino Kužnik**
+    
+    **Nana Wolke**
+    
+    **Jana Zornik**
+    
+    kuratorka: Katarina Hergouth, mag. um. zgod.
+    
+    [https://www.cd-cc.si/kultura/razstave](https://www.cd-cc.si/kultura/razstave)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popović, Performance Axioms, SKC, Belgrade 1972](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran-popovic-aksiomi/axioms/zoran-popovic-aksiomi-kristina-stiles-moma.jpg?itok=AgVa1YYZ)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran-3)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-hollywood/holivud.jpg?itok=N4LtBFQr)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-hollywood)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/alex-chilton-foto.jpg?itok=5fmEpesq)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/stubovi.jpg?itok=x61xSVa4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -454,7 +448,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Šta zaista znači biti zajedno](http://seecult.org/vest/sta-zaista-znaci-biti-zajedno)
 * [Zabrana radova na Beogradskoj tvrđavi](http://seecult.org/vest/zabrana-radova-na-beogradskoj-tvrdavi)
+* [Početak 22. ZFF-a u znaku Proslave](http://seecult.org/vest/pocetak-22-zff-u-znaku-proslave)
 * [Mogućnost raja Mladena Kovačevića na 30. FAF-u](http://seecult.org/vest/mogucnost-raja-mladena-kovacevica-na-30-faf-u)
 * [Retrospektiva Jovana Kratohvila](http://seecult.org/vest/retrospektiva-jovana-kratohvila)
 * [28\. FKM – Mesto naše slodode](http://seecult.org/vest/28-fkm-mesto-nase-slodode)
@@ -462,8 +458,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Dualnost Milene Pavlović Barili](http://seecult.org/vest/dualnost-milene-pavlovic-barili)
 * [Domaći filmovi na DOK Lajpcigu](http://seecult.org/vest/domaci-filmovi-na-dok-lajpcigu)
 * [Odloženi brojni događaji zbog žalosti](http://seecult.org/vest/odlozeni-brojni-dogadaji-zbog-zalosti)
-* [Legat Milana Mladenovića u NBS](http://seecult.org/vest/legat-milana-mladenovica-u-nbs)
-* [Automatski crtež](http://seecult.org/vest/automatski-crtez)
 
 * [Konkursi](#tab1_1)
 
