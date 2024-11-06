@@ -207,25 +207,25 @@ Menü
 
 [BreakingNews
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne
 
-Israel-Premier Netanjahu feuert Verteidigungsminister](https://www.bild.de/politik/ausland-und-internationales/israel-hammer-netanjahu-feuert-seinen-verteidigungsminister-672a5e8aebdb8724738e98c7)
+Wahl-Krimi in den USA +++ Stimmen-Auszählung hat jetzt begonnen +++ Im US-Bundesstaat Indiana liegt Trump deutlich vorne](https://www.bild.de/politik/ausland-und-internationales/trump-gegen-harris-der-wahlkampf-in-den-usa-im-liveticker-672348a1f7653a077c0e8a27)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
