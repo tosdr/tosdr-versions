@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/504/trump_cryystal.jpg "What's With All The Jokes About Donald Trump Trapping Liberals In Crystals? The Bizarre Meme Trend Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/528/hit_or_misssss.jpg "Where Are They Now? Here's What Nyannyancosplay, AKA The 'Hit or Miss Girl,' Has Been Up To Since Her Viral TikTok Era In 2018")
     
-    What's With All The Jokes About Donald Trump Trapping Liberals In Crystals? The Bizarre Meme Trend Explained](https://knowyourmeme.com/editorials/guides/whats-with-all-the-jokes-about-donald-trump-trapping-liberals-in-crystals-the-bizarre-meme-trend-explained)
+    Where Are They Now? Here's What Nyannyancosplay, AKA The 'Hit or Miss Girl,' Has Been Up To Since Her Viral TikTok Era In 2018](https://knowyourmeme.com/editorials/guides/where-are-they-now-heres-what-nyannyancosplay-aka-the-hit-or-miss-girl-has-been-up-to-since-her-viral-tiktok-era-in-2018)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/503/brent-peterson-explainer.jpg "Who Is Brent Peterson And Is He Running For President In 2024? TikTok's Leading Candidate Explained")
+* [![Trump's victory speech](https://i.kym-cdn.com/featured_items/icons/wide/000/026/527/db4.jpg "Donald Trump Has Won The U.S. Presidency Once Again As Memes And Reactions Dominate Social Media")
     
-    Who Is Brent Peterson And Is He Running For President In 2024? TikTok's Leading Candidate Explained](https://knowyourmeme.com/editorials/guides/who-is-brent-peterson-and-is-he-running-for-president-in-2024-tiktoks-leading-candidate-explained)
+    Donald Trump Has Won The U.S. Presidency Once Again As Memes And Reactions Dominate Social Media](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/502/cybergoth_rave.jpg "What Is The Cybergoth Dance Party Video, And Did Someone Find An Alternate Angle Of It?")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/526/jeb-bush-meme.jpg "What's The Jeb Bush Election Map Meme? Jeb's 'Flawless Victory' And 'Sweep' Explained")
     
-    What Is The Cybergoth Dance Party Video, And Did Someone Find An Alternate Angle Of It?](https://knowyourmeme.com/editorials/guides/what-is-the-cybergoth-dance-party-and-did-someone-find-an-alternate-angle-of-it-the-iconic-viral-video-and-meme-explained)
+    What's The Jeb Bush Election Map Meme? Jeb's 'Flawless Victory' And 'Sweep' Explained](https://knowyourmeme.com/editorials/guides/whats-the-jeb-bush-election-map-meme-jebs-flawless-victory-and-sweep-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/501/p2.jpg "Who Is Robert J. O'Neill And What Did He Say About Making Male Harris Voters His 'Concubines?' The Viral Tweet Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/525/dvucover.jpg "Who Is David Vujanić, aka Vuj? The Man Behind The 'Awkward White People Smile' Meme Revealed")
     
-    Who Is Robert J. O'Neill And What Did He Say About Making Male Harris Voters His 'Concubines?' The Viral Tweet Explained](https://knowyourmeme.com/editorials/guides/who-is-robert-j-oneill-and-what-did-he-say-about-making-male-kamala-harris-voters-his-concubines-the-viral-twitter-post-explained)
+    Who Is David Vujanić, aka Vuj? The Man Behind The 'Awkward White People Smile' Meme Revealed](https://knowyourmeme.com/editorials/guides/who-is-david-vujanic-aka-vuj-the-man-behind-the-awkward-white-people-smile-meme-revealed)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/500/Keep_Kamala_meme_cover_(2).jpg "What Is The 'Keep Kamala and Carry Onala' Meme? The Kamala Harris Slogan From 'SNL' Explained")
+* [![Indonesia Bans The iPhone 16 After Apple Demands It Not Be Taxed In The Country For Fifty Years](https://i.kym-cdn.com/featured_items/icons/wide/000/026/524/no_iphone_16.jpg "Indonesia Bans The iPhone 16 After Apple Demands It Not Be Taxed In The Country For Fifty Years")
     
-    What Is The 'Keep Kamala and Carry Onala' Meme? The Kamala Harris Slogan From 'SNL' Explained](https://knowyourmeme.com/editorials/guides/what-is-the-keep-kamala-and-carry-onala-meme-the-kamala-harris-slogan-from-snl-explained)
+    Indonesia Bans The iPhone 16 After Apple Demands It Not Be Taxed In The Country For Fifty Years](https://knowyourmeme.com/memes/events/iphone-16-ban-in-indonesia)
     
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Peanut the Squirrel](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel") [Shoot Down That Flag](https://knowyourmeme.com/memes/shoot-down-that-flag "Shoot Down That Flag") [Trump Trapping Liberals In Crystals](https://knowyourmeme.com/memes/donald-trump-trapping-liberals-in-crystals "Trump Trapping Liberals In Crystals") [Robert O'Neill 'Concubines' Post](https://knowyourmeme.com/memes/events/robert-j-oneill-concubines-twitter-post "Robert O'Neill 'Concubines' Post") [Ahoo Daryaei Stripping In Iran Protest](https://knowyourmeme.com/memes/events/ahoo-daryaei-stripping-in-iran-protest "Ahoo Daryaei Stripping In Iran Protest")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
