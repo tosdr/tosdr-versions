@@ -76,7 +76,7 @@ article4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-pr
 
 ### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
 
-article23 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article1 day ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
 
-article 23 hours ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
+article 1 day ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
 
 4 min read
 
@@ -291,7 +291,7 @@ article 5 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cel
 
 ### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
 
-article 23 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
 
 4 min read
 
@@ -351,25 +351,25 @@ article 5 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nas
 
 ### Highlights
 
-[![Mars Surface Science Workshops (MSSW)](https://science.nasa.gov/wp-content/uploads/2024/10/mars-crater-rim.jpeg)
+[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
+
+3 min read
+
+### Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
+
+article 5 hours ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)[![Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/1500/WIYN.jpeg)
+
+1 min read
+
+### Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.
+
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/)[![Mars Surface Science Workshops (MSSW)](https://science.nasa.gov/wp-content/uploads/2024/10/mars-crater-rim.jpeg)
 
 2 min read
 
 ### Mars Surface Science Workshops (MSSW)
 
-article 3 hours ago](https://science.nasa.gov/planetary-science/resources/documents/mars-surface-science-workshops/)[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
-
-5 min read
-
-### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
-
-article 23 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
-
-2 min read
-
-### NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
-
-article 1 day ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)
+article 8 hours ago](https://science.nasa.gov/planetary-science/resources/documents/mars-surface-science-workshops/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-
 
 ### From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 
-article 7 hours ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![A screenshot of visual inspection software showing a prepared meal, highlighting green beans.](https://www.nasa.gov/wp-content/uploads/2024/10/ar-live-view-1.png?w=1024)
+article 12 hours ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![A screenshot of visual inspection software showing a prepared meal, highlighting green beans.](https://www.nasa.gov/wp-content/uploads/2024/10/ar-live-view-1.png?w=1024)
 
 2 min read
 
@@ -417,25 +417,25 @@ article 6 days ago](https://www.nasa.gov/general/nasa-technologies-named-among-t
 
 ### Featured
 
-[![Professional Learning: Using Children’s Books to Build STEM Habits of Mind](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/STEMbooks_24-10-14-Shannon_Verstynen.jpg)
+[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
+
+3 min read
+
+### Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
+
+article 5 hours ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)[![Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/1500/WIYN.jpeg)
+
+1 min read
+
+### Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.
+
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/)[![Professional Learning: Using Children’s Books to Build STEM Habits of Mind](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/STEMbooks_24-10-14-Shannon_Verstynen.jpg)
 
 3 min read
 
 ### Professional Learning: Using Children’s Books to Build STEM Habits of Mind
 
-article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
-
-8 min read
-
-### Artemis I Moon Tree Stewards
-
-article 5 days ago](https://www.nasa.gov/learning-resources/artemis-i-moon-tree-stewards/)[![Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/WestLab2-Amy-Padolf.png)
-
-2 min read
-
-### Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
-
-article 1 week ago](https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/)
+article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)
 
 ### Featured
 
@@ -451,13 +451,13 @@ article 1 month ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-
 
 ### From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 
-article 7 hours ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring](https://science.nasa.gov/wp-content/uploads/2024/11/pia21736-voyager-clean-room-crop.jpg)
+article 12 hours ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring](https://science.nasa.gov/wp-content/uploads/2024/11/pia21736-voyager-clean-room-crop.jpg)
 
 5 min read
 
 ### Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
 
-article 23 hours ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)
+article 1 day ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)
 
 ### Highlights
 
