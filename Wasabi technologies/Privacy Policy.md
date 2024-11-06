@@ -26,7 +26,7 @@ Data Processing Agreement
   
   
 
-[Company](https://wasabi.com/legal/data-processing-agreement?fbclid=IwZXh0bgNhZW0CMTEAAR3lP2DJy0sCEkj1Yl9Ew7IiDsO6B2scxrZ6jqk7KrP6LByN34_-Au9jcjM_aem_V6mh1IS8mct8ww8-yYaSAw#)
+[Company](https://wasabi.com/legal/data-processing-agreement#)
 
 * [About Wasabi](https://wasabi.com/company)
     
