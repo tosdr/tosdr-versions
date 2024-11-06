@@ -128,8 +128,6 @@ Employer Data Aggregation Policy
 
 By opening a Giving Account as part of your company’s benefits offering, you are consenting to share Giving Account activity at an aggregate de-identified level while you remain an employee. This may include but is not limited to total contribution amounts, total grant amounts, and the charitable sectors you give to (but not the names of the individual charities). This does not apply to any Giving Account you are listed on that is not associated with your company. You may opt out of the Employer Data Aggregation policy at any time by calling Fidelity Charitable Donor Services at 800-952-4438.
 
-* * *
-
    [![Fidelity Charitable logo](/content/dam/fc-public/site-design-assets/fc-logos/fidelity-charitable-logo.png/_jcr_content/renditions/viewport-max-p.png)](https://www.fidelitycharitable.org/)
 
 Fidelity Charitable is a 501(c)(3) public charity. We help donors maximize their generosity through our donor-advised fund, called the Giving Account. Established in 1991, we are the nation’s top grantmaker, distributing $11.8 billion to charities in 2023.
