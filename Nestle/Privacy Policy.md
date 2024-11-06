@@ -2206,11 +2206,6 @@ Follow us on
 * [Nestlé Careers](https://twitter.com/NestleCareers)
 * [Consumer Care](https://twitter.com/NestleCare)
 
-Report Concern form modal block
--------------------------------
-
-[Report Concern](https://www.nestle.com/report-concern)
-
 Sub Footer Menu
 ---------------
 
