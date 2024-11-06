@@ -2,7 +2,9 @@
 
 [Skip to content](#content)
 
-[![Supervision Assist](https://supervisionassist.com/wp-content/uploads/2019/12/SA_logo_white-768x73.webp)](https://supervisionassist.com/)
+[![Supervision Assist](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%2073'%3E%3C/svg%3E)
+
+![Supervision Assist](https://supervisionassist.com/wp-content/uploads/2019/12/SA_logo_white-768x73.webp)](https://supervisionassist.com/)
 
 * [PRODUCT](https://supervisionassist.com/product/)
 * [WHY US](https://supervisionassist.com/why-us/)
