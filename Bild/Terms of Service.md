@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!
-
-CNN meldet: Donald Trump Wahlsieger! Trumpback!](https://www.bild.de/politik/ausland-und-internationales/us-wahlen-trump-fuehrt-in-allen-entscheidenden-staaten-672ae6f1ebdb8724738e9d89)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
