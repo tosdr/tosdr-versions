@@ -151,33 +151,3 @@ c/o Rightbridge Ventures AB
 SE-114 26 Stockholm  
 Sweden  
 support@kogama.com
-
-[![KoGaMa Logo](/static/img/logo_bluewhite_7.png)](https://www.kogama.com/ "KoGaMa Logo")
-
-Play, create and share multiplayer games
-
-[![](/static/img/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.multiverse.kogama)
-
-* [](https://discordapp.com/invite/kogama "Kogama Discord")
-* [](https://www.facebook.com/Kogamians/ "Kogama Facebook")
-* [](https://www.instagram.com/kogama_official/?hl=en "Kogama Instagram")
-* [](https://www.youtube.com/user/KoGaMagamemaker "Kogama Youtube")
-* [](https://twitter.com/KOGAMAGAME?lang=da "Kogama Twitter")
-* [](https://www.linkedin.com/company/multiverse-aps/ "Kogama LinkedIn")
-* [](https://multiverseblog.weebly.com/ "Kogama RSS")
-* [](https://kogama.gamepedia.com/Kogama_Wiki "Kogama Fandom")
-
-* [Support](https://www.kogama.com/help/)
-
-[Adventurebox Technology](https://corp.adventurebox.com/en "Adventurebox Technology")
-
-#### About
-
-KoGaMa is one of the largest sources of the best user created online games including parkour games, funny games, arcade games, multiplayer games, internet games, shooting games, RPG games, racing games, adventure games and much more. Tons of comments ratings, gamers of all skill levels are sure to find hot new games every day. On KoGaMa you can create and publish your own games.
-
-© 2011-2024 Multiverse ApS. Kogama is a registered trademark
-
-* [KoGaMa Publishing](https://www.kogama.com/help/publishing/)
-* [Privacy Policy](https://www.kogama.com/help/privacy-policy/)
-* [Terms & Conditions](https://www.kogama.com/help/terms-and-conditions/)
-* [Cookies](https://www.kogama.com/help/cookies/)
