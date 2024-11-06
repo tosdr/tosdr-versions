@@ -66,8 +66,6 @@ Our Vehicles
 
 [Electric vehicles](https://www.fluidtruck.com/vehicles/electric-vehicles)
 
-[List your fleet](#)
-
 [Locations](https://www.fluidtruck.com/locations)
 
 [Help center](https://www.fluidtruck.com/help)
