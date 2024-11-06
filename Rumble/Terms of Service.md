@@ -446,121 +446,159 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Redacted News
+[The Dan Bongino Show
 
-30.3K](https://rumble.com/v5m7j3t-breaking-election-machine-outages-hit-swing-states-men-voting-in-record-num.html "Redacted News")
+500K](https://rumble.com/v5m8alt-election-night-live-100524.html "The Dan Bongino Show")
+
+[Steven Crowder
+
+414K](https://rumble.com/v5lyebq-2024-election-livestream-of-the-century-the-rumble-on-rumble.html "Steven Crowder")
+
+[The Charlie Kirk Show
+
+133K](https://rumble.com/v5m8pk5-judgment-day-the-election-results-stream.html "The Charlie Kirk Show")
+
+[Bannons War Room
+
+100K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Tate Speech by Andrew Tate
+
+53.4K](https://rumble.com/v5lu8z8-emergency-meeting-episode-86-the-fate-of-america.html "Tate Speech by Andrew Tate")
 
 [Badlands Media
 
-28K](https://rumble.com/v5lwcuy-badlands-media-special-coverage-the-2024-election.html "Badlands Media")
+31.8K](https://rumble.com/v5lwcuy-badlands-media-special-coverage-the-2024-election.html "Badlands Media")
 
 [NEWSMAX
 
-11.2K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+23.1K](https://rumble.com/v5m1a8t-live-vote-for-america-2024-election-night-coverage-newsmax2.html "NEWSMAX")
+
+[Redacted News
+
+16.3K](https://rumble.com/v5m7j3t-breaking-election-machine-outages-hit-swing-states-men-voting-in-record-num.html "Redacted News")
+
+[The Rubin Report
+
+9.64K](https://rumble.com/v5m8rs2-the-biggest-election-night-stream-megyn-kelly-ben-shapiro-russell-brand-jor.html "The Rubin Report")
+
+[Graham Allen
+
+8.51K](https://rumble.com/v5m8ya2--live-now-trump-vs-kamala-watch-party-tonight-decides-the-fate-of-america.html "Graham Allen")
+
+[barstoolsports
+
+7.47K](https://rumble.com/v5m71wn-election-day-coverage-with-jersey-jerry.html "barstoolsports")
+
+[Jerry After Dark
+
+7.47K](https://rumble.com/v5m71wn-election-day-coverage-with-jersey-jerry.html "Jerry After Dark")
+
+[vivafrei
+
+5.36K](https://rumble.com/v5m50yt-election-night-live-stream-trump.-vs.-kamala-who-will-win-viva-frei-live.html "vivafrei")
+
+[Rebel News
+
+4.67K](https://rumble.com/v5lypih-live-coverage-u.s.-election-results-and-analysis-with-rebel-and-friends.html "Rebel News")
 
 [SNEAKO
 
-2.55K](https://rumble.com/v5m6zj8-election-day-coverage-from-nyc-streets-trump-vs.-kamala.html "SNEAKO")
+3.92K](https://rumble.com/v5m6zj8-election-day-coverage-from-nyc-streets-trump-vs.-kamala.html "SNEAKO")
 
-[Matt Kim
+[Drew Hernandez
 
-1.81K](https://rumble.com/v5m7g6t-election-day-hangout.html "Matt Kim")
+3.04K](https://rumble.com/v5m5le8-election-night-2024-coverage.html "Drew Hernandez")
+
+[Due Dissidence
+
+2.75K](https://rumble.com/v5lzkc2-live-election-2024-results-and-commentary.html "Due Dissidence")
+
+[WeAreChange
+
+2.58K](https://rumble.com/v5m8jmk-we-proved-them-wrong-again-live-results-w-alex-jones-roger-stone-and-thequa.html "WeAreChange")
+
+[Kim Iversen
+
+2.4K](https://rumble.com/v5m8q3q-election-night-2024-watch-party-the-end-of-democracy.html "Kim Iversen")
+
+[Breaking Points
+
+1.08K](https://rumble.com/v5m8lsp-breaking-points-live-2024-election-coverage.html "Breaking Points")
 
 [John Burk
 
-1.8K](https://rumble.com/v5m73kl-israel-strikes-back..html "John Burk")
+882](https://rumble.com/v5m73kl-israel-strikes-back..html "John Burk")
 
-[Dr. Drew
+[Matt Kohrs
 
-938](https://rumble.com/v5m62eb-election-day-counter-programming-w-debbie-lerman-and-lisa-miron-ask-dr.-dre.html "Dr. Drew")
+787](https://rumble.com/v5m7zua-live-results-election-2024.html "Matt Kohrs")
+
+[DeVory Darkins
+
+773](https://rumble.com/v5m6203-2024-election-results-live-trump-vs-harris.html "DeVory Darkins")
+
+[Matt Kim
+
+660](https://rumble.com/v5m7g6t-election-day-hangout.html "Matt Kim")
+
+[Stephen Gardner
+
+633](https://rumble.com/v5m0rvz-2024-election-night-live-with-stephen-gardner-and-guests-trump-v.-kamala.html "Stephen Gardner")
 
 [Lofi Girl
 
-380](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+398](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
+[Bitcoin Magazine
 
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+218](https://rumble.com/v5m6v1b-live-election-day-2024-by-bitcoin-magazine.html "Bitcoin Magazine")
 
-[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
-
-[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
-
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
-
-[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
-
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
-
-[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
-
-[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
-
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
-
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
-
-[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
 
 [The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
 
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
 
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
-
-[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
 
 [Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
 
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
 
-[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
 
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
-
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
-
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
-
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
-
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
 
 [Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
 
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
 
-[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
 
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
 
-[Geeks + Gamers](https://rumble.com/c/GeeksandGamers "Geeks + Gamers")
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
 
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
+
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
+
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
+
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
 
 ### Theme
 
