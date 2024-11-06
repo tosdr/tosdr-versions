@@ -882,25 +882,9 @@ James Schuh Wisconsin 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kegan and Jordan were professional, quick and efficient!
+Kegan & Jordan were absolutely amazing!! We would give them more than 5 stars if we could.
 
-Chauchau Pham Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Isaiah and Cortney did a fantastic job. Friendly, professional and very efficient
-
-tye kuhlman Austin 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Justin and Paris did a fantastic job clearing out the condo for my dad!
-
-Ellie Kozarec Cincinnati 02/11/2024
+Haydn Hart Naples 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -914,41 +898,9 @@ Kyle Krueger Wisconsin 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kegan and Jordan were awesome and very professional! We would highly recommend 1-800-got-junk!
+Eaton and Bobby were wonderful!!
 
-R Ward Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Excellent work
-
-Craig Jordan Austin 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steve and Patrick were great and arrived promptly same day. Quick and professional with their work.
-
-Keaton S Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kegan & Jordan were absolutely amazing!! We would give them more than 5 stars if we could.
-
-Haydn Hart Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kaden and Devin were awesome. So quick and helpful :)
-
-x x Madison 02/11/2024
+Deb Andersen Naples 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -962,9 +914,9 @@ David Zwiers Seattle 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Eaton and Bobby were wonderful!!
+Kaden and Devin were awesome. So quick and helpful :)
 
-Deb Andersen Naples 02/11/2024
+x x Madison 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -994,17 +946,65 @@ John Blanton Cincinnati 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Keith and Chris did a great job removing some really heavy and unwieldy items from my basement. Thanks guys.
+Kegan and Jordan were professional, quick and efficient!
 
-Casey Stang Wisconsin 01/11/2024
+Chauchau Pham Naples 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Daryl and Montonio were awesome - super friendly, clean, quick and fair!
+Justin and Paris did a fantastic job clearing out the condo for my dad!
 
-Jonathan Hoeg LA Metro 01/11/2024
+Ellie Kozarec Cincinnati 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Isaiah and Cortney did a fantastic job. Friendly, professional and very efficient
+
+tye kuhlman Austin 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kegan and Jordan were awesome and very professional! We would highly recommend 1-800-got-junk!
+
+R Ward Naples 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Excellent work
+
+Craig Jordan Austin 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steve and Patrick were great and arrived promptly same day. Quick and professional with their work.
+
+Keaton S Naples 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Nathan and Lucas did a great job!
+
+Roger Gilbert Cincinnati 01/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The guys were great very friendly and professional.
+
+Joseph Grier Austin 01/11/2024
 
 ### 
 
