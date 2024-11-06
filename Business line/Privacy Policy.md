@@ -1,48 +1,48 @@
-![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
+![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-##### SENSEX   79,476.63
+##### SENSEX   80,378.13
 
-+ 694.39
++ 901.50
 
-##### NIFTY   24,213.30
+##### NIFTY   24,484.05
 
-+ 217.95
++ 270.75
 
-##### CRUDEOIL   6,052.00
+##### CRUDEOIL   6,069.00
 
-+ 28.00
++ 15.00
 
-##### GOLD   78,515.00
+##### GOLD   76,640.00
 
-+ 93.00
+ -1,867.00
 
-##### SILVER   94,652.00
+##### SILVER   90,780.00
 
-+ 368.00
+ -3,868.00
 
-##### SENSEX   79,476.63
+##### SENSEX   80,378.13
 
-+ 694.39
++ 901.50
 
-##### NIFTY   24,213.30
+##### NIFTY   24,484.05
 
-+ 217.95
++ 270.75
 
-##### NIFTY   24,213.30
+##### NIFTY   24,484.05
 
-+ 217.95
++ 270.75
 
-##### CRUDEOIL   6,052.00
+##### CRUDEOIL   6,069.00
 
-+ 28.00
++ 15.00
 
-##### CRUDEOIL   6,052.00
+##### CRUDEOIL   6,069.00
 
-+ 28.00
++ 15.00
 
-##### GOLD   78,515.00
+##### GOLD   76,640.00
 
-+ 93.00
+ -1,867.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -705,8 +705,8 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/stock-market-live-updates-stock-to-buy-today-tech-mahindra-16996/article68765030.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Waaree Energies IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/waaree-energies-share-price-waaree-energies-ipo-listing-live-today-28-oct-2024/article68805261.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-6-november-2024/article68832948.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Swiggy IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/swiggy-ipo-subscription-live-updates-6-nov-2024/article68835234.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Hyundai Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/hyundai-stocks-hyundai-share-price-today-live-hyundai-ipo-listing-23-oct-2024/article68781660.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Ratan Tata Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/ratan-tata-group-stocks-tcs-tata-motors-tata-power-tata-steel-titan-tata-technologies-tata-communications-share-price-live-updates-11-oct-2024/article68739247.ece)
