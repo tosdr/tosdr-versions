@@ -196,60 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks Adriaan...
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Johan Botha - Brand Xplosion
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=177531750)  
-Moremi Kitchens Rustenburg
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=151125808)  
+Lemba Truck Stop
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=8688851)  
-Mountain Lion Properties
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=59232517)  
+Little Nutty Professors
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=202288067)  
-Highlands Auto Engineering
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=106729383)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=195826217)  
-Hydroworld T/A Milliqua
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=48606555)  
+Henry's Home Renovations
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=184568475)  
-Salvage Genie
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=127192039)  
+Prosper Park
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=160730013)  
-AquariumSmiths
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=3194684)  
+Bchange Online CC
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=165234740)  
-Iurus Inc
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=114183340)  
+Kara Medical (Pty) Ltd
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=6099716)  
-Imhoff Equestrian Centre
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=117351290)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=129147850)  
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=176240849)  
+IEMS (PTY) ltd
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=174756963)  
+Baby Toddles Infant Care
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=90684618)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=24452058)  
+Skinz Printing & Branding
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=211048065)  
 #DiGi3 Marketing & Design
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=209641337)  
-Karino Merinos ( PTY ) LTD
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=55730836)  
+LEO DEVELOPMENT GROUP
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=31464817)  
-Printo
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=130554887)  
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=213917547)  
-CBR Verwe/Paints
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=213994617)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=5191ad33f0365a8027302a4deece8b0f0e2fa6e3ead0e7ba0d0201a12f42758e&c=212179664)  
-Sonic Electrical Services PTY Ltd
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=017d7832eddaeb2d7136d311afcc8a9abd77873cc9bc2ceb13fd8bdfda0ca29e&c=66679310)  
+Chiron Medical Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
