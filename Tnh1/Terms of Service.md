@@ -1,164 +1,75 @@
-* [PSCOM](http://pajucara.tnh1.com.br/ "PSCOM")
-* [ANUNCIE](http://pajucara.tnh1.com.br/ "ANUNCIE")
-* [CONTATO](https://www.tnh1.com.br/contato/ "CONTATO")
-
-* ACESSIBILIDADE
-
-* [](https://twitter.com/PortalTNH1 "Twitter")
-* [](https://www.facebook.com/portaltnh1/ "Facebook")
-* [](http://instagram.com/tnh1oficial "Instagram")
-
-[](https://www.tnh1.com.br/ "TNH1")
-
-[Últimas](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/ultimas/ "Últimas")
-
-[Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
-
-Últimas de Maceió
-
-[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
-
-   [![ Associação Comercial de Maceió lança nesta terça-feira, 05, a 12ª edição do Natal Premiado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/2/csm_Lancamento_Natal_Premiado_3adeb2bcbf.jpeg)
-
-Maceió
-
-Associação Comercial de Maceió lança nesta terça-feira, 05, a 12ª edição do Natal Premiado](https://www.tnh1.com.br/noticia/nid/associacao-comercial-de-maceio-lanca-nesta-terca-feira-05-a-12a-edicao-do-natal-premiado/ " Associação Comercial de Maceió lança nesta terça-feira, 05, a 12ª edição do Natal Premiado")   [![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_d7e9721c16.jpeg)
-
-Interior
-
-Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")   [![Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/7/csm_caminhao-preso-fios_d75f25eb37.jpg)
-
-AL-101 Norte
-
-Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://www.tnh1.com.br/noticia/nid/video-caminhao-fica-preso-em-fios-eletricos-e-deixa-postes-danificados/ "Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados")   [![Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/3/csm_bilhete_meninas_que_fugiram_aa7224b3bb.jpg)
-
-FAMÍLIA PREOCUPADA
-
-Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://www.tnh1.com.br/noticia/nid/menina-de-11-anos-deixa-bilhete-para-mae-apos-fugir-de-casa-fui-viver-minha-vida/ "Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”")   [![Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
-
-Foi socorrida
-
-Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/garota-de-programa-leva-tiro-em-frente-a-hotel-na-pajucara-suspeito-fugiu/ "Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu")   [![MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/a/csm_Ministerio_Publico_de_Alagoas_-_foto_MPAL_b04b6ae044.jpg)
-
-Desaparecidas
-
-MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://www.tnh1.com.br/noticia/nid/mp-al-tenta-localizar-crianca-de-11-anos-e-adolescente-de-16-que-podem-ter-sumido-juntas-em-maceio/ "MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió")
-
-[Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
-
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_Barragem_Jaramataia_d2a22a7a99.jpg)
-
-Alagoas
-
-MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://www.tnh1.com.br/noticia/nid/mpf-ajuiza-19-acoes-para-regularizacao-e-seguranca-de-barragens-do-dnocs-em-alagoas/ "MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas")   [![Aeromédico do Samu transporta paciente de MG para Maceió em trajeto de 18h](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/d/csm_Aeromedico_do_Samu_transporta_paciente_de_MG_para_Maceio_em_trajeto_de_18h_-_foto_Samu_AL_43207bdc82.jpg)
-
-57 anos
-
-Aeromédico do Samu transporta paciente de MG para Maceió em trajeto de 18h](https://www.tnh1.com.br/noticia/nid/aeromedico-do-samu-transporta-paciente-de-mg-para-maceio-em-trajeto-de-18h/ "Aeromédico do Samu transporta paciente de MG para Maceió em trajeto de 18h")   [![Pré Black Friday: Procon divulga preços para você se preparar para as promoções](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/c/csm_black-friday_5e9bc1b880.jpg)
-
-Economia
-
-Pré Black Friday: Procon divulga preços para você se preparar para as promoções](https://www.tnh1.com.br/noticia/nid/pre-black-friday-procon-divulga-precos-para-voce-se-preparar-para-as-promocoes/ "Pré Black Friday: Procon divulga preços para você se preparar para as promoções")   [![Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/d/csm_vicosa_alaogoas_cidades_89d5ac9cc4.jpeg)
-
-176 vagas
-
-Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data](https://www.tnh1.com.br/noticia/nid/concurso-da-prefeitura-de-vicosa-tem-inscricoes-prorrogadas-veja-nova-data/ "Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data")   [![Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/f/csm_corpo-de-bombeiros-resgata-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova_-_foto_Ascom_CBMAL_540f5d37a4.png)
-
-em marechal
-
-Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://www.tnh1.com.br/noticia/nid/veja-imagens-do-resgate-das-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova/ "Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova")   [![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_36d7839bbc.jpg)
-
-Alagoas
-
-Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")
-
-[Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_policia-militar-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior_96d00d39a9.jpg)
-
-Polícia
-
-PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://www.tnh1.com.br/noticia/nid/pm-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior-do-estado/ "PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado")   [![Suspeito de estuprar menino de 11 anos a caminho da escola é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_PC_prende_suspeito_de_estupro_de_vulneravel_contra_menino_de_11_anos_-_foto_Reproducao_PCAL_c1ab2f3d9e.jpg)
-
-47 anos
-
-Suspeito de estuprar menino de 11 anos a caminho da escola é preso em Maceió](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-menino-de-11-anos-a-caminho-da-escola-e-preso-em-maceio/ "Suspeito de estuprar menino de 11 anos a caminho da escola é preso em Maceió")   [![Flagrado por videomonitoramento, homem é preso suspeito de furtar fios de cobre](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_suspeito_fios_53191ac504.jpg)
-
-Benedito Bentes
-
-Flagrado por videomonitoramento, homem é preso suspeito de furtar fios de cobre](https://www.tnh1.com.br/noticia/nid/flagrado-por-videomonitoramento-homem-e-preso-suspeito-de-furtar-fios-de-cobre/ "Flagrado por videomonitoramento, homem é preso suspeito de furtar fios de cobre")   [![PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_alexandre_moraes_agencia_5f0cc6400c.png)
-
-Por e-mail
-
-PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://www.tnh1.com.br/noticia/nid/pf-indicia-militar-da-marinha-e-irmao-por-ameacas-de-morte-a-familia-de-moraes/ "PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes")   [![Filha é apreendida após invadir casa da mãe e agredi-la com tapas no rosto, na Jatiúca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_CENTRAL-DE-FLAGRANTES-MACEIO-1-1-600x400_274c303b5f.jpg)
-
-parte baixa
-
-Filha é apreendida após invadir casa da mãe e agredi-la com tapas no rosto, na Jatiúca](https://www.tnh1.com.br/noticia/nid/filha-e-apreendida-apos-invadir-casa-da-mae-e-agredi-la-com-tapas-no-rosto-na-jatiuca/ "Filha é apreendida após invadir casa da mãe e agredi-la com tapas no rosto, na Jatiúca")   [![Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_flamengo-bruno-henrique-foto_marcelo_cortes_crf_cff6fcfb36.jpg)
-
-'SPOT-FIXING"
-
-Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo](https://www.tnh1.com.br/noticia/nid/bruno-henrique-e-alvo-de-operacao-apos-investigacao-apontar-manipulacao-em-jogo/ "Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo")
-
-[Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
-
-[Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
-
-Últimas de Literatura
-
-[Leia tudo sobre Literatura](https://www.tnh1.com.br/index.php?id=789 "Ir para Literatura")
-
-   [![Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_bombeiros_ascom_cbm_a8d8cd4682.jpg)
-
-Artigos
-
-Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://www.tnh1.com.br/noticia/nid/bombeiros-resgatam-cinco-pessoas-que-ficaram-isoladas-em-ilha-de-barra-nova/ "Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova")
-
-[TV](https://www.tnh1.com.br/videos/ "TV ")
-
-[Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_brecho-destaque-01_4c2c8d742d.jpeg)
-
-Pessoas & Negócios
-
-Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5](https://www.tnh1.com.br/noticia/nid/estilo-e-solidariedade-10-edicao-do-brecho-luxo-no-cabide-comeca-nesta-terca-feira-5/ "Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5")
-
-[Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
-
-* [Últimas](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/ultimas/ "Últimas")
-* [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
-* [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
-* [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-* [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
-* [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
-* [TV](https://www.tnh1.com.br/videos/ "TV ")
-* [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-* [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
-
-[](https://www.tnh1.com.br/ "TNH1")
+* * *
+
+[pscom](https://pajucara.tnh1.com.br/)
+
+* * *
+
+[anuncie](https://tnh1.amdb.net.br/media/uploads/midiakit/tabelapreostnh1_agosto2023_compressed.pdf)
+
+* * *
+
+[contato](https://tnh1.amdb.net.br/contato/)
+
+* * *
+
+[acessibilidade](javascript:void(0);) [pajuçara fm 103,7](https://www.tnh1.com.br/103/)
+
+     [![Instagram TNH1](/static/socialmedia/instagram_v1.svg)](https://www.instagram.com/tnh1oficial/ "Instagram TNH1") [![Facebook TNH1](/static/socialmedia/facebook_v1.svg)](https://www.facebook.com/portaltnh1/ "Facebook TNH1") [![X TNH1](/static/socialmedia/twitter_x_v1.svg)](https://x.com/PortalTNH1/ "X TNH1") [![Youtube TNH1](/static/socialmedia/youtube_v1.svg)](https://www.youtube.com/TVPaju%C3%A7ara "Youtube TNH1")[![Linkedin TNH1](/static/socialmedia/linkedin_v2.svg)](https://www.linkedin.com/company/tnh1.com.br/ "Linkedin TNH1")
+
+* [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas)
+* [Astrologia](https://www.tnh1.com.br/noticias/editoria/astrologia)
+* [Bem Estar](https://www.tnh1.com.br/noticias/editoria/bem-estar)
+* [Brasil](https://www.tnh1.com.br/noticias/editoria/brasil)
+* [Ciência](https://www.tnh1.com.br/noticias/editoria/ciencia)
+* [Cinema](https://www.tnh1.com.br/noticias/editoria/cinema)
+* [Comportamento](https://www.tnh1.com.br/noticias/editoria/comportamento)
+* [Concursos](https://www.tnh1.com.br/noticias/editoria/concursos)
+* [Cotidiano](https://www.tnh1.com.br/noticias/editoria/cotidiano)
+* [Cultura](https://www.tnh1.com.br/noticias/editoria/cultura)
+* [Curiosidades](https://www.tnh1.com.br/noticias/editoria/curiosidades)
+* [Economia](https://www.tnh1.com.br/noticias/editoria/economia)
+* [Educação](https://www.tnh1.com.br/noticias/editoria/educacao)
+* [Especiais](https://www.tnh1.com.br/noticias/editoria/especiais)
+* [Esporte](https://www.tnh1.com.br/noticias/editoria/esporte)
+* [Geral](https://www.tnh1.com.br/noticias/editoria/geral)
+* [Justiça](https://www.tnh1.com.br/noticias/editoria/justica)
+* [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio)
+* [Meio Ambiente](https://www.tnh1.com.br/noticias/editoria/meio-ambiente)
+* [Mundo](https://www.tnh1.com.br/noticias/editoria/mundo)
+* [Polícia](https://www.tnh1.com.br/noticias/editoria/policia)
+* [Política](https://www.tnh1.com.br/noticias/editoria/politica)
+* [Saúde](https://www.tnh1.com.br/noticias/editoria/saude)
+* [Tecnologia](https://www.tnh1.com.br/noticias/editoria/tecnologia)
+* [Turismo](https://www.tnh1.com.br/noticias/editoria/turismo)
+* [Vídeos](https://www.tnh1.com.br/noticias/editoria/videos)
+* [Viver +](https://www.tnh1.com.br/noticias/editoria/viver)
+
+[![TNH1](/static/logo/tnh1-logo-ativa.svg)](https://www.tnh1.com.br/)
+
+* [Últimas](https://www.tnh1.com.br/noticias/ultimas/)
+* [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio)
+* [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas)
+* [Polícia](https://www.tnh1.com.br/noticias/editoria/policia)
+* [Blogs](https://www.tnh1.com.br/blogs)
+* [Brasil](https://www.tnh1.com.br/noticias/editoria/brasil)
+* [TV Pajuçara](https://www.tnh1.com.br/videos)
+* [Tudo Pop](https://www.tnh1.com.br/noticias/editoria/cinema)
+* [Pscom](https://pajucara.tnh1.com.br/)
+
+![Busca](/static/img/search_icon.svg)
+
+ ![Busca](/static/img/search_icon.svg)
 
 Termos e Condições de Uso
 =========================
 
 A Política de Privacidade visa a garantir transparência na relação entre o público e o TNH1. As informações servem para dirimir dúvidas e reforçar o compromisso com a segurança de quem acessa o portal.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Esta política poderá ser alterada a  qualquer tempo, para assegurar atualização e precisão nas regras. Com isso, faz-se necessária a leitura periódica.
+* * *
 
-**Cadastro**
+Esta política poderá ser alterada a qualquer tempo, para assegurar atualização e precisão nas regras. Com isso, faz-se necessária a leitura periódica.
+
+Cadastro
 
 Para participar de promoções e receber as novidades do TNH1 em seu e-mail, você precisa se cadastrar no Portal.
 
@@ -172,145 +83,60 @@ Portanto, indicamos o uso de senhas com nível alto de dificuldade, pois as senh
 
 Nunca forneça sua senha para ninguém . Caso sua senha foi fornecida alguma vez, mude-a imediatamente.
 
-**Cookies**
+Cookies
 
-O “Cookie” é um arquivo que será lido pelo sistema informático do TNH1 toda vez que você acessar o Portal TNH1  ou determinada página do Portal. É um arquivo que identifica você e fica armazenado no sistema informático de seu computador. Este arquivo é ativado cada vez que a página que o gerou for acessada. Quando você entrar no TNH1, será dada a permissão automática para o uso de todas as áreas do site a que você tem direito.
+O “Cookie” é um arquivo que será lido pelo sistema informático do TNH1 toda vez que você acessar o Portal TNH1 ou determinada página do Portal. É um arquivo que identifica você e fica armazenado no sistema informático de seu computador. Este arquivo é ativado cada vez que a página que o gerou for acessada. Quando você entrar no TNH1, será dada a permissão automática para o uso de todas as áreas do site a que você tem direito.
 
 O Usuário tem a possibilidade de não aceitar “cookies”. Para tanto, basta desabilitá-los em seu navegador. Configure seu computador para rejeitar automaticamente os cookies ou informar a cada arquivo recebido. As informações referentes a esta configuração estão disponíveis nos manuais e instruções do seu próprio navegador.
 
-**Promoções**
+Promoções
 
 O TNH1 faz promoções em todos os seus canais. Em alguns casos essas ações são feitas em parceria com terceiros. Com o seu cadastro (e-mail e senha), você poderá participar dessas ações e concorrer aos prêmios oferecidos pelo Portal.
 
 Leia atentamente o regulamento e os Termos Específicos. É ali que você encontra todas as informações e regras da promoção. Ao participar das promoções, entendemos que você aceitou o regulamento e concorda com as regras estabelecidas pela equipe do TNH1. Nas promoções realizadas em parceria com terceiros, algumas informações suas poderão ser compartilhadas com o parceiro. Atenção! Os vencedores serão localizados por meio de seus cadastros no portal. Mantenha as suas informações sempre atualizadas.
 
-**Novidades no seu e-mail**
+Novidades no seu e-mail
 
 Na hora de se cadastrar no TNH1, você pode optar por receber as novidades do Portal em seu e-mail. No cadastro, você também habilita o envio de informações e promoções de nossos parceiros. Todos os envios serão monitorados pelo TNH1. Caso você não queira receber essas mensagens, basta clicar no “link” que aparece no fim de cada e-mail enviado pelo portal.
 
-**Não encontro as soluções para o meu problema**
+Não encontro as soluções para o meu problema
 
 Escreva para o Fale conosco do TNH1. Nossa equipe encontra-se a sua disposição!
 
-**Dúvidas quanto a utilização do Portal**
+Dúvidas quanto a utilização do Portal
 
 Todas as informações no que diz respeito a forma e regras de utilização do Portal TNH1 encontram-se disponíveis no Termo de Uso do Portal TNH1.
 
-**Aviso**
+Aviso
 
-O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção através de mensagem de texto, e não autoriza qualquer pessoa e/ou representante a telefonar para seus usuários e/ou público em geral, exigindo a compra de algum produto em troca, ou ainda solicitando quaisquer códigos de segurança de cartões e/ou de cupons de recarga vendidos nos pontos comerciais. CUIDADO COM AS FRAUDES! Jamais forneça seus dados pessoais nestes casos. Todas as campanhas promocionais e/ou concursos culturais do Portal TNH1 são divulgados apenas por meio das páginas sob o domínio [www.tnh1.com.br](https://www.tnh1.com.br/)
+O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção através de mensagem de texto, e não autoriza qualquer pessoa e/ou representante a telefonar para seus usuários e/ou público em geral, exigindo a compra de algum produto em troca, ou ainda solicitando quaisquer códigos de segurança de cartões e/ou de cupons de recarga vendidos nos pontos comerciais. CUIDADO COM AS FRAUDES! Jamais forneça seus dados pessoais nestes casos. Todas as campanhas promocionais e/ou concursos culturais do Portal TNH1 são divulgados apenas por meio das páginas sob o domínio
 
-\--
+[www.tnh1.com.br](https://www.tnh1.com.br/)
 
-  
+[![TNH1](/static/logo/tnh1-logo-footer.svg)](https://www.tnh1.com.br/)
 
-* [\+ LIDAS](#lidas "Mais Lidas")
-* [ÚLTIMAS](#ultimas "Ultimas")
-* [VÍDEOS](#videos "Videos")
+     [![Instagram TNH1](/static/socialmedia/instagram_v1.svg)](https://www.instagram.com/tnh1oficial/ "Instagram TNH1")[![Facebook TNH1](/static/socialmedia/facebook_v1.svg)](https://www.facebook.com/portaltnh1/ "Facebook TNH1")[![X TNH1](/static/socialmedia/twitter_x_v1.svg)](https://x.com/PortalTNH1/ "X TNH1")[![Youtube TNH1](/static/socialmedia/youtube_v1.svg)](https://www.youtube.com/TVPaju%C3%A7ara "Youtube TNH1")[![Linkedin TNH1](/static/socialmedia/linkedin_v2.svg)](https://www.linkedin.com/company/tnh1.com.br/ "Linkedin TNH1")
 
-[![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_42636616d7.jpeg)
+* * *
 
-Interior
+[ÚLTIMAS](https://www.tnh1.com.br/noticias/ultimas/) [MACEIÓ](https://www.tnh1.com.br/noticias/editoria/maceio) [ALAGOAS](https://www.tnh1.com.br/noticias/editoria/alagoas)
 
-Interior
+[POLÍCIA](https://www.tnh1.com.br/noticias/editoria/policia) [BLOGS](https://www.tnh1.com.br/blogs) [BRASIL](https://www.tnh1.com.br/noticias/editoria/brasil)
 
-Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia
+[TV PAJUÇARA](https://www.tnh1.com.br/videos) [ENTRETENIMENTO](https://www.tnh1.com.br/noticias/editoria/cinema) [PSCOM](https://pajucara.tnh1.com.br/)
 
-Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")[![Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_homem-diagnosticado-obesidade-uso-ozempic-reproducao_12b1c90a22.jpg)
+[ANUNCIE NO TNH1](https://www.tnh1.com.br/media/uploads/midiakit/tabelapreostnh1_agosto2023_compressed.pdf) [TERMOS E CONDIÇÕES DE USO](https://www.tnh1.com.br/termos-e-condicoes-de-uso) [FALE CONOSCO](https://www.tnh1.com.br/contato)
 
-Saúde debilitada
+[![Pscom](/static/img/logo_pscom_footer.png)](https://pajucara.tnh1.com.br/)
 
-Saúde debilitada
+Comercial (82)30237565 | 30237562 [\[email protected\]](https://www.tnh1.com.br/cdn-cgi/l/email-protection)
 
-Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg
+Redação (82)30237574 | (82)30237574 [\[email protected\]](https://www.tnh1.com.br/cdn-cgi/l/email-protection)
 
-Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg](https://www.tnh1.com.br/noticia/nid/medico-descobre-que-obeso-tratado-com-ozempic-tinha-na-verdade-um-tumor-de-27kg/ "Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg")[![Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_Praia-do-Sonho-Verde_divulgacao_f8d3e4d94c.jpg)
+[](https://www.amdb.com.br/ "Revitalizado, convertido, hospedado e monitorado por AMDB")
 
-LEVADO A HOSPITAL
+Utilizamos cookies essenciais e tecnologias semelhantes de acordo com a nossa [Política de Privacidade](https://www.tnh1.com.br/media/uploads/doc/tnh1_politica_privacidade.pdf) e, ao continuar navegando, você concorda com essas condições.
 
-LEVADO A HOSPITAL
+OK
 
-Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas
-
-Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiro-e-atacado-por-caes-em-praia-do-litoral-norte-de-alagoas/ "Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas")[![Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/2/csm_Ana-Hickmann_f993928c05.jpeg)
-
-Negou gravidez
-
-Negou gravidez
-
-Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’
-
-Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’](https://www.tnh1.com.br/noticia/nid/ana-hickmann-desabafa-sobre-pressao-apos-engordar-12kg-muito-cruel/ "Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’")
-
-[![Comunicado TNH1](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/7/csm_DESTAQUE_TNH1_385278721d.png)
-
-Geral
-
-Geral
-
-Comunicado TNH1
-
-Comunicado TNH1](https://www.tnh1.com.br/noticia/nid/comunicado-tnh1/ "Comunicado TNH1")[![Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_bruno-mars-passeio-BH-reproducao_0bbcd7dff4.jpg)
-
-Gente Famosa
-
-Gente Famosa
-
-Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar
-
-Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://www.tnh1.com.br/noticia/nid/bruno-mars-passeia-em-bh-compra-cerveja-e-da-gorjeta-gorda-para-dono-de-bar/ "Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar")[![Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/f/csm_objetos-jogados-campo-reproducao_1a38626892.png)
-
-Futebol Nacional
-
-Futebol Nacional
-
-Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo
-
-Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://www.tnh1.com.br/noticia/nid/cabeca-de-porco-dentadura-e-ate-moto-relembre-objetos-atirados-em-campo/ "Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo")[![Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/2/csm_medicos-agencia-brasil_75396f3dd9.jpg)
-
-nova plataforma
-
-nova plataforma
-
-Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM
-
-Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM](https://www.tnh1.com.br/noticia/nid/justica-suspende-norma-que-obriga-medicos-a-emitirem-atestados-por-plataforma-digital-do-cfm/ "Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ")
-
-[](https://www.tnh1.com.br/ "TNH1 logo")
-
-* [Últimas](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/ultimas/ "Últimas")
-* [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
-* [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
-* [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-* [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
-* [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
-* [TV](https://www.tnh1.com.br/videos/ "TV ")
-* [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-* [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
-
-* ACESSIBILIDADE
-
-* [Interior](https://www.tnh1.com.br/noticias/editoria/interior/ "Interior")
-* [Política](https://www.tnh1.com.br/noticias/editoria/politica/ "Política")
-* [Educação](https://www.tnh1.com.br/noticias/editoria/educacao/ "Educação")
-* [Cinema](https://www.tnh1.com.br/cinema/ "Cinema")
-* [Tecnologia](https://www.tnh1.com.br/noticias/editoria/tecnologia/ "Tecnologia")
-
-* [Anuncie no TNH1](mailto:comercial@pajucara.com "Anuncie no TNH1")
-* [Termos e Condições de Uso](https://www.tnh1.com.br/termos-e-condicoes-de-uso/ "Termos e Condições de Uso")
-* [Comunicar Erro](https://www.tnh1.com.br/contato/ "Comunicar Erro")
-* [Fale Conosco](https://www.tnh1.com.br/contato/ "Fale Conosco")
-* [Receba pelo Whatsapp](https://www.tnh1.com.br/gruposdewhatsapp/ "Receba pelo Whatsapp")
-* [Trabalhe Conosco](https://www.tnh1.com.br/contato/ "Trabalhe Conosco")
-
-baixe o app pajuçara
-
-[](https://play.google.com/store/apps/details?id=br.com.pajucara2 "Baixe o app Pajuçara Android")[](https://apps.apple.com/br/app/pajuplus/id1526881002?l "Baixe o app Pajuçara Apple")
-
-[](http://pajucara.tnh1.com.br/ "PSCOM")
-
-Comercial (82) 3023.7565 | 3023.7562 comercial@pajucara.com
-
-Redação (82) 3023.7580 | 3023.7579 tnh1@pajucara.com
-
- [![Facebook](https://www.tnh1.com.br/uploads/cw_base/facebook.svg)](https://www.facebook.com/portaltnh1/ "Facebook")[![Twitter](https://www.tnh1.com.br/uploads/cw_base/twitter.svg)](https://www.twitter.com/portaltnh1/ "Twitter")[![Instagram](https://www.tnh1.com.br/uploads/cw_base/instagram.svg)](https://www.instagram.com/tnh1oficial/ "Instagram")[![LinkedIn](https://www.tnh1.com.br/uploads/cw_base/linkedin.svg)](https://www.linkedin.com/company/pscomal/ "LinkedIn")
+![](https://sb.scorecardresearch.com/p?c1=2&c2=14194541&cv=2.0&cj=1)
