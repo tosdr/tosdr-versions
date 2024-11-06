@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm tremendously happy with the UK proxy service and will very likely be a longtime customer. I use the service to catch BBC programs whilst abroad. It's indispensable.
+I really appreciate the excellent & prompt customer support that your company provides; many thanks again.
 
-Jacomo Corbo
+Louise Berry
