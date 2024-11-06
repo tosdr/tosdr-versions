@@ -222,7 +222,7 @@ Continue shopping
 Privacy policy
 ==============
 
-Your Privacy is important to us. Basically - we don't share your information with anyone unless we have to. If you've agreed to receive emails from us we send a newsletter 12-16 times a year and a few other mailings when we are having special event. That's all. Thank you for your business.  
+Your Privacy is important to us. Basically - we don't share your personally identifiable information with anyone unless we have to. Unless you choose to opt out of cookies, some information may be used to customize your experience on this website and other sites on the internet. Thank you for your business.   
 \----
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
@@ -300,8 +300,11 @@ QUESTIONS AND CONTACT INFORMATION
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at brian@northwoodcandlecompany.com or by mail at  
 NorthWood Candle Company  
 \[Re: Privacy Compliance Officer\]  
-201 N Meridian St, Belle Plaine, MN 56011  
+201 N Meridian St, Belle Plaine, MN 56011
+
 \----
+
+We use a third-party service provider to serve ads and/or collect data on our behalf across the Internet and sometimes on this website. Some of these service providers may collect information about your visits to our website, and your interaction with our products and services to tailor marketing messages on this website and other sites or to trigger real time interaction, customize this Web site or enhance your profile. Some of these service providers may be able to collect personal information that you share with this site via a web form automatically and prior to your pressing a submit button; and they may be able to use information from your visits to this site to send marketing messages to you in a way that may personally identify you. This information is collected through the use of a cookie, a javascript tag and/or pixel, which is industry standard technology used by most major web sites. The information collected by these service providers may include your device's IP address, user agent, email addresses (where hashed or otherwise rendered pseudonymous) and other user and device level pseudonymous information. Please keep in mind that your browser settings may not permit you to control the technologies utilized by these third-party companies. If you would like more information about these practices, please click: [http://optout.aboutads.info/#!/](http://optout.aboutads.info/#!/.)
 
  
 
