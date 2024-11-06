@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 04, 2024
+November 05, 2024
 
-How we’ll cover Tuesday’s elections
+What one American founder said about today
 
-On Tuesday, we will cover the U.S. elections a little differently. We expect huge demand for information, as well as a desire for sources that won’t incite, frighten, or put a thumb on the partisan scale. So we will put a significant amount of our effort into live updates, which will be calm, insightful, short takes on key news with important analysis or context.The link to the live updates page will be on our homepage. Just come to CSMonitor.com on Tuesday to find it. We’d appreciate your feedback on the idea and the execution. Please email me at editor@csmonitor.com.
+Today, our live updates blog (which you can read here) will keep you up to speed on all the important developments of Election Day. With such a cascade of news, we wanted to make sure you had a place to go for news you could trust.As I think about this moment, I decided to take a step back and look at how, some 230 years ago, one of the American founders was considering deeply the question facing American voters today – and what that means for the road ahead. You can read the column here.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
