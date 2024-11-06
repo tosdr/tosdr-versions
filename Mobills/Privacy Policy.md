@@ -37,7 +37,9 @@ Te aconselhamos a acessar a versão completa do Aviso de Privacidade, clicando [
 Como a Mobills trata meus dados?
 --------------------------------
 
-[![](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Politica-de-Privacidade-1-1-1024x790.jpg)](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Politica-de-Privacidade-1-1.jpg)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20790'%3E%3C/svg%3E)
+
+![](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Politica-de-Privacidade-1-1-1024x790.jpg)](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Politica-de-Privacidade-1-1.jpg)
 
 Você sabe que, para gerenciar sua vida financeira, é essencial que todas as informações do seu dia a dia, todos os seus gastos e todas as suas receitas sejam registradas no nosso aplicativo.
 
