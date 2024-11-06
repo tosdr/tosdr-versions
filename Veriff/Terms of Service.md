@@ -1,4 +1,4 @@
-[![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg)](https://www.veriff.com/)
+[![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg?auto=compress,format)](https://www.veriff.com/)
 
 * Veriff Terms of Service for Starter Plans
 * [1\. Definitions](#anchor-h2-1)
@@ -247,7 +247,7 @@ These Veriff Terms of Service for Starter Plans (**“Terms of Service”**) col
 
 16.10. **Entire Agreement.** This Agreement, including all exhibits, schedules, addenda, constitutes the entire agreement between the Parties and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning Client’s purchase and use of the Services. Without limiting the foregoing, this Agreement supersedes the terms of any online agreement electronically accepted by Client (including Veriff’s online terms of service).  Except for any material adverse changes, Veriff may modify these Terms of Service at any time by posting a revised version on Veriff’s site or by notifying the Client in accordance with section 12.2. Use of the Service after a revised version has come into force constitutes acceptance of such changed Terms of Service. No other modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by the Party against whom the modification, amendment or waiver is to be asserted.  However, to the extent of any conflict or inconsistency between the provisions in the body of this Agreement, the Documentation, any exhibit or addendum hereto, the order of precedence is as  following: (1) the terms of such exhibit and/or addendum, (2) the Agreement, and (3) the Documentation.  Notwithstanding any language to the contrary therein, no terms or conditions stated in or accepted by Veriff during a vendor onboarding process or web portal, a Client purchase order, or any other Client order documentation shall be incorporated into or form any part of this Agreement, and all such terms or conditions shall be null and void.
 
-![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg)
+![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg?auto=compress,format)
 
 ###### Products
 
