@@ -582,7 +582,7 @@ Please provide a valid email Id
 
 * * *
 
-[![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwc4d44c5c/petmeds-anniversary-web.png)](https://www.1800petmeds.com/company.html)
+[![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw6557c4c8/28yearsanniversarylogo.png)](https://www.1800petmeds.com/company.html)
 
 ![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw1668a2dd/brand-logos/PetMeds-logo.svg) [![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5f7eb1a2/brand-logos/PCRX-logo.svg)](http://www.petcarerx.com/)
 
