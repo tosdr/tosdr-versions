@@ -29,10 +29,10 @@ Hope. Healing. Health.
     * [Careers](https://neurostimtms.com/careers/)
 * [Locations](https://neurostimtms.com/find-nearest-tms-treatment-center/)
     * [Find Nearest Clinic](https://neurostimtms.com/find-nearest-tms-treatment-center/)
-    * [AZ State](https://neurostimtms.com/find-nearest-tms-treatment-center/)
+    * [Arizona](https://neurostimtms.com/find-nearest-tms-treatment-center/)
         * [Gilbert Clinic](https://neurostimtms.com/gilbert-office/)
         * [Scottsdale Clinic](https://neurostimtms.com/scottsdale-office/)
-    * [WA State](https://neurostimtms.com/find-nearest-tms-treatment-center/)
+    * [Washington](https://neurostimtms.com/find-nearest-tms-treatment-center/)
         * [Bellevue Clinic](https://neurostimtms.com/bellevue-office/ "TMS magnetic stimulation Bellevue")
         * [Bellingham Clinic](https://neurostimtms.com/bellingham-office/)
         * [Everett Clinic](https://neurostimtms.com/everett-office/ "TMS depression therapy Everett")
@@ -286,7 +286,12 @@ Download Our Free **NeuroStim TMS Therapy** Brochure
 * [FAQ’s](https://neurostimtms.com/frequently-asked-questions/ "TMS patient info")
 * [For Service Providers](https://neurostimtms.com/for-service-providers/)
 
-#### Our 12 Clinics
+#### Our AZ Clinics
+
+* [Gilbert](https://neurostimtms.com/gilbert-office/)
+* [Scottsdale](https://neurostimtms.com/scottsdale-office/)
+
+#### Our WA Clinics
 
 * [Bellevue-Redmond](https://neurostimtms.com/bellevue-office/ "TMS magnetic stimulation Bellevue")
 * [Bellingham-Barkley](https://neurostimtms.com/bellingham-office/)
@@ -318,7 +323,5 @@ Download Our Free **NeuroStim TMS Therapy** Brochure
 
 
 [Find Nearest TMS Center](https://neurostimtms.com/find-nearest-tms-treatment-center/)
-
-[![TMS therapy washington](https://neurostimtms.com/wp-content/uploads/2024/05/New-Locations-Map.png "TMS therapy washington")](https://neurostimtms.com/find-nearest-tms-treatment-center/)
 
 © Copyright 2017-2024 | NeuroStim TMS
