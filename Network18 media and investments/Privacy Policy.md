@@ -129,11 +129,10 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-    * [Trump vs Harris](https://www.news18.com/world/trump-vs-harris-historic-firsts-they-could-achieve-with-us-election-victory-9110062.html)
-    * [Delhi School Holidays](https://www.news18.com/education-career/delhi-school-holidays-educational-institutions-likely-to-be-closed-due-to-pollution-9109503.html)
-    * [Anushka Sharma](https://www.news18.com/movies/anushka-sharma-shares-son-akaays-first-photo-on-virat-kohlis-birthday-he-holds-him-vamika-close-9109828.html)
+    * [US Election Seat Tally](https://www.news18.com/elections/us-election/)
+    * [Pennsylvania Election Result](https://www.news18.com/world/pennsylvania-election-result-2024-updates-will-kamala-harris-continue-bidens-winning-streak-9109033.html)
     * [Khushi Kapoor](https://www.news18.com/web-stories/entertainment/khushi-kapoor-turns-24-7-of-her-family-photos-with-janhvi-kapoor-and-boney-kapoor-2585804/)
-    * [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-first-review-out-samantha-ruth-prabhu-varun-dhawan-deliver-a-blockbuster-series-9109319.html)
+    * [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-rahul-rawail-made-her-cry-rupali-gangulys-stepdaughter-claims-she-gives-dad-odd-meds-9109195.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,11 +169,10 @@ Follow us on
 In Trends:
 
 * [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-* [Trump vs Harris](https://www.news18.com/world/trump-vs-harris-historic-firsts-they-could-achieve-with-us-election-victory-9110062.html)
-* [Delhi School Holidays](https://www.news18.com/education-career/delhi-school-holidays-educational-institutions-likely-to-be-closed-due-to-pollution-9109503.html)
-* [Anushka Sharma](https://www.news18.com/movies/anushka-sharma-shares-son-akaays-first-photo-on-virat-kohlis-birthday-he-holds-him-vamika-close-9109828.html)
+* [US Election Seat Tally](https://www.news18.com/elections/us-election/)
+* [Pennsylvania Election Result](https://www.news18.com/world/pennsylvania-election-result-2024-updates-will-kamala-harris-continue-bidens-winning-streak-9109033.html)
 * [Khushi Kapoor](https://www.news18.com/web-stories/entertainment/khushi-kapoor-turns-24-7-of-her-family-photos-with-janhvi-kapoor-and-boney-kapoor-2585804/)
-* [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-first-review-out-samantha-ruth-prabhu-varun-dhawan-deliver-a-blockbuster-series-9109319.html)
+* [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-rahul-rawail-made-her-cry-rupali-gangulys-stepdaughter-claims-she-gives-dad-odd-meds-9109195.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
