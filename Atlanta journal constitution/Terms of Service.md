@@ -16,8 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-trump-takes-georgia-then-the-white-house/DDFK2QWIGNGY7HZ6FWJFJOKGUM/)
-* [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
+* [Georgia Election Results](https://www.ajc.com/politics/election-results/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
