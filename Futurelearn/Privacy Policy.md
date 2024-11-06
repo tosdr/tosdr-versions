@@ -720,6 +720,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Celebrates National Career Development Month With A Focus On AI Skills](https://www.futurelearn.com/info/press/futurelearn-celebrates-national-career-development-month-with-a-focus-on-ai-skills)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, a leader in online learning, has joined in celebrations for National Career Development Month, …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [FutureLearn Lowers The Prices Of Thousands Of Short Course Upgrades](https://www.futurelearn.com/info/press/futurelearn-lowers-the-prices-of-thousands-of-short-course-upgrades)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -742,15 +749,6 @@ Powered By
     Wondering which jobs you can do with an economics degree? Discover the top 10 careers …
     
     Category: [Business and Management](https://www.futurelearn.com/info/businessandmanagement), [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![accountant at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-98-150x150.png)](https://www.futurelearn.com/info/blog/accounting-degree-guide)
-    
-    [A complete guide to accounting degrees](https://www.futurelearn.com/info/blog/accounting-degree-guide)
-    -------------------------------------------------------------------------------------------------------
-    
-    Thinking about taking an online accounting degree to learn specialist knowledge and improve your career …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
