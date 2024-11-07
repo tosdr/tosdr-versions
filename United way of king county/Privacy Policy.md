@@ -62,6 +62,7 @@
         * [Press Room](https://www.uwkc.org/about-us/press-room/)
         * [Community Grants](https://www.uwkc.org/get-involved/learn/community-grants)
 * [Give](https://www.uwkc.org/donate/)
+    * [Fundraise](https://www.uwkc.org/fundraise/)
     * [Giving Communities](https://www.uwkc.org/get-involved/connect/)
     * [Ways to Give](https://www.uwkc.org/donate/ways-to-give/)
     * [Gates Endowment](https://www.uwkc.org/donate/gates-endowment/)
