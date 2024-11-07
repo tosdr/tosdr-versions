@@ -1,30 +1,30 @@
 [Skip to main content](#main-content)
 
-BOGO Free Shirts & Bras! DETAILS
+Save 50% Sitewide! DETAILS
 
-BUY 1 GET 1 FREE
-
-Close the Modal
-
-#### Mix & match or double up. Compression shirts and bras are buy one get one FREE!
-
-[SHOP NOW](https://www.tommiecopper.com/special/best-selling-shirts-bras)
-
-Offer valid 11/4/2024 8AM ET - 11/6/2024 6AM ET.
-
-To receive Buy 1 Get 1 Free discount on Compression Bras & Shirts, must add two (2) eligible full-price bras and/or shirts to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-INFRARED & RED LIGHT THERAPY
+BLACK FRIDAY TRAINING RUN
 
 Close the Modal
 
-#### Save Up To $75 on Infrared & Red Light Therapy Devices
+#### Save 50% Sitewide!
 
-[SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 11/4/2024 8AM ET - 11/6/2024 6AM ET.
+Offer valid 11/7/2024 8AM ET - 11/9/2024 6AM ET.
 
-Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+FREE GIFT WITH PURCHASE
+
+Close the Modal
+
+#### Free Tommie Copper Baseball Hat on Orders $125+
+
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+
+Offer valid 10/11/2024 8AM ET - 10/12/2024 6AM ET.
+
+Free Baseball Hat automatically applied on orders $125+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
