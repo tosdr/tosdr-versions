@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Overhead shot of a Black hand with red manicure drawing a rectangle on a touchscreen landscape-style.](https://cdn-shop.adafruit.com/230x173/6079-06.jpg)[Raspberry Pi Touch Display 2 - 7" 720x1280 with Capacitive Touch
+    
+    $60.00](https://www.adafruit.com/product/6079)
+    
     ![Angled shot of black, rectangular, pressure sensor breakout.](https://cdn-shop.adafruit.com/230x173/6067-00.jpg)[Adafruit LPS28 (LPS28DFW) Pressure Sensor - STEMMA QT / Qwiic
     
     $12.50](https://www.adafruit.com/product/6067)
@@ -86,10 +90,6 @@ Search
     ![Angled shot of green, credit-card-sized microcontroller in black rubber bumper case.](https://cdn-shop.adafruit.com/230x173/6056-06.jpg)[Protective Silicone Bumper for Raspberry Pi 5
     
     $3.00](https://www.adafruit.com/product/6056)
-    
-    ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
-    
-    $10.95](https://www.adafruit.com/product/6062)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble”
+“ Be so good they can't ignore you”
 
-[Helen Keller](http://en.wikipedia.org/wiki/Helen_Keller)
+[Steve Martin](http://en.wikipedia.org/wiki/Steve_Martin)
 
 [](https://www.adafruit.com/about)
 
