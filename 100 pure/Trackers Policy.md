@@ -332,7 +332,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1569 reviews (1571)
+1571 reviews (1571)
 
 $30.00 $30.00
 
@@ -428,7 +428,7 @@ ADD TO TOTE
 
 ### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
 
-1421 reviews (1421)
+1419 reviews (1419)
 
 $58.00
 
