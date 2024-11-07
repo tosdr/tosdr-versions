@@ -244,7 +244,7 @@ Dropbox has a team of specialists dedicated to responding to personal data reque
 12\. What data does Dropbox collect when I use the Dash browser extension and desktop app?
 ------------------------------------------------------------------------------------------
 
-When you use Dropbox Dash, Dropbox will import your browser history, starting with the previous 90 days, to power features such as searching across your open tabs. The data collected includes the URLs of websites you have visited, as well as the contents of those websites (including page titles, images, and page content). To power Dash's search functions and other features, we may share your data with trusted third parties, as well as other Dropbox Companies. We won't share your browser history or URLs with other users unless you chose to share them.
+When you use Dropbox Dash, Dropbox will import your browser history, starting with the previous 90 days, to power features such as searching across your open tabs. The data collected includes the URLs of websites you have visited, as well as the contents of those websites (including page titles, images, and page content). To power Dash's search functions and other features, we may share your data with trusted third parties, as well as other Dropbox Companies.
 
 Was this article helpful?
 
