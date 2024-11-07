@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5dccff3f046b5411e4c9c44d8d06f85e
+e9c47ddf5aef5badb1d78cd0422aaa8a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Random root beer clasp](https://www.sojourner.biz/images/cache/SKU0077front.200.jpg)](https://www.sojourner.biz/clasps/glass/random-root-beer-clasp.html "Random root beer clasp")
+[![8 mm by 6 mm oval purple polka dot Czech beads](https://www.sojourner.biz/images/cache/glass/GL0002.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval purple polka dot Czech beads")
 
-#### [Random root beer clasp](https://www.sojourner.biz/clasps/glass/random-root-beer-clasp.html "Random root beer clasp")
+#### [8 mm by 6 mm oval purple polka dot Czech beads](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval purple polka dot Czech beads")
 
-$29.00
+$8.00
 
 ### Best Sellers
 
@@ -189,12 +189,12 @@ $29.00
     $15.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
-7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+6. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
 10. [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
