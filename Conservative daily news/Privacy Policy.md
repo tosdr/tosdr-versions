@@ -2,6 +2,7 @@ Thursday, November 7 2024
 
 Breaking News
 
+* [NYT/MSM Induced Election-Related Psychosis: Cognitive Dissonance](https://www.conservativedailynews.com/2024/11/nyt-msm-induced-election-related-psychosis-cognitive-dissonance/)
 * [Corporate Media, Dems Thought Female Vote Would Be Slam Dunk For Harris. Boy, Were They Wrong](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
 * [President Joe Biden’s Schedule for Thursday, November 7, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
 * [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
@@ -9,7 +10,6 @@ Breaking News
 * [Dems Already Rallying Resistance Less Than 24 Hours After Trump Becomes President-Elect](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
 * [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/)
 * [America In The Age Of Stupidity: It Seems America Is Not As Stupid As I Thought](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
-* [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,7 +111,7 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.39%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.35%
 
 Red = Recurring Donations  
 Orange = One-Time Donations
@@ -131,6 +131,36 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Joe Biden Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/wrong-direction-5/)
+    
+    [Wrong Direction](https://www.conservativedailynews.com/2024/11/wrong-direction-5/)
+    
+    November 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/postmortem-2024/)
+    
+    [Postmortem 2024](https://www.conservativedailynews.com/2024/11/postmortem-2024/)
+    
+    November 7, 2024
+    
+* [![Red Wave Kamala Harris Joe Biden 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/red-wave/)
+    
+    [Red Wave](https://www.conservativedailynews.com/2024/11/red-wave/)
+    
+    November 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Saving-piggy-bank-money-220x150.png)](https://www.conservativedailynews.com/2024/11/a-little-change-can-really-make-a-difference/)
+    
+    [A Little Change Can Really Make a Difference](https://www.conservativedailynews.com/2024/11/a-little-change-can-really-make-a-difference/)
+    
+    November 7, 2024
+    
+* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/nyt-msm-induced-election-related-psychosis-cognitive-dissonance/)
+    
+    [NYT/MSM Induced Election-Related Psychosis: Cognitive Dissonance](https://www.conservativedailynews.com/2024/11/nyt-msm-induced-election-related-psychosis-cognitive-dissonance/)
+    
+    November 7, 2024
+    
 * [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
     
     [Corporate Media, Dems Thought Female Vote Would Be Slam Dunk For Harris. Boy, Were They Wrong](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
@@ -149,37 +179,10 @@ Recent Posts
     
     November 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
-    
-    [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
-    
-    November 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/RfkjrOCT2017-220x150.jpg)](https://www.conservativedailynews.com/2024/11/rfk-jr-says-entire-departments-at-fda-could-get-the-ax/)
-    
-    [RFK Jr. Says ‘Entire Departments’ At FDA Could Get The Ax](https://www.conservativedailynews.com/2024/11/rfk-jr-says-entire-departments-at-fda-could-get-the-ax/)
-    
-    November 6, 2024
-    
-* [Left-Wing DA In District Where Laken Riley Was Murdered Takes Huge Loss At Ballot Box](https://www.conservativedailynews.com/2024/11/left-wing-da-in-district-where-laken-riley-was-murdered-takes-huge-loss-at-ballot-box/)
-    
-    November 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/snowflake-600-x-337.jpg)](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
-    
-    [Dems Already Rallying Resistance Less Than 24 Hours After Trump Becomes President-Elect](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
-    
-    November 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5745-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/)
-    
-    [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/)
-    
-    November 6, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NRA Smallbore Championship Celebrates 40th Anniversary: 1959 National Matches](https://www.thegunpage.com/nra-smallbore-championship-celebrates-40th-anniversary-1959-national-matches/10611715)
 * [Looking Back At The 2009 NRA National High Power Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-high-power-championship/10611575)
 * [TFB Review: Silencer Central Banish Speed K TI](https://www.thegunpage.com/tfb-review-silencer-central-banish-speed-k-ti/10611712)
 * [POTD: B&T APC9 with Aimpoint CompM5b and A-Tech 3-Lug Suppressor](https://www.thegunpage.com/potd-bt-apc9-with-aimpoint-compm5b-and-a-tech-3-lug-suppressor/10611713)
@@ -189,7 +192,6 @@ Recent Posts
 * [Winchester Supreme Optics Launches Scope Line](https://www.thegunpage.com/winchester-supreme-optics-launches-scope-line/10611706)
 * [Competition Ultimate Practice Shooting System: Shooting Inside](https://www.thegunpage.com/competition-ultimate-practice-shooting-system-shooting-inside/10611704)
 * [Recapping The CMP New England Games: Most Colorful Competition Yet](https://www.thegunpage.com/recapping-the-cmp-new-england-games-most-colorful-competition-yet/10611707)
-* [Langdon Tactical Releases Slate Of Beretta 1301 Upgrades](https://www.thegunpage.com/langdon-tactical-releases-slate-of-beretta-1301-upgrades/10611700)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
