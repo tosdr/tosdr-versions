@@ -171,7 +171,7 @@ Navigation menu
 * [Page information](https://encyclopediadramatica.wiki/index.php?title=Encyclopedia_Dramatica:General_Disclaimer&action=info "More information about this page")
 
 * This page was last edited on 16 May 2021, at 20:50.
-* This page has been accessed 915 times.
+* This page has been accessed 939 times.
 
 * [Privacy policy](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:Privacy_policy)
 * [About Encyclopedia Dramatica](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:About)
