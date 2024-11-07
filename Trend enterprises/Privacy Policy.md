@@ -1,8 +1,6 @@
 [VIEW CART](https://www.trendenterprises.com/cart)
 
-      
-
-               
+                    
 
 [Menu](#)
 
