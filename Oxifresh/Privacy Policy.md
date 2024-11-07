@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 302,964 Carpet Cleaning Services Reviews
 
-Great customer service. Easy to make and reschedule appointments. Carpets look refreshed and clean. **KR.** - Grayslake, IL - 11/06/2024
+On time, quick quality work. **KB.** - Carmel, IN - 11/06/2024
 
 (5.0 Out of 5 stars)
 
-Promptness and quality of work **JK.** - Jefferson City, MO - 11/06/2024
+**KS.** - West End, NC - 11/06/2024
 
 (5.0 Out of 5 stars)
 
-Efficient and friendly. **SG.** - Voorhees Township, NJ - 11/06/2024
+They always do an fabulous job! **KW.** - Riverview, FL - 11/06/2024
 
 (5.0 Out of 5 stars)
 
