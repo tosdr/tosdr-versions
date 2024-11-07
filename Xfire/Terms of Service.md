@@ -47,6 +47,8 @@ About Xfire
 
  Search
 
+[Instant Game Alerts](https://www.xfire.com/#signup) | [Game Reviews](https://www.xfire.com/games/)
+
 Terms
 =====
 
