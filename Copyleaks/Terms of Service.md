@@ -19,13 +19,15 @@
 * Solutions
     * * * #### Solutions
                 
-        * * [### AI
+        * * AI
                 
-                ### Insights
+                Insights
                 
-                ### Reveals _Why_ It’s AI
+                Reveals _Why_ It’s AI
                 
-                A first-of-its-kind, patent-pending innovation that comprehensively analyzes why text has been identified as AI.](https://copyleaks.com/ai-content-detector/ai-insights?utm_source=website&utm_medium=header&utm_campaign=ai-insights)
+                A first-of-its-kind, patent-pending innovation that comprehensively analyzes why text has been identified as AI.
+                
+                [Learn More](https://copyleaks.com/ai-content-detector/ai-insights?utm_source=website&utm_medium=header&utm_campaign=ai-insights)
                 
     * * * [Academic IntegrityThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/academic-integrity)
         * * [Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
@@ -53,20 +55,20 @@
         * * [Latest Blogs](https://copyleaks.com/blog)
                 
     * * * [About usMeet the Copyleaks leadership team and learn about our mission and values.](https://copyleaks.com/about-us)
-        * * [News & MediaYour hub for the latest Copyleaks announcements, updates, news, and media features.](https://copyleaks.com/about-us/media)
+        * * [News & MediaThe latest Copyleaks announcements, updates, news and media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesExplore the various testing methodologies used to assess the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need for integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![Paywalled content locks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20483'%3E%3C/svg%3E)
+        * * [![A Classroom with floating images signifying the use of AI](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20301'%3E%3C/svg%3E)
+                
+                ![A Classroom with floating images signifying the use of AI](https://copyleaks.com/wp-content/uploads/2023/12/AI_In_The_classroom.png)](https://copyleaks.com/blog/talking-to-students-about-ai)
+                
+                [Bringing AI Into the Classroom: Talking to Students About AI](https://copyleaks.com/blog/talking-to-students-about-ai)
+                
+                [![Paywalled content locks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20483'%3E%3C/svg%3E)
                 
                 ![Paywalled content locks](https://copyleaks.com/wp-content/uploads/2024/10/Access_Denied_Article_Hero.webp)](https://copyleaks.com/blog/exploring-ais-interaction-with-paywalled-content)
                 
                 [Access Denied? Not Quite. Exploring AI’s Interaction with Paywalled Content](https://copyleaks.com/blog/exploring-ais-interaction-with-paywalled-content)
-                
-                [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20563'%3E%3C/svg%3E)
-                
-                ![](https://copyleaks.com/wp-content/uploads/2024/10/Firefly-magnifying-glass-over-data-14468-1-1-1.webp)](https://copyleaks.com/blog/what-is-data-mining-and-how-does-it-extract-insights)
-                
-                [What Is Data Mining and How Does It Extract Insights?](https://copyleaks.com/blog/what-is-data-mining-and-how-does-it-extract-insights)
                 
     * * * #### Learn
                 
