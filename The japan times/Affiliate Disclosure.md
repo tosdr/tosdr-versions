@@ -131,68 +131,64 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Body of missing German tourist found off Wakayama coast](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432498.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Trump defeats Harris, returning U.S. to era of uncertainty](https://www.japantimes.co.jp/news/2024/11/07/world/politics/us-election-trump-harris/ "Trump defeats Harris, returning U.S. to era of uncertainty")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Republican presidential nominee and former U.S. President Donald Trump points to supporters as he holds hands with his wife, Melania, before claiming victory in the 2024 U.S. presidential election during a rally at the Palm Beach County Convention Center in West Palm Beach, Florida, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432612.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential nominee and former U.S. President Donald Trump points to supporters as he holds hands with his wife, Melania, before claiming victory in the 2024 U.S. presidential election during a rally at the Palm Beach County Convention Center in West Palm Beach, Florida, on Wednesday.")](https://www.japantimes.co.jp/news/2024/11/07/world/politics/us-election-trump-harris/ "Trump defeats Harris, returning U.S. to era of uncertainty")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Snow seen on Mount Fuji after record time without snowcap](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432438.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ")](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
-
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Body of missing German tourist found off Wakayama coast](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By Karin Kaneko  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432498.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
 
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Trump defeats Harris, returning U.S. to era of uncertainty](https://www.japantimes.co.jp/news/2024/11/07/world/politics/us-election-trump-harris/ "Trump defeats Harris, returning U.S. to era of uncertainty")
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Republican presidential nominee and former U.S. President Donald Trump points to supporters as he holds hands with his wife, Melania, before claiming victory in the 2024 U.S. presidential election during a rally at the Palm Beach County Convention Center in West Palm Beach, Florida, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432612.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential nominee and former U.S. President Donald Trump points to supporters as he holds hands with his wife, Melania, before claiming victory in the 2024 U.S. presidential election during a rally at the Palm Beach County Convention Center in West Palm Beach, Florida, on Wednesday.")](https://www.japantimes.co.jp/news/2024/11/07/world/politics/us-election-trump-harris/ "Trump defeats Harris, returning U.S. to era of uncertainty")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Snow seen on Mount Fuji after record time without snowcap](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Hiroshi Hiyama](https://www.japantimes.co.jp/author/2633/hiroshi-hiyama/ "Hiroshi Hiyama")  
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432438.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ")](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
+  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
 
 Podcast
 -------
@@ -213,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +253,15 @@ Latest News
 
 [LDP lawmakers urge Ishiba to step down after budget passage next year](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/ldp-post-election-gathering/ "LDP lawmakers urge Ishiba to step down after budget passage next year")
 
-5 hours ago
+11 hours ago
 
 [Man sentenced to indefinite term for serial robberies in Japan](https://www.japantimes.co.jp/news/2024/11/07/japan/crime-legal/japan-serial-robbery-ruling/ "Man sentenced to indefinite term for serial robberies in Japan")
 
-7 hours ago
-
 [Nissan cuts outlook, announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
-
-7 hours ago
 
 [U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
-7 hours ago
-
 [Nippon Ishin's Nobuyuki Baba to resign as party chief over election shortcomings](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/nippon-ishin-leader-baba-resign/ "Nippon Ishin's Nobuyuki Baba to resign as party chief over election shortcomings")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
