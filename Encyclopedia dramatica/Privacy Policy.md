@@ -195,7 +195,7 @@ Navigation menu
 * [Page information](https://encyclopediadramatica.wiki/index.php?title=Encyclopedia_Dramatica:Privacy_policy&action=info "More information about this page")
 
 * This page was last edited on 26 June 2024, at 07:49.
-* This page has been accessed 760 times.
+* This page has been accessed 774 times.
 
 * [Privacy policy](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:Privacy_policy)
 * [About Encyclopedia Dramatica](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:About)
