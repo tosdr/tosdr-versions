@@ -152,11 +152,11 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/autumn-must-haves/ "Wappne dich!")
+[](https://www.emp.de/winter-is-coming/ "Wappne dich!")
 
 Winter Is Coming!
 
-[Wappne dich!](https://www.emp.de/autumn-must-haves/ "Wappne dich!")
+[Wappne dich!](https://www.emp.de/winter-is-coming/ "Wappne dich!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
