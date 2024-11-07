@@ -21,7 +21,7 @@ Terms of Service
 
   ![An abstract image featureing symbols of agreement for a terms and conditions of service page](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20585'%3E%3C/svg%3E)
 
-  ![An abstract image featureing symbols of agreement for a terms and conditions of service page](https://therapydave.com/wp-content/uploads/terms-conditions-service-1024x585.jpg)
+![An abstract image featureing symbols of agreement for a terms and conditions of service page](https://therapydave.com/wp-content/uploads/terms-conditions-service-1024x585.jpg)
 
 Terms of Service for TherapyDave.com
 
