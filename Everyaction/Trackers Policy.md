@@ -571,6 +571,16 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![Three coworkers gathered around a laptop.](/sites/default/files/styles/card_image_short/public/2024-11/1205668099.jpeg?h=b9066e5c&itok=JX9i58ls)
+    
+    ### [What’s new for Bonterra Impact Management?](https://www.everyaction.com/blog/whats-new-bonterra-impact-management)
+    
+    * Coordinating social services
+    * Nonprofits
+    * Public agencies
+    * Case Management
+    * Human services
+    
 * ![A female scientist is wearing a lab coat, goggles, gloves, and a mask while looking into a microscope. ](/sites/default/files/styles/card_image_short/public/2024-11/1287080337.jpeg?h=dd617f3c&itok=Cl1rtX68)
     
     ### [The medical grants ecosystem: people, programs, and products](https://www.everyaction.com/blog/medical-grants-ecosystem-people-programs-and-products)
@@ -585,17 +595,6 @@ Social impact insights & information
     ### [The case management process: a step-by-step guide to success](https://www.everyaction.com/blog/case-management-process-guide)
     
     * Coordinating social services
-    * Public agencies
-    * Case Management
-    * Healthcare
-    * Human services
-    
-* ![A man points at his laptop while a coworker looks on, demonstrating the research process involved in choosing the right case management software.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1434116614.jpg?h=34e6d3ed&itok=6A2wJMqy)
-    
-    ### [Choosing the right case management software: FAQs and tips](https://www.everyaction.com/blog/choosing-the-right-case-management-software)
-    
-    * Coordinating social services
-    * Nonprofits
     * Public agencies
     * Case Management
     * Healthcare
