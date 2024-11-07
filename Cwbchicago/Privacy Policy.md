@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Romeo-Holloway-re-326x245.jpg)](https://cwbchicago.com/2024/11/second-man-charged-with-trying-to-rob-corrections-officer-in-west-loop-engaging-in-shootout.html "Second man charged with trying to rob corrections officer in West Loop, engaging in shootout")
+
+West Loop
+
+### [Second man charged with trying to rob corrections officer in West Loop, engaging in shootout](https://cwbchicago.com/2024/11/second-man-charged-with-trying-to-rob-corrections-officer-in-west-loop-engaging-in-shootout.html "Second man charged with trying to rob corrections officer in West Loop, engaging in shootout")
+
+[November 4, 2024 6:10 PM](https://cwbchicago.com/2024/11)
+
+A second man has been charged in connection with the attempted robbery of an off-duty correctional worker that evolved into a shootout last month in the West Loop. And, like his alleged accomplice, Romeo Holloway was on parole at the time of the crime.[](https://cwbchicago.com/2024/11/second-man-charged-with-trying-to-rob-corrections-officer-in-west-loop-engaging-in-shootout.html "Second man charged with trying to rob corrections officer in West Loop, engaging in shootout")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Raheen-Thompson-326x245.jpg)](https://cwbchicago.com/2024/11/prosecutors-charge-man-with-murdering-acquaintance-while-on-bail-for-a-felony-gun-case.html "Prosecutors charge man with murdering acquaintance while on bail for a felony gun case")
+
+Englewood
+
+### [Prosecutors charge man with murdering acquaintance while on bail for a felony gun case](https://cwbchicago.com/2024/11/prosecutors-charge-man-with-murdering-acquaintance-while-on-bail-for-a-felony-gun-case.html "Prosecutors charge man with murdering acquaintance while on bail for a felony gun case")
+
+[November 4, 2024 7:53 AM](https://cwbchicago.com/2024/11)
+
+Prosecutors have charged an Evergreen Park man with murder, saying he fatally shot the victim last year while on pretrial release for a pending gun case.[](https://cwbchicago.com/2024/11/prosecutors-charge-man-with-murdering-acquaintance-while-on-bail-for-a-felony-gun-case.html "Prosecutors charge man with murdering acquaintance while on bail for a felony gun case")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/BB12-326x245.jpg)](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
 
 Chicago Lawn
@@ -252,26 +272,6 @@ Chicago Lawn
 [November 3, 2024 6:22 PM](https://cwbchicago.com/2024/11)
 
 Shot in both legs, a 45-year-old man was found lying outside a Marquette Park laundromat early Sunday morning. A passerby found him and called 911, saying there was a man down, and they thought he had been shot. [](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/05/Dangelo-Moore-326x245.jpg)](https://cwbchicago.com/2024/11/7-years-for-robbing-women-in-logan-square-with-an-accomplice-who-shot-one-of-the-victims.html "7 years for robbing women in Logan Square with an accomplice who shot one of the victims")
-
-Citywide
-
-### [7 years for robbing women in Logan Square with an accomplice who shot one of the victims](https://cwbchicago.com/2024/11/7-years-for-robbing-women-in-logan-square-with-an-accomplice-who-shot-one-of-the-victims.html "7 years for robbing women in Logan Square with an accomplice who shot one of the victims")
-
-[November 3, 2024 3:58 PM](https://cwbchicago.com/2024/11)
-
-A man accused of robbing two women in Logan Square with an accomplice who shot one of the victims has been sentenced to seven years.[](https://cwbchicago.com/2024/11/7-years-for-robbing-women-in-logan-square-with-an-accomplice-who-shot-one-of-the-victims.html "7 years for robbing women in Logan Square with an accomplice who shot one of the victims")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Darryl-Alexander-326x245.jpg)](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
-
-CTA
-
-### [Man randomly attacked 5 women on the CTA, causing face fracture, concussion](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
-
-[November 3, 2024 3:03 PM](https://cwbchicago.com/2024/11)
-
-A man who has been repeatedly accused of attacking women on CTA trains has been detained as a public safety threat after prosecutors charged him with assaulting five more women since summer.[](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
 
 Search
 
