@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Drum to the beat of TAIKO NO TATSUJIN: RHYTHM FESTIVAL available now on new platforms](https://en.bandainamcoent.eu/taiko-no-tatsujin/news/drum-the-beat-of-taiko-no-tatsujin-rhythm-festival-available-now-new)
 * [Uncover the truth or deceive to win in DEATH NOTE KILLER WITHIN, available now](https://en.bandainamcoent.eu/death-note/news/uncover-the-truth-or-deceive-win-death-note-killer-within-available-now)
-* [DEATH NOTE Killer Within – The Official Rules to survive](https://en.bandainamcoent.eu/death-note/news/death-note-killer-within-the-official-rules-survive)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
