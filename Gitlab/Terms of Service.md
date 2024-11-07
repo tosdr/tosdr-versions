@@ -2532,6 +2532,7 @@
             * [ ]  [Go to Market](https://handbook.gitlab.com/handbook/sales/field-operations/gtm-resources/)
                 * [ ]  [Go to Market Rules of Engagement](https://handbook.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
             * [ ]  [Growth Resources](https://handbook.gitlab.com/handbook/sales/field-operations/finding-seat-counts/)
+            * [ ]  [Requesting Internal Support in Salesforce](https://handbook.gitlab.com/handbook/sales/field-operations/requesting-internal-support/)
             * [ ]  [Sales Operations](https://handbook.gitlab.com/handbook/sales/field-operations/sales-operations/)
                 * [ ]  [Deal Desk & Order Management KPI - Results](https://handbook.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk-order-mgmt-kpis/)
                 * [ ]  [Deal Desk Handbook](https://handbook.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/)
