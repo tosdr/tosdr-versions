@@ -77,6 +77,9 @@
         * [Guides
             
             Find help quickly](https://vercel.com/guides)
+        * [Partner Finder
+            
+            Get help from solution partners](https://vercel.com/experts)
     * ##### Company
         
         * [Customers
