@@ -240,19 +240,23 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Why migrate to us?
-
-#### We guarantee our commitment to quality
+#### Great Users
 
   
 
-#### Performance
+![Partner](/content/images/content/strip/Strip-Charter.png)
 
-#### Support
+  
 
-#### Security
+![Partner](/content/images/content/strip/Strip-BMW.png)
 
-#### Uptime
+  
+
+![Partner](/content/images/content/strip/Strip-certifyeu.png)
+
+  
+
+![Partner](/content/images/content/strip/Strip-Estructuras.png)
 
 ### News
 
