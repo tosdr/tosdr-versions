@@ -41,7 +41,6 @@ Sections
 * [News](https://www.telegraph.co.uk/news/)
     * [News home](https://www.telegraph.co.uk/news/)
     * [UK news](https://www.telegraph.co.uk/news/uk/)
-    * [Tory leadership](https://www.telegraph.co.uk/conservative-leadership-election/)
     * [Politics](https://www.telegraph.co.uk/politics/)
     * [World](https://www.telegraph.co.uk/world-news/)
     * [Health news](https://www.telegraph.co.uk/health-news/)
