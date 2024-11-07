@@ -36,7 +36,7 @@ This website, our newsletter and our podcast are intended to be a quick, daily u
 * [Here’s how to submit a news story to us](https://podnews.net/article/submissions-and-disclosures), and our relevant editorial disclosures.
 * [Here’s how to submit a podcast for news coverage](https://podnews.net/article/submit-a-podcast-to-us).
 
-As of November 7, 2024, we have **32,260** active newsletter subscribers, based [all round the world](https://podnews.net/about/subscriber-countries). We have an average open-rate of around 43%, significantly above the industry average. Our podcast achieved [**68,069** downloads last month](https://op3.dev/show/55f8007aec094899a02fd44273aa6558?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23). Our website’s articles (daily newsletters and in-depth articles only) have been viewed **2,129,970** times over the past 30 days.
+As of November 7, 2024, we have **32,260** active newsletter subscribers, based [all round the world](https://podnews.net/about/subscriber-countries). We have an average open-rate of around 43%, significantly above the industry average. Our podcast achieved [**68,069** downloads last month](https://op3.dev/show/55f8007aec094899a02fd44273aa6558?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23). Our website’s articles (daily newsletters and in-depth articles only) have been viewed **2,259,810** times over the past 30 days.
 
 Our [privacy-aware](https://podnews.net/privacy) website achieves a carbon rating of A+, and in May 2024 was cleaner than [93%](https://www.websitecarbon.com/website/podnews-net/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23) of webpages globally.
 
@@ -154,5 +154,4 @@ About Podnews
 
 [News](https://podnews.net/archive) · [Jobs](https://podnews.net/jobs) · [Events](https://podnews.net/events) · [Articles](https://podnews.net/articles) · [Directory](https://podnews.net/directory) · [Press Releases](https://podnews.net/press-releases) · [Advertise](https://podnews.net/article/advertising) · [About](https://podnews.net/about) · [Privacy](https://podnews.net/privacy)  
 [Contact Podnews](https://podnews.net/contact-us) · [Status](https://stats.uptimerobot.com/E36JBCIw7g) · © 2017-2024 Podnews LLC  
-
 [storybook-overwhelming](https://go.podnews.net/miscreant.php)
