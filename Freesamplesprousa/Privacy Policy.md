@@ -10,7 +10,7 @@
 Privacy Policy
 ==============
 
-Effective Date: September 30th, 2024
+Effective Date: November 6th, 2024
 
 [freesamplesprousa.com](https://freesamplesprousa.com/) (the "Website", “Company”, “us”, “we”, or “our”) developed this Privacy Policy. This Privacy Policy, together with our [Terms and Conditions](https://freesamplesprousa.com/terms-and-conditions.html) (collectively, the "Agreement") form a legally binding agreement between you (“you” or “your”) and the Company. This Agreement governs your access to and use of any Company website and your use or attempted use of our products and services (collectively, "Your Use"). Continued use of the Website constitutes your consent to be bound by this Agreement and shall be enforceable in the same way as if it was signed by you.
 
