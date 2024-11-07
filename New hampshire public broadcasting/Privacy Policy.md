@@ -184,7 +184,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**PBS News Election Night 2024** | PBS News Hour](https://video.nhpbs.org/video/pbs-news-election-night-2024-g4x5ky?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 6, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-6-2024-pbs-news-hour-full-episode-ik6pri?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Here** | Flicks](https://video.nhpbs.org/video/here-miplia?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Elemental: Reimagine Wildfire](https://video.nhpbs.org/video/preview-cze224?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Chapter 1 American Coup: Wilmington 1898** | American Experience](https://video.nhpbs.org/video/chapter-1-american-coup-wilmington-1898?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Dave Koz Performs "The Pink Panther" Theme** | Great Performances](https://video.nhpbs.org/video/dave-koz-performs-the-pink-panther-theme-mi4kpc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
@@ -192,7 +193,6 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**NH Outlook: A Historical Look at the RNC** | New Hampshire's Political Legacy](https://video.nhpbs.org/video/nh-outlook-a-historical-look-at-the-rnc-i81r4z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 5, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-5-2024-c2gttv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Sir Arthur C. Clarke's Vision of the Computer-Dominated Future** | NOVA](https://video.nhpbs.org/video/sir-arthur-c-clarkes-vision-of-the-computer-dominated-future-nqfzwg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 3 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-3-scene-wbvkih?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
