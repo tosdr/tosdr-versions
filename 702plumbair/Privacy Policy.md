@@ -1,8 +1,6 @@
 [702-861-7951](tel:702-861-7951)[Schedule Now!](https://www.702plumbair.com/contact-us)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20252%20193'%3E%3C/svg%3E)
-
-![](https://www.702plumbair.com/wp-content/uploads/2024/10/plumbair-logo.png)](https://www.702plumbair.com/)
+[![](https://www.702plumbair.com/wp-content/uploads/2024/10/plumbair-logo.png)](https://www.702plumbair.com/)
 
 * [Financing](https://www.702plumbair.com/about-us/financing/)
 * [Blog](https://www.702plumbair.com/blog/)
@@ -48,9 +46,7 @@ Call for An Estimate!
 
 [Schedule Now!](https://www.702plumbair.com/contact-us)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20504%20386'%3E%3C/svg%3E)
-
-![](https://www.702plumbair.com/wp-content/uploads/2024/10/Light-Logo.2310120625550.png)](https://www.702plumbair.com/)
+[![](https://www.702plumbair.com/wp-content/uploads/2024/10/Light-Logo.2310120625550.png)](https://www.702plumbair.com/)
 
 * * *
 
@@ -74,19 +70,15 @@ Follow Us
 
 * * *
 
-[![702 PlumbAIR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%2055'%3E%3C/svg%3E)
-
-![702 PlumbAIR](https://dyn.yelpcdn.com/extimg/en_US/rrc/NmArYR2lJn_WZfSMnYbNcg.png)](https://www.yelp.com/biz/702-plumber-henderson-2)
+[![702 PlumbAIR](https://dyn.yelpcdn.com/extimg/en_US/rrc/NmArYR2lJn_WZfSMnYbNcg.png)](https://www.yelp.com/biz/702-plumber-henderson-2)
 
 * * *
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2045'%3E%3C/svg%3E)
-
-![](https://www.702plumbair.com/wp-content/uploads/2024/03/google-logo.png)
+[![](https://www.702plumbair.com/wp-content/uploads/2024/03/google-logo.png)
 
 4.9
 
-Based on 711 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
+Based on 718 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
 
 Services
 
@@ -120,19 +112,15 @@ Follow Us
 
 * * *
 
-[![702 PlumbAIR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%2055'%3E%3C/svg%3E)
-
-![702 PlumbAIR](https://dyn.yelpcdn.com/extimg/en_US/rrc/NmArYR2lJn_WZfSMnYbNcg.png)](https://www.yelp.com/biz/702-plumber-henderson-2)
+[![702 PlumbAIR](https://dyn.yelpcdn.com/extimg/en_US/rrc/NmArYR2lJn_WZfSMnYbNcg.png)](https://www.yelp.com/biz/702-plumber-henderson-2)
 
 * * *
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2045'%3E%3C/svg%3E)
-
-![](https://www.702plumbair.com/wp-content/uploads/2024/03/google-logo.png)
+[![](https://www.702plumbair.com/wp-content/uploads/2024/03/google-logo.png)
 
 4.9
 
-Based on 711 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
+Based on 718 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
 
 Contractors License #00085578, #0088061 | [Privacy Policy](https://www.702plumbair.com/privacy-policy)
 
@@ -140,9 +128,7 @@ Contractors License #00085578, #0088061 | [Privacy Policy](https://www.702plumba
 
 SearchSubmitClear
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20252%20193'%3E%3C/svg%3E)
-
-![](https://www.702plumbair.com/wp-content/uploads/2024/10/plumbair-logo.png)](https://www.702plumbair.com/)
+[![](https://www.702plumbair.com/wp-content/uploads/2024/10/plumbair-logo.png)](https://www.702plumbair.com/)
 
 * [About Us](https://www.702plumbair.com/about-us/)
     * [Our Team](https://www.702plumbair.com/meet-the-team/)
