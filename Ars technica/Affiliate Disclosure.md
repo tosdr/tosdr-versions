@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
     
-3. 3. [Boeing strike ends after workers vote to accept “life-changing” wage increase](https://arstechnica.com/tech-policy/2024/11/boeing-workers-vote-to-end-9-6b-strike-nabbing-43-wage-increase-over-4-years/)
+3. 3. [EV subsidies out, new import tariffs in—how Trump’s win affects autos](https://arstechnica.com/cars/2024/11/ev-subsidies-out-new-import-tariffs-in-how-trumps-win-affects-autos/)
     
 4. 4. [Kia says its new EV camper concept is the “ideal escape pod”](https://arstechnica.com/cars/2024/11/kia-reimagines-the-off-road-camper-van-with-new-concept-ev/)
     
-5. 5. [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
+5. 5. [Nintendo confirms Switch 2 will play original Switch games](https://arstechnica.com/gaming/2024/11/nintendo-confirms-switch-2-will-play-original-switch-games/)
     
 
 Customize
