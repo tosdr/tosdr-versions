@@ -244,26 +244,6 @@ MuggleNet Archive Select Month November 2024  (4) October 2024  (27) September
 
 ### November 2024
 
-#### Wed, Nov 6
-
-Hero Fiennes-Tiffin's birthday
-
-Recurs yearly
-
-11-year-old Tom Riddle (HBP)
-
-Whomping Willow destroys Nimbus 2000
-
-Recurs yearly
-
-1993
-
-Hermione checks out Moste Potente Potions
-
-Recurs yearly
-
-1992
-
 #### Thu, Nov 7
 
 Fantastic Beasts and Where to Find Them Illustrated Edition
@@ -300,6 +280,14 @@ Recurs yearly
 
 1991
 
+#### Wed, Nov 13
+
+Weighing of the Wands Ceremony
+
+Recurs yearly
+
+1994
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -310,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Hermione Granger is an only child. She originally had a younger sister, but the storyline didn’t work out.
+Six different actors have played Lord Voldemort in the Harry Potter films.
 
 ### Potter History
 
-June 5, 2005 – MuggleNet’s huge Harry Potter and the Half-Blood Prince book release party, “Spellbound 2005,” is officially announced.
+February 4, 2010 – Daniel Radcliffe, Emma Watson, and Rupert Grint rank among the top earning actors for 2009.
 
 ### Potter Quote
 
-“Numbing the pain for a while will make it worse when you finally feel it.”
+“I’ll join you when hell freezes over.”
 
 [](#)
 
