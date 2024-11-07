@@ -299,11 +299,43 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» передала гуманитарную помощь в социальные учреждения ЛНР](https://cdn.er.ru/media/news/November2024/v3tDWMXhAphF3u8Y27W5-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-socialnye-uchrezhdeniya-lnr)
+
+[«Единая Россия» передала гуманитарную помощь в социальные учреждения ЛНР](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-socialnye-uchrezhdeniya-lnr)
+
+[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#социальныеучреждения](https://er.ru/activity/news?tags%5B0%5D=143253) [#военныйгоспиталь](https://er.ru/activity/news?tags%5B0%5D=150403) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#больница](https://er.ru/activity/news?tags%5B0%5D=3441) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562)
+
+Сегодня 12:24
+
+[![«Единая Россия» и РЖД откроют 33 новых зала ожидания Центра содействия мобильности на вокзалах по всей стране](https://cdn.er.ru/media/news/November2024/HxjdxTyKpOR2ou0AL3rs-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-rzhd-otkroyut-33-novyh-zala-ozhidaniya-centra-sodejstviya-mobilnosti-na-vokzalah-po-vsej-strane)
+
+[«Единая Россия» и РЖД откроют 33 новых зала ожидания Центра содействия мобильности на вокзалах по всей стране](https://er.ru/activity/news/edinaya-rossiya-i-rzhd-otkroyut-33-novyh-zala-ozhidaniya-centra-sodejstviya-mobilnosti-na-vokzalah-po-vsej-strane)
+
+[#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#центрсодействиямобильности](https://er.ru/activity/news?tags%5B0%5D=1094870) [#вокзалы](https://er.ru/activity/news?tags%5B0%5D=4078) [#железнаядорога](https://er.ru/activity/news?tags%5B0%5D=119488) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 11:15
+
+[![«Молодая Гвардия Единой России» вместе с партнёрами окажет помощь детским школам-интернатам ЛНР](https://cdn.er.ru/media/news/November2024/jMU3SAYKrkGNfthpli65-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-vmeste-s-partnyorami-okazhet-pomosh-detskim-shkolam-internatam-lnr)
+
+[«Молодая Гвардия Единой России» вместе с партнёрами окажет помощь детским школам-интернатам ЛНР](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-vmeste-s-partnyorami-okazhet-pomosh-detskim-shkolam-internatam-lnr)
+
+[#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283) [#Пасечник](https://er.ru/activity/news?tags%5B0%5D=41428) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#школа-интернат](https://er.ru/activity/news?tags%5B0%5D=7415)
+
+Сегодня 10:35
+
+[![«Единая Россия» внесла поправки ко второму чтению бюджета](https://cdn.er.ru/media/news/November2024/DRXW11mIcDZmDP7RwBsL-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-popravki-ko-vtoromu-chteniyu-byudzheta)
+
+[«Единая Россия» внесла поправки ко второму чтению бюджета](https://er.ru/activity/news/edinaya-rossiya-vnesla-popravki-ko-vtoromu-chteniyu-byudzheta)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
+
+Сегодня 08:30
+
 [![Внимание, фейк!](https://cdn.er.ru/media/news/November2024/vrEmHMjcOVYCTKqFQEBR-small.jpg)](https://er.ru/activity/news/vnimanie-fejk)
 
 [Внимание, фейк!](https://er.ru/activity/news/vnimanie-fejk)
 
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#фейки](https://er.ru/activity/news?tags%5B0%5D=148078)
+[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#фейки](https://er.ru/activity/news?tags%5B0%5D=148078) [#рассылка](https://er.ru/activity/news?tags%5B0%5D=55458) [#письма](https://er.ru/activity/news?tags%5B0%5D=7887)
 
 06.11.24
 
@@ -312,38 +344,6 @@
 [«Единая Россия» перезагружает работу института сторонников партии](https://er.ru/activity/news/edinaya-rossiya-perezagruzhaet-rabotu-instituta-storonnikov-partii)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868)
-
-06.11.24
-
-[![«Единая Россия» обновила состав Центрального совета сторонников партии](https://cdn.er.ru/media/news/November2024/ew9hHjeToCYRxYUza3nX-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-obnovila-sostav-centralnogo-soveta-storonnikov-partii)
-
-[«Единая Россия» обновила состав Центрального совета сторонников партии](https://er.ru/activity/news/edinaya-rossiya-obnovila-sostav-centralnogo-soveta-storonnikov-partii)
-
-[#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#СоветСторонников](https://er.ru/activity/news?tags%5B0%5D=126900) [#обновление](https://er.ru/activity/news?tags%5B0%5D=2222)
-
-06.11.24
-
-[![Владимир Якушев: В народную программу «Единой России» войдут положения Послания Президента, национальных целей развития и новых нацпроектов](https://cdn.er.ru/media/news/November2024/TXhd9hMFplewTYhITNmi-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-narodnuyu-programmu-edinoj-rossii-vojdut-polozheniya-poslaniya-prezidenta-nacionalnyh-celej-razvitiya-i-novyh-nacproektov)
-
-[Владимир Якушев: В народную программу «Единой России» войдут положения Послания Президента, национальных целей развития и новых нацпроектов](https://er.ru/activity/news/vladimir-yakushev-v-narodnuyu-programmu-edinoj-rossii-vojdut-polozheniya-poslaniya-prezidenta-nacionalnyh-celej-razvitiya-i-novyh-nacproektov)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192)
-
-06.11.24
-
-[![Владимир Путин включил Владимира Якушева в наблюдательный совет фонда «Защитники Отечества»](https://cdn.er.ru/media/news/November2024/6rbamN5jqBHaivf6DlRe-small.jpg)](https://er.ru/activity/news/vladimir-putin-vklyuchil-vladimira-yakusheva-v-nablyudatelnyj-sovet-fonda-zashitniki-otechestva)
-
-[Владимир Путин включил Владимира Якушева в наблюдательный совет фонда «Защитники Отечества»](https://er.ru/activity/news/vladimir-putin-vklyuchil-vladimira-yakusheva-v-nablyudatelnyj-sovet-fonda-zashitniki-otechestva)
-
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#фондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094370) [#наблюдательныйсовет](https://er.ru/activity/news?tags%5B0%5D=150137)
-
-06.11.24
-
-[![Владимир Якушев: «Единая Россия» продолжит поддержку НКО](https://cdn.er.ru/media/news/November2024/lTWOPeyF8ITxETRfIVPj-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-nko)
-
-[Владимир Якушев: «Единая Россия» продолжит поддержку НКО](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-nko)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#СоветСторонников](https://er.ru/activity/news?tags%5B0%5D=126900) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#некоммерческиеорганизации](https://er.ru/activity/news?tags%5B0%5D=124781)
 
 06.11.24
 
