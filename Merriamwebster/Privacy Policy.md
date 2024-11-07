@@ -387,9 +387,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [a cappella](https://www.merriam-webster.com/word-of-the-day)
+#### [dedication](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of a cappella](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of a cappella")
+[![Listen to the pronunciation of dedication](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of dedication")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
