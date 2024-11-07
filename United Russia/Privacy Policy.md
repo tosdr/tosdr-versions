@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![МГЕР и Общество вьетнамо-российской дружбы организуют на территории Русского дома в Ханое совместную международную выставку о волонтёрском движении двух стран](https://cdn.er.ru/media/news/November2024/v7IDQU7TPvCTrJ80p8B5-small.jpg)](https://er.ru/activity/news/mger-i-obshestvo-vetnamo-rossijskoj-druzhby-organizuyut-na-territorii-russkogo-doma-v-hanoe-sovmestnuyu-mezhdunarodnuyu-vystavku-o-volontyorskom-dvizhenii-dvuh-stran)
+
+[МГЕР и Общество вьетнамо-российской дружбы организуют на территории Русского дома в Ханое совместную международную выставку о волонтёрском движении двух стран](https://er.ru/activity/news/mger-i-obshestvo-vetnamo-rossijskoj-druzhby-organizuyut-na-territorii-russkogo-doma-v-hanoe-sovmestnuyu-mezhdunarodnuyu-vystavku-o-volontyorskom-dvizhenii-dvuh-stran)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Вьетнам](https://er.ru/activity/news?tags%5B0%5D=2379) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247)
+
+Сегодня 18:06
+
+[![«Единая Россия» и Партия справедливости и развития Турции подписали протокол о расширении сотрудничества](https://cdn.er.ru/media/news/November2024/vEepSp83y4xszPQxuPhM-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-i-partiya-spravedlivosti-i-razvitiya-turcii-podpisali-protokol-o-rasshirenii-sotrudnichestva)
+
+[«Единая Россия» и Партия справедливости и развития Турции подписали протокол о расширении сотрудничества](https://er.ru/activity/news/edinaya-rossiya-i-partiya-spravedlivosti-i-razvitiya-turcii-podpisali-protokol-o-rasshirenii-sotrudnichestva)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Турция](https://er.ru/activity/news?tags%5B0%5D=1846) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
+
+Сегодня 14:00
+
 [![«Единая Россия» передала гуманитарную помощь в социальные учреждения ЛНР](https://cdn.er.ru/media/news/November2024/v3tDWMXhAphF3u8Y27W5-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-socialnye-uchrezhdeniya-lnr)
 
 [«Единая Россия» передала гуманитарную помощь в социальные учреждения ЛНР](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-socialnye-uchrezhdeniya-lnr)
@@ -330,22 +346,6 @@
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
 
 Сегодня 08:30
-
-[![Внимание, фейк!](https://cdn.er.ru/media/news/November2024/vrEmHMjcOVYCTKqFQEBR-small.jpg)](https://er.ru/activity/news/vnimanie-fejk)
-
-[Внимание, фейк!](https://er.ru/activity/news/vnimanie-fejk)
-
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#фейки](https://er.ru/activity/news?tags%5B0%5D=148078) [#рассылка](https://er.ru/activity/news?tags%5B0%5D=55458) [#письма](https://er.ru/activity/news?tags%5B0%5D=7887)
-
-06.11.24
-
-[![«Единая Россия» перезагружает работу института сторонников партии](https://cdn.er.ru/media/news/November2024/Qb9kFwhwGuoA7xq0NrjB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-perezagruzhaet-rabotu-instituta-storonnikov-partii)
-
-[«Единая Россия» перезагружает работу института сторонников партии](https://er.ru/activity/news/edinaya-rossiya-perezagruzhaet-rabotu-instituta-storonnikov-partii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868)
-
-06.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
