@@ -1,4 +1,4 @@
-Shopping Hours: [11am-8pm](https://www.seminoletownecenter.com/hours/ "Shopping Hours:")
+Shopping Hours: [11am - 6pm](https://www.seminoletownecenter.com/hours/ "Shopping Hours:")
 
   |  
 
