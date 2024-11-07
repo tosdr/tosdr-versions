@@ -36,18 +36,18 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
-    * [![New SteelFox malware hijacks Windows PCs using vulnerable driver](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Hackers increasingly use Winos4.0 post-exploitation kit in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New SteelFox malware hijacks Windows PCs using vulnerable driver](https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
-    * [![Washington courts' systems offline following weekend cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers increasingly use Winos4.0 post-exploitation kit in attacks](https://www.bleepingcomputer.com/news/security/hackers-increasingly-use-winos40-post-exploitation-kit-in-attacks/)
+    * [![Microsoft Notepad to get AI-powered rewriting tool on Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Washington courts' systems offline following weekend cyberattack](https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/)
-    * [![Germany drafts law to protect researchers who find security flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft Notepad to get AI-powered rewriting tool on Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-notepad-to-get-ai-powered-rewriting-tool-on-windows-11/)
+    * [![Cisco bug lets hackers run commands as root on UWRB access points](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Germany drafts law to protect researchers who find security flaws](https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/)
-    * [![Affordable & eco-friendly refurbed laptop for everyday use — 30% off now](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Cisco bug lets hackers run commands as root on UWRB access points](https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/)
+    * [![This $40 course bundle gives you on training in ethical hacking](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Affordable & eco-friendly refurbed laptop for everyday use — 30% off now](https://www.bleepingcomputer.com/offer/deals/affordable-and-eco-friendly-refurbed-laptop-for-everyday-use-30-percent-off-now/)
+        This $40 course bundle gives you on training in ethical hacking](https://www.bleepingcomputer.com/offer/deals/this-40-course-bundle-gives-you-on-training-in-ethical-hacking/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
