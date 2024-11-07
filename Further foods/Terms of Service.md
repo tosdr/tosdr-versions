@@ -8,7 +8,7 @@
     
 * **10,000+ 5 STAR REVIEWS ⭐️⭐️⭐️⭐️⭐️**
     
-* **PUMPKIN SPICE COLLAGEN IS HERE!** [**SHOP NOW >>**](https://www.furtherfood.com/products/pumpkin-spice-collagen-powder "Pumpkin Spice Collagen Powder")
+* **OUR NEW PROTEIN SHAKER IS HERE!** [**SHOP NOW >**](https://www.furtherfood.com/products/further-food-shaker-bottle-20-oz "Further Food Protein Shaker")
     
 * **TRY WITH OUR 30-DAY MONEY BACK GUARANTEE**
     
