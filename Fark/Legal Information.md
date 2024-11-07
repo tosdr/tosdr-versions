@@ -232,7 +232,9 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-The next best thing to UltraFark
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [When your dump truck full of hot asphalt malfunctions, let it go man, it's gone](https://www.fark.com/goto/13454502) ( [fox5dc.com](https://www.fark.com/goto/13454502) ) » [(16 comments)](https://www.fark.com/comments/13454502/When-your-dump-truck-full-of-hot-asphalt-malfunctions-let-it-go-man-its-gone) |
-| [Discussion](https://www.fark.com/discussion/) | [You're using laundry detergent wrong](https://www.fark.com/goto/13454466) ( [mirror.co.uk](https://www.fark.com/goto/13454466) ) » [(18 comments)](https://www.fark.com/comments/13454466/Youre-using-laundry-detergent-wrong) |
-| [Sports](https://www.fark.com/sports/) | [Shedeur Sanders weighs NFL jump after NIL deal fizzles. Turns out even Deion's son can't prime the cash pump forever](https://www.fark.com/goto/13454328) ( [finurah.com](https://www.fark.com/goto/13454328) ) » [(1 comment)](https://www.fark.com/comments/13454328/Shedeur-Sanders-weighs-NFL-jump-after-NIL-deal-fizzles-Turns-out-even-Deions-son-cant-prime-cash-pump-forever) |
-| [Business](https://www.fark.com/business/) | [Target changes app to stop double-tappers, suggests they work on their cardio](https://www.fark.com/goto/13454332) ( [msn.com](https://www.fark.com/goto/13454332) ) » [(5 comments)](https://www.fark.com/comments/13454332/Target-changes-app-to-stop-double-tappers-suggests-they-work-on-their-cardio) |
-| [STEM](https://www.fark.com/stem/) | [Foreplay?](https://www.fark.com/goto/13454194) ( [gizmodo.com](https://www.fark.com/goto/13454194) ) » [(4 comments)](https://www.fark.com/comments/13454194/Foreplay) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Kim Kardashian's Instagram promotes son's Fortnite channel. Truly history's greatest monster](https://www.fark.com/goto/13454448) ( [consequence.net](https://www.fark.com/goto/13454448) ) » [(4 comments)](https://www.fark.com/comments/13454448/Kim-Kardashians-Instagram-promotes-sons-Fortnite-channel-Truly-historys-greatest-monster) |
-| [Fandom](https://www.fark.com/fandom/) | [Turns out the best part of waking up is fighting demons in your cup](https://www.fark.com/goto/13454360) ( [metro.co.uk](https://www.fark.com/goto/13454360) ) » [(4 comments)](https://www.fark.com/comments/13454360/Turns-out-best-part-of-waking-up-is-fighting-demons-in-your-cup) |
-| [D'awww](https://www.fark.com/dawww/) | [120 fuzzy cat bellies for petting-if you're tired of having unscarred hands](https://www.fark.com/goto/13454262) ( [boredpanda.com](https://www.fark.com/goto/13454262) ) » [(6 comments)](https://www.fark.com/comments/13454262/-120-fuzzy-cat-bellies-for-petting-if-youre-tired-of-having-unscarred-hands) |
-| [Food](https://www.fark.com/food/) | [An introvert's paradise, where the fries are hot and the human interaction is ice-cold](https://www.fark.com/goto/13454378) ( [metro.co.uk](https://www.fark.com/goto/13454378) ) » [(6 comments)](https://www.fark.com/comments/13454378/An-introverts-paradise-where-fries-are-hot-the-human-interaction-is-ice-cold) |
-| [Politics](https://www.fark.com/politics/) | [Trump's win will allow him to privatize Fannie and Freddie so we can revisit the glorious housing market of 2007. On a positive note, shooting for Big Short 2 will begin in a few months](https://www.fark.com/goto/13454506) ( [gurufocus.com](https://www.fark.com/goto/13454506) ) » [(10 comments)](https://www.fark.com/comments/13454506/Trumps-win-will-allow-him-to-privatize-Fannie-Freddie-so-we-can-revisit-glorious-housing-market-of-2007-On-a-positive-note-shooting-for-Big-Short-2-will-begin-in-a-few-months) |
+| [Main](https://www.fark.com/) | [Photoshop this dismal swampland](https://www.fark.com/goto/13450114) ( [scontent-lax3-1.xx.fbcdn.net](https://www.fark.com/goto/13450114) ) » [(6 comments)](https://www.fark.com/comments/13450114/Photoshop-this-dismal-swampland) |
+| [Discussion](https://www.fark.com/discussion/) | ["I'm weaning my son, but he thinks my boobs are his property. How do I dissuade him from the notion before he becomes a MAGA?"](https://www.fark.com/goto/13454608) ( [slate.com](https://www.fark.com/goto/13454608) ) » [(9 comments)](https://www.fark.com/comments/13454608/Im-weaning-my-son-but-he-thinks-my-boobs-are-his-property-How-do-I-dissuade-him-from-notion-before-he-becomes-a-MAGA) |
+| [Sports](https://www.fark.com/sports/) | [Mid-season review - six things the Brits have learned about football. No, football](https://www.fark.com/goto/13454160) ( [bbc.com](https://www.fark.com/goto/13454160) ) » [(0 comments)](https://www.fark.com/comments/13454160/Mid-season-review-six-things-Brits-have-learned-about-football-No-football) |
+| [Business](https://www.fark.com/business/) | [Wegovy maker getting really fat](https://www.fark.com/goto/13454176) ( [cnbc.com](https://www.fark.com/goto/13454176) ) » [(3 comments)](https://www.fark.com/comments/13454176/Wegovy-maker-getting-really-fat) |
+| [STEM](https://www.fark.com/stem/) | [Computer scientists are creating a "last exam" for AI, to determine if it's truly intelligent or not. Too bad the test's very design is exactly the type of nonsense AI is good at faking](https://www.fark.com/goto/13454478) ( [bigthink.com](https://www.fark.com/goto/13454478) ) » [(0 comments)](https://www.fark.com/comments/13454478/Computer-scientists-are-creating-a-last-exam-for-AI-to-determine-if-its-truly-intelligent-not-Too-bad-tests-very-design-is-exactly-type-of-nonsense-AI-is-good-at-faking) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Garfunkel on if he'd still so oats with Simon](https://www.fark.com/goto/13454550) ( [nme.com](https://www.fark.com/goto/13454550) ) » [(24 comments)](https://www.fark.com/comments/13454550/Garfunkel-on-if-hed-still-so-oats-with-Simon) |
+| [Fandom](https://www.fark.com/fandom/) | [Identity of Metal Gear Solid 3 EVA voice actor finally revealed](https://www.fark.com/goto/13454710) ( [kotaku.com](https://www.fark.com/goto/13454710) ) » [(0 comments)](https://www.fark.com/comments/13454710/Identity-of-Metal-Gear-Solid-3-EVA-voice-actor-finally-revealed) |
+| [D'awww](https://www.fark.com/dawww/) | [120 fuzzy cat bellies for petting-if you're tired of having unscarred hands](https://www.fark.com/goto/13454262) ( [boredpanda.com](https://www.fark.com/goto/13454262) ) » [(10 comments)](https://www.fark.com/comments/13454262/-120-fuzzy-cat-bellies-for-petting-if-youre-tired-of-having-unscarred-hands) |
+| [Food](https://www.fark.com/food/) | [Slice of Queen Elizabeth II's wedding fruit cake found under bed, sells at auction for big ££, still just as nasty as it was on the day she married](https://www.fark.com/goto/13454676) ( [aol.com](https://www.fark.com/goto/13454676) ) » [(1 comment)](https://www.fark.com/comments/13454676/Slice-of-Queen-Elizabeth-IIs-wedding-fruit-cake-found-under-bed-sells-at-auction-for-big-still-just-as-nasty-as-it-was-on-day-she-married) |
+| [Politics](https://www.fark.com/politics/) | [Well, on the plus side, at least Truth Social stock is (kind of) floundering after an initial surge. Definitely not the spike you would expect](https://www.fark.com/goto/13454626) ( [cnn.com](https://www.fark.com/goto/13454626) ) » [(9 comments)](https://www.fark.com/comments/13454626/Well-on-plus-side-at-least-Truth-Social-stock-is-kind-of-floundering-after-an-initial-surge-Definitely-not-spike-you-would-expect) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 06 2024 14:42:59  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 06 2024 20:42:27  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
