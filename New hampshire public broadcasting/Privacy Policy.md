@@ -186,13 +186,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**Cynthia Lockhart on her career** | Craft in America](https://video.nhpbs.org/video/cynthia-lockhart-on-her-career-pzlcz5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Strategists on what the results mean for their parties** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-strategists-1730925082?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 6, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-6-2024-37oxqb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Capturing San Diego: America's Wildest City** | Nature](https://video.nhpbs.org/video/capturing-san-diego-americas-wildest-city?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Here** | Flicks](https://video.nhpbs.org/video/here-miplia?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Elemental: Reimagine Wildfire](https://video.nhpbs.org/video/preview-cze224?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [| Peleliu: WWII's Most Well-Preserved Battlefield](https://video.nhpbs.org/video/peleliu-wwiis-most-well-preserved-battlefield-FtOnpL?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Chapter 1 American Coup: Wilmington 1898** | American Experience](https://video.nhpbs.org/video/chapter-1-american-coup-wilmington-1898?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Dave Koz Performs "The Pink Panther" Theme** | Great Performances](https://video.nhpbs.org/video/dave-koz-performs-the-pink-panther-theme-mi4kpc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [| Dad's Secret War: France 1944](https://video.nhpbs.org/video/dads-secret-war-france-1944-au65GP?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Straight to the Primary: A NH Journal Special (Part 2)** | New Hampshire's Political Legacy](https://video.nhpbs.org/video/straight-to-the-primary-a-nh-journal-special-part-2-nwxfl2?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
