@@ -6,7 +6,7 @@ Search 
 
 everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movies Music Books
 
- [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1606996510&v=PX-404) FREE WORLDWIDE DELIVERY when spending over US$ 99.99 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
+ [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1607025310&v=PX-404) FREE WORLDWIDE DELIVERY when spending over US$ 99.99 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
 
 [](https://www.play-asia.com/account/)
 
@@ -14,11 +14,11 @@ everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movie
 
 [Cart](https://www.play-asia.com/cart/)
 
-[![Help](//s.pacn.ws/1/gallery/large/GA.06753.0013.svg?1606379152&v=PX-404)
+[![Help](//s.pacn.ws/1/gallery/large/GA.06753.0013.svg?1606407952&v=PX-404)
 
 Help](https://www.play-asia.com/help/)
 
-[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708666189&v=PX-404)  
+[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708694989&v=PX-404)  
 EN | USD](#)
 
 ✖ theme
@@ -39,7 +39,7 @@ theme beta
 
 We accept
 
-![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716182571&v=PX-404)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727452839&v=PX-404)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-404)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716182582&v=PX-404)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-404)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716182640&v=PX-404)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-404)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716211438&v=PX-404) 
+![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-404)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727424039&v=PX-404)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-404)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716211382&v=PX-404)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-404)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716182640&v=PX-404)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-404)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716182638&v=PX-404) 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ We accept
 
 Subscribe to our Newsletter!
 
-![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606407952&v=PX-404)
+![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606379152&v=PX-404)
 
 Contact Us!
 
@@ -64,4 +64,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 111 | 1007 { 58 } | A: | WS: 1 | PT: 0.020 | CDN: | Ro: , Cl: 1 | Q: 23 | T: | Cf: | CO: | bot:
+SN: 114 | 1007 { 58 } | A: | WS: 1 | PT: 0.018 | CDN: | Ro: , Cl: 1 | Q: 20 | T: | Cf: | CO: | bot:
