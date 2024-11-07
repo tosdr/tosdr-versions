@@ -556,39 +556,17 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 1. \-64%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
+1.    [![Monster Hunter World: Iceborne Master Edition Deluxe PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/o/monster-hunter-world-iceborne-master-edition-steam-cdkeys.jpg)   No 1. \-85%](https://www.cdkeys.com/pc/monster-hunter-world-pc-and-iceborne-deluxe-dlc-steam-bundle)
     
-    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
+    **[Monster Hunter World: Iceborne Master Edition Deluxe PC](https://www.cdkeys.com/pc/monster-hunter-world-pc-and-iceborne-deluxe-dlc-steam-bundle "Monster Hunter World: Iceborne Master Edition Deluxe PC")**
     
-    Special Price $18.59 RRP $51.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/call_of_duty-_black_ops_6_-_cross-gen_bundle_1.jpg)   No 2. \-33%](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww)
-    
-    **[Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww "Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)")**
-    
-    Special Price $61.09 RRP $90.99
+    Special Price $18.19 RRP $119.59
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 3. \-30%
-    
-    DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
-    
-    **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
-    
-    Special Price $29.89 RRP $42.89
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Warhammer 40,000: Rogue Trader PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40k.jpg)   No 4. \-63%](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam)
+2.    [![Warhammer 40,000: Rogue Trader PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40k.jpg)   No 2. \-63%](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam)
     
     **[Warhammer 40,000: Rogue Trader PC](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam "Warhammer 40,000: Rogue Trader PC")**
     
@@ -598,11 +576,73 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Frostpunk 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_1.jpg)   No 5. \-47%](https://www.cdkeys.com/pc/frostpunk-2-pc-steam)
+3.    [![Hogwarts Legacy Deluxe Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/capsule_616x353_1__1_3_1_1.jpg)   No 3. \-75%](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww)
     
-    **[Frostpunk 2 PC](https://www.cdkeys.com/pc/frostpunk-2-pc-steam "Frostpunk 2 PC")**
+    **[Hogwarts Legacy Deluxe Edition PC (WW)](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww "Hogwarts Legacy Deluxe Edition PC (WW)")**
     
-    Special Price $25.99 RRP $49.39
+    Special Price $19.49 RRP $77.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![The Outlast Trials PC](https://cdn.cdkeys.com/245x340/media/catalog/product/e/g/egs_theoutlasttrials_redbarrels_s2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg)   No 4. \-49%](https://www.cdkeys.com/pc/the-outlast-trials-pc-steam)
+    
+    **[The Outlast Trials PC](https://www.cdkeys.com/pc/the-outlast-trials-pc-steam "The Outlast Trials PC")**
+    
+    Special Price $23.39 RRP $45.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/call_of_duty-_black_ops_6_-_cross-gen_bundle_1.jpg)   No 5. \-33%](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww)
+    
+    **[Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww "Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)")**
+    
+    Special Price $61.09 RRP $90.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoft_flight_simulator_2024_-_premium_deluxe_edition_1_1.png)   No 6. \-42%](https://www.cdkeys.com/xbox-live/microsoft-flight-simulator-2024-premium-deluxe-edition-xbox-series-x-s-pc-ww)
+    
+    **[Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)](https://www.cdkeys.com/xbox-live/microsoft-flight-simulator-2024-premium-deluxe-edition-xbox-series-x-s-pc-ww "Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)")**
+    
+    Special Price $97.49 RRP $168.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Farming Simulator 25 - Year 1 Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25_-_year_1_edition.jpg)   No 7. \-34%
+    
+    Pre-order](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam)
+    
+    **[Farming Simulator 25 - Year 1 Edition PC](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam "Farming Simulator 25 - Year 1 Edition PC")**
+    
+    Special Price $58.49 RRP $88.39
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![Empire of the Ants PC](https://cdn.cdkeys.com/245x340/media/catalog/product/e/m/empire_of_the_ants.png)   No 8. \-26%](https://www.cdkeys.com/pc/empire-of-the-ants-pc-steam)
+    
+    **[Empire of the Ants PC](https://www.cdkeys.com/pc/empire-of-the-ants-pc-steam "Empire of the Ants PC")**
+    
+    Special Price $33.49 RRP $45.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![Metro Awakening Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/e/metro_awakening_deluxe_edition.png)   No 9. \-36%](https://www.cdkeys.com/pc/metro-awakening-deluxe-edition-pc-steam)
+    
+    **[Metro Awakening Deluxe Edition PC](https://www.cdkeys.com/pc/metro-awakening-deluxe-edition-pc-steam "Metro Awakening Deluxe Edition PC")**
+    
+    Special Price $36.39 RRP $57.19
     
     [Add to Wish List](# "Add to Wish List")
     
