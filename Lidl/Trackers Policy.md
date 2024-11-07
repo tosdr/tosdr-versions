@@ -37,6 +37,7 @@ Main Navigation[Back](#)
 4. [Toys & Christmas Gifts](https://www.lidl.co.uk/c/toys-christmas-gifts/s10056112)
 5. [Christmas Recipes](https://www.lidl.co.uk/c/christmas-recipes/s10056397)
 6. [Freeway On The Freeway](https://www.lidl.co.uk/c/freeway-on-the-freeway/s10058525)
+7. [Christmas Magazine](https://www.lidl.co.uk/c/christmas-magazine/s10059151)
 
 1. [Our ProductsShow](https://www.lidl.co.uk/c/our-products/s10023093)
 2. [Fruit & Veg](https://www.lidl.co.uk/c/fruit-veg/s10023100)
