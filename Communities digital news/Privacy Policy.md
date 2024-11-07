@@ -26,43 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-1200x630.jpg)](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183347794-1200x630.jpg)](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
 
-[Moping ‘Morning Joe’ panel admits Trump ‘knows our country better than we do’](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalas-failure-1200x630.jpg)](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
+[Pelosi, Donna Brazile exchange heated words at Kamala’s concession speech](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
 
-[‘Literally not one county?’ Tapper FLOORED by map comparing Kamala’s abysmal failure to 2020](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-1200x630.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-barbara-heineback-1200x630.jpg)](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
+[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
 
-[‘Sore loser’: Ex-Carter White House staffer unloads on ‘classless’ Kamala Harris](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Bezos-1200x630.jpg)](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-1200x630.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
+[WaPo owner Bezos kisses the ring](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
 
-[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpvictoryspeech-1200-x-628-1200x630.jpg)](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-fires-whoopi-1200x630.jpg)](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
+[Speculation on Trump’s Cabinet begins](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
 
-[Jubilant Trump supporter just fired Whoopi from ‘The View’](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_bannon-1200x630.jpg)](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
+[Oh no! After implying she’ll drink Drano if Trump wins, Bette Midler’s X account disappears](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
 
-[Unfinished business: Bannon says DOJ, FBI will ‘pay the price’ for trying to destroy America](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-greene-cheney-bannon-1200x630.jpg)](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-stock-exchange-1200x630.jpg)](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
+[Bannon, MTG eager for retribution against malicious actor Liz Cheney](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
 
-(Official White House Photo by Andrea Hanks)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy-kimmel-and-stephen-colbert-1200x630.jpg)](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
 
-[‘There was relief’: Trump’s historic win drives record highs on Wall Street](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
+[Let’s watch a sample of the bigmouth late-night hosts lose it over Trump victory](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lara-trump-1200x630.jpg)](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
 [Lara Trump hailed as a hero: ‘You saved the election process in this country’](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nyjames-1200-x-628-1200x630.jpg)
 
-### Liz Cheney speaks out on Trump win but NOBODY is buying what she’s selling](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
+### Slugga: Letitia James vows to get Trump – they just aren’t going to stop](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
