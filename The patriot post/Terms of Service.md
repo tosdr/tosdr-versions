@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -201,20 +201,20 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34475)
+     [](https://patriotpost.us/cartoons/34487)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander Thank God!](https://patriotpost.us/alexander/111757-thank-god-2024-11-06)
-*      [Cal Thomas Democracy Lives in Brightness](https://patriotpost.us/opinion/111755-democracy-lives-in-brightness-2024-11-06)
-*      [The Washington Stand Florida’s Pro-Abortion Amendment 4 Ballot Initiative Fails](https://patriotpost.us/opinion/111733-floridas-pro-abortion-amendment-4-ballot-initiative-fails-2024-11-06)
-*      [John Stossel The Best of Life](https://patriotpost.us/opinion/111717-the-best-of-life-2024-11-06)
-*      [Byron York Amid Poll Flap, Celebrities Rush Contributions to Harris Campaign](https://patriotpost.us/opinion/111715-amid-poll-flap-celebrities-rush-contributions-to-harris-campaign-2024-11-06)
-*      [Betsy McCaughey TB — The Silent Killer Crossing Our Border](https://patriotpost.us/opinion/111711-tb-the-silent-killer-crossing-our-border-2024-11-06)
-*      [Tim Graham The Media Are Egotistical Exaggerators and Liars](https://patriotpost.us/opinion/111710-the-media-are-egotistical-exaggerators-and-liars-2024-11-06)
-*      [The Babylon Bee America Unburdens Itself From What Has Been](https://patriotpost.us/opinion/111716-america-unburdens-itself-from-what-has-been-2024-11-06)
+*      [Larry Elder Election 2024: The Revenge of the ‘Fascist’](https://patriotpost.us/opinion/111778-election-2024-the-revenge-of-the-fascist-2024-11-07)
+*      [Laura Hollis Postmortem 2024](https://patriotpost.us/opinion/111779-postmortem-2024-2024-11-07)
+*      [Christine Flowers Trump’s Victory, Seen Through the Lens of Cable News](https://patriotpost.us/opinion/111774-trumps-victory-seen-through-the-lens-of-cable-news-2024-11-07)
+*      [Gary Bauer A Historic Victory](https://patriotpost.us/opinion/111776-a-historic-victory-2024-11-07)
+*      [Ann Coulter Black Girl Magic Beaten by White Male Competence](https://patriotpost.us/opinion/111775-black-girl-magic-beaten-by-white-male-competence-2024-11-07)
+*      [Armstrong Williams A Spiritual Depression](https://patriotpost.us/opinion/111777-a-spiritual-depression-2024-11-07)
+*      [The Washington Stand Election 2024: A Fighting Chance for Populism and the Unborn](https://patriotpost.us/opinion/111773-election-2024-a-fighting-chance-for-populism-and-the-unborn-2024-11-07)
+*      [The Babylon Bee ‘Don’t Despair,’ Kamala Tells Celebrating Nation](https://patriotpost.us/opinion/111772-dont-despair-kamala-tells-celebrating-nation-2024-11-07)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +228,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“What a glorious morning this is!” —Samuel Adams (1775)
+“Honor, justice, and humanity, forbid us tamely to surrender that freedom which we received from our gallant ancestors, and which our innocent posterity have a right to receive from us. We cannot endure the infamy and guilt of resigning succeeding generations to that wretchedness which inevitably awaits them if we basely entail hereditary bondage on them.” —Thomas Jefferson (1775)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
