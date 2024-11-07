@@ -159,7 +159,7 @@ Menu Close
     
     [Acronis True Image](https://www.acronis.com/en-us/products/true-image/)
     
-    \-50%
+    New release
     
     Formerly Acronis Home Office, it's the only personal cyber protection solution that delivers easy-to-use, integrated backup and anti-malware in one.
     
