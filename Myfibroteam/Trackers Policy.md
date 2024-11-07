@@ -3,7 +3,7 @@ Many features of MyFibroTeam will not work unless you enable JavaScript support 
 ![Lock Icon](https://www.myfibroteam.com/assets/mht/lock-b870a07e61cb7eabd5ff126e4d23dacf50b6be30ffd3c6772917fbe19412cf18.png) Your Privacy is Our Priority
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-By **accepting cookies** and other tracking technologies, you consent to our collection and sharing of your consumer health data as described in our [Health Data Policy](https://www.myfibroteam.com/about/health_data), including with advertising partners for marketing purposes. We do not share any of your personal information. You may withdraw your consent at any time.
+By accepting cookies and other tracking technologies, you consent to our collecting, storing, and sharing of your personal data as described in our [Privacy Policy](https://www.myfibroteam.com/about/privacy), including with advertising partners for marketing purposes.
 
 Manage Cookies 
 
