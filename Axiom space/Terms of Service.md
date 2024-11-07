@@ -420,13 +420,13 @@ Solutions
 
 ![arrow](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e12f0_Vector%2010%20(1).svg)
 
-[Human Spaceflight](#)[Research & Innovation](#)[In-Space Manufacturing](https://www.axiomspace.com/in-space-manufacturing)[In-Space Data & Security](https://www.axiomspace.com/in-space-data-security)[Brand Partnerships](https://support.openphone.com/hc/en-us)
+[Human Spaceflight](https://www.axiomspace.com/human-spaceflight)[Research & Innovation](https://www.axiomspace.com/microgravity-research)[In-Space Manufacturing](https://www.axiomspace.com/in-space-manufacturing)[In-Space Data & Security](https://www.axiomspace.com/in-space-data-security)[Brand Partnerships](https://www.axiomspace.com/partners)
 
 About
 
 ![arrow](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e12f0_Vector%2010%20(1).svg)
 
-[Team](https://www.axiomspace.com/team)[Board](https://www.axiomspace.com/board)[Partners](https://www.axiomspace.com/partners)[Investors](https://www.axiomspace.com/investors)[Suppliers](https://www.axiomspace.com/suppliers)[Report a Concern](https://support.openphone.com/hc/en-us)
+[Team](https://www.axiomspace.com/team)[Board](https://www.axiomspace.com/board)[Partners](https://www.axiomspace.com/partners)[Investors](https://www.axiomspace.com/investors)[Suppliers](https://www.axiomspace.com/suppliers)[Report a Concern](https://www.axiomspace.com/compliance)
 
 Image Detail
 
@@ -452,7 +452,7 @@ Legal
 
 ![arrow](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e12f0_Vector%2010%20(1).svg)
 
-[Privacy Policy](https://www.axiomspace.com/privacy-policy)[Cookies](https://www.axiomspace.com/cookie-policy)[Terms & Conditions](https://www.axiomspace.com/terms-and-conditions)[Consent  Preferences](https://www.axiomspace.com/compliance)
+[Privacy Policy](https://www.axiomspace.com/privacy-policy)[Cookies](https://www.axiomspace.com/cookie-policy)[Terms & Conditions](https://www.axiomspace.com/terms-and-conditions)[Consent  Preferences](#)
 
 [Do Not Sell or Share My Personal Information](https://app.termly.io/notify/81d7b147-2f76-4bda-be61-63280fc8dc2a)![](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e1400_0bba050c1a0b76f352b4e45652e62b342b38a9f7-730x350.webp)
 
