@@ -49,11 +49,11 @@ Policies
     
     * [Terms of Service](https://www.pobox.com/policies/terms-of-service/)
     * [Privacy policy](https://www.pobox.com/policies/privacy/)
-    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     * [Data Transparency Report](https://www.pobox.com/policies/transparency-report/)
     * [Fastmail Domain Terms of Service](https://www.pobox.com/policies/domains-terms-of-service/)
     * [Data Protection Agreement](https://www.pobox.com/policies/dpa/)
     * [PartnerStack Terms of Service](https://www.pobox.com/policies/partnerstack-terms-of-service/)
+    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     
 * Developers and integration partners
     
@@ -76,11 +76,11 @@ Policies
     
     * [Terms of Service](https://www.pobox.com/policies/terms-of-service/)
     * [Privacy policy](https://www.pobox.com/policies/privacy/)
-    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     * [Data Transparency Report](https://www.pobox.com/policies/transparency-report/)
     * [Fastmail Domain Terms of Service](https://www.pobox.com/policies/domains-terms-of-service/)
     * [Data Protection Agreement](https://www.pobox.com/policies/dpa/)
     * [PartnerStack Terms of Service](https://www.pobox.com/policies/partnerstack-terms-of-service/)
+    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     
 * Developers and integration partners
     
