@@ -136,7 +136,7 @@ While openrouteservice attempts to convey accurate route, isochrones and directi
 License
 -------
 
-API results obtained from openrouteservice in any context (also MapSurfer maps) are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [Attribution](#attribution) for proper attribution.
+API results obtained from openrouteservice in any context are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [Attribution](#attribution) for proper attribution.
 
 ### GitHub Projects
 
