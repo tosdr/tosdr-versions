@@ -8,7 +8,7 @@ The store will not work correctly in the case when cookies are disabled.
 * [Sign In](https://www.nascoeducation.com/customer/account/login/referer/aHR0cHM6Ly93d3cubmFzY29lZHVjYXRpb24uY29tL3ByaXZhY3ktcG9saWN5/)
 * [Create an Account](https://www.nascoeducation.com/customer/account/create/)
 
-Toggle Nav [![](https://www.nascoeducation.com/media/logo/stores/1/logo-new.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1730187357/frontend/Kinex/nasco/en_US/images/Sticky-logo.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1730187357/frontend/Kinex/nasco/en_US/images/Nasco-Education-Rev1.png)](https://www.nascoeducation.com/)
+Toggle Nav [![](https://www.nascoeducation.com/media/logo/stores/1/logo-new.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1730953846/frontend/Kinex/nasco/en_US/images/Sticky-logo.png)](https://www.nascoeducation.com/)[![](https://www.nascoeducation.com/static/version1730953846/frontend/Kinex/nasco/en_US/images/Nasco-Education-Rev1.png)](https://www.nascoeducation.com/)
 
 **Search**
 
