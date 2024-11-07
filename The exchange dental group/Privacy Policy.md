@@ -1,7 +1,7 @@
 **HIPAA Omnibus Notice of Privacy Practices**
 ---------------------------------------------
 
-Effective Date: November 06, 2024  
+Effective Date: November 07, 2024  
 The Exchange Dental Group  
 39 Broadway Suite 2115  
 Financial District, NY, 10006  
