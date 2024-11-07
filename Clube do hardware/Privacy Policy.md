@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Myronzinho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255675.thumb.jpeg.78eead5cc5fd0459d0f1e80f420a1a14.jpeg)](https://www.clubedohardware.com.br/profile/1255675-myronzinho/ "Ir ao perfil de Myronzinho")
+    * [![Black_Loth](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1244937.thumb.png.5293c233ea3b808760411a33a373c788.png)](https://www.clubedohardware.com.br/profile/1244937-black_loth/ "Ir ao perfil de Black_Loth")
+        
+        1
+        
+        [Monitor Gamer Gigabyte 27"" é bom?](https://www.clubedohardware.com.br/forums/topic/1701764-monitor-gamer-gigabyte-27-%C3%A9-bom/?do=getNewComment "Monitor Gamer Gigabyte 27"" é bom?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Black\_Loth](https://www.clubedohardware.com.br/profile/1244937-black_loth/ "Ir ao perfil de Black_Loth")  
+        16 minutos atrás
+        
+    * [![Enzo Tenuta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1229984.thumb.jpeg.08e22e0b3c3f7be0f4b37db401851c9a.jpeg)](https://www.clubedohardware.com.br/profile/1229984-enzo-tenuta/ "Ir ao perfil de Enzo Tenuta")
+        
+        1
+        
+        [Primeiro PC: B550M Aorus Elite, Ryzen 5 5600, 16GB e GeForce RTX 3060](https://www.clubedohardware.com.br/forums/topic/1701763-primeiro-pc-b550m-aorus-elite-ryzen-5-5600-16gb-e-geforce-rtx-3060/?do=getNewComment "Primeiro PC: B550M Aorus Elite, Ryzen 5 5600, 16GB e GeForce RTX 3060")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Enzo Tenuta](https://www.clubedohardware.com.br/profile/1229984-enzo-tenuta/ "Ir ao perfil de Enzo Tenuta")  
+        23 minutos atrás
+        
+    * [![raphaelcsg](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237f62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255696-raphaelcsg/ "Ir ao perfil de raphaelcsg")
         
         2
         
-        [Aerocool KCAS 500W suporta Ryzen 5 5600 e GeForce RTX 2060 6GB?](https://www.clubedohardware.com.br/forums/topic/1701730-aerocool-kcas-500w-suporta-ryzen-5-5600-e-geforce-rtx-2060-6gb/?do=getNewComment "Aerocool KCAS 500W suporta Ryzen 5 5600 e GeForce RTX 2060 6GB?")
+        [Montagem de um desktop com um Ryzen 8600G, Placa B650](https://www.clubedohardware.com.br/forums/topic/1701762-montagem-de-um-desktop-com-um-ryzen-8600g-placa-b650/?do=getNewComment "Montagem de um desktop com um Ryzen 8600G, Placa B650")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Myronzinho](https://www.clubedohardware.com.br/profile/1255675-myronzinho/ "Ir ao perfil de Myronzinho")  
-        1 hora atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [raphaelcsg](https://www.clubedohardware.com.br/profile/1255696-raphaelcsg/ "Ir ao perfil de raphaelcsg")  
+        43 minutos atrás
         
-    * [![Nanditu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234411.thumb.png.c2f245f169ffa179ab4201bd336d00c5.png)](https://www.clubedohardware.com.br/profile/1234411-nanditu/ "Ir ao perfil de Nanditu")
+    * [![Scaliest](https://www.clubedohardware.com.br/uploads/members/monthly_2023_02/2f43d267-c9fa-4977-a03b-9d2c26798adc.thumb.jpg.f4e869b822c5dbc1588794816eaa783e.jpg)](https://www.clubedohardware.com.br/profile/1214272-scaliest/ "Ir ao perfil de Scaliest")
+        
+        2
+        
+        [Bom PC?: Duex B550ZGS, Ryzen 5 5600GT, 8GB e GeForce RTX 3060](https://www.clubedohardware.com.br/forums/topic/1701761-bom-pc-duex-b550zgs-ryzen-5-5600gt-8gb-e-geforce-rtx-3060/?do=getNewComment "Bom PC?: Duex B550ZGS, Ryzen 5 5600GT, 8GB e GeForce RTX 3060")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Scaliest](https://www.clubedohardware.com.br/profile/1214272-scaliest/ "Ir ao perfil de Scaliest")  
+        55 minutos atrás
+        
+    * [![frodrigss](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255700.thumb.png.d66c0213b641b6dc40ecd5579dc18d94.png)](https://www.clubedohardware.com.br/profile/1255700-frodrigss/ "Ir ao perfil de frodrigss")
         
         5
         
-        [Os Xeons queimam iguais as placas de vídeo chinesa?](https://www.clubedohardware.com.br/forums/topic/1701728-os-xeons-queimam-iguais-as-placas-de-v%C3%ADdeo-chinesa/?do=getNewComment "Os Xeons queimam iguais as placas de vídeo chinesa?")
+        [Config até R$3.000,00 para Unreal engine 5.5, Unity 6 e Blender](https://www.clubedohardware.com.br/forums/topic/1701759-config-at%C3%A9-r300000-para-unreal-engine-55-unity-6-e-blender/?do=getNewComment "Config até R$3.000,00 para Unreal engine 5.5, Unity 6 e Blender")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Nanditu](https://www.clubedohardware.com.br/profile/1234411-nanditu/ "Ir ao perfil de Nanditu")  
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [frodrigss](https://www.clubedohardware.com.br/profile/1255700-frodrigss/ "Ir ao perfil de frodrigss")  
         1 hora atrás
         
-    * [![lucaojj](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2372c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1202528-lucaojj/ "Ir ao perfil de lucaojj")
-        
-        8
-        
-        [Computador com Ryzen 9 7900, RTX 4070 e 32Gb de RAM com quedas de FPS em jogos.](https://www.clubedohardware.com.br/forums/topic/1701727-computador-com-ryzen-9-7900-rtx-4070-e-32gb-de-ram-com-quedas-de-fps-em-jogos/?do=getNewComment "Computador com Ryzen 9 7900, RTX 4070 e 32Gb de RAM com quedas de FPS em jogos.")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [lucaojj](https://www.clubedohardware.com.br/profile/1202528-lucaojj/ "Ir ao perfil de lucaojj")  
-        1 hora atrás
-        
-    * [![TheDemonLena](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1090527.thumb.jpeg.46d8e381bc7d55d703f4d44ef16fc161.jpeg)](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")
+    * [![HnZZ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242521.thumb.png.8c207eac2e979e59cc0d08e4ca9131ee.png)](https://www.clubedohardware.com.br/profile/1242521-hnzz/ "Ir ao perfil de HnZZ")
         
         1
         
-        [Radeon RX 7800XT 16 GB travando e congelando PC após ficar sem VRAM](https://www.clubedohardware.com.br/forums/topic/1701725-radeon-rx-7800xt-16-gb-travando-e-congelando-pc-ap%C3%B3s-ficar-sem-vram/?do=getNewComment "Radeon RX 7800XT 16 GB travando e congelando PC após ficar sem VRAM")
+        [Ryzen 7 5700X3D superaquecendo com water cooler de 240mm – Alguma solução?](https://www.clubedohardware.com.br/forums/topic/1701758-ryzen-7-5700x3d-superaquecendo-com-water-cooler-de-240mm-%E2%80%93-alguma-solu%C3%A7%C3%A3o/?do=getNewComment "Ryzen 7 5700X3D superaquecendo com water cooler de 240mm – Alguma solução?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [TheDemonLena](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [HnZZ](https://www.clubedohardware.com.br/profile/1242521-hnzz/ "Ir ao perfil de HnZZ")  
         1 hora atrás
         
-    * [![rezende6](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2390c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255669-rezende6/ "Ir ao perfil de rezende6")
+    * [![David Santos do Nascimento](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255698.thumb.jpeg.1695faae89a45e0afb1d59b042232155.jpeg)](https://www.clubedohardware.com.br/profile/1255698-david-santos-do-nascimento/ "Ir ao perfil de David Santos do Nascimento")
         
-        4
+        2
         
-        [Recomendação de mousepad extra grande até R$260,00](https://www.clubedohardware.com.br/forums/topic/1701722-recomenda%C3%A7%C3%A3o-de-mousepad-extra-grande-at%C3%A9-r26000/?do=getNewComment "Recomendação de mousepad extra grande até R$260,00")
+        [Montei o pc liga todos os led acendem mas simplesmente não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1701757-montei-o-pc-liga-todos-os-led-acendem-mas-simplesmente-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Montei o pc liga todos os led acendem mas simplesmente não dá vídeo")
         
-        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
-        Por [rezende6](https://www.clubedohardware.com.br/profile/1255669-rezende6/ "Ir ao perfil de rezende6")  
-        2 horas atrás
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [David Santos do Nascimento](https://www.clubedohardware.com.br/profile/1255698-david-santos-do-nascimento/ "Ir ao perfil de David Santos do Nascimento")  
+        1 hora atrás
         
-    * [![Player1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1135792.thumb.jpeg.a0ef70af5fe098a47dbebee6aed93263.jpeg)](https://www.clubedohardware.com.br/profile/1135792-player1/ "Ir ao perfil de Player1")
+    * [![bielykl](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1247907.thumb.jpeg.ec64b32af6b9d2ad3f4c0f5bb521dd6a.jpeg)](https://www.clubedohardware.com.br/profile/1247907-bielykl/ "Ir ao perfil de bielykl")
+        
+        5
+        
+        [Estou querendo montar um pc com 3000 reais, para jogar.](https://www.clubedohardware.com.br/forums/topic/1701756-estou-querendo-montar-um-pc-com-3000-reais-para-jogar/?do=getNewComment "Estou querendo montar um pc com 3000 reais, para jogar.")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [bielykl](https://www.clubedohardware.com.br/profile/1247907-bielykl/ "Ir ao perfil de bielykl")  
+        1 hora atrás
+        
+    * [![Andy_luck](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255695.thumb.png.be0ca3906b23eaebea1b49790d11d230.png)](https://www.clubedohardware.com.br/profile/1255695-andy_luck/ "Ir ao perfil de Andy_luck")
+        
+        2
+        
+        [XPG Core Reactor 650W suporta Ryzen 5 5600G e GeForce RTX 4070Ti?](https://www.clubedohardware.com.br/forums/topic/1701755-xpg-core-reactor-650w-suporta-ryzen-5-5600g-e-geforce-rtx-4070ti/?do=getNewComment "XPG Core Reactor 650W suporta Ryzen 5 5600G e GeForce RTX 4070Ti?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Andy\_luck](https://www.clubedohardware.com.br/profile/1255695-andy_luck/ "Ir ao perfil de Andy_luck")  
+        1 hora atrás
+        
+    * [![julioheyon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255694.thumb.png.156f5e654fc39869be81d7ebe52169fd.png)](https://www.clubedohardware.com.br/profile/1255694-julioheyon/ "Ir ao perfil de julioheyon")
         
         6
         
-        [Mouse parou de funcionar e teclado falhando](https://www.clubedohardware.com.br/forums/topic/1701721-mouse-parou-de-funcionar-e-teclado-falhando/?do=getNewComment "Mouse parou de funcionar e teclado falhando")
+        [i5 8ªgeração, 32gb RAM - 3600hz, RTX 3060 12GB.](https://www.clubedohardware.com.br/forums/topic/1701754-i5-8%C2%AAgera%C3%A7%C3%A3o-32gb-ram-3600hz-rtx-3060-12gb/?do=getNewComment "i5 8ªgeração, 32gb RAM - 3600hz, RTX 3060 12GB.")
         
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Player1](https://www.clubedohardware.com.br/profile/1135792-player1/ "Ir ao perfil de Player1")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [julioheyon](https://www.clubedohardware.com.br/profile/1255694-julioheyon/ "Ir ao perfil de julioheyon")  
         2 horas atrás
-        
-    * [![S3DEX](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253434-s3dex/ "Ir ao perfil de S3DEX")
-        
-        0
-        
-        [Dificuldade para fechar a tampa traseira do gabinete TGT Carbon](https://www.clubedohardware.com.br/forums/topic/1701720-dificuldade-para-fechar-a-tampa-traseira-do-gabinete-tgt-carbon/?do=getNewComment "Dificuldade para fechar a tampa traseira do gabinete TGT Carbon")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [S3DEX](https://www.clubedohardware.com.br/profile/1253434-s3dex/ "Ir ao perfil de S3DEX")  
-        3 horas atrás
-        
-    * [![Augusto Limaa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255668.thumb.png.54104ec74170974ad795de43bbec87f9.png)](https://www.clubedohardware.com.br/profile/1255668-augusto-limaa/ "Ir ao perfil de Augusto Limaa")
-        
-        3
-        
-        [Melhoria do meu pc da amazon](https://www.clubedohardware.com.br/forums/topic/1701719-melhoria-do-meu-pc-da-amazon/?do=getNewComment "Melhoria do meu pc da amazon")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Augusto Limaa](https://www.clubedohardware.com.br/profile/1255668-augusto-limaa/ "Ir ao perfil de Augusto Limaa")  
-        3 horas atrás
-        
-    * [![Deimons o suju](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255217.thumb.jpeg.b804a1405c52c742e7be15c56f839e41.jpeg)](https://www.clubedohardware.com.br/profile/1255217-deimons-o-suju/ "Ir ao perfil de Deimons o suju")
-        
-        1
-        
-        [Upgrade de computador, Athlon 3000G para Ryzen 5 3600 e RX 6600, compensa?](https://www.clubedohardware.com.br/forums/topic/1701718-upgrade-de-computador-athlon-3000g-para-ryzen-5-3600-e-rx-6600-compensa/?do=getNewComment "Upgrade de computador, Athlon 3000G para Ryzen 5 3600 e RX 6600, compensa?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Deimons o suju](https://www.clubedohardware.com.br/profile/1255217-deimons-o-suju/ "Ir ao perfil de Deimons o suju")  
-        9 horas atrás
-        
-    * [![ian_slv](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255380.thumb.png.34a613b63a465965f37538283eac89a8.png)](https://www.clubedohardware.com.br/profile/1255380-ian_slv/ "Ir ao perfil de ian_slv")
-        
-        1
-        
-        [Qual placa-mãe é melhor pra RTX 4060 ?](https://www.clubedohardware.com.br/forums/topic/1701717-qual-placa-m%C3%A3e-%C3%A9-melhor-pra-rtx-4060/?do=getNewComment "Qual placa-mãe é melhor pra RTX 4060 ?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [ian\_slv](https://www.clubedohardware.com.br/profile/1255380-ian_slv/ "Ir ao perfil de ian_slv")  
-        9 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
