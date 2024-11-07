@@ -40,7 +40,7 @@
     * [AirPods](https://www.o2.co.uk/airpods)
     * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
     * [Great deals](https://www.o2.co.uk/shop/great-deals)
-    * [Black Friday](https://www.o2.co.uk/black-friday-cyber-monday)
+    * [Black Friday deals](https://www.o2.co.uk/black-friday-cyber-monday)
     
     * [![](https://a.storyblok.com/f/253875/137x34/7d4cb8fb12/quick-links-apple-1100.png/m/384x0)](https://www.o2.co.uk/shop/brand/apple?cnd=new)
         
@@ -540,20 +540,9 @@ Shop
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
 
 * [Home](https://www.o2.co.uk/)
-* [Terms & Conditions](https://www.o2.co.uk/termsandconditions)
-
-Website Terms of Use
 
 Related links
 -------------
-
-* [Business](https://www.o2.co.uk/termsandconditions/business)
-* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
-* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
-* [Archive](https://www.o2.co.uk/termsandconditions/archive)
-* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
-* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
-* [Privacy Policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
 
 * * *
 
