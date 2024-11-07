@@ -417,7 +417,7 @@ Get the App
 
 * [Help](https://www.iheart.com/help/)
 * [Privacy Policy](https://www.iheart.com/privacy/)
-* [Your Privacy Choices](https://iheart.com/optout/)
+* [Your Privacy Choices](https://privacy.iheart.com/)
 * [Terms of Use](https://www.iheart.com/terms/)
 * [AdChoices![Ad Choices](https://www.iheart.com/static/assets/aclogo.png)](https://www.iheart.com/adchoices/)
 
