@@ -310,7 +310,6 @@ Advertise
 
 ### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
 
-* 53 mins ago
 * Patrick Durkin
 
 * ### [This top fundie names the best business leaders she has met](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
@@ -325,7 +324,6 @@ Advertise
 
 ### [The tricks to layering your jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/the-tricks-to-layering-your-jewellery-20241028-p5klut)
 
-* 53 mins ago
 * Lauren Sams
 
 * ### [Good old tiles are making a comeback](https://www.afr.com/life-and-luxury/design/good-old-tiles-are-making-a-comeback-20241023-p5kkob)
