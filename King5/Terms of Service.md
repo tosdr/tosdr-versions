@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/e4814497-346d-43f3-beb3-74b449e850df/20241107T130424/e4814497-346d-43f3-beb3-74b449e850df_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e4814497-346d-43f3-beb3-74b449e850df/20241107T130424/e4814497-346d-43f3-beb3-74b449e850df_360x203.jpg)](https://www.king5.com/article/news/crime/man-shot-dispute-money-seattle-walgreens/281-904e7f9c-55ce-4506-a9ca-2d67835b466d)
+        
+        #### [Shooting near Seattle Walgreens result of 'dispute over money,' police say](https://www.king5.com/article/news/crime/man-shot-dispute-money-seattle-walgreens/281-904e7f9c-55ce-4506-a9ca-2d67835b466d)
+        
     *  [![](https://media.king5.com/assets/KING/images/013563a8-956c-43ac-823b-5af1dbceaf9c/20241107T071854/013563a8-956c-43ac-823b-5af1dbceaf9c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/013563a8-956c-43ac-823b-5af1dbceaf9c/20241107T071854/013563a8-956c-43ac-823b-5af1dbceaf9c_360x203.jpg)](https://www.king5.com/article/news/local/lead-copper-detected-tsa-break-room-sink-sea-airport/281-e6921d58-cc78-4000-858e-c03976cfa4a2)
         
         #### [Lead, copper detected in TSA break room sink at SEA Airport](https://www.king5.com/article/news/local/lead-copper-detected-tsa-break-room-sink-sea-airport/281-e6921d58-cc78-4000-858e-c03976cfa4a2)
-        
-    *  [![](https://media.king5.com/assets/KING/images/02e9b190-d09c-4676-bd47-0dc8c20b5d43/20241107T071145/02e9b190-d09c-4676-bd47-0dc8c20b5d43_16x9.jpg) ![](https://media.king5.com/assets/KING/images/02e9b190-d09c-4676-bd47-0dc8c20b5d43/20241107T071145/02e9b190-d09c-4676-bd47-0dc8c20b5d43_360x203.jpg)](https://www.king5.com/article/news/local/man-shot-auburn-search-for-suspects/281-15743d92-75f8-4aba-a6bd-a66a5f2447f4)
-        
-        #### [Man shot in Auburn, airlifted to Harborview](https://www.king5.com/article/news/local/man-shot-auburn-search-for-suspects/281-15743d92-75f8-4aba-a6bd-a66a5f2447f4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/767bb7db-543d-4e72-a181-a38dbd87a97a/20241107T062629/767bb7db-543d-4e72-a181-a38dbd87a97a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/767bb7db-543d-4e72-a181-a38dbd87a97a/20241107T062629/767bb7db-543d-4e72-a181-a38dbd87a97a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/a55f470d-6bce-4487-aaeb-59f6b837875f/20241107T125511/a55f470d-6bce-4487-aaeb-59f6b837875f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a55f470d-6bce-4487-aaeb-59f6b837875f/20241107T125511/a55f470d-6bce-4487-aaeb-59f6b837875f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+41°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
