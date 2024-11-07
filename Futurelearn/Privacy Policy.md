@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![Why Choose Online Degree Blog Header 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Why_Choose_Online_Degree_Blog_Header_1500x750-150x150.jpg.optimal.jpg "Why Choose Online Degree Blog Header 1500x750")](https://www.futurelearn.com/info/blog/why-choose-an-online-degree)
+    
+    [Why choose an online degree?](https://www.futurelearn.com/info/blog/why-choose-an-online-degree)
+    -------------------------------------------------------------------------------------------------
+    
+    Interested in furthering your education with an online degree? We take a look at the …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [General](https://www.futurelearn.com/info/blog/general), [Learning](https://www.futurelearn.com/info/blog/learning)
+    
 * [FutureLearn Celebrates National Career Development Month With A Focus On AI Skills](https://www.futurelearn.com/info/press/futurelearn-celebrates-national-career-development-month-with-a-focus-on-ai-skills)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -740,15 +749,6 @@ Powered By
     FutureLearn, the leading UK-based online learning provider, attended a gala dinner celebrating the 120th anniversary …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [![economics student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-99-150x150.png)](https://www.futurelearn.com/info/blog/economics-degree-careers)
-    
-    [What can I do with an economics degree?](https://www.futurelearn.com/info/blog/economics-degree-careers)
-    ---------------------------------------------------------------------------------------------------------
-    
-    Wondering which jobs you can do with an economics degree? Discover the top 10 careers …
-    
-    Category: [Business and Management](https://www.futurelearn.com/info/businessandmanagement), [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
