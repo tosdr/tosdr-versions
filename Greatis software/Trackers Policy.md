@@ -18,7 +18,7 @@ Pricing
 
 News
 
-  [Cybersecurity News](https://www.greatis.com/unhackme/help/)   [Questions and Answers](https://www.greatis.com/unhackme/qa/)   [Latest Release: 16.60.2024.1023 October 23 2024](https://www.greatis.com/unhackme/news.htm)   [Stable Beta: 16.62.2024.1030   October 30 2024](https://www.greatis.com/unhackme/news.htm)
+  [Cybersecurity News](https://www.greatis.com/unhackme/help/)   [Questions and Answers](https://www.greatis.com/unhackme/qa/)   [Latest Release: 16.60.2024.1023 October 23 2024](https://www.greatis.com/unhackme/news.htm)   [Stable Beta: 16.65.2024.1107   November 07 2024](https://www.greatis.com/unhackme/news.htm)
 
 Support
 
