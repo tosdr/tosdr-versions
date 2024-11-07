@@ -1,20 +1,20 @@
 [](https://www.pangleglobal.com/zh/)
 
-[首页](https://www.pangleglobal.com/zh/)
+[Home](https://www.pangleglobal.com/zh/)
 
-[解决方案](https://www.pangleglobal.com/zh/solution)
+[Solutions](https://www.pangleglobal.com/zh/solution)
 
-[内容中心](https://www.pangleglobal.com/zh/resource)
+[Resources](https://www.pangleglobal.com/zh/resource)
 
-[帮助中心](https://www.pangleglobal.com/zh/knowledge)
+[Help Center](https://www.pangleglobal.com/zh/helpcenter)
 
-[品牌安全中心](https://www.pangleglobal.com/zh/brandsafety)
+[Brand Safety Center](https://www.pangleglobal.com/zh/brandsafety)
 
-[首页](https://www.pangleglobal.com/zh/)
+[Home](https://www.pangleglobal.com/zh/)
 
 /
 
-协议条款
+Privacy and Terms
 
 隐私协议
 
