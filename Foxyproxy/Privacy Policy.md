@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much. Good services!
+Thanks for the quick turn around! That worked like a charm. :-)
 
-Gil Lessard
+Lee Fuller
