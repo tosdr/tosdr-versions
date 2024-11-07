@@ -18,8 +18,13 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
+
+Secondary Menu
+--------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -221,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Issues Order Approving 2025 Budget for Horseracing Integrity and Safety Authority](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-issues-order-approving-2025-budget-horseracing-integrity-safety-authority)
+    ### [FTC Sends More Than $536,000 in Refunds to Consumers Deceived by Misleading Ads for Sobrenix “Anti-Alcohol Craving” Supplement](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-536000-refunds-consumers-deceived-misleading-ads-sobrenix-anti-alcohol-craving)
     
-    November 6, 2024
+    November 7, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -323,8 +328,13 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
+
+Secondary Menu
+--------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
