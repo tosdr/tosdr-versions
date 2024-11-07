@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Military judge reinstates plea deals for 9/11 mastermind KSM, two other terrorists in shock ruling](https://nypost.com/2024/11/06/us-news/military-judge-reinstates-plea-deals-for-9-11-mastermind-ksm-two-other-terrorists-in-shock-ruling/)
-
 Terms Of Use
 ============
 
