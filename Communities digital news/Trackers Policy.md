@@ -26,45 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-howard-stage-1200x630.jpg)](https://americanwirenews.com/kamala-pulled-a-hillary/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-1200x630.jpg)](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
 
-[Kamala pulled a Hillary, deflated supporters stiffed](https://americanwirenews.com/kamala-pulled-a-hillary/)
+[Moping ‘Morning Joe’ panel admits Trump ‘knows our country better than we do’](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stew-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalas-failure-1200x630.jpg)](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
 
-[Jon Stewart’s profane on-air meltdown as Kamala crashes on election night](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
+[‘Literally not one county?’ Tapper FLOORED by map comparing Kamala’s abysmal failure to 2020](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-1200x630.jpg)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-barbara-heineback-1200x630.jpg)](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
 
-(Official White House Photo by Cameron Smith)
+[‘Sore loser’: Ex-Carter White House staffer unloads on ‘classless’ Kamala Harris](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
 
-[Where’s Joe? Where the hell is our CURRENT president? Just let Trump start early!](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-1200x630.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-1200x630.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
-(Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-fires-whoopi-1200x630.jpg)](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
 
-[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+[Jubilant Trump supporter just fired Whoopi from ‘The View’](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-1200x630.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_bannon-1200x630.jpg)](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
 
-[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+[Unfinished business: Bannon says DOJ, FBI will ‘pay the price’ for trying to destroy America](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-white-trump-1200x630.jpg)](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-stock-exchange-1200x630.jpg)](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
 
-[Fans want a role for Dana White in Trump’s White House after election night speech](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
+(Official White House Photo by Andrea Hanks)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-supporters-1200x630.png)](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
+[‘There was relief’: Trump’s historic win drives record highs on Wall Street](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
 
-[‘Witnessing this as I left the Trump victory party moved me to tears’](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lara-trump-1200x630.jpg)](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fl4-rond-1200-x-628-1200x630.jpg)](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
+[Lara Trump hailed as a hero: ‘You saved the election process in this country’](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
-[Body blow for Dems as FL voters reject abortion, dope amendments, DeSantis cheers big win](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-1200x630.jpg)
-
-### Bette Midler suggests she’ll drink a bottle of Drano if Trump wins, X users are waiting](https://americanwirenews.com/bette-midler-suggests-shell-drink-a-bottle-of-drano-if-trump-wins-x-users-are-waiting/)
+### Liz Cheney speaks out on Trump win but NOBODY is buying what she’s selling](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -82,10 +80,6 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
-
-[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Woods-220x180.jpg)](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
 
 [James Woods envisions ceremony to rid America of Mayorkas](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
@@ -93,12 +87,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bill-barr-220x180.jpg)](https://americanwirenews.com/bill-barr-calls-on-prosecutors-to-heed-voters-message-dismiss-pending-trump-cases-do-the-right-thing/)
 
 [Bill Barr calls on prosecutors to heed voters’ message, dismiss pending Trump cases: ‘Do the right thing’](https://americanwirenews.com/bill-barr-calls-on-prosecutors-to-heed-voters-message-dismiss-pending-trump-cases-do-the-right-thing/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-stock-exchange-220x180.jpg)](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
-
-[‘There was relief’: Trump’s historic win drives record highs on Wall Street](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
-
-(Official White House Photo by Andrea Hanks)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rubio-220x180.jpg)](https://americanwirenews.com/rubio-dodges-sec-of-state-inquiry-says-us-to-pursue-pragmatic-foreign-policy-under-trump/)
 
@@ -108,43 +96,15 @@ Search for:
 
 [Fox & Friends crows over Trump victory, suggests ‘wellness check’ on Obama, Clooney and Oprah](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_bannon-220x180.jpg)](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
-
-[Unfinished business: Bannon says DOJ, FBI will ‘pay the price’ for trying to destroy America](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-barbara-heineback-220x180.jpg)](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
-
-[‘Sore loser’: Ex-Carter White House staffer unloads on ‘classless’ Kamala Harris](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schumer-pelosi-220x180.jpg)](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
 
 [Kevin O’Leary: Obama, Pelosi and Schumer will have NO influence on Dems in 4 years](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
-
-[Liz Cheney speaks out on Trump win but NOBODY is buying what she’s selling](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-harris-220x180.jpg)](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
 
 [Kamala Harris mum, campaign says there are still ‘votes to count’](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
 
 (Official White House Photo by Lawrence Jackson)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-fires-whoopi-220x180.jpg)](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
-
-[Jubilant Trump supporter just fired Whoopi from ‘The View’](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalas-failure-220x180.jpg)](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
-
-[‘Literally not one county?’ Tapper FLOORED by map comparing Kamala’s abysmal failure to 2020](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-220x180.jpg)](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
-
-[Moping ‘Morning Joe’ panel admits Trump ‘knows our country better than we do’](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lara-trump-220x180.jpg)](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
-
-[Lara Trump hailed as a hero: ‘You saved the election process in this country’](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182894075-1-220x180.jpg)](https://americanwirenews.com/bill-oreilly-tells-maga-to-embrace-a-no-gloat-zone-and-avoid-retribution/)
 
@@ -185,6 +145,46 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cardib-1200-x-628-220x180.jpg)](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
 
 [Cardi B leads melodramatic celebrity meltdowns as Trump clobbers Kamala](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fl4-rond-1200-x-628-220x180.jpg)](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
+
+[Body blow for Dems as FL voters reject abortion, dope amendments, DeSantis cheers big win](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-supporters-220x180.png)](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
+
+[‘Witnessing this as I left the Trump victory party moved me to tears’](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-white-trump-220x180.jpg)](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
+
+[Fans want a role for Dana White in Trump’s White House after election night speech](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-220x180.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+
+[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-220x180.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+
+[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+
+(Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-220x180.jpg)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
+
+[Where’s Joe? Where the hell is our CURRENT president? Just let Trump start early!](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
+
+(Official White House Photo by Cameron Smith)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stew-1200-x-628-220x180.jpg)](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
+
+[Jon Stewart’s profane on-air meltdown as Kamala crashes on election night](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-howard-stage-220x180.jpg)](https://americanwirenews.com/kamala-pulled-a-hillary/)
+
+[Kamala pulled a Hillary, deflated supporters stiffed](https://americanwirenews.com/kamala-pulled-a-hillary/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/bette-midler-suggests-shell-drink-a-bottle-of-drano-if-trump-wins-x-users-are-waiting/)
+
+[Bette Midler suggests she’ll drink a bottle of Drano if Trump wins, X users are waiting](https://americanwirenews.com/bette-midler-suggests-shell-drink-a-bottle-of-drano-if-trump-wins-x-users-are-waiting/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
