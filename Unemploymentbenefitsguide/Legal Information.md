@@ -20,7 +20,7 @@ Copyright © C4R Media Corp.
 
 [Terms & Conditions](https://unemploymentbenefitsguide.com/terms-conditions/) | [How It Works](https://unemploymentbenefitsguide.com/how-it-works/) | [Privacy Policy](https://unemploymentbenefitsguide.com/privacy-policy/) | [Data Policy](https://unemploymentbenefitsguide.com/data-policy/) | [Do Not Sell or Share My Personal Info](https://unemploymentbenefitsguide.com/do-not-sell-my-information/) | [Accessible View](https://unemploymentbenefitsguide.com/accessible-view/) | [Privacy Notice](https://unemploymentbenefitsguide.com/privacy-notice/)| [Unsubscribe](https://reg.unemploymentbenefitsguide.com/unsub.aspx)
 
-                           [Skip to content](#content)
+                [Skip to content](#content)
 
 [Open toolbar](javascript:void(0); "Accessibility Tools")
 
