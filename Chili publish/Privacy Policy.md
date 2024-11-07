@@ -269,15 +269,15 @@ For specific services, apps or events, we may collect other types of data and us
     
     Would you like to view or improve your data?
     
-    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#99;&#104;&#x69;&#108;&#105;&#x2d;&#112;&#117;&#98;&#108;&#x69;&#x73;&#104;&#x2e;&#x63;&#111;&#109;)
+    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#112;&#x72;&#x69;&#x76;&#97;&#x63;&#x79;&#x40;&#99;&#x68;&#105;&#x6c;&#105;&#45;&#112;&#x75;&#98;&#108;&#x69;&#x73;&#x68;&#x2e;&#99;&#111;&#109;)
     
     Would you like to unsubscribe from the CHILI publish newsletter?
     
     This is possible using the link at the bottom of each mail or via this preference page.
     
-    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#x70;&#x72;&#105;&#118;&#x61;&#x63;&#121;&#x40;&#99;&#104;&#x69;&#108;&#105;&#45;&#112;&#x75;&#x62;&#108;&#x69;&#115;&#104;&#46;&#x63;&#x6f;&#109;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
+    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#x70;&#114;&#105;&#118;&#x61;&#x63;&#121;&#64;&#99;&#104;&#105;&#x6c;&#105;&#x2d;&#x70;&#x75;&#x62;&#108;&#105;&#x73;&#x68;&#46;&#99;&#x6f;&#109;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
     
-    You can also contact us via [privacy@chili-publish.com](mailto:&#x70;&#x72;&#105;&#x76;&#97;&#x63;&#121;&#64;&#99;&#104;&#105;&#108;&#x69;&#x2d;&#x70;&#x75;&#x62;&#x6c;&#105;&#x73;&#x68;&#x2e;&#99;&#x6f;&#109;) if you have any questions, comments or complaints concerning this privacy statement.
+    You can also contact us via [privacy@chili-publish.com](mailto:&#x70;&#114;&#x69;&#118;&#x61;&#99;&#x79;&#x40;&#99;&#104;&#105;&#x6c;&#105;&#x2d;&#x70;&#x75;&#98;&#x6c;&#105;&#115;&#x68;&#46;&#99;&#111;&#x6d;) if you have any questions, comments or complaints concerning this privacy statement.
     
 8. How will this privacy statement be maintained?
     
