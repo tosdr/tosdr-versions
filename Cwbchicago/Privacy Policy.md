@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Darryl-Alexander-326x245.jpg)](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
+
+CTA
+
+### [Man randomly attacked 5 women on the CTA, causing face fracture, concussion](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
+
+[November 3, 2024 3:03 PM](https://cwbchicago.com/2024/11)
+
+A man who has been repeatedly accused of attacking women on CTA trains has been detained as a public safety threat after prosecutors charged him with assaulting five more women since summer.[](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/bb11-326x245.jpg)](https://cwbchicago.com/2024/11/passerby-finds-man-fatally-shot-on-a-street-previously-served-by-shotspotter.html "Passerby finds man fatally shot on a street previously served by ShotSpotter")
 
 Ashburn
@@ -262,16 +272,6 @@ West Town
 [November 3, 2024 5:42 AM](https://cwbchicago.com/2024/11)
 
 Drive-by gunmen opened fire as they rolled through the Fulton River District overnight, leaving two people injured.[](https://cwbchicago.com/2024/11/drive-by-shooters-injure-2-in-fulton-river-district.html "Drive-by shooters injure 2 in Fulton River District")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/7400-n-winchester-chicago-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-is-neighborhoods-9th-shooting-victim-in-a-month.html "Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month")
-
-Rogers Park
-
-### [Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-is-neighborhoods-9th-shooting-victim-in-a-month.html "Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month")
-
-[November 3, 2024 3:39 AM](https://cwbchicago.com/2024/11)
-
-A 24-year-old man was shot while sitting in a car in Rogers Park on Saturday evening, according to Chicago police. He is the ninth person shot in the neighborhood since October 1.[](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-is-neighborhoods-9th-shooting-victim-in-a-month.html "Man shot in Rogers Park is neighborhood’s 9th shooting victim in a month")
 
 Search
 
