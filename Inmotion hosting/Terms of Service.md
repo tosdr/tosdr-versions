@@ -74,7 +74,7 @@ Close Menu Main Menu
 
 [Login](https://secure1.inmotionhosting.com/ "AMP Login")
 
-[InMotion Hosting Agreements and Policies](https://www.inmotionhosting.com/legal)
+[Trust Center](https://www.inmotionhosting.com/legal)
 
 * Agreements
     * [Universal Terms of Service](https://www.inmotionhosting.com/legal/)
