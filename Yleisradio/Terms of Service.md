@@ -16,7 +16,6 @@ Pinnalla nyt
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
 * [Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)
 * [Pentulive](https://yle.fi/t/18-332106/fi)
-* [Lähi-itä](https://yle.fi/t/18-185583/fi)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
