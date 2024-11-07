@@ -473,7 +473,7 @@ Additionally, you have the option to opt-out of using third-party tracking in th
 
 #### a) Game analysis services
 
-When you use our Services, InnoGames and our third-party analysis service partners collect personal data. This is either done by placing a cookie in the cache of your browser or via an SDK embedded in our apps, which sends information to our Partners. The data generally includes your IP address and in-game events.
+When you use our Services, InnoGames and our third-party analysis service partners collect personal data. This is either done by placing a cookie in the cache of your browser, via an SDK embedded in our apps, or via a link in an email, which sends information to our Partners. The data generally includes your IP address and in-game events.
 
 #### b) Other analysis services
 
@@ -483,7 +483,7 @@ When you visit the “Career” section of our company website and our LinkedIn 
 
 #### a) Game analysis services
 
-InnoGames makes use of these third-party analysis services for fraud detection and prevention, to detect breaches of InnoGames’ Terms and Conditions, to track in-game-events to create user-related statistics of activity, to measure performance on different versions of devices and player’s reaction to version changes, and the stability and compatibility of the current game version.
+InnoGames makes use of these third-party analysis services to detect and prevent breaches of InnoGames’ Terms of Service, to detect and prevent fraud, to measure the success of marketing and newsletter campaigns, to track in-game-events to create user-related activity statistics, to measure the player’s reaction to version changes, to measure the performance on different devices, as well as to measure the compatibility, performance and stability of the current game version.
 
 #### b) Other analysis services
 
