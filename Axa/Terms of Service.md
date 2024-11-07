@@ -356,7 +356,7 @@ Menu Close
 
 Car insurance
 
-Get AXA Car Insurance from as little as £278 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 July and 30 September 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Car Insurance from as little as £270 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 August and 31 October 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/car-insurance/ "Car insurance")
 
@@ -402,7 +402,7 @@ Tips and FAQs
 
 Home insurance
 
-Get AXA Home Insurance from as little as £191 (10% of AXA Plus Home Insurance customers paid this or less between 1 July and 30 September 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Home Insurance from as little as £190 (10% of AXA Plus Home Insurance customers paid this or less between 1 August and 31 October 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/home-insurance/ "Home insurance")
 
