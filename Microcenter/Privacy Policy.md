@@ -444,49 +444,7 @@ Product category, brand navigation and general site naviation
             * [View All Computers](https://www.microcenter.com/site/products/computers.aspx)
             * [All Service & Repair](https://www.microcenter.com/site/service/service.aspx)
         
-    * Apple
-        
-        Apple options - 7 groups of items - 22 total selections
-        
-        * Mac
-            
-            * [MacBook Air](https://www.microcenter.com/category/4294967288,4294820432,4294816489/macbook-air)
-            * [MacBook Pro](https://www.microcenter.com/category/4294967288,4294820432,4294820039/macbook-pro)
-            * [Mac Mini](https://www.microcenter.com/category/4294967292,4294819353,4294815886/mac-mini)
-            * [iMac](https://www.microcenter.com/category/4294967292,4294819353,4294818866,4294812729/imac)
-        * iPad
-            
-            * [iPad](https://www.microcenter.com/category/4294954919,4294810035/ipad)
-            * [iPad Air](https://www.microcenter.com/category/4294954919,4294810034/ipad-air)
-            * [iPad Pro](https://www.microcenter.com/category/4294954919,4294810038/ipad-pro)
-            * [iPad Mini](https://www.microcenter.com/category/4294954919,4294810040/ipad-mini)
-        * Hardware & Accessories
-            
-            * [Mac Hardware](https://www.microcenter.com/category/4294967082/mac-hardware)
-            * [Mac Accessories](https://www.microcenter.com/category/4294964321/mac-accessories)
-            * [iPad Accessories](https://www.microcenter.com/category/4294821562,4294822454,4294899875/ipad-accessories)
-            * [AirPod Accessories](https://www.microcenter.com/category/4294966697,4294807654/airpod-accessories)
-        * Audio
-            
-            * [AirPods](https://www.microcenter.com/category/4294966661,4294807650,4294807643,4294807648/airpods)
-            * [Beats Audio](https://www.microcenter.com/category/4294966661,4294807652,4294807645,4294807647,4294807641/beats-audio)
-            * [HomePod](https://www.microcenter.com/category/4294966669,4294821562/homepod)
-        * Apple Watch
-            
-            * [Apple Watch](https://www.microcenter.com/category/4294857880,4294816352/apple-watch)
-            * [Apple Watch Accessories](https://www.microcenter.com/category/4294857880,4294804373/apple-watch-accessories)
-        * Apple iPhones
-            
-            * [iPhone](https://www.microcenter.com/category/4294939905,4294819081/iphone)
-            * [iPhone Cases](https://www.microcenter.com/category/4294954977/iphone-cases)
-            * [iPhone Accessories](https://www.microcenter.com/category/4294954976/iphone-accessories)
-        * Explore All Categories
-            
-            * [View All Apple Products](https://www.microcenter.com/site/brands/apple-showcase.aspx)
-            * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
-        
-        Savings on [Apple Laptops](https://www.microcenter.com/search/search_results.aspx?N=4294967288+4294820432)
-        
+    * [Apple](https://www.microcenter.com/category/4294967292,4294819353/apple)
     * Electronics
         
         Electronics options - 13 groups of items - 73 total selections
