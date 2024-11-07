@@ -22,7 +22,7 @@ Website Policies and Terms of Service
 #### PRIVACY POLICY AND TERMS OF SERVICE
 
 **PRIVACY POLICY**  
-As of November 06, 2024
+As of November 07, 2024
 
 Please note that the practices of If I Need Help, a California non-profit corporation (“If I Need Help”), with respect to personal information are now governed by this Privacy Policy as the same may be amended from time to time. We encourage visitors to and users of our site at https://ifineedhelp.org (the “Site”) to regularly review our Privacy Policy.
 
@@ -159,7 +159,7 @@ If you believe that If I Need Help has not complied with this Privacy Policy wit
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact If I Need Help by emailing support@ifineedhelp.org or by phone at (661) 524-6732, or by postal mail at If I Need Help, P.O. Box 803356, Santa Clarita, California 91380.
 
 **WEBSITE TERMS OF USE**  
-as of November 06, 2024
+as of November 07, 2024
 
 Please read these Website Terms of Use (“Terms of Use”) carefully before accessing https://ifineedhelp.org or using this website. These Terms of Use apply to the If I Need Help website located at If I Need Help.com, and all associated sites linked to https://ifineedhelp.org (collectively, the “Site”).
 
