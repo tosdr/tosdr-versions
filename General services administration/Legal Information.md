@@ -34,8 +34,8 @@ close mobile menu
         Toggle submenu](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease?topnav=buy-through-us)
         
         * [Personal property (tangible goods)](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease/personal-property-for-reuse-and-sale?topnav=buy-through-us)
-        * [Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/overview/surplus-real-property-available-for-public-use?topnav=buy-through-us)
-        * [Real property sales](https://www.gsa.gov/real-estate/real-estate-services/overview/property-sales?topnav=buy-through-us)
+        * [Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition/surplus-real-property-available-for-public-use?topnav=buy-through-us)
+        * [Real property sales](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition/property-sales?topnav=buy-through-us)
         * [Vehicle sales](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management/vehicle-leasing/sales-of-gsa-fleet-vehicles?topnav=buy-through-us)
         
     * [Products and services
@@ -185,7 +185,7 @@ close mobile menu
         Toggle submenu](https://www.gsa.gov/real-estate/real-estate-services?topnav=real-estate)
         
         * [Leasing](https://www.gsa.gov/real-estate/real-estate-services/leasing?topnav=real-estate)
-        * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/overview?topnav=real-estate)
+        * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition?topnav=real-estate)
         * [Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-program?topnav=real-estate)
         * [Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rent-pricing-and-payments?topnav=real-estate)
         * [Site selection and relocation](https://www.gsa.gov/real-estate/real-estate-services/site-selection-relocation?topnav=real-estate)
@@ -199,7 +199,7 @@ close mobile menu
     -----------------------------
     
     * [Historic preservation tools and resources](https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools?topnav=real-estate-feature "Procedures for maintaining and repairing historic buildings.") Procedures for maintaining and repairing historic buildings.
-    * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/overview?topnav=real-estate "Dispose or acquire excess federal real property including buildings or land.") Dispose or acquire excess federal real property including buildings or land.
+    * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition?topnav=real-estate "Dispose or acquire excess federal real property including buildings or land.") Dispose or acquire excess federal real property including buildings or land.
     
 * Policy and regulations
     
@@ -433,9 +433,9 @@ Buy through us expand menu
 
 [Personal property (tangible goods)](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease/personal-property-for-reuse-and-sale?topnav=buy-through-us)
 
-[Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/overview/surplus-real-property-available-for-public-use?topnav=buy-through-us)
+[Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition/surplus-real-property-available-for-public-use?topnav=buy-through-us)
 
-[Real property sales](https://www.gsa.gov/real-estate/real-estate-services/overview/property-sales?topnav=buy-through-us)
+[Real property sales](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition/property-sales?topnav=buy-through-us)
 
 [Vehicle sales](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management/vehicle-leasing/sales-of-gsa-fleet-vehicles?topnav=buy-through-us)
 
@@ -605,7 +605,7 @@ Real estate expand menu
 
 [Leasing](https://www.gsa.gov/real-estate/real-estate-services/leasing?topnav=real-estate)
 
-[Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/overview?topnav=real-estate)
+[Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition?topnav=real-estate)
 
 [Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-program?topnav=real-estate)
 
