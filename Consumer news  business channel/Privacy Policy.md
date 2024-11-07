@@ -40,7 +40,7 @@ Last Updated: June 4, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/206?intake=Telemundo_31 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/node/9821 "Printer Friendly, PDF & Email")
 
 Your Privacy Choices: Opt-out of sale of personal information and Opt-out of sharing or processing personal information for targeted ads.
 =========================================================================================================================================
