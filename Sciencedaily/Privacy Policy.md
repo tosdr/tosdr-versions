@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Haptic Patch for Complexity of Touch in VR](https://www.sciencedaily.com/releases/2024/11/241106132217.htm)
+* [Your Brain, While You Watch a Movie](https://www.sciencedaily.com/releases/2024/11/241106132234.htm)
+* [Use of 'Genetic Scissors' Carries Risks](https://www.sciencedaily.com/releases/2024/11/241106132646.htm)
+* [How the Brain Handles Hunger](https://www.sciencedaily.com/releases/2024/11/241106132326.htm)
+* [Imaging Nuclear Shapes by Smashing Them](https://www.sciencedaily.com/releases/2024/11/241106132223.htm)
+* [How the Brain Constantly Refreshes Memory](https://www.sciencedaily.com/releases/2024/11/241106132215.htm)
+* [Revolutionizing Data Storage](https://www.sciencedaily.com/releases/2024/11/241106132133.htm)
 * [Egg or Chicken? Ancient Unicellular Says Egg](https://www.sciencedaily.com/releases/2024/11/241106132114.htm)
 * [Interstellar Methane: Progenitor of Amino Acids?](https://www.sciencedaily.com/releases/2024/11/241106132453.htm)
 * [Outer Solar System's Origins and Asteroid Grains](https://www.sciencedaily.com/releases/2024/11/241106132119.htm)
-* [Mighty Radio Bursts Linked to Massive Galaxies](https://www.sciencedaily.com/releases/2024/11/241106132116.htm)
-* [AI Doesn't Really Understand the World](https://www.sciencedaily.com/releases/2024/11/241105191826.htm)
-* [When Earth Was Slushy](https://www.sciencedaily.com/releases/2024/11/241105174745.htm)
-* [Bio-Based Fibers May Be Worse Than Plastics](https://www.sciencedaily.com/releases/2024/11/241105114318.htm)
-* [Towards a Hydrogen-Powered Future](https://www.sciencedaily.com/releases/2024/11/241105114155.htm)
-* [Deaf Male Mosquitoes Don't Mate](https://www.sciencedaily.com/releases/2024/11/241105113844.htm)
-* [AI for Real-Time, Patient-Focused Insight](https://www.sciencedaily.com/releases/2024/11/241104150638.htm)
 
 Trending Topics
 ---------------
@@ -232,7 +232,7 @@ this week
 
 [Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
-[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
+[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
