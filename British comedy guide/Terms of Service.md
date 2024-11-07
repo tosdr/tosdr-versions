@@ -176,9 +176,13 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Rhys James. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/r/rhys_james_2022.jpg "Rhys James. Credit: Matt Crockett")](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/) Shop
+
+[Rhys James talks about his Spilt Milk special](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/)
+
 [![Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris](https://cdn.comedy.co.uk/images/library/misc/300x200/a/austentatious_2024.jpg "Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris")](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/) Live
 
-[Amusement and adventures with Austentatious: Q&A with Rachel Parris](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/)
+[Austentatious Q&A with Rachel Parris](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/)
 
 [![The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_full_monty.jpg "The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)")](https://www.comedy.co.uk/quiz/331/) Quiz
 
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Juno Birch. Credit: Emma Jones](https://cdn.comedy.co.uk/images/library/people/300x200/j/juno_birch.jpg "Juno Birch. Credit: Emma Jones")](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/) Live
 
 [Probing Juno Birch about her show](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/)
-
-[![Michael Brunström](https://cdn.comedy.co.uk/images/library/people/300x200/m/michael_brunstrom_headshot.jpg "Michael Brunström")](https://www.comedy.co.uk/live/random8/michael-brunstrom/) Live
-
-[Random 8: Michael Brunström](https://www.comedy.co.uk/live/random8/michael-brunstrom/)
 
 #### Subscribe to our newsletters
 
