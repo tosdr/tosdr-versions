@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=506212280369806&ev=PageView&noscript=1)                    Terms and Conditions | Lover App Inc                     
+![](https://www.facebook.com/tr?id=506212280369806&ev=PageView&noscript=1)                    Terms and Conditions | Lover App Inc                 
 
 top of page
 
