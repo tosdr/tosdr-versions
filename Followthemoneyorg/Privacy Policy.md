@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![SF Giants](/assets/Images/teasers/small/Giants.png)](https://www.followthemoney.org/research/blog/giants-give-royally/)
-
-$3M from San Francisco Giants, 2000-13.
+[![Names in the News: National Federation of Independent Business](/assets/Images/teasers/full/NFIB.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-national-federation-of-independent-business/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
