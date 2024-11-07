@@ -201,10 +201,8 @@ The above information must be submitted to the following DMCA Agent:
   
 Attn: DMCA Notice  
 Vero Labs, Inc.  
-Address: 101 W 23rd St, Suite 2394  
-10011, NY, NY  
-Telephone: +1-347-903-5112  
-Fax: +1-347-620-7002  
+Address: 228 Park Avenue S, Suite 131065, New York, NY 10003-1502, USA  
+Telephone: +1 646 893 9837  
 Email: [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection)  
   
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.  
