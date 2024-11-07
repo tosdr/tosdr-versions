@@ -4,7 +4,7 @@ Menu [![BFMTV](/assets/v8/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.s
 
 Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v8/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
 
-DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
+Direct](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
@@ -585,15 +585,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Kamala Harris et Donald Trump, les deux candidats à l'élection présidentielle américaine de 2024.](https://images.bfmtv.com/1mXI257QcP-aJ8m7EOu5F67w_Nk=/0x192:2048x1344/300x0/images/Kamala-Harris-et-Donald-Trump-les-deux-candidats-a-l-election-presidentielle-americaine-de-2024-1971089.jpg)
+1. [![Kamala Harris concède sa défaite face à Donald Trump à la présidentielle, le 6 novembre 2024](https://images.bfmtv.com/6dc6JSe4787Bh-GnCL-g-9VjfWU=/0x212:2048x1364/300x0/images/Kamala-Harris-1971809.jpg)
     
-    ![Kamala Harris et Donald Trump, les deux candidats à l'élection présidentielle américaine de 2024.](https://images.bfmtv.com/1mXI257QcP-aJ8m7EOu5F67w_Nk=/0x192:2048x1344/300x0/images/Kamala-Harris-et-Donald-Trump-les-deux-candidats-a-l-election-presidentielle-americaine-de-2024-1971089.jpg)
+    ![Kamala Harris concède sa défaite face à Donald Trump à la présidentielle, le 6 novembre 2024](https://images.bfmtv.com/6dc6JSe4787Bh-GnCL-g-9VjfWU=/0x212:2048x1364/300x0/images/Kamala-Harris-1971809.jpg)
     
-    ### CARTE. Élection américaine 2024: Donald Trump élu, les résultats État par État](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/carte-election-americaine-2024-les-resultats-de-la-presidentielle-en-temps-reel-etat-par-etat_GN-202411050840.html "CARTE. Élection américaine 2024: Donald Trump élu, les résultats État par État")
-2. [### Élection américaine: les 5 informations à retenir de cette nuit présidentielle](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/election-americaine-les-5-informations-a-retenir-de-cette-nuit-presidentielle_AN-202411060270.html "Élection américaine: les 5 informations à retenir de cette nuit présidentielle")
-3. [### Le grand hypermarché, un format moribond qui handicape Auchan depuis des années](https://www.bfmtv.com/economie/consommation/le-grand-hypermarche-un-format-moribond-qui-handicape-auchan-depuis-des-annees_AN-202411050712.html "Le grand hypermarché, un format moribond qui handicape Auchan depuis des années")
-4. [### "L'Amour est dans le pré": une candidate a appris en plein tournage qu'elle avait un cancer](https://www.bfmtv.com/people/tv/l-amour-est-dans-le-pre-une-candidate-a-appris-en-plein-tournage-qu-elle-avait-un-cancer_AN-202411050624.html ""L'Amour est dans le pré": une candidate a appris en plein tournage qu'elle avait un cancer")
-5. [### Accusations de racisme: pourquoi les aventures de Spirou sont si longtemps passées sous les radars](https://www.bfmtv.com/people/bandes-dessinees/accusations-de-racisme-pourquoi-les-aventures-de-spirou-sont-si-longtemps-passees-sous-les-radars_AN-202411050418.html "Accusations de racisme: pourquoi les aventures de Spirou sont si longtemps passées sous les radars")
+    ### "Comme si la partie était terminée": quel avenir politique pour Harris après sa défaite contre Trump?](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/comme-si-la-partie-etait-terminee-quel-avenir-politique-pour-harris-apres-sa-defaite-contre-trump_AN-202411070408.html ""Comme si la partie était terminée": quel avenir politique pour Harris après sa défaite contre Trump?")
+2. [### Comment un Français a gagné 50 millions de dollars en pariant sur une victoire de Donald Trump sur Polymarket](https://www.bfmtv.com/tech/vie-numerique/comment-un-francais-a-gagne-50-millions-de-dollars-en-pariant-sur-une-victoire-de-donald-trump-sur-polymarket_AV-202411070655.html "Comment un Français a gagné 50 millions de dollars en pariant sur une victoire de Donald Trump sur Polymarket")
+3. [### INFO BFMTV. Slimane: une enquête pour "harcèlement sexuel" ouverte contre le chanteur](https://www.bfmtv.com/police-justice/slimane-une-enquete-pour-harcelement-sexuel-ouverte-contre-le-chanteur_AN-202411070575.html "INFO BFMTV. Slimane: une enquête pour "harcèlement sexuel" ouverte contre le chanteur")
+4. [### Inondations en Espagne: mobilisation pour retrouver Izan et Ruben, deux frères de 5 et 3 ans disparus](https://www.bfmtv.com/international/europe/espagne/inondations-en-espagne-mobilisation-pour-retrouver-izan-et-ruben-deux-freres-de-5-et-3-ans-disparus_AV-202411070668.html "Inondations en Espagne: mobilisation pour retrouver Izan et Ruben, deux frères de 5 et 3 ans disparus")
+5. [### Il avait tenté de tuer le petit ami de sa mère avec un faux vaccin: un médecin britannique condamné à 31 ans de prison](https://www.bfmtv.com/international/europe/angleterre/il-avait-tente-de-tuer-le-petit-ami-de-sa-mere-avec-un-faux-vaccin-un-medecin-britannique-condamne-a-31-ans-de-prison_AN-202411070543.html "Il avait tenté de tuer le petit ami de sa mère avec un faux vaccin: un médecin britannique condamné à 31 ans de prison")
 
 ![BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
