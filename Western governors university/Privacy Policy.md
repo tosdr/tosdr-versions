@@ -30,7 +30,7 @@
 
 ##### Bachelor's Degrees
 
-* [View all Business Bachelor's Degrees](https://www.wgu.edu/online-business-degrees/bachelors-programs.html)
+* [View all Business Bachelor's Degrees.](https://www.wgu.edu/online-business-degrees/bachelors-programs.html)
 * [Business Management – B.S. Business Administration](https://www.wgu.edu/online-business-degrees/business-management-bachelors-program.html)
 * [Healthcare Administration – B.S.](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
 * [Human Resource Management – B.S. Business Administration](https://www.wgu.edu/online-business-degrees/human-resources-bachelors-program.html)
@@ -367,7 +367,7 @@ Online Degrees
     
     * Bachelor's Degrees
         
-        * [View all Business Bachelor's Degrees](https://www.wgu.edu/online-business-degrees/bachelors-programs.html)
+        * [View all Business Bachelor's Degrees.](https://www.wgu.edu/online-business-degrees/bachelors-programs.html)
         * [Business Management – B.S. Business Administration](https://www.wgu.edu/online-business-degrees/business-management-bachelors-program.html)
         * [Healthcare Administration – B.S.](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
         * [Human Resource Management – B.S. Business Administration](https://www.wgu.edu/online-business-degrees/human-resources-bachelors-program.html)
