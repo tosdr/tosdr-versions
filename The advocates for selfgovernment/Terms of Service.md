@@ -253,6 +253,16 @@ Enable Dark Mode
     
     Latest Articles
     
+    *    [![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png) ![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png)
+        
+        Underthrow Series
+        
+        Are You a Fox or a Hedgehog?
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/are-you-a-fox-or-a-hedgehog/)
+        
     *    [![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png) ![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png)
         
         Underthrow Series
@@ -535,6 +545,16 @@ Quizzes & Apps
 Articles
 --------
 
+*    [![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png) ![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png)
+    
+    Underthrow Series
+    
+    Are You a Fox or a Hedgehog?
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/are-you-a-fox-or-a-hedgehog/)
+    
 *    [![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png) ![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png)
     
     Underthrow Series
