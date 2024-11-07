@@ -152,7 +152,7 @@ Search
 * [GIFT FINDER](https://areyougame.com/pages/gift-finder)
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
-* [SALE](https://areyougame.com/collections/warehouse-clearance)
+* [SALE](https://areyougame.com/collections/select-games-puzzles-and-activities)
 
 * [](https://www.facebook.com/AreYouGameCom)
 * [](https://www.youtube.com/channel/UCVXt37urmmPzWfGODMUp7Pw)
@@ -320,7 +320,7 @@ Search
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
     
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
-* [SALE](https://areyougame.com/collections/warehouse-clearance)
+* [SALE](https://areyougame.com/collections/select-games-puzzles-and-activities)
 * [More links](#)
     
 
