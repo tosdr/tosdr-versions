@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-alexander-isakov-feature.jpg)
+
+[](https://theinspirationgrid.com/intricate-abstract-murals-by-alexander-isakov/)
+
+### Intricate Abstract Murals by Alexander Isakov
+
+![](https://inspgr.id/app/uploads/2024/11/illustration-anthony-ventura-feature.jpg)
+
+[](https://theinspirationgrid.com/expressive-illustrated-portraits-by-anthony-ventura/)
+
+### Expressive Illustrated Portraits by Anthony Ventura
+
 ![](https://inspgr.id/app/uploads/2024/11/art-oupas-design-feature.jpg)
 
 [](https://theinspirationgrid.com/wonderful-paper-creations-by-oupas-design/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/editorial-illustrations-by-mark-long/)
 
 ### Playful Editorial Illustrations by Mark Long
-
-![](https://inspgr.id/app/uploads/2024/10/art-cote-escriva-feature.jpg)
-
-[](https://theinspirationgrid.com/creepy-disney-art-toys-by-cote-escriva/)
-
-### Creepy Disney: Art Toys by Coté Escrivá
-
-![](https://inspgr.id/app/uploads/2024/10/photography-maxime-vantorre-feature.jpg)
-
-[](https://theinspirationgrid.com/65-degrees-north-gorgeous-photos-by-maxime-vantorre/)
-
-### 65 Degrees North: Gorgeous Photos by Maxime Vantorre
 
 Awesome products for creatives
 ------------------------------
