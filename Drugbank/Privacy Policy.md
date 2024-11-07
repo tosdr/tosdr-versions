@@ -1,4 +1,4 @@
-[**\[Data Library\]**: explore data packages specific to your use case and the included tables.Discover More!](https://go.drugbank.com/data_packages?utm_campaign=DB%20Online%20Site%20Experiments&utm_source=Banner&utm_medium=Data%20Library)
+[Addressing the Challenge of Antibiotic ResistanceRead Now!](https://bit.ly/3NVBGh6)
 
 [![DrugBank logo](/assets/logo-online-pink-69f661028a0befc92ef5e94f23828096639203be3dc44b98e29be5a7e60b49e9.svg)](https://go.drugbank.com/)
 
