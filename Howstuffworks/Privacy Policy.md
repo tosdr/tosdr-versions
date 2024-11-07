@@ -137,7 +137,7 @@ Please copy/paste the following text to properly cite this HowStuffWorks.com art
 Copy
 
 Marshall Brain "How Internet Cookies Work" 26 April 2000.  
-HowStuffWorks.com. <https://computer.howstuffworks.com/cookie.htm> 6 November 2024
+HowStuffWorks.com. <https://computer.howstuffworks.com/cookie.htm> 7 November 2024
 
 Close
 
