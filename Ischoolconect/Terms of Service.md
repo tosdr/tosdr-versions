@@ -136,9 +136,9 @@ Footer
 
 USA : 33 Boston Post Road, Suite 600, Marlborough MA 01752, USA
 
-India : 504, Quantum Towers, Rambaug Lane, Behind SBI Bank, Off SV Road, Malad West, Mumbai, Maharashtra- 400064
+India : C/001, Shree Sai Tower CHS, Sodawala Lane, Govind Nagar, Borivali West, Mumbai, Maharashtra, 400092
 
-Studio 4, Plot 3, Block A, Sector 4, Noida, Uttar Pradesh 201301
+3rd Floor, Awfis Majestic Omnia, Block A, Sector 4, Noida, Uttar Pradesh 201301
 
 #### Phone
 
