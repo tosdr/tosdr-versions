@@ -428,11 +428,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/mrd-bajic/fabrika/factory/fabrika-reset-bijenale-venecija.jpg?itok=VvOVxV2p)](http://seecult.org/galerija/galerija-umetnika/mrdan-bajic/fabrika-factory)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/bojanbem-zira-fotozoranpopovic.jpg?itok=wUV5GVvt)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/milenko-zablacanski.jpg?itok=6w85m1QQ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/umwandlung.jpg?itok=KPETuTPh)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -448,6 +448,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Otvorena 20. Slobodna zona – angažman da svet bude bolji](http://seecult.org/vest/otvorena-20-slobodna-zona-angazman-da-svet-bude-bolji)
+* [Otvoren Legat Milana Mladenovića](http://seecult.org/vest/otvoren-legat-milana-mladenovica)
 * [Šta zaista znači biti zajedno](http://seecult.org/vest/sta-zaista-znaci-biti-zajedno)
 * [Zabrana radova na Beogradskoj tvrđavi](http://seecult.org/vest/zabrana-radova-na-beogradskoj-tvrdavi)
 * [Početak 22. ZFF-a u znaku Proslave](http://seecult.org/vest/pocetak-22-zff-u-znaku-proslave)
@@ -456,8 +458,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [28\. FKM – Mesto naše slodode](http://seecult.org/vest/28-fkm-mesto-nase-slodode)
 * [Slobodna zona za mlade](http://seecult.org/vest/slobodna-zona-za-mlade)
 * [Dualnost Milene Pavlović Barili](http://seecult.org/vest/dualnost-milene-pavlovic-barili)
-* [Domaći filmovi na DOK Lajpcigu](http://seecult.org/vest/domaci-filmovi-na-dok-lajpcigu)
-* [Odloženi brojni događaji zbog žalosti](http://seecult.org/vest/odlozeni-brojni-dogadaji-zbog-zalosti)
 
 * [Konkursi](#tab1_1)
 
