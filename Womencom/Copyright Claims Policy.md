@@ -82,6 +82,18 @@
 More Stories
 ------------
 
+*  [![Sarah Hyland looking over her shoulder](https://www.women.com/img/gallery/celebs-who-bared-their-physical-scars-for-a-good-cause/intro-1730399722.jpg)](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Celebs Who Bared Their Physical Scars For A Good Cause](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+    
+    Surgery scars don't have to be ugly. In an ear of body positivity, some celebrities are exposing their scars to reclaim power and share their stories.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+    
 *  [![Ehan and Vinay Kamat](https://www.women.com/img/gallery/heres-what-went-down-with-solemender-after-shark-tank/intro-1730216668.jpg)](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
     [Living](https://www.women.com/category/living/)
@@ -393,18 +405,6 @@ More Stories
     While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
     
     By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
-    
-*  [![A woman reading](https://www.women.com/img/gallery/romance-books-we-cant-wait-to-get-our-hands-on-in-2025/intro-1729524198.jpg)](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [Romance Books We Can't Wait To Get Our Hands On In 2025](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
-    
-    There's truly something for every lover of this big, wide world of romances. And 2025 is coming with some heavyweights.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
     
 
 Back
