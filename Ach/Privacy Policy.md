@@ -104,7 +104,7 @@ Main navigation
             
         * [TPI On Campus](https://tpi.nacha.org/)
             
-        * [Nacha Risk Retreat](https://tpi.nacha.org/)
+        * [Nacha Risk Retreat](https://www.nacha.org/nacha-risk-retreat)
             
         
     * [Virtual Learning](https://www.nacha.org/events?field_venue_target_id=315#block-views-block-event-listing-block-2)
