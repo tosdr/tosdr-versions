@@ -1,3 +1,5 @@
+[**Put your server at the top!** Subscriptions to "Premium Option" are open.](https://minecraft-mp.com/servers/premium/)
+
 Terms Of Service
 ================
 
