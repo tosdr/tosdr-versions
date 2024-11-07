@@ -418,9 +418,9 @@ Top
     
     [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-* [![What Do Lawyers in India Charge? My Personal Experience Revealed](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
+* [![Travellers Beware, Don’t Buy Fake Water in India!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/10/Fake-Bisleri-Mineral-Water-Bottles-1L-Bilseir-Bisferi-Bisllari.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
     
-    [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
+    [Travellers Beware, Don’t Buy Fake Water in India!](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
