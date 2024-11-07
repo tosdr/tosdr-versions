@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do you know if you have stage 1 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/how-do-you-know-if-you-have-stage-1-lung-cancer.jpg "How Do You Know if You Have Stage 1 Lung Cancer?")](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/ "How Do You Know if You Have Stage 1 Lung Cancer?")
+[![Is there sexual abuse involving mormon missionaries?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Is There Sexual Abuse Involving Mormon Missionaries?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-there-sexual-abuse-in-mormon-missionaries2/ "Is There Sexual Abuse Involving Mormon Missionaries?")
 
-[#### How Do You Know if You Have Stage 1 Lung Cancer?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/)
+[#### Is There Sexual Abuse Involving Mormon Missionaries?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-there-sexual-abuse-in-mormon-missionaries2/)
 
-[![Can lungs get rid of asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-lungs-get-rid-of-asbestos.jpg "Can Lungs Get Rid of Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/ "Can Lungs Get Rid of Asbestos?")
+[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
 
-[#### Can Lungs Get Rid of Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/)
+[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
 
-[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
+[![What is early stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-what-is-early-stage-lung-cancer-scaled.jpg "What Is Early Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/early-stage-lung-cancer "What Is Early Stage Lung Cancer?")
 
-[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
+[#### What Is Early Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/early-stage-lung-cancer)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
