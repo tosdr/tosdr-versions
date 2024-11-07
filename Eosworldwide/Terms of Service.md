@@ -116,7 +116,7 @@ Search
 
 Change Location
 
-                                                    [Skip to content](#content)
+                                                       [Skip to content](#content)
 
 ![](https://px.ads.linkedin.com/collect/?pid=2799050&fmt=gif)
 
