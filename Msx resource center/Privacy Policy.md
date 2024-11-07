@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [Darwin](https://www.msx.org/downloads/darwin "Darwin")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
@@ -146,23 +147,22 @@ Latest reactions
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
-* [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 
 Latest forum posts
 
+* [Can't get Nogalious MSX to work](https://www.msx.org/forum/msx-talk/software/cant-get-nogalious-msx-to-work "Can't get Nogalious MSX to work")
 * [Gballs new levels](https://www.msx.org/forum/msx-talk/development/gballs-new-levels "Gballs new levels")
-* [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=2 "New V9990 Wolfenstein-3D-Like Interactive Demo")
+* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [I've ruined my openmsx installation. Uncaught exception](https://www.msx.org/forum/msx-talk/openmsx/ive-ruined-my-openmsx-installation-uncaught-exception "I've ruined my openmsx installation. Uncaught exception")
+* [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work?page=1 "Can't get MoonLightSaga to work")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
+* [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k "9958 FPGA drop-in clone is here: TN-VDP 20K.")
+* [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=2 "New V9990 Wolfenstein-3D-Like Interactive Demo")
 * [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Contact](https://www.msx.org/forum/msx-talk/msx-resource-center/contact "Contact")
 * [Yamaha AX-350](https://www.msx.org/forum/msx-talk/hardware/yamaha-ax-350 "Yamaha AX-350 ")
 * [CBIOS with MSX Diagnostics](https://www.msx.org/forum/msx-talk/hardware/cbios-with-msx-diagnostics "CBIOS with MSX Diagnostics")
-* [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k "9958 FPGA drop-in clone is here: TN-VDP 20K.")
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
-* [Outrun MSX2 WIP](https://www.msx.org/forum/msx-talk/development/outrun-msx2-wip?page=13 "Outrun MSX2 WIP")
-* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
-* [Announcing my latest project](https://www.msx.org/forum/msx-talk/development/announcing-my-latest-project?page=2 "Announcing my latest project")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
