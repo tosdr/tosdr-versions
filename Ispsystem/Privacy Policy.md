@@ -72,6 +72,7 @@ Software
 * [BILLmanager](https://www.ispsystem.com/billmanager)
 * [DNSmanager](https://www.ispsystem.com/dnsmanager)
 * [IPmanager](https://www.ispsystem.com/ipmanager)
+* [WPXmanager](https://www.ispsystem.com/wpxmanager)
 
 Industries
 
