@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 7, 2024 | Media News Daily: Top Stories for 11/07/2024](https://mediabiasfactcheck.com/2024/11/07/media-news-daily-top-stories-for-11-07-2024/ "Media News Daily: Top Stories for 11/07/2024")
+* [November 7, 2024 | MBFC’s Daily Vetted Fact Checks for 11/07/2024](https://mediabiasfactcheck.com/2024/11/07/mbfcs-daily-vetted-fact-checks-for-11-07-2024/ "MBFC’s Daily Vetted Fact Checks for 11/07/2024")
 * [November 6, 2024 | MBFC’s Daily Vetted Fact Checks for 11/06/2024](https://mediabiasfactcheck.com/2024/11/06/mbfcs-daily-vetted-fact-checks-for-11-06-2024/ "MBFC’s Daily Vetted Fact Checks for 11/06/2024")
 * [November 5, 2024 | MBFC’s Daily Vetted Fact Checks for 11/05/2024](https://mediabiasfactcheck.com/2024/11/05/mbfcs-daily-vetted-fact-checks-for-11-05-2024/ "MBFC’s Daily Vetted Fact Checks for 11/05/2024")
 * [November 4, 2024 | Media News Daily: Top Stories for 11/04/2024](https://mediabiasfactcheck.com/2024/11/04/media-news-daily-top-stories-for-11-04-2024/ "Media News Daily: Top Stories for 11/04/2024")
-* [November 4, 2024 | MBFC’s Daily Vetted Fact Checks for 11/04/2024](https://mediabiasfactcheck.com/2024/11/04/mbfcs-daily-vetted-fact-checks-for-11-04-2024/ "MBFC’s Daily Vetted Fact Checks for 11/04/2024")
-* [November 3, 2024 | MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/03/mbfcs-daily-vetted-fact-checks-for-11-03-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)")
 
 Search for:  
 
@@ -214,13 +214,13 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 * [Vox - Bias and Credibility](https://mediabiasfactcheck.com/vox/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 
 #### Subscribe via Email
 
