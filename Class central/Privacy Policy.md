@@ -414,9 +414,9 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. python
+1. English
     
-2. digital marketing
+2. java
     
 3. html
     
@@ -424,28 +424,28 @@ Most common
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Artificial Intelligence
     
-    42,177 courses](https://www.classcentral.com/subject/cs)
-2. [Cybersecurity
+    13,363 courses](https://www.classcentral.com/subject/ai)
+2. [Python
     
-    16,602 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Digital Marketing
+    9,773 courses](https://www.classcentral.com/subject/python)
+3. [Graphic Design
     
-    6,070 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,237 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Improving Your Study Techniques
+1. [Introducción a la genética y la evolución
     
-    University of Groningen](https://www.classcentral.com/course/improving-study-techniques-13420)
-2. [How to Succeed at: Interviews
+    Universidad Autónoma de Madrid](https://www.classcentral.com/course/genetics-universidad-autonoma-de-madrid-introducc-8591)
+2. [The Ancient Greeks
     
-    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
-3. [Machine Learning for Musicians and Artists
+    Wesleyan University](https://www.classcentral.com/course/ancientgreeks-502)
+3. [First Step Korean
     
-    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
+    Yonsei University](https://www.classcentral.com/course/learn-korean-5730)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
