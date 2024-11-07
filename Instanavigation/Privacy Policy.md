@@ -1,22 +1,35 @@
 ![](https://mc.yandex.ru/watch/98468737)
 
-[![new logo](/images/logo-new-sn.png)
-
-StoryNavigation](https://storynavigation.com/)
+[![logo](/assets-st/img/svg/logo.svg)](https://storynavigation.com/)
 
 * [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
-* en
-    * [de](http://storynavigation.com/de/privacy-policy)
-    * [en](http://storynavigation.com/privacy-policy)
-    * [fr](http://storynavigation.com/fr/privacy-policy)
-    * [it](http://storynavigation.com/it/privacy-policy)
-    * [ru](http://storynavigation.com/ru/privacy-policy)
+* [Features](https://storynavigation.com/features)
+* [About us](https://storynavigation.com/about-project)
+* [Contacts](https://storynavigation.com/contact-us)
+
+![search logo](/assets-st/img/svg/search.svg)
+
+en
+
+* [de](http://storynavigation.com/de/privacy-policy)
+* [en](http://storynavigation.com/privacy-policy)
+* [fr](http://storynavigation.com/fr/privacy-policy)
+* [it](http://storynavigation.com/it/privacy-policy)
+* [ru](http://storynavigation.com/ru/privacy-policy)
 
 * [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
+* [Features](https://storynavigation.com/features)
+* [About us](https://storynavigation.com/about-project)
+* [Contacts](https://storynavigation.com/contact-us)
 
-[en](#) [de](http://storynavigation.com/de/privacy-policy) [fr](http://storynavigation.com/fr/privacy-policy) [it](http://storynavigation.com/it/privacy-policy) [ru](http://storynavigation.com/ru/privacy-policy)
+* [en](#)
+* [de](http://storynavigation.com/de/privacy-policy)
+* [en](http://storynavigation.com/privacy-policy)
+* [fr](http://storynavigation.com/fr/privacy-policy)
+* [it](http://storynavigation.com/it/privacy-policy)
+* [ru](http://storynavigation.com/ru/privacy-policy)
 
 **PRIVACY POLICY**
 
@@ -559,29 +572,14 @@ StoryNavigation [\[email protected\]](https://instanavigation.com/cdn-cgi/l/ema
 
 You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/c16da6f2-3c86-430d-acb4-9fcf59d5d66f).
 
-![footer logo](/images/logo-new-sn.png)
-
-StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
-
-* [About us](https://storynavigation.com/about-project)
+* [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
 * [Features](https://storynavigation.com/features)
+* [About us](https://storynavigation.com/about-project)
 * [Contacts](https://storynavigation.com/contact-us)
 
-[](https://storynavigation.com/view-instagram-stories)
-
-en
-
-* [de](http://storynavigation.com/de/privacy-policy)
-* [en](http://storynavigation.com/privacy-policy)
-* [fr](http://storynavigation.com/fr/privacy-policy)
-* [it](http://storynavigation.com/it/privacy-policy)
-* [ru](http://storynavigation.com/ru/privacy-policy)
-
-![footer logo](/images/logo-new-sn.png)
+[![footer logo](/assets-st/img/svg/logo-big.svg)](https://storynavigation.com/)
 
 StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
-© 2024 StoryNavigation. All rights reserved.
-
-[Terms & Conditions](https://storynavigation.com/terms-of-use) [Privacy policy](https://storynavigation.com/privacy-policy)
+© 2024 StoryNavigation [Terms & Conditions](https://storynavigation.com/terms-of-use) [Privacy policy](https://storynavigation.com/privacy-policy)
