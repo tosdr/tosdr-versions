@@ -1,4 +1,4 @@
-Toggle navigation [![FreeLists logo](/images/freelists-2.8.png)](https://www.freelists.org/)
+Toggle navigation [![FreeLists logo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22217%22%20height%3D%2265%22%3E%3C%2Fsvg%3E)](https://www.freelists.org/)
 
 * [Home](https://www.freelists.org/)
 * [Create](https://www.freelists.org/signup.html)
@@ -93,3 +93,5 @@ If you have any questions about our policy, please feel free to [Contact us](htt
   ![](https://www.paypal.com/en_US/i/scr/pixel.gif)
 
 © [Avenir Technologies, LLC](http://www.avenirtech.net/) 2024
+
+x
