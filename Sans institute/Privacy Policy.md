@@ -2,7 +2,7 @@
 
 [Open menu](# "Open menu")
 
-[Contact Sales](https://www.sans.org/about/contact/sales/?msc=mega-nav-button)
+[Talk with an expert](https://www.sans.org/about/contact/sales/?msc=mega-nav-button)
 
 [Go one level top](# "Go one level top")
 
@@ -284,7 +284,7 @@
 * [](https://www.sans.org/account/)
     * [Account Dashboard](https://www.sans.org/account/)
     * [Log Out](https://www.sans.org/account/logout/)
-* [Contact Sales](https://www.sans.org/about/contact/sales/?msc=mega-nav-button)
+* [Talk with an expert](https://www.sans.org/about/contact/sales/?msc=mega-nav-button)
     
 
 SANS Privacy Policy
