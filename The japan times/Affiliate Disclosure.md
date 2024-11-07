@@ -205,9 +205,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -247,23 +247,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan defense chief makes first boarding on South Korean naval ship](https://www.japantimes.co.jp/news/2024/11/07/japan/japan-defense-chief-sk-warship/ "Japan defense chief makes first boarding on South Korean naval ship")
-
-32 mins ago
-
-[Germany faces snap election as Scholz's coalition crumbles](https://www.japantimes.co.jp/news/2024/11/07/world/politics/germany-election-scholz-coalition/ "Germany faces snap election as Scholz's coalition crumbles")
-
-48 mins ago
-
-[Japan’s biggest base pay gains in 31 years support case for rate hikes](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
-
-57 mins ago
-
-[Ishiba holds first phone call with Trump as Japanese PM seeks to build ties](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-ishiba-phone-call/ "Ishiba holds first phone call with Trump as Japanese PM seeks to build ties")
+[Nissan cuts outlook, announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
 
 1 hours ago
 
-[From oil to EVs, here’s how Trump’s victory affects energy](https://www.japantimes.co.jp/business/2024/11/07/markets/oil-evs-trump-victory-energy/ "From oil to EVs, here’s how Trump’s victory affects energy")
+[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
+
+1 hours ago
+
+[Nippon Ishin's Nobuyuki Baba to resign as party chief over election shortcomings](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/nippon-ishin-leader-baba-resign/ "Nippon Ishin's Nobuyuki Baba to resign as party chief over election shortcomings")
+
+1 hours ago
+
+[Trump victory might give Bank of Japan some room to maneuver](https://www.japantimes.co.jp/business/2024/11/07/economy/trump-election-boj-policy/ "Trump victory might give Bank of Japan some room to maneuver")
+
+1 hours ago
+
+[Opposition camp to chair Lower House budget committee](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/japan-budget-committee-chair-opposition/ "Opposition camp to chair Lower House budget committee")
 
 1 hours ago
 
