@@ -1,15 +1,15 @@
-Wednesday, November 6 2024
+Thursday, November 7 2024
 
 Breaking News
 
+* [Corporate Media, Dems Thought Female Vote Would Be Slam Dunk For Harris. Boy, Were They Wrong](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
+* [President Joe Biden’s Schedule for Thursday, November 7, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
+* [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
+* [RFK Jr. Says ‘Entire Departments’ At FDA Could Get The Ax](https://www.conservativedailynews.com/2024/11/rfk-jr-says-entire-departments-at-fda-could-get-the-ax/)
+* [Dems Already Rallying Resistance Less Than 24 Hours After Trump Becomes President-Elect](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
+* [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/)
 * [America In The Age Of Stupidity: It Seems America Is Not As Stupid As I Thought](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
 * [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/)
-* [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
-* [CNN’s John King Breaks Down Candidates’ ‘Easiest’ Paths To Victory On Election Day](https://www.conservativedailynews.com/2024/11/cnns-john-king-breaks-down-candidates-easiest-paths-to-victory-on-election-day/)
-* [Megyn Kelly’s Powerful Trump Endorsement](https://www.conservativedailynews.com/2024/11/megyn-kellys-powerful-trump-endorsement/)
-* [President Joe Biden’s Schedule for Tuesday, November 5, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-5-2024/)
-* [Americans Might Kick Slew Of Soft-On-Crime Prosecutors To The Curb On Election Day](https://www.conservativedailynews.com/2024/11/americans-might-kick-slew-of-soft-on-crime-prosecutors-to-the-curb-on-election-day/)
-* [And Without Firing a Single Shot, America’s Infidels Are Now Atheists](https://www.conservativedailynews.com/2024/11/and-without-firing-a-single-shot-americas-infidels-are-now-atheists/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,87 +111,85 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.36%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.39%
 
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
     
-    [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+    [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
     
-    November 5, 2024
+    November 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/snowflake-600-x-337.jpg)](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
     
-    [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
+    [Dems Already Rallying Resistance Less Than 24 Hours After Trump Becomes President-Elect](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
     
-    November 4, 2024
+    November 6, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-garbagge-day-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/garbage-day/)
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
     
-    [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/)
+    [Corporate Media, Dems Thought Female Vote Would Be Slam Dunk For Harris. Boy, Were They Wrong](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
     
-    November 6, 2024
+    November 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/05/Joe-Biden-White-House-Spring-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
     
-    [America In The Age Of Stupidity: It Seems America Is Not As Stupid As I Thought](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
+    [President Joe Biden’s Schedule for Thursday, November 7, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
     
-    November 6, 2024
+    November 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5744-scaled-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/10/Claire-McCaskill.jpg)](https://www.conservativedailynews.com/2024/11/rofl-mccaskill-sheds-tears-for-harris-on-live-tv/)
     
-    [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/)
+    [ROFL: McCaskill Sheds Tears For Harris On Live TV](https://www.conservativedailynews.com/2024/11/rofl-mccaskill-sheds-tears-for-harris-on-live-tv/)
     
-    November 6, 2024
+    November 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/terrible-women/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
     
-    [Total Losers](https://www.conservativedailynews.com/2024/11/terrible-women/)
-    
-    November 6, 2024
-    
-* [![Trump wins success fighter](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-wins-again/)
-    
-    [TRUMP WINS! \[Again\]](https://www.conservativedailynews.com/2024/11/trump-wins-again/)
+    [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
     
     November 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/homemade-hot-chocolate.jpg)](https://www.conservativedailynews.com/2024/11/when-all-else-fails-cover-it-with-chocolate/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/RfkjrOCT2017-220x150.jpg)](https://www.conservativedailynews.com/2024/11/rfk-jr-says-entire-departments-at-fda-could-get-the-ax/)
     
-    [When All Else Fails, Cover It With Chocolate](https://www.conservativedailynews.com/2024/11/when-all-else-fails-cover-it-with-chocolate/)
+    [RFK Jr. Says ‘Entire Departments’ At FDA Could Get The Ax](https://www.conservativedailynews.com/2024/11/rfk-jr-says-entire-departments-at-fda-could-get-the-ax/)
     
     November 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+* [Left-Wing DA In District Where Laken Riley Was Murdered Takes Huge Loss At Ballot Box](https://www.conservativedailynews.com/2024/11/left-wing-da-in-district-where-laken-riley-was-murdered-takes-huge-loss-at-ballot-box/)
     
-    [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+    November 6, 2024
     
-    November 5, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/snowflake-600-x-337.jpg)](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/cnns-john-king-breaks-down-candidates-easiest-paths-to-victory-on-election-day/)
+    [Dems Already Rallying Resistance Less Than 24 Hours After Trump Becomes President-Elect](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
     
-    [CNN’s John King Breaks Down Candidates’ ‘Easiest’ Paths To Victory On Election Day](https://www.conservativedailynews.com/2024/11/cnns-john-king-breaks-down-candidates-easiest-paths-to-victory-on-election-day/)
+    November 6, 2024
     
-    November 5, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5745-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/)
+    
+    [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/)
+    
+    November 6, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Looking Back At The 2009 NRA National High Power Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-high-power-championship/10611575)
+* [TFB Review: Silencer Central Banish Speed K TI](https://www.thegunpage.com/tfb-review-silencer-central-banish-speed-k-ti/10611712)
+* [POTD: B&T APC9 with Aimpoint CompM5b and A-Tech 3-Lug Suppressor](https://www.thegunpage.com/potd-bt-apc9-with-aimpoint-compm5b-and-a-tech-3-lug-suppressor/10611713)
+* [Wheelgun Wednesday: Korth Executive Series Limited Edition Revolvers](https://www.thegunpage.com/wheelgun-wednesday-korth-executive-series-limited-edition-revolvers/10611714)
 * [Obscure Object of Desire – S&W Regulation Police .32 S&W Long](https://www.thegunpage.com/obscure-object-of-desire-sw-regulation-police-32-sw-long/10611708)
 * [Why Kamala Harris Lost](https://www.thegunpage.com/why-kamala-harris-lost/10611705)
 * [Winchester Supreme Optics Launches Scope Line](https://www.thegunpage.com/winchester-supreme-optics-launches-scope-line/10611706)
 * [Competition Ultimate Practice Shooting System: Shooting Inside](https://www.thegunpage.com/competition-ultimate-practice-shooting-system-shooting-inside/10611704)
 * [Recapping The CMP New England Games: Most Colorful Competition Yet](https://www.thegunpage.com/recapping-the-cmp-new-england-games-most-colorful-competition-yet/10611707)
 * [Langdon Tactical Releases Slate Of Beretta 1301 Upgrades](https://www.thegunpage.com/langdon-tactical-releases-slate-of-beretta-1301-upgrades/10611700)
-* [U.S. Reps Introduce Measure Targeting Gun-Specific Merchant Category Code](https://www.thegunpage.com/u-s-reps-introduce-measure-targeting-gun-specific-merchant-category-code/10611697)
-* [JK Armament Now Selling HUB Booster Assembly](https://www.thegunpage.com/jk-armament-now-selling-hub-booster-assembly/10611701)
-* [Election 2024: A Great Night For America’s Gun Owners](https://www.thegunpage.com/election-2024-a-great-night-for-americas-gun-owners/10611695)
-* [White Flyer Website Has New Look](https://www.thegunpage.com/white-flyer-website-has-new-look/10611703)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
