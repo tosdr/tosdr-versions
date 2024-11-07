@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Willie Nelson Joined By Chris Stapleton,...](https://classiccountrymusic.com/willie-nelson-joined-by-chris-stapleton-sheryl-crow-dave-matthews-for-epic-on-the-road-again-collaboration/)
 * [Jamey Johnson Explains How Toby Keith’s...](https://classiccountrymusic.com/jamey-johnson-explains-how-toby-keiths-death-motivated-him-to-release-his-new-album/)
 * [Hank Williams Jr. & Waylon Jennings’...](https://classiccountrymusic.com/hank-williams-jr-waylon-jennings-the-conversation-reaches-new-milestone-45-years-later/)
-* [Bronze Statue of Merle Haggard Unveiled...](https://classiccountrymusic.com/bronze-statue-of-merle-haggard-unveiled-in-muskogee-oklahoma/)
 
 Terms of Use
 ============
