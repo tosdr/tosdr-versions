@@ -355,7 +355,7 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 
 * [support@paybis.com](mailto:support@paybis.com)
 
-[![linkedin-new](https://cdn.paybis.com/resources/icons/linkedin-new.svg)2.5k](https://www.linkedin.com/company/paybis/)[![twitter-new](https://cdn.paybis.com/resources/icons/twitter-new.svg)8k](https://twitter.com/paybis)[![youtube-new](https://cdn.paybis.com/resources/icons/youtube-new.svg)46.3k](https://www.youtube.com/@Paybis)[![instagram-new](https://cdn.paybis.com/resources/icons/instagram-new.svg)4.3k](https://www.instagram.com/paybis/)[![facebook-new](https://cdn.paybis.com/resources/icons/facebook-new.svg)4.1k](https://www.facebook.com/Paybis/)
+[![linkedin-new](https://cdn.paybis.com/resources/icons/linkedin-new.svg)2.5k](https://www.linkedin.com/company/paybis/)[![twitter-new](https://cdn.paybis.com/resources/icons/twitter-new.svg)8k](https://twitter.com/paybis)[![youtube-new](https://cdn.paybis.com/resources/icons/youtube-new.svg)46.4k](https://www.youtube.com/@Paybis)[![instagram-new](https://cdn.paybis.com/resources/icons/instagram-new.svg)4.3k](https://www.instagram.com/paybis/)[![facebook-new](https://cdn.paybis.com/resources/icons/facebook-new.svg)4.1k](https://www.facebook.com/Paybis/)
 
 PAYBIS POLAND Sp. z o.o.
 
