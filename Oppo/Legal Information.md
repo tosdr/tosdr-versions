@@ -38,8 +38,6 @@
     
     * [OPPO Watch X _New_](https://www.oppo.com/uk/accessories/watch-x/)
     * [OPPO Band2](https://www.oppo.com/uk/accessories/band2/)
-    * [OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
-    * [OPPO Band](https://www.oppo.com/uk/accessories/oppo-band/)
     * [OPPO Watch](https://www.oppo.com/uk/accessories/watch/)
     
     [View Wearables](https://www.oppo.com/uk/wearables/)
@@ -146,14 +144,10 @@ Quick Links
         
         New](https://www.oppo.com/uk/accessories/watch-x/)
     * [OPPO Band2](https://www.oppo.com/uk/accessories/band2/)
-    * [OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
-    * [OPPO Band](https://www.oppo.com/uk/accessories/oppo-band/)
     * [OPPO Watch](https://www.oppo.com/uk/accessories/watch/)
     
     *  [OPPO Watch X](https://www.oppo.com/uk/accessories/watch-x/)
     *  [OPPO Band2](https://www.oppo.com/uk/accessories/band2/)
-    *  [OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
-    *  [OPPO Band](https://www.oppo.com/uk/accessories/oppo-band/)
     *  [OPPO Watch](https://www.oppo.com/uk/accessories/watch/)
     
     [View Wearables](https://www.oppo.com/uk/wearables/)
@@ -678,13 +672,9 @@ IoT Products
 
 [OPPO Enco Air4 Pro](https://www.oppo.com/uk/accessories/enco-air4-pro/)
 
-[OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
-
 [OPPO Watch](https://www.oppo.com/uk/accessories/watch)
 
 [OPPO Band2](https://www.oppo.com/uk/accessories/band2/)
-
-[OPPO Band](https://www.oppo.com/uk/accessories/oppo-band/)
 
 [OPPO Enco Air3 Pro](https://www.oppo.com/uk/accessories/enco-air3-pro/)
 
