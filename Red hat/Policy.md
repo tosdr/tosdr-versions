@@ -872,7 +872,7 @@ ALL OTHER RHLS GENERAL TERMS AND TERMS RELATED TO RHLS-PREMIUM ARE APPLICABLE TO
     [**Back to top**](#top)
     
 
-[![Red Hat logo](https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg)](https://www.redhat.com/en)[LinkedIn](https://www.linkedin.com/company/red-hat)[YouTube](https://www.youtube.com/user/RedHatVideos)[Facebook](https://www.facebook.com/redhatinc)[Twitter](https://twitter.com/RedHat)
+[![Red Hat logo](https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg)](https://www.redhat.com/en)[LinkedIn](https://www.linkedin.com/company/red-hat)[YouTube](https://www.youtube.com/user/RedHatVideos)[Facebook](https://www.facebook.com/redhatinc)[X](https://twitter.com/RedHat)
 
 ### Products
 
