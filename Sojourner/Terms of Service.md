@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f744fc52b24ade4f131afb896de50b42
+b0c77117918cf1ea75778ea898eefd58
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Raku beads](https://sojourner.biz/images/cache/glass/VB0002d.200.jpg)](https://sojourner.biz/beads/glass/raku-beads.html "Raku beads")
+[![6 mm aqua shadow round beads](https://sojourner.biz/images/cache/glass/GL0076.200.jpg)](https://sojourner.biz/beads/glass/6-mm-aqua-shadow-round-beads.html "6 mm aqua shadow round beads")
 
-#### [Raku beads](https://sojourner.biz/beads/glass/raku-beads.html "Raku beads")
+#### [6 mm aqua shadow round beads](https://sojourner.biz/beads/glass/6-mm-aqua-shadow-round-beads.html "6 mm aqua shadow round beads")
 
-$2.00
+$7.00
 
 ### Best Sellers
 
