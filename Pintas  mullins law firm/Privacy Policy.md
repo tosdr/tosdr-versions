@@ -263,9 +263,9 @@ Select State(Required)
 
 Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNewJerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingAmerican SamoaGuamThe Northern Mariana IslandsPuerto RicoU.S. Virgin Islands
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
+Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Do all asbestos workers get cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-do-all-asbestos-workers-get-cancer-scaled.jpg "Do All Asbestos Workers Get Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-all-asbestos-workers-get-cancer/ "Do All Asbestos Workers Get Cancer?")
+[![What is the main cause of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-what-is-the-main-cause-of-mesothelioma-scaled.jpg "What Is the Main Cause of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/ "What Is the Main Cause of Mesothelioma?")
 
-[#### Do All Asbestos Workers Get Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-all-asbestos-workers-get-cancer/)
+[#### What Is the Main Cause of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/)
 
-[![Detecting mesothelioma in its early stages](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-early-can-mesothelioma-be-detected.jpg "Detecting Mesothelioma in Its Early Stages")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/ "Detecting Mesothelioma in Its Early Stages")
+[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
 
-[#### Detecting Mesothelioma in Its Early Stages](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/)
+[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
 
-[![How often are elderly people in nursing homes undermonitored?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-often-are-elderly-people-in-nursing-homes-undermonitored-scaled.jpg "How Often Are Elderly People in Nursing Homes Undermonitored?")](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/ "How Often Are Elderly People in Nursing Homes Undermonitored?")
+[![What is considered sudden weight loss?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-rapid-weight-loss-or-hair-loss-what-is-considered-sudden-weight-loss-scaled.jpg "What Is Considered Sudden Weight Loss?")](https://www.pintas.com/faq/rapid-weight-loss-or-hair-loss/ "What Is Considered Sudden Weight Loss?")
 
-[#### How Often Are Elderly People in Nursing Homes Undermonitored?](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/)
+[#### What Is Considered Sudden Weight Loss?](https://www.pintas.com/faq/rapid-weight-loss-or-hair-loss/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 message
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
+Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
 Name
 
