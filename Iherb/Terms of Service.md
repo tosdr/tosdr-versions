@@ -105,7 +105,7 @@ Herzlich Willkommen {0}!
     Meine Wunschlisten](https://de.iherb.com/ugc/wishlist)
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/dollar_sign_v2.png)
     
-    Meine Prämien](https://secure.iherb.com/rewards/overview)
+    Prämienguthaben](https://secure.iherb.com/rewards/overview)
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/Reviews_v2.png)
     
     Meine Rezensionen](https://de.iherb.com/ugc/myaccount/review)
