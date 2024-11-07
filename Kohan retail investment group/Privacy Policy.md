@@ -2,7 +2,7 @@ Shopping Hours: [11am-8pm](https://www.seminoletownecenter.com/hours/ "Shopping 
 
   |  
 
-73˚F Sun
+76˚F Cloud-Fog-Moon
 
 [Seminole Towne Center home page Seminole Towne Center logo SEMINOLE TOWNE CENTER](https://www.seminoletownecenter.com/ "Click to return to the home page.")
 
