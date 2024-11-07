@@ -573,8 +573,8 @@ Log in to order, manage your products and services, and track your orders.
         * Technology
             
             * [VMware by Broadcom](https://www.ovhcloud.com/en/solutions/vmware/) VMware by Broadcom and OVHcloud solutions for all your projects
-            * [Nutanix](https://www.ovhcloud.com/en/solutions/nutanix/) Nutanix and OVHcloud solutions for your hybrid and multi-cloud environments
-            * [SAP](https://www.ovhcloud.com/en/solutions/sap/) SAP on OVHcloud solutions for your ERP delivering a smooth, optimal experience
+            * [Nutanix](https://www.ovhcloud.com/en/solutions/nutanix/) Accelerate and simplify your hybrid multicloud journey with Nutanix on OVHcloud solution
+            * [SAP](https://www.ovhcloud.com/en/solutions/sap/) Our SAP on OVHcloud solutions for SAP environments hosting in a sovereign cloud
             * [NetApp](https://www.ovhcloud.com/en/solutions/netapp/) NetApp storage solutions with cost control and high performance
             * [Nvidia](https://www.ovhcloud.com/en/solutions/nvidia/) Nvidia GPU solutions for accelerating your innovation and AI projects
             * [MongoDB](https://www.ovhcloud.com/en/public-cloud/mongodb/) MongoDB solutions that simplify data management
