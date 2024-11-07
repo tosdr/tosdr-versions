@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b306dab3-95ba-4a14-9a65-fde1d719340d/20241106T192434/b306dab3-95ba-4a14-9a65-fde1d719340d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b306dab3-95ba-4a14-9a65-fde1d719340d/20241106T192434/b306dab3-95ba-4a14-9a65-fde1d719340d_360x203.jpg)](https://www.king5.com/article/news/politics/elections/when-election-results-expected-washington-state-counties/281-7aff4c01-aa00-4011-887e-2784ef2aa128)
+    *  [![](https://media.king5.com/assets/KING/images/c06d29d3-12dd-4e1e-98e4-68649980a3ca/20241107T014647/c06d29d3-12dd-4e1e-98e4-68649980a3ca_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c06d29d3-12dd-4e1e-98e4-68649980a3ca/20241107T014647/c06d29d3-12dd-4e1e-98e4-68649980a3ca_360x203.jpg)](https://www.king5.com/article/news/local/lewis-county-voters-outliers-2024-election-trump/281-ac9c9e44-8ff4-49fc-8cf0-6b93322e6d42)
         
-        #### [When will Washington drop more election results? Check this list](https://www.king5.com/article/news/politics/elections/when-election-results-expected-washington-state-counties/281-7aff4c01-aa00-4011-887e-2784ef2aa128)
+        #### [Trump's biggest support in Washington found in Lewis County](https://www.king5.com/article/news/local/lewis-county-voters-outliers-2024-election-trump/281-ac9c9e44-8ff4-49fc-8cf0-6b93322e6d42)
         
-    *  [![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f19b466e-e6d2-4e8d-97e9-e24683446310/20241106T051505/f19b466e-e6d2-4e8d-97e9-e24683446310_360x203.jpg)](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
+    *  [![](https://media.king5.com/assets/KING/images/820c62de-89c9-4e3c-9b2c-132692e38175/20241107T015010/820c62de-89c9-4e3c-9b2c-132692e38175_16x9.jpg) ![](https://media.king5.com/assets/KING/images/820c62de-89c9-4e3c-9b2c-132692e38175/20241107T015010/820c62de-89c9-4e3c-9b2c-132692e38175_360x203.jpg)](https://www.king5.com/article/money/business/seattle-salmon-study-mislabeled-in-restaurants/281-7a850f37-201f-42a8-aabc-a3f895a593a2)
         
-        #### [Key races: Cantwell expected to serve 5th term in Senate, Ferguson projected to be governor](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
+        #### [Seattle study finds salmon is being mislabeled in restaurants](https://www.king5.com/article/money/business/seattle-salmon-study-mislabeled-in-restaurants/281-7a850f37-201f-42a8-aabc-a3f895a593a2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4/20241106T132503/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4/20241106T132503/4102e6cc-5ceb-42ca-9023-e0fb08bb42f4_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/383e34ab-de6f-464d-a20e-51e32a909773/20241107T013017/383e34ab-de6f-464d-a20e-51e32a909773_16x9.jpg) ![](https://media.king5.com/assets/KING/images/383e34ab-de6f-464d-a20e-51e32a909773/20241107T013017/383e34ab-de6f-464d-a20e-51e32a909773_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+49°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
