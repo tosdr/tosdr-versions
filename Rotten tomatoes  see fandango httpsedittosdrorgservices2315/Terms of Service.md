@@ -18,10 +18,10 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $5 off Gladiator II on Fandango!
-*  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **SPECIAL EARLY SCREENING** See Wicked in theaters early as a Prime Member
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
@@ -60,21 +60,21 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
+* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
     
-    ### Wicked Exclusive Collector's Pin Pack
+    ### Gladiator II Prop Auction
     
-    Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
+    Take a piece of history home with official props straight from the movie set!
     
-    [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
+    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
-* [SPECIAL EARLY SCREENING image link ![SPECIAL EARLY SCREENING](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/c7c8cc70-9335-11ef-8321-2b978811c524--fan-offerunit-wicked-292x118.png)](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer) 
+* [Get $5 off on Moana image link ![Get $5 off on Moana](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dee210e0-9332-11ef-8321-2b978811c524--fan-globalofferunit-homepage-moana2gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer) 
     
-    ### SPECIAL EARLY SCREENING
+    ### Get $5 off on Moana
     
-    See Wicked in theaters early as a Prime Member Exclusive
+    Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
     
-    [BUY NOW](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer)
     
 * [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
@@ -84,13 +84,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
-* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
+* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
-    ### Gladiator II Prop Auction
+    ### Set sail with the Moana 2 Ticket 2 Adventure
     
-    Take a piece of history home with official props straight from the movie set!
+    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
     
-    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
 
 New & Coming soon
@@ -189,6 +189,16 @@ New & Coming soon
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
 
+### Special Offer
+
+Close
+
+![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
+
+#### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
+
+See https://www.fandango.com/fanstoreauction-gladiator2 for full terms and details. [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_promomodule)
+
 ### SPECIAL OFFER
 
 Close
@@ -218,16 +228,6 @@ Close
 #### Save on select movies and get up to $5.00 towards a movie ticket\* to see Gladiator II in theaters.
 
 \*Purchase any of the titles (in any format) listed at \[LINK\] on Fandango at Home or via participating Fandango at Home apps between 12:01 am PT on 11/5/2024 and 11:59 pm PT on 11/25/2024 and receive a Fandango Promotional Code ("Code") good towards the purchase of one movie ticket (up to $5 total ticket price and associated fees and charges) to see Gladiator II partner theaters in the US. Code is void if not redeemed by 12/2/24 or when Gladiator II is in theaters, whichever comes first. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. and D.C., excluding U.S. territories and where prohibited by law. One-time use only. Not for resale; void if sold or exchanged. One Code per transaction. If cost of movie ticket and associated fees and charges are more than maximum value of the Code, then user must pay the difference. Any price difference between movie ticket purchased and maximum value of the Code will not be refunded. The redemption of the Code is subject to Fandango's Terms and Policies at https://www.fandango.com/policies/terms-and-policies. [Learn More](https://www.watchfandangoathome.com/Gladiator2?cmp=TARS~FANDANGO~RewardsGladiator2Promo_GlobalNav)
-
-### Special Offer
-
-Close
-
-![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
-
-#### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
-
-See https://www.fandango.com/fanstoreauction-gladiator2 for full terms and details. [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_promomodule)
 
 ### SPECIAL OFFER
 
