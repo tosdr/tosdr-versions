@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/vrije-journalistiek-en-de-brief-aan-de-regering/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/israel-en-de-vernederende-gaza-moorden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
