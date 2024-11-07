@@ -64,7 +64,19 @@
     * [正體中文 (tw)](https://identify.plantnet.org/zh-tw/terms_of_use)
 
 General Terms and Conditions of Pl@ntNet
-----------------------------------------
+========================================
+
+Summary
+
+* [Pl@ntNet trademark](https://identify.plantnet.org/terms_of_use#plntnet-trademark)
+* [User account](https://identify.plantnet.org/terms_of_use#user-account)
+* [Main Pl@ntNet features](https://identify.plantnet.org/terms_of_use#main-plntnet-features)
+* [Use of the Pl@ntNet application](https://identify.plantnet.org/terms_of_use#use-of-the-plntnet-application)
+* [Limitation of liability](https://identify.plantnet.org/terms_of_use#limitation-of-liability)
+* [Users' rights and obligations](https://identify.plantnet.org/terms_of_use#users-rights-and-obligations)
+* [Intellectual property rights](https://identify.plantnet.org/terms_of_use#intellectual-property-rights)
+* [Personal data](https://identify.plantnet.org/terms_of_use#personal-data)
+* [Warning relative to use of Google Analytics](https://identify.plantnet.org/terms_of_use#warning-relative-to-use-of-google-analytics)
 
 These Terms and Conditions govern the conditions in which you may access and use the different services available. Any and all users of the services offered by Pl@ntNet accept the present General Terms and Conditions.
 
@@ -154,6 +166,7 @@ Resources
 * [API](https://my.plantnet.org/)
 * [Stats](https://identify.plantnet.org/stats)
 * [Translations](https://poeditor.com/join/project?hash=TPsTTctdlo)
+* [Release notes](https://identify.plantnet.org/release_notes)
 
 Legal
 -----
