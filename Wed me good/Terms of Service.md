@@ -22,6 +22,256 @@ India's Favourite Wedding Planning Platform
 
 Log In
 
+By Type
+
+[Banquet Halls](https://www.wedmegood.com/vendors/all/wedding-venues/all/banquet-hall/)[Marriage Garden / Lawns](https://www.wedmegood.com/vendors/all/wedding-venues/all/lawn-farmhouse/)[Wedding Resorts](https://www.wedmegood.com/vendors/all/wedding-venues/all/resort/)[Small Function / Party Halls](https://www.wedmegood.com/vendors/all/wedding-venues/all/small-function-halls/)[Destination Wedding Venues](https://www.wedmegood.com/vendors/all/wedding-venues/all/destination-wedding-venues/)[Kalyana Mandapams](https://www.wedmegood.com/vendors/all/wedding-venues/all/kalyan-mandapam/)[4 Star & Above Wedding Hotels](https://www.wedmegood.com/vendors/all/wedding-venues/all/five-star/)[View all Venues](https://www.wedmegood.com/vendors/all/wedding-venues/)
+
+By City
+
+[Mumbai](https://www.wedmegood.com/vendors/mumbai/wedding-venues/)[Bangalore](https://www.wedmegood.com/vendors/bangalore/wedding-venues/)[Pune](https://www.wedmegood.com/vendors/pune/wedding-venues/)[Kolkata](https://www.wedmegood.com/vendors/kolkata/wedding-venues/)[Jaipur](https://www.wedmegood.com/vendors/jaipur/wedding-venues/)[Lucknow](https://www.wedmegood.com/vendors/lucknow/wedding-venues/)[Hyderabad](https://www.wedmegood.com/vendors/hyderabad/wedding-venues/)[More](https://www.wedmegood.com/vendors/all/wedding-venues/)
+
+Destination Wedding Venues
+
+[![Goa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Goa](https://image.wedmegood.com/resized/thumb_800X/uploads/real_wedding/440/1483625069_IMG_20151208_WA0033.jpg)
+
+Goa](https://www.wedmegood.com/vendors/goa/wedding-venues/)
+
+[![Jaipur](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Jaipur](https://image.wedmegood.com/nw/uploads/project/13060/1487600957_IMG_20170120_WA0076.jpg)
+
+Jaipur](https://www.wedmegood.com/vendors/jaipur/wedding-venues/)
+
+[![Udaipur](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Udaipur](https://image.wedmegood.com/nw/uploads/member/11719/1469173089_Dream_Makers__1_.jpg)
+
+Udaipur](https://www.wedmegood.com/vendors/udaipur/wedding-venues/)
+
+[![Jodhpur](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Jodhpur](https://image.wedmegood.com/nw/uploads/member/181996/1526606478__DSC7818.jpg)
+
+Jodhpur](https://www.wedmegood.com/vendors/jodhpur/wedding-venues/)
+
+[![Thailand](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Thailand](https://image.wedmegood.com/nw/uploads/member/13373/1492442441_image6817.jpg)
+
+Thailand](https://www.wedmegood.com/vendors/thailand/wedding-venues/)
+
+[![Jim Corbett](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Jim Corbett](https://image.wedmegood.com/nw/uploads/real_wedding/159/1432711511_60_170.jpg)
+
+Jim Corbett](https://www.wedmegood.com/vendors/jim-corbett/wedding-venues/)
+
+Photographers
+
+[Photographers](https://www.wedmegood.com/vendors/all/wedding-photographers/)
+
+Makeup
+
+[Bridal Makeup](https://www.wedmegood.com/vendors/all/bridal-makeup/)[Family Makeup
+
+![](https://images.wedmegood.com/images/wmg-service-badge.png)](https://www.wedmegood.com/vendors/all/family-makeup/)
+
+Pre Wedding Shoot
+
+[Pre Wedding Shoot Locations](https://www.wedmegood.com/vendors/all/pre-wedding-shoot-locations/)[Pre Wedding Photographers](https://www.wedmegood.com/vendors/all/pre-wedding-shoot/)
+
+Planning & Decor
+
+[Wedding Planners](https://www.wedmegood.com/vendors/all/planners/)[Decorators](https://www.wedmegood.com/vendors/all/wedding-decorators/)
+
+Bridal Wear
+
+[Bridal Lehengas](https://www.wedmegood.com/vendors/all/bridal-wear/all/bridal-lehenga-stores/)[Kanjeevaram / Silk Sarees](https://www.wedmegood.com/vendors/all/bridal-wear/all/kanjeevaram-sarees-stores/)[Cocktail Gowns](https://www.wedmegood.com/vendors/all/bridal-wear/all/wedding-gowns-shopping/)[Trousseau Sarees](https://www.wedmegood.com/vendors/all/bridal-wear/all/wedding-sarees-kanjeevarams/)[Bridal Lehenga on Rent](https://www.wedmegood.com/vendors/all/bridal-wear/all/wedding-dress-rentals/)[View All Bridal Wear](https://www.wedmegood.com/vendors/all/bridal-wear/)
+
+Groom Wear
+
+[Sherwani](https://www.wedmegood.com/vendors/all/groom-wear/all/sherwani-for-groom/)[Wedding Suits / Tuxes](https://www.wedmegood.com/vendors/all/groom-wear/all/wedding-suits-tuxes/)[Sherwani On Rent](https://www.wedmegood.com/vendors/all/groom-wear/all/sherwani-on-rent/)[View All Groom Wear](https://www.wedmegood.com/vendors/all/groom-wear/)
+
+Mehndi
+
+[Mehendi Artist](https://www.wedmegood.com/vendors/all/mehendi-artists/)
+
+Jewellery & Accessories
+
+[Jewellery](https://www.wedmegood.com/vendors/all/wedding-jewellery/)[Flower Jewellery](https://www.wedmegood.com/vendors/all/wedding-jewellery/all/flower-jewellery/)[Bridal Jewellery on Rent](https://www.wedmegood.com/vendors/all/wedding-jewellery/all/bridal-jewellery-on-rent/)[Accessories](https://www.wedmegood.com/vendors/all/wedding-accessories/)[View All Jewellery & Accessories](https://www.wedmegood.com/vendors/all/wedding-jewellery/)
+
+Invites & Gifts
+
+[Invitations](https://www.wedmegood.com/vendors/all/wedding-cards/)[Favors](https://www.wedmegood.com/vendors/all/wedding-favors/)[Trousseau Packers](https://www.wedmegood.com/vendors/all/trousseau-packers/)[Invitation Gifts](https://www.wedmegood.com/vendors/all/wedding-favors/all/wedding-invitation-gifts/)[Mehndi Favors](https://www.wedmegood.com/vendors/all/wedding-favors/all/mehndi-favors/)[View All Invites & Gifts](https://www.wedmegood.com/vendors/all/wedding-cards/)
+
+Music & Dance
+
+[DJs](https://www.wedmegood.com/vendors/all/djs/)[Sangeet Choreographer](https://www.wedmegood.com/vendors/all/sangeet-choreographers/)[Wedding Entertainment](https://www.wedmegood.com/vendors/all/wedding-entertainment/)
+
+Food
+
+[Catering Services](https://www.wedmegood.com/vendors/all/wedding-catering/)[Cake](https://www.wedmegood.com/vendors/all/wedding-cakes/)[Chaat & Food Stalls](https://www.wedmegood.com/vendors/all/wedding-catering/all/chaat-food-stalls/)[Bartenders](https://www.wedmegood.com/vendors/all/bartenders-wedding/)[View All Food](https://www.wedmegood.com/vendors/all/wedding-catering/)
+
+Pandits
+
+[Wedding Pandits](https://www.wedmegood.com/vendors/all/pandit-wedding/)
+
+Bridal Grooming
+
+[Beauty and Wellness](https://www.wedmegood.com/vendors/all/beauty-and-wellness/)
+
+Outfit
+
+[Bridal Lehenga](https://www.wedmegood.com/photos/bridal-lehenga)[Wedding Sarees](https://www.wedmegood.com/photos/wedding-sarees)[Engagement](https://www.wedmegood.com/photos/engagement-dresses)[Mehndi](https://www.wedmegood.com/photos/bridal-mehndi-dresses)[Blouse Designs](https://www.wedmegood.com/photos/blouse-designs)[More](https://www.wedmegood.com/photos/wedding-dresses)
+
+Jewellery & Accessories
+
+[Bridal Jewellery](https://www.wedmegood.com/photos/bridal-jewellery)[Engagement Rings](https://www.wedmegood.com/photos/engagement-rings)[Floral Jewellery](https://www.wedmegood.com/photos/floral-jewellery-designs)[More](https://www.wedmegood.com/photos/wedding-jewellery)
+
+Mehndi
+
+[Arabic](https://www.wedmegood.com/photos/arabic-mehndi-designs)[Mehndi Designs](https://www.wedmegood.com/photos/mehndi-designs)[Simple](https://www.wedmegood.com/photos/simple-mehndi-designs)[Unique](https://www.wedmegood.com/photos/unique-mehndi-designs)[More](https://www.wedmegood.com/photos/mehndi-designs)
+
+Decor & Ideas
+
+[Wedding Decor](https://www.wedmegood.com/photos/wedding-decoration-ideas)[Bridal Entry](https://www.wedmegood.com/photos/bridal-entry-ideas)[Groom Entry](https://www.wedmegood.com/photos/groom-entry-ideas)[Wedding Games](https://www.wedmegood.com/photos/wedding-games-ideas)[More](https://www.wedmegood.com/photos/wedding-decoration-ideas)
+
+Wedding Card Designs
+
+[Designs](https://www.wedmegood.com/photos/wedding-card-designs)[Wedding Gifts](https://www.wedmegood.com/photos/wedding-gifts-packing)[Wedding Invitations](https://www.wedmegood.com/photos/wedding-invitations)[More](https://www.wedmegood.com/photos/wedding-invitations)
+
+Wedding Photography
+
+[Pre Wedding Shoot](https://www.wedmegood.com/photos/pre-wedding-shoot-ideas)[Wedding](https://www.wedmegood.com/photos/indian-wedding-photos)[Wedding Photoshoot & Poses](https://www.wedmegood.com/photos/wedding-photoshoot-poses)[More](https://www.wedmegood.com/photos/wedding-photoshoot-poses)
+
+Groom Wear
+
+[Sherwani for Groom](https://www.wedmegood.com/photos/sherwani-for-groom)[Wedding Suits for Groom](https://www.wedmegood.com/photos/wedding-suits-for-groom)[More](https://www.wedmegood.com/photos/groom-wedding-dresses)
+
+Bridal Makeup & Hair
+
+[Bridal Makeup](https://www.wedmegood.com/photos/bridal-makeup-images)[Bridal Hairstyles](https://www.wedmegood.com/photos/bridal-hairstyles)[Engagement](https://www.wedmegood.com/photos/engagement-hairstyles)[Mehndi](https://www.wedmegood.com/photos/hairstyles-for-mehndi)[More](https://www.wedmegood.com/photos/wedding-makeup)
+
+By City
+
+[Mumbai](https://www.wedmegood.com/real_wedding/mumbai/)[Bangalore](https://www.wedmegood.com/real_wedding/bangalore/)[Pune](https://www.wedmegood.com/real_wedding/pune/)[Kolkata](https://www.wedmegood.com/real_wedding/kolkata/)[Jaipur](https://www.wedmegood.com/real_wedding/jaipur/)[Others](https://www.wedmegood.com/real_wedding/)
+
+By Culture
+
+[Maharashtrian](https://www.wedmegood.com/real_wedding/all/maharashtrian/)[Punjabi /Sikh](https://www.wedmegood.com/real_wedding/all/punjabi-sikh/)[Bengali](https://www.wedmegood.com/real_wedding/all/bengali/)[Gujarati](https://www.wedmegood.com/real_wedding/all/gujarati/)[Marwari](https://www.wedmegood.com/real_wedding/all/marwari/)[Telugu](https://www.wedmegood.com/real_wedding/all/telugu/)[Others](https://www.wedmegood.com/real_wedding/)
+
+By Theme
+
+[Destination](https://www.wedmegood.com/real_wedding/all/all/destination-weddings)[Grand & Luxurious](https://www.wedmegood.com/real_wedding/all/all/grand-luxurious-weddings)[Pocket Friendly Stunners](https://www.wedmegood.com/real_wedding/all/all/pocket-friendly-stunners-weddings)[Intimate & Minimalist](https://www.wedmegood.com/real_wedding/all/all/intimate-minimalist-weddings)[Modern & Stylish](https://www.wedmegood.com/real_wedding/all/all/modern-stylish-weddings)[International](https://www.wedmegood.com/real_wedding/all/all/international-weddings)[Others](https://www.wedmegood.com/real_wedding/)
+
+Latest Real Weddings
+
+[![Mahek and Arjun](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Mahek and Arjun](https://image.wedmegood.com/resized/250X/uploads/images/651de491e29043b0b9175a275f4a56a0realwedding/02_MEHAK_ARJUN_MEHANDI-5542.jpg?crop=159,687,1019,573)
+
+Mahek and Arjun (Pune)](https://www.wedmegood.com/real_wedding/detail/mahek-and-arjun-pune-punjabi-sikh-wedding-4420)
+
+[![Disha and Sumanth](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Disha and Sumanth](https://image.wedmegood.com/resized/250X/uploads/images/2e5a2654cc2945ada7d1647a31b80e36realwedding/MINCHU-156.jpeg?crop=182,1012,1633,918)
+
+Disha and Sumanth (Bangalore)](https://www.wedmegood.com/real_wedding/detail/disha-and-sumanth-bangalore-kannada-wedding-4419)
+
+Browse by Category
+
+[Bridal Makeup](https://www.wedmegood.com/blog/category/bridal-makeup-beauty/)[Honeymoon Travel](https://www.wedmegood.com/blog/category/honeymoons/)[Wedding Songs and Videos](https://www.wedmegood.com/blog/category/wedding-songs/)[Bridal Hairstyles](https://www.wedmegood.com/blog/category/bridal-hairstyles-2/)[Wedding Decor Ideas](https://www.wedmegood.com/blog/category/indian-wedding-decor/)[Bridal Style Advice](https://www.wedmegood.com/blog/category/bridal-style-advice/)[Wedding Gifts and Favors](https://www.wedmegood.com/blog/category/indian-wedding-favours/)[Budget Weddings](https://www.wedmegood.com/blog/category/budget-weddings/)[More](https://www.wedmegood.com/blog/)
+
+Popular Sections
+
+[South Indian wedding](https://www.wedmegood.com/blog/category/south-indian-wedding-2/)[Real Brides Reveal](https://www.wedmegood.com/blog/category/real-brides-reveal/)[Bridal Buys](https://www.wedmegood.com/blog/category/bridal-buys/)[Real Wedding](https://www.wedmegood.com/blog/category/real-wedding-2/)[Mehendi Ideas](https://www.wedmegood.com/blog/category/mehendi-ideas/)[Indian Wedding Ideas](https://www.wedmegood.com/blog/category/indian-wedding-ideas/)
+
+Most Searched Blogs
+
+[Wedding Songs](https://www.wedmegood.com/blog/50-of-the-best-bollywood-wedding-songs/)[Best Bridal Entry Songs](https://www.wedmegood.com/blog/the-best-indian-bridal-entry-songs-that-create-an-impact/)[Chandni Chowk Lehengas](https://www.wedmegood.com/blog/where-to-buy-bridal-lehengas-in-chandni-chowk-with-pics/)[Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)[Best Groom Entry Songs](https://www.wedmegood.com/blog/30-most-awesome-groom-entry-songs-ever/)[Best Bridal Hairstyles](https://www.wedmegood.com/blog/best-bridal-hairstyles-indian-weddings/)[Wittiest Wedding Hashtags](https://www.wedmegood.com/blog/wittiest-wedding-hashtags-we-have-come-across/)[Latest Sabyasachi Lehengas](https://www.wedmegood.com/blog/30-sabyasachi-lehengas-we-spotted-on-real-brides/)[Bridal Blouse Designs](https://www.wedmegood.com/blog/latest-bridal-blouse-designs/)[2025 Marriage Dates](https://www.wedmegood.com/blog/best-marriage-dates-in-2025-auspicious-hindu-wedding-dates/)
+
+Top Blogs
+
+[![Bridal Mehendi Designs ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Bridal Mehendi Designs ](https://image.wedmegood.com/wp-content/uploads/2022/07/Collage_Fotor16.jpg)
+
+Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)
+
+[![Honeymoon Hotels ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Honeymoon Hotels ](https://image.wedmegood.com/wp-content/uploads/2018/07/Desktop40.jpg)
+
+Honeymoon Hotels](https://www.wedmegood.com/blog/10-of-the-prettiest-honeymoon-hotels-we-found-on-instagram-including-an-indian-one/)
+
+[Bridal Wear](https://www.wedmegood.com/shop/bridal-wear)
+
+By Type
+
+[Bridal Lehenga](https://www.wedmegood.com/shop/bridal-lehenga-bw)
+
+[Lehenga](https://www.wedmegood.com/shop/lehenga-bw)
+
+[Sarees](https://www.wedmegood.com/shop/sarees-bw)
+
+[Gowns](https://www.wedmegood.com/shop/gowns-bw)
+
+[Sharara](https://www.wedmegood.com/shop/sharara-bw)
+
+[Anarkali](https://www.wedmegood.com/shop/anarkali-bw)
+
+[Drape Sarees](https://www.wedmegood.com/shop/drape-sarees-bw)
+
+[Indo Western](https://www.wedmegood.com/shop/indo-western-bw)
+
+[View More](https://www.wedmegood.com/shop/bridal-wear)
+
+[Bridal Wear](https://www.wedmegood.com/shop/bridal-wear)
+
+By Occasion
+
+[Engagement](https://www.wedmegood.com/shop/bridal-wear?Occasion=Engagement)
+
+[Haldi](https://www.wedmegood.com/shop/bridal-wear?Occasion=Haldi)
+
+[Mehendi](https://www.wedmegood.com/shop/bridal-wear?Occasion=Mehendi)
+
+[Cocktail](https://www.wedmegood.com/shop/bridal-wear?Occasion=Cocktail)
+
+[Wedding](https://www.wedmegood.com/shop/bridal-wear?Occasion=Wedding)
+
+[Reception](https://www.wedmegood.com/shop/bridal-wear?Occasion=Reception)
+
+[Sangeet](https://www.wedmegood.com/shop/bridal-wear?Occasion=Sangeet)
+
+[Bridal Wear](https://www.wedmegood.com/shop/bridal-wear)
+
+Most Popular
+
+[Engagement lehenga](https://www.wedmegood.com/shop/engagement-lehenga-bw)
+
+[Cocktail Gowns](https://www.wedmegood.com/shop/cocktail-gowns-bw)
+
+[Reception Lehenga](https://www.wedmegood.com/shop/reception-lehenga-bw)
+
+[Wedding Sarees](https://www.wedmegood.com/shop/sarees-bw)
+
+[Lehenga Drape Sarees](https://www.wedmegood.com/shop/lehenga-drape-sarees-bw)
+
+[Silk Sarees](https://www.wedmegood.com/shop/silk-sarees-bw)
+
+[Banarasi Lehenga](https://www.wedmegood.com/shop/banarasi-lehenga-bw)
+
+[Red Bridal Lehenga](https://www.wedmegood.com/shop/red-bridal-lehenga-bw)
+
+[View More](https://www.wedmegood.com/shop/bridal-wear)
+
+Wedding Invitation Maker
+
+[Wedding Card Designs](https://www.wedmegood.com/wedding-invitations/wedding-card-designs)[Invitation Video Templates](https://www.wedmegood.com/wedding-invitations/video-templates)[Save the Date Templates](https://www.wedmegood.com/wedding-invitations/save-the-date-templates)
+
 Terms & Conditions
 
 WMG Tech Private Limited ("WedMeGood" or "we") is a wedding website that provides valuable wedding-related information for the modern prospective couple. The services offered by us include the WedMeGood websites located at wedmegood.com or any sub domain of wedmegood.com (the "WedMeGood Website"), the WedMeGood wedding planning app, WedMeGood For Business (Vendor) app, Wedsta app and any other feature, content or applications offered from time to time by WedMeGood in connection with the WedMeGood Website whether accessed directly or through our application for mobile devices (collectively, the "WedMeGood Services"). WedMeGood is only a platform that connects prospect wedding clients and vendors that the Clients are willing to associate with to undertake their services. WedMeGood is a wedding aggregation platform.
