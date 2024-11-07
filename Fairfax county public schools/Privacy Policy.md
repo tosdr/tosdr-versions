@@ -148,7 +148,7 @@ Full Menu Menu
     
     * [School Board Committees](https://www.fcps.edu/get-involved/school-board-committees)
         * [All Board Committees...](https://www.fcps.edu/get-involved/school-board-committees)
-        * [Community Advisory Committees](https://www.fcps.edu/get-involved/community-advisory-committees)
+        * [Community Advisory Committees](https://www.fcps.edu/get-involved/school-board-committees/community-advisory-committees)
         * [Liaisons to Other Organizations](https://www.fcps.edu/get-involved/school-board-committees/liaisons-other-organizations)
         * [Standing Committees](https://www.fcps.edu/get-involved/school-board-committees/standing-committees)
     * Students
