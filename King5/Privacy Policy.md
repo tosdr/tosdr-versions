@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c06d29d3-12dd-4e1e-98e4-68649980a3ca/20241107T014647/c06d29d3-12dd-4e1e-98e4-68649980a3ca_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c06d29d3-12dd-4e1e-98e4-68649980a3ca/20241107T014647/c06d29d3-12dd-4e1e-98e4-68649980a3ca_360x203.jpg)](https://www.king5.com/article/news/local/lewis-county-voters-outliers-2024-election-trump/281-ac9c9e44-8ff4-49fc-8cf0-6b93322e6d42)
+    *  [![](https://media.king5.com/assets/KING/images/013563a8-956c-43ac-823b-5af1dbceaf9c/20241107T071854/013563a8-956c-43ac-823b-5af1dbceaf9c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/013563a8-956c-43ac-823b-5af1dbceaf9c/20241107T071854/013563a8-956c-43ac-823b-5af1dbceaf9c_360x203.jpg)](https://www.king5.com/article/news/local/lead-copper-detected-tsa-break-room-sink-sea-airport/281-e6921d58-cc78-4000-858e-c03976cfa4a2)
         
-        #### [Trump's biggest support in Washington found in Lewis County](https://www.king5.com/article/news/local/lewis-county-voters-outliers-2024-election-trump/281-ac9c9e44-8ff4-49fc-8cf0-6b93322e6d42)
+        #### [Lead, copper detected in TSA break room sink at SEA Airport](https://www.king5.com/article/news/local/lead-copper-detected-tsa-break-room-sink-sea-airport/281-e6921d58-cc78-4000-858e-c03976cfa4a2)
         
-    *  [![](https://media.king5.com/assets/KING/images/820c62de-89c9-4e3c-9b2c-132692e38175/20241107T015010/820c62de-89c9-4e3c-9b2c-132692e38175_16x9.jpg) ![](https://media.king5.com/assets/KING/images/820c62de-89c9-4e3c-9b2c-132692e38175/20241107T015010/820c62de-89c9-4e3c-9b2c-132692e38175_360x203.jpg)](https://www.king5.com/article/money/business/seattle-salmon-study-mislabeled-in-restaurants/281-7a850f37-201f-42a8-aabc-a3f895a593a2)
+    *  [![](https://media.king5.com/assets/KING/images/02e9b190-d09c-4676-bd47-0dc8c20b5d43/20241107T071145/02e9b190-d09c-4676-bd47-0dc8c20b5d43_16x9.jpg) ![](https://media.king5.com/assets/KING/images/02e9b190-d09c-4676-bd47-0dc8c20b5d43/20241107T071145/02e9b190-d09c-4676-bd47-0dc8c20b5d43_360x203.jpg)](https://www.king5.com/article/news/local/man-shot-auburn-search-for-suspects/281-15743d92-75f8-4aba-a6bd-a66a5f2447f4)
         
-        #### [Seattle study finds salmon is being mislabeled in restaurants](https://www.king5.com/article/money/business/seattle-salmon-study-mislabeled-in-restaurants/281-7a850f37-201f-42a8-aabc-a3f895a593a2)
+        #### [Man shot in Auburn, airlifted to Harborview](https://www.king5.com/article/news/local/man-shot-auburn-search-for-suspects/281-15743d92-75f8-4aba-a6bd-a66a5f2447f4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/383e34ab-de6f-464d-a20e-51e32a909773/20241107T013017/383e34ab-de6f-464d-a20e-51e32a909773_16x9.jpg) ![](https://media.king5.com/assets/KING/images/383e34ab-de6f-464d-a20e-51e32a909773/20241107T013017/383e34ab-de6f-464d-a20e-51e32a909773_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/767bb7db-543d-4e72-a181-a38dbd87a97a/20241107T062629/767bb7db-543d-4e72-a181-a38dbd87a97a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/767bb7db-543d-4e72-a181-a38dbd87a97a/20241107T062629/767bb7db-543d-4e72-a181-a38dbd87a97a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-49°
+44°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
