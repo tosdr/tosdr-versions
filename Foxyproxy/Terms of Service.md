@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-FoxyProxy provided a great service, with snappy customer support, and quickly resolved all down times.
+No problem with service (very good), back in UK, will not hesitate to use again and recommend.
 
-TheeSwashbuckler
+Kevin Osborne
