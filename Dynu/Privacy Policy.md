@@ -240,23 +240,16 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Great Users
+### Priority Support
 
   
 
-![Partner](/content/images/content/strip/Strip-Charter.png)
+#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
 
   
 
-![Partner](/content/images/content/strip/Strip-BMW.png)
-
+[Get Priority Support](https://www.dynu.com/Membership)  
   
-
-![Partner](/content/images/content/strip/Strip-certifyeu.png)
-
-  
-
-![Partner](/content/images/content/strip/Strip-Estructuras.png)
 
 ### News
 
