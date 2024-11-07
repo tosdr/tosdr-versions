@@ -391,23 +391,22 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![What Does the Sparkle Emoji Mean](https://www.wikihow.com/images/thumb/c/ce/What-Does-the-Sparkle-Emoji-Mean-Step-14.jpg/-crop-126-120-126px-What-Does-the-Sparkle-Emoji-Mean-Step-14.jpg)
+
+What Does the ✨ Sparkle Emoji Mean?](https://www.wikihow.com/What-Does-the-Sparkle-Emoji-Mean)
+
+[![Write a Rap Song](https://www.wikihow.com/images/thumb/2/21/1257063-13.jpg/-crop-126-120-126px-1257063-13.jpg)
+
+How to  
+Write a Rap Song](https://www.wikihow.com/Write-a-Rap-Song)
+
+[![Soul Connection](https://www.wikihow.com/images/thumb/7/73/Soul-Connection-Step-13.jpg/-crop-126-120-126px-Soul-Connection-Step-13.jpg)
+
+11 Powerful Soul Connections You'll Experience](https://www.wikihow.com/Soul-Connection)
+
 [![Introvert or Extrovert Quiz](https://www.wikihow.com/images/thumb/7/79/Introvert_vs_extrovert.png/-crop-126-120-126px-Introvert_vs_extrovert.png)
 
 Introvert or Extrovert Quiz](https://www.wikihow.com/Introvert-or-Extrovert-Quiz)
-
-[![Tell if a Girl Wants to Hold Hands](https://www.wikihow.com/images/thumb/c/c1/Tell-if-a-Girl-Wants-to-Hold-Hands-Step-11.jpg/-crop-126-120-126px-Tell-if-a-Girl-Wants-to-Hold-Hands-Step-11.jpg)
-
-11 Ways to Tell if a Girl Wants to Hold Hands](https://www.wikihow.com/Tell-if-a-Girl-Wants-to-Hold-Hands)
-
-[![Close Blackhead Holes](https://www.wikihow.com/images/thumb/9/99/Close-Blackhead-Holes-Step-12.jpg/-crop-126-120-126px-Close-Blackhead-Holes-Step-12.jpg)
-
-How to  
-Close Blackhead Holes](https://www.wikihow.com/Close-Blackhead-Holes)
-
-[![Study a Week Before an Exam](https://www.wikihow.com/images/thumb/6/6e/Study-a-Week-Before-an-Exam-Step-18-Version-2.jpg/-crop-126-120-126px-Study-a-Week-Before-an-Exam-Step-18-Version-2.jpg)
-
-How to  
-Study a Week Before an Exam](https://www.wikihow.com/Study-a-Week-Before-an-Exam)
 
   
 
@@ -450,4 +449,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-185
+213
