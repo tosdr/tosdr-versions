@@ -30,7 +30,7 @@ Close
 
 sections
 
-[Voices](https://www.thejournal.ie/voices/) [FactCheck](https://www.thejournal.ie/factcheck/news/) [Investigates](https://www.thejournal.ie/investigates/) [Quizzes](https://www.thejournal.ie/quiz/news/) [Money Diaries](https://www.thejournal.ie/money-diaries/news/) [Explainers](https://www.thejournal.ie/explainer/news/) [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/) [The Journal TV](https://www.thejournal.ie/tv/)
+[Voices](https://www.thejournal.ie/voices/) [FactCheck](https://www.thejournal.ie/factcheck/news/) [Investigates](https://www.thejournal.ie/investigates/) [Quizzes](https://www.thejournal.ie/quiz/news/) [Money Diaries](https://www.thejournal.ie/money-diaries/news/) [Explainers](https://www.thejournal.ie/explainer/news/) [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/) [Allianz Home Magazine](https://www.thejournal.ie/magazine/home/) [The Journal TV](https://www.thejournal.ie/tv/)
 
 topics
 
@@ -293,6 +293,7 @@ Sections
 * [FactCheck](https://www.thejournal.ie/factcheck/news/)
 * [Investigates](https://www.thejournal.ie/investigates/)
 * [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/)
+* [Allianz Home Magazine](https://www.thejournal.ie/magazine/home/)
 * [Money Diaries](https://www.thejournal.ie/money-diaries/news/)
 * [The Journal TV](https://www.thejournal.ie/tv/)
 
