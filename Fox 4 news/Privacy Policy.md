@@ -402,6 +402,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Project 2025: Trump's alleged association and where it aims to go next](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/vlcsnap-2024-11-06-19h16m07s705.jpg?ve=1&tl=1)
+
+ ![Project 2025: Trump's alleged association and where it aims to go next](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/vlcsnap-2024-11-06-19h16m07s705.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/project-2025-trumps-alleged-association-where-aims-go-next)
+
+### [Project 2025: Trump's alleged association and where it aims to go next](https://www.fox4news.com/news/project-2025-trumps-alleged-association-where-aims-go-next)
+
+ [![Richardson ISD cancels classes for 5 schools due to boil water notice](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110624-richardson-boil-water-notice-kdfweme002_20__00.04.44.14.jpg?ve=1&tl=1)
+
+ ![Richardson ISD cancels classes for 5 schools due to boil water notice](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110624-richardson-boil-water-notice-kdfweme002_20__00.04.44.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-isd-school-closed-thursday-november-7)
+
+### [Richardson ISD cancels classes for 5 schools due to boil water notice](https://www.fox4news.com/news/richardson-isd-school-closed-thursday-november-7)
+
  [![Election 2024: Live updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182514215-scaled.jpg?ve=1&tl=1)
 
  ![Election 2024: Live updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182514215-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-results-congress-republicans-house-kamala-harris-concede)
@@ -421,18 +433,6 @@ Live Now
  ![How North Texas voted in Cruz-Allred race vs. previous Senate races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110524-ktbc-cruz-hq-kdfweme002_20_28_46_1_mpg_00.13.22.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/cruz-allred-voting-senate-trends-north-texas)
 
 ### [How North Texas voted in Cruz-Allred race vs. previous Senate races](https://www.fox4news.com/election/cruz-allred-voting-senate-trends-north-texas)
-
- [![2024 Presidential Election: How North Texas counties voted compared to past elections](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/president-vote.jpg?ve=1&tl=1)
-
- ![2024 Presidential Election: How North Texas counties voted compared to past elections](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/president-vote.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/2024-presidential-election-north-texas-past-elections)
-
-### [2024 Presidential Election: How North Texas counties voted compared to past elections](https://www.fox4news.com/election/2024-presidential-election-north-texas-past-elections)
-
- [![H-E-B, Central Market host annual Feast of Sharing Holiday Dinner in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-alex-heb-feast-of-sharing-in-fw-5p_00.00.04.48.jpg?ve=1&tl=1)
-
- ![H-E-B, Central Market host annual Feast of Sharing Holiday Dinner in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-alex-heb-feast-of-sharing-in-fw-5p_00.00.04.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/h-e-b-central-market-host-annual-feast-sharing-holiday-dinner-fort-worth)
-
-### [H-E-B, Central Market host annual Feast of Sharing Holiday Dinner in Fort Worth](https://www.fox4news.com/news/h-e-b-central-market-host-annual-feast-sharing-holiday-dinner-fort-worth)
 
 ###### [News](https://www.fox4news.com/news)
 
