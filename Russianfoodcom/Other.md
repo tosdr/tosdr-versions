@@ -179,7 +179,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174752#comments) | 07.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174752#comments) | 07.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -193,7 +193,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174731#comments) | 07.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174731#comments) | 07.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -448,8 +448,8 @@
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748464.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744099.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749278.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) |
-| [Салат "Селёдка под шубой" в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [Тартар из сельди с авокадо](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Салат из печёной тыквы и куриного филе](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [Салат с крабовыми палочками в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) |
+| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749278.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748464.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744099.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) |
+| [Салат с крабовыми палочками в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [Тартар из сельди с авокадо](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [Салат "Селёдка под шубой" в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Салат из печёной тыквы и куриного филе](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -466,4 +466,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(142)
+(166)
