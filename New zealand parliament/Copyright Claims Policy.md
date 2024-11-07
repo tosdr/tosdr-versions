@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCJUST_EVI_ad58bd2a-c2ca-44cd-361f-08dc7876229a_JUST12871/warren-evans/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCJUST_EVI_ad58bd2a-c2ca-44cd-361f-08dc7876229a_JUST5407/natalie-paviour/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCJUST_EVI_ad58bd2a-c2ca-44cd-361f-08dc7876229a_JUST12871/warren-evans/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCJUST_EVI_ad58bd2a-c2ca-44cd-361f-08dc7876229a_JUST5407/natalie-paviour/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
