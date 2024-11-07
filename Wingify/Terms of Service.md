@@ -162,13 +162,13 @@
     
     Webinars
     
-    [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
-    
-    Improve Experimentation Velocity by a Leap with AI-Powered Optimization](https://vwo.com/webinars/improve-experiment-velocity-leap-ai-powered-optimization/)
-    
     [![Ajit Singh](https://static.wingify.com/gcp/uploads/2024/11/1516552969221.jpeg?tr=w-60,h-50)
     
     Supercharge Your HubSpot CRM: Unlocking Advanced CRO Capabilities with VWO Integration](https://vwo.com/webinars/supercharge-your-hubspot-crm-unlocking-advanced-cro-capabilities-with-vwo-integration/)
+    
+    [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
+    
+    Improve Experimentation Velocity by a Leap with AI-Powered Optimization](https://vwo.com/webinars/improve-experiment-velocity-leap-ai-powered-optimization/)
     
     [![Deborah O'Malley](https://static.wingify.com/gcp/uploads/2024/01/1680726941193.jpeg?tr=w-60,h-50)
     
@@ -188,6 +188,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-70-Web-Design-Statistics-Every-UX-Designer-Should-Know-In-2025-1-1.jpg?tr=w-60,h-50)
+    
+    70+ Web Design Statistics Every UX Designer Should Know In 2025](https://vwo.com/blog/web-design-statistics/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-10-Best-Web-Analytics-Tools-to-Boost-Your-Digital-Strategy.jpg?tr=w-60,h-50)
     
     10 Best Web Analytics Tools to Boost Your Digital Strategy](https://vwo.com/blog/web-analytics-tools/)
@@ -203,10 +207,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Top-10-Behavior-Analytics-Tools-Tips-to-Choose-the-Perfect-Fit-1.jpg?tr=w-60,h-50)
     
     Top 10 Behavior Analytics Tools & Tips to Choose the Perfect Fit](https://vwo.com/blog/behavior-analytics-tools/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-imageTop-9-Session-Recording-Tools-for-Websites-_-Expert-Guide.jpg?tr=w-60,h-50)
-    
-    9 Best Session Recording Tools to Maximize User Experience](https://vwo.com/blog/session-recording-tools/)
     
     Featured Blogs
     
