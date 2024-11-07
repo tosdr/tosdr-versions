@@ -1,6 +1,6 @@
 5.39.5
 
-1730968295559
+1730990155570
 
                                           
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1730967695655
+1730991034443
 
      Next Cookies & Privacy Policy | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1730968460346
+1730990881360
 
 You need to enable JavaScript to run this app.
 
@@ -30,9 +30,9 @@ You need to enable JavaScript to run this app.
 
 [Help](https://www.next.co.uk/help "Help")
 
-[![Go to the homepage for clothes & more](/static-content/icons/header/next/v2/vision/new-next-black-logo.svg)
+[![Go to the homepage for clothes & more](/static-content/icons/header/next/v2/vision/new-next-gold-logo.svg)
 
-![Go to the homepage for clothes & more](/static-content/icons/header/next/v2/vision/new-next-black-logo.svg)](https://www.next.co.uk/ "Go to the homepage for clothes & more")
+![Go to the homepage for clothes & more](/static-content/icons/header/next/v2/vision/new-next-gold-logo.svg)](https://www.next.co.uk/ "Go to the homepage for clothes & more")
 
 Search product or brand
 
@@ -60,13 +60,12 @@ Search product or brand
 * [home](https://www.next.co.uk/homeware "HOME")
 * [christmas](https://www.next.co.uk/christmas "CHRISTMAS")
 * [baby](https://www.next.co.uk/newborn "BABY")
-* [autumn](https://www.next.co.uk/shop/promotion-autumnessentials-0 "AUTUMN")
 * [brands](https://www.next.co.uk/branded "BRANDS")
 * [furniture](https://www.next.co.uk/furniture "FURNITURE")
 * [gifts](https://www.next.co.uk/gift-ideas "GIFTS")
-* [gifts & flowers](https://www.next.co.uk/gift-ideas "GIFTS & FLOWERS")
 * [beauty](https://www.next.co.uk/beauty "BEAUTY")
 * [sports](https://www.next.co.uk/sports "SPORTS")
+* [luxury brands](https://www.next.co.uknull/ "Luxury Brands")
 * [clearance](https://www.next.co.uk/clearance "CLEARANCE")
 
 next
@@ -529,7 +528,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1730967775255
+1730989922282
 
 ### Our Social Networks
 
