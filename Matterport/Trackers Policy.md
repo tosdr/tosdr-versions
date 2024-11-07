@@ -10,15 +10,6 @@ Sales: [+1(888) 993-8990](tel:+1(888) 993-8990)
 
 ![globe icon](/nextjs-assets/images/icons/globe.svg)EN
 
-* English
-* English (UK)
-* Français
-* Deutsch
-* Español
-* Italiano
-* 日本語
-* 한국어
-
 [Start Free](https://buy.matterport.com/free-account-register)
 
 Cookie Policy
@@ -149,93 +140,3 @@ You can contact us via email at [\[email protected\]](https://matterport.com/c
 If you prefer to contact us by postal mail, please use the following addresses:
 
 Matterport, Inc. 352 E. Java Dr. Sunnyvale, CA 94089 USA
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27194%27%20height=%2742%27/%3e)![Matterport](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Matterport](https://images.ctfassets.net/icnj41gkyohw/2gV0wmYBGKXzExWD29wa4M/a7645359687b70d7e8c2ea41cbfa9051/Matterport.svg)
-
-Partner Programs
-----------------
-
-* [Partners](https://matterport.com/partners)
-* [Find a Reseller](https://matterport.com/find-matterport-partner)
-* [Reseller Program](https://matterport.com/reseller-program)
-* [Software Developers](https://matterport.com/developers)
-* [Find a 3D Pro](https://matterport.com/capture-services)
-
-Industries
-----------
-
-* [Residential Real Estate](https://matterport.com/industries/real-estate)
-* [Commercial Real Estate](https://matterport.com/industries/commercial-real-estate)
-* [Architect/Engineer/Construct](https://matterport.com/industries/architects-engineering-construction)
-* [Insurance & Restoration](https://matterport.com/industries/insurance-restoration)
-* [Facilities Management](https://matterport.com/solutions/facilities-management)
-* [Travel & Hospitality](https://matterport.com/industries/travel-hospitality)
-* [Manufacturing](https://matterport.com/industries/manufacturing)
-* [Public Sector/Government](https://matterport.com/industries/public-sector)
-* [Case Studies](https://matterport.com/case-studies)
-
-Account
--------
-
-* [Cloud Sign-In](https://my.matterport.com/accounts/login)
-* [Sign Up for Free](https://buy.matterport.com/free-account-register)
-
-About
------
-
-* [About Us](https://matterport.com/about-us)
-* [Investor Relations](https://investors.matterport.com/)
-* [Subscribe to Newsletter](https://matterport.com/newsletter-signup)
-* [Life at Matterport](https://matterport.com/life-matterport)
-* [Diversity & Inclusion](https://matterport.com/diversity-and-inclusion)
-* [Environmental, Social and Governance](https://matterport.com/esg)
-* [Matterport Cares](https://matterport.com/matterport-cares)
-* [Social Impact](https://matterport.com/social-impact)
-* [Blog](https://matterport.com/blog)
-* [News](https://matterport.com/news)
-* [Media Kit](https://matterport.com/media-kit)
-* [Careers](https://matterport.com/careers)
-
-Support
--------
-
-* [Help Center](https://support.matterport.com/)
-* [Support FAQs](https://matterport.com/resources/support)
-* [Content Library](https://matterport.com/resources/content-library)
-* [Matterport Academy](https://matterport.com/matterport-academy)
-* [Product Registration](https://matterport.com/warranty-register)
-* [Trust Center](https://matterport.com/trust)
-* [Community](https://www.facebook.com/groups/MatterportOfficial/)
-* [Accessibility](https://matterport.com/accessibility)
-* [Legal](https://matterport.com/legal)
-* [Specified Commercial Transaction Guide (Japan)](https://matterport.com/legal/specified-commercial-transaction-guide-japan)
-* [Contact Us](https://matterport.com/contact-us)
-
-Find Us!
---------
-
-* [Facebook](https://www.facebook.com/Matterport/)
-* [Twitter](https://twitter.com/Matterport)
-* [LinkedIn](https://www.linkedin.com/company/matterport/)
-* [Instagram](https://www.instagram.com/matterportmedia)
-
-Need Help?
-----------
-
-### Sales
-
-[+1 (888) 993-8990](tel:+1 (888) 993-8990)
-
-### Support
-
-[+1(408)805-3347](tel:+1(408)805-3347)
-
-©2024 Matterport Inc. Matterport is a registered trademark of Matterport Inc. All rights reserved.
-
-Terms, conditions, features, support, pricing, and service options are subject to change.
-
-* [Terms of Use](https://matterport.com/terms-of-use)
-* [Privacy Policy](https://matterport.com/privacy-policy)
-* [Cookie Policy](https://matterport.com/cookie-policy)
