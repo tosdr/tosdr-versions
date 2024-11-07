@@ -135,6 +135,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
 
+[Body of missing German tourist found off Wakayama coast](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
+
+  [![The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432498.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
+
+[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
+  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
 [Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
   [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
@@ -142,14 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Trump takes early electoral lead as race with Harris takes shape](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
 
   [![A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432403.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.")](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
-
-[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
-
-  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
-
-[Snow seen on Mount Fuji after record time without snowcap](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
-
-  [![A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432438.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ")](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
 Editors' Picks
 --------------
@@ -162,6 +162,20 @@ Editors' Picks
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Body of missing German tourist found off Wakayama coast](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
+
+By Karin Kaneko  
+
+  [![The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432498.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The body of Claudio Worm, a German university student who went missing in Wakayama Prefecture, has been found.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/german-man-found-dead/ "Body of missing German tourist found off Wakayama coast")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
+  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
   [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
@@ -171,22 +185,6 @@ Editors' Picks
 [Trump takes early electoral lead as race with Harris takes shape](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
 
   [![A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432403.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A race whipsawed by unprecedented events remained too close to call on Election Day, even after billions of dollars in spending and months of frenetic campaigning.")](https://www.japantimes.co.jp/news/2024/11/06/world/politics/trump-harris-voters-decide/ "Trump takes early electoral lead as race with Harris takes shape")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Snow seen on Mount Fuji after record time without snowcap](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
-
-By [Hiroshi Hiyama](https://www.japantimes.co.jp/author/2633/hiroshi-hiyama/ "Hiroshi Hiyama")  
-
-  [![A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432438.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ")](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
 Podcast
 -------
@@ -207,9 +205,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,21 +247,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump defeats Harris, returning U.S. to era of uncertainty](https://www.japantimes.co.jp/news/2024/11/06/world/politics/us-election-trump-harris/ "Trump defeats Harris, returning U.S. to era of uncertainty")
+[Japan defense chief makes first boarding on South Korean naval ship](https://www.japantimes.co.jp/news/2024/11/07/japan/japan-defense-chief-sk-warship/ "Japan defense chief makes first boarding on South Korean naval ship")
 
-8 hours ago
+32 mins ago
 
-[Obesity drug maker Novo Nordisk posts strong profit](https://www.japantimes.co.jp/business/2024/11/06/obesity-drugmaker-novo-nordisk-profit/ "Obesity drug maker Novo Nordisk posts strong profit")
+[Germany faces snap election as Scholz's coalition crumbles](https://www.japantimes.co.jp/news/2024/11/07/world/politics/germany-election-scholz-coalition/ "Germany faces snap election as Scholz's coalition crumbles")
 
-9 hours ago
+48 mins ago
 
-[White House win gives Trump a legal reprieve](https://www.japantimes.co.jp/news/2024/11/06/world/white-house-win-legal-reprieve/ "White House win gives Trump a legal reprieve")
+[Japan’s biggest base pay gains in 31 years support case for rate hikes](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
 
-9 hours ago
+57 mins ago
 
-[Nintendo Switch sales drop as successor console looms](https://www.japantimes.co.jp/business/2024/11/06/companies/nintendo-switch-sales/ "Nintendo Switch sales drop as successor console looms")
+[Ishiba holds first phone call with Trump as Japanese PM seeks to build ties](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-ishiba-phone-call/ "Ishiba holds first phone call with Trump as Japanese PM seeks to build ties")
 
-[American voters in Japan reflect divisions in home country](https://www.japantimes.co.jp/news/2024/11/06/japan/japan-us-election/ "American voters in Japan reflect divisions in home country")
+1 hours ago
+
+[From oil to EVs, here’s how Trump’s victory affects energy](https://www.japantimes.co.jp/business/2024/11/07/markets/oil-evs-trump-victory-energy/ "From oil to EVs, here’s how Trump’s victory affects energy")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
