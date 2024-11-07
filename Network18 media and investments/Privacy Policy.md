@@ -128,12 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Donald Trump](https://www.news18.com/world/donald-trump-speech-highlights-us-president-elect-calls-to-seal-borders-vows-to-stop-wars-9110916.html)
+    * [Donald Trump](https://www.news18.com/world/new-faces-loyal-allies-trump-taps-tulsi-gabbard-elon-musk-rfk-jr-for-transition-9111747.html)
     * [US Election Results](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-    * [US Election Tally](https://www.news18.com/elections/us-election/)
+    * [Ben Affleck](https://www.news18.com/movies/ben-affleck-comments-on-ex-wife-jennifer-lopez-3-months-after-divorce-we-believed-in-9111746.html)
     * [Ind vs SA](https://www.news18.com/cricket/mayank-yadav-out-5-players-in-complete-list-of-changes-in-team-india-for-south-africa-t20is-9110571.html)
-    * [Usha Chilukuri Vance](https://www.news18.com/world/who-is-usha-chilukuri-vance-set-to-become-first-india-origin-second-lady-of-us-9111114.html)
-    * [Alia Bhatt](https://www.news18.com/movies/alia-bhatt-raha-enjoy-watching-monkeys-in-pic-shared-by-nani-soni-razdan-no-feeling-in-the-world-9111097.html)
+    * [Petticoat Cancer](https://www.news18.com/india/petticoat-cancer-do-you-wear-your-saree-like-this-study-says-you-are-at-risk-9111102.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +168,11 @@ Follow us on
 
 In Trends:
 
-* [Donald Trump](https://www.news18.com/world/donald-trump-speech-highlights-us-president-elect-calls-to-seal-borders-vows-to-stop-wars-9110916.html)
+* [Donald Trump](https://www.news18.com/world/new-faces-loyal-allies-trump-taps-tulsi-gabbard-elon-musk-rfk-jr-for-transition-9111747.html)
 * [US Election Results](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-* [US Election Tally](https://www.news18.com/elections/us-election/)
+* [Ben Affleck](https://www.news18.com/movies/ben-affleck-comments-on-ex-wife-jennifer-lopez-3-months-after-divorce-we-believed-in-9111746.html)
 * [Ind vs SA](https://www.news18.com/cricket/mayank-yadav-out-5-players-in-complete-list-of-changes-in-team-india-for-south-africa-t20is-9110571.html)
-* [Usha Chilukuri Vance](https://www.news18.com/world/who-is-usha-chilukuri-vance-set-to-become-first-india-origin-second-lady-of-us-9111114.html)
-* [Alia Bhatt](https://www.news18.com/movies/alia-bhatt-raha-enjoy-watching-monkeys-in-pic-shared-by-nani-soni-razdan-no-feeling-in-the-world-9111097.html)
+* [Petticoat Cancer](https://www.news18.com/india/petticoat-cancer-do-you-wear-your-saree-like-this-study-says-you-are-at-risk-9111102.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
