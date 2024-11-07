@@ -1,4 +1,4 @@
-![YNAB tree logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/67243cc4cebdc79fe7afd56f_Tree%20Logo%20Blurple%20(2).svg)![Australian flag](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6717c339f7871c66645b7ae3_flag%20(2).png)
+![](https://cdn.prod.website-files.com/67243c508406e5699a52fb1e/67243c518406e5699a52fbef_Tree%20Logo%20Blurple%20(2).svg)![](https://cdn.prod.website-files.com/67243c508406e5699a52fb1e/67243c518406e5699a52fbf0_flag%20(2).png)
 
 It looks like you're located in Australia.  
 We have an Australian version of our website.  
@@ -155,7 +155,7 @@ If you need to get our attention about anything else security related, please do
 
 ![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/645d2ae6d9658d2cd3608470_Tree%20Logo%20Buttermilk.svg)
 
-![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/667c60faafec2b8470e5c372_20th_anniversary_logo_partial%20(1).svg)
+[![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/667c60faafec2b8470e5c372_20th_anniversary_logo_partial%20(1).svg)](https://www.youneedabudget.com/about-us/timeline)
 
 [Facebook Icon](https://www.facebook.com/ynabofficial)[The artist formerly known as Twitter](https://twitter.com/ynab)[Instagram Icon](https://www.instagram.com/ynab.official/)[Pinterest Icon](https://www.pinterest.com/ynabofficial/)[TikTok Icon](https://www.tiktok.com/@ynabofficial)[YouTube Icon](https://www.youtube.com/@YNABofficial)[Apple Podcasts Icon](https://podcasts.apple.com/ca/podcast/you-need-a-budget-ynab/id477248343)[RSS Icon](https://www.youneedabudget.com/blog/rss.xml)
 
