@@ -263,7 +263,13 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/10/vr.png?w=1024)
+[![The crew of the Human Exploration Research Analog’s Campaign 7 Mission 1 clasp hands above their simulated space habitat’s elevator shaft.](https://www.nasa.gov/wp-content/uploads/2024/08/hero.png?w=1024)
+
+1 min read
+
+### HERO
+
+article 2 hours ago](https://www.nasa.gov/hrp/hero/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/vr.png?w=1024)
 
 3 min read
 
@@ -275,17 +281,17 @@ article 3 days ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human
 
 ### Research Operations and Integration
 
-article 7 days ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
-
-5 min read
-
-### We Are All Made of Cells: Space and the Immune System
-
-article 7 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)
+article 7 days ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)
 
 ### Highlights
 
-[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
+[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
+
+2 min read
+
+### Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE
+
+article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
 
 5 min read
 
@@ -297,17 +303,17 @@ article 3 days ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-fi
 
 ### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 
-article 7 days ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
-
-5 min read
-
-### NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
-
-article 1 week ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)
+article 7 days ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)
 
 ### Highlights
 
-[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
+[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
+
+2 min read
+
+### Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE
+
+article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
 
 4 min read
 
@@ -319,13 +325,7 @@ article 3 days ago](https://science.nasa.gov/science-research/heliophysics/final
 
 ### NASA’s New Edition of Graphic Novel Features Europa Clipper
 
-article 6 days ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space](https://science.nasa.gov/wp-content/uploads/2023/07/windv3_0.jpg)
-
-5 min read
-
-### 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
-
-article 6 days ago](https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/)
+article 6 days ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)
 
 ### Featured
 
@@ -347,29 +347,29 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Why NASA’s SPHEREx Mission Will Make ‘Most Colorful’ Cosmic Map Ever
 
-article 7 days ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)
+article 1 week ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)
 
 ### Highlights
 
-[![Integrating Relevant Science Investigations into Migrant Children Education](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/BHS_YouthandTeacher-Gabrielle_Brodek.jpg)
+[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
 
 3 min read
 
-### Integrating Relevant Science Investigations into Migrant Children Education
+### Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF
 
-article 17 hours ago](https://science.nasa.gov/learning-resources/science-activation/integrating-relevant-science-investigations-into-migrant-children-education/)[![10 Things to Know About Tissue Chips and How They Benefit Humanity](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/precision-health/tissue-chips/3d_tissue_chips.png)
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
 
 2 min read
 
-### 10 Things to Know About Tissue Chips and How They Benefit Humanity
+### Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE
 
-article 24 hours ago](https://science.nasa.gov/10-things-to-know-about-tissue-chips-and-how-they-benefit-humanity/)[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
+article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![NASA-Funded Study Examines Tidal Effects on Planet and Moon Interiors](https://science.nasa.gov/wp-content/uploads/2024/07/pia19048-europa-stunning-surface.jpg)
 
-3 min read
+2 min read
 
-### Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
+### NASA-Funded Study Examines Tidal Effects on Planet and Moon Interiors
 
-article 2 days ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)
+article 4 hours ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/studying-how-tides-affect-the-interiors-of-planets-and-moons/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 2 days ago](https://science.nasa.gov/learning-resources/science-activati
 
 ### X-59 Fires Up its Engine for First Time on its Way to Takeoff
 
-article 21 hours ago](https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
 
 2 min read
 
@@ -395,25 +395,25 @@ article 3 weeks ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-ma
 
 ### Highlights
 
-[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
+[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
+
+3 min read
+
+### Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+
+2 min read
+
+### Power to Explore STEM Writing Challenge
+
+article 4 hours ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
 
 5 min read
 
 ### From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 
-article 2 days ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![A screenshot of visual inspection software showing a prepared meal, highlighting green beans.](https://www.nasa.gov/wp-content/uploads/2024/10/ar-live-view-1.png?w=1024)
-
-2 min read
-
-### From Mars Rovers to Factory Assembly Lines
-
-article 6 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/)[![Mario Perez, back, holds a deployable solar panel as Craig Turczynski, left, secures it to the Advanced Composite Solar Sail System (ACS3) spacecraft in the Integration Facility of NASA Ames Research Center.](https://www.nasa.gov/wp-content/uploads/2024/10/acs3-test-and-final-preparation-for-launch.jpg?w=1024)
-
-4 min read
-
-### NASA Technologies Named Among TIME Inventions of 2024
-
-article 1 week ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)
+article 2 days ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)
 
 ### Featured
 
@@ -423,7 +423,7 @@ article 1 week ago](https://www.nasa.gov/general/nasa-technologies-named-among-t
 
 ### NASA Knows – How Can I Get Involved With NASA Research?
 
-article 21 hours ago](https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/)
+article 1 day ago](https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/)
 
 ### Featured
 
@@ -449,7 +449,7 @@ article 3 days ago](https://science.nasa.gov/missions/voyager-program/still-kick
 
 ### El X-59 enciende su motor por primera vez rumbo al despegue
 
-article 20 hours ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
 
 3 min read
 
