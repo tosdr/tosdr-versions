@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
-    
-    ### ['I have a stolen ar15 and a target': Man threatens to 'carry out an attack' if Trump wins election, feds say](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
-    
-2. [![Left to right: Ulise DeLao (Randall County Jail), Brittney A. Torres (GoFundMe).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Left-to-right-Ulise-DeLao-Randall-County-Jail-and-Brittney-A.-Torres-GoFundMe-1-432x243.jpg)](https://lawandcrime.com/crime/dad-accused-of-running-down-killing-mother-of-his-child-will-retain-parental-rights-ahead-of-trial-judge-rules/)
-    
-    ### [Dad accused of running down, killing mother of his child will retain parental rights ahead of trial, judge rules](https://lawandcrime.com/crime/dad-accused-of-running-down-killing-mother-of-his-child-will-retain-parental-rights-ahead-of-trial-judge-rules/)
-    
-3. [![Yvonne St. Cyr appears inset in two images against one image of former president Donald Trump at the Jan. 6, 2021 rally in Washington, D.C.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/St-Cyr-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/you-can-witness-history-by-obstructing-appeals-court-in-jan-6-case-doesnt-seem-to-care-trump-video-was-excluded/)
-    
-    ### ['You can witness history by obstructing': Appeals court in Jan. 6 case doesn't seem to care Trump video was excluded](https://lawandcrime.com/high-profile/you-can-witness-history-by-obstructing-appeals-court-in-jan-6-case-doesnt-seem-to-care-trump-video-was-excluded/)
-    
-4. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
+1. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
     
     ### ['Heartbreaking and unimaginable': Mom gave 2-year-old daughter to drug dealer while buying meth, girl hasn’t been seen since, police say](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
     
-5. [![Rudy Giuliani makes appearance at RNC.](https://am21.mediaite.com/lc/cnt/uploads/2024/07/AP24198792449520-432x243.jpg)](https://lawandcrime.com/high-profile/secreted-away-giuliani-emptied-nyc-apartment-of-virtually-all-valuables-before-surrendering-assets-to-defamed-election-workers-lawyers-say/)
+2. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
     
-    ### ['Secreted away': Giuliani emptied NYC apartment of 'virtually all' valuables before surrendering assets to defamed election workers, lawyers say](https://lawandcrime.com/high-profile/secreted-away-giuliani-emptied-nyc-apartment-of-virtually-all-valuables-before-surrendering-assets-to-defamed-election-workers-lawyers-say/)
+    ### ['I have a stolen ar15 and a target': Man threatens to 'carry out an attack' if Trump wins election, feds say](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
+    
+3. [![Background: YouTube/KVIA. Inset: Dalia Olivas and Ricky Ballard (GoFundMe).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Dalia-Olivas-Ricky-Ballard-432x243.jpg)](https://lawandcrime.com/crime/soldier-admits-to-drinking-a-lot-at-gender-reveal-before-crashing-into-engaged-couple-and-killing-them-while-still-wearing-baby-blue-wristband-from-party-cops/)
+    
+    ### [Soldier admits to drinking 'a lot' at gender reveal before crashing into engaged couple and killing them while still wearing baby blue wristband from party: Cops](https://lawandcrime.com/crime/soldier-admits-to-drinking-a-lot-at-gender-reveal-before-crashing-into-engaged-couple-and-killing-them-while-still-wearing-baby-blue-wristband-from-party-cops/)
+    
+4. [![Aileen Cannon appears inset against an image of Donald Trump pointing left.](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Cannon-Trump-Victors-432x243.jpg)](https://lawandcrime.com/high-profile/judge-aileen-cannon-emerges-as-one-of-the-2024-elections-most-influential-players-and-maybe-one-of-the-biggest-winners-as-ag-and-scotus-rumors-swirl/)
+    
+    ### [Judge Aileen Cannon emerges as one of the 2024 election's most influential players — and maybe one of the biggest winners as AG and SCOTUS rumors swirl](https://lawandcrime.com/high-profile/judge-aileen-cannon-emerges-as-one-of-the-2024-elections-most-influential-players-and-maybe-one-of-the-biggest-winners-as-ag-and-scotus-rumors-swirl/)
+    
+5. [![Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/factually-and-legally-incorrect-trump-appointed-judge-savages-gop-efforts-to-block-ballot-collection-in-georgia-tells-attorneys-to-read-the-boy-who-cried-wolf/)
+    
+    ### ['Factually and legally incorrect': Trump-appointed judge savages GOP efforts to block ballot collection in Georgia — tells attorneys to read 'The Boy Who Cried Wolf'](https://lawandcrime.com/high-profile/factually-and-legally-incorrect-trump-appointed-judge-savages-gop-efforts-to-block-ballot-collection-in-georgia-tells-attorneys-to-read-the-boy-who-cried-wolf/)
     
 
 [](http://eepurl.com/c89Jdb)
