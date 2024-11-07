@@ -1,5 +1,3 @@
-[Biometric Intelligence Report Is Now Live](https://www.veriff.com/resources/ebooks/biometric-intelligence-report)
-
 [![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg?auto=compress,format)](https://www.veriff.com/)
 
 * Veriff’s Cookie Notice
