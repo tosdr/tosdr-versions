@@ -76,7 +76,7 @@
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3MjkxIiwidG9nZ2xlIjpmYWxzZX0%3D)
 
-![](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg "ellipse-and-diamond")
+![ellipse-and-diamond](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg "ellipse-and-diamond")
 
 Privacy policy
 ==============
