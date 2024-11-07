@@ -293,6 +293,8 @@ The service and the content and materials received through the service are propr
 
 The service is available only in the United States.
 
+Carriers are not liable for delayed or undelivered messages. Message content may not be available on all carriers.
+
 We reserve the right to alter charges and/or these terms and conditions from time to time. We may suspend or terminate the service to you if we believe you are in breach of our terms and conditions. We may discontinue the service at any time.
 
 If you have any questions, please contact us at [\[email protected\]](https://www.neighborly.com/cdn-cgi/l/email-protection).
