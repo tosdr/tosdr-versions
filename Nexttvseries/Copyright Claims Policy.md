@@ -103,7 +103,7 @@ Please allow 1-3 business days for an email response. Note that emailing your co
 [‘America’s Got Talent: Fantasy League’ Release…](https://nexttvseries.com/americas-got-talent-fantasy-league-release-date-cast-trailer/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-[](# "Scroll back to top")[Next TV Series](https://nexttvseries.com/?blackhole=37b72c8505 "Do NOT follow this link or you will be banned from the site!")
+[](# "Scroll back to top")[Next TV Series](https://nexttvseries.com/?blackhole=affe54ce0e "Do NOT follow this link or you will be banned from the site!")
 
 [About Us](https://nexttvseries.com/about-us/) | [Privacy Policy](https://nexttvseries.com/privacy-policy/) | [Contact Us](https://nexttvseries.com/contact-us/) | [DMCA](https://nexttvseries.com/dmca/) | [Advertise](https://nexttvseries.com/advertise-with-us/)
 
