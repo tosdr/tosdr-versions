@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Fairy-tale home in Derry could be yours for €735k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fairy-tale home in Derry could be yours for €735k")](https://www.derrynow.com/news/home/1648910/pictures-fairy-tale-home-in-derry-could-be-yours-for-735k.html)
-
-[Home](https://www.derrynow.com/)
-
-[PICTURES: Fairy-tale home in Derry could be yours for €735k](https://www.derrynow.com/news/home/1648910/pictures-fairy-tale-home-in-derry-could-be-yours-for-735k.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -273,21 +266,30 @@ Most Popular
 [Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Custodial sentence 'almost inevitable' for Maghera man who admitted series of domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Custodial sentence 'almost inevitable' for Maghera man who admitted series of domestic abuse offences")](https://www.derrynow.com/news/local-news/1648930/custodial-sentence-almost-inevitable-for-maghera-man-who-admitted-series-of-domestic-abuse-offences.html)
-
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Custodial sentence 'almost inevitable' for Maghera man who admitted series of domestic abuse offences](https://www.derrynow.com/news/local-news/1648930/custodial-sentence-almost-inevitable-for-maghera-man-who-admitted-series-of-domestic-abuse-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1648706/derry-death-notices-thursday-november-7-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Thursday, November 7, 2024](https://www.derrynow.com/news/deaths/1648706/derry-death-notices-thursday-november-7-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman appears at Derry Magistrate's Court facing series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrate's Court facing series of charges")](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman appears at Derry Magistrate's Court facing series of charges](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![The man appeared before Letterkenny Circuit Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The man appeared before Letterkenny Circuit Court")](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
+
+The man appeared before Letterkenny Circuit Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man pleads guilty to causing death of young father in Bridgend collision](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry")](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
 
@@ -298,30 +300,21 @@ The man was arrested in Coleraine on Tuesday.
 [Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Another successful year and AGM for Derry Credit Union](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Another successful year and AGM for Derry Credit Union")](https://www.derrynow.com/news/local-news/1649001/another-successful-year-and-agm-for-derry-credit-union.html)
+[![Ryan Sheerin (10B) and Ben Farren (12D)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryan Sheerin (10B) and Ben Farren (12D)")](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
 
-Gerry McMonagle, Derry Credit Union, presenting £25 prizewinners at Monday's AGM. From left Ciara O'Reilly, Sean-Paul Brinkley, Frances Meenan and Grace McKenna.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Another successful year and AGM for Derry Credit Union](https://www.derrynow.com/news/local-news/1649001/another-successful-year-and-agm-for-derry-credit-union.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook")](https://www.derrynow.com/news/derry-news/1649006/derry-community-group-looking-to-stand-together-by-establishing-new-walking-group.html)
-
-Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook
+Ryan Sheerin (10B) and Ben Farren (12D)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry community group looking to 'stand together' by establishing new walking group](https://www.derrynow.com/news/derry-news/1649006/derry-community-group-looking-to-stand-together-by-establishing-new-walking-group.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry students crowned Ulster Irish Dancing Champions](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sandy's African Food Hub: A Taste of Africa in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sandy's African Food Hub: A Taste of Africa in Derry")](https://www.derrynow.com/news/business/1649101/sandy-s-african-food-hub-a-taste-of-africa-in-derry.html)
+[![FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final")](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
 
-[Business](https://www.derrynow.com/section/1339/business)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Sandy's African Food Hub: A Taste of Africa in Derry](https://www.derrynow.com/news/business/1649101/sandy-s-african-food-hub-a-taste-of-africa-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Multi-million euro funding secured for new 'indoor dome' in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Multi-million euro funding secured for new 'indoor dome' in Derry")](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
 
@@ -332,20 +325,36 @@ An image of the plans for the new UU Dome.
 [Multi-million euro funding secured for new 'indoor dome' in Derry](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two men arrested in Derry in dissident republican probe released](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested in Derry in dissident republican probe released")](https://www.derrynow.com/news/local-news/1649616/two-men-arrested-in-derry-in-dissident-republican-probe-released.html)
+[![Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook")](https://www.derrynow.com/news/derry-news/1649006/derry-community-group-looking-to-stand-together-by-establishing-new-walking-group.html)
 
-PSNI
+Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Two men arrested in Derry in dissident republican probe released](https://www.derrynow.com/news/local-news/1649616/two-men-arrested-in-derry-in-dissident-republican-probe-released.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry community group looking to 'stand together' by establishing new walking group](https://www.derrynow.com/news/derry-news/1649006/derry-community-group-looking-to-stand-together-by-establishing-new-walking-group.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
+
+Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
+
+[Home](https://www.derrynow.com/)
+
+[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final")](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
 
@@ -411,13 +420,6 @@ Steve Frazer, City of Derry airport managing director
 
 [Throwback Tuesday: Out and About @ Dormans (2011)](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48")](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,59 +521,59 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Woman appears at Derry Magistrate's Court facing series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrate's Court facing series of charges")](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
+[![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman appears at Derry Magistrate's Court facing series of charges](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ryan Sheerin (10B) and Ben Farren (12D)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryan Sheerin (10B) and Ben Farren (12D)")](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
-
-Ryan Sheerin (10B) and Ben Farren (12D)
+Principal of Lisneal College, Michael Allen on the right
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry students crowned Ulster Irish Dancing Champions](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry secondary school spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Eagerly awaited Kneecap concert given the go-ahead by Derry councillors](https://www.derrynow.com/resizer/165/93/true/2024_08_21/F4_-_MT3424432JOC_-_Copy-1724259144603.jpg--.jpg?1724259144749 "Eagerly awaited Kneecap concert given the go-ahead by Derry councillors")](https://www.derrynow.com/news/local-news/1649872/eagerly-awaited-kneecap-concert-given-the-go-ahead-by-derry-councillors.html)
+[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
 
-Kneecap will play Templemore Sports Complex later this month
+Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[Eagerly awaited Kneecap concert given the go-ahead by Derry councillors](https://www.derrynow.com/news/local-news/1649872/eagerly-awaited-kneecap-concert-given-the-go-ahead-by-derry-councillors.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman celebrates ‘workiversary’ at Action for Children’s Waterside Family Centre](https://www.derrynow.com/resizer/165/93/true/2024_11_07/Joe_and_Dannielle-1730976431434.jpeg--.jpeg?1730976432255 "Derry woman celebrates ‘workiversary’ at Action for Children’s Waterside Family Centre")](https://www.derrynow.com/news/local-news/1649771/derry-woman-celebrates-workiversary-at-action-for-childrens-waterside-family-centre.html)
+[![Budding chefs cook up a storm with celebrity chef Suzie Lee in Derry for new cookbook](https://www.derrynow.com/resizer/165/93/true/2024_11_07/MixCollage-07-Nov-2024-02-03-PM-8650-1730988194198.jpg--.jpg?1730988194433 "Budding chefs cook up a storm with celebrity chef Suzie Lee in Derry for new cookbook")](https://www.derrynow.com/news/local-news/1650043/budding-chefs-cook-up-a-storm-with-celebrity-chef-suzie-lee-in-derry-for-new-cookbook.html)
 
-Joseph Guille with Dannielle Harrison
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman celebrates ‘workiversary’ at Action for Children’s Waterside Family Centre](https://www.derrynow.com/news/local-news/1649771/derry-woman-celebrates-workiversary-at-action-for-childrens-waterside-family-centre.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry teen making a difference on NSPCC’s Young People’s Board for Change](https://www.derrynow.com/resizer/165/93/true/2024_11_07/Pic_4_Amanda_Doherty%2C_Childline_Volunteer_Coordinator%2C_YPBC_member%2C_Markus_Smith%2C_Childline_Supervisor_Sunneva_Callan_Bjerkaker-1730971653968.jpg--.jpg?1730971655023 "Derry teen making a difference on NSPCC’s Young People’s Board for Change")](https://www.derrynow.com/news/local-news/1649666/derry-teen-making-a-difference-on-nspccs-young-peoples-board-for-change.html)
-
-Childline Volunteer Coordinator, Amanda Doherty, YPBC member Markus Smith and Childline Supervisor, Sunneva Callan Bjerkaker in the Childline Foyle base.
+Young people from The PlayTrail made bread & butter pudding with Suzie Lee
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry teen making a difference on NSPCC’s Young People’s Board for Change](https://www.derrynow.com/news/local-news/1649666/derry-teen-making-a-difference-on-nspccs-young-peoples-board-for-change.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Budding chefs cook up a storm with celebrity chef Suzie Lee in Derry for new cookbook](https://www.derrynow.com/news/local-news/1650043/budding-chefs-cook-up-a-storm-with-celebrity-chef-suzie-lee-in-derry-for-new-cookbook.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Multi-million euro funding secured for new 'indoor dome' in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_07/IDNT_7-11-24_Indoor_dome-1730970599052.jpg--.jpg?1730970599089 "Multi-million euro funding secured for new 'indoor dome' in Derry")](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
+[![Foyle MP encourages Derry to come out for women’s safety rally](https://www.derrynow.com/resizer/165/93/true/2016/10/05175338/columeastwood-2.jpg--.jpg "Foyle MP encourages Derry to come out for women’s safety rally")](https://www.derrynow.com/news/local-news/1650287/foyle-mp-encourages-derry-to-come-out-for-womens-safety-rally.html)
 
-An image of the plans for the new UU Dome.
+Foyle MP Colum Eastwood
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Multi-million euro funding secured for new 'indoor dome' in Derry](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Foyle MP encourages Derry to come out for women’s safety rally](https://www.derrynow.com/news/local-news/1650287/foyle-mp-encourages-derry-to-come-out-for-womens-safety-rally.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Lisnagelvin police station](https://www.derrynow.com/resizer/165/93/true/pa/2022_11_21/1669035309936_0.jpg--.jpg?1669035310188 "Lisnagelvin police station")](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
+
+Lisnagelvin police station
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Planning application for telecommunications mast in Lisnagelvin area rejected](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Good news for Derry City fans - A5 road closure averted ahead of FAI Cup Final](https://www.derrynow.com/resizer/165/93/true/2024_11_07/_129728943_screenshot2023-05-14195059-1730997884185.png--.png?1730997884306 "Good news for Derry City fans - A5 road closure averted ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1650247/good-news-for-derry-city-fans-a5-road-closure-averted-ahead-of-fai-cup-final.html)
+
+A5
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Good news for Derry City fans - A5 road closure averted ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1650247/good-news-for-derry-city-fans-a5-road-closure-averted-ahead-of-fai-cup-final.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
