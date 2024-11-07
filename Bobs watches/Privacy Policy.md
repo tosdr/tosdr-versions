@@ -1,5 +1,3 @@
-[Shop New Arrivals](https://www.bobswatches.com/new-arrivals)
-
 100% Certified Authentic
 
 [](https://www.bobswatches.com/usa)
