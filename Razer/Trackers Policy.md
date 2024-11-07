@@ -73,7 +73,7 @@ Switch to
         * [Sneki Snek](https://www.razer.com/campaigns/sneki-snek)
         * [Accessories](https://www.razer.com/gear-and-apparel/accessories)
         
-    * [Halloween Specials 2024](https://www.razer.com/campaigns/halloween)
+    * [Refurbished](https://www.razer.com/store/refurbished)
     * [Bundles](https://www.razer.com/store/razer-bundles)
     * [Razer Customs](https://www.razer.com/customs)
     * [RazerStore Rewards](https://www.razer.com/store/rewards)
@@ -109,6 +109,7 @@ Switch to
         * [Razer Blade 16](https://www.razer.com/gaming-laptops/razer-blade-16)
         * [Razer Blade 17](https://www.razer.com/gaming-laptops/razer-blade-17)
         * [Razer Blade 18](https://www.razer.com/gaming-laptops/razer-blade-18)
+        * [Refurbished](https://www.razer.com/store/refurbished)
         * [RazerCare](https://www.razer.com/razercare)
         * Docks & Hubs
             
