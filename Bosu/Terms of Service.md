@@ -144,27 +144,37 @@ United States (USD $)
 * [TikTok](https://www.tiktok.com/@bosu_fitness)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
 
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
-* Please note we are currently experiencing technical difficulties with our phones
-* Please email help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
+* Free shipping over $100 📦
+* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Please note we are currently experiencing technical difficulties with our phones. Please reach out to help@bosu.com
 
 Terms of service
 ================
