@@ -2,9 +2,11 @@
 
 Black Friday Sneak Peek: Save up to 40% off the best sound for the season. [Shop](https://www.bose.com/c/holiday-sale)
 
-Limited-edition QuietComfort Headphones are now available in Moonstone Blue. [Buy now](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1)
+Exclusive QuietComfort Ultra Headphones are now available in Sandstone. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
 
-Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
+Military personnel score a special discount with ID.Me at checkout. [Learn How for Vet Day Nov 11/7 - 11/11](https://www.bose.com/idme-group-discounts-program)
+
+Sign up for Bose texts & get an extra 10% off Bose Certified Refurbished products! [Sign Up.](https://cloud.email.bose.com/sms-sign-up)
 
 [Cancel](#)
 
@@ -15,6 +17,7 @@ Back
     * [Black Friday Sneak Peek](https://www.bose.com/c/holiday-sale)
     * [Gift Guide](https://www.bose.com/holiday-gift-guide)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
+    * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
     Back
@@ -50,6 +53,7 @@ Back
     * [Gifts](https://www.bose.com/holiday-gift-guide)
     
     * [Accessories](https://www.bose.com/c/accessories)
+    * [Sets](https://www.bose.com/c/sets)
     * [All Products](https://www.bose.com/c/all-products)
     
     Back
@@ -105,22 +109,20 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/709f578e18dd68c8/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Moonstone-QCH.png)
+    [![](https://assets.bosecreative.com/m/6fa09240bc64c918/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Sandstone-QCUH.png)
     
-    LIMITED EDITION
+    Exclusive color drop
     
-    ### Make it Moonstone](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1 "BUY NOW")
+    ### Sculpted in Sandstone](https://www.bose.com/QCUH-HEADPHONEARN.html "BUY NOW")
     
      
     
-    LIMITED EDITION
+    Sculpted in Sandstone
+    ---------------------
     
-    Make it Moonstone
-    -----------------
+    Unlock $100 off world-class noise cancellation.
     
-    Get $150 off this new gemstone-inspired shade.
-    
-    [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
