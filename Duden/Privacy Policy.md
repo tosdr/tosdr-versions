@@ -336,7 +336,7 @@ Trackingtechnologien von Drittanbietern zu Werbezwecken
 
 Wir nutzen geräteübergreifende Trackingtechnologien, damit Ihnen basierend auf Ihrem Besuch unserer Webseiten zielgerichtete Werbung auf anderen Internetseiten angezeigt werden kann und wir erkennen können, wie wirksam unsere Werbemaßnahmen waren.
 
-Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO bzw. § 15 Abs. 3 S. 1 TMG, sofern Sie Ihre Einwilligung über unser Banner abgegeben haben. Ihre Einwilligung ist freiwillig und kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Die bis zum Widerruf erfolgte Datenverarbeitung bleibt rechtmäßig.
+Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 S. 1 lit. a DSGVO bzw. § 25 Abs. 1 TDDDG, sofern Sie Ihre Einwilligung über unser Banner abgegeben haben. Ihre Einwilligung ist freiwillig und kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Die bis zum Widerruf erfolgte Datenverarbeitung bleibt rechtmäßig.
 
 ### Wie funktioniert das Tracking?
 
