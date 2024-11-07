@@ -196,61 +196,60 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Support even on Sundays!
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks Adriaan...
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> You guys even work on Sundays?
 > 
-> I just wish I started using Invoices Online ages ago.
+> I’m impressed!!
 
-Terri Winfield
+Johan Botha - Brand Xplosion
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=99855841)  
-M's Frozen Delights
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=193018019)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=18836027)  
-ELLIE'S CLEANING CHICKS
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=86178216)  
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=186868939)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=197054010)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=195800554)  
-INVOICES/JOBCARDS ONLINE
-
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=106777486)  
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=61024594)  
 On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=110488862)  
-Oukraal Merino's
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=37073369)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=187691424)  
-Brilliant Roof Products
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=101590441)  
+UniTech Solutions Pty Ltd
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=112063897)  
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=115036220)  
 Tracknetics
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=148059659)  
-Little Nutty Professors
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=182005556)  
+Lindani Protection Services & Projects
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=76957843)  
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=142396163)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=114943251)  
+Mtunzini Group
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=66897928)  
+J.M. HUMAN RESOURCES
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=146984729)  
+Forgotten Goods (Pty) Ltd
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=131273035)  
 PROGRAPHIX PTY LTD
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=181645189)  
-Frameless Fanatix (Pty) Ltd.
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=176969799)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=174261174)  
-Printo
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=99538492)  
-Import Maaw
-
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=171108402)  
-SafeTclip
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=12714403)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=a7471e9394270cf956bf6fbc7f04db96711931867ceb2d0fd58452d39f5c1828&c=57661999)  
+Cooper Power Cape Town (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
