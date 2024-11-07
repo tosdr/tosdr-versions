@@ -91,19 +91,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [‘The Power of Prions’ explores misfolded proteins’ role in brain diseases](https://www.sciencenews.org/article/misfolded-proteins-brain-diseases)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")47 mins ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")7 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [A digital exam reels in engraved scenes of Stone Age net fishing](https://www.sciencenews.org/article/engraved-scenes-stone-age-net-fishing)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")2 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")8 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [A huge, ancient Maya city has been found in southern Mexico](https://www.sciencenews.org/article/ancient-maya-city-found-southern-mexico)
             
-            By [Meghie Rodrigues](https://www.sciencenews.org/author/meghie-rodrigues "Posts by Meghie Rodrigues")6 hours ago
+            By [Meghie Rodrigues](https://www.sciencenews.org/author/meghie-rodrigues "Posts by Meghie Rodrigues")12 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Putting vampire bats on treadmills reveals an unusual metabolism](https://www.sciencenews.org/article/vampire-bats-treadmills-metabolism)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")21 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 5, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Exploiting a genetic quirk in potatoes may cut fertilizer needs](https://www.sciencenews.org/article/potatoes-genetic-quirk-less-fertilizer)
             
-            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")13 hours ago
+            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")19 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
