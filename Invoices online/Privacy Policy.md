@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Anri van der Linde
+Hugo van Sittert
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=16488167)  
-SafeTclip
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=9061977)  
+Echo Recording Studio cc
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=49430608)  
-Cpower Projects t/a Pro Pure Water
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=129819117)  
+J.M. HUMAN RESOURCES
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=161154531)  
-Myfinance-Online
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=111381083)  
+Blue Bulls Rugby Coaches Association
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=167100637)  
-MONSTER SECURITY GUARDING
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=24069724)  
+Cooper Power
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=22890541)  
-Oak Tree Immigration
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=191915721)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=11954143)  
-SR Travel Services
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=168603439)  
+McKaynine Mobility
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=37354187)  
-FX ACCOUNTING
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=127085422)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=213365265)  
-TRACKFORCE (Pty) Ltd
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=101903959)  
+Salvage Genie
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=151507757)  
-CGHK Enterprises (PTY) LTD
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=63802020)  
+Network Grey (Pty) Ltd
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=51339546)  
-African Roots
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=114065807)  
+Goju Ryu Karate Centre
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=12211499)  
-WIP Digital Solutions
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=193056950)  
+NIMAWELL
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=109477076)  
-Vplay Grafix
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=117600673)  
+Dr V Naik Consult
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=60300507)  
-Entidee Enterprise PTY (ltd)
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=41598726)  
+Oukraal Merino's
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=202022311)  
-Highlands Auto Engineering
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=18183459)  
+Multi CNC Solutions CC
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=494e7914b18fb6771f8356a66526401ea4579ccdc9fcf3163d08665ebc4ae6b3&c=102990464)  
-kidoscabbie
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=9362131e76b409761c66096a0f2809c1d8daf2ddfd703b813136b01407cf3089&c=158564251)  
+Itroniq (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
