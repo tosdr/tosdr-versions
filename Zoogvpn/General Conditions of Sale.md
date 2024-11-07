@@ -58,7 +58,6 @@ Search
 * [Bahasa Indonesia](https://zoogvpn.com/id-id/refund/)
 * [한국어](https://zoogvpn.com/ko-kr/refund/)
 * [Português](https://zoogvpn.com/pt/refund/)
-* [Polski](https://zoogvpn.com/pl/)
 
 [![](https://zoogvpn.com/wp-content/uploads/2021/09/zoog-vpn-logo-dark.png)](https://zoogvpn.com/)
 
