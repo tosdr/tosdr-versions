@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fgeneral-terms-of-use%3F_gl%3D1*mg3myq*_gcl_au*MTg4MzU4MjU3Mi4xNzMwMjIxMjc3*_ga*MTcyMDk0OTM2Ny4xNzI5OTEwMzAz*_ga_3TRK53PM75*MTczMDkyNzQ5Ni4yNy4xLjE3MzA5Mjc2MjQuMjIuMC4w&_ga=2.10124917.1947203167.1730927496-1720949367.1729910303)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fgeneral-terms-of-use)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
@@ -73,7 +73,7 @@ Switch to
         * [Sneki Snek](https://www.razer.com/campaigns/sneki-snek)
         * [Accessories](https://www.razer.com/gear-and-apparel/accessories)
         
-    * [Halloween Specials 2024](https://www.razer.com/campaigns/halloween)
+    * [Refurbished](https://www.razer.com/store/refurbished)
     * [Bundles](https://www.razer.com/store/razer-bundles)
     * [Razer Customs](https://www.razer.com/customs)
     * [RazerStore Rewards](https://www.razer.com/store/rewards)
@@ -109,6 +109,7 @@ Switch to
         * [Razer Blade 16](https://www.razer.com/gaming-laptops/razer-blade-16)
         * [Razer Blade 17](https://www.razer.com/gaming-laptops/razer-blade-17)
         * [Razer Blade 18](https://www.razer.com/gaming-laptops/razer-blade-18)
+        * [Refurbished](https://www.razer.com/store/refurbished)
         * [RazerCare](https://www.razer.com/razercare)
         * Docks & Hubs
             
