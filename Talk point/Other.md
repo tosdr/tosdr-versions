@@ -740,8 +740,6 @@ Bahnhofstraße 21
 
  Ungarn (EUR€)
 
- Zypern (EUR€)
-
 Land aktualisieren
 
 Land Deutschland (EUR €)
@@ -771,7 +769,6 @@ Land Deutschland (EUR €)
 * [Spanien (EUR €)](#)
 * [Tschechien (EUR €)](#)
 * [Ungarn (EUR €)](#)
-* [Zypern (EUR €)](#)
 
 * American Express
 * Apple Pay
@@ -839,8 +836,6 @@ Powered by Shopcloud
 
  Ungarn (EUR€)
 
- Zypern (EUR€)
-
 Land aktualisieren
 
 Land Deutschland (EUR €)
@@ -870,7 +865,6 @@ Land Deutschland (EUR €)
 * [Spanien (EUR €)](#)
 * [Tschechien (EUR €)](#)
 * [Ungarn (EUR €)](#)
-* [Zypern (EUR €)](#)
 
 * American Express
 * Apple Pay
