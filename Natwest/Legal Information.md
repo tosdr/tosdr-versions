@@ -742,15 +742,15 @@ If you do not change your preference here, your current preference, (as indicate
 * [Site Map](https://personal.natwest.com/site-map.html)
 * [Modern Slavery Act](https://www.natwestgroup.com/content/dam/natwestgroup_com/natwestgroup/pdf/2023-Statement-of-Modern-Slavery-and-Human-Trafficking.pdf)
 
-* [Facebook](https://www.facebook.com/NatWest)
-* [twitter](https://twitter.com/NatWest_Help)
-* [RSS](https://www.natwestgroup.com/who-we-are/our-brands/natwest.html)
-* [LinkedIn](https://www.linkedin.com/company/natwest)
+*  [![Facebook](/content/dam/championlogos/footer-logos/Facebook-Default.svg "Facebook") ![Facebook](/content/dam/championlogos/footer-logos/Facebook-Hover.svg "Facebook")](https://www.facebook.com/NatWest "Facebook")
+*  [![Twitter](/content/dam/championlogos/footer-logos/Twitter-Default.svg "Twitter") ![Twitter](/content/dam/championlogos/footer-logos/Twitter-Hover.svg "Twitter")](https://twitter.com/NatWest_Help "Twitter")
+*  [![RSS](/content/dam/championlogos/footer-logos/RSS-Default.svg "RSS") ![RSS](/content/dam/championlogos/footer-logos/RSS-Hover.svg "RSS")](https://www.natwestgroup.com/who-we-are/our-brands/natwest.html "RSS")
+*  [![LinkedIn](/content/dam/championlogos/footer-logos/LinkedIn-Default.svg "LinkedIn") ![LinkedIn](/content/dam/championlogos/footer-logos/LinkedIn-Hover.svg "LinkedIn")](https://www.linkedin.com/company/natwest "LinkedIn")
 
-[FCFS\_leaflet (PDF, 3.7 MB)](https://personal.natwest.com/content/dam/natwest/business/current-accounts/documents/FSCS_leaflet.pdf "fscs")
+[![](/content/dam/championlogos/footer-logos/FSCS.png)](https://personal.natwest.com/content/dam/natwest/business/current-accounts/documents/FSCS_leaflet.pdf "Protecting Your Money FSCS")
 
 [FSCS.org.uk](https://www.fscs.org.uk/ "fscs")
 
-Copyright © National Westminster Bank plc ((year)). Registered office: 250 Bishopsgate, London, EC2M 4AA.
+Copyright © National Westminster Bank plc 2024. Registered office: 250 Bishopsgate, London, EC2M 4AA.
 
 Opens in a new window
