@@ -8,6 +8,11 @@
     * [California Residents (MBI)](https://www.endurancewarranty.com/mechanical-breakdown-insurance-ca/)
     
 * [Why Endurance](https://www.endurancewarranty.com/why-endurance/)
+    
+    * [About Us](https://www.endurancewarranty.com/about-us/)
+    * [Awards & Press](https://www.endurancewarranty.com/awards-press/)
+    * [Endurance Cares](https://www.endurancewarranty.com/cares/)
+    
 * [Reviews](https://www.endurancewarranty.com/endurance-reviews/)
 * [Resources](https://www.endurancewarranty.com/auto-warranty-resources/)
     
@@ -22,7 +27,7 @@ EN
 
 [English](# "English")
 
-[English](# "English") [Spanish](https://www.endurancewarranty.com/es/onlineterms/ "Spanish")
+[English](# "English") [Spanish](https://www.endurancewarranty.com/es/offerdetails/ "Spanish")
 
 [(800) 253-8203](tel:8002538203) [Get a FREE Quote](#)
 
@@ -32,16 +37,16 @@ EN
 
 [English](# "English")
 
-[English](# "English") [Spanish](https://www.endurancewarranty.com/es/onlineterms/ "Spanish")
+[English](# "English") [Spanish](https://www.endurancewarranty.com/es/offerdetails/ "Spanish")
 
 [Account Sign‑In](https://www.endurancewarranty.com/policy/) [See Your Price](https://buy.endurancewarranty.com/page?slugType=ecommerce_page_v2&slug=page-ecomm-manual-vehicle-entry-v2)
 
 Call for $300 off any new plan! [(800) 506-4640](tel:8005064640)
 
-Online Terms
-============
+Offer Details
+=============
 
-**Online Terms**
+**Offer Details**
 
 Vehicle Service Contract (VSC) coverage, deductibles, and claims payment(s) may vary depending on vehicle age, mileage, pre-existing conditions, and plan purchased. VIN and exact mileage required for contract activation to start 30-day waiting period. Pre-authorization is required. OEM parts and/or parts of like kind and quality may be used. Availability varies by state, coverage not available in Massachusetts. In California Endurance sells Mechanical Breakdown Insurance (MBI) underwritten by Security National Insurance Company and administered through Endurance Warranty Insurance Services, CA License #6009544. MBI is not a manufacturer’s warranty; it provides repair coverage after your manufacturer’s warranty expires. Terms and conditions may apply. You also agree to arbitrate any disputes.
 
@@ -55,20 +60,6 @@ Vehicle names, logos, brands, and other trademarks featured or referred to with 
 
 \*Elite Benefits: First year complimentary. $29 non-refundable activation fee applies. VSC must be active. Void where prohibited. Not available in CA.  
 Your auto protection plan comes with a 30-day money-back guarantee and 1,000 miles waiting period, (Endurance Select Premier 60 & 1,000) until you are eligible to file a claim. The waiting period begins with the exact current odometer reading and purchase date. Your plan does not cover pre-existing conditions. You are required to keep up with your scheduled maintenance, like oil changes, etc. You will receive your full contract and Elite Benefits details containing all terms and conditions by email (within 72 hours) or mail (within 10-14 days). Upon receipt of your contract, please be sure to review the coverage and information. If you have any questions or are not completely satisfied with your plan, you must notify us via our customer service department at (800-600-2097) within 30 days from the purchase date to receive a full refund. After the 30 days, refunds are on a prorated basis subject to claims paid and any cancellation fees outlined in the contract. Your contract is 100% transferable. All claims must be pre-approved by the claims administrator.
-
-**Promotional Offers**
-
-$300 off any plan. Offers cannot be combined and are not valid in Massachusetts. [Terms and conditions](https://www.endurancewarranty.com/terms-and-conditions/) may apply.
-
-**Video Testimonial Release**
-
-By sharing my recorded video testimonial, I understand that the video may be used in connection with publicizing and promoting Endurance. I authorize Endurance to use my name, brief biographical information, the video and/or its transcript.
-
-I hereby irrevocably authorize Endurance to copy, exhibit, publish or distribute the video for purposes of publicizing Endurance’s products and services or for any other lawful purpose. These statements may be used in social media, digital advertisements or on websites, or in any other distribution media. I agree that I will make no monetary or other claims against Endurance for the use of the statements.
-
-In addition, I waive any right to inspect or approve the finished product, including a written copy or edited video wherein my likeness or my testimonial appears.
-
-I hereby hold harmless and release Endurance from all claims, demands, and causes of action which I, my heirs, representatives, executors, administrators, or any other persons acting on my behalf or on behalf of my estate have or may have by reason of this authorization.
 
 Get started with a FREE quote.
 ------------------------------
@@ -94,7 +85,7 @@ Get Started
 * [Get a FREE Quote](#quote-form)
 * [How it Works](https://www.endurancewarranty.com/coverage-plans/#how-it-works)
 * [Mechanical Breakdown Insurance California](https://www.endurancewarranty.com/mechanical-breakdown-insurance-ca/)
-* [Home Warranty](https://www.libertyhomeguard.com/endurance/)
+* [Home Warranty](http://chwpricing.com/a/a168/index.php?utm_source=edcwfm&utm_campaign=FOOTER)
 
 Resources
 ---------
@@ -111,6 +102,7 @@ Endurance
 * [About Us](https://www.endurancewarranty.com/about-us/)
 * [Why Endurance](https://www.endurancewarranty.com/why-endurance/)
 * [Awards & Press](https://www.endurancewarranty.com/awards-press/)
+* [Endurance Cares](https://www.endurancewarranty.com/cares/)
 * [Dealer Services](https://www.enduranceds.com/)
 * [Careers](https://www.endurancewarranty.com/careers/)
 
@@ -129,7 +121,7 @@ Copyright 2024 Endurance Warranty Services, LLC. All Rights Reserved. Disclosure
 * [](https://twitter.com/endurance)
 * [](https://www.instagram.com/endurance/)
 
-[Privacy Policy](https://www.endurancewarranty.com/privacy/) [Your California Privacy Rights](https://www.endurancewarranty.com/your-california-privacy-rights/) [Do Not Sell My Personal Information](https://www.endurancewarranty.com/do-not-sell-request/) [Terms & Conditions](https://www.endurancewarranty.com/terms-and-conditions/) [\*Online Terms](https://www.endurancewarranty.com/onlineterms/)
+[Privacy Policy](https://www.endurancewarranty.com/privacy/) [Your California Privacy Rights](https://www.endurancewarranty.com/your-california-privacy-rights/) [Do Not Sell My Personal Information](https://www.endurancewarranty.com/do-not-sell-request/) [Terms & Conditions](https://www.endurancewarranty.com/terms-and-conditions/) [\*Offer Details](https://www.endurancewarranty.com/offerdetails/)
 
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
