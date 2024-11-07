@@ -329,7 +329,13 @@ article 5 days ago](https://science.nasa.gov/science-research/heliophysics/30-ye
 
 ### Featured
 
-[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
+[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
+
+2 min read
+
+### NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
+
+article 2 days ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
 
 6 min read
 
@@ -341,57 +347,51 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Why NASA’s SPHEREx Mission Will Make ‘Most Colorful’ Cosmic Map Ever
 
-article 6 days ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
-
-5 min read
-
-### ‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair
-
-article 6 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)
+article 6 days ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)
 
 ### Highlights
 
-[![10 Things to Know About Tissue Chips and How They Benefit Humanity](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/precision-health/tissue-chips/3d_tissue_chips.png)
+[![Integrating Relevant Science Investigations into Migrant Children Education](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/BHS_YouthandTeacher-Gabrielle_Brodek.jpg)
+
+3 min read
+
+### Integrating Relevant Science Investigations into Migrant Children Education
+
+article 5 hours ago](https://science.nasa.gov/learning-resources/science-activation/integrating-relevant-science-investigations-into-migrant-children-education/)[![10 Things to Know About Tissue Chips and How They Benefit Humanity](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/precision-health/tissue-chips/3d_tissue_chips.png)
 
 2 min read
 
 ### 10 Things to Know About Tissue Chips and How They Benefit Humanity
 
-article 3 hours ago](https://science.nasa.gov/10-things-to-know-about-tissue-chips-and-how-they-benefit-humanity/)[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
+article 12 hours ago](https://science.nasa.gov/10-things-to-know-about-tissue-chips-and-how-they-benefit-humanity/)[![Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png)
 
 3 min read
 
 ### Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
 
-article 21 hours ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)[![Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/1500/WIYN.jpeg)
-
-1 min read
-
-### Amendment 63: FINESST: SMD’s Graduate Student Research, Final Text and Due Date Released.
-
-article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/)
+article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/)
 
 ### Highlights
 
-[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
+[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+
+4 min read
+
+### X-59 Fires Up its Engine for First Time on its Way to Takeoff
+
+article 9 hours ago](https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
 
 2 min read
 
 ### NASA Brings Drone and Space Rover to Air Show
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-brings-drone-and-space-rover-to-air-show/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/image-edffe7.jpeg?w=1024)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-brings-drone-and-space-rover-to-air-show/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/image-edffe7.jpeg?w=1024)
 
 3 min read
 
 ### NASA and Partners Scaling to New Heights in Air Traffic Management
 
-article 3 weeks ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-management-demoed/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
-
-4 min read
-
-### NASA Pilots Add Perspective to Research
-
-article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)
+article 3 weeks ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-management-demoed/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-
 
 ### From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 
-article 1 day ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![A screenshot of visual inspection software showing a prepared meal, highlighting green beans.](https://www.nasa.gov/wp-content/uploads/2024/10/ar-live-view-1.png?w=1024)
+article 2 days ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![A screenshot of visual inspection software showing a prepared meal, highlighting green beans.](https://www.nasa.gov/wp-content/uploads/2024/10/ar-live-view-1.png?w=1024)
 
 2 min read
 
@@ -423,23 +423,17 @@ article 1 week ago](https://www.nasa.gov/general/nasa-technologies-named-among-t
 
 ### NASA Knows – How Can I Get Involved With NASA Research?
 
-article 1 min ago](https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/)
+article 9 hours ago](https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/)
 
 ### Featured
 
-[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
-
-3 min read
-
-### How NASA Astronauts Vote from Space Aboard International Space Station 
-
-article 1 month ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
+[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
 
 5 min read
 
 ### From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 
-article 1 day ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring](https://science.nasa.gov/wp-content/uploads/2024/11/pia21736-voyager-clean-room-crop.jpg)
+article 2 days ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring](https://science.nasa.gov/wp-content/uploads/2024/11/pia21736-voyager-clean-room-crop.jpg)
 
 5 min read
 
@@ -449,25 +443,25 @@ article 2 days ago](https://science.nasa.gov/missions/voyager-program/still-kick
 
 ### Highlights
 
-[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
+[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+
+4 min read
+
+### El X-59 enciende su motor por primera vez rumbo al despegue
+
+article 8 hours ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
 
 3 min read
 
 ### La NASA lleva un dron y un rover espacial a un espectáculo aéreo
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 4 min read
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 2 weeks ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
-
-4 min read
-
-### Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
-
-article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)
+article 2 weeks ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
