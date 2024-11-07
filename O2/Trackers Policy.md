@@ -40,7 +40,7 @@
     * [AirPods](https://www.o2.co.uk/airpods)
     * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
     * [Great deals](https://www.o2.co.uk/shop/great-deals)
-    * [Black Friday](https://www.o2.co.uk/black-friday-cyber-monday)
+    * [Black Friday deals](https://www.o2.co.uk/black-friday-cyber-monday)
     
     * [![](https://a.storyblok.com/f/253875/137x34/7d4cb8fb12/quick-links-apple-1100.png/m/384x0)](https://www.o2.co.uk/shop/brand/apple?cnd=new)
         
@@ -144,10 +144,6 @@ Help
 * [My O2](https://mymobile2.o2.co.uk/)
 * [Search](https://www.o2.co.uk/searchresult)
 * [Basket](https://www.o2.co.uk/shop/basket)
-
-* [Home](https://www.o2.co.uk/)
-
-Cookie Policy
 
 O2 Cookie Policy
 ================
@@ -608,3 +604,5 @@ Shop
 ©2024 Telefonica UK Limited
 
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
+
+* [Home](https://www.o2.co.uk/)
