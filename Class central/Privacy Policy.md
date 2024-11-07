@@ -414,9 +414,9 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. digital marketing
+1. computer science
     
-2. web development
+2. harvard
     
 3. machine learning
     
