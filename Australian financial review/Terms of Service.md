@@ -320,15 +320,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ Twins Jyoti Babani, Snehal Babani are dressed in partner look, both seen wearing black jackets, black short dresses, black tights with Chanel logo, black boots with silver chain details, lots of silver chains from Chanel.](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f1cafd525d38f627347c581984320e7d5d747195)](https://www.afr.com/life-and-luxury/fashion-and-style/the-tricks-to-layering-your-jewellery-20241028-p5klut)
+[![You, too, can make  Meatsmith’s Fig and Jamon Salad featured in their new cookbook. It’s a great gift idea, too.](https://static.ffx.io/images/$zoom_0.3713%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_335/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3d2690f9ea48d0b103004c3b8babafe6d06f8240)](https://www.afr.com/life-and-luxury/food-and-wine/jill-dupleix-s-easy-festive-menu-from-her-top-three-cookbooks-of-2023-20231030-p5efzq)
 
-### [The tricks to layering your jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/the-tricks-to-layering-your-jewellery-20241028-p5klut)
+### [Jill Dupleix’s easy festive menu from three top cookbooks of 2023](https://www.afr.com/life-and-luxury/food-and-wine/jill-dupleix-s-easy-festive-menu-from-her-top-three-cookbooks-of-2023-20231030-p5efzq)
 
-* Lauren Sams
+* 1 hr ago
+* Jill Dupleix
 
-* ### [Good old tiles are making a comeback](https://www.afr.com/life-and-luxury/design/good-old-tiles-are-making-a-comeback-20241023-p5kkob)
+* ### [The tricks to layering your jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/the-tricks-to-layering-your-jewellery-20241028-p5klut)
     
-* ### [The stories behind the world’s top-selling jewellery](https://www.afr.com/life-and-luxury/design/the-stories-behind-the-world-s-top-selling-jewellery-20241031-p5kmrx)
+* ### [Good old tiles are making a comeback](https://www.afr.com/life-and-luxury/design/good-old-tiles-are-making-a-comeback-20241023-p5kkob)
     
 
 [Rich List](https://www.afr.com/rich-list)
