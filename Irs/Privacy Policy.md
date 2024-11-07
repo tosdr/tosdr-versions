@@ -196,7 +196,7 @@ Information Menu
 
 * [Overview](https://www.irs.gov/payments)
 * PAY BY
-* [Bank Account (Direct Pay)](https://www.irs.gov/payments/direct-pay)
+* [Bank Account (Direct Pay)](https://www.irs.gov/payments/direct-pay-with-bank-account)
 * [Payment Plan (Installment Agreement)](https://www.irs.gov/payments/online-payment-agreement-application)
 * [Electronic Federal Tax Payment System (EFTPS)](https://www.irs.gov/payments/eftps-the-electronic-federal-tax-payment-system)
 * POPULAR
