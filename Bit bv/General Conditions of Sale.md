@@ -208,7 +208,7 @@ Artikel 13: TOEPASSELIJK RECHT EN GESCHILLEN
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[28-10-24 Periodiek onderhoud koeling BIT-1](https://www.bit.nl/news/3603/92/Periodiek-onderhoud-koeling-BIT-1) [13-11-24 Netwerkonderhoud BIT-1 & BIT-2](https://www.bit.nl/news/3613/92/Netwerkonderhoud-BIT-1-BIT-2) [14-11-24 Netwerkonderhoud BIT-2A](https://www.bit.nl/news/3615/92/Netwerkonderhoud-BIT-2A) [03-12-24 Blackbuilding noodstroomtest BIT-1](https://www.bit.nl/news/3616/92/Blackbuilding-noodstroomtest-BIT-1) [10-12-24 Blackbuilding noodstroomtest BIT-2](https://www.bit.nl/news/3617/92/Blackbuilding-noodstroomtest-BIT-2)
+[13-11-24 Netwerkonderhoud BIT-1 & BIT-2](https://www.bit.nl/news/3613/92/Netwerkonderhoud-BIT-1-BIT-2) [14-11-24 Netwerkonderhoud BIT-2A](https://www.bit.nl/news/3615/92/Netwerkonderhoud-BIT-2A) [03-12-24 Blackbuilding noodstroomtest BIT-1](https://www.bit.nl/news/3616/92/Blackbuilding-noodstroomtest-BIT-1) [10-12-24 Blackbuilding noodstroomtest BIT-2](https://www.bit.nl/news/3617/92/Blackbuilding-noodstroomtest-BIT-2)
 
 [](https://www.bit.nl/onderhoud)
 
