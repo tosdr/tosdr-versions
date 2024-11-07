@@ -221,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Issues Order Approving 2025 Budget for Horseracing Integrity and Safety Authority](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-issues-order-approving-2025-budget-horseracing-integrity-safety-authority)
+    ### [FTC Order Against AI-Enabled Review Platform Sitejabber Will Ensure Consumers Get Truthful and Accurate Reviews](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-order-against-ai-enabled-review-platform-sitejabber-will-ensure-consumers-get-truthful-accurate)
     
     November 6, 2024
     
