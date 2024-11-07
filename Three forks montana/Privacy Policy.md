@@ -6,7 +6,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
-![](/imgD/weatherbit_icons/c02d.png) Today's weather: Scattered clouds 41°/15°
+![](/imgD/weatherbit_icons/c02d.png) Today's weather: Scattered clouds 42°/15°
 
 [![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
 
