@@ -108,7 +108,7 @@ If you have any questions or concerns about cookies or your privacy when using A
 
 [Help & feedback](https://audioboom.com/support) [About us](https://audioboom.com/about/us) [Blog](https://audioboom.medium.com/) [Investor relations](https://audioboomplc.com/)
 
-[Terms & conditions](https://audioboom.com/about/terms) [Privacy policy](https://audioboom.com/about/privacy) [Cookie policy](https://audioboom.com/about/cookies)
+[Cookie policy](https://audioboom.com/about/cookies) [Privacy policy](https://audioboom.com/about/privacy) [Terms & conditions](https://audioboom.com/about/terms)
 
 ©2024 Audioboom
 
