@@ -8,8 +8,6 @@ Menu
 
 [![](/themes/acton/dist/img/mobile-menu/acton_logo_white.svg)](https://www.acton.org/home)
 
-[![Acton Annual Dinner 2024 Mobile Banner](https://www.acton.org/sites/default/files/ad/mobile.jpg)](https://www.acton.org/dinner)
-
 Close
 
 Main Menu Mobile
@@ -81,9 +79,12 @@ Acton Main Megamenu
 * [Shop](https://shop.acton.org/)
 * [Donate](https://give.acton.org/)
 
-![](https://www.acton.org/sites/default/files/ad/annual-dinner-text.png)
+![](https://www.acton.org/sites/default/files/pcs/marketing/au4.png)
 
-[![](https://www.acton.org/sites/default/files/ad/annual-dinner-button2.png)](https://www.acton.org/dinner)
+  
+[![text block float right top](https://www.acton.org/sites/default/files/pcs/marketing/au3.png)](https://university.acton.org/)  
+[![button right top below](https://www.acton.org/sites/default/files/pcs/marketing/au1.png)](https://university.acton.org/)  
+![text block float right top](https://www.acton.org/sites/default/files/pcs/marketing/au2.png)
 
 Privacy Policy & Terms of Use
 =============================
