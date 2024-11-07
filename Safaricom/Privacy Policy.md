@@ -144,6 +144,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 7, 2024
+
+> Mel was incredible
+
+> Mel was incredible, she found great options and was quick to always aim for our comfort, I was very satisfied!!!!
+
+Larissa Santos
+
+,
+
+AU
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 6, 2024
 
 > Lindi Weeks - Safari.com. A Pleasure to Work With.
@@ -253,20 +267,6 @@ Sonja
 ,
 
 ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 29, 2024
-
-> Safari.com for the WIN
-
-> Safari.com is an easy website to use jam packed with lots of amazing holiday options. We are working closely with the lovely Anja Meyer while we are planning our Safari.com holiday for December 2024, Anja is very helpful, kind and prompt.
-
-Liesl Perryman
-
-,
-
-AU
 
 VIP service
 
