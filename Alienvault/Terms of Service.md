@@ -1,7 +1,7 @@
-be\_ixf;ym\_202411 d\_06; ct\_150
+be\_ixf;ym\_202411 d\_07; ct\_200
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://levelblue.com/terms/website?utm\_medium=Email&utm\_source=2024-11-13%20Webinar%20-%20Elevate%20Your%20GRC%20Game%3A%20A%20Collaborative%20Approach%20w%2FOneTrust%20-%20Send%20Invites&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=5264c37d1def4416b16f153f98d2242f&elqaid=2018&elqat=1&elqCampaignId=1812&elqak=8AF52C73D67D9793A15705B69B7F67278B0489ACB80BAE500CDFACF754806A081266
+* https://levelblue.com/terms/website
 * https://levelblue.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
