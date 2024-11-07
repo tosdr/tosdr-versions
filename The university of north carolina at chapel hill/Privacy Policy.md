@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/CorrectionalProgramHero-250x141.jpg)
+    
+    Correctional Education gives prisoners a second chance](https://www.unc.edu/posts/2024/11/06/correctional-education-gives-prisoners-a-second-chance/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/11/OUR101HERO-250x141.png)
     
     Undergraduates can do research](https://www.unc.edu/posts/2024/11/05/undergraduates-can-do-research/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/NEW_JacksHero-250x141.jpg)
-    
-    Air Force veteran joins Student Affairs](https://www.unc.edu/posts/2024/11/05/air-force-veteran-joins-student-affairs/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=ed45600cb9&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=7ae3fe094f&text=%prefix%%text%%suffix%&post_id=225671&type=%type%)
 
 ### Share on Mastodon
 
