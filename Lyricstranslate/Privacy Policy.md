@@ -107,67 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Wrath Redoran](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1566872-1679610207.jpg)](https://lyricstranslate.com/en/translator/wrath-redoran "Wrath Redoran")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
 New song
 
-[კონტრაბანდა - ერთი იყო](https://lyricstranslate.com/en/kontrabanda-erti-iqo-lyrics)
+[Lucie Bílá - Braniboři v Čechách](https://lyricstranslate.com/en/lucie-bila-branibori-v-cechach-lyrics)
 
-Georgian
+Czech
 
-[![wuhuahua089](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176962-1730035239.png)](https://lyricstranslate.com/en/translator/wuhuahua089 "wuhuahua089")
+[![protossdesign](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1511985-1648825139.jpg)](https://lyricstranslate.com/en/translator/protossdesign "protossdesign")
+
+Transcription request fulfilled
+
+[Jean-Petit qui danse](https://lyricstranslate.com/en/french-childrens-songs-jean-petit-qui-danse-lyrics)
+
+French
+
+[![protossdesign](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1511985-1648825139.jpg)](https://lyricstranslate.com/en/translator/protossdesign "protossdesign")
+
+New song
+
+[French Children's Songs - Jean-Petit qui danse](https://lyricstranslate.com/en/french-childrens-songs-jean-petit-qui-danse-lyrics)
+
+French
+
+[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
 
 New translation
 
-[Cairokee - أحلامنا (Ahlamna)](https://lyricstranslate.com/en/cairokee-ahlamna-transliteration)
+[Philip Labes - A TV Show Called Earth](https://lyricstranslate.com/en/philip-labes-tv-show-called-earth-french)
 
-Arabic (Egyptian) → Transliteration
+English → French
 
-[![Tal Ramati](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1265040.jpg)](https://lyricstranslate.com/en/translator/tal-ramati "Tal Ramati")
-
-New song
-
-[Unknown Artist (Hebrew) - אין לי ארץ אחרת](https://lyricstranslate.com/en/unknown-artist-hebrew-no-other-land-me-lyrics)
-
-Hebrew
-
-[![sortilegi0](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110101-1475695379.jpg)](https://lyricstranslate.com/en/translator/sortilegi0 "sortilegi0")
+[![Super Girl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1308083-1547756752.png)](https://lyricstranslate.com/en/translator/super-girl "Super Girl")
 
 New translation
 
-[Ritam Srca - Чија ли си чија (Čija li si čija)](https://lyricstranslate.com/en/ritam-srca-cija-li-si-cija-turkish)
+[Djordan - Бом, Бом (Bom, Bom)](https://lyricstranslate.com/en/djordan-bom-bom-romanian)
 
-Serbian → Turkish
+Bulgarian → Romanian
 
-[![Fary](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1097876-1552844503.jpg)](https://lyricstranslate.com/en/translator/fary "Fary")
-
-New comment
-
-No, incomplete lyrics aren't allowed so you should...  [more](https://lyricstranslate.com/en/comment/1173887#comment-1173887)
-
-[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
-
-New song
-
-[Mihai Eminescu - Când va fi pe la ogină](https://lyricstranslate.com/en/mihai-eminescu-cand-va-fi-pe-la-ogina-lyrics)
-
-Romanian
-
-[![FrostNova7122](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627717-1728405694.jpg)](https://lyricstranslate.com/en/translator/frostnova7122 "FrostNova7122")
-
-New song
-
-[Koji Tamaki - Will...](https://lyricstranslate.com/en/koji-tamaki-will-lyrics)
-
-Japanese
-
-[![Gunda412](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1459212-1593362012.jpg)](https://lyricstranslate.com/en/translator/gunda412 "Gunda412")
+[![HiiJin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/hiijin "HiiJin")
 
 New translation
 
-[The Andrews Sisters - Her Bathing Suit never got Wet](https://lyricstranslate.com/en/andrews-sisters-her-bathing-suit-never-go-german)
+[Bogdan DLP - La tine și la bani](https://lyricstranslate.com/en/bogdan-dlp-la-tine-si-la-bani-english)
 
-English → German
+Romanian → English
+
+[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
+
+New transcription request
+
+[Ranma 1/2 (ost) - Olvida la amargura](https://lyricstranslate.com/en/ranma-12-ost-olvida-la-amargura)
+
+Spanish
+
+[![masa8910](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408007-1569673458.jpg)](https://lyricstranslate.com/en/translator/masa8910 "masa8910")
+
+New translation
+
+[Laufey - Promise](https://lyricstranslate.com/en/laufey-promise-masonese)
+
+English → Masonese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
