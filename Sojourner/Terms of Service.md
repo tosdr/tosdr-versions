@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e34d7abf0120afcbe0b0ed2b553757b1
+609e5a07537e7839a980e40bf2a80760
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Majestic black onyx necklace](https://sojourner.biz/images/cache/jewelry/N0078.200.jpg)](https://sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
+[![14 mm by 12 mm celery green coin pearls](https://sojourner.biz/images/cache/pearls/PE0084.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-by-12-mm-celery-green-coin-pearls.html "14 mm by 12 mm celery green coin pearls")
 
-#### [Majestic black onyx necklace](https://sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
+#### [14 mm by 12 mm celery green coin pearls](https://sojourner.biz/beads/pearls/14-mm-by-12-mm-celery-green-coin-pearls.html "14 mm by 12 mm celery green coin pearls")
 
-$110.00
+$18.00
 
 ### Best Sellers
 
@@ -160,12 +160,12 @@ $110.00
     $15.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
-7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+6. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
 10. [2 mm amethyst round beads](https://sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
