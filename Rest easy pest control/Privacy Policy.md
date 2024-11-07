@@ -3,7 +3,7 @@
 * [Field Offices](https://www.resteasypestcontrol.com/locations)
 * [Blog](https://www.resteasypestcontrol.com/about/blog)
 
-[](https://www.facebook.com/resteasypestny/)[](https://www.instagram.com/resteasypest/)
+[](https://www.facebook.com/resteasypestcontrolcompany?mibextid=LQQJ4d)[](https://www.instagram.com/resteasypest/)
 
  [![Rest Easy Pest Control](/oak/files/logos/logo.svg) ![Rest Easy Pest Control](/oak/files/logos/logo.svg)](https://www.resteasypestcontrol.com/)
 
@@ -28,7 +28,7 @@
 * [Field Offices](https://www.resteasypestcontrol.com/locations)
 * [Pest Plans](https://www.resteasypestcontrol.com/pricing)[Blog](https://www.resteasypestcontrol.com/about/blog)[Contact Us](https://www.resteasypestcontrol.com/about/contact)[Pest Library](https://www.resteasypestcontrol.com/pest-library)
 
-[](https://www.facebook.com/resteasypestny/)[](https://www.instagram.com/resteasypest/)
+[](https://www.facebook.com/resteasypestcontrolcompany?mibextid=LQQJ4d)[](https://www.instagram.com/resteasypest/)
 
 [See All Pest Services](https://www.resteasypestcontrol.com/pest-services)
 
@@ -260,7 +260,7 @@ Hours
 
 Mon - Sat: 7:00am - 7:00pm
 
-[](https://www.facebook.com/resteasypestny/)[](https://www.instagram.com/resteasypest/)
+[](https://www.facebook.com/resteasypestcontrolcompany?mibextid=LQQJ4d)[](https://www.instagram.com/resteasypest/)
 
 * [Residential](https://www.resteasypestcontrol.com/residential)
 * [Commercial](https://www.resteasypestcontrol.com/commercial)
