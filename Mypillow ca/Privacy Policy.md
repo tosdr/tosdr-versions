@@ -93,6 +93,8 @@ Apply
 
 [](https://www.mypillow.com/the-classic-collection)
 
+[](https://www.mypillow.com/christmas-extravaganza)
+
 [](https://www.mypillow.ca/my-mattress-topper)
 
 [](https://www.mypillow.ca/mystore-general-redirect)
