@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
 
 Service Stiftung Warentest
 
