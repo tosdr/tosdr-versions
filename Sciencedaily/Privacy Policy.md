@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Lower Blood Pressure: Five Minutes Exercise ...](https://www.sciencedaily.com/releases/2024/11/241106190302.htm)
+* [Climate Change Parching the West: Evaporation](https://www.sciencedaily.com/releases/2024/11/241106190309.htm)
+* [Gophers-For-A-Day Helped Mt. St. Helens Recover](https://www.sciencedaily.com/releases/2024/11/241106171950.htm)
+* [Predictions for Meson Measurements](https://www.sciencedaily.com/releases/2024/11/241106171846.htm)
 * [Haptic Patch for Complexity of Touch in VR](https://www.sciencedaily.com/releases/2024/11/241106132217.htm)
 * [Your Brain, While You Watch a Movie](https://www.sciencedaily.com/releases/2024/11/241106132234.htm)
 * [Use of 'Genetic Scissors' Carries Risks](https://www.sciencedaily.com/releases/2024/11/241106132646.htm)
 * [How the Brain Handles Hunger](https://www.sciencedaily.com/releases/2024/11/241106132326.htm)
 * [Imaging Nuclear Shapes by Smashing Them](https://www.sciencedaily.com/releases/2024/11/241106132223.htm)
 * [How the Brain Constantly Refreshes Memory](https://www.sciencedaily.com/releases/2024/11/241106132215.htm)
-* [Revolutionizing Data Storage](https://www.sciencedaily.com/releases/2024/11/241106132133.htm)
-* [Egg or Chicken? Ancient Unicellular Says Egg](https://www.sciencedaily.com/releases/2024/11/241106132114.htm)
-* [Interstellar Methane: Progenitor of Amino Acids?](https://www.sciencedaily.com/releases/2024/11/241106132453.htm)
-* [Outer Solar System's Origins and Asteroid Grains](https://www.sciencedaily.com/releases/2024/11/241106132119.htm)
 
 Trending Topics
 ---------------
@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
-
 [Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
-[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
+
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -240,7 +240,7 @@ this week
 
 [Nebulae](https://www.sciencedaily.com/news/space_time/nebulae/)
 
-[Cosmic Rays](https://www.sciencedaily.com/news/space_time/cosmic_rays/)
+[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
   
 
