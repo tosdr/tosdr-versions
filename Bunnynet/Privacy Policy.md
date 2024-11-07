@@ -94,6 +94,21 @@
         * [![DNS Pricing](/images/adjustable-pricing.svg "DNS Pricing")
             
             DNS Pricing](https://bunny.net/pricing/dns/)
+    * [![Edge Scripting](/edge-scripting-menu-icon.svg "Edge Scripting")
+        
+        Edge Scripting
+        
+        Deploy and run applications at the edge](https://bunny.net/edge-scripting/)
+        * Edge Scripting
+        * [![Bunny Edge Scripting](/edge-scripting-icon-light.svg "Bunny Edge Scripting")
+            
+            Bunny Edge Scripting](https://bunny.net/edge-scripting/)
+        * [![Edge Scripting Pricing](/images/Payment_Option.svg "Edge Scripting Pricing")
+            
+            Edge Scripting Pricing](https://docs.bunny.net/docs/edge-scripting-pricing)
+        * [![Documentation](/edge-scripting-documentation-icon-light.svg "Documentation")
+            
+            Documentation](https://docs.bunny.net/docs/edge-scripting-overview)
     * [![Fonts](/images/bunny-fonts-icon-orange.svg "Fonts")
         
         Fonts
@@ -596,6 +611,7 @@ No credit card required – Complete Registration in under 2 minutes.
 * [Bunny Storage](https://bunny.net/storage/)
 * [Bunny Stream](https://bunny.net/stream/)
 * [Bunny DNS](https://bunny.net/dns/)
+* [Bunny Edge Scripting](https://bunny.net/edge-scripting/)
 * [Bunny Fonts](https://bunny.net/fonts/)
 
 #### Developers
