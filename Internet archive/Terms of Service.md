@@ -280,6 +280,6 @@ Email: [info@archive.org](mailto:info@archive.org)
 **For More Information**  
 If you have any questions or comments regarding these terms and policies or the Archive’s data collection practices, please contact the Archive at [info@archive.org](mailto:info@archive.org) or Internet Archive, 300 Funston Ave., San Francisco, CA 94118, phone 415-561-6767.  
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=2120070980)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=1902063782)
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=930798072)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1935489834)
