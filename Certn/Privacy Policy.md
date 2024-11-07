@@ -68,7 +68,6 @@ Error
 * [Modalités d’utilisation du site Web - FR](#contract-by4mivhzn)
 * [OneID Consent - Portal Version (EN)](#contract-hjmqplc8h)
 * [Canadian Criminal Consent - HR](#contract-i0-s91kkv)
-* [Canadian Criminal Consent - PM](#contract-xmiyhtsct)
 * [Canadian Criminal Consent - PM (FR)](#contract-rjxhctwwn)
 * [Canadian Criminal Consent - HR (FR)](#contract-bygcnfrvh)
 * [Background Screening Consent - HR English (Procom/Deloitte)](#contract-enmprb4h)
@@ -4465,43 +4464,6 @@ I hereby release and forever discharge all members and employees of the processi
 By clicking “I understand and agree” I consent to Certn collecting, processing and disclosing my personal information pursuant to the terms set out above and Certn’s [Privacy Policy](https://certn.co/privacy-policy/).
 
 _You can request more information about the nature and scope of your criminal record check by contacting Certn’s Privacy Officer at 1-844-987-0690 or privacy@certn.co_
-
-  
-
-  
-
-  
-
-Canadian Criminal Consent - PM
-------------------------------
-
-### Version 1.0
-
-##### Effective June 19th 2023
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/648a0924890024485418ef98.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-I hereby consent to a search of all currently available criminal records and information, including non-conviction information, charges before the court, findings of guilt or convictions and court orders or records registered in my name in the National Repository of Criminal Records, the Canadian Police Information Centre (“**CPIC**”) database, the Police Information Portal (“**PIP**”) and any other data sharing platform available to the police service provider for the purposes of delivering a criminal record check in relation to my application with the landlord or property manager, as applicable (the “**Landlord**”).  
-
-I understand that this criminal record check is based on the name(s), date of birth and, where used, the declared criminal record history I provide. I understand that the results are not being confirmed by fingerprint comparison which is the only true means by which to confirm if a criminal record exists in the National Repository of Criminal Records.
-
-I certify that the information set out by me in this application is true and correct to the best of my ability. I consent to the release of the results of the criminal record check to Certn and the Landlord. I acknowledge and agree that the Landlord may collect, use and disclose the information collected for the purposes of evaluating my application.
-
-I hereby release and forever discharge all members and employees of the processing police service and the Royal Canadian Mounted Police from any and all actions, claims and demands for damages, loss or injury whatsoever arising which may hereinafter be sustained by me as a result of the disclosure of information to Certn and the Landlord.
-
-By clicking “**I understand and agree**” I consent to Certn collecting, processing and disclosing my personal information pursuant to the terms set out above and Certn’s [Privacy Policy](https://certn.co/privacy-policy/).
-
-_You can request more information about the nature and scope of your criminal record check by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co)_.
-
-  
-
-  
 
   
 
