@@ -50,7 +50,7 @@ By Solution* [](http://www.3plearning.com/software/mathletics/)
 
 Packages* [](http://www.3plearning.com/3essentials/)
     
-    ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2024/09/3Essentials.svg)
+    ![3Essentials](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2024/09/3Essentials.svg)
     
     An integrated package that combines our award-winning online learning programs for **reading**, **writing** and **maths** — at unbeatable value for your school
     
