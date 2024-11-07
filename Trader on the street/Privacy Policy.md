@@ -21,13 +21,11 @@
 
 [](#)
 
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20127'%3E%3C/svg%3E)
+  [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20127'%3E%3C/svg%3E)
 
- ![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-black.png)
+![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-black.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2035'%3E%3C/svg%3E)
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2035'%3E%3C/svg%3E)
-
- ![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-logo.png)](https://traderonthestreet.com/)
+![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-logo.png)](https://traderonthestreet.com/)
 
 [](#)
 
@@ -35,13 +33,11 @@
 
 [](#)
 
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20127'%3E%3C/svg%3E)
+  [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20127'%3E%3C/svg%3E)
 
- ![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-black.png)
+![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-black.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2035'%3E%3C/svg%3E)
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2035'%3E%3C/svg%3E)
-
- ![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-logo.png)](https://traderonthestreet.com/)
+![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-logo.png)](https://traderonthestreet.com/)
 
 [](https://traderonthestreet.com/cart/)
 
@@ -54,9 +50,9 @@ Search for:
 
 [](#)
 
-  [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20127'%3E%3C/svg%3E)
+ [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20127'%3E%3C/svg%3E)
 
- ![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-black.png)](https://traderonthestreet.com/)
+![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-black.png)](https://traderonthestreet.com/)
 
 [](#)
 
@@ -191,9 +187,9 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 * By visiting this page on our website: [https://traderonthestreet.com/contact-us/](https://traderonthestreet.com/contact-us/)
 
-  [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2035'%3E%3C/svg%3E)
+ [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2035'%3E%3C/svg%3E)
 
- ![](https://traderonthestreet.com/wp-content/uploads/2020/06/cropped-tots-logo-4.png)](https://traderonthestreet.com/)
+![](https://traderonthestreet.com/wp-content/uploads/2020/06/cropped-tots-logo-4.png)](https://traderonthestreet.com/)
 
 * 383 W Lakeview Rd  
     Lindon, UT 84042
