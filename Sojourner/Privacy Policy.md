@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0749d205d62a7dd188484dc1aac47e67
+5dccff3f046b5411e4c9c44d8d06f85e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![14 mm to 24 mm highly irregular gold stick pearls](https://www.sojourner.biz/images/cache/pearls/PE0168.200.jpg)](https://www.sojourner.biz/beads/pearls/14-mm-to-24-mm-highly-irregular-gold-stick-pearls.html "14 mm to 24 mm highly irregular gold stick pearls")
+[![Random root beer clasp](https://www.sojourner.biz/images/cache/SKU0077front.200.jpg)](https://www.sojourner.biz/clasps/glass/random-root-beer-clasp.html "Random root beer clasp")
 
-#### [14 mm to 24 mm highly irregular gold stick pearls](https://www.sojourner.biz/beads/pearls/14-mm-to-24-mm-highly-irregular-gold-stick-pearls.html "14 mm to 24 mm highly irregular gold stick pearls")
+#### [Random root beer clasp](https://www.sojourner.biz/clasps/glass/random-root-beer-clasp.html "Random root beer clasp")
 
-$47.00
+$29.00
 
 ### Best Sellers
 
