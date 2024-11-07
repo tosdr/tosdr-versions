@@ -7,7 +7,7 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
 * [Product](#)
     * [Technology](#)
         * [Canvas](https://illumin.com/product/canvas/)
-        * [Data](https://illumin.com/product/audience-engagement-map/)
+        * [Data](https://illumin.com/product/data/)
         * [Intelligence](https://illumin.com/product/intelligence/)
         * [Channels](https://illumin.com/product/channels/)
         * [How to work with illumin](https://illumin.com/product/service-levels/)
@@ -190,7 +190,7 @@ Newsletter signup
 
 * Product
     * [Canvas](https://illumin.com/product/canvas/)
-    * [Data](https://illumin.com/product/audience-engagement-map/)
+    * [Data](https://illumin.com/product/data/)
     * [Intelligence](https://illumin.com/product/intelligence/)
     * [Request A Demo](https://illumin.com/product/request-a-demo/)
     * [Support](https://support.illumin.com/csm)
