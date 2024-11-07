@@ -224,7 +224,7 @@ Contact
 
 For any question related to our Cookie Policy, you can contact us at [\[email protected\]](https://www.toornament.com/cdn-cgi/l/email-protection) or by mail at Toornament - Privacy - 10 rue de penthièvre, 75008 Paris, France. For any questions related to the protection of personal data performed by Toornament, you can contact our Data Protection Officer at [\[email protected\]](https://www.toornament.com/cdn-cgi/l/email-protection). In the event that you are not satisfied by a response, you can make a claim to the French CNIL.
 
-![](https://www.toornament.com/bundles/frontapp/img/logo-toornament-blanc.svg?1730893051)
+![](https://www.toornament.com/bundles/frontapp/img/logo-toornament-blanc.svg?1730986538)
 
 Manage your gaming competition  
 the way you want
