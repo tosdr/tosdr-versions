@@ -49,7 +49,6 @@ Error
 * [DBS Consent - HR - English](#contract-ryfitxbai)
 * [Tokenized Authorization (B2B) - EN](#contract-ryggbwf6i)
 * [ACIC Consent](#contract-hyeijkbrj)
-* [ACIC Manual Consent](#contract-bdm-1lbj)
 * [International Criminal Consent](#contract-rye3vbwx3)
 * [Canadian Criminal Consent - Generic](#contract-bjga8wzgn)
 * [Canadian Criminal Consent - Generic (FR)](#contract-hypa1blgh)
@@ -62,7 +61,6 @@ Error
 * [UBER - Canadian Criminal Consent](#contract-7z09ebn3a)
 * [UBER - Canadian Criminal Consent - FR](#contract-17dotmlei)
 * [Wise Inc - FCRA Authorization](#contract-o2dypmiqm)
-* [ACIC Consent (Dnata)](#contract-ztnheanmt)
 * [FCRA Authorization (Copy) -- Formatting Test](#contract-qmz3rwayu)
 * [ADDENDA SUR LE TRAITEMENT DES DONNÉES - FR](#contract-by0avvng2)
 * [CONDITIONS DE SERVICE - FR](#contract-hjhswi2g2)
@@ -78,8 +76,6 @@ Error
 * [Dollarama Canadian Criminal Consent (English)](#contract-h1qrnxtin)
 * [Dollarama Canadian Criminal Consent (French)](#contract-r1a1uqfi3)
 * [Tokenized Consent Placeholder - FR](#contract-le7f7olhj)
-* [ACIC Police Check Consent](#contract-b1rg4hkka)
-* [ACIC Police Check Consent - FR](#contract-p7rb5vu)
 * [OneID Consent - Portal Version (FR)](#contract-7enykesbk)
 * [UK Generic - Portal Version (EN)](#contract-b1labyz1p)
 * [DBS Consent - HR - French](#contract-qfwj5wbkb)
@@ -2643,7 +2639,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 5th 2024
+##### Effective November 6th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -2818,108 +2814,6 @@ I/the applicant \_\_\_\_**{{{first\_name}}}**\_**{{{last\_name}}}**\_\_\_\_ here
   
 
 By signing this consent, I \_\_\_\_**{{{first\_name}}}**\_**{{{last\_name}}}**\_\_\_\_, acknowledge that I am providing a legally binding digital signature and I agree about how my personal information will be processed and disclosed.
-
-  
-
-  
-
-ACIC Manual Consent
--------------------
-
-### Version 3.0
-
-##### Effective April 11th 2023
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/64359950dfb80d01f5221d57.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**Nationally Coordinated Criminal History Check Application and Consent Form**
-
-  
-
-**General Information**
-
-This form is used by the Accredited body and on behalf of the Employer in relation to your employment or other engagement for work with the Employer.
-
-**National Criminal History Check**
-
-A Nationally Coordinated Criminal History Check contains your personal information, and any relevant police information about you, according to the purpose of your Nationally Coordinated Criminal History Check. Such criminal history information may include outstanding charges and criminal convictions and/or findings of guilt recorded against you that may be disclosed according to the laws of the relevant jurisdiction.You can contact the Accredited Body or the Employer for more information on the Nationally Coordinated Criminal History Check process, how your personal information is handled and how you can dispute your result.
-
-  
-
-|     |     |
-| --- | --- |
-| **Accredited body:** | **InterCheck Global Pty Ltd.,** (ABN:51151778237);<br><br>Address: 356 Collins Street, Melbourne, 3000, Victoria;<br><br>Contact details: help@intercheck.com.au; + 61 (03) 8820 4069 |
-| **Purpose for your check:** | Position Title / Licence Type / Reason for Check:<br><br>{{{position\_title}}}  <br><br>The Name or Organisation of Work / Issuing Authority:<br><br>{{{acic\_org}}}  <br><br>The Location or Town:<br><br>{{{acic\_location}}}  <br><br>The State or Territory:<br><br>{{{acic\_state}}} |
-| **Third-party details to forward/disclose the result Employer/ Organisation/** | Full Legal Name of Entity:<br><br>{{{company\_name}}}  <br><br>Address:  <br><br>{{{team\_address}}}<br><br>Preferred contact details:<br><br>{{{team\_phone\_number}}}  <br><br>ABN:<br><br>{{{team\_business\_number}}} |
-| **Permitted offshore transfer arrangements** | Overseas entity: **Certn (Canada) Inc**  <br><br>Location: **Canada**<br><br>Offshore processing: administrative application processing excluding hosting and delivery of police information results as provided by the Accredited body |
-
-  
-
-**Spent Conviction Schemes**
-
-Police information is disclosed in accordance with applicable spent conviction legislation and information release policies of the Australian Government and state and territory governments.
-
-  
-
-Visit the links for more information on spent convictions:
-
-Australian Government [www.legislation.gov.au](https://certn.co/privacy-policy/www.legislation.gov.au)
-
-Australian Capital Territory [www.legislation.act.gov.au](https://certn.co/privacy-policy/www.legislation.act.gov.au)
-
-New South Wales [www.legislation.nsw.gov.au](https://certn.co/privacy-policy/www.legislation.nsw.gov.au)
-
-Northern Territory [www.legislation.nt.gov.au](https://certn.co/privacy-policy/www.legislation.nt.gov.au)
-
-Queensland [www.legislation.qld.gov.au](https://certn.co/privacy-policy/www.legislation.qld.gov.au)
-
-South Australia [www.legislation.sa.gov.au](https://certn.co/privacy-policy/www.legislation.sa.gov.au)
-
-Tasmania [www.thelaw.tas.gov.au](https://certn.co/privacy-policy/www.thelaw.tas.gov.au)
-
-Victoria [www.police.vic.gov.au](https://certn.co/privacy-policy/www.police.vic.gov.au)
-
-Western Australia [www.legislation.wa.gov.au](https://certn.co/privacy-policy/www.legislation.wa.gov.au)
-
-  
-
-**Applicant’s Consent to submit a Nationally Coordinated Criminal History Check**
-
-You must provide your name, read each statement carefully and then print your name, sign and date to provide your informed consent
-
-  
-
-I/the applicant \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ hereby:
-
-1. acknowledge that I understand the information on this form;
-2. acknowledge that InterCheck Global Pty Ltd is collecting information in this form to provide to the Australian Criminal Intelligence Commission (ACIC) and police agencies, for a Nationally Coordinated Criminal History Check to be conducted for the purpose outlined in this form;
-3. have fully and accurately completed this form, and the personal information I have provided relates to me and contains the full name and all names previously used by me;
-4. acknowledge that withholding and/or providing misleading or false information on this form and in any supplied identity documents may be a Commonwealth offence and may lead to prosecution under the Criminal Code Act 1995 (Cth);
-5. acknowledge that personal information that I provided on this form and on the supplied identity documents may be disclosed to InterCheck Global Pty Ltd (including contractors, legal entity customers, related bodies or third parties named above in Australia or overseas, if applicable);
-6. acknowledge that any information sent electronically, in relation to this form, including identity documents, is sent at my risk and I am aware of the consequences of sending information in these ways;
-7. acknowledge that I am aware that I am providing consent for a Nationally Coordinated Criminal History Check to be conducted using all personal information provided in this form and provided in supplied identity documents;
-8. understand and consent to police information relating to me, being disclosed in accordance with the purpose identified in this form, and applicable legislation and information release policies (including spent convictions legislation described in Australian Government and state or territory legislation);
-9. give consent to:
-    1. the ACIC and police agencies using and disclosing my personal information that I have provided in this form and personal information contained in my supplied identity documents to conduct a Nationally Coordinated Criminal History Check;
-    2. the ACIC disclosing the police information sourced from the police agencies to other approved bodies and InterCheck Global Pty Ltd;
-    3. InterCheck Global Pty Ltd disclosing to the legal entity customer, third parties, and any permitted offshore transfer arrangements named above, my personal information and police information to assess my suitability for the purpose identified in this form;
-10. acknowledge that it is usual practice for my personal information and police information to be used by police agencies and the ACIC for law enforcement, including purposes set out in the Australian Crime Commission Act 2002 (Cth).
-
-  
-
-By signing this consent, I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, acknowledge that I am providing a legally binding digital signature and I agree about how my personal information will be processed and disclosed.
-
-  
-
-  
-
-Signature: Date:
 
   
 
@@ -3507,105 +3401,6 @@ Name: {{{first\_name}}} {{{last\_name}}}
   
 
 \[END OF DOCUMENT\]
-
-  
-
-ACIC Consent (Dnata)
---------------------
-
-### Version 1.0
-
-##### Effective May 15th 2023
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/645972570e8a2d85df894bab.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**Nationally Coordinated Criminal History Check Application and Consent Form**
-
-  
-
-**General Information**
-
-This form is used by the Accredited body and on behalf of the Employer in relation to your employment or other engagement for work with the Employer.
-
-**National Criminal History Check**
-
-A Nationally Coordinated Criminal History Check contains your personal information, and any relevant police information about you, according to the purpose of your Nationally Coordinated Criminal History Check. Such criminal history information may include outstanding charges and criminal convictions and/or findings of guilt recorded against you that may be disclosed according to the laws of the relevant jurisdiction.You can contact the Accredited Body or the Employer for more information on the Nationally Coordinated Criminal History Check process, how your personal information is handled and how you can dispute your result.
-
-  
-
-|     |     |
-| --- | --- |
-| **Accredited body:** | **InterCheck Global Pty Ltd.,** (ABN:51151778237);<br><br>Address: 356 Collins Street, Melbourne, 3000, Victoria;<br><br>Contact details: help@intercheck.com.au; + 61 (03) 8820 4069 |
-| **Purpose for your check:** | Position Title / Licence Type / Reason for Check:<br><br>{{{position\_title}}}  <br><br>The Name or Organisation of Work / Issuing Authority:<br><br>{{{acic\_org}}}  <br><br>The Location or Town:<br><br>{{{acic\_location}}}  <br><br>The State or Territory:<br><br>{{{acic\_state}}} |
-| **Third-party details to forward/disclose the result Employer/ Organisation/** | Full Legal Name of Entity:<br><br>{{{company\_name}}}  <br><br>Address:  <br><br>{{{team\_address}}}<br><br>Preferred contact details:<br><br>{{{team\_phone\_number}}}  <br><br>ABN:<br><br>{{{team\_business\_number}}}  <br><br>  <br><br>Full Legal Name of Entity:  <br>Alpha Flight Services Pty Ltd T/A Dnata Catering<br><br>Address:  <br>Niecon Tower, Level 7, 17-19 Victoria Avenue, Broadbeach, QLD 4218, Australia<br><br>Preferred contact details:  <br>(07) 5558 2000<br><br>ABN:  <br>89 142 418 |
-| **Permitted offshore transfer arrangements** | Overseas entity: **Certn (Canada) Inc**  <br><br>Location: **Canada**<br><br>Offshore processing: administrative application processing excluding hosting and delivery of police information results as provided by the Accredited body |
-
-  
-
-**Spent Conviction Schemes**
-
-Police information is disclosed in accordance with applicable spent conviction legislation and information release policies of the Australian Government and state and territory governments.
-
-  
-
-Visit the links for more information on spent convictions:
-
-Australian Government [www.legislation.gov.au](https://certn.co/privacy-policy/www.legislation.gov.au)
-
-Australian Capital Territory [www.legislation.act.gov.au](https://certn.co/privacy-policy/www.legislation.act.gov.au)
-
-New South Wales [www.legislation.nsw.gov.au](https://certn.co/privacy-policy/www.legislation.nsw.gov.au)
-
-Northern Territory [www.legislation.nt.gov.au](https://certn.co/privacy-policy/www.legislation.nt.gov.au)
-
-Queensland [www.legislation.qld.gov.au](https://certn.co/privacy-policy/www.legislation.qld.gov.au)
-
-South Australia [www.legislation.sa.gov.au](https://certn.co/privacy-policy/www.legislation.sa.gov.au)
-
-Tasmania [www.thelaw.tas.gov.au](https://certn.co/privacy-policy/www.thelaw.tas.gov.au)
-
-Victoria [www.police.vic.gov.au](https://certn.co/privacy-policy/www.police.vic.gov.au)
-
-Western Australia [www.legislation.wa.gov.au](https://certn.co/privacy-policy/www.legislation.wa.gov.au)
-
-  
-
-**Applicant’s Consent to submit a Nationally Coordinated Criminal History Check**
-
-You must provide your name, read each statement carefully and then print your name, sign and date to provide your informed consent
-
-  
-
-I/the applicant \_\_\_\_**{{{first\_name}}}**\_**{{{last\_name}}}**\_\_\_\_ hereby:
-
-1. acknowledge that I understand the information on this form;
-2. acknowledge that InterCheck Global Pty Ltd is collecting information in this form to provide to the Australian Criminal Intelligence Commission (ACIC) and police agencies, for a Nationally Coordinated Criminal History Check to be conducted for the purpose outlined in this form;
-3. have fully and accurately completed this form, and the personal information I have provided relates to me and contains the full name and all names previously used by me;
-4. acknowledge that withholding and/or providing misleading or false information on this form and in any supplied identity documents may be a Commonwealth offence and may lead to prosecution under the Criminal Code Act 1995 (Cth);
-5. acknowledge that personal information that I provided on this form and on the supplied identity documents may be disclosed to InterCheck Global Pty Ltd (including contractors, legal entity customers, related bodies or third parties named above in Australia or overseas, if applicable);
-6. acknowledge that any information sent electronically, in relation to this form, including identity documents, is sent at my risk and I am aware of the consequences of sending information in these ways;
-7. acknowledge that I am aware that I am providing consent for a Nationally Coordinated Criminal History Check to be conducted using all personal information provided in this form and provided in supplied identity documents;
-8. understand and consent to police information relating to me, being disclosed in accordance with the purpose identified in this form, and applicable legislation and information release policies (including spent convictions legislation described in Australian Government and state or territory legislation);
-9. give consent to:
-    1. the ACIC and police agencies using and disclosing my personal information that I have provided in this form and personal information contained in my supplied identity documents to conduct a Nationally Coordinated Criminal History Check;
-    2. the ACIC disclosing the police information sourced from the police agencies to other approved bodies and InterCheck Global Pty Ltd;
-    3. InterCheck Global Pty Ltd disclosing to the legal entity customer, third parties, and any permitted offshore transfer arrangements named above, my personal information and police information to assess my suitability for the purpose identified in this form;
-    4. Alpha Flight Services Pty Ltd T/A Dnata Catering disclosing to law enforcement agencies and, where requested and applicable, with labour hire companies my personal information and police information to assess my suitability for the purpose identified in this form;  
-          
-        
-10. acknowledge that it is usual practice for my personal information and police information to be used by police agencies and the ACIC for law enforcement, including purposes set out in the Australian Crime Commission Act 2002 (Cth).
-
-  
-
-By signing this consent, I \_\_\_\_**{{{first\_name}}}**\_**{{{last\_name}}}**\_\_\_\_, acknowledge that I am providing a legally binding digital signature and I agree about how my personal information will be processed and disclosed.
-
-  
 
   
 
@@ -4974,52 +4769,6 @@ You can withdraw your consent, dispute the accuracy of a Report, or ask for a co
   
   
   
-  
-
-ACIC Police Check Consent
--------------------------
-
-### Version 1.0
-
-##### Effective September 13th 2023
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65023416a89914b800172140.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-To complete your background check, we require your authorization to release the results Do you agree to the following statement?
-
-  
-
-I authorise Certn to send the police check result to for the purpose of assessing your suitability for employment and/or position of trust
-
-  
-
-ACIC Police Check Consent - FR
-------------------------------
-
-### Version 1.0
-
-##### Effective September 13th 2023
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/650237125ad2da3528c69944.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-Pour compléter votre vérification d'antécédents, nous avons besoin de votre autorisation pour publier les résultats. Êtes-vous d'accord avec la déclaration suivante ?
-
-  
-
-J'autorise Certn à envoyer le résultat du contrôle de police à {{{company\_name}}} dans le but d'évaluer votre aptitude à l'emploi et/ou à un poste de confiance.
-
   
 
 OneID Consent - Portal Version (FR)
