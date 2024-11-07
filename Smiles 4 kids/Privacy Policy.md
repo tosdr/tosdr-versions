@@ -42,7 +42,7 @@
     * [Patient Forms](https://patientregistration.denticon.com/?P=2883&O=152&PT=0)
     * [Special Offers](https://www.smiles4kids4corners.com/patients/special-offers/)
     * [Contact](https://www.smiles4kids4corners.com/contact/)
-* [”SE](# "”Spanish”")
+* [SE HABLA ESPAÑOL](# "”Spanish”")
 * [SCHEDULE ONLINE](https://www.appointnow.com/?P=2883&O=152&PT=0)
 
 Privacy Policy
