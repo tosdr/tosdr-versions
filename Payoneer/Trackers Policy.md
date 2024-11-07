@@ -25,7 +25,7 @@
     * [Srpski](https://www.payoneer.com/sr/)
     * [Portuguese](https://www.payoneer.com/pt/)
 
-[![Payoneer](/wp-content/uploads/payoneer-dark-logo.svg)](https://www.payoneer.com/)
+[![Payoneer](https://www.payoneer.com/wp-content/themes/payo/assets/img/payoneer-dark-logo.svg)](https://www.payoneer.com/)
 
 * [Freelancers](https://www.payoneer.com/freelancer/)
     * [Payoneer account Helping freelancers get paid globally and grow their business.](https://www.payoneer.com/payoneer-account/)
@@ -68,6 +68,7 @@
             * [Partners Directory Exclusive offers from partners](https://www.payoneer.com/partners-directory/)
             * [Add funds to your account Transfer funds from your bank](https://www.payoneer.com/add-funds/)
         * Make payments
+            * [Global Workforce Management Hire and pay anywhere](https://www.skuad.io/)
             * [Pay your suppliers Easy business payments](https://www.payoneer.com/pay-suppliers/)
             * [Pay your contractors Send international payments](https://www.payoneer.com/payer/)
             * [Pay business expenses Payoneer card](https://www.payoneer.com/commercial-card/)
@@ -251,7 +252,7 @@ If you have any questions in relation to this Policy, please contact us at [Pri
 
 [![Payoneer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%2033'%3E%3C/svg%3E)
 
-![Payoneer](/wp-content/uploads/payoneer-white-logo.svg)](https://www.payoneer.com/)
+![Payoneer](https://www.payoneer.com/wp-content/themes/payo/assets/img/payoneer-white-logo.svg)](https://www.payoneer.com/)
 
 © 2005-2024 Payoneer Inc., All Rights Reserved
 
@@ -302,6 +303,7 @@ If you have any questions in relation to this Policy, please contact us at [Pri
         * [Partners Directory Exclusive offers from partners](https://www.payoneer.com/partners-directory/)
         * [Add funds to your account Transfer funds from your bank](https://www.payoneer.com/add-funds/)
     * Make payments
+        * [Global Workforce Management Hire and pay anywhere](https://www.skuad.io/)
         * [Pay your suppliers Easy business payments](https://www.payoneer.com/pay-suppliers/)
         * [Pay your contractors Send international payments](https://www.payoneer.com/payer/)
         * [Pay business expenses Payoneer card](https://www.payoneer.com/commercial-card/)
