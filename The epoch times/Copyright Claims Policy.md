@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Democrats Inch Ahead in Yet-to-Be-Called US Senate Races](https://www.theepochtimes.com/us/democrats-inch-ahead-in-yet-to-be-called-us-senate-races-5755909)
+    
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Democrats Inch Ahead in Yet-to-Be-Called US Senate Races](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Democrats Inch Ahead in Yet-to-Be-Called US Senate Races](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753400-race_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-inch-ahead-in-yet-to-be-called-us-senate-races-5755909)
+* [European Leaders Meeting in Budapest Urge Trump to Support Ukraine, Avoid Trade Wars](https://www.theepochtimes.com/world/european-leaders-meeting-in-budapest-urge-trump-to-support-ukraine-avoid-trade-wars-5755872)
+    
+    1hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![European Leaders Meeting in Budapest Urge Trump to Support Ukraine, Avoid Trade Wars](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![European Leaders Meeting in Budapest Urge Trump to Support Ukraine, Avoid Trade Wars](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755916-2024-11-07T114419Z_1_LYNXMPEKA60GX_RTROPTP_4_EUROPE-COMMUNITY-205x123.jpg.webp)](https://www.theepochtimes.com/world/european-leaders-meeting-in-budapest-urge-trump-to-support-ukraine-avoid-trade-wars-5755872)
+* [Germany’s Coalition Collapses, Paving Way for New Elections](https://www.theepochtimes.com/world/germanys-coalition-collapses-paving-way-for-new-elections-5755869)
+    
+    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Germany’s Coalition Collapses, Paving Way for New Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Germany’s Coalition Collapses, Paving Way for New Elections](https://img.theepochtimes.com/assets/uploads/2024/11/id5755769-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/world/germanys-coalition-collapses-paving-way-for-new-elections-5755869)
+* [Cuba Hit by Second Blackout After Hurricane Rafael Tears Across Island](https://www.theepochtimes.com/world/cuba-hit-by-second-blackout-after-hurricane-rafael-tears-across-island-5755865)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Cuba Hit by Second Blackout After Hurricane Rafael Tears Across Island](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Cuba Hit by Second Blackout After Hurricane Rafael Tears Across Island](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755938-cubarafael-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/cuba-hit-by-second-blackout-after-hurricane-rafael-tears-across-island-5755865)
 * [Trump Returning to White House With a Bigger Mandate](https://www.theepochtimes.com/us/trump-returning-to-white-house-with-a-bigger-mandate-5755643)
     
-    NEW By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov) and [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    7hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov) and [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
     [![Trump Returning to White House With a Bigger Mandate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Returning to White House With a Bigger Mandate](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755614-GettyImages-2183216351-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-returning-to-white-house-with-a-bigger-mandate-5755643)
+    ![Trump Returning to White House With a Bigger Mandate](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755152-Trump-Win-2_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-returning-to-white-house-with-a-bigger-mandate-5755643)
 * [Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://www.theepochtimes.com/us/federal-appeals-court-upholds-musks-no-fraud-verdict-in-tesla-tweets-case-5755665)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741608-1.tagreuters.com2024binary_LYNXMPEK990VL-FILEDIMAGE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-upholds-musks-no-fraud-verdict-in-tesla-tweets-case-5755665)
 * [Levi Strauss Heir Leads San Francisco Mayor’s Race](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
     
-    7hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
+    13hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
     
     [![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755784-Untitled-design-3-205x123.png.webp)](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
-* [Trump Accepts Biden’s White House Invitation For Transition Meeting](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
+    ![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755950-Untitled-design-3-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
+* [Trump Accepts Biden’s White House Invitation for Transition Meeting](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Trump Accepts Biden’s White House Invitation For Transition Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Accepts Biden’s White House Invitation for Transition Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Accepts Biden’s White House Invitation For Transition Meeting](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678879-trump-bidenKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
+    ![Trump Accepts Biden’s White House Invitation for Transition Meeting](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678879-trump-bidenKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
 * [Understanding the Demographic Shift That Pushed Trump to Victory](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
     
-    8hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    15hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
     [![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755767-Lead-graph-2-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
 * [Children Under 16 Face Ban From Social Media Under New Australian Bill](https://www.theepochtimes.com/world/children-under-16-face-ban-from-social-media-under-new-australian-bill-5755709)
     
-    8hr By [Naziya Alvi Rahman](https://www.theepochtimes.com/author/naziya-alvi)
+    15hr By [Naziya Alvi Rahman](https://www.theepochtimes.com/author/naziya-alvi)
     
     [![Children Under 16 Face Ban From Social Media Under New Australian Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Children Under 16 Face Ban From Social Media Under New Australian Bill](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741769-Mobile-Phone-205x123.jpg.webp)](https://www.theepochtimes.com/world/children-under-16-face-ban-from-social-media-under-new-australian-bill-5755709)
-* [Americans in Battleground States Flipped by Trump React to His Reelection](https://www.theepochtimes.com/us/americans-in-battleground-states-flipped-by-trump-react-to-his-reelection-5755505)
-    
-    9hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
-    
-    [![Americans in Battleground States Flipped by Trump React to His Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Americans in Battleground States Flipped by Trump React to His Reelection](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755510-20241106_121826-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-in-battleground-states-flipped-by-trump-react-to-his-reelection-5755505)
-* [Democrats, Pondering Election Loss, Look to the Future](https://www.theepochtimes.com/us/democrats-pondering-election-loss-look-to-the-future-5755356)
-    
-    10hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Democrats, Pondering Election Loss, Look to the Future](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Democrats, Pondering Election Loss, Look to the Future](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755628-harris-loss-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-pondering-election-loss-look-to-the-future-5755356)
-* [How a 2nd Trump Administration Might Affect Foreign Policy](https://www.theepochtimes.com/us/how-a-2nd-trump-administration-might-affect-foreign-policy-5755352)
-    
-    10hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![How a 2nd Trump Administration Might Affect Foreign Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How a 2nd Trump Administration Might Affect Foreign Policy](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755430-Trump-Win-02_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-a-2nd-trump-administration-might-affect-foreign-policy-5755352)
-* [Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://www.theepochtimes.com/us/supreme-court-skeptical-of-facebooks-move-to-toss-shareholder-lawsuit-5755339)
-    
-    10hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745149-10072024-DSC03091-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-skeptical-of-facebooks-move-to-toss-shareholder-lawsuit-5755339)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
