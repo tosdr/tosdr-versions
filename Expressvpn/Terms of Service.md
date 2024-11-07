@@ -312,6 +312,7 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 * [Where to Watch](https://www.expressvpn.com/where-to-watch)
 * [Top 5 VPN Uses](https://www.expressvpn.com/get-started)
 * [Blog](https://www.expressvpn.com/blog)
+* [Black Friday VPN Deals](https://www.expressvpn.com/black-friday-cyber-monday)
 * [English](#)
 
 © 2024 ExpressVPN. All rights reserved
