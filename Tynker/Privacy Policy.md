@@ -36,7 +36,7 @@
     * [Why Coding Matters](https://www.tynker.com/coding-for-kids/why-coding-matters/)
     * [Coding eBooks](https://www.tynker.com/ebooks/)
     * [Mobile Apps](https://www.tynker.com/mobile/)
-* [Blog](https://www.tynker.com/blog/)
+* [Gift](https://www.tynker.com/parents/gift)
 
 * Start for Free
 * Log in
