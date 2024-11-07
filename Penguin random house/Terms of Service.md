@@ -14,6 +14,14 @@ Recommendations
 
 Audio
 
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
+
+* * *
+
 * [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
     
     Children’s & YA Books That Celebrate Native American Heritage
@@ -27,14 +35,6 @@ Audio
     Browse All Our Lists, Essays, and Interviews
     
     See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
-
-* * *
-
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
-    
-    New Releases
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
 
 * <
     
