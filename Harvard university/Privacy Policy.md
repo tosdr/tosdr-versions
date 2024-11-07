@@ -175,7 +175,7 @@ Menu
         
         About
         
-        **History of Harvard** Harvard is perhaps best-known because of its enduring history of innovation in education. But even die-hard Harvard buffs are not likely to know all of these Harvard firsts and historical snippets. [Learn more](https://www.harvard.edu/about/history/)
+        **History of Harvard** Harvard is perhaps best-known because of its enduring history of innovation in education. But even die-hard Harvard buffs are not likely to know all of these Harvard firsts and historical snippets. [Learn more about Harvard's history](https://www.harvard.edu/about/history/)
         
         1. [**History timeline**](https://www.harvard.edu/about/history/timeline/)
         2. [**Nobel Laureates**](https://www.harvard.edu/about/history/nobel-laureates/)
@@ -211,9 +211,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**What happened when a meteorite the size of four Mount Everests hit Earth?**  Giant impact had silver lining for life, according to new study](https://news.harvard.edu/gazette/story/2024/10/what-happened-when-a-meteorite-the-size-of-four-mount-everests-hit-earth/)
-        2. [**Does academic writing have to be boring?** English professor, journalist says first step to better prose is being aware that no one has to read you](https://news.harvard.edu/gazette/story/2024/10/how-to-improve-academic-writing/)
-        3. [**How to fight depression? Faster.** Hope flags when medications fail, isolating and endangering patients. Backed by a major grant, 2 Harvard scientists are focused on reducing the distance between diagnosis and recovery.](https://news.harvard.edu/gazette/story/2024/10/how-to-fight-depression-faster/)
+        1. [**Mars may have been habitable much more recently than thought** Study bolsters theory that protective magnetic field supporting life-enabling atmosphere remained in place longer than estimates](https://news.harvard.edu/gazette/story/2024/10/mars-may-have-been-habitable-much-more-recently-than-thought/)
+        2. [**‘I wanted to make a difference in America’** Robert Putnam’s ‘Bowling Alone’ sounded an alarm we still haven’t answered](https://news.harvard.edu/gazette/story/2024/11/robert-putnam-wants-us-to-stop-bowling-alone/)
+        3. [**Do phones belong in schools?** Banning cellphones may help protect classroom focus, but school districts need to stay mindful of students’ sense of connection, experts say.](https://news.harvard.edu/gazette/story/2023/03/experts-see-pros-and-cons-to-allowing-cellphones-in-class/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
