@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -95,9 +95,9 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/)
     For more information about tours and visiting Parliament, click here.](https://www.parliament.nz/en/visit-and-learn/visit/)
     
 
- [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Live
+ [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
 
-The House is meeting today](https://videos.parliament.nz/)
+The House next meets on Tuesday, 12 November 2024](https://videos.parliament.nz/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
@@ -114,9 +114,9 @@ The House is meeting today](https://videos.parliament.nz/)
 * [Website Help](https://www.parliament.nz/en/footer/website-help/)
 * [Sitemap](https://www.parliament.nz/en/sitemap/)
 
- [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Live
+ [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
 
-The House is meeting today](https://videos.parliament.nz/)
+The House next meets on Tuesday, 12 November 2024](https://videos.parliament.nz/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
