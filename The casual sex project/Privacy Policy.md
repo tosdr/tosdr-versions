@@ -104,6 +104,16 @@ Oct 31 2024
 
 By **[Andy Smarick](https://admin.mi52siterestore.com/person/andy-smarick/)** Read time **52 mins** [Read More](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/movement-new-yorks-long-war-to-take-back-its-streets-from-the-car-excerpt.jpg)[](https://admin.mi52siterestore.com/article/if-the-trains-dont-move-nobody-moves-the-legacy-of-the-nyc-transit-strike-of-1966/ "Read More")
+
+Commentary Cities New York, New York City
+
+Nov 06 2024
+
+[If the Trains Don’t Move, Nobody Moves: The Legacy of the NYC Transit Strike of 1966](https://admin.mi52siterestore.com/article/if-the-trains-dont-move-nobody-moves-the-legacy-of-the-nyc-transit-strike-of-1966/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/if-the-trains-dont-move-nobody-moves-the-legacy-of-the-nyc-transit-strike-of-1966/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/opinion-prop-1-will-greenlight-anti-asian-discrimination-new-york.jpg)[](https://admin.mi52siterestore.com/article/prop-1-will-greenlight-anti-asian-discrimination-in-new-york/ "Read More")
 
 Commentary Governance, Cities New York, New York City, Elections
@@ -133,16 +143,6 @@ Oct 31 2024
 [Is Academic ‘Wokeness’ in Remission?](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/)
 
 By **[John D. Sailer](https://admin.mi52siterestore.com/person/john-d-sailer/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/abigail-shrier-the-kinderfada-revolution.jpg)[](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/ "Read More")
-
-Commentary Education, Culture Pre K-12, Culture & Society
-
-Oct 31 2024
-
-[The Kinderfada Revolution](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/)
-
-By **[Abigail Shrier](https://admin.mi52siterestore.com/person/abigail-shrier/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/)
 
 Our Policy Areas
 ----------------
