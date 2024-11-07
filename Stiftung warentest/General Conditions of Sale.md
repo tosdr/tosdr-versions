@@ -585,21 +585,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 
 test.de entdecken
 
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Fußbereich
 
@@ -2720,21 +2720,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 
 test.de entdecken
 
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2776,39 +2776,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 
 test.de entdecken
 
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Neueste Tests
 
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 
 test.de entdecken
 
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Service Stiftung Warentest
 
