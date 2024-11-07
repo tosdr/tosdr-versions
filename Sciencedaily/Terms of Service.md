@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 6, 2024**
+**November 7, 2024**
 
 * * *
 
@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Explaining Extremely Well-Preserved Dino Fossils](https://www.sciencedaily.com/releases/2024/11/241104150518.htm)
 * [Lower Blood Pressure: Five Minutes Exercise ...](https://www.sciencedaily.com/releases/2024/11/241106190302.htm)
 * [Climate Change Parching the West: Evaporation](https://www.sciencedaily.com/releases/2024/11/241106190309.htm)
 * [Gophers-For-A-Day Helped Mt. St. Helens Recover](https://www.sciencedaily.com/releases/2024/11/241106171950.htm)
@@ -238,7 +239,6 @@ this hour
 * [Use of 'Genetic Scissors' Carries Risks](https://www.sciencedaily.com/releases/2024/11/241106132646.htm)
 * [How the Brain Handles Hunger](https://www.sciencedaily.com/releases/2024/11/241106132326.htm)
 * [Imaging Nuclear Shapes by Smashing Them](https://www.sciencedaily.com/releases/2024/11/241106132223.htm)
-* [How the Brain Constantly Refreshes Memory](https://www.sciencedaily.com/releases/2024/11/241106132215.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
-[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
-
-[Nebulae](https://www.sciencedaily.com/news/space_time/nebulae/)
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
+
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
-[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+[Pests and Parasites](https://www.sciencedaily.com/news/plants_animals/pests_and_parasites/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
