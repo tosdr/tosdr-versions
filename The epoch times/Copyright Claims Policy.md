@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [What to Expect From the Senate’s New GOP Majority](https://www.theepochtimes.com/us/what-to-expect-from-the-senates-new-gop-majority-5755391)
+* [Levi Strauss Heir Leads San Francisco Mayor’s Race](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
     
-    NEW By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    NEW By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
     
-    [![What to Expect From the Senate’s New GOP Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What to Expect From the Senate’s New GOP Majority](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755548-GettyImages-862049436-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-expect-from-the-senates-new-gop-majority-5755391)
-* [GOP Rep. Mike Lawler Retains NY US House Seat Amid Mixed Results for Other NY Republicans](https://www.theepochtimes.com/us/gop-rep-mike-lawler-retains-ny-us-house-seat-amid-mixed-results-for-other-ny-republicans-5755447)
+    ![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755784-Untitled-design-3-205x123.png.webp)](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
+* [Trump Accepts Biden’s White House Invitation For Transition Meeting](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
     
-    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![GOP Rep. Mike Lawler Retains NY US House Seat Amid Mixed Results for Other NY Republicans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Accepts Biden’s White House Invitation For Transition Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Rep. Mike Lawler Retains NY US House Seat Amid Mixed Results for Other NY Republicans](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755521-GettyImages-1492671387-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-rep-mike-lawler-retains-ny-us-house-seat-amid-mixed-results-for-other-ny-republicans-5755447)
-* [Bezos, Zuckerberg, Other Business Leaders Respond to Trump’s Presidential Win](https://www.theepochtimes.com/us/bezos-zuckerberg-other-business-leaders-respond-to-trumps-presidential-win-5755478)
+    ![Trump Accepts Biden’s White House Invitation For Transition Meeting](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678879-trump-bidenKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
+* [Understanding the Demographic Shift That Pushed Trump to Victory](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
-    [![Bezos, Zuckerberg, Other Business Leaders Respond to Trump’s Presidential Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bezos, Zuckerberg, Other Business Leaders Respond to Trump’s Presidential Win](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755606-Tech-CEOs-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/bezos-zuckerberg-other-business-leaders-respond-to-trumps-presidential-win-5755478)
-* [Tammy Baldwin Defeats Republican Challenger to Retain Wisconsin Senate Seat](https://www.theepochtimes.com/us/tammy-baldwin-defeats-republican-challenger-to-retain-wisconsin-senate-seat-5751173)
+    ![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755767-Lead-graph-2-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
+* [Americans in Battleground States Flipped by Trump React to His Reelection](https://www.theepochtimes.com/us/americans-in-battleground-states-flipped-by-trump-react-to-his-reelection-5755505)
     
-    1hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
-    [![Tammy Baldwin Defeats Republican Challenger to Retain Wisconsin Senate Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Americans in Battleground States Flipped by Trump React to His Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tammy Baldwin Defeats Republican Challenger to Retain Wisconsin Senate Seat](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755596-09242024-DSC00793-Tammy-BaldwinKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/tammy-baldwin-defeats-republican-challenger-to-retain-wisconsin-senate-seat-5751173)
-* [Pennsylvania Rep. Matt Cartwright Concedes](https://www.theepochtimes.com/us/pennsylvania-rep-matt-cartwright-concedes-5753666)
+    ![Americans in Battleground States Flipped by Trump React to His Reelection](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755510-20241106_121826-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-in-battleground-states-flipped-by-trump-react-to-his-reelection-5755505)
+* [Democrats, Pondering Election Loss, Look to the Future](https://www.theepochtimes.com/us/democrats-pondering-election-loss-look-to-the-future-5755356)
     
-    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    4hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Pennsylvania Rep. Matt Cartwright Concedes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Democrats, Pondering Election Loss, Look to the Future](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Rep. Matt Cartwright Concedes](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753807-GettyImages-2147856360-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-rep-matt-cartwright-concedes-5753666)
-* [Voters in Multiple States Projected to Approve Measures Forbidding Noncitizen Voting](https://www.theepochtimes.com/us/voters-in-multiple-states-projected-to-approve-measures-forbidding-noncitizen-voting-5755291)
+    ![Democrats, Pondering Election Loss, Look to the Future](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755628-harris-loss-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-pondering-election-loss-look-to-the-future-5755356)
+* [How a 2nd Trump Administration Might Affect Foreign Policy](https://www.theepochtimes.com/us/how-a-2nd-trump-administration-might-affect-foreign-policy-5755352)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Voters in Multiple States Projected to Approve Measures Forbidding Noncitizen Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How a 2nd Trump Administration Might Affect Foreign Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Voters in Multiple States Projected to Approve Measures Forbidding Noncitizen Voting](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755472-GettyImages-2183144052-205x123.jpg.webp)](https://www.theepochtimes.com/us/voters-in-multiple-states-projected-to-approve-measures-forbidding-noncitizen-voting-5755291)
-* [After Trump Win, RFK Jr. Says ‘Entire Departments’ at the FDA ‘Have to Go’](https://www.theepochtimes.com/us/after-trump-win-rfk-jr-says-entire-departments-at-the-fda-have-to-go-5755435)
+    ![How a 2nd Trump Administration Might Affect Foreign Policy](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755430-Trump-Win-02_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-a-2nd-trump-administration-might-affect-foreign-policy-5755352)
+* [Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://www.theepochtimes.com/us/supreme-court-skeptical-of-facebooks-move-to-toss-shareholder-lawsuit-5755339)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![After Trump Win, RFK Jr. Says ‘Entire Departments’ at the FDA ‘Have to Go’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![After Trump Win, RFK Jr. Says ‘Entire Departments’ at the FDA ‘Have to Go’](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752916-GettyImages-2167258635-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-trump-win-rfk-jr-says-entire-departments-at-the-fda-have-to-go-5755435)
-* [Asked About Dropping Trump Charges, DOJ Says Policy Is to Not Prosecute Presidents](https://www.theepochtimes.com/us/calls-grow-for-jack-smith-local-prosecutors-to-end-trump-cases-5755462)
+    ![Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745149-10072024-DSC03091-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-skeptical-of-facebooks-move-to-toss-shareholder-lawsuit-5755339)
+* [Offshore Windmills, Paris Climate Accords Likely on Trump’s ‘Day One’ Chopping List](https://www.theepochtimes.com/us/offshore-windmills-paris-climate-accords-likely-on-trumps-day-one-chopping-list-5755507)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips) and [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
-    [![Asked About Dropping Trump Charges, DOJ Says Policy Is to Not Prosecute Presidents](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Offshore Windmills, Paris Climate Accords Likely on Trump’s ‘Day One’ Chopping List](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Asked About Dropping Trump Charges, DOJ Says Policy Is to Not Prosecute Presidents](https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558659-smith-trump-composite-205x123.jpg.webp)](https://www.theepochtimes.com/us/calls-grow-for-jack-smith-local-prosecutors-to-end-trump-cases-5755462)
-* [Republican Congressman Holds Seat in Tight California Election](https://www.theepochtimes.com/us/republican-congressman-holds-seat-in-tight-california-election-5753791) 
+    ![Offshore Windmills, Paris Climate Accords Likely on Trump’s ‘Day One’ Chopping List](https://img.theepochtimes.com/assets/uploads/2020/10/15/GettyImages-94155086-205x123.jpg.webp)](https://www.theepochtimes.com/us/offshore-windmills-paris-climate-accords-likely-on-trumps-day-one-chopping-list-5755507)
+* [Dow Jones Soars 1,500 Points to Record High After Trump Win](https://www.theepochtimes.com/business/dow-jones-soars-1500-points-to-record-high-after-trump-win-5755627)
     
-    3hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Republican Congressman Holds Seat in Tight California Election ](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Dow Jones Soars 1,500 Points to Record High After Trump Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Republican Congressman Holds Seat in Tight California Election ](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755590-john-duarte-walking-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-congressman-holds-seat-in-tight-california-election-5753791)
-* [Harris Concedes Election to Trump](https://www.theepochtimes.com/us/harris-concedes-to-trump-aide-5755476)
+    ![Dow Jones Soars 1,500 Points to Record High After Trump Win](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755611-GettyImages-2182556954-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/dow-jones-soars-1500-points-to-record-high-after-trump-win-5755627)
+* [Day in Photos: Trump Wins White House, Record-High Stock Market, and a Commemorative March](https://www.theepochtimes.com/article/day-in-photos-trump-wins-white-house-record-high-stock-market-and-a-commemorative-march-5755296)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Harris Concedes Election to Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Trump Wins White House, Record-High Stock Market, and a Commemorative March](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Concedes Election to Trump](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753237-FotoJet-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-concedes-to-trump-aide-5755476)
+    ![Day in Photos: Trump Wins White House, Record-High Stock Market, and a Commemorative March](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755614-GettyImages-2183216351-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-trump-wins-white-house-record-high-stock-market-and-a-commemorative-march-5755296)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
