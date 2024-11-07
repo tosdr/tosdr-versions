@@ -392,9 +392,9 @@ Default Title - $48
 
 ADD TO TOTE
 
-[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/files/Darkspotremover_239x254.jpg?v=1729528211)](https://www.100percentpure.com/products/dark-spot-remover)
+[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/files/Darkspotremover_f590727c-b7d6-4744-aa8b-59687d8cde46_239x254.jpg?v=1730991314)](https://www.100percentpure.com/products/dark-spot-remover)
 
-![ Dark Spot Remover](//www.100percentpure.com/cdn/shop/files/Darkspotremover_220x.jpg?v=1729528211)
+![ Dark Spot Remover](//www.100percentpure.com/cdn/shop/files/Darkspotremover_f590727c-b7d6-4744-aa8b-59687d8cde46_220x.jpg?v=1730991314)
 
 ### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
 
@@ -508,11 +508,11 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/1_3_3d2a3168-e15d-498f-8b8e-498d0c8feb87.png?crop=center&height=85&v=1705348338&width=85)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-[![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
+[![apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/AppleEnzymeCleanser_239x254.jpg?v=1730991085)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-![ 7% Fruit Acids Apple Enzyme Exfoliating Cleanser](//www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_220x.png?v=1696468131)
+![ Apple Enzyme Exfoliating Cleanser](//www.100percentpure.com/cdn/shop/files/AppleEnzymeCleanser_220x.jpg?v=1730991085)
 
-### [7% Fruit Acids Apple Enzyme Exfoliating Cleanser](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
+### [Apple Enzyme Exfoliating Cleanser](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
 83 reviews (83)
 
@@ -522,9 +522,9 @@ Default Title - $32
 
 ADD TO TOTE
 
-[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
+[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/files/Mintlipbalm_239x254.jpg?v=1730991870)](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
+![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/files/Mintlipbalm_220x.jpg?v=1730991870)
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
@@ -536,9 +536,9 @@ Default Title - $8
 
 ADD TO TOTE
 
-[![lysine-+-herbs-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBLHH_Lysine_Herbs_Healing_Lip_Balm_Primary_239x254.jpg?v=1580772468)](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
+[![lysine-+-herbs-lip-balm](https://www.100percentpure.com/cdn/shop/files/Lysine_Herbslipbalm_239x254.jpg?v=1730991455)](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
 
-![ Lysine + Herbs Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBLHH_Lysine_Herbs_Healing_Lip_Balm_Primary_220x.jpg?v=1580772468)
+![ Lysine + Herbs Lip Balm](//www.100percentpure.com/cdn/shop/files/Lysine_Herbslipbalm_220x.jpg?v=1730991455)
 
 ### [Lysine + Herbs Lip Balm](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
 
@@ -572,9 +572,9 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![cherry-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBOC_Cherry_Lip_Balm_Primary_239x254.jpg?v=1627032920)](https://www.100percentpure.com/products/cherry-lip-balm)
+[![cherry-lip-balm](https://www.100percentpure.com/cdn/shop/files/CherryBalm_239x254.jpg?v=1730991181)](https://www.100percentpure.com/products/cherry-lip-balm)
 
-![ Cherry Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBOC_Cherry_Lip_Balm_Primary_220x.jpg?v=1627032920)
+![ Cherry Lip Balm](//www.100percentpure.com/cdn/shop/files/CherryBalm_220x.jpg?v=1730991181)
 
 ### [Cherry Lip Balm](https://www.100percentpure.com/products/cherry-lip-balm)
 
@@ -628,7 +628,6 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Eye](https://www.100percentpure.com/collections/eye-makeup)
     * [Lip](https://www.100percentpure.com/collections/lips)
     * [Palettes](https://www.100percentpure.com/collections/natural-makeup-palettes-natural-gift-sets)
-    * [Brushes & Tools](https://www.100percentpure.com/collections/tools)
     * [Hair](https://www.100percentpure.com/collections/hair-products)
     * [Shampoo](https://www.100percentpure.com/collections/shampoo)
     * [Conditioner](https://www.100percentpure.com/collections/conditioner)
@@ -711,7 +710,6 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Eye](https://www.100percentpure.com/collections/eye-makeup)
     * [Lip](https://www.100percentpure.com/collections/lips)
     * [Palettes](https://www.100percentpure.com/collections/natural-makeup-palettes-natural-gift-sets)
-    * [Brushes & Tools](https://www.100percentpure.com/collections/tools)
 * [Skin Care](https://www.100percentpure.com/collections/skin-care)
     * [Cleansers](https://www.100percentpure.com/collections/cleansers)
     * [Toner](https://www.100percentpure.com/collections/natural-toner)
@@ -776,8 +774,6 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Lip](https://www.100percentpure.com/collections/lips)
         
     * [Palettes](https://www.100percentpure.com/collections/natural-makeup-palettes-natural-gift-sets)
-        
-    * [Brushes & Tools](https://www.100percentpure.com/collections/tools)
         
 * [Skin Care](https://www.100percentpure.com/collections/skin-care)
     
