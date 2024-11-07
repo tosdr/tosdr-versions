@@ -445,7 +445,7 @@ Unless otherwise specified, the Contract for Free Version shall be concluded for
 
 The continued use of Free Version by Customer shall be deemed as acceptance of the terms of this EULA (including without limitation to the Product Specification of Free Versions) and continuation of the Contract thereunder. This shall also apply if Customer indicates disagreement with the EULA by any act or declaration but still uses the Free Version thereafter.
 
-#### B.5.3. Extraordinary termination
+#### B.5.3. Extraordinary termination; Suspension
 
 TeamViewer is entitled to suspend the Services pursuant to sec. A.2.5 (iii), or terminate the Contract with immediate effect, in the event of a material breach, in particular without limitation to a violation of: sec. A.2.5 (Late payment), sec. A.4 (Data protection; use of Personal Information), sec. B.1.5 (Prohibited use), sec. B.3.1 (Lawful use), sec. B.3.2 (Export controls and economic sanctions), sec. B.7.4 (Compliant Usage).
 
