@@ -315,6 +315,14 @@ Europe's leading entertainment brand
     
     In the latest episode of _RTL stories – The podcast_, Isabell Ostermann, Senior Director Brand Management and Communications at RTL Group, discusses the RTL United rebranding project and balancing motherhood.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Isabell-Ostermann/)
     
+* [![slide-Covering the US election](/.galleries/images/US-elections_16-9.png?__scale=undefined&description=)
+    
+    Covering the US election
+    
+    07.11.2024
+    
+    Business units across RTL Group reported extensively on the US election with round-the-clock broadcasts, on-the-ground journalists and special formats.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Covering-the-US-election/)
+    
 * [![slide-RTL Deutschland goes Eurovision](/.galleries/images/Eurovision_16-9.jpg?__scale=undefined&description=)
     
     RTL Deutschland goes Eurovision
