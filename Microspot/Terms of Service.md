@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/3483.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1736.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -127,7 +127,7 @@ Gadgets](https://www.microspot.ch/fr/cms/gadget)
 
 Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0688-CM2-PS5-Pro-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTQzNjZ8aW1hZ2UvanBlZ3xhRFE1TDJoallTOHhNVGd3ZURNMU1GOUpNalJmTURZNE9GOURUVEpmVUZNMVgxQnliMTlHVWw5RFZFRXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4d05qZzRYME5OTWw5UVV6VmZVSEp2WDBaU1gwTlVRUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZTUxNjAxNTEyYzFlNTAxMTVmM2NmMjFlY2UxNjliNDA3MmNmM2M0MWI4M2RkYmE2NWFiMDg2YjkxMTdkMmQ0Nw&w=2360&q=75)](https://www.microspot.ch/fr/product/sony-playstation-5-pro-2000-gb-0014196596)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0688-CM2-PS5-Pro-FR-CTA-v2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTQzNjZ8aW1hZ2UvanBlZ3xhREl3TDJnNVlTOHhNVGd3ZURNMU1GOUpNalJmTURZNE9GOURUVEpmVUZNMVgxQnliMTlHVWw5RFZFRmZkakl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpFeE9EQjRNelV3WDBreU5GOHdOamc0WDBOTk1sOVFVelZmVUhKdlgwWlNYME5VUVY5Mk1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXw3NzA0NmQ5NmE5NjE1NWE5M2Q2NWNkZTEwNWExMmVhNTgzNjVkOWY3YzQxNjk2NTBhMGQ1MTBhZTE4NmMxZTMw&w=2360&q=75)](https://www.microspot.ch/fr/product/sony-playstation-5-pro-2000-gb-0014196596)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-05-Oktober-Mac-M4-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNTA4MnxpbWFnZS9qcGVnfGFEQTFMMmd5WXk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFZmVDJ0MGIySmxjbDlOWVdOZlRUUmZSbEpmUTFSQkxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOHhNVGd3ZURNMU1GOUpNalJmTURWZlQydDBiMkpsY2w5TllXTmZUVFJmUmxKZlExUkJMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxjN2Y0OWYxMmZkZDRjOGE0NjRmZjllYzE1YzUxMjE4ODQyN2NhNGQ5MjFlYTJmZDkzZjk4YjA4MWIxYTg2YjE1&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-05-Oktober-Mac-M4-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzA5MHxpbWFnZS9qcGVnfGFHTTRMMmcyWkM4NE1qaDRNelV3WDBreU5GOHdOVjlQYTNSdlltVnlYMDFoWTE5Tk5GOUdVbDlEVkVFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3lPSGd6TlRCZlNUSTBYekExWDA5cmRHOWlaWEpmVFdGalgwMDBYMFpTWDBOVVFTNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxjNGEzNzRmMzUyMjcwYWRmZTU4NjllZWRkZTgxMGQwNjQzODc5YTE1ZjE0MzA3ZTA2NWYzNzE2N2E2MWE4MzRj&w=2360&q=75)](https://www.microspot.ch/fr/cms/macbook-pro-m4-2024)
 
@@ -213,6 +213,10 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+
 [Frais de port gratuits pour livraison
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
@@ -220,10 +224,6 @@ Achetez comme vous aimez
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
