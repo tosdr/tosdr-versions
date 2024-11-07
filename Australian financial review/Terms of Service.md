@@ -306,30 +306,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Coles Group chief executive Leah Weckert told the Chanticleer brunch the top job was “something I had always aspired to”.](https://static.ffx.io/images/$zoom_0.3165%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_620%2C$y_77/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/dc147fad3e8f1a411102072a3bed4dfb08c29dfa)](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
+[![Nick Mann, regional CEO of Australia, Asia and New Zealand and rotating group CEO of Swisse’s parent company H&H Group, at Swisse’s office in Collingwood, Melbourne.](https://static.ffx.io/images/$zoom_0.5387%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_656%2C$y_52/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d1e52244f14863a310a64a9abab1bc5f595959ea)](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
 
-### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
+### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
 
-* Patrick Durkin
+* 54 mins ago
+* Euan Black
 
-* ### [This top fundie names the best business leaders she has met](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
+* ### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
     
-* ### [Why retail was the Bunnings MD’s third career choice, and why he stayed](https://www.afr.com/work-and-careers/leaders/why-retail-was-the-bunnings-md-s-third-career-choice-and-why-he-stayed-20241104-p5knqm)
+* ### [This top fundie names the best business leaders she has met](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![You, too, can make  Meatsmith’s Fig and Jamon Salad featured in their new cookbook. It’s a great gift idea, too.](https://static.ffx.io/images/$zoom_0.3713%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_335/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3d2690f9ea48d0b103004c3b8babafe6d06f8240)](https://www.afr.com/life-and-luxury/food-and-wine/jill-dupleix-s-easy-festive-menu-from-her-top-three-cookbooks-of-2023-20231030-p5efzq)
+[![ ](https://static.ffx.io/images/$zoom_0.99%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_81/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/87f97a12890a9dedc54988979cb6ee7a769fffef)](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-for-2-million-20-000-and-a-touch-over-2000-20241028-p5km02)
 
-### [Jill Dupleix’s easy festive menu from three top cookbooks of 2023](https://www.afr.com/life-and-luxury/food-and-wine/jill-dupleix-s-easy-festive-menu-from-her-top-three-cookbooks-of-2023-20231030-p5efzq)
+### [Jewellery for $2 million, $20,000 and a touch over $2000](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-for-2-million-20-000-and-a-touch-over-2000-20241028-p5km02)
 
-* 1 hr ago
-* Jill Dupleix
+* 54 mins ago
+* Eugenie Kelly
 
-* ### [The tricks to layering your jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/the-tricks-to-layering-your-jewellery-20241028-p5klut)
+* ### [Annoyed by all those driver alerts? Volvo’s working on it](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/annoyed-by-all-those-driver-alerts-volvo-s-working-on-it-20241023-p5kkuu)
     
-* ### [Good old tiles are making a comeback](https://www.afr.com/life-and-luxury/design/good-old-tiles-are-making-a-comeback-20241023-p5kkob)
+* ### [Jill Dupleix’s easy festive menu from three top cookbooks of 2023](https://www.afr.com/life-and-luxury/food-and-wine/jill-dupleix-s-easy-festive-menu-from-her-top-three-cookbooks-of-2023-20231030-p5efzq)
     
 
 [Rich List](https://www.afr.com/rich-list)
