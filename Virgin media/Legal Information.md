@@ -154,7 +154,9 @@ Looking for our terms and conditions? You've come to the right place. We've set 
     
 * [Terms and Conditions - Netflix](https://www.virginmedia.com/legal/netflix)
     
-* [Terms and Conditions - Disney+ Premium](https://www.virginmedia.com/legal/disney-plus)
+* [Terms and Conditions - Disney+](https://www.virginmedia.com/legal/disney-plus)
+    
+* [Terms and Conditions - Disney+ discount offers](https://www.virginmedia.com/legal/disney-plus-discount-offers)
     
 * [Terms and Conditions - Virgin TV Go](https://www.virginmedia.com/legal/fibre-optic-services-terms-conditions/virgin-tv-go)
     
