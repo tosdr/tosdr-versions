@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-189060573993)                      
+![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-189071938382)                      
 
 [Skip to main content](#main-content)
 
@@ -12,7 +12,7 @@ Search
 
 [![National Autism Resources](https://cdn11.bigcommerce.com/s-wkp9y2ej/images/stencil/266x109/national-logo_1717482994__30968.original.png "National Autism Resources")](https://nationalautismresources.com/)
 
-[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/b4195b50-79e8-013d-4b06-46f813a5d4ff/img/header-stk-lg.png)](https://nationalautismresources.com/)
+[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/002b5830-7da7-013d-27bd-4e6bf3c998bf/e/63504a50-7efc-013d-ab71-7e30ecc5f1d6/img/header-stk-lg.png)](https://nationalautismresources.com/)
 
 * [Teaching](https://nationalautismresources.com/classroom-materials-teaching-supplies/)
     
@@ -41,9 +41,9 @@ Search
     
     ### Toys & Gifts
     
-    [SHOP ALL TOYS & GIFTS](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
+    [SHOP GIFT GUIDE](https://nationalautismresources.com/autism-toys/)
     
-    * [Top Toys & Gifts](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
+    * [Holiday Toys & Gifts](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
     * [Teens & Adults](https://nationalautismresources.com/gifts/teens-adults/)
     * [Grade School](https://nationalautismresources.com/gifts/grade-school/)
     * [Preschool](https://nationalautismresources.com/gifts/preschool/)
@@ -57,13 +57,18 @@ Search
     * [Reinforcer Toys](https://nationalautismresources.com/toys/reinforcer-toys/)
     * [Manipulatives](https://nationalautismresources.com/manipulatives/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/b4195b50-79e8-013d-4b06-46f813a5d4ff/img/cat-2.png)
+    [![img](https://cdn11.bigcommerce.com/s-sre5ychh65/images/stencil/original/image-manager/holiday-gift-menu-banner.png)
     
-    ### Top Toys & Gifts
+    #### Need Help Finding
     
-    Browse our top toys & gift ideas for essential developmental skills
+    Perfect Gift Ideas?
+    -------------------
     
-    SHOP NOW](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
+    ### Holiday Gift Guide
+    
+    Shop top toys & gifts for developmental skills.
+    
+    SHOP GIFT GUIDE](https://nationalautismresources.com/autism-toys/)
     
 * [Calming](https://nationalautismresources.com/calming-products/)
     
@@ -76,7 +81,7 @@ Search
     * [Headphones](https://nationalautismresources.com/headphones/)
     * [Calm Lighting](https://nationalautismresources.com/calming/calm-lighting/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/b4195b50-79e8-013d-4b06-46f813a5d4ff/img/cat-3.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/002b5830-7da7-013d-27bd-4e6bf3c998bf/e/63504a50-7efc-013d-ab71-7e30ecc5f1d6/img/cat-3.png)
     
     ### Calming Favorites
     
@@ -97,7 +102,7 @@ Search
     * [Self Regulation](https://nationalautismresources.com/self-regulation/)
     * [Chewables - Oral Motor](https://nationalautismresources.com/oral-motor/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/b4195b50-79e8-013d-4b06-46f813a5d4ff/img/cat-4.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/002b5830-7da7-013d-27bd-4e6bf3c998bf/e/63504a50-7efc-013d-ab71-7e30ecc5f1d6/img/cat-4.png)
     
     ### Sensory Room Furniture
     
@@ -122,7 +127,7 @@ Search
     * [Weighted Vest FAQs](https://nationalautismresources.com/weighted-vest-faqs/)
     * [Weighted Blanket](https://nationalautismresources.com/blog/how-much-weight-should-your-weighted-blanket-have/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/b4195b50-79e8-013d-4b06-46f813a5d4ff/img/cat-5.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/002b5830-7da7-013d-27bd-4e6bf3c998bf/e/63504a50-7efc-013d-ab71-7e30ecc5f1d6/img/cat-5.png)
     
     ### 2024 Catalog
     
@@ -175,7 +180,7 @@ Search
     
     Go Back
     
-    * [Top Toys & Gifts](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
+    * [Holiday Toys & Gifts](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
     * [Teens & Adults](https://nationalautismresources.com/gifts/teens-adults/)
     * [Grade School](https://nationalautismresources.com/gifts/grade-school/)
     * [Preschool](https://nationalautismresources.com/gifts/preschool/)
@@ -327,7 +332,7 @@ Join our eNewsletter for updates, tips, and news!
 
 Email Address
 
-![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/b4195b50-79e8-013d-4b06-46f813a5d4ff/img/footer-logo.png)
+![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/002b5830-7da7-013d-27bd-4e6bf3c998bf/e/63504a50-7efc-013d-ab71-7e30ecc5f1d6/img/footer-logo.png)
 
 ### Account
 
