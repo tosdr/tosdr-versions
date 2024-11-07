@@ -885,30 +885,6 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kaden and Devin were awesome. So quick and helpful :)
-
-x x Madison 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-The best experience! They came on time, were very nice, and completed the removal very quickly.
-
-Zena Bania Columbus 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Arrived on time and did a great job!
-
-Paula Brake Columbus 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Quick, efficient, complete service.
 
 John Blanton Cincinnati 02/11/2024
@@ -925,17 +901,17 @@ Chauchau Pham Naples 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Isaiah and Cortney did a fantastic job. Friendly, professional and very efficient
+Justin and Paris did a fantastic job clearing out the condo for my dad!
 
-tye kuhlman Austin 02/11/2024
+Ellie Kozarec Cincinnati 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Justin and Paris did a fantastic job clearing out the condo for my dad!
+Isaiah and Cortney did a fantastic job. Friendly, professional and very efficient
 
-Ellie Kozarec Cincinnati 02/11/2024
+tye kuhlman Austin 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1013,17 +989,41 @@ David Zwiers Seattle 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Chaz and Noe were exceptional at their job! Explained pricing very well and took everything in an efficient and safe manner!
+Kaden and Devin were awesome. So quick and helpful :)
 
-Rene Ramirez Naples 01/11/2024
+x x Madison 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Dae and Antwone did amazing! So friendly :)
+The best experience! They came on time, were very nice, and completed the removal very quickly.
 
-Mia Oscarsson Seattle 01/11/2024
+Zena Bania Columbus 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Arrived on time and did a great job!
+
+Paula Brake Columbus 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Dylan and Davy were very helpful and fast got rid of everything in less than 5min
+
+Hanane Ahmed Seattle 01/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Keith and Chris did a great job removing some really heavy and unwieldy items from my basement. Thanks guys.
+
+Casey Stang Wisconsin 01/11/2024
 
 ### 
 
