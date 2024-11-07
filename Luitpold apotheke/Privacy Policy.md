@@ -662,4 +662,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=yafeppgbpyjjujtehjkduxpgrdvqsppn&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=luevgbfwgmdtyhsdxuzcygmwlkbwrinp&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
