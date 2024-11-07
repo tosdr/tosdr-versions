@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 636 utilisateurs actifs
+##### 733 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Python maintenant disponible dans Excel !](https://lecrabeinfo.net/python-maintenant-disponible-dans-excel.html) 
 * [Windows 10 : Microsoft dévoile le prix que vous devrez payer pour rester à jour en 2025](https://lecrabeinfo.net/windows-10-microsoft-devoile-le-prix-que-vous-devrez-payer-pour-rester-a-jour-en-2025.html)
 * [Windows 11 24H2 : la foire aux bugs continue !](https://lecrabeinfo.net/windows-11-24h2-la-foire-aux-bugs-continue.html)
-* [Windows 11 : comment créer des archives 7z ou TAR avec l’Explorateur de fichiers ? (sans logiciels tiers)](https://lecrabeinfo.net/windows-11-comment-creer-des-archives-7z-ou-tar-avec-lexplorateur-de-fichiers-sans-logiciels-tiers.html)
 
 ### Tendance
 
@@ -152,11 +152,11 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 904 membres
-* 941 articles
-* 26 861 commentaires
+* 67 907 membres
+* 942 articles
+* 26 867 commentaires
 * [2 662 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
-* [874 abonnés X](https://x.com/lecrabeinfo)
+* [873 abonnés X](https://x.com/lecrabeinfo)
 * [67 488 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
