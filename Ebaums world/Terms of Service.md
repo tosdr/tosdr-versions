@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![people get called out - you can only choose one, which door do you choose - time travel so i can go back to when i didn't follow this shitty account - im unvaccinated my super powers  include spreading a disease i dont have - do they make these in adult s](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/) [25 Foolish People Being Savagely Called Out Online](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/)
-    
-    [![a gallery of wtf and cringeworthy pics](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/) [59 Pics That Are The Epitome of Cringe](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/)
+    [![Insane Childhood Stories As Told By Twitter Users](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/) [19 Insane Childhood Stories As Told By Twitter Users](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/)
     
     [![Mike Rowe of Dirty Jobs is a con man who doesn't care about working people](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/) [The Dirty Con Job of Mike Rowe](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/)
     
-    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
+    [![23 People Share What Happened After Someone Won the Lottery](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/) [23 People Share The 'Aftermath' Of Someone They Knew Winning the Lottery](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/)
+    
+    [![24 People Share the Worst Case of Living in Denial They've Ever Seen](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/25-people-share-the-worst-case-of-living-in-denial-theyve-ever-seen/87496387/) [24 Embarrassing Cases of People Living in Denial](https://trending.ebaumsworld.com/pictures/25-people-share-the-worst-case-of-living-in-denial-theyve-ever-seen/87496387/)
     
 
 * Advertisement
