@@ -639,7 +639,7 @@ Contact Us
 
 [Privacy Policy](https://www.ifit.com/privacy-policy) [Cookie Policy](https://www.nordictrack.com/cookie-policy) [Mobile Terms and Conditions](https://www.ifit.com/mobile-terms-and-conditions) [Membership Policy](https://www.ifit.com/terms-of-membership) [Do not sell or share my personal information](https://www.nordictrack.com/cookie-policy)
 
-Pricing valid only within the Continental U.S. Site Last Updated on 06 Nov 2024 | Copyright ©2024 iFIT Inc.
+Pricing valid only within the Continental U.S. Site Last Updated on 07 Nov 2024 | Copyright ©2024 iFIT Inc.
 
 CLOSE
 
@@ -1013,4 +1013,4 @@ Will I be charged fees if I checkout with TD Fit Loan?
 
 No, there are no fees with this TD Fit Loan we are offering at checkout, with participating retailers. That means no late fees, no prepayment fees, no annual fees, and no fees to open or close your account.
 
-prdblc17
+prdblc19
