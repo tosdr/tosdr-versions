@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nikon-z50-ii-mirrorless-camera-one-touch-imaging-presets-picture-control/)
+    
+    [Nikon Z50 II Offers One-Touch Imaging Presets to Instantly Change Color Tones and Set the Mood for Any Scene](https://www.coolthings.com/nikon-z50-ii-mirrorless-camera-one-touch-imaging-presets-picture-control/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jansport-venture-pack-travel-backpack-40l-carry-on/)
     
     [JanSport Venture Pack Finally Adds a Travel Backpack to the Popular Outfit’s Range](https://www.coolthings.com/jansport-venture-pack-travel-backpack-40l-carry-on/)
@@ -52,11 +57,6 @@
     
     [Insta360 Ace Pro 2 Brings 8K Video, Dual AI Chips, and Improved Audio Recording](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ultimate-ears-miniroll-portable-bluetooth-speaker-rear-mounting-strap/)
-    
-    [Ultimate Ears Miniroll Speaker Can Be Mounted on Bag Straps, Handlebars, and a Whole Lot More](https://www.coolthings.com/ultimate-ears-miniroll-portable-bluetooth-speaker-rear-mounting-strap/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
