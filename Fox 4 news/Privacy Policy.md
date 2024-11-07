@@ -402,6 +402,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Boil water notice issued in Richardson: Avoid using tap water](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/boil-water.png?ve=1&tl=1)
+
+ ![Boil water notice issued in Richardson: Avoid using tap water](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/boil-water.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boil-water-notice-issued-richardson)
+
+### [Boil water notice issued in Richardson: Avoid using tap water](https://www.fox4news.com/news/boil-water-notice-issued-richardson)
+
+ [![Brie cheese sold at Aldi, other stores recalled over listeria concerns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/brie-cheese-recall.jpg?ve=1&tl=1)
+
+ ![Brie cheese sold at Aldi, other stores recalled over listeria concerns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/brie-cheese-recall.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/brie-cheese-recall-aldi-listeria-concerns-nov-5-2024)
+
+### [Brie cheese sold at Aldi, other stores recalled over listeria concerns](https://www.fox4news.com/news/brie-cheese-recall-aldi-listeria-concerns-nov-5-2024)
+
  [![Project 2025: Trump's alleged association and where it aims to go next](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/vlcsnap-2024-11-06-19h16m07s705.jpg?ve=1&tl=1)
 
  ![Project 2025: Trump's alleged association and where it aims to go next](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/vlcsnap-2024-11-06-19h16m07s705.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/project-2025-trumps-alleged-association-where-aims-go-next)
@@ -421,18 +433,6 @@ Please note that, in some instances, we may decline to honor your request where,
 Live Now
 
 ### [Election 2024: Live updates](https://www.fox4news.com/news/election-results-congress-republicans-house-kamala-harris-concede)
-
- [![Prominent figures share reactions following Trump’s election win](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183219023.jpg?ve=1&tl=1)
-
- ![Prominent figures share reactions following Trump’s election win](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183219023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/world-leaders-react-trump-victory)
-
-### [Prominent figures share reactions following Trump’s election win](https://www.fox4news.com/news/world-leaders-react-trump-victory)
-
- [![How North Texas voted in Cruz-Allred race vs. previous Senate races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110524-ktbc-cruz-hq-kdfweme002_20_28_46_1_mpg_00.13.22.30.jpg?ve=1&tl=1)
-
- ![How North Texas voted in Cruz-Allred race vs. previous Senate races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110524-ktbc-cruz-hq-kdfweme002_20_28_46_1_mpg_00.13.22.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/cruz-allred-voting-senate-trends-north-texas)
-
-### [How North Texas voted in Cruz-Allred race vs. previous Senate races](https://www.fox4news.com/election/cruz-allred-voting-senate-trends-north-texas)
 
 ###### [News](https://www.fox4news.com/news)
 
