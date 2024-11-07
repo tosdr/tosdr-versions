@@ -99,23 +99,23 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
+1. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://lawandcrime.com/wp-content/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
     
     ### ['Heartbreaking and unimaginable': Mom gave 2-year-old daughter to drug dealer while buying meth, girl hasn’t been seen since, police say](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
     
-2. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
+2. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://lawandcrime.com/wp-content/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
     
     ### ['I have a stolen ar15 and a target': Man threatens to 'carry out an attack' if Trump wins election, feds say](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
     
-3. [![Background: YouTube/KVIA. Inset: Dalia Olivas and Ricky Ballard (GoFundMe).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Dalia-Olivas-Ricky-Ballard-432x243.jpg)](https://lawandcrime.com/crime/soldier-admits-to-drinking-a-lot-at-gender-reveal-before-crashing-into-engaged-couple-and-killing-them-while-still-wearing-baby-blue-wristband-from-party-cops/)
+3. [![Background: YouTube/KVIA. Inset: Dalia Olivas and Ricky Ballard (GoFundMe).](https://lawandcrime.com/wp-content/uploads/2024/11/Dalia-Olivas-Ricky-Ballard-432x243.jpg)](https://lawandcrime.com/crime/soldier-admits-to-drinking-a-lot-at-gender-reveal-before-crashing-into-engaged-couple-and-killing-them-while-still-wearing-baby-blue-wristband-from-party-cops/)
     
     ### [Soldier admits to drinking 'a lot' at gender reveal before crashing into engaged couple and killing them while still wearing baby blue wristband from party: Cops](https://lawandcrime.com/crime/soldier-admits-to-drinking-a-lot-at-gender-reveal-before-crashing-into-engaged-couple-and-killing-them-while-still-wearing-baby-blue-wristband-from-party-cops/)
     
-4. [![Aileen Cannon appears inset against an image of Donald Trump pointing left.](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Cannon-Trump-Victors-432x243.jpg)](https://lawandcrime.com/high-profile/judge-aileen-cannon-emerges-as-one-of-the-2024-elections-most-influential-players-and-maybe-one-of-the-biggest-winners-as-ag-and-scotus-rumors-swirl/)
+4. [![Aileen Cannon appears inset against an image of Donald Trump pointing left.](https://lawandcrime.com/wp-content/uploads/2024/11/Cannon-Trump-Victors-432x243.jpg)](https://lawandcrime.com/high-profile/judge-aileen-cannon-emerges-as-one-of-the-2024-elections-most-influential-players-and-maybe-one-of-the-biggest-winners-as-ag-and-scotus-rumors-swirl/)
     
     ### [Judge Aileen Cannon emerges as one of the 2024 election's most influential players — and maybe one of the biggest winners as AG and SCOTUS rumors swirl](https://lawandcrime.com/high-profile/judge-aileen-cannon-emerges-as-one-of-the-2024-elections-most-influential-players-and-maybe-one-of-the-biggest-winners-as-ag-and-scotus-rumors-swirl/)
     
-5. [![Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/factually-and-legally-incorrect-trump-appointed-judge-savages-gop-efforts-to-block-ballot-collection-in-georgia-tells-attorneys-to-read-the-boy-who-cried-wolf/)
+5. [![Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/factually-and-legally-incorrect-trump-appointed-judge-savages-gop-efforts-to-block-ballot-collection-in-georgia-tells-attorneys-to-read-the-boy-who-cried-wolf/)
     
     ### ['Factually and legally incorrect': Trump-appointed judge savages GOP efforts to block ballot collection in Georgia — tells attorneys to read 'The Boy Who Cried Wolf'](https://lawandcrime.com/high-profile/factually-and-legally-incorrect-trump-appointed-judge-savages-gop-efforts-to-block-ballot-collection-in-georgia-tells-attorneys-to-read-the-boy-who-cried-wolf/)
     
