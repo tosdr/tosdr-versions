@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-974436890d64c7c9996411a7bdc73d2f
+f744fc52b24ade4f131afb896de50b42
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm by 5 mm oval Czech glass beads](https://sojourner.biz/images/cache/glass/GL0307.200.jpg)](https://sojourner.biz/beads/glass/8-mm-by-5-mm-oval-czech-glass-beads.html "8 mm by 5 mm oval Czech glass beads")
+[![Raku beads](https://sojourner.biz/images/cache/glass/VB0002d.200.jpg)](https://sojourner.biz/beads/glass/raku-beads.html "Raku beads")
 
-#### [8 mm by 5 mm oval Czech glass beads](https://sojourner.biz/beads/glass/8-mm-by-5-mm-oval-czech-glass-beads.html "8 mm by 5 mm oval Czech glass beads")
+#### [Raku beads](https://sojourner.biz/beads/glass/raku-beads.html "Raku beads")
 
-$4.00
+$2.00
 
 ### Best Sellers
 
