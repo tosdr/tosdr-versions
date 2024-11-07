@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92021/aus-vs-pak-2nd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 2nd ODI - Preview")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 2nd unofficial Test - Stumps")[PRSW vs MLRW - PRSW Won](https://www.cricbuzz.com/live-cricket-scores/101341/prsw-vs-mlrw-17th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Melbourne Renegades Women, 17th Match - PRSW Won")[ENG vs WI - WI Won](https://www.cricbuzz.com/live-cricket-scores/95160/eng-vs-wi-3rd-odi-england-tour-of-west-indies-2024 "England v West Indies, 3rd ODI - WI Won")[AFG vs BAN - AFG Won](https://www.cricbuzz.com/live-cricket-scores/108769/afg-vs-ban-1st-odi-afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh, 1st ODI - AFG Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92021/aus-vs-pak-2nd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 2nd ODI - Preview")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100337/rsa-vs-ind-1st-t20i-india-tour-of-south-africa-2024 "South Africa v India, 1st T20I - Preview")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 2nd unofficial Test - Stumps")[MLSW vs SYSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101344/mlsw-vs-sysw-18th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Sixers Women, 18th Match - Preview")[PRSW vs MLRW - PRSW Won](https://www.cricbuzz.com/live-cricket-scores/101341/prsw-vs-mlrw-17th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Melbourne Renegades Women, 17th Match - PRSW Won")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     South Africa v India, 2024
     
-    [South Africa vs India](https://www.cricbuzz.com/live-cricket-scores/100337/rsa-vs-ind-1st-t20i-south-africa-v-india-2024 "South Africa v India, 1st T20I - Upcoming")
+    [South Africa vs India](https://www.cricbuzz.com/live-cricket-scores/100337/rsa-vs-ind-1st-t20i-south-africa-v-india-2024 "South Africa v India, 1st T20I - Preview")
     
     1st T20I
     
@@ -82,13 +82,15 @@ AllLive NowToday
     
     2nd ODI
     
+* New Zealand tour of Sri Lanka, 2024
+    
+    [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/108737/sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st T20I - Upcoming")
+    
+    1st T20I
+    
 * ICC CWC League Two 2023-27
     
-    [Netherlands vs Oman](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cwc-league-two-2023-27 "Netherlands v Oman, 45th Match - OMAN Won")
-    
-    45th Match
-    
-* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108935/uae-vs-oman-46th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 46th Match - OMAN Won")
+    [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108935/uae-vs-oman-46th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 46th Match - OMAN Won")
     
     46th Match
     
@@ -128,6 +130,14 @@ AllLive NowToday
     
     Elite Group D
     
+* [Himachal Pradesh vs Vidarbha](https://www.cricbuzz.com/live-cricket-scores/97599/hp-vs-vid-elite-group-b-ranji-trophy "Himachal Pradesh v Vidarbha, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Delhi vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97655/del-vs-cdg-elite-group-d-ranji-trophy "Delhi v Chandigarh, Elite Group D - Stumps")
+    
+    Elite Group D
+    
 * [Puducherry vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/97590/pdc-vs-guj-elite-group-b-ranji-trophy "Puducherry v Gujarat, Elite Group B - Stumps")
     
     Elite Group B
@@ -156,25 +166,17 @@ AllLive NowToday
     
     Elite Group B
     
-* [Himachal Pradesh vs Vidarbha](https://www.cricbuzz.com/live-cricket-scores/97599/hp-vs-vid-elite-group-b-ranji-trophy "Himachal Pradesh v Vidarbha, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Delhi vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97655/del-vs-cdg-elite-group-d-ranji-trophy "Delhi v Chandigarh, Elite Group D - Stumps")
-    
-    Elite Group D
-    
 * Ranji Trophy Plate
     
     [Sikkim vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98157/skm-vs-ngl-plate-ranji-trophy-plate "Sikkim v Nagaland, Plate - Stumps")
     
     Plate
     
-* [Manipur vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98143/mnp-vs-arnp-plate-ranji-trophy-plate "Manipur v Arunachal Pradesh, Plate - Stumps")
+* [Goa vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98152/goa-vs-miz-plate-ranji-trophy-plate "Goa v Mizoram, Plate - Stumps")
     
     Plate
     
-* [Goa vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98152/goa-vs-miz-plate-ranji-trophy-plate "Goa v Mizoram, Plate - Stumps")
+* [Manipur vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98143/mnp-vs-arnp-plate-ranji-trophy-plate "Manipur v Arunachal Pradesh, Plate - Stumps")
     
     Plate
     
@@ -184,11 +186,11 @@ AllLive NowToday
     
     4th Match
     
-* [Boland vs Warriors  LIVE](https://www.cricbuzz.com/live-cricket-scores/104754/bol-vs-war-5th-match-csa-four-day-series-division-one-2024-25 "Boland v Warriors, 5th Match - Live")
+* [Boland vs Warriors](https://www.cricbuzz.com/live-cricket-scores/104754/bol-vs-war-5th-match-csa-four-day-series-division-one-2024-25 "Boland v Warriors, 5th Match - Stumps")
     
     5th Match
     
-* [North West vs Knights  LIVE](https://www.cricbuzz.com/live-cricket-scores/104762/nwest-vs-kng-6th-match-csa-four-day-series-division-one-2024-25 "North West v Knights, 6th Match - Live")
+* [North West vs Knights](https://www.cricbuzz.com/live-cricket-scores/104762/nwest-vs-kng-6th-match-csa-four-day-series-division-one-2024-25 "North West v Knights, 6th Match - Stumps")
     
     6th Match
     
@@ -204,11 +206,11 @@ AllLive NowToday
     
     1st Match
     
-* [Italy vs Tanzania](https://www.cricbuzz.com/live-cricket-scores/108169/ita-vs-tan-3rd-match-icc-cwc-challenge-league-b-2024-26 "Italy v Tanzania, 3rd Match - Preview")
+* [Tanzania vs Italy](https://www.cricbuzz.com/live-cricket-scores/108169/tan-vs-ita-3rd-match-icc-cwc-challenge-league-b-2024-26 "Tanzania v Italy, 3rd Match - ITA Won")
     
     3rd Match
     
-* [Bahrain vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/108161/bhr-vs-hk-2nd-match-icc-cwc-challenge-league-b-2024-26 "Bahrain v Hong Kong, 2nd Match - Preview")
+* [Bahrain vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/108161/bhr-vs-hk-2nd-match-icc-cwc-challenge-league-b-2024-26 "Bahrain v Hong Kong, 2nd Match - HK Won")
     
     2nd Match
     
@@ -228,15 +230,11 @@ AllLive NowToday
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Mpumalanga Rhinos vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104340/mpr-vs-ncape-5th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Northern Cape, 5th Match - Upcoming")
-    
-    5th Match
-    
-* [Eastern Storm vs KwaZulu-Natal Inland](https://www.cricbuzz.com/live-cricket-scores/104332/estorm-vs-kznin-4th-match-csa-four-day-series-division-two-2024-25 "Eastern Storm v KwaZulu-Natal Inland, 4th Match - Toss")
+    [Eastern Storm vs KwaZulu-Natal Inland](https://www.cricbuzz.com/live-cricket-scores/104332/estorm-vs-kznin-4th-match-csa-four-day-series-division-two-2024-25 "Eastern Storm v KwaZulu-Natal Inland, 4th Match - Stumps")
     
     4th Match
     
-* [Border vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/104330/bor-vs-limpo-3rd-match-csa-four-day-series-division-two-2024-25 "Border v Limpopo, 3rd Match - Preview")
+* [Mpumalanga Rhinos vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104330/mpr-vs-ncape-3rd-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Northern Cape, 3rd Match - Delay")
     
     3rd Match
     
@@ -601,41 +599,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132353/up-warriorz-continue-to-keep-faith-in-homegrown-talent "UP Warriorz continue to keep faith in homegrown talent")
+
+[UP Warriorz continue to keep faith in homegrown talent](https://www.cricbuzz.com/cricket-news/132353/up-warriorz-continue-to-keep-faith-in-homegrown-talent "UP Warriorz continue to keep faith in homegrown talent")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132352/swashbuckler-jake-fraser-mcgurk-puts-in-the-hard-yards "Swashbuckler Jake Fraser-McGurk puts in the hard yards")
+
+[Swashbuckler Jake Fraser-McGurk puts in the hard yards](https://www.cricbuzz.com/cricket-news/132352/swashbuckler-jake-fraser-mcgurk-puts-in-the-hard-yards "Swashbuckler Jake Fraser-McGurk puts in the hard yards")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132351/south-africa-india-series-deep-in-ipl-auctions-shadow "South Africa-India series deep in IPL auction's shadow")
+
+[South Africa-India series deep in IPL auction's shadow](https://www.cricbuzz.com/cricket-news/132351/south-africa-india-series-deep-in-ipl-auctions-shadow "South Africa-India series deep in IPL auction's shadow")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132350/ranji-wrap-mumbai-make-inroads-after-shreyas-iyer-double-ton "Ranji Wrap: Mumbai make inroads after Shreyas Iyer double ton")
+
+[Ranji Wrap: Mumbai make inroads after Shreyas Iyer double ton](https://www.cricbuzz.com/cricket-news/132350/ranji-wrap-mumbai-make-inroads-after-shreyas-iyer-double-ton "Ranji Wrap: Mumbai make inroads after Shreyas Iyer double ton")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132349/mumbai-indians-release-issy-wong-gujarat-giants-let-go-of-sneh-rana "Mumbai Indians release Issy Wong; Gujarat Giants let go of Sneh Rana")
 
 [Mumbai Indians release Issy Wong; Gujarat Giants let go of Sneh Rana](https://www.cricbuzz.com/cricket-news/132349/mumbai-indians-release-issy-wong-gujarat-giants-let-go-of-sneh-rana "Mumbai Indians release Issy Wong; Gujarat Giants let go of Sneh Rana")
 
-33m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132348/knight-bates-keep-thunder-on-top-of-the-table "Knight, Bates keep Thunder on top of the table")
 
 [Knight, Bates keep Thunder on top of the table](https://www.cricbuzz.com/cricket-news/132348/knight-bates-keep-thunder-on-top-of-the-table "Knight, Bates keep Thunder on top of the table")
 
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132347/dhruv-jurel-makes-a-mark-in-tough-conditions "Dhruv Jurel makes a mark in tough conditions")
-
-[Dhruv Jurel makes a mark in tough conditions](https://www.cricbuzz.com/cricket-news/132347/dhruv-jurel-makes-a-mark-in-tough-conditions "Dhruv Jurel makes a mark in tough conditions")
-
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132346/carty-king-tons-seal-2-1-series-win "Carty and King's tons seal 2-1 series win")
-
-[Carty and King's tons seal 2-1 series win](https://www.cricbuzz.com/cricket-news/132346/carty-king-tons-seal-2-1-series-win "Carty and King's tons seal 2-1 series win")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132345/didnt-bowl-good-balls-in-first-spell-wanted-to-come-back-stronger-ghazanfar "Didn't bowl good balls in first spell, wanted to come back stronger: Ghazanfar")
-
-[Didn't bowl good balls in first spell, wanted to come back stronger: Ghazanfar](https://www.cricbuzz.com/cricket-news/132345/didnt-bowl-good-balls-in-first-spell-wanted-to-come-back-stronger-ghazanfar "Didn't bowl good balls in first spell, wanted to come back stronger: Ghazanfar")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132344/allah-ghazanfar-picks-six-as-bangladesh-implode-in-chase "Allah Ghazanfar picks six as Bangladesh implode in chase")
-
-[Allah Ghazanfar picks six as Bangladesh implode in chase](https://www.cricbuzz.com/cricket-news/132344/allah-ghazanfar-picks-six-as-bangladesh-implode-in-chase "Allah Ghazanfar picks six as Bangladesh implode in chase")
-
-19h ago
+9h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
