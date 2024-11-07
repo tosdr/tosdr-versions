@@ -153,6 +153,26 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Agencia EFE – Bias and Credibility](https://mediabiasfactcheck.com/agencia-efe-bias-and-credibility/)
+    
+    November 7, 2024
+    
+* [ARD.de – Bias and Credibility](https://mediabiasfactcheck.com/ard-de-bias-and-credibility/)
+    
+    November 7, 2024
+    
+* [Olean Times Herald – Bias and Credibility](https://mediabiasfactcheck.com/olean-times-herald-bias-and-credibility/)
+    
+    November 7, 2024
+    
+* [Western Advocate – Bias and Credibility](https://mediabiasfactcheck.com/western-advocate-bias/)
+    
+    November 7, 2024
+    
+* [Research & Polling Inc. – Bias and Credibility](https://mediabiasfactcheck.com/research-polling-inc-bias-and-credibility/)
+    
+    November 7, 2024
+    
 * [Liverpool World – Bias and Credibility](https://mediabiasfactcheck.com/liverpool-world-bias/)
     
     November 6, 2024
@@ -165,48 +185,28 @@ No related posts.
     
     November 6, 2024
     
-* [Lincolnshire Free Press – Bias and Credibility](https://mediabiasfactcheck.com/lincolnshire-free-press-bias/)
-    
-    November 6, 2024
-    
-* [Annual Review of Nutrition – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-nutrition-bias/)
-    
-    November 6, 2024
-    
-* [Defence Blog – Bias and Credibility](https://mediabiasfactcheck.com/defence-blog-bias-and-credibility/)
-    
-    November 5, 2024
-    
-* [Public Policy Institute of California (PPIC) – Bias and Credibility](https://mediabiasfactcheck.com/public-policy-institute-of-california-ppic-bias-and-credibility/)
-    
-    November 5, 2024
-    
-* [WCMU – NPR – Mount Pleasant – Bias and Credibility](https://mediabiasfactcheck.com/wcmu-npr-mount-pleasant-bias/)
-    
-    November 5, 2024
-    
 
 #### Recently Updated Pages
 
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 6, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 7, 2024
     
-* [Liverpool World – Bias and Credibility](https://mediabiasfactcheck.com/liverpool-world-bias/ "View Liverpool World – Bias and Credibility") - November 6, 2024
+* [Agencia EFE – Bias and Credibility](https://mediabiasfactcheck.com/agencia-efe-bias-and-credibility/ "View Agencia EFE – Bias and Credibility") - November 7, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 6, 2024
+* [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/ "View Changes/Corrections") - November 7, 2024
     
-* [Crops Journal – Bias and Credibility](https://mediabiasfactcheck.com/crops-journal-bias-and-credibility/ "View Crops Journal – Bias and Credibility") - November 6, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 7, 2024
     
-* [Deutschlandfunk – Bias and Credibility](https://mediabiasfactcheck.com/deutschlandfunk-bias-and-credibility/ "View Deutschlandfunk – Bias and Credibility") - November 6, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 7, 2024
     
-* [Lincolnshire Free Press – Bias and Credibility](https://mediabiasfactcheck.com/lincolnshire-free-press-bias/ "View Lincolnshire Free Press – Bias and Credibility") - November 6, 2024
+* [Washington Examiner – Bias and Credibility](https://mediabiasfactcheck.com/washington-examiner/ "View Washington Examiner – Bias and Credibility") - November 7, 2024
     
-* [Annual Review of Nutrition – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-nutrition-bias/ "View Annual Review of Nutrition – Bias and Credibility") - November 6, 2024
+* [ARD.de – Bias and Credibility](https://mediabiasfactcheck.com/ard-de-bias-and-credibility/ "View ARD.de – Bias and Credibility") - November 7, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 6, 2024
+* [Olean Times Herald – Bias and Credibility](https://mediabiasfactcheck.com/olean-times-herald-bias-and-credibility/ "View Olean Times Herald – Bias and Credibility") - November 7, 2024
     
-* [Electoral College Map 2024 – Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Harris vs. Trump") - November 6, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 7, 2024
     
-* [Defence Blog – Bias and Credibility](https://mediabiasfactcheck.com/defence-blog-bias-and-credibility/ "View Defence Blog – Bias and Credibility") - November 5, 2024
+* [Western Advocate – Bias and Credibility](https://mediabiasfactcheck.com/western-advocate-bias/ "View Western Advocate – Bias and Credibility") - November 7, 2024
     
 
 #### Today’s Top Page Views
