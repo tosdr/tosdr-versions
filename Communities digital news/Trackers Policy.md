@@ -26,59 +26,91 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183347794-1200x630.jpg)](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-4b-feminists-1200x630.jpg)](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
 
-Getty Images
+[Lefty chicks launch sex-strike ‘movement’ over Trump win, accidentally solve abortion issue](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
 
-[Pelosi, Donna Brazile exchange heated words at Kamala’s concession speech](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gw-joe-biden-4-1200x630.jpg)](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-1200x630.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+[Dem anger with Biden at a slow rolling boil after Trump wins, but who does Biden blame?](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
 
-[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-anti-trump-protests-1200x630.jpg)](https://americanwirenews.com/protests-begin-in-americas-big-and-broken-cities-to-fight-the-right/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Bezos-1200x630.jpg)](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
+[Protests begin in America’s big and broken cities to ‘fight the right’](https://americanwirenews.com/protests-begin-in-americas-big-and-broken-cities-to-fight-the-right/)
 
-[WaPo owner Bezos kisses the ring](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-haines-behar-1200x630.jpg)](https://americanwirenews.com/clueless-view-hosts-argue-for-regulation-of-social-media-double-down-on-identity-politics-over-trump-win/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpvictoryspeech-1200-x-628-1200x630.jpg)](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
+[Clueless ‘View’ hosts argue for regulation of social media, double down on identity politics over Trump win](https://americanwirenews.com/clueless-view-hosts-argue-for-regulation-of-social-media-double-down-on-identity-politics-over-trump-win/)
 
-[Speculation on Trump’s Cabinet begins](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-voting-2-1200x630.jpg)](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
+[Ben Shapiro brings more bad news for Democrats](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
 
-[Oh no! After implying she’ll drink Drano if Trump wins, Bette Midler’s X account disappears](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rick-wilson-1200x630.jpg)](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-greene-cheney-bannon-1200x630.jpg)](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
+[‘You were wrong on everything!’ Never-Trumper Rick Wilson ‘wrecked’ over arrogant Election Day prediction](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
 
-[Bannon, MTG eager for retribution against malicious actor Liz Cheney](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1186267294-1-1200x630.jpg)](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy-kimmel-and-stephen-colbert-1200x630.jpg)](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
+(Photo by LUDOVIC MARIN/POOL/AFP via Getty Images)
 
-[Let’s watch a sample of the bigmouth late-night hosts lose it over Trump victory](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
+[France’s Macron congratulates Trump on victory with an interesting choice of words](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lara-trump-1200x630.jpg)](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-trump-1200x630.jpg)](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
 
-[Lara Trump hailed as a hero: ‘You saved the election process in this country’](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
+[Melania has message about what husband has in store for America](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nyjames-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-past-due-bill-1200x630.jpg)
 
-### Slugga: Letitia James vows to get Trump – they just aren’t going to stop](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
+### ‘Explosive’ scandal brewing inside Kamala campaign proves America ‘dodged a bullet’](https://americanwirenews.com/explosive-scandal-brewing-inside-kamala-campaign-proves-america-dodged-a-bullet/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [FBI thwarts alleged white supremacist attack on Nashville power grid on Election Day eve](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
+### [Dems chased moderate Joe Manchin out, now lose his Senate seat](https://americanwirenews.com/dems-chased-moderate-joe-manchin-out-now-lose-his-senate-seat/)
 
-### [Former Obama spox tells Megyn Kelly he’s ‘so sad’ that she fell for Russian disinformation about Doug Emhoff](https://americanwirenews.com/former-obama-spox-tells-megyn-kelly-hes-so-sad-that-she-fell-for-russian-disinformation-about-doug-emhoff/)
+### [Musk trolls Trump-haters over victory with photo of himself in Oval office](https://americanwirenews.com/musk-trolls-trump-haters-over-victory-with-photo-of-himself-in-oval-office/)
 
-### [Maricopa County voting office defends restoring voter registration status of 98,000 unconfirmed citizens](https://americanwirenews.com/arizona-voting-office-defends-restoring-voter-registration-status-of-98000-unconfirmed-citizens/)
+### [Cardi B leads melodramatic celebrity meltdowns as Trump clobbers Kamala](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
 
-### [Actor Chris Pratt under fire after sharing his views on the election](https://americanwirenews.com/actor-chris-pratt-under-fire-after-sharing-his-views-on-the-election/)
+### [Body blow for Dems as FL voters reject abortion, dope amendments, DeSantis cheers big win](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
 
-### [Failed Trump assassin sends letter from jail with pre-election warning](https://americanwirenews.com/failed-trump-assassin-sends-letter-from-jail-in-pre-election-warning/)
+### [‘Witnessing this as I left the Trump victory party moved me to tears’](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
 
-### [Meghan McCain gets nasty ambush, called a ‘closet Trumper’ after remarks about women](https://americanwirenews.com/meghan-mccain-gets-nasty-ambush-called-a-closet-trumper-after-remarks-about-women/)
+### [Fans want a role for Dana White in Trump’s White House after election night speech](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-220x180.jpg)](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
+
+[Insult to injury: Walz even lost his home county to Trump](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gutfeld-220x180.jpg)](https://americanwirenews.com/gutfeld-holds-nothing-back-in-brutal-opener-on-americas-reckoning-were-well-on-our-fing-way/)
+
+[Gutfeld holds nothing back in brutal opener on America’s ‘reckoning’: ‘We’re well on our f\*\*\*ing way’](https://americanwirenews.com/gutfeld-holds-nothing-back-in-brutal-opener-on-americas-reckoning-were-well-on-our-fing-way/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-and-ana-navarro-220x180.jpg)](https://americanwirenews.com/scott-jennings-pleads-with-dems-to-respect-americas-mandate-and-back-off-trump-for-couple-of-years-of-peace/)
+
+[Scott Jennings pleads with Dems to respect America’s ‘mandate’ and back off Trump for ‘couple of years of peace’](https://americanwirenews.com/scott-jennings-pleads-with-dems-to-respect-americas-mandate-and-back-off-trump-for-couple-of-years-of-peace/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-serenade-220x180.jpg)](https://americanwirenews.com/alina-habba-real-housewives-alum-serenade-trump-with-victory-song/)
+
+[Alina Habba, ‘Real Housewives’ alum serenade Trump with victory song](https://americanwirenews.com/alina-habba-real-housewives-alum-serenade-trump-with-victory-song/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-avenattimsnbc-1200-x-628-220x180.jpg)](https://americanwirenews.com/creepy-porn-lawyer-now-making-nice-with-trump/)
+
+[‘Creepy porn lawyer’ now making nice with Trump](https://americanwirenews.com/creepy-porn-lawyer-now-making-nice-with-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chriscuomo1-1200-x-628-220x180.jpg)](https://americanwirenews.com/cuomo-mocks-megyn-kelly-to-bill-oreilly-i-wanna-be-protected-i-wanna-be-protected/)
+
+[Cuomo mocks Megyn Kelly to Bill O’Reilly: ‘I wanna be protected! I wanna be protected!’](https://americanwirenews.com/cuomo-mocks-megyn-kelly-to-bill-oreilly-i-wanna-be-protected-i-wanna-be-protected/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-schumer-220x180.jpg)](https://americanwirenews.com/senate-bully-schumer-pleads-with-new-gop-majority-to-embrace-bipartisan-bills/)
+
+[Senate bully Schumer pleads with new GOP majority to embrace ‘bipartisan’ bills](https://americanwirenews.com/senate-bully-schumer-pleads-with-new-gop-majority-to-embrace-bipartisan-bills/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
+
+[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Woods-220x180.jpg)](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
 
@@ -88,6 +120,12 @@ Getty Images
 
 [Bill Barr calls on prosecutors to heed voters’ message, dismiss pending Trump cases: ‘Do the right thing’](https://americanwirenews.com/bill-barr-calls-on-prosecutors-to-heed-voters-message-dismiss-pending-trump-cases-do-the-right-thing/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-stock-exchange-220x180.jpg)](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
+
+[‘There was relief’: Trump’s historic win drives record highs on Wall Street](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
+
+(Official White House Photo by Andrea Hanks)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rubio-220x180.jpg)](https://americanwirenews.com/rubio-dodges-sec-of-state-inquiry-says-us-to-pursue-pragmatic-foreign-policy-under-trump/)
 
 [Rubio dodges Sec of State inquiry, says US to pursue ‘pragmatic foreign policy’ under Trump](https://americanwirenews.com/rubio-dodges-sec-of-state-inquiry-says-us-to-pursue-pragmatic-foreign-policy-under-trump/)
@@ -96,15 +134,43 @@ Getty Images
 
 [Fox & Friends crows over Trump victory, suggests ‘wellness check’ on Obama, Clooney and Oprah](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_bannon-220x180.jpg)](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
+
+[Unfinished business: Bannon says DOJ, FBI will ‘pay the price’ for trying to destroy America](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-barbara-heineback-220x180.jpg)](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
+
+[‘Sore loser’: Ex-Carter White House staffer unloads on ‘classless’ Kamala Harris](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schumer-pelosi-220x180.jpg)](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
 
 [Kevin O’Leary: Obama, Pelosi and Schumer will have NO influence on Dems in 4 years](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
+
+[Liz Cheney speaks out on Trump win but NOBODY is buying what she’s selling](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-harris-220x180.jpg)](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
 
 [Kamala Harris mum, campaign says there are still ‘votes to count’](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
 
 (Official White House Photo by Lawrence Jackson)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-fires-whoopi-220x180.jpg)](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
+
+[Jubilant Trump supporter just fired Whoopi from ‘The View’](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalas-failure-220x180.jpg)](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
+
+[‘Literally not one county?’ Tapper FLOORED by map comparing Kamala’s abysmal failure to 2020](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-220x180.jpg)](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
+
+[Moping ‘Morning Joe’ panel admits Trump ‘knows our country better than we do’](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lara-trump-220x180.jpg)](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
+
+[Lara Trump hailed as a hero: ‘You saved the election process in this country’](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182894075-1-220x180.jpg)](https://americanwirenews.com/bill-oreilly-tells-maga-to-embrace-a-no-gloat-zone-and-avoid-retribution/)
 
@@ -115,76 +181,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chris-stirewalt-220x180.png)](https://americanwirenews.com/trump-owes-one-person-a-big-wet-kiss-for-his-win-stirewalt-says/)
 
 [Trump owes one person a ‘big wet kiss’ for his win, Stirewalt says](https://americanwirenews.com/trump-owes-one-person-a-big-wet-kiss-for-his-win-stirewalt-says/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-empire-state-building-220x180.jpg)](https://americanwirenews.com/liberals-horrified-as-empire-state-building-turns-red-to-celebrate-donald-trumps-victory-i/)
-
-[Liberals horrified as Empire State Building turns red to celebrate Donald Trump’s victory](https://americanwirenews.com/liberals-horrified-as-empire-state-building-turns-red-to-celebrate-donald-trumps-victory-i/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-aoc-cbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-dragged-for-election-day-tweet/)
-
-[AOC dragged for election day tweet](https://americanwirenews.com/aoc-dragged-for-election-day-tweet/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fauci-rf-pexels-handcuffs-220x180.jpg)](https://americanwirenews.com/this-will-not-go-well-for-fauci-americans-look-forward-to-trump-holding-doctor-death-accountable/)
-
-[‘This will not go well for Fauci’: Americans look forward to Trump holding ‘Doctor Death’ accountable](https://americanwirenews.com/this-will-not-go-well-for-fauci-americans-look-forward-to-trump-holding-doctor-death-accountable/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-cuban-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/top-kamala-surrogate-mark-cuban-quick-to-congratulate-trump-and-musk/)
-
-[Top Kamala surrogate Mark Cuban quick to congratulate Trump and Musk](https://americanwirenews.com/top-kamala-surrogate-mark-cuban-quick-to-congratulate-trump-and-musk/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2162326648-1-220x180.jpg)](https://americanwirenews.com/dems-chased-moderate-joe-manchin-out-now-lose-his-senate-seat/)
-
-[Dems chased moderate Joe Manchin out, now lose his Senate seat](https://americanwirenews.com/dems-chased-moderate-joe-manchin-out-now-lose-his-senate-seat/)
-
-(Photo by Chip Somodevilla/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-musk-sink-220x180.jpg)](https://americanwirenews.com/musk-trolls-trump-haters-over-victory-with-photo-of-himself-in-oval-office/)
-
-[Musk trolls Trump-haters over victory with photo of himself in Oval office](https://americanwirenews.com/musk-trolls-trump-haters-over-victory-with-photo-of-himself-in-oval-office/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cardib-1200-x-628-220x180.jpg)](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
-
-[Cardi B leads melodramatic celebrity meltdowns as Trump clobbers Kamala](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fl4-rond-1200-x-628-220x180.jpg)](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
-
-[Body blow for Dems as FL voters reject abortion, dope amendments, DeSantis cheers big win](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-supporters-220x180.png)](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
-
-[‘Witnessing this as I left the Trump victory party moved me to tears’](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-white-trump-220x180.jpg)](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
-
-[Fans want a role for Dana White in Trump’s White House after election night speech](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-220x180.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
-
-[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-220x180.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
-
-[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
-
-(Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-220x180.jpg)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
-
-[Where’s Joe? Where the hell is our CURRENT president? Just let Trump start early!](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
-
-(Official White House Photo by Cameron Smith)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stew-1200-x-628-220x180.jpg)](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
-
-[Jon Stewart’s profane on-air meltdown as Kamala crashes on election night](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-howard-stage-220x180.jpg)](https://americanwirenews.com/kamala-pulled-a-hillary/)
-
-[Kamala pulled a Hillary, deflated supporters stiffed](https://americanwirenews.com/kamala-pulled-a-hillary/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/bette-midler-suggests-shell-drink-a-bottle-of-drano-if-trump-wins-x-users-are-waiting/)
-
-[Bette Midler suggests she’ll drink a bottle of Drano if Trump wins, X users are waiting](https://americanwirenews.com/bette-midler-suggests-shell-drink-a-bottle-of-drano-if-trump-wins-x-users-are-waiting/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -272,29 +268,33 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randi-mahomes-1200x630.jpg)](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-1200x630.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
-[Patrick Mahomes’ mom endorses Trump at Monday Night Football game](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
+[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randi-mahomes-220x180.jpg)](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-220x180.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
-[Patrick Mahomes’ mom endorses Trump at Monday Night Football game](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
+[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-kamala-harris-donald-trump-split-220x180.jpg)](https://americanwirenews.com/republicans-in-california-furious-trump-is-not-at-top-of-ballot-you-have-to-click-to-find/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-220x180.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
 
-[Republicans in California furious Trump is not at top of ballot, you have to click to find](https://americanwirenews.com/republicans-in-california-furious-trump-is-not-at-top-of-ballot-you-have-to-click-to-find/)
+[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tarlov-220x180.png)](https://americanwirenews.com/you-got-something-against-my-mom-tarlov-triggered-as-tensions-rise-on-the-five/)
+(Getty Images)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
 
-[‘You got something against my mom?’ Tarlov triggered as tensions rise on ‘The Five’](https://americanwirenews.com/you-got-something-against-my-mom-tarlov-triggered-as-tensions-rise-on-the-five/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-220x180.jpg)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-giveaway-220x180.jpg)](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
+[Where’s Joe? Where the hell is our CURRENT president? Just let Trump start early!
 
-[PA judge spanks Soros-backed Philly DA over Musk $1 million giveaways](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
+(Official White House Photo by Cameron Smith)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprah-220x180.png)](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stew-1200-x-628-220x180.jpg)](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
 
-[Lying Oprah, say what?! ‘We will not have the opportunity to ever cast a ballot again,’ if Kamala loses](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
+[Jon Stewart’s profane on-air meltdown as Kamala crashes on election night](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-howard-stage-220x180.jpg)](https://americanwirenews.com/kamala-pulled-a-hillary/)
+
+[Kamala pulled a Hillary, deflated supporters stiffed](https://americanwirenews.com/kamala-pulled-a-hillary/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -324,9 +324,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kim-kardashian-1200x630.jpg)](https://americanwirenews.com/kim-kardashian-ripped-for-wearing-princess-dis-diamond-lined-cross-pendant-between-nearly-bare-breasts/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/skyler-robert-philippi-1200x630.jpg)](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
 
-[Kim Kardashian ripped for wearing Princess Di’s diamond-lined cross pendant between nearly bare breasts](https://americanwirenews.com/kim-kardashian-ripped-for-wearing-princess-dis-diamond-lined-cross-pendant-between-nearly-bare-breasts/)
+[FBI thwarts alleged white supremacist attack on Nashville power grid on Election Day eve](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/skyler-robert-philippi-220x180.jpg)](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
+
+[FBI thwarts alleged white supremacist attack on Nashville power grid on Election Day eve](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kim-kardashian-220x180.jpg)](https://americanwirenews.com/kim-kardashian-ripped-for-wearing-princess-dis-diamond-lined-cross-pendant-between-nearly-bare-breasts/)
 
@@ -343,9 +347,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelce-220x180.jpg)](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
 
 [Jason Kelce attacks fan, goes ballistic on guy for calling Taylor Swift’s boy toy the other F-word](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liepman-kcen-220x180.jpg)](https://americanwirenews.com/texas-news-anchor-overwhelmed-with-emotion-as-she-announces-co-anchors-passing/)
-
-[Texas news anchor overwhelmed with emotion as she announces co-anchor’s passing](https://americanwirenews.com/texas-news-anchor-overwhelmed-with-emotion-as-she-announces-co-anchors-passing/)
 
 © 2024. All Rights Reserved. American Wire News
