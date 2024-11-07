@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, November 5, 2024**
+**Thursday, November 7, 2024**
 
-**...Increased Moisture to Bring Elevated Rain Chances Across Peninsula and Coastal Panhandle; Greatest Chance Across South Florida and Keys...Breezy Winds To Develop South of I-4 Corridor through Key; Breezy Wind Gusts to Develop Statewide By Mid-Afternoon...Wind Advisories for Coastal Southeast Florida Due to Gusty Winds Through Early Wednesday Morning...Above Normal High Temperatures Statewide...Increasing Rain Chances Expanding Overnight Due to Tropical Moisture...High Risk for Rip Currents Along All Panhandle and East Coast Beaches Due to Dangerous Surf and Onshore Winds...Minor to Moderate Riverine Flooding Continues for Withlacoochee and St. Johns...NHC Continues to Monitor One (1) Named/Numbered Systems and One (1) Potential Disturbance in the Atlantic Basin; Tropical Storm Watches for Lower and Middle Keys...**
+**...High Pressure and Lingering Tail of Moisture from Hurricane Rafael to Allow For Isolated to Scattered Showers and Thunderstorms Across the State Today...Marginal Risk for Flash Flooding Along the Eastern Panhandle and Big Bend As Abundant Moisture Gives Way to Locally Heavy Downpours Over Already Saturated Grounds At Times; Flood Watch Remains In Effect For Madison and** **Inland Jefferson** **Counties...High Risk for Rip Currents, Ocean Swells, and Hazardous Beach and Boating Conditions Persist Statewide Today...Minor Saltwater Flooding Remains Possible Along the Keys At Times of High Tide...Mostly Dry Conditions Return Tonight As High Pressure Builds Westward With Isolated to Widely Scattered Showers Continuing Across North Florida...Areas of Patchy to Locally Dense Fog Possible Across North and Central Florida Overnight and Early Friday Morning...Minor to Moderate Flooding Persists Along Portions of the Withlacoochee and St. Johns Rivers...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
