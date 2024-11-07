@@ -151,6 +151,12 @@ YOUR OFFERS
     
     Dedicated to your safety
     
+    ![Times ebike award](https://aventon-images.imgix.net/files/TIME_WBB2024_Insta_1080x1080_Var01_1.jpg?v=1730931627&compress=auto&w=210)
+    
+    Time Magazine Award
+    
+    [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
+    
     [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
 * [EQUIPMENT](https://www.aventon.com/collections/all-equipment)
@@ -216,6 +222,13 @@ YOUR OFFERS
     
     Dedicated to your safety
     
+    ![Times ebike award](https://aventon-images.imgix.net/files/TIME_WBB2024_Insta_1080x1080_Var01_1.jpg?v=1730931627&compress=auto&w=210)
+    
+    Time Magazine Award
+    
+    [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
+    
+* [BLACK FRIDAY SALE](https://www.aventon.com/collections/ebikes)
 * [COMMUNITY](https://www.aventon.com/blogs/aventon_bikes)
     
     COMMUNITY
@@ -353,6 +366,12 @@ Open menu
     
     Dedicated to your safety
     
+    ![Times ebike award](https://aventon-images.imgix.net/files/TIME_WBB2024_Insta_1080x1080_Var01_1.jpg?v=1730931627&compress=auto&w=210)
+    
+    Time Magazine Award
+    
+    [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
+    
     * Shop By Category
     * Shop By Model
     
@@ -453,7 +472,7 @@ Open menu
     * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
     * [Shop All Components](https://www.aventon.com/collections/components)
     
-    * Accessories
+    * Accessories 30% off select accessories
     * Components
     
     * [Air Pumps](https://www.aventon.com/collections/pumps)
@@ -498,6 +517,7 @@ Open menu
     
     [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
+* [BLACK FRIDAY SALE](https://www.aventon.com/collections/ebikes)
 
 * [SUPPORT](javascript:void(0))
     
@@ -905,8 +925,6 @@ If you have any questions about how we maintain your personal information, or an
 
 * Via our website: https://www.aventon.com/pages/contact
 * By phone: (866) 300-3311
-
- 
 
 The latest on Aventon deals & gear
 
