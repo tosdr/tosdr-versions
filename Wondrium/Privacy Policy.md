@@ -999,7 +999,7 @@ Gifting Options
 
 © The Teaching Company Sales, LLC. All rights reserved.
 
-![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1730213773/frontend/Wondrium/default/en_US/images/logo.svg)
+![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1730926252/frontend/Wondrium/default/en_US/images/logo.svg)
 
 New Password Required
 
