@@ -241,9 +241,13 @@ Company
 * [Company News](https://castos.com/central/)
 * [Promise to the Environment](https://castos.com/central/our-promise-to-the-environment/)
 * [Systems Status](https://status.castos.com/)
-* [Careers](https://castos.com/careers/)
 * [What’s New](https://castos.com/category/development/)
 * [Reviews](https://castos.com/reviews/)
+* [Payments Policy](https://castos.com/payments-policy/)
+* [Refund Policy](https://castos.com/refund-policy/)
+* Castos, Inc  
+    1209 North Orange St.  
+    Wilmington, DE 19801
 
 Product
 -------
@@ -262,5 +266,6 @@ Product
 * [Press](https://castos.com/press/)
 * [Privacy](https://castos.com/privacy/)
 * [Terms](https://castos.com/terms-of-service/)
+* [Disclaimer](https://castos.com/disclaimer/)
 
 © 2024, Castos Inc. All Rights Reserved.
