@@ -85,7 +85,6 @@ DRF.com News Search
  Horse/Trainer/Jockey name
 
 * Horse Racing Events
-    * [Breeders' Cup](https://www.drf.com/breeders-cup)
     * [Road to the Derby](https://www.drf.com/derby-watch)
     * [Hong Kong](https://www.drf.com/horse-racing-tracks/hong-kong-racing)
     * [More](https://www.drf.com/race-entries)
@@ -97,7 +96,7 @@ DRF.com News Search
     * [Breeding](https://www.drf.com/breeding)
     * [More](https://www.drf.com/news/all-news)
 * Tracks
-    * [Belmont at the Big A](https://www.drf.com/horse-racing-tracks/belmont-at-the-big-a)
+    * [Aqueduct](https://www.drf.com/horse-racing-tracks/aqueduct)
     * [Churchill Downs](https://www.drf.com/horse-racing-tracks/churchill-downs)
     * [Del Mar](https://www.drf.com/horse-racing-tracks/del-mar)
     * [Gulfstream Park](https://www.drf.com/horse-racing-tracks/gulfstream-park)
