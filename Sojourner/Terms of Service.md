@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b0c77117918cf1ea75778ea898eefd58
+e34d7abf0120afcbe0b0ed2b553757b1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm aqua shadow round beads](https://sojourner.biz/images/cache/glass/GL0076.200.jpg)](https://sojourner.biz/beads/glass/6-mm-aqua-shadow-round-beads.html "6 mm aqua shadow round beads")
+[![Majestic black onyx necklace](https://sojourner.biz/images/cache/jewelry/N0078.200.jpg)](https://sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
 
-#### [6 mm aqua shadow round beads](https://sojourner.biz/beads/glass/6-mm-aqua-shadow-round-beads.html "6 mm aqua shadow round beads")
+#### [Majestic black onyx necklace](https://sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
 
-$7.00
+$110.00
 
 ### Best Sellers
 
