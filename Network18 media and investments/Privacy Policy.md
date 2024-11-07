@@ -128,11 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [WPL 2025 Retentions](https://www.news18.com/cricket/wpl-2025-player-retention-live-updates-deadline-full-list-rcb-mi-dc-upw-gg-november-7-mandhana-harmanpreet-lanning-mooney-healy-liveblog-9112494.html)
+    * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
+    * [Canada Visa Policy](https://www.news18.com/world/canada-overhauls-visa-policy-ends-ten-year-tourist-visa-validity-9112143.html)
     * [Donald Trump](https://www.news18.com/world/new-faces-loyal-allies-trump-taps-tulsi-gabbard-elon-musk-rfk-jr-for-transition-9111747.html)
-    * [US Election Results](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-    * [Ben Affleck](https://www.news18.com/movies/ben-affleck-comments-on-ex-wife-jennifer-lopez-3-months-after-divorce-we-believed-in-9111746.html)
-    * [Ind vs SA](https://www.news18.com/cricket/mayank-yadav-out-5-players-in-complete-list-of-changes-in-team-india-for-south-africa-t20is-9110571.html)
-    * [Petticoat Cancer](https://www.news18.com/india/petticoat-cancer-do-you-wear-your-saree-like-this-study-says-you-are-at-risk-9111102.html)
+    * [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-varun-dhawan-and-samantha-ruth-prabhus-steamy-kiss-scene-goes-viral-9112070.html)
+    * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -168,11 +169,12 @@ Follow us on
 
 In Trends:
 
+* [WPL 2025 Retentions](https://www.news18.com/cricket/wpl-2025-player-retention-live-updates-deadline-full-list-rcb-mi-dc-upw-gg-november-7-mandhana-harmanpreet-lanning-mooney-healy-liveblog-9112494.html)
+* [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
+* [Canada Visa Policy](https://www.news18.com/world/canada-overhauls-visa-policy-ends-ten-year-tourist-visa-validity-9112143.html)
 * [Donald Trump](https://www.news18.com/world/new-faces-loyal-allies-trump-taps-tulsi-gabbard-elon-musk-rfk-jr-for-transition-9111747.html)
-* [US Election Results](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-* [Ben Affleck](https://www.news18.com/movies/ben-affleck-comments-on-ex-wife-jennifer-lopez-3-months-after-divorce-we-believed-in-9111746.html)
-* [Ind vs SA](https://www.news18.com/cricket/mayank-yadav-out-5-players-in-complete-list-of-changes-in-team-india-for-south-africa-t20is-9110571.html)
-* [Petticoat Cancer](https://www.news18.com/india/petticoat-cancer-do-you-wear-your-saree-like-this-study-says-you-are-at-risk-9111102.html)
+* [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-varun-dhawan-and-samantha-ruth-prabhus-steamy-kiss-scene-goes-viral-9112070.html)
+* [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -426,7 +428,7 @@ News18 App
 
  [_![app download](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "app download")_ Download Now](https://onelink.to/eng-web-other)
 
-[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
+[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf)
 
 * [About Us](https://www.news18.com/about_us/)
 * [Cookie Policy](https://www.news18.com/cookie-policy.html)
@@ -440,4 +442,4 @@ News18 App
 
 CNN name, logo and all associated elements ® and © 2024 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, displayed with permission. Use of the CNN name and/or logo on or as part of NEWS18.com does not derogate from the intellectual property rights of Cable News Network in respect of them. © Copyright Network18 Media and Investments Ltd 2024. All rights reserved.
 
-[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
+[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf)
