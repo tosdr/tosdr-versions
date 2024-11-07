@@ -39,12 +39,13 @@
     
     * [DocsPlus overview](https://cricksoft.com/docsplus/)
     * [Features](https://cricksoft.com/docsplus/features/)
+    * [Exam access](https://cricksoft.com/docsplus/features/provide-access-to-exams/)
     * [Success stories](https://cricksoft.com/docsplus/success-stories/)
     * [Pricing](https://cricksoft.com/docsplus/pricing/)
     * [Free webinars](https://cricksoft.com/docsplus/free-webinars/)
     * [Free consultation](https://cricksoft.com/docsplus/free-consultation/)
     * [LearningGrids](https://cricksoft.com/docsplus/learninggrids/)
-    * [DocsPlus for 16+](https://cricksoft.com/docsplus-for-16/)
+    * [DocsPlus for 16+](https://cricksoft.com/docsplus/docsplus-for-16/)
     
     Training & Support
     
