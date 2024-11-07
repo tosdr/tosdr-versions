@@ -675,7 +675,6 @@
             * [ ]  [Data Science](https://handbook.gitlab.com/handbook/engineering/development/data-science/)
                 * [ ]  [AI-Powered Stage](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/)
                     * [ ]  [AI Framework Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/ai-framework/)
-                        * [ ]  [AI Model Migration Playbook](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/ai-framework/model-migration/)
                     * [ ]  [AI Model Validation Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/model-validation/)
                         * [ ]  [Projects](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/model-validation/projects/)
                             * [ ]  [UnReview Overview](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/model-validation/projects/unreview/)
