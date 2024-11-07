@@ -166,7 +166,7 @@ We reserve the right to remove Content alleged to be infringing without prior no
 
   SNOW Corp.  
   Attn: Copyright Agent  
-  8th floor, 131, Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea
+  14-15F Green Factory, 6, Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
 
   E-mail: [snow\_support@snowcorp.com](mailto:snow_support@snowcorp.com)
 
