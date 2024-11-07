@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
+[### Will Trump still face lawsuits? Will he use Justice Department to sue his enemies?](https://www.csmonitor.com/USA/Justice/2024/1107/trump-justice-department-retribution-trials "Will Trump still face lawsuits? Will he use Justice Department to sue his enemies?")
+
 [### Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’](https://www.csmonitor.com/World/Europe/2024/1106/ukraine-war-trump-election-russia "Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’")
 
 [### Cargo packages waiting for North American flights ignited. Officials blame Russia.](https://www.csmonitor.com/World/Europe/2024/1106/Russian-sabotage-explosive-devices-planes-United-States "Cargo packages waiting for North American flights ignited. Officials blame Russia.")
-
-[### ‘An act of madness’: Protests erupt after Netanyahu fires defense minister Yoav Gallant](https://www.csmonitor.com/World/Middle-East/2024/1106/Israel-Gaza-Netanyahu-Yoav-Gallant-Hamas-Hezbollah "‘An act of madness’: Protests erupt after Netanyahu fires defense minister Yoav Gallant")
 
 * * *
 
