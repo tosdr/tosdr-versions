@@ -430,6 +430,14 @@ Stay up to date with the latest Hug Sleep offers and product availability!
 
 © 2024, [Hug Sleep Inc.](https://hugsleep.com/)
 
+* [Shop](https://hugsleep.com/products/sleep-pod)
+* [How It Works](https://hugsleep.com/pages/how-to-use)
+* [About Us](https://hugsleep.com/pages/our-story)
+* [Contact](https://hugsleep.com/pages/contact-us)
+* [Accessibility](https://hugsleep.com/pages/accessibility)
+* [Blog](https://hugsleep.com/blogs/news)
+* [Privacy Policy](https://hugsleep.com/policies/privacy-policy)
+
 Hug Sleep Inc. products are protected by Pat.: 10,463,179, 10,842,202 & 11,116,338 and other protections
 
 * Choosing a selection results in a full page refresh.
