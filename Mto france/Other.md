@@ -154,6 +154,7 @@ PUBLIC - Menu burger
         * [Les océans](https://meteofrance.com/comprendre-la-meteo/oceans)
     * [Comprendre la Vigilance météo](https://meteofrance.com/comprendre-la-vigilance "Comprendre la Vigilance")
     * [Éducation](https://meteofrance.com/education "Education")
+        * [Nos actualités pour l'Éducation](https://meteofrance.com/education/nos-actualites-pour-leducation)
         * [Comprendre la météo](https://meteofrance.com/education/comprendre-la-meteo)
         * [Comprendre le climat](https://meteofrance.com/education/comprendre-le-climat)
         * [Partenariats éducatifs](https://meteofrance.com/education/partenariats-educatifs)
