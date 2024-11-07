@@ -170,7 +170,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Code](https://github.com/gorhill/uBlock)
 * [Issues 12](https://github.com/gorhill/uBlock/issues)
-* [Pull requests 4](https://github.com/gorhill/uBlock/pulls)
+* [Pull requests 3](https://github.com/gorhill/uBlock/pulls)
 * [Actions](https://github.com/gorhill/uBlock/actions)
 * [Projects 0](https://github.com/gorhill/uBlock/projects)
 * [Wiki](https://github.com/gorhill/uBlock/wiki)
