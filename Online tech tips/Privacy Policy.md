@@ -183,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![ - preview-media-1-reboot-wifi-feature-img](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-reboot-wifi-feature-img-130x85.png "preview-media-1-reboot-wifi-feature-img - Online Tech Tips")](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")
+    
+    [How to Reboot a WiFi Router](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")Nov 6, 2024
+    
 * [![ - preview-media-1-snapchat-featured](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-snapchat-featured-130x85.png "preview-media-1-snapchat-featured - Online Tech Tips")](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")
     
     [How to See Mutual Friends On Snapchat](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")Nov 4, 2024
@@ -194,10 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-130x85.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")
     
     [OpenAI Launches ChatGPT Search to Battle Google and Bing Search](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")Nov 1, 2024
-    
-* [![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1-130x85.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")
-    
-    [WhatsApp Launches Cloud-Based Contact Managment Feature](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")Oct 29, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
