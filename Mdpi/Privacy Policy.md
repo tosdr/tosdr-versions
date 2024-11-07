@@ -13,8 +13,8 @@ Information
 
 [Open Access Policy](https://www.mdpi.com/openaccess) [Institutional Open Access Program](https://www.mdpi.com/ioap) [Special Issues Guidelines](https://www.mdpi.com/special_issues_guidelines) [Editorial Process](https://www.mdpi.com/editorial_process) [Research and Publication Ethics](https://www.mdpi.com/ethics) [Article Processing Charges](https://www.mdpi.com/apc) [Awards](https://www.mdpi.com/awards) [Testimonials](https://www.mdpi.com/testimonials)
 
-[Author Services
----------------](https://www.mdpi.com/authors/english)
+[Editing Services
+----------------](https://www.mdpi.com/authors/english)
 
 Initiatives
 -----------
@@ -56,11 +56,11 @@ Original Submission Date Received: .
 
 You seem to have javascript disabled. Please note that many of the page functionalities won't work as expected without javascript enabled.
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1730377253 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1730990522 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 [_clear_](#) [_zoom\_out\_map_](https://www.mdpi.com/toggle_desktop_layout_cookie "Toggle desktop layout") [_search_](#) [_menu_](# "MDPI main page")
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1730377253 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1730990522 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 * [Journals](https://www.mdpi.com/about/journals)
     * * [Active Journals](https://www.mdpi.com/about/journals)
@@ -87,7 +87,7 @@ You seem to have javascript disabled. Please note that many of the page function
         * [Awards](https://www.mdpi.com/awards)
         * [Testimonials](https://www.mdpi.com/testimonials)
         
-* [Author Services](https://www.mdpi.com/authors/english)
+* [Editing Services](https://www.mdpi.com/authors/english)
 * [Initiatives](https://www.mdpi.com/about/initiatives)
     * * [Sciforum](https://sciforum.net/)
         * [MDPI Books](https://www.mdpi.com/books)
@@ -388,7 +388,7 @@ This Privacy Policy was last updated on 4 November 2024.
 
 [LinkedIn](https://www.linkedin.com/company/mdpi) [Facebook](https://www.facebook.com/MDPIOpenAccessPublishing) [Twitter](https://twitter.com/MDPIOpenAccess)
 
-![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1730377253 "MDPI Open Access Journals")
+![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1730990522 "MDPI Open Access Journals")
 
 Subscribe to receive issue release notifications and newsletters from MDPI journals
 
