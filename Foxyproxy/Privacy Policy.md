@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-My review is that it worked perfectly. I will use again when abroad for more than a weekend (used it for iPlayer outside the UK).
+I was very happy with the service... I'm just low on cash right now. As soon as things are better I'll be subscribing. Thanks.
 
-e.norris@mac.com
+David Rowell
