@@ -39,7 +39,7 @@
     | --- | --- |
     | ![GL-M2](https://static.gl-inet.com/www/images/products/general/product-table/table_sim-eiotclub.png) | ###### Accessories<br><br>[Phone Holder](https://store.gl-inet.com/products/magnetic-phone-holder)  <br>[Travel router pouch bag](https://store.gl-inet.com/products/products-travel-gadget-organizer-pouch-case-hard-drive-bag-for-chargers-cables-travel-routers)  <br>[eSIM](https://store.gl-inet.com/products/esim-experience-seamless-connectivity-with-gl-inet-esim)  <br>[SIM card](https://store-us.gl-inet.com/collections/sim-card) |
     
-    [All Product](https://www.gl-inet.com/products/) | [Product Comparison](https://www.gl-inet.com/compare/)
+    [All Products](https://www.gl-inet.com/products/) | [Product Comparison](https://www.gl-inet.com/compare/)
     
 * [Business](https://www.gl-inet.com/business/)
     
