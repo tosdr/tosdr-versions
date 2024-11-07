@@ -570,6 +570,10 @@ _For users in Thailand,_
 Name: Grabtaxi (Thailand) Co., Ltd. (Attention: Grab Privacy Office)  
 Address: 252 SPE Tower, 10th floor, Phahonyothin Rd,Samsen Nai, Phaya Thai, Bangkok 10400, Thailand 
 
+_For users in Vietnam,_  
+Name: Grab Company Limited (Attention: Grab Privacy Office)  
+Address: Mapletree Business Centre, 1060 Nguyen Van Linh, Tan Phong Ward, District 7, Ho Chi Minh City, Vietnam
+
 _For users in other countries,_  
 Name: c/o Grab Holdings Limited. (Attention: Grab Privacy Office)  
 Address: 3 Media Close, Singapore 138498
