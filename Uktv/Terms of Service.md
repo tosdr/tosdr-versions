@@ -10,7 +10,7 @@ Last updated: November 2024
 
 Welcome to our Digital Services (defined below) where you can use our digital services and applications known as U, including on demand programme services, live simulcast streams (which are live streams simultaneously available on different platforms), programming information and other related services (the **"Digital Services"**).
 
-These Terms and Conditions (the **"Terms and Conditions"**) apply to our websites at [corporate.uktv.co.uk](https://corporate.uktv.co.uk/), [https://uandus.uktv.co.uk/](https://uandus.uktv.co.uk/), [uktvventures.co.uk](https://www.uktvventures.co.uk/), [pressoffice.uktv.co.uk](https://pressoffice.uktv.co.uk/) and [u.co.uk](https://u.co.uk/) (**“Our Websites”**) and to the provision and use of Our Digital Services. The Digital Services can be accessed via Our Websites and the ‘U’ mobile app (the “**App**”). Our Websites, the App and The Digital Services are operated and maintained by or on behalf of UKTV Media Limited ( a company registered in England and Wales with company number 04266373) (**"UKTV"**, **"We"**, **“Our”** or **"Us"**) with registered address at 10 Hammersmith Grove, London W6 7AP. See section 11 ‘Contact Us’ for details of how to get in touch with Us.
+These Terms and Conditions (the **"Terms and Conditions"**) apply to our websites at [corporate.uktv.co.uk](https://corporate.uktv.co.uk/), [https://uandus.uktv.co.uk/](https://uandus.uktv.co.uk/), [uktvventures.co.uk](https://www.uktvventures.co.uk/), [pressoffice.uktv.co.uk](https://pressoffice.uktv.co.uk/), [https://uandgold.co.uk](https://uandgold.co.uk/)/, and [u.co.uk](https://u.co.uk/) (**“Our Websites”**) and to the provision and use of Our Digital Services. The Digital Services can be accessed via Our Websites and the ‘U’ mobile app (the “**App**”). Our Websites, the App and The Digital Services are operated and maintained by or on behalf of UKTV Media Limited ( a company registered in England and Wales with company number 04266373) (**"UKTV"**, **"We"**, **“Our”** or **"Us"**) with registered address at 10 Hammersmith Grove, London W6 7AP. See section 11 ‘Contact Us’ for details of how to get in touch with Us.
 
 ##### 1 TERMS
 
@@ -23,8 +23,8 @@ These Terms and Conditions (the **"Terms and Conditions"**) apply to our websit
 | U   | [U Cookie policy](https://u.co.uk/cookie-policy) |
 | UKTV Corporate website | [Corporate website cookie policy](https://corporate.uktv.co.uk/legal/cookie-policy) |
 | UKTV Press website | [Press website cookie policy](https://pressoffice.uktv.co.uk/legal/cookie-policy) |
-| Alibi | [Alibi cookie policy](https://alibi.uktv.co.uk/legal/alibi-cookie-policy) |
-| Gold | [Gold cookie policy](https://gold.uktv.co.uk/legal/gold-cookie-policy) |
+| U&Alibi | [Alibi cookie policy](https://alibi.uktv.co.uk/legal/alibi-cookie-policy) |
+| U&Gold | [Gold cookie policy](https://gold.uktv.co.uk/legal/gold-cookie-policy) |
 | U&Us | [U&Us cookie policy](https://uandus.uktv.co.uk/p/cookies) |
 
   
