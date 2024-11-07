@@ -159,14 +159,14 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 [Québécois 101 : Le top 5 des expressions québécoises](https://wanderingfrench.com/qc-009/)
 -------------------------------------------------------------------------------------------
 
-6 985 visites
+6 988 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/07/quebecois-101-8-expressions-queb-125x70.jpg)](https://wanderingfrench.com/qc012/ "Québécois 101 : 8 expressions québécoises inspirées du hockey")
 
 [Québécois 101 : 8 expressions québécoises inspirées du hockey](https://wanderingfrench.com/qc012/)
 ---------------------------------------------------------------------------------------------------
 
-6 376 visites
+6 379 visites
 
 #### Vidéos les plus commentées
 
