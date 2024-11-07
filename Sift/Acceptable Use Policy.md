@@ -21,7 +21,7 @@
     * By Industry
         
         * [E-Commerce](https://sift.com/solutions/ecommerce)
-        * [Digital Goods](https://sift.com/solutions/digital-goods-services)
+        * [Internet & Software](https://sift.com/solutions/internet-software)
         * [Fintech](https://sift.com/solutions/fintech)
         * [iGaming](https://sift.com/solutions/igaming)
         * [Travel & Transportation](https://sift.com/solutions/travel-transportation)
