@@ -264,7 +264,7 @@ Please Note:  This calculator uses the current network difficulty and default p
 
 Hashrate
 
-Revenue  Inclusive of DOGE and BEL
+Revenue  Inclusive of DOGE and BELLS
 
 /day
 
@@ -284,7 +284,7 @@ DOGE Price
 
 $
 
-BEL Price
+BELLS Price
 
 $
 
