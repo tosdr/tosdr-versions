@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Turnabout Trump (485)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (485 posts)")
-* [The Pub - Zeina V (IC-OPEN) (107)](https://forum.nationstates.net/viewtopic.php?t=555406&f=4&view=unread#unread ""The Pub - Zeina V (IC-OPEN)" (107 posts)")
-* [Transformers: Electric Trepidation (11,157)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (11,157 posts)")
-* [Where do Democrats go from here? (198)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (198 posts)")
-* [Grant AN's wish then curse it (997)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (997 posts)")
+* [Where do Democrats go from here? (301)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (301 posts)")
+* [2023-24 Israel-Iran proxy conflict (1,440)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,440 posts)")
+* [Sponsors Needed for Natkr Prime Leagu… (25)](https://forum.nationstates.net/viewtopic.php?t=556901&f=6&view=unread#unread ""Sponsors Needed for Natkr Prime League Clubs" (25 posts)")
+* [Guess Who BN Is! (6,770)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (6,770 posts)")
+* [Celebrating the Stars Above (OOC, OPEN) (166)](https://forum.nationstates.net/viewtopic.php?t=555013&f=4&view=unread#unread ""Celebrating the Stars Above (OOC, OPEN)" (166 posts)")
 
 Advertisement
 
