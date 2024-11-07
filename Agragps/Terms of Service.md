@@ -86,17 +86,17 @@ Close
     
     BRIDGE
     
+     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.j2fuPYRu_Z.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    
+    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    
+    $3,380.00
+    
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     USD $4,400.00 – $5,700.00
-    
-     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
-    
-    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
-    
-    $3,380.00
     
     ITC Extend
     
@@ -110,23 +110,23 @@ Close
     
     Accessories
     
-     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
+     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
+    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    $120.00
+    $960.00
     
-     [![CRG EXTERNAL MODEM](https://www.agragps.com/wp-content/uploads/2022/05/xmicrohard-modem-thegem-product-justified-square-xxs.jpg.pagespeed.ic.gNS8Wfiy0g.jpg)](https://www.agragps.com/product/crg-external-modem/)
+     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R2UtLQrlYG.jpg)](https://www.agragps.com/product/fendt-mount/)
     
-    [CRG EXTERNAL MODEM](https://www.agragps.com/product/crg-external-modem/)
-    
-    $660.00
-    
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
-    
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
     
     $120.00
+    
+     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    $2,690.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -228,9 +228,9 @@ Menu
     
     BRIDGE
     
-     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.j2fuPYRu_Z.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
+     [![CLAAS-JD LEXION 5XX](https://www.agragps.com/wp-content/uploads/2022/02/xIMG_8699-thegem-product-justified-square-xxs.jpg.pagespeed.ic.dU3qTGQ9zl.jpg)](https://www.agragps.com/product/claas-jd-lexion-5xx/)
     
-    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    [CLAAS-JD LEXION 5XX](https://www.agragps.com/product/claas-jd-lexion-5xx/)
     
     $3,380.00
     
@@ -252,23 +252,23 @@ Menu
     
     Accessories
     
-     [![CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_113156-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vZKxKCHxk4.jpg)](https://www.agragps.com/product/case-combine-mount/)
+     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
     
-    [CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/product/case-combine-mount/)
-    
-    $120.00
-    
-     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
-    
-    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
+    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
     
     $120.00
     
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
+     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
     
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
     
     $120.00
+    
+     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    $2,690.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
