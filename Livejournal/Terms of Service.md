@@ -265,7 +265,7 @@ English Deutsch Dansk español Français Italiano Русский Українс�
 
 ![](//www.tns-counter.ru/V13a****rambler_ad/ru/UTF-8/tmsec=rambler_cid1100108-posid2155106/)
 
-![](https://xc3.services.livejournal.com/ljcounter/?d=srv:kr-ws10,r:0,j:0,uri:%22%2Flegal%2Ftos-en.bml%22,vig:0,m:0,extra:)  
+![](https://xc3.services.livejournal.com/ljcounter/?d=srv:3dt-ws14,r:0,j:0,uri:%22%2Flegal%2Ftos-en.bml%22,vig:0,m:0,extra:)  
 
 ![](//mc.yandex.ru/watch/27737346)
 
