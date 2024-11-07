@@ -24,7 +24,7 @@
     * [Small Business Advocacy](https://www.madeinalabama.com/resources/small-business-advocacy/)
     * [Workforce Development](https://www.madeinalabama.com/resources/workforce-development/)
     * [Incubator Programs](https://www.madeinalabama.com/resources/incubator-programs/)
-    * [International Trade](https://www.madeinalabama.com/resources/international-trade/)
+    * [Global Business](https://www.madeinalabama.com/resources/global-business/)
     * [Rural Development](https://madeinruralalabama.com/)
     * [Alabama Film Office](http://www.alabamafilm.org/)
     * [Export Alabama](https://exportalabama.com/)
