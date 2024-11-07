@@ -102,25 +102,25 @@ Mobile Navigation
     
     Current
     
-    [![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+    [![November 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-10/2024-11.png.jpg?itok=MK2t-Nce "Ditch Perfection & Rebalance Your Life")](https://www.psychologytoday.com/us/magazine/archive/2024/11 "November 2024")
     
-    [September 2024
+    [November 2024
     
-    Diagnosed as an Adult](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+    The Perfectionism Trap](https://www.psychologytoday.com/us/magazine/archive/2024/11 "November 2024")
     
-    It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
+    When we fall prey to perfectionism, we think we’re honorably aspiring to be our very best, but often we’re really just setting ourselves up for failure, as perfection is impossible and its pursuit inevitably backfires.
     
     [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
     
     Recent
+    
+    [![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
     
     [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
     
     [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
     
     [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
-    
-    [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
     
     [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
     
@@ -295,6 +295,8 @@ Psychology Today is a service mark of Sussex Publishers, LLC. The Therapy Direct
 
 Recent Issues
 
+[![November 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-10/2024-11.png.jpg?itok=MK2t-Nce "Ditch Perfection & Rebalance Your Life")](https://www.psychologytoday.com/us/magazine/archive/2024/11 "November 2024")
+
 [![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
 
 [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
@@ -304,8 +306,6 @@ Recent Issues
 [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
 
 [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
-
-[![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
 
 [Subscribe Today](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
 
@@ -425,13 +425,13 @@ Back
 
 Magazine
 
-[![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+[![November 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-10/2024-11.png.jpg?itok=MK2t-Nce "Ditch Perfection & Rebalance Your Life")](https://www.psychologytoday.com/us/magazine/archive/2024/11 "November 2024")
 
-[September 2024
+[November 2024
 
-Diagnosed as an Adult](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+The Perfectionism Trap](https://www.psychologytoday.com/us/magazine/archive/2024/11 "November 2024")
 
-It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
+When we fall prey to perfectionism, we think we’re honorably aspiring to be our very best, but often we’re really just setting ourselves up for failure, as perfection is impossible and its pursuit inevitably backfires.
 
 [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine") [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
 
