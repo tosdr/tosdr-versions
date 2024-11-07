@@ -952,7 +952,7 @@ Certain health or medical material on this site may be sexually explicit. Please
 
 Wellness inspired. Wellness enabled.
 
-FacebookTwitterInstagramPinterestYoutubeTikTok
+FacebookXInstagramPinterestYoutubeTikTok
 
 A PROPERTY OF[![Everyday Health Group](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
