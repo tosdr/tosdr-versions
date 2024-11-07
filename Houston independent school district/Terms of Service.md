@@ -691,7 +691,8 @@ Translate Language
     * [Arabic](https://www.houstonisd.org/domain/40261)
 * [News](https://www.houstonisd.org/Page/31624)
     
-    "* [Special Sections](https://www.houstonisd.org/domain/21808)
+    "* [Events](https://www.houstonisd.org/domain/57678)
+    * [Special Sections](https://www.houstonisd.org/domain/21808)
     * [Awards & Recognition](https://www.houstonisd.org/domain/10789)
     * [Myth Busters](https://www.houstonisd.org/domain/7941)
     * [eNews](https://www.houstonisd.org/domain/7943)
