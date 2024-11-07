@@ -183,6 +183,7 @@ Click on the retailer below for the Terms & Conditions specific to your plan. �
 * [Ring](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/ahs/2021-05-06-APP-RING-ENG-8.5x11-MCP-3699.pdf)
 * [Sam‘s Club](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2021-06-04-APP-STANDARD-EN.pdf)
 * [Smith's](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2020_11_Standard_TC_EN_092020.pdf)
+* [SquareTrade Monthly Protection Plans](https://www.squaretrade.com/sites/default/files/gohdpp-images/2024-10-18%20APP%20Single-Item%20Monthly%20Protection%20Plan%20Ts%26Cs-sample.pdf)
 * [SquareTrade.com - English](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2020_11_Standard_TC_EN_092020.pdf)
 * [SquareTrade.com - Spanish](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2019-09-01_ST-STANDARD-A3-PR-ES.pdf)
 * [SquareTrade.com Puerto Rico - English](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/1446/other/2019-09-01_ST_STANDARD-A3-PR-EN_Allstate_Branded.pdf)
