@@ -3,7 +3,9 @@
 
 [Skip to content](#content)
 
-[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20370%2046'%3E%3C/svg%3E)
+
+![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
 * Platform
     
@@ -410,7 +412,9 @@ To see when this Privacy Policy was last updated, please see the “Last Updated
 
 If you have questions about our use of your personal information, please email us at [support@wandb.com](mailto:support@wandb.com). To submit a data subject request, please fill out the information [here](https://preferences.wandb.ai/privacy?_gl=1*oflud4*_ga*MTY1MDMyMDUyMy4xNjkyNjI1NDg3*_ga_JH1SJHJQXJ*MTcwNzQ5MjAwNS4yOTAuMS4xNzA3NDkzNDQxLjMyLjAuMA..).
 
-[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20370%2046'%3E%3C/svg%3E)
+
+![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
 [X-twitter](https://x.com/weights_biases?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Linkedin-in](https://www.linkedin.com/company/wandb/) [Youtube](https://www.youtube.com/c/WeightsBiases)
 
