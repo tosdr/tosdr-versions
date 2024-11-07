@@ -1,3 +1,5 @@
+W. W. Norton website and digital products system maintenance - Sunday, November 10 Details
+
 * [READER](https://wwnorton.com/reader)
 * [STUDENT](https://wwnorton.com/student)
 * [EDUCATOR](https://wwnorton.com/educator)
