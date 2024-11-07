@@ -557,7 +557,7 @@ BESTSELLERS
 
 Little and Luxurious Powder Room](https://www.houzz.com/ideabooks/178457896) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/27a1f7f707236bbd_5547-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/b141e8a6072cb488_3054-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
 [0](https://www.houzz.com/viewCart)
 
