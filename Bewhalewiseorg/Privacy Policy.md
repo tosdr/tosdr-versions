@@ -10,7 +10,7 @@ loading
 _Be whale wise.  
 Give whales space._
 
-[![Logo](https://www.bewhalewise.org/wp-content/uploads/2019/04/bww-logo-154-blue-rgb.png)](https://www.bewhalewise.org/)
+[![Logo](https://www.bewhalewise.org/wp-content/uploads/2019/04/xbww-logo-154-blue-rgb.png.pagespeed.ic.fs9egC-5pD.png)](https://www.bewhalewise.org/)
 
 * * **Report Violators**
     * We're always open!
