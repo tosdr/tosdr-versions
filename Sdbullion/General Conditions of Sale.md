@@ -4,7 +4,7 @@
 
 **Free Shipping on $199+ Orders**
 
-   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1730804514/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
+   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1731006184/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
@@ -12,7 +12,7 @@
 
 Search  Search
 
- [![Phone Icon Image](https://sdbullion.com/static/version1730804514/frontend/SDBullion/theme-frontend-sd/en_US/images/phone.png) 1-800-294-8732](tel:1-800-294-8732 "Give us a call")
+ [![Phone Icon Image](https://sdbullion.com/static/version1731006184/frontend/SDBullion/theme-frontend-sd/en_US/images/phone.png) 1-800-294-8732](tel:1-800-294-8732 "Give us a call")
 
 * [Silver](https://sdbullion.com/silver)
     
@@ -3785,7 +3785,7 @@ RESOURCES
 * [Careers](https://sdbullion.com/careers)
 * [FAQ](https://sdbullion.com/help)
 
-![Top](https://sdbullion.com/static/version1730804514/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
+![Top](https://sdbullion.com/static/version1731006184/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
 
   ![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
 
