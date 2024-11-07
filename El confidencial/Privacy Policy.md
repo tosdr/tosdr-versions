@@ -417,7 +417,6 @@ Servicios
 * [Horóscopo](https://www.vanitatis.elconfidencial.com/horoscopo/ "Horóscopo")
 * [Tags](https://www.elconfidencial.com/tags/ "Tags")
 * [Cotizaciones bolsa](https://www.elconfidencial.com/mercados/indice/ "Cotizaciones bolsa")
-* [Elecciones USA](https://www.elconfidencial.com/mundo/2024-11-05/elecciones-eeuu-2024-votaciones-resultados-directo_3996749/ "Elecciones USA")
 
 [Lotería](https://www.elconfidencial.com/sorteos-y-loterias/ "Lotería")
 
@@ -427,6 +426,5 @@ Servicios
 * [Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/ "Lotería del Niño 2025")
 * [Comprobar Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/comprobar/ "Comprobar Lotería del Niño 2025")
 * [Buscador Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/buscador/ "Buscador Lotería del Niño 2025")
-* [Elecciones EEUU](https://www.elconfidencial.com/mundo/2024-11-05/elecciones-eeuu-2024-votaciones-resultados-directo_3996749/ "Elecciones EEUU")
 
 © TITANIA COMPAÑÍA EDITORIAL, S.L. 2024. España. Todos los derechos reservados[Condiciones](https://www.elconfidencial.com/politicas-de-privacidad/condiciones/)[Política de Privacidad](https://www.elconfidencial.com/politicas-de-privacidad/privacidad/)[Política de Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/)[Configuración de cookies](javascript:Didomi.preferences.show();)Auditado por GFK[Canal Interno de Información](https://elconfidencial.bizneohr.com/whistleblowing-channel/)[Datos de mercado proporcionados por TradingView](https://es.tradingview.com/)
