@@ -1,6 +1,6 @@
 [Direkt zum Inhalt](#main)
 
-gruseliger HERBSTSALE: 3für2 - kaufe 3, zahle nur 2 (das günstigste schenken wir dir)
+PRE BLACK FRIDAY --> Spare zusätzlich 25% auf deine Poster und/oder Leinwandbildbestellung mit dem Code: PBF24
 
 Navigation[](https://affengeilebilder24.de/search)
 
