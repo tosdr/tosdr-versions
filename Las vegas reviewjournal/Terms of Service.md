@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[60°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[41°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,7 +39,7 @@ Hi
 
 [](#)
 
-60°F
+41°F
 
 ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png) Clear
 
