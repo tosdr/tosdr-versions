@@ -91,6 +91,16 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[Severe Thunderstorm Warning
+
+until THU 2:15 PM CST, Jack County, Palo Pinto County](https://www.fox4news.com/weather-alerts)
+
+2
+
+[Severe Thunderstorm Warning
+
+from THU 1:52 PM CST until THU 2:15 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+
 Privacy Policy
 ==============
 
@@ -402,37 +412,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Boil water notice issued in Richardson: Avoid using tap water](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/boil-water.png?ve=1&tl=1)
+ [![Amber Alert issued for missing 16-year-old girl in Hunt County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/hunt-co-amber-alert.jpg?ve=1&tl=1)
 
- ![Boil water notice issued in Richardson: Avoid using tap water](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/boil-water.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boil-water-notice-issued-richardson)
+ ![Amber Alert issued for missing 16-year-old girl in Hunt County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/hunt-co-amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
 
-### [Boil water notice issued in Richardson: Avoid using tap water](https://www.fox4news.com/news/boil-water-notice-issued-richardson)
+### [Amber Alert issued for missing 16-year-old girl in Hunt County](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
 
- [![Brie cheese sold at Aldi, other stores recalled over listeria concerns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/brie-cheese-recall.jpg?ve=1&tl=1)
+ [![Longtime Ennis football coach Sam Harrell retiring amid battle with MS](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/ennis-coach-sam-harrell-8.png?ve=1&tl=1)
 
- ![Brie cheese sold at Aldi, other stores recalled over listeria concerns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/brie-cheese-recall.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/brie-cheese-recall-aldi-listeria-concerns-nov-5-2024)
+ ![Longtime Ennis football coach Sam Harrell retiring amid battle with MS](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/ennis-coach-sam-harrell-8.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ennis-sam-harrell-ms)
 
-### [Brie cheese sold at Aldi, other stores recalled over listeria concerns](https://www.fox4news.com/news/brie-cheese-recall-aldi-listeria-concerns-nov-5-2024)
+### [Longtime Ennis football coach Sam Harrell retiring amid battle with MS](https://www.fox4news.com/sports/ennis-sam-harrell-ms)
 
- [![Project 2025: Trump's alleged association and where it aims to go next](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/vlcsnap-2024-11-06-19h16m07s705.jpg?ve=1&tl=1)
+ [![How Trump's win could impact the housing market](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/housing-getty.jpg?ve=1&tl=1)
 
- ![Project 2025: Trump's alleged association and where it aims to go next](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/vlcsnap-2024-11-06-19h16m07s705.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/project-2025-trumps-alleged-association-where-aims-go-next)
+ ![How Trump's win could impact the housing market](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/housing-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-win-impact-housing-market)
 
-### [Project 2025: Trump's alleged association and where it aims to go next](https://www.fox4news.com/news/project-2025-trumps-alleged-association-where-aims-go-next)
+### [How Trump's win could impact the housing market](https://www.fox4news.com/news/trumps-win-impact-housing-market)
 
- [![Richardson ISD cancels classes for 5 schools due to boil water notice](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110624-richardson-boil-water-notice-kdfweme002_20__00.04.44.14.jpg?ve=1&tl=1)
+ [![Dallas Weather: Rain chances return to the forecast](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/465788888_600213845707740_1670085012206116547_n.jpg?ve=1&tl=1)
 
- ![Richardson ISD cancels classes for 5 schools due to boil water notice](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110624-richardson-boil-water-notice-kdfweme002_20__00.04.44.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-isd-school-closed-thursday-november-7)
+ ![Dallas Weather: Rain chances return to the forecast](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/465788888_600213845707740_1670085012206116547_n.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-nov-7-forecast)
 
-### [Richardson ISD cancels classes for 5 schools due to boil water notice](https://www.fox4news.com/news/richardson-isd-school-closed-thursday-november-7)
+### [Dallas Weather: Rain chances return to the forecast](https://www.fox4news.com/weather/dallas-weather-nov-7-forecast)
 
- [![Election 2024: Live updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182514215-scaled.jpg?ve=1&tl=1)
+ [![Gov. Newsom says he's going to 'Trump proof' California state laws](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2019/09/32/18/Trump20in20paradise205_1542486086054.PNG_6414137_ver1.0_640_360.jpg?ve=1&tl=1)
 
- ![Election 2024: Live updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182514215-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-results-congress-republicans-house-kamala-harris-concede)
+ ![Gov. Newsom says he's going to 'Trump proof' California state laws](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2019/09/32/18/592/333/Trump20in20paradise205_1542486086054.PNG_6414137_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gov-newsom-says-hes-going-trump-proof-california-state-laws)
 
-Live Now
-
-### [Election 2024: Live updates](https://www.fox4news.com/news/election-results-congress-republicans-house-kamala-harris-concede)
+### [Gov. Newsom says he's going to 'Trump proof' California state laws](https://www.fox4news.com/news/gov-newsom-says-hes-going-trump-proof-california-state-laws)
 
 ###### [News](https://www.fox4news.com/news)
 
