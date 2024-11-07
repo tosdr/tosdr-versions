@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Wasted On YouMorgan Wallen<br><br>4:40am |
-| Pretty Little PoisonWarren Zeiders<br><br>4:37am |
-| This Town'S Been Too Good To UsDylan Scott<br><br>4:34am |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:30am |
-| I Ain'T Sayin'Jordan Davis<br><br>4:27am |
+| Heart Like A TruckLainey Wilson<br><br>9:41am |
+| I Never LieZach Top<br><br>9:38am |
+| I Dont Want This Night To EndLuke Bryan<br><br>9:34am |
+| Am I OkMegan Moroney<br><br>9:30am |
+| Where The Wild Things AreLuke Combs<br><br>9:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
