@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Simulgolf](https://www.myabandonware.com/game/simulgolf-5w9)
+* [Splash](https://www.myabandonware.com/game/splash-su1)
 * [Pengapop](https://www.myabandonware.com/game/pengapop-su0)
 * [Codestone Quest](https://www.myabandonware.com/game/codestone-quest-stz)
 * [Myth Match](https://www.myabandonware.com/game/myth-match-sty)
-* [Hog Wild](https://www.myabandonware.com/game/hog-wild-t7x)
-* [OutRun 2 SP](https://www.myabandonware.com/game/outrun-2-sp-t7w)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
