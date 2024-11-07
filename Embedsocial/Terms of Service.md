@@ -11,10 +11,10 @@ Search
     [GBP SoftwareGoogle business profile management](https://embedsocial.com/gbp/)
     
     * [GBP API Access](https://embedsocial.com/gbp/api/ "GBP API Access")
-    * [Google Reviews Management](https://embedsocial.com/gbp/reviews/ "Google Reviews Management")
-    * [GBP Features](https://embedsocial.com/gbp/ "GBP Features")
-    * [GBP Reviews Responder](https://embedsocial.com/blog/google-reviews-responder/ "GBP Reviews Responder")
     * [GBP Business Hours Management](https://embedsocial.com/blog/change-business-hours-on-google/ "GBP Business Hours Management")
+    * [Google Reviews Management](https://embedsocial.com/gbp/reviews/ "Google Reviews Management")
+    * [GBP Reviews Responder](https://embedsocial.com/blog/google-reviews-responder/ "GBP Reviews Responder")
+    * [GBP Posts Scheduling](https://embedsocial.com/google-posts-scheduler/ "GBP Posts Scheduling")
     
     [FeedlinkPersonal website builder](https://feed.link/)
     
