@@ -205,23 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Spaghetti-O Menstruation!](https://www.somethingawful.com/awfulvision/obama-poop-art/1/)
-* [Breaking News!](https://www.somethingawful.com/photoshop-phriday/breaking-news-skynews/1/)
-* [Network Solutions Lacks Solutions for Domain Name Hijacking](https://www.somethingawful.com/hogosphere/network-solutions-hijacking/1/)
-* [Normality In The Mid-90's](https://www.somethingawful.com/video-game-article/normality-90s-pc/)
-* [Perhaps Some Animes Are in Order?](https://www.somethingawful.com/news/anime-convention/1/)
+* [Bootleg Video Games](https://www.somethingawful.com/photoshop-phriday/bootleg-video-games/1/)
+* [Unlikely Political Campaigns 2](https://www.somethingawful.com/photoshop-phriday/unlikely-political-campaigns3/1/)
+* [Breaking Up With Christopher Lambert](https://www.somethingawful.com/news/christopher-lambert-breakup/1/)
+* [I Was a Girl at Comic Con](https://www.somethingawful.com/news/girl-comic-con/1/)
+* [Billy Corgan's Transphobia](https://www.somethingawful.com/garbage-day/billy-corgan-transphobic/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [I feel so used and/or abused](http://forums.somethingawful.com/showthread.php?threadid=4074665 "I feel so used and/or abused")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/books.png) [The Chronicles of Gnarlia: I work you into the story based on your username](http://forums.somethingawful.com/showthread.php?threadid=4074566 "The Chronicles of Gnarlia: I work you into the story based on your username")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [How busy were the Ghostbusters after 9/11?](http://forums.somethingawful.com/showthread.php?threadid=4074679 "How busy were the Ghostbusters after 9/11?")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Come to Callisto!](http://forums.somethingawful.com/showthread.php?threadid=4074669 "Come to Callisto!")
 
 ### Random Articles
 
-* [The Realm of Hobos](https://www.somethingawful.com/awful-links/awful-link-869/)
-* [The Case against Freddy Krueger](https://www.somethingawful.com/feature-articles/freddy-krueger-mayor/)
-* [Turd Twister (Thanks, slimgoodbody!)](https://www.somethingawful.com/awful-links/turd-twister/)
-* [December 17, 2007](https://www.somethingawful.com/forum-fridays/ff12-17-07/1/)
-* [Maturation](https://www.somethingawful.com/awful-links/darkwing-duck-maturation/)
+* [Special NBC Olympic Coverage](https://www.somethingawful.com/news/nbc-olympic/)
+* [George Orwell Offers 1,984 Reasons to Put Fatheads On Your Wall](https://www.somethingawful.com/news/george-fathead-orwell/)
+* [Which Movie Will Be More Bad: Blackhat or Jupiter Ascending?](https://www.somethingawful.com/news/jupiter-ascending-blackhat/)
+* [State Og Update: 05.18.03](https://www.somethingawful.com/state-og/state-og-update-24/)
+* [MY 2011 NEW YEARS REVOLUTIONS](https://www.somethingawful.com/levi-johnston/new-years-revolutions/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
