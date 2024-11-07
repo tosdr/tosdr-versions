@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Hope
+
+### Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’](https://www.csmonitor.com/World/Europe/2024/1106/ukraine-war-trump-election-russia "Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’")
+
 [Balance
 
 ### Voter nostalgia for harmony, balance](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1106/Voter-nostalgia-for-harmony-balance "Voter nostalgia for harmony, balance")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### Here’s what it looks like when voting goes right](https://www.csmonitor.com/USA/Politics/2024/1106/election-results-North-Carolina-Trump "Here’s what it looks like when voting goes right")
 
-[Innovation
-
-### Crops, cows, and solar panels? Why farmers are harvesting sunlight.](https://www.csmonitor.com/Environment/2024/1106/agrivoltaics-solar-power-farmers "Crops, cows, and solar panels? Why farmers are harvesting sunlight.")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-November 05, 2024
+November 06, 2024
 
-What one American founder said about today
+A sweeping moment
 
-Today, our live updates blog (which you can read here) will keep you up to speed on all the important developments of Election Day. With such a cascade of news, we wanted to make sure you had a place to go for news you could trust.As I think about this moment, I decided to take a step back and look at how, some 230 years ago, one of the American founders was considering deeply the question facing American voters today – and what that means for the road ahead. You can read the column here.
+Today we start digging into the meaning of a historic election, one that in many ways marks the culmination of Donald Trump’s decisive realignment of the Republican Party and his regnant place in American politics. Given the sweeping results, we’ve devoted this issue of the Daily entirely to election stories, from the influence of Latino men in the results to what our reporter found at an election watch party with people who are watching extremely closely: Ukrainians.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
+[### Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’](https://www.csmonitor.com/World/Europe/2024/1106/ukraine-war-trump-election-russia "Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’")
+
 [### Cargo packages waiting for North American flights ignited. Officials blame Russia.](https://www.csmonitor.com/World/Europe/2024/1106/Russian-sabotage-explosive-devices-planes-United-States "Cargo packages waiting for North American flights ignited. Officials blame Russia.")
 
 [### ‘An act of madness’: Protests erupt after Netanyahu fires defense minister Yoav Gallant](https://www.csmonitor.com/World/Middle-East/2024/1106/Israel-Gaza-Netanyahu-Yoav-Gallant-Hamas-Hezbollah "‘An act of madness’: Protests erupt after Netanyahu fires defense minister Yoav Gallant")
-
-[### AI makes the fashion industry faster and greener. But what will that mean for workers?](https://www.csmonitor.com/World/Asia-South-Central/2024/1105/AI-fast-fashion-workers-garment-industry-climate "AI makes the fashion industry faster and greener. But what will that mean for workers?")
 
 * * *
 
