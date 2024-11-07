@@ -2,7 +2,7 @@
 
 [![hear.com logo](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/logos/hearcom.svg)](https://www.hear.com/)
 
-[![hear.com phone number](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/icon-phone-round.svg)](tel:17865202456)
+[![hear.com phone number](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/icon-phone-round.svg)](tel:17865260602)
 
 * [Hearing Aids](https://www.hear.com/hearing-aids/)
     
@@ -12,7 +12,7 @@
     
 * [About Us](https://www.hear.com/about-us/)
     
-* [(786) 520-2456](tel:17865202456)
+* [(786) 526-0602](tel:17865260602)
 
 Hearing Aids
 
@@ -227,7 +227,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ![hear.com logo](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/logos/hearcom-white.svg)
 
-[(786) 520-2456](tel:7865202456)
+[(786) 526-0602](tel:7865260602)
 
 Curious about the cost of hearing aids?  
 Get your **free guide** today:
@@ -258,7 +258,7 @@ By signing up to receive our guide, you'll be opted in to receive marketing emai
 * [AdChoices](https://www.hear.com/privacy-policy/#ad-choices)
 * [Do Not Sell My Personal Information(CA Residents Only)](https://www.hear.com/privacy-request/)
 
-[(786) 520-2456](tel:7865202456)
+[(786) 526-0602](tel:7865260602)
 
 Curious about the cost of hearing aids?  
 Get your **free guide** today:
