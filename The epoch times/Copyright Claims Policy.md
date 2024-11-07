@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Returning to White House With a Bigger Mandate](https://www.theepochtimes.com/us/trump-returning-to-white-house-with-a-bigger-mandate-5755643)
+    
+    NEW By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov) and [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Returning to White House With a Bigger Mandate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Returning to White House With a Bigger Mandate](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755614-GettyImages-2183216351-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-returning-to-white-house-with-a-bigger-mandate-5755643)
+* [Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://www.theepochtimes.com/us/federal-appeals-court-upholds-musks-no-fraud-verdict-in-tesla-tweets-case-5755665)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741608-1.tagreuters.com2024binary_LYNXMPEK990VL-FILEDIMAGE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-upholds-musks-no-fraud-verdict-in-tesla-tweets-case-5755665)
 * [Levi Strauss Heir Leads San Francisco Mayor’s Race](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
     
-    NEW By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
+    7hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
     
     [![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755784-Untitled-design-3-205x123.png.webp)](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
 * [Trump Accepts Biden’s White House Invitation For Transition Meeting](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Trump Accepts Biden’s White House Invitation For Transition Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Accepts Biden’s White House Invitation For Transition Meeting](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678879-trump-bidenKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
 * [Understanding the Demographic Shift That Pushed Trump to Victory](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
     
-    2hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    8hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
     [![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755767-Lead-graph-2-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
+* [Children Under 16 Face Ban From Social Media Under New Australian Bill](https://www.theepochtimes.com/world/children-under-16-face-ban-from-social-media-under-new-australian-bill-5755709)
+    
+    8hr By [Naziya Alvi Rahman](https://www.theepochtimes.com/author/naziya-alvi)
+    
+    [![Children Under 16 Face Ban From Social Media Under New Australian Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Children Under 16 Face Ban From Social Media Under New Australian Bill](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741769-Mobile-Phone-205x123.jpg.webp)](https://www.theepochtimes.com/world/children-under-16-face-ban-from-social-media-under-new-australian-bill-5755709)
 * [Americans in Battleground States Flipped by Trump React to His Reelection](https://www.theepochtimes.com/us/americans-in-battleground-states-flipped-by-trump-react-to-his-reelection-5755505)
     
-    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    9hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
     [![Americans in Battleground States Flipped by Trump React to His Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Americans in Battleground States Flipped by Trump React to His Reelection](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755510-20241106_121826-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-in-battleground-states-flipped-by-trump-react-to-his-reelection-5755505)
 * [Democrats, Pondering Election Loss, Look to the Future](https://www.theepochtimes.com/us/democrats-pondering-election-loss-look-to-the-future-5755356)
     
-    4hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    10hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Democrats, Pondering Election Loss, Look to the Future](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Democrats, Pondering Election Loss, Look to the Future](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755628-harris-loss-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-pondering-election-loss-look-to-the-future-5755356)
 * [How a 2nd Trump Administration Might Affect Foreign Policy](https://www.theepochtimes.com/us/how-a-2nd-trump-administration-might-affect-foreign-policy-5755352)
     
-    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    10hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![How a 2nd Trump Administration Might Affect Foreign Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![How a 2nd Trump Administration Might Affect Foreign Policy](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755430-Trump-Win-02_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-a-2nd-trump-administration-might-affect-foreign-policy-5755352)
 * [Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://www.theepochtimes.com/us/supreme-court-skeptical-of-facebooks-move-to-toss-shareholder-lawsuit-5755339)
     
-    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    10hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Supreme Court Skeptical of Facebook’s Move to Toss Shareholder Lawsuit](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745149-10072024-DSC03091-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-skeptical-of-facebooks-move-to-toss-shareholder-lawsuit-5755339)
-* [Offshore Windmills, Paris Climate Accords Likely on Trump’s ‘Day One’ Chopping List](https://www.theepochtimes.com/us/offshore-windmills-paris-climate-accords-likely-on-trumps-day-one-chopping-list-5755507)
-    
-    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![Offshore Windmills, Paris Climate Accords Likely on Trump’s ‘Day One’ Chopping List](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Offshore Windmills, Paris Climate Accords Likely on Trump’s ‘Day One’ Chopping List](https://img.theepochtimes.com/assets/uploads/2020/10/15/GettyImages-94155086-205x123.jpg.webp)](https://www.theepochtimes.com/us/offshore-windmills-paris-climate-accords-likely-on-trumps-day-one-chopping-list-5755507)
-* [Dow Jones Soars 1,500 Points to Record High After Trump Win](https://www.theepochtimes.com/business/dow-jones-soars-1500-points-to-record-high-after-trump-win-5755627)
-    
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Dow Jones Soars 1,500 Points to Record High After Trump Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Dow Jones Soars 1,500 Points to Record High After Trump Win](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755611-GettyImages-2182556954-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/dow-jones-soars-1500-points-to-record-high-after-trump-win-5755627)
-* [Day in Photos: Trump Wins White House, Record-High Stock Market, and a Commemorative March](https://www.theepochtimes.com/article/day-in-photos-trump-wins-white-house-record-high-stock-market-and-a-commemorative-march-5755296)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Trump Wins White House, Record-High Stock Market, and a Commemorative March](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Trump Wins White House, Record-High Stock Market, and a Commemorative March](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755614-GettyImages-2183216351-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-trump-wins-white-house-record-high-stock-market-and-a-commemorative-march-5755296)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
