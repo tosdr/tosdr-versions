@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_360x203.jpg)](https://www.wqad.com/elections)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b/20241107T004349/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b/20241107T004349/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/file-of-life-program-davenport-iowa-fire-department/526-1b59f2d7-4245-4c57-8d55-345939d61365)
         
-        #### [Live Election Results | Nov. 5, 2024](https://www.wqad.com/elections)
+        #### [New program unveiled by Davenport Fire to better respond to medical emergencies](https://www.wqad.com/article/news/local/public-safety/file-of-life-program-davenport-iowa-fire-department/526-1b59f2d7-4245-4c57-8d55-345939d61365)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WFAA/images/8f338171-646e-40e5-9bed-bc47d067d297/8f338171-646e-40e5-9bed-bc47d067d297_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/8f338171-646e-40e5-9bed-bc47d067d297/8f338171-646e-40e5-9bed-bc47d067d297_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/missing-woman-child-moline-illinois-police-asking-for-help/526-53a71787-5cf5-4998-902c-4ec5f6ad7a63)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Woman, child missing out of Moline found safe](https://www.wqad.com/article/news/local/public-safety/missing-woman-child-moline-illinois-police-asking-for-help/526-53a71787-5cf5-4998-902c-4ec5f6ad7a63)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/27060421-8dad-482d-a94f-29d8c61d7739/20241107T002225/27060421-8dad-482d-a94f-29d8c61d7739_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/27060421-8dad-482d-a94f-29d8c61d7739/20241107T002225/27060421-8dad-482d-a94f-29d8c61d7739_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Brighter skies expected for tomorrow](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WVEC/images/d1a456b7-49c1-4ef6-b319-c67bd00c56f8/20241105T180117/d1a456b7-49c1-4ef6-b319-c67bd00c56f8_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/d1a456b7-49c1-4ef6-b319-c67bd00c56f8/20241105T180117/d1a456b7-49c1-4ef6-b319-c67bd00c56f8_360x203.jpg)](https://www.wqad.com/article/weather/taurid-meteor-shower-peaks-this-week/291-3325c2b8-a61c-4837-9cae-98981a328f87)
         
         #### [Taurid meteor shower peaks this week](https://www.wqad.com/article/weather/taurid-meteor-shower-peaks-this-week/291-3325c2b8-a61c-4837-9cae-98981a328f87)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfc26164-6723-4f88-abb7-5706600a1374/20241106T130721/cfc26164-6723-4f88-abb7-5706600a1374_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfc26164-6723-4f88-abb7-5706600a1374/20241106T130721/cfc26164-6723-4f88-abb7-5706600a1374_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Sunshine, light winds return for Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-52°
+44°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
