@@ -2,7 +2,7 @@
 * [Skip to main content](#page-content)
 * [Skip to global footer](#global-footer)
 
-**3:21 pm – Oxnard Campus Closed** – All classes and other programming scheduled at our Oxnard Campus for the remainder of the day and all of tomorrow are canceled. [More info](https://www.callutheran.edu/emergency/)
+Oxnard Campus Closed – All classes and other programming scheduled at our Oxnard Campus today are canceled. [More info](https://www.callutheran.edu/emergency/)
 
 * [Apply](https://www.callutheran.edu/admission/apply.html)
 * [Request Info](https://www.callutheran.edu/admission/request-info.html)
