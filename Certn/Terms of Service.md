@@ -25,7 +25,6 @@ Error
 * [California Consumer Rights](#contract-rk2ebbgcj)
 * [Maryland Credit Report Disclosure](#contract-h197wezqo)
 * [Connecticut Credit Report Disclosure](#contract-hk1e-lz5i)
-* [Vermont Credit Report Disclosure](#contract-hki30efcs)
 * [Colorado Credit Report Request](#contract-sygq0vmqj)
 * [Social Media US Consent - HR - English](#contract-hyu9lm55j)
 * [Social Media US Consent - HR - French](#contract-hkwxnjrqi)
@@ -1855,41 +1854,6 @@ Please acknowledge that you received and understood it and provide consent for t
 
   
 
-Vermont Credit Report Disclosure
---------------------------------
-
-### Version 1.0
-
-##### Effective January 5th 2023
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/63b4bead8fa3a7340691649e.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**NOTICE REGARDING CREDIT REPORT PURSUANT TO VERMONT LAW**
-
-{{{company\_name}}} (“the Company”) intends to obtain credit information about you from a consumer reporting agency for employment purposes. Thus, you can expect to be the subject of “credit reports” for employment purposes. Such reports may include information about your character, general reputation, personal characteristics, and mode of living. The reports obtained by the Company may be used as a factor in making employment decisions. The source of any credit report will be Certn (USA) Inc., 3820 Central Avenue #220, Cheyenne, WY 82001, 844-987-0690.
-
-The Company intends to obtain a credit report on you for the permissible purpose under Vermont Statute § 495i checked by the Company below:
-
-* The job for which you are applying (or if current employee, already occupy) is a position for which the information contained in the report is required by state or federal law or regulation to be disclosed or obtained.
-* The job for which you are applying (or if current employee, already occupy) involves access to confidential financial information.
-* The job for which you are applying (or if current employee, already occupy) is a position at a financial institution as defined in 8 V.S.A. § 11101(32) or a credit union as defined in 8 V.S.A. § 30101(5).
-* The job for which you are applying (or if current employee, already occupy) is that of a law enforcement officer as defined in 20 V.S.A. § 2358, emergency medical personnel as defined in 24 V.S.A. § 2651(6), or a firefighter as defined in 20 V.S.A. § 3151(3).
-* The job for which you are applying (or if current employee, already occupy) is a position that requires a financial fiduciary responsibility to the employer or client of the employer, including the authority to issue payments, collect debts, transfer money, or enter into contracts.
-* The job for which you are applying (or if current employee, already occupy) involves access to an employer’s payroll information.
-* The employer of the job for which you are applying (or if current employee, already occupy) can demonstrate that the information is a valid and reliable predictor of employee performance in the specific position of employment.
-
-  
-
-Please acknowledge that you received and understood it and provide consent for the Company to obtain credit reports about you from a consumer reporting agency.
-
-  
-
 Colorado Credit Report Request
 ------------------------------
 
@@ -2638,7 +2602,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 6th 2024
+##### Effective November 7th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
