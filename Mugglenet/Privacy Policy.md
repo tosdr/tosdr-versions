@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Six different actors have played Lord Voldemort in the Harry Potter films.
+During filming for “Harry Potter and the Half-Blood Prince”, Rupert Grint caught swine flu.
 
 ### Potter History
 
-February 4, 2010 – Daniel Radcliffe, Emma Watson, and Rupert Grint rank among the top earning actors for 2009.
+March 30, 2005 – Half-Blood Prince promotional stand was released, revealing new artwork by Mary GrandPré.
 
 ### Potter Quote
 
-“I’ll join you when hell freezes over.”
+“Give her hell from us, Peeves.”
 
 [](#)
 
