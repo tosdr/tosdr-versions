@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/15-jaar-na-de-911-aanslagen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/big-pharma/van-cholesterolmythe-naar-statine-schade/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
