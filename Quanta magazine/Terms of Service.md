@@ -265,18 +265,6 @@ _By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelew
 
 _By_ [Molly Herring](https://www.quantamagazine.org/authors/mollyherring)
 
-[![A line creating an optimal path through an array of dots](https://www.quantamagazine.org/wp-content/uploads/2024/10/DijkstraOptimality_crDaveWhyte-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
-
-[#### Computer Scientists Establish the Best Way to Traverse a Graph](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
-
-_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
-
-[![An illustration shows zero lit by spotlight; it flickers in a cave that looks like a brain.](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroNeurosciene_crMaggieChiang_Thumbnail.webp)](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-
-[#### How the Human Brain Contends With the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-
-_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
-
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
