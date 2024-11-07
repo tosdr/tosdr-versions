@@ -201,8 +201,8 @@
     * [Grado de Discapacidad. Reconocimiento, calificación y valoración](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/69.html "Grado de Discapacidad. Reconocimiento, calificación y valoración")
     * [Familia numerosa: expedición, renovación y modificación del título](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/7.html "Familia numerosa: expedición, renovación y modificación del título")
     * [Registro de Turismo de Andalucía (RTA): inscripción](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/6631.html "Registro de Turismo de Andalucía (RTA): inscripción")
-    * [Tarjeta de aparcamiento de vehículos para personas con movilidad reducida](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/8730.html "Tarjeta de aparcamiento de vehículos para personas con movilidad reducida")
-    * [Licencia de pesca marítima de recreo en aguas interiores](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/114.html "Licencia de pesca marítima de recreo en aguas interiores")
+    * [Ayudas para el alquiler de viviendas a jóvenes](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/24974.html " Ayudas para el alquiler de viviendas a jóvenes")
+    * [Proyectos de inversión de pymes para la competitividad en Andalucía](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25606.html " Proyectos de inversión de pymes para la competitividad en Andalucía")
     
 * [Noticias](https://www.juntadeandalucia.es/noticias.html "Noticias")
     
