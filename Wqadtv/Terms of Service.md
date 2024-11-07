@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_360x203.jpg)](https://www.wqad.com/article/news/crime/pizza-ranch-sterling-shooting/526-604ec658-ae78-42b3-9967-b49b67f0d9e3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_360x203.jpg)](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
         
-        #### [Pizza Ranch employee shot in Sterling, officials say](https://www.wqad.com/article/news/crime/pizza-ranch-sterling-shooting/526-604ec658-ae78-42b3-9967-b49b67f0d9e3)
+        #### [2 teens charged with attempted murder following Davenport shooting](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341) [![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_360x203.jpg)](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
         
-    *  [![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_16x9.jpg) ![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_360x203.jpg)](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
+        #### [2 teens arrested, charged with attempted murder in Davenport shooting](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341) [![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_360x203.jpg)](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
         
-        #### [Fog develops across eastern Iowa, western Illinois](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
+        #### [2 Davenport teenagers charged with attempted murder in connection to point-blank shooting](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac_360x203.jpg)](https://www.wqad.com/article/news/local/karen-plambeck-animal-cruelty-case-sentencing-mercer-county-illinois/526-df3a7c7a-2581-4810-ba99-7e2872568239)
+        
+        #### [Karen Plambeck sentenced to pay nearly $200K, spend 270 days in jail in animal cruelty case](https://www.wqad.com/article/news/local/karen-plambeck-animal-cruelty-case-sentencing-mercer-county-illinois/526-df3a7c7a-2581-4810-ba99-7e2872568239)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Bright skies to continue through Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_16x9.jpg) ![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_360x203.jpg)](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
         
         #### [Fog develops across eastern Iowa, western Illinois](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Patchy dense fog Thursday morning followed by sunshine](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +89,7 @@ Navigation
 
 Davenport, IA »
 
-49°
+54°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
