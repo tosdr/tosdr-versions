@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/wordt-er-nu-n-supermensenras-geboren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/wikileaks-17-miljoen-nieuwe-documenten-online/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
