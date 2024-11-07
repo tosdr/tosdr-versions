@@ -123,41 +123,21 @@ Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and 
 
 [Learn More](https://legacybox.com/pages/how-it-works)[Have professional video-tapes or photos?](https://help.legacybox.com/hc/en-us/articles/360007780314)
 
-Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and match analog media types from VHS tapes to Super8 film.
-
-#### Tapes
-
-[VHS,](https://legacybox.com/products/vhs-conversion) [VHS-C,](https://legacybox.com/products/vhs-c-conversion) [MiniDV,](https://legacybox.com/products/mini-dv-conversion) [Hi8,](https://legacybox.com/products/hi8-conversion) [Digital 8,](https://legacybox.com/products/digital-8-conversion) [MicroMV,](https://legacybox.com/products/micromv-conversion) [Beta,](https://legacybox.com/products/betamax-conversion) [PAL NTSC](https://legacybox.com/products/pal-ntsc-conversion)
-
  [Tapes](https://legacybox.com/products/video-to-dvd-conversion-service)
 
 [VHS](https://legacybox.com/products/vhs-conversion)[VHS-C](https://legacybox.com/products/vhs-c-conversion)[MiniDV](https://legacybox.com/products/mini-dv-conversion)[Hi8](https://legacybox.com/products/hi8-conversion)[Digital 8](https://legacybox.com/products/digital-8-conversion)[MicroMV](https://legacybox.com/products/micromv-conversion)[Beta](https://legacybox.com/products/betamax-conversion)[PAL NTSC](https://legacybox.com/products/pal-ntsc-conversion)
-
-#### Photos
-
-[Prints,](https://legacybox.com/products/photo-scanning-service) [35mm Slides,](https://legacybox.com/products/convert-slides-digital) [Negatives](https://legacybox.com/products/negatives-digital)
 
  [Photos](https://legacybox.com/products/photo-scanning-service)
 
 [Prints](https://legacybox.com/products/photo-scanning-service)[35mm Slides](https://legacybox.com/products/convert-slides-digital)[Negatives](https://legacybox.com/products/negatives-digital)
 
-#### Reels
-
-[8mm,](https://legacybox.com/products/8mm-super8) [16mm](https://legacybox.com/products/16mm-conversion)
-
  [Reels](https://legacybox.com/products/transfer-film-to-dvd)
 
 [8mm](https://legacybox.com/products/8mm-super8)[16mm](https://legacybox.com/products/16mm-conversion)
 
-#### Audio
-
-[Audio Cassette,](https://legacybox.com/products/audio-cassette-tapes-to-cd) [Cassette Tape,](https://legacybox.com/products/audio-cassette-tapes-to-cd) [Compact Cassette,](https://legacybox.com/products/audio-cassette-tapes-to-cd) [Reel-to-Reel](https://legacybox.com/products/reel-to-reel-to-cd)
-
  [Audio](https://legacybox.com/products/audio-cassette-tapes-to-cd)
 
 [Audio Cassette](https://legacybox.com/products/audio-cassette-tapes-to-cd)[Cassette Tape](https://legacybox.com/products/audio-cassette-tapes-to-cd)[Compact Cassette](https://legacybox.com/products/audio-cassette-tapes-to-cd)[Reel-to-Reel](https://legacybox.com/products/reel-to-reel-to-cd)
-
-[Learn More](https://legacybox.com/pages/how-it-works)
 
 [What You Get](https://legacybox.com/pages/what-you-get)
 
@@ -166,14 +146,6 @@ Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and 
 Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
 
 [Learn More](https://legacybox.com/pages/how-it-works)
-
-Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
-
-#### Thumb drive
-
-#### Legacybox Cloud
-
-#### Disc Set
 
 [Thumb drive](https://legacybox.com/products/legacybox-digitizing-kit)
 
@@ -280,41 +252,21 @@ Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and 
 
 [Learn More](https://legacybox.com/pages/how-it-works)[Have professional video-tapes or photos?](https://help.legacybox.com/hc/en-us/articles/360007780314)
 
-Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and match analog media types from VHS tapes to Super8 film.
-
-#### Tapes
-
-[VHS,](https://legacybox.com/products/vhs-conversion) [VHS-C,](https://legacybox.com/products/vhs-c-conversion) [MiniDV,](https://legacybox.com/products/mini-dv-conversion) [Hi8,](https://legacybox.com/products/hi8-conversion) [Digital 8,](https://legacybox.com/products/digital-8-conversion) [MicroMV,](https://legacybox.com/products/micromv-conversion) [Beta,](https://legacybox.com/products/betamax-conversion) [PAL NTSC](https://legacybox.com/products/pal-ntsc-conversion)
-
  [Tapes](https://legacybox.com/collections/video-transfer-service)
 
 [VHS](https://legacybox.com/products/vhs-conversion)[VHS-C](https://legacybox.com/products/vhs-c-conversion)[MiniDV](https://legacybox.com/products/mini-dv-conversion)[Hi8](https://legacybox.com/products/hi8-conversion)[Digital 8](https://legacybox.com/products/digital-8-conversion)[MicroMV](https://legacybox.com/products/micromv-conversion)[Beta](https://legacybox.com/products/betamax-conversion)[PAL NTSC](https://legacybox.com/products/pal-ntsc-conversion)
-
-#### Photos
-
-[Prints,](https://legacybox.com/collections/photo-scanning-service) [35mm Slides,](https://legacybox.com/products/convert-slides-digital) [Negatives](https://legacybox.com/products/negatives-digital)
 
  [Photos](https://legacybox.com/collections/photo-scanning-service)
 
 [Prints](https://legacybox.com/collections/photo-scanning-service)[35mm Slides](https://legacybox.com/products/convert-slides-digital)[Negatives](https://legacybox.com/products/negatives-digital)
 
-#### Reels
-
-[8mm,](https://legacybox.com/products/8mm-super8) [16mm](https://legacybox.com/products/16mm-conversion)
-
  [Reels](https://legacybox.com/collections/film-transfer-service)
 
 [8mm](https://legacybox.com/products/8mm-super8)[16mm](https://legacybox.com/products/16mm-conversion)
 
-#### Audio
-
-[Cassette Tapes,](https://legacybox.com/collections/audio-cassette-tapes-to-cd) [Audio Cassette,](https://legacybox.com/collections/audio-cassette-tapes-to-cd) [Compact Cassette,](https://legacybox.com/collections/audio-cassette-tapes-to-cd) [Reel to Reel](https://legacybox.com/collections/film-transfer-service)
-
  [Audio](https://legacybox.com/collections/audio-cassette-tapes-to-cd)
 
 [Cassette Tapes](https://legacybox.com/collections/audio-cassette-tapes-to-cd)[Audio Cassette](https://legacybox.com/collections/audio-cassette-tapes-to-cd)[Compact Cassette](https://legacybox.com/collections/audio-cassette-tapes-to-cd)[Reel to Reel](https://legacybox.com/collections/film-transfer-service)
-
-[Learn More](https://legacybox.com/pages/how-it-works)
 
 [What You Get](https://legacybox.com/pages/what-you-get)
 
@@ -323,14 +275,6 @@ Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and 
 Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
 
 [Learn More](https://legacybox.com/pages/how-it-works)
-
-Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
-
-#### Thumb drive
-
-#### Legacybox Cloud
-
-#### Disc Set
 
 [Thumb drive](https://legacybox.com/products/legacybox-digitizing-kit)
 
@@ -510,7 +454,7 @@ By regular mail:             Legacybox
 * [Photo Legacybox](https://legacybox.com/products/bulk-photo-scanning)
 * [Reviews](https://legacybox.com/pages/legacybox-reviews)
 * [Analog Blog](https://legacybox.com/blogs/analog)
-* [FAQs](https://help.legacybox.com/hc/en-us)
+* [FAQs](https://help.legacybox.com/en-US)
 * [Holiday Delivery](https://legacybox.com/pages/christmas-delivery)
 
 ### Blog
