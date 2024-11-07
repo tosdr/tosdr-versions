@@ -280,10 +280,10 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=ac48a337-699a-42dc-97b6-419575ebc4d9)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=2ff7d003-1104-4155-b209-305a01a1071a)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
-    * [Classic](https://classic.fjallraven.com/)
-    * [Polar](https://experience.fjallraven.com/polar/2025)
+    * [Fjällräven Classic](https://classic.fjallraven.com/)
+    * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
     * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
     
 
@@ -439,10 +439,10 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=ac48a337-699a-42dc-97b6-419575ebc4d9)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=2ff7d003-1104-4155-b209-305a01a1071a)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
-        * [Classic](https://classic.fjallraven.com/)
-        * [Polar](https://experience.fjallraven.com/polar/2025)
+        * [Fjällräven Classic](https://classic.fjallraven.com/)
+        * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
         * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
         
 * * Customer Service
@@ -809,7 +809,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=ac48a337-699a-42dc-97b6-419575ebc4d9)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=2ff7d003-1104-4155-b209-305a01a1071a)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
