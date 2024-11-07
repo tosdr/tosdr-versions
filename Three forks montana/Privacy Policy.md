@@ -66,6 +66,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
     * [New Resident Resources](https://www.threeforksmontana.us/new-resident-resources)
     * [Payment Options](https://www.threeforksmontana.us/payment-options)
     * [Forms & Applications](https://www.threeforksmontana.us/forms-and-applications)
+    * [Fee Schedule](https://www.threeforksmontana.us/fee-schedule)
     * [Animals](https://www.threeforksmontana.us/animals)
     * [City Parks](https://www.threeforksmontana.us/city-parks)
         * [Park Reservations](https://www.threeforksmontana.us/park-reservations)
