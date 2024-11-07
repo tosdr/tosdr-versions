@@ -185,11 +185,11 @@ Europe (English) [Sign in to my account](https://my.hidemyass.com/)
 
 ### Download our mobile apps
 
-[![Google Play Badge](https://static2.hidemyass.com/10003995/web/i/badge/google-play/google-play-en.png)](https://play.google.com/store/apps/details?id=com.hidemyass.hidemyassprovpn&referrer=utm_source%3Dhma_com%26utm_medium%3Dweb-footer%26utm_campaign%3Dhma_web-footer) [![Apple Store Badge](https://static2.hidemyass.com/10003995/web/i/badge/app-store/app-store-badge-en.svg)](https://apps.apple.com/app/apple-store/id675102189?pt=1835281&ct=HMA_com%20Web_Footer&mt=8)
+[![Google Play Badge](https://static2.hidemyass.com/10003996/web/i/badge/google-play/google-play-en.png)](https://play.google.com/store/apps/details?id=com.hidemyass.hidemyassprovpn&referrer=utm_source%3Dhma_com%26utm_medium%3Dweb-footer%26utm_campaign%3Dhma_web-footer) [![Apple Store Badge](https://static2.hidemyass.com/10003996/web/i/badge/app-store/app-store-badge-en.svg)](https://apps.apple.com/app/apple-store/id675102189?pt=1835281&ct=HMA_com%20Web_Footer&mt=8)
 
 * * *
 
-[Modern Slavery Statement](https://static2.hidemyass.com/10003995/web/o/docs/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Accessibility Policy](https://www.hidemyass.com/legal/accessibility-policy) | [Do not sell my info](https://www.hidemyass.com/do-not-sell) | | Copyright © 2005—2024 HMA. All Rights Reserved
+[Modern Slavery Statement](https://static2.hidemyass.com/10003996/web/o/docs/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Accessibility Policy](https://www.hidemyass.com/legal/accessibility-policy) | [Do not sell my info](https://www.hidemyass.com/do-not-sell) | | Copyright © 2005—2024 HMA. All Rights Reserved
 
 [](https://www.facebook.com/HideMyAssCom)[](https://twitter.com/HideMyAss)[](https://www.youtube.com/c/hidemyass)
 
