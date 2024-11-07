@@ -12,6 +12,7 @@ International Arcade Museum® — Killer List of Videogames®
     * [Games & Machines Main](https://www.arcade-museum.com/games-and-machines)
     * [Top 100 Coin-Op Videogames](https://www.arcade-museum.com/top100)
     * [List by Titles (A-Z)](https://www.arcade-museum.com/game-list/0/All)
+    * [List by Years](https://www.arcade-museum.com/decade/1970/All)
     * [List by Type of Machine](#)
         * [All](https://www.arcade-museum.com/game-list/A/All)
         * [Videogame](https://www.arcade-museum.com/game-list/A/Videogame)
