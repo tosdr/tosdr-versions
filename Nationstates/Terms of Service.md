@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [On a pair of Leftist slogans (29)](https://forum.nationstates.net/viewtopic.php?t=558005&f=20&view=unread#unread ""On a pair of Leftist slogans" (29 posts)")
-* [Your nation's reaction to the US pres… (14)](https://forum.nationstates.net/viewtopic.php?t=558003&f=23&view=unread#unread ""Your nation's reaction to the US presidential election" (14 posts)")
-* [American Politics: A Man's World (12,004)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: A Man's World" (12,004 posts)")
-* [The Collective Security League: OOC s… (6,685)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,685 posts)")
-* [What triggers you about the AN? (10,334)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,334 posts)")
+* [American Politics: Turnabout Trump (93)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (93 posts)")
+* [\[DRAFT #1\] Improved Food Quality (13)](https://forum.nationstates.net/viewtopic.php?t=557907&f=9&view=unread#unread ""[DRAFT #1] Improved Food Quality" (13 posts)")
+* [What do you like about AN's flag? (23)](https://forum.nationstates.net/viewtopic.php?t=558008&f=25&view=unread#unread ""What do you like about AN's flag?" (23 posts)")
+* [Commonwealth of Rosettan Overwatch -… (11)](https://forum.nationstates.net/viewtopic.php?t=557269&f=4&view=unread#unread ""Commonwealth of Rosettan Overwatch - Details, Askbox, News" (11 posts)")
+* [AN in one word (72)](https://forum.nationstates.net/viewtopic.php?t=557521&f=25&view=unread#unread ""AN in one word" (72 posts)")
 
 Advertisement
 
