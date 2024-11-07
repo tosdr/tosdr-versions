@@ -75,14 +75,14 @@ Trending Posts
 
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
+* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
-* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 
 Close
 
@@ -139,14 +139,14 @@ Trending Posts
 
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
+* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
-* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 
 [Skip to content](#main)
 
