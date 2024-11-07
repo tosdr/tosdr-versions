@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Karous](https://www.myabandonware.com/game/karous-t82)
-* [Johnny Nero: Action Hero](https://www.myabandonware.com/game/johnny-nero-action-hero-t81)
-* [Ikaruga](https://www.myabandonware.com/game/ikaruga-t80)
-* [Homura](https://www.myabandonware.com/game/homura-t7z)
-* [OutRun 2](https://www.myabandonware.com/game/outrun-2-t7y)
+* [Dancing Stage: featuring True Kiss Destination](https://www.myabandonware.com/game/dancing-stage-featuring-true-kiss-destination-t8h)
+* [Bloody Roar 3](https://www.myabandonware.com/game/bloody-roar-3-t8g)
+* [Dance Dance Revolution: Solo Bass Mix](https://www.myabandonware.com/game/dance-dance-revolution-solo-bass-mix-t8f)
+* [Guilty Gear XX Slash](https://www.myabandonware.com/game/guilty-gear-xx-slash-t8e)
+* [Dance Dance Revolution: Extreme](https://www.myabandonware.com/game/dance-dance-revolution-extreme-t8d)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
