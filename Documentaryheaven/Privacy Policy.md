@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Ranger](/wp-content/thumbnails/13293-100x70.jpg?x53432)
+* [![An Unreasonable Man](/wp-content/thumbnails/1348-100x70.jpg?x53432)
     
-    The Ranger
+    An Unreasonable Man
     
-    The U.S. Army Rangers are an elite military formation that serve in designated U.S. Army Ranger units or are graduates from the U.S. Army Ranger School. This film The Ranger is a unique documentary wh](https://documentaryheaven.com/ranger/ "The Ranger")
-* [![Educating North Korea](/wp-content/thumbnails/8551-100x70.jpg?x53432)
+    In 1966, General Motors, the most powerful corporation in the world, sent private investigators to dig up dirt on an obscure thirty-two year old public interest lawyer named Ralph Nader, who had writt](https://documentaryheaven.com/an-unreasonable-man/ "An Unreasonable Man")
+* [![Brian’s Story](/wp-content/thumbnails/9949-100x70.jpg?x53432)
     
-    Educating North Korea
+    Brian’s Story
     
-    Panorama find themselves with unique access to one of the most unusual academic institutions, situated in North Korea its surprising that a country renowned for its secrecy and isolation would allow f](https://documentaryheaven.com/educating-north-korea/ "Educating North Korea")
-* [![Gladiator Days: Anatomy of a Prison Murder](/wp-content/thumbnails/4530-100x70.jpg?x53432)
+    At the age of 21 Brian Davis graduated with a degree in English from Cambridge University, seven years later he was a published author and by the mid eighties he had become one of the best known journ](https://documentaryheaven.com/brians-story/ "Brian’s Story")
+* [![The World’s Most Expensive Paintings](/wp-content/thumbnails/7046-100x70.jpg?x53432)
     
-    Gladiator Days: Anatomy of a Prison Murder
+    The World’s Most Expensive Paintings
     
-    Across the United States, violent crime in prison is an everyday reality, with inmates routinely exposed to assault, riot, rape and murder.Anatomy of a Prison Murder examines the culture of instit](https://documentaryheaven.com/gladiator-days-anatomy-of-a-prison-murder/ "Gladiator Days: Anatomy of a Prison Murder")
-* [![Mark Zuckerberg: Inside Facebook](/wp-content/thumbnails/6249-100x70.jpg?x53432)
+    Go inside the glittering world of the super-rich as art critic Alastair Sooke tracks down the ten most expensive paintings to sell at auction. This film tells the stories behind the astronomical price](https://documentaryheaven.com/the-worlds-most-expensive-paintings/ "The World’s Most Expensive Paintings")
+* [![Google – Behind the Screen](/wp-content/thumbnails/380-100x70.png?x53432)
     
-    Mark Zuckerberg: Inside Facebook
+    Google – Behind the Screen
     
-    In just seven years, Mark Zuckerberg has gone from his Harvard college dorm to running a business with 800 million users, and a possible value of $100 billion. His idea to make the world more open an](https://documentaryheaven.com/mark-zuckerberg-inside-facebook/ "Mark Zuckerberg: Inside Facebook")
-* [![The Atkins Diet](/wp-content/thumbnails/7943-100x70.jpg?x53432)
+    This documentary shows how Google works behind the scenes and describes the ultimate goals of Google. Primarily it is to collect ALL information available worldwide. At the moment this is mostly about](https://documentaryheaven.com/google-behind-the-scenes/ "Google – Behind the Screen")
+* [![The Notorious B.I.G.: Bigger Than Life](/wp-content/thumbnails/6337-100x70.jpg?x53432)
     
-    The Atkins Diet
+    The Notorious B.I.G.: Bigger Than Life
     
-    This is the truth about the world's most famous, most glamorous and most controversial diet. The Atkins diet says that eating fat can make you thin. It says you don't need to bother watching the calor](https://documentaryheaven.com/atkins-diet/ "The Atkins Diet")
+    The Notorious B.I.G. is no doubt on every Hip-Hop fan’s short list of the greatest rappers of all time. Most importantly, B.I.G. was respected and revered by his peers in the game.Everyone from Jay](https://documentaryheaven.com/the-notorious-b-i-g-bigger-than-life/ "The Notorious B.I.G.: Bigger Than Life")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
