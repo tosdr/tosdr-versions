@@ -13,7 +13,6 @@
     * [Apple iPhone](https://www.o2.co.uk/iphone)
     * [iPhone 16](https://www.o2.co.uk/shop/apple/iphone-16)
     * [Android Phones](https://www.o2.co.uk/android)
-    * [Samsung Galaxy phones](https://www.o2.co.uk/samsung-galaxy-phones)
     * [Refurbished phones](https://www.o2.co.uk/shop/like-new)
     
     Tablets, laptops and dongles
@@ -41,6 +40,7 @@
     * [AirPods](https://www.o2.co.uk/airpods)
     * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
     * [Great deals](https://www.o2.co.uk/shop/great-deals)
+    * [Black Friday](https://www.o2.co.uk/black-friday-cyber-monday)
     
     * [![](https://a.storyblok.com/f/253875/137x34/7d4cb8fb12/quick-links-apple-1100.png/m/384x0)](https://www.o2.co.uk/shop/brand/apple?cnd=new)
         
