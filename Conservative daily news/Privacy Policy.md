@@ -2,14 +2,14 @@ Thursday, November 7 2024
 
 Breaking News
 
+* [President Biden Addresses the Nation About Election Results – 11/7/24](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
+* [White House Press Briefing with Karine Jean-Pierre – 11/7/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-7-24/)
 * [NYT/MSM Induced Election-Related Psychosis: Cognitive Dissonance](https://www.conservativedailynews.com/2024/11/nyt-msm-induced-election-related-psychosis-cognitive-dissonance/)
 * [Corporate Media, Dems Thought Female Vote Would Be Slam Dunk For Harris. Boy, Were They Wrong](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
 * [President Joe Biden’s Schedule for Thursday, November 7, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
 * [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
 * [RFK Jr. Says ‘Entire Departments’ At FDA Could Get The Ax](https://www.conservativedailynews.com/2024/11/rfk-jr-says-entire-departments-at-fda-could-get-the-ax/)
 * [Dems Already Rallying Resistance Less Than 24 Hours After Trump Becomes President-Elect](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
-* [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/)
-* [America In The Age Of Stupidity: It Seems America Is Not As Stupid As I Thought](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-it-seems-america-is-not-as-stupid-as-i-thought/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -131,6 +131,36 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
+    
+    [A Sincere Thank You](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
+    
+    November 7, 2024
+    
+* [![CNN Media Bias Kamala Harris 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/)
+    
+    [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/)
+    
+    November 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/01-blowback-sm-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/11/maga-blowback/)
+    
+    [MAGA Blowback](https://www.conservativedailynews.com/2024/11/maga-blowback/)
+    
+    November 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Joe-Biden-speech-5-220x150.png)](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
+    
+    [President Biden Addresses the Nation About Election Results – 11/7/24](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
+    
+    November 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-7-24/)
+    
+    [White House Press Briefing with Karine Jean-Pierre – 11/7/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-7-24/)
+    
+    November 7, 2024
+    
 * [![Joe Biden Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/wrong-direction-5/)
     
     [Wrong Direction](https://www.conservativedailynews.com/2024/11/wrong-direction-5/)
@@ -149,49 +179,19 @@ Recent Posts
     
     November 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Saving-piggy-bank-money-220x150.png)](https://www.conservativedailynews.com/2024/11/a-little-change-can-really-make-a-difference/)
-    
-    [A Little Change Can Really Make a Difference](https://www.conservativedailynews.com/2024/11/a-little-change-can-really-make-a-difference/)
-    
-    November 7, 2024
-    
-* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/nyt-msm-induced-election-related-psychosis-cognitive-dissonance/)
-    
-    [NYT/MSM Induced Election-Related Psychosis: Cognitive Dissonance](https://www.conservativedailynews.com/2024/11/nyt-msm-induced-election-related-psychosis-cognitive-dissonance/)
-    
-    November 7, 2024
-    
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
-    
-    [Corporate Media, Dems Thought Female Vote Would Be Slam Dunk For Harris. Boy, Were They Wrong](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
-    
-    November 7, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/05/Joe-Biden-White-House-Spring-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
-    
-    [President Joe Biden’s Schedule for Thursday, November 7, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
-    
-    November 7, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/10/Claire-McCaskill.jpg)](https://www.conservativedailynews.com/2024/11/rofl-mccaskill-sheds-tears-for-harris-on-live-tv/)
-    
-    [ROFL: McCaskill Sheds Tears For Harris On Live TV](https://www.conservativedailynews.com/2024/11/rofl-mccaskill-sheds-tears-for-harris-on-live-tv/)
-    
-    November 7, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Gun Groups Challenge Maryland’s “Sensitive Places” Law in Federal Court](https://www.thegunpage.com/gun-groups-challenge-marylands-sensitive-places-law-in-federal-court/10611728)
+* [Mesa Tactical Truckee Forend: Kit Out Your Benelli M2](https://www.thegunpage.com/mesa-tactical-truckee-forend-kit-out-your-benelli-m2/10611730)
+* [An Open Letter to Gun Owners from NSSF](https://www.thegunpage.com/an-open-letter-to-gun-owners-from-nssf/10611722)
+* [TFB Behind the Gun #139: The Proving Grounds with Matt & Dan](https://www.thegunpage.com/tfb-behind-the-gun-139-the-proving-grounds-with-matt-dan/10611720)
+* [Reaction To Trump Landslide Runs From Elation To Devastation](https://www.thegunpage.com/reaction-to-trump-landslide-runs-from-elation-to-devastation/10611718)
+* [What President-elect Trump needs to do during his first 30 days](https://www.thegunpage.com/what-president-elect-trump-needs-to-do-during-his-first-30-days/10611716)
 * [NRA Smallbore Championship Celebrates 40th Anniversary: 1959 National Matches](https://www.thegunpage.com/nra-smallbore-championship-celebrates-40th-anniversary-1959-national-matches/10611715)
 * [Looking Back At The 2009 NRA National High Power Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-high-power-championship/10611575)
 * [TFB Review: Silencer Central Banish Speed K TI](https://www.thegunpage.com/tfb-review-silencer-central-banish-speed-k-ti/10611712)
 * [POTD: B&T APC9 with Aimpoint CompM5b and A-Tech 3-Lug Suppressor](https://www.thegunpage.com/potd-bt-apc9-with-aimpoint-compm5b-and-a-tech-3-lug-suppressor/10611713)
-* [Wheelgun Wednesday: Korth Executive Series Limited Edition Revolvers](https://www.thegunpage.com/wheelgun-wednesday-korth-executive-series-limited-edition-revolvers/10611714)
-* [Obscure Object of Desire – S&W Regulation Police .32 S&W Long](https://www.thegunpage.com/obscure-object-of-desire-sw-regulation-police-32-sw-long/10611708)
-* [Why Kamala Harris Lost](https://www.thegunpage.com/why-kamala-harris-lost/10611705)
-* [Winchester Supreme Optics Launches Scope Line](https://www.thegunpage.com/winchester-supreme-optics-launches-scope-line/10611706)
-* [Competition Ultimate Practice Shooting System: Shooting Inside](https://www.thegunpage.com/competition-ultimate-practice-shooting-system-shooting-inside/10611704)
-* [Recapping The CMP New England Games: Most Colorful Competition Yet](https://www.thegunpage.com/recapping-the-cmp-new-england-games-most-colorful-competition-yet/10611707)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,15 +233,15 @@ Contact Us
 
 Recent Comments
 
+* John on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783065)
+* Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783064)
+* Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783063)
+* [Bill](http://conservativedailynews.com/) on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783060)
 * Caesar Avalos on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783047)
 * charles wilkins on [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/#comment-783044)
 * KayCee on [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/#comment-783041)
 * KayCee on [Fingers Crossed](https://www.conservativedailynews.com/2024/11/fingers-crossed/#comment-783040)
 * KayCee on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783035)
-* Not\_Represented on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783024)
-* charles wilkins on [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/#comment-783017)
-* Richard McDonough on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-783016)
-* Sundevil75 on [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/#comment-783007)
 
 [Close](#)
 
