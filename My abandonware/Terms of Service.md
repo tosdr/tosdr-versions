@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [The Castle](https://www.myabandonware.com/game/the-castle-7y7)
+* [Lode Runner](https://www.myabandonware.com/game/lode-runner-xt)
+* [James Bond 007](https://www.myabandonware.com/game/james-bond-007-5th)
 * [Dancing Stage: featuring True Kiss Destination](https://www.myabandonware.com/game/dancing-stage-featuring-true-kiss-destination-t8h)
 * [Bloody Roar 3](https://www.myabandonware.com/game/bloody-roar-3-t8g)
-* [Dance Dance Revolution: Solo Bass Mix](https://www.myabandonware.com/game/dance-dance-revolution-solo-bass-mix-t8f)
-* [Guilty Gear XX Slash](https://www.myabandonware.com/game/guilty-gear-xx-slash-t8e)
-* [Dance Dance Revolution: Extreme](https://www.myabandonware.com/game/dance-dance-revolution-extreme-t8d)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
