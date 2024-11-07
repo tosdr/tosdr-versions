@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Watch the US Air Force carry out dramatic nighttime Minuteman III test](https://www.defensenews.com/air/2024/11/06/watch-the-us-air-force-carry-out-dramatic-nighttime-minuteman-iii-test/)  
+    11/06/24 05:00pm  
+    
+    Air Force Global Strike Command launches an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base.
+    
 * [US approves sale of four E-7 early-warning planes to South Korea](https://www.defensenews.com/air/2024/11/05/us-approves-sale-of-four-e-7-early-warning-planes-to-south-korea/)  
     11/05/24 10:54am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/31/24 04:57pm  
     
     A pilot who ejected from an F-35B over South Carolina last year alleges he was fired from his command of a prestigious squadron as a result of the mishap. (Cpl. Christopher R. Lape/Marine Corps)
-    
-* [Air Force open to greater B-21 stealth bomber role in strategy revamp](https://www.defensenews.com/air/2024/10/28/air-force-open-to-greater-b-21-stealth-bomber-role-in-strategy-revamp/)  
-    10/28/24 04:30pm  
-    
-    Air Force Chief of Staff Gen. David Allvin said the B-21, shown here, could dodge the ballooning costs that can bedevil major programs. (U.S. Air Force)
     
 
 Recent parts by keyword  
