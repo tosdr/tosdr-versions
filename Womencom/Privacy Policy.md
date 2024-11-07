@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+*  [![Sarah Hyland looking over her shoulder](https://www.women.com/img/gallery/celebs-who-bared-their-physical-scars-for-a-good-cause/intro-1730399722.jpg)](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Living](https://www.women.com/category/living/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
     
-    [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
-    ================================================================================================================================================
+    [Celebs Who Bared Their Physical Scars For A Good Cause](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+    ================================================================================================================================
     
-    While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
+    Surgery scars don't have to be ugly. In an ear of body positivity, some celebrities are exposing their scars to reclaim power and share their stories.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+    By Emily Hutchinson [Read More](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
     
-* *  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+* *  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+        
+        ### [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+        
+        While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+        
+    *  [![](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
         [Wellness](https://www.women.com/category/wellness/)
         
@@ -66,33 +78,21 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
-    *  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-        
-        ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-        
-        While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-        
 
 More Stories
 ------------
 
-*  [![Sarah Hyland looking over her shoulder](https://www.women.com/img/gallery/celebs-who-bared-their-physical-scars-for-a-good-cause/intro-1730399722.jpg)](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+*  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
     [Living](https://www.women.com/category/living/)
     
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    ### [Celebs Who Bared Their Physical Scars For A Good Cause](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+    ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
-    Surgery scars don't have to be ugly. In an ear of body positivity, some celebrities are exposing their scars to reclaim power and share their stories.
+    While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
 *  [![Ehan and Vinay Kamat](https://www.women.com/img/gallery/heres-what-went-down-with-solemender-after-shark-tank/intro-1730216668.jpg)](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
