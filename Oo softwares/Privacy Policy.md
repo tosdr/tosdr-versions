@@ -65,7 +65,11 @@
         * [Contact us How to contact O&O](https://www.oo-software.com/en/contact)
         
     
-* [Get your US$10 voucher](https://www.oo-software.com/en/newsletter?r=tn1.2.4)
+* [Private users](#)
+    
+    [Private users](https://www.oo-software.com/en/) [Business customers](https://www.oo-software.com/en/corporate-customers) [Partners](https://www.oo-software.com/en/partner)
+    
+* [Get your US$10 voucher](https://www.oo-software.com/en/newsletter?r=tn1.3.6)
 
 O&O Software’s Privacy Policy
 =============================
