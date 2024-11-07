@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      Privacy Policy – Omax Health - Omax Health                          
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)          
 
-               
+     
+
+Privacy Policy – Omax Health - Omax Health                                 
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
