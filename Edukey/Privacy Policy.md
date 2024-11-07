@@ -25,7 +25,7 @@ International schoolsUK editionAustralia edition
             
         * [Timetable powered by Edval Flexible timetabling software](https://www.edukey.co.uk/en-gb/for-schools/timetabling-edval)
             
-        * [Tes Parents' Meetings Parents' meetings that work for everyone](https://www.tes.com/en-gb/for-schools/parents-meetings)
+        * [Tes Parents' Meetings Parents' evenings system that works for everyone](https://www.tes.com/en-gb/for-schools/parents-meetings)
             
         * [Tes Room Booking Manage your rooms and resources online](https://www.edukey.co.uk/en-gb/for-schools/room-booking)
             
