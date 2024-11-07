@@ -120,7 +120,7 @@ Unless you later enter into any other agreements with MediaNews Group regarding 
 * [Terms of Use](https://www.medianewsgroup.com/terms-of-use/)
 * [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/)
 * [Accessibility](https://www.medianewsgroup.com/accessibility-statement/)
-* [Arbitration](https://www.medianewsgroup.com/arbitration/)
+* [Terms and Conditions](https://www.medianewsgroup.com/terms-and-conditions/)
 * [California Notice at Collection](https://www.medianewsgroup.com/privacy-policy#section-9)
 * [Notice of Financial Incentive](https://www.medianewsgroup.com/privacy-policy#financial)
 * [Do Not Sell/Share My Personal Information](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77)
