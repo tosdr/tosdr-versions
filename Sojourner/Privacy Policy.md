@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-70c57226d2f75fde2cd46b1c038c3d5f
+7fade68a259262889ffb18ba59e3c5aa
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Pink pearl bar toggle clasp](https://www.sojourner.biz/images/cache/SKU0141front.200.jpg)](https://www.sojourner.biz/clasps/toggles/pink-pearl-bar-toggle-clasp.html "Pink pearl bar toggle clasp")
+[![Purple and gold bracelet](https://www.sojourner.biz/images/cache/BR0009.200.jpg)](https://www.sojourner.biz/jewelry/bracelets/purple-and-gold-bracelet.html "Purple and gold bracelet")
 
-#### [Pink pearl bar toggle clasp](https://www.sojourner.biz/clasps/toggles/pink-pearl-bar-toggle-clasp.html "Pink pearl bar toggle clasp")
+#### [Purple and gold bracelet](https://www.sojourner.biz/jewelry/bracelets/purple-and-gold-bracelet.html "Purple and gold bracelet")
 
-$13.50
+$65.00
 
 ### Best Sellers
 
