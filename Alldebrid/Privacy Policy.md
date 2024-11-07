@@ -23,16 +23,16 @@ This privacy policy may be changed at any time.
 
   
 
-Cette politique de confidentialité est établie dans le but d’informer les utilisateurs du site Alldebrid.com, possédé et géré par la société Vulnerator, des modalités suivantes :
+This privacy policy is established in order to inform users of the Alldebrid.com website, owned and managed by the company Vulnerator, of the following terms and conditions :
 
-* les données personnelles recueillies par le site internet,
-* l’utilisation faite de ces données,
-* l’accès à ces données,
-* les droits que possèdent les utilisateurs du site,
-* la politique liée à l’utilisation de cookies,
-* la rétention de ces données.
+* personal data collected by the website,
+* the use made of this data,
+* the access to this data,
+* the rights that users of the site have,
+* the policy related to the use of cookies,
+* the retention of this data.
 
-Cette politique de confidentialité fonctionne parallèlement aux conditions générales des sites Alldebrid.
+This Privacy Policy operates alongside the Alldebrid Sites terms of service.
 
   
 
@@ -41,26 +41,26 @@ Cette politique de confidentialité fonctionne parallèlement aux conditions gé
 
   
 
-Conformément au Règlement Général sur la Protection des Données (RGPD), cette politique de confidentialité est sujette aux règlements suivants.
+In accordance with the General Data Protection Regulation (GDPR), this privacy policy is subject to the following regulations.
 
   
 
-Les données personnelles sont :
+Personal data is :
 
-* traitées de manière licite et transparente,
-* collectées à des fins déterminées, explicites et légitimes, et ne seront pas traitées ultérieurement d’une manière incompatible avec ces fins,
-* adéquates, pertinentes et limitées à ce qui est nécessaire dans le cadre des finalités pour lesquelles elles sont traitées,
-* exactes, et si nécessaire tenues à jour. Toutes les mesures raisonnables seront prises pour corriger des données incorrectes au regard de la finalité pour laquelle celles-ci sont collectées,
-* conservées sous une forme permettant l’identification des personnes concernées pour une durée suffisante pour leur traitement,
-* traitées d’une façon qui garantit la sécurité de celles-ci, y compris en ce qui concerne le traitement non-autorisé ou illicite, la perte ou la destruction de ces données, accidentelle ou volontaire.
+* processed lawfully and transparently,
+* collected for specified, explicit and legitimate purposes, and will not be further processed in a manner incompatible with those purposes,
+* adequate, relevant and limited to what is necessary in the context of the purposes for which they are processed,
+* accurate, and if necessary kept up to date. All reasonable steps will be taken to correct data that is incorrect in relation to the purpose for which it is collected,
+* kept in a form which permits identification of the persons concerned for a period sufficient for their processing,
+* processed in a way that ensures the security of the data, including with regard to unauthorized or unlawful processing, loss or destruction of such data, whether accidental or intentional.
 
   
 
-Le traitement des données collectées n’est licite que si au moins l’une des conditions suivantes est remplie :
+The processing of the collected data is only lawful if at least one of the following conditions is met :
 
-* la personne concernée par les données a consenti au traitement de celles-ci pour une ou plusieurs finalités spécifiques,
-* le traitement des données est nécessaire à l’exécution d’un contrat dont la personne concernée est partie ou à l’exécution des mesures précontractuelles prises à la demande de celui-ci,
-* le traitement est nécessaire à la réalisation d’une obligation légale à laquelle le responsable, Vulnerator, est soumis.
+* the data subject has consented to the processing of the data for one or more specific purposes,
+* the processing of data is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract,
+* the processing is necessary for the performance of a legal obligation to which the controller, Vulnerator, is subject.
 
   
 
@@ -69,30 +69,30 @@ Le traitement des données collectées n’est licite que si au moins l’une de
 
   
 
-En utilisant le site Alldebrid.com, les utilisateurs consentent à :
+By using the Alldebrid.com website, users agree to :
 
-* toutes les conditions incluses dans la présente politique de confidentialité,
-* la collecte, l’utilisation et la conservation des données listées dans la présente politique de confidentialité.
+* all conditions included in this privacy policy,
+* the collection, use and retention of data listed in this privacy policy.
 
   
 **Advertisements**
 
   
 
-Les données suivantes sont collectées de manière automatique lorsqu'un client utilise son compte gratuit Alldebrid :
+The following data is collected automatically when a customer uses their free Alldebrid account :
 
-* le nom d’utilisateur,
-* le mot de passe,
-* l’adresse email,
-* l'adresse IP.
+* the username,
+* the password,
+* the email address,
+* the IP address.
 
-A ces données s'ajoutent, lorsqu'un client utilise son compte payant Alldebrid :
+Added to this data, when a customer uses their Alldebrid paid account :
 
-* les informations associées au moyen de paiement utilisé.
+* the data associated with the payment method used.
 
-Aucune donnée supplémentaire n’est collectée sans vous en informer au préalable.
+No additional data is collected without notifying you in advance.
 
-En matière de stockage et d'accès, tout est fait pour assurer la sécurité des données, notamment via des protocoles de chiffrements.
+In terms of storage and access, everything is done to ensure data security, particularly via encryption protocols.
 
   
 
@@ -101,11 +101,11 @@ En matière de stockage et d'accès, tout est fait pour assurer la sécurité de
 
   
 
-Les données personnelles recueillies sur le site Alldebrid.com ne sont collectées et traitées que dans le cadre des fins précisées dans la présente politique de confidentialité et / ou dans les pages pertinentes du site. Les données personnelles que nous collectons ne seront pas utilisées à d’autres fins.
+Personal data collected on the Alldebrid.com website are collected and processed only for the purposes specified in this privacy policy and/or on the relevant pages of the website. The personal data we collect will not be used for any other purposes.
 
   
 
-Aucune donnée n’est échangée, revendue, exportée dans d’autre pays.
+No data is exchanged, resold, exported to other countries.
 
   
 
@@ -114,70 +114,70 @@ Aucune donnée n’est échangée, revendue, exportée dans d’autre pays.
 
   
 
-* Employés : Nous pouvons ouvertement divulguer les informations aux employés de l’entreprise Vulnerator dans la mesure où ceux-ci en ont besoin pour poursuivre la fin prévue dans cette politique.
+* Employees: We may openly disclose information to Vulnerator employees to the extent that they need it to pursue the purpose set out in this policy.
 
-Par ailleurs, les données personnelles collectées pourront être partagées :
+Furthermore, the personal data collected may be shared :
 
-* si l’entreprise Vulnerator y est contrainte par la loi,
-* si les informations sont requises pour toute procédure judiciaire,
-* afin de protéger les droits légaux de l’entreprise Vulnerator.
+* if the Vulnerator company is required to do so by law,
+* if the information is required for any legal proceedings,
+* in order to protect the legal rights of Vulnerator Company.
 
-En dehors des situations prévues dans cette présente politique, les informations personnelles ne seront en aucun cas divulguées ou partagées à des tiers.
-
-  
-
-  
-**Rétention et protection des données personnelles**
-
-  
-
-L’entreprise Vulnerator ne conserve pas les données personnelles plus longtemps que ce qui est nécessaire à la réalisation des fins pour lesquelles elles sont collectées.
-
-  
-
-Les données associées à un compte n'ayant souscrit à aucune offre se verront supprimées automatiquement après 1 an d'inactivité.
-
-Les données associées à un compte ayant souscrit à une offre, quelle qu'elle soit, se verront supprimées automatiquement après 4 ans d'inactivité.
+Except as provided for in this policy, personal information will not be disclosed or shared with third parties under any circumstances.
 
   
 
   
-**Droits de l’utilisateur**
+**Retention and protection of personal data**
 
   
 
-Conformément au RGPD, les utilisateurs du site Alldebrid.com ont, en ce qui concerne leurs données personnelles, les droits suivants :
+Vulnerator Company does not retain personal data longer than is necessary to achieve the purposes for which it is collected.
 
-* droit d’accès,
-* droit de rectification,
-* droit à l’effacement,
-* droit de restreindre le traitement,
-* droit à la portabilité des données,
-* droit d’objection.
+  
 
-Pour faire valoir l’un de ses droits, accéder à vos données, les modifier ou les supprimer d’une quelconque manière, vous pouvez prendre contact directement avec notre support via le formulaire de contact.
+Data associated with an account that has not subscribed to any offer will be automatically deleted after 1 year of inactivity.
+
+Data associated with an account that has subscribed to any offer will be automatically deleted after 4 years of inactivity.
 
   
 
   
-**Politique au sujet des cookies**
+**User rights**
 
   
 
-Un cookie est un fichier stocké sur le disque dur d’un utilisateur lorsqu’il navigue sur un site web. Ce cookie permet d'être connecté à un compte Alldebrid et d'accéder à notre service.
+In accordance with the GDPR, users of the Alldebrid.com website have the following rights with regard to their personal data :
+
+* right of access,
+* right of rectification,
+* right to deletion,
+* right to limit processing,
+* right to data portability,
+* right of objection.
+
+To exercise one of your rights, access your data, modify it or delete it in any way, you can contact our support directly via the contact form.
 
   
 
   
-**Modification de la politique de confidentialité**
+**Cookie policy**
 
   
 
-Afin de rester en accord avec la loi ou de refléter tout changement dans notre processus de gestion des données personnelles, la présente politique de confidentialité peut être amenée à changer et à être modifiée régulièrement.
+A cookie is a file stored on a user's hard drive when browsing a website. This cookie allows you to be connected to an Alldebrid account and access our service.
 
   
 
-Il est recommandé aux utilisateurs de vérifier régulièrement cette politique afin de se tenir informés de notre politique en termes de collecte et de traitement de données personnelles.
+  
+**Modification of the privacy policy**
+
+  
+
+In order to remain in accordance with the law or to reflect any changes in our personal data management process, this privacy policy may change and be amended regularly.
+
+  
+
+Users are advised to regularly check this policy to stay informed of our policy regarding the collection and processing of personal data.
 
   
 
@@ -187,7 +187,7 @@ Did you know ?
 
   
 
-© **AllDebrid.com** 2009 2042 - High quality premium link downloader. All rights reserved, reproduction prohibited without authorization. (1.94ms - 0)
+© **AllDebrid.com** 2009 2042 - High quality premium link downloader. All rights reserved, reproduction prohibited without authorization. (6.6ms - 0)
 
 [Mobile](https://m.alldebrid.com/)    |    [Downloader](https://alldebrid.com/service/)    |    [Pricing](https://alldebrid.com/offer/)    |    [Legal](https://alldebrid.com/legal/)    |    [Privacy](https://alldebrid.com/privacy/)    |    [Terms of Service](https://alldebrid.com/tos/)    |    [Bounty Program](https://alldebrid.com/bounty/)    |    [API (developer)](https://docs.alldebrid.com/)    |    [Japon](https://dondon.media/)    |    [Support](https://alldebrid.com/contact/)  
   
