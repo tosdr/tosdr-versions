@@ -365,6 +365,7 @@ it
             
         
     * [Verso la certificazione di parità](https://www.inps.it/it/it/inps-comunica/verso-la-certificazione-di-parita.html)
+    * [XXIII Rapporto annuale: tutte le tappe](https://www.inps.it/it/it/inps-comunica/xxiii-rapporto-annuale--tutte-le-tappe.html)
     * [Ufficio Stampa](#)
         
         Ufficio Stampa
