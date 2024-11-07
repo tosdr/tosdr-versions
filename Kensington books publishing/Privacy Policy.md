@@ -22,19 +22,19 @@ Audio
 
 * * *
 
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+    
+    Audiobooks for Kids
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+
+* * *
+
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
     
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/29140304/PRH_New-in-Audio-November-1200x628-1.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * <
     
