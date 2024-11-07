@@ -52,9 +52,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 4 hours 3 min ago
+Last seen: 47 min 13 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -131,9 +131,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 4 hours 3 min ago
+Last seen: 47 min 13 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -156,9 +156,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 4 hours 3 min ago
+Last seen: 47 min 13 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -180,9 +180,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 4 hours 3 min ago
+Last seen: 47 min 13 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -204,9 +204,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 4 hours 3 min ago
+Last seen: 47 min 13 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -228,9 +228,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 4 hours 3 min ago
+Last seen: 47 min 13 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -252,9 +252,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 4 hours 3 min ago
+Last seen: 47 min 13 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
