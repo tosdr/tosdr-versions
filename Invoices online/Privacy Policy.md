@@ -117,59 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> Thanks Adriaan...
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Johan Botha - Brand Xplosion
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=104264013)  
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=184156063)  
+LEONARD
+
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=7608985)  
+SAUL ATHOL ACRES RENTAL
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=41119838)  
+NIMAWELL
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=161707061)  
+Sonic Electrical Services PTY Ltd
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=196223349)  
+Salvage Genie
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=127605725)  
+Immediate Health (pty)ltd
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=174400408)  
 Digifax (Pty) Ltd trading as Digirent
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=190462896)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=63104497)  
+TechnoDezi PTY(LTD)
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=184781666)  
-Atalie Scented Candles Pty Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=164690426)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=163461659)  
-Myfinance-Online
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=172838985)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=134040968)  
-Dr V Naik Consult
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=44767554)  
+AquariumSmiths
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=190173303)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=153926007)  
+SafeTclip
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=122176230)  
-Cooper Power
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=154544678)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=111666800)  
-African Roots
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=119126049)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=26578494)  
-Firstweb Hosting & Design
-
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=173563003)  
-M's Frozen Delights
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=186456356)  
-Brilliant Roof Products
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=165627767)  
-Vplay Letsheng Mall
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=62910712)  
-Tantra Sound and Lightz
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=205800811)  
-Abandoned Vehicle and Truck Solutions
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=d07faf04cafd2c20c0b1fba2257a2580edbf3c2ebbe6ca49a605ce8adaef71fa&c=56819852)  
-Westside Car Audio CC
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=fb18700a4978b7825b4364133f03bede0bb2fa4274bbbae4ea549a37fbc00fb7&c=99024439)  
+Safe Train Mokgethwa (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
