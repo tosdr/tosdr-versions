@@ -111,15 +111,15 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/FND_poster_Gladiator2-Presale.jpg)
     
     Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235322/FND_poster_RedOne-Presale.jpg)
+    
+    Red One (2024)](https://www.fandango.com/red-one-2024-235322/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235494/Conclave_OfficialPoster.jpg)
     
     Conclave (2024)](https://www.fandango.com/conclave-2024-235494/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236735/S2_DOM_2025x3000_ONLINE_TEASER_ONE_SHEET_TORN.jpg)
     
     Smile 2 (2024)](https://www.fandango.com/smile-2-2024-236735/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234515/BTLBTL_VERT_MAIN_2764x4096_DOM_REV.jpg)
-    
-    Beetlejuice Beetlejuice (2024)](https://www.fandango.com/beetlejuice-beetlejuice-2024-234515/movie-overview)
 
 ### Experience + Explore
 
