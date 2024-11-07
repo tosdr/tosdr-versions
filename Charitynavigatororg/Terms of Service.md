@@ -13,7 +13,7 @@
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
     * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
-    * [Breast Cancer](https://www.charitynavigator.org/discover-charities/best-charities/breast-cancer.html)
+    * [Animal Rescue](https://www.charitynavigator.org/discover-charities/best-charities/support-animal-rescue.html)
     * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
     * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
     
@@ -53,7 +53,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
-    * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
+    * [Donor Video Resources](https://www.charitynavigator.org/donor-basics/tools-for-giving/donor-video-resources.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
@@ -110,7 +110,7 @@
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
     * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
-    * [Breast Cancer](https://www.charitynavigator.org/discover-charities/best-charities/breast-cancer.html)
+    * [Animal Rescue](https://www.charitynavigator.org/discover-charities/best-charities/support-animal-rescue.html)
     * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
     * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
     
@@ -150,7 +150,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
-    * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
+    * [Donor Video Resources](https://www.charitynavigator.org/donor-basics/tools-for-giving/donor-video-resources.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
