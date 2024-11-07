@@ -107,8 +107,6 @@ Anzeigen
     * Hell
     * Dunkel
 
-[**Eilmeldung** 14:14 Uhr Wissing übernimmt Justizministerium, Özdemir Bildungsministerium](https://www.zeit.de/politik/deutschland/2024-11/wissing-uebernimmt-justizministerium-oezdemir-bildungsministerium)
-
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
 
