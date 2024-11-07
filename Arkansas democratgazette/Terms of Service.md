@@ -122,6 +122,7 @@ Open user options menu
 * [Sign Out](https://www.arkansasonline.com/auth/logout)
 * [Donate](https://www.arcommunitynews.org/)
 * [Sign In](https://www.arkansasonline.com/auth/login?r=//www.arkansasonline.com/tools/termsofuse/)
+* [Subscribe](https://subscribe.arkansasonline.com/subscription/arkansas-democrat-gazette/?utm_source=id&utm_medium=website&utm_campaign=default&utm_term=39&utm_content=sub_button)
 * [Donate](https://www.arcommunitynews.org/)
 
 * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
