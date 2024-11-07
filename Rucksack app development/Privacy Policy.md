@@ -33,7 +33,7 @@ If you want to change your privacy settings (grant consent or revoke your previo
 Responsible
 -----------
 
-Karl Ulrich Gissel, Heidi Kraken, Klintstraße 13, 27619 Schiffdorf, Deutschland, [ved.k1730952259caskc1730952259ur@tc1730952259atnoc1730952259](mailto:contact@rucksack.dev),
+Karl Ulrich Gissel, Heidi Kraken, Klintstraße 13, 27619 Schiffdorf, Deutschland, [ved.k1731015259caskc1731015259ur@tc1731015259atnoc1731015259](mailto:contact@rucksack.dev),
 
 Hosting
 -------
@@ -117,64 +117,3 @@ Other web projects
 Proudly powered by [WordPress](https://wordpress.org/) | Theme: [Bulk](https://themes4wp.com/)
 
 In case you want to change your privacy settings (e.g. issue consent or revoke an already issued consent) please click on the button below. [Settings](#)
-
-![Logo of the popup](https://rucksack.dev/wp-content/plugins/shapepress-dsgvo/public/images/legalwebio-icon.png "WP DSGVO Tools (GDPR) for Wordpress and WooCommerce.")
-
-Data protection
-
-Details
-
-[](#)
-
-[Imprint](https://rucksack.dev/imprint/) | [Privacy Policy](https://rucksack.dev/legal/privacy-policy-for-this-website/)
-
- ![Country Flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English
-
- [![Country flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English](https://rucksack.dev/legal/privacy-policy-for-this-website/)
-
-Heidi Kraken, Owner: Karl Ulrich Gissel (Registered business address: Germany), would like to process personal data with external services. This is not necessary for using the website, but allows me to interact even more closely with them. If desired, please make a choice:
-
-![Logo of the popup](https://rucksack.dev/wp-content/plugins/shapepress-dsgvo/public/images/legalwebio-icon.png "WP DSGVO Tools (GDPR) for Wordpress and WooCommerce.")
-
-Data protection
-
-Details
-
-[Imprint](https://rucksack.dev/imprint/) | [Privacy Policy](https://rucksack.dev/legal/privacy-policy-for-this-website/)
-
- ![Country flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English
-
- [![Country flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English](https://rucksack.dev/legal/privacy-policy-for-this-website/)
-
-[](#)
-
-Heidi Kraken, Owner: Karl Ulrich Gissel (Registered business address: Germany), would like to process personal data with external services. This is not necessary for using the website, but allows me to interact even more closely with them. If desired, please make a choice:
-
-Analysis / Statistics (1 Service)
-
-Anonymous evaluation for troubleshooting and further development
-
-* * *
-
-Google Analytics
-
-Google LLC, USA
-
-[ⓘ All Details](#)
-
-[ⓘ All Details](#)
-
-Loading details
-
-[Back](#)
-
-[Accept selection](#) [Accept nothing](#) [Accept all](#)
-
-[Accept  
-selection](#)
-
-[Accept  
-nothing](#)
-
-[Accept  
-all](#)
