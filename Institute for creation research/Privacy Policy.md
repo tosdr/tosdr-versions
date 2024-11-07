@@ -95,31 +95,61 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Science Update
+More Features
 
-[![](/i/Main%20Stage%20-%201400x1050/firevenusflytrap_1400x1050.jpg)](https://www.icr.org/article/fire-sensory-capabilities)
+[![](/i/Main%20Stage%20-%201400x1050/creation_kids_0723_soundssummer.jpg)](https://www.icr.org/article/creation-kids-sounds-summer)
 
-[Fire Sensory Capabilities of the Venus Flytrap](https://www.icr.org/article/fire-sensory-capabilities/)
+[Creation Kids: Sounds of Summer](https://www.icr.org/article/creation-kids-sounds-summer/)
 
-Fascinating discoveries have been made regarding the amazing Venus flytrap (Dionaea muscipula).1 For example, all parts of this amazing plant...
+Designed by Susan Windsor\* You’re never too young to be a creation scientist! Kids, discover fun facts about God’s creation with ICR’s...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_fallfloodfossils.jpg)](https://www.icr.org/article/kids-edition-2023-fall-flood-fossils)
 
-[![](/i/Main%20Stage%20-%201400x1050/bigbangunravel_1400x1050.jpg)](https://www.icr.org/article/big-bang-unraveling)
+[Kids Edition 2023: The Fall, Flood, & Fossils](https://www.icr.org/article/kids-edition-2023-fall-flood-fossils/)
 
-[New York Times Editorial: Big Bang Unraveling?](https://www.icr.org/article/big-bang-unraveling/)
+Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
 
-Two physicists have suggested in a recent New York Times guest editorial that Big Bang cosmology ‘may be starting to unravel.’1...
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/makoshikastatepark_1400x1050.jpg)](https://www.icr.org/article/makoshika-state-park)
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+[Makoshika State Park: Dinosaur Myths and Wonders](https://www.icr.org/article/makoshika-state-park/)
 
-[![](/i/Main%20Stage%20-%201400x1050/earliestfloweringplants_1400x1050.jpg)](https://www.icr.org/article/earliest-flowering-plants)
+by Brian Thomas, Ph.D., and Tommy Lohman\* Makoshika State Park, located just southeast of Glendive, Montana, became a state park in 1939....
 
-[Insects Pollinated Earth's Earliest Flowering Plants](https://www.icr.org/article/earliest-flowering-plants/)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-In Genesis 1 we read the land plants were created on Day 3 of the creation week, and living creatures were created on Days 5 and 6. This would include...
+Shop Related Products
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56181428/file.jpg)
+
+Carved in Stone](https://store.icr.org/carved-in-stone.html)
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19343319/file.jpg)
+
+Carved in Stone](https://store.icr.org/carved-in-stone-geological-evidence-of-the-worldwi.html)
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/36502300/file.jpg)
+
+Henry Explores the New World](https://store.icr.org/henry-explores-the-new-world.html)
+
+$8.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11930827/file.jpg)
+
+Pack: Big Plans for Henry](https://store.icr.org/pack-big-plans-for-henry.html)
+
+$15.99
+
+$21.98
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183477/file.jpg)
+
+Carved in Stone DVD - Download](https://store.icr.org/carved-in-stone-dvd-download.html)
+
+$10.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
