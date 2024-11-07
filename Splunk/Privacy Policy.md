@@ -1202,9 +1202,9 @@ USER REVIEWS
 
 SPLUNK MOBILE
 
- [![Download Splunk Mobile  on the apple app store](/content/dam/splunk2/en_us/images/logos/download-app-store-apple.svg)](http://splk.it/ios)
+ [](http://splk.it/ios)
 
- [![ Download Splunk Mobile on the Google Play store](/content/dam/splunk2/en_us/images/logos/google-play-badge-lrg.png)](http://splk.it/android)
+ [](http://splk.it/android)
 
  [![Splunk Global Footer Logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg) Splunk Global Footer Logo](https://www.splunk.com/)
 
