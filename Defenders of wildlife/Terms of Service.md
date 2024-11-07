@@ -493,7 +493,7 @@ Image
 
 wesdotphotography/Alamy Stock Photo
 
-We beat Donald Trump once. We'll beat him again.
-------------------------------------------------
+We’ve battled Donald Trump once. We're ready to do it again.
+------------------------------------------------------------
 
 [JOIN THE DEFENSE TODAY](https://support.defenders.org/page/75404/donate/1?ea.tracking.id=web-lightbox-Appeals)
