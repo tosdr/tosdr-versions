@@ -232,9 +232,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+All the submissions, none of the calories.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this dismal swampland](https://www.fark.com/goto/13450114) ( [scontent-lax3-1.xx.fbcdn.net](https://www.fark.com/goto/13450114) ) » [(6 comments)](https://www.fark.com/comments/13450114/Photoshop-this-dismal-swampland) |
-| [Discussion](https://www.fark.com/discussion/) | ["I'm weaning my son, but he thinks my boobs are his property. How do I dissuade him from the notion before he becomes a MAGA?"](https://www.fark.com/goto/13454608) ( [slate.com](https://www.fark.com/goto/13454608) ) » [(9 comments)](https://www.fark.com/comments/13454608/Im-weaning-my-son-but-he-thinks-my-boobs-are-his-property-How-do-I-dissuade-him-from-notion-before-he-becomes-a-MAGA) |
-| [Sports](https://www.fark.com/sports/) | [Mid-season review - six things the Brits have learned about football. No, football](https://www.fark.com/goto/13454160) ( [bbc.com](https://www.fark.com/goto/13454160) ) » [(0 comments)](https://www.fark.com/comments/13454160/Mid-season-review-six-things-Brits-have-learned-about-football-No-football) |
-| [Business](https://www.fark.com/business/) | [Wegovy maker getting really fat](https://www.fark.com/goto/13454176) ( [cnbc.com](https://www.fark.com/goto/13454176) ) » [(3 comments)](https://www.fark.com/comments/13454176/Wegovy-maker-getting-really-fat) |
-| [STEM](https://www.fark.com/stem/) | [Computer scientists are creating a "last exam" for AI, to determine if it's truly intelligent or not. Too bad the test's very design is exactly the type of nonsense AI is good at faking](https://www.fark.com/goto/13454478) ( [bigthink.com](https://www.fark.com/goto/13454478) ) » [(0 comments)](https://www.fark.com/comments/13454478/Computer-scientists-are-creating-a-last-exam-for-AI-to-determine-if-its-truly-intelligent-not-Too-bad-tests-very-design-is-exactly-type-of-nonsense-AI-is-good-at-faking) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Garfunkel on if he'd still so oats with Simon](https://www.fark.com/goto/13454550) ( [nme.com](https://www.fark.com/goto/13454550) ) » [(24 comments)](https://www.fark.com/comments/13454550/Garfunkel-on-if-hed-still-so-oats-with-Simon) |
-| [Fandom](https://www.fark.com/fandom/) | [Identity of Metal Gear Solid 3 EVA voice actor finally revealed](https://www.fark.com/goto/13454710) ( [kotaku.com](https://www.fark.com/goto/13454710) ) » [(0 comments)](https://www.fark.com/comments/13454710/Identity-of-Metal-Gear-Solid-3-EVA-voice-actor-finally-revealed) |
-| [D'awww](https://www.fark.com/dawww/) | [120 fuzzy cat bellies for petting-if you're tired of having unscarred hands](https://www.fark.com/goto/13454262) ( [boredpanda.com](https://www.fark.com/goto/13454262) ) » [(10 comments)](https://www.fark.com/comments/13454262/-120-fuzzy-cat-bellies-for-petting-if-youre-tired-of-having-unscarred-hands) |
-| [Food](https://www.fark.com/food/) | [Slice of Queen Elizabeth II's wedding fruit cake found under bed, sells at auction for big ££, still just as nasty as it was on the day she married](https://www.fark.com/goto/13454676) ( [aol.com](https://www.fark.com/goto/13454676) ) » [(1 comment)](https://www.fark.com/comments/13454676/Slice-of-Queen-Elizabeth-IIs-wedding-fruit-cake-found-under-bed-sells-at-auction-for-big-still-just-as-nasty-as-it-was-on-day-she-married) |
-| [Politics](https://www.fark.com/politics/) | [Well, on the plus side, at least Truth Social stock is (kind of) floundering after an initial surge. Definitely not the spike you would expect](https://www.fark.com/goto/13454626) ( [cnn.com](https://www.fark.com/goto/13454626) ) » [(9 comments)](https://www.fark.com/comments/13454626/Well-on-plus-side-at-least-Truth-Social-stock-is-kind-of-floundering-after-an-initial-surge-Definitely-not-spike-you-would-expect) |
+| [Main](https://www.fark.com/) | [I was not aware that GoreTex has been knowingly poisoning their customers all these years](https://www.fark.com/goto/13454920) ( [youtube.com](https://www.fark.com/goto/13454920) ) » [(6 comments)](https://www.fark.com/comments/13454920/I-was-not-aware-that-GoreTex-has-been-knowingly-poisoning-their-customers-all-these-years) |
+| [Discussion](https://www.fark.com/discussion/) | ["I'm weaning my son, but he thinks my boobs are his property. How do I dissuade him from the notion before he becomes a MAGA?"](https://www.fark.com/goto/13454608) ( [slate.com](https://www.fark.com/goto/13454608) ) » [(10 comments)](https://www.fark.com/comments/13454608/Im-weaning-my-son-but-he-thinks-my-boobs-are-his-property-How-do-I-dissuade-him-from-notion-before-he-becomes-a-MAGA) |
+| [Sports](https://www.fark.com/sports/) | [Ham on the bone: tasty when cooked. Dak Prescott's hamstring off the bone: Cowboys' season cooked](https://www.fark.com/goto/13454884) ( [espn.com](https://www.fark.com/goto/13454884) ) » [(11 comments)](https://www.fark.com/comments/13454884/Ham-on-bone-tasty-when-cooked-Dak-Prescotts-hamstring-off-bone-Cowboys-season-cooked) |
+| [Business](https://www.fark.com/business/) | [Which stocks rose the most post-election day? Private Prisons](https://www.fark.com/goto/13454834) ( [cnn.com](https://www.fark.com/goto/13454834) ) » [(3 comments)](https://www.fark.com/comments/13454834/Which-stocks-rose-most-post-election-day-Private-Prisons) |
+| [STEM](https://www.fark.com/stem/) | [Computer scientists are creating a "last exam" for AI, to determine if it's truly intelligent or not. Too bad the test's very design is exactly the type of nonsense AI is good at faking](https://www.fark.com/goto/13454478) ( [bigthink.com](https://www.fark.com/goto/13454478) ) » [(13 comments)](https://www.fark.com/comments/13454478/Computer-scientists-are-creating-a-last-exam-for-AI-to-determine-if-its-truly-intelligent-not-Too-bad-tests-very-design-is-exactly-type-of-nonsense-AI-is-good-at-faking) |
+| [Entertainment](https://www.fark.com/entertainment/) | [20 years ago we got an incredible fantastic four](https://www.fark.com/goto/13454824) ( [pastemagazine.com](https://www.fark.com/goto/13454824) ) » [(8 comments)](https://www.fark.com/comments/13454824/-20-years-ago-we-got-an-incredible-fantastic-four) |
+| [Fandom](https://www.fark.com/fandom/) | [20 years ago we got an incredible fantastic four](https://www.fark.com/goto/13454824) ( [pastemagazine.com](https://www.fark.com/goto/13454824) ) » [(8 comments)](https://www.fark.com/comments/13454824/-20-years-ago-we-got-an-incredible-fantastic-four) |
+| [D'awww](https://www.fark.com/dawww/) | [Just taking a cat kayaking. In the morning fog](https://www.fark.com/goto/13454872) ( [youtube.com](https://www.fark.com/goto/13454872) ) » [(0 comments)](https://www.fark.com/comments/13454872/Just-taking-a-cat-kayaking-In-morning-fog) |
+| [Food](https://www.fark.com/food/) | [Next you'll be trying to convince me that's not real crab or wasabi](https://www.fark.com/goto/13454594) ( [gizmodo.com](https://www.fark.com/goto/13454594) ) » [(38 comments)](https://www.fark.com/comments/13454594/Next-youll-be-trying-to-convince-me-thats-not-real-crab-wasabi) |
+| [Politics](https://www.fark.com/politics/) | [Someone changed the keys to the White House](https://www.fark.com/goto/13454750) ( [usatoday.com](https://www.fark.com/goto/13454750) ) » [(7 comments)](https://www.fark.com/comments/13454750/Someone-changed-keys-to-White-House) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 06 2024 20:42:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 07 2024 01:42:38  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
