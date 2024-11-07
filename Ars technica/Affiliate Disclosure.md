@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: After 31 cargo missions, NASA finds Dragon still has some new tricks](https://cdn.arstechnica.net/wp-content/uploads/2022/06/51842830239_a0768f7dc5_k-768x432.jpg)](https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/)
+1. [![Listing image for first story in Most Read: NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://cdn.arstechnica.net/wp-content/uploads/2024/11/f9_starlinks-768x432.jpg)](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
     
-    1. [After 31 cargo missions, NASA finds Dragon still has some new tricks](https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/)
+    1. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
     
-2. 2. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
+2. 2. [After 31 cargo missions, NASA finds Dragon still has some new tricks](https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/)
     
 3. 3. [Trump’s election win spells bad news for the auto industry](https://arstechnica.com/cars/2024/11/ev-subsidies-out-new-import-tariffs-in-how-trumps-win-affects-autos/)
     
 4. 4. [Trump’s 60% tariffs could push China to hobble tech industry growth](https://arstechnica.com/tech-policy/2024/11/tech-industry-fears-china-will-retaliate-against-trumps-60-tariffs/)
     
-5. 5. [The next Starship launch may occur in less than two weeks](https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/)
+5. 5. [Trump plans to dismantle Biden AI safeguards after victory](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/)
     
 
 Customize
