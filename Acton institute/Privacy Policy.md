@@ -8,6 +8,8 @@ Menu
 
 [![](/themes/acton/dist/img/mobile-menu/acton_logo_white.svg)](https://www.acton.org/home)
 
+[![AU 2025 Mobile Banner](https://www.acton.org/sites/default/files/pcs/marketing/mobile.png)](https://university.acton.org/dinner)
+
 Close
 
 Main Menu Mobile
