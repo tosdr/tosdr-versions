@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Respect
+
+### The election’s other message](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1107/The-election-s-other-message "The election’s other message")
+
 [Hope
 
 ### Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’](https://www.csmonitor.com/World/Europe/2024/1106/ukraine-war-trump-election-russia "Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’")
@@ -99,10 +103,6 @@ Recent Stories
 [Balance
 
 ### Voter nostalgia for harmony, balance](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1106/Voter-nostalgia-for-harmony-balance "Voter nostalgia for harmony, balance")
-
-[Integrity
-
-### Here’s what it looks like when voting goes right](https://www.csmonitor.com/USA/Politics/2024/1106/election-results-North-Carolina-Trump "Here’s what it looks like when voting goes right")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
-[### Will Trump still face lawsuits? Will he use Justice Department to sue his enemies?](https://www.csmonitor.com/USA/Justice/2024/1107/trump-justice-department-retribution-trials "Will Trump still face lawsuits? Will he use Justice Department to sue his enemies?")
+[### With Trump, ‘America First’ is back. US allies brace for a shock.](https://www.csmonitor.com/World/2024/1107/trump-isolationist-america-first "With Trump, ‘America First’ is back. US allies brace for a shock.")
 
-[### Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’](https://www.csmonitor.com/World/Europe/2024/1106/ukraine-war-trump-election-russia "Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’")
+[### Brazil’s president promised to protect the Amazon. This year, deforestation fell 31%.](https://www.csmonitor.com/World/Americas/2024/1107/Brazil-Amazon-deforestation-Lula-environment-climate-change "Brazil’s president promised to protect the Amazon. This year, deforestation fell 31%.")
 
-[### Cargo packages waiting for North American flights ignited. Officials blame Russia.](https://www.csmonitor.com/World/Europe/2024/1106/Russian-sabotage-explosive-devices-planes-United-States "Cargo packages waiting for North American flights ignited. Officials blame Russia.")
+[### Germany can’t balance its budget. Now its government is in free fall.](https://www.csmonitor.com/World/Europe/2024/1107/olaf-scholz-German-coalition-collapses-debt-Ukraine "Germany can’t balance its budget. Now its government is in free fall.")
 
 * * *
 
