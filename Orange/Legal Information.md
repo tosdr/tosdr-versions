@@ -120,7 +120,6 @@
 * [Careers](https://www.orange.com/en/your-career-at-orange)
 * [Newsroom](https://newsroom.orange.com/?lang=en)
 * [Magazines](https://www.orange.com/en/magazines)
-* [Orange Cyberdefense: building a safer digital society](https://www.orange.com/en/group/our-activities/cybersecurity)
 
 * Algolia Search bar
 * [fr](https://www.orange.com/fr/notice-sur-la-protection-des-donnees-personnelles)
