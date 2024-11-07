@@ -1,6 +1,6 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                          Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                              [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                        Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
 
-[Up to $200 off ebikes](https://www.radpowerbikes.com/pages/sales-deals "Up to $200 off ebikes")
+[Save Up to $300](https://www.radpowerbikes.com/pages/sales-deals "Save Up to $300")
 
 ![Rad Power Bikes' logo](//www.radpowerbikes.com/cdn/shop/files/rad-power-bikes-tm-logo.svg?v=16034809318726654313)
 
@@ -209,7 +209,7 @@
     
     ##### [Kickstands](https://www.radpowerbikes.com/collections/replacement-parts/category_replacement-kickstands "Kickstands") Kickstands
     
-    ##### [Pedals](https://www.radpowerbikes.com/collections/replacement-parts/Collection_Pedals "Pedals") Pedals
+    ##### [Pedals](https://www.radpowerbikes.com/collections/replacement-parts/Collection_All_Models_Pedals "Pedals") Pedals
     
     ##### [Saddles & Seats](https://www.radpowerbikes.com/collections/replacement-parts/Category_Saddles-%2F-Seats "Saddles & Seats") Saddles & Seats
     
