@@ -31,897 +31,1047 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Aquiles Alvarez fue sentenciado; se niega a cumplir parte de la sanción
-=======================================================================
+Conozca los requisitos para recibir 400 dólares mensuales del Gobierno
+======================================================================
 
-El Alcalde de Guayaquil fue sentenciado por el TCE por violencia política de género tras una denuncia de la asambleísta Lucía Jaramillo
----------------------------------------------------------------------------------------------------------------------------------------
+El programa Jóvenes en Acción otorga una transferencia de 400 dólares mensuales. Será por tres meses para ecuatorianos, de 18 a 29 años.
+----------------------------------------------------------------------------------------------------------------------------------------
 
-![El Alcalde de Guayaquil fue sentenciado por el TCE por violencia política de género.](https://www.elcomercio.com/wp-content/uploads/2024/11/Aquiles.jpg)
+![La iniciativa busca fortalecer capacidades y potencialidades de la juventud del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/reforestacion.jpg)
 
-El alcalde de Guayaquil**, Aquiles Alvarez**, fue denunciado por la asambleísta **Lucía Jaramillo** luego de que Alvarez publicara comentarios en referencia a ella en su cuenta de la red social X.
+El presidente **Daniel Noboa l**anzó el programa **Jóvenes en Acción**. Esta iniciativa busca la participación juvenil en proyectos de reforestación, educación ambiental, mantenimiento de infraestructura vial y apoyo a pequeños productores. A cambio, los jóvenes recibirán beneficio monetario de 400 dólares mensuales por tres meses[.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
 
 ### Más noticias
 
-* [Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión](https://www.elcomercio.com/actualidad/seguridad/caso-triple-a-audiencia-formulacion-cargos-suspendio-segunda-ocasion.html "Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión")
-* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
-* [Policía recuperó cinco osamentas humanas en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-osamentas-humanas-guayaquil.html "Policía recuperó cinco osamentas humanas en Guayaquil")
+* [Daniel Noboa propuso una reforma constitucional sobre los presos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reforma-constitucional-presos.html "Daniel Noboa propuso una reforma constitucional sobre los presos")
+* [Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-alivios-economicos-entidades-financieras-crisis-energetica.html "Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales por crisis energética")
+* [Jóvenes ya pueden inscribirse en el proyecto del Gobierno para ganar 400 dólares mensuales](https://www.elcomercio.com/actualidad/negocios/jovenes-ya-pueden-inscribirse-en-el-proyecto-del-gobierno-para-ganar-400-dolares-mensuales.html "Jóvenes ya pueden inscribirse en el proyecto del Gobierno para ganar 400 dólares mensuales")
 
-La denuncia
+Requisitos para participar en el proyecto
+-----------------------------------------
+
+Según el **Decreto Ejecutivo 448**, emitido la tarde de este 6 de noviembre de 2024, para participar en la iniciativa los jóvenes deben tener los siguientes requisitos:
+
+* Tener entre 18 años a 29 años y 11 meses.
+* No deben estar afiliados al Instituto Ecuatoriano de Seguridad Social (IESS).
+* No contar con el registro único de contribuyentes (RUC).
+* Que no cuenten con título de tercer nivel.
+* No ser beneficiario de otras transferencias monetarias del Ministerio de Inclusión Económica y Social (MIES).
+* Estar registrado en el programa **Jóvenes en Acción** de la Secretaría de Educación Superior (Senescyt) o Ministerio de Relaciones Exteriores, cumpliendo alguna de las siguientes condiciones:
+    * Registrado en la Senescyt desde el segundo período académico de 2023, sin cupo en universidades públicas ni beca estatal.
+    * Ser ecuatoriano retornado, con certificado de migrante retornado en caso de retorno voluntario.
+
+Este programa busca la participación activa de 80 000 jóvenes en proyectos para superar la crisis económica, ambiental y energética por la que atraviesa el Ecuador, señaló el presidente Noboa.
+
+Los ministerios de Ambiente, Agricultura y Transporte definirán las acciones en las que participarán los beneficiarios. Mientras que el Ministerio de Inclusión Económica y Social (MIES) gestionará los pagos y reportes mensuales.
+
+El pago de 400 dólares mensuales será directo a la cuenta bancaria de los beneficiarios, señala el Decreto.
+
+Asimismo, el documento establece que la convocatoria al programa la realizará la Secretaría de Educación Superior y el Ministerio de Relaciones Exteriores desde el 9 de noviembre del 2024.
+
+Desde el Ministerio de Economía y Finanzas se informó que el monto total de inversión en el programa de **Jóvenes en Acción** será de 100 millones de dólares en los tres meses que durará la iniciativa. Los recursos serán transferidos a entidades participantes.
+
+Colombia presentó sus convocados para enfrentar a Ecuador
+=========================================================
+
+La selección cafetera será uno de los rivales de la 'Tri' en la próxima ventana de eliminatorias sudamericanas.
+---------------------------------------------------------------------------------------------------------------
+
+![James Rodríguez, Luis Díaz y Richard Ríos, jugadores de la Selección de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-94.jpg)
+
+La Selección de **Colombia** llega en un gran momento a las eliminatorias, consolidada como un equipo fuerte, físico y lleno de talento, lo cual representa un gran desafío para **Sebastián Beccacece** y su equipo al mando de la **Selección de Ecuador.**
+
+Néstor Lorenzo, DT de Colombia, presentó este jueves 7 de noviembre a los **27 convocados** para la próxima ventana de eliminatorias sudamericanas, en la que enfrentarán a Uruguay en Montevideo y a Ecuador en Barranquilla.
+
+### Más noticias:
+
+* [¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-oscar-zambrano-dopaje.html "¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?")
+* [Iván Kaviedes anotó hace 23 años el gol más gritado de Ecuador](https://www.elcomercio.com/deportes/futbol/ivan-kaviedes-seleccion-ecuador-eliminatorias.html "Iván Kaviedes anotó hace 23 años el gol más gritado de Ecuador")
+* [El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/el-calor-y-la-humedad-de-guayaquil-el-aliado-de-ecuador-ante-bolivia.html "El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia")
+
+La lista no presenta grandes sorpresas respecto a los llamados previos y estará liderada por James Rodríguez, el capitán de Colombia, junto con **Luis Díaz y Jhon Durán**, quienes atraviesan un gran momento en la Premier League de Inglaterra con el Liverpool y el Aston Villa, respectivamente.
+
+Los convocados de Colombia
+--------------------------
+
+La Selección de Colombia es el **segundo mejor equipo de las eliminatorias**, solo por detrás de Argentina.
+
+Los cafeteros ocupan la segunda posición en la tabla con 19 puntos en 10 partidos, y han perdido solo una vez. Además, se colocan como el tercer equipo más goleador del proceso, con 13 anotaciones.
+
+### Lista de convocados
+
+* **Álvaro Montero** – Millonarios FC (COL)
+* **Camilo Vargas** – Atlas FC (MEX)
+* **Carlos Cuesta** – K. R. C. Genk (BEL)
+* **Carlos Gómez** – Stade Rennais FC (FRA)
+* **Cristian Borja** – América MX (MEX)
+* **Dávinson Sánchez** – Galatasaray S. K. (TUR)
+* **Daniel Muñoz** – Crystal Palace (ENG)
+* **David Ospina** – Atlético Nacional (COL)
+* **Gustavo Puerta** – Hull City (ENG)
+* **James Rodríguez** – Rayo Vallecano (ESP)
+* **Jhon Arias** – Fluminense (BRA)
+* **Jhon Córdoba** – F. C. Krasnodar (RUS)
+* **Jhon Durán** – Aston Villa F. C. (ENG)
+* **Jhon Lucumí** – Bologna F. C. (ITA)
+* **Johan Mojica** – R. C. D. Mallorca (ESP)
+* **Jorge Carrascal** – F. C. Dinamo (RUS)
+* **Juan Camilo Portilla** – C. A. Talleres (ARG)
+* **Juan David Cabal** – Juventus (ITA)
+* **Juan Fernando Quintero** – Racing Club (ARG)
+* **Kevin Castaño** – F. C. Krasnodar (RUS)
+* **Luis Díaz** – Liverpool (ENG)
+* **Matheus Uribe** – Al-Sadd S. C. (QAT)
+* **Rafael Santos Borré** – Internacional (BRA)
+* **Richard Ríos** – Palmeiras (BRA)
+* **Santiago Arias** – E. C. Bahía (BRA)
+* **Sebastián Gómez** – Coritiba F.C (BRA)
+* **Yerry Mina** – Cagliari Calcio (ITA)
+
+Ecuador visita a una dura Colombia
+----------------------------------
+
+En la undécima fecha, Colombia viajará a **Montevideo** para enfrentar a **Uruguay** el viernes 15 de noviembre a las 19:00 (hora Ecuador), en el Estadio Centenario.
+
+Para la duodécima fecha y el último partido del año en eliminatorias, Colombia se medirá ante **Ecuador** en **Barranquilla** el martes 19 de noviembre a las 18:00 (hora Ecuador), en el Estadio Metropolitano Roberto Meléndez.
+
+Reformas aprobadas en las elecciones de Estados Unidos de noviembre 2024
+========================================================================
+
+Los resultados de los referendos subrayan un panorama polarizado sobre el aborto en Estados Unidos.
+---------------------------------------------------------------------------------------------------
+
+![Los votantes emitieron sus votos en una mesa electoral en el vestíbulo del Museo de Brooklyn](https://www.elcomercio.com/wp-content/uploads/2024/11/votaciones-5-noviembre-1.jpg)
+
+El 5 de noviembre de 2024, los votantes en varios estados de [Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-elecciones-estados-unidos.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-elecciones-estados-unidos.html") decidieron sobre temas cruciales que redefinirán el **panorama político** del país.
+
+### Más noticias
+
+* [Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela](https://www.elcomercio.com/actualidad/mundo/maduro-ve-la-victoria-de-trump-como-nuevo-comienzo-para-estados-unidos-y-venezuela.html "Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela")
+* [¿Cómo quedan el Senado y la Cámara Baja en Estados Unidos tras las elecciones?](https://www.elcomercio.com/actualidad/mundo/como-queda-senado-camara-estados-unidos.html "¿Cómo quedan el Senado y la Cámara Baja en Estados Unidos tras las elecciones?")
+* [Bolton, el exasesor de Trump que quiere su derrota en Estados Unidos](https://www.elcomercio.com/actualidad/bolton-exasesor-trump-peligro-estados-unidos.html "Bolton, el exasesor de Trump que quiere su derrota en Estados Unidos")
+
+A través de referendos, se aprobaron reformas sobre **aborto**, **salarios**, **inmigración**, **marihuana**, **justicia criminal** y **ciudadanía**. Estos cambios tienen implicaciones directas en la vida diaria de millones de personas y marcan un giro significativo en las políticas públicas de EE. UU.
+
+Aborto
+------
+
+El 5 de noviembre de 2024, miles de estadounidenses acudieron a las urnas para decidir sobre el **derecho al aborto** en **10 estados clave**. Como informó la BBC, estos referendos reflejan la división del país sobre los derechos reproductivos, especialmente después de la revocación de la protección federal por parte de la Corte Suprema en 2022.
+
+En siete estados, los votantes aprobaron reformas para proteger el derecho al aborto. **Arizona y Misuri,** por ejemplo, **revirtieron las prohibiciones** previas y establecieron garantías constitucionales hasta la viabilidad fetal. Otros estados, como **Colorado** y **Nevada**, modificaron sus constituciones para asegurar que el **derecho al aborto se mantenga sin restricciones severas.**
+
+Sin embargo, la consulta en **Florida**, **Dakota del Sur** y **Nebraska** tuvo resultados opuestos. En Florida, los votantes no lograron superar el umbral necesario para invalidar la estricta ley del latido, que prohíbe el aborto después de la sexta semana. Este tipo de leyes, como destacó la BBC, siguen siendo un desafío en varios estados republicanos.
+
+Los resultados de estos referendos, según la BBC**,** subrayan un panorama polarizado sobre el aborto en EE. UU., donde cada estado continúa tomando decisiones cruciales que afectan los derechos reproductivos de las mujeres.
+
+Salarios
+--------
+
+Por otro lado, **salarios** fue otro de los temas centrales. Estados como Michigan, Arizona y Nebraska aprobaron aumentos significativos en el **nuevo valor de la hora de trabajo**. Estas reformas buscan garantizar un ingreso más justo para los trabajadores, en medio de una creciente inflación. Con esta medida, los votantes esperan reducir la desigualdad económica y mejorar las condiciones laborales.
+
+Inmigración
 -----------
 
-La asambleísta Lucía Jaramillo denunció a Alvarez luego de que, el 16 de julio de 2024, el actual Alcalde de Guayaquil posteara que es una **“niña vaga” y una “vocera turra”.** Estas palabras se consideraron como estereotipadas y despectivas.
+La **inmigración** fue un asunto clave en estados como California, donde se aprobaron políticas que facilitan el acceso a la **ciudadanía** para inmigrantes indocumentados. Estos cambios reflejan una postura más inclusiva y progresista, en contraste con las medidas restrictivas implementadas en estados como Alabama y Arizona.
 
-Así lo determinó el **Tribunal Contencioso Electoral** (TCE) y reafirmó que se constituyen en **violencia política de género**, pues menoscaban la imagen pública de Jaramillo.
+Marihuana
+---------
 
-Además, se consideró que las palabras de Alvarez **atentan contra su dignidad** en el ejercicio de su cargo como asambleísta y **se declaró responsable al denunciado**.
+La **legalización de la marihuana** también fue un tema importante. En estados como **Nueva Jersey y Ohio,** los votantes aprobaron leyes que permiten su uso recreativo y medicinal. Esto marca una tendencia creciente hacia la despenalización de la cannabis en diversas partes del país.
 
-Por ello, **el TCE sentenció a Aquiles Alvarez** con las siguientes sanciones:
-
-* Se impuso una multa de 21 salarios básicos, que corresponden a **9 660 dólares,** y se debe pagar en un plazo máximo de seis meses.
-* Como medidas de reparación**, se prohibió cualquier comunicación** que haga referencia a la denunciante y **la eliminación del post** en la red social X.
-* Además, el sentenciado **debe publicar las disculpas públicas** en su cuenta de X dentro de 10 días y dejarla por 30 días.
-* Debe **cumplir un curso de sensibilización** contra la violencia de género de 20 horas en un plazo máximo de 60 días.
-
-Reacciones ante la sentencia
-----------------------------
-
-La asambleísta **Lucía Jaramillo** comentó en su cuenta de X que la sentencia “deja un precedente contra quienes piensan que el poder se impone con intimidación”. Se mostró agradecida con su equipo legal.
-
-Añadió que “esta es una victoria para todas: **Aquí no nos calla nadie!”.**
-
-Por su parte, **Aquiles Alvarez** señaló: Jamás pedir disculpas por decir la verdad, la vagancia no tiene que ver con género”. Agregó que un informe de Contraloría sustenta que la asambleísta no acudía a trabajar.
-
-Se mostró enfático en el rechazo a ofrecer disculpas y que prefiere la destitución. También hizo referencia a su labor en la Alcaldía: **“Señores del TCE**: prefiero que me destituyan, vengan a hacerse cargo de un Guayaquil que quedó destrozado… Vengan no más, d**estitúyanme si quieren**“.
-
-“Vengan nomas, atropellen la democracia y **destituyan a un alcalde** que recorrió toda la ciudad de forma honrada, para buscar una opción de cambio y que hoy la lucha día a día por sacarla adelante”.
-
-“Destitúyanme, los espero. Veremos que reacción de la mayoría gente en las calles y zonas que estuvieron olvidadas de Guayaquil, que hoy en esta administración POR FIN tienen agua potable después de 40 años cuando lo hagan (sic)”, [concluyó](https://es.wikipedia.org/wiki/Aquiles_Alvarez "https://es.wikipedia.org/wiki/Aquiles_Alvarez").
-
-> Jamás pedir disculpas por decir la verdad, la vagancia no tiene que ver con género, más aún si está sustentado con un informe de Contraloria donde se sustenta de que jamás acudía a su lugar de trabajo, jamás marcaba, etc. el que es vago, es vago, sea hombre o mujer.  
->   
-> Señores del… [https://t.co/UaI5vHi17W](https://t.co/UaI5vHi17W)
-> 
-> — Aquiles Alvarez Henriques (@aquilesalvarez) [November 7, 2024](https://twitter.com/aquilesalvarez/status/1854402674680037872?ref_src=twsrc%5Etfw)
-
-Liga de Quito domina ampliamente el historial contra Independiente del Valle
-============================================================================
-
-Liga de Quito e Independiente del Valle disputarán el partido número 50 en el campeonato ecuatoriano.
------------------------------------------------------------------------------------------------------
-
-![Liga de Quito e Independiente del Valle jugarán su partido número 50.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-93.jpg)
-
-La definición de la segunda etapa de la **Liga Pro** está al rojo vivo, con dos equipos al frente, con el mismo puntaje y la misma ilusión. **Liga de Quito** e Independiente del Valle se enfrentarán este sábado 9 de noviembre en lo que ya se considera una “final adelantada”.
-
-Este partido corresponde a la jornada 13 de 15 de la segunda mitad del campeonato ecuatoriano. Ambos equipos suman 26 puntos, con **IDV liderando por diferencia de goles**. Sin embargo, este encuentro podría ser determinante para saber si los rayados se consagrarán campeones directos o si la ‘U’ llegará a otra final para defender su título ganado en 2023, precisamente ante el mismo rival.
-
-Más noticias:
--------------
-
-* [Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-ligapro.html "Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada")
-* [¿Alex Arce abandonará Liga de Quito al final de temporada?](https://www.elcomercio.com/deportes/futbol/alex-arce-abandonara-liga-de-quito-al-final-de-temporada.html "¿Alex Arce abandonará Liga de Quito al final de temporada?")
-* [¿Cuándo juegan Liga de Quito e Independiente del Valle?](https://www.elcomercio.com/deportes/cuando-juegan-liga-de-quito-independiente-del-valle.html "¿Cuándo juegan Liga de Quito e Independiente del Valle?")
-
-Aunque la historia de este enfrentamiento es relativamente corta, ya que sus primeros encuentros datan de 2010, ambos equipos han forjado una gran rivalidad, siendo los únicos clubes ecuatorianos en haber conquistado títulos internacionales. No obstante, en cuanto al historial de enfrentamientos directos, **hay un claro vencedor: Liga de Quito.**
-
-Liga de Quito y su “paternidad” ante Independiente del Valle
-------------------------------------------------------------
-
-A pesar de que **Independiente del Valle** ha sido uno de los mejores equipos del fútbol ecuatoriano en la última década, y algunos incluso lo consideran el mejor, su rival, Liga de Quito, ha sido un hueso duro de roer.
-
-En los 49 partidos jugados entre ambos, desde 2010 hasta la fecha, **Liga ha ganado 23 veces**, mientras que Independiente del Valle solo ha logrado 11 victorias. Los 15 encuentros restantes terminaron en empate, lo que le da una clara ventaja a la ‘U’.
-
-Este es un enfrentamiento que solo se ha dado una vez en finales, y en esa ocasión, en la definición de la LigaPro 2023, **Liga de Quito se coronó campeón** tras vencer por penales a Independiente del Valle.
-
-En cuanto a estadísticas más específicas, la ‘U’ también tiene ventaja tanto de local como de visitante, siendo la diferencia más amplia cuando se enfrentan en el **Estadio Rodrigo Paz Delgado**.
-
-En este escenario, se han jugado **24 partidos, con 14 victorias para Liga** y solo tres para Independiente del Valle. Como visitante, Liga ha ganado nueve veces, mientras que Independiente ha logrado ocho victorias.
-
-En términos de goles, Liga de Quito ha **marcado 76 veces frente a 55** de Independiente del Valle en estos 49 encuentros.
-
-Ficha del partido
+Justicia criminal
 -----------------
 
-Liga de Quito vs. Independiente del Valle
+Además, se avanzó en la **justicia criminal** con reformas orientadas a mejorar las condiciones en las cárceles y promover la rehabilitación de los reclusos. Varios estados aprobaron leyes que permiten una mayor reintegración de los exconvictos a la sociedad, buscando reducir las tasas de reincidencia.
 
-**Fecha**: Sábado 9 de noviembre.
+Estos cambios representan un reflejo de las prioridades y preocupaciones de los votantes en 2024. A medida que estos estados implementen estas reformas, se espera que la política estadounidense continúe siendo un tema de debate intenso.
 
-**Hora**: 15:30.
+Liga de Quito intentará frenar a Independiente del Valle en Liga Pro
+====================================================================
 
-**Estadio**: Rodrigo Paz Delgado.
+Liga de Quito es el actual campeón de la Liga Pro, mientras que Independiente del Valle es el subcampeón.
+---------------------------------------------------------------------------------------------------------
 
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
+![Ezequiel Piovi (d) enfrentando a Independiente del Valle en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/ldu_fecha_13_1.jpg)
 
-Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela
-====================================================================================
+El partido entre **Liga de Quito y el Independiente del Valle**, el próximo sábado 9 de noviembre de 2024, por la fecha 13 de la segunda fase de la Liga Pro, supondrá una final anticipada por el título de la actual temporada en Ecuador.
 
-Trump fue el principal adversario político de Maduro, a quien tildó de "dictador", e impuso numerosas sanciones al país.
-------------------------------------------------------------------------------------------------------------------------
+Con 26 puntos cada uno, fruto de ocho victorias, dos empates y dos derrotas, el **resultado del partido será determinante, de manera especial**, para el ganador de la primera fase, Independiente del Valle, en el estadio Rodrigo Paz Delgado.
 
-![Maduro, expresó este miércoles que la victoria de Donald Trump en las elecciones presidenciales de Estados Unidos supone un "nuevo comienzo" para ambos países, sin relaciones diplomáticas desde 2019, rotas entonces por el chavista durante el primer mandato del republicano.](https://www.elcomercio.com/wp-content/uploads/2024/11/Maduro.jpg)
+### Más noticias:
 
-El presidente de Venezuela, **Nicolás Maduro,** expresó este miércoles que la victoria de Donald Trump en las elecciones presidenciales de Estados Unidos supone un “nuevo comienzo” para ambos países.
+* [Emelec pierde a Pedro Ortiz y complica su cierre de temporada](https://www.elcomercio.com/deportes/futbol/emelec-pierde-a-pedro-ortiz-y-complica-su-cierre-de-temporada.html "Emelec pierde a Pedro Ortiz y complica su cierre de temporada")
+* [Sparta Praga de Angelo Preciado cae en Champions ante Brest](https://www.elcomercio.com/deportes/sparta-praga-angelo-preciado-brest-champions.html "Sparta Praga de Angelo Preciado cae en Champions ante Brest")
+* [Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla](https://www.elcomercio.com/deportes/el-nacional-deudas-marco-pazos-bedoya.html "Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla")
 
-Ambos no tienen relaciones diplomáticas desde 2019, **rotas entonces por el chavista** durante el primer mandato del republicano.
+El Independiente se **jugará la posibilidad de sacarle una ventaja a Liga** y luego cuidarla en las dos fechas finales, para adjudicarse su segundo título desde que actúa en la Primera División de Ecuador.
 
-### Más noticias
+Por su parte, LDU sabe que el triunfo será básico, pues un empate dejará en ventaja al IDV por su mejor diferencia de goles.
 
-* [La reelección de Trump y su impacto en Ecuador](https://www.elcomercio.com/opinion/editorial/la-reeleccion-de-trump-y-su-impacto-en-ecuador.html "La reelección de Trump y su impacto en Ecuador")
-* [Enmiendas sobre el uso de marihuana y aborto fracasan en Florida](https://www.elcomercio.com/actualidad/mundo/enmiendas-sobre-el-uso-de-marihuana-y-aborto-fracasan-en-florida.html "Enmiendas sobre el uso de marihuana y aborto fracasan en Florida")
-* [Ecuador frente a la reelección de Donald Trump,¿qué esperar?](https://www.elcomercio.com/actualidad/politica/la-reeleccion-donald-trump-su-posible-impacto-ecuador.html "Ecuador frente a la reelección de Donald Trump,¿qué esperar?")
+El partido supondrá el duelo de técnicos argentinos, pues dirige al ‘Rey de Copas’, Pablo ‘Vitamina’ Sánchez y al cuadro del Valle, Javier Gandolfi.
 
-Las declaraciones de Maduro
+También habrá duelo de goleadores entre el **paraguayo Alex Arce, de Liga, con 20 anotaciones** en la actual temporada y el colombiano Jeison Medina, del Independiente, que tiene 18.
+
+El rendimiento actual de uno y otro equipo, s**itúa con mejores opciones al cuadro de Gandolfi**, pero Liga echará manos de su mayor experiencia en la obtención de títulos locales, con 12 en total.
+
+El resto espera un resbalón
 ---------------------------
 
-“En su primer Gobierno, **presidente reelecto Donald Trump**, no nos fue bien. Este es un nuevo comienzo para que apostemos a (una relación) ganar-ganar y le vaya bien a **Estados Unidos,** le vaya bien a **Venezuela”**, dijo Maduro en un programa transmitido por el canal estatal VTV.
+Entretanto, el entrenador colombiano **Santiago ‘Sachi’ Escobar hará el último intento por ganar** la segunda fase con el Orense, que tiene 23 puntos, y su rival del domingo será el Técnico Universitario.
 
-Añadió que cuando atentaron contra su vida, **no dudó en solidarizarse con él.**
+Además de ganar, el Orense esperará un empate entre Liga y el Independiente, y que también les vaya mal en las dos últimas fechas.
 
-Asimismo, afirmó que su Gobierno está abierto a **“relaciones de trabajo conjunto”** con quien quiera invertir en Venezuela. Lo que -aseguró- ha manifestado a “todos los estadounidenses” que visitan el país petrolero, sobre el que pesan sanciones i**mpuestas por Washington**, que ha otorgado licencias a transnacionales para operar en esta nación, entre ellas, a la norteamericana Chevron.
+El Mushuc Runa, al **mando del técnico uruguayo-paraguayo Ever Hugo Almeida**, procurará asegurarse la clasificación para la próxima Copa Sudamericana, en el partido del próximo domingo contra el Delfín de Manta.
 
-Por otra parte, Maduro expresó que, tras este “regreso histórico”, **Trump** tiene una “oportunidad de oro” para que “acabe con las guerras”, así como para permitir relaciones de respeto con América Latina.  
-Además, **el Jefe de Estado** aseveró que nunca se meterá en “asuntos internos de Estados Unidos”, porque -dijo- no practica el “intervencionismo”.
+Para el Delfín también será un partido decisivo, pues está entre los últimos de la tabla de posiciones de las dos fases con el riesgo de perder la categoría para el próximo año.
 
-“Nosotros abogamos por **la soberanía,** la independencia, el respeto a nuestra cultura, a nuestra identidad. Las soluciones de América Latina están en **América Latina** y las soluciones para el futuro de Venezuela están en Venezuela”, agregó Maduro, proclamado ganador de las elecciones del 28 de julio. Este es un resultado rechazado por el **actual Ejecutivo estadounidense,** encabezado por el demócrata Joe Biden.
+Otra puja decisiva la **protagonizarán Barcelona SC y Universidad Católica**, por un billete a la Copa Libertadores de 2025, en sus respectivos partidos contra Cumbayá y el Aucas.
 
-Trump, el principal adversario de Maduro
-----------------------------------------
+Ambos llegarán al arranque de los encuentros, **con 20 puntos en la segunda fase**, pero en la tabla acumulada BSC tiene 51 unidades, sobre las 45 del cuadro católico.
 
-En su anterior Gobierno (2017-2021), **Trump** fue el principal adversario político de Maduro, a quien tildó de “dictador”, e impuso numerosas sanciones al país, incluidas restricciones a su industria petrolera, la principal fuente de divisas de Venezuela.
-
-El lunes, el Mandatario dijo que aspira a que el **futuro nuevo Gobierno estadounidense** no se deje llevar por las políticas “fracasadas del extremismo” de la oposición mayoritaria venezolana. La oposición considera fraudulenta **la controvertida reelección de Maduro** e insiste en la victoria de su candidato, Edmundo González Urrutia.
-
-La líder antichavista y principal valedora de González Urrutia**, María Corina Machado**, felicitó a Trump, al tiempo que le dijo que el país caribeño vive “días decisivos” luego de las presidenciales venezolanas. Añadió que cuenta con “el apoyo de los pueblos de las Américas y **el de sus Gobiernos democráticos** para asegurar una transición a la [democracia sin demora](https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maduro "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maduro")“.
-
-Así funciona el Pico y placa en Quito este jueves 7 de noviembre
-================================================================
-
-Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
-------------------------------------------------------------------------------------------------------------------------------
-
-![La medida del Pico y placa se implementa en Quito para tratar de controlar el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/11/transito-Quito-jueves.jpg)
-
-El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-### Más noticias
-
-* [Metro de Quito ya suma más de 4,9 millones de viajes, en octubre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suma-mas-de-49-millones-de-viajes-octubre.html "Metro de Quito ya suma más de 4,9 millones de viajes, en octubre")
-* [Policía detiene a exdocente por presunto ciberacoso, en Quito](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-exdocente-presunto-ciberacoso-quito.html "Policía detiene a exdocente por presunto ciberacoso, en Quito")
-* [Contrato de mantenimiento de energía del Metro de Quito está por terminar](https://www.elcomercio.com/actualidad/quito/metro-quito-mantenimiento-energia-terminar.html "Contrato de mantenimiento de energía del Metro de Quito está por terminar")
-
-El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
-
-El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
-
-El esquema de aplicación:
--------------------------
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes:** los que finalizan en 3 y 4.
-* **Miércoles:** los de dígitos 5 y 6.
-* **Jueves:** los que tengan 7 y 8.
-* **Viernes:** las placas 9 y 0.
-
-Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
-
-Multas por infringir Pico y placa
----------------------------------
-
-La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
-
-Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
-
-Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
-
-Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
-
-Matriculación vehicular
------------------------
-
-Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
-
-También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
-> 
-> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
-
-La reelección de Trump y su impacto en Ecuador
-==============================================
-
-La reelección de Donald Trump representa para Ecuador desafíos en acuerdos comerciales y políticas migratorias estrictas.
--------------------------------------------------------------------------------------------------------------------------
-
-![Un partidario del presidente electo, Donald Trump, supervisa las elecciones presidenciales estadounidenses, durante una fiesta de observación de elecciones organizada por republicanos en Tailandia. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/editorial_720.jpg)
-
-La reelección de **Donald Trump en Estados Unidos** podría tener efectos significativos en Ecuador, especialmente en comercio, seguridad y migración. El reciente giro del voto latino hacia Trump podría influir en las políticas que impacten a los países de Latinoamérica.
-
-Uno de los mayores desafíos y a la vez una oportunidad para Ecuador sería la relación comercial con **Estados Unidos**, su principal socio. En su mandato anterior, Trump aplicó medidas proteccionistas, imponiendo aranceles elevados a productos importados, centrados principalmente en México y China.
-
-> Aunque Ecuador no fue un objetivo directo, ahora las autoridades ecuatorianas deberán mostrar su habilidad para concretar negociaciones comerciales que beneficien a ambas partes. Esto es clave tomando en cuenta que el enfoque de Trump es “America First”. En otras palabras, su prioridad será la protección de la industria estadounidense.
-
-En el ámbito de seguridad, Trump podría continuar con su enfoque en combatir el narcotráfico. Su administración ya había ejercido presión sobre los gobiernos de América Latina para adoptar medidas más estrictas contra la inseguridad y el crimen organizado.
-
-Actualmente, Ecuador y Estados Unidos cuentan con un memorando de entendimiento regional de intercambio de información para combatir el narcotráfico. Esto se renovó en julio de 2023.
-
-En enero de 2024, la colaboración de ese país se amplió, tras la segunda visita de la general **Laura Richardson, jefa del Comando Sur de Estados Unidos.**
-
-Adicionalmente, hay tres acuerdos militares vigentes: El Estatuto de las Fuerzas (SOFA, por sus siglas en inglés) establece el marco bajo el cual los militares y el personal civil estadounidense puede operar en Ecuador. Hay otros dos acuerdos para operaciones contra actividades marítimas transnacionales ilícitas. Además de asistencia en interceptación aérea.
-
-Otra iniciativa que está en debate es la propuesta del presidente Daniel Noboa sobre reformar la Constitución de la República para la operación de bases militares extranjeras en Ecuador. Este proyecto reformatorio está en manos de una comisión ocasional en la Asamblea. Si esta propuesta avanza, la presencia de militares estadounidenses sería una de las posibilidades.
-
-Para **Global Americans**, las relaciones con países catalogados como conservadores-libertarios, como Argentina y Ecuador, podrían permanecer constructivas. No obstante, habría que ver si esto se mantiene tras la elección del próximo presidente de Ecuador.
-
-Otro punto neurálgico es la postura dura hacia [la inmigración de Trump](https://www.elcomercio.com/actualidad/mundo/plan-de-deportacion-de-trump-comenzaria-con-un-millon-de-inmigrantes-dice-j-d-vance.html "https://www.elcomercio.com/actualidad/mundo/plan-de-deportacion-de-trump-comenzaria-con-un-millon-de-inmigrantes-dice-j-d-vance.html"). Un informe de la National Foundation for American Policy (NFAP) reveló que hasta 2,7 millones de personas perderían la protección frente a la deportación durante una segunda administración Trump.
-
-“Muchas personas con **Estatus de Protección Temporal** (TPS, por sus siglas en inglés) y beneficiarios del parole humanitario y del programa de Acción Diferida para los Llegados en la Infancia (DACA) podrían ser deportados”. A esta conclusión llega el [informe](http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://nfap.com/wp-content/uploads/2024/08/Trump-Immigration-Policy.High-Skilled-Immigration.NFAP-Policy-Brief.2024.pdf "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nfap.com/wp-content/uploads/2024/08/Trump-Immigration-Policy.High-Skilled-Immigration.NFAP-Policy-Brief.2024.pdf").
-
-Trump ha prometido eliminar los permisos humanitarios y el TPS termina entre 2025 y 2026 para 16 nacionalidades beneficiarias. Trump ya trató de acabar con el TPS cuando fue presidente, pero no se concretó por demandas en su contra.
-
-El programa DACA también se salvó años atrás. El **Tribunal Supremo** mantuvo la protección a los beneficiarios (jóvenes que llegaron al país cuando eran niños). Sin embargo, ahora no se descarta que a través de apelaciones, el programa vuelva a la alta corte a fines de este año o en 2025.
-
-En definitiva, un mayor endurecimiento de las políticas migratorias podría aumentar el número de ecuatorianos que intentan migrar hacia Estados Unidos, lo que incrementaría los riesgos en la travesía.
-
-Paralelamente, un aumento en las deportaciones o en la dificultad para obtener visas podría reducir significativamente el flujo de remesas hacia Ecuador.
-
-El cambio en el voto latino hacia Trump sugiere que la economía es una prioridad para muchos votantes hispanos. Esto podría generar tensiones entre estas políticas económicas y las medidas migratorias estrictas que Trump propone.
-
-En conclusión, la reelección de Trump representa un escenario complejo para Ecuador, que enfrentará tanto desafíos como oportunidades. Desde las tensiones comerciales y las políticas de seguridad hasta los impactos en la migración y las remesas, el país tendrá que navegar un panorama internacional impredecible. La habilidad del gobierno ecuatoriano para adaptarse a este entorno será clave, especialmente al equilibrar los intereses económicos y las necesidades humanitarias de su población.
-
-Cartas a Quito / 7 de noviembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este jueves 7 de noviembre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Exhortación a los “ganadores”
------------------------------
-
-Estamos viviendo una de las más súbitas y terroríficas catástrofes de nuestra historia, en las que, por desgracia, siempre existirán perdedores y ganadores. En este caso, como en muchos otros, los perdedores somos más… Muchísimos más. El país entero se encuentra sufriendo las consecuencias de esta abrumadora y nefasta oscuridad que hoy nos consume. Si analizamos esta situación, los ganadores son relativamente pocos. Entre ellos, obviamente, se cuentan los importadores de generadores, focos recargables, plantas eléctricas, y todo el material que se requiere para paliar esta emergencia y que la gente se desespera por conseguirlo.
-
-Otros ganadores son las salas de cine, teatros y más sitios de distracción, a donde acude la gente que no quiere ser presa de esta terrible y deprimente oscuridad.
-
-No quiero dejar de mencionar a los dueños de los restaurantes, bares, discotecas, sitios de comida rápida, etc. (siempre y cuando se encuentren provistos de plantas eléctricas); útiles artefactos a los que, lamentablemente, el común de los mortales no tenemos acceso debido a los altos y, muchas veces abusivos costos que se imponen en el mercado, como consecuencia de la tenaz competencia, por lo que hoy por hoy, para la gran mayoría de ecuatorianos estos se han convertido en verdaderos artículos de lujo y, para los comerciantes, en un lucrativo “negocio”.
-
-Con todo lo anteriormente dicho, exhortamos a todos los “ganadores” de esta singular contienda, ser más empáticos y humanos y no abusar de los precios tratando de “pescar a río revuelto”. La solidaridad y la ayuda mutua son factores que deben primar en estos momentos de angustia y desolación en los que estamos viviendo.
-
-Fabiola Carrera Alemán
-
-De niño de la calle a dirigente internacional
-=============================================
-
-Su misión es promover el ejercicio pleno de los derechos de los jóvenes iberoamericanos, en el contexto del desarrollo humano y social.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-Se trata de **Diego Echegoyen, de origen salvadoreño**, quien asumiría la secretaría general del **Organismo Internacional de Juventud para Iberoamérica (OIJ)**, de contar con el apoyo de varios gobiernos.
-
-La OIJ -reconocida como la principal institución del mundo especializada en juventudes- se creó en 1992 con el objetivo de **“impulsar la cooperación entre los países de la región, para el fortalecimiento y el diseño de políticas públicas que garanticen el acceso a educación, justicia social, equidad y empleo digno”.**
-
-Su misión es promover el ejercicio pleno de los derechos de los jóvenes iberoamericanos, en el contexto del desarrollo humano y social. **En diciembre próximo se reunirán los ministros y responsables nacionales de juventud de 22 países**, para designar al nuevo secretario y fortalecer las estrategias iberoamericanas en este ámbito.
-
-El caso de Diego Echegoyen es particular por varias razones: porque, de acuerdo al principio de alternancia subregional, **le corresponde a Centroamérica conducir el OIJ**; porque los gobiernos le consideran un candidato apto por su formación y experiencia, para liderar los cambios de esta organización; y, **por su personalidad emprendedora que ha demostrado eficiencia en la ejecución de proyectos desafiantes en ambientes regionales y globales** gracias a su liderazgo, las redes de contactos internacionales y los resultados obtenidos.
-
-Más allá de sus méritos profesionales y académicos -con diplomados y maestrías-, **Diego Echegoyen es un especialista formado en la acción de proyectos innovadores de mejoramiento de la juventud tanto en Europa e Iberoamérica**, con **iniciativas exitosas en su país y otros, como “El País que Viene” y “La Escuela del Propósito”,** una comunidad de profesionales referentes de distintas industrias y contextos dedicados al desarrollo de proyectos de impacto, con énfasis en el empleo juvenil, la inclusión educativa y el acceso a oportunidades para la población joven. Echegoyen es también **autor de dos novelas y trabaja en una tercera, que son testimonios de su talento literario.**
-
-**Sus logros han sido reconocidos** por la Asamblea Nacional de El Salvador y por **Su Majestad el Rey Felipe VI de España**, quien le entregó el Premio Internacional Novia Salcedo a la Integración Juvenil, y obtuvo el **Global Youth Action Award, en Nueva York**, como autor de uno de los nuevos proyectos más innovadores en materia de juventud a nivel global. Ha recibido también un **Doctorado Honoris Causa en Ciencias Sociales,** por su trabajo en favor de la juventud.
-
-Este emprendedor social, de origen humilde -fue un niño de la calle y sin hogar por muchos años-, ahora se propone **“impulsar una profunda transformación en el único Organismo Internacional de juventud del mundo**, con miras a poner, en función de los gobiernos y de **160 millones de jóvenes de la región**, capacidades y herramientas que permitan alcanzar los cambios que las nuevas generaciones iberoamericanas esperan”.  
-
-Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores
-===================================================================================
-
-El uso de generadores incide en la calidad del aire de Quito, según una investigación universitaria.
-----------------------------------------------------------------------------------------------------
-
-![Investigación revela los índices de la calidad del aire en Quito, a causa de generadores.](https://www.elcomercio.com/wp-content/uploads/2024/11/calidad-aire-quito-generadores.jpg)
-
-Una investigación reveló que el uso de **generadores** incide en la **calidad del aire** de **Quito**.
-
-El estudio muestra alarmantes datos sobre lo que ocasiona el **diesel** con el que funcionan estos aparatos de generación de energía eléctrica en el ambiente.
-
-### Más noticias:
-
-* [Los generadores eléctricos contaminan en dos niveles el ambiente de Quito](https://www.elcomercio.com/actualidad/quito/generadores-electricidad-ambiente-contaminacion-quito.html "Los generadores eléctricos contaminan en dos niveles el ambiente de Quito")
-* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
-
-La calidad del aire en Quito, tras el uso de generadores
---------------------------------------------------------
-
-Los generadores de electricidad a diésel utilizados por gran parte de la población de Quito para hacer frente a los apagones programados desde septiembre han provocado mayor **contaminación** del aire.
-
-Un estudio de la Universidad de las Américas (UDLA) ha concluido que “los **niveles de monóxido de carbono (CO)** casi se duplicaron en comparación con las condiciones normales”.
-
-Esto, debido, principalmente, a la **dependencia** generalizada de los generadores diésel.
-
-Este informe también sostiene que “este aumento del uso de generadores también provocó un incremento del 38,8 % de las concentraciones de **dióxido de nitrógeno** (NO2)”.
-
-Otro hallazgo del informe realizado por el grupo de Investigación en Biodiversidad, Medio Ambiente y Salud de la UDLA fue la constatación de un gran aumento del **dióxido de azufre (SO2).**
-
-Este es un **gas altamente nocivo** que incrementó su presencia durante este periodo de crisis hasta en un 180 %.
-
-De esta forma, el propio análisis apunta que con estos valores la ciudad suscitó “preocupación por los riesgos para la salud respiratoria”.
-
-Los valores superaron las directrices de la **Organización Mundial de la Salud (OMS).**
-
-A pesar de que el **índice de calidad del aire** (ICA), acordado por esta organización para medir la contaminación en los núcleos urbanos, indica que el **nivel medio de calidad del aire** en 2023 en todo Ecuador fue de 31 sobre 100, la contaminación por partículas en el mismo periodo (PM2,5) supera 1,5 veces el valor guía anual de calidad del aire de la OMS.
-
-Los investigadores subrayan la necesidad de que las ciudades se preparen para interrupciones más frecuentes y graves del suministro eléctrico relacionadas con el **clima**.
-
-Recomiendan desarrollar y aplicar **estrategias integrales**, que incluyan la mejora de las infraestructuras energéticas y soluciones de energía de reserva más limpias, sobre todo en zonas de gran altitud como Quito.
-
-La crisis energética, el uso de generadores y la calidad del aire en Quito y Ecuador
-------------------------------------------------------------------------------------
-
-Desde finales de 2023, Ecuador se ha visto obligado a realizar **cortes de luz programados**.
-
-El último inició a mediados de septiembre y ha alcanzado hasta catorce horas de suspensión del **fluido eléctrico.**
-
-Actualmente, Ecuador tiene un **déficit** de alrededor de 1 000 megavatios para atender su demanda nacional.
-
-La matriz energética del país depende de más de un 70 % de **centrales hidroeléctricas**.
-
-Las centrales están afectadas por la peor sequía de los últimos 60 años, según lo ha calificado el Gobierno.
-
-La crisis energética de Ecuador se ha visto también agravada por la falta de **inversiones**.
-
-El pronunciamiento de las autoridades
--------------------------------------
-
-Días atrás, desde la **Secretaría de Ambiente,** se informó que el ambiente de Quito se ve afectado por el uso de los generadores eléctricos.
-
-Si embargo, el aire está dentro de los **parámetros aceptables** para que el ser humano pueda vivir.
-
-Aunque, recalcaron que las personas que tienen enfermedades respiratorias deben tener los debidos cuidados para evitar afectaciones a su salud.
-
-**Rosa Fonseca**, directora metropolitana de Regularización y Control Ambiental de la Secretaría de Ambiente, señala que seguirán monitoreando el ambiente de Quito para ver cómo impacta el uso de los generadores en contaminación.
-
-Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz
-=================================================================================
-
-Los prolongados cortes de luz en Ecuador, que ya cumplen 45 días, impulsaron una alta demanda de equipos como UPS, generadores y estaciones de energía portátil.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/UPS-DEMANDA-WEB-06112024.jpg)
-
-Este jueves 7 de noviembre de 2024 se cumplirán 46 días de **cortes de luz** prolongados en **Ecuador**. La crisis energética se deriva del déficit de 1 080 megavatios (MW) que tiene el país y de una prolongada **sequía** que ha impedido el normal funcionamiento de las **hidroeléctricas**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Guía sobre generadores eléctricos, UPS y power banks en Ecuador](https://www.elcomercio.com/actualidad/negocios/guia-sobre-generadores-electricos-ups-y-power-banks-en-ecuador.html "Guía sobre generadores eléctricos, UPS y power banks en Ecuador")
-* [Meteórico aumento de la compra de generadores eléctricos en Ecuador](https://www.elcomercio.com/actualidad/negocios/meteorico-aumento-de-la-compra-de-generadores-electricos-en-ecuador.html "Meteórico aumento de la compra de generadores eléctricos en Ecuador")
-* [¿Cómo denunciar especulación en los precios de generadores y equipos eléctricos?](https://www.elcomercio.com/actualidad/negocios/como-denunciar-especulacion-precios-generadores-equipos-electricos.html "¿Cómo denunciar especulación en los precios de generadores y equipos eléctricos?")
-
-En medio de este contexto, la rutina de los ecuatorianos se ha visto afectada, alterando sus actividades diarias y los hábitos de consumo.
-
-Por ejemplo, en las últimas semanas se ha observado un **incremento en la demanda de equipos** que permitan afrontar de mejor manera los **racionamientos eléctricos**. Entre ellos están los denominados UPS, que es la abreviatura de sistema de alimentación ininterrumpida. Este **dispositivo** suministra energía a un equipo cuando se **corta la luz**.
-
-Además, en esta misma categoría están las **estaciones de energía portátil**, paneles solares, focos y ventiladores recargables, entre otros.
-
-Hace dos semanas, **Liliana Ordóñez**, de 40 años, adquirió un UPS de 1000 VA de capacidad, por recomendación de una amiga. El objetivo principal fue tener posibilidad de trabajar desde su casa, sin tener que trasladarse de otro sitio cuando no tenía electricidad.
-
-El equipo está conectado al router y le permite tener internet durante los **cortes de luz**, por hasta cinco horas. El dispositivo le costó 150 dólares y era el último disponible en el local que lo adquirió. El UPS le permite, además, cargar su celular o computadora mientras no hay luz, señaló.
-
-Asimismo, **Pablo Alarcón**, de 46 años, adquirió un UPS en 60 dólares a inicios de octubre de este año. El equipo de sirve para tener internet y conectar una computadora mientas no tiene energía eléctrica. Él piensa que es la mejor adquisición de los últimos tiempos.
-
-Por su parte, **Lorena Viteri**, de 44 años, espera encontrar un UPS en el mercado lo antes posible, ya que no ha podido adquirir uno porque en el local que compraron sus amigos están agotados.
-
-En un breve recorrido por las **páginas web** de los locales que ofrecen este tipo de dispositivos se constató que muchos modelos están agotados.
-
-Compras en plataformas internacionales
---------------------------------------
-
-Ante la limitada oferta de este tipo de productos en el mercado local, las plataformas de comercio electrónico internacionales experimenten un notable aumento en la demanda por parte de consumidores del Ecuador.
-
-Productos como generadores, estaciones de energía portátiles, power banks y focos recargables han pasado a ser artículos prioritarios en la lista de compras en línea, señaló **Alexandra Moscoso**, Head of Growth Marketing de Tiendamia.
-
-“Los ecuatorianos están priorizando productos que les permitan sobrellevar los **cortes de luz**, como power stations, power banks y focos recargables, transformándolos en artículos de primera necesidad”, agregó.
-
-En las plataformas digitales se ha registrado un crecimiento de aproximadamente 1000% en la **venta de generadores y estaciones de energía**, demostrando la gran necesidad de soluciones que permitan la continuidad de las actividades diarias en hogares y negocios, según un estudio de la plataforma.
-
-Esta tendencia de consumo se observa en todo el país, con mayores pedidos provenientes de ciudades como Quito, Guayaquil, Cuenca, Ambato, Portoviejo y Loja.
-
-Controles ante posible incremento de precios
---------------------------------------------
-
-Por su parte, la Superintendencia de Competencia Económica solicitó a los fabricantes, importadores y distribuidores de **generadores eléctricos, inversores, baterías** y otros productos relacionados con el almacenamiento de energía evitar abusos en los precios de este tipo de dispositivos.
-
-Además, además, la Superintendencia señaló que se mantiene atenta a las prácticas que afecten la competencia justa en el mercado energético del país.
-
-Para la semana del 4 al 9 de noviembre de 2024, el **Ministerio de Energía** programó **cortes de luz** de hasta seis horas diarias. Está previsto que los **nuevos horarios** de los racionamientos se conozcan hasta este viernes 8 de noviembre.
-
-Australia propone ley que prohíbe el uso de redes sociales a menores de 16 años
-===============================================================================
-
-El proyecto de ley de Australia alude prohibir el acceso temprano a redes sociales para mitigar los problemas de salud mental.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Además de Australia, otros países han analizado prohibir el acceso temprano a redes sociales](https://www.elcomercio.com/wp-content/uploads/2024/11/redes-sociales-australia.jpg)
-
-El Gobierno de **Australia** anunció este miércoles 6 de noviembre de 2024 que busca limitar el acceso a las redes sociales a los menores de **16 años,** a través de una nueva ley.
-
-### Más noticias
-
-* [Vuelo que cubría la ruta Bogotá-Madrid es tendencia en redes](https://www.elcomercio.com/actualidad/mundo/vuelo-ruta-bogota-madrid-aterrizo-emergencia.html "Vuelo que cubría la ruta Bogotá-Madrid es tendencia en redes")
-* [Este es el destino de las cuentas de redes sociales tras el fallecimiento](https://www.elcomercio.com/tecnologia/redes-sociales-fallecimiento-facebook-conmemorativo.html "Este es el destino de las cuentas de redes sociales tras el fallecimiento ")
-* [Cómo detectar si WhatsApp está activo en otro dispositivo](https://www.elcomercio.com/tecnologia/whatsapp-dispositivos-vinculados-seguridad.html "Cómo detectar si WhatsApp está activo en otro dispositivo ")
-
-Según explicó el **primer ministro** de este país, **Anthony Albanese**, el objetivo es “mitigar los **problemas de salud mental** de los **niños** y **adolescentes**“.
-
-“Ahora, la **edad propuesta** por el Gobierno es de **16 años**; esa decisión se tomó el lunes en el **Consejo de Ministros**“, anunció Albanese[.](https://es.wikipedia.org/wiki/Anthony_Albanese "https://es.wikipedia.org/wiki/Anthony_Albanese")
-
-“Las **redes sociales** están perjudicando a nuestros hijos y voy a ponerle fin”, enfatizó Albanese, al justificar su propuesta con otras medidas legales como las leyes que prohíben a los **menores de 18 años** a comprar **bebidas alcohólicas**.
-
-El **proyecto de ley** podría llegar al **Parlamento** en las próximas semanas y entraría en vigor **12 meses después** de ser aprobada.
-
-De aprobarse la ley, ¿a quiénes se sancionará?
-----------------------------------------------
-
-La propuesta no excluirá a los menores de 16 años que ya tienen registros en redes sociales, ni a los que cuentan con el **consentimiento de sus padres**.
-
-El mandatario aclaró que las **sanciones** no serán impuestas a los usuarios o a los padres, sino que “serán las propietarias de las redes sociales las que tendrán la responsabilidad de hacer cumplir el **límite de edad**“.
-
-En este sentido, la **Comisión Australiana de Seguridad Electrónica** se encargará de publicar normativas para que las plataformas digitales establezcan “medidas razonables” para restringir el acceso a los menores.
-
-La legislación regularizaría a plataformas como **Instagram**, **TikTok**, **Facebook**, **X** y **YouTube**, aunque se contemplan excepciones para plataformas consideradas “**de bajo riesgo**“.
-
-Prohibiciones similares en otros países
----------------------------------------
-
-Con su plan, Australia hace eco de las preocupaciones mundiales que llevaron a **España** a fijar la edad mínima para acceder a una red social en **14 años**. Aunque está previsto que esta edad se eleve a 16, ante los riesgos contra la intimidad, coacciones, amenazas y estafas informáticas.
-
-Asimismo, **Puerto Rico** decretó en julio los **18 años** como la edad mínima para que una persona pueda activar una cuenta en cualquier red social.
-
-Una medida similar se aplica en **Texas**, Estados Unidos, mientras que en el estado de **Florida** la edad mínima es 14.
-
-En **Nueva York** también se aprobaron **dos leyes**: una para exigir el consentimiento paterno para que los menores de **18 años** usen los “hilos adictivos” basados en algoritmos de recomendación, así como otra para limitar la recopilación de datos de menores.
-
-Jugadores de El Nacional evalúan no presentarse ante Libertad
-=============================================================
-
-El Nacional acentúa su crisis, la fragmentación entre dirigencia y jugadores persiste por falta de pagos, y el plantel analiza opciones radicales.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Mario Pineida, defensa de El Nacional, en las semifinales de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241031135342-fbl-copa-ecuador-nacional-mushuc-runa-1-scaled.jpg)
-
-El ambiente de inestabilidad no abandona **El Nacional** y la pugna entre dirigencia y jugadores se mantiene a raíz de falta de pagos. **Mario Pineida**, defensa de la escuadra, señaló que se analiza no acudir al siguiente partido y ahondó en detalles de la crisis institucional.
-
-A partir del anuncio de la plantilla de los puros criollos de que mantenían **sueldos impagos**, un vaivén de acciones y pronunciamientos con respecto a la situación se ciñeron en el club. La institución criolla quedó en medio de un fuego cruzado entre **versiones directivas y de futbolistas**.
-
-### Más noticias:
-
-* [Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla](https://www.elcomercio.com/deportes/el-nacional-deudas-marco-pazos-bedoya.html "Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla")
-* [El Nacional quiere la final de la Copa Ecuador en Quito](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-quito-nacional-idv.html "El Nacional quiere la final de la Copa Ecuador en Quito")
-* [El Nacional persiste en malestares por falta de pagos](https://www.elcomercio.com/deportes/el-nacional-deudas-pagos-malestar.html "El Nacional persiste en malestares por falta de pagos")
-
-El último remolino en torno a la situación de los montos adeudados se dio durante este miércoles 6 de noviembre del 2024. En el mismo día, **Marco Pazos**, presidente del club, y **Pineida** brindaron declaraciones.
-
-Después de que una nueva queja surgiera con respecto a la taquilla de semifinales de la **Copa Ecuado**r que fue **comprometida** con los jugadores, Marco Pazos -presidente del club- aclaró la situación en diálogo con los medios de comunicación. El titular de la escuadra criolla sostuvo que sí se cumplió con el pacto adquirido con los jugadores.
-
-Desde el lado de **Mario Pineida**, este conversó con la Radio Mundo Deportivo e hizo público su malestar. Allí, el lateral zurdo apuntó contra el titular de la escuadra criolla y manifestó las potenciales acciones que se puede tomar desde la plantilla.
-
-Mario Pineida, una posible decisión radical y los padecimientos en El Nacional
-------------------------------------------------------------------------------
-
-“**El señor presidente sabe la verdad de lo que pasa en El Nacional. Sí hay el riego de que no nos presentemos ante Libertad.** Él (Marco Pazos) dice ‘entonces que juegue la sub-19’ (…) De qué sirve que el presidente baje al camerino si no da soluciones, si miente. Te soy sincero, la mayoría se va a ir sin cobrar un centavo”, manifestó el exjugador de Barcelona SC.
-
-El futbolista también sostuvo que en el caso de los **jugadores lesionados**, estos deben pagar su propio tratamiento. Esta manifestó que cuando sufrió una dolencia, el debió pagar sus propios ecos durante el proceso.
-
-Pineida agregó que Pazos no conoce del todo la situación y que el Complejo de El Sauce, por momentos, **no cuenta con agua**. A su vez, sostuvo que no existe ningún respaldo por parte de la directiva y por ello se ha pedido la intervención de la **Federación Ecuatoriana de Fútbol o la Liga Pro**.
-
-La vorágine de los puros criollos
----------------------------------
-
-Los jugadores de **El Nacional** rompieron el silencio el 25 de octubre del 2024, cuando anunciaron su paralización debido a la falta de pagos. Tras en ello, después de su partido con **Orense** en la Liga Pro, volvieron a manifestar que no estaban al día y pidieron acciones de parte del Comando Conjunto de las Fuerzas Armadas, entidad vinculada al club[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
-
-A raíz de tales acontecimientos, la directiva y los jugadores llegaron al acuerdo de que la taquilla de la semifinal de vuelta de Copa Ecuador, ante **Mushuc Runa**, sea destinada para cumplir las deudas con el plantel. Pese a ello, el descontento volvió.
-
-**Anthony Bedoya** se pronunció en redes sociales, donde dijo que hubo promesas incumplidas. A su vez, fuentes de la plantilla confirmaron a EL COMERCIO que se había ofrecido cubrir un sueldo con lo recaudado y no la mitad como se lo hizo.
-
-Pazos confirmó a este medio que ese fue el monto cubierto y que también se realizó un pago de **70 mil dólares** a la FEF. Asimismo, ante los medios de comunicación al explicar que sí se destinó la taquilla a los jugadores, este especificó que no fue el 100 % debido a que con ello también se pagaron los gastos operativos, aspecto que formaba parte del trato.
-
-Daniel Noboa propuso una reforma constitucional sobre los presos
-================================================================
-
-La propuesta de reforma constitucional de Daniel Noboa sobre los presos fue remitida a la Corte Constitucional para su análisis.
---------------------------------------------------------------------------------------------------------------------------------
-
-![La reforma constitucional de Daniel Noboa está relacionada con los presos.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-reforma-constitucional-presos.jpg)
-
-El presidente **Daniel Noboa** propuso una **reforma constitucional** sobre los **presos** o personas privadas de la libertad, este miércoles 6 de noviembre de 2024.
-
-Noboa planteó una reforma parcial a la Carta Magna y la Presidencia envió el texto a la **Corte Constitucional** para que emita un dictamen, antes de que la Asamblea pueda tratarlo.
-
-### Más noticias:
-
-* [Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta](https://www.elcomercio.com/actualidad/politica/comision-reforma-bases-militares-extranjeras-tiene-presidenta.html "Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta")
-* [Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-presento-querella-contra-asambleista-monica-palacios.html "Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?")
-
-La reforma constitucional sobre los presos, propuesta por Daniel Noboa
-----------------------------------------------------------------------
-
-Esta es la **segunda** propuesta de reforma constitucional presentada por Daniel Noboa.
-
-Antes, el Presidente presentó otra propuesta de reforma parcial a la Constitución sobre las **bases militares** extranjeras.
-
-En este texto, que está en trámite en la Asamblea, se propone **eliminar el artículo** constitucional que prohíbe el establecimiento de bases militares extranjeras en el país.
-
-Este miércoles, el presidente Daniel Noboa anunció que busca reformar dos artículos de la Constitución, relacionados con los presos o **personas privadas de la libertad**.
-
-La iniciativa de reforma parcial a la Constitución tiene la finalidad de eliminar de la categoría de **grupos de atención prioritaria** a los presos.
-
-Así, el mandatario sugiere reformar los **artículos 35 y el 51** de la Constitución de la República del Ecuador.
-
-### Los artículos a reformar
-
-El artículo 35 de la Constitución establece que: “Las personas adultas mayores, niñas, niños y adolescentes, mujeres embarazadas, **personas con discapacidad**, personas privadas de libertad y quienes adolezcan de enfermedades catastróficas o de alta complejidad, **recibirán atención prioritaria y especializada** en los ámbitos público y privado (…)”.
-
-En tanto, en el artículo 51, la Constitución dispone varios derechos para las personas privadas de la libertad:
-
-* No ser sometidas a **aislamiento** como sanción disciplinaria.
-* La comunicación y visita de sus **familiares** y profesionales del derecho.
-* Declarar ante una autoridad judicial sobre el **trato** que haya recibido durante la privación de la libertad.
-* Contar con los **recursos humanos y materiales** necesarios para garantizar su salud integral en los centros de privación de libertad.
-* La atención de sus **necesidades** educativas, laborales, productivas, culturales,
-* alimenticias y recreativas.
-* Recibir un tratamiento preferente y especializado en el caso de las **mujeres embarazadas** y en periodo de lactancia, adolescentes, y las personas adultas mayores, enfermas o con discapacidad.
-* Contar con **medidas de protección** para las niñas, niños, adolescentes, personas con discapacidad y personas adultas mayores que estén bajo su cuidado y dependencia. 
-
-La Presidencia señaló que: “este planteamiento es guiado por **sentido de justicia e igualdad** en la distribución de los recursos y atenciones estatales, que debieron ser siempre prioritarios para toda la ciudadanía”.
-
-Policía recuperó cinco osamentas humanas en Guayaquil
-=====================================================
-
-Militares descubrieron las osamentas mientras realizaban un operativo contra asentamientos ilegales.
-----------------------------------------------------------------------------------------------------
-
-![Los cuerpos en descomposición de las víctimas fueron hallados en un lugar conocido como el "canal de la muerte"](https://www.elcomercio.com/wp-content/uploads/2024/11/osamentas-guayaquil.jpg)
-
-La Policía recuperó **cinco osamentas humanas** que se encontraban en medio de la maleza del **Bosque Protector Papagayo**, en la parroquia Tarqui, al noroeste de Guayaquil.
-
-Los restos fueron encontrados al medio día del martes 5 de noviembre de 2024, mientras **militares** realizaban un operativo contra **asentamientos ilegales** en el sector.
-
-### Más noticias
-
-* [Policía detiene a exdocente por presunto ciberacoso, en Quito](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-exdocente-presunto-ciberacoso-quito.html "Policía detiene a exdocente por presunto ciberacoso, en Quito")
-* [Policía libera a mujer víctima de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/policia-libera-mujer-victima-secuestro-guayas.html "Policía libera a mujer víctima de secuestro en Guayas")
-* [Policía abatió a un delincuente armado en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-abatio-a-un-delincuente-armado-en-guayaquil.html "Policía abatió a un delincuente armado en Guayaquil")
-
-El **fuerte olor** que se desprendía de alado de uno de los caminos de tercer orden llamó la atención de los uniformados, quienes decidieron **indagar**.
-
-Al acercarse al punto, los miembros de las **Fuerzas Armadas** comprobaron la presencia de varios huesos que parecían ser **restos humanos** en descomposición[.](https://es.wikipedia.org/wiki/Bosque_protector_Papagayo "https://es.wikipedia.org/wiki/Bosque_protector_Papagayo")
-
-El difícil acceso al lugar, debido a la vegetación crecida, obligó a que el **retiro de las osamentas** se ejecute a la mañana del día siguiente.
-
-Los restos pertenecerían a cuatro hombres y una mujer
------------------------------------------------------
-
-Cerca de las 09:00 de este miércoles, unidades especializadas de la **Policía** acudieron a tratar la alerta.
-
-Luego de varias horas de trabajo, finalmente los gendarmes y un **forense** pudieron extraer los cadáveres en fundas especiales.
-
-Los cuerpos fueron trasladados hacia una **morgue** de la ciudad, donde se les realizará los análisis e **identificación** respectiva.
-
-De forma preliminar se presume que los cuerpos estuvieron **más de 30 días en descomposición** luego de ser arrojados desde la vía. Uno de los cinco cadáveres pertenecería a una mujer.
-
-Bandas criminales se disputan el lugar
---------------------------------------
-
-Además de las osamentas se encontraron **varias prendas de vestir** desgastadas por las condiciones ambientales, lo que presume que pudieron pertenecer a **otras víctimas**.
-
-Este sector es conocido como el “**canal de la muerte**“, por los recurrentes cuerpos de víctimas de asesinatos que se hallan en este tramo de más de 40 kilómetros.
-
-Al menos **cuatro bandas criminales** operan en este distrito, provocando una ola de violencia que va en aumento.
-
-En lo que va del año se han reportado **134 asesinatos** en este lugar del noroeste de Guayaquil.
-
-Willian Pacho tiene como mentor a una figura mundial en PSG
-===========================================================
-
-Willian Pacho, central ecuatoriano y figura del PSG, reveló quién es uno de sus mentores y referentes dentro del conjunto francés.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Willian Pacho, defensa ecuatoriano, durante un partido del PSG.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-06T204649.716.jpg)
-
-**Willian Pacho** llegó para la temporada 2024-2025 al **PSG** y se ha convertido en una de las figuras del conjunto francés. En el equipo, el central ecuatoriano ha encontrado a un referente de talle mundial en quien se ha apoyado para continuar con su crecimiento.
-
-Una campaña con el **Frankfurt** de Alemania le bastó al defensa esmeraldeño para dar el salto hacia un club de renombre a nivel de Europa. Con el conjunto parisino, este brilla tanto en la **Ligue One** como en la Champions League, donde cayó en su último partido.
-
-### Más noticias:
-
-* [Sparta Praga de Angelo Preciado cae en Champions ante Brest](https://www.elcomercio.com/deportes/sparta-praga-angelo-preciado-brest-champions.html "Sparta Praga de Angelo Preciado cae en Champions ante Brest")
-* [El FC Barcelona, imparable, goleó en Champions](https://www.elcomercio.com/deportes/barcelona-champions-estrella-roja-goleada.html "El FC Barcelona, imparable, goleó en Champions")
-* [Atlético de Madrid le remontó al PSG de Willian Pacho en Champions](https://www.elcomercio.com/deportes/futbol/atletico-de-madrid-le-remonto-al-psg-de-willian-pacho-en-champions.html "Atlético de Madrid le remontó al PSG de Willian Pacho en Champions")
-
-Uno de los factores que al futbolista ecuatoriano le han servido para su rápida adaptación ha sido la presencia de **Marquinhos** en el club. El defensor brasilero es el capitán del plantel azul y rojo y quien hace la dupla en la zaga del equipo junto a **Pacho**.
-
-Antes de disputar su último cotejo de Champions ante el **Atlético de Madrid**, que se impuso al PSG por 1-2, el ecuatoriano conversó con los medios de comunicación. Este relató cómo el jugar junto a al brasilero lo ha servido y el rol que tiene para él.
-
-¿Qué dijo Willian Pacho sobre Marquinhos en el PSG?
----------------------------------------------------
-
-Pacho se refirió a las cualidades de **Marquinhos** a nivel humano como futbolístico y a los gestos que tiene con él y con el grupo. Asimismo, también narró de manera personal lo que el jugador a hecho por él dentro del PSG.
-
-“**Es una excelente persona en el día a día, en cómo vive los entrenamientos, cómo entrena, cómo habla, cómo nos ayuda. La verdad, personalmente, a mí me ha dado mucha confianza para mis inicios aquí en París y eso me tiene muy feliz**“, señaló Pacho.
-
-Entre otras cuestiones, el tricolor destacó la capacidad de entrenamiento y el desempeño de su colega. “**La manera en que entrena, cómo maneja los perfiles, cómo está en la cancha, cómo cubre los espacios, son cosas que aprendo y me llevo cada día para seguir creciendo como jugador y persona**“, agregó.
-
-¿Cómo le fue al PSG en Champions?
----------------------------------
-
-En su último partido en la UEFA Champions League con el PSG, tanto **Willian Pacho** como **Marquinhos** partieron como titulares. Los dos jugadores formaron la dupla de defensas centrales en un esquema de 4-3-3 planteado por **Luis Enrique** ante el Atlético de Madrid.
-
-Aunque el conjunto de **París** fue el primero en ponerse por delante en el marcador, el cuadro español dio la vuelta al marcador. El duelo terminó con un marcador de **1-2 a favor de la visita**.  
-
-Contraloría detectó irregularidades en la Universidad Central
-=============================================================
-
-El período de gestión de la Universidad Central, analizado por la Contraloría, va de 2019 a 2024.
--------------------------------------------------------------------------------------------------
-
-![La Contraloría detectó irregularidades en la Universidad Central, entre 2019 y 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/contraloria-irregularidades-universidad-central.jpg)
-
-La **Contraloría General del Estado (CGE)** detectó **irregularidades** en un examen especial realizado a la **Universidad Central del Ecuador**.
-
-El período de gestión analizado va del **1 de enero de 2019 al 29 de febrero de 2024**.
-
-### Más noticias:
-
-* [Corte de Justicia decidió sobre autoridades de la UCE; ¿qué pasará con Patricio Espinosa?](https://www.elcomercio.com/actualidad/quito/corte-justicia-elecciones-universidad-central-espinosa.html "Corte de Justicia decidió sobre autoridades de la UCE; ¿qué pasará con Patricio Espinosa?")
-* [Universidades de Ecuador suben posiciones en ranking QS 2025](https://www.elcomercio.com/actualidad/universidades-de-ecuador-suben-posiciones-en-ranking-qs-2025.html "Universidades de Ecuador suben posiciones en ranking QS 2025")
-
-Irregularidades en la Universidad Central, detectadas por la Contraloría
-------------------------------------------------------------------------
-
-La Universidad Central es una institución de educación superior de **financiamiento público**.
-
-La Contraloría audita el uso de todos los **recursos estatales o públicos**.
-
-En este marco, el examen de la Contraloría en esta institución de educación superior encontró varias **irregularidades.**
-
-Con base en esto, el organismo de control publicó un examen especial el **22 de octubre** y realizó varias conclusiones y recomendaciones.
-
-La Contraloría señaló que hubo **contrataciones de familiares** de las autoridades de la Universidad Central, pese a la prohibición de la Ley de Servicio Público.
-
-En la Universidad Central, se contrató a un **sobrino del rector** para un trabajo de medio tiempo, por 1 200 dólares.
-
-Los hijos de los **decanos** de las facultades de Ciencias Agrícolas, Artes y Ciencias Médicas fueron contratados como docentes o docentes auxiliares.
-
-Otra irregularidad es el pago de **salarios desproporcionados** y sueldos cobrados por personas que no estaban registradas en la institución.
-
-La Universidad Central destinó más de 75 000 al pago de salarios de dos profesores que **no cumplieron con sus funciones**, en el período analizado.
-
-10 profesores que empezaron a trabajar en la Universidad Central sin haber firmado sus **contratos laborales.**
-
-Otros maestros tenían cargos como docentes y como administrativos y existían sueldos superiores a lo que ordena la normativa del **Consejo de Educación Superior (CES)**.
-
-La Universidad Central del Ecuador no ha emitido un **pronunciamiento** sobre este examen.
-
-Gobierno alemán cae por diferencias en política económica en contexto de recesión
-=================================================================================
-
-La coalición del Gobierno alemán se rompió.
--------------------------------------------
-
-![El canciller alemán, Olaf Scholz.](https://www.elcomercio.com/wp-content/uploads/2024/11/olan-efe.jpg)
-
-La coalición del [Gobierno alemán](https://www.elcomercio.com/tendencias/ciencia/daniela-arrellano-ecuatoriana-premio-nobel.html "https://www.elcomercio.com/tendencias/ciencia/daniela-arrellano-ecuatoriana-premio-nobel.html"), formada por **verdes, liberales y socialdemócratas**, que lleva tres años liderando el país centroeuropeo, se rompió este miércoles, 6 de noviembre de 2024.
-
-### Más noticias:
-
-* [Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-eintracht-frankfurt-remontada.html "Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania")
-* [El arte conecta en vivo a los bosques de Ecuador con dos ciudades de Suiza y Alemania](https://www.elcomercio.com/tendencias/el-arte-conecta-en-vivo-a-los-bosques-de-ecuador-con-dos-ciudades-de-suiza-y-alemania.html "https://www.elcomercio.com/tendencias/el-arte-conecta-en-vivo-a-los-bosques-de-ecuador-con-dos-ciudades-de-suiza-y-alemania.html")
-* [Ciudadano alemán sufrió un accidente de parapente en Ibarra](https://www.elcomercio.com/actualidad/ciudadano-aleman-accidente-parapente-ibarra.html "https://www.elcomercio.com/actualidad/ciudadano-aleman-accidente-parapente-ibarra.html")
-
-Esto tras expulsar el canciller, **Olaf Scholz, al ministro de Finanzas,** el **liberal Christian Lindner**, que exigió un cambio de **rumbo de la política económica** con exigencias que eran inasumibles para el resto de los socios, si bien las disputas ya se sucedían casi desde el principios de la andadura del **llamado “semáforo”.**
-
-Claves para entender la crisis
-------------------------------
-
-Estas son las claves de la crisis que ha llevado al fin de la coalición, a la que ya solo apoyaba el 14 % de la población, según una reciente encuesta de INSA:
-
-– El **ministro de Finanzas, del Partido Liberal (FDP),** socio menor de la coalición, presentó el jueves 31 de octubre a sus socios un documento de **18 páginas** para reactivar la economía alemana, que se encamina a su segundo año consecutivo de recesión. La propuesta se filtra a la prensa al día siguiente, algo que criticó Lindner. Pero el detonante -o la excusa para muchos- para forzar una ruptura estaba ya servida.
-
-– El **documento, calificada por algunos de “carta de divorcio”** y por otros incluso de “declaración de guerra”. Incluía medidas como **recortes fiscales** para las empresas, una relajación de los objetivos climáticos y una **reducción de las subvenciones** y prestaciones sociales, con lo que Lindner exigía a la coalición abandonar el actual planteamiento económico delineado en el acuerdo de coalición de 2021.
-
-– El domingo pasado **Scholz citó a Lindner para hablar con él** sobre este documento y las perspectivas de un compromiso, algo que previamente ya había hecho con su vicecanciller y ministro de Economía, el ecologista Robert Habeck.
-
-– El lunes se convoca una **reunión a tres bandas y el martes otra para tratar de buscar soluciones.** Scholz convoca otras dos reuniones de crisis para este miércoles en la que participan Habeck y Lindner, antes de sumarse por la tarde en la llamada comisión de coalición los responsables de los partidos que forman la coalición y de los grupos parlamentarios.
-
-– Entre el lunes y este miércoles, tanto Scholz como Habeck intentan apelar a la **unidad a los liberales y a la responsabilidad a Lindner**. Apuntaron a que sería el peor momento para una ruptura ante la mala situación económica, las elecciones en EE.UU., que ganó el republicano Donald Trump, y la **guerra rusa** en Ucrania. Sin embargo, el presidente del Partido Liberal insistió en que debía haber una decisión sobre el fundamento de la política económica del Gobierno.
-
-– No solo eran las medidas para reavivar la **maltrecha economía,** aquejada por la competencia de EE.UU. y de China, y la f**alta de inversión en la infraestructura,** entre otros factores, que dividían a los socios de la coalición, en la que Lindner abogaba por menos Estado y no quería aflojar el freno de la deuda, sino también el presupuesto para 2025. La próxima semana debe cerrarse en la **Comisión Presupuestaria del Parlamento** y en el que aún había un agujero por tapar de más de 12 000 millones de euros.
-
-– Ambos problemas están estrechamente vinculados, pues el presupuesto debe financiar las medidas económicas y por tanto el rumbo del Gobierno en esta materia.
-
-– Las disputas entre los socios de la coalición no eran nuevas, sino que todos sacaron constantemente sus **diferencias a la luz pública,** generando un hartazgo entre los mismos líderes y también entre la población, a juzgar por las encuestas, en las que los socialdemócratas ya solo cosecharían un 16 % de los votos si hoy fueran las elecciones, l**os Verdes un 10 % y los liberales de Lindner** ni siquiera entrarían en la Cámara Baja o Bundestag con un 4 %.
-
-– Sin embargo, las diferencias entre los liberales y sus socios, una alianza difícilmente compatible desde un principio, se agrandaron conforme pasaban los meses, las semanas y los días hasta agotarse la paciencia diez meses antes de las elecciones generales previstas para finales de septiembre de 2025.
-
-– Scholz cesó a Lindner, **acusándole de falta de responsabilidad** y de rechazar cualquier compromiso, con lo que la coalición se quedó en minoría entre los Verdes y los socialdemócratas. El canciller pedirá un voto de confianza el 15 de enero, que con casi toda seguridad perderá al estar ya en minoría, por lo que se convocarán probablement**e elecciones anticipadas a finales de marzo.** 
-
-Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla
-====================================================================================
-
-Marco Pazos, presidente de El Nacional, se pronunció en torno a la situación del club y a los acuerdos de pagos con la plantilla.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Gabriel Cortez, jugador de El Nacional, en la semifinal de Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241031135325-fbl-copa-ecuador-nacional-mushuc-runa-1-scaled.jpg)
-
-**El Nacional** atraviesa momentos convulsos y fricciones entre los futbolistas de la plantilla y jugadores a raíz de salarios impagos. Después de que se manifestase malestar en la escuadra, **Marco Pazos**, presidente del club, anunció que sí se cumplieron los últimos acuerdos por deudas.
-
-Durante este 6 de noviembre del 2024, antes de que se lleve a cabo el consejo de presidentes de la Liga Pro, **Pazos** dialogó con los medios de comunicación. Allí este se refirió a los pronunciamientos de miembros del elenco y al pacto de que la taquilla de semifinales de la **Copa Ecuador** iría hacia los jugadores[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
-
-### Más noticias:
-
-* [El Nacional quiere la final de la Copa Ecuador en Quito](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-quito-nacional-idv.html "El Nacional quiere la final de la Copa Ecuador en Quito")
-* [El Nacional persiste en malestares por falta de pagos](https://www.elcomercio.com/deportes/el-nacional-deudas-pagos-malestar.html "El Nacional persiste en malestares por falta de pagos")
-* [Tres figuras de El Nacional en Copa Ecuador](https://www.elcomercio.com/deportes/figuras-nacional-copa-ecuador-final.html "Tres figuras de El Nacional en Copa Ecuador")
-
-Antes de que Pazos explique lo suscitado, **Anthony Bedoya** tomó la palabra por medio de sus redes sociales y se quejó de la situación. Allí este señaló que hubo promesas que no se cumplieron y no se realizan esfuerzos por los futbolistas.
-
-Tras el pronunciamiento de Bedoya, desde la dirigencia de **El Nacional** se confirmó a EL COMERCIO que se pagó la mitad de un sueldo a los jugadores y alrededor de 70 mil dólares requeridos por la Federación Ecuatoriana de Fútbol (FEF). A su vez, fuentes cercanas a la plantilla señalaron que la deuda es de cerca de cuatro meses y que se esperaba que la taquilla cubra, por lo menos, un mes de los valores.
-
-¿Qué dijo Marco Pazos sobre los compromisos por deudas en El Nacional?
-----------------------------------------------------------------------
-
-En su intervención previa al consejo de presidentes, este señaló que no hubo incumplimientos en torno a lo ofrecido. A su vez, este señaló que conversó con parte de los futbolistas para explicar la situación y sobre el pronunciamiento de **Bedoya**.
-
-“**Ofrecimos que el 100 por ciento de la taquilla, quitando los costos, se iba a entregar y se lo hizo. El problema es que a veces no entienden las razones. Les explicamos, ayer hablé con el capitán y algunos jugadores explicándoles esto.** Hay gente que no lo asimila, quieren que entreguemos el 100% de la taquilla y que El Nacional se quede con los costos operativos y así no funciona. Tenemos que, por lo menos, cubrir, los costos son altos”, manifestó.
-
-Con respecto a **Bedoya**, este señaló que habló con él. “Al final me dijo ‘sí, no sabía esto’. Pero ya estamos conversando, no pueden soltar algo así, aunque no pedimos que quiten sus versiones”, agregó.
-
-¿Habrá salidas en El Nacional?
-------------------------------
-
-Con respecto al fin de la temporada y a potenciales movimientos en El Nacional, Pazos se refirió a la situación del arquero **David Cabezas**. El titular del ‘Bi-Tri’ sostuvo que existen posibilidades de que parta y se piensa en el jugador.
-
-El directivo también sostuvo que la intención es mantener en el cargo de DT a **Marcelo Zuleta**. Pese a ello, la decisión de permanecer está en manos del entrenador.
-
-Gobierno destinó cuatro millones de dólares para obras en cinco GAD
-===================================================================
-
-El desembolso del dinero fue oficializado por Daniel Noboa, en un evento realizado este miércoles 6 de noviembre.
------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa junto a representantes del Banco de Desarrollo y del Ministerio de Economía](https://www.elcomercio.com/wp-content/uploads/2024/11/gobierno-gad-transferencia.jpg)
-
-El Gobierno entregó **cuatro millones de dólares** a cinco Gobiernos Autónomos Descentralizados (**GAD**) de la Sierra Centro y la Amazonía para invertirse en **proyectos públicos**.
-
-### Más noticias
-
-* [Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-presento-querella-contra-asambleista-monica-palacios.html "Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?")
-* [Asamblea define la comisión para tratar sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/asamblea-definio-comision-propuesta-bases-militares-extranjeras.html "Asamblea define la comisión para tratar sobre  bases militares extranjeras")
-* [Daniel Noboa remueve a Ivonne Baki de la Embajada en Francia](https://www.elcomercio.com/actualidad/politica/daniel-noboa-remueve-a-ivonne-baki-de-la-embajada-en-francia.html "Daniel Noboa remueve a Ivonne Baki de la Embajada en Francia")
-
-La transferencia del dinero se oficializó en un evento realizado este miércoles 6 de noviembre de 2024, que contó con la presencia del presidente **Daniel Noboa**, representantes de instituciones del Estado y de los GAD.
-
-Según detalló el Gobierno, la inversión forma parte de un convenio realizado entre el **Banco de Desarrollo del Ecuador** (BDE) y el **Ministerio de Economía y Finanzas** (MEF) con diferentes Gobiernos Autónomos Descentralizados del país, que incluye la transferencia de cerca de **20 millones de dólares**[.](https://www.finanzas.gob.ec/ "https://www.finanzas.gob.ec/")
-
-El Gobierno prometió apoyar, con este dinero, a **49 GAD** del Ecuador.
-
-Inversión se destinará a 11 proyectos
--------------------------------------
-
-En este primer pago, los cinco GAD beneficiados fueron: **Chimborazo, Cotopaxi, Bolívar, Pastaza, Tungurahua**; además de los cantones: Latacunga, Riobamba y Guano.
-
-Con el dinero recibido se espera que en estos sectores se concluyan **11 proyectos** pendientes, como los programas FINGAD I-III, PROAGUA, entre otros.
-
-Los programas incluyen obras de **agua potable**, alcantarillado, riego y movilidad.
-
-En su intervención durante el evento, Daniel Noboa comentó el objetivo de esta inversión.
-
-“Ustedes saben que la cooperación es fundamental para trabajar de manera más efectiva, y ese es nuestro objetivo, **mejorar la calidad de vida** de las familias ecuatorianas, a través de un trabajo conjunto”, mencionó el jefe de Estado.
-
-> Desde Ambato, el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) a través del [@BDEcuadorBP](https://twitter.com/BDEcuadorBP?ref_src=twsrc%5Etfw) y [@FinanzasEc](https://twitter.com/FinanzasEc?ref_src=twsrc%5Etfw) realizó la entrega de recursos por USD 4 millones a los GAD de Sierra Centro y Pastaza. Esta entrega forma parte de un total de USD 20 millones.  
->   
-> Con estos recursos, se ejecutarán proyectos a… [pic.twitter.com/bzvdS764NL](https://t.co/bzvdS764NL)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 6, 2024](https://twitter.com/Presidencia_Ec/status/1854262990175862959?ref_src=twsrc%5Etfw)
-
-Noboa afirmó que estas acciones buscan “**dinamizar la economía del país**, generar empleo, y construir un mejor futuro”.
-
-Con este discurso coincidió el gerente general del BDE, **Carlos Rivera**, quien aseguró que la inversión “permitirá saldar compromisos del Ejecutivo que no fueron atendidos desde el 2017 (…) y prender los motores del **crecimiento** económico”.
-
-Kamala Harris seguirá en su lucha por la libertad
-=================================================
-
-"Estoy aquí para decir: aunque acepto la derrota, no renuncio a la lucha que impulsó esta campaña", señaló Kamala Harris.
--------------------------------------------------------------------------------------------------------------------------
-
-![La presidenta y excandidata presidencial demócrata Kamala Harris pronuncia su discurso de concesión.](https://www.elcomercio.com/wp-content/uploads/2024/11/kamala-harris-frases.jpg)
-
-[Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-felicita-donald-trump-victoria-elecciones.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-felicita-donald-trump-victoria-elecciones.html") aseguró este miércoles, 6 de noviembre de 2024, tras perder las elecciones presidenciales contra Donald Trump, que **acepta su derrota** pero que no renuncia a la lucha para que la luz vuelva a Estados Unidos.
-
-### Más noticias
-
-* [Kamala Harris felicita a Donald Trump por su victoria en las elecciones](https://www.elcomercio.com/actualidad/mundo/kamala-harris-felicita-donald-trump-victoria-elecciones.html "Kamala Harris felicita a Donald Trump por su victoria en las elecciones")
-* [La derrota de Kamala Harris silenció a los famosos que apostaron](https://www.elcomercio.com/tendencias/entretenimiento/famosos-decepcion-kamala-harris-donald-trump.html "La derrota de Kamala Harris silenció a los famosos que apostaron por su triunfo") [por](https://www.elcomercio.com/tendencias/entretenimiento/famosos-decepcion-kamala-harris-donald-trump.html "La derrota de Kamala Harris silenció a los famosos que apostaron por su triunfo") [su triunfo](https://www.elcomercio.com/tendencias/entretenimiento/famosos-decepcion-kamala-harris-donald-trump.html "La derrota de Kamala Harris silenció a los famosos que apostaron por su triunfo")
-* [Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca](https://www.elcomercio.com/actualidad/mundo/donald-trump-florida-supera-kamala-harris.html "Donald Trump supera a Kamala Harris y está a un paso de volver a la Casa Blanca")
-
-“Estoy aquí para decir: **aunque acepto la derrota**, no renuncio a la lucha que impulsó esta campaña”, aseguró Harris, visiblemente emocionada, en un discurso en la **Universidad de Howard de Washington**, el primero desde que fue declarada perdedora de las elecciones.
-
-Harris recordó que “un **principio fundamental** de la democracia estadounidense” es que cuando se pierden unas elecciones se aceptan los resultados.
-
-“Ese principio, tanto como cualquier otro, distingue a la democracia de la **monarquía o la tiranía,** y cualquiera que busque la confianza pública debe honrarlo”, añadió, en una referencia velada hacia Trump, que no quiso aceptar los resultados en 2020 cuando perdió contra Joe Biden.
-
-Harris, que ya habló por teléfono y felicitado al republicano, **aseguró que trabajará para que haya** “una transición pacífica de poder”.
-
-**“Volverá la luz”**
---------------------
-
-La vicepresidenta, que asumió la **misión de llegar a la Casa Blanca** tras la retirada en julio del presidente Biden, reconoció su derrota en las elecciones asegurando que el resultado no es el que querían ni por el que trabajaron, pero prometió que **“la luz del EE.UU. prometido volverá”.**
-
-“El resultado no es el que quisimos ni por el que trabajamos ni por el que votamos, pero la luz del EE.UU. prometido volverá **mientras sigamos trabajando y sigamos luchando**“, apuntó en el lugar en el que ayer se instaló el cuartel general de su campaña y en el que estaba previsto que apareciera.
-
-Pero poco más allá de la medianoche del martes, conforme los **resultados del escrutinio llegaban** y apuntaban a una contundente derrota, la campaña de Harris anunciaba que se cancelaba la comparecencia y la pospuso para hoy.
-
-En su discurso, que duró poco más de diez minutos, la vicepresidenta agradeció a su campaña, a su familia y al presidente Biden por la **confianza depositada en ella**, así como a su fórmula presidencial, el gobernador Tim Waltz.
-
-“Estoy muy orgullosa de la campaña que hicimos y de la manera en que la hicimos. Durante los 107 días de esta campaña, nos hemos propuesto c**onstruir una comunidad** y formar coaliciones, uniendo a personas de todos los ámbitos y orígenes, unidas por el amor a la patria”, afirmó en el campus en el que un día estudió, ante decenas de personas que quisieron estar para apoyarla.
-
-Pese a que la gente está sintiendo “una **variedad de emociones** en este momento”, agregó, hay que “aceptar los resultados de esta elección”, insistió la demócrata, en un discurso en el que ha tenido que contener las lágrimas en más de una ocasión.
-
-Seguirá la lucha
-----------------
-
-“**Nunca renunciaré a la lucha por un futuro** en el que los estadounidenses puedan perseguir sus sueños, ambiciones y aspiraciones; en el que las **mujeres de Estados Unidos tengan la libertad de tomar** decisiones sobre su propio cuerpo y que el gobierno no les diga qué hacer. Nunca renunciaremos a la lucha para **proteger nuestras escuelas** y nuestras calles de la violencia armada”, afirmó la vicepresidenta.
-
-Así, continuará librando esa lucha “en las urnas, en los tribunales y en la plaza pública”. “La lucha por nuestra libertad requerirá mucho trabajo, pero como siempre digo, nos gusta el trabajo duro”, agregó.
-
-Victoria de Donald Trump
+Fecha 13 – segunda etapa
 ------------------------
 
-La victoria de Trump fue anunciada esta madrugada al conseguir más de los **270 compromisarios** necesarios del Colegio Electoral. A la espera del escrutinio en apenas dos estados, la demócrata tiene 226 delegados frente a los 295 del republicano. 
+### Viernes 8/11
 
-Justicia de Valencia remite al Supremo una demanda por ‘inacción’ del Gobierno en la DANA
+15:00 Delfín-Mushuc Runa
+
+### Sábado 9/11
+
+10:00 Universidad Católica vs. Aucas
+
+12:30 Macará vs. Emelec
+
+15:30 Liga de Quito vs. Independiente del Valle
+
+### Domingo 10/11
+
+10:30 El Nacional vs. Libertad
+
+13:00 Orense vs. Técnico Universitario
+
+15:30 Barcelona SC vs. Cumbayá
+
+### Lunes 11/11
+
+15:00 Imbabura vs. Deportivo Cuenca
+
+San viernes
+-----------
+
+Lucía Jaramillo respondió a Aquiles Alvarez
+===========================================
+
+La asambleísta Lucía Jaramillo responde al Alcalde Avarez, exigiendo respeto y el cumplimiento de la sentencia del TCE.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Lucía Jaramillo presentando la denuncia formal por violencia política de género, en el TCE el pasado 19 de agosto de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-16-1.jpg)
+
+En respuesta a los recientes comentarios del alcalde de Guayaquil, **Aquiles Alvarez**, la asambleísta **Lucía Jaramillo** utilizó su cuenta de X este jueves 7 de noviembre para **aclarar su posición**.
+
+### Más noticias
+
+* [Aquiles Alvarez fue sentenciado; se niega a cumplir parte de la sanción](https://www.elcomercio.com/actualidad/politica/aquiles-alvarez-sentenciado-se-niega-a-cumplir-sancion-tce.html "Aquiles Alvarez fue sentenciado; se niega a cumplir parte de la sanción")
+* [Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión](https://www.elcomercio.com/actualidad/seguridad/caso-triple-a-audiencia-formulacion-cargos-suspendio-segunda-ocasion.html "Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión")
+* [Asamblea define la comisión para tratar sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/asamblea-definio-comision-propuesta-bases-militares-extranjeras.html "Asamblea define la comisión para tratar sobre  bases militares extranjeras")
+
+Alvarez había hecho referencia a un **‘examen de Contraloría’** como argumento en su disputa con Jaramillo, quien **negó cualquier sanción en su contra por parte de la Contraloría General del Estado**.
+
+> El Alcalde [#AquilesÁlvarez](https://twitter.com/hashtag/Aquiles%C3%81lvarez?src=hash&ref_src=twsrc%5Etfw) ha mencionado un Examen de Contraloría en su respuesta.  
+>   
+> Le explico con peras y manzanas, YO nunca fui sancionada por la Contraloría. Mi trabajo se midió por resultados, sin horarios y con un férreo compromiso con mi ciudad. Pero claro, cuando se… [https://t.co/aIKh2CjO2d](https://t.co/aIKh2CjO2d)
+> 
+> — Lucia Jaramillo (@Lucia\_Jaramillo) [November 7, 2024](https://twitter.com/Lucia_Jaramillo/status/1854520985472352364?ref_src=twsrc%5Etfw)
+
+En su mensaje, Jaramillo recalcó su compromiso con la ciudad y **criticó las actitudes del alcalde**, a quien acusa de utilizar **estereotipos y violencia política en su contra**.
+
+‘Cuando se acaban los argumentos, recurre a incumplir una sentencia y aplicar estereotipos y violencia política’, expresó la asambleísta, **exigiendo respeto a la democracia** y el cumplimiento de la sentencia del Tribunal Contencioso Electoral (TCE).
+
+‘¿Atacar sin pruebas es la nueva táctica? Señor Alcalde, **respete la sentencia del TCE y la democracia**‘, escribió **Jaramillo en su cuenta de X**.
+
+Sentencia del TCE y la respuesta de Alvarez
+-------------------------------------------
+
+La tensión entre ambos se originó luego de que el TCE determinara que los comentarios de Alvarez, llamándola **‘niña vaga” y ‘vocera turra’**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCEvIwsx5D_/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCEvIwsx5D_/?utm_source=ig_embed&utm_campaign=loading)
+
+Este fallo, que consideró que las expresiones del alcalde menoscaban la dignidad de Jaramillo, impuso varias **sanciones en contra de Alvarez**. La sentencia incluyó una **multa de 9 660 dólares**, la eliminación del post en cuestión y la **prohibición de futuras referencias a Jaramillo en redes**.
+
+Adicionalmente, Alvarez debe publicar disculpas en su cuenta de X y completar un curso de sensibilización contra la **violencia de género**. Sin embargo, el alcalde rechazó la sanción, sosteniendo que sus palabras **solo reflejaban la “verdad”**. También expresó **su disposición a enfrentar una destitución antes que ofrecer disculpas**.
+
+Reacciones y llamados a la democracia
+-------------------------------------
+
+Para Jaramillo, la sentencia del TCE marca un **precedente significativo en la lucha contra la violencia política de género**, destacando que “esta es una victoria para todas”.
+
+En su última respuesta, hizo un llamado a Alvarez a **respetar el fallo judicial** y dejar de usar ataques personales como táctica. La asambleísta enfatizó que su gestión se ha basado en resultados y compromiso, defendiendo su trayectoria frente a los **cuestionamientos del alcalde**.
+
+Mientras tanto, Alvarez asegurq que el TCE intenta **“atropellar la democracia”**. Asimismo, alega que **su destitución no sería en vano**, pues considera que cuenta con el respaldo de la ciudadanía.
+
+AMT amplía los horarios de atención para la revisión vehicular
+==============================================================
+
+Aprobar la Revisión Técnica Vehicular es un requisito para circular con un automotor en Quito.
+----------------------------------------------------------------------------------------------
+
+![La AMT detalló cómo funcionarán los horarios extendidos para la Revisión Vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/11/Revision-Vehicular-Quito.jpg)
+
+La Agencia Metropolitana de Tránsito (**AMT**) informó sobre la extensión de horarios para la **Revisión** **Técnica** **Vehicular** en Quito[.](https://es.wikipedia.org/wiki/Inspecci%C3%B3n_t%C3%A9cnica_de_veh%C3%ADculos#:~:text=La%20inspecci%C3%B3n%20t%C3%A9cnica%20de%20veh%C3%ADculos,contaminantes%20que%20le%20sean%20aplicables. "https://es.wikipedia.org/wiki/Inspecci%C3%B3n_t%C3%A9cnica_de_veh%C3%ADculos#:~:text=La%20inspecci%C3%B3n%20t%C3%A9cnica%20de%20veh%C3%ADculos,contaminantes%20que%20le%20sean%20aplicables.")
+
+Más noticias
+------------
+
+* [¿Cuántos feriados nacionales y locales le restan a Ecuador en 2024?](https://www.elcomercio.com/actualidad/ecuador/cuantos-feriados-nacionales-locales-ecuador-2024.html "¿Cuántos feriados nacionales y locales le restan a Ecuador en 2024?")
+* [En el feriado de noviembre se registraron más de 47 000 emergencias](https://www.elcomercio.com/actualidad/ecuador/feriado-de-noviembre-se-registraron-mas-de-47-000-emergencias.html "En el feriado de noviembre se registraron más de 47 000 emergencias")
+* [Es necesaria una solución al caos vehicular en los feriados](https://www.elcomercio.com/opinion/editorial/urgente-necesaria-solucion-caos-vehicular-feriados-transito.html "Es necesaria una solución al caos vehicular en los feriados")
+
+Esta medida, adoptada tras el feriado obligatorio del 31 de octubre busca atender los turnos acumulados por estos días. El feriado fue decretado por el presidente de **Ecuador**, **Daniel** **Noboa**, adicional a los días de descanso por el **Día de Difuntos** y la **Independencia de Cuenca**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCCD6IdRmfn/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Agencia de Tránsito Quito AMT (@transitoquito)](https://www.instagram.com/p/DCCD6IdRmfn/?utm_source=ig_embed&utm_campaign=loading)
+
+Nuevos horarios para la Revisión Técnica Vehicular
+--------------------------------------------------
+
+La atención extendida se ofrecerá del 6 al 15 de noviembre en los seis centros de **Revisión Técnica Vehicular**. Los horarios serán:
+
+* **Lunes a viernes**: de 07:00 a 17:00.
+* **Sábado 9 de noviembre**: de 07:00 a 12:00.
+
+Revisión Vehicular para placas de noviembre
+-------------------------------------------
+
+En **noviembre**, todos los vehículos cuya placa termine en el dígito cero deben cumplir con la **Revisión** **Técnica** **Vehicular**.
+
+Los propietarios que no realicen el trámite a tiempo enfrentarán una multa de 25 dólares. El plazo máximo para completar la **revisión** y **matriculación** del vehículo es diciembre.
+
+Pasos para acceder a la Revisión Técnica Vehicular en Quito
+-----------------------------------------------------------
+
+1. Consultar los valores pendientes en el SRI, además de posibles multas en AMT y ANT, y generar una orden de pago en [www.amt.gob.ec](http://www.amt.gob.ec/).
+2. Pagar los montos adeudados en cualquier institución financiera.
+3. Generar una cita previa en [www.amt.gob.ec](http://www.amt.gob.ec/) seleccionando el centro y horario deseado.
+4. Acudir al centro de revisión 15 minutos antes de la cita.
+5. Presentar el comprobante de pago electrónicamente (opcional) y llevar la matrícula del vehículo.
+
+Los usuarios pueden agendar su cita en cualquiera de los centros de revisión vehicular: Los Chillos, Carapungo, San Isidro, Florida, Guajaló y Guamaní, en el horario que mejor les convenga.
+
+En caso de que no puedan asistir a la cita agendada, deben cancelarla llamando al call center **1800-268-268**. Un asesor les brindará asistencia para anular la cita, y luego podrán generar un nuevo turno en [www.amt.gob.ec](http://www.amt.gob.ec/) en el centro y horario de su preferencia.
+
+Posibles lluvias se esperan en Quito, a pesar del sol, la tarde de este jueves 7 de noviembre
+=============================================================================================
+
+Recuerda que a pesar de la presencia ocasional de lluvias, las condiciones del clima son favorables para la formación y propagación de incendios forestales.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Inamhi advierte sobre altas temperaturas hasta el 9 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/clima-Quito.jpg)
+
+El **Instituto Nacional de Meteorología** (Inamhi) dio a conocer las **previsiones sobre el clima** para Quito este jueves 7 de noviembre de 2024.
+
+### Más noticias
+
+* [El 2024 será seguramente el año más cálido jamás registrado, según Copernicus](https://www.elcomercio.com/actualidad/mundo/2024-sera-seguramente-mas-calido-jamas-registrado-segun-copernicus.html "El 2024 será seguramente el año más cálido jamás registrado, según Copernicus")
+* [Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia](https://www.elcomercio.com/actualidad/mundo/dana-deja-victimas-mortales-ecuatorianos.html "Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia")
+* [¿Cómo está el embalse de Mazar tras lluvias de Cuenca?](https://www.elcomercio.com/actualidad/negocios/como-esta-el-embalse-de-mazar-tras-lluvias-de-cuenca.html "¿Cómo está el embalse de Mazar tras lluvias de Cuenca?")
+
+Advertencia meteorológica
+-------------------------
+
+El Inamhi mantiene activa la **advertencia meteorológica 58,** la cual advierte que entre el 6 y el 9 de noviembre la temperatura se incrementará en Ecuador. Así mismo, la radiación ultravioleta registrará niveles muy altos.
+
+Los días con mayor temperatura y radiación son el 6 y el 8 de noviembre. Las provincias más afectadas con estas condiciones son:
+
+* **Litoral:** Guayas, Manabí, Los Ríos
+* **Sierra:** Loja, Azuay, Imbabura, Pichincha, Tungurahua y Chimborazo
+* **Amazonía:** Sucumbíos, Orellana y Pastaza
+
+Esta**s temperaturas altas** constituyen, junto con el viento y la resequedad de la vegetación, un importante riesgo para la formación de **incendios forestales.**
+
+> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #58 l Entre el 6 y 9 de noviembre incrementará la Temperaturas y Radiación Ultravioleta en el día en la región Amazónica, Interandina, y zona centro – sur del Litoral.  
+>   
+> 🟠Los días con mayor temperatura y radiación son el 6 y 8 de octubre. 🌤️🌡️🥵 [pic.twitter.com/ydAfJdxmp8](https://t.co/ydAfJdxmp8)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 6, 2024](https://twitter.com/inamhi_ec/status/1854206389368893592?ref_src=twsrc%5Etfw)
+
+Así estará el clima en Quito hoy
+--------------------------------
+
+Este jueves 7 de noviembre, **Quito y en general Pichincha** presentan un cielo nublado con claros ocasionales. La mañana de este jueves, el Distrito de **Quito se mostró nublada**; sin embargo, la temperatura podría alcanzar los 27 grados en el transcurso del día.
+
+Los índices de **radiación ultravioleta** se ubican en escala 13, lo que corresponde a un **nivel extremadamente alto.**
+
+Según las previsiones del **Inamhi,** en la tarde podría haber presencia de **lluvias aisladas**, con posibles tormentas. Esto tanto para el norte y el sur y los valles.
+
+Durante la noche y la madrugada de**l viernes 8 de noviembr**e, se prevé un descenso de temperatura que podría llegar a los 6 grados centígrados.
+
+Las **zonas altas de Quito** podrían ser las más afectadas con el frío de la madrugada; [toma precaucione](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")s.
+
+Recuerda que a pesar de la **presencia ocasional de lluvias,** las condiciones aún son favorables para la formación y **propagación de incendios forestales.**
+
+Ante esto, **evita encender chispas, arrojar colillas**, realizar quemas agrícolas o de basura en espacios verdes. Si detectas una columna de humo, **llama de inmediato al 911.**
+
+> 🌦️[#ElClimaQuiteño](https://twitter.com/hashtag/ElClimaQuite%C3%B1o?src=hash&ref_src=twsrc%5Etfw) | Pronóstico para el jueves 07 de noviembre 2024, según el [@inamhi\_ec](https://twitter.com/inamhi_ec?ref_src=twsrc%5Etfw), cielo parcial nublado por la mañana y en la tarde lluvia aislada:  
+>   
+> 🌞Temperatura: 25°C y 27°C.  
+> 🧴Usa protector solar y lleva paraguas ☔️ [pic.twitter.com/YKCWFMDs64](https://t.co/YKCWFMDs64)
+> 
+> — COE Quito (@coequito) [November 7, 2024](https://twitter.com/coequito/status/1854533299806335294?ref_src=twsrc%5Etfw)
+
+Figura de la Liga Pro convocada a la Selección de Panamá
+========================================================
+
+Janpol Morales es una de las figuras de Macará de Ambato en la Liga Pro.
+------------------------------------------------------------------------
+
+![Janpol Morales, jugador del Macará de Ambato, en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/morales_1.jpg)
+
+**Janpol Morales,** una de las figuras de Macará de Ambato, es uno de los 25 convocados por parte de Thomas Christiansen, entrenador de Panamá, para la fecha FIFA de eliminatorias de noviembre.
+
+El nombre de **Janpol Morales ya estaba en la órbita del entrenador español de origen danés**, por lo que el llamado del mediocampista era cuestión de tiempo y sumarse a la Selección de Panamá a sus 26 años de edad.
+
+### Más noticias:
+
+* [Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-ligapro.html "Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada")
+* [Atlético de Madrid le remontó al PSG de Willian Pacho en Champions](https://www.elcomercio.com/deportes/futbol/atletico-de-madrid-le-remonto-al-psg-de-willian-pacho-en-champions.html "Atlético de Madrid le remontó al PSG de Willian Pacho en Champions")
+* [¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?](https://www.elcomercio.com/deportes/ciclismo/cuando-vuelta-ciclistica-ecuador-2024-equipos.html "¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?")
+
+Los panameños disputarán el jueves 14 y el lunes 18 de noviembre de 2024, desde las 21:00, los partidos de ida y vuelta por los cuartos de final de la Liga de Naciones de la CONCACAF.
+
+El primer encuentro será en el **estadio Nacional de Costa Rica en San José**, mientras que la revancha está programada en el Rommel Fernández Gutiérrez en Ciudad de Panamá.
+
+Jamaica vs. Estados Unidos, **Surinam vs. Canadá y Honduras vs. México**, son los otros combinados que siguen en competencia y buscan llegar a la gran final que se jugará en Inglewood, Estados Unidos.
+
+Pero Morales no es el único jugador de la Liga Pro que fue convocado por los ‘Canaleros’. **Ismael Díaz y José Fajardo**, ambos delanteros de la Universidad Católica, también fueron citados para estos dos encuentros.
+
+¿Quién es Janpol Morales?
+-------------------------
+
+Leroy Janpol Morales Napa, de 26 años, nació en Panamá, **pero sus padres son ecuatorianos** y decidieron regresar al país andino cuando Morales tenía 2 años de edad.
+
+“Por motivos de trabajo mis padres vivieron como 10 años en Panamá, **allí nació mi hermana mayor y yo también**, pero cuando tenía dos años, mi familia regresó a Ecuador”, declaró en septiembre a EFE.
+
+“Desde pequeño soñé con llegar a una Selección, que también pudo ser la de Ecuador”, reconoció Morales.
+
+“Hace dos semanas hablé con el seleccionador **Thomas Christiansen**, pero yo esperaré la confirmación desde Panamá cuando aparezca la lista de los convocados”, reconoció por esos días.
+
+Desde el 2017 el atacante ha disputado **158 partidos con equipos ecuatorianos, anotó 19 goles y otorgó tres asistencias**, con equipos como Fuerza Amarilla, Audaz Octubrino, Cumbayá y Macará, con el que milita en la primera división ecuatoriana desde el 2022.
+
+“Estoy a un paso de cumplir mi sueño, **espero ser constante, aportar a la Selección y como en todo lugar**, ganarme un puesto”, añadió Morales.
+
+![Janpol Morales (i).](https://www.elcomercio.com/wp-content/uploads/2024/11/morales_2-1024x683.jpg)
+
+Janpol Morales (i).
+
+San viernes
+-----------
+
+El 2024 será seguramente el año más cálido jamás registrado, según Copernicus
+=============================================================================
+
+En general, las temperaturas fueron más elevadas que la media en prácticamente la totalidad del continente, según el comunicado.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Personas transitan frente a piezas del proyecto Moai Planet Alive, una exposición para "concienciar" sobre la sostenibilidad y la "responsabilidad colectiva" con el planeta.](https://www.elcomercio.com/wp-content/uploads/2024/11/crisis-climatica.jpg)
+
+El presente año, **2024**, será casi con total seguridad **el más cálido,** informó este jueves 7 de noviembre el Servicio de Cambio Climático (C3S) de Copernicus. Además, **el primero en superar la barrera** de los 1,5°C sobre los niveles preindustriales que se ha registrado.
+
+### Más noticias
+
+* [La inteligencia artificial como socia en la batalla contra el cambio climático](https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html "La inteligencia artificial como socia en la batalla contra el cambio climático ")
+* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "Efectos de la DANA como consecuencia del cambio climático")
+* [Los santos y el clima: una relación que no se abandona en América Latina](https://www.elcomercio.com/actualidad/quito/santos-clima-relacion-america-latina.html "Los santos y el clima: una relación que no se abandona en América Latina")
+
+Temperatura, en niveles récord
+------------------------------
+
+“Esto marca un nuevo hito en los registros de **temperatura global** y debería servir como catalizador para aumentar la ambición de cara a la próxima Conferencia sobre Cambio Climático, COP29″, indicó Samantha Burgess, Directora Adjunta del Servicio de Cambio Climático de Copernicus.
+
+Con base en el conjunto de datos ERA5 es prácticamente seguro que la temperatura anual para 2024 se **situará más de 1,5°C p**or encima del nivel preindustrial, y es probable que supere los 1,55 °C.
+
+La anomalía de la temperatura media para el **resto de 2024 tendría que descender** hasta casi cero para que 2024 no fuera el año más cálido, según el informe.
+
+**Octubre**, por su parte, f**ue el segundo mes de octubre más caluroso a nivel mundial,** después del de 2023, con una temperatura media del aire en superficie ERA5 de 0,80°C por encima de la media de 1991-2020 para este mes, de acuerdo con el boletín mensual de la institución con sede en Bonn (Alemania).
+
+Por otro lado, la **temperatura media mundia**l de los últimos 12 meses (noviembre de 2023 – octubre de 2024) fue 0,74°C superior a la media de 1991-2020, y se estima que está 1,62°C por encima de la media preindustrial de 1850-1900.
+
+Asimismo, el pasado mes **Copernicus registró precipitaciones superiores** a la media en la Península Ibérica, Francia, norte de Italia, Noruega, norte de Suecia y este del Mar Negro.
+
+Las fuertes precipitaciones provocaron graves inundaciones repentinas en la provincia española de Valencia, con más de 200 víctimas mortales.
+
+Temperaturas en Europa y el mundo
+---------------------------------
+
+En general**, las temperaturas fueron más elevadas** que la media en prácticamente la totalidad del continente, según el comunicado.
+
+Fuera de Europa, **las temperaturas que más superaron la media se registraron en el norte de Canadá** y estuvieron muy por encima de la media en el centro y oeste de Estados Unidos, el norte del Tíbet, Japón y Australia.
+
+La **temperatura media** de la superficie del mar (TSM) dentro de las coordenadas 60°S-60°N alcanzó en octubre de 2024 los 20,68 °C, el segundo valor más alto de los registros de ese mes y solo 0,10 ºC por debajo de la temperatura de octubre de 2023.
+
+La**s temperaturas de la superficie de los océanos** se mantuvieron inusualmente elevadas en muchas regiones.
+
+Las **temperaturas fueron inferiores** a la media en el Pacífico ecuatorial oriental y central, una señal de que se está gestando **el fenómeno de La Niña**.
+
+Precipitaciones y sequía
+------------------------
+
+Las precipitaciones y **la humedad del suelo fueron inferiores** a la media en la mayor parte de Europa oriental, especialmente en el oeste de Rusia, Grecia y el oeste de Turquía.
+
+A nivel global, se registraron **condiciones más húmedas** que la media en el sur y el este de China, Taiwán, Florida (Estados Unidos) -donde tocó tierra el huracán Milton-, partes del oeste de Australia y el extremo sur de Brasil.
+
+Copernicus observó **condiciones más secas** que la media en la mayor parte de Estados Unidos, las tierras bajas centrales de Australia, gran parte del sur de África y Madagascar, y partes de Argentina y Chile.
+
+En octubre, por otra parte**, la extensión del hielo marino del Ártico** alcanzó el cuarto valor más bajo para un mes de octubre, un 19% más bajo que la media.
+
+La extensión del **hielo marino de la Antártida** fue la segunda más baja para ese mes en el registro de datos por satélite, un 8 % por debajo de la media, por detrás de octubre de 2023, por lo que continúa una serie de grandes [anomalías negativas](https://es.wikipedia.org/wiki/Valencia "https://es.wikipedia.org/wiki/Valencia") observadas a lo largo de 2023 y 2024.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/copernicus-1024x683.jpg)
+
+Fuente: Copernicus Infografía: EFE
+
+Unos 16 000 clientes de telefonía fija y 37 000 de móvil continúan afectados tras la DANA
 =========================================================================================
 
-La demanda busca que la Justicia declare la inacción del Gobierno central en la gestión de la crisis.
+Algunos de los clientes que siguen afectados están teniendo servicio de telefonía móvil de manera parcial y temporal.
+---------------------------------------------------------------------------------------------------------------------
+
+![Una voluntaria consulta su teléfono móvil en Massanassa (Valencia).](https://www.elcomercio.com/wp-content/uploads/2024/11/DANA-telefono-movil-efe.jpg)
+
+Alrededor de **16 000 clientes de telefonía fija** continúan sin servicio por las consecuencias de la [DANA](https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html "https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html"), un 7 % de los 220 000 inicialmente afectados, en tanto que aún quedan pendientes de conexión 37 000 líneas móviles, el 12 % de las cerca de 300 000 que sufrieron las consecuencias del temporal.
+
+### Más noticias
+
+* [Tras nueve días de la DANA, el panorama aún es desolador en España](https://www.elcomercio.com/actualidad/mundo/tras-nueve-dias-dana-panorama-desolador-espana.html "Tras nueve días de la DANA, el panorama aún es desolador en España")
+* [Nueva alerta en España por DANA y sube el número de fallecidos](https://www.elcomercio.com/actualidad/mundo/alerta-espana-dana-sube-numero-fallecidos.html "Nueva alerta en España por DANA y sube el número de fallecidos")
+* [Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA](https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html "https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html")
+
+Según los datos actualizados a las 12:00 de este jueves en la página web de la **Presidencia del Gobierno,** se han recuperado ya 204 000 líneas de telefonía fija, un 93 %, y 263 000 líneas de telefonía móvil, el 88 %.
+
+Algunos de los **clientes que siguen afectados** están teniendo servicio de telefonía móvil de manera parcial y temporal por medio de estaciones portátiles desplegadas por los operadores.
+
+Las operadoras de telefonía continúan trabajando para restablecer el servicio en las zonas afectadas por la DANA en coordinación con las autoridades de emergencias.
+
+Tras nueve días de la DANA
+--------------------------
+
+Los servicios de emergencia que trabajan en labores de rescate y limpieza en Valencia describen todavía, nueve días después de las devastadoras inundaciones de la DANA, escenarios catastróficos e inimaginables.
+
+Pero avanzan las tareas de reconstrucción de las infraestructuras y algunos servicios **(como centros de salud o educativos) comienzan a recuperar la normalidad.**
+
+También afloran los testimonios de personas gravemente afectadas por la catástrofe que vislumbran los trabajos de desescombro y limpieza que realizan los servicios de emergencia y los miles de voluntarios. Los expertos calculan que se sumaron unos **50 000 en los primeros días.**  
+  
+
+El cuerpo de Liam Payne finalmente llegó a casa
+===============================================
+
+El cuerpo de Liam Payne permaneció 21 días en Buenos Aires, Argentina.
+----------------------------------------------------------------------
+
+![El cuerpo de Liam Payne está en casa. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T114037.575.jpg)
+
+La trágica muerte de **Liam Payne**, exintegrante de **One Direction**, dejó una profunda huella en el mundo de la música.
+
+El cantante falleció el pasado 16 de octubre de 2024 en **Buenos Aires, Argentina**, tras caer desde el tercer piso de un hotel en el barrio de Palermo.
+
+Su cuerpo fue repatriado a **Londres** después de 21 días en Argentina, un proceso que se prolongó debido a las investigaciones forenses y los trámites burocráticos.
+
+### **Más noticias:**
+
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html "https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html")
+* [Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html")
+
+**¿Qué reveló la autopsia de Liam Payne?**
+------------------------------------------
+
+El padre de Liam, **Geoff Payne**, llegó a **Buenos Aires** dos días después del accidente para encargarse de la repatriación.
+
+La autopsia reveló que el cantante murió por **politraumatismo** y hemorragias internas y externas, causadas por la caída. Además, se encontraron múltiples sustancias en su organismo, lo que sugiere que estaba bajo los efectos de drogas y alcohol en el momento del incidente.
+
+> [View this post on Instagram](https://www.instagram.com/reel/C5EUj0QsY4f/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Liam Payne (@liampayne)](https://www.instagram.com/reel/C5EUj0QsY4f/?utm_source=ig_embed&utm_campaign=loading)
+
+Las autoridades argentinas indicaron que el comportamiento errático de Payne llevó a una llamada al 911 justo antes de su caída, alertando sobre un huésped agresivo.
+
+**El cuerpo de Liam Payne finalmente llegó a casa**
+---------------------------------------------------
+
+El vuelo con los restos de **Liam** Payne partió el 6 de noviembre desde el Aeropuerto Internacional de Ezeiza en Buenos Aires, con destino a Londres, y hoy, 7, llegó a Londres.
+
+La ceremonia de despedida se realizará en la Catedral de San Pablo en Wolverhampton, su ciudad natal. Se espera la reunión de amigos, familiares y admiradores que rendir homenaje a un artista que dejó una marca indeleble en la industria musical.
+
+Los Ángeles 2028 y el Mundial 2026 bajo la lupa de Donald Trump
+===============================================================
+
+Donald Trump estuvo envuelto en la polémica meses atrás al comentar sobre la ceremonia de inauguración de los Juegos Olímpicos de París 2024
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump (der.) y Gianni Infantino, presidente de la FIFA. La Copa Mundial 2026 será en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/trump-2.jpg)
+
+Con su reciente elección como presidente de los Estados Unidos, **Donald Trump** se prepara para liderar dos de los eventos deportivos más importantes a nivel mundial: la Copa del Mundo de Fútbol 2026 y los Juegos Olímpicos de **Los Ángeles 2028.**
+
+A pesar de que la **Copa del Mundo de 2026** se celebrará en conjunto con **México** y **Canadá**, la mayoría de los partidos tendrán lugar en **Estados Unidos**, incluyendo las finales.
+
+Esta edición de la **Copa del Mundo** será histórica al contar con la participación de 48 selecciones, una cifra sin precedentes.
+
+En cuanto a los **Juegos Olímpicos de 2028**, Los Ángeles se prepara para albergar este evento de magnitudes épicas, con un presupuesto de 6,900 millones de dólares para asegurar que todas las infraestructuras estén listas a tiempo.
+
+La ciudad californiana trabaja arduamente para ser una anfitriona digna de unos Juegos Olímpicos que se anticipan como los más innovadores de la historia.
+
+Polémica de Trump tras inauguración de París 2024
+-------------------------------------------------
+
+No obstante, **Trump** ya estuvo envuelto en la polémica meses atrás al comentar con dureza sobre la [ceremonia de inauguración](https://www.elcomercio.com/deportes/otros/representacion-religiosa-juegos-olimpicos-polemica.html) de los **Juegos Olímpicos de París 2024**, celebrada el 26 de julio.
+
+En una entrevista con Fox News, Trump calificó de “vergüenza” la escena que parodiaba la famosa pintura La Última Cena de Leonardo da Vinci, en la que drag queens recreaban un banquete acompañado por un actor interpretando al dios Dionisio.
+
+Trump, aunque se consideró “abierto de mente”, criticó fuertemente la representación, señalando que si tuviera **influencia en la organización de Los Ángeles 2028**, no permitiría escenas similares.
+
+La polémica también fue fuertemente criticada por otras figuras republicanas y fue rechazada por representantes de la Iglesia Católica francesa, que condenaron la representación como una “burla” al cristianismo.
+
+Sin embargo, los organizadores de la ceremonia defendieron la escena, asegurando que no pretendían ofender, sino celebrar la cultura y la [diversidad francesa](https://es.wikipedia.org/wiki/Cultura_de_Francia).
+
+Chelsea vs. Noah por la Conference League, ¿cuándo juegan?
+==========================================================
+
+Chelsea es uno de los líderes de la Conference League. Se mantiene invicto en las dos fechas jugadas.
 -----------------------------------------------------------------------------------------------------
 
-![Varios voluntarios colaboran durante las labores de limpieza en una calle en Catarroja, Valencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/dana-espana.jpg)
+![Moisés Caicedo, jugador del Chelsea de Inglaterra en octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/caicedo_conference_1.jpg)
 
-El **Tribunal Superior de Justicia valenciano** (TSJCV) remitió al **Tribunal Supremo** una demanda interpuesta por una asociación por la **“inacción” del Gobierno** frente a las inundaciones ocasionadas por la DANA en la provincia, que considera una **vulneración del derecho a la vida** y a la integridad física.
+El **Chelsea de Inglaterra recibe el FC Noah de Armenia** por la tercera fecha de la Conference League. El juego está programado para este jueves 7 de noviembre de 2024, desde las 15:00.
+
+El partido entre el **Chelsea y el FC Noah se jugará en Stamford Bridge**, escenario que espera ver como los locales confirman su placa de favoritos para ganar el partido, clasificarse sin problemas a los octavos de final y pelear por el título.
+
+### Más noticias:
+
+* [El deporte ecuatoriano tendrá nuevo Plan de Alto Rendimiento en 2025](https://www.elcomercio.com/deportes/plan-alto-rendimiento-deporte-ecuador-ministerio-jose-jimesnez.html "El deporte ecuatoriano tendrá nuevo Plan de Alto Rendimiento en 2025")
+* [Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-ligapro.html "Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada")
+* [Atlético de Madrid le remontó al PSG de Willian Pacho en Champions](https://www.elcomercio.com/deportes/futbol/atletico-de-madrid-le-remonto-al-psg-de-willian-pacho-en-champions.html "Atlético de Madrid le remontó al PSG de Willian Pacho en Champions")
+
+Los de Londres son los líderes en la tabla de posiciones. **Tienen seis puntos y un gol diferencia positivo de +5**. En la primera jornada le ganaron a 4-2 al Gent de Bélgica, y en la segunda 1-4 al Panathinaikos en Grecia.
+
+Junto a la Fiorentina (Italia), Legia Varsovia (Polonia), Lugano (Suiza), Guimaraes (Portugal), Hearts (Escocia), **Jagiellonia Białystok (Polonia), Rapid Viena (Austria) y Heidenheim (Alemania)**, se mantienen invictos y en la parte alta de la tabla.
+
+**Moisés Caicedo aún no debutó en la Conference League**. En el primer encuentro se mantuvo en la banca de suplentes los 90 minutos, mientras que en el segundo no fue considerado por el italiano Enzo Maresca
+
+Caicedo tuvo sus primeros minutos en torneos UEFA en la fase previa. **Fue el capitán en la victoria por 2-0 ante el Servette FC**. En la revancha saldada con derrota 2-1 ante los suizos, se mantuvo en el banco de suplentes para luego jugar 27 minutos.
+
+Alan Minda es otro de los ecuatorianos que tiene opciones de sumar minutos europeos. El Círculo de Brujas, su club, visita al LASK de Austria en el Raiffeisen Arena.
+
+El exIndependiente del Valle fue titular en la primera fecha contra el St. Galle. Jugó 61 minutos, anotó un gol y dio una asistencia en la goleada por 6-2.
+
+En la segunda fecha ante el Víkingur Reykjavík no fue tomado en cuenta, no viajó a Islandia y le tocó ver desde casa la derrota 3-1 en el Víkingsvöllur.
+
+Conference League – fecha 3
+---------------------------
+
+**09:45 Víkingur vs. Borac**
+
+12:45 Legia Varsovia vs. Dinamo Minsk
+
+**12:45 Pafos vs. FC Astana**
+
+12:45 HJK vs. Olimpija Ljubljana
+
+**12:45 Shamrock Rovers vs. The New Saints**
+
+12:45 Gent vs. Omonia
+
+**12:45 TSC vs. Lugano**
+
+12:45 Petrocub vs. Rapod Viena
+
+**15:00 Guimaraes vs. Mladá Boleslav**
+
+15:00 APOEL FC vs. Fiorentina
+
+**15:00 LASK vs. Cercle Brugge**
+
+15:00 Hearts vs. Heidenheim
+
+**15:00 Chelsea vs. FC Noah**
+
+15:00 Djurgarden vs. Panathinaikos
+
+**15:00 Kobenhavn vs. Istanbul BB**
+
+15:00 Jagiellonia vs. Molde FK
+
+**15:00 Larne vs. St. Gallen**
+
+15:00 Betis vs. Celje
+
+San viernes
+-----------
+
+‘Joker 2’ con mal desempeño en ‘streaming’ en los países donde está disponible 
+===============================================================================
+
+‘Joker 2’, tras un decepcionante paso por cines, busca recuperarse en ‘streaming’.
+----------------------------------------------------------------------------------
+
+![‘Joker 2’ enfrenta bajas ventas en cines y streaming. Foto: Instagram @joker.folieadeux.](https://www.elcomercio.com/wp-content/uploads/2024/11/Joker-2-streaming.jpg)
+
+La secuela de uno de los mayores éxitos de Warner Bros, **‘Joker 2: Folie à Deux’**, ha enfrentado críticas y se perfila como **un fracaso en este 2024**.  
+
+### Más noticias
+
+* [¿Por qué fracasó el ‘Joker: Folie à Deux’?](https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html "https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html")
+* [Razones para defender a ‘Joker 2’ y considerarla una buena película (alerta ‘spoiler’)](https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html")
+
+A pesar de la **gran expectativa generada**, la película solo recaudó **165 millones de dólares a nivel mundial tras su segundo fin de semana en cines**, una cifra alarmantemente baja en comparación con los **250 millones** que su predecesora logró en el mismo período, según informa [El Español](https://www.elespanol.com/series/cine/20241018/fracaso-financiero-joker-perdidas-rapido-estreno-streaming-perdidas-millonarias-millonarias-motivo-millonarias/894410921_0.html "https://www.elespanol.com/series/cine/20241018/fracaso-financiero-joker-perdidas-rapido-estreno-streaming-perdidas-millonarias-millonarias-motivo-millonarias/894410921_0.html").  
+
+Este descalabro financiero ha llevado a la productora a tomar decisiones drásticas, como **adelantar el estreno en plataformas digitales**. **En Ecuador todavía no está disponible** en Max, en donde sí se puede ver la precuela.  
+
+**‘Joker 2’ y su presupuesto exorbitante** 
+-------------------------------------------
+
+**El presupuesto de ‘Joker 2’ fue de 200 millones de dólares**, sin contar los aproximadamente 100 millones adicionales destinados a marketing y distribución, siguiendo con El Español.  
+
+Según expertos, para que **la película fuera rentable**, debería haber recaudado al menos **el doble de su costo total**. Sin embargo, las proyecciones indican que l**as pérdidas podrían alcanzar hasta 200 millones de dólares**, lo que coloca a Warner Bros en un predicamento, de acuerdo con la web [Perfil](https://www.perfil.com/noticias/sociedad/a30-warner-podria-perder-200-millones-con-joker-2-y-busca-refugio-en-streaming.phtml "https://www.perfil.com/noticias/sociedad/a30-warner-podria-perder-200-millones-con-joker-2-y-busca-refugio-en-streaming.phtml").  
+
+**Estrategia apresurada hacia el ‘streaming’** 
+-----------------------------------------------
+
+Con la **recaudación estancada** y sin señales de mejora, **Warner decidió adelantar el lanzamiento digital de ‘Joker 2’ en algunos países**, aunque aún no en Ecuador, disponible desde el 29 de octubre de 2024. Este movimiento es inusual para una producción de tal envergadura y refleja la desesperación por mitigar las pérdidas, según El Español. 
+
+Según el sitio web [La Casa de El](https://www.lacasadeel.net/2024/11/joker-folieadeux-fracasa-streaming.html "https://www.lacasadeel.net/2024/11/joker-folieadeux-fracasa-streaming.html"), la película ha salido de cartelera con solo **58 millones de dólares en la taquilla de Estados Unidos y 204 millones a nivel global**. Tras su reciente estreno en la **plataforma de video bajo demanda** (PVOD), el desinterés del público se hizo aún más evidente.  
+
+En **iTunes**, donde las posiciones se determinan por **cantidad de transacciones**, ‘Joker 2’ quedó por debajo del drama de terror ‘The Substance’, que debutó dos días después y alcanzó el tercer lugar.  
+
+En **Fandango**, donde **el ranking depende de ingresos**, la cinta se situó en cuarto lugar. Al menos, Warner Bros tuvo un motivo de celebración, ya que **‘Beetlejuice 2’**, otro de sus éxitos, **lideró las listas en ambas plataformas** durante su cuarta semana de estreno en formato digital. 
+
+**Reacciones del público y críticas** 
+--------------------------------------
+
+**La recepción del público ha sido mixta**, con muchos críticos y espectadores expresando su decepción. La decisión creativa de **convertir la secuela en un musical**, con la participación de **Lady Gaga**, no ha resonado positivamente entre los fans del personaje original. En Rotten Tomatoes, plataforma especializada, **las calificaciones han caído drásticamente**, lo que refleja un descontento generalizado con esta entrega, a decir de Perfil.  
+
+Shawn Mendes y Helena Gualinga pasean juntos y los fans arman una novela
+========================================================================
+
+La pareja fue vista paseando por una emblemática ciudad de los Estados Unidos.
+------------------------------------------------------------------------------
+
+![Shawn Mendes es un reconocido cantante canadiense de 26 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T104007.233.jpg)
+
+**Shawn Mendes y Helena Gualinga** pasean juntos y los **fans** arman una **novela**. La pareja fue vista paseando por una **emblemática** ciudad de los **Estados Unidos**, lo que rápidamente desató **especulaciones**.
+
+### **Más noticias:**
+
+* [Karol G enternece las redes con un disfraz inspirado en una película icónica](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html")
+* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html")
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+
+**¿Quién es Helena Gualinga?**
+------------------------------
+
+**Helena Gualinga** es conocida por su activa lucha en defensa de los derechos de los **pueblos indígenas**, especialmente en relación con la protección del **Amazonas** y el cambio climático.
+
+> [View this post on Instagram](https://www.instagram.com/p/C4PZzxbuCTV/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Sumak Helena Gualinga (@helenagualinga)](https://www.instagram.com/p/C4PZzxbuCTV/?utm_source=ig_embed&utm_campaign=loading)
+
+A sus 21 años, **Gualinga** logró posicionarse como una de las voces jóvenes más influyentes en la defensa del medio ambiente. Suma participaciones en eventos internacionales como la COP25 y el Foro Económico Mundial de Davos.
+
+**Shawn Mendes y Helena Gualinga pasean juntos y los fans arman una novela**
+----------------------------------------------------------------------------
+
+**Los Ángeles** fue el escenario reciente de una inusual aparición pública que captó la atención de medios y seguidores de dos figuras prominentes: el cantante canadiense **Shawn Mendes** y la activista indígena ecuatoriana **Helena Gualinga**.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DBKIwazC4TY/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Shawn Mendes (@shawnmendes)](https://www.instagram.com/reel/DBKIwazC4TY/?utm_source=ig_embed&utm_campaign=loading)
+
+Shawn Mendes está el centro de la escena musical durante más de una década. Durante ese tiempo ha mostrado interés en causas sociales y ambientales.
+
+El cantante de éxitos como Stitches y In My Blood habla públicamente sobre temas relacionados con el bienestar mental, la igualdad y el cambio climático.
+
+Shawn Mendes y Helena Gualinga: ¿romance o colaboración?
+--------------------------------------------------------
+
+Por el interés del cantante en el medio ambiente muchos creen que su encuentro con Gualinga podría estar vinculado a alguna iniciativa conjunta de concienciación o proyecto ambiental.
+
+Aunque aún no hay confirmación oficial sobre la naturaleza de su vínculo, las imágenes de ambos caminando por Los Ángeles se tornaron virales, con fans y medios especulando sobre una posible relación personal o profesional.
+
+Cortes de agua en Quito este jueves 7 de noviembre
+==================================================
+
+La Epmaps recomendó a moradores de barrios altos que se abastezcan del líquido necesario para cubrir sus necesidades de higiene, alimentación y salud.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La Epmaps provee de agua oon tanqueros en los sectores afectados.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-agua-hoy.jpg)
+
+La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este jueves 7 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-7-de-noviembre.html "Así funciona el Pico y placa en Quito este jueves 7 de noviembre")
+* [Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores](https://www.elcomercio.com/actualidad/quito/alarmantes-indicadores-calidad-aire-quito-uso-generadores.html "Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores")
+* [Metro de Quito ya suma más de 4,9 millones de viajes, en octubre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suma-mas-de-49-millones-de-viajes-octubre.html "Metro de Quito ya suma más de 4,9 millones de viajes, en octubre")
+
+¿A qué se deben los cortes de agua?
+-----------------------------------
+
+La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló este lunes 28 de octubre que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
+
+La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
+
+Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
+
+Además, recuerda a la ciudadanía que la **recuperación del servicio de agua potable** en las zonas altas toma más tiempo debido al llenado de tanques.
+
+Barrios afectados en Quito de 00:00 a 05:00
+-------------------------------------------
+
+* Parroquia Chilibulo
+* Parroquia La Libertad
+* Parroquia San Juan
+
+Zonas afectadas en Quito de 00:00 a 03:00
+-----------------------------------------
+
+* Parroquia Chilibulo
+* Parroquia Conocoto
+* Parroquia La Argelia
+* Parroquia La Ferroviaria
+* Parroquia Quitumbe
+
+Barrios con cortes de agua de 03:00 a 06:00 y de 09:00 a 12:00
+--------------------------------------------------------------
+
+* Parroquia Conocoto
+* Parroquia La Ferroviaria
+* Parroquia Puengasí
+
+Sectores afectados de 03:00 a 06:00 y de 13:00 a 18:00
+------------------------------------------------------
+
+* Parroquia Belisario Quevedo
+* Parroquia Rumipamba
+* Parroquia San Juan
+
+Barrios afectados en Quito de 06:00 a 09:00
+-------------------------------------------
+
+* Parroquia Belisario Quevedo
+* Parroquia Rumipamba
+* Parroquia San Juan
+* Parroquia Cochapamba
+
+La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu [barrio se verá afectado puedes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
+
+Puedes consultar la **programación completa de cortes de agua** en Quito [aquí.](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-agua/")
+
+> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable.  
+>   
+> Conoce los horarios y los barrios afectados 👉 [https://t.co/4h0ELptlEI](https://t.co/4h0ELptlEI)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/JuCg4VpojP](https://t.co/JuCg4VpojP)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [November 7, 2024](https://twitter.com/aguadequito/status/1854524526295437337?ref_src=twsrc%5Etfw)
+
+México y la nueva presidencia de Trump, oportunidades económicas y fricciones políticas
+=======================================================================================
+
+La Asociación de Bancos de México (ABM) descartó que la relación comercial esté en riesgo con Estados Unidos.
+-------------------------------------------------------------------------------------------------------------
+
+![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/claudia-elecciones-mexico.jpg)
+
+Tras la victoria del candidato republicano [Donald Trump](https://www.elcomercio.com/actualidad/mundo/cinco-claves-para-entender-victoria-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/cinco-claves-para-entender-victoria-donald-trump.html") en las elecciones presidenciales de Estados Unidos, **empresarios y analistas en México** vieron este jueves, 7 de noviembre de 2024, con optimismo nuevas oportunidades para la **relación económica** entre ambas naciones, aunque anticiparon fricciones en el ámbito político.
+
+### Más noticias
+
+* [Ecuador frente a la reelección de Donald Trump,¿qué esperar?](https://www.elcomercio.com/actualidad/politica/la-reeleccion-donald-trump-su-posible-impacto-ecuador.html "Ecuador frente a la reelección de Donald Trump,¿qué esperar?")
+* [JD Vance pasa de crítico de Donald Trump a vicepresidente y posible sucesor](https://www.elcomercio.com/actualidad/jd-vance-pasa-de-critico-de-donald-trump-a-vicepresidente-y-posible-sucesor.html "JD Vance pasa de crítico de Donald Trump a vicepresidente y posible sucesor")
+* [Kamala Harris felicita a Donald Trump por su victoria en las elecciones](https://www.elcomercio.com/actualidad/mundo/kamala-harris-felicita-donald-trump-victoria-elecciones.html "Kamala Harris felicita a Donald Trump por su victoria en las elecciones")
+
+Apenas unas horas después de conocerse el **regreso del republicano a la Casa Blanca,** la primera reacción de la presidenta, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html"), fue de cautela, al asegurar que no hay “motivo de preocupación” y resaltar su confianza en que **ambos países mantendrán una relación** basada en el respeto mutuo.
+
+“Estoy cierta de que vamos a **continuar trabajando juntos** de manera coordinada, con diálogo y respeto a nuestras soberanías, para avanzar en la amplia agenda bilateral que nos enlaza”, publicó Sheinbaum en su cuenta de X.
+
+Políticas proteccionistas
+-------------------------
+
+Pese a que en su primer mandato, entre 2017-2021, **Trump implementó políticas proteccionistas** y amagó con imponer nuevas medidas, los analistas esperan que factores como el **Tratado entre México**, Estados Unidos y Canadá (T-MEC) sellado en 2020, y la guerra comercial de EE.UU. con China pueden jugar a favor de México.
+
+**Gabriela Siller, directora de Análisis Económico y Financiero de Banco Base,** consideró que la victoria de Trump abre la puerta para un crecimiento en las exportaciones y un incremento en la relocalización de empresas a México, derivado del conflicto comercial entre Estados Unidos y China.
+
+“México es ahora el **principal proveedor de Estados Unidos**, y existe una gran oportunidad, especialmente con la relocalización global de empresas; aunque aún no la hemos aprovechado mucho ante factores internos”, explicó Siller, quien también subrayó que el país debe atender ciertos desafíos internos, como la infraestructura y la certeza en la política económica.
+
+Asimismo, la **Asociación de Bancos de México (ABM)** descartó que la relación comercial esté en riesgo, al subrayar que el T-MEC sigue siendo un marco sólido que brinda oportunidades de largo plazo.
+
+“La relación con México no se va a detener; al contrario, se va a enriquecer porque somos parte del T-MEC y ahí México tiene una gran oportunidad”, señaló Julio Carranza, su presidente, en un comunicado.
+
+Matrimonio sin opción de divorcio
+---------------------------------
+
+En el frente político, la situación será, no obstante, más compleja e intensa.
+
+Especialmente, apuntó la **exembajadora mexicana en Washington entre 2018 y 2021**, Martha Bárcena, debido a los estrechos vínculos y las cuestiones vinculados al narcotráfico y la migración de los que Trump acusó a México.
+
+ “Debemos partir de una premisa fundamental: **México y Estados Unidos** somos como un matrimonio en el que no cabe la opción del divorcio. Si bien podemos tener diferencias y momentos de gran cooperación, los lazos históricos entre ambos países siguen siendo sólidos”, señaló la diplomática en una entrevista radiofónica en Enfoque Noticias.
+
+Advirtió, sin embargo, como uno de los problemas que quizá no se le esté dando la importancia debida algunas de las promesas de campaña de Trump y del riesgo de que sean minimizadas como retórica electoral.
+
+“La realidad es que está dispuesto a cumplir algunas de sus promesas, y algunas de ellas podrían afectar a México. Entre las más destacadas se encuentran el posible cierre de la frontera, aunque sea por un día, y las redadas masivas y deportaciones de indocumentados”, aseveró Bárcena.
+
+Como **primeras señales de estabilidad**, algunos analistas recalcan que la victoria de Trump frente a la demócrata Kamala Harris no ha provocado la misma volatilidad que su primer triunfo hace ocho años, lo cual se interpreta desde México como una mayor adaptación de los mercados a su estilo de Gobierno.
+
+“Los mercados están reaccionando de manera más acotada que en 2016. Esto se debe a que ya conocemos **su estilo de negociación, y el T-MEC** brinda un marco que limita la materialización de amenazas proteccionistas”, comentó por su lado Janneth Quiroz, directora de Análisis de Grupo Financiero Monex.
+
+Tras nueve días de la DANA, el panorama aún es desolador en España
+==================================================================
+
+El balance de víctimas mortales por el temporal en España se sitúa de forma provisional en 219, la mayoría en Comunidad Valenciana
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Voluntarios barren el lodo de una calle de Masanasa, Valencia, este jueves 7 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Valencia-1.jpg)
+
+Los **servicios de emergencia** que trabajan en labores de rescate y limpieza **en Valencia** describen todavía, nueve días después de las devastadoras inundaciones de la DANA, escenarios catastróficos e inimaginables.
 
 ### Más noticias
 
 * [Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA](https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html "Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA")
-* [Alerta en Cataluña, se intensifica la búsqueda en Valencia por la DANA](https://www.elcomercio.com/actualidad/mundo/alerta-cataluna-intensifica-busqueda-valencia-dana.html "Alerta en Cataluña, se intensifica la búsqueda en Valencia por la DANA")
-* [RoRo Bueno prepara 15 mil platos al día en Valencia para los afectados por la DANA](https://www.elcomercio.com/afull/roro-bueno-influencer-tiktoker-dana-valencia.html "RoRo Bueno prepara 15 mil platos al día en Valencia para los afectados por la DANA")
+* [El devastador antes y después de una influencer de Valencia afectada por la DANA](https://www.elcomercio.com/tendencias/dana-influencer-valencia.html "El devastador antes y después de una influencer de Valencia afectada por la DANA")
+* [Embajada en España tiene noticias del ecuatoriano desaparecido en Valencia](https://www.elcomercio.com/actualidad/embajada-en-espana-tiene-noticias-del-ecuatoriano-desaparecido-en-valencia.html "Embajada en España tiene noticias del ecuatoriano desaparecido en Valencia")
 
-Se trata de una demanda de **recurso contencioso-administrativo** especial de protección de derechos fundamentales presentada por la **asociación Liberum** contra la Delegación del Gobierno en Valencia que el TSJ valenciano envió al Supremo al considerar que es el **órgano competente**.
+La reconstrucción avanza en Valencia
+------------------------------------
 
-En su auto, los magistrados **rechazan las medidas cautelarísimas** solicitadas por la asociación, que pedía al tribunal que asegurase **“una intervención inmediata”** para “evitar mayores perjuicios a la población afectada” y “garantizar la protección de los **derechos fundamentales** de los ciudadanos afectados”.
+Pero avanzan **las tareas de reconstrucción de las infraestructuras** y algunos servicios (como centros de salud o educativos) comienzan a recuperar la normalidad.
 
-Gestión de la crisis
---------------------
+También afloran los testimonios de personas gravemente afectadas por la catástrofe que vislumbran los trabajos de **desescombro y limpieza** que realizan los servicios de emergencia y los miles de voluntarios. Los expertos calculan que se han sumad**o unos 50 000 e**n los primeros días.
 
-La demanda busca que la Justicia declare la inacción del Gobierno central en la **gestión de la crisis,** determine que dicha inacción vulnera una **serie de derechos como el de la vida**, y ordene al Ejecutivo adoptar medidas adecuadas y proporcionales para gestionarla, así como implementar medidas urgentes para **proteger la vida, la salud y la seguridad de los ciudadanos afectados.**
+El balance de **víctimas mortales** por el temporal en España se sitúa de forma provisional en 219. La mayoría (211) en la Comunidad Valenciana, 7 en Castilla-La Mancha -6 en la localidad albaceteña de Letur y 1 en Mira (Cuenca)- y otro en Andalucía.
 
-El TSJCV determina en su auto que no tiene competencia para conocer este recurso, al ser el Supremo el órgano competente, tal y como se pronunció el fiscal.
+El número de personas registradas como **desaparecidos en Valencia** asciende a 93, aunque hay todavía muchos cuerpos sin identificar (53 según el último balance).
 
-El auto cuenta con el **voto particular concurrente de un magistrado, Miguel A. Narváez,** que comparte que es el Supremo el que tiene la competencia, si bien discrepa de los argumentos esgrimidos por el tribunal.
+La solidaridad que se desató tras el temporal, en las comunidades afectadas y en el resto del país, ha provocado que se desborden **numerosos centros logísticos.** Desde ellos se está trasladando la ayuda a los municipios y las personas afectadas, por lo que algunos ayuntamientos y asociaciones están incidiendo en frenar ese tipo de donaciones.
 
-Requerimiento previo
---------------------
+Se pide dar prioridad a las **aportaciones económicas** en las numerosas cuentas bancarias que se han habilitado para ello.
 
-Sostiene que el TSJCV debe inhibirse porque **falta el necesario requerimiento** previo a la administración para que se pueda apreciar inactividad y no porque este tribunal no sea competente.
+500 arquitectos voluntarios para inspeccionar edificios
+-------------------------------------------------------
 
-En su voto, este magistrado explica que la obligación de **tutelar derechos fundamentale**s como la vida o la integridad física, incluida en la Ley Orgánica del Poder Judicial, se resquebrajaría “de no adoptarse medidas urgentes” que afrontasen el **peligro de lesión de estos derechos** ante el “drama y la tragedia sufrida por la población afectada por la dana”.
+El Boletín Oficial del Estado español publicó hoy la declaración de zona gravemente afectada por una emergencia de protección civil para Valencia y el resto de territorios afectados por la borrasca. Esto **facilitará la entrega de ayudas** a los damnificados por la catástrofe.
 
-Falta de víveres, agua y medicinas
-----------------------------------
+**Más de 500 arquitecto**s se han inscrito ya en la bolsa creada por el Colegio de Arquitectos de Valencia para colaborar con los ayuntamientos de la zona y el Gobierno autonómico valenciano. Esto para realizar un**a inspección gratuita** de los edificios afectados de más de una decena de localidades.
 
-Las inundaciones, abunda, “**siguen produciendo desabastecimiento de víveres, agua y medicinas** con el riesgo que se cierne sobre la población de un peligro de **contagio epidemiológico**, debido a la contaminación del **agua para beber y usos domésticos**”, algo que, en su opinión, si no se soluciona con medidas “especialmente urgentes y eficaces”, va a generar “**daños o perjuicios irreparables** o de difícil reparación”.
+Los profesionales inciden en la importancia ahora de **asegurar la estabilidad y seguridad** de las estructuras de los edificios y recuperar la habitabilidad o usabilidad de las viviendas, de locales comerciales y de los equipamientos públicos.
+
+Helicópteros para rescates en lugares inaccesibles
+--------------------------------------------------
+
+En **Valencia,** la Dirección General de Tráfico (DGT) pidió a los conductores que eviten desplazarse por las carreteras V-30 y V-31, donde el tráfico es hoy muy denso. A primera hora de la mañana se registraban ya trancones kilométricos. Recordó qu**e siguen permanentes las restricciones de movilidad** en algunas vías de la provincia.
+
+Los **servicios de emergencia** siguen rescatando a personas. Durante la pasada noche, un helicóptero del Ejército de Tierra recuperó a dos personas de avanzada edad y a sus mascotas en una casa que se encontraba todavía aislada en las inmediaciones del río Magro (en Valencia).
+
+El **trabajo de los helicópteros** está siendo vital durante estos días en la**s labores de rescate** y desescombro. Algunos de los modelos del **Ejército de Tierra** (como el Chinook) están siendo los únicos medios capaces de **trasladar vehículos** desde los cauces de los ríos.
+
+En lugares donde **las grúas no pueden acceder** debido al estado todavía impracticable de muchas vías e [infraestructuras](https://es.wikipedia.org/wiki/Valencia "https://es.wikipedia.org/wiki/Valencia").
+
+Garabot te enseña a negociar en la era digital
+==============================================
+
+Juan Manuel García, Head of Growth Orion Latam, explica cómo desarrollar las mejores estrategias para negociar y generar un vínculo satisfactorio a futuro.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Juan Manuel García es Head of Growth Orion Latam.](https://www.elcomercio.com/wp-content/uploads/2024/11/1200X800-GARABOT-6.jpg)
+
+La **tecnología** ha transformado el **arte de negocia**r, pero el **éxito** en este ámbito sigue dependiendo de **habilidades emocionales y estratégicas**.
+
+En la actualidad, las **negociaciones** no solo se basan en datos o en saber qué se quiere, sino en gestionar emociones y construir relaciones duraderas.
+
+**Juan Manuel García, Head of Growth Orion Latam**, explica cómo desarrollar las mejores estrategias para negociar y generar un vínculo satisfactorio para futuras negociaciones. Nos cuenta, ¿cuándo realmente ganamos?
+
+Escucha todos sus consejos en este capítulo de la segunda temporada del podcast **Garabot**.
+
+### Más podcast
+
+* [En Garabot te enseñamos estrategias para optimizar la empresa con IA](https://www.elcomercio.com/podcasts/garabot-ensenamos-estrategias-optimizar-empresa-ia.html "En Garabot te enseñamos estrategias para optimizar la empresa con IA")
+* [Cómo la inteligencia artificial redefine la interacción humana. Escúchalo en Garabot](https://www.elcomercio.com/lideres/como-inteligencia-artificial-redefine-interaccion-humana.html "Cómo la inteligencia artificial redefine la interacción humana. Escúchalo en Garabot")
+* [¿Cómo potenciar tu marca personal digital? En Garabot te contamos](https://www.elcomercio.com/podcasts/como-potenciar-marca-personal-digital-garabot-contamos.html "¿Cómo potenciar tu marca personal digital? En Garabot te contamos")
+
+Sugerencias para mejorar tus negociaciones en la era digital
+------------------------------------------------------------
+
+**No solo confíes en los datos.** Aunque los datos son fundamentales para una negociación, sin un análisis adecuado se quedan en simples números.
+
+La **inteligencia artificial** puede procesar grandes volúmenes de información, pero el valor radica en la interpretación y aplicación de esos datos para predecir comportamientos y decisiones.
+
+**Gestiona emociones, no solo hechos.** Negociar es más que intercambiar cifras; se trata de gestionar emociones.
+
+Entender tus propias reacciones emocionales y las de tu contraparte es crucial para no perder el control durante el proceso y para construir una relación sólida a largo plazo.
+
+**Adapta tu estrategia a los contextos virtuales**. En un mundo empresarial cada vez más virtual, dominar las plataformas de comunicación es vital.
+
+Sin embargo, no pierdas de vista que, a pesar de las herramientas digitales, la esencia de la negociación sigue siendo humana. Mantén siempre un enfoque empático, incluso al negociar a través de correos electrónicos o videoconferencias.
+
+**Piensa a largo plazo, no solo en la transacción inmediata.** La negociación exitosa no se mide solo por el acuerdo alcanzado, sino por la capacidad de las partes para continuar colaborando en el futuro.
+
+Un acuerdo que favorezca la relación a largo plazo generará más valor que un simple intercambio de recursos.
+
+**Cultiva la flexibilidad cultural.** La interculturalidad juega un papel esencial en las negociaciones internacionales.
+
+No es lo mismo negociar con un latino que con un anglosajón o un asiático. Aprende a adaptarte a los diferentes estilos y expectativas de las culturas con las que interactúas.
+
+**Evita enfocarte exclusivamente en el precio.** Un error común es pensar que todo se reduce a un precio más bajo. Esto puede generar frustración y desconfianza a largo plazo.
+
+Recuerda que lo que realmente importa es el valor percibido de la negociación para ambas partes, no solo lo que se paga o se recibe en términos de dinero.
+
+**Utiliza la inteligencia emocional para persuadir.** En un proceso de negociación, la habilidad para reconocer y manejar las emociones no solo propias, sino de la otra parte, es un activo clave.
+
+La empatía y la comprensión te permitirán tomar mejores decisiones y fortalecer la relación.
+
+**Sé estratégico con las herramientas tecnológicas.** Aprovecha las herramientas tecnológicas no solo para agilizar la negociación, sino para personalizar la experiencia de la negociación.
+
+La inteligencia artificial puede ayudarte a prever opciones y resultados, pero la clave es usar esa información de manera estratégica.
+
+**Busca acuerdos colaborativos, no solo distribuidores.** La negociación no siempre tiene que ser una cuestión de “ganar o perder”.
+
+Busca situaciones de ganar-ganar, donde ambas partes puedan compartir el valor generado.
+
+Las negociaciones colaborativas permiten que ambas partes se beneficien de manera equitativa, creando un resultado más sostenible.
+
+Liberales expulsados del Gobierno alemán piden voto inmediato 
+==============================================================
+
+El puesto de Lindner como titular de Finanzas será ocupado por Jörg Kukies, un importante asesor de Scholz.
+-----------------------------------------------------------------------------------------------------------
+
+![El ministro de Finanzas alemán saliente, Christian Lindner (i), y el ministro de Justicia alemán saliente, Marco Buschmann (d), después de recibir sus certificados de despido del presidente alemán, Frank-Walter Steinmeier, en el Palacio Bellevue de Berlín, Alemania.](https://www.elcomercio.com/wp-content/uploads/2024/11/ministros-alemanes-efe.jpg)
+
+Los [liberales alemanes](https://www.elcomercio.com/actualidad/mundo/gobierno-aleman-diferencias-politica-economica-contexto-recesion.html "https://www.elcomercio.com/actualidad/mundo/gobierno-aleman-diferencias-politica-economica-contexto-recesion.html"), expulsados la víspera de la **coalición de Gobierno** liderada por el canciller **Olaf Scholz**, exigieron este jueves, 7 de noviembre de 2024, la celebración inmediata de **elecciones anticipadas**. Esto en lugar de esperar al voto de confianza en el **Parlamento el 15 de enero**, y confirmaron que no apoyarán los presupuestos.
+
+### Más noticias
+
+* [Gobierno alemán cae por diferencias en política económica en contexto de recesión](https://www.elcomercio.com/actualidad/mundo/gobierno-aleman-diferencias-politica-economica-contexto-recesion.html "https://www.elcomercio.com/actualidad/mundo/gobierno-aleman-diferencias-politica-economica-contexto-recesion.html")
+* [Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-eintracht-frankfurt-remontada.html "Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania")
+* [Piero Hincapié está entre los mejores jugadores de Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-bundesliga-alemania.html "Piero Hincapié está entre los mejores jugadores de Alemania")
+
+“Lo correcto para nuestro país sería una **cuestión de confianza inmediata** y elecciones anticipadas”, dijo en una comparecencia el líder de los **Demócratas Libres (FDP), Christian Lindner,** cesado el miércoles, 6 de noviembre de 2024, por Scholz debido a divergencias de política económica, lo que provocó la ruptura de la coalición de socialdemócratas, verdes y liberales.
+
+“Nuestro país no debe perder el tiempo. Los ciudadanos deben tener la posibilidad de tomar decisiones sobre su futuro”, agregó.
+
+Lindner reiteró su versión de la disputa que provocó anoche su cese y cuya responsabilidad él y Scholz se atribuyeron mutuamente, acusándose el uno al otro de **forzar deliberadamente el colapso** del Ejecutivo a 10 meses de las elecciones generales previstas inicialmente para septiembre de 2025.
+
+El líder liberal aseguró que en todo momento estuvo dispuesto a **buscar un compromiso** y que también ofreció al canciller un “fin ordenado”**, como parte del cual su partido** hubiera permanecido en el Gobierno y aprobado el presupuesto adicional de 2024 y “otras decisiones importantes” a cambio de que las elecciones anticipadas se celebrasen lo antes posible.
+
+Ahora, sin embargo, con la **salida de los liberales del Gobierno** \-en el que quedarán socialdemócratas y verdes en minoría-, ya no apoyarán el presupuesto adicional de 2024 ni los presupuestos de 2025, según dijo el jefe del grupo parlamentario liberal, Christian Dürr.
+
+Lindner argumentó que la coalición se enfrentó desde el principio de la **legislatura a diferencias políticas** que solo se pudieron salvar porque “había dinero para hacer compatibles conceptos políticos incompatibles”.
+
+Sentencia del Tribunal Constitucional
+-------------------------------------
+
+Sin embargo, la sentencia del Tribunal Constitucional, que hace un año tiró por tierra la ingeniería presupuestaria del Ejecutivo para **no incurrir formalmente en déficit**, demostró que la “política de mínimo común denominador” no era ya posible y lo que el país necesitaba, afirmó.
+
+Finalmente, según Lindner, Scholz le presentó un ultimátum para aceptar **15 000 millones de deuda** extraordinaria, sorteando el freno constitucional de la deuda con la excusa de la imperiosa necesidad de apoyar a Ucrania con otros **3 000 millones de euros**, lo que provocó la ruptura definitiva.
+
+El líder liberal, no obstante, manifestó el **deseo no solo de repetir como candidato de su partido**, sino también de convertirse de nuevo en **ministro de Finanzas en el próximo Ejecutivo**, a pesar de que, según los sondeos, es posible que los liberales se queden sin representación parlamentaria.
+
+Tras su cese, el puesto de Lindner como titular de Finanzas será ocupado por Jörg Kukies, un importante asesor de Scholz y actualmente, **secretario de Estado en la Cancillería,** mientras que no ha trascendido aún qué ocurrirá con las otras dos carteras que abandonan los liberales, Justicia y Educación.
