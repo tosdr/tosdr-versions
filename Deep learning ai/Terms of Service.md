@@ -1,4 +1,4 @@
-✨ New course! Enroll in [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://bit.ly/3A7hyW3)
+✨ New course! Enroll in [LLMs as Operating Systems: Agent Memory](https://bit.ly/4eb7j0L)
 
 [](https://www.deeplearning.ai/)
 
