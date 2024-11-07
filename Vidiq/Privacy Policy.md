@@ -53,7 +53,7 @@ vidIQ, Inc. (“vidIQ”, “we”, “us”, or “our”) values your privacy.
 
 By visiting our Site or using any of our Services, you acknowledge that your personal information will be handled as described in this Policy. Visiting our Site, use of our Services, and any dispute over privacy, is subject to our Terms of Use, including its applicable limitations on damages and the resolution of disputes.
 
-* [](#heading-tc9vl5lf4)
+* [](#heading-p3gmu28iv)
 * [1\. Information We Collect About You](#1-information-we-collect-about-you)
 * [2\. How We Use Your Information](#2-how-we-use-your-information)
 * [3\. How We Share Your Information](#3-how-we-share-your-information)
