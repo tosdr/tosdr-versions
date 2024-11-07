@@ -47,7 +47,7 @@ _menu_
 [![](https://static2.penana.com/img/logo_new.svg)](https://www.penana.com/home.php)
 
 * * Discover
-    *  [![](https://static2.penana.com/img/menu/home.svg) Home](https://www.penana.com/search)
+    *  [![](https://static2.penana.com/img/menu/home.svg) Home](https://www.penana.com/home)
         
     *  [![](https://static2.penana.com/img/menu/search.svg) Finder (Beta)](https://www.penana.com/search)
         
