@@ -58,7 +58,6 @@ Main Navigation
     * [Tech](https://www.thewrap.com/category/tech/)
     * [Culture](https://www.thewrap.com/category/culture/)
     * [Media](https://www.thewrap.com/category/media/)
-    * [WrapWomen](https://wrapwomen.thewrap.com/)
 
 [Newsletters](https://www.thewrap.com/newsletters/)[](https://www.thewrap.com/?s=)
 
