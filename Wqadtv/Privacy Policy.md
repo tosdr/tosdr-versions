@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b/20241107T004349/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b/20241107T004349/a6d5d923-2e24-42e8-af3d-fa749f6a3a8b_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/file-of-life-program-davenport-iowa-fire-department/526-1b59f2d7-4245-4c57-8d55-345939d61365)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_360x203.jpg)](https://www.wqad.com/article/news/crime/pizza-ranch-sterling-shooting/526-604ec658-ae78-42b3-9967-b49b67f0d9e3)
         
-        #### [New program unveiled by Davenport Fire to better respond to medical emergencies](https://www.wqad.com/article/news/local/public-safety/file-of-life-program-davenport-iowa-fire-department/526-1b59f2d7-4245-4c57-8d55-345939d61365)
+        #### [Pizza Ranch employee shot in Sterling, officials say](https://www.wqad.com/article/news/crime/pizza-ranch-sterling-shooting/526-604ec658-ae78-42b3-9967-b49b67f0d9e3)
         
-    *  [![](https://media.tegna-media.com/assets/WFAA/images/8f338171-646e-40e5-9bed-bc47d067d297/8f338171-646e-40e5-9bed-bc47d067d297_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/8f338171-646e-40e5-9bed-bc47d067d297/8f338171-646e-40e5-9bed-bc47d067d297_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/missing-woman-child-moline-illinois-police-asking-for-help/526-53a71787-5cf5-4998-902c-4ec5f6ad7a63)
+    *  [![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_16x9.jpg) ![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_360x203.jpg)](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
         
-        #### [Woman, child missing out of Moline found safe](https://www.wqad.com/article/news/local/public-safety/missing-woman-child-moline-illinois-police-asking-for-help/526-53a71787-5cf5-4998-902c-4ec5f6ad7a63)
+        #### [Fog develops across eastern Iowa, western Illinois](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/27060421-8dad-482d-a94f-29d8c61d7739/20241107T002225/27060421-8dad-482d-a94f-29d8c61d7739_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/27060421-8dad-482d-a94f-29d8c61d7739/20241107T002225/27060421-8dad-482d-a94f-29d8c61d7739_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_16x9.jpg) ![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_360x203.jpg)](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
         
-        #### [Brighter skies expected for tomorrow](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Fog develops across eastern Iowa, western Illinois](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
         
-    *  [![](https://media.tegna-media.com/assets/WVEC/images/d1a456b7-49c1-4ef6-b319-c67bd00c56f8/20241105T180117/d1a456b7-49c1-4ef6-b319-c67bd00c56f8_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/d1a456b7-49c1-4ef6-b319-c67bd00c56f8/20241105T180117/d1a456b7-49c1-4ef6-b319-c67bd00c56f8_360x203.jpg)](https://www.wqad.com/article/weather/taurid-meteor-shower-peaks-this-week/291-3325c2b8-a61c-4837-9cae-98981a328f87)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Taurid meteor shower peaks this week](https://www.wqad.com/article/weather/taurid-meteor-shower-peaks-this-week/291-3325c2b8-a61c-4837-9cae-98981a328f87)
+        #### [Patchy dense fog Thursday morning followed by sunshine](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-36°
+49°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
