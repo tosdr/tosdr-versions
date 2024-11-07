@@ -426,17 +426,3 @@ Earn Money
 [](https://www.facebook.com/VeepnVPN/)[](https://x.com/veepn/)[](https://www.tiktok.com/@veepnvpn/)[](https://www.reddit.com/r/VeePN_Security/)[](https://www.pinterest.com/VeePNvpn/)
 
 © 2024 VeePN. All Rights Reserved. Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama
-
-Best VPN deal
-
-2-year plan with 80% off
-
-00 Days
-
-00 Hours
-
-00 Minutes
-
-00 Seconds
-
-[Grab the Deal](https://order.veepn.com/pricing/?utm_source=site&utm_medium=deals&utm_campaign=discount-popup&utm_content=pop-up)
