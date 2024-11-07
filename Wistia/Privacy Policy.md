@@ -547,7 +547,6 @@ Attention: Data Protection Office\\ Wistia, Inc.\\ 120 Brookline Street\\ Cambri
 * [Case Studies](https://wistia.com/learn/showcase)
 * [Guide to Video Marketing](https://wistia.com/about/video-marketing-guide)
 * [State of Video Report](https://wistia.com/about/state-of-video)
-* [Fetch](https://wistia.com/fetch)
 * [Asset Library](https://wistia.com/resources/free-downloads)
 
 ##### [Video Series](https://wistia.com/series)
