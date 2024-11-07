@@ -119,7 +119,6 @@ Switch to
             * [Razer USB-C Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-c-dock)
             * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma)
             * [Razer Laptop Stand Chroma (USB-A Hub)](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma)
-            * [Razer Laptop Stand Chroma V2 (USB-C Hub)](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma-v2)
             
         * Stands & Risers
             
@@ -129,7 +128,6 @@ Switch to
             * [Razer Laptop Cooling Pad](https://www.razer.com/gaming-pc-accessories/razer-laptop-cooling-pad)
             * [Razer Laptop Stand](https://www.razer.com/gaming-accessories/laptop-stand-for-razer-blade-stealth)
             * [Razer Laptop Stand Chroma](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma)
-            * [Razer Laptop Stand Chroma V2](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma-v2)
             
         * [Razer Skins](https://www.razer.com/skins)
         * Adapters & Chargers
@@ -283,15 +281,7 @@ Switch to
             * [Razer Naga Left-handed](https://www.razer.com/gaming-mice/razer-naga-left-handed-edition)
             
         * [Orochi](https://www.razer.com/gaming-mice/razer-orochi-v2)
-        * Pro Click
-            
-            Product Line
-            ------------
-            
-            * [View All Pro Click](https://www.razer.com/productivity/pro-click-line)
-            * [Razer Pro Click](https://www.razer.com/productivity/razer-pro-click)
-            * [Razer Pro Click Mini](https://www.razer.com/productivity/razer-pro-click-mini)
-            
+        * [Pro Click](https://www.razer.com/productivity/pro-click-line)
         * [Compare](https://www.razer.com/shop/mice/gaming-mice)
         * [Accessories](https://www.razer.com/shop/mice/gaming-mice-accessories)
         * [Customs](https://www.razer.com/customs)
@@ -689,13 +679,6 @@ Switch to
         
         * [All Productivity](https://www.razer.com/productivity)
         * Mice
-            
-            Product Line
-            ------------
-            
-            * [Razer Pro Click](https://www.razer.com/productivity/razer-pro-click)
-            * [Razer Pro Click Mini](https://www.razer.com/productivity/razer-pro-click-mini)
-            
         * Mats
             
             Product Line
@@ -729,14 +712,6 @@ Switch to
         Product Line
         ------------
         
-        * Razer Pro Click
-            
-            Product Line
-            ------------
-            
-            * [Razer Pro Click](https://www.razer.com/productivity/razer-pro-click)
-            * [Razer Pro Click Mini](https://www.razer.com/productivity/razer-pro-click-mini)
-            
         * [Razer Pro Glide](https://www.razer.com/productivity/razer-pro-glide)
         * [Razer Pro Type](https://www.razer.com/productivity/razer-pro-type)
         * [Razer Blade 14](https://www.razer.com/gaming-laptops/razer-blade-14)
@@ -875,7 +850,6 @@ Switch to
             * [Razer Wolverine V3 Pro](https://www.razer.com/console-controllers/razer-wolverine-v3-pro)
             * [Razer Wolverine V3 Tournament Edition](https://www.razer.com/console-controllers/razer-wolverine-v3-tournament-edition)
             * [Razer Wolverine V2 Chroma](https://www.razer.com/console-controllers/razer-wolverine-v2-chroma)
-            * [Razer Wolverine V2](https://www.razer.com/console-controllers/razer-wolverine-v2)
             
         * Controllers with Charging Stand
             
@@ -1283,7 +1257,6 @@ Switch to
         * [Razer Gaming Finger Sleeve](https://www.razer.com/gear-accessories/razer-gaming-finger-sleeve)
         * [Razer Hydrator](https://www.razer.com/gear-accessories/razer-hydrator)
         * [Razer Bandana Mask V2](https://www.razer.com/gear-accessories/razer-bandana-mask-v2)
-        * [Razer FPS Gunnar Glasses](https://www.razer.com/gaming-accessories/razer-fps-gunnar-glasses)
         
     * Sneki Snek
         
