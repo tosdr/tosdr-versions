@@ -1,8 +1,8 @@
-[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003995/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
+[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003996/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
 
-![menu](https://static2.avg.com/10003995/web/i/components/menu-mobile.svg)
+![menu](https://static2.avg.com/10003996/web/i/components/menu-mobile.svg)
 
-[![AVG logo](https://static2.avg.com/10003995/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-ww/homepage)
+[![AVG logo](https://static2.avg.com/10003996/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-ww/homepage)
 
 [Skip to content](#body-inner)
 
@@ -83,7 +83,7 @@
     * [Business Support & Contact](https://support.avg.com/business?l=en)
     * [Installation Files](https://www.avg.com/en-ww/installation-files-business)
 
-[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003995/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003996/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [General Privacy Policy](https://www.avg.com/privacy "General Privacy Policy")
 
@@ -142,7 +142,7 @@ As one of the world's most trusted antivirus brands, our goal is to help you wit
 
 This Privacy Policy was last updated in April 2024.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Who We Are
 ==========
@@ -153,7 +153,7 @@ The Controller of your personal data is Avast Software s.r.o., which has its pri
 
 If you live in the United Kingdom, Avast’s representative established in the UK is NortonLifeLock UK Limited, 100 New Bridge Street, London, England EC4V 6JA
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Privacy Policy Contents
 =======================
@@ -235,7 +235,7 @@ These sub-categories differ for each product and service. If you want more detai
 
 If you contact us directly, we collect personal data about you, including identifiers, such as your name, email address, phone number, the contents of any message or attachments that you may send or communicate to us, and any other information you choose to provide. We may retain and review audio, electronic, visual, or similar information, such as audio call and chat recordings and/or the contents of the messages as required/permitted by law and our recording and information management policies. We will also collect identifiers from you, such as your email address and phone number, when you sign up to receive product updates, offers, and other promotional information or messages from us. When we send you emails, we may track whether you open them to learn how to deliver a better customer experience and improve our services.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Why We Process Your Personal Data
 =================================
@@ -306,7 +306,7 @@ If you are our customer, we feel a responsibility to inform you about security a
 
 We have a legitimate interest to use necessary Personal Data to understand user conversions, acquisitions and campaign performance through various distribution channels, and users’ download, activation and interactions with our products. For example, we want to know how many users clicked on our offers, or purchased our product after seeing one of our ads. These analytics help us improve functionality, effectiveness, security and reliability of our products and business activities as well as helping us to develop new products. This processing includes using third-party tools. Please refer to our [Products Policy](https://www.avg.com/products-policy) for the list of third-party tools used for the specific products and services.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 How We Process Your Personal Data
 =================================
@@ -330,7 +330,7 @@ We use your answers from surveys, in which you can participate, and relevant Pro
 
 We do not take any decisions solely based on algorithms, including profiling, that would significantly affect you.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 How We Disclose Your Personal Data
 ==================================
@@ -453,7 +453,7 @@ At the same time, when we transfer Personal Data originating from the EEA outsid
 
 Situations where we transfer Personal Data outside of the EEA include: allowing access to Personal Data stored in the Google Cloud Platform to Google personnel located outside the EEA, the provisioning of our products and services and third-party services related to it, the processing of transactions and of your payment details, and the delivery of support services. Further, an outside-EEA transfer may also occur in case of a merger, acquisition or a restructuring, where the acquirer is located outside of the EEA (see the [Mergers, Acquisitions and Restructurings](#mergers) section).
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 How We Protect Your Personal Data
 =================================
@@ -480,14 +480,14 @@ Proportionality
 
 We strive to collect no more Personal Data from you than is required by the purpose for which we collect it. This, in turn, helps reduce the total risk of harm should data loss or a breach in security occur: the less data we collect, the smaller the overall risk.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Children’s Privacy
 ==================
 
 We may offer products and services designed specifically to assist you as a parent by providing child online protection features. In such cases, we will only collect and process Personal Data related to any child under the age specified in particular jurisdictions, which you choose to disclose to us or otherwise instruct us to collect and process. Details about this processing is included in our [Products Policy](https://www.avg.com/products-policy). Please refer to the specific applicable notices for this information.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 How Long We Store Your Personal Data
 ====================================
@@ -499,7 +499,7 @@ We will hold your Personal Data on our systems for the following periods:
 * For Product Data, only as long as necessary for the purposes of a particular product or service. We use rolling deletion periods which means we regularly delete collected data in the given periods starting from the collection of that respective data. The rolling deletion periods for Product Data are not longer than six years. You can find specific rolling deletion periods for each of our products and their purposes in our [Products Policy](https://www.avg.com/products-policy). Please note that when you uninstall our product, processing for service provision, in-product messaging, analytics and third-party ads, if applicable, dependent on the installed product shall cease. After the uninstallation, we will continue to process your Product Data for statistical purposes for up to six years. We have measures in place to ensure compliance with data protection laws, including pseudonymization.
 * For Communications Data, for as long as necessary to resolve your requests or questions and maintain evidence of such communications to defend our rights and protect our interests. If you receive product updates, offers, and other promotional information or messages, we process the data until you unsubscribe.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Storage of Your Personal Data
 =============================
@@ -508,7 +508,7 @@ The data we collect from you may be stored, with risk-appropriate technical and 
 
 In all cases, we follow generally accepted standards and security measures to protect the personal data submitted to us, both during transmission and once we receive it.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Your Privacy Rights
 ===================
@@ -542,7 +542,7 @@ Your Choices in products
 
 You can make certain choices about how your data is used by us by adjusting the privacy settings of the relevant product. Please check your product settings to set your privacy preferences there.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Non-EU Jurisdictions
 ====================
@@ -625,7 +625,7 @@ For more information on how you can opt out of the sale or sharing of your perso
 
 You can submit your requests using contacts indicated below in the Contact Us section. We will verify your request by matching your email address and, if necessary, other information you provide in your request against the email address and other information we have in our system. You can also designate an authorized agent to exercise these rights on your behalf. We may require that you provide the authorized agent with written permission to act on your behalf and that the authorized agent verify their identity directly with us.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Contact Us
 ==========
@@ -640,14 +640,14 @@ If you prefer, you can send paper mail to AVAST Software s.r.o., Pikrtova 1737/1
 
 If you live in the United Kingdom, you can contact our representative NortonLiIfeLock UK Limited, 100 New Bridge Street, London, England EC4V 6JA.
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Data Protection Officer
 =======================
 
 As required under the GDPR, we have a data protection officer (DPO) to monitor our compliance with the GDPR, provide advice where requested and cooperate with supervisory authorities. You can contact our data protection officer via [dpo@avast.com](mailto:dpo@avast.com).
 
-![](https://static2.avg.com/10003995/web/i/legal/arrow_up.svg)
+![](https://static2.avg.com/10003996/web/i/legal/arrow_up.svg)
 
 Changes to this Privacy Policy
 ==============================
@@ -696,11 +696,11 @@ We reserve the right to revise or modify this Privacy Policy. In addition, we ma
 * [LinkedIn](http://www.linkedin.com/company/avg)
 * [YouTube](https://www.youtube.com/user/officialAVG)
 
-[English ![](https://static2.avg.com/10003995/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[English ![](https://static2.avg.com/10003996/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_footer)
 
-[Privacy](https://www.avg.com/en-ww/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-ww/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003995/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-ww/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-ww/subscription-details) |  
+[Privacy](https://www.avg.com/en-ww/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-ww/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003996/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-ww/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-ww/subscription-details) |  
   [All third party trademarks are the property of their respective owners.](https://www.avg.com/en-ww/trademarks) | © 2024 Gen Digital Inc. All rights reserved.
 
 [Skip to content](#body-inner) [Skip to menu](#navigation-links)
