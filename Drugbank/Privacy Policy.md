@@ -1,4 +1,4 @@
-[Addressing the Challenge of Antibiotic ResistanceRead Now!](https://bit.ly/3NVBGh6)
+[eBook: Your Essential Guide to Unlocking Undruggable TargetsRead Now!](https://bit.ly/4dCSPHu)
 
 [![DrugBank logo](/assets/logo-online-pink-69f661028a0befc92ef5e94f23828096639203be3dc44b98e29be5a7e60b49e9.svg)](https://go.drugbank.com/)
 
