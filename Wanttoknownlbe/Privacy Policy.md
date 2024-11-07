@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/het-drama-in-apeldoorn-opnieuw-een-schijnbare-11-dualiteit/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/bijensterfte-blijkt-bijna-verdubbeld/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
