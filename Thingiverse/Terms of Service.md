@@ -96,7 +96,7 @@
     
     Free access to hundreds of 3D printing lesson plans to help teach a range of subjects.
     
-    [Browse all lesson plans on Thingiverse](https://www.thingiverse.com/education)
+    [Browse all blogs and webinars](https://www.makerbot.com/resources/)
     
     [![](https://www.makerbot.com/wp-content/uploads/2023/10/Menu-resources-MakerBot-Educators-Guidebook-1.png)](https://www.makerbot.com/educators-guidebook/)
     
