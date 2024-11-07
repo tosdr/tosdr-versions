@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-7.777 Tb/s
+12.303 Tb/s
 
 Peak
 
@@ -71,29 +71,29 @@ Powered by AMS-IX
 General Terms and Conditions
 ----------------------------
 
-* [General Terms and Conditions\-](#section-21274)
+* [General Terms and Conditions\-](#section-20291522)
     
-    * [Article 1. Definitions](#section-21275)
+    * [Article 1. Definitions](#section-20291535)
         
-    * [Article 2. Applicability, Appendices](#section-21276)
+    * [Article 2. Applicability, Appendices](#section-20291546)
         
-    * [Article 3. Object](#section-21277)
+    * [Article 3. Object](#section-20291557)
         
-    * [Article 4. Organizational Set-Up](#section-21278)
+    * [Article 4. Organizational Set-Up](#section-20291568)
         
-    * [Article 5. Rates and Payment](#section-21279)
+    * [Article 5. Rates and Payment](#section-20291579)
         
-    * [Article 6. Term and Termination](#section-21280)
+    * [Article 6. Term and Termination](#section-20291590)
         
-    * [Article 7. Use and Limitations](#section-19750309)
+    * [Article 7. Use and Limitations](#section-20316720)
         
-    * [Article 8. Liability](#section-21282)
+    * [Article 8. Liability](#section-20291601)
         
-    * [Article 9. Confidentiality and privacy](#section-21283)
+    * [Article 9. Confidentiality and privacy](#section-20291612)
         
-    * [Article 10. Governing Law, Disputes](#section-21284)
+    * [Article 10. Governing Law, Disputes](#section-20291623)
         
-    * [Article 11. Amendment to these conditions](#section-21285)
+    * [Article 11. Amendment to these conditions](#section-20291634)
         
 
 General Terms and Conditions
