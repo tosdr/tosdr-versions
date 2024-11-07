@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![An Unreasonable Man](/wp-content/thumbnails/1348-100x70.jpg?x53432)
+* [![The Tiniest Girl in the World](/wp-content/thumbnails/8354-100x70.jpg?x53432)
     
-    An Unreasonable Man
+    The Tiniest Girl in the World
     
-    In 1966, General Motors, the most powerful corporation in the world, sent private investigators to dig up dirt on an obscure thirty-two year old public interest lawyer named Ralph Nader, who had writt](https://documentaryheaven.com/an-unreasonable-man/ "An Unreasonable Man")
-* [![Brian’s Story](/wp-content/thumbnails/9949-100x70.jpg?x53432)
+    Charlotte Garside is the tiniest girl in the world. When she was born she weighed less than 1 and a half pounds and was the size of a baby that was only 16 weeks old. Though only born four weeks prema](https://documentaryheaven.com/tiniest-girl-world/ "The Tiniest Girl in the World")
+* [![Banned from the Bible](/wp-content/thumbnails/3116-100x70.jpg?x53432)
     
-    Brian’s Story
+    Banned from the Bible
     
-    At the age of 21 Brian Davis graduated with a degree in English from Cambridge University, seven years later he was a published author and by the mid eighties he had become one of the best known journ](https://documentaryheaven.com/brians-story/ "Brian’s Story")
-* [![The World’s Most Expensive Paintings](/wp-content/thumbnails/7046-100x70.jpg?x53432)
+    When Jesus was a boy, did he kill another child? Was Mary Magdalene a prostitute — or an apostle?Did Cain commit incest? Will there be an apocalypse or is this God’s trick to scare us?The answers](https://documentaryheaven.com/banned-from-the-bible/ "Banned from the Bible")
+* [![The Betrayed](/wp-content/thumbnails/187-100x70.png?x53432)
     
-    The World’s Most Expensive Paintings
+    The Betrayed
     
-    Go inside the glittering world of the super-rich as art critic Alastair Sooke tracks down the ten most expensive paintings to sell at auction. This film tells the stories behind the astronomical price](https://documentaryheaven.com/the-worlds-most-expensive-paintings/ "The World’s Most Expensive Paintings")
-* [![Google – Behind the Screen](/wp-content/thumbnails/380-100x70.png?x53432)
+    Fergal Keane investigates how a terrible slaughter, three quarters of a century ago, has returned to haunt the relationship between Turkey and its western allies. For decades the Armenian people have](https://documentaryheaven.com/the-betrayed/ "The Betrayed")
+* [![UFOs Secret: Russian Roswell](/wp-content/thumbnails/1153-100x70.jpg?x53432)
     
-    Google – Behind the Screen
+    UFOs Secret: Russian Roswell
     
-    This documentary shows how Google works behind the scenes and describes the ultimate goals of Google. Primarily it is to collect ALL information available worldwide. At the moment this is mostly about](https://documentaryheaven.com/google-behind-the-scenes/ "Google – Behind the Screen")
-* [![The Notorious B.I.G.: Bigger Than Life](/wp-content/thumbnails/6337-100x70.jpg?x53432)
+    A UFO crash site allegedly filmed by the Russian KGB in March of 1969 in the Sverdlovsk region of Russia. The footage was later obtained by documentary filmmakers who then published the movie, "The Se](https://documentaryheaven.com/ufos-secret-russian-roswell/ "UFOs Secret: Russian Roswell")
+* [![I Love My Bicycle](/wp-content/thumbnails/5560-100x70.jpg?x53432)
     
-    The Notorious B.I.G.: Bigger Than Life
+    I Love My Bicycle
     
-    The Notorious B.I.G. is no doubt on every Hip-Hop fan’s short list of the greatest rappers of all time. Most importantly, B.I.G. was respected and revered by his peers in the game.Everyone from Jay](https://documentaryheaven.com/the-notorious-b-i-g-bigger-than-life/ "The Notorious B.I.G.: Bigger Than Life")
+    17-year-old Steve Crandall started a company called Fat Bald Men (FBM). It began as selling t-shirts type of thing and later turned into one of the most respected DIY bike companies in existence. This](https://documentaryheaven.com/i-love-my-bicycle/ "I Love My Bicycle")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
