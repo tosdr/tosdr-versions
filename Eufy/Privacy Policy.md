@@ -6,7 +6,9 @@
 
            
 
-[New｜Constant Care with Hybrid Baby Monitor E21](https://www.eufy.com/products/e8354121?variant=44328357789882&ref=topbanner_1)
+[New｜Only True Pro Sees the Unseen](https://www.eufy.com/eufycam-pro?ref=topbanner_1)
+
+[Early Black Friday Savings! Gift Cards Save up to 50% OFF!](https://www.eufy.com/eufy-sales?ref=topbanner_2)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
@@ -265,11 +267,8 @@
     * [4G Camera S230
         
         Cellular Network](https://us.eufy.com/products/t8150121?ref=navimenu_2_2_5_1_img)
-    * [4G Camera S230 Bundle
-        
-        Cellular Network](https://us.eufy.com/products/e8150121?ref=navimenu_2_2_5_2_img)
     
-    [See More](https://us.eufy.com/collections/security-camera?ref=navimenu_2_2_5_3_copy)
+    [See More](https://us.eufy.com/collections/security-camera?ref=navimenu_2_2_5_2_copy)
     
     * [](https://us.eufy.com/collections/battery-operated-doorbell?ref=navimenu_2_3_1_copy)
         
@@ -478,7 +477,7 @@
     
     [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_4_2_copy)
     
-* Baby New
+* Baby
     
     1. Baby
     2. Breast Pump
@@ -549,7 +548,7 @@
     * [Baby Monitor E21](https://www.eufy.com/products/e8354121?ref=navimenu_3_4_2_img)
     * [Baby Monitor E110 2-Cam Bundle](https://www.eufy.com/products/bundle-t83001d2-1-t83101w1-1?ref=navimenu_3_4_3_img)
     
-* Smart Lights New
+* Smart Lights
     
     1. Latest Tech
     2. Smart LED Lights
@@ -609,19 +608,25 @@
         [Shop Holiday Lights](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_all_copy)[](https://us.eufy.com/policies/privacy-policy?ref=navimenu_4_2_3_more_copy)
         
     
-* Special Offers
+* Special Offers Hot
     
     [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
-    Secure a Better Home
+    Early Black Friday Savings on Security!
     
     [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
     [](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
-    Clean a Better Home
+    Early Black Friday Savings on eufy Clean!
     
     [Learn More](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
+    
+    [](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_3_img)
+    
+    Start Your Early Black Friday Savings!
+    
+    [Learn More](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_3_img)
     
 * Business
     
@@ -676,9 +681,9 @@ Search our shop
 
 * Clean
 * Security New
-* Baby New
-* Smart Lights New
-* Special Offers
+* Baby
+* Smart Lights
+* Special Offers Hot
 * Business
 * [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_copy)
 
