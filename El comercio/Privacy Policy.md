@@ -31,6 +31,209 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Aquiles Alvarez fue sentenciado; se niega a cumplir parte de la sanción
+=======================================================================
+
+El Alcalde de Guayaquil fue sentenciado por el TCE por violencia política de género tras una denuncia de la asambleísta Lucía Jaramillo
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![El Alcalde de Guayaquil fue sentenciado por el TCE por violencia política de género.](https://www.elcomercio.com/wp-content/uploads/2024/11/Aquiles.jpg)
+
+El alcalde de Guayaquil**, Aquiles Alvarez**, fue denunciado por la asambleísta **Lucía Jaramillo** luego de que Alvarez publicara comentarios en referencia a ella en su cuenta de la red social X.
+
+### Más noticias
+
+* [Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión](https://www.elcomercio.com/actualidad/seguridad/caso-triple-a-audiencia-formulacion-cargos-suspendio-segunda-ocasion.html "Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión")
+* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
+* [Policía recuperó cinco osamentas humanas en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-osamentas-humanas-guayaquil.html "Policía recuperó cinco osamentas humanas en Guayaquil")
+
+La denuncia
+-----------
+
+La asambleísta Lucía Jaramillo denunció a Alvarez luego de que, el 16 de julio de 2024, el actual Alcalde de Guayaquil posteara que es una **“niña vaga” y una “vocera turra”.** Estas palabras se consideraron como estereotipadas y despectivas.
+
+Así lo determinó el **Tribunal Contencioso Electoral** (TCE) y reafirmó que se constituyen en **violencia política de género**, pues menoscaban la imagen pública de Jaramillo.
+
+Además, se consideró que las palabras de Alvarez **atentan contra su dignidad** en el ejercicio de su cargo como asambleísta y **se declaró responsable al denunciado**.
+
+Por ello, **el TCE sentenció a Aquiles Alvarez** con las siguientes sanciones:
+
+* Se impuso una multa de 21 salarios básicos, que corresponden a **9 660 dólares,** y se debe pagar en un plazo máximo de seis meses.
+* Como medidas de reparación**, se prohibió cualquier comunicación** que haga referencia a la denunciante y **la eliminación del post** en la red social X.
+* Además, el sentenciado **debe publicar las disculpas públicas** en su cuenta de X dentro de 10 días y dejarla por 30 días.
+* Debe **cumplir un curso de sensibilización** contra la violencia de género de 20 horas en un plazo máximo de 60 días.
+
+Reacciones ante la sentencia
+----------------------------
+
+La asambleísta **Lucía Jaramillo** comentó en su cuenta de X que la sentencia “deja un precedente contra quienes piensan que el poder se impone con intimidación”. Se mostró agradecida con su equipo legal.
+
+Añadió que “esta es una victoria para todas: **Aquí no nos calla nadie!”.**
+
+Por su parte, **Aquiles Alvarez** señaló: Jamás pedir disculpas por decir la verdad, la vagancia no tiene que ver con género”. Agregó que un informe de Contraloría sustenta que la asambleísta no acudía a trabajar.
+
+Se mostró enfático en el rechazo a ofrecer disculpas y que prefiere la destitución. También hizo referencia a su labor en la Alcaldía: **“Señores del TCE**: prefiero que me destituyan, vengan a hacerse cargo de un Guayaquil que quedó destrozado… Vengan no más, d**estitúyanme si quieren**“.
+
+“Vengan nomas, atropellen la democracia y **destituyan a un alcalde** que recorrió toda la ciudad de forma honrada, para buscar una opción de cambio y que hoy la lucha día a día por sacarla adelante”.
+
+“Destitúyanme, los espero. Veremos que reacción de la mayoría gente en las calles y zonas que estuvieron olvidadas de Guayaquil, que hoy en esta administración POR FIN tienen agua potable después de 40 años cuando lo hagan (sic)”, [concluyó](https://es.wikipedia.org/wiki/Aquiles_Alvarez "https://es.wikipedia.org/wiki/Aquiles_Alvarez").
+
+> Jamás pedir disculpas por decir la verdad, la vagancia no tiene que ver con género, más aún si está sustentado con un informe de Contraloria donde se sustenta de que jamás acudía a su lugar de trabajo, jamás marcaba, etc. el que es vago, es vago, sea hombre o mujer.  
+>   
+> Señores del… [https://t.co/UaI5vHi17W](https://t.co/UaI5vHi17W)
+> 
+> — Aquiles Alvarez Henriques (@aquilesalvarez) [November 7, 2024](https://twitter.com/aquilesalvarez/status/1854402674680037872?ref_src=twsrc%5Etfw)
+
+Liga de Quito domina ampliamente el historial contra Independiente del Valle
+============================================================================
+
+Liga de Quito e Independiente del Valle disputarán el partido número 50 en el campeonato ecuatoriano.
+-----------------------------------------------------------------------------------------------------
+
+![Liga de Quito e Independiente del Valle jugarán su partido número 50.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-93.jpg)
+
+La definición de la segunda etapa de la **Liga Pro** está al rojo vivo, con dos equipos al frente, con el mismo puntaje y la misma ilusión. **Liga de Quito** e Independiente del Valle se enfrentarán este sábado 9 de noviembre en lo que ya se considera una “final adelantada”.
+
+Este partido corresponde a la jornada 13 de 15 de la segunda mitad del campeonato ecuatoriano. Ambos equipos suman 26 puntos, con **IDV liderando por diferencia de goles**. Sin embargo, este encuentro podría ser determinante para saber si los rayados se consagrarán campeones directos o si la ‘U’ llegará a otra final para defender su título ganado en 2023, precisamente ante el mismo rival.
+
+Más noticias:
+-------------
+
+* [Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-ligapro.html "Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada")
+* [¿Alex Arce abandonará Liga de Quito al final de temporada?](https://www.elcomercio.com/deportes/futbol/alex-arce-abandonara-liga-de-quito-al-final-de-temporada.html "¿Alex Arce abandonará Liga de Quito al final de temporada?")
+* [¿Cuándo juegan Liga de Quito e Independiente del Valle?](https://www.elcomercio.com/deportes/cuando-juegan-liga-de-quito-independiente-del-valle.html "¿Cuándo juegan Liga de Quito e Independiente del Valle?")
+
+Aunque la historia de este enfrentamiento es relativamente corta, ya que sus primeros encuentros datan de 2010, ambos equipos han forjado una gran rivalidad, siendo los únicos clubes ecuatorianos en haber conquistado títulos internacionales. No obstante, en cuanto al historial de enfrentamientos directos, **hay un claro vencedor: Liga de Quito.**
+
+Liga de Quito y su “paternidad” ante Independiente del Valle
+------------------------------------------------------------
+
+A pesar de que **Independiente del Valle** ha sido uno de los mejores equipos del fútbol ecuatoriano en la última década, y algunos incluso lo consideran el mejor, su rival, Liga de Quito, ha sido un hueso duro de roer.
+
+En los 49 partidos jugados entre ambos, desde 2010 hasta la fecha, **Liga ha ganado 23 veces**, mientras que Independiente del Valle solo ha logrado 11 victorias. Los 15 encuentros restantes terminaron en empate, lo que le da una clara ventaja a la ‘U’.
+
+Este es un enfrentamiento que solo se ha dado una vez en finales, y en esa ocasión, en la definición de la LigaPro 2023, **Liga de Quito se coronó campeón** tras vencer por penales a Independiente del Valle.
+
+En cuanto a estadísticas más específicas, la ‘U’ también tiene ventaja tanto de local como de visitante, siendo la diferencia más amplia cuando se enfrentan en el **Estadio Rodrigo Paz Delgado**.
+
+En este escenario, se han jugado **24 partidos, con 14 victorias para Liga** y solo tres para Independiente del Valle. Como visitante, Liga ha ganado nueve veces, mientras que Independiente ha logrado ocho victorias.
+
+En términos de goles, Liga de Quito ha **marcado 76 veces frente a 55** de Independiente del Valle en estos 49 encuentros.
+
+Ficha del partido
+-----------------
+
+Liga de Quito vs. Independiente del Valle
+
+**Fecha**: Sábado 9 de noviembre.
+
+**Hora**: 15:30.
+
+**Estadio**: Rodrigo Paz Delgado.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela
+====================================================================================
+
+Trump fue el principal adversario político de Maduro, a quien tildó de "dictador", e impuso numerosas sanciones al país.
+------------------------------------------------------------------------------------------------------------------------
+
+![Maduro, expresó este miércoles que la victoria de Donald Trump en las elecciones presidenciales de Estados Unidos supone un "nuevo comienzo" para ambos países, sin relaciones diplomáticas desde 2019, rotas entonces por el chavista durante el primer mandato del republicano.](https://www.elcomercio.com/wp-content/uploads/2024/11/Maduro.jpg)
+
+El presidente de Venezuela, **Nicolás Maduro,** expresó este miércoles que la victoria de Donald Trump en las elecciones presidenciales de Estados Unidos supone un “nuevo comienzo” para ambos países.
+
+Ambos no tienen relaciones diplomáticas desde 2019, **rotas entonces por el chavista** durante el primer mandato del republicano.
+
+### Más noticias
+
+* [La reelección de Trump y su impacto en Ecuador](https://www.elcomercio.com/opinion/editorial/la-reeleccion-de-trump-y-su-impacto-en-ecuador.html "La reelección de Trump y su impacto en Ecuador")
+* [Enmiendas sobre el uso de marihuana y aborto fracasan en Florida](https://www.elcomercio.com/actualidad/mundo/enmiendas-sobre-el-uso-de-marihuana-y-aborto-fracasan-en-florida.html "Enmiendas sobre el uso de marihuana y aborto fracasan en Florida")
+* [Ecuador frente a la reelección de Donald Trump,¿qué esperar?](https://www.elcomercio.com/actualidad/politica/la-reeleccion-donald-trump-su-posible-impacto-ecuador.html "Ecuador frente a la reelección de Donald Trump,¿qué esperar?")
+
+Las declaraciones de Maduro
+---------------------------
+
+“En su primer Gobierno, **presidente reelecto Donald Trump**, no nos fue bien. Este es un nuevo comienzo para que apostemos a (una relación) ganar-ganar y le vaya bien a **Estados Unidos,** le vaya bien a **Venezuela”**, dijo Maduro en un programa transmitido por el canal estatal VTV.
+
+Añadió que cuando atentaron contra su vida, **no dudó en solidarizarse con él.**
+
+Asimismo, afirmó que su Gobierno está abierto a **“relaciones de trabajo conjunto”** con quien quiera invertir en Venezuela. Lo que -aseguró- ha manifestado a “todos los estadounidenses” que visitan el país petrolero, sobre el que pesan sanciones i**mpuestas por Washington**, que ha otorgado licencias a transnacionales para operar en esta nación, entre ellas, a la norteamericana Chevron.
+
+Por otra parte, Maduro expresó que, tras este “regreso histórico”, **Trump** tiene una “oportunidad de oro” para que “acabe con las guerras”, así como para permitir relaciones de respeto con América Latina.  
+Además, **el Jefe de Estado** aseveró que nunca se meterá en “asuntos internos de Estados Unidos”, porque -dijo- no practica el “intervencionismo”.
+
+“Nosotros abogamos por **la soberanía,** la independencia, el respeto a nuestra cultura, a nuestra identidad. Las soluciones de América Latina están en **América Latina** y las soluciones para el futuro de Venezuela están en Venezuela”, agregó Maduro, proclamado ganador de las elecciones del 28 de julio. Este es un resultado rechazado por el **actual Ejecutivo estadounidense,** encabezado por el demócrata Joe Biden.
+
+Trump, el principal adversario de Maduro
+----------------------------------------
+
+En su anterior Gobierno (2017-2021), **Trump** fue el principal adversario político de Maduro, a quien tildó de “dictador”, e impuso numerosas sanciones al país, incluidas restricciones a su industria petrolera, la principal fuente de divisas de Venezuela.
+
+El lunes, el Mandatario dijo que aspira a que el **futuro nuevo Gobierno estadounidense** no se deje llevar por las políticas “fracasadas del extremismo” de la oposición mayoritaria venezolana. La oposición considera fraudulenta **la controvertida reelección de Maduro** e insiste en la victoria de su candidato, Edmundo González Urrutia.
+
+La líder antichavista y principal valedora de González Urrutia**, María Corina Machado**, felicitó a Trump, al tiempo que le dijo que el país caribeño vive “días decisivos” luego de las presidenciales venezolanas. Añadió que cuenta con “el apoyo de los pueblos de las Américas y **el de sus Gobiernos democráticos** para asegurar una transición a la [democracia sin demora](https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maduro "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maduro")“.
+
+Así funciona el Pico y placa en Quito este jueves 7 de noviembre
+================================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![La medida del Pico y placa se implementa en Quito para tratar de controlar el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/11/transito-Quito-jueves.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Metro de Quito ya suma más de 4,9 millones de viajes, en octubre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suma-mas-de-49-millones-de-viajes-octubre.html "Metro de Quito ya suma más de 4,9 millones de viajes, en octubre")
+* [Policía detiene a exdocente por presunto ciberacoso, en Quito](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-exdocente-presunto-ciberacoso-quito.html "Policía detiene a exdocente por presunto ciberacoso, en Quito")
+* [Contrato de mantenimiento de energía del Metro de Quito está por terminar](https://www.elcomercio.com/actualidad/quito/metro-quito-mantenimiento-energia-terminar.html "Contrato de mantenimiento de energía del Metro de Quito está por terminar")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
+
+También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
+> 
+> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
+
 La reelección de Trump y su impacto en Ecuador
 ==============================================
 
@@ -722,221 +925,3 @@ Falta de víveres, agua y medicinas
 ----------------------------------
 
 Las inundaciones, abunda, “**siguen produciendo desabastecimiento de víveres, agua y medicinas** con el riesgo que se cierne sobre la población de un peligro de **contagio epidemiológico**, debido a la contaminación del **agua para beber y usos domésticos**”, algo que, en su opinión, si no se soluciona con medidas “especialmente urgentes y eficaces”, va a generar “**daños o perjuicios irreparables** o de difícil reparación”.
-
-Cortes de luz en Guayaquil para este jueves 7 de noviembre
-==========================================================
-
-CNEL detalló los sectores y horarios en los que habrá cortes de luz en Guayaquil este jueves 7 de noviembre.
-------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil serán de tres horas para el sector residencial este jueves](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-jueves.jpg)
-
-La Corporación Nacional de Electricidad (CNEL EP) informó los **cortes de luz** que tendrá **Guayaquil** este **jueves 7 de noviembre**.
-
-### Más noticias
-
-* [Cortes de luz para Quito este jueves 7 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-7-noviembre.html "Cortes de luz para Quito este jueves 7 de noviembre")
-* [La mina de cobre Mirador suspendió actividades por falta de energía](https://www.elcomercio.com/actualidad/negocios/la-mina-de-cobre-mirador-suspendio-actividades-por-falta-de-energia.html "La mina de cobre Mirador suspendió actividades por falta de energía")
-* [¿Cómo está el embalse de Mazar tras lluvias de Cuenca?](https://www.elcomercio.com/actualidad/negocios/como-esta-el-embalse-de-mazar-tras-lluvias-de-cuenca.html "¿Cómo está el embalse de Mazar tras lluvias de Cuenca?")
-
-Los apagones programados tendrán una duración de seis horas para el **sector residencial**; mientras que para el industrial, los cortes variarán entre **tres y seis horas**.
-
-Para este miércoles, CNEL sectorizó la suspensión del servicio eléctrico en **53 espacios**, con dos franjas horarias, una en la madrugada o mañana y otra en la tarde o noche[.](https://www.cnelep.gob.ec/ "https://www.cnelep.gob.ec/")
-
-Cortes de luz para este jueves 7 de noviembre
----------------------------------------------
-
-El sector industrial, por otra parte, tendrá apagones distribuidos en **cinco sectores**.
-
-El de mayor duración, de seis horas, aplicará para Naturisa y Songa, de **09:00 a 15:00**.
-
-Mientras que en otros puntos de Guayaquil, los cortes de luz durarán **tres horas**, según este cronograma:
-
-* 08:00 a 11:00
-* 10:00 a 13:00
-* 11:00 a 14:00
-* 13:00 a 16:00
-
-A continuación, te compartimos la **programación completa** de cortes de luz en Guayaquil para este jueves 7 de noviembre, por sectores y franjas horarias:
-
-CNEL recordó que, debido a la mejora de las **condiciones hidrológicas**, los cortes de energía eléctrica pueden reducirse.
-
-Condiciones de Mazar no mejoran
--------------------------------
-
-Las **intensas lluvias** registradas en Cuenca este martes 5 de noviembre **no aumentaron el nivel del embalse de Mazar**, vital para la generación hidroeléctrica en Ecuador.
-
-Según detalló la Empresa de Telecomunicaciones, Agua Potable y Alcantarillado de Cuenca (**ETAPA EP**), las precipitaciones, tuvieron una alta intensidad de **26 milímetros** por hora (mm/h), pero se concentraron en el centro y este de la ciudad.
-
-Según la Corporación Eléctrica del Ecuador Sur (CelecSur), el embalse de Mazar registró una cota de **2 115,03 metros sobre el nivel del mar** (m.s.n.m.), este 6 de noviembre de 2024.
-
-Actualmente, se acerca a su zona de peligro, que es 2 115 m.s.n.m.; si pasa este límite, la operación es riesgosa debido a los **sedimentos** que se generan.
-
-Sparta Praga de Angelo Preciado cae en Champions ante Brest
-===========================================================
-
-Con Angelo Preciado fuera del equipo debido a una lesión, el Sparta Praga cayó ante el Stade Brestois en la cuarta fecha de la Champions.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Sparta Praga de Angelo Preciado ante el Brest en la UEFA Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-06T164300.721.jpg)
-
-El **Stade Brestois** se mantiene como sorpresa en la UEFA Champions League y volvió a ganar. El equipo francés se impuso por 1-2 ante el **Sparta Praga de Angelo Preciado**, que no contó con el ecuatoriano por lesión.
-
-Envalentonados por los **siete puntos** -dos triunfos y un empate- con los que contaban al arrancar la cita en su casillero, una cifra impensable antes de iniciarse la competición, los de **Eric Roy** no tardaron en hacerse con los mandos del encuentro.
-
-### Más noticias:
-
-* [El FC Barcelona, imparable, goleó en Champions](https://www.elcomercio.com/deportes/barcelona-champions-estrella-roja-goleada.html "El FC Barcelona, imparable, goleó en Champions")
-* [Atlético de Madrid le remontó al PSG de Willian Pacho en Champions](https://www.elcomercio.com/deportes/futbol/atletico-de-madrid-le-remonto-al-psg-de-willian-pacho-en-champions.html "Atlético de Madrid le remontó al PSG de Willian Pacho en Champions")
-* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
-
-Todo un problema para el **Sparta de Praga**, que, lastrado por sus malos resultados en el campeonato doméstico, en el que ha perdido cuatro de sus últimos cinco partidos, poco a poco fue refugiándose en torno a su área.
-
-Un dominio territorial que, sin embargo, el Brest no supo traducir en claras ocasiones de gol, pese al empeño del delantero **Ludovic Ajorque**, que se convirtió en un constante quebradero de cabeza para los zaguero locales.
-
-Y es que cuando **Ajorque** no aprovechó sus casi dos metros de estatura para cabecear cualquier balón, el atacante francés hizo valer su insistencia en la presión para llevar el peligró al área rival[.](https://es.wikipedia.org/wiki/Stade_Brestois_29 "https://es.wikipedia.org/wiki/Stade_Brestois_29")
-
-El Brest marcó el primero y tuvo supremacía
--------------------------------------------
-
-Tal y como ocurrió a los trece minutos, tras poner a prueba al meta local **Peter Vindahl** tras interceptar un pase del belga **Elias Cobbaut**.
-
-No fue la única ocasión de Ajorque, que trece minutos más tarde, en el veintiséis, vio cómo su remate se paseaba por la linea de gol sin que el maliense **Kamory Doumbia** pudiese remacharlo a la red.
-
-Nada pudo impedir, sin embargo, que el Brest se adelantase finalmente en el marcador a los treinta y siete minutos con una espectacular volea del suizo **Edimilson Fernandes**, que no desaprovechó un balón suelto al borde del área para establecer el 0-1.
-
-El resultado que afianzó el dominio de los ‘Ti Zefs’, que pudieron doblar su ventaja en el arranque de la segunda mitad, primero con un remate desde fuera del área de _Pierre Lees-Melou_, que se marchó fuera por poco, y posteriormente en un fallido despeje del portero local que estrelló el balón en el cuerpo de Ajorque.
-
-Pero el atacante del Brest no solo destaca por su infatigable trabajo, sino que también posee su dosis de calidad, como dejó claro a los sesenta y cinco minutos con un sutil pase de tacón en el interior del área para **Mahdi Camara** que el centrocampista no supo aprovechar para firmar el segundo gol visitante.
-
-El Sparta Praga coqueteó con el empate en Champions, pero faltó tiempo
-----------------------------------------------------------------------
-
-Más fortuna tuvo el conjunto francés a falta de diez minutos para la conclusión cuando **Ajorque** no desaprovechó otro fallo, el enésimo, del guardameta del Sparta con los pies para robar el balón y meter un centro al corazón del área que el finés **Kaan Kairinen** introdujo en su propia portería (0-2).
-
-Goles que hicieron estéril el posterior tanto del nigeriano **Victor Olatunji** para el Sparta de Praga, que estableció a los noventa y dos minutos el definitivo 1-2, que permitirá al Brest llegar invicto al campo del Barcelona con el que se medirá en la próxima jornada.
-
-Alineaciones el Sparta Praga y el Brest
----------------------------------------
-
-1 – **Sparta de Praga**: Vindahl; Vitik, Panak, Cobbaut; Wiesner, Laci (Suchomel, m.85), Kairinen (Solbakken, m.85), Rynes (Sadinek, m.85); Pesek (Tuci, m.78), Olatunji y Rrahmani (Danek, m. 64).
-
-2 – **Brest**: Bizot; Lala, Chardonnet, Coulibaly, Haidara; Camara (Jonas Martin, m.81), Lees-Melou, Fernandes (Magnetti, m.81); Balde (Pereira Lage, m.74), Ajorque y Doumbia (Ibrahim Salah, m.81).
-
-Emelec pierde a Pedro Ortiz y complica su cierre de temporada
-=============================================================
-
-La temporada 2024 de Emelec ha sido un verdadero calvario, y ahora se suma un nuevo problema en lo deportivo.
--------------------------------------------------------------------------------------------------------------
-
-![Pedro Ortiz en un partido con Emelec en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-92.jpg)
-
-**Emelec** ha pasado por un año difícil en 2024, entre deudas, reducción de puntos, problemas dirigenciales y un desempeño deportivo muy por debajo de lo esperado. Las **lesiones** también han afectado a grandes figuras y fichajes prometedores.
-
-El primer golpe para el ‘Bombillo’ ocurrió incluso antes del inicio de la temporada, con la lesión de **Christian** **Noboa**, el gran fichaje del año, quien no ha podido debutar.
-
-### Más noticias:
-
-* [Emelec anuncia oficialmente la renuncia de José Pileggi](https://www.elcomercio.com/deportes/emelec-jose-pileggi-renuncia-oficial.html "Emelec anuncia oficialmente la renuncia de José Pileggi")
-* [Liga de Quito venció a Emelec y presiona en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vencio-a-emelec-y-presiona-en-la-liga-pro.html "Liga de Quito venció a Emelec y presiona en la Liga Pro")
-* [Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/gilmar-napa-emelec-siniestro-transito.html "Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito")
-
-A mitad de año, se sumó **Facundo Castelli**, delantero que tuvo un excelente desempeño en 2023 con Delfín y llegó con muchas expectativas, pero solo pudo disputar la primera etapa de la Liga Pro.
-
-Y ahora, a tres fechas de finalizar el torneo, se sumó una nueva mala noticia: el capitán y referente de **Emelec**, **Pedro Ortiz,** confirmó la gravedad de su lesión y no estará disponible hasta la siguiente temporada.
-
-Pedro Ortiz se perderá lo que resta de la temporada
----------------------------------------------------
-
-El arquero y capitán del ‘Bombillo’ se perdió los dos últimos partidos debido a una fractura en el dedo. Ambos encuentros los perdió el club, y con estos resultados, sus posibilidades de luchar por el último cupo para la **Copa Sudamericana** se redujeron considerablemente.
-
-Este miércoles 6 de noviembre, Emelec confirmó que **Pedro Ortiz** sufre una luxación de la articulación interfalángica del quinto dedo de la mano derecha, una lesión que lo aqueja desde 2019, por lo cual será intervenido quirúrgicamente.
-
-“El t**iempo estimado de recuperación es de aproximadamente 10 semanas**”, publicó el club.
-
-Con esto, se confirmó que Ortiz no jugará los últimos tres partidos del torneo y estará disponible para el próximo año.
-
-> 📑 Informe médico [pic.twitter.com/WCTZ3Fl7hd](https://t.co/WCTZ3Fl7hd)
-> 
-> — Club Sport Emelec (@CSEmelec) [November 6, 2024](https://twitter.com/CSEmelec/status/1854239840620986453?ref_src=twsrc%5Etfw)
-
-Los números de Pedro Ortiz en 2024
-----------------------------------
-
-Pedro Ortiz **tuvo una gran primera mitad de temporada** con Emelec. Solo recibió once goles en 14 partidos y mantuvo su arco invicto en seis ocasiones.
-
-Además, fue clave para que su equipo terminara en la sexta posición, con **25 puntos** y solo dos derrotas en la primera etapa. Sin embargo, en la segunda mitad del año, su nivel, al igual que el del equipo en general, decayó notablemente.
-
-En la segunda etapa, disputó **10 partidos, recibió 11 goles**, mantuvo el arco invicto solo dos veces y sufrió seis derrotas.
-
-En total, su campaña se resume en **26 partidos** entre la Copa Ecuador y la Liga Pro, con 24 goles recibidos y nueve vallas invictas.
-
-Ecuador frente a la reelección de Donald Trump,¿qué esperar?
-============================================================
-
-La reelección de Trump genera incertidumbre para Ecuador; analistas alertan sobre dependencia y desafíos en política y comercio.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump fue elegido como presidente de Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-14-1.jpg)
-
-Este miércoles 6 de noviembre, **Donald Trump** fue elegido como presidente de **Estados Unidos**. Ante este escenario, la administración de **Daniel Noboa** debe evaluar cómo mantener una **relación cercana** con el país norteamericano.
-
-### Más noticias
-
-* [Cinco claves para entender la victoria de Donald Trump](https://www.elcomercio.com/actualidad/mundo/cinco-claves-para-entender-victoria-donald-trump.html "Cinco claves para entender la victoria de Donald Trump")
-* [Kamala Harris felicita a Donald Trump por su victoria en las elecciones](https://www.elcomercio.com/actualidad/mundo/kamala-harris-felicita-donald-trump-victoria-elecciones.html "Kamala Harris felicita a Donald Trump por su victoria en las elecciones")
-* [Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.](https://www.elcomercio.com/actualidad/politica/daniel-noboa-felicita-a-donald-trump-por-ganar-las-elecciones-en-ee-uu.html "Daniel Noboa felicita a Donald Trump por ganar las elecciones en EE.UU.")
-
-**Alberto Feijoo**, docente de ciencias políticas y relaciones internacionales de la IUDE, es escéptico sobre los beneficios que Ecuador podría obtener de esta relación.
-
-Según Feijoo, la **política de Trump** hacia la región prioriza exclusivamente los intereses estadounidenses, dejando a países como Ecuador en una **posición vulnerable y dependiente**. “El **Sur global** no es más que una ilusión”, afirma el académico, quien considera que **Ecuador y el resto de América Latina** están sujetos a la buena voluntad del **imperio norteamericano**.
-
-Esta dependencia se agudizaría bajo el **enfoque proteccionista de Trump**, que ha demostrado poca disposición para apoyar intereses externos si no benefician a **Estados Unidos** de forma directa.
-
-Feijoo alerta sobre la incertidumbre que representa la administración Trump para la región. El docente enfatiza que Ecuador no puede permitirse perder el respaldo en seguridad y desarrollo que ha cultivado con Estados Unidos.
-
-> HI REPUBLICANS! IF YOU’RE IN LINE—STAY IN LINE… [pic.twitter.com/5vEA2kXZXU](https://t.co/5vEA2kXZXU)
-> 
-> — Donald J. Trump (@realDonaldTrump) [November 6, 2024](https://twitter.com/realDonaldTrump/status/1853958758654726398?ref_src=twsrc%5Etfw)
-
-Asimismo, reconoce que las necesidades ecuatorianas en temas como migración y desarrollo pueden no recibir la atención que requieren. En su análisis, Feijoo considera que Ecuador deberá estar en capacidad de resolver estos asuntos de **forma autónoma**, si busca condiciones de negociación más justas.
-
-**Pablo Rosales,** analista político, interpreta el temprano apoyo de Noboa hacia Trump como un **gesto pragmático**, que podría facilitar el diálogo entre **ambas administracione**s. No obstante, el analista advierte que esta alineación debe manejarse cuidadosamente para **evitar un compromiso excesivo** de la autonomía ecuatoriana.
-
-Para Rosales, Trump suele ser selectivo con sus alianzas, por lo que la cercanía de Noboa podría generar beneficios a corto plazo. Sin embargo, si esta **política exterior** se torna demasiado sesgada, podría dificultar la relación de Ecuador con otros socios tradicionales en la región y en el ámbito internacional.
-
-Donald Trump y la tensión en la política interna de Ecuador
------------------------------------------------------------
-
-La afinidad entre **Noboa y Trump** podría ser una fuente de divisiones en Ecuador. Feijoo, crítico hacia Noboa, señala que el **presidente ecuatoriano**, a quien describe como ‘populista’, podría fortalecer las **relaciones diplomáticas**, aunque siempre bajo la sombra de la **influencia estadounidense**.
-
-El académico sugiere que esta cercanía podría polarizar a la **sociedad ecuatoriana**, en especial si la política exterior de Noboa se percibe como un **alineamiento incuestionable** hacia los intereses de Estados Unidos, sin aportar **beneficios claros para Ecuador**.
-
-Por su parte, **José Baquero**, docente de relaciones internacionales, también cuestiona los posibles efectos de esta cercanía. Para Baquero, el **apoyo temprano de Noboa podría interpretarse como una postura menos crítica hacia Estados Unidos**, en un intento de mantener una relación fluida a pesar de las condiciones desiguales que Trump tiende a imponer.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCCMh6uuvkq/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCCMh6uuvkq/?utm_source=ig_embed&utm_campaign=loading)
-
-Baquero advierte que esta postura **puede limitar la capacidad de Ecuador** para negociar en sus propios términos. Ya que Trump, en su enfoque de **‘América Primero**‘, prioriza acuerdos que favorezcan exclusivamente a Estados Unidos.
-
-Además, Feijoo señala movimientos en el **ámbito diplomático de Ecuador** que parecen alinearse con esta nueva postura hacia Estados Unidos. Uno de estos es la reciente remoción de **Ivonne Baki** de su cargo en Francia, con posibles **planes de reubicación en Washington**.
-
-> La decisión se notificó tras el triunfo de [#Trump](https://twitter.com/hashtag/Trump?src=hash&ref_src=twsrc%5Etfw) [https://t.co/2sJHMoMZgK](https://t.co/2sJHMoMZgK) [pic.twitter.com/D6iFCC8pEL](https://t.co/D6iFCC8pEL)
-> 
-> — El Comercio (@elcomerciocom) [November 6, 2024](https://twitter.com/elcomerciocom/status/1854231362330345641?ref_src=twsrc%5Etfw)
-
-Según Feijoo, esta decisión podría interpretarse como un **intento de Noboa de fortalecer la relación con Trump** desde el inicio de su mandato, buscando asegurar una posición e**stratégica en la embajada ecuatoriana en Estados Unidos**.
-
-Desafíos y perspectivas futuras
--------------------------------
-
-A largo plazo, Feijoo considera que **Ecuador y América Latina** permanecerán bajo la influencia de decisiones unilaterales por parte de **Estados Unidos,** y su margen de negociación seguirá supeditado a los proyectos y convenios que la **administración norteamericana decida impulsar**.
-
-El docente destaca que temas como la **migración y la cooperación para el desarrollo** deberían ser prioritarios para Ecuador. Aunque duda que Trump dedique **tiempo o recursos** para abordar estos asuntos de **manera integral**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCCGQk5OoNd/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCCGQk5OoNd/?utm_source=ig_embed&utm_campaign=loading)
-
-Rosales concluye que la estrategia de Noboa debe e**ncontrar un equilibrio para mantener buenas relaciones con Estados Unidos**, sin comprometer la soberanía del país.
