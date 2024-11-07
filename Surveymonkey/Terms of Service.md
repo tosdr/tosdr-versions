@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__badge.png)
+![Logo SurveyMonkey](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__badge.png)
 
-* [Overzicht](https://www.surveymonkey.com/mp/legal/)
+* [Présentation](https://www.surveymonkey.com/mp/legal/)
     
-* [Gebruiksvoorwaarden](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Conditions d’utilisation](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Toepasselijke serviceovereenkomst](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Contrat de services en vigueur](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Servicegebonden voorwaarden](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Conditions spécifiques aux services](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Basisprincipes van privacy](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Principes de confidentialité](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Privacymelding](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Avis de confidentialité](https://www.surveymonkey.com/mp/legal/privacy/)
     
 * [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Cookies die op enquêtepagina's worden gebruikt](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Cookies utilisés sur les pages de sondage](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Beleid inzake aanvaardbaar gebruik](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Politique relative à l'usage acceptable](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Beveiliging](https://www.surveymonkey.com/mp/legal/security/)
+* [Sécurité](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Algemeen](https://www.surveymonkey.com/mp/legal/general/)
+* [Général](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Wist u dit?
+Le saviez-vous ?
 
-63% van de mensen houdt rekening met de geschiedenis van het bedrijf ten aanzien van privacy en beveiliging voordat ze producten of services van dat bedrijf gebruiken.
+63 % des personnes interrogées consultent l'historique de sécurité et la politique de confidentialité d'une entreprise avant de recourir à ses produits ou services.
 
-![Statistieken zijbalk juridische informatie](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__stats-image.png)
+![Barre latérale du Centre de ressources juridiques](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
