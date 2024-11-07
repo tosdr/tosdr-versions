@@ -1,6 +1,6 @@
-[TRY DNSFILTER FREE FOR 14 DAYS
+[ANNOUNCING NEW PSA SOFTWARE INTEGRATIONS
 
-START FREE TRIAL](https://app.dnsfilter.com/signup)
+LEARN MORE](https://www.dnsfilter.com/features/psa-integration)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
