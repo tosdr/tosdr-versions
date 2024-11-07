@@ -80,7 +80,6 @@ Anzeigen
 * [Verantwortungsvollste Arbeitgeber 2025](https://www.zeit.de/angebote/most-responsible-employer-2025/index)
 * [Feier dein Geschmack](https://www.zeit.de/angebote/zeit-magazin/vomfass/index)
 * [Jens Bisky, Die Entscheidung](https://www.zeit.de/angebote/biskydieentscheidung/index)
-* [Coaching: Urbanes Leben mit Hund](https://www.zeit.de/angebote/hundeexpertin/index)
 * [Eine Reise nach Costa Rica](https://www.zeit.de/angebote/reisen-nach-costa-rica/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
@@ -108,20 +107,14 @@ Anzeigen
     * Hell
     * Dunkel
 
+[**Eilmeldung** 14:14 Uhr Wissing übernimmt Justizministerium, Özdemir Bildungsministerium](https://www.zeit.de/politik/deutschland/2024-11/wissing-uebernimmt-justizministerium-oezdemir-bildungsministerium)
+
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
 
 Aktualisiert am 17. April 2023, 11:07 Uhr
 
 Schließen Veröffentlicht am  
-
- Zusammenfassung Zusammenfassen
-
-Schließen
-
-### Artikelzusammenfassung
-
-Die Zusammenfassung für diesen Artikel kann leider momentan nicht angezeigt werden.
 
 Das Portal www.zeit.de sowie die über mobile Applikationen und in E-Paper bereitgestellten Inhalte dieser Portale (im Folgenden Portale & Dienste) werden betrieben bzw. zur Verfügung gestellt von der
 
