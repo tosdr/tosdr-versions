@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Am I OkMegan Moroney<br><br>10:39am |
-| One Of Them GirlsLee Brice<br><br>10:35am |
-| Watermelon MoonshineLainey Wilson<br><br>10:32am |
-| Where The Green Grass GrowsTim Mcgraw<br><br>10:29am |
-| I Never LieZach Top<br><br>10:25am |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>4:40pm |
+| World On FireNate Smith<br><br>4:36pm |
+| If I Didn'T Love YouJason Aldean And Carrie Underwood<br><br>4:33pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:30pm |
+| Gettin You HomeChris Young<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Spanish • Western
+News Talk • Eastern
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
