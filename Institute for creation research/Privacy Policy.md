@@ -95,31 +95,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Apologetics
+More Creation Science Update
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/seaturtlescry_1400x1050.jpg)](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty)
+[![](/i/Main%20Stage%20-%201400x1050/firevenusflytrap_1400x1050.jpg)](https://www.icr.org/article/fire-sensory-capabilities)
 
-[Why Do Female Sea Turtles Cry Salty Tears?](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty/)
+[Fire Sensory Capabilities of the Venus Flytrap](https://www.icr.org/article/fire-sensory-capabilities/)
 
-Life on a cruise ship can be wonderfully relaxing, but perpetually living at sea has dangerous challenges—just ask a female sea turtle.1...
+Fascinating discoveries have been made regarding the amazing Venus flytrap (Dionaea muscipula).1 For example, all parts of this amazing plant...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/should_creationists_brook.jpg)](https://www.icr.org/article/should-creationists-brook-loss-of-a-trout)
+[![](/i/Main%20Stage%20-%201400x1050/bigbangunravel_1400x1050.jpg)](https://www.icr.org/article/big-bang-unraveling)
 
-[Should Creationists Brook Loss of a Trout?](https://www.icr.org/article/should-creationists-brook-loss-of-a-trout/)
+[New York Times Editorial: Big Bang Unraveling?](https://www.icr.org/article/big-bang-unraveling/)
 
-Should a freshwater stream be restored to make it habitable for a failing fish population such as brook trout?1 It makes sense that creationists...
+Two physicists have suggested in a recent New York Times guest editorial that Big Bang cosmology ‘may be starting to unravel.’1...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/Puffins_Fitted_Living.jpg)](https://www.icr.org/article/puffins/)
+[![](/i/Main%20Stage%20-%201400x1050/earliestfloweringplants_1400x1050.jpg)](https://www.icr.org/article/earliest-flowering-plants)
 
-[Puffins, Fitted for Living in Sea, Air, and Land](https://www.icr.org/article/puffins//)
+[Insects Pollinated Earth's Earliest Flowering Plants](https://www.icr.org/article/earliest-flowering-plants/)
 
-In order for tufted, horned, and Atlantic puffins to “be fruitful, multiply, and fill” specific habitats on Earth,1 they need...
+In Genesis 1 we read the land plants were created on Day 3 of the creation week, and living creatures were created on Days 5 and 6. This would include...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
