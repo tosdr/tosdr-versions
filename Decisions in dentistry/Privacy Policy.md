@@ -182,6 +182,18 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Subscribe to our emails before November 13 and get ![Subscribe to our emails before November 13 and get an EXCLUSIVE early Black Friday CE offer! This is BIGGER than our Black Friday promotion and it’s ONLY available to email subscribers. Simply click the link in our bio to subscribe today then check your inbox on November 13.⁠
+⁠
+Don’t miss the opportunity for EXTRA SAVINGS!⁠
+⁠
+You're going to LOVE how much you learn!⁠
+⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCB-OCySqtu/) 
+
 [Licensure compacts can significantly expand your c ![Licensure compacts can significantly expand your career options, allowing you to practice across state lines with ease. Learn how these compacts impact your mobility and ensure smoother transitions in the evolving world of oral healthcare. Link in bio.⁠
 ⁠
 ⁠
@@ -216,16 +228,6 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB1T8vjt9wc/) 
-
-[Happy Halloween!⁠ Remember to brush and floss to ![Happy Halloween!⁠
-Remember to brush and floss tonight (and EVERY night) 😉👻⁠
-Love,⁠
-Your Dentist⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #halloween #happyhalloween](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DByhbqDPTPy/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
