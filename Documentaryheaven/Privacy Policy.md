@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Tiniest Girl in the World](/wp-content/thumbnails/8354-100x70.jpg?x53432)
+* [![Modern Marvels – Water](/wp-content/thumbnails/3767)
     
-    The Tiniest Girl in the World
+    Modern Marvels – Water
     
-    Charlotte Garside is the tiniest girl in the world. When she was born she weighed less than 1 and a half pounds and was the size of a baby that was only 16 weeks old. Though only born four weeks prema](https://documentaryheaven.com/tiniest-girl-world/ "The Tiniest Girl in the World")
-* [![Banned from the Bible](/wp-content/thumbnails/3116-100x70.jpg?x53432)
+    Turn the tap on a surprisingly rich hour exploring the many mysteries of H2O.\* For over a decade, MODERN MARVELS has brought grand stories to life. \* The ultimate celebration and investigation of en](https://documentaryheaven.com/modern-marvels-water/ "Modern Marvels – Water")
+* [![Keith Moon: Final 24: His Final Hours](/wp-content/thumbnails/6668-100x70.png?x53432)
     
-    Banned from the Bible
+    Keith Moon: Final 24: His Final Hours
     
-    When Jesus was a boy, did he kill another child? Was Mary Magdalene a prostitute — or an apostle?Did Cain commit incest? Will there be an apocalypse or is this God’s trick to scare us?The answers](https://documentaryheaven.com/banned-from-the-bible/ "Banned from the Bible")
-* [![The Betrayed](/wp-content/thumbnails/187-100x70.png?x53432)
+    Final 24 documents the final moments of this rock star’s life. This compelling documentary series unlocks the hidden secrets, psychological flaws and events that result in the tragic deaths of famed n](https://documentaryheaven.com/keith-moon-final-24-his-final-hours/ "Keith Moon: Final 24: His Final Hours")
+* [![China: Inventing Innovation?](/wp-content/thumbnails/6623-100x70.jpg?x53432)
     
-    The Betrayed
+    China: Inventing Innovation?
     
-    Fergal Keane investigates how a terrible slaughter, three quarters of a century ago, has returned to haunt the relationship between Turkey and its western allies. For decades the Armenian people have](https://documentaryheaven.com/the-betrayed/ "The Betrayed")
-* [![UFOs Secret: Russian Roswell](/wp-content/thumbnails/1153-100x70.jpg?x53432)
+    China cannot maintain its historic economic growth unless it starts pushing innovation in ways that the United States has never imagined. One city in China has announced a program to create an army o](https://documentaryheaven.com/china-inventing-innovation/ "China: Inventing Innovation?")
+* [![Ebola: The Search for a Cure](/wp-content/thumbnails/9205-100x70.jpg?x53432)
     
-    UFOs Secret: Russian Roswell
+    Ebola: The Search for a Cure
     
-    A UFO crash site allegedly filmed by the Russian KGB in March of 1969 in the Sverdlovsk region of Russia. The footage was later obtained by documentary filmmakers who then published the movie, "The Se](https://documentaryheaven.com/ufos-secret-russian-roswell/ "UFOs Secret: Russian Roswell")
-* [![I Love My Bicycle](/wp-content/thumbnails/5560-100x70.jpg?x53432)
+    Nobody really knows where the Ebola virus comes from but whats even scarier is the fact that his recent outbreak is the worst Ebola epidemic the world has ever seen, with the current death toll claimi](https://documentaryheaven.com/ebola-search-cure/ "Ebola: The Search for a Cure")
+* [![The Human Mind](/wp-content/thumbnails/655-100x70.png?x53432)
     
-    I Love My Bicycle
+    The Human Mind
     
-    17-year-old Steve Crandall started a company called Fat Bald Men (FBM). It began as selling t-shirts type of thing and later turned into one of the most respected DIY bike companies in existence. This](https://documentaryheaven.com/i-love-my-bicycle/ "I Love My Bicycle")
+    In this three-part documentary, Robert Winston explores all aspects of the human mind - from how we learn, to how we're able to recognise faces and what makes one person 'click' with another.Episo](https://documentaryheaven.com/the-human-mind/ "The Human Mind")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
