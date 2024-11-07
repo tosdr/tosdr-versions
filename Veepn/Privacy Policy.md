@@ -1,4 +1,4 @@
-[![veepn home](/assets/aa200d8b/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/ede63e24/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -84,13 +84,14 @@
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/aa200d8b/images/flags/en.svg) en
+![en language](/assets/ede63e24/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/privacy-policy/)
 *  [Deutsch](https://veepn.com/de/privacy-policy/)
 *  [Español](https://veepn.com/es/privacy-policy/)
 *  [Français](https://veepn.com/fr/privacy-policy/)
 *  [ภาษาไทย](https://veepn.com/ar/privacy-policy/)
+*  [Indonesian](https://veepn.com/id/privacy-policy/)
 *  [हिन्दी](https://veepn.com/hi/privacy-policy/)
 *  [Italiano](https://veepn.com/it/privacy-policy/)
 *  [はじめる](https://veepn.com/jp/privacy-policy/)
@@ -363,7 +364,7 @@ This notice outlines the manner in which we, acting as a "Controller" under Conn
 
 _Last updated May 13, 2024_
 
-[![veepn home](/assets/aa200d8b/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/ede63e24/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
@@ -426,3 +427,17 @@ Earn Money
 [](https://www.facebook.com/VeepnVPN/)[](https://x.com/veepn/)[](https://www.tiktok.com/@veepnvpn/)[](https://www.reddit.com/r/VeePN_Security/)[](https://www.pinterest.com/VeePNvpn/)
 
 © 2024 VeePN. All Rights Reserved. Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama
+
+Best VPN deal
+
+2-year plan with 80% off
+
+00 Days
+
+00 Hours
+
+00 Minutes
+
+00 Seconds
+
+[Grab the Deal](https://order.veepn.com/pricing/?utm_source=site&utm_medium=deals&utm_campaign=discount-popup&utm_content=pop-up)
