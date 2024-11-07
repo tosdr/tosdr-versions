@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
+
+### [Ship Closeup – USS Astraeus](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
+
+docaharford November 7, 2024
+
+“Hope is the thing with feathers, that perches in the soul. And sings the tune without the words, and never stops at all.” –Emily Dickinson
+
+[Read More »](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-doz-finch-uss-gorkonphoenix-award/)
 
 ### [Award winner – Doz Finch, USS Gorkon(Phoenix Award)](https://www.starbase118.net/2024/award-winner-doz-finch-uss-gorkonphoenix-award/)
@@ -377,18 +389,6 @@ FltAdml. Tristan Wolf November 4, 2024
 Happy Halloween, ghosties and ghoulies! We hope you’re living it up with your candy, costumes, and revelry on this night of demons and devils! Thanks
 
 [Read More »](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/october-2024-post-counts/)
-
-### [October 2024 Post Counts](https://www.starbase118.net/2024/october-2024-post-counts/)
-
-amackenzie November 3, 2024
-
-October was a month of profound exploration and storytelling prowess within our distinguished Fleet. We saw a slight dip in our overall averages this month,
-
-[Read More »](https://www.starbase118.net/2024/october-2024-post-counts/)
 
 Ready to get started?
 ---------------------
