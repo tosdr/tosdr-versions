@@ -402,35 +402,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Live Election Results: Collin County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/collin-results.jpg?ve=1&tl=1)
+ [![Election 2024: Live updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182514215-scaled.jpg?ve=1&tl=1)
 
- ![Live Election Results: Collin County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/collin-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-collin-county-races-live)
+ ![Election 2024: Live updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182514215-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-results-congress-republicans-house-kamala-harris-concede)
 
-### [Live Election Results: Collin County races](https://www.fox4news.com/election/election-results-collin-county-races-live)
+Live Now
 
- [![Live Election Results: Denton County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/denton-results.jpg?ve=1&tl=1)
+### [Election 2024: Live updates](https://www.fox4news.com/news/election-results-congress-republicans-house-kamala-harris-concede)
 
- ![Live Election Results: Denton County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/denton-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-denton-county-races-live)
+ [![Prominent figures share reactions following Trump’s election win](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183219023.jpg?ve=1&tl=1)
 
-### [Live Election Results: Denton County races](https://www.fox4news.com/election/election-results-denton-county-races-live)
+ ![Prominent figures share reactions following Trump’s election win](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183219023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/world-leaders-react-trump-victory)
 
- [![Live Election Results: Dallas County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dallas-results.jpg?ve=1&tl=1)
+### [Prominent figures share reactions following Trump’s election win](https://www.fox4news.com/news/world-leaders-react-trump-victory)
 
- ![Live Election Results: Dallas County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dallas-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-dallas-county-races-live)
+ [![How North Texas voted in Cruz-Allred race vs. previous Senate races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110524-ktbc-cruz-hq-kdfweme002_20_28_46_1_mpg_00.13.22.30.jpg?ve=1&tl=1)
 
-### [Live Election Results: Dallas County races](https://www.fox4news.com/election/election-results-dallas-county-races-live)
+ ![How North Texas voted in Cruz-Allred race vs. previous Senate races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110524-ktbc-cruz-hq-kdfweme002_20_28_46_1_mpg_00.13.22.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/cruz-allred-voting-senate-trends-north-texas)
 
- [![Abbott’s school voucher plan now has more than enough support](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/6496-tz-texas-school-choice-_00.00.00.00.jpg?ve=1&tl=1)
+### [How North Texas voted in Cruz-Allred race vs. previous Senate races](https://www.fox4news.com/election/cruz-allred-voting-senate-trends-north-texas)
 
- ![Abbott’s school voucher plan now has more than enough support](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/6496-tz-texas-school-choice-_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/abbott-school-choice-vouchers-election-support)
+ [![2024 Presidential Election: How North Texas counties voted compared to past elections](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/president-vote.jpg?ve=1&tl=1)
 
-### [Abbott’s school voucher plan now has more than enough support](https://www.fox4news.com/news/abbott-school-choice-vouchers-election-support)
+ ![2024 Presidential Election: How North Texas counties voted compared to past elections](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/president-vote.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/2024-presidential-election-north-texas-past-elections)
 
- [![Live Election Results: Tarrant County races](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/tarrant-results.jpg?ve=1&tl=1)
+### [2024 Presidential Election: How North Texas counties voted compared to past elections](https://www.fox4news.com/election/2024-presidential-election-north-texas-past-elections)
 
- ![Live Election Results: Tarrant County races](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/tarrant-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-results-tarrant-county-2024-live)
+ [![H-E-B, Central Market host annual Feast of Sharing Holiday Dinner in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-alex-heb-feast-of-sharing-in-fw-5p_00.00.04.48.jpg?ve=1&tl=1)
 
-### [Live Election Results: Tarrant County races](https://www.fox4news.com/election/election-results-tarrant-county-2024-live)
+ ![H-E-B, Central Market host annual Feast of Sharing Holiday Dinner in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-alex-heb-feast-of-sharing-in-fw-5p_00.00.04.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/h-e-b-central-market-host-annual-feast-sharing-holiday-dinner-fort-worth)
+
+### [H-E-B, Central Market host annual Feast of Sharing Holiday Dinner in Fort Worth](https://www.fox4news.com/news/h-e-b-central-market-host-annual-feast-sharing-holiday-dinner-fort-worth)
 
 ###### [News](https://www.fox4news.com/news)
 
