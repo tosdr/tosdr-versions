@@ -1,5 +1,5 @@
 * [Download stable (14.1)](https://www.openttd.org/downloads/openttd-releases/latest.html)
-* [Download nightly (20241105)](https://www.openttd.org/downloads/openttd-nightlies/latest.html)
+* [Download nightly (20241107)](https://www.openttd.org/downloads/openttd-nightlies/latest.html)
 
 [![OpenTTD](/static/img/layout/openttd-logo.png)](https://www.openttd.org/)
 
