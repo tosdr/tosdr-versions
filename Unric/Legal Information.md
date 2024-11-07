@@ -147,6 +147,12 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
+
+### [UNRIC Info Point & Library Newsletter: November 2024](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
+
+07/11/2024
+
  [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 ### [UNRIC Info Point & Library Newsletter: October 2024](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
@@ -171,18 +177,12 @@ The information will be used internally only for web site traffic analysis. If t
 
 20/08/2024
 
- [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
-
-### [UNRIC Info Point & Library Newsletter: August 2024](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
-
-12/08/2024
-
 [Load more](#)
 
 #### Publications
 
-* [November 2024](https://unric.org/en/2024/11/) (4)
-* [October 2024](https://unric.org/en/2024/10/) (39)
+* [November 2024](https://unric.org/en/2024/11/) (6)
+* [October 2024](https://unric.org/en/2024/10/) (38)
 * [September 2024](https://unric.org/en/2024/09/) (34)
 * [August 2024](https://unric.org/en/2024/08/) (12)
 * [July 2024](https://unric.org/en/2024/07/) (24)
