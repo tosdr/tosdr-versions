@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs WI - Live](https://www.cricbuzz.com/live-cricket-scores/95160/eng-vs-wi-3rd-odi-england-tour-of-west-indies-2024 "England v West Indies, 3rd ODI - Live")[AFG vs BAN - AFG Won](https://www.cricbuzz.com/live-cricket-scores/108769/afg-vs-ban-1st-odi-afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh, 1st ODI - AFG Won")[SYSW vs HBHW - SYSW Won](https://www.cricbuzz.com/live-cricket-scores/101331/sysw-vs-hbhw-15th-match-womens-big-bash-league-2024 "Sydney Sixers Women v Hobart Hurricanes Women, 15th Match - SYSW Won")[BEN vs KAR - Stumps](https://www.cricbuzz.com/live-cricket-scores/97619/ben-vs-kar-elite-group-c-ranji-trophy-elite-2024-25 "Bengal v Karnataka, Elite Group C - Stumps")[TN vs ASM - Stumps](https://www.cricbuzz.com/live-cricket-scores/97646/tn-vs-asm-elite-group-d-ranji-trophy-elite-2024-25 "Tamil Nadu v Assam, Elite Group D - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs WI - Live](https://www.cricbuzz.com/live-cricket-scores/95160/eng-vs-wi-3rd-odi-england-tour-of-west-indies-2024 "England v West Indies, 3rd ODI - Live")[INDA vs AUSA - Live](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 2nd unofficial Test - Live")[SYTW vs BRHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101332/sytw-vs-brhw-16th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Brisbane Heat Women, 16th Match - Preview")[UAE vs OMAN - Preview](https://www.cricbuzz.com/live-cricket-scores/108935/uae-vs-oman-46th-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Oman, 46th Match - Preview")[BEN vs KAR - Stumps](https://www.cricbuzz.com/live-cricket-scores/97619/ben-vs-kar-elite-group-c-ranji-trophy-elite-2024-25 "Bengal v Karnataka, Elite Group C - Stumps")
 
 AllLive NowToday
 
@@ -86,11 +86,7 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [Nepal vs Scotland](https://www.cricbuzz.com/live-cricket-scores/107052/nep-vs-sco-44th-match-icc-cwc-league-two-2023-27 "Nepal v Scotland, 44th Match - No Result")
-    
-    44th Match
-    
-* [Netherlands vs Oman](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cwc-league-two-2023-27 "Netherlands v Oman, 45th Match - OMAN Won")
+    [Netherlands vs Oman](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cwc-league-two-2023-27 "Netherlands v Oman, 45th Match - OMAN Won")
     
     45th Match
     
@@ -130,18 +126,6 @@ AllLive NowToday
     
     Elite Group D
     
-* [Hyderabad vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97608/hyd-vs-raj-elite-group-b-ranji-trophy "Hyderabad v Rajasthan, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Himachal Pradesh vs Vidarbha](https://www.cricbuzz.com/live-cricket-scores/97599/hp-vs-vid-elite-group-b-ranji-trophy "Himachal Pradesh v Vidarbha, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Delhi vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97655/del-vs-cdg-elite-group-d-ranji-trophy "Delhi v Chandigarh, Elite Group D - Stumps")
-    
-    Elite Group D
-    
 * [Puducherry vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/97590/pdc-vs-guj-elite-group-b-ranji-trophy "Puducherry v Gujarat, Elite Group B - Stumps")
     
     Elite Group B
@@ -166,17 +150,29 @@ AllLive NowToday
     
     Elite Group C
     
+* [Hyderabad vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97608/hyd-vs-raj-elite-group-b-ranji-trophy "Hyderabad v Rajasthan, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Himachal Pradesh vs Vidarbha](https://www.cricbuzz.com/live-cricket-scores/97599/hp-vs-vid-elite-group-b-ranji-trophy "Himachal Pradesh v Vidarbha, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Delhi vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97655/del-vs-cdg-elite-group-d-ranji-trophy "Delhi v Chandigarh, Elite Group D - Stumps")
+    
+    Elite Group D
+    
 * Ranji Trophy Plate
     
     [Sikkim vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98157/skm-vs-ngl-plate-ranji-trophy-plate "Sikkim v Nagaland, Plate - Stumps")
     
     Plate
     
-* [Goa vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98152/goa-vs-miz-plate-ranji-trophy-plate "Goa v Mizoram, Plate - Stumps")
+* [Manipur vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98143/mnp-vs-arnp-plate-ranji-trophy-plate "Manipur v Arunachal Pradesh, Plate - Stumps")
     
     Plate
     
-* [Manipur vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98143/mnp-vs-arnp-plate-ranji-trophy-plate "Manipur v Arunachal Pradesh, Plate - Stumps")
+* [Goa vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98152/goa-vs-miz-plate-ranji-trophy-plate "Goa v Mizoram, Plate - Stumps")
     
     Plate
     
@@ -216,7 +212,7 @@ AllLive NowToday
     
 * Australia A v India A
     
-    [Australia A vs India A](https://www.cricbuzz.com/live-cricket-scores/96539/ausa-vs-inda-2nd-unofficial-test-australia-a-v-india-a "Australia A v India A, 2nd unofficial Test - Preview")
+    [India A vs Australia A  LIVE](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-australia-a-v-india-a "India A v Australia A, 2nd unofficial Test - Live")
     
     2nd unofficial Test
     
@@ -275,6 +271,10 @@ AllLive NowToday
 * [Hong Kong Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/109190/hkw-vs-mmrw-4th-match-china-womens-t20i-quadrangular-series "Hong Kong Women v Myanmar Women, 4th Match - Upcoming")
     
     4th Match
+    
+* [China Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/109194/chnw-vs-mmrw-5th-match-china-womens-t20i-quadrangular-series "China Women v Myanmar Women, 5th Match - Upcoming")
+    
+    5th Match
     
 
 Privacy Policy
@@ -587,37 +587,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Allah Ghazanfar picks six as Bangladesh implode in chase](https://www.cricbuzz.com/cricket-news/132344/allah-ghazanfar-picks-six-as-bangladesh-implode-in-chase "Allah Ghazanfar picks six as Bangladesh implode in chase")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132343/ganguly-and-my-wife-pushed-me-to-play-on-for-another-season-saha "Ganguly and my wife pushed me to play on for another season: Saha")
 
 [Ganguly and my wife pushed me to play on for another season: Saha](https://www.cricbuzz.com/cricket-news/132343/ganguly-and-my-wife-pushed-me-to-play-on-for-another-season-saha "Ganguly and my wife pushed me to play on for another season: Saha")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132342/the-vast-stark-differences-between-south-africa-and-india "The vast, stark differences between South Africa and India")
 
 [The vast, stark differences between South Africa and India](https://www.cricbuzz.com/cricket-news/132342/the-vast-stark-differences-between-south-africa-and-india "The vast, stark differences between South Africa and India")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132341/shreyas-iyer-returns-from-a-weeks-rest-with-fiery-century "Shreyas Iyer returns from a week's rest with fiery century")
 
 [Shreyas Iyer returns from a week's rest with fiery century](https://www.cricbuzz.com/cricket-news/132341/shreyas-iyer-returns-from-a-weeks-rest-with-fiery-century "Shreyas Iyer returns from a week's rest with fiery century")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132340/perrys-62-ball-86-powers-sydney-sixers-to-second-win "Perry's 62-ball 86 powers Sydney Sixers to second win")
 
 [Perry's 62-ball 86 powers Sydney Sixers to second win](https://www.cricbuzz.com/cricket-news/132340/perrys-62-ball-86-powers-sydney-sixers-to-second-win "Perry's 62-ball 86 powers Sydney Sixers to second win")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132339/asalanka-remains-as-captain-shanaka-and-chameera-continue-to-miss-out "Asalanka remains as captain, Shanaka and Chameera continue to miss out ")
 
 [Asalanka remains as captain, Shanaka and Chameera continue to miss out](https://www.cricbuzz.com/cricket-news/132339/asalanka-remains-as-captain-shanaka-and-chameera-continue-to-miss-out "Asalanka remains as captain, Shanaka and Chameera continue to miss out ")
 
-9h ago
+15h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
