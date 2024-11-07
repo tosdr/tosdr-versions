@@ -190,15 +190,6 @@
 
 Subscribe
 
-[#### Fitness](https://www.healthline.com/fitness)
-
-* [Exercise](https://www.healthline.com/fitness/exercise)
-* [Cardio](https://www.healthline.com/fitness/cardio)
-* [Products](https://www.healthline.com/fitness/products)
-* [Strength Training](https://www.healthline.com/fitness/strength-training)
-* [Yoga](https://www.healthline.com/fitness/yoga)
-* [Holistic Fitness](https://www.healthline.com/fitness/holistic-fitness)
-
 Privacy Policy
 ==============
 
