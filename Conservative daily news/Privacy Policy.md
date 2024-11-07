@@ -182,16 +182,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Obscure Object of Desire – S&W Regulation Police .32 S&W Long](https://www.thegunpage.com/obscure-object-of-desire-sw-regulation-police-32-sw-long/10611708)
+* [Why Kamala Harris Lost](https://www.thegunpage.com/why-kamala-harris-lost/10611705)
+* [Winchester Supreme Optics Launches Scope Line](https://www.thegunpage.com/winchester-supreme-optics-launches-scope-line/10611706)
+* [Competition Ultimate Practice Shooting System: Shooting Inside](https://www.thegunpage.com/competition-ultimate-practice-shooting-system-shooting-inside/10611704)
+* [Recapping The CMP New England Games: Most Colorful Competition Yet](https://www.thegunpage.com/recapping-the-cmp-new-england-games-most-colorful-competition-yet/10611707)
 * [Langdon Tactical Releases Slate Of Beretta 1301 Upgrades](https://www.thegunpage.com/langdon-tactical-releases-slate-of-beretta-1301-upgrades/10611700)
 * [U.S. Reps Introduce Measure Targeting Gun-Specific Merchant Category Code](https://www.thegunpage.com/u-s-reps-introduce-measure-targeting-gun-specific-merchant-category-code/10611697)
 * [JK Armament Now Selling HUB Booster Assembly](https://www.thegunpage.com/jk-armament-now-selling-hub-booster-assembly/10611701)
 * [Election 2024: A Great Night For America’s Gun Owners](https://www.thegunpage.com/election-2024-a-great-night-for-americas-gun-owners/10611695)
 * [White Flyer Website Has New Look](https://www.thegunpage.com/white-flyer-website-has-new-look/10611703)
-* [Pro-Gun Candidates Sweep Elections](https://www.thegunpage.com/pro-gun-candidates-sweep-elections/10611694)
-* [51 Cadets, 12 Teams Compete At Fourth Annual NRA Arizona State JROTC 3-Position Air Rifle Championship](https://www.thegunpage.com/51-cadets-12-teams-compete-at-fourth-annual-nra-arizona-state-jrotc-3-position-air-rifle-championship/10611702)
-* [TRUMP WINS!](https://www.thegunpage.com/trump-wins/10611693)
-* [My Favorite Appendix Carry Holsters](https://www.thegunpage.com/my-favorite-appendix-carry-holsters/10611691)
-* [POTD: U.S. Army Soldiers In Iraqi Kurdistan Region](https://www.thegunpage.com/potd-u-s-army-soldiers-in-iraqi-kurdistan-region/10611692)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,6 +233,7 @@ Contact Us
 
 Recent Comments
 
+* Caesar Avalos on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783047)
 * charles wilkins on [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/#comment-783044)
 * KayCee on [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/#comment-783041)
 * KayCee on [Fingers Crossed](https://www.conservativedailynews.com/2024/11/fingers-crossed/#comment-783040)
@@ -241,7 +242,6 @@ Recent Comments
 * charles wilkins on [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/#comment-783017)
 * Richard McDonough on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-783016)
 * Sundevil75 on [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/#comment-783007)
-* charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-783006)
 
 [Close](#)
 
