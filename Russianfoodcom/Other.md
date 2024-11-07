@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,10 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Галеты ржаные постные](https://www.russianfood.com/recipes/recipe.php?rid=138666)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -170,6 +166,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат с крабовыми палочками в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174752) |     |
+
+[![Фото к рецепту: Салат с крабовыми палочками в виде змеи](//img1.russianfood.com/dycontent/images_upl/750/sm_749278.jpg "Фото к рецепту: Салат с крабовыми палочками в виде змеи")](https://www.russianfood.com/recipes/recipe.php?rid=174752)
+
+Яркий салат с крабовыми палочками и кукурузой, оформленный в виде змеи, символа 2025 года, станет настоящей изюминкой вашего праздничного стола. Салат получается нежным и сочным. Украсьте новогодний стол этим замечательным блюдом и удивите гостей такой необычной подачей!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174752)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174752#comments) | 07.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат "Селёдка под шубой" в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174731) |     |
+
+[![Фото к рецепту: Салат "Селёдка под шубой" в виде змеи](//img1.russianfood.com/dycontent/images_upl/749/sm_748426.jpg "Фото к рецепту: Салат "Селёдка под шубой" в виде змеи")](https://www.russianfood.com/recipes/recipe.php?rid=174731)
+
+Оригинальный вариант традиционного салата "Сельдь под шубой", который не только удивит ваших гостей, но и подарит настоящее гастрономическое наслаждение. Сочетание селёдки и сладковатых отварных овощей создаёт поистине волшебный вкус. А подача в виде змеи на новогодний стол 2025 года не оставит никого равнодушным и заставит по-новому взглянуть на привычный салат "Селёдка под шубой".
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174731)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174731#comments) | 07.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Блеснуть при случае](https://www.russianfood.com/themes/?theme_id=12)<br><br>[Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) |     |
+
+[![Фото к рецепту: Стейки из форели на ольховой дощечке на гриле](//img1.russianfood.com/dycontent/images_upl/750/sm_749953.jpg "Фото к рецепту: Стейки из форели на ольховой дощечке на гриле")](https://www.russianfood.com/recipes/recipe.php?rid=174766)
+
+Стейки из форели – это всегда вкусно! А если их приготовить на гриле, в интересном маринаде, чуть подкопчёнными от дымка ольховой дощечки, доведя температуру внутри стейков ровно до 56 градусов, то результат может получиться действительно потрясающим! И именно таким рецептом я бы хотел с вами поделиться! Единственное, что хотелось бы отметить, – если вы в точности хотите повторить данный рецепт, подготовьте кулинарный термометр и заранее замочите ольховую дощечку. Приятного аппетита!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174766)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174766#comments) | 07.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -253,7 +291,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174342#comments) | 05.11.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174342#comments) | 05.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -339,48 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174699#comments) | 04.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Тёртый пирог "Лимонник"](https://www.russianfood.com/recipes/recipe.php?rid=174721) |     |
-
-[![Фото к рецепту: Тёртый пирог "Лимонник"](//img1.russianfood.com/dycontent/images_upl/749/sm_748222.jpg "Фото к рецепту: Тёртый пирог "Лимонник"")](https://www.russianfood.com/recipes/recipe.php?rid=174721)
-
-Лимонник - это очень нежное песочное тесто на сметане, ароматная начинка, как желе, с насыщенным лимонным вкусом, и хрустящая румяная корочка. Очень вкусный тёртый пирог с лимоном. Попробуйте, вам точно понравится.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174721)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_38 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174721#comments) | 04.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Гармоничная компания. Лучшие САЛАТЫ №24-45](https://www.russianfood.com/reading/?post_id=22825) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/745/sm_744311.jpg)](https://www.russianfood.com/reading/?post_id=22825)
-
-Слоёный салат с крабовыми палочками, сыром и кукурузой. Салат с апельсинами и сыром. Салат с чечевицей и овощами. Салат из свёклы с рыбными консервами. Салат с цветной капустой и кукурузой. Салат с креветками, грейпфрутом и моцареллой. Винегрет с фасолью и нутом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22825)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22825#comments) | 04.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Для солнечного настроения. Лучшие рецепты из ЯИЦ (17)](https://www.russianfood.com/reading/?post_id=22824) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/724/sm_723710.jpg)](https://www.russianfood.com/reading/?post_id=22824)
-
-Гнёзда из яиц с кабачком. Заварной торт "Решётчатый". Омлет с креветками. Яйца с крабовыми палочками, огурцами и кукурузой. Куриный суп с горошком и яйцами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22824)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22824#comments) | 04.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -452,8 +448,8 @@
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748533.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744099.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749348.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174597) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748464.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174526) |
-| [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Салат из сельди с картофелем и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [Салат из печёной тыквы и куриного филе](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра](https://www.russianfood.com/recipes/recipe.php?rid=174597) | [Тартар из сельди с авокадо](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) |
+| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748464.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744099.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749278.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) |
+| [Салат "Селёдка под шубой" в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [Тартар из сельди с авокадо](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Салат из печёной тыквы и куриного филе](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [Салат с крабовыми палочками в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +466,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(129)
+(142)
