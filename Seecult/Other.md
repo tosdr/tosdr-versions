@@ -428,11 +428,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd/tony-barthelemy-i-mastera.jpg?itok=z5LHNbkH)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20122013)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project/berlin.?itok=DjuQacM1)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/fejes.jpg?itok=174hNJ1I)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/richard-deacon.jpg?itok=6KHfvAlp)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -448,6 +448,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Žilnik, Vida Ognjenović i Milena Marković među akademicima](http://seecult.org/vest/zilnik-vida-ognjenovic-i-milena-markovic-medu-akademicima)
+* [Gordost i predrasude uz klasnu i rodnu nejednakost](http://seecult.org/vest/gordost-i-predrasude-uz-klasnu-i-rodnu-nejednakost)
 * [Otvorena 20. Slobodna zona – angažman da svet bude bolji](http://seecult.org/vest/otvorena-20-slobodna-zona-angazman-da-svet-bude-bolji)
 * [Otvoren Legat Milana Mladenovića](http://seecult.org/vest/otvoren-legat-milana-mladenovica)
 * [Šta zaista znači biti zajedno](http://seecult.org/vest/sta-zaista-znaci-biti-zajedno)
@@ -456,8 +458,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Mogućnost raja Mladena Kovačevića na 30. FAF-u](http://seecult.org/vest/mogucnost-raja-mladena-kovacevica-na-30-faf-u)
 * [Retrospektiva Jovana Kratohvila](http://seecult.org/vest/retrospektiva-jovana-kratohvila)
 * [28\. FKM – Mesto naše slodode](http://seecult.org/vest/28-fkm-mesto-nase-slodode)
-* [Slobodna zona za mlade](http://seecult.org/vest/slobodna-zona-za-mlade)
-* [Dualnost Milene Pavlović Barili](http://seecult.org/vest/dualnost-milene-pavlovic-barili)
 
 * [Konkursi](#tab1_1)
 
