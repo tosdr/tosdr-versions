@@ -1,9 +1,3 @@
-[Clearly: Up to 50% off designer brands + Up to 10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/clearly?store=clearly&sourceName=sitewide-sticky-header)[Athleta: Kickoff to the holidays: 30% off fall favorites + 10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/athleta?store=athleta&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
@@ -379,7 +373,7 @@ FR
         
         10% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
-        10% Cash Back](https://www.rakuten.ca/petsmart)[TEMU
+        2% Cash Back](https://www.rakuten.ca/petsmart)[TEMU
         
         10% Cash Back](https://www.rakuten.ca/temu)[Rover
         
