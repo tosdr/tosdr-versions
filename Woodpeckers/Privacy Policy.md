@@ -210,6 +210,8 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1729782419/fro
 * [Home](https://www.woodpeck.com/ "Go to Home Page")
 * **Privacy Policy**
 
+Our systems are currently experiencing some minor delays. Order processing may take longer than normal.
+
 WOODPECKERS, LLC AND WOODPECK.COM PRIVACY POLICY
 ================================================
 
