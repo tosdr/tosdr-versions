@@ -228,11 +228,13 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The mystery of the black balls that washed up on some of Sydney's beaches has been solved annnnnd you're going to want to take your chances with Oz's cuddly flora and fauna](https://www.fark.com/goto/13455168) ( [cnn.com](https://www.fark.com/goto/13455168) ) » [(5 comments)](https://www.fark.com/comments/13455168/The-mystery-of-black-balls-that-washed-up-on-some-of-Sydneys-beaches-has-been-solved-annnnnd-youre-going-to-want-to-take-your-chances-with-Ozs-cuddly-flora-fauna) |
-| [Discussion](https://www.fark.com/discussion/) | [1A) Am I now, or have I ever, in fact, been dead?](https://www.fark.com/goto/13455134) ( [theguardian.com](https://www.fark.com/goto/13455134) ) » [(1 comment)](https://www.fark.com/comments/13455134/-1A-Am-I-now-have-I-ever-in-fact-been-dead) |
-| [Sports](https://www.fark.com/sports/) | [32-year-old Neymar's stint in Saudi League determined to be dud due to chronic injuries, so Al-Hilal hopes to dump him and replace him with reliable 39-year-old Saudi League legend Cristiano Ronaldo](https://www.fark.com/goto/13454990) ( [worldsoccertalk.com](https://www.fark.com/goto/13454990) ) » [(0 comments)](https://www.fark.com/comments/13454990/-32-year-old-Neymars-stint-in-Saudi-League-determined-to-be-dud-due-to-chronic-injuries-so-Al-Hilal-hopes-to-dump-him-replace-him-with-reliable-39-year-old-Saudi-League-legend-Cristiano-Ronaldo) |
-| [Business](https://www.fark.com/business/) | [E.l.f. shares soar. But a 40% bump in sales is any company's buddy](https://www.fark.com/goto/13455140) ( [cnbc.com](https://www.fark.com/goto/13455140) ) » [(0 comments)](https://www.fark.com/comments/13455140/Elf-shares-soar-But-a-40-bump-in-sales-is-any-companys-buddy) |
-| [STEM](https://www.fark.com/stem/) | [European CEOs demonstrating net zero intelligence](https://www.fark.com/goto/13455128) ( [theregister.com](https://www.fark.com/goto/13455128) ) » [(1 comment)](https://www.fark.com/comments/13455128/European-CEOs-demonstrating-net-zero-intelligence) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Woman gets paid $1000/session for work that netted Stormy Daniels $130,000](https://www.fark.com/goto/13455094) ( [metro.co.uk](https://www.fark.com/goto/13455094) ) » [(3 comments)](https://www.fark.com/comments/13455094/Woman-gets-paid-$1000session-for-work-that-netted-Stormy-Daniels-$130000) |
-| [Fandom](https://www.fark.com/fandom/) | [Sadly, the failure of Borderlands did nothing to hurt Take 2, actually helped them sell more games](https://www.fark.com/goto/13455136) ( [gamesradar.com](https://www.fark.com/goto/13455136) ) » [(2 comments)](https://www.fark.com/comments/13455136/Sadly-failure-of-Borderlands-did-nothing-to-hurt-Take-2-actually-helped-them-sell-more-games) |
-| [D'awww](https://www.fark.com/dawww/) | [A touching tribute to a bright, charismatic, artistic soul, even if Elon did joke about it](https://www.fark.com/goto/13455032) ( [calgaryherald.com](https://www.fark.com/goto/13455032) ) » [(2 comments)](https://www.fark.com/comments/13455032/A-touching-tribute-to-a-bright-charismatic-artistic-soul-even-if-Elon-did-joke-about-it) |
-| [Food](https://www.fark.com/food/) | [Cookie fries. You're (we're) going to need multiple glasses of ice cold whole milk, stat](https://www.fark.com/goto/13455192) ( [thetakeout.com](https://www.fark.com/goto/13455192) ) » [(0 comments)](https://www.fark.com/comments/13455192/Cookie-fries-Youre-were-going-to-need-multiple-glasses-of-ice-cold-whole-milk-stat) |
-| [Politics](https://www.fark.com/politics/) | [Trump is going to use the shiattier, lazier cousin of Project 2025 as his platform, where loyalty reigns supreme](https://www.fark.com/goto/13455044) ( [mediaite.com](https://www.fark.com/goto/13455044) ) » [(13 comments)](https://www.fark.com/comments/13455044/Trump-is-going-to-use-shiattier-lazier-cousin-of-Project-2025-as-his-platform-where-loyalty-reigns-supreme) |
+| [Main](https://www.fark.com/) | [Woman's $25,000 fish poisoned by detergent after she goes all in on fight with neighbors who thought they could turn the tide and gain victory](https://www.fark.com/goto/13455462) ( [metro.co.uk](https://www.fark.com/goto/13455462) ) » [(7 comments)](https://www.fark.com/comments/13455462/Womans-$25000-fish-poisoned-by-detergent-after-she-goes-all-in-on-fight-with-neighbors-who-thought-they-could-turn-tide-gain-victory) |
+| [Discussion](https://www.fark.com/discussion/) | [Hello, I'm from the government and I'm here to help keep you from being lonely and isolated. Here's $326 million](https://www.fark.com/goto/13455626) ( [koreaherald.com](https://www.fark.com/goto/13455626) ) » [(0 comments)](https://www.fark.com/comments/13455626/Hello-Im-from-government-Im-here-to-help-keep-you-from-being-lonely-isolated-Heres-$326-million) |
+| [Sports](https://www.fark.com/sports/) | [Beside the 1,100 touchless toilets in the new LA Clippers $2 billion dollar stadium, instead of audio of the game, they will be greeted by music. POP music. Why? "to get them back to their damn seats" according to the owner](https://www.fark.com/goto/13455348) ( [nbclosangeles.com](https://www.fark.com/goto/13455348) ) » [(9 comments)](https://www.fark.com/comments/13455348/Beside-1100-touchless-toilets-in-new-LA-Clippers-$2-billion-dollar-stadium-instead-of-audio-of-game-they-will-be-greeted-by-music-POP-music-Why-to-get-them-back-to-their-damn-seats-according-to-owner) |
+| [Business](https://www.fark.com/business/) | [Hey Hertz, what part of "unlimited mileage" do you not understand?](https://www.fark.com/goto/13455380) ( [jalopnik.com](https://www.fark.com/goto/13455380) ) » [(3 comments)](https://www.fark.com/comments/13455380/Hey-Hertz-what-part-of-unlimited-mileage-do-you-not-understand) |
+| [STEM](https://www.fark.com/stem/) | [Giant meteor running a little late](https://www.fark.com/goto/13455470) ( [forbes.com](https://www.fark.com/goto/13455470) ) » [(2 comments)](https://www.fark.com/comments/13455470/Giant-meteor-running-a-little-late) |
+| [Entertainment](https://www.fark.com/entertainment/) | ['Emily in Paris' fans' worlds have apparently been shattered after finding out the show should actually be pronounced "Emily in Paris" (possible nsfw content on page)](https://www.fark.com/goto/13455350) ( [dailystar.co.uk](https://www.fark.com/goto/13455350) ) » [(6 comments)](https://www.fark.com/comments/13455350/Emily-in-Paris-fans-worlds-have-apparently-been-shattered-after-finding-out-show-should-actually-be-pronounced-Emily-in-Paris-possible-nsfw-content-on-page) |
+| [Fandom](https://www.fark.com/fandom/) | [90 Cats That Are Basically The Cuddly Therapy You Didn't Know You Needed](https://www.fark.com/goto/13455332) ( [boredpanda.com](https://www.fark.com/goto/13455332) ) » [(0 comments)](https://www.fark.com/comments/13455332/-90-Cats-That-Are-Basically-The-Cuddly-Therapy-You-Didnt-Know-You-Needed) |
+| [D'awww](https://www.fark.com/dawww/) | [90 Cats That Are Basically The Cuddly Therapy You Didn't Know You Needed](https://www.fark.com/goto/13455332) ( [boredpanda.com](https://www.fark.com/goto/13455332) ) » [(0 comments)](https://www.fark.com/comments/13455332/-90-Cats-That-Are-Basically-The-Cuddly-Therapy-You-Didnt-Know-You-Needed) |
+| [Food](https://www.fark.com/food/) | [Joy. Duh](https://www.fark.com/goto/13455602) ( [vinepair.com](https://www.fark.com/goto/13455602) ) » [(1 comment)](https://www.fark.com/comments/13455602/Joy-Duh) |
+| [Politics](https://www.fark.com/politics/) | [Team Trump: A 20-year ban on Ukraine joining NATO so Russia can re-arm and keep trying to finish the job. In exchange, Ukraine gets, um. Well, that's it, actually](https://www.fark.com/goto/13455568) ( [kyivpost.com](https://www.fark.com/goto/13455568) ) » [(29 comments)](https://www.fark.com/comments/13455568/Team-Trump-A-20-year-ban-on-Ukraine-joining-NATO-so-Russia-can-re-arm-keep-trying-to-finish-job-In-exchange-Ukraine-gets-um-Well-thats-it-actually) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 07 2024 08:44:12  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 07 2024 14:42:51  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
