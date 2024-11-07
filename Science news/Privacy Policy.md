@@ -91,19 +91,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [‘The Power of Prions’ explores misfolded proteins’ role in brain diseases](https://www.sciencenews.org/article/misfolded-proteins-brain-diseases)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")12 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")19 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [A digital exam reels in engraved scenes of Stone Age net fishing](https://www.sciencenews.org/article/engraved-scenes-stone-age-net-fishing)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")13 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")20 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [A huge, ancient Maya city has been found in southern Mexico](https://www.sciencenews.org/article/ancient-maya-city-found-southern-mexico)
             
-            By [Meghie Rodrigues](https://www.sciencenews.org/author/meghie-rodrigues "Posts by Meghie Rodrigues")17 hours ago
+            By [Meghie Rodrigues](https://www.sciencenews.org/author/meghie-rodrigues "Posts by Meghie Rodrigues")November 6, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
