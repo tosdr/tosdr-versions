@@ -167,7 +167,7 @@ We reserve the right to hide, delete or not post comments that contain: Vulgar o
 
 Last updated December 8, 2021
 
-[Have a comment on this page? Let us know.](mailto:webmaster@noaa.gov?subject=Comment%20about%20page%20at%20https://www.noaa.gov/protecting-your-privacy&body=I%20have%20a%20comment%20on%20the%20Web%20page%20at%20https://www.noaa.gov/protecting-your-privacy:)
+[Have a comment on this page? Let us know.](https://www.noaa.gov/noaa_landing_page/comment_modal?email=webmaster%40noaa.gov&url=https%3A%2F%2Fwww.noaa.gov%2Fprotecting-your-privacy)
 
 [NOAA Home](https://www.noaa.gov/)
 
@@ -202,4 +202,4 @@ Science. Service. Stewardship.
 
 [NOAA on Twitter](https://twitter.com/NOAA) [NOAA on Facebook](https://www.facebook.com/NOAA) [NOAA on Instagram](https://www.instagram.com/noaa) [NOAA on YouTube](https://www.youtube.com/usnoaagov)
 
-[Back to top](#top--jNEpbWYqtFw "Back to top")
+[Back to top](#top--1Q69Qpn-48Q "Back to top")
