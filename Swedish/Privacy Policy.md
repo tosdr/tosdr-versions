@@ -79,7 +79,7 @@ We'll use your location to find clinics, hospitals and doctors closest to you.
 
 National IV Fluid Shortage
 
-Like many other health systems in the U.S., Swedish has been impacted by the national IV fluid shortage. We're taking a variety of measures to conserve supply, including using alternative fluids and solutions as clinically appropriate and indicated. All patients will still receive the highest quality standards of care during this emergency. Patients with an urgent medical need should not delay care. [Learn more.](https://blog.swedish.org/swedish-news/how-providence-swedish-is-responding-to-the-national-iv-shortage)
+Like many other health systems in the U.S., Swedish has been impacted by the national IV fluid shortage. Patients with an urgent medical need should not delay care. [Learn more.](https://blog.swedish.org/swedish-news/how-providence-swedish-is-responding-to-the-national-iv-shortage)
 
 Terms of Use & Privacy Policy
 =============================
