@@ -57,7 +57,7 @@
     
 * [Society of Strong Coffee](https://www.deathwishcoffee.com/pages/subscription)
 * [Ritual Rewards](https://www.deathwishcoffee.com/pages/ritual-rewards)
-* [Account](https://www.deathwishcoffee.com/account/)
+* [Account](https://www.deathwishcoffee.com/account)
 * [Careers](https://www.deathwishcoffee.com/pages/careers)
 * [Help & FAQs](https://www.deathwishcoffee.com/pages/help)
 * [Find In Store](https://www.deathwishcoffee.com/pages/storelocator)
