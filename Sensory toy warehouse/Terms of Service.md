@@ -131,7 +131,7 @@
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
 * [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
-Autumn 20% Sale! Use Code **STW20** at Checkout
+Save 50% on [Selected Sensory Integration Tools!](https://www.sensorytoywarehouse.com/product-category/sit/) Code: **SIT50!** at Checkout
 
 [![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.gif)
 
