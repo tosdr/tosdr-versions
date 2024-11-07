@@ -10,14 +10,14 @@ EN
 
 [Under Attack?](https://www.fastly.com/under-attack)[(844) 4FASTLY](tel:+18444327859)[Support Center](https://support.fastly.com/)[Log in](https://manage.fastly.com/)
 
-* Why Fastly
+* Why?
 * Products
 * Services
 * Solutions
-* Developers
+* Devs
 * Partners
 * Resources
-* [Pricing](https://www.fastly.com/pricing)
+* [Pricing & Activation](https://www.fastly.com/pricing)
 
 [Talk to an expert](https://www.fastly.com/contact-sales)[Try Fastly Free](https://www.fastly.com/signup)
 
