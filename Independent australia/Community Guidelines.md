@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Trump won … but wait, Albo just got another flight upgrade!](https://independentaustralia.net/article-display/trump-won-but-wait-albo-just-got-another-flight-upgrade,19149 "Permanent Link : Trump won … but wait, Albo just got another flight upgrade!")
+* [Trump Mark II: Chaos personified](https://independentaustralia.net/article-display/trump-mark-ii-chaos-personified,19148 "Permanent Link : Trump Mark II: Chaos personified")
 * [A blueprint for peace](https://independentaustralia.net/article-display/a-blueprint-for-peace,19146 "Permanent Link : A blueprint for peace")
 * ['Mean Streak' relives Robodebt horrors](https://independentaustralia.net/article-display/mean-streak-relives-robodebt-horrors,19145 "Permanent Link : 'Mean Streak' relives Robodebt horrors")
 * [John Shipton proclaims non-Western nations world's 'centre of gravity'](https://independentaustralia.net/article-display/john-shipton-proclaims-non-western-nations-worlds-centre-of-gravity,19143 "Permanent Link : John Shipton proclaims non-Western nations world's 'centre of gravity'")
 * [Nightshade empowers artists in the battle against unauthorised AI theft](https://independentaustralia.net/article-display/nightshade-empowers-artists-in-the-battle-against-unauthorised-ai-theft,19142 "Permanent Link : Nightshade empowers artists in the battle against unauthorised AI theft")
 * [BHP pays hefty price for deadly Brazilian dam disaster](https://independentaustralia.net/article-display/bhp-pays-hefty-price-for-deadly-brazilian-dam-disaster,19141 "Permanent Link : BHP pays hefty price for deadly Brazilian dam disaster")
-* [Win or lose, Donald Trump’s weird boys are pacing in the wings](https://independentaustralia.net/article-display/win-or-lose-donald-trumps-weird-boys-are-pacing-in-the-wings,19140 "Permanent Link : Win or lose, Donald Trump’s weird boys are pacing in the wings")
-* [Third stage of student visa boom grinds on in September](https://independentaustralia.net/article-display/third-stage-of-student-visa-boom-grinds-on-in-september,19139 "Permanent Link : Third stage of student visa boom grinds on in September")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
