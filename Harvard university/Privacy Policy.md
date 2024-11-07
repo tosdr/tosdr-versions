@@ -123,7 +123,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Voting
+    1. Tradition of Service
+        
+        In Focus
+        
+        **Tradition of Service** Harvard celebrates the long, proud legacy of students and alumni who answer the call to military service. [Explore Harvard's military legacy](https://www.harvard.edu/in-focus/veterans/)
+        
+        1. **What's inside**
+            1. [**Harvard and the military**](https://news.harvard.edu/gazette/story/series/harvard-and-the-military/)
+            2. [**The long Crimson line**](https://news.harvard.edu/gazette/story/2024/11/number-of-armed-services-veterans-at-harvard-on-the-rise/)
+        
+    2. Voting
         
         In Focus
         
@@ -133,7 +143,7 @@ Menu
             1. [**How AI is affecting elections**](https://ash.harvard.edu/articles/ai-and-the-2024-elections/)
             2. [**How polls become more accurate**](https://news.harvard.edu/gazette/story/2024/10/why-do-election-polls-seem-to-have-such-a-mixed-track-record/)
         
-    2. Forests
+    3. Forests
         
         In Focus
         
@@ -142,16 +152,6 @@ Menu
         1. **What's inside?**
             1. [**Urban forests can help cool cities**](https://www.gsd.harvard.edu/2023/10/the-forest-for-the-trees-and-the-birds-and-the-people-and-the-planet/)
             2. [**Forests can help offset carbon emissions**](https://news.harvard.edu/gazette/story/2022/11/new-report-shows-forests-have-big-role-to-play-in-climate-change-fight/)
-        
-    3. Harvard in the World
-        
-        In Focus
-        
-        **Harvard in the World** Harvard faculty, students, and alumni compose a global network that is exploring health, law, government, education, business, and more around the world. [Explore the globe](https://www.harvard.edu/in-focus/harvard-in-the-world/)
-        
-        1. **What's inside**
-            1. [**Journey to the Amazon**](https://news.harvard.edu/gazette/story/2024/10/journey-to-a-key-front-in-climate-change-fight/)
-            2. [**Learn about Worldwide Week at Harvard**](https://worldwide.harvard.edu/worldwide-week-harvard-2024)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
