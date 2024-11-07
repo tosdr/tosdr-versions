@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-As for the proxy service, I've never had a problem. Works great.
+Thank you very much. Good services!
 
-Gary Meiser
+Gil Lessard
