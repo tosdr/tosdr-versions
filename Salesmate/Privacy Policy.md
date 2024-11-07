@@ -1,6 +1,6 @@
 ![fbpx](https://www.facebook.com/tr?id=2980429715595154&ev=PageView&noscript=1)                 
 
-**Salesmate Webinar:** Summer Release - Unveiling exciting updates & features on 18th Jul 2024, Thursday at 1:00 PM EST. [Reserve your spot.](https://events.teams.microsoft.com/event/49591b12-396f-4d74-9c43-f9235cd67139@5260ca83-794f-4236-9409-32e44c6d6781)
+Get 10% off on all Salesmate annual plans. Paste the the code **"BLACKFRIDAY24"** at the check out. [Try Salesmate NOW!](https://www.salesmate.io/?registration=true)
 
   [![salesmate](https://www.salesmate.io/wp-content/uploads/2024/03/sm-logo-crm-update.svg)](https://www.salesmate.io/)
 
@@ -309,7 +309,7 @@ Encrypt your every session with Salesmate CRM.
 
 Connect
 
-  [![salesmate](https://www.salesmate.io/wp-content/uploads/2024/03/sm-logo-crm-update.svg)](https://www.salesmate.io/)
+ [![salesmate](https://www.salesmate.io/wp-content/uploads/2024/10/halloween-logo-salesmate_latest@2x.png)](https://www.salesmate.io/)
 
 * [All-in-One CRM](https://www.salesmate.io/all-in-one-crm/)
 * [Pricing](https://www.salesmate.io/pricing/)
