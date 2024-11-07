@@ -20,6 +20,11 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The arches on America Street are opposite the America House apartment block.
+    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
+    
+    ### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
+    
     [![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
     
     ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
@@ -51,10 +56,6 @@
     [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
     
     ### [Bakerloo Line extension on the slow track to nowhere](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
-    
-    [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
-    
-    ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +106,11 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The arches on America Street are opposite the America House apartment block.
+    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
+    
+    ### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
+    
     [![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
     
     ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
@@ -136,10 +142,6 @@ View All Result
     [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
     
     ### [Bakerloo Line extension on the slow track to nowhere](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-on-the-slow-track-to-nowhere/)
-    
-    [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
-    
-    ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +245,13 @@ Terms of Use
 
 ### Featured Articles
 
+[![The arches on America Street are opposite the America House apartment block.
+CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-120x86.jpg)](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
+
+### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
+
+[7th November 2024](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
+
 [![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
 
 ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
@@ -272,12 +281,6 @@ Terms of Use
 ### [Individual boilers vs District heating: Leaseholder claims installing individual boilers on Peckham estate would have saved taxpayer £23 million](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
 
 [6th November 2024](https://southwarknews.co.uk/area/peckham/individual-boilers-vs-district-heating-leaseholder-claims-installing-individual-boilers-on-peckham-estate-would-have-saved-taxpayer-23-million/)
-
-[![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
-### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
-[5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
 
 ### USEFUL PAGES
 
