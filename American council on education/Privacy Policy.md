@@ -200,10 +200,6 @@ Sponsorship Opportunities
 * [Donate](https://www.acenet.edu/Membership-Advancement/Pages/Advancement/Donate-Now.aspx)
     
 
-[Statement by ACE President Ted Mitchell on the Election of Donald J. Trump](https://www.acenet.edu/News-Room/Pages/Statement-Election-Donald-J-Trump.aspx)
-
-Homepage
-
 Rollup Image
 
 [American Council on Education](https://www.acenet.edu/Pages/default.aspx "​The American Council on Education (ACE) is a membership organization that mobilizes the higher education community to shape effective public policy and foster innovative, high-quality practice. ")  Privacy Policy for the American Council on Education
