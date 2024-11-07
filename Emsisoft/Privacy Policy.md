@@ -454,9 +454,9 @@ Yes. Please download and sign the [Emsisoft Data Processing Agreement](https://w
 [© 2003-2024 Emsisoft - 11/07/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
 
 * [English](#)
-    * [English](https://www.emsisoft.com/en/privacy/?ref=news241106_all_en)
-    * [Deutsch](https://www.emsisoft.com/de/privacy/?ref=news241106_all_en)
-    * [Français](https://www.emsisoft.com/fr/?ref=news241106_all_en)
+    * [English](https://www.emsisoft.com/en/privacy/)
+    * [Deutsch](https://www.emsisoft.com/de/privacy/)
+    * [Français](https://www.emsisoft.com/fr/)
     * [Emsisoft  
         worldwide](https://www.emsisoft.com/en/buy-local/)
 
