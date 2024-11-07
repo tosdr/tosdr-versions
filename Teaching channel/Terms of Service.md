@@ -19,7 +19,9 @@ K12 Coalition
 
 * [Cart](https://courses.teachingchannel.com/cart/items)
 
-[![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20298%2051'%3E%3C/svg%3E)
+
+![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
 
 * [Courses](https://www.teachingchannel.com/continuing-education-courses-for-teachers/)
     * [All Courses](#)
@@ -138,7 +140,9 @@ K12 Coalition
 
 [Shop Courses](https://courses.teachingchannel.com/courses/dl/all)
 
-[![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20298%2051'%3E%3C/svg%3E)
+
+![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
 
 [Video Library](https://learn.teachingchannel.com/user/login)
 
@@ -510,3 +514,9 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
 What are you looking for?
 
  Search
+
+This site uses cookies to enhance user experience, analyze site usage and provide a personalized browsing experience. By continuing to use this site, you are giving us your consent to do this. Learn more about cookies by visiting our [privacy policy](https://www.teachingchannel.com/privacy-policy/#cookies) page.
+
+[Learn More](https://www.teachingchannel.com/privacy-policy/#cookies)[I Agree](https://www.teachingchannel.com/)
+
+[Ok](#)
