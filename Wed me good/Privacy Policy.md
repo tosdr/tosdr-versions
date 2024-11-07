@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Mahek and Arjun](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Neha and Varun ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Mahek and Arjun](https://image.wedmegood.com/resized/250X/uploads/images/651de491e29043b0b9175a275f4a56a0realwedding/02_MEHAK_ARJUN_MEHANDI-5542.jpg?crop=159,687,1019,573)
+![Neha and Varun ](https://image.wedmegood.com/resized/250X/uploads/images/a94dc58cc0544d6481703a7829dba078realwedding/DSC02650Large.jpeg?crop=147,278,1013,569)
 
-Mahek and Arjun (Pune)](https://www.wedmegood.com/real_wedding/detail/mahek-and-arjun-pune-punjabi-sikh-wedding-4420)
+Neha and Varun (Bangalore)](https://www.wedmegood.com/real_wedding/detail/neha-and-varun-bangalore-telugu-wedding-4425)
 
-[![Disha and Sumanth](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Annu and Harkaran](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Disha and Sumanth](https://image.wedmegood.com/resized/250X/uploads/images/2e5a2654cc2945ada7d1647a31b80e36realwedding/MINCHU-156.jpeg?crop=182,1012,1633,918)
+![Annu and Harkaran](https://image.wedmegood.com/resized/250X/uploads/images/a031f5024e2e45faa2daaa56da0a6dc2realwedding/IMG_3968.JPG?crop=5,1064,1633,918)
 
-Disha and Sumanth (Bangalore)](https://www.wedmegood.com/real_wedding/detail/disha-and-sumanth-bangalore-kannada-wedding-4419)
+Annu and Harkaran (Delhi NCR)](https://www.wedmegood.com/real_wedding/detail/annu-and-harkaran-delhi-ncr-punjabi-sikh-wedding-4424)
 
 Browse by Category
 
