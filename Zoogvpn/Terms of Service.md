@@ -43,22 +43,8 @@ Search
 [English (worldwide)](https://zoogvpn.com/terms/)
 
 * [Français](https://zoogvpn.com/fr/terms/)
-* [Deutsch](https://zoogvpn.com/de/)
 * [Українська](https://zoogvpn.com/uk-ua/terms/)
-* [Русский](https://zoogvpn.com/ru-ru/)
-* [Русский (Украина)](https://zoogvpn.com/ru-ua/)
-* [Español](https://zoogvpn.com/es/)
-* [Nederland (Dutch)](https://zoogvpn.com/nl/)
-* [Italiano](https://zoogvpn.com/it-it/)
-* [Türkçe](https://zoogvpn.com/tr-tr/)
-* [العربية](https://zoogvpn.com/ar-sa/)
-* [العربية](https://zoogvpn.com/ar-eg/)
-* [العربية](https://zoogvpn.com/ar-ae/)
-* [中文 (中国)](https://zoogvpn.com/zh-cn/)
 * [Bahasa Indonesia](https://zoogvpn.com/id-id/terms/)
-* [한국어](https://zoogvpn.com/ko-kr/)
-* [Português](https://zoogvpn.com/pt/)
-* [Polski](https://zoogvpn.com/pl/)
 
 [![](https://zoogvpn.com/wp-content/uploads/2021/09/zoog-vpn-logo-dark.png)](https://zoogvpn.com/)
 
