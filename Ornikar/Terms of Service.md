@@ -1,5 +1,3 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6723ade3174c297206eaf569_Group%206413.png)
-
 0
 
 3
@@ -12,7 +10,21 @@ Jours
 
 Heures
 
-Jusqu'à -100€ sur les packs permis\* ! Jusqu'à jeudi 07/11 seulement ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+1
+
+5
+
+MIN
+
+1
+
+5
+
+sec
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/67077f8383d107b4942cfa2d_Badge%20DERNIERES%20HEURES.svg)
+
+Jusqu’à -100€\* sur les packs permis ! Jusqu'à ce soir 23h59 seulement. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -196,7 +208,7 @@ No items found.
 
 ‍[**_Voir les versions précédentes_**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#versions-precedentes)
 
-**Dernière mise à jour le 23 octobre 2024**
+**Dernière mise à jour le 6 novembre 2024**
 
 Les présentes conditions générales de vente ont pour objet de définir les modalités et conditions applicables à la vente en ligne des biens et services proposés sur le site internet [**www.ornikar.com**](https://www.ornikar.com/) édité par la société MARIANNE FORMATION, société par actions simplifiée au capital de 25.936,35 euros, dont le siège social se situe au 170 Boulevard de la Villette Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, disposant d’un établissement sis 12 rue Charles Brunellière à Nantes (44100) immatriculé au RCS de Nantes sous le numéro 799 351 887 00036, exerçant sous l’enseigne ORNIKAR, inscrite en tant qu’organisme de formation sous le numéro de déclaration d’activité 11 75 60689 75 et autorisée à exploiter, sous le numéro E16 044 0009 0, un établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière selon arrêté délivré le 31 mars 2016 et renouvelé le 2 février 2021. MARIANNE FORMATION est légalement représentée par Monsieur Benjamin Gaignault, son Président.
 
@@ -1575,7 +1587,7 @@ En cas de désaccord, conformément à l’article L. 612-1 du Code de la consom
 Annexe 1 – Grille tarifaire achats hors CPF
 -------------------------------------------
 
-Une tarification différente peut vous être appliquée en fonction de la zone géographique dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit : [**télécharger la grille tarifaire avec les différentes zones**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/670d1fc6109363c39e52a857_CGV%20-%2010%3A10%3A2024.pdf).
+Une tarification différente peut vous être appliquée en fonction de la zone géographique dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit : [**télécharger la grille tarifaire avec les différentes zones**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/672b69fa074b4f4921e53338_CGV%20Ornikar%20-%20Annexe%201%20-%20Grille%20tarifaire%20-%20Hors%20CPF%20-%2006_11_2024.pdf).
 
 ‍
 
@@ -1613,7 +1625,7 @@ _(\*) Rayez si mention inutile._
 Versions précédentes
 --------------------
 
-* [**Version en cours applicable depuis le 23 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6720f34c743f2e20a3a1a8f3_CGV%20Ornikar%20-%2023_10_2024.pdf)
+* [**Version applicable du 23 octobre 2024 au 5 novembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6720f34c743f2e20a3a1a8f3_CGV%20Ornikar%20-%2023_10_2024.pdf)
 * [**Version applicable du 10 octobre au 22 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6720f40778223a5d432acaf7_CGV%20Ornikar%20-%2010_10_2024.pdf)
 * [**Version applicable du 23 septembre 2024 au 09 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/670e695892e6dab5db961cfe_Copie%20de%20Renforce%CC%81%20sans%20code%20%2B%20rectifications%20-%2023%20septembre%202024%20-%20clean%20version.pdf)
 * [**Version applicable du 2 septembre 2024 au 22 septembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f131c92f26f5317dfcd356_CGV%20Ornikar%2002%3A09%3A2024.pdf)
