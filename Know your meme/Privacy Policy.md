@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Peanut the Squirrel](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel") [Hope This Helps](https://knowyourmeme.com/memes/hope-this-helps "Hope This Helps") [@lexiiivlogs\_ Screaming](https://knowyourmeme.com/memes/lexiiivlogs_-screaming-scream-2 "@lexiiivlogs_ Screaming")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [North Korean Soldiers Discovering Pornography](https://knowyourmeme.com/memes/north-korean-soldiers-discovering-pornography "North Korean Soldiers Discovering Pornography") [Peanut the Squirrel](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
