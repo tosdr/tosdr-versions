@@ -68,7 +68,7 @@ Check Availability - Mega menu (Upper)
             
         
     
-* [For Business](https://www.1800gotjunk.com/Commercial/Commercial_Services) Toggle submenu
+* [For Business](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services) Toggle submenu
     
     ### 
     
@@ -116,9 +116,9 @@ Check Availability - Mega menu (Upper)
             
         
     
-* [Pricing](https://www.1800gotjunk.com/how-our-pricing-works)
+* [Pricing](https://www.1800gotjunk.com/us_en/how-our-pricing-works)
     
-* [What We Take](https://www.1800gotjunk.com/what-we-take/what_we_take)
+* [What We Take](https://www.1800gotjunk.com/us_en/what-we-take/what_we_take)
     
 * [Start a Franchise](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
     
@@ -661,17 +661,17 @@ Teri Silveira Calgary 26/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great service. They were fast and gave me a great deal would highly recommend their services.
+super friendly & fast !
 
-Harry Tys Calgary 24/10/2024
+Callie Murray Calgary 24/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-super friendly & fast !
+Great service. They were fast and gave me a great deal would highly recommend their services.
 
-Callie Murray Calgary 24/10/2024
+Harry Tys Calgary 24/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -893,6 +893,22 @@ x x Madison 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+The best experience! They came on time, were very nice, and completed the removal very quickly.
+
+Zena Bania Columbus 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Arrived on time and did a great job!
+
+Paula Brake Columbus 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Quick, efficient, complete service.
 
 John Blanton Cincinnati 02/11/2024
@@ -949,30 +965,6 @@ Keaton S Naples 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kegan & Jordan were absolutely amazing!! We would give them more than 5 stars if we could.
-
-Haydn Hart Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Bo and Ronnie are superstars!
-
-David Zwiers Seattle 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Eaton and Bobby were wonderful!!
-
-Deb Andersen Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Jason & Diego very efficient, friendly. Highly recommend.
 
 Rita Flores LA Metro 02/11/2024
@@ -989,9 +981,9 @@ James Schuh Wisconsin 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The best experience! They came on time, were very nice, and completed the removal very quickly.
+Kegan & Jordan were absolutely amazing!! We would give them more than 5 stars if we could.
 
-Zena Bania Columbus 02/11/2024
+Haydn Hart Naples 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1005,25 +997,33 @@ Kyle Krueger Wisconsin 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Arrived on time and did a great job!
+Eaton and Bobby were wonderful!!
 
-Paula Brake Columbus 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Dylan and Davy were very helpful and fast got rid of everything in less than 5min
-
-Hanane Ahmed Seattle 01/11/2024
+Deb Andersen Naples 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Darrell and Mononio were great -worked hard, great customer service
+Bo and Ronnie are superstars!
 
-James Mangia LA Metro 01/11/2024
+David Zwiers Seattle 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Chaz and Noe were exceptional at their job! Explained pricing very well and took everything in an efficient and safe manner!
+
+Rene Ramirez Naples 01/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Dae and Antwone did amazing! So friendly :)
+
+Mia Oscarsson Seattle 01/11/2024
 
 ### 
 
