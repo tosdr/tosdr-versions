@@ -1,4 +1,4 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                        Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                                Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                        [Skip to content](#main)
 
 [Save Up to $300](https://www.radpowerbikes.com/pages/sales-deals "Save Up to $300")
 
@@ -179,9 +179,9 @@
     ##### [Brakes](https://www.radpowerbikes.com/collections/replacement-parts/Category_Brakes "Brakes") Brakes
     
     * [Brake Pads](https://www.radpowerbikes.com/collections/replacement-parts/Category_Brake_Pads "Brake Pads")
-    * [Brake Levers](https://www.radpowerbikes.com/collections/replacement-parts/Category_Brake_Levers "Brake Levers")
-    * [Brake Cable Kit](https://www.radpowerbikes.com/collections/replacement-parts/Category_Brake_Cable_Kit "Brake Cable Kit")
-    * [Brake Rotor](https://www.radpowerbikes.com/collections/replacement-parts/Category_Brake_Rotor "Brake Rotor")
+    * [Brake Levers](https://www.radpowerbikes.com/collections/replacement-parts/Category_BrakeLevers "Brake Levers")
+    * [Brake Cable Kit](https://www.radpowerbikes.com/collections/replacement-parts/Category_BrakeCableKit "Brake Cable Kit")
+    * [Brake Rotor](https://www.radpowerbikes.com/collections/replacement-parts/Category_BrakeRotor "Brake Rotor")
     
     ##### [Lights](https://www.radpowerbikes.com/collections/replacement-parts/category_replacement-lights "Lights") Lights
     
@@ -191,27 +191,28 @@
     ##### [Tires & Tubes](https://www.radpowerbikes.com/collections/replacement-parts/Category_Inner-tubes "Tires & Tubes") Tires & Tubes
     
     * [Tires](https://www.radpowerbikes.com/collections/replacement-parts/Category_Tires "Tires")
-    * [Tubes](https://www.radpowerbikes.com/collections/replacement-parts/Category_Inner_Tubes "Tubes")
+    * [Tubes](https://www.radpowerbikes.com/collections/replacement-parts/Category_InnerTubes "Tubes")
     
     ##### [Batteries & Chargers](https://www.radpowerbikes.com/collections/replacement-parts/Category_Batteries-&-Chargers "Batteries & Chargers") Batteries & Chargers
     
-    * [Legacy Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_Legacy_Battery "Legacy Battery")
-    * [External Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_External_Battery "External Battery ")
-    * [Semi-Integrated Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_Semi_Integrated "Semi-Integrated Battery")
-    * [Integrated Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_Integrated_Battery "Integrated Battery")
+    * [Legacy Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_LegacyBattery "Legacy Battery")
+    * [External Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_ExternalBattery "External Battery ")
+    * [Semi-Integrated Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_SemiIntegrated "Semi-Integrated Battery")
+    * [Integrated Battery](https://www.radpowerbikes.com/collections/replacement-parts/Category_IntegratedBattery "Integrated Battery")
+    * [Chargers](https://www.radpowerbikes.com/collections/replacement-parts/Category_Charger "Chargers")
     
     ##### [Drivetrain](https://www.radpowerbikes.com/collections/replacement-parts/Category_Drivetrain "Drivetrain") Drivetrain
     
-    * [Shifter Cable Kit](https://www.radpowerbikes.com/collections/replacement-parts/Category_Shift_Cable_Kit "Shifter Cable Kit")
+    * [Shifter Cable Kit](https://www.radpowerbikes.com/products/electric-bike-shifter-cable-kits "Shifter Cable Kit")
     * [Shifter](https://www.radpowerbikes.com/collections/replacement-parts/Category_Shifter "Shifter")
-    * [Crank Arm](https://www.radpowerbikes.com/collections/replacement-parts/Category_Crank_Arm "Crank Arm")
+    * [Crank Arm](https://www.radpowerbikes.com/collections/replacement-parts/Category_CrankArm "Crank Arm")
     * [Chain](https://www.radpowerbikes.com/collections/replacement-parts/Category_Chain "Chain")
     
     ##### [Kickstands](https://www.radpowerbikes.com/collections/replacement-parts/category_replacement-kickstands "Kickstands") Kickstands
     
-    ##### [Pedals](https://www.radpowerbikes.com/collections/replacement-parts/Collection_All_Models_Pedals "Pedals") Pedals
-    
     ##### [Saddles & Seats](https://www.radpowerbikes.com/collections/replacement-parts/Category_Saddles-%2F-Seats "Saddles & Seats") Saddles & Seats
+    
+    ##### [Pedals](https://www.radpowerbikes.com/collections/replacement-parts/Category_AllModelsPedals "Pedals") Pedals
     
     [##### Help Center
     
