@@ -152,14 +152,14 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 [Québécois 101 : Les questions avec « tu » en français québécois](https://wanderingfrench.com/qc-004/)
 ------------------------------------------------------------------------------------------------------
 
-8 393 visites
+8 395 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/04/quebecois-101-le-top-5-des-expre-125x70.jpg)](https://wanderingfrench.com/qc-009/ "Québécois 101 : Le top 5 des expressions québécoises")
 
 [Québécois 101 : Le top 5 des expressions québécoises](https://wanderingfrench.com/qc-009/)
 -------------------------------------------------------------------------------------------
 
-6 984 visites
+6 985 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/07/quebecois-101-8-expressions-queb-125x70.jpg)](https://wanderingfrench.com/qc012/ "Québécois 101 : 8 expressions québécoises inspirées du hockey")
 
