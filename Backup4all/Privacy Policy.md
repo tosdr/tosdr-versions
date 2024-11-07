@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup Terms Glossary](https://www.backup4all.com/backup-glossary-kb.html)  
+* [How to import backup jobs?](https://www.backup4all.com/how-to-import-backup-jobs-kb.html)  
     
-* [How to restore a backup using 7-Zip](https://www.backup4all.com/how-to-restore-a-backup-using-7-zip-kb.html)  
+* [Backup to Blu-ray](https://www.backup4all.com/backup-to-blu-ray-kb.html)  
     
-* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
+* [How to backup your data to Zettagrid](https://www.backup4all.com/how-to-backup-your-data-to-zettagrid-kb.html)  
     
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
     
-* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
+* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
     
 
 Choose language:
