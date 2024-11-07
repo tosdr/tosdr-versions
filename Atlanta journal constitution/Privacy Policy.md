@@ -14,7 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-the-varsity-sort-of-sells-out/D7A6CINKB5CY5EW3C2JAWSIBGY/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-nov-8-10/YU5OSCZVU5AVZE4QZI5F6YOJCQ/)
 * [Georgia Election Results](https://www.ajc.com/politics/election-results/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
@@ -44,11 +44,8 @@ Log In
     
 * [Politics](https://www.ajc.com/politics/)
     
-    * [Live Updates](https://www.ajc.com/politics/election/georgia-election-live-updates-harris-trump-face-historic-moment/UWOLNGNA4JHGPHGCDPL5R35KYM/)
-    * [Election Results](https://www.ajc.com/politics/election-results/)
-    * [Election 2024](https://www.ajc.com/politics/election/)
     * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
-    * [Georgia by the Numbers](https://www.ajc.com/politics/georgia-by-the-numbers/fulton/)
+    * [Election 2024](https://www.ajc.com/politics/election/)
     * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
     * [Legislative Navigator](https://www.ajc.com/politics/georgia-legislative-navigator/)
