@@ -186,6 +186,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Sunday Firesides: In Praise of Little Platoons](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
 
+[![A man and a boy are repairing a bicycle tire outside. Demonstrating the skills of successful fathers, the man carefully explains each step while the boy watches closely, eager to learn.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/some-reasons-why-some-men-are-successful-fathers/)
+
+[Some Reasons Why Some Men Are Successful Fathers](https://www.artofmanliness.com/people/fatherhood/some-reasons-why-some-men-are-successful-fathers/)
+
 [![Three people, including the great father-in-law, stand under a tree by a lake, with two benches nearby.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/father-in-law/)
 
 [How to Be a Great Father-in-Law](https://www.artofmanliness.com/people/fatherhood/father-in-law/)
@@ -197,10 +201,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A teenage son sitting on a bed wearing headphones, looking thoughtfully out of a window.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/get-your-son-out-of-his-bedroom/)
 
 [Get Your Son Out of His Bedroom](https://www.artofmanliness.com/people/fatherhood/get-your-son-out-of-his-bedroom/)
-
-[![A professional meeting with three individuals, where a woman appears to be addressing a man and a woman from across the table using communication techniques.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/how-to-parent-teacher-conference/)
-
-[How to Parent-Teacher Conference](https://www.artofmanliness.com/people/fatherhood/how-to-parent-teacher-conference/)
 
 [![A hand holds a needle near a blue balloon against a clear sky, symbolizing the tension of rejection and how to deal with it.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
 
