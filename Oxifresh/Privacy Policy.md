@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 302,964 Carpet Cleaning Services Reviews
 
-Nice kid polite, well mannered Did a good job **RP.** - Andover, KS - 11/06/2024
+Everything was great, per usual! **TM.** - Venetia, PA - 11/06/2024
 
 (5.0 Out of 5 stars)
 
-Always a great job , excellent customer service , service tech great job and explains the job **BP.** - Washingtonville, NY - 11/06/2024
+Smells so clean, reasonably priced and great service received. **LS.** - Huntington, WV - 11/06/2024
 
 (5.0 Out of 5 stars)
 
-I have 2 cats and needed my carpet washed. I took a chance with Oxifresh, and I'm so pleasantly surprised. The cleaning guy was very polite. I'm totally pleased with my cleaned carpet. I highly recommend ???? **ES.** - New York, NY - 11/05/2024
+That my carpet was dry after a hour **KF.** - Grand Forks, ND - 11/06/2024
 
 (5.0 Out of 5 stars)
 
