@@ -1,33 +1,3 @@
-[](https://www.meisterlabs.com/)
-
-[](https://www.meisterlabs.com/)
-
-* Product
-* Solutions
-* Resources
-* [Enterprise](https://www.meisterlabs.com/pages/business)
-* [Pricing](https://accounts.meister.co/payments/mt/en/pricing)
-* [Contact sales](https://www.meisterlabs.com/pages/contact-sales)
-
-[Log in](https://www.meistertask.com/app)[Get started](https://accounts.meister.co/sign_up?locale=en&product=meistertask)
-
-* Product
-    
-
-* Solutions
-    
-
-* Resources
-    
-
-* [Enterprise](https://www.meisterlabs.com/pages/business)
-
-* [Pricing](https://accounts.meister.co/payments/mt/en/pricing)
-
-* [Contact sales](https://www.meisterlabs.com/pages/contact-sales)
-
-* [Log in](https://www.meistertask.com/app)[Get started](https://accounts.meister.co/sign_up?locale=en&product=meistertask)
-
 We recently updated our Terms and Conditions. In case you would like to review our previous Terms and Conditions, you can access it [here](https://a.storyblok.com/f/289344/x/109942ceb4/gtc-meisterlabs_en_2023.pdf).
 
   
