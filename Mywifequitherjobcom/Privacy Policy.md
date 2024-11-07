@@ -259,7 +259,7 @@ Please Read Our [Privacy Policy](https://mywifequitherjob.com/privacy-policy/) A
 
 ![css.php](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=1915955683)
+![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=1659410121)
 
 Everything you need to know on how to build a profitable ecommerce store from scratch!
 
