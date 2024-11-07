@@ -2,7 +2,7 @@
 
 I'm currently in WA
 
-[Make a claim](https://www.hbf.com.au/support/guides/how-to/make-a-health-insurance-claim)[Pay HBF](https://www.hbf.com.au/payhbf)[Find a provider](https://www.hbf.com.au/use-cover/find-a-provider)[About HBF](https://www.hbf.com.au/about-hbf)[133 423](tel:133423)
+[Make a claim](https://www.hbf.com.au/support/guides/how-to/make-a-health-insurance-claim)[Pay HBF](https://www.hbf.com.au/payhbf) [Find a provider](https://www.hbf.com.au/use-cover/find-a-provider)[About HBF](https://www.hbf.com.au/about-hbf)[133 423](tel:133423)
 
 [](https://www.hbf.com.au/)
 
@@ -19,7 +19,7 @@ I'm currently in WA
         * [New to health insurance](https://www.hbf.com.au/health-insurance/new-to-health-insurance)
         * [Overseas Visitors Health Cover](https://www.hbf.com.au/health-insurance/overseas)
         
-        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs)
+        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs?intcmp=megamenucta_hi:prt_step1)
         
     * Cover for my life stageFind cover for singles, couples and family.
         
@@ -30,7 +30,7 @@ I'm currently in WA
         * [Families](https://www.hbf.com.au/health-insurance/lifestage/families)
         * [Single Parents](https://www.hbf.com.au/health-insurance/lifestage/single-parents)
         
-        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs)
+        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs?intcmp=megamenucta_lifestage:prt_step1)
         
     * Hospital coverHelps cover your costs in hospital.
         
@@ -45,7 +45,7 @@ I'm currently in WA
         * [Gold Hospital Elevate](https://www.hbf.com.au/health-insurance/hospital-cover/gold-hospital-elevate)
         
         * [Compare hospital cover](https://www.hbf.com.au/health-insurance/compare-hospital-cover)
-        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs)
+        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs?intcmp=megamenucta_hospital:prt_step1)
         
     * Extras coverHelps cover the costs of everyday healthcare services.
         
@@ -59,7 +59,7 @@ I'm currently in WA
         * [Top 70](https://www.hbf.com.au/health-insurance/extras-cover/top-70)
         
         * [Compare extras cover](https://www.hbf.com.au/health-insurance/compare-extras-cover)
-        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs)
+        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs?intcmp=megamenucta_extras:prt_step1)
         
     * Common extras servicesFind the right cover for dental, optical and other services.
         
@@ -74,7 +74,7 @@ I'm currently in WA
         * [Remedial Massage](https://www.hbf.com.au/health-insurance/cover-for/remedial-massage)
         
         * [Compare extras cover](https://www.hbf.com.au/health-insurance/compare-extras-cover)
-        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs)
+        * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs?intcmp=megamenucta_commonextras:prt_step1)
         
     * Ambulance coverCover for ambulance transport by road.
         
@@ -180,7 +180,9 @@ I'm currently in WA
 
 [](https://www.hbf.com.au/about-hbf/legal/privacy#search)[Get a quote](https://www.hbf.com.au/health-insurance/quick-quote)[Retrieve quote](https://www.hbf.com.au/health-insurance/quote-resumption)[Log in](https://my.hbf.com.au/)
 
-[](tel:133423)[](https://my.hbf.com.au/)
+[](tel:133423)
+
+[](https://my.hbf.com.au/)
 
 1. [HBF](https://www.hbf.com.au/)
 
