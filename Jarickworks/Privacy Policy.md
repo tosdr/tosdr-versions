@@ -219,8 +219,8 @@ Ethereum
 
 [![](https://jarick.works/wp-content/uploads/anaarkei/svg/014.svg)](https://jarick.works/anaarkei/keep-calm-and-forever-libertarian/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/030.svg)](https://jarick.works/anaarkei/define-your-terms-statism/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/025.svg)](https://jarick.works/anaarkei/christopher-hitchens-on-evidence/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/023.svg)](https://jarick.works/anaarkei/you-dont-own-me/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/029.svg)](https://jarick.works/anaarkei/religion/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/multimedia/music-1.svg)](https://jarick.works/beagle/multimedia/music/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/shell/notifications-1.svg)](https://jarick.works/beagle/shell/notifications/)
