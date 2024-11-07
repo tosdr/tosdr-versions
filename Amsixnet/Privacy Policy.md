@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-7.777 Tb/s
+10.212 Tb/s
 
 Peak
 
@@ -71,25 +71,25 @@ Powered by AMS-IX
 Privacy Policy
 --------------
 
-* [AMS-IX Privacy Statement](#section-19769770)
+* [AMS-IX Privacy Statement](#section-20316731)
     
-* [A brief summary of our privacy and cookie statement](#section-18106017)
+* [A brief summary of our privacy and cookie statement](#section-20315067)
     
-* [For which purpose do we process your personal data?](#section-19769771)
+* [For which purpose do we process your personal data?](#section-20316742)
     
-* [When can we share your personal data with third parties?](#section-19769772)
+* [When can we share your personal data with third parties?](#section-20316753)
     
-* [Is your personal data secured?](#section-19769773)
+* [Is your personal data secured?](#section-20316764)
     
-* [Cookies](#section-18106021)
+* [Cookies](#section-20315078)
     
-* [What are your privacy rights?](#section-18106022)
+* [What are your privacy rights?](#section-20315089)
     
-* [Changes to this privacy and cookie statement](#section-18106023)
+* [Changes to this privacy and cookie statement](#section-20315100)
     
-* [Complaints](#section-18106024)
+* [Complaints](#section-20315111)
     
-* [Contact details](#section-18106025)
+* [Contact details](#section-20315122)
     
 
 AMS-IX Privacy Statement
