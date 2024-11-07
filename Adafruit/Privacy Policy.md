@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Be so good they can't ignore you”
+“ If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea”
 
-[Steve Martin](http://en.wikipedia.org/wiki/Steve_Martin)
+[Antoine de Saint-Exupery](http://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 
 [](https://www.adafruit.com/about)
 
