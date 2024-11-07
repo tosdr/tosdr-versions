@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Simulgolf](https://www.myabandonware.com/game/simulgolf-5w9)
-* [Splash](https://www.myabandonware.com/game/splash-su1)
-* [Pengapop](https://www.myabandonware.com/game/pengapop-su0)
-* [Codestone Quest](https://www.myabandonware.com/game/codestone-quest-stz)
-* [Myth Match](https://www.myabandonware.com/game/myth-match-sty)
+* [Karous](https://www.myabandonware.com/game/karous-t82)
+* [Johnny Nero: Action Hero](https://www.myabandonware.com/game/johnny-nero-action-hero-t81)
+* [Ikaruga](https://www.myabandonware.com/game/ikaruga-t80)
+* [Homura](https://www.myabandonware.com/game/homura-t7z)
+* [OutRun 2](https://www.myabandonware.com/game/outrun-2-t7y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [The Tolkien Trilogy](https://www.myabandonware.com/game/the-tolkien-trilogy-70n)
-* [Fun School!](https://www.myabandonware.com/game/fun-school-hn7)
-* [Wayne Gretzky's 3D Hockey](https://www.myabandonware.com/game/wayne-gretzky-s-3d-hockey-sb1)
+* [Virtual Karting](https://www.myabandonware.com/game/virtual-karting-7gg)
+* [Pipeline](https://www.myabandonware.com/game/pipeline-ohg)
+* [Darwin 4078](https://www.myabandonware.com/game/darwin-4078-qrk)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
