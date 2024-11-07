@@ -145,7 +145,7 @@ Joint controllership in the context of Schibsted Match
 ------------------------------------------------------](https://info.privacy.schibsted.com/en/joint-controllership-in-the-context-of-schibsted-match/)[![Processing of personal data within real estate advertising](https://info.privacy.schibsted.com/wp-content/uploads/2020/07/p022_featured-300x169.png)
 
 Processing of personal data within real estate advertising
-----------------------------------------------------------](https://info.privacy.schibsted.com/en/processing-of-personal-data-within-real-estate-advertising/)[+3
+----------------------------------------------------------](https://info.privacy.schibsted.com/en/processing-of-personal-data-within-real-estate-advertising/)[+4
 
 View more
 ---------](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/)
