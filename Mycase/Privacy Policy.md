@@ -454,7 +454,7 @@ Search
 ![Android](https://www.mycase.com/wp-content/themes/mycase/library/img/mds-app_download_button_play_store.png)](https://play.google.com/store/apps/details?id=com.mycase.android)
 
 © Copyright 2024 MyCase. All Rights Reserved.  
-[Terms and conditions](https://www.mycase.com/terms/) | [Privacy policy](https://www.mycase.com/privacy-policy/) | [Cookies](#cookies) | [Do Not Sell or Share My Personal Information](#cookies)  
+[Terms and conditions](https://www.mycase.com/terms/) | [Privacy policy](https://www.mycase.com/privacy-policy/) | [Cookies](#!) | [Do Not Sell or Share My Personal Information](https://preferences.affinipay.com/optout)  
 The LawPay Visa® Business Card is issued by Emprise Bank, pursuant to a license with Visa U.S.A., Inc.
 
 [](https://www.linkedin.com/company/mycase/)[](https://www.youtube.com/user/MyCaseInc/)[](https://twitter.com/mycaseinc/)[](https://www.facebook.com/mycase/)
