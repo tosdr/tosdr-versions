@@ -20,16 +20,16 @@ Thursday, November 7 2024
 
 Latest
 
-* [New SteelFox malware hijacks Windows PCs using vulnerable driver](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
-* [NYT tech workers are making their own games while on strike](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
-* [Honkai Star Rail 2.7 to Tease the Next Playable Emanator, As Per Leaks](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
-* [Vendor Spotlight: Zabbix](https://digitpatrox.com/vendor-spotlight-zabbix/)
-* [The best ways to get promoted in tech in 2024](https://digitpatrox.com/the-best-ways-to-get-promoted-in-tech-in-2024/)
-* [IT certifications for cloud architects, data security engineers, and ethical hackers yield the biggest pay boosts – Computerworld](https://digitpatrox.com/it-certifications-for-cloud-architects-data-security-engineers-and-ethical-hackers-yield-the-biggest-pay-boosts-computerworld/)
-* [How to Pick the Best Pair of Running Shoes for You](https://digitpatrox.com/how-to-pick-the-best-pair-of-running-shoes-for-you/)
-* [Best Outdoor Security Cameras of 2024](https://digitpatrox.com/best-outdoor-security-cameras-of-2024/)
-* [Today’s NYT Connections Hints and Answer for November 6 (#514)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-6-514/)
-* [Westcon-Comstor bags major distribution deal with CrowdStrike](https://digitpatrox.com/westcon-comstor-bags-major-distribution-deal-with-crowdstrike/)
+* [How to remove unwanted objects from pictures with AI on Paint on Windows 11](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
+* [Best Freezers of 2024 – Consumer Reports](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
+* [The Best iPhone 15 Cases of 2024](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
+* [What role will partners play in realizing our collective AI dreams?](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
+* [U.K. Government Introduces AI Self-Assessment Tool](https://digitpatrox.com/u-k-government-introduces-ai-self-assessment-tool/)
+* [How to watch India vs New Zealand 1st Test 2024](https://digitpatrox.com/how-to-watch-india-vs-new-zealand-1st-test-2024/)
+* [Canada orders TikTok to shut down over national risk concerns](https://digitpatrox.com/canada-orders-tiktok-to-shut-down-over-national-risk-concerns/)
+* [The Fitbit Inspire 3 is down to just $70, its best price yet](https://digitpatrox.com/the-fitbit-inspire-3-is-down-to-just-70-its-best-price-yet/)
+* [How to Get Eminem’s Mythic RG Minigun in Fortnite](https://digitpatrox.com/how-to-get-eminems-mythic-rg-minigun-in-fortnite/)
+* [Vendor Spotlight: Cacti](https://digitpatrox.com/vendor-spotlight-cacti/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -129,11 +129,11 @@ Popular Posts
     
     August 13, 2024
     
-* [![](https://beebom.com/wp-content/uploads/2024/01/Indiana-Jones-Featured-1.jpg)](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/a-pair-of-oneplus-nord-buds-3-pro-in-front-of-the-case-1_53851478092_o.jpg)](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
-    [Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+    [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
-    August 21, 2024
+    September 28, 2024
     
 
 * [Popular](#widget_tabs-1-popular)
@@ -164,42 +164,42 @@ Popular Posts
     
     August 13, 2024
     
-* [![](https://beebom.com/wp-content/uploads/2024/01/Indiana-Jones-Featured-1.jpg)](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/a-pair-of-oneplus-nord-buds-3-pro-in-front-of-the-case-1_53851478092_o.jpg)](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
-    [Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+    [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
-    August 21, 2024
+    September 28, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/06/steelfox.jpg)](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/11/windows-11-paint-ai-erase-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
     
-    [New SteelFox malware hijacks Windows PCs using vulnerable driver](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
+    [How to remove unwanted objects from pictures with AI on Paint on Windows 11](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
     
-    42 mins ago
+    4 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/RL5lKOr3l22gqrtrill92fHwQIQ=/0x0:7752x5171/1200x628/filters:focal(3876x2586:3877x2587)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718619/2182236802.jpg)](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1713186231/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Best-Freezers-of-the-Year-0424)](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
     
-    [NYT tech workers are making their own games while on strike](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
+    [Best Freezers of 2024 – Consumer Reports](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
     
-    59 mins ago
+    5 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Next-Playable-Emanator-Leaked-Honkai-Star-Rail.jpg)](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/53203938391_7c4fa2f0aa_o.jpg)](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
     
-    [Honkai Star Rail 2.7 to Tease the Next Playable Emanator, As Per Leaks](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
+    [The Best iPhone 15 Cases of 2024](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
     
-    1 hour ago
+    6 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Zabbix-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-zabbix/)
+* [![](https://cdn.mos.cms.futurecdn.net/BLomQ4aQk2epAVZd5xrp8S-1200-80.jpg)](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
     
-    [Vendor Spotlight: Zabbix](https://digitpatrox.com/vendor-spotlight-zabbix/)
+    [What role will partners play in realizing our collective AI dreams?](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
     
-    2 hours ago
+    46 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/uB63ML8EJsczMXv8bX5ZXg-1200-80.jpg)](https://digitpatrox.com/the-best-ways-to-get-promoted-in-tech-in-2024/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241107-uk-government-ai-management-essentials.jpg)](https://digitpatrox.com/u-k-government-introduces-ai-self-assessment-tool/)
     
-    [The best ways to get promoted in tech in 2024](https://digitpatrox.com/the-best-ways-to-get-promoted-in-tech-in-2024/)
+    [U.K. Government Introduces AI Self-Assessment Tool](https://digitpatrox.com/u-k-government-introduces-ai-self-assessment-tool/)
     
-    3 hours ago
+    47 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [42 mins ago
+* [4 mins ago
     
-    ### New SteelFox malware hijacks Windows PCs using vulnerable driver](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
-* [59 mins ago
+    ### How to remove unwanted objects from pictures with AI on Paint on Windows 11](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
+* [5 mins ago
     
-    ### NYT tech workers are making their own games while on strike](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
-* [1 hour ago
+    ### Best Freezers of 2024 – Consumer Reports](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
+* [6 mins ago
     
-    ### Honkai Star Rail 2.7 to Tease the Next Playable Emanator, As Per Leaks](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
+    ### The Best iPhone 15 Cases of 2024](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
 
 Most Popular Topics
 
-* [September 27, 2024
+* [1 week ago
     
-    ### A Step-By-Step Guide for 2024](https://digitpatrox.com/a-step-by-step-guide-for-2024/)
-* [September 29, 2024
+    ### The New Mac Mini Is Great, but Apple Needs to Make This for It](https://digitpatrox.com/the-new-mac-mini-is-great-but-apple-needs-to-make-this-for-it/)
+* [7 days ago
     
-    ### LG Has Started Showing Screensaver Ads on Their Smart TVs](https://digitpatrox.com/lg-has-started-showing-screensaver-ads-on-their-smart-tvs/)
-* [October 5, 2024
+    ### Spot 5 Common Crypto Scams Before It’s Too Late](https://digitpatrox.com/spot-5-common-crypto-scams-before-its-too-late/)
+* [September 12, 2024
     
-    ### What is Cursor AI, the ChatGPT Replacement for Coding](https://digitpatrox.com/what-is-cursor-ai-the-chatgpt-replacement-for-coding/)
+    ### This is why a sagging mattress causes lower back pain — and how to fix it](https://digitpatrox.com/this-is-why-a-sagging-mattress-causes-lower-back-pain-and-how-to-fix-it/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [2 hours ago
     
-    ### How to Pick the Best Pair of Running Shoes for You](https://digitpatrox.com/how-to-pick-the-best-pair-of-running-shoes-for-you/)
-* [4 hours ago
+    ### Canada orders TikTok to shut down over national risk concerns](https://digitpatrox.com/canada-orders-tiktok-to-shut-down-over-national-risk-concerns/)
+* [2 hours ago
     
-    ### Best Outdoor Security Cameras of 2024](https://digitpatrox.com/best-outdoor-security-cameras-of-2024/)
-* [4 hours ago
+    ### The Fitbit Inspire 3 is down to just $70, its best price yet](https://digitpatrox.com/the-fitbit-inspire-3-is-down-to-just-70-its-best-price-yet/)
+* [3 hours ago
     
-    ### Today’s NYT Connections Hints and Answer for November 6 (#514)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-6-514/)
+    ### How to Get Eminem’s Mythic RG Minigun in Fortnite](https://digitpatrox.com/how-to-get-eminems-mythic-rg-minigun-in-fortnite/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
