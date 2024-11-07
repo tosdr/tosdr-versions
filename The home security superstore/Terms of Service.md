@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off SpyWfi™ Driveway Alarm | Code: DRIVE15](https://www.thehomesecuritysuperstore.com/collections/driveway-alarms?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SpyWfi%E2%84%A2+Driveway+Alarm)
+[15% Off SpyWfi™ Doorbell Camera | Code: DOOR15](https://www.thehomesecuritysuperstore.com/products/spywfi%E2%84%A2-night-vision-motion-detection-doorbell-security-camera-1080p-hd-wifi?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SpyWfi%E2%84%A2+Doorbell+Camera)
 
-TODAY'S OFFER: :: | 15% Off SpyWfi™ Driveway Alarm | Code: DRIVE15
+TODAY'S OFFER: :: | 15% Off SpyWfi™ Doorbell Camera | Code: DOOR15
 
 TODAY'S OFFER: : :
 
- 15% Off SpyWfi™ Driveway Alarm Code: DRIVE15
+ 15% Off SpyWfi™ Doorbell Camera Code: DOOR15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
