@@ -62,7 +62,7 @@ Utility
 * [Try Canvas Free](https://info.badgr.com/try-canvas)
 * [Support](https://info.badgr.com/support/canvas-support-faq)
 * [Contact Us](https://info.badgr.com/contact-us)
-* Log In
+* [Log In](https://info.badgr.com/)
     * [Canvas](https://info.badgr.com/canvas/login)
     * [Canvas Credentials](https://info.badgr.com/canvas/canvas-credentials/login)
     * [Student ePortfolio](https://portfolium.com/login)
