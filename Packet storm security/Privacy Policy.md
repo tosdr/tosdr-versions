@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -28,21 +28,53 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 300 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 244 files
 * [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 65 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 25 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 24 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 18 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 15 files
-* [Apple](https://packetstormsecurity.com/files/authors/2397) 10 files
+* [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 7 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 5 files
-* [Emiliano Febbi](https://packetstormsecurity.com/files/authors/16637) 3 files
 * [Chokri Hammedi](https://packetstormsecurity.com/files/authors/16420) 3 files
+* [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Cisco Patches Critical Vuln In Industrial Networking Solution](https://packetstormsecurity.com/news/view/36569/Cisco-Patches-Critical-Vuln-In-Industrial-Networking-Solution.html)
+
+Posted [Nov 7, 2024](https://packetstormsecurity.com/news/date/2024-11-07/ "15:14:47 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [cisco](https://packetstormsecurity.com/news/tags/cisco)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36569/) | [View](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-industrial-networking-solution/)
+
+[China's Volt Typhoon Reportedly Breached Singtel In Test Run For US Attack](https://packetstormsecurity.com/news/view/36565/Chinas-Volt-Typhoon-Reportedly-Breached-Singtel-In-Test-Run-For-US-Attack.html)
+
+Posted [Nov 6, 2024](https://packetstormsecurity.com/news/date/2024-11-06/ "19:10:30 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor), [singapore](https://packetstormsecurity.com/news/tags/singapore)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36565/) | [View](https://www.theregister.com/2024/11/06/chinas_volt_typhoon_breached_singtel/)
+
+[Attackers Stole Microlise Staff Data Following DHL, Serco Disruption](https://packetstormsecurity.com/news/view/36564/Attackers-Stole-Microlise-Staff-Data-Following-DHL-Serco-Disruption.html)
+
+Posted [Nov 6, 2024](https://packetstormsecurity.com/news/date/2024-11-06/ "19:10:26 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36564/) | [View](https://www.theregister.com/2024/11/06/microlise_cyberattack/)
+
+[Google Cloud Rolling Out Mandatory MFA for All Users](https://packetstormsecurity.com/news/view/36562/Google-Cloud-Rolling-Out-Mandatory-MFA-for-All-Users.html)
+
+Posted [Nov 6, 2024](https://packetstormsecurity.com/news/date/2024-11-06/ "19:10:11 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [google](https://packetstormsecurity.com/news/tags/google), [password](https://packetstormsecurity.com/news/tags/password)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36562/) | [View](https://www.securityweek.com/google-cloud-rolling-out-mandatory-mfa-for-all-users/)
 
 [Rhysida Ransomware Attack On Columbus Claimed 500k Victims](https://packetstormsecurity.com/news/view/36561/Rhysida-Ransomware-Attack-On-Columbus-Claimed-500k-Victims.html)
 
@@ -92,38 +124,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36556/) | [View](https://www.securityweek.com/docusign-apis-abused-to-deliver-fake-invoices/)
 
-[CISA Director Easterly Seeks To Quell Concerns About Election Security](https://packetstormsecurity.com/news/view/36555/CISA-Director-Easterly-Seeks-To-Quell-Concerns-About-Election-Security.html)
-
-Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:07:09 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36555/) | [View](https://www.scworld.com/news/cisa-director-easterly-seeks-to-quell-concerns-about-election-security)
-
-[Thousands Of Hacked TP-Link Routers Used In Yearslong Account Takeovers](https://packetstormsecurity.com/news/view/36554/Thousands-Of-Hacked-TP-Link-Routers-Used-In-Yearslong-Account-Takeovers.html)
-
-Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:07:07 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36554/) | [View](https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/#gsc.tab=0)
-
-[Why The Long Name? Okta Discloses Auth Bypass Bug Affecting 52-Character Usernames](https://packetstormsecurity.com/news/view/36553/Why-The-Long-Name-Okta-Discloses-Auth-Bypass-Bug-Affecting-52-Character-Usernames.html)
-
-Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:07:04 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36553/) | [View](https://www.theregister.com/2024/11/04/why_the_long_name_okta/)
-
-[Hackers Achieve The Inevitable: They Got Nintendo's Alarmo To Play Doom](https://packetstormsecurity.com/news/view/36552/Hackers-Achieve-The-Inevitable-They-Got-Nintendos-Alarmo-To-Play-Doom.html)
-
-Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:07:02 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36552/) | [View](https://gizmodo.com/nintendo-alarmo-doom-2000520102)
-
 [View More News →](https://packetstormsecurity.com/news/)
 
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1142701931&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1142701931.1730992273.1730992273.1730992273.1%3B%2B__utmz%3D32867617.1730992273.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2059754254&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2059754254.1731013964.1731013964.1731013964.1%3B%2B__utmz%3D32867617.1731013964.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
