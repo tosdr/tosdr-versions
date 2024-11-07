@@ -31,6 +31,436 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La reelección de Trump y su impacto en Ecuador
+==============================================
+
+La reelección de Donald Trump representa para Ecuador desafíos en acuerdos comerciales y políticas migratorias estrictas.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Un partidario del presidente electo, Donald Trump, supervisa las elecciones presidenciales estadounidenses, durante una fiesta de observación de elecciones organizada por republicanos en Tailandia. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/editorial_720.jpg)
+
+La reelección de **Donald Trump en Estados Unidos** podría tener efectos significativos en Ecuador, especialmente en comercio, seguridad y migración. El reciente giro del voto latino hacia Trump podría influir en las políticas que impacten a los países de Latinoamérica.
+
+Uno de los mayores desafíos y a la vez una oportunidad para Ecuador sería la relación comercial con **Estados Unidos**, su principal socio. En su mandato anterior, Trump aplicó medidas proteccionistas, imponiendo aranceles elevados a productos importados, centrados principalmente en México y China.
+
+> Aunque Ecuador no fue un objetivo directo, ahora las autoridades ecuatorianas deberán mostrar su habilidad para concretar negociaciones comerciales que beneficien a ambas partes. Esto es clave tomando en cuenta que el enfoque de Trump es “America First”. En otras palabras, su prioridad será la protección de la industria estadounidense.
+
+En el ámbito de seguridad, Trump podría continuar con su enfoque en combatir el narcotráfico. Su administración ya había ejercido presión sobre los gobiernos de América Latina para adoptar medidas más estrictas contra la inseguridad y el crimen organizado.
+
+Actualmente, Ecuador y Estados Unidos cuentan con un memorando de entendimiento regional de intercambio de información para combatir el narcotráfico. Esto se renovó en julio de 2023.
+
+En enero de 2024, la colaboración de ese país se amplió, tras la segunda visita de la general **Laura Richardson, jefa del Comando Sur de Estados Unidos.**
+
+Adicionalmente, hay tres acuerdos militares vigentes: El Estatuto de las Fuerzas (SOFA, por sus siglas en inglés) establece el marco bajo el cual los militares y el personal civil estadounidense puede operar en Ecuador. Hay otros dos acuerdos para operaciones contra actividades marítimas transnacionales ilícitas. Además de asistencia en interceptación aérea.
+
+Otra iniciativa que está en debate es la propuesta del presidente Daniel Noboa sobre reformar la Constitución de la República para la operación de bases militares extranjeras en Ecuador. Este proyecto reformatorio está en manos de una comisión ocasional en la Asamblea. Si esta propuesta avanza, la presencia de militares estadounidenses sería una de las posibilidades.
+
+Para **Global Americans**, las relaciones con países catalogados como conservadores-libertarios, como Argentina y Ecuador, podrían permanecer constructivas. No obstante, habría que ver si esto se mantiene tras la elección del próximo presidente de Ecuador.
+
+Otro punto neurálgico es la postura dura hacia [la inmigración de Trump](https://www.elcomercio.com/actualidad/mundo/plan-de-deportacion-de-trump-comenzaria-con-un-millon-de-inmigrantes-dice-j-d-vance.html "https://www.elcomercio.com/actualidad/mundo/plan-de-deportacion-de-trump-comenzaria-con-un-millon-de-inmigrantes-dice-j-d-vance.html"). Un informe de la National Foundation for American Policy (NFAP) reveló que hasta 2,7 millones de personas perderían la protección frente a la deportación durante una segunda administración Trump.
+
+“Muchas personas con **Estatus de Protección Temporal** (TPS, por sus siglas en inglés) y beneficiarios del parole humanitario y del programa de Acción Diferida para los Llegados en la Infancia (DACA) podrían ser deportados”. A esta conclusión llega el [informe](http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://nfap.com/wp-content/uploads/2024/08/Trump-Immigration-Policy.High-Skilled-Immigration.NFAP-Policy-Brief.2024.pdf "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nfap.com/wp-content/uploads/2024/08/Trump-Immigration-Policy.High-Skilled-Immigration.NFAP-Policy-Brief.2024.pdf").
+
+Trump ha prometido eliminar los permisos humanitarios y el TPS termina entre 2025 y 2026 para 16 nacionalidades beneficiarias. Trump ya trató de acabar con el TPS cuando fue presidente, pero no se concretó por demandas en su contra.
+
+El programa DACA también se salvó años atrás. El **Tribunal Supremo** mantuvo la protección a los beneficiarios (jóvenes que llegaron al país cuando eran niños). Sin embargo, ahora no se descarta que a través de apelaciones, el programa vuelva a la alta corte a fines de este año o en 2025.
+
+En definitiva, un mayor endurecimiento de las políticas migratorias podría aumentar el número de ecuatorianos que intentan migrar hacia Estados Unidos, lo que incrementaría los riesgos en la travesía.
+
+Paralelamente, un aumento en las deportaciones o en la dificultad para obtener visas podría reducir significativamente el flujo de remesas hacia Ecuador.
+
+El cambio en el voto latino hacia Trump sugiere que la economía es una prioridad para muchos votantes hispanos. Esto podría generar tensiones entre estas políticas económicas y las medidas migratorias estrictas que Trump propone.
+
+En conclusión, la reelección de Trump representa un escenario complejo para Ecuador, que enfrentará tanto desafíos como oportunidades. Desde las tensiones comerciales y las políticas de seguridad hasta los impactos en la migración y las remesas, el país tendrá que navegar un panorama internacional impredecible. La habilidad del gobierno ecuatoriano para adaptarse a este entorno será clave, especialmente al equilibrar los intereses económicos y las necesidades humanitarias de su población.
+
+Cartas a Quito / 7 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este jueves 7 de noviembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Exhortación a los “ganadores”
+-----------------------------
+
+Estamos viviendo una de las más súbitas y terroríficas catástrofes de nuestra historia, en las que, por desgracia, siempre existirán perdedores y ganadores. En este caso, como en muchos otros, los perdedores somos más… Muchísimos más. El país entero se encuentra sufriendo las consecuencias de esta abrumadora y nefasta oscuridad que hoy nos consume. Si analizamos esta situación, los ganadores son relativamente pocos. Entre ellos, obviamente, se cuentan los importadores de generadores, focos recargables, plantas eléctricas, y todo el material que se requiere para paliar esta emergencia y que la gente se desespera por conseguirlo.
+
+Otros ganadores son las salas de cine, teatros y más sitios de distracción, a donde acude la gente que no quiere ser presa de esta terrible y deprimente oscuridad.
+
+No quiero dejar de mencionar a los dueños de los restaurantes, bares, discotecas, sitios de comida rápida, etc. (siempre y cuando se encuentren provistos de plantas eléctricas); útiles artefactos a los que, lamentablemente, el común de los mortales no tenemos acceso debido a los altos y, muchas veces abusivos costos que se imponen en el mercado, como consecuencia de la tenaz competencia, por lo que hoy por hoy, para la gran mayoría de ecuatorianos estos se han convertido en verdaderos artículos de lujo y, para los comerciantes, en un lucrativo “negocio”.
+
+Con todo lo anteriormente dicho, exhortamos a todos los “ganadores” de esta singular contienda, ser más empáticos y humanos y no abusar de los precios tratando de “pescar a río revuelto”. La solidaridad y la ayuda mutua son factores que deben primar en estos momentos de angustia y desolación en los que estamos viviendo.
+
+Fabiola Carrera Alemán
+
+De niño de la calle a dirigente internacional
+=============================================
+
+Su misión es promover el ejercicio pleno de los derechos de los jóvenes iberoamericanos, en el contexto del desarrollo humano y social.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+Se trata de **Diego Echegoyen, de origen salvadoreño**, quien asumiría la secretaría general del **Organismo Internacional de Juventud para Iberoamérica (OIJ)**, de contar con el apoyo de varios gobiernos.
+
+La OIJ -reconocida como la principal institución del mundo especializada en juventudes- se creó en 1992 con el objetivo de **“impulsar la cooperación entre los países de la región, para el fortalecimiento y el diseño de políticas públicas que garanticen el acceso a educación, justicia social, equidad y empleo digno”.**
+
+Su misión es promover el ejercicio pleno de los derechos de los jóvenes iberoamericanos, en el contexto del desarrollo humano y social. **En diciembre próximo se reunirán los ministros y responsables nacionales de juventud de 22 países**, para designar al nuevo secretario y fortalecer las estrategias iberoamericanas en este ámbito.
+
+El caso de Diego Echegoyen es particular por varias razones: porque, de acuerdo al principio de alternancia subregional, **le corresponde a Centroamérica conducir el OIJ**; porque los gobiernos le consideran un candidato apto por su formación y experiencia, para liderar los cambios de esta organización; y, **por su personalidad emprendedora que ha demostrado eficiencia en la ejecución de proyectos desafiantes en ambientes regionales y globales** gracias a su liderazgo, las redes de contactos internacionales y los resultados obtenidos.
+
+Más allá de sus méritos profesionales y académicos -con diplomados y maestrías-, **Diego Echegoyen es un especialista formado en la acción de proyectos innovadores de mejoramiento de la juventud tanto en Europa e Iberoamérica**, con **iniciativas exitosas en su país y otros, como “El País que Viene” y “La Escuela del Propósito”,** una comunidad de profesionales referentes de distintas industrias y contextos dedicados al desarrollo de proyectos de impacto, con énfasis en el empleo juvenil, la inclusión educativa y el acceso a oportunidades para la población joven. Echegoyen es también **autor de dos novelas y trabaja en una tercera, que son testimonios de su talento literario.**
+
+**Sus logros han sido reconocidos** por la Asamblea Nacional de El Salvador y por **Su Majestad el Rey Felipe VI de España**, quien le entregó el Premio Internacional Novia Salcedo a la Integración Juvenil, y obtuvo el **Global Youth Action Award, en Nueva York**, como autor de uno de los nuevos proyectos más innovadores en materia de juventud a nivel global. Ha recibido también un **Doctorado Honoris Causa en Ciencias Sociales,** por su trabajo en favor de la juventud.
+
+Este emprendedor social, de origen humilde -fue un niño de la calle y sin hogar por muchos años-, ahora se propone **“impulsar una profunda transformación en el único Organismo Internacional de juventud del mundo**, con miras a poner, en función de los gobiernos y de **160 millones de jóvenes de la región**, capacidades y herramientas que permitan alcanzar los cambios que las nuevas generaciones iberoamericanas esperan”.  
+
+Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores
+===================================================================================
+
+El uso de generadores incide en la calidad del aire de Quito, según una investigación universitaria.
+----------------------------------------------------------------------------------------------------
+
+![Investigación revela los índices de la calidad del aire en Quito, a causa de generadores.](https://www.elcomercio.com/wp-content/uploads/2024/11/calidad-aire-quito-generadores.jpg)
+
+Una investigación reveló que el uso de **generadores** incide en la **calidad del aire** de **Quito**.
+
+El estudio muestra alarmantes datos sobre lo que ocasiona el **diesel** con el que funcionan estos aparatos de generación de energía eléctrica en el ambiente.
+
+### Más noticias:
+
+* [Los generadores eléctricos contaminan en dos niveles el ambiente de Quito](https://www.elcomercio.com/actualidad/quito/generadores-electricidad-ambiente-contaminacion-quito.html "Los generadores eléctricos contaminan en dos niveles el ambiente de Quito")
+* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
+
+La calidad del aire en Quito, tras el uso de generadores
+--------------------------------------------------------
+
+Los generadores de electricidad a diésel utilizados por gran parte de la población de Quito para hacer frente a los apagones programados desde septiembre han provocado mayor **contaminación** del aire.
+
+Un estudio de la Universidad de las Américas (UDLA) ha concluido que “los **niveles de monóxido de carbono (CO)** casi se duplicaron en comparación con las condiciones normales”.
+
+Esto, debido, principalmente, a la **dependencia** generalizada de los generadores diésel.
+
+Este informe también sostiene que “este aumento del uso de generadores también provocó un incremento del 38,8 % de las concentraciones de **dióxido de nitrógeno** (NO2)”.
+
+Otro hallazgo del informe realizado por el grupo de Investigación en Biodiversidad, Medio Ambiente y Salud de la UDLA fue la constatación de un gran aumento del **dióxido de azufre (SO2).**
+
+Este es un **gas altamente nocivo** que incrementó su presencia durante este periodo de crisis hasta en un 180 %.
+
+De esta forma, el propio análisis apunta que con estos valores la ciudad suscitó “preocupación por los riesgos para la salud respiratoria”.
+
+Los valores superaron las directrices de la **Organización Mundial de la Salud (OMS).**
+
+A pesar de que el **índice de calidad del aire** (ICA), acordado por esta organización para medir la contaminación en los núcleos urbanos, indica que el **nivel medio de calidad del aire** en 2023 en todo Ecuador fue de 31 sobre 100, la contaminación por partículas en el mismo periodo (PM2,5) supera 1,5 veces el valor guía anual de calidad del aire de la OMS.
+
+Los investigadores subrayan la necesidad de que las ciudades se preparen para interrupciones más frecuentes y graves del suministro eléctrico relacionadas con el **clima**.
+
+Recomiendan desarrollar y aplicar **estrategias integrales**, que incluyan la mejora de las infraestructuras energéticas y soluciones de energía de reserva más limpias, sobre todo en zonas de gran altitud como Quito.
+
+La crisis energética, el uso de generadores y la calidad del aire en Quito y Ecuador
+------------------------------------------------------------------------------------
+
+Desde finales de 2023, Ecuador se ha visto obligado a realizar **cortes de luz programados**.
+
+El último inició a mediados de septiembre y ha alcanzado hasta catorce horas de suspensión del **fluido eléctrico.**
+
+Actualmente, Ecuador tiene un **déficit** de alrededor de 1 000 megavatios para atender su demanda nacional.
+
+La matriz energética del país depende de más de un 70 % de **centrales hidroeléctricas**.
+
+Las centrales están afectadas por la peor sequía de los últimos 60 años, según lo ha calificado el Gobierno.
+
+La crisis energética de Ecuador se ha visto también agravada por la falta de **inversiones**.
+
+El pronunciamiento de las autoridades
+-------------------------------------
+
+Días atrás, desde la **Secretaría de Ambiente,** se informó que el ambiente de Quito se ve afectado por el uso de los generadores eléctricos.
+
+Si embargo, el aire está dentro de los **parámetros aceptables** para que el ser humano pueda vivir.
+
+Aunque, recalcaron que las personas que tienen enfermedades respiratorias deben tener los debidos cuidados para evitar afectaciones a su salud.
+
+**Rosa Fonseca**, directora metropolitana de Regularización y Control Ambiental de la Secretaría de Ambiente, señala que seguirán monitoreando el ambiente de Quito para ver cómo impacta el uso de los generadores en contaminación.
+
+Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz
+=================================================================================
+
+Los prolongados cortes de luz en Ecuador, que ya cumplen 45 días, impulsaron una alta demanda de equipos como UPS, generadores y estaciones de energía portátil.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/UPS-DEMANDA-WEB-06112024.jpg)
+
+Este jueves 7 de noviembre de 2024 se cumplirán 46 días de **cortes de luz** prolongados en **Ecuador**. La crisis energética se deriva del déficit de 1 080 megavatios (MW) que tiene el país y de una prolongada **sequía** que ha impedido el normal funcionamiento de las **hidroeléctricas**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Guía sobre generadores eléctricos, UPS y power banks en Ecuador](https://www.elcomercio.com/actualidad/negocios/guia-sobre-generadores-electricos-ups-y-power-banks-en-ecuador.html "Guía sobre generadores eléctricos, UPS y power banks en Ecuador")
+* [Meteórico aumento de la compra de generadores eléctricos en Ecuador](https://www.elcomercio.com/actualidad/negocios/meteorico-aumento-de-la-compra-de-generadores-electricos-en-ecuador.html "Meteórico aumento de la compra de generadores eléctricos en Ecuador")
+* [¿Cómo denunciar especulación en los precios de generadores y equipos eléctricos?](https://www.elcomercio.com/actualidad/negocios/como-denunciar-especulacion-precios-generadores-equipos-electricos.html "¿Cómo denunciar especulación en los precios de generadores y equipos eléctricos?")
+
+En medio de este contexto, la rutina de los ecuatorianos se ha visto afectada, alterando sus actividades diarias y los hábitos de consumo.
+
+Por ejemplo, en las últimas semanas se ha observado un **incremento en la demanda de equipos** que permitan afrontar de mejor manera los **racionamientos eléctricos**. Entre ellos están los denominados UPS, que es la abreviatura de sistema de alimentación ininterrumpida. Este **dispositivo** suministra energía a un equipo cuando se **corta la luz**.
+
+Además, en esta misma categoría están las **estaciones de energía portátil**, paneles solares, focos y ventiladores recargables, entre otros.
+
+Hace dos semanas, **Liliana Ordóñez**, de 40 años, adquirió un UPS de 1000 VA de capacidad, por recomendación de una amiga. El objetivo principal fue tener posibilidad de trabajar desde su casa, sin tener que trasladarse de otro sitio cuando no tenía electricidad.
+
+El equipo está conectado al router y le permite tener internet durante los **cortes de luz**, por hasta cinco horas. El dispositivo le costó 150 dólares y era el último disponible en el local que lo adquirió. El UPS le permite, además, cargar su celular o computadora mientras no hay luz, señaló.
+
+Asimismo, **Pablo Alarcón**, de 46 años, adquirió un UPS en 60 dólares a inicios de octubre de este año. El equipo de sirve para tener internet y conectar una computadora mientas no tiene energía eléctrica. Él piensa que es la mejor adquisición de los últimos tiempos.
+
+Por su parte, **Lorena Viteri**, de 44 años, espera encontrar un UPS en el mercado lo antes posible, ya que no ha podido adquirir uno porque en el local que compraron sus amigos están agotados.
+
+En un breve recorrido por las **páginas web** de los locales que ofrecen este tipo de dispositivos se constató que muchos modelos están agotados.
+
+Compras en plataformas internacionales
+--------------------------------------
+
+Ante la limitada oferta de este tipo de productos en el mercado local, las plataformas de comercio electrónico internacionales experimenten un notable aumento en la demanda por parte de consumidores del Ecuador.
+
+Productos como generadores, estaciones de energía portátiles, power banks y focos recargables han pasado a ser artículos prioritarios en la lista de compras en línea, señaló **Alexandra Moscoso**, Head of Growth Marketing de Tiendamia.
+
+“Los ecuatorianos están priorizando productos que les permitan sobrellevar los **cortes de luz**, como power stations, power banks y focos recargables, transformándolos en artículos de primera necesidad”, agregó.
+
+En las plataformas digitales se ha registrado un crecimiento de aproximadamente 1000% en la **venta de generadores y estaciones de energía**, demostrando la gran necesidad de soluciones que permitan la continuidad de las actividades diarias en hogares y negocios, según un estudio de la plataforma.
+
+Esta tendencia de consumo se observa en todo el país, con mayores pedidos provenientes de ciudades como Quito, Guayaquil, Cuenca, Ambato, Portoviejo y Loja.
+
+Controles ante posible incremento de precios
+--------------------------------------------
+
+Por su parte, la Superintendencia de Competencia Económica solicitó a los fabricantes, importadores y distribuidores de **generadores eléctricos, inversores, baterías** y otros productos relacionados con el almacenamiento de energía evitar abusos en los precios de este tipo de dispositivos.
+
+Además, además, la Superintendencia señaló que se mantiene atenta a las prácticas que afecten la competencia justa en el mercado energético del país.
+
+Para la semana del 4 al 9 de noviembre de 2024, el **Ministerio de Energía** programó **cortes de luz** de hasta seis horas diarias. Está previsto que los **nuevos horarios** de los racionamientos se conozcan hasta este viernes 8 de noviembre.
+
+Australia propone ley que prohíbe el uso de redes sociales a menores de 16 años
+===============================================================================
+
+El proyecto de ley de Australia alude prohibir el acceso temprano a redes sociales para mitigar los problemas de salud mental.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Además de Australia, otros países han analizado prohibir el acceso temprano a redes sociales](https://www.elcomercio.com/wp-content/uploads/2024/11/redes-sociales-australia.jpg)
+
+El Gobierno de **Australia** anunció este miércoles 6 de noviembre de 2024 que busca limitar el acceso a las redes sociales a los menores de **16 años,** a través de una nueva ley.
+
+### Más noticias
+
+* [Vuelo que cubría la ruta Bogotá-Madrid es tendencia en redes](https://www.elcomercio.com/actualidad/mundo/vuelo-ruta-bogota-madrid-aterrizo-emergencia.html "Vuelo que cubría la ruta Bogotá-Madrid es tendencia en redes")
+* [Este es el destino de las cuentas de redes sociales tras el fallecimiento](https://www.elcomercio.com/tecnologia/redes-sociales-fallecimiento-facebook-conmemorativo.html "Este es el destino de las cuentas de redes sociales tras el fallecimiento ")
+* [Cómo detectar si WhatsApp está activo en otro dispositivo](https://www.elcomercio.com/tecnologia/whatsapp-dispositivos-vinculados-seguridad.html "Cómo detectar si WhatsApp está activo en otro dispositivo ")
+
+Según explicó el **primer ministro** de este país, **Anthony Albanese**, el objetivo es “mitigar los **problemas de salud mental** de los **niños** y **adolescentes**“.
+
+“Ahora, la **edad propuesta** por el Gobierno es de **16 años**; esa decisión se tomó el lunes en el **Consejo de Ministros**“, anunció Albanese[.](https://es.wikipedia.org/wiki/Anthony_Albanese "https://es.wikipedia.org/wiki/Anthony_Albanese")
+
+“Las **redes sociales** están perjudicando a nuestros hijos y voy a ponerle fin”, enfatizó Albanese, al justificar su propuesta con otras medidas legales como las leyes que prohíben a los **menores de 18 años** a comprar **bebidas alcohólicas**.
+
+El **proyecto de ley** podría llegar al **Parlamento** en las próximas semanas y entraría en vigor **12 meses después** de ser aprobada.
+
+De aprobarse la ley, ¿a quiénes se sancionará?
+----------------------------------------------
+
+La propuesta no excluirá a los menores de 16 años que ya tienen registros en redes sociales, ni a los que cuentan con el **consentimiento de sus padres**.
+
+El mandatario aclaró que las **sanciones** no serán impuestas a los usuarios o a los padres, sino que “serán las propietarias de las redes sociales las que tendrán la responsabilidad de hacer cumplir el **límite de edad**“.
+
+En este sentido, la **Comisión Australiana de Seguridad Electrónica** se encargará de publicar normativas para que las plataformas digitales establezcan “medidas razonables” para restringir el acceso a los menores.
+
+La legislación regularizaría a plataformas como **Instagram**, **TikTok**, **Facebook**, **X** y **YouTube**, aunque se contemplan excepciones para plataformas consideradas “**de bajo riesgo**“.
+
+Prohibiciones similares en otros países
+---------------------------------------
+
+Con su plan, Australia hace eco de las preocupaciones mundiales que llevaron a **España** a fijar la edad mínima para acceder a una red social en **14 años**. Aunque está previsto que esta edad se eleve a 16, ante los riesgos contra la intimidad, coacciones, amenazas y estafas informáticas.
+
+Asimismo, **Puerto Rico** decretó en julio los **18 años** como la edad mínima para que una persona pueda activar una cuenta en cualquier red social.
+
+Una medida similar se aplica en **Texas**, Estados Unidos, mientras que en el estado de **Florida** la edad mínima es 14.
+
+En **Nueva York** también se aprobaron **dos leyes**: una para exigir el consentimiento paterno para que los menores de **18 años** usen los “hilos adictivos” basados en algoritmos de recomendación, así como otra para limitar la recopilación de datos de menores.
+
+Jugadores de El Nacional evalúan no presentarse ante Libertad
+=============================================================
+
+El Nacional acentúa su crisis, la fragmentación entre dirigencia y jugadores persiste por falta de pagos, y el plantel analiza opciones radicales.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Mario Pineida, defensa de El Nacional, en las semifinales de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241031135342-fbl-copa-ecuador-nacional-mushuc-runa-1-scaled.jpg)
+
+El ambiente de inestabilidad no abandona **El Nacional** y la pugna entre dirigencia y jugadores se mantiene a raíz de falta de pagos. **Mario Pineida**, defensa de la escuadra, señaló que se analiza no acudir al siguiente partido y ahondó en detalles de la crisis institucional.
+
+A partir del anuncio de la plantilla de los puros criollos de que mantenían **sueldos impagos**, un vaivén de acciones y pronunciamientos con respecto a la situación se ciñeron en el club. La institución criolla quedó en medio de un fuego cruzado entre **versiones directivas y de futbolistas**.
+
+### Más noticias:
+
+* [Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla](https://www.elcomercio.com/deportes/el-nacional-deudas-marco-pazos-bedoya.html "Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla")
+* [El Nacional quiere la final de la Copa Ecuador en Quito](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-quito-nacional-idv.html "El Nacional quiere la final de la Copa Ecuador en Quito")
+* [El Nacional persiste en malestares por falta de pagos](https://www.elcomercio.com/deportes/el-nacional-deudas-pagos-malestar.html "El Nacional persiste en malestares por falta de pagos")
+
+El último remolino en torno a la situación de los montos adeudados se dio durante este miércoles 6 de noviembre del 2024. En el mismo día, **Marco Pazos**, presidente del club, y **Pineida** brindaron declaraciones.
+
+Después de que una nueva queja surgiera con respecto a la taquilla de semifinales de la **Copa Ecuado**r que fue **comprometida** con los jugadores, Marco Pazos -presidente del club- aclaró la situación en diálogo con los medios de comunicación. El titular de la escuadra criolla sostuvo que sí se cumplió con el pacto adquirido con los jugadores.
+
+Desde el lado de **Mario Pineida**, este conversó con la Radio Mundo Deportivo e hizo público su malestar. Allí, el lateral zurdo apuntó contra el titular de la escuadra criolla y manifestó las potenciales acciones que se puede tomar desde la plantilla.
+
+Mario Pineida, una posible decisión radical y los padecimientos en El Nacional
+------------------------------------------------------------------------------
+
+“**El señor presidente sabe la verdad de lo que pasa en El Nacional. Sí hay el riego de que no nos presentemos ante Libertad.** Él (Marco Pazos) dice ‘entonces que juegue la sub-19’ (…) De qué sirve que el presidente baje al camerino si no da soluciones, si miente. Te soy sincero, la mayoría se va a ir sin cobrar un centavo”, manifestó el exjugador de Barcelona SC.
+
+El futbolista también sostuvo que en el caso de los **jugadores lesionados**, estos deben pagar su propio tratamiento. Esta manifestó que cuando sufrió una dolencia, el debió pagar sus propios ecos durante el proceso.
+
+Pineida agregó que Pazos no conoce del todo la situación y que el Complejo de El Sauce, por momentos, **no cuenta con agua**. A su vez, sostuvo que no existe ningún respaldo por parte de la directiva y por ello se ha pedido la intervención de la **Federación Ecuatoriana de Fútbol o la Liga Pro**.
+
+La vorágine de los puros criollos
+---------------------------------
+
+Los jugadores de **El Nacional** rompieron el silencio el 25 de octubre del 2024, cuando anunciaron su paralización debido a la falta de pagos. Tras en ello, después de su partido con **Orense** en la Liga Pro, volvieron a manifestar que no estaban al día y pidieron acciones de parte del Comando Conjunto de las Fuerzas Armadas, entidad vinculada al club[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
+
+A raíz de tales acontecimientos, la directiva y los jugadores llegaron al acuerdo de que la taquilla de la semifinal de vuelta de Copa Ecuador, ante **Mushuc Runa**, sea destinada para cumplir las deudas con el plantel. Pese a ello, el descontento volvió.
+
+**Anthony Bedoya** se pronunció en redes sociales, donde dijo que hubo promesas incumplidas. A su vez, fuentes de la plantilla confirmaron a EL COMERCIO que se había ofrecido cubrir un sueldo con lo recaudado y no la mitad como se lo hizo.
+
+Pazos confirmó a este medio que ese fue el monto cubierto y que también se realizó un pago de **70 mil dólares** a la FEF. Asimismo, ante los medios de comunicación al explicar que sí se destinó la taquilla a los jugadores, este especificó que no fue el 100 % debido a que con ello también se pagaron los gastos operativos, aspecto que formaba parte del trato.
+
+Daniel Noboa propuso una reforma constitucional sobre los presos
+================================================================
+
+La propuesta de reforma constitucional de Daniel Noboa sobre los presos fue remitida a la Corte Constitucional para su análisis.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![La reforma constitucional de Daniel Noboa está relacionada con los presos.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-reforma-constitucional-presos.jpg)
+
+El presidente **Daniel Noboa** propuso una **reforma constitucional** sobre los **presos** o personas privadas de la libertad, este miércoles 6 de noviembre de 2024.
+
+Noboa planteó una reforma parcial a la Carta Magna y la Presidencia envió el texto a la **Corte Constitucional** para que emita un dictamen, antes de que la Asamblea pueda tratarlo.
+
+### Más noticias:
+
+* [Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta](https://www.elcomercio.com/actualidad/politica/comision-reforma-bases-militares-extranjeras-tiene-presidenta.html "Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta")
+* [Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-presento-querella-contra-asambleista-monica-palacios.html "Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?")
+
+La reforma constitucional sobre los presos, propuesta por Daniel Noboa
+----------------------------------------------------------------------
+
+Esta es la **segunda** propuesta de reforma constitucional presentada por Daniel Noboa.
+
+Antes, el Presidente presentó otra propuesta de reforma parcial a la Constitución sobre las **bases militares** extranjeras.
+
+En este texto, que está en trámite en la Asamblea, se propone **eliminar el artículo** constitucional que prohíbe el establecimiento de bases militares extranjeras en el país.
+
+Este miércoles, el presidente Daniel Noboa anunció que busca reformar dos artículos de la Constitución, relacionados con los presos o **personas privadas de la libertad**.
+
+La iniciativa de reforma parcial a la Constitución tiene la finalidad de eliminar de la categoría de **grupos de atención prioritaria** a los presos.
+
+Así, el mandatario sugiere reformar los **artículos 35 y el 51** de la Constitución de la República del Ecuador.
+
+### Los artículos a reformar
+
+El artículo 35 de la Constitución establece que: “Las personas adultas mayores, niñas, niños y adolescentes, mujeres embarazadas, **personas con discapacidad**, personas privadas de libertad y quienes adolezcan de enfermedades catastróficas o de alta complejidad, **recibirán atención prioritaria y especializada** en los ámbitos público y privado (…)”.
+
+En tanto, en el artículo 51, la Constitución dispone varios derechos para las personas privadas de la libertad:
+
+* No ser sometidas a **aislamiento** como sanción disciplinaria.
+* La comunicación y visita de sus **familiares** y profesionales del derecho.
+* Declarar ante una autoridad judicial sobre el **trato** que haya recibido durante la privación de la libertad.
+* Contar con los **recursos humanos y materiales** necesarios para garantizar su salud integral en los centros de privación de libertad.
+* La atención de sus **necesidades** educativas, laborales, productivas, culturales,
+* alimenticias y recreativas.
+* Recibir un tratamiento preferente y especializado en el caso de las **mujeres embarazadas** y en periodo de lactancia, adolescentes, y las personas adultas mayores, enfermas o con discapacidad.
+* Contar con **medidas de protección** para las niñas, niños, adolescentes, personas con discapacidad y personas adultas mayores que estén bajo su cuidado y dependencia. 
+
+La Presidencia señaló que: “este planteamiento es guiado por **sentido de justicia e igualdad** en la distribución de los recursos y atenciones estatales, que debieron ser siempre prioritarios para toda la ciudadanía”.
+
+Policía recuperó cinco osamentas humanas en Guayaquil
+=====================================================
+
+Militares descubrieron las osamentas mientras realizaban un operativo contra asentamientos ilegales.
+----------------------------------------------------------------------------------------------------
+
+![Los cuerpos en descomposición de las víctimas fueron hallados en un lugar conocido como el "canal de la muerte"](https://www.elcomercio.com/wp-content/uploads/2024/11/osamentas-guayaquil.jpg)
+
+La Policía recuperó **cinco osamentas humanas** que se encontraban en medio de la maleza del **Bosque Protector Papagayo**, en la parroquia Tarqui, al noroeste de Guayaquil.
+
+Los restos fueron encontrados al medio día del martes 5 de noviembre de 2024, mientras **militares** realizaban un operativo contra **asentamientos ilegales** en el sector.
+
+### Más noticias
+
+* [Policía detiene a exdocente por presunto ciberacoso, en Quito](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-exdocente-presunto-ciberacoso-quito.html "Policía detiene a exdocente por presunto ciberacoso, en Quito")
+* [Policía libera a mujer víctima de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/policia-libera-mujer-victima-secuestro-guayas.html "Policía libera a mujer víctima de secuestro en Guayas")
+* [Policía abatió a un delincuente armado en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-abatio-a-un-delincuente-armado-en-guayaquil.html "Policía abatió a un delincuente armado en Guayaquil")
+
+El **fuerte olor** que se desprendía de alado de uno de los caminos de tercer orden llamó la atención de los uniformados, quienes decidieron **indagar**.
+
+Al acercarse al punto, los miembros de las **Fuerzas Armadas** comprobaron la presencia de varios huesos que parecían ser **restos humanos** en descomposición[.](https://es.wikipedia.org/wiki/Bosque_protector_Papagayo "https://es.wikipedia.org/wiki/Bosque_protector_Papagayo")
+
+El difícil acceso al lugar, debido a la vegetación crecida, obligó a que el **retiro de las osamentas** se ejecute a la mañana del día siguiente.
+
+Los restos pertenecerían a cuatro hombres y una mujer
+-----------------------------------------------------
+
+Cerca de las 09:00 de este miércoles, unidades especializadas de la **Policía** acudieron a tratar la alerta.
+
+Luego de varias horas de trabajo, finalmente los gendarmes y un **forense** pudieron extraer los cadáveres en fundas especiales.
+
+Los cuerpos fueron trasladados hacia una **morgue** de la ciudad, donde se les realizará los análisis e **identificación** respectiva.
+
+De forma preliminar se presume que los cuerpos estuvieron **más de 30 días en descomposición** luego de ser arrojados desde la vía. Uno de los cinco cadáveres pertenecería a una mujer.
+
+Bandas criminales se disputan el lugar
+--------------------------------------
+
+Además de las osamentas se encontraron **varias prendas de vestir** desgastadas por las condiciones ambientales, lo que presume que pudieron pertenecer a **otras víctimas**.
+
+Este sector es conocido como el “**canal de la muerte**“, por los recurrentes cuerpos de víctimas de asesinatos que se hallan en este tramo de más de 40 kilómetros.
+
+Al menos **cuatro bandas criminales** operan en este distrito, provocando una ola de violencia que va en aumento.
+
+En lo que va del año se han reportado **134 asesinatos** en este lugar del noroeste de Guayaquil.
+
+Willian Pacho tiene como mentor a una figura mundial en PSG
+===========================================================
+
+Willian Pacho, central ecuatoriano y figura del PSG, reveló quién es uno de sus mentores y referentes dentro del conjunto francés.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Willian Pacho, defensa ecuatoriano, durante un partido del PSG.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-06T204649.716.jpg)
+
+**Willian Pacho** llegó para la temporada 2024-2025 al **PSG** y se ha convertido en una de las figuras del conjunto francés. En el equipo, el central ecuatoriano ha encontrado a un referente de talle mundial en quien se ha apoyado para continuar con su crecimiento.
+
+Una campaña con el **Frankfurt** de Alemania le bastó al defensa esmeraldeño para dar el salto hacia un club de renombre a nivel de Europa. Con el conjunto parisino, este brilla tanto en la **Ligue One** como en la Champions League, donde cayó en su último partido.
+
+### Más noticias:
+
+* [Sparta Praga de Angelo Preciado cae en Champions ante Brest](https://www.elcomercio.com/deportes/sparta-praga-angelo-preciado-brest-champions.html "Sparta Praga de Angelo Preciado cae en Champions ante Brest")
+* [El FC Barcelona, imparable, goleó en Champions](https://www.elcomercio.com/deportes/barcelona-champions-estrella-roja-goleada.html "El FC Barcelona, imparable, goleó en Champions")
+* [Atlético de Madrid le remontó al PSG de Willian Pacho en Champions](https://www.elcomercio.com/deportes/futbol/atletico-de-madrid-le-remonto-al-psg-de-willian-pacho-en-champions.html "Atlético de Madrid le remontó al PSG de Willian Pacho en Champions")
+
+Uno de los factores que al futbolista ecuatoriano le han servido para su rápida adaptación ha sido la presencia de **Marquinhos** en el club. El defensor brasilero es el capitán del plantel azul y rojo y quien hace la dupla en la zaga del equipo junto a **Pacho**.
+
+Antes de disputar su último cotejo de Champions ante el **Atlético de Madrid**, que se impuso al PSG por 1-2, el ecuatoriano conversó con los medios de comunicación. Este relató cómo el jugar junto a al brasilero lo ha servido y el rol que tiene para él.
+
+¿Qué dijo Willian Pacho sobre Marquinhos en el PSG?
+---------------------------------------------------
+
+Pacho se refirió a las cualidades de **Marquinhos** a nivel humano como futbolístico y a los gestos que tiene con él y con el grupo. Asimismo, también narró de manera personal lo que el jugador a hecho por él dentro del PSG.
+
+“**Es una excelente persona en el día a día, en cómo vive los entrenamientos, cómo entrena, cómo habla, cómo nos ayuda. La verdad, personalmente, a mí me ha dado mucha confianza para mis inicios aquí en París y eso me tiene muy feliz**“, señaló Pacho.
+
+Entre otras cuestiones, el tricolor destacó la capacidad de entrenamiento y el desempeño de su colega. “**La manera en que entrena, cómo maneja los perfiles, cómo está en la cancha, cómo cubre los espacios, son cosas que aprendo y me llevo cada día para seguir creciendo como jugador y persona**“, agregó.
+
+¿Cómo le fue al PSG en Champions?
+---------------------------------
+
+En su último partido en la UEFA Champions League con el PSG, tanto **Willian Pacho** como **Marquinhos** partieron como titulares. Los dos jugadores formaron la dupla de defensas centrales en un esquema de 4-3-3 planteado por **Luis Enrique** ante el Atlético de Madrid.
+
+Aunque el conjunto de **París** fue el primero en ponerse por delante en el marcador, el cuadro español dio la vuelta al marcador. El duelo terminó con un marcador de **1-2 a favor de la visita**.  
+
 Contraloría detectó irregularidades en la Universidad Central
 =============================================================
 
@@ -73,6 +503,51 @@ La Universidad Central destinó más de 75 000 al pago de salarios de dos profe
 
 Otros maestros tenían cargos como docentes y como administrativos y existían sueldos superiores a lo que ordena la normativa del **Consejo de Educación Superior (CES)**.
 
+La Universidad Central del Ecuador no ha emitido un **pronunciamiento** sobre este examen.
+
+Gobierno alemán cae por diferencias en política económica en contexto de recesión
+=================================================================================
+
+La coalición del Gobierno alemán se rompió.
+-------------------------------------------
+
+![El canciller alemán, Olaf Scholz.](https://www.elcomercio.com/wp-content/uploads/2024/11/olan-efe.jpg)
+
+La coalición del [Gobierno alemán](https://www.elcomercio.com/tendencias/ciencia/daniela-arrellano-ecuatoriana-premio-nobel.html "https://www.elcomercio.com/tendencias/ciencia/daniela-arrellano-ecuatoriana-premio-nobel.html"), formada por **verdes, liberales y socialdemócratas**, que lleva tres años liderando el país centroeuropeo, se rompió este miércoles, 6 de noviembre de 2024.
+
+### Más noticias:
+
+* [Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-eintracht-frankfurt-remontada.html "Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania")
+* [El arte conecta en vivo a los bosques de Ecuador con dos ciudades de Suiza y Alemania](https://www.elcomercio.com/tendencias/el-arte-conecta-en-vivo-a-los-bosques-de-ecuador-con-dos-ciudades-de-suiza-y-alemania.html "https://www.elcomercio.com/tendencias/el-arte-conecta-en-vivo-a-los-bosques-de-ecuador-con-dos-ciudades-de-suiza-y-alemania.html")
+* [Ciudadano alemán sufrió un accidente de parapente en Ibarra](https://www.elcomercio.com/actualidad/ciudadano-aleman-accidente-parapente-ibarra.html "https://www.elcomercio.com/actualidad/ciudadano-aleman-accidente-parapente-ibarra.html")
+
+Esto tras expulsar el canciller, **Olaf Scholz, al ministro de Finanzas,** el **liberal Christian Lindner**, que exigió un cambio de **rumbo de la política económica** con exigencias que eran inasumibles para el resto de los socios, si bien las disputas ya se sucedían casi desde el principios de la andadura del **llamado “semáforo”.**
+
+Claves para entender la crisis
+------------------------------
+
+Estas son las claves de la crisis que ha llevado al fin de la coalición, a la que ya solo apoyaba el 14 % de la población, según una reciente encuesta de INSA:
+
+– El **ministro de Finanzas, del Partido Liberal (FDP),** socio menor de la coalición, presentó el jueves 31 de octubre a sus socios un documento de **18 páginas** para reactivar la economía alemana, que se encamina a su segundo año consecutivo de recesión. La propuesta se filtra a la prensa al día siguiente, algo que criticó Lindner. Pero el detonante -o la excusa para muchos- para forzar una ruptura estaba ya servida.
+
+– El **documento, calificada por algunos de “carta de divorcio”** y por otros incluso de “declaración de guerra”. Incluía medidas como **recortes fiscales** para las empresas, una relajación de los objetivos climáticos y una **reducción de las subvenciones** y prestaciones sociales, con lo que Lindner exigía a la coalición abandonar el actual planteamiento económico delineado en el acuerdo de coalición de 2021.
+
+– El domingo pasado **Scholz citó a Lindner para hablar con él** sobre este documento y las perspectivas de un compromiso, algo que previamente ya había hecho con su vicecanciller y ministro de Economía, el ecologista Robert Habeck.
+
+– El lunes se convoca una **reunión a tres bandas y el martes otra para tratar de buscar soluciones.** Scholz convoca otras dos reuniones de crisis para este miércoles en la que participan Habeck y Lindner, antes de sumarse por la tarde en la llamada comisión de coalición los responsables de los partidos que forman la coalición y de los grupos parlamentarios.
+
+– Entre el lunes y este miércoles, tanto Scholz como Habeck intentan apelar a la **unidad a los liberales y a la responsabilidad a Lindner**. Apuntaron a que sería el peor momento para una ruptura ante la mala situación económica, las elecciones en EE.UU., que ganó el republicano Donald Trump, y la **guerra rusa** en Ucrania. Sin embargo, el presidente del Partido Liberal insistió en que debía haber una decisión sobre el fundamento de la política económica del Gobierno.
+
+– No solo eran las medidas para reavivar la **maltrecha economía,** aquejada por la competencia de EE.UU. y de China, y la f**alta de inversión en la infraestructura,** entre otros factores, que dividían a los socios de la coalición, en la que Lindner abogaba por menos Estado y no quería aflojar el freno de la deuda, sino también el presupuesto para 2025. La próxima semana debe cerrarse en la **Comisión Presupuestaria del Parlamento** y en el que aún había un agujero por tapar de más de 12 000 millones de euros.
+
+– Ambos problemas están estrechamente vinculados, pues el presupuesto debe financiar las medidas económicas y por tanto el rumbo del Gobierno en esta materia.
+
+– Las disputas entre los socios de la coalición no eran nuevas, sino que todos sacaron constantemente sus **diferencias a la luz pública,** generando un hartazgo entre los mismos líderes y también entre la población, a juzgar por las encuestas, en las que los socialdemócratas ya solo cosecharían un 16 % de los votos si hoy fueran las elecciones, l**os Verdes un 10 % y los liberales de Lindner** ni siquiera entrarían en la Cámara Baja o Bundestag con un 4 %.
+
+– Sin embargo, las diferencias entre los liberales y sus socios, una alianza difícilmente compatible desde un principio, se agrandaron conforme pasaban los meses, las semanas y los días hasta agotarse la paciencia diez meses antes de las elecciones generales previstas para finales de septiembre de 2025.
+
+– Scholz cesó a Lindner, **acusándole de falta de responsabilidad** y de rechazar cualquier compromiso, con lo que la coalición se quedó en minoría entre los Verdes y los socialdemócratas. El canciller pedirá un voto de confianza el 15 de enero, que con casi toda seguridad perderá al estar ya en minoría, por lo que se convocarán probablement**e elecciones anticipadas a finales de marzo.** 
+
 Marco Pazos, presidente de El Nacional, señala que cumplió acuerdos con la plantilla
 ====================================================================================
 
@@ -93,7 +568,7 @@ Durante este 6 de noviembre del 2024, antes de que se lleve a cabo el consejo de
 
 Antes de que Pazos explique lo suscitado, **Anthony Bedoya** tomó la palabra por medio de sus redes sociales y se quejó de la situación. Allí este señaló que hubo promesas que no se cumplieron y no se realizan esfuerzos por los futbolistas.
 
-Tras el pronunciamiento de Bedoya, desde la dirigencia de **El Nacional** se confirmó a EL COMERCIO que se pagó la mitad de un sueldo a los jugadores y alrededor de 70 dólares requeridos por la Federación Ecuatoriana de Fútbol (FEF). A su vez, fuentes cercanas a la plantilla señalaron que la deuda es de cerca de cuatro meses y que se esperaba que la taquilla cubra, por lo menos, un mes de los valores.
+Tras el pronunciamiento de Bedoya, desde la dirigencia de **El Nacional** se confirmó a EL COMERCIO que se pagó la mitad de un sueldo a los jugadores y alrededor de 70 mil dólares requeridos por la Federación Ecuatoriana de Fútbol (FEF). A su vez, fuentes cercanas a la plantilla señalaron que la deuda es de cerca de cuatro meses y que se esperaba que la taquilla cubra, por lo menos, un mes de los valores.
 
 ¿Qué dijo Marco Pazos sobre los compromisos por deudas en El Nacional?
 ----------------------------------------------------------------------
@@ -465,692 +940,3 @@ El docente destaca que temas como la **migración y la cooperación para el desa
 > [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCCGQk5OoNd/?utm_source=ig_embed&utm_campaign=loading)
 
 Rosales concluye que la estrategia de Noboa debe e**ncontrar un equilibrio para mantener buenas relaciones con Estados Unidos**, sin comprometer la soberanía del país.
-
-El FC Barcelona, imparable, goleó en Champions
-==============================================
-
-El FC Barcelona goleó en la Champions al Estrella Roja en un accidentado partido y sigue en lo alto del torneo europeo.
------------------------------------------------------------------------------------------------------------------------
-
-![Lamine Yamal (derecha) protege un balón ante un rival del Estrella Roja en la UEFA Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/11/26cd4a5e1d4569296ca41dbe88f11c5dec9864ae.jpg)
-
-El **FC Barcelona** goleó al Estrella Roja (2-5) en el Rajko Mitic de Belgrado para encadenar su tercera victoria en la Liga de Campeones, consolidarse en la parte alta de la clasificación y seguir alimentando su recuperado prestigio europeo.
-
-El equipo azulgrana continúa saldando cuentas pendientes en este torneo y, tras enterrar viejos fantasmas con la goleada ante el **Bayern** la pasada jornada, esta noche logró ganar, también con enorme autoridad, su primer duelo europeo como visitante tras el fallido estreno de **Mónaco**.
-
-### Más noticias:
-
-* [Atlético de Madrid le remontó al PSG de Willian Pacho en Champions](https://www.elcomercio.com/deportes/futbol/atletico-de-madrid-le-remonto-al-psg-de-willian-pacho-en-champions.html "Atlético de Madrid le remontó al PSG de Willian Pacho en Champions")
-* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
-* [La Champions League sigue con nueve partidos más](https://www.elcomercio.com/deportes/futbol/champions-league-partidos-ecuatorianos-horarios.html "La Champions League sigue con nueve partidos más")
-
-El rival resultaba propicio para lograrlo pues el **Estrella Roja**, aunque domina con mano de hierro la **Superliga** serbia, donde aún no ha perdido, es una de las cenicientas de esta ‘**Champions**‘, donde cuenta sus partidos por derrotas.
-
-Empezó el Barça exhibiendo todas las virtudes con las que **Flick** lo ha convertido en un equipo temible: recuperación tras pérdida, línea defensiva adelantada y dominio de la estrategia.
-
-Así, apenas se habían jugado cuatro minutos y el árbitro ya había invalidado por fuera de juego un gol al local **Elsnik**, el decimocuarto que le anulan por ese motivo a un rival del conjunto azulgrana esta temporada.
-
-**Lamine Yamal** avisaba a Ilic en el 8, cuando remataba dentro del área un rechace de la defensa serbia que pilló al meta del Estrella Roja bien colocado. Y cinco minutos después, Íñigo Martínez cabeceaba en plancha una falta botada por **Raphinha** desde la izquierda para hacer el 0-1.
-
-El FC Barcelona encaminó su goleada
------------------------------------
-
-Al Barcelona, que dominaba a placer, parecía que se le ponía todo de cara, y rondó el segundo en un intento de gol olímpico de **Raphinha**, que envió al palo un saque de esquina, y otro remate alto del brasileño, al que **Lamine Yamal** había habilitado con un pase magistral a la espalda de la zaga local.
-
-Pero este Barça entiende la defensa como un ejercicio de funambulismo, y una triangulación al primer toque entre **Ndiaye y Krunic** dejaba solo a Silas, que picaba el balón al fondo de la red sobre la desesperada salida de Iñaki Peña.
-
-Esa vez no hubo fuera de juego y el Pequeño Maracaná enloqueció con el gol del empate de su equipo poco antes de la media hora. El **Estrella Roja** pareció igualar el choque no solo en el marcador, sino también en fútbol en los minutos siguientes, pero de nuevo era el Barcelona el que golpeaba primero antes de llegar al descanso.
-
-Un disparo seco de **Raphinha** desde la frontal se estrellaba en el poste, y Lewandowski, muy atento, recogía el rechace y remataba a gol, con Ilic ya batido, para hacer el 1-2.
-
-El Estrella Roja había aguantado el tipo en el primer acto, pero el cuadro catalán fue una apisonadora tras la reanudación. Con una fútbol más afilado, un Kounde más profundo y un **Pedri** más participativo, finiquitó el partido en los diez primeros minutos de la segunda mitad.
-
-Los goles del Barça no pararon
-------------------------------
-
-**Pedri y Lewandowski** rondaron el gol en sendos disparos dentro del área que no encontraron portería antes de que el ‘9’ polaco, esta vez sí, rematara a placer un centro al segundo palo de Kounde, para hacer su decimonovena diana del curso y la 99 en **Champions** de su carrera.
-
-En la jugada siguiente, **Raphinha** se añadía a la fiesta con el 1-4, fruto de un disparo raso a la cepa del poste de Ilic tras recibir también una asistencia de **Kounde**.
-
-El partido ya estaba sentenciado, pero el Barcelona tendría un susto inesperado y no precisamente en el marcador. Y es que **Cubarsí** tenía que abandonar el césped, con la cara ensangrentada después de que Spajic le clavara los tacos en un lance del juego[.](https://es.wikipedia.org/wiki/F%C3%BAtbol_Club_Barcelona "https://es.wikipedia.org/wiki/F%C3%BAtbol_Club_Barcelona")
-
-El canterano, pese a lo aparatoso de la acción, dejaba el terreno de juego algo aturdido, pero por su propio pie, en el 67, y su plaza en el eje de la zaga la ocupaba Sergi Domínguez.
-
-**Fermín**, otro de los hombres de refresco en la segunda mitad, hacía el quinto para los visitantes, justo antes de que el partido se asomase a su último cuarto de hora. La **asistencia** desde la derecha era de nuevo de un inspiradísimo Kounde, que optaba esta vez, antes de dar su tercer pase de gol, por apurar la conducción del balón hasta llegar a la línea de fondo.
-
-El propio Fermín pudo hacer el sexto con un disparo que se estrelló en el larguero poco después de que el **Estrella Roja**, en su única ocasión clara de toda la segunda mitad, hiciera el 2-5, obra del recién ingresado Milson, que sorprendía a Peña con un tiro colocado de rosca tras recibir escorado dentro del área.
-
-Alineaciones del FC Barcelona vs. Estrella Roja
------------------------------------------------
-
-2 – **Estrella Roja**: Ilic; Seol, Spajic, Djiga, Rodic (Milson, min.59); Kanga (Dalcio, min.72), Elsnik, Krunic; Silas (Prutsev, min.82), Maksimovic (Ilic, min.72); y Ndiaye (Katai, min.82).
-
-5 – **Barcelona**: Iñaki Peña; Koundé, Cubarsí (Sergi Domínguez, min.67), Íñigo Martínez, Gerard Martín; De Jong (Gavi, min.67), Casadó; Lamine Yamal, Pedri (Fermín, min.58), Raphinha (Dani Olmo, min.58); y Lewandowski (Pau Víctor, min.78).
-
-Cortes de luz para Quito este jueves 7 de noviembre
-===================================================
-
-Los cortes de luz en Quito para este jueves 7 de noviembre son de hasta seis horas, para el sector residencial.
----------------------------------------------------------------------------------------------------------------
-
-![Los horarios de cortes de luz en Quito este jueves 7 de noviembre se mantendrán hasta el sábado 9.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-jueves-7-noviembre.jpg)
-
-Los **cortes de luz** para **Quito** este **jueves 7 de noviembre** se mantienen en hasta seis horas de duración para el sector residencial.
-
-La **Empresa Eléctrica Quito** definió el cronograma por sectores y franjas, con horarios que rigen hasta el sábado 9 de noviembre.
-
-### Más noticias:
-
-* [Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales por crisis energética](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-alivios-economicos-entidades-financieras-crisis-energetica.html "Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales por crisis energética")
-* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
-
-Cortes de luz en Quito este jueves 7 de noviembre
--------------------------------------------------
-
-El incremento en Coca Codo Sinclair permitió reducir las horas de los cortes de luz en todo el país.
-
-Si bien no rebajar hasta las 4 horas diarias que ofreció el Gobierno de **Daniel Noboa** en un principio, si bajar de las 14 horas que estaban.
-
-Sin embargo, el país sigue dependiendo de la cantidad de **lluvias** para estabilizar el funcionamiento de las hidroeléctricas, Mazar no termina de reactivarse.
-
-Por estos motivos, las autoridades mantienen los cortes de energía eléctrica de hasta **seis horas** en todo el país, para el sector residencial.
-
-Mientras que, para el sector industrial, los cortes llegan hasta las **14 horas**, en Quito.
-
-Esto, en medio de los proyectos de Gobierno para comprar energía, transformar la **matriz energética** para no depender de las lluvias.
-
-Además, de la eliminación de impuestos a la comercialización de **generadores** y el retiro del subsidio tarifario a las mineras.
-
-Con estas acciones, el Gobierno prevé que, para **diciembre**, los cortes de luz sean mínimos o ya no existan.
-
-En Quito, existen cortes de **cinco horas continuas**, en la madrugada, de 00:00 a 05:00.
-
-Este es el caso de La Marín, Olímpico, Escuela Sucre, San Roque, Diez Vieja, San Pablo, Iñaquito, Tababela, Diez Nueva, Los Bancos y Pomasqui.
-
-Los cortes de hasta 14 horas, de 10:00 a 24:00, para el **sector industrial**, están en los sectores de: Santa Rosa, Inga Bajo y Sangolquí.
-
-La Empresa Eléctrica de Quito recordó que, debido a la mejora de las **condiciones hidrológicas**, los cortes de energía pueden reducirse dentro del período de corte programado.
-
-A continuación, los **cortes de luz en Quito este jueves 7 de noviembre**, por sectores y franjas horarias:
-
-¿Cuántos feriados nacionales y locales le restan a Ecuador en 2024?
-===================================================================
-
-Ecuador tiene 10 feriados nacionales cada año. A estos se suman descansos obligatorios locales por fechas cívicas.
-------------------------------------------------------------------------------------------------------------------
-
-![La Fundación de Quito es uno de los feriados locales que le restan a Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/11/feriado-quito-nacionales.jpg)
-
-Luego del **extenso feriado** que tuvieron los ecuatorianos, donde hubo **cinco días de descanso obligatorio**, entre el jueves 31 de octubre al lunes 4 de noviembre, al país le resta un **feriado nacional** y 18 locales en este año.
-
-### Más noticias
-
-* [En el feriado de noviembre se registraron más de 47 000 emergencias](https://www.elcomercio.com/actualidad/ecuador/feriado-de-noviembre-se-registraron-mas-de-47-000-emergencias.html "En el feriado de noviembre se registraron más de 47 000 emergencias")
-* [Es necesaria una solución al caos vehicular en los feriados](https://www.elcomercio.com/opinion/editorial/urgente-necesaria-solucion-caos-vehicular-feriados-transito.html "Es necesaria una solución al caos vehicular en los feriados")
-* [Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado](https://www.elcomercio.com/tendencias/turismo/haciendas-pichincha-cotopaxi-feriado-vacaciones.html "Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado")
-
-Estas **festividades locales** conmemorarán fechas cívicas, que incluyen independencias, cantonizaciones, provincializaciones y fundaciones de cantones y provincias.
-
-Mientras que el **asueto nacional** celebrará una festividad cristiana.
-
-Feriado nacional por Navidad
-----------------------------
-
-La **Navidad** es una festividad cristiana que conmemora el **nacimiento de Jesucristo**, celebrándose el **25 de diciembre**.
-
-La **época navideña** se extiende más allá de este día. La Navidad incluye el **Adviento**, que comienza cuatro semanas antes.
-
-La **Nochebuena** es otro de los días más esperados. La noche del **24 de diciembre** se celebra la víspera de Navidad, donde las familias y amigos suelen reunirse para cenar y compartir juntos.
-
-La época suele finalizar con la **Epifanía**, que se realiza el 6 de enero. Este día también es conocido como **Día de Reyes**.
-
-En 2024, Navidad coincide con miércoles. Este feriado **no es movible**, por lo que el descanso obligatorio se aplica el 25 de diciembre[.](https://es.wikipedia.org/wiki/Navidad "https://es.wikipedia.org/wiki/Navidad")
-
-Feriados locales en noviembre y diciembre
------------------------------------------
-
-Además de este festejo nacional, algunos **cantones y provincias** de Ecuador tendrán 18 descansos localizados.
-
-14 de estas celebraciones se conmemorarán en **noviembre** y cuatro en **diciembre**:
-
-### Feriados locales en noviembre:
-
-* miércoles 6 de noviembre (se traslada al viernes 8):
-    * Provincialización de **Santo Domingo** **de los Tsáchilas**
-* jueves 7 de noviembre (se traslada al viernes 8):
-    * Provincialización de **Santa Elena**
-* domingo 10 de noviembre (se traslada al lunes 11):
-    * Independencia de **Guaranda**
-    * Provincialización de **Morona Santiago**
-    * Provincialización de **Pastaza**
-    * Provincialización de **Zamora Chinchipe**
-* lunes 11 de noviembre:
-    * Independencia de **Latacunga**
-    * Fundación de **Riobamba**
-* martes 12 de noviembre (se traslada al lunes 11):
-    * Independencia de **Ambato**
-* viernes 15 de noviembre:
-    * Fundación de **Tena**
-* lunes 18 de noviembre:
-    * Independencia de **Loja**
-* martes 19 de noviembre (se traslada al lunes 18):
-    * Provincialización de **Carchi**
-* jueves 21 de noviembre (se traslada al viernes 22):
-    * Provincialización de **Esmeraldas**
-* martes 26 de noviembre (se traslada al lunes 25):
-    * Cantonización de **Daule**
-
-### Feriados locales en diciembre:
-
-* viernes 6 de diciembre:
-    * Fundación de **Quito**
-* domingo 8 de diciembre (se traslada al lunes 9):
-    * Fundación de **Loja**
-* lunes 16 de diciembre:
-    * Cantonización de **Baños**
-* domingo 22 de diciembre (se traslada al lunes 23):
-    * Cantonización de **Salinas**  
-        
-
-¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?
-======================================================
-
-El inicio de la Vuelta Ciclística al Ecuador está cerca y los equipos alistan a sus mejores ciclistas. Serán más de mil km.
----------------------------------------------------------------------------------------------------------------------------
-
-![El Team Medellín de Colombia está entre los favoritos para ganar la Vuelta Ciclística al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-20.jpg)
-
-El prestigioso **Team Medellín**, uno de los equipos más destacados del ciclismo continental, ha confirmado su participación en la edición 41 de la **Vuelta Ciclística al Ecuador** que se realizará en este mes.
-
-La competencia de ciclismo, de categoría UCI American Tour, recorrerá un total de 1125 kilómetros distribuidos en ocho provincias: Pichincha, Santo Domingo de los Tsáchilas, Los Ríos, Chimborazo, Tungurahua, Bolívar, Cotopaxi e Imbabura.
-
-### Más noticias:
-
-* [El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/el-calor-y-la-humedad-de-guayaquil-el-aliado-de-ecuador-ante-bolivia.html "El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia")
-* [Richard Carapaz brilla como el mejor ciclista de Latinoamérica](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-mejor-ciclista-latinoamerica-2024.html "Richard Carapaz brilla como el mejor ciclista de Latinoamérica")
-* [Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala](https://www.elcomercio.com/deportes/bayron-guama-vuelta-guatemala-ecuador.html "Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala")
-
-¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?
-------------------------------------------------------
-
-La Vuelta Ciclística al Ecuador, en su edición 41, se celebrará del 11 al 17 de noviembre de 2024.
-
-Un día antes, el 10 de noviembre, se realizará la presentación de los equipos. Según la **Federación Ecuatoriana de Ciclismo** (FEC) son 15 equipos los participantes.
-
-Equipos internacionales en la Vuelta Ciclística al Ecuador
-----------------------------------------------------------
-
-Se espera la presencia de unos 90 ciclistas élite, entre los que destacan equipos internacionales como el **Team Medellín**, el Esparza de México, el BTR-USA de Estados Unidos, el Politachira Heidy Lee de Venezuela, el Orígenes Coffee de Colombia y el Hino One La Red de Guatemala.
-
-Además, competirán varios equipos nacionales de renombre como el Movistar Best PC, que contará con el cuatro veces ganador de la Vuelta, **Byron Guamá**.
-
-Los ciclistas comenzarán la competencia en Calacalí, Pichincha, y la última etapa se desarrollará entre Atuntaqui (Imbabura) y el Monumento de la Mitad del Mundo en Quito.
-
-La Vuelta Ciclística al Ecuador promete ser una de las más competitivas y esperadas de la temporada.
-
-Las etapas de la Vuelta al Ecuador 2024
----------------------------------------
-
-* **Domingo 10 noviembre** Presentación Equipos / Holiday Inn Airport  
-    
-* **Lunes 11 noviembre** Etapa 1 – 157,5 Km / Calacali – La Concordia  
-    
-* **Martes 12 noviembre** Etapa 2 – 239,2 Km / Valle Hermoso – Babahoyo  
-    
-* **Miércoles 13 noviembre** Etapa 3 – 115,9 Km / El Arenal – Alausí  
-    
-* **Jueves 14 noviembre** Etapa 4 – 129,6 Km / Circuito Riobamba  
-    
-* **Viernes 15 noviembre** Etapa 5 – 152 km / Urbina – Machachi  
-    
-* **Sábado 16 noviembre** Etapa 6 – 179,8 Km / Machachi – Cotacachi  
-    
-* **Domingo 17 noviembre** Etapa 7 – 159,6 Km / Atuntaqui – Quito
-
-Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’
-=======================================================================
-
-Este artista colombiano aparece como una figura destacada en la música urbana.
-------------------------------------------------------------------------------
-
-![El cantante colombiano tiene 26 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-06T165407.414.jpg)
-
-En una entrevista con diario **EL TIEMPO**, el artista -que ahora es el rostro del **reguetón** ‘bueno’- confesó que creció en una **bomba de gasolina**, entre **camioneros**, y que su vida estuvo marcada por las **drogas**.
-
-También, que la **música** lo salvó. ¿De quién se trata?
-
-### **Más noticias:**
-
-* [La derrota de Kamala Harris silenció a los famosos que apostaron por su triunfo](https://www.elcomercio.com/tendencias/entretenimiento/famosos-decepcion-kamala-harris-donald-trump.html "https://www.elcomercio.com/tendencias/entretenimiento/famosos-decepcion-kamala-harris-donald-trump.html")
-* [Karol G enternece las redes con un disfraz inspirado en una película icónica](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html")
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link")
-
-**Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’**
----------------------------------------------------------------------------
-
-Juan David Loaiza -más conocido como **Kapo**– aparece como una **figura destacada** en la música urbana, redefiniendo el **reguetón** con su estilo fresco y auténtico.
-
-Nacido en Cali, Colombia, en 1997, **Kapo** captó la atención de importantes artistas del **género**, incluyendo a **Maluma** y Nicky Jam, gracias a su éxito viral **Ohnana**. Ese tema -precisamente- acumula millones de reproducciones en plataformas digitales.
-
-**Kapo tuvo una infancia llena de adversidades**
-------------------------------------------------
-
-Desde joven, **Kapo** enfrentó adversidades significativas, incluyendo una infancia marcada por la ausencia **paterna** y problemas con las drogas.
-
-A los 17 años, se trasladó a **Bogotá**, donde la vida nocturna lo llevó a situaciones complicadas. Sin embargo, encontró en la música una vía de escape y un medio para transformar su vida.
-
-> [View this post on Instagram](https://www.instagram.com/p/DArYRXhgsaV/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Manuel Turizo – MTZ (@manuelturizo)](https://www.instagram.com/p/DArYRXhgsaV/?utm_source=ig_embed&utm_campaign=loading)
-
-En sus propias palabras, “la música fue lo que me sacó de la oscuridad”.
-
-**Kapo seduce con sus canciones con contenido**
------------------------------------------------
-
-El impacto de **Kapo** en la **música urbana** se vio reforzado por su enfoque en letras que promueven mensajes positivos y respetuosos.
-
-En un panorama musical a menudo criticado por su contenido violento, Kapo intenta ofrecer canciones que sean edificantes y que resuenen con un público más amplio.
-
-**Más allá de Ohnana**
-----------------------
-
-Su reciente sencillo **Uwaie** fue superbien recibido, consolidando su posición como uno de los artistas emergentes más prometedores del género.
-
-Inspirado por su **madre** -a quien describe como una figura fuerte- incluye en su música mensajes que celebran la fortaleza de las mujeres.
-
-Este enfoque refleja una evolución personal y artística que busca desafiar las normas tradicionales del reguetón.
-
-**Kapo y su ‘Qué Pecao’**
--------------------------
-
-‘Qué Pecao’ se titula su más reciente colaboración con el también colombiano Manuel Turizo. El video oficial de la canción ya suma 9 millones de reproducciones.
-
-Atlético de Madrid le remontó al PSG de Willian Pacho en Champions
-==================================================================
-
-El París Saint-Germain, que domina en el campeonato francés, no ha podido trasladar esa superioridad a la Champions League.
----------------------------------------------------------------------------------------------------------------------------
-
-![Willian Pacho (izq.) y Nahuel Molina en el partido entre París Saint-Germain por la Uefa Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-91.jpg)
-
-El **París Saint-Germain** perdió 1-2 contra el Atlético de Madrid este 6 de noviembre de 2024, por la cuarta jornada de la Uefa Champions League. **Willian Pacho** sumó una nueva titularidad en el torneo.
-
-Los parisinos están en una situación complicada en el nuevo formato del torneo, ya que aún no logran despegar y solo han conseguido una victoria. El **PSG** está en el puesto 25 fuera de posiciones de clasificación.
-
-### Más noticias:
-
-* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
-* [La Champions League sigue con nueve partidos más](https://www.elcomercio.com/deportes/futbol/champions-league-partidos-ecuatorianos-horarios.html "La Champions League sigue con nueve partidos más")
-* [Manchester City recibió una sorpresiva goleada en Champions League](https://www.elcomercio.com/deportes/futbol/manchester-city-recibio-una-sorpresiva-goleada-en-champions-league.html "Manchester City recibió una sorpresiva goleada en Champions League")
-
-El **Atlético de Madrid**, por su parte, se encuentra en la posición 23, con seis unidades.
-
-Pacho, quien ha sido clave en el esquema de **Luis Enrique**, sumó su cuarta titularidad en Champions, siendo de los pocos del equipo que ha jugado todos los minutos. El ecuatoriano tuvo otra actuación sólida, pero no evitó la derrota.
-
-En cuanto a estadísticas, **Pacho** registró un despeje, dos intercepciones, **ganó cinco de sus siete duelos**, acertó el 96% de sus pases y obtuvo una calificación de 7,1 puntos en SofaScore.
-
-París Saint-Germain fue superior, pero no ganó
-----------------------------------------------
-
-El conjunto parisino inició el partido con una presión intensa. El gol llegó a los 12 minutos tras un error en la defensa del Atlético de Madrid.
-
-Lenglet no despejó el balón en el área chica, lo que permitió que Ousmane Dembélé robara el esférico. Tras el robo, Dembélé asistió a **Zaire-Emery**, quien definió con gran técnica y absoluta tranquilidad.
-
-> ¡¿QUÉ HIZO LENGLET?! Dembelé se la robó al defensor en el área y Zaire-Emery definió con mucha tranquilidad para anotar el 1-0 de PSG vs. Atlético de Madrid.  
->   
-> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/ZJ3Lsbr9le](https://t.co/ZJ3Lsbr9le)
-> 
-> — SportsCenter (@SC\_ESPN) [November 6, 2024](https://twitter.com/SC_ESPN/status/1854257210999587327?ref_src=twsrc%5Etfw)
-
-La alegría le duró poco a los locales. A los 17 minutos, **Nahuel Molina** empató el marcador. El Atlético ingresó al área ante una defensa parisina dormida; tras un remate de Giuliano Simeone que se estrelló en Pacho, el rebote le cayó a Molina, quien aprovechó con picardía y remató para igualar el partido.
-
-> ¡SE JUNTÓ LA BANDA ARGENTINA! De Paul, Julián y Giuliano participaron en la jugada que terminó en el 1-1 de Nahuel Molina vs. PSG.  
->   
-> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/PlsfU0rup3](https://t.co/PlsfU0rup3)
-> 
-> — SportsCenter (@SC\_ESPN) [November 6, 2024](https://twitter.com/SC_ESPN/status/1854258046853070891?ref_src=twsrc%5Etfw)
-
-Oblak y Correa, los héroes del Atlético de Madrid
--------------------------------------------------
-
-Para la segunda mitad, el **París Saint-Germain** mostró mucha intensidad. En los primeros 15 minutos, generaron varias llegadas, pero un poste y las grandes atajadas de **Jan Oblak** evitaron que recuperaran la ventaja en el Parque de los Príncipes.
-
-El arquero esloveno se convirtió en la gran figura del partido; a los 63 minutos, detuvo un remate potente con una sola mano de **Bradley Barcola** y, en la siguiente jugada, atajó un disparo de media distancia de Joao Neves.
-
-> ¡DOBLE ATAJADA CLAVE DE OBLAK PARA SALVAR AL COLCHONERO!  
->   
-> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/IWSGcUjAiJ](https://t.co/IWSGcUjAiJ)
-> 
-> — SportsCenter (@SC\_ESPN) [November 6, 2024](https://twitter.com/SC_ESPN/status/1854273923493298228?ref_src=twsrc%5Etfw)
-
-El PSG desperdició varias oportunidades mientras **Oblak se agigantaba con el pasar de los minutos**. A los 72, el arquero volvió a salvar a su equipo, esta vez ante un remate de cabeza a quemarropa de Marquinhos, aunque sin mucha potencia.
-
-Los minutos finales fueron dominados por los locales, que, desesperados por el gol de la victoria, se encontraron con un Oblak en estado de gracia, convertido en un auténtico candado en el arco y en la última jugada del partido, en letal contragolpe, y sin merecerlo, el A**tlético Madrid ganó el compromiso con gol de Ángel Correa.**
-
-> ¡¡¡GOL DE ÁNGEL CORREA A LOS 93' PARA DARLE EL TRIUNFO A ATLÉTICO DE MADRID EN PARÍS!!!  
->   
-> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/jAdzdtngMQ](https://t.co/jAdzdtngMQ)
-> 
-> — SportsCenter (@SC\_ESPN) [November 6, 2024](https://twitter.com/SC_ESPN/status/1854281400997842996?ref_src=twsrc%5Etfw)
-
-No te pierdas nuestro especial de Halloween
--------------------------------------------
-
-Liga de Quito vs. Independiente del Valle y una ‘final’ adelantada
-==================================================================
-
-Liga de Quito es el escolta de Independiente del Valle en la segunda etapa de la Liga Pro.
-------------------------------------------------------------------------------------------
-
-![Equipos de Liga de Quito (i) e Independiente de Valle en la Liga Pro en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/ldu_idv_1.jpg)
-
-**Liga de Quito e Independiente del Valle** escenificarán el partido más destacado de la fecha 13 de la segunda etapa de la Liga Pro, que servirá para esclarecer el panorama sobre qué equipo será el ganador de la etapa.
-
-El encuentro entre **Liga de Quito vs. Independiente se jugará el sábado 9 de noviembre de 2024**, desde las 15:30, en el estadio Rodrigo Paz Delgado, que espera tener sus gradas copadas para este trascendental juego.
-
-### Más noticias:
-
-* [AC Milan sacude al Real Madrid en la Champions League](https://www.elcomercio.com/deportes/futbol/ac-milan-sacude-al-real-madrid-en-la-champions-league.html "AC Milan sacude al Real Madrid en la Champions League")
-* [Óscar Zambrano sufre suspensión y su equipo es afectado](https://www.elcomercio.com/deportes/oscar-zambrano-hull-city-derrota-doping.html "Óscar Zambrano sufre suspensión y su equipo es afectado")
-* [Manchester City recibió una sorpresiva goleada en Champions League](https://www.elcomercio.com/deportes/futbol/manchester-city-recibio-una-sorpresiva-goleada-en-champions-league.html "Manchester City recibió una sorpresiva goleada en Champions League")
-
-En las 12 fechas de la segunda etapa, I**ndependiente es el líder con 26 puntos** y un gol diferencia positivo de +13, mientras que Liga es su escolta con los mismos 26 puntos, pero con un gol diferencia positivo de +11.
-
-La campaña de albos y rayados es similar. Ambos ganaron ocho encuentros, empataron dos y perdieron dos.
-
-IDV le ganó a Cumbayá (1-3), **Técnico Universitario (1-0), Aucas (0-2), Emelec (2-1)**, Universidad Católica (5-2), Imbabura (3-1), Deportivo Cuenca (0-2) y El Nacional 2-0.
-
-LDU derrotó a Macará (0-4), Cumbayá (2-1), **Aucas (0-1), Libertad (3-0), Barcelona SC (3-0)**, Orense (2-0), Técnico Universitario (1-2) y Emelec (0-1).
-
-Las derrotas de los del Valle fueron ante Delfín (1-2) y BSC (3-2); y los universitarios contra Imbabura (0-4) y Delfín (2-3).
-
-El ganador del partido del sábado dará un golpe sobre la mesa de autoridad para asegurar gran parte de la etapa.
-
-Si el ganador es IDV, habrá dado un paso importante para ser campeón sin necesidad de las finales de diciembre. **Si el ganador el LDU se pondrá en primera línea para ser el retador** de su rival en las finales por el título de la Liga Pro.
-
-Un empate alargará la definición hasta las dos fechas finales, pero le **dará una nueva oportunidad a Orense (23) y Mushuc Runa (21)**, que ganando sus juegos ante Técnico Universitario y Delfín, respectivamente, renovarán sus opciones por pelear por ser los ganadores de la etapa.
-
-![Joao Ortiz (d) y Exequiel Piovi en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/ldu_idv_2-1024x683.jpg)
-
-Joao Ortiz (d) y Exequiel Piovi en el 2023.
-
-La final que fue en el 2023
----------------------------
-
-Liga de Quito e Independiente del Valle **jugaron las finales de la Liga Pro de 2023**. Los blancos fueron los ganadores y sumaron la estrella número 12 de su rica historia local e internacional.
-
-Los primeros antecedentes de la temporada fueron los partidos del calendario regular, que terminó con dos victorias para los universitarios.
-
-El 28 de mayo, Independiente del Valle perdió 2-3 en su cancha. Los goles locales los anotaron **Michael Hoyos (14′) y Alexander Domínguez (34′)** en contra. La visita remontó el marcador con la firma de Facundo Rodríguez (53′), Jhojan Julio (59′) y José Quintero (80′).
-
-La revancha fue el 4 de noviembre en la segunda etapa. Esta vez los albos ganaron 2-0 con tantos del argentino **Mauricio Martínez (25′) y el peruano Paolo Guerrero (33′)** con un penal perfectamente ejecutado.
-
-Las finales fueron cerradas y se saldaron con dos empates. La ida fue 0-0 en la cancha de Independiente, y la vuelta 1-1 en el **Rodrigo Paz Delgado, con tantos de Renato Ibarra y Kendry Páez**.
-
-Los penales se **inclinaron en favor de los locales por 3-0.** Leonel Quiñónez, Jan Hurtado y Lisandro Alzugaray. Marcelo Martins, Jordy Alcívar y Lorenzo Faravelli erraron para la visita.
-
-San viernes
------------
-
-Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?
-=============================================================================================
-
-La querella de Daniel Noboa contra Mónica Palacios es tramitada por una jueza de la Corte Nacional de Justicia (CNJ).
----------------------------------------------------------------------------------------------------------------------
-
-![La querella de Daniel Noboa contra Mónica Palacios es tramitada en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-querella-monica-palacios.jpg)
-
-El presidente **Daniel Noboa** presentó una querella en contra la asambleísta del **correísmo**, **Mónica Palacios (RC)**, en octubre pasado.
-
-Una jueza de la **Corte Nacional de Justicia (CNJ),** **Mercedes Caicedo**, pidió enviar “inmediatamente” a la **Asamblea Nacional,** un oficio para la **“autorización previa”** con el fin de iniciar un proceso judicial contra la legisladora.
-
-### Más noticias:
-
-* [Corte Constitucional pone plazo a Daniel Noboa para explicar estado de excepción](https://www.elcomercio.com/actualidad/politica/corte-constitucional-plazo-daniel-noboa-estado-excepcion.html "Corte Constitucional pone plazo a Daniel Noboa para explicar estado de excepción")
-* [Wilman Terán fue acusado en un tercer juicio, conozca de qué se trata](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-acusado-tercer-juicio-caso-pantalla.html "Wilman Terán fue acusado en un tercer juicio, conozca de qué se trata")
-
-El motivo de la querella de Daniel Noboa contra Mónica Palacios
----------------------------------------------------------------
-
-Mónica Palacios es asambleísta del movimiento del correísmo, **Revolución Ciudadana**, y milita en las filas de la **oposición al Gobierno de Daniel Noboa**.
-
-El pasado 22 de junio, en **Chone, Manabí**, Palacios mencionó a Noboa y difundió esas declaraciones por sus redes sociales.
-
-¿Qué dijo? La asambleísta del correísmo **habló del pobre, del rico, de robar y de ladrones**.
-
-“El rico más rico y el pobre más pobre. Y yo había escuchado, no sé ustedes, cuando estábamos en campaña y no sé ustedes, pero **Daniel Noboa**, ¿para qué va a robar pues? **Guillermo Lasso** ¿por qué va a robar?, si son empresarios exitosos, banqueros exitosos, ya tienen tanto dinero”, se preguntó.
-
-Acto seguido, se respondió: “Pero si ven la realidad, queridos compatriotas, son los que más han robado en este país, esos ladrones. Porque yo sí lo digo en su cara. A mí no me da vergüenza. Yo sí tengo los pantalones para decirles que son **unos ladrone**s”, concluyó.
-
-Por estas declaraciones, cuatro meses después, el presidente Daniel Noboa presentó una querella contra Palacios por **calumnias**.
-
-La controversia sobre el levantamiento de la inmunidad por la querella de Daniel Noboa contra Mónica Palacios
--------------------------------------------------------------------------------------------------------------
-
-El caso está en la Corte Nacional de Justicia (CNJ), a cargo de la **jueza** Mercedes Caicedo, quien pidió que se oficie a la Asamblea para la “autorización previa” de inicio de un proceso contra Palacios.
-
-Sin embargo, la **defensa** del Presidente está en desacuerdo con este pedido de autorización previa.
-
-Esto, bajo el argumento de que, cuando habría cometido la calumnia, la asambleísta correísta estaba **suspendida** de sus funciones.
-
-Desde el 2 de mayo, Mónica Palacios fue suspendida por 60 días por una **falta administrativa muy grave**.
-
-Pese a este análisis, este miércoles, la jueza nacional señaló que el pedido a la Asamblea se hace para garantizar el **debido proceso** y para evitar futuras **nulidades**.
-
-La respuesta de Mónica Palacios a Daniel Noboa por la querella
---------------------------------------------------------------
-
-La asambleísta Mónica Palacios respondió al presidente Daniel Noboa que **no le tiene miedo** y que deje de perseguir “a **mujeres que le son incómodas**“
-
-Que seguirá fiscalizando la **inoperancia** del mandatario y la “forma en la que ha acabado el país”.
-
-Palacios aseguró que, en conversaciones con otras bancadas como el **PSC y Construye**, están en contra de que se le quite la inmunidad.
-
-Esto, porque el **quitar la inmunidad** a un asambleísta se convertiría en una cacería de brujas por parte del Gobierno.
-
-La asambleísta dijo que no sabe de qué se le está acusado, que **no ha calumniado a nadie**.
-
-“Le he dicho (al presidente Daniel Noboa) la verdad (…) que es **un corrupto, un inepto y un incompetente**“, agregó Palacios.
-
-El Pleno de la Asamblea **sesionaría la próxima semana** para determinar si autoriza o no el inicio del proceso judicial.
-
-Cómo detectar si WhatsApp está activo en otro dispositivo 
-==========================================================
-
-Verificar y proteger tu cuenta de WhatsApp de accesos no autorizados es muy fácil.
-----------------------------------------------------------------------------------
-
-![Protege tu cuenta de WhatsApp y evita accesos no autorizados. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-dispositivos-vinculados.jpg)
-
-**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")** se ha convertido en una de las **aplicaciones de mensajería más utilizadas en el mundo**. Sin embargo, su popularidad también lo convierte en un **objetivo para los ciberdelincuentes.**  
-
-### Más noticias
-
-* [WhatsApp planea incorporar una nueva función relacionada con la música](https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html "https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html") 
-* [Cómo liberar espacio en tu teléfono al vaciar WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-liberar-espacio-almacenamiento.html "https://www.elcomercio.com/tecnologia/whatsapp-liberar-espacio-almacenamiento.html")
-
-Es fundamental que los usuarios conozcan **cómo verificar si su cuenta de WhatsApp está siendo utilizada desde otro dispositivo**. 
-
-**Verificación de dispositivos vinculados en WhatsApp** 
---------------------------------------------------------
-
-![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-dispositivos-vinculados-1-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-### **Pasos para comprobar dispositivos en Android** 
-
-1. **Abre WhatsApp:** Inicia la aplicación en tu dispositivo. 
-
-2. **Accede al menú:** Toca los tres puntos verticales en la parte superior derecha. 
-
-3. **Selecciona ‘Dispositivos vinculados’:** Esta opción te mostrará todos los dispositivos donde tu cuenta está activa. 
-
-4. **Revisa la lista:** Comprueba si hay dispositivos desconocidos. Si encuentras uno que no reconoces, selecciónalo y elige ‘Cerrar sesión’ para desvincularlo. 
-
-### **Pasos para comprobar dispositivos en iOS** 
-
-1. **Inicia WhatsApp:** Abre la aplicación en tu iPhone. 
-
-2. **Ve a ‘Configuración’:** Toca la opción en la parte inferior derecha. 
-
-3. **Selecciona ‘Dispositivos vinculados’:** Aquí podrás ver todos los dispositivos conectados a tu cuenta. 
-
-4. **Cierra sesión si es necesario:** Si identificas un dispositivo extraño, cierra sesión inmediatamente. 
-
-Estos pasos son esenciales para mantener la seguridad de la cuenta y evitar el acceso no autorizado a mensajes y datos personales. 
-
-**Señales de acceso no autorizado** 
-------------------------------------
-
-Es crucial prestar atención a ciertos signos que pueden indicar un uso no autorizado de la cuenta, según [La Vanguardia](https://www.lavanguardia.com/andro4all/whatsapp/whatsapp-como-saber-su-alguien-ha-entrado-o-tiene-acceso-a-tu-cuenta "https://www.lavanguardia.com/andro4all/whatsapp/whatsapp-como-saber-su-alguien-ha-entrado-o-tiene-acceso-a-tu-cuenta"). 
-
-* **Mensajes enviados que no recuerdas:** Si ves mensajes o interacciones que no has realizado, es una señal clara de que alguien más tiene acceso a tu cuenta. 
-
-* **Cambios en tus contactos o chats:** La aparición de nuevos contactos o conversaciones inusuales puede ser un indicativo de un acceso no autorizado. 
-
-* **Notificaciones de inicio de sesión desde otros dispositivos:** WhatsApp puede enviar alertas sobre inicios de sesión desde ubicaciones o dispositivos desconocidos. 
-
-Si se detecta alguna de estas señales, es fundamental actuar rápidamente para proteger la información. 
-
-**Activación de la verificación en dos pasos** 
------------------------------------------------
-
-![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-dispositivos-vinculados-2-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-Habilitar la **verificación en dos pasos** es una forma efectiva de aumentar la **seguridad de la cuenta**. Este proceso añade una capa adicional de protección al **requerir un código al iniciar sesión desde un nuevo dispositivo**. 
-
-### **Cómo activar la verificación en dos pasos** 
-
-1. **Accede a ‘Configuración’:** Entra en la aplicación y dirígete a ‘Ajustes’. 
-
-2. **Selecciona ‘Cuenta’:** Busca la opción correspondiente dentro del menú. 
-
-3. **Activa ‘Verificación en dos pasos’:** Sigue las instrucciones para establecer un código PIN de seis dígitos. 
-
-4. **Recuerda el código:** Es importante que elijas un código fácil de recordar, pero difícil de adivinar. 
-
-**Precauciones adicionales** 
------------------------------
-
-Además de las medidas mencionadas, aquí hay **algunas recomendaciones adicionales** para asegurar una cuenta, de acuerdo con la web [Wati](https://www.wati.io/blog/whatsapp-en-dos-celulares/ "https://www.wati.io/blog/whatsapp-en-dos-celulares/"): 
-
-* **Evita redes Wi-Fi públicas:** Conectarse a redes inseguras puede facilitar el acceso no autorizado a tu información. 
-
-* **No compartas códigos QR ni contraseñas:** Nunca reveles tus credenciales o códigos QR utilizados para vincular dispositivos. 
-
-* **Cierra sesión después de usar WhatsApp Web:** Siempre cierra sesión cuando termines de usar WhatsApp Web en dispositivos ajenos. 
-
-¿Cómo quedan el Senado y la Cámara Baja en Estados Unidos tras las elecciones?
-==============================================================================
-
-Estados Unidos eligió, además de su Presidente, los representantes para el Senado y Cámara Baja.
-------------------------------------------------------------------------------------------------
-
-![El poder Legislativo en Estados Unidos se divide en la Cámara Alta (Senado) y la Cámara Baja (Representantes)](https://www.elcomercio.com/wp-content/uploads/2024/11/senado-estados-unidos-elecciones.jpg)
-
-Las votaciones en **Estados Unidos** de este martes 5 de noviembre de 2024 no solo estaban dirigidas a elegir al nuevo **Presidente** de la nación; sino que además, elegía a los representantes del poder Legislativo, divididos en el **Senado y Cámara Baja**.
-
-### Más noticias
-
-* [Cinco claves para entender la victoria de Donald Trump](https://www.elcomercio.com/actualidad/mundo/cinco-claves-para-entender-victoria-donald-trump.html "Cinco claves para entender la victoria de Donald Trump")
-* [Kamala Harris felicita a Donald Trump por su victoria en las elecciones](https://www.elcomercio.com/actualidad/mundo/kamala-harris-felicita-donald-trump-victoria-elecciones.html "Kamala Harris felicita a Donald Trump por su victoria en las elecciones")
-* [Encuestas nunca pudieron resolver el empate técnico entre Trump y Harris](https://www.elcomercio.com/actualidad/mundo/encuestas-estados-unidos-harris-trump.html "Encuestas nunca pudieron resolver el empate técnico entre Trump y Harris")
-
-La **victoria de los republicanos**, al posicionar a **Donald Trump** como el **47.º presidente de EE. UU.**, también se evidenció en los resultados de la **Cámara Alta (Senado)**, donde luego de cuatro años, los ‘rojos’ consolidaron su **mayoría**[.](https://es.wikipedia.org/wiki/Elecciones_al_Senado_de_los_Estados_Unidos_de_2024 "https://es.wikipedia.org/wiki/Elecciones_al_Senado_de_los_Estados_Unidos_de_2024")
-
-Según las proyecciones de **Associated Press (AP)** y **Fox News**, el **Partido Republicano** arrebató tres escaños importantes, **Virginia Occidental**, **Ohio** y **Montana**, lo que les permitió dar la vuelta al control del Senado.
-
-Republicanos ganaron tres estados en el Senado
-----------------------------------------------
-
-En el Senado, los demócratas partían con una débil mayoría de **51 asientos a 49** lograda en las elecciones legislativas de 2022; para este 2024, las elecciones ya dan **52 asientos para los republicanos** y **44 para los demócratas**.
-
-Los republicanos también aspiran a arrebatar escaños demócratas en **Arizona**, **Pensilvania**, **Míchigan**, **Nevada** o **Wisconsin**, estados donde a estas horas avanza el recuento.
-
-En estas elecciones se eligen a **34 de los 100 senadores**, dos por cada estado. Los senadores cumplen sus funciones durante **seis años** y se renuevan por tercios cada dos años.
-
-Lucha por la Cámara de Representantes sigue en juego
-----------------------------------------------------
-
-Por otra parte, la **Cámara de Representantes** está conformada por **435 escaños**, y se renueva por completo cada dos años.
-
-En estas elecciones, los **republicanos** también lograron avances en su intento de mantener el control de la Cámara Baja, que actualmente controlan por una estrecha mayoría.
-
-Este miércoles, las proyecciones dan **186 puestos a los demócratas** y **207 a los republicanos**. La mayoría se logra con **218 escaños**.
-
-Como es habitual en las elecciones legislativas, los **resultados finales** de la Cámara de Representantes **tardan más** que las presidenciales y del Senado, pudiendo tomar hasta **varias semanas**.
-
-Esto se debe en parte a que hay muchos escaños cuya renovación está asegurada en distritos claramente republicanos o demócratas, mientras que la batalla se centra en unos **70 distritos competitivos**
-
-¿Cómo funciona el Legislativo en Estados Unidos?
-------------------------------------------------
-
-El **Congreso de los Estados Unidos** está compuesto por dos cámaras: el **Senado** y la **Cámara de Representantes**; cada una con funciones y poderes específicos.
-
-Ambas cámaras trabajan conjuntamente en el **proceso legislativo**, donde deben aprobar cualquier proyecto de ley antes de que sea enviado al Presidente para su firma. Además, tienen amplios poderes **indagatorios** y pueden investigar asuntos relevantes para su función.
-
-El Senado tiene el poder exclusivo para confirmar los **nombramientos presidenciales**, incluyendo jueces y miembros del gabinete. Además, ratifica **tratados internacionales** negociados por el Ejecutivo y lleva a cabo los juicios para **destituir a funcionarios** acusados por la Cámara.
-
-Por otra parte, la Cámara de Representantes tiene como sus principales responsabilidades: **Iniciar proyectos de ley de ingresos**, acusar a funcionarios federales y elegir al Presidente del Colegio Electoral.
-
-El deporte ecuatoriano tendrá nuevo Plan de Alto Rendimiento en 2025
-====================================================================
-
-A partir de enero del 2025 entrará en vigencia un Plan de Alto Rendimiento con modificaciones para los deportistas ecuatorianos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Neisi Dájomes, pesista ecuatoriana, en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/1000158852.jpg)
-
-El **Plan de Alto Rendimiento** del Ministerio del Deporte de Ecuador contará con modificaciones a partir del 2025. José David Jiménez, titular de la institución, reveló a EL COMERCIO los principales cambios y objetivos a los que se apunta con el rediseño tras quejas de deportistas.
-
-Jiménez asumió el máximo cargo de la cartera el **31 de agosto de 2024** y con los Juegos Olímpicos ya finalizados y los Paralímpicos en curso. Una vez que finalizaron los últimos, este y los funcionarios del ministerio se han reunido con los deportistas y también se han realizado mesas de trabajo con personal del Comité Olímpico y federaciones.
-
-### Más noticias:
-
-* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
-* [El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/el-calor-y-la-humedad-de-guayaquil-el-aliado-de-ecuador-ante-bolivia.html "El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia")
-* [¿Alex Arce abandonará Liga de Quito al final de temporada?](https://www.elcomercio.com/deportes/futbol/alex-arce-abandonara-liga-de-quito-al-final-de-temporada.html "¿Alex Arce abandonará Liga de Quito al final de temporada?")
-
-A partir de la información de anteriores administraciones, donde la última estuvo encabezada por Andrés Guschmer, más la que se continúa recopilando con los actores, se espera apuntalar el plan. De acuerdo a Jiménez, esta ya se encuentra con la **primera fase** por terminar y que entre en vigencia desde el próximo enero.
-
-“**Lo que buscamos es un plan de rendimiento que esté aterrizado a las necesidades actuales que tiene nuestro deporte y nuestros deportistas**“, manifestó. A su vez, señaló que, dentro de ello, se tiene en cuenta al deporte ecuatoriano como una potencia.
-
-¿Qué modificaciones habrá en el Plan de Alto Rendimiento?
----------------------------------------------------------
-
-Entre las acciones importantes a tener en cuenta estará **monitoreo a los deportistas** en función de su disciplina. De igual forma, se tendrá en cuenta la entrega efectiva de los recursos destinados a los atletas.
-
-Con respecto al primer punto, Jiménez sostuvo que la mayoría de criterios dentro del Plan eran iguales en la mayoría de deportes y aquello no se puede llevar a cabo debido a la particularidad de cada disciplina, por lo que se deben **establecer diferenciaciones**. En cuanto a la segunda, este señaló que no basta con que solamente se realicen asignaciones económicas, sino que debe existir un proceso en el que se garantice que **los fondos para los deportistas** lleguen desde las distintas federaciones.
-
-“**Desde la parte seguimiento vamos a tener muchísimos cambios porque vamos a atender las necesidades de los deportistas, mas no de las federaciones y ese es enfoque**. Creo que es el que no se estaba teniendo anteriormente. Vamos a estar observando y exigiendo que el **presupuesto** que se entregue y llegue a nuestros atletas de alto rendimiento” justamente para que puedan cumplir con sus competencias con sus bases de entrenamiento nacionales e internacionales”, agregó.
-
-Juegos Olímpicos y presupuesto
-------------------------------
-
-Dentro de cuestiones **metodológicas** también se realizarán cambios para el tratamiento del deporte ecuatoriano como potencia. Con ello se apunta a que existan réditos de cara a los **Juegos Olímpicos de Los Ángeles 2028 y Brisbane 2032**. Para ello, el objetivo es aumentar el número de clasificados y potenciar a aquellos que se cree pueden ser grandes exponentes.
-
-En torno al presupuesto, dentro del Plan de Alto Rendimiento fijado entre 2022 y 2025 cuando el ministro era Sebastián Palacios, este era de **18.434.304** millones de dólares para el año venidero. Con respecto a ello, Jiménez sostuvo que **no existirían mayores variaciones** y, a mediano, plazo se busca incrementarlo.
-
-¿Quiénes están en el Plan de Alto Rendimiento?
-----------------------------------------------
-
-De acuerdo a **José David Jiméne**z, hasta el 3 de noviembre del 2024, **408 atletas** formaban parte del Plan de Alto Rendimiento, sin embargo, aquello aumentará. De igual manera, hasta que se implemente la resolución, se espera que aumenten 20.
-
-Los deportistas dentro del Plan se ubican y reciben montos en función de su categoría, donde se ubican a raíz de sus resultados. Estas son **élite, alto nivel, avanzado, rendimiento, ascenso, perfeccionamiento, proyección y base.**
-
-Dentro de las **implementaciones** también se tendrá en cuenta una remuneración a los deportistas base, lo cual Jiménez sostiene que no se realizaba previamente. En esta categoría, la mayoría de los presentes se encuentra en etapa formativa y el valor mínimo será de **250 dólares.**
-
-La inclusión y salida de deportistas, a su vez, estará vinculada con el seguimiento realizado junto a las federaciones. Para ello, el ministro puso como ejemplo el caso de **Jonathan Camacho**, deportista de BMX Freestyle quien quedó fuera[.](https://es.wikipedia.org/wiki/Ministerio_del_Deporte_(Ecuador) "https://es.wikipedia.org/wiki/Ministerio_del_Deporte_(Ecuador)")
-
-¿Qué pasó con Jonathan Camacho?
--------------------------------
-
-“Mucho del problema que viene de la información que nosotros tenemos en diferentes disciplinas pasa porque las diferentes federaciones nacionales de deporte no hacen la entrega de toda la información pertinente para nosotros poder analizarla en la Comisión de Alto Rendimiento. **El caso Jonathan Camacho pasa por un tema similar, si bien es nuestro máximo exponente en BMX Freestyle, no hubo una buena planificación para él desde la Federación Ecuatoriana de** C**iclismo, para su modalidad**“, manifestó.
-
-Al caso de Camacho, **Jiménez** agregó que otro matiz fue que las competiciones importantes del ciclista eran a fines del 2024. Pese a ello, hasta que se lleven a cabo los cambios, se buscará **volver a incluirlo** si también consigue los resultados necesarios.
-
-Antes, Camacho se había manifestado por medio de sus redes sociales con respecto a su salida. “**Soy, con diferencia, el único ciclista de mi disciplina que representa al Ecuador y estas son las decisiones que se toman**…? (…) cómo puedo dar resultados si no tengo el apoyo para asistir a eventos”, publicó.
