@@ -311,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGE55R2w2NU9GOHFMbm5helRmRGFHa0E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJ3O9U)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEhRZWcybVQzUXZGYTgxTTEzZGM2d2c9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljI-k00)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -328,6 +328,14 @@ SimpleLogin | Anti-spam
 Simple Login
 
 4.2_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/qw_MVfLwKrZduwQyyU9qx1246GCpOGNIgnoqUezlcfpfAFKmZ0aH1iBqLA7bsYLa6hs=s64)
+
+Sugar Mail email app
+
+Kostya Vasilyev US
+
+3.6_star_](https://play.google.com/store/apps/details?id=org.kman.email2)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/Cr59AhT17rgDJIbmKq76kMIa1iTxG7fiepHHOLMdyqXCleCQGvx5OLcE3Tl9p09dBZo=s64)
 
@@ -353,21 +361,13 @@ Pushbullet
 
 4.3_star_](https://play.google.com/store/apps/details?id=com.pushbullet.android)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/mg7fg0oHkqa-8djwpLrxt-qn978IW9qYLo6miSZfLD-lJYYgxv0rpG-gRifXDmgh_z0Z=s64)
-
-MailTime: Secure Email Inbox
-
-MailTime
-
-4.1_star_](https://play.google.com/store/apps/details?id=com.mailtime.android)
-
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
 Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Points](https://play.google.com/store/points/enroll)[Gift cards](https://play.google.com/about/giftcards)[Redeem](https://play.google.com/redeem)[Refund policy](https://support.google.com/googleplay/answer/134336)
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -379,4 +379,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English (United States))
+United States (English)
