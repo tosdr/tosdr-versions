@@ -1137,11 +1137,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-22% auf Fischöl & Omegas
+[\-24% Sale zum Singles Day 
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/fish-oil-omegas-epa-dha?pcode=22DHA24)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=24DOUBLE11)
 
       
 
