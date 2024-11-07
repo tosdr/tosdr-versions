@@ -14,7 +14,7 @@ Ask us about ✔ room reservations [Contact Sales](https://www.trumba.com/connec
 * [Customers](https://www.trumba.com/connect/onlinecalendars/customers.aspx)
 * [Resources](https://www.trumba.com/connect/webcalendars/spud_gallery.aspx)
 
-[Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9XbyL5D6-ACgFzhW2AmD9dA!X)
+[Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9YwoOp2YH3540GzxdMUWUtM!X)
 
 [Sign In](https://www.trumba.com/t2)
 
@@ -40,7 +40,7 @@ Questions and Answers
 
 | Question | Answer |
 | --- | --- |
-| How can I pay? | * If you have a 30-day free trial account, sign in and click **Buy Now** toward the top of the page.<br>    <br>    [I would like to sign up for a 30-day free trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9XbyL5D6-ACgFzhW2AmD9dA!X)<br>    <br>* We accept payment online by Visa, MasterCard, and American Express.<br>* If you are a new Trumba Connect subscriber and prefer to be invoiced quarterly, please [contact Sales](https://www.trumba.com/connect/eventcalendar/contact_sales.aspx). |
+| How can I pay? | * If you have a 30-day free trial account, sign in and click **Buy Now** toward the top of the page.<br>    <br>    [I would like to sign up for a 30-day free trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9YwoOp2YH3540GzxdMUWUtM!X)<br>    <br>* We accept payment online by Visa, MasterCard, and American Express.<br>* If you are a new Trumba Connect subscriber and prefer to be invoiced quarterly, please [contact Sales](https://www.trumba.com/connect/eventcalendar/contact_sales.aspx). |
 | How do I cancel my Trumba account? | While you are signed in to your account, click **Account Settings** in the upper-right area of the calendar pages. In the **Account Settings** form, under **Subscription Information**, for **Subscription Type**, click **Cancel my account**. |
 | Do you offer refunds? | If you use a credit card to purchase Trumba Connect subscriptions and close your account within 30 days of purchase, we automatically credit the full amount to your card. |
 | I’d like to switch my Trumba subscription to another credit card. | You can change your credit card information (and other account information) at any time when you are signed in to your account. Click **Account Settings** in the upper-right area of the calendar pages. |
@@ -56,7 +56,7 @@ Questions and Answers
 
 30-day free trial. No credit card required.
 
-[Get Started Now](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9XbyL5D6-ACgFzhW2AmD9dA!X)
+[Get Started Now](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9YwoOp2YH3540GzxdMUWUtM!X)
 
 #### Connect with us.
 
@@ -76,9 +76,9 @@ Questions and Answers
 #### Pricing
 
 * [Overview](https://www.trumba.com/connect/eventcalendar/pricing.aspx)
-* [30-day Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9XbyL5D6-ACgFzhW2AmD9dA!X)
+* [30-day Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9YwoOp2YH3540GzxdMUWUtM!X)
 * [Contact Sales](https://www.trumba.com/connect/eventcalendar/contact_sales.aspx)
-* [Purchase](https://www.trumba.com/t.aspx?e=CgDoSA7qdkJUajYRRESZn5TFJtgVmXedsTTfM62bGe*Rn44qOHebVIDzTfTnCBmPuWs!X)
+* [Purchase](https://www.trumba.com/t.aspx?e=CgDoSA7qdkJUajYRRESZn5TFJtgVmXedsTTfM62bGe*Rn6u2jFcK718TA9Nnbn6dFMM!X)
 
 #### Resources
 
