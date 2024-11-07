@@ -61,7 +61,7 @@ Search
         * [Digital Compass™ (Grades 6–8)](https://www.commonsense.org/education/digital-compass)
         * [Digital Passport™ (Grades 3–5)](https://www.commonsense.org/education/digital-passport)
         * [Social Media TestDrive (Grades 6–8)](https://www.commonsense.org/education/social-media-test-drive)
-    * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/collections/ai-literacy-for-grades-6-12-lessons)
+    * [![](/modules/custom/cs_components/components/src/commonkit_components/atoms/ck-image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/collections/ai-literacy-for-grades-6-12-lessons)
         
         ### [AI Literacy for Grades 6–12](https://www.commonsense.org/education/collections/ai-literacy-for-grades-6-12-lessons)
         
@@ -113,12 +113,12 @@ Search
         * [Modeling Digital Habits Teacher Training](https://www.commonsense.org/education/training/healthy-digital-habits)
         * [Student Privacy Teacher Training](https://www.commonsense.org/education/training/privacy)
     * [Training](https://www.commonsense.org/)
-        * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/training/ai-foundations)
+        * [![](/modules/custom/cs_components/components/src/commonkit_components/atoms/ck-image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/training/ai-foundations)
             
             ### [Training Course: AI Foundations for Educators](https://www.commonsense.org/education/training/ai-foundations)
             
     * [Programs](https://www.commonsense.org/)
-        * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/recognition-program)
+        * [![](/modules/custom/cs_components/components/src/commonkit_components/atoms/ck-image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/recognition-program)
             
             ### [Earn your Common Sense Education badge today!](https://www.commonsense.org/education/recognition-program)
             
@@ -132,11 +132,11 @@ Search
         * [Workshops for Families with Kids Age 0–8](https://www.commonsense.org/education/early-childhood-toolkit)
         * [Workshops for Middle and High School Families](https://www.commonsense.org/education/family-engagement-workshops)
         * [Kids and Tech Video Series](https://www.commonsense.org/system/files?file=pdf/2023-09/kids-and-tech-video-series.pdf)
-    * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsensemedia.org/family-tech-planners)
+    * [![](/modules/custom/cs_components/components/src/commonkit_components/atoms/ck-image/images/ratio_16_9_xsmall.png)](https://www.commonsensemedia.org/family-tech-planners)
         
         ### [Family Tech Planners](https://www.commonsensemedia.org/family-tech-planners)
         
-    * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/face)
+    * [![](/modules/custom/cs_components/components/src/commonkit_components/atoms/ck-image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/face)
         
         ### [Family and Community Engagement Program](https://www.commonsense.org/face)
         
