@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-All the submissions, none of the calories.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [I was not aware that GoreTex has been knowingly poisoning their customers all these years](https://www.fark.com/goto/13454920) ( [youtube.com](https://www.fark.com/goto/13454920) ) » [(6 comments)](https://www.fark.com/comments/13454920/I-was-not-aware-that-GoreTex-has-been-knowingly-poisoning-their-customers-all-these-years) |
-| [Discussion](https://www.fark.com/discussion/) | ["I'm weaning my son, but he thinks my boobs are his property. How do I dissuade him from the notion before he becomes a MAGA?"](https://www.fark.com/goto/13454608) ( [slate.com](https://www.fark.com/goto/13454608) ) » [(10 comments)](https://www.fark.com/comments/13454608/Im-weaning-my-son-but-he-thinks-my-boobs-are-his-property-How-do-I-dissuade-him-from-notion-before-he-becomes-a-MAGA) |
-| [Sports](https://www.fark.com/sports/) | [Ham on the bone: tasty when cooked. Dak Prescott's hamstring off the bone: Cowboys' season cooked](https://www.fark.com/goto/13454884) ( [espn.com](https://www.fark.com/goto/13454884) ) » [(11 comments)](https://www.fark.com/comments/13454884/Ham-on-bone-tasty-when-cooked-Dak-Prescotts-hamstring-off-bone-Cowboys-season-cooked) |
-| [Business](https://www.fark.com/business/) | [Which stocks rose the most post-election day? Private Prisons](https://www.fark.com/goto/13454834) ( [cnn.com](https://www.fark.com/goto/13454834) ) » [(3 comments)](https://www.fark.com/comments/13454834/Which-stocks-rose-most-post-election-day-Private-Prisons) |
-| [STEM](https://www.fark.com/stem/) | [Computer scientists are creating a "last exam" for AI, to determine if it's truly intelligent or not. Too bad the test's very design is exactly the type of nonsense AI is good at faking](https://www.fark.com/goto/13454478) ( [bigthink.com](https://www.fark.com/goto/13454478) ) » [(13 comments)](https://www.fark.com/comments/13454478/Computer-scientists-are-creating-a-last-exam-for-AI-to-determine-if-its-truly-intelligent-not-Too-bad-tests-very-design-is-exactly-type-of-nonsense-AI-is-good-at-faking) |
-| [Entertainment](https://www.fark.com/entertainment/) | [20 years ago we got an incredible fantastic four](https://www.fark.com/goto/13454824) ( [pastemagazine.com](https://www.fark.com/goto/13454824) ) » [(8 comments)](https://www.fark.com/comments/13454824/-20-years-ago-we-got-an-incredible-fantastic-four) |
-| [Fandom](https://www.fark.com/fandom/) | [20 years ago we got an incredible fantastic four](https://www.fark.com/goto/13454824) ( [pastemagazine.com](https://www.fark.com/goto/13454824) ) » [(8 comments)](https://www.fark.com/comments/13454824/-20-years-ago-we-got-an-incredible-fantastic-four) |
-| [D'awww](https://www.fark.com/dawww/) | [Just taking a cat kayaking. In the morning fog](https://www.fark.com/goto/13454872) ( [youtube.com](https://www.fark.com/goto/13454872) ) » [(0 comments)](https://www.fark.com/comments/13454872/Just-taking-a-cat-kayaking-In-morning-fog) |
-| [Food](https://www.fark.com/food/) | [Next you'll be trying to convince me that's not real crab or wasabi](https://www.fark.com/goto/13454594) ( [gizmodo.com](https://www.fark.com/goto/13454594) ) » [(38 comments)](https://www.fark.com/comments/13454594/Next-youll-be-trying-to-convince-me-thats-not-real-crab-wasabi) |
-| [Politics](https://www.fark.com/politics/) | [Someone changed the keys to the White House](https://www.fark.com/goto/13454750) ( [usatoday.com](https://www.fark.com/goto/13454750) ) » [(7 comments)](https://www.fark.com/comments/13454750/Someone-changed-keys-to-White-House) |
+| [Main](https://www.fark.com/) | [The mystery of the black balls that washed up on some of Sydney's beaches has been solved annnnnd you're going to want to take your chances with Oz's cuddly flora and fauna](https://www.fark.com/goto/13455168) ( [cnn.com](https://www.fark.com/goto/13455168) ) » [(5 comments)](https://www.fark.com/comments/13455168/The-mystery-of-black-balls-that-washed-up-on-some-of-Sydneys-beaches-has-been-solved-annnnnd-youre-going-to-want-to-take-your-chances-with-Ozs-cuddly-flora-fauna) |
+| [Discussion](https://www.fark.com/discussion/) | [1A) Am I now, or have I ever, in fact, been dead?](https://www.fark.com/goto/13455134) ( [theguardian.com](https://www.fark.com/goto/13455134) ) » [(1 comment)](https://www.fark.com/comments/13455134/-1A-Am-I-now-have-I-ever-in-fact-been-dead) |
+| [Sports](https://www.fark.com/sports/) | [32-year-old Neymar's stint in Saudi League determined to be dud due to chronic injuries, so Al-Hilal hopes to dump him and replace him with reliable 39-year-old Saudi League legend Cristiano Ronaldo](https://www.fark.com/goto/13454990) ( [worldsoccertalk.com](https://www.fark.com/goto/13454990) ) » [(0 comments)](https://www.fark.com/comments/13454990/-32-year-old-Neymars-stint-in-Saudi-League-determined-to-be-dud-due-to-chronic-injuries-so-Al-Hilal-hopes-to-dump-him-replace-him-with-reliable-39-year-old-Saudi-League-legend-Cristiano-Ronaldo) |
+| [Business](https://www.fark.com/business/) | [E.l.f. shares soar. But a 40% bump in sales is any company's buddy](https://www.fark.com/goto/13455140) ( [cnbc.com](https://www.fark.com/goto/13455140) ) » [(0 comments)](https://www.fark.com/comments/13455140/Elf-shares-soar-But-a-40-bump-in-sales-is-any-companys-buddy) |
+| [STEM](https://www.fark.com/stem/) | [European CEOs demonstrating net zero intelligence](https://www.fark.com/goto/13455128) ( [theregister.com](https://www.fark.com/goto/13455128) ) » [(1 comment)](https://www.fark.com/comments/13455128/European-CEOs-demonstrating-net-zero-intelligence) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Woman gets paid $1000/session for work that netted Stormy Daniels $130,000](https://www.fark.com/goto/13455094) ( [metro.co.uk](https://www.fark.com/goto/13455094) ) » [(3 comments)](https://www.fark.com/comments/13455094/Woman-gets-paid-$1000session-for-work-that-netted-Stormy-Daniels-$130000) |
+| [Fandom](https://www.fark.com/fandom/) | [Sadly, the failure of Borderlands did nothing to hurt Take 2, actually helped them sell more games](https://www.fark.com/goto/13455136) ( [gamesradar.com](https://www.fark.com/goto/13455136) ) » [(2 comments)](https://www.fark.com/comments/13455136/Sadly-failure-of-Borderlands-did-nothing-to-hurt-Take-2-actually-helped-them-sell-more-games) |
+| [D'awww](https://www.fark.com/dawww/) | [A touching tribute to a bright, charismatic, artistic soul, even if Elon did joke about it](https://www.fark.com/goto/13455032) ( [calgaryherald.com](https://www.fark.com/goto/13455032) ) » [(2 comments)](https://www.fark.com/comments/13455032/A-touching-tribute-to-a-bright-charismatic-artistic-soul-even-if-Elon-did-joke-about-it) |
+| [Food](https://www.fark.com/food/) | [Cookie fries. You're (we're) going to need multiple glasses of ice cold whole milk, stat](https://www.fark.com/goto/13455192) ( [thetakeout.com](https://www.fark.com/goto/13455192) ) » [(0 comments)](https://www.fark.com/comments/13455192/Cookie-fries-Youre-were-going-to-need-multiple-glasses-of-ice-cold-whole-milk-stat) |
+| [Politics](https://www.fark.com/politics/) | [Trump is going to use the shiattier, lazier cousin of Project 2025 as his platform, where loyalty reigns supreme](https://www.fark.com/goto/13455044) ( [mediaite.com](https://www.fark.com/goto/13455044) ) » [(13 comments)](https://www.fark.com/comments/13455044/Trump-is-going-to-use-shiattier-lazier-cousin-of-Project-2025-as-his-platform-where-loyalty-reigns-supreme) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 07 2024 01:42:38  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 07 2024 08:44:12  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
