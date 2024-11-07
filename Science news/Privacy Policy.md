@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [‘The Power of Prions’ explores misfolded proteins’ role in brain diseases](https://www.sciencenews.org/article/misfolded-proteins-brain-diseases)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")19 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")November 6, 2024
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [A digital exam reels in engraved scenes of Stone Age net fishing](https://www.sciencenews.org/article/engraved-scenes-stone-age-net-fishing)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")20 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")November 6, 2024
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -116,6 +116,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
+            ### [Bees flying near cars are dying by the millions, a roadkill study suggests](https://www.sciencenews.org/article/bees-cars-dying-roadkill)
+            
+            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")4 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
             ### [Putting vampire bats on treadmills reveals an unusual metabolism](https://www.sciencenews.org/article/vampire-bats-treadmills-metabolism)
             
             By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 5, 2024
@@ -126,19 +132,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 1, 2024
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [A single enzyme can alter the vibrant colors in parrot plumage](https://www.sciencenews.org/article/parrot-feathers-pigment-color-chemical)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")October 31, 2024
-            
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Agriculture](https://www.sciencenews.org/topic/agriculture)
+    * * [Climate](https://www.sciencenews.org/topic/climate)
+            
+            ### [Meet Chonkus, the mutant cyanobacteria that could help sink climate change](https://www.sciencenews.org/article/chonkus-climate-change-cyanobacteria)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")2 hours ago
+            
+        * [Agriculture](https://www.sciencenews.org/topic/agriculture)
             
             ### [Exploiting a genetic quirk in potatoes may cut fertilizer needs](https://www.sciencenews.org/article/potatoes-genetic-quirk-less-fertilizer)
             
@@ -150,18 +156,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")October 31, 2024
             
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Fans may not keep older adults cool during heat waves](https://www.sciencenews.org/article/fans-not-cool-older-adults-heat-waves)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")October 29, 2024
-            
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Tech](https://www.sciencenews.org/topic/tech)
+    * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
+            ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            
+        * [Tech](https://www.sciencenews.org/topic/tech)
             
             ### [Feather-inspired airplane flaps could boost flight performance](https://www.sciencenews.org/article/feather-inspired-airplane-flaps)
             
@@ -173,18 +179,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 24, 2024
             
-        * [Tech](https://www.sciencenews.org/topic/tech)
-            
-            ### [Tech companies want small nuclear reactors. Here’s how they’d work](https://www.sciencenews.org/article/small-modular-nuclear-reactors-amazon) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 23, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
+            ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [A zombie star’s spiky filaments shed light on a 12th century supernova](https://www.sciencenews.org/article/zombie-star-supernova-filaments)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [50 years ago, scientists found a new moon orbiting Jupiter](https://www.sciencenews.org/article/50-years-ago-jupiter-new-moon)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 1, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [A distant quasar’s black hole is oddly huge for its galaxy](https://www.sciencenews.org/article/quasar-black-hole-oddly-huge)
-            
-            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")November 1, 2024
             
 
 Privacy Policy
