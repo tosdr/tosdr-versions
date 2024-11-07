@@ -189,7 +189,7 @@ Get in touch or create an account.
     
     * [Professional Services](https://www.fastly.com/solutions/professional-services)
     * [Managed CDN](https://www.fastly.com/solutions/managed-cdn)
-    * [Support Plans](https://www.fastly.com/solutions/support-plans)
+    * [Support Plans](https://www.fastly.com/services/support-plans)
     * [Talk to an Expert](https://www.fastly.com/contact-sales)
 * Learn
     
