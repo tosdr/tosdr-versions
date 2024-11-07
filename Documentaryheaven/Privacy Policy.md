@@ -113,6 +113,11 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -128,39 +133,34 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Pink Floyd Story: Which One’s Pink?](/wp-content/thumbnails/9386-100x70.jpeg?x53432)
+* [![The Ranger](/wp-content/thumbnails/13293-100x70.jpg?x53432)
     
-    The Pink Floyd Story: Which One’s Pink?
+    The Ranger
     
-    In 2005 for the first time in 25 years the members of Pink Floyd got back together to play a live show for Live Aid, for a precious 20 minutes they were once again the legendary Pink Floyd, a band tha](https://documentaryheaven.com/pink-floyd-story-which-ones-pink/ "The Pink Floyd Story: Which One’s Pink?")
-* [![Tour of Duty: Australia’s Secret War](/wp-content/thumbnails/6331-100x70.jpg?x53432)
+    The U.S. Army Rangers are an elite military formation that serve in designated U.S. Army Ranger units or are graduates from the U.S. Army Ranger School. This film The Ranger is a unique documentary wh](https://documentaryheaven.com/ranger/ "The Ranger")
+* [![Educating North Korea](/wp-content/thumbnails/8551-100x70.jpg?x53432)
     
-    Tour of Duty: Australia’s Secret War
+    Educating North Korea
     
-    For the first time ever, Australia’s most secretive soldiers have invited a TV crew to document them in Afghanistan.This exclusive documentary, over three years in the making, follows investigativ](https://documentaryheaven.com/tour-of-duty-australias-secret-war/ "Tour of Duty: Australia’s Secret War")
-* [![PT 3/3 Nerds 2.0.1: A Brief History of the Internet](/wp-content/thumbnails/2565-100x70.jpg?x53432)
+    Panorama find themselves with unique access to one of the most unusual academic institutions, situated in North Korea its surprising that a country renowned for its secrecy and isolation would allow f](https://documentaryheaven.com/educating-north-korea/ "Educating North Korea")
+* [![Gladiator Days: Anatomy of a Prison Murder](/wp-content/thumbnails/4530-100x70.jpg?x53432)
     
-    PT 3/3 Nerds 2.0.1: A Brief History of the Internet
+    Gladiator Days: Anatomy of a Prison Murder
     
-    Wiring the WorldNerds 2.0.1: A Brief History of the Internet (1998) is a three-hour documentary film written and hosted by Mark Stephens under the pseudonym Robert X. Cringely and produced by Oreg](https://documentaryheaven.com/pt-33-nerds-2-0-1-a-brief-history-of-the-internet/ "PT 3/3 Nerds 2.0.1: A Brief History of the Internet")
-* [![EP 5/6 The Private Life of Plants](/wp-content/thumbnails/2496-100x70.jpg?x53432)
+    Across the United States, violent crime in prison is an everyday reality, with inmates routinely exposed to assault, riot, rape and murder.Anatomy of a Prison Murder examines the culture of instit](https://documentaryheaven.com/gladiator-days-anatomy-of-a-prison-murder/ "Gladiator Days: Anatomy of a Prison Murder")
+* [![Mark Zuckerberg: Inside Facebook](/wp-content/thumbnails/6249-100x70.jpg?x53432)
     
-    EP 5/6 The Private Life of Plants
+    Mark Zuckerberg: Inside Facebook
     
-    Broadcast 2 February 1995, the fifth programme explores the alliances formed between the animal and plant worlds. Attenborough dives into Australia’s Great Barrier Reef and contrasts the nocturnal fee](https://documentaryheaven.com/the-private-life-of-plants-5/ "EP 5/6 The Private Life of Plants")
-* [![World War II: Behind Closed Doors](/wp-content/thumbnails/5750-100x70.jpg?x53432)
+    In just seven years, Mark Zuckerberg has gone from his Harvard college dorm to running a business with 800 million users, and a possible value of $100 billion. His idea to make the world more open an](https://documentaryheaven.com/mark-zuckerberg-inside-facebook/ "Mark Zuckerberg: Inside Facebook")
+* [![The Atkins Diet](/wp-content/thumbnails/7943-100x70.jpg?x53432)
     
-    World War II: Behind Closed Doors
+    The Atkins Diet
     
-    This a documentary film on the role of Joseph Stalin during World War II. The film combines narrative-led documentary segments, interwoven by dramatic re-enactments, with actors representing main poli](https://documentaryheaven.com/world-war-ii-behind-closed-doors/ "World War II: Behind Closed Doors")
+    This is the truth about the world's most famous, most glamorous and most controversial diet. The Atkins diet says that eating fat can make you thin. It says you don't need to bother watching the calor](https://documentaryheaven.com/atkins-diet/ "The Atkins Diet")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
