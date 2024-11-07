@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e4814497-346d-43f3-beb3-74b449e850df/20241107T130424/e4814497-346d-43f3-beb3-74b449e850df_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e4814497-346d-43f3-beb3-74b449e850df/20241107T130424/e4814497-346d-43f3-beb3-74b449e850df_360x203.jpg)](https://www.king5.com/article/news/crime/man-shot-dispute-money-seattle-walgreens/281-904e7f9c-55ce-4506-a9ca-2d67835b466d)
+    *  [![](https://media.king5.com/assets/KING/images/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5/20240827T002128/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5/20240827T002128/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5_360x203.jpg)](https://www.king5.com/article/news/crime/not-guilty-plea-cold-case-murder-kent-dorothy-silzel/281-5f27bd49-475a-4641-97ba-0f35411aba3b)
         
-        #### [Shooting near Seattle Walgreens result of 'dispute over money,' police say](https://www.king5.com/article/news/crime/man-shot-dispute-money-seattle-walgreens/281-904e7f9c-55ce-4506-a9ca-2d67835b466d)
+        #### [Man pleads not guilty to murder in cold case killing of Boeing employee](https://www.king5.com/article/news/crime/not-guilty-plea-cold-case-murder-kent-dorothy-silzel/281-5f27bd49-475a-4641-97ba-0f35411aba3b)
         
-    *  [![](https://media.king5.com/assets/KING/images/013563a8-956c-43ac-823b-5af1dbceaf9c/20241107T071854/013563a8-956c-43ac-823b-5af1dbceaf9c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/013563a8-956c-43ac-823b-5af1dbceaf9c/20241107T071854/013563a8-956c-43ac-823b-5af1dbceaf9c_360x203.jpg)](https://www.king5.com/article/news/local/lead-copper-detected-tsa-break-room-sink-sea-airport/281-e6921d58-cc78-4000-858e-c03976cfa4a2)
+    *  [![](https://media.king5.com/assets/KING/images/c7e82e2e-f29e-4833-a7b1-c226a858bc1a/20241031T003911/c7e82e2e-f29e-4833-a7b1-c226a858bc1a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c7e82e2e-f29e-4833-a7b1-c226a858bc1a/20241031T003911/c7e82e2e-f29e-4833-a7b1-c226a858bc1a_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/washington-state-supreme-court-seat-race-close-results/281-4501bc94-a937-4011-89c0-faed1b8cda1b)
         
-        #### [Lead, copper detected in TSA break room sink at SEA Airport](https://www.king5.com/article/news/local/lead-copper-detected-tsa-break-room-sink-sea-airport/281-e6921d58-cc78-4000-858e-c03976cfa4a2)
+        #### [Washington state Supreme Court seat race remains close after two days of ballot results](https://www.king5.com/article/news/politics/state-politics/washington-state-supreme-court-seat-race-close-results/281-4501bc94-a937-4011-89c0-faed1b8cda1b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-41°
+55°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
