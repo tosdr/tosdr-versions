@@ -240,15 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Priority Support
+### Designed for everyone, everywhere
 
   
-
-#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
-
-  
-
-[Get Priority Support](https://www.dynu.com/Membership)  
+Our services are easy to use and meant to enhance convenience. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.  
   
 
 ### News
