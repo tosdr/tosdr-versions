@@ -153,10 +153,12 @@ Latest reactions
 
 Latest forum posts
 
+* [Gballs new levels](https://www.msx.org/forum/msx-talk/development/gballs-new-levels "Gballs new levels")
+* [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=2 "New V9990 Wolfenstein-3D-Like Interactive Demo")
+* [I've ruined my openmsx installation. Uncaught exception](https://www.msx.org/forum/msx-talk/openmsx/ive-ruined-my-openmsx-installation-uncaught-exception "I've ruined my openmsx installation. Uncaught exception")
 * [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Contact](https://www.msx.org/forum/msx-talk/msx-resource-center/contact "Contact")
-* [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=1 "New V9990 Wolfenstein-3D-Like Interactive Demo")
 * [Yamaha AX-350](https://www.msx.org/forum/msx-talk/hardware/yamaha-ax-350 "Yamaha AX-350 ")
 * [CBIOS with MSX Diagnostics](https://www.msx.org/forum/msx-talk/hardware/cbios-with-msx-diagnostics "CBIOS with MSX Diagnostics")
 * [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k "9958 FPGA drop-in clone is here: TN-VDP 20K.")
@@ -164,13 +166,12 @@ Latest forum posts
 * [Outrun MSX2 WIP](https://www.msx.org/forum/msx-talk/development/outrun-msx2-wip?page=13 "Outrun MSX2 WIP")
 * [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
 * [Announcing my latest project](https://www.msx.org/forum/msx-talk/development/announcing-my-latest-project?page=2 "Announcing my latest project")
-* [I've ruined my openmsx installation. Uncaught exception](https://www.msx.org/forum/msx-talk/openmsx/ive-ruined-my-openmsx-installation-uncaught-exception "I've ruined my openmsx installation. Uncaught exception")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
@@ -183,7 +184,6 @@ News headlines
 * [Pixel Memories Pasoko-1000 Joysticks](https://www.msx.org/news/hardware/en/pixel-memories-pasoko1000-tribute-joysticks "Pixel Memories Pasoko-1000 Joysticks")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
-* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
