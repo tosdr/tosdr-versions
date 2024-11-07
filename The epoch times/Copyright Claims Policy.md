@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Democrats Inch Ahead in Yet-to-Be-Called US Senate Races](https://www.theepochtimes.com/us/democrats-inch-ahead-in-yet-to-be-called-us-senate-races-5755909)
+* [Federal Judge Ends Block on Florida’s Legal Action Against Pro-Abortion Ad](https://www.theepochtimes.com/us/federal-judge-ends-block-on-floridas-legal-action-against-pro-abortion-ad-5756063)
     
-    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![Democrats Inch Ahead in Yet-to-Be-Called US Senate Races](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Ends Block on Florida’s Legal Action Against Pro-Abortion Ad](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Democrats Inch Ahead in Yet-to-Be-Called US Senate Races](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753400-race_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-inch-ahead-in-yet-to-be-called-us-senate-races-5755909)
-* [European Leaders Meeting in Budapest Urge Trump to Support Ukraine, Avoid Trade Wars](https://www.theepochtimes.com/world/european-leaders-meeting-in-budapest-urge-trump-to-support-ukraine-avoid-trade-wars-5755872)
+    ![Federal Judge Ends Block on Florida’s Legal Action Against Pro-Abortion Ad](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756067-AP24290506465158-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-ends-block-on-floridas-legal-action-against-pro-abortion-ad-5756063)
+* [Putin Congratulates Trump on Election Win, Welcomes Opportunity for Renewed Dialogue](https://www.theepochtimes.com/world/putin-congratulates-trump-on-election-win-welcomes-opportunity-for-renewed-dialogue-5756142)
     
-    1hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![European Leaders Meeting in Budapest Urge Trump to Support Ukraine, Avoid Trade Wars](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Putin Congratulates Trump on Election Win, Welcomes Opportunity for Renewed Dialogue](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![European Leaders Meeting in Budapest Urge Trump to Support Ukraine, Avoid Trade Wars](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755916-2024-11-07T114419Z_1_LYNXMPEKA60GX_RTROPTP_4_EUROPE-COMMUNITY-205x123.jpg.webp)](https://www.theepochtimes.com/world/european-leaders-meeting-in-budapest-urge-trump-to-support-ukraine-avoid-trade-wars-5755872)
-* [Germany’s Coalition Collapses, Paving Way for New Elections](https://www.theepochtimes.com/world/germanys-coalition-collapses-paving-way-for-new-elections-5755869)
+    ![Putin Congratulates Trump on Election Win, Welcomes Opportunity for Renewed Dialogue](https://img.theepochtimes.com/assets/uploads/2024/11/id5756136-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-congratulates-trump-on-election-win-welcomes-opportunity-for-renewed-dialogue-5756142)
+* [Republican Dave McCormick Flips Pennsylvania Senate Seat](https://www.theepochtimes.com/us/republican-dave-mccormick-flips-pennsylvania-senate-seat-5748692)
     
-    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Germany’s Coalition Collapses, Paving Way for New Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republican Dave McCormick Flips Pennsylvania Senate Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Germany’s Coalition Collapses, Paving Way for New Elections](https://img.theepochtimes.com/assets/uploads/2024/11/id5755769-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/world/germanys-coalition-collapses-paving-way-for-new-elections-5755869)
-* [Cuba Hit by Second Blackout After Hurricane Rafael Tears Across Island](https://www.theepochtimes.com/world/cuba-hit-by-second-blackout-after-hurricane-rafael-tears-across-island-5755865)
+    ![Republican Dave McCormick Flips Pennsylvania Senate Seat](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754497-08c91b1fe5b252e1370e0e24-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-dave-mccormick-flips-pennsylvania-senate-seat-5748692)
+* [CDC Urges Broader Bird Flu Testing After Study Finds Infection in Asymptomatic Farmworkers](https://www.theepochtimes.com/us/cdc-urges-broader-bird-flu-testing-after-study-finds-infection-in-asymptomatic-farmworkers-5756096)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Cuba Hit by Second Blackout After Hurricane Rafael Tears Across Island](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![CDC Urges Broader Bird Flu Testing After Study Finds Infection in Asymptomatic Farmworkers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Cuba Hit by Second Blackout After Hurricane Rafael Tears Across Island](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755938-cubarafael-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/cuba-hit-by-second-blackout-after-hurricane-rafael-tears-across-island-5755865)
-* [Trump Returning to White House With a Bigger Mandate](https://www.theepochtimes.com/us/trump-returning-to-white-house-with-a-bigger-mandate-5755643)
+    ![CDC Urges Broader Bird Flu Testing After Study Finds Infection in Asymptomatic Farmworkers](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756244-2024-07-13T011945Z_1_LYNXMPEK6C00U_RTROPTP_4_HEALTH-BIRDFLU-SURVEILLANCE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/cdc-urges-broader-bird-flu-testing-after-study-finds-infection-in-asymptomatic-farmworkers-5756096)
+* [Donald Trump Jr. Weighs In on Second Trump Admin Cabinet](https://www.theepochtimes.com/us/donald-trump-jr-weighs-in-on-second-trump-admin-cabinet-5756148)
     
-    7hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov) and [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump Returning to White House With a Bigger Mandate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Donald Trump Jr. Weighs In on Second Trump Admin Cabinet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Returning to White House With a Bigger Mandate](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755152-Trump-Win-2_JF_11052024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-returning-to-white-house-with-a-bigger-mandate-5755643)
-* [Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://www.theepochtimes.com/us/federal-appeals-court-upholds-musks-no-fraud-verdict-in-tesla-tweets-case-5755665)
+    ![Donald Trump Jr. Weighs In on Second Trump Admin Cabinet](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756241-GettyImages-2033750267-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/donald-trump-jr-weighs-in-on-second-trump-admin-cabinet-5756148)
+* [Clintons Congratulate Trump and Vance on Election Win, Urge Americans to Bridge Divides](https://www.theepochtimes.com/us/clintons-congratulate-trump-and-vance-on-election-win-urge-americans-to-bridge-divides-5756054)
     
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Clintons Congratulate Trump and Vance on Election Win, Urge Americans to Bridge Divides](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Appeals Court Upholds Musk’s No-Fraud Verdict in Tesla Tweets Case](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741608-1.tagreuters.com2024binary_LYNXMPEK990VL-FILEDIMAGE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-upholds-musks-no-fraud-verdict-in-tesla-tweets-case-5755665)
-* [Levi Strauss Heir Leads San Francisco Mayor’s Race](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
+    ![Clintons Congratulate Trump and Vance on Election Win, Urge Americans to Bridge Divides](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756181-GettyImages-1487609087-205x123.jpg.webp)](https://www.theepochtimes.com/us/clintons-congratulate-trump-and-vance-on-election-win-urge-americans-to-bridge-divides-5756054)
+* [Zelenskyy Touts ‘Productive Conversation’ With President-Elect Trump](https://www.theepochtimes.com/world/zelenskyy-touts-productive-conversation-with-president-elect-trump-5756046)
     
-    13hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
+    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Zelenskyy Touts ‘Productive Conversation’ With President-Elect Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Levi Strauss Heir Leads San Francisco Mayor’s Race](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755950-Untitled-design-3-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/levi-strauss-heir-leads-san-francisco-mayors-race-5755056)
-* [Trump Accepts Biden’s White House Invitation for Transition Meeting](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
+    ![Zelenskyy Touts ‘Productive Conversation’ With President-Elect Trump](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756225-GettyImages-2173926542-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-touts-productive-conversation-with-president-elect-trump-5756046)
+* [California Gov. Newsom Announces Special Legislative Session After Trump Victory](https://www.theepochtimes.com/us/california-gov-newsom-announces-special-legislative-session-after-trump-victory-5756114)
     
-    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump Accepts Biden’s White House Invitation for Transition Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![California Gov. Newsom Announces Special Legislative Session After Trump Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Accepts Biden’s White House Invitation for Transition Meeting](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678879-trump-bidenKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-accepts-bidens-white-house-invitation-for-transition-meeting-5755731)
-* [Understanding the Demographic Shift That Pushed Trump to Victory](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
+    ![California Gov. Newsom Announces Special Legislative Session After Trump Victory](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756206-Trump-and-NewsomKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-gov-newsom-announces-special-legislative-session-after-trump-victory-5756114)
+* [Pentagon Chief Austin Says US Military Ready to Carry Out Lawful Orders of Trump Administration](https://www.theepochtimes.com/us/pentagon-chief-austin-says-us-military-ready-to-carry-out-lawful-orders-of-trump-administration-5756095)
     
-    15hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pentagon Chief Austin Says US Military Ready to Carry Out Lawful Orders of Trump Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Understanding the Demographic Shift That Pushed Trump to Victory](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755767-Lead-graph-2-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/understanding-the-demographic-shift-that-pushed-trump-to-victory-5755489)
-* [Children Under 16 Face Ban From Social Media Under New Australian Bill](https://www.theepochtimes.com/world/children-under-16-face-ban-from-social-media-under-new-australian-bill-5755709)
+    ![Pentagon Chief Austin Says US Military Ready to Carry Out Lawful Orders of Trump Administration](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753135-lloyd-austin-feb-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pentagon-chief-austin-says-us-military-ready-to-carry-out-lawful-orders-of-trump-administration-5756095)
+* [Federal Reserve Cuts Interest Rates for 2nd Straight Meeting](https://www.theepochtimes.com/business/federal-reserve-cuts-interest-rates-for-2nd-straight-meeting-5755953)
     
-    15hr By [Naziya Alvi Rahman](https://www.theepochtimes.com/author/naziya-alvi)
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Children Under 16 Face Ban From Social Media Under New Australian Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Reserve Cuts Interest Rates for 2nd Straight Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Children Under 16 Face Ban From Social Media Under New Australian Bill](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741769-Mobile-Phone-205x123.jpg.webp)](https://www.theepochtimes.com/world/children-under-16-face-ban-from-social-media-under-new-australian-bill-5755709)
+    ![Federal Reserve Cuts Interest Rates for 2nd Straight Meeting](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756232-Federal-Reserve-Board-Chair-Jerome-Powell-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-reserve-cuts-interest-rates-for-2nd-straight-meeting-5755953)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
