@@ -347,19 +347,19 @@ ShopSimon™
 
 [About ShopSimon](https://shop.simon.com/pages/about-spo?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_ABOUTSHOPSIMON "Learn More About ShopSimon")
 
-[ShopSimon Rewards](https://shop.simon.com/pages/rewards?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONREWARDS "Join or Login to ShopSimon Rewards")
+[Shop Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPDEALS "Shop Top Deals at ShopSimon")
 
-[Contact ShopSimon](https://shop.simon.com/pages/contact-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_CONTACTSHOPSIMON "Contact the ShopSimon Team")
+[Shop Collections](https://shop.simon.com/pages/collections?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPCOLLECTIONS "Shop Curated Collections at ShopSimon")
 
-[Help | FAQs](https://support.shopsimon.com/hc/en-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONHELP "Get Answers and Support for All Things ShopSimon")
+[Shop Brands](https://shop.simon.com/pages/brands?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPBRANDS "Shop by Brand at ShopSimon")
 
-[Shipping Policy](https://support.shopsimon.com/hc/en-us/articles/360051095694?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONSHIPPINGPOLICY "Understanding ShopSimon’s Shipping Policy")
-
-[Return Policy](https://support.shopsimon.com/hc/en-us/articles/360051106334?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONRETURNPOLICY " Understanding ShopSimon’s Return Policy")
-
-[Refund Policy](https://shop.simon.com/policies/refund-policy?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONREFUNDPOLICY "Understanding ShopSimon’s Refund Policy")
+[Earn Rewards](https://shop.simon.com/pages/rewards?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONREWARDS "Join or Login to ShopSimon Rewards")
 
 [Sell With Us](https://shop.simon.com/pages/brand-application?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONSELLWITHUS "Partner to Sell Your Online Sale, Clearance or Outlet Products On ShopSimon")
+
+[Help & FAQs](https://support.shopsimon.com/hc/en-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONHELP "Get Answers and Support for All Things ShopSimon")
+
+[Contact ShopSimon](https://shop.simon.com/pages/contact-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_CONTACTSHOPSIMON "Contact the ShopSimon Team")
 
 Simon Giftcards®
 
