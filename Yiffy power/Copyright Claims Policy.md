@@ -83,23 +83,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 686 1
+0 699 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/chase-and-logan-created-by-mariart/)
+[](https://yiff-party.com/yiff/aki-and-lana-nintendo-and-etc-created-by-wingedwilly/)
 
-[chase and logan created by mariart](https://yiff-party.com/yiff/chase-and-logan-created-by-mariart/)
+[aki and lana (nintendo and etc) created by wingedwilly](https://yiff-party.com/yiff/aki-and-lana-nintendo-and-etc-created-by-wingedwilly/)
 
-0 184 0
+0 176 0
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/created-by-littlearrowdog/)
+[](https://yiff-party.com/yiff/microsoft-and-etc-created-by-askart/)
 
-[created by littlearrowdog](https://yiff-party.com/yiff/created-by-littlearrowdog/)
+[microsoft and etc created by askart](https://yiff-party.com/yiff/microsoft-and-etc-created-by-askart/)
 
-0 1 0
+0 0 0
 
 November 7, 2024
 
