@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-No problem with service (very good), back in UK, will not hesitate to use again and recommend.
+I like the service so well that I've already re-subscribed. FoxyProxy is just perfect for what I want to do (watch the BBC iPlayer) and I've already recommended the add-in to several other people.
 
-Kevin Osborne
+Lynne Williams
