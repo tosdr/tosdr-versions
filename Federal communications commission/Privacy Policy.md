@@ -76,77 +76,72 @@ Search
 Privacy Policy
 ==============
 
-Main menu
----------
+About the FCC
+-------------
 
-* [Reports & Research](https://www.fcc.gov/reports-research)
+* [About the FCC Overview](https://www.fcc.gov/about/overview)
     
-    * [Reports and Data Overview](https://www.fcc.gov/reports-research)
-        
-    * [Reports](https://www.fcc.gov/reports-research/reports)
-        
-    * [Data](https://www.fcc.gov/reports-research/data)
-        
-        Featured Item
-        
-        Off
-        
-        Mega Menu Desktop Only
-        
-        Off
-        
-    * [Guides](https://www.fcc.gov/reports-research/guides)
-        
-        Featured Item
-        
-        Off
-        
-        Mega Menu Desktop Only
-        
-        Off
-        
-    * [Maps](https://www.fcc.gov/reports-research/maps)
-        
-        Featured Item
-        
-        Off
-        
-        Mega Menu Desktop Only
-        
-        Off
-        
-    * [Working Papers](https://www.fcc.gov/reports-research/working-papers)
-        
-    * [For Developers](https://www.fcc.gov/reports-research/developers)
-        
-        Featured Item
-        
-        Off
-        
-        Mega Menu Desktop Only
-        
-        Off
-        
-    * [Fiscal Year 2022-2026 Strategic Plan](https://docs.fcc.gov/public/attachments/DOC-381830A1.pdf)
-        
-        Featured Item
-        
-        On
-        
-        Mega Menu Desktop Only
-        
-        Off
-        
-    * [Workload Dashboard](https://www.fcc.gov/reports-research/workload-and-operations-dashboard)
-        
-        Featured Item
-        
-        Off
-        
-        Mega Menu Desktop Only
-        
-        Off
-        
+* [What We Do](https://www.fcc.gov/about-fcc/what-we-do)
+    
+    Featured Item
+    
+    Off
+    
+    Mega Menu Desktop Only
+    
+    Off
+    
+* [Rulemaking Process](https://www.fcc.gov/about-fcc/rulemaking-process)
+    
+    Featured Item
+    
+    Off
+    
+    Mega Menu Desktop Only
+    
+    Off
+    
+* [Leadership](https://www.fcc.gov/about/leadership)
+    
+* [FCC Initiatives](https://www.fcc.gov/about-fcc/fcc-initiatives)
+    
+    Featured Item
+    
+    Off
+    
+    Mega Menu Desktop Only
+    
+    Off
+    
+* [Organizational Charts](https://www.fcc.gov/about-fcc/organizational-charts-fcc)
+    
+    Featured Item
+    
+    Off
+    
+    Mega Menu Desktop Only
+    
+    Off
+    
+* [Privacy Policy](https://www.fcc.gov/privacy)
+    
+    Featured Item
+    
+    Off
+    
+    Mega Menu Desktop Only
+    
+    Off
+    
+* [Accessibility](https://www.fcc.gov/accessibility/program)
+    
+    Featured Item
+    
+    Off
+    
+    Mega Menu Desktop Only
+    
+    Off
     
 
 The FCC is committed to protecting the privacy of its visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
