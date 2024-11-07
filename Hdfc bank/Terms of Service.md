@@ -6062,10 +6062,10 @@ false
 * [Consent to Call Registration](https://leads.hdfcbank.com/applications/misc/dnc/dnc.aspx?calltype=ctc)
 
 * Connect
-* [Facebook](http://bit.ly/HDFCBankOnFacebook "Facebook") [Facebook](https://www.hdfcbank.com/personal/connect/facebook)
+* [Facebook](https://www.facebook.com/hdfcbank "Facebook") [Facebook](https://www.hdfcbank.com/https/www.facebook.com/hdfcbank)
 * [Instagram](https://www.instagram.com/hdfcbank/ "Instagram") [Instagram](https://www.hdfcbank.com/personal/connect/instagram)
-* [YouTube](http://bit.ly/HDFCYoutube "YouTube") [YouTube](https://www.hdfcbank.com/personal/connect/youtube)
-* [Twitter](http://bit.ly/Hdfctwitter "Twitter") [Twitter](https://www.hdfcbank.com/personal/connect/twitter)
+* [YouTube](https://youtube.com/@hdfcbank "YouTube") [YouTube](https://www.hdfcbank.com/https/youtube.com/hdfcbank)
+* [Twitter](https://x.com/hdfc_bank "Twitter") [Twitter](https://www.hdfcbank.com/https/x.com/hdfc_bank)
 * [Pinterest](http://pinterest.com/hdfcbank "Pinterest") [Pinterest](https://www.hdfcbank.com/personal/connect/pinterest)
 * [Linkedin](https://www.linkedin.com/company/164151/ "Linkedin") [Linkedin](https://www.hdfcbank.com/personal/connect/linkedin)
 * [](https://www.hdfcbank.com/personal/useful-links/security)[](https://www.hdfcbank.com/personal/useful-links/security/footer)
