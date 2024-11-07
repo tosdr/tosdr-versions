@@ -259,9 +259,9 @@ Below is a list of Shaw Tariffs as filed with the Canadian Radio-Television and 
 
 The following documents show examples of Shaw’s service agreements:
 
-[Sample of Internet only Month-to-month agreement](https://assets.ctfassets.net/tzb4ihmthaev/6E9kNwnhrZgo3GEoA60EGz/f6e37a7a3ce1d0b531c28151c929ea71/Sample_of_Internet_only_Month-to-month_agreement.pdf)  
-[Sample of Internet only 2-year ValuePlan agreement with Self Protect](https://assets.ctfassets.net/tzb4ihmthaev/6DHmopZUJphFii1Nl2plDr/6f098ff45138a3c9dbb8943fb2c05641/Sample_of_Internet_only_2-year_ValuePlan_agreement_with_Self_Protect.pdf)  
-[Sample of Internet & Television ValuePlan with Self Protect](https://assets.ctfassets.net/tzb4ihmthaev/xtlJ4FG53tBt87WMaWArT/edc101b946e50d871636137f3a679f39/Sample_of_Internet___Television_ValuePlan_with_Self_Protect.pdf)
+[Sample of Internet only Month-to-month agreement](https://assets.ctfassets.net/tzb4ihmthaev/5edCxOBTOfHPkqISIHhhrg/ac4e326482b862bdec1ac99993f6987f/Service_Agreement_Internet_MTM.pdf)  
+[Sample of Internet only 2-year ValuePlan agreement with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/6zZAIW73DhsclbCHikQcJQ/247aa2bd7bcce97c50d5a630e0a2aab8/Service_Agreement_Internet_with_Self_Protect.pdf)  
+[Sample of Internet & Television ValuePlan with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/4BJapvqo0WKwob2wvoJdku/f7d834ebb15214c55b95e32e0f31efe5/Service_Agreement_Internet_and_TV_with_Self_Protect.pdf)
 
 ### Shaw Price Guarantee Terms
 
