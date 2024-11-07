@@ -188,6 +188,7 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         * [Technology, Media & Communications](https://www.regions.com/commercial-banking/technology)
         * [Financial Services](https://www.regions.com/commercial-banking/financial-services)
         * [Diversified Industries](https://www.regions.com/commercial-banking/diversified-industries)
+        * [New Markets Tax Credits](https://www.regions.com/commercial-banking/new-markets-tax-credits)
         
     * [Commercial Insights](https://www.regions.com/insights/commercial)
     
@@ -352,7 +353,7 @@ Related Insights
 
 [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
 
-[Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
+[5 checking account mistakes to avoid](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/checking-account-mistakes)
 
 [See All Insights](https://www.regions.com/Insights/InsightsLibrary)
 
