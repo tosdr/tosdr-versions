@@ -17,7 +17,7 @@ Cookies are small files that your browser stores on your computer on behalf of o
 
 You should be aware that when you access _any_ web site, your computer's IP address (the network address assigned to you by your Internet Service Provider) is visible to the site's servers and is usually recorded in a log file. It's often technically possible to connect this information to you personally. We currently make no attempt to do this, although our hosting service conceivably could (even without our involvement or knowledge), as they operate the physical servers that handle our traffic. Most Web browsers also expose certain information to the server, such as the browser version and the type of computer and operating system you're using, although none of that is typically personally identifiable.
 
-[IFDB Home](https://ifdb.org/) | [Contact Us](https://ifdb.org/contact) | [Code of Conduct](https://ifdb.org/code-of-conduct) | [Terms of Service](https://ifdb.org/tos) | [Privacy](https://ifdb.org/privacy) | [Copyrights & Trademarks](https://ifdb.org/copyright)
+[IFDB Home](https://ifdb.org/) | [Contact Us](https://ifdb.org/contact) | [Code of Conduct](https://ifdb.org/code-of-conduct) | [Terms of Service](https://ifdb.org/tos) | [Privacy](https://ifdb.org/privacy) | [Copyrights & Trademarks](https://ifdb.org/copyright) | [API](https://ifdb.org/api/)
 
 [![Interactive Fiction technology Foundation](/img/iftf-logo.svg)](http://iftechfoundation.org/)
 
