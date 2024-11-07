@@ -12,7 +12,7 @@ class="agentbot"
     
     * [Retail Banks](https://engageware.com/retail-banks/)
     * [Credit Unions](https://engageware.com/credit-unions/)
-    * [Financial Services](https://engageware.com/financial-services/)
+    * [Wealth Management](https://engageware.com/financial-services/)
     * [Consumer Retail](https://engageware.com/consumer-retail/)
     * [Higher Education](https://engageware.com/higher-education/)
     * [Health & Wellness](https://engageware.com/health-wellness/)
@@ -114,7 +114,7 @@ Industries
 
 * [Retail Banks](https://engageware.com/retail-banks/)
 * [Credit Unions](https://engageware.com/credit-unions/)
-* [Financial Services](https://engageware.com/financial-services/)
+* [Wealth Management](https://engageware.com/financial-services/)
 * [Consumer Retail](https://engageware.com/consumer-retail/)
 * [Higher Education](https://engageware.com/higher-education/)
 * [Health & Wellness](https://engageware.com/health-wellness/)
