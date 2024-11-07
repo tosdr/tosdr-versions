@@ -179,7 +179,7 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Trump won … but wait, Albo just got another flight upgrade!](https://independentaustralia.net/article-display/trump-won-but-wait-albo-just-got-another-flight-upgrade,19149 "Permanent Link : Trump won … but wait, Albo just got another flight upgrade!")
+* [EDITORIAL: Trump won … but wait, Albo just got another flight upgrade!](https://independentaustralia.net/article-display/editorial-trump-won-but-wait-albo-just-got-another-flight-upgrade,19149 "Permanent Link : EDITORIAL: Trump won … but wait, Albo just got another flight upgrade!")
 * [Trump Mark II: Chaos personified](https://independentaustralia.net/article-display/trump-mark-ii-chaos-personified,19148 "Permanent Link : Trump Mark II: Chaos personified")
 * [A blueprint for peace](https://independentaustralia.net/article-display/a-blueprint-for-peace,19146 "Permanent Link : A blueprint for peace")
 * ['Mean Streak' relives Robodebt horrors](https://independentaustralia.net/article-display/mean-streak-relives-robodebt-horrors,19145 "Permanent Link : 'Mean Streak' relives Robodebt horrors")
