@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Round HereFlorida Georgia Line<br><br>10:42pm |
-| The Kind Of Love We MakeLuke Combs<br><br>10:38pm |
-| Miles On ItKane Brown Ft Marshmello<br><br>10:35pm |
-| Devil You KnowTyler Braden<br><br>10:23pm |
-| Watermelon MoonshineLainey Wilson<br><br>10:20pm |
+| Wasted On YouMorgan Wallen<br><br>4:40am |
+| Pretty Little PoisonWarren Zeiders<br><br>4:37am |
+| This Town'S Been Too Good To UsDylan Scott<br><br>4:34am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:30am |
+| I Ain'T Sayin'Jordan Davis<br><br>4:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,14 +358,6 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
@@ -373,6 +365,14 @@ Country • Western
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
