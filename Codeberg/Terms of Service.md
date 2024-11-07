@@ -4,7 +4,7 @@ This website requires JavaScript.
 
 [Explore](https://codeberg.org/explore/repos) [About](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F) [FAQ](https://docs.codeberg.org/getting-started/faq/) [Donate](https://docs.codeberg.org/improving-codeberg/#donate-to-codeberg) [Help](https://docs.codeberg.org/)
 
-[Register](https://codeberg.org/user/cbrgp/JlFEXsy) [Sign in](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fTermsOfUse.md)
+[Register](https://codeberg.org/user/cbrgp/9u5I3IP) [Sign in](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fTermsOfUse.md)
 
 ![Codeberg/org](/repo-avatars/67b24ac1ac2b23c0229a87f0d2d0cccabdc7f490c5a9c70b439c6d140f81e84d)
 
