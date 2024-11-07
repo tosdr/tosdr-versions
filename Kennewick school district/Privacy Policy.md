@@ -132,9 +132,6 @@ toggle mobile menu
     
     * [Academic and Student Well-Being Recovery Plan](https://www.ksd.org/about/ksd-academic-and-student-well-being-recovery-plan)
     * [Administration](https://www.ksd.org/about/administration)
-        
-        * [Accountability and Performance](https://www.ksd.org/about/administration/accountability-and-performance)
-        
     * [Committees](https://www.ksd.org/about/committees)
     * [Bonds and Levies](https://www.ksd.org/about/bonds-levies)
     * [Community Report](https://www.ksd.org/about/community-report)
@@ -143,11 +140,6 @@ toggle mobile menu
     * [Flag Notices](https://www.ksd.org/about/flag-notices)
     * [Harassment, Intimidation, Bullying, and Cyberbullying](https://www.ksd.org/about/hib)
     * [Health and Safety](https://www.ksd.org/about/health-and-safety)
-        
-        * [Immunizations](https://www.ksd.org/about/health-and-safety/medical-immunizations)
-        * [Medical & Student Health Plans](https://www.ksd.org/about/health-and-safety/medical-student-health-plans)
-        * [Weather & Air Quality](https://www.ksd.org/about/health-and-safety/weather-guidelines)
-        
     * [Policies and Procedures](https://www.ksd.org/about/policies-procedures)
     * [School Board](https://www.ksd.org/school-board-landing/school-board)
     * [Strategic Plan and Goals](https://www.ksd.org/about/strategic-plan-goals)
@@ -165,52 +157,17 @@ toggle mobile menu
     
     * [Business and Finance](https://www.ksd.org/departments/business)
     * [Capital Projects](https://www.ksd.org/departments/capital-projects)
-        
-        * [Kamiakin High School](https://www.ksd.org/departments/capital-projects/kamiakin-high-school)
-        * [Southridge High School](https://www.ksd.org/departments/capital-projects/southridge-high-school)
-        
     * [Communications and Public Relations](https://www.ksd.org/departments/communications-public-relations)
-        
-        * [Annual Parent Notifications(opens in new window/tab)](https://www.ksd.org/students-families/notifications)
-        * [Community Education Online](https://www.ksd.org/departments/communications-public-relations/community-education)
-        * [Community Resources(opens in new window/tab)](https://www.ksd.org/community/community-resources)
-        * [Delays and Closures(opens in new window/tab)](https://www.ksd.org/students-families/school-closures-delays)
-        * [Family HUB(opens in new window/tab)](https://www.ksd.org/students-families/hub)
-        * [Graduation HUB(opens in new window/tab)](https://www.ksd.org/students-families/graduationhub)
-        * [ParentSquare/StudentSquare(opens in new window/tab)](https://www.ksd.org/students-families/parentsquare)
-        
     * [Facility Services](https://www.ksd.org/departments/facility-services)
     * [Human Resources & Careers(opens in new window/tab)](https://www.ksd.org/human-resources)
     * [Information Technology](https://www.ksd.org/departments/information-technology)
     * [K-12 Education](https://www.ksd.org/departments/k-12-services)
-        
-        * [Elementary Education](https://www.ksd.org/departments/k-12-services/elementary-education)
-        * [School Improvement Plans](https://www.ksd.org/departments/k-12-services/school-improvement-plans)
-        * [Secondary Education](https://www.ksd.org/departments/k-12-services/secondary-education)
-        * [Special Services](https://www.ksd.org/departments/k-12-services/special-services)
-        * [Student Services](https://www.ksd.org/departments/k-12-services/k-12-student-services)
-        * [Summer School](https://www.ksd.org/departments/k-12-services/summer-school)
-        
     * [Learning Supports and Programs](https://www.ksd.org/departments/learningsupportsprograms)
-        
-        * [Action Team for Partnerships](https://www.ksd.org/departments/learningsupportsprograms/action-team-for-partnerships)
-        * [Dual Language](https://www.ksd.org/departments/learningsupportsprograms/dual-language)
-        * [Migrant and Multilingual](https://www.ksd.org/departments/learningsupportsprograms/migrant-multilingual)
-        * [Students In Transition (Homeless)](https://www.ksd.org/departments/learningsupportsprograms/students-in-transition)
-        
     * [Nutrition Services](https://www.ksd.org/departments/nutrition-services)
     * [Payroll & Benefits](https://www.ksd.org/departments/payroll-benefits)
     * [Purchasing and Warehouse](https://www.ksd.org/departments/purchasing-warehouse)
     * [Science Resource Center](https://www.ksd.org/departments/science-resource-center)
     * [Teaching and Learning](https://www.ksd.org/departments/curriculum-instruction)
-        
-        * [Assessment](https://www.ksd.org/departments/curriculum-instruction/assessment)
-        * [Career and College Readiness](https://www.ksd.org/departments/curriculum-instruction/career-college-readiness)
-        * [Curriculum](https://www.ksd.org/departments/curriculum-instruction/curriculum)
-        * [Educational Technology](https://www.ksd.org/departments/curriculum-instruction/educational-technology)
-        * [Highly Capable Program](https://www.ksd.org/departments/curriculum-instruction/highly-capable-program)
-        * [Learner Profile](https://www.ksd.org/departments/curriculum-instruction/learner-profile)
-        
     * [Transportation](https://www.ksd.org/departments/transportation)
     
 * [Students & Families](https://www.ksd.org/students-families)
@@ -227,36 +184,10 @@ toggle mobile menu
     * [Family HUB](https://www.ksd.org/students-families/hub)
     * [Parent Forms](https://www.ksd.org/students-families/forms)
     * [Graduation HUB](https://www.ksd.org/students-families/graduationhub)
-        
-        * [Graduation Requirements](https://www.ksd.org/students-families/graduationhub/graduation-requirements)
-        * [Career & College Counseling Services](https://www.ksd.org/students-families/graduationhub/career-college-readiness)
-        * [Career and College Readiness Guide](https://www.ksd.org/students-families/graduationhub/career-and-college-readiness-guide)
-        * [ACT & SAT College Entrance Exams](https://www.ksd.org/students-families/graduationhub/college-entrance-exams)
-        * [Air Force Junior ROTC](https://www.ksd.org/students-families/graduationhub/air-force-junior-rotc)
-        * [Career & Technical Education (CTE)](https://www.ksd.org/students-families/graduationhub/career-technical-education-cte)
-        * [College Planning & Scholarships](https://www.ksd.org/students-families/graduationhub/college-planning)
-        * [Course Catalogs](https://www.ksd.org/students-families/course-catalog)
-        * [Dual Credit and Advanced High School Programs](https://www.ksd.org/students-families/graduationhub/dual-credit-and-advanced-high-school-programs)
-        * [Financial Aid](https://www.ksd.org/students-families/graduationhub/financial-aid)
-        * [High School & Beyond Plan](https://www.ksd.org/students-families/graduationhub/high-school-beyond-plan)
-        * [Jobs](https://www.ksd.org/students-families/graduationhub/jobs)
-        * [Military & ASVAB Exam](https://www.ksd.org/students-families/graduationhub/military)
-        * [Seal of Biliteracy](https://www.ksd.org/students-families/graduationhub/seal-of-biliteracy)
-        * [Volunteer Opportunities for Students](https://www.ksd.org/students-families/graduationhub/student-volunteering)
-        * [Worksite Learning](https://www.ksd.org/students-families/graduationhub/worksite-learning)
-        
     * [Health & Safety](https://www.ksd.org/about/health-and-safety)
     * [Math Nation Tutoring](https://www.ksd.org/students-families/mathnation)
     * [Meals](https://www.ksd.org/departments/nutrition-services)
     * [ParentSquare / StudentSquare](https://www.ksd.org/students-families/parentsquare)
-        
-        * [About ParentSquare](https://www.ksd.org/students-families/parentsquare)
-        * [ParentSquare Portal](https://www.ksd.org/students-families/parentsquare/parentsquare-portal)
-        * [Tips for Parents and Guardians](https://www.ksd.org/students-families/parentsquare/tips-for-parents-and-guardians)
-        * [Language Settings](https://www.ksd.org/students-families/parentsquare/language-settings)
-        * [Opt-Out](https://www.ksd.org/students-families/parentsquare/opt-out)
-        * [Frequently Asked Questions](https://www.ksd.org/students-families/parentsquare/frequently-asked-questions)
-        
     * [Policies & Procedures](https://www.ksd.org/about/policies-procedures)
     * [Safety & Security](https://www.ksd.org/students-families/safety-security)
     * [School Supplies](https://www.ksd.org/students-families/school-supplies)
