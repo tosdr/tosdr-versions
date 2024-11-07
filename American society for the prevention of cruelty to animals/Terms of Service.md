@@ -319,7 +319,7 @@ Leave this field blank
 © 2024 American Society for the Prevention of Cruelty to Animals. All rights reserved.  
 The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://www.aspca.org/about-us/privacy-policy)  [Legal Info](https://www.aspca.org/about-us/legal-information)
 
-[![Charity Navigator Four-Star Rating](https://www.aspca.org/sites/default/files/four-star-rating-badge-full-color-800.png)](https://www.charitynavigator.org/ein/13-1623829)[![](https://www.guidestar.org/App_Themes/MainSite2/images/ProfilePageSvgs/profile-SILVER2023-seal.svg)](https://www.guidestar.org/profile/shared/7ebc8c02-f16e-432a-b413-f45c336a745b)
+[![Charity Navigator Four-Star Rating](https://www.aspca.org/sites/default/files/four-star-rating-badge-full-color-800.png)](https://www.charitynavigator.org/ein/13-1623829)[![](https://www.guidestar.org/App_Themes/MainSite2/images/ProfilePageSvgs/profile-SILVER2024-seal.svg)](https://www.guidestar.org/profile/shared/7ebc8c02-f16e-432a-b413-f45c336a745b)
 
 [Facebook](https://www.facebook.com/aspca)[Twitter](https://www.twitter.com/ASPCA)[Youtube](https://www.youtube.com/user/aspca)[Instagram](https://www.instagram.com/aspca)[TikTok](https://www.tiktok.com/@aspca)
 
