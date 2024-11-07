@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Heroes of the Gaming World Trading Cards](https://www.somethingawful.com/feature-articles/heroes-gaming-world/1/)
-* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
-* [AwfulVision: Hot as Helllll!](https://www.somethingawful.com/awfulvision/complete-sonic-libertarian/1/)
-* [Make porn safe for work V2: work from home edition](https://www.somethingawful.com/photoshop-phriday/make-porn-sfwv2/)
+* [AwfulVision: Cross-face chicken wings and tap water!](https://www.somethingawful.com/awfulvision/benoit-fat-werewolf/1/)
+* [AwfulVision: Reader Mailbag #1!](https://www.somethingawful.com/awfulvision/awfulvision-reader-mailbag/1/)
+* [AwfulVision: Canada vs. Jesus!](https://www.somethingawful.com/awfulvision/moustache-obama-eggs/1/)
+* [Valentines + Dinosaurs = Valendinos](https://www.somethingawful.com/comedy-goldmine/valentines-day-dinosaurs/1/)
+* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Historic Breakdancing News](http://forums.somethingawful.com/showthread.php?threadid=4074712 "Historic Breakdancing News")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Come to Callisto!](http://forums.somethingawful.com/showthread.php?threadid=4074669 "Come to Callisto!")
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [How busy were the Ghostbusters after 9/11?](http://forums.somethingawful.com/showthread.php?threadid=4074679 "How busy were the Ghostbusters after 9/11?")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [Canada citizenship application discussion](http://forums.somethingawful.com/showthread.php?threadid=4074706 "Canada citizenship application discussion")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [How busy were the Ghostbusters after 9/11?](http://forums.somethingawful.com/showthread.php?threadid=4074679 "How busy were the Ghostbusters after 9/11?")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Post how you break up with people](http://forums.somethingawful.com/showthread.php?threadid=4074710 "Post how you break up with people")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Come to Callisto!](http://forums.somethingawful.com/showthread.php?threadid=4074669 "Come to Callisto!")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Historic Breakdancing News](http://forums.somethingawful.com/showthread.php?threadid=4074712 "Historic Breakdancing News")
 
 ### Random Articles
 
-* [RINGS](https://www.somethingawful.com/awful-links/awful-link-2647/)
-* [Dog Wanted Posters](https://www.somethingawful.com/awful-links/awful-link-2376/)
-* [NERDS](https://www.somethingawful.com/garbage-day/nerdcore-protomen-8bit/1/)
-* [has anyone noticed strange things happening since cheerios + ancient grains was released?](https://www.somethingawful.com/comedy-goldmine/ancient-grains-cheerios/)
-* [House of Archangel](https://www.somethingawful.com/awful-links/awful-link-1174/)
+* [American Bidet (Thanks, Chris!)](https://www.somethingawful.com/awful-links/american-bidet-company/)
+* [HOW2WIN@GAMES Vol. 1 Tape 1](https://www.somethingawful.com/flash-tub/how2win-games-cartoon/)
+* [S.T.A.L.K.E.R. Features That Didn't Quite Make It](https://www.somethingawful.com/video-game-article/stalker-features/)
+* [Doctor Science Professor Explains It All](https://www.somethingawful.com/news/doctor-science-professor-2/)
+* [If Clickbait Ads Had Anything to Do with the Linked Articles!](https://www.somethingawful.com/photoshop-phriday/clickbait-ads-articles/)
 
 [Random!](https://www.somethingawful.com/random/)
 
