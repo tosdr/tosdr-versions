@@ -1,22 +1,35 @@
 ![](https://mc.yandex.ru/watch/98468737)
 
-[![new logo](/images/logo-new-sn.png)
-
-StoryNavigation](https://storynavigation.com/)
+[![logo](/assets-st/img/svg/logo.svg)](https://storynavigation.com/)
 
 * [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
-* en
-    * [de](http://storynavigation.com/de/terms-of-use)
-    * [en](http://storynavigation.com/terms-of-use)
-    * [fr](http://storynavigation.com/fr/terms-of-use)
-    * [it](http://storynavigation.com/it/terms-of-use)
-    * [ru](http://storynavigation.com/ru/terms-of-use)
+* [Features](https://storynavigation.com/features)
+* [About us](https://storynavigation.com/about-project)
+* [Contacts](https://storynavigation.com/contact-us)
+
+![search logo](/assets-st/img/svg/search.svg)
+
+en
+
+* [de](http://storynavigation.com/de/terms-of-use)
+* [en](http://storynavigation.com/terms-of-use)
+* [fr](http://storynavigation.com/fr/terms-of-use)
+* [it](http://storynavigation.com/it/terms-of-use)
+* [ru](http://storynavigation.com/ru/terms-of-use)
 
 * [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
+* [Features](https://storynavigation.com/features)
+* [About us](https://storynavigation.com/about-project)
+* [Contacts](https://storynavigation.com/contact-us)
 
-[en](#) [de](http://storynavigation.com/de/terms-of-use) [fr](http://storynavigation.com/fr/terms-of-use) [it](http://storynavigation.com/it/terms-of-use) [ru](http://storynavigation.com/ru/terms-of-use)
+* [en](#)
+* [de](http://storynavigation.com/de/terms-of-use)
+* [en](http://storynavigation.com/terms-of-use)
+* [fr](http://storynavigation.com/fr/terms-of-use)
+* [it](http://storynavigation.com/it/terms-of-use)
+* [ru](http://storynavigation.com/ru/terms-of-use)
 
 **TERMS OF USE**
 
@@ -481,29 +494,14 @@ In order to resolve a complaint regarding the Services or to receive further inf
 
 ****[\[email protected\]](https://instanavigation.com/cdn-cgi/l/email-protection)****
 
-![footer logo](/images/logo-new-sn.png)
-
-StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
-
-* [About us](https://storynavigation.com/about-project)
+* [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
 * [Features](https://storynavigation.com/features)
+* [About us](https://storynavigation.com/about-project)
 * [Contacts](https://storynavigation.com/contact-us)
 
-[](https://storynavigation.com/view-instagram-stories)
-
-en
-
-* [de](http://storynavigation.com/de/terms-of-use)
-* [en](http://storynavigation.com/terms-of-use)
-* [fr](http://storynavigation.com/fr/terms-of-use)
-* [it](http://storynavigation.com/it/terms-of-use)
-* [ru](http://storynavigation.com/ru/terms-of-use)
-
-![footer logo](/images/logo-new-sn.png)
+[![footer logo](/assets-st/img/svg/logo-big.svg)](https://storynavigation.com/)
 
 StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
-© 2024 StoryNavigation. All rights reserved.
-
-[Terms & Conditions](https://storynavigation.com/terms-of-use) [Privacy policy](https://storynavigation.com/privacy-policy)
+© 2024 StoryNavigation [Terms & Conditions](https://storynavigation.com/terms-of-use) [Privacy policy](https://storynavigation.com/privacy-policy)
