@@ -155,13 +155,6 @@ Orders ship within 1-2 days
 
 [support@blackwolfnation.com](mailto:support@blackwolfnation.com)
 
-EARLY ACCESS TO SHOP BLACK FRIDAY DEALS
----------------------------------------
-
-Get on the list to shop Black Friday before everyone!
-
-[Sign Up](https://blackwolfnation.com/pages/black-friday-early-access)
-
 ![Black Wolf Deals + Kits](//blackwolfnation.com/cdn/shop/collections/4.png?v=1722891268&width=1350)
 
 ### Black Wolf Deals + Kits
@@ -228,8 +221,6 @@ Haircare Bundle
 10
 
 $32.00](https://blackwolfnation.com/products/haircare-bundle)
-
-FSA/HSA ELIGIBLE
 
 [![](//blackwolfnation.com/cdn/shop/files/ScreenShot2024-10-15at11.34.01AM.png?v=1729017249&width=946)
 
