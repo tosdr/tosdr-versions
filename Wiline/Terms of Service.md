@@ -1,8 +1,4 @@
-V1.4.2
-
-1
-
-Page 1 © WiLine Networks, Inc.
+V1.4.3 Page 1 © WiLine Networks, Inc.
 
 
 
@@ -80,43 +76,49 @@ notification of the Activation Date will be deemed delivered on the day such not
 
 commence on the earlier of the Activation Date, the date Customer first uses the Service, or 10-days after Customer is in
 
-receipt of internet connectivity equipment. If Customer or its affiliate is the property owner of the Service Address listed
+receipt of internet connectivity equipment. Customer acknowledges and agrees that if Customer causes an installation
 
-above or controls use of and access to the property, including any common spaces, rooftop, conduits, telecom closets or
+delay of any of its services past sixty (60) days from signed agreement, Customer will pay all applicable monthly recurring
 
-other space necessary to deliver services to any tenant located at the Service Address, Customer grants a rent-free right
+charges for all Customer’s services as if all services were installed and commenced on such Scheduled Service Date. If
 
-of access to the property, including any common spaces, rooftop, conduits, telecom closets, or any other space necessary
+Customer or its affiliate is the property owner of the Service Address listed above or controls use of and access to the
 
-to deliver services to any tenant located at the Service Address. If WiLine is solely responsible for any delays in Service
+property, including any common spaces, rooftop, conduits, telecom closets or other space necessary to deliver services to
 
-availability beyond that 30-business day period, WiLine will credit any Install Fee or Setup Fee previously paid for that
+any tenant located at the Service Address, Customer grants a rent-free right of access to the property, including any
 
-Service. To receive installation credit, Customer must request the credit in writing or email to billing@wiline.com within 30
+common spaces, rooftop, conduits, telecom closets, or any other space necessary to deliver services to any tenant located
 
-days of the date of the first invoice. No credit will be issued, however, if delays were a result of: (a) WiLine’s inability to
+at the Service Address. If WiLine is solely responsible for any delays in Service availability beyond that 30-business day
 
-secure access to the property/properties, including but not limited to rooftop(s), Main Point of Entry (MPOE), Customer
+period, WiLine will credit any Install Fee or Setup Fee previously paid for that Service. To receive installation credit,
 
-suite or point of demarcation; or (b) Customer’s faulty or incomplete facilities or equipment; or (c) Customer’s request for
+Customer must request the credit in writing or email to billing@wiline.com within 30 days of the date of the first invoice.
 
-delay, failure to promptly respond to WiLine’s request or timely supply any requested or necessary information; or (d)
+No credit will be issued, however, if delays were a result of: (a) WiLine’s inability to secure access to the
 
-Customer’s negligence or omissions; or (e) Customer’s failure to meet Agreement approval terms; or (f) any special
+property/properties, including but not limited to rooftop(s), Main Point of Entry (MPOE), Customer suite or point of
 
-installation circumstances WiLine identified to Customer at the time of sale; or (g) events or circumstances beyond our
+demarcation; or (b) Customer’s faulty or incomplete facilities or equipment; or (c) Customer’s request for delay, failure to
 
-control, such as “Events of Force Majeure”; or (h) inability to acquire or maintain commercially reasonable transport and
+promptly respond to WiLine’s request or timely supply any requested or necessary information; or (d) Customer’s
 
-other facilities; or (i) any delay pursuant to federal or state action; or (j) any delay in the transfer or porting of a phone
+negligence or omissions; or (e) Customer’s failure to meet Agreement approval terms; or (f) any special installation
 
-number. Further, no installation credit will be payable if Services require special set-up or installation at Customer’s
+circumstances WiLine identified to Customer at the time of sale; or (g) events or circumstances beyond our control, such
 
-Service Address, whether or not identified at the time of sale. Should special set-up or installation be required, WiLine
+as “Events of Force Majeure”; or (h) inability to acquire or maintain commercially reasonable transport and other facilities;
 
-may terminate this Agreement or cancel any Services without any obligation or liability to Customer. Installation
+or (i) any delay pursuant to federal or state action; or (j) any delay in the transfer or porting of a phone number. Further,
 
-commitments and credits do not apply to any locations outside Service Address.
+no installation credit will be payable if Services require special set-up or installation at Customer’s Service Address,
+
+whether or not identified at the time of sale. Should special set-up or installation be required, WiLine may terminate this
+
+Agreement or cancel any Services without any obligation or liability to Customer. Installation commitments and credits do
+
+not apply to any locations outside Service Address.
 
 
 
@@ -144,15 +146,11 @@ described herein applies to the availability of ‘dial-tone’ and associated v
 
 WiLine network and the Customer’s MPOE in said Service Address. Service Level Guarantees are available only for WiNet
 
+V1.4.3 Page 2 © WiLine Networks, Inc.
+
+
+
 Data and Premium Internet Service symmetric data services, and Ethernet private line connection and voice services
-
-V1.4.2
-
-1
-
-Page 2 © WiLine Networks, Inc.
-
-
 
 provided to commercial Customers. Service Level Guarantees do not apply to the following: Asymmetric data
 
@@ -288,11 +286,7 @@ Service Credit request does not absolve Customer of Customer’s obligation to k
 
 payments.
 
-V1.4.2
-
-1
-
-Page 3 © WiLine Networks, Inc.
+V1.4.3 Page 3 © WiLine Networks, Inc.
 
 
 
@@ -428,11 +422,7 @@ programming routines that may damage, detrimentally interfere with, surreptitiou
 
 data, or personal information; or (e) create liability for us or cause us to lose (in whole or in part) the services of our ISPs
 
-V1.4.2
-
-1
-
-Page 4 © WiLine Networks, Inc.
+V1.4.3 Page 4 © WiLine Networks, Inc.
 
 
 
@@ -566,25 +556,63 @@ Agreement as WiLine deems appropriate, without notice.
 
 Customer also expressly agrees not to use the Service for auto-dialing, continuous or extensive call forwarding,
 
-V1.4.2
-
-1
-
-Page 5 © WiLine Networks, Inc.
+V1.4.3 Page 5 © WiLine Networks, Inc.
 
 
 
 telemarketing, fax broadcasting or fax blasting, or for any other use that results in excessive usage inconsistent with normal
 
-calling patterns. WiLine reserves the right to immediately disconnect, modify, or limit Customer’s Service if WiLinedetermines, in its sole and absolute discretion, that Customer’s use of the Service is, or at any time was, inconsistent withnormal usage patterns, including but not limited to over 60 calls per minute per line. Customer will defend, indemnify, andhold WiLine, its affiliates, and their agents and suppliers harmless against any and all claims, losses, or liability arisingunder this Section. The foregoing sentence will survive termination or expiration of the Agreement for any reason.If Customer violates any provision of this AUP, WiLine reserves the right to immediately suspend the Service. In most cases,WiLine will attempt to notify Customer of any AUP violations and may request that Customer immediately cease suchprohibited activity. However, in cases where the integrity of the WiLine network is threatened, where Customer violates theAUP of a WiLine’s third party service provider, or in cases involving request from law enforcement or governmental agencies
+calling patterns. WiLine reserves the right to immediately disconnect, modify, or limit Customer’s Service if WiLine
+
+determines, in its sole and absolute discretion, that Customer’s use of the Service is, or at any time was, inconsistent with
+
+normal usage patterns, including but not limited to over 60 calls per minute per line. Customer will defend, indemnify, and
+
+hold WiLine, its affiliates, and their agents and suppliers harmless against any and all claims, losses, or liability arising
+
+under this Section. The foregoing sentence will survive termination or expiration of the Agreement for any reason.
+
+If Customer violates any provision of this AUP, WiLine reserves the right to immediately suspend the Service. In most cases,
+
+WiLine will attempt to notify Customer of any AUP violations and may request that Customer immediately cease such
+
+prohibited activity. However, in cases where the integrity of the WiLine network is threatened, where Customer violates the
+
+AUP of a WiLine’s third party service provider, or in cases involving request from law enforcement or governmental agencies
 
 or court orders, WiLine reserves the right to suspend or terminate Customer’s Service without notification. In addition,
 
-WiLine may take any other appropriate action, legal or otherwise, against Customer for violations of the AUP, includingtermination of the WiLine Service Agreement and/or any service order form(s) signed by Customer.
+WiLine may take any other appropriate action, legal or otherwise, against Customer for violations of the AUP, including
+
+termination of the WiLine Service Agreement and/or any service order form(s) signed by Customer.
 
 
 
-For Residential Customers, WiLine’s Service’s for residential Customers are for the reasonable personal residential use ofCustomer only. This means that Customer is not to resell or transfer the Service or Equipment to any other person for anypurpose, without express written permission from WiLine in advance. Customers shall not use the Services for commercialor governmental purposes, or for profit or non-profit activities, including, but not limited to, home office, business, sales,telecommuting, autodialing, continuous or extensive call forwarding, continuous connectivity, fax broadcast, fax blasting,telemarketing, junk faxing, fax spamming, calling/faxing any person (through the use of distribution lists or otherwise) whohas not given specific permission to be included in such a process or any other activity that would be inconsistent withpersonal and residential usage. Customer shall not transmit through the Service any unlawful, harassing, libelous, abusive,threatening, harmful, vulgar, obscene, or otherwise objectionable material of any kind or nature. Customers further agreenot to transmit any material that encourages conduct that could constitute a criminal offense, give rise to civil liability, orotherwise violate any applicable local, state, national or international law or regulation. Customer agrees to notify WiLineimmediately if usage changes from personal residential to business use and to subscribe to a business plan. WiLine reservesthe right to immediately terminate or modify the Services of any Customer if WiLine determines, in its sole discretion, that
+For Residential Customers, WiLine’s Service’s for residential Customers are for the reasonable personal residential use of
+
+Customer only. This means that Customer is not to resell or transfer the Service or Equipment to any other person for any
+
+purpose, without express written permission from WiLine in advance. Customers shall not use the Services for commercial
+
+or governmental purposes, or for profit or non-profit activities, including, but not limited to, home office, business, sales,
+
+telecommuting, autodialing, continuous or extensive call forwarding, continuous connectivity, fax broadcast, fax blasting,
+
+telemarketing, junk faxing, fax spamming, calling/faxing any person (through the use of distribution lists or otherwise) who
+
+has not given specific permission to be included in such a process or any other activity that would be inconsistent with
+
+personal and residential usage. Customer shall not transmit through the Service any unlawful, harassing, libelous, abusive,
+
+threatening, harmful, vulgar, obscene, or otherwise objectionable material of any kind or nature. Customers further agree
+
+not to transmit any material that encourages conduct that could constitute a criminal offense, give rise to civil liability, or
+
+otherwise violate any applicable local, state, national or international law or regulation. Customer agrees to notify WiLine
+
+immediately if usage changes from personal residential to business use and to subscribe to a business plan. WiLine reserves
+
+the right to immediately terminate or modify the Services of any Customer if WiLine determines, in its sole discretion, that
 
 Customer is not using Services for Customer’s reasonable personal residential use.
 
@@ -600,7 +628,9 @@ qualifies and Customer complies with this Agreement. Customer is not allowed to 
 
 Agreement, in whole or in part, without the express written consent of WiLine. Approval of any assignment is at the
 
-sole discretion of WiLine. WiLine may modify or discontinue, temporarily or permanently, the Services upon 60 daysprior written notice to Customer. Customer agrees that WiLine shall not be liable to Customer or any third party for any
+sole discretion of WiLine. WiLine may modify or discontinue, temporarily or permanently, the Services upon 60 days
+
+prior written notice to Customer. Customer agrees that WiLine shall not be liable to Customer or any third party for any
 
 modification or discontinuance of the Services. WiLine will provide the hardware and software listed on the Service
 
@@ -616,7 +646,13 @@ WiLine Equipment without WiLine's written consent. Unless the parties otherwise 
 
 Equipment available for return within 5 days from the expiration or earlier termination of the Agreement at Customer's
 
-expense.WiLine will assign to Customer, on a temporary basis, an Internet Protocol Address ("IP Address") either from the addressspace assigned to WiLine or a non-public NAT address. This IP Address belongs to WiLine and is not portable. WiLinereserves the right to change the IP Address at any time, for any reason without notice or liability. In the event that such
+expense.
+
+WiLine will assign to Customer, on a temporary basis, an Internet Protocol Address ("IP Address") either from the address
+
+space assigned to WiLine or a non-public NAT address. This IP Address belongs to WiLine and is not portable. WiLine
+
+reserves the right to change the IP Address at any time, for any reason without notice or liability. In the event that such
 
 change is required WiLine shall coordinate with the Customer so as to minimize impact to Customer’s use of Service.
 
@@ -624,7 +660,19 @@ Customer may be required, at Customer's expense, to provide and maintain Other P
 
 To provide the Services, WiLine may ship Equipment to Customer. All Equipment shipments are F.O.B. WiLine’s facility.
 
-WiLine's liability for delivery shall cease, and title (if applicable) and all risk of loss or damage shall pass to Customer upondelivery to carrier.Customer will be provided the manufacturer's warranty from the date of purchase of Equipment or Service. Customer shallbe required to obtain authorization from WiLine to return any Equipment. WiLine will provide replacement Equipment only ifthe Equipment is deemed to be defective and covered under the warranty. WiLine will not cover replacement for lost, stolenor modified equipment. Equipment returned by Customer that is not covered under warranty may be refused by WiLine, andCustomer will be responsible to pay return shipping charges.
+WiLine's liability for delivery shall cease, and title (if applicable) and all risk of loss or damage shall pass to Customer upon
+
+delivery to carrier.
+
+Customer will be provided the manufacturer's warranty from the date of purchase of Equipment or Service. Customer shall
+
+be required to obtain authorization from WiLine to return any Equipment. WiLine will provide replacement Equipment only if
+
+the Equipment is deemed to be defective and covered under the warranty. WiLine will not cover replacement for lost, stolen
+
+or modified equipment. Equipment returned by Customer that is not covered under warranty may be refused by WiLine, and
+
+Customer will be responsible to pay return shipping charges.
 
 
 
@@ -634,13 +682,23 @@ frequency. Service Fees, Install and Set-up Fees, and other charges begin for ea
 
 available to Customer, regardless of whether multiple Services may have been ordered on a single Service Agreement.
 
-Where non-standard installation or Professional Services charges are incurred, WiLine, at its sole discretion, may invoice forthese charges prior to installation and activation of Service. For Voice services, activation may occur after dial tone. Pricesquoted on the Service Agreement may be subject to price adjustments. The Customer will receive at least (30) days priorwritten notice of any such adjustments. Such notice will generally be provided in Customer’s monthly statement. Eachmonth, WiLine will send or make available online an electronic statement. Customer agrees to pay the total amount of eachinvoice by the invoice due date shown on that invoice. Customer agrees to electronically pay invoices by authorizing WiLineto debit Customer’s bank account using Automated Clearing House (“ACH”). Invoiced charges are due and payable withintwenty (20) days of the date of invoice. If Customer fails to pay any charges when due, WiLine may
+Where non-standard installation or Professional Services charges are incurred, WiLine, at its sole discretion, may invoice
 
-V1.4.2
+for these charges prior to installation and activation of Service. For Voice services, activation may occur after dial tone.
 
-1
+Prices quoted on the Service Agreement may be subject to price adjustments. The Customer will receive at least
 
-Page 6 © WiLine Networks, Inc.
+(30) days prior written notice of any such adjustments. Such notice will generally be provided in Customer’s monthly
+
+statement. Each month, WiLine will send or make available online an electronic statement. Customer agrees to pay the total
+
+amount of each invoice by the invoice due date shown on that invoice. Customer agrees to electronically pay invoices by
+
+authorizing WiLine to debit Customer’s bank account using Automated Clearing House (“ACH”). Invoiced charges are due
+
+and payable within twenty (20) days of the date of invoice. If Customer fails to pay any charges when due, WiLine may
+
+V1.4.3 Page 6 © WiLine Networks, Inc.
 
 
 
@@ -784,11 +842,7 @@ in which this Agreement terminates before the end of the Initial Term or Renewal
 
 early termination charge (“Early Termination Charge”). Early Termination Charges will be calculated as follows:
 
-V1.4.2
-
-1
-
-Page 7 © WiLine Networks, Inc.
+V1.4.3 Page 7 © WiLine Networks, Inc.
 
 
 
@@ -934,11 +988,7 @@ MAINTAIN YOUR BROADBAND CONNECTION; OR (C) THERE IS AN OUTAGE, DEGRADATION OR OT
 
 YOUR BROADBAND CONNECTION. YOUR SIGNATURE TO THIS AGREEMENT WILL BE YOUR ACKNOWLEDGEMENT THAT
 
-V1.4.2
-
-1
-
-Page 8 © WiLine Networks, Inc.
+V1.4.3 Page 8 © WiLine Networks, Inc.
 
 
 
@@ -1040,7 +1090,9 @@ WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO MERCHANTABILITY, FITNESS FOR A
 
 TITLE OR INFRINGEMENT. NO ADVICE OR INFORMATION GIVEN WILL CREATE A WARRANTY. WILINE AND ITS LICENSORS
 
-AND SUPPLIERS DO NOT WARRANT THAT SERVICES WILL MEET CUSTOMER'S REQUIREMENTS OR THAT THE SERVICESWILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE; NOR DOES WILINE OR ITS LICENSORS OR SUPPLIERS MAKE
+AND SUPPLIERS DO NOT WARRANT THAT SERVICES WILL MEET CUSTOMER'S REQUIREMENTS OR THAT THE SERVICES
+
+WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE; NOR DOES WILINE OR ITS LICENSORS OR SUPPLIERS MAKE
 
 ANY WARRANTY AS TO THE RESULTS WHICH MAY BE OBTAINED FROM THE USE OF THE SERVICES OR WILINE EQUIPMENT
 
@@ -1050,29 +1102,89 @@ SOFTWARE WILL BE CORRECTED, OR THAT ANY SOFTWARE OR SERVICES ARE FREE FROM VIRUS
 
 SOLELY RESPONSIBLE FOR ANY DAMAGE TO CUSTOMER'S COMPUTER, OTHER PRODUCTS OR ANY LOSS OF DATA
 
+V1.4.3 Page 9 © WiLine Networks, Inc.
+
+
+
 RESULTING FROM USE OF THE SERVICE OR WILINE EQUIPMENT.
 
 
 
 Some jurisdictions do not allow the exclusion of certain warranties, therefore some of the above exclusions do not apply.
 
-V1.4.2
-
-1
-
-Page 9 © WiLine Networks, Inc.
 
 
+CUSTOMER AGREES THAT WILINE AND ITS LICENSORS AND SUPPLIERS SHALL NOT BE LIABLE FOR ANY INDIRECT,
 
-CUSTOMER AGREES THAT WILINE AND ITS LICENSORS AND SUPPLIERS SHALL NOT BE LIABLE FOR ANY INDIRECT,INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM THE USE OR THE INABILITY TO USE THESERVICES, OR FOR COST OR COVER, COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES, OR RESULTINGFROM ANY GOODS OR SERVICES PURCHASED OR OBTAINED, OR FROM MESSAGES RECEIVED OR TRANSACTIONSENTERED INTO THROUGH OR FROM THE SERVICES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OFPROFITS, USE, DATA, OR OTHER INTANGIBLES, EVEN IF WILINE , ITS LICENSORS OR THIRD PARTY SUPPLIERS HAVEBEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. CUSTOMER FURTHER AGREES THAT WILINE AND THEIR THIRD-PARTY SERVICE PROVIDERS SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM INTERRUPTION, SUSPENSION,OR TERMINATION OF SERVICES FOR ANY REASON, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL,SPECIAL CONSEQUENTIAL, OR EXEMPLARY DAMAGES, WHETHER SUCH INTERRUPTION, SUSPENSION, OR TERMINATIONWAS JUSTIFIED OR NOT, NEGLIGENT, OR INTENTIONAL, INADVERTENT OR ADVERTENT. IN NO EVENT SHALL WILINE BELIABLE FOR ANY AND ALL MATTERS RELATING TO THIS AGREEMENT FOR ANY AGGREGATE AMOUNT IN EXCESS OF THECHARGES FOR THE INITIAL TERM. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITYFOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, THEREFORE SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TOCUSTOMER.
+INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM THE USE OR THE INABILITY TO USE THE
+
+SERVICES, OR FOR COST OR COVER, COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES, OR RESULTING
+
+FROM ANY GOODS OR SERVICES PURCHASED OR OBTAINED, OR FROM MESSAGES RECEIVED OR TRANSACTIONS
+
+ENTERED INTO THROUGH OR FROM THE SERVICES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS,
+
+USE, DATA, OR OTHER INTANGIBLES, EVEN IF WILINE , ITS LICENSORS OR THIRD PARTY SUPPLIERS HAVE BEEN
+
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. CUSTOMER FURTHER AGREES THAT WILINE AND THEIR THIRD-PARTY
+
+SERVICE PROVIDERS SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM INTERRUPTION, SUSPENSION, OR
+
+TERMINATION OF SERVICES FOR ANY REASON, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL,
+
+SPECIAL CONSEQUENTIAL, OR EXEMPLARY DAMAGES, WHETHER SUCH INTERRUPTION, SUSPENSION, OR TERMINATION
+
+WAS JUSTIFIED OR NOT, NEGLIGENT, OR INTENTIONAL, INADVERTENT OR ADVERTENT. IN NO EVENT SHALL WILINE BE
+
+LIABLE FOR ANY AND ALL MATTERS RELATING TO THIS AGREEMENT FOR ANY AGGREGATE AMOUNT IN EXCESS OF THE
+
+CHARGES FOR THE INITIAL TERM. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY
+
+FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, THEREFORE SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO
+
+CUSTOMER.
 
 
 
-18. RESOLUTION OF DISPUTES. In the event a dispute arises between Customer and WiLine, WiLine's goal is to provideCustomer with a neutral and cost-effective means of resolving the dispute quickly. Accordingly, we agree that, except for aclaim in equity relating to the payment of fees or breach caused by Customer's Representations and Conduct, any claim orcontroversy at law arising out of this Agreement ("Claims") shall be resolved, in the first instance, by first contacting WiLinedirectly to seek a resolution. If resolution cannot be reached between Customer and WiLine directly, then Customer andWiLine agree that any further dispute must be resolved through arbitration or via small claims court.
+18. RESOLUTION OF DISPUTES. In the event a dispute arises between Customer and WiLine, WiLine's goal is to provide
+
+Customer with a neutral and cost-effective means of resolving the dispute quickly. Accordingly, we agree that, except for a
+
+claim in equity relating to the payment of fees or breach caused by Customer's Representations and Conduct, any claim or
+
+controversy at law arising out of this Agreement ("Claims") shall be resolved, in the first instance, by first contacting WiLine
+
+directly to seek a resolution. If resolution cannot be reached between Customer and WiLine directly, then Customer and
+
+WiLine agree that any further dispute must be resolved through arbitration or via small claims court.
 
 
 
-GENERAL. Customer and WiLine are independent contractors, and no agency, partnership, joint venture, employee- employer orfranchiser-franchisee relationship is intended or created by this Agreement. Sections 2, 3 (access), 5, 6 (return of WiLineEquipment), 7, 8, 9, 17, 18, 19 survive any termination or expiration of this Agreement. WiLine shall not be liable toCustomer for any breach by its licensors or suppliers of this Agreement. This Agreement shall be governed by the laws of theState of California without regard to its conflict of law provisions with venue lying in the federal and state courts of AlamedaCounty, California. The failure of WiLine to exercise or enforce any right or provision of this Agreement shall not constitute awaiver of such right or provision. If any provision of this Agreement is found by a court of competent jurisdiction to beinvalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected inthe provision and rule that the other provisions of this Agreement remain in full force and effect. Customer agrees thatregardless of any statute or law to the contrary, any claim or cause of action arising out of or related to this Agreement mustbe filed within 1 year after such claim or cause of action arose or be forever barred. All notices will be provided in writing toWiLine at the address stated on the Service Agreement or as updated on our Website. Notice is effective upon receipt. Exceptfor the payment of any amounts due hereunder, performance will be suspended for force majeure.
+GENERAL. Customer and WiLine are independent contractors, and no agency, partnership, joint venture, employee- employer or
+
+franchiser-franchisee relationship is intended or created by this Agreement. Sections 2, 3 (access), 5, 6 (return of WiLine
+
+Equipment), 7, 8, 9, 17, 18, 19 survive any termination or expiration of this Agreement. WiLine shall not be liable to
+
+Customer for any breach by its licensors or suppliers of this Agreement. This Agreement shall be governed by the laws of the
+
+State of California without regard to its conflict of law provisions with venue lying in the federal and state courts of Alameda
+
+County, California. The failure of WiLine to exercise or enforce any right or provision of this Agreement shall not constitute a
+
+waiver of such right or provision. If any provision of this Agreement is found by a court of competent jurisdiction to be
+
+invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in
+
+the provision and rule that the other provisions of this Agreement remain in full force and effect. Customer agrees that
+
+regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to this Agreement must
+
+be filed within 1 year after such claim or cause of action arose or be forever barred. All notices will be provided in writing to
+
+WiLine at the address stated on the Service Agreement or as updated on our Website. Notice is effective upon receipt. Except
+
+for the payment of any amounts due hereunder, performance will be suspended for force majeure.
 
 
 
