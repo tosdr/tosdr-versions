@@ -131,6 +131,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
+[![A clock resembling a white plate has black fork and knife hands, and a red second hand, set against a dark blue background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
+
+[Podcast #1,036: When to Eat — The Optimal Schedule for Metabolic Health](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
+
 [![A person is skillfully tending to the injured leg of another lying on the ground, marked by a red arrow, treating what appears to be a gunshot wound.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-a-gunshot-wound/)
 
 [Skill of the Week: Treat a Gunshot Wound](https://www.artofmanliness.com/health-fitness/health/how-to-treat-a-gunshot-wound/)
@@ -142,10 +146,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Skeleton in a relaxed pose sitting at a cluttered desk with fast food waste, symbolizing excessive screen time and neglect of health, as discussed in Podcast #941: Avoid Death by Comfort.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
 
 [Podcast #941: How to Avoid Death by Comfort](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
-
-[![A person in a white shirt demonstrates the Skill of the Week by tending to another's leg injury in a forest. The injured individual, clad in an orange jacket, lies on the ground as they receive care and treatment for shock amidst the tranquil woodland setting.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
-
-[Skill of the Week: Treat Someone for Shock](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
 
 [![A group of men in swim trunks standing in a line participate in History's Hardest P.E. Program.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/program-review/the-insanely-difficult-standards-of-historys-hardest-p-e-program/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
+
+[Podcast #1,036
+
+###### When to Eat — The Optimal Schedule for Metabolic Health](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/knowledge-of-men/podcast-plutarchs-lives/)
 
 [Podcast #1,035
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,033
 
 ###### Ouch! That Stings! Why Rejection Hurts So Much (And How to Deal With It)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
-
-[Podcast #941
-
-###### How to Avoid Death by Comfort](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
