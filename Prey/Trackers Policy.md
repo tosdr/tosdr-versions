@@ -118,13 +118,13 @@ Blog
 
 Latest updates & insights about security](https://preyproject.com/blog)
 
-[![The Healthcare Data Breach Epidemic of 2024](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/6728d066d2f5fa23e0cbfe8e_The-Healthcare-Data-Breach-Epidemic-of-2024.png)
+[![How HyperX protect confidential data in case of lost or stolen devices](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/672d283a0765952819e07401_hyperX%20case%20study.png)
 
 Editor's Pick
 
-The Healthcare Data Breach Epidemic of 2024
+How HyperX protect confidential data in case of lost or stolen devices
 
-Healthcare data breaches affect millions, but IT teams aren't helpless. From device management to dark web monitoring, learn how to protect patient data and maintain trust in an increasingly hostile digital landscape.](https://preyproject.com/blog/the-healthcare-data-breach-epidemic)
+HyperX LLC is an IT consulting firm based in downtown Chicago, serving a diverse range of small to medium-sized businesses. Learn how they use Prey to manage over a thousand devices for their clients and protect confidential data in case of lost or stolen devices.](https://preyproject.com/blog/how-hyperx-protect-confidential-data-in-case-of-lost-or-stolen-devices)
 
 Menu icon
 
