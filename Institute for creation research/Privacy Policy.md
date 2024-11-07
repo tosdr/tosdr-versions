@@ -95,89 +95,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More The Heavens Declare
+More Apologetics
 
-[![](/i/Main%20Stage%20-%201400x1050/Rare_Christmas_Star_1400x1050.jpg)](https://www.icr.org/article/rare-christmas-star-conjunction)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/seaturtlescry_1400x1050.jpg)](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty)
 
-[Rare 'Christmas Star' Conjunction](https://www.icr.org/article/rare-christmas-star-conjunction/)
+[Why Do Female Sea Turtles Cry Salty Tears?](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty/)
 
-On December 21 about an hour before sunset, the planets Jupiter and Saturn will appear very close together low in the western sky in a celestial event...
+Life on a cruise ship can be wonderfully relaxing, but perpetually living at sea has dangerous challenges—just ask a female sea turtle.1...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-[![](/i/Main%20Stage%20-%201400x1050/Hot_Neptune_1400x1050.jpg)](https://www.icr.org/article/hot-neptune-atmosphere-shouldnt-exist)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/should_creationists_brook.jpg)](https://www.icr.org/article/should-creationists-brook-loss-of-a-trout)
 
-[Hot Neptune Atmosphere "Shouldn't Exist"](https://www.icr.org/article/hot-neptune-atmosphere-shouldnt-exist/)
+[Should Creationists Brook Loss of a Trout?](https://www.icr.org/article/should-creationists-brook-loss-of-a-trout/)
 
-An exoplanet 260 light-years away is being described as the first of its kind ever detected.1,2 This exoplanet, catalogued as LTT 9779b, is...
+Should a freshwater stream be restored to make it habitable for a failing fish population such as brook trout?1 It makes sense that creationists...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-[![](/i/Main%20Stage%20-%201400x1050/Ancient_Rivers_1400x1050.jpg)](https://www.icr.org/article/ancient-rivers-on-mars)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/Puffins_Fitted_Living.jpg)](https://www.icr.org/article/puffins/)
 
-[Ancient Rivers on Mars](https://www.icr.org/article/ancient-rivers-on-mars/)
+[Puffins, Fitted for Living in Sea, Air, and Land](https://www.icr.org/article/puffins//)
 
-Geologists have used high-resolution images obtained by the Mars Reconnaissance Orbiter to infer the existence of past rivers on the Martian surface. Geologist...
+In order for tufted, horned, and Atlantic puffins to “be fruitful, multiply, and fill” specific habitats on Earth,1 they need...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-More Creation Q&A
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_do_I_believe.jpg)](https://www.icr.org/article/why-do-i-believe-in-recent-creation)
-
-[Why Do I Believe in Recent Creation?](https://www.icr.org/article/why-do-i-believe-in-recent-creation/)
-
-A student recently asked what I believe about the age of the earth. I replied that at one time I felt absolutely certain that the world was billions...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_biblical_creation_glorify_God.jpg)](https://www.icr.org/article/does-biblical-creation-help-us-glorify-god)
-
-[Does Biblical Creation Help Us Glorify God?](https://www.icr.org/article/does-biblical-creation-help-us-glorify-god/)
-
-How well do you glorify God? Robbing God of glory is serious, as illustrated in this brief account in the book of Acts: “So, on a set day Herod,...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_arch_show_bird_ev.jpg)](https://www.icr.org/article/does-archaeopteryx-show-bird-evolution)
-
-[Does Archaeopteryx Show Bird Evolution?](https://www.icr.org/article/does-archaeopteryx-show-bird-evolution/)
-
-Archaeopteryx is a big word that simply means “ancient wing.” It refers to a set of fossils of a strange-looking extinct bird. Books promoting...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
-
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
-
-$9.99
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
-
-The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
-
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
-
-Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
-
-$29.99
-
-[](https://store.icr.org/.html)
-
-$
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
