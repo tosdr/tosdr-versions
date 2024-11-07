@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Names in the News: National Federation of Independent Business](/assets/Images/teasers/full/NFIB.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-national-federation-of-independent-business/)
+[![2009-10 Ballot Ms](/assets/logos/2004-2010BallotMeasuresTotal.png)](http://www.followthemoney.org/research/institute-research/an-overview-of-campaign-finances-2009-2010-elections)
+
+Ballot measures attract massive amounts of money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
