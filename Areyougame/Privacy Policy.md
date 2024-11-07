@@ -153,7 +153,6 @@ Search
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
-* [PRE-ORDERS](https://areyougame.com/collections/christmas-3d-crystal-puzzles-pre-order)
 
 * [](https://www.facebook.com/AreYouGameCom)
 * [](https://www.youtube.com/channel/UCVXt37urmmPzWfGODMUp7Pw)
@@ -322,7 +321,6 @@ Search
     
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
-* [PRE-ORDERS](https://areyougame.com/collections/christmas-3d-crystal-puzzles-pre-order)
 * [More links](#)
     
 
