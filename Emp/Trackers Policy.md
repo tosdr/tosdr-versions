@@ -142,11 +142,11 @@ Ok](https://www.emp-online.com/?forceThisShop=1)
 
 Search catalogue  Clear Search
 
-[](https://www.emp-online.com/autumn-must-haves/ "Stay warm, look cool!")
+[](https://www.emp-online.com/winter-is-coming/ "Stay warm, look cool!")
 
 Winter Is Coming!
 
-[Stay warm, look cool!](https://www.emp-online.com/autumn-must-haves/ "Stay warm, look cool!")
+[Stay warm, look cool!](https://www.emp-online.com/winter-is-coming/ "Stay warm, look cool!")
 
 Your browser's Javascript functionality is turned off.
 
@@ -325,7 +325,7 @@ Subscribe
 
 Our customer services are here for you
 
-Today our customer service is available till 5:30 PM. [More Info](https://www.emp-online.com/contact)
+You can reach us by phone tomorrow from 9:00 AM until 5:30 PM on {2}. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
