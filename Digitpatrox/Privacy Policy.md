@@ -20,16 +20,16 @@ Thursday, November 7 2024
 
 Latest
 
-* [The FTC orders Sitejabber to stop faking product reviews](https://digitpatrox.com/the-ftc-orders-sitejabber-to-stop-faking-product-reviews/)
-* [Genshin Impact 5.2 Livestream Date and Time (Countdown Timer)](https://digitpatrox.com/genshin-impact-5-2-livestream-date-and-time-countdown-timer/)
-* [Will the Trump victory get Europe off Apple’s back? – Computerworld](https://digitpatrox.com/will-the-trump-victory-get-europe-off-apples-back-computerworld/)
-* [Don’t Delete Your X Account (Do This Instead)](https://digitpatrox.com/dont-delete-your-x-account-do-this-instead/)
-* [Top 10 Black Friday Shopping Tips for 2024](https://digitpatrox.com/top-10-black-friday-shopping-tips-for-2024/)
-* [Why I Still Buy Hard Drives for My Windows PC](https://digitpatrox.com/why-i-still-buy-hard-drives-for-my-windows-pc/)
-* [Samsung Galaxy Tab S10+ review](https://digitpatrox.com/samsung-galaxy-tab-s10-review/)
-* [Increasing Awareness of DNS Hijacking: A Growing Cyber Threat](https://digitpatrox.com/increasing-awareness-of-dns-hijacking-a-growing-cyber-threat/)
-* [How to watch Man Utd vs PAOK live stream anywhere](https://digitpatrox.com/how-to-watch-man-utd-vs-paok-live-stream-anywhere/)
-* [Microsoft Notepad to get AI-powered rewriting tool on Windows 11](https://digitpatrox.com/microsoft-notepad-to-get-ai-powered-rewriting-tool-on-windows-11/)
+* [New SteelFox malware hijacks Windows PCs using vulnerable driver](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
+* [NYT tech workers are making their own games while on strike](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
+* [Honkai Star Rail 2.7 to Tease the Next Playable Emanator, As Per Leaks](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
+* [Vendor Spotlight: Zabbix](https://digitpatrox.com/vendor-spotlight-zabbix/)
+* [The best ways to get promoted in tech in 2024](https://digitpatrox.com/the-best-ways-to-get-promoted-in-tech-in-2024/)
+* [IT certifications for cloud architects, data security engineers, and ethical hackers yield the biggest pay boosts – Computerworld](https://digitpatrox.com/it-certifications-for-cloud-architects-data-security-engineers-and-ethical-hackers-yield-the-biggest-pay-boosts-computerworld/)
+* [How to Pick the Best Pair of Running Shoes for You](https://digitpatrox.com/how-to-pick-the-best-pair-of-running-shoes-for-you/)
+* [Best Outdoor Security Cameras of 2024](https://digitpatrox.com/best-outdoor-security-cameras-of-2024/)
+* [Today’s NYT Connections Hints and Answer for November 6 (#514)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-6-514/)
+* [Westcon-Comstor bags major distribution deal with CrowdStrike](https://digitpatrox.com/westcon-comstor-bags-major-distribution-deal-with-crowdstrike/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/4PO01s2FBE2YAOjuEmCHslk_OVE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25262997/STK461_INTERNET_CHILD_SAFETY_E_Stock_CVirginia.jpg)](https://digitpatrox.com/the-ftc-orders-sitejabber-to-stop-faking-product-reviews/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/06/steelfox.jpg)](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
     
-    [The FTC orders Sitejabber to stop faking product reviews](https://digitpatrox.com/the-ftc-orders-sitejabber-to-stop-faking-product-reviews/)
+    [New SteelFox malware hijacks Windows PCs using vulnerable driver](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
     
-    17 mins ago
+    42 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Genshin-Impact-5.2-Livestream-Date-and-Time.jpg?w=1250&quality=75)](https://digitpatrox.com/genshin-impact-5-2-livestream-date-and-time-countdown-timer/)
+* [![](https://cdn.vox-cdn.com/thumbor/RL5lKOr3l22gqrtrill92fHwQIQ=/0x0:7752x5171/1200x628/filters:focal(3876x2586:3877x2587)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718619/2182236802.jpg)](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
     
-    [Genshin Impact 5.2 Livestream Date and Time (Countdown Timer)](https://digitpatrox.com/genshin-impact-5-2-livestream-date-and-time-countdown-timer/)
+    [NYT tech workers are making their own games while on strike](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
     
-    35 mins ago
+    59 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3600065-0-31477200-1730911705-carles-rabada-NXP7wGyUDeY-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/will-the-trump-victory-get-europe-off-apples-back-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Next-Playable-Emanator-Leaked-Honkai-Star-Rail.jpg)](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
     
-    [Will the Trump victory get Europe off Apple’s back? – Computerworld](https://digitpatrox.com/will-the-trump-victory-get-europe-off-apples-back-computerworld/)
+    [Honkai Star Rail 2.7 to Tease the Next Playable Emanator, As Per Leaks](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
+    
+    1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Zabbix-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-zabbix/)
+    
+    [Vendor Spotlight: Zabbix](https://digitpatrox.com/vendor-spotlight-zabbix/)
     
     2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01HF2H4NCRFMTJN0J50CXZZWBS/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/dont-delete-your-x-account-do-this-instead/)
+* [![](https://cdn.mos.cms.futurecdn.net/uB63ML8EJsczMXv8bX5ZXg-1200-80.jpg)](https://digitpatrox.com/the-best-ways-to-get-promoted-in-tech-in-2024/)
     
-    [Don’t Delete Your X Account (Do This Instead)](https://digitpatrox.com/dont-delete-your-x-account-do-this-instead/)
-    
-    3 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730315165/prod/content/dam/CRO-Images-2024/Shopping/Holiday/CR-Shopping-InlineHero-Black-Friday-Shopping-Tips-1024)](https://digitpatrox.com/top-10-black-friday-shopping-tips-for-2024/)
-    
-    [Top 10 Black Friday Shopping Tips for 2024](https://digitpatrox.com/top-10-black-friday-shopping-tips-for-2024/)
+    [The best ways to get promoted in tech in 2024](https://digitpatrox.com/the-best-ways-to-get-promoted-in-tech-in-2024/)
     
     3 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [17 mins ago
+* [42 mins ago
     
-    ### The FTC orders Sitejabber to stop faking product reviews](https://digitpatrox.com/the-ftc-orders-sitejabber-to-stop-faking-product-reviews/)
-* [35 mins ago
+    ### New SteelFox malware hijacks Windows PCs using vulnerable driver](https://digitpatrox.com/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
+* [59 mins ago
     
-    ### Genshin Impact 5.2 Livestream Date and Time (Countdown Timer)](https://digitpatrox.com/genshin-impact-5-2-livestream-date-and-time-countdown-timer/)
-* [2 hours ago
+    ### NYT tech workers are making their own games while on strike](https://digitpatrox.com/nyt-tech-workers-are-making-their-own-games-while-on-strike/)
+* [1 hour ago
     
-    ### Will the Trump victory get Europe off Apple’s back? – Computerworld](https://digitpatrox.com/will-the-trump-victory-get-europe-off-apples-back-computerworld/)
+    ### Honkai Star Rail 2.7 to Tease the Next Playable Emanator, As Per Leaks](https://digitpatrox.com/honkai-star-rail-2-7-to-tease-the-next-playable-emanator-as-per-leaks/)
 
 Most Popular Topics
 
-* [September 30, 2024
+* [September 27, 2024
     
-    ### Vendor Spotlight: ExaVault](https://digitpatrox.com/vendor-spotlight-exavault/)
-* [3 weeks ago
+    ### A Step-By-Step Guide for 2024](https://digitpatrox.com/a-step-by-step-guide-for-2024/)
+* [September 29, 2024
     
-    ### RTX 5090 Prices Won’t Be Significantly Higher than 4090: Says Leaker](https://digitpatrox.com/rtx-5090-prices-wont-be-significantly-higher-than-4090-says-leaker/)
-* [September 7, 2024
+    ### LG Has Started Showing Screensaver Ads on Their Smart TVs](https://digitpatrox.com/lg-has-started-showing-screensaver-ads-on-their-smart-tvs/)
+* [October 5, 2024
     
-    ### GenAI vendors’ self-destructive habit of overpromising – Computerworld](https://digitpatrox.com/genai-vendors-self-destructive-habit-of-overpromising-computerworld/)
+    ### What is Cursor AI, the ChatGPT Replacement for Coding](https://digitpatrox.com/what-is-cursor-ai-the-chatgpt-replacement-for-coding/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Samsung Galaxy Tab S10+ review](https://digitpatrox.com/samsung-galaxy-tab-s10-review/)
+    ### How to Pick the Best Pair of Running Shoes for You](https://digitpatrox.com/how-to-pick-the-best-pair-of-running-shoes-for-you/)
 * [4 hours ago
     
-    ### Increasing Awareness of DNS Hijacking: A Growing Cyber Threat](https://digitpatrox.com/increasing-awareness-of-dns-hijacking-a-growing-cyber-threat/)
+    ### Best Outdoor Security Cameras of 2024](https://digitpatrox.com/best-outdoor-security-cameras-of-2024/)
 * [4 hours ago
     
-    ### How to watch Man Utd vs PAOK live stream anywhere](https://digitpatrox.com/how-to-watch-man-utd-vs-paok-live-stream-anywhere/)
+    ### Today’s NYT Connections Hints and Answer for November 6 (#514)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-6-514/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
