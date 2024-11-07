@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-189183766159)                                                    
+![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-189197065427)                                                    
 
 [Toggle Menu](#)
 
@@ -180,9 +180,9 @@ $100.01+ = Varies
 
 **Puzzles Subscriptions Shipping & Handling:**
 
-6 Month Puzzle Subscription = $49.59 shipping and handling (one-time fee)
+6 Month Puzzle Subscription = $59.95 shipping and handling (one-time fee)
 
-12 Month Puzzle Subscription = $95.95 shipping and handling (one-time fee)
+12 Month Puzzle Subscription = $105.95 shipping and handling (one-time fee)
 
 Refund & Return Policy
 
