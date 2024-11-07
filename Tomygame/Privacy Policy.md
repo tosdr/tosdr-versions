@@ -1,8 +1,8 @@
 [](https://tomygame.com/index.php?view=home&)
 
-[](https://tomygame.com/index.php?view=home&)
+[](https://tomygame.com/index.php?view=home&)[![](http://static1.freebitco.in/banners/468x60-3.png)](https://tomygame.com/bannerclick.php?id=336)  
 
-[](https://tomygame.com/index.php?view=home&)[Advertise Here 0.000 005 BTC /CPM](https://tomygame.com/index.php?view=account&ac=myads&adtype=banner&)
+[Advertise Here 0.000 005 BTC /CPM](https://tomygame.com/index.php?view=account&ac=myads&adtype=banner&)
 
 [Home](https://tomygame.com/index.php?view=home&ref=&)
 
