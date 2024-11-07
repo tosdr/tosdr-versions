@@ -2,7 +2,7 @@
 
 Ingresá lo que quieras encontrar
 
-[![¡Suscribite al nivel 6! Por solo 5.999 pesos](https://http2.mlstatic.com/D_NQ_780412-MLA80111423909_102024-OO.jpg)](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=banner-menu&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N6_BNR_MENU_3999&me.flow=146&me.logic=campaigns&me.position=0)
+[![Ofertas por tiempo limitado](https://http2.mlstatic.com/storage/homes-korriban/assets/images/exhibitors/default_banner_menu.png)](https://www.mercadolibre.com.ar/ofertas)
 
 [Enviar a Capital Federal](https://www.mercadolibre.com.ar/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad)
 
