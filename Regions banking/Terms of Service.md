@@ -188,6 +188,7 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         * [Technology, Media & Communications](https://www.regions.com/commercial-banking/technology)
         * [Financial Services](https://www.regions.com/commercial-banking/financial-services)
         * [Diversified Industries](https://www.regions.com/commercial-banking/diversified-industries)
+        * [New Markets Tax Credits](https://www.regions.com/commercial-banking/new-markets-tax-credits)
         
     * [Commercial Insights](https://www.regions.com/insights/commercial)
     
@@ -356,9 +357,9 @@ Related Insights
 
 [How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
 
-[Budgeting for Teens: Teaching Teens to Save](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/teaching-teens-how-to-save-money)
-
 [For Fintech, the Future is Now](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/for-fintech-the-future-is-now)
+
+[Budgeting for Teens: Teaching Teens to Save](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/teaching-teens-how-to-save-money)
 
 [Financial Fraud Prevention](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/how-lockit-can-help-lock-out-financial-fraud)
 
