@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Jannie Schutte - myFinance-Online.co.za
+Terri Winfield
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=132972023)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=99855841)  
+M's Frozen Delights
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=44140587)  
-Myfinance-Online
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=18836027)  
+ELLIE'S CLEANING CHICKS
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=145406608)  
-African Roots
-
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=17772979)  
-Highlands Auto Engineering
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=54074439)  
-APTV Telecoms CC
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=6635022)  
-J.M. HUMAN RESOURCES
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=160833638)  
-Blue Bulls Rugby Coaches Association
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=134989979)  
-Know Informatics
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=13583258)  
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=186868939)  
 Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=36366245)  
-Lion Software Develepment
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=195800554)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=44127889)  
-Qothiphango Mining
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=106777486)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=83643916)  
-CLEVER STUDENTS
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=110488862)  
+Oukraal Merino's
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=119468979)  
-Oak Tree Immigration
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=187691424)  
+Brilliant Roof Products
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=99803235)  
-AMS Ambu Medical Supplies
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=112063897)  
+Tracknetics
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=8a4e3bd5d0f3aa1108f0fc8df3a0b390c9c990015cb60bc0dfe9d0464b0b83f4&c=104221590)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=148059659)  
+Little Nutty Professors
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=76957843)  
+PROGRAPHIX PTY LTD
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=181645189)  
+Frameless Fanatix (Pty) Ltd.
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=174261174)  
+Printo
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=99538492)  
+Import Maaw
+
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=171108402)  
+SafeTclip
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=1fafdf40ca552dc78f91f37534a70d9a1598643749a6acd44f01f354446da7f6&c=12714403)  
+Brand's Fountains Deco and Events Coordinatoin
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
