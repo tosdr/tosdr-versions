@@ -1,11 +1,11 @@
-[![YTMP3](/logo.svg)](https://ytmp3.cc/en-nFEQ/)
+[![YTMP3](/logo.svg)](https://ytmp3.cc/en-6X3r/)
 
-[Home](https://ytmp3.cc/en-nFEQ/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)[MP3Juice](https://emp3juice.la/)
+[Home](https://ytmp3.cc/en-6X3r/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)[MP3Juice](https://emp3juice.la/)
 
 Terms of Use
 ============
 
-Please review these terms and conditions of use carefully before using our websites, including, without limitation, the following websites: [ytmp3.cc](https://ytmp3.cc/en-nFEQ/).
+Please review these terms and conditions of use carefully before using our websites, including, without limitation, the following websites: [ytmp3.cc](https://ytmp3.cc/en-6X3r/).
 
 This document states the terms and conditions („Terms”) upon which ytmp3.cc („we” or „us”) will provide service to you on its websites, including, without limitation, the above listed websites (collectively, the „Website”). These Terms constitute a contractual agreement between you and us. By visiting, accessing, using, and/or joining (collectively „using”) the Website, you express your understanding and acceptance of these Terms. As used in this document, the terms „you” or „your” refers to you, any entity you represent, your or its representatives, successors, assigns and affiliates, and any of your or their devices. If you do not agree to be bound by these Terms, navigate away from the Website and cease using it.
 
