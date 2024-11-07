@@ -150,6 +150,10 @@ Latest reactions
 
 Latest forum posts
 
+* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives "How do I get to the 2nd and other partitions "drives"?")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=74 "WonderTANG! Who wants to juice up your MSX?")
+* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
+* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [Can't get Nogalious MSX to work](https://www.msx.org/forum/msx-talk/software/cant-get-nogalious-msx-to-work "Can't get Nogalious MSX to work")
 * [Gballs new levels](https://www.msx.org/forum/msx-talk/development/gballs-new-levels "Gballs new levels")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
@@ -159,10 +163,6 @@ Latest forum posts
 * [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k "9958 FPGA drop-in clone is here: TN-VDP 20K.")
 * [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=2 "New V9990 Wolfenstein-3D-Like Interactive Demo")
 * [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [Contact](https://www.msx.org/forum/msx-talk/msx-resource-center/contact "Contact")
-* [Yamaha AX-350](https://www.msx.org/forum/msx-talk/hardware/yamaha-ax-350 "Yamaha AX-350 ")
-* [CBIOS with MSX Diagnostics](https://www.msx.org/forum/msx-talk/hardware/cbios-with-msx-diagnostics "CBIOS with MSX Diagnostics")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
