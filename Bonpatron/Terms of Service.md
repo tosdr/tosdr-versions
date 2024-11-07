@@ -25,7 +25,7 @@ confirm the password:
 
 type the following letters in the box below:
 
-lbov
+fysy
 
 Creating a new account is easy: fill in the adjacent form, read the _Terms & Conditions of Usage_, and click on the "create" button.  
   
