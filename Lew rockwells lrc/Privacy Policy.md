@@ -19,7 +19,7 @@
 * Search for:
     
 
-[LewRockwell.com](https://lewrockwell.com/ "LewRockwell") ANTI-STATE_•_ANTI-WAR_•_PRO-MARKET
+[LewRockwell.com](https://www.lewrockwell.com/ "LewRockwell") ANTI-STATE_•_ANTI-WAR_•_PRO-MARKET
 
      
 
@@ -64,33 +64,33 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
-* [Election Results](https://www.lewrockwell.com/political-theatre/election-results/)
-* [When Hillary Clinton Supported Deportation of Criminal Illegal Aliens](https://www.lewrockwell.com/political-theatre/when-hillary-clinton-supported-deportation-of-criminal-illegal-aliens/)
-* [Indoctrination Over Education: The Disturbing Reality in Today’s Classrooms](https://www.lewrockwell.com/political-theatre/indoctrination-over-education-the-disturbing-reality-in-todays-classrooms/)
-* [Tucker: Why Have Christians Been Targeted and Killed in Every War Since WWII?](https://www.lewrockwell.com/political-theatre/tucker-why-have-christians-been-targeted-and-killed-in-every-war-since-wwii/)
-* [Political Theatre](https://www.lewrockwell.com/political-theatre/political-theatre-2/)
-* [Larry David talks ‘Curb,’ Richard Lewis, start in NYC comedy scene](https://www.lewrockwell.com/political-theatre/larry-david-talks-curb-richard-lewis-start-in-nyc-comedy-scene/)
-* [COVID Roundup: Canadian Government Euthanizes Man With Vaxx Injury](https://www.lewrockwell.com/political-theatre/covid-roundup-canadian-government-euthanizes-man-with-vaxx-injury/)
-* [USCCB Fools Catholics Into Supporting Open Borders](https://www.lewrockwell.com/political-theatre/usccb-fools-catholics-into-supporting-open-borders/)
-* [Peanut the Squirrel](https://www.lewrockwell.com/political-theatre/peanut-the-squirrel/)
-* [Govt](https://www.lewrockwell.com/political-theatre/govt/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-895498)
+* [Marco Rubio calls for US to end Ukraine conflict](https://www.lewrockwell.com/political-theatre/marco-rubio-calls-for-us-to-end-ukraine-conflict/)
+* [Documentary: Four Leaders Assassinated Because They Were for Peace](https://www.lewrockwell.com/political-theatre/documentary-four-leaders-assassinated-because-they-were-for-peace/)
+* [OElites Would Rather Burn it Down Than Lose](https://www.lewrockwell.com/political-theatre/oelites-would-rather-burn-it-down-than-lose/)
+* [Ron Paul Warns Neocon Pompeo May Be Secretary of Defense](https://www.lewrockwell.com/political-theatre/ron-paul-warns-neocon-pompeo-may-be-secretary-of-defense/)
+* [AI more intelligent than the candidate](https://www.lewrockwell.com/political-theatre/ai-more-intelligent-than-the-candidate/)
+* [Trump’s Speech](https://www.lewrockwell.com/political-theatre/trumps-speech-2/)
+* [Anti-Christian Hollywood’s latest anti-Catholic travesty](https://www.lewrockwell.com/political-theatre/anti-christian-hollywoods-latest-anti-catholic-travesty/)
+* [Got milk?](https://www.lewrockwell.com/political-theatre/got-milk/)
+* [The election](https://www.lewrockwell.com/political-theatre/the-election/)
+* [Archbishop Viganò: Election major setback for “psychopathic criminals who hold the West hostage”](https://www.lewrockwell.com/political-theatre/archbishop-vigano-election-major-setback-for-psychopathic-criminals-who-hold-the-west-hostage/)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-895588)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [The Secession Movement in The Land of Lincoln](https://www.lewrockwell.com/lrc-blog/the-secession-movement-in-the-land-of-lincoln/)
+* [Trump: ‘No More Wars. I’m Going To Stop The Wars.’ Should We Believe Him?](https://www.lewrockwell.com/lrc-blog/trump-no-more-wars-im-going-to-stop-the-wars-should-we-believe-him/)
+* [Trump’s Next Defense Secretary?](https://www.lewrockwell.com/lrc-blog/trumps-next-defense-secretary/)
+* [Jimmy Kimmel Cries Like a Baby on His TV Show After the Election](https://www.lewrockwell.com/lrc-blog/jimmy-kimmel-cries-like-a-baby-on-his-tv-show-after-the-election/)
+* [Older Hollywood Women are Worried Sick . . .](https://www.lewrockwell.com/lrc-blog/older-hollywood-women-are-worried-sick/)
+* [Drowning In Their Tears: Elites Panic At 2024 Election Results](https://www.lewrockwell.com/lrc-blog/drowning-in-their-tears-elites-panic-at-2024-election-results/)
+* [Can Hypnosis Last for Twenty Years?](https://www.lewrockwell.com/lrc-blog/can-hypnosis-last-for-twenty-years/)
+* [The Economic B.S. Begins](https://www.lewrockwell.com/lrc-blog/the-economic-b-s-begins/)
+* [CNN Panel of Lying Media Scum Leftists . . .](https://www.lewrockwell.com/lrc-blog/cnn-panel-of-lying-media-scum-leftists/)
 * [Trump: Beware Mike Pompeo…And The Other Neocon Snakes In The Grass!](https://www.lewrockwell.com/lrc-blog/trump-beware-mike-pompeo-and-the-other-neocon-snakes-in-the-grass/)
-* [Germany’s Business Model is Broken](https://www.lewrockwell.com/lrc-blog/germanys-business-model-is-broken/)
-* [“Remember, Remember the 5th of November, Gunpowder, Treason and Plot; for there is a Reason why Gunpowder and Treason should Ne’er be Forgot.”](https://www.lewrockwell.com/lrc-blog/remember-remember-the-5th-of-november-gunpowder-treason-and-plot-for-there-is-a-reason-why-gunpowder-and-treason-should-neer-be-forgot/)
-* [Is a Green Grid Even Possible?](https://www.lewrockwell.com/lrc-blog/is-a-green-grid-even-possible/)
-* [Young Conservatives Agree . . .](https://www.lewrockwell.com/lrc-blog/young-conservatives-agree/)
-* [Betting Market Summary for Trump v. Harris 11.4.24](https://www.lewrockwell.com/lrc-blog/betting-market-summary-for-trump-v-harris-11-4-24/)
-* [The Commies hate rich guys who are on the Right](https://www.lewrockwell.com/lrc-blog/the-commies-hate-rich-guys-who-are-on-the-right/)
-* [The fix is in for Michigan](https://www.lewrockwell.com/lrc-blog/the-fix-is-in-for-michigan/)
-* [Kamala on dormitories as camps for “stupid” young people](https://www.lewrockwell.com/lrc-blog/kamala-on-dormitories-as-camps-for-stupid-young-people/)
-* [Robert Barnes and Rich Baris Episode 85: What Are the Odds? The State of the Race with only ONE DAY until Election Day! Plus, Early Vote, New Polling, Betting Markets and Final Predictions!](https://www.lewrockwell.com/lrc-blog/robert-barnes-and-rich-baris-episode-85-what-are-the-odds-the-state-of-the-race-with-only-one-day-until-election-day-plus-early-vote-new-polling-betting-markets-and-final-predictions/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-895485)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-895517)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
