@@ -2,7 +2,7 @@
 
 [![hear.com logo](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/logos/hearcom.svg)](https://www.hear.com/)
 
-[![hear.com phone number](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/icon-phone-round.svg)](tel:17865202456)
+[![hear.com phone number](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/icon-phone-round.svg)](tel:17865260602)
 
 * [Hearing Aids](https://www.hear.com/hearing-aids/)
     
@@ -12,7 +12,7 @@
     
 * [About Us](https://www.hear.com/about-us/)
     
-* [(786) 520-2456](tel:17865202456)
+* [(786) 526-0602](tel:17865260602)
 
 Hearing Aids
 
@@ -105,7 +105,7 @@ Through its website and via additional means, hear.com, LLC (“hear.com”) pro
 
 **IF YOU SIGN UP TO RECEIVE MOBILE COMMUNICATIONS FROM HEAR.COM, THESE TERMS AND CONDITIONS WILL BECOME PART OF A LEGALLY BINDING AGREEMENT BETWEEN YOU AND HEAR.COM. PLEASE READ THIS DOCUMENT IN ITS ENTIRETY BEFORE SIGNING UP TO RECEIVE MOBILE COMMUNICATIONS. IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT, TO HAVE A JURY HEAR YOUR CLAIMS, OR TO PROCEED ON BEHALF OF OR AS PART OF A CLASS.**
 
-Consent is not a condition of receiving hear.com products or any hear.com service aside from receiving mobile communications; however, hear.com agrees to provide you with mobile communications **ONLY** if you agree to the terms contained herein. If you do not wish to agree to these terms, but wish to contact hear.com about its products and services, please contact a hear.com consultant by calling [(786) 520-2456](tel:7865202456). Your agreement to receive mobile communications from hear.com does not affect the terms of any other contract or agreement you have related to other hear.com products or services.
+Consent is not a condition of receiving hear.com products or any hear.com service aside from receiving mobile communications; however, hear.com agrees to provide you with mobile communications **ONLY** if you agree to the terms contained herein. If you do not wish to agree to these terms, but wish to contact hear.com about its products and services, please contact a hear.com consultant by calling [(786) 526-0602](tel:7865260602). Your agreement to receive mobile communications from hear.com does not affect the terms of any other contract or agreement you have related to other hear.com products or services.
 
 **B. Non-secure transmission of protected health information**
 
@@ -243,19 +243,19 @@ We understand that sometimes customers no longer want to receive marketing and a
 
 **For Marketing Calls**
 
-If you no longer wish to receive phone calls from hear.com, please call [(786)520-2456](tel:7865202456) or email info@hear.com. Once we receive your request, we will add you to the company’s internal Do Not Call list. Allow 24-48 hours for removal.
+If you no longer wish to receive phone calls from hear.com, please call [(786) 526-0602](tel:7865260602) or email info@hear.com. Once we receive your request, we will add you to the company’s internal Do Not Call list. Allow 24-48 hours for removal.
 
 **For Text Messages**
 
-If you no longer wish to receive text messages from hear.com, please call [(786)520-2456](tel:7865202456) or simply reply “STOP” to 95645. You will be opted out of receiving future messages after hear.com sends you a confirmation message confirming that the opt-out request has been processed. If you are experiencing issues with the messaging program, you can get help directly at [(786)520-2456](tel:7865202456). Allow 24-48 hours for removal.
+If you no longer wish to receive text messages from hear.com, please call [(786) 526-0602](tel:7865260602) or simply reply “STOP” to 95645. You will be opted out of receiving future messages after hear.com sends you a confirmation message confirming that the opt-out request has been processed. If you are experiencing issues with the messaging program, you can get help directly at [(786) 526-0602](tel:7865260602). Allow 24-48 hours for removal.
 
 **For Emails**
 
-If you no longer wish to receive emails from hear.com, please call [(786)520-2456](tel:7865202456) or click on the “unsubscribe” link included in the email you received. Allow 24-48 hours for removal.
+If you no longer wish to receive emails from hear.com, please call [(786) 526-0602](tel:7865260602) or click on the “unsubscribe” link included in the email you received. Allow 24-48 hours for removal.
 
 ![hear.com logo](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/logos/hearcom-white.svg)
 
-[(786) 520-2456](tel:7865202456)
+[(786) 526-0602](tel:7865260602)
 
 Curious about the cost of hearing aids?  
 Get your **free guide** today:
@@ -286,7 +286,7 @@ By signing up to receive our guide, you'll be opted in to receive marketing emai
 * [AdChoices](https://www.hear.com/privacy-policy/#ad-choices)
 * [Do Not Sell My Personal Information(CA Residents Only)](https://www.hear.com/privacy-request/)
 
-[(786) 520-2456](tel:7865202456)
+[(786) 526-0602](tel:7865260602)
 
 Curious about the cost of hearing aids?  
 Get your **free guide** today:
