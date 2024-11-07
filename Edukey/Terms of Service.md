@@ -29,7 +29,7 @@ International schoolsUK editionAustralia edition
             
         * [Tes Timetable Flexible timetabling software](https://www.tes.com/for-schools/timetabling-edval)
             
-        * [Tes Parents' Meetings Parents' meetings that work for everyone](https://www.tes.com/for-schools/parents-meetings)
+        * [Tes Parents' Meetings Parents' evenings system that works for everyone](https://www.tes.com/for-schools/parents-meetings)
             
         * [Tes Room Booking Manage your rooms and resources online](https://www.tes.com/for-schools/room-booking)
             
