@@ -60,7 +60,6 @@
     * [Coding eBooks](https://www.tynker.com/ebooks/)
     * [Mobile Apps](https://www.tynker.com/mobile/)
 * [Tynker Apps](https://www.tynker.com/mobile/)
-* [Blog](https://www.tynker.com/blog/)
 * [Give a Gift](https://www.tynker.com/parents/gift)
 
 [### Please see our latest privacy updates.](https://www.tynker.com/privacy/)
