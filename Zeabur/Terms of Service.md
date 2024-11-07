@@ -18,7 +18,6 @@
     * [Deploy in CLI](https://docs.zeabur.com/docs/en-US/deploy/deploy-in-cli)
     * [Config Editing](https://docs.zeabur.com/docs/en-US/deploy/config-edit)
     * [Environment Variables](https://docs.zeabur.com/docs/en-US/deploy/variables)
-    * [Pull Request Preview](https://docs.zeabur.com/docs/en-US/deploy/preview)
     * [Execute Commands](https://docs.zeabur.com/docs/en-US/deploy/command-execution)
     * [Enable Serverless](https://docs.zeabur.com/docs/en-US/deploy/serverless)
     * [Update Image Reference](https://docs.zeabur.com/docs/en-US/deploy/update-image-reference)
