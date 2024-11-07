@@ -66,6 +66,6 @@ Kanalübersicht
     
 * [kontakt@nindo.de](mailto:kontakt@nindo.de)
 
-© Nindo GmbH[Impressum](https://nindo.de/imprint)[Privacy Policy](https://nindo.de/privacy)[Terms Of Service](https://nindo.de/terms)
+© Nindo GmbH[Impressum](https://nindo.de/imprint)[Privacy Policy](https://nindo.de/privacy)[Terms Of Service](https://nindo.de/terms)Cookie-Einstellungen
 
 [](https://www.linkedin.com/company/nindopro)[](https://www.xing.com/pages/nindo)[](https://www.instagram.com/nindo.de/)[](https://www.youtube.com/channel/UC1W96tENk9fz6ODZfEF42tA)[](https://www.tiktok.com/@nindo.de)
