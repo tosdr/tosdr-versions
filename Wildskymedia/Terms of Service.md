@@ -2,7 +2,7 @@
 
 * [HOME](https://wildskymedia.com/)
 * [BRANDS](https://wildskymedia.com/brands)
-* [CONTACT US](https://wildskymedia.com/contact)
+* [\[email protected\]](https://wildskymedia.com/cdn-cgi/l/email-protection)
 * [](https://www.linkedin.com/company/wild-sky-media)
 
 Terms of Service
@@ -64,7 +64,7 @@ Wild Sky Media
 6400 Congress Ave  
 Suite 2050  
 Boca Raton, FL 33487  
-Email: [info@wildskymedia.com](mailto:info@wildskymedia.com)  
+Email: [\[email protected\]](https://wildskymedia.com/cdn-cgi/l/email-protection)  
 
 You acknowledge that if you fail to comply with all of the requirements of this Section 5(D), your DMCA notice may not be valid.
 
@@ -77,7 +77,7 @@ F. Wild Sky Media permits you to link to your own User Submissions hosted on the
 
 We may use your information to notify you of important changes to the Wild Sky Media Sites, services, and special offers. If you do not want to receive such notices, you may use the following options to opt out of receiving future communications:
 
-A. Send an email message to [optout@wildskymedia.com](mailto:optout@wildskymedia.com) with the word “Remove” in the subject field; or
+A. Send an email message to [\[email protected\]](https://wildskymedia.com/cdn-cgi/l/email-protection) with the word “Remove” in the subject field; or
 
 B. Send mail to the following postal address:
 
@@ -131,6 +131,6 @@ C. No waiver of any term of this these Terms of Use shall be deemed a further or
 
 Copyright © 2024 Wild Sky Media - All Rights Reserved.
 
-[CONTACT](https://wildskymedia.com/contact) • [TERMS OF SERVICE](https://wildskymedia.com/terms-of-service) • [PRIVACY POLICY](https://wildskymedia.com/privacy-policy)
+[\[email protected\]](https://wildskymedia.com/cdn-cgi/l/email-protection) • [TERMS OF SERVICE](https://wildskymedia.com/terms-of-service) • [PRIVACY POLICY](https://wildskymedia.com/privacy-policy)
 
 [Connect With Us](https://www.linkedin.com/company/wild-sky-media)
