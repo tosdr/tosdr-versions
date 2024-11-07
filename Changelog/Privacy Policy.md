@@ -4,7 +4,7 @@
 * [News](https://changelog.com/news "Changelog News")
 * [Beats](https://changelog.com/beats "Changelog Beats")
 * [Community](https://changelog.com/community "Changelog Community")
-* [Subscribe](https://changelog.com/subscribe)
+* [Merch](https://merch.changelog.com/ "Changelog Merch")
 * [Changelog++](https://changelog.com/++ "Join Changelog++")
 
 * [Submit News](https://changelog.com/news/submit "Submit News")
@@ -13,11 +13,11 @@
 
 [Changelog](https://changelog.com/ "Go $HOME")
 
-* [Podcasts](https://changelog.com/podcasts)
+* [News](https://changelog.com/news)
+* [Merch](https://merch.changelog.com/)
 * [Beats](https://changelog.com/beats)
-* [Posts](https://changelog.com/posts)
+* [Podcasts](https://changelog.com/podcasts)
 * [Community](https://changelog.com/community)
-* [Subscribe](https://changelog.com/subscribe)
 * [Changelog++](https://changelog.com/++ "Join Changelog++")
 * [Submit News](https://changelog.com/news/submit)
 
