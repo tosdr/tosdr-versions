@@ -34,20 +34,32 @@
 * [](https://sciencing.com/feed/ "RSS")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![question mark galaxy formation](https://www.sciencing.com/img/gallery/the-real-reason-it-looks-like-theres-a-question-mark-in-space/intro-1730434725.jpg)](https://sciencing.com/1703065/real-reason-question-mark-space/)
+*  [![Clownfish and other fish swimming around an anemone](https://www.sciencing.com/img/gallery/the-strange-place-life-was-found-in-the-pacific-ocean/intro-1730481747.jpg)](https://sciencing.com/1703462/strange-place-life-found-pacific-ocean/)
     
     [Science](https://sciencing.com/category/science/)
     
-    [Science](https://sciencing.com/category/science/) By Elias Nash
+    [Science](https://sciencing.com/category/science/) By Tiffany Betts
     
-    [The Real Reason It Looks Like There's A Question Mark In Space](https://sciencing.com/1703065/real-reason-question-mark-space/)
-    ================================================================================================================================
+    [The Strange Place Life Was Found In The Pacific Ocean](https://sciencing.com/1703462/strange-place-life-found-pacific-ocean/)
+    ==============================================================================================================================
     
-    In 2023, the powerful James Webb Telescope captured what looked like a question mark in the darkness of deep space, but the reason why is just as fascinating.
+    In the dark, strange depths of the Pacific Ocean, scientists have found life in yet another surprising place, thriving in the crust around hydrothermal vents.
     
-    By Elias Nash [Read More](https://sciencing.com/1703065/real-reason-question-mark-space/)
+    By Tiffany Betts [Read More](https://sciencing.com/1703462/strange-place-life-found-pacific-ocean/)
     
-* *  [![Mouth and ear](https://www.sciencing.com/img/gallery/the-one-word-researchers-agree-makes-you-more-persuasive/intro-1730387907.jpg)](https://sciencing.com/1702267/one-word-scientists-agree-make-you-persuasive/)
+* *  [![question mark galaxy formation](https://www.sciencing.com/img/gallery/the-real-reason-it-looks-like-theres-a-question-mark-in-space/intro-1730434725.jpg)](https://sciencing.com/1703065/real-reason-question-mark-space/)
+        
+        [Science](https://sciencing.com/category/science/)
+        
+        [Science](https://sciencing.com/category/science/) By Elias Nash
+        
+        ### [The Real Reason It Looks Like There's A Question Mark In Space](https://sciencing.com/1703065/real-reason-question-mark-space/)
+        
+        In 2023, the powerful James Webb Telescope captured what looked like a question mark in the darkness of deep space, but the reason why is just as fascinating.
+        
+        By Elias Nash [Read More](https://sciencing.com/1703065/real-reason-question-mark-space/)
+        
+    *  [![Mouth and ear](https://www.sciencing.com/img/gallery/the-one-word-researchers-agree-makes-you-more-persuasive/intro-1730387907.jpg)](https://sciencing.com/1702267/one-word-scientists-agree-make-you-persuasive/)
         
         [Science](https://sciencing.com/category/science/)
         
@@ -71,18 +83,6 @@
         
         By Elias Nash [Read More](https://sciencing.com/1702150/meet-robot-amputates-own-limbs-reason/)
         
-    *  [![3D rendering of digital human brain with cell and neuron activity floating over hand](https://www.sciencing.com/img/gallery/the-4-stages-of-eating-inside-your-brain/intro-1730220417.jpg)](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
-        
-        [Science](https://sciencing.com/category/science/)
-        
-        [Science](https://sciencing.com/category/science/) By Tiffany Betts
-        
-        ### [How Your Brain Processes Food: The Neurological Experience Of Eating](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
-        
-        The brain governs much of what the body does, including the process of eating. Researchers have discovered this process occurs within our brains in four stages.
-        
-        By Tiffany Betts [Read More](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
-        
 
 More Stories
 ------------
@@ -98,6 +98,18 @@ More Stories
     In October 2023, Egyptologists discovered coffins adorned with hieroglyphics that shed new light on an oft overlooked period of ancient Egyptian history.
     
     By Elias Nash [Read More](https://sciencing.com/1703073/intricate-coffins-shed-light-overlooked-period-egyptian-history/)
+    
+*  [![3D rendering of digital human brain with cell and neuron activity floating over hand](https://www.sciencing.com/img/gallery/the-4-stages-of-eating-inside-your-brain/intro-1730220417.jpg)](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
+    
+    [Science](https://sciencing.com/category/science/)
+    
+    [Science](https://sciencing.com/category/science/) By Tiffany Betts
+    
+    ### [How Your Brain Processes Food: The Neurological Experience Of Eating](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
+    
+    The brain governs much of what the body does, including the process of eating. Researchers have discovered this process occurs within our brains in four stages.
+    
+    By Tiffany Betts [Read More](https://sciencing.com/1700189/how-brain-processes-food-neurological-experience-eating/)
     
 *  [![hydrothermal explosion at biscuit basin yellowstone](https://www.sciencing.com/img/gallery/what-caused-the-yellowstone-biscuit-basin-explosion-and-could-it-happen-again/intro-1729787972.jpg)](https://sciencing.com/1696812/what-caused-yellowstone-biscuit-basin-explosion-could-happen-again/)
     
@@ -342,14 +354,6 @@ More Stories
     ### [How To Get A Good Grade In Elementary Statistics](https://sciencing.com/how-to-get-a-good-grade-in-elementary-statistics-12753046/)
     
     By Lorraine O'Neil [Read More](https://sciencing.com/how-to-get-a-good-grade-in-elementary-statistics-12753046/)
-    
-*  [![Milky way and the Observatory](https://www.sciencing.com/sciencing/what-do-stars-look-like-4587447/458890475.jpg)](https://sciencing.com/what-do-stars-look-like-4587447/)
-    
-    By Chris Deziel
-    
-    ### [What Do Stars Look Like?](https://sciencing.com/what-do-stars-look-like-4587447/)
-    
-    By Chris Deziel [Read More](https://sciencing.com/what-do-stars-look-like-4587447/)
     
 
 Back
