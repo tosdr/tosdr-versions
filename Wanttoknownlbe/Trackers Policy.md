@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/wikileaks-17-miljoen-nieuwe-documenten-online/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/vrije-journalistiek-en-de-brief-aan-de-regering/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
