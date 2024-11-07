@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Judge in Trump's 'hush money' trial considers tossing felony conviction](https://nypost.com/2024/11/07/us-news/judge-in-trumps-hush-money-trial-considers-tossing-felony-conviction/)
+
 Privacy Notice Highlights
 =========================
 
