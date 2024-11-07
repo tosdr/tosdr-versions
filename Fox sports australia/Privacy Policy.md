@@ -158,6 +158,18 @@ FOX SCORES
     | RIC | –   |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20241104)
+* NFL
+    
+* [NFL
+    
+    8/11 12:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BAL | –   |
+    | CIN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251001)
 * Basketball
     
 * [NBL
@@ -180,6 +192,16 @@ FOX SCORES
     | TAS | 82  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080002/play-by-play)
+* [NBL
+    
+    8/11 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | SEM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080003)
 * [WNBL
     
     Full Time
@@ -190,106 +212,16 @@ FOX SCORES
     | SOU | 87  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25020002/play-by-play)
-* [NBA
+* [WNBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CHA | 108 |
-    | DET | 107 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010167/box-score)
-* [NBA
-    
-    Full Time
+    8/11 18:30 AEST
     
     |     |     |
     | --- | --- |
-    | IND | 118 |
-    | ORL | 111 |
+    | CAN | –   |
+    | BEN | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010166/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ATL | 121 |
-    | NY  | 116 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010168/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BOS | 112 |
-    | GS  | 118 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010169/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | HOU | 127 |
-    | SA  | 100 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010170/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MEM | 131 |
-    | LAL | 114 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010171/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NO  | 122 |
-    | CLE | 131 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010173/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DAL | 119 |
-    | CHI | 99  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010172/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PHO | 115 |
-    | MIA | 112 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010175/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DEN | 124 |
-    | OKC | 122 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010174/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25020003)
 * [NBA
     
     Full Time
@@ -340,6 +272,28 @@ FOX SCORES
     | UTA | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010179)
+* Football
+    
+* [A-League W
+    
+    8/11 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WUN | –   |
+    | CCM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250201)
+* [A-League M
+    
+    8/11 19:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WSW | –   |
+    | NEW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250401)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -910,7 +864,6 @@ FOX SCORES
 * [Super League](https://www.foxsports.com.au/video/league/super-league)
 * [State of Origin](https://www.foxsports.com.au/video/league/state-of-origin)
 * Matty Johns
-* [NRL 360](https://www.foxsports.com.au/video/league/nrl-360)
 * Tests
 * [Rugby League](https://www.foxsports.com.au/video/league/rugby-league)
 
