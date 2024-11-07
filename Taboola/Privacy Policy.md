@@ -67,7 +67,7 @@ English Français Español Deutsch Português 中文 (简体) 한국어 日本�
 TABOOLA PRIVACY POLICY
 ======================
 
-Last Update: October 31st, 2024
+Last Update: November 6th, 2024
 
 For Taboola’s opt-out status options, please [click here](#opt-out).  
 For Taboola’s region-specific notices, please visit the applicable notice for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california) and [additional U.S. states](#notice-to-individuals-in-applicable-U.S.-states), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), [China](#notice-to-individuals-in-china), or [Thailand](#notice-to-individuals-in-thailand).
@@ -417,7 +417,7 @@ We may sell or share for cross-context behavioral advertising purposes (and may 
 * Internet/Online Activity
 * Inferences
 
-We do not have actual knowledge that we sell or share Personal Information of minors under 16 years old.
+We do not have actual knowledge that we sell or share Personal Information of minors under 18 years old.
 
 ### 5.3 Notice to Individuals in Applicable U.S. States
 
