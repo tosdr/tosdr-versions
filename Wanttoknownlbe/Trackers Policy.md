@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/drinkwaterklachten-dan-ben-je-een-terrorist/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/wordt-er-nu-n-supermensenras-geboren/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
