@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/BB12-326x245.jpg)](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
+
+Chicago Lawn
+
+### [Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
+
+[November 3, 2024 6:22 PM](https://cwbchicago.com/2024/11)
+
+Shot in both legs, a 45-year-old man was found lying outside a Marquette Park laundromat early Sunday morning. A passerby found him and called 911, saying there was a man down, and they thought he had been shot. [](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
+
+[![](https://cwbchicago.com/wp-content/uploads/2023/05/Dangelo-Moore-326x245.jpg)](https://cwbchicago.com/2024/11/7-years-for-robbing-women-in-logan-square-with-an-accomplice-who-shot-one-of-the-victims.html "7 years for robbing women in Logan Square with an accomplice who shot one of the victims")
+
+Citywide
+
+### [7 years for robbing women in Logan Square with an accomplice who shot one of the victims](https://cwbchicago.com/2024/11/7-years-for-robbing-women-in-logan-square-with-an-accomplice-who-shot-one-of-the-victims.html "7 years for robbing women in Logan Square with an accomplice who shot one of the victims")
+
+[November 3, 2024 3:58 PM](https://cwbchicago.com/2024/11)
+
+A man accused of robbing two women in Logan Square with an accomplice who shot one of the victims has been sentenced to seven years.[](https://cwbchicago.com/2024/11/7-years-for-robbing-women-in-logan-square-with-an-accomplice-who-shot-one-of-the-victims.html "7 years for robbing women in Logan Square with an accomplice who shot one of the victims")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Darryl-Alexander-326x245.jpg)](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
 
 CTA
@@ -252,26 +272,6 @@ CTA
 [November 3, 2024 3:03 PM](https://cwbchicago.com/2024/11)
 
 A man who has been repeatedly accused of attacking women on CTA trains has been detained as a public safety threat after prosecutors charged him with assaulting five more women since summer.[](https://cwbchicago.com/2024/11/man-randomly-attacked-5-women-on-the-cta-causing-face-fracture-concussion.html "Man randomly attacked 5 women on the CTA, causing face fracture, concussion")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb11-326x245.jpg)](https://cwbchicago.com/2024/11/passerby-finds-man-fatally-shot-on-a-street-previously-served-by-shotspotter.html "Passerby finds man fatally shot on a street previously served by ShotSpotter")
-
-Ashburn
-
-### [Passerby finds man fatally shot on a street previously served by ShotSpotter](https://cwbchicago.com/2024/11/passerby-finds-man-fatally-shot-on-a-street-previously-served-by-shotspotter.html "Passerby finds man fatally shot on a street previously served by ShotSpotter")
-
-[November 3, 2024 8:27 AM](https://cwbchicago.com/2024/11)
-
-A 21-year-old man was found shot to death in the Ashburn neighborhood early Sunday on a block that used to be monitored by the city’s ShotSpotter gunfire detection system. [](https://cwbchicago.com/2024/11/passerby-finds-man-fatally-shot-on-a-street-previously-served-by-shotspotter.html "Passerby finds man fatally shot on a street previously served by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/400-block-n-milwaukee-326x245.jpg)](https://cwbchicago.com/2024/11/drive-by-shooters-injure-2-in-fulton-river-district.html "Drive-by shooters injure 2 in Fulton River District")
-
-West Town
-
-### [Drive-by shooters injure 2 in Fulton River District](https://cwbchicago.com/2024/11/drive-by-shooters-injure-2-in-fulton-river-district.html "Drive-by shooters injure 2 in Fulton River District")
-
-[November 3, 2024 5:42 AM](https://cwbchicago.com/2024/11)
-
-Drive-by gunmen opened fire as they rolled through the Fulton River District overnight, leaving two people injured.[](https://cwbchicago.com/2024/11/drive-by-shooters-injure-2-in-fulton-river-district.html "Drive-by shooters injure 2 in Fulton River District")
 
 Search
 
