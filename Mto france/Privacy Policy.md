@@ -204,7 +204,7 @@ Suivez-nous
 Politique de Confidentialité
 ============================
 
-06/11/2024
+07/11/2024
 
 Relativement à ses activités, Météo-France est amené à traiter des données à caractère personnel vous concernant. A ces fins, nous nous engageons à respecter les réglementations en vigueur concernant la protection des données à caractère personnel, soit la loi informatique et libertés n°78-17 du 6 janvier 1978, ainsi que le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016.
 
