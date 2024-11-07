@@ -369,12 +369,6 @@ Main navigation
             
             [Go to **Baci Perugina**](https://www.nestle.com/brands/chocolate-confectionery/baci-perugina)
             
-        * [Fitness](https://www.nestle.com/brands/chocolate-confectionery/fitness)
-            
-            [Back](# "Close Menu")
-            
-            [Go to **Fitness**](https://www.nestle.com/brands/chocolate-confectionery/fitness)
-            
         * [KitKat](https://www.nestle.com/brands/chocolate-confectionery/kitkat)
             
             [Back](# "Close Menu")
@@ -386,12 +380,6 @@ Main navigation
             [Back](# "Close Menu")
             
             [Go to **Milkybar**](https://www.nestle.com/brands/chocolate-confectionery/milkybar)
-            
-        * [Nestlé Les Recettes de l'Atelier](https://www.nestle.com/brands/chocolate-confectionery/les-recettes-de-latelier)
-            
-            [Back](# "Close Menu")
-            
-            [Go to **Nestlé Les Recettes de l'Atelier**](https://www.nestle.com/brands/chocolate-confectionery/les-recettes-de-latelier)
             
         * [Quality Street](https://www.nestle.com/brands/chocolate-confectionery/quality-street)
             
