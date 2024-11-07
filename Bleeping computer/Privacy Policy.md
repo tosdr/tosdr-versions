@@ -36,6 +36,9 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![Lifetime access to 1TB Koofr cloud storage for $120 with no recurring fees](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Lifetime access to 1TB Koofr cloud storage for $120 with no recurring fees](https://www.bleepingcomputer.com/offer/deals/lifetime-access-to-1tb-koofr-cloud-storage-for-120-with-no-recurring-fees/)
     * [![Hackers increasingly use Winos4.0 post-exploitation kit in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Hackers increasingly use Winos4.0 post-exploitation kit in attacks](https://www.bleepingcomputer.com/news/security/hackers-increasingly-use-winos40-post-exploitation-kit-in-attacks/)
@@ -45,9 +48,6 @@
     * [![Cisco bug lets hackers run commands as root on UWRB access points](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Cisco bug lets hackers run commands as root on UWRB access points](https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/)
-    * [![This $40 course bundle gives you on training in ethical hacking](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This $40 course bundle gives you on training in ethical hacking](https://www.bleepingcomputer.com/offer/deals/this-40-course-bundle-gives-you-on-training-in-ethical-hacking/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
