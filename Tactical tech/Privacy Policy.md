@@ -176,21 +176,21 @@ Shifting the conversation around the impacts of digital technologies
     
     * Open calls
     
-    [### kostenfreie workshops zur förderung der digitalen medienkompetenz für jugendliche](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
-    
-    Wir sind auf der Suche nach Partnerschaften mit formellen oder informellen, in Berlin ansässigen Jugendorganisationen und -institutionen, vor allem solchen, die mit jungen Menschen (13-18 Jahre) aus traditionell marginalisierten Identitäten oder Hintergründen arbeiten.
-    
-    [Read more →](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
-    
-* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
-    
-    * Open calls
-    
     [### \[Open Call\] Free training for Berlin educators to learn how to open critical conversations about the impacts of AI & tech](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
     
     Are you a social worker, community leader, youth advocate, or educator working with teens? Tactical Tech is seeking organisations and individuals in Berlin interested in getting trained on digital literacy topics such as AI, misinformation, and digital privacy, accessing educational resources, and receiving financial support to host workshops or exhibitions in their communities.
     
     [Read more →](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
+    
+* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-september.jpg)
+    
+    * In-The-Loop newsletters
+    
+    [### In The Loop September 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-september-2024/)
+    
+    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
+    
+    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-september-2024/)
     
 
 Impact stories
