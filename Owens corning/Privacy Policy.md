@@ -84,7 +84,7 @@ Strengthening Our Leadership in Building and Construction Materials](https://new
 
 #### Quarterly Earnings 
 
-[Webcast Replay](https://events.q4inc.com/attendee/391039233) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Owens-Corning-Q2-2024-Earnings-Call-Aug-06-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Q2-2024-Quarterly-Earnings-Presentation-v14.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-2.8-Billion-Generates-Net-Earnings-of-285-Million-and-Adjusted-EBIT-of-588-Million/default.aspx)
+[Webcast Replay](https://events.q4inc.com/attendee/255275100) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q3/Owens-Corning-Q3_2024-Earnings-Call-Nov-06-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q3/Q3-2024-Quarterly-Earnings-Presentation-v8.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-3.0-Billion-Generates-Net-Earnings-of-321-Million-and-Adjusted-EBIT-of-582-Million/default.aspx)
 
 #### Investor Day 
 
@@ -220,7 +220,7 @@ Investors
 
 #### Quarterly Earnings
 
-[Webcast Replay](https://events.q4inc.com/attendee/391039233) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Owens-Corning-Q2-2024-Earnings-Call-Aug-06-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Q2-2024-Quarterly-Earnings-Presentation-v14.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-2.8-Billion-Generates-Net-Earnings-of-285-Million-and-Adjusted-EBIT-of-588-Million/default.aspx)
+[Webcast Replay](https://events.q4inc.com/attendee/255275100) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q3/Owens-Corning-Q3_2024-Earnings-Call-Nov-06-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q3/Q3-2024-Quarterly-Earnings-Presentation-v8.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-3.0-Billion-Generates-Net-Earnings-of-321-Million-and-Adjusted-EBIT-of-582-Million/default.aspx)
 
 #### Investor Day
 
