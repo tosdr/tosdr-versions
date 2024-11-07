@@ -240,7 +240,7 @@ this week
 
 [Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
-[Pests and Parasites](https://www.sciencedaily.com/news/plants_animals/pests_and_parasites/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
