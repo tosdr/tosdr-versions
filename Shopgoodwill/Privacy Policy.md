@@ -9,8 +9,8 @@ Advanced
     
     * [All categories](https://shopgoodwill.com/all-categories)
     
-* [Featured](https://shopgoodwill.com/categories/gallery?st=&sg=Gallery&c=&s=&lp=0&hp=999999&sbn=&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=11%2F6%2F2024&cadb=7&scs=false&sis=false&col=1&p=1&ps=40&desc=false&ss=0&UseBuyerPrefs=true&sus=false&cln=1&catIds=&pn=&wc=false&mci=false&hmt=true&layout=grid&ihp= "Featured")
-* [Newly Listed](https://shopgoodwill.com/categories/new?st=&sg=New&c=&s=&lp=0&hp=999999&sbn=&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=11%2F6%2F2024&cadb=7&scs=false&sis=false&col=1&p=1&ps=40&desc=true&ss=0&UseBuyerPrefs=true&sus=false&cln=1&catIds=&pn=&wc=false&mci=false&hmt=true&layout=grid&ihp= "Newly Listed")
+* [Featured](https://shopgoodwill.com/categories/gallery?st=&sg=Gallery&c=&s=&lp=0&hp=999999&sbn=&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=11%2F7%2F2024&cadb=7&scs=false&sis=false&col=1&p=1&ps=40&desc=false&ss=0&UseBuyerPrefs=true&sus=false&cln=1&catIds=&pn=&wc=false&mci=false&hmt=true&layout=grid&ihp= "Featured")
+* [Newly Listed](https://shopgoodwill.com/categories/new?st=&sg=New&c=&s=&lp=0&hp=999999&sbn=&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=11%2F7%2F2024&cadb=7&scs=false&sis=false&col=1&p=1&ps=40&desc=true&ss=0&UseBuyerPrefs=true&sus=false&cln=1&catIds=&pn=&wc=false&mci=false&hmt=true&layout=grid&ihp= "Newly Listed")
 * My ShopGoodwill
     * [Personal Information](https://shopgoodwill.com/shopgoodwill/personal-information)
     * [Open Orders](https://shopgoodwill.com/shopgoodwill/open-orders)
