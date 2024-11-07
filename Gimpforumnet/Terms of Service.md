@@ -38,6 +38,4 @@ Hello There, Guest! [Login](https://www.gimp-forum.net/member.php?action=login) 
 * [Lite (Archive) Mode](https://www.gimp-forum.net/archive/index.php)
 * [RSS Syndication](https://www.gimp-forum.net/misc.php?action=syndication)
 
-**Current time:** 11-07-2024, 02:00 PM Powered By [MyBB](http://www.mybb.com/), © 2002-2024 [MyBB Group](http://www.mybb.com/).
-
-![](https://www.gimp-forum.net/task.php)
+**Current time:** 11-07-2024, 08:03 PM Powered By [MyBB](http://www.mybb.com/), © 2002-2024 [MyBB Group](http://www.mybb.com/).
