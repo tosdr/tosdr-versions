@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Understanding the NIS 2 Directive: Compliance insights and best practices](https://www.onetrust.com/resources/understanding-the-nis-2-directive-compliance-insights-and-best-practices-webinar/)
 * [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
 * [Building a strong security posture: Managing compliance, risk, and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape-webinar/)
-* [Building a strong security posture: managing compliance, risk and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape/)
 
 ### Platform
 
