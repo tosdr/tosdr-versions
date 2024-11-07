@@ -4,7 +4,7 @@ Menu [![BFMTV](/assets/v8/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.s
 
 Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v8/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
 
-DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
+Direct](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
@@ -331,10 +331,10 @@ Les plus lus
     ![Kamala Harris et Donald Trump, les deux candidats à l'élection présidentielle américaine de 2024.](https://images.bfmtv.com/1mXI257QcP-aJ8m7EOu5F67w_Nk=/0x192:2048x1344/300x0/images/Kamala-Harris-et-Donald-Trump-les-deux-candidats-a-l-election-presidentielle-americaine-de-2024-1971089.jpg)
     
     ### CARTE. Élection américaine 2024: Donald Trump élu, les résultats État par État](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/carte-election-americaine-2024-les-resultats-de-la-presidentielle-en-temps-reel-etat-par-etat_GN-202411050840.html "CARTE. Élection américaine 2024: Donald Trump élu, les résultats État par État")
-2. [### Élection américaine: les 5 informations à retenir de cette nuit présidentielle](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/election-americaine-les-5-informations-a-retenir-de-cette-nuit-presidentielle_AN-202411060270.html "Élection américaine: les 5 informations à retenir de cette nuit présidentielle")
-3. [### Le grand hypermarché, un format moribond qui handicape Auchan depuis des années](https://www.bfmtv.com/economie/consommation/le-grand-hypermarche-un-format-moribond-qui-handicape-auchan-depuis-des-annees_AN-202411050712.html "Le grand hypermarché, un format moribond qui handicape Auchan depuis des années")
-4. [### "L'Amour est dans le pré": une candidate a appris en plein tournage qu'elle avait un cancer](https://www.bfmtv.com/people/tv/l-amour-est-dans-le-pre-une-candidate-a-appris-en-plein-tournage-qu-elle-avait-un-cancer_AN-202411050624.html ""L'Amour est dans le pré": une candidate a appris en plein tournage qu'elle avait un cancer")
-5. [### Accusations de racisme: pourquoi les aventures de Spirou sont si longtemps passées sous les radars](https://www.bfmtv.com/people/bandes-dessinees/accusations-de-racisme-pourquoi-les-aventures-de-spirou-sont-si-longtemps-passees-sous-les-radars_AN-202411050418.html "Accusations de racisme: pourquoi les aventures de Spirou sont si longtemps passées sous les radars")
+2. [### "Un abandon de la classe ouvrière": Bernie Sanders critique "la campagne désastreuse" de Kamala Harris](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/un-abandon-de-la-classe-ouvriere-bernie-sanders-critique-la-campagne-desastreuse-de-kamala-harris_AN-202411070069.html ""Un abandon de la classe ouvrière": Bernie Sanders critique "la campagne désastreuse" de Kamala Harris")
+3. [### "On est là pour vous": Brigitte Macron à la "Star Academy" pour dénoncer le harcèlement à l'école](https://www.bfmtv.com/people/musique/on-est-la-pour-vous-brigitte-macron-a-la-star-academy-pour-denoncer-le-harcelement-a-l-ecole_AN-202411060759.html ""On est là pour vous": Brigitte Macron à la "Star Academy" pour dénoncer le harcèlement à l'école")
+4. [### "Ils font beaucoup de mal": l'Australie va interdire les réseaux sociaux aux jeunes de moins de 16 ans](https://www.bfmtv.com/tech/actualites/reseaux-sociaux/ils-font-beaucoup-de-mal-l-australie-va-interdire-les-reseaux-sociaux-aux-jeunes-de-moins-de-16-ans_AD-202411070045.html ""Ils font beaucoup de mal": l'Australie va interdire les réseaux sociaux aux jeunes de moins de 16 ans")
+5. [### "L'Amour est dans le pré": une candidate a appris en plein tournage qu'elle avait un cancer](https://www.bfmtv.com/people/tv/l-amour-est-dans-le-pre-une-candidate-a-appris-en-plein-tournage-qu-elle-avait-un-cancer_AN-202411050624.html ""L'Amour est dans le pré": une candidate a appris en plein tournage qu'elle avait un cancer")
 
 ![BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
