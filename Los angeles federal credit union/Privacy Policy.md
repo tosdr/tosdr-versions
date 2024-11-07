@@ -67,7 +67,7 @@ About Us
 * [Apply: Real Estate](https://borrower-portal.lafcu.org/#/get-started)
 * [Apply: Personal](https://app.loanspq.com/pl/PersonalLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
 
-As of 11-6-24
+As of 11-7-24
 
 Privacy Policy
 ==============
