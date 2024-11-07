@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Simcity Board of Advisors](https://www.somethingawful.com/news/simcity-advisors/1/)
-* [The Captain Was Here](https://www.somethingawful.com/comedy-goldmine/captain-was-here/1/)
-* [I Was a Girl at Comic Con](https://www.somethingawful.com/news/girl-comic-con/1/)
-* [Were The Beatles Technically The Best At Anything?](https://www.somethingawful.com/garbage-day/beatles-best-comparison/)
-* [Nerdcore Revisited](https://www.somethingawful.com/garbage-day/nerdcore-mcrouter-8bitboys/1/)
+* [Heroes of the Gaming World Trading Cards](https://www.somethingawful.com/feature-articles/heroes-gaming-world/1/)
+* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
+* [AwfulVision: Hot as Helllll!](https://www.somethingawful.com/awfulvision/complete-sonic-libertarian/1/)
+* [Make porn safe for work V2: work from home edition](https://www.somethingawful.com/photoshop-phriday/make-porn-sfwv2/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Historic Breakdancing News](http://forums.somethingawful.com/showthread.php?threadid=4074712 "Historic Breakdancing News")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Come to Callisto!](http://forums.somethingawful.com/showthread.php?threadid=4074669 "Come to Callisto!")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [How busy were the Ghostbusters after 9/11?](http://forums.somethingawful.com/showthread.php?threadid=4074679 "How busy were the Ghostbusters after 9/11?")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [Canada citizenship application discussion](http://forums.somethingawful.com/showthread.php?threadid=4074706 "Canada citizenship application discussion")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Post how you break up with people](http://forums.somethingawful.com/showthread.php?threadid=4074710 "Post how you break up with people")
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [How busy were the Ghostbusters after 9/11?](http://forums.somethingawful.com/showthread.php?threadid=4074679 "How busy were the Ghostbusters after 9/11?")
 
 ### Random Articles
 
-* [Far From Precious Moments](https://www.somethingawful.com/photoshop-phriday/far-from-precious/1/)
-* [The Comic Stylings of Daniel J. Geduld](https://www.somethingawful.com/awful-links/awful-link-3754/)
-* ["No President Has Ever Survived Pneumona" by Donald Trump's Physician, Dr. Harold Bornstein](https://www.somethingawful.com/news/trump-doctor-pneumonia/)
-* [MedHelp](https://www.somethingawful.com/weekend-web/medhelp/1/)
-* [Farewell to Vilerat](https://www.somethingawful.com/news/sean-smith-vilerat/)
+* [RINGS](https://www.somethingawful.com/awful-links/awful-link-2647/)
+* [Dog Wanted Posters](https://www.somethingawful.com/awful-links/awful-link-2376/)
+* [NERDS](https://www.somethingawful.com/garbage-day/nerdcore-protomen-8bit/1/)
+* [has anyone noticed strange things happening since cheerios + ancient grains was released?](https://www.somethingawful.com/comedy-goldmine/ancient-grains-cheerios/)
+* [House of Archangel](https://www.somethingawful.com/awful-links/awful-link-1174/)
 
 [Random!](https://www.somethingawful.com/random/)
 
