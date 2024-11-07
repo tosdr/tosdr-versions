@@ -1,5 +1,3 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6723ade3174c297206eaf569_Group%206413.png)
-
 0
 
 3
@@ -12,7 +10,21 @@ Jours
 
 Heures
 
-Jusqu'à -100€ sur les packs permis\* ! Jusqu'à jeudi 07/11 seulement ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+1
+
+5
+
+MIN
+
+1
+
+5
+
+sec
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/67077f8383d107b4942cfa2d_Badge%20DERNIERES%20HEURES.svg)
+
+Jusqu’à -100€\* sur les packs permis ! Jusqu'à ce soir 23h59 seulement. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
