@@ -357,7 +357,7 @@ Users shall document any faults regarding the Games and Services and/or other se
 
 12.4 Should any provisions of these Terms and Conditions be or become invalid, the validity of the other provisions shall remain unaffected.
 
-Hamburg, 02 September 2024
+HHamburg, 06 November 2024
 
 Bigpoint GmbH  
 Sachsenstraße 20  
@@ -368,4 +368,4 @@ Germany
 
 **VAT ID No.:** DE813 602 704
 
-**CEO:** Yingying Zou
+**CEO:** Ya Chen Jiang
