@@ -128,8 +128,8 @@ In this Privacy Policy, we will discuss the following topics and more:
     [Postal Communications](#_Toc520738050)  
     [Telephone Communications](#_Toc520738051)  
     [Push Notifications](#_Toc520738052)  
-    
-6. [Information for users located outside the U.S. (Non-E.U. Users)](#_Toc520738053)
+    [SMS Communications and Opt-Out Options](#_Toc520738052)
+6. [](#_Toc520738052)[Information for users located outside the U.S. (Non-E.U. Users)](#_Toc520738053)
 7. [Individuals Within the European Union](#_Toc520738054)  
     [Controllers of Personal Data](#_Toc520738055)  
     [Legal Bases for Processing Personal Data](#_Toc520738056)  
@@ -157,6 +157,7 @@ We collect personal information across our services, such as when you register f
 * User name and password; and Location data that describes the precise geographic location of your device (**"Precise Location Data"**);
 * Areas or topics of interest; and
 * Content of messages or comments posted by you or other users (e.g., text, photos, videos, and links) to the websites, including on forums or content (User Generated Content).
+* Mobile Numbers for SMS Notifications: If you provide your mobile number, we may use it to send event-related notifications and reminders via SMS. We will not share your mobile number with third parties for marketing purposes.
 
 _Please note_: 1105 Media is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the site, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction platforms, or information that you choose to make public in your member profile or other areas that allow users to upload or post content. We discourage users from posting Personal Information in this fashion. You can change your publicly available information at any time via your profile page or to request removal of your Personal Information from these areas. Please see our section on " [How you can change or control what is collected](#_Toc520738045)" in this Privacy Policy. In some cases, we may not be able to remove your Personal Information, in which case, we will let you know if we are unable to do so and why.
 
@@ -194,6 +195,8 @@ We may combine personal information with other information we collect about you.
 Personal Information is used to provide Services to you from 1105 Media or its partners, which includes, but is not limited to when: (i) we send emails or newsletters offering services or products to you and (ii) we display your personal reviews of products or services.. Personal Information may also be used to send you advertisements and promotions on the Services and on third party channels.
 
 If you choose to use our referral service to send an article to a contact or to invite a contact to become a member of a website, we will ask you for your contact's email address or allow you to import your contacts from your email account's address book. We will automatically send your contact a one-time email inviting him or her to visit the website. We may collect the username and password for the email account from which you wish to import your contacts and will only use that information for that purpose.
+
+**For Event Reminders and Notifications:** If you provide your mobile number, we may send SMS notifications solely related to events for which you have registered. Your mobile number will not be shared with third parties for marketing purposes.
 
 #### 3\. Information regarding interest-based advertising.
 
@@ -287,6 +290,10 @@ We send you push notifications from time-to-time in order to update you about an
 #### 6\. Information for users located outside the U.S. (Non-E.U. Users)
 
 The websites operate and are hosted in the United States and, depending on your country of residence, the submission of personally identifiable information to the websites may involve some transfer of User Information to the United States. You understand and consent to having any User Information you provide transferred to and processed in the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
+
+#### 7\. SMS Communications and Opt-Out Options
+
+If you provide your mobile number for SMS notifications, you agree to receive event-related text messages. You can opt out of receiving SMS messages at any time by replying STOP to any message. Your mobile number will not be shared with third parties or affiliates for marketing purposes.
 
 Please note that we may use data collected by a third party operator/licensee of localized versions or editions of Services.
 
