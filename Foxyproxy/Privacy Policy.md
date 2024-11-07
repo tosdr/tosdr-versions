@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was very happy with the service... I'm just low on cash right now. As soon as things are better I'll be subscribing. Thanks.
+As for the proxy service, I've never had a problem. Works great.
 
-David Rowell
+Gary Meiser
