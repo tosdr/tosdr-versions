@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7fade68a259262889ffb18ba59e3c5aa
+0749d205d62a7dd188484dc1aac47e67
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Purple and gold bracelet](https://www.sojourner.biz/images/cache/BR0009.200.jpg)](https://www.sojourner.biz/jewelry/bracelets/purple-and-gold-bracelet.html "Purple and gold bracelet")
+[![14 mm to 24 mm highly irregular gold stick pearls](https://www.sojourner.biz/images/cache/pearls/PE0168.200.jpg)](https://www.sojourner.biz/beads/pearls/14-mm-to-24-mm-highly-irregular-gold-stick-pearls.html "14 mm to 24 mm highly irregular gold stick pearls")
 
-#### [Purple and gold bracelet](https://www.sojourner.biz/jewelry/bracelets/purple-and-gold-bracelet.html "Purple and gold bracelet")
+#### [14 mm to 24 mm highly irregular gold stick pearls](https://www.sojourner.biz/beads/pearls/14-mm-to-24-mm-highly-irregular-gold-stick-pearls.html "14 mm to 24 mm highly irregular gold stick pearls")
 
-$65.00
+$47.00
 
 ### Best Sellers
 
