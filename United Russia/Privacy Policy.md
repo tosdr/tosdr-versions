@@ -305,7 +305,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Вьетнам](https://er.ru/activity/news?tags%5B0%5D=2379) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247)
 
-Сегодня 18:06
+07.11.24
 
 [![«Единая Россия» и Партия справедливости и развития Турции подписали протокол о расширении сотрудничества](https://cdn.er.ru/media/news/November2024/vEepSp83y4xszPQxuPhM-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-i-partiya-spravedlivosti-i-razvitiya-turcii-podpisali-protokol-o-rasshirenii-sotrudnichestva)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Турция](https://er.ru/activity/news?tags%5B0%5D=1846) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
 
-Сегодня 14:00
+07.11.24
 
 [![«Единая Россия» передала гуманитарную помощь в социальные учреждения ЛНР](https://cdn.er.ru/media/news/November2024/v3tDWMXhAphF3u8Y27W5-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-socialnye-uchrezhdeniya-lnr)
 
@@ -321,7 +321,7 @@
 
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#социальныеучреждения](https://er.ru/activity/news?tags%5B0%5D=143253) [#военныйгоспиталь](https://er.ru/activity/news?tags%5B0%5D=150403) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#больница](https://er.ru/activity/news?tags%5B0%5D=3441) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562)
 
-Сегодня 12:24
+07.11.24
 
 [![«Единая Россия» и РЖД откроют 33 новых зала ожидания Центра содействия мобильности на вокзалах по всей стране](https://cdn.er.ru/media/news/November2024/HxjdxTyKpOR2ou0AL3rs-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-rzhd-otkroyut-33-novyh-zala-ozhidaniya-centra-sodejstviya-mobilnosti-na-vokzalah-po-vsej-strane)
 
@@ -329,7 +329,7 @@
 
 [#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#центрсодействиямобильности](https://er.ru/activity/news?tags%5B0%5D=1094870) [#вокзалы](https://er.ru/activity/news?tags%5B0%5D=4078) [#железнаядорога](https://er.ru/activity/news?tags%5B0%5D=119488) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 11:15
+07.11.24
 
 [![«Молодая Гвардия Единой России» вместе с партнёрами окажет помощь детским школам-интернатам ЛНР](https://cdn.er.ru/media/news/November2024/jMU3SAYKrkGNfthpli65-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-vmeste-s-partnyorami-okazhet-pomosh-detskim-shkolam-internatam-lnr)
 
@@ -337,7 +337,7 @@
 
 [#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283) [#Пасечник](https://er.ru/activity/news?tags%5B0%5D=41428) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#школа-интернат](https://er.ru/activity/news?tags%5B0%5D=7415)
 
-Сегодня 10:35
+07.11.24
 
 [![«Единая Россия» внесла поправки ко второму чтению бюджета](https://cdn.er.ru/media/news/November2024/DRXW11mIcDZmDP7RwBsL-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-popravki-ko-vtoromu-chteniyu-byudzheta)
 
@@ -345,7 +345,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
 
-Сегодня 08:30
+07.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
