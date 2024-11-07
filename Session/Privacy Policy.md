@@ -44,7 +44,7 @@ They can record, for example, when the app is closed, opened, how long you use i
 
 If you’re planning to use Session on mobile, we recommend that you read Apple or Google’s privacy policies (as applicable). If you’re using iOS, check out Apple’s [App Store Review Guidelines](https://developer.apple.com/documentation/uikit/protecting_the_user_s_privacy). For Android, read the [User Data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=637734151469597279-3197411421&rd=1) section of Google’s Developer Policy Center.
 
-To avoid using the Play Store or App Store, you can download Session from our [F-Droid repository](https://fdroid.getsession.org/) or from [GitHub](https://github.com/oxen-io/session-android/releases).
+To avoid using the Play Store or App Store, you can download Session from our [F-Droid repository](https://fdroid.getsession.org/) or from [GitHub](https://getsession.org/privacy-policy/getsession.org/apk).
 
 **Session website**
 -------------------
