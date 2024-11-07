@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/kerstboodschap-marcel-messing/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/het-drama-in-apeldoorn-opnieuw-een-schijnbare-11-dualiteit/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
