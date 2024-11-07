@@ -232,7 +232,7 @@ Allgemeine Geschäftsbedingungen Onlineshop
         
     
 
-[AGB als PDF herunterladen](https://www.lidl.de/static/assets/AGB_Lidl_Onlineshop_Stand_August_23-391220-466840.pdf)
+[AGB als PDF herunterladen](https://www.lidl.de/static/assets/20241106_Lidl-Onlineshop_AGB-1249602.pdf)
 
 Zum Betrachten des PDF-Dokumentes benötigst du den kostenlosen [Adobe Acrobat Reader](https://get.adobe.com/reader/).
 
@@ -332,11 +332,11 @@ Bei der Zahlung per **Kreditkarte, Google Pay oder Apple Pay** ermächtigen Sie 
 
   
 
-Bei Zahlung per **SEPA Lastschrift** erteilen Sie uns ein SEPA Basismandat. Die Vorabankündigung des genauen Zeitpunkts der Kontobelastung (Pre-Notification) erfolgt zwei Tage vor Einzug. Die Ankündigung erhalten Sie nach Versand der Warenlieferung mit der Rechnung. Um sicherzustellen, dass Sie Zugriff auf das angegebene Bankkonto haben, können Sie im Rahmen des Bestellvorgangs dazu aufgefordert werden, sich über die Plattform der Tink AB in Ihr Online Bankkonto einzuloggen.
+Bei Zahlung per **SEPA Lastschrift** oder **Lidl Pay** erteilen Sie uns ein SEPA Basismandat. Die Vorabankündigung des genauen Zeitpunkts der Kontobelastung (Pre-Notification) erfolgt **1-3 Bankarbeitstage** vor Einzug. Die Ankündigung erhalten Sie nach Versand der Warenlieferung mit der Rechnung. Um sicherzustellen, dass Sie Zugriff auf das angegebene Bankkonto haben, können Sie im Rahmen des Bestellvorgangs dazu aufgefordert werden, sich über die Plattform der Tink AB in Ihr Online Bankkonto einzuloggen. Zahlungen, die Sie über Lidl Pay im Onlineshop tätigen, werden durch uns auf Basis des von Ihnen erteilten SEPA Lastschriftmandats in unserem Auftrag eingezogen. Zugleich weisen Sie Ihr Kreditinstitut an, den Betrag mittels Lastschrift von Ihrem Bankkonto einzuziehen, welches Sie beim Bezahldienst Lidl Pay in der Lidl App angegeben haben. Für die Nutzung von Lidl Pay gelten die [Teilnahmebedingungen Lidl Plus](https://www.lidl.de/c/lidl-plus-teilnahmebedingungen/s10005289).
 
   
 
-Bei Zahlung auf **Rechnung** verpflichten Sie sich, den Rechnungsbetrag innerhalb von 14 Tagen nach Versand der Ware und Erhalt der Versandbestätigung, ohne jeglichen Abzug von Skonto, zu begleichen.
+Bei Zahlung auf **Rechnung** verpflichten Sie sich, den Rechnungsbetrag innerhalb von 14 Tagen nach Versand der Ware und Erhalt der Versandbestätigung, ohne jeglichen Abzug von Skonto, zu begleichen. In bestimmten Aktionszeiträumen bieten wir verlängerte Zahlungsfristen an. Sie erhalten in diesem Fall weitere Informationen im Bestellprozess bei Auswahl der Zahlart Rechnung.
 
   
 
@@ -365,6 +365,8 @@ Kommen Sie mit einer Zahlung in Verzug oder kommt es zu einer Rücklastschrift, 
   
 
 Die Bezahlung durch Senden von Bargeld oder Schecks ist nicht möglich.
+
+  
 
   
 
