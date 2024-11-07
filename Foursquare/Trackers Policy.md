@@ -26,8 +26,7 @@
     
     Consumer
     
-    * [City Guide](https://foursquare.com/city-guide)
-    * [City Guide App](https://foursquare.com/download)
+    * [City Guide](https://foursquare.com/city-guide-sunset/)
     * [Swarm App](https://swarmapp.com/)
     
     Business Listings
@@ -508,7 +507,7 @@ Google has also developed a web browser plugin to allow you to opt-out of Google
 * [Audience](https://location.foursquare.com/products/audience/)
 * [Proximity](https://location.foursquare.com/products/proximity/)
 * [Business Listings](https://business.foursquare.com/)
-* [City Guide](https://foursquare.com/city-guide)
+* [City Guide](https://foursquare.com/city-guide-sunset/)
 * [Swarm App](https://swarmapp.com/)
 
 [Developer](https://location.foursquare.com/developer/)
