@@ -26,9 +26,6 @@ Menu
     * [RealVNC Connect
         
         Keep your organization connected with secure, reliable remote access to desktop and mobile devices.](https://www.realvnc.com/en/connect/)
-    * [RealONE
-        
-        Monitor, manage and support your IT systems with our powerful remote IT management solution.](https://www.realvnc.com/en/discover/realone/)
     * [RealVNC Developer
         
         Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
@@ -113,9 +110,6 @@ Menu
     * [RealVNC Connect
         
         Keep your organization connected with secure, reliable remote access to desktop and mobile devices.](https://www.realvnc.com/en/connect/)
-    * [RealONE
-        
-        Monitor, manage and support your IT systems with our powerful remote IT management solution.](https://www.realvnc.com/en/discover/realone/)
     * [RealVNC Developer
         
         Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
@@ -174,9 +168,6 @@ Menu
     * [RealVNC Connect
         
         Keep your organization connected with secure, reliable remote access to desktop and mobile devices.](https://www.realvnc.com/en/connect/)
-    * [RealONE
-        
-        Monitor, manage and support your IT systems with our powerful remote IT management solution.](https://www.realvnc.com/en/discover/realone/)
     * [RealVNC Developer
         
         Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
