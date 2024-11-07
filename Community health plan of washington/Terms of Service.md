@@ -70,6 +70,7 @@ MENUMENU
                 * [Health Assessment](https://www.chpw.org/member-center/health-management/health-assessment/)
             * [Member FAQs](https://www.chpw.org/member-center/member-faqs/)
         * * [Member Resources](https://www.chpw.org/member-center/member-resources/)
+                * [Print ID Card](https://www.chpw.org/member-id-card/)
                 * [Member Handbook](https://www.chpw.org/member-center/member-resources/plan-and-coverage/member-handbook/)
                 * [Your Plan and Coverage](https://www.chpw.org/member-center/member-resources/plan-and-coverage/)
                 * [Prescription Coverage](https://www.chpw.org/member-center/member-resources/plan-and-coverage/prescription-drug-benefits/)
