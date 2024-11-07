@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Transformers: Electric Trepidation (11,137)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (11,137 posts)")
-* [The Collective Security League Assemb… (1,259)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,259 posts)")
-* [Summarise AN's flag in one word (1,628)](https://forum.nationstates.net/viewtopic.php?t=548700&f=25&view=unread#unread ""Summarise AN's flag in one word" (1,628 posts)")
-* [Ukrainian War VII: Everything has a p… (8,834)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,834 posts)")
-* [American Politics: Turnabout Trump (367)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (367 posts)")
+* [American Politics: Turnabout Trump (485)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (485 posts)")
+* [The Pub - Zeina V (IC-OPEN) (107)](https://forum.nationstates.net/viewtopic.php?t=555406&f=4&view=unread#unread ""The Pub - Zeina V (IC-OPEN)" (107 posts)")
+* [Transformers: Electric Trepidation (11,157)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (11,157 posts)")
+* [Where do Democrats go from here? (198)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (198 posts)")
+* [Grant AN's wish then curse it (997)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (997 posts)")
 
 Advertisement
 
