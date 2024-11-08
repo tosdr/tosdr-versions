@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/design-good-dogs-feature.jpg)
+
+[](https://theinspirationgrid.com/good-dogs-a-celebration-of-canine-companions/)
+
+### Good Dogs: A Celebration of Canine Companions
+
+![](https://inspgr.id/app/uploads/2024/11/art-kano-feature.jpg)
+
+[](https://theinspirationgrid.com/graffiti-infused-creations-by-kano-kid/)
+
+### Graffiti-Infused Creations by kaNO Kid
+
 ![](https://inspgr.id/app/uploads/2024/11/art-alexander-isakov-feature.jpg)
 
 [](https://theinspirationgrid.com/intricate-abstract-murals-by-alexander-isakov/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/reciprocal-ethereal-photos-by-zac-henderson/)
 
 ### Reciprocal: Ethereal Photos by Zac Henderson
-
-![](https://inspgr.id/app/uploads/2024/11/photography-arjun-mark-feature.jpg)
-
-[](https://theinspirationgrid.com/creative-beauty-photography-by-arjun-mark/)
-
-### Creative Beauty Photography by Arjun Mark
-
-![](https://inspgr.id/app/uploads/2024/11/illustration-mark-long-feature.jpg)
-
-[](https://theinspirationgrid.com/editorial-illustrations-by-mark-long/)
-
-### Playful Editorial Illustrations by Mark Long
 
 Awesome products for creatives
 ------------------------------
