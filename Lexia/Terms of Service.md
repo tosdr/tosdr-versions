@@ -72,7 +72,7 @@ Lexia http://www.lexialearning.com http://www.lexialearning.com/img/logo.svg 198
     
     Efficacy Overview
     
-    [Setting a higher standard of efficacy](https://www.lexialearning.com/Research/) 
+    [Setting a higher standard of efficacy](https://www.lexialearning.com/research/) 
     
     * [Product Efficacy](https://www.lexialearning.com/research/product-efficacy)
     * [ESSA Evidence: Strong ESSA Ratings](https://www.lexialearning.com/research/essa-evidence)
@@ -97,7 +97,7 @@ Lexia http://www.lexialearning.com http://www.lexialearning.com/img/logo.svg 198
     
     Company Overview
     
-    [Lexia is a science of reading leader](https://www.lexialearning.com/Company/) 
+    [Lexia is a science of reading leader](https://www.lexialearning.com/company/) 
     
     * [Careers](https://www.lexialearning.com/company/careers)
     * [History](https://www.lexialearning.com/company/history)
