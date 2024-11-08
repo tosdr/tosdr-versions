@@ -128,13 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Canada Visa Policy](https://www.news18.com/world/canada-overhauls-visa-policy-ends-ten-year-tourist-visa-validity-9112143.html)
+    * [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
     * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
-    * [H1B Jitters](https://www.news18.com/india/why-trump-2-0-is-special-for-india-9111677.html)
-    * [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+    * [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
     * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
-    * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
-    * [US Elections](https://www.news18.com/world/nevada-arizona-election-results-swing-states-slow-counting-mail-in-ballot-donald-trump-kamala-harris-9112842.html)
+    * [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
+    * [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +169,12 @@ Follow us on
 
 In Trends:
 
-* [Canada Visa Policy](https://www.news18.com/world/canada-overhauls-visa-policy-ends-ten-year-tourist-visa-validity-9112143.html)
+* [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
 * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
-* [H1B Jitters](https://www.news18.com/india/why-trump-2-0-is-special-for-india-9111677.html)
-* [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+* [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
 * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
-* [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
-* [US Elections](https://www.news18.com/world/nevada-arizona-election-results-swing-states-slow-counting-mail-in-ballot-donald-trump-kamala-harris-9112842.html)
+* [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
+* [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
