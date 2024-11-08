@@ -174,9 +174,9 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
+[![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/files/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572_239x254.png?v=1731003912)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
-![ Watermelon Cucumber  Water Locking Mist](//www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_220x.png?v=1665003385)
+![ Watermelon Cucumber  Water Locking Mist](//www.100percentpure.com/cdn/shop/files/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572_220x.png?v=1731003912)
 
 ### [Watermelon Cucumber Water Locking Mist](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
