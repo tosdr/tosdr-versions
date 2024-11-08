@@ -66,7 +66,7 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
         
-    *  [![](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+    *  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
         
         [Wellness](https://www.women.com/category/wellness/)
         
