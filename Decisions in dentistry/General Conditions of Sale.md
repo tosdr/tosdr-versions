@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[The economics of dental care and the push for rout ![The economics of dental care and the push for routine treatments raise concerns about overdiagnosis. Yet, with periodontal disease and caries widespread in the United States, is the real issue too much care or not enough? Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCEwt2XMjjX/) 
+
 [Subscribe to our emails before November 13 and get ![Subscribe to our emails before November 13 and get an EXCLUSIVE early Black Friday CE offer! This is BIGGER than our Black Friday promotion and it’s ONLY available to email subscribers. Simply click the link in our bio to subscribe today then check your inbox on November 13.⁠
 ⁠
 Don’t miss the opportunity for EXTRA SAVINGS!⁠
@@ -177,13 +184,6 @@ You're going to LOVE how much you learn!⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB3x3W0vSIU/) 
-
-[UTHealth Houston researchers have received an $8.1 ![UTHealth Houston researchers have received an $8.1 million grant from the National Institute of Dental and Craniofacial Research to explore how skeletal stem cells contribute to craniofacial bone diseases and deformities. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB1T8vjt9wc/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
