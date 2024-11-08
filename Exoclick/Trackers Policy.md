@@ -111,7 +111,7 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Events](https://www.exoclick.com/events/)
 ------------------------------------------
 
-* [![ExoClick is attending AW Bankok 2024](https://www.exoclick.com/wp-content/uploads/2024/10/AW-Bangkok-1-320x179.jpg)](https://www.exoclick.com/event/exoclick-is-attending-affiliate-world-bangkok-2024/)
+* [![ExoClick is attending AW Bankok 2024](https://www.exoclick.com/wp-content/uploads/2024/10/AW-Bangkok-3-320x179.jpg)](https://www.exoclick.com/event/exoclick-is-attending-affiliate-world-bangkok-2024/)
     
     ### [ExoClick is attending Affiliate World Bangkok 2024!](https://www.exoclick.com/event/exoclick-is-attending-affiliate-world-bangkok-2024/)
     
