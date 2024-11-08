@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Jones Soda Massacre](https://www.somethingawful.com/photoshop-phriday/jones-soda-flavors/1/)
-* [Rejected Beers!](https://www.somethingawful.com/photoshop-phriday/rejected-beers/1/)
 * [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [A Boring Day at the Airport](https://www.somethingawful.com/photoshop-phriday/boring-day-at/1/)
-* [Mistress Demonique](https://www.somethingawful.com/awful-links/awful-link-3404/)
+* [March 10, 2008](https://www.somethingawful.com/forum-fridays/ff03-10-08/1/)
+* [CelebAnswers Presents: The 7 Hottest Celebs Without Make Up](https://www.somethingawful.com/feature-articles/endless-slideshow-vortex/1/)
+* [Deviant Desires, LiveWire, and PoopReport](https://www.somethingawful.com/weekend-web/deviant-desires-livewire/1/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [why do people collect sports cards](http://forums.somethingawful.com/showthread.php?threadid=4074809 "why do people collect sports cards")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [post itt every time you lol that trump got reelected](http://forums.somethingawful.com/showthread.php?threadid=4074799 "post itt every time you lol that trump got reelected")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [Whats a small thing that makes you grateful to be alive?](http://forums.somethingawful.com/showthread.php?threadid=4074813 "Whats a small thing that makes you grateful to be alive?")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [canada thread - post in this thread every you lol that trump isn't our pres](http://forums.somethingawful.com/showthread.php?threadid=4074779 "canada thread - post in this thread every you lol that trump isn't our pres")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [why do people collect sports cards](http://forums.somethingawful.com/showthread.php?threadid=4074809 "why do people collect sports cards")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [Whats a small thing that makes you grateful to be alive?](http://forums.somethingawful.com/showthread.php?threadid=4074813 "Whats a small thing that makes you grateful to be alive?")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [post itt every time you lol that trump got reelected](http://forums.somethingawful.com/showthread.php?threadid=4074799 "post itt every time you lol that trump got reelected")
 
 ### Random Articles
 
-* [New Nation News](https://www.somethingawful.com/awful-links/awful-link-2194/)
-* [STEW AND BART](https://www.somethingawful.com/news/bart-and-stewie/)
-* [The Wedgemaker's Worst Nightmare](https://www.somethingawful.com/mooflogs/hotdogs-wedges-freedom/)
-* [Arlogeist's Robot Line of 2002](https://www.somethingawful.com/news/arlogeists-robot-line/)
-* [Avia Vampire Hunter](https://www.somethingawful.com/movie-reviews/avia-vampire-hunter/1/)
+* [Subj: I AM SO SORRY ABOUT YOUR OLD PET CAT !!](https://www.somethingawful.com/news/roamin-dad-6/)
+* [Alex Jones' Adventure!](https://www.somethingawful.com/photoshop-phriday/wars-of-info/)
+* [Mixed-Up Sidekicks!](https://www.somethingawful.com/photoshop-phriday/mismatched-sidekicks/1/)
+* [The Legend of Big Melon Crush](https://www.somethingawful.com/news/big-melon-crush/)
+* [WAO~](https://www.somethingawful.com/news/wao-pinball-basketball/)
 
 [Random!](https://www.somethingawful.com/random/)
 
