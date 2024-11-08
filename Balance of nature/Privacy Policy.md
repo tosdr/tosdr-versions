@@ -516,7 +516,7 @@ Company
 * [News Releases](https://www.balanceofnature.com/pages/news-releases)
 * [Consent Decree](https://www.balanceofnature.com/pages/consent-decree)
 
-\* These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.
+\*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.
 
 * [Facebook](https://www.facebook.com/balanceofnature "Balance of Nature on Facebook")
 * [Twitter](https://twitter.com/balanceofnature "Balance of Nature on Twitter")
@@ -525,4 +525,4 @@ Company
 * [Linkedin](https://www.linkedin.com/company/balance-of-nature "Balance of Nature on Linkedin")
 * [YouTube](https://www.youtube.com/user/balanceofnature1 "Balance of Nature on YouTube")
 
-© 2024, Balance of Nature
+© 2024 Balance of Nature
