@@ -1,4 +1,4 @@
-Friday, November 8 2024
+Saturday, November 9 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
