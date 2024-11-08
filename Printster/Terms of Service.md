@@ -206,7 +206,7 @@ Toggle Nav
         * [Bestselling Personalised Gifts](https://www.printster.co.uk/bestselling-personalised-gifts)
         * [Personalised Magnets](https://www.printster.co.uk/personalised-magnets.html)
         * [Personalised Keyrings](https://www.printster.co.uk/personalised-keyrings.html)
-        * [Custom Slip Mats for Record Players](https://www.printster.co.uk/custom-12-slipmat.html)
+        * [Personalised Slipmats](https://www.printster.co.uk/personalised-slipmats.html)
         * [Personalised Mouse Mats](https://www.printster.co.uk/personalised-mouse-mats.html)
         * [Personalised Face Masks](https://www.printster.co.uk/personalised-masks.html)
         * [Personalised Pet Products](https://www.printster.co.uk/personalised-pet-products.html)
