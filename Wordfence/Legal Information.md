@@ -335,8 +335,8 @@ _International Transfers of Personal Data_
 
 Whenever we transfer personal information out of the EU or UK, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
-* [European Commission Standard Contractual Clauses](https://www.wordfence.com/standard-contractual-clauses/): We may use specific contracts approved by the European Commission which give personal data the same protection it has in the EU.
-* [UK Information Commissioner’s Office International Data Transfer Agreement or International Data Transfer Addendum](https://www.wordfence.com/uk-international-data-transfer-addendum/) (where applicable)
+* European Commission Standard Contractual Clauses: We may use specific contracts approved by the European Commission which give personal data the same protection it has in the EU.
+* UK Information Commissioner’s Office International Data Transfer Agreement or International Data Transfer Addendum (where applicable)
 
 For additional information on the mechanisms used to protect your personal data, please contact us at privacy@defiant.com.
 
