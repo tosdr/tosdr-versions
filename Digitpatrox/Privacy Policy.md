@@ -20,16 +20,16 @@ Friday, November 8 2024
 
 Latest
 
-* [Microsoft Ignite 2024 – get the latest news and insights – Computerworld](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
-* [Here’s How to Fix the Bug Causing iPhone Notes to Disappear](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
-* [Vendor Spotlight: Nagios](https://digitpatrox.com/vendor-spotlight-nagios/)
-* [RevAir Hair Dryer Review – Consumer Reports](https://digitpatrox.com/revair-hair-dryer-review-consumer-reports/)
-* [Lucid Motors Gravity SUV Has 440+ Mile Range and 7 Seats](https://digitpatrox.com/lucid-motors-gravity-suv-has-440-mile-range-and-7-seats/)
-* [Which industries are leading the charge when it comes to AI innovation?](https://digitpatrox.com/which-industries-are-leading-the-charge-when-it-comes-to-ai-innovation/)
-* [7 Go to Market Strategy Templates for a Successful Launch](https://digitpatrox.com/7-go-to-market-strategy-templates-for-a-successful-launch/)
-* [It’s alive! New report says Apple Ring still in the works after all](https://digitpatrox.com/its-alive-new-report-says-apple-ring-still-in-the-works-after-all/)
-* [North Korean hackers use new macOS malware against crypto firms](https://digitpatrox.com/north-korean-hackers-use-new-macos-malware-against-crypto-firms/)
-* [The Rivian R2’s next-gen batteries will be made in the US by LG Energy](https://digitpatrox.com/the-rivian-r2s-next-gen-batteries-will-be-made-in-the-us-by-lg-energy/)
+* [IT services spending set to surge in 2025 as CIOs shift to AI partner solutions](https://digitpatrox.com/it-services-spending-set-to-surge-in-2025-as-cios-shift-to-ai-partner-solutions/)
+* [Apple is back in the server business – Computerworld](https://digitpatrox.com/apple-is-back-in-the-server-business-computerworld/)
+* [Max Is the Latest Streaming Service to Target Password Sharing](https://digitpatrox.com/max-is-the-latest-streaming-service-to-target-password-sharing/)
+* [Mazda Issues Multiple Recalls for CX-90 and CX-70 SUVs](https://digitpatrox.com/mazda-issues-multiple-recalls-for-cx-90-and-cx-70-suvs/)
+* [The Best VPNs for Android in 2024](https://digitpatrox.com/the-best-vpns-for-android-in-2024/)
+* [Dr. AI: How will artificial intelligence and other emerging technologies make for a better healthcare experience?](https://digitpatrox.com/dr-ai-how-will-artificial-intelligence-and-other-emerging-technologies-make-for-a-better-healthcare-experience/)
+* [How to Get It, and What Can It Do?](https://digitpatrox.com/how-to-get-it-and-what-can-it-do/)
+* [Samsung finally figures out a near lack of crease in the Galaxy Z Fold 6 SE](https://digitpatrox.com/samsung-finally-figures-out-a-near-lack-of-crease-in-the-galaxy-z-fold-6-se/)
+* [CISA warns of critical Palo Alto Networks bug exploited in attacks](https://digitpatrox.com/cisa-warns-of-critical-palo-alto-networks-bug-exploited-in-attacks/)
+* [Best phone 2024: the top smartphones to buy right now](https://digitpatrox.com/best-phone-2024-the-top-smartphones-to-buy-right-now/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601006-0-80782100-1731015249-shutterstock_1850894143.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/EpgLkF9hLowxLST8shybif-1200-80.jpg)](https://digitpatrox.com/it-services-spending-set-to-surge-in-2025-as-cios-shift-to-ai-partner-solutions/)
     
-    [Microsoft Ignite 2024 – get the latest news and insights – Computerworld](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
+    [IT services spending set to surge in 2025 as CIOs shift to AI partner solutions](https://digitpatrox.com/it-services-spending-set-to-surge-in-2025-as-cios-shift-to-ai-partner-solutions/)
     
-    19 mins ago
+    34 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JC490CYGGWY1EVGP4BCKDYFV/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3600953-0-55374700-1730999331-iStock-1474387288cr.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-is-back-in-the-server-business-computerworld/)
     
-    [Here’s How to Fix the Bug Causing iPhone Notes to Disappear](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
+    [Apple is back in the server business – Computerworld](https://digitpatrox.com/apple-is-back-in-the-server-business-computerworld/)
     
-    47 mins ago
+    55 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Nagios-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-nagios/)
+* [![](https://lifehacker.com/imagery/articles/01JC49HD4S69KX6X5TDJSN5HSW/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/max-is-the-latest-streaming-service-to-target-password-sharing/)
     
-    [Vendor Spotlight: Nagios](https://digitpatrox.com/vendor-spotlight-nagios/)
+    [Max Is the Latest Streaming Service to Target Password Sharing](https://digitpatrox.com/max-is-the-latest-streaming-service-to-target-password-sharing/)
     
-    53 mins ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730151351/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Revair-10-24)](https://digitpatrox.com/revair-hair-dryer-review-consumer-reports/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730814528/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Mazda-CX-90-f-driving-grille-11-4)](https://digitpatrox.com/mazda-issues-multiple-recalls-for-cx-90-and-cx-70-suvs/)
     
-    [RevAir Hair Dryer Review – Consumer Reports](https://digitpatrox.com/revair-hair-dryer-review-consumer-reports/)
+    [Mazda Issues Multiple Recalls for CX-90 and CX-70 SUVs](https://digitpatrox.com/mazda-issues-multiple-recalls-for-cx-90-and-cx-70-suvs/)
     
-    58 mins ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/lucid-motors-gravity-suv-aurora-green-metallic-color.jpg)](https://digitpatrox.com/lucid-motors-gravity-suv-has-440-mile-range-and-7-seats/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52639000765_cb05c21c90_o.jpg)](https://digitpatrox.com/the-best-vpns-for-android-in-2024/)
     
-    [Lucid Motors Gravity SUV Has 440+ Mile Range and 7 Seats](https://digitpatrox.com/lucid-motors-gravity-suv-has-440-mile-range-and-7-seats/)
+    [The Best VPNs for Android in 2024](https://digitpatrox.com/the-best-vpns-for-android-in-2024/)
     
-    59 mins ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [19 mins ago
+* [34 mins ago
     
-    ### Microsoft Ignite 2024 – get the latest news and insights – Computerworld](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
-* [47 mins ago
+    ### IT services spending set to surge in 2025 as CIOs shift to AI partner solutions](https://digitpatrox.com/it-services-spending-set-to-surge-in-2025-as-cios-shift-to-ai-partner-solutions/)
+* [55 mins ago
     
-    ### Here’s How to Fix the Bug Causing iPhone Notes to Disappear](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
-* [53 mins ago
+    ### Apple is back in the server business – Computerworld](https://digitpatrox.com/apple-is-back-in-the-server-business-computerworld/)
+* [1 hour ago
     
-    ### Vendor Spotlight: Nagios](https://digitpatrox.com/vendor-spotlight-nagios/)
+    ### Max Is the Latest Streaming Service to Target Password Sharing](https://digitpatrox.com/max-is-the-latest-streaming-service-to-target-password-sharing/)
 
 Most Popular Topics
 
-* [August 13, 2024
+* [2 weeks ago
     
-    ### Starfield: How To Join United Colonies](https://digitpatrox.com/starfield-how-to-join-united-colonies/)
-* [August 26, 2024
+    ### Snapdragon 8 Elite vs 8 Gen 3: Qualcomm’s Biggest Performance Leap](https://digitpatrox.com/snapdragon-8-elite-vs-8-gen-3-qualcomms-biggest-performance-leap/)
+* [October 7, 2024
     
-    ### HitPaw VoicePea: The Only AI Voice Changer You Need](https://digitpatrox.com/hitpaw-voicepea-the-only-ai-voice-changer-you-need/)
-* [September 21, 2024
+    ### You Can Nab a Nespresso Coffee Maker With These Early Prime Day Deals](https://digitpatrox.com/you-can-nab-a-nespresso-coffee-maker-with-these-early-prime-day-deals/)
+* [August 21, 2024
     
-    ### AI’s thirsty secret](https://digitpatrox.com/ais-thirsty-secret/)
+    ### 5 Best Hotel CRM Software for 2024](https://digitpatrox.com/5-best-hotel-crm-software-for-2024/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### 7 Go to Market Strategy Templates for a Successful Launch](https://digitpatrox.com/7-go-to-market-strategy-templates-for-a-successful-launch/)
+    ### How to Get It, and What Can It Do?](https://digitpatrox.com/how-to-get-it-and-what-can-it-do/)
 * [2 hours ago
     
-    ### It’s alive! New report says Apple Ring still in the works after all](https://digitpatrox.com/its-alive-new-report-says-apple-ring-still-in-the-works-after-all/)
-* [3 hours ago
+    ### Samsung finally figures out a near lack of crease in the Galaxy Z Fold 6 SE](https://digitpatrox.com/samsung-finally-figures-out-a-near-lack-of-crease-in-the-galaxy-z-fold-6-se/)
+* [4 hours ago
     
-    ### North Korean hackers use new macOS malware against crypto firms](https://digitpatrox.com/north-korean-hackers-use-new-macos-malware-against-crypto-firms/)
+    ### CISA warns of critical Palo Alto Networks bug exploited in attacks](https://digitpatrox.com/cisa-warns-of-critical-palo-alto-networks-bug-exploited-in-attacks/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
+* [August 12, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
