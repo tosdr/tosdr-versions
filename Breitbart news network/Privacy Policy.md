@@ -58,7 +58,7 @@
 * [Trump Landslide](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Media Meltdown](https://www.breitbart.com/the-media/)
 * [Hollywood Hate](https://www.breitbart.com/entertainment/)
-* [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
+* [Amsterdam Pogrom](https://www.breitbart.com/tag/amsterdam/)
 * [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
