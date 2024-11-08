@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Henry Venter
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=60491020)  
-Lemba Truck Stop
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=100340136)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=206505967)  
-NIMAWELL
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=39480147)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=157401955)  
-Mtunzini Group
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=141629854)  
+National Elite Security Services (PTY) LTD
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=40976034)  
-Redlum Group (Pty) Ltd
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=212368085)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=13310064)  
-Nilbet T/A Waterman
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=114357986)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=70220846)  
-Wiselink Broadband Dundee
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=122825752)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=119553952)  
-FJW Security Cc
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=44236492)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=180882623)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=207511133)  
+Tantra Sound and Lightz
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=55058246)  
-OXYAIDER (PTY) LTD
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=39246819)  
+Iurus Inc
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=202512576)  
-Moving Made Easy (PTY) Ltd
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=1644814)  
+Konsortium Operations (PTY) LTD
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=82756053)  
-Dombieterfontein (PTY) LTD
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=23574973)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=70286700)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=30643130)  
+NGB HOLDINGS PTY LTD
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=154612650)  
-Lily Fern & Co
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=102093905)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=59381539)  
-Nogana Events and Decor
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=50266491)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=163396404)  
-INVOICES/JOBCARDS ONLINE
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=155626576)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
