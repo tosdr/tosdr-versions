@@ -366,10 +366,9 @@ The following clauses apply to the data stored by Restream as data Processor whi
 
 #### Products
 
-* [Studio](https://restream.io/studio)
 * [Multistreaming](https://restream.io/multistreaming)
-* [Chat](https://restream.io/chat)
-* [Analytics](https://restream.io/analytics)
+* [Upload & Stream](https://restream.io/upload-and-stream)
+* [Studio](https://restream.io/studio)
 
 #### Community
 
