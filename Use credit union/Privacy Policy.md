@@ -9,6 +9,12 @@ BluPeak Credit Union ![BluPeak Credit Union App stars rating](https://www.blupea
 
 [Install App](https://apps.apple.com/us/app/id390555899) [Install App](https://play.google.com/store/apps/details?id=com.ifs.androidmobilebanking.fiid3265)
 
+Notice
+
+In observance of Veterans’ Day our branches will be closed Monday, November 11th.
+
+[](#)
+
 [Skip to web banking login](#js-header_login_panel)
 
 What can we help you find?
@@ -81,7 +87,6 @@ Menu
     * [Personal Loans](https://www.blupeak.com/borrow/personal-loans/)
     * [Loans for Students](https://www.blupeak.com/borrow/loans-students/)
     * [Solar Loans](https://www.blupeak.com/borrow/solar-loans/)
-    * [Commercial Real Estate](https://www.blupeak.com/commercial-real-estate/)
     
 * Plan
     
