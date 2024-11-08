@@ -381,12 +381,6 @@ Main navigation
             
             [Go to **Milkybar**](https://www.nestle.com/brands/chocolate-confectionery/milkybar)
             
-        * [Quality Street](https://www.nestle.com/brands/chocolate-confectionery/quality-street)
-            
-            [Back](# "Close Menu")
-            
-            [Go to **Quality Street**](https://www.nestle.com/brands/chocolate-confectionery/quality-street)
-            
         * [Smarties](https://www.nestle.com/brands/chocolate-confectionery/smarties)
             
             [Back](# "Close Menu")
