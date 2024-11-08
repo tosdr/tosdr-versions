@@ -3118,6 +3118,7 @@
         * [ ]  [Customer Support Department Performance Indicators](https://handbook.gitlab.com/handbook/support/performance-indicators/)
         * [ ]  [GitLab Support On-Call Guide](https://handbook.gitlab.com/handbook/support/on-call/)
         * [ ]  [Gratis Support for Prospects](https://handbook.gitlab.com/handbook/support/priority_prospects/)
+        * [ ]  [Knowledge Base](https://handbook.gitlab.com/handbook/support/knowledge-base/)
         * [ ]  [Licensing & Renewals](https://handbook.gitlab.com/handbook/support/license-and-renewals/)
             * [ ]  [AMER Licensing & Renewals Team](https://handbook.gitlab.com/handbook/support/license-and-renewals/amer-region/)
             * [ ]  [Licensing & Renewals Glossary of Terms](https://handbook.gitlab.com/handbook/support/license-and-renewals/license-and-renewals-glossary/)
