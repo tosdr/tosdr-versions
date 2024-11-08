@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Wed, Oct 30, 2024
+Fri, Nov 08, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,13 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
-    * [Ananya Panday](https://www.news18.com/movies/walker-blanco-confirms-dating-ananya-panday-in-romantic-birthday-post-i-love-you-9103672.html)
-    * [Diwali 2024](https://www.news18.com/india/diwali-2024-ram-mandir-ayodhya-deepawali-celebration-delhi-mumbai-liveblog-9103983.html)
-    * [Nawab Malik](https://www.news18.com/elections/nawab-malik-says-ajit-pawar-wanted-him-to-contest-maharashtra-election-bjp-has-right-to-oppose-me-exclusive-9103916.html)
-    * [Maharashtra Elections](https://www.news18.com/elections/)
-    * [US Elections](https://www.news18.com/elections/us-election/)
-    * [Darshan](https://www.news18.com/movies/darshan-gets-interim-bail-in-renukaswamy-murder-case-9103818.html)
+    * [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
+    * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
+    * [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
+    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
+    * [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
+    * [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +169,12 @@ Follow us on
 
 In Trends:
 
-* [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
-* [Ananya Panday](https://www.news18.com/movies/walker-blanco-confirms-dating-ananya-panday-in-romantic-birthday-post-i-love-you-9103672.html)
-* [Diwali 2024](https://www.news18.com/india/diwali-2024-ram-mandir-ayodhya-deepawali-celebration-delhi-mumbai-liveblog-9103983.html)
-* [Nawab Malik](https://www.news18.com/elections/nawab-malik-says-ajit-pawar-wanted-him-to-contest-maharashtra-election-bjp-has-right-to-oppose-me-exclusive-9103916.html)
-* [Maharashtra Elections](https://www.news18.com/elections/)
-* [US Elections](https://www.news18.com/elections/us-election/)
-* [Darshan](https://www.news18.com/movies/darshan-gets-interim-bail-in-renukaswamy-murder-case-9103818.html)
+* [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
+* [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
+* [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
+* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
+* [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
+* [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -300,7 +298,7 @@ If you have any queries regarding this Cookie Policy please contact our Data Pro
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Oct 30, 2024
+Nov 08, 2024
 
 [View All](https://www.news18.com/short-news/)
 
@@ -325,9 +323,9 @@ Latest Blogs
 
 Trending Topics
 
-* [Diwali 2024](https://www.news18.com/topics/diwali/)
-* [US Elections 2024](https://www.news18.com/topics/us-election-2024/)
+* [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
 * [Maharashtra Elections](https://www.news18.com/elections/)
+* [Diwali 2024](https://www.news18.com/topics/diwali/)
 * [Lawrence Bishnoi](https://www.news18.com/topics/lawrence-bishnoi/)
 * [Salman Khan](https://www.news18.com/topics/salman-khan/)
 * [Shraddha Kapoor](https://www.news18.com/topics/shraddha-kapoor/)
@@ -426,7 +424,7 @@ News18 App
 
  [_![app download](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "app download")_ Download Now](https://onelink.to/eng-web-other)
 
-[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
+[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf)
 
 * [About Us](https://www.news18.com/about_us/)
 * [Cookie Policy](https://www.news18.com/cookie-policy.html)
@@ -440,4 +438,4 @@ News18 App
 
 CNN name, logo and all associated elements ® and © 2024 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, displayed with permission. Use of the CNN name and/or logo on or as part of NEWS18.com does not derogate from the intellectual property rights of Cable News Network in respect of them. © Copyright Network18 Media and Investments Ltd 2024. All rights reserved.
 
-[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
+[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf)
