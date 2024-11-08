@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Would If I CouldErnest<br><br>4:40am |
-| Small Town BoyDustin Lynch<br><br>4:36am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:33am |
-| Am I OkMegan Moroney<br><br>4:29am |
-| Bigger HousesDan Shay<br><br>4:26am |
+| RumorLee Brice<br><br>10:37am |
+| Truck BedHardy<br><br>10:34am |
+| Just To See You SmileTim Mcgraw<br><br>10:31am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:27am |
+| OutskirtsSam Hunt<br><br>10:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Country • Western
 
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
