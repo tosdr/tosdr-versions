@@ -162,11 +162,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-One of the students has put in a huge amount of effort in completing Spellzone at least 3 times a week since his arrival with us in January. Looking at his scores after the latest GL testing, his standardised score has risen from 99 to 131. This is a truly phenomenal result. I just wanted to share the best result I have ever seen.
+"Spellzone is incredibly easy to access and caters for a wide range of abilities, which means you can use it throughout the school at a range of levels, making it fantastic value for money as a learning resource."
 
-**Terrie Penrose-Toms, Casterton College**
+**Anne Shisler, SENCO, City of London School for Girls**
 
-[read more...](https://www.spellzone.com/pages/case-studies/casterton-college.cfm)
+[read more...](https://www.spellzone.com/pages/case-studies/city-of-london-school.cfm)
 
 ### Curriculum...
 
