@@ -259,14 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
+[![Police investigating possible arson attack at Derry bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack at Derry bar")](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
 
-Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
+A police cordon at the Don Bar in Derry.
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police investigating possible arson attack at Derry bar](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 
@@ -277,46 +277,12 @@ Principal of Lisneal College, Michael Allen on the right
 [Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police investigating possible arson attack at Derry bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack at Derry bar")](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
-
-A police cordon at the Don Bar in Derry.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating possible arson attack at Derry bar](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman appears at Derry Magistrate's Court facing series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrate's Court facing series of charges")](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman appears at Derry Magistrate's Court facing series of charges](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![The man appeared before Letterkenny Circuit Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The man appeared before Letterkenny Circuit Court")](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
-
-The man appeared before Letterkenny Circuit Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man pleads guilty to causing death of young father in Bridgend collision](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Friday, November 8, 2024](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final")](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with serious domestic abuse offences breached bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with serious domestic abuse offences breached bail")](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
 
@@ -325,27 +291,69 @@ The man appeared before Letterkenny Circuit Court
 [Derry man charged with serious domestic abuse offences breached bail](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Five suppliers appointed to tackle blue-green algae in Lough Neagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Five suppliers appointed to tackle blue-green algae in Lough Neagh")](https://www.derrynow.com/news/local-news/1650010/five-suppliers-appointed-to-tackle-blue-green-algae-in-lough-neagh.html)
+[![xx](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "xx")](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Five suppliers appointed to tackle blue-green algae in Lough Neagh](https://www.derrynow.com/news/local-news/1650010/five-suppliers-appointed-to-tackle-blue-green-algae-in-lough-neagh.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Former Sinn Fein press officer Michael McMonagle (42) jailed for nine months at Derry Court](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Lisnagelvin police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Lisnagelvin police station")](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
+[![When and where to watch Ireland vs New Zealand | Time, TV, tickets, team news and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch Ireland vs New Zealand | Time, TV, tickets, team news and more")](https://www.derrynow.com/news/national-news/1650751/when-and-where-to-watch-ireland-vs-new-zealand-time-tv-tickets-team-news-and-more.html)
 
-Lisnagelvin police station
+Photo: Sportsfile
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Planning application for telecommunications mast in Lisnagelvin area rejected](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[When and where to watch Ireland vs New Zealand | Time, TV, tickets, team news and more](https://www.derrynow.com/news/national-news/1650751/when-and-where-to-watch-ireland-vs-new-zealand-time-tv-tickets-team-news-and-more.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![McMonagle was sentenced for series of child sex offences involving police decoys](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McMonagle was sentenced for series of child sex offences involving police decoys")](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[McMonagle sentenced for series of child sex offences involving police decoys](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Family of Derry woman killed by army denied identity of soldier who shot their mother](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Family of Derry woman killed by army denied identity of soldier who shot their mother")](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on tonight's Graham Norton Show on BBC? Here's the sofa line-up](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Memoriam - John McCready - 10th Anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre")](https://www.derrynow.com/story-telling/pictures---videos/1651090/in-pictures-gemx-interative-roadshow-visits-claudy-s-diamond-centre.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre](https://www.derrynow.com/story-telling/pictures---videos/1651090/in-pictures-gemx-interative-roadshow-visits-claudy-s-diamond-centre.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2")](https://www.derrynow.com/story-telling/pictures---videos/1646907/in-pictures-cce-baile-na-gcailleach-traditional-weekender-in-studio-2.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2](https://www.derrynow.com/story-telling/pictures---videos/1646907/in-pictures-cce-baile-na-gcailleach-traditional-weekender-in-studio-2.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final")](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
 
@@ -404,20 +412,6 @@ Steve Frazer, City of Derry airport managing director
 
 [History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Down Memory Lane: Spooktacular night for annual Banks of the Foyle Hallowe'en Carnival")](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Down Memory Lane: Spooktacular night for 2012 Banks of the Foyle Hallowe'en Carnival](https://www.derrynow.com/story-telling/pictures---videos/1648173/down-memory-lane-spooktacular-night-for-2012-banks-of-the-foyle-hallowe-en-carnival.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Dormans (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Dormans (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Dormans (2011)](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,53 +513,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![xx](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "xx")](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
+[![Blueprint for women’s safety presented to councillors following spate of Derry attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Blueprint for women’s safety presented to councillors following spate of Derry attacks")](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
+
+Officers from the PSNI’s Local Neighbourhood Policing Teams at the Top of the Hill Park area in Derry where a woman was attacked by a male with a knife (Liam McBurney/PA)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Former Sinn Fein press officer Michael McMonagle (42) jailed for nine months at Derry Court](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with serious domestic abuse offences breached bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with serious domestic abuse offences breached bail")](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with serious domestic abuse offences breached bail](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigating possible arson attack at Derry bar](https://www.derrynow.com/resizer/165/93/true/2024_11_08/IDNT_11-11-24_Don_Bar_attack-1731059444800.JPG--.JPG?1731059444826 "Police investigating possible arson attack at Derry bar")](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
-
-A police cordon at the Don Bar in Derry.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating possible arson attack at Derry bar](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Christmas events to spread festive cheer across Causeway Coast and Glens](https://www.derrynow.com/resizer/165/93/true/2024_11_07/CCGBC_CHRISTMAS_PROMO_01-1731010040327.jpg--.jpg?1731010041986 "Christmas events to spread festive cheer across Causeway Coast and Glens")](https://www.derrynow.com/news/what-s-on/1650414/christmas-events-to-spread-festive-cheer-across-causeway-coast-and-glens.html)
-
-Causeway Coast and Glens Deputy Mayor, Councillor Tanya Stirling, pictured with Santa and his elves at the launch of the Christmas Light Switch On events in the Borough.
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Christmas events to spread festive cheer across Causeway Coast and Glens](https://www.derrynow.com/news/what-s-on/1650414/christmas-events-to-spread-festive-cheer-across-causeway-coast-and-glens.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Friday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2810%29-1695307316077.jpg--.jpg?1695307316106 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
+[![Derry Memoriam - John McCready - 10th Anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Friday, November 8, 2024](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry secondary school spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/resizer/165/93/true/2015/04/16225219/michaelallenright.jpg--.jpg "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
+[![Zachary Geddis Trust delighted to feature on BBC Children in Need](https://www.derrynow.com/resizer/165/93/true/2024_11_08/CDP_-_12-11-24_-_Page_14_lead_pic-1731073206103.jpg--.jpg?1731073207312 "Zachary Geddis Trust delighted to feature on BBC Children in Need")](https://www.derrynow.com/news/home/1650981/zachary-geddis-trust-delighted-to-feature-on-bbc-children-in-need.html)
 
-Principal of Lisneal College, Michael Allen on the right
+The Little Superstars Service offers support for kids aged between five and 17.
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Home](https://www.derrynow.com/)
 
-[Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Zachary Geddis Trust delighted to feature on BBC Children in Need](https://www.derrynow.com/news/home/1650981/zachary-geddis-trust-delighted-to-feature-on-bbc-children-in-need.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![McMonagle was sentenced for series of child sex offences involving police decoys](https://www.derrynow.com/resizer/165/93/true/2024_11_08/3-1731072506020.png--.png?1731072506101 "McMonagle was sentenced for series of child sex offences involving police decoys")](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[McMonagle sentenced for series of child sex offences involving police decoys](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](https://www.derrynow.com/resizer/165/93/true/2017/06/09162530/lead4.jpg--.jpg "Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures")](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/resizer/165/93/true/2022_06_29/291400608_10161855835668642_3936822862194938760_n-1656506090982.jpg--.jpg?1656506091043 "Family of Derry woman killed by army denied identity of soldier who shot their mother")](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
