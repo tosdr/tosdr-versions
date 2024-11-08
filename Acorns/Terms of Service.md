@@ -262,7 +262,7 @@ Questions? Contact us at support@acorns.com
   
 For informational purposes only. This is solely intended to provide notification of an available product or service. This is not a recommendation to buy, sell, hold, or roll over any asset, adopt an investment strategy, or use a particular account type. This information does not consider the specific investment objectives, tax and financial conditions or particular needs of any specific person. Investors should discuss their specific situation with their financial professional.
 
-13\. **Early**, an UTMA/UGMA investment account managed by an adult custodian until the minor beneficiary comes of age, at which point they assume control of the account. Money in a custodial account is the property of the minor. 
+13\. **Early**, an UTMA/UGMA investment account managed by an adult custodian until the minor beneficiary comes of age, at which point they assume control of the account. Money in a custodial account is the property of the minor. Customers in the Gold Subscription Plan are automatically eligible for a 1% "Early Match" promotion on deposits by the Customer of up to $7,000 a year per Early Account. All funds must be held in the applicable Acorns Early Account for at least four years of the Early Match deposit date or until the beneficiary reaches the applicable Age of Transfer, whichever is earlier. The Early Match will be subject to recapture by Acorns if funds are withdrawn from the Early Account during the four year period, up to the amount for which a 1% Early Match was received. The Early Match will also be subject to recapture if a customer downgrades to a Subscription Plan with a lower monthly fee within this period.
 
 14\. **Custom Portfolios** are non-discretionary investment advisory accounts, managed by the customer. Custom Portfolios are not available as a stand alone account and clients must have an Acorns Invest account. Custom portfolios are not instant trading. Clients wanting more control over order placement and execution may need to consider alternative investment platforms before adding a Custom portfolio account.
 
@@ -286,7 +286,7 @@ For informational purposes only. This is solely intended to provide notification
   
 24\. Comparisons are based on the national average Annual Percentage Yields (APY) published in the FDIC National Rates and Rate Caps as of October 16, 2023.
 
-25\. As of September 19, 2024, Mighty Oak Checking Annual Percentage Yield (APY) is 3.00% and Emergency Fund APY is 4.52%. APY is variable and subject to change at our discretion, without prior notice. No minimum opening deposit or minimum balance required. Acorns is not a bank. Banking services provided by and Mighty Oak Debit Cards issued and provided by nbkc bank, Member FDIC, to Acorns Checking account holders that are U.S. residents over the age of eighteen (18).  
+25\. As of November 8, 2024, Mighty Oak Checking Annual Percentage Yield (APY) is 2.72% and Emergency Fund APY is 4.29%. APY is variable and subject to change at our discretion, without prior notice. No minimum opening deposit or minimum balance required. Acorns is not a bank. Banking services provided by and Mighty Oak Debit Cards issued and provided by nbkc bank, Member FDIC, to Acorns Checking account holders that are U.S. residents over the age of eighteen (18).  
 
 26. On August 21, 2024, Acorns changed the names of its Subscription Plans from "Personal," "Personal Plus," and "Premium" to "Bronze," "Silver," and "Gold." No other changes were made to the Subscription Plans at that time.
 
