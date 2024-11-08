@@ -462,7 +462,7 @@ For this data protection declaration, the data protection declaration generator 
 [](https://www.facebook.com/PDF24)  [](https://twitter.com/PDF24) [](https://www.linkedin.com/company/pdf24/)
 
 * [English](https://en.pdf24.org/en/privacy-policy)
-* [German](https://en.pdf24.org/de/privacy-policy)
+* [German](https://en.pdf24.org/de/datenschutz)
 
 [www.pdf24.org](https://en.pdf24.org/)
 
