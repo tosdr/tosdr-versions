@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2409 reviews (2409)
+2410 reviews (2410)
 
 $28.00 $28.00
 
@@ -428,7 +428,7 @@ ADD TO TOTE
 
 ### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
 
-1419 reviews (1419)
+1420 reviews (1420)
 
 $58.00
 
