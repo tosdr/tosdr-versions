@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![A Virus Called Fear](/wp-content/thumbnails/6608-100x70.png?x53432)
+* [![Bassweight: A Dubstep Documentary](/wp-content/thumbnails/5621-100x70.jpg?x53432)
     
-    A Virus Called Fear
+    Bassweight: A Dubstep Documentary
     
-    Fear is apparently a universal emotion; all persons, consciously or unconsciously, have fear in some sort. In short, fear is the ability to recognize danger leading to an urge to confront it or flee](https://documentaryheaven.com/a-virus-called-fear/ "A Virus Called Fear")
-* [![Boy Interrupted](/wp-content/thumbnails/10322-100x70.jpg?x53432)
+    BASSWEIGHT is a feature length documentary that offers an unparalleled insight into the subterranean world of Dubstep. Charting the genre's growth from its obscure origins in south London to global re](https://documentaryheaven.com/bassweight-a-dubstep-documentary/ "Bassweight: A Dubstep Documentary")
+* [![How the Rich Beat the Taxman](/wp-content/thumbnails/6346-100x70.jpg?x53432)
     
-    Boy Interrupted
+    How the Rich Beat the Taxman
     
-    Boy Interrupted is a HBO film that examines the life of Evan Perry a 15 year old boy from New York who took his own life in 2005. This film which was made by his parents Dana and Hart looks at how Eva](https://documentaryheaven.com/boy-interrupted/ "Boy Interrupted")
-* [![Crash: How Long Will It Last?](/wp-content/thumbnails/5494-100x70.jpg?x53432)
+    How do the rich avoid paying tax and protect their fortunes? Dispatches reveals the clever devices they use.With more than 20 millionaires in the cabinet, reporter Antony Barnett examines the fina](https://documentaryheaven.com/how-the-rich-beat-the-taxman/ "How the Rich Beat the Taxman")
+* [![The Day Hitler Died](/wp-content/thumbnails/11935-100x70.jpg?x53432)
     
-    Crash: How Long Will It Last?
+    The Day Hitler Died
     
-    In the second half of this special two-part Dispatches, economist and author Will Hutton continues the definitive insider’s account of how Britain’s economy went from boom to bust.Hutton reveals h](https://documentaryheaven.com/crash-how-long-will-it-last/ "Crash: How Long Will It Last?")
-* [![The Missing Link](/wp-content/thumbnails/7093-100x70.jpg?x53432)
+    As the Russian and Allied forces began to surround Berlin in 1945, Adolf Hitler took refuge in a bunker located below the crumbling city. He had plunged the world into total war with the dream of foun](https://documentaryheaven.com/day-hitler-died/ "The Day Hitler Died")
+* [![The Trap](/wp-content/thumbnails/14058-100x70.jpg?x53432)
     
-    The Missing Link
+    The Trap
     
-    Last year the discovery of a tiny fossilised jawbone hit the headlines. The jawbone, only a few centimetres long with seven rows of teeth, was found abandoned in a dusty museum where it had lain unnot](https://documentaryheaven.com/the-missing-link/ "The Missing Link")
-* [![Exposure Update: The Jimmy Savile Investigation](/wp-content/thumbnails/8700-100x70.jpg?x53432)
+    Human trafficking takes on many different forms but is defined by exploitation, it often doesn't involve criminal gangs or people being transported across borders. These trafficking operations can be](https://documentaryheaven.com/trap/ "The Trap")
+* [![Ross Kemp: Battle for the Amazon](/wp-content/thumbnails/3369-100x70.jpg?x53432)
     
-    Exposure Update: The Jimmy Savile Investigation
+    Ross Kemp: Battle for the Amazon
     
-    After ITV released their documentary "The Other Side of Jimmy Savile", they received a huge response which lead to more people coming forward with stories of abuse committed by Savile. This lead to a](https://documentaryheaven.com/exposure-update-jimmy-savile-investigation/ "Exposure Update: The Jimmy Savile Investigation")
+    Ross Kemp - Battle For The Amazon will look into the socio-economic and environmental pressures facing the Amazon regions of Brazil and Ecuador. The shows will explore the legacy of devastation create](https://documentaryheaven.com/battle-for-the-amazon/ "Ross Kemp: Battle for the Amazon")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
