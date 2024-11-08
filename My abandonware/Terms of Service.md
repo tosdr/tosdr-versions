@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Rock n' Bolt](https://www.myabandonware.com/game/rock-n-bolt-53c)
-* [Q\*bert](https://www.myabandonware.com/game/q-bert-3b8)
-* [The Castle](https://www.myabandonware.com/game/the-castle-7y7)
-* [Lode Runner](https://www.myabandonware.com/game/lode-runner-xt)
-* [James Bond 007](https://www.myabandonware.com/game/james-bond-007-5th)
+* [Capcom vs. SNK 2: Mark of the Millennium](https://www.myabandonware.com/game/capcom-vs-snk-2-mark-of-the-millennium-t8m)
+* [Capcom Fighting Evolution](https://www.myabandonware.com/game/capcom-fighting-evolution-t8l)
+* [DDRMAX 2: Dance Dance Revolution](https://www.myabandonware.com/game/ddrmax-2-dance-dance-revolution-t8k)
+* [Border Down](https://www.myabandonware.com/game/border-down-t8j)
+* [Evil Night](https://www.myabandonware.com/game/evil-night-t8i)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Virtual Karting](https://www.myabandonware.com/game/virtual-karting-7gg)
-* [Pipeline](https://www.myabandonware.com/game/pipeline-ohg)
-* [Darwin 4078](https://www.myabandonware.com/game/darwin-4078-qrk)
+* [Troubadours](https://www.myabandonware.com/game/troubadours-hli)
+* [U-boat](https://www.myabandonware.com/game/u-boat-o3h)
+* [Alias Underground Episode 5: Turkish Embassy - CIA Countermission](https://www.myabandonware.com/game/alias-underground-episode-5-turkish-embassy-cia-countermission-o1p)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
