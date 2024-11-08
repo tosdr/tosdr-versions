@@ -23,6 +23,7 @@ International Arcade Museum® — Killer List of Videogames®
         * [Vending](https://www.arcade-museum.com/game-list/A/Vending)
         * [Unknown](https://www.arcade-museum.com/game-list/A/Unknown)
     * [List by Manufacturers (A-Z)](https://www.arcade-museum.com/companies/0)
+    * [List by Years](https://www.arcade-museum.com/decade/1970/All)
     * [Flyers](#)
         * [The Arcade Flyer Archive (TAFA)](https://flyers.arcade-museum.com/)
         * [Arcade Machine Flyers](https://flyers.arcade-museum.com/arcades/list)
