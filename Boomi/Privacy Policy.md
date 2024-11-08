@@ -704,7 +704,7 @@ Boomi also works with third party advertising and personalization partners that 
 
 Similarly, third parties use cookies to deliver advertising for companies other than Boomi to you on the Internet, based on your visits to our Website and other websites, and to measure the effectiveness of those advertising campaigns. These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page.
 
-To enable you to opt-out of interest-based advertising delivered by partners working with Boomi, or to customize your experience on our Website, please click [here](https://boomi.com/privacy/?showPreferences=true) to Manage Cookies.
+To enable you to opt-out of interest-based advertising delivered by partners working with Boomi, or to customize your experience on our Website, please click here to Manage Cookies.
 
 If you opt-out, you may still see Boomi ads on our Website and other websites, but those ads will not be customized to you by Boomi or our partners.
 
