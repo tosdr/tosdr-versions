@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Scholastic editor, Arthur Levine, suggested changing the title from “Harry Potter and the Philosopher’s Stone” to “Harry Potter and the School of Magic” so as not to confuse American readers.
+Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
 
 ### Potter History
 
-June 30, 2004 – Harry Potter and the Prisoner of Azkaban DVD release date is announced for November 23, 2004.
+July 18, 2007 – The New York Times posts an early review of Harry Potter and the Deathly Hallows, which sets off fury among fans.
 
 ### Potter Quote
 
-“Fear of a name increases fear of the thing itself.”
+“Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.”
 
 [](#)
 
