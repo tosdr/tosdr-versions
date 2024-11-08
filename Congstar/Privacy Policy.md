@@ -26,7 +26,7 @@
     
     * [Für Bestandskund\*innen](#)
         * [Zweit- und Partnerkarte](https://www.congstar.de/partnerkarte/)
-        * [Prepaid-Angebote](https://www.congstar.de/prepaid/treueangebot/)
+        * [Prepaid Treuevorteil](https://www.congstar.de/prepaid/treueangebot/)
         * [Freund\*innen werben und sparen](https://www.congstar.de/freundeskreis/)
     
 * [Mobilfunk](https://www.congstar.de/handytarife/)
