@@ -547,8 +547,6 @@ or
 
 [Press](https://www.honeypot.io/en/about/#press)
 
-[Careers](https://www.new-work.se/de/karriere/jobs)
-
 [FAQ](https://www.honeypot.io/en/faq/)
 
 [Legal notice](https://www.honeypot.io/en/legal_notice/)
@@ -559,19 +557,9 @@ or
 
 [Terms of Service](https://www.honeypot.io/en/terms_of_service/)
 
-[Community](https://www.honeypot.io/en/community/)
-
-[GraphQL Conf](https://graphqlconf.org/)
-
 We're social, too!
 
-[Twitter](https://twitter.com/honeypotio)
-
-[Facebook](https://www.facebook.com/Honeypotio)
-
 [LinkedIn](https://www.linkedin.com/company/honeypotio/)
-
-[Github](https://github.com/honeypotio)
 
 [Instagram](https://www.instagram.com/honeypot.cult)
 
