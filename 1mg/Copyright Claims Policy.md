@@ -1063,20 +1063,23 @@ QUICK BUY! Get 15% off on medicines\*
     * [Quinoa](https://www.1mg.com/categories/healthy-snacks/quinoa-3078)
     * [Other Snacks](https://www.1mg.com/categories/healthy-snacks/other-snacks-3112)
     
-* [Diabetes](https://www.1mg.com/categories/diabetes-1)
-    
-    * [Blood Glucose Monitors](https://www.1mg.com/categories/diabetes/blood-glucose-monitors-151)
-    * [Test Strips & Lancets](https://www.1mg.com/categories/diabetes/test-strips-lancets-169)
-    * [Sugar Substitutes](https://www.1mg.com/categories/diabetes/sugar-substitutes-149)
-    * [Diabetic Footwear](https://www.1mg.com/categories/diabetes/diabetic-footwear-415)
-    * [Juices & Vinegars](https://www.1mg.com/categories/diabetes/juices-vinegars-578)
-    
 * [Immunity Boosters](https://www.1mg.com/categories/immunity-boosters-142)
     
     * [Chyawanparash](https://www.1mg.com/categories/immunity-boosters/chyawanparash-248)
     * [Antioxidant Supplements](https://www.1mg.com/categories/immunity-boosters/antioxidant-supplements-249)
     * [Ayurvedic Supplements](https://www.1mg.com/categories/immunity-boosters/ayurvedic-supplements-250)
     * [Herbal Tea](https://www.1mg.com/categories/immunity-boosters/herbal-tea-821)
+    
+* [Feminine Care](https://www.1mg.com/categories/feminine-care-156)
+    
+    * [Sanitary Pads](https://www.1mg.com/categories/feminine-care/sanitary-pads-681)
+    * [Breast Pumps](https://www.1mg.com/categories/feminine-care/breast-pumps-402)
+    * [Hair Removal](https://www.1mg.com/categories/feminine-care/hair-removal-233)
+    * [Intimate Wash & Wipes](https://www.1mg.com/categories/feminine-care/intimate-wash-wipes-236)
+    * [Toilet Sanitaries](https://www.1mg.com/categories/feminine-care/toilet-sanitaries-66)
+    * [Menstrual Cup & Tampons](https://www.1mg.com/categories/feminine-care/menstrual-cup-tampons-3072)
+    * [Tampons](https://www.1mg.com/categories/feminine-care/menstrual-cup-tampons/tampons-574)
+    * [Menstrual Cups](https://www.1mg.com/categories/feminine-care/menstrual-cup-tampons/menstrual-cups-573)
     
 
 last updated June 2021
