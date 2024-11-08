@@ -245,7 +245,6 @@ Menu
     ### Food
     
     * [Chocolate & Sweets](https://www.moonpig.com/uk/gifts/food/chocolate-sweets/)
-    * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/)
     * [Biscuits](https://www.moonpig.com/uk/gifts/food/biscuits/)
     * [Hampers](https://www.moonpig.com/uk/gifts/hampers/)
     * [Gift Sets](https://www.moonpig.com/uk/gifts/food-drink/giftsets/)
@@ -279,6 +278,21 @@ Menu
     * [£20-£40](https://www.moonpig.com/uk/gifts/food-drink/20-40/)
     * [£40-£60](https://www.moonpig.com/uk/gifts/food-drink/40-60/)
     * [Premium](https://www.moonpig.com/uk/gifts/food-drink/premium/)
+    
+    ### Our Top Brands
+    
+    * [Cadbury](https://www.moonpig.com/uk/gifts/food/cadbury/)
+    * [Cartwright & Butler](https://www.moonpig.com/uk/gifts/food/cartwright-butler/)
+    * [Freixenet](https://www.moonpig.com/uk/gifts/alcohol/freixenet/)
+    * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/)
+    * [Lanson](https://www.moonpig.com/uk/gifts/alcohol/lanson/)
+    * [Laurent Perrier](https://www.moonpig.com/uk/gifts/alcohol/champagne/laurent-perrier/)
+    * [Lindt](https://www.moonpig.com/uk/gifts/food/lindt-chocolate/)
+    * [Maltesers & M&M's](https://www.moonpig.com/uk/gifts/mars/)
+    * [Moët & Chandon](https://www.moonpig.com/uk/gifts/alcohol/champagne/moet-chandon/)
+    * [Toblerone](https://www.moonpig.com/uk/gifts/food/chocolate/toblerone/)
+    * [Veuve Cliquot](https://www.moonpig.com/uk/gifts/alcohol/veuve-cliquot/)
+    * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/)
     
 * Open Experiences dropdown[![Experiences](https://static.web-explore.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
     
