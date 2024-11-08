@@ -2,7 +2,9 @@
 
 [Skip to content](#content)
 
-[![](https://uwncnm.org/wp-content/uploads/2022/12/UWNCNM_logo_vertical_counties-400.jpg)](https://uwncnm.org/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20335'%3E%3C/svg%3E)
+
+![](https://uwncnm.org/wp-content/uploads/2022/12/UWNCNM_logo_vertical_counties-400.jpg)](https://uwncnm.org/)
 
 * [Who We Are](https://uwncnm.org/who-we-are/)
     * [About Us](https://uwncnm.org/about-us/)
