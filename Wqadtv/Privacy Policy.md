@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_360x203.jpg)](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ab763b33-17f3-4e9c-a34d-138388642553/20241108T012012/ab763b33-17f3-4e9c-a34d-138388642553_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ab763b33-17f3-4e9c-a34d-138388642553/20241108T012012/ab763b33-17f3-4e9c-a34d-138388642553_360x203.jpg)](https://www.wqad.com/article/news/crime/police-chase-kewanee-illinois-suspect-attempted-first-degree-murder-arson/526-984e6f85-98ac-4f5f-8ac4-61a3f5074f77)
         
-        #### [2 teens charged with attempted murder following Davenport shooting](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341) [![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_360x203.jpg)](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
+        #### [Police: Kewanee man breaks into neighbor's home and flees police before being arrested](https://www.wqad.com/article/news/crime/police-chase-kewanee-illinois-suspect-attempted-first-degree-murder-arson/526-984e6f85-98ac-4f5f-8ac4-61a3f5074f77)
         
-        #### [2 teens arrested, charged with attempted murder in Davenport shooting](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341) [![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8ab73ae-d931-459b-8b6d-016abadc305b/20241107T221758/d8ab73ae-d931-459b-8b6d-016abadc305b_360x203.jpg)](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_360x203.jpg)](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
         
-        #### [2 Davenport teenagers charged with attempted murder in connection to point-blank shooting](https://www.wqad.com/article/news/crime/attempted-murder-charges-davenport-iowa-teens/526-133687f9-be9f-43a5-a275-4a10be51c341)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac/c20f9ea1-ec10-4c93-9d62-2b03ab7d54ac_360x203.jpg)](https://www.wqad.com/article/news/local/karen-plambeck-animal-cruelty-case-sentencing-mercer-county-illinois/526-df3a7c7a-2581-4810-ba99-7e2872568239)
-        
-        #### [Karen Plambeck sentenced to pay nearly $200K, spend 270 days in jail in animal cruelty case](https://www.wqad.com/article/news/local/karen-plambeck-animal-cruelty-case-sentencing-mercer-county-illinois/526-df3a7c7a-2581-4810-ba99-7e2872568239)
+        #### [Carroll County Sheriff's Office releases statement about death of Jackson Kradle](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/10b72e22-34da-4e05-9398-eac9d4a45330/20241107T131602/10b72e22-34da-4e05-9398-eac9d4a45330_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5934864a-54aa-4a58-b178-c8294aa77d44/20241107T222306/5934864a-54aa-4a58-b178-c8294aa77d44_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5934864a-54aa-4a58-b178-c8294aa77d44/20241107T222306/5934864a-54aa-4a58-b178-c8294aa77d44_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Bright skies to continue through Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_16x9.jpg) ![](https://media.tegna-media.com/assets/WFMY/images/c4e6519c-ae99-40ff-b9a4-91ab231c7245/c4e6519c-ae99-40ff-b9a4-91ab231c7245_360x203.jpg)](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba/20241107T211847/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba/20241107T211847/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba_360x203.jpg)](https://www.wqad.com/article/weather/des-moines-new-mexico-snow-winter-forecast/524-f4fc91cf-fe45-4c34-9a91-aab19e280fcd)
         
-        #### [Fog develops across eastern Iowa, western Illinois](https://www.wqad.com/article/weather/fog-iowa-illinois/526-0590737b-11ea-4254-9399-0049725adaa6)
+        #### [Des Moines, but not the one you think, hit with Blizzard Warning](https://www.wqad.com/article/weather/des-moines-new-mexico-snow-winter-forecast/524-f4fc91cf-fe45-4c34-9a91-aab19e280fcd)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -89,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-54°
+41°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
