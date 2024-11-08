@@ -157,7 +157,7 @@ YOUR OFFERS
     
     [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM.png?v=1731009482&width=720)](https://www.aventon.com/collections/sale)
     
 * [EQUIPMENT](https://www.aventon.com/collections/all-equipment)
     
@@ -460,7 +460,7 @@ Open menu
         
         Lightweight City Ebike](https://www.aventon.com/collections/ebikes?constraint=__soltera)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM.png?v=1731009482&width=720)](https://www.aventon.com/collections/sale)
     
 * [EQUIPMENT](javascript:void(0))
     
@@ -515,7 +515,7 @@ Open menu
     * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
     * [Wheels & Tires](https://www.aventon.com/collections/wheels)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM.png?v=1731009482&width=720)](https://www.aventon.com/collections/sale)
     
 * [BLACK FRIDAY SALE](https://www.aventon.com/collections/ebikes)
 
