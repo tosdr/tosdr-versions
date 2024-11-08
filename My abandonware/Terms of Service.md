@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Demon Attack](https://www.myabandonware.com/game/demon-attack-4tb)
+* [Atlantis](https://www.myabandonware.com/game/atlantis-74a)
+* [Frogger](https://www.myabandonware.com/game/frogger-7)
 * [Big Buck Hunter](https://www.myabandonware.com/game/big-buck-hunter-t91)
 * [Big Buck Hunter: Shooter's Challenge](https://www.myabandonware.com/game/big-buck-hunter-shooter-s-challenge-t90)
-* [Big Buck Hunter II: Sportsman's Paradise](https://www.myabandonware.com/game/big-buck-hunter-ii-sportsman-s-paradise-t8z)
-* [Beach Spikers: Virtua Beach Volleyball](https://www.myabandonware.com/game/beach-spikers-virtua-beach-volleyball-t8y)
-* [Battle Tryst](https://www.myabandonware.com/game/battle-tryst-t8x)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
