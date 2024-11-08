@@ -43,14 +43,12 @@ A cookie is a small text file sent to your device by a web server that enables t
 * Email (in a hashed or encrypted form)
 
 Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoic’s partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
 
-[Privacy Policy](https://www.ezoic.com/privacy-policy/advertising-partners/)
-============================================================================
+Privacy Policy
+==============
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[* * *
+* * *
 
 **StarShips.com** operates the https://starships.com website, which provides the SERVICE.
 
@@ -111,11 +109,9 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 Contact Us
 ----------
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[![Captain Brad](https://starships.com/wp-content/uploads/about-resized.jpg "author")
+![Captain Brad](https://starships.com/wp-content/uploads/about-resized.jpg "author")
 
 ![Captain Brad](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20217'%3E%3Crect%20width='300'%20height='217'%20style='fill:%23e3e3e3'/%3E%3C/svg%3E "author")
 
@@ -126,28 +122,18 @@ I am your guide through this universe. Please enjoy the ride through space, buck
 
 #### Legal Disclosure
 
-This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We are compensated for referring traffic and business to Amazon and other companies linked to on this site. We have no relation Star Wars(c), Star Trek(c), Brands. Images are licensed/used in fair use](https://www.ezoic.com/privacy-policy/advertising-partners/)
+This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We are compensated for referring traffic and business to Amazon and other companies linked to on this site. We have no relation Star Wars(c), Star Trek(c), Brands. Images are licensed/used in fair use
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+* * *
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+Search
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+* * *
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+### Resources
 
-[* * *
-
-Search](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[* * *](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[### Resources](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)* [[About Us](https://starships.com/about-us/)](https://www.ezoic.com/privacy-policy/advertising-partners/)
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)* [](https://www.ezoic.com/privacy-policy/advertising-partners/)[Contact](https://starships.com/contact/)
+* [About Us](https://starships.com/about-us/)
+* [Contact](https://starships.com/contact/)
 * [Press Kit](https://www.starships.com/direct-sales.html)
 * [Terms & Conditions](https://starships.com/terms-conditions/)
 * [Privacy Policy](https://starships.com/privacy-policy/)
