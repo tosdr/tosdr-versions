@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-17271ed65cac1c3dcebf148ae0fad74c
+45e56d8b60fc24264253c0c21f1a96f1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![16 mm light blue heart beads](https://www.sojourner.biz/images/cache/glass/HRT024.200.jpg)](https://www.sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
+[![Faceted opal clasp](https://www.sojourner.biz/images/cache/SKU0130variations.200.jpg)](https://www.sojourner.biz/clasps/faux-stone/faceted-opal-clasp.html "Faceted opal clasp")
 
-#### [16 mm light blue heart beads](https://www.sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
+#### [Faceted opal clasp](https://www.sojourner.biz/clasps/faux-stone/faceted-opal-clasp.html "Faceted opal clasp")
 
-$6.00
+$29.00
 
 ### Best Sellers
 
