@@ -49,14 +49,14 @@ Main menu
         
         Icon calendar 30 October 2024
         
-        Proof
+        Final
         
     * [**Legislative Assembly**  
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28210)
         
         Icon calendar 30 October 2024
         
-        Proof
+        Final
         
     
 * [Get involved](https://parliament.vic.gov.au/get-involved/)Expand Get involved
