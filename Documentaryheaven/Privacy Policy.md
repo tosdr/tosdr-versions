@@ -123,44 +123,44 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 
 ###### Throwback Documentaries
 
-* [![Keith: Father, Trainer, Wrestler](/wp-content/thumbnails/8097-100x70.jpg?x53432)
+* [![A Virus Called Fear](/wp-content/thumbnails/6608-100x70.png?x53432)
     
-    Keith: Father, Trainer, Wrestler
+    A Virus Called Fear
     
-    Winner of a Regional Royal Television Society Award. Keith is a thirty minute human interest documentary about Keith Myatt, a professional wrestler for over twenty years whose career goal is to partic](https://documentaryheaven.com/keith-father-trainer-wrestler/ "Keith: Father, Trainer, Wrestler")
-* [![Bridal Slaves](/wp-content/thumbnails/7104-100x70.jpg?x53432)
+    Fear is apparently a universal emotion; all persons, consciously or unconsciously, have fear in some sort. In short, fear is the ability to recognize danger leading to an urge to confront it or flee](https://documentaryheaven.com/a-virus-called-fear/ "A Virus Called Fear")
+* [![Boy Interrupted](/wp-content/thumbnails/10322-100x70.jpg?x53432)
     
-    Bridal Slaves
+    Boy Interrupted
     
-    In the midst of widespread poverty, fueled by economic inequality and rampant corruption, a new form of slavery - bridal slavery - has flourished in India. Women and young girls are sold for as little](https://documentaryheaven.com/bridal-slaves/ "Bridal Slaves")
-* [![Blanketmen](/wp-content/thumbnails/6498-100x70.jpg?x53432)
+    Boy Interrupted is a HBO film that examines the life of Evan Perry a 15 year old boy from New York who took his own life in 2005. This film which was made by his parents Dana and Hart looks at how Eva](https://documentaryheaven.com/boy-interrupted/ "Boy Interrupted")
+* [![Crash: How Long Will It Last?](/wp-content/thumbnails/5494-100x70.jpg?x53432)
     
-    Blanketmen
+    Crash: How Long Will It Last?
     
-    A documentary focusing on the morale of Irish Republican prisoners during the tumultuous period of the 1976-81 H-Block prison protest which culminated in the deaths of 10 men on hunger strike.In h](https://documentaryheaven.com/blanketmen/ "Blanketmen")
-* [![War Photographer](/wp-content/thumbnails/1557-100x70.jpg?x53432)
+    In the second half of this special two-part Dispatches, economist and author Will Hutton continues the definitive insider’s account of how Britain’s economy went from boom to bust.Hutton reveals h](https://documentaryheaven.com/crash-how-long-will-it-last/ "Crash: How Long Will It Last?")
+* [![The Missing Link](/wp-content/thumbnails/7093-100x70.jpg?x53432)
     
-    War Photographer
+    The Missing Link
     
-    A film about the American photographer James Nachtwey, about his motivation, his fears and his daily routine as a war photographer. If we believe Hollywood pictures, war photographers are all hard-boi](https://documentaryheaven.com/war-photographer/ "War Photographer")
-* [![A Brief History of Time](/wp-content/thumbnails/357-100x70.png?x53432)
+    Last year the discovery of a tiny fossilised jawbone hit the headlines. The jawbone, only a few centimetres long with seven rows of teeth, was found abandoned in a dusty museum where it had lain unnot](https://documentaryheaven.com/the-missing-link/ "The Missing Link")
+* [![Exposure Update: The Jimmy Savile Investigation](/wp-content/thumbnails/8700-100x70.jpg?x53432)
     
-    A Brief History of Time
+    Exposure Update: The Jimmy Savile Investigation
     
-    The movie about Stephen Hawking’s ideas from his book titled the same and abut his life. A Brief History of Time attempts to explain a range of subjects in cosmology, including the Big Bang, black hol](https://documentaryheaven.com/a-brief-history-of-time/ "A Brief History of Time")
+    After ITV released their documentary "The Other Side of Jimmy Savile", they received a huge response which lead to more people coming forward with stories of abuse committed by Savile. This lead to a](https://documentaryheaven.com/exposure-update-jimmy-savile-investigation/ "Exposure Update: The Jimmy Savile Investigation")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
