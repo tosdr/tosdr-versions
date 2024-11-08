@@ -1,7 +1,7 @@
 Terms of Use
 ------------
 
-**Last Updated: October 4th, 2024**
+**Last Updated: November 6th, 2024**
 
 Each DealDash auction is sponsored by DealDash and DealDash's brand partners, and is no way sponsored, enforced, or administered by, or associated with, Apple, Inc.
 
@@ -234,9 +234,9 @@ You may cancel your contract within 30 days in written notice (e.g. letter, e-ma
 The 30 day period begins when the item is received. Receipt can be e-mail receipt to the e-mail address provided to DealDash below. Cancellation is to be sent to the following address:
 
 DealDash Inc  
-11670 Fountains Drive  
-Suite 200  
-Maple Grove, MN 55369  
+2042 Wooddale Drive  
+Suite 250  
+Woodbury, MN 55125  
 E-Mail: [\[email protected\]](https://www.dealdash.com/cdn-cgi/l/email-protection)
 
 23. **Consequences of Cancellation**
@@ -345,7 +345,7 @@ You understand and agree no waiver by DealDash of any term or condition set fort
 
 To you. DealDash may provide any notice to you under these Terms by: (i) sending a message to the email address you provide, or (ii) by posting to the Service. Notices sent by email will be effective when DealDash sends the email and notices DealDash provides by posting will be effective upon posting. It is your responsibility to keep your email address current.
 
-To DealDash. You must contact DealDash as follows: (i) by personal delivery, overnight courier or registered or certified mail to DealDash Inc., 11670 Fountains Drive Suite 200, Maple Grove, MN 55369; or (ii) by email at [\[email protected\]](https://www.dealdash.com/cdn-cgi/l/email-protection). DealDash may update its addresses for notices by posting a notice on the Service. Notices provided by personal delivery will be effective immediately. Notices provided by overnight courier or email will be effective one business day after they are sent. Notices provided by registered or certified mail will be effective three business days after they are sent.
+To DealDash. You must contact DealDash as follows: (i) by personal delivery, overnight courier or registered or certified mail to DealDash Inc., 042 Wooddale Drive Suite 250, Woodbury, MN 55125; or (ii) by email at [\[email protected\]](https://www.dealdash.com/cdn-cgi/l/email-protection). DealDash may update its addresses for notices by posting a notice on the Service. Notices provided by personal delivery will be effective immediately. Notices provided by overnight courier or email will be effective one business day after they are sent. Notices provided by registered or certified mail will be effective three business days after they are sent.
 
 43. **Entire Agreement**
 
