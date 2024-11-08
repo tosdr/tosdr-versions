@@ -1,4 +1,4 @@
-be\_ixf;ym\_202411 d\_07; ct\_200
+be\_ixf;ym\_202411 d\_07; ct\_150
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://levelblue.com/terms/website
