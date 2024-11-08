@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Romeo-Holloway-re-326x245.jpg)](https://cwbchicago.com/2024/11/second-man-charged-with-trying-to-rob-corrections-officer-in-west-loop-engaging-in-shootout.html "Second man charged with trying to rob corrections officer in West Loop, engaging in shootout")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jerome-Jackson-and-Bryant-Robinson-326x245.jpg)](https://cwbchicago.com/2024/11/2-men-went-on-nighttime-robbery-spree-from-79th-street-to-the-north-side-prosecutors-say-one-was-wearing-an-ankle-monitor.html "2  men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.")
 
-West Loop
+CTA
 
-### [Second man charged with trying to rob corrections officer in West Loop, engaging in shootout](https://cwbchicago.com/2024/11/second-man-charged-with-trying-to-rob-corrections-officer-in-west-loop-engaging-in-shootout.html "Second man charged with trying to rob corrections officer in West Loop, engaging in shootout")
+### [2 men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.](https://cwbchicago.com/2024/11/2-men-went-on-nighttime-robbery-spree-from-79th-street-to-the-north-side-prosecutors-say-one-was-wearing-an-ankle-monitor.html "2  men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.")
 
-[November 4, 2024 6:10 PM](https://cwbchicago.com/2024/11)
+[November 5, 2024 11:11 AM](https://cwbchicago.com/2024/11)
 
-A second man has been charged in connection with the attempted robbery of an off-duty correctional worker that evolved into a shootout last month in the West Loop. And, like his alleged accomplice, Romeo Holloway was on parole at the time of the crime.[](https://cwbchicago.com/2024/11/second-man-charged-with-trying-to-rob-corrections-officer-in-west-loop-engaging-in-shootout.html "Second man charged with trying to rob corrections officer in West Loop, engaging in shootout")
+CHICAGO — Two men, including one who was supposed to be home on electronic monitoring, went on a crosstown robbery spree, mugging victims from 79th Street to Lakeview and Uptown before finally being arrested at the Addison Red Line station, officials said. Bryant Robinson and Jerome Jackson, both 20, are each charged with four counts[](https://cwbchicago.com/2024/11/2-men-went-on-nighttime-robbery-spree-from-79th-street-to-the-north-side-prosecutors-say-one-was-wearing-an-ankle-monitor.html "2  men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Raheen-Thompson-326x245.jpg)](https://cwbchicago.com/2024/11/prosecutors-charge-man-with-murdering-acquaintance-while-on-bail-for-a-felony-gun-case.html "Prosecutors charge man with murdering acquaintance while on bail for a felony gun case")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Flag-CFD-326x245.jpg)](https://cwbchicago.com/2024/11/cpd-officer-is-murdered-on-duty-2-detained.html "CPD officer is murdered on duty, 2 detained")
 
-Englewood
+Chatham
 
-### [Prosecutors charge man with murdering acquaintance while on bail for a felony gun case](https://cwbchicago.com/2024/11/prosecutors-charge-man-with-murdering-acquaintance-while-on-bail-for-a-felony-gun-case.html "Prosecutors charge man with murdering acquaintance while on bail for a felony gun case")
+### [CPD officer is murdered on duty, 2 detained](https://cwbchicago.com/2024/11/cpd-officer-is-murdered-on-duty-2-detained.html "CPD officer is murdered on duty, 2 detained")
 
-[November 4, 2024 7:53 AM](https://cwbchicago.com/2024/11)
+[November 5, 2024 6:22 AM](https://cwbchicago.com/2024/11)
 
-Prosecutors have charged an Evergreen Park man with murder, saying he fatally shot the victim last year while on pretrial release for a pending gun case.[](https://cwbchicago.com/2024/11/prosecutors-charge-man-with-murdering-acquaintance-while-on-bail-for-a-felony-gun-case.html "Prosecutors charge man with murdering acquaintance while on bail for a felony gun case")
+A Chicago police officer was shot and killed by machine gun fire while conducting an investigation in the Chatham neighborhood Monday evening.[](https://cwbchicago.com/2024/11/cpd-officer-is-murdered-on-duty-2-detained.html "CPD officer is murdered on duty, 2 detained")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/BB12-326x245.jpg)](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Emmanuel-Wilson-and-hellcatloki-326x245.jpg)](https://cwbchicago.com/2024/11/flamethrower-guns-recovered-as-chicago-cops-bust-street-takeover-report.html "Flamethrower, guns recovered as Chicago cops bust street takeover: report")
 
-Chicago Lawn
+Gage Park
 
-### [Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
+### [Flamethrower, guns recovered as Chicago cops bust street takeover: report](https://cwbchicago.com/2024/11/flamethrower-guns-recovered-as-chicago-cops-bust-street-takeover-report.html "Flamethrower, guns recovered as Chicago cops bust street takeover: report")
 
-[November 3, 2024 6:22 PM](https://cwbchicago.com/2024/11)
+[November 4, 2024 6:16 PM](https://cwbchicago.com/2024/11)
 
-Shot in both legs, a 45-year-old man was found lying outside a Marquette Park laundromat early Sunday morning. A passerby found him and called 911, saying there was a man down, and they thought he had been shot. [](https://cwbchicago.com/2024/11/passerby-finds-shooting-victim-in-area-previously-served-by-shotspotter-nearest-shots-fired-call-was-a-mile-away.html "Passerby finds shooting victim in area previously served by ShotSpotter; nearest ‘shots fired’ call was a mile away")
+A Missouri man faces firearms and other charges after Chicago police said he participated in a donut-spinning street “takeover” early Sunday in Gage Park.[](https://cwbchicago.com/2024/11/flamethrower-guns-recovered-as-chicago-cops-bust-street-takeover-report.html "Flamethrower, guns recovered as Chicago cops bust street takeover: report")
 
 Search
 
