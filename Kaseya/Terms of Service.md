@@ -388,6 +388,14 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Blog
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/11/AdobeStock_325782067-600x400.jpeg)
+    
+    How RMM Automation Reduces Ransomware Risk, IT Burnout and Cost
+    
+    November 7
+    
+    8 minute read](https://www.kaseya.com/blog/how-rmm-automation-reduces-ransomware-risk-it-burnout-and-cost/)
+    
     [![](https://www.kaseya.com/wp-content/uploads/2024/10/ransomware-horror-stories-of-2024-and-how-to-avoid-them-600x400.jpg)
     
     Ransomware Horror Stories of 2024 and How to Avoid Them
@@ -395,14 +403,6 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     October 31
     
     9 minute read](https://www.kaseya.com/blog/ransomware-horror-stories-of-2024-and-how-to-avoid-them/)
-    
-    [![](https://www.kaseya.com/wp-content/uploads/2024/10/Kaseya-365-USER-Custom-Page.jpg)
-    
-    Introducing Kaseya 365 User: Going Beyond the Endpoint With SaaS Alerts & Kaseya 365 User
-    
-    October 29
-    
-    2 minute read](https://www.kaseya.com/blog/beyond-the-endpoint-with-saas-alerts-kaseya-365-user/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
