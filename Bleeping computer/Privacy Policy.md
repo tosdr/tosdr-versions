@@ -36,18 +36,18 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![Unpatched Mazda Connect bugs let hackers install persistent malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
+    * [![Palo Alto Networks warns of potential PAN-OS RCE vulnerability](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
     * [![Google's mysterious 'search.app' links leave Android users concerned](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Google's mysterious 'search.app' links leave Android users concerned](https://www.bleepingcomputer.com/news/security/googles-mysterious-searchapp-links-leave-android-users-concerned/)
     * [![Break into a cybersecurity career with this certification course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Break into a cybersecurity career with this certification course deal](https://www.bleepingcomputer.com/offer/deals/break-into-a-cybersecurity-career-with-this-certification-course-deal/)
-    * [![North Korean hackers use new macOS malware against crypto firms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        North Korean hackers use new macOS malware against crypto firms](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-against-crypto-firms/)
-    * [![Replace your Microsoft Office subscription with a lifetime license in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Replace your Microsoft Office subscription with a lifetime license in this deal](https://www.bleepingcomputer.com/offer/deals/replace-your-microsoft-office-subscription-with-a-lifetime-license-in-this-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
+* [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    CISA warns of critical Palo Alto Networks bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-palo-alto-networks-bug-exploited-in-attacks/)
 * [![SteelFox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New SteelFox malware hijacks Windows PCs using vulnerable driver](https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
 * [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Hackers increasingly use Winos4.0 post-exploitation kit in attacks](https://www.bleepingcomputer.com/news/security/hackers-increasingly-use-winos40-post-exploitation-kit-in-attacks/)
-* [![Police arrest](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://www.bleepingcomputer.com/news/security/interpol-disrupts-cybercrime-activity-on-22-000-ip-addresses-arrests-41/)
 
 ##### Follow us:
 
