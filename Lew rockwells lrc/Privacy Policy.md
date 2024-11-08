@@ -80,6 +80,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [Must Watch Interview: Trump, the Economy & World War III: Col. Douglas Macgregor’s Shocking Predictions](https://www.lewrockwell.com/lrc-blog/must-watch-interview-trump-the-economy-world-war-iii-col-douglas-macgregors-shocking-predictions/)
 * [The Secession Movement in The Land of Lincoln](https://www.lewrockwell.com/lrc-blog/the-secession-movement-in-the-land-of-lincoln/)
 * [Trump: ‘No More Wars. I’m Going To Stop The Wars.’ Should We Believe Him?](https://www.lewrockwell.com/lrc-blog/trump-no-more-wars-im-going-to-stop-the-wars-should-we-believe-him/)
 * [Trump’s Next Defense Secretary?](https://www.lewrockwell.com/lrc-blog/trumps-next-defense-secretary/)
@@ -89,8 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Can Hypnosis Last for Twenty Years?](https://www.lewrockwell.com/lrc-blog/can-hypnosis-last-for-twenty-years/)
 * [The Economic B.S. Begins](https://www.lewrockwell.com/lrc-blog/the-economic-b-s-begins/)
 * [CNN Panel of Lying Media Scum Leftists . . .](https://www.lewrockwell.com/lrc-blog/cnn-panel-of-lying-media-scum-leftists/)
-* [Trump: Beware Mike Pompeo…And The Other Neocon Snakes In The Grass!](https://www.lewrockwell.com/lrc-blog/trump-beware-mike-pompeo-and-the-other-neocon-snakes-in-the-grass/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-895517)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-895526)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
