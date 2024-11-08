@@ -1,5 +1,7 @@
         [Skip to content](#main-content)
 
+[Singles’ Day Special: Unlock Genetic Insights at Unmatched Prices!](https://www.dantelabs.com/products/whole-genome-sequencing?variant=41734309118087)
+
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
