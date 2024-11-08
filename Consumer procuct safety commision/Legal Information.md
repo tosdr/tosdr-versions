@@ -19,7 +19,7 @@ Menu
 * [Contact Us](https://www.cpsc.gov/About-CPSC/Contact-Information "Contact Us")
 
 * Recalls & Safety Education
-    * [Recalls](https://www.cpsc.gov/Recalls)
+    * [Recalls & Product Safety Warnings](https://www.cpsc.gov/Recalls)
     * [Safety Education](https://www.cpsc.gov/Safety-Education)
     * [Neighborhood Safety Network](https://www.cpsc.gov/Safety-Education/Neighborhood-Safety-Network)
     * [Community Outreach Center](https://www.cpsc.gov/Safety-Education/Community-Outreach-Resource-Center)
