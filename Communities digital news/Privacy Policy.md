@@ -56,9 +56,9 @@ Search for:
 
 [France’s Macron congratulates Trump on victory with an interesting choice of words](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-trump-1200x630.jpg)](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-1200x630.jpg)](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
 
-[Melania has message about what husband has in store for America](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
+[Insult to injury: Walz even lost his home county to Trump](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-past-due-bill-1200x630.jpg)
 
@@ -80,9 +80,13 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-220x180.jpg)](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-flag-ban-dance-220x180.jpg)](https://americanwirenews.com/whos-your-daddy-florida-man-who-defied-trump-flag-ban-celebrates-his-epic-upgrade/)
 
-[Insult to injury: Walz even lost his home county to Trump](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
+[‘Who’s your daddy?’ Florida man who defied Trump flag ban celebrates his ‘EPIC’ upgrade](https://americanwirenews.com/whos-your-daddy-florida-man-who-defied-trump-flag-ban-celebrates-his-epic-upgrade/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/cnn-roginsky-220x180.jpg)](https://americanwirenews.com/dem-strategist-torches-her-own-party-for-being-out-of-touch-thats-not-how-normal-people-think/)
+
+[Dem strategist TORCHES her own party for being out-of-touch: ‘That’s not how normal people think’](https://americanwirenews.com/dem-strategist-torches-her-own-party-for-being-out-of-touch-thats-not-how-normal-people-think/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gutfeld-220x180.jpg)](https://americanwirenews.com/gutfeld-holds-nothing-back-in-brutal-opener-on-americas-reckoning-were-well-on-our-fing-way/)
 
@@ -107,6 +111,44 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-schumer-220x180.jpg)](https://americanwirenews.com/senate-bully-schumer-pleads-with-new-gop-majority-to-embrace-bipartisan-bills/)
 
 [Senate bully Schumer pleads with new GOP majority to embrace ‘bipartisan’ bills](https://americanwirenews.com/senate-bully-schumer-pleads-with-new-gop-majority-to-embrace-bipartisan-bills/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-trump-220x180.jpg)](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
+
+[Melania has message about what husband has in store for America](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy-kimmel-and-stephen-colbert-220x180.jpg)](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
+
+[Let’s watch a sample of the bigmouth late-night hosts lose it over Trump victory](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-greene-cheney-bannon-220x180.jpg)](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
+
+[Bannon, MTG eager for retribution against malicious actor Liz Cheney](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
+
+[Oh no! After implying she’ll drink Drano if Trump wins, Bette Midler’s X account disappears](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpvictoryspeech-1200-x-628-220x180.jpg)](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
+
+[Speculation on Trump’s Cabinet begins](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Bezos-220x180.jpg)](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
+
+[WaPo owner Bezos kisses the ring](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-220x180.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+
+[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183347794-220x180.jpg)](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
+
+[Pelosi, Donna Brazile exchange heated words at Kamala’s concession speech](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nyjames-1200-x-628-220x180.jpg)](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
+
+[Slugga: Letitia James vows to get Trump – they just aren’t going to stop](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
@@ -137,50 +179,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_bannon-220x180.jpg)](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
 
 [Unfinished business: Bannon says DOJ, FBI will ‘pay the price’ for trying to destroy America](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-barbara-heineback-220x180.jpg)](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
-
-[‘Sore loser’: Ex-Carter White House staffer unloads on ‘classless’ Kamala Harris](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schumer-pelosi-220x180.jpg)](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
-
-[Kevin O’Leary: Obama, Pelosi and Schumer will have NO influence on Dems in 4 years](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
-
-[Liz Cheney speaks out on Trump win but NOBODY is buying what she’s selling](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-harris-220x180.jpg)](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
-
-[Kamala Harris mum, campaign says there are still ‘votes to count’](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
-
-(Official White House Photo by Lawrence Jackson)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-fires-whoopi-220x180.jpg)](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
-
-[Jubilant Trump supporter just fired Whoopi from ‘The View’](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalas-failure-220x180.jpg)](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
-
-[‘Literally not one county?’ Tapper FLOORED by map comparing Kamala’s abysmal failure to 2020](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-220x180.jpg)](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
-
-[Moping ‘Morning Joe’ panel admits Trump ‘knows our country better than we do’](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lara-trump-220x180.jpg)](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
-
-[Lara Trump hailed as a hero: ‘You saved the election process in this country’](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182894075-1-220x180.jpg)](https://americanwirenews.com/bill-oreilly-tells-maga-to-embrace-a-no-gloat-zone-and-avoid-retribution/)
-
-[Bill O’Reilly tells MAGA to ’embrace a no gloat zone’ and avoid ‘retribution’](https://americanwirenews.com/bill-oreilly-tells-maga-to-embrace-a-no-gloat-zone-and-avoid-retribution/)
-
-(Photo by Chip Somodevilla/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chris-stirewalt-220x180.png)](https://americanwirenews.com/trump-owes-one-person-a-big-wet-kiss-for-his-win-stirewalt-says/)
-
-[Trump owes one person a ‘big wet kiss’ for his win, Stirewalt says](https://americanwirenews.com/trump-owes-one-person-a-big-wet-kiss-for-his-win-stirewalt-says/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
