@@ -185,8 +185,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**See more of Peter Shire's art** | Craft in America](https://video.nhpbs.org/video/see-more-of-peter-shires-art-k4vbk0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**November 7, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-7-2024-pbs-news-hour-full-episode-1730984136?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**How Donald Trump Flipped Key Swing States and Won the Election** | Amanpour and Company](https://video.nhpbs.org/video/how-donald-trump-flipped-key-swing-states-and-won-the-election-ts6agv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Biden calls for peaceful transition after Trump's victory** | PBS News Hour](https://video.nhpbs.org/video/biden-response-laura-dis-1731016440?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 7, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-7-2024-ybezrd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Capturing San Diego: America's Wildest City** | Nature](https://video.nhpbs.org/video/capturing-san-diego-americas-wildest-city?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Here** | Flicks](https://video.nhpbs.org/video/here-miplia?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Elemental: Reimagine Wildfire](https://video.nhpbs.org/video/preview-cze224?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
