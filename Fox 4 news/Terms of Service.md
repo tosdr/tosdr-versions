@@ -91,15 +91,9 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Severe Thunderstorm Warning
+[Flash Flood Warning
 
-until THU 2:15 PM CST, Jack County, Palo Pinto County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[Severe Thunderstorm Warning
-
-from THU 1:52 PM CST until THU 2:15 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until THU 8:00 PM CST, Denton County, Cooke County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
