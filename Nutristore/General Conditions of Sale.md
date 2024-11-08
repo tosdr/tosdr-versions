@@ -1,4 +1,4 @@
-[SAVE 20% ON PACKS & BUNDLES WITH STOCK20 (ENDS 11/7) | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
+[SAVE 25% ON BUCKET VARIETY PACK | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
 
 [![Nutristore](//nutristorefoods.com/cdn/shop/t/8/assets/logo.png?v=5092338648562814141647639854)](https://nutristorefoods.com/)
 
