@@ -34,7 +34,7 @@ Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Lo
 
 Compare products
 
-Early holiday sale
+Holiday sale
 
 [Link to the promotion](https://chipolo.net/en-us/pages/holiday-sale-2024)
 
