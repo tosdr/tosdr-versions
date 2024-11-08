@@ -134,11 +134,11 @@ Learn more about the newly finalized regulations and how to prepare
     
     [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Watch TaxBit’s Crypto Accounting Insights with FASB and Deloitte](https://www.taxbit.com/white-papers/watch-future-of-crypto-accounting-roundtable/)
+    Watch Taxbit’s Crypto Accounting Insights with FASB and Deloitte](https://www.taxbit.com/white-papers/watch-future-of-crypto-accounting-roundtable/)
     
     [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    PayPal Extends Its Trusted Brand into the World of Digital Assets with TaxBit](https://www.taxbit.com/case-studies/paypal/)
+    PayPal Extends Its Trusted Brand into the World of Digital Assets with Taxbit](https://www.taxbit.com/case-studies/paypal/)
     
     [![Uphold & Taxbit](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
