@@ -211,9 +211,8 @@ Atos homepage](https://atos.net/en/)
         
         ### Atos Group at Microsoft Ignite 2024
         
-* ˅[About Us](#)
+* About Us
     * <<
-    * ˅[About Us](#)
     * [Who we are](https://atos.net/en/who-we-are)
         
         * [Who we are](https://atos.net/en/who-we-are)
@@ -258,6 +257,7 @@ Atos homepage](https://atos.net/en/)
     * [Investors](https://atos.net/en/investors)˅
         
         * [Investors](https://atos.net/en/investors)˅
+        * [Rights Issue](https://augmentationdecapital.atos.net/en.html)
         * [Annual General Meeting](https://atos.net/en/investors/annual-general-meeting)
         * [Financial calendar](https://atos.net/en/investors/financial-calendar)
         * [Financial Information](https://atos.net/en/investors/financial-information)
