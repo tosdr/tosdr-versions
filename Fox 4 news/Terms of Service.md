@@ -93,7 +93,17 @@ Search site
 
 [Flash Flood Warning
 
-until THU 8:00 PM CST, Denton County, Cooke County](https://www.fox4news.com/weather-alerts)
+from FRI 12:36 AM CST until FRI 5:00 AM CST, Palo Pinto County](https://www.fox4news.com/weather-alerts)
+
+3
+
+[Severe Thunderstorm Warning
+
+until FRI 2:00 AM CST, Palo Pinto County, Jack County, Parker County](https://www.fox4news.com/weather-alerts)
+
+[Severe Thunderstorm Warning
+
+from FRI 1:44 AM CST until FRI 2:45 AM CST, Wise County, Parker County, Jack County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
