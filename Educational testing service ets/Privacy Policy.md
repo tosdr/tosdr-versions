@@ -13,6 +13,7 @@
 * [Privacy and Security](https://www.ets.org/content/ets-org/language-master/en/home/legal/privacy.html)
 * [Title VI Compliance Statement](https://www.ets.org/content/ets-org/language-master/en/home/legal/ets-civil-rights-title-vi-policy-statement.html)
 * [Additional Test Specific Information](https://www.ets.org/content/ets-org/language-master/en/home/legal/additional-test-specific-information.html)
+* [ETS Modern Slavery Statement](https://www.ets.org/content/ets-org/language-master/en/home/legal/ets-modern-slavery-statement.html)
 
 Privacy and Security
 ====================
