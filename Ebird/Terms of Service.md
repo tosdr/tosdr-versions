@@ -24,7 +24,7 @@
 * [Get Involved](https://www.birds.cornell.edu/home/get-involved/)
     * [Find Your Project](https://www.birds.cornell.edu/home/get-involved/)
     * [eBird](http://ebird.org/home)
-    * [Citizen Science](https://www.birds.cornell.edu/home/engagement-in-science-and-nature/)
+    * [Participatory Science](https://www.birds.cornell.edu/home/engagement-in-science-and-nature/)
     * [Lifelong Learning](https://academy.allaboutbirds.org/course-list/)
     * [10 Ways to Help Birds](https://www.birds.cornell.edu/home/get-involved/10-ways-to-help-birds/)
 * [Donate](https://give.birds.cornell.edu/page/87895/donate/1?ea.tracking.id=WXXXXX01C&utm_source=BCE&utm_medium=Website&utm_campaign=Evergreen-Appeal)
