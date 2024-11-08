@@ -49,31 +49,15 @@ The following information may be collected, used, and stored in a cookie when se
 * Email (in a hashed or encrypted form)
 
 Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoic’s partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+Search for:  
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+**Phrase Of The Month****:**
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+![short sayings - gift horse](https://i0.wp.com/knowyourphrase.com/wp-content/uploads/2021/10/phrases-of-the-week-16.jpg?resize=168%2C175&ssl=1)
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[Search for:](https://www.ezoic.com/privacy-policy/advertising-partners/)  
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[**Phrase Of The Month****:**
-
-![short sayings - gift horse](https://i0.wp.com/knowyourphrase.com/wp-content/uploads/2021/10/phrases-of-the-week-16.jpg?resize=168%2C175&ssl=1)](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[–](https://www.ezoic.com/privacy-policy/advertising-partners/) [Don’t Look a Gift Horse In The Mouth](https://knowyourphrase.com/dont-look-a-gift-horse-in-mouth)
+– [Don’t Look a Gift Horse In The Mouth](https://knowyourphrase.com/dont-look-a-gift-horse-in-mouth)
 
 The phrase of this month is “don’t look a gift horse in the mouth.” Learn what it means, discover its origin, plus see a few sentence examples of this common saying.
 
