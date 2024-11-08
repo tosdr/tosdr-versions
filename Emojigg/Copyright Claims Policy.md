@@ -13,7 +13,18 @@
 
 * [Discord Bot](https://emoji.gg/bot)
 
-[Packs](https://emoji.gg/packs) [Stickers](https://emoji.gg/stickers) [Maker](https://emoji.gg/maker) [Creators](https://emoji.gg/creators)
+[Packs](https://emoji.gg/packs) [Stickers](https://emoji.gg/stickers) [Pfps](https://pfps.gg/)
+
+[Tools & More](#)
+
+* [Leaderboards](https://emoji.gg/creators)
+* [Emoji Maker](https://emoji.gg/maker)
+
+* * *
+
+* [](https://discord.gg/emojis)
+* [](https://guilded.gg/emojis)
+* [](https://x.com/discordemoji)
 
 [FAQ & Help](https://emoji.gg/faq) [Content Licenses](https://emoji.gg/licenses) [Content Policy](https://emoji.gg/content) [Privacy Policy](https://emoji.gg/privacy) [Report Content](https://emoji.gg/content) [Verification](https://emoji.gg/verification)
 
