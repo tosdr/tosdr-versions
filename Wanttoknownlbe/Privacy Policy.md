@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/in-3-van-4-adhd-gevallen-verkeerde-diagnose/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/god-in-een-doos/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -108,15 +108,15 @@ Bezoekersinformatie wordt nooit met derden gedeeld met uitzondering van de webse
 
 We gebruiken geen Google Analytics maar een alternatief waar alle data in is geanonimiseerd.  
 
-Cookie d'exclusion installé. Vos visites sur ce site web ne seront PAS enregistrées par notre outil d'analyse web. Note : si vous nettoyez vos cookies et supprimez le cookie d'exclusion, ou bien si vous changez d'ordinateur et/ou de navigateur, il vous faudra de nouveau effectuer la procédure d'exclusion.
+Opt-out complete; your visits to this website will not be recorded by the Web Analytics tool. Note that if you clear your cookies, delete the opt-out cookie, or if you change computers or Web browsers, you will need to perform the opt-out procedure again.
 
-Vous pouvez vous opposer au suivi de votre navigation sur ce site web. Cela protégera votre vie privée, mais empêchera également le propriétaire d'apprendre de vos actions et de créer une meilleure expérience pour vous et les autres utilisateurs.
+You may choose to prevent this website from aggregating and analyzing the actions you take here. Doing so will protect your privacy, but will also prevent the owner from learning from your actions and creating a better experience for you and other users.
 
- **Vous n'êtes pas exclu(e). Décochez cette case pour vous exclure. Vous n'êtes actuellement pas suivi(e). Cochez cette case pour ne plus être exclu(e).**
+ **You are not opted out. Uncheck this box to opt-out. You are currently opted out. Check this box to opt-in.**
 
 **This opt out feature requires JavaScript.**
 
-**La fonctionnalité de désactivation du suivi nécessite que les cookies soient autorisés.**
+**The tracking opt-out feature requires cookies to be enabled.**
 
 .
 
