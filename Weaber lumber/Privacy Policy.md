@@ -17,7 +17,7 @@
     * [Logs](https://www.weaberlumber.com/high-grade-hardwood-logs/)
 * [Career Center](#)
     * [Career Center](https://www.weaberlumber.com/career-center/)
-    * [Jobs Portal](https://jobs.appone.com/weaber)
+    * [Jobs Portal](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=192e9a14-f3f4-4cd5-bc65-ad5dce0e10b2&ccId=9201072966239_2&lang=en_US)
 * [Weaber Store](https://weaber.com/weaber-store/)
 * [Contact](#)
     * [Contact](https://www.weaberlumber.com/contact/)
