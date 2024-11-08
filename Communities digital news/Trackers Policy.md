@@ -26,43 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-4b-feminists-1200x630.jpg)](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mike-davis-1200x630.png)](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
 
-[Lefty chicks launch sex-strike ‘movement’ over Trump win, accidentally solve abortion issue](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
+[Trump lawyer puts Letitia James on notice, halt lawfare or ‘we will put your fat \*ss in prison’](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gw-joe-biden-4-1200x630.jpg)](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-susietrump-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
 
-[Dem anger with Biden at a slow rolling boil after Trump wins, but who does Biden blame?](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
+Getty Image
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-anti-trump-protests-1200x630.jpg)](https://americanwirenews.com/protests-begin-in-americas-big-and-broken-cities-to-fight-the-right/)
+[BOSS MOVE right out of the gate: ‘Misogynist’ Trump names historic first woman as WH chief of staff](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
 
-[Protests begin in America’s big and broken cities to ‘fight the right’](https://americanwirenews.com/protests-begin-in-americas-big-and-broken-cities-to-fight-the-right/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/pxbay-butter-sg-mjoe-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-haines-behar-1200x630.jpg)](https://americanwirenews.com/clueless-view-hosts-argue-for-regulation-of-social-media-double-down-on-identity-politics-over-trump-win/)
+[Miraculous: ‘Morning’ Joe can suddenly sympathize with the plight of MAGA Americans](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
 
-[Clueless ‘View’ hosts argue for regulation of social media, double down on identity politics over Trump win](https://americanwirenews.com/clueless-view-hosts-argue-for-regulation-of-social-media-double-down-on-identity-politics-over-trump-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-church-1200x630.png)](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-voting-2-1200x630.jpg)](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
+[Left floats a Supreme Court Justice Kamala Harris before Biden leaves office](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
 
-[Ben Shapiro brings more bad news for Democrats](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-checks-cnn-panel-1200x630.jpg)](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rick-wilson-1200x630.jpg)](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
+[‘With all due respect, I’ve run more campaigns than you’: Jennings takes on entire clueless smug CNN panel](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
 
-[‘You were wrong on everything!’ Never-Trumper Rick Wilson ‘wrecked’ over arrogant Election Day prediction](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cohen-turkey-1200x630.jpg)](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1186267294-1-1200x630.jpg)](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
+[‘I’m dying’: Michael Cohen trolled with turkey head while trying to talk smack on livestream](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
 
-(Photo by LUDOVIC MARIN/POOL/AFP via Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-art-of-the-surge-1200x630.png)](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
 
-[France’s Macron congratulates Trump on victory with an interesting choice of words](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
+[Behind scenes footage shows how Trump creates his own social media posts: ‘He really is just built different’](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-1200x630.jpg)](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
 
 [Insult to injury: Walz even lost his home county to Trump](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-past-due-bill-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bobwoodward-1200-x-628-1200x630.jpg)
 
-### ‘Explosive’ scandal brewing inside Kamala campaign proves America ‘dodged a bullet’](https://americanwirenews.com/explosive-scandal-brewing-inside-kamala-campaign-proves-america-dodged-a-bullet/)
+### Watergate cadaver Bob Woodward looks to reboot Russiagate hoax with Trump-Putin blackmail claim](https://americanwirenews.com/watergate-cadaver-bob-woodward-looks-to-reboot-russiagate-hoax-with-trump-putin-blackmail-claim/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +79,10 @@ Search for:
 ### [Fans want a role for Dana White in Trump’s White House after election night speech](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-reid-220x180.jpg)](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
+
+[Queen Race-baiter Joy Reid shames Hispanic men who voted for Trump](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-flag-ban-dance-220x180.jpg)](https://americanwirenews.com/whos-your-daddy-florida-man-who-defied-trump-flag-ban-celebrates-his-epic-upgrade/)
 
@@ -175,10 +179,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-clooney-220x180.jpg)](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
 
 [Fox & Friends crows over Trump victory, suggests ‘wellness check’ on Obama, Clooney and Oprah](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_bannon-220x180.jpg)](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
-
-[Unfinished business: Bannon says DOJ, FBI will ‘pay the price’ for trying to destroy America](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
