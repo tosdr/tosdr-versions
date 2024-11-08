@@ -364,6 +364,8 @@ Legal
 * [Terms of Sale](https://corporate.mattel.com/en-us/mattel-shopping-terms)
 * [Accessibility Statement](https://shop.mattel.com/pages/accessibility-statement)
 
+Accepted payment methods:
+
 ©2024 Mattel.
 
 Close
