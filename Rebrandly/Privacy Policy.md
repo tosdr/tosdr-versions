@@ -1,4 +1,4 @@
-Discover Link Gallery - the link in bio that's actually you. [Sign up today and get a FREE .bio domain!](https://rbnd.bio/gallery)
+Discover Link Gallery - the link in bio that's actually you. [Sign up today and get a FREE .bio domain!](https://rbnd.bio/site-cta)
 
 [](https://rebrandly.com/)
 
