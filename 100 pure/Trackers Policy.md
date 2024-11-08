@@ -174,9 +174,9 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
+[![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/files/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572_239x254.png?v=1731003912)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
-![ Watermelon Cucumber  Water Locking Mist](//www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_220x.png?v=1665003385)
+![ Watermelon Cucumber  Water Locking Mist](//www.100percentpure.com/cdn/shop/files/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572_220x.png?v=1731003912)
 
 ### [Watermelon Cucumber Water Locking Mist](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
@@ -522,9 +522,9 @@ Default Title - $32
 
 ADD TO TOTE
 
-[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
+[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/files/Mintlipbalm_239x254.jpg?v=1730991870)](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
+![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/files/Mintlipbalm_220x.jpg?v=1730991870)
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
