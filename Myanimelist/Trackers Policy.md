@@ -1,4 +1,4 @@
-[![MAL x JAPAN](/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png "MAL x JAPAN")](https://mxj.myanimelist.net/)
+[![writing_contest_2024](/c/img/resources/mb/mini_banner_20241029_writing_contest_2024.png "writing_contest_2024")](https://myanimelist.net/c/u/writingcontest2024_mb/https/mhwc.myanimelist.net?utm_source=MAL&utm_medium=mb&utm_campaign=writingcontest2024&utm_content=windowopen)
 
 [Hide Ads](https://myanimelist.net/membership?_location=mal_h_u)[Login](https://myanimelist.net/login.php)[Sign Up](https://myanimelist.net/register.php)
 
@@ -51,8 +51,6 @@ View all results for ${ keyword }
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
 * [![20th anniversary](https://cdn.myanimelist.net/images/event/20th_anniversary/badge.png)](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=globalmenu&utm_content=pageopen)
-
-[](#)[🎂 **Celebrate 20 years of MAL with us!** Grab your profile badge and enter our anniversary giveaway](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=textribbon&utm_content=pageopen)
 
 MyAnimeList Cookie Policy
 =========================
@@ -110,8 +108,8 @@ And of course, if you have installed our mobile app on your mobile device and yo
 1. 1 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
 2. 2 [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season)
 3. 3 [One Piece](https://myanimelist.net/anime/21/One_Piece)
-4. 4 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
-5. 5 [Natsume Yuujinchou Shichi](https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi)
+4. 4 [Natsume Yuujinchou Shichi](https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi)
+5. 5 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
