@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-there was nothing wrong with FoxyProxy, and your customer service is excellent.
+Thank you so much for your assistance, you seem a scholar and a gent and it was a great pleasure to speak with you. Kudos and kind regards to your team, your family, and anyone else you know. Seriously -- thank you.
 
-Eric Morrison
+Dan Revell
