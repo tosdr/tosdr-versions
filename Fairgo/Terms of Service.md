@@ -298,7 +298,7 @@ By participating in slot tournaments, you hereby agree to the Terms and Conditio
 
 ![Border Image](https://www.fairgoplus.com/images/border.png)
 
-![visa](/images/website2024/07_paymentlogos_visa_141x55.webp) ![mastercard](/images/website2024/07_paymentlogos_mastercard_141x55.webp) ![neosurf](/images/website2024/07_paymentlogos_neosurf_141x55.webp) ![bitcoin](/images/website2024/07_paymentlogos_bitcoin_141x55.webp) ![ezeewallet](/images/website2024/07_paymentlogos_ezeewallet_141x55.webp) ![sslencrypted](/images/website2024/07_trustlogos_sslencrypted_141x55.webp)
+![trust](/images/website2024/07_trustlogos_trustedonlinecasino_141x55.webp) ![fastpayout](/images/website2024/07_trustlogos_fastpayouts_141x55.webp) ![customersupport](/images/website2024/07_trustlogos_customersupport_141x55.webp)
 
 [![Go To Top Icon](/images/backToTop.png)](#header)
 
