@@ -209,7 +209,7 @@
         
         Feature Products
         
-        [4G LTE Cam S330](https://us.eufy.com/products/t86p2121?ref=navimenu_2_2_5_1_copy) [4G Camera S230](https://us.eufy.com/products/t8150121?ref=navimenu_2_2_5_2_copy)
+        [4G LTE Cam S330](https://us.eufy.com/products/t86p2121?ref=navimenu_2_2_5_1_copy)
         
         [Shop 4G LTE Cameras](https://us.eufy.com/collections/cellular-security-camera?ref=navimenu_2_2_5_all_copy)[](https://us.eufy.com/pages/cookie-notice?ref=navimenu_2_2_5_more_copy)
         
@@ -218,7 +218,6 @@
     * SoloCam
     * Indoor Camera
     * Outdoor Camera
-    * 4G LTE Camera
     
     * [eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive
         
@@ -266,12 +265,6 @@
         Color Night Vision](https://us.eufy.com/products/t8441z21?ref=navimenu_2_2_4_2_img)
     
     [See More](https://us.eufy.com/collections/outdoor-security-cameras?ref=navimenu_2_2_4_3_copy)
-    
-    * [4G Camera S230
-        
-        Cellular Network](https://us.eufy.com/products/t8150121?ref=navimenu_2_2_5_1_img)
-    
-    [See More](https://us.eufy.com/collections/security-camera?ref=navimenu_2_2_5_2_copy)
     
     * [](https://us.eufy.com/collections/battery-operated-doorbell?ref=navimenu_2_3_1_copy)
         
