@@ -115,10 +115,10 @@ You can set most modern browsers to prevent cookies from being placed on your de
 
 #### Latest blog articles
 
+* 08.11.2024[7 Top Domain Trends You Need to Know for 2025](https://www.eurodns.com/blog/top-domain-trends-for-2025)
 * 29.10.2024[EuroDNS Web Security Suite: Your Complete Web Protection is Here](https://www.eurodns.com/blog/web-security-suite-launch)
 * 29.10.2024[Web Security Suite 101: Key Features Explained](https://www.eurodns.com/blog/web-security-suite-101)
 * 29.10.2024[Getting Started: Activate and Set Up Your Web Security Suite](https://www.eurodns.com/blog/getting-started-activate-set-up-web-security-suite)
-* 24.10.2024[90-Day SSL Certificates: What’s Changing and How to Stay Ahead](https://www.eurodns.com/blog/shift-to-90-day-ssl-certificates)
 
 #### Domain Name Discounts
 
