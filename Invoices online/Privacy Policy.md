@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I have upgraded to the Gold account in order to support you guys!
 
-Terri Winfield
+Shaun Gartshore
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=83823784)  
-VerdanTech Pty Ltd
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=91425124)  
+FX ACCOUNTING
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=177243827)  
-Kainos (Pty) Ltd
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=186973740)  
+Nogana Events and Decor
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=143286986)  
-Desygn
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=54208375)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=61788446)  
-LEO DEVELOPMENT GROUP
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=112851039)  
-AMS Ambu Medical Supplies
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=5198451)  
-MSPCloud (Pty) Ltd
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=18750268)  
-Baby Toddles Infant Care
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=187476091)  
-Skinz Printing & Branding
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=199485471)  
-NIMAWELL
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=197255722)  
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=174703225)  
 Safe-Train Consulting (PTY) Ltd
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=2233202)  
-TIGERDSL
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=110908029)  
+Meyer Towing & Recovery
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=73376260)  
-UMVIKELI PRIVATE SECURITY
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=59134142)  
+Fox Alarms & Security
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=189483020)  
-Blue Sky Solar Services
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=71846223)  
+CBR Verwe/Paints
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=63749910)  
-Lion Software Develepment
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=143943015)  
+MONSTER SECURITY GUARDING
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=42533347)  
-CHARLIEX CONSTRUCTIONS
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=97323191)  
+Alliance Energy
+
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=36658007)  
+Cape Adventure Zone
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=168298994)  
+Enhle Oarabile Kea
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=4870699)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=14048864)  
+AMS Ambu Medical Supplies
+
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=104866483)  
+Echo Recording Studio cc
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=1ed893ccf63b817e08f6038c11207c8b22b2e3675889439124188046815f0737&c=142521887)  
+OrgChart Hosting Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
