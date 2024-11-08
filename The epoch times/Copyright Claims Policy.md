@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Federal Judge Ends Block on Florida’s Legal Action Against Pro-Abortion Ad](https://www.theepochtimes.com/us/federal-judge-ends-block-on-floridas-legal-action-against-pro-abortion-ad-5756063)
+* [White House Outlines Biden’s Priorities for Rest of Term](https://www.theepochtimes.com/us/white-house-outlines-bidens-priorities-for-rest-of-term-5756404)
     
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    NEW By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
     
-    [![Federal Judge Ends Block on Florida’s Legal Action Against Pro-Abortion Ad](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![White House Outlines Biden’s Priorities for Rest of Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Ends Block on Florida’s Legal Action Against Pro-Abortion Ad](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756067-AP24290506465158-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-ends-block-on-floridas-legal-action-against-pro-abortion-ad-5756063)
-* [Putin Congratulates Trump on Election Win, Welcomes Opportunity for Renewed Dialogue](https://www.theepochtimes.com/world/putin-congratulates-trump-on-election-win-welcomes-opportunity-for-renewed-dialogue-5756142)
+    ![White House Outlines Biden’s Priorities for Rest of Term](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756409-Biden-GettyImages-2182727774-205x123.jpg.webp)](https://www.theepochtimes.com/us/white-house-outlines-bidens-priorities-for-rest-of-term-5756404)
+* [Memes, Pop Culture, and Economy: How Young Voters Helped Trump Win](https://www.theepochtimes.com/article/memes-pop-culture-versus-woke-culture-how-young-voters-helped-trump-win-5756360)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    1hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
-    [![Putin Congratulates Trump on Election Win, Welcomes Opportunity for Renewed Dialogue](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Memes, Pop Culture, and Economy: How Young Voters Helped Trump Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Putin Congratulates Trump on Election Win, Welcomes Opportunity for Renewed Dialogue](https://img.theepochtimes.com/assets/uploads/2024/11/id5756136-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-congratulates-trump-on-election-win-welcomes-opportunity-for-renewed-dialogue-5756142)
-* [Republican Dave McCormick Flips Pennsylvania Senate Seat](https://www.theepochtimes.com/us/republican-dave-mccormick-flips-pennsylvania-senate-seat-5748692)
+    ![Memes, Pop Culture, and Economy: How Young Voters Helped Trump Win](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756391-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/memes-pop-culture-versus-woke-culture-how-young-voters-helped-trump-win-5756360)
+* [NYC Mayor Says He’s Ready to Share Ideas With Trump on Illegal Immigration](https://www.theepochtimes.com/us/nyc-mayor-says-hes-ready-to-share-ideas-with-trump-on-illegal-immigration-5755983)
     
-    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    1hr By [Oliver Mantyk](https://www.theepochtimes.com/author/oliver-mantyk)
     
-    [![Republican Dave McCormick Flips Pennsylvania Senate Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![NYC Mayor Says He’s Ready to Share Ideas With Trump on Illegal Immigration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Republican Dave McCormick Flips Pennsylvania Senate Seat](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754497-08c91b1fe5b252e1370e0e24-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-dave-mccormick-flips-pennsylvania-senate-seat-5748692)
-* [CDC Urges Broader Bird Flu Testing After Study Finds Infection in Asymptomatic Farmworkers](https://www.theepochtimes.com/us/cdc-urges-broader-bird-flu-testing-after-study-finds-infection-in-asymptomatic-farmworkers-5756096)
+    ![NYC Mayor Says He’s Ready to Share Ideas With Trump on Illegal Immigration](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748817-Eric-Adams-AP24209782201702KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-mayor-says-hes-ready-to-share-ideas-with-trump-on-illegal-immigration-5755983)
+* [Judge Sets Deadline for Transfer of Assets in Rudolph Giuliani Case](https://www.theepochtimes.com/us/judge-sets-deadline-for-transfer-of-assets-in-rudolph-giuliani-case-5756208)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![CDC Urges Broader Bird Flu Testing After Study Finds Infection in Asymptomatic Farmworkers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Sets Deadline for Transfer of Assets in Rudolph Giuliani Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![CDC Urges Broader Bird Flu Testing After Study Finds Infection in Asymptomatic Farmworkers](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756244-2024-07-13T011945Z_1_LYNXMPEK6C00U_RTROPTP_4_HEALTH-BIRDFLU-SURVEILLANCE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/cdc-urges-broader-bird-flu-testing-after-study-finds-infection-in-asymptomatic-farmworkers-5756096)
-* [Donald Trump Jr. Weighs In on Second Trump Admin Cabinet](https://www.theepochtimes.com/us/donald-trump-jr-weighs-in-on-second-trump-admin-cabinet-5756148)
+    ![Judge Sets Deadline for Transfer of Assets in Rudolph Giuliani Case](https://img.theepochtimes.com/assets/uploads/2024/11/id5751976-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-sets-deadline-for-transfer-of-assets-in-rudolph-giuliani-case-5756208)
+* [Saving Childhood: A New Movement Helps Parents Protect Young Kids From Smartphones](https://www.theepochtimes.com/health/saving-childhood-a-new-movement-helps-parents-protect-young-kids-from-smartphones-5741070)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
     
-    [![Donald Trump Jr. Weighs In on Second Trump Admin Cabinet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Saving Childhood: A New Movement Helps Parents Protect Young Kids From Smartphones](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Donald Trump Jr. Weighs In on Second Trump Admin Cabinet](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756241-GettyImages-2033750267-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/donald-trump-jr-weighs-in-on-second-trump-admin-cabinet-5756148)
-* [Clintons Congratulate Trump and Vance on Election Win, Urge Americans to Bridge Divides](https://www.theepochtimes.com/us/clintons-congratulate-trump-and-vance-on-election-win-urge-americans-to-bridge-divides-5756054)
+    ![Saving Childhood: A New Movement Helps Parents Protect Young Kids From Smartphones](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752370-Saving-Childhood-featured-image-205x123.jpg.webp)](https://www.theepochtimes.com/health/saving-childhood-a-new-movement-helps-parents-protect-young-kids-from-smartphones-5741070)
+* [Argentinian Officials Charge 3 in British Musician Liam Payne’s Death](https://www.theepochtimes.com/entertainment/argentinian-officials-charge-3-in-british-musician-liam-paynes-death-5756218)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Clintons Congratulate Trump and Vance on Election Win, Urge Americans to Bridge Divides](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Argentinian Officials Charge 3 in British Musician Liam Payne’s Death](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Clintons Congratulate Trump and Vance on Election Win, Urge Americans to Bridge Divides](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756181-GettyImages-1487609087-205x123.jpg.webp)](https://www.theepochtimes.com/us/clintons-congratulate-trump-and-vance-on-election-win-urge-americans-to-bridge-divides-5756054)
-* [Zelenskyy Touts ‘Productive Conversation’ With President-Elect Trump](https://www.theepochtimes.com/world/zelenskyy-touts-productive-conversation-with-president-elect-trump-5756046)
+    ![Argentinian Officials Charge 3 in British Musician Liam Payne’s Death](https://img.theepochtimes.com/assets/uploads/2024/10/id5743515-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/argentinian-officials-charge-3-in-british-musician-liam-paynes-death-5756218)
+* [Military Judge Revives Plea Deals for Alleged 9/11 Mastermind, Accomplices](https://www.theepochtimes.com/us/military-judge-revives-plea-deals-for-alleged-9-11-mastermind-accomplices-5756005)
     
-    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Zelenskyy Touts ‘Productive Conversation’ With President-Elect Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Military Judge Revives Plea Deals for Alleged 9/11 Mastermind, Accomplices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Zelenskyy Touts ‘Productive Conversation’ With President-Elect Trump](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756225-GettyImages-2173926542-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-touts-productive-conversation-with-president-elect-trump-5756046)
-* [California Gov. Newsom Announces Special Legislative Session After Trump Victory](https://www.theepochtimes.com/us/california-gov-newsom-announces-special-legislative-session-after-trump-victory-5756114)
+    ![Military Judge Revives Plea Deals for Alleged 9/11 Mastermind, Accomplices](https://img.theepochtimes.com/assets/uploads/2024/08/01/id5697876-GettyImages-83949836-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/military-judge-revives-plea-deals-for-alleged-9-11-mastermind-accomplices-5756005)
+* [Trump Names Susan Wiles as White House Chief of Staff](https://www.theepochtimes.com/us/trump-announces-susan-wiles-as-white-house-chief-of-staff-5756313)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![California Gov. Newsom Announces Special Legislative Session After Trump Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Names Susan Wiles as White House Chief of Staff](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![California Gov. Newsom Announces Special Legislative Session After Trump Victory](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756206-Trump-and-NewsomKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-gov-newsom-announces-special-legislative-session-after-trump-victory-5756114)
-* [Pentagon Chief Austin Says US Military Ready to Carry Out Lawful Orders of Trump Administration](https://www.theepochtimes.com/us/pentagon-chief-austin-says-us-military-ready-to-carry-out-lawful-orders-of-trump-administration-5756095)
+    ![Trump Names Susan Wiles as White House Chief of Staff](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756319-Susan-Wiles-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-announces-susan-wiles-as-white-house-chief-of-staff-5756313)
+* [FDA Proposes Removal of Common Oral Cold Medication Ingredient as ‘Ineffective’](https://www.theepochtimes.com/us/fda-proposes-removal-of-common-oral-cold-medication-ingredient-as-ineffective-5756072)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Pentagon Chief Austin Says US Military Ready to Carry Out Lawful Orders of Trump Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FDA Proposes Removal of Common Oral Cold Medication Ingredient as ‘Ineffective’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pentagon Chief Austin Says US Military Ready to Carry Out Lawful Orders of Trump Administration](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753135-lloyd-austin-feb-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pentagon-chief-austin-says-us-military-ready-to-carry-out-lawful-orders-of-trump-administration-5756095)
-* [Federal Reserve Cuts Interest Rates for 2nd Straight Meeting](https://www.theepochtimes.com/business/federal-reserve-cuts-interest-rates-for-2nd-straight-meeting-5755953)
+    ![FDA Proposes Removal of Common Oral Cold Medication Ingredient as ‘Ineffective’](https://img.theepochtimes.com/assets/uploads/2017/12/15/GettyImages-77270269-205x123.jpg.webp)](https://www.theepochtimes.com/us/fda-proposes-removal-of-common-oral-cold-medication-ingredient-as-ineffective-5756072)
+* [Day in Photos: Strike on Chemical Factory, Field of Remembrance, and Wading Through the Floods](https://www.theepochtimes.com/article/day-in-photos-strike-on-chemical-factory-field-of-remembrance-and-wading-through-the-floods-5755971)
     
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Federal Reserve Cuts Interest Rates for 2nd Straight Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Strike on Chemical Factory, Field of Remembrance, and Wading Through the Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Reserve Cuts Interest Rates for 2nd Straight Meeting](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756232-Federal-Reserve-Board-Chair-Jerome-Powell-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-reserve-cuts-interest-rates-for-2nd-straight-meeting-5755953)
+    ![Day in Photos: Strike on Chemical Factory, Field of Remembrance, and Wading Through the Floods](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756262-GettyImages-2182719952-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-strike-on-chemical-factory-field-of-remembrance-and-wading-through-the-floods-5755971)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
