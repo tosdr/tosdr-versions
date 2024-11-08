@@ -1,7 +1,5 @@
 [Skip to content](#page-content)
 
-[Need help selecting the best antenna, installation options & available channels?](https://www.channelmaster.com/pages/tv-antenna-recommendation)
-
 [Menu](#page-menu)
 
 [](https://www.channelmaster.com/)
