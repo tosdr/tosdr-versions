@@ -80,7 +80,7 @@ Last updated on January 18, 2022
 
 [Contact Us](https://unitsmaster.com/en/contact.html)  
 
-Thursday, November 7, 2024  
+Friday, November 8, 2024  
 [Privacy Policy](https://unitsmaster.com/privacy.html)  
 [Terms & Conditions](https://unitsmaster.com/terms.html)  
   
