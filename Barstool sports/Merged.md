@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Fall Golf Collection](https://store.barstoolsports.com/collections/fore-play)
+* [Ugly Sweater Collection](https://store.barstoolsports.com/collections/ugly-sweaters)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Stella Blue Coffee Winter Flavors](https://stellabluecoffee.com/)
