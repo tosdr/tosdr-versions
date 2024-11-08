@@ -137,32 +137,32 @@ MSX Music player
 
 Latest reactions
 
+* [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
+* [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
+* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [Darwin](https://www.msx.org/downloads/darwin "Darwin")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
-* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
-* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
-* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 
 Latest forum posts
 
+* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
+* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
+* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=1 "How do I get to the 2nd and other partitions "drives"?")
+* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [BASIC-Kun for Omega MSX](https://www.msx.org/forum/msx-talk/hardware/basic-kun-for-omega-msx "BASIC-Kun for Omega MSX")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=74 "WonderTANG! Who wants to juice up your MSX?")
 * [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=4 "Sony HB-75AS not displaying")
-* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=1 "How do I get to the 2nd and other partitions "drives"?")
 * [Gballs new levels](https://www.msx.org/forum/msx-talk/development/gballs-new-levels "Gballs new levels")
 * [MSX2 with MSX Pico on the well know YouTube chanel from Adrian's Digital Basement.](https://www.msx.org/forum/msx-talk/off-topic/msx2-with-msx-pico-on-the-well-know-youtupe-chanel-from-adrians-digital-bas "MSX2 with MSX Pico on the well know YouTube chanel from Adrian's Digital Basement.")
 * [I've ruined my openmsx installation. Uncaught exception](https://www.msx.org/forum/msx-talk/openmsx/ive-ruined-my-openmsx-installation-uncaught-exception "I've ruined my openmsx installation. Uncaught exception")
 * [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo?page=2 "New V9990 Wolfenstein-3D-Like Interactive Demo")
 * [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
-* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
-* [Can't get Nogalious MSX to work](https://www.msx.org/forum/msx-talk/software/cant-get-nogalious-msx-to-work "Can't get Nogalious MSX to work")
-* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
