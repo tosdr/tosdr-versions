@@ -23,9 +23,6 @@ Translation Menu
 
 * [Español](https://www.ftc.gov/es)
 
-Secondary Menu
---------------
-
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
 * [Search the Legal Library](https://www.ftc.gov/legal-library)
@@ -226,7 +223,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $536,000 in Refunds to Consumers Deceived by Misleading Ads for Sobrenix “Anti-Alcohol Craving” Supplement](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-536000-refunds-consumers-deceived-misleading-ads-sobrenix-anti-alcohol-craving)
+    ### [FTC Announces Tentative Agenda for November 14 Open Commission Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-announces-tentative-agenda-november-14-open-commission-meeting)
     
     November 7, 2024
     
@@ -332,9 +329,6 @@ Translation Menu
 ----------------
 
 * [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
