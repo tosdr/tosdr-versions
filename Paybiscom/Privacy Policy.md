@@ -1,8 +1,8 @@
 Prev 1/2 Next
 
-Nov 8, 2024 [Introducing Paybis Business Wallets: Simplify Your Business Crypto Transactions](https://paybis.com/news/introducing-paybis-business-wallets/)
+Nov 8, 2024 [Paybis Adds a New Cryptocurrency: Toncoin](https://paybis.com/news/new-cryptocurrency-toncoin/)
 
-Nov 1, 2024 [New Payment Method Announcement – Buy Crypto With PayPal](https://paybis.com/news/buy-cryptocurrencies-with-paypal/)
+Nov 8, 2024 [New Payment Method Announcement – Buy Crypto With PayPal](https://paybis.com/news/buy-cryptocurrencies-with-paypal/)
 
 [](https://paybis.com/ "Paybis - Digital and Crypto currency exchange!")
 
