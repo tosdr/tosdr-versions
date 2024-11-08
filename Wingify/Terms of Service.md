@@ -164,7 +164,7 @@
     
     [![Ajit Singh](https://static.wingify.com/gcp/uploads/2024/11/1516552969221.jpeg?tr=w-60,h-50)
     
-    Supercharge Your HubSpot CRM: Unlocking Advanced CRO Capabilities with VWO Integration](https://vwo.com/webinars/supercharge-your-hubspot-crm-unlocking-advanced-cro-capabilities-with-vwo-integration/)
+    Supercharge Your HubSpot CRM: Unlocking Advanced CRO Capabilities with VWO Integration](https://vwo.com/webinars/supercharge-hubspot-crm-unlocking-advanced-cro-capabilities-vwo-integration/)
     
     [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
     
@@ -188,6 +188,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-40-Top-Website-Feedback-Tools-for-Better-Engagement.jpg?tr=w-60,h-50)
+    
+    40+ Top Website Feedback Tools for Better Engagement](https://vwo.com/blog/website-feedback-tools/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-70-Web-Design-Statistics-Every-UX-Designer-Should-Know-In-2025-1-1.jpg?tr=w-60,h-50)
     
     70+ Web Design Statistics Every UX Designer Should Know In 2025](https://vwo.com/blog/web-design-statistics/)
@@ -203,10 +207,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Top-7-Landing-Page-Optimization-Tools-1.jpg?tr=w-60,h-50)
     
     Top 7 Landing Page Optimization Tools](https://vwo.com/blog/landing-page-optimization-tools/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Top-10-Behavior-Analytics-Tools-Tips-to-Choose-the-Perfect-Fit-1.jpg?tr=w-60,h-50)
-    
-    Top 10 Behavior Analytics Tools & Tips to Choose the Perfect Fit](https://vwo.com/blog/behavior-analytics-tools/)
     
     Featured Blogs
     
