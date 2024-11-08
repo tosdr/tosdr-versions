@@ -1,3 +1,7 @@
+[🎉 Zippity-zoo, the fun’s for YOU! 🎉 Get 22% OFF EXTRA on all sets! Code: SINGLES22 🛒](https://www.playmobil.com/en-us/web-shop/)
+
+[🎉 Zippity-zoo, the fun’s for YOU! 🎉 Get 22% OFF EXTRA on all sets! Code: SINGLES22 🛒](https://www.playmobil.com/en-us/web-shop/)
+
 [](https://www.playmobil.us/en-us/)
 
 [Sign in](https://www.playmobil.us/en-us/login/)
