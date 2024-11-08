@@ -1,6 +1,6 @@
 [Login](https://app.perimeter81.com/sign-in) [Support](https://support.perimeter81.com/)
 
-[![Perimeter 81](https://www.perimeter81.com/app/themes/perimeter81/dist/images/svg/icons/icon_logo_checkpoint.svg)](https://www.perimeter81.com/)
+[![Perimeter 81](https://assets.perimeter81.com/uploads/2024/08/Logo_dark.svg)](https://www.perimeter81.com/)
 
 * Products & Services
     
@@ -121,16 +121,15 @@
     
 * Company
     
-    * [About Us](https://www.perimeter81.com/about-us)
+    * [About Us](https://www.checkpoint.com/about-us/)
     * [Events](https://www.perimeter81.com/events)
-    * [Awards](https://www.perimeter81.com/awards)
-    * [Press Center](https://www.perimeter81.com/press)
+    * [Press Center](https://www.checkpoint.com/about-us/newsroom/)
     * [Careers](https://careers.checkpoint.com/)
     * [Contact Us](https://www.perimeter81.com/contact)
     
     ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![](https://assets.perimeter81.com/uploads/2024/01/badges-company-winter24.png)
+    ![](https://assets.perimeter81.com/uploads/2024/10/large-menu-thumbnail.png)
     
     Awards
     
@@ -144,7 +143,6 @@
         * [Become a Partner](https://www.perimeter81.com/partners)
         * [Partners Portal](https://perimeter81.my.site.com/partners/login)
         * [Partners Locator](https://www.perimeter81.com/partners/locator)
-        * [Off-Site Traning](https://www.perimeter81.com/partners/partner-off-site-training)
     * [Become a Partner](https://www.perimeter81.com/partners#become-partner-registration)
 * [Pricing](https://www.perimeter81.com/pricing)
 * [Login](https://app.perimeter81.com/sign-in)
@@ -317,22 +315,22 @@ At Perimeter 81, our mission is to simplify secure network, cloud and applicatio
 
 ![](https://assets.perimeter81.com/uploads/2022/05/main-footer-MED-1.svg)](https://www.perimeter81.com/solutions/compliance/hipaa)
 
-[![Perimeter 81](https://www.perimeter81.com/app/themes/perimeter81/dist/images/svg/icons/icon_logo_checkpoint.svg)](https://www.perimeter81.com/)
+[![Perimeter 81](https://assets.perimeter81.com/uploads/2024/08/Logo_dark.svg)](https://www.perimeter81.com/)
 
 Follow US
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![](https://assets.perimeter81.com/uploads/2021/01/icon_facebook.svg)](https://www.facebook.com/Perimeter81/)
+    ![](https://assets.perimeter81.com/uploads/2021/01/icon_facebook.svg)](javascript:void(0))
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![](https://assets.perimeter81.com/uploads/2021/01/icon_tweeter.svg)](https://twitter.com/perimeter_81)
+    ![](https://assets.perimeter81.com/uploads/2021/01/icon_tweeter.svg)](javascript:void(0))
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![](https://assets.perimeter81.com/uploads/2021/01/icon_linkedIn.svg)](https://www.linkedin.com/company/perimeter-81)
+    ![](https://assets.perimeter81.com/uploads/2021/01/icon_linkedIn.svg)](javascript:void(0))
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![](https://assets.perimeter81.com/uploads/2021/01/icon_youtube.svg)](https://www.youtube.com/Perimeter81)
+    ![](https://assets.perimeter81.com/uploads/2021/01/icon_youtube.svg)](javascript:void(0))
 
 Perimeter 81 Ltd. © 2024
 
