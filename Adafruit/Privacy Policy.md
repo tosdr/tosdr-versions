@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We must use time creatively, in the knowledge that the time is always ripe to do right”
+“ Take the tools in hand and carve your own best life”
 
-[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+[Douglas Lurton](https://archive.org/details/makemostofyourli00lurtrich)
 
 [](https://www.adafruit.com/about)
 
