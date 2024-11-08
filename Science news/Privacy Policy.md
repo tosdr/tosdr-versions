@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Bees flying near cars are dying by the millions, a roadkill study suggests](https://www.sciencenews.org/article/bees-cars-dying-roadkill)
             
-            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")4 hours ago
+            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")9 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Meet Chonkus, the mutant cyanobacteria that could help sink climate change](https://www.sciencenews.org/article/chonkus-climate-change-cyanobacteria)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")2 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")7 hours ago
             
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")11 hours ago
             
         * [Tech](https://www.sciencenews.org/topic/tech)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")11 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
