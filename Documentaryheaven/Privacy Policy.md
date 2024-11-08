@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Secrets Of The Great Wall](/wp-content/thumbnails/16429-100x70.jpg?x53432)
+* [![Keith: Father, Trainer, Wrestler](/wp-content/thumbnails/8097-100x70.jpg?x53432)
     
-    Secrets Of The Great Wall
+    Keith: Father, Trainer, Wrestler
     
-    The Great Wall of China, it's been studied for decades but now new technology is revealing its secrets like never before. In this National Geographic special we see archaeologist Allan Maca, an exper](https://documentaryheaven.com/secrets-of-great-wall/ "Secrets Of The Great Wall")
-* [![Gone: The Story of Paul Alexander](/wp-content/thumbnails/10063-100x70.jpg?x53432)
+    Winner of a Regional Royal Television Society Award. Keith is a thirty minute human interest documentary about Keith Myatt, a professional wrestler for over twenty years whose career goal is to partic](https://documentaryheaven.com/keith-father-trainer-wrestler/ "Keith: Father, Trainer, Wrestler")
+* [![Bridal Slaves](/wp-content/thumbnails/7104-100x70.jpg?x53432)
     
-    Gone: The Story of Paul Alexander
+    Bridal Slaves
     
-    Paul Alexander was a young British teenager who possessed an amazing talent for skateboarding, he was full of character and had crazy ambition for his age. Upon moving from Leicester to Bristol he dis](https://documentaryheaven.com/gone-story-of-paul-alexander/ "Gone: The Story of Paul Alexander")
-* [![Outback Fight Club](/wp-content/thumbnails/6569-100x70.jpg?x53432)
+    In the midst of widespread poverty, fueled by economic inequality and rampant corruption, a new form of slavery - bridal slavery - has flourished in India. Women and young girls are sold for as little](https://documentaryheaven.com/bridal-slaves/ "Bridal Slaves")
+* [![Blanketmen](/wp-content/thumbnails/6498-100x70.jpg?x53432)
     
-    Outback Fight Club
+    Blanketmen
     
-    Fred Brophy is a fourth generation traveling showman and heads the last surviving tent boxing troupe in the world. To many, Fred is an outback hero. He is friend, counselor and savior to the rural une](https://documentaryheaven.com/outback-fight-club/ "Outback Fight Club")
-* [![Making of The Shining (With Commentary)](/wp-content/thumbnails/3884-100x70.jpg?x53432)
+    A documentary focusing on the morale of Irish Republican prisoners during the tumultuous period of the 1976-81 H-Block prison protest which culminated in the deaths of 10 men on hunger strike.In h](https://documentaryheaven.com/blanketmen/ "Blanketmen")
+* [![War Photographer](/wp-content/thumbnails/1557-100x70.jpg?x53432)
     
-    Making of The Shining (With Commentary)
+    War Photographer
     
-    This version of the documentary has commentary by Vivian Kubrick "Stanley Kubrick allowed his then-17-year-old daughter, Vivian, to make a documentary about the production of The Shining. Created all](https://documentaryheaven.com/making-of-the-shining-with-commentary/ "Making of The Shining (With Commentary)")
-* [![The Battle to Beat Polio](/wp-content/thumbnails/8851-100x70.jpg?x53432)
+    A film about the American photographer James Nachtwey, about his motivation, his fears and his daily routine as a war photographer. If we believe Hollywood pictures, war photographers are all hard-boi](https://documentaryheaven.com/war-photographer/ "War Photographer")
+* [![A Brief History of Time](/wp-content/thumbnails/357-100x70.png?x53432)
     
-    The Battle to Beat Polio
+    A Brief History of Time
     
-    Stephanie Flanders, former BBC economics editor, has a very personal interest in the battle to beat polio. Her father, Michael Flanders, one half of the world-famous singing duo of the 50s and 60s, Fl](https://documentaryheaven.com/battle-to-beat-polio/ "The Battle to Beat Polio")
+    The movie about Stephen Hawking’s ideas from his book titled the same and abut his life. A Brief History of Time attempts to explain a range of subjects in cosmology, including the Big Bang, black hol](https://documentaryheaven.com/a-brief-history-of-time/ "A Brief History of Time")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
