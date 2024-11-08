@@ -30,9 +30,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Brand Innovators Marketing Leadership Summit at Advertising Week 2024](https://illumin.com/wp-content/uploads/2024/11/BI-event-1-263x300.jpg)
+    * ![TikTok launches its search ads](https://illumin.com/wp-content/uploads/2024/11/TikTok-Search-Advertising-263x300.png)
         
-        Brand Innovators Marketing Leadership Summit at Advertising Week 2024[Read More](https://illumin.com/insights/events/bi-marketing-leadership-summit-at-advertising-week-2024/)
+        TikTok launches its search ads[Read More](https://illumin.com/insights/blog/tiktok-search-ads/)
         
 * [Company](#)
     * [Company](#)
