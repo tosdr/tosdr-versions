@@ -44,7 +44,7 @@
     
     Bonus seats
     
-    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.DLXJi2aV_Z23mHt6.svg)
     
     Learn Enterprise:  
     limited-time offer
@@ -53,7 +53,7 @@
     
     [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
 * Why OffSec
     
@@ -79,7 +79,7 @@
     
     Bonus seats
     
-    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.DLXJi2aV_Z23mHt6.svg)
     
     Learn Enterprise:  
     limited-time offer
@@ -88,7 +88,7 @@
     
     [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
     [Attain a Certification
     
@@ -130,7 +130,7 @@
     
     Bonus seats
     
-    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.DLXJi2aV_Z23mHt6.svg)
     
     Learn Enterprise:  
     limited-time offer
@@ -139,7 +139,7 @@
     
     [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
     [Pricing
     
@@ -163,7 +163,7 @@
     
     Get 20% off
     
-    ![Learn One:<br /> limited-time offer](/_astro/l1-block.CNdfTFLd_ZmHyGD.svg)
+    ![Learn One:<br /> limited-time offer](/_astro/l1-block.DuICdnV3_YUOdi.svg)
     
     Learn One:  
     limited-time offer
@@ -172,7 +172,7 @@
     
     [Start your quest](https://portal.offsec.com/registration?preselect=67)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
 * Partners
     
@@ -293,7 +293,7 @@
     
     Bonus seats
     
-    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.DLXJi2aV_Z23mHt6.svg)
     
     Learn Enterprise:  
     limited-time offer
@@ -302,7 +302,7 @@
     
     [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
 * Why OffSec
     
@@ -328,7 +328,7 @@
     
     Bonus seats
     
-    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.DLXJi2aV_Z23mHt6.svg)
     
     Learn Enterprise:  
     limited-time offer
@@ -337,7 +337,7 @@
     
     [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
     [Attain a Certification
     
@@ -379,7 +379,7 @@
     
     Bonus seats
     
-    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.DLXJi2aV_Z23mHt6.svg)
     
     Learn Enterprise:  
     limited-time offer
@@ -388,7 +388,7 @@
     
     [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
     [Pricing
     
@@ -412,7 +412,7 @@
     
     Get 20% off
     
-    ![Learn One:<br /> limited-time offer](/_astro/l1-block.CNdfTFLd_ZmHyGD.svg)
+    ![Learn One:<br /> limited-time offer](/_astro/l1-block.DuICdnV3_YUOdi.svg)
     
     Learn One:  
     limited-time offer
@@ -421,7 +421,7 @@
     
     [Start your quest](https://portal.offsec.com/registration?preselect=67)
     
-    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
+    ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
 * Partners
     
