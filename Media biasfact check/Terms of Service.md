@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 8, 2024 | Media News Daily: Top Stories for 11/08/2024](https://mediabiasfactcheck.com/2024/11/08/media-news-daily-top-stories-for-11-08-2024/ "Media News Daily: Top Stories for 11/08/2024")
+* [November 8, 2024 | MBFC’s Daily Vetted Fact Checks for 11/08/2024](https://mediabiasfactcheck.com/2024/11/08/mbfcs-daily-vetted-fact-checks-for-11-08-2024/ "MBFC’s Daily Vetted Fact Checks for 11/08/2024")
 * [November 7, 2024 | Media News Daily: Top Stories for 11/07/2024](https://mediabiasfactcheck.com/2024/11/07/media-news-daily-top-stories-for-11-07-2024/ "Media News Daily: Top Stories for 11/07/2024")
 * [November 7, 2024 | MBFC’s Daily Vetted Fact Checks for 11/07/2024](https://mediabiasfactcheck.com/2024/11/07/mbfcs-daily-vetted-fact-checks-for-11-07-2024/ "MBFC’s Daily Vetted Fact Checks for 11/07/2024")
 * [November 6, 2024 | MBFC’s Daily Vetted Fact Checks for 11/06/2024](https://mediabiasfactcheck.com/2024/11/06/mbfcs-daily-vetted-fact-checks-for-11-06-2024/ "MBFC’s Daily Vetted Fact Checks for 11/06/2024")
-* [November 5, 2024 | MBFC’s Daily Vetted Fact Checks for 11/05/2024](https://mediabiasfactcheck.com/2024/11/05/mbfcs-daily-vetted-fact-checks-for-11-05-2024/ "MBFC’s Daily Vetted Fact Checks for 11/05/2024")
-* [November 4, 2024 | Media News Daily: Top Stories for 11/04/2024](https://mediabiasfactcheck.com/2024/11/04/media-news-daily-top-stories-for-11-04-2024/ "Media News Daily: Top Stories for 11/04/2024")
 
 Search for:  
 
@@ -153,6 +153,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [EurAsian Times – Bias and Credibility](https://mediabiasfactcheck.com/eurasian-times-bias-and-credibility/)
+    
+    November 8, 2024
+    
+* [Frontiers in Imaging – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-imaging-bias/)
+    
+    November 8, 2024
+    
 * [Agencia EFE – Bias and Credibility](https://mediabiasfactcheck.com/agencia-efe-bias-and-credibility/)
     
     November 7, 2024
@@ -177,17 +185,15 @@ No related posts.
     
     November 6, 2024
     
-* [Crops Journal – Bias and Credibility](https://mediabiasfactcheck.com/crops-journal-bias-and-credibility/)
-    
-    November 6, 2024
-    
-* [Deutschlandfunk – Bias and Credibility](https://mediabiasfactcheck.com/deutschlandfunk-bias-and-credibility/)
-    
-    November 6, 2024
-    
 
 #### Recently Updated Pages
 
+* [EurAsian Times – Bias and Credibility](https://mediabiasfactcheck.com/eurasian-times-bias-and-credibility/ "View EurAsian Times – Bias and Credibility") - November 8, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 8, 2024
+    
+* [Frontiers in Imaging – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-imaging-bias/ "View Frontiers in Imaging – Bias and Credibility") - November 8, 2024
+    
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 7, 2024
     
 * [Agencia EFE – Bias and Credibility](https://mediabiasfactcheck.com/agencia-efe-bias-and-credibility/ "View Agencia EFE – Bias and Credibility") - November 7, 2024
@@ -202,20 +208,14 @@ No related posts.
     
 * [ARD.de – Bias and Credibility](https://mediabiasfactcheck.com/ard-de-bias-and-credibility/ "View ARD.de – Bias and Credibility") - November 7, 2024
     
-* [Olean Times Herald – Bias and Credibility](https://mediabiasfactcheck.com/olean-times-herald-bias-and-credibility/ "View Olean Times Herald – Bias and Credibility") - November 7, 2024
-    
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 7, 2024
-    
-* [Western Advocate – Bias and Credibility](https://mediabiasfactcheck.com/western-advocate-bias/ "View Western Advocate – Bias and Credibility") - November 7, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
