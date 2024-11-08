@@ -7,7 +7,7 @@ Log In
 [![Artspace Logo](//d5wt70d4gnm1t.cloudfront.net/static/common/img/header/logo_2.svg?v=2)](https://www.artspace.com/)
 
 [SIGN UP FOR OUR EMAIL &  
-GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
+FREE SHIPPING ON YOUR FIRST ORDER!](https://www.artspace.com/account_creation)
 
 * Sign In
 * |
@@ -131,7 +131,7 @@ All rights reserved.
 [](https://x.com/artspace)[](https://www.instagram.com/artspace/)  
 [](https://www.pinterest.com/artspace/)
 
-RECEIVE OUR AWARD WINNING EMAILS & ENJOY 10% OFF YOUR FIRST PURCHASE
+RECEIVE OUR AWARD WINNING EMAILS & FREE SHIPPING YOUR FIRST PURCHASE
 --------------------------------------------------------------------
 
 Receive our newsletterSign Up Now I accept the [terms and conditions](https://www.artspace.com/legal) 
