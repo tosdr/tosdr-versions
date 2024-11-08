@@ -34,9 +34,11 @@ International schoolsUK editionAustralia edition
         
     * Safeguarding and compliance
         
-        * [Tes Safeguarding Powered by Educare](https://www.edukey.co.uk/en-gb/for-schools/safeguarding-training)
+        * [Tes Safeguarding Training Powered by Educare](https://www.edukey.co.uk/en-gb/for-schools/safeguarding-training)
             
-        * [MyConcern Safeguarding software for schools](https://www.edukey.co.uk/en-gb/for-schools/myconcern)
+        * [Tes MyConcern Safeguarding software for schools](https://www.edukey.co.uk/en-gb/for-schools/myconcern)
+            
+        * [Tes Clarity Safeguarding reporting for Trusts and LAs](https://www.tes.com/en-gb/for-schools/clarity)
             
         
     * Staff management & Finance
@@ -87,9 +89,11 @@ TES Close
         
     * [Safeguarding and compliance](https://www.edukey.co.uk/en-gb) Open
         
-        * [Tes Safeguarding](https://www.edukey.co.uk/en-gb/for-schools/safeguarding-training)
+        * [Tes Safeguarding Training](https://www.edukey.co.uk/en-gb/for-schools/safeguarding-training)
             
-        * [MyConcern](https://www.edukey.co.uk/en-gb/for-schools/myconcern)
+        * [Tes MyConcern](https://www.edukey.co.uk/en-gb/for-schools/myconcern)
+            
+        * [Tes Clarity](https://www.tes.com/en-gb/for-schools/clarity)
             
         
     * [Staff management & Finance](https://www.tes.com/for-schools/staff-management) Open
