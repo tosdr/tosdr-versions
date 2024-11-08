@@ -87,7 +87,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Genetics](https://www.sciencenews.org/topic/genetics)
+            
+            ### [A common drug may help treat a rare genetic disease](https://www.sciencenews.org/article/common-drug-treat-rare-genetic-disease)
+            
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")47 mins ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [‘The Power of Prions’ explores misfolded proteins’ role in brain diseases](https://www.sciencenews.org/article/misfolded-proteins-brain-diseases)
             
@@ -99,12 +105,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")November 6, 2024
             
-        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
-            
-            ### [A huge, ancient Maya city has been found in southern Mexico](https://www.sciencenews.org/article/ancient-maya-city-found-southern-mexico)
-            
-            By [Meghie Rodrigues](https://www.sciencenews.org/author/meghie-rodrigues "Posts by Meghie Rodrigues")November 6, 2024
-            
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
         * [Animals](https://www.sciencenews.org/topic/animals)
@@ -114,11 +114,17 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Genetics](https://www.sciencenews.org/topic/genetics)
+            
+            ### [A common drug may help treat a rare genetic disease](https://www.sciencenews.org/article/common-drug-treat-rare-genetic-disease)
+            
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")47 mins ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Bees flying near cars are dying by the millions, a roadkill study suggests](https://www.sciencenews.org/article/bees-cars-dying-roadkill)
             
-            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")21 hours ago
+            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")November 7, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -126,23 +132,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 5, 2024
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Why finding bird flu in a U.S. pig for the first time is raising new worries](https://www.sciencenews.org/article/influenza-pig-bird-flu-us)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 1, 2024
-            
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Climate](https://www.sciencenews.org/topic/climate)
+    * * [Environment](https://www.sciencenews.org/topic/environment)
+            
+            ### [Fire-prone neighborhoods on the fringes of nature are rapidly expanding](https://www.sciencenews.org/article/fire-prone-neighborhoods-expanding)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")2 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Meet Chonkus, the mutant cyanobacteria that could help sink climate change](https://www.sciencenews.org/article/chonkus-climate-change-cyanobacteria)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")19 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 7, 2024
             
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
             
@@ -150,34 +156,28 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")November 6, 2024
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
-            
-            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")October 31, 2024
-            
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
+            ### [Antimatter could travel by truck, a test with protons shows](https://www.sciencenews.org/article/antimatter-protons-travel-truck)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")5 hours ago
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 7, 2024
             
         * [Tech](https://www.sciencenews.org/topic/tech)
             
             ### [Feather-inspired airplane flaps could boost flight performance](https://www.sciencenews.org/article/feather-inspired-airplane-flaps)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 5, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 24, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
@@ -188,13 +188,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A cosmic census triples the known number of black holes in dwarf galaxies](https://www.sciencenews.org/article/census-black-holes-dwarf-galaxies)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")23 mins ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")7 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 7, 2024
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
