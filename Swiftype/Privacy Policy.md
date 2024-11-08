@@ -522,7 +522,7 @@ Follow us
 * Join us
     -------
     
-    [Careers](https://www.elastic.co/careers)[Career portal](https://jobs.elastic.co/#/)
+    [Careers](https://www.elastic.co/careers)[Career portal](https://jobs.elastic.co/#/)[How we hire](https://www.elastic.co/careers/how-we-hire)
     
 
 * Partners
@@ -555,7 +555,7 @@ About us
 Join us
 -------
 
-[Careers](https://www.elastic.co/careers)[Career portal](https://jobs.elastic.co/#/)
+[Careers](https://www.elastic.co/careers)[Career portal](https://jobs.elastic.co/#/)[How we hire](https://www.elastic.co/careers/how-we-hire)
 
 Partners
 --------
