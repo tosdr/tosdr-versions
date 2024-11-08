@@ -611,8 +611,6 @@ United States (English)
     * [Español](https://stripe.com/es-us/privacy)
     * [简体中文](https://stripe.com/zh-us/privacy)
 
-* © 2024 Stripe, Inc.
-
 Products & pricing
 ==================
 
@@ -699,3 +697,5 @@ Support
 * [Support center](https://support.stripe.com/?referrerLocale=en-us)
 * [Support plans](https://stripe.com/support-plans)
 * CA residents: +1 888 926 2289
+
+* © 2024 Stripe, Inc.
