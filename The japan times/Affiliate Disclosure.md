@@ -131,68 +131,66 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432867.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.")](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[What does Trump's victory mean for Japan?](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432750.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.")](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Nissan cuts outlook, announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
-
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
-
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432867.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.")](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
 [COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[What does Trump's victory mean for Japan?](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
 
-By F.D. Flam  
+By [Kuni Miyake](https://www.japantimes.co.jp/author/1298/kuni-miyake/ "Kuni Miyake")  
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432750.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.")](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Nissan cuts outlook, announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Nicholas Takahashi](https://www.japantimes.co.jp/author/4213/nicholas-takahashi/ "Nicholas Takahashi")  
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
+
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+
+By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "Aishwarya KUMAR")  
+
+  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
 Podcast
 -------
@@ -257,23 +255,13 @@ Latest News
 
 [LDP between a rock and a hard place in struggle to get DPP support](https://www.japantimes.co.jp/news/2024/11/08/japan/politics/ldp-dpp-policy-negotiations/ "LDP between a rock and a hard place in struggle to get DPP support")
 
-7 hours ago
-
 [Komeito pins hopes on new leader after dismal electoral performance](https://www.japantimes.co.jp/news/2024/11/08/japan/politics/komeito-leadership-election/ "Komeito pins hopes on new leader after dismal electoral performance")
-
-7 hours ago
 
 [Comedian Hitoshi Matsumoto to withdraw Bungeishunju defamation suit](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/hitoshi-matsumoto-trial-bunshun/ "Comedian Hitoshi Matsumoto to withdraw Bungeishunju defamation suit")
 
-8 hours ago
-
 [Bank of Yokohama weighs Japan bond comeback with more rate hikes to come](https://www.japantimes.co.jp/business/2024/11/08/companies/yokohama-bank-japan-bonds/ "Bank of Yokohama weighs Japan bond comeback with more rate hikes to come")
 
-10 hours ago
-
 [Police rearrest man over attacks on LDP headquarters and PM Office](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/ldp-attack-rearrest/ "Police rearrest man over attacks on LDP headquarters and PM Office")
-
-10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
