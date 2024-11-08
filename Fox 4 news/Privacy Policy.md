@@ -28,7 +28,6 @@ Search site
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
@@ -90,6 +89,10 @@ Search site
 
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
+
+[River Flood Warning
+
+from FRI 5:18 PM CST until SAT 8:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -402,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Govee electric space heaters recalled over fire and burn risks](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/space-heaters.jpg?ve=1&tl=1)
+ [![Lt. Gov. Dan Patrick says school choice will be a priority for the Senate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/P-SHAUN-HURRICANE-BERYL-PREPS-530P_00.00.22.52.jpg?ve=1&tl=1)
 
- ![Govee electric space heaters recalled over fire and burn risks](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/space-heaters.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/govee-space-heaters-recall-fire-burn-risks-november-2024)
+ ![Lt. Gov. Dan Patrick says school choice will be a priority for the Senate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/P-SHAUN-HURRICANE-BERYL-PREPS-530P_00.00.22.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lt-gov-dan-patrick-says-school-choice-will-be-second-bill-senate)
 
-### [Govee electric space heaters recalled over fire and burn risks](https://www.fox4news.com/news/govee-space-heaters-recall-fire-burn-risks-november-2024)
+### [Lt. Gov. Dan Patrick says school choice will be a priority for the Senate](https://www.fox4news.com/news/lt-gov-dan-patrick-says-school-choice-will-be-second-bill-senate)
 
- [![First IHOP-Applebee's joint restaurant coming to US: where and when it opens](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/applebees-ihop-2.jpg?ve=1&tl=1)
+ [![Man who killed Dallas police officer is suspect in shooting earlier that day, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/corey-cobb.jpg?ve=1&tl=1)
 
- ![First IHOP-Applebee's joint restaurant coming to US: where and when it opens](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/applebees-ihop-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-ihop-applebees-joint-restaurant-us-where-when-opens)
+ ![Man who killed Dallas police officer is suspect in shooting earlier that day, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/corey-cobb.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-suspect-corey-cobb-bey-darron-burks)
 
-### [First IHOP-Applebee's joint restaurant coming to US: where and when it opens](https://www.fox4news.com/news/first-ihop-applebees-joint-restaurant-us-where-when-opens)
+### [Man who killed Dallas police officer is suspect in shooting earlier that day, police say](https://www.fox4news.com/news/dallas-shooting-suspect-corey-cobb-bey-darron-burks)
 
- [![Richardson schools reopen with restrictions as city waits for water test results; Boil water notice remains](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-lori-richardson-boil-water-notice-4p_00.00.01.56.jpg?ve=1&tl=1)
+ [![Traffic Alert: Fallen highway sign shuts down I-45 in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110824-45-sign-down-kdfweme002_11_54_59_mpg_00.00.03.16.jpg?ve=1&tl=1)
 
- ![Richardson schools reopen with restrictions as city waits for water test results; Boil water notice remains](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-lori-richardson-boil-water-notice-4p_00.00.01.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-boil-water-schools-reopen)
+ ![Traffic Alert: Fallen highway sign shuts down I-45 in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110824-45-sign-down-kdfweme002_11_54_59_mpg_00.00.03.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/i-45-dallas-shut-down-traffic-fallen-sign)
 
-### [Richardson schools reopen with restrictions as city waits for water test results; Boil water notice remains](https://www.fox4news.com/news/richardson-boil-water-schools-reopen)
+### [Traffic Alert: Fallen highway sign shuts down I-45 in Dallas](https://www.fox4news.com/news/i-45-dallas-shut-down-traffic-fallen-sign)
 
- [![16-year-old charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1)
+ [![Ken Paxton sues Dallas doctor for providing gender-affirming care to minors](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/52b97193-GettyImages-1240251360.jpg?ve=1&tl=1)
 
- ![16-year-old charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
+ ![Ken Paxton sues Dallas doctor for providing gender-affirming care to minors](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/52b97193-GettyImages-1240251360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ken-paxton-gender-transition-lawsuit)
 
-### [16-year-old charged with murder for deadly Old East Dallas shooting](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
+### [Ken Paxton sues Dallas doctor for providing gender-affirming care to minors](https://www.fox4news.com/news/ken-paxton-gender-transition-lawsuit)
 
- [!['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182751833.jpg?ve=1&tl=1)
+ [![Spicy rigatoni recipe | The Ten](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/spicy.jpg?ve=1&tl=1)
 
- !['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182751833.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-drop-out-search-election-states)
+ ![Spicy rigatoni recipe | The Ten](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/spicy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spicy-rigatoni-recipe-ten)
 
-### ['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://www.fox4news.com/news/biden-drop-out-search-election-states)
+### [Spicy rigatoni recipe | The Ten](https://www.fox4news.com/news/spicy-rigatoni-recipe-ten)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -443,7 +446,6 @@ Please note that, in some instances, we may decline to honor your request where,
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
