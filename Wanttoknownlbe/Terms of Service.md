@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/duiding-zonsverduistering-21-augustus-2017/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/voedsel/cocacola-critici-ondermijnen-vertrouwen-voedselindustrie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -450,11 +450,12 @@ Advertentie
 
 ### WantToKnow-poll
 
-#### Ik zou op Donald Trump stemmen, als ik mocht stemmen in de VS-presidentsverkiezingen
+#### Ik geloof dat er -door Trump's verkiezing- snel een afspraak komt, tussen Rusland en Oekraïne
 
-*  JA
-*  NEE
-*  Geen idee/geen mening
+*  Ja, binnen enkele maanden na beëdiging Trump
+*  Ja, maar dat kan nog wel een jaar duren
+*  Nee, de verkiezing van Trump heeft hier geen invloed op
+*  Geen mening/weet niet
 
  [Bekijk de resultaten](#ViewPollResults "View Results Of This Poll")
 
