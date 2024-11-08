@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
+[### The Berlin Wall fell 35 years ago. Young east Germans fall for relics of the time.](https://www.csmonitor.com/World/Europe/2024/1108/Berlin-Wall-Ostalgie-nostalgia-GDR-East-Germany "The Berlin Wall fell 35 years ago. Young east Germans fall for relics of the time.")
+
 [### With Trump, ‘America First’ is back. US allies brace for a shock.](https://www.csmonitor.com/World/2024/1107/trump-isolationist-america-first "With Trump, ‘America First’ is back. US allies brace for a shock.")
 
 [### Brazil’s president promised to protect the Amazon. This year, deforestation fell 31%.](https://www.csmonitor.com/World/Americas/2024/1107/Brazil-Amazon-deforestation-Lula-environment-climate-change "Brazil’s president promised to protect the Amazon. This year, deforestation fell 31%.")
-
-[### Germany can’t balance its budget. Now its government is in free fall.](https://www.csmonitor.com/World/Europe/2024/1107/olaf-scholz-German-coalition-collapses-debt-Ukraine "Germany can’t balance its budget. Now its government is in free fall.")
 
 * * *
 
