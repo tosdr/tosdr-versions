@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432438.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen grab taken from a live video stream broadcast by the Shizuoka Municipal Government on Wednesday shows Mount Fuji with a dusting of snow on its peak, seen from the Shizuoka side of the mountain. ")](https://www.japantimes.co.jp/news/2024/11/06/japan/mount-fuji-snow/ "Snow seen on Mount Fuji after record time without snowcap")
 
-[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
-  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+  [![Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432867.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.")](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
 Editors' Picks
 --------------
@@ -186,9 +186,11 @@ By [Hiroshi Hiyama](https://www.japantimes.co.jp/author/2633/hiroshi-hiyama/ "Hi
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
-  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432867.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.")](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
 
 Podcast
 -------
@@ -251,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Man arrested over 2006 Hyogo stabbing did not know victim, police say](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/inmate-girl-no-acquaintance/ "Man arrested over 2006 Hyogo stabbing did not know victim, police say")
-
-17 mins ago
-
-[More families stream out of northern Gaza, as tanks push deeper](https://www.japantimes.co.jp/news/2024/11/08/world/gaza-more-displacement/ "More families stream out of northern Gaza, as tanks push deeper")
-
-54 mins ago
-
-[Japan’s households cut spending once again as prices rise](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
+[LDP between a rock and a hard place in struggle to get DPP support](https://www.japantimes.co.jp/news/2024/11/08/japan/politics/ldp-dpp-policy-negotiations/ "LDP between a rock and a hard place in struggle to get DPP support")
 
 1 hours ago
 
-[Powell signals readiness to defy Trump in defense of Fed](https://www.japantimes.co.jp/business/2024/11/08/economy/powell-fed-defense-trump/ "Powell signals readiness to defy Trump in defense of Fed")
+[Komeito pins hopes on new leader after dismal electoral performance](https://www.japantimes.co.jp/news/2024/11/08/japan/politics/komeito-leadership-election/ "Komeito pins hopes on new leader after dismal electoral performance")
 
 1 hours ago
 
-[Japan intervened twice last quarter to bring yen below ¥160](https://www.japantimes.co.jp/business/2024/11/08/markets/japan-yen-intervention/ "Japan intervened twice last quarter to bring yen below ¥160")
+[Comedian Hitoshi Matsumoto to withdraw Bungeishunju defamation suit](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/hitoshi-matsumoto-trial-bunshun/ "Comedian Hitoshi Matsumoto to withdraw Bungeishunju defamation suit")
 
 2 hours ago
+
+[Bank of Yokohama weighs Japan bond comeback with more rate hikes to come](https://www.japantimes.co.jp/business/2024/11/08/companies/yokohama-bank-japan-bonds/ "Bank of Yokohama weighs Japan bond comeback with more rate hikes to come")
+
+4 hours ago
+
+[Police rearrest man over attacks on LDP headquarters and PM Office](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/ldp-attack-rearrest/ "Police rearrest man over attacks on LDP headquarters and PM Office")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
