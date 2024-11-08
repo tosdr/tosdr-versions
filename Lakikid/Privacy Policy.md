@@ -137,9 +137,9 @@ Featured products
 
 ### Fidget Chair Band
 
-$9.97](https://lakikid.com/products/chair-bands-for-kids-with-fidgety-feet-fidget-bands-for-school-classroom-chairs-ideal-for-adhd-autism-hyperactivity-20-x-2-x-3-64-affordable-alternative-to-bouncy-bands-1?variant=13891966173245 "Black 2 packs")
+$9.97](https://lakikid.com/products/chair-bands-for-kids-with-fidgety-feet-fidget-bands-for-school-classroom-chairs-ideal-for-adhd-autism-hyperactivity-20-x-2-x-3-64-affordable-alternative-to-bouncy-bands-1?variant=12892257484861 "Blue 2 packs")
 
-[](https://lakikid.com/products/chair-bands-for-kids-with-fidgety-feet-fidget-bands-for-school-classroom-chairs-ideal-for-adhd-autism-hyperactivity-20-x-2-x-3-64-affordable-alternative-to-bouncy-bands-1?variant=13891966173245 "Black 2 packs")[](#looxReviews "Number Reviews")
+[](https://lakikid.com/products/chair-bands-for-kids-with-fidgety-feet-fidget-bands-for-school-classroom-chairs-ideal-for-adhd-autism-hyperactivity-20-x-2-x-3-64-affordable-alternative-to-bouncy-bands-1?variant=12892257484861 "Blue 2 packs")[](#looxReviews "Number Reviews")
 
 [![Image without description.](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
