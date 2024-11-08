@@ -23,21 +23,21 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
-* [Session Affinity (a.k.a. Sticky Sessions)](https://fly.io/docs/blueprints/sticky-sessions/)
-* [Run private apps with Flycast](https://fly.io/docs/blueprints/private-applications-flycast/)
-* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
-* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
-* [Run an SSH server](https://fly.io/docs/blueprints/opensshd/)
-* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
-* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
-* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
-* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
 * [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
-* [Shared Nothing Architecture](https://fly.io/docs/blueprints/shared-nothing/)
+* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
 * [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
-* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
+* [Shared Nothing Architecture](https://fly.io/docs/blueprints/shared-nothing/)
+* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
+* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
+* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
+* [Run private apps with Flycast](https://fly.io/docs/blueprints/private-applications-flycast/)
 * [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
+* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
+* [Run an SSH server](https://fly.io/docs/blueprints/opensshd/)
+* [Session Affinity (a.k.a. Sticky Sessions)](https://fly.io/docs/blueprints/sticky-sessions/)
+* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
+* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
 
 [Apps on Fly.io](https://fly.io/docs/apps/) Toggle Apps on Fly.io section
 
