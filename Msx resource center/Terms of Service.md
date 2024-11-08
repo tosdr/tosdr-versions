@@ -154,8 +154,9 @@ Latest reactions
 Latest forum posts
 
 * [BASIC-Kun for Omega MSX](https://www.msx.org/forum/msx-talk/hardware/basic-kun-for-omega-msx "BASIC-Kun for Omega MSX")
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=4 "Sony HB-75AS not displaying")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=74 "WonderTANG! Who wants to juice up your MSX?")
+* [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=4 "Sony HB-75AS not displaying")
 * [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=1 "How do I get to the 2nd and other partitions "drives"?")
 * [Gballs new levels](https://www.msx.org/forum/msx-talk/development/gballs-new-levels "Gballs new levels")
 * [MSX2 with MSX Pico on the well know YouTube chanel from Adrian's Digital Basement.](https://www.msx.org/forum/msx-talk/off-topic/msx2-with-msx-pico-on-the-well-know-youtupe-chanel-from-adrians-digital-bas "MSX2 with MSX Pico on the well know YouTube chanel from Adrian's Digital Basement.")
@@ -165,7 +166,6 @@ Latest forum posts
 * [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [Can't get Nogalious MSX to work](https://www.msx.org/forum/msx-talk/software/cant-get-nogalious-msx-to-work "Can't get Nogalious MSX to work")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
-* [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work?page=1 "Can't get MoonLightSaga to work")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
