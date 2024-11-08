@@ -10,17 +10,32 @@ Menu
         
         Explore & Discover
         
-        Ages 0–3+](https://www.kiwico.com/panda)
+        0–36 months](https://www.kiwico.com/panda)
     2. [KiwiCo Sprout
         
         Play & Learn
         
-        Ages 3–6+](https://www.kiwico.com/sprout)
-    3. [KiwiCo Labs
+        Ages 3–5](https://www.kiwico.com/sprout)
+    3. [](https://www.kiwico.com/labs)
+        
+        [KiwiCo Labs
         
         Science & Engineering
         
-        Ages 6–16+](https://www.kiwico.com/labs)
+        Ages 6–16+
+        
+        * * *](https://www.kiwico.com/labs)
+        
+        [](https://www.kiwico.com/labs)2. [](https://www.kiwico.com/labs)[Ages 6–8
+            
+            Science](https://www.kiwico.com/labs/1)
+        3. [Ages 9–11
+            
+            Engineering](https://www.kiwico.com/labs/2)
+        4. [Ages 12–16+
+            
+            Invention](https://www.kiwico.com/labs/3)
+        
     4. [KiwiCo World
         
         Geography & Culture
@@ -31,6 +46,8 @@ Menu
         Art & Design
         
         Ages 9–18+](https://www.kiwico.com/studio)
+    
+    Looking for Kiwi Crate, Tinker Crate...?
     
 2. Ages
     
@@ -80,13 +97,11 @@ Menu
 
 Delivery country/region
 
-Select oneAustraliaAustriaBelgiumBulgariaCanadaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGermanyGreeceHong Kong SARHungaryIcelandIrelandIsraelItalyJapanLatviaLiechtensteinLithuaniaLuxembourgMaltaNetherlandsNew ZealandNorwayPolandPortugalRomaniaSingaporeSouth KoreaSlovakiaSloveniaTurkeySpainSwedenSwitzerlandUnited KingdomUnited States
+Select oneAustraliaAustriaBelgiumBulgariaCanadaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGermanyGreeceHong Kong SARHungaryIcelandIrelandIsraelItalyJapanLatviaLiechtensteinLithuaniaLuxembourgMaltaNetherlandsNew ZealandNorwayPolandPortugalRomaniaSingaporeSouth KoreaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUnited KingdomUnited States
 
 Currency
 
 Select oneUSD ($)CAD (CA$)AUD (A$)NZD (NZ$)GBP (£)EUR (€)HKD (HK$)SGD (S$)YEN (¥)WON (₩)RON (lei)CHF (Fr)PLN (zł)NOK (kr)ILS (₪)ISK (kr)HUF (Ft)DKK (kr)BGN (лв)
-
-[Share KiwiCo, Get $10!![Sketch of a present graphic](https://icdn.kiwico.com/site/panda/sample-crates/module/icon-present.svg)](https://www.kiwico.com/refer-a-friend)
 
 SMS Terms of Service
 ====================
@@ -158,7 +173,7 @@ Support
 
 Delivery country/region
 
-Select oneAustraliaAustriaBelgiumBulgariaCanadaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGermanyGreeceHong Kong SARHungaryIcelandIrelandIsraelItalyJapanLatviaLiechtensteinLithuaniaLuxembourgMaltaNetherlandsNew ZealandNorwayPolandPortugalRomaniaSingaporeSouth KoreaSlovakiaSloveniaTurkeySpainSwedenSwitzerlandUnited KingdomUnited States
+Select oneAustraliaAustriaBelgiumBulgariaCanadaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGermanyGreeceHong Kong SARHungaryIcelandIrelandIsraelItalyJapanLatviaLiechtensteinLithuaniaLuxembourgMaltaNetherlandsNew ZealandNorwayPolandPortugalRomaniaSingaporeSouth KoreaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUnited KingdomUnited States
 
 Currency
 
