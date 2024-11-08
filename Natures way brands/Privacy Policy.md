@@ -1502,8 +1502,6 @@ More Info
 
        
 
-Chat not available
-
 #### Hello there, looks like you're located in Canada.
 
 Would you like to visit our Canada Store?
