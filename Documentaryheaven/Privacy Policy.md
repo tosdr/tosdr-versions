@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Modern Marvels – Water](/wp-content/thumbnails/3767)
+* [![Secrets Of The Great Wall](/wp-content/thumbnails/16429-100x70.jpg?x53432)
     
-    Modern Marvels – Water
+    Secrets Of The Great Wall
     
-    Turn the tap on a surprisingly rich hour exploring the many mysteries of H2O.\* For over a decade, MODERN MARVELS has brought grand stories to life. \* The ultimate celebration and investigation of en](https://documentaryheaven.com/modern-marvels-water/ "Modern Marvels – Water")
-* [![Keith Moon: Final 24: His Final Hours](/wp-content/thumbnails/6668-100x70.png?x53432)
+    The Great Wall of China, it's been studied for decades but now new technology is revealing its secrets like never before. In this National Geographic special we see archaeologist Allan Maca, an exper](https://documentaryheaven.com/secrets-of-great-wall/ "Secrets Of The Great Wall")
+* [![Gone: The Story of Paul Alexander](/wp-content/thumbnails/10063-100x70.jpg?x53432)
     
-    Keith Moon: Final 24: His Final Hours
+    Gone: The Story of Paul Alexander
     
-    Final 24 documents the final moments of this rock star’s life. This compelling documentary series unlocks the hidden secrets, psychological flaws and events that result in the tragic deaths of famed n](https://documentaryheaven.com/keith-moon-final-24-his-final-hours/ "Keith Moon: Final 24: His Final Hours")
-* [![China: Inventing Innovation?](/wp-content/thumbnails/6623-100x70.jpg?x53432)
+    Paul Alexander was a young British teenager who possessed an amazing talent for skateboarding, he was full of character and had crazy ambition for his age. Upon moving from Leicester to Bristol he dis](https://documentaryheaven.com/gone-story-of-paul-alexander/ "Gone: The Story of Paul Alexander")
+* [![Outback Fight Club](/wp-content/thumbnails/6569-100x70.jpg?x53432)
     
-    China: Inventing Innovation?
+    Outback Fight Club
     
-    China cannot maintain its historic economic growth unless it starts pushing innovation in ways that the United States has never imagined. One city in China has announced a program to create an army o](https://documentaryheaven.com/china-inventing-innovation/ "China: Inventing Innovation?")
-* [![Ebola: The Search for a Cure](/wp-content/thumbnails/9205-100x70.jpg?x53432)
+    Fred Brophy is a fourth generation traveling showman and heads the last surviving tent boxing troupe in the world. To many, Fred is an outback hero. He is friend, counselor and savior to the rural une](https://documentaryheaven.com/outback-fight-club/ "Outback Fight Club")
+* [![Making of The Shining (With Commentary)](/wp-content/thumbnails/3884-100x70.jpg?x53432)
     
-    Ebola: The Search for a Cure
+    Making of The Shining (With Commentary)
     
-    Nobody really knows where the Ebola virus comes from but whats even scarier is the fact that his recent outbreak is the worst Ebola epidemic the world has ever seen, with the current death toll claimi](https://documentaryheaven.com/ebola-search-cure/ "Ebola: The Search for a Cure")
-* [![The Human Mind](/wp-content/thumbnails/655-100x70.png?x53432)
+    This version of the documentary has commentary by Vivian Kubrick "Stanley Kubrick allowed his then-17-year-old daughter, Vivian, to make a documentary about the production of The Shining. Created all](https://documentaryheaven.com/making-of-the-shining-with-commentary/ "Making of The Shining (With Commentary)")
+* [![The Battle to Beat Polio](/wp-content/thumbnails/8851-100x70.jpg?x53432)
     
-    The Human Mind
+    The Battle to Beat Polio
     
-    In this three-part documentary, Robert Winston explores all aspects of the human mind - from how we learn, to how we're able to recognise faces and what makes one person 'click' with another.Episo](https://documentaryheaven.com/the-human-mind/ "The Human Mind")
+    Stephanie Flanders, former BBC economics editor, has a very personal interest in the battle to beat polio. Her father, Michael Flanders, one half of the world-famous singing duo of the 50s and 60s, Fl](https://documentaryheaven.com/battle-to-beat-polio/ "The Battle to Beat Polio")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
