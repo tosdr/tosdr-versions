@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Seal Team 6](https://cdn.returningveterans.org/images/honor/beth_corey_woh_picture.jpg)  
+![Patrick Finnegan](https://cdn.returningveterans.org/images/honor/10_Patrick_Finnegan.png)  
 
-**In Honor of Seal Team 6**  
-United States Navy  
-Submitted by Beth Corey](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Patrick Finnegan**  
+United States Army  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/07/24 - 7:19:33  
+Printed 11/08/24 - 1:19:41  
 © 2024 Returning Veterans Project
