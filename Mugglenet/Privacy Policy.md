@@ -244,20 +244,6 @@ MuggleNet Archive Select Month November 2024  (5) October 2024  (27) September
 
 ### November 2024
 
-#### Thu, Nov 7
-
-Fantastic Beasts and Where to Find Them Illustrated Edition
-
-Recurs yearly
-
-2017
-
-Lockhart removes the bones in Harry's right arm
-
-Recurs yearly
-
-1992
-
 #### Fri, Nov 8
 
 Chris Rankin's birthday
@@ -288,6 +274,14 @@ Recurs yearly
 
 1994
 
+#### Thu, Nov 14
+
+MuggleNet Fan Fiction's anniversary
+
+Recurs yearly
+
+2005
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During the Harry Potter and the Chamber of Secrets film, Emma Watson broke her wrist.
+When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
 
 ### Potter History
 
-October 23, 2010 – The running time for Harry Potter and the Deathly Hallows – Part 1 is revealed to be 147 minutes.
+January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
 
 ### Potter Quote
 
-“Make way for the Heir of Slytherin, seriously evil wizard coming through. . . .”
+“I know what you are known as. But to me, I’m afraid, you will always be Tom Riddle. It is one of the irritating things about old teachers. I am afraid that they never quite forget their charges’ youthful beginnings.”
 
 [](#)
 
