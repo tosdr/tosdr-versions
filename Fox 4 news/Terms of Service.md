@@ -91,20 +91,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Flash Flood Warning
-
-from FRI 12:36 AM CST until FRI 5:00 AM CST, Palo Pinto County](https://www.fox4news.com/weather-alerts)
-
-3
-
-[Severe Thunderstorm Warning
-
-until FRI 2:00 AM CST, Palo Pinto County, Jack County, Parker County](https://www.fox4news.com/weather-alerts)
-
-[Severe Thunderstorm Warning
-
-from FRI 1:44 AM CST until FRI 2:45 AM CST, Wise County, Parker County, Jack County](https://www.fox4news.com/weather-alerts)
-
 Terms of Use
 ============
 
