@@ -1,6 +1,9 @@
 Terms and Conditions of **www.macofalltrades.com**
 ==================================================
 
+Introduction
+------------
+
 These Terms govern
 
 * the use of this Website, and,
@@ -43,8 +46,8 @@ By using this Website, Users confirm to meet the following requirements:
 
 * There are no restrictions for Users in terms of being Consumers or Business Users;
 
-* Users aren’t located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist-supporting” country;
-* Users aren’t listed on any U.S. Government list of prohibited or restricted parties;
+* Users aren’t located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a “terrorist-supporting” country;
+* Users aren’t listed on any U.S. government list of prohibited or restricted parties;
 
 ### Account registration
 
@@ -162,7 +165,6 @@ When the User submits an order, the following applies:
 
 * Unless the order receipt expressly includes the acceptance of the order, in which case the contract is therefore then entered into, the purchase contract is entered into at the moment the User receives the communication of order acceptance.
 * Subject to availability and to the Owner’s discretion, the order shall be accepted without undue delay.
-* If the order is not accepted, the Owner shall issue a refund.
 
 The rejection of an order shall not entitle the User to bring any claim against the Owner, including compensation for damages.
 
@@ -206,11 +208,11 @@ Unless otherwise stated, these rules apply to the use of Coupons:
 
 ### Methods of payment
 
-Information related to accepted payment methods are made available during the purchasing process.
+Information related to accepted payment methods is made available during the purchasing process.
 
 Some payment methods may only be available subject to additional conditions or fees. In such cases related information can be found in the dedicated section of this Website.
 
-All payments are independently processed through third-party services. Therefore, this Website does not collect any payment information – such as credit card details – but only receives a notification once the payment has been successfully completed.
+All payments are independently processed through third-party services. Therefore, this Website does not collect any payment information – such as credit card details – but only receives a notification once the payment has been successfully completed. The User may read the privacy policy of this Website to learn more about the data processing and Users’ rights regarding their data.
 
 If a payment through the available methods fails or is refused by the payment service provider, the Owner shall be under no obligation to fulfill the purchase order. If a payment fails or is refused, the Owner reserves the right to claim any related expenses or damages from the User.
 
@@ -234,7 +236,7 @@ Until payment of the total purchase price is received by the Owner, any Products
 
 Deliveries are made to the address indicated by the User and in the manner specified in the order summary.
 
-Upon delivery, Users must verify the content of the delivery and report anomalies without undue delay, using the contact details provided in this document or as described in the delivery note. Users may refuse to accept the parcel if visibly damaged.
+Upon delivery, Users should verify the content of the delivery and report anomalies without undue delay, using the contact details provided in this document or as described in the delivery note. Users may refuse to accept the parcel if visibly damaged.
 
 Goods are delivered to the countries or territories specified in the relevant section of this Website.
 
@@ -259,9 +261,9 @@ Unless exceptions apply, the User may be eligible to withdraw from the contract 
 
 #### Who the right of withdrawal applies to
 
-Unless any applicable exception is mentioned below, Users who are European Consumers are granted a statutory cancellation right under EU rules, to withdraw from contracts entered into online (distance contracts) within the specified period applicable to their case, for any reason and without justification.
+Unless any applicable exception is mentioned below, Users who are European Consumers are granted a statutory withdrawal right under EU rules, to withdraw from contracts entered into online (distance contracts) within the specified period applicable to their case, for any reason and without justification.
 
-Users that do not fit this qualification, cannot benefit from the rights described in this section.
+Users that do not fit this qualification, cannot benefit from the rights described in this section. The Consumer shall only be liable to the Seller for any diminution in the value of the goods resulting from handling the goods in a manner other than that necessary to acquaint him with the nature, characteristics and functionality of the goods.
 
 #### Exercising the right of withdrawal
 
@@ -304,7 +306,9 @@ Users that do not qualify as Consumers, cannot benefit from the rights described
 
 ##### Exercising the right to cancel
 
-To exercise their right to cancel, Users must send to the Owner an unequivocal statement of their intention to withdraw from the contract. To this end, Users may use the model withdrawal form available from within the “definitions” section of this document. Users are, however, free to express their intention to withdraw from the contract by making an unequivocal statement in any other suitable way. In order to meet the deadline within which they can exercise such right, Users must send the withdrawal notice before the cancellation period expires. When does the cancellation period expire?
+To exercise their right to cancel, Users must send to the Owner an unequivocal statement of their intention to withdraw from the contract. To this end, Users may use the model withdrawal form available from within the “definitions” section of this document. Users are, however, free to express their intention to withdraw from the contract by making an unequivocal statement in any other suitable way. In order to meet the deadline within which they can exercise such right, Users must send the withdrawal notice before the cancellation period expires.
+
+When does the cancellation period expire?
 
 * **Regarding the purchase of goods,** the cancellation period expires 14 days after the day on which the User or a third party – other than the carrier and designated by the User – takes physical possession of the goods.
 * **Regarding the purchase of several goods ordered together** but delivered separately or in case of purchase of a single good consisting of multiple lots or pieces delivered separately, the cancellation period expires 14 days after the day on which the User or a third party – other than the carrier and designated by the User – acquires physical possession of the last good, lot or piece.
@@ -365,11 +369,11 @@ Guarantees
 
 ### Legal guarantee of conformity for goods under EU law
 
-Under EU law, for a minimum period of 2 years after delivery, traders guarantee the conformity of the goods they sell. This means that traders must ensure that the goods purchased have the promised quality, or the quality that can be reasonably expected, functionality or characteristics for at least two years after they’ve been delivered to the purchaser.
+Under EU law, for a minimum period of 2 years from delivery, traders guarantee the conformity of the goods they sell to Consumers.
 
 Where Users qualify as European Consumers, the legal guarantee of conformity for goods applies to the items available on this Website in accordance with the laws of the country of their habitual residence.
 
-National laws of such country may grant such Users broader rights.
+National laws of such country may grant Users broader rights.
 
 **In particular, Consumers based in France can exercise guarantee rights within two years of delivery of the good without being required to provide evidence of the good’s defect or lack of conformity. The period of time for which the Consumer is exempted from providing evidence of the fault is reduced to six months in case of used goods.**
 
@@ -383,7 +387,8 @@ Consumers who do not qualify as European may benefit from legal guarantee of con
 
 ### Legal guarantee on second-hand or used goods
 
-Users acknowledge and accept that the legal guarantee on second-hand or used goods is limited to 1 year from receipt of the goods.
+Under EU law, for a minimum period of 1 year after delivery, traders guarantee the conformity of used goods they sell to Consumers in accordance with the laws of the country of their habitual residence.  
+National laws of such country may grant such Users broader rights.
 
 ### Money-back-guarantee for goods
 
@@ -394,6 +399,8 @@ In order to make use of this right, Users must send an unambiguous notice to the
 
 Within the same period of time stated above, Users must also return the purchased goods to the Owner at their own expense, making sure that they are undamaged, clean and fit for resale. Goods must be returned inside the original packaging.  
 Upon receipt of the goods, the Owner will verify that all conditions applicable to the money-back-guarantee are fulfilled and, if so, refund the purchase price.
+
+The above does not affect the Users’ rights to seek remedy free of charge in the event of a lack of conformity of the Product under applicable law.
 
 Liability and indemnification
 -----------------------------
@@ -416,7 +423,7 @@ Unless damages have been caused by way of intent or gross negligence, or they af
 
 #### Limitation of liability
 
-Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar State and Territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms of Use, is limited, at the Owner’s sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.
+Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar state and territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms, is limited, at the Owner’s sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.
 
 ### US Users
 
@@ -473,7 +480,7 @@ The Owner’s failure to assert any right or provision under these Terms shall n
 
 To ensure the best possible service level, the Owner reserves the right to interrupt the Service for maintenance, system updates or any other changes, informing the Users appropriately.
 
-Within the limits of law, the Owner may also decide to suspend or discontinue the Service altogether. If the Service is discontinued, the Owner will cooperate with Users to enable them to withdraw Personal Data or information and will respect Users' rights relating to continued product use and/or compensation, as provided for by applicable law.
+Within the limits of law, the Owner may also decide to suspend or discontinue the Service altogether. If the Service is discontinued, the Owner will cooperate with Users to enable them to withdraw personal data or information and will respect Users' rights relating to continued product use and/or compensation, as provided for by applicable law.
 
 Additionally, the Service might not be available due to reasons outside the Owner’s reasonable control, such as “force majeure” events (infrastructural breakdowns or blackouts etc.).
 
@@ -483,7 +490,7 @@ Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of
 
 ### Privacy policy
 
-To learn more about the use of their Personal Data, Users may refer to the privacy policy of this Website.
+For information about the use of their personal data, Users must refer to the privacy policy of this Website which is hereby declared to be part of these Terms.
 
 ### Intellectual property rights
 
@@ -615,9 +622,7 @@ Indicates the natural person(s) or legal entity that provides this Website and/o
 
 #### Product
 
-A good or service available for purchase through this Website, such as e.g. physical goods, digital files, software, booking services etc.
-
-The sale of Products may be part of the Service.
+A good or service available through this Website, such as e.g. physical goods, digital files, software, booking services etc., and any other types of products separately defined herein, such as Digital Products.
 
 #### Service
 
@@ -639,7 +644,7 @@ Indicates any natural person or legal entity using this Website.
 
 Consumer is any User qualifying as such under applicable law.
 
-Latest update: August 25, 2023
+Latest update: November 08, 2024
 
 [iubenda](https://www.iubenda.com/en/terms-and-conditions-generator "iubenda - Terms and Conditions generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
