@@ -87,13 +87,13 @@ Most Read
     
     1. [Trump plans to dismantle Biden AI safeguards after victory](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/)
     
-2. 2. [Trump’s 60% tariffs could push China to hobble tech industry growth](https://arstechnica.com/tech-policy/2024/11/tech-industry-fears-china-will-retaliate-against-trumps-60-tariffs/)
+2. 2. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
     
-3. 3. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
+3. 3. [Trump’s likely FCC chair wrote Project 2025 chapter on how he’d run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
     
-4. 4. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
+4. 4. [FDA proposes ditching common decongestant for being completely useless](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
     
-5. 5. [Trump’s election win spells bad news for the auto industry](https://arstechnica.com/cars/2024/11/ev-subsidies-out-new-import-tariffs-in-how-trumps-win-affects-autos/)
+5. 5. [Sega is delisting 60 classic games from Steam, so now’s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
     
 
 Customize
