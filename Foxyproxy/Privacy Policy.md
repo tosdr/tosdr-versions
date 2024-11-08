@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks - very good service.
+It seems to work perfectly...the speed is excellent. I can recommend these to anyone who likes to have a WORKING proxy at all time.
 
-Stephen Reynolds
+Teddy Grimstad
