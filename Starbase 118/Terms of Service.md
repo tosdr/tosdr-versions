@@ -356,6 +356,22 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
+
+### [USS Astraeus and USS Chin’toka return to service after Frontier Day repairs](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
+
+Federation News Service November 8, 2024
+
+EARTH, SOL SYSTEM, ALPHA QUADRANT – Nearly half a year after the devastating attack on Frontier Day, the USS Astraeus and the newly reactivated USS
+
+[Read More »](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
 
 ### [Ship Closeup – USS Astraeus](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
@@ -377,18 +393,6 @@ docaharford November 5, 2024
 Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-doz-finch-uss-gorkonphoenix-award/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/09/halloween_avatar_contest_community_news-768x768.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
-
-### [Winners of the Halloween Avatar Contest 2024 are…](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
-
-FltAdml. Tristan Wolf November 4, 2024
-
-Happy Halloween, ghosties and ghoulies! We hope you’re living it up with your candy, costumes, and revelry on this night of demons and devils! Thanks
-
-[Read More »](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
 
 Ready to get started?
 ---------------------
