@@ -154,6 +154,13 @@ Cost savings and business benefits with Sectigo Certificate Manager. Download Fo
 
 [Download](https://www.sectigo.com/forrester-tei-study)
 
+Company
+
+* [About Us](https://www.sectigo.com/about)
+* [Leadership](https://www.sectigo.com/about/leadership)
+* [Careers](https://www.sectigo.com/careers)
+* [Industry Awards](https://www.sectigo.com/awards)
+
 Login
 
 [Customers](https://www.sectigo.com/store-login)  
@@ -240,6 +247,14 @@ Login
     * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
     * [Root Causes 434: Did Researchers Break AES Using Quantum Annealing?](https://www.sectigo.com/resource-library/root-causes-434-did-researchers-break-aes-using-quantum-annealing)
     * [Root Causes 433: Will AI Eat All the Electricity?](https://www.sectigo.com/resource-library/root-causes-433-will-ai-eat-all-the-electricity)
+    
+* Company
+    
+    * Overview
+    * [About Us](https://www.sectigo.com/about)
+    * [Leadership](https://www.sectigo.com/about/leadership)
+    * [Careers](https://www.sectigo.com/careers)
+    * [Industry Awards](https://www.sectigo.com/awards)
     
 
 *  #}
