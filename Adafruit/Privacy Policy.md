@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It's easier to ask forgiveness than it is to get permission”
+“ We must use time creatively, in the knowledge that the time is always ripe to do right”
 
-[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
+[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 [](https://www.adafruit.com/about)
 
