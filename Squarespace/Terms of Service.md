@@ -442,7 +442,6 @@ Data traffic protected by SSL encryption
     
     * [About](https://www.squarespace.com/about/company)
     * [Careers](https://www.squarespace.com/about/careers)
-    * [Investor Relations](https://investors.squarespace.com/)
     * [Our Brand](https://brand.squarespace.com/)
     * [Our History](https://timeline.squarespace.com/)
     * [Accessibility](https://www.squarespace.com/accessibility)
