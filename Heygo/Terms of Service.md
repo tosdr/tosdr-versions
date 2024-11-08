@@ -541,6 +541,24 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![9 awe-inspiring travel destinations best explored by small ships](https://media.restless.co.uk/uploads/2024/09/awe-inspiring-travel-destinations-best-explored-by-small-ships-768x418.jpg)](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+
+### [9 awe-inspiring travel destinations best explored by small ships](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+
+[Read More »](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+
+[![8 hidden gem holiday destinations around the world](https://media.restless.co.uk/uploads/2023/08/hidden-gem-holiday-destinations-around-the-world-768x525.jpg)](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+
+### [8 hidden gem holiday destinations around the world](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+
+[Read More »](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+
+[![Group tours of the UK – 10 lesser-known places to visit in 2025](https://media.restless.co.uk/uploads/2024/11/group-tours-of-the-uk-10-lesser-known-places-to-visit-in-2025-768x508.jpg)](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+
+### [Group tours of the UK – 10 lesser-known places to visit in 2025](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+
+[Read More »](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+
 [![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
 
 ### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
@@ -558,24 +576,6 @@ New in travel
 ### [12 of the best winter sun cruise destinations](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/) 
 
 [Read More »](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
-
-[![20 best places to cruise month by month](https://media.restless.co.uk/uploads/2024/05/best-places-to-cruise-month-by-month-768x508.jpg)](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
-
-### [20 best places to cruise month by month](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
-
-[Read More »](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
-
-[![10 otherworldly travel destinations for the ultimate escape](https://media.restless.co.uk/uploads/2024/04/otherworldly-travel-destinations-for-the-ultimate-escape-768x548.jpg)](https://restless.co.uk/travel/otherworldly-travel-destinations-for-the-ultimate-escape/)
-
-### [10 otherworldly travel destinations for the ultimate escape](https://restless.co.uk/travel/otherworldly-travel-destinations-for-the-ultimate-escape/)
-
-[Read More »](https://restless.co.uk/travel/otherworldly-travel-destinations-for-the-ultimate-escape/)
-
-[![11 sunny spots five hours or less from the UK](https://media.restless.co.uk/uploads/2024/10/sunny-spots-five-hours-or-less-from-the-uk-768x365.jpg)](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
-
-### [11 sunny spots five hours or less from the UK](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
-
-[Read More »](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 Popular travel guides
 ---------------------
