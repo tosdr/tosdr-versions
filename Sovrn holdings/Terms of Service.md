@@ -29,7 +29,7 @@
         * [**Trust Center**](https://www.sovrn.com/trust-center/)
         * [**Privacy Policy**](https://www.sovrn.com/privacy-policy/privacy-policy/)
         * [**Security**](https://www.sovrn.com/about-sovrn/security/)
-        * [**Your Privacy Choices**](https://www.sovrn.com/privacy-policy/policy-center/)
+        * [**Your Privacy Choices**](https://privacy.sovrn.com/opt-out)
         * [**Ad Choices**](https://www.aboutads.info/)
 * [**Sign In**](#nav-sign-in)
     * [![](https://www.sovrn.com/wp-content/uploads/Group-9299-2.png)**Sovrn Platform**Ad Exchange and Commerce](https://platform.sovrn.com/account/signin "Programmatic advertising")
