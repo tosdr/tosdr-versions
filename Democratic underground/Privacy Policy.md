@@ -72,12 +72,12 @@ A cookie is a small text file sent to your device by a web server that enables t
 * Email (in a hashed or encrypted form)
 
 Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoicâs partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoicâs privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoicâs advertising and other partners, you can view Ezoicâs advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+You can view Ezoicâs privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoicâs advertising and other partners, you can view Ezoicâs advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
 
-[Privacy Policy](https://www.ezoic.com/privacy-policy/advertising-partners/)
-============================================================================
+Privacy Policy
+==============
 
-[Effective June 13, 2023.
+Effective June 13, 2023.
 
 At Democratic Underground we take your right to privacy seriously. This privacy notice describes how and why Democratic Underground LLC ("**we**," or "**us**"), might collect, store, use, and/or share ("**process**") your information when you use our website ("**Site**"). If you do not agree with anything contained in this notice, please do not visit the Site.
 
@@ -85,9 +85,9 @@ Our visitors fall into three different groups. "**All Users**" are visitors who 
 
 We may collect different information, and process your information differently, depending on what you do when you visit the Site.
 
-**Quick Links**](https://www.ezoic.com/privacy-policy/advertising-partners/)
+**Quick Links**
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)* [](https://www.ezoic.com/privacy-policy/advertising-partners/)[Information we collect automatically](#privacy-info-automatic)
+* [Information we collect automatically](#privacy-info-automatic)
 * [Information you provide to us](#privacy-info-provide)
 * [Cookies](#privacy-cookies)
 * [Third party services](#privacy-third-party)
