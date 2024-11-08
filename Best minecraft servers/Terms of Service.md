@@ -96,7 +96,7 @@ NEW MINECRAFT SERVERS
 * [InsanityCraft](https://best-minecraft-servers.co/server-insanitycraft.100)
 * [CalamityMC](https://best-minecraft-servers.co/server-calamitymc.146)
 
-© Best Minecraft Servers - 07 Nov 2024 . Trademarks are the property of their respective owners, all sites and servers are added by users.
+© Best Minecraft Servers - 08 Nov 2024 . Trademarks are the property of their respective owners, all sites and servers are added by users.
 
 [Terms](https://best-minecraft-servers.co/terms) [Privacy](https://best-minecraft-servers.co/privacy) [Help](https://best-minecraft-servers.co/help) [Contacts](https://best-minecraft-servers.co/contacts)
 
