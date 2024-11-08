@@ -320,6 +320,21 @@ Now](https://www.literacentre.com/enrollment-form/)
 
        
 
+New Launch
+
+More Affordable with Micro Group Classes
+----------------------------------------
+
+Get the same quality as 1-on-1 Classes in a more affordable way. knowledgeable and committed teachers offer a plethora of expertise. 
+
+* **Micro Group Classes**(3-4 Students in a Class)
+* Live Classes
+* Inernational Baccalaureate & Cambridge Certified Tutors
+
+[Enroll Free Demo Session
+
+Book Now](https://www.literacentre.com/book-demo-class/)
+
 ### Get Amazon Voucher $25
 
 Refer a friend and earn Amazon Voucher Worth $25(or equivalent to your local currency)
