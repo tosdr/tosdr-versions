@@ -168,7 +168,7 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
         
         [](#)
         
-        * [Arthritis Foundation Cycling Experience](https://www.arthritis.org/events/bike-event)
+        * [Bike Events](https://www.arthritis.org/events/bike-event)
         * [Connect Groups](https://connectgroups.arthritis.org/)
         * [Events](https://www.arthritis.org/events)
         * [Helpline](https://www.arthritis.org/helpline)
@@ -385,7 +385,7 @@ _Revised April 27, 2021_
 
 Atlanta, GA
 
-68° Arthritis Index Beneficial
+78° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
