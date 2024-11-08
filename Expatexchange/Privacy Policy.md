@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-ldr1.jpg)](https://www.expatexchange.com/partnerdirect/182/99460-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![AGS Worldwide Movers](https://www.expatexchange.com/banner/international_moving_company_ags_ldr.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
 
-[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-mpu-1.jpg)](https://www.expatexchange.com/partnerdirect/182/99460-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![AGS Worldwide Movers](https://www.expatexchange.com/banner/AGS_300X250_EN1.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=20697-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[![William Russell](https://www.expatexchange.com/images/photo_taker_200.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=17907-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=20697-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[William Russell](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=17907-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
-[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=20697-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
+Get a quote for international health insurance from our partner, William Russell.  
+[Get Quote](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=17907-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
-[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=20697-MOBILE-cbar-vrs-A-hicontent-Global-62)[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=20697-MOBILE-cbar-vrs-A-hicontent-Global-62)
+[![William Russell](https://www.expatexchange.com/images/photo_taker_200.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=17907-MOBILE-cbar-vrs-A-hicontent-Global-62)[William Russell](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=17907-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
-[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=20697-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
+Get a quote for international health insurance from our partner, William Russell.  
+[Get Quote](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=17907-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
