@@ -259,6 +259,8 @@ Thank you for visiting our site!
 
 [Privacy Policy](https://veema.co.uk/veema-limited-privacy-policy/ "Veema Limited Privacy Policy")
 
+[Safeguarding Policy](https://veema.co.uk/wp-content/uploads/2019/09/Safeguarding-Policy.pdf "Safeguarding Policy")
+
 [![](https://veema.co.uk/wp-content/uploads/2021/06/ft-subscribe_active.jpg)](#popmake-2552)
 
 [![](https://veema.co.uk/wp-content/uploads/2021/06/footer-button-follow_active.png)](#popmake-2567)
