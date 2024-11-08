@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Amount Given by Supporters and Opponents of 2013 & 2014 Ballot Measures](/assets/Images/teasers/full/2013-14-Amts-to-Passed-Failed-BMs.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![Scorecard: Essential Disclosure Requirements for Independent Spending, 2014](/assets/Images/teasers/full/Screen-Shot-2016-05-12-at-2.21.54-PM.png)](http://www.followthemoney.org/research/institute-reports/scorecard-essential-disclosure-requirements-for-independent-spending-2014/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
