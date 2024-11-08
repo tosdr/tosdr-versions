@@ -292,17 +292,3 @@ In accordance with the DMCA and other applicable laws, we have adopted a policy 
 © FAKKU, LLC 2024 All rights reserved.
 
 [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
-
-[](https://www.fakku.net/notifications)[](https://www.fakku.net/cart)
-
-[Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login)
-
-[Try FAKKU Unlimited](https://www.fakku.net/unlimited)
-
-Browse
-
-[New Releases](https://www.fakku.net/) [Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/manga) [Unlimited](https://www.fakku.net/unlimited) [Tags](https://www.fakku.net/tags)
-
-FAKKU
-
-[Forums](https://www.fakku.net/forums) [Merch](https://merch.fakku.net/) [Support](https://www.fakku.net/support)
