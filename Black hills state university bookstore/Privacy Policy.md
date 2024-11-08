@@ -45,6 +45,7 @@ Cancel
         * [Accessories](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=257&catalog_name=QWNjZXNzb3JpZXM)
         * [View All Apparel](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA)
     * [Gifts](#)
+        * [Alumni Items](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=291&catalog_name=QWx1bW5pIEl0ZW1z)
         * [Decals & Magnets](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=300&catalog_name=RGVjYWxzICYgTWFnbmV0cw)
         * [Drinkware](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=245&catalog_name=RHJpbmt3YXJl)
         * [Flags & Pennants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=268&catalog_name=RmxhZ3MgJiBQZW5uYW50cw)
@@ -159,7 +160,7 @@ Begin Footer
 | Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Friday 8:00AM - 5:00PM CLOSED
+Friday 8:00AM - 5:00PM OPEN
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
