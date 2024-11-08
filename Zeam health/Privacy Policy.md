@@ -31,14 +31,16 @@ Request an Appointment
     * [Diabetes](https://www.zeamhealth.com/primary-care/diabetes/)
     * [Hormone Replacement](https://www.zeamhealth.com/primary-care/hormone-replacement-therapy/)
 * [Aesthetics](https://www.zeamhealth.com/aesthetics/)
+    * [Chemical Peels](https://www.zeamhealth.com/aesthetics/chemical-peels/)
     * [Injectables](https://www.zeamhealth.com/aesthetics/injectables/)
         * [Botox Injections](https://www.zeamhealth.com/aesthetics/botox/)
+        * [Daxxify](https://www.zeamhealth.com/aesthetics/daxxify/)
         * [Dermal Fillers](https://www.zeamhealth.com/aesthetics/dermal-fillers/)
         * [Xeomin®](https://www.zeamhealth.com/aesthetics/xeomin/)
     * [Microneedling](https://www.zeamhealth.com/aesthetics/microneedling/)
-    * [Chemical Peels](https://www.zeamhealth.com/aesthetics/chemical-peels/)
     * [Skincare](https://www.zeamhealth.com/aesthetics/skincare/)
         * [Acne Treatments](https://www.zeamhealth.com/aesthetics/acne/)
+    * [Thread Lifts](https://www.zeamhealth.com/aesthetics/thread-lifts/)
 * Patient Resources
     
     * [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
