@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/672a40280175008e533b67e1_Foundermade%20LA%20Blog.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/672e43ef61b43209100bffa9_ecommerce-mistakes-bfcm.jpg)
 
-###### Clearco is Sponsoring the FounderMade Executive Summit in LA
+###### Ecommerce Brands Biggest Mistakes During BFCM
 
-[Read now >](https://clear.co/blog/clearco-foundermade-summit)
+[Read now >](https://clear.co/blog/top-mistakes-ecommerce-businesses-face-black-friday-cyber-monday)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
