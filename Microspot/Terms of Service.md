@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/1382.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/9529.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -127,7 +127,9 @@ Gadgets](https://www.microspot.ch/fr/cms/gadget)
 
 Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0688-CM2-PS5-Pro-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTQzNjZ8aW1hZ2UvanBlZ3xhRFE1TDJoallTOHhNVGd3ZURNMU1GOUpNalJmTURZNE9GOURUVEpmVUZNMVgxQnliMTlHVWw5RFZFRXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4d05qZzRYME5OTWw5UVV6VmZVSEp2WDBaU1gwTlVRUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZTUxNjAxNTEyYzFlNTAxMTVmM2NmMjFlY2UxNjliNDA3MmNmM2M0MWI4M2RkYmE2NWFiMDg2YjkxMTdkMmQ0Nw&w=2360&q=75)](https://www.microspot.ch/fr/product/sony-playstation-5-pro-2000-gb-0014196596)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-05-Oktober-Mac-M4-FR-CTA-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTk5NnxpbWFnZS9qcGVnfGFHSXlMMmhoTXk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFZmVDJ0MGIySmxjbDlOWVdOZlRUUmZSbEpmUTFSQlgycGxkSHAwWDJ0aGRXWmxiaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2TVRFNE1IZ3pOVEJmU1RJMFh6QTFYMDlyZEc5aVpYSmZUV0ZqWDAwMFgwWlNYME5VUVY5cVpYUjZkRjlyWVhWbVpXNHVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NmM3MmExOWE0YmVmZTgyODQ1ZTZlMzllYTg3NjFmYzFhMDNmYmM4MzJlYWQzZDRlMTMzMmZkNTc1N2Y3N2JhOQ&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-05-Oktober-Mac-M4-FR-CTA-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMDA2NHxpbWFnZS9qcGVnfGFEQXhMMmd5TVM4NE1qaDRNelV3WDBreU5GOHdOVjlQYTNSdlltVnlYMDFoWTE5Tk5GOUdVbDlEVkVGZmFtVjBlblJmYTJGMVptVnVMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TWpoNE16VXdYMGt5TkY4d05WOVBhM1J2WW1WeVgwMWhZMTlOTkY5R1VsOURWRUZmYW1WMGVuUmZhMkYxWm1WdUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGFmODc0YmNlZWNjYWI1ZGE2ZTBhODllODI1MzY3OGQ0MTdmMjcwNzIyMmM2YzI0MjkzNzFjMWVjZmVhYzJlM2I&w=2360&q=75)](https://www.microspot.ch/fr/cms/macbook-pro-m4-2024)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0688-CM2-PS5-Pro-FR-CTA-v2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTQzNjZ8aW1hZ2UvanBlZ3xhREl3TDJnNVlTOHhNVGd3ZURNMU1GOUpNalJmTURZNE9GOURUVEpmVUZNMVgxQnliMTlHVWw5RFZFRmZkakl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpFeE9EQjRNelV3WDBreU5GOHdOamc0WDBOTk1sOVFVelZmVUhKdlgwWlNYME5VUVY5Mk1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXw3NzA0NmQ5NmE5NjE1NWE5M2Q2NWNkZTEwNWExMmVhNTgzNjVkOWY3YzQxNjk2NTBhMGQ1MTBhZTE4NmMxZTMw&w=2360&q=75)](https://www.microspot.ch/fr/product/sony-playstation-5-pro-2000-gb-0014196596)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0730-CM3-LEGO-Technic-FR.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNjIzNTh8aW1hZ2UvanBlZ3xhR1ZtTDJoaVppOHhNVGd3ZURNMU1DMUpNalF0TURjek1DMURUVE10VEVWSFR5MVVaV05vYm1sakxVWlNMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzh4TVRnd2VETTFNQzFKTWpRdE1EY3pNQzFEVFRNdFRFVkhUeTFVWldOb2JtbGpMVVpTTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MmFlOTEyYWRkYjliOTdjMTI2ZTA2MTkyYThlODk5MDMxODllMzA4YTQ4OTU4MzM4ZDEwNjUyOTQwMzcyOThkMA&w=2360&q=75)](https://www.microspot.ch/fr/brand/lego)
 
@@ -211,10 +213,6 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Garantie Plus
 
 prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
@@ -222,6 +220,10 @@ prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
