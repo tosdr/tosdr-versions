@@ -61,6 +61,14 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
+![](/assets/images/logos/math-jams-white.svg)
+
+Live Discussion!
+
+2024 AMC 10/12 A Discussion is going on now!
+
+[Join InGo](https://artofproblemsolving.com/schoolhouse/room/mathjam)
+
 Tuition increases on November 12th - [Enroll soon](https://artofproblemsolving.com/school/schedule) to lock in current pricing!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
