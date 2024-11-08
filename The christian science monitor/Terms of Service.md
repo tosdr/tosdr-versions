@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Compassion
+
+### A shield for Gaza's innocent](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1108/A-shield-for-Gaza-s-innocent "A shield for Gaza's innocent")
+
+[Respect
+
+### How to move past ‘othering,’ and toward mutual respect](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2439 "How to move past ‘othering,’ and toward mutual respect")
+
 [Respect
 
 ### The election’s other message](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1107/The-election-s-other-message "The election’s other message")
-
-[Hope
-
-### Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’](https://www.csmonitor.com/World/Europe/2024/1106/ukraine-war-trump-election-russia "Ukraine’s jittery new reality: ‘Work with Trump and hope for the best’")
-
-[Balance
-
-### Voter nostalgia for harmony, balance](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1106/Voter-nostalgia-for-harmony-balance "Voter nostalgia for harmony, balance")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
-[### The Berlin Wall fell 35 years ago. Young east Germans fall for relics of the time.](https://www.csmonitor.com/World/Europe/2024/1108/Berlin-Wall-Ostalgie-nostalgia-GDR-East-Germany "The Berlin Wall fell 35 years ago. Young east Germans fall for relics of the time.")
+[### Trump is back. Parents worldwide hope and fear for children’s futures.](https://www.csmonitor.com/World/2024/1108/trump-peace-war-foreign "Trump is back. Parents worldwide hope and fear for children’s futures.")
 
-[### With Trump, ‘America First’ is back. US allies brace for a shock.](https://www.csmonitor.com/World/2024/1107/trump-isolationist-america-first "With Trump, ‘America First’ is back. US allies brace for a shock.")
+[### With the election of Donald Trump, Canada braces for surge of asylum-seekers fleeing US](https://www.csmonitor.com/World/Americas/2024/1108/immigration-trump-election-canada-U.S.-border "With the election of Donald Trump, Canada braces for surge of asylum-seekers fleeing US")
 
-[### Brazil’s president promised to protect the Amazon. This year, deforestation fell 31%.](https://www.csmonitor.com/World/Americas/2024/1107/Brazil-Amazon-deforestation-Lula-environment-climate-change "Brazil’s president promised to protect the Amazon. This year, deforestation fell 31%.")
+[### Trump has picked his first cabinet member and she’ll be the first woman chief of staff](https://www.csmonitor.com/USA/2024/1108/Susie-Wiles-Donald-Trump-2024-election-chief-of-staff "Trump has picked his first cabinet member and she’ll be the first woman chief of staff")
 
 * * *
 
