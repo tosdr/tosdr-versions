@@ -91,15 +91,9 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Severe Thunderstorm Warning
+[Flash Flood Warning
 
-until THU 2:15 PM CST, Jack County, Palo Pinto County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[Severe Thunderstorm Warning
-
-from THU 1:52 PM CST until THU 2:15 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until THU 8:00 PM CST, Denton County, Cooke County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -412,35 +406,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Amber Alert issued for missing 16-year-old girl in Hunt County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/hunt-co-amber-alert.jpg?ve=1&tl=1)
+ [![Trump names Susie Wiles as chief of staff; 1st woman to ever hold the role](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/susie-wiles.jpg?ve=1&tl=1)
 
- ![Amber Alert issued for missing 16-year-old girl in Hunt County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/hunt-co-amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
+ ![Trump names Susie Wiles as chief of staff; 1st woman to ever hold the role](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/susie-wiles.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-names-susie-wiles-chief-staff-1st-woman-ever-hold-role-2024)
 
-### [Amber Alert issued for missing 16-year-old girl in Hunt County](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
+### [Trump names Susie Wiles as chief of staff; 1st woman to ever hold the role](https://www.fox4news.com/news/trump-names-susie-wiles-chief-staff-1st-woman-ever-hold-role-2024)
 
- [![Longtime Ennis football coach Sam Harrell retiring amid battle with MS](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/ennis-coach-sam-harrell-8.png?ve=1&tl=1)
+ [![Texas A&M Commerce changes name to East Texas A&M University](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v_tamu-commerce-classes-canceled-4a_kdfw150f_146_m_00.00.08.26.jpg?ve=1&tl=1)
 
- ![Longtime Ennis football coach Sam Harrell retiring amid battle with MS](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/ennis-coach-sam-harrell-8.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ennis-sam-harrell-ms)
+ ![Texas A&M Commerce changes name to East Texas A&M University](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v_tamu-commerce-classes-canceled-4a_kdfw150f_146_m_00.00.08.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-am-university-commerce-tamuc-renamed-east-texas-am-university)
 
-### [Longtime Ennis football coach Sam Harrell retiring amid battle with MS](https://www.fox4news.com/sports/ennis-sam-harrell-ms)
+### [Texas A&M Commerce changes name to East Texas A&M University](https://www.fox4news.com/news/texas-am-university-commerce-tamuc-renamed-east-texas-am-university)
 
- [![How Trump's win could impact the housing market](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/housing-getty.jpg?ve=1&tl=1)
+ [![Political comebacks and returns to private life: What happens to former presidential candidates?](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/ksaz-renaissance-2-former-presidential-candidates-110724.jpg?ve=1&tl=1)
 
- ![How Trump's win could impact the housing market](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/housing-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-win-impact-housing-market)
+ ![Political comebacks and returns to private life: What happens to former presidential candidates?](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/ksaz-renaissance-2-former-presidential-candidates-110724.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/political-comebacks-returns-private-life-what-happens-former-presidential-candidates)
 
-### [How Trump's win could impact the housing market](https://www.fox4news.com/news/trumps-win-impact-housing-market)
+### [What happens to former presidential candidates?](https://www.fox4news.com/news/political-comebacks-returns-private-life-what-happens-former-presidential-candidates)
 
- [![Dallas Weather: Rain chances return to the forecast](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/465788888_600213845707740_1670085012206116547_n.jpg?ve=1&tl=1)
+ [![43 monkeys escape from South Carolina primate research facility](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1768796390-scaled.jpg?ve=1&tl=1)
 
- ![Dallas Weather: Rain chances return to the forecast](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/465788888_600213845707740_1670085012206116547_n.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-nov-7-forecast)
+ ![43 monkeys escape from South Carolina primate research facility](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1768796390-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/monkeys-escape-south-carolina-alpha-genesis-primate-research-center)
 
-### [Dallas Weather: Rain chances return to the forecast](https://www.fox4news.com/weather/dallas-weather-nov-7-forecast)
+### [43 monkeys escape from South Carolina primate research facility](https://www.fox4news.com/news/monkeys-escape-south-carolina-alpha-genesis-primate-research-center)
 
- [![Gov. Newsom says he's going to 'Trump proof' California state laws](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2019/09/32/18/Trump20in20paradise205_1542486086054.PNG_6414137_ver1.0_640_360.jpg?ve=1&tl=1)
+ [![Traffic Alert: I-635 westbound in Irving 'shut down indefinitely' after 18-wheeler hits overpass](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/macarthur.jpeg?ve=1&tl=1)
 
- ![Gov. Newsom says he's going to 'Trump proof' California state laws](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2019/09/32/18/592/333/Trump20in20paradise205_1542486086054.PNG_6414137_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gov-newsom-says-hes-going-trump-proof-california-state-laws)
+ ![Traffic Alert: I-635 westbound in Irving 'shut down indefinitely' after 18-wheeler hits overpass](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/macarthur.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-635-macarthur-overpass)
 
-### [Gov. Newsom says he's going to 'Trump proof' California state laws](https://www.fox4news.com/news/gov-newsom-says-hes-going-trump-proof-california-state-laws)
+### [Traffic Alert: I-635 westbound in Irving 'shut down indefinitely' after 18-wheeler hits overpass](https://www.fox4news.com/news/irving-635-macarthur-overpass)
 
 ###### [News](https://www.fox4news.com/news)
 
