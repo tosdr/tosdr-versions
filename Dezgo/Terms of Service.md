@@ -52,6 +52,9 @@ powered by Stable Diffusion AI
 [Terms](https://dezgo.com/terms) - [Privacy](https://dezgo.com/privacy) - [Open RAIL-M License](https://dezgo.com/license)  
 Privacy Manager
 
+Dezgo now supports Flux LoRAs created with a wider range of training software.  
+This significantly reduces Flux LoRA loading issues reported by our users and increases the variety of LoRAs that can be used with Dezgo.
+
 ### TERMS OF SERVICE
 
   
