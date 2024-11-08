@@ -466,7 +466,7 @@ Accessibility
 
 [Terms of Use](https://www.adt.com/about-adt/legal/terms-of-use "Terms of Use") [Advertising Choice](https://preferences-mgr.truste.com/?pid=adt01&aid=adt01&type=adt "Advertising Choice")
 
-[Privacy Policy](https://www.adt.com/about-adt/legal/privacy-policy "Privacy Policy") [Licenses](https://www.adt.com/about-adt/legal/licenses "Licenses") [Sitemap](https://www.adt.com/sitemap "Sitemap") Bug Reporting
+[Privacy Policy](https://www.bluebyadt.com/about-adt/legal/privacy-policy "Privacy Policy") [Licenses](https://www.bluebyadt.com/about-adt/legal/licenses "Licenses") [Sitemap](https://www.bluebyadt.com/sitemap "Sitemap") Bug Reporting
 
 [](https://www.bbb.org/us/fl/boca-raton/profile/burglar-alarm-systems/adt-security-services-0633-30001337#bbbseal "ADT Security Services, Burglar Alarm Systems, Boca Raton, FL")
 
