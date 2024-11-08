@@ -1259,3 +1259,28 @@ Sozial-ökologisch seit 1974
 * [AGB](https://www.gls.de/agb/)
 * [Konditionen & Preise](https://www.gls.de/konditionen-preise/)
 * Cookies
+
+Telefonisch eingeschränkt erreichbar
+------------------------------------
+
+Liebe\*r GLS Kund\*in,
+
+auch wir müssen uns manchmal intern abstimmen, damit die Zusammenarbeit gut klappt und alles gerecht zugeht.
+
+Darum ist unser Telefonservice Montag früh, 11.11.2024 bis 11 Uhr eingeschränkt erreichbar. Ausnahmen sind Fragen zum GLS Onlinebanking. Dafür sind wir selbstverständlich wie gewohnt für Dich da. Für alles andere, sprich uns bitte ab 11 Uhr an!
+
+**Wusstest Du?**
+
+Dauer- und Zahlungsaufträge, alles rund um unsere Bank- und Kreditkarten und noch vieles mehr kannst Du einfach und bequem selbst erledigen. Probier’s aus!
+
+**www.gls.de/selfservice**
+
+**Nicht dringend?**
+
+Falls Deine Frage nicht total brennt, schreib uns gerne eine E-Mail im Postfach des GLS Onlinebankings. Wir antworten in der Regel innerhalb von 24 Stunden.
+
+Vielen Dank für Dein Verständnis!
+
+Herzliche Grüße
+
+Deine GLS Bank
