@@ -146,9 +146,9 @@ Subscription Terms
 Subscription Terms & Conditions
 ===============================
 
-**Updated: 12 September 2024**
+**Updated: 08 November 2024**
 
-If you become a subscriber of a digital and/or print publication from the Nine Publishing group (**“Nine“**, **“we“** , **“our“** or **“us“**) then these terms apply to your subscription. Please read these terms before taking up any subscription. Our print and digital publications are The Age ([theage.com.au](https://www.theage.com.au/)), The Australian Financial Review ([afr.com](https://www.afr.com.au/)), Brisbane Times ([brisbanetimes.com.au](https://www.brisbanetimes.com.au/)), The Sydney Morning Herald ([smh.com.au](https://www.smh.com.au/)) and WAtoday ([watoday.com.au](https://www.watoday.com.au/)) (**“Publications”**). The Age Company Pty Limited is the publisher of The Age and Fairfax Media Publications Pty Ltd and/or Fairfax Digital Australia and New Zealand Pty Ltd are the publishers of the other Publications.
+If you become a subscriber of a digital and/or print publication from the Nine Publishing group (**“Nine“**, **“we“** , **“our“** or **“us“**) then these terms apply to your subscription. Please read these terms before taking up any subscription. Our print and digital publications are The Age ([theage.com.au](https://www.theage.com.au/)), The Australian Financial Review ([afr.com](https://www.afr.com.au/)), Brisbane Times ([brisbanetimes.com.au](https://www.brisbanetimes.com.au/)), The Sydney Morning Herald ([smh.com.au](https://www.smh.com.au/)), WAtoday ([watoday.com.au](https://www.watoday.com.au/)) and Good Food (**“Publications”**). The Age Company Pty Limited is the publisher of The Age and Fairfax Media Publications Pty Ltd and/or Fairfax Digital Australia and New Zealand Pty Ltd are the publishers of the other Publications.
 
 Your use of our digital services (which includes websites and applications) to access the Publications is also subject to our Terms of General Conditions of Use available at [Terms of Use](https://login.nine.com.au/terms?client_id=afr).
 
@@ -162,7 +162,8 @@ Your use of our digital services (which includes websites and applications) to a
     2. The Age [here](https://help.theage.com.au/hc/en-au/requests/new)
     3. Australian Financial Review [here](https://help.afr.com/hc/en-au/requests/new)
     4. Brisbane Times [here](https://help.brisbanetimes.com.au/hc/en-au/requests/new)
-    5. WA Today [here](https://help.watoday.com.au/hc/en-au/requests/new), or by
+    5. WA Today [here](https://help.watoday.com.au/hc/en-au/requests/new)
+    6. Good Food [here](https://help.goodfood.com.au/hc/en-au/requests/new), or by
 * Phoning 13 66 66 or +61 2 7966 6900 between 7.30am-5.30pm AEST Mon-Fri and 7.30am-10.30am AEST Sat-Sun.
 
 3. If you have a Corporate subscription, you can contact the Customer Service Team (Corporate) by:
@@ -310,7 +311,6 @@ Advertise
 
 ### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
 
-* 54 mins ago
 * Euan Black
 
 * ### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
@@ -323,9 +323,8 @@ Advertise
 
 [![ ](https://static.ffx.io/images/$zoom_0.99%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_81/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/87f97a12890a9dedc54988979cb6ee7a769fffef)](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-for-2-million-20-000-and-a-touch-over-2000-20241028-p5km02)
 
-### [Jewellery for $2 million, $20,000 and a touch over $2000](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-for-2-million-20-000-and-a-touch-over-2000-20241028-p5km02)
+### [Jewellery for $2m, $20,000 and a touch over $2000](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-for-2-million-20-000-and-a-touch-over-2000-20241028-p5km02)
 
-* 54 mins ago
 * Eugenie Kelly
 
 * ### [Annoyed by all those driver alerts? Volvo’s working on it](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/annoyed-by-all-those-driver-alerts-volvo-s-working-on-it-20241023-p5kkuu)
