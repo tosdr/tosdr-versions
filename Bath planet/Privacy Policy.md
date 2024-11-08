@@ -33,7 +33,7 @@
 * [Polish](#)
 * [French](#)
 
-[Careers](https://www.bathplanet.com/careers/) [Financing](https://www.bathplanet.com/offers/financing/) [Reviews](https://www.bathplanet.com/reviews/) [Blog](https://www.bathplanet.com/blog/) [FAQs](https://www.bathplanet.com/about-us/faq/)
+[Careers](https://www.bathplanet.com/careers/) [Offers](https://www.bathplanet.com/offers/) [Financing](https://www.bathplanet.com/offers/financing/) [Reviews](https://www.bathplanet.com/reviews/) [Blog](https://www.bathplanet.com/blog/) [FAQs](https://www.bathplanet.com/about-us/faq/)
 
 Toggle navigation    [![Bath Planet Logo](https://www.bathplanet.com/img/logo.png)](https://www.bathplanet.com/)
 
@@ -362,7 +362,7 @@ We use cookies on this website. We use these cookies to enhance your user experi
 ##### Bath Planet
 
 * [About](https://www.bathplanet.com/about-us/)
-* [Specials](https://www.bathplanet.com/offers/)
+* [Offers](https://www.bathplanet.com/offers/)
 * [News](https://www.bathplanet.com/blog/)
 * [Reviews](https://www.bathplanet.com/reviews/)
 * [Careers](https://www.bathplanet.com/careers/)
