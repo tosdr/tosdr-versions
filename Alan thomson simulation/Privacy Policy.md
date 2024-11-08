@@ -214,9 +214,9 @@ The following Just Trains products have been updated. The updated...
 
 ### Random Download
 
-*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2020/02/jpg/kerr-mcintoshvirginmedia-com/2G21-Edinburgh-Waverley-to-Cowdenbeath-100x100.jpg "2G21 Edinburgh Waverley to Cowdenbeath")
+*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2019/02/jpg/nymr1/image-1-100x100.jpg "More Performance Friendly (Less AI) QD Scenarios for New PDL")
     
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "2G21 Edinburgh Waverley to Cowdenbeath")](https://alanthomsonsim.com/downloads/2g21-edinburgh-waverley-to-cowdenbeath/ "2G21 Edinburgh Waverley to Cowdenbeath")[2G21 Edinburgh Waverley to Cowdenbeath](https://alanthomsonsim.com/downloads/2g21-edinburgh-waverley-to-cowdenbeath/ "2G21 Edinburgh Waverley to Cowdenbeath")
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "More Performance Friendly (Less AI) QD Scenarios for New PDL")](https://alanthomsonsim.com/downloads/more-performance-friendly-less-ai-qd-scenarios-for-new-pdl/ "More Performance Friendly (Less AI) QD Scenarios for New PDL")[More Performance Friendly (Less AI) QD Scenarios for New PDL](https://alanthomsonsim.com/downloads/more-performance-friendly-less-ai-qd-scenarios-for-new-pdl/ "More Performance Friendly (Less AI) QD Scenarios for New PDL")
 
 ### Most Recent Additions
 
