@@ -74,7 +74,7 @@ Lettres d'information
 * [Mentions légales](https://www.ldh-france.org/mentions-legales)
 * [Offres de stages / emplois](https://www.ldh-france.org/offres-stages/)
   
-![](https://www.ldh-france.org/wp-content/themes/ldh2018/library/images/logo-footer.png)  
+![](https://www.ldh-france.org/wp-content/themes/ldh2018/library/images/logo-footer-new.png)  
 
   
 
