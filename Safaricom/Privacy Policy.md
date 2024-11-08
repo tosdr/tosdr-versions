@@ -144,6 +144,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 8, 2024
+
+> Mel was amazing!
+
+> Mel was amazing! I’m so grateful for her attention to detail. Our trip was incredible and I’ve already recommended Safari.com to friends and family! Thanks again Mel!
+
+Ben George
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 7, 2024
 
 > Keith Chideme is fantastic!
@@ -169,6 +181,20 @@ Larissa Santos
 ,
 
 AU
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 7, 2024
+
+> I tried setting everything up myself
+
+> I tried setting everything up myself, but ran into a few hiccups. Less than an hour after reaching out to them in the late afternoon from overseas, I had a response. Leigh-Ann Croeser was quick to help me with all my lodging/ transport/ and special dietary plan needs. I'm looking forward to taking my special someone to this amazing place!
+
+Jason Albert
+
+,
+
+us
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -235,34 +261,6 @@ DE
 > We can't thank Shann enough for her exceptional help in planning our trip! She went above and beyond to ensure every detail was perfect, from booking our flights and safari to arranging seamless transportation. Shann was incredibly responsive, always available to answer our questions and offer guidance. Her dedication and attention to detail truly made our trip stress-free and enjoyable. We \*highly recommend\* her to anyone looking for top-notch service and a worry-free travel experience!
 
 Tanaya Peck
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 2, 2024
-
-> Excellent customer service and quality safarisOur customer service rep was prompt and…
-
-> Our customer service rep was prompt and polite in responding to our query. She automatically included transportation to and from the safari lodge, which saved us so much time and effort and worry! Other safari companies did not provide this service. From a few questions asked she chose 3 fantastic options for us, exactly what we were looking for. She was also very patient in answering our questions about each lodge and was knowledgeable in her responses. I would highly recommend this company and am excited to go on the safari that she helped us choose!
-
-Connie K
-
-,
-
-CA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 1, 2024
-
-> Lindi is the best!
-
-> Lindi has been an amazing travel agent. We were a large party (7) and she was able to accommodate for everyone. She is so knowledgeable and made the process easy!
-
-Ali
 
 ,
 
