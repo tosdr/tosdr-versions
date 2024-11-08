@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,8 @@
 
 Сейчас читают
 
-* [Трубочки из лаваша с творогом и изюмом в сметанно-яичной заливке](https://www.russianfood.com/recipes/recipe.php?rid=166092)
+* [Слоёные рулетики с яблоками, джемом, изюмом и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174675)
+* [Овощной стир-фрай с краснокочанной капустой и лапшой](https://www.russianfood.com/recipes/recipe.php?rid=174666)
 * [Пирог-улитка из лаваша с творогом и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=165137)
 
 |     |
@@ -171,6 +172,62 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Конвертики из лаваша с творогом и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174410) |     |
+
+[![Фото к рецепту: Конвертики из лаваша с творогом и изюмом](//img1.russianfood.com/dycontent/images_upl/748/sm_747014.jpg "Фото к рецепту: Конвертики из лаваша с творогом и изюмом")](https://www.russianfood.com/recipes/recipe.php?rid=174410)
+
+Простой и быстрый рецепт для любителей сладких пирожков с творожной начинкой. Этот рецепт точно из ленивых, так как не нужно возиться с тестом - его заменяет лаваш. Лаваш нарезают, сворачивают в конвертики с творогом и изюмом, а затем обжаривают на сковороде.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174410)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174410#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с печенью, виноградом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174407) |     |
+
+[![Фото к рецепту: Салат с печенью, виноградом и апельсином](//img1.russianfood.com/dycontent/images_upl/741/sm_740055.jpg "Фото к рецепту: Салат с печенью, виноградом и апельсином")](https://www.russianfood.com/recipes/recipe.php?rid=174407)
+
+Делюсь вкусным рецептом салата с печенью, виноградом и апельсином, который я готовлю не только к празднику, но и на каждый день. Мне очень нравится сочетание сладкого и соленого. В рецепте используются сладкие сочные апельсины, виноград и нежные кусочки куриной печени с большим количеством салатной зелени. Это очень вкусно и полезно!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174407)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174407#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) |     |
+
+[![Фото к рецепту: Курица, фаршированная гречкой и грибами](//img1.russianfood.com/dycontent/images_upl/742/sm_741791.jpg "Фото к рецепту: Курица, фаршированная гречкой и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174476)
+
+Куриная тушка маринуется в смеси соевого соуса, аджики, чеснока и пряностей, что придаёт ей пикантный вкус и аромат. Затем её фаршируют отварной гречкой и грибами, обжаренными с луком, и запекают в духовке до румяной корочки.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174476)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174476#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Гармошка из куриного филе с грибами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174609) |     |
+
+[![Фото к рецепту: Гармошка из куриного филе с грибами, помидорами и сыром](//img1.russianfood.com/dycontent/images_upl/747/sm_746390.jpg "Фото к рецепту: Гармошка из куриного филе с грибами, помидорами и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174609)
+
+Половинки куриного филе без кожи фаршируются помидорами, ароматными грибами и сыром. Такая начинка делает филе более сочным, чем если запекать его самостоятельно. А чтобы вкус и аромат был ещё ярче, перед запеканием филе смазывается растительным маслом с пряностями.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174609)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174609#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -310,7 +367,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174752#comments) | 07.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174752#comments) | 07.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -324,63 +381,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174731#comments) | 07.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Блеснуть при случае](https://www.russianfood.com/themes/?theme_id=12)<br><br>[Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) |     |
-
-[![Фото к рецепту: Стейки из форели на ольховой дощечке на гриле](//img1.russianfood.com/dycontent/images_upl/750/sm_749953.jpg "Фото к рецепту: Стейки из форели на ольховой дощечке на гриле")](https://www.russianfood.com/recipes/recipe.php?rid=174766)
-
-Стейки из форели – это всегда вкусно! А если их приготовить на гриле, в интересном маринаде, чуть подкопчёнными от дымка ольховой дощечки, доведя температуру внутри стейков ровно до 56 градусов, то результат может получиться действительно потрясающим! И именно таким рецептом я бы хотел с вами поделиться! Единственное, что хотелось бы отметить, – если вы в точности хотите повторить данный рецепт, подготовьте кулинарный термометр и заранее замочите ольховую дощечку. Приятного аппетита!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174766)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174766#comments) | 07.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Голубцы по-закарпатски с копчёной грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) |     |
-
-[![Фото к рецепту: Голубцы по-закарпатски с копчёной грудинкой и грибами](//img1.russianfood.com/dycontent/images_upl/745/sm_744695.jpg "Фото к рецепту: Голубцы по-закарпатски с копчёной грудинкой и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174604)
-
-В капустные листья заворачиваются ломтики грудинки и обжаренные грибы с луком. Ароматная начинка придаёт голубцам особую насыщенность и оригинальность. Эти уникальные голубцы станут настоящим украшением любого стола.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174604)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174604#comments) | 06.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Пять простых вкуснейших блюд. Время КАШИ (18)](https://www.russianfood.com/reading/?post_id=22838) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/711/sm_710181.jpg)](https://www.russianfood.com/reading/?post_id=22838)
-
-Рис с помидорами и кукурузой. Манные зразы с фаршем. Булгур с мясом и тыквой. Запеканка из гречки с брынзой. Молочная пшённая каша с персиком.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22838)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22838#comments) | 06.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Долой однообразие!) Лучшие рецепты ЭКОНОМНЕЕ! №24-45](https://www.russianfood.com/reading/?post_id=22837) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/735/sm_734179.jpg)](https://www.russianfood.com/reading/?post_id=22837)
-
-Рубленые рыбные котлеты с сыром. Оладьи с помидорами и зеленью. Фасолевый суп с тушёнкой. Гороховая каша в микроволновке. Слойки с тыквой и грушей.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22837)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22837#comments) | 06.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174731#comments) | 07.11.24 |     |
 
 |     |
 | --- |
@@ -451,10 +452,12 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749540.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728297.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731711.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174181) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174604) |
-| [Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [Жаркое со сметаной](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [Куриное филе, запечённое с помидорами, перцем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174181) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [Голубцы по-закарпатски с копчёной грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) |
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174604) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740055.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747014.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174410) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728297.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731711.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174181) |
+| [Голубцы по-закарпатски с копчёной грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Салат с печенью, виноградом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [Конвертики из лаваша с творогом и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174410) | [Жаркое со сметаной](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [Куриное филе, запечённое с помидорами, перцем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174181) |
+| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746390.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749540.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
+| [Гармошка из куриного филе с грибами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -471,4 +474,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(154)
+(133)
