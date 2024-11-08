@@ -449,7 +449,7 @@ Address 2: 03-124，WeWork Embassy Tech Village, Block L, Embassy Tech Village,
 WPS Office Suite
 ----------------
 
-Download the free WPS Office suite compatible with Windows, PC, Mac, Linux, Android, and iOS devices. You can easily get the best online office for Windows and quickly view, create, and edit professionally designed Word documents, Excel spreadsheets, PPT slides, and PDF. More free WPS Office features for PC and mobile devices will be available soon. Download the free WPS Office suite as an alternative to MS Office to fit multiple scenarios. For more information, visit: [https://www.wps.com/download/](https://www.wps.com/download/)
+Get Free WPS Office suite to create best Word documents, Excel spreadsheets, PPT slides, and PDF on Windows, PC, Mac, Linux, Android, and iOS devices. Download professional WPS Office for students, teachers, business users, and finance industry users, making it easy to work anywhere, anytime, with anyone. WPS Office provides over 100,000 free templates that are easy to edit and customize. Download the best free WPS Office suite to promote your business. For more information, visit: [https://www.wps.com/download/](https://www.wps.com/download/)
 
 [Popular Free Templates
 ----------------------](https://template.wps.com/ "content.recommend.templates")
