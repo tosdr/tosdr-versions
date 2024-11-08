@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Come for the Total, stay for the Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Unable to obtain absentee ballots, 40 monkeys escaped from a South Carolina research facility to go vote](https://www.fark.com/goto/13455526) ( [nbcnews.com](https://www.fark.com/goto/13455526) ) » [(5 comments)](https://www.fark.com/comments/13455526/Unable-to-obtain-absentee-ballots-40-monkeys-escaped-from-a-South-Carolina-research-facility-to-go-vote) |
-| [Discussion](https://www.fark.com/discussion/) | [See if your favorite beer is on the list of the World's 25 best beers - wait a second, what the hell is this shiat?](https://www.fark.com/goto/13455616) ( [pennlive.com](https://www.fark.com/goto/13455616) ) » [(12 comments)](https://www.fark.com/comments/13455616/See-if-your-favorite-beer-is-on-list-of-Worlds-25-best-beers-wait-a-second-what-hell-is-this-shiat) |
-| [Sports](https://www.fark.com/sports/) | [A dozen hockey games are on tap for Thursday, starting at 7:00 PM ET and continuing throughout the evening. Where will the big moments be? How is your team looking so far this season?](https://www.fark.com/goto/13454988) ( [espn.com](https://www.fark.com/goto/13454988) ) » [(14 comments)](https://www.fark.com/comments/13454988/A-dozen-hockey-games-are-on-tap-for-Thursday-starting-at-700-PM-ET-continuing-throughout-evening-Where-will-big-moments-be-How-is-your-team-looking-so-far-this-season) |
-| [Business](https://www.fark.com/business/) | [First combined IHOP-Applebee's restaurant in the US to open in Texas because at this point they deserve it](https://www.fark.com/goto/13455146) ( [cnn.com](https://www.fark.com/goto/13455146) ) » [(7 comments)](https://www.fark.com/comments/13455146/First-combined-IHOP-Applebees-restaurant-in-US-to-open-in-Texas-because-at-this-point-they-deserve-it) |
-| [STEM](https://www.fark.com/stem/) | [Fukushima evacuees unimpressed by test removal of radioactive debris from reactor, want process to continue even if it takes until their grandchildren's or great-grandchildren's generation](https://www.fark.com/goto/13455648) ( [www3.nhk.or.jp](https://www.fark.com/goto/13455648) ) » [(2 comments)](https://www.fark.com/comments/13455648/Fukushima-evacuees-unimpressed-by-test-removal-of-radioactive-debris-from-reactor-want-process-to-continue-even-if-it-takes-until-their-grandchildrens-great-grandchildrens-generation) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Irish men look like Paul Mescal. That's the story](https://www.fark.com/goto/13455528) ( [metro.co.uk](https://www.fark.com/goto/13455528) ) » [(0 comments)](https://www.fark.com/comments/13455528/Irish-men-look-like-Paul-Mescal-Thats-story) |
-| [Fandom](https://www.fark.com/fandom/) | [As if this week wasn't already bad enough for Tim Walz, Sega announces it will pull Crazy Taxi from digital storefronts](https://www.fark.com/goto/13455566) ( [engadget.com](https://www.fark.com/goto/13455566) ) » [(0 comments)](https://www.fark.com/comments/13455566/As-if-this-week-wasnt-already-bad-enough-for-Tim-Walz-Sega-announces-it-will-pull-Crazy-Taxi-from-digital-storefronts) |
-| [D'awww](https://www.fark.com/dawww/) | [If you thought vampire bats running on treadmills wasn't going to be cute prepare to SQUEEE](https://www.fark.com/goto/13455590) ( [sciencealert.com](https://www.fark.com/goto/13455590) ) » [(5 comments)](https://www.fark.com/comments/13455590/If-you-thought-vampire-bats-running-on-treadmills-wasnt-going-to-be-cute-prepare-to-SQUEEE) |
-| [Food](https://www.fark.com/food/) | [Watch 3 Japanese guys try Thanksgiving turkey for the first time](https://www.fark.com/goto/13455670) ( [youtube.com](https://www.fark.com/goto/13455670) ) » [(42 comments)](https://www.fark.com/comments/13455670/Watch-3-Japanese-guys-try-Thanksgiving-turkey-for-first-time) |
-| [Politics](https://www.fark.com/politics/) | [Prince Harry's 'extremely foolish' decision of admitting to taking drugs that could see him and Meghan kicked out of the US by Trump. Now that this is Trump's America, getting kicked out is not a bad idea](https://www.fark.com/goto/13455112) ( [dailyrecord.co.uk](https://www.fark.com/goto/13455112) ) » [(8 comments)](https://www.fark.com/comments/13455112/Prince-Harrys-extremely-foolish-decision-of-admitting-to-taking-drugs-that-could-see-him-Meghan-kicked-out-of-US-by-Trump-Now-that-this-is-Trumps-America-getting-kicked-out-is-not-a-bad-idea) |
+| [Main](https://www.fark.com/) | [Did you ever dream about having a house with a fire pole and butler's pantry? Then boy do I have good news for you](https://www.fark.com/goto/13456106) ( [zillow.com](https://www.fark.com/goto/13456106) ) » [(3 comments)](https://www.fark.com/comments/13456106/Did-you-ever-dream-about-having-a-house-with-a-fire-pole-butlers-pantry-Then-boy-do-I-have-good-news-for-you) |
+| [Discussion](https://www.fark.com/discussion/) | ["Why won't my husband let me make friends in our new neighborhood? He's friend blocking me"](https://www.fark.com/goto/13455742) ( [slate.com](https://www.fark.com/goto/13455742) ) » [(0 comments)](https://www.fark.com/comments/13455742/Why-wont-my-husband-let-me-make-friends-in-our-new-neighborhood-Hes-friend-blocking-me) |
+| [Sports](https://www.fark.com/sports/) | [Bronny is going to take his talents to South Bay](https://www.fark.com/goto/13455976) ( [espn.com](https://www.fark.com/goto/13455976) ) » [(5 comments)](https://www.fark.com/comments/13455976/Bronny-is-going-to-take-his-talents-to-South-Bay) |
+| [Business](https://www.fark.com/business/) | [Good news, everybody: used cheap off-lease EVs will flood the market in 2026. Bad news: everything else between now and then](https://www.fark.com/goto/13455828) ( [arstechnica.com](https://www.fark.com/goto/13455828) ) » [(2 comments)](https://www.fark.com/comments/13455828/Good-news-everybody-used-cheap-off-lease-EVs-will-flood-market-in-2026-Bad-news-everything-else-between-now-then) |
+| [STEM](https://www.fark.com/stem/) | [You're getting a new Mac mini tomorrow, now 3D print this case so it looks like a Mac Pro nano](https://www.fark.com/goto/13455980) ( [tomshardware.com](https://www.fark.com/goto/13455980) ) » [(1 comment)](https://www.fark.com/comments/13455980/Youre-getting-a-new-Mac-mini-tomorrow-now-3D-print-this-case-so-it-looks-like-a-Mac-Pro-nano) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Three people arrested and charged in Liam Payne's last direction being straight down](https://www.fark.com/goto/13455932) ( [yahoo.com](https://www.fark.com/goto/13455932) ) » [(3 comments)](https://www.fark.com/comments/13455932/Three-people-arrested-charged-in-Liam-Paynes-last-direction-being-straight-down) |
+| [Fandom](https://www.fark.com/fandom/) | [Pitch Meeting for Season 2 of Rings of Power - one of the funnier Pitch Meetings you'll see](https://www.fark.com/goto/13455910) ( [youtube.com](https://www.fark.com/goto/13455910) ) » [(3 comments)](https://www.fark.com/comments/13455910/Pitch-Meeting-for-Season-2-of-Rings-of-Power-one-of-funnier-Pitch-Meetings-youll-see) |
+| [D'awww](https://www.fark.com/dawww/) | [If you thought vampire bats running on treadmills wasn't going to be cute prepare to SQUEEE](https://www.fark.com/goto/13455590) ( [sciencealert.com](https://www.fark.com/goto/13455590) ) » [(8 comments)](https://www.fark.com/comments/13455590/If-you-thought-vampire-bats-running-on-treadmills-wasnt-going-to-be-cute-prepare-to-SQUEEE) |
+| [Food](https://www.fark.com/food/) | [Watch 3 Japanese guys try Thanksgiving turkey for the first time](https://www.fark.com/goto/13455670) ( [youtube.com](https://www.fark.com/goto/13455670) ) » [(55 comments)](https://www.fark.com/comments/13455670/Watch-3-Japanese-guys-try-Thanksgiving-turkey-for-first-time) |
+| [Politics](https://www.fark.com/politics/) | [A somewhat polite Canadian perspective](https://www.fark.com/goto/13456196) ( [thetyee.ca](https://www.fark.com/goto/13456196) ) » [(6 comments)](https://www.fark.com/comments/13456196/A-somewhat-polite-Canadian-perspective) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 07 2024 19:42:25  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 08 2024 01:46:04  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
