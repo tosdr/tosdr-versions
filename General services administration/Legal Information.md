@@ -193,7 +193,15 @@ close mobile menu
         * [For federal customers](https://www.gsa.gov/real-estate/real-estate-services/for-federal-customers?topnav=real-estate)
         * [For workers in federal buildings](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate)
         
-    * [Workplace](https://www.gsa.gov/real-estate/workplace?topnav=real-estate)
+    * [Workplace
+        
+        Toggle submenu](https://www.gsa.gov/real-estate/workplace?topnav=real-estate)
+        
+        * [Offerings](https://www.gsa.gov/real-estate/workplace/offerings?topnav=real-estate)
+        * [Insights](https://www.gsa.gov/real-estate/workplace/insights?topnav=real-estate)
+        * [About](https://www.gsa.gov/real-estate/workplace/about?topnav=real-estate)
+        * [Contact](https://www.gsa.gov/real-estate/workplace/contact?topnav=real-estate)
+        
     
     Featured Topics - Real Estate
     -----------------------------
@@ -619,7 +627,15 @@ Real estate expand menu
 
 [For workers in federal buildings](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate)
 
-[Workplace](https://www.gsa.gov/real-estate/workplace?topnav=real-estate)
+[Workplace](https://www.gsa.gov/real-estate/workplace?topnav=real-estate) expand menu
+
+[Offerings](https://www.gsa.gov/real-estate/workplace/offerings?topnav=real-estate)
+
+[Insights](https://www.gsa.gov/real-estate/workplace/insights?topnav=real-estate)
+
+[About](https://www.gsa.gov/real-estate/workplace/about?topnav=real-estate)
+
+[Contact](https://www.gsa.gov/real-estate/workplace/contact?topnav=real-estate)
 
 Policy and regulations expand menu
 
