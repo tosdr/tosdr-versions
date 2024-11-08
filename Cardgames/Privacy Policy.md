@@ -4,7 +4,7 @@ SOLITAIRES [Addiction](https://cardgames.io/addiction/) [Canfield Solitaire](htt
 
 OTHER GAMES [Backgammon](https://cardgames.io/backgammon/) [Checkers](https://cardgames.io/checkers/) [Chess](https://cardgames.io/chess/) [Farkle](https://cardgames.io/farkle/) [Mahjong](https://cardgames.io/mahjong/) [Minesweeper](https://cardgames.io/minesweeper/) [Reversi](https://cardgames.io/reversi/) [Sea Battle](https://cardgames.io/seabattle/) [Sudoku](https://cardgames.io/sudoku/) [Triangles](https://cardgames.io/triangles/) [Yahtzee](https://cardgames.io/yahtzee/)
 
-Change language [ENGLISH](https://cardgames.io/privacy/) [ESPAÑOL](https://cardgames.io/es/privacy/) [FRANÇAIS](https://cardgames.io/fr/privacy/) [ÍSLENSKA](https://cardgames.io/is/privacy/)
+Change language [ENGLISH](https://cardgames.io/privacy/) [ESPAÑOL](https://cardgames.io/es/privacy/) [FRANÇAIS](https://cardgames.io/fr/privacy/)
 
 Random game
 
@@ -14,7 +14,7 @@ CLOSE GAME MENU [Customize...](#customize-menu) [Hide 'Home' link](#hide-home)
 
 Advertisement
 
-🌎 English Español Français Íslenska
+🌎 English Español Français
 
 [Hearts](https://cardgames.io/hearts/) [Solitaire](https://cardgames.io/solitaire/) [Spades](https://cardgames.io/spades/) [FreeCell](https://cardgames.io/freecell/) [Cribbage](https://cardgames.io/cribbage/) [Yahtzee](https://cardgames.io/yahtzee/) [Gin Rummy](https://cardgames.io/ginrummy/) [Canasta](https://cardgames.io/canasta/) [Home](https://cardgames.io/) [More games...](#more-games)
 
@@ -117,9 +117,9 @@ If you would like more information about any of the above, please do not hesitat
 
 Click here to go back to the frontpage.
 
-[ENGLISH](https://cardgames.io/privacy/) [ESPAÑOL](https://cardgames.io/es/privacy/) [FRANÇAIS](https://cardgames.io/fr/privacy/) [ÍSLENSKA](https://cardgames.io/is/privacy/)
+[ENGLISH](https://cardgames.io/privacy/) [ESPAÑOL](https://cardgames.io/es/privacy/) [FRANÇAIS](https://cardgames.io/fr/privacy/)
 
-This is version 1.23.5 of CardGames.io.
+This is version 1.23.6 of CardGames.io.
 
 Game failed to load
 -------------------
