@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [AwfulVision: Cross-face chicken wings and tap water!](https://www.somethingawful.com/awfulvision/benoit-fat-werewolf/1/)
-* [AwfulVision: Reader Mailbag #1!](https://www.somethingawful.com/awfulvision/awfulvision-reader-mailbag/1/)
-* [AwfulVision: Canada vs. Jesus!](https://www.somethingawful.com/awfulvision/moustache-obama-eggs/1/)
-* [Valentines + Dinosaurs = Valendinos](https://www.somethingawful.com/comedy-goldmine/valentines-day-dinosaurs/1/)
-* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
+* [Internet Movie Database and Talk Sex](https://www.somethingawful.com/weekend-web/internet-movie-database/1/)
+* [SparkNotes, Crush Forum, and Runescape](https://www.somethingawful.com/weekend-web/sparknotes-crushtalk-runescape/1/)
+* [Hilary Clinton Forum, Bigger City, and Animorphs Fan Forum](https://www.somethingawful.com/weekend-web/biggercity-hilary-animorphs/1/)
+* [Hip Forums, Drugs.com, and Dragon Ball Z](https://www.somethingawful.com/weekend-web/hippies-drugs-dragonballz/1/)
+* [Tales from the Zoo, Part Three](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo-3/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [post itt every time you lol that trump got reelected](http://forums.somethingawful.com/showthread.php?threadid=4074799 "post itt every time you lol that trump got reelected")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [canada thread - post in this thread every you lol that trump isn't our pres](http://forums.somethingawful.com/showthread.php?threadid=4074779 "canada thread - post in this thread every you lol that trump isn't our pres")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [Canada citizenship application discussion](http://forums.somethingawful.com/showthread.php?threadid=4074706 "Canada citizenship application discussion")
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [How busy were the Ghostbusters after 9/11?](http://forums.somethingawful.com/showthread.php?threadid=4074679 "How busy were the Ghostbusters after 9/11?")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Post how you break up with people](http://forums.somethingawful.com/showthread.php?threadid=4074710 "Post how you break up with people")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Come to Callisto!](http://forums.somethingawful.com/showthread.php?threadid=4074669 "Come to Callisto!")
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Historic Breakdancing News](http://forums.somethingawful.com/showthread.php?threadid=4074712 "Historic Breakdancing News")
 
 ### Random Articles
 
-* [American Bidet (Thanks, Chris!)](https://www.somethingawful.com/awful-links/american-bidet-company/)
-* [HOW2WIN@GAMES Vol. 1 Tape 1](https://www.somethingawful.com/flash-tub/how2win-games-cartoon/)
-* [S.T.A.L.K.E.R. Features That Didn't Quite Make It](https://www.somethingawful.com/video-game-article/stalker-features/)
-* [Doctor Science Professor Explains It All](https://www.somethingawful.com/news/doctor-science-professor-2/)
-* [If Clickbait Ads Had Anything to Do with the Linked Articles!](https://www.somethingawful.com/photoshop-phriday/clickbait-ads-articles/)
+* [National Institute of Record Archive](https://www.somethingawful.com/awful-links/awful-link-1504/)
+* [DogBeards](https://www.somethingawful.com/photoshop-phriday/dog-beards/1/)
+* [The Breadgunner](https://www.somethingawful.com/photoshop-phriday/breadgunner-tunisia/1/)
+* [Adopt-A-Cube!](https://www.somethingawful.com/news/adoptacube/)
+* [Photoshop Phriday and New Jeff K](https://www.somethingawful.com/news/photoshop-phriday-new/)
 
 [Random!](https://www.somethingawful.com/random/)
 
