@@ -64,22 +64,24 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
-* [Marco Rubio calls for US to end Ukraine conflict](https://www.lewrockwell.com/political-theatre/marco-rubio-calls-for-us-to-end-ukraine-conflict/)
-* [Documentary: Four Leaders Assassinated Because They Were for Peace](https://www.lewrockwell.com/political-theatre/documentary-four-leaders-assassinated-because-they-were-for-peace/)
-* [OElites Would Rather Burn it Down Than Lose](https://www.lewrockwell.com/political-theatre/oelites-would-rather-burn-it-down-than-lose/)
-* [Ron Paul Warns Neocon Pompeo May Be Secretary of Defense](https://www.lewrockwell.com/political-theatre/ron-paul-warns-neocon-pompeo-may-be-secretary-of-defense/)
-* [AI more intelligent than the candidate](https://www.lewrockwell.com/political-theatre/ai-more-intelligent-than-the-candidate/)
-* [Trump’s Speech](https://www.lewrockwell.com/political-theatre/trumps-speech-2/)
-* [Anti-Christian Hollywood’s latest anti-Catholic travesty](https://www.lewrockwell.com/political-theatre/anti-christian-hollywoods-latest-anti-catholic-travesty/)
-* [Got milk?](https://www.lewrockwell.com/political-theatre/got-milk/)
-* [The election](https://www.lewrockwell.com/political-theatre/the-election/)
-* [Archbishop Viganò: Election major setback for “psychopathic criminals who hold the West hostage”](https://www.lewrockwell.com/political-theatre/archbishop-vigano-election-major-setback-for-psychopathic-criminals-who-hold-the-west-hostage/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-895588)
+* [Safe spaces for anti-Trump students](https://www.lewrockwell.com/political-theatre/safe-spaces-for-anti-trump-students/)
+* [Senior Harris Advisor Deletes X Account As “Massive Scandal” Brews Over $20 Million In Campaign Debt](https://www.lewrockwell.com/political-theatre/senior-harris-advisor-deletes-x-account-as-massive-scandal-brews-over-20-million-in-campaign-debt/)
+* [New Book – What if Bill Gates owned the Internet?](https://www.lewrockwell.com/political-theatre/new-book-what-if-bill-gates-owned-the-internet/)
+* [Karl Denninger on Fire](https://www.lewrockwell.com/political-theatre/karl-denninger-on-fire/)
+* [The One Man in San Francisco Who Cares By Allan Stevo](https://www.lewrockwell.com/political-theatre/the-one-man-in-san-francisco-who-cares-by-allan-stevo/)
+* [Germany Aiming To Survey National Readiness for Youth Military Service](https://www.lewrockwell.com/political-theatre/germany-aiming-to-survey-national-readiness-for-youth-military-service/)
+* [The 2014 globalist coup that ended safety in Ukraine](https://www.lewrockwell.com/political-theatre/the-2014-globalist-coup-that-ended-safety-in-ukraine/)
+* [Very Bad Foreign Policy Sign from Trump](https://www.lewrockwell.com/political-theatre/very-bad-foreign-policy-sign-from-trump/)
+* [Trump’s ‘Viceroy’ Puts NY’s AG On Notice](https://www.lewrockwell.com/political-theatre/trumps-viceroy-puts-nys-ag-on-notice/)
+* [John Maynard Keynes](https://www.lewrockwell.com/political-theatre/john-maynard-keynes/)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-895684)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [Who’s The Boss? Trump, Powell, or the “Market”?](https://www.lewrockwell.com/lrc-blog/whos-the-boss-trump-powell-or-the-market/)
+* [Leftist OUTRAGE! Reacting To Feminist MELTDOWNS Over Trump’s Victory](https://www.lewrockwell.com/lrc-blog/leftist-outrage-reacting-to-feminist-meltdowns-over-trumps-victory/)
 * [Must Watch Interview: Trump, the Economy & World War III: Col. Douglas Macgregor’s Shocking Predictions](https://www.lewrockwell.com/lrc-blog/must-watch-interview-trump-the-economy-world-war-iii-col-douglas-macgregors-shocking-predictions/)
 * [The Secession Movement in The Land of Lincoln](https://www.lewrockwell.com/lrc-blog/the-secession-movement-in-the-land-of-lincoln/)
 * [Trump: ‘No More Wars. I’m Going To Stop The Wars.’ Should We Believe Him?](https://www.lewrockwell.com/lrc-blog/trump-no-more-wars-im-going-to-stop-the-wars-should-we-believe-him/)
@@ -88,9 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Older Hollywood Women are Worried Sick . . .](https://www.lewrockwell.com/lrc-blog/older-hollywood-women-are-worried-sick/)
 * [Drowning In Their Tears: Elites Panic At 2024 Election Results](https://www.lewrockwell.com/lrc-blog/drowning-in-their-tears-elites-panic-at-2024-election-results/)
 * [Can Hypnosis Last for Twenty Years?](https://www.lewrockwell.com/lrc-blog/can-hypnosis-last-for-twenty-years/)
-* [The Economic B.S. Begins](https://www.lewrockwell.com/lrc-blog/the-economic-b-s-begins/)
-* [CNN Panel of Lying Media Scum Leftists . . .](https://www.lewrockwell.com/lrc-blog/cnn-panel-of-lying-media-scum-leftists/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-895526)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-895547)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
