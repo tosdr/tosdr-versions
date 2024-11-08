@@ -10,7 +10,7 @@
 Privacy Notice
 ==============
 
-Last updated: October 2023
+Last updated: November 2024
 
 Privacy statement
 
