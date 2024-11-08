@@ -937,7 +937,7 @@ Related Information
 
 * [Walden University Consumer Information Summary...](https://www.waldenu.edu/legal/consumer-information)
 * [Net Price Calculator](https://www.waldenu.edu/financial-aid/price-calculator)
-* [Walden Grants and Scholarships Details](https://www.waldenu.edu/financial-aid/grants-and-scholarships-details)
+* [Walden Students](https://www.waldenu.edu/walden-students)
 
 ![w background](/themes/custom/wal_base_2024/images/W.png)
 
