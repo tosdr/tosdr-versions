@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2023/09/EarpHERO-250x141.png)
+    
+    Dr. Shelley Earp to deliver 2024 Winter Commencement address](https://www.unc.edu/posts/2024/11/07/dr-shelley-earp-to-deliver-2024-winter-commencement-address/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/11/CorrectionalProgramHero-250x141.jpg)
     
     Correctional Education gives prisoners a second chance](https://www.unc.edu/posts/2024/11/06/correctional-education-gives-prisoners-a-second-chance/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/OUR101HERO-250x141.png)
-    
-    Undergraduates can do research](https://www.unc.edu/posts/2024/11/05/undergraduates-can-do-research/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=7ae3fe094f&text=%prefix%%text%%suffix%&post_id=225671&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=d81c789d5c&text=%prefix%%text%%suffix%&post_id=248837&type=%type%)
 
 ### Share on Mastodon
 
