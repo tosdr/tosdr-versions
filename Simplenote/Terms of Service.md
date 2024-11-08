@@ -47,7 +47,7 @@ By using the Simplenote app or web app (“Service”), you are agreeing to be b
     
     *  [![](https://simplenote.com/wp-content/uploads/2020/07/cropped-icon_512x512.png?w=50) Simplenote](https://simplenote.com/)
     
-    Join 1,702 other subscribers
+    Join 1,703 other subscribers
     
         
     
