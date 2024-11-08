@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Illuminate Black Holes With Echoes of Light](https://www.sciencedaily.com/releases/2024/11/241107160747.htm)
+* [People Buried in Pompeii Eruption: New Story](https://www.sciencedaily.com/releases/2024/11/241107160923.htm)
+* [CO2 to Useful Chemicals: Toward Colonizing Mars](https://www.sciencedaily.com/releases/2024/11/241107115225.htm)
 * [Explaining Extremely Well-Preserved Dino Fossils](https://www.sciencedaily.com/releases/2024/11/241104150518.htm)
 * [Lower Blood Pressure: Five Minutes Exercise ...](https://www.sciencedaily.com/releases/2024/11/241106190302.htm)
 * [Climate Change Parching the West: Evaporation](https://www.sciencedaily.com/releases/2024/11/241106190309.htm)
@@ -236,9 +239,6 @@ this hour
 * [Predictions for Meson Measurements](https://www.sciencedaily.com/releases/2024/11/241106171846.htm)
 * [Haptic Patch for Complexity of Touch in VR](https://www.sciencedaily.com/releases/2024/11/241106132217.htm)
 * [Your Brain, While You Watch a Movie](https://www.sciencedaily.com/releases/2024/11/241106132234.htm)
-* [Use of 'Genetic Scissors' Carries Risks](https://www.sciencedaily.com/releases/2024/11/241106132646.htm)
-* [How the Brain Handles Hunger](https://www.sciencedaily.com/releases/2024/11/241106132326.htm)
-* [Imaging Nuclear Shapes by Smashing Them](https://www.sciencedaily.com/releases/2024/11/241106132223.htm)
 
 Trending Topics
 ---------------
@@ -253,23 +253,23 @@ this week
 
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
-[Stars](https://www.sciencedaily.com/news/space_time/stars/)
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
-[Pests and Parasites](https://www.sciencedaily.com/news/plants_animals/pests_and_parasites/)
+[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+[Pests and Parasites](https://www.sciencedaily.com/news/plants_animals/pests_and_parasites/)
 
   
 
