@@ -13,8 +13,7 @@ Sign up
 * [Additional data](#additional-data)
 * [Security of your information](#security-of-your-information)
 * [Responsibility](#responsibility)
-* [Consent](#consent)
-* [Consent withdrawal](#consent-withdrawal)
+* [Cookies Policy](#cookies-policy)
 * [Use of collected information](#use-of-collected-information)
 * [Disclosure of the collected information](#disclosure-of-the-collected-information)
 * [Sharing information internally](#sharing-information-internally)
@@ -26,7 +25,7 @@ Sign up
 SubscribeStar.com Privacy Policy
 ================================
 
-Updated: June 06, 2024 11:03 am
+Updated: November 08, 2024 02:25 pm
 
 * * *
 
@@ -99,27 +98,63 @@ All Users of this Website agree do not hold liable this Service, our directors, 
 
 * * *
 
-### Consent
+### Cookies Policy
 
-This Website uses the technology known as “HTTP cookies” or just “cookies”, browser’s Local Storage and other tracking technologies to improve your experience with the Service.  
-  
-In case you refuse to provide us with your consent or you simply disagree with our use of cookies or other tracking technologies, you must immediately leave this Website and stop using any and all related services.   
-  
-Continue to use this Website if you give us your unambiguous consent to the use of cookies and aforementioned tracking technologies.  
-  
-If you choose to delete, alter, or block these cookies, some features of this site may not work as intended, therefore we can not guarantee the full and uninterrupted service.
+SubscribeStar is committed to respecting your privacy and ensuring transparency regarding the way we use cookies on our website. This Cookies Policy explains what cookies are, how we use them, and your options for managing them. By using the SubscribeStar website, you consent to our use of cookies as outlined in this policy.
 
-#### Consent expression
+#### What Are Cookies?
 
-When you initially start browsing this Website, you will be asked for affirmative consent via a dedicated form with the "I Accept" button. Upon clicking this button, you give us unambiguous consent to process any Personal Information we may collect during your experience with our website. By choosing "I Accept" while initially accessing this website, you consent to our use of cookies and other tracking technologies.  
+Cookies are small text files placed on your device when you visit a website. These files help us enhance your experience by remembering your preferences, improving site performance, and providing personalized content. Cookies can be either _session cookies_ (deleted after you close your browser) or _persistent cookies_ (remain on your device until deleted or expire).
+
+#### How We Use Cookies
+
+SubscribeStar uses cookies to:
+
+* Provide essential services and functions on our website.
+* Improve your experience by remembering your preferences and settings.
+* Analyze site performance and understand how users interact with the site.
+
+> We don’t use cookies for targeted advertising, nor do we sell any information collected through cookies to third-party marketing services.
+
+#### Types of Cookies We Use
+
+We use the following types of cookies:
+
+* **Strictly Necessary Cookies:** These are essential for you to browse the platform and use its features. These cookies cannot be opted out of, as they are required for the basic functionality of the website.
+* **Functional Cookies:** These cookies allow us to remember your choices and preferences, such as language, region settings, or accessing your account. Functional cookies are also essential for a fully customized experience and cannot be opted out of without potentially affecting the site's functionality.
+* **Performance Cookies:** These cookies collect information about how visitors use our site, helping us improve performance and functionality. This includes Google Analytics cookies, which gather aggregated data on user interactions (e.g., pages visited, time spent on pages, bounce rate) to help us understand user behavior and enhance site performance. All information collected by Google Analytics cookies is anonymous and used solely for analytical purposes.
+
+> Please note that if, as a Star, you opt out of Google Analytics cookies, it may impact your ability to conduct your Google Analytics integration effectively, potentially affecting your ability to track key metrics and monitor the success of your marketing strategies.
+
   
-When you provide us with Personal Information to complete a transaction (i.e., subscription, refund, or payout), verify your credit card, place an order, we imply that you consent to our collecting such Personal Information and using it for that specific reason only.  
+
+* **Third-Party Cookies:** We may allow third parties to set cookies on your device through our website. These third parties may include services like ShareThis, and others. We do not control these third-party cookies; for more information, please refer to the respective privacy and cookie policies of these third parties.
+
+#### Managing Your Cookie Preferences
+
+You have the right to manage your cookie preferences. When you first visit SubscribeStar, you will see a banner allowing you to accept or decline cookies. You can adjust these settings or disable certain cookies at any time by:
+
+* **Using the Cookie Consent Tool on SubscribeStar:** We provide a [cookie consent management tool](https://www.subscribestar.com/account/cookies_privacy_settings) that allows you to review and adjust your cookie settings by category (e.g., Strictly Necessary, Performance, Functional, and Third-Party cookies). You can opt in or out of specific categories, except for Strictly Necessary and Functional cookies, which are essential for our website’s functionality. 
+* **Opting Out of Google Analytics:** To prevent Google Analytics from collecting your information, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) or simply opt out using our [cookie consent management tool](https://www.subscribestar.com/account/cookies_privacy_settings).
+* **Using Your Browser Settings:** Most web browsers allow you to manage your cookie settings directly through their settings. You can block or delete cookies as desired. Instructions for managing cookies on popular browsers can be found below:
+    * **Google Chrome:** Manage cookies in Chrome
+    * **Mozilla Firefox:** Manage cookies in Firefox
+    * **Safari:** Manage cookies in Safari
+    * **Microsoft Edge:** Manage cookies in Edge
+
+> Disabling cookies via browser setting may and will impact the functionality of SubscribeStar and will affect your ability to access all features.
+
   
-If we ask for your Personal Information for a different reason, such as marketing, we will either ask directly for your expressed consent or provide you with the option to decline.
 
-#### Consent withdrawal
+* **Opting Out of All Cookies:** If you wish to opt out of all cookies, including Strictly Necessary Cookies (i.e., Essential Cookies), you must leave SubscribeStar and refrain from using it in any way. Strictly Necessary Cookies are essential for the site’s functionality, and disabling them may prevent the site from operating correctly.
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you for the continued collection, use, or disclosure of your Personal Information, at any time, by contacting us at [\[email protected\]](https://www.subscribestar.com/cdn-cgi/l/email-protection)
+#### Updates to this Policy
+
+We may update our Cookies Policy from time to time to reflect changes in technology, legal requirements, or our business practices. It is your responsibility to monitor changes to this policy to stay compliant and use the platform to its full capacity.
+
+#### Contact Us
+
+If you have questions or concerns about our use of cookies, please contact us at [\[email protected\]](https://www.subscribestar.com/cdn-cgi/l/email-protection)
 
 * * *
 
@@ -227,7 +262,11 @@ If our Platform is acquired or merged with another company, your information may
 
 Log InSign Up[Features](https://www.subscribestar.com/features)[Pricing](https://www.subscribestar.com/pricing)[Developers](https://www.subscribestar.com/api)[About](https://www.subscribestar.com/about)
 
-[Terms of Service](https://www.subscribestar.com/tos)[Privacy Policy](https://www.subscribestar.com/privacy)[EU DSA](https://www.subscribestar.com/dsa)[Refund Policy](https://www.subscribestar.com/refund)[Contact Us](https://www.subscribestar.com/contacts)
+[Terms of Service](https://www.subscribestar.com/tos)[Privacy Policy](https://www.subscribestar.com/privacy)
+
+Privacy Settings
+
+[EU DSA](https://www.subscribestar.com/dsa)[Refund Policy](https://www.subscribestar.com/refund)[Contact Us](https://www.subscribestar.com/contacts)
 
 [All Stars](https://www.subscribestar.com/stars)[Brand](https://www.subscribestar.com/brand)[Do's & Don'ts](https://www.subscribestar.com/guidelines)[FAQ](https://www.subscribestar.com/help)
 
@@ -242,5 +281,3 @@ Starcling, LLC, 30 N Gould St, Ste 5085, Sheridan, WY, 82801, US    
 All copyrights belong to their respective owners. Images and text owned by other copyright holders are used here under the guidelines of the Fair Use provisions of United States Copyright Law.  
   
 © 2024 SubscribeStar.com.
-
-This website uses cookies to improve your experience while you navigate through this website. Continue to use this website as normal if you agree to the use of cookies. View our [Privacy Policy](https://www.subscribestar.com/privacy) for the details. By choosing "I Accept", you consent to our use of cookies.I Accept
