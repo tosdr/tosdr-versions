@@ -116,7 +116,7 @@ Open Cul­ture, LLC
 Unit #1039  
 Men­lo Park, CA 94025
 
-The agent can also be con­tact­ed via email at [mail@openculture.com](mailto:openculture@openculture.com)
+The agent can also be con­tact­ed via email at [ma\*\*@op\*\*\*\*\*\*\*\*\*.com](mailto:op*********@op*********.com "This contact has been encoded by Anti-Spam by CleanTalk. Click to decode. To finish the decoding make sure that JavaScript is enabled in your browser.")
 
 NOTE: Please put “DMCA” in the sub­ject line of the email.
 
@@ -162,7 +162,7 @@ A.      Gov­ern­ing Law.  You agree that: (i) the Ser­vice shall be dee
 
 B.        Arbi­tra­tion.  For any claim (exclud­ing claims for injunc­tive or oth­er equi­table relief) under this Agree­ment where the total amount of the award sought is less than $10,000, the par­ty request­ing relief may elect to resolve the dis­pute through bind­ing non-appear­ance-based arbi­tra­tion. The par­ty elect­ing such arbi­tra­tion shall ini­ti­ate the arbi­tra­tion through an estab­lished alter­na­tive dis­pute res­o­lu­tion (“ADR”) provider mutu­al­ly agreed upon by the par­ties. The ADR provider and the par­ties must com­ply with the fol­low­ing rules: a) the arbi­tra­tion shall be con­duct­ed by tele­phone, online and/or be sole­ly based on writ­ten sub­mis­sions, as select­ed by the par­ty ini­ti­at­ing the arbi­tra­tion; b) the arbi­tra­tion shall not involve any per­son­al appear­ance by the par­ties or wit­ness­es unless oth­er­wise mutu­al­ly agreed by the par­ties; and c) any judg­ment on the award ren­dered by the arbi­tra­tor may be entered in any court of com­pe­tent juris­dic­tion.
 
-C.        Noti­fi­ca­tion Pro­ce­dures.  Open Cul­ture may pro­vide noti­fi­ca­tions, whether such noti­fi­ca­tions are required by law or are for mar­ket­ing or oth­er busi­ness relat­ed pur­pos­es, to you via email notice, writ­ten or hard copy notice, or through post­ing of such notice on our web­site, as deter­mined by Open Cul­ture in our sole dis­cre­tion. Open Cul­ture reserves the right to deter­mine the form and means of pro­vid­ing noti­fi­ca­tions to our Users, pro­vid­ed that you may opt out of cer­tain means of noti­fi­ca­tion as described in this Agree­ment.  Open Cul­ture is not respon­si­ble for any auto­mat­ic fil­ter­ing you or your net­work provider may apply to email noti­fi­ca­tions we send to the email address you pro­vide us.  We rec­om­mend that you add [mail@openculture.com](mailto:mail@openculture.com) to your email address book to help ensure you receive email noti­fi­ca­tions from us.
+C.        Noti­fi­ca­tion Pro­ce­dures.  Open Cul­ture may pro­vide noti­fi­ca­tions, whether such noti­fi­ca­tions are required by law or are for mar­ket­ing or oth­er busi­ness relat­ed pur­pos­es, to you via email notice, writ­ten or hard copy notice, or through post­ing of such notice on our web­site, as deter­mined by Open Cul­ture in our sole dis­cre­tion. Open Cul­ture reserves the right to deter­mine the form and means of pro­vid­ing noti­fi­ca­tions to our Users, pro­vid­ed that you may opt out of cer­tain means of noti­fi­ca­tion as described in this Agree­ment.  Open Cul­ture is not respon­si­ble for any auto­mat­ic fil­ter­ing you or your net­work provider may apply to email noti­fi­ca­tions we send to the email address you pro­vide us.  We rec­om­mend that you add[ma\*\*@op\*\*\*\*\*\*\*\*\*.com](mailto:ma**@op*********.com "This contact has been encoded by Anti-Spam by CleanTalk. Click to decode. To finish the decoding make sure that JavaScript is enabled in your browser.")to your email address book to help ensure you receive email noti­fi­ca­tions from us.
 
 D.        Entire Agreement/Severability.  This Agree­ment, togeth­er with any amend­ments and any addi­tion­al agree­ments you may enter into with Open Cul­ture in con­nec­tion with the Ser­vice, shall con­sti­tute the entire agree­ment between you and Open Cul­ture con­cern­ing the Ser­vice.  If any pro­vi­sion of this Agree­ment is deemed invalid by a court of com­pe­tent juris­dic­tion, the inva­lid­i­ty of such pro­vi­sion shall not affect the valid­i­ty of the remain­ing pro­vi­sions of this Agree­ment, which shall remain in full force and effect.
 
@@ -174,7 +174,7 @@ Open Cul­ture, LLC is a par­tic­i­pant in the Ama­zon Ser­vices LLC Asso­
 
 Open Cul­ture, LLC is also a par­tic­i­pant in the Audible.com affil­i­ate pro­gram.
 
-Please con­tact us at [mail@openculture.com](mailto:openculture@openculture.com) with any ques­tions regard­ing this Agree­ment.
+Please con­tact us at[ma\*\*@op\*\*\*\*\*\*\*\*\*.com](mailto:op*********@op*********.com "This contact has been encoded by Anti-Spam by CleanTalk. Click to decode. To finish the decoding make sure that JavaScript is enabled in your browser.")with any ques­tions regard­ing this Agree­ment.
 
 **Recent Updates**
 
@@ -546,7 +546,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1731015940&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1731056255&formid=1 "click to reload")
     
 * About Us
     --------
