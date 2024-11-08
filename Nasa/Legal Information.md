@@ -263,25 +263,25 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Highlights
 
-[![The crew of the Human Exploration Research Analog’s Campaign 7 Mission 1 clasp hands above their simulated space habitat’s elevator shaft.](https://www.nasa.gov/wp-content/uploads/2024/08/hero.png?w=1024)
+[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+
+3 min read
+
+### NASA Shares Space Food Insight with Commercial Food Industry
+
+article 4 hours ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![The crew of the Human Exploration Research Analog’s Campaign 7 Mission 1 clasp hands above their simulated space habitat’s elevator shaft.](https://www.nasa.gov/wp-content/uploads/2024/08/hero.png?w=1024)
 
 1 min read
 
 ### HERO
 
-article 2 hours ago](https://www.nasa.gov/hrp/hero/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/vr.png?w=1024)
+article 7 hours ago](https://www.nasa.gov/hrp/hero/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/vr.png?w=1024)
 
 3 min read
 
 ### Do You Have Proposals for New Human Research Studies Benefiting Spaceflight?
 
-article 3 days ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human-research-studies-benefiting-spaceflight/)[![NASA astronaut Serena Auñón-Chancellor provides a saliva sample on the International Space Station. Her sample will be used to measure stress hormones and other biomarkers of health that can reveal how her immune system changes in space.](https://www.nasa.gov/wp-content/uploads/2021/12/serena_aunon-chancellor-saliva-sample-immunity-study-space-station.jpg?w=1024)
-
-2 min read
-
-### Research Operations and Integration
-
-article 7 days ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)
+article 3 days ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human-research-studies-benefiting-spaceflight/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 7 days ago](https://www.nasa.gov/hrp/research-operations-integration/sam
 
 ### Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE
 
-article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
+article 7 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
 
 5 min read
 
@@ -303,7 +303,7 @@ article 3 days ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-fi
 
 ### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 
-article 7 days ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)
+article 1 week ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 7 days ago](https://www.nasa.gov/missions/swot/international-swot-satell
 
 ### Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE
 
-article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
+article 7 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
 
 4 min read
 
@@ -357,19 +357,19 @@ article 1 week ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-miss
 
 ### Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF
 
-article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
+article 7 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
 
 2 min read
 
 ### Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE
 
-article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![NASA-Funded Study Examines Tidal Effects on Planet and Moon Interiors](https://science.nasa.gov/wp-content/uploads/2024/07/pia19048-europa-stunning-surface.jpg)
+article 7 hours ago](https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/)[![NASA-Funded Study Examines Tidal Effects on Planet and Moon Interiors](https://science.nasa.gov/wp-content/uploads/2024/07/pia19048-europa-stunning-surface.jpg)
 
 2 min read
 
 ### NASA-Funded Study Examines Tidal Effects on Planet and Moon Interiors
 
-article 4 hours ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/studying-how-tides-affect-the-interiors-of-planets-and-moons/)
+article 9 hours ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/studying-how-tides-affect-the-interiors-of-planets-and-moons/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 3 weeks ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-ma
 
 ### Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF
 
-article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 7 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 2 min read
 
 ### Power to Explore STEM Writing Challenge
 
-article 4 hours ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
+article 9 hours ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
 
 5 min read
 
