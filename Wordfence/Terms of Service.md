@@ -3,14 +3,14 @@ Terms of Service
 
 **Wordfence Terms of Service**
 
-Last updated on May 28, 2024
+Last updated on November 7, 2024
 
 These Terms of Service (“Terms”) are a legal agreement between you and Defiant, Inc., a Delaware corporation (“Company,” “we,” “us,” “our”) that governs your access to and use of www.wordfence.com (the “Site”), and the Wordfence services specified in these Terms or where applicable in Service Specific Terms, including all media, document, updates, and support services associated with the Site and the Wordfence services (all collectively, the “Service”). References to “you” and “your” mean any person or legal entity that accesses or uses, or on whose behalf you are accessing or using, the Service, including those who visit or make a purchase on the Site. Your access to and use of the Service is conditioned on your acceptance of these Terms and our Privacy Policy, and any additional terms that may be provided or presented to you when you use the Service, which are incorporated into these Terms by this reference. By making a purchase through the Service, registering for an account, or otherwise accessing or using the Service, you agree to be bound by these Terms and our Privacy Policy. If you do not agree with these Terms or our Privacy Policy, you should not access or use the Service.
 
 THESE TERMS CONTAIN AN ARBITRATION PROVISION AND CLASS ACTION WAIVER PURSUANT TO WHICH YOU MAY BE WAIVING CERTAIN RIGHTS, INCLUDING THE RIGHT TO FILE SUIT IN COURT, PARTICIPATE IN A CLASS ACTION, OR TO HAVE DISPUTES HEARD BY A JURY, UNLESS YOU OPT OUT. IF YOU DO NOT WISH TO AGREE TO THE ARBITRATION PROVISION, PLEASE FOLLOW THE OPT-OUT PROCEDURES DESCRIBED IN THE AGREEMENT TO ARBITRATE SECTION BELOW, WHICH YOU CAN REVIEW BY [CLICKING HERE](#tou-arbitrate).
 
 **Privacy Policy**  
-Please review our [Privacy Policy](https://www.wordfence.com/privacy-policy/), the Privacy Policy describes how we collect and handle any information gathered from users of the Service. To the extent you are acting as a data controller of personal data subject to the EU or UK General Data Protection Regulation (the “GDPR”), the Standard Contractual Clauses found at [https://www.wordfence.com/standard-contractual-clauses](https://www.wordfence.com/standard-contractual-clauses/) and UK International Data Transfer Addendum found at [https://www.wordfence.com/uk-international-data-transfer-addendum](https://www.wordfence.com/uk-international-data-transfer-addendum/) applies. For more information regarding our EU and UK GDPR compliance practices, please review our Privacy Policy.
+Please review our [Privacy Policy](https://www.wordfence.com/privacy-policy/), the Privacy Policy describes how we collect and handle any information gathered from users of the Service. To the extent you are acting as a “data controller,” “business,” or equivalent term under applicable data protection laws (including the EU and UK General Data Protection Regulation or “GDPR”), the [Defiant Data Processing Addendum](https://www.wordfence.com/data-processing-addendum/) applies. For more information regarding our EU and UK GDPR compliance practices, please review our [Privacy Notice](https://www.wordfence.com/privacy-policy/).
 
 **Service and Software Specific Terms**
 
