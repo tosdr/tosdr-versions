@@ -365,7 +365,7 @@ Media center
 
 * [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
 * [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
-* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
+* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?VersionId=0RTBndY6SvjfrIIfX5iOyg3kNHord6JN&itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
 
 Mobile app
 
