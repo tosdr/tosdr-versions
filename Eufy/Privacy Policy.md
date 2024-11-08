@@ -28,6 +28,9 @@
     * [eufy Robot Vacuum X10 Pro Omni
         
         Hot](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
+    * [eufy Robot Vacuum Omni S1
+        
+        New](https://us.eufy.com/products/t2071111?ref=navimenu_1_1_3_img)
     
     * [](https://us.eufy.com/collections/robot-vacuum-mop?ref=navimenu_1_2_1_copy)
         
