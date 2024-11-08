@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/11/review-skull-and-co-gripcase-feature.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Product Design](https://theinspirationgrid.com/category/product-design/)
+
+[](https://theinspirationgrid.com/editorial/skull-co-rog-ally-x-gripcase-review-a-sleek-budget-friendly-case/)
+
+### Skull & Co ROG Ally X GripCase Review: A Sleek, Budget-Friendly Case
+
 ![](https://inspgr.id/app/uploads/2024/10/editorial-pentips-halloween-cover.jpg)
 
 [Art](https://theinspirationgrid.com/category/art/)[Illustration](https://theinspirationgrid.com/category/illustration/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/these-ebooks-on-gaming-consoles-are-the-perfect-place-to-draw-inspiration-for-your-next-designs/)
 
 ### These eBooks on gaming consoles are the perfect place to draw inspiration for your next designs
-
-![](https://inspgr.id/app/uploads/2024/10/editorial-analogue-3d-feature.jpg)
-
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
-
-[](https://theinspirationgrid.com/editorial/analogues-sleek-recreation-of-the-n64-fully-revealed-launching-early-2025/)
-
-### Analogue’s sleek recreation of the N64 fully revealed, launching early 2025
 
 #want
 -----
