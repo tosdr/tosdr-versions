@@ -123,8 +123,6 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 [Geneastar](https://en.geneastar.org/)
 
-Geneanet celebrates 10 years of the project Save our Graves with nearly 7 million graves photographed worldwide! Dive into the history and success of this project... [More](https://en.geneanet.org/a-cemetery-for-posterity/10ans?utm_source=geneanet&utm_medium=site&utm_campaign=ant_anniversary_10)[](#)
-
 [Geneanet Homepage](https://en.geneanet.org/) > Cookie policy
 
 Cookie policy
