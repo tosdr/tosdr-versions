@@ -934,6 +934,8 @@ Navigation 
         
     * [Male Character](https://www.animedakimakura.com/male-character-c-4/)
         
+* [Brands](https://www.animedakimakura.com/index.php?main_page=manufacturers_all&pg=brands)
+    * [MISAKI1987](https://www.animedakimakura.com/misaki1987-m-1.html?pg=brands)
 * [Ez-Pages](https://www.animedakimakura.com/index.php?main_page=page&id=&pg=ezpages)
     
     * [New Products](https://www.animedakimakura.com/products_new.html)
