@@ -1,6 +1,6 @@
 Event
 
-Happy Hour: Growing your consumer subscription business
+Happy Hour: How to scale, grow and exit successfully
 
 [Join us live](https://www.paddle.com/events/happy-hour-2024?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q4_core_paddle_happy_hour_webinar_series&utm_content=homepage-banner)
 
