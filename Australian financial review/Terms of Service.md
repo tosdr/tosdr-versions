@@ -307,7 +307,7 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Nick Mann, regional CEO of Australia, Asia and New Zealand and rotating group CEO of Swisse’s parent company H&H Group, at Swisse’s office in Collingwood, Melbourne.](https://static.ffx.io/images/$zoom_0.5387%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_656%2C$y_52/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d1e52244f14863a310a64a9abab1bc5f595959ea)](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
+[![Nick Mann, regional CEO of Australia, Asia and New Zealand and rotating group CEO of Swisse’s parent company H&H Group, at Swisse’s office in Collingwood, Melbourne.](https://static.ffx.io/images/$zoom_0.5387%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_660%2C$y_122/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d1e52244f14863a310a64a9abab1bc5f595959ea)](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
 
 ### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
 
@@ -335,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Artist impression of a data centre in Artarmon, Sydney that Goodman will start building next year.](https://static.ffx.io/images/$zoom_0.2119%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f81a734b177259c70aa673f85f09574ef201b684)](https://www.afr.com/property/commercial/the-property-giant-that-will-soon-build-more-data-centres-than-sheds-20241106-p5ko9y)
+[![Nick Molnar and Anthony Eisen. Afterpay celebrated its 10th birthday this week.](https://static.ffx.io/images/$zoom_0.3198%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_362%2C$y_177/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/96f252ef88d6f566d8328495e51c90d6de82ebaf)](https://www.afr.com/companies/financial-services/inside-a-decade-long-rollercoaster-ride-with-afterpay-s-nick-molnar-20241105-p5ko0c)
 
-### [The property giant that will soon build more data centres than sheds](https://www.afr.com/property/commercial/the-property-giant-that-will-soon-build-more-data-centres-than-sheds-20241106-p5ko9y)
+### [Inside a decade-long rollercoaster ride with Afterpay’s Nick Molnar](https://www.afr.com/companies/financial-services/inside-a-decade-long-rollercoaster-ride-with-afterpay-s-nick-molnar-20241105-p5ko0c)
 
-* Larry Schlesinger
+* James Eyers and Jonathan Shapiro
 
-* ### [Billionaire pays $1.6b for Anglo’s stake in Qld mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
+* ### [The property giant that will soon build more data centres than sheds](https://www.afr.com/property/commercial/the-property-giant-that-will-soon-build-more-data-centres-than-sheds-20241106-p5ko9y)
     
-* ### [Rich Lister was told ‘get a hobby’, now his horse is in the Cup](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
+* ### [Billionaire pays $1.6b for Anglo’s stake in Qld mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
     
 
 [The Australian Financial Review](https://www.afr.com/)
