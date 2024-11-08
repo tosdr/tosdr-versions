@@ -585,7 +585,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28848738/pic/houzz_logo.svg?v=28848738)
+![Houzz Logo Print](//www.houzz.com/res/28850223/pic/houzz_logo.svg?v=28850223)
 
 **PRIVACY POLICY**
 ==================
