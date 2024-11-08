@@ -380,8 +380,9 @@ Get daily vote key rewards for voting! Use your keys at `/warp cove`
 * [Vote Site #13](https://piratemc.com/vote13/ "Vote Every 24 hours!")
 * [Vote Site #14](https://piratemc.com/vote14/ "Vote Every 24 hours!")
 * [Vote Site #15](https://piratemc.com/vote15/ "Vote Every 24 hours!")
+* [Vote Site #16](https://piratemc.com/vote16/ "Vote Every 24 hours!")
 
-[Open all 15 voting websites](https://piratemc.com/vote1/)
+[Open all 16 voting websites](https://piratemc.com/vote1/)
 
 [![Join the PirateCraft discord server](https://piratemc.com/wp-content/uploads/2017/05/PirateCraft_Discord.png)](https://discord.piratemc.com/)  
 Join the PirateCraft Discord server! [discord.piratemc.com](https://discord.piratemc.com/)
