@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4616 reviews (4616)
+4617 reviews (4617)
 
 $16.00 $29.00
 
@@ -174,9 +174,9 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
+[![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/files/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572_239x254.png?v=1731003912)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
-![ Watermelon Cucumber  Water Locking Mist](//www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_220x.png?v=1665003385)
+![ Watermelon Cucumber  Water Locking Mist](//www.100percentpure.com/cdn/shop/files/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572_220x.png?v=1731003912)
 
 ### [Watermelon Cucumber Water Locking Mist](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
@@ -214,7 +214,7 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-845 reviews (845)
+846 reviews (846)
 
 $38.00
 
@@ -456,7 +456,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5291 reviews (5291)
+5294 reviews (5294)
 
 $28.00 $28.00
 
