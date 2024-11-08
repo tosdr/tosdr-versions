@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Indictment Against Jackson Mayor, Others Alleges More Than $80,000 in Bribes](https://www.theepochtimes.com/us/indictment-against-jackson-mayor-others-alleges-more-than-80000-in-bribes-5756243)
+* [US to Allow Military Contractors Into Ukraine for First Time Since 2022](https://www.theepochtimes.com/world/us-to-allow-military-contractors-into-ukraine-for-first-time-since-2022-post-5756809)
     
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![Indictment Against Jackson Mayor, Others Alleges More Than $80,000 in Bribes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US to Allow Military Contractors Into Ukraine for First Time Since 2022](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Indictment Against Jackson Mayor, Others Alleges More Than $80,000 in Bribes](https://img.theepochtimes.com/assets/uploads/2022/12/28/GettyImages-1306015402-205x123.jpg.webp)](https://www.theepochtimes.com/us/indictment-against-jackson-mayor-others-alleges-more-than-80000-in-bribes-5756243)
-* [China Unveils $1.4 Trillion Lifeline for Local Governments](https://www.theepochtimes.com/china/china-unveils-1-4-trillion-lifeline-for-local-governments-5756528)
+    ![US to Allow Military Contractors Into Ukraine for First Time Since 2022](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752910-Russia_Ukraine_War_24306326990458-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-to-allow-military-contractors-into-ukraine-for-first-time-since-2022-post-5756809)
+* [Tesla Hits $1 Trillion Market Cap—Musk Becomes $300 Billion Man After Trump Win](https://www.theepochtimes.com/business/tesla-hits-1-trillion-market-cap-musk-becomes-300-billion-man-after-trump-win-5756813)
     
-    NEW By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![China Unveils $1.4 Trillion Lifeline for Local Governments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Tesla Hits $1 Trillion Market Cap—Musk Becomes $300 Billion Man After Trump Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China Unveils $1.4 Trillion Lifeline for Local Governments](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756531-GettyImages-2182917483-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-unveils-1-4-trillion-lifeline-for-local-governments-5756528)
-* [GOP Pick Up More House Seats, Inch Closer to Majority](https://www.theepochtimes.com/us/gop-pick-up-more-house-seats-inch-closer-to-majority-5756272)
+    ![Tesla Hits $1 Trillion Market Cap—Musk Becomes $300 Billion Man After Trump Win](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711406-Tesla_Investigation_24227612434745-205x123.jpg.webp)](https://www.theepochtimes.com/business/tesla-hits-1-trillion-market-cap-musk-becomes-300-billion-man-after-trump-win-5756813)
+* [Republicans Demand Special Counsel Retain All Records Related to Trump Cases](https://www.theepochtimes.com/us/republicans-demand-special-counsel-retain-all-records-related-to-trump-cases-5756749)
     
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![GOP Pick Up More House Seats, Inch Closer to Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republicans Demand Special Counsel Retain All Records Related to Trump Cases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Pick Up More House Seats, Inch Closer to Majority](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720769-09092024-DSC07978-Congress-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-pick-up-more-house-seats-inch-closer-to-majority-5756272)
-* [Why I Love America: A Reader’s Reflections on Why America Is a Beacon of Hope for the World](https://www.theepochtimes.com/bright/why-i-love-america-a-readers-reflections-on-why-america-is-a-beacon-of-hope-for-the-world-5741461)
+    ![Republicans Demand Special Counsel Retain All Records Related to Trump Cases](https://img.theepochtimes.com/assets/uploads/2024/04/28/id5639359-GettyImages-1583882702-LSeditKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-demand-special-counsel-retain-all-records-related-to-trump-cases-5756749)
+* [Putin Open to Talks With Trump on Ending Ukraine War: Kremlin](https://www.theepochtimes.com/world/putin-open-to-talks-with-trump-on-ending-ukraine-war-kremlin-5756698)
     
-    NEW By [Tony Batteford](https://www.theepochtimes.com/author/tony-batteford)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Why I Love America: A Reader’s Reflections on Why America Is a Beacon of Hope for the World](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Putin Open to Talks With Trump on Ending Ukraine War: Kremlin](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Why I Love America: A Reader’s Reflections on Why America Is a Beacon of Hope for the World](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741460-Volume-4-Issue-6-Nov-2024-MASTER-205x123.jpg.webp)](https://www.theepochtimes.com/bright/why-i-love-america-a-readers-reflections-on-why-america-is-a-beacon-of-hope-for-the-world-5741461)
-* [Italy Sends 8 More Migrants to Albania After First Group Failed Vetting](https://www.theepochtimes.com/world/italy-sends-8-more-migrants-to-albania-after-first-group-failed-vetting-5756483)
+    ![Putin Open to Talks With Trump on Ending Ukraine War: Kremlin](https://img.theepochtimes.com/assets/uploads/2018/11/02/Kremlin-says-Putin-Trump-to-hold-substantive-meeting-at-G20-in-Argentina-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-open-to-talks-with-trump-on-ending-ukraine-war-kremlin-5756698)
+* [Xi’s Congratulatory Message to Trump Is More Bluff Than Threat, Says Expert](https://www.theepochtimes.com/china/xis-congratulatory-message-to-trump-is-more-bluff-than-threat-says-expert-5756479)
     
-    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    1hr By [Cindy Li](https://www.theepochtimes.com/author/cindy-li)
     
-    [![Italy Sends 8 More Migrants to Albania After First Group Failed Vetting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Xi’s Congratulatory Message to Trump Is More Bluff Than Threat, Says Expert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Italy Sends 8 More Migrants to Albania After First Group Failed Vetting](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756518-Migration_Albania_Italy_24313251332235-205x123.jpg.webp)](https://www.theepochtimes.com/world/italy-sends-8-more-migrants-to-albania-after-first-group-failed-vetting-5756483)
-* [Pennsylvania Still Working on 100,000 Ballots as Casey Holds Off Conceding Senate Race](https://www.theepochtimes.com/us/pennsylvania-still-working-on-100000-ballots-as-casey-refuses-to-concede-senate-race-5756516)
+    ![Xi’s Congratulatory Message to Trump Is More Bluff Than Threat, Says Expert](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756680-EpochImages-2869004062-xl_3-205x123.jpg.webp)](https://www.theepochtimes.com/china/xis-congratulatory-message-to-trump-is-more-bluff-than-threat-says-expert-5756479)
+* [IRS Reports More Than $5 Trillion in 2024 Tax Revenues](https://www.theepochtimes.com/us/irs-reports-more-than-5-trillion-in-2024-tax-revenues-5756730)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Pennsylvania Still Working on 100,000 Ballots as Casey Holds Off Conceding Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![IRS Reports More Than $5 Trillion in 2024 Tax Revenues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Still Working on 100,000 Ballots as Casey Holds Off Conceding Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756665-mccormick-casey-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-still-working-on-100000-ballots-as-casey-refuses-to-concede-senate-race-5756516)
-* [Opinion: US Has a New Strategy to Counter China’s AI Threat](https://www.theepochtimes.com/opinion/us-has-a-new-strategy-to-counter-chinas-ai-threat-5749651)
+    ![IRS Reports More Than $5 Trillion in 2024 Tax Revenues](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695185-10162023-DSC07619-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-reports-more-than-5-trillion-in-2024-tax-revenues-5756730)
+* [Illegal Immigrants Express Mixed Feelings Over Trump’s Victory and Potential Deportations](https://www.theepochtimes.com/us/illegal-immigrants-express-mixed-feelings-over-trumps-victory-and-potential-deportations-5756583)
     
-    3hr By [Antonio Graceffo](https://www.theepochtimes.com/author/antonio-graceffo)
+    2hr By [Estela Hernandez](https://www.theepochtimes.com/reporter/estela-hernandez)
     
-    [![Opinion: US Has a New Strategy to Counter China’s AI Threat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Illegal Immigrants Express Mixed Feelings Over Trump’s Victory and Potential Deportations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Opinion: US Has a New Strategy to Counter China’s AI Threat](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749680-GettyImages-1172684258-205x123.jpg.webp)](https://www.theepochtimes.com/opinion/us-has-a-new-strategy-to-counter-chinas-ai-threat-5749651)
-* [Kari Lake Gains Ground in Arizona Senate Race, Remains Behind Gallego](https://www.theepochtimes.com/us/kari-lake-gains-ground-in-arizona-senate-race-remains-behind-gallego-5756502)
+    ![Illegal Immigrants Express Mixed Feelings Over Trump’s Victory and Potential Deportations](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712044-Border-Yuma-510A1898KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/illegal-immigrants-express-mixed-feelings-over-trumps-victory-and-potential-deportations-5756583)
+* [1 in 4 Child Deaths During ER Visits Are Preventable](https://www.theepochtimes.com/health/1-in-4-child-deaths-during-er-visits-are-preventable-5754517)
     
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    2hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
-    [![Kari Lake Gains Ground in Arizona Senate Race, Remains Behind Gallego](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![1 in 4 Child Deaths During ER Visits Are Preventable](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Kari Lake Gains Ground in Arizona Senate Race, Remains Behind Gallego](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697561-lake-gallegoKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/kari-lake-gains-ground-in-arizona-senate-race-remains-behind-gallego-5756502)
-* [Extreme Winds Feeding Southern California’s Mountain Fire Die Down as Blaze Continues With Little Containment](https://www.theepochtimes.com/us/winds-feeding-southern-californias-mountain-fire-to-die-down-5756341)
+    ![1 in 4 Child Deaths During ER Visits Are Preventable](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756772-shutterstock_168767123_child_patient_emergency_department_er-205x123.jpg.webp)](https://www.theepochtimes.com/health/1-in-4-child-deaths-during-er-visits-are-preventable-5754517)
+* [Trump Confirms He Has No Choice but to Carry Out Mass Deportations](https://www.theepochtimes.com/us/trump-confirms-he-has-no-choice-but-to-carry-out-mass-deportations-5756736)
     
-    5hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Extreme Winds Feeding Southern California’s Mountain Fire Die Down as Blaze Continues With Little Containment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Confirms He Has No Choice but to Carry Out Mass Deportations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Extreme Winds Feeding Southern California’s Mountain Fire Die Down as Blaze Continues With Little Containment](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755854-Mountain-Fire-205x123.jpg.webp)](https://www.theepochtimes.com/us/winds-feeding-southern-californias-mountain-fire-to-die-down-5756341)
-* [Zelenskyy Says Concessions to Russia Would Be ‘Unacceptable’ and ‘Suicidal’](https://www.theepochtimes.com/world/zelenskyy-says-concessions-to-russia-would-be-unacceptable-and-suicidal-5756484)
+    ![Trump Confirms He Has No Choice but to Carry Out Mass Deportations](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756807-GettyImages-1915156411-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-confirms-he-has-no-choice-but-to-carry-out-mass-deportations-5756736)
+* [FBI Stopped Iranian Plot to Assassinate Trump](https://www.theepochtimes.com/us/fbi-stops-iranian-plot-to-assassinate-trump-5756726)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![Zelenskyy Says Concessions to Russia Would Be ‘Unacceptable’ and ‘Suicidal’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FBI Stopped Iranian Plot to Assassinate Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Zelenskyy Says Concessions to Russia Would Be ‘Unacceptable’ and ‘Suicidal’](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756485-zelenskyy-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-says-concessions-to-russia-would-be-unacceptable-and-suicidal-5756484)
+    ![FBI Stopped Iranian Plot to Assassinate Trump](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756751-GettyImages-2170263973-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-stops-iranian-plot-to-assassinate-trump-5756726)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
