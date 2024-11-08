@@ -523,9 +523,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Gabriele Krone-Schmalz und Albrecht Müller im Gespräch](https://www.nachdenkseiten.de/wp-content/uploads/2023/11/231106-3bMont-Krone-Schmalz-Mueller-Bildschirmfoto-1.jpg "Gabriele Krone-Schmalz und Albrecht Müller im Gespräch")](https://www.nachdenkseiten.de/?p=106258)
+[![Ein umfassendes Gespräch mit der Weltwoche](https://www.nachdenkseiten.de/wp-content/uploads/2023/07/230724-Weltwoche.png "Ein umfassendes Gespräch mit der Weltwoche")](https://www.nachdenkseiten.de/?p=101625)
 
-* [Gabriele Krone-Schmalz und Albrecht Müller im Gespräch](https://www.nachdenkseiten.de/?p=106258)
+* [Ein umfassendes Gespräch mit der Weltwoche](https://www.nachdenkseiten.de/?p=101625)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -540,12 +540,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [General a. D. Harald Kujat: „Selenskyjs Drohung hätte eine harte Reaktion des Westens erfordert“](https://www.nachdenkseiten.de/?p=123938)
-* [Aufrüstung: Arsenal für die Auslöschung](https://www.nachdenkseiten.de/?p=123870)
-* [Transport von RDX-Sprengstoff nach Israel durch deutsches Schiff sorgt international für Empörung](https://www.nachdenkseiten.de/?p=123861)
-* [BSW-Machtkampf: „Auf dem besten Weg, das BSW zu einer Partei zu machen, von der es nicht noch eine braucht“](https://www.nachdenkseiten.de/?p=123920)
-* [Boomer gegen Millennials? Wir haben keinen Generationen-, sondern einen Klassenkonflikt](https://www.nachdenkseiten.de/?p=123889)
-* [Wie bestellt: Das BAföG ist und bleibt in schlechter Verfassung](https://www.nachdenkseiten.de/?p=124016)
+* [Und der Sieger heißt: Olaf!](https://www.nachdenkseiten.de/?p=124447)
+* [Die drei Ebenen des inszenierten Ampelbruchs](https://www.nachdenkseiten.de/?p=124394)
+* [Trump wird wieder Präsident, Lindner wird entlassen … Was folgt daraus? Mehr Geld für Rüstung!](https://www.nachdenkseiten.de/?p=124339)
+* [Lange Gesichter in Kamalas Fankurve](https://www.nachdenkseiten.de/?p=124261)
+* [Was bedeutet der Ausgang der US-Präsidentschaftswahlen für den Nahen und Mittleren Osten und für Westasien?](https://www.nachdenkseiten.de/?p=124346)
+* [Waldai-Treffen in Russland: Der „Globale Süden“ wird immer selbstbewusster](https://www.nachdenkseiten.de/?p=124329)
 
 ### Audioangebot
 
