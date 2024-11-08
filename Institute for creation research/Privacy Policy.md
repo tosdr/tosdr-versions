@@ -95,62 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Features
-
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_0723_soundssummer.jpg)](https://www.icr.org/article/creation-kids-sounds-summer)
-
-[Creation Kids: Sounds of Summer](https://www.icr.org/article/creation-kids-sounds-summer/)
-
-Designed by Susan Windsor\* You’re never too young to be a creation scientist! Kids, discover fun facts about God’s creation with ICR’s...
-
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_fallfloodfossils.jpg)](https://www.icr.org/article/kids-edition-2023-fall-flood-fossils)
-
-[Kids Edition 2023: The Fall, Flood, & Fossils](https://www.icr.org/article/kids-edition-2023-fall-flood-fossils/)
-
-Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/makoshikastatepark_1400x1050.jpg)](https://www.icr.org/article/makoshika-state-park)
-
-[Makoshika State Park: Dinosaur Myths and Wonders](https://www.icr.org/article/makoshika-state-park/)
-
-by Brian Thomas, Ph.D., and Tommy Lohman\* Makoshika State Park, located just southeast of Glendive, Montana, became a state park in 1939....
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/56181428/file.jpg)
-
-Carved in Stone](https://store.icr.org/carved-in-stone.html)
-
-$39.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/19343319/file.jpg)
-
-Carved in Stone](https://store.icr.org/carved-in-stone-geological-evidence-of-the-worldwi.html)
-
-$39.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/36502300/file.jpg)
-
-Henry Explores the New World](https://store.icr.org/henry-explores-the-new-world.html)
-
-$8.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/11930827/file.jpg)
-
-Pack: Big Plans for Henry](https://store.icr.org/pack-big-plans-for-henry.html)
-
-$15.99
-
-$21.98
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183477/file.jpg)
-
-Carved in Stone DVD - Download](https://store.icr.org/carved-in-stone-dvd-download.html)
-
-$10.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
