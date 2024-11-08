@@ -29,10 +29,6 @@
     
     * [RECLAIM](https://anonyome.com/individuals/reclaim/)
     
-    * [MySudo Plans & Pricing](https://anonyome.com/products/mysudo-plans/)
-    
-    * [MySudo Support](https://support.mysudo.com/hc/en-us)
-    
 * For Businesses
     
     Close For Businesses Open For Businesses
@@ -86,24 +82,8 @@
     
 * [About Us](https://anonyome.com/about-us/)
     
-* Mobile
-    
-    Close Mobile Open Mobile
-    
-    [Contact Us](https://anonyome.com/contact/)
-    
-    [Blog](https://anonyome.com/resources/blog/)
-    
-    [Our Podcast](https://privacyfiles.com/)
-    
-    [Our Podcast](https://privacyfiles.com/)
-    
 
 [Contact Us](https://anonyome.com/contact/)
-
-[Blog](https://anonyome.com/resources/blog/)
-
-[Our Podcast](https://privacyfiles.com/)
 
 Privacy Policy
 --------------
