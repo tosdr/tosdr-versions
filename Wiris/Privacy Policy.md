@@ -14,7 +14,7 @@
     The easiest way to write math equations in your Learning Management System
     
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20223%20109'%3E%3C/svg%3E)
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)](https://www.wiris.com/en/mathtype/mathtype-for-lms/)    [MathType for XML Editors  
     The easiest way to write math equations in the leading XML authoring tools
