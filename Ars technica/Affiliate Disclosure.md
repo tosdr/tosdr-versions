@@ -83,15 +83,15 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Trump plans to dismantle Biden AI safeguards after victory](https://cdn.arstechnica.net/wp-content/uploads/2024/11/trump_speech_2024-768x432.jpg)](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/)
+1. [![Listing image for first story in Most Read: After decades, FDA finally moves to pull ineffective decongestant off shelves](https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1661265589-768x432.jpeg)](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
     
-    1. [Trump plans to dismantle Biden AI safeguards after victory](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/)
+    1. [After decades, FDA finally moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
     
-2. 2. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
+2. 2. [Trump plans to dismantle Biden AI safeguards after victory](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/)
     
-3. 3. [Trump’s likely FCC chair wrote Project 2025 chapter on how he’d run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
+3. 3. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
     
-4. 4. [FDA proposes ditching common decongestant for being completely useless](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
+4. 4. [Trump’s likely FCC chair wrote Project 2025 chapter on how he’d run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
     
 5. 5. [Sega is delisting 60 classic games from Steam, so now’s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
     
