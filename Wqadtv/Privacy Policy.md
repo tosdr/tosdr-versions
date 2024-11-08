@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ab763b33-17f3-4e9c-a34d-138388642553/20241108T012012/ab763b33-17f3-4e9c-a34d-138388642553_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ab763b33-17f3-4e9c-a34d-138388642553/20241108T012012/ab763b33-17f3-4e9c-a34d-138388642553_360x203.jpg)](https://www.wqad.com/article/news/crime/police-chase-kewanee-illinois-suspect-attempted-first-degree-murder-arson/526-984e6f85-98ac-4f5f-8ac4-61a3f5074f77)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a85cd0c0-5099-4c22-b247-581c8582dd2e/20241108T040445/a85cd0c0-5099-4c22-b247-581c8582dd2e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a85cd0c0-5099-4c22-b247-581c8582dd2e/20241108T040445/a85cd0c0-5099-4c22-b247-581c8582dd2e_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/volunteers-search-missing-davenport-woman/526-d3d81f93-5d01-4cb2-a563-18a5d7794e1d)
         
-        #### [Police: Kewanee man breaks into neighbor's home and flees police before being arrested](https://www.wqad.com/article/news/crime/police-chase-kewanee-illinois-suspect-attempted-first-degree-murder-arson/526-984e6f85-98ac-4f5f-8ac4-61a3f5074f77)
+        #### [How the Quad Cities Missing Persons Network organizes search parties](https://www.wqad.com/article/news/local/public-safety/volunteers-search-missing-davenport-woman/526-d3d81f93-5d01-4cb2-a563-18a5d7794e1d)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_360x203.jpg)](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8/20241108T041850/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8/20241108T041850/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8_360x203.jpg)](https://www.wqad.com/article/news/local/38th-annual-student-hunger-drive-results-river-bend-food-bank/526-4af9eec3-1369-4ae8-8859-0277dacafebd)
         
-        #### [Carroll County Sheriff's Office releases statement about death of Jackson Kradle](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
+        #### [The results are in for the 38th annual Student Hunger Drive](https://www.wqad.com/article/news/local/38th-annual-student-hunger-drive-results-river-bend-food-bank/526-4af9eec3-1369-4ae8-8859-0277dacafebd)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5934864a-54aa-4a58-b178-c8294aa77d44/20241107T222306/5934864a-54aa-4a58-b178-c8294aa77d44_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5934864a-54aa-4a58-b178-c8294aa77d44/20241107T222306/5934864a-54aa-4a58-b178-c8294aa77d44_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a5e254c1-cc59-4ca6-9ec3-90724c063448/20241108T043043/a5e254c1-cc59-4ca6-9ec3-90724c063448_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a5e254c1-cc59-4ca6-9ec3-90724c063448/20241108T043043/a5e254c1-cc59-4ca6-9ec3-90724c063448_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Bright skies to continue through Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-41°
+38°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
