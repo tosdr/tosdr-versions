@@ -270,7 +270,7 @@ This is a translation into english of the General Terms and Conditions of SkinBa
 ![Anker](https://skinbaron.de/public/ckeditor/plugins/fakeobjects/images/spacer.gif?t=E0LB)**§ 13 User account with the payment service provider**
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. The Provider itself does not manage any customer funds. The processing of all payment transactions, credit top-ups, etc. is handled by our payment service provider Adyen. Adyen is a service of Adyen N.V., Simon Carmiggelstraat 6-50, 1011 DJ Amsterdam, The Netherlands. The general terms and conditions of Adyen apply, available at https://www.adyen.com/de\_DE/legal/terms-and-conditions
+1. The Provider itself does not manage any customer funds. The processing of all payment transactions, credit top-ups, etc. is handled by our payment service provider Adyen. Adyen is a service of Adyen N.V., Simon Carmiggelstraat 6-50, 1011 DJ Amsterdam, The Netherlands. The general terms and conditions of Adyen apply, available at [https://www.adyen.com/de\_DE/legal/terms-and-conditions](https://www.adyen.com/de_DE/legal/terms-and-conditions)
     
 2. Adyen shall set up a so-called "submerchant account" for the User. According to Adyen's terms and conditions, this submerchant account can be charged with credit that is available for short-term transactions or can be used to process payments, provided that the User's account meets the requirements for the so-called "wallet function". This requires the specification of further KYC characteristics required by Adyen.
     
