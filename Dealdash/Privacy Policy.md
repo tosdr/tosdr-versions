@@ -1,7 +1,7 @@
 Privacy policy
 --------------
 
-Updated: April 25th 2023
+Updated: November 6th 2024
 
 **1\. General**
 
@@ -66,8 +66,8 @@ California law requires that we provide you a summary of your privacy rights und
 Subject to certain limits under California Civil Code if you are a California resident, you may ask us to provide you with a list of certain categories of personal information (as defined in the Civil Code) that has been collected, or that we have disclosed to third parties for their direct marketing purposes and the identity of the third parties that received personal information from us for their direct marketing purposes. The Act further requires us to allow you to control who you do not want us to share that information with. For inquiries or requests, please contact us by phone, email, or standard mail to the addresses below.
 
 DealDash  
-11670 Fountains Drive, Suite 200  
-Maple Grove, MN 55369  
+2042 Wooddale Drive Suite 250  
+Woodbury, MN 55125  
 
 Email: [\[email protected\]](https://www.dealdash.com/cdn-cgi/l/email-protection)  
 Toll free phone: (855) 455-3325
