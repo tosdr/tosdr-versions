@@ -237,7 +237,7 @@ Copyright © 2024 The Nielsen Company (US), LLC. All Rights Reserved.
 
 [Impressum](https://www.nielsen.com/legal/legal-information/?lang=de)
 
-          
+            
 
 ![](https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/bg2-1.jpeg)
 
