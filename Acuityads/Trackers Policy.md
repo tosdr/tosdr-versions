@@ -52,9 +52,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [Press](https://illumin.com/news-press/)
-    * ![illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2021/05/Whats-new-with-illumin.jpg)
+    * ![illumin Reports Third Quarter 2024 Financial Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results[Read More](https://illumin.com/news-press/illumin-announces-date-for-q3-2024-financial-and-operating-results/)
+        illumin Reports Third Quarter 2024 Financial Results[Read More](https://illumin.com/news-press/illumin-reports-third-quarter-2024-financial-results/)
         
 * [Request a demo](https://illumin.com/product/request-a-demo/)
 
