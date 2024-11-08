@@ -205,27 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Internet Movie Database and Talk Sex](https://www.somethingawful.com/weekend-web/internet-movie-database/1/)
-* [SparkNotes, Crush Forum, and Runescape](https://www.somethingawful.com/weekend-web/sparknotes-crushtalk-runescape/1/)
-* [Hilary Clinton Forum, Bigger City, and Animorphs Fan Forum](https://www.somethingawful.com/weekend-web/biggercity-hilary-animorphs/1/)
-* [Hip Forums, Drugs.com, and Dragon Ball Z](https://www.somethingawful.com/weekend-web/hippies-drugs-dragonballz/1/)
-* [Tales from the Zoo, Part Three](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo-3/1/)
+* [Design the Worst Band Shirt!](https://www.somethingawful.com/photoshop-phriday/worst-band-shirts/1/)
+* [Phake Games 2](https://www.somethingawful.com/photoshop-phriday/phake-games-2/1/)
+* [Rejected Software](https://www.somethingawful.com/photoshop-phriday/rejected-software/1/)
+* [Show me your genitals!](https://www.somethingawful.com/comedy-goldmine/mspaint-genitals-goons/1/)
+* [College Students You Hate](https://www.somethingawful.com/news/college-students-hate/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [post itt every time you lol that trump got reelected](http://forums.somethingawful.com/showthread.php?threadid=4074799 "post itt every time you lol that trump got reelected")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [post itt every time you lol that trump got reelected](http://forums.somethingawful.com/showthread.php?threadid=4074799 "post itt every time you lol that trump got reelected")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [canada thread - post in this thread every you lol that trump isn't our pres](http://forums.somethingawful.com/showthread.php?threadid=4074779 "canada thread - post in this thread every you lol that trump isn't our pres")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Canada citizenship application discussion](http://forums.somethingawful.com/showthread.php?threadid=4074706 "Canada citizenship application discussion")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [why do people collect sports cards](http://forums.somethingawful.com/showthread.php?threadid=4074809 "why do people collect sports cards")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Post how you break up with people](http://forums.somethingawful.com/showthread.php?threadid=4074710 "Post how you break up with people")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [Whats a small thing that makes you grateful to be alive?](http://forums.somethingawful.com/showthread.php?threadid=4074813 "Whats a small thing that makes you grateful to be alive?")
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Historic Breakdancing News](http://forums.somethingawful.com/showthread.php?threadid=4074712 "Historic Breakdancing News")
 
 ### Random Articles
 
-* [National Institute of Record Archive](https://www.somethingawful.com/awful-links/awful-link-1504/)
-* [DogBeards](https://www.somethingawful.com/photoshop-phriday/dog-beards/1/)
-* [The Breadgunner](https://www.somethingawful.com/photoshop-phriday/breadgunner-tunisia/1/)
-* [Adopt-A-Cube!](https://www.somethingawful.com/news/adoptacube/)
-* [Photoshop Phriday and New Jeff K](https://www.somethingawful.com/news/photoshop-phriday-new/)
+* [What If Superman Adventures](https://www.somethingawful.com/awful-links/awful-link-4417/)
+* [Animal Lovers Interview](https://www.somethingawful.com/awful-links/awful-link-4262/)
+* [Make Halloween Great Again](https://www.somethingawful.com/news/halloween-safe-space/)
+* [How to Spot Dogs: Dogspotting Orthodox Rules Explained](https://www.somethingawful.com/news/dogspotting-orthodox-rules/1/)
+* [Superman is a Tool: The Movie! (Not Awful)](https://www.somethingawful.com/awful-links/superman-tool-movie/)
 
 [Random!](https://www.somethingawful.com/random/)
 
