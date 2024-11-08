@@ -626,15 +626,13 @@ Telefonisch eingeschränkt erreichbar
 
 Liebe\*r GLS Kund\*in,
 
-auch wir müssen uns manchmal intern abstimmen, damit die Zusammenarbeit gut klappt und alles gerecht zugeht.
+auch wir müssen uns manchmal intern abstimmen, damit die Zusammenarbeit gut klappt und alles gerecht zugeht. Darum ist unser Telefonservice Montag früh, 11.11.2024 bis 11 Uhr eingeschränkt erreichbar.
 
-Darum ist unser Telefonservice Montag früh, 11.11.2024 bis 11 Uhr eingeschränkt erreichbar. Ausnahmen sind Fragen zum GLS Onlinebanking. Dafür sind wir selbstverständlich wie gewohnt für Dich da. Für alles andere, sprich uns bitte ab 11 Uhr an!
+Ausnahmen sind Fragen zum GLS Onlinebanking. Dafür sind wir selbstverständlich wie gewohnt für Dich da. Für alles andere, sprich uns bitte ab 11 Uhr an!
 
 **Wusstest Du?**
 
-Dauer- und Zahlungsaufträge, alles rund um unsere Bank- und Kreditkarten und noch vieles mehr kannst Du einfach und bequem selbst erledigen. Probier’s aus!
-
-**www.gls.de/selfservice**
+Dauer- und Zahlungsaufträge, alles rund um unsere Bank- und Kreditkarten und noch vieles mehr kannst Du einfach und bequem selbst erledigen. Probier’s aus! **www.gls.de/selfservice**
 
 **Nicht dringend?**
 
@@ -642,6 +640,4 @@ Falls Deine Frage nicht total brennt, schreib uns gerne eine E-Mail im Postfach 
 
 Vielen Dank für Dein Verständnis!
 
-Herzliche Grüße
-
-Deine GLS Bank
+Herzliche Grüße, Deine GLS Bank
