@@ -14,10 +14,6 @@
 * [Tour](https://www.highpoint.edu/admissions/visits/)
 * [Apply](https://www.highpoint.edu/admissions/apply/)
 
-* [Live Stream Event](#)
-    * [Watch Our Annual Veteran’s Day Celebration Live at High Point University
-        
-        A Patriotic Salute and breakfast for military heroes. President Qubein and then entire HPU family warmly invite local veterans to celebrate their sacrifice and service to our nation.](https://www.highpoint.edu/live-stream/)
 * [Admissions](#)
     * [Undergraduate Admissions](#)
         * [Office of Undergraduate Admissions](https://www.highpoint.edu/admissions/)
