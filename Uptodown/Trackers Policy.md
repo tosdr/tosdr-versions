@@ -96,7 +96,7 @@ Last Edited on 05-21-2018
 
 Uptodown is a multi-platform app store specialized in Android. Our goal is to provide free and open access to a large catalog of apps without restrictions, while providing a legal distribution platform accessible from any browser, and also through its official native app.
 
- [![X icon](https://stc.utdstc.com/img//social/x.svg)](https://twitter.com/uptodown "Uptodown Twitter URL")[![Facebook icon](https://stc.utdstc.com/img//social/facebook.svg)](https://www.facebook.com/Uptodown.International "Uptodown Facebook URL")[![YouTube icon](https://stc.utdstc.com/img//social/youtube.svg)](https://www.youtube.com/uptodown "Uptodown YouTube URL")[![LinkedIn ico](https://stc.utdstc.com/img//social/linkedin.svg)](https://www.linkedin.com/company/uptodown/ "Uptodown LinkedIn URL")[![Instagram icon](https://stc.utdstc.com/img//social/instagram.svg)](https://instagram.com/uptodown "Uptodown Instagram URL")
+ [![X icon](https://stc.utdstc.com/img//social/x.svg)](https://x.com/uptodown "Uptodown Twitter URL")[![Facebook icon](https://stc.utdstc.com/img//social/facebook.svg)](https://www.facebook.com/Uptodown.International "Uptodown Facebook URL")[![YouTube icon](https://stc.utdstc.com/img//social/youtube.svg)](https://www.youtube.com/uptodown "Uptodown YouTube URL")[![LinkedIn ico](https://stc.utdstc.com/img//social/linkedin.svg)](https://www.linkedin.com/company/uptodown/ "Uptodown LinkedIn URL")[![Instagram icon](https://stc.utdstc.com/img//social/instagram.svg)](https://instagram.com/uptodown "Uptodown Instagram URL")
 
 PRODUCTS AND SERVICES
 
