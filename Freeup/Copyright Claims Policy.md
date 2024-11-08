@@ -89,11 +89,11 @@ Upon receipt of the notice containing the required information, freeup.net may:
 
 ### Recent Posts
 
+* [Freelance Social Media Manager Rates: What Should You Be Paying in 2024?](https://freeup.net/blog/business-tips/freelance-social-media-manager-rates-what-should-you-be-paying-in-2024/)
 * [Top 5 Skills to Look for When You Hire a Freelance Research Assistant](https://freeup.net/blog/business-tips/top-5-skills-to-look-for-when-you-hire-a-freelance-research-assistant/)
 * [Holiday Help: 5 Reasons to Hire Freelancers for the Upcoming Season](https://freeup.net/blog/business-tips/holiday-help-5-reasons-to-hire-freelancers-for-the-upcoming-season/)
 * [E-commerce Automation: How to Skyrocket Sales & Reclaim Your Free Time](https://freeup.net/blog/business-tips/e-commerce-automation-how-to-skyrocket-sales-reclaim-your-free-time/)
 * [From Halloween to New Years: How to Plan Your Holiday Email Campaign](https://freeup.net/blog/business-tips/from-halloween-to-new-years-how-to-plan-your-holiday-email-campaign/)
-* [5 Freelance Skills You Need to Hire for Before Black Friday](https://freeup.net/blog/business-tips/5-freelance-skills-you-need-to-hire-for-before-black-friday/)
 
 [![FreeUp Logo](https://freeup.net/wp-content/themes/rare/src/images/imgs/freeup__logo--white.svg)](https://freeup.net/)
 
