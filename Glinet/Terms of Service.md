@@ -49,6 +49,7 @@
     
     [WiFi 6 & 5G NR Network Solution](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/)  
     [Tailored Network Solutions for SMBs](https://www.gl-inet.com/solutions/smb/)  
+    [Featured Use Cases](https://www.gl-inet.com/usecases/#1)
     
     ![Cellular Network](https://static.gl-inet.com/www/images/header/header_solution_cellular.jpg)
     
@@ -57,32 +58,38 @@
     [RV Connectivity Solution](https://www.gl-inet.com/solutions/rv-connectivity/)  
     [5G/4G Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/)  
     [eSIM Solution](https://www.gl-inet.com/solutions/esim/)  
+    [Featured Use Cases](https://www.gl-inet.com/usecases/#2)
     
     ![Remote Acess & Device Management](https://static.gl-inet.com/www/images/header/header_solution_remote-access.jpg)
     
     ###### Remote Acess & Device Management
     
     [Site-to-Site for Work & Business](https://www.gl-inet.com/solutions/site-to-site/)  
+    [Featured Use Cases](https://www.gl-inet.com/usecases/#3)
     
     ![VPN Solution](https://static.gl-inet.com/www/images/header/header_solution_vpn.jpg)
     
     ###### VPN Solution
     
     [VPN on Routers](https://www.gl-inet.com/solutions/vpn/)  
+    [Featured Use Cases](https://www.gl-inet.com/usecases/#4)
     
     ![IoT Solution](https://static.gl-inet.com/www/images/header/header_solution_iot.jpg)
     
     ###### IoT Solution
     
     [Thread Border Router](https://www.gl-inet.com/solutions/thread-border-router/)  
+    [Featured Use Cases](https://www.gl-inet.com/usecases/#5)
     
     ![Partnership](https://static.gl-inet.com/www/images/header/header_solution_partnership.jpg)
     
     ###### Partnership
     
     [White Label and Customization Service](https://www.gl-inet.com/solutions/white-label-service/)  
+    [Become a reseller](https://www.gl-inet.com/form/become-a-reseller/)  
+    [Featured Use Cases](https://www.gl-inet.com/usecases)
     
-    [Become a reseller](https://www.gl-inet.com/form/become-a-reseller/) | [Use Cases](https://www.gl-inet.com/usecases/)
+    [All Use Cases](https://www.gl-inet.com/usecases/)
     
 * [Community](https://www.gl-inet.com/community/)
     
