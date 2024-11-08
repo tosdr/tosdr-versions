@@ -33,7 +33,7 @@ Open Menu Close Menu
 U Group Privacy Policy
 ----------------------
 
-Last updated: March 14, 2024
+Last updated: November 8, 2024
 
 [English](https://www.receiptjar.com/privacy-policy) | [Français](https://www.receiptjar.com/privacy-policy-ca-fr) | [Español](https://www.receiptjar.com/privacy-policy-es-us)
 
@@ -70,7 +70,7 @@ Consistent with the Key Privacy Principles outlined above, the following section
 
 **Scope of this Privacy Policy**
 
-“We,” “us,” “our” and “the U Group” refer to The U Group & Co Limited and its affiliated companies, including The U Group & Co Ltd. “Services” refers to this website as well as the services we make available via our apps – currently OláNota ([www.olanota.com](https://www.olanota.com/)) and ReceiptJar ([www.receiptjar.com](http://www.receiptjar.com/)) (collectively, the “Apps”). 
+“We,” “us,” “our” and “the U Group” refer to The U Group & Co Limited and its affiliated companies, including The U Group & Co Ltd. “Services” refers to this website as well as the services we make available via our app ReceiptJar ([www.receiptjar.com](http://www.receiptjar.com/)) (collectively, the “Apps”). 
 
 When we refer to “this” Privacy Policy, we also mean our app Privacy Policies as applicable.
 
