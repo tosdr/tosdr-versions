@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/10/Kaseya-365-USER-Webinar-Boost-MSP-Profitability-with-Kaseya-365-User-1200x800-1-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2022/12/CITlocal-CITY-1200x800_Chicago-300x200.png)
     
-    Boost MSP Profitability With Kaseya 365 User
+    Kaseya+Datto Connect Local Chicago (For MSPs)
     
-    November 7
+    November 12
     
     [View All Events](https://www.kaseya.com/events/)
     
