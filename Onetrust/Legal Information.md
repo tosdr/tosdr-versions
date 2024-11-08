@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
+* [Bill S-211: Will you be ready by May 31?](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
 * [From request to resolution: Simplifying DSRs with automation](https://www.onetrust.com/resources/from-request-to-resolution-simplifying-dsrs-with-automation-webinar/)
-* [The new data landscape: Navigating the shift to AI-ready data](https://www.onetrust.com/resources/the-new-data-landscape-navigating-the-shift-to-ai-ready-data-webinar/)
-* [AI project intake workflow checklist](https://www.onetrust.com/resources/ai-project-intake-workflow-checklist/)
 
 ### Platform
 
