@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-GHSA Flag Football: Featuring Pope High School, River Ridge and Creekview
--------------------------------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/events/sports/2024/11/07/2024-flag-football-week-six)
-
 Messages
 --------
 
