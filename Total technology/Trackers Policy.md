@@ -115,7 +115,7 @@ Consent\*
 
 CAPTCHA
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
