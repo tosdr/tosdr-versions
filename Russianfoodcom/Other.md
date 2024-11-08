@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,12 +148,8 @@
 
 Сейчас читают
 
-* [Крем-суп из квашеной капусты, картофеля и лука](https://www.russianfood.com/recipes/recipe.php?rid=165012)
-* [Крем-суп из лисичек](https://www.russianfood.com/recipes/recipe.php?rid=165123)
-* [Шарлотка с яблоками и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=164092)
 * [Трубочки из лаваша с творогом и изюмом в сметанно-яичной заливке](https://www.russianfood.com/recipes/recipe.php?rid=166092)
 * [Пирог-улитка из лаваша с творогом и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=165137)
-* [Фаршированная шейка](https://www.russianfood.com/recipes/recipe.php?rid=47381)
 
 |     |
 | --- |
@@ -178,6 +174,62 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Интересно и аппетитно. Лучшие рецепты ЗАКУСОК (39)](https://www.russianfood.com/reading/?post_id=22844) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/717/sm_716868.jpg)](https://www.russianfood.com/reading/?post_id=22844)
+
+Закусочные слойки с сыром и ветчиной. Горячий бутерброд со шпинатом. Крылышки в панировке из хлопьев. Сырные панкейки с маком и лимоном. Фасолевое пюре с чесноком.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22844)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22844#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756) |     |
+
+[![Фото к рецепту: Курник из слоёного теста](//img1.russianfood.com/dycontent/images_upl/750/sm_749540.jpg "Фото к рецепту: Курник из слоёного теста")](https://www.russianfood.com/recipes/recipe.php?rid=174756)
+
+Курник – это не просто пирог, это настоящее произведение кулинарного искусства, которое украсит любой праздничный стол, в том числе новогодний. Три вида начинки – куриная, грибная и рисовая – чередуются с тонкими блинчиками, и всё это запекается в слоёном тесте. Ко встрече года Змеи 2025 можно украсить выпечку змейками из теста, испечёнными вместе с пирогом.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174756)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174756#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Жаркое со сметаной](https://www.russianfood.com/recipes/recipe.php?rid=174040) |     |
+
+[![Фото к рецепту: Жаркое со сметаной](//img1.russianfood.com/dycontent/images_upl/729/sm_728297.jpg "Фото к рецепту: Жаркое со сметаной")](https://www.russianfood.com/recipes/recipe.php?rid=174040)
+
+Картофель, болгарский перец, морковь и лук отлично дополняют мясо. Сметана и небольшой кусочек сливочного масла делают жаркое-рагу из свинины с овощами мягче и нежнее на вкус. Получается необыкновенно вкусное блюдо.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174040)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174040#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Куриное филе, запечённое с помидорами, перцем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174181) |     |
+
+[![Фото к рецепту: Куриное филе, запечённое с помидорами, перцем и сыром](//img1.russianfood.com/dycontent/images_upl/732/sm_731711.jpg "Фото к рецепту: Куриное филе, запечённое с помидорами, перцем и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174181)
+
+Запечённое филе под шубкой из овощей и сыра впишется в любое меню. Нежная текстура обжаренного куриного мяса идеально сочетается с яркими ароматами свежих овощей, сладкий перец добавляет яркие цвета и сладость, а помидоры - сочность. Расплавленный сыр создает аппетитную корочку.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174181)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174181#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Фаршированная куриная шейка, запечённая в фольге](https://www.russianfood.com/recipes/recipe.php?rid=174755) |     |
 
 [![Фото к рецепту: Фаршированная куриная шейка, запечённая в фольге](//img1.russianfood.com/dycontent/images_upl/750/sm_749468.jpg "Фото к рецепту: Фаршированная куриная шейка, запечённая в фольге")](https://www.russianfood.com/recipes/recipe.php?rid=174755)
@@ -188,7 +240,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174755#comments) | 07.11.24 |     |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174755#comments) | 07.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,11 +342,11 @@
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Голубцы по-закарпатски с копченой грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) |     |
+| Рецепты<br><br>[Голубцы по-закарпатски с копчёной грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) |     |
 
-[![Фото к рецепту: Голубцы по-закарпатски с копченой грудинкой и грибами](//img1.russianfood.com/dycontent/images_upl/745/sm_744695.jpg "Фото к рецепту: Голубцы по-закарпатски с копченой грудинкой и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174604)
+[![Фото к рецепту: Голубцы по-закарпатски с копчёной грудинкой и грибами](//img1.russianfood.com/dycontent/images_upl/745/sm_744695.jpg "Фото к рецепту: Голубцы по-закарпатски с копчёной грудинкой и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174604)
 
-Голубцы по-закарпатски с копченой грудинкой и грибами сочетают в себе уникальный аромат и вкус. Капустные листья фаршируются копченой грудинкой и грибами, такая аппетитная начинка придает блюду особую оригинальность и насыщенность. Эти вкусные и сытные голубцы станут настоящим украшением и изюминкой любого стола.
+В капустные листья заворачиваются ломтики грудинки и обжаренные грибы с луком. Ароматная начинка придаёт голубцам особую насыщенность и оригинальность. Эти уникальные голубцы станут настоящим украшением любого стола.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174604)  
 
@@ -329,62 +381,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22837#comments) | 06.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Кулинарная мозаика. Лучшие УЖИНЫ №24-45](https://www.russianfood.com/reading/?post_id=22836) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/710/sm_709994.jpg)](https://www.russianfood.com/reading/?post_id=22836)
-
-Лапша с креветками и грибами. Овощи, запечённые с курицей. Котлеты из фарша с помидорами. Рыба, запечённая с картофелем. Рис с овощами и яйцами. Жареная курица с брокколи и грибами. Чечевица с тушёнкой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22836)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22836#comments) | 06.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра](https://www.russianfood.com/recipes/recipe.php?rid=174597) |     |
-
-[![Фото к рецепту: Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра](//img1.russianfood.com/dycontent/images_upl/750/sm_749348.jpg "Фото к рецепту: Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра")](https://www.russianfood.com/recipes/recipe.php?rid=174597)
-
-Для теста мёд прогревается с растительным маслом и содой, затем соединяется с взбитыми яйцами и мукой. Бисквит получается мягким и прекрасно сочетается с кремом из сливочного сыра и варёной сгущёнки. Рулет украшается "чешуйками" из мяты, глазками из маслины, короной из груши и язычком из красного перца. Получилась довольная жизнью царевна-змейка!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174597)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174597#comments) | 05.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Заливной пирог на кефире, с яйцами, брынзой и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=173514) |     |
-
-[![Фото к рецепту: Заливной пирог на кефире, с яйцами, брынзой и зеленью](//img1.russianfood.com/dycontent/images_upl/738/sm_737012.jpg "Фото к рецепту: Заливной пирог на кефире, с яйцами, брынзой и зеленью")](https://www.russianfood.com/recipes/recipe.php?rid=173514)
-
-Легкий в приготовлении заливной пирог из теста на кефире. Для начинки используются яйца, зелень и брынза. На этот раз яйца для начинки предварительно отваривать не будем - они приготовятся прямо в пироге.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173514)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173514#comments) | 05.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Салат со свёклой, брокколи и болгарским перцем](https://www.russianfood.com/recipes/recipe.php?rid=174342) |     |
-
-[![Фото к рецепту: Салат со свёклой, брокколи и болгарским перцем](//img1.russianfood.com/dycontent/images_upl/749/sm_748254.jpg "Фото к рецепту: Салат со свёклой, брокколи и болгарским перцем")](https://www.russianfood.com/recipes/recipe.php?rid=174342)
-
-Полезный, необычный и яркий салат со свёклой, брокколи и болгарским перцем. Небольшой набор основных ингредиентов салата дополняется необычным медово-соевым соусом с имбирем, чесноком и красным острым перцем.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174342)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174342#comments) | 05.11.24 |     |
 
 |     |
 | --- |
@@ -455,12 +451,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174604) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748464.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749278.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744099.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749468.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174755) |
-| [Голубцы по-закарпатски с копченой грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) | [Тартар из сельди с авокадо](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [Салат с крабовыми палочками в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174752) | [Салат из печёной тыквы и куриного филе](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [Салат "Селёдка под шубой" в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174731) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Фаршированная куриная шейка, запечённая в фольге](https://www.russianfood.com/recipes/recipe.php?rid=174755) |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
-| [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749540.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728297.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731711.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174181) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174604) |
+| [Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [Жаркое со сметаной](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [Куриное филе, запечённое с помидорами, перцем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174181) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [Голубцы по-закарпатски с копчёной грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -477,4 +471,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(113)
+(154)
