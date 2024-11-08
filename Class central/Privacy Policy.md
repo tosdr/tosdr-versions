@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. python
+1. java
     
-2. javascript
+2. c
     
-3. graphic design
+3. computer science
     
 
 Popular subjects
