@@ -305,7 +305,7 @@
 
 [#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Шапша](https://er.ru/activity/news?tags%5B0%5D=23539) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:23
+08.11.24
 
 [![«Единая Россия» передала гуманитарную помощь в больницы и школу в ДНР](https://cdn.er.ru/media/news/November2024/FHRFcmL4nEHOpIVxJEQk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-bolnicy-i-shkolu-v-dnr)
 
@@ -313,7 +313,7 @@
 
 [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 15:53
+08.11.24
 
 [![«Единая Россия» передала гуманитарную помощь для жителей Горняка (ДНР)](https://cdn.er.ru/media/news/November2024/3LSxXlth7Jn0veRVXfUf-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-dlya-zhitelej-gornyaka-dnr)
 
@@ -321,7 +321,7 @@
 
 [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Муратов](https://er.ru/activity/news?tags%5B0%5D=11017)
 
-Сегодня 14:55
+08.11.24
 
 [![Владимир Якушев поддержал проекты «Единой России», реализуемые в Липецкой области](https://cdn.er.ru/media/news/November2024/dWew7782Q2JqxeDPqQ69-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-proekty-edinoj-rossii-realizuemye-v-lipeckoj-oblasti)
 
@@ -329,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Артамонов](https://er.ru/activity/news?tags%5B0%5D=2199) [#Липецкая область](https://er.ru/activity/news?tags%5B0%5D=1090295) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868)
 
-Сегодня 13:20
+08.11.24
 
 [![Госдума одобрила поправки «Единой России» в бюджет на некоммерческий сектор](https://cdn.er.ru/media/news/November2024/9PcHgA3DPseA3PSWGx9g-small.JPG)](https://er.ru/activity/news/gosduma-odobrila-popravki-edinoj-rossii-v-byudzhet-na-nekommercheskij-sektor)
 
@@ -337,7 +337,7 @@
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 12:30
+08.11.24
 
 [![МГЕР и Общество вьетнамо-российской дружбы организуют на территории Русского дома в Ханое совместную международную выставку о волонтёрском движении двух стран](https://cdn.er.ru/media/news/November2024/v7IDQU7TPvCTrJ80p8B5-small.jpg)](https://er.ru/activity/news/mger-i-obshestvo-vetnamo-rossijskoj-druzhby-organizuyut-na-territorii-russkogo-doma-v-hanoe-sovmestnuyu-mezhdunarodnuyu-vystavku-o-volontyorskom-dvizhenii-dvuh-stran)
 
