@@ -24,7 +24,7 @@ Previous
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
 
-New
+Latest
 
 It’s your hearing. Let’s make the most of it.
 ---------------------------------------------
@@ -40,7 +40,7 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test2.dd0b3ca5.jpg)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test1.292815d0.jpg)
 
 [Our clearest  
 sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
@@ -149,7 +149,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* New
+* Latest
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
