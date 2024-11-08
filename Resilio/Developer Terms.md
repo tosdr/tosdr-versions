@@ -88,11 +88,11 @@ Cloud
 
 [![](/images/cloud-backup-restore.svg)
 
-Cloud Sync  
+Hybrid Cloud  
 
 ![](/images/right.svg)
 
-Unify, control & accelerate global file data](https://www.resilio.com/usecases/cloud-sync/)[![](/images/cloud-database-48.png)
+Embrace the best of both worlds](https://www.resilio.com/solutions/hybrid-cloud/)[![](/images/cloud-database-48.png)
 
 Object Storage File Gateway  
 
@@ -229,7 +229,7 @@ Products
 
 Solutions
 
-[Server Sync](https://www.resilio.com/usecases/server-sync/) [Hybrid Work](https://www.resilio.com/usecases/remote-work/) [DFSR Replacement](https://www.resilio.com/usecases/dfsr-replacement/) [VDI Profile Sync](https://www.resilio.com/usecases/vdi-synchronization/) [SharePoint Sync](https://www.resilio.com/usecases/sharepoint-sync/) [Disaster Recovery](https://www.resilio.com/usecases/disaster-recovery/) [Web & App Server Sync](https://www.resilio.com/usecases/web-and-app-server-sync/) [DevOps Build Distribution](https://www.resilio.com/industries/tech-devops/) [Object Storage File Gateway](https://www.resilio.com/usecases/file-gateway-object-storage/) [Software Updates](https://www.resilio.com/usecases/software-updates/) [Cloud Sync](https://www.resilio.com/usecases/cloud-sync/) [Edge Ingest](https://www.resilio.com/usecases/edge-ingest/)
+[Server Sync](https://www.resilio.com/usecases/server-sync/) [Hybrid Work](https://www.resilio.com/usecases/remote-work/) [DFSR Replacement](https://www.resilio.com/usecases/dfsr-replacement/) [VDI Profile Sync](https://www.resilio.com/usecases/vdi-synchronization/) [SharePoint Sync](https://www.resilio.com/usecases/sharepoint-sync/) [Disaster Recovery](https://www.resilio.com/usecases/disaster-recovery/) [Web & App Server Sync](https://www.resilio.com/usecases/web-and-app-server-sync/) [DevOps Build Distribution](https://www.resilio.com/industries/tech-devops/) [Object Storage File Gateway](https://www.resilio.com/usecases/file-gateway-object-storage/) [Software Updates](https://www.resilio.com/usecases/software-updates/) [Hybrid Cloud](https://www.resilio.com/solutions/hybrid-cloud/) [Edge Ingest](https://www.resilio.com/usecases/edge-ingest/)
 
 Industries
 
