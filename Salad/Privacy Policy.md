@@ -128,7 +128,7 @@ About
 
 Resources
 
-[Pricing](https://salad.com/pricing) [Trust Center](https://trust.salad.com/) [Security](https://salad.com/security) [Documentation](https://docs.salad.com/) [Report Abuse](https://salad.com/report-abuse)
+[Pricing](https://salad.com/pricing) [Trust Center](https://trust.salad.com/) [Security](https://salad.com/security) [Documentation](https://docs.salad.com/) [Status](https://cloud-status.salad.com/) [Report Abuse](https://salad.com/report-abuse)
 
 Kitchen
 
@@ -138,4 +138,4 @@ Kitchen
 
 [Privacy Policy](https://salad.com/privacy) [Terms of Service](https://salad.com/terms) [Accessibility](https://salad.com/accessibility)[](https://salad.com/accessibility)
 
-[](https://twitter.com/salad_chefs)[](https://www.linkedin.com/company/salad-technologies)[](https://www.youtube.com/channel/UCFqO8W9-bxGCf-PdSrc7wVg)[](https://discord.gg/salad)[](https://www.reddit.com/r/SaladChefs/)[](https://www.twitch.tv/saladchefs)[](https://github.com/SaladTechnologies)
+[](https://x.com/SaladTech)[](https://www.linkedin.com/company/salad-technologies)[](https://www.youtube.com/channel/UCFqO8W9-bxGCf-PdSrc7wVg)[](https://discord.gg/ZhXyJ4arZY)[](https://github.com/SaladTechnologies)
