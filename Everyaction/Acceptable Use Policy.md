@@ -516,16 +516,6 @@ Impact Powered by:
 * Digital communications & marketing
 * Fundraising ideas
 
-![3 Action for Children representatives at an Action for Children event](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/action-for-children-header-photo_0.png.webp?itok=SjLsSKDT)
-
-**Empowering caregivers, improving children’s lives**
-
-By supporting care providers, Action for Children is improving early childhood outcomes throughout central Ohio.
-
-[Read their story onEmpowering caregivers, improving children’s lives](https://www.everyaction.com/case-studies/empowering-caregivers-improving-childrens-lives)
-
-Impact Powered by:
-
 ![Workers at Habitat for Humanity worksite](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/habitat-for-humanity-of-omaha_background-photo.png.webp?itok=rxhpsdOA)
 
 **Habitat for Humanity of Omaha**
@@ -541,6 +531,16 @@ Impact Powered by:
 * Nonprofits
 * Digital communications & marketing
 * Fundraising ideas
+
+![3 Action for Children representatives at an Action for Children event](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/action-for-children-header-photo_0.png.webp?itok=SjLsSKDT)
+
+**Empowering caregivers, improving children’s lives**
+
+By supporting care providers, Action for Children is improving early childhood outcomes throughout central Ohio.
+
+[Read their story onEmpowering caregivers, improving children’s lives](https://www.everyaction.com/case-studies/empowering-caregivers-improving-childrens-lives)
+
+Impact Powered by:
 
 ![Foundry Ministries beneficiary telling his story.](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/foundry-ministries-header-photo.png.webp?itok=kkLPXPw0)
 
@@ -571,6 +571,18 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![A male and a female employee are standing in an office. The female employee is holding a laptop, and the male employee is holding a tablet. They are both looking at the laptop screen and smiling. ](/sites/default/files/styles/card_image_short/public/2024-11/istock-1724408290.jpeg?h=06ac0d8c&itok=HdrVhT6q)
+    
+    ### [What’s new for Bonterra Strategic Philanthropy 2H 2024?](https://www.everyaction.com/blog/whats-new-bonterra-strategic-philanthropy-2h-2024)
+    
+    * Corporate social responsibility
+    * Employee giving
+    * Employee volunteering
+    * Grant management & grant making
+    * Corporations
+    * Foundations & grantmakers
+    * Corporate Social Responsibility
+    
 * ![Three coworkers gathered around a laptop.](/sites/default/files/styles/card_image_short/public/2024-11/1205668099.jpeg?h=b9066e5c&itok=JX9i58ls)
     
     ### [What’s new for Bonterra Impact Management?](https://www.everyaction.com/blog/whats-new-bonterra-impact-management)
@@ -589,16 +601,6 @@ Social impact insights & information
     * Corporations
     * Life sciences
     * Corporate Social Responsibility
-    
-* ![A nurse takes a patients questions while they wait for their appointment.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1267603624.jpg?h=f2fcf546&itok=V15Zc09n)
-    
-    ### [The case management process: a step-by-step guide to success](https://www.everyaction.com/blog/case-management-process-guide)
-    
-    * Coordinating social services
-    * Public agencies
-    * Case Management
-    * Healthcare
-    * Human services
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
