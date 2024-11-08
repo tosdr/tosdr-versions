@@ -30,9 +30,6 @@ Privacy Policy
     ![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/app/uploads/2021/04/xodkosi-o-estesmar-95x65.jpg)](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)[خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/09/1-95x65.jpg)](https://karkhane.org/5859/abc_of_capitalism/)[الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -40,9 +37,15 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
+* [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
 * [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/09/1-95x65.jpg)](https://karkhane.org/5859/abc_of_capitalism/)[الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/)
 * [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
@@ -52,9 +55,6 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/tabas_1-2-95x65.jpg)](https://karkhane.org/5912/death-of-tabas-miners/)[کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/)
-* [![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](https://karkhane.org/app/uploads/2020/11/bazxani-e-haft-tappe-99-95x65.jpg)](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)[بازخوانی هفت‌تپه‌ی نودونُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال ۹۹](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
@@ -71,12 +71,12 @@ Privacy Policy
 
 ### تازه‌ها
 
+* [نقدی بر فیلم “زنبور کارگر”](https://karkhane.org/6098/a_critic_of_workerbee/) اسفند 25، 1400
 * [حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/) اسفند 25، 1400
 * [در مورد “اعتصابات” کارمندان رسمی شرکت ملی نفت ایران](https://karkhane.org/5952/nioc_white_collars/) اسفند 25، 1400
 * [گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/) اسفند 25، 1400
 * [کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/) اسفند 25، 1400
 * [تجربه‌ی فرش‌بافی در خانه](https://karkhane.org/5899/farshbafi_dar_xane/) اسفند 25، 1400
-* [الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/) اسفند 25، 1400
 
 ### برچسب‌ها
 
@@ -93,7 +93,7 @@ Privacy Policy
 * [قوانین کارگری](https://karkhane.org/category/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c/) 1
 * [گزارش](https://karkhane.org/category/%da%af%d8%b2%d8%a7%d8%b1%d8%b4/) 78
 * [گوناگون](https://karkhane.org/category/%da%af%d9%88%d9%86%d8%a7%da%af%d9%88%d9%86/) 2
-* [مقاله‌‌](https://karkhane.org/category/%d9%85%d9%82%d8%a7%d9%84%d9%87/) 139
+* [مقاله‌‌](https://karkhane.org/category/%d9%85%d9%82%d8%a7%d9%84%d9%87/) 140
 * [نوشته‌های رسیده](https://karkhane.org/category/%d9%86%d9%88%d8%b4%d8%aa%d9%87%e2%80%8c%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%db%8c%d8%af%d9%87/) 10
 * [هنر و ادبیات](https://karkhane.org/category/%d9%87%d9%86%d8%b1-%d9%88-%d8%a7%d8%af%d8%a8%db%8c%d8%a7%d8%aa/) 54
 
