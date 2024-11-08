@@ -114,26 +114,31 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111732-unburdened-2024-11-06)
+     [](https://patriotpost.us/memes/111820-not-concerned-2024-11-08)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34487)
+     [](https://patriotpost.us/cartoons/34489)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Larry Elder Election 2024: The Revenge of the ‘Fascist’](https://patriotpost.us/opinion/111778-election-2024-the-revenge-of-the-fascist-2024-11-07)
-*      [Laura Hollis Postmortem 2024](https://patriotpost.us/opinion/111779-postmortem-2024-2024-11-07)
-*      [Christine Flowers Trump’s Victory, Seen Through the Lens of Cable News](https://patriotpost.us/opinion/111774-trumps-victory-seen-through-the-lens-of-cable-news-2024-11-07)
-*      [Gary Bauer A Historic Victory](https://patriotpost.us/opinion/111776-a-historic-victory-2024-11-07)
-*      [Ann Coulter Black Girl Magic Beaten by White Male Competence](https://patriotpost.us/opinion/111775-black-girl-magic-beaten-by-white-male-competence-2024-11-07)
-*      [Armstrong Williams A Spiritual Depression](https://patriotpost.us/opinion/111777-a-spiritual-depression-2024-11-07)
-*      [The Washington Stand Election 2024: A Fighting Chance for Populism and the Unborn](https://patriotpost.us/opinion/111773-election-2024-a-fighting-chance-for-populism-and-the-unborn-2024-11-07)
-*      [The Babylon Bee ‘Don’t Despair,’ Kamala Tells Celebrating Nation](https://patriotpost.us/opinion/111772-dont-despair-kamala-tells-celebrating-nation-2024-11-07)
+*      [Ben Shapiro Why Trump Won](https://patriotpost.us/opinion/111809-why-trump-won-2024-11-08)
+*      [Erick Erickson The Aftermath](https://patriotpost.us/opinion/111808-the-aftermath-2024-11-08)
+*      [Michael Barone What You Didn’t Hear About on Election Night: The Other 43 States](https://patriotpost.us/opinion/111807-what-you-didnt-hear-about-on-election-night-the-other-43-states-2024-11-08)
+*      [David Harsanyi Good News: Americans Are No Longer Listening to Mass Media](https://patriotpost.us/opinion/111806-good-news-americans-are-no-longer-listening-to-mass-media-2024-11-08)
+*      [Gary Bauer Kamala’s Concession, Sort Of](https://patriotpost.us/opinion/111804-kamalas-concession-sort-of-2024-11-08)
+*      [Armstrong Williams An Open Letter to the Left’s Unremarkable, Bitter, Woke, Visionless, Out-of-Touch Leadership](https://patriotpost.us/opinion/111802-an-open-letter-to-the-lefts-unremarkable-bitter-woke-visionless-out-of-touch-leadership-2024-11-08)
+*      [Josh Hammer The Death of Obamaism, and the Historic MAGA Opportunity](https://patriotpost.us/opinion/111801-the-death-of-obamaism-and-the-historic-maga-opportunity-2024-11-08)
+*      [Victor Davis Hanson Harris Was Always Doomed](https://patriotpost.us/opinion/111800-harris-was-always-doomed-2024-11-08)
+*      [Tim Graham Elon Musk, the Leftist Media’s New Supervillain](https://patriotpost.us/opinion/111799-elon-musk-the-leftist-medias-new-supervillain-2024-11-08)
+*      [Michael Reagan Trump Has Made the GOP Great Again](https://patriotpost.us/opinion/111798-trump-has-made-the-gop-great-again-2024-11-08)
+*      [The Washington Stand Morning in America Again: 7 Reflections From Trump’s Election](https://patriotpost.us/opinion/111797-morning-in-america-again-7-reflections-from-trumps-election-2024-11-08)
+*      [Mark Alexander Profiles of Valor: With Gratitude for the Patriot Veterans Among Us](https://patriotpost.us/alexander/111814-profiles-of-valor-with-gratitude-for-the-patriot-veterans-among-us-2024-11-08)
+*      [The Babylon Bee 4D Chess: Democrats Admit Trump Actually Won in 2020 and Is Now Unable to Serve Third Term](https://patriotpost.us/opinion/111796-4d-chess-democrats-admit-trump-actually-won-in-2020-and-is-now-unable-to-serve-third-term-2024-11-08)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -155,7 +160,7 @@ Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“Honor, justice, and humanity, forbid us tamely to surrender that freedom which we received from our gallant ancestors, and which our innocent posterity have a right to receive from us. We cannot endure the infamy and guilt of resigning succeeding generations to that wretchedness which inevitably awaits them if we basely entail hereditary bondage on them.” —Thomas Jefferson (1775)
+“Let me now take a more comprehensive view, and warn you in the most solemn manner against the baneful effects of the Spirit of Party generally. … A fire not to be quenched, it demands a uniform vigilance to prevent its bursting into a flame, lest, instead of warming, it should consume.” —George Washington (1796)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
