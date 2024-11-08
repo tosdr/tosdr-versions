@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup using 7-Zip](https://www.backup4all.com/how-to-restore-a-backup-using-7-zip-kb.html)  
+* [How to backup your data to HGST](https://www.backup4all.com/how-to-backup-your-data-to-hgst-kb.html)  
     
-* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
+* [How to back up data files from QNAP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-qnap-using-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
+* [Using Backup4all - FAQ](https://www.backup4all.com/using-backup4all-faq-1-kb.html)  
     
-* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
+* [How to shutdown computer after backup](https://www.backup4all.com/how-to-shutdown-computer-after-backup-kb.html)  
     
-* [How to schedule an existing backup job](https://www.backup4all.com/how-to-schedule-an-existing-backup-job-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
 
 Choose language:
