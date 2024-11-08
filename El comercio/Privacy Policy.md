@@ -31,6 +31,605 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La elección en EE.UU. dejó lecciones a políticos y celebridades
+===============================================================
+
+Las elecciones de 2024 revelaron los límites del apoyo de celebridades y la influencia de las redes sociales en la política estadounidense.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Beyoncé fue una de las famosas en apoyar la campaña de Kamala Harriis.](https://www.elcomercio.com/wp-content/uploads/2024/11/BEYONCE-KAMALA.jpg)
+
+Las **elecciones presidenciales de Estados Unidos del 5 de noviembre de 2024** han dejado lecciones importantes sobre el papel de las redes sociales y la influencia de las celebridades en la política moderna. El triunfo de **Donald Trump sobre Kamala Harris** ha puesto de manifiesto que la fama y el respaldo de estrellas de cine y música **no garantizan el éxito electoral**, y que las narrativas mediáticas tradicionales pueden ser desafiadas eficazmente a través de plataformas alternativas.
+
+> A pesar del apoyo de figuras como **Taylor Swift, Beyoncé, Lady Gaga y Bad Bunny** a la campaña de **Kamala Harris**, este respaldo no se tradujo en una victoria electoral. Este fenómeno subraya una realidad cada vez más evidente: **la fama no es fácilmente transferible al ámbito político.**
+
+Los seguidores de estas celebridades no necesariamente adoptan sus posturas políticas, lo que revela una brecha entre la admiración por un artista y la alineación con sus opiniones políticas. La campaña de Harris intentó capitalizar la popularidad de estas estrellas para atraer a votantes jóvenes y diversos. Sin embargo, este enfoque demostró ser insuficiente para abordar las preocupaciones más profundas del electorado. Como han dicho diversos analistas políticos: La fama de los famosos puede atraer atención, no obstante, no se puede sustituir una conexión genuina con los problemas que preocupan a los votantes.
+
+Las redes sociales jugaron un papel crucial en estas elecciones, pero no de la manera que muchos esperaban. Mientras que plataformas como Instagram y TikTok fueron utilizadas para difundir mensajes de apoyo a Harris por parte de celebridades, otras redes como X (anteriormente Twitter) se convirtieron en campos de batalla para narrativas alternativas.
+
+**Elon Musk, propietario de X**, utilizó su plataforma para desafiar abiertamente la narrativa mediática tradicional. Sus publicaciones y las de otros influencers conservadores alcanzaron millones de visualizaciones, ofreciendo una perspectiva diferente a la presentada por los medios convencionales. Un post de Musk que declaraba “el derrocamiento de los medios” alcanzó 6,5 millones de vistas, ilustrando el poder de estas plataformas para moldear la opinión pública.
+
+La victoria de Trump demuestra la efectividad de una estrategia de comunicación que se alejó de lo “políticamente correcto” y se centró en mensajes directos y controvertidos. Esta aproximación resonó con un segmento significativo del electorado que se sentía desconectado de las narrativas progresistas dominantes en los medios tradicionales, al punto que el republicano ganó en segmentos como el de los hombres latinos; voto que anteriormente se le había resistido por el discurso de odio. Trump logró romper a los grupos que antes le eran adversos; esto incluye jóvenes que regularmente están apegados a ideales más progresistas.
+
+Las elecciones de 2024 marcan un punto de inflexión en la comprensión de cómo funciona la comunicación política en la era digital. El triunfo de Trump, respaldado por figuras como **Elon Musk y Joe Rogan**, demuestra que las narrativas alternativas pueden tener un impacto significativo cuando se difunden a través de plataformas digitales influyentes. Para futuros ciclos electorales, será crucial que los candidatos y sus equipos desarrollen estrategias que vayan más allá del simple respaldo de celebridades y se centren en establecer conexiones auténticas con los votantes a través de múltiples canales de comunicación.
+
+La crisis de electricidad: Entre especulación y rápidas ganancias
+=================================================================
+
+La especulación y el acaparamiento pueden minar la confianza de los consumidores en el mercado.
+-----------------------------------------------------------------------------------------------
+
+![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
+
+La **crisis** de **electricidad** que vive el país puede generar una serie de **desafíos** interrelacionados en múltiples aspectos. Sus **consecuencias** afectan a la **población** con connotaciones para el corto y el largo plazo. Las **vías** para superarla merecen decisiones **cruciales**, que marcarán **impactos** muy importantes.
+
+La **escasez de electricidad** es el factor desencadenante del **incremento** en los **costos de producción** que afecta a las **empresas**, especialmente a las que dependen de un **suministro** constante de **energía**. Como sucede corrientemente en una **economía** en la que la **producción** de **bienes y servicios** reside en el sector privado, el **aumento de costos** para las empresas se traslada a los **consumidores**, generando un **impacto inflacionario** en la demanda de la población. Este problema está presente en la **actualidad** en las diferentes **transacciones**, con la elevación de los precios, inclusive en proporciones **mayores** al **aumento** de los **costos**.
+
+La **elevación de los precios**, que ha encarecido el **costo de la vida,** se debe también a la tendencia inveterada de especular con las **necesidades** de la **población** e imponer una escalada incontrolable de los mismos. Durante una **crisis**, los **especuladores** pueden comprar grandes cantidades de **productos** esenciales con la expectativa de venderlos a **precios** mucho más altos, o elevarlos inmediatamente, a costa de la **necesidad** de disponer de **energía** para las **actividades económicas** y la **vida cotidiana**. Esta situación se vive actualmente considerando la **demanda creciente** de **generadores** y **artefactos** para acumular **energía**, cuyos precios son **impuestos** a conveniencia.
+
+La **especulación** y el **acaparamiento** pueden agravar las **desigualdades sociales** al generar una sensación de escasez, incluso si la **producción** no ha disminuido. La **percepción** de **escasez** puede provocar un pánico que exacerba la situación.
+
+El **acaparamiento** puede, también, llevar a una **ineficiencia** en la asignación de **recursos**. En lugar de que los **bienes** fluyan hacia donde son más **necesitados**, pueden concentrarse en manos de aquellos que están dispuestos a pagar más, dejando a otros sin la **posibilidad** de acceso.
+
+La **especulación** y el **acaparamiento** pueden minar la **confianza** de los **consumidores** en el mercado: cuando la gente siente que los **precios** están manipulados, puede cambiar sus **hábitos** de **compra** y afectar negativamente la **economía**. Asimismo, la **incertidumbre** en el **suministro eléctrico** puede desalentar las **inversiones**, limitando, consecuentemente, el **crecimiento económico**.
+
+A mediano y largo plazo, la **especulación** puede desincentivar la **producción** de **bienes esenciales**, afectando la **oferta futura,** si los **productores** no ven un beneficio real en la **inversión**. La **volatilidad** en los **precios** puede llevar a una **inestabilidad económica** más amplia, dificultando la **planificación** de **inversiones** en otras áreas de la **economía**.
+
+Tanto la **especulación** como el **acaparamiento** pueden exacerbar los **efectos negativos** de las **crisis de electricidad,** generando **ineficiencias** en el **mercado** y afectando el bienestar social. Más aún, ante la falta de **oportunidades** y **servicios**, existen las condiciones para el **aumento de la migración** de ecuatorianos que no encuentran **oportunidades** de una vida digna en el país.
+
+Estas consecuencias resaltan la **necesidad** de una **respuesta integral** que no solo aborde la crisis inmediata, sino que también busque soluciones sostenibles para el **futuro energético del país**.
+
+La **regulación** y la **intervención gubernamental** son necesarias para mitigar estos **efectos**, replanteando las **políticas energéticas**, buscando diversificación y sostenibilidad a largo plazo. Lo contrario puede erosionar la confianza pública, provocar descontento y afectar la **estabilidad política.**
+
+Cartas a Quito / 8 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este viernes 8 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+¿Por qué votar, si todos son los mismos? Nada cambia
+----------------------------------------------------
+
+Es que tenemos que hacer consciencia de que si no salimos a votar lo harán los que son convencidos de la línea política del correismo. Ellos son adoctrinados por interés y hasta agrupaciones políticas que obligan a que acuden a votar. Mientras la mayoría desconfiada y apática como no ven cambios en la situación del país y muchos decepcionados optan por no salir. Que todos son y van por lo mismo. Pero, en este caso, se tiene que hacerlo porque, los correistas, aunque sea con un porcentaje minino, ganan. Y como ahora están divididos en diferentes agrupaciones, como representantes a la Asamblea o candidato a Presidente les interesa que votemos ya sea por uno o por otro; no les importa porque son de la misma ideología en diferentes agrupaciones. Y a la final se unen para hacer mayoría parlamentaria. En esta ocasión, se vota por Presidente y toda la lista para asambleístas, ya no se puede escoger
+
+Así que joven preparado, enséñales a tus abuelitos y a tus padres, la obligación cívica de defender la democracia y que deben salir a ejercer su derecho y con su voto expresar sus anhelos de un verdadero cambio en el país.
+
+No permitir que nos sigan engañando, como cuando los españoles llegaron a América y engañaron a nuestros indígenas con baratijas para despojarlos luego de sus tierras. Confiamos que será una demostración cívica, democrática, que no dará motivo para que puedan hacer ninguna triquiñuela y por contundente votación, en primera vuelta misma, tengamos al presidente y los representantes para la Asamblea, que van a cumplir con las expectativas de mejorar la situación de todos los ecuatorianos.
+
+Debes salir a votar convencido que con tu voto vas a hacer que el país cambie. Que con tu voto vas a apoyar a la gran mayoría que siente que este joven, inteligente, preparado, puede darnos la esperanza de hacer que los recursos con que cuenta el país puedan ser manejados en beneficio de hacer las grandes obras, sin sobreprecio, y lograr parar el avance del narcotráfico, de las extorsiones, del lavado de dinero y hacernos sentir seguros y protegidos y que tanto el industrial como el pequeño productor pueda ganarse el sustento diario sin ser extorsionado y nuestros hijos puedan tener la oportunidad de estudiar en un ambiente de tranquilidad y ser alguien en la vida y que todo cuanta obra se haga, sea con la honorabilidad y honradez propia de su forma de ser.
+
+Vamos todos a salir a votar para que nunca más el Ecuador sea engañado y que de aquí en adelante se ponga claro en la constitución los requisitos que debe tener el candidato a Presidente de la República, el representante a la Asamblea Nacional, Alcaldes, Prefectos, los partidos políticos, los diferentes organismos de control, los jueces y órganos judiciales.
+
+No esperemos a última hora acudir a votar, sino desde temprano así tengamos que hacer cola de espera; pero hagamos de este momento cívico, el más recordado de la historia, porque nos jugamos nuestro futuro en libertad o sometidos a un régimen tipo socialista. Vamos a salir a votar los jóvenes, mujeres, los jubilados, aunque no es obligación, pero por civismo lo vamos a hacer. Como demostración a la juventud que a la Patria se la defiende hasta el último.
+
+Lionel Efraín Romero Reyes
+
+La maduración de nuevas tecnologías
+===================================
+
+La integración de IA en tecnología aumenta la eficiencia, pero también la demanda energética, lo que impulsa la necesidad de redes sostenibles y energía limpia.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+La **aceleración exponencial** que está experimentando el mundo con los **cambios tecnológicos** es impresionante y avasallante. No vamos a pensar cuántos miles de años demoró desde el **manejo de fuego** hasta el cultivo que cambió al hombre de cazador a agricultor, el cambio a la **edad de bronce** y de **hierro**. Pero así existen muchos hitos en la **historia de la humanidad.**
+
+Remontando a inicio del **siglo XX** con la electricidad también vino la radio fusión y la radio, su madurez de 30 años, la **invención de la televisión** en los años 20 también tomó 30 años para su **adopción** masiva luego el **Internet** nace en los años 70 demora 24 años en el proceso de **adopción ocular**, el correo electrónico inventado en 1971 toma madurez en 1997 cuando las **empresas de telecomunicaciones** lo hacen disponible al público en general (26 años); luego aparece la **comunicación móvil** muy madurez de 27 años para transformarse en el **smartphone** que se generaliza Suso en el 2010 con 16 años de **maduración** y complementado por el USB en el 2005 en un **proceso de nueve años**. Lo mismo podemos hablar de la transición de foco incandescente a la **tecnología** LED y muchos otros.
+
+Un proceso similar ha venido ocurriendo con los **equipos** y la **capacidad de computación** estos equipos han ido disminuyendo en tamaño y su **capacidad de procesamiento** aumentando exponencialmente cumpliendo con la ley de Moore fundador de Intel, dónde se duplicaban cada 18 meses enunciada en 1965, con su costo manteniéndose más o menos constante. La **computación** originalmente era utilizada por los **gobiernos** y las grandes **corporaciones**, luego pasó a masificarse con el uso en las **empresas** y la academia, para posteriormente masificarse con el uso del **computador personal** y por el otro lado la **competencia** en la creación de **supercomputadoras** cuyo costo era sufragado por los distintos **gobiernos** de los países más avanzados.
+
+Esto ha cambiado, con los **investigadores** de las **empresas tecnológicas** que están desarrollando la **computación cuántica**, la biocomputación, etc. en el desafío de lo que el **petróleo y la refinación** significaron para el siglo XX, actualmente la **recolección** de **data** y su procesamiento constituyen la creación de valor agregado para el siglo XXI.
+
+En este nuevo espacio aparece la ciber **tecnología** acompañada de la **ciberseguridad** para defender a las instituciones de los ataques del cibercrimen. Se crea en el 2008 la cadena de bloques (Blockchain) así como la **IA generativa** que han tenido miles de millones de dólares de aporte a **empresas** nacientes para el **desarrollo** de estas **tecnologías**.
+
+Las aplicaciones de **IA generativa** están madurando y los chaibois qué haces un año tenían las **habilidades** de un graduado de secundaria habrá puesto en **inteligencia** más cercana para un graduado de universidad con lo cual la IA está produciendo **aplicaciones útiles** en empresas de **servicios públicos** como telecomunicaciones y **energía**.
+
+Los **operadores tradicionales de tecnología** están incorporando funciones de IA en **productos de software y hardware** existentes para casos de uso generalizado que apunta a eficiencia y productividad de modo acelerado. Muchos proveedores de servicio de **comercio electrónico** han podido implementar un “servicio al cliente” con tecnología IA para reducir la **cantidad de empleados** en atención al cliente, reduciendo sus **costos operativos.**
+
+La **problemática** de todo este proceso es que viene acompañado una gran demanda de **energía** que principalmente debe ser suplida con **energías limpias y renovables**. Esto está generando una crisis y necesidad de **modernización** de todo lo que son **redes** y **distribución**. Hoy el mundo y su transformación hacia **equipos electrónicos**, hacia **automóviles eléctricos** y múltiples otros usos de la **electricidad** han dicho que esta **demanda** se acelere, pero que cumpla con los **requisitos de la sostenibilidad**, **sustentabilidad** y defensa del **medioambiente**.
+
+A esto nace una nueva familia de **procesadores** que son las **computadoras** en Exa-escala capaces de realizar un quintillón, es decir, 1000 millones de cálculos por segundo creado por Google, que le hace muy superior a todo lo creado anteriormente (tema de una nueva entrega) pero qué pondrán aún más presión sobre la disponibilidad energética.
+
+Daniel Noboa envió proyecto de ley sobre lavado de activos
+==========================================================
+
+Daniel Noboa exhorta a la Asamblea al tratamiento urgente del proyecto de ley sobre lavado de activos.
+------------------------------------------------------------------------------------------------------
+
+![El proyecto de ley sobre lavado de activos de Daniel Noboa busca combatir el crimen organizado, señala la Presidencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-lavado-activos.jpg)
+
+El presidente **Daniel Noboa** envió a la Asamblea un **proyecto de ley sobre lavado de activos**, la noche de este jueves 7 de noviembre de 2024.
+
+El Gobierno señaló que esta iniciativa busca “desarticular las estructuras del **crimen organizado”**.
+
+### Más noticias:
+
+* [Supuesto capo de la mafia albanesa en Ecuador irá a juicio acusado de lavado de activos](https://www.elcomercio.com/actualidad/ecuador/supuesto-capo-mafia-albanesa-ecuador-juicio-acusado-lavado-activos.html "Supuesto capo de la mafia albanesa en Ecuador irá a juicio acusado de lavado de activos")
+* [Daniel Noboa envía proyecto de ley para crear una nueva universidad ¿Dónde estaría ubicada?](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-proyecto-ley-nueva-universidad.html "Daniel Noboa envía proyecto de ley para crear una nueva universidad ¿Dónde estaría ubicada?")
+
+Proyecto de ley sobre lavado de activos de Daniel Noboa
+-------------------------------------------------------
+
+La noche de este jueves 7 de noviembre, el presidente Daniel Noboa presentó otro proyecto de ley a la **Asamblea Nacional.**
+
+Se trata del “Proyecto de **Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos”.**
+
+“El propósito de esta norma es golpear a las estructuras económicas del **crimen organizado,** que han ocultado recursos durante años”, señaló la Presidencia en un boletín.
+
+En el comunicado, el Ejecutivo señaló que este instrumento plantea acciones concretas para prevenir, localizar y eliminar el delito de lavado de activos y la introducción de **capital ilícito** en la economía nacional.
+
+La iniciativa plantea “regulaciones de control y reformas institucionales”, como el fortalecimiento de la **Unidad de Análisis Financiero UAFE**.
+
+“El Gobierno Nacional exhorta a la Asamblea Nacional a dar **tratamiento urgente** a esta iniciativa que permitirá desarticular el protocolo de lavado de activos en el Ecuador”, se concluye en el boletín de prensa.
+
+Consulta popular y referéndum de Daniel Noboa y el de lavado de activos
+-----------------------------------------------------------------------
+
+El lavado de activos es el proceso a través del cual los bienes de **origen delictivo** se integran al sistema económico financiero legal, aparentando haber sido obtenidos de forma lícita.
+
+El lavado de activos es uno de los delitos cometidos por las **estructuras criminales** para “blanquear” el dinero obtenido de actividades ilícitas.
+
+El dinero se “lava” para encubrir actividades criminales o ilegales asociadas al **narcotráfico, secuestro, tráfico de armas.**
+
+También, delitos como **sicariato, contrabando, trata de personas para esclavitud laboral, redes de prostitución o pornografía infantil, y actividades que financian el terrorismo.**
+
+En la consulta popular y referendo 2024, el presidente Daniel Noboa consultó a los ecuatorianos si querían que se **eleve las penas** en varios delitos.
+
+Uno de esos delitos fue el de **lavado de activos**.
+
+La **Asamblea** tramitó y aprobó el texto, en cumplimiento del mandato popular.
+
+La consulta también propuso que los **bienes de origen ilícito** pasen a nombre del Estado.
+
+Correísmo pierde impulso y acumula tres derrotas en la Asamblea Nacional
+========================================================================
+
+Oficialismo bloquea tres juicios políticos del correísmo en la Asamblea, debilitando su respaldo.
+-------------------------------------------------------------------------------------------------
+
+![Paola Cabezas y Leonardo Berrezueta en el juicio político contra Mónica Palencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-15-1.jpg)
+
+El **juicio político** contra la ministra del Interior, **Mónica Palencia**, concluyó el 23 de octubre de 2024 con un saldo a favor del gobierno del presidente **Daniel Noboa**. Con esta victoria, el oficialismo acumula **tres derrotas para la Revolución Ciudadana (RC)**, luego de que los juicios políticos contra la canciller **Gabriela Sommerfeld** y la **fiscal Diana Salazar** también fracasaran en la Asamblea.
+
+### Más noticias
+
+* [Asamblea Nacional sesionó en Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-sesiono-santo-domingo-de-los-tsachilas.html "Asamblea Nacional sesionó en Santo Domingo de los Tsáchilas")
+* [Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea](https://www.elcomercio.com/actualidad/seguridad/joselito-arguello-aspirante-asambleista-victima-ataque-armado-salinas.html "Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea")
+* [Asamblea define la comisión para tratar sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/asamblea-definio-comision-propuesta-bases-militares-extranjeras.html "Asamblea define la comisión para tratar sobre  bases militares extranjeras")
+
+Este resultado destaca la dificultad de la **Revolución Ciudadana** para asegurar apoyos, ya que son acusados de actuar motivados por intereses partidistas.
+
+> Diana [#Salazar](https://twitter.com/hashtag/Salazar?src=hash&ref_src=twsrc%5Etfw) se refirió al caso [#Sobornos](https://twitter.com/hashtag/Sobornos?src=hash&ref_src=twsrc%5Etfw), que involucra a Rafael [#Correa](https://twitter.com/hashtag/Correa?src=hash&ref_src=twsrc%5Etfw) y otros exfuncionarios de su gobierno 👇[https://t.co/KViW0bwQ2x](https://t.co/KViW0bwQ2x) [pic.twitter.com/PUOEx2slR3](https://t.co/PUOEx2slR3)
+> 
+> — El Comercio (@elcomerciocom) [June 5, 2024](https://twitter.com/elcomerciocom/status/1798354696622448680?ref_src=twsrc%5Etfw)
+
+En cada intento de **fiscalización**, la falta de respaldo externo evidenció el **estigma que rodea al correísmo**, un factor que **inclina la balanza hacia el oficialismo**.
+
+Primeras derrotas del correísmo en la Asamblea Nacional
+-------------------------------------------------------
+
+En agosto de 2024, la **Asamblea Nacional** archivó el juicio político contra la **canciller Gabriela Sommerfeld.**
+
+La iniciativa, promovida por la bancada de la **Revolución Ciudadana**, acusaba a Sommerfeld de incumplimiento de funciones, especialmente en relación con la i**ncursión policial en la Embajada de México** en Quito en abril de ese año, que resultó en la detención del **exvicepresidente Jorge Glas**.
+
+Sin embargo, con **76 votos a favor**, el Pleno decidió **no continuar con el proceso**, permitiendo que Sommerfeld permaneciera en su cargo.
+
+En contraste, el juicio político contra la **fiscal general Diana Salazar**, también impulsado por el correísmo, tuvo un desenlace diferente. Inicialmente, el proceso fue **suspendido en mayo de 2024** debido a un embarazo de alto riesgo de Salazar.
+
+Posteriormente, en septiembre, el **Consejo de Administración Legislativa (CAL)** resolvió reactivar el juicio y acumular **dos solicitudes presentadas en su contra**.
+
+> La fiscal Diana Salazar se refiere nuevamente al juicio político en su contra; habla de infiltración del crimen organizado [https://t.co/qskOBtFQlO](https://t.co/qskOBtFQlO) [pic.twitter.com/Xo9SsD2Wnt](https://t.co/Xo9SsD2Wnt)
+> 
+> — El Comercio (@elcomerciocom) [August 23, 2024](https://twitter.com/elcomerciocom/status/1827029369384058945?ref_src=twsrc%5Etfw)
+
+No obstante, el 10 de septiembre, el **Pleno de la Asamblea**, con **76 votos**, decidió **archivar las solicitudes de juicio político**, respaldando así la gestión de Salazar al frente de la **Fiscalía General del Estado**.
+
+Tercera derrota en la Asamblea Nacional
+---------------------------------------
+
+Durante el juicio de Mónica Palencia, los interpelantes, Leonardo **Berrezueta y Paola Cabezas,** presentaron cargos relacionados con la **inseguridad y la ejecución** presupuestaria.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBhewkFPi4H/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBhewkFPi4H/?utm_source=ig_embed&utm_campaign=loading)
+
+Sin embargo, el punto más controvertido fue el involucramiento de Palencia en el **asalto policial a la embajada de México**, donde se capturó al exvicepresidente **Jorge Glas**, tema que fue omitido en las intervenciones de los **legisladores correístas**.
+
+Palencia respondió sobre el apoyo **débil de sus opositores** y señalando que no se había presentado prueba alguna sobre los cargos en su contra **relacionados con la embajada**.
+
+La postura de los bloques indecisos
+-----------------------------------
+
+El **movimiento Construye**, que hasta último momento se mantenía como un voto decisivo, se inclinó por la abstención, argumentando que **no apoyaban ni al correísmo ni al oficialismo**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBh8ncuJQSd/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBh8ncuJQSd/?utm_source=ig_embed&utm_campaign=loading)
+
+Esta decisión, en términos prácticos, ayudó a salvar a Palencia. Poco después, el **Partido Social Cristiano (PSC)** también expresó su **posición en contra del oficialismo**, aunque enfatizó que su postura **no implicaba** **respaldo a las críticas relacionadas con Glas**.
+
+Un resultado adverso para la Revolución Ciudadana
+-------------------------------------------------
+
+Con **77 votos a favor, 40 en contra y 17 abstenciones**, la **Revolución Ciudadana** no logró los 92 votos necesarios para censurar a Palencia. Este resultado mostró la **división interna en la Asamble**a y reflejó una **falta de apoyo entre legisladores** de otras **bancadas hacia el correísmo**.
+
+La sesión, que se extendió por **ocho horas**, tuvo momentos de tensión. La presidenta **Viviana Veloz** pidió reiteradamente la presencia de los **legisladores en sus curules**.
+
+El oficialismo, con su **plan de comunicación enfocado en sus electores**, salió fortalecido al impedir la destitución de Palencia. Mientras que la **Revolución Ciudadana** se enfrenta a una pérdida de credibilidad en la fiscalización.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBe-hi8RQv-/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBe-hi8RQv-/?utm_source=ig_embed&utm_campaign=loading)
+
+Futuro incierto y tensión en la Asamblea
+----------------------------------------
+
+Este **fracaso en el juicio político** podría ser el anticipo de una tensión prolongada entre el **Ejecutivo y el correísmo**, especialmente ante la proximidad de las **elecciones generales de 2025**.
+
+Los legisladores deberán **evaluar sus estrategias**, y el gobierno de Noboa mantiene, al menos por ahora, una **ventaja decisiva en los procesos políticos**.
+
+Equipo de la Liga Pro se llamará Vinotinto Ecuador
+==================================================
+
+El Cuniburo de la Serie B de la Liga Pro consiguió el ascenso para estar en la máxima división en 2025 y se llamará Cuniburo.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores del Cuniburo, que pasará a llamarse Vinotinto Ecuador, en un partido de la Serie B de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T220152.458.jpg)
+
+Después de haber conseguido el ascenso hacia la Serie A de la Liga Pro, **Cuniburo** tendrá cambios de cara a la próxima temporada. El equipo presentará una modificación en su nombre y pasará a llamarse **Vinotinto Ecuador** en 2025.
+
+En este 2024, Cuniburo consiguió dar uno de los pasos más altos dentro de su historia y finalizó como líder y campeón de la Serie B. Con **69 puntos**, el equipo selló su boleto junto al Manta FC, que también ascendió con 60 puntos y segundo dentro del torneo.
+
+### Más noticias:
+
+* [Patria es descalificado del Ascenso Nacional por la FEF](https://www.elcomercio.com/deportes/futbol/patria-descalificado-ascenso-nacional-fef.html "Patria es descalificado del Ascenso Nacional por la FEF")
+* [Dos ecuatorianos, entre los 100 futbolistas jóvenes mejor cotizados del mundo](https://www.elcomercio.com/deportes/ecuatorianos-jovenes-mas-caros-kendry-paez-joel-ordonez.html "Dos ecuatorianos, entre los 100 futbolistas jóvenes mejor cotizados del mundo")
+* [Moisés Caicedo se pierde escandalosa goleada del Chelsea](https://www.elcomercio.com/deportes/futbol/goleada-moises-caicedo-noah-chelsea-conference.html "Moisés Caicedo se pierde escandalosa goleada del Chelsea")
+
+A partir de ello, **Andrés Cordero** -gerente de marketing- de la institución brindó detalles sobre el futuro de esta. En diálogo con la radio Mach Deportes, el funcionario de la escuadra reveló que se cambiará el nombre del equipo y aquello ya fue aprobado por el Ministerio del Deporte[.](https://en.wikipedia.org/wiki/Cuniburo_F.C. "https://en.wikipedia.org/wiki/Cuniburo_F.C.")
+
+“**Cada proyecto, Cuniburo y Vinotinto, son fundaciones distintas. Con Cuniburo ya nos aprobaron, por parte del Ministerio del Deporte, el cambio de nombre a Vinotinto Ecuador**“, manifestó Corderó.
+
+El ascenso de Cuniburo, futuro Vinotinto Ecuador, a la Serie A
+--------------------------------------------------------------
+
+Cuniburo logró el ascenso hacia la primera división del fútbol ecuatoriano de la mano del **DT Juan Grabowski**. Los 69 puntos con los cuales se hizo el equipo se dieron gracias a 21 triunfos, seis empates y nueve derrotas.
+
+El ascenso de la escuadra originaria de Cayambe se produjo después de pasar **dos temporadas en la Serie B**. En 2022, el conjunto que se llamará Vinotinto Ecuador consiguió su ascenso desde la Segunda Categoría.
+
+Pese a que los nuevos clubes que estarán en lo más alto de la **Liga Pro** en 2025 ya están definidos, aún se desconoce aquellos que estarán en la Serie B. Dentro de la Serie A aún no se han producido descenso, mientras que en la Segunda Categoría aún no se llega a la etapa final con los clubes que tendrán la promoción.
+
+Daniel Noboa presentó proyecto de ley con siete medidas de alivio financiero
+============================================================================
+
+El presidente Daniel Noboa envió a la Asamblea Nacional un proyecto de alivio financiero y fortalecimiento económico.
+---------------------------------------------------------------------------------------------------------------------
+
+![El proyecto de ley fue entregado a la Asamblea Nacional este jueves 7 de noviembre](https://www.elcomercio.com/wp-content/uploads/2024/11/alivio-financiero-daniel-noboa.jpg)
+
+  
+El presidente de Ecuador, **Daniel Noboa**, presentó a la **Asamblea Nacional** un Proyecto de Ley Orgánica que contiene una **serie de medidas** de alivio financiero.
+
+### Más noticias
+
+* [Daniel Noboa propuso una reforma constitucional sobre los presos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reforma-constitucional-presos.html "Daniel Noboa propuso una reforma constitucional sobre los presos")
+* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
+* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
+
+El contenido de la **propuesta** fue difundido por el Gobierno la noche de este jueves 7 de noviembre de 2024.
+
+De acuerdo con el comunicado oficial, el **objetivo** de este proyecto de ley es “respaldar a las familias ecuatorianas, garantizar la estabilidad laboral y apoyar a los jóvenes y emprendedores con medidas de alivio a la **carga económica**“.
+
+Medidas de alivio financiero propuestas
+---------------------------------------
+
+Las **siete medidas** presentadas por el **Ejecutivo** al **Legislativo** incluyen incentivos fiscales, soluciones a deudas tributarias y aplazamientos de la seguridad social.
+
+### Incentivos fiscales y deudas tributarias
+
+Las empresas privadas que mantengan a sus trabajadores y no disminuyan sus plazas de empleo en octubre, noviembre y diciembre de 2024 recibirán **incentivos fiscales**.
+
+Así mismo, el Servicio de Rentas Internas (SRI) podrá **extinguir deudas tributarias** que no superen los 460 dólares, es decir, un **salario básico unificado**. Los Gobiernos Autónomos Descentralizados (GAD) tendrán la potestad de hacerlo de forma voluntaria.  
+  
+Por otra parte, las **universidades privadas** podrán compensar el **impuesto a la renta** con un crédito tributario equivalente a las becas otorgadas a estudiantes de colegios públicos o fiscomisionales.
+
+Seguridad social
+----------------
+
+EI Instituto Ecuatoriano de Seguridad Social (**IESS**) suspenderá temporalmente los **cobros coactivos** desde noviembre de 2024 a febrero de 2025. Los deudores también podrán acceder a facilidades de pago.
+
+Los empleadores podrán **aplazar el pago de los aportes al IESS** de noviembre y diciembre de 2024 sin generar responsabilidad patronal[.](https://www.asambleanacional.gob.ec/es "https://www.asambleanacional.gob.ec/es")
+
+Mientras que los trabajadores que tengan **fondos de reserva** en el IESS podrán usarlos para pagar deudas con la institución; estas deudas pueden o no estar vencidas.
+
+Finalmente, los afiliados al IESS tendrán acceso inmediato al **seguro de desempleo**.
+
+> A la ciudadanía: [pic.twitter.com/dqqrpcd9Pm](https://t.co/dqqrpcd9Pm)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 8, 2024](https://twitter.com/Presidencia_Ec/status/1854716511052607806?ref_src=twsrc%5Etfw)
+
+Restructuración de deudas por crisis energética
+-----------------------------------------------
+
+La Junta de Política y Regulación Financiera aprobó este jueves la resolución que establece el mecanismo temporal de **alivio financiero** por la crisis energética que atraviesa el Ecuador.
+
+El mecanismo establece la **restructuración de deudas** y diferimiento de cuotas de **créditos vencidos**.
+
+El diferimiento de pagos de cuotas de créditos vigentes se realizará hasta los **90 días**.
+
+La resolución establece que las entidades financieras podrán refinanciar o reestructurar operaciones de crédito con saldos vencidos entre el **10 de agosto de 2023 y el 31 de octubre de 2024**, siempre que el deudor lo solicite y acuerde con la institución.
+
+Registran una especie marina inusual cerca de Galápagos ¿Cuál es la razón?
+==========================================================================
+
+Esta especie marina no habita en aguas tropicales como las de las Islas Galápagos.
+----------------------------------------------------------------------------------
+
+![Esta especie marina inusual fue vista en 2021 en Galápagos.](https://www.elcomercio.com/wp-content/uploads/2024/11/galapagos-2.jpg)
+
+El **Parque Nacional Galápagos y la Fundación Charles Darwin** dieron a conocer el registro de una **especie marina inusual** cerca del archipiélago, este jueves 7 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos)
+
+Se trata de un hallazgo histórico porque esta especie no habita en **aguas tropicales**.
+
+### Más noticias:
+
+* [Dos especies ‘amenazadas’ de Galápagos con bajas en su reproducción](https://www.elcomercio.com/actualidad/ecuador/dos-especies-galapagos-cifras-bajas-reproduccion.html "Dos especies ‘amenazadas’ de Galápagos con bajas en su reproducción")
+
+Una especie marina inusual cerca de Galápagos
+---------------------------------------------
+
+Esta especie marina fue avistada en **2021**, cerca de la **isla Wolf.**
+
+Sin embargo, la **comunidad científica** tuvo acceso al material que documentaba el hallazgo recién en diciembre del **2023**.
+
+La evidencia fue analizada cuidadosamente con el fin de confirmar la especie y entender las **razones de su presencia.**
+
+Finalmente, los estudios arrojaron un **histórico descubrimiento**.
+
+Los científicos concluyeron que se trataba de un **tiburón blanco**.
+
+Esta es una especie catalogada como “vulnerable”, por la **Unión Internacional para la Conservación de la Naturaleza (UICN).**
+
+Se trataba de una **hembra adulta** de, aproximadamente, cuatro metros de longitud.
+
+La razón del registro de una especie marina inusual cerca de Galápagos
+----------------------------------------------------------------------
+
+El tiburón blanco es un pez que no habita en **aguas tropicales** y permanece, generalmente, en regiones templadas y subtropicales.
+
+_El_ “Carcharodon carcharias” es una especie que habita en aguas como las de **Sudáfrica, Australia, California, México y el Atlántico norte.**
+
+Por esta razón, los **científicos** mostraron su asombro e investigaron la razón de la permanencia del tiburón blanco cerca de Galápagos.
+
+En el análisis, se especificó que este tiburón blanco estuvo en esta zona marina por las condiciones oceánicas resultantes del fenómeno de **La Niña**.
+
+La Niña se manifiesta con **temperaturas frías** y un aumento de la productividad marina.
+
+Esto motivó a esta especie a cambiar su ruta habitual; aunque, también podría tratarse de un **“individuo vagabundo”.**
+
+El Parque Nacional Galápagos recuerda que la presencia de los **tiburones** en el océano es crucial.
+
+Esta especie controla y previene la sobrepoblación. Además, mantienen el equilibrio de los **ecosistemas** marinos.
+
+El estudio completo del hallazgo inusual de esta especie en la región del **Pacífico Tropical Oriental** fue publicado por la revista internacional de ciencia “**Environmental Biology of Fishes**”.
+
+La especie marina inusual encontrada cerca de Galápagos ¿Es una amenaza para los seres humanos?
+-----------------------------------------------------------------------------------------------
+
+**Jenifer Suárez,** directora de Ecosistemas del Parque Nacional Galápagos y coautora del documento científico, señaló que “este primer registro confirmado de un tiburón blanco en aguas ecuatorianas”, cercanas a Galápagos, es un hallazgo significativo para la investigación y conservación.
+
+“Nos recuerda el valor de la Reserva Marina como un refugio esencial para la biodiversidad del Pacífico Este Tropical, especialmente, para grandes depredadores que cumplen un **rol fundamental** en el equilibrio de nuestros ecosistemas marinos”, agregó Suárez.
+
+La presencia de tiburones en aguas ecuatorianas es una señal de salud del ecosistema marino, y **no representan una amenaza para la seguridad de las personas**, confirmó el Parque Galápagos.
+
+554 307 vacunas contra la influenza se aplicarán en Manabí y Santo Domingo de los Tsáchilas
+===========================================================================================
+
+Las vacunas forman parte de una campaña nacional contra la influenza que se implementará hasta febrero de 2025
+--------------------------------------------------------------------------------------------------------------
+
+![El Ministerio de Salud espera administrar más de cinco millones de vacunas contra la influenza](https://www.elcomercio.com/wp-content/uploads/2024/11/salud-vacunas.jpg)
+
+El Ministerio de Salud Pública (MSP) confirmó que **554 307 dosis de vacunas** contra la influenza se aplicarán a ciudadanos de **grupos prioritarios** en Manabí y Santo Domingo de los Tsáchilas.
+
+### Más noticias
+
+* [Nueve alimentos que mejoran la salud mental y emocional](https://www.elcomercio.com/tendencias/salud/alimentos-salud-mental-nutricion.html "Nueve alimentos que mejoran la salud mental y emocional")
+* [9 pasos clave para prevenir el VPH y proteger tu salud](https://www.elcomercio.com/tendencias/salud/9-pasos-clave-para-prevenir-el-vph-y-proteger-tu-salud.html "9 pasos clave para prevenir el VPH y proteger tu salud")
+* [Superalimentos ecuatorianos ideales para una vida saludable](https://www.elcomercio.com/tendencias/salud/superalimentos-ecuador-dia-mundial-alimentacion.html "Superalimentos ecuatorianos ideales para una vida saludable ")
+
+Los **biológicos** ya se encuentran listos para su **aplicación** a partir de este **jueves 7 de noviembre de 2024** en **220 centros de salud**, consultorios médicos, dispensarios y unidades de medicina familiar.
+
+Las **vacunas** forman parte de un total de **5 132 000 dosis** que se administrarán en **Ecuador** hasta **febrero de 2025** y que empezaron el **26 de octubre**.
+
+La inversión del programa de salud es cercana a los **14 millones de dólares**[.](https://www.salud.gob.ec/ "https://www.salud.gob.ec/")
+
+¿Quiénes recibirán las vacunas contra la influenza?
+---------------------------------------------------
+
+La **campaña de vacunación** contra la **influenza** está pensada en la **temporada estacional**, de **noviembre a marzo**.
+
+En el caso de **Manabí**, se tiene previsto un grupo meta de **420,826 personas**; mientras que en la provincia de **Santo Domingo de los Tsáchilas** se espera colocar **133,481 biológicos**.
+
+Las **vacunas** serán distribuidas a los **grupos prioritarios** de acuerdo al siguiente orden:
+
+* **Población infantil**: desde los **6 meses de edad** hasta los **7 años, 11 meses y 29 días**.
+* **Adultos mayores**: personas de **65 años y más**.
+* **Mujeres embarazadas** y en **puerperio** (postparto) que no recibieron la vacuna durante el embarazo.
+* **Personas con enfermedades crónicas**: ciudadanos de **8 a 64 años** con enfermedad crónica e inmunosupresión.
+* **Personas con discapacidad** y sus cuidadores.
+* **Personal de salud**: ciudadanos que laboran en residencias de ancianos o en centros de cuidados infantiles, personal que maneja desechos hospitalarios.
+* **Personas Privadas de Libertad (PPL)**.
+* **Trabajadores de avícolas y criaderos de cerdos**.
+* Sectores estratégicos: educación, seguridad, ambiental y energético, entre otros.
+
+Los niños entre **6 y 11 meses** recibirán dos dosis de las vacunas, con un intervalo de un mes entre cada aplicación.
+
+El **MSP** aseguró que los biológicos se aplicarán por profesionales de salud capacitados y con experiencia en el proceso de vacunación, “teniendo en cuenta la cadena de frío y los estándares de calidad que permiten conservar la inocuidad de las vacunas”, detalló la entidad.
+
+La vacuna contra la influenza estacional fue añadida al esquema nacional de vacunación en **2006**.
+
+> El MSP y [@OPSECU](https://twitter.com/OPSECU?ref_src=twsrc%5Etfw) suman esfuerzos 🤝para el monitoreo continuo en el país y la región de los virus respiratorios circulantes, incluida la influenza.  
+>   
+> Por eso, acude a nuestros establecimientos de salud 🏥para recibir la vacuna💉 y cuidar tu salud.[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/HRJdOeb0zm](https://t.co/HRJdOeb0zm)
+> 
+> — Ministerio de Salud Pública 🇪🇨 (@Salud\_Ec) [November 7, 2024](https://twitter.com/Salud_Ec/status/1854510936855323077?ref_src=twsrc%5Etfw)
+
+Los síntomas de la influenza
+----------------------------
+
+La **infección vírica** afecta a la **nariz**, la **garganta**, los **bronquios** y, ocasionalmente, los **pulmones**.
+
+Se caracteriza por la aparición súbita de **fiebre**, **mialgia**, **cefalea**, **malestar general**, **tos seca**, **dolor en la faringe** y **rinitis**.
+
+La **influenza**, en ocasiones, puede llevar a la **muerte**. Los síntomas de la influenza aparecen **repentinamente**.
+
+Dos ecuatorianos, entre los 100 futbolistas jóvenes mejor cotizados del mundo
+=============================================================================
+
+Kendry Páez de Independiente del Valle y Joel Ordóñez del Brujas se ubican entre los 100 futbolistas menores a 21 años más caros del mundo.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Kendry Páez, volante de Independiente del Valle, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T212507.767.jpg)
+
+La cotización de los futbolistas ecuatorianos va en alza y dos de ellos aparecen entre los jóvenes de mayor valor a nivel mundial. De acuerdo al Observatorio de Fútbol del Centro Internacional de Estudios del Deporte (CIES), **Kendry Páez y Joel Ordóñez** están dentro de los 100 mejor valuados.
+
+El organismo internacional elaboró un listado en el que categorizó a los **futbolistas menores a 21 años** con mayores tasas en el mercado. Aquello se lo realizó a partir de un modelo estadístico diseñado por la propia organización.
+
+### Más noticias:
+
+* [Kendry Páez anotó en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-anoto-en-la-victoria-de-independiente-del-valle.html "Kendry Páez anotó en la victoria de Independiente del Valle")
+* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
+* [Kendry Páez regresó a la titularidad en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-regreso-a-la-titularidad-en-independiente-del-valle.html "Kendry Páez regresó a la titularidad en Independiente del Valle")
+
+Dentro de los puestos más altos se ubicaron jugadores como **Lamine Yamal**, figura del FC Barcelona, o **Alejandro Garnacho**, promesa argentina del Manchester United. A ellos los siguieron Warren Zaïre-Emery del PSG, Sávio Moreira del Manchester City y Joao Neves, también del PSG, dentro del top 5.
+
+El cuadro de los 10 mejores lo completaron **Endrick**, Rico Lewis, Arda Güler, Kobbie Mainoo y Kenan Yildiz. En el caso de los ecuatorianos, Kendry Páez se ubicó en el puesto 65 y Joel Ordóñez lo hizo en el puesto 80.
+
+Kendry Páez, tasado en más de 20 millones
+-----------------------------------------
+
+**Kendry Páez**, futbolista de 17 años que se encuentra en Independiente del Valle, ya se encuentra transferido y se unirá al Chelsea cuando cumpla la mayoría de edad. El jugador ocupa su posición entre los 100 más caros con un valor superior a los 20 millones de dólares[.](https://football-observatory.com/WeeklyPost479 "https://football-observatory.com/WeeklyPost479")
+
+Para ubicarse en el puesto 65, a Páez se lo tasó con un valor de **25.9 millones de dólares**. Aquello lo puso un puesto por encima del brasilero **Stevao**, quien también se encontrará con él en el Chelsea.
+
+En lo que va de la temporada, Kendry Páez lleva 36 partidos con Independiente del Valle y ha anotado **cinco goles** y brindado **ocho asistencias**. Asimismo, él y su equipo se encuentran en las finales de Liga Pro y Copa Ecuador.
+
+Joel Ordóñez, un defensa que promete
+------------------------------------
+
+**Joel Ordóñez**, forjado en Independiente del Valle, llegó al Brujas de Bélgica en el 2022. En el conjunto europeo, este inició en el equipo juvenil hasta ascender y hacerse un hueco dentro de la escuadra absoluta.
+
+El jugador se ha convertido en uno de los pilares en defensa de su equipo y en su más reciente compromiso de la UEFA Champions League fue el mejor del partido. Ordóñez está en el puesto 80 y con un valor de **19.7 millones de dólares.**
+
+La ONU se pronunció sobre el sistema de justicia de Ecuador
+===========================================================
+
+La ONU se refirió al sistema de justicia, los estados de excepción y otros temas en Ecuador.
+--------------------------------------------------------------------------------------------
+
+![El sistema de justicia de Ecuador fue analizado por la ONU.](https://www.elcomercio.com/wp-content/uploads/2024/11/onu-sistema-justicia-ecuador.jpg)
+
+La **Organización de las Naciones Unidas (ONU)** se pronunció sobre el **sistema de justicia de Ecuador**, este jueves 7 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Ecuador)
+
+El **Comité de Derechos Humanos de la ONU** emitió un informe sobre la situación de varias temáticas en el país.
+
+### Más noticias:
+
+* [Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-varias-pruebas-audiencia-caso-metastasis.html "Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis")
+* [Casos Metástasis, Purga y Plaga derivan en separación de 25 servidores judiciales](https://www.elcomercio.com/actualidad/seguridad/casos-metastasis-purga-plaga-derivan-separacion-25servidores-judiciales.html "Casos Metástasis, Purga y Plaga derivan en separación de 25 servidores judiciales")
+
+Pronunciamiento de la ONU sobre el sistema de justicia en Ecuador
+-----------------------------------------------------------------
+
+El Comité de Derechos Humanos de la ONU calificó de “**preocupantes**” los informes sobre la corrupción que afecta al Poder Judicial en Ecuador, lo que ha creado la creencia de que el crimen organizado ha penetrado en las instituciones de justicia.
+
+Este pronunciamiento está entre las **conclusiones y recomendaciones** del Comité.
+
+El Comité se refiere en su informe a las investigaciones de la **Fiscalía General de Ecuador** sobre el pago de sobornos a funcionarios por parte de “estructuras criminales” a cambio de actos y decisiones en favor de sus integrantes y familiares.
+
+Los casos **Metástasis, Plaga y Purga** revelan la filtración del crimen organizado en cortes de justicia, Consejo de la Judicatura, funcionarios penitenciarios, fiscales, policías y más.
+
+Además, lamenta las “**escasas medidas**” para proteger a jueces y fiscales de asesinatos, agresiones y otros tipos de intimidación.
+
+En una rueda de prensa en Ginebra, el miembro del Comité **Carlos Gómez Martínez** comentó que esta situación “pone en riesgo el Estado de derecho” en Ecuador.
+
+Agregó que el Poder Judicial está en una situación muy delicada y que el caso de **asesinatos de jueces** vuelve frágil todo el sistema de justicia.
+
+Gómez pidió que se luche “desde dentro” contra la **corrupción** en la Judicatura porque “la mayoría de jueces, estoy seguro, no son corruptos”, pero recalco que para ello deben sentir el apoyo de otros poderes del Estado.
+
+Por otra parte, el Comité expresó su alarma por la militarización de la gestión de las cárceles en Ecuador y las informaciones sobre “la infiltración del **crimen organizado** que estaría impidiendo el correcto funcionamiento del sistema penitenciario”.
+
+También pidió al gobierno que reduzca el **hacinamiento carcelario** y el elevado número de personas en prisión preventiva.
+
+### Otros temas
+
+En otro tema, el órgano de la ONU criticó “la aparente normalización de los **estados de excepción** a nivel nacional y local”.
+
+Estos llevan renovándose una y otra vez desde hace seis años- y recordó que esto solo debería ocurrir “en situación verdaderamente excepcional”.
+
+Señaló que, por esa razón, varios **derechos fundamentales** se han limitado “de forma considerable y desproporcionada”.
+
+El Comité refirió derechos como la **libertad** de circulación, de asociación o de reunión, que afecta sobre todo a indígenas, migrantes, refugiados, solicitantes de asilo y gente pobre.
+
+Por otra parte, el Comité denunció la persistencia de un entorno de estigmatización, discriminación y violencia contra las personas **LGTBI**.
+
+El informe menciona **centros clandestinos** que seguirían practicando la denominada “terapia de conversión”.
+
+Sobre los derechos relacionados con las **mujeres,** el Comité reconoce como positiva la aprobación una ley que regula el aborto en casos de violación.
+
+Sin embargo, lamenta que la **interrupción del embarazo** siga considerándose un delito, salvo en casos específicos.
+
+Asimismo, menciona situaciones de mujeres que enfrentarían obstáculos para acceder a la **interrupción legal del embarazo.**
+
+Este hecho se da porque, en ciertos casos,los equipos médicos invocan una **objeción de conciencia**.
+
+El Gobierno de **Daniel Noboa** envió a la sesión del Comité de la ONU una delegación.
+
+Esta estuvo liderada por el **procurador general**, Juan Carlos Larrea, y la **ministra de la Mujer y Derechos Humano**, Arianna Tanca.
+
+Pedro Ortiz, arquero de Emelec, se sometió a operación quirúrgica
+=================================================================
+
+El arquero Pedro Ortiz sufrió una lesión con Emelec y debio ser sometido a una cirugía para su recuperación.
+------------------------------------------------------------------------------------------------------------
+
+![Pedro Ortiz, arquero de Emelec, en un partido de la escuadra.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T192814.528.jpg)
+
+**Emelec**, que no atraviesa un buen presente futbolístico ni institucional, también sufrió la baja de su arquero **Pedro Ortiz**. El guardamenta, que no retornará al equipo en lo que queda de la temporada, ya se sometió a una operación quirúrgica e inicia su recuperación.
+
+La mañana de este jueves 7 de noviembre del 2024, el arquero salió con éxito de la intervención. En redes sociales se expuso una fotografía en la cual el futbolista se encontraba con un **inmovilizador** y junto a personal de salud.
+
+### Más noticias:
+
+* [Emelec pierde a Pedro Ortiz y complica su cierre de temporada](https://www.elcomercio.com/deportes/futbol/emelec-pierde-a-pedro-ortiz-y-complica-su-cierre-de-temporada.html "Emelec pierde a Pedro Ortiz y complica su cierre de temporada")
+* [Emelec anuncia oficialmente la renuncia de José Pileggi](https://www.elcomercio.com/deportes/emelec-jose-pileggi-renuncia-oficial.html "Emelec anuncia oficialmente la renuncia de José Pileggi")
+* [Liga de Quito venció a Emelec y presiona en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vencio-a-emelec-y-presiona-en-la-liga-pro.html "Liga de Quito venció a Emelec y presiona en la Liga Pro")
+
+A raíz de su cirugía, **Pedro Ortiz** deberá pasar por un proceso de rehabilitación para volver a las canchas. El tiempo mínimo de recuperación para el guardameta azul será de, por lo menos, 10 semanas de acuerdo al parte médico de los eléctricos.
+
+De acuerdo al conjunto eléctrico, la razón para la operación fue una l**uxación interfalángica del quinto dedo de la mano derecha**, cual se produjo en 2019. A raíz de ello, este sufrió un desplazamiento crítico e inestabilidad articular debido a la ausencia de ligamentos colaterales.
+
+En función de la lesión del **guardameta**, el procedimiento que se realizó consistió en la reconstrucción de los ligamentos. Asimismo, se llevó a cabo el anclaje de la articulación[.](https://en.wikipedia.org/wiki/C.S._Emelec "https://en.wikipedia.org/wiki/C.S._Emelec")
+
+¿Quién reemplazará a Pedro Ortiz en Emelec?
+-------------------------------------------
+
+La ausencia de Pedro Ortiz a raíz de su intervención hará que este no se encuentre presente en las tres últimas fechas de la Liga Pro. En tales compromisos, **Emelec** deberá medirse ante Macará, Imbabura y Libertad.
+
+En los duelos en los cuales no se encuentre el guardameta, su reemplazante en la escuadra será **Gilmar Napa.** El nuevo golero, además, ya estuvo presente en el arco eléctrico durante la pasada fecha en la que el ‘Bombillo’ cayó por un marcador de 1-0 ante **Liga de Quito**.
+
+Antes del choque frente a los albos, **Napa** solo había estado presente con el conjunto azul en tres oportunidades. En sus cuatro cotejos lleva la misma cantidad de goles encajados.
+
+Emelec, en crisis y sin su arquero
+----------------------------------
+
+La lesión de **Pedro Ortiz** llegó en un momento en el cual Emelec atraviesa inconvenientes debido a valores adeudados con la plantilla. A ello, a su vez, se le suma el mal presente futbolístico, sanciones y la renuncia de su presidente José Pileggi.
+
+Ante tal situación, la plantilla manifestó que tampoco han llegado a acuerdos con la directiva debido a valores adeudados. Pese a ello, esta se mantendrá activa y en sus entrenamientos.
+
 La ecuatoriana Eidy Macías hace historia y está cerca de la UFC
 ===============================================================
 
@@ -388,648 +987,3 @@ Sus últimos minutos
 El León ocupa la undécima posición en la clasificación con 18 puntos, a tres de igualar al Atlas, que en el décimo lugar es dueño del último boleto al repechaje, por lo que la carrera de Guardado se podría alagar un poco más, en caso de que el **León** venza al Monterrey y el Atlas no gane e incluso empate el mismo domingo ante el Necaxa.
 
 En su transmisión, **Guardado** agradeció a todos los equipos que perteneció, a los hinchas y a los dueños del León, que le permitieron cerrar su camino en el fútbol en su país.
-
-Embajada hizo una aclaración sobre leyes de inmigración a Estados Unidos
-========================================================================
-
-La Embajada de Estados Unidos emitió un comunicado sobre las leyes de inmigración a ese país el mismo día de las elecciones presidenciales.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Estados Unidos emitió un comunicado sobre las leyes de inmigración de ese país.](https://www.elcomercio.com/wp-content/uploads/2024/11/estados-unidos-leyes-inmigracion.jpg)
-
-La **Embajada de Estados Unidos (EE.UU.)** hizo una aclaración sobre las **leyes de inmigración** a ese país.
-
-La Embajada emitió este comunicado el mismo día de las **elecciones presidenciales** en Estados Unidos.
-
-### Más noticias:
-
-* [Lotería de visas de Estados Unidos extiende plazo para participar](https://www.elcomercio.com/actualidad/mundo/loteria-visas-extiende-plazo-inscripcion.html "Lotería de visas de Estados Unidos extiende plazo para participar")
-* [Donald Trump tiene varios planes para su segundo mandato](https://www.elcomercio.com/actualidad/mundo/donald-trump-tiene-grandes-planes-para-segundo-mandato.html "Donald Trump tiene varios planes para su segundo mandato")
-
-Aclaración de la Embajada de Estados Unidos sobre leyes migratorias
--------------------------------------------------------------------
-
-La Embajada de **Estados Unidos** en **Quito** emitió un comunicado dirigido a la ciudadanía ecuatoriana en el que reafirma que las leyes migratorias del país norteamericano permanecen **“estrictas”**.
-
-La Embajada recordó que las autoridades sancionarán rápidamente cualquier intento de ingreso ilegal al país.
-
-Advirtió que las autoridades expulsarán a las personas que ingresen **ilegalmente** a los Estados Unidos de manera expedita.
-
-No habrá cambios inmediatos tras la reciente victoria de **Donald Trump** en las elecciones presidenciales del 5 de noviembre.
-
-La Embajada instó a la población ecuatoriana a evitar caer en la trampa de **información falsa** o engañosa sobre el proceso migratorio.
-
-Leyes de inmigración a Estados Unidos y el nuevo presidente Donald Trump
-------------------------------------------------------------------------
-
-El candidato republicano, **Donald Trump**, ganó las elecciones presidenciales en Estados Unidos.
-
-Trump defiende una política de inmigración a Estados Unidos **severa**.
-
-Una de sus ofertas de campaña fue la implementación de un programa de **deportación masiva**.
-
-Esto, con el respaldado de la **Guardia Nacional,** sheriffs y policías locales para arrestar a inmigrantes indocumentados.
-
-Otra propuesta de Donald Trump es la implementación de la “**evaluación ideológica**“, para los solicitantes de visas, y la eliminación del derecho a la **ciudadanía** por nacimiento.
-
-En su primer mandato, Trump promovió una serie de medidas **migratorias restrictivas**.
-
-Entre estas están: la construcción de un muro en la **frontera con México**, la implementación de restricciones de visas.
-
-El ganador de las elecciones presidenciales de Estados Unidos prohibió la entrada a ciudadanos de países de mayoría **musulmana**.
-
-Los temores de los migrantes en situación irregular están enfocados en las dificultades para acceder a **asilo** o regularizar su situación en ese país.
-
-> [#NoTeArriesgues](https://twitter.com/hashtag/NoTeArriesgues?src=hash&ref_src=twsrc%5Etfw) | Evita ser víctima de la información falsa, no habrá ningún cambio inmediato en las leyes de inmigración de los Estados Unidos luego de las elecciones presidenciales del próximo 5 de noviembre del 2024.[#MigraciónSegura](https://twitter.com/hashtag/Migraci%C3%B3nSegura?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/GTJoEPu9Vw](https://t.co/GTJoEPu9Vw)
-> 
-> — US Embassy Ecuador (@USembassyEC) [November 5, 2024](https://twitter.com/USembassyEC/status/1853838415025893694?ref_src=twsrc%5Etfw)
-
-Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz
-==============================================================================
-
-La Junta de Regulación Financiera emitió una resolución que permite a deudores refinanciar y diferir pagos.
------------------------------------------------------------------------------------------------------------
-
-![El mecanismo permite diferir cuotas de créditos vencidos por hasta 90 días.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-30.jpg)
-
-La Junta de Política y Regulación Financiera aprobó la resolución que establece el mecanismo **extraordinario y temporal** de alivio financiero por la **crisis energética**, con cortes de luz prolongados, que atraviesa el **Ecuador**. El mecanismo establece la restructuración de deudas y diferimiento de cuotas de créditos vencidos[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales por crisis](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-alivios-economicos-entidades-financieras-crisis-energetica.html "Daniel Noboa propone ‘alivios económicos’ a entidades financieras y casas comerciales por crisis energética")
-* [Conozca los requisitos para recibir 400 dólares mensuales del Gobierno](https://www.elcomercio.com/actualidad/negocios/conozca-requisitos-400-dolares-mensuales-gobierno-daniel-noboa.html "Conozca los requisitos para recibir 400 dólares mensuales del Gobierno")
-* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
-
-La medida busca mitigar el **impacto de la crisis energética** en los deudores. Para ello, se facilitarán el refinanciamiento y reestructuración de deudas. Además, determinó el mecanismo para el diferimiento de **pagos** de cuotas de **créditos** vigentes hasta por 90 días.
-
-Refinanciamiento y reestructuración de créditos
------------------------------------------------
-
-La resolución establece que las entidades financieras podrán **refinanciar o reestructurar operaciones** de crédito con saldos vencidos entre el 10 de agosto de 2023 y el 31 de octubre de 2024, siempre **que el deudor lo solicite** y acuerde con la institución.
-
-También podrán consolidarse los créditos del deudor, permitiendo incluso el acceso a nuevos recursos para el segmento productivo o microcrédito bajo condiciones específicas. Estos nuevos créditos tendrán una calificación inicial de “A1”. Esto facilita su gestión y reduce el riesgo de morosidad en el corto plazo.
-
-Diferimiento temporal de deudas
--------------------------------
-
-Además, la medida incluye un **diferimiento temporal** de hasta 90 días en el pago de cuotas para los **créditos vigentes al 30 de septiembre de 2024.** Este mecanismo de diferimiento no genera intereses por mora ni cobros adicionales y puede ser solicitado tanto por el **cliente como por la entidad acreedora**.
-
-**La Superintendencia de Bancos y la Superintendencia de Economía Popular y Solidaria** tendrán un papel fundamental en la supervisión y control de la aplicación de esta normativa. Deberán informar mensualmente sobre el número de operaciones refinanciadas, reestructuradas o diferidas, así como su monto y distribución geográfica.
-
-Este mecanismo estará en vigor hasta el 31 de marzo de 2025.
-
-Incendio consumió un bus y un camión tras fuerte choque en Esmeraldas
-=====================================================================
-
-El choque entre dos vehículos pesados en Quinindé se decantó en un incendio que calcinó a los automotores.
-----------------------------------------------------------------------------------------------------------
-
-![Los bomberos controlaron las llamas que se extendieron en los vehículos pesados y la calzada](https://www.elcomercio.com/wp-content/uploads/2024/11/choque-esmeraldas-incendio.jpg)
-
-Un **fuerte choque** entre un **bus interprovincial** y un **camión** causó que los vehículos **se incendiaran**. Varias personas quedaron afectadas tras el **siniestro,** que se registró en el kilómetro 109 de la vía **La Unión – La Concordia**, en el cantón Quinindé, en la provincia de Esmeraldas.
-
-### Más noticias
-
-* [Siniestro de tránsito en Quito deja dos personas fallecidas este 4 de noviembre](https://www.elcomercio.com/actualidad/quito/siniestro-de-transito-en-quito-deja-dos-personas-fallecidas-este-4-de-noviembre.html "Siniestro de tránsito en Quito deja dos personas fallecidas este 4 de noviembre")
-* [10 fallecidos en siniestro de tránsito en Morona Santiago](https://www.elcomercio.com/actualidad/seguridad/fallecidos-siniestro-transito-morona-santiago.html "10 fallecidos en siniestro de tránsito en Morona Santiago")
-* [Un incendio forestal se registró en las inmediaciones de la Reserva Los Ilinizas](https://www.elcomercio.com/actualidad/ecuador/incendio-forestal-ilinizas-bomberos-mejia.html "Un incendio forestal se registró en las inmediaciones de la Reserva Los Ilinizas")
-
-De acuerdo con información compartida por las redes sociales del **ECU 911**, la alerta ingresó a las **13:00** de este jueves 7 de noviembre de 2024.
-
-En imágenes difundidas en X se observa que el **vehículo pesado** impactó contra la unidad de la **Cooperativa Quinindé**. Luego, las llamas consumieron a los automotores.
-
-El choque provocó que el fuego se extienda **rápidamente**, dejando la parte frontal del camión y la mayoría del autobús **calcinados**[.](https://es.wikipedia.org/wiki/Cant%C3%B3n_Quinind%C3%A9 "https://es.wikipedia.org/wiki/Cant%C3%B3n_Quinind%C3%A9")
-
-Número de afectados tras choque se desconoce
---------------------------------------------
-
-El bus interprovincial cubría la ruta **Quinindé – Santo Domingo de los Tsáchilas** con pasajeros. Hasta las 18:00, se desconoce de forma oficial el número de ciudadanos **afectados** en el incendio, sin embargo, preliminarmente, varios medios locales informan que al menos **dos personas fallecieron** y seis quedaron heridas tras el siniestro.
-
-Los Cuerpos de **Bomberos** de Quinindé y La Concordia se trasladaron al lugar para cubrir la **emergencia**.
-
-Los uniformados **controlaron las llamas** en los dos vehículos y también en parte de la calzada, donde se extendió el fuego por el combustible derramado.
-
-A las labores de los Bomberos se sumó la de policías y médicos del Ministerio de Salud, quienes delimitaron el lugar y **cerraron el paso vehicular** durante varias horas.
-
-Los personeros colaboraron en la alerta con autobombas, ambulancias y patrulleros, mientras los transeúntes y conductores veían sorprendidos el lamentable hecho.
-
-‘Amigo’ de Liam Payne está en la mira por su muerte ¿De qué lo acusan?
-======================================================================
-
-El 'amigo' de Liam Payne podría pasar hasta 10 años en la cárcel.
------------------------------------------------------------------
-
-![Liam Payne murió el pasado 16 de octubre de 2024. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T175819.023.jpg)
-
-Un empresario argentino, amigo de **Liam Payne**, se encuentra bajo investigación tras la muerte del exintegrante de **One Direction en Buenos Aires.**
-
-Liam Payne falleció el 16 de octubre de 2024, tras caer del tercer piso de un hotel de **Palermo**. Ahí -precisamente- se hospedaba.
-
-### **Más noticias:**
-
-* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html")
-* [El cuerpo de Liam Payne será embalsamado antes del traslado a Londres](https://www.elcomercio.com/tendencias/cuerpo-liam-payne-embalsamado-traslado-londres.html "https://www.elcomercio.com/tendencias/cuerpo-liam-payne-embalsamado-traslado-londres.html")
-* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html?source=Internal&ref=Single+Content+Link")
-
-**‘Amigo’ de Liam Payne está en la mira por su muerte ¿De qué lo acusan?**
---------------------------------------------------------------------------
-
-Las circunstancias de su muerte llevaron a las autoridades a indagar sobre el entorno del cantante y las personas que lo acompañaban en sus últimos días.
-
-El empresario fue imputado por **abandono de persona**. Se le acusa de no haber brindado la asistencia necesaria a **Payne** en un momento crítico.
-
-> [View this post on Instagram](https://www.instagram.com/reel/C395b7jIN_B/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Liam Payne (@liampayne)](https://www.instagram.com/reel/C395b7jIN_B/?utm_source=ig_embed&utm_campaign=loading)
-
-Según reporta La Nación, el hombre no respondió a los llamados realizados por el personal del hotel el día de la tragedia. Eso generó dudas sobre su papel en la situación.
-
-En Argentina, según el artículo 106 del Código Penal, la condena para e**l delito de abandono de persona es de 2 a 6 años de prisión**.
-
-**Más sospechosos están en la mira**
-------------------------------------
-
-El caso de la muerte de **Liam Payne**, exintegrante de **One Direction**, sigue sumando sospechosos y detalles complejos.
-
-Un empresario argentino, amigo cercano del cantante; un empleado de mantenimiento del hotel y un dealer son investigados en relación con la tragedia ocurrida el 16 de octubre.
-
-**¿Qué reveló la autopsia de Liam Payne?**
-------------------------------------------
-
-Las investigaciones revelaron que Liam **Payne** consumió una mezcla peligrosa de drogas y alcohol antes de su caída.
-
-Las autoridades realizaron varios allanamientos en propiedades vinculadas a**l ‘amigo’** y otros sospechosos para recolectar pruebas adicionales.
-
-Durante estas operaciones, se encontraron sustancias ilegales y dispositivos electrónicos que podrían contener información relevante para el caso.
-
-La situación legal del empresario se complica debido a contradicciones en sus declaraciones y la falta de testigos que corroboren su presencia en el hotel el día del incidente.
-
-Cuenca tiene la sequía más extensa de los últimos 51 años
-=========================================================
-
-La Red Hidrometereológica de la empresa Etapa no preve que la sequía se supere en noviembre de 2024.
-----------------------------------------------------------------------------------------------------
-
-![Este 7 de noviembre de 2024 se cumplieron 118 días de sequía hidrológica en Cuenca. El caudal del río Tomebamba está bajo. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/11/Cuenca-2.jpg)
-
-La **sequía hidrológica en Cuenca** superó a lo registrado en 2023. Hace un año, la **Red Hidrometereológica de la empresa Etap**a contabilizó 117 días de sequía.
-
-En la actualidad, ya se registraron 118 días, este jueves 7 de noviembre de 2024. 
-
-Los ríos **Yanuncay, Tomebamba y Machángar**a están en niveles considerados como bajos, mientras que el **Tarqui** está en estiaje.
-
-Estos afluentes junto al **Santa Bárbara, San Francisco, Cuenca, Paute y Burgay** alimentan al **embalse de Mazar.**
-
-Según el coordinador de la **Red Hidrometereológica, Rigoberto Guerrero,** para este mes de noviembre de 2024 se prevé que existan lluvias, pero de forma puntual.
-
-Es decir, por tiempos cortos e intensos, pero **no en las zonas de recarga hídricas.**
-
-Según **Guerrero**, eso ocasiona que los caudales de los ríos suban de un momento a otro, pero no sean sostenibles en el tiempo y, prácticamente, no son un mayor aporte para el **embalse de Mazar**.
-
-### Más noticias
-
-* [¿Cómo está el embalse de Mazar tras lluvias de Cuenca?](https://www.elcomercio.com/actualidad/negocios/como-esta-el-embalse-de-mazar-tras-lluvias-de-cuenca.html "¿Cómo está el embalse de Mazar tras lluvias de Cuenca?")
-* [Fuerte lluvia con granizo sorprendió a Cuenca y mejoró el caudal de sus ríos](https://www.elcomercio.com/actualidad/cuenca/fuerte-lluvia-granizo-cuenca-martes-noviembre.html "Fuerte lluvia con granizo sorprendió a Cuenca y mejoró el caudal de sus ríos")
-
-La sequía más prolongada en Cuenca
-----------------------------------
-
-**Guerrero** indica que la **empresa municipal Etapa** lleva registros desde 1998 y el **Instituto Nacional de Meteorológica e Hidrología (Inamhi)** desde 1973.
-
-En función a esta información, **Guerrero** indica que, en la actualidad, se vive la sequía más prolongada o de mayor duración de los **últimos 51 años.**
-
-Según él, de acuerdo con los pronósticos que tienen **no se prevé** que **Cuenca salga de la sequía hidrológica en este noviembre de 2024.**
-
-“Se requieren entre 15 y 20 días de lluvias continuas para salir de esta sequía”, dice el experto.
-
-Para diciembre se prevé que mejore y que existan más lluvias, pero Guerrero estima que la **sequía hidrológica persista.**
-
-“Es una crisis climática. La dinámica atmosférica y los pronósticos son muy variables”.
-
-Guerrero indica que se puede asegurar una época de lluvias constantes, entre marzo y mayo de 2025.
-
-Tránsito cambia por nuevo intercambiador en la Occidental desde el 15 de noviembre
-==================================================================================
-
-El nuevo intercambiador conectará la avenida Mariana de Jesús con la Occidental.
---------------------------------------------------------------------------------
-
-![La construcción del nuevo intercambiador se inicia este 15 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/Intercambiador-Mariana-Jesus.jpg)
-
-El **Municipio de Quito** detalló los operativos para minimizar el impacto en el **tránsito vehicular** en las avenidas **Occidental** y **Mariana de Jesús[.](https://es.wikipedia.org/wiki/Enlace_viario "https://es.wikipedia.org/wiki/Enlace_viario")**
-
-Más noticias
-------------
-
-* [Quito tendrá un intercambiador en punto crítico de la av. Occidental](https://www.elcomercio.com/actualidad/quito/constuccion-intercambiador-occidental-mariana-jesus-quito.html "Quito tendrá un intercambiador en punto crítico de la av. Occidental")
-* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
-* [La Manzana, un nuevo parqueadero cerca de museos de Quito](https://www.elcomercio.com/actualidad/quito/manzana-parqueadero-museos-quito-centro-historico.html "La Manzana, un nuevo parqueadero cerca de museos de Quito")
-
-La construcción del **intercambiador** busca reducir los tiempos de desplazamiento en esta área de la ciudad.
-
-¿Cómo funcionará el tránsito durante la construcción del intercambiador?
-------------------------------------------------------------------------
-
-Los **trabajos** de **construcción** comenzarán el 15 de noviembre de 2024 y concluirán el 15 de julio de 2025.
-
-Durante este período, el **tránsito vehicular** mantendrá la circulación en ambos sentidos, aunque en el sentido norte-sur se desviarán los vehículos hacia la entrada de la universidad **UTE** hasta que se complete el **paso deprimido** alrededor de la **Mariana de Jesús**, según Claudia Otero, gerenta de la **Epmmop**.
-
-La Agencia Metropolitana de Tránsito (**AMT**) desplegará 13 agentes y 87 elementos logísticos, entre conos, vallas y señalética luminosa.
-
-Además, se realizará una campaña de socialización para orientar a los conductores sobre los desvíos necesarios.
-
-Washington Martínez, director de la **AMT**, recomendó el uso de vías alternas como la avenida América, **10 de Agosto** y **Amazonas**.
-
-¿Cómo será la construcción del intercambiador?
-----------------------------------------------
-
-La inversión para este intercambiador es de  3 576 106,93 dólares y busca mejorar la **movilidad** y **conectividad** para miles de quiteños, con un plazo de ejecución de 270 días.
-
-La construcción se desarrollará en tres fases para “asegurar la movilidad en la zona y minimizar el impacto en el tráfico”, dice el Municipio.
-
-Beneficios para conductores y peatones
---------------------------------------
-
-Esta obra facilitará la conexión de la avenida **Mariscal Sucre con la Occidental** y **Mariana de Jesús**, y contará con **infraestructura vial** y **peatonal**, así como paradas de transporte público en la intersección de las avenidas Mariscal Sucre, Mariana de Jesús y la calle Juan Acevedo, en la parroquia Belisario Quevedo.
-
-El proyecto incluye la construcción de ocho rampas y un paso deprimido, junto con un diseño integral que abarca estructura hidráulica, pavimento flexible, paradas de buses, iluminación, y señalización horizontal y vertical.
-
-Fases de construcción y rutas alternas
---------------------------------------
-
-La construcción avanzará en tres fases, cada una con ajustes temporales en el tránsito y rutas alternas, coordinadas con la Agencia Metropolitana de Tránsito y la Secretaría de Movilidad:
-
-* **Fase 1**: Intervención en el carril norte-sur de la Av. Mariscal Sucre. Se ampliará a tres carriles sobre el paso lateral actual para permitir el flujo vehicular mientras se construye la primera sección del ducto vial en sentido norte-sur.
-* **Fase 2**: Construcción de la segunda sección del ducto vial en sentido sur-norte, con habilitaciones temporales para mantener el flujo en la Av. Mariscal Sucre.
-* **Fase 3**: Ampliación del carril de conexión con la Av. Mariana de Jesús en sentido occidente-oriente. También se completarán obras complementarias, incluyendo áreas verdes, semaforización y señalización.
-
-¿Bolivia está en desventaja en Guayaquil ante Ecuador?
-======================================================
-
-Por decisión técnica y estratégica, la Selección de Ecuador cambió de sede para recibir a Bolivia.
---------------------------------------------------------------------------------------------------
-
-![Ecuador y Bolivia en un partido en el Monumental de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-95.jpg)
-
-La **Selección de Ecuador** regresa a la acción el próximo 14 de noviembre en la jornada 11 de las eliminatorias sudamericanas rumbo al **Mundial de 2026.** El compromiso será ante Bolivia.
-
-Para este encuentro, la Federación Ecuatoriana de Fútbol (FEF) **decidió cambiar la sede habitual** del combinado nacional: en lugar de jugar en el Estadio Rodrigo Paz Delgado de Quito, el partido se llevará a cabo en el Estadio Monumental de Guayaquil.
-
-### Más noticias:
-
-* [El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/el-calor-y-la-humedad-de-guayaquil-el-aliado-de-ecuador-ante-bolivia.html "El calor y la humedad de Guayaquil, el aliado de Ecuador ante Bolivia")
-* [¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-oscar-zambrano-dopaje.html "¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?")
-* [La Selección de Ecuador vs. Bolivia tendrá un árbitro ‘novato’](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-bolivia-arbitro-eliminatorias.html "La Selección de Ecuador vs. Bolivia tendrá un árbitro ‘novato’")
-
-La razón principal para este cambio es no darle ninguna ventaja al rival, **Bolivia**, que está acostumbrado a jugar en la altura y no experimenta el desgaste que enfrentan otras selecciones cuando visitan Quito.
-
-¿Bolivia está en desventaja?
-----------------------------
-
-Según **César Benalcáza**r, preparador físico de Mushuc Runa y con experiencia en otros equipos del fútbol ecuatoriano, **Bolivia no estará en desventaja física** al bajar a jugar en el llano.
-
-“Un jugador de altura que baja al llano tendrá un nivel más alto de hemoglobina, lo que le da una ventaja, como un **‘combustible’ adicional. Van a sentirse dopados de oxígeno**, corren más”, explicó a _EL COMERCIO_.
-
-No obstante, Benalcázar indicó que este efecto solo dura si se está en el llano un máximo de dos días; después de ese tiempo, los niveles de glóbulos rojos y oxigenación comienzan a normalizarse. El verdadero desafío para Bolivia s**erá la humedad y el calor, que pueden mitigarse “con una buena alimentación e hidratación”**, según el especialista.
-
-Para Ecuador, el **cambio de sede también resulta beneficioso**. La mayoría de los jugadores ecuatorianos militan en ligas de Europa o en ligas donde no hay altura, por lo que están acostumbrados a jugar en condiciones de calor y humedad.
-
-Detalles del partido
---------------------
-
-El partido entre Ecuador y Bolivia se disputará en el **Estadio Monumental de Guayaquil** el próximo jueves, 14 de noviembre.
-
-Este encuentro, parte de las eliminatorias para el **Mundial de 2026,** comenzará a las 19:00 (hora de Ecuador) y es clave para ambos equipos en la clasificación. **Ecuador** espera aprovechar el cambio de sede para reducir las ventajas de un rival acostumbrado a la altura.
-
-Moisés Caicedo se pierde escandalosa goleada del Chelsea
-========================================================
-
-El Chelsea de Moisés Caicedo venció por un marcador de 8-0 ante el Noah de Armenia en la UEFA Conference League.
-----------------------------------------------------------------------------------------------------------------
-
-![Cristopher Nkunku, compañero de Moisés Caicedo, celebra un gol en el Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T171627.665.jpg)
-
-El **Chelsea** confirmó su condición de máximo favorito para alzarse con la Liga Conferencia con una contundente goleada (8-0) sobre el Noah armenio, en un choque en el que los del italiano **Enzo Maresca** ya vencían por 4-0 apenas trascurridos los primeros veinte minutos de juego.
-
-Fiel reflejo de la distancia que separa en estos momentos al modesto conjunto armenio del Chelsea, pese a que los ‘blues’, como ya ocurrió en los dos primeras jornadas de la competición, alineó un once inicial completamente distinto al que acostumbra a jugar en el **campeonato liguero**.
-
-### Más noticias:
-
-* [Chelsea vs. Noah por la Conference League, ¿cuándo juegan?](https://www.elcomercio.com/deportes/futbol/chelsea-noah-conference-league-caicedo.html "Chelsea vs. Noah por la Conference League, ¿cuándo juegan?")
-* [Moisés Caicedo, el héroe del Chelsea ante el Manchester United](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-heroe-del-chelsea-ante-el-manchester-united.html "Moisés Caicedo, el héroe del Chelsea ante el Manchester United")
-* [(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea](https://www.elcomercio.com/deportes/futbol/video-moises-caicedo-celebro-su-cumpleanos-con-un-golazo-en-el-chelsea.html "(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea")
-
-Pero si algo le sobra a este **Chelsea**, tras gastarse lo inimaginable en los últimos años, son jugadores de renombre, lo que convierte a la ‘unidad B’ del conjunto londinense en una auténtica constelación de estrellas.
-
-Especialmente en ataque donde formó con jugadores de la talla del ucraniano **Mykhailo Mudryk**, el francés **Christopher Nkunku** o el portugués **João Félix,** sin olvidar, al joven delantero español Marc Guiu, de tan solo 18, por el que el Chelsea pagó este verano 6 millones de euros al Barcelona.
-
-João Félix se reivindica en el Chelsea
---------------------------------------
-
-Un **Guiu** que no desaprovechó los problemas del Noah en la salida de balón para firmar a los trece minutos de juego su primer tanto con la camiseta del equipo inglés en un encuentro oficial.
-
-Pero el internacional español sub 19 no fue el único que aprovechó la debilidad del conjunto armenio para reivindicarse ante el técnico **Enzo Maresca**, al que el portugués Joao Félix, que ya firmó un doblete ante el Panathinaikos, volvió a mandar un mensaje con los dos goles que anotó en los primeros cuarenta y cinco minutos[.](https://en.wikipedia.org/wiki/Chelsea_F.C. "https://en.wikipedia.org/wiki/Chelsea_F.C.")
-
-Los goles no pararon en el Chelsea de Moisés Caicedo
-----------------------------------------------------
-
-Una fiesta goleadora a la que se sumó también **Mudryk**, otro de los que quiere abandonar el papel de suplente al que se ha visto relegado, con un fantástico disparo desde fuera del área, que supuso el quinto de los seis goles (6-0) que el **Chelsea** anotó antes de llegar al descanso.
-
-Contundente marcador que pareció aplacar la voracidad de los jugadores con la excepción del francés **Christopher Nkunku** que no dejó de buscar su gol, una insistencia que finalmente encontró premio y por partida doble, ya que el delantero galo anotó los dos tantos, uno de ellos desde el punto de penalti, con los que el Chelsea redondeó la goleada (8-0).
-
-¿Cuánto debe llover en Quito para mantener el estado óptimo de las reservas de agua?
-====================================================================================
-
-Quito tiene racionamientos de agua en algunos barrios, en especial, en las zonas altas.
----------------------------------------------------------------------------------------
-
-![En Quito, la lluvia llega por pocos días.](https://www.elcomercio.com/wp-content/uploads/2024/11/Lluvia-en-Quito-reservas--1.jpg)
-
-En **Quito**, la falta de lluvias recientes generaron inquietud sobre el abastecimiento de agua en la ciudad[.](https://es.wikipedia.org/wiki/Lluvia "https://es.wikipedia.org/wiki/Lluvia")
-
-Más noticias
-------------
-
-* [Clima de Quito, entre los solazos y los aguaceros, la transición climática se mantiene](https://www.elcomercio.com/actualidad/quito/clima-quito-solazos-aguaceros-transicion-climatica.html "Clima de Quito, entre los solazos y los aguaceros, la transición climática se mantiene")
-* [Daniel Noboa condona deudas de Juntas de Agua](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-entrega-camionetas-y-condona-deudas-de-juntas-de-agua.html "Daniel Noboa condona deudas de Juntas de Agua")
-* [El agua es lo más buscado por las familias de Quito desde mediados de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-agua-racionamiento-barrios-quito.html "El agua es lo más buscado por las familias de Quito desde mediados de septiembre")
-
-Un técnico de la Empresa Pública Metropolitana de Agua Potable y Saneamiento (**Epmaps**) informó que, aunque las reservas están bajas, aún no han alcanzado niveles críticos gracias a un sistema de **conservación** implementado hace más de dos décadas.
-
-¿De dónde llega el agua a Quito?
---------------------------------
-
-**Quito** depende de cuatro sistemas principales para su **suministro de agua.** En la región oriental, se encuentran **Papallacta**, **La Mica Quito Sur** y **Pita Puengasí**. En la zona occidental se ubican sistemas menores entre el **Pichincha** y el **Atacazo**.
-
-Durante octubre y noviembre, estas fuentes recibieron precipitaciones por debajo de los niveles normales, lo cual afecta el caudal de las **reservas**. Por ejemplo, en **Papallacta** solo cayó el 54% de la lluvia habitual en un octubre promedio, y en **La Mica Quito Sur** se registró apenas el 28.5%.
-
-Cantidad de lluvia que necesita Quito para preservar sus reservas
------------------------------------------------------------------
-
-Para que las **cuencas hídricas** de **Quito** se recuperen a niveles normales, el técnico **Rafael Osorio,** de Epmaps, considera que se necesitan al menos 10 días consecutivos de lluvias con una precipitación diaria de entre 5 y 10 milímetros.
-
-Sin embargo, la inestabilidad del clima provoca que llueva dos días con poca intensidad y luego haya tres o cuatro días de sequía.
-
-Quito consume más agua de la que necesita
------------------------------------------
-
-Las altas temperaturas recientes también elevan el **consumo de agua** en **Quito**, alcanzando hasta 240 litros diarios por persona, superando los 170 litros habituales y el límite recomendado por la OMS de 100 litros.
-
-Este **consumo** **excesivo** hace que los tanques de distribución se vacíen rápidamente, afectando el suministro en las zonas altas de la ciudad, donde el sistema depende de bombas que son vulnerables a cortes de energía.
-
-**Epmaps** mantiene operativos permanentes para detectar fugas, realizar mantenimiento en las **tuberías** y mejorar la **infraestructura** en áreas de alta demanda.
-
-Sin embargo, también exhorta a la ciudadanía a reducir el **consumo**, especialmente en las zonas bajas, y evitar el desperdicio de **agua** en solidaridad con los residentes de las zonas altas, donde el suministro es menos constante.
-
-Para garantizar un **suministro** continuo en el Distrito Metropolitano de Quito, resulta fundamental que todos los habitantes usen el agua de manera racional y responsable.
-
-Rotura de tubería deja sin agua a parroquia de Quito
-====================================================
-
-La Epmaps aseguró que la rotura en la tubería Paluguillo-Tumbaco fue ocasionada por terceras personas.
-------------------------------------------------------------------------------------------------------
-
-![El servicio de agua potable en esta parroquia estará suspendido durante cuatro días](https://www.elcomercio.com/wp-content/uploads/2024/11/tuberia-rota-tumbaco-quito.jpg)
-
-La **Empresa Metropolitana de Agua Potable** y Saneamiento (Epmaps) informó que una parroquia de **Quito** no tendrá servicio durante al menos **cuatro días**, debido a la **rotura** **de una tubería** de la línea de transmisión Paluguillo-Tumbaco.
-
-### Más noticias
-
-* [Cortes de agua en Quito este jueves 7 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-jueves-7-de-noviembre.html "Cortes de agua en Quito este jueves 7 de noviembre")
-* [Cortes de luz para Quito este jueves 7 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-7-noviembre.html "Cortes de luz para Quito este jueves 7 de noviembre")
-* [Clima de Quito, entre los solazos y los aguaceros, la transición climática se mantiene](https://www.elcomercio.com/actualidad/quito/clima-quito-solazos-aguaceros-transicion-climatica.html "Clima de Quito, entre los solazos y los aguaceros, la transición climática se mantiene")
-
-De acuerdo con un comunicado difundido por la entidad, el problema fue **ocasionado por terceras personas** este jueves 7 de noviembre de 2024.
-
-La rotura de la línea de transmisión afectará a los moradores de la parroquia de **Tumbaco**.
-
-El servicio de **agua potable** será restablecido en este lugar de forma paulatina, durante la madrugada del **domingo 10 de noviembre**.
-
-Mientras tanto, el líquido vital será abastecido a través de **tanqueros**, detalló la Epmaps.
-
-Desde este jueves, personeros de la empresa municipal trabajan en la **reparación de la avería**. La Epmaps ofreció disculpas a la ciudadanía por las molestias ocasionadas.
-
-> 📄 [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Estamos trabajando en la reparación de una rotura que afecta a la parroquia de Tumbaco.  
->   
-> Abasteceremos de agua potable a través de tanqueros mientras se restablece el servicio.  
->   
-> Ofrecemos disculpas por las molestias.[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/APzhHNe4om](https://t.co/APzhHNe4om)
-> 
-> — Epmaps – Agua de Quito (@aguadequito) [November 7, 2024](https://twitter.com/aguadequito/status/1854605462295265404?ref_src=twsrc%5Etfw)
-
-Cortes de agua en 18 barrios de Quito
--------------------------------------
-
-Además de los cortes de agua en Tumbaco, la Epmaps tiene programadas suspensiones del **servicio** en **18 barrios** de Quito, este jueves 7 de noviembre.
-
-Los cortes de agua potable están relacionados con los **apagones energéticos** que realiza el Gobierno en la ciudad y Ecuador.
-
-Los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto, debido a que a estas zonas el líquido llega mediante **bombeo** eléctrico[.](https://www.aguaquito.gob.ec/cortes-agua/ "https://www.aguaquito.gob.ec/cortes-agua/")
-
-En estos sectores el servicio es distribuido a través de tanqueros.
-
-### Parroquias con cortes de agua
-
-**00:00 a 05:00**
-
-* Chilibulo
-* La Libertad
-* San Juan
-
-**00:00 a 03:00**
-
-* Chilibulo
-* Conocoto
-* La Argelia
-* La Ferroviaria
-* Quitumbe
-
-**06:00 a 09:00**
-
-* Belisario Quevedo
-* Rumipamba
-* San Juan
-* Cochapamba
-
-**03:00 a 06:00 y de 09:00 a 12:00**
-
-* Conocoto
-* La Ferroviaria
-* Puengasí
-
-**03:00 a 06:00 y de 13:00 a 18:00**
-
-* Belisario Quevedo
-* Rumipamba
-* San Juan
-
-El truco de lavadora que deja la ropa impecable y ahorra energía
-================================================================
-
-Te permitirá ahorrar energía porque puede disminuir el tiempo de lavado en el electrodoméstico.
------------------------------------------------------------------------------------------------
-
-![Sencillo elemento que debes colocar en la lavadora y que ayuda a ahorrar energía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2-1.jpg)
-
-Dentro de la **rutina** de **limpieza** en el **hogar** se debe tener en cuenta el **lavado** de la **ropa**, la cual necesita de **cuidados** específicos para que esta no se dañe, no pierda su color, no pierda su forma o **elasticidad** y no quede **manchada** por los productos o las comidas.
-
-### Más noticias
-
-* [Unos 16 000 clientes de telefonía fija y 37 000 de móvil continúan afectados tras la DANA](https://www.elcomercio.com/actualidad/mundo/16-000-clientes-telefonia-fija-37-000-movil-continuan-afectados-tras-dana.html "Unos 16 000 clientes de telefonía fija y 37 000 de móvil continúan afectados tras la DANA")
-* [Comisión aprobó informe para segundo debate del proyecto urgente sobre energía](https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html "Comisión aprobó informe para segundo debate del proyecto urgente sobre energía")
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-
-Por esto se aconseja que se **clasifiquen** las **prendas** por colores, evitar meter a la **lavadora** las blusas que son delicadas, utilizar los programas adecuados de su **electrodoméstico**, disminuir la frecuencia del lavado con **agua caliente** y dejarlas secar al aire libre, según manifiesta la empresa Eureda Textil.
-
-Sin embargo, algunas **prendas** pueden presentar **manchas difíciles** de quitar, como las que dejan las comidas o el desodorante, para esto, puede emplear un **ingrediente** que se encuentra en cualquier supermercado, ya que no es difícil de adquirir.
-
-El elemento que le ayudará a limpiar la ropa y ahorrar energía
---------------------------------------------------------------
-
-Uno de los **productos** que son reconocidos por su **efecto desinfectante** es el vinagre, el cual ha sido utilizado por diferentes personas para e**liminar las manchas difíciles de la ropa,** el cual se debe emplear cuando la **lavadora** esté en el ciclo de aclarado, de acuerdo con ‘Consumo Claro’.
-
-Lo ideal es que vierta una taza sobre las prendas y deje que la máquina realice su trabajo; esto no solo le ayudará a eliminar las marcas, sino que también retirará los **restos incrustados de detergente**, la **suavizará y neutralizará** los malos olores.
-
-> [@valbarrales](https://www.tiktok.com/@valbarrales?refer=embed "@valbarrales")
-> 
-> Sustituye el suavizante de telas🏡 [#hogar](https://www.tiktok.com/tag/hogar?refer=embed "hogar") [#limpieza](https://www.tiktok.com/tag/limpieza?refer=embed "limpieza") [#vinagre](https://www.tiktok.com/tag/vinagre?refer=embed "vinagre") [#vinagreblanco](https://www.tiktok.com/tag/vinagreblanco?refer=embed "vinagreblanco") [#suavizante](https://www.tiktok.com/tag/suavizante?refer=embed "suavizante") [#natural](https://www.tiktok.com/tag/natural?refer=embed "natural") [#ahorro](https://www.tiktok.com/tag/ahorro?refer=embed "ahorro") [#economizar](https://www.tiktok.com/tag/economizar?refer=embed "economizar") [#2024](https://www.tiktok.com/tag/2024?refer=embed "2024") [#srajoven](https://www.tiktok.com/tag/srajoven?refer=embed "srajoven") [#cuestadeenero](https://www.tiktok.com/tag/cuestadeenero?refer=embed "cuestadeenero") [#valbarrales](https://www.tiktok.com/tag/valbarrales?refer=embed "valbarrales") [#tips](https://www.tiktok.com/tag/tips?refer=embed "tips") [#hacksoflife](https://www.tiktok.com/tag/hacksoflife?refer=embed "hacksoflife") [#productosdelimpieza](https://www.tiktok.com/tag/productosdelimpieza?refer=embed "productosdelimpieza")
-> 
-> [♬ original sound – Val Barrales-Tips de #srajoven](https://www.tiktok.com/music/original-sound-7320081767029345030?refer=embed "♬ original sound - Val Barrales-Tips de #srajoven")
-
-Vinagre blanco y bicarbonato, aliados eficaces en la limpieza de ropa y calzado
--------------------------------------------------------------------------------
-
-A esto también puede agregarle un poco de **bicarbonato de sodio,** ya que los dos ingredientes suelen tener un efecto más efectivo a la hora de **limpiar las prendas**, por esto también se suele emplear en la limpieza del calzado deportivo.
-
-Cabe destacar que el **vinagre** que se recomienda **utilizar** es el **blanco destilado**, que a diferencia del balsámico o el de manzana, este **producto** no contiene colorantes o aditivos que aumenten la probabilidad de que aparezcan nuevas manchas en su ropa, según ‘Clarín’.
-
-Además, cuenta con una acidez del 5 por ciento que lo hace lo suficientemente **potente** para limpiar y **desinfectar** con la característica de que cuida sus tejidos de los daños, lo cual también lo hace ideal para utilizarlo en los muebles.
-
-Evita el robo de tu cuenta de Spotify con estos consejos 
-=========================================================
-
-La cuenta de Spotify puede protegerse con estrategias efectivas.
-----------------------------------------------------------------
-
-![Spotity también puede ser vulnerable a ataques de ‘hackers’ y ciberdelincuentes. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/spotify-robo-cuenta.jpg)
-
-**Spotify** se ha consolidado como uno de los **servicios de ‘streaming’ musical más populares a nivel mundial**. Con más de **220 millones de suscriptores**, su crecimiento ha atraído la atención de ciberdelincuentes. El **robo de cuentas de Spotify** afecta no solo a los usuarios, sino también a la **industria musical**, ya que las cuentas robadas pueden ser utilizadas para **manipular cifras de ‘streaming’** y aumentar artificialmente las reproducciones de ciertas canciones. 
-
-### Más noticias
-
-* [¿Qué ofrece Spotify además de música?](https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html "https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html")
-* [Cómo detectar si WhatsApp está activo en otro dispositivo](https://www.elcomercio.com/tecnologia/whatsapp-dispositivos-vinculados-seguridad.html "https://www.elcomercio.com/tecnologia/whatsapp-dispositivos-vinculados-seguridad.html")
-
-**¿Por qué son robadas las cuentas de Spotify?** 
--------------------------------------------------
-
-Las **cuentas de Spotify** son un objetivo atractivo para los **ciberdelincuentes** debido a su **valor en la ‘dark web’**, donde pueden ser **vendidas a precios inferiores a los oficiales**. Las **cuentas Premium**, en particular, son codiciadas por **permitir el acceso a funciones sin costo adicional**, según [Techtegia](https://techtegia.com/2024/09/protege-tu-cuenta-de-spotify-consejos-para-evitar-el-robo/ "https://techtegia.com/2024/09/protege-tu-cuenta-de-spotify-consejos-para-evitar-el-robo/"). Las técnicas más comunes utilizadas para robar cuentas incluyen el ‘phishing’, las filtraciones de datos, el uso de aplicaciones no oficiales y la instalación de ‘malware’ en dispositivos, a decir de [Welivesecurity](https://www.welivesecurity.com/es/seguridad-digital/como-roban-cuentas-spotify-como-evitarlo/ "https://www.welivesecurity.com/es/seguridad-digital/como-roban-cuentas-spotify-como-evitarlo/"). 
-
-**Indicadores de un posible robo** 
------------------------------------
-
-Existen ciertos signos que pueden indicar que una cuenta ha sido comprometida: 
-
-* **Cambios en la suscripción:** Modificaciones inesperadas en el plan. 
-
-* **Alteraciones en listas de reproducción:** Modificaciones o eliminaciones sin consentimiento. 
-
-* **Reproducciones aleatorias:** Canciones reproducidas sin selección. 
-
-* **Inicios de sesión desconocidos:** Notificaciones sobre accesos desde dispositivos no reconocidos. Si alguno de estos problemas ocurre, es posible que la cuenta haya sido robada. 
-
-**Estrategias para proteger la cuenta** 
-----------------------------------------
-
-Para evitar ser **víctima de ciberataques**, es fundamental **proteger la cuenta de Spotify.** A continuación, algunas recomendaciones: 
-
-* **Utilizar contraseñas seguras:** Crear contraseñas únicas y complejas, que combinen letras mayúsculas y minúsculas, números y caracteres especiales. No utilizar la misma contraseña en diferentes servicios. 
-
-* **Activar la autenticación de dos factores:** Esta medida agrega una capa adicional de seguridad, ya que requiere un código adicional al iniciar sesión. 
-
-* **Desconfiar de correos electrónicos sospechosos:** No hacer clic en enlaces ni descargar archivos adjuntos provenientes de correos electrónicos dudosos. 
-
-* **Descargar aplicaciones solo desde fuentes oficiales:** Evitar aplicaciones no oficiales que prometen acceso gratuito a funciones premium. 
-
-* **Mantener el dispositivo actualizado:** Instalar las últimas actualizaciones de seguridad en el sistema operativo y aplicaciones. 
-
-* **Utilizar un antivirus confiable:** Proteger los dispositivos con un buen software antivirus para detectar y eliminar ‘malware’. 
-
-* **No compartir la cuenta:** Aunque se confíe en las personas cercanas, compartir credenciales pone en riesgo la seguridad de la cuenta. 
-
-**Qué hacer si la cuenta es robada** 
--------------------------------------
-
-Si se sospecha que **una cuenta ha sido ‘hackeada’**, se deben seguir los siguientes pasos: 
-
-* **Cambiar la contraseña inmediatamente:** Acceder a la página “Restablecer contraseña” y seguir las instrucciones para crear una nueva. 
-
-* **Cerrar sesión en todos los dispositivos:** Esto evitará que usuarios no autorizados accedan a la cuenta mientras se cambia la contraseña. 
-
-* **Revocar el acceso a aplicaciones de terceros:** Eliminar el acceso de cualquier aplicación externa conectada a Spotify desde la configuración de la cuenta. 
-
-* **Contactar al soporte técnico si es necesario:** Si las credenciales fueron cambiadas por el ‘hacker’, se debe contactar con el equipo de asistencia para recuperar el acceso a la cuenta. 
-
-Kylian Mbappé vuelve a quedar fuera de la Selección de Francia
-==============================================================
-
-Kylian Mbappé, delantero de la Selección de Francia, volvió a quedar fuera de la convocatoria de Didier Deschamps.
-------------------------------------------------------------------------------------------------------------------
-
-![Kylian Mbappé, figura del Real Madrid, en un partido de la Selección de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T163640.939.jpg)
-
-El delantero francés del Real Madrid **Kylian Mbappé** no figura en la lista de convocados del seleccionador, Didier Deschamps, para los dos próximos partidos de Francia en la Liga de las Naciones, contra Israel e Italia.
-
-Es la **segunda convocatoria** consecutiva en la que no figura el capitán de los “bleus”, aunque, a diferencia de la de octubre pasado, el atacante no arrastra ningún problema físico, de forma oficial.
-
-El seleccionador evitó explicar los motivos de la ausencia de **Mbappé**, pero señaló que es “puntual”, que el jugador quería acudir y que “nada tiene que ver con motivos extradeportivos, porque en eso prevalece la presunción de inocencia”, en una clara relación a una investigación judicial que podría tener pendiente el delantero en Suecia.
-
-### Más noticias:
-
-* [La Selección de Francia deja fuera a Kylian Mbappé](https://www.elcomercio.com/deportes/seleccion-francia-kylian-mbappe-convocatoria.html "La Selección de Francia deja fuera a Kylian Mbappé")
-* [¿Cuándo juega la Selección de Ecuador contra Bolivia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-bolivia-horario-dia.html "¿Cuándo juega la Selección de Ecuador contra Bolivia?")
-* [Abogada de Mbappé se pregunta si el caso en Suecia es una “trampa”](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-suecia-denuncia-violacion.html "Abogada de Mbappé se pregunta si el caso en Suecia es una “trampa”")
-
-Según varios medios de ese país, el delantero del **Real Madrid** está siendo objeto de una investigación por una presunta violación durante una estancia que tuvo lugar a mediados de octubre.
-
-**Deschamps** afrontó una situación embarazosa ante las numerosas preguntas sobre la ausencia del capitán, que tuvo dificultades para explicar.
-
-¿Por qué quedó fuera Kylian Mbappé de la Selección de Francia?
---------------------------------------------------------------
-
-“**He mantenido varias conversaciones con él, he reflexionado y he tomado esta decisión porque creo que es lo mejor**“, dijo, una fórmula ambigua que repitió en varias ocasiones, al tiempo que señaló que el futbolista “no tiene por qué estar de acuerdo” con él.
-
-El seleccionador aseguró que no tenía intención de argumentar más su decisión, reconoció que “no es suficiente” pero dijo que de hacerlo “**podría llevar a otras interpretaciones**“. “No voy a decir más, asumo esta decisión, punto”, añadió.
-
-Deschamps trató de desvincular esa ausencia del rendimiento deportivo del jugador, aunque reconoció que “ahora **atraviesa un momento de menor eficacia** y es lógico que sea juzgado por ello”.
-
-Pero indicó que el debate sobre su posición de delantero centro en el **Real Madrid** no le atañe: “Ya ha jugado ahí en París y con nosotros, tiene calidad para marcar en diferentes sistemas”.
-
-Una dura decisión
------------------
-
-El seleccionador aseguró que en su carrera ha tenido que tomar “**decisiones duras**” y que las asume totalmente, pese a que “al fin y al cabo afectan a seres humanos”, pero que sus consecuencias dependen “de la sensibilidad de unos y otros”.
-
-El mes pasado, Mbappé no fue convocado tras haber superado una lesión que sufrió el 23 de septiembre que le hizo perderse el derbi contra el **Atlético de Madrid.**
-
-“No quiero correr riesgos”, dijo entonces Deschamps. Pero el técnico blanco, **Carlo Ancelotti**, le puso en el segundo tiempo contra el Lille y, dos días más tarde de la conferencia de prensa del seleccionador galo, en su once inicial contra el Villarreal.
-
-¿Hubo sorpresas en la Francia?
-------------------------------
-
-Aquellos hechos abrieron un profundo debate sobre el compromiso del delantero con la selección, que ahora se reaviva con esta nueva ausencia, sin que sufra ningún problema físico.
-
-El resto de la convocatoria no tiene grandes sorpresas, con el retorno del veterano **Ngolo Kanté**, la ausencia por lesión del madridista **Aurélien Tchouameni**, y la primera convocatoria del portero del Lille **Lucas Chevalier**, tras sus grandes actuaciones europeas[.](https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9 "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9")
-
-En la lista del seleccionador figura el defensa barcelonista **Jules Koundé** y el centrocampista madridista **Eduardo Camavinga**.
-
-Nómina de la Selección de Francia
----------------------------------
-
-**Porteros**: Mike Maignan (Milan/ITA), Brice Samba (Lens/FRA), Lucas Chevalier (Lille/FRA).
-
-**Defensas**: Jonathan Clauss (Niza/FRA), Lucas Digne (Aston Villa/ING), Wesley Fofana (Chelsea/ING), Theo Hernandez (Milan/ITA), Ibrahima Konaté (Liverpool/ING), Jules Koundé (Barcelona/ESP), William Saliba (Arsenal/ING), Dayot Upamecano (Bayern Múnich/ALE).
-
-**Centrocampistas**: Eduardo Camavinga (Real Madrid/ESP), Mattéo Guendouzi (Lazio Roma/ITA), N’Golo Kanté (Al-Ittihad/ARS), Manu Koné (Roma/ITA), Adrien Rabiot (Marsella/FRA), Warren Zaïre-Emery (París-SG/FRA).
-
-**Delanteros**: Bradley Barcola (París-SG/FRA), Ousmane Dembélé (París-SG/FRA), Randal Kolo Muani (París-SG/FRA), Christopher Nkunku (Chelsea/ING), Michael Olise (Bayern Múnich/ALE), Marcus Thuram (Inter Milán/ITA).
