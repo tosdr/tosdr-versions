@@ -151,7 +151,7 @@ Free standard shipping on any $35 purchase
             
         * [Virtual Try-On](https://www.ulta.com/discover/glamlab)
             
-        * [Makeup Obsession](https://www.ulta.com/discover/best-cosmetic-makeup-products)
+        * [Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
             
@@ -508,27 +508,27 @@ Free standard shipping on any $35 purchase
             * [After Sun Care](https://www.ulta.com/shop/body-care/suncare/after-sun-care)
                 
             
-        * [### Self Care & Wellness](https://www.ulta.com/shop/body-care/self-care-wellness)
+        * [### Self Care & Wellness](https://www.ulta.com/shop/wellness-shop)
             
             * [Body Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/body-treatments)
                 
-            * [Supplements](https://www.ulta.com/shop/body-care/self-care-wellness/supplements)
+            * [Supplements](https://www.ulta.com/shop/wellness-shop/supplements)
                 
-            * [Aromatherapy](https://www.ulta.com/shop/body-care/self-care-wellness/aromatherapy)
+            * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew/aromatherapy)
                 
-            * [Deodorant](https://www.ulta.com/shop/body-care/self-care-wellness/deodorant)
+            * [Deodorant](https://www.ulta.com/shop/wellness-shop/everyday-care/deodorant)
                 
-            * [Hair Removal](https://www.ulta.com/shop/body-care/self-care-wellness/hair-removal)
+            * [Hair Removal](https://www.ulta.com/shop/wellness-shop/everyday-care/hair-removal)
                 
-            * [Oral Care](https://www.ulta.com/shop/body-care/self-care-wellness/oral-care)
+            * [Oral Care](https://www.ulta.com/shop/wellness-shop/everyday-care/oral-care)
                 
-            * [Sleep Essentials](https://www.ulta.com/shop/body-care/self-care-wellness/sleep-essentials)
+            * [Sleep Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/sleep-essentials)
                 
-            * [Spa Essentials](https://www.ulta.com/shop/body-care/self-care-wellness/spa-essentials)
+            * [Spa Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/spa-essentials)
                 
-            * [Down There Care](https://www.ulta.com/shop/body-care/self-care-wellness/down-there-care)
+            * [Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
                 
-            * [Intimate Wellness](https://www.ulta.com/shop/body-care/self-care-wellness/intimate-wellness)
+            * [Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
                 
             
         * [### Bath & Body Accessories](https://www.ulta.com/shop/body-care/bath-body-accessories)
@@ -558,7 +558,7 @@ Free standard shipping on any $35 purchase
             
         * [Travel Size & Mini](https://www.ulta.com/shop/body-care/travel-size-body-care)
             
-        * [The Wellness Shop](https://www.ulta.com/discover/wellness)
+        * [The Wellness Shop](https://www.ulta.com/shop/wellness-shop)
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
@@ -1045,7 +1045,7 @@ Free standard shipping on any $35 purchase
             
         * [### Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
             
-        * [### Curly Textured Hair](https://www.ulta.com/discover/curly-textured-hair-products)
+        * [### Curly Textured Hair](https://www.ulta.com/discover/hair/curly-textured-hair-products)
             
         
     * Quizzes
@@ -1093,7 +1093,7 @@ Free standard shipping on any $35 purchase
             
         * [### Black Beauty](https://www.ulta.com/discover/beauty-without-limits/black-beauty)
             
-        * [### Latin Heritage](https://www.ulta.com/discover/beauty-without-limits/latin-heritage)
+        * [### Latin Heritage](https://www.ulta.com/discover/beauty-without-limits/latino-hispanic-beauty)
             
         * [### AAPI-Owned & Founded](https://www.ulta.com/discover/beauty-without-limits/asian-pacific-american)
             
