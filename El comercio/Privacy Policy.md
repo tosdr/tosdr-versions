@@ -31,6 +31,99 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra
+=====================================================================
+
+En cuanto a la posibilidad de compra de energía a Colombia, Manzano señaló que Ecuador cuenta con el apoyo del Gobierno colombiano.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Foto referencial. Ecuador atraviesa una crisis energética con cortes de luz de hasta seis horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-aumentan.jpg)
+
+Este viernes 8 de noviembre de 2024, la ministra de Energía encargada, **Inés Manzano**, se refirió a la crisis energética que atraviesa Ecuador y a los **cortes de luz.**
+
+### Más noticias
+
+* [Cortes de luz en Quito este viernes 8 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-viernes-8-noviembre.html "Cortes de luz en Quito este viernes 8 de noviembre")
+* [Daniel Noboa envió proyecto de ley sobre lavado de activos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-envio-proyecto-ley-lavado-activos.html "Daniel Noboa envió proyecto de ley sobre lavado de activos")
+* [Así funciona el Pico y placa en Quito este viernes 8 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-viernes-8-de-noviembre.html "Así funciona el Pico y placa en Quito este viernes 8 de noviembre")
+
+Horas de cortes de luz aumentan
+-------------------------------
+
+En una entrevista otorgada la mañana de hoy a Ecuavisa, la **ministra Manzano** comentó que las horas de los cortes de luz aumentarán a ocho horas. Según Manzano, el país no tiene las condiciones adecuadas para poder mantener cortes de luz de seis horas.
+
+La ministra señaló que se hace un **monitoreo diario** de las condiciones hídricas para poder establecer los cronogramas de suspensión eléctrica.
+
+Con base en estas evaluaciones se **establecen cronogramas** en bloques que van de domingo a jueves, para que se puedan programas las actividades.
+
+Debido a que las **lluvias están previstas** solamente durante el próximo fin de semana, es necesario cuidar la poca cantidad de agua que existe en los embalses.
+
+La Ministra agradeció el apoyo del **sector industrial** y recalcó que se toma en cuenta a su sector para programar los cortes de luz.
+
+En cuanto a la posibilidad de compra de energía a Colombia, **Manzano señaló que Ecuador cuenta** con el apoyo del Gobierno colombiano.
+
+Señaló que mantiene **conversaciones diarias** con el presidente de Ecopetrol y se está conversando un contrato con el agente comercializador **Ecopetrol,** que es una empresa privada.
+
+Según estas negociaciones, **Ecopetrol entregará 70 megavatios** y Termocentro, 125. Con ello se completarán 195 megavatios con los que se contará a partir de la próxima semana.
+
+La Ministra de Energía resaltó que **Termoesmeraldas** está aportando 100 megas y que en 20 días, aproximadamente, una nueva barcaza se sumará a la [producción.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Así funciona el Pico y placa en Quito este viernes 8 de noviembre
+=================================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se aplica en Quito como una medida para controlar el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/11/Pico-placa-transito.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [Posibles lluvias se esperan en Quito, a pesar del sol, la tarde de este jueves 7 de noviembre](https://www.elcomercio.com/actualidad/quito/posibles-lluvias-quito-a-pesar-de-sol-jueves-7-de-noviembre-pronostico.html "Posibles lluvias se esperan en Quito, a pesar del sol, la tarde de este jueves 7 de noviembre")
+* [Cortes de agua en Quito este jueves 7 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-jueves-7-de-noviembre.html "Cortes de agua en Quito este jueves 7 de noviembre")
+* [Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores](https://www.elcomercio.com/actualidad/quito/alarmantes-indicadores-calidad-aire-quito-uso-generadores.html "Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores")
+
+Horarios de Pico y placa
+------------------------
+
+Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/UFguFjnMCB](https://t.co/UFguFjnMCB)
+> 
+> — AMTQuito (@AMT\_Quito) [October 18, 2024](https://twitter.com/AMT_Quito/status/1847210996382740688?ref_src=twsrc%5Etfw)
+
 La elección en EE.UU. dejó lecciones a políticos y celebridades
 ===============================================================
 
@@ -81,31 +174,6 @@ Estas consecuencias resaltan la **necesidad** de una **respuesta integral** que 
 
 La **regulación** y la **intervención gubernamental** son necesarias para mitigar estos **efectos**, replanteando las **políticas energéticas**, buscando diversificación y sostenibilidad a largo plazo. Lo contrario puede erosionar la confianza pública, provocar descontento y afectar la **estabilidad política.**
 
-Cartas a Quito / 8 de noviembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este viernes 8 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-¿Por qué votar, si todos son los mismos? Nada cambia
-----------------------------------------------------
-
-Es que tenemos que hacer consciencia de que si no salimos a votar lo harán los que son convencidos de la línea política del correismo. Ellos son adoctrinados por interés y hasta agrupaciones políticas que obligan a que acuden a votar. Mientras la mayoría desconfiada y apática como no ven cambios en la situación del país y muchos decepcionados optan por no salir. Que todos son y van por lo mismo. Pero, en este caso, se tiene que hacerlo porque, los correistas, aunque sea con un porcentaje minino, ganan. Y como ahora están divididos en diferentes agrupaciones, como representantes a la Asamblea o candidato a Presidente les interesa que votemos ya sea por uno o por otro; no les importa porque son de la misma ideología en diferentes agrupaciones. Y a la final se unen para hacer mayoría parlamentaria. En esta ocasión, se vota por Presidente y toda la lista para asambleístas, ya no se puede escoger
-
-Así que joven preparado, enséñales a tus abuelitos y a tus padres, la obligación cívica de defender la democracia y que deben salir a ejercer su derecho y con su voto expresar sus anhelos de un verdadero cambio en el país.
-
-No permitir que nos sigan engañando, como cuando los españoles llegaron a América y engañaron a nuestros indígenas con baratijas para despojarlos luego de sus tierras. Confiamos que será una demostración cívica, democrática, que no dará motivo para que puedan hacer ninguna triquiñuela y por contundente votación, en primera vuelta misma, tengamos al presidente y los representantes para la Asamblea, que van a cumplir con las expectativas de mejorar la situación de todos los ecuatorianos.
-
-Debes salir a votar convencido que con tu voto vas a hacer que el país cambie. Que con tu voto vas a apoyar a la gran mayoría que siente que este joven, inteligente, preparado, puede darnos la esperanza de hacer que los recursos con que cuenta el país puedan ser manejados en beneficio de hacer las grandes obras, sin sobreprecio, y lograr parar el avance del narcotráfico, de las extorsiones, del lavado de dinero y hacernos sentir seguros y protegidos y que tanto el industrial como el pequeño productor pueda ganarse el sustento diario sin ser extorsionado y nuestros hijos puedan tener la oportunidad de estudiar en un ambiente de tranquilidad y ser alguien en la vida y que todo cuanta obra se haga, sea con la honorabilidad y honradez propia de su forma de ser.
-
-Vamos todos a salir a votar para que nunca más el Ecuador sea engañado y que de aquí en adelante se ponga claro en la constitución los requisitos que debe tener el candidato a Presidente de la República, el representante a la Asamblea Nacional, Alcaldes, Prefectos, los partidos políticos, los diferentes organismos de control, los jueces y órganos judiciales.
-
-No esperemos a última hora acudir a votar, sino desde temprano así tengamos que hacer cola de espera; pero hagamos de este momento cívico, el más recordado de la historia, porque nos jugamos nuestro futuro en libertad o sometidos a un régimen tipo socialista. Vamos a salir a votar los jóvenes, mujeres, los jubilados, aunque no es obligación, pero por civismo lo vamos a hacer. Como demostración a la juventud que a la Patria se la defiende hasta el último.
-
-Lionel Efraín Romero Reyes
-
 La maduración de nuevas tecnologías
 ===================================
 
@@ -131,6 +199,31 @@ Los **operadores tradicionales de tecnología** están incorporando funciones de
 La **problemática** de todo este proceso es que viene acompañado una gran demanda de **energía** que principalmente debe ser suplida con **energías limpias y renovables**. Esto está generando una crisis y necesidad de **modernización** de todo lo que son **redes** y **distribución**. Hoy el mundo y su transformación hacia **equipos electrónicos**, hacia **automóviles eléctricos** y múltiples otros usos de la **electricidad** han dicho que esta **demanda** se acelere, pero que cumpla con los **requisitos de la sostenibilidad**, **sustentabilidad** y defensa del **medioambiente**.
 
 A esto nace una nueva familia de **procesadores** que son las **computadoras** en Exa-escala capaces de realizar un quintillón, es decir, 1000 millones de cálculos por segundo creado por Google, que le hace muy superior a todo lo creado anteriormente (tema de una nueva entrega) pero qué pondrán aún más presión sobre la disponibilidad energética.
+
+Cartas a Quito / 8 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este viernes 8 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+¿Por qué votar, si todos son los mismos? Nada cambia
+----------------------------------------------------
+
+Es que tenemos que hacer consciencia de que si no salimos a votar lo harán los que son convencidos de la línea política del correismo. Ellos son adoctrinados por interés y hasta agrupaciones políticas que obligan a que acuden a votar. Mientras la mayoría desconfiada y apática como no ven cambios en la situación del país y muchos decepcionados optan por no salir. Que todos son y van por lo mismo. Pero, en este caso, se tiene que hacerlo porque, los correistas, aunque sea con un porcentaje minino, ganan. Y como ahora están divididos en diferentes agrupaciones, como representantes a la Asamblea o candidato a Presidente les interesa que votemos ya sea por uno o por otro; no les importa porque son de la misma ideología en diferentes agrupaciones. Y a la final se unen para hacer mayoría parlamentaria. En esta ocasión, se vota por Presidente y toda la lista para asambleístas, ya no se puede escoger
+
+Así que joven preparado, enséñales a tus abuelitos y a tus padres, la obligación cívica de defender la democracia y que deben salir a ejercer su derecho y con su voto expresar sus anhelos de un verdadero cambio en el país.
+
+No permitir que nos sigan engañando, como cuando los españoles llegaron a América y engañaron a nuestros indígenas con baratijas para despojarlos luego de sus tierras. Confiamos que será una demostración cívica, democrática, que no dará motivo para que puedan hacer ninguna triquiñuela y por contundente votación, en primera vuelta misma, tengamos al presidente y los representantes para la Asamblea, que van a cumplir con las expectativas de mejorar la situación de todos los ecuatorianos.
+
+Debes salir a votar convencido que con tu voto vas a hacer que el país cambie. Que con tu voto vas a apoyar a la gran mayoría que siente que este joven, inteligente, preparado, puede darnos la esperanza de hacer que los recursos con que cuenta el país puedan ser manejados en beneficio de hacer las grandes obras, sin sobreprecio, y lograr parar el avance del narcotráfico, de las extorsiones, del lavado de dinero y hacernos sentir seguros y protegidos y que tanto el industrial como el pequeño productor pueda ganarse el sustento diario sin ser extorsionado y nuestros hijos puedan tener la oportunidad de estudiar en un ambiente de tranquilidad y ser alguien en la vida y que todo cuanta obra se haga, sea con la honorabilidad y honradez propia de su forma de ser.
+
+Vamos todos a salir a votar para que nunca más el Ecuador sea engañado y que de aquí en adelante se ponga claro en la constitución los requisitos que debe tener el candidato a Presidente de la República, el representante a la Asamblea Nacional, Alcaldes, Prefectos, los partidos políticos, los diferentes organismos de control, los jueces y órganos judiciales.
+
+No esperemos a última hora acudir a votar, sino desde temprano así tengamos que hacer cola de espera; pero hagamos de este momento cívico, el más recordado de la historia, porque nos jugamos nuestro futuro en libertad o sometidos a un régimen tipo socialista. Vamos a salir a votar los jóvenes, mujeres, los jubilados, aunque no es obligación, pero por civismo lo vamos a hacer. Como demostración a la juventud que a la Patria se la defiende hasta el último.
+
+Lionel Efraín Romero Reyes
 
 Daniel Noboa envió proyecto de ley sobre lavado de activos
 ==========================================================
@@ -909,81 +1002,3 @@ El mecanismo establece la **restructuración de deudas** y diferimiento de cuota
 El diferimiento de pagos de cuotas de créditos vigentes se realizará hasta los **90 días**.
 
 La resolución establece que las entidades financieras podrán refinanciar o reestructurar operaciones de crédito con saldos vencidos entre el **10 de agosto de 2023 y el 31 de octubre de 2024**, siempre que el deudor lo solicite y acuerde con la institución.
-
-Sebastián Beccacece adelanta trabajos para Selección de Ecuador
-===============================================================
-
-Sebastián Beccacece, DT de la Selección de Ecuador, ya se encuentra en Guayaquil con su equipo y trabaja con los espárrines del equipo.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador, comanda una práctica en Guayaquil con los espárrines de la Tri.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-07T180831.350.jpg)
-
-El regreso de la **Selección de Ecuador** a eliminatorias está cada vez más cerca y **Sebastián Beccacece** ya inició sus trabajos. Pese a que aún no se revela la lista de convocados, el entrenador argentino trabaja con espárrines del equipo y el cuerpo técnico de la sub-15 y sub-17.
-
-La mañana de este jueves 7 de noviembre, el grupo realizó su práctica en el **Estadio George Capwell** de **Emelec** en Guayaquil. Los entrenamientos se realizan en la ciudad portuaria dado que allí disputará la Tri su siguiente compromiso ante Bolivia.
-
-### Más noticias:
-
-* [¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-oscar-zambrano-dopaje.html "¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?")
-* [La Selección de Ecuador vs. Bolivia tendrá un árbitro ‘novato’](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-bolivia-arbitro-eliminatorias.html "La Selección de Ecuador vs. Bolivia tendrá un árbitro ‘novato’")
-* [¿Cuándo juega la Selección de Ecuador contra Bolivia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-bolivia-horario-dia.html "¿Cuándo juega la Selección de Ecuador contra Bolivia?")
-
-En el entrenamiento estuvo presente, y trabajó junto a **Becaccece**, el DT Juan Carlos Burbano, quien está encargado de las mencionadas categorías juveniles. Dentro de los jugadores citados estuvieron aquellos que también conforman las escuadras formativas.
-
-Al igual que Burbano, ótro histórico jugador y exmudialista del combinado estuvo en el entrenamiento. **Cristian Mora**, exarquero de la Selección de Ecuador y preparador de arqueros de Burbano, trabajó con los goleros.
-
-La Selección de Ecuador de Sebastián Beccacece espera por Bolivia
------------------------------------------------------------------
-
-Los jugadores que ya se encuentran junto a **Sebastián Beccacece**, al estar en calidad de espárrines, tendrán la posibilidad de entrenar con el elenco absoluto cuando este se incorpore. Aunque aún no se ha anunciado una fecha para revelar la lista de convocados, el DT brindará una **rueda de prensa** el viernes 8 de noviembre del 2024[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-El próximo cotejo de eliminatorias de la Selección de Ecuador ante Bolivia será el jueves **14 de noviembre** del 2024 en el Estadio Monumental. El estadio de **Barcelona SC** repetirá la localía ante la ‘Verde’, la cual ya tuvo en los duelos de clasificación rumbo al **Mundial Qatar 2022**.
-
-Este es el primer cambio de sede que realiza la Tri durante su ciclo rumbo al **Mundial de 2026** y se da de manera excepción. Los partidos previos y venideros se llevarán a cabo en el **Estadio Rodrigo Paz Delgado** de Quito.
-
-Después de su choque con **Bolivia**, el equipo nacional deberá trasladarse a **Colombia**. Los tricolores chocarán contra los cafeteros el 19 de noviembre del 2024 en Barranquilla.
-
-Juan Carlos Burbano, incluido tras brillar con Ecuador Sub-15
--------------------------------------------------------------
-
-La reunión y las prácticas con los espárrines y Burbano, además, se dieron después del éxito de este dentro del **Sudamericano Sub-15**. Después de tres meses de asumir el cargo, el histórico exfutbolista consiguió el segundo puesto en el torneo con la Selección de Ecuador.
-
-Andrés Guardado, leyenda de México, anunció su retiro como futbolista profesional
-=================================================================================
-
-Un ícono del fútbol mexicano colgará sus botines este 2024.
------------------------------------------------------------
-
-![Andrés Guardado en un partido con el León de México.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-96.jpg)
-
-**Andrés** **Guardado**, el jugador con más apariciones en la historia de la selección mexicana, anunció este jueves su retiro del fútbol profesional, aunque aseguró que continuará vinculado al deporte “de una manera u otra”.
-
-“Terminando este torneo **dejo de ser profesiona**l, luego de 19 años de carrera (…) Seguro seguiré ligado al fútbol de alguna u otra manera, gracias fútbol y nada, hasta luego”, explicó el 181 veces internacional por México, en una transmisión en su cuenta de Instagram.
-
-### Más noticias:
-
-* [¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-oscar-zambrano-dopaje.html "¿Cómo afecta la suspensión de Óscar Zambrano a la Selección de Ecuador?")
-* [¿Bolivia está en desventaja en Guayaquil ante Ecuador?](https://www.elcomercio.com/deportes/futbol/bolivia-esta-en-desventaja-en-guayaquil-ante-ecuador.html "¿Bolivia está en desventaja en Guayaquil ante Ecuador?")
-* [Colombia presentó sus convocados para enfrentar a Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-presento-sus-convocados-para-enfrentar-a-ecuador.html "Colombia presentó sus convocados para enfrentar a Ecuador")
-
-La trayectoria de Andrés Guardado
----------------------------------
-
-El jugador mexicano que más encuentros ha disputado en el balompié europeo dio a conocer el fin de su trayectoria en el Nou Camp, estadio de su actual equipo, el León mexicano. Informó que si no se clasifica para la repesca del torneo Apertura 2024, le pondrá fin a una historia carrera este domingo en una visita a los **Rayados** del Monterrey, en la decimoséptima jornada, la última de la fase regular.
-
-A sus 38 años, el ‘**Principito’ Guardado** presume otros logros como ser uno de los cuatro mexicanos en haber disputado cinco mundiales y un paso por Europa.
-
-Estuvo por Deportivo La Coruña español en 2007, en donde empezó su periplo por el balompié europeo, en el que además militó para el Valencia y el Real Betis, el PSV Eindhoven neerlandés y el Bayer **Leverkusen** alemán.
-
-El Betis fue su último cuadro en Europa, al que abandonó en enero pasado luego de siete temporadas, tiempo en el cual obtuvo una **Copa del Rey** y se convirtió en uno de los líderes del vestuario del entrenador chileno Manuel Pellegrini.
-
-En León, que marcó el regreso al fútbol de su país, Guardado ha sufrido por molestias físicas para tener regularidad, con 12 partidos disputados en el **Apertura 2024**, en los que ha marcado un gol y una asistencia.
-
-Además, no ha impactado para guiar al equipo que dirige el argentino **Eduardo Berizzo** para estar al menos entre los equipos que jugarán la repesca en busca de los últimos dos boletos a los cuartos de final.
-
-Sus últimos minutos
--------------------
-
-El León ocupa la undécima posición en la clasificación con 18 puntos, a tres de igualar al Atlas, que en el décimo lugar es dueño del último boleto al repechaje, por lo que la carrera de Guardado se podría alagar un poco más, en caso de que el **León** venza al Monterrey y el Atlas no gane e incluso empate el mismo domingo ante el Necaxa.
-
-En su transmisión, **Guardado** agradeció a todos los equipos que perteneció, a los hinchas y a los dueños del León, que le permitieron cerrar su camino en el fútbol en su país.
