@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to import backup jobs?](https://www.backup4all.com/how-to-import-backup-jobs-kb.html)  
+* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
     
-* [Backup to Blu-ray](https://www.backup4all.com/backup-to-blu-ray-kb.html)  
+* [How to backup your data to Hitachi](https://www.backup4all.com/how-to-backup-your-data-to-hitachi-kb.html)  
     
-* [How to backup your data to Zettagrid](https://www.backup4all.com/how-to-backup-your-data-to-zettagrid-kb.html)  
+* [How to back up data without using zip compres ...](https://www.backup4all.com/how-to-back-up-data-without-using-zip-compression-kb.html)  
     
-* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
+* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
     
 
 Choose language:
