@@ -8,7 +8,6 @@
 * [Solutions For](#)
     * [Employers & HR](https://www.lifespeak.com/wellbeing-suite/employers-hr-employees/ "Wellbeing Solutions for Employees, Employers & HR")
     * [Health Plans](https://www.lifespeak.com/wellbeing-suite/health-plans/ "Wellbeing Solutions for Health Plans")
-    * [Multifamily Properties](https://www.lifespeak.com/wellbeing-suite/multifamily-properties/ "Wellbeing Solutions for Multifamily Properties")
     * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
     * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
 * [Resources](https://www.lifespeak.com/resources/)
@@ -18,12 +17,9 @@
     * [Our Approach](https://www.lifespeak.com/what-we-offer/our-approach/)
 * [Contact](https://www.lifespeak.com/contact/)
 
-* [Login](#)
 * [Request a demo](https://www.lifespeak.com/lp/request-a-demo/)
 
 * [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
-
-🎧 New Podcast [Harnessing Your Breath to Heal Stress and Trauma](https://www.lifespeak.com/resource/harnessing-your-breath-to-heal-stress-and-trauma-a-conversation-with-jennifer-snowdon/)
 
 [![LifeSpeak Logo - Employee wellbeing solutions](https://www.lifespeak.com/wp-content/themes/ls-theme/img/logo-navy.svg)](https://www.lifespeak.com/)
 
@@ -35,7 +31,6 @@
 * [Solutions For](#)
     * [Employers & HR](https://www.lifespeak.com/wellbeing-suite/employers-hr-employees/ "Wellbeing Solutions for Employees, Employers & HR")
     * [Health Plans](https://www.lifespeak.com/wellbeing-suite/health-plans/ "Wellbeing Solutions for Health Plans")
-    * [Multifamily Properties](https://www.lifespeak.com/wellbeing-suite/multifamily-properties/ "Wellbeing Solutions for Multifamily Properties")
     * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
     * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
 * [Resources](https://www.lifespeak.com/resources/)
@@ -47,7 +42,6 @@
 
 * [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
-* [Login](#)
 * [Request a demo](https://www.lifespeak.com/lp/request-a-demo/)
 
 ![lifespeak spark](https://www.lifespeak.com/wp-content/themes/ls-theme/img/spark-primary-teal.svg)
@@ -343,7 +337,6 @@ We value your opinions and welcome your feedback.  To contact us about this Dis
 * [Wellbeing Solutions](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
     * [Employers & HR](https://www.lifespeak.com/wellbeing-suite/employers-hr-employees/ "Wellbeing Solutions for Employees, Employers & HR")
     * [Health Plans](https://www.lifespeak.com/wellbeing-suite/health-plans/ "Wellbeing Solutions for Health Plans")
-    * [Multifamily Properties](https://www.lifespeak.com/wellbeing-suite/multifamily-properties/ "Wellbeing Solutions for Multifamily Properties")
     * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
     * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
 * [Resources](https://www.lifespeak.com/resources/)
