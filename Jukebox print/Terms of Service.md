@@ -16,6 +16,7 @@ EUR
 
 [](https://www.jukeboxprint.com/checkout "My Cart")
 
+* [Greeting Cards](https://www.jukeboxprint.com/greeting-cards)
 * [Custom Stickers](https://www.jukeboxprint.com/custom-stickers)
 * * All
         
