@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/leadership-development-by-state-run-and-state-based-universities.jpg)[](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/lessons-from-the-tappan-zee-bridge-procurement.jpg)[](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/ "Read More")
 
-Report Education Higher Ed
+Issue Brief Governance, Economics Infrastructure & Transportation
 
-Oct 31 2024
+Nov 07 2024
 
-Report Education Higher Ed
+Issue Brief Governance, Economics Infrastructure & Transportation
 
-Oct 31 2024
+Nov 07 2024
 
-### [Publics and Place](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/) Leadership Development by State-Run and State-Based Universities
+### [Crossroads of Opportunity and Innovation](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/) Lessons from the Tappan Zee Bridge Procurement
 
-By **[Andy Smarick](https://admin.mi52siterestore.com/person/andy-smarick/)** Read time **52 mins** [Read More](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/)
+By **[Howard P. Milstein](https://admin.mi52siterestore.com/person/howard-p-milstein/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/policy-recommendations-for-innovation-in-infrastructure.jpg)[](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/ "Read More")
+
+Report Governance, Cities, Economics
+
+Nov 07 2024
+
+[Policy Recommendations for Innovation in Infrastructure](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/)
+
+By **[John Ketcham](https://admin.mi52siterestore.com/person/john-ketcham/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/movement-new-yorks-long-war-to-take-back-its-streets-from-the-car-excerpt.jpg)[](https://admin.mi52siterestore.com/article/if-the-trains-dont-move-nobody-moves-the-legacy-of-the-nyc-transit-strike-of-1966/ "Read More")
 
@@ -133,16 +143,6 @@ Nov 01 2024
 [Comments on the October Employment Report](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/)
 
 By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/is-academic-wokeness-in-remission.jpg)[](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/ "Read More")
-
-Commentary Education Higher Ed
-
-Oct 31 2024
-
-[Is Academic ‘Wokeness’ in Remission?](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/)
-
-By **[John D. Sailer](https://admin.mi52siterestore.com/person/john-d-sailer/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/)
 
 Our Policy Areas
 ----------------
