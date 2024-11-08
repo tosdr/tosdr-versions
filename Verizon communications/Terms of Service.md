@@ -39,13 +39,13 @@ Shop
     Deals
     
     * [Shop all deals](https://www.verizon.com/deals/)
+    * [Holiday deals](https://www.verizon.com/deals/black-friday/)
     * [Free phones](https://www.verizon.com/shop/online/free-cell-phones/)
     * [My offers](https://myvpostpay.verizon.com/ui/hub/ao/myoffers#/)
     * [Smartphones](https://www.verizon.com/deals/smartphones/)
     * [Verizon Home Internet](https://www.verizon.com/deals/home-internet/)
     * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
     * [Accessories](https://www.verizon.com/deals/products/)
-    * [Refer a Friend](https://www.verizon.com/referafriend/)
     * [Refer a Friend](https://www.verizon.com/digital/nsa/secure/ui/raf/)
     * [Verizon Visa® Card](https://www.verizon.com/solutions-and-services/verizon-visa-card/?origin=gnavHeader)
     
@@ -278,11 +278,9 @@ Close
 
 [Español](https://espanol.verizon.com/)
 
-iPhone 16 on us with new line. No trade-in req’d. Online Only. | [Buy now.](https://www.verizon.com/smartphones/apple-iphone-16/) Or get up to $540 when you [bring your own phone.](https://www.verizon.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
+New and existing customers get the best deals of the season! [Shop Now](https://www.verizon.com/deals/) | Or Online only [iPhone 16 Pro](https://www.verizon.com/smartphones/apple-iphone-16-pro/) on us with new line.  |  [Details](javascript:void(0);)
 
-iPhone: $829.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $829.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
-  
-Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers.
+$999.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $999.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.
 
 end of navigation menu
 
@@ -622,6 +620,7 @@ Shop
 * [Mobile + Home discount](https://www.verizon.com/discounts/phone-home-internet-bundle/)
 * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
 * [TracFone](https://www.tracfonewirelessinc.com/)
+* [Holiday deals](https://www.verizon.com/deals/black-friday/)
 
 Top Device Brands
 
