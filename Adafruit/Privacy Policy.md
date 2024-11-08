@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ What we call the beginning is often the end . And to make and end is to make a beginning. The end is where we start from”
+“ To be successful, you have to have your heart in your business and your business in your heart”
 
-[T. S. Eliot](https://en.wikipedia.org/wiki/T._S._Eliot)
+[Thomas J. Watson](http://en.wikipedia.org/wiki/Thomas_J._Watson)
 
 [](https://www.adafruit.com/about)
 
