@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![6 Ways VidAUs AI Enhances Your Product Videos for Maximum Impact ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/facts-about-how-vidaus-ai-enhances-product-videos/)
+[![25 Facts About Sturdy Ability ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2273%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/characters/pokemon/25-facts-about-sturdy-ability/)
 
-General
+Pokemon
 
-06 Nov 2024
+08 Nov 2024
 
-[6 Ways VidAUs AI Enhances Your Product Videos for Maximum Impact](https://facts.net/general/facts-about-how-vidaus-ai-enhances-product-videos/)
+[25 Facts About Sturdy Ability](https://facts.net/characters/pokemon/25-facts-about-sturdy-ability/)
 
-[![25 Facts About Standard Models ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/25-facts-about-standard-models/)
+[![25 Facts About Derbyshire Football ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/25-facts-about-derbyshire-football/)
 
-Science
+Sports
 
-06 Nov 2024
+07 Nov 2024
 
-[25 Facts About Standard Models](https://facts.net/science/25-facts-about-standard-models/)
+[25 Facts About Derbyshire Football](https://facts.net/lifestyle/sports/25-facts-about-derbyshire-football/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
