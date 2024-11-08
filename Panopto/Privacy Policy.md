@@ -86,6 +86,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Blog](https://www.panopto.com/blog/)
         * [Webinars](https://www.panopto.com/resource-library/webinars/)
         * [eBooks](https://www.panopto.com/resource-library/ebooks/)
+        * [Events](https://www.panopto.com/resource-library/events/)
         * [Customer Stories](https://www.panopto.com/resource-library/customer-stories/)
     * Support
         * [Support Center](https://www.panopto.com/support/)
