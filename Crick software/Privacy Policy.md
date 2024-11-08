@@ -45,7 +45,7 @@
     * [Free webinars](https://cricksoft.com/docsplus/free-webinars/)
     * [Free consultation](https://cricksoft.com/docsplus/free-consultation/)
     * [LearningGrids](https://cricksoft.com/docsplus/learninggrids/)
-    * [DocsPlus for 16+](https://cricksoft.com/docsplus/docsplus-for-16/)
+    * [DocsPlus for 16+](https://cricksoft.com/docsplus/college/)
     
     Training & Support
     
@@ -102,7 +102,7 @@ Privacy policy
 
 [](https://goldilockscreative.xyz/cricksoft/en-gb/)
 
-\[seopress\_breadcrumbs\]
+[Home](https://cricksoft.com/) » **Privacy policy**
 
 This privacy policy sets out how Crick Software uses and protects any information that you provide us with when using any of our websites, our apps or our computer software.
 
@@ -380,6 +380,10 @@ Following a data security breach, Crick Software will:
 * Take appropriate actions if staff negligence or other’s behaviour contributed to the incident
 * Modify procedures, software, equipment, etc. as needed to prevent future data breaches of a similar nature
 * Take appropriate action if personnel negligence caused or contributed to the incident
+
+* * *
+
+For more information regarding our security practices, please feel free to contact us at [support@cricksoft.com](mailto:support@cricksoft.com "mailto:support@cricksoft.com"), and we will provide additional details upon request.
 
 **Crick**Software
 
