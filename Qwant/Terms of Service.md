@@ -175,7 +175,7 @@ Nous pouvons également être amenés à modifier ou à mettre à jour la prése
 
 * Mise à jour : 02/08/2024
 
-![](/wp-content/uploads/2021/03/qwant-logo-square.svg "qwant-logo-square")
+![qwant-logo-square](/wp-content/uploads/2021/03/qwant-logo-square.svg "qwant-logo-square")
 
 Le moteur de recherche dont vous êtes l’utilisateur, pas le produit  
 
