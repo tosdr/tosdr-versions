@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Customer Stories
 
-3 Common Salesforce Org Growing Pains and How to Avoid Them](https://www.ownbackup.com/blog/3-common-salesforce-org-growing-pains-and-how-to-avoid-them)
+Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
 
-[Salesforce
+[Customer Stories
 
-Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
 
-[Backup and Recovery
+[Customer Stories
 
-Everything You Need to Know About Backing Up & Restoring Salesforce Data](https://www.ownbackup.com/blog/guide-salesforce-backup)
+How Enclara Pharmacia Protects Patient Data and Ensures Compliance with Own](https://www.ownbackup.com/blog/how-enclara-pharmacia-protects-patient-data-and-ensures-compliance-with-own)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Customer Stories
 
-3 Common Salesforce Org Growing Pains and How to Avoid Them](https://www.ownbackup.com/blog/3-common-salesforce-org-growing-pains-and-how-to-avoid-them)
+Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
 
-[Salesforce
+[Customer Stories
 
-Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
 
-[Backup and Recovery
+[Customer Stories
 
-Everything You Need to Know About Backing Up & Restoring Salesforce Data](https://www.ownbackup.com/blog/guide-salesforce-backup)
+How Enclara Pharmacia Protects Patient Data and Ensures Compliance with Own](https://www.ownbackup.com/blog/how-enclara-pharmacia-protects-patient-data-and-ensures-compliance-with-own)
 
 Company
 
