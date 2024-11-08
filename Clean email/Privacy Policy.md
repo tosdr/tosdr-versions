@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=1555251181435072&ev=PageView&noscript=1)
+
  [Clean Email](https://clean.email/ "Home")
 
 [Features](https://clean.email/features)[Plans](https://clean.email/plans)[Help](https://clean.email/help)
@@ -7,7 +9,7 @@
 Privacy Policy and Terms of Service
 ===================================
 
-Last updated on Oct 31, 2024
+Last updated on Nov 5, 2024
 
 Privacy Policy
 --------------
