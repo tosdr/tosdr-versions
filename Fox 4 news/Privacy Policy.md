@@ -93,7 +93,17 @@ Search site
 
 [Flash Flood Warning
 
-until THU 8:00 PM CST, Denton County, Cooke County](https://www.fox4news.com/weather-alerts)
+from FRI 12:36 AM CST until FRI 5:00 AM CST, Palo Pinto County](https://www.fox4news.com/weather-alerts)
+
+3
+
+[Severe Thunderstorm Warning
+
+until FRI 2:00 AM CST, Palo Pinto County, Jack County, Parker County](https://www.fox4news.com/weather-alerts)
+
+[Severe Thunderstorm Warning
+
+from FRI 1:44 AM CST until FRI 2:45 AM CST, Wise County, Parker County, Jack County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -406,35 +416,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump names Susie Wiles as chief of staff; 1st woman to ever hold the role](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/susie-wiles.jpg?ve=1&tl=1)
+ [![16-year-old charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1)
 
- ![Trump names Susie Wiles as chief of staff; 1st woman to ever hold the role](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/susie-wiles.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-names-susie-wiles-chief-staff-1st-woman-ever-hold-role-2024)
+ ![16-year-old charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
 
-### [Trump names Susie Wiles as chief of staff; 1st woman to ever hold the role](https://www.fox4news.com/news/trump-names-susie-wiles-chief-staff-1st-woman-ever-hold-role-2024)
+### [16-year-old charged with murder for deadly Old East Dallas shooting](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
 
- [![Texas A&M Commerce changes name to East Texas A&M University](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v_tamu-commerce-classes-canceled-4a_kdfw150f_146_m_00.00.08.26.jpg?ve=1&tl=1)
+ [!['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182751833.jpg?ve=1&tl=1)
 
- ![Texas A&M Commerce changes name to East Texas A&M University](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v_tamu-commerce-classes-canceled-4a_kdfw150f_146_m_00.00.08.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-am-university-commerce-tamuc-renamed-east-texas-am-university)
+ !['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182751833.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-drop-out-search-election-states)
 
-### [Texas A&M Commerce changes name to East Texas A&M University](https://www.fox4news.com/news/texas-am-university-commerce-tamuc-renamed-east-texas-am-university)
+### ['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://www.fox4news.com/news/biden-drop-out-search-election-states)
 
- [![Political comebacks and returns to private life: What happens to former presidential candidates?](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/ksaz-renaissance-2-former-presidential-candidates-110724.jpg?ve=1&tl=1)
+ [![Dallas County sheriffs release video of truck involved in I-35 deadly hit-and-run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/dallas-county-hit-and-run.png?ve=1&tl=1)
 
- ![Political comebacks and returns to private life: What happens to former presidential candidates?](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/ksaz-renaissance-2-former-presidential-candidates-110724.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/political-comebacks-returns-private-life-what-happens-former-presidential-candidates)
+ ![Dallas County sheriffs release video of truck involved in I-35 deadly hit-and-run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/dallas-county-hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gene-gathright-jr-fatal-hit-and-run-8th-street-i-35-surveillance-video)
 
-### [What happens to former presidential candidates?](https://www.fox4news.com/news/political-comebacks-returns-private-life-what-happens-former-presidential-candidates)
+### [Dallas County sheriffs release video of truck involved in I-35 deadly hit-and-run](https://www.fox4news.com/news/gene-gathright-jr-fatal-hit-and-run-8th-street-i-35-surveillance-video)
 
- [![43 monkeys escape from South Carolina primate research facility](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1768796390-scaled.jpg?ve=1&tl=1)
+ [![National Parks are free for Veterans Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1241626699.jpg?ve=1&tl=1)
 
- ![43 monkeys escape from South Carolina primate research facility](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1768796390-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/monkeys-escape-south-carolina-alpha-genesis-primate-research-center)
+ ![National Parks are free for Veterans Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1241626699.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/veterans-day-free-national-parks)
 
-### [43 monkeys escape from South Carolina primate research facility](https://www.fox4news.com/news/monkeys-escape-south-carolina-alpha-genesis-primate-research-center)
+### [National Parks are free for Veterans Day](https://www.fox4news.com/news/veterans-day-free-national-parks)
 
- [![Traffic Alert: I-635 westbound in Irving 'shut down indefinitely' after 18-wheeler hits overpass](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/macarthur.jpeg?ve=1&tl=1)
+ [![Veterans Day deals and freebies](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-132284564.jpg?ve=1&tl=1)
 
- ![Traffic Alert: I-635 westbound in Irving 'shut down indefinitely' after 18-wheeler hits overpass](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/macarthur.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-635-macarthur-overpass)
+ ![Veterans Day deals and freebies](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-132284564.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/veterans-day-2024-restaurant-deals)
 
-### [Traffic Alert: I-635 westbound in Irving 'shut down indefinitely' after 18-wheeler hits overpass](https://www.fox4news.com/news/irving-635-macarthur-overpass)
+### [Veterans Day deals and freebies](https://www.fox4news.com/news/veterans-day-2024-restaurant-deals)
 
 ###### [News](https://www.fox4news.com/news)
 
