@@ -28,10 +28,10 @@
     
 
 * [](javascript:;)
-* [](https://accounts.dji.com/user)
+* [](https://my.dji.com/?site=brandsite&from=nav)
     
     * [Welcome,  {{nick\_name}}](javascript:;)
-    * [My account](https://accounts.dji.com/user)
+    * [My account](https://my.dji.com/?site=brandsite&from=nav)
     * [Logout](https://www-api.dji.com/redirect/member/logout)
     
 * [](javascript:void(0);;)
