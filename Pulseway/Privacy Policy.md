@@ -328,7 +328,7 @@ If you have questions or concerns, you should first contact the Pulseway Privacy
 
 [![Google Play Store](https://pulseway.s3.amazonaws.com/website/images/home/menu/google_play_en.svg)](https://play.google.com/store/apps/details?id=com.mobilepcmonitor "Download Pulseway Mobile Application")[![Apple App Store](https://pulseway.s3.amazonaws.com/website/images/home/menu/apple_en.svg)](https://itunes.apple.com/app/id405566169?mt=8 "Download Pulseway Mobile Application")
 
-[](https://www.facebook.com/pulseway "Visit us on Facebook")[](https://twitter.com/pulsewayapp "Follow us on Twitter")[](https://www.linkedin.com/company/mmsoft-design-ltd- "Follow us on LinkedIn")[](https://www.youtube.com/user/pulsewayapp "Follow us on YouTube")[](https://www.reddit.com/r/Pulseway/ "Follow us on Reddit")[](https://discord.gg/9u9XKxU "Join us on Discord")[![Spiceworks Logo](https://pulseway.s3.amazonaws.com/website/images/social-icons/Spiceworks_32px_white.svg)](https://community.spiceworks.com/pages/pulseway "Follow us on Spiceworks")
+[](https://www.facebook.com/pulseway "Visit us on Facebook")[](https://twitter.com/pulsewayapp "Follow us on Twitter")[](https://www.linkedin.com/company/mmsoft-design-ltd- "Follow us on LinkedIn")[](https://www.youtube.com/user/pulsewayapp "Follow us on YouTube")[](https://www.reddit.com/r/Pulseway/ "Follow us on Reddit")[](https://discord.gg/45Kdkhkw "Join us on Discord")[![Spiceworks Logo](https://pulseway.s3.amazonaws.com/website/images/social-icons/Spiceworks_32px_white.svg)](https://community.spiceworks.com/pages/pulseway "Follow us on Spiceworks")
 
 © 2024 Pulseway All Rights Reserved
 
