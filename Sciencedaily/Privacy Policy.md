@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 7, 2024**
+**November 8, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
+* [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
+* [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
+* [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
+* [Elephant Turns Hose Into Showering Tool](https://www.sciencedaily.com/releases/2024/11/241108113209.htm)
+* [Chimps Perform Better With an Audience](https://www.sciencedaily.com/releases/2024/11/241108113207.htm)
+* [Animals: 100-Million-Year Explosion in Color](https://www.sciencedaily.com/releases/2024/11/241107193216.htm)
+* [Memories Are Not Only in the Brain](https://www.sciencedaily.com/releases/2024/11/241107193111.htm)
 * [Mini-Tornadoes in Supersolid Quantum Gas](https://www.sciencedaily.com/releases/2024/11/241106132229.htm)
 * [Illuminate Black Holes With Echoes of Light](https://www.sciencedaily.com/releases/2024/11/241107160747.htm)
-* [People Buried in Pompeii Eruption: New Story](https://www.sciencedaily.com/releases/2024/11/241107160923.htm)
-* [CO2 to Useful Chemicals: Toward Colonizing Mars](https://www.sciencedaily.com/releases/2024/11/241107115225.htm)
-* [Explaining Extremely Well-Preserved Dino Fossils](https://www.sciencedaily.com/releases/2024/11/241104150518.htm)
-* [Lower Blood Pressure: Five Minutes Exercise ...](https://www.sciencedaily.com/releases/2024/11/241106190302.htm)
-* [Climate Change Parching the West: Evaporation](https://www.sciencedaily.com/releases/2024/11/241106190309.htm)
-* [Gophers-For-A-Day Helped Mt. St. Helens Recover](https://www.sciencedaily.com/releases/2024/11/241106171950.htm)
-* [Sleepiness During the Day: Pre-Dementia](https://www.sciencedaily.com/releases/2024/11/241106171944.htm)
-* [Predictions for Meson Measurements](https://www.sciencedaily.com/releases/2024/11/241106171846.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
-
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+
+[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
+[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
 
 [Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
-
 [Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
-[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+
+[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
 
   
 
