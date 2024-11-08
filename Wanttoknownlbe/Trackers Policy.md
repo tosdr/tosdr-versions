@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/pedofilie-misbruik/hoge-heren-hoge-sferen-en-het-dutrouxnetwerk-achter-me-aan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/epstein-simpel-en-slechts-the-mossad-puppet-on-a-string/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
