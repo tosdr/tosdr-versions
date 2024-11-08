@@ -81,9 +81,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     See Details](https://porterroad.com/products/gift-card-1)
     
-    [Save 15%
-    
-    ### Bone-In Ribeye
+    [### Bone-In Ribeye
     
     Dry Aged
     
