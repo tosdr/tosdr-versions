@@ -13,6 +13,7 @@ icon-X Close menu
         * [CircleToonsHD](https://creatorink.com/collections/circletoonshd)
         * [Cream Crew](https://creatorink.com/collections/cream-crew)
         * [Dakblake](https://creatorink.com/collections/dakblake)
+        * [Dungeon Soup](https://creatorink.com/collections/dungeon-soup)
         * [Flashgitz](https://creatorink.com/collections/flashgitz)
         * [FNAF](https://creatorink.com/collections/five-nights-at-freddys)
         * [FootofaFerret](https://creatorink.com/collections/foot-of-a-ferret)
@@ -94,6 +95,8 @@ icon-X Close menu
     [Cream Crew](https://creatorink.com/collections/cream-crew)
     
     [Dakblake](https://creatorink.com/collections/dakblake)
+    
+    [Dungeon Soup](https://creatorink.com/collections/dungeon-soup)
     
     [Flashgitz](https://creatorink.com/collections/flashgitz)
     
