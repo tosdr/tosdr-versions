@@ -2,9 +2,9 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
-[**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
-
 [**Bundles**](https://naturesway.com/collections/bundle-save) have landed! Shop curated collections of your favorite products. 
+
+[**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
 
      
 
