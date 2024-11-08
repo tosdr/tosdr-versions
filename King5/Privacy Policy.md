@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c59719da-ff1d-491d-b65a-7ca9210b3a44/20241108T070226/c59719da-ff1d-491d-b65a-7ca9210b3a44_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c59719da-ff1d-491d-b65a-7ca9210b3a44/20241108T070226/c59719da-ff1d-491d-b65a-7ca9210b3a44_360x203.jpg)](https://www.king5.com/article/news/local/siff-cinema-egyptian-closes-foreseeable-future-pipe-leak/281-dd6e293d-f372-427d-8b1b-f72adb88d71c)
+    *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
-        #### [SIFF Cinema Egyptian closes for 'foreseeable future' after significant pipe leak](https://www.king5.com/article/news/local/siff-cinema-egyptian-closes-foreseeable-future-pipe-leak/281-dd6e293d-f372-427d-8b1b-f72adb88d71c)
+        #### [Timeline: Here's when 3 systems of rain will move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
-    *  [![](https://media.king5.com/assets/KGW/images/7395ede0-e655-4c8e-8195-446750965eb0/20241108T011336/7395ede0-e655-4c8e-8195-446750965eb0_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/7395ede0-e655-4c8e-8195-446750965eb0/20241108T011336/7395ede0-e655-4c8e-8195-446750965eb0_360x203.jpg)](https://www.king5.com/article/news/local/nurse-providence-st-vincent-missing-hungary/283-89e67b6c-0e4d-404e-a958-07a214445c06)
+    *  [![](https://media.king5.com/assets/WCNC/images/f395fb10-4de0-4183-9149-fe4d78506c06/f395fb10-4de0-4183-9149-fe4d78506c06_16x9.jpg) ![](https://media.king5.com/assets/WCNC/images/f395fb10-4de0-4183-9149-fe4d78506c06/f395fb10-4de0-4183-9149-fe4d78506c06_360x203.jpg)](https://www.king5.com/article/life/food/seattle-new-trader-joes-location/281-1edee61e-0662-41cc-9f7f-ee5d96ae80cc)
         
-        #### [Portland Providence St. Vincent nurse goes missing while vacationing overseas](https://www.king5.com/article/news/local/nurse-providence-st-vincent-missing-hungary/283-89e67b6c-0e4d-404e-a958-07a214445c06)
+        #### [Seattle is getting a new Trader Joe's location. Here's where](https://www.king5.com/article/life/food/seattle-new-trader-joes-location/281-1edee61e-0662-41cc-9f7f-ee5d96ae80cc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
+        
+        #### [Timeline: Here's when 3 systems of rain will move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
+        
     *  [![](https://media.king5.com/assets/KING/images/733a1def-c48e-4772-b5df-0eb894199ca2/20241108T130138/733a1def-c48e-4772-b5df-0eb894199ca2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/733a1def-c48e-4772-b5df-0eb894199ca2/20241108T130138/733a1def-c48e-4772-b5df-0eb894199ca2_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/bf82c35c-8400-42c9-9da4-aac2f57dd24d/20241105T002811/bf82c35c-8400-42c9-9da4-aac2f57dd24d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf82c35c-8400-42c9-9da4-aac2f57dd24d/20241105T002811/bf82c35c-8400-42c9-9da4-aac2f57dd24d_360x203.jpg)](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
-        
-        #### [Fall storm leaves thousands without power](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+60°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
