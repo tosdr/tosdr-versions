@@ -1110,6 +1110,7 @@ If any court or competent authority finds that any provision of this EULA (or pa
 Tools
 
 * [AI image generator](https://www.freepikcompany.com/ai/image-generator)
+* [AI video generator](https://www.freepikcompany.com/ai/video-generator)
 * [Image upscaler](https://www.freepikcompany.com/ai/image-upscaler)
 * [Background remover](https://www.freepikcompany.com/ai/background-remover)
 * [Photo editor](https://www.freepikcompany.com/ai/photo-editor)
