@@ -344,7 +344,6 @@ We reserve the right to amend the Privacy Policy to comply with changes made to 
 ### PrivateVPN
 
 * [Unblock Netflix](https://privatevpn.com/best-vpn/netflix-vpn)
-* [Unblock BBC iPlayer](https://privatevpn.com/best-vpn/bbc-iplayer-vpn)
 * [VPN for Torrenting](https://privatevpn.com/best-vpn/best-vpn-for-torrenting)
 * [VPN for Mac](https://privatevpn.com/best-vpn/vpn-mac)
 * [VPN for Windows](https://privatevpn.com/best-vpn/vpn-windows)
