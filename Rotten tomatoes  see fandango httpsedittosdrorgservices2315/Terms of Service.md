@@ -18,6 +18,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **E! @ Wicked Premiere Livestream** Tune in on Nov 9th at 8PM ET / 5PM PT
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
@@ -60,6 +61,14 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [E! @ Wicked Premiere Livestream image link ![E! @ Wicked Premiere Livestream](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/2a41b4f0-98b0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-wickedlivestream-292x118-v3.png)](https://www.fandango.com/movie-news/e-at-wicked-premiere-presented-by-fandango-how-to-watch-live-on-november-9-755207?cmp=TARS~FANDANGO~WickedLivestream_Footer) 
+    
+    ### E! @ Wicked Premiere Livestream
+    
+    Don't miss the magic! Tune in to the Livestream on Nov 9th at 8PM ET / 5PM PT presented by Fandango.
+    
+    [TUNE IN](https://www.fandango.com/movie-news/e-at-wicked-premiere-presented-by-fandango-how-to-watch-live-on-november-9-755207?cmp=TARS~FANDANGO~WickedLivestream_Footer)
+    
 * [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
     
     ### Gladiator II Prop Auction
@@ -68,13 +77,13 @@ Offers
     
     [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
-* [Get $5 off on Moana image link ![Get $5 off on Moana](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dee210e0-9332-11ef-8321-2b978811c524--fan-globalofferunit-homepage-moana2gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer) 
+* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
-    ### Get $5 off on Moana
+    ### Set sail with the Moana 2 Ticket 2 Adventure
     
-    Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
+    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
 * [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
@@ -83,14 +92,6 @@ Offers
     Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
-    
-* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
-    
-    ### Set sail with the Moana 2 Ticket 2 Adventure
-    
-    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
-    
-    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
 
 New & Coming soon
@@ -188,6 +189,16 @@ New & Coming soon
 [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=fandango&utm_medium=referral&utm_campaign=property_ad_pages)
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
+
+### SPECIAL EVENT
+
+Close
+
+![E! @ Wicked Premiere Livestream](https://images.fandango.com/cms/assets/25ef9c10-98b4-11ef-8321-2b978811c524--fan-globalnavbar-wickedlivestream-343x362-v3.jpg)
+
+#### Don't miss the magic! Tune in to the Livestream on Nov 9th at 8PM ET / 5PM PT presented by Fandango.
+
+[TUNE IN](https://www.fandango.com/movie-news/e-at-wicked-premiere-presented-by-fandango-how-to-watch-live-on-november-9-755207?cmp=TARS~FANDANGO~WickedLivestream_promomodule)
 
 ### Special Offer
 
