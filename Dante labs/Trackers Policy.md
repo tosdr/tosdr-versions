@@ -4,6 +4,8 @@
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
 
+[Singles’ Day Special: Unlock Genetic Insights at Unmatched Prices!](https://us.dantelabs.com/products/whole-genome-sequencing)
+
 * [Dante Genome Test](https://us.dantelabs.com/products/whole-genome-sequencing "Dante Genome Test")
 * [Genomic Reports](https://us.dantelabs.com/collections/dante-labs-comprehensive-panels "Genomic Reports")
 * [About us](https://us.dantelabs.com/pages/about-us "About us")
