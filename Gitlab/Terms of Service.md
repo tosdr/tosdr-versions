@@ -2528,6 +2528,7 @@
             * [ ]  [Field Enablement](https://handbook.gitlab.com/handbook/sales/field-operations/field-enablement/)
                 * [ ]  [Executive Sponsorship Program](https://handbook.gitlab.com/handbook/sales/field-operations/field-enablement/executive-sponsor-program/)
                 * [ ]  [Field Team Recognition Programs](https://handbook.gitlab.com/handbook/sales/field-operations/field-enablement/field-team-recognition/)
+                * [ ]  [Go-to-Market (GTM) Enablement motion](https://handbook.gitlab.com/handbook/sales/field-operations/field-enablement/gtm-enablement/)
                 * [ ]  [Sales Manager Best Practices](https://handbook.gitlab.com/handbook/sales/field-operations/field-enablement/sales-manager-best-practices/)
             * [ ]  [Go to Market](https://handbook.gitlab.com/handbook/sales/field-operations/gtm-resources/)
                 * [ ]  [Go to Market Rules of Engagement](https://handbook.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
