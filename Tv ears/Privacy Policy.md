@@ -527,7 +527,7 @@ Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
 © 2024 TV Ears, Inc. All rights reserved
 
-0
+2
 
 Our Products
 ------------
@@ -577,12 +577,18 @@ My cart
 
 Close cart
 
-Your cart is empty.
+[![TV Ears_40810-batteries-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_40810-batteries-front-247x247.jpg)](https://www.tvears.com/product/original-digital-batteries/)
 
-Looks like you haven't made a choice yet.
+[Original/Digital Battery](https://www.tvears.com/product/original-digital-batteries/)
+
+−  +
+
+ ~**MSRP:**$19.95~ COUPON: tveweb10_$17.96_
 
 Got a discount code?
 
  Apply
 
-Your cart is empty. Shop now
+Coupon "tveweb10" (10%)[Removes coupon code](https://www.tvears.com/void(0);)
+
+[Checkout now](https://www.tvears.com/checkout/)
