@@ -165,10 +165,10 @@ Staff may also submit it to third-party verification services (e.g: anti-spam fi
 If a staff member tells you to stop doing something, then you must stop immediately. Do not argue.  
   
   
-**12\. If disputing a warning, use the appropriate venue**  
+**12\. If disputing a moderation action, use the appropriate venue**  
   
-The only acceptable way to dispute a warning you have received, or otherwise critique moderator action, is to post in the requests forum, or contact our admin privately.  
-Mentioning your warning/ban to other members, especially in a public place, is likely to lead to an additional warning/ban.  
+The only acceptable way to dispute or discuss any warning, post deletion or other moderator action you have received is to post in the requests forum, or contact our admin privately.  
+Mentioning it to other members, especially in a public place, is likely to lead to an additional warning/ban.  
   
   
 **13\. Don't dox yourself, or anyone else**  
@@ -235,7 +235,7 @@ This document is not an exhaustive list of terms. Other terms, such as our priva
 These terms may be changed at any time without notice.  
 If you do not agree with these rules/terms, you may not use our service.
 
-Last edited: Jun 9, 2024
+Last edited: Today at 4:10 AM
 
 * ![Like](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png "Like")
 
@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1731048265) [LinkedIn](#_xfUid-1-1731048265) [Reddit](#_xfUid-1-1731048265) [Pinterest](#_xfUid-1-1731048265) [Tumblr](#_xfUid-1-1731048265) [WhatsApp](#_xfUid-1-1731048265) [Email](#_xfUid-1-1731048265) [Share](#_xfUid-1-1731048265) [Link](#_xfUid-1-1731048265)
+[X (Twitter)](#_xfUid-1-1731069876) [LinkedIn](#_xfUid-1-1731069876) [Reddit](#_xfUid-1-1731069876) [Pinterest](#_xfUid-1-1731069876) [Tumblr](#_xfUid-1-1731069876) [WhatsApp](#_xfUid-1-1731069876) [Email](#_xfUid-1-1731069876) [Share](#_xfUid-1-1731069876) [Link](#_xfUid-1-1731069876)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -272,7 +272,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731048265%2C3dc59bbb396712565882db76da9d4740) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731048265%2C3dc59bbb396712565882db76da9d4740)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731069876%2Cacb28e4067a0792ccdab0257d76c1cdb) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731069876%2Cacb28e4067a0792ccdab0257d76c1cdb)
     
     * Essential cookies
     
