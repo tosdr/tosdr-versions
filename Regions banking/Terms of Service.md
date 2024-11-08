@@ -355,15 +355,24 @@ Digital Services
 Related Insights
 ----------------
 
-[How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
-
-[Budgeting for Teens: Teaching Teens to Save](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/teaching-teens-how-to-save-money)
-
-[For Fintech, the Future is Now](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/for-fintech-the-future-is-now)
-
-[Financial Fraud Prevention](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/how-lockit-can-help-lock-out-financial-fraud)
-
 [See All Insights](https://www.regions.com/Insights/InsightsLibrary)
+
+* [How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
+    
+    Video
+    
+* [Budgeting for Teens: Teaching Teens to Save](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/teaching-teens-how-to-save-money)
+    
+    Article
+    
+* [For Fintech, the Future is Now](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/for-fintech-the-future-is-now)
+    
+    Article
+    
+* [Financial Fraud Prevention](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/how-lockit-can-help-lock-out-financial-fraud)
+    
+    Video
+    
 
 You are here:
 -------------
