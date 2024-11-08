@@ -230,6 +230,4 @@ Also of Interest:
 * [Privacy Policy](https://www.abskids.com/privacy-policy/)
 * [No Surprises Act](https://www.abskids.com/no-surprises-act/)
 
-      ![](http://bidagent.xad.com/conv/221384?ts=%pord=!?)  
-
-![](https://www.facebook.com/tr?id=2298493103687439&ev=PageView&noscript=1)
+      ![](http://bidagent.xad.com/conv/221384?ts=%pord=!?)
