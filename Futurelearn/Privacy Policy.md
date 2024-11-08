@@ -720,6 +720,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [National STEM Day: Empowering Women And Girls in STEM](https://www.futurelearn.com/info/press/national-stem-day-empowering-women-and-girls-in-stem)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the online career-based learning platform, joins celebrations for National STEM Day with a focus …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [![Why Choose Online Degree Blog Header 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Why_Choose_Online_Degree_Blog_Header_1500x750-150x150.jpg.optimal.jpg "Why Choose Online Degree Blog Header 1500x750")](https://www.futurelearn.com/info/blog/why-choose-an-online-degree)
     
     [Why choose an online degree?](https://www.futurelearn.com/info/blog/why-choose-an-online-degree)
@@ -740,13 +747,6 @@ Powered By
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     FutureLearn, a leader in online learning, has announced price reductions on thousands of online courses. …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [Lifelong Learning, Longevity And Innovative Tech: Rethinking Education At The BCCI 120th Anniversary Gala Dinner](https://www.futurelearn.com/info/press/lifelong-learning-longevity-and-innovative-tech-rethinking-education-at-the-bcci-120th-anniversary-gala-dinner)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, the leading UK-based online learning provider, attended a gala dinner celebrating the 120th anniversary …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
