@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Blue Friendship Bracelet Movement](https://knowyourmeme.com/memes/cultures/blue-friendship-bracelet-movement "Blue Friendship Bracelet Movement") [xQc $700K Bet on Kamala Harris](https://knowyourmeme.com/memes/events/xqc-loses-700000-bet-on-kamala-harris "xQc $700K Bet on Kamala Harris")
+["Republicans Are Weird"](https://knowyourmeme.com/memes/republicans-are-weird ""Republicans Are Weird"") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
