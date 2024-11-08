@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a5e254c1-cc59-4ca6-9ec3-90724c063448/20241108T043043/a5e254c1-cc59-4ca6-9ec3-90724c063448_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a5e254c1-cc59-4ca6-9ec3-90724c063448/20241108T043043/a5e254c1-cc59-4ca6-9ec3-90724c063448_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0b6c6049-4738-4e4b-bd1b-43fa79f235c2/20241108T131025/0b6c6049-4738-4e4b-bd1b-43fa79f235c2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0b6c6049-4738-4e4b-bd1b-43fa79f235c2/20241108T131025/0b6c6049-4738-4e4b-bd1b-43fa79f235c2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Bright skies to continue through Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Morning fog gives way to sunshine and 60s for Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WOI/images/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba/20241107T211847/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba/20241107T211847/a2b5dd33-a7bf-4406-8ec2-dde33e1c55ba_360x203.jpg)](https://www.wqad.com/article/weather/des-moines-new-mexico-snow-winter-forecast/524-f4fc91cf-fe45-4c34-9a91-aab19e280fcd)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_360x203.jpg)](https://www.wqad.com/article/news/regional/volunteer-poll-workers-drown-flood-washed-highway-rural-missouri-election-day/63-f88470b8-e843-4811-ae70-fa590c23c1f1)
         
-        #### [Des Moines, but not the one you think, hit with Blizzard Warning](https://www.wqad.com/article/weather/des-moines-new-mexico-snow-winter-forecast/524-f4fc91cf-fe45-4c34-9a91-aab19e280fcd)
+        #### [Couple married for more than 50 years die in flooding on way to work as election volunteers in rural Missouri](https://www.wqad.com/article/news/regional/volunteer-poll-workers-drown-flood-washed-highway-rural-missouri-election-day/63-f88470b8-e843-4811-ae70-fa590c23c1f1)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-38°
+53°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
