@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 336 active visitors** | **Thursday, November 07, 2024** |
+| **You are 1 of 285 active visitors** | **Friday, November 08, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**He that would make his own liberty secure must guard even his enemy from oppression; for if he violates this duty, he establishes a precedent that will reach to himself. � Thomas Paine
+ **QUOTES TO REMEMBER**The supreme power in America cannot enforce unjust laws by the sword, because the whole body of the people are armed, and constitute a force superior to any band of regular troops. � Noah Webster, An Examination into the Leading Principles of the Federal Constitution Proposed BV the Late Convention (1787).
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
