@@ -1,4 +1,4 @@
-✨ Free eBook: The Digital Services Act Explained. [Get it here →](https://besedo.com/knowledge-hub/library/ebook/the-digital-services-act-explained/) [×](#)
+🚀 Free eBook: Build vs. Buy – The Case for Outsourcing Content Moderation [Download →](https://besedo.com/knowledge-hub/library/ebook/build-vs-buy-the-case-for-outsourcing-content-moderation/) [×](#)
 
 [![Besedo](https://besedo.com/wp-content-ext/themes/besedo/assets/images/logo.svg)](https://besedo.com/)
 
