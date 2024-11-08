@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/011ab235-fe20-49ab-af5a-0396ee51361f/20241107T223756/011ab235-fe20-49ab-af5a-0396ee51361f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/011ab235-fe20-49ab-af5a-0396ee51361f/20241107T223756/011ab235-fe20-49ab-af5a-0396ee51361f_360x203.jpg)](https://www.king5.com/article/news/local/ferguson-brown-discuss-preparations-second-trump-admin/281-0421e0ab-0877-4cc6-ba05-5e77852d9f0b)
+    *  [![](https://media.king5.com/assets/KING/images/c59719da-ff1d-491d-b65a-7ca9210b3a44/20241108T070226/c59719da-ff1d-491d-b65a-7ca9210b3a44_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c59719da-ff1d-491d-b65a-7ca9210b3a44/20241108T070226/c59719da-ff1d-491d-b65a-7ca9210b3a44_360x203.jpg)](https://www.king5.com/article/news/local/siff-cinema-egyptian-closes-foreseeable-future-pipe-leak/281-dd6e293d-f372-427d-8b1b-f72adb88d71c)
         
-        #### [WA Gov-elect Ferguson, AG-elect Brown discuss preparations for second Trump admin](https://www.king5.com/article/news/local/ferguson-brown-discuss-preparations-second-trump-admin/281-0421e0ab-0877-4cc6-ba05-5e77852d9f0b)
+        #### [SIFF Cinema Egyptian closes for 'foreseeable future' after significant pipe leak](https://www.king5.com/article/news/local/siff-cinema-egyptian-closes-foreseeable-future-pipe-leak/281-dd6e293d-f372-427d-8b1b-f72adb88d71c)
         
-    *  [![](https://media.king5.com/assets/KING/images/018f0370-18ff-49d5-a89b-e56ca1f8e6bb/20241108T015503/018f0370-18ff-49d5-a89b-e56ca1f8e6bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/018f0370-18ff-49d5-a89b-e56ca1f8e6bb/20241108T015503/018f0370-18ff-49d5-a89b-e56ca1f8e6bb_360x203.jpg)](https://www.king5.com/article/news/nation-world/ukraine/local-firefighter-mission-train-rescue-crews-ukraine/281-b501c1a9-23f6-43da-a4e7-5656c53718e0)
+    *  [![](https://media.king5.com/assets/KGW/images/7395ede0-e655-4c8e-8195-446750965eb0/20241108T011336/7395ede0-e655-4c8e-8195-446750965eb0_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/7395ede0-e655-4c8e-8195-446750965eb0/20241108T011336/7395ede0-e655-4c8e-8195-446750965eb0_360x203.jpg)](https://www.king5.com/article/news/local/nurse-providence-st-vincent-missing-hungary/283-89e67b6c-0e4d-404e-a958-07a214445c06)
         
-        #### [Poulsbo firefighter traveling to Ukraine to train rescue crews during the war](https://www.king5.com/article/news/nation-world/ukraine/local-firefighter-mission-train-rescue-crews-ukraine/281-b501c1a9-23f6-43da-a4e7-5656c53718e0)
+        #### [Portland Providence St. Vincent nurse goes missing while vacationing overseas](https://www.king5.com/article/news/local/nurse-providence-st-vincent-missing-hungary/283-89e67b6c-0e4d-404e-a958-07a214445c06)
         
     
 * [Weather](https://www.king5.com/weather/)
