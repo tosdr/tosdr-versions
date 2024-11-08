@@ -1,4 +1,4 @@
-Compose 2024 is coming up fast on Oct 3 – [grab your ticket today!](https://www.netlify.com/compose/?utm_content=eyebrow)
+Gartner recognizes Netlify as a Visionary in [2024 Gartner® Magic Quadrant™ for Cloud Application Platforms >](https://www.netlify.com/reports/gartner-magic-quadrant-visionary/?utm_content=eyebrow)
 
 Close announcement bar
 
