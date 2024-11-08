@@ -1,5 +1,9 @@
 [Skip to main content](#main-content)
 
+**Sunday 10 November 2024**: Disruption to services this Sunday 10 November.
+
+[Find out more](https://www.gwr.com/sunday-disruption)
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
