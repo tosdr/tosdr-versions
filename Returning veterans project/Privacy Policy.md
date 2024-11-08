@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Lane Wickham Barton Jr.](https://cdn.returningveterans.org/images/honor/Battle_of_the_Bulge.jpg)  
+![Seal Team 6](https://cdn.returningveterans.org/images/honor/beth_corey_woh_picture.jpg)  
 
-**In Memory of Lane Wickham Barton Jr.**  
-United States Army  
-Submitted by Sarah Smith](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Seal Team 6**  
+United States Navy  
+Submitted by Beth Corey](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/07/24 - 1:32:01  
+Printed 11/07/24 - 7:19:33  
 © 2024 Returning Veterans Project
