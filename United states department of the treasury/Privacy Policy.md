@@ -27,6 +27,10 @@ MENU MENU
 
 * [About Treasury](https://home.treasury.gov/about-treasury)
     
+      Enter Search Term(s): 
+    
+    [Advanced Search](https://search.usa.gov/search/advanced?affiliate=treas)
+    
     About Treasury
     
     [General Information](https://home.treasury.gov/about/general-information)
@@ -144,6 +148,10 @@ MENU MENU
     [The Fair Chance to Compete Act](https://home.treasury.gov/about/careers-at-treasury/the-fair-chance-to-compete-act)
     
 * [Policy Issues](https://home.treasury.gov/policy-issues)
+    
+      Enter Search Term(s): 
+    
+    [Advanced Search](https://search.usa.gov/search/advanced?affiliate=treas)
     
     Policy Issues
     
@@ -314,6 +322,10 @@ MENU MENU
     
 * [Data](https://home.treasury.gov/data)
     
+      Enter Search Term(s): 
+    
+    [Advanced Search](https://search.usa.gov/search/advanced?affiliate=treas)
+    
     Data
     
     [Interest Rates](https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics)
@@ -396,6 +408,10 @@ MENU MENU
     [Reports](https://home.treasury.gov/data/troubled-assets-relief-program/reports)
     
 * [Services](https://home.treasury.gov/services)
+    
+      Enter Search Term(s): 
+    
+    [Advanced Search](https://search.usa.gov/search/advanced?affiliate=treas)
     
     Services
     
@@ -533,6 +549,10 @@ MENU MENU
     
 * [News](https://home.treasury.gov/news/press-releases)
     
+      Enter Search Term(s): 
+    
+    [Advanced Search](https://search.usa.gov/search/advanced?affiliate=treas)
+    
     News
     
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
@@ -606,7 +626,9 @@ MENU MENU
     
 * [Search](https://home.treasury.gov/search)
     
-    Search 
+      Enter Search Term(s): 
+    
+    [Advanced Search](https://search.usa.gov/search/advanced?affiliate=treas)
     
     Search
     
@@ -918,4 +940,4 @@ Treasury maintains a separate page related to the [Privacy Act](https://home.tr
 Required Plug-ins [Adobe® Reader®](http://get.adobe.com/reader/)
 
 * [Twitter](https://twitter.com/USTreasury)
-* [Facebook](https://facebook.com/ustreasury)
+* [Facebook](https://www.facebook.com/USTreasuryDept)
