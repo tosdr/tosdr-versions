@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/hanneke-de-vries-leent-geld-bij-de-bank/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/pedofilie-misbruik/hoge-heren-hoge-sferen-en-het-dutrouxnetwerk-achter-me-aan/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -91,6 +91,16 @@ Inschrijven
 > Realiteit bestaat in de menselijke geest en nergens anders.
 > 
 > George Orwell (1903-1950), journalist-auteur
+
+#### WantToKnow Aanbieding
+
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/mamutc-flesjes.jpg?fit=730%2C337&ssl=1)
+
+### [MAMUT C: Tijd voor de immuunboost uit Nederland..!](https://www.wanttoknow.nl/aanbieding/mamut-c-tijd-voor-de-immuunboost-uit-nederland/)
+
+[– Let op! Geldig t/m donderdag 26 oktober! – Het is herfst, de winter aan de horizon. Sowieso de tijd om je weerstand een steuntje in de rug te geven! Daarom stelden we voor jou deze mooie aanbieding samen, in coöperatie met MAMUT C, dé OER-Hollandse maker van gefermenteerde kruidenelixers; de gezondste voedingssupplementen uit Nederlandse bodem..! De nieuwe oogst is gemaakt en we mogen nu deze aanbieding doen. De weerstands-boost voor de aankomende winterse dagen. Uitgaande van onze eigen ervaringen én de enorm positieve mailtjes die wij vorige jaren ontvingen, gaan we samen opnieuw gezond die winter door..! Met Mamut C en Mamut C Moringa; splinternieuwe kruidenremedies, gemaakt van maar liefst 12-14 natuurlijke superfoods. Bedacht en ambachtelijk gemaakt door Ed van Poldergoed. Lees meer over de drie fantastische weerstandsboosters die we voor je selecteerden en profiteer van de bijzondere aanbieding die wij voor je hebben samengesteld.. …](https://www.wanttoknow.nl/aanbieding/mamut-c-tijd-voor-de-immuunboost-uit-nederland/)
+
+[Order now](https://www.wanttoknow.nl/aanbieding/mamut-c-tijd-voor-de-immuunboost-uit-nederland/#pt-field-text-5)
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
@@ -131,6 +141,38 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
+
+##### **Adriaan W** reacts on:
+
+##### Het geheim achter nicotine..
+
+[Werkelijk bedankt Mevr Algra voor dit verhelderende artikel,…](https://www.wanttoknow.nl/gezondheid/het-geheim-achter-nicotine/comment-page-1/#comment-626362)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Robert Kennedy jr. als VS-minister Gezondheidszorg..!!
+
+[https://www.washingtonpost.com/investigations/trumps-bad-bet…](https://www.wanttoknow.nl/overige/robert-kennedy-jr-als-vs-minister-gezondheidszorg/comment-page-1/#comment-626361)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Enkele uren vóór 7/10-inval: Shin Bet ernstige waarschuwing..!!
+
+[Mensen die opletten en zaken proberen te volgen kunnen naar…](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/enkele-uren-voor-7-10-inval-shin-bet-ernstige-waarschuwing/comment-page-1/#comment-626360)
+
+![Quantum](https://secure.gravatar.com/avatar/977195cfaa2b9b0bd6e80992205c038b?s=50&d=identicon&r=g)
+
+##### **Quantum** reacts on:
+
+##### Het geheim achter nicotine..
+
+[Goed artikel, nooit geweten dat je zoiets mooi kunt oplossen…](https://www.wanttoknow.nl/gezondheid/het-geheim-achter-nicotine/comment-page-1/#comment-626359)
 
 ![Relahmed](https://secure.gravatar.com/avatar/951fb6da99062a964593d328f1ba9ebe?s=50&d=identicon&r=g)
 
@@ -355,38 +397,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Rechtszaak tegen Rutte blokkeert NAVO-job..!!!
 
 [Het probleem met sommige "hoog geplaatsten" (waaronder Rutte…](https://www.wanttoknow.nl/nieuws/rechtszaak-tegen-rutte-blokkeert-navo-job/comment-page-1/#comment-626330)
-
-![Ron](https://secure.gravatar.com/avatar/1b04eec12e302b86452b78c026422be2?s=50&d=identicon&r=g)
-
-##### **Ron** reacts on:
-
-##### Zijn de 2024-presidentsverkiezigen in de VS al gestolen..?
-
-[In de toekomst zal Amerikaanse politiek ontmaskerd worden al…](https://www.wanttoknow.nl/politiek/verkiezingen/zijn-de-2024-presidentsverkiezigen-in-de-vs-al-gestolen/comment-page-1/#comment-626329)
-
-![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
-
-##### **robvdz** reacts on:
-
-##### MH17 en de waarheidsvinding over deze aanslag…
-
-[Goed dat jullie zoveel aandacht verlenen aan dit onderwerp.…](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/mh17-en-de-waarheidsvinding-over-deze-aanslag/comment-page-1/#comment-626328)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### MH17 en de waarheidsvinding over deze aanslag…
-
-[Ik heb die foto's nog gezien met die reeksen kogelgaten in d…](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/mh17-en-de-waarheidsvinding-over-deze-aanslag/comment-page-1/#comment-626327)
-
-![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
-
-##### **robvdz** reacts on:
-
-##### Het kwaad van de wereld..!
-
-[Het verkleinen van alle shit in deze wereld is er natuurlijk…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/het-kwaad-van-de-wereld/comment-page-1/#comment-626326)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
