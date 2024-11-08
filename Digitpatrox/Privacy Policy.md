@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, November 7 2024
+Friday, November 8 2024
 
 Latest
 
-* [How to remove unwanted objects from pictures with AI on Paint on Windows 11](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
-* [Best Freezers of 2024 – Consumer Reports](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
-* [The Best iPhone 15 Cases of 2024](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
-* [What role will partners play in realizing our collective AI dreams?](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
-* [U.K. Government Introduces AI Self-Assessment Tool](https://digitpatrox.com/u-k-government-introduces-ai-self-assessment-tool/)
-* [How to watch India vs New Zealand 1st Test 2024](https://digitpatrox.com/how-to-watch-india-vs-new-zealand-1st-test-2024/)
-* [Canada orders TikTok to shut down over national risk concerns](https://digitpatrox.com/canada-orders-tiktok-to-shut-down-over-national-risk-concerns/)
-* [The Fitbit Inspire 3 is down to just $70, its best price yet](https://digitpatrox.com/the-fitbit-inspire-3-is-down-to-just-70-its-best-price-yet/)
-* [How to Get Eminem’s Mythic RG Minigun in Fortnite](https://digitpatrox.com/how-to-get-eminems-mythic-rg-minigun-in-fortnite/)
-* [Vendor Spotlight: Cacti](https://digitpatrox.com/vendor-spotlight-cacti/)
+* [Microsoft Ignite 2024 – get the latest news and insights – Computerworld](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
+* [Here’s How to Fix the Bug Causing iPhone Notes to Disappear](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
+* [Vendor Spotlight: Nagios](https://digitpatrox.com/vendor-spotlight-nagios/)
+* [RevAir Hair Dryer Review – Consumer Reports](https://digitpatrox.com/revair-hair-dryer-review-consumer-reports/)
+* [Lucid Motors Gravity SUV Has 440+ Mile Range and 7 Seats](https://digitpatrox.com/lucid-motors-gravity-suv-has-440-mile-range-and-7-seats/)
+* [Which industries are leading the charge when it comes to AI innovation?](https://digitpatrox.com/which-industries-are-leading-the-charge-when-it-comes-to-ai-innovation/)
+* [7 Go to Market Strategy Templates for a Successful Launch](https://digitpatrox.com/7-go-to-market-strategy-templates-for-a-successful-launch/)
+* [It’s alive! New report says Apple Ring still in the works after all](https://digitpatrox.com/its-alive-new-report-says-apple-ring-still-in-the-works-after-all/)
+* [North Korean hackers use new macOS malware against crypto firms](https://digitpatrox.com/north-korean-hackers-use-new-macos-malware-against-crypto-firms/)
+* [The Rivian R2’s next-gen batteries will be made in the US by LG Energy](https://digitpatrox.com/the-rivian-r2s-next-gen-batteries-will-be-made-in-the-us-by-lg-energy/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://pureinfotech.com/wp-content/uploads/2024/11/windows-11-paint-ai-erase-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601006-0-80782100-1731015249-shutterstock_1850894143.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
     
-    [How to remove unwanted objects from pictures with AI on Paint on Windows 11](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
+    [Microsoft Ignite 2024 – get the latest news and insights – Computerworld](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
     
-    4 mins ago
+    19 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1713186231/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Best-Freezers-of-the-Year-0424)](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
+* [![](https://lifehacker.com/imagery/articles/01JC490CYGGWY1EVGP4BCKDYFV/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
     
-    [Best Freezers of 2024 – Consumer Reports](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
-    
-    5 mins ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/53203938391_7c4fa2f0aa_o.jpg)](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
-    
-    [The Best iPhone 15 Cases of 2024](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
-    
-    6 mins ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/BLomQ4aQk2epAVZd5xrp8S-1200-80.jpg)](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
-    
-    [What role will partners play in realizing our collective AI dreams?](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
-    
-    46 mins ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241107-uk-government-ai-management-essentials.jpg)](https://digitpatrox.com/u-k-government-introduces-ai-self-assessment-tool/)
-    
-    [U.K. Government Introduces AI Self-Assessment Tool](https://digitpatrox.com/u-k-government-introduces-ai-self-assessment-tool/)
+    [Here’s How to Fix the Bug Causing iPhone Notes to Disappear](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
     
     47 mins ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Nagios-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-nagios/)
+    
+    [Vendor Spotlight: Nagios](https://digitpatrox.com/vendor-spotlight-nagios/)
+    
+    53 mins ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730151351/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Revair-10-24)](https://digitpatrox.com/revair-hair-dryer-review-consumer-reports/)
+    
+    [RevAir Hair Dryer Review – Consumer Reports](https://digitpatrox.com/revair-hair-dryer-review-consumer-reports/)
+    
+    58 mins ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/lucid-motors-gravity-suv-aurora-green-metallic-color.jpg)](https://digitpatrox.com/lucid-motors-gravity-suv-has-440-mile-range-and-7-seats/)
+    
+    [Lucid Motors Gravity SUV Has 440+ Mile Range and 7 Seats](https://digitpatrox.com/lucid-motors-gravity-suv-has-440-mile-range-and-7-seats/)
+    
+    59 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 mins ago
+* [19 mins ago
     
-    ### How to remove unwanted objects from pictures with AI on Paint on Windows 11](https://digitpatrox.com/how-to-remove-unwanted-objects-from-pictures-with-ai-on-paint-on-windows-11/)
-* [5 mins ago
+    ### Microsoft Ignite 2024 – get the latest news and insights – Computerworld](https://digitpatrox.com/microsoft-ignite-2024-get-the-latest-news-and-insights-computerworld/)
+* [47 mins ago
     
-    ### Best Freezers of 2024 – Consumer Reports](https://digitpatrox.com/best-freezers-of-2024-consumer-reports/)
-* [6 mins ago
+    ### Here’s How to Fix the Bug Causing iPhone Notes to Disappear](https://digitpatrox.com/heres-how-to-fix-the-bug-causing-iphone-notes-to-disappear/)
+* [53 mins ago
     
-    ### The Best iPhone 15 Cases of 2024](https://digitpatrox.com/the-best-iphone-15-cases-of-2024/)
+    ### Vendor Spotlight: Nagios](https://digitpatrox.com/vendor-spotlight-nagios/)
 
 Most Popular Topics
 
-* [1 week ago
+* [August 13, 2024
     
-    ### The New Mac Mini Is Great, but Apple Needs to Make This for It](https://digitpatrox.com/the-new-mac-mini-is-great-but-apple-needs-to-make-this-for-it/)
-* [7 days ago
+    ### Starfield: How To Join United Colonies](https://digitpatrox.com/starfield-how-to-join-united-colonies/)
+* [August 26, 2024
     
-    ### Spot 5 Common Crypto Scams Before It’s Too Late](https://digitpatrox.com/spot-5-common-crypto-scams-before-its-too-late/)
-* [September 12, 2024
+    ### HitPaw VoicePea: The Only AI Voice Changer You Need](https://digitpatrox.com/hitpaw-voicepea-the-only-ai-voice-changer-you-need/)
+* [September 21, 2024
     
-    ### This is why a sagging mattress causes lower back pain — and how to fix it](https://digitpatrox.com/this-is-why-a-sagging-mattress-causes-lower-back-pain-and-how-to-fix-it/)
+    ### AI’s thirsty secret](https://digitpatrox.com/ais-thirsty-secret/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Canada orders TikTok to shut down over national risk concerns](https://digitpatrox.com/canada-orders-tiktok-to-shut-down-over-national-risk-concerns/)
+    ### 7 Go to Market Strategy Templates for a Successful Launch](https://digitpatrox.com/7-go-to-market-strategy-templates-for-a-successful-launch/)
 * [2 hours ago
     
-    ### The Fitbit Inspire 3 is down to just $70, its best price yet](https://digitpatrox.com/the-fitbit-inspire-3-is-down-to-just-70-its-best-price-yet/)
+    ### It’s alive! New report says Apple Ring still in the works after all](https://digitpatrox.com/its-alive-new-report-says-apple-ring-still-in-the-works-after-all/)
 * [3 hours ago
     
-    ### How to Get Eminem’s Mythic RG Minigun in Fortnite](https://digitpatrox.com/how-to-get-eminems-mythic-rg-minigun-in-fortnite/)
+    ### North Korean hackers use new macOS malware against crypto firms](https://digitpatrox.com/north-korean-hackers-use-new-macos-malware-against-crypto-firms/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
