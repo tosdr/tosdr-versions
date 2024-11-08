@@ -87,13 +87,13 @@ Most Read
     
     1. [After decades, FDA finally moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
     
-2. 2. [Trump plans to dismantle Biden AI safeguards after victory](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/)
+2. 2. [Sega is delisting 60 classic games from Steam, so now’s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
     
-3. 3. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
+3. 3. [Trump’s likely FCC chair wrote Project 2025 chapter on how he’d run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
     
-4. 4. [Trump’s likely FCC chair wrote Project 2025 chapter on how he’d run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
+4. 4. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
     
-5. 5. [Sega is delisting 60 classic games from Steam, so now’s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
+5. 5. [Secondhand EVs will flood the market in 2026, JD Power says](https://arstechnica.com/cars/2024/11/second-hand-evs-will-flood-the-market-in-2026-jd-power-says/)
     
 
 Customize
