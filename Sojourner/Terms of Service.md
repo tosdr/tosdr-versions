@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ad227fe184361292a80930caa9277ace
+94e491d09140aa9faee175da59be3f76
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Montana pebble clasp](https://sojourner.biz/images/cache/SKU0398front.200.jpg)](https://sojourner.biz/clasps/glass/montana-pebble-clasp.html "Montana pebble clasp")
+[![Teal flower beads](https://sojourner.biz/images/cache/glass/GL0029.200.jpg)](https://sojourner.biz/beads/glass/teal-flower-beads.html "Teal flower beads")
 
-#### [Montana pebble clasp](https://sojourner.biz/clasps/glass/montana-pebble-clasp.html "Montana pebble clasp")
+#### [Teal flower beads](https://sojourner.biz/beads/glass/teal-flower-beads.html "Teal flower beads")
 
-$27.00
+$10.00
 
 ### Best Sellers
 
