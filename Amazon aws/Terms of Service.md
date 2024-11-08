@@ -83,7 +83,7 @@ Close
 AWS Service Terms
 =================
 
-#### Last Updated: November 1, 2024
+#### Last Updated: November 7, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -662,6 +662,8 @@ We may delete, upon 30 days’ notice to you, any of Your Content uploaded to AW
 **31.7.** If your use of Amazon WorkMail is terminated, we may delete your data and your End Users’ mailboxes.
 
 **31.8.** Portions of Amazon WorkMail in Japan are sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement.
+
+  
 
 #### 32\. Amazon WorkSpaces Application Manager (Amazon WAM)
 
@@ -1478,13 +1480,19 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 #### 92\. AWS Clean Rooms
 
-**92.1.**[](#_msocom_1) You may not use AWS Clean Rooms or any information obtained from your use of AWS Clean Rooms to identify a person or associate such information with an identifiable person, unless otherwise permitted by the applicable third party contributor of the data.
+**92.1.**[](#_msocom_1) You may not use AWS Clean Rooms or any information obtained from your use of AWS Clean Rooms to identify a person or associate such information with an identifiable person, unless otherwise permitted by the applicable third-party contributor of the data.
 
-**92.2. AWS Clean Rooms ML**
+**92.2.** AWS Clean Rooms may provide you with the ability to collaborate (an “AWS Clean Rooms Collaboration”) with other AWS customers (an “Other AWS Customer”). You may make available Your Content, including a dataset and/or a custom model, as part of an AWS Clean Rooms Collaboration. You may also disclose Your Content to, or receive Third-Party Content from an Other AWS Customer.
 
-**92.2.1.** You will not, and will not allow any third-party to, use AWS Clean Rooms ML to, directly or indirectly, develop or improve a similar or competing product or service to AWS Clean Rooms ML.
+**92.3.** If you request deletion of Your Content from the AWS Clean Rooms Collaboration dataset, or if an Other AWS Customer that is a participant to the AWS Clean Rooms Collaboration requests deletion of its Third-Party Content from the AWS Clean Rooms Collaboration dataset, we will delete all Your Content and all Third-Party Content from the AWS Clean Rooms Collaboration dataset.
 
-**92.2.2.** AWS Clean Rooms ML is not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage. AWS Clean Rooms ML may be used in connection with supporting healthcare services but is not a medical device and is not intended to be used by itself for any clinical decision-making or other clinical use. You are responsible for liability that may arise in connection with any such uses.
+**92.4.** Any interaction as part of an AWS Clean Rooms Collaboration will be governed by separate terms and conditions between you and such Other AWS Customer (if any).
+
+**92.5. AWS Clean Rooms ML**
+
+**92.5.1.** You will not, and will not allow any third-party to, use AWS Clean Rooms ML to, directly or indirectly, develop or improve a similar or competing product or service to AWS Clean Rooms ML.
+
+**92.5.2.** AWS Clean Rooms ML is not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage. AWS Clean Rooms ML may be used in connection with supporting healthcare services but is not a medical device and is not intended to be used by itself for any clinical decision-making or other clinical use. You are responsible for liability that may arise in connection with any such uses.
 
 #### 93\. Amazon CodeCatalyst
 
@@ -1588,7 +1596,7 @@ f. Your use of Luxion’s Keyshot is subject to the terms and conditions of the 
 
 **103.3**. AWS may change, deprecate, or discontinue any offering of DCC Software at any time upon notice to you. We will provide you with prior notice of any deprecation or discontinuation of DCC Software where practicable under the circumstances.
 
-[Previous version(s)](https://aws.amazon.com/service-terms/historical/)[](https://aws.amazon.com/service-terms/historical/)
+[Previous version(s)](https://aws.amazon.com/service-terms/historical/)
 
 [Sign In to the Console](https://console.aws.amazon.com/console/home?nc1=f_ct&src=footer-signin-mobile)
 
