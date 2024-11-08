@@ -160,7 +160,7 @@ The **company** website contains links to other websites. Our privacy policy app
 
 ### Privacy Policy Changes
 
-**company** keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on **November 7, 2024**.
+**company** keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on **November 8, 2024**.
 
 ### Contact and complaints
 
