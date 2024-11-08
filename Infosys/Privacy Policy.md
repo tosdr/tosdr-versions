@@ -259,7 +259,7 @@ About Us
 Privacy Statement
 =================
 
-_Last updated on July 17, 2024_
+_Last updated on November 08, 2024_
 
 Infosys Limited, its subsidiaries and branch operations hereinafter referred as ‘Infosys’, ‘we’, ‘us’ or ‘our’ is committed to respect your privacy and choices. The privacy statement (hereinafter “Privacy Statement” or “Statement”) highlights our privacy practices regarding Personal Information that we collect and process in compliance to applicable data privacy regulations.
 
@@ -470,6 +470,34 @@ The above data elements are collected under one or more of the following lawful 
 Your Personal Data will be accessible to certain authorized Infosys employees in internal functions such as Human Resources, Finance, Project Delivery Units, etc.; and to our authorized service providers or agents who may require access to the same for processing in relation to the above stated purpose(s); Government Bodies including statutory, regulatory authorities, law-enforcement agencies (where applicable); Auditors (internal/external); Infosys’ Clients (where applicable) based on contractual obligation; Any other parties expressly or impliedly authorized by you for receiving such disclosures.
 
 For reference to our additional privacy practices regarding data security, retention, transfers (if any), and helping you exercise your rights, as applicable, please refer to our Global Privacy Statement.
+
+#### [Investors](#collapse6)
+
+**Categories of Personal Information (including sensitive personal information) that we process:**
+
+Name, Designation, Funds Managed, Contact Number, Email ID, Location, Institution and Fund details etc.\*
+
+_\* Please note that the categories of personal (or sensitive personal) details processed may differ based on the business requirement of the entity and legal requirement of a country._
+
+_As part of this process, we may have processed your above mentioned personal data via third party partners or publicly available information, wherein such data would have been collected and processed by such parties acting as independent data controllers in accordance with their privacy and related policies._
+
+**Use of your Personal Information**
+
+We use your Personal Information for the following purposes:
+
+_For the purpose of contacting you._
+
+_For the purpose of updating you about the news related to Infosys._
+
+**Legal Basis of Processing:**
+
+We process your Personal Data on the basis of legitimate interest pursued by us or a third party (when these interests are not overridden by your data protection rights) or consent based on the DP Laws of the applicable jurisdiction.
+
+**Data Recipients/Accessible to:**
+
+Your data may be accessible to authorized Internal recipients within Infosys Ltd., its subsidiaries or affiliates, our authorized service providers including cloud service providers who provide services to Infosys, business partners, tax consultants and authorities, Government Bodies including statutory, regulatory authorities, law-enforcement agencies (where applicable), Auditors (internal/external).
+
+For reference to our additional privacy practices regarding data security, retention, transfers (if any), and helping you exercise your rights, as applicable, please refer to our [Global Privacy Statement](https://www.infosys.com/privacy-statement.html "Global Privacy Statement").
 
 #### [Shareholders](#collapse4)
 
