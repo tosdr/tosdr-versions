@@ -64,8 +64,7 @@ Language
 
 [English](https://www.xing.com/language?sc_o=navigation_footer)
 
-* Find jobs
-    
+* [Find jobs](https://www.xing.com/)
 * [Companies](https://www.xing.com/companies)
 * [Network](https://www.xing.com/network)
 * [Insights](https://www.xing.com/insights?sc_o=navigation_insights&sc_o_PropActionOrigin=navigation_badge_no_badge)
