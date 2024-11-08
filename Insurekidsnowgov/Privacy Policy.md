@@ -2,6 +2,8 @@
 
 IMPORTANT: Look for your child’s Medicaid or CHIP renewal in the mail, complete it and mail it back immediately. They may be covered even if you’re not! Go to [Medicaid.gov/renewals](https://www.medicaid.gov/resources-for-states/coronavirus-disease-2019-covid-19/unwinding-and-returning-regular-operations-after-covid-19/renew-your-medicaid-or-chip-coverage/index.html) to find contact information for your state Medicaid office.
 
+x
+
 ![U.S. flag](/themes/custom/medicaid/images/us_flag_small.png)
 
 An official website of the United States government Here’s how you know
@@ -113,7 +115,7 @@ Breadcrumb
 ----------
 
 1. [Home](https://www.insurekidsnow.gov/)
-2. InsureKidsNow.gov Privacy Policy
+2. Privacy Policy
 
 InsureKidsNow.gov Privacy Policy
 ================================
