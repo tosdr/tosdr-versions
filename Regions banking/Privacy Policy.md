@@ -106,7 +106,7 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         
         * [Small Business Financing Overview](https://www.regions.com/small-business/business-financing)
         * [Loans & Lines of Credit](https://www.regions.com/small-business/business-financing/loans-and-lines-of-credit)
-        * [SBA Loans](https://www.regions.com/small-business/business-financing/sba-loans)
+        * [SBA Loans](https://www.regions.com/small-business/business-financing/sba-loans-old)
         * [Business Rewards](https://www.regions.com/small-business/business-credit-cards/credit-card-rewards)
         * [Equipment Finance & Leasing](https://www.regions.com/small-business/business-financing/equipment-financing-and-leasing)
         * [Franchise Banking](https://www.regions.com/commercial-banking/franchise-banking)
@@ -448,3 +448,5 @@ You’re leaving Regions.com to visit an external website or app.
 Regions provides links to other websites or apps for your convenience and does not control the content, services or products provided on the linked website or app, whose Privacy and security policies or procedures may differ. Consult the policies or disclosures on their website.
 
 [Continue](#) Cancel
+
+ [![](-/media/Images/Icon/icon-calendar/icon-calendar.svg) Make an Appointment (Opens in a new window)](https://timetrade.com/app/regions/workflows/REGPHONE/schedule/?campaignId=website&view=embed "make-an-appointment")
