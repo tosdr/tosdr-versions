@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92021/aus-vs-pak-2nd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 2nd ODI - Preview")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100337/rsa-vs-ind-1st-t20i-india-tour-of-south-africa-2024 "South Africa v India, 1st T20I - Preview")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 2nd unofficial Test - Stumps")[MLSW vs SYSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101344/mlsw-vs-sysw-18th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Sixers Women, 18th Match - Preview")[PRSW vs MLRW - PRSW Won](https://www.cricbuzz.com/live-cricket-scores/101341/prsw-vs-mlrw-17th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Melbourne Renegades Women, 17th Match - PRSW Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[INDA vs AUSA - Lunch](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 2nd unofficial Test - Lunch")[MLSW vs SYSW - Live](https://www.cricbuzz.com/live-cricket-scores/101344/mlsw-vs-sysw-18th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Sixers Women, 18th Match - Live")[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92021/aus-vs-pak-2nd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 2nd ODI - Preview")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100337/rsa-vs-ind-1st-t20i-india-tour-of-south-africa-2024 "South Africa v India, 1st T20I - Preview")[PRSW vs MLRW - PRSW Won](https://www.cricbuzz.com/live-cricket-scores/101341/prsw-vs-mlrw-17th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Melbourne Renegades Women, 17th Match - PRSW Won")
 
 AllLive NowToday
 
@@ -75,6 +75,10 @@ AllLive NowToday
     [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95160/eng-vs-wi-3rd-odi-west-indies-v-england-2024 "England v West Indies, 3rd ODI - WI Won")
     
     3rd ODI
+    
+* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-west-indies-v-england-2024 "West Indies v England, 1st T20I - Upcoming")
+    
+    1st T20I
     
 * Australia v Pakistan
     
@@ -106,13 +110,13 @@ AllLive NowToday
     
     Elite Group A
     
-* [Tamil Nadu vs Assam](https://www.cricbuzz.com/live-cricket-scores/97646/tn-vs-asm-elite-group-d-ranji-trophy "Tamil Nadu v Assam, Elite Group D - Stumps")
-    
-    Elite Group D
-    
 * [Baroda vs Tripura](https://www.cricbuzz.com/live-cricket-scores/97558/brd-vs-tri-elite-group-a-ranji-trophy "Baroda v Tripura, Elite Group A - Stumps")
     
     Elite Group A
+    
+* [Tamil Nadu vs Assam](https://www.cricbuzz.com/live-cricket-scores/97646/tn-vs-asm-elite-group-d-ranji-trophy "Tamil Nadu v Assam, Elite Group D - Stumps")
+    
+    Elite Group D
     
 * [Madhya Pradesh vs Bihar](https://www.cricbuzz.com/live-cricket-scores/97626/mp-vs-bih-elite-group-c-ranji-trophy "Madhya Pradesh v Bihar, Elite Group C - Stumps")
     
@@ -129,6 +133,22 @@ AllLive NowToday
 * [Chhattisgarh vs Railways](https://www.cricbuzz.com/live-cricket-scores/97664/cg-vs-rlys-elite-group-d-ranji-trophy "Chhattisgarh v Railways, Elite Group D - Stumps")
     
     Elite Group D
+    
+* [Services vs Maharashtra](https://www.cricbuzz.com/live-cricket-scores/97576/ser-vs-mah-elite-group-a-ranji-trophy "Services v Maharashtra, Elite Group A - Stumps")
+    
+    Elite Group A
+    
+* [Haryana vs Punjab](https://www.cricbuzz.com/live-cricket-scores/97630/har-vs-pun-elite-group-c-ranji-trophy "Haryana v Punjab, Elite Group C - Stumps")
+    
+    Elite Group C
+    
+* [Bengal vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97619/ben-vs-kar-elite-group-c-ranji-trophy "Bengal v Karnataka, Elite Group C - Stumps")
+    
+    Elite Group C
+    
+* [Hyderabad vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97608/hyd-vs-raj-elite-group-b-ranji-trophy "Hyderabad v Rajasthan, Elite Group B - Stumps")
+    
+    Elite Group B
     
 * [Himachal Pradesh vs Vidarbha](https://www.cricbuzz.com/live-cricket-scores/97599/hp-vs-vid-elite-group-b-ranji-trophy "Himachal Pradesh v Vidarbha, Elite Group B - Stumps")
     
@@ -149,22 +169,6 @@ AllLive NowToday
 * [Uttar Pradesh vs Kerala](https://www.cricbuzz.com/live-cricket-scores/97637/up-vs-ker-elite-group-c-ranji-trophy "Uttar Pradesh v Kerala, Elite Group C - Stumps")
     
     Elite Group C
-    
-* [Services vs Maharashtra](https://www.cricbuzz.com/live-cricket-scores/97576/ser-vs-mah-elite-group-a-ranji-trophy "Services v Maharashtra, Elite Group A - Stumps")
-    
-    Elite Group A
-    
-* [Haryana vs Punjab](https://www.cricbuzz.com/live-cricket-scores/97630/har-vs-pun-elite-group-c-ranji-trophy "Haryana v Punjab, Elite Group C - Stumps")
-    
-    Elite Group C
-    
-* [Bengal vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97619/ben-vs-kar-elite-group-c-ranji-trophy "Bengal v Karnataka, Elite Group C - Stumps")
-    
-    Elite Group C
-    
-* [Hyderabad vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97608/hyd-vs-raj-elite-group-b-ranji-trophy "Hyderabad v Rajasthan, Elite Group B - Stumps")
-    
-    Elite Group B
     
 * Ranji Trophy Plate
     
@@ -224,7 +228,7 @@ AllLive NowToday
     
 * Australia A v India A
     
-    [India A vs Australia A](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-australia-a-v-india-a "India A v Australia A, 2nd unofficial Test - Stumps")
+    [India A vs Australia A](https://www.cricbuzz.com/live-cricket-scores/96539/inda-vs-ausa-2nd-unofficial-test-australia-a-v-india-a "India A v Australia A, 2nd unofficial Test - Lunch")
     
     2nd unofficial Test
     
@@ -254,7 +258,7 @@ AllLive NowToday
     
     17th Match
     
-* [Melbourne Stars Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101344/mlsw-vs-sysw-18th-match-wbbl-2024 "Melbourne Stars Women v Sydney Sixers Women, 18th Match - Preview")
+* [Melbourne Stars Women vs Sydney Sixers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101344/mlsw-vs-sysw-18th-match-wbbl-2024 "Melbourne Stars Women v Sydney Sixers Women, 18th Match - Live")
     
     18th Match
     
@@ -265,6 +269,10 @@ AllLive NowToday
 * [Brisbane Heat Women vs Adelaide Strikers Women](https://www.cricbuzz.com/live-cricket-scores/101347/brhw-vs-adsw-20th-match-wbbl-2024 "Brisbane Heat Women v Adelaide Strikers Women, 20th Match - Upcoming")
     
     20th Match
+    
+* [Hobart Hurricanes Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101352/hbhw-vs-prsw-21st-match-wbbl-2024 "Hobart Hurricanes Women v Perth Scorchers Women, 21st Match - Upcoming")
+    
+    21st Match
     
 * China Womens T20I Quadrangular Series
     
@@ -291,6 +299,10 @@ AllLive NowToday
 * [Hong Kong Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/109201/hkw-vs-mglw-6th-match-china-womens-t20i-quadrangular-series "Hong Kong Women v Mongolia Women, 6th Match - Upcoming")
     
     6th Match
+    
+* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/109204/tbc-vs-tbc-3rd-place-play-off-china-womens-t20i-quadrangular-series "TBC v TBC, 3rd Place Play-off - Upcoming")
+    
+    3rd Place Play-off
     
 
 Privacy Policy
@@ -599,41 +611,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132354/nabi-set-to-retire-from-odis-after-champions-trophy "Nabi set to retire from ODIs after Champions Trophy")
+
+[Nabi set to retire from ODIs after Champions Trophy](https://www.cricbuzz.com/cricket-news/132354/nabi-set-to-retire-from-odis-after-champions-trophy "Nabi set to retire from ODIs after Champions Trophy")
+
+20m ago
+
   [](https://www.cricbuzz.com/cricket-news/132353/up-warriorz-continue-to-keep-faith-in-homegrown-talent "UP Warriorz continue to keep faith in homegrown talent")
 
 [UP Warriorz continue to keep faith in homegrown talent](https://www.cricbuzz.com/cricket-news/132353/up-warriorz-continue-to-keep-faith-in-homegrown-talent "UP Warriorz continue to keep faith in homegrown talent")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132352/swashbuckler-jake-fraser-mcgurk-puts-in-the-hard-yards "Swashbuckler Jake Fraser-McGurk puts in the hard yards")
 
 [Swashbuckler Jake Fraser-McGurk puts in the hard yards](https://www.cricbuzz.com/cricket-news/132352/swashbuckler-jake-fraser-mcgurk-puts-in-the-hard-yards "Swashbuckler Jake Fraser-McGurk puts in the hard yards")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132351/south-africa-india-series-deep-in-ipl-auctions-shadow "South Africa-India series deep in IPL auction's shadow")
 
 [South Africa-India series deep in IPL auction's shadow](https://www.cricbuzz.com/cricket-news/132351/south-africa-india-series-deep-in-ipl-auctions-shadow "South Africa-India series deep in IPL auction's shadow")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132350/ranji-wrap-mumbai-make-inroads-after-shreyas-iyer-double-ton "Ranji Wrap: Mumbai make inroads after Shreyas Iyer double ton")
 
 [Ranji Wrap: Mumbai make inroads after Shreyas Iyer double ton](https://www.cricbuzz.com/cricket-news/132350/ranji-wrap-mumbai-make-inroads-after-shreyas-iyer-double-ton "Ranji Wrap: Mumbai make inroads after Shreyas Iyer double ton")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132349/mumbai-indians-release-issy-wong-gujarat-giants-let-go-of-sneh-rana "Mumbai Indians release Issy Wong; Gujarat Giants let go of Sneh Rana")
 
 [Mumbai Indians release Issy Wong; Gujarat Giants let go of Sneh Rana](https://www.cricbuzz.com/cricket-news/132349/mumbai-indians-release-issy-wong-gujarat-giants-let-go-of-sneh-rana "Mumbai Indians release Issy Wong; Gujarat Giants let go of Sneh Rana")
 
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132348/knight-bates-keep-thunder-on-top-of-the-table "Knight, Bates keep Thunder on top of the table")
-
-[Knight, Bates keep Thunder on top of the table](https://www.cricbuzz.com/cricket-news/132348/knight-bates-keep-thunder-on-top-of-the-table "Knight, Bates keep Thunder on top of the table")
-
-9h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
