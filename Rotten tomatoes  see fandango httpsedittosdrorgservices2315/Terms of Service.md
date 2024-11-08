@@ -100,27 +100,27 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234523/FND_poster_Wicked-Presale.jpg)
     
     Wicked (2024)](https://www.fandango.com/wicked-2024-234523/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/FND_poster_Moana2-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236836/Heretic-Payoff-Dated.jpg)
     
-    Moana 2 (2024)](https://www.fandango.com/moana-2-2024-235102/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235359/WRB_Tree1Sheet6_RGB_1.jpg)
+    Heretic (2024)](https://www.fandango.com/heretic-2024-236836/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236912/BCPE_2000x3000_1SHT_TREE-FIRE_V2.jpg)
     
-    The Wild Robot (2024)](https://www.fandango.com/the-wild-robot-2024-235359/movie-overview)
+    The Best Christmas Pageant Ever (2024)](https://www.fandango.com/the-best-christmas-pageant-ever-2024-236912/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234514/VNM3_OnLine_2000x3000_TSR_02_sm.jpg)
     
     Venom: The Last Dance (2024)](https://www.fandango.com/venom-the-last-dance-2024-234514/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/FND_poster_Gladiator2-Presale.jpg)
     
     Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/FND_poster_Moana2-Presale.jpg)
+    
+    Moana 2 (2024)](https://www.fandango.com/moana-2-2024-235102/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235322/FND_poster_RedOne-Presale.jpg)
     
     Red One (2024)](https://www.fandango.com/red-one-2024-235322/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235494/Conclave_OfficialPoster.jpg)
     
     Conclave (2024)](https://www.fandango.com/conclave-2024-235494/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236735/S2_DOM_2025x3000_ONLINE_TEASER_ONE_SHEET_TORN.jpg)
-    
-    Smile 2 (2024)](https://www.fandango.com/smile-2-2024-236735/movie-overview)
 
 ### Experience + Explore
 
