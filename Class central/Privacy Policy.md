@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [7 Best Dropshipping Courses for 2024](https://www.classcentral.com/report/best-dropshipping-courses/)
-2. [Harvard’s Intro to Python: Earn a Free Certificate](https://www.classcentral.com/report/harvard-cs50-python/)
-3. [330+ Free University Courses to Learn a New Language](https://www.classcentral.com/report/language-learning-online-courses/)
-4. [Learn Something New: 100 Most Popular Courses For November](https://www.classcentral.com/report/most-popular-november-2024/)
-5. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
+1. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
+2. [6 Best Graphic Design Courses for Beginners for 2024](https://www.classcentral.com/report/best-graphic-design-courses/)
+3. [7 Best Dropshipping Courses for 2024](https://www.classcentral.com/report/best-dropshipping-courses/)
+4. [Harvard’s Intro to Python: Earn a Free Certificate](https://www.classcentral.com/report/harvard-cs50-python/)
+5. [330+ Free University Courses to Learn a New Language](https://www.classcentral.com/report/language-learning-online-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. hacking
+1. excel
     
-2. law
+2. c
     
-3. web development
+3. psychology
     
 
 Popular subjects
