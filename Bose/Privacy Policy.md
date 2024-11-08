@@ -572,7 +572,7 @@ Next step: become a My Bose member to enjoy all our perks, starting with your 10
 
 [Join My Bose](https://www.bose.com/login?oauthProvider=Azure-AD-B2C)
 
-If you don’t receive the email with your coupon code within 24 hours after creating a My Bose account, please contact [support](https://www.bose.com/s/get-help-landing-page). Enjoy shopping with your exclusive discount on Bose.com!
+If you don’t receive the email with your coupon code within 24 hours after creating a My Bose account, please contact [support](https://support.bose.com/s/get-help-landing-page). Enjoy shopping with your exclusive discount on Bose.com!
 
 We are experiencing issues at this moment. Please try again later.
 
