@@ -52,29 +52,21 @@ The following information may be collected, used, and stored in a cookie when se
 * Email (in a hashed or encrypted form)
 
 Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoic’s partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
 
-[Privacy Policy](https://www.ezoic.com/privacy-policy/advertising-partners/)
-============================================================================
+Privacy Policy
+==============
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
+Privacy Policy
+--------------
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[Privacy Policy
---------------](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[At Linux Handbook, we take data privacy seriously, very seriously!
+At Linux Handbook, we take data privacy seriously, very seriously!
 
 Our website runs on HTTPS which means your connection to our website is secure.
 
-We do show ads in partnership with BuySellAds.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+We do show ads in partnership with BuySellAds.
 
-[We use](https://www.ezoic.com/privacy-policy/advertising-partners/) [Cove](https://cove.chat/) for providing the commenting system. Only members (both normal and sudo members) can leave comments. Cove also doesn't track you.
+We use [Cove](https://cove.chat/) for providing the commenting system. Only members (both normal and sudo members) can leave comments. Cove also doesn't track you.
 
 We often link to external resources for further reading and consultation. The external websites have their own privacy policy and we don't have any control on that.
 
