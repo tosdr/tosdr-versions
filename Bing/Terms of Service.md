@@ -785,7 +785,7 @@ Developer & IT
 Company
 
 * [Careers](https://careers.microsoft.com/)
-* [About Microsoft](https://www.microsoft.com/en-us/about)
+* [About Microsoft](https://www.microsoft.com/about)
 * [Company news](https://news.microsoft.com/)
 * [Privacy at Microsoft](https://privacy.microsoft.com/en-us)
 * [Investors](https://www.microsoft.com/investor/default.aspx)
