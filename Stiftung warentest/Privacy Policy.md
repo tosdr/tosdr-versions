@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Service Stiftung Warentest
 
