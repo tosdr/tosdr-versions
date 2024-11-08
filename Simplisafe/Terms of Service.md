@@ -34,7 +34,7 @@ Account
 
 [Security dashboard](https://webapp.simplisafe.com/)[Expand my system](https://simplisafe.com/alarm-sensors)
 
-[Home](https://simplisafe.com/)[Legal](https://simplisafe.com/legal)[Terms of Use](https://simplisafe.com/terms-of-use)
+[Home](https://simplisafe.com/)[Legal](https://simplisafe.com/legal)[Terms of Use](https://legal/terms-of-use)
 
 ### SimpliSafe Terms of Use
 
@@ -42,11 +42,11 @@ Account
 
 These terms of use are entered into by and between You and SimpliSafe, Inc. (**“SimpliSafe”**, **“Company"**, **"we"** or **"us"**). The following terms and conditions, together with any documents, agreements or policies they expressly incorporate by reference (collectively, these **"Terms of Use"**), govern your access to and use of [www.simplisafe.com](https://www.simplisafe.com/) or any other mobile or web interface now existing or later developed (e.g., mobile sites or mobile applications, collectively, **“Online Applications”**), including any content and functionality offered on or through [www.simplisafe.com](https://www.simplisafe.com/) or any Online Applications (collectively, the **"Website"**). The term “you,” as used in this these Terms of Use, means any person or entity who accesses or uses the Website.
 
-Please read these Terms of Use carefully before you start to use the Website. By using the Website, you accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at [www.simplisafe.com/privacy-policy](https://simplisafe.com/privacy-policy), incorporated herein by reference. If you do not want to agree to these Terms of Use or the [Privacy Policy](https://simplisafe.com/privacy-policy), you must not access or use the Website.
+Please read these Terms of Use carefully before you start to use the Website. By using the Website, you accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at [www.simplisafe.com/legal/privacy-policy](https://simplisafe.com/legal/privacy-policy), incorporated herein by reference. If you do not want to agree to these Terms of Use or the [Privacy Policy](https://simplisafe.com/legal/privacy-policy), you must not access or use the Website.
 
 The Website is offered and available to users who are 18 years of age or older. By using the Website, you represent and warrant that you meet the foregoing eligibility requirements. If you do not, you must not access or use the Website. Moreover, the products and services featured on the Website are available only in the United States. You agree not to use or attempt to use any SimpliSafe product or service from outside of the United States or for any illegal or unlawful purpose.
 
-For the avoidance of doubt, the [Terms of Service](https://simplisafe.com/terms-of-service) govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](https://simplisafe.com/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](https://simplisafe.com/terms-of-service)a or [Terms of Sale](https://simplisafe.com/terms-sale) shall be superseded and governed by the [Terms of Service](https://simplisafe.com/terms-of-service) or [Terms of Sale](https://simplisafe.com/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising under the** [Terms of Service](https://simplisafe.com/terms-of-service) **or** [Terms of Sale](https://simplisafe.com/terms-sale) **shall be subject solely to those terms and not these Terms of Use.**
+For the avoidance of doubt, the [Terms of Service](https://simplisafe.com/legal/terms-of-service) govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](https://simplisafe.com/legal/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](https://simplisafe.com/legal/terms-of-service)s or [Terms of Sale](https://simplisafe.com/legal/terms-sale) shall be superseded and governed by the [Terms of Service](https://simplisafe.com/legal/terms-of-service) or [Terms of Sale](https://simplisafe.com/legal/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising under the** [Terms of Service](https://simplisafe.com/legal/terms-of-service) **or** [Terms of Sale](https://simplisafe.com/legal/terms-sale) **shall be subject solely to those terms and not these Terms of Use.**
 
 1\. **Changes to the Terms of Use & Website**
 
@@ -149,7 +149,7 @@ These content standards apply to any and all User Contributions and use of Inter
     
 * Infringe any patent, trademark, trade secret, copyright or other intellectual property or other rights of any other person.
     
-* Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our [Privacy Policy](https://simplisafe.com/privacy-policy).
+* Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our [Privacy Policy](https://simplisafe.com/legal/privacy-policy).
     
 * Be likely to deceive any person.
     
@@ -191,7 +191,7 @@ The Website may include content provided by third parties, including materials p
 
 11\. **Information About You and Your Visits to the Website**
 
-Please refer to SimpliSafe’s Privacy Policy at [www.simplisafe.com/privacy-policy](https://simplisafe.com/privacy-policy) for important information about our collection, use and sharing of your personal information. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the [Privacy Policy](https://simplisafe.com/privacy-policy).
+Please refer to SimpliSafe’s Privacy Policy at [www.simplisafe.com/legal](https://simplisafe.com/legal/privacy-policy) for important information about our collection, use and sharing of your personal information. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the [Privacy Policy](https://simplisafe.com/legal/privacy-policy).
 
 12\. **Linking to the Website and Social Media Features**
 
@@ -243,7 +243,7 @@ You agree to defend, indemnify and hold harmless the Company, its affiliates, li
 
 18\. **Governing Law and Jurisdiction**
 
-This Agreement shall be governed by and construed according to the laws of the Commonwealth of Massachusetts without reference to its conflicts of law rules. The interpretation of this Agreement shall not be construed against the drafter. You agree that any action at law or in equity arising out of or relating to these Website Terms of Use shall be filed only in the state and federal courts located in Boston, Massachusetts and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action, or proceeding arising out of these Website Terms of Use. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF YOU OR WE WANT TO ASSERT A DISPUTE AGAINST THE OTHER, THEN YOU OR WE MUST COMMENCE IT (BY DELIVERY OF WRITTEN NOTICE AS SET FORTH IN SECTION 21 WITHIN 1 YEAR AFTER THE DISPUTE ARISES -- OR IT WILL BE FOREVER BARRED. DISPUTES AND CLAIMS ARISING UNDER THE [TERMS OF SERVICE](https://simplisafe.com/terms-of-service) AND [TERMS OF SALE](https://simplisafe.com/terms-sale) SHALL BE SUBJECT TO THE CORRESPONDING DISPUTE RESOLUTION PROVISIONS SET FORTH THEREIN.
+This Agreement shall be governed by and construed according to the laws of the Commonwealth of Massachusetts without reference to its conflicts of law rules. The interpretation of this Agreement shall not be construed against the drafter. You agree that any action at law or in equity arising out of or relating to these Website Terms of Use shall be filed only in the state and federal courts located in Boston, Massachusetts and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action, or proceeding arising out of these Website Terms of Use. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF YOU OR WE WANT TO ASSERT A DISPUTE AGAINST THE OTHER, THEN YOU OR WE MUST COMMENCE IT (BY DELIVERY OF WRITTEN NOTICE AS SET FORTH IN SECTION 21 WITHIN 1 YEAR AFTER THE DISPUTE ARISES -- OR IT WILL BE FOREVER BARRED. DISPUTES AND CLAIMS ARISING UNDER THE [TERMS OF SERVICE](https://simplisafe.com/legal/terms-of-service) AND [TERMS OF SALE](https://simplisafe.com/legal/terms-sale) SHALL BE SUBJECT TO THE CORRESPONDING DISPUTE RESOLUTION PROVISIONS SET FORTH THEREIN.
 
 19\. **Waiver and Severability**
 
@@ -251,9 +251,9 @@ No waiver of by the Company of any term or condition set forth in these Terms of
 
 20\. **Entire Agreement**
 
-The Terms of Use and our [Privacy Policy](https://simplisafe.com/privacy-policy) constitute the sole and entire agreement between you and SimpliSafe with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to your use the Website.
+The Terms of Use and our [Privacy Policy](https://simplisafe.com/legal/privacy-policy) constitute the sole and entire agreement between you and SimpliSafe with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to your use the Website.
 
-For the avoidance of doubt, the [Terms of Service](https://simplisafe.com/terms-of-service) govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](https://simplisafe.com/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](https://simplisafe.com/terms-of-service) or [Terms of Sale](https://simplisafe.com/terms-sale) shall be superseded and governed by the [Terms of Service](https://simplisafe.com/terms-of-service) or [Terms of Sale](https://simplisafe.com/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising thereunder shall be subject solely to those terms and not these Terms of Use.**
+For the avoidance of doubt, the [Terms of Service](https://simplisafe.com/legal/terms-of-service) govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](https://simplisafe.com/legal/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](https://simplisafe.com/legal/terms-of-service) or [Terms of Sale](https://simplisafe.com/legal/terms-sale) shall be superseded and governed by the [Terms of Service](https://simplisafe.com/legal/terms-of-service) or [Terms of Sale](https://simplisafe.com/legal/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising thereunder shall be subject solely to those terms and not these Terms of Use.**
 
 21\. **Your Comments and Concerns**
 
