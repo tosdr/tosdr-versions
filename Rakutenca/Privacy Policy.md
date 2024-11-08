@@ -1,3 +1,7 @@
+[Gap Canada: Take 50% off your purchase! + 6% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/gap-canada?store=gap-canada&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -103,15 +107,15 @@ FR
         
         Recommended Stores
         
-        [Lenovo Canada
+        [HP Canada
+        
+        10% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
         
         3% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)[Staples Canada
         
-        up to 2% Cash Back](https://www.rakuten.ca/staples-canada)[HP Canada
-        
-        10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
+        up to 2% Cash Back](https://www.rakuten.ca/staples-canada)[Samsung
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)
         
