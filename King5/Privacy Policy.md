@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5/20240827T002128/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5/20240827T002128/b727f1bf-549d-4f5f-8b03-a675a2c3d0d5_360x203.jpg)](https://www.king5.com/article/news/crime/not-guilty-plea-cold-case-murder-kent-dorothy-silzel/281-5f27bd49-475a-4641-97ba-0f35411aba3b)
+    *  [![](https://media.king5.com/assets/KING/images/011ab235-fe20-49ab-af5a-0396ee51361f/20241107T223756/011ab235-fe20-49ab-af5a-0396ee51361f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/011ab235-fe20-49ab-af5a-0396ee51361f/20241107T223756/011ab235-fe20-49ab-af5a-0396ee51361f_360x203.jpg)](https://www.king5.com/article/news/local/ferguson-brown-discuss-preparations-second-trump-admin/281-0421e0ab-0877-4cc6-ba05-5e77852d9f0b)
         
-        #### [Man pleads not guilty to murder in cold case killing of Boeing employee](https://www.king5.com/article/news/crime/not-guilty-plea-cold-case-murder-kent-dorothy-silzel/281-5f27bd49-475a-4641-97ba-0f35411aba3b)
+        #### [WA Gov-elect Ferguson, AG-elect Brown discuss preparations for second Trump admin](https://www.king5.com/article/news/local/ferguson-brown-discuss-preparations-second-trump-admin/281-0421e0ab-0877-4cc6-ba05-5e77852d9f0b)
         
-    *  [![](https://media.king5.com/assets/KING/images/c7e82e2e-f29e-4833-a7b1-c226a858bc1a/20241031T003911/c7e82e2e-f29e-4833-a7b1-c226a858bc1a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c7e82e2e-f29e-4833-a7b1-c226a858bc1a/20241031T003911/c7e82e2e-f29e-4833-a7b1-c226a858bc1a_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/washington-state-supreme-court-seat-race-close-results/281-4501bc94-a937-4011-89c0-faed1b8cda1b)
+    *  [![](https://media.king5.com/assets/KING/images/018f0370-18ff-49d5-a89b-e56ca1f8e6bb/20241108T015503/018f0370-18ff-49d5-a89b-e56ca1f8e6bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/018f0370-18ff-49d5-a89b-e56ca1f8e6bb/20241108T015503/018f0370-18ff-49d5-a89b-e56ca1f8e6bb_360x203.jpg)](https://www.king5.com/article/news/nation-world/ukraine/local-firefighter-mission-train-rescue-crews-ukraine/281-b501c1a9-23f6-43da-a4e7-5656c53718e0)
         
-        #### [Washington state Supreme Court seat race remains close after two days of ballot results](https://www.king5.com/article/news/politics/state-politics/washington-state-supreme-court-seat-race-close-results/281-4501bc94-a937-4011-89c0-faed1b8cda1b)
+        #### [Poulsbo firefighter traveling to Ukraine to train rescue crews during the war](https://www.king5.com/article/news/nation-world/ukraine/local-firefighter-mission-train-rescue-crews-ukraine/281-b501c1a9-23f6-43da-a4e7-5656c53718e0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a55f470d-6bce-4487-aaeb-59f6b837875f/20241107T125511/a55f470d-6bce-4487-aaeb-59f6b837875f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a55f470d-6bce-4487-aaeb-59f6b837875f/20241107T125511/a55f470d-6bce-4487-aaeb-59f6b837875f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/4fb5b208-878c-4004-8f09-c5bf8a8eb11f/20241108T015840/4fb5b208-878c-4004-8f09-c5bf8a8eb11f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4fb5b208-878c-4004-8f09-c5bf8a8eb11f/20241108T015840/4fb5b208-878c-4004-8f09-c5bf8a8eb11f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-55°
+52°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
