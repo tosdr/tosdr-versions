@@ -11,6 +11,7 @@ Current Patients (918) 528-6555
         * [Dr. Henrich’s Sleep Apnea Book](https://www.henrichdental.com/sleep-apnea-book/)
     * [Meet Our Team](https://www.henrichdental.com/our-dentist-office/meet-our-team/)
     * [Our Technology](https://www.henrichdental.com/our-dentist-office/technology/)
+    * [Virtual Dentistry](https://www.henrichdental.com/virtual-dentistry/)
     * [Testimonials](https://www.henrichdental.com/our-dentist-office/testimonials/)
     * [Leave a Review](https://www.henrichdental.com/leave-a-review/)
     * [Careers](https://www.henrichdental.com/our-dentist-office/careers/)
@@ -59,7 +60,6 @@ Current Patients (918) 528-6555
     * [Special Needs Patients](https://www.henrichdental.com/patient-resources/special-needs-patients/)
     * [Blog](https://www.henrichdental.com/blog/)
 * [Smile Gallery](https://www.henrichdental.com/smile-gallery/)
-* [Virtual Dentistry](https://www.henrichdental.com/virtual-dentistry/)
 * [Pay My Bill](https://pay.balancecollect.com/m/henrichdental)
 
 [Schedule Appointment](https://www.henrichdental.com/request-appointment/)
