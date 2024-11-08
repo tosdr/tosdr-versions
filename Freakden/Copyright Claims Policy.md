@@ -108,6 +108,9 @@ Category [Terms](https://www.freakden.com/blog/terms/)
 
 #### Newest Posts
 
+* [dick play](https://www.freakden.com/pin/dick-play/)
+* [Hubby is now licensed to carry that little thing 🤭](https://www.freakden.com/pin/hubby-is-now-licensed-to-carry-that-little-thing-%f0%9f%a4%ad/)
+* [Dominatrix’s Training: Fun BDSM Ideas For Submissive Male Beginners](https://www.freakden.com/pin/dominatrixs-training-fun-bdsm-ideas-for-submissive-male-beginners/)
 * [Tiny one comes out](https://www.freakden.com/pin/tiny-one-comes-out/)
 * [Big slutty findom tits to spoil](https://www.freakden.com/pin/big-slutty-findom-tits-to-spoil/)
 * [Juliette Noir….fuck bitch💥💄💋👙👠](https://www.freakden.com/pin/juliette-noir-fuck-bitch%f0%9f%92%a5%f0%9f%92%84%f0%9f%92%8b%f0%9f%91%99%f0%9f%91%a0/)
@@ -115,9 +118,6 @@ Category [Terms](https://www.freakden.com/blog/terms/)
 * [Bearded big cock humiliating small dicks and cuckolds](https://www.freakden.com/pin/bearded-big-cock-humiliating-small-dicks-and-cuckolds/)
 * [My Exciting Life in Hangzhou: How I Dominate Expat Men in Hangzhou](https://www.freakden.com/pin/my-exciting-life-in-hangzhou-how-i-dominate-expat-men-in-hangzhou/)
 * [Dominating the Expat Scene: I am the boss of foreign clients in Shanghai](https://www.freakden.com/pin/dominating-the-expat-scene-i-am-the-boss-of-foreign-clients-in-shanghai/)
-* [Turned hubby’s baby dick into a magical princess 👸👚🎀💓🌹](https://www.freakden.com/pin/turned-hubbys-baby-dick-into-a-magical-princess-%f0%9f%91%b8%f0%9f%91%9a%f0%9f%8e%80%f0%9f%92%93%f0%9f%8c%b9/)
-* [Dreaming of Cock](https://www.freakden.com/pin/dreaming-of-cock/)
-* [slut can’t handle my huge cock](https://www.freakden.com/pin/slut-cant-handle-my-huge-cock/)
 
 ×
 
