@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-07 Nov 2024
+08 Nov 2024
 
 * [Home
     
@@ -291,6 +291,24 @@ The man appeared before Letterkenny Circuit Court
 [Man pleads guilty to causing death of young father in Bridgend collision](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Ryan Sheerin (10B) and Ben Farren (12D)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryan Sheerin (10B) and Ben Farren (12D)")](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
+
+Ryan Sheerin (10B) and Ben Farren (12D)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry students crowned Ulster Irish Dancing Champions](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
+
+Principal of Lisneal College, Michael Allen on the right
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry")](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
 
 The man was arrested in Coleraine on Tuesday.
@@ -300,14 +318,14 @@ The man was arrested in Coleraine on Tuesday.
 [Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ryan Sheerin (10B) and Ben Farren (12D)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryan Sheerin (10B) and Ben Farren (12D)")](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
+[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
 
-Ryan Sheerin (10B) and Ben Farren (12D)
+Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Home](https://www.derrynow.com/)
 
-[Derry students crowned Ulster Irish Dancing Champions](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final")](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
 
@@ -324,24 +342,6 @@ An image of the plans for the new UU Dome.
 
 [Multi-million euro funding secured for new 'indoor dome' in Derry](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook")](https://www.derrynow.com/news/derry-news/1649006/derry-community-group-looking-to-stand-together-by-establishing-new-walking-group.html)
-
-Drumahoe Walking Group : Credit: Drumahoe Community Association Facebook
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry community group looking to 'stand together' by establishing new walking group](https://www.derrynow.com/news/derry-news/1649006/derry-community-group-looking-to-stand-together-by-establishing-new-walking-group.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
-
-Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -527,8 +527,8 @@ Principal of Lisneal College, Michael Allen on the right
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry secondary school spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
 
