@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a0f869fbb2111c0c4bf448fc2a7ecff8
+ad227fe184361292a80930caa9277ace
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![16 mm to 20 mm turquoise nuggets](https://sojourner.biz/images/cache/stone/TU0003.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/16-mm-to-20-mm-turquoise-nuggets.html "16 mm to 20 mm turquoise nuggets")
+[![Montana pebble clasp](https://sojourner.biz/images/cache/SKU0398front.200.jpg)](https://sojourner.biz/clasps/glass/montana-pebble-clasp.html "Montana pebble clasp")
 
-#### [16 mm to 20 mm turquoise nuggets](https://sojourner.biz/beads/stone-m-z/turquoise/16-mm-to-20-mm-turquoise-nuggets.html "16 mm to 20 mm turquoise nuggets")
+#### [Montana pebble clasp](https://sojourner.biz/clasps/glass/montana-pebble-clasp.html "Montana pebble clasp")
 
-$36.00
+$27.00
 
 ### Best Sellers
 
