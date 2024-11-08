@@ -52,8 +52,6 @@ View all results for ${ keyword }
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
 * [![20th anniversary](https://cdn.myanimelist.net/images/event/20th_anniversary/badge.png)](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=globalmenu&utm_content=pageopen)
 
-[](#)[🎂 **Celebrate 20 years of MAL with us!** Grab your profile badge and enter our anniversary giveaway](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=textribbon&utm_content=pageopen)
-
 Terms
 =====
 
@@ -428,8 +426,8 @@ If you have questions about our Services, you can find additional information at
 1. 1 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
 2. 2 [Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season](https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season)
 3. 3 [One Piece](https://myanimelist.net/anime/21/One_Piece)
-4. 4 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
-5. 5 [Natsume Yuujinchou Shichi](https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi)
+4. 4 [Natsume Yuujinchou Shichi](https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi)
+5. 5 [Dandadan](https://myanimelist.net/anime/57334/Dandadan)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
