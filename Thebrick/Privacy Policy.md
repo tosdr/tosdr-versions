@@ -1,6 +1,6 @@
 [Skip to Main Content](#content)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/829/assets/lazyPixel.png?v=40482922527014850811730757182)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/830/assets/lazyPixel.png?v=40482922527014850811731093348)](https://www.thebrick.com/)
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture)
 
@@ -68,7 +68,7 @@ Get Directions
 
 [Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/collections/mattress-store) [Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
 
-* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/829/assets/lazyPixel.png?v=40482922527014850811730757182)](https://www.thebrick.com/pages/brick-mattress-store)
+* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/830/assets/lazyPixel.png?v=40482922527014850811731093348)](https://www.thebrick.com/pages/brick-mattress-store)
 
 [Back to Mattresses](#)
 
@@ -126,7 +126,7 @@ Get Directions
 [Back to Appliances](#)
 
 * Brands
-[Bosch](https://www.thebrick.com/collections/appliances-brands-bosch) [Broan](https://www.thebrick.com/pages/broan) [Broil King](https://www.thebrick.com/pages/broil-king) [Café](https://www.thebrick.com/pages/cafe-brand-appliances) [Cuisinart](https://www.thebrick.com/collections/appliances-brands-cuisinart) [Danby](https://www.thebrick.com/collections/appliances-brands-danby) [Forno](https://www.thebrick.com/collections/forno) [Frigidaire](https://www.thebrick.com/collections/appliances-brands-frigidaire) [Frigidaire Gallery](https://www.thebrick.com/collections/appliances-brands-frigidaire-gallery) [Frigidaire Professional](https://www.thebrick.com/collections/appliances-brands-frigidaire-professional) [GE Appliances](https://www.thebrick.com/collections/appliances-brands-ge) [GE Profile](https://www.thebrick.com/collections/ge-profile) [Hisense](https://www.thebrick.com/collections/hisense-appliances) [iio](https://www.thebrick.com/collections/brand-iio) [KitchenAid](https://www.thebrick.com/pages/kitchenaid) [LG](https://www.thebrick.com/collections/appliances-brands-lg) [LG Studio](https://www.thebrick.com/pages/lgstudio) [Maytag](https://www.thebrick.com/pages/maytag) [Miele](https://www.thebrick.com/collections/appliances-brands-miele) [Panasonic](https://www.thebrick.com/collections/appliances-brands-panasonic) [Samsung](https://www.thebrick.com/pages/samsung) [Samsung Bespoke](https://www.thebrick.com/pages/samsung-bespoke) [Smeg](https://www.thebrick.com/collections/kitchen-promo-smeg) [Thor Kitchen](https://www.thebrick.com/collections/appliances-brands-thor) [Whirlpool](https://www.thebrick.com/pages/whirlpool) [Unique Appliances](https://www.thebrick.com/pages/unique)
+[Bosch](https://www.thebrick.com/collections/appliances-brands-bosch) [Broan](https://www.thebrick.com/pages/broan) [Broil King](https://www.thebrick.com/pages/broil-king) [Café](https://www.thebrick.com/pages/cafe-brand-appliances) [Cuisinart](https://www.thebrick.com/collections/appliances-brands-cuisinart) [Danby](https://www.thebrick.com/collections/appliances-brands-danby) [Forno](https://www.thebrick.com/collections/forno) [Frigidaire](https://www.thebrick.com/pages/frigidaire) [Frigidaire Gallery](https://www.thebrick.com/collections/appliances-brands-frigidaire-gallery) [Frigidaire Professional](https://www.thebrick.com/collections/appliances-brands-frigidaire-professional) [GE Appliances](https://www.thebrick.com/collections/appliances-brands-ge) [GE Profile](https://www.thebrick.com/collections/ge-profile) [Hisense](https://www.thebrick.com/collections/hisense-appliances) [iio](https://www.thebrick.com/collections/brand-iio) [KitchenAid](https://www.thebrick.com/pages/kitchenaid) [LG](https://www.thebrick.com/collections/appliances-brands-lg) [LG Studio](https://www.thebrick.com/pages/lgstudio) [Maytag](https://www.thebrick.com/pages/maytag) [Miele](https://www.thebrick.com/collections/appliances-brands-miele) [Panasonic](https://www.thebrick.com/collections/appliances-brands-panasonic) [Samsung](https://www.thebrick.com/pages/samsung) [Samsung Bespoke](https://www.thebrick.com/pages/samsung-bespoke) [Smeg](https://www.thebrick.com/collections/kitchen-promo-smeg) [Thor Kitchen](https://www.thebrick.com/collections/appliances-brands-thor) [Whirlpool](https://www.thebrick.com/pages/whirlpool) [Unique Appliances](https://www.thebrick.com/pages/unique)
 
 [Back to Menu](#)
 
@@ -215,7 +215,7 @@ Seller Name
 * [Contact Us](https://www.thebrick.com/pages/contact-us)
 * [Français](https://www.brickenligne.com/pages/privacy-policy)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/829/assets/Brick-logo-en.svg?v=144201696812184966561730757145)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/830/assets/Brick-logo-en.svg?v=144201696812184966561731093308)](https://www.thebrick.com/)
 
  
 
@@ -445,11 +445,11 @@ Company Information
 
 We accept:
 
-* ![flexiti card.](//www.thebrick.com/cdn/shop/t/829/assets/lazyPixel.png?v=40482922527014850811730757182)
-* ![visa card.](//www.thebrick.com/cdn/shop/t/829/assets/lazyPixel.png?v=40482922527014850811730757182)
-* ![visa debit card.](//www.thebrick.com/cdn/shop/t/829/assets/lazyPixel.png?v=40482922527014850811730757182)
-* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/829/assets/lazyPixel.png?v=40482922527014850811730757182)
-* ![Mastercard.](//www.thebrick.com/cdn/shop/t/829/assets/lazyPixel.png?v=40482922527014850811730757182)
+* ![flexiti card.](//www.thebrick.com/cdn/shop/t/830/assets/lazyPixel.png?v=40482922527014850811731093348)
+* ![visa card.](//www.thebrick.com/cdn/shop/t/830/assets/lazyPixel.png?v=40482922527014850811731093348)
+* ![visa debit card.](//www.thebrick.com/cdn/shop/t/830/assets/lazyPixel.png?v=40482922527014850811731093348)
+* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/830/assets/lazyPixel.png?v=40482922527014850811731093348)
+* ![Mastercard.](//www.thebrick.com/cdn/shop/t/830/assets/lazyPixel.png?v=40482922527014850811731093348)
 
 Prices on this website are for online purchases only. Prices in-store may differ.
 
