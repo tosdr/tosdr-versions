@@ -182,16 +182,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Top 5 Self-Defense Handgun Cartridges](https://www.thegunpage.com/top-5-self-defense-handgun-cartridges-2/10611740)
+* [WY: GOA-Endorsed Candidates Win Big In Wyoming!](https://www.thegunpage.com/wy-goa-endorsed-candidates-win-big-in-wyoming/10611739)
+* [Top 5 Self-Defense Handgun Cartridges](https://www.thegunpage.com/top-5-self-defense-handgun-cartridges/10611735)
+* [Smith & Wesson Revolver Rebates Through End Of Year](https://www.thegunpage.com/smith-wesson-revolver-rebates-through-end-of-year/10611737)
+* [A Blueprint for Trump’s First 30 Days](https://www.thegunpage.com/a-blueprint-for-trumps-first-30-days/10611732)
+* [Sweden Signs Agreement For More Sako AK 24 Rifles](https://www.thegunpage.com/sweden-signs-agreement-for-more-sako-ak-24-rifles/10611738)
 * [Gun Groups Challenge Maryland’s “Sensitive Places” Law in Federal Court](https://www.thegunpage.com/gun-groups-challenge-marylands-sensitive-places-law-in-federal-court/10611728)
 * [Mesa Tactical Truckee Forend: Kit Out Your Benelli M2](https://www.thegunpage.com/mesa-tactical-truckee-forend-kit-out-your-benelli-m2/10611730)
 * [An Open Letter to Gun Owners from NSSF](https://www.thegunpage.com/an-open-letter-to-gun-owners-from-nssf/10611722)
 * [TFB Behind the Gun #139: The Proving Grounds with Matt & Dan](https://www.thegunpage.com/tfb-behind-the-gun-139-the-proving-grounds-with-matt-dan/10611720)
-* [Reaction To Trump Landslide Runs From Elation To Devastation](https://www.thegunpage.com/reaction-to-trump-landslide-runs-from-elation-to-devastation/10611718)
-* [What President-elect Trump needs to do during his first 30 days](https://www.thegunpage.com/what-president-elect-trump-needs-to-do-during-his-first-30-days/10611716)
-* [NRA Smallbore Championship Celebrates 40th Anniversary: 1959 National Matches](https://www.thegunpage.com/nra-smallbore-championship-celebrates-40th-anniversary-1959-national-matches/10611715)
-* [Looking Back At The 2009 NRA National High Power Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-high-power-championship/10611575)
-* [TFB Review: Silencer Central Banish Speed K TI](https://www.thegunpage.com/tfb-review-silencer-central-banish-speed-k-ti/10611712)
-* [POTD: B&T APC9 with Aimpoint CompM5b and A-Tech 3-Lug Suppressor](https://www.thegunpage.com/potd-bt-apc9-with-aimpoint-compm5b-and-a-tech-3-lug-suppressor/10611713)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
