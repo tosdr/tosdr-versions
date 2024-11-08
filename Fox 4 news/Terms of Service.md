@@ -28,7 +28,6 @@ Search site
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
@@ -90,6 +89,10 @@ Search site
 
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
+
+[River Flood Warning
+
+from FRI 5:18 PM CST until SAT 8:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
@@ -405,7 +408,6 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 * [Business](https://www.fox4news.com/tag/business)
 * [Health](https://www.fox4news.com/tag/health)
 * [FOX News Sunday](https://www.fox4news.com/news/fox-news-sunday-with-shannon-bream)
-* [2024 Election](https://www.fox4news.com/election)
 
 ###### [Weather](https://www.fox4news.com/weather)
 
