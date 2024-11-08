@@ -236,7 +236,7 @@ PCWorld helps you navigate the PC ecosystem to find the products you want and th
 
 [Copyright © 2024 IDG Communications, Inc.](https://foundryco.com/terms-of-service-agreement/)
 
-Explore the Foundry Network + Tech AdvisorTech HiveMacworld
+Explore the Foundry Network + Tech AdvisorTechHiveMacworld
 
 Top Of Page
 
