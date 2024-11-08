@@ -438,7 +438,7 @@ close
 
 close
 
-closearrow-circle-o-downellipsis-v                 [Skip to content](#content)
+closearrow-circle-o-downellipsis-v                   [Skip to content](#content)
 
 [Open toolbar Accessibility Tools](javascript:void(0); "Accessibility Tools")
 
