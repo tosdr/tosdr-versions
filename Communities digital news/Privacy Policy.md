@@ -26,63 +26,121 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mike-davis-1200x630.png)](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1242296709-1-1-1200x630.jpg)](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
 
-[Trump lawyer puts Letitia James on notice, halt lawfare or ‘we will put your fat \*ss in prison’](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
+(Photo by Paul Hennessy/SOPA Images/LightRocket via Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-susietrump-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
+[Ron DeSantis floats one of Florida’s ‘greats’ for HHS secretary under Trump](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
 
-Getty Image
+[![](https://americanwirenews.com/wp-content/uploads/2022/06/SG-Lloyd-Austin-1200x630.jpg)](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
 
-[BOSS MOVE right out of the gate: ‘Misogynist’ Trump names historic first woman as WH chief of staff](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
+[Def Sec Austin memo to troops urges ‘calm, orderly’ transition after Trump win](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/pxbay-butter-sg-mjoe-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hope-walz-1200x630.jpg)](https://americanwirenews.com/tim-walzs-daughter-sounds-off-says-country-does-not-deserve-kamala/)
 
-[Miraculous: ‘Morning’ Joe can suddenly sympathize with the plight of MAGA Americans](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
+[Tim Walz’s daughter sounds off, says country ‘does not deserve Kamala’](https://americanwirenews.com/tim-walzs-daughter-sounds-off-says-country-does-not-deserve-kamala/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-church-1200x630.png)](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-phil-murphy-1200x630.jpg)](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
 
-[Left floats a Supreme Court Justice Kamala Harris before Biden leaves office](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
+[NJ Gov. Phil Murphy meets with team to ‘war game’ 2nd Trump term: ‘We’ll fight to the death’](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-checks-cnn-panel-1200x630.jpg)](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mucci-cnbc-1200x630.jpg)](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
 
-[‘With all due respect, I’ve run more campaigns than you’: Jennings takes on entire clueless smug CNN panel](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
+[‘Squawk Box’ host humiliates Scaramucci over how wrong he was on Trump](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cohen-turkey-1200x630.jpg)](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marie-gluesenkamp-perez-1200x630.jpg)](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
 
-[‘I’m dying’: Michael Cohen trolled with turkey head while trying to talk smack on livestream](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
+[House Dem unimpressed in meeting Kamala Harris: ‘There was kind of an eye roll’](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-art-of-the-surge-1200x630.png)](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Wallace-1200x630.jpg)](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
 
-[Behind scenes footage shows how Trump creates his own social media posts: ‘He really is just built different’](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
+[Nicolle Wallace: ‘As a human, I deleted Twitter as an act of self-preservation’](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-1200x630.jpg)](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-reid-1200x630.jpg)](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
 
-[Insult to injury: Walz even lost his home county to Trump](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
+[Queen Race-baiter Joy Reid shames Hispanic men who voted for Trump](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bobwoodward-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-trump-sg-jack-smith-1200x630.jpg)
 
-### Watergate cadaver Bob Woodward looks to reboot Russiagate hoax with Trump-Putin blackmail claim](https://americanwirenews.com/watergate-cadaver-bob-woodward-looks-to-reboot-russiagate-hoax-with-trump-putin-blackmail-claim/)
+### Wins keep coming: Jack Smith moving to halt Trump prosecution, asks judge to vacate all deadlines](https://americanwirenews.com/wins-keep-coming-jack-smith-to-halt-prosecution-of-trump-asks-judge-to-vacate-all-deadlines/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Dems chased moderate Joe Manchin out, now lose his Senate seat](https://americanwirenews.com/dems-chased-moderate-joe-manchin-out-now-lose-his-senate-seat/)
+### [Melania has message about what husband has in store for America](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
 
-### [Musk trolls Trump-haters over victory with photo of himself in Oval office](https://americanwirenews.com/musk-trolls-trump-haters-over-victory-with-photo-of-himself-in-oval-office/)
+### [Let’s watch a sample of the bigmouth late-night hosts lose it over Trump victory](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
 
-### [Cardi B leads melodramatic celebrity meltdowns as Trump clobbers Kamala](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
+### [Bannon, MTG eager for retribution against malicious actor Liz Cheney](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
 
-### [Body blow for Dems as FL voters reject abortion, dope amendments, DeSantis cheers big win](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
+### [Oh no! After implying she’ll drink Drano if Trump wins, Bette Midler’s X account disappears](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
 
-### [‘Witnessing this as I left the Trump victory party moved me to tears’](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
+### [Speculation on Trump’s Cabinet begins](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
 
-### [Fans want a role for Dana White in Trump’s White House after election night speech](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
+### [WaPo owner Bezos kisses the ring](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-reid-220x180.jpg)](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-research-220x180.png)](https://americanwirenews.com/residents-on-alert-after-dozens-of-test-monkeys-escape-research-facility/)
 
-[Queen Race-baiter Joy Reid shames Hispanic men who voted for Trump](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
+[Residents on alert after dozens of test monkeys escape research facility](https://americanwirenews.com/residents-on-alert-after-dozens-of-test-monkeys-escape-research-facility/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michael-shellenberger-220x180.jpg)](https://americanwirenews.com/journalist-goes-viral-for-trying-to-explain-to-stubborn-left-why-they-just-lost-so-badly/)
+
+[Journalist goes viral for trying to explain to stubborn left why they just lost so badly](https://americanwirenews.com/journalist-goes-viral-for-trying-to-explain-to-stubborn-left-why-they-just-lost-so-badly/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-trump-220x180.jpg)](https://americanwirenews.com/joe-rogan-has-hard-advice-for-trump-after-win/)
+
+[Joe Rogan has hard advice for Trump after win](https://americanwirenews.com/joe-rogan-has-hard-advice-for-trump-after-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-smith-220x180.jpg)](https://americanwirenews.com/oprah-gets-blamed-for-alienating-voters-as-stars-failed-to-shine-for-kamala/)
+
+[Oprah gets blamed for ‘alienating’ voters as stars failed to shine for Kamala](https://americanwirenews.com/oprah-gets-blamed-for-alienating-voters-as-stars-failed-to-shine-for-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jerome-powell-220x180.jpg)](https://americanwirenews.com/trump-makes-call-on-fed-chair-jerome-powells-future/)
+
+[Trump makes call on defiant Fed Chair Jerome Powell’s future](https://americanwirenews.com/trump-makes-call-on-fed-chair-jerome-powells-future/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-skims-220x180.jpg)](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
+
+[Kim Kardashian slammed for ‘out of touch’ holiday SKIMS campaign: ‘Incredibly insensitive’](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tappergarcia-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnns-tapper-shames-kamalas-hispanic-campaign-co-chair-how-did-you-personally-get-it-so-wrong/)
+
+[CNN’s Tapper shames Kamala’s Hispanic campaign co-chair: ‘How did you personally get it so wrong?’](https://americanwirenews.com/cnns-tapper-shames-kamalas-hispanic-campaign-co-chair-how-did-you-personally-get-it-so-wrong/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-art-of-the-surge-220x180.png)](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
+
+[Behind scenes footage shows how Trump creates his own social media posts: ‘He really is just built different’](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cohen-turkey-220x180.jpg)](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
+
+[‘I’m dying’: Michael Cohen trolled with turkey head while trying to talk smack on livestream](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-checks-cnn-panel-220x180.jpg)](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
+
+[‘With all due respect, I’ve run more campaigns than you’: Jennings takes on entire clueless smug CNN panel](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-church-220x180.png)](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
+
+[Left floats a Supreme Court Justice Kamala Harris before Biden leaves office](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/pxbay-butter-sg-mjoe-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
+
+[Miraculous: ‘Morning’ Joe can suddenly sympathize with the plight of MAGA Americans](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-susietrump-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
+
+[BOSS MOVE right out of the gate: ‘Misogynist’ Trump names historic first woman as WH chief of staff](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
+
+Getty Image
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mike-davis-220x180.png)](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
+
+[Trump lawyer puts Letitia James on notice, halt lawfare or ‘we will put your fat \*ss in prison’](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bobwoodward-1200-x-628-220x180.jpg)](https://americanwirenews.com/watergate-cadaver-bob-woodward-looks-to-reboot-russiagate-hoax-with-trump-putin-blackmail-claim/)
+
+[Watergate cadaver Bob Woodward looks to reboot Russiagate hoax with Trump-Putin blackmail claim](https://americanwirenews.com/watergate-cadaver-bob-woodward-looks-to-reboot-russiagate-hoax-with-trump-putin-blackmail-claim/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-flag-ban-dance-220x180.jpg)](https://americanwirenews.com/whos-your-daddy-florida-man-who-defied-trump-flag-ban-celebrates-his-epic-upgrade/)
 
@@ -92,93 +150,35 @@ Getty Image
 
 [Dem strategist TORCHES her own party for being out-of-touch: ‘That’s not how normal people think’](https://americanwirenews.com/dem-strategist-torches-her-own-party-for-being-out-of-touch-thats-not-how-normal-people-think/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gutfeld-220x180.jpg)](https://americanwirenews.com/gutfeld-holds-nothing-back-in-brutal-opener-on-americas-reckoning-were-well-on-our-fing-way/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-220x180.jpg)](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
 
-[Gutfeld holds nothing back in brutal opener on America’s ‘reckoning’: ‘We’re well on our f\*\*\*ing way’](https://americanwirenews.com/gutfeld-holds-nothing-back-in-brutal-opener-on-americas-reckoning-were-well-on-our-fing-way/)
+[Insult to injury: Walz even lost his home county to Trump](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-and-ana-navarro-220x180.jpg)](https://americanwirenews.com/scott-jennings-pleads-with-dems-to-respect-americas-mandate-and-back-off-trump-for-couple-of-years-of-peace/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rick-wilson-220x180.jpg)](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
 
-[Scott Jennings pleads with Dems to respect America’s ‘mandate’ and back off Trump for ‘couple of years of peace’](https://americanwirenews.com/scott-jennings-pleads-with-dems-to-respect-americas-mandate-and-back-off-trump-for-couple-of-years-of-peace/)
+[‘You were wrong on everything!’ Never-Trumper Rick Wilson ‘wrecked’ over arrogant Election Day prediction](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-serenade-220x180.jpg)](https://americanwirenews.com/alina-habba-real-housewives-alum-serenade-trump-with-victory-song/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-4b-feminists-220x180.jpg)](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
 
-[Alina Habba, ‘Real Housewives’ alum serenade Trump with victory song](https://americanwirenews.com/alina-habba-real-housewives-alum-serenade-trump-with-victory-song/)
+[Lefty chicks launch sex-strike ‘movement’ over Trump win, accidentally solve abortion issue](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-avenattimsnbc-1200-x-628-220x180.jpg)](https://americanwirenews.com/creepy-porn-lawyer-now-making-nice-with-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-past-due-bill-220x180.jpg)](https://americanwirenews.com/explosive-scandal-brewing-inside-kamala-campaign-proves-america-dodged-a-bullet/)
 
-[‘Creepy porn lawyer’ now making nice with Trump](https://americanwirenews.com/creepy-porn-lawyer-now-making-nice-with-trump/)
+[‘Explosive’ scandal brewing inside Kamala campaign proves America ‘dodged a bullet’](https://americanwirenews.com/explosive-scandal-brewing-inside-kamala-campaign-proves-america-dodged-a-bullet/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chriscuomo1-1200-x-628-220x180.jpg)](https://americanwirenews.com/cuomo-mocks-megyn-kelly-to-bill-oreilly-i-wanna-be-protected-i-wanna-be-protected/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-voting-2-220x180.jpg)](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
 
-[Cuomo mocks Megyn Kelly to Bill O’Reilly: ‘I wanna be protected! I wanna be protected!’](https://americanwirenews.com/cuomo-mocks-megyn-kelly-to-bill-oreilly-i-wanna-be-protected-i-wanna-be-protected/)
+[Ben Shapiro brings more bad news for Democrats](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-schumer-220x180.jpg)](https://americanwirenews.com/senate-bully-schumer-pleads-with-new-gop-majority-to-embrace-bipartisan-bills/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1186267294-1-220x180.jpg)](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
 
-[Senate bully Schumer pleads with new GOP majority to embrace ‘bipartisan’ bills](https://americanwirenews.com/senate-bully-schumer-pleads-with-new-gop-majority-to-embrace-bipartisan-bills/)
+[France’s Macron congratulates Trump on victory with an interesting choice of words](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-trump-220x180.jpg)](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
+(Photo by LUDOVIC MARIN/POOL/AFP via Getty Images)
 
-[Melania has message about what husband has in store for America](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gw-joe-biden-4-220x180.jpg)](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy-kimmel-and-stephen-colbert-220x180.jpg)](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
-
-[Let’s watch a sample of the bigmouth late-night hosts lose it over Trump victory](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-greene-cheney-bannon-220x180.jpg)](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
-
-[Bannon, MTG eager for retribution against malicious actor Liz Cheney](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
-
-[Oh no! After implying she’ll drink Drano if Trump wins, Bette Midler’s X account disappears](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpvictoryspeech-1200-x-628-220x180.jpg)](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
-
-[Speculation on Trump’s Cabinet begins](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Bezos-220x180.jpg)](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
-
-[WaPo owner Bezos kisses the ring](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-220x180.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
-
-[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183347794-220x180.jpg)](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
-
-[Pelosi, Donna Brazile exchange heated words at Kamala’s concession speech](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nyjames-1200-x-628-220x180.jpg)](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
-
-[Slugga: Letitia James vows to get Trump – they just aren’t going to stop](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
-
-[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Woods-220x180.jpg)](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
-
-[James Woods envisions ceremony to rid America of Mayorkas](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bill-barr-220x180.jpg)](https://americanwirenews.com/bill-barr-calls-on-prosecutors-to-heed-voters-message-dismiss-pending-trump-cases-do-the-right-thing/)
-
-[Bill Barr calls on prosecutors to heed voters’ message, dismiss pending Trump cases: ‘Do the right thing’](https://americanwirenews.com/bill-barr-calls-on-prosecutors-to-heed-voters-message-dismiss-pending-trump-cases-do-the-right-thing/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-stock-exchange-220x180.jpg)](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
-
-[‘There was relief’: Trump’s historic win drives record highs on Wall Street](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
-
-(Official White House Photo by Andrea Hanks)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rubio-220x180.jpg)](https://americanwirenews.com/rubio-dodges-sec-of-state-inquiry-says-us-to-pursue-pragmatic-foreign-policy-under-trump/)
-
-[Rubio dodges Sec of State inquiry, says US to pursue ‘pragmatic foreign policy’ under Trump](https://americanwirenews.com/rubio-dodges-sec-of-state-inquiry-says-us-to-pursue-pragmatic-foreign-policy-under-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-clooney-220x180.jpg)](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
-
-[Fox & Friends crows over Trump victory, suggests ‘wellness check’ on Obama, Clooney and Oprah](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
+[Dem anger with Biden at a slow rolling boil after Trump wins, but who does Biden blame?](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -266,33 +266,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-1200x630.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-1200x630.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
 
-[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-220x180.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-220x180.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
 
-[The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
+[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-220x180.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183347794-220x180.jpg)](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
 
-[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’
+[Pelosi, Donna Brazile exchange heated words at Kamala’s concession speech
 
-(Getty Images)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+Getty Images](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-220x180.jpg)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nyjames-1200-x-628-220x180.jpg)](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
 
-[Where’s Joe? Where the hell is our CURRENT president? Just let Trump start early!
+[Slugga: Letitia James vows to get Trump – they just aren’t going to stop](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
 
-(Official White House Photo by Cameron Smith)](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stew-1200-x-628-220x180.jpg)](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
+[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
-[Jon Stewart’s profane on-air meltdown as Kamala crashes on election night](https://americanwirenews.com/jon-stewarts-profane-on-air-meltdown-as-kamala-crashes-on-election-night/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Woods-220x180.jpg)](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-howard-stage-220x180.jpg)](https://americanwirenews.com/kamala-pulled-a-hillary/)
-
-[Kamala pulled a Hillary, deflated supporters stiffed](https://americanwirenews.com/kamala-pulled-a-hillary/)
+[James Woods envisions ceremony to rid America of Mayorkas](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
