@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 06, 2024
+November 07, 2024
 
-A sweeping moment
+Global views on Tuesday’s news
 
-Today we start digging into the meaning of a historic election, one that in many ways marks the culmination of Donald Trump’s decisive realignment of the Republican Party and his regnant place in American politics. Given the sweeping results, we’ve devoted this issue of the Daily entirely to election stories, from the influence of Latino men in the results to what our reporter found at an election watch party with people who are watching extremely closely: Ukrainians.
+You don’t need this reminder, but here it is anyway: The U.S. election was seismic in the United States; the wider world felt the reverberations, too. Today, columnist Ned Temko supplies a skilled analysis of what Tuesday’s electoral decision projects to allies and adversaries.Ned’s is a story about high-level perceptions. We’re working on a follow-up, with staff reports from China to Mexico and beyond, exploring the perspectives of six sets of parents who are understandably focused on the future. Watch for that tomorrow.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
