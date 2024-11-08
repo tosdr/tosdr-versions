@@ -14,7 +14,9 @@ Política de cookies
     * [Intranet](https://intranet.uah.es/ "Intranet")
     * [Correo](https://outlook.office365.com/uah.es "Correo")
     * [Cuentas de usuario](https://uah.es/es/vivir-la-uah/servicios/servicios-tic/#cuentas-y-contrasenas-de-usuario)
-*   [Sede Electrónica](https://sede.uah.es/)
+*   [Sede electrónica](#)
+    * [Sede electrónica](https://sede.uah.es/ "Tablón de anuncios")
+    * [Tablón de anuncios](https://sede.uah.es/web/guest/tablon "Tablón de anuncios")
 *   [English](#)
 * Español
 
@@ -371,6 +373,7 @@ Otros enlaces
 
 * [Perfil del contratante](https://licitacion.uah.es/licitacion/ "Perfil del contratante")
 * [Sede electrónica](https://sede.uah.es/ "Sede electrónica")
-* [Tablón de anuncios Sede](https://sede.uah.es/web/guest/tablon "Tablón de anuncios Sede")
+
+  
 
 2022 © Universidad de Alcalá [Mapa Web](https://uah.es/es/mapa-web/ "Mapa Web") | [Política de cookies](https://uah.es/es/politica-de-cookies/) | [Política de privacidad](https://uah.es/es/politica-privacidad/) | [Aviso legal](https://uah.es/es/aviso-legal/)
