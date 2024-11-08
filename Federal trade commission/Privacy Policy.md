@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Nov07
+    Nov12
     
-    ### [Ex Parte Meeting on Unfair or Deceptive Fees Rulemaking between Commissioner Ferguson's Office and the Travel Management Coalition](https://www.ftc.gov/news-events/events/2024/11/ex-parte-meeting-unfair-or-deceptive-fees-rulemaking-between-commissioner-fergusons-office-travel)
+    ### [Facebook, Docket No. C-4365 Oral Argument (Hybrid) - November 12, 2024](https://www.ftc.gov/news-events/events/2024/11/facebook-docket-no-c-4365-oral-argument-hybrid-november-12-2024)
     
-    Thursday, November 7, 2024 | 10:30AM
+    Tuesday, November 12, 2024 | 9:00AM - 12:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
