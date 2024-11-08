@@ -228,4 +228,4 @@ Last updated: 1 August 2020
 [Terms and Conditions](https://www.random.org/terms/) | [Privacy Dashboard](https://www.random.org/privacy) | [About Us](https://www.random.org/company) | [Contact Us](mailto:contact@random.org)  
 © 1998–2024 RANDOM.ORG  
 
-[](https://twitter.com/RandomOrg)[](https://mastodon.world/@random)[](https://bsky.app/profile/random.org)
+[](https://x.com/RandomOrg)[](https://mastodon.world/@random)[](https://bsky.app/profile/random.org)[](https://www.youtube.com/@RandomOrg)
