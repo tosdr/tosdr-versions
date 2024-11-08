@@ -104,11 +104,11 @@ CyberLynk Network, Inc is very respectful about the privacy concerns of the visi
 
 #### Recent Posts
 
+* [M4 Mac mini pricing now available](https://www.macminivault.com/m4-mac-mini-pricing-now-available/)
 * [M4 Mac minis coming soon](https://www.macminivault.com/m4-mac-minis-coming-soon/)
 * [macOS Sequoia](https://www.macminivault.com/macos-sequoia/)
 * [macOS Sonoma](https://www.macminivault.com/macos-sonoma/)
 * [Apple WWDC23 Mac Announcements](https://www.macminivault.com/apple-wwdc23-mac-announcements/)
-* [Updated Mac mini Comparison](https://www.macminivault.com/updated-mac-mini-comparison/)
 
 * [Facebook](https://www.facebook.com/macminivault)
 * [X](https://twitter.com/macminivault)
