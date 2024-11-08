@@ -28,14 +28,12 @@ The following information may be collected, used, and stored in a cookie when se
 * Email (in a hashed or encrypted form)
 
 Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoic’s partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
 
-[Privacy Policy](https://www.ezoic.com/privacy-policy/advertising-partners/)
-============================================================================
+Privacy Policy
+==============
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[**Last updated:** December 22nd, 2019
+**Last updated:** December 22nd, 2019
 
 ADHD Boss respects and protects the privacy of the individuals that use ADHD Boss’s services (“ADHD Boss Services”). Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission or as explained in this privacy policy (“Privacy Policy”).
 
@@ -79,9 +77,9 @@ ADHD Boss may share information about you with advertisers, business partners, s
 We do not knowingly collect personal information from children under the age of 13.  If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
 
 **Third Party Advertising**
----------------------------](https://www.ezoic.com/privacy-policy/advertising-partners/)
+---------------------------
 
-[ADHD Boss may use third-party advertising companies to serve ads when you visit our Web site. These companies may use cookies or web beacons to collect non-personally identifiable information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. To learn more about this behavioral advertising practice or to opt out, you can visit](https://www.ezoic.com/privacy-policy/advertising-partners/) [www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). This automatically-collected data is also used by ADHD Boss to analyze trends, administer the site and track users’ use of the site.
+ADHD Boss may use third-party advertising companies to serve ads when you visit our Web site. These companies may use cookies or web beacons to collect non-personally identifiable information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. To learn more about this behavioral advertising practice or to opt out, you can visit [www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). This automatically-collected data is also used by ADHD Boss to analyze trends, administer the site and track users’ use of the site.
 
 In addition, ADHD Boss collects personally identifiable information from users (including email addresses, names, gender, date of birth, and zip code) during the registration process. This information may be used by ADHD Boss to improve our site and the overall user experience.
 
