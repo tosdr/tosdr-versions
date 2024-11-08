@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Capcom vs. SNK 2: Mark of the Millennium](https://www.myabandonware.com/game/capcom-vs-snk-2-mark-of-the-millennium-t8m)
-* [Capcom Fighting Evolution](https://www.myabandonware.com/game/capcom-fighting-evolution-t8l)
-* [DDRMAX 2: Dance Dance Revolution](https://www.myabandonware.com/game/ddrmax-2-dance-dance-revolution-t8k)
-* [Border Down](https://www.myabandonware.com/game/border-down-t8j)
-* [Evil Night](https://www.myabandonware.com/game/evil-night-t8i)
+* [Big Buck Hunter](https://www.myabandonware.com/game/big-buck-hunter-t91)
+* [Big Buck Hunter: Shooter's Challenge](https://www.myabandonware.com/game/big-buck-hunter-shooter-s-challenge-t90)
+* [Big Buck Hunter II: Sportsman's Paradise](https://www.myabandonware.com/game/big-buck-hunter-ii-sportsman-s-paradise-t8z)
+* [Beach Spikers: Virtua Beach Volleyball](https://www.myabandonware.com/game/beach-spikers-virtua-beach-volleyball-t8y)
+* [Battle Tryst](https://www.myabandonware.com/game/battle-tryst-t8x)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
