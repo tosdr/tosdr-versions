@@ -372,7 +372,11 @@ Close
 
 Added to Cart
 
+You are only **$50.00** away from FREE shipping!
+
 Order Summary
+
+You are only **$50.00** away from FREE shipping!
 
 Subtotal $0
 
