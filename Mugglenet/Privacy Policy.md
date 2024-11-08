@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Golden Snitch was invented by Bowman Wright, a metal charmer who lived during the Middle Ages.
+During the Harry Potter and the Chamber of Secrets film, Emma Watson broke her wrist.
 
 ### Potter History
 
-March 28, 2007 – Cover art for Harry Potter and the Deathly Hallows is released for both the US and UK editions of the book.
+October 23, 2010 – The running time for Harry Potter and the Deathly Hallows – Part 1 is revealed to be 147 minutes.
 
 ### Potter Quote
 
-“He knows what you were born, not who you are.”
+“Make way for the Heir of Slytherin, seriously evil wizard coming through. . . .”
 
 [](#)
 
