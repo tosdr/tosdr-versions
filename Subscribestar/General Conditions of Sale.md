@@ -91,7 +91,11 @@ The refund won't be granted if more than 30 (thirty) days have gone by since the
 
 Log InSign Up[Features](https://www.subscribestar.com/features)[Pricing](https://www.subscribestar.com/pricing)[Developers](https://www.subscribestar.com/api)[About](https://www.subscribestar.com/about)
 
-[Terms of Service](https://www.subscribestar.com/tos)[Privacy Policy](https://www.subscribestar.com/privacy)[EU DSA](https://www.subscribestar.com/dsa)[Refund Policy](https://www.subscribestar.com/refund)[Contact Us](https://www.subscribestar.com/contacts)
+[Terms of Service](https://www.subscribestar.com/tos)[Privacy Policy](https://www.subscribestar.com/privacy)
+
+Privacy Settings
+
+[EU DSA](https://www.subscribestar.com/dsa)[Refund Policy](https://www.subscribestar.com/refund)[Contact Us](https://www.subscribestar.com/contacts)
 
 [All Stars](https://www.subscribestar.com/stars)[Brand](https://www.subscribestar.com/brand)[Do's & Don'ts](https://www.subscribestar.com/guidelines)[FAQ](https://www.subscribestar.com/help)
 
@@ -106,5 +110,3 @@ Starcling, LLC, 30 N Gould St, Ste 5085, Sheridan, WY, 82801, US    
 All copyrights belong to their respective owners. Images and text owned by other copyright holders are used here under the guidelines of the Fair Use provisions of United States Copyright Law.  
   
 © 2024 SubscribeStar.com.
-
-This website uses cookies to improve your experience while you navigate through this website. Continue to use this website as normal if you agree to the use of cookies. View our [Privacy Policy](https://www.subscribestar.com/privacy) for the details. By choosing "I Accept", you consent to our use of cookies.I Accept
