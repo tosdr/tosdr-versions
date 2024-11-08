@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+    
+    ### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+    
+    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
+    
+    ### [When will dangerous cladding from thousands of buildings across the capital be removed?](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
+    
     [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
     
     ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
@@ -48,14 +56,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Immigration-program-management-360x180.png)](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
     
     ### [Navigating to the new, UK visa changes & applying for family members](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
-    
-    [![Bertie Carvel (Donald Trump), photo by Marc Brenner](https://southwarknews.co.uk/wp-content/uploads/2022/04/Old-Vic-Bertie-Carvel-Donald-Trump-in-The-47th-at-The-Old-Vic-photo-by-Marc-Brenner-1-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
-    
-    ### [What does the election of ‘climate denier’ Donald Trump mean for London’s net zero carbon emission target?](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Apply-for-a-UK-visa-360x180.png)](https://southwarknews.co.uk/area/london/apply-for-a-uk-visa-including-new-visa-changes/)
-    
-    ### [Apply for a UK visa including new visa changes](https://southwarknews.co.uk/area/london/apply-for-a-uk-visa-including-new-visa-changes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+    
+    ### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+    
+    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
+    
+    ### [When will dangerous cladding from thousands of buildings across the capital be removed?](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
+    
     [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
     
     ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
@@ -134,14 +142,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Immigration-program-management-360x180.png)](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
     
     ### [Navigating to the new, UK visa changes & applying for family members](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
-    
-    [![Bertie Carvel (Donald Trump), photo by Marc Brenner](https://southwarknews.co.uk/wp-content/uploads/2022/04/Old-Vic-Bertie-Carvel-Donald-Trump-in-The-47th-at-The-Old-Vic-photo-by-Marc-Brenner-1-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
-    
-    ### [What does the election of ‘climate denier’ Donald Trump mean for London’s net zero carbon emission target?](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Apply-for-a-UK-visa-360x180.png)](https://southwarknews.co.uk/area/london/apply-for-a-uk-visa-including-new-visa-changes/)
-    
-    ### [Apply for a UK visa including new visa changes](https://southwarknews.co.uk/area/london/apply-for-a-uk-visa-including-new-visa-changes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -207,17 +207,17 @@ Terms of Use
 
 ### Popular Articles
 
-[![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
-### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
-[5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
 [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
 ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
 [6th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+
+[![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+[5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
 
 [![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
 
@@ -244,6 +244,12 @@ Terms of Use
 [4th November 2024](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
 
 ### Featured Articles
+
+[![Photo and video from www.taikomeantime.rhythmworks.com](https://southwarknews.co.uk/wp-content/uploads/2024/11/Drumming-120x86.jpg)](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
+
+### [Taiko Meantime brings Japanese drumming to South London](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
+
+[8th November 2024](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
 
 [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
@@ -275,12 +281,6 @@ CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/
 ### [What does the election of ‘climate denier’ Donald Trump mean for London’s net zero carbon emission target?](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
 
 [7th November 2024](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
-
-[![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
-
-### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
-
-[6th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
 ### USEFUL PAGES
 
