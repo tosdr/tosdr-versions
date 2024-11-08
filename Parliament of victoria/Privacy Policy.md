@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Parliament debates priority precincts](https://parliament.vic.gov.au/link/eaf5a8a8ee0244ba85f93aab596edb05.aspx)
+        
+        08 November 2024
+        
     * [Climate for change](https://parliament.vic.gov.au/link/ea9fc028d8ec49c39eef7b3b62b7b926.aspx)
         
         06 November 2024
@@ -124,10 +128,6 @@ Main menu
     * [Shark tank approach a heart starter for research](https://parliament.vic.gov.au/link/850b4556e7a84d9fb214c9fae3d5c551.aspx)
         
         01 November 2024
-        
-    * [Feeding better student outcomes](https://parliament.vic.gov.au/link/e18c4538b4394d718e0016ee1b3553ef.aspx)
-        
-        29 October 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
