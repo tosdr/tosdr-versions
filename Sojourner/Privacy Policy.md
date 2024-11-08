@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-83f32a5ce23d942c9e3bef60ea9a5713
+17271ed65cac1c3dcebf148ae0fad74c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Purple flat oval beads](https://www.sojourner.biz/images/cache/glass/VB0030.200.jpg)](https://www.sojourner.biz/beads/glass/purple-flat-oval-beads.html "Purple flat oval beads")
+[![16 mm light blue heart beads](https://www.sojourner.biz/images/cache/glass/HRT024.200.jpg)](https://www.sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
 
-#### [Purple flat oval beads](https://www.sojourner.biz/beads/glass/purple-flat-oval-beads.html "Purple flat oval beads")
+#### [16 mm light blue heart beads](https://www.sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
 
-$4.00
+$6.00
 
 ### Best Sellers
 
