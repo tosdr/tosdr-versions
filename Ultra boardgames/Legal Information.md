@@ -66,11 +66,11 @@ A cookie is a small text file sent to your device by a web server that enables t
 * Email (in a hashed or encrypted form)
 
 Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoic’s partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
 
-### [Privacy Policy](https://www.ezoic.com/privacy-policy/advertising-partners/)
+### Privacy Policy
 
-[We understand the importance of your privacy as a visitor to this website. We want you to understand how the information you may provide will be used.
+We understand the importance of your privacy as a visitor to this website. We want you to understand how the information you may provide will be used.
 
 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -86,9 +86,9 @@ When using our online community functions, your user ID, which defaults to your 
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL http://www.google.com/policies/technologies/ads Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL http://www.google.com/policies/technologies/ads Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
-[Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies (](https://www.ezoic.com/privacy-policy/advertising-partners/)[ezoic](https://g.ezoic.net/privacy/ultraboardgames.com)), UltraBoardGames has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies ([ezoic](https://g.ezoic.net/privacy/ultraboardgames.com)), UltraBoardGames has no access or control over these cookies that may be used by third party advertisers.
 
 #### Amazon Affiliate
 
