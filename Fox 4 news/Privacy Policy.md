@@ -91,20 +91,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Flash Flood Warning
-
-from FRI 12:36 AM CST until FRI 5:00 AM CST, Palo Pinto County](https://www.fox4news.com/weather-alerts)
-
-3
-
-[Severe Thunderstorm Warning
-
-until FRI 2:00 AM CST, Palo Pinto County, Jack County, Parker County](https://www.fox4news.com/weather-alerts)
-
-[Severe Thunderstorm Warning
-
-from FRI 1:44 AM CST until FRI 2:45 AM CST, Wise County, Parker County, Jack County](https://www.fox4news.com/weather-alerts)
-
 Privacy Policy
 ==============
 
@@ -416,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Govee electric space heaters recalled over fire and burn risks](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/space-heaters.jpg?ve=1&tl=1)
+
+ ![Govee electric space heaters recalled over fire and burn risks](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/space-heaters.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/govee-space-heaters-recall-fire-burn-risks-november-2024)
+
+### [Govee electric space heaters recalled over fire and burn risks](https://www.fox4news.com/news/govee-space-heaters-recall-fire-burn-risks-november-2024)
+
+ [![First IHOP-Applebee's joint restaurant coming to US: where and when it opens](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/applebees-ihop-2.jpg?ve=1&tl=1)
+
+ ![First IHOP-Applebee's joint restaurant coming to US: where and when it opens](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/applebees-ihop-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-ihop-applebees-joint-restaurant-us-where-when-opens)
+
+### [First IHOP-Applebee's joint restaurant coming to US: where and when it opens](https://www.fox4news.com/news/first-ihop-applebees-joint-restaurant-us-where-when-opens)
+
+ [![Richardson schools reopen with restrictions as city waits for water test results; Boil water notice remains](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-lori-richardson-boil-water-notice-4p_00.00.01.56.jpg?ve=1&tl=1)
+
+ ![Richardson schools reopen with restrictions as city waits for water test results; Boil water notice remains](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-lori-richardson-boil-water-notice-4p_00.00.01.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-boil-water-schools-reopen)
+
+### [Richardson schools reopen with restrictions as city waits for water test results; Boil water notice remains](https://www.fox4news.com/news/richardson-boil-water-schools-reopen)
+
  [![16-year-old charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1)
 
  ![16-year-old charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
@@ -427,24 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  !['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182751833.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-drop-out-search-election-states)
 
 ### ['Did Joe Biden drop out?' Google searches spiked in key states on Election Day](https://www.fox4news.com/news/biden-drop-out-search-election-states)
-
- [![Dallas County sheriffs release video of truck involved in I-35 deadly hit-and-run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/dallas-county-hit-and-run.png?ve=1&tl=1)
-
- ![Dallas County sheriffs release video of truck involved in I-35 deadly hit-and-run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/dallas-county-hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gene-gathright-jr-fatal-hit-and-run-8th-street-i-35-surveillance-video)
-
-### [Dallas County sheriffs release video of truck involved in I-35 deadly hit-and-run](https://www.fox4news.com/news/gene-gathright-jr-fatal-hit-and-run-8th-street-i-35-surveillance-video)
-
- [![National Parks are free for Veterans Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1241626699.jpg?ve=1&tl=1)
-
- ![National Parks are free for Veterans Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1241626699.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/veterans-day-free-national-parks)
-
-### [National Parks are free for Veterans Day](https://www.fox4news.com/news/veterans-day-free-national-parks)
-
- [![Veterans Day deals and freebies](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-132284564.jpg?ve=1&tl=1)
-
- ![Veterans Day deals and freebies](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-132284564.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/veterans-day-2024-restaurant-deals)
-
-### [Veterans Day deals and freebies](https://www.fox4news.com/news/veterans-day-2024-restaurant-deals)
 
 ###### [News](https://www.fox4news.com/news)
 
