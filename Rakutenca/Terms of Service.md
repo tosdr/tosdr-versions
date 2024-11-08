@@ -83,7 +83,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
         
-        4% Cash Back](https://www.rakuten.ca/gap-canada)
+        6% Cash Back](https://www.rakuten.ca/gap-canada)
         
         Featured Shops & Deals
         
