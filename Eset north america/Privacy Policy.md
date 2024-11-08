@@ -654,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/business/resources/datasheets/)
+[United States (EN)](https://www.eset.com/us/business/resource-center/handbooks/driving-efficiency-it-admins-crucial-role-in-the-employee-journey/)
 
 * * *
 
