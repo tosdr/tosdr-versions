@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Plano de Marketing Digital - A imagem que ilustra o tema tem o fundo de uma sala de escritório onde aparece uma mulher sentada em frente uma mesa trabalhando.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Guia-Completo-para-criar-um-Plano-de-Marketing-Digital-eficiente-para-2025-O-que-nao-pode-faltar-580x290.jpg)](https://postgrain.com/?post_type=post&p=12700)
+[![Carrossel que aparece no feed do reels - a imagem que ilustra o tema tem de fundo uma rua e, em destaque, aparece uma mão de uma pessoa branca, segurando um celular com o ícone do reel aberto na tela na cor rosa.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Tutorial-Como-criar-um-carrossel-que-sera-exibido-no-feed-do-REEL-580x290.jpg)](https://postgrain.com/?post_type=post&p=12703)
 
-[Guia Completo para criar um Plano de Marketing Digital em 2025: O que não pode faltar!](https://postgrain.com/?post_type=post&p=12700)
+[Passo a Passo: Como Criar um Carrossel para o Feed do Reels no Instagram \[Nova Atualização\]](https://postgrain.com/?post_type=post&p=12703)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12700)
+[Leia mais](https://postgrain.com/?post_type=post&p=12703)
 
 Ilustração de um dos personagens do Postgrain
 
