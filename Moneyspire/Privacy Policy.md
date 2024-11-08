@@ -1,4 +1,4 @@
-Limited-time. Get 40% to 50% Off.  [Buy now & save](https://www.moneyspire.com/purchase/)
+Limited-time: Get 40% to 50% Off.  [Buy now & save](https://www.moneyspire.com/purchase/)
 
 [![Moneyspire logo](/images/logo.png)](https://www.moneyspire.com/)
 
