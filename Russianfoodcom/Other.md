@@ -148,9 +148,8 @@
 
 Сейчас читают
 
-* [Слоёные рулетики с яблоками, джемом, изюмом и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174675)
-* [Овощной стир-фрай с краснокочанной капустой и лапшой](https://www.russianfood.com/recipes/recipe.php?rid=174666)
-* [Пирог-улитка из лаваша с творогом и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=165137)
+* [Сладкий перец с фаршем, запечённый в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174614)
+* [Слоёный салат с копчёной курицей, картофелем, морковью, сыром и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=164116)
 
 |     |
 | --- |
@@ -175,17 +174,59 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Кекс с грушами и пряностями](https://www.russianfood.com/recipes/recipe.php?rid=174581) |     |
+
+[![Фото к рецепту: Кекс с грушами и пряностями](//img1.russianfood.com/dycontent/images_upl/751/sm_750369.jpg "Фото к рецепту: Кекс с грушами и пряностями")](https://www.russianfood.com/recipes/recipe.php?rid=174581)
+
+Кекс с грушей и пряностями хоть и готовится несложно, но его уверенно можно отнести к категории праздничной выпечки. В кексовое тесто с добавлением молока и пряностей вмешиваются мелко нарезанные груши. В процессе выпечки кусочки груши размягчаются, придавая кексу особенно нежный вкус.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174581)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174581#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Уютные вечера для семейных торжеств. Лучшие рецепты НА ВЫХОДНЫЕ №24-45](https://www.russianfood.com/reading/?post_id=22848) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/719/sm_718106.jpg)](https://www.russianfood.com/reading/?post_id=22848)
+
+Карась, запечённый с луком и сметаной. Булгур с курицей и овощами. Селёдка под шубой в багете. Пикантные куриные шейки. Мясной пирог с капустой. Рагу из говядины с копчёными колбасками. Рыба в кокосовом кляре.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22848)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22848#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Простые идеи на каждый день. Лучшие рецепты из ФАРША (29)](https://www.russianfood.com/reading/?post_id=22847) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/724/sm_723181.jpg)](https://www.russianfood.com/reading/?post_id=22847)
+
+Котлеты из фарша с овощами. Тефтели в томатно-цитрусовом соусе. Суп с фаршем, шпинатом и овощами. Гречка с рисом и фаршем. Фрикадельки с сыром и лимоном.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22847)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22847#comments) | 08.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Конвертики из лаваша с творогом и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174410) |     |
 
 [![Фото к рецепту: Конвертики из лаваша с творогом и изюмом](//img1.russianfood.com/dycontent/images_upl/748/sm_747014.jpg "Фото к рецепту: Конвертики из лаваша с творогом и изюмом")](https://www.russianfood.com/recipes/recipe.php?rid=174410)
 
-Простой и быстрый рецепт для любителей сладких пирожков с творожной начинкой. Этот рецепт точно из ленивых, так как не нужно возиться с тестом - его заменяет лаваш. Лаваш нарезают, сворачивают в конвертики с творогом и изюмом, а затем обжаривают на сковороде.
+Простой и быстрый рецепт для любителей сладких пирожков с творожной начинкой. Удобно, что не придётся возиться с тестом - его заменяет лаваш. Лаваш нарезают, сворачивают в конвертики с творогом и изюмом, а затем обжаривают на сковороде.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174410)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174410#comments) | 08.11.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174410#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -255,7 +296,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174756#comments) | 08.11.24 |     |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174756#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -297,7 +338,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174755#comments) | 07.11.24 |     |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174755#comments) | 07.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -340,48 +381,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22841#comments) | 07.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) |     |
-
-[![Фото к рецепту: Судак по-новогоднему, в год Змеи](//img1.russianfood.com/dycontent/images_upl/751/sm_750029.jpg "Фото к рецепту: Судак по-новогоднему, в год Змеи")](https://www.russianfood.com/recipes/recipe.php?rid=174770)
-
-В отсутствии змеи - символа нового, 2025 года - можно приготовить её из судака.) Вкусное блюдо "судак по-дальневосточному" - жаренное во фритюре филе рыбы под овощным соусом. За счёт соуса рыба получается сочной и по-праздничному вкусной. Это блюдо вполне достойно новогоднего стола.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174770)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174770#comments) | 07.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат с крабовыми палочками в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174752) |     |
-
-[![Фото к рецепту: Салат с крабовыми палочками в виде змеи](//img1.russianfood.com/dycontent/images_upl/750/sm_749278.jpg "Фото к рецепту: Салат с крабовыми палочками в виде змеи")](https://www.russianfood.com/recipes/recipe.php?rid=174752)
-
-Яркий салат с крабовыми палочками и кукурузой, оформленный в виде змеи, символа 2025 года, станет настоящей изюминкой вашего праздничного стола. Салат получается нежным и сочным. Украсьте новогодний стол этим замечательным блюдом и удивите гостей такой необычной подачей!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174752)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174752#comments) | 07.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат "Селёдка под шубой" в виде змеи](https://www.russianfood.com/recipes/recipe.php?rid=174731) |     |
-
-[![Фото к рецепту: Салат "Селёдка под шубой" в виде змеи](//img1.russianfood.com/dycontent/images_upl/749/sm_748426.jpg "Фото к рецепту: Салат "Селёдка под шубой" в виде змеи")](https://www.russianfood.com/recipes/recipe.php?rid=174731)
-
-Оригинальный вариант традиционного салата "Сельдь под шубой", который не только удивит ваших гостей, но и подарит настоящее гастрономическое наслаждение. Сочетание селёдки и сладковатых отварных овощей создаёт поистине волшебный вкус. А подача в виде змеи на новогодний стол 2025 года не оставит никого равнодушным и заставит по-новому взглянуть на привычный салат "Селёдка под шубой".
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174731)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174731#comments) | 07.11.24 |     |
 
 |     |
 | --- |
@@ -454,10 +453,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174604) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740055.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747014.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174410) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728297.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731711.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174181) |
-| [Голубцы по-закарпатски с копчёной грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Салат с печенью, виноградом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [Конвертики из лаваша с творогом и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174410) | [Жаркое со сметаной](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [Куриное филе, запечённое с помидорами, перцем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174181) |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746390.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749540.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
-| [Гармошка из куриного филе с грибами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
+| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749540.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747014.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174410) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728297.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746390.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174609) |
+| [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756) | [Конвертики из лаваша с творогом и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174410) | [Стейки из форели на ольховой дощечке на гриле](https://www.russianfood.com/recipes/recipe.php?rid=174766) | [Жаркое со сметаной](https://www.russianfood.com/recipes/recipe.php?rid=174040) | [Гармошка из куриного филе с грибами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174609) |
+| [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731711.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174181) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740055.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750369.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174581) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744695.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174604) |
+| [Куриное филе, запечённое с помидорами, перцем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174181) | [Салат с печенью, виноградом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [Кекс с грушами и пряностями](https://www.russianfood.com/recipes/recipe.php?rid=174581) | [Голубцы по-закарпатски с копчёной грудинкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174604) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +473,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(133)
+(148)
