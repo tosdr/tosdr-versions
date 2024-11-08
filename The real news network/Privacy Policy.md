@@ -81,8 +81,8 @@ Trending Posts
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
+* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 
 Close
 
@@ -145,8 +145,8 @@ Trending Posts
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
+* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 
 [Skip to content](#main)
 
