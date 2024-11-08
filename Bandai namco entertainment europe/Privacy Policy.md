@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Announcing the DRAGON BALL: Sparking! ZERO - The Dramatic Showdown Tournament!](https://en.bandainamcoent.eu/dragon-ball/news/announcing-the-dragon-ball-sparking-zero-the-dramatic-showdown-tournament)
 * [Drum to the beat of TAIKO NO TATSUJIN: RHYTHM FESTIVAL available now on new platforms](https://en.bandainamcoent.eu/taiko-no-tatsujin/news/drum-the-beat-of-taiko-no-tatsujin-rhythm-festival-available-now-new)
-* [Uncover the truth or deceive to win in DEATH NOTE KILLER WITHIN, available now](https://en.bandainamcoent.eu/death-note/news/uncover-the-truth-or-deceive-win-death-note-killer-within-available-now)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
