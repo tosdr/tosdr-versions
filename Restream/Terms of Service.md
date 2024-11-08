@@ -547,10 +547,9 @@ Nothing in this Agreement is intended to or does create any type of joint ventur
 
 #### Products
 
-* [Studio](https://restream.io/studio)
 * [Multistreaming](https://restream.io/multistreaming)
-* [Chat](https://restream.io/chat)
-* [Analytics](https://restream.io/analytics)
+* [Upload & Stream](https://restream.io/upload-and-stream)
+* [Studio](https://restream.io/studio)
 
 #### Community
 
