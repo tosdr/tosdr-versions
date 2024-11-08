@@ -143,7 +143,7 @@
 
 [Create survey](https://app.easy-feedback.com/register?l=en)
 
-[EN](https://easy-feedback.com/privacy/privacy-policy/)
+[EN](https://easy-feedback.com/privacy-policy/)
 
 * [DE](https://easy-feedback.de/privacy/datenschutzerklaerung/)
 
@@ -575,11 +575,7 @@ A web service of the company Cybot A/S, Havnegade 39, 1058 Copenhagen, Denmark (
 
 You can prevent the collection and processing of your data by cookiebot.com by deactivating the execution of script code in your browser or installing a script blocker in your browser.
 
-**Font Awesome**
-
-A web service of the company Fonticons, 6 Porter Road, Apartment 3R, MA 02140 Cambridge, United States of America (hereinafter: Font Awesome) is reloaded on our website. If you have activated JavaScript in your browser and have not installed a JavaScript blocker, your browser may transmit personal data to Font Awesome. For further information on the handling of the transmitted data, please refer to Font Awesome’s privacy policy: [https://fontawesome.com/privacy](https://fontawesome.com/privacy)
-
-You can prevent the collection as well as the processing of your data by Font Awesome by deactivating the execution of script code in your browser or by installing a script blocker in your browser.
+**Font Awesome**A web service of the company Fonticons, 6 Porter Road, Apartment 3R, MA 02140 Cambridge, United States of America (hereinafter: Font Awesome) is reloaded on our website. If you have activated JavaScript in your browser and have not installed a JavaScript blocker, your browser may transmit personal data to Font Awesome. For further information on the handling of the transmitted data, please refer to Font Awesome’s privacy policy: [https://fontawesome.com/privacy](https://fontawesome.com/privacy) You can prevent the collection as well as the processing of your data by Font Awesome by deactivating the execution of script code in your browser or by installing a script blocker in your browser.
 
 **Hotjar**
 
@@ -601,7 +597,32 @@ Please note that deactivating Hotjar must be done separately for each browser or
 
 For more information about Hotjar and the data it collects, please see Hotjar’s privacy policy at the following link: [https://www.hotjar.com/privacy/](https://www.hotjar.com/privacy/)
 
-**Google Sign-In** We offer you the possibility to register and log in with Google Sign-In. This is done exclusively with your express consent in accordance with Art. 6 (1) lit. f GDPR. Google Sign-In is a service of Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland. An additional registration or login is therefore not necessary. To log in or register, you will be redirected to the Google page, where you can log in with your user data. This will link your Google profile or your Google e-mail address and our service. Through the link, we automatically receive the following data from Google Ireland Limited: First and last name, email address, gender and Your Google user ID (if different from your email address) We use the above data to complete the user profile. This information is mandatory for our services to be able to identify you. For more information on Google Sign-In and privacy settings, please refer to the privacy policy ([https://policies.google.com/privacy](https://policies.google.com/privacy) ) and terms of use ([https://policies.google.com/terms](https://policies.google.com/terms) ) of Google Ireland Limited.
+**Microsoft Clarity**
+
+We use the web analysis software Microsoft Clarity for our website. The service provider is the American company Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.
+
+Microsoft also processes your data in the USA, among other places. Clarity or Microsoft is an active participant in the EU-US Data Privacy Framework, which regulates the correct and secure transfer of personal data from EU citizens to the USA. You can find more information on this at [https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf\_en](https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en) .
+
+Microsoft also uses so-called standard contractual clauses (= Art. 46 (2) and (3) GDPR). Standard Contractual Clauses (SCCs) are templates provided by the EU Commission and are intended to ensure that your data complies with European data protection standards even if it is transferred to third countries (such as the USA) and stored there.
+
+Through the EU-US Data Privacy Framework and the standard contractual clauses, Microsoft undertakes to comply with the European level of data protection when processing your relevant data, even if the data is stored, processed and managed in the USA.
+
+These clauses are based on an implementing decision of the EU Commission. You can find the decision and the corresponding standard contractual clauses here: [https://eur-lex.europa.eu/eli/dec\_impl/2021/914/oj](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?eliuri=eli%3Adec_impl%3A2021%3A914%3Aoj&locale=en)
+
+You can find more information on the standard contractual clauses at Microsoft at  
+[https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses](https://learn.microsoft.com/en-us/compliance/regulatory/offering-eu-model-clauses)
+
+You can find out more about the data that is processed through the use of Microsoft in the privacy policy at [https://www.microsoft.com/en-us/privacy](https://www.microsoft.com/en-us/privacy) .
+
+**Google Sign-In**
+
+We offer you the possibility to register and log in with Google Sign-In. This is done exclusively with your express consent in accordance with Art. 6 (1) lit. f GDPR. Google Sign-In is a service of Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland. An additional registration or login is therefore not necessary. To log in or register, you will be redirected to the Google page, where you can log in with your user data. This will link your Google profile or your Google e-mail address and our service. Through the link, we automatically receive the following data from Google Ireland Limited:
+
+First and last name, email address, gender and Your Google user ID (if different from your email address)
+
+We use the above data to complete the user profile. This information is mandatory for our services to be able to identify you.
+
+For more information on Google Sign-In and privacy settings, please refer to the privacy policy ([https://policies.google.com/privacy](https://policies.google.com/privacy) ) and terms of use ([https://policies.google.com/terms](https://policies.google.com/terms) ) of Google Ireland Limited.
 
 **Calendly**
 
@@ -831,7 +852,7 @@ March 2024
 ![Weltkarte weiß](https://easy-feedback.com/wp-content/uploads/2020/02/map_white.svg)
 
 * [Deutsch](https://easy-feedback.de/privacy/datenschutzerklaerung/)
-* [English](https://easy-feedback.com/privacy/privacy-policy/)
+* [English](https://easy-feedback.com/privacy-policy/)
 
  [![easyfeedback logo weiß-rot](https://easy-feedback.com/wp-content/uploads/2020/02/easyfeedback-logo-weiss-rot.png)](https://easy-feedback.com/)
 
