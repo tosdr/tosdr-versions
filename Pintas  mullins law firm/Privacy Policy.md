@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you sue an insurance company without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-an-insurance-company-without-a-lawyer-scaled.jpg "Can You Sue an Insurance Company Without a Lawyer?")](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/ "Can You Sue an Insurance Company Without a Lawyer?")
+[![How can i recover damages for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-can-i-recover-damages-for-mesothelioma.jpg "How Can I Recover Damages for Mesothelioma?")](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/ "How Can I Recover Damages for Mesothelioma?")
 
-[#### Can You Sue an Insurance Company Without a Lawyer?](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/)
+[#### How Can I Recover Damages for Mesothelioma?](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/)
 
-[![How is mesothelioma diagnosed?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-is-mesothelioma-diagnosed-scaled.jpg "How Is Mesothelioma Diagnosed?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-is-malignant-mesothelioma-diagnosed/ "How Is Mesothelioma Diagnosed?")
+[![Lawyers address assisted living abuse cases](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases-300x131.jpg "Lawyers Address Assisted Living Abuse Cases")](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/ "Lawyers Address Assisted Living Abuse Cases")
 
-[#### How Is Mesothelioma Diagnosed?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-is-malignant-mesothelioma-diagnosed/)
+[#### Lawyers Address Assisted Living Abuse Cases](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/)
 
-[![Is sexual questioning considered sexual abuse?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Is Sexual Questioning Considered Sexual Abuse?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/ "Is Sexual Questioning Considered Sexual Abuse?")
+[![What are the four stages of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-four-stages-of-lung-cancer.jpg "What Are the Four Stages of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/stages "What Are the Four Stages of Lung Cancer?")
 
-[#### Is Sexual Questioning Considered Sexual Abuse?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/)
+[#### What Are the Four Stages of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/stages)
 
 ### Injured?  
 Tell Us What Happened.
