@@ -120,11 +120,11 @@ Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pab
 
 Noticia
 
-Internacionalización
+Emprendimiento
 
-Descubre a las 38 empresas que forman parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
+La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas
 
-[Descubre a las 38 empresas que forman parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que forman parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
+[La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
