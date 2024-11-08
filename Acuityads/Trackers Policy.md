@@ -30,9 +30,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Brand Innovators Marketing Leadership Summit at Advertising Week 2024](https://illumin.com/wp-content/uploads/2024/11/BI-event-1-263x300.jpg)
+    * ![TikTok launches its search ads](https://illumin.com/wp-content/uploads/2024/11/TikTok-Search-Advertising-263x300.png)
         
-        Brand Innovators Marketing Leadership Summit at Advertising Week 2024[Read More](https://illumin.com/insights/events/bi-marketing-leadership-summit-at-advertising-week-2024/)
+        TikTok launches its search ads[Read More](https://illumin.com/insights/blog/tiktok-search-ads/)
         
 * [Company](#)
     * [Company](#)
@@ -153,3 +153,7 @@ Newsletter signup
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Cookie+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1648&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fprivacy%2Fcookie%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Cookie+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1648&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fprivacy%2Fcookie%2F)
