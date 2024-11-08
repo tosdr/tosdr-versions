@@ -1,3 +1,3 @@
-The Weekly Drop: New Arrivals Every Thursday | Free Shipping On Orders Over $99
+Limited Time, Get $25 Off Almost Everything When You Spend $125+ | Free Shipping On Orders Over $99
 
-[SHOP MEN'S](https://www.abercrombie.com/shop/us/mens-new-arrivals?icmp=ICT:FALL24:M-A:SB:B:NAS:CAM:X:JunWk5:NAS:X:) [SHOP WOMEN'S](https://www.abercrombie.com/shop/us/womens-new-arrivals?icmp=ICT:FALL24:F-A:SB:B:NAS:CAM:X:JunWk5:NAS:X:)
+[SHOP MEN'S](https://www.abercrombie.com/shop/us/mens?icmp=ICT:HOL24:M-A:SB:B:DIV:PRM:DOFF:NovWk1:X:) [SHOP WOMEN'S](https://www.abercrombie.com/shop/us/womens?icmp=ICT:HOL24:F-A:SB:B:DIV:PRM:DOFF:NovWk1:X:)
