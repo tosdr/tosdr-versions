@@ -6182,11 +6182,11 @@ If you have any questions about these Terms, you can contact customer support vi
 Tokenized Authorization (B2B) - EN (MG test)
 --------------------------------------------
 
-### Version 2.0
+### Version 10.0
 
 ##### Effective November 8th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672ddca5f900cb502740db7e.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672e3b11da217d88646f9f15.pdf)
 
 * * *
 
@@ -6194,18 +6194,21 @@ Tokenized Authorization (B2B) - EN (MG test)
 
 * * *
 
-**AUTHORIZATION**
+**AUTORISATION**
 
-To evaluate your suitability for {{purpose}} , {{company\_name}} (the "**Company**") has asked [Certn](https://certn.co/) to assemble and return a consumer report (your "**Report**") consisting of: {{services\_list}} .
+Afin d'évaluer votre aptitude à participer à {{purpose}} , {{company\_name}} ("Société") a demandé au [Certn](https://certn.co/) de vérifier votre identité, de créer et de vous renvoyer un rapport de consommation (votre " Rapport") composé de : {{services\_list}} .
 
-Certn will collect the following personal information for the purpose of completing the Report: {{personal\_information\_list}}.{{#if data\_providers\_list}} Certn may collect Personal Information directly from you, the Company or third parties such as {{data\_providers\_list}}{{else}} Certn may collect Personal Information directly from you or the Company {{/if}}. Certn will compare information received from different sources for consistency.
+Nous collecterons les informations personnelles suivantes dans le but de fournir les services: {{personal\_information\_list}} . {{#if data\_providers\_list}}Nous pouvons collecter des informations personnelles directement auprès de vous, de la société ou de tiers tels que {{data\_providers\_list}} {{else}} Nous pouvons collecter des informations personnelles directement auprès de vous ou de la Société{{/if}}. Nous comparerons les informations reçues de différentes sources pour en assurer la cohérence.
 
-It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Your Personal Information may be handled by our employees and contractors in Canada, Australia, the U.S., the U.K., South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+Il peut être nécessaire pour Certn de transférer et de traiter des informations personnelles dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, vos informations personnelles peuvent être traitées par nos employés et sous-traitants au Canada, en Australie, aux États-Unis, au Royaume-Uni, en Afrique du Sud et aux Philippines. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
 
-You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
+Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou demander une correction, une suppression ou une copie de votre rapport à tout moment en contactant le responsable de la protection de la vie privée du Certn au 1-844-987-0690 ou à [privacy@certn.co](mailto:privacy@certn.co). De plus amples informations concernant la collecte, l'utilisation, la divulgation ou le stockage de vos informations personnelles sont disponibles [ici](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3).
 
   
 
+  
+  
+  
   
 
 * * *
