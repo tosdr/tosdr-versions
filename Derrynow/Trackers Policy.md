@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
 
 Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
@@ -274,24 +267,6 @@ Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrati
 
 [County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ryan Sheerin (10B) and Ben Farren (12D)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryan Sheerin (10B) and Ben Farren (12D)")](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
-
-Ryan Sheerin (10B) and Ben Farren (12D)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry students crowned Ulster Irish Dancing Champions](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman appears at Derry Magistrate's Court facing series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrate's Court facing series of charges")](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman appears at Derry Magistrate's Court facing series of charges](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 
@@ -302,6 +277,24 @@ Principal of Lisneal College, Michael Allen on the right
 [Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Police investigating possible arson attack at Derry bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack at Derry bar")](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
+
+A police cordon at the Don Bar in Derry.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating possible arson attack at Derry bar](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman appears at Derry Magistrate's Court facing series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrate's Court facing series of charges")](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman appears at Derry Magistrate's Court facing series of charges](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![The man appeared before Letterkenny Circuit Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The man appeared before Letterkenny Circuit Court")](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
 
 The man appeared before Letterkenny Circuit Court
@@ -311,14 +304,12 @@ The man appeared before Letterkenny Circuit Court
 [Man pleads guilty to causing death of young father in Bridgend collision](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry")](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
 
-The man was arrested in Coleraine on Tuesday.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Home](https://www.derrynow.com/)
-
-[Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, November 8, 2024](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final")](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
 
@@ -327,23 +318,28 @@ The man was arrested in Coleraine on Tuesday.
 [FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Multi-million euro funding secured for new 'indoor dome' in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Multi-million euro funding secured for new 'indoor dome' in Derry")](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
-
-An image of the plans for the new UU Dome.
+[![Derry man charged with serious domestic abuse offences breached bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with serious domestic abuse offences breached bail")](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Multi-million euro funding secured for new 'indoor dome' in Derry](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with serious domestic abuse offences breached bail](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Eagerly awaited Kneecap concert given the go-ahead by Derry councillors](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eagerly awaited Kneecap concert given the go-ahead by Derry councillors")](https://www.derrynow.com/news/local-news/1649872/eagerly-awaited-kneecap-concert-given-the-go-ahead-by-derry-councillors.html)
-
-Kneecap will play Templemore Sports Complex later this month
+[![Five suppliers appointed to tackle blue-green algae in Lough Neagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Five suppliers appointed to tackle blue-green algae in Lough Neagh")](https://www.derrynow.com/news/local-news/1650010/five-suppliers-appointed-to-tackle-blue-green-algae-in-lough-neagh.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Eagerly awaited Kneecap concert given the go-ahead by Derry councillors](https://www.derrynow.com/news/local-news/1649872/eagerly-awaited-kneecap-concert-given-the-go-ahead-by-derry-councillors.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Five suppliers appointed to tackle blue-green algae in Lough Neagh](https://www.derrynow.com/news/local-news/1650010/five-suppliers-appointed-to-tackle-blue-green-algae-in-lough-neagh.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Lisnagelvin police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Lisnagelvin police station")](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
+
+Lisnagelvin police station
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Planning application for telecommunications mast in Lisnagelvin area rejected](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,14 +519,46 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
+[![xx](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "xx")](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer Michael McMonagle (42) jailed for nine months at Derry Court](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with serious domestic abuse offences breached bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with serious domestic abuse offences breached bail")](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with serious domestic abuse offences breached bail](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating possible arson attack at Derry bar](https://www.derrynow.com/resizer/165/93/true/2024_11_08/IDNT_11-11-24_Don_Bar_attack-1731059444800.JPG--.JPG?1731059444826 "Police investigating possible arson attack at Derry bar")](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
+
+A police cordon at the Don Bar in Derry.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating possible arson attack at Derry bar](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Christmas events to spread festive cheer across Causeway Coast and Glens](https://www.derrynow.com/resizer/165/93/true/2024_11_07/CCGBC_CHRISTMAS_PROMO_01-1731010040327.jpg--.jpg?1731010041986 "Christmas events to spread festive cheer across Causeway Coast and Glens")](https://www.derrynow.com/news/what-s-on/1650414/christmas-events-to-spread-festive-cheer-across-causeway-coast-and-glens.html)
+
+Causeway Coast and Glens Deputy Mayor, Councillor Tanya Stirling, pictured with Santa and his elves at the launch of the Christmas Light Switch On events in the Borough.
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Christmas events to spread festive cheer across Causeway Coast and Glens](https://www.derrynow.com/news/what-s-on/1650414/christmas-events-to-spread-festive-cheer-across-causeway-coast-and-glens.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Friday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2810%29-1695307316077.jpg--.jpg?1695307316106 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Friday, November 8, 2024](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
+[![Derry secondary school spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/resizer/165/93/true/2015/04/16225219/michaelallenright.jpg--.jpg "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 
 Principal of Lisneal College, Michael Allen on the right
 
@@ -538,42 +566,6 @@ Principal of Lisneal College, Michael Allen on the right
 
 [Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/resizer/165/93/true/2024_11_07/2_Elephant_Rock_Boutique_Hotel-1730993557706_1730993861.jpg--.jpg?1730993861099 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
-
-Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Budding chefs cook up a storm with celebrity chef Suzie Lee in Derry for new cookbook](https://www.derrynow.com/resizer/165/93/true/2024_11_07/MixCollage-07-Nov-2024-02-03-PM-8650-1730988194198.jpg--.jpg?1730988194433 "Budding chefs cook up a storm with celebrity chef Suzie Lee in Derry for new cookbook")](https://www.derrynow.com/news/local-news/1650043/budding-chefs-cook-up-a-storm-with-celebrity-chef-suzie-lee-in-derry-for-new-cookbook.html)
-
-Young people from The PlayTrail made bread & butter pudding with Suzie Lee
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Budding chefs cook up a storm with celebrity chef Suzie Lee in Derry for new cookbook](https://www.derrynow.com/news/local-news/1650043/budding-chefs-cook-up-a-storm-with-celebrity-chef-suzie-lee-in-derry-for-new-cookbook.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle MP encourages Derry to come out for women’s safety rally](https://www.derrynow.com/resizer/165/93/true/2016/10/05175338/columeastwood-2.jpg--.jpg "Foyle MP encourages Derry to come out for women’s safety rally")](https://www.derrynow.com/news/local-news/1650287/foyle-mp-encourages-derry-to-come-out-for-womens-safety-rally.html)
-
-Foyle MP Colum Eastwood
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foyle MP encourages Derry to come out for women’s safety rally](https://www.derrynow.com/news/local-news/1650287/foyle-mp-encourages-derry-to-come-out-for-womens-safety-rally.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Lisnagelvin police station](https://www.derrynow.com/resizer/165/93/true/pa/2022_11_21/1669035309936_0.jpg--.jpg?1669035310188 "Lisnagelvin police station")](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
-
-Lisnagelvin police station
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Planning application for telecommunications mast in Lisnagelvin area rejected](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
