@@ -82,13 +82,25 @@
 More Stories
 ------------
 
+*  [![Sarah Michelle Gellar posing against a backdrop in 2024](https://www.women.com/img/gallery/8-sarah-michelle-gellar-outfits-that-could-have-come-straight-from-buffy-summers-closet/intro-1730747022.jpg)](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+    
+    ### [8 Sarah Michelle Gellar Outfits That Could Have Come Straight From Buffy Summers' Closet](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
+    
+    As '90s style sees a resurgence, we take a look at the iconic fashion of "Buffy the Vampire Slayer" and Sarah Michelle Gellar's early street looks.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
+    
 *  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
     [Living](https://www.women.com/category/living/)
     
     [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    ### [Stevie Nicks' Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
     While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
     
@@ -393,18 +405,6 @@ More Stories
     If you adore Florence Pugh and would like to have something in common with this icon, here's a tip: wear her favorite perfume.
     
     By Amanda Chatel [Read More](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
-    
-*  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Are Justin And Hailey Bieber Actually Compatible, According To Astrology?](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
-    
-    While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
     
 
 Back
