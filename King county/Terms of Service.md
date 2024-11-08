@@ -144,6 +144,12 @@ Global Navigation
 * [About King County](https://www.kingcounty.gov/en/legacy/about)
 * [Departments](https://www.kingcounty.gov/en/legacy/depts)
 
+Veterans Day is Monday, November 11
+
+[Our offices will be closed, and transit and service schedules may be different](https://kingcounty.gov/en/shared-topics/about-king-county/holiday-closures-impacts/veterans-day).
+
+×
+
 Terms of use
 ============
 
