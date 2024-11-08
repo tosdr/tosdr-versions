@@ -1,6 +1,6 @@
-[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
+[Home for the Holidays Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
 
-[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 40% Off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
+[Home for the Holidays Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 40% Off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
