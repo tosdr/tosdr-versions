@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/554/poopsongcover.jpg "Musician 'Matt Farley' Explains The 'Your Name + Poop Song' TikTok Trend And Why He's Written So Many Songs About Poop")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/573/cover2.jpg "10 Memes That Defined The 2024 U.S. Presidential Election")
+    
+    10 Memes That Defined The 2024 U.S. Presidential Election](https://knowyourmeme.com/editorials/meme-review/10-memes-that-defined-the-2024-us-presidential-election)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/572/hq720_(3).jpg "The Weekly Meme Roundup: Peanut The Squirrel, Knee Surgery, Election Memes And More")
+    
+    The Weekly Meme Roundup: Peanut The Squirrel, Knee Surgery, Election Memes And More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-peanut-the-squirrel-knee-surgery-election-memes-and-more)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/571/nintendo-pokemon-sue-palworld-developer-pocketpair-2-860x484.jpg "Pocketpair Reveals 'Patents' Subject To Nintendo's 'Palworld' Lawsuit, And Indeed One Of Them Is The 'Aiming' Patent")
+    
+    Pocketpair Reveals 'Patents' Subject To Nintendo's 'Palworld' Lawsuit, And Indeed One Of Them Is The 'Aiming' Patent](https://knowyourmeme.com/news/pocketpair-reveals-patents-subject-to-nintendos-palworld-lawsuit-and-indeed-one-of-them-is-the-aiming-patent)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/570/cover5.jpg "Where Did 'Captain, It's Wednesday' Come From? The 'What A Week, Huh?' Comic And Meme Explained")
+    
+    Where Did 'Captain, It's Wednesday' Come From? The 'What A Week, Huh?' Comic And Meme Explained](https://knowyourmeme.com/editorials/guides/where-did-captain-its-wednesday-come-from-the-what-a-week-huh-comic-and-meme-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/569/poopsongcover.jpg "Musician 'Matt Farley' Explains The 'Your Name + Poop Song' TikTok Trend And Why He's Written So Many Songs About Poop")
     
     Musician 'Matt Farley' Explains The 'Your Name + Poop Song' TikTok Trend And Why He's Written So Many Songs About Poop](https://knowyourmeme.com/editorials/interviews/musician-matt-farley-explains-the-your-name-poop-song-tiktok-trend-and-why-hes-written-so-many-songs-about-poop)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/553/cover1.jpg "Did Over 75,000 People Really Write-In 'Hawk Tuah' For President? The Viral 'Vote Hawk Tuah' Memes Explained")
-    
-    Did Over 75,000 People Really Write-In 'Hawk Tuah' For President? The Viral 'Vote Hawk Tuah' Memes Explained](https://knowyourmeme.com/editorials/guides/did-over-75000-people-really-write-in-hawk-tuah-for-president-the-viral-vote-hawk-tuah-memes-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/552/blue-friendship-bracelet.jpg "Why Are White Women Wearing Blue Bracelets? TikTok's 'Blue Friendship Bracelet Movement' Explained")
-    
-    Why Are White Women Wearing Blue Bracelets? TikTok's 'Blue Friendship Bracelet Movement' Explained](https://knowyourmeme.com/editorials/guides/why-are-white-women-wearing-blue-bracelets-tiktoks-blue-friendship-bracelet-movement-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/551/dyktmm_cover.jpg "What Does DYKTMM Mean? The Acronym About The Muffin Man From 'Shrek' Explained")
-    
-    What Does DYKTMM Mean? The Acronym About The Muffin Man From 'Shrek' Explained](https://knowyourmeme.com/editorials/guides/what-does-dyktmm-mean-the-slang-acronym-about-the-muffin-man-from-shrek-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/550/hit_or_misssss.jpg "Where Are They Now? Here's What Nyannyancosplay, AKA The 'Hit or Miss Girl,' Has Been Up To Since Her Viral TikTok Era In 2018")
-    
-    Where Are They Now? Here's What Nyannyancosplay, AKA The 'Hit or Miss Girl,' Has Been Up To Since Her Viral TikTok Era In 2018](https://knowyourmeme.com/editorials/guides/where-are-they-now-heres-what-nyannyancosplay-aka-the-hit-or-miss-girl-has-been-up-to-since-her-viral-tiktok-era-in-2018)
     
 
 ##### Also Trending:
 
-[Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") ["Republicans Are Weird"](https://knowyourmeme.com/memes/republicans-are-weird ""Republicans Are Weird"") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T")
+[Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") ["Republicans Are Weird"](https://knowyourmeme.com/memes/republicans-are-weird ""Republicans Are Weird"") [40 Monkeys Escape Research Facility](https://knowyourmeme.com/memes/events/40-monkeys-escape-research-facility "40 Monkeys Escape Research Facility") [Black Ops 6 AI Cards Controversy](https://knowyourmeme.com/memes/events/call-of-duty-black-ops-6-ai-cards-controversy "Black Ops 6 AI Cards Controversy") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Study Finds 100 Percent Of Men Would Immediately Leave Their Desk Job](https://knowyourmeme.com/memes/study-finds-100-percent-of-men-would-immediately-leave-their-desk-job "Study Finds 100 Percent Of Men Would Immediately Leave Their Desk Job") [Israeli Maccabi Tel Aviv Fans Amsterdam Attack](https://knowyourmeme.com/memes/events/israeli-maccabi-tel-aviv-fans-amsterdam-attack "Israeli Maccabi Tel Aviv Fans Amsterdam Attack") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
