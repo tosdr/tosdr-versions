@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ThirdParty](/assets/logos/ThirdParty.png)](http://www.followthemoney.org/research/institute-research/third-party-candidates-face-long-odds)
+[![SF Giants](/assets/Images/teasers/small/Giants.png)](https://www.followthemoney.org/research/blog/giants-give-royally/)
 
-How many third-party candidates were successful 2000-2009?
+$3M from San Francisco Giants, 2000-13.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
