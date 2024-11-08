@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    New Releases
+    Browse All Our Lists, Essays, and Interviews
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * * *
 
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/29140304/PRH_New-in-Audio-November-1200x628-1.jpg)
     
-    Audiobooks for Kids
+    New Stories to Listen to
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * * *
 
