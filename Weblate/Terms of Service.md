@@ -158,6 +158,7 @@ Contributor docs
 Change history
 
 * [Weblate 5.9](https://docs.weblate.org/en/latest/changes.html)
+* [Weblate 5.8.4](https://docs.weblate.org/en/latest/changes.html#weblate-5-8-4)
 * [Weblate 5.8.3](https://docs.weblate.org/en/latest/changes.html#weblate-5-8-3)
 * [Weblate 5.8.2](https://docs.weblate.org/en/latest/changes.html#weblate-5-8-2)
 * [Weblate 5.8.1](https://docs.weblate.org/en/latest/changes.html#weblate-5-8-1)
