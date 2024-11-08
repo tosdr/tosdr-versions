@@ -182,6 +182,15 @@ Hello, 你好!
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
+* [![吹刃小子](/img/wallpaper/pw01969.jpg)
+    
+    ###### 吹刃小子](https://www.pili.com.tw/img/wallpaper/pw01969.jpg)
+* [![最光陰](/img/wallpaper/pw01968.jpg)
+    
+    ###### 最光陰](https://www.pili.com.tw/img/wallpaper/pw01968.jpg)
+* [![綺羅生](/img/wallpaper/pw01967.jpg)
+    
+    ###### 綺羅生](https://www.pili.com.tw/img/wallpaper/pw01967.jpg)
 * [![佐清歡](/img/wallpaper/pw01966.jpg)
     
     ###### 佐清歡](https://www.pili.com.tw/img/wallpaper/pw01966.jpg)
@@ -203,15 +212,6 @@ Hello, 你好!
 * [![南宮取](/img/wallpaper/pw01960.jpg)
     
     ###### 南宮取](https://www.pili.com.tw/img/wallpaper/pw01960.jpg)
-* [![九孽之斬](/img/wallpaper/pw01959.jpg)
-    
-    ###### 九孽之斬](https://www.pili.com.tw/img/wallpaper/pw01959.jpg)
-* [![揹黑的孤兒](/img/wallpaper/pw01958.jpg)
-    
-    ###### 揹黑的孤兒](https://www.pili.com.tw/img/wallpaper/pw01958.jpg)
-* [![閃焰](/img/wallpaper/pw01957.jpg)
-    
-    ###### 閃焰](https://www.pili.com.tw/img/wallpaper/pw01957.jpg)
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
