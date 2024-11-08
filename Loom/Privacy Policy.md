@@ -360,7 +360,7 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2413)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2415)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Privacy Policy](https://www.loom.com/legal/privacy-policy)
@@ -527,7 +527,7 @@ How we store and secure information we collect
 
 **Information storage and security**
 
-We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see the [Atlassian Trust](https://www.loom.com/trust), [Trello Trust](https://trello.com/en-US/trust), and [Jira Align Trust](https://www.loom.com/software/jira/align/trust) pages. 
+We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see the [Atlassian Trust](https://www.loom.com/trust), [Trello Trust](https://trello.com/en-US/trust), and [Jira Align Trust](https://www.loom.com/software/jira/align/security) pages. 
 
 While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
 
@@ -770,7 +770,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2413)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2415)
 
 [Company](https://www.loom.com/company)
 
