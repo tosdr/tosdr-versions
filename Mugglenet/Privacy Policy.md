@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
+The Scholastic editor, Arthur Levine, suggested changing the title from “Harry Potter and the Philosopher’s Stone” to “Harry Potter and the School of Magic” so as not to confuse American readers.
 
 ### Potter History
 
-January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
+June 30, 2004 – Harry Potter and the Prisoner of Azkaban DVD release date is announced for November 23, 2004.
 
 ### Potter Quote
 
-“I know what you are known as. But to me, I’m afraid, you will always be Tom Riddle. It is one of the irritating things about old teachers. I am afraid that they never quite forget their charges’ youthful beginnings.”
+“Fear of a name increases fear of the thing itself.”
 
 [](#)
 
