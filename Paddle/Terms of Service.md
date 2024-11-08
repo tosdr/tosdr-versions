@@ -188,24 +188,24 @@ United Kingdom
 **Paddle Payments Ltd.**
 ------------------------
 
-Limerick House,  
-Limerick Lane,  
-Newbridge, Kildare  
+The Academy  
+42 Pearse Street  
+Dublin, D02 YX88  
 Ireland
 
-**Paddle. com Inc**
--------------------
+**Paddle. com Inc.**
+--------------------
 
-3811 Ditmars Blvd,  
-#1071 Astoria,  
+3811 Ditmars Blvd  
+#1071 Astoria  
 New York, 11105-1803  
 USA  
 
-Last Updated 5 December 2023
+Last Updated: 8 November 2024
 
 ### Acceptance of Terms
 
-This Master Services Agreement, together with the Data Sharing Addendum which can be found at [paddle.com/legal/data-sharing-addendum](https://www.paddle.com/legal/data-sharing-addendum) (or such other URLs that may be provided from time to time) and any Order Form, where applicable (collectively, the “Agreement”) govern the services provided to you (**"Supplier"** or **"you"** ) by Paddle (as defined below)
+This Master Services Agreement, together with the Data Sharing Addendum which can be found at [paddle.com/legal/data-sharing-addendum](https://www.paddle.com/legal/data-sharing-addendum) (or such other URLs that may be provided from time to time) and any Order Form, where applicable (collectively, the “**Agreement**”) govern the services provided to you (**"Supplier"** or **"you"**) by Paddle (as defined below)
 
 By signing up for our services, or by downloading, installing or otherwise accessing or using the Services (as defined below), you agree that you have read, understand, and accept this Agreement, and you agree to be bound by the terms contained herein and all terms, policies and guidelines incorporated in the Agreement by reference (including the Privacy Policy which can be found at [https://paddle.com/privacy](https://paddle.com/privacy) (or such other URLs that Paddle may provide from time to time)).
 
@@ -218,77 +218,77 @@ If you do not agree to this Agreement, you do not have our permission to, and ma
 
 1.1 In these Terms of Use, the following terms have the meanings this Section 1.1 ascribes those terms:
 
-**“Acceptable Use Policy”**  means Paddle’s acceptable use policy set out in [https://paddle.com/support/aup/](https://paddle.com/support/aup/) (or such other URL that Paddle may provide from time to time);
+**“Acceptable Use Policy”** means Paddle’s acceptable use policy set out in [https://paddle.com/support/aup/](https://paddle.com/support/aup/) (or such other URL that Paddle may provide from time to time);
 
-**"Affiliate Entity"** means being any corporation, partnership, limited liability company or other form of legal entity, which directly or indirectly controls, is controlled by or is under joint control, from time to time.
+**"Affiliate Entity"** means being any corporation, partnership, limited liability company or other form of legal entity, which directly or indirectly controls, is controlled by or is under joint control, from time to time;
 
-**“Additional Services”**  means the services referred to in clause 5;
+**“Additional Services”** means the services referred to in clause 5;
 
-**“Buyers”**  means Checkout Buyers, Invoiced Businesses and Invoiced Consumers;
+**“Buyers”** means Checkout Buyers, Invoiced Businesses and Invoiced Consumers;
 
-**“Buyer Terms”**  means the Checkout Buyer Terms, Invoicing Consumer Terms and Invoicing Business Terms;
+**“Buyer Terms”** means the Checkout Buyer Terms, Invoicing Consumer Terms and Invoicing Business Terms;
 
 "**Card"** means any form of credit card, debit card or pre-paid card issued by an Issuer under a Card Scheme;
 
 **"Card Scheme"** means Visa Inc, MasterCard Worldwide, Cartes Bancaires, JCB, American Express, Union Pay International, Diners Club International/Discover Network or comparable bodies which provide Cards and regulate Card acceptance and includes alternative payment methods and schemes such as PayPal;
 
-"**Chargeback**" means a transaction which is successfully charged back or reversed, in whole or part on the request of a Checkout Buyer or a payment method provider pursuant to the relevant Payment Scheme Rules;
+"**Chargeback**" means a transaction which is successfully charged back or reversed, in whole or part on the request of a Checkout Buyer or a payment method provider pursuant to the relevant Payment Scheme Rules and may or may not incur a charge;
 
-**“Checkout Buyer”**  means an end customer who purchases the Product using the Paddle Checkout;
+**“Checkout Buyer”** means an end customer who purchases the Product using the Paddle Checkout;
 
 **“Checkout Buyer Terms”** means the terms set out in [paddle.com/legal/checkout-buyer-terms](https://paddle.com/legal/checkout-buyer-terms) (or such other URL that Paddle may provide from time to time) which apply to Checkout Buyers.
 
 **“Checkout Recovery”** means the Additional Service offered by Paddle through which Paddle emails a prospective Buyer if they have commenced but not completed the purchase of a Product;
 
-**"Confidential Information"**  means information, whether written or oral, in any form, including without limitation, information relating to the development, products, trade secrets, business plans, suppliers, customers, finances, personnel data, and other material or information considered proprietary by the disclosing party;
+**"Confidential Information"** means information, whether written or oral, in any form, including without limitation, information relating to the development, products, trade secrets, business plans, suppliers, customers, finances, personnel data, and other material or information considered proprietary by the disclosing party;
 
-**"Controller"** means a " controller" as that term is defined in the UK GDPR;
+**"Controller"** means a "controller" as that term is defined in the UK GDPR;
 
 **"Data Protection Legislation"** means all applicable data protection and privacy legislation in force from time to time in the UK including the General Data Protection Regulation ((EU) 2016/679); the Data Protection Act 2018; the Privacy and Electronic Communications Directive 2002/58/EC (as updated by Directive 2009/136/EC) and the Privacy and Electronic Communications Regulations 2003 (SI 2003 No. 2426) as amended UK General Data Protection Regulation 2016/679, as implemented by the Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 and the Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2020 (the "UK GDPR"), any other European Union legislation relating to personal data and all other legislation and regulatory requirements in force from time to time which apply to a party relating to the use of Personal Data (including, without limitation, the privacy of electronic communications); and the guidance and codes of practice issued by the relevant data protection or supervisory authority and applicable to a party, including the Information Commissioner's Data Sharing Code of Practice 2020;
 
-**“Data Sharing Addendum”** means Paddle’s data sharing terms, set out at [paddle.com/legal/data-sharing-addendum](https://www.paddle.com/legal/data-sharing-addendum)(or such other URL that Paddle may provide from time to time) that governs the sharing of personal data between Paddle and Supplier in accordance with the Data Protection Legislation.
+**“Data Sharing Addendum”** means Paddle’s data sharing terms, set out at [paddle.com/legal/data-sharing-addendum](https://www.paddle.com/legal/data-sharing-addendum)(or such other URL that Paddle may provide from time to time) that governs the sharing of personal data between Paddle and Supplier in accordance with the Data Protection Legislation;
 
 **"Intellectual Property Rights"** means patents, rights to inventions, copyright and neighbouring and related rights, moral rights, trade marks and service marks, business names and domain names, rights in get-up and trade dress, goodwill and the right to sue for passing off or unfair competition, rights in designs, rights in computer software, database rights, rights to use, and protect the confidentiality of, confidential information (including know-how and trade secrets), and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, renewals or extensions of, and rights to claim priority from, such rights and all similar or equivalent rights or forms of protection which subsist or will subsist now or in the future in any part of the world;
 
 **“Invoiced Business”** means an end customer who is purchasing the Product using Paddle Invoicing in connection with their trade, business, craft or profession;
 
-**“Invoiced Consumer”**  means an end customer who is purchasing the Product using Paddle Invoicing wholly or mainly for their personal use;
+**“Invoicing Business Terms”** means the terms set out in [paddle.com/legal/invoiced-business-terms](http://paddle.com/legal/invoiced-business-terms) (or such other URL that Paddle may provide from time to time) which apply to Invoiced Businesses;
 
-**“Invoicing Business Terms”** means the terms set out in [paddle.com/legal/invoiced-business-terms](http://paddle.com/legal/invoiced-business-terms) (or such other URL that Paddle may provide from time to time) which apply to Invoiced Businesses.
+**“Invoiced Consumer”** means an end customer who is purchasing the Product using Paddle Invoicing wholly or mainly for their personal use;
 
-**“Invoicing Consumer Terms**” means the terms set out in [paddle.com/legal/invoiced-consumer-terms](http://paddle.com/legal/invoiced-consumer-terms) (or such other URL that Paddle may provide from time to time) which apply to Invoiced Consumers.
+**“Invoicing Consumer Terms**” means the terms set out in [paddle.com/legal/invoiced-consumer-terms](http://paddle.com/legal/invoiced-consumer-terms) (or such other URL that Paddle may provide from time to time) which apply to Invoiced Consumers;
 
 "**Paddle"** means for sales to Buyers based in the United States: Paddle.com Inc.; and for sales to the rest of the world: Paddle Payments Limited (for Suppliers based in the United Kingdom for VAT purposes) or Paddle.com Market Limited (for all other Suppliers);
 
-**“Paddle Checkout”**  means the online checkout that Checkout Buyers use to purchase the Product, and includes payment methods such as credit card, PayPal, alternative payment methods and bank transfer;
+**“Paddle Checkout”** means the online checkout that Checkout Buyers use to purchase the Product, and includes payment methods such as credit card, PayPal, alternative payment methods and bank transfer;
 
-**"Paddle Discount"**  means the margin payable to Paddle for Services in respect of each resale of a Product made by Paddle;
+**"Paddle Discount"** means the margin payable to Paddle for Services in respect of each resale of a Product made by Paddle;
 
-**“Paddle Invoicing”**  means Paddle invoicing Invoiced Businesses and Invoiced Consumers for the Product and collecting payment in full, by bank transfer or other agreed payment method;
+**“Paddle Invoicing”** means Paddle invoicing Invoiced Businesses and Invoiced Consumers for the Product and collecting payment in full, by bank transfer or other agreed payment method;
 
 **“Payment Currency”** means the currency which you select for you Supplier Account, being USD, EUR, GBP, CAD or AUD;
 
 **"Payment Scheme Rules"** means the collective set of by-laws, rules, regulations, operating regulations, procedures and/or waivers issued by the Card Schemes, as amended and/or supplemented from time to time;
 
-**"Product"**  means the Supplier's software product(s) and/or digital content agreed to be resold and distributed, and any subsequent updates and upgrades thereto and includes any associated integration or implementation costs and / or service fees;
+**"Product"** means the Supplier's software product(s) and/or digital content agreed to be resold and distributed, and any subsequent updates and upgrades thereto and includes any associated integration or implementation costs and / or service fees;
 
-**“Sales Tax”**  means any indirect tax chargeable on the Product globally, including but not limited to VAT, GST, Sales Tax and Sales & Use Tax;
+**“Sales Tax”** means any tax or levy chargeable or withheld on the Transaction globally, including but not limited to VAT, GST, Sales Tax and Sales & Use Tax, Digital Service Tax or Levy, and Corporate Withholding Taxes;
 
-**"Services"**  means the services provided by Paddle as further described in Clause 3;
+**"Services"** means the services provided by Paddle as further described in clause 3;
 
-**“SRP”**  means the Supplier's recommended price for the Product;
+**“SRP”** means the price paid by the Buyer for the Product, as recommended by the Supplier in the Supplier Dashboard;
 
-**“Supplier Account”**  means the account you will set up on the Paddle platform in order to be able to use the Services;
+**“Supplier Account”** means the account you will set up on the Paddle platform in order to be able to use the Services;
 
-**“Supplier Dashboard”**  means the dashboard found at [vendors.paddle.com/](https://vendors.paddle.com/) (or such other URL that Paddle may provide from time to time) where you are able to access your Supplier Account, view confirmed sales, amend account settings and access all reports;
+**“Supplier Dashboard”** means the dashboard found at [vendors.paddle.com/](https://vendors.paddle.com/) (or such other URL that Paddle may provide from time to time) where you are able to access your Supplier Account, view confirmed sales, amend account settings and access all reports;
 
 **“Supplier Fee”** shall have the meaning set out in clause 4.1;
 
-**“Supplier URL(s)”** means the address of any websites and/or mobile applications owned and operated by the Supplier where the Product will be sold using the Services, the initial Supplier URL(s) being those which have been listed by the Supplier as part of its onboarding process with Paddle, together with any future Supplier URL(s) approved by Paddle, in each case as recorded in the Supplier Dashboard, from time to time.
+**“Supplier URL(s)”** means the address of any websites and/or mobile applications owned and operated by the Supplier where the Product will be sold using the Services, the initial Supplier URL(s) being those which have been listed by the Supplier as part of its onboarding process with Paddle, together with any future Supplier URL(s) approved by Paddle, in each case as recorded in the Supplier Dashboard, from time to time;
 
-**“Trademarks”**  means your trademarks, service marks, trade names and logotypes whether registered or otherwise;
+**“Trademarks”** means your trademarks, service marks, trade names and logotypes whether registered or otherwise;
 
-**“Transaction”** means a completed sale of the Product (excluding reversals, refunds and other Chargebacks) via Paddle Checkout or Paddle Invoicing. 
+**“Transaction”** means a completed sale of the Product (excluding reversals, refunds and other Chargebacks) via Paddle Checkout or Paddle Invoicing;
 
 **"Transaction Currency"** means the currency in which the Product is sold to the Buyers; and
 
@@ -319,7 +319,7 @@ If you do not agree to this Agreement, you do not have our permission to, and ma
 
 2.1 You appoint Paddle as your non-exclusive reseller of the Product across all territories and will ensure that Paddle’s status as reseller is reflected on your website in a form agreed with Paddle.
 
-2.2. You acknowledge and agree that as Paddle is the seller of the Product to the Buyer, you shall not issue any invoice or make any demand for payment to any Buyer in a Transaction.  If you agree with the Buyer to issue a refund or repay any of the SRP you will not make this payment directly to the Buyer but will inform Paddle of what you have agreed and Paddle will make the relevant refund.
+2.2. You acknowledge and agree that as Paddle is the seller of the Product to the Buyer, you shall not issue any invoice or make any demand for payment to any Buyer in a Transaction. If you agree with the Buyer to issue a refund or repay any of the SRP you will not make this payment directly to the Buyer but will inform Paddle of what you have agreed and Paddle will make the relevant refund.
 
 3\. Services
 ------------
@@ -330,7 +330,7 @@ If you do not agree to this Agreement, you do not have our permission to, and ma
 
 (ii) acting as your non-exclusive reseller of the Product via Paddle Checkout and/or Paddle Invoicing across all territories supported by Paddle from time to time during the term of the Agreement (for the avoidance of doubt nothing in this Agreement creates an obligation for Paddle to sell across all territories); and
 
-(iii) Facilitating product fulfilment by you to Buyers through connecting you to Buyers to enable such Buyer to download / access the Product, as applicable;  and
+(iii) Facilitating product fulfilment by you to Buyers through connecting you to Buyers to enable such Buyer to download / access the Product, as applicable; and
 
 (iv) Order support and being responsible for all aspects of Sales Tax as between you, Paddle and Buyers. 
 
@@ -341,7 +341,7 @@ If you do not agree to this Agreement, you do not have our permission to, and ma
 
 4.1 For each Transaction, Paddle shall pay the Supplier the SRP less:
 
-(i) any Sales Tax due;
+(i) any Sales Tax due or incurred;
 
 (ii) the Paddle Discount; and
 
@@ -402,15 +402,15 @@ Paddle is the reseller of the Product. This structure allows Paddle to handle al
 8\. Fees and Charges
 --------------------
 
-8.1 Paddle will report to you in the Payment Currency, however you will be able to access data on individual resales of Products in the currency used by the Buyer. If a sale requires currency conversion into the Payment Currency, Paddle will convert the amount at the mid-market rate provided by Open Exchange Rates at the time the payment is received from the Buyer plus a foreign exchange margin of 2% for major currencies (USD / EUR / GBP), 2.5% for CZK and DKK and 3% for all other currencies.
+8.1 Paddle will report to you in the Payment Currency, however you will be able to access data on individual resales of Products in the currency used by the Buyer. If a sale requires currency conversion into the Payment Currency, Paddle will convert the amount at the mid-market rate provided by Open Exchange Rates at the time the payment is received from the Buyer plus a foreign exchange margin of 2% for major currencies (USD / EUR / GBP), 2.5% for CZK, DKK, NOK and THB, and 3% for all other currencies.
 
-8.2 The number and value of confirmed sales will be provided to the Supplier via the Supplier Dashboard. Provided the Supplier Fee accrued during each month is above $100, €100 or £100 (or some higher amount as agreed between you and Paddle) Paddle shall pay the Supplier Fee to you on or before the 15th of the following month provided that you have provided Paddle with all relevant information required to process a payment to you. Paddle reserves the right to delegate the responsibility to make payment under this Agreement to an Affiliate Entity.
+8.2 The number and value of confirmed sales will be provided to the Supplier via the Supplier Dashboard. Provided the Supplier Fee accrued during each month is above $100, €100 or £100 (or some higher amount as agreed between you and Paddle) Paddle shall pay the Supplier Fee to you on or before the 15th of the following month provided that you have provided Paddle with all relevant information required to process a payment to you. Paddle reserves the right to delegate the responsibility for self billing arrangements and to make payment under this Agreement to an Affiliate Entity.
 
 8.3 If you are VAT registered in the European Union, you agree to inform Paddle if you stop being registered for VAT, get a new VAT registration number or transfer your business as a going concern.
 
 8.4 Where possible, Paddle will make international transfers through our local ACH network and there will be no charge to you for such transfers. We are not responsible for any charges associated with the making of transfers via international bank transfer or through PayPal. A charge of $15 will be payable by you for each international bank transfer (€15 if your Payment Currency is EUR or £15 if your Payment Currency is GBP). If you opt to receive payment in a currency different to the Payment Currency, then we reserve the right to charge a conversion margin of up to 1.5%. We will go to all reasonable efforts to ensure no additional fees are charged, but are not responsible for any charges that do occur.
 
-8.5 If Paddle is required to refund a Buyer (including through Chargebacks), Paddle is entitled to receive from you the amount of the refund or Chargeback as well as any charges and fees incurred by Paddle as a result, up to 20 GBP, USD or EUR depending on the Transaction Currency (if the Transaction Currency is any other currency, this will be based on the Payment Currency). Paddle reserves the right to suspend all Services until the deficit is paid by you.
+8.5 If Paddle refunds a Buyer (including, but not limited to, through a Chargeback), Paddle is entitled to receive from you the amount of the refund or Chargeback (including charges and fees) up to either 20 GBP, USD or EUR, or 40 AUD or CAD depending on the Transaction Currency (if the Transaction Currency is any other currency, this will be based on the Payment Currency). Paddle reserves the right to suspend all Services until the deficit is paid by you.
 
 8.6 Where any credit is due to an Invoiced Business or Invoiced Consumer due to service level or similar failures in the provision of the Product by you, no credit will be given to you for any previously applied Paddle Discount and the Paddle Discount will be applied to the gross amount of any amounts invoiced prior to deduction of any service level or similar credit.
 
@@ -431,20 +431,22 @@ Paddle is the reseller of the Product. This structure allows Paddle to handle al
 
 9.2 You agree that we may exercise the right of set-off in clause 9.1 at any time, without further notice to you whether your liability is present or future, liquidated or unliquidated, actual or contingent. If the liability to be set off is expressed in different currencies, we may convert such liability at a market rate of exchange for the purpose of set-off. In the event such set-off does not fully reimburse us for the liability owed, you shall immediately pay us a sum equal to any shortfall.
 
-9.3 If there are insufficient funds, in Paddle’s sole discretion at any time to cover potential refunds, chargebacks, charges against the Supplier Account or other liabilities you may owe to us ("**Liabilities**"), you agree to either put Paddle in sufficient funds or agree that we may exercise the right of set-off in clause 9.1 at any time without notice to the Supplier whether such liability is present or future, liquidated or unliquidated, actual or contingent. If the liability to be set off is expressed in different currencies, we may convert such liability at a market rate of exchange for the purpose of set-off. In the event such set-off does not fully reimburse us for the liability owed, the Supplier shall immediately pay us a sum equal to any shortfall.
+9.3 If there are insufficient funds, in Paddle’s sole discretion at any time to cover potential refunds, Chargebacks, charges against the Supplier Account or other liabilities you may owe to us ("**Liabilities**"), you agree to either put Paddle in sufficient funds or agree that we may exercise the right of set-off in clause 9.1 at any time without notice to the Supplier whether such liability is present or future, liquidated or unliquidated, actual or contingent. If the liability to be set off is expressed in different currencies, we may convert such liability at a market rate of exchange for the purpose of set-off. In the event such set-off does not fully reimburse us for the liability owed, the Supplier shall immediately pay us a sum equal to any shortfall.
 
 9.4 For the avoidance of doubt, Paddle is not obliged to pay any Supplier Fees associated with activities or Products which it considers in its sole discretion to be fraudulent or illegal under any relevant law or regulation. We may suspend your Supplier Account and retain any Supplier Fees, or terminate this Agreement, if
 
-(i) we determine in our sole discretion that you are ineligible for the Services because of significant fraud risk, or any other risk of illegal activity associated with your Supplier Account; 
+(i) we determine in our sole discretion that you are ineligible for the Services because of significant fraud risk, or any other risk of illegal activity associated with your Supplier Account;
 
-(ii) any Law or Payment Scheme Rules requires us to do so; or 
+(ii) we determine in our sole discretion that you have intentionally or wilfully taken any action which directly defrauds a Buyer;
 
-(iii) we are otherwise entitled to do so under this Agreement.
+(iii) any Law or Payment Scheme Rules requires us to do so; or 
+
+(iv) we are otherwise entitled to do so under this Agreement.
 
 10\. Supplier Obligations
 -------------------------
 
-10.1 The Supplier warrants that, before entering into this Agreement and thereafter on our request, provide information about itself and its business which may include information about its financial status and creditworthiness, its activities, its shareholders (and ultimate beneficial owners), the Products and Supplier URLs, as we or our third party KYC verification partners request from time to time (the "**Supplier Information** "). The Supplier represents and warrants unconditionally that all Supplier Information it provides to us is correct and up to date and undertakes to provide us with at least five (5) Business Days' prior written notice of any material change to any of the Supplier Information.
+10.1 The Supplier warrants that, before entering into this Agreement and thereafter on our request, provide information about itself and its business which may include information about its financial status and creditworthiness, its activities, its shareholders (and ultimate beneficial owners), the Products and Supplier URLs, as we or our third party KYC verification partners request from time to time (the "**Supplier Information**"). The Supplier represents and warrants unconditionally that all Supplier Information it provides to us is correct and up to date and undertakes to provide us with at least five (5) Business Days' prior written notice of any material change to any of the Supplier Information.
 
 10.2 If the Supplier fails to provide the Supplier Information requested in accordance with clause 10.1, we reserve the right to suspend the provision of our Services until such Supplier Information is provided.
 
@@ -459,7 +461,7 @@ Paddle is the reseller of the Product. This structure allows Paddle to handle al
 
 (i) the information you have provided on the Supplier Dashboard is accurate and up to date;
 
-(ii) the information you have provided in respect of the Product or type or category of Product is correct and up to date.
+(ii) the information you have provided in respect of the Product or type or category of Product is correct and up to date;
 
 (iii) you are the owner of each Product or that you are legally authorised to act on behalf of the owner of such Product for the purposes of the Agreement;
 
@@ -473,13 +475,17 @@ Paddle is the reseller of the Product. This structure allows Paddle to handle al
 
 (viii) you have the necessary right, power and authority to enter into this Agreement and to perform the acts required of you hereunder and to permit Paddle to perform the Services contemplated under the Agreement;
 
-(ix) there is no action, suit or proceeding at law or in equity now pending or, to your knowledge, threatened by or against or affecting you which would substantially impair your right to carry on your business as contemplated herein or adversely affect your financial condition or operations
+(ix) there is no action, suit or proceeding at law or in equity now pending or, to your knowledge, threatened by or against or affecting you which would substantially impair your right to carry on your business as contemplated herein or adversely affect your financial condition or operations;
 
 (x) your use of the Services and the delivery and performance by you of your obligations under the Agreement do not and will not conflict with or violate any agreement or other instrument with a third party applicable to you or otherwise infringe upon the rights of any third party (including Intellectual Property Rights);
 
-(xi) you have complied and will continue to comply with all applicable laws, statutes, ordinances, and regulations (including, without limitation, any relevant data protection or privacy laws); and
+(xi) you have complied and will continue to comply with all applicable laws, statutes, ordinances, and regulations (including, without limitation, any relevant data protection or privacy laws);
 
-(xii) you will at all times comply with all applicable Paddle policies and the Data Sharing Addendum.
+(xii) you will not use the Services or any part thereof, including for the avoidance of doubt the Paddle Checkout, to conceal information required under applicable law from, or otherwise mislead, a Buyer;
+
+(xiii) you will not reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code (if applicable) for any aspect of the Services or the Paddle Checkout; and
+
+(xiv) you will at all times comply with all applicable Paddle policies and the Data Sharing Addendum.
 
 11.2 You agree to indemnify, defend and hold harmless Paddle, its employees, officers and directors, or users from and against any and all claims, liabilities, penalties, settlements, judgments, fees (including reasonable legal fees) arising from or in relation to:
 
@@ -505,13 +511,13 @@ Paddle is the reseller of the Product. This structure allows Paddle to handle al
 13\. Confidentiality
 --------------------
 
-13.1 The parties acknowledge that they may share Confidential Information for the purposes of this Agreement. The receiving party shall not use, disclose, or otherwise take any advantage of such Confidential Information, except as expressly permitted in the Agreement.       
+13.1 The parties acknowledge that they may share Confidential Information for the purposes of this Agreement. The receiving party shall not use, disclose, or otherwise take any advantage of such Confidential Information, except as expressly permitted in the Agreement.
 
 13.2 Each party shall exercise the same degree of care to avoid the publication or dissemination of the other party's Confidential Information as it affords to its own Confidential Information of a similar nature which it desires not to be published or disseminated, which in any event shall not be less than reasonable care.
 
 13.3 Confidential Information disclosed under the Agreement shall only be used by the receiving party for the purpose of the Agreement or the performance of its obligations hereunder. The receiving party agrees not to use the disclosing party’s Confidential Information for its own benefit or for the benefit of any third party.
 
-13.4 The obligation of the parties not to disclose confidential information shall survive the termination or expiry of the Agreement.       
+13.4 The obligation of the parties not to disclose confidential information shall survive the termination or expiry of the Agreement.
 
 13.5 Notwithstanding the foregoing, neither party shall be obliged to protect Confidential Information of the other party which:
 
@@ -535,7 +541,7 @@ Paddle is the reseller of the Product. This structure allows Paddle to handle al
 15\. Dormant accounts
 ---------------------
 
-Where you have no sales for a period of six (6) consecutive months (the  **“Dormancy Period”**) and there is an outstanding Supplier Fee due to you, Paddle reserves the right to charge you an account dormancy charge ("**Dormancy Charge"**) and/or deactivate your Supplier Account. Dormant Supplier Accounts with a negative balance and no sales activity in the preceding 15 days will be deactivated immediately.
+Where you have no sales for a period of six (6) consecutive months (the **“Dormancy Period”**) and there is an outstanding Supplier Fee due to you, Paddle reserves the right to charge you an account dormancy charge ("**Dormancy Charge"**) and/or deactivate your Supplier Account. Dormant Supplier Accounts with a negative balance and no sales activity in the preceding fifteen (15) days will be deactivated immediately. Following a Dormancy Period, Paddle may revoke access to the Supplier Account without notice to you.
 
 16\. Termination
 ----------------
@@ -544,7 +550,7 @@ Where you have no sales for a period of six (6) consecutive months (the  **“D
 
 16.2 Either party may terminate this Agreement by immediate notice in writing to the other if:
 
-(i) the other commits a material breach of its obligations under the Agreement and such breach is not remediable;
+(i) the other commits a material breach of its obligations under the Agreement, including for the avoidance of doubt compliance with the Acceptable Use Policy, and such breach is not remediable;
 
 (ii) the other commits a material breach of its obligation under the Agreement which is not remedied within 14 days of receiving written notice of such breach;
 
@@ -554,22 +560,24 @@ Where you have no sales for a period of six (6) consecutive months (the  **“D
 
 16.3 Paddle may terminate this Agreement by immediate notice in writing to you if:
 
-(i) it is required to do so by any of its payment method providers;
+(i) it is requested by any of its payment method providers;
 
 (ii) there is any suspected fraudulent/ criminal activity or non compliance by the Supplier of applicable laws or Payment Scheme Rules;
 
-(iii) where the Product has a chargeback rate which is in excess of the upper limit set by the Card Schemes from time to time.
+(iii) where the Product has a chargeback rate which is in excess of the upper limit set by the Card Schemes from time to time; or
+
+(iv) where Supplier commits a material breach of the Acceptable Use Policy.
 
 16.4 Termination or expiry of this Agreement shall not affect any accrued rights and liabilities of either party at any time up to the date of termination.
 
 17\. Rights and Obligations on Termination or Expiration
 --------------------------------------------------------
 
-17.1 Termination or expiration of this Agreement shall not release either party from the obligation to make payment of all amounts then or thereafter due and payable.
+17.1 Termination or expiration of this Agreement shall not release either party from the obligation to make payment of all amounts then or thereafter due and payable. For the avoidance of doubt, Paddle may retain any Supplier Fees as it reasonably determines necessary to settle any outstanding liabilities under this Agreement.
 
 17.2 Upon termination or expiration of the Agreement, Paddle will within thirty (30) days return to you or destroy (i) all access details to the Product; (ii) all manuals, documentation, product literature, fee schedules and other written materials provided by you; or (iii) all Confidential Information and other property of you, provided that such materials or information are in its possession or under its control, unless required to retain the data to comply with or demonstrate compliance with a legal obligation.
 
-17.3 Paddle may terminate the Buyer Terms with any Buyer in respect of any Product which has an active subscription in the event of termination of this Agreement, and shall refund the Buyer the pro-rated purchase price. This Agreement shall continue in respect of any Product which a Buyer has purchased prior to the date of termination or expiry and which Paddle chooses not to terminate.
+17.3 Upon termination of the Agreement Paddle shall, upon request by the Supplier, assign all contracts for the sale of the Product with the Buyer to you, in accordance with the Buyer Terms. In the event that Paddle is unable to assign the Buyer Terms to you by operation of applicable law or due to the circumstances in clauses 16.2(iii), 16.2(iv) or 16.3, Paddle may terminate the Buyer Terms with any Buyer in respect of any Product which has an active subscription and shall refund the Buyer the pro-rated purchase price. This Agreement shall continue in respect of any Product which a Buyer has purchased prior to the date of termination or expiry and which Paddle chooses not to terminate.
 
 18\. General
 ------------
