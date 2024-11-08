@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent)
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&amount=50 "Donate")
 
 [![Project Hope Logo](/wp-content/themes/projecthope/assets/images/logo.svg)](https://www.projecthope.org/)
 
@@ -57,7 +57,7 @@
         * [Fundraising](https://www.projecthope.org/take-action/fundraising/)
         * [Volunteer](https://www.projecthope.org/take-action/volunteer/)
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&amount=50 "Donate")
 
 * Who we are
     * [About Us](https://www.projecthope.org/about/)
@@ -143,7 +143,7 @@ Search for:
 * [Careers](https://www.projecthope.org/careers/)
 * [Ways to Give](https://www.projecthope.org/ways-to-give/)
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&amount=50 "Donate")
 
 Privacy Policy
 ==============
