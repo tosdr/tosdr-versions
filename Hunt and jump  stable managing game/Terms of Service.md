@@ -143,6 +143,12 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+11/8/2024 2:06 AM EST
+
+### Just one week until the gift exchange opens for sign-ups!
+
+[Check out our new GE user guide.](https://alt.wiki.huntandjump.com/doku.php?id=all_gift_exchange)
+
 11/1/2024 9:30 AM EST
 
 [SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
@@ -174,10 +180,6 @@ Our gift exchange is one of the most fun times of the year, but you must have pa
 10/22/2024 2:16 AM EST
 
 ### The university is now accepting golden tokens in exchange for synthesized gametes from deceased horses.
-
-10/21/2024 5:28 AM EST
-
-### Cloning of deceased horses can now be done using golden tokens
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
