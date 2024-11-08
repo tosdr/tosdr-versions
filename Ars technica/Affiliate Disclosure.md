@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [Trump’s 60% tariffs could push China to hobble tech industry growth](https://arstechnica.com/tech-policy/2024/11/tech-industry-fears-china-will-retaliate-against-trumps-60-tariffs/)
     
-3. 3. [Trump’s election win spells bad news for the auto industry](https://arstechnica.com/cars/2024/11/ev-subsidies-out-new-import-tariffs-in-how-trumps-win-affects-autos/)
+3. 3. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
     
-4. 4. [NRO chief: “You can’t hide” from our new swarm of SpaceX-built spy satellites](https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/)
+4. 4. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
     
-5. 5. [The next Starship launch may occur in less than two weeks](https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/)
+5. 5. [Trump’s election win spells bad news for the auto industry](https://arstechnica.com/cars/2024/11/ev-subsidies-out-new-import-tariffs-in-how-trumps-win-affects-autos/)
     
 
 Customize
