@@ -1252,16 +1252,3 @@ Zwischensumme des Warenkorbs
 [Warenkorb anzeigen ()](https://talk-point.de/cart)
 
 Kasse
-
-Produkte vergleichen
---------------------
-
-{"one"=>"Wählen Sie 2 oder 3 Artikel zum Vergleichen aus", "other"=>"{{ count }} von 3 Elementen ausgewählt"}
-
-Wählen Sie das erste zu vergleichende Element aus
-
-Wählen Sie das zweite zu vergleichende Element aus
-
-Wählen Sie das dritte Element zum Vergleichen aus
-
-[Vergleichen](https://talk-point.de/) Alles löschen
