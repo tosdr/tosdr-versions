@@ -266,30 +266,14 @@ Most Popular
 [Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1648706/derry-death-notices-thursday-november-7-2024.html)
+[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
 
-[Derry Death Notices - Thursday, November 7, 2024](https://www.derrynow.com/news/deaths/1648706/derry-death-notices-thursday-november-7-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Woman appears at Derry Magistrate's Court facing series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrate's Court facing series of charges")](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman appears at Derry Magistrate's Court facing series of charges](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![The man appeared before Letterkenny Circuit Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The man appeared before Letterkenny Circuit Court")](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
-
-The man appeared before Letterkenny Circuit Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man pleads guilty to causing death of young father in Bridgend collision](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ryan Sheerin (10B) and Ben Farren (12D)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryan Sheerin (10B) and Ben Farren (12D)")](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
 
@@ -300,6 +284,15 @@ Ryan Sheerin (10B) and Ben Farren (12D)
 [Derry students crowned Ulster Irish Dancing Champions](https://www.derrynow.com/news/derry-news/1649892/derry-students-crowned-ulster-irish-dancing-champions.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Woman appears at Derry Magistrate's Court facing series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrate's Court facing series of charges")](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman appears at Derry Magistrate's Court facing series of charges](https://www.derrynow.com/news/local-news/1649835/woman-appears-at-derry-magistrate-s-court-facing-series-of-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 
 Principal of Lisneal College, Michael Allen on the right
@@ -309,6 +302,15 @@ Principal of Lisneal College, Michael Allen on the right
 [Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![The man appeared before Letterkenny Circuit Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The man appeared before Letterkenny Circuit Court")](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
+
+The man appeared before Letterkenny Circuit Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man pleads guilty to causing death of young father in Bridgend collision](https://www.derrynow.com/news/local-news/1650011/derry-man-pleads-guilty-to-causing-death-of-young-father-in-bridgend-collision.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry")](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
 
 The man was arrested in Coleraine on Tuesday.
@@ -317,15 +319,6 @@ The man was arrested in Coleraine on Tuesday.
 
 [Man to face charges of common assault, witness intimidation and stalking following arrest in Co Derry](https://www.derrynow.com/news/home/1649669/man-to-face-charges-of-common-assault-witness-intimidation-and-stalking-following-arrest-in-co-derry.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
-
-Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final")](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
 
@@ -342,6 +335,15 @@ An image of the plans for the new UU Dome.
 
 [Multi-million euro funding secured for new 'indoor dome' in Derry](https://www.derrynow.com/news/local-news/1649652/multi-million-euro-funding-secured-for-new-indoor-dome-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Eagerly awaited Kneecap concert given the go-ahead by Derry councillors](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eagerly awaited Kneecap concert given the go-ahead by Derry councillors")](https://www.derrynow.com/news/local-news/1649872/eagerly-awaited-kneecap-concert-given-the-go-ahead-by-derry-councillors.html)
+
+Kneecap will play Templemore Sports Complex later this month
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Eagerly awaited Kneecap concert given the go-ahead by Derry councillors](https://www.derrynow.com/news/local-news/1649872/eagerly-awaited-kneecap-concert-given-the-go-ahead-by-derry-councillors.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,6 +523,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, November 8, 2024](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 
 Principal of Lisneal College, Michael Allen on the right
@@ -530,7 +539,7 @@ Principal of Lisneal College, Michael Allen on the right
 [Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry woman goes from scientist to hotelier following £2.8M investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
+[![County Derry woman goes from scientist to hotelier following £2.8M investment](https://www.derrynow.com/resizer/165/93/true/2024_11_07/2_Elephant_Rock_Boutique_Hotel-1730993557706_1730993861.jpg--.jpg?1730993861099 "County Derry woman goes from scientist to hotelier following £2.8M investment")](https://www.derrynow.com/news/home/1650152/county-derry-woman-goes-from-scientist-to-hotelier-following-2-8m-investment.html)
 
 Managing Director of Elephant Rock Boutique Hotel, Charlotte Dixon, is celebrating after taking home three Irish Hotel Awards.
 
@@ -564,15 +573,6 @@ Lisnagelvin police station
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
 [Planning application for telecommunications mast in Lisnagelvin area rejected](https://www.derrynow.com/news/derry-news/1650133/planning-application-for-telecommunications-mast-in-lisnagelvin-area-rejected.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Good news for Derry City fans - A5 road closure averted ahead of FAI Cup Final](https://www.derrynow.com/resizer/165/93/true/2024_11_07/_129728943_screenshot2023-05-14195059-1730997884185.png--.png?1730997884306 "Good news for Derry City fans - A5 road closure averted ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1650247/good-news-for-derry-city-fans-a5-road-closure-averted-ahead-of-fai-cup-final.html)
-
-A5
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Good news for Derry City fans - A5 road closure averted ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1650247/good-news-for-derry-city-fans-a5-road-closure-averted-ahead-of-fai-cup-final.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
