@@ -2,7 +2,7 @@
 
 Pause slideshow Play slideshow
 
-[CALL TO SPEAK WITH A PRODUCT SPECIALIST1-888-404-1724](tel:18884041724)
+[Black Friday Deals Have Started. Get Your Free Gift With Purchase >](https://www.perfectsleepchair.com/collections/black-friday-deals)
 
 icon-X Close menu
 
