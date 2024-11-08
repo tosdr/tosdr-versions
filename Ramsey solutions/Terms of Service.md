@@ -293,6 +293,268 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
 
+* [Topics](https://www.ramseysolutions.com/topics?snid=topics) Toggle Topics Submenu
+    
+    * **Topics**
+        
+    * [Debt](https://www.ramseysolutions.com/debt/debt-101?snid=topics.topics.debt)
+    * [Retirement](https://www.ramseysolutions.com/retirement/smartvestor?snid=topics.topics.retirement)
+    * [Budgeting](https://www.ramseysolutions.com/ramseyplus/everydollar?snid=topics.topics.budgeting)
+    
+    * [Real Estate](https://www.ramseysolutions.com/real-estate/resources?snid=topics.topics.real-estate)
+    * [Insurance](https://www.ramseysolutions.com/insurance/insurance-coverage?snid=topics.topics.insurance)
+    * [Taxes](https://www.ramseysolutions.com/taxes/tax-services?snid=topics.topics.taxes)
+    
+    * [Personal Growth](https://www.ramseysolutions.com/personal-growth?snid=topics.topics.personal-growth)
+    * [Career](https://www.ramseysolutions.com/career-advice?snid=topics.topics.career)
+    
+    * * *
+    
+    * [See All Topics](https://www.ramseysolutions.com/topics?snid=topics.see-all-topics)
+    
+* [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
+    
+    * **Pay Off Debt and Build Wealth**
+        
+    * [_Financial Peace University_](https://www.ramseysolutions.com/ramseyplus/financial-peace?snid=products.pay-off-debt-and-build-wealth.financial-peace-university)
+    * [Start FPU](https://www.ramseysolutions.com/ramseyplus/financial-peace/whats-included?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.start-fpu)
+    * [Coordinate a Class](https://www.ramseysolutions.com/ramseyplus/coordinator?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.coordinate-a-class)
+    * [Join a Class](https://www.ramseysolutions.com/ramseyplus/financial-peace/class?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.join-a-class)
+    * [FPU for Churches](https://www.ramseysolutions.com/ramseyplus/organization?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.fpu-for-churches)
+    
+    * [Ramsey+](https://www.ramseysolutions.com/ramseyplus?snid=products.pay-off-debt-and-build-wealth.ramsey+)
+    * [EveryDollar Budget App](https://www.ramseysolutions.com/ramseyplus/everydollar?snid=products.pay-off-debt-and-build-wealth.ramsey+.everydollar-budget-app)
+    * [The 7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps?snid=products.pay-off-debt-and-build-wealth.ramsey+.the-7-baby-steps)
+    
+    * [Ramsey Education for Schools](https://www.ramseysolutions.com/education?snid=products.pay-off-debt-and-build-wealth.ramsey-education-for-schools)
+    * [Financial Coach Master Training](https://www.ramseysolutions.com/business/coaching/financial-coach-training?snid=products.pay-off-debt-and-build-wealth.financial-coach-master-training)
+    * [Talk to a Coach](https://www.ramseysolutions.com/ramseyplus/financial-coaching?snid=products.pay-off-debt-and-build-wealth.talk-to-a-coach)
+    
+    * **Lead Your Business**
+        
+    * [EntreLeadership Elite](https://www.ramseysolutions.com/business/entreleadership/elite?snid=products.lead-your-business.entreleadership-elite)
+    * [Advisory Groups](https://www.ramseysolutions.com/business/entreleadership/elite-coaching/advisory-groups?snid=products.lead-your-business.entreleadership-elite.advisory-groups)
+    * [Executive Coaching](https://www.ramseysolutions.com/business/entreleadership/elite-coaching/executive-coaching?snid=products.lead-your-business.entreleadership-elite.executive-coaching)
+    * [SmartDollar Financial Wellness](https://www.ramseysolutions.com/corporate-wellness/smartdollar?snid=products.lead-your-business.smartdollar-financial-wellness)
+    
+    * * *
+    
+    * [See All Products](https://www.ramseysolutions.com/guided-plans?snid=products.see-all-products)
+    
+* [Shows](https://www.ramseysolutions.com/shows?snid=shows) Toggle Shows Submenu
+    
+    * **Shows**
+        
+    * [The Ramsey Show](https://www.ramseysolutions.com/shows/the-ramsey-show?snid=shows.shows.the-ramsey-show)
+    * [Listen or Watch Now](https://www.ramseysolutions.com/shows/the-ramsey-show?snid=shows.shows.the-ramsey-show.listen-or-watch-now#live-players)
+    * [Latest Shows](https://www.ramseysolutions.com/shows/the-ramsey-show?snid=shows.shows.the-ramsey-show.latest-shows#recent-episodes)
+    * [Be a Part of the Show](https://www.ramseysolutions.com/shows/the-ramsey-show?snid=shows.shows.the-ramsey-show.be-a-part-of-the-show#part-of-the-show)
+    * [Advertising and Syndication](https://www.ramseysolutions.com/sponsorships/ramsey-network?snid=shows.shows.the-ramsey-show.advertising-and-syndication)
+    
+    * [The EntreLeadership Podcast](https://www.ramseysolutions.com/shows/the-entreleadership-podcast?snid=shows.shows.the-entreleadership-podcast)
+    * [The Rachel Cruze Show](https://www.ramseysolutions.com/shows/the-rachel-cruze-show?snid=shows.shows.the-rachel-cruze-show)
+    * [The Ken Coleman Show](https://www.ramseysolutions.com/shows/the-ken-coleman-show?snid=shows.shows.the-ken-coleman-show)
+    * [The Dr. John Delony Show](https://www.ramseysolutions.com/shows/the-dr-john-delony-show?snid=shows.shows.the-dr-john-delony-show)
+    * [The Fine Print](https://www.ramseysolutions.com/shows/the-fine-print?snid=shows.shows.the-fine-print)
+    
+    * [Smart Money Happy Hour](https://www.ramseysolutions.com/shows/smart-money-happy-hour?snid=shows.shows.smart-money-happy-hour)
+    * [George Kamel](https://www.ramseysolutions.com/shows/george-kamel?snid=shows.shows.george-kamel)
+    * [Real Estate the Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way?snid=shows.shows.real-estate-the-ramsey-way)
+    
+    * * *
+    
+    * [See All Shows](https://www.ramseysolutions.com/shows?snid=shows-and-events.see-all-shows)
+    
+    * [Get the Ramsey Network App](https://www.ramseysolutions.com/shows/app?snid=shows-and-events.get-the-ramsey-network-app)
+    
+* [Events](https://www.ramseysolutions.com/events?snid=events) Toggle Events Submenu
+    
+    * **Events and Conferences**
+        
+    * [Money & Relationships Tour](https://www.ramseysolutions.com/events/the-money-and-relationships-tour?snid=events.events-and-conferences.the-money-and-relationships-tour)
+    * [Money & Marriage Getaway](https://www.ramseysolutions.com/events/money-and-marriage-getaway-valentines?snid=events.events-and-conferences.money-and-marriage-getaway-valentines)
+    * [Live Like No One Else Cruise](https://www.ramseysolutions.com/events/live-like-no-one-else-cruise?snid=events.events-and-conferences.live-like-no-one-else-cruise)
+    
+    * [EntreLeadership Summit](https://www.ramseysolutions.com/shows/summit?snid=events.events-and-conferences.entreleadership-summit)
+    * [EntreLeadership Master Series](https://www.ramseysolutions.com/shows/ems-livestream?snid=events.events-and-conferences.entreleadership-master-series)
+    
+    * [Real Estate Reality Check](https://www.ramseysolutions.com/real-estate/reality-of-housing-market?snid=events.events-and-conferences.real-estate-reality-check)
+    * [Student Loan Debt in America](https://www.ramseysolutions.com/debt/student-loan-debt-hub?snid=events.events-and-conferences.student-loan-debt-in-america)
+    
+    * * *
+    
+    * [See All Events and Conferences](https://www.ramseysolutions.com/events?snid=events.see-all-events-and-conferences)
+    
+* [Experts](https://www.ramseysolutions.com/personalities?snid=experts) Toggle Experts Submenu
+    
+    * **Ramsey Experts**
+        
+    * [Dave Ramsey](https://www.ramseysolutions.com/dave-ramsey?snid=personalities.ramsey-personalities.dave-ramsey)
+    * [Rachel Cruze](https://www.ramseysolutions.com/rachel-cruze?snid=personalities.ramsey-personalities.rachel-cruze)
+    
+    * [Ken Coleman](https://www.ramseysolutions.com/ken-coleman?snid=personalities.ramsey-personalities.ken-coleman)
+    * [Dr. John Delony](https://www.ramseysolutions.com/john-delony?snid=personalities.ramsey-personalities.dr-john-delony)
+    
+    * [George Kamel](https://www.ramseysolutions.com/george-kamel?snid=personalities.ramsey-personalities.george-kamel)
+    * [Jade Warshaw](https://www.ramseysolutions.com/jade-warshaw?snid=personalities.ramsey-personalities.jade-warshaw)
+    
+    * * *
+    
+    * [See All Experts](https://www.ramseysolutions.com/personalities?snid=experts.see-all-experts)
+    
+* [Trusted Services](https://www.ramseysolutions.com/trusted?snid=trusted-services) Toggle Trusted Services Submenu
+    
+    * **Home Buying and Selling**
+        
+    * [Real Estate Agents](https://www.ramseysolutions.com/real-estate/residential-real-estate?snid=trusted-services.home-buying-and-selling.real-estate-agents)
+    * [Mortgage](https://www.ramseysolutions.com/real-estate/mortgage-loans?snid=trusted-services.home-buying-and-selling.mortgage)
+    * [I’m an Agent](https://www.ramseysolutions.com/real-estate/real-estate-pro?snid=trusted-services.home-buying-and-selling.i-am-an-agent)
+    * **Retirement and Investing**
+        
+    * [SmartVestor Pros](https://www.ramseysolutions.com/retirement/smartvestor?snid=trusted-services.retirement-and-investing.smartvestor-pros)
+    
+    * **Insurance and Protection**
+        
+    * [Home and Car Insurance Agents](https://www.ramseysolutions.com/insurance/home-and-auto-insurance?snid=trusted-services.insurance-and-protection.home-car-insurance-agents)
+    * [Term Life Insurance](https://www.ramseysolutions.com/insurance/term-life-insurance?snid=trusted-services.insurance-and-protection.term-life-insurance)
+    * [Disability Insurance With Zander](https://www.zanderins.com/disability-insurance/instant-quotes?snid=trusted-services.insurance-and-protection.disability-insurance-with-zander)
+    * [ID Theft Protection](https://www.ramseysolutions.com/insurance/id-theft-protection?snid=trusted-services.insurance-and-protection.id-theft-protection)
+    * [Will and Power of Attorney](https://www.ramseysolutions.com/retirement/will?snid=trusted-services.insurance-and-protection.will-and-power-of-attorney)
+    
+    * **Taxes**
+        
+    * [Tax Services](https://www.ramseysolutions.com/taxes/tax-services?snid=trusted-services.taxes.tax-services)
+    * [Tax Advisor](https://www.ramseysolutions.com/taxes/tax-advisor?snid=trusted-services.taxes.tax-services.tax-advisor)
+    * [Ramsey SmartTax](https://www.ramseysolutions.com/taxes/smarttax?snid=trusted-services.taxes.tax-services.ramsey-smarttax)
+    
+    * **Be a Recommended Pro**
+        
+    * [RamseyTrusted®](https://www.ramseysolutions.com/trusted/become?snid=trusted-services.be-a-recommended-pro.ramseytrusted)
+    * [SmartVestor](https://www.ramseysolutions.com/retirement/investing-pro?snid=trusted-services.be-a-recommended-pro.smartvestor)
+    
+    * * *
+    
+    * [Find a RamseyTrusted® Pro](https://www.ramseysolutions.com/trusted?snid=ramsey-recommends.find-a-ramseytrusted-pro)
+    
+* [Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools) Toggle Free Tools Submenu
+    
+    * **Getting Started**
+        
+    * [Get Started Assessment](https://www.ramseysolutions.com/get-started?snid=free-tools.getting-started.get-started-assessment)
+    * [Ramsey’s 7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps?snid=free-tools.getting-started.ramsey-7-baby-steps)
+    * [Ramsey Newsletter](https://www.ramseysolutions.com/newsletter?snid=free-tools.get-started.newsletter)
+    * **Budgeting**
+        
+    * [EveryDollar Budget App](https://www.ramseysolutions.com/ramseyplus/everydollar?snid=free-tools.budgeting.everydollar-budget-app)
+    * [EveryDollar Guide to Budgeting](https://www.ramseysolutions.com/budgeting/guide-to-budgeting?snid=free-tools.budgeting.everydollar-guide-to-budgeting)
+    * [Budgeting Forms](https://www.ramseysolutions.com/budgeting/useful-forms?snid=free-tools.budgeting.budgeting-forms)
+    * [Budget Calculator](https://www.ramseysolutions.com/budgeting/budget-calculator?snid=free-tools.budgeting.budget-calculator)
+    * **Saving**
+        
+    * [14-Day Money Finder](https://www.ramseysolutions.com/saving/moneyfinder?snid=free-tools.saving.14-day-money-finder)
+    * [College Savings Calculator](https://www.ramseysolutions.com/saving/college-savings-calculator?snid=free-tools.college.college-savings-calculator)
+    
+    * **Debt**
+        
+    * [Debt Snowball Calculator](https://www.ramseysolutions.com/debt/debt-calculator?snid=free-tools.debt.debt-snowball-calculator)
+    * [Student Loan Payoff Calculator](https://www.ramseysolutions.com/debt/student-loan-payoff-calculator?snid=free-tools.debt.student-loan-payoff-calculator)
+    * **Retirement**
+        
+    * [Retirement Calculator](https://www.ramseysolutions.com/retirement/retirement-calculator?snid=free-tools.retirement.retirement-calculator)
+    * [Investment Calculator](https://www.ramseysolutions.com/retirement/investment-calculator?snid=free-tools.retirement.investment-calculator)
+    * [Net Worth Calculator](https://www.ramseysolutions.com/retirement/net-worth-calculator?snid=free-tools.retirement.net-worth-calculator)
+    * [Compound Interest Calculator](https://www.ramseysolutions.com/retirement/compound-interest-calculator?snid=free-tools.retirement.compound-interest-calculator)
+    * [Retire Inspired Quotient (R:IQ)](https://www.ramseysolutions.com/retirement/riq?snid=free-tools.retirement.riq)
+    * [Investing Guide](https://www.ramseysolutions.com/retirement/ramsey-investing-guide?snid=free-tools.retirement.investment-guide)
+    * [Estate Planning Guide](https://www.ramseysolutions.com/retirement/estate-planning-guide?snid=free-tools.retirement.estate-planning-guide)
+    
+    * **Insurance**
+        
+    * [Coverage Checkup](https://www.ramseysolutions.com/insurance/coverage-checkup-tool?snid=free-tools.insurance.coverage-checkup)
+    * [Term Life Insurance Calculator](https://www.ramseysolutions.com/insurance/term-life-insurance-calculator?snid=free-tools.insurance.term-life-insurance-calculator)
+    * **Real Estate**
+        
+    * [Mortgage Calculator](https://www.ramseysolutions.com/real-estate/mortgage-calculator?snid=free-tools.real-estate.mortgage-calculator)
+    * [Mortgage Payoff Calculator](https://www.ramseysolutions.com/real-estate/mortgage-payoff-calculator?snid=free-tools.real-estate.mortgage-payoff-calculator)
+    * [Cost of Living Calculator](https://www.ramseysolutions.com/real-estate/cost-of-living-calculator?snid=free-tools.real-estate.cost-of-living-calculator)
+    * [Home Sellers Guide](https://www.ramseysolutions.com/real-estate/home-sellers-guide?snid=free-tools.real-estate.home-sellers-guide)
+    * [Home Buyers Guide](https://www.ramseysolutions.com/real-estate/homebuyers-guide?snid=free-tools.real-estate.home-buyers-guide)
+    * [Am I Ready to Buy or Sell? Quiz](https://www.ramseysolutions.com/real-estate/am-i-ready-to-buy-or-sell?snid=free-tools.real-estate.am-i-ready-to-buy-or-sell-quiz)
+    * **Wills**
+        
+    * [Online Will vs. Lawyer? Quiz](https://www.ramseysolutions.com/retirement/will/online-will-vs-lawyer-quiz?snid=free-tools.wills.online-will-vs-lawyer-quiz)
+    
+    * **Taxes**
+        
+    * [Tax Pro or Self-File? Quiz](https://www.ramseysolutions.com/taxes/tax-services?snid=free-tools.taxes.tax-pro-or-self-file-quiz#tax-tool)
+    * [Tax Guide](https://www.ramseysolutions.com/taxes/tax-guide?snid=free-tools.taxes.tax-guide)
+    * **Career**
+        
+    * [Career Clarity Guide](https://www.ramseysolutions.com/career-advice/career-clarity-guide?snid=free-tools.career.career-clarity-guide)
+    * [Resumé Guide](https://www.ramseysolutions.com/career-advice/resume-guide?snid=free-tools.career.resume-guide)
+    * [Interview Guide](https://www.ramseysolutions.com/career-advice/interview-guide?snid=free-tools.career.interview-guide)
+    * **Business**
+        
+    * [Business Assessment](https://www.ramseysolutions.com/business/entreleadership/resources/stages-of-business-assessment?snid=free-tools.business.business-assessment)
+    * **Mental Health**
+        
+    * [Anxiety Test](https://www.ramseysolutions.com/personal-growth/anxiety-test?snid=free-tools.mental-health.anxiety-test)
+    
+    * * *
+    
+    * [See All Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools.see-all-free-tools)
+    
+* [Articles](https://www.ramseysolutions.com/articles?snid=articles) Toggle Articles Submenu
+    
+    * **Topics**
+        
+    * [Debt](https://www.ramseysolutions.com/debt?snid=articles.topics.debt)
+    * [Saving](https://www.ramseysolutions.com/saving?snid=articles.topics.saving)
+    * [Budgeting](https://www.ramseysolutions.com/budgeting?snid=articles.topics.budgeting)
+    
+    * [Retirement](https://www.ramseysolutions.com/retirement?snid=articles.topics.retirement)
+    * [Home Buying](https://www.ramseysolutions.com/home-buying?snid=articles.topics.home-buying)
+    * [Home Selling](https://www.ramseysolutions.com/home-selling?snid=articles.topics.home-selling)
+    
+    * [Insurance](https://www.ramseysolutions.com/insurance?snid=articles.topics.insurance)
+    * [Taxes](https://www.ramseysolutions.com/taxes?snid=articles.topics.taxes)
+    * [Business](https://www.ramseysolutions.com/articles?search=category-business&snid=articles.topics.business#article-feed)
+    
+    * [Career](https://www.ramseysolutions.com/articles?search=category-career&snid=articles.topics.career#article-feed)
+    * [Personal Growth](https://www.ramseysolutions.com/articles?search=category-personal-growth&snid=articles.topics.personal-growth#article-feed)
+    
+    * * *
+    
+    * [See All Articles](https://www.ramseysolutions.com/articles?snid=articles.see-all-articles)
+    
+* [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
+    
+    * **Store**
+        
+    * [Books](https://store.ramseysolutions.com/books/all-books/?snid=store.store.books)
+    * [Digital Courses](https://store.ramseysolutions.com/business-and-career/courses/?snid=store.store.digital-courses)
+    * [Bundles](https://store.ramseysolutions.com/money/bundles/?snid=store.store.bundles)
+    * [Events](https://www.ramseysolutions.com/events?snid=store.store.events)
+    
+    * [Kids and Teens](https://store.ramseysolutions.com/youth/?snid=store.store.kids-and-teens)
+    * [Sale](https://store.ramseysolutions.com/sale/?snid=store.store.sale)
+    * [New Arrivals](https://store.ramseysolutions.com/new-arrivals/?snid=store.store.new-arrivals)
+    
+    * **Featured**
+        
+    * [_The Total Money Makeover_ Book](https://store.ramseysolutions.com/money/books/the-total-money-makeover-by-dave-ramsey/?snid=store.featured.the-total-money-makeover-book)
+    * [_EntreLeadership_ Book](https://store.ramseysolutions.com/business-and-career/books/entreleadership/?snid=store.featured.entreleadership-book)
+    * [_From Paycheck to Purpose_ Book](https://store.ramseysolutions.com/business-and-career/books/from-paycheck-to-purpose-by-ken-coleman/?snid=store.featured.from-paycheck-to-purpose-book)
+    
+    * [Get Clear Career Assessment](https://store.ramseysolutions.com/business-and-career/assessments/get-clear-career-assessment-for-career-change/?snid=store.featured.get-clear-career-assessment)
+    * [_Breaking Free From Broke_ Book](https://store.ramseysolutions.com/money/books/breaking-free-from-broke-by-george-kamel/?snid=store.featured.breaking-free-from-broke-by-george-kamel)
+    * [_Building a Non-Anxious Life_ Book](https://store.ramseysolutions.com/personal-growth/books/building-a-non-anxious-life-by-dr-john-delony/?snid=store.featured.building-a-non-anxious-life-by-dr-john-delony)
+    
+    * * *
+    
+    * [Shop the Store](https://store.ramseysolutions.com/?snid=store.shop-the-store)
+    
+
 [Sign In](https://products.ramseysolutions.com/) [Get Started](https://www.ramseysolutions.com/get-started/gs/app/assessment?int_fmt=button&int_lctn=homepage-bottom_cta&int_dscpn=rs_mast_getstarted_button&int_cmpgn=rs_mast_getstarted_button_2024&int_dept=rscom_bu)
 
 [We're Hiring! See Openings](https://www.ramseysolutions.com/company/careers)
