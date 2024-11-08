@@ -20,8 +20,6 @@
 
 ##### [Advertising](https://dict.leo.org/pages/advertise/endeadvertising_en.html "Werbung auf leo.org") - [LEO without ads? LEO Pur](https://dict.leo.org/myleo/subscription?lp=ende&lang=en)
 
-[![No active configuration on this place for this day (2024-11-08T08:35:05/kw45)](/img/adv/banner_468x60_2024-11-08T08:35:05-ende.png "No active configuration on this place for this day (2024-11-08T08:35:05/kw45)")](http://redir.leo.org/)
-
 ![LEO](/img/svg/leo-detailed.svg "LEO")
 
 It looks like you’re using an ad blocker.
