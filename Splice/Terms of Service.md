@@ -1,5 +1,7 @@
  Open main navigation [![Splice logo glyph](https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_21,dpr_1.0/app-assets/general/Logo-Logged-In-Light_3x.png) ![Splice logo](https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_99,dpr_1.0/app-assets/general/Logo-Lock-Up-Light_3x.png)](https://splice.com/)
 
+Close Main Navigation Menu
+
 * [Home](https://splice.com/)
 * [Sounds](https://splice.com/features/sounds)
 * [Create](https://splice.com/sounds/create)
@@ -25,7 +27,7 @@
 © 2024 Splice.com
 
 * [Login](https://splice.com/accounts/sign-in)
-* [Try now](https://splice.com/plans)
+* [Try free](https://splice.com/accounts/sign-up)
 
 Splice - Terms of Use
 =====================
