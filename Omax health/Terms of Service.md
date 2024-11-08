@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)            
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
 
-     
+Terms & Conditions – Omax Health - Omax Health                      
 
-Terms & Conditions – Omax Health - Omax Health                                  
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3408 reviews](https://omaxhealth.com/pages/reviews)
+[3409 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3087)
+(3088)
 
 5%
 
@@ -327,7 +327,17 @@ Go to product page
 
 (53)
 
-2204
+2205
+
+V
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Vance W.
+
+**Awesome**
+
+This is one product that works just like they say. I tell everyone I can about it. I all so bought some for friends so they could try and see for themselves how great it is.
 
 R
 
@@ -348,15 +358,5 @@ Wendy
 **Everyone needs this**
 
 Tried this on a recommendation from someone who has knee pain-and now my husband and I, my parents and several of our friends order regularly for all sorts of aches. Mystery neck pain from sleeping wrong, chronic back pain, headache, wrist pain, cramps of all sorts…this stuff is great. As someone who has bought $$$$ in search of some relief for my husbands chronic pain issues-even something that is temporary but helps is worthwhile -and this is one of those things. Must reapply as necessary but the rollerball is perfect and provides real help.
-
-M
-
-[Omax® Pure Tincture CBD Oil](https://omaxhealth.com/products/pure-tincture-cbd-oil#judgeme_product_reviews)
-
-Mary G.
-
-**Great product**
-
-Read the reviews of this oil. It is great. I have had ongoing neck pain for a couple of years now. I use this in the morning and at night and it helps the pain tremendously
 
 Load More
