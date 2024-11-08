@@ -153,6 +153,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Junge Welt – Bias and Credibility](https://mediabiasfactcheck.com/junge-welt-bias-and-credibility/)
+    
+    November 8, 2024
+    
+* [Lake Powell Chronicle – Bias and Credibility](https://mediabiasfactcheck.com/lake-powell-chronicle-bias/)
+    
+    November 8, 2024
+    
 * [EurAsian Times – Bias and Credibility](https://mediabiasfactcheck.com/eurasian-times-bias-and-credibility/)
     
     November 8, 2024
@@ -177,36 +185,28 @@ No related posts.
     
     November 7, 2024
     
-* [Research & Polling Inc. – Bias and Credibility](https://mediabiasfactcheck.com/research-polling-inc-bias-and-credibility/)
-    
-    November 7, 2024
-    
-* [Liverpool World – Bias and Credibility](https://mediabiasfactcheck.com/liverpool-world-bias/)
-    
-    November 6, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 8, 2024
+    
+* [Junge Welt – Bias and Credibility](https://mediabiasfactcheck.com/junge-welt-bias-and-credibility/ "View Junge Welt – Bias and Credibility") - November 8, 2024
+    
+* [Frontiers in Imaging – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-imaging-bias/ "View Frontiers in Imaging – Bias and Credibility") - November 8, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 8, 2024
+    
+* [Lake Powell Chronicle – Bias and Credibility](https://mediabiasfactcheck.com/lake-powell-chronicle-bias/ "View Lake Powell Chronicle – Bias and Credibility") - November 8, 2024
+    
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 8, 2024
+    
 * [EurAsian Times – Bias and Credibility](https://mediabiasfactcheck.com/eurasian-times-bias-and-credibility/ "View EurAsian Times – Bias and Credibility") - November 8, 2024
     
 * [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 8, 2024
     
-* [Frontiers in Imaging – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-imaging-bias/ "View Frontiers in Imaging – Bias and Credibility") - November 8, 2024
-    
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 7, 2024
-    
 * [Agencia EFE – Bias and Credibility](https://mediabiasfactcheck.com/agencia-efe-bias-and-credibility/ "View Agencia EFE – Bias and Credibility") - November 7, 2024
     
 * [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/ "View Changes/Corrections") - November 7, 2024
-    
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 7, 2024
-    
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 7, 2024
-    
-* [Washington Examiner – Bias and Credibility](https://mediabiasfactcheck.com/washington-examiner/ "View Washington Examiner – Bias and Credibility") - November 7, 2024
-    
-* [ARD.de – Bias and Credibility](https://mediabiasfactcheck.com/ard-de-bias-and-credibility/ "View ARD.de – Bias and Credibility") - November 7, 2024
     
 
 #### Today’s Top Page Views
@@ -214,13 +214,13 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
-* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 
 #### Subscribe via Email
 
