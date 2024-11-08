@@ -8,10 +8,10 @@ Change Location Find Location
 
 * [Menu](https://www.mountainmikespizza.com/menu/)
 * [Locations](https://www.mountainmikespizza.com/locations/)
-* [Fundraising](https://www.mountainmikespizza.com/fundraising/)
 * [Rewards](https://www.mountainmikespizza.com/rewards/)
+* [Fundraising](https://www.mountainmikespizza.com/fundraising/)
+* [Group Events](https://www.mountainmikespizza.com/group-events/)
 * [Franchising](https://mountainmikesfranchise.com/?utm_source=mmpsite&utm_medium=referral)
-* [Careers](https://www.mountainmikespizza.com/careers/)
 
 [Start Order for My Mountain Mike's](https://www.mountainmikespizza.com/locations/)
 
@@ -26,10 +26,10 @@ Change Location Change Location
 
 * [Menu](https://www.mountainmikespizza.com/menu/)
 * [Locations](https://www.mountainmikespizza.com/locations/)
-* [Fundraising](https://www.mountainmikespizza.com/fundraising/)
 * [Rewards](https://www.mountainmikespizza.com/rewards/)
+* [Fundraising](https://www.mountainmikespizza.com/fundraising/)
+* [Group Events](https://www.mountainmikespizza.com/group-events/)
 * [Franchising](https://mountainmikesfranchise.com/?utm_source=mmpsite&utm_medium=referral)
-* [Careers](https://www.mountainmikespizza.com/careers/)
 
 [](https://www.facebook.com/mountainmikes/)[](https://twitter.com/MountainMikes)[](https://www.instagram.com/mountainmikes/)
 
