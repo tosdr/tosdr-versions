@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/SANTIAGO-JOSUVE-VARGAS--326x245.jpg)](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
+
+Streeterville
+
+### [Migrant arrested 13 times in a year is now charged with Streeterville robbery](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
+
+[November 5, 2024 2:38 PM](https://cwbchicago.com/2024/11)
+
+A Venezuelan migrant has been detained as a safety threat, his 13th arrest in a year, after he allegedly tried to rob a woman of her bike in Streeterville.[](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Jerome-Jackson-and-Bryant-Robinson-326x245.jpg)](https://cwbchicago.com/2024/11/2-men-went-on-nighttime-robbery-spree-from-79th-street-to-the-north-side-prosecutors-say-one-was-wearing-an-ankle-monitor.html "2  men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.")
 
 CTA
@@ -262,16 +272,6 @@ Chatham
 [November 5, 2024 6:22 AM](https://cwbchicago.com/2024/11)
 
 A Chicago police officer was shot and killed by machine gun fire while conducting an investigation in the Chatham neighborhood Monday evening.[](https://cwbchicago.com/2024/11/cpd-officer-is-murdered-on-duty-2-detained.html "CPD officer is murdered on duty, 2 detained")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Emmanuel-Wilson-and-hellcatloki-326x245.jpg)](https://cwbchicago.com/2024/11/flamethrower-guns-recovered-as-chicago-cops-bust-street-takeover-report.html "Flamethrower, guns recovered as Chicago cops bust street takeover: report")
-
-Gage Park
-
-### [Flamethrower, guns recovered as Chicago cops bust street takeover: report](https://cwbchicago.com/2024/11/flamethrower-guns-recovered-as-chicago-cops-bust-street-takeover-report.html "Flamethrower, guns recovered as Chicago cops bust street takeover: report")
-
-[November 4, 2024 6:16 PM](https://cwbchicago.com/2024/11)
-
-A Missouri man faces firearms and other charges after Chicago police said he participated in a donut-spinning street “takeover” early Sunday in Gage Park.[](https://cwbchicago.com/2024/11/flamethrower-guns-recovered-as-chicago-cops-bust-street-takeover-report.html "Flamethrower, guns recovered as Chicago cops bust street takeover: report")
 
 Search
 
@@ -330,6 +330,7 @@ Thank you.
 * [East Side](https://cwbchicago.com/category/east-side)
 * [Edgewater](https://cwbchicago.com/category/edgewater)
 * [Englewood](https://cwbchicago.com/category/englewood)
+* [Fuller Park](https://cwbchicago.com/category/fuller-park)
 * [Gage Park](https://cwbchicago.com/category/gage-park)
 * [Garfield Ridge](https://cwbchicago.com/category/garfield-ridge)
 * [Gold Coast](https://cwbchicago.com/category/near-north/gold-coast)
