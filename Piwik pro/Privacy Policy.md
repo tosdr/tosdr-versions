@@ -23,6 +23,7 @@
     * [Privacy compliance](https://piwik.pro/privacy-compliance/)
     * [HIPAA-compliant analytics](https://piwik.pro/hipaa/)
     * [Ecommerce analytics](https://piwik.pro/ecommerce-analytics/)
+    * [Server-side tracking & tagging](https://piwik.pro/server-side-tracking-tagging/)
     * [Compare](#)
     * [GA4 knowledge hub](https://piwik.pro/ga4-knowledge-hub/)
     * [Switch from Matomo](https://piwik.pro/switch-from-matomo/)
@@ -298,6 +299,7 @@ We will occasionally update this Privacy Policy. When changes to this Privacy Po
 * [Privacy compliance](https://piwik.pro/privacy-compliance/)
 * [HIPAA-compliant analytics](https://piwik.pro/hipaa/)
 * [Ecommerce analytics](https://piwik.pro/ecommerce-analytics/)
+* [Server-side tracking & tagging](https://piwik.pro/server-side-tracking-tagging/)
 
 ###### Switch from
 
