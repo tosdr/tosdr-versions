@@ -192,6 +192,7 @@ Learn how to find products to sell and setup your online store.
 
 Related Content
 
+* [562: US Sellers Rejoice! The Govt Just Destroyed Temu And Shein](https://mywifequitherjob.com/episode562/)
 * [561: How To Create Long-Form Videos That Blow Up on YouTube](https://mywifequitherjob.com/episode561/)
 * [560: The Ultimate Guide To Short Form Video Marketing And Getting Results Fast](https://mywifequitherjob.com/episode560/)
 * [559: The Brutal Truth About Playing It Safe And Why It’s Holding You Back With Chase Jarvis](https://mywifequitherjob.com/episode559/)
@@ -211,7 +212,6 @@ Related Content
 * [Walmart Sells Out To China And Betrays US Sellers To Fight Temu](https://mywifequitherjob.com/walmart-vs-temu/)
 * [Amazon Just Declared War On Temu And Screwed All FBA Sellers](https://mywifequitherjob.com/amazon-vs-temu/)
 * [547: The Formula For Running A Record-Breaking Sale With Email Marketing](https://mywifequitherjob.com/episode547/)
-* [546: Google Pisses Off Sellers And The Latest Updates From TikTok](https://mywifequitherjob.com/episode546/)
 
 Where Should I Begin?
 
@@ -259,7 +259,7 @@ Please Read Our [Privacy Policy](https://mywifequitherjob.com/privacy-policy/) A
 
 ![css.php](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=1659410121)
+![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=1260491322)
 
 Everything you need to know on how to build a profitable ecommerce store from scratch!
 
