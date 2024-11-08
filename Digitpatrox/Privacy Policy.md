@@ -20,16 +20,16 @@ Friday, November 8 2024
 
 Latest
 
-* [AMD’s Ryzen 7 9800X3D is out of stock at many retailers](https://digitpatrox.com/amds-ryzen-7-9800x3d-is-out-of-stock-at-many-retailers/)
-* [Genshin Impact Chasca Build Guide: Artifacts, Weapons, and Teams](https://digitpatrox.com/genshin-impact-chasca-build-guide-artifacts-weapons-and-teams/)
-* [Brits are positive about data centers – once they know what they actually are](https://digitpatrox.com/brits-are-positive-about-data-centers-once-they-know-what-they-actually-are/)
-* [US consumer protection agency bans employee mobile calls amid Chinese hack fears](https://digitpatrox.com/us-consumer-protection-agency-bans-employee-mobile-calls-amid-chinese-hack-fears/)
-* [You Can Get Microsoft Office for Mac on Sale for $25 Right Now](https://digitpatrox.com/you-can-get-microsoft-office-for-mac-on-sale-for-25-right-now/)
-* [Planned Parenthood of Montana notifies 18K people of data breach that compromised medical info](https://digitpatrox.com/planned-parenthood-of-montana-notifies-18k-people-of-data-breach-that-compromised-medical-info/)
-* [Best Indoor Air Quality Monitors of 2024](https://digitpatrox.com/best-indoor-air-quality-monitors-of-2024/)
-* [They Hate Me on Facebook Marketplace, But I Never Get Scammed](https://digitpatrox.com/they-hate-me-on-facebook-marketplace-but-i-never-get-scammed/)
-* [Cybersecurity salaries are rising, but some professionals wonder if the stress and burnout is worth it](https://digitpatrox.com/cybersecurity-salaries-are-rising-but-some-professionals-wonder-if-the-stress-and-burnout-is-worth-it/)
-* [Top Vulnerability Management Tools: Reviews & Comparisons 2024](https://digitpatrox.com/top-vulnerability-management-tools-reviews-comparisons-2024/)
+* [Unpatched Mazda Connect bugs let hackers install persistent malware](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
+* [The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
+* [Google Vids AI Video Creation Tool Arrives for Workspace Users](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
+* [Texas clinic notifies 37K people of data breach that compromised SSNs, passwords, and medical info](https://digitpatrox.com/texas-clinic-notifies-37k-people-of-data-breach-that-compromised-ssns-passwords-and-medical-info/)
+* [CrowdStrike eyes SaaS security gains with Adaptive Shield acquisition](https://digitpatrox.com/crowdstrike-eyes-saas-security-gains-with-adaptive-shield-acquisition/)
+* [What if robots learned the same way genAI chatbots do? – Computerworld](https://digitpatrox.com/what-if-robots-learned-the-same-way-genai-chatbots-do-computerworld/)
+* [You Can Get the Amazon Echo Auto for 55% Off Right Now](https://digitpatrox.com/you-can-get-the-amazon-echo-auto-for-55-off-right-now/)
+* [Microsoft’s Copilot strategy shifts with new Microsoft 365 bundle, but it’ll cost you more](https://digitpatrox.com/microsofts-copilot-strategy-shifts-with-new-microsoft-365-bundle-but-itll-cost-you-more/)
+* [How to Make Your Car More Comfortable for You](https://digitpatrox.com/how-to-make-your-car-more-comfortable-for-you/)
+* [The Best TV Backlights of 2024](https://digitpatrox.com/the-best-tv-backlights-of-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/CXsCEMlrrMhCC0TDyz1RN1clazE=/0x0:2718x1800/1200x628/filters:focal(1359x900:1360x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25716665/247357_AMD_Ryzen_7_9800X3D_TWarren_0001.jpg)](https://digitpatrox.com/amds-ryzen-7-9800x3d-is-out-of-stock-at-many-retailers/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/08/headpic.jpeg)](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
     
-    [AMD’s Ryzen 7 9800X3D is out of stock at many retailers](https://digitpatrox.com/amds-ryzen-7-9800x3d-is-out-of-stock-at-many-retailers/)
+    [Unpatched Mazda Connect bugs let hackers install persistent malware](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
     
-    7 mins ago
+    30 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Chasca-Best-Build-Genshin-Impact.jpg)](https://digitpatrox.com/genshin-impact-chasca-build-guide-artifacts-weapons-and-teams/)
+* [![](https://cdn.vox-cdn.com/thumbor/2wIT6vjCpdu4j876y2zVMSpqEUM=/0x0:2048x1365/1200x628/filters:focal(1024x683:1025x684)/cdn.vox-cdn.com/uploads/chorus_asset/file/25721493/Gb3zWbGbwAA5UAk.jpeg)](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
     
-    [Genshin Impact Chasca Build Guide: Artifacts, Weapons, and Teams](https://digitpatrox.com/genshin-impact-chasca-build-guide-artifacts-weapons-and-teams/)
+    [The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
     
-    24 mins ago
+    47 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/XChiaA57UMKoMUGKmSFxYN-1200-80.jpg)](https://digitpatrox.com/brits-are-positive-about-data-centers-once-they-know-what-they-actually-are/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Google-Vids-New-AI-Powered-Video-Marketing-Tool.jpg)](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
     
-    [Brits are positive about data centers – once they know what they actually are](https://digitpatrox.com/brits-are-positive-about-data-centers-once-they-know-what-they-actually-are/)
+    [Google Vids AI Video Creation Tool Arrives for Workspace Users](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
+    
+    1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Data-breach-at-Texas-clinic-compromises-37K-SSNs-passwords-and-medical-info.jpg)](https://digitpatrox.com/texas-clinic-notifies-37k-people-of-data-breach-that-compromised-ssns-passwords-and-medical-info/)
+    
+    [Texas clinic notifies 37K people of data breach that compromised SSNs, passwords, and medical info](https://digitpatrox.com/texas-clinic-notifies-37k-people-of-data-breach-that-compromised-ssns-passwords-and-medical-info/)
     
     2 hours ago
     
-* [![](https://www.csoonline.com/wp-content/uploads/2024/11/3601277-0-01835900-1731060624-shutterstock_1541328209.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/us-consumer-protection-agency-bans-employee-mobile-calls-amid-chinese-hack-fears/)
+* [![](https://cdn.mos.cms.futurecdn.net/HUhxuw4q94nJ9GYPYBXcvB-1200-80.jpg)](https://digitpatrox.com/crowdstrike-eyes-saas-security-gains-with-adaptive-shield-acquisition/)
     
-    [US consumer protection agency bans employee mobile calls amid Chinese hack fears](https://digitpatrox.com/us-consumer-protection-agency-bans-employee-mobile-calls-amid-chinese-hack-fears/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01HKTXV1NB0EN3WCZYTSH4EZF0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-microsoft-office-for-mac-on-sale-for-25-right-now/)
-    
-    [You Can Get Microsoft Office for Mac on Sale for $25 Right Now](https://digitpatrox.com/you-can-get-microsoft-office-for-mac-on-sale-for-25-right-now/)
+    [CrowdStrike eyes SaaS security gains with Adaptive Shield acquisition](https://digitpatrox.com/crowdstrike-eyes-saas-security-gains-with-adaptive-shield-acquisition/)
     
     3 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [7 mins ago
+* [30 mins ago
     
-    ### AMD’s Ryzen 7 9800X3D is out of stock at many retailers](https://digitpatrox.com/amds-ryzen-7-9800x3d-is-out-of-stock-at-many-retailers/)
-* [24 mins ago
+    ### Unpatched Mazda Connect bugs let hackers install persistent malware](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
+* [47 mins ago
     
-    ### Genshin Impact Chasca Build Guide: Artifacts, Weapons, and Teams](https://digitpatrox.com/genshin-impact-chasca-build-guide-artifacts-weapons-and-teams/)
-* [2 hours ago
+    ### The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
+* [1 hour ago
     
-    ### Brits are positive about data centers – once they know what they actually are](https://digitpatrox.com/brits-are-positive-about-data-centers-once-they-know-what-they-actually-are/)
+    ### Google Vids AI Video Creation Tool Arrives for Workspace Users](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
 
 Most Popular Topics
 
-* [August 12, 2024
+* [September 29, 2024
     
-    ### How to Passthrough an NVIDIA GPU on a Proxmox VE Ubuntu 24.04 LTS Virtual Machine (VM)](https://digitpatrox.com/how-to-passthrough-an-nvidia-gpu-on-a-proxmox-ve-ubuntu-24-04-lts-virtual-machine-vm/)
+    ### Eliminate ‘Delayed Decisions’ to Declutter Long-Term](https://digitpatrox.com/eliminate-delayed-decisions-to-declutter-long-term/)
+* [August 19, 2024
+    
+    ### Fortnite Is Back on Mobile (for Some of Us)](https://digitpatrox.com/fortnite-is-back-on-mobile-for-some-of-us/)
 * [3 weeks ago
     
-    ### Best free antivirus for families in 2024](https://digitpatrox.com/best-free-antivirus-for-families-in-2024/)
-* [August 31, 2024
-    
-    ### How Star Wars walked away from the world’s first self-retracting lightsaber toy](https://digitpatrox.com/how-star-wars-walked-away-from-the-worlds-first-self-retracting-lightsaber-toy/)
+    ### Features, Prices, Pros and Cons](https://digitpatrox.com/features-prices-pros-and-cons/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Best Indoor Air Quality Monitors of 2024](https://digitpatrox.com/best-indoor-air-quality-monitors-of-2024/)
-* [3 hours ago
-    
-    ### They Hate Me on Facebook Marketplace, But I Never Get Scammed](https://digitpatrox.com/they-hate-me-on-facebook-marketplace-but-i-never-get-scammed/)
+    ### You Can Get the Amazon Echo Auto for 55% Off Right Now](https://digitpatrox.com/you-can-get-the-amazon-echo-auto-for-55-off-right-now/)
 * [4 hours ago
     
-    ### Cybersecurity salaries are rising, but some professionals wonder if the stress and burnout is worth it](https://digitpatrox.com/cybersecurity-salaries-are-rising-but-some-professionals-wonder-if-the-stress-and-burnout-is-worth-it/)
+    ### Microsoft’s Copilot strategy shifts with new Microsoft 365 bundle, but it’ll cost you more](https://digitpatrox.com/microsofts-copilot-strategy-shifts-with-new-microsoft-365-bundle-but-itll-cost-you-more/)
+* [4 hours ago
+    
+    ### How to Make Your Car More Comfortable for You](https://digitpatrox.com/how-to-make-your-car-more-comfortable-for-you/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
