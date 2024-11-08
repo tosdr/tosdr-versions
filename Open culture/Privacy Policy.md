@@ -74,7 +74,21 @@ If an adver­tis­er asks Open Cul­ture to show an adver­tise­ment to a cer­
 
 We use the per­son­al­ly iden­ti­fi­able infor­ma­tion that we col­lect to oper­ate, main­tain, and pro­vide to you the fea­tures and func­tion­al­i­ty of the Open Cul­ture Ser­vices.
 
-By pro­vid­ing Open Cul­ture with your email address, you con­sent to our use of the email address to send you notices relat­ed to the Open Cul­ture Ser­vices, includ­ing any notices required by law, in lieu of com­mu­ni­ca­tion by postal mail.  We may also con­tact you via email with trans­ac­tion­al or rela­tion­ship mes­sages, such as noti­fi­ca­tions of changes to the terms of ser­vices pro­vid­ed.  By pro­vid­ing your email address, you agree that we may send you noti­fi­ca­tions of activ­i­ty on the Open Cul­ture Ser­vices to that email address, in accor­dance with any applic­a­ble pri­va­cy set­tings.  We may use your email address to send you oth­er mes­sages, such as infor­ma­tion about changes to fea­tures of the Open Cul­ture Ser­vices.  If you do not want to receive such email mes­sages, you may opt out or change your pref­er­ences by send­ing an email to mail@openculture.com.  Opt­ing out may pre­vent you from receiv­ing email mes­sages regard­ing updates, improve­ments, or offers.  You may not opt out of ser­vice-relat­ed emails or trans­ac­tion­al or rela­tion­ship email mes­sages.
+By pro­vid­ing Open Cul­ture with your email address, you con­sent to our use of the email address to send you notices relat­ed to the Open Cul­ture Ser­vices, includ­ing any notices required by law, in lieu of com­mu­ni­ca­tion by postal mail.  We may also con­tact you via email with trans­ac­tion­al or rela­tion­ship mes­sages, such as noti­fi­ca­tions of changes to the terms of ser­vices pro­vid­ed.  By pro­vid­ing your email address, you agree that we may send you noti­fi­ca­tions of activ­i­ty on the Open Cul­ture Ser­vices to that email address, in accor­dance with any applic­a­ble pri­va­cy set­tings.  We may use your email address to send you oth­er mes­sages, such as infor­ma­tion about changes to fea­tures of the Open Cul­ture Ser­vices.  If you do not want to receive such email mes­sages, you may opt out or change your pref­er­ences by send­ing an email to  
+  
+ma\*\*@op\*\*\*\*\*\*\*\*\*.com  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+.  Opt­ing out may pre­vent you from receiv­ing email mes­sages regard­ing updates, improve­ments, or offers.  You may not opt out of ser­vice-relat­ed emails or trans­ac­tion­al or rela­tion­ship email mes­sages.
 
 Open Cul­ture may use your per­son­al­ly iden­ti­fi­able infor­ma­tion and user con­tent inter­nal­ly for pur­pos­es such as oper­at­ing or improv­ing its web­sites, deter­min­ing which users have access priv­i­leges to cer­tain con­tent, ser­vices or resources that we offer, diag­nos­ing ser­vice or tech­ni­cal prob­lems, main­tain­ing secu­ri­ty, doing some­thing that you have asked us to do, telling you about Open Cul­ture prod­ucts, ser­vices and mar­ket­ing events that we think may be of inter­est, ana­lyz­ing how the Open Cul­ture Ser­vices are used, and per­son­al­iz­ing con­tent.
 
@@ -128,7 +142,21 @@ You can lim­it tar­get­ed adver­tis­ing by con­fig­ur­ing your browser�
 
 **9\. Children’s Pri­va­cy**
 
-Pro­tect­ing the pri­va­cy of young chil­dren is espe­cial­ly impor­tant.  Open Cul­ture and its relat­ed web­sites are not struc­tured to attract chil­dren under 13 years of age.  Open Cul­ture pro­hibits the use of our web­sites or ser­vices by any­one under 13 years of age.  Open Cul­ture does not know­ing­ly col­lect or solic­it per­son­al infor­ma­tion from any­one under the age of 13 or know­ing­ly allow such per­sons to reg­is­ter for any of the Open Cul­ture Ser­vices.  If you are under 13, please do not access the Open Cul­ture Ser­vices or send any infor­ma­tion about your­self to us, includ­ing your name, address, tele­phone num­ber, or email address.  In the event that we learn that we have col­lect­ed per­son­al infor­ma­tion from a child under age 13 with­out ver­i­fi­ca­tion of parental con­sent, we will delete that infor­ma­tion as quick­ly as pos­si­ble.  If you believe that we might have any infor­ma­tion from or about a child under 13, please con­tact us at mail@openculture.com.
+Pro­tect­ing the pri­va­cy of young chil­dren is espe­cial­ly impor­tant.  Open Cul­ture and its relat­ed web­sites are not struc­tured to attract chil­dren under 13 years of age.  Open Cul­ture pro­hibits the use of our web­sites or ser­vices by any­one under 13 years of age.  Open Cul­ture does not know­ing­ly col­lect or solic­it per­son­al infor­ma­tion from any­one under the age of 13 or know­ing­ly allow such per­sons to reg­is­ter for any of the Open Cul­ture Ser­vices.  If you are under 13, please do not access the Open Cul­ture Ser­vices or send any infor­ma­tion about your­self to us, includ­ing your name, address, tele­phone num­ber, or email address.  In the event that we learn that we have col­lect­ed per­son­al infor­ma­tion from a child under age 13 with­out ver­i­fi­ca­tion of parental con­sent, we will delete that infor­ma­tion as quick­ly as pos­si­ble.  If you believe that we might have any infor­ma­tion from or about a child under 13, please con­tact us at  
+  
+ma\*\*@op\*\*\*\*\*\*\*\*\*.com  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+.
 
 **10\. Links to Oth­er Web­sites**
 
@@ -146,7 +174,21 @@ This Pri­va­cy Pol­i­cy is gov­erned by the laws of the State of Cal­i­fo
 
 Open Cul­ture may mod­i­fy or update this Pri­va­cy Pol­i­cy at its sole dis­cre­tion from time to time, and so you should review this Pri­va­cy Pol­i­cy peri­od­i­cal­ly.  When we change the pol­i­cy in a mate­r­i­al way, we will noti­fy you by means of a notice on our web­site pri­or to the change becom­ing effec­tive.  Changes to this Pri­va­cy Pol­i­cy are effec­tive when they are post­ed on this page.  Your con­tin­ued access to the Open Cul­ture Ser­vices after the Pri­va­cy Pol­i­cy has been mod­i­fied and post­ed will sig­ni­fy your accep­tance of such mod­i­fi­ca­tions.
 
-If you have any ques­tions about this Pri­va­cy Pol­i­cy, the prac­tices of the Open Cul­ture Ser­vices, or your deal­ings with Open Cul­ture, please con­tact us at mail@openculture.com.
+If you have any ques­tions about this Pri­va­cy Pol­i­cy, the prac­tices of the Open Cul­ture Ser­vices, or your deal­ings with Open Cul­ture, please con­tact us at  
+  
+ma\*\*@op\*\*\*\*\*\*\*\*\*.com  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+.
 
 **14. Cal­i­for­nia Con­sumer Pri­va­cy Act (“CCPA”)**
 
@@ -520,7 +562,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1731028433&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1731048731&formid=1 "click to reload")
     
 * About Us
     --------
