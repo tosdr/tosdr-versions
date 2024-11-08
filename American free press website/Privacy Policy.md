@@ -254,7 +254,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/43&44_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_43_44_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/45&46_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_45_46_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -276,10 +276,10 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Comments
 
+* Deb on [Citizen Volunteers Do More Than FEMA](https://americanfreepress.net/citizen-volunteers-do-more-than-fema/#comment-55304)
 * Helen on [United States Must End Weapons Shipments to Israel Now](https://americanfreepress.net/united-states-must-end-weapons-shipments-to-israel-now/#comment-55179)
 * Eric on [United States Must End Weapons Shipments to Israel Now](https://americanfreepress.net/united-states-must-end-weapons-shipments-to-israel-now/#comment-55012)
 * Deanna McClane on [Kamala Presidency Would Be Disaster for America](https://americanfreepress.net/kamala-presidency-would-be-disaster-for-america/#comment-54988)
-* Stephen Aradjan on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54642)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=2113217547)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1916617499)
