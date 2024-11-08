@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![Facts about Office Cleaning in London Why a Clean Office Space Matters for Your Business ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/facts-about-office-cleaning-in-london/)
+[![25 Facts About The Bulgarian Cup ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/25-facts-about-the-bulgarian-cup/)
 
-General
+Sports
 
-07 Nov 2024
+08 Nov 2024
 
-[Facts about Office Cleaning in London Why a Clean Office Space Matters for Your Business](https://facts.net/general/facts-about-office-cleaning-in-london/)
+[25 Facts About The Bulgarian Cup](https://facts.net/lifestyle/sports/25-facts-about-the-bulgarian-cup/)
 
-[![25 Facts About Jamess Pokemon ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/characters/pokemon/25-facts-about-jamess-pokemon/)
+[![25 Facts About The Appalachian Trail ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/geography/25-facts-about-the-appalachian-trail/)
 
-Pokemon
+Geography
 
-07 Nov 2024
+08 Nov 2024
 
-[25 Facts About Jamess Pokemon](https://facts.net/characters/pokemon/25-facts-about-jamess-pokemon/)
+[25 Facts About The Appalachian Trail](https://facts.net/science/geography/25-facts-about-the-appalachian-trail/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
