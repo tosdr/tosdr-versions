@@ -1,4 +1,4 @@
-[](javascript:void(0);)[![Halloween Sex Games](//fgn.cdn.serverable.com/common/images/gc19/gamcore-halloween-2024-ghost.svg)](https://gamcore.com/halloween?sortby=date)
+[](javascript:void(0);)[![Porn Games](//fgn.cdn.serverable.com/common/images/gc19/gamcore.svg)](https://gamcore.com/)
 
 [](javascript:void(0);)
 
@@ -8,8 +8,8 @@
 
 [Login](https://gamcore.com/login) [Register](https://gamcore.com/register)
 
-* [Family Sim](https://gamcore.com/fuckyou/247)
 * [Sex Games](https://gamcore.com/fuckyou/366)
+* [Family Sim](https://gamcore.com/fuckyou/247)
 * [Cartoon Porn](https://porcore.com/)
 * [Favourites](https://gamcore.com/favourites)
 * [History](https://gamcore.com/history)
