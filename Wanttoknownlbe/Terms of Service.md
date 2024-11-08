@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-thierry-baudet-heftige-speech-tweede-kamer/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/planeetgrote-ufos-bij-onze-zon/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
