@@ -250,7 +250,7 @@ Back
     * [DFI America, LLC](https://www.symmetryelectronics.com/manufacturers/dfi-america,-llc/)
     * [Digi International](https://www.symmetryelectronics.com/manufacturers/digi-international/)
     * [DIGIWISE](https://www.symmetryelectronics.com/manufacturers/digiwise/)
-    * [Efinix, Inc.](https://www.symmetryelectronics.com/manufacturers/efinix,-inc/)
+    * [Efinix, Inc.](https://www.symmetryelectronics.com/manufacturers/efinix/)
     * [Embedded Antenna Design](https://www.symmetryelectronics.com/manufacturers/embedded-antenna-design/)
     * [e-peas](https://www.symmetryelectronics.com/manufacturers/e-peas/)
     * [Ezurio](https://www.symmetryelectronics.com/manufacturers/ezurio/)
