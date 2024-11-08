@@ -111,7 +111,7 @@ Primary Sidebar
 
 [![Fastweb's $1,000 National Scholarship Month Sweepstakes](https://finaid.org/wp-content/uploads/2024/11/fastweb-1k-nsm-sweeps-600x500@2x.jpg)
 
-![Fastweb's $1,000 National Scholarship Month Sweepstakes](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/contests/fastweb-1000-national-scholarship-month-sweepstakes-fall-2024?utm_source=finaid&Utm_medium=referral&campaign=Q4Sweeps)
+![Fastweb's $1,000 National Scholarship Month Sweepstakes](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/college-scholarships/scholarships/189962-fastweb-s-1-000-national-scholarship-month-sweepstakes)
 
 ### Helpful Links
 
