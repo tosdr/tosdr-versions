@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Market Update](https://atos.net/en/2024/press-release_2024_11_08/market-update-6)
         * [Eviden Launches Evidian Orbion: A Next-Generation, comprehensive Cloud-Based Identity and Access Management Solution](https://atos.net/en/2024/news_2024_11_05/eviden-launches-evidian-orbion-a-next-generation-comprehensive-cloud-based-identity-and-access-management-solution)
         * [Atos signs binding agreement to sell Worldgrid to ALTEN for an enterprise value of €270 million](https://atos.net/en/2024/press-release_2024_11_05/atos-signs-binding-agreement-to-sell-worldgrid-to-alten-for-an-enterprise-value-of-e270-million)
-        * [Atos Sustainable Workplace research finds device lifespan can double while still delighting users](https://atos.net/en/2024/press-release_2024_11_04/atos-sustainable-workplace-research-finds-device-lifespan-can-double-while-still-delighting-users)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 5, 2024
+        Nov 8, 2024
         
-        ### Eviden Launches Evidian Orbion: A Next-Generation, comprehensive Cloud-Based Identity and Access Management Solution
+        ### Market Update
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
