@@ -255,11 +255,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![dog-hard-hat-hammer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![collage with pinking shears decanter bustle sculling on a purple background](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Odd Jobs Quiz Work smarter, not harder, to figure out these occ...
+Name That Thing MegaQuiz: Vol. 5 Test your visual vocabulary!
 
-Take the quiz](https://www.merriam-webster.com/games/odd-jobs)
+Take the quiz](https://www.merriam-webster.com/games/ntt-mega-5)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
