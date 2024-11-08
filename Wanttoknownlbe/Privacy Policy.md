@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/psychose-in-verband-met-reincarnatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/efsa-slik-aspartaam-voor-zoete-koek/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
