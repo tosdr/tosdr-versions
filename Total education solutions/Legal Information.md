@@ -36,9 +36,11 @@ International schoolsUK editionAustralia edition
         
     * Safeguarding and compliance
         
-        * [Tes Safeguarding Safeguarding training](https://www.tes.com/for-schools/safeguarding-training)
+        * [Tes Safeguarding Training Safeguarding training](https://www.tes.com/for-schools/safeguarding-training)
             
-        * [MyConcern Safeguarding software for schools](https://www.tes.com/for-schools/myconcern)
+        * [Tes MyConcern Safeguarding software for schools](https://www.tes.com/for-schools/myconcern)
+            
+        * [Tes Clarity Safeguarding reporting for school groups](https://www.tes.com/for-schools/clarity)
             
         
     * Staff management
@@ -83,9 +85,11 @@ TES Close
         
     * [Safeguarding and compliance](https://www.tes.com/) Open
         
-        * [Tes Safeguarding](https://www.tes.com/for-schools/safeguarding-training)
+        * [Tes Safeguarding Training](https://www.tes.com/for-schools/safeguarding-training)
             
-        * [MyConcern](https://www.tes.com/for-schools/myconcern)
+        * [Tes MyConcern](https://www.tes.com/for-schools/myconcern)
+            
+        * [Tes Clarity](https://www.tes.com/for-schools/clarity)
             
         
     * [Staff management](https://www.tes.com/for-schools/staff-management) Open
