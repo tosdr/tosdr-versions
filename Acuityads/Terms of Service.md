@@ -52,9 +52,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [Press](https://illumin.com/news-press/)
-    * ![illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2021/05/Whats-new-with-illumin.jpg)
+    * ![illumin Reports Third Quarter 2024 Financial Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results[Read More](https://illumin.com/news-press/illumin-announces-date-for-q3-2024-financial-and-operating-results/)
+        illumin Reports Third Quarter 2024 Financial Results[Read More](https://illumin.com/news-press/illumin-reports-third-quarter-2024-financial-results/)
         
 * [Request a demo](https://illumin.com/product/request-a-demo/)
 
@@ -500,3 +500,7 @@ Newsletter signup
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
