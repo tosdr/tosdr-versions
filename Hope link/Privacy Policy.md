@@ -194,7 +194,13 @@ Follow Us
 
 [LinkedIn](https://www.linkedin.com/company/hopelink/) [Facebook](https://www.facebook.com/Hopelink) [Instagram](https://www.instagram.com/hopelinkhelps/?hl=en)
 
-Take Action Newsletter Signup
+Connections Newsletter Signup
+
+ This field is required
+
+ This field is required
+
+ Please enter a valid email
 
 2024 Hopelink
 
