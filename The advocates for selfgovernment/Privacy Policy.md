@@ -190,31 +190,31 @@ Enable Dark Mode
     
     Political Types
     
-    *  [![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp) ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
+    *  [![](/wp-content/themes/yootheme/cache/05/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-05e5a94a.webp) ![](/wp-content/themes/yootheme/cache/05/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-05e5a94a.webp)
         
         Libertarian
         
         Read more](https://www.theadvocates.org/libertarian/)
         
-    *  [![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp) ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
+    *  [![](/wp-content/themes/yootheme/cache/9a/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-9a2f01d4.webp) ![](/wp-content/themes/yootheme/cache/9a/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-9a2f01d4.webp)
         
         Conservative
         
         Read more](https://www.theadvocates.org/conservative/)
         
-    *  [![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp) ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
+    *  [![](/wp-content/themes/yootheme/cache/56/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--56353acb.webp) ![](/wp-content/themes/yootheme/cache/56/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--56353acb.webp)
         
         Progressive
         
         Read more](https://www.theadvocates.org/liberal/)
         
-    *  [![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp) ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
+    *  [![](/wp-content/themes/yootheme/cache/01/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-01a211df.webp) ![](/wp-content/themes/yootheme/cache/01/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-01a211df.webp)
         
         Moderate
         
         Read more](https://www.theadvocates.org/moderate/)
         
-    *  [![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp) ![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp)
+    *  [![](/wp-content/themes/yootheme/cache/5b/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--5b2da27e.webp) ![](/wp-content/themes/yootheme/cache/5b/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--5b2da27e.webp)
         
         Authoritarian
         
@@ -253,7 +253,7 @@ Enable Dark Mode
     
     Latest Articles
     
-    *    [![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png) ![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png)
+    *    [![](/wp-content/themes/yootheme/cache/21/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-215d88ee.png) ![](/wp-content/themes/yootheme/cache/21/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-215d88ee.png)
         
         Underthrow Series
         
@@ -263,7 +263,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/are-you-a-fox-or-a-hedgehog/)
         
-    *    [![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png) ![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png)
+    *    [![](/wp-content/themes/yootheme/cache/48/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-4803d26d.png) ![](/wp-content/themes/yootheme/cache/48/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-4803d26d.png)
         
         Underthrow Series
         
@@ -273,7 +273,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/the-great-fiscal-conundrum/)
         
-    *    [![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
+    *    [![](/wp-content/themes/yootheme/cache/e0/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-e08701a1.png) ![](/wp-content/themes/yootheme/cache/e0/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-e08701a1.png)
         
         Underthrow Series
         
@@ -283,7 +283,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
         
-    *    [![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/88/Clouds-2.7-8896b9d5.jpeg) ![](/wp-content/themes/yootheme/cache/88/Clouds-2.7-8896b9d5.jpeg)
         
         Underthrow Series
         
@@ -291,7 +291,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
         
-    *    [![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
+    *    [![](/wp-content/themes/yootheme/cache/0c/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-0c6bd9f3.png) ![](/wp-content/themes/yootheme/cache/0c/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-0c6bd9f3.png)
         
         Underthrow Series
         
@@ -301,7 +301,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
         
-    *    [![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/83/Mule-on-out-scaled-1-837b63b2.jpeg) ![](/wp-content/themes/yootheme/cache/83/Mule-on-out-scaled-1-837b63b2.jpeg)
         
         Underthrow Series
         
@@ -311,7 +311,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/old-man-mountain-weeps/)
         
-    *    [![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/83/Update-1-834b4890.jpeg) ![](/wp-content/themes/yootheme/cache/83/Update-1-834b4890.jpeg)
         
         Underthrow Series
         
@@ -321,7 +321,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
         
-    *    [![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/03/edit-copy-03fa3c43.jpeg) ![](/wp-content/themes/yootheme/cache/03/edit-copy-03fa3c43.jpeg)
         
         Underthrow Series
         
@@ -331,7 +331,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/makers-and-takers/)
         
-    *    [![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
+    *    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-13d36a0b.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-13d36a0b.png)
         
         Underthrow Series
         
@@ -341,7 +341,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
         
-    *    [![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
+    *    [![](/wp-content/themes/yootheme/cache/59/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-59986353.png) ![](/wp-content/themes/yootheme/cache/59/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-59986353.png)
         
         Underthrow Series
         
@@ -384,25 +384,25 @@ Enable Dark Mode
     
     More Links
     
-    *    [![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg) ![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/ae/pexels-lilartsy-1925536-ae11127d.jpeg) ![](/wp-content/themes/yootheme/cache/ae/pexels-lilartsy-1925536-ae11127d.jpeg)
         
         Our Mission
         
         Read more](https://www.theadvocates.org/libertarian/)
         
-    *    [![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg) ![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/17/pexels-photo-271168-17a00cfb.jpeg) ![](/wp-content/themes/yootheme/cache/17/pexels-photo-271168-17a00cfb.jpeg)
         
         Donate
         
         Read more](https://www.theadvocates.org/donate/)
         
-    *    [![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg) ![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/ac/photo-1521790797524-b2497295b8a0-scaled-ace131f2.jpeg) ![](/wp-content/themes/yootheme/cache/ac/photo-1521790797524-b2497295b8a0-scaled-ace131f2.jpeg)
         
         Be A Patron
         
         Read more](https://www.theadvocates.org/liberal/)
         
-    *    [![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg) ![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/53/pexels-photo-4855351-scaled-53e5f57c.jpeg) ![](/wp-content/themes/yootheme/cache/53/pexels-photo-4855351-scaled-53e5f57c.jpeg)
         
         Shop
         
