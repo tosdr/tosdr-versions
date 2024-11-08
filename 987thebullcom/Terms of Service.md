@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Miles On ItKane Brown Ft Marshmello<br><br>10:38am |
-| You ProofMorgan Wallen<br><br>10:36am |
-| Buy DirtJordan Davis Ft Luke Bryan<br><br>10:33am |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:29am |
-| Try That In A Small TownJason Aldean<br><br>10:26am |
+| I Never LieZach Top<br><br>4:41pm |
+| Whiskey On YouNate Smith<br><br>4:37pm |
+| When It Rains It PoursLuke Combs<br><br>4:33pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:30pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,17 +362,17 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
+Sports • Midwest
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Spanish • Western
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
