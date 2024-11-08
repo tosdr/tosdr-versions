@@ -14,7 +14,7 @@
     
     [Digital
     
-    Omni-channel customer engagement across channels](https://www.alchemer.com/digital/)
+    Collect real-time digital feedback from your website or app](https://www.alchemer.com/digital/)
     
     [Pulse ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033%2020'%3E%3C/svg%3E)
     
@@ -25,6 +25,10 @@
     [Workflow
     
     Fastest, easiest, and most effective way to close the loop](https://www.alchemer.com/workflow/)
+    
+    [Integrations
+    
+    Put feedback and data to work, in the systems you already use](https://www.alchemer.com/integrations/)
     
     Services
     
@@ -39,10 +43,6 @@
     [Training
     
     Product training for every level, at every stage](https://www.alchemer.com/training/)
-    
-    [Integrations
-    
-    Put feedback and data to work, in the systems you already use](https://www.alchemer.com/integrations/)
     
 * Solutions
     
