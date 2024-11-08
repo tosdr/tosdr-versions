@@ -1,6 +1,6 @@
 5.39.5
 
-1731054591431
+1731077565597
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1731055637214
+1731075938033
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1731055391162
+1731077369354
 
 You need to enable JavaScript to run this app.
 
@@ -62,8 +62,8 @@ Search product or brand
 * [baby](https://www.next.co.uk/newborn "BABY")
 * [brands](https://www.next.co.uk/branded "BRANDS")
 * [furniture](https://www.next.co.uk/furniture "FURNITURE")
-* [gifts](https://www.next.co.uk/gift-ideas "GIFTS")
 * [beauty](https://www.next.co.uk/beauty "BEAUTY")
+* [gifts](https://www.next.co.uk/gift-ideas "GIFTS")
 * [sports](https://www.next.co.uk/sports "SPORTS")
 * [luxury brands](https://www.next.co.uknull/ "Luxury Brands")
 * [clearance](https://www.next.co.uk/clearance "CLEARANCE")
@@ -549,6 +549,61 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
 
+### Bath & Body Works UK Social Media Competition
+
+**Promoter:** The promoter is Next Beauty Limited (Company no. 04521150) whose registered office is at Desford Road, Enderby, Leicester, LE19 4AT (‘Next and Bath & Body Works’).
+
+**Eligibility:** This competition is open to UK residents aged 18 or over, excluding employees of Next and Bath & Body Works, their holding or subsidiary companies, and their immediate family.
+
+**Start date/Time:** 09:00 on 08.11.2024
+
+**Closing date/Time:** 17:00 on 15.11.2024
+
+**How to Enter:**
+
+* Follow @bathandbodyworksuk on the relevant channel they are entering from (Instagram or TikTok).
+* Like the relevant competition post.
+* Tag 3 friends.
+
+No purchase necessary. Multiple entries are permitted. Entries made after 17:00 on 15.11.2024 will not be counted. Next does not accept responsibility for entries not received for whatever reason.
+
+**Prize:** 1x £100 Bath & Body Works gift card. Gift cards are valid for 12 months and can be redeemed against Bath & Body Works products online at next.co.uk or in Bath & Body Works UK stores.
+
+**Winner Selection:** One winner will be selected at random by @bathandbodyworksuk on 18.11.2024 and contacted directly via direct message before 17:00 on 22.11.2024.
+
+**Notification:** Next will notify the winner only on the account they entered (Instagram or TikTok) via the official account @bathandbodyworksuk. This competition is in no way endorsed, affiliated with, administered, or sponsored by Meta or TikTok.
+
+**Prize Claim:** The winner must confirm their acceptance of the prize within 7 days of notification and provide the information requested by Next. If the winner fails to respond, Next reserves the right to select a reserve winner at random. Next does not accept any responsibility if the winner fails to claim the prize.
+
+**Prize Dispatch:** Next will send the prize to the winner via post to the address provided within 14 working days of the prize being claimed. Next does not accept responsibility for any incorrect details provided by the winner.
+
+**Substitute Prize:** In the event of unforeseen circumstances, Next reserves the right to substitute the prize for an alternative of equal or greater value.
+
+**Non-Transferable:** The prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the winner as specified in these terms and conditions.
+
+**Final Decision:** Next’s decision is final, and no correspondence will be entered into.
+
+**Verification:** Next reserves the right to verify entries and participants’ eligibility, including requesting address and identity details. Next may disqualify participants where reasonable grounds exist to believe they have breached these terms, gained unfair advantage, or won using fraudulent means.
+
+**Publicity:** By entering, participants agree to being contacted for competition purposes and agree to their personal details being used to administer the competition. The winner agrees to participate in publicity arising from the promotion, including the use of their name and image in a competition announcement post. If you object to any or all of your details being published, please contact [nextofficial@next.co.uk](mailto:nextofficial@next.co.uk).
+
+**Event Changes:** Events beyond Next's control may result in the modification or withdrawal of the competition. Next holds no liability in such cases.
+
+**Content Use:** By submitting any content, you grant Next a non-exclusive, royalty-free, worldwide, perpetual, irrevocable, sublicensable right to use, modify, and display such content for promotional purposes. This includes the right to use the content on our social media platforms without compensation, credit, or notice, and you waive any moral rights in such content to the extent permitted by law.
+
+**Limitation of Liability:** To the fullest extent permitted by law, Next excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner as a result of accepting the prize, except where it is caused by the negligence of Next, their agents, distributors, or employees. Your statutory rights are not affected.
+
+**Governing Law:** The competition and these terms and conditions are governed by English law, and the parties submit to the exclusive jurisdiction of the English courts.
+
+**Winner Details:** For 14 days after the competition ends, details of the winner will be available by writing to Next Marketing, Desford Road, Enderby, Leicester, LE19 4AT. Next will provide these details to the Advertising Standards Authority upon request.
+
+### £10 off on Selected Estee Lauder Promotion
+
+* Up to £10 off on selected Estee Lauder products.
+* Discounted price visible on product listing page and product already includes saving.
+* Item will be added to basket at discounted price.
+* Offer available while stocks last.
+
 ### Moroccanoil Promotion
 
 The Moroccanoil Free Gift will be automatically added to bag when you buy any 2 selected Moroccanoil products. The Moroccanoil Gift contains:
@@ -699,16 +754,6 @@ The promotion can only be used by the account holder and you must be logged in t
 This offer is not available to staff.
 
 Offer applies while stocks
-
-### 25% off on Selected Bath & Body Works Bodycare Promotion
-
-Up to 25% off on selected Bath & Body Works bodycare products.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
 
 ### Love & Roses Winter Coat November 2024 Competition
 
@@ -2814,7 +2859,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1731054690221
+1731076524002
 
 ### Our Social Networks
 
