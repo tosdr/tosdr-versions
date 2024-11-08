@@ -4,7 +4,7 @@
 * [Higher Ed](https://www.socrative.com/higher-ed/)
 * [Corporate](https://www.socrative.com/corporate/)
 * [Pricing](https://www.socrative.com/plans/)
-* [Apps](https://www.socrative.com/apps/)
+* [Apps](https://www.socrative.com/download-app/)
 * [Blog](https://www.socrative.com/blog/)
 * [Support](https://help.socrative.com/)
 * [Contact Sales](https://showbie.typeform.com/soccontact#source=socrative.com&medium=header_button&campaign=xxxxx&term=xxxxx) [Login](#login)
@@ -13,7 +13,7 @@
 * [Higher Ed](https://www.socrative.com/higher-ed/)
 * [Corporate](https://www.socrative.com/corporate/)
 * [Pricing](https://www.socrative.com/plans/)
-* [Apps](https://www.socrative.com/apps/)
+* [Apps](https://www.socrative.com/download-app/)
 * [Blog](https://www.socrative.com/blog/)
 * [Support](https://help.socrative.com/)
 * [Contact Sales](https://showbie.typeform.com/soccontact#source=socrative.com&medium=header_button&campaign=xxxxx&term=xxxxx)
@@ -257,7 +257,7 @@ Get In Touch
 Get the app
 -----------
 
-* [Get the app](https://www.socrative.com/apps/)
+* [Get the app](https://www.socrative.com/download-app/)
 * [Upgrade to PRO](https://www.socrative.com/plans/)
 
 [Student Login](https://b.socrative.com/login/student/) [Teacher Login](https://b.socrative.com/login/teacher/)
