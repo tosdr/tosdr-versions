@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
 
 Service Stiftung Warentest
 
