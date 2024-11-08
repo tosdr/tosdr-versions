@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Abstract Online (Web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/abstract-online-web.jpg?width=1920&height=1085&quality=80)
+
+### Open letter to UK online service providers regarding Generative AI and chatbots
+
+8 November 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/open-letter-to-uk-online-service-providers-regarding-generative-ai-and-chatbots/)
+
 [![Close up shot of a radio microphone in a radio studio](/siteassets/resources/images/-news-centre/thumbnail-images/radio/close-up-shot-of-a-radio-microphone-in-a-radio-studio.jpg?width=1920&height=1085&quality=80)
 
 ### Community Radio Fund 2024-25 open for applications R2
@@ -151,13 +157,7 @@
 
 31 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-fines-gb-news/)
 
-[![delivery driver hero](/siteassets/resources/images/-news-centre/thumbnail-images/post/delivery-driver-hero.png?width=1920&height=1085&quality=80)
-
-### Best and worst parcel firms for customer service satisfaction revealed
-
-28 October 2024](https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-service-satisfaction-revealed/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
