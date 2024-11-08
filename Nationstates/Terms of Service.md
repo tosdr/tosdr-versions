@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Out of the 2 AN’s: Which one has the… (4,139)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (4,139 posts)")
-* [Ukrainian War VII: Everything has a p… (8,922)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,922 posts)")
-* [American Politics: Turnabout Trump (1,388)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (1,388 posts)")
-* [Which "Dere" is AN/AU? (247)](https://forum.nationstates.net/viewtopic.php?t=557828&f=25&view=unread#unread ""Which "Dere" is AN/AU?" (247 posts)")
-* [Cavirfi and Crabaiaia News Thread (CA… (198)](https://forum.nationstates.net/viewtopic.php?t=500433&f=4&view=unread#unread ""Cavirfi and Crabaiaia News Thread (CAVIRFI ONLY)" (198 posts)")
+* [2 Truths & a Lie (146)](https://forum.nationstates.net/viewtopic.php?t=557674&f=25&view=unread#unread ""2 Truths & a Lie" (146 posts)")
+* [YOU'RE FIRED! (642)](https://forum.nationstates.net/viewtopic.php?t=555261&f=25&view=unread#unread ""YOU'RE FIRED!" (642 posts)")
+* [Your favorite part of AN’s forum sig XI (4,313)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (4,313 posts)")
+* [American Politics: Turnabout Trump (1,490)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (1,490 posts)")
+* [The Amsterdam Pogrom (88)](https://forum.nationstates.net/viewtopic.php?t=558081&f=20&view=unread#unread ""The Amsterdam Pogrom" (88 posts)")
 
 Advertisement
 
