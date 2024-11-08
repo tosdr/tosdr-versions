@@ -102,6 +102,7 @@ Error
 * [Applicant Terms of Use](#contract-skxc4ktljx)
 * [mg - la - con-648](#contract-xmifpf3vk)
 * [Income Verification Terms of Use](#contract-sjctngdzke)
+* [Tokenized Authorization (B2B) - EN (MG test)](#contract-iqyzulv6g)
 
 Test Contract 2
 ---------------
@@ -2602,7 +2603,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 7th 2024
+##### Effective November 8th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6177,6 +6178,35 @@ These terms of use are subject to change from time to time. Certn will notify yo
 You consent to receive any agreements, notices, disclosures and other communications (collectively, “**Notices**”) to which these Terms refer electronically including without limitation by e-mail or by posting notices with the Services. You agree that all Notices provided electronically satisfy any legal requirement that such communications be in writing.
 
 If you have any questions about these Terms, you can contact customer support via email at [support@certn.co](mailto:support@certn.co).
+
+Tokenized Authorization (B2B) - EN (MG test)
+--------------------------------------------
+
+### Version 2.0
+
+##### Effective November 8th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672ddca5f900cb502740db7e.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**AUTHORIZATION**
+
+To evaluate your suitability for {{purpose}} , {{company\_name}} (the "**Company**") has asked [Certn](https://certn.co/) to assemble and return a consumer report (your "**Report**") consisting of: {{services\_list}} .
+
+Certn will collect the following personal information for the purpose of completing the Report: {{personal\_information\_list}}.{{#if data\_providers\_list}} Certn may collect Personal Information directly from you, the Company or third parties such as {{data\_providers\_list}}{{else}} Certn may collect Personal Information directly from you or the Company {{/if}}. Certn will compare information received from different sources for consistency.
+
+It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Your Personal Information may be handled by our employees and contractors in Canada, Australia, the U.S., the U.K., South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+
+You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
+
+  
+
+  
 
 * * *
 
