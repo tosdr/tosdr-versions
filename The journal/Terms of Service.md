@@ -21,6 +21,7 @@ Close
 * [Voices](https://www.thejournal.ie/voices/)
 * [Investigates](https://www.thejournal.ie/investigates/)
 * [J-TV](https://www.thejournal.ie/tv/)
+* [GE2024](https://www.thejournal.ie/section/ge24/)
 
 [Support Us](https://www.thejournal.ie/contribute?utm_source=thejournal&utm_medium=masthead)
 
@@ -30,7 +31,7 @@ Close
 
 sections
 
-[Voices](https://www.thejournal.ie/voices/) [FactCheck](https://www.thejournal.ie/factcheck/news/) [Investigates](https://www.thejournal.ie/investigates/) [Quizzes](https://www.thejournal.ie/quiz/news/) [Money Diaries](https://www.thejournal.ie/money-diaries/news/) [Explainers](https://www.thejournal.ie/explainer/news/) [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/) [Allianz Home Magazine](https://www.thejournal.ie/magazine/home/) [The Journal TV](https://www.thejournal.ie/tv/)
+[Voices](https://www.thejournal.ie/voices/) [FactCheck](https://www.thejournal.ie/factcheck/news/) [Investigates](https://www.thejournal.ie/investigates/) [Quizzes](https://www.thejournal.ie/quiz/news/) [Money Diaries](https://www.thejournal.ie/money-diaries/news/) [Explainers](https://www.thejournal.ie/explainer/news/) [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/) [Allianz Home Magazine](https://www.thejournal.ie/magazine/home/) [The Journal TV](https://www.thejournal.ie/tv/) [GE2024](https://www.thejournal.ie/section/ge24/)
 
 topics
 
@@ -296,6 +297,7 @@ Sections
 * [Allianz Home Magazine](https://www.thejournal.ie/magazine/home/)
 * [Money Diaries](https://www.thejournal.ie/money-diaries/news/)
 * [The Journal TV](https://www.thejournal.ie/tv/)
+* [GE2024](https://www.thejournal.ie/section/ge24/)
 
 Journal Media
 
