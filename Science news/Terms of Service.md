@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Bees flying near cars are dying by the millions, a roadkill study suggests](https://www.sciencenews.org/article/bees-cars-dying-roadkill)
             
-            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")15 hours ago
+            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")21 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Meet Chonkus, the mutant cyanobacteria that could help sink climate change](https://www.sciencenews.org/article/chonkus-climate-change-cyanobacteria)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")13 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")19 hours ago
             
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")17 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
             
         * [Tech](https://www.sciencenews.org/topic/tech)
             
@@ -186,21 +186,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
+            ### [A cosmic census triples the known number of black holes in dwarf galaxies](https://www.sciencenews.org/article/census-black-holes-dwarf-galaxies)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")31 mins ago
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
             ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")17 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [A zombie star’s spiky filaments shed light on a 12th century supernova](https://www.sciencenews.org/article/zombie-star-supernova-filaments)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 4, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [50 years ago, scientists found a new moon orbiting Jupiter](https://www.sciencenews.org/article/50-years-ago-jupiter-new-moon)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 1, 2024
             
 
 Terms of Service
