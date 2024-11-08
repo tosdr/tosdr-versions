@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-609e5a07537e7839a980e40bf2a80760
+a0f869fbb2111c0c4bf448fc2a7ecff8
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![14 mm by 12 mm celery green coin pearls](https://sojourner.biz/images/cache/pearls/PE0084.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-by-12-mm-celery-green-coin-pearls.html "14 mm by 12 mm celery green coin pearls")
+[![16 mm to 20 mm turquoise nuggets](https://sojourner.biz/images/cache/stone/TU0003.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/16-mm-to-20-mm-turquoise-nuggets.html "16 mm to 20 mm turquoise nuggets")
 
-#### [14 mm by 12 mm celery green coin pearls](https://sojourner.biz/beads/pearls/14-mm-by-12-mm-celery-green-coin-pearls.html "14 mm by 12 mm celery green coin pearls")
+#### [16 mm to 20 mm turquoise nuggets](https://sojourner.biz/beads/stone-m-z/turquoise/16-mm-to-20-mm-turquoise-nuggets.html "16 mm to 20 mm turquoise nuggets")
 
-$18.00
+$36.00
 
 ### Best Sellers
 
