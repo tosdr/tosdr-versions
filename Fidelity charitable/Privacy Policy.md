@@ -2,9 +2,11 @@
 
 [×](#)
 
-WEBINAR: Maximize Your Impact: Tax-Savvy Giving With Donor-Advised Funds
+   ![](/content/dam/fc-public/site-design-assets/icons/white-banner-icon.png/_jcr_content/renditions/viewport-max-p.png)
 
-[Register now](https://www.fidelitycharitable.org/events/maximize-your-impact.html)
+**Time is running out to make tax-deductible contributions in 2024. Review our year-end [contribution guidelines](https://www.fidelitycharitable.org/giving-account/what-you-can-donate/charitable-year-end-tax-deadlines.html).**
+
+**[Review our year-end contribution guidelines](https://www.fidelitycharitable.org/giving-account/what-you-can-donate/charitable-year-end-tax-deadlines.html)**
 
 [×](#)
 
@@ -240,6 +242,16 @@ Resources
 
 [](https://www.youtube.com/channel/UCuwvrUNA0mvnNUOn8w6KyBA)
 
+[Site map](https://www.fidelitycharitable.org/site-map.html)
+
+[Legal note](https://www.fidelitycharitable.org/legal/legal-note.html)
+
+[Privacy policy](https://www.fidelitycharitable.org/legal/privacy-policy.html)
+
+[Cookie policy](https://www.fidelitycharitable.org/legal/privacy-policy.html#cookies)
+
+©1998-2024 FMR LLC. All rights reserved. Portions © 1998-2024 Fidelity Investments Charitable Gift Fund. All rights reserved. _Fidelity Investments® Charitable Gift Fund is recognized as a tax-exempt public charity as described in Sections 501(c)(3), 509(a)(1), and 170(b)(1)(A)(vi) of the Internal Revenue Code._
+
 Want more info before you open a Giving Account?
 
 Sign up to receive occasional news, information, and tips that support smarter giving impact through a donor-advised fund.
@@ -257,13 +269,3 @@ Subscribe
 Check your inbox soon for our monthly email newsletter.
 
 * * *
-
-[Site map](https://www.fidelitycharitable.org/site-map.html)
-
-[Legal note](https://www.fidelitycharitable.org/legal/legal-note.html)
-
-[Privacy policy](https://www.fidelitycharitable.org/legal/privacy-policy.html)
-
-[Cookie policy](https://www.fidelitycharitable.org/legal/privacy-policy.html#cookies)
-
-©1998-2024 FMR LLC. All rights reserved. Portions © 1998-2024 Fidelity Investments Charitable Gift Fund. All rights reserved. _Fidelity Investments® Charitable Gift Fund is recognized as a tax-exempt public charity as described in Sections 501(c)(3), 509(a)(1), and 170(b)(1)(A)(vi) of the Internal Revenue Code._
