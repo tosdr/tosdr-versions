@@ -128,12 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [WPL 2025 Retentions](https://www.news18.com/cricket/wpl-2025-player-retention-live-updates-deadline-full-list-rcb-mi-dc-upw-gg-november-7-mandhana-harmanpreet-lanning-mooney-healy-liveblog-9112494.html)
-    * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
     * [Canada Visa Policy](https://www.news18.com/world/canada-overhauls-visa-policy-ends-ten-year-tourist-visa-validity-9112143.html)
-    * [Donald Trump](https://www.news18.com/world/new-faces-loyal-allies-trump-taps-tulsi-gabbard-elon-musk-rfk-jr-for-transition-9111747.html)
-    * [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-varun-dhawan-and-samantha-ruth-prabhus-steamy-kiss-scene-goes-viral-9112070.html)
+    * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
+    * [H1B Jitters](https://www.news18.com/india/why-trump-2-0-is-special-for-india-9111677.html)
+    * [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
     * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
+    * [US Elections](https://www.news18.com/world/nevada-arizona-election-results-swing-states-slow-counting-mail-in-ballot-donald-trump-kamala-harris-9112842.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +170,13 @@ Follow us on
 
 In Trends:
 
-* [WPL 2025 Retentions](https://www.news18.com/cricket/wpl-2025-player-retention-live-updates-deadline-full-list-rcb-mi-dc-upw-gg-november-7-mandhana-harmanpreet-lanning-mooney-healy-liveblog-9112494.html)
-* [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
 * [Canada Visa Policy](https://www.news18.com/world/canada-overhauls-visa-policy-ends-ten-year-tourist-visa-validity-9112143.html)
-* [Donald Trump](https://www.news18.com/world/new-faces-loyal-allies-trump-taps-tulsi-gabbard-elon-musk-rfk-jr-for-transition-9111747.html)
-* [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-varun-dhawan-and-samantha-ruth-prabhus-steamy-kiss-scene-goes-viral-9112070.html)
+* [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
+* [H1B Jitters](https://www.news18.com/india/why-trump-2-0-is-special-for-india-9111677.html)
+* [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
 * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
+* [US Elections](https://www.news18.com/world/nevada-arizona-election-results-swing-states-slow-counting-mail-in-ballot-donald-trump-kamala-harris-9112842.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
