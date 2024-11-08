@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![A Christmas Carol(ish). David Elms. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/d/david_elms_christmas_carol_ish.jpg "A Christmas Carol(ish). David Elms. Credit: Matt Crockett")](https://www.comedy.co.uk/live/fgwg/david-elms/) Live
+
+[First Gig, Worst Gig: David Elms](https://www.comedy.co.uk/live/fgwg/david-elms/)
+
 [![Rhys James. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/r/rhys_james_2022.jpg "Rhys James. Credit: Matt Crockett")](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/) Shop
 
 [Rhys James talks about his Spilt Milk special](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_full_monty.jpg "The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)")](https://www.comedy.co.uk/quiz/331/) Quiz
 
 [British Comedy Quiz #331](https://www.comedy.co.uk/quiz/331/)
-
-[![Juno Birch. Credit: Emma Jones](https://cdn.comedy.co.uk/images/library/people/300x200/j/juno_birch.jpg "Juno Birch. Credit: Emma Jones")](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/) Live
-
-[Probing Juno Birch about her show](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/)
 
 #### Subscribe to our newsletters
 
