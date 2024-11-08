@@ -10,7 +10,45 @@ Welcome to the
 
 [Samsung](https://www.samsung.com/us/ "Samsung")
 
+[Log In/Sign Up](javascript:;)
+
+[](https://account.samsung.com/membership/contents/profile/profile-gate)
+
+* Shop
+* AI
+* Mobile
+* TV & Audio
+* Appliances
+* Computing
+* Displays
+* Accessories
+* SmartThings
+
+* Explore
+* Support
+* For Business
+
 Search
+
+[Navigate to Cart](https://www.samsung.com/us/web/express/cart/)
+
+Manage Account
+
+* [Sign in/Create Account](javascript:;)
+* [Why Create an Account?](https://www.samsung.com/us/samsung-account-benefits/)
+* [Track your orders](https://www.samsung.com/us/web/search-orders/)
+* [Business Account](https://www.samsung.com/us/business/account/login/)
+
+Manage Account
+
+* [](https://account.samsung.com/membership/contents/profile/profile-gate)
+* [My Orders](https://www.samsung.com/us/web/my-orders/)
+* [My Page & Products](https://www.samsung.com/us/support/account/products/)
+* [My Referrals](https://www.samsung.com/us/web/account/my-referrals/)
+* [My Rewards](https://www.samsung.com/us/web/account/my-rewards/)
+* [Product Registration](https://www.samsung.com/us/support/register/)
+* [Samsung Account](https://v3.account.samsung.com/dashboard/)
+* [Log Out](javascript:;)
 
 Hamburger
 
@@ -46,18 +84,6 @@ Are you sure to remove this product?
 Move to wish list Delete
 
 Layer Popup Close
-
-Privacy Policy
-
-Tick this box to proceed to Samsung.com.
-
- By ticking this box, I accept Samsung Service Updates, including :
-
-Samsung.com Services and marketing information, new product and service announcements as well as special offers, events and newsletters.
-
-PROCEED TO SAMSUNG.COM LEAVE PAGE
-
-Close Privacy Policy
 
 Check Preferences
 
