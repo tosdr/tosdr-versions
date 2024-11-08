@@ -20,20 +20,20 @@ Search
 
 * [About the Division](https://www.floridadisaster.org/dem/)
     * [About the Division](https://www.floridadisaster.org/dem/about-the-division/)
-    * [Director's Office](https://www.floridadisaster.org/dem/directors-office/)
-        * [Meet The Director](https://www.floridadisaster.org/dem/directors-office/FDEMdirector/)
-        * [Media](https://www.floridadisaster.org/dem/directors-office/media/)
-        * [Inspector General](https://www.floridadisaster.org/dem/directors-office/inspector-general/)
-        * [Legal](https://www.floridadisaster.org/dem/directors-office/legal/)
-            * [Emergency Orders](https://www.floridadisaster.org/dem/directors-office/legal/emergency-orders/)
-            * [Open Government](https://www.floridadisaster.org/dem/directors-office/legal/open-government/)
-            * [2024-2025 FDEM Regulatory Plan](https://www.floridadisaster.org/dem/directors-office/legal/2023-2024-fdem-regulatory-plan/)
-            * [Florida Disaster Legal Aid Helpline](https://www.floridadisaster.org/dem/directors-office/legal/florida-disaster-legal-aid-helpline/)
-        * [Military Liaison](https://www.floridadisaster.org/dem/directors-office/military-liaison/)
-        * [Regional Coordinators](https://www.floridadisaster.org/dem/directors-office/regions/)
-        * [Work Opportunities at the Division of Emergency Management](https://www.floridadisaster.org/dem/directors-office/current-job-openings/)
-        * [Internships](https://www.floridadisaster.org/dem/directors-office/interns/)
-            * [Internship FAQs](https://www.floridadisaster.org/dem/directors-office/interns/faqs/)
+    * [Executive Director's Office](https://www.floridadisaster.org/dem/Executive-directors-office/)
+        * [Meet The Executive Director](https://www.floridadisaster.org/dem/Executive-directors-office/FDEMdirector/)
+        * [Media](https://www.floridadisaster.org/dem/Executive-directors-office/media/)
+        * [Inspector General](https://www.floridadisaster.org/dem/Executive-directors-office/inspector-general/)
+        * [Legal](https://www.floridadisaster.org/dem/Executive-directors-office/legal/)
+            * [Emergency Orders](https://www.floridadisaster.org/dem/Executive-directors-office/legal/emergency-orders/)
+            * [Open Government](https://www.floridadisaster.org/dem/Executive-directors-office/legal/open-government/)
+            * [2024-2025 FDEM Regulatory Plan](https://www.floridadisaster.org/dem/Executive-directors-office/legal/2023-2024-fdem-regulatory-plan/)
+            * [Florida Disaster Legal Aid Helpline](https://www.floridadisaster.org/dem/Executive-directors-office/legal/florida-disaster-legal-aid-helpline/)
+        * [Military Liaison](https://www.floridadisaster.org/dem/Executive-directors-office/military-liaison/)
+        * [Regional Coordinators](https://www.floridadisaster.org/dem/Executive-directors-office/regions/)
+        * [Work Opportunities at the Division of Emergency Management](https://www.floridadisaster.org/dem/Executive-directors-office/current-job-openings/)
+        * [Internships](https://www.floridadisaster.org/dem/Executive-directors-office/interns/)
+            * [Internship FAQs](https://www.floridadisaster.org/dem/Executive-directors-office/interns/faqs/)
     * [Financial Management](https://www.floridadisaster.org/dem/finance/)
         * [Budget](https://www.floridadisaster.org/dem/finance/budget/)
         * [Disbursement](https://www.floridadisaster.org/dem/finance/disbursement/)
@@ -68,6 +68,7 @@ Search
     * [Preparedness](https://www.floridadisaster.org/dem/preparedness/)
         * [Grants Unit](https://www.floridadisaster.org/dem/preparedness/grants-unit/)
             * [Nonprofit Security Grant Program (NSGP)](https://www.floridadisaster.org/dem/preparedness/grants-unit/nonprofit-security-grant-program-nsgp/)
+                * [Nonprofit Security Grant Program-National Security Supplemental Application](https://www.floridadisaster.org/dem/preparedness/grants-unit/nonprofit-security-grant-program-nsgp/nonprofit-security-grant-program-national-security-supplemental-application/)
             * [State Nonprofit Security Grant Program](https://www.floridadisaster.org/dem/preparedness/grants-unit/state-nonprofit-security-grant-program/)
             * [Urban Area Security Initiative (UASI)](https://www.floridadisaster.org/dem/preparedness/grants-unit/urban-area-security-initiative--uasi/)
             * [Environmental Planning and Historic Preservation (EHP) Compliance Webinar Recording](https://www.floridadisaster.org/dem/preparedness/grants-unit/environmental-planning-and-historic-preservation-ehp-compliance-webinar-recording/)
@@ -226,9 +227,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, November 7, 2024**
+**Friday, November 8, 2024**
 
-**...High Pressure and Lingering Tail of Moisture from Hurricane Rafael to Allow For Isolated to Scattered Showers and Thunderstorms Across the State Today...Marginal Risk for Flash Flooding Along the Eastern Panhandle and Big Bend As Abundant Moisture Gives Way to Locally Heavy Downpours Over Already Saturated Grounds At Times; Flood Watch Remains In Effect For Madison and** **Inland Jefferson** **Counties...High Risk for Rip Currents, Ocean Swells, and Hazardous Beach and Boating Conditions Persist Statewide Today...Minor Saltwater Flooding Remains Possible Along the Keys At Times of High Tide...Mostly Dry Conditions Return Tonight As High Pressure Builds Westward With Isolated to Widely Scattered Showers Continuing Across North Florida...Areas of Patchy to Locally Dense Fog Possible Across North and Central Florida Overnight and Early Friday Morning...Minor to Moderate Flooding Persists Along Portions of the Withlacoochee and St. Johns Rivers...**
+**...Mostly Dry Conditions Return o South Florida and The Western Peninsula Today Thanks to High Pressure...Lingering Moisture and A Stalled Frontal Boundary to the North of Florida To Create Isolated Showers Across North Florida Throughout the Day...Breezy Onshore Winds to Allow For Isolated Showers Along the East Coast Throughout the Day...Hazardous Beach and Boating Conditions Continue Along the Florida Panhandle Due to Breezy Winds and Ocean Swells...Moderate to High Risk For Rip Currents Persists Statewide****...Minor to Moderate Flooding Continues Along Portions of the Withlacoochee and St. Johns Rivers...Areas of Patchy to Locally Dense Fog Possible Across North and Central Florida Overnight and Early Saturday Morning...NHC Continues to Monitor Major Hurricane Rafael and A Disturbance Near the Greater Antilles (20%)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
@@ -238,6 +239,6 @@ Dial 711 (TDD/TTY)        
 * [Site Index](https://www.floridadisaster.org/site-index/)
 * [Search](https://www.floridadisaster.org/search/)
 * [FDEM Long Range Program Plan](http://floridafiscalportal.state.fl.us/Document.aspx?ID=26896&DocType=PDF)
-* [Open Government](https://www.floridadisaster.org/dem/directors-office/legal/open-government/)
+* [Open Government](https://www.floridadisaster.org/dem/Executive-directors-office/legal/open-government/)
 * [Annual Regulatory Plan](https://www.floridadisaster.org/globalassets/dem/director/legal/2021-2022-annual-rulemaking-and-regulatory-plan--certification.pdf "Annual Regulatory Plan")
 * [Employment](https://jobs.myflorida.com/go/Emergency-Management/2816300)
