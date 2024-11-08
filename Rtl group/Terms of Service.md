@@ -315,6 +315,14 @@ Europe's leading entertainment brand
     
     In the latest episode of _RTL stories – The podcast_, Isabell Ostermann, Senior Director Brand Management and Communications at RTL Group, discusses the RTL United rebranding project and balancing motherhood.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Isabell-Ostermann/)
     
+* [![slide-TV Key Facts 2024](/.galleries/images/TV-Key-Facts-2024_16-9.png?__scale=undefined&description=)
+    
+    TV Key Facts 2024
+    
+    07.11.2024
+    
+    RTL AdAlliance presented findings from its 2024 TV Key Facts report – which focuses on the convergence of human creativity and technology – during a live event.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/TV-Key-Facts-2024/)
+    
 * [![slide-Covering the US election](/.galleries/images/US-elections_16-9.png?__scale=undefined&description=)
     
     Covering the US election
@@ -338,30 +346,6 @@ Europe's leading entertainment brand
     31.10.2024
     
     UFA renames its Hungarian production unit to UFA Produkció and appoints Emese Ács and Ute Biernat as Co-Managing Directors.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/UFA-expands-in-Hungary/)
-    
-* [![slide-Fremantle sells <i>Nightsleeper</i> in 147 territories](/.galleries/images/Nightsleeper_16-9.jpg?__scale=undefined&description=)
-    
-    Fremantle sells _Nightsleeper_ in 147 territories
-    
-    31.10.2024
-    
-    After becoming a big hit on the BBC, real-time thriller _Nightsleeper_ from Fremantle’s Euston Films will launch in 147 territories worldwide.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-sells-Nightsleeper-in-147-territories/)
-    
-* [![slide-A new chapter for <i>Stern</i>](/.galleries/images/Relaunch-Stern-v2_16-9.jpg?__scale=undefined&description=)
-    
-    A new chapter for _Stern_
-    
-    30.10.2024
-    
-    A visually powerful design, modified structure and expanded content: RTL Deutschland has relaunched the website and app for its leading current affairs brand _Stern_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-chapter-for-Stern/)
-    
-* [![slide-Medientage München 2024](/.galleries/images/Medientage-Muenchen-2024_16-9.png?__scale=undefined&description=)
-    
-    Medientage München 2024
-    
-    28.10.2024
-    
-    Trends, innovations and ongoing challenges facing the TV and media industry: RTL Group executives participated in panel discussions at one of Europe’s leading conferences, which focused on the role of media in an AI-driven world.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Medientage-Muenchen-2024/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
