@@ -190,26 +190,16 @@
 
 Subscribe
 
-[#### Nutrition](https://www.healthline.com/nutrition)
+[#### Menopause](https://www.healthline.com/menopause)
 
-* Meal Kits
-    
-    * [Overview](https://www.healthline.com/nutrition/meal-kits)
-    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
-    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
-    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
-    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
-    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
-    
-* [Special Diets](https://www.healthline.com/nutrition/diets)
-* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
-* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
-* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
-* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
-* [Products](https://www.healthline.com/reviews/nutrition-products)
-* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
-* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
-* [Weight Management](https://www.healthline.com/nutrition/weight-management)
+* [Treatment](https://www.healthline.com/menopause/treatment)
+* [Symptom Management](https://www.healthline.com/menopause/symptom-management)
+* [Weight Management](https://www.healthline.com/menopause/weight-management-nutrition)
+* [Holistic Health](https://www.healthline.com/menopause/holistic-health)
+* [Mental Well-Being](https://www.healthline.com/menopause/mental-wellbeing)
+* [Navigating Intimacy](https://www.healthline.com/menopause/intimacy-and-relationships)
+* [Resources for Doctors' Visits](https://www.healthline.com/menopause/doctor-guide)
+* [Early Menopause](https://www.healthline.com/menopause/early-menopause)
 
 Privacy Policy
 ==============
