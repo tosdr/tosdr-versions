@@ -26,7 +26,7 @@
 
 [](https://amzn.to/2BA10no)
 
-[](https://amzn.to/2SjhDei)
+[](https://amzn.to/45JqVq9)
 
 [](https://drawabox.com/rec/proko/figuredrawing)
 
@@ -36,7 +36,7 @@ FOR 20% OFF
 
 SALE ENDS November 29th
 
-[](https://drawabox.com/rec/uncomfortable/whattodraw)
+[](https://drawabox.com/rec/zapata/shading)
 
 USE CODE BLACK20
 
