@@ -107,7 +107,7 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [The Fine Print](https://www.ramseysolutions.com/shows/the-fine-print?snid=shows.shows.the-fine-print)
         * [Smart Money Happy Hour](https://www.ramseysolutions.com/shows/smart-money-happy-hour?snid=shows.shows.smart-money-happy-hour)
         * [George Kamel](https://www.ramseysolutions.com/shows/george-kamel?snid=shows.shows.george-kamel)
-        * [Real Estate the Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way?snid=shows.shows.real-estate-the-ramsey-way)
+        * [Real Estate The Ramsey Way](https://www.ramseysolutions.com/shows/real-estate-the-ramsey-way?snid=shows.shows.real-estate-the-ramsey-way)
     
     * [See All Shows](https://www.ramseysolutions.com/shows?snid=shows-and-events.see-all-shows)
     * [Get the Ramsey Network App](https://www.ramseysolutions.com/shows/app?snid=shows-and-events.get-the-ramsey-network-app)
@@ -120,7 +120,7 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * Events and Conferences
         * [Money & Relationships Tour](https://www.ramseysolutions.com/events/the-money-and-relationships-tour?snid=events.events-and-conferences.the-money-and-relationships-tour)
-        * [Money & Marriage Getaway](https://www.ramseysolutions.com/events/money-and-marriage-getaway-valentines?snid=events.events-and-conferences.money-and-marriage-getaway-valentines)
+        * [Money and Marriage Getaway](https://www.ramseysolutions.com/events/money-and-marriage-getaway-valentines?snid=events.events-and-conferences.money-and-marriage-getaway-valentines)
         * [Live Like No One Else Cruise](https://www.ramseysolutions.com/events/live-like-no-one-else-cruise?snid=events.events-and-conferences.live-like-no-one-else-cruise)
         * [EntreLeadership Summit](https://www.ramseysolutions.com/shows/summit?snid=events.events-and-conferences.entreleadership-summit)
         * [EntreLeadership Master Series](https://www.ramseysolutions.com/shows/ems-livestream?snid=events.events-and-conferences.entreleadership-master-series)
@@ -172,7 +172,7 @@ Search Ramsey Solutions Search Ramsey Solutions
             * [Ramsey SmartTax](https://www.ramseysolutions.com/taxes/smarttax?snid=trusted-services.taxes.tax-services.ramsey-smarttax)
     
     * Be a Recommended Pro
-        * [RamseyTrusted®](https://www.ramseysolutions.com/trusted/become?snid=trusted-services.be-a-recommended-pro.ramseytrusted)
+        * [RamseyTrusted](https://www.ramseysolutions.com/trusted/become?snid=trusted-services.be-a-recommended-pro.ramseytrusted)
         * [SmartVestor](https://www.ramseysolutions.com/retirement/investing-pro?snid=trusted-services.be-a-recommended-pro.smartvestor)
     
     * [Find a RamseyTrusted® Pro](https://www.ramseysolutions.com/trusted?snid=ramsey-recommends.find-a-ramseytrusted-pro)
@@ -183,24 +183,11 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     Free Tools
     
-    * Getting Started
-        * [Get Started Assessment](https://www.ramseysolutions.com/get-started?snid=free-tools.getting-started.get-started-assessment)
-        * [Ramsey’s 7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps?snid=free-tools.getting-started.ramsey-7-baby-steps)
-        * [Ramsey Newsletter](https://www.ramseysolutions.com/newsletter?snid=free-tools.get-started.newsletter)
-    
     * Budgeting
         * [EveryDollar Budget App](https://www.ramseysolutions.com/ramseyplus/everydollar?snid=free-tools.budgeting.everydollar-budget-app)
         * [EveryDollar Guide to Budgeting](https://www.ramseysolutions.com/budgeting/guide-to-budgeting?snid=free-tools.budgeting.everydollar-guide-to-budgeting)
         * [Budgeting Forms](https://www.ramseysolutions.com/budgeting/useful-forms?snid=free-tools.budgeting.budgeting-forms)
         * [Budget Calculator](https://www.ramseysolutions.com/budgeting/budget-calculator?snid=free-tools.budgeting.budget-calculator)
-    
-    * Saving
-        * [14-Day Money Finder](https://www.ramseysolutions.com/saving/moneyfinder?snid=free-tools.saving.14-day-money-finder)
-        * [College Savings Calculator](https://www.ramseysolutions.com/saving/college-savings-calculator?snid=free-tools.college.college-savings-calculator)
-    
-    * Debt
-        * [Debt Snowball Calculator](https://www.ramseysolutions.com/debt/debt-calculator?snid=free-tools.debt.debt-snowball-calculator)
-        * [Student Loan Payoff Calculator](https://www.ramseysolutions.com/debt/student-loan-payoff-calculator?snid=free-tools.debt.student-loan-payoff-calculator)
     
     * Retirement
         * [Retirement Calculator](https://www.ramseysolutions.com/retirement/retirement-calculator?snid=free-tools.retirement.retirement-calculator)
@@ -211,9 +198,18 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [Investing Guide](https://www.ramseysolutions.com/retirement/ramsey-investing-guide?snid=free-tools.retirement.investment-guide)
         * [Estate Planning Guide](https://www.ramseysolutions.com/retirement/estate-planning-guide?snid=free-tools.retirement.estate-planning-guide)
     
+    * Debt
+        * [Debt Snowball Calculator](https://www.ramseysolutions.com/debt/debt-calculator?snid=free-tools.debt.debt-snowball-calculator)
+        * [Student Loan Payoff Calculator](https://www.ramseysolutions.com/debt/student-loan-payoff-calculator?snid=free-tools.debt.student-loan-payoff-calculator)
+    
     * Insurance
         * [Coverage Checkup](https://www.ramseysolutions.com/insurance/coverage-checkup-tool?snid=free-tools.insurance.coverage-checkup)
         * [Term Life Insurance Calculator](https://www.ramseysolutions.com/insurance/term-life-insurance-calculator?snid=free-tools.insurance.term-life-insurance-calculator)
+    
+    * Getting Started
+        * [Get Started Assessment](https://www.ramseysolutions.com/get-started?snid=free-tools.getting-started.get-started-assessment)
+        * [Ramsey’s 7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps?snid=free-tools.getting-started.ramsey-7-baby-steps)
+        * [Ramsey Newsletter](https://www.ramseysolutions.com/newsletter?snid=free-tools.get-started.newsletter)
     
     * Real Estate
         * [Mortgage Calculator](https://www.ramseysolutions.com/real-estate/mortgage-calculator?snid=free-tools.real-estate.mortgage-calculator)
@@ -221,25 +217,31 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [Cost of Living Calculator](https://www.ramseysolutions.com/real-estate/cost-of-living-calculator?snid=free-tools.real-estate.cost-of-living-calculator)
         * [Home Sellers Guide](https://www.ramseysolutions.com/real-estate/home-sellers-guide?snid=free-tools.real-estate.home-sellers-guide)
         * [Home Buyers Guide](https://www.ramseysolutions.com/real-estate/homebuyers-guide?snid=free-tools.real-estate.home-buyers-guide)
-        * [Am I Ready to Buy or Sell? Quiz](https://www.ramseysolutions.com/real-estate/am-i-ready-to-buy-or-sell?snid=free-tools.real-estate.am-i-ready-to-buy-or-sell-quiz)
+        * [Am I Ready to Buy or Sell Quiz](https://www.ramseysolutions.com/real-estate/am-i-ready-to-buy-or-sell?snid=free-tools.real-estate.am-i-ready-to-buy-or-sell-quiz)
     
-    * Wills
-        * [Online Will vs. Lawyer? Quiz](https://www.ramseysolutions.com/retirement/will/online-will-vs-lawyer-quiz?snid=free-tools.wills.online-will-vs-lawyer-quiz)
-    
-    * Taxes
-        * [Tax Pro or Self-File? Quiz](https://www.ramseysolutions.com/taxes/tax-services?snid=free-tools.taxes.tax-pro-or-self-file-quiz#tax-tool)
-        * [Tax Guide](https://www.ramseysolutions.com/taxes/tax-guide?snid=free-tools.taxes.tax-guide)
+    * Mental Health
+        * [Anxiety Test](https://www.ramseysolutions.com/personal-growth/anxiety-test?snid=free-tools.mental-health.anxiety-test)
     
     * Career
         * [Career Clarity Guide](https://www.ramseysolutions.com/career-advice/career-clarity-guide?snid=free-tools.career.career-clarity-guide)
         * [Resumé Guide](https://www.ramseysolutions.com/career-advice/resume-guide?snid=free-tools.career.resume-guide)
         * [Interview Guide](https://www.ramseysolutions.com/career-advice/interview-guide?snid=free-tools.career.interview-guide)
     
+    * Taxes
+        * [Tax Pro or Self-File? Quiz](https://www.ramseysolutions.com/taxes/tax-services?snid=free-tools.taxes.tax-pro-or-self-file-quiz#tax-tool)
+        * [Tax Guide](https://www.ramseysolutions.com/taxes/tax-guide?snid=free-tools.taxes.tax-guide)
+    
+    * Wills
+        * [Online Will vs. Lawyer? Quiz](https://www.ramseysolutions.com/retirement/will/online-will-vs-lawyer-quiz?snid=free-tools.wills.online-will-vs-lawyer-quiz)
+    
+    * Saving
+        * [14-Day Money Finder](https://www.ramseysolutions.com/saving/moneyfinder?snid=free-tools.saving.14-day-money-finder)
+    
     * Business
         * [Business Assessment](https://www.ramseysolutions.com/business/entreleadership/resources/stages-of-business-assessment?snid=free-tools.business.business-assessment)
     
-    * Mental Health
-        * [Anxiety Test](https://www.ramseysolutions.com/personal-growth/anxiety-test?snid=free-tools.mental-health.anxiety-test)
+    * College
+        * [College Savings Calculator](https://www.ramseysolutions.com/saving/college-savings-calculator?snid=free-tools.college.college-savings-calculator)
     
     * [See All Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools.see-all-free-tools)
     
@@ -285,7 +287,7 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [_From Paycheck to Purpose_ Book](https://store.ramseysolutions.com/business-and-career/books/from-paycheck-to-purpose-by-ken-coleman/?snid=store.featured.from-paycheck-to-purpose-book)
         * [Get Clear Career Assessment](https://store.ramseysolutions.com/business-and-career/assessments/get-clear-career-assessment-for-career-change/?snid=store.featured.get-clear-career-assessment)
         * [_Breaking Free From Broke_ Book](https://store.ramseysolutions.com/money/books/breaking-free-from-broke-by-george-kamel/?snid=store.featured.breaking-free-from-broke-by-george-kamel)
-        * [_Building a Non-Anxious Life_ Book](https://store.ramseysolutions.com/personal-growth/books/building-a-non-anxious-life-by-dr-john-delony/?snid=store.featured.building-a-non-anxious-life-by-dr-john-delony)
+        * [_Building A Non-Anxious Life_ Book](https://store.ramseysolutions.com/personal-growth/books/building-a-non-anxious-life-by-dr-john-delony/?snid=store.featured.building-a-non-anxious-life-by-dr-john-delony)
     
     * [Shop the Store](https://store.ramseysolutions.com/?snid=store.shop-the-store)
     
