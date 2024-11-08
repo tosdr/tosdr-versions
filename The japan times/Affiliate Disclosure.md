@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,17 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[LDP lawmakers urge Ishiba to step down after budget passage next year](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/ldp-post-election-gathering/ "LDP lawmakers urge Ishiba to step down after budget passage next year")
+[Man arrested over 2006 Hyogo stabbing did not know victim, police say](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/inmate-girl-no-acquaintance/ "Man arrested over 2006 Hyogo stabbing did not know victim, police say")
 
-11 hours ago
+17 mins ago
 
-[Man sentenced to indefinite term for serial robberies in Japan](https://www.japantimes.co.jp/news/2024/11/07/japan/crime-legal/japan-serial-robbery-ruling/ "Man sentenced to indefinite term for serial robberies in Japan")
+[More families stream out of northern Gaza, as tanks push deeper](https://www.japantimes.co.jp/news/2024/11/08/world/gaza-more-displacement/ "More families stream out of northern Gaza, as tanks push deeper")
 
-[Nissan cuts outlook, announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
+54 mins ago
 
-[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
+[Japan’s households cut spending once again as prices rise](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
-[Nippon Ishin's Nobuyuki Baba to resign as party chief over election shortcomings](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/nippon-ishin-leader-baba-resign/ "Nippon Ishin's Nobuyuki Baba to resign as party chief over election shortcomings")
+1 hours ago
+
+[Powell signals readiness to defy Trump in defense of Fed](https://www.japantimes.co.jp/business/2024/11/08/economy/powell-fed-defense-trump/ "Powell signals readiness to defy Trump in defense of Fed")
+
+1 hours ago
+
+[Japan intervened twice last quarter to bring yen below ¥160](https://www.japantimes.co.jp/business/2024/11/08/markets/japan-yen-intervention/ "Japan intervened twice last quarter to bring yen below ¥160")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
