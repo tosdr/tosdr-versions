@@ -106,7 +106,7 @@ Netsweeper collects data from you, through our interactions with you and through
 
 We get some of it by collecting data about your interactions, use, and experience with our products and communications.
 
-We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
+We rely on a variety of legal reasons and permissions (sometimes called “legal basis”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
 
 We may also obtain data from third parties. We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data. These third-party sources vary over time and include:
 
