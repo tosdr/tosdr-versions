@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Israel Passes Law Allowing Deportation of Terrorists’ Families](https://www.theepochtimes.com/world/israel-passes-law-allowing-deportation-of-terrorists-families-5756285)
+    
+    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![Israel Passes Law Allowing Deportation of Terrorists’ Families](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Passes Law Allowing Deportation of Terrorists’ Families](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752954-GettyImages-2181749180-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-passes-law-allowing-deportation-of-terrorists-families-5756285)
+* [Judge Strikes Down Federal Rule Protecting Illegal Immigrants Married to US Citizens](https://www.theepochtimes.com/us/judge-strikes-down-federal-rule-protecting-illegal-immigrants-married-to-us-citizens-5756397)
+    
+    5hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Judge Strikes Down Federal Rule Protecting Illegal Immigrants Married to US Citizens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Strikes Down Federal Rule Protecting Illegal Immigrants Married to US Citizens](https://img.theepochtimes.com/assets/uploads/2024/05/29/id5658917-mass_migration_at_border-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-strikes-down-federal-rule-protecting-illegal-immigrants-married-to-us-citizens-5756397)
 * [White House Outlines Biden’s Priorities for Rest of Term](https://www.theepochtimes.com/us/white-house-outlines-bidens-priorities-for-rest-of-term-5756404)
     
-    NEW By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    6hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
     
     [![White House Outlines Biden’s Priorities for Rest of Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![White House Outlines Biden’s Priorities for Rest of Term](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756409-Biden-GettyImages-2182727774-205x123.jpg.webp)](https://www.theepochtimes.com/us/white-house-outlines-bidens-priorities-for-rest-of-term-5756404)
 * [Memes, Pop Culture, and Economy: How Young Voters Helped Trump Win](https://www.theepochtimes.com/article/memes-pop-culture-versus-woke-culture-how-young-voters-helped-trump-win-5756360)
     
-    1hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    7hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
     [![Memes, Pop Culture, and Economy: How Young Voters Helped Trump Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Memes, Pop Culture, and Economy: How Young Voters Helped Trump Win](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756391-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/memes-pop-culture-versus-woke-culture-how-young-voters-helped-trump-win-5756360)
 * [NYC Mayor Says He’s Ready to Share Ideas With Trump on Illegal Immigration](https://www.theepochtimes.com/us/nyc-mayor-says-hes-ready-to-share-ideas-with-trump-on-illegal-immigration-5755983)
     
-    1hr By [Oliver Mantyk](https://www.theepochtimes.com/author/oliver-mantyk)
+    7hr By [Oliver Mantyk](https://www.theepochtimes.com/author/oliver-mantyk)
     
     [![NYC Mayor Says He’s Ready to Share Ideas With Trump on Illegal Immigration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NYC Mayor Says He’s Ready to Share Ideas With Trump on Illegal Immigration](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748817-Eric-Adams-AP24209782201702KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-mayor-says-hes-ready-to-share-ideas-with-trump-on-illegal-immigration-5755983)
 * [Judge Sets Deadline for Transfer of Assets in Rudolph Giuliani Case](https://www.theepochtimes.com/us/judge-sets-deadline-for-transfer-of-assets-in-rudolph-giuliani-case-5756208)
     
-    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    10hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![Judge Sets Deadline for Transfer of Assets in Rudolph Giuliani Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Judge Sets Deadline for Transfer of Assets in Rudolph Giuliani Case](https://img.theepochtimes.com/assets/uploads/2024/11/id5751976-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-sets-deadline-for-transfer-of-assets-in-rudolph-giuliani-case-5756208)
 * [Saving Childhood: A New Movement Helps Parents Protect Young Kids From Smartphones](https://www.theepochtimes.com/health/saving-childhood-a-new-movement-helps-parents-protect-young-kids-from-smartphones-5741070)
     
-    4hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
+    10hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
     
     [![Saving Childhood: A New Movement Helps Parents Protect Young Kids From Smartphones](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Saving Childhood: A New Movement Helps Parents Protect Young Kids From Smartphones](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752370-Saving-Childhood-featured-image-205x123.jpg.webp)](https://www.theepochtimes.com/health/saving-childhood-a-new-movement-helps-parents-protect-young-kids-from-smartphones-5741070)
 * [Argentinian Officials Charge 3 in British Musician Liam Payne’s Death](https://www.theepochtimes.com/entertainment/argentinian-officials-charge-3-in-british-musician-liam-paynes-death-5756218)
     
-    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    11hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Argentinian Officials Charge 3 in British Musician Liam Payne’s Death](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Argentinian Officials Charge 3 in British Musician Liam Payne’s Death](https://img.theepochtimes.com/assets/uploads/2024/10/id5743515-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/argentinian-officials-charge-3-in-british-musician-liam-paynes-death-5756218)
 * [Military Judge Revives Plea Deals for Alleged 9/11 Mastermind, Accomplices](https://www.theepochtimes.com/us/military-judge-revives-plea-deals-for-alleged-9-11-mastermind-accomplices-5756005)
     
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    11hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Military Judge Revives Plea Deals for Alleged 9/11 Mastermind, Accomplices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Military Judge Revives Plea Deals for Alleged 9/11 Mastermind, Accomplices](https://img.theepochtimes.com/assets/uploads/2024/08/01/id5697876-GettyImages-83949836-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/military-judge-revives-plea-deals-for-alleged-9-11-mastermind-accomplices-5756005)
 * [Trump Names Susan Wiles as White House Chief of Staff](https://www.theepochtimes.com/us/trump-announces-susan-wiles-as-white-house-chief-of-staff-5756313)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Trump Names Susan Wiles as White House Chief of Staff](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Names Susan Wiles as White House Chief of Staff](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756319-Susan-Wiles-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-announces-susan-wiles-as-white-house-chief-of-staff-5756313)
-* [FDA Proposes Removal of Common Oral Cold Medication Ingredient as ‘Ineffective’](https://www.theepochtimes.com/us/fda-proposes-removal-of-common-oral-cold-medication-ingredient-as-ineffective-5756072)
-    
-    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![FDA Proposes Removal of Common Oral Cold Medication Ingredient as ‘Ineffective’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FDA Proposes Removal of Common Oral Cold Medication Ingredient as ‘Ineffective’](https://img.theepochtimes.com/assets/uploads/2017/12/15/GettyImages-77270269-205x123.jpg.webp)](https://www.theepochtimes.com/us/fda-proposes-removal-of-common-oral-cold-medication-ingredient-as-ineffective-5756072)
-* [Day in Photos: Strike on Chemical Factory, Field of Remembrance, and Wading Through the Floods](https://www.theepochtimes.com/article/day-in-photos-strike-on-chemical-factory-field-of-remembrance-and-wading-through-the-floods-5755971)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Strike on Chemical Factory, Field of Remembrance, and Wading Through the Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Strike on Chemical Factory, Field of Remembrance, and Wading Through the Floods](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756262-GettyImages-2182719952-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-strike-on-chemical-factory-field-of-remembrance-and-wading-through-the-floods-5755971)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
