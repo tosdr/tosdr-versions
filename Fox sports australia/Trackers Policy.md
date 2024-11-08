@@ -20,20 +20,10 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | AUSA | 2 /53 |
+    | AUSA | 5 /89 |
     | INDA | 161 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TM2024-250102)
-* [Men's ODI
-    
-    OMA won by 4 wkts
-    
-    |     |     |
-    | --- | --- |
-    | OMA | 6 /79 |
-    | UAE | 78  |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250404)
 * [Men's ODI
     
     8/11 14:30 AEST
@@ -44,16 +34,16 @@ FOX SCORES
     | PAK | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250502)
-* [Women's BBL
+* [Men's T20I
     
-    SYDT won by 19 runs
+    9/11 2:00 AEST
     
     |     |     |
     | --- | --- |
-    | SYDT | 5 /170 |
-    | BRI | 151 |
+    | RSA | –   |
+    | IND | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250116)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250401)
 * [Women's BBL
     
     PER won by 2 runs
@@ -66,12 +56,10 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250117)
 * [Women's BBL
     
-    8/11 11:00 AEST
-    
     |     |     |
     | --- | --- |
-    | MELS | –   |
-    | SYD6 | –   |
+    | MELS | 7 /122 |
+    | SYD6 |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250118)
 * NRL
@@ -162,26 +150,16 @@ FOX SCORES
     
 * [NFL
     
-    8/11 12:15 AEST
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | BAL | –   |
-    | CIN | –   |
+    | BAL | 0   |
+    | CIN | 7   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251001)
 * Basketball
     
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BRI | 103 |
-    | MEL | 120 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080001/play-by-play)
 * [NBL
     
     Full Time
@@ -204,16 +182,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080003)
 * [WNBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GEE | 89  |
-    | SOU | 87  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25020002/play-by-play)
-* [WNBL
-    
     8/11 18:30 AEST
     
     |     |     |
@@ -224,54 +192,34 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25020003)
 * [NBA
     
-    Full Time
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | SAC | 122 |
-    | TOR | 107 |
+    | SA  | 33  |
+    | POR | 27  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010177/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010180/box-score)
 * [NBA
     
-    Full Time
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | LAC | 110 |
-    | PHI | 98  |
+    | CHI | 43  |
+    | MIN | 31  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010176/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010178/box-score)
 * [NBA
     
-    8/11 12:00 AEST
+    Qtr Time
     
     |     |     |
     | --- | --- |
-    | SA  | –   |
-    | POR | –   |
+    | MIL | 31  |
+    | UTA | 29  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010180)
-* [NBA
-    
-    8/11 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CHI | –   |
-    | MIN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010178)
-* [NBA
-    
-    8/11 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | MIL | –   |
-    | UTA | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010179)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010179/box-score)
 * Football
     
 * [A-League W
