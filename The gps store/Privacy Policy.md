@@ -341,6 +341,7 @@ GPS Units - Accessories
 [Sionyx](https://www.thegpsstore.com/Brands/Sionyx)  
 [Si-Tex Marine Electronics](https://www.thegpsstore.com/Brands/Sitex-Marine-Electronics)  
 [Standard Horizon](https://www.thegpsstore.com/Brands/Standard-Horizon)  
+[Superior Life Saving Life Rafts](https://www.thegpsstore.com/Brands/Superior-Life-Saving-Liferafts)  
 [USGlobalSat](https://www.thegpsstore.com/Brands/USGlobalSat)  
 [Veratron](https://www.thegpsstore.com/Brands/Veratron-Marine-Electronics)  
 [Vesper Marine](https://www.thegpsstore.com/Brands/Vesper-Marine)  
