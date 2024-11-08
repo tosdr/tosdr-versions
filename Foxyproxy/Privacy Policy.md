@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am very happy with my services, and want to keep them, forever!
+Thank you for your always quick response!
 
-Bob Nussbaum
+Ana Matic
