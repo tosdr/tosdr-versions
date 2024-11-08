@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Johan Botha - Brand Xplosion
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=62892786)  
-Cooper Logistics (Pty) Ltd
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=89889645)  
+Sarabi
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=93635995)  
-Desygn
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=179889486)  
+AquariumSmiths
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=170965443)  
-CHARLIEX CONSTRUCTIONS
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=156082532)  
-One2b
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=120915115)  
-Tantra Sound and Lightz
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=194084229)  
-Firstweb Hosting & Design
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=64831351)  
-Prosper Park
-
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=89255476)  
-Imhoff Equestrian Centre
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=103532435)  
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=82275670)  
 Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=150020545)  
-ELLIE'S CLEANING CHICKS
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=143371786)  
+Printo
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=99161513)  
-Lemba Truck Stop
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=214078635)  
+Druce Digital
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=195281180)  
-Lily Fern & Co
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=29809485)  
+WIP Digital Solutions
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=94912655)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=81516333)  
+Hydroworld T/A Milliqua
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=205577271)  
-Kainos (Pty) Ltd
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=165603483)  
+M's Frozen Delights
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=8076e4c637041d3a4564936cf30844e44284f20a584aee39972fcfb2f84a4eb6&c=70558971)  
-Konsortium Operations (PTY) LTD
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=122262627)  
+Forgotten Goods (Pty) Ltd
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=113277492)  
+MOSELA GROUP Pty(ltd)
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=75514465)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=43472439)  
+OXYAIDER (PTY) LTD
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=60224001)  
+VIR Electrical (PTY) LTD
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=121339470)  
+Depot Diesel (Pty) Ltd
+
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=98329611)  
+Leef in Afrikaans
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
