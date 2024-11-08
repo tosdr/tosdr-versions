@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+    
+    ### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+    
+    [![Diego Solarte, 44, from Stockwell, has been jailed for nine years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Diego-Solarte-44-from-Stockwell-has-been-jailed-for-nine-years-360x180.png)](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
+    
+    ### [Paedophile taekwondo coach from South London jailed](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
+    
+    ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
+    
     [![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
     
     ### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
@@ -44,18 +56,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/immigration-changes-and-impact-360x180.png)](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
     
     ### [Labour’s new immigration policies: A comprehensive look at changes](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Advice-and-help-from-ICS-Legal-360x180.png)](https://southwarknews.co.uk/area/london/emerging-markets-growth-and-sponsor-licence/)
-    
-    ### [Emerging markets, growth and sponsor licence](https://southwarknews.co.uk/area/london/emerging-markets-growth-and-sponsor-licence/)
-    
-    [![Captain Bruny, dressed in full WWI British uniform, comes with a handmade sword, a driving license and pistol](https://southwarknews.co.uk/wp-content/uploads/2024/11/download-3-1-e1730976000314-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rare-wwi-teddy-from-bermondsey-market-could-fetch-1200/)
-    
-    ### [Rare WWI teddy from Bermondsey Market could fetch £1,200](https://southwarknews.co.uk/area/bermondsey/rare-wwi-teddy-from-bermondsey-market-could-fetch-1200/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Immigration-program-management-360x180.png)](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
-    
-    ### [Navigating to the new, UK visa changes & applying for family members](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+    
+    ### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+    
+    [![Diego Solarte, 44, from Stockwell, has been jailed for nine years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Diego-Solarte-44-from-Stockwell-has-been-jailed-for-nine-years-360x180.png)](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
+    
+    ### [Paedophile taekwondo coach from South London jailed](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
+    
+    ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
+    
     [![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
     
     ### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
@@ -130,18 +142,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/immigration-changes-and-impact-360x180.png)](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
     
     ### [Labour’s new immigration policies: A comprehensive look at changes](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Advice-and-help-from-ICS-Legal-360x180.png)](https://southwarknews.co.uk/area/london/emerging-markets-growth-and-sponsor-licence/)
-    
-    ### [Emerging markets, growth and sponsor licence](https://southwarknews.co.uk/area/london/emerging-markets-growth-and-sponsor-licence/)
-    
-    [![Captain Bruny, dressed in full WWI British uniform, comes with a handmade sword, a driving license and pistol](https://southwarknews.co.uk/wp-content/uploads/2024/11/download-3-1-e1730976000314-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rare-wwi-teddy-from-bermondsey-market-could-fetch-1200/)
-    
-    ### [Rare WWI teddy from Bermondsey Market could fetch £1,200](https://southwarknews.co.uk/area/bermondsey/rare-wwi-teddy-from-bermondsey-market-could-fetch-1200/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Immigration-program-management-360x180.png)](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
-    
-    ### [Navigating to the new, UK visa changes & applying for family members](https://southwarknews.co.uk/news/navigating-to-the-new-uk-visa-changes-applying-for-family-members/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -385,6 +385,18 @@ Website
 
 ### Featured Articles
 
+[![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+
+### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+
+[8th November 2024](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-120x86.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
+
+### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
+
+[8th November 2024](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
+
 [![Photo and video from www.taikomeantime.rhythmworks.com](https://southwarknews.co.uk/wp-content/uploads/2024/11/Drumming-120x86.jpg)](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
 
 ### [Taiko Meantime brings Japanese drumming to South London](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
@@ -409,18 +421,6 @@ CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/
 ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
 
 [7th November 2024](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
-
-[![Captain Bruny, dressed in full WWI British uniform, comes with a handmade sword, a driving license and pistol](https://southwarknews.co.uk/wp-content/uploads/2024/11/download-3-1-e1730976000314-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/rare-wwi-teddy-from-bermondsey-market-could-fetch-1200/)
-
-### [Rare WWI teddy from Bermondsey Market could fetch £1,200](https://southwarknews.co.uk/area/bermondsey/rare-wwi-teddy-from-bermondsey-market-could-fetch-1200/)
-
-[7th November 2024](https://southwarknews.co.uk/area/bermondsey/rare-wwi-teddy-from-bermondsey-market-could-fetch-1200/)
-
-[![Bertie Carvel (Donald Trump), photo by Marc Brenner](https://southwarknews.co.uk/wp-content/uploads/2022/04/Old-Vic-Bertie-Carvel-Donald-Trump-in-The-47th-at-The-Old-Vic-photo-by-Marc-Brenner-1-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
-
-### [What does the election of ‘climate denier’ Donald Trump mean for London’s net zero carbon emission target?](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
-
-[7th November 2024](https://southwarknews.co.uk/area/london/what-does-the-election-of-climate-denier-donald-trump-mean-for-londons-net-zero-carbon-emission-target/)
 
 ### USEFUL PAGES
 
