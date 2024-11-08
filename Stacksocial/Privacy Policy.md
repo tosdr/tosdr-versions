@@ -235,6 +235,8 @@ For individuals outside of the US, please see our [Non-US Resident Privacy Notic
 
 For all individuals, regardless of location, you have a right to stop receiving promotional e-mails or other related communications from us at any time by clicking on the “unsubscribe” link at the bottom of any promotional e-mail you receive from us.
 
+For all individuals, regardless of location, you have a right to request that we delete your personal information, subject to certain exceptions.
+
 You also have the right to manage your preferences as it relates to cookies and related technologies by visiting our Website and exercising your choices.
 
 11\. California Privacy Notice
