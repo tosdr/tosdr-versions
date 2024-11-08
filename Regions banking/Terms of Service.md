@@ -106,7 +106,7 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         
         * [Small Business Financing Overview](https://www.regions.com/small-business/business-financing)
         * [Loans & Lines of Credit](https://www.regions.com/small-business/business-financing/loans-and-lines-of-credit)
-        * [SBA Loans](https://www.regions.com/small-business/business-financing/sba-loans)
+        * [SBA Loans](https://www.regions.com/small-business/business-financing/sba-loans-old)
         * [Business Rewards](https://www.regions.com/small-business/business-credit-cards/credit-card-rewards)
         * [Equipment Finance & Leasing](https://www.regions.com/small-business/business-financing/equipment-financing-and-leasing)
         * [Franchise Banking](https://www.regions.com/commercial-banking/franchise-banking)
