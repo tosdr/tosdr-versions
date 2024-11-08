@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/cfd17b8a-4c1b-42db-83f5-b44631fca5bb/20241031T155059/cfd17b8a-4c1b-42db-83f5-b44631fca5bb_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/cfd17b8a-4c1b-42db-83f5-b44631fca5bb/20241031T155059/cfd17b8a-4c1b-42db-83f5-b44631fca5bb_360x203.jpg)](https://www.kagstv.com/article/news/local/college-station-oldenburg-lane-crash-oct-31-2024/500-1aec6ce6-ff24-4c83-9847-19e3c99971fd)
+    *  [![](https://media.kagstv.com/assets/KYTX/images/e2b0946b-4827-4459-a6a6-d926635ac5f6/20241107T180929/e2b0946b-4827-4459-a6a6-d926635ac5f6_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/e2b0946b-4827-4459-a6a6-d926635ac5f6/20241107T180929/e2b0946b-4827-4459-a6a6-d926635ac5f6_360x203.jpg)](https://www.kagstv.com/article/news/local/west-tawakoni-girl-missing/501-572cc955-aff2-4928-a934-acd6517cd10b)
         
-        #### [Car crashes into College Station home through backyard, dog killed](https://www.kagstv.com/article/news/local/college-station-oldenburg-lane-crash-oct-31-2024/500-1aec6ce6-ff24-4c83-9847-19e3c99971fd)
+        #### [AMBER Alert issued for 16-year-old out of Hunt County](https://www.kagstv.com/article/news/local/west-tawakoni-girl-missing/501-572cc955-aff2-4928-a934-acd6517cd10b)
         
-    *  [![](https://media.kagstv.com/assets/KARE/images/d2ecc3f3-8680-4a14-972b-b2be2378a963/20240930T144336/d2ecc3f3-8680-4a14-972b-b2be2378a963_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/d2ecc3f3-8680-4a14-972b-b2be2378a963/20240930T144336/d2ecc3f3-8680-4a14-972b-b2be2378a963_360x203.jpg)](https://www.kagstv.com/article/news/local/central-texas-man-arrested-high-speed-chase-montgomery-county-harris-county/500-477a68f3-96a5-452e-9975-a30e8580718b)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/d63c88c9-e495-42c0-b389-896584179c64/20241107T201620/d63c88c9-e495-42c0-b389-896584179c64_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d63c88c9-e495-42c0-b389-896584179c64/20241107T201620/d63c88c9-e495-42c0-b389-896584179c64_360x203.jpg)](https://www.kagstv.com/article/news/local/gen-taylor-meant-so-much-to-all-of-us-am-central-texas-aggies-remember-horace-pete-taylor/500-27a9d216-0fbc-49a9-ab6c-ef82d2333dd2)
         
-        #### [Central Texas man arrested after high-speed chase through Montgomery County, Harris County](https://www.kagstv.com/article/news/local/central-texas-man-arrested-high-speed-chase-montgomery-county-harris-county/500-477a68f3-96a5-452e-9975-a30e8580718b)
+        #### [Texas A&M-Central Texas remember founding leader, Horace "Pete"Taylor](https://www.kagstv.com/article/news/local/gen-taylor-meant-so-much-to-all-of-us-am-central-texas-aggies-remember-horace-pete-taylor/500-27a9d216-0fbc-49a9-ab6c-ef82d2333dd2)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/WFAA/images/a046407f-cfe1-4f98-a9b4-5c694ce95eb2/20241107T192311/a046407f-cfe1-4f98-a9b4-5c694ce95eb2_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/a046407f-cfe1-4f98-a9b4-5c694ce95eb2/20241107T192311/a046407f-cfe1-4f98-a9b4-5c694ce95eb2_360x203.jpg)](https://www.kagstv.com/article/weather/texas-snow-panhandle-new-mexico-border/287-71add535-ec72-4600-a58d-0aeb04ba4a47)
+        
+        #### [VIDEO: Skycam near Texas-New Mexico border shows snowfall](https://www.kagstv.com/article/weather/texas-snow-panhandle-new-mexico-border/287-71add535-ec72-4600-a58d-0aeb04ba4a47)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
         #### [Showers and Thunderstorms Return for the End of the Week | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
-        
-        #### [La Niña could soon arrive. Here's what that means for winter weather](https://www.kagstv.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-88°
+75°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
