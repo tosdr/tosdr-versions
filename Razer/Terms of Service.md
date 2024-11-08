@@ -1435,7 +1435,7 @@ Your Cart is empty.
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
 * [Log In](#)
 
-Discover our Immersive specials and get SILENT HILL 2 with purchase of select products. [Learn More \>](https://www.razer.com/campaigns/silent-hill-2)
+Pick the perfect gifts for every kind of gamer with our Razer Holiday Gift Guide. [Shop Now \>](https://www.razer.com/campaigns/year-end-gift-guide)
 
 GENERAL TERMS OF USE
 ====================
