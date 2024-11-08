@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_972831651_menu)
+ [Compartilhar](#elShareItem_1848507685_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1339567620_menu)
+ [Compartilhar](#elShareItem_276228131_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -340,9 +340,9 @@ Mais opções...
 
 [Ir à lista de tópicos](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/ "Ir para Avisos da administração")
 
-* ### Quem está navegando aqui   1 usuário está online
+* ### Quem está navegando aqui   0 usuários estão online
     
-    * [Black\_Loth](https://www.clubedohardware.com.br/profile/1244937-black_loth/ "Ir ao perfil de Black_Loth")
+    * Nenhum usuário registrado visualizando esta página.
     
     * * *
     
@@ -365,104 +365,104 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Black_Loth](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1244937.thumb.png.5293c233ea3b808760411a33a373c788.png)](https://www.clubedohardware.com.br/profile/1244937-black_loth/ "Ir ao perfil de Black_Loth")
+    * [![Renato Teixeira Vital](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255661.thumb.png.0451addc0150c1e7e6993d8dadbdb22c.png)](https://www.clubedohardware.com.br/profile/1255661-renato-teixeira-vital/ "Ir ao perfil de Renato Teixeira Vital")
         
-        1
+        0
         
-        [Monitor Gamer Gigabyte 27"" é bom?](https://www.clubedohardware.com.br/forums/topic/1701764-monitor-gamer-gigabyte-27-%C3%A9-bom/?do=getNewComment "Monitor Gamer Gigabyte 27"" é bom?")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Black\_Loth](https://www.clubedohardware.com.br/profile/1244937-black_loth/ "Ir ao perfil de Black_Loth")  
-        15 minutos atrás
-        
-    * [![Enzo Tenuta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1229984.thumb.jpeg.08e22e0b3c3f7be0f4b37db401851c9a.jpeg)](https://www.clubedohardware.com.br/profile/1229984-enzo-tenuta/ "Ir ao perfil de Enzo Tenuta")
-        
-        1
-        
-        [Primeiro PC: B550M Aorus Elite, Ryzen 5 5600, 16GB e GeForce RTX 3060](https://www.clubedohardware.com.br/forums/topic/1701763-primeiro-pc-b550m-aorus-elite-ryzen-5-5600-16gb-e-geforce-rtx-3060/?do=getNewComment "Primeiro PC: B550M Aorus Elite, Ryzen 5 5600, 16GB e GeForce RTX 3060")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Enzo Tenuta](https://www.clubedohardware.com.br/profile/1229984-enzo-tenuta/ "Ir ao perfil de Enzo Tenuta")  
-        22 minutos atrás
-        
-    * [![raphaelcsg](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237f62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255696-raphaelcsg/ "Ir ao perfil de raphaelcsg")
-        
-        2
-        
-        [Montagem de um desktop com um Ryzen 8600G, Placa B650](https://www.clubedohardware.com.br/forums/topic/1701762-montagem-de-um-desktop-com-um-ryzen-8600g-placa-b650/?do=getNewComment "Montagem de um desktop com um Ryzen 8600G, Placa B650")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [raphaelcsg](https://www.clubedohardware.com.br/profile/1255696-raphaelcsg/ "Ir ao perfil de raphaelcsg")  
-        42 minutos atrás
-        
-    * [![Scaliest](https://www.clubedohardware.com.br/uploads/members/monthly_2023_02/2f43d267-c9fa-4977-a03b-9d2c26798adc.thumb.jpg.f4e869b822c5dbc1588794816eaa783e.jpg)](https://www.clubedohardware.com.br/profile/1214272-scaliest/ "Ir ao perfil de Scaliest")
-        
-        2
-        
-        [Montando um pc para um amigo](https://www.clubedohardware.com.br/forums/topic/1701761-montando-um-pc-para-um-amigo/?do=getNewComment "Montando um pc para um amigo")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Scaliest](https://www.clubedohardware.com.br/profile/1214272-scaliest/ "Ir ao perfil de Scaliest")  
-        55 minutos atrás
-        
-    * [![frodrigss](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255700.thumb.png.d66c0213b641b6dc40ecd5579dc18d94.png)](https://www.clubedohardware.com.br/profile/1255700-frodrigss/ "Ir ao perfil de frodrigss")
-        
-        4
-        
-        [Config até R$3.000,00 para Unreal engine 5.5, Unity 6 e Blender](https://www.clubedohardware.com.br/forums/topic/1701759-config-at%C3%A9-r300000-para-unreal-engine-55-unity-6-e-blender/?do=getNewComment "Config até R$3.000,00 para Unreal engine 5.5, Unity 6 e Blender")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [frodrigss](https://www.clubedohardware.com.br/profile/1255700-frodrigss/ "Ir ao perfil de frodrigss")  
-        1 hora atrás
-        
-    * [![HnZZ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242521.thumb.png.8c207eac2e979e59cc0d08e4ca9131ee.png)](https://www.clubedohardware.com.br/profile/1242521-hnzz/ "Ir ao perfil de HnZZ")
-        
-        1
-        
-        [Ryzen 7 5700X3D superaquecendo com water cooler de 240mm – Alguma solução?](https://www.clubedohardware.com.br/forums/topic/1701758-ryzen-7-5700x3d-superaquecendo-com-water-cooler-de-240mm-%E2%80%93-alguma-solu%C3%A7%C3%A3o/?do=getNewComment "Ryzen 7 5700X3D superaquecendo com water cooler de 240mm – Alguma solução?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [HnZZ](https://www.clubedohardware.com.br/profile/1242521-hnzz/ "Ir ao perfil de HnZZ")  
-        1 hora atrás
-        
-    * [![David Santos do Nascimento](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255698.thumb.jpeg.1695faae89a45e0afb1d59b042232155.jpeg)](https://www.clubedohardware.com.br/profile/1255698-david-santos-do-nascimento/ "Ir ao perfil de David Santos do Nascimento")
-        
-        2
-        
-        [Montei o pc liga todos os led acendem mas simplesmente não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1701757-montei-o-pc-liga-todos-os-led-acendem-mas-simplesmente-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Montei o pc liga todos os led acendem mas simplesmente não dá vídeo")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [David Santos do Nascimento](https://www.clubedohardware.com.br/profile/1255698-david-santos-do-nascimento/ "Ir ao perfil de David Santos do Nascimento")  
-        1 hora atrás
-        
-    * [![bielykl](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1247907.thumb.jpeg.ec64b32af6b9d2ad3f4c0f5bb521dd6a.jpeg)](https://www.clubedohardware.com.br/profile/1247907-bielykl/ "Ir ao perfil de bielykl")
-        
-        4
-        
-        [Estou querendo montar um pc com 3000 reais, para jogar.](https://www.clubedohardware.com.br/forums/topic/1701756-estou-querendo-montar-um-pc-com-3000-reais-para-jogar/?do=getNewComment "Estou querendo montar um pc com 3000 reais, para jogar.")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [bielykl](https://www.clubedohardware.com.br/profile/1247907-bielykl/ "Ir ao perfil de bielykl")  
-        1 hora atrás
-        
-    * [![Andy_luck](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255695.thumb.png.be0ca3906b23eaebea1b49790d11d230.png)](https://www.clubedohardware.com.br/profile/1255695-andy_luck/ "Ir ao perfil de Andy_luck")
-        
-        2
-        
-        [se minha fonte aguenta uma RTX 4070ti super](https://www.clubedohardware.com.br/forums/topic/1701755-se-minha-fonte-aguenta-uma-rtx-4070ti-super/?do=getNewComment "se minha fonte aguenta uma RTX 4070ti super")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Andy\_luck](https://www.clubedohardware.com.br/profile/1255695-andy_luck/ "Ir ao perfil de Andy_luck")  
-        1 hora atrás
-        
-    * [![julioheyon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255694.thumb.png.156f5e654fc39869be81d7ebe52169fd.png)](https://www.clubedohardware.com.br/profile/1255694-julioheyon/ "Ir ao perfil de julioheyon")
-        
-        5
-        
-        [i5 8ªgeração, 32gb RAM - 3600hz, RTX 3060 12GB.](https://www.clubedohardware.com.br/forums/topic/1701754-i5-8%C2%AAgera%C3%A7%C3%A3o-32gb-ram-3600hz-rtx-3060-12gb/?do=getNewComment "i5 8ªgeração, 32gb RAM - 3600hz, RTX 3060 12GB.")
+        [ASUS GTX 1060 com artefatos, o reparo vale a pena?](https://www.clubedohardware.com.br/forums/topic/1701799-asus-gtx-1060-com-artefatos-o-reparo-vale-a-pena/?do=getNewComment "ASUS GTX 1060 com artefatos, o reparo vale a pena?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [julioheyon](https://www.clubedohardware.com.br/profile/1255694-julioheyon/ "Ir ao perfil de julioheyon")  
+        Por [Renato Teixeira Vital](https://www.clubedohardware.com.br/profile/1255661-renato-teixeira-vital/ "Ir ao perfil de Renato Teixeira Vital")  
+        3 minutos atrás
+        
+    * [![kirinBR](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/765ef1376f29bf09a3c8833c1be14488.thumb.jpg.fefc55778438f4f3a0970448eee0b3aa.jpg)](https://www.clubedohardware.com.br/profile/1137576-kirinbr/ "Ir ao perfil de kirinBR")
+        
+        0
+        
+        [placa A520M S2H suporta Ryzen 3 3200g pra usar com gráfico integrado Vega 8?](https://www.clubedohardware.com.br/forums/topic/1701798-placa-a520m-s2h-suporta-ryzen-3-3200g-pra-usar-com-gr%C3%A1fico-integrado-vega-8/?do=getNewComment "placa A520M S2H suporta Ryzen 3 3200g pra usar com gráfico integrado Vega 8?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [kirinBR](https://www.clubedohardware.com.br/profile/1137576-kirinbr/ "Ir ao perfil de kirinBR")  
+        10 minutos atrás
+        
+    * [![carlos_.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255719.thumb.jpeg.c0171937f5cd84824fa907074334c133.jpeg)](https://www.clubedohardware.com.br/profile/1255719-carlos_/ "Ir ao perfil de carlos_.")
+        
+        0
+        
+        [placa-mãe B550M-P4, DDR4, Socket AM4](https://www.clubedohardware.com.br/forums/topic/1701797-placa-m%C3%A3e-b550m-p4-ddr4-socket-am4/?do=getNewComment "placa-mãe B550M-P4, DDR4, Socket AM4")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [carlos\_.](https://www.clubedohardware.com.br/profile/1255719-carlos_/ "Ir ao perfil de carlos_.")  
+        33 minutos atrás
+        
+    * [![Roger Silva 10](https://www.clubedohardware.com.br/uploads/members/monthly_2020_07/imported-photo-946829.thumb.jpeg.823434294b7ac5f9cdfdef6ca3df4879.jpeg)](https://www.clubedohardware.com.br/profile/946829-roger-silva-10/ "Ir ao perfil de Roger Silva 10")
+        
+        1
+        
+        [Isso pode danificar o computador?](https://www.clubedohardware.com.br/forums/topic/1701796-isso-pode-danificar-o-computador/?do=getNewComment "Isso pode danificar o computador?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Roger Silva 10](https://www.clubedohardware.com.br/profile/946829-roger-silva-10/ "Ir ao perfil de Roger Silva 10")  
+        35 minutos atrás
+        
+    * [![Illgner28](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1184479.thumb.png.b7c39a5759b75788381aafa6b02765ed.png)](https://www.clubedohardware.com.br/profile/1184479-illgner28/ "Ir ao perfil de Illgner28")
+        
+        0
+        
+        [PC de até R$ 1.500 Reais](https://www.clubedohardware.com.br/forums/topic/1701795-pc-de-at%C3%A9-r-1500-reais/?do=getNewComment "PC de até R$ 1.500 Reais")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Illgner28](https://www.clubedohardware.com.br/profile/1184479-illgner28/ "Ir ao perfil de Illgner28")  
+        49 minutos atrás
+        
+    * [![RPNeto377](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255717.thumb.png.9376a94acd6d2959619c65160ae3a928.png)](https://www.clubedohardware.com.br/profile/1255717-rpneto377/ "Ir ao perfil de RPNeto377")
+        
+        1
+        
+        [Fonte necessária para nova placa de vídeo](https://www.clubedohardware.com.br/forums/topic/1701794-fonte-necess%C3%A1ria-para-nova-placa-de-v%C3%ADdeo/?do=getNewComment "Fonte necessária para nova placa de vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [RPNeto377](https://www.clubedohardware.com.br/profile/1255717-rpneto377/ "Ir ao perfil de RPNeto377")  
+        54 minutos atrás
+        
+    * [![O Pequeno Príncipe](https://www.clubedohardware.com.br/uploads/members/monthly_2017_08/599f67fc85394_opequenoprincipe2.thumb.jpeg.1a051b9476fdb9467c1a5c369f546921.jpeg)](https://www.clubedohardware.com.br/profile/800645-o-pequeno-pr%C3%ADncipe/ "Ir ao perfil de O Pequeno Príncipe")
+        
+        0
+        
+        [Gostaria de saber de o metal ALNICO tem valor de Mercado?](https://www.clubedohardware.com.br/forums/topic/1701793-gostaria-de-saber-de-o-metal-alnico-tem-valor-de-mercado/?do=getNewComment "Gostaria de saber de o metal ALNICO tem valor de Mercado?")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [O Pequeno Príncipe](https://www.clubedohardware.com.br/profile/800645-o-pequeno-pr%C3%ADncipe/ "Ir ao perfil de O Pequeno Príncipe")  
+        1 hora atrás
+        
+    * [![Pirata Doidao](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4be62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EPD%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1223910-pirata-doidao/ "Ir ao perfil de Pirata Doidao")
+        
+        0
+        
+        [Nova Placa de Vídeo, 4060 é boa escolha?](https://www.clubedohardware.com.br/forums/topic/1701792-nova-placa-de-v%C3%ADdeo-4060-%C3%A9-boa-escolha/?do=getNewComment "Nova Placa de Vídeo, 4060 é boa escolha?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Pirata Doidao](https://www.clubedohardware.com.br/profile/1223910-pirata-doidao/ "Ir ao perfil de Pirata Doidao")  
+        1 hora atrás
+        
+    * [![nextboy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/a0c71107032b89503dbba924354f060a.thumb.jpg.8ba450d07a6b6028f4a11d437ba37400.jpg)](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")
+        
+        2
+        
+        [Recomendação de Gabinete por volta de 250~300 reais.](https://www.clubedohardware.com.br/forums/topic/1701791-recomenda%C3%A7%C3%A3o-de-gabinete-por-volta-de-250~300-reais/?do=getNewComment "Recomendação de Gabinete por volta de 250~300 reais.")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [nextboy](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")  
+        1 hora atrás
+        
+    * [![Fell Silva](https://www.clubedohardware.com.br/uploads/members/monthly_2022_02/imported-photo-1179920.thumb.jpeg.3e850637e7bf70b1c9b035b9a433348b.jpeg)](https://www.clubedohardware.com.br/profile/1179920-fell-silva/ "Ir ao perfil de Fell Silva")
+        
+        0
+        
+        [Por quanto vender meu pc?](https://www.clubedohardware.com.br/forums/topic/1701790-por-quanto-vender-meu-pc/?do=getNewComment "Por quanto vender meu pc?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Fell Silva](https://www.clubedohardware.com.br/profile/1179920-fell-silva/ "Ir ao perfil de Fell Silva")  
         1 hora atrás
         
     
@@ -623,11 +623,5 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
-
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
-
-**EBOOK GRÁTIS!**
-
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
