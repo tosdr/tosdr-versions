@@ -300,15 +300,15 @@ Meist verkaufte Produkte
     
      1
     
-* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
+* [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
     
-    6,16 €\*
+    1,86 €\*
     
      1
     
-* [Paracetamol ratiopharm 500mg - bei Fieber](https://www.medikamente-per-klick.de/paracetamol-ratiopharm-500-mg-tabletten-20st-01126111)
+* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
-    1,85 €\*
+    6,16 €\*
     
      1
     
@@ -395,6 +395,7 @@ Auszeichnung von n-tv & DISQ
 
 Service & Info
 
+* [![HYLO DUAL INTENSE](/images/generic_attachments/attachments/medikamenteperklick/HYLO_FCB_Banner_In-Shop_Banner_190x60px_2411_RZ.jpg "HYLO DUAL INTENSE")](https://www.medikamente-per-klick.de/product?artnr=13833434)
 * [![Kneipp](/images/generic_attachments/attachments/medikamenteperklick/Kneipp-Duschen_lebensfreude_Luitpold_190x60px.jpg "Kneipp")](https://www.medikamente-per-klick.de/markenshops/kneipp/duschen/duschgel)
 * [![H&S - Markenshop](/images/generic_attachments/attachments/medikamenteperklick/hunds-arzneitees_190x60.jpg "H&S - Markenshop")](https://www.medikamente-per-klick.de/markenshops/h-und-s/erkaeltung-und-husten)
 * [![Doppelherz Vitamin D3 K2](/images/generic_attachments/attachments/medikamenteperklick/Doppelherz_190x60_d3-2000+k2.jpg "Doppelherz Vitamin D3 K2")](https://www.medikamente-per-klick.de/product?artnr=14063820)
@@ -648,4 +649,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=doowgkitxyvsktzbizqzmgnkvrsrrvzw&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=ggpvxtgycjulgpmgmzmzezukuscklvjt&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
