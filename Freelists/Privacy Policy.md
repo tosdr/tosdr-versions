@@ -31,12 +31,12 @@ The following information may be collected, used, and stored in a cookie when se
 * Email (in a hashed or encrypted form)
 
 Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoic’s partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
 
-[Privacy Policy](https://www.ezoic.com/privacy-policy/advertising-partners/)
-----------------------------------------------------------------------------
+Privacy Policy
+--------------
 
-[**Updated March, 2021**
+**Updated March, 2021**
 
 This is the web site of FreeLists, a Service of Avenir Technologies, LLC., including "FreeLists", "us," "we," and "our." This page provides our Privacy Policy, a description of the information we collect, when we collect it, and what we do with it. We value your privacy and collect and store only the bare minimum needed to provide the Service.
 
@@ -80,9 +80,9 @@ In the regular course of an evolving business this policy may change at any time
 
 Please review this policy periodically.
 
-### Other related policies](https://www.ezoic.com/privacy-policy/advertising-partners/)
+### Other related policies
 
-[This policy covers your data and privacy. Please also refer to our](https://www.ezoic.com/privacy-policy/advertising-partners/) [Terms of Service](https://www.freelists.org/tos.html)
+This policy covers your data and privacy. Please also refer to our [Terms of Service](https://www.freelists.org/tos.html)
 
 [See also Ezoic](https://g.ezoic.net/privacy/freelists.org)
 
