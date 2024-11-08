@@ -150,10 +150,10 @@ Search Site
 Subscription Terms and Conditions
 =================================
 
-**Updated: September 12, 2024**
--------------------------------
+**Updated: November 8, 2024**
+-----------------------------
 
-If you become a subscriber of a digital and/or print publication from the Nine Publishing group (**“Nine”, “we” , “our”** or **“us”**) then these terms apply to your subscription. Please read these terms before taking up any subscription. Our print and digital publications are The Age [(theage.com.au)](https://www.theage.com.au/), The Australian Financial Review [(afr.com)](https://www.afr.com/), Brisbane Times [(brisbanetimes.com.au)](https://www.brisbanetimes.com.au/), The Sydney Morning Herald [(smh.com.au)](https://www.smh.com.au/) and WAtoday [(watoday.com.au)](https://www.watoday.com.au/) (**“Publications”**). The Age Company Pty Limited is the publisher of The Age and Fairfax Media Publications Pty Ltd and/or Fairfax Digital Australia and New Zealand Pty Ltd are the publishers of the other Publications.
+If you become a subscriber of a digital and/or print publication from the Nine Publishing group (**“Nine”, “we” , “our”** or **“us”**) then these terms apply to your subscription. Please read these terms before taking up any subscription. Our print and digital publications are The Age [(theage.com.au)](https://www.theage.com.au/), The Australian Financial Review [(afr.com)](https://www.afr.com/), Brisbane Times [(brisbanetimes.com.au)](https://www.brisbanetimes.com.au/), The Sydney Morning Herald [(smh.com.au)](https://www.smh.com.au/), WAtoday [(watoday.com.au)](https://www.watoday.com.au/) and Good Food (**“Publications”**). The Age Company Pty Limited is the publisher of The Age and Fairfax Media Publications Pty Ltd and/or Fairfax Digital Australia and New Zealand Pty Ltd are the publishers of the other Publications.
 
 Your use of our digital services (which includes websites and applications) to access the Publications is also subject to our Terms of General Conditions of Use available at [Terms of Use](https://login.nine.com.au/terms?client_id=brisbanetimes).
 
@@ -165,7 +165,8 @@ Your use of our digital services (which includes websites and applications) to a
             * The Age [here](https://help.theage.com.au/hc/en-au/requests/new)
             * Australian Financial Review [here](https://help.afr.com/hc/en-au/requests/new)
             * Brisbane Times [here](https://help.brisbanetimes.com.au/hc/en-au/requests/new)
-            * WA Today [here](https://help.watoday.com.au/hc/en-au/requests/new), or by
+            * WA Today [here](https://help.watoday.com.au/hc/en-au/requests/new)
+            * Good Food [here](https://help.goodfood.com.au/hc/en-au/requests/new), or by
         * Phoning 13 66 66 or +61 2 7966 6900 between 7.30am-5.30pm AEST Mon-Fri and 7.30am-10.30am AEST Sat-Sun.
     2. If you have a Corporate subscription, you can contact the customer service team (Corporate) by:
         * Emailing [corporate@afr.com](mailto:corporate@afr.com).
