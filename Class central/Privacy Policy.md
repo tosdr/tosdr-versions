@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. computer science
+1. hacking
     
-2. harvard
+2. law
     
-3. machine learning
+3. web development
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Web Development
     
-    13,363 courses](https://www.classcentral.com/subject/ai)
-2. [Python
+    13,490 courses](https://www.classcentral.com/subject/web-development)
+2. [Data Analysis
     
-    9,773 courses](https://www.classcentral.com/subject/python)
-3. [Graphic Design
+    8,594 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Cybersecurity
     
-    4,237 courses](https://www.classcentral.com/subject/graphic-design)
+    16,622 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 ---------------
 
-1. [Introducción a la genética y la evolución
+1. [Mechanical Ventilation for COVID-19
     
-    Universidad Autónoma de Madrid](https://www.classcentral.com/course/genetics-universidad-autonoma-de-madrid-introducc-8591)
-2. [The Ancient Greeks
+    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
+2. [Fractals and Scaling
     
-    Wesleyan University](https://www.classcentral.com/course/ancientgreeks-502)
-3. [First Step Korean
+    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-fractals-and-scaling-3612)
+3. [Songwriting: Writing the Lyrics
     
-    Yonsei University](https://www.classcentral.com/course/learn-korean-5730)
+    Berklee College of Music](https://www.classcentral.com/course/songwriting-lyrics-523)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
