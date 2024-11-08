@@ -39,7 +39,7 @@ If you believe that your work has been copied in a way that con­sti­tutes copy
 
 6.  A state­ment, made under penal­ty of per­jury, that the above infor­ma­tion is accu­rate, and that you are the copy­right own­er or are autho­rized to act on behalf of the own­er.
 
-The above infor­ma­tion must be sub­mit­ted to the fol­low­ing DMCA Agent via email at the fol­low­ing email address: [mail@openculture.com](mailto:openculture@openculture.com)
+The above infor­ma­tion must be sub­mit­ted to the fol­low­ing DMCA Agent via email at the fol­low­ing email address:[ma\*\*@op\*\*\*\*\*\*\*\*\*.com](mailto:op*********@op*********.com "This contact has been encoded by Anti-Spam by CleanTalk. Click to decode. To finish the decoding make sure that JavaScript is enabled in your browser.")
 
 NOTE: Please put “DMCA” in the sub­ject line of the email.
 
@@ -415,7 +415,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1731032040&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1731045483&formid=1 "click to reload")
     
 * About Us
     --------
