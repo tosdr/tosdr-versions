@@ -127,25 +127,25 @@ Thank you for helping to keep TikTok a welcoming space for everyone!
 
 Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1476805fb15944f6bb8da5ca37f7ae8d~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/d54745c65b654025b3a6dec60f42d295~tplv-1rzkm2vceq-default:0:0:q75.image)
+![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1476805fb15944f6bb8da5ca37f7ae8d~tplv-1rzkm2vceq-default:0:0:q75.image)![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/d54745c65b654025b3a6dec60f42d295~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Remove content that we do not allow
 
 Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/ffdeec0415e2464eacdd080db59a9098~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/27141b904baf42ebb5d89ec5ee2a52ca~tplv-1rzkm2vceq-default:0:0:q75.image)
+![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/ffdeec0415e2464eacdd080db59a9098~tplv-1rzkm2vceq-default:0:0:q75.image)![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/27141b904baf42ebb5d89ec5ee2a52ca~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Restrict content that is not suitable for youth
 
 We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/5a98ba5ce62b4a9e99151630eb0c3152~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/c87433c6b88044ca8872ae65709ed9c9~tplv-1rzkm2vceq-default:0:0:q75.image)
+![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/5a98ba5ce62b4a9e99151630eb0c3152~tplv-1rzkm2vceq-default:0:0:q75.image)![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/c87433c6b88044ca8872ae65709ed9c9~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Make ineligible for the FYF content that does not meet our recommendation standards
 
 The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/bf1e1ae007f944e7885b59046c9e216d~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/ba1c4416b49549b59232f87d2da00bda~tplv-1rzkm2vceq-default:0:0:q75.image)
+![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/bf1e1ae007f944e7885b59046c9e216d~tplv-1rzkm2vceq-default:0:0:q75.image)![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/ba1c4416b49549b59232f87d2da00bda~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Empower our community with information, tools, and resources
 
