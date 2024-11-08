@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a85cd0c0-5099-4c22-b247-581c8582dd2e/20241108T040445/a85cd0c0-5099-4c22-b247-581c8582dd2e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a85cd0c0-5099-4c22-b247-581c8582dd2e/20241108T040445/a85cd0c0-5099-4c22-b247-581c8582dd2e_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/volunteers-search-missing-davenport-woman/526-d3d81f93-5d01-4cb2-a563-18a5d7794e1d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4)
         
-        #### [How the Quad Cities Missing Persons Network organizes search parties](https://www.wqad.com/article/news/local/public-safety/volunteers-search-missing-davenport-woman/526-d3d81f93-5d01-4cb2-a563-18a5d7794e1d)
+        #### [Augustana Symphonic Band celebrating 150 years this November](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4) [![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8/20241108T041850/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8/20241108T041850/fff9ee03-a68b-4752-ba19-49d7c2b6e6b8_360x203.jpg)](https://www.wqad.com/article/news/local/38th-annual-student-hunger-drive-results-river-bend-food-bank/526-4af9eec3-1369-4ae8-8859-0277dacafebd)
+        #### [Celebrate 150 years of the Augustana Symphonic Band](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aea963a5-88a6-431b-b276-6997e61336ce/20241028T212958/aea963a5-88a6-431b-b276-6997e61336ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aea963a5-88a6-431b-b276-6997e61336ce/20241028T212958/aea963a5-88a6-431b-b276-6997e61336ce_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/inaugural-qc-veterans-day-festival-raising-money-uncommon-valor/526-3c885687-f2a8-4154-a8ef-6900980682cd)
         
-        #### [The results are in for the 38th annual Student Hunger Drive](https://www.wqad.com/article/news/local/38th-annual-student-hunger-drive-results-river-bend-food-bank/526-4af9eec3-1369-4ae8-8859-0277dacafebd)
+        #### [Inaugural 'QC Veterans Festival' raising money for veteran suicide prevention](https://www.wqad.com/article/news/local/the-current/inaugural-qc-veterans-day-festival-raising-money-uncommon-valor/526-3c885687-f2a8-4154-a8ef-6900980682cd)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -58,7 +59,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/0b6c6049-4738-4e4b-bd1b-43fa79f235c2/20241108T131025/0b6c6049-4738-4e4b-bd1b-43fa79f235c2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0b6c6049-4738-4e4b-bd1b-43fa79f235c2/20241108T131025/0b6c6049-4738-4e4b-bd1b-43fa79f235c2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Morning fog gives way to sunshine and 60s for Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Nice Friday... Next shower chance approaching](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_360x203.jpg)](https://www.wqad.com/article/news/regional/volunteer-poll-workers-drown-flood-washed-highway-rural-missouri-election-day/63-f88470b8-e843-4811-ae70-fa590c23c1f1)
         
@@ -86,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-53°
+62°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
