@@ -2,6 +2,8 @@
 
         
 
+ [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) County Closure](https://www.jeffco.us/AlertCenter.aspx) [Jefferson County Weather Closure - Friday, November 8 Read on...](https://www.jeffco.us/AlertCenter.aspx?AID=Jefferson-County-Weather-Closure-Friday--833)
+
  [![Search](/ImageRepository/Document?documentID=76)](https://www.jeffco.us/Search/Results) Search
 
  
