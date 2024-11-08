@@ -259,7 +259,6 @@ Free standard shipping on orders over $29.00
         * [MX for Mac](https://www.logitech.com/en-us/mx/mx-for-mac.html)
         * [MX Software](https://www.logitech.com/en-us/mx/mx-software.html)
         * [For Creatives](https://www.logitech.com/en-us/mx/mx-creatives.html)
-        * [For Coders](https://www.logitech.com/en-us/mx/mx-creatives-coding.html)
         * [Explore all](https://www.logitech.com/en-us/mx/master-series.html)
         
         ![Lightbulb icon overlaid on tools and parts](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/discover-feature-sustainability.png?v=1)
