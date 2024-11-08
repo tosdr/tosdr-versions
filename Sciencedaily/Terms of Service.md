@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Deep Ocean Clues to Ice Age Puzzle](https://www.sciencedaily.com/releases/2024/11/241108113456.htm)
+* [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
+* [How Much Climate Change Is in the Weather?](https://www.sciencedaily.com/releases/2024/11/241108113529.htm)
+* [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
+* [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
+* [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
+* [Elephant Turns Hose Into Showering Tool](https://www.sciencedaily.com/releases/2024/11/241108113209.htm)
+* [Chimps Perform Better With an Audience](https://www.sciencedaily.com/releases/2024/11/241108113207.htm)
 * [Animals: 100-Million-Year Explosion in Color](https://www.sciencedaily.com/releases/2024/11/241107193216.htm)
 * [Memories Are Not Only in the Brain](https://www.sciencedaily.com/releases/2024/11/241107193111.htm)
-* [Mini-Tornadoes in Supersolid Quantum Gas](https://www.sciencedaily.com/releases/2024/11/241106132229.htm)
-* [Illuminate Black Holes With Echoes of Light](https://www.sciencedaily.com/releases/2024/11/241107160747.htm)
-* [People Buried in Pompeii Eruption: New Story](https://www.sciencedaily.com/releases/2024/11/241107160923.htm)
-* [CO2 to Useful Chemicals: Toward Colonizing Mars](https://www.sciencedaily.com/releases/2024/11/241107115225.htm)
-* [Explaining Extremely Well-Preserved Dino Fossils](https://www.sciencedaily.com/releases/2024/11/241104150518.htm)
-* [Lower Blood Pressure: Five Minutes Exercise ...](https://www.sciencedaily.com/releases/2024/11/241106190302.htm)
-* [Climate Change Parching the West: Evaporation](https://www.sciencedaily.com/releases/2024/11/241106190309.htm)
-* [Gophers-For-A-Day Helped Mt. St. Helens Recover](https://www.sciencedaily.com/releases/2024/11/241106171950.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
+[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
 
-[Public Health Education](https://www.sciencedaily.com/news/health_medicine/public_health_education/)
+[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -265,11 +265,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
-
 [Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
-[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+
+[Trees](https://www.sciencedaily.com/news/plants_animals/trees/)
 
   
 
