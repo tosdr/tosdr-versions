@@ -243,6 +243,18 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[Here’s to you if you stepped out of your comfort ![Here’s to you if you stepped out of your comfort zone today—even just a little! Bucket lists aren’t always about jumping out of planes or climbing mountains—though if you did, you’re amazing! 👏
+Sometimes, it’s about the small victories, like trying a new recipe, signing up for a dance class, or saying yes to something you almost talked yourself out of. 🌟 So if you tried something new today, this glass of Zinfandel is for YOU! 
+What little adventure did you have today?
+PS: this was my reward for try saying yes to an invitation I’d normally turn down 😊
+#bucketlist #bucketlist✔️ #goals #motovation #bucketlistadventures #bucketlisters #faceyourfears #saynotofear #takearisk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Here’s to you if you stepped out of your comfort zone today—even just a little! Bucket lists aren’t always about jumping out of planes or climbing mountains—though if you did, you’re amazing! 👏
+Sometimes, it’s about the small victories, like trying a new recipe, signing up for a dance class, or saying yes to something you almost talked yourself out of. 🌟 So if you tried something new today, this glass of Zinfandel is for YOU! 
+What little adventure did you have today?
+PS: this was my reward for try saying yes to an invitation I’d normally turn down 😊
+#bucketlist #bucketlist✔️ #goals #motovation #bucketlistadventures #bucketlisters #faceyourfears #saynotofear #takearisk](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCHVXphvEsX/) 
+
 [🌳 Here’s my one-day bucket list itinerary for ![🌳 Here’s my one-day bucket list itinerary for GOLDEN GATE PARK, SAN FRANCISCO 🌳
 (💫 SAVE for planning your trip to Northern #California💫)
 Want to conquer all that Golden Gate Park has to offer in just one day? Challenge accepted! At over 1,000 acres (bigger than Central Park!), this park is a haven of gardens, museums, lakes, and trails. Here’s how to make the most of it:
@@ -316,34 +328,6 @@ SEBASTOPOL, CALIFORNIA RESTAURANTS
 8️⃣ @oyster_sebastopol🦪 Fresh oysters, Oyster Po’Boys, baked oysters and lots of other yummy fish. 
 @visitsonoma @visitcalifornia
 #Sebastopol #sebastopolCalifornia #california #sonomacounty #northerncalifornia #BucketListAdventures #travelbucketlist #bucketlist #sonomacountyfood](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBY8VPtvX2n/) 
-
-[🚗✨ Here’s my one-day bucket list itinerary ![🚗✨ Here’s my one-day bucket list itinerary for POINT REYES, CALIFORNIA
-(💫 SAVE for planning your trip to Northern #California💫)
-1️⃣ Have coffee & pastries @brickmaidenbreads ☕️ All their pastries look yummy, but I loved the ginger scone. We also grabbed a loaf of seeded levain for the road 😋 
-2️⃣ Make a quick stop at the Inverness shipwreck 🚢  The old S.S. Point Reyes may be weathered, but it’s got character! 
-3️⃣ Stop at the Cypress Tree Tunnel. This spot is Instagram gold! No driving allowed, but it’s totally worth the stop for that perfect photo under the leafy canopy. 
-4️⃣ Hike the stairs to the #pointreyeslighthouse —313 stairs down…and yep, 313 back up! Pro tip: check the weather (fog-free days are a win). If it’s closed, the Chimney Rock hike is a great alternative with epic views! 
-5️⃣ Explore downtown Point Reyes Station. Tiny town, BIG charm! Don’t miss Cowgirl Barn for cheeses and picnic goodies, Toby’s Feed Barn for everything from jewelry to chocolate, plus @westmarinwoolshed @captainokodesign and @Vita Collage for home goods. 
-6️⃣ Do a cheese tasting at @pointreyescheese 🧀 Sit-down tastings go until September, but you can always stop by their shop for samples. If cheese for lunch isn’t calling your name, head to @thefarmersxwife inside the Cowgirl Barn. Get the tuna melt with potato chips ON it—thank me later. 😉 
-7️⃣ Do a Mead Tasting at @heidrunmeadery 🍯 Pick a flight of four meads or just enjoy a glass. If you’re there on a Saturday, tours are available too! 
-8️⃣ Stop @little_wing_farm Veggie & Flower Stand 🌶️ It’s an honor-system farm stand with the prettiest flowers and freshest veggies. Cash only—so come prepared! (The shishitos are 💯.) 
-9️⃣ Eat dinner @cafereyes_94956 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area. We ordered the Miwok pizza and a fresh mozzarella salad—perfect end to a perfect day! 
-Thanks for tagging along to Point Reyes 😊 
-@pointreyesnps ##pointreyeslighthouse #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia  #california #travelbucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![🚗✨ Here’s my one-day bucket list itinerary for POINT REYES, CALIFORNIA
-(💫 SAVE for planning your trip to Northern #California💫)
-1️⃣ Have coffee & pastries @brickmaidenbreads ☕️ All their pastries look yummy, but I loved the ginger scone. We also grabbed a loaf of seeded levain for the road 😋 
-2️⃣ Make a quick stop at the Inverness shipwreck 🚢  The old S.S. Point Reyes may be weathered, but it’s got character! 
-3️⃣ Stop at the Cypress Tree Tunnel. This spot is Instagram gold! No driving allowed, but it’s totally worth the stop for that perfect photo under the leafy canopy. 
-4️⃣ Hike the stairs to the #pointreyeslighthouse —313 stairs down…and yep, 313 back up! Pro tip: check the weather (fog-free days are a win). If it’s closed, the Chimney Rock hike is a great alternative with epic views! 
-5️⃣ Explore downtown Point Reyes Station. Tiny town, BIG charm! Don’t miss Cowgirl Barn for cheeses and picnic goodies, Toby’s Feed Barn for everything from jewelry to chocolate, plus @westmarinwoolshed @captainokodesign and @Vita Collage for home goods. 
-6️⃣ Do a cheese tasting at @pointreyescheese 🧀 Sit-down tastings go until September, but you can always stop by their shop for samples. If cheese for lunch isn’t calling your name, head to @thefarmersxwife inside the Cowgirl Barn. Get the tuna melt with potato chips ON it—thank me later. 😉 
-7️⃣ Do a Mead Tasting at @heidrunmeadery 🍯 Pick a flight of four meads or just enjoy a glass. If you’re there on a Saturday, tours are available too! 
-8️⃣ Stop @little_wing_farm Veggie & Flower Stand 🌶️ It’s an honor-system farm stand with the prettiest flowers and freshest veggies. Cash only—so come prepared! (The shishitos are 💯.) 
-9️⃣ Eat dinner @cafereyes_94956 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area. We ordered the Miwok pizza and a fresh mozzarella salad—perfect end to a perfect day! 
-Thanks for tagging along to Point Reyes 😊 
-@pointreyesnps ##pointreyeslighthouse #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia  #california #travelbucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBJgZzqPxVw/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
