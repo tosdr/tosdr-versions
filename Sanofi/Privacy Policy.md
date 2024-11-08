@@ -123,10 +123,6 @@
     * [Contacts](https://www.sanofi.com/en/investors/contacts)
 * Careers
     * [Careers](https://www.sanofi.com/en/careers)
-    * [Start Something Incredible](https://jobs.sanofi.com/en)
-    * [Explore Life as a Sanofian](https://jobs.sanofi.com/en/people-and-culture)
-    * [Unlock Your Total Rewards and Benefits](https://jobs.sanofi.com/en/rewards-and-benefits)
-    * [Find Your Next Role](https://jobs.sanofi.com/en/search-jobs)
     * [Global Terms and Conditions](https://www.sanofi.com/en/careers/global-terms-and-conditions)
 * Paris 2024
     * [Paris 2024](https://www.sanofi.com/en/paris-2024-partnership)
