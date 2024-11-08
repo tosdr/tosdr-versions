@@ -440,11 +440,3 @@ responsible rental sector
 [![](/images/nrla-advice-icon.svg)Get Advice](https://www.nrla.org.uk/advice/contact-landlord-support)
 
 [](https://www.facebook.com/NRLANews/ "Follow us on Facebook")[](https://x.com/NRLAssociation "Follow us on X")[](https://www.linkedin.com/company/nrlassociation "Follow us on LinkedIn")[](https://www.instagram.com/nrla_news/ "Follow us on Instagram")[](https://www.youtube.com/channel/UCq0GyQVlSuEupGKxFUqqWbw "Follow us on YouTube")
-
-[![](/image/6569:a1543295be1e2cfb8ceb0682d81acc5b182844e919b170f1a0b4c2af651b1c12:750:200:0:0:750:200)](https://www.nrla.org.uk/join)
-
-Hide
-
-[Join  
-the  
-NRLA](https://www.nrla.org.uk/join) More
