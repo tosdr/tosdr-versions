@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [The Art and Science of Chemical Blending: Innovations and Applications](https://xworld.org/reviews/the-art-and-science-of-chemical-blending-innovations-and-applications/)
+* [Why Resort Condos Are Ideal for Group Vacations](https://xworld.org/tour-and-travel/why-resort-condos-are-ideal-for-group-vacations/)
 * [Fitted v Modular Freestanding Wardrobe: The Pros and Cons](https://xworld.org/home-improvement/fitted-v-modular-freestanding-wardrobe-the-pros-and-cons/)
 * [Top Qualities of a Great Office Building Manager](https://xworld.org/home-improvement/top-qualities-of-a-great-office-building-manager/)
 * [What is sports journalism?](https://xworld.org/sports/what-is-sports-journalism/)
-* [Six types of digital advertising](https://xworld.org/technology-and-gadget/six-types-of-digital-advertising/)
-* [An introduction to heat pumps](https://xworld.org/home-improvement/an-introduction-to-heat-pumps/)
 
 ### Categories
 
@@ -121,6 +121,7 @@ Search for:
 
 ### Archives
 
+* [November 2024](https://xworld.org/2024/11/)
 * [October 2024](https://xworld.org/2024/10/)
 * [September 2024](https://xworld.org/2024/09/)
 * [August 2024](https://xworld.org/2024/08/)
