@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Amount Given by Supporters and Opponents of 2013 & 2014 Ballot Measures](/assets/Images/teasers/full/2013-14-Amts-to-Passed-Failed-BMs.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![ThirdParty](/assets/logos/ThirdParty.png)](http://www.followthemoney.org/research/institute-research/third-party-candidates-face-long-odds)
+
+How many third-party candidates were successful 2000-2009?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
