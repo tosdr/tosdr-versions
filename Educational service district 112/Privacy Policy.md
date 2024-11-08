@@ -59,6 +59,7 @@ Search for:
                 * [Educator Effectiveness (TPEP)](https://www.esd112.org/tpep/)
                 * [ESD-U (Alternative Routes to Certification)](https://www.esd112.org/esd-u/)
                 * [Inclusionary Practices Project (IPP)](https://www.esd112.org/inclusionary-practices-project/)
+                * [Let’s Go Bicycle Education Program](https://www.esd112.org/bicycle-education/)
                 * [Multi-Tiered System of Supports (MTSS)](https://www.esd112.org/mtss/)
                 * [Paraeducator Testing & Training](https://www.esd112.org/paraeducators/)
                 * [Professional Development for Certification](https://www.esd112.org/pd-certfication/)
