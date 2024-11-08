@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
+![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
 
-Bergfreund Hannes
+Bergfreund Max
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -72,6 +72,10 @@ Portofrei ab € 69 (DE)
 100 Tage Rückgaberecht
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
+
+[](https://www.bergfreunde.de/p/black-coats/?listorderby=bfcustomsort&listorder=asc "Winterjacken Deal")
+
+Bis zu 50% auf WINTERJACKEN DEALS »
 
 Menü
 
@@ -848,11 +852,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43008 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43020 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.008 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.020 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -916,6 +920,7 @@ Kundenservice
 * [Hinweisgeberstelle](https://www.bergfreunde.de/hinweisgeberstelle/ "Hinweisgeberstelle bei den Bergfreunden")
 * [Nachhaltigkeit](https://www.bergfreunde.de/nachhaltigkeit/ "Nachhaltigkeit bei den Bergfreunden")
 * [Pflegewiki](https://www.bergfreunde.de/pflegewiki/ "Pflegewiki von Bergfreunde")
+* [Black Outdoor Days\*](https://www.bergfreunde.de/black-outdoor-days-info/ "Black Outdoor Days")
 
 * \* Die durchgestrichenen Preise entsprechen unseren Markteinführungspreisen der aktuellen Saison.
 * \*\* Der Gutschein gilt ab einem Mindestabnahmewert (nach Retoure) von 40 Euro. Gutscheine für die Erstellung eines Kundenkonto können nur einmal pro Person und Bestellung eingelöst werden. Der Gutschein kann nicht für bereits ausgeführte Bestellungen benutzt werden und ist nicht mit weiteren Gutscheinen kombinierbar.
