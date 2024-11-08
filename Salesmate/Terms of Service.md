@@ -1,6 +1,6 @@
 ![fbpx](https://www.facebook.com/tr?id=2980429715595154&ev=PageView&noscript=1)                 
 
-Get 10% off on all Salesmate annual plans. Paste the the code **"BLACKFRIDAY24"** at the check out. [Try Salesmate NOW!](https://www.salesmate.io/?registration=true)
+Get 10% off on all Salesmate annual plans. Enter this code: **"BLACKFRIDAY24"** at the check out. [Try Salesmate NOW!](https://accounts.salesmate.io/registration/#/)
 
   [![salesmate](https://www.salesmate.io/wp-content/uploads/2024/03/sm-logo-crm-update.svg)](https://www.salesmate.io/)
 
@@ -443,7 +443,7 @@ No credit card required. Cancel anytime.
 
 Connect
 
- [![salesmate](https://www.salesmate.io/wp-content/uploads/2024/10/halloween-logo-salesmate_latest@2x.png)](https://www.salesmate.io/)
+  [![salesmate](https://www.salesmate.io/wp-content/uploads/2024/03/sm-logo-crm-update.svg)](https://www.salesmate.io/)
 
 * [All-in-One CRM](https://www.salesmate.io/all-in-one-crm/)
 * [Pricing](https://www.salesmate.io/pricing/)
