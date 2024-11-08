@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Trump won … but wait, Albo just got another flight upgrade!](https://independentaustralia.net/article-display/trump-won-but-wait-albo-just-got-another-flight-upgrade,19150 "Permanent Link : Trump won … but wait, Albo just got another flight upgrade!")
+* [Dominique Grubisa is toast, or at least in 'the Toaster'](https://independentaustralia.net/article-display/dominique-grubisa-is-toast-or-at-least-in-the-toaster,19155 "Permanent Link : Dominique Grubisa is toast, or at least in 'the Toaster'")
+* [Media consumption falls as Aussies seek trusted sources](https://independentaustralia.net/article-display/media-consumption-falls-as-aussies-seek-trusted-sources,19154 "Permanent Link : Media consumption falls as Aussies seek trusted sources")
 * [Transparency over nuclear reactors vital in making decisions](https://independentaustralia.net/article-display/transparency-over-nuclear-reactors-vital-in-making-decisions,19152 "Permanent Link : Transparency over nuclear reactors vital in making decisions")
 * [CARTOONS: America chooses](https://independentaustralia.net/article-display/cartoons-america-chooses,19147 "Permanent Link : CARTOONS: America chooses")
 * [EDITORIAL: Trump won … but wait, Albo just got another flight upgrade!](https://independentaustralia.net/article-display/editorial-trump-won-but-wait-albo-just-got-another-flight-upgrade,19149 "Permanent Link : EDITORIAL: Trump won … but wait, Albo just got another flight upgrade!")
 * [Trump Mark II: Chaos personified](https://independentaustralia.net/article-display/trump-mark-ii-chaos-personified,19148 "Permanent Link : Trump Mark II: Chaos personified")
-* [A blueprint for peace](https://independentaustralia.net/article-display/a-blueprint-for-peace,19146 "Permanent Link : A blueprint for peace")
-* ['Mean Streak' relives Robodebt horrors](https://independentaustralia.net/article-display/mean-streak-relives-robodebt-horrors,19145 "Permanent Link : 'Mean Streak' relives Robodebt horrors")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
