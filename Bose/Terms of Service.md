@@ -209,7 +209,7 @@ Black Friday Sneak Peek
 Bose SMS Terms of Use
 =====================
 
-Last updated: June 6, 2024
+Last updated: November 7, 2024
 
 [E-SIGN disclosure and agreement](#E-SIGN_disclosure_and_agreement) [Opt in](#Opt_in) [Opt out](#Opt_out) [Charges](#Charges) [Eligibility and change in phone number](#Eligibility_and_change_in_phone_number) [Changes to the SMS Terms](#Changes_to_the_SMS_Terms) [Questions](#Questions)
 
@@ -231,7 +231,7 @@ By opting into any Bose text messaging program, you expressly consent to receive
 
 Opt out
 
-To stop receiving text messages from us, you agree to reply either **“STOP”**, **“END”**, **“CANCEL”**, or **“UNSUBSCRIBE”** to the number sending the message. After such, you may receive additional communications confirming that your request has been received and processed, and you may continue to receive text messages for a short period while we process your request. If you opt out of one Bose text messaging program, you will remain opted into other Bose text messaging programs (if applicable) unless you opt out of those programs separately. If you need further assistance, text **“HELP”** to the number sending the message, or contact Bose customer service at (800) 379-2073. After opting out of receiving text messages, you can re-enroll in any Bose text messaging program by following the instructions for that program.  
+To stop receiving text messages from us, you agree to reply either **“STOP”**, **“END”**, **“CANCEL”**, or **“UNSUBSCRIBE”** to the number sending the message. After such, you may receive additional communications confirming that your request has been received and processed, and you may continue to receive text messages for a short period while we process your request. If you opt out of one Bose text messaging program, you will remain opted into other Bose text messaging programs (if applicable) unless you opt out of those programs separately. If you need further assistance, text **“HELP”** to the number sending the message, or [visit Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US). After opting out of receiving text messages, you can re-enroll in any Bose text messaging program by following the instructions for that program.  
 
 [Back to top](#maincontent)
 
@@ -255,7 +255,7 @@ These SMS Terms may be updated by Bose at any time without prior notice. By cont
 
 Questions
 
-For questions about these SMS Terms or Bose’s text messaging programs, please contact Bose customer service at (800) 379-2073.  
+For questions about these SMS Terms or Bose’s text messaging programs, please [visit Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US).  
 
 [Back to top](#maincontent)
 
