@@ -347,7 +347,7 @@ We are publishing this Transparency Report on whether we have received governmen
 
 We believe it is important to let our users know in cases we are required to disclose information with governments.
 
-As of today, November 7, 2024, we can confirm that:
+As of today, November 8, 2024, we can confirm that:
 
 * Emsisoft has never modified its software for the purpose of collecting data due to political pressure.
 * Emsisoft has never modified its software to prevent detection of any malicious software due to political pressure.
