@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/visitor-centre/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20241107_054360000/rutherford-tom/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/visitor-centre/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20241107_054360000/rutherford-tom/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
