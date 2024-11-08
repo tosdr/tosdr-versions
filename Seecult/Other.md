@@ -428,11 +428,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/its.jpg?itok=W35cbyZb)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/manik-missing-people/ulus-2004-seecult-mars.jpg?itok=KSZLgbQt)](http://seecult.org/galerija/galerija-umetnika/manik/manik-missing-people)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nekako-drugacije-msuv-6-28907/somewhat-different-60.jpg?itok=_qeIC5T0)](http://seecult.org/galerija/foto-galerija/foto-arhiva/nekako-drugacije-msuv-6-28907)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/balcan1.jpg?itok=yKol5dnH)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
