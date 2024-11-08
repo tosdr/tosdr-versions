@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you so much for your assistance, you seem a scholar and a gent and it was a great pleasure to speak with you. Kudos and kind regards to your team, your family, and anyone else you know. Seriously -- thank you.
+I'm actually quite impressed with the product \[GeoShift\].
 
-Dan Revell
+Dustin Personius
