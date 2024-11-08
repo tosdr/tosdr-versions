@@ -100,8 +100,6 @@ your email
 
 A password will be e-mailed to you.
 
-Advertisement
-
 [Home](https://healthstoday.com/) Terms of Use
 
 Terms of Use
