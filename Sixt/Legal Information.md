@@ -6,7 +6,7 @@ The browser version you’re using is no longer supported. Update to a newer ver
 
 [Chrome](https://www.google.com/intl/en-US/chrome/)[Firefox](https://www.mozilla.org/en-US/firefox/new/)[Edge](https://www.microsoft.com/en-US/edge)[Safari](https://support.apple.com/en_US/downloads/safari)
 
-[Proceed anyway](https://www.sixt.com/php/reservation)
+Proceed anyway
 
 [Help](https://www.sixt.com/help-center/)
 
