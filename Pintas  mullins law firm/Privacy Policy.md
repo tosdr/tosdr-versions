@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can my lawyer settle my case without me?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-my-lawyer-settle-my-case-without-me-scaled.jpg "Can My Lawyer Settle My Case Without Me?")](https://www.pintas.com/faq/can-my-lawyer-settle-my-case-without-me/ "Can My Lawyer Settle My Case Without Me?")
+[![Is mesothelioma considered lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/is-mesothelioma-considered-lung-cancer-scaled.jpg "Is Mesothelioma Considered Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-considered-lung-cancer/ "Is Mesothelioma Considered Lung Cancer?")
 
-[#### Can My Lawyer Settle My Case Without Me?](https://www.pintas.com/faq/can-my-lawyer-settle-my-case-without-me/)
+[#### Is Mesothelioma Considered Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-considered-lung-cancer/)
 
-[![When should i contact a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomawhen-should-i-contact-a-mesothelioma-lawyer-scaled.jpg "When Should I Contact a Mesothelioma Lawyer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/ "When Should I Contact a Mesothelioma Lawyer?")
+[![Is wandering a common sign of memory care facility neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-is-wandering-a-common-sign-of-memory-care-facility-neglect-300x200.jpg "Is Wandering a Common Sign of Memory Care Facility Neglect?")](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/ "Is Wandering a Common Sign of Memory Care Facility Neglect?")
 
-[#### When Should I Contact a Mesothelioma Lawyer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/)
+[#### Is Wandering a Common Sign of Memory Care Facility Neglect?](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/)
 
-[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
+[![Can bladder cancer be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-can-bladder-cancer-be-caused-by-asbestos.jpg "Can Bladder Cancer Be Caused by Asbestos?")](https://www.pintas.com/lung-cancer/can-bladder-cancer-be-caused-by-asbestos/ "Can Bladder Cancer Be Caused by Asbestos?")
 
-[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
+[#### Can Bladder Cancer Be Caused by Asbestos?](https://www.pintas.com/lung-cancer/can-bladder-cancer-be-caused-by-asbestos/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
