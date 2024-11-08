@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Johan Botha - Brand Xplosion
+Henry Venter
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=89889645)  
-Sarabi
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=60491020)  
+Lemba Truck Stop
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=179889486)  
-AquariumSmiths
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=206505967)  
+NIMAWELL
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=82275670)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=157401955)  
+Mtunzini Group
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=143371786)  
-Printo
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=40976034)  
+Redlum Group (Pty) Ltd
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=214078635)  
-Druce Digital
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=13310064)  
+Nilbet T/A Waterman
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=29809485)  
-WIP Digital Solutions
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=70220846)  
+Wiselink Broadband Dundee
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=81516333)  
-Hydroworld T/A Milliqua
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=119553952)  
+FJW Security Cc
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=165603483)  
-M's Frozen Delights
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=180882623)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=122262627)  
-Forgotten Goods (Pty) Ltd
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=113277492)  
-MOSELA GROUP Pty(ltd)
-
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=75514465)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=43472439)  
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=55058246)  
 OXYAIDER (PTY) LTD
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=60224001)  
-VIR Electrical (PTY) LTD
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=202512576)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=121339470)  
-Depot Diesel (Pty) Ltd
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=82756053)  
+Dombieterfontein (PTY) LTD
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=b3f8e8e57f27ed9edce8b957673aa4706b1770f9dc91701c8af2b0e34e290fde&c=98329611)  
-Leef in Afrikaans
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=70286700)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=154612650)  
+Lily Fern & Co
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=59381539)  
+Nogana Events and Decor
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=8a86454e7ab61b4615c4094e86af01dc36e9384731696a4ea9a01b16953be489&c=163396404)  
+INVOICES/JOBCARDS ONLINE
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
