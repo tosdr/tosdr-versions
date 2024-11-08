@@ -109,7 +109,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 [Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
 
-* ### AI for networking
+* AI for networking
     
 * * [AIOps](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
@@ -119,18 +119,18 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
     * [Secure automated data center](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
 
-* ### Networking for AI
+* Networking for AI
     
 * * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
     * [Ops4AI](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
 
-* ### Security
+* Security
     
 * * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
     * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
     * [Security and threat services](https://www.juniper.net/us/en/solutions/threat-detection-and-mitigation.html)
 
-* ### Campus and branch
+* Campus and branch
     
 * * [AI for IT operations (AIOps)](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
     * [Wireless access](https://www.juniper.net/us/en/solutions/wireless-access.html)
@@ -141,7 +141,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 * * [Campus and branch overview](https://www.juniper.net/us/en/campus-and-branch.html)
 
-* ### AI data center
+* AI data center
     
 * * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
     * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
@@ -152,17 +152,17 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 * * [See all data center solutions](https://www.juniper.net/us/en/solutions/data-center.html)
     * [Juniper data center validated designs](https://www.juniper.net/documentation/validated-designs/us/en/data-center/)
 
-* ### [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
+* [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
     
 * * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
     * [Automated data center fabrics](https://www.juniper.net/us/en/solutions/data-center/network-fabrics.html)
     * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
 
-* ### Zero Trust data center
+* Zero Trust data center
     
 * * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
 
-* ### Data center interconnect
+* Data center interconnect
     
 * * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
 
@@ -172,9 +172,9 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself. You can try out your own model’s functionality and performance, too.
 
-[Vist the lab](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+[Visit the lab](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
 
-* ### WAN
+* WAN
     
 * * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
     * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
@@ -188,16 +188,17 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 [Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
 
-* ### Security
+* Security
     
 * * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
     * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
 
 * * [Security overview](https://www.juniper.net/us/en/security.html)
 
-* ### WAN
+* WAN
     
-* * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
+* * [Cloud and service provider WAN](https://www.juniper.net/us/en/solutions/cloud-and-service-provider-wan.html)
+    * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
     * [Metro access and aggregation](https://www.juniper.net/us/en/solutions/ip-transport-solution/metro.html)
     * [Core](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
     * [Multi-service edge](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
@@ -209,21 +210,21 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [Open RAN](https://www.juniper.net/us/en/solutions/5g-networking/open-ran.html)
     * [Service provider security](https://www.juniper.net/us/en/solutions/service-provider-security.html)
 
-* ### Data center
+* Data center
     
 * * [Data center networks](https://www.juniper.net/us/en/solutions/data-center.html)
     * [Telco and edge cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
     * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
     * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
 
-* ### Managed services
+* Managed services
     
 * * [Managed services](https://www.juniper.net/us/en/solutions/managed-services.html)
     * [Managed SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan/managed-sd-wan.html)
 
 * * [Service provider overview](https://www.juniper.net/us/en/service-provider.html)
 
-* ### Data center
+* Data center
     
 * * [Data center networking](https://www.juniper.net/us/en/solutions/data-center.html)
     * [AI data center](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
@@ -232,7 +233,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
     * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
 
-* ### WAN
+* WAN
     
 * * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
     * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
@@ -243,7 +244,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 * * [Cloud operator overview](https://www.juniper.net/us/en/cloud-operator.html)
     * [Cloud operator validated designs](https://www.juniper.net/documentation/validated-designs/)
 
-* ### [Industries](https://www.juniper.net/us/en/solutions/industries.html)
+* [Industries](https://www.juniper.net/us/en/solutions/industries.html)
     
 * * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
     * [Education](https://www.juniper.net/us/en/solutions/education.html)
@@ -286,14 +287,14 @@ Blueprint for AI-Native Acceleration
 
 Optics
 
-* ### [Wireless access points](https://www.juniper.net/us/en/products/access-points.html)
+* [Wireless access points](https://www.juniper.net/us/en/products/access-points.html)
     
 * * [Wi-Fi 7](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-7-(802-11be))
     * [Wi-Fi 6E and Wi-Fi 6](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-6-(-802-11ax))
     * [Bluetooth LE](https://www.juniper.net/us/en/products/access-points/bt11-access-point.html)
     * [On-prem Edge](https://www.juniper.net/us/en/products/access-points/edge.html)
 
-* ### Services
+* Services
     
 * * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
@@ -302,54 +303,54 @@ Optics
     * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
     * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
 
-* ### Switches
+* Switches
     
 * * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
 
-* ### Services
+* Services
     
 * * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
     * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
     * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
 
-* ### SD-WAN
+* SD-WAN
     
 * * [Session Smart Routers](https://www.juniper.net/us/en/products/routers/session-smart-router.html)
     * [Next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html?filters=location:branch)
 
-* ### Edge security
+* Edge security
     
 * * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
     * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
 
-* ### Services
+* Services
     
 * * [WAN Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
     * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
     * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
 
-* ### [Routers](https://www.juniper.net/us/en/products/routers.html)
+* [Routers](https://www.juniper.net/us/en/products/routers.html)
     
 * * [ACX access and aggregation](https://www.juniper.net/us/en/products/routers/acx-series.html)
     * [MX multi-service](https://www.juniper.net/us/en/products/routers/mx-series.html)
     * [PTX packet transport](https://www.juniper.net/us/en/products/routers/ptx-series.html)
 
-* ### [Switches](https://www.juniper.net/us/en/products/switches.html)
+* [Switches](https://www.juniper.net/us/en/products/switches.html)
     
 * * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
     * [QFX data center](https://www.juniper.net/us/en/products/switches/qfx-series.html)
 
-* ### Operations
+* Operations
     
 
-* ### Data center automation
+* Data center automation
     
 * * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
     * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
 
-* ### WAN automation
+* WAN automation
     
 * * [Edge Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
     * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
@@ -359,20 +360,20 @@ Optics
     * [Paragon Pathfinder](https://www.juniper.net/us/en/products/network-automation/paragon-pathfinder.html)
     * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
 
-* ### Firewalls
+* Firewalls
     
 * * [SRX next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html)
 
-* ### Edge security
+* Edge security
     
 * * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
     * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
 
-* ### Network access control (NAC)
+* Network access control (NAC)
     
 * * [Access Assurance](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
 
-* ### Security management and services
+* Security management and services
     
 * * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
     * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
@@ -382,13 +383,13 @@ Optics
 * * [See all security products](https://www.juniper.net/us/en/products/security.html)
     * [See security validated designs](https://www.juniper.net/documentation/validated-designs/us/en/security/)
 
-* ### Mist AI™
+* Mist AI™
     
 * * [Cloud subscription services](https://www.juniper.net/us/en/products/cloud-services.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
     * [See all Mist AI products](https://www.juniper.net/us/en/products/mist-ai.html)
 
-* ### Learn more
+* Learn more
     
 * * [Explainable AI](https://www.juniper.net/us/en/dm/explainable-ai.html)
 
@@ -398,9 +399,9 @@ Optics
 
 Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
-[Catch the latest episode](https://www.juniper.net/us/en/content/juniper/en/us/executive-insights/bob-friday)
+[Catch the latest episode](https://www.juniper.net/us/en/executive-insights/bob-friday.html)
 
-* ### [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
+* [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
     
 * * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
     * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
@@ -411,13 +412,13 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
     * [User Engagement (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/user-engagement.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
 
-* ### Data center
+* Data center
     
 * * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
     * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
     * [Marvis VNA for Data Center](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-vna-for-data-center.html)
 
-* ### WAN
+* WAN
     
 * * [Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
     * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
@@ -428,35 +429,35 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
     * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
     * [Marvis VNA for Routing](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
 
-* ### Security
+* Security
     
 * * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
     * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
 
-* ### [Network operating system](https://www.juniper.net/us/en/products/network-operating-system.html)
+* [Network operating system](https://www.juniper.net/us/en/products/network-operating-system.html)
     
 * * [Junos OS](https://www.juniper.net/us/en/products/network-operating-system/junos-os.html)
     * [Junos OS Evolved](https://www.juniper.net/us/en/products/network-operating-system/junos-evolved.html)
 
-* ### Learn
+* Learn
     
-* * [Free training](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
+* * [Free training](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/learning-and-certification.html)
     * [Training and certification](https://www.juniper.net/us/en/training.html)
 
-* ### Try
+* Try
     
 * * [AI on us](https://www.juniper.net/us/en/forms/juniper-mist-ai-on-us.html)
     * [Free AP](https://www.juniper.net/us/en/forms/free-gear.html)
     * [WAN 2x](https://www.juniper.net/us/en/forms/2024/juniper-wan2x-incentive-program.html)
     * [Security buy 1 get 2](https://www.juniper.net/us/en/forms/2024/security-buy-1-get-2-years-free-subscription.html)
 
-* ### Buy
+* Buy
     
 * * [Enterprise Agreements](https://www.juniper.net/us/en/solutions/enterprise-agreements.html)
     * [Networking as a Service (NaaS)](https://www.juniper.net/us/en/solutions/naas-network-as-a-service.html)
     * [Cloud marketplace](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
 
-* ### Deploy and optimize
+* Deploy and optimize
     
 * * [Juniper Validated Designs (JVD)](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/juniper-validated-designs.html)
     * [Support Insights](https://www.juniper.net/us/en/services/support-services/support-insights.html)
@@ -464,7 +465,7 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
 * * [Blueprint for AI-Native Acceleration](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
 
-* ### [Optics](https://www.juniper.net/us/en/products/pluggable-optics.html)
+* [Optics](https://www.juniper.net/us/en/products/pluggable-optics.html)
     
 * * [Coherent optics](https://www.juniper.net/us/en/products/pluggable-optics/jco-series.html)
     * [Qualified optics](https://www.juniper.net/us/en/products/pluggable-optics/qualified-optics.html)
@@ -479,7 +480,7 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
 Partners
 
-* ### Our partners
+* Our partners
     
 * * [Find a partner](https://juniper.my.site.com/prm/s/partnerlocator)
     * [Find a distributor](https://juniper.my.site.com/prm/s/distributorlocator)
@@ -489,12 +490,12 @@ Partners
     * [Solution partners](https://www.juniper.net/us/en/partners/solution-partners.html)
     * [Technology alliances](https://www.juniper.net/us/en/partners/technology-alliances.html)
 
-* ### Become a partner
+* Become a partner
     
 * * [Partner program overview](https://www.juniper.net/us/en/partners.html)
     * [Partner application](https://juniper.my.site.com/prm/s/onboarding)
 
-* ### Enrolled partner
+* Enrolled partner
     
 * * [Partner log in](https://partners.juniper.net/partnercenter/index.page)
     * [Learning Academy](https://jpartnertraining.juniper.net/)
@@ -504,7 +505,7 @@ Partners
 
 Support and Documentation
 
-* ### Documentation
+* Documentation
     
 * * [Product documentation](https://www.juniper.net/documentation/)
     * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
@@ -513,7 +514,7 @@ Support and Documentation
     * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
     * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
 
-* ### Downloads
+* Downloads
     
 * * [EX Series](https://support.juniper.net/support/downloads/?f=ex)
     * [SRX Series](https://support.juniper.net/support/downloads/?f=srx)
@@ -522,7 +523,7 @@ Support and Documentation
     * [ACX Series](https://support.juniper.net/support/downloads/?f=acx)
     * [See all software downloads](https://support.juniper.net/support/downloads/)
 
-* ### Tools and resources
+* Tools and resources
     
 * * [Juniper support](https://support.juniper.net/support/)
     * [Elevate community](https://community.juniper.net/home)
@@ -533,7 +534,7 @@ Support and Documentation
     * [Report a vulnerability](https://www.juniper.net/us/en/report-a-security-vulnerability.html)
     * [Contact Support](https://support.juniper.net/support/requesting-support/)
 
-* ### Juniper Support Portal
+* Juniper Support Portal
     
 * * [Log in](https://supportportal.juniper.net/s/?language=en_US)
 
@@ -563,7 +564,7 @@ Technology learning topics
 
 Thought leadership and insights
 
-* ### Company
+* Company
     
 * * [About us](https://www.juniper.net/us/en/company.html)
     * [Company profile](https://www.juniper.net/us/en/company/profile.html)
@@ -575,20 +576,20 @@ Thought leadership and insights
     * [Juniper innovations](https://www.juniper.net/us/en/company/juniper-innovations.html)
     * [Executive Briefing Program](https://www.juniper.net/us/en/company/executive-briefing.html)
 
-* ### Careers
+* Careers
     
 * * [Current job openings](https://jobs.juniper.net/careers)
     * [Company culture and careers](https://www.juniper.net/us/en/company/culture-careers.html)
     * [Inclusion and diversity](https://www.juniper.net/us/en/company/inclusion-diversity.html)
     * [Our values](https://www.juniper.net/us/en/company/culture-careers/values.html)
 
-* ### Media and analyst relations
+* Media and analyst relations
     
 * * [Global media contacts](https://www.juniper.net/us/en/company/contact-us/media.html)
     * [Industry analyst and influencer relations](https://www.juniper.net/us/en/company/analyst-relations.html)
     * [Investor relations](https://investor.juniper.net/investor-relations/default.aspx)
 
-* ### Training
+* Training
     
 * * [Training overview](https://www.juniper.net/us/en/training.html)
     * [Schedule of live classes](https://learningportal.juniper.net/juniper/schedule_classes.aspx?&TrackId=jnet-nav)
@@ -598,7 +599,7 @@ Thought leadership and insights
     * [Payment options](https://www.juniper.net/us/en/training/purchase-options.html)
     * [Learning Portal](https://learningportal.juniper.net/juniper/default.aspx?&TrackId=jnet-nav)
 
-* ### Certification
+* Certification
     
 * * [Juniper certification](https://www.juniper.net/us/en/training/certification.html)
     * [Certification tracks](https://www.juniper.net/us/en/training/certification.html)
@@ -625,14 +626,14 @@ Thought leadership and insights
 
 [Register now](https://www.juniper.net/us/en/events/ai-native-now.html)
 
-* ### Videos
+* Videos
     
 * * [The Feed](https://www.juniper.net/us/en/the-feed.html)
     * [Browse by topic](https://www.juniper.net/us/en/the-feed/topics.html)
     * [Video series](https://www.juniper.net/us/en/the-feed/series.html)
     * [Leadership voices](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
 
-* ### Podcasts
+* Podcasts
     
 * * [Channel chats](https://www.juniper.net/us/en/the-feed/series/channel-chats.html)
     * [Be bold](https://www.juniper.net/us/en/the-feed/series/be-bold.html)
@@ -643,7 +644,7 @@ Thought leadership and insights
 
 [Watch the video series](https://www.juniper.net/us/en/the-feed/series/the-now-way-to-network.html)
 
-* ### Customers
+* Customers
     
 * * [Customer success stories](https://www.juniper.net/us/en/customers.html)
     * [Getting started](https://www.juniper.net/us/en/customers/welcome.html)
@@ -651,7 +652,7 @@ Thought leadership and insights
     * [Activate licenses](https://license.juniper.net/licensemanage/)
     * [Customer advocacy program](https://www.juniper.net/us/en/forms/participate-in-our-elevate-program.html)
 
-* ### Documentation
+* Documentation
     
 * * [Product documentation](https://www.juniper.net/documentation/)
     * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
@@ -661,14 +662,14 @@ Thought leadership and insights
     * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
     * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
 
-* ### Popular resources
+* Popular resources
     
 * * [Software downloads](https://support.juniper.net/support/downloads/)
     * [Blogs](https://blogs.juniper.net/)
     * [Elevate community](https://community.juniper.net/home)
     * [Juniper Threat Labs](https://threatlabs.juniper.net/home/#/)
 
-* ### AI
+* AI
     
 * * [What is AI-Native Networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-native-networking.html)
     * [What is AI for networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-for-networking.html)
@@ -676,7 +677,7 @@ Thought leadership and insights
     * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
     * [What is explainable AI (XAI)?](https://www.juniper.net/us/en/research-topics/what-is-explainable-ai-xai.html)
 
-* ### Data center
+* Data center
     
 * * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
     * [What is a data center network?](https://www.juniper.net/us/en/research-topics/what-is-a-data-center-network.html)
@@ -684,23 +685,23 @@ Thought leadership and insights
     * [What is intent-based networking?](https://www.juniper.net/us/en/research-topics/what-is-intent-based-networking.html)
     * [What is 400G?](https://www.juniper.net/us/en/research-topics/what-is-400g.html)
 
-* ### Network routing and switching
+* Network routing and switching
     
 * * [What is a router?](https://www.juniper.net/us/en/research-topics/what-is-a-router.html)
     * [What is a network switch?](https://www.juniper.net/us/en/research-topics/what-is-a-network-switch.html)
 
-* ### SD-WAN / SASE
+* SD-WAN / SASE
     
 * * [What is SD-WAN?](https://www.juniper.net/us/en/research-topics/what-is-sd-wan.html)
     * [SD-WAN explained](https://www.juniper.net/us/en/research-topics/sd-wan-explained.html)
     * [What is SASE?](https://www.juniper.net/us/en/research-topics/what-is-sase.html)
 
-* ### Security
+* Security
     
 * * [What is advanced threat prevention?](https://www.juniper.net/us/en/research-topics/what-is-advanced-threat-prevention.html)
     * [What is IDS and IPS?](https://www.juniper.net/us/en/research-topics/what-is-ids-ips.html)
 
-* ### Wireless
+* Wireless
     
 * * [What is an access point in networking?](https://www.juniper.net/us/en/research-topics/what-is-an-access-point-in-networking.html)
     * [Wi-Fi explained](https://www.juniper.net/us/en/research-topics/wifi-explained.html)
@@ -779,7 +780,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 [Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
 
-* ### AI for networking
+* AI for networking
     
 * * [AIOps](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
@@ -789,18 +790,18 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
     * [Secure automated data center](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
 
-* ### Networking for AI
+* Networking for AI
     
 * * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
     * [Ops4AI](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
 
-* ### Security
+* Security
     
 * * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
     * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
     * [Security and threat services](https://www.juniper.net/us/en/solutions/threat-detection-and-mitigation.html)
 
-* ### Campus and branch
+* Campus and branch
     
 * * [AI for IT operations (AIOps)](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
     * [Wireless access](https://www.juniper.net/us/en/solutions/wireless-access.html)
@@ -811,7 +812,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 * * [Campus and branch overview](https://www.juniper.net/us/en/campus-and-branch.html)
 
-* ### AI data center
+* AI data center
     
 * * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
     * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
@@ -822,17 +823,17 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 * * [See all data center solutions](https://www.juniper.net/us/en/solutions/data-center.html)
     * [Juniper data center validated designs](https://www.juniper.net/documentation/validated-designs/us/en/data-center/)
 
-* ### [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
+* [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
     
 * * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
     * [Automated data center fabrics](https://www.juniper.net/us/en/solutions/data-center/network-fabrics.html)
     * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
 
-* ### Zero Trust data center
+* Zero Trust data center
     
 * * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
 
-* ### Data center interconnect
+* Data center interconnect
     
 * * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
 
@@ -842,9 +843,9 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself. You can try out your own model’s functionality and performance, too.
 
-[Vist the lab](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+[Visit the lab](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
 
-* ### WAN
+* WAN
     
 * * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
     * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
@@ -858,16 +859,17 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 [Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
 
-* ### Security
+* Security
     
 * * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
     * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
 
 * * [Security overview](https://www.juniper.net/us/en/security.html)
 
-* ### WAN
+* WAN
     
-* * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
+* * [Cloud and service provider WAN](https://www.juniper.net/us/en/solutions/cloud-and-service-provider-wan.html)
+    * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
     * [Metro access and aggregation](https://www.juniper.net/us/en/solutions/ip-transport-solution/metro.html)
     * [Core](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
     * [Multi-service edge](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
@@ -879,21 +881,21 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [Open RAN](https://www.juniper.net/us/en/solutions/5g-networking/open-ran.html)
     * [Service provider security](https://www.juniper.net/us/en/solutions/service-provider-security.html)
 
-* ### Data center
+* Data center
     
 * * [Data center networks](https://www.juniper.net/us/en/solutions/data-center.html)
     * [Telco and edge cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
     * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
     * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
 
-* ### Managed services
+* Managed services
     
 * * [Managed services](https://www.juniper.net/us/en/solutions/managed-services.html)
     * [Managed SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan/managed-sd-wan.html)
 
 * * [Service provider overview](https://www.juniper.net/us/en/service-provider.html)
 
-* ### Data center
+* Data center
     
 * * [Data center networking](https://www.juniper.net/us/en/solutions/data-center.html)
     * [AI data center](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
@@ -902,7 +904,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
     * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
 
-* ### WAN
+* WAN
     
 * * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
     * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
@@ -913,7 +915,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 * * [Cloud operator overview](https://www.juniper.net/us/en/cloud-operator.html)
     * [Cloud operator validated designs](https://www.juniper.net/documentation/validated-designs/)
 
-* ### [Industries](https://www.juniper.net/us/en/solutions/industries.html)
+* [Industries](https://www.juniper.net/us/en/solutions/industries.html)
     
 * * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
     * [Education](https://www.juniper.net/us/en/solutions/education.html)
@@ -958,14 +960,14 @@ Blueprint for AI-Native Acceleration
 
 Optics
 
-* ### [Wireless access points](https://www.juniper.net/us/en/products/access-points.html)
+* [Wireless access points](https://www.juniper.net/us/en/products/access-points.html)
     
 * * [Wi-Fi 7](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-7-(802-11be))
     * [Wi-Fi 6E and Wi-Fi 6](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-6-(-802-11ax))
     * [Bluetooth LE](https://www.juniper.net/us/en/products/access-points/bt11-access-point.html)
     * [On-prem Edge](https://www.juniper.net/us/en/products/access-points/edge.html)
 
-* ### Services
+* Services
     
 * * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
@@ -974,54 +976,54 @@ Optics
     * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
     * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
 
-* ### Switches
+* Switches
     
 * * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
 
-* ### Services
+* Services
     
 * * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
     * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
     * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
 
-* ### SD-WAN
+* SD-WAN
     
 * * [Session Smart Routers](https://www.juniper.net/us/en/products/routers/session-smart-router.html)
     * [Next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html?filters=location:branch)
 
-* ### Edge security
+* Edge security
     
 * * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
     * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
 
-* ### Services
+* Services
     
 * * [WAN Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
     * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
     * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
 
-* ### [Routers](https://www.juniper.net/us/en/products/routers.html)
+* [Routers](https://www.juniper.net/us/en/products/routers.html)
     
 * * [ACX access and aggregation](https://www.juniper.net/us/en/products/routers/acx-series.html)
     * [MX multi-service](https://www.juniper.net/us/en/products/routers/mx-series.html)
     * [PTX packet transport](https://www.juniper.net/us/en/products/routers/ptx-series.html)
 
-* ### [Switches](https://www.juniper.net/us/en/products/switches.html)
+* [Switches](https://www.juniper.net/us/en/products/switches.html)
     
 * * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
     * [QFX data center](https://www.juniper.net/us/en/products/switches/qfx-series.html)
 
-* ### Operations
+* Operations
     
 
-* ### Data center automation
+* Data center automation
     
 * * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
     * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
 
-* ### WAN automation
+* WAN automation
     
 * * [Edge Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
     * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
@@ -1031,20 +1033,20 @@ Optics
     * [Paragon Pathfinder](https://www.juniper.net/us/en/products/network-automation/paragon-pathfinder.html)
     * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
 
-* ### Firewalls
+* Firewalls
     
 * * [SRX next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html)
 
-* ### Edge security
+* Edge security
     
 * * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
     * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
 
-* ### Network access control (NAC)
+* Network access control (NAC)
     
 * * [Access Assurance](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
 
-* ### Security management and services
+* Security management and services
     
 * * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
     * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
@@ -1054,13 +1056,13 @@ Optics
 * * [See all security products](https://www.juniper.net/us/en/products/security.html)
     * [See security validated designs](https://www.juniper.net/documentation/validated-designs/us/en/security/)
 
-* ### Mist AI™
+* Mist AI™
     
 * * [Cloud subscription services](https://www.juniper.net/us/en/products/cloud-services.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
     * [See all Mist AI products](https://www.juniper.net/us/en/products/mist-ai.html)
 
-* ### Learn more
+* Learn more
     
 * * [Explainable AI](https://www.juniper.net/us/en/dm/explainable-ai.html)
 
@@ -1070,9 +1072,9 @@ Optics
 
 Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
-[Catch the latest episode](https://www.juniper.net/us/en/content/juniper/en/us/executive-insights/bob-friday)
+[Catch the latest episode](https://www.juniper.net/us/en/executive-insights/bob-friday.html)
 
-* ### [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
+* [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
     
 * * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
     * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
@@ -1083,13 +1085,13 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
     * [User Engagement (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/user-engagement.html)
     * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
 
-* ### Data center
+* Data center
     
 * * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
     * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
     * [Marvis VNA for Data Center](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-vna-for-data-center.html)
 
-* ### WAN
+* WAN
     
 * * [Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
     * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
@@ -1100,35 +1102,35 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
     * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
     * [Marvis VNA for Routing](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
 
-* ### Security
+* Security
     
 * * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
     * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
 
-* ### [Network operating system](https://www.juniper.net/us/en/products/network-operating-system.html)
+* [Network operating system](https://www.juniper.net/us/en/products/network-operating-system.html)
     
 * * [Junos OS](https://www.juniper.net/us/en/products/network-operating-system/junos-os.html)
     * [Junos OS Evolved](https://www.juniper.net/us/en/products/network-operating-system/junos-evolved.html)
 
-* ### Learn
+* Learn
     
-* * [Free training](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
+* * [Free training](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/learning-and-certification.html)
     * [Training and certification](https://www.juniper.net/us/en/training.html)
 
-* ### Try
+* Try
     
 * * [AI on us](https://www.juniper.net/us/en/forms/juniper-mist-ai-on-us.html)
     * [Free AP](https://www.juniper.net/us/en/forms/free-gear.html)
     * [WAN 2x](https://www.juniper.net/us/en/forms/2024/juniper-wan2x-incentive-program.html)
     * [Security buy 1 get 2](https://www.juniper.net/us/en/forms/2024/security-buy-1-get-2-years-free-subscription.html)
 
-* ### Buy
+* Buy
     
 * * [Enterprise Agreements](https://www.juniper.net/us/en/solutions/enterprise-agreements.html)
     * [Networking as a Service (NaaS)](https://www.juniper.net/us/en/solutions/naas-network-as-a-service.html)
     * [Cloud marketplace](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
 
-* ### Deploy and optimize
+* Deploy and optimize
     
 * * [Juniper Validated Designs (JVD)](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/juniper-validated-designs.html)
     * [Support Insights](https://www.juniper.net/us/en/services/support-services/support-insights.html)
@@ -1136,7 +1138,7 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
 * * [Blueprint for AI-Native Acceleration](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
 
-* ### [Optics](https://www.juniper.net/us/en/products/pluggable-optics.html)
+* [Optics](https://www.juniper.net/us/en/products/pluggable-optics.html)
     
 * * [Coherent optics](https://www.juniper.net/us/en/products/pluggable-optics/jco-series.html)
     * [Qualified optics](https://www.juniper.net/us/en/products/pluggable-optics/qualified-optics.html)
@@ -1153,7 +1155,7 @@ Partners
 
 Partners
 
-* ### Our partners
+* Our partners
     
 * * [Find a partner](https://juniper.my.site.com/prm/s/partnerlocator)
     * [Find a distributor](https://juniper.my.site.com/prm/s/distributorlocator)
@@ -1163,12 +1165,12 @@ Partners
     * [Solution partners](https://www.juniper.net/us/en/partners/solution-partners.html)
     * [Technology alliances](https://www.juniper.net/us/en/partners/technology-alliances.html)
 
-* ### Become a partner
+* Become a partner
     
 * * [Partner program overview](https://www.juniper.net/us/en/partners.html)
     * [Partner application](https://juniper.my.site.com/prm/s/onboarding)
 
-* ### Enrolled partner
+* Enrolled partner
     
 * * [Partner log in](https://partners.juniper.net/partnercenter/index.page)
     * [Learning Academy](https://jpartnertraining.juniper.net/)
@@ -1180,7 +1182,7 @@ Support and Documentation
 
 Support and Documentation
 
-* ### Documentation
+* Documentation
     
 * * [Product documentation](https://www.juniper.net/documentation/)
     * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
@@ -1189,7 +1191,7 @@ Support and Documentation
     * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
     * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
 
-* ### Downloads
+* Downloads
     
 * * [EX Series](https://support.juniper.net/support/downloads/?f=ex)
     * [SRX Series](https://support.juniper.net/support/downloads/?f=srx)
@@ -1198,7 +1200,7 @@ Support and Documentation
     * [ACX Series](https://support.juniper.net/support/downloads/?f=acx)
     * [See all software downloads](https://support.juniper.net/support/downloads/)
 
-* ### Tools and resources
+* Tools and resources
     
 * * [Juniper support](https://support.juniper.net/support/)
     * [Elevate community](https://community.juniper.net/home)
@@ -1209,7 +1211,7 @@ Support and Documentation
     * [Report a vulnerability](https://www.juniper.net/us/en/report-a-security-vulnerability.html)
     * [Contact Support](https://support.juniper.net/support/requesting-support/)
 
-* ### Juniper Support Portal
+* Juniper Support Portal
     
 * * [Log in](https://supportportal.juniper.net/s/?language=en_US)
 
@@ -1241,7 +1243,7 @@ Technology learning topics
 
 Thought leadership and insights
 
-* ### Company
+* Company
     
 * * [About us](https://www.juniper.net/us/en/company.html)
     * [Company profile](https://www.juniper.net/us/en/company/profile.html)
@@ -1253,20 +1255,20 @@ Thought leadership and insights
     * [Juniper innovations](https://www.juniper.net/us/en/company/juniper-innovations.html)
     * [Executive Briefing Program](https://www.juniper.net/us/en/company/executive-briefing.html)
 
-* ### Careers
+* Careers
     
 * * [Current job openings](https://jobs.juniper.net/careers)
     * [Company culture and careers](https://www.juniper.net/us/en/company/culture-careers.html)
     * [Inclusion and diversity](https://www.juniper.net/us/en/company/inclusion-diversity.html)
     * [Our values](https://www.juniper.net/us/en/company/culture-careers/values.html)
 
-* ### Media and analyst relations
+* Media and analyst relations
     
 * * [Global media contacts](https://www.juniper.net/us/en/company/contact-us/media.html)
     * [Industry analyst and influencer relations](https://www.juniper.net/us/en/company/analyst-relations.html)
     * [Investor relations](https://investor.juniper.net/investor-relations/default.aspx)
 
-* ### Training
+* Training
     
 * * [Training overview](https://www.juniper.net/us/en/training.html)
     * [Schedule of live classes](https://learningportal.juniper.net/juniper/schedule_classes.aspx?&TrackId=jnet-nav)
@@ -1276,7 +1278,7 @@ Thought leadership and insights
     * [Payment options](https://www.juniper.net/us/en/training/purchase-options.html)
     * [Learning Portal](https://learningportal.juniper.net/juniper/default.aspx?&TrackId=jnet-nav)
 
-* ### Certification
+* Certification
     
 * * [Juniper certification](https://www.juniper.net/us/en/training/certification.html)
     * [Certification tracks](https://www.juniper.net/us/en/training/certification.html)
@@ -1303,14 +1305,14 @@ Thought leadership and insights
 
 [Register now](https://www.juniper.net/us/en/events/ai-native-now.html)
 
-* ### Videos
+* Videos
     
 * * [The Feed](https://www.juniper.net/us/en/the-feed.html)
     * [Browse by topic](https://www.juniper.net/us/en/the-feed/topics.html)
     * [Video series](https://www.juniper.net/us/en/the-feed/series.html)
     * [Leadership voices](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
 
-* ### Podcasts
+* Podcasts
     
 * * [Channel chats](https://www.juniper.net/us/en/the-feed/series/channel-chats.html)
     * [Be bold](https://www.juniper.net/us/en/the-feed/series/be-bold.html)
@@ -1321,7 +1323,7 @@ Thought leadership and insights
 
 [Watch the video series](https://www.juniper.net/us/en/the-feed/series/the-now-way-to-network.html)
 
-* ### Customers
+* Customers
     
 * * [Customer success stories](https://www.juniper.net/us/en/customers.html)
     * [Getting started](https://www.juniper.net/us/en/customers/welcome.html)
@@ -1329,7 +1331,7 @@ Thought leadership and insights
     * [Activate licenses](https://license.juniper.net/licensemanage/)
     * [Customer advocacy program](https://www.juniper.net/us/en/forms/participate-in-our-elevate-program.html)
 
-* ### Documentation
+* Documentation
     
 * * [Product documentation](https://www.juniper.net/documentation/)
     * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
@@ -1339,14 +1341,14 @@ Thought leadership and insights
     * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
     * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
 
-* ### Popular resources
+* Popular resources
     
 * * [Software downloads](https://support.juniper.net/support/downloads/)
     * [Blogs](https://blogs.juniper.net/)
     * [Elevate community](https://community.juniper.net/home)
     * [Juniper Threat Labs](https://threatlabs.juniper.net/home/#/)
 
-* ### AI
+* AI
     
 * * [What is AI-Native Networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-native-networking.html)
     * [What is AI for networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-for-networking.html)
@@ -1354,7 +1356,7 @@ Thought leadership and insights
     * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
     * [What is explainable AI (XAI)?](https://www.juniper.net/us/en/research-topics/what-is-explainable-ai-xai.html)
 
-* ### Data center
+* Data center
     
 * * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
     * [What is a data center network?](https://www.juniper.net/us/en/research-topics/what-is-a-data-center-network.html)
@@ -1362,23 +1364,23 @@ Thought leadership and insights
     * [What is intent-based networking?](https://www.juniper.net/us/en/research-topics/what-is-intent-based-networking.html)
     * [What is 400G?](https://www.juniper.net/us/en/research-topics/what-is-400g.html)
 
-* ### Network routing and switching
+* Network routing and switching
     
 * * [What is a router?](https://www.juniper.net/us/en/research-topics/what-is-a-router.html)
     * [What is a network switch?](https://www.juniper.net/us/en/research-topics/what-is-a-network-switch.html)
 
-* ### SD-WAN / SASE
+* SD-WAN / SASE
     
 * * [What is SD-WAN?](https://www.juniper.net/us/en/research-topics/what-is-sd-wan.html)
     * [SD-WAN explained](https://www.juniper.net/us/en/research-topics/sd-wan-explained.html)
     * [What is SASE?](https://www.juniper.net/us/en/research-topics/what-is-sase.html)
 
-* ### Security
+* Security
     
 * * [What is advanced threat prevention?](https://www.juniper.net/us/en/research-topics/what-is-advanced-threat-prevention.html)
     * [What is IDS and IPS?](https://www.juniper.net/us/en/research-topics/what-is-ids-ips.html)
 
-* ### Wireless
+* Wireless
     
 * * [What is an access point in networking?](https://www.juniper.net/us/en/research-topics/what-is-an-access-point-in-networking.html)
     * [Wi-Fi explained](https://www.juniper.net/us/en/research-topics/wifi-explained.html)
@@ -1637,13 +1639,11 @@ Juniper Networks may amend this Notice from time to time, and if we make changes
 
 Click here for the [November 2023 Privacy Notice](https://www.juniper.net/us/en/privacy-policy/2023-privacy-policy.html).
 
-Back to top
-
 [![Juniper Networks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Juniper Networks Logo png")](https://www.juniper.net/us/en.html)
 
 [](https://www.facebook.com/JuniperNetworks/)[](https://twitter.com/JuniperNetworks/)[](https://www.instagram.com/junipernetworks/)[](https://www.linkedin.com/company/juniper-networks)[](https://www.youtube.com/user/JuniperNetworks)
 
-* ### Company
+* Company
     
 * * [About us](https://www.juniper.net/us/en/company.html)
     * [Careers](https://www.juniper.net/us/en/company/culture-careers.html)
@@ -1652,7 +1652,7 @@ Back to top
     * [Investor relations](https://investor.juniper.net/investor-relations/default.aspx)
     * [Contact us](https://www.juniper.net/us/en/company/contact-us.html)
 
-* ### Popular resources
+* Popular resources
     
 * * [Events](https://www.juniper.net/us/en/events.html)
     * [Blogs](https://blogs.juniper.net/)
@@ -1666,7 +1666,7 @@ Back to top
 
 \*
 
-Invalid email formatt
+Invalid email format
 
 Email Submitted Sucessfully
 
