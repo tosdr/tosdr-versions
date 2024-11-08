@@ -73,13 +73,13 @@ We collect your Personal Data in a variety of ways and from various sources. For
 * Directly and indirectly from activity on our websites or our mobile applications. For example, from submissions through our website or website usage details collected automatically.
 * From affiliates and third party service providers (such as our marketing partners) acting on our behalf in connection with the services we perform.
 * From publicly available sources, including social media, to the extent that you manifestly choose to make your profile publicly visible.
-* From automated technologies or interactions that collect technical data about your equipment, browsing actions and patterns. This information is collected by using cookies, server logs or other similar technologies.
+* From automated technologies or interactions that collect technical data about your equipment, browsing actions and patterns. This information is collected by using cookies, server logs or other similar technologies. Please see our [Cookies Disclosure](https://www.statestreet.com/disclosures-and-disclaimers/cookie-disclosure) for further information.
 
 Sensitive Personal Data and criminal records
 
-The Personal Data that we collect from you may include sensitive Personal Data. We recognize that certain jurisdictions have enacted laws that require higher protection of certain sensitive Personal Data. Sensitive Personal Data includes categories of information identified by the applicable privacy laws as requiring special treatment or protection. This information may include, but is not limited to, racial or ethnic origin; political opinions; religious, philosophical, or other similar beliefs; membership of a trade union or profession or trade association; physical or mental health; biometric data; or sexual orientation.
+The Personal Data that we collect from you may include Sensitive Personal Data. We recognize that certain jurisdictions have enacted laws that require higher protection of certain Sensitive Personal Data. Sensitive Personal Data includes categories of information identified by the applicable privacy laws as requiring special treatment or protection. This information may include, but is not limited to, racial or ethnic origin; political opinions; religious, philosophical, or other similar beliefs; membership of a trade union or profession or trade association; physical or mental health; biometric data; or sexual orientation.
 
-We do not collect, use, share or otherwise process sensitive Personal Data or criminal records unless permitted to do so by law. For example, we may collect, use, share or otherwise process your sensitive Personal Data or criminal records to perform Know Your Customer (KYC) checks to comply with applicable Anti-Money Laundering (AML) laws.
+We do not collect, use, share or otherwise process Sensitive Personal Data or criminal records unless permitted to do so by law. For example, we may collect, use, share or otherwise process your Sensitive Personal Data or criminal records to perform Know Your Customer (KYC) checks to comply with applicable Anti-Money Laundering (AML) laws.
 
 How we use your Personal Data
 
@@ -139,7 +139,7 @@ We do not sell any of your Personal Data including Personal Data of minors under
 
 How we transfer and store your Personal Data
 
-We operate globally and we may share some of your Personal Data, with organizations (including our affiliates and our service providers) who are outside of the jurisdiction in which the Personal Data was collected. Because we are headquartered in the United States, Personal Data collected in other countries is routinely transferred to the United States for processing. That is, Personal Data collected in one jurisdiction may be transferred, stored, and processed outside the country of origin. For these transfers, we have the relevant legal safeguards in place, including (for example) by way of contractual arrangements based on sets of standard contractual clauses that have been pre-approved by the European Commission (or otherwise consistent with the requirements of the relevant jurisdiction) to ensure adequate protection, or in certain circumstances we may rely on one of the exceptions to the rules that allows us to perform these transfers. This reflects our commitment to protecting your personal data regardless of where your personal data resides. Personal Data stored or processed in a foreign jurisdiction may be accessed under a lawful order made in that jurisdiction.
+We operate globally and we may share some of your Personal Data, with organizations (including our affiliates and our service providers) who are outside of the jurisdiction in which the Personal Data was collected. Because we are headquartered in the United States, Personal Data collected in other countries is routinely transferred to the United States for processing. That is, Personal Data collected in one jurisdiction may be transferred, stored, and processed outside the country of origin. For these transfers, we have the relevant legal safeguards in place, including (for example) by way of contractual arrangements based on sets of standard contractual clauses that have been pre-approved by the European Commission (or otherwise consistent with the requirements of the relevant jurisdiction) to ensure adequate protection, or in certain circumstances we may rely on one of the exceptions to the rules that allows us to perform these transfers. This reflects our commitment to protecting your Personal Data regardless of where your Personal Data resides. Personal Data stored or processed in a foreign jurisdiction may be accessed under a lawful order made in that jurisdiction.
 
 How we protect your Personal Data  
 
@@ -164,8 +164,8 @@ Depending on the jurisdiction, and subject to certain exceptions, you may have s
 * Request Deletion or erasure of your Personal Data in certain circumstances.
 * Request that your Personal Data be rectified where it is inaccurate or incomplete
 * Request restriction or object to the processing of your Personal Data for certain circumstances (for example for marketing purposes)
+* Withdraw your consent for the processing of your Personal Data. If we are relying on your consent to use or share your Personal Data, you have the right to fully or partially withdraw your consent, subject to certain exceptions defined in applicable laws and regulations. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 * Lodge a complaint with your local data protection authority
-* Withdraw your consent
 
 If we are relying on your consent to use or share your Personal Data, you have the right to fully or partially withdraw your consent, subject to certain exceptions defined in applicable laws and regulations. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 
