@@ -94,7 +94,7 @@ Recent Stories
 
 [Compassion
 
-### A shield for Gaza's innocent](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1108/A-shield-for-Gaza-s-innocent "A shield for Gaza's innocent")
+### A shield for Gaza’s innocent](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1108/A-shield-for-Gaza-s-innocent "A shield for Gaza’s innocent")
 
 [Respect
 
@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 07, 2024
+November 08, 2024
 
-Global views on Tuesday’s news
+American president, global impact
 
-You don’t need this reminder, but here it is anyway: The U.S. election was seismic in the United States; the wider world felt the reverberations, too. Today, columnist Ned Temko supplies a skilled analysis of what Tuesday’s electoral decision projects to allies and adversaries.Ned’s is a story about high-level perceptions. We’re working on a follow-up, with staff reports from China to Mexico and beyond, exploring the perspectives of six sets of parents who are understandably focused on the future. Watch for that tomorrow.
+Donald Trump will significantly shape where the world goes from here. America’s influence is no longer what it once was, for better or worse, but the country remains the globe’s most influential force.Between migration and war, the world faces its most urgent challenges since the Cold War. Today, a team led by the Monitor’s Ryan Lenora Brown looks at six families whose lives Mr. Trump could well change. Some are worried; some are optimistic. All hope for better. Together, they are a portrait of how the American presidency touches parents and children around the world.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
