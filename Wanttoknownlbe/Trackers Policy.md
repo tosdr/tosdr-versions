@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/artificial-intelligence-versus-scheppingskracht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/vaccinatie-politiek-niet-gehinderd-door-enige-kennis/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
