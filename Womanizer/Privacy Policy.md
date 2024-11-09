@@ -55,8 +55,9 @@ The store will not work correctly in the case when cookies are disabled.
 * [Sale](https://www.womanizer.com/eu/sale)
     
     * [Premium](https://www.womanizer.com/eu/premium)
-    * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [Tease Me, Please Me Set](https://www.womanizer.com/eu/tease-me-please-me-set)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
@@ -64,7 +65,6 @@ The store will not work correctly in the case when cookies are disabled.
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
     * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
-    * [Tease Me, Please Me Set](https://www.womanizer.com/eu/tease-me-please-me-set)
     * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
