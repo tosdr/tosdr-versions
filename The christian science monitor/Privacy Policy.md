@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
+[### Qatar halts its Israel-Hamas mediation efforts, citing lack of ‘good faith’](https://www.csmonitor.com/World/Middle-East/2024/1109/israel-hamas-peace-talks-suspended-qatar-ceasefire "Qatar halts its Israel-Hamas mediation efforts, citing lack of ‘good faith’")
+
 [### Trump is back. Parents worldwide hope and fear for children’s futures.](https://www.csmonitor.com/World/2024/1108/trump-peace-war-foreign "Trump is back. Parents worldwide hope and fear for children’s futures.")
 
 [### With the election of Donald Trump, Canada braces for surge of asylum-seekers fleeing US](https://www.csmonitor.com/World/Americas/2024/1108/immigration-trump-election-canada-U.S.-border "With the election of Donald Trump, Canada braces for surge of asylum-seekers fleeing US")
-
-[### Trump has picked his first cabinet member and she’ll be the first woman chief of staff](https://www.csmonitor.com/USA/2024/1108/Susie-Wiles-Donald-Trump-2024-election-chief-of-staff "Trump has picked his first cabinet member and she’ll be the first woman chief of staff")
 
 * * *
 
