@@ -68,10 +68,6 @@ Connexion
     ](https://assets.afcdn.com/recipe/20241008/154531_origin.svg)
     
     Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
-* [**Cuisine variée au Airfryer**
-    
-    ![Cuisine variée au Airfryer
-    ](https://assets.afcdn.com/recipe/20241031/155320_origin.svg)](https://www.marmiton.org/tout-sur-electromenagers/airfryer-ssc80.html)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / Conditions générales d'utilisation
 
