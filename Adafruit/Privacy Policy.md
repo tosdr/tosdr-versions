@@ -83,13 +83,13 @@ Search
     
     $12.50](https://www.adafruit.com/product/6067)
     
-    ![Demo Shot of the Adafruit Pixel Shifter - For Addressable LEDs](https://cdn-shop.adafruit.com/230x173/6066-04.jpg)[Adafruit Pixel Shifter - For Addressable LEDs
-    
-    $4.50](https://www.adafruit.com/product/6066)
-    
     ![Angled shot of green, credit-card-sized microcontroller in black rubber bumper case.](https://cdn-shop.adafruit.com/230x173/6056-06.jpg)[Protective Silicone Bumper for Raspberry Pi 5
     
     $3.00](https://www.adafruit.com/product/6056)
+    
+    ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
+    
+    $10.95](https://www.adafruit.com/product/6062)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Human history becomes more and more a race between education and catastrophe”
+“ The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves”
 
-[H. G. Wells](http://en.wikipedia.org/wiki/H._G._Wells)
+[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
 
 [](https://www.adafruit.com/about)
 
