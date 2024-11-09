@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)       
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      Privacy Policy – Omax Health - Omax Health                      
 
-Privacy Policy – Omax Health - Omax Health                      
+     
 
-               
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -305,13 +305,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3409 reviews](https://omaxhealth.com/pages/reviews)
+[3410 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3088)
+(3089)
 
 5%
 
@@ -329,7 +329,17 @@ Go to product page
 
 (53)
 
-2205
+2206
+
+A
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Autumn P.
+
+**A product that actually works!**
+
+I’ve been using CryoFreeze for over a year and it never ceases to amaze me.
 
 V
 
@@ -350,15 +360,5 @@ Richard A.
 **Great reluef**
 
 Within minutes you feel relief..this product really works & promotes a sound nights sleep!! Give it a try you won’t be disappointed.
-
-W
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Wendy
-
-**Everyone needs this**
-
-Tried this on a recommendation from someone who has knee pain-and now my husband and I, my parents and several of our friends order regularly for all sorts of aches. Mystery neck pain from sleeping wrong, chronic back pain, headache, wrist pain, cramps of all sorts…this stuff is great. As someone who has bought $$$$ in search of some relief for my husbands chronic pain issues-even something that is temporary but helps is worthwhile -and this is one of those things. Must reapply as necessary but the rollerball is perfect and provides real help.
 
 Load More
