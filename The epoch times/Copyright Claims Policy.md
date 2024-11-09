@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [US to Allow Military Contractors Into Ukraine for First Time Since 2022](https://www.theepochtimes.com/world/us-to-allow-military-contractors-into-ukraine-for-first-time-since-2022-post-5756809)
+* [Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
     
-    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![US to Allow Military Contractors Into Ukraine for First Time Since 2022](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US to Allow Military Contractors Into Ukraine for First Time Since 2022](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752910-Russia_Ukraine_War_24306326990458-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-to-allow-military-contractors-into-ukraine-for-first-time-since-2022-post-5756809)
-* [Tesla Hits $1 Trillion Market Cap—Musk Becomes $300 Billion Man After Trump Win](https://www.theepochtimes.com/business/tesla-hits-1-trillion-market-cap-musk-becomes-300-billion-man-after-trump-win-5756813)
+    ![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756877-GettyImages-2182554830-205x123.jpg.webp)](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
+* [Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Tesla Hits $1 Trillion Market Cap—Musk Becomes $300 Billion Man After Trump Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tesla Hits $1 Trillion Market Cap—Musk Becomes $300 Billion Man After Trump Win](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711406-Tesla_Investigation_24227612434745-205x123.jpg.webp)](https://www.theepochtimes.com/business/tesla-hits-1-trillion-market-cap-musk-becomes-300-billion-man-after-trump-win-5756813)
-* [Republicans Demand Special Counsel Retain All Records Related to Trump Cases](https://www.theepochtimes.com/us/republicans-demand-special-counsel-retain-all-records-related-to-trump-cases-5756749)
+    ![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697574-GettyImages-1238839241-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
+* [Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://www.theepochtimes.com/article/day-in-photos-swift-wildfire-legislators-attack-and-a-respectful-2-minute-silence-5756641)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Republicans Demand Special Counsel Retain All Records Related to Trump Cases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Republicans Demand Special Counsel Retain All Records Related to Trump Cases](https://img.theepochtimes.com/assets/uploads/2024/04/28/id5639359-GettyImages-1583882702-LSeditKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-demand-special-counsel-retain-all-records-related-to-trump-cases-5756749)
-* [Putin Open to Talks With Trump on Ending Ukraine War: Kremlin](https://www.theepochtimes.com/world/putin-open-to-talks-with-trump-on-ending-ukraine-war-kremlin-5756698)
+    ![Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756918-California_Winds_Wildfires_24312830408275KO-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-swift-wildfire-legislators-attack-and-a-respectful-2-minute-silence-5756641)
+* [6 Things To Know About Susie Wiles, Trump’s Next Chief of Staff](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Putin Open to Talks With Trump on Ending Ukraine War: Kremlin](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![6 Things To Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Putin Open to Talks With Trump on Ending Ukraine War: Kremlin](https://img.theepochtimes.com/assets/uploads/2018/11/02/Kremlin-says-Putin-Trump-to-hold-substantive-meeting-at-G20-in-Argentina-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-open-to-talks-with-trump-on-ending-ukraine-war-kremlin-5756698)
-* [Xi’s Congratulatory Message to Trump Is More Bluff Than Threat, Says Expert](https://www.theepochtimes.com/china/xis-congratulatory-message-to-trump-is-more-bluff-than-threat-says-expert-5756479)
+    ![6 Things To Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756953-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
+* [Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://www.theepochtimes.com/us/governors-attorneys-general-roll-out-plans-to-contest-trump-admins-policies-5756476)
     
-    1hr By [Cindy Li](https://www.theepochtimes.com/author/cindy-li)
+    4hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
-    [![Xi’s Congratulatory Message to Trump Is More Bluff Than Threat, Says Expert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Xi’s Congratulatory Message to Trump Is More Bluff Than Threat, Says Expert](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756680-EpochImages-2869004062-xl_3-205x123.jpg.webp)](https://www.theepochtimes.com/china/xis-congratulatory-message-to-trump-is-more-bluff-than-threat-says-expert-5756479)
-* [IRS Reports More Than $5 Trillion in 2024 Tax Revenues](https://www.theepochtimes.com/us/irs-reports-more-than-5-trillion-in-2024-tax-revenues-5756730)
+    ![Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756462-Trump-GettyImages-2183218884-205x123.jpg.webp)](https://www.theepochtimes.com/us/governors-attorneys-general-roll-out-plans-to-contest-trump-admins-policies-5756476)
+* [Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://www.theepochtimes.com/us/meeting-to-resist-trump-reveals-rift-between-progressive-moderate-democrats-5756685)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![IRS Reports More Than $5 Trillion in 2024 Tax Revenues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IRS Reports More Than $5 Trillion in 2024 Tax Revenues](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695185-10162023-DSC07619-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-reports-more-than-5-trillion-in-2024-tax-revenues-5756730)
-* [Illegal Immigrants Express Mixed Feelings Over Trump’s Victory and Potential Deportations](https://www.theepochtimes.com/us/illegal-immigrants-express-mixed-feelings-over-trumps-victory-and-potential-deportations-5756583)
+    ![Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755679-11062024-DSC08429-Harris-concession-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/meeting-to-resist-trump-reveals-rift-between-progressive-moderate-democrats-5756685)
+* [Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://www.theepochtimes.com/china/lawmakers-turn-attention-to-chips-companies-as-industry-braces-for-china-restrictions-5756598)
     
-    2hr By [Estela Hernandez](https://www.theepochtimes.com/reporter/estela-hernandez)
+    4hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![Illegal Immigrants Express Mixed Feelings Over Trump’s Victory and Potential Deportations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Illegal Immigrants Express Mixed Feelings Over Trump’s Victory and Potential Deportations](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712044-Border-Yuma-510A1898KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/illegal-immigrants-express-mixed-feelings-over-trumps-victory-and-potential-deportations-5756583)
-* [1 in 4 Child Deaths During ER Visits Are Preventable](https://www.theepochtimes.com/health/1-in-4-child-deaths-during-er-visits-are-preventable-5754517)
+    ![Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://img.theepochtimes.com/assets/uploads/2024/08/06/id5700785-GettyImages-1541248341-205x123.jpg.webp)](https://www.theepochtimes.com/china/lawmakers-turn-attention-to-chips-companies-as-industry-braces-for-china-restrictions-5756598)
+* [Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://www.theepochtimes.com/us/witnesses-in-daniel-penny-trial-describe-fears-for-their-safety-in-subway-incident-5756769)
     
-    2hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
+    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![1 in 4 Child Deaths During ER Visits Are Preventable](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![1 in 4 Child Deaths During ER Visits Are Preventable](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756772-shutterstock_168767123_child_patient_emergency_department_er-205x123.jpg.webp)](https://www.theepochtimes.com/health/1-in-4-child-deaths-during-er-visits-are-preventable-5754517)
-* [Trump Confirms He Has No Choice but to Carry Out Mass Deportations](https://www.theepochtimes.com/us/trump-confirms-he-has-no-choice-but-to-carry-out-mass-deportations-5756736)
+    ![Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://img.theepochtimes.com/assets/uploads/2024/11/id5752161-1.tagreuters.com2024binary_LYNXMPEKA0177-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/witnesses-in-daniel-penny-trial-describe-fears-for-their-safety-in-subway-incident-5756769)
+* [Joe Rogan Urges Trump to Rebuild American Unity](https://www.theepochtimes.com/us/joe-rogan-urges-trump-to-rebuild-american-unity-5756811)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Trump Confirms He Has No Choice but to Carry Out Mass Deportations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Joe Rogan Urges Trump to Rebuild American Unity](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Confirms He Has No Choice but to Carry Out Mass Deportations](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756807-GettyImages-1915156411-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-confirms-he-has-no-choice-but-to-carry-out-mass-deportations-5756736)
-* [FBI Stopped Iranian Plot to Assassinate Trump](https://www.theepochtimes.com/us/fbi-stops-iranian-plot-to-assassinate-trump-5756726)
+    ![Joe Rogan Urges Trump to Rebuild American Unity](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740640-Trump_Rogan-rogan-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/joe-rogan-urges-trump-to-rebuild-american-unity-5756811)
+* [UK Must Avoid Complicity in CCP’s Forced Organ Harvesting, Says Rights Panel](https://www.theepochtimes.com/china/uk-must-avoid-complicity-in-ccps-forced-organ-harvesting-says-rights-panel-5756741)
     
-    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![FBI Stopped Iranian Plot to Assassinate Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![UK Must Avoid Complicity in CCP’s Forced Organ Harvesting, Says Rights Panel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FBI Stopped Iranian Plot to Assassinate Trump](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756751-GettyImages-2170263973-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-stops-iranian-plot-to-assassinate-trump-5756726)
+    ![UK Must Avoid Complicity in CCP’s Forced Organ Harvesting, Says Rights Panel](https://img.theepochtimes.com/assets/uploads/2023/07/17/id5402995-Falun-Gong-UK-London-205x123.jpg.webp)](https://www.theepochtimes.com/china/uk-must-avoid-complicity-in-ccps-forced-organ-harvesting-says-rights-panel-5756741)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
