@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-64°
+62°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
