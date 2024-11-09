@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Exclusive
+
+[Harris campaign's election-eve concerts said to cost up to $20M — as rank-and-file staff, vendors fear they won't be paid](https://nypost.com/2024/11/08/us-news/kamala-harris-campaigns-election-eve-concerts-said-to-cost-up-to-20m-as-rank-and-file-staff-vendors-fear-they-wont-be-paid/)
+
 Privacy Notice Highlights
 =========================
 
