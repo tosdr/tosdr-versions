@@ -89,7 +89,7 @@ Recent Blog Posts
 
 ##### [Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids](https://sandiegokidsdentist.com/pulpectomy-vs-root-canal-a-parents-guide-to-tooth-treatment-for-kids/)
 
-Sep 16, 2024 236 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids
+Sep 16, 2024 237 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids
 
 ##### [Common Bite Issues and Their Solutions](https://sandiegokidsdentist.com/common-bite-issues-and-their-solutions/)
 
