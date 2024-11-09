@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Draft \[Commend Refugia\] (4)](https://forum.nationstates.net/viewtopic.php?t=558108&f=24&view=unread#unread ""Draft [Commend Refugia]" (4 posts)")
-* [Grant AN's curse then make it good (27)](https://forum.nationstates.net/viewtopic.php?t=557930&f=25&view=unread#unread ""Grant AN's curse then make it good" (27 posts)")
-* [Say a random sentence (9,140)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,140 posts)")
-* [Which "Dere" is AN/AU? (274)](https://forum.nationstates.net/viewtopic.php?t=557828&f=25&view=unread#unread ""Which "Dere" is AN/AU?" (274 posts)")
-* [\[Abortion Thread\] To rules? To conseq… (1,634)](https://forum.nationstates.net/viewtopic.php?t=549913&f=20&view=unread#unread ""[Abortion Thread] To rules? To consequences!" (1,634 posts)")
+* [Kalisight Treaty Organization (KTO) -… (1,294)](https://forum.nationstates.net/viewtopic.php?t=516372&f=5&view=unread#unread ""Kalisight Treaty Organization (KTO) - Sign-ups / OOC" (1,294 posts)")
+* [Election Day! Who will AU vote for? (… (64)](https://forum.nationstates.net/viewtopic.php?t=557966&f=25&view=unread#unread ""Election Day! Who will AU vote for? (US ELECTIONS)" (64 posts)")
+* [Where would AL be from IRL? (23)](https://forum.nationstates.net/viewtopic.php?t=557308&f=25&view=unread#unread ""Where would AL be from IRL?" (23 posts)")
+* [American Politics: Turnabout Trump (2,151)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (2,151 posts)")
+* [Transformers: Electric Trepidation (11,304)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (11,304 posts)")
 
 Advertisement
 
