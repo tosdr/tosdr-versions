@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Darion-McMillian-326x245.jpg)](https://cwbchicago.com/2024/11/cop-killer-cut-off-electronic-monitoring-bracelet-while-running-from-pursuing-officers-officials.html "Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials")
+
+Chatham
+
+### [Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials](https://cwbchicago.com/2024/11/cop-killer-cut-off-electronic-monitoring-bracelet-while-running-from-pursuing-officers-officials.html "Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials")
+
+[November 6, 2024 5:48 PM](https://cwbchicago.com/2024/11)
+
+CHICAGO — Officials this afternoon revealed new details as they announced charges against the man they say killed Chicago Police Officer Enrique Martinez and a second person during a traffic stop Monday night. Darion McMillian, 23, of Harvey, is charged with first-degree murder of a peace officer, first-degree murder, attempted first-degree murder of a peace[](https://cwbchicago.com/2024/11/cop-killer-cut-off-electronic-monitoring-bracelet-while-running-from-pursuing-officers-officials.html "Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials")
+
 [![](https://cwbchicago.com/wp-content/uploads/2022/07/Scott-Meherg-rec-326x245.jpg)](https://cwbchicago.com/2024/11/18-time-convicted-felon-gets-6-years-for-stealing-rare-baseball-cards.html "18-time convicted felon gets 6 years for stealing rare baseball cards")
 
 Lincoln Square
@@ -262,16 +272,6 @@ Streeterville
 [November 5, 2024 3:32 PM](https://cwbchicago.com/2024/11)
 
 A gunman killed two men at Navy Pier on Tuesday afternoon and then fled into Streeterville on foot. Chicago police suspect the killer is a recently fired employee at one of the pier’s restaurants.[](https://cwbchicago.com/2024/11/gunman-kills-2-at-navy-pier-known-suspect-remains-on-the-loose.html "Gunman kills 2 at Navy Pier, known suspect remains on the loose")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/SANTIAGO-JOSUVE-VARGAS--326x245.jpg)](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
-
-Streeterville
-
-### [Migrant arrested 13 times in a year is now charged with Streeterville robbery](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
-
-[November 5, 2024 2:38 PM](https://cwbchicago.com/2024/11)
-
-A Venezuelan migrant has been detained as a safety threat, his 13th arrest in a year, after he allegedly tried to rob a woman of her bike in Streeterville.[](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
 
 Search
 
