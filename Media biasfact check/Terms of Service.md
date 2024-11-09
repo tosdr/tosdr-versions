@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 9, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 3rd – Nov 9th](https://mediabiasfactcheck.com/2024/11/09/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-3rd-nov-9th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 3rd – Nov 9th")
+* [November 9, 2024 | MBFC’s Daily Vetted Fact Checks for 11/09/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/09/mbfcs-daily-vetted-fact-checks-for-11-09-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/09/2024 (Weekend Edition)")
 * [November 8, 2024 | Media News Daily: Top Stories for 11/08/2024](https://mediabiasfactcheck.com/2024/11/08/media-news-daily-top-stories-for-11-08-2024/ "Media News Daily: Top Stories for 11/08/2024")
 * [November 8, 2024 | MBFC’s Daily Vetted Fact Checks for 11/08/2024](https://mediabiasfactcheck.com/2024/11/08/mbfcs-daily-vetted-fact-checks-for-11-08-2024/ "MBFC’s Daily Vetted Fact Checks for 11/08/2024")
 * [November 7, 2024 | Media News Daily: Top Stories for 11/07/2024](https://mediabiasfactcheck.com/2024/11/07/media-news-daily-top-stories-for-11-07-2024/ "Media News Daily: Top Stories for 11/07/2024")
-* [November 7, 2024 | MBFC’s Daily Vetted Fact Checks for 11/07/2024](https://mediabiasfactcheck.com/2024/11/07/mbfcs-daily-vetted-fact-checks-for-11-07-2024/ "MBFC’s Daily Vetted Fact Checks for 11/07/2024")
-* [November 6, 2024 | MBFC’s Daily Vetted Fact Checks for 11/06/2024](https://mediabiasfactcheck.com/2024/11/06/mbfcs-daily-vetted-fact-checks-for-11-06-2024/ "MBFC’s Daily Vetted Fact Checks for 11/06/2024")
 
 Search for:  
 
@@ -153,6 +153,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Le Point – Bias and Credibility](https://mediabiasfactcheck.com/le-point-bias-and-credibility/)
+    
+    November 9, 2024
+    
+* [Lodi News-Sentinel – Bias and Credibility](https://mediabiasfactcheck.com/lodi-news-sentinel-bias-and-credibility/)
+    
+    November 9, 2024
+    
+* [CITY Magazine – Bias and Credibility](https://mediabiasfactcheck.com/city-magazine-bias/)
+    
+    November 9, 2024
+    
+* [North Lancaster News – Bias and Credibility](https://mediabiasfactcheck.com/north-lancaster-news-bias/)
+    
+    November 9, 2024
+    
 * [Junge Welt – Bias and Credibility](https://mediabiasfactcheck.com/junge-welt-bias-and-credibility/)
     
     November 8, 2024
@@ -169,52 +185,36 @@ No related posts.
     
     November 8, 2024
     
-* [Agencia EFE – Bias and Credibility](https://mediabiasfactcheck.com/agencia-efe-bias-and-credibility/)
-    
-    November 7, 2024
-    
-* [ARD.de – Bias and Credibility](https://mediabiasfactcheck.com/ard-de-bias-and-credibility/)
-    
-    November 7, 2024
-    
-* [Olean Times Herald – Bias and Credibility](https://mediabiasfactcheck.com/olean-times-herald-bias-and-credibility/)
-    
-    November 7, 2024
-    
-* [Western Advocate – Bias and Credibility](https://mediabiasfactcheck.com/western-advocate-bias/)
-    
-    November 7, 2024
-    
 
 #### Recently Updated Pages
 
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 9, 2024
+    
+* [Le Point – Bias and Credibility](https://mediabiasfactcheck.com/le-point-bias-and-credibility/ "View Le Point – Bias and Credibility") - November 9, 2024
+    
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 9, 2024
+    
+* [Lodi News-Sentinel – Bias and Credibility](https://mediabiasfactcheck.com/lodi-news-sentinel-bias-and-credibility/ "View Lodi News-Sentinel – Bias and Credibility") - November 9, 2024
+    
+* [CITY Magazine – Bias and Credibility](https://mediabiasfactcheck.com/city-magazine-bias/ "View CITY Magazine – Bias and Credibility") - November 9, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 9, 2024
+    
+* [North Lancaster News – Bias and Credibility](https://mediabiasfactcheck.com/north-lancaster-news-bias/ "View North Lancaster News – Bias and Credibility") - November 9, 2024
+    
 * [Medical News Today – Bias and Credibility](https://mediabiasfactcheck.com/medical-news-today/ "View Medical News Today – Bias and Credibility") - November 8, 2024
     
 * [Trending Politics – Bias and Credibility](https://mediabiasfactcheck.com/trending-politics/ "View Trending Politics – Bias and Credibility") - November 8, 2024
     
 * [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/ "View Changes/Corrections") - November 8, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 8, 2024
-    
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 8, 2024
-    
-* [Not The Bee – Bias and Credibility](https://mediabiasfactcheck.com/not-the-bee/ "View Not The Bee – Bias and Credibility") - November 8, 2024
-    
-* [World Population Review – Bias and Credibility](https://mediabiasfactcheck.com/world-population-review/ "View World Population Review – Bias and Credibility") - November 8, 2024
-    
-* [Rumble – Bias and Credibility](https://mediabiasfactcheck.com/rumble/ "View Rumble – Bias and Credibility") - November 8, 2024
-    
-* [Mediaite – Bias and Credibility](https://mediabiasfactcheck.com/mediaite/ "View Mediaite – Bias and Credibility") - November 8, 2024
-    
-* [Slate – Bias and Credibility](https://mediabiasfactcheck.com/slate/ "View Slate – Bias and Credibility") - November 8, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
