@@ -1,14 +1,14 @@
-[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/fr/)
+[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/en/)
 
-[Inkscape](https://inkscape.org/fr/)
+[Inkscape](https://inkscape.org/en/)
 ====================================
 
-[Dessiner en toute liberté.](https://inkscape.org/fr/)
-------------------------------------------------------
+[Draw Freely.](https://inkscape.org/en/)
+----------------------------------------
 
 * [❤️ Help us make Inkscape awesome! ❤️](https://inkscape.org/support-us/donate/)
     
-* français
+* English
     
     [English](https://inkscape.org/en/community/coc/)
     
@@ -42,131 +42,131 @@
     
     [Indonesia](https://inkscape.org/id/community/coc/)
     
-* [Se connecter](https://inkscape.org/fr/user/login/?next=/fr/communaute/code-de-conduite/)
+* [Log in](https://inkscape.org/user/login/?next=/community/coc/)
     
-* [Créer un compte](https://inkscape.org/fr/user/register/)
+* [Register](https://inkscape.org/user/register/)
     
 
- ![Rechercher](https://media.inkscape.org/static/images/search.svg)
+ ![Search](https://media.inkscape.org/static/images/search.svg)
 
-* [À propos](https://inkscape.org/fr/apropos/)
-    * [Présentation](https://inkscape.org/fr/apropos/presentation/)
-    * [Fonctionnalités](https://inkscape.org/fr/apropos/fonctionnalites/)
-    * [Captures d'écran](https://inkscape.org/fr/apropos/ecrans/)
-    * [Bureau](https://inkscape.org/fr/*board/)
-    * [Licence](https://inkscape.org/fr/apropos/licence/)
-    * [Usage de la marque](https://inkscape.org/fr/apropos/usage-de-la-marque/)
-* [Télécharger](https://inkscape.org/fr/release/)
+* [About](https://inkscape.org/about/)
+    * [Overview](https://inkscape.org/about/overview/)
+    * [Features](https://inkscape.org/about/features/)
+    * [Screenshots](https://inkscape.org/about/screenshots/)
+    * [Governance](https://inkscape.org/*leadership-committee/)
+    * [Licensing](https://inkscape.org/about/license/)
+    * [Branding](https://inkscape.org/about/branding/)
+* Download
     * [Current Stable Version 1.4](https://inkscape.org/release/)
     * [Unstable development snapshot](https://inkscape.org/release/inkscape-master/?latest=1)
-    * [Extensions](https://inkscape.org/fr/gallery/=extension/)
-* [Actualités](https://inkscape.org/fr/news/)
+    * [Extensions](https://inkscape.org/gallery/=extension/)
+* [News](https://inkscape.org/news/)
     * [Calendars](https://inkscape.org/cals/)
     * [Contributor Blog](https://inkscape.org/*membership/blog/)
-* [Communauté](https://inkscape.org/fr/communaute/)
-    * [Code de conduite](https://inkscape.org/fr/communaute/code-de-conduite/)
+* [Community](https://inkscape.org/community/)
+    * [Code of Conduct](https://inkscape.org/community/coc/)
     * [Forums](https://inkscape.org/forums/)
     * [Chat](https://chat.inkscape.org/channel/inkscape_user)
-    * [Listes de diffusion](https://lists.inkscape.org/postorius/lists/?all-lists)
-    * [Galerie](https://inkscape.org/fr/gallery/)
+    * [Mailing Lists](https://lists.inkscape.org/postorius/lists/?all-lists)
+    * [Gallery](https://inkscape.org/gallery/)
     * [Teams](https://inkscape.org/user/teams/)
     * [About Screen Contest](https://inkscape.org/community/about-screen-contests/)
-* [Apprendre](https://inkscape.org/fr/apprendre/)
-    * [FAQ](https://inkscape.org/fr/apprendre/faq/)
-    * [Livres et manuels](https://inkscape.org/fr/apprendre/livres/)
-    * [Didacticiels](https://inkscape.org/fr/apprendre/didacticiels/)
-    * [Animation](https://inkscape.org/fr/apprendre/animation/)
-* [Contribuer](https://inkscape.org/fr/contribuer/)
-    * [Tester](https://inkscape.org/fr/contribuer/tester/)
-    * [Rapporter les bogues](https://inkscape.org/fr/contribuer/rapporter-les-bogues/)
-    * [Traductions](https://inkscape.org/fr/contribuer/traductions/)
-    * [Choses à faire](https://inkscape.org/fr/contribuer/choses-a-faire/)
-    * [Promotion](https://inkscape.org/fr/contribuer/promotion/)
-    * [Statistiques de contribution](https://inkscape.org/fr/contribuer/statistiques-de-contribution/)
+* [Learn](https://inkscape.org/learn/)
+    * [FAQ](https://inkscape.org/learn/faq/)
+    * [Books and Manuals](https://inkscape.org/learn/books/)
+    * [Tutorials](https://inkscape.org/learn/tutorials/)
+    * [Animation](https://inkscape.org/learn/animation/)
+* [Contribute](https://inkscape.org/contribute/)
+    * [Testing](https://inkscape.org/contribute/testing/)
+    * [Report Bugs](https://inkscape.org/contribute/report-bugs/)
+    * [Translations](https://inkscape.org/contribute/translations/)
+    * [Community To-Do List](https://inkscape.org/contribute/to-do-list/)
+    * [Promote](https://inkscape.org/contribute/promote/)
+    * [Contributor Stats](https://inkscape.org/contribute/contributors/)
     * [Extensions](https://inkscape.gitlab.io/extensions/documentation/)
-* [Développer](https://inkscape.org/fr/developper/)
-    * [Démarrer](https://inkscape.org/fr/developper/demarrer/)
-    * [À propos du SVG](https://inkscape.org/fr/developper/apropos-svg/)
-    * [Style du code source](https://inkscape.org/fr/developper/style-du-code-source/)
-    * [Gestion des bogues](https://inkscape.org/fr/developper/gestion-des-bogues/)
-    * [Dépôts d'Inkscape](https://inkscape.org/fr/developper/inkscape-bzr/)
-    * [Débogage](https://inkscape.org/fr/developper/debogage/)
-    * [Extensions](https://inkscape.org/fr/developper/extensions/)
-* [Nous soutenir](https://inkscape.org/fr/nous-soutenir/)
-    * [Faire un don](https://inkscape.org/fr/nous-soutenir/faire-un-don/)
-    * [Hackathons](https://inkscape.org/fr/nous-soutenir/hackathons/)
-    * [Spécification du SVG](https://inkscape.org/fr/nous-soutenir/specification-svg/)
-    * [Sponsors](https://inkscape.org/fr/nous-soutenir/sponsors_fr/)
+* [Develop](https://inkscape.org/develop/)
+    * [Getting Started](https://inkscape.org/develop/getting-started/)
+    * [About SVG](https://inkscape.org/develop/about-svg/)
+    * [Coding Style](https://inkscape.org/develop/coding-style/)
+    * [Bug Management](https://inkscape.org/develop/bug-management/)
+    * [Inkscape's Repositories](https://inkscape.org/develop/inkscape-git/)
+    * [Debugging](https://inkscape.org/develop/debugging/)
+    * [Extensions](https://inkscape.org/develop/extensions/)
+* [Support Us](https://inkscape.org/support-us/)
+    * [Donate](https://inkscape.org/support-us/donate/)
+    * [Contributor Meetings](https://inkscape.org/support-us/hackfests/)
+    * [SVG Standards Work](https://inkscape.org/support-us/svg-standards-work/)
+    * [Sponsors](https://inkscape.org/support-us/sponsors/)
 
-[Accueil](https://inkscape.org/fr/) » [Communauté](https://inkscape.org/fr/communaute/) » _Code de conduite_
+[Home](https://inkscape.org/) » [Community](https://inkscape.org/community/) » _Code of Conduct_
 
-Code de conduite de la communauté d'Inkscape
-============================================
+Inkscape Community Code of Conduct
+==================================
 
- ![](https://media.inkscape.org/media/cms_page_media/380/inky_halo_3.png)Les communautés d'Inkscape en ligne sont vouées à être des espaces conviviaux dans lesquels les utilisateurs peuvent collaborer au développement d'Inkscape, partager leurs créations et en discuter, s'inspirer ensemble et interagir de façon constructive. À cette fin, nous avons établi un ensemble de lignes directrices que nous croyons favorables à l'élaboration d'un tel environnement. Toute personne consentant à suivre ces lignes directrices est la bienvenue dans nos communautés.
+ ![](https://media.inkscape.org/media/cms_page_media/380/inky_halo_3.png)Inkscape online communities are intended to be friendly, inclusive spaces for users to collaborate on the further development of Inkscape, share and discuss their creations, inspire each other and interact in constructive ways. To that end, we have established a set of guidelines that we believe will help foster such an environment. Anyone willing to follow these guidelines is welcome in our communities.
 
-_Ce code de conduite vaut pour tous les espaces gérés par le projet Inkscape. Cela inclut la discussion instantanée sur internet, les listes de diffusion, le traqueur de bogues, le site web, les événements Inkscape officiels et tous les autres forums créés par l'équipe du projet que la communauté utilise pour communiquer._
+_This code of conduct applies to all spaces managed by the Inkscape project. This includes internet chat, the mailing lists, the bug tracker, the web site, official Inkscape events and any other forums created by the project team which the community uses for communication._
 
-Comportement souhaitable
-------------------------
-
-Dans vos interactions avec les autres, faites de votre mieux pour suivre ces principes :
-
-* **Soyez respectueux(se) et amical(e).** Il y a toujours un humain à peu près comme vous à l'autre bout. Traitez-le toujours respectueusement et soyez aimable avec lui. Les gens sont plus productifs dans les communautés où ils se sentent bienvenus et à l'aise.
-* **Demandez de l'aide lorsque vous n'êtes pas sûr(e), et offrez votre aide si vous le pouvez.** Même les plus grands experts ont été débutants. Poser des questions tôt évite beaucoup de problèmes plus tard, donc les questions sont encouragées — bien qu'elles doivent être adressées au bon endroit. Si vous le pouvez, aidez les utilisateurs moins expérimentés que vous à mener à bien leurs idées, même si leurs problèmes vous semblent triviaux. Par exemple, si une question a déjà une réponse sur la FAQ, donnez un lien vers la section concernée au lieu de mépriser votre interlocuteur pour ne pas avoir lu la FAQ.
-* **Discutez raisonnablement.** Gardez la critique déstructurée à un minimum. Assurez-vous que toute critique que vous faites est raisonnable, constructive et exprimée poliment, et ne prenez pas les critiques des autres comme une attaque personnelle. Acceptez que ce que vous faites n'est pas toujours bon. Reconnaissez que les gens ont des différences d'opinion et que parfois il n'y a pas qu'une seule bonne réponse.
-* **Soyez responsable.** Tout le monde fait des erreurs de temps en temps — appropriez-les-vous et consentez à travailler à leur correction. Si quelqu'un a été offensé, écoutez attentivement et corrigez ce qui ne va pas.
-* **Pardonnez.** Si on vous porte atteinte, soyez prêt à accepter des excuses et à passer à autre chose. Ne vous attachez pas à un ressentiment, ne cherchez pas à mettre en place des scores. Ne laissez pas les offenses mineures devenir de grands combats. Être vindicatif blesse la communauté même si vous avez raison, tandis que le pardon permet aux offenseurs de progresser.
-* **Donnez du crédit lorsqu'il est mérité.** N'essayez pas de faire passer le travail des autres pour le vôtre. De nombreuses personnes partagent leur travail créatif en ligne principalement pour être reconnues. Ne pas donner de crédit au véritable auteur lui enlève cette reconnaissance et cela nuira fortement à votre réputation lorsque la source sera découverte.
-* **Utilisez un langage neutre.** Évitez les mots que les autres peuvent trouver offensifs ou excluant.
-* **Divulguez et adressez les conflits d'intérêt.** Vous devez être conscient lorsque c'est le cas que vous avez un conflit d'intérêt en raison d'un emploi ou d'autres projets dans lesquels vous êtes impliqué(e), et vous devriez alors vous abstenir ou déléguer les décisions qui pourraient être vues comme intéressées. Dans le doute, demandez une opinion à quelqu'un.
-* **Retirez-vous avec considération.** Lorsque vous quittez une position importante dans le projet Inkscape, faites-le d'une manière qui minimise la perturbation à la communauté. Informez les gens que vous partez et suivez les étapes appropriées pour assurer que les autres pourront reprendre ce que vous laissez.
-* **Ayez connaissance de vos limites.** Inkscape est à la fois un grand projet et une toute petite partie du monde. Partagez vos responsabilités et n'essayez pas de tout faire en même temps. Prenez une pause si vous ne vous sentez plus d'humeur à travailler sur Inkscape. Il est mieux de laisser les choses en suspens pendant un temps que de se surmener.
-
-Règles pour les contenus soumis par les utilisateurs
-----------------------------------------------------
-
-Le contenu téléversé dans la galerie doit avoir un rapport avec Inkscape ou le projet Inkscape (par ex. il a été créé avec Inkscape, il a été créé pour être utilisé avec Inkscape ou son site web, il montre comment travailler avec Inkscape, etc.). Nous nous réservons le droit de supprimer tout contenu qui semble inapproprié ou enfreint les règles suivantes :
-
-* L'œuvre doit être votre propre création originale ou dérivée de travaux sous licence ouverte. Nous ne pouvons pas accepter les soumissions qui enfreignent des droits d'auteur.
-* Pas de nudité ni de violence graphique (note : il se peut que nous acceptions ce type de contenu une fois qu'il pourra être étiqueté comme tel, mais les contenus pornographiques et/ou illégaux seront toujours interdits).
-* Pas de contenu explicitement discriminatoire par nature.
-* Pas d'agitation politique ou de symbolisme totalitaire.
-
-Comportement inacceptable
--------------------------
-
-Les actes et comportements suivants sont considérés inacceptables :
-
-* Le harcèlement d'autres utilisateurs. Cela inclut entre autres les menaces de toute nature, les insultes, le langage et les blagues discriminatoires, l'intérêt sexuel malvenu, et la publication d'information privées identifiables (le « doxing »).
-* La perturbation délibérée : troll, spam, leurre, recherche d'attention, distribution de maliciel, tout type d'attaque contre l'infrastructure du projet Inkscape ou les organisations qui collaborent avec lui.
-* La distribution de contenu illégal ou pornographique dans les communautés d'Inkscape.
-* L'argumentation sans fin sur les comportements autorisés et non autorisés par ce code.
-* La défense ou l'encouragement de tout ce qui précède.
-
-Conséquences d'un comportement inacceptable
--------------------------------------------
-
-Si un membre de la communauté d'Inkscape ne suit pas ce code, signalez-le aux modérateurs concernés, même si vous n'êtes pas vous-même directement affecté. Les modérateurs prendront les mesures qu'ils considèrent nécessaires pour protéger la communauté. Les violations répétées du code peuvent résulter en une expulsion temporaire ou permanente (bannissement).
-
-Signalement
------------
-
-Lorsque le code de conduite est violé sur le salon IRC, envoyez un message à l'un des utilisateurs qui a les droits de modération (votre client IRC devrait vous montrer qui a ces droits). Pour les autres violations, écrivez un courriel à Christopher Rogers: cajhne@gmail.com. Donnez des informations détaillées sur ce qui s'est passé.
-
-Si vous pensez avoir été injustement pénalisé par un modérateur, vous pouvez contacter le [bureau d'Inkscape](https://inkscape.org/about/governance/). Les décisions du bureau sont terminales.
-
-Lecture approfondie
+Desirable behaviour
 -------------------
 
-Davantage de suggestions pour une communication bonne et efficace, indiquant entre autres comment vous protéger du surmenage, peuvent être trouvées dans les [lignes directrices des salons Freenode](https://freenode.net/changuide).
+In your interactions with others, please do your best to follow these principles:
 
-_Crédits pour les sources et l'inspiration : projet SpeakUp!, [projet Django](http://www.djangoproject.com/conduct/), [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct),_ [Citizen Code of Conduct](http://citizencodeofconduct.org/)_, ainsi que de nombreux autres. Ce code de conduite est sous licence [Creative Commons Attribution Share-Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/)._
+* **Be respectful and friendly.** There's always a human very much like you at the other end. Always treat them respectfully and be kind to them. People are most productive in communities where they feel welcome and comfortable.
+* **Ask for help when unsure, and provide help if you can.** Even the best experts were once beginners. Asking questions early avoids many problems later, so questions are encouraged, though they should be directed to the appropriate forum. If you can, help users less experienced than you to bring their ideas to fruition, even if their problems seem trivial to you. For example, if a question is answered in the FAQ, provide a link to the relevant section instead of scorning them for not reading the FAQ.
+* **Discuss reasonably.** Keep unstructured critique to a minimum. Make sure any criticism you offer is reasonable, constructive and expressed in a polite manner, and don't take the criticism of others as a personal attack. Accept that you won't always be correct. Recognize that people have differences of opinion and that sometimes there is no single right answer.
+* **Be responsible.** Everyone makes mistakes from time to time—own up to them and be willing to work on fixing them. If someone has been harmed or offended, listen carefully and work to right the wrong.
+* **Forgive.** If you are wronged, be prepared to accept apologies and move on. Don't hold a grudge or seek to settle scores. Do not let minor offences escalate into large fights. Being vindictive hurts the community even if you are right, while forgiveness allows offenders to improve.
+* **Give credit where it is due.** Don't try to pass off others' work as your own. Many people share their creative work online mainly to be recognized. Not giving credit to the true author deprives them of that recognition and will severely harm your reputation when the plagiarism is discovered.
+* **Use neutral language.** Avoid words that others are likely to find offensive or excluding.
+* **Disclose and address conflicts of interest.** You should be aware when you have a conflict of interest due to employment or other projects you are involved in, and abstain or delegate decisions that may be seen to be self-interested. When in doubt, ask for a second opinion.
+* **Step down considerately.** When you leave a responsible position in the Inkscape project, do so in a way that minimizes disruption to the community. Tell people you are leaving and take the proper steps to ensure that others can pick up where you left off.
+* **Know your limits.** Inkscape is at the same time a very large project and a very tiny part of the world. Share your responsibilities and don't try to do everything at once. Take a break if you no longer feel like working on Inkscape. It's better to put things on hold for a while than to burn out.
 
-Inkscape est un logiciel libre et open source sous licence [GPL](http://www.gnu.org/licenses/gpl-2.0.html).
+Guidelines for user-submitted content
+-------------------------------------
 
-Remerciements à : [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [Les auteurs](https://inkscape.org/fr/credits/ "Les auteurs") [![PY](https://media.inkscape.org/static/images/django.svg "Ce site exécute :
+Content uploaded to the gallery should be related to Inkscape or the Inkscape Project (e.g. created with Inkscape, created for use with Inkscape or its website, showing how to work with Inkscape, etc.). We reserve the right to remove any content that does not seem appropriate or does not adhere to the following obligatory rules:
+
+* Art must be your own original creation or derived from artwork available under an open licence. We cannot accept submissions that infringe copyrights.
+* No nudity or graphic violence. (Note: we may allow this type of content once it is possible to tag it as such, but pornographic and/or illegal material would still be disallowed.)
+* No content that is explicitly discriminatory in nature.
+* No political agitation or totalitarian symbolism.
+
+Unacceptable behaviour
+----------------------
+
+The following actions and behaviours are deemed unacceptable:
+
+* Harassment of other users. This includes but is not limited to threats of any kind, insults, discriminatory language and jokes, unwelcome sexual attention, posting personally identifying information ("doxing").
+* Deliberate disruption: trolling, spamming, flaming, baiting, attention seeking, distribution of malware, any kind of attacks against the computing infrastructure of the Inkscape project or its collaborating organizations.
+* Distribution of illegal or pornographic material in Inkscape communities.
+* Extended arguments over what behaviours are and are not allowed under this code.
+* Advocating or encouraging any of the above.
+
+Consequences of unacceptable behaviour
+--------------------------------------
+
+If a member of an Inkscape community does not follow this code, please report it to the appropriate moderators, even if you are not among the directly affected parties. Moderators will then take actions they deem necessary to protect the community. Repeated breaches of the code may result in temporary or permanent expulsion (banning).
+
+Reporting
+---------
+
+For breaches of the code of conduct occuring on the IRC channel, message one of the users with mod rights (your IRC client should show who has mod rights). For other breaches, contact the Inkscape leadership committee. Provide detailed information on what happened.
+
+If you believe you have been unfairly penalized by a moderator, you may contact [Inkscape's board](https://inkscape.org/about/governance/). Decisions of the board are final.
+
+Further reading
+---------------
+
+Further tips for good and successful communication, including but not limited to how to protect yourself from burnout, can be found in the [Freenode Channel Guidelines](https://freenode.net/changuide).
+
+_Credits for the sources and inspiration go to the SpeakUp! project, the [Django Project](http://www.djangoproject.com/conduct/), [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct),_ [Citizen Code of Conduct](http://citizencodeofconduct.org/)_, as well as many others. This Code of Conduct is licenced under the [Creative Commons Attribution Share-Alike 3.0 Licence](https://creativecommons.org/licenses/by-sa/3.0/)._
+
+Inkscape is Free and Open Source Software licensed under the [GPL](http://www.gnu.org/licenses/gpl-2.0.html).
+
+With thanks to: [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [The Authors](https://inkscape.org/credits/ "The Authors") [![PY](https://media.inkscape.org/static/images/django.svg "This site is running:
 Python 3.6.8
 Django 2.2
-App: CMS [Code de conduite]
+App: CMS [Code of Conduct]
 InkscapeWeb 1.6, as of Mon Oct 14 23:27:40 2024 (cf26cc5)")](https://gitlab.com/inkscape/inkscape-web)
