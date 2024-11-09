@@ -116,15 +116,15 @@ If you have any questions about this privacy policy, please contact us at [\[ema
 
 Products
 
-[Salad Container Engine](https://salad.com/salad-container-engine) [Salad Gateway Service](https://salad.com/salad-gateway-service) [Virtual Kubelet](https://salad.com/virtual-kubelet)
+[Salad Container Engine](https://salad.com/salad-container-engine) [Salad Transcription API](https://salad.com/transcription) [Salad Gateway Service](https://salad.com/salad-gateway-service) [Virtual Kubelet](https://salad.com/virtual-kubelet)
 
 Use Cases
 
-[Image Generation](https://salad.com/image-generation) [Audio](https://salad.com/voice-ai) [Computer Vision](https://salad.com/computer-vision) [Data Collection](https://salad.com/data-collection)
+[Image Generation](https://salad.com/image-generation) [Molecular Dynamics](https://salad.com/molecular-dynamics) [Computer Vision](https://salad.com/computer-vision) [Data Collection](https://salad.com/data-collection) [Voice AI](https://salad.com/voice-ai) [Language Models](https://salad.com/language-models)
 
 About
 
-[About Salad](https://salad.com/about) [Charity](https://salad.com/charity) [Press](https://salad.com/press) [Blog - Cloud](https://blog.salad.com/)
+[About Salad](https://salad.com/about) [Charity](https://salad.com/charity) [Press](https://salad.com/press) [SaladCloud Blog](https://blog.salad.com/)
 
 Resources
 
