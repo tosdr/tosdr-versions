@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: After decades, FDA finally moves to pull ineffective decongestant off shelves](https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1661265589-768x432.jpeg)](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
+1. [![Listing image for first story in Most Read: Space policy is about to get pretty wild, y’all](https://cdn.arstechnica.net/wp-content/uploads/2024/11/49955873916_eec9e31e4c_k-768x432.jpg)](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
     
-    1. [After decades, FDA finally moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
+    1. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
     
-2. 2. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
+2. 2. [After decades, FDA finally moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
     
 3. 3. [Rocket Report: Australia says yes to the launch; Russia delivers for Iran](https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/)
     
-4. 4. [Sega is delisting 60 classic games from Steam, so now’s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
+4. 4. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-5. 5. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
+5. 5. [Sega is delisting 60 classic games from Steam, so now’s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
     
 
 Customize
