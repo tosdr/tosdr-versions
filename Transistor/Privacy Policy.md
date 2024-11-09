@@ -1,4 +1,4 @@
-[![Transistor Logo](/images/logos/transistor-white.svg)](https://transistor.fm/)
+[![Transistor Logo](/assets/logos/transistor-white.svg)](https://transistor.fm/)
 
 Features
 
@@ -52,7 +52,7 @@ Podcast hosting reviews](https://transistor.fm/reviews/)
 
 [Dashboard →](https://dashboard.transistor.fm/)
 
- [![Transistor Logo](/images/logos/transistor-white.svg)](https://transistor.fm/)Toggle menu
+Toggle menu
 
 ### Features
 
@@ -72,7 +72,7 @@ Easily submit your podcast everywhere](https://transistor.fm/features/distributi
 
 [How to start a podcast](https://transistor.fm/how-to-start-a-podcast/) [Pricing](https://transistor.fm/pricing/) [Blog](https://transistor.fm/blog/) [About us](https://transistor.fm/about/) [Our customers](https://transistor.fm/customers/) [Reviews](https://transistor.fm/reviews/)
 
-[Sign In](https://dashboard.transistor.fm/signin) [Start free trial](https://dashboard.transistor.fm/signup)
+[Dashboard](https://dashboard.transistor.fm/) [Sign In](https://dashboard.transistor.fm/signin) [Start free trial](https://dashboard.transistor.fm/signup)
 
 Privacy Policy
 ==============
