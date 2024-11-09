@@ -183,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![ - preview-media-0-Minecraft-Title-Image](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-0-Minecraft-Title-Image-130x85.png "preview-media-0-Minecraft-Title-Image - Online Tech Tips")](https://www.online-tech-tips.com/how-to-make-terracotta-in-minecraft/ "How to Make Terracotta in Minecraft")
+    
+    [How to Make Terracotta in Minecraft](https://www.online-tech-tips.com/how-to-make-terracotta-in-minecraft/ "How to Make Terracotta in Minecraft")Nov 8, 2024
+    
 * [![ - preview-media-1-reboot-wifi-feature-img](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-reboot-wifi-feature-img-130x85.png "preview-media-1-reboot-wifi-feature-img - Online Tech Tips")](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")
     
     [How to Reboot a WiFi Router](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")Nov 6, 2024
@@ -194,10 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](https://www.online-tech-tips.com/wp-content/uploads/2024/11/whatsapp-messenger-on-an-android-phone-130x85.jpg "whatsapp-messenger-on-an-android-phone - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/ "WhatsApp Introduces “Custom Lists” for Better Chat Filtering")
     
     [WhatsApp Introduces “Custom Lists” for Better Chat Filtering](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/ "WhatsApp Introduces “Custom Lists” for Better Chat Filtering")Nov 4, 2024
-    
-* [![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-130x85.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")
-    
-    [OpenAI Launches ChatGPT Search to Battle Google and Bing Search](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")Nov 1, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
