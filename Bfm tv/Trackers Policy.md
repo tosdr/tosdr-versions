@@ -399,15 +399,15 @@ _La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas le
 Les plus lus
 ------------
 
-1. [![Des supporters du Maccabi Tel-Aviv agressés à Amsterdam, le 7 novembre 2024](https://images.bfmtv.com/--1MMRVlMzlZB5uudr_uv_Jio3A=/0x0:1920x1080/300x0/images/Supporters-du-Maccabi-Tel-Aviv-1972486.jpg)
+1. [![Un orage gronde au-dessus de Pérols (Hérault) le 16 août 2022](https://images.bfmtv.com/rBWxzw4yJEl19aGZs0tc6PCCfbc=/0x40:768x472/300x0/images/Un-orage-gronde-au-dessus-de-Perols-Herault-le-16-aout-2022-1465832.jpg)
     
-    ![Des supporters du Maccabi Tel-Aviv agressés à Amsterdam, le 7 novembre 2024](https://images.bfmtv.com/--1MMRVlMzlZB5uudr_uv_Jio3A=/0x0:1920x1080/300x0/images/Supporters-du-Maccabi-Tel-Aviv-1972486.jpg)
+    ![Un orage gronde au-dessus de Pérols (Hérault) le 16 août 2022](https://images.bfmtv.com/rBWxzw4yJEl19aGZs0tc6PCCfbc=/0x40:768x472/300x0/images/Un-orage-gronde-au-dessus-de-Perols-Herault-le-16-aout-2022-1465832.jpg)
     
-    ### Supporters du Maccabi Tel-Aviv agressés: les images des violences à Amsterdam](https://rmcsport.bfmtv.com/football/europa-league/supporters-du-maccabi-tel-aviv-agresses-les-images-des-violences-a-amsterdam_AV-202411080284.html "Supporters du Maccabi Tel-Aviv agressés: les images des violences à Amsterdam")
-2. [### Donald Trump élu président: comment les politiques français espèrent dupliquer sa victoire](https://www.bfmtv.com/politique/donald-trump-elu-president-comment-les-politiques-francais-esperent-dupliquer-sa-victoire_AN-202411080398.html "Donald Trump élu président: comment les politiques français espèrent dupliquer sa victoire")
-3. [### Pourquoi y a-t-il autant de brouillard sur le nord de la France en ce début novembre?](https://www.bfmtv.com/meteo/pourquoi-y-a-t-il-autant-de-brouillard-sur-le-nord-de-la-france-en-ce-debut-novembre_AN-202411080590.html "Pourquoi y a-t-il autant de brouillard sur le nord de la France en ce début novembre?")
-4. [### La mystérieuse disparition des biscuits Finger des rayons de nos supermarchés](https://www.bfmtv.com/economie/la-mysterieuse-disparition-des-biscuits-finger-des-rayons-de-nos-supermarches_AV-202411080635.html "La mystérieuse disparition des biscuits Finger des rayons de nos supermarchés")
-5. [### Notre-Dame de Paris: les cloches retentissent pour la première fois depuis l'incendie de 2019](https://www.bfmtv.com/paris/notre-dame-de-paris-les-cloches-retentissent-pour-la-premiere-fois-depuis-l-incendie-de-2019_AD-202411080435.html "Notre-Dame de Paris: les cloches retentissent pour la première fois depuis l'incendie de 2019")
+    ### Orages, pluie-inondation: les vigilances orange levées dans l'Aude et l'Hérault](https://www.bfmtv.com/meteo/orages-et-inondations-les-vigilances-orange-levees-dans-l-aude-et-l-herault_AD-202411090079.html "Orages, pluie-inondation: les vigilances orange levées dans l'Aude et l'Hérault")
+2. [### Indonésie: une colonne de cendres de 9 km observée après une nouvelle éruption volcanique](https://www.bfmtv.com/international/asie/indonesie-une-colonne-de-cendres-de-9-km-observee-apres-une-nouvelle-eruption-volcanique_AD-202411090092.html "Indonésie: une colonne de cendres de 9 km observée après une nouvelle éruption volcanique")
+3. [### Traversée de la Manche: 15 jours après leur naufrage, Osama toujours à la recherche de son père](https://www.bfmtv.com/grand-littoral/traversee-de-la-manche-15-jours-apres-leur-naufrage-osama-toujours-a-la-recherche-de-son-pere_AD-202411090078.html "Traversée de la Manche: 15 jours après leur naufrage, Osama toujours à la recherche de son père")
+4. [### OM-Auxerre: "Ce n'est pas lui le problème, c'est nous", Balerdi au soutien de De Zerbi](https://rmcsport.bfmtv.com/football/ligue-1/om-auxerre-ce-n-est-pas-lui-le-probleme-c-est-nous-balerdi-au-soutien-de-de-zerbi_AV-202411090137.html "OM-Auxerre: "Ce n'est pas lui le problème, c'est nous", Balerdi au soutien de De Zerbi")
+5. [### "J'ai les larmes aux yeux": pourquoi un calendrier de l'Avent Sephora déchaîne les passions sur Tiktok](https://www.bfmtv.com/tech/tiktok/j-ai-les-larmes-aux-yeux-pourquoi-un-calendrier-de-l-avent-sephora-dechaine-les-passions-sur-tiktok_AV-202411090056.html ""J'ai les larmes aux yeux": pourquoi un calendrier de l'Avent Sephora déchaîne les passions sur Tiktok")
 
 ![BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
