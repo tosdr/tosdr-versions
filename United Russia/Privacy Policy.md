@@ -305,7 +305,7 @@
 
 [#поддержкаучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1094235) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#Республика Мордовия](https://er.ru/activity/news?tags%5B0%5D=1090160) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#русскоесело](https://er.ru/activity/news?tags%5B0%5D=105010) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#Наумец](https://er.ru/activity/news?tags%5B0%5D=1095264) [#ветераныСВО](https://er.ru/activity/news?tags%5B0%5D=1095636)
 
-Сегодня 09:00
+09.11.24
 
 [![Владимир Якушев и Владислав Шапша обсудили задачи «Единой России» в Калужской области на 2025 год](https://cdn.er.ru/media/news/November2024/sNLVLd9AXCO32VbvVoho-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-i-vladislav-shapsha-obsudili-zadachi-edinoj-rossii-v-kaluzhskoj-oblasti-na-2025-god)
 
