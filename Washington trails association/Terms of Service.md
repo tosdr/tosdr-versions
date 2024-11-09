@@ -2,8 +2,8 @@ https://www.wta.org/backpack
 
 [Skip to content](#main-content)
 
-[![Washington Trails Association](/++theme++plonetheme.wta/images/wta-logo.png)](https://www.wta.org/)Washington Trails Association
------------------------------------------------------------------------------------------------------------------------------------
+[![Washington Trails Association](/wtamain/wtaadmin/++theme++plonetheme.wta/images/wta-logo.png)](https://www.wta.org/)Washington Trails Association
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Trails for everyone, forever
 
@@ -221,7 +221,7 @@ _
     * [Sign Up](https://www.wta.org/news/sign-up)
     * [Press Room](https://www.wta.org/news/press-room "How to contact us to request information or schedule an interview with WTA staff.")
 
-[![Home](/++theme++plonetheme.wta/images/wta-logo.png)](https://www.wta.org/)
+[![Home](/wtamain/wtaadmin/++theme++plonetheme.wta/images/wta-logo.png)](https://www.wta.org/)
 
 Contact Us
 ----------
@@ -258,4 +258,4 @@ Trails for everyone, forever
 
 Washington Trails Association is 501(c)(3) nonprofit. Contributions to WTA are tax deductible, and we are committed to making the best use of every donation to our mission. Our tax identification number is EIN 91-0900134.
 
-[Design: ![Neal Maher, design for social change](/++theme++plonetheme.wta/images/svg/neal-logo.svg)](http://www.nealmaher.com/)
+[Design: ![Neal Maher, design for social change](/wtamain/wtaadmin/++theme++plonetheme.wta/images/svg/neal-logo.svg)](http://www.nealmaher.com/)
