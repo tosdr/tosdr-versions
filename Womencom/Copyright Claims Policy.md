@@ -41,47 +41,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+*  [![Cleaning out closet](https://www.women.com/img/gallery/cobwebbing-the-refreshing-dating-trend-explained/intro-1730747990.jpg)](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
     
-    [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
-    ================================================================================================================================================
+    [Cobwebbing: The Refreshing Dating Trend, Explained](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
+    ======================================================================================================================
     
-    While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
+    Although cobwebbing may seem like a scary step for some people, more than anything it's an act of healing and self care.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+    By Amanda Chatel [Read More](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
     
-* *  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+* *  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
         
         [Wellness](https://www.women.com/category/wellness/)
         
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+        [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
         
-        ### [5 Celebs Who Have Spoken Out About How Therapy Has Improved Their Lives](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+        ### [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
         
-        Life is hard enough as it is, and managing a mental health issue with therapy is always the best decision anyone can make for themselves.
+        Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
         
-        By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+        By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
         
-    *  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    *  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
         
         [Living](https://www.women.com/category/living/)
         
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
         
-        ### [Stevie Nicks' Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+        ### [The 5 Best Books Of The 2020s For Millennials](https://www.women.com/1701412/best-books-for-women-in-30s/)
         
-        While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
+        For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
         
-        By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+        By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
         
 
 More Stories
 ------------
 
+*  [![Selena Gomez wearing pink makeup](https://www.women.com/img/gallery/selena-gomez-beauty-looks-well-never-forget/intro-1730826646.jpg)](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Selena Gomez Beauty Looks We'll Never Forget](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
+    
+    Selena Gomez may be the queen of understated makeup, but she's also pulled out some bold, vibrant looks over the years that we love.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
+    
 *  [![Sarah Michelle Gellar posing against a backdrop in 2024](https://www.women.com/img/gallery/8-sarah-michelle-gellar-outfits-that-could-have-come-straight-from-buffy-summers-closet/intro-1730747022.jpg)](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -105,6 +117,42 @@ More Stories
     Surgery scars don't have to be ugly. In an ear of body positivity, some celebrities are exposing their scars to reclaim power and share their stories.
     
     By Emily Hutchinson [Read More](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
+    
+*  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    
+    ### [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+    
+    While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
+    
+*  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [5 Celebs Who Have Spoken Out About How Therapy Has Improved Their Lives](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+    
+    Life is hard enough as it is, and managing a mental health issue with therapy is always the best decision anyone can make for themselves.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+    
+*  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    ### [Stevie Nicks' Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    
+    While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
 *  [![Ehan and Vinay Kamat](https://www.women.com/img/gallery/heres-what-went-down-with-solemender-after-shark-tank/intro-1730216668.jpg)](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
@@ -177,30 +225,6 @@ More Stories
     Thanks to Kylie Jenner, classic time pieces are more on trend than ever. Here's how the star is using the accessory to bridge luxury and practicality.
     
     By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
-    
-*  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [The 5 Best Books Of The 2020s For Millennials](https://www.women.com/1701412/best-books-for-women-in-30s/)
-    
-    For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
-    
-*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
-    
-    ### [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-    
-    Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
     
 *  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
     
@@ -381,30 +405,6 @@ More Stories
     Taylor Swift isn't known for being a fashionista, but some of her red carpet looks have been downright bad. Here are five unstylish looks from five eras.
     
     By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
-    
-*  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-    
-    ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
-    
-    More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
-    
-*  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Want To Smell Like Florence Pugh? We Know Her Favorite Perfume](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
-    
-    If you adore Florence Pugh and would like to have something in common with this icon, here's a tip: wear her favorite perfume.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
     
 
 Back
