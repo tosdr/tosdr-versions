@@ -33,6 +33,7 @@
     * [International Schools](https://www.finalsite.com/international-schools)
     * [Charter Schools](https://www.finalsite.com/charter-schools)
     * [Catholic Schools](https://www.finalsite.com/catholic)
+    * [Recent Sign Ons(opens in new window/tab)](https://www.finalsite.com/meet-our-schools/recent-sign-ons)
     
 * [Who We Are](https://www.finalsite.com/about)
     
@@ -135,6 +136,7 @@ Popular Search Terms
     * [International Schools](https://www.finalsite.com/international-schools)
     * [Charter Schools](https://www.finalsite.com/charter-schools)
     * [Catholic Schools](https://www.finalsite.com/catholic)
+    * [Recent Sign Ons(opens in new window/tab)](https://www.finalsite.com/meet-our-schools/recent-sign-ons)
     
 * [Who We Are](https://www.finalsite.com/about)
     
