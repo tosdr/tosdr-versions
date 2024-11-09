@@ -36,18 +36,18 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![Critical Veeam RCE bug now used in Frag ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Critical Veeam RCE bug now used in Frag ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
+    * [![D-Link won’t fix critical flaw affecting 60,000 older NAS devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        D-Link won’t fix critical flaw affecting 60,000 older NAS devices](https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-flaw-affecting-60-000-older-nas-devices/)
     * [![Unpatched Mazda Connect bugs let hackers install persistent malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
     * [![Palo Alto Networks warns of potential PAN-OS RCE vulnerability](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
-    * [![Google's mysterious 'search.app' links leave Android users concerned](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Google's mysterious 'search.app' links leave Android users concerned](https://www.bleepingcomputer.com/news/security/googles-mysterious-searchapp-links-leave-android-users-concerned/)
-    * [![Break into a cybersecurity career with this certification course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Break into a cybersecurity career with this certification course deal](https://www.bleepingcomputer.com/offer/deals/break-into-a-cybersecurity-career-with-this-certification-course-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
