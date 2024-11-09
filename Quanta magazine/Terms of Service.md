@@ -259,11 +259,11 @@ _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 _By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
 
-[![An illustration shows a cell with its organs arranged by shape, as if in separate compartments.](https://www.quantamagazine.org/wp-content/uploads/2024/10/EukaryoteExplainer-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/QA-Patrick-Cai_crDave-Phillips-Thumbnail.webp)](https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/)
 
-[#### Meet the Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
+[#### He’s Gleaning the Design Rules of Life to Re-Create It](https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/)
 
-_By_ [Molly Herring](https://www.quantamagazine.org/authors/mollyherring)
+_By_ [Shi En Kim](https://www.quantamagazine.org/authors/shienkim)
 
 The Quanta Newsletter
 
