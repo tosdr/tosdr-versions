@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Henry Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=100340136)  
-CHARLIEX CONSTRUCTIONS
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=40849501)  
+APTV Telecoms CC
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=39480147)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=53941927)  
+Leef in Afrikaans
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=141629854)  
-National Elite Security Services (PTY) LTD
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=187271985)  
+NIMAWELL
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=212368085)  
-Roamfree Boerdery (PTY) LTD
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=206436469)  
+UniTech Solutions Pty Ltd
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=114357986)  
-Abandoned Vehicle and Truck Solutions
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=60081880)  
+OptaServ
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=122825752)  
-Testpro Laboratory (Pty) Ltd
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=9849611)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=44236492)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=55652502)  
+LEO DEVELOPMENT GROUP
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=207511133)  
-Tantra Sound and Lightz
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=53023302)  
+SLOANE STAR MEAT MARKET
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=39246819)  
-Iurus Inc
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=105101309)  
+Lemba Truck Stop
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=1644814)  
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=108729060)  
+MONSTER SECURITY GUARDING
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=74565894)  
+Fox Alarms & Security
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=41209434)  
 Konsortium Operations (PTY) LTD
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=23574973)  
-SA Security Brokerz (Pty) Ltd
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=119488739)  
+Imvubu General Trading
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=30643130)  
-NGB HOLDINGS PTY LTD
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=66767631)  
+West Coast Horse Trails
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=102093905)  
-Karino Merinos ( PTY ) LTD
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=50266491)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=b851eb24a069c51b6906fd502b51ef8d073be4b6ad4d5aad6f39abbc96005552&c=155626576)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=163509323)  
+Wiselink Broadband Vryheid
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
