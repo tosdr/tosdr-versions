@@ -231,7 +231,6 @@ this hour
 
 * [Deep Ocean Clues to Ice Age Puzzle](https://www.sciencedaily.com/releases/2024/11/241108113456.htm)
 * [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
-* [How Much Climate Change Is in the Weather?](https://www.sciencedaily.com/releases/2024/11/241108113529.htm)
 * [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
 * [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
 * [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
@@ -239,6 +238,7 @@ this hour
 * [Chimps Perform Better With an Audience](https://www.sciencedaily.com/releases/2024/11/241108113207.htm)
 * [Animals: 100-Million-Year Explosion in Color](https://www.sciencedaily.com/releases/2024/11/241107193216.htm)
 * [Memories Are Not Only in the Brain](https://www.sciencedaily.com/releases/2024/11/241107193111.htm)
+* [Mini-Tornadoes in Supersolid Quantum Gas](https://www.sciencedaily.com/releases/2024/11/241106132229.htm)
 
 Trending Topics
 ---------------
