@@ -104,6 +104,36 @@ Nov 07 2024
 
 By **[Howard P. Milstein](https://admin.mi52siterestore.com/person/howard-p-milstein/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/hispanics-shift-right.jpg)[](https://admin.mi52siterestore.com/article/hispanics-shift-right/ "Read More")
+
+Commentary Governance Elections
+
+Nov 08 2024
+
+[Hispanics Shift Right](https://admin.mi52siterestore.com/article/hispanics-shift-right/)
+
+By **[Daniel Di Martino](https://admin.mi52siterestore.com/person/daniel-di-martino/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/hispanics-shift-right/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory.jpg)[](https://admin.mi52siterestore.com/article/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory/ "Read More")
+
+Commentary Governance, Education Higher Ed
+
+Nov 08 2024
+
+[Canceled Classes, Rescheduled Midterms, and Stress Baking: How Elite Universities Are Coddling Students Grieving over Trump’s Victory](https://admin.mi52siterestore.com/article/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory/)
+
+By **[Lexi Boccuzzi](https://admin.mi52siterestore.com/person/lexi-boccuzzi/), [Jessica Costescu](https://admin.mi52siterestore.com/person/jessica-costescu/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/are-black-newborns-more-likely-to-survive-with-black-doctors.jpg)[](https://admin.mi52siterestore.com/article/are-black-newborns-more-likely-to-survive-with-black-doctors/ "Read More")
+
+Commentary Governance, Culture, Health
+
+Nov 07 2024
+
+[Are Black Newborns More Likely to Survive with Black Doctors?](https://admin.mi52siterestore.com/article/are-black-newborns-more-likely-to-survive-with-black-doctors/)
+
+By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/), [George J. Borjas](https://admin.mi52siterestore.com/person/george-j-borjas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/are-black-newborns-more-likely-to-survive-with-black-doctors/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/policy-recommendations-for-innovation-in-infrastructure.jpg)[](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/ "Read More")
 
 Report Governance, Cities, Economics
@@ -113,36 +143,6 @@ Nov 07 2024
 [Policy Recommendations for Innovation in Infrastructure](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/)
 
 By **[John Ketcham](https://admin.mi52siterestore.com/person/john-ketcham/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/movement-new-yorks-long-war-to-take-back-its-streets-from-the-car-excerpt.jpg)[](https://admin.mi52siterestore.com/article/if-the-trains-dont-move-nobody-moves-the-legacy-of-the-nyc-transit-strike-of-1966/ "Read More")
-
-Commentary Cities New York, New York City
-
-Nov 06 2024
-
-[If the Trains Don’t Move, Nobody Moves: The Legacy of the NYC Transit Strike of 1966](https://admin.mi52siterestore.com/article/if-the-trains-dont-move-nobody-moves-the-legacy-of-the-nyc-transit-strike-of-1966/)
-
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/if-the-trains-dont-move-nobody-moves-the-legacy-of-the-nyc-transit-strike-of-1966/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/opinion-prop-1-will-greenlight-anti-asian-discrimination-new-york.jpg)[](https://admin.mi52siterestore.com/article/prop-1-will-greenlight-anti-asian-discrimination-in-new-york/ "Read More")
-
-Commentary Governance, Cities New York, New York City, Elections
-
-Nov 04 2024
-
-[Prop 1 Will Greenlight Anti-Asian Discrimination in New York](https://admin.mi52siterestore.com/article/prop-1-will-greenlight-anti-asian-discrimination-in-new-york/)
-
-By **[Renu Mukherjee](https://admin.mi52siterestore.com/person/renu-mukherjee/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/prop-1-will-greenlight-anti-asian-discrimination-in-new-york/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/october-employment-report.jpg)[](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/ "Read More")
-
-Commentary Economics Employment
-
-Nov 01 2024
-
-[Comments on the October Employment Report](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/)
-
-By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/)
 
 Our Policy Areas
 ----------------
