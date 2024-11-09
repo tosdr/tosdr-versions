@@ -2,6 +2,13 @@ Your browser does not support JavaScript. Please turn it on for the best experie
 
 [](https://partner.tp-link.com/us/)
 
+Click to skip the navigation bar
+
+*  [](https://www.kasasmart.com/us)
+*  [](https://www.tapo.com/us/)
+*  [](https://www.tp-link.com/us/business-networking/)
+*  [](https://www.vigi.com/us/)
+
 [Support](https://www.kasasmart.com/us/support/)
 
 1. [All Support](https://www.kasasmart.com/us/support/)
@@ -21,16 +28,11 @@ Where to Buy
 
 [United States / English](https://www.kasasmart.com/us/choose-your-location/)
 
-*  [](https://www.kasasmart.com/us)
-*  [](https://www.tapo.com/us/)
-*  [](https://www.tp-link.com/us/business-networking/)
-*  [](https://www.vigi.com/us/)
-
 [TP-Link, Reliably Smart](https://www.kasasmart.com/us/)
 
 [Search](https://www.kasasmart.com/us/search/)
 
-* Networking
+* Networking ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
     
     * [WiFi 7](https://www.kasasmart.com/us/wifi7/)
     
@@ -114,7 +116,7 @@ Where to Buy
     * [PCIe Adapters](https://www.kasasmart.com/us/home-networking/pci-adapter/)
     * [USB Adapters](https://www.kasasmart.com/us/home-networking/usb-adapter/)
     
-* Smart Home
+* Smart Home ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
     
     *   [Kasa Smart](https://www.kasasmart.com/us)
     
@@ -173,7 +175,7 @@ Where to Buy
     
     [New Release](https://www.kasasmart.com/us/smart-home/new-release/)
     
-* [Business](https://www.tp-link.com/us/business-networking/)
+* [Business ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://www.tp-link.com/us/business-networking/) 
     
     *   [Business](https://www.kasasmart.com/us/business-networking/)
     
@@ -253,7 +255,7 @@ Where to Buy
     * [Accessories](https://www.kasasmart.com/us/business-networking/soho-accessory/)
     * [Pharos Wireless Bridges](https://www.kasasmart.com/us/business-networking/all-pharos-wireless-bridge/)
     
-* Service Providers
+* Service Providers ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
     
     *   [TP-Link Aginet Unified Cloud (TAUC)](https://www.tp-link.com/us/tauc/)
     
@@ -271,8 +273,8 @@ Where to Buy
     
     The leading technology for delivering gigabit Internet services
     
-* [HOT DEALS](https://www.kasasmart.com/us/promotion)
-* [Community](https://community.tp-link.com/)
+* [HOT DEALS ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://www.kasasmart.com/us/promotion) 
+* [Community ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://community.tp-link.com/) 
     
     [For Home](https://community.tp-link.com/us/home)
     
@@ -632,9 +634,12 @@ You may stop video/audio recording from your camera at any time. From the Kasa A
 
 You acknowledge and agree that Kasa Care Services, whether standing alone or interfaced with third-party products or services, is not certified for emergency response and is not a third-party monitored emergency notification system (e.g., Kasa Care will not dispatch emergency authorities to your home in the event of an emergency). Additionally, you acknowledge and agree that Kasa Care Services and our employees are not a lifesaving solution for you or any other person at risk in your home, and that the Kasa Care Services are not a substitute for emergency services. All emergencies should be directed to the appropriate response services. We make no warranty or representation that the use of Kasa Care Services, whether standing alone or interfaced with third-party products or services, will affect or increase your level of safety or that of anyone else. You acknowledge and agree that you will not rely on the Kasa Care Services for any life-saving or other critical purpose. Mobile notifications regarding the status and alarms related to the Kasa Care Services are provided for information purposes only and such notifications are not a substitute for a third-party monitored emergency notification system. You acknowledge that it is your responsibility to educate yourself on how to respond to emergencies.
 
-SubscribeTP-Link takes your privacy seriously. For further details on TP-Link's privacy practices, see [TP-Link's Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US).
+Subscribe\>TP-Link takes your privacy seriously. For further details on TP-Link's privacy practices, see [TP-Link's Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US).
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Be The First To Get Exclusive Deals & News
+
+ Email Address Email Error
 
 Subscribe
 
@@ -653,6 +658,7 @@ reCaptcha not verified
 Subscribe
 
 Let's Connect
+-------------
 
 * [www.facebook.com](https://www.facebook.com/TPLINKUS/)
 * [Instagram](https://www.instagram.com/tplinkus/)
