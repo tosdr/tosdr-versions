@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
+* [How to backup your data to dreamObjects](https://www.backup4all.com/how-to-backup-your-data-to-dreamobjects-kb.html)  
     
-* [Using Backup4all - FAQ 7](https://www.backup4all.com/using-backup4all-faq-7-kb.html)  
+* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
     
-* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
+* [How to back up data files from Wasabi S3 Comp ...](https://www.backup4all.com/how-to-back-up-date-files-from-wasabi-s3-compatible-kb.html)  
     
-* [How to back up data files from HiDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hidrive-using-backup4all-kb.html)  
+* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
     
-* [How to backup your data to GreenQloud](https://www.backup4all.com/how-to-backup-your-data-to-greenqloud-kb.html)  
+* [How to backup your data to Connectria](https://www.backup4all.com/how-to-backup-your-data-to-connectria-kb.html)  
     
 
 Choose language:
