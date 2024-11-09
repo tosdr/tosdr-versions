@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. English
+1. python
     
-2. java
+2. data science
     
-3. harvard
+3. sql
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Cybersecurity
     
-    42,579 courses](https://www.classcentral.com/subject/cs)
-2. [Communication Skills
-    
-    4,099 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Project Management
+    16,630 courses](https://www.classcentral.com/subject/cybersecurity)
+2. [Project Management
     
     4,065 courses](https://www.classcentral.com/subject/project-management)
+3. [Digital Marketing
+    
+    6,092 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Project Management: The Basics for Success
+1. [Anatomy: Know Your Abdomen
     
-    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
-2. [Introduction to Mathematical Thinking
+    University of Leeds](https://www.classcentral.com/course/anatomy-know-your-abdomen-5008)
+2. [Internet History, Technology, and Security
     
-    Stanford University](https://www.classcentral.com/course/maththink-370)
-3. [Arab-Islamic History: From Tribes to Empires
+    University of Michigan](https://www.classcentral.com/course/insidetheinternet-335)
+3. [Preventing Dementia
     
-    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
+    University of Tasmania](https://www.classcentral.com/course/independent-preventing-dementia-6565)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
