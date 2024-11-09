@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9740174f9e16c7feb51d39501ba1d6e6
+56155ad489f87ed0fe14b1746cce6fa7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![14 mm to 24 mm gray stick pearls](https://sojourner.biz/images/cache/pearls/PE0115.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-to-24-mm-gray-stick-pearls.html "14 mm to 24 mm gray stick pearls")
+[![EB18 bead](https://sojourner.biz/images/cache/EB18lbl.200.jpg)](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
 
-#### [14 mm to 24 mm gray stick pearls](https://sojourner.biz/beads/pearls/14-mm-to-24-mm-gray-stick-pearls.html "14 mm to 24 mm gray stick pearls")
+#### [EB18 bead](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
 
-$40.00
+$6.50
 
 ### Best Sellers
 
