@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Dark and Light](https://www.somethingawful.com/mmo-roulette/darkandlight/1/)
-* [Your Guide to Internet Criticism](https://www.somethingawful.com/news/guide-internet-criticism/1/)
-* [Now, Treasured Customer, an Urgent Dispatch from R. J. Heckwolf](https://www.somethingawful.com/news/fouke-urgent-dispatch/)
-* [How to Win Any Argument On the Internet](https://www.somethingawful.com/news/how-win-any/)
+* [Goons on Drugs](https://www.somethingawful.com/great-goon-database/great-goon-drugs/1/)
+* [Postage Stamps](https://www.somethingawful.com/photoshop-phriday/postage-stamps/1/)
+* [Manimated Productions](https://www.somethingawful.com/awful-links/alod_manimated/)
+* [Bad Fragmaster Poetry](https://www.somethingawful.com/news/bad-fragmaster-poetry/)
+* [Politician Album Covers! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/politician-album-covers/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [What is your biggest G rated unpopular opinion?](http://forums.somethingawful.com/showthread.php?threadid=4074915 "What is your biggest G rated unpopular opinion?")
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE](http://forums.somethingawful.com/showthread.php?threadid=4074914 "Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Friendly's is probably one of the best major brands of ice cream](http://forums.somethingawful.com/showthread.php?threadid=4074912 "Friendly's is probably one of the best major brands of ice cream")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE](http://forums.somethingawful.com/showthread.php?threadid=4074914 "Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [What is your biggest G rated unpopular opinion?](http://forums.somethingawful.com/showthread.php?threadid=4074915 "What is your biggest G rated unpopular opinion?")
 
 ### Random Articles
 
-* [04-23-2007](https://www.somethingawful.com/forum-fridays/ff04-23-2007/1/)
-* [Games & Toys Made Less Fun](https://www.somethingawful.com/photoshop-phriday/games-toys-fun/1/)
-* [What A Goddamn Lousy Veteran's Day by Cliff Yablonski](https://www.somethingawful.com/news/what-goddamn-lousy/)
-* [The Goon Who Saved 'Manos'!](https://www.somethingawful.com/comedy-goldmine/manos-restoration-project/1/)
-* [Half Life 2 Gone Gold!](https://www.somethingawful.com/news/half-life-gone/)
+* [Recursion](https://www.somethingawful.com/awful-movie-database/charlie-kaufman-recursion/)
+* [American Hustle; The Wolf of Wall Street; 47 Ronin](https://www.somethingawful.com/current-movie-reviews/american-hustle/1/)
+* [SA Psychoanalyzes Psychotic Synopsis](https://www.somethingawful.com/news/sa-psychoanalyzes-psychotic/)
+* [Mayhem.net](https://www.somethingawful.com/awful-links/awful-link-955/)
+* [I am a Horrible Monster and I Pray for Death](https://www.somethingawful.com/hogosphere/am-horrible-monster/)
 
 [Random!](https://www.somethingawful.com/random/)
 
