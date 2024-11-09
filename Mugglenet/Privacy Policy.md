@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
+“Harry Potter and the Philosopher’s Stone” was first published on June 26, 1997, by Bloomsbury. There were only 500 hardback copies printed for the initial print run.
 
 ### Potter History
 
-July 31, 2008 – It is announced that The Tales of Beedle the Bard, originally only to be read by the owners of the seven handwritten copies, would be published worldwide on December 4, with all proceeds being given to charity.
+September 10, 2007 – Harry Potter is named the highest-grossing motion picture franchise of all time, with $4.47 billion in ticket sales.
 
 ### Potter Quote
 
-“I wonder how you expect to gain an idea of my usual teaching methods if you continue to interrupt me? You see, I do not generally permit people to talk when I am talking.”
+“Have a biscuit, Potter.”
 
 [](#)
 
