@@ -131,9 +131,9 @@ Upcoming Events
 
 Nov 13
 
-10:00 am - 11:00 am EST
+10:01 am - 11:00 am EST
 
-### [11/13 @ 10am EST – How do you put Speedify on your router? | Ask the CEO your tech questions](https://speedify.com/event/11-13-10am-est-how-do-you-put-speedify-on-your-router-ask-the-ceo-your-tech-questions/ "11/13 @ 10am EST – How do you put Speedify on your router? | Ask the CEO your tech questions")
+### [11/13 @ 10am EST – Your webcam choice will make or break your streams | Ask the CEO your tech questions](https://speedify.com/event/11-13-10am-est-how-do-you-put-speedify-on-your-router-ask-the-ceo-your-tech-questions/ "11/13 @ 10am EST – Your webcam choice will make or break your streams | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
