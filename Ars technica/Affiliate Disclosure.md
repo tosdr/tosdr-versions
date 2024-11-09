@@ -87,13 +87,13 @@ Most Read
     
     1. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
     
-2. 2. [After decades, FDA finally moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/)
+2. 2. [New SMB-friendly subscription tier may be too late to stop VMware migrations](https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/)
     
-3. 3. [Rocket Report: Australia says yes to the launch; Russia delivers for Iran](https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/)
+3. 3. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-4. 4. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
+4. 4. [Rocket Report: Australia says yes to the launch; Russia delivers for Iran](https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/)
     
-5. 5. [Sega is delisting 60 classic games from Steam, so now’s the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
+5. 5. [Verizon, AT&T tell courts: FCC can’t punish us for selling user location data](https://arstechnica.com/tech-policy/2024/11/verizon-att-tell-courts-fcc-cant-punish-us-for-selling-user-location-data/)
     
 
 Customize
