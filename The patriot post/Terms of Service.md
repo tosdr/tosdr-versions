@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -207,14 +207,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Matthew Continetti The Biden Error](https://patriotpost.us/opinion/111839-the-biden-error-2024-11-09)
+*      [The Washington Stand Trump’s Win ‘Isn’t the Finish Line — It’s the Starting Point’](https://patriotpost.us/opinion/111840-trumps-win-isnt-the-finish-line-its-the-starting-point-2024-11-09)
 *      [Ben Shapiro Why Trump Won](https://patriotpost.us/opinion/111809-why-trump-won-2024-11-08)
 *      [Erick Erickson The Aftermath](https://patriotpost.us/opinion/111808-the-aftermath-2024-11-08)
 *      [Michael Barone What You Didn’t Hear About on Election Night: The Other 43 States](https://patriotpost.us/opinion/111807-what-you-didnt-hear-about-on-election-night-the-other-43-states-2024-11-08)
 *      [David Harsanyi Good News: Americans Are No Longer Listening to Mass Media](https://patriotpost.us/opinion/111806-good-news-americans-are-no-longer-listening-to-mass-media-2024-11-08)
 *      [Gary Bauer Kamala’s Concession, Sort Of](https://patriotpost.us/opinion/111804-kamalas-concession-sort-of-2024-11-08)
 *      [Armstrong Williams An Open Letter to the Left’s Unremarkable, Bitter, Woke, Visionless, Out-of-Touch Leadership](https://patriotpost.us/opinion/111802-an-open-letter-to-the-lefts-unremarkable-bitter-woke-visionless-out-of-touch-leadership-2024-11-08)
-*      [Josh Hammer The Death of Obamaism, and the Historic MAGA Opportunity](https://patriotpost.us/opinion/111801-the-death-of-obamaism-and-the-historic-maga-opportunity-2024-11-08)
-*      [Victor Davis Hanson Harris Was Always Doomed](https://patriotpost.us/opinion/111800-harris-was-always-doomed-2024-11-08)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
