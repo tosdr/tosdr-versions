@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                 
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                      
 
 [Skip to content](#MainContent)  
 
@@ -105,7 +105,7 @@ Close menu
 * [Discord](https://discord.gg/DFKfA5PjDp "G FUEL on Discord")
 * [Twitch](https://www.twitch.tv/gfuelenergy "G FUEL on Twitch")
 
-  [![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_230x.png?v=1716554254) ![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_130x.png?v=1716554254)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_230x.png?v=1716554254) ![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_130x.png?v=1716554254)](https://gfuel.com/)
+  [![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_150x.png?v=1716554254) ![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_130x.png?v=1716554254)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_150x.png?v=1716554254) ![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_130x.png?v=1716554254)](https://gfuel.com/)
 
   Search  "Close (esc)"
 
