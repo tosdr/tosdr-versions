@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") ["Republicans Are Weird"](https://knowyourmeme.com/memes/republicans-are-weird ""Republicans Are Weird"") [40 Monkeys Escape Research Facility](https://knowyourmeme.com/memes/events/40-monkeys-escape-research-facility "40 Monkeys Escape Research Facility") [Black Ops 6 AI Cards Controversy](https://knowyourmeme.com/memes/events/call-of-duty-black-ops-6-ai-cards-controversy "Black Ops 6 AI Cards Controversy") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Study Finds 100 Percent Of Men Would Immediately Leave Their Desk Job](https://knowyourmeme.com/memes/study-finds-100-percent-of-men-would-immediately-leave-their-desk-job "Study Finds 100 Percent Of Men Would Immediately Leave Their Desk Job") [Israeli Maccabi Tel Aviv Fans Amsterdam Attack](https://knowyourmeme.com/memes/events/israeli-maccabi-tel-aviv-fans-amsterdam-attack "Israeli Maccabi Tel Aviv Fans Amsterdam Attack") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit")
+[Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") ["Republicans Are Weird"](https://knowyourmeme.com/memes/republicans-are-weird ""Republicans Are Weird"") [Chibidoki](https://knowyourmeme.com/memes/people/chibidoki "Chibidoki") [40 Monkeys Escape Research Facility](https://knowyourmeme.com/memes/events/40-monkeys-escape-research-facility "40 Monkeys Escape Research Facility") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hi! You must login or signup first!
+### Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
