@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-We've been using FoxyProxy for a few years for testing and debugging purposes and we're quite happy with the service.
+Thank you so much! That's honestly why you're the best service!
 
-Moises Meza
+Gary Lock
