@@ -275,7 +275,7 @@ Privacy Officer, privacy@its-can.com
 
 Send
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png?time=1731027886)](https://its-can.com/)
 
 [Schedule Consultation](#form)
 
@@ -283,7 +283,7 @@ Reviewed on
 
 __________ 5/5
 
-[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg)](https://clutch.co/profile/its-canada#summary)
+[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg?time=1731027886)](https://clutch.co/profile/its-canada#summary)
 
 [Reviews](https://clutch.co/profile/its-canada#summary)
 
