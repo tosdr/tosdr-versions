@@ -296,7 +296,7 @@ Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named afte
 
 ### Potter History
 
-July 18, 2007 – The New York Times posts an early review of Harry Potter and the Deathly Hallows, which sets off fury among fans.
+May 21-24, 2009 – The first LeakyCon is held in Boston, Massachusetts.
 
 ### Potter Quote
 
