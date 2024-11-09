@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Nothing is work unless you'd rather be doing something else”
+“ I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble”
 
-[George Halas](https://en.wikipedia.org/wiki/George_Halas)
+[Helen Keller](http://en.wikipedia.org/wiki/Helen_Keller)
 
 [](https://www.adafruit.com/about)
 
