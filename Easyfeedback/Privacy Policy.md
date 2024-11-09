@@ -143,7 +143,7 @@
 
 [Create survey](https://app.easy-feedback.com/register?l=en)
 
-[EN](https://easy-feedback.com/privacy-policy/)
+[EN](https://easy-feedback.com/privacy/privacy-policy/)
 
 * [DE](https://easy-feedback.de/privacy/datenschutzerklaerung/)
 
@@ -575,7 +575,7 @@ A web service of the company Cybot A/S, Havnegade 39, 1058 Copenhagen, Denmark (
 
 You can prevent the collection and processing of your data by cookiebot.com by deactivating the execution of script code in your browser or installing a script blocker in your browser.
 
-**Font Awesome**A web service of the company Fonticons, 6 Porter Road, Apartment 3R, MA 02140 Cambridge, United States of America (hereinafter: Font Awesome) is reloaded on our website. If you have activated JavaScript in your browser and have not installed a JavaScript blocker, your browser may transmit personal data to Font Awesome. For further information on the handling of the transmitted data, please refer to Font Awesome’s privacy policy: [https://fontawesome.com/privacy](https://fontawesome.com/privacy) You can prevent the collection as well as the processing of your data by Font Awesome by deactivating the execution of script code in your browser or by installing a script blocker in your browser.
+**Font Awesome** A web service of the company Fonticons, 6 Porter Road, Apartment 3R, MA 02140 Cambridge, United States of America (hereinafter: Font Awesome) is reloaded on our website. If you have activated JavaScript in your browser and have not installed a JavaScript blocker, your browser may transmit personal data to Font Awesome. For further information on the handling of the transmitted data, please refer to Font Awesome’s privacy policy: [https://fontawesome.com/privacy](https://fontawesome.com/privacy) You can prevent the collection as well as the processing of your data by Font Awesome by deactivating the execution of script code in your browser or by installing a script blocker in your browser.
 
 **Hotjar**
 
@@ -852,7 +852,7 @@ March 2024
 ![Weltkarte weiß](https://easy-feedback.com/wp-content/uploads/2020/02/map_white.svg)
 
 * [Deutsch](https://easy-feedback.de/privacy/datenschutzerklaerung/)
-* [English](https://easy-feedback.com/privacy-policy/)
+* [English](https://easy-feedback.com/privacy/privacy-policy/)
 
  [![easyfeedback logo weiß-rot](https://easy-feedback.com/wp-content/uploads/2020/02/easyfeedback-logo-weiss-rot.png)](https://easy-feedback.com/)
 
