@@ -1,4 +1,4 @@
-[Skip to main contentarrow right](#main)
+[Skip to main content](#main)
 
 [](https://fettle.health/)
 
@@ -6,11 +6,7 @@ Menu
 
 [](https://fettle.health/)
 
-CloseCross
-
-Search
-
-Cross
+Close
 
 * [STI tests](https://fettle.health/sti)
     
@@ -540,29 +536,29 @@ If you have any questions about this Privacy Notice, or should you need to raise
 
 Fettle is a not-for-profit, affordable sexual health service delivered by SH:24.
 
-[About Fettlearrow right](https://fettle.health/about)
+[About Fettle](https://fettle.health/about)
 
 * [Help centre](https://fettle.health/help-centre)
 * [Our clinical team](https://fettle.health/clinical-team)
 * [FAQ](https://fettle.health/help-centre/our-service)
 * [Contact us](https://fettle.health/contact)
-* [SH:24external link](https://sh24.org.uk/)
+* [SH:24](https://sh24.org.uk/)
 
 * [About](https://fettle.health/about)
 * [Press](https://fettle.health/press)
 * [Reviews](https://fettle.health/reviews)
 * [For employers](https://fettle.health/employer-benefits-sexual-health)
-* [Careers at SH:24external link](https://apply.workable.com/sh24/)
+* [Careers at SH:24](https://apply.workable.com/sh24/)
 
 * [Terms](https://fettle.health/terms-of-service)
 * [Privacy & cookies](https://fettle.health/privacy-and-cookies)
 * [Accessibility](https://fettle.health/accessibility)
 * Manage cookie consent
 
-* [Facebook](https://www.facebook.com/sh24nhs/)
-* [Twitter](https://twitter.com/sh24_nhs)
-* [Instagram](https://www.instagram.com/sh24_nhs/)
-* [Youtube](https://www.youtube.com/channel/UC811xpdiHW4LVhyxgyh2MPg)
-* [LinkedIn](https://www.linkedin.com/company/sh-24)
+* [](https://www.facebook.com/sh24nhs/)
+* [](https://twitter.com/sh24_nhs)
+* [](https://www.instagram.com/sh24_nhs/)
+* [](https://www.youtube.com/channel/UC811xpdiHW4LVhyxgyh2MPg)
+* [](https://www.linkedin.com/company/sh-24)
 
 [![Powered by Contentful](https://images.ctfassets.net/fo9twyrwpveg/7Htleo27dKYua8gio8UEUy/0797152a2d2f8e41db49ecbf1ccffdaa/PoweredByContentful_DarkBackground_MonochromeLogo.svg)](https://www.contentful.com/)
