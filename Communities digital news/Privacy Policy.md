@@ -80,6 +80,24 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-garland-biden-220x180.jpg)](https://americanwirenews.com/biden-admin-facing-pressure-to-respond-after-charges-filed-in-iranian-plot-to-assassinate-trump/)
+
+[Biden admin facing pressure to respond after charges filed in Iranian plot to assassinate Trump](https://americanwirenews.com/biden-admin-facing-pressure-to-respond-after-charges-filed-in-iranian-plot-to-assassinate-trump/)
+
+(Official White House Photo by Adam Schultz)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-bacon-victory-220x180.jpg)](https://americanwirenews.com/gop-rep-bacon-squeaks-out-narrow-win-in-nevada-as-republicans-inch-closer-to-house-majority/)
+
+[GOP Rep. Bacon squeaks out narrow win in Nevada as Republicans inch closer to House majority](https://americanwirenews.com/gop-rep-bacon-squeaks-out-narrow-win-in-nevada-as-republicans-inch-closer-to-house-majority/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-nancy-split1-1200-x-628-220x180.jpg)](https://americanwirenews.com/nancy-pelosi-blames-joe-biden-for-loss-after-leading-coup-against-him/)
+
+[Nancy Pelosi blames Joe Biden for loss after leading coup against him](https://americanwirenews.com/nancy-pelosi-blames-joe-biden-for-loss-after-leading-coup-against-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fettermanrogan1-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-scorched-after-profanely-lashing-out-at-his-own-states-voters/)
+
+[Fetterman scorched after profanely lashing out at his own state’s voters](https://americanwirenews.com/fetterman-scorched-after-profanely-lashing-out-at-his-own-states-voters/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-research-220x180.png)](https://americanwirenews.com/residents-on-alert-after-dozens-of-test-monkeys-escape-research-facility/)
 
 [Residents on alert after dozens of test monkeys escape research facility](https://americanwirenews.com/residents-on-alert-after-dozens-of-test-monkeys-escape-research-facility/)
@@ -161,24 +179,6 @@ Getty Image
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-4b-feminists-220x180.jpg)](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
 
 [Lefty chicks launch sex-strike ‘movement’ over Trump win, accidentally solve abortion issue](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-past-due-bill-220x180.jpg)](https://americanwirenews.com/explosive-scandal-brewing-inside-kamala-campaign-proves-america-dodged-a-bullet/)
-
-[‘Explosive’ scandal brewing inside Kamala campaign proves America ‘dodged a bullet’](https://americanwirenews.com/explosive-scandal-brewing-inside-kamala-campaign-proves-america-dodged-a-bullet/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-voting-2-220x180.jpg)](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
-
-[Ben Shapiro brings more bad news for Democrats](https://americanwirenews.com/ben-shapiro-brings-more-bad-news-for-democrats/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1186267294-1-220x180.jpg)](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
-
-[France’s Macron congratulates Trump on victory with an interesting choice of words](https://americanwirenews.com/frances-macron-congratulates-trump-on-victory-with-an-interesting-choice-of-words/)
-
-(Photo by LUDOVIC MARIN/POOL/AFP via Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gw-joe-biden-4-220x180.jpg)](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
-
-[Dem anger with Biden at a slow rolling boil after Trump wins, but who does Biden blame?](https://americanwirenews.com/dem-anger-with-biden-at-a-slow-rolling-boil-after-trump-wins-but-who-does-biden-blame/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
