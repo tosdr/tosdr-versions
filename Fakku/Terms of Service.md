@@ -1,6 +1,4 @@
-Mobile Menu
-
-[](https://www.fakku.net/ "Fakku!")
+Mobile Menu[](https://www.fakku.net/ "Fakku!")
 
 [New Releases](https://www.fakku.net/hentai "Newly Released Hentai Manga")
 
@@ -8,9 +6,7 @@ Mobile Menu
 
 [Tags](https://www.fakku.net/tags "Hentai Tags") [Forums](https://www.fakku.net/forums "Hentai Forums") [Merch](https://merch.fakku.net/ "Hentai Merch")
 
-Search [Cart](https://www.fakku.net/cart)
-
-[Login](https://www.fakku.net/login) [Register](https://www.fakku.net/users/create)
+Search [Cart](https://www.fakku.net/cart) [Login](https://www.fakku.net/login) [Register](https://www.fakku.net/users/create)
 
 Terms of Service
 ================
