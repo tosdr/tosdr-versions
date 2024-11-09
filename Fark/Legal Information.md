@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+$10 a month since 19 aught diddly.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Oh nothing... just Pentagon officials actively workshopping responses to illegal orders to unleash the US military on Americans](https://www.fark.com/goto/13457024) ( [theguardian.com](https://www.fark.com/goto/13457024) ) » [(32 comments)](https://www.fark.com/comments/13457024/Oh-nothing-just-Pentagon-officials-actively-workshopping-responses-to-illegal-orders-to-unleash-US-military-on-Americans) |
-| [Discussion](https://www.fark.com/discussion/) | [Husbands have some - ah, interesting - thoughts to offer in the birthing suite](https://www.fark.com/goto/13456946) ( [upworthy.com](https://www.fark.com/goto/13456946) ) » [(7 comments)](https://www.fark.com/comments/13456946/Husbands-have-some-ah-interesting-thoughts-to-offer-in-birthing-suite) |
-| [Sports](https://www.fark.com/sports/) | [Steve Kerr clowns TFG hard, then ends his motivational speech to the team with: "Let's make America great again and beat the Celtics"](https://www.fark.com/goto/13456992) ( [msn.com](https://www.fark.com/goto/13456992) ) » [(1 comment)](https://www.fark.com/comments/13456992/Steve-Kerr-clowns-TFG-hard-then-ends-his-motivational-speech-to-team-with-Lets-make-America-great-again-beat-Celtics) |
-| [Business](https://www.fark.com/business/) | [How a second Trump term is going to screw your retirement savings](https://www.fark.com/goto/13457152) ( [plansponsor.com](https://www.fark.com/goto/13457152) ) » [(12 comments)](https://www.fark.com/comments/13457152/How-a-second-Trump-term-is-going-to-screw-your-retirement-savings) |
-| [STEM](https://www.fark.com/stem/) | [A guide to surveillance self defense and maintaining your privacy online](https://www.fark.com/goto/13456980) ( [ssd.eff.org](https://www.fark.com/goto/13456980) ) » [(1 comment)](https://www.fark.com/comments/13456980/A-guide-to-surveillance-self-defense-maintaining-your-privacy-online) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Kurn, son of Mogh, wins entrance to Sto'Vo'Kor](https://www.fark.com/goto/13457120) ( [deadline.com](https://www.fark.com/goto/13457120) ) » [(4 comments)](https://www.fark.com/comments/13457120/Kurn-son-of-Mogh-wins-entrance-to-StoVoKor) |
-| [Fandom](https://www.fark.com/fandom/) | [The Bat-Signal has gone up for stupid](https://www.fark.com/goto/13457308) ( [thedrive.com](https://www.fark.com/goto/13457308) ) » [(2 comments)](https://www.fark.com/comments/13457308/The-Bat-Signal-has-gone-up-for-stupid) |
-| [D'awww](https://www.fark.com/dawww/) | [Ever kinked a water hose to make the user look at the spout, then released it as a prank? This elephant sure has](https://www.fark.com/goto/13456674) ( [phys.org](https://www.fark.com/goto/13456674) ) » [(8 comments)](https://www.fark.com/comments/13456674/Ever-kinked-a-water-hose-to-make-user-look-at-spout-then-released-it-as-a-prank-This-elephant-sure-has) |
-| [Food](https://www.fark.com/food/) | [In pictures: Hospital food around the world](https://www.fark.com/goto/13457312) ( [theguardian.com](https://www.fark.com/goto/13457312) ) » [(5 comments)](https://www.fark.com/comments/13457312/In-pictures-Hospital-food-around-world) |
-| [Politics](https://www.fark.com/politics/) | [Saudi Arabian Crown Prince shows future King of America how to Make Slavery Great Again (possible nsfw content on page)](https://www.fark.com/goto/13457332) ( [dailystar.co.uk](https://www.fark.com/goto/13457332) ) » [(14 comments)](https://www.fark.com/comments/13457332/Saudi-Arabian-Crown-Prince-shows-future-King-of-America-how-to-Make-Slavery-Great-Again-possible-nsfw-content-on-page) |
+| [Main](https://www.fark.com/) | [43 monkeys escaped from a South Carolina medical lab and are still on the loose, having a "grand adventure". Wait, isn't this how Planet of the Apes started?](https://www.fark.com/goto/13457404) ( [apnews.com](https://www.fark.com/goto/13457404) ) » [(21 comments)](https://www.fark.com/comments/13457404/-43-monkeys-escaped-from-a-South-Carolina-medical-lab-are-still-on-loose-having-a-grand-adventure-Wait-isnt-this-how-Planet-of-Apes-started) |
+| [Discussion](https://www.fark.com/discussion/) | [Not a football fan? Try hockey instead. Games start at 1:00 PM ET with the Flames and Sabres and go on all day. There are a dozen games on tap, so sit back, drink the goon juice, and enjoy](https://www.fark.com/goto/13457252) ( [espn.com](https://www.fark.com/goto/13457252) ) » [(9 comments)](https://www.fark.com/comments/13457252/Not-a-football-fan-Try-hockey-instead-Games-start-at-100-PM-ET-with-Flames-Sabres-go-on-all-day-There-are-a-dozen-games-on-tap-so-sit-back-drink-goon-juice-enjoy) |
+| [Sports](https://www.fark.com/sports/) | [Not a football fan? Try hockey instead. Games start at 1:00 PM ET with the Flames and Sabres and go on all day. There are a dozen games on tap, so sit back, drink the goon juice, and enjoy](https://www.fark.com/goto/13457252) ( [espn.com](https://www.fark.com/goto/13457252) ) » [(9 comments)](https://www.fark.com/comments/13457252/Not-a-football-fan-Try-hockey-instead-Games-start-at-100-PM-ET-with-Flames-Sabres-go-on-all-day-There-are-a-dozen-games-on-tap-so-sit-back-drink-goon-juice-enjoy) |
+| [Business](https://www.fark.com/business/) | [Only the Fed would buy securities at the height of their value as a "temporary measure", hold on them for 10 years, and still be unable to sell them at a huge loss because the stock market would tank if they so much as ANNOUNCED a sale](https://www.fark.com/goto/13457438) ( [thehill.com](https://www.fark.com/goto/13457438) ) » [(17 comments)](https://www.fark.com/comments/13457438/Only-Fed-would-buy-securities-at-height-of-their-value-as-a-temporary-measure-hold-on-them-for-10-years-still-be-unable-to-sell-them-at-a-huge-loss-because-stock-market-would-tank-if-they-so-much-as-ANNOUNCED-a-sale) |
+| [STEM](https://www.fark.com/stem/) | [Researchers can't figure out what emperor penguin was doing all the way out in Australia. But likely preparing to dissolve the parliament permanently and grant direct control over territories to regional governors](https://www.fark.com/goto/13457408) ( [smithsonianmag.com](https://www.fark.com/goto/13457408) ) » [(6 comments)](https://www.fark.com/comments/13457408/Researchers-cant-figure-out-what-emperor-penguin-was-doing-all-way-out-in-Australia-But-likely-preparing-to-dissolve-parliament-permanently-grant-direct-control-over-territories-to-regional-governors) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Today, Worcester is for the children](https://www.fark.com/goto/13457388) ( [masslive.com](https://www.fark.com/goto/13457388) ) » [(7 comments)](https://www.fark.com/comments/13457388/Today-Worcester-is-for-children) |
+| [Fandom](https://www.fark.com/fandom/) | [In other news, someone spent 105 hours trying to see virtual nudity](https://www.fark.com/goto/13457426) ( [pcgamer.com](https://www.fark.com/goto/13457426) ) » [(3 comments)](https://www.fark.com/comments/13457426/In-other-news-someone-spent-105-hours-trying-to-see-virtual-nudity) |
+| [D'awww](https://www.fark.com/dawww/) | [Paignton's pink pigeon poses potential problem, possibly produces pink poop](https://www.fark.com/goto/13457350) ( [bbc.com](https://www.fark.com/goto/13457350) ) » [(1 comment)](https://www.fark.com/comments/13457350/Paigntons-pink-pigeon-poses-potential-problem-possibly-produces-pink-poop) |
+| [Food](https://www.fark.com/food/) | [In pictures: Hospital food around the world](https://www.fark.com/goto/13457312) ( [theguardian.com](https://www.fark.com/goto/13457312) ) » [(31 comments)](https://www.fark.com/comments/13457312/In-pictures-Hospital-food-around-world) |
+| [Politics](https://www.fark.com/politics/) | [Weaponizing the DOJ is only okay when we do it](https://www.fark.com/goto/13457440) ( [nbcnews.com](https://www.fark.com/goto/13457440) ) » [(17 comments)](https://www.fark.com/comments/13457440/Weaponizing-DOJ-is-only-okay-when-we-do-it) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 09 2024 07:43:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 09 2024 13:43:41  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
