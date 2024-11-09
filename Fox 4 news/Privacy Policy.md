@@ -94,12 +94,6 @@ Search site
 
 until SAT 6:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
-2
-
-[Tornado Watch
-
-until FRI 9:00 PM CST, Navarro County, Ellis County, Kaufman County, Freestone County](https://www.fox4news.com/weather-alerts)
-
 Privacy Policy
 ==============
 
@@ -411,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Bird flu infects more farmworkers than previously known, CDC says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1244781816.jpg?ve=1&tl=1)
+ [![2 charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1)
 
- ![Bird flu infects more farmworkers than previously known, CDC says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1244781816.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cdc-guidance-bird-flu-farmworkers-2024)
+ ![2 charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
 
-### [Bird flu infects more farmworkers than previously known, CDC says](https://www.fox4news.com/news/cdc-guidance-bird-flu-farmworkers-2024)
+### [2 charged with murder for deadly Old East Dallas shooting](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
 
- [![Missing Wylie woman found safe by local resident, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110624-cb-amelia-wylie-missing-woman-9p-pkg_kdfw11_00.00.10.28.jpg?ve=1&tl=1)
+ [![Dallas weather: Rainy Friday before sunny, dry weekend](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-first-wx-drive-cam-9p_00.00.39.38.jpg?ve=1&tl=1)
 
- ![Missing Wylie woman found safe by local resident, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110624-cb-amelia-wylie-missing-woman-9p-pkg_kdfw11_00.00.10.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wylie-missing-melonie-ballenger-search)
+ ![Dallas weather: Rainy Friday before sunny, dry weekend](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-first-wx-drive-cam-9p_00.00.39.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
 
-### [Missing Wylie woman found safe by local resident, police say](https://www.fox4news.com/news/wylie-missing-melonie-ballenger-search)
+### [Dallas weather: Rainy Friday before sunny, dry weekend](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
 
- [![Dallas residents continue fighting proposed high-rise apartment tower](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/P-LORI-DALLAS-COUNCIL-PEPPER-SQUARE-530P_00.01.14.22.jpg?ve=1&tl=1)
+ [![Frisco Mountain Lion: Camera spots big cat in homeowner's backyard](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/vlcsnap-2024-11-07-19h51m20s753.png?ve=1&tl=1)
 
- ![Dallas residents continue fighting proposed high-rise apartment tower](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/P-LORI-DALLAS-COUNCIL-PEPPER-SQUARE-530P_00.01.14.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-residents-continue-fighting-proposed-high-rise-apartment-tower)
+ ![Frisco Mountain Lion: Camera spots big cat in homeowner's backyard](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/vlcsnap-2024-11-07-19h51m20s753.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-mountain-lion)
 
-### [Dallas residents continue fighting proposed high-rise apartment tower](https://www.fox4news.com/news/dallas-residents-continue-fighting-proposed-high-rise-apartment-tower)
+### [Mountain lion spotted in Frisco homeowner's backyard](https://www.fox4news.com/news/frisco-mountain-lion)
 
- [![White Settlement home invasion suspect arrested after dropping his phone while fleeing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/white-settlement-arrest.png?ve=1&tl=1)
+ [![Tony Todd reportedly dies at 69, say reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1079928326.jpg?ve=1&tl=1)
 
- ![White Settlement home invasion suspect arrested after dropping his phone while fleeing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/white-settlement-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/white-settlement-oak-timbers-apartment-robbery)
+ ![Tony Todd reportedly dies at 69, say reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1079928326.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tony-todd-candyman-star)
 
-### [White Settlement home invasion suspect arrested after dropping his phone while fleeing](https://www.fox4news.com/news/white-settlement-oak-timbers-apartment-robbery)
+### [Tony Todd reportedly dies at 69, say reports](https://www.fox4news.com/news/tony-todd-candyman-star)
 
- [![Dallas weather: Tornado Watch canceled for much of North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/465989356_601268725602252_1176825055444610545_n.jpg?ve=1&tl=1)
+ [![Student loan forgiveness: Trump's win brings uncertainty to borrowers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/student-debt-getty.jpg?ve=1&tl=1)
 
- ![Dallas weather: Tornado Watch canceled for much of North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/465989356_601268725602252_1176825055444610545_n.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
+ ![Student loan forgiveness: Trump's win brings uncertainty to borrowers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/student-debt-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/student-loan-forgiveness-trumps-win-uncertainty-borrowers)
 
-### [Dallas weather: Tornado Watch canceled for much of North Texas](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
+### [Student loan forgiveness: Trump's win brings uncertainty to borrowers](https://www.fox4news.com/news/student-loan-forgiveness-trumps-win-uncertainty-borrowers)
 
 ###### [News](https://www.fox4news.com/news)
 
