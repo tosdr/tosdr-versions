@@ -20,16 +20,16 @@ Saturday, November 9 2024
 
 Latest
 
-* [Google’s ‘Project Jarvis’ project could let AI agents take over computers](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
-* [How to Start, Stop, and Restart Services in Linux](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
-* [Here’s how often your Android TV will get updated](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
-* [Critical Veeam RCE bug now used in Frag ransomware attacks](https://digitpatrox.com/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
-* [The Beatles’ final song, restored using AI, is up for a Grammy](https://digitpatrox.com/the-beatles-final-song-restored-using-ai-is-up-for-a-grammy/)
-* [Shonen Unleashed Codes (November 2024): Are There Any?](https://digitpatrox.com/shonen-unleashed-codes-november-2024-are-there-any/)
-* [Nokia waves off IntelBroker breach claims, says leaked source code came from a third party application](https://digitpatrox.com/nokia-waves-off-intelbroker-breach-claims-says-leaked-source-code-came-from-a-third-party-application/)
-* [Mistral’s new tool automatically deletes offending content – Computerworld](https://digitpatrox.com/mistrals-new-tool-automatically-deletes-offending-content-computerworld/)
-* [How to Freeze Thanksgiving Gravy Ahead of Time](https://digitpatrox.com/how-to-freeze-thanksgiving-gravy-ahead-of-time/)
-* [How to check if Windows 10 22H2, 21H2, or older version is installed on your PC](https://digitpatrox.com/how-to-check-if-windows-10-22h2-21h2-or-older-version-is-installed-on-your-pc/)
+* [Microsoft adds Copilot AI features to some non-US M365 consumer plans – Computerworld](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
+* [Oral Decongestant Phenylephrine Will Be Pulled From Market, FDA Says](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
+* [2025 Mini Countryman SE EV First Drive Review](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
+* [Today’s NYT Connections Hints and Answer for November 8 (#516)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-8-516/)
+* [What does a data center look like in the AI era?](https://digitpatrox.com/what-does-a-data-center-look-like-in-the-ai-era/)
+* [12 Steps to Address Australia’s Skills Shortage, Australian Computer Society Reports](https://digitpatrox.com/12-steps-to-address-australias-skills-shortage-australian-computer-society-reports/)
+* [I’ve been testing Apple Intelligence — here’s 3 reasons why it’s worth upgrading to a new iPhone](https://digitpatrox.com/ive-been-testing-apple-intelligence-heres-3-reasons-why-its-worth-upgrading-to-a-new-iphone/)
+* [D-Link won’t fix critical flaw affecting 60,000 older NAS devices](https://digitpatrox.com/d-link-wont-fix-critical-flaw-affecting-60000-older-nas-devices/)
+* [YouTube Premium’s legacy price breaks are going away for more users](https://digitpatrox.com/youtube-premiums-legacy-price-breaks-are-going-away-for-more-users/)
+* [NYT Connections Today: Hints and Answers for November 9, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-9-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/K3B73FKabpxEQuCJrwgoiP-1200-80.jpg)](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601452-0-84597400-1731095897-microsoft-Copilot-ai.png?w=1024)](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
     
-    [Google’s ‘Project Jarvis’ project could let AI agents take over computers](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
+    [Microsoft adds Copilot AI features to some non-US M365 consumer plans – Computerworld](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
     
-    30 mins ago
+    8 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2022/09/TR-linux-security-wolfi.jpeg)](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
+* [![](https://lifehacker.com/imagery/articles/01HF2GZB0GBYZPMGMN1JDBQDJH/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
     
-    [How to Start, Stop, and Restart Services in Linux](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
-    
-    32 mins ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/nwv6ZGPKju9PAGAwWnittG-1200-80.jpg)](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
-    
-    [Here’s how often your Android TV will get updated](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
+    [Oral Decongestant Phenylephrine Will Be Pulled From Market, FDA Says](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
     
     36 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/08/Veeam.jpg)](https://digitpatrox.com/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730911392/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Mini-Countryman-EV-f-driving-11-24)](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
     
-    [Critical Veeam RCE bug now used in Frag ransomware attacks](https://digitpatrox.com/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
+    [2025 Mini Countryman SE EV First Drive Review](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
     
-    2 hours ago
+    47 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/0UK96KMvPUgq6Wd4GHs4H_7VbG8=/0x0:5000x3568/1200x628/filters:focal(2316x1034:2317x1035)/cdn.vox-cdn.com/uploads/chorus_asset/file/25722381/1405111904.jpg)](https://digitpatrox.com/the-beatles-final-song-restored-using-ai-is-up-for-a-grammy/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-8-516/)
     
-    [The Beatles’ final song, restored using AI, is up for a Grammy](https://digitpatrox.com/the-beatles-final-song-restored-using-ai-is-up-for-a-grammy/)
+    [Today’s NYT Connections Hints and Answer for November 8 (#516)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-8-516/)
     
-    2 hours ago
+    48 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/RVcNr8FAxg7tZd3zzQALkm-1200-80.jpg)](https://digitpatrox.com/what-does-a-data-center-look-like-in-the-ai-era/)
+    
+    [What does a data center look like in the AI era?](https://digitpatrox.com/what-does-a-data-center-look-like-in-the-ai-era/)
+    
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [30 mins ago
+* [8 mins ago
     
-    ### Google’s ‘Project Jarvis’ project could let AI agents take over computers](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
-* [32 mins ago
-    
-    ### How to Start, Stop, and Restart Services in Linux](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
+    ### Microsoft adds Copilot AI features to some non-US M365 consumer plans – Computerworld](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
 * [36 mins ago
     
-    ### Here’s how often your Android TV will get updated](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
+    ### Oral Decongestant Phenylephrine Will Be Pulled From Market, FDA Says](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
+* [47 mins ago
+    
+    ### 2025 Mini Countryman SE EV First Drive Review](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
 
 Most Popular Topics
 
-* [August 12, 2024
+* [September 20, 2024
     
-    ### Here Are the 4 Best Gaming Browsers for Windows](https://digitpatrox.com/here-are-the-4-best-gaming-browsers-for-windows/)
-* [August 17, 2024
+    ### Salesforce may have had its ‘ChatGPT moment’ with AI agents – and it will take a lot to knock the company off its perch](https://digitpatrox.com/salesforce-may-have-had-its-chatgpt-moment-with-ai-agents-and-it-will-take-a-lot-to-knock-the-company-off-its-perch/)
+* [September 27, 2024
     
-    ### The 5 Best AI CRM Software in 2024](https://digitpatrox.com/the-5-best-ai-crm-software-in-2024/)
-* [August 23, 2024
+    ### Upper Merion Township, PA notifies residents of data breach that compromised their personal info](https://digitpatrox.com/upper-merion-township-pa-notifies-residents-of-data-breach-that-compromised-their-personal-info/)
+* [October 3, 2024
     
-    ### NYT Connections Today: Hints and Answers for August 24, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-august-24-2024/)
+    ### Top 10 Highest Grossing Movies of 2024 So Far](https://digitpatrox.com/top-10-highest-grossing-movies-of-2024-so-far/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [2 hours ago
     
-    ### Nokia waves off IntelBroker breach claims, says leaked source code came from a third party application](https://digitpatrox.com/nokia-waves-off-intelbroker-breach-claims-says-leaked-source-code-came-from-a-third-party-application/)
-* [4 hours ago
+    ### I’ve been testing Apple Intelligence — here’s 3 reasons why it’s worth upgrading to a new iPhone](https://digitpatrox.com/ive-been-testing-apple-intelligence-heres-3-reasons-why-its-worth-upgrading-to-a-new-iphone/)
+* [3 hours ago
     
-    ### Mistral’s new tool automatically deletes offending content – Computerworld](https://digitpatrox.com/mistrals-new-tool-automatically-deletes-offending-content-computerworld/)
-* [5 hours ago
+    ### D-Link won’t fix critical flaw affecting 60,000 older NAS devices](https://digitpatrox.com/d-link-wont-fix-critical-flaw-affecting-60000-older-nas-devices/)
+* [3 hours ago
     
-    ### How to Freeze Thanksgiving Gravy Ahead of Time](https://digitpatrox.com/how-to-freeze-thanksgiving-gravy-ahead-of-time/)
+    ### YouTube Premium’s legacy price breaks are going away for more users](https://digitpatrox.com/youtube-premiums-legacy-price-breaks-are-going-away-for-more-users/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
