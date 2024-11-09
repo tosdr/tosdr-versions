@@ -1293,7 +1293,7 @@ Students and employees are reminded that many legal sources of content are avail
 Related Information
 
 * [Apply Now | Submit Your Application Online –...](https://myhomepage.waldenu.edu/Walden/contact-us)
-* [What Are the Duties of a School Principal?](https://www.waldenu.edu/education-specialist/eds-in-educational-leadership-and-administration/resource/what-are-the-duties-of-a-school-principal)
+* [Alumni Resources](https://www.waldenu.edu/alumni/resources)
 * [Petitions, Appeals, Grievances, and Complaints](https://academics.waldenu.edu/handbook/student-expectations/petitions-appeals)
 
 ![w background](/themes/custom/wal_base_2024/images/W.png)
