@@ -34,9 +34,9 @@ Navigation
         
         #### [Snowman's Reindeer Farm Sweepstakes 2024](https://www.wqad.com/article/news/local/contests/snowmans-reindeer-farm-sweepstakes-2024/526-85cddd24-7128-4120-9e6f-e7ffe2269100)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4197c0ea-0f5e-4277-aca4-ec927cb62210/20241109T040521/4197c0ea-0f5e-4277-aca4-ec927cb62210_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4197c0ea-0f5e-4277-aca4-ec927cb62210/20241109T040521/4197c0ea-0f5e-4277-aca4-ec927cb62210_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-car-washes-number/526-12883d13-88c5-4657-8597-4920f6083806)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/contest-rules/snowmans-reindeer-farm-sweepstakes-official-rules/526-f7006ce2-8cc7-4e96-a5eb-b9d009e848d6)
         
-        #### [Why are there so many car washes in the Quad Cities?](https://www.wqad.com/article/news/local/quad-cities-car-washes-number/526-12883d13-88c5-4657-8597-4920f6083806)
+        #### [Snowman's Reindeer Farm Sweepstakes Official Rules](https://www.wqad.com/article/news/local/contests/contest-rules/snowmans-reindeer-farm-sweepstakes-official-rules/526-f7006ce2-8cc7-4e96-a5eb-b9d009e848d6)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a5d82a27-7728-4e13-b0ed-313111bbc54d/20241108T225918/a5d82a27-7728-4e13-b0ed-313111bbc54d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a5d82a27-7728-4e13-b0ed-313111bbc54d/20241108T225918/a5d82a27-7728-4e13-b0ed-313111bbc54d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9251850a-c2b5-4e11-a8f8-1fbd3c34e158/20241109T130532/9251850a-c2b5-4e11-a8f8-1fbd3c34e158_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9251850a-c2b5-4e11-a8f8-1fbd3c34e158/20241109T130532/9251850a-c2b5-4e11-a8f8-1fbd3c34e158_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Nice Friday... Next shower chance approaching](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Chance for showers this afternoon](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_360x203.jpg)](https://www.wqad.com/article/news/regional/volunteer-poll-workers-drown-flood-washed-highway-rural-missouri-election-day/63-f88470b8-e843-4811-ae70-fa590c23c1f1)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-44°
+48°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
