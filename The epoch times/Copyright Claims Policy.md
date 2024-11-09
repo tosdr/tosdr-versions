@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://www.theepochtimes.com/us/2-women-arrested-in-colorado-ballot-scheme-tried-to-test-voting-signature-system-affidavit-5757121)
+    
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://img.theepochtimes.com/assets/uploads/2024/03/04/id5600500-20240304_160614-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-women-arrested-in-colorado-ballot-scheme-tried-to-test-voting-signature-system-affidavit-5757121)
+* [Can an Aspirin a Day Keep the Doctor Away?](https://www.theepochtimes.com/health/aspirin-remarkable-for-preventing-heart-attacks-is-not-a-supplement-for-everyone-5744493)
+    
+    2hr By [Flora Zhao](https://www.theepochtimes.com/author/flora-zhao)
+    
+    [![Can an Aspirin a Day Keep the Doctor Away?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Can an Aspirin a Day Keep the Doctor Away?](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756906-Untitled_Artwork-4-205x123.jpg.webp)](https://www.theepochtimes.com/health/aspirin-remarkable-for-preventing-heart-attacks-is-not-a-supplement-for-everyone-5744493)
+* [Costco Sales Rise Ahead of the Holiday Season](https://www.theepochtimes.com/business/costco-sales-rise-ahead-of-the-holiday-season-5757079)
+    
+    2hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    
+    [![Costco Sales Rise Ahead of the Holiday Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Costco Sales Rise Ahead of the Holiday Season](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757083-GettyImages-2161665699-205x123.jpeg.webp)](https://www.theepochtimes.com/business/costco-sales-rise-ahead-of-the-holiday-season-5757079)
+* [Biden, Trump to Meet Wednesday as Transition Stage Gets Underway](https://www.theepochtimes.com/us/biden-trump-to-meet-wednesday-as-transition-stage-gets-underway-5757111)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Biden, Trump to Meet Wednesday as Transition Stage Gets Underway](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden, Trump to Meet Wednesday as Transition Stage Gets Underway](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674527-trump-biden-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-trump-to-meet-wednesday-as-transition-stage-gets-underway-5757111)
+* [ChatGPT Rejected Over 250,000 Requests to Create Images of Presidential Candidates Before Election](https://www.theepochtimes.com/tech/chatgpt-rejected-over-250000-requests-to-create-images-of-presidential-candidates-before-election-5757047)
+    
+    3hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![ChatGPT Rejected Over 250,000 Requests to Create Images of Presidential Candidates Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![ChatGPT Rejected Over 250,000 Requests to Create Images of Presidential Candidates Before Election](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5692585-AI-205x123.jpg.webp)](https://www.theepochtimes.com/tech/chatgpt-rejected-over-250000-requests-to-create-images-of-presidential-candidates-before-election-5757047)
+* [Labor Board Tightens Limits on What Employers Can Say During Unionization Efforts](https://www.theepochtimes.com/us/labor-board-tightens-limits-on-what-employers-can-say-during-unionization-efforts-5756815)
+    
+    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Labor Board Tightens Limits on What Employers Can Say During Unionization Efforts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Labor Board Tightens Limits on What Employers Can Say During Unionization Efforts](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636506-Starbucks-Union-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/labor-board-tightens-limits-on-what-employers-can-say-during-unionization-efforts-5756815)
+* [Voters in 3 States Approve Paid Sick Leave, 2 States to Increase Minimum Wage](https://www.theepochtimes.com/business/voters-in-3-states-approve-paid-sick-leave-2-states-to-increase-minimum-wage-5756938)
+    
+    4hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Voters in 3 States Approve Paid Sick Leave, 2 States to Increase Minimum Wage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Voters in 3 States Approve Paid Sick Leave, 2 States to Increase Minimum Wage](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756468-voters-GettyImages-2183139788-205x123.jpg.webp)](https://www.theepochtimes.com/business/voters-in-3-states-approve-paid-sick-leave-2-states-to-increase-minimum-wage-5756938)
+* [DeSantis Orders Probe After FEMA Allegedly Avoided Trump Supporters’ Homes](https://www.theepochtimes.com/us/desantis-orders-probe-after-fema-allegedly-avoided-trump-supporters-homes-5757020)
+    
+    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![DeSantis Orders Probe After FEMA Allegedly Avoided Trump Supporters’ Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![DeSantis Orders Probe After FEMA Allegedly Avoided Trump Supporters’ Homes](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740560-DeSantis-AP24286622555863-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-orders-probe-after-fema-allegedly-avoided-trump-supporters-homes-5757020)
+* [Bill Ackman Seeks to Delist Companies From Amsterdam After Attack on Israelis](https://www.theepochtimes.com/business/bill-ackman-seeks-to-delist-companies-from-amsterdam-after-attack-on-israelis-5757070)
+    
+    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Bill Ackman Seeks to Delist Companies From Amsterdam After Attack on Israelis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Bill Ackman Seeks to Delist Companies From Amsterdam After Attack on Israelis](https://img.theepochtimes.com/assets/uploads/2024/04/25/id5637621-Bill-Ackman-e1650701331203-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/bill-ackman-seeks-to-delist-companies-from-amsterdam-after-attack-on-israelis-5757070)
 * [Incumbent Democrat Wins Nevada Senate Race](https://www.theepochtimes.com/us/incumbent-democrat-wins-nevada-senate-race-5753286)
     
-    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    6hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Incumbent Democrat Wins Nevada Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Incumbent Democrat Wins Nevada Senate Race](https://img.theepochtimes.com/assets/uploads/2023/04/05/id5173844-sen-jacky-rosen-205x123.jpg.webp)](https://www.theepochtimes.com/us/incumbent-democrat-wins-nevada-senate-race-5753286)
-* [US District Court Judge Blocks Illinois Ban on Certain Types of Rifles, Attachments](https://www.theepochtimes.com/us/us-district-court-judge-blocks-illinois-ban-on-certain-types-of-rifles-attachments-5756930)
-    
-    1hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
-    
-    [![US District Court Judge Blocks Illinois Ban on Certain Types of Rifles, Attachments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US District Court Judge Blocks Illinois Ban on Certain Types of Rifles, Attachments](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757094-AK-47-shop-OP-205x123.jpg)](https://www.theepochtimes.com/us/us-district-court-judge-blocks-illinois-ban-on-certain-types-of-rifles-attachments-5756930)
-* [France Grapples With ‘Mexicanized’ Narco-Enclaves](https://www.theepochtimes.com/world/france-grapples-with-mexicanized-narco-enclaves-5756026)
-    
-    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![France Grapples With ‘Mexicanized’ Narco-Enclaves](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![France Grapples With ‘Mexicanized’ Narco-Enclaves](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756763-GettyImages-184256698201-02-205x123.jpg.webp)](https://www.theepochtimes.com/world/france-grapples-with-mexicanized-narco-enclaves-5756026)
-* [Trump Could Impact the Supreme Court for Decades to Come](https://www.theepochtimes.com/article/trump-could-impact-the-supreme-court-for-decades-to-come-5756885)
-    
-    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Trump Could Impact the Supreme Court for Decades to Come](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Could Impact the Supreme Court for Decades to Come](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756970-Trump-supreme-sourt-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-could-impact-the-supreme-court-for-decades-to-come-5756885)
-* [Persecution of Falun Gong Adherents Continues as Thousands Reported Imprisoned, Tortured This Year](https://www.theepochtimes.com/falun-gong/persecution-of-falun-gong-adherents-continues-as-thousands-reported-imprisoned-tortured-this-year-5751535)
-    
-    6hr By [Sophia Lam](https://www.theepochtimes.com/author/sophia-lam)
-    
-    [![Persecution of Falun Gong Adherents Continues as Thousands Reported Imprisoned, Tortured This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Persecution of Falun Gong Adherents Continues as Thousands Reported Imprisoned, Tortured This Year](https://img.theepochtimes.com/assets/uploads/2015/09/abanner53259846-205x123.jpg.webp)](https://www.theepochtimes.com/falun-gong/persecution-of-falun-gong-adherents-continues-as-thousands-reported-imprisoned-tortured-this-year-5751535)
-* [California Metro Areas Among the Nation’s Lowest in Home Turnover Rate](https://www.theepochtimes.com/us/california-metro-areas-among-the-nations-lowest-in-home-turnover-rate-5756929)
-    
-    7hr By [Sophie Li](https://www.theepochtimes.com/author/sophie-li)
-    
-    [![California Metro Areas Among the Nation’s Lowest in Home Turnover Rate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Metro Areas Among the Nation’s Lowest in Home Turnover Rate](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732871-IrvineHomes_ForSale_JF_7_09212020-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-metro-areas-among-the-nations-lowest-in-home-turnover-rate-5756929)
-* [Trump Flips Nevada, Nears Sweep of Swing States](https://www.theepochtimes.com/us/trump-flips-nevada-nears-sweep-of-swing-states-5754080)
-    
-    9hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![Trump Flips Nevada, Nears Sweep of Swing States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Flips Nevada, Nears Sweep of Swing States](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754879-38761-LasVegas-Nevada-Jacob-Kepler-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-flips-nevada-nears-sweep-of-swing-states-5754080)
-* [‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://www.theepochtimes.com/us/its-hard-to-lose-walz-returns-home-to-minnesota-after-election-loss-5756966)
-    
-    11hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
-    
-    [![‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756982-Tim-Walz-AP24313811271321-205x123.jpg.webp)](https://www.theepochtimes.com/us/its-hard-to-lose-walz-returns-home-to-minnesota-after-election-loss-5756966)
-* [Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
-    
-    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756877-GettyImages-2182554830-205x123.jpg.webp)](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
-* [Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
-    
-    14hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
-    
-    [![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697574-GettyImages-1238839241-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
+    ![Incumbent Democrat Wins Nevada Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757095-sen-jacky-rosen-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/incumbent-democrat-wins-nevada-senate-race-5753286)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
