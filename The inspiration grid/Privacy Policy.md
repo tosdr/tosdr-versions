@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/11/ayaneo-3-reveal-cover.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
+
+[](https://theinspirationgrid.com/editorial/ayaneo-3-revealed-featuring-ai-powered-performance-and-an-oled-display/)
+
+### AYANEO 3 revealed, featuring AI-powered performance and an OLED display
+
 ![](https://inspgr.id/app/uploads/2024/11/review-skull-and-co-gripcase-feature.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Product Design](https://theinspirationgrid.com/category/product-design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/esr-qi2-3-in-1-wireless-charging-station-review-keeping-it-cool/)
 
 ### ESR Qi2 3-in-1 Wireless Charging Station Review: Keeping it Cool
-
-![](https://inspgr.id/app/uploads/2024/10/editorial-gaming-ebooks-cover.jpg)
-
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/these-ebooks-on-gaming-consoles-are-the-perfect-place-to-draw-inspiration-for-your-next-designs/)
-
-### These eBooks on gaming consoles are the perfect place to draw inspiration for your next designs
 
 #want
 -----
