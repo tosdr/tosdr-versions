@@ -1,11 +1,3 @@
-[![](https://www.gitkraken.com/wp-content/uploads/2024/08/Group-21072.png)](https://www.gitkraken.com/devexdays24)
-
-##### Now Up To 80% OFF
-
-[Sign Up To Save](https://gitkraken.dev/purchase?planType=PRO&planQuantity=1&promoCode=DEVEXDAYS24)
-
-Our Lowest Price of the Year **Sale ends soon**
-
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
 
 * [Dev Tools](# "Dev Tools")
