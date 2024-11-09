@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d680866a-45b4-48d7-b546-1e72caf1d417/20241109T013954/d680866a-45b4-48d7-b546-1e72caf1d417_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d680866a-45b4-48d7-b546-1e72caf1d417/20241109T013954/d680866a-45b4-48d7-b546-1e72caf1d417_360x203.jpg)](https://www.king5.com/article/news/local/wrong-way-dui-driver-who-killed-two-teenagers-west-seattle-bridge-sentenced/281-9969bd98-ff07-44cd-b1d7-eb3bd3ed9379)
+    *  [![](https://media.king5.com/assets/KING/images/d0d39c94-714c-4460-9c36-cb67f1adbc3e/20241109T071407/d0d39c94-714c-4460-9c36-cb67f1adbc3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0d39c94-714c-4460-9c36-cb67f1adbc3e/20241109T071407/d0d39c94-714c-4460-9c36-cb67f1adbc3e_360x203.jpg)](https://www.king5.com/article/news/local/auburn-shooting-victim-recovering-support-from-family/281-d2d24d8a-59b0-4a86-b805-594ee4482401)
         
-        #### [Wrong-way DUI driver who killed two teenagers on West Seattle Bridge learns punishment](https://www.king5.com/article/news/local/wrong-way-dui-driver-who-killed-two-teenagers-west-seattle-bridge-sentenced/281-9969bd98-ff07-44cd-b1d7-eb3bd3ed9379)
+        #### [Auburn shooting victim recovering with support from his family](https://www.king5.com/article/news/local/auburn-shooting-victim-recovering-support-from-family/281-d2d24d8a-59b0-4a86-b805-594ee4482401)
         
     *  [![](https://media.king5.com/assets/KING/images/bf145382-5e61-45b4-9c4c-b084ed87611d/20241108T222707/bf145382-5e61-45b4-9c4c-b084ed87611d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf145382-5e61-45b4-9c4c-b084ed87611d/20241108T222707/bf145382-5e61-45b4-9c4c-b084ed87611d_360x203.jpg)](https://www.king5.com/article/news/local/stabbing-seattle-chinatown-international-district/281-4e59b882-86bd-4d7a-bfdb-5cfc05801d90)
         
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1ef02f69-f337-4c1f-ba32-4adc32fc7c08/20241109T014254/1ef02f69-f337-4c1f-ba32-4adc32fc7c08_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1ef02f69-f337-4c1f-ba32-4adc32fc7c08/20241109T014254/1ef02f69-f337-4c1f-ba32-4adc32fc7c08_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
         #### [Timeline: Here's when 3 systems of rain will move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
+        
+    *  [![](https://media.king5.com/assets/KING/images/1ef02f69-f337-4c1f-ba32-4adc32fc7c08/20241109T014254/1ef02f69-f337-4c1f-ba32-4adc32fc7c08_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1ef02f69-f337-4c1f-ba32-4adc32fc7c08/20241109T014254/1ef02f69-f337-4c1f-ba32-4adc32fc7c08_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-58°
+53°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
