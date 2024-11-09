@@ -33,7 +33,6 @@
     * [NitroChat](https://www.nitrokey.com/products/nitrochat)
     * [Nitrokey Business Subscription](https://www.nitrokey.com/products/business-subscription)
     * [Nitrokey Business Fulfillment](https://www.nitrokey.com/products/business-fulfillment)
-    * [NitroShred](https://shop.nitrokey.com/shop/product/nitroshred-data-media-destruction-on-demand-106)
     * [Android FIDO2 SDK](https://www.nitrokey.com/products/android-fido2-sdk)
 * Solutions
     * [Success Stories](https://www.nitrokey.com/solutions/success-stories)
