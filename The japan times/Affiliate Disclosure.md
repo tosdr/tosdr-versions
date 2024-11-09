@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 09, 2024](https://www.japantimes.co.jp/archive/2024/11/09/ "archive page")
+[November 10, 2024](https://www.japantimes.co.jp/archive/2024/11/10/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -255,23 +255,23 @@ Latest News
 
 [Musk believes in global warming. Trump doesn’t. Will that change?](https://www.japantimes.co.jp/news/2024/11/09/world/musk-trump-climate-sway/ "Musk believes in global warming. Trump doesn’t. Will that change?")
 
-2 hours ago
+8 hours ago
 
 [Komeito picks land minster Tetsuo Saito as new party leader](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/komeito-picks-new-leader-saito/ "Komeito picks land minster Tetsuo Saito as new party leader")
 
-2 hours ago
+9 hours ago
 
 [The long global trail of resentment behind Trump’s resurrection](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-resentment-resurrection/ "The long global trail of resentment behind Trump’s resurrection")
 
-3 hours ago
+9 hours ago
 
 [Smile, flatter and barter: How the world is prepping for Trump part II](https://www.japantimes.co.jp/news/2024/11/09/world/politics/world-prepares-for-trump/ "Smile, flatter and barter: How the world is prepping for Trump part II")
 
-3 hours ago
+9 hours ago
 
 [Trump weighs key personnel choices, schooled by his first-term experience](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-cabinet-posts-selections/ "Trump weighs key personnel choices, schooled by his first-term experience")
 
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
