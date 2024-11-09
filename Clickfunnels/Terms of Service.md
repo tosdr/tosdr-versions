@@ -641,6 +641,8 @@ PRODUCT
 
 [Smart Checkout](https://www.clickfunnels.com/features/smart-checkout)
 
+[Add to Cart](https://www.clickfunnels.com/features/add-to-cart)
+
 [Sales Pipelines](https://www.clickfunnels.com/features/sales-pipelines)
 
   
