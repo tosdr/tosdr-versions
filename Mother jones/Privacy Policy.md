@@ -235,7 +235,7 @@ By signing up, you agree to our [privacy policy](https://www.motherjones.com/abo
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply. Privacy Manager
 
-Copyright © 2024 Mother Jones and the Foundation for National Progress. All Rights Reserved.
+Copyright © 2024 Mother Jones and the Center for Investigative Reporting. All Rights Reserved.
 
 * [Terms of Service](https://www.motherjones.com/about/terms/)
 * [Privacy Policy](https://www.motherjones.com/about/privacy-policy/)
