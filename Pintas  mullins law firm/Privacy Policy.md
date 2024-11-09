@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How can i recover damages for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-can-i-recover-damages-for-mesothelioma.jpg "How Can I Recover Damages for Mesothelioma?")](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/ "How Can I Recover Damages for Mesothelioma?")
+[![What is mesothelioma cancer caused by?](https://www.pintas.com/wp-content/uploads/2020/09/illinois-mesothelioma-lawyer.jpg "What Is Mesothelioma Cancer Caused By?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-causes-mesothelioma "What Is Mesothelioma Cancer Caused By?")
 
-[#### How Can I Recover Damages for Mesothelioma?](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/)
+[#### What Is Mesothelioma Cancer Caused By?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-causes-mesothelioma)
 
-[![Lawyers address assisted living abuse cases](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases-300x131.jpg "Lawyers Address Assisted Living Abuse Cases")](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/ "Lawyers Address Assisted Living Abuse Cases")
+[![Who qualifies for a sexual abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-scaled-e1681853603360-300x230.jpg "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/ "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")
 
-[#### Lawyers Address Assisted Living Abuse Cases](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/)
+[#### Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/)
 
-[![What are the four stages of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-four-stages-of-lung-cancer.jpg "What Are the Four Stages of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/stages "What Are the Four Stages of Lung Cancer?")
+[![Is there a cure for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-mesothelioma-lawyer-is-there-a-cure-for-mesothelioma.jpg "Is There a Cure for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/ "Is There a Cure for Mesothelioma?")
 
-[#### What Are the Four Stages of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/stages)
+[#### Is There a Cure for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
