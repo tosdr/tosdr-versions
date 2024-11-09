@@ -98,7 +98,7 @@ from SAT 12:00 PM CST until SUN 9:00 AM CST, Comanche County](https://www.fox4ne
 
 [River Flood Warning
 
-until SAT 6:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until SUN 7:30 AM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
