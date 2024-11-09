@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Johan Botha - Brand Xplosion
+Henry Venter
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=129285872)  
-CLEVER STUDENTS
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=154892029)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=9255586)  
-Tiny Cuddles Photography
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=155689293)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=129496765)  
-Lemba Truck Stop
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=157635849)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=69717523)  
-Westside Car Audio CC
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=2237048)  
+Electro-Heat
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=147643306)  
-VerdanTech Pty Ltd
-
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=100166907)  
-AFS Electrical
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=92955122)  
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=86232586)  
 AMS Ambu Medical Supplies
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=97461151)  
-Oukraal Merino's
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=86674344)  
+Calonet
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=131316407)  
-Depot Diesel (Pty) Ltd
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=119519220)  
+Lily Fern & Co
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=117835497)  
-FX ACCOUNTING
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=79352788)  
+Vplay Grafix
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=44732201)  
-United Paintball Federation
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=11970758)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=80198667)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=181123314)  
+IYD
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=118441668)  
-Little Nutty Professors
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=75870787)  
+SafeTclip
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=183157750)  
-Goju-Ryu Pretoria East
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=188916502)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=53280565)  
-Moving Made Easy (PTY) Ltd
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=13692610)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=52924097)  
+Redlum Group (Pty) Ltd
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=10289202)  
+Immediate Health (pty)ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
