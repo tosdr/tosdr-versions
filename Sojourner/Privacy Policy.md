@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-98a0f76fe66af8aae47a1ad85eff32d1
+5a0f349dc3130f670c2e8044da8a5003
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm gold-plate flat-faced diamond bead](https://www.sojourner.biz/images/cache/metalbeads/MET012.200.jpg)](https://www.sojourner.biz/beads/metal/4-mm-gold-plate-flat-faced-diamond-bead.html "4 mm gold-plate flat-faced diamond bead")
+[![Coral floral clasp](https://www.sojourner.biz/images/cache/SKU0096variations.200.jpg)](https://www.sojourner.biz/clasps/glass/coral-floral-clasp.html "Coral floral clasp")
 
-#### [4 mm gold-plate flat-faced diamond bead](https://www.sojourner.biz/beads/metal/4-mm-gold-plate-flat-faced-diamond-bead.html "4 mm gold-plate flat-faced diamond bead")
+#### [Coral floral clasp](https://www.sojourner.biz/clasps/glass/coral-floral-clasp.html "Coral floral clasp")
 
-$7.50
+$24.50
 
 ### Best Sellers
 
