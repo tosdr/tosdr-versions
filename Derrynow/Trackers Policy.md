@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-08 Nov 2024
+09 Nov 2024
 
 * [Home
     
@@ -259,6 +259,15 @@ Advertise with Us
 
 Most Popular
 
+[![Derry man sadly dies while on holiday in Thailand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man sadly dies while on holiday in Thailand")](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
+
+The late Philip Howell.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man sadly dies while on holiday in Thailand](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Police investigating possible arson attack at Derry bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack at Derry bar")](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
 
 A police cordon at the Don Bar in Derry.
@@ -268,14 +277,12 @@ A police cordon at the Don Bar in Derry.
 [Police investigating possible arson attack at Derry bar](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry secondary school spent over £10 million on temporary teachers over the last five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry secondary school spent over £10 million on temporary teachers over the last five years")](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
+[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
 
-Principal of Lisneal College, Michael Allen on the right
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry secondary schools spent over £10 million on temporary teachers over the last five years](https://www.derrynow.com/news/derry-news/1649769/derry-secondary-school-spent-over-10-million-on-temporary-teachers-over-the-last-five-years.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Who are the guests on tonight's Graham Norton Show on BBC? Here's the sofa line-up](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
 
@@ -283,6 +290,15 @@ Principal of Lisneal College, Michael Allen on the right
 
 [Derry Death Notices - Friday, November 8, 2024](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
+
+Flares lighting up Derry's Craigavon Bridge
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with serious domestic abuse offences breached bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with serious domestic abuse offences breached bail")](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
 
@@ -321,25 +337,18 @@ Photo: Sportsfile
 [Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Graham Norton Show on BBC? Here's the sofa line-up](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Memoriam - John McCready - 10th Anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road")](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre")](https://www.derrynow.com/story-telling/pictures---videos/1651090/in-pictures-gemx-interative-roadshow-visits-claudy-s-diamond-centre.html)
 
@@ -403,15 +412,6 @@ Multimedia
 
 [IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home](https://www.derrynow.com/story-telling/pictures---videos/1646905/in-pictures-craft-fair-coffee-morning-held-in-the-ymca-drumahoe-in-aid-of-ardlough-care-home.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport")](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
-
-Steve Frazer, City of Derry airport managing director
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[History made as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/video/derry-news/1647931/history-made-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,7 +513,25 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Blueprint for women’s safety presented to councillors following spate of Derry attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Blueprint for women’s safety presented to councillors following spate of Derry attacks")](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
+[![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
+
+Flares lighting up Derry's Craigavon Bridge
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man sadly dies while on holiday in Thailand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man sadly dies while on holiday in Thailand")](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
+
+The late Philip Howell.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man sadly dies while on holiday in Thailand](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Derry_attacks-1731080874772.jpg--.jpg?1731080874798 "Blueprint for women’s safety presented to councillors following spate of Derry attacks")](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
 
 Officers from the PSNI’s Local Neighbourhood Policing Teams at the Top of the Hill Park area in Derry where a woman was attacked by a male with a knife (Liam McBurney/PA)
 
@@ -522,7 +540,7 @@ Officers from the PSNI’s Local Neighbourhood Policing Teams at the Top of the 
 [Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Memoriam - John McCready - 10th Anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
+[![Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Screenshot_%28200%29-1731083612759.png--.png?1731083612803 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
@@ -544,20 +562,6 @@ The Little Superstars Service offers support for kids aged between five and 17.
 
 [McMonagle sentenced for series of child sex offences involving police decoys](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](https://www.derrynow.com/resizer/165/93/true/2017/06/09162530/lead4.jpg--.jpg "Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures")](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/resizer/165/93/true/2022_06_29/291400608_10161855835668642_3936822862194938760_n-1656506090982.jpg--.jpg?1656506091043 "Family of Derry woman killed by army denied identity of soldier who shot their mother")](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
