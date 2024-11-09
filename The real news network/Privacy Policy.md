@@ -78,11 +78,11 @@ Trending Posts
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
+* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
-* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
+* [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 
 Close
 
@@ -142,11 +142,11 @@ Trending Posts
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
+* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
-* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
+* [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 
 [Skip to content](#main)
 
