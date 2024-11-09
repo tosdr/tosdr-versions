@@ -165,31 +165,93 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Mutational Buildup Indicates Living Populations Are Young
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/voice-from-heaven)
+[![](/i/wide/mutation_clock_wide.jpg)](https://www.icr.org/article/human-mutation-clock-ticking)
 
-[A Voice from Heaven](https://www.icr.org/article/voice-from-heaven/)
+[The Human Mutation Clock Is Ticking](https://www.icr.org/article/human-mutation-clock-ticking/)
 
-“And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of...
+With more samples of human genomes now available, researchers are able to find solutions to questions that just a few years ago they could only dream of...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/by-his-spirit)
+[![](/i/wide/more_mutations_wide.jpg)](https://www.icr.org/article/mutations-mean-more-diseases-less-evolution)
 
-[By His Spirit](https://www.icr.org/article/by-his-spirit/)
+[More Mutations Mean More Diseases, Less Evolution](https://www.icr.org/article/mutations-mean-more-diseases-less-evolution/)
 
-“Not by might, nor by power, but by my spirit, saith the LORD of hosts.” (Zechariah 4:6) All the works men undertake that glorify...
+The science of genetics continues to refute the notion that humans evolve by natural selection of beneficial mutations. One recent study used next-generation...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/called-before-birth)
+[![](/i/wide/poliovirus_wide.jpg)](https://www.icr.org/article/silent-mutations-cripple-viruses)
 
-[Called Before Birth](https://www.icr.org/article/called-before-birth/)
+[Silent Mutations Cripple Viruses](https://www.icr.org/article/silent-mutations-cripple-viruses/)
 
-“But when it pleased God, who separated me from my mother’s womb, and called me by his grace, To reveal his Son in me, that I might preach...
+New vaccines are being developed that promise to be safer than traditional vaccines, which work by exposing patients to less virulent versions of viruses.1...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/AnotherLivingFossil_1400x1050)](https://www.icr.org/article/yet-another-living-fossil-found)
+
+[Yet Another Living Fossil Found](https://www.icr.org/article/yet-another-living-fossil-found/)
+
+Evolutionary philosophy states the fossil record is a record of the gradual and slow evolution of life forms that all came from a single common ancestor...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/bigbangunravel_1400x1050.jpg)](https://www.icr.org/article/big-bang-unraveling)
+
+[New York Times Editorial: Big Bang Unraveling?](https://www.icr.org/article/big-bang-unraveling/)
+
+Two physicists have suggested in a recent New York Times guest editorial that Big Bang cosmology ‘may be starting to unravel.’1...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/electric-fish-1400x1050)](https://www.icr.org/article/electric-fish-shocking)
+
+[A Shocking Case for Creation](https://www.icr.org/article/electric-fish-shocking/)
+
+Scientific investigation and research continue to reveal the Hand of the Creator. In this case, it is the remarkable electric fish (ray-finned fish, or...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+
+$2.99
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+
+Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+
+$4.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
