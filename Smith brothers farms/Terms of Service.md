@@ -188,9 +188,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (57)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (64)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (33)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (37)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (24)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -218,12 +218,12 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (74)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (75)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
         * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
             
-        * [Traditional Yogurt (20)](https://www.smithbrothersfarms.com/traditional)
+        * [Traditional Yogurt (21)](https://www.smithbrothersfarms.com/traditional)
             
         
     * [Eggs & Butter (10)](https://www.smithbrothersfarms.com/eggs-butter)
@@ -284,14 +284,14 @@ Hi
         * [Cookies (4)](https://www.smithbrothersfarms.com/cookie)
             
         
-    * [Meat (47)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (53)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (13)](https://www.smithbrothersfarms.com/poultry)
             
         * [Bacon & Breakfast Meat (14)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
-        * [Sausage, Dogs & Brats (3)](https://www.smithbrothersfarms.com/bacon-and-sausage)
+        * [Sausage, Dogs & Brats (9)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
@@ -305,7 +305,7 @@ Hi
             
         * [Dips & Spreads (3)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
-        * [Pizza & Pasta (13)](https://www.smithbrothersfarms.com/pasta)
+        * [Pizza & Pasta (12)](https://www.smithbrothersfarms.com/pasta)
             
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
