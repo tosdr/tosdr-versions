@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1242296709-1-1-1200x630.jpg)](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-langford-1200x630.jpg)](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
 
-(Photo by Paul Hennessy/SOPA Images/LightRocket via Getty Images)
+[Tulane women’s basketball head coach wore Kamala shirt to kick off season, team loses](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
 
-[Ron DeSantis floats one of Florida’s ‘greats’ for HHS secretary under Trump](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-meg-whoopi-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/06/SG-Lloyd-Austin-1200x630.jpg)](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
+[Meghan McCain slams ‘The View’ over lack of conservative voices: ‘Radical progressive insane asylum’](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
 
-[Def Sec Austin memo to troops urges ‘calm, orderly’ transition after Trump win](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cnn-discussion-3-1200x630.jpg)](https://americanwirenews.com/top-hillary-aide-says-democratic-party-being-held-hostage-to-the-far-left/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hope-walz-1200x630.jpg)](https://americanwirenews.com/tim-walzs-daughter-sounds-off-says-country-does-not-deserve-kamala/)
+[Top Hillary aide says Democratic Party ‘being held hostage to the far left’](https://americanwirenews.com/top-hillary-aide-says-democratic-party-being-held-hostage-to-the-far-left/)
 
-[Tim Walz’s daughter sounds off, says country ‘does not deserve Kamala’](https://americanwirenews.com/tim-walzs-daughter-sounds-off-says-country-does-not-deserve-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-they-them-1200x630.jpg)](https://americanwirenews.com/how-trumps-11th-hour-they-them-ad-helped-clinch-his-victory/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-phil-murphy-1200x630.jpg)](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
+[How Trump’s 11th hour ‘they/them’ ad helped clinch his victory](https://americanwirenews.com/how-trumps-11th-hour-they-them-ad-helped-clinch-his-victory/)
 
-[NJ Gov. Phil Murphy meets with team to ‘war game’ 2nd Trump term: ‘We’ll fight to the death’](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gascon-hochman-1200x630.jpg)](https://americanwirenews.com/la-prosecutors-embrace-new-era-amid-gascon-defeat-crime-is-illegal-again/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mucci-cnbc-1200x630.jpg)](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
+[LA prosecutors embrace new era amid Gascón defeat: ‘Crime is illegal again’](https://americanwirenews.com/la-prosecutors-embrace-new-era-amid-gascon-defeat-crime-is-illegal-again/)
 
-[‘Squawk Box’ host humiliates Scaramucci over how wrong he was on Trump](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obamabro-1200-x-628-1200x630.jpg)](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marie-gluesenkamp-perez-1200x630.jpg)](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
+[‘Obama bro’ podcast host claims Biden campaign’s internal polling showed Trump earning 400 electoral votes](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
 
-[House Dem unimpressed in meeting Kamala Harris: ‘There was kind of an eye roll’](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michaelson-singleton-1200x630.jpg)](https://americanwirenews.com/im-not-going-to-listen-to-transphobia-at-this-table-cnn-panel-explodes-over-a-perceived-slur/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Wallace-1200x630.jpg)](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
+[‘I’m not going to listen to transphobia at this table!’ CNN panel explodes over a perceived ‘slur’](https://americanwirenews.com/im-not-going-to-listen-to-transphobia-at-this-table-cnn-panel-explodes-over-a-perceived-slur/)
 
-[Nicolle Wallace: ‘As a human, I deleted Twitter as an act of self-preservation’](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fox-news-trump-win-1200x630.jpg)](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-reid-1200x630.jpg)](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
+[Fox News dominated election night coverage: ‘Averaged a whopping 10.3 million total viewers’](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
 
-[Queen Race-baiter Joy Reid shames Hispanic men who voted for Trump](https://americanwirenews.com/queen-race-baiter-joy-reid-shames-hispanic-men-who-voted-for-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-trump-sg-jack-smith-1200x630.jpg)
-
-### Wins keep coming: Jack Smith moving to halt Trump prosecution, asks judge to vacate all deadlines](https://americanwirenews.com/wins-keep-coming-jack-smith-to-halt-prosecution-of-trump-asks-judge-to-vacate-all-deadlines/)
+### FEMA official given the boot after directing relief workers to ‘avoid homes advertising Trump’](https://americanwirenews.com/fema-official-given-the-boot-after-directing-relief-workers-to-avoid-homes-advertising-trump/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -80,15 +78,39 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obeidallah-220x180.jpg)](https://americanwirenews.com/resistance-radio-host-becomes-an-election-denier-after-questioning-trumps-2024-win/)
+
+[Resistance radio host becomes an ‘election denier’ after questioning Trump’s 2024 win](https://americanwirenews.com/resistance-radio-host-becomes-an-election-denier-after-questioning-trumps-2024-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-call-her-daddy-set-220x180.jpg)](https://americanwirenews.com/harris-camp-reportedly-dumped-six-figures-into-set-for-podcast-episode-that-got-under-1m-views/)
+
+[Harris camp reportedly dumped six figures into set for podcast episode that got under 1M views](https://americanwirenews.com/harris-camp-reportedly-dumped-six-figures-into-set-for-podcast-episode-that-got-under-1m-views/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jack-smith-220x180.jpg)](https://americanwirenews.com/house-gop-could-out-jack-smiths-team-of-partisan-prosecutors-everything-is-on-the-table/)
+
+[House GOP could out Jack Smith’s team of partisan prosecutors: ‘Everything is on the table’](https://americanwirenews.com/house-gop-could-out-jack-smiths-team-of-partisan-prosecutors-everything-is-on-the-table/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cuban-220x180.jpg)](https://americanwirenews.com/harris-surrogate-mark-cuban-already-whining-about-trump-hurting-the-economy/)
+
+[Harris surrogate Mark Cuban already whining about Trump hurting the economy](https://americanwirenews.com/harris-surrogate-mark-cuban-already-whining-about-trump-hurting-the-economy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-whoopi-pxby-pig-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/grocers-clap-back-after-being-labeled-as-pigs-by-whoopi/)
+
+[Grocers clap back after being labeled as ‘pigs’ by Whoopi](https://americanwirenews.com/grocers-clap-back-after-being-labeled-as-pigs-by-whoopi/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mike-rogers-220x180.jpg)](https://americanwirenews.com/rep-mike-rogers-reportedly-among-names-being-considered-for-defense-secretary-hes-a-swamp-rat/)
+
+[Rep. Mike Rogers reportedly among names being considered for Defense Secretary: ‘He’s a swamp rat’](https://americanwirenews.com/rep-mike-rogers-reportedly-among-names-being-considered-for-defense-secretary-hes-a-swamp-rat/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-garland-biden-220x180.jpg)](https://americanwirenews.com/biden-admin-facing-pressure-to-respond-after-charges-filed-in-iranian-plot-to-assassinate-trump/)
 
 [Biden admin facing pressure to respond after charges filed in Iranian plot to assassinate Trump](https://americanwirenews.com/biden-admin-facing-pressure-to-respond-after-charges-filed-in-iranian-plot-to-assassinate-trump/)
 
 (Official White House Photo by Adam Schultz)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-bacon-victory-220x180.jpg)](https://americanwirenews.com/gop-rep-bacon-squeaks-out-narrow-win-in-nevada-as-republicans-inch-closer-to-house-majority/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-bacon-victory-220x180.jpg)](https://americanwirenews.com/gop-rep-bacon-squeaks-out-narrow-win-in-nebraska-as-republicans-inch-closer-to-house-majority/)
 
-[GOP Rep. Bacon squeaks out narrow win in Nevada as Republicans inch closer to House majority](https://americanwirenews.com/gop-rep-bacon-squeaks-out-narrow-win-in-nevada-as-republicans-inch-closer-to-house-majority/)
+[GOP Rep. Bacon squeaks out narrow win in Nebraska as Republicans inch closer to House majority](https://americanwirenews.com/gop-rep-bacon-squeaks-out-narrow-win-in-nebraska-as-republicans-inch-closer-to-house-majority/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-nancy-split1-1200-x-628-220x180.jpg)](https://americanwirenews.com/nancy-pelosi-blames-joe-biden-for-loss-after-leading-coup-against-him/)
 
@@ -97,6 +119,40 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fettermanrogan1-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-scorched-after-profanely-lashing-out-at-his-own-states-voters/)
 
 [Fetterman scorched after profanely lashing out at his own state’s voters](https://americanwirenews.com/fetterman-scorched-after-profanely-lashing-out-at-his-own-states-voters/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-phil-murphy-220x180.jpg)](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
+
+[NJ Gov. Phil Murphy meets with team to ‘war game’ 2nd Trump term: ‘We’ll fight to the death’](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-trump-sg-jack-smith-220x180.jpg)](https://americanwirenews.com/wins-keep-coming-jack-smith-to-halt-prosecution-of-trump-asks-judge-to-vacate-all-deadlines/)
+
+[Wins keep coming: Jack Smith moving to halt Trump prosecution, asks judge to vacate all deadlines](https://americanwirenews.com/wins-keep-coming-jack-smith-to-halt-prosecution-of-trump-asks-judge-to-vacate-all-deadlines/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marie-gluesenkamp-perez-220x180.jpg)](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
+
+[House Dem unimpressed in meeting Kamala Harris: ‘There was kind of an eye roll’](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1242296709-1-1-220x180.jpg)](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
+
+[Ron DeSantis floats one of Florida’s ‘greats’ for HHS secretary under Trump](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
+
+(Photo by Paul Hennessy/SOPA Images/LightRocket via Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mucci-cnbc-220x180.jpg)](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
+
+[‘Squawk Box’ host humiliates Scaramucci over how wrong he was on Trump](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hope-walz-220x180.jpg)](https://americanwirenews.com/tim-walzs-daughter-sounds-off-says-country-does-not-deserve-kamala/)
+
+[Tim Walz’s daughter sounds off, says country ‘does not deserve Kamala’](https://americanwirenews.com/tim-walzs-daughter-sounds-off-says-country-does-not-deserve-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Wallace-220x180.jpg)](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
+
+[Nicolle Wallace: ‘As a human, I deleted Twitter as an act of self-preservation’](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/06/SG-Lloyd-Austin-220x180.jpg)](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
+
+[Def Sec Austin memo to troops urges ‘calm, orderly’ transition after Trump win](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-research-220x180.png)](https://americanwirenews.com/residents-on-alert-after-dozens-of-test-monkeys-escape-research-facility/)
 
@@ -121,64 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-skims-220x180.jpg)](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
 
 [Kim Kardashian slammed for ‘out of touch’ holiday SKIMS campaign: ‘Incredibly insensitive’](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tappergarcia-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnns-tapper-shames-kamalas-hispanic-campaign-co-chair-how-did-you-personally-get-it-so-wrong/)
-
-[CNN’s Tapper shames Kamala’s Hispanic campaign co-chair: ‘How did you personally get it so wrong?’](https://americanwirenews.com/cnns-tapper-shames-kamalas-hispanic-campaign-co-chair-how-did-you-personally-get-it-so-wrong/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-art-of-the-surge-220x180.png)](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
-
-[Behind scenes footage shows how Trump creates his own social media posts: ‘He really is just built different’](https://americanwirenews.com/behind-scenes-footage-shows-how-trump-creates-his-own-social-media-posts-he-really-is-just-built-different/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cohen-turkey-220x180.jpg)](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
-
-[‘I’m dying’: Michael Cohen trolled with turkey head while trying to talk smack on livestream](https://americanwirenews.com/im-dying-michael-cohen-trolled-with-turkey-head-while-trying-to-talk-smack-on-livestream/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-checks-cnn-panel-220x180.jpg)](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
-
-[‘With all due respect, I’ve run more campaigns than you’: Jennings takes on entire clueless smug CNN panel](https://americanwirenews.com/with-all-due-respect-ive-run-more-campaigns-than-you-jennings-takes-on-entire-clueless-smug-cnn-panel/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-church-220x180.png)](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
-
-[Left floats a Supreme Court Justice Kamala Harris before Biden leaves office](https://americanwirenews.com/left-floats-a-supreme-court-justice-kamala-harris-before-biden-leaves-office/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/pxbay-butter-sg-mjoe-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
-
-[Miraculous: ‘Morning’ Joe can suddenly sympathize with the plight of MAGA Americans](https://americanwirenews.com/miraculous-morning-joe-can-suddenly-sympathize-with-the-plight-of-maga-americans/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-susietrump-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
-
-[BOSS MOVE right out of the gate: ‘Misogynist’ Trump names historic first woman as WH chief of staff](https://americanwirenews.com/boss-move-right-out-of-the-gate-misogynist-trump-names-historic-first-woman-as-wh-chief-of-staff/)
-
-Getty Image
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mike-davis-220x180.png)](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
-
-[Trump lawyer puts Letitia James on notice, halt lawfare or ‘we will put your fat \*ss in prison’](https://americanwirenews.com/trump-lawyer-puts-letitia-james-on-notice-halt-lawfare-or-we-will-put-your-fat-ss-in-prison/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bobwoodward-1200-x-628-220x180.jpg)](https://americanwirenews.com/watergate-cadaver-bob-woodward-looks-to-reboot-russiagate-hoax-with-trump-putin-blackmail-claim/)
-
-[Watergate cadaver Bob Woodward looks to reboot Russiagate hoax with Trump-Putin blackmail claim](https://americanwirenews.com/watergate-cadaver-bob-woodward-looks-to-reboot-russiagate-hoax-with-trump-putin-blackmail-claim/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-flag-ban-dance-220x180.jpg)](https://americanwirenews.com/whos-your-daddy-florida-man-who-defied-trump-flag-ban-celebrates-his-epic-upgrade/)
-
-[‘Who’s your daddy?’ Florida man who defied Trump flag ban celebrates his ‘EPIC’ upgrade](https://americanwirenews.com/whos-your-daddy-florida-man-who-defied-trump-flag-ban-celebrates-his-epic-upgrade/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/cnn-roginsky-220x180.jpg)](https://americanwirenews.com/dem-strategist-torches-her-own-party-for-being-out-of-touch-thats-not-how-normal-people-think/)
-
-[Dem strategist TORCHES her own party for being out-of-touch: ‘That’s not how normal people think’](https://americanwirenews.com/dem-strategist-torches-her-own-party-for-being-out-of-touch-thats-not-how-normal-people-think/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-220x180.jpg)](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
-
-[Insult to injury: Walz even lost his home county to Trump](https://americanwirenews.com/insult-to-injury-walz-even-lost-his-home-county-to-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rick-wilson-220x180.jpg)](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
-
-[‘You were wrong on everything!’ Never-Trumper Rick Wilson ‘wrecked’ over arrogant Election Day prediction](https://americanwirenews.com/you-were-wrong-on-everything-never-trumper-rick-wilson-wrecked-over-arrogant-election-day-prediction/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-4b-feminists-220x180.jpg)](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
-
-[Lefty chicks launch sex-strike ‘movement’ over Trump win, accidentally solve abortion issue](https://americanwirenews.com/lefty-chicks-launch-sex-strike-movement-over-trump-win-accidentally-solve-abortion-issue/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
