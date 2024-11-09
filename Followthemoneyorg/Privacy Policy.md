@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![SF Giants](/assets/Images/teasers/small/Giants.png)](https://www.followthemoney.org/research/blog/giants-give-royally/)
-
-$3M from San Francisco Giants, 2000-13.
+[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
