@@ -262,6 +262,6 @@ You are here:
 [Back to Top](#page)
 
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.amplifiedit.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Share on Facebook")
-* [](https://twitter.com/intent/tweet?text=Privacy%20Policy&url=https%3A%2F%2Fwww.amplifiedit.com%2Fprivacy-policy%2F "Share on Twitter")
+* [](https://x.com/intent/tweet?text=Privacy%20Policy&url=https%3A%2F%2Fwww.amplifiedit.com%2Fprivacy-policy%2F "Share on X")
 * [](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.amplifiedit.com%2Fprivacy-policy%2F&title=Privacy%20Policy&summary=&mini=true "Share on LinkedIn")
-* [](mailto:?subject=https%3A%2F%2Fwww.amplifiedit.com%2Fprivacy-policy%2F&body=Privacy%20Policy "Send over email")
+* [](mailto:?subject=Privacy%20Policy&body=https%3A%2F%2Fwww.amplifiedit.com%2Fprivacy-policy%2F "Send over email")
