@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d0d39c94-714c-4460-9c36-cb67f1adbc3e/20241109T071407/d0d39c94-714c-4460-9c36-cb67f1adbc3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0d39c94-714c-4460-9c36-cb67f1adbc3e/20241109T071407/d0d39c94-714c-4460-9c36-cb67f1adbc3e_360x203.jpg)](https://www.king5.com/article/news/local/auburn-shooting-victim-recovering-support-from-family/281-d2d24d8a-59b0-4a86-b805-594ee4482401)
+    *  [![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
         
-        #### [Auburn shooting victim recovering with support from his family](https://www.king5.com/article/news/local/auburn-shooting-victim-recovering-support-from-family/281-d2d24d8a-59b0-4a86-b805-594ee4482401)
+        #### [Everett police investigating after car strikes 5 bystanders, killing 3](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
         
-    *  [![](https://media.king5.com/assets/KING/images/bf145382-5e61-45b4-9c4c-b084ed87611d/20241108T222707/bf145382-5e61-45b4-9c4c-b084ed87611d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf145382-5e61-45b4-9c4c-b084ed87611d/20241108T222707/bf145382-5e61-45b4-9c4c-b084ed87611d_360x203.jpg)](https://www.king5.com/article/news/local/stabbing-seattle-chinatown-international-district/281-4e59b882-86bd-4d7a-bfdb-5cfc05801d90)
+    *  [![](https://media.king5.com/assets/KING/images/ec1cab6d-f6e0-41b0-991b-537ab19a0cc1/20241028T144051/ec1cab6d-f6e0-41b0-991b-537ab19a0cc1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ec1cab6d-f6e0-41b0-991b-537ab19a0cc1/20241028T144051/ec1cab6d-f6e0-41b0-991b-537ab19a0cc1_360x203.jpg)](https://www.king5.com/article/news/local/american-heart-association-washington-donating-healthy-culturally-diverse-foods-drives-crucial/281-2be5ca13-6ee4-444c-afe0-4f369fa6f147)
         
-        #### [5 people stabbed in Seattle's Chinatown-International District; suspect arrested](https://www.king5.com/article/news/local/stabbing-seattle-chinatown-international-district/281-4e59b882-86bd-4d7a-bfdb-5cfc05801d90)
+        #### [American Heart Association of Washington: Why donating healthy, culturally diverse foods to drives is crucial](https://www.king5.com/article/news/local/american-heart-association-washington-donating-healthy-culturally-diverse-foods-drives-crucial/281-2be5ca13-6ee4-444c-afe0-4f369fa6f147)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/902de786-294e-4c5d-9aee-92c6f31976f4/20241109T175348/902de786-294e-4c5d-9aee-92c6f31976f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/902de786-294e-4c5d-9aee-92c6f31976f4/20241109T175348/902de786-294e-4c5d-9aee-92c6f31976f4_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
         #### [Timeline: Here's when 3 systems of rain will move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
-        
-    *  [![](https://media.king5.com/assets/KING/images/1ef02f69-f337-4c1f-ba32-4adc32fc7c08/20241109T014254/1ef02f69-f337-4c1f-ba32-4adc32fc7c08_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1ef02f69-f337-4c1f-ba32-4adc32fc7c08/20241109T014254/1ef02f69-f337-4c1f-ba32-4adc32fc7c08_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+53°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
