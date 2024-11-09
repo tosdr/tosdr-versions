@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More funny for your money.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Florida Sheriff's quote at his press conference, "She wasn't as big as a popcorn fart, and she was trying to hold this man down"](https://www.fark.com/goto/13456648) ( [fox13news.com](https://www.fark.com/goto/13456648) ) » [(14 comments)](https://www.fark.com/comments/13456648/Florida-Sheriffs-quote-at-his-press-conference-She-wasnt-as-big-as-a-popcorn-fart-she-was-trying-to-hold-this-man-down) |
-| [Discussion](https://www.fark.com/discussion/) | [Four Friday Night college football games for Week 11 starting with Wake Forest-California at 8:00 PM ET on ACC Network, Iowa-UCLA at 9:00 PM on FOX, Rice-Memphis at 9:00 PM on ESPN2, and ends with New Mexico-SDSU at 10:30 PM on FS1. Let's do this](https://www.fark.com/goto/13456194) ( [espn.com](https://www.fark.com/goto/13456194) ) » [(2 comments)](https://www.fark.com/comments/13456194/Four-Friday-Night-college-football-games-for-Week-11-starting-with-Wake-Forest-California-at-800-PM-ET-on-ACC-Network-Iowa-UCLA-at-900-PM-on-FOX-Rice-Memphis-at-900-PM-on-ESPN2-ends-with-New-Mexico-SDSU-at-1030-PM-on-FS1-Lets-do-this) |
-| [Sports](https://www.fark.com/sports/) | [Four Friday Night college football games for Week 11 starting with Wake Forest-California at 8:00 PM ET on ACC Network, Iowa-UCLA at 9:00 PM on FOX, Rice-Memphis at 9:00 PM on ESPN2, and ends with New Mexico-SDSU at 10:30 PM on FS1. Let's do this](https://www.fark.com/goto/13456194) ( [espn.com](https://www.fark.com/goto/13456194) ) » [(2 comments)](https://www.fark.com/comments/13456194/Four-Friday-Night-college-football-games-for-Week-11-starting-with-Wake-Forest-California-at-800-PM-ET-on-ACC-Network-Iowa-UCLA-at-900-PM-on-FOX-Rice-Memphis-at-900-PM-on-ESPN2-ends-with-New-Mexico-SDSU-at-1030-PM-on-FS1-Lets-do-this) |
-| [Business](https://www.fark.com/business/) | [Maybe I should buy a boat](https://www.fark.com/goto/13456818) ( [english.elpais.com](https://www.fark.com/goto/13456818) ) » [(7 comments)](https://www.fark.com/comments/13456818/Maybe-I-should-buy-a-boat) |
-| [STEM](https://www.fark.com/stem/) | [Space policy is about to get farking wild](https://www.fark.com/goto/13456796) ( [arstechnica.com](https://www.fark.com/goto/13456796) ) » [(10 comments)](https://www.fark.com/comments/13456796/Space-policy-is-about-to-get-farking-wild) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Bhad Bhabie Hhas Chancer Uhnder Dhoctor's Chare](https://www.fark.com/goto/13456804) ( [tmz.com](https://www.fark.com/goto/13456804) ) » [(33 comments)](https://www.fark.com/comments/13456804/Bhad-Bhabie-Hhas-Chancer-Uhnder-Dhoctors-Chare) |
-| [Fandom](https://www.fark.com/fandom/) | [Maybe banning social media for under-16s has a few drawbacks](https://www.fark.com/goto/13456754) ( [theguardian.com](https://www.fark.com/goto/13456754) ) » [(11 comments)](https://www.fark.com/comments/13456754/Maybe-banning-social-media-for-under-16s-has-a-few-drawbacks) |
-| [D'awww](https://www.fark.com/dawww/) | [Ever kinked a water hose to make the user look at the spout, then released it as a prank? This elephant sure has](https://www.fark.com/goto/13456674) ( [phys.org](https://www.fark.com/goto/13456674) ) » [(6 comments)](https://www.fark.com/comments/13456674/Ever-kinked-a-water-hose-to-make-user-look-at-spout-then-released-it-as-a-prank-This-elephant-sure-has) |
-| [Food](https://www.fark.com/food/) | [If you own a bakery and a distillery, of course you'd sell Bourbon Snack Sandwiches](https://www.fark.com/goto/13456678) ( [japantoday.com](https://www.fark.com/goto/13456678) ) » [(1 comment)](https://www.fark.com/comments/13456678/If-you-own-a-bakery-a-distillery-of-course-youd-sell-Bourbon-Snack-Sandwiches) |
-| [Politics](https://www.fark.com/politics/) | [Not to be outdone by Trump, Israel starts its own denaturalization process for undesired citizens](https://www.fark.com/goto/13456556) ( [bbc.com](https://www.fark.com/goto/13456556) ) » [(6 comments)](https://www.fark.com/comments/13456556/Not-to-be-outdone-by-Trump-Israel-starts-its-own-denaturalization-process-for-undesired-citizens) |
+| [Main](https://www.fark.com/) | [The Navy said they would send Gibbs over to smack the guy in the back of the head](https://www.fark.com/goto/13456950) ( [weartv.com](https://www.fark.com/goto/13456950) ) » [(0 comments)](https://www.fark.com/comments/13456950/The-Navy-said-they-would-send-Gibbs-over-to-smack-guy-in-back-of-head) |
+| [Discussion](https://www.fark.com/discussion/) | [Husbands have some - ah, interesting - thoughts to offer in the birthing suite](https://www.fark.com/goto/13456946) ( [upworthy.com](https://www.fark.com/goto/13456946) ) » [(4 comments)](https://www.fark.com/comments/13456946/Husbands-have-some-ah-interesting-thoughts-to-offer-in-birthing-suite) |
+| [Sports](https://www.fark.com/sports/) | [Forget bobbleheads and T-shirts. When Klay Thompson makes his first visit back to the bay, everyone in attendance gets a Kaptain Klay hat](https://www.fark.com/goto/13456928) ( [msn.com](https://www.fark.com/goto/13456928) ) » [(1 comment)](https://www.fark.com/comments/13456928/Forget-bobbleheads-T-shirts-When-Klay-Thompson-makes-his-first-visit-back-to-bay-everyone-in-attendance-gets-a-Kaptain-Klay-hat) |
+| [Business](https://www.fark.com/business/) | [Face eating leopards look for the union label](https://www.fark.com/goto/13456842) ( [rawstory.com](https://www.fark.com/goto/13456842) ) » [(8 comments)](https://www.fark.com/comments/13456842/Face-eating-leopards-look-for-union-label) |
+| [STEM](https://www.fark.com/stem/) | [Study shows alcohol causes dementia, but don't worry, another one will be along in a minute](https://www.fark.com/goto/13456936) ( [scitechdaily.com](https://www.fark.com/goto/13456936) ) » [(3 comments)](https://www.fark.com/comments/13456936/Study-shows-alcohol-causes-dementia-but-dont-worry-another-one-will-be-along-in-a-minute) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The Beatles get their first Grammy nominations since their glory days of 1997](https://www.fark.com/goto/13456942) ( [cnn.com](https://www.fark.com/goto/13456942) ) » [(0 comments)](https://www.fark.com/comments/13456942/The-Beatles-get-their-first-Grammy-nominations-since-their-glory-days-of-1997) |
+| [Fandom](https://www.fark.com/fandom/) | [Don't taunt the dynamite Mario](https://www.fark.com/goto/13456982) ( [kotaku.com](https://www.fark.com/goto/13456982) ) » [(4 comments)](https://www.fark.com/comments/13456982/Dont-taunt-dynamite-Mario) |
+| [D'awww](https://www.fark.com/dawww/) | [Ever kinked a water hose to make the user look at the spout, then released it as a prank? This elephant sure has](https://www.fark.com/goto/13456674) ( [phys.org](https://www.fark.com/goto/13456674) ) » [(8 comments)](https://www.fark.com/comments/13456674/Ever-kinked-a-water-hose-to-make-user-look-at-spout-then-released-it-as-a-prank-This-elephant-sure-has) |
+| [Food](https://www.fark.com/food/) | [If youʻre allergic to eggs or yellow #5 and the "chocolate peanut butter" ice cream you just bought is bright orange, you shouldnʻt eat it. Actually, even if youʻre not allergic to anything, that should raise a red flag](https://www.fark.com/goto/13456870) ( [newsweek.com](https://www.fark.com/goto/13456870) ) » [(2 comments)](https://www.fark.com/comments/13456870/If-youre-allergic-to-eggs-yellow-5-the-chocolate-peanut-butter-ice-cream-you-just-bought-is-bright-orange-you-shouldnt-eat-it-Actually-even-if-youre-not-allergic-to-anything-that-should-raise-a-red-flag) |
+| [Politics](https://www.fark.com/politics/) | [Failed upstate NY Assembly candidate who lost in this week's election has turned himself in to police for stealing his rival's campaign mailers from people's mailboxes. An honest Republican, go figure](https://www.fark.com/goto/13456562) ( [nypost.com](https://www.fark.com/goto/13456562) ) » [(4 comments)](https://www.fark.com/comments/13456562/Failed-upstate-NY-Assembly-candidate-who-lost-in-this-weeks-election-has-turned-himself-in-to-police-for-stealing-his-rivals-campaign-mailers-from-peoples-mailboxes-An-honest-Republican-go-figure) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 08 2024 19:43:46  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 09 2024 01:42:54  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
