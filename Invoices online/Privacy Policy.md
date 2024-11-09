@@ -117,63 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Kobus Venter
+Anri van der Linde
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=51096692)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=141616056)  
+NWET Pty LTD
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=92449353)  
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=175287132)  
+Website Café (PTY) LTD
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=127832272)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=87844327)  
+MONSTER SECURITY SERVICES
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=202689919)  
+J.M. HUMAN RESOURCES
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=213468663)  
+LEONARD
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=48488090)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=214018106)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=63079314)  
+M's Frozen Delights
+
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=26518958)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=51637643)  
 Blue Bulls Rugby Coaches Association
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=205948148)  
-Alliance Energy
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=186929162)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=8962882)  
-Hydroworld T/A Milliqua
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=40378282)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=106202647)  
-SAUL ATHOL ACRES RENTAL
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=204080068)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=141337823)  
-United Paintball Federation
-
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=197159782)  
-Moving Made Easy (PTY) Ltd
-
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=48036544)  
-Highlands Auto Engineering
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=68365123)  
-Westside Car Audio CC
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=103508541)  
-Firstweb Hosting & Design
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=214417687)  
-MSPCloud (Pty) Ltd
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=23391157)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=117923122)  
-Mountain Lion Properties
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=132180038)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=11879a19af7970496d37f41fd5b54866e1bcc810ff7183b303d54e8ad22ac66a&c=125889677)  
-Depot Diesel (Pty) Ltd
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=f0748a0720cf58f7b0807fcc3b768de961b3d8beee179f1b1969e0d12116c1f3&c=167870294)  
+Imvubu General Trading
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
