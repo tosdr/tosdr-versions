@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» окажет содействие ветеранам СВО с трудоустройством на предприятия АПК](https://cdn.er.ru/media/news/November2024/zIHtGbUDkJQwIdqadCWW-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-okazhet-sodejstvie-veteranam-svo-s-trudoustrojstvom-na-predpriyatiya-apk)
+
+[«Единая Россия» окажет содействие ветеранам СВО с трудоустройством на предприятия АПК](https://er.ru/activity/news/edinaya-rossiya-okazhet-sodejstvie-veteranam-svo-s-trudoustrojstvom-na-predpriyatiya-apk)
+
+[#поддержкаучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1094235) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#Республика Мордовия](https://er.ru/activity/news?tags%5B0%5D=1090160) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#русскоесело](https://er.ru/activity/news?tags%5B0%5D=105010) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#Наумец](https://er.ru/activity/news?tags%5B0%5D=1095264) [#ветераныСВО](https://er.ru/activity/news?tags%5B0%5D=1095636)
+
+Сегодня 09:00
+
 [![Владимир Якушев и Владислав Шапша обсудили задачи «Единой России» в Калужской области на 2025 год](https://cdn.er.ru/media/news/November2024/sNLVLd9AXCO32VbvVoho-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-i-vladislav-shapsha-obsudili-zadachi-edinoj-rossii-v-kaluzhskoj-oblasti-na-2025-god)
 
 [Владимир Якушев и Владислав Шапша обсудили задачи «Единой России» в Калужской области на 2025 год](https://er.ru/activity/news/vladimir-yakushev-i-vladislav-shapsha-obsudili-zadachi-edinoj-rossii-v-kaluzhskoj-oblasti-na-2025-god)
@@ -338,14 +346,6 @@
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 08.11.24
-
-[![МГЕР и Общество вьетнамо-российской дружбы организуют на территории Русского дома в Ханое совместную международную выставку о волонтёрском движении двух стран](https://cdn.er.ru/media/news/November2024/v7IDQU7TPvCTrJ80p8B5-small.jpg)](https://er.ru/activity/news/mger-i-obshestvo-vetnamo-rossijskoj-druzhby-organizuyut-na-territorii-russkogo-doma-v-hanoe-sovmestnuyu-mezhdunarodnuyu-vystavku-o-volontyorskom-dvizhenii-dvuh-stran)
-
-[МГЕР и Общество вьетнамо-российской дружбы организуют на территории Русского дома в Ханое совместную международную выставку о волонтёрском движении двух стран](https://er.ru/activity/news/mger-i-obshestvo-vetnamo-rossijskoj-druzhby-organizuyut-na-territorii-russkogo-doma-v-hanoe-sovmestnuyu-mezhdunarodnuyu-vystavku-o-volontyorskom-dvizhenii-dvuh-stran)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Вьетнам](https://er.ru/activity/news?tags%5B0%5D=2379) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247)
-
-07.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
