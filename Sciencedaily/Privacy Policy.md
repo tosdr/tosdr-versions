@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Deep Ocean Clues to Ice Age Puzzle](https://www.sciencedaily.com/releases/2024/11/241108113456.htm)
 * [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
 * [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
 * [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
@@ -217,7 +218,6 @@ this hour
 * [Animals: 100-Million-Year Explosion in Color](https://www.sciencedaily.com/releases/2024/11/241107193216.htm)
 * [Memories Are Not Only in the Brain](https://www.sciencedaily.com/releases/2024/11/241107193111.htm)
 * [Mini-Tornadoes in Supersolid Quantum Gas](https://www.sciencedaily.com/releases/2024/11/241106132229.htm)
-* [Illuminate Black Holes With Echoes of Light](https://www.sciencedaily.com/releases/2024/11/241107160747.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
-
 [Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
+
+[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
-
 [Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
+
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
-
 [Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+
+[Trees](https://www.sciencedaily.com/news/plants_animals/trees/)
 
   
 
