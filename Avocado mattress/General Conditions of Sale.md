@@ -26,7 +26,7 @@ Avocado's product trial and return policy varies by product.
 
 Written by Mark Abrials
 
-Updated yesterday
+Updated this week
 
 Return Policy
 =============
