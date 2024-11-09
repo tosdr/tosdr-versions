@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/products/?search=Call+of+Duty%3A+Black+Ops+6)
+[](https://www.hrkgame.com/en/games/product/microsoft-office-2024-professional-plus)
 
 Privacy Policy
 --------------
