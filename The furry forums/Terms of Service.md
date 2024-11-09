@@ -17,7 +17,7 @@ Login with username, password and session length
 News:
 -----
 
-Other smiley sets available - you change the species by going to **Profile > Look and Layout > Smiley Set**!
+**Any thread that is unlocked** is free to be posted in! Threads are not considered "dead" until they are locked.
 
   
   
@@ -145,3 +145,5 @@ Powered by [EzPortal](http://www.ezportal.com/)
   
 
 * [SMF 2.0.19](https://www.thefurryforum.com/forums/index.php?action=credits "Simple Machines Forum") | [SMF © 2011](http://www.simplemachines.org/about/smf/license.php "License"), [Simple Machines](http://www.simplemachines.org/ "Simple Machines") | [Terms and Policies](https://www.thefurryforum.com/forums/index.php?action=agreement)
+
+[anything](https://www.thefurryforum.com/cookinghightest.php)
