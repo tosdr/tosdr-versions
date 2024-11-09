@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_Leaderboard_Blue.png)](https://www.expatexchange.com/partnerdirect/100/93754-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_Leaderboard_Blue.png)](https://www.expatexchange.com/partnerdirect/100/84351-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_MPU_Blue.png)](https://www.expatexchange.com/partnerdirect/100/93754-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_MPU_Blue.png)](https://www.expatexchange.com/partnerdirect/100/84351-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
