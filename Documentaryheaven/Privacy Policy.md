@@ -123,44 +123,44 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 
 ###### Throwback Documentaries
 
-* [![Gotti: Our Father, The Godfather](/wp-content/thumbnails/8877-100x70.jpg?x53432)
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
-    Gotti: Our Father, The Godfather
+    Pedigree Dogs Exposed
     
-    For the first time ever, John Gotti's children, Angel, Victoria and Peter, freely speak about what life was like knowing and living with their father, no question is off limits. Previously such insigh](https://documentaryheaven.com/gotti-our-father-godfather/ "Gotti: Our Father, The Godfather")
-* [![Blood in the Face](/wp-content/thumbnails/5916-100x70.jpg?x53432)
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
+* [![First Peoples: Europe](/wp-content/thumbnails/10204-100x70.jpg?x53432)
     
-    Blood in the Face
+    First Peoples: Europe
     
-    Blood in the Face was inspired by a nonfiction book by author James Ridgeway, who is also credited as one of the film’s directors. This documentary was largely shot in Cohoctah Township, Michigan. It](https://documentaryheaven.com/blood-in-the-face/ "Blood in the Face")
-* [![Scientific Verification of Vedic Knowledge](/wp-content/thumbnails/2325-100x70.jpg?x53432)
+    Today we have Europe to ourselves we are all modern humans but when we first arrived in this land it was already a home for our cousins, the Neanderthals. We used to think that we were so much more ad](https://documentaryheaven.com/first-peoples-europe/ "First Peoples: Europe")
+* [![Living on Bitcoin for a Week](/wp-content/thumbnails/13482-100x70.jpg?x53432)
     
-    Scientific Verification of Vedic Knowledge
+    Living on Bitcoin for a Week
     
-    A vast number of statements and materials presented in the ancient Vedic literatures can be shown to agree with modern scientific findings and they also reveal a highly developed scientific content in](https://documentaryheaven.com/scientific-verification-of-vedic-knowledge/ "Scientific Verification of Vedic Knowledge")
-* [![Inside Out](/wp-content/thumbnails/5706-100x70.jpg?x53432)
+    From the producer of the documentary Super Size Me, Morgan Spurlock now sets out to take on the strange new world of bitcoin and attempt to survive on nothing but the digital currency for a week.W](https://documentaryheaven.com/living-on-bitcoin-for-week/ "Living on Bitcoin for a Week")
+* [![The Choice is Ours](/wp-content/thumbnails/12885-100x70.jpg?x53432)
     
-    Inside Out
+    The Choice is Ours
     
-    The film "Inside Out" was born out of the angst that even in the 21st century, in a city as liberal and safe and cosmopolitan as Mumbai (India), women’s access to public space is limited and largely r](https://documentaryheaven.com/inside-out/ "Inside Out")
-* [![Class Dismissed](/wp-content/thumbnails/6151-100x70.jpg?x53432)
+    The Choice is Ours is a film by The Venus Project, it explores many aspects of our society and sets about rethinking the possibilities available to us in our world, dispelling the myth of so called "H](https://documentaryheaven.com/choice-is-ours/ "The Choice is Ours")
+* [![The Amityville Horror: The Real Story](/wp-content/thumbnails/4899-100x70.jpg?x53432)
     
-    Class Dismissed
+    The Amityville Horror: The Real Story
     
-    Class Dismissed provides a critical look at how U.S. history is taught in high school, at the myths that reduce the complexity of history into simple soundbites, and the information that never seems t](https://documentaryheaven.com/class-dismissed/ "Class Dismissed")
+    On 13 November 1974, police discovered six members of the De Feo family shot dead; the father, mother and four of the five children, at 112 Ocean Avenue in Amityville, New York. Attention turned to Ro](https://documentaryheaven.com/the-amityville-horror-the-real-story/ "The Amityville Horror: The Real Story")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
