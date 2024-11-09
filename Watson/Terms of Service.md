@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)6°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![beau temps](https://www.watson.ch/fr/_watsui/static/img/weather/w-1.svg)7°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Crise](https://www.watson.ch/fr/crise/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Crise](https://www.watson.ch/fr/crise/)
+* [Inflation](https://www.watson.ch/fr/inflation/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Allemagne](https://www.watson.ch/fr/allemagne/)
+* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
+* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
+* [Immobilier](https://www.watson.ch/fr/immobilier/)
+* [Vidéo](https://www.watson.ch/fr/video/)
 * [Transports](https://www.watson.ch/fr/transports/)
-* [Incendie](https://www.watson.ch/fr/incendie/)
 * [Netflix](https://www.watson.ch/fr/netflix/)
-* [ONU](https://www.watson.ch/fr/onu/)
-* [Italie](https://www.watson.ch/fr/italie/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Crime](https://www.watson.ch/fr/crime/)
-* [Banques](https://www.watson.ch/fr/banques/)
+* [NHL](https://www.watson.ch/fr/nhl/)
+* [Logement](https://www.watson.ch/fr/logement/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Séries](https://www.watson.ch/fr/series/)
 * [France](https://www.watson.ch/fr/france/)
-* [People](https://www.watson.ch/fr/people/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
-* [Gaza](https://www.watson.ch/fr/gaza/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Israël](https://www.watson.ch/fr/israel/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
