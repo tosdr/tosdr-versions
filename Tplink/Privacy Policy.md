@@ -7,6 +7,13 @@ Your browser does not support JavaScript. Please turn it on for the best experie
 
 [](https://partner.tp-link.com/us/)
 
+Click to skip the navigation bar
+
+*  [](https://www.kasasmart.com/us)
+*  [](https://www.tapo.com/us/)
+*  [](https://www.tp-link.com/us/business-networking/)
+*  [](https://www.vigi.com/us/)
+
 [Support](https://www.tp-link.com/us/support/)
 
 1. [All Support](https://www.tp-link.com/us/support/)
@@ -26,16 +33,11 @@ Where to Buy
 
 [United States / English](https://www.tp-link.com/us/choose-your-location/)
 
-*  [](https://www.kasasmart.com/us)
-*  [](https://www.tapo.com/us/)
-*  [](https://www.tp-link.com/us/business-networking/)
-*  [](https://www.vigi.com/us/)
-
 [TP-Link, Reliably Smart](https://www.tp-link.com/us/)
 
 [Search](https://www.tp-link.com/us/search/)
 
-* Networking
+* Networking ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
     
     * [WiFi 7](https://www.tp-link.com/us/wifi7/)
     
@@ -119,7 +121,7 @@ Where to Buy
     * [PCIe Adapters](https://www.tp-link.com/us/home-networking/pci-adapter/)
     * [USB Adapters](https://www.tp-link.com/us/home-networking/usb-adapter/)
     
-* Smart Home
+* Smart Home ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
     
     *   [Kasa Smart](https://www.kasasmart.com/us)
     
@@ -178,7 +180,7 @@ Where to Buy
     
     [New Release](https://www.tp-link.com/us/smart-home/new-release/)
     
-* [Business](https://www.tp-link.com/us/business-networking/)
+* [Business ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://www.tp-link.com/us/business-networking/) 
     
     *   [Business](https://www.tp-link.com/us/business-networking/)
     
@@ -258,7 +260,7 @@ Where to Buy
     * [Accessories](https://www.tp-link.com/us/business-networking/soho-accessory/)
     * [Pharos Wireless Bridges](https://www.tp-link.com/us/business-networking/all-pharos-wireless-bridge/)
     
-* Service Providers
+* Service Providers ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
     
     *   [TP-Link Aginet Unified Cloud (TAUC)](https://www.tp-link.com/us/tauc/)
     
@@ -276,8 +278,8 @@ Where to Buy
     
     The leading technology for delivering gigabit Internet services
     
-* [HOT DEALS](https://www.tp-link.com/us/promotion)
-* [Community](https://community.tp-link.com/)
+* [HOT DEALS ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://www.tp-link.com/us/promotion) 
+* [Community ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://community.tp-link.com/) 
     
     [For Home](https://community.tp-link.com/us/home)
     
@@ -1012,9 +1014,12 @@ _Effective Date: January 1, 2020_
 
 * * *
 
-SubscribeTP-Link takes your privacy seriously. For further details on TP-Link's privacy practices, see [TP-Link's Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US).
+Subscribe\>TP-Link takes your privacy seriously. For further details on TP-Link's privacy practices, see [TP-Link's Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US).
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Be The First To Get Exclusive Deals & News
+
+ Email Address Email Error
 
 Subscribe
 
@@ -1033,6 +1038,7 @@ reCaptcha not verified
 Subscribe
 
 Let's Connect
+-------------
 
 * [www.facebook.com](https://www.facebook.com/TPLINKUS/)
 * [Instagram](https://www.instagram.com/tplinkus/)
