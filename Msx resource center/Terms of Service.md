@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [multiple value variable](https://www.msx.org/forum/msx-talk/development/multiple-value-variable "multiple value variable")
+* [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k?page=1 "9958 FPGA drop-in clone is here: TN-VDP 20K.")
+* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
 * [Life on Earth/Myths and Dragons on MegaFlashROM SCC+ SD](https://www.msx.org/forum/msx-talk/software/life-on-earthmyths-and-dragons-on-megaflashrom-scc-sd "Life on Earth/Myths and Dragons on MegaFlashROM SCC+ SD")
 * [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
 * [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
 * [BASIC-Kun for Omega MSX](https://www.msx.org/forum/msx-talk/hardware/basic-kun-for-omega-msx "BASIC-Kun for Omega MSX")
-* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
 * [FutureDisk 48 and 49](https://www.msx.org/forum/msx-talk/software/futuredisk-48-and-49 "FutureDisk 48 and 49")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
 * [Bin2Bas (Python Script)](https://www.msx.org/forum/msx-talk/development/bin2bas-python-script "Bin2Bas (Python Script)")
 * [Jan Smit passed away...](https://www.msx.org/forum/msx-talk/general-discussion/jan-smit-passed-away?page=1 "Jan Smit passed away...")
 * [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=1 "How do I get to the 2nd and other partitions "drives"?")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
-* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=74 "WonderTANG! Who wants to juice up your MSX?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
