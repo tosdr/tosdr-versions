@@ -117,58 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Hugo van Sittert
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=131578649)  
-UniTech Solutions Pty Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=42560653)  
+webb it services
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=76174029)  
-Konsortium Operations ( Roamfree Meats )
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=185359777)  
+AFS Electrical
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=134471033)  
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=115212671)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=136994892)  
+IYD
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=134617251)  
+Westside Car Audio CC
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=120431835)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=5340223)  
+Lily Fern & Co
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=34537840)  
+Dombieterfontein (PTY) LTD
+
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=67104427)  
+Lizzy Pop PTY(Ltd)
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=184377874)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=68403776)  
+Wiselink Broadband Pty Ltd
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=124654918)  
 Immediate Health (pty)ltd
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=157440315)  
-AMS Ambu Medical Supplies
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=10608738)  
+Import Maaw
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=104863627)  
-NGB HOLDINGS PTY LTD
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=46912213)  
+NIMAWELL
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=136180023)  
-SR Travel Services
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=156224197)  
-Blue Bulls Rugby Coaches Association
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=176332608)  
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=91459581)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=143280081)  
-OXYAIDER (PTY) LTD
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=141261888)  
-Shades of Summer Investments 184cc t/a Junker Construction
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=31851311)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=130615921)  
-Creative Characters
-
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=28661405)  
-Cooper Power
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=d302d85ac36801f39f7ced900e86b638baa148fa256c86240d869e5bbd6c7920&c=205319594)  
-CGHK Enterprises (PTY) LTD
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=34769768)  
+Sonic Electrical Services PTY Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
