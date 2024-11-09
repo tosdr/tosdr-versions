@@ -1,4 +1,6 @@
-[](https://happynumbers.com/)
+[![logo](https://static.happynumbers.com/teachers/headers/happy-logo.svg)](https://happynumbers.com/?redirect=no)
+
+For ParentsFor AdminsContact us[Curriculum](https://happynumbers.com/math)[Pricing](https://happynumbers.com/pricing)[Set up your class](https://happynumbers.com/auth/signup)
 
 Privacy Policy
 ==============
@@ -325,3 +327,31 @@ USA
 support@happynumbers.com  
 Phone: +1-800-815-1574  
 Fax: +1-650-618-8611
+
+[![logo](https://static.happynumbers.com/teachers/headers/happy-logo.svg)](https://happynumbers.com/?redirect=no)
+
+© 2024 Happy Numbers. All rights reserved
+
+Happy Numbers Inc., 2261 Market Street STE 22178,  
+San Francisco, CA 94114, USA
+
+[](https://www.youtube.com/c/HappyNumbers?sub_confirmation=1)[](https://www.facebook.com/happynumberscom)[](https://www.instagram.com/happynumbers/)[](https://twitter.com/intent/user?screen_name=happynumbers)[](https://www.linkedin.com/company/happynumbers/)[](https://hu.pinterest.com/happynumbers/)
+
+Company
+-------
+
+[Blog](https://happynumbers.com/blog)[Pricing](https://happynumbers.com/pricing)[Privacy Policy](https://happynumbers.com/privacy-policy)[Terms of Service](https://happynumbers.com/terms-of-service)
+
+Curriculum
+----------
+
+[Pre-Kindergarten](https://happynumbers.com/math/pre-kindergarten)[Kindergarten](https://happynumbers.com/math/kindergarten)[1st Grade](https://happynumbers.com/math/grade1)[2nd Grade](https://happynumbers.com/math/grade2)[3rd Grade](https://happynumbers.com/math/grade3)[4th Grade](https://happynumbers.com/math/grade4)[5th Grade](https://happynumbers.com/math/grade5)
+
+Support
+-------
+
+[Help Center](https://help.happynumbers.com/en/)[Contact us](#)[Security](https://happynumbers.com/public/security)
+
+We updated our [Privacy Policy and Terms of Service.](https://happynumbers.com/public/updated-policies)
+
+Use of this web site constitutes acceptance of the [Privacy Policy](https://happynumbers.com/privacy-policy) and [Terms of Service](https://happynumbers.com/terms-of-service). Happy Numbers complies with the Children's Online Privacy Protection Act (COPPA), the Family Educational Rights and Privacy Act (FERPA), and the California Education Code including the Student Online Personal Information Protection Act (SOPIPA) and AB1584.
