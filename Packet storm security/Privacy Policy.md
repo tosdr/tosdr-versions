@@ -28,15 +28,15 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 232 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 61 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 24 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 18 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 223 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 57 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 23 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 15 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 6 files
+* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 5 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 5 files
-* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 3 files
+* [Chokri Hammedi](https://packetstormsecurity.com/files/authors/16420) 3 files
 * [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
 
 Recent News
@@ -51,6 +51,30 @@ Posted [Nov 8, 2024](https://packetstormsecurity.com/news/date/2024-11-08/ "16:4
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36574/) | [View](https://www.securityweek.com/palo-alto-networks-expedition-vulnerability-exploited-in-attacks-cisa-warns/)
+
+[Legal Protections For Securty Researchers Sought In New German Draft Law](https://packetstormsecurity.com/news/view/36573/Legal-Protections-For-Securty-Researchers-Sought-In-New-German-Draft-Law.html)
+
+Posted [Nov 8, 2024](https://packetstormsecurity.com/news/date/2024-11-08/ "16:49:38 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [germany](https://packetstormsecurity.com/news/tags/germany)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36573/) | [View](https://www.scworld.com/news/legal-protections-for-security-researchers-sought-in-new-german-draft-law)
+
+[North Korean Hackers Target macOS Users](https://packetstormsecurity.com/news/view/36571/North-Korean-Hackers-Target-macOS-Users.html)
+
+Posted [Nov 8, 2024](https://packetstormsecurity.com/news/date/2024-11-08/ "16:48:36 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [apple](https://packetstormsecurity.com/news/tags/apple), [north korea](https://packetstormsecurity.com/news/tags/north_korea)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36571/) | [View](https://www.securityweek.com/north-korean-hackers-target-macos-users-with-fake-crypto-pdfs/)
+
+[Unpatched Vulnerabilities Allow Hacking Of Mazda Cars](https://packetstormsecurity.com/news/view/36570/Unpatched-Vulnerabilities-Allow-Hacking-Of-Mazda-Cars.html)
+
+Posted [Nov 8, 2024](https://packetstormsecurity.com/news/date/2024-11-08/ "16:48:31 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36570/) | [View](https://www.securityweek.com/unpatched-vulnerabilities-allow-hacking-of-mazda-cars-zdi/)
 
 [Cisco Patches Critical Vuln In Industrial Networking Solution](https://packetstormsecurity.com/news/view/36569/Cisco-Patches-Critical-Vuln-In-Industrial-Networking-Solution.html)
 
@@ -100,30 +124,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36564/) | [View](https://www.theregister.com/2024/11/06/microlise_cyberattack/)
 
-[Operation Synergia II Sees Interpol Swoop On Global Cyber Crims](https://packetstormsecurity.com/news/view/36563/Operation-Synergia-II-Sees-Interpol-Swoop-On-Global-Cyber-Crims.html)
-
-Posted [Nov 6, 2024](https://packetstormsecurity.com/news/date/2024-11-06/ "19:10:18 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [phish](https://packetstormsecurity.com/news/tags/phish)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36563/) | [View](https://www.theregister.com/2024/11/06/operation_synergia_ii_interpol/)
-
-[Google Cloud Rolling Out Mandatory MFA for All Users](https://packetstormsecurity.com/news/view/36562/Google-Cloud-Rolling-Out-Mandatory-MFA-for-All-Users.html)
-
-Posted [Nov 6, 2024](https://packetstormsecurity.com/news/date/2024-11-06/ "19:10:11 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [google](https://packetstormsecurity.com/news/tags/google), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36562/) | [View](https://www.securityweek.com/google-cloud-rolling-out-mandatory-mfa-for-all-users/)
-
-[Rhysida Ransomware Attack On Columbus Claimed 500k Victims](https://packetstormsecurity.com/news/view/36561/Rhysida-Ransomware-Attack-On-Columbus-Claimed-500k-Victims.html)
-
-Posted [Nov 5, 2024](https://packetstormsecurity.com/news/date/2024-11-05/ "15:13:03 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36561/) | [View](https://www.scworld.com/news/rhysida-ransomware-attack-on-columbus-claimed-500k-victims)
-
 [View More News →](https://packetstormsecurity.com/news/)
 
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2369668951&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2369668951.1731164192.1731164192.1731164192.1%3B%2B__utmz%3D32867617.1731164192.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1519848124&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1519848124.1731185993.1731185993.1731185993.1%3B%2B__utmz%3D32867617.1731185993.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
