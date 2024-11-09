@@ -142,12 +142,6 @@ Ok](https://www.emp-online.com/?forceThisShop=1)
 
 Search catalogue  Clear Search
 
-[](https://www.emp-online.com/winter-is-coming/ "Stay warm, look cool!")
-
-Winter Is Coming!
-
-[Stay warm, look cool!](https://www.emp-online.com/winter-is-coming/ "Stay warm, look cool!")
-
 Your browser's Javascript functionality is turned off.
 
 Please turn it on so that you can experience the full features of this site.
@@ -524,7 +518,7 @@ Subscribe
 
 Our customer services are here for you
 
-Today our customer service is available till 5:30 PM. [More Info](https://www.emp-online.com/contact)
+Available again: Monday from 9:00 AM to 5:30 PM . [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
