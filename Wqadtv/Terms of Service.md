@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/snowmans-reindeer-farm-sweepstakes-2024/526-85cddd24-7128-4120-9e6f-e7ffe2269100)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-mount-carroll-illinois-death-inquest/526-0fe412d9-503d-4aff-8efc-fd9862ce985f)
         
-        #### [Snowman's Reindeer Farm Sweepstakes 2024](https://www.wqad.com/article/news/local/contests/snowmans-reindeer-farm-sweepstakes-2024/526-85cddd24-7128-4120-9e6f-e7ffe2269100)
+        #### [Inquest scheduled in the death of Jackson Kradle](https://www.wqad.com/article/news/local/jackson-kradle-mount-carroll-illinois-death-inquest/526-0fe412d9-503d-4aff-8efc-fd9862ce985f)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/contest-rules/snowmans-reindeer-farm-sweepstakes-official-rules/526-f7006ce2-8cc7-4e96-a5eb-b9d009e848d6)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_360x203.jpg)](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
         
-        #### [Snowman's Reindeer Farm Sweepstakes Official Rules](https://www.wqad.com/article/news/local/contests/contest-rules/snowmans-reindeer-farm-sweepstakes-official-rules/526-f7006ce2-8cc7-4e96-a5eb-b9d009e848d6)
+        #### [Carroll County Sheriff's Office releases statement about death of Jackson Kradle](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-48°
+51°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
