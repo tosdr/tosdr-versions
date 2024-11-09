@@ -93,8 +93,8 @@ Menu
     
     *  [Most Popular Articles](https://www.jacuzzi.com/en-us/most-popular-articles-category.html)
     *  [Recent Articles](https://www.jacuzzi.com/en-us/recent-articles-blog.html)
-    *  [Sauna Articles](https://www.jacuzzi.com/en-us/category-sauna-blogs.html)
     *  [Hot Tub Articles](https://www.jacuzzi.com/en-us/category-hot-tub-blogs.html)
+    *  [Sauna Articles](https://www.jacuzzi.com/en-us/category-sauna-blogs.html)
     *  [Infrared Articles](https://www.jacuzzi.com/en-us/category-ir-blogs.html)
     *  [Swim Spa Articles](https://www.jacuzzi.com/en-us/category-swim-spa-blogs.html)
     *  [Hot Tub Shopping Tools](https://www.jacuzzi.com/en-us/design-your-own.html)
