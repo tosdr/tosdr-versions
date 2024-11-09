@@ -42,7 +42,7 @@ Parents and School Administrators >
                 
 * Markets
     * [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
-    * [Corporate Learning Solutions](https://factsmgt.com/corporate-learning-solutions/)
+    * [Business Learning Solutions](https://factsmgt.com/corporate-learning-solutions/)
     * [Faith Community Solutions](https://factsmgt.com/markets/faith-community-software/)
 * Resources
     * [Insights](https://factsmgt.com/insights/)
@@ -157,7 +157,7 @@ BY USING THIS WEBSITE, YOU: (A) ASSUME ALL RISKS OF LOSSES OR DAMAGES RESULTING 
 
 * Markets
 * [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
-* [Corporate Learning Solutions](https://factsmgt.com/corporate-learning-solutions/)
+* [Business Learning Solutions](https://factsmgt.com/corporate-learning-solutions/)
 * [Faith Community Software](https://factsmgt.com/markets/faith-community-software/)
 
 * Resources
