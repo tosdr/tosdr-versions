@@ -31,6 +31,618 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Nuevos horarios de cortes de luz en Quito para este sábado 9 de noviembre
+=========================================================================
+
+La Empresa Eléctrica Quito detalló el cronograma emergente de cortes de luz para este sábado 9 de noviembre de 2024.
+--------------------------------------------------------------------------------------------------------------------
+
+![Quito tendrá cortes de luz de tres, seis, nueve y 12 horas](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-nuevos-quito-horarios.jpg)
+
+La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz** que tendrá la ciudad este sábado 9 de noviembre de 2024.
+
+### Más noticias
+
+* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
+* [Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentaran-a-ocho-horas-desde-el-domingo-dice-ministra.html "Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra")
+* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
+
+La entidad ajustó el cronograma a última hora, tras un anuncio del **Ministerio de Energía** donde indicó que las hidroeléctricas del país mantienen bajos niveles en sus caudales.
+
+La capital incrementó los **apagones programados para este sábado de seis a doce horas**, en algunos sectores.
+
+En otros puntos, la suspensión del servicio eléctrico va desde las **tres a nueve horas**. En todos los casos, los horarios están distribuidos en una y dos franjas[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
+
+Nuevos cortes de luz en Quito para este sábado 9 de noviembre
+-------------------------------------------------------------
+
+Las **zonas residenciales** de Quito tienen **siete horarios** de cortes de luz:
+
+### De 12:00 a 15:00
+
+* Miraflores
+* Río Coca
+* Conocoto
+* Tumbaco
+* Cumbayá
+
+### De 12:00 a 18:00
+
+* Luluncoto
+* Chilibulo
+* La Floresta
+* Cristianía
+* Eplicachima
+
+### De 06:00 a 12:00 y de 16:00 a 22:00
+
+* La Carolina
+* Nueva Cumbayá
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+### De 15:00 a 21:00
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+### De 18:00 a 24:00
+
+* Barrionuevo
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* El Quinche
+
+### De 12:00 a 15:00 y 18:00 a 24:00
+
+* Olímpico
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Pomasqui
+* Eugenio Espejo
+
+### De 18:00 a 24:00
+
+* Luluncoto
+* San Roque
+* Río Coca
+* Cotocollao
+* Conocoto
+* Alangasí
+* Santa Rosa
+* Inga Bajo
+
+Mientras que en las **zonas industriales**, los apagones se realizarán de acuerdo con **tres horarios**[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
+
+* 00:00 a 05:00
+* 10:00 a 24:00
+* 06:00 a 09:00 y de 15:00 a 18:00
+
+Este es el **cronograma completo** por barrios para este **sábado 9 de noviembre**:
+
+El Gobierno no aclaró el porqué de la **sectorización** con distintos rangos de horarios, algunos con tres horas y otros de 12 horas.
+
+Cortes de luz aumentaron a 12 horas
+-----------------------------------
+
+La decisión de aumentar los cortes de luz a última hora surgió en un contexto de **disminución sin precedentes en los caudales** de las centrales hidroeléctricas **Mazar y Coca Codo Sinclair** según detalló el Ministerio de Energía.
+
+La cartera de Estado aseguró que la medida busca reducir el **impacto severo** que produce la falta de lluvias al suministro eléctrico del Ecuador.
+
+Asimismo, los nuevos horarios de cortes de luz emergentes fueron implementados debido a **mantenimientos de emergencia** en las centrales Agoyán, San Francisco y otras plantas térmicas.
+
+“Estos mantenimientos son indispensables para asegurar la continuidad y seguridad del Sistema Eléctrico Nacional, así como para prevenir fallas mayores”, manifestó el comunicado del Ministerio.
+
+El anuncio repentino, tras otro previo difundido la noche del viernes 8 de noviembre, causó malestar en la ciudadanía al ver reprogramadas sus actividades cotidianas.
+
+Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre
+======================================================================
+
+El Ministerio de Energía emitió un comunicado donde detalla las razones del nuevo cronograma.
+---------------------------------------------------------------------------------------------
+
+![El nuevo cronograma fue anunciado por el Ministerio de Energía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Cortes-de-luz-1.jpg)
+
+El Ministerio de Energía y Minas anunció este 9 de noviembre la implementación de un plan de racionamiento eléctrico en todo el territorio nacional.
+
+Más noticias
+------------
+
+* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
+* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
+* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
+
+El comunicado fue difundido en los canales oficiales del **Ministerio de Energía**, donde se detallan las razones de este nuevo cronograma.
+
+¿Por qué hay un nuevo cronograma de cortes de luz?
+--------------------------------------------------
+
+Esta medida, que estará vigente durante el sábado 9 y el domingo 10 de noviembre, responde a la necesidad de realizar mantenimientos programados y de emergencia en las centrales hidroeléctricas Agoyán, San Francisco y varias plantas térmicas.
+
+Además, se ha reportado una baja histórica en los caudales de los principales embalses, lo cual ha afectado gravemente la generación de electricidad.
+
+> 📌\[COMUNICADO OFICIAL\]  
+>   
+> A la ciudadanía⤵️ [pic.twitter.com/kSL4UnixRC](https://t.co/kSL4UnixRC)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 9, 2024](https://twitter.com/RecNaturalesEC/status/1855289743598317624?ref_src=twsrc%5Etfw)
+
+Nuevo cronograma de cortes de luz en Ecuador
+--------------------------------------------
+
+El cronograma de racionamiento contempla cortes de energía de hasta 12 horas diarias, según informó el Ministerio.
+
+Esta decisión surge en un contexto de disminución sin precedentes en los caudales de las centrales hidroeléctricas Mazar, que forma parte del Complejo Hidroeléctrico Paute Integral, y Coca Codo Sinclair, lo que ha impactado severamente el suministro eléctrico del Ecuador.
+
+“Estos mantenimientos son indispensables para asegurar la continuidad y seguridad del Sistema Eléctrico Nacional, así como para prevenir fallas mayores”, subraya el comunicado del Ministerio.
+
+La institución también aseguró que se realiza un monitoreo constante de las centrales hidroeléctricas. El fin es adaptar las decisiones a la cambiante situación de los recursos hídricos y garantizar la mejor gestión posible del suministro eléctrico.
+
+> 📍¡IMPORTANTE!  
+>   
+> 📌Informamos a la ciudadanía sobre la suspensión del servicio de energía eléctrica, a escala nacional, para el sábado 09 y domingo 10 de noviembre.  
+>   
+> 🔸Conoce la programación en el siguiente enlace👉 [https://t.co/Bb3pIo3u7X](https://t.co/Bb3pIo3u7X) [pic.twitter.com/nyTyNcTfFy](https://t.co/nyTyNcTfFy)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 9, 2024](https://twitter.com/RecNaturalesEC/status/1855291716615430578?ref_src=twsrc%5Etfw)
+
+Compra de electricidad a Colombia
+---------------------------------
+
+El Ministerio anticipó que, la próxima semana, se espera concluir las negociaciones con Colombia, lo que podría representar un alivio significativo en el abastecimiento de energía.
+
+Este acuerdo permitiría la importación de electricidad para complementar la demanda energética nacional mientras persista la escasez hídrica.
+
+Por su parte, el Gobierno reafirma su compromiso con una transición hacia una matriz energética más sostenible y resiliente, en línea con los planes para diversificar las fuentes de generación de energía en Ecuador.
+
+Migrantes latinos en riesgo de exclusión de ayudas por temporal en España
+=========================================================================
+
+Migrantes perdieron sus trabajos a causa de la DANA, en Valencia.
+-----------------------------------------------------------------
+
+![Varias personas trabajan en las labores de limpieza y desescombro en Paiporta, Valencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/dana-espana-1.jpg)
+
+**Migrantes** que perdieron su vivienda o su empleo a consecuencia del temporal que azotó [España](https://www.elcomercio.com/actualidad/mundo/alerta-cataluna-intensifica-busqueda-valencia-dana.html "https://www.elcomercio.com/actualidad/mundo/alerta-cataluna-intensifica-busqueda-valencia-dana.html") corren el riesgo de quedar excluidos de las ayudas aprobadas por la Administración. Esto por no disponer de su documentación en regla: **“Se olvidaron de nosotros”**, lamenta un damnificado colombiano.
+
+### Más noticias
+
+* [Unos 16 000 clientes de telefonía fija y 37 000 de móvil continúan afectados tras la DANA](https://www.elcomercio.com/actualidad/mundo/16-000-clientes-telefonia-fija-37-000-movil-continuan-afectados-tras-dana.html "Unos 16 000 clientes de telefonía fija y 37 000 de móvil continúan afectados tras la DANA")
+* [Tras nueve días de la DANA, el panorama aún es desolador en España](https://www.elcomercio.com/actualidad/mundo/tras-nueve-dias-dana-panorama-desolador-espana.html "Tras nueve días de la DANA, el panorama aún es desolador en España")
+* [Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA](https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html "Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA")
+
+“Ya pasó durante la pandemia y ahora otra vez”, añade Jhon Hoover, que vive en la **periferia de Valencia** (este), la zona más golpeada por el temporal.
+
+Jhon se dedica a arreglar electrodomésticos y en estos días lo hace para sus vecinos sin cobrar porque “hay que ayudar”, pese a que se quedó **sin trabajo tras la riada porque el agua** se llevó su moto, con la que se desplazaba a casa de sus clientes.
+
+Tiene hijos que mantener y **se quedó sin trabajo**, pero Jhon no reside en España de forma regular y, por lo tanto, no puede acogerse a ningún Expediente de Regulación de Empleo Temporal (ERTE) excepcional como los que ya se están empezando a aplicar a los afectados por el temporal. Además, no tiene contrato ni documentación como trabajador por cuenta propia (autónomo).
+
+Sin ayudas laborales para trabajadores irregulares
+--------------------------------------------------
+
+ “Entre las ayudas que anunció el Gobierno español no hay ninguna a la que se puedan acoger los migrantes en situación irregular”, lamenta el responsable de políticas de protección social y empleo de Oxfam Intermón, Alejandro Garcia-Gil.
+
+“Estas personas son las que tienen los **trabajos más precarios**, que son importantísimos, como los jornaleros que cultivan lo que comemos o los que se dedican al cuidado de nuestros mayores. Son personas como todos y **están ayudando mucho a sus vecinos como todo el mundo**, pero se han olvidado de ellos en las ayudas”, critica.
+
+En la misma situación que Jhon se encuentran muchas de las mujeres vinculadas con la **Asociación Intercultural de Profesionales del Hogar y de los Cuidados**, que agrupa a unas 200, en su mayoría migrantes, de zonas próximas a Valencia, coordinadas por la colombiana Marcela Bahamón.
+
+En el grupo hay cuidadoras que fueron despedidas de un día para otro porque sus empleadores perdieron el trabajo o la casa y no podían seguir pagándolas.
+
+La mayoría cobraban por días o por semanas, perdieron su fuente de ingresos. No pueden pedir ayuda a la Administración porque no estaban legalmente contratadas, como también les ocurre a los jornaleros que no han vuelto al campo porque sigue inundado.
+
+Otros migrantes perdieron todos sus enseres, como la **hondureña Cinthya Torres**, que vivía interna en casa de la anciana a la que cuidaba y vio como el agua se lo llevaba todo.
+
+Ella no puede pedir ninguna ayuda de vivienda “porque lo que anunció el Gobierno es una moratoria del pago de la hipoteca para los propietarios de viviendas, pero nada para inquilinos y, menos aún, para **personas que alquilan habitaciones** o viven en la casa de empleadores o amigos sin ningún papel que lo avale”, aclara Alejandro Garcia-Gil de Oxfam Intermón.
+
+También para las ayudas a quienes hayan perdido muebles o sufrido graves desperfectos en casa “hay que presentar papeles que acrediten que resides regularmente en el país y los irregulares vuelven a quedar fuera”, continúa.
+
+Además, otra de las medidas anunciadas por el Gobierno, el incremento del Ingreso Mínimo Vital para los afectados, deja fuera a quienes no lo recibieran antes del temporal, según el activista.
+
+“**Siempre se olvidan de los mismos** \-sentencia Marcela Bahamón-. A nuestra sociedad le falta humanidad”.
+
+Fase final de Toachi Pilatón está en marcha, según Ministerio de Energía
+========================================================================
+
+La central se alimenta de los ríos Toachi y Pilatón, ubicados en la vertiente occidental de los Andes.
+------------------------------------------------------------------------------------------------------
+
+![El Ministerio de Energía prevé que la hidroeléctrica funcione lo más pronto posible.](https://www.elcomercio.com/wp-content/uploads/2024/11/Toachi-Pilaton.jpg)
+
+La central hidroeléctrica **Alluriquín**, (Toachi Pilatón) tras más de 14 años de espera, finalmente generará energía en Ecuador. Así lo detalló el Ministerio de Energía.
+
+**Más noticias**
+
+* [El Toachi Pilatón queda a punto para arrancar su operación](https://www.elcomercio.com/actualidad/negocios/complejo-hidroelectrico-toachi-pilaton-tunel-operacion.html "El Toachi Pilatón queda a punto para arrancar su operación")
+* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/uncategorized/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
+
+**Inés** **Manzano**, ministra (e) de **Energía y Minas**, señaló que la fase final del proyecto ya está en marcha.
+
+¿Cuándo comenzará a funcionar la hidroeléctrica?
+------------------------------------------------
+
+“Hemos iniciado la cuenta regresiva. A finales de diciembre ya contaremos con energía eléctrica de la central”, indicó **Manzano** en un evento donde se cerraron las compuertas de la presa del río **Toachi**, paso necesario para acumular el agua que permitirá iniciar las pruebas.
+
+El proyecto **Toachi Pilatón**, con una capacidad de 204 MW, es parte de un esfuerzo por ampliar la generación eléctrica en el Ecuador.
+
+Durante el acto, estuvieron presentes funcionarios como el viceministro de **Electricidad** y Energía Renovable, Fabián Calero Freire; el gerente general de **Celec** EP, Gustavo Sánchez Íñiguez. Además de técnicos de la Unidad de Negocio **Hidrotoapi** y representantes de las empresas contratistas.
+
+> 📍 BOLETÍN DE PRENSA  
+>   
+> Inicia la cuenta regresiva para la generación de energía de Toachi Pilaton después de 14 años  
+>   
+> ✅ Más información: [https://t.co/K4uidRAcPM](https://t.co/K4uidRAcPM) [pic.twitter.com/9W0WQzJXFh](https://t.co/9W0WQzJXFh)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 9, 2024](https://twitter.com/RecNaturalesEC/status/1855091178351309028?ref_src=twsrc%5Etfw)
+
+Llenado del embalse
+-------------------
+
+El llenado del embalse se llevará a cabo de manera gradual en un periodo de 45 días. Esto, para evitar afectaciones en la **infraestructura** de la presa y los taludes del río.
+
+Posteriormente, comenzarán las pruebas de **funcionamiento** en las unidades de generación.
+
+La primera unidad se espera que esté operativa a finales de **diciembre**, la segunda en **enero** y la tercera en **febrero**, con lo cual se alcanzará la potencia total de 204 MW.
+
+¿Dónde se encuentra la central Toachi Pilatón?
+----------------------------------------------
+
+La central **Toachi Pilatón**, que registra un avance del 98%, se encuentra en los límites de **Pichincha**, **Santo Domingo** de los Tsáchilas y **Cotopaxi**.
+
+Esta central se alimenta de los ríos **Toachi** y **Pilatón**, ubicados en la vertiente occidental de los Andes, lo que permitirá aprovechar la generación eléctrica durante los períodos de estiaje en la vertiente oriental del Ecuador.
+
+CATS, la buena comida de un restaurante clásico de Quito
+========================================================
+
+CATS Restaurante fue un innovador de las noches quiteñas, desde que abrió sus puertas en los 90, en la zona de La Mariscal.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Álvaro Hernández (d) es el chef de CATS Restaurante, un icono de la ciudad de Quito, y el Señor del Sombrero.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-42.jpg)
+
+**CATS** es de esos pocos **restaurantes** que ha sabido permanecer en el **tiempo**. No es una tarea fácil. Hubo tantos restaurantes, bares y discotecas que aparentaban ser sólidos para mantenerse en pie. Muchos no pudieron superar la prueba de las tres décadas. Eso no pasó con **CATS**, que lleva ya **35 años** ofreciendo **buena comida** y un **buen ambiente**. Es ya un **clásico de la gastronomía de Quito.** Y hasta allá fue el **Señor del Sombrero**, en esta vuelta a **EL COMERCIO**, para disfrutar de lo **nuevo** sin dejar de lado la **memoria**.
+
+### Más noticias
+
+* [Carbonara auténtica, un viaje a Roma desde Guayaquil](https://www.elcomercio.com/videos/sabores-video/carbonara-autentica-viaje-alfiume-restaurante.html "Carbonara auténtica, un viaje a Roma desde Guayaquil")
+* [Iche, el sabor de Manabí que renace desde las raíces](https://www.elcomercio.com/empresariales/iche-el-sabor-manabi-que-renace-desde-las-raices.html "Iche, el sabor de Manabí que renace desde las raíces")
+* [Cafetería Modelo, 74 años de tradición en la gastronomía de Quito](https://www.elcomercio.com/tendencias/gastronomia/cafeteria-modelo-74-anos-tradicion-gastronomia-quito.html "Cafetería Modelo, 74 años de tradición en la gastronomía de Quito")
+
+CATS irrumpe en el Quito de los 90
+----------------------------------
+
+Para dimensionar más lo que representa **CATS** como un **restaurante innovador** en Quito, habría que pensar cómo era la vida nocturna para adolescentes y jóvenes de los años 80. Había pocos lugares a donde ir por las noches. Las fiestas eran en casas o las organizaban el curso de algún colegio en alguna de las sedes que los nacidos en otras provincias tenían en Quito.
+
+**CATS** fue uno de los **innovadores** de los restaurantes de Quito en los años 90. En el fondo, es uno de los testigos más importantes de una época, la de los orígenes de La Mariscal como epicentro de la naciente movida nocturna quiteña. Abrió sus puertas en 1990, cuando esos adolescentes y jóvenes de los 80 ya trabajaban y buscaban alguna experiencia diferente que no excluyera la diversión. Y la encontraron en este restaurante, cuyo nombre provino en mucho por al musical de Andrew Lloyd Weber[.](https://es.wikipedia.org/wiki/Cats "https://es.wikipedia.org/wiki/Cats")
+
+**Esa experiencia nueva era la comida.** La idea de pasar un buen momento, tomarse un buen trago, con buena música, fundamentalmente rock, y, a la vez, comer bien, no era común. Y fue bien recibido; tanto, que ha perdurado hasta estos días y en estos tiempos en que todo debe ser efímero para dar paso a la constante irrupción de lo nuevo.
+
+Los cambios necesarios en CATS
+------------------------------
+
+Con la llegada del covid-19, el chef de CATS, **Álvaro Hernández**, y su esposa **Michelle Burbano,** sintieron que debían buscar un nuevo espacio. Su local original era muy acogedor, pero quizá no tan apropiado para una pandemia que obligó a los individuos a distanciarse socialmente. Además, La Mariscal, como epicentro de la vida nocturna de Quito, entró en crisis. Y no pudieron encontrar mejor lugar que el que tiene ahora en Cumbayá, en la calle Manuela Sáenz.
+
+**CATS restaurante** tiene un estilo moderno, diferente a ese nostálgico diseño de las casas modernistas de La Mariscal. Tiene grandes ventanales que permiten gozar de la vista hacia el valle de Tumbaco y más allá. Mantiene elementos de la decoración original: afiches de películas y de música, sobre todo rock & roll: Pink Floyd, Led Zeppelin, Jimmy Hendrix. Eso permite que uno disfrute del nuevo local con algo de memoria, que siempre viene bien.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-25-1024x683.jpg)
+
+El atardecer en Cumbayá, en donde se encuentra ahora CATS. Foto: Diego Pallero / EL COMERCIO
+
+CATS se renueva con un homenaje al Paiche
+-----------------------------------------
+
+Si el año pasado, el chef Álvaro Hernández nos sorprendió con sus riñones, este año, hace no más de dos semanas, está innovando su menú con el paiche, un pescado amazónico que tiene una textura firme, ideal para ir con su salsa americana con mariscos, o la holandesa, que nos ofrece en una tarde de noviembre.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-26-1024x683.jpg)
+
+Paiche en salsa americana con mariscos (izq.) y en salsa holandesa. Dos preparaciones distintas que alegran el sabor de este pescado amazónico. Foto: Diego Pallero / EL COMERCIO
+
+Paiche, en salsa americana y mariscos
+-------------------------------------
+
+Con este plato, **Álvaro** nos muestra su conocimiento de los productos con los que trabaja y el valor que le da a la calidad y sobre cómo proceder con ellos. Hay **mucha técnica**, que no excluye la **sencillez**, que deja en el paladar una **eclosión de sabores.**
+
+El pescado va a la plancha. Aparte, en una sartén caliente combina primero aceite de cebolla y de ajo. Luego van los primeros mariscos: **calamar** y **mejillón**, a los que agrega la **salsa**, preparada previamente con las **cáscaras del camarón.** Hay un perfume que evoca a mar, aunque sepamos que la estrella del plato es el paiche amazónico. Es un encuentro feliz, al que luego se suma el camarón, cocido brevemente para que mantenga su textura.
+
+Cuando emplata, coloca una cama de vegetales con un toque ahumado. Hay un ingrediente que sorprende y se vuelve interesante en este plato, que le da una textura diferente y un contraste geográfico: habas. Se trata de un plato que bien valió la pena su incorporación al menú.
+
+Paiche, en salsa holandesa
+--------------------------
+
+En este plato, se entiende la meticulosidad con la que un cocinero debe trabajar sus ingredientes. Y eso hizo Álvaro al elaborar la salsa holandesa. Fue una tarea que demanda paradójicamente agitación y paciencia.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-27-1024x683.jpg)
+
+La meticulosidad con la que trabaja la salsa holandesa se percibe desde el primer momento en que se la prueba con el paiche. Foto: Diego Pallero / EL COMERCIO
+
+El toque de **vinagre** y la yema del **huevo** llegan a tener dos cosas que van muy bien con los pescados: una **textura cremosa y uniforme**, con el toque de **acidez** tan agradable. El pescado a la plancha mantuvo su consistencia y lo coloca sobre una piedra, que fue calentada previamente en el horno. Y los vegetales le dan la frescura pertinente a un plato tan sabroso.
+
+**CATS es un restaurante de Quito inolvidable**. El buen ambiente, el humor, el sentido de lo bohemio se destacan en este lugar, que no perdió sus raíces de La Mariscal, pero que supo mirar hacia adelante.
+
+Ajustes en los horarios escolares por cortes de luz en Ecuador
+==============================================================
+
+El ajuste de los horarios escolares se debe a los cambios en los cortes de luz en Ecuador.
+------------------------------------------------------------------------------------------
+
+![Los nuevos horarios fueron compartidos por el Ministerio de Educación.](https://www.elcomercio.com/wp-content/uploads/2024/11/Clases-horarios.jpg)
+
+El **Ministerio de Educación** informó sobre el funcionamiento de los **horarios escolares** del 11 al 15 de noviembre debido a los **cortes de luz en Ecuador[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")**
+
+### Más noticias
+
+* [Ecuador tiene nuevos horarios de cortes de luz hasta el jueves 14 de noviembre](https://www.elcomercio.com/actualidad/ecuador/ecuador-nuevos-horarios-luz-14-noviembre.html "Ecuador tiene nuevos horarios de cortes de luz hasta el jueves 14 de noviembre")
+* [Cortes de luz en Quito para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-sabado-9-de-noviembre.html "Cortes de luz en Quito para este sábado 9 de noviembre")
+* [Cortes de luz en Guayaquil para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-sabado-9-de-noviembre.html "Cortes de luz en Guayaquil para este sábado 9 de noviembre")
+
+Este comunicado detalla que estas medidas se establecen en función de las **actualizaciones** del Operador Nacional de Electricidad (**Cenace)**.
+
+Horarios escolares en Ecuador:
+------------------------------
+
+* **Jornada matutina:** tanto el ingreso como la salida se mantienen en los horarios habituales.
+* **Jornada vespertina:** comienza en el horario establecido y culmina a las 17:00.
+* **Jornada nocturna:** se desarrollará de manera no presencial, y los docentes implementarán recursos académicos y guías pedagógicas para asegurar la continuidad educativa.
+
+Por otro lado, el **Ministerio de Educación** señala que las instituciones educativas particulares, fiscomisionales y municipales pueden optar por adoptar estas medidas o, si lo prefieren, establecer sus propias estrategias, siempre que se garantice la continuidad del **proceso educativo.**
+
+Cortes de luz en Ecuador se amplían a ocho horas 
+-------------------------------------------------
+
+Por su parte, la ministra de **Energía** encargada, Inés **Manzano**, abordó este viernes 8 de noviembre la **crisis energética** en Ecuador.
+
+En una entrevista para Ecuavisa, anticipó que los cortes de luz se extenderán a ocho horas a partir de la próxima semana, ya que el país no cuenta con las condiciones adecuadas para mantener cortes de seis horas. Esta decisión se tomó tras un análisis y monitoreo diario de las **condiciones de las hidroeléctricas.**
+
+Asimismo, con base en estas evaluaciones, se establecen cronogramas en bloques que abarcan de domingo a jueves, permitiendo de este modo que las actividades puedan programarse de acuerdo con la planificación.
+
+“Debido a que las **lluvias** están previstas para el fin de semana, es necesario preservar la poca agua disponible en los embalses”, explicó Manzano.
+
+Cortes de luz hasta el jueves 14 de noviembre 
+----------------------------------------------
+
+En cuanto a la **programación** de los **cortes de luz** en Ecuador, desde el domingo 10 hasta el jueves 14 de noviembre, se incluyen cortes de ocho horas para el **sector** **residencial**.
+
+Por otro lado, los sectores industriales tendrán franjas horarias variables según la provincia.
+
+Adicionalmente, cada **empresa eléctrica** informará los cronogramas de los sectores que cubren. Las entidades a cargo de la distribución del servicio en Ecuador son:
+
+* Corporación Nacional de Electricidad (CNEL)
+* Empresa Eléctrica Quito
+* Emel Norte
+* Empresa Eléctrica Cotopaxi
+* Empresa Eléctrica Ambato Regional Centro Norte
+* Empresa Eléctrica Riobamba
+* Centro Sur
+* Empresa Eléctrica Azogues
+* Empresa Eléctrica Regional del Sur
+
+Para finalizar, se informa que para conocer el horario de cortes en cada sector, se puede visitar la página web de la empresa eléctrica correspondiente a cada provincia o el sitio web del Ministerio de Energía, donde están disponibles los cronogramas de las nueve entidades.
+
+¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?
+======================================================================
+
+La Vuelta a Ecuador de ciclismo contará con 15 equipos que estarán presentes durante siete etapas de trayecto y disputarán seis maillots.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Bayron Guamá, cuatro veces ganador de la Vuelta a Ecuador, en una competencia ciclística.](https://www.elcomercio.com/wp-content/uploads/2024/11/Snapinsta.app_448763421_17990459402655416_3505745869362022165_n_1080.jpg)
+
+La **Vuelta a Ecuador** de ciclismo está por arrancar y ya tiene a sus equipos confirmados para la competencia. El evento que se llevará a cabo entre el 11 y el 17 de noviembre del 2024 contará con 15 equipos de acuerdo a la **Federación Ecuatoriana de Ciclismo (FEF)**.
+
+A partir del lunes 11 de noviembre, los elencos iniciarán su rodaje desde Calacalí (Pichincha) yen la primera de las **siete etapas** que contemplará el evento. El fin de la carrera ciclística será en Quito, adonde ingresarán los participantes tras haber recorrido las regiones costa y sierra del país.
+
+### Más noticias:
+
+* [Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala](https://www.elcomercio.com/deportes/bayron-guama-vuelta-guatemala-ecuador.html "Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala")
+* [¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?](https://www.elcomercio.com/deportes/ciclismo/cuando-vuelta-ciclistica-ecuador-2024-equipos.html "¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?")
+* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
+
+Dentro de la quincena de escuadras que tendrán acción dentro del torneo, estas se dividen tres categorías. Los equipos presentes se encuentran agrupados e**n Continentales UCI, internacionales y nacionales.**
+
+Los equipos participantes de la Vuelta a Ecuador
+------------------------------------------------
+
+Dentro de la categoría de equipos continentales se ubican cuatro escuadras. En el caso de los internacionales están presentes cinco y en las nacionales, seis.
+
+Los equipos continentales son el **Movistar Best PC, el Team Saitel, el Team Banco Guayaquil Bianchi y el Team Medellín EPM.** Dentro del lote de los internacionales se ubican el **BTR Tacing, el Orígenes Coffe, el Politáchira Heidy Lee Sport, el HINO One – La Red y el Esparza Training.**
+
+Los planteles nacionales que estarán dentro de la Vuelta a Ecuador son el **Team C&S Technology, el C.F.E. Halcones Unidos, el Glant Toscana, Campo Fértil, C.D.E.A.R Sin Fronteras y COAC San Gabriel Cinecable**.
+
+¿Qué maillots se entregarán durante la Vuelta?
+----------------------------------------------
+
+Dentro de la Vuelta a Ecuador se otorgarán **seis maillots**, de los cuales cuatro podrán rotar a medida de la competencia y se definirá cuando esta termina. Estos tendrán distintivos de colores y se otorgarán a partir de distintos criterios.
+
+El **maillot amarillo** corresponderá al líder general individual y va para el puntero y ganador de la Vuelta. Para obtenerlo se sumarán los tiempos de cada corredor en todas las etapas y se lo llevará el que menor tiempo contabilice.
+
+El **maillot de pepas rojas** será destinado para la clasificación de montaña. Este suma los puntos conseguidos en tales tramos y se lo adjudica el que mayor puntaje consiga[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
+
+El **maillot verde** de metas volantes se otorga a partir de la sumatoria de puntos por cada corredor al paso de lugares señalados. El líder es quien obtenga más puntos.
+
+El **maillot blanco** se destina para el mejor ciclista sub-23. Para este se ocupan los mismos criterios que para el maillot amarillo.
+
+En el caso de los **maillots rojo y azul**, estos varían en función de cada etapa. El primero se lo otorga al ganador de la etapa y el segundo al ciclista combativo.
+
+¿Cuál es el recorrido de la Vuelta a Ecuador?
+---------------------------------------------
+
+En el evento, los ciclistas recorrerán un total de **1.125,2 kilómetros**, distribuidos a lo largo de varias etapas.
+
+La primera etapa comenzará en **Calacalí** y finalizará en **La Concordia**, con un recorrido de 157,5 km. A continuación, se disputarán las siguientes etapas: **Valle Hermoso – Babahoyo**, con 239,23 km; **El Arenal (Chimborazo) – Alausí**, con 115,9 km; y el **circuito de Riobamba**, con 110,1 km.
+
+Las tres etapas restantes serán: desde **Urbina** (Chimborazo) hasta **Machachi**, con 152 km; de **Machachi** a **Cotacachi**, con 182,8 km; y finalmente, el trayecto entre **Atuntaqui y la Mitad del Mundo**, con 158,6 km, que servirá como cierre del evento.
+
+Nutricionista revela el error que todos cometemos al levantarnos
+================================================================
+
+El experto recomendó algunos consejos para activar el cuerpo de forma saludable.
+--------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/levantarnos-El-Comercio.jpg)
+
+Cada persona tiene un hábito diferente al despertarse: algunos se estiran, otros beben agua, revisan sus celulares, entre otros. Sin embargo, hay un error que cometen casi todas las personas y que un especialista en nutrición no recomienda.
+
+Es normal que, después de hacer toda su rutina mañanera, cada individuo proceda a desayunar. Vicente Clemente, catedrático de Nutrición de la Universidad Europea, explicó que esto debería cambiar.
+
+“**Nos levantamos y nos llevamos a la boca un plato de cereal.** Lo estamos haciendo mal”, agregó Clemente.
+
+El nutricionista expuso en ‘Health Stat’ que las investigaciones realizadas hasta el momento acerca de los beneficios del desayuno para la salud del cuerpo humano no son concluyentes y que pone en duda que el ser humano está biológicamente diseñado para ello.
+
+“Si analizamos la evolución del hombre, que es la que nos permite entender el sistema orgánico actual que tenemos y cómo funciona, **podemos ver que, primero, nunca hemos desayunado y, segundo, somos la única especie que se ha violado una ley** biológica que implica que para recibir cualquier tipo de energía debemos gastarla”, detalló.
+
+Según el experto, advirtió que este hábito en la vida podría llegar a ser peligroso, ya que puede causar enfermedades a largo plazo, como la diabetes, enfermedades cardiovasculares, neurodegenerativas, entre otras. “Tenemos una inconsistencia evolutiva brutal”, insistió el nutricionista.
+
+¿Cómo activar el cuerpo de forma saludable?
+-------------------------------------------
+
+El nutricionista Vicente Clemente da algunos consejos para activar el cuerpo de la mejor manera:
+
+### Activación del cortisol
+
+Es la principal hormona del estrés; esta es de gran ayuda, ya que es la encargada de preparar al cuerpo para moverse y buscar comida, lo que es una de las funciones biológicas. El experto aconseja no quedarse tanto tiempo sentado desde el momento en que se despierta y recomienda moverse más.
+
+### Tome el sol
+
+Para la estimulación del cuerpo, es importante aprovechar los primeros rayos del sol, siempre que sea posible. “Ahora mismo no tenemos eso, porque nada más despertarnos nos subimos al coche y de ahí a la oficina, donde la luz es artificial. De ninguna manera nos estiramos hacia los rayos del sol de la mañana, que son diferentes del sol del mediodía o de la tarde”, comentó el doctor.
+
+El profesor aseguró que hacer estas cosas le será de mucha ayuda para sentirse con energía a lo largo del día. “Activaremos nuestro metabolismo temprano en la mañana, por lo que comenzaremos a quemar grasa mucho antes”, afirmó.
+
+En caso de que no pueda realizar algunas de estas actividades, el nutricionista comentó que tomar una ducha con agua fría es una buena alternativa debido a los beneficios que esta tiene.
+
+“Es una forma de darle al cuerpo una señal química lo más real y evolutiva posible. Además, estas duchas estimulan el sistema inmunológico lo que rebaja la posibilidad de contraer enfermedades”, manifestó.
+
+Después de realizar esta actividades, es importante que desayune o que lo consulte con su médico de cabecera, ya que no todos los organismos son iguales y algunas personas necesitan de esta ingesta.
+
+Vicepresidenta Verónica Abad fue suspendida
+===========================================
+
+El Ministerio del Trabajo informó sobre la resolución este 8 de noviembre de 2024.
+----------------------------------------------------------------------------------
+
+![El Ministerio del Trabajo informó sobre la resolución.](https://www.elcomercio.com/wp-content/uploads/2024/11/Lluvia-en-Quito-reservas--2.jpg)
+
+El **Ministerio** de **Trabajo** sancionó a la vicepresidenta de la República, **María Verónica Abad Rojas**, con una suspensión temporal sin remuneración por 150 días[.](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad")
+
+Más noticias
+------------
+
+* [Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE](https://www.elcomercio.com/actualidad/politica/audiencia-denuncia-veronica-abad-contra-daniel-noboa-instalo-tce.html "Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE")
+* [TCE sanciona a Verónica Abad ¿Cuál fue el motivo?](https://www.elcomercio.com/actualidad/politica/tce-sanciona-veronica-abad-motivo.html "TCE sanciona a Verónica Abad ¿Cuál fue el motivo?")
+* [Verónica Abad suma dos denuncias por violencia política de género](https://www.elcomercio.com/actualidad/politica/veronica-abad-nueva-denuncia-reemplazar-daniel-noboa.html "Verónica Abad suma dos denuncias por violencia política de género")
+
+Esto se debe a un abandono injustificado del trabajo, conforme al Art. 48 literal b) de la Ley Orgánica del Servicio Público (LOSEP).
+
+Suspensión de Verónica Abad
+---------------------------
+
+La medida responde a que **Abad** no se presentó en **Ankara**, **Turquía**, antes del 1 de septiembre de 2024, como se le ordenó mediante el **Decreto Ejecutivo No. 353.**
+
+La **Vicepresidenta** llegó el 9 de septiembre, sin justificación del retraso, lo que implicó una ausencia de cinco días consecutivos en su destino asignado.
+
+Durante la audiencia del 7 de noviembre, representantes de la **Presidencia** y del **Ministerio** de **Relaciones Exteriores** señalaron que se ofrecieron las condiciones necesarias para su traslado, con notificación previa sobre la exigencia de presentarse a tiempo.
+
+La defensa de Abad argumentó que no se contaba con pruebas para sostener la falta.
+
+La **sanción** impuesta se enfoca en equilibrar la gravedad de la falta con el principio de proporcionalidad, evitando arbitrariedades en el poder sancionador estatal, según detalla la resolución del **Ministerio del Trabajo.**
+
+TCE sanciona a Verónica Abad
+----------------------------
+
+El Tribunal Contencioso Electoral (**TCE**) emitió una sanción contra la vicepresidenta **Verónica Abad** por realizar actos de **campaña anticipada.**
+
+La denuncia, presentada por J**uan Esteban Guarderas**, vocal del Consejo de Participación Ciudadana y Control Social, surgió a mediados de año.
+
+El **TCE** basó su fallo en el artículo 278, numeral 7, del **Código de la Democracia**, que considera falta grave la realización de actos de precampaña electoral.
+
+Bajo el principio de proporcionalidad, el tribunal determinó que **Abad** incurrió en dicha infracción, aunque aclaró que su conducta no generó una afectación significativa al proceso electoral en su conjunto.
+
+Por esta razón, el organismo concluyó que una multa de 8 500 dólares sería suficiente para disuadir futuras infracciones por parte de Abad y otros actores políticos.
+
+Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático
+====================================================================================
+
+Durante su primer mandato, Trump retiró a EE.UU. del Acuerdo de París.
+----------------------------------------------------------------------
+
+![Fotografía que muestra a Donald Trump, hablando durante un mitin en Michigan (Estados Unidos).](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-efe.jpg)
+
+Washington, 9 nov (EFE).- Donald Trump regresa a la Casa Blanca en enero con la intención de demoler los cimientos de las actuales políticas medioambientales de Estados Unidos, favorecer los combustibles fósiles y abandonar cualquier tipo de liderazgo internacional en la lucha contra el cambio climático.
+
+Su victoria en las elecciones estadounidenses del martes se produjo pocos días antes de que el mundo inicie el 11 de noviembre en Azerbaiyán la COP29, la reunión de la ONU para avanzar los objetivos de la lucha global contra la crisis climática.
+
+Y la segunda presidencia del político republicano es una de las peores noticias que muchos delegados de COP29 querían escuchar: la llegada al poder de un negacionista del cambio climático.
+
+En 2020, durante su primer mandato (2017-2021), Trump retiró a EE.UU. del Acuerdo de París al rechazar la ciencia y calificar la crisis climática como un “fraude”. Cuatro años después, sus opiniones no sólo no han cambiado, sino que su negacionismo se ha visto reforzado.
+
+**El negacionsimo climático de Trump**
+--------------------------------------
+
+En agosto de este año, durante una entrevista con el empresario Elon Musk en la red social X, Trump expresó su rechazo frontal a la lucha contra el cambio climático.
+
+“Lo que no entiendo es que la gente hable de calentamiento global o cambio climático pero nunca hable del 'calentamiento nuclear'”, explicó en referencia al arsenal de armas nucleares que poseen varios países.
+
+“Para mí el gran problema no es el cambio climático. No lo es. Todo es un problema, pero son grados. Para mí el gran problema es el poder nuclear. El poder nuclear es tan grande”, añadió entre palabras de aprobación de Musk.
+
+El Proyecto 2025, redactado por el laboratorio conservador Heritage Foundation y que es considerado por numerosos analistas como la guía de ruta para la segunda presidencia de Trump, dedica un capítulo a la Agencia de Protección Medioambiental (EPA en inglés), una de las principales herramientas de Washington para luchar contra la crisis climática.
+
+Proyecto 2025 acusa a EPA de ser “un caldo de cultivo para la expansión de la influencia y el control del Gobierno federal en toda la economía”, infiltrada por activistas que ignoran “la voluntad del Congreso”, por lo que plantea una radical reestructuración “para volver a lo básico”, que se ejecutará el primer día de Trump en la Casa Blanca con una orden ejecutiva.
+
+Fiel a su papel como material explosivo para demoler la arquitectura reguladora de Estados Unidos, el texto también aboga por la desaparición de la Administración Nacional Oceanográfica y Atmosférica (NOAA en inglés), que entre otras misiones estudia el clima y vigila los océanos.
+
+**La guerra de guerrillas medioambientalista**
+----------------------------------------------
+
+Aunque Trump se quiso distanciar del Proyecto 2025 durante la campaña electoral, pocos dudan que el republicano deshará tanto como pueda el andamiaje legislativo y normativo que constriñe a los sectores más contaminantes y favorece la economía verde.
+
+En octubre, en un mitin, el entonces candidato aseguró que en cuanto vuelva al poder el 20 de enero van a “perforar, cariño, perforar”, en referencia a la expansión del sector petrolífero.
+
+El republicano también quiere cancelar la Ley de Reducción de la Inflación del actual presidente, Joe Biden, que destina centenares de miles de millones de dólares a descarbonizar la economía del país.
+
+Pero una cosa son las intenciones y otra los hechos. El movimiento medioambientalista estadounidense ya tiene una estrategia para intentar parar los pies a Trump. Básicamente, una guerra de guerrillas jurídica.
+
+“En la primera presidencia de Trump, Sierra Club presentó más de 300 demandas judiciales que bloquearon muchos de sus intentos de eliminar las protecciones medioambientales”, declaró el jueves en una rueda de prensa Ben Jealous, director ejecutivo de Sierra Club.
+
+“Nuestra operación no sólo está preparada, sino que ya está en marcha para asegurar que quienes intentan abusar del poder del Gobierno tengan que rendir responsabilidades”, añadió.
+
+Líderes de otras organizaciones medioambientales también destacan que aunque Trump puede sacar de nuevo a EE.UU. del Acuerdo de París, su presidencia sólo durará cuatro años y el próximo presidente podrá reintegrar al país en el tratado el primer día de su mandato, como ya hizo en 2021 Biden. EFE
+
+jcr/mgr/amg
+
+Al menos 44 palestinos muertos en Gaza en el último día; 43 552 en 400 días de guerra
+=====================================================================================
+
+Estos datos no incluyen a los en torno a 10 000 cadáveres entre los escombros o en las carreteras, según Sanidad
+----------------------------------------------------------------------------------------------------------------
+
+![Un periodista palestino inspeccionando refugios dañados tras un ataque aéreo israelí en el complejo del Hospital de los Mártires de Al Aqsa en Deir Al Balah, en el centro de la Franja de Gaza, el 9 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/0be16bee3ae633be39554fc1c2876c3fc7278de7.jpg)
+
+Los ataques del Ejército israelí mataron al menos a 44 palestinos en la Franja de Gaza en la última jornada, lo que hace 43 552 víctimas mortales de la ofensiva israelí el día que esta cumple 400 días, según el balance diario del Ministerio de Sanidad del enclave, dependiente de Hamas.
+
+Otras 81 personas resultaron heridas a lo largo de Gaza, elevando el cómputo total de heridos a 102.765 en más de 13 meses.
+
+Estos datos no incluyen a los en torno a 10 000 cadáveres que siguen entre los escombros o en las carreteras según las estimaciones de Sanidad, y a los que los equipos de Defensa Civil aún no han podido llegar todavía. Esta situación se agrava especialmente en el norte de Gaza, donde Israel mantiene un asedio que no permite a este servicio de emergencias trabajar desde hace 18 días.
+
+Además, un elevado pero aún desconocido número de gazatíes han sido detenidos durante las operaciones israelíes y llevados a cárceles en su territorio. El Gobierno de Gaza, en manos de la organización islamista Hamás, estima que son más de 5 200 en un año.
+
+El viernes 8 de noviembre, el Ejército liberó a 20 detenidos que habían hecho presos hace unos 20 días, la mayoría en las asediadas Yabalia, Beit Lahia y Beit Hanoun, durante la incursión terrestre de las tropas, según la agencia palestina de noticias Wafa.
+
+Solo en Beit Lahia, las fuerzas armadas detuvieron a 44 trabajadores sanitarios y pacientes del hospital Kamal Adwan, mientras el centro tenía casi 200 pacientes. Su director, Hussam Abu Safiya, denunció entonces que el centro había perdido la capacidad de atenderlos.
+
+Los liberados este sábado entraron a Gaza por el cruce de Kerem Shalom, en el extremo sur de la Franja, y fueron llevados al hospital Nasser de la ciudad de Jan Yunis.
+
+Por otro lado, en la ciudad de Gaza, Wafa denunció un bombardeo en el barrio oriental de Shujaiya en el que murieron al menos cinco palestinos.
+
+Esta noche, otro ataque israelí contra la capital mató en una escuela que albergaba refugiados a seis personas, entre ellos dos jóvenes periodistas y su padre. Los otros fallecidos fueron una pareja, en la que la mujer estaba embarazada, y su hijo, un niño.
+
+En Beit Hanoun, un proyectil de artillería mató esta mañana a otras seis personas.
+
 Musk podría aprovechar su apoyo a Trump y desplazar a Zuckerberg en la élite tecnológica 
 =========================================================================================
 
@@ -100,6 +712,26 @@ Según la **OMS** ([Organización Mundial de la Salud](https://www.who.int/es "h
 Es crucial recordar que estos meses no son sinónimo de felicidad para todos. Para quienes enfrentan problemas emocionales, cada reunión y cada festividad pueden aumentar la sensación de soledad o insuficiencia. Así, mientras algunos disfrutan de las festividades, otros luchan en silencio con sus propios demonios.
 
 No es cuestión de ignorar las fiestas, sino de abrir espacios de apoyo y empatía para aquellos que las enfrentan con dificultad. Promover el respeto hacia diferentes emociones y reconocer la importancia de la salud mental en diciembre es esencial para construir un entorno en el que todos, independientemente de su situación emocional, encuentren algo de paz. Diciembre, por ejemplo, debería ser una época para celebrar, pero también para cuidar y acompañar a quienes lo necesitan.
+
+Dos lecciones de Trump a los candidatos
+=======================================
+
+Necesitamos un candidato honesto que promueva empleo, seguridad, inversiones y combata la corrupción.
+-----------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+La victoria de **Donald Trump**  en las **elecciones** de **Estados Unidos** debe ser materia de estudio para los  **candidatos ecuatorianos** y sus **equipos**. Los estrategas estudian medios, redes, estrategias, mensajes, ideologías, **tendencias**, pero no estudian dos claves del **propio candidato**.
+
+La primera clave es decir la verdad, sin ambages; los **críticos** pueden tildarle de **misógino**, xenófobo y racista, pero los **electores** conocen al **candidato**. La segunda es **explicar** las **medidas** que adoptará para solucionar los **problemas** de la gente. **Kamala** tenía la sonrisa del mejor candidato, pero no comunicó su **programa**. **Trump** con su cara malhumorada sintonizaba mejor con el electorado.
+
+**Trump** ofreció **bajar impuestos** a contribuyentes y empresas, **atraer capitales**, imponer aranceles a las **importaciones** para proteger la **industria nacional**, crear empleo y **generar riqueza**; son recetas de derecha y nuestros **candidatos** tienen vergüenza de ser de **derecha**.
+
+Nuestro **candidato presidente** seguramente sufrirá, como **Kamala**, la **contradicción** entre promesas **electorales** y **realidades gubernamentales**. Sus estrategas enfrentan el imposible desafío de ofrecer eficacia siendo ineficaz, ofrecer **transparencia** viviendo de relatos, ofrecer luz estando en **tinieblas**.
+
+La **candidata** del **socialismo**, esperanzada en la caída de su **adversario**, sufre los **embates** de la realidad. El techo de su **candidatura** se mantiene firme en la **medida** en que se consolidan las evidencias de **corrupción** de los **exmandatarios**, de sus líderes, de sus **estrategas**, de los **controladores** que en el gobierno de la **revolución ciudadana** se dedicaron a chantajear y robar.
+
+Necesitamos un **candidato** que diga la verdad, que prometa obras, empleo, **seguridad** para los capitales, que ofrezca cortar la mano a los ladrones, despedir a los vagos, cobrar los **impuestos** a los evasores, que abra el país a la **inversión** en **energía**, en **petróleo**, en minería, en agricultura. Cuando empiece la **campaña** quizá aparezca el **candidato** que entendió la **victoria** de **Trump**.
 
 Así estuvo el feriado de noviembre para el sector turístico y hotelero de Ecuador
 =================================================================================
@@ -193,26 +825,6 @@ Comprendemos que principalmente estos cortes de luz se deben a la tremenda sequ�
 Esperamos que el esfuerzo que está haciendo el gobierno actual y según las noticias que se nos ha transmitido, se cumplan esos pronósticos y en unas pocas semanas más ya volvamos a la normalidad y que esta situación no se vuelva a repetir, pues resulta inadmisible que en los momentos actuales con tantos avances tecnológicos, sigamos sumidos en estas anormalidades, que nunca pensamos podrían volver a sucederse, lo cual nos remonta a la época del Presidente Sixto Durán Ballén, en los años 1992 al 1996, que significó algo que realmente quedó marcado como un período muy triste y desolador de nuestra época republicana. 
 
 Hernán Patricio Orcés Salvador 
-
-Dos lecciones de Trump a los candidatos
-=======================================
-
-Necesitamos un candidato honesto que promueva empleo, seguridad, inversiones y combata la corrupción.
------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-La victoria de **Donald Trump**  en las **elecciones** de **Estados Unidos** debe ser materia de estudio para los  **candidatos ecuatorianos** y sus **equipos**. Los estrategas estudian medios, redes, estrategias, mensajes, ideologías, **tendencias**, pero no estudian dos claves del **propio candidato**.
-
-La primera clave es decir la verdad, sin ambages; los **críticos** pueden tildarle de **misógino**, xenófobo y racista, pero los **electores** conocen al **candidato**. La segunda es **explicar** las **medidas** que adoptará para solucionar los **problemas** de la gente. **Kamala** tenía la sonrisa del mejor candidato, pero no comunicó su **programa**. **Trump** con su cara malhumorada sintonizaba mejor con el electorado.
-
-**Trump** ofreció **bajar impuestos** a contribuyentes y empresas, **atraer capitales**, imponer aranceles a las **importaciones** para proteger la **industria nacional**, crear empleo y **generar riqueza**; son recetas de derecha y nuestros **candidatos** tienen vergüenza de ser de **derecha**.
-
-Nuestro **candidato presidente** seguramente sufrirá, como **Kamala**, la **contradicción** entre promesas **electorales** y **realidades gubernamentales**. Sus estrategas enfrentan el imposible desafío de ofrecer eficacia siendo ineficaz, ofrecer **transparencia** viviendo de relatos, ofrecer luz estando en **tinieblas**.
-
-La **candidata** del **socialismo**, esperanzada en la caída de su **adversario**, sufre los **embates** de la realidad. El techo de su **candidatura** se mantiene firme en la **medida** en que se consolidan las evidencias de **corrupción** de los **exmandatarios**, de sus líderes, de sus **estrategas**, de los **controladores** que en el gobierno de la **revolución ciudadana** se dedicaron a chantajear y robar.
-
-Necesitamos un **candidato** que diga la verdad, que prometa obras, empleo, **seguridad** para los capitales, que ofrezca cortar la mano a los ladrones, despedir a los vagos, cobrar los **impuestos** a los evasores, que abra el país a la **inversión** en **energía**, en **petróleo**, en minería, en agricultura. Cuando empiece la **campaña** quizá aparezca el **candidato** que entendió la **victoria** de **Trump**.
 
 Ensalada arcoíris con garbanzos y aguacate
 ==========================================
@@ -443,607 +1055,3 @@ Además, solo hay un puente peatonal, que no tan pocas personas usan. Está entr
 ![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-46-1-1024x683.jpg)
 
 De cualquier modo, la Naciones Unidas es **la gran avenida de Quito**, en donde se siente que es una ciudad grande, pujante, moderna y siempre en tensión consigo misma.
-
-Ecuador tiene nuevos horarios de cortes de luz hasta el jueves 14 de noviembre
-==============================================================================
-
-El Ministerio de Energía detalló los cronogramas de las nueve empresas de electricidad que operan en Ecuador.
--------------------------------------------------------------------------------------------------------------
-
-![Los nuevos horarios incluyen cortes de luz de ocho horas en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-ecuador-ocho-horas.jpg)
-
-El Ministerio de Energía y Minas difundió los nuevos horarios de cortes de luz para las **24 provincias de Ecuador** hasta el jueves 14 de noviembre de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-sabado-9-de-noviembre.html "Cortes de luz en Guayaquil para este sábado 9 de noviembre")
-* [Cortes de luz en Quito para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-sabado-9-de-noviembre.html "Cortes de luz en Quito para este sábado 9 de noviembre")
-* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
-
-La cartera de Estado dio a conocer los cronogramas de las **nueve empresas eléctricas** que operan en el país a través de su página web, la noche de este viernes 8 de noviembre.
-
-Los horarios de apagones programados se incrementarán **de seis a ocho horas**, a partir de este domingo 10 de noviembre.
-
-Cortes de luz hasta el jueves 14 de noviembre
----------------------------------------------
-
-La programación de los cortes de luz para **Ecuador**, desde el **domingo 10 al jueves 14 de noviembre**, incluye cortes de ocho horas para el sector residencial.
-
-Los **sectores industriales** mantienen **distintas franjas horarias** que varían dependiendo de cada provincia.
-
-Cada empresa eléctrica informará por su cuenta los **cronogramas** para los sectores que cubren.
-
-Las **entidades** a cargo de distribuir el servicio en Ecuador son:
-
-* Corporación Nacional de Electricidad (Cnel)
-* Empresa Eléctrica Quito
-* Emel Norte
-* Empresa Eléctrica Cotopaxi
-* Empresa Eléctrica Ambato Regional Centro Norte
-* Empresa Eléctrica Riobamba
-* Centro Sur
-* Empresa Eléctrica Azogues
-* Empresa Eléctrica Regional del Sur
-
-> 📍¡IMPORTANTE!  
->   
-> 📌Informamos a la ciudadanía sobre la suspensión del servicio de energía eléctrica, a escala nacional, para el periodo comprendido desde el 10 hasta al 14 de noviembre.  
->   
-> 🔸Conoce la programación en el siguiente enlace👉 [https://t.co/4YfPN33hy5](https://t.co/4YfPN33hy5) [pic.twitter.com/6V5Dupla4J](https://t.co/6V5Dupla4J)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 9, 2024](https://twitter.com/RecNaturalesEC/status/1855051253824332069?ref_src=twsrc%5Etfw)
-
-Para conocer el horario de cortes de luz en tu sector puedes visitar la página web de la empresa eléctrica que distribuye el servicio en tu **provincia** o visitar el [sitio web](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") del **Ministerio de Energía**, que contiene los cronogramas completos de las nueve entidades.
-
-Apagones en Ecuador se aumentan a ocho horas
---------------------------------------------
-
-La ministra de Energía (e), **Inés Manzano**, se refirió a la **crisis energética** que atraviesa Ecuador este viernes.
-
-En una entrevista para Ecuavisa, la funcionaria anticipó que las horas de los cortes de luz aumentarán a ocho horas la próxima semana.
-
-Según Manzano, la razón se debe a que el país no tiene las condiciones adecuadas para poder mantener cronogramas de **seis horas**.
-
-La decisión se la tomó tras analizar y monitorear de **forma diaria** las condiciones de las hidroeléctricas del país.
-
-Con base en estas evaluaciones se **establecen cronogramas** en bloques que van de domingo a jueves, para que se puedan programar las actividades.
-
-“Debido a que las **lluvias están previstas** para el fin de semana, es necesario cuidar la poca cantidad de agua que existe en los embalses”, explicó Manzano.
-
-Ecuador comprará 195 MW a Colombia
-----------------------------------
-
-La Ministra, quien también lidera el Ministerio de Ambiente, comentó que Ecuador recibirá 195 megavatios de empresas colombianas.
-
-Según estas negociaciones, **Ecopetrol** entregará 70 megavatios y **Termocentro**, 125 a partir de la próxima semana.
-
-La Ministra de Energía resaltó que **Termoesmeraldas** está aportando 100 megas y que en 20 días, aproximadamente, una nueva barcaza se sumará a la producción.
-
-Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador
-========================================================================
-
-Sebastián Beccacece, DT de la Selección de Ecuador, destacó el alza del nivel de Bolivia antes de su choque en eliminatorias.
------------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador en una rueda de presa previa a eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241108136178-gye-sebastian-beccacece-scaled.jpg)
-
-El DT de la Selección de Ecuador **Sebastián Beccacece**, advirtió sobre la dificultad que tendrá la Tri ante **Bolivia**. Él recordó que ha logrado nueve de los últimos doce puntos en las eliminatorias sudamericanas del Mundial de 2026.
-
-En la rueda de prensa previa a la publicación de la lista de convocados para enfrentar a Ecuador y Colombia en la undécima y duodécima fecha de las eliminatorias, **Beccacece** reiteró que la selección ecuatoriana tiene mucho potencial. Pese a ello, tiene que crecer para estar a la altura de las expectativas que espera la afición.
-
-### Más noticias:
-
-* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
-* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
-* [La Selección de Ecuador convoca a un jugador lesionado](https://www.elcomercio.com/deportes/la-seleccion-de-ecuador-convoca-a-un-jugador-lesionado.html "La Selección de Ecuador convoca a un jugador lesionado")
-
-Anticipó que “**no es lo mismo enfrentar a este Bolivia que viene en alza, más allá de la última derrota, que a la de hace cuatro o seis meses que estaba en otras condiciones**“.
-
-“(Bolivia) se empezó a preparar desde el día 30 suspendiendo el torneo local y va a llegar con casi quince días de preparación a este encuentro”, aseguró **Beccacece**. Aquel encuentro lo disputará a nivel del mar, en Guayaquil.
-
-¿Cuál es el plan de la Selección de Ecuador ante Bolivia?
----------------------------------------------------------
-
-El seleccionador dijo que su equipo trabajará para evitar que **Bolivia** les cierre los espacios en su área y no pueda hacer daño con los contraataques.
-
-“**La intensidad es una de las características que me agradan, le pido siempre esa intensidad al equipo, porque uno no puede guardarse nada.** A ese nivel de compromiso estamos llevando al equipo, procuramos hacerlo en diferentes escenarios, sea de local o de visitante”, expresó[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-Añadió que “**la intención es alcanzar un gran volumen de juego, con la recuperación inmediata del balón, para cuando el rival lo quite, también saber presionar**“.
-
-Destacó la comodidad para trabajar en **Guayaquil**, pero indicó que “lo más valioso será contar con un equipo que se adapte al llano o a la altura, que pueda jugar y superar cualquier circunstancia”.
-
-Respecto de las bajas, dijo que el carrilero derecho **Ángelo Preciado** sí está convocado. Este será evaluado, pero de haber alguna complicación, en el costado derecho pueden actuar **Johanner Chávez o Alan Franco.**
-
-Beccacece, la Selección de Ecuador y Óscar Zambrano
----------------------------------------------------
-
-Beccacece lamentó la baja por suspensión del centrocampista **Oscar Zambrano**, que dio positivo durante una prueba antidopaje al final del partido por la final única de la Recopa Sudamericana de este año entre **Liga de Quito y Fluminense**, de Brasil.
-
-Reconoció que planeaba convocar a **Zambrano** para reemplazar al centrocampista del Chelsea **Moisés Caicedo**, quien se perderá el partido ante Bolivia por acumulación de tarjetas amarillas.
-
-“**Es algo que me duele mucho porque conociéndolo a él y su familia, sé muy bien de su espontaneidad y de su humildad.** Él es un jugador sobre el que tengo una gran debilidad porque me gusta mucho su juego. Es algo que seguramente deja un aprendizaje”, señaló.
-
-La lista de convocados todavía no fue publicada, pero jugadores como **Xavier Arreaga y Carlos Gruezo**, ya se encuentran en Ecuador y lo más probable, será su participación por la doble fecha de las eliminatorias, en las que Ecuador esta en el quinto puesto de la tabla de posiciones, con 13 puntos.
-
-La hambruna se cernirá sobre el norte de Gaza en días si no se actúa pronto
-===========================================================================
-
-La Comisión para la Investigación de la Hambruna pide el ingreso sin obstáculos en Gaza de suministros médicos, agua y alimentos.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Partidarios hutíes corean consignas y empuñan armas durante una protesta.](https://www.elcomercio.com/wp-content/uploads/2024/11/gaza-efe.jpg)
-
-La **Comisión para la Investigación de la Hambruna** (FRC, por sus siglas en inglés), alertó este viernes, 8 de noviembre de 2024, de que hay “una **gran probabilidad** de una hambruna inminente en zonas de la Franja de Gaza”. Esto ocurrirá si no se actúa “en días, no en semanas” para “evitar y aliviar esta situación catastrófica” que “podría empequeñecer” todo lo visto desde el comienzo de la ofensiva israelí contra Gaza.
-
-### Más noticias
-
-* [El Gobierno de Biden dice que buscará el fin de la guerra en Gaza hasta el último día](https://www.elcomercio.com/actualidad/mundo/gobierno-biden-estados-unidos-guerra-gaza.html "El Gobierno de Biden dice que buscará el fin de la guerra en Gaza hasta el último día")
-* [Ataques israelíes contra un mercado en Ciudad de Gaza](https://www.elcomercio.com/actualidad/mundo/ataques-israelies-mercado-ciudad-gaza.html "Ataques israelíes contra un mercado en Ciudad de Gaza")
-* [Guterres afirma que la guerra en Gaza genera una ‘crisis humanitaria, diplomática y moral’](https://www.elcomercio.com/actualidad/mundo/guterres-afirma-guerra-gaza-genera-crisis-humanitaria-diplomatica-moral.html "Guterres afirma que la guerra en Gaza genera una ‘crisis humanitaria, diplomática y moral’")
-
-El FRC, que trabaja con ONG y **organismos internacionales como Unicef, FAO, Save the Chindren o Acción contra el Hambre**, lanzó hoy una alerta en su web en la que advierte que la **situación humanitaria en la Franja de Gaza es “extremadamente grave y se está deteriorando rápidamente”.**
-
-El Ejército israelí mantiene un renovado asedio en el norte de Gaza desde hace 35 días, en el que murieron más de 1 800 personas, según el Ministerio de Sanidad gazatí.
-
-El comité asegura que dado el conflicto y los **desplazamientos de la población,** el colapso del sistema alimentario, los **niveles críticos de acceso a la comida, los ataques** contra las instalaciones de salud, nutrición e infraestructuras civiles, el “peor escenario posible” que el equipo de expertos había planteado “se está desarrollando actualmente en zonas del norte de la Franja de Gaza”.
-
-Hambre, desnutrición y mortalidad
----------------------------------
-
-“Por lo tanto, se puede suponer que el **hambre, la desnutrición y la mortalidad** excesiva debida a la desnutrición y las enfermedades están aumentando rápidamente en esas zonas” subraya un comunicado en el que el FRC muestra su temor de que “ya se hayan cruzado los umbrales de hambruna o que se crucen en un futuro próximo”.
-
-El Comité hace un **llamamiento de urgencia a todas las partes involucradas** en el conflicto o a las que puedan tener influencia sobre ellas a que actúen inmediatamente “para revertir esta catástrofe humanitaria”.
-
-Y pide, entre otras cosas, el ingreso sin obstáculos en Gaza de suministros médicos y humanitarios como agua y alimentos, el fin del asedio al norte de Gaza y el cese de los ataques a instalaciones sanitarias y a otras infraestructuras civiles esenciales.
-
-Finalmente alerta de que si “no se responde a estos llamamientos en los próximos días (…) es probable que la escala de esta **catástrofe inminente empequeñezca todo** lo que hemos visto hasta ahora en la Franja de Gaza desde el 7 de octubre de 2023″.
-
-El pasado 31 de octubre, la **Organización de Naciones Unidas para la Agricultura y la Alimentación (FAO)** y el Programa Mundial de Alimentos (PMA) advirtieron de que el **riesgo de hambruna** en los **próximos seis meses** era una amenaza latente para cientos de miles de personas en Gaza, Sudán, Sudán del Sur, Haití y Mali, por lo que pidieron “intervenciones urgentes para evitar más muertes”.
-
-Cortes de luz en Guayaquil para este sábado 9 de noviembre
-==========================================================
-
-La CNEL detalló los cortes de luz que tendrá Guayaquil en las zonas residenciales e industriales.
--------------------------------------------------------------------------------------------------
-
-![Los apagones programados en la capital de Guayas serán de seis horas este sábado](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-sabado-9-noviembre.jpg)
-
-La Corporación Nacional de Electricidad (**CNEL**) detalló el cronograma de cortes de luz que tendrá **Guayaquil** este **sábado 9 de noviembre** de 2024.
-
-### Más noticias
-
-* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
-* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
-* [Rotura de tubería deja sin agua a parroquia de Quito](https://www.elcomercio.com/actualidad/quito/rotura-tuberia-agua-parroquia-quito.html "Rotura de tubería deja sin agua a parroquia de Quito")
-
-CNEL estableció una programación que incluye la sectorización de **53 espacios** **residenciales** y cinco **industriales**, para este día.
-
-Los apagones se realizarán en **dos franjas horarias**: una en la madrugada o mañana y otra en la tarde o noche.
-
-Cortes de luz para este sábado 9 de noviembre
----------------------------------------------
-
-En el sector industrial, los apagones se realizarán en cinco sectores, con un corte de mayor duración de seis horas, que afectará a **Naturisa y Songa**, programado de 09:00 a 15:00.
-
-En otros puntos de la ciudad, los cortes industriales serán menores, de tres horas, de acuerdo con cuatro franjas.
-
-Mientras que los apagones programados para el **sector residencial** tendrán una duración de seis horas en todos los sectores de Guayaquil[.](https://www.cnelep.gob.ec/ "https://www.cnelep.gob.ec/")
-
-Te compartimos la **programación completa** de CNEL con los cortes de luz en Guayaquil por sectores y franjas horarias.
-
-A partir del domingo 10 de noviembre los cortes de luz en esta ciudad y el resto del país se extenderán a **ocho horas**.
-
-Cortes de luz aumentarán a ocho horas
--------------------------------------
-
-Este viernes, la ministra de Energía encargada, **Inés Manzano**, se refirió a la crisis energética que atraviesa Ecuador.
-
-En una entrevista para Ecuavisa, la funcionaria comentó que las horas de los cortes de luz aumentarán a **ocho horas**. Según Manzano, el país no tiene las condiciones adecuadas para mantener cortes de luz de seis horas.
-
-Esto se determinó con **monitoreos diarios** a las hidroeléctricas del país, donde se comprobó que las condiciones hídricas son preocupantes.
-
-Debido a que las **lluvias están previstas** solamente durante el próximo fin de semana, “es necesario cuidar la poca cantidad de agua que existe en los embalses”, explicó Manzano.
-
-La Selección de Ecuador tiene dos sorprendentes regresos
-========================================================
-
-La convocatoria de Sebastián Beccacece para la Selección de Ecuador trajo consigo el regreso de dos referentes.
----------------------------------------------------------------------------------------------------------------
-
-![Carlos Gruezo durante un entrenamiento de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/1000160194-scaled.jpg)
-
-**Sebastián Beccacece**, DT de la Selección de Ecuador, expuso la convocatoria para los partidos ante Bolivia y Colombia en las eliminatorias. Dentro de los citados resalta el regreso de dos jugadores al combinado nacional.
-
-Para los cotejos venideros, el conjunto tricolor llamó un total de **26 jugadores** que estarán presentes el 14 de noviembre del 2024 ante la ‘Verde’ y el 19 de noviembre ante los cafeteros. El primer choque será en Guayaquil y, para el segundo, la Tri viajará hacia Barranquilla.
-
-Más noticias:
-
-* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
-* [La Selección de Ecuador convoca a un jugador lesionado](https://www.elcomercio.com/deportes/la-seleccion-de-ecuador-convoca-a-un-jugador-lesionado.html "La Selección de Ecuador convoca a un jugador lesionado")
-* [La Selección de Ecuador presentó convocatoria para Bolivia y Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-convocatoria-colombia-bolivia-eliminatorias.html "La Selección de Ecuador presentó convocatoria para Bolivia y Colombia")
-
-Dentro de los regresos en la lista de **Beccacece** se ubican dos volantes de una amplia trayectoria dentro del equipo nacional. Entre los jugadores que regresan a la Tri están presentes **Carlos Gruezo**, mediocampista central, y **Ángel Mena**, extremo.
-
-En el caso de Gruezo, este ya había sido llamado por el **entrenador argentino** con anterioridad y para su debut a cargo del conjunto ecuatoriano. En el caso de Ángel Mena, este recibió su primer llamado de parte del estratega de la Tri y también vivirá una ocasión especial en el compromiso[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-Ángel Mena se retirará de la Selección de Ecuador
--------------------------------------------------
-
-A partir de la convocatoria y su regreso a la **Selección de Ecuador**, Ángel Mena también tendrá su último compromiso con el equipo nacional. Después de que lo hayan llamado, la Tri anunció que después del choque ante Bolivia en Guayaquil, **Mena** se retirará de la escuadra ecuatoriana.
-
-Con Beccacece, este es el sexto técnico que tiene entre sus dirigidos a Mena. Antes del argentino lo llamaron **Gustavo Alfaro, Félix Sánchez Bas, Jorge Célico, Hernán Darío Gómez y Gustavo Quinteros**. Aunque Jordy Cruyff también dirigió a la Tri, este no llegó ha hacer convocatorias antes de dejar el elenco.
-
-Dentro de la Selección de Ecuador, el ‘Ángel del gol’ llegó a sumar 61 partidos entre amistoso, Copas América y eliminatorias sudamericanas. Aunque estuvo presente en el **Mundial de Qatar 2022**, este no sumó minutos en la escuadra de Gustavo Alfaro
-
-Carlos Gruezo retorna después de dos fechas
--------------------------------------------
-
-Carlos Gruezo, quien estuvo incluido en la convocatoria de estreno de Sebastián Beccacece, ocupó el banco de suplentes en los duelos ante **Brasil y Perú**. Para las dos siguientes fechas frente a Paraguay y Uruguay, este no fue considerado por el entrenador argentino.
-
-Al igual que Mena, este tiene un amplio derrotero con el conjunto tricolor. Su primer llamado fue con Reinaldo Rueda, quien lo llevó para el **Mundial de Brasil 2014**, y desde aquel momento su nombre ha sido uno de los habituales dentro de la escuadra ecuatoriana.
-
-Cortes de luz en Quito para este sábado 9 de noviembre
-======================================================
-
-La Empresa Eléctrica Quito (EEQ) detalló los cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
---------------------------------------------------------------------------------------------------------------------------
-
-![Quito tendrá cortes de luz de seis horas este sábado 9 de noviembre](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-quito-sabado-9-noviembre.jpg)
-
-La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz** que tendrá la ciudad este sábado 9 de noviembre de 2024.
-
-### Más noticias
-
-* [Cortes de agua en Quito este viernes 8 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-viernes-8-de-noviembre.html "Cortes de agua en Quito este viernes 8 de noviembre")
-* [Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentaran-a-ocho-horas-desde-el-domingo-dice-ministra.html "Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra")
-* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
-
-La capital mantendrá **apagones programados** de **seis horas**, distribuidos en **dos franjas horarias**, una en la madrugada o mañana y otra en la tarde o noche.
-
-Cortes de luz en Quito para este sábado 9 de noviembre
-------------------------------------------------------
-
-Las **zonas residenciales** de Quito tienen **siete horarios** de cortes de luz:
-
-### De 03:00 a 06:00 y 09:00 a 12:00
-
-* Miraflores
-* Río Coca
-* Conocoto
-* Tumbaco
-* Cumbayá
-
-### De 00:00 a 03:00 y 12:00 a 15:00
-
-* Luluncoto
-* Chilibulo
-* La Floresta
-* Cristianía
-* Eplicachima
-
-### De 09:00 a 12:00 y 18:00 a 21:00
-
-* La Carolina
-* Nueva Cumbayá
-* Tababela
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-### De 03:00 a 06:00 y 15:00 a 18:00
-
-* Chimbacalle
-* Belisario Quevedo
-* Granda Centeno
-* Gualo
-* Andalucía
-* Cotocollao
-* Inga Bajo
-
-### De 06:00 a 09:00 y 21:00 a 24:00
-
-* Barrionuevo
-* Iñaquito
-* Santa Rosa
-* Sangolquí
-* El Quinche
-
-### De 12:00 a 15:00 y 18:00 a 21:00
-
-* Olímpico
-* El Bosque
-* San Antonio
-* Alangasí
-* San Rafael
-* Pomasqui
-* Eugenio Espejo
-
-### De 00:00 a 03:00 y 18:00 a 21:00
-
-* Luluncoto
-* San Roque
-* Río Coca
-* Cotocollao
-* Conocoto
-* Alangasí
-* Santa Rosa
-* Inga Bajo
-
-Mientras que en las **zonas industriales**, los apagones se realizarán de acuerdo con **tres horarios**[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
-
-* 00:00 a 05:00
-* 10:00 a 24:00
-* 06:00 a 09:00 y de 15:00 a 18:00
-
-Este es el **cronograma completo** por barrios para este **sábado 9 de noviembre**:
-
-Cortes de luz aumentarán a ocho horas
--------------------------------------
-
-Este viernes, la ministra de Energía encargada, **Inés Manzano**, se refirió a la crisis energética que atraviesa Ecuador.
-
-En una entrevista para Ecuavisa, la funcionaria comentó que las horas de los cortes de luz aumentarán a **ocho horas**. Según Manzano, el país no tiene las condiciones adecuadas para mantener cortes de luz de seis horas.
-
-Esto se determinó con **monitoreos diarios** a las hidroeléctricas del país, donde se comprobó que las condiciones hídricas son preocupantes.
-
-Debido a que las **lluvias están previstas** solamente durante el próximo fin de semana, “es necesario cuidar la poca cantidad de agua que existe en los embalses”, explicó Manzano.
-
-Donald Trump habló con Zelenski en una llamada en la que también participó Elon Musk
-====================================================================================
-
-Trump no fue el único en prometer ayuda a Ucrania: Elon Musk aseguró a Zelenski que seguirá apoyando a su país.
----------------------------------------------------------------------------------------------------------------
-
-![Fotografía que muestra a Donald Trump, hablando durante un mitin en Michigan (Estados Unidos).](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-efe.jpg)
-
-El futuro presidente de Estados Unidos, [Donald Trump](https://www.elcomercio.com/actualidad/mundo/voto-popular-incidio-triunfo-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/voto-popular-incidio-triunfo-donald-trump.html"), mantuvo una conversación con el presidente de Ucrania, **Volodímir Zelenski,** en una llamada que tuvo lugar tras ganar las **elecciones presidenciales** y en la que también participó el multimillonario [Elon Musk](https://www.elcomercio.com/tecnologia/donald-trump-elon-musk-estados-unidos-elecciones.html "https://www.elcomercio.com/tecnologia/donald-trump-elon-musk-estados-unidos-elecciones.html").
-
-### Más noticias
-
-* [Donald Trump ganó en Springfield, lugar de falsa afirmación de que haitianos comen mascotas](https://www.elcomercio.com/actualidad/mundo/donald-trump-gano-springfield-lugar-falsa-afirmacion-haitianos-comen-mascotas.html "Donald Trump ganó en Springfield, lugar de falsa afirmación de que haitianos comen mascotas")
-* [Organización proaborto advierte que Donald Trump podría prohibir píldoras abortivas](https://www.elcomercio.com/actualidad/mundo/organizacion-proaborto-advierte-trump-podria-prohibir-pildoras-abortivas.html "Organización proaborto advierte que Donald Trump podría prohibir píldoras abortivas")
-* [El voto popular incidió en el triunfo de Donald Trump](https://www.elcomercio.com/actualidad/mundo/voto-popular-incidio-triunfo-donald-trump.html "El voto popular incidió en el triunfo de Donald Trump")
-
-Trump y sus promesas a Zelenski
--------------------------------
-
-Trump, que **conversó el miércoles con Zelenski** durante 25 minutos, reiteró al mandatario su apoyo a Ucrania, aunque **no entró en detalles de qué forma lo haría**, según indica el medio digital estadounidense Axios, que cita a fuentes con conocimiento de la llamada.
-
-El republicano prometió durante la campaña -en la que ya habló con el equipo de Zelenski y se reunió con el mandatario en su visita a EE.UU. este año- una **solución rápida a la guerra con Rusia,** sin apoyar a ninguna de las partes y criticando los millonarios paquetes de ayuda del Gobierno de Joe Biden a Ucrania.
-
-Elon Musk también en la línea
------------------------------
-
-Trump no fue el único en prometer ayuda a Ucrania: el magnate **Elon Musk no se limitó sólo a escuchar la conversación** sino que aseguró a Zelenski que seguirá apoyando a su país a través de su red de satélites de internet Starlink.
-
-“Starlink es la columna vertebral de las comunicaciones militares ucranianas en el frente porque todo lo demás ha sido destruido o bloqueado por Rusia”, señaló Musk en un post en su red social X.
-
-De acuerdo con Axios, al final de la conversación Zelenski se sintió tranquilo y afirmó que interpretó la pronta llamada como **“una señal positiva”.**
-
-Según las fuentes de este medio, el ucraniano también “sintió que la llamada salió bien y que no aumentó su ansiedad sobre la victoria de Trump”.
-
-Felicitación a Trump
---------------------
-
-Tras conocerse los resultados de las elecciones, **Zelenski felicitó en su perfil de X a Trump** por su victoria en los comicios y expresó su confianza de que “Ucrania siga contando con un fuerte apoyo bipartita en Estados Unidos”.
-
-El mandatario contó en la misma red social que tuvo **“una excelente conversación” con Trump** y que le felicitó “por su histórica y decisiva victoria, un resultado que fue posible gracias a su impresionante campaña”.
-
-El año pasado hubo una **controversia entre Zelenski y Musk** después de que el dueño de X acudiera a su red social para burlarse del mandatario por sus peticiones de ayuda militar y financiera para hacer frente a la invasión rusa.
-
-Por su parte, Zelenski criticó a Musk por estos comentarios, así como por su propuesta de que el país cediera parte de su territorio a Rusia con el **fin de lograr la paz.**
-
-La Selección Ecuador y Beccacece afrontan una crisis de gol
-===========================================================
-
-Los gritos de gol han sido mínimos desde que el argentino asumió las riendas del conjunto ecuatoriano.
-------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana en un partido con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-08T191224.769.jpg)
-
-**Sebastián** **Beccacece** está por encarar su tercera ventana de partidos al mando de la Selección de Ecuador, en la que dirigirá su quinto y sexto encuentro.
-
-Si bien ha habido aspectos positivos desde su llegada, también persisten problemas importantes, siendo la **falta de gol el más preocupante**.
-
-### Más noticias:
-
-* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
-* [La Selección de Ecuador convoca a un jugador lesionado](https://www.elcomercio.com/deportes/la-seleccion-de-ecuador-convoca-a-un-jugador-lesionado.html "La Selección de Ecuador convoca a un jugador lesionado")
-* [Ecuador escogió Guayaquil como sede pensando también en Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-escogio-guayaquil-sede-pensando-en-colombia.html "Ecuador escogió Guayaquil como sede pensando también en Colombia")
-
-La crisis de gol en Ecuador
----------------------------
-
-Desde que el argentino asumió el mando, la ‘Tri’ ha mostrado dificultades de cara al arco: en sus primeros cuatro partidos, **Ecuador** apenas ha marcado un gol, lo cual refleja una crisis ofensiva.
-
-El único gol bajo la dirección de Beccacece llegó en su segundo partido, cuando Enner Valencia anotó a los 54 minutos en el partido contra Perú, en el **Estadio Rodrigo Paz Delgado**. Ese gol fue, además, decisivo para la única victoria de Beccacece hasta ahora.
-
-Los otros partidos han sido un reto en términos de generación de oportunidades de gol, con una derrota 1-0 ante Brasil y dos empates sin goles frente a Paraguay y Uruguay en la última fecha FIFA. Actualmente, Ecuador lleva más de **210 minutos sin marcar** en las eliminatorias sudamericanas.
-
-Los delanteros no atraviesan su mejor momento
----------------------------------------------
-
-Parte de esta falta de gol se atribuye al rendimiento de los delanteros, que no están en su mejor momento. **Enner Valencia, Leonardo Campana y Kevin Rodríguez,** los tres convocados por Beccacece para los partidos contra Bolivia y Colombia, suman entre todos un solo gol en el último mes.
-
-Enner Valencia, máximo goleador histórico de la ‘Tri’, anotó ese único gol con el Internacional de Brasil, aunque ha tenido un tiempo limitado de juego.
-
-Leonardo Campana, con el Inter Miami, ha jugado solo nueve minutos en dos partidos. Kevin Rodríguez, quien ha visto más acción con el **Union Saint-Gilloise** de Bélgica, suma más de 220 minutos en siete partidos, aunque sin lograr concretar goles.
-
-Los próximos partidos de Ecuador
---------------------------------
-
-Ecuador se enfrentará a **Bolivia** el jueves 14 de noviembre a las 19:00 en el Estadio Monumental de Guayaquil. Luego, el martes 19 de noviembre, a las 18:00 (hora de Ecuador), visitará a **Colombia** en el Estadio Metropolitano Roberto Meléndez de Barranquilla.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Donald Trump ganó en Springfield, lugar de falsa afirmación de que haitianos comen mascotas
-===========================================================================================
-
-Springfield, una ciudad del deprimido 'cinturón del óxido', vivió en los últimos años la llegada de un gran número de migrantes.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump participa en un evento en McCamish Pavillion en el campus de Georgia Tech en Atlanta, Georgia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Donald-Trump-efe-8-noviembre.jpg)
-
-El virtual presidente de Estados Unidos, el republicano [Donald Trump](https://www.elcomercio.com/actualidad/mundo/voto-popular-incidio-triunfo-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/voto-popular-incidio-triunfo-donald-trump.html"), ganó las elecciones en la ciudad de **Springfield (Ohio)**, que se había hecho famosa durante la campaña por la **falsa afirmación** promovida por el propio magnate neoyorquino sobre los **inmigrantes haitianos** que comían perros y gatos.
-
-### Más noticias
-
-* [La clave de Donald Trump para conquistar a los hombres jóvenes](https://www.elcomercio.com/actualidad/mundo/clave-donald-trump-conquistar-hombres-jovenes.html "La clave de Donald Trump para conquistar a los hombres jóvenes")
-* [El voto popular incidió en el triunfo de Donald Trump](https://www.elcomercio.com/actualidad/mundo/voto-popular-incidio-triunfo-donald-trump.html "El voto popular incidió en el triunfo de Donald Trump")
-* [Organización proaborto advierte que Donald Trump podría prohibir píldoras abortivas](https://www.elcomercio.com/actualidad/mundo/organizacion-proaborto-advierte-trump-podria-prohibir-pildoras-abortivas.html "Organización proaborto advierte que Donald Trump podría prohibir píldoras abortivas")
-
-Trump obtuvo un **49,7 % de los votos por un 49,1 % de la demócrata Kamala Harris,** una victoria de apenas 135 votos pero significativa por producirse en uno de los principales epicentros de la campaña electoral.
-
-Hace 4 años, el presidente, Joe Biden, le sacó más de 1 800 votos a Trump.
-
-Trump utilizó el altavoz de su debate cara a cara con Harris para afirmar que en la ciudad de Springfield **“la gente que llegó”**, en referencia a los haitianos, se está comiendo “a las mascotas de la gente que vive allí”.
-
-Se trata de una mentira
------------------------
-
-Se trata de una mentira que circuló durante la **campaña electoral por las redes sociales**, que captó la atención de los principales medios de comunicación del país y del que se hizo eco, por ejemplo, el multimillonario Elon Musk, aliado de Trump.
-
-Eso pese a que las autoridades locales, como el mismo alcalde, el republicano Rob Rue, lo había desmentido.
-
-Springfield, una ciudad del **deprimido ‘cinturón del óxido’,** vivió en los últimos años la llegada de un gran número de migrantes, en concreto de origen haitiano, gracias al revivir de su industria.
-
-Su llegada con un **“parole” humanitario** que les permite residir y trabajar legalmente de forma temporal, ha creado desafíos para la ciudad, como el **aumento del precio de la vivienda** o la adaptación del sistema público de educación a la incorporación de un gran número de alumnos.
-
-Policía abre nuevo reclutamiento para 2 900 aspirantes
-======================================================
-
-La Policía Nacional dio los detalles de la nueva convocatoria para aspirantes a la Institución.
------------------------------------------------------------------------------------------------
-
-![La convocatoria está destinada a hombres y mujeres ecuatorianos](https://www.elcomercio.com/wp-content/uploads/2024/11/policia-nacional-reclutamiento.jpg)
-
-La **Policía Nacional** abrió la convocatoria al nuevo proceso de **reclutamiento** para aspirantes técnicos operativos que deseen formar parte de la Institución.
-
-### Más noticias
-
-* [Policías ecuatorianos se preparan para subir el Everest sin oxígeno suplementario](https://www.elcomercio.com/deportes/otros/policia-ecuador-everest-sin-oxigeno-patricio-arevalo-marcelo-segovia.html "Policías ecuatorianos se preparan para subir el Everest sin oxígeno suplementario")
-* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
-* [Jóvenes ya pueden inscribirse en el proyecto del Gobierno para ganar 400 dólares mensuales](https://www.elcomercio.com/actualidad/negocios/jovenes-ya-pueden-inscribirse-en-el-proyecto-del-gobierno-para-ganar-400-dolares-mensuales.html "Jóvenes ya pueden inscribirse en el proyecto del Gobierno para ganar 400 dólares mensuales")
-
-En rueda de prensa, **Renato Cevallos**, director nacional de Talento Humano de la Policía detalló cómo se realizará el proceso y cuáles son los **requisitos** para aplicar a la convocatoria.
-
-Este llamado de **noviembre de 2024** está destinado a técnicos operativos de **tres grupos**:
-
-* Bachilleres y tercer nivel;
-* Miembros de pueblos y nacionalidades Indígenas; y
-* Músicos
-
-Las plazas disponibles en esta convocatoria son **2 320** para hombres y **580** para mujeres.
-
-Requisitos del reclutamiento
-----------------------------
-
-Los **aspirantes** a la Policía Nacional deben cumplir con **varios requisitos**, estos son:
-
-* Poseer la nacionalidad ecuatoriana
-* Tener entre **18 y 22 años** 11 meses 30 días, hasta el día de la postulación
-* Medir sin zapatos **1,68 metros** para hombres y **1,57 metros** para mujeres
-* Para los postulantes de **pueblos y nacionalidades indígenas**, la altura mínima es de **1,60 metros** para hombres y de **1,50 metros** para mujeres
-* Calificación mínima de **750 puntos** en el examen de acceso a la educación pública
-* No tener **antecedentes penales**
-* No tener **tatuajes**, ni expansores
-
-Los hombres y mujeres que cumplan con estos requerimientos podrán postular en línea para, luego, ser evaluados uno a uno en **cinco componentes**: psicológico, cognitivo-académico, médico, físico y de confianza.
-
-¿Cómo postular a la convocatoria de la Policía Nacional?
---------------------------------------------------------
-
-La postulación a la convocatoria de la **Policía Nacional** se realizará a través de la [página destinada](http://www.reclutamiento.xn--polica-7va.gob.ec/ "www.reclutamiento.policía.gob.ec") al reclutamiento.
-
-Las inscripciones estarán disponibles a partir de las **00:00** del **lunes 18 de noviembre** hasta las **23:59** del **viernes 29 de noviembre** de 2024.
-
-Las postulaciones se realizarán de acuerdo al **último dígito de la cédula** de ciudadanía, según el siguiente **cronograma**:
-
-* **Dígito 1**: lunes 18 de noviembre
-* **Dígito** **2**: martes 19 de noviembre
-* **Dígito** **3**: miércoles 20 de noviembre
-* **Dígito** **4**: jueves 21 de noviembre
-* **Dígito 5**: viernes 22 de noviembre
-* **Dígito 6**: sábado 23 de noviembre
-* **Dígito 7**: domingo 24 de noviembre
-* **Dígito 8**: lunes 25 de noviembre
-* **Dígito 9**: martes 26 de noviembre
-* **Dígito 0**: miércoles 27 de noviembre
-* **Todos los dígitos**: jueves 28 y viernes 29 de noviembre
-
-Luego de la fase de postulación, los aspirantes deberán pasar por otras **ocho etapas**:
-
-* Validación de requisitos
-* Verificación de estatura y acreditación de documentos
-* Registro Biométrico
-* Oposición
-* Prueba académica
-* Evaluación psicológica
-* Prueba física
-* Evaluación médica-odontológica
-
-Los seleccionados iniciarán con el proceso de formación en **mayo de 2025**. El curso finalizará en **marzo de 2027**, fecha en la que se graduarán como nuevos servidores policiales del Ecuador.
-
-> 📡🔴TRANSMISIÓN EN VIVO  
->   
-> Rueda de prensa sobre el lanzamiento del nuevo “Proceso de Reclutamiento para Servidores Policiales Técnicos Operativos [#Noviembre2024](https://twitter.com/hashtag/Noviembre2024?src=hash&ref_src=twsrc%5Etfw), Bachilleres, Título de Tercer Nivel, Músicos, Pueblos y Nacionalidades”.  
->   
-> 📍Participan: [#GraDRenatoCevallos](https://twitter.com/hashtag/GraDRenatoCevallos?src=hash&ref_src=twsrc%5Etfw) [#DirDNTH](https://twitter.com/hashtag/DirDNTH?src=hash&ref_src=twsrc%5Etfw),… [pic.twitter.com/P3vzVhzZgV](https://t.co/P3vzVhzZgV)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [November 8, 2024](https://twitter.com/PoliciaEcuador/status/1854977897913577748?ref_src=twsrc%5Etfw)
-
-Denuncia cobros de dinero a cambio de cupos
--------------------------------------------
-
-Por su parte, **Walter Villarroel**, director nacional de Educación de la Policía, aseguró que el proceso de selección de los nuevos gendarmes se realizará cumpliendo con **criterios de calidad**.
-
-“Tenemos dos certificaciones que garantizarán que el proceso sea transparente y meritocrático, la **ISO 9001** de Gestión de Calidad y la **ISO 37001**, de Gestión Antisoborno”, comentó.
-
-El oficial invitó a la ciudadanía que evite caer en **estafas** de empresas o ciudadanos que aseguren que tienen convenidos con la Institución.
-
-“No tenemos ningún convenio con ninguna persona natural o jurídica sobre cursos, capacitaciones o similares avalados por la Policía”, enfatizó Villarroel.
-
-Así mismo, solicitó denunciar cualquier cobro indebido de dinero a cambio de cupos policiales. Para ello se habilitaron dos canales: el **1 800 DELITO** (335 486) y el **correo electrónico** [denuncias.reclutamiento@policia.gob.ec](mailto:denuncias.reclutamiento@policia.gob.ec).
-
-Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil
-===============================================================
-
-La Selección de Ecuador jugará en la doble fecha de eliminatorias de noviembre ante Bolivia y Colombia.
--------------------------------------------------------------------------------------------------------
-
-![Ángel Mena, jugador de la Selección de Ecuador en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/mena_retiro_1.jpg)
-
-El nombre de **Ángel Mena** fue una de las sorpresas de la lista de Sebastián Beccacece, entrenador de nacionalidad argentina de la Selección de Ecuador, divulgada la tarde de este viernes 8 de noviembre de 2024.
-
-Ángel Mena no fue tomado en cuenta por **Beccacece para la doble fecha de eliminatorias de octubre** para enfrentar a Paraguay (empate 0-0 en Quito) y Uruguay (empate 0-0 en Montevideo) con lo que se mantiene en la zona de clasificación directa al Mundial 2026.
-
-### Más noticias:
-
-* [Sebastián Beccacece adelanta trabajos para Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-esparrines-burbano-guayaquil.html "Sebastián Beccacece adelanta trabajos para Selección de Ecuador")
-* [La ecuatoriana Eidy Macías hace historia y está cerca de la UFC](https://www.elcomercio.com/deportes/artes-marciales/eidy-macias-ecuatoriana-ufc-historia-the-talent.html "La ecuatoriana Eidy Macías hace historia y está cerca de la UFC")
-* [Pedro Ortiz, arquero de Emelec, se sometió a operación quirúrgica](https://www.elcomercio.com/deportes/pedro-ortiz-cirugia-emelec.html "Pedro Ortiz, arquero de Emelec, se sometió a operación quirúrgica")
-
-En el debut de Beccacece, Mena fue convocado para jugar ante Brasil (**derrota 1-0 en Curitiba con gol de Rodrygo**), y frente a Perú (victoria 1-0 con un tanto de Enner Valencia en Quito).
-
-“Guayaquil, la ciudad que lo vio nacer a Ángel Mena, será también el lugar donde se despedirá de La Tri”, fue el anuncio del equipo nacional en sus redes sociales para justificar la convocatoria del mediocampista.
-
-Ese será el final de su carrera con la Selección. Su debut se produjo con **Gustavo Quinteros en 2015**, y su retiro se concretará ocho años después con Beccacece, con lo que se cierra una etapa más de su larga carrera.
-
-Ángel Mena con Ecuador
-----------------------
-
-61 partidos y ocho goles son los números con los que Ángel Mena llega a su último compromiso con la camiseta de la Selección de Ecuador.
-
-Según Transfermarkt, **jugó 27 por eliminatorias sudamericanas en los procesos a Rusia 2018, Catar 2022** y Canadá, Estados Unidos y México 2026; 24 compromisos amistosos; 10 de Copa América entre Brasil 2019 y 2021, y Estados Unidos 2024.
-
-Anotó ante Paraguay (1), México (1), Japón (1), Argentina (1), Bolivia (1), Colombia (1), Brasil (1) y Chile (1). Además, se suma siete asistencias contra **Colombia (2), México (1), Uruguay (1), Nigeria (1), Guatemala (1)** y Bolivia (1).
-
-Su debut fue en marzo de 2015 en un amistoso contra México. Fue derrota 1-0 en **Los Angeles Memorial Coliseum** con la presencia de más de 90 000 personas. El tanto fue anotado por Javier ‘Chicharito’ Hernández.
-
-Su última aparición fue en los **cuartos de final de la Copa América Estados Unidos 2024**. Entró al cambio y sumó 10 minutos. Fue uno de los que falló su penal ante Emiliano Martínez que marcó la eliminación tricolor.
-
-La cuenta pendiente de **Mena fue sumar minutos en una Copa del Mundo**. Fue citado por Gustavo Alfaro entre los 26, pero no tuvo la oportunidad de jugar ante Catar, Países Bajos y Senegal.
-
-San viernes
------------
