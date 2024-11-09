@@ -190,7 +190,7 @@ Resources
 * [Assignment Ideas Library](https://www.wevideo.com/education/video-projects)
 * [Professional development](https://www.wevideo.com/education/professional-development)
 
-![Reviewed by Accessible360](https://165225.fs1.hubspotusercontent-na1.net/hubfs/165225/wevideo-2022/Reviewed%20by%20Allyant%20for%20Accessibility%20Badge_White.svg)
+![Reviewed by Accessible360](https://www.wevideo.com/hubfs/wevideo-2022/Reviewed%20by%20Allyant%20for%20Accessibility%20Badge_White.svg)
 
 * © 2024 WeVideo, Inc.
 * [Accessibility](https://www.wevideo.com/accessibility-statement)
