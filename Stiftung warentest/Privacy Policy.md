@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Service Stiftung Warentest
 
