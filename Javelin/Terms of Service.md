@@ -235,6 +235,7 @@ the Escalent Group.
 * [Child and Family Cybersecurity Study](https://javelinstrategy.com/Child-and-Family-Cybersecurity-Study)
 * [Scorecard Reports](https://javelinstrategy.com/scorecard-reports)
 * [Whitepapers](https://javelinstrategy.com/whitepaper)
+* [Annual Trends Reports](https://javelinstrategy.com/annual-trends-reports)
 
 #### Research Practices
 
