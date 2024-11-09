@@ -182,6 +182,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Looking Back At The 2009 NRA National Smallbore Rifle Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-smallbore-rifle-championship/10611772)
 * [The 5 Best Full-Size Handguns](https://www.thegunpage.com/the-5-best-full-size-handguns/10611769)
 * [BREAKING: Illinois Gun & Magazine Ban Struck Down by Federal Judge](https://www.thegunpage.com/breaking-illinois-gun-magazine-ban-struck-down-by-federal-judge/10611767)
 * [POTD: Stag Arms Wyoming 307 Limited Edition](https://www.thegunpage.com/potd-stag-arms-wyoming-307-limited-edition/10611770)
@@ -191,7 +192,6 @@ Recent Posts
 * [Zarges Medium Pistol and Gear Case: Is It Worth the Investment?](https://www.thegunpage.com/zarges-medium-pistol-and-gear-case-is-it-worth-the-investment/10611760)
 * [PA: PA-GOA Team Ensures Harris Defeat](https://www.thegunpage.com/pa-pa-goa-team-ensures-harris-defeat/10611763)
 * [Bump Stock Bans Threaten All Semiautomatic Firearms](https://www.thegunpage.com/bump-stock-bans-threaten-all-semiautomatic-firearms/10611759)
-* [CZ Unveils The Shadow 2 Target](https://www.thegunpage.com/cz-unveils-the-shadow-2-target/10611764)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
