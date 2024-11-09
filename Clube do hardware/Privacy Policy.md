@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Tobias2022](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249010.thumb.png.b6f57bb4ab722b9eea0b20a595988f01.png)](https://www.clubedohardware.com.br/profile/1249010-tobias2022/ "Ir ao perfil de Tobias2022")
+    * [![testes absurdos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255771.thumb.png.2f7c10a2d167f30348a741ff8e666420.png)](https://www.clubedohardware.com.br/profile/1255771-testes-absurdos/ "Ir ao perfil de testes absurdos")
         
         0
         
-        [G5 pro, direwolf 2 ou gamesir nova lite?](https://www.clubedohardware.com.br/forums/topic/1701853-g5-pro-direwolf-2-ou-gamesir-nova-lite/?do=getNewComment "G5 pro, direwolf 2 ou gamesir nova lite?")
+        [energia da gpu oscilando](https://www.clubedohardware.com.br/forums/topic/1701886-energia-da-gpu-oscilando/?do=getNewComment "energia da gpu oscilando")
         
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Tobias2022](https://www.clubedohardware.com.br/profile/1249010-tobias2022/ "Ir ao perfil de Tobias2022")  
-        16 minutos atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [testes absurdos](https://www.clubedohardware.com.br/profile/1255771-testes-absurdos/ "Ir ao perfil de testes absurdos")  
+        6 minutos atrás
         
-    * [![Lanterna Verde com Disco](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255753.thumb.png.ed7d7a3fa52eb4aee7dd94cf10ae333e.png)](https://www.clubedohardware.com.br/profile/1255753-lanterna-verde-com-disco/ "Ir ao perfil de Lanterna Verde com Disco")
+    * [![daninsk8](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236e62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255620-daninsk8/ "Ir ao perfil de daninsk8")
         
-        8
+        1
         
-        [Disco 100% 2024 - Windows 10](https://www.clubedohardware.com.br/forums/topic/1701852-disco-100-2024-windows-10/?do=getNewComment "Disco 100% 2024 - Windows 10")
+        [Quais os componentes ideais para uma RX 6600?](https://www.clubedohardware.com.br/forums/topic/1701885-quais-os-componentes-ideais-para-uma-rx-6600/?do=getNewComment "Quais os componentes ideais para uma RX 6600?")
         
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [Lanterna Verde com Disco](https://www.clubedohardware.com.br/profile/1255753-lanterna-verde-com-disco/ "Ir ao perfil de Lanterna Verde com Disco")  
-        35 minutos atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [daninsk8](https://www.clubedohardware.com.br/profile/1255620-daninsk8/ "Ir ao perfil de daninsk8")  
+        23 minutos atrás
         
-    * [![Nebuloch](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255752.thumb.png.5841a5e609afa4915985bd9a81fff849.png)](https://www.clubedohardware.com.br/profile/1255752-nebuloch/ "Ir ao perfil de Nebuloch")
+    * [![Luisa B](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1032710.thumb.png.480c1c10deac7f0511a2962a7964cab4.png)](https://www.clubedohardware.com.br/profile/1032710-luisa-b/ "Ir ao perfil de Luisa B")
+        
+        1
+        
+        [sensor de vibração para afixar no interfone](https://www.clubedohardware.com.br/forums/topic/1701884-sensor-de-vibra%C3%A7%C3%A3o-para-afixar-no-interfone/?do=getNewComment "sensor de vibração para afixar  no interfone")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Luisa B](https://www.clubedohardware.com.br/profile/1032710-luisa-b/ "Ir ao perfil de Luisa B")  
+        41 minutos atrás
+        
+    * [![Flávio099](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255769.thumb.png.1e964cbe076f02a6d5064346713dc783.png)](https://www.clubedohardware.com.br/profile/1255769-fl%C3%A1vio099/ "Ir ao perfil de Flávio099")
+        
+        0
+        
+        [A RX 580 8gb é compatível com a placa-mãe H61M-E22/W8?](https://www.clubedohardware.com.br/forums/topic/1701883-a-rx-580-8gb-%C3%A9-compat%C3%ADvel-com-a-placa-m%C3%A3e-h61m-e22w8/?do=getNewComment "A RX 580 8gb é compatível com a placa-mãe H61M-E22/W8?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Flávio099](https://www.clubedohardware.com.br/profile/1255769-fl%C3%A1vio099/ "Ir ao perfil de Flávio099")  
+        44 minutos atrás
+        
+    * [![Feitas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255768.thumb.png.23d4a7bb7c0b2d4a602a35996a64b372.png)](https://www.clubedohardware.com.br/profile/1255768-feitas/ "Ir ao perfil de Feitas")
         
         2
         
-        [2 Monitores com apenas 1 saída HDMI na placa de vídeo, é possível?](https://www.clubedohardware.com.br/forums/topic/1701851-2-monitores-com-apenas-1-sa%C3%ADda-hdmi-na-placa-de-v%C3%ADdeo-%C3%A9-poss%C3%ADvel/?do=getNewComment "2 Monitores com apenas 1 saída HDMI na placa de vídeo, é possível?")
+        [Kit upgrade (B450M Steel Legend, Ryzen 5 5500 e 8GB RAM) R$1.100,00 vale a pena?](https://www.clubedohardware.com.br/forums/topic/1701882-kit-upgrade-b450m-steel-legend-ryzen-5-5500-e-8gb-ram-r110000-vale-a-pena/?do=getNewComment "Kit upgrade (B450M Steel Legend, Ryzen 5 5500 e 8GB RAM) R$1.100,00 vale a pena?")
         
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Nebuloch](https://www.clubedohardware.com.br/profile/1255752-nebuloch/ "Ir ao perfil de Nebuloch")  
-        40 minutos atrás
-        
-    * [![GodinezF](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236562c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255750-godinezf/ "Ir ao perfil de GodinezF")
-        
-        0
-        
-        VENDO [Fonte Modular Corsair HX1200](https://www.clubedohardware.com.br/forums/topic/1701850-fonte-modular-corsair-hx1200/?do=getNewComment "Fonte Modular Corsair HX1200")
-        
-        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
-        Por [GodinezF](https://www.clubedohardware.com.br/profile/1255750-godinezf/ "Ir ao perfil de GodinezF")  
-        53 minutos atrás
-        
-    * [![lly fox](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1233380.thumb.jpeg.2fa30ad852998b2893d82d86188b28a0.jpeg)](https://www.clubedohardware.com.br/profile/1233380-lly-fox/ "Ir ao perfil de lly fox")
-        
-        5
-        
-        [Fonte Mancer Thunder 500W fazendo barulho, devo me preocupar?](https://www.clubedohardware.com.br/forums/topic/1701848-fonte-mancer-thunder-500w-fazendo-barulho-devo-me-preocupar/?do=getNewComment "Fonte Mancer Thunder 500W fazendo barulho, devo me preocupar?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [lly fox](https://www.clubedohardware.com.br/profile/1233380-lly-fox/ "Ir ao perfil de lly fox")  
-        2 horas atrás
-        
-    * [![Gabriel Bottini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244983.thumb.jpeg.3b868a76327c6cbce76509b19597e219.jpeg)](https://www.clubedohardware.com.br/profile/1244983-gabriel-bottini/ "Ir ao perfil de Gabriel Bottini")
-        
-        4
-        
-        [placa wifi M2 E, Não aparece no pc](https://www.clubedohardware.com.br/forums/topic/1701847-placa-wifi-m2-e-n%C3%A3o-aparece-no-pc/?do=getNewComment "placa wifi M2 E, Não aparece no pc")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Gabriel Bottini](https://www.clubedohardware.com.br/profile/1244983-gabriel-bottini/ "Ir ao perfil de Gabriel Bottini")  
-        2 horas atrás
-        
-    * [![raphael.lima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255747.thumb.jpeg.4e5759169b6e5f270eef9c57d6ff4904.jpeg)](https://www.clubedohardware.com.br/profile/1255747-raphaellima/ "Ir ao perfil de raphael.lima")
-        
-        5
-        
-        [Internet rede 100mbps bloqueado PC](https://www.clubedohardware.com.br/forums/topic/1701846-internet-rede-100mbps-bloqueado-pc/?do=getNewComment "Internet rede 100mbps bloqueado PC")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [raphael.lima](https://www.clubedohardware.com.br/profile/1255747-raphaellima/ "Ir ao perfil de raphael.lima")  
-        2 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Feitas](https://www.clubedohardware.com.br/profile/1255768-feitas/ "Ir ao perfil de Feitas")  
+        47 minutos atrás
         
     * [![UserX_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a562%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EU%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/875136-userx_/ "Ir ao perfil de UserX_")
         
-        4
+        0
         
-        [Vale a pena sair de Ryzen 5 5600 para ir de Ryzen 7 5700x?](https://www.clubedohardware.com.br/forums/topic/1701845-vale-a-pena-sair-de-ryzen-5-5600-para-ir-de-ryzen-7-5700x/?do=getNewComment "Vale a pena sair de Ryzen 5 5600 para ir de Ryzen 7 5700x?")
+        VENDO [16 GB DDR4 3200 MHz hiksemi por R$ 200](https://www.clubedohardware.com.br/forums/topic/1701881-16-gb-ddr4-3200-mhz-hiksemi-por-r-200/?do=getNewComment "16 GB DDR4 3200 MHz hiksemi por R$ 200")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
         Por [UserX\_](https://www.clubedohardware.com.br/profile/875136-userx_/ "Ir ao perfil de UserX_")  
-        2 horas atrás
+        50 minutos atrás
         
-    * [![Lucas7rlk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255728.thumb.jpeg.30ea17ccecc068d045a3144fee68df65.jpeg)](https://www.clubedohardware.com.br/profile/1255728-lucas7rlk/ "Ir ao perfil de Lucas7rlk")
+    * [![Feitas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255768.thumb.png.23d4a7bb7c0b2d4a602a35996a64b372.png)](https://www.clubedohardware.com.br/profile/1255768-feitas/ "Ir ao perfil de Feitas")
         
-        9
+        0
         
-        [Recomendação de PC Gamer completo por R$9.000,00 (incluindo cadeira)](https://www.clubedohardware.com.br/forums/topic/1701844-recomenda%C3%A7%C3%A3o-de-pc-gamer-completo-por-r900000-incluindo-cadeira/?do=getNewComment "Recomendação de PC Gamer completo por R$9.000,00 (incluindo cadeira)")
+        [Devo pegar esse kit na pichau?](https://www.clubedohardware.com.br/forums/topic/1701880-devo-pegar-esse-kit-na-pichau/?do=getNewComment "Devo pegar esse kit na pichau?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Feitas](https://www.clubedohardware.com.br/profile/1255768-feitas/ "Ir ao perfil de Feitas")  
+        52 minutos atrás
+        
+    * [![Skully064](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/f5b8bf7ff6517d3784261b930b19e12a.thumb.jpg.566d452973b0cbacef3278f8a7263a1e.jpg)](https://www.clubedohardware.com.br/profile/1224177-skully064/ "Ir ao perfil de Skully064")
+        
+        1
+        
+        [Upgrade no PC, o que mudar dessa configuração?(orçamento R$4.6k até máximo R$5k)](https://www.clubedohardware.com.br/forums/topic/1701879-upgrade-no-pc-o-que-mudar-dessa-configura%C3%A7%C3%A3oor%C3%A7amento-r46k-at%C3%A9-m%C3%A1ximo-r5k/?do=getNewComment "Upgrade no PC, o que mudar dessa configuração?(orçamento R$4.6k até máximo R$5k)")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Lucas7rlk](https://www.clubedohardware.com.br/profile/1255728-lucas7rlk/ "Ir ao perfil de Lucas7rlk")  
-        3 horas atrás
+        Por [Skully064](https://www.clubedohardware.com.br/profile/1224177-skully064/ "Ir ao perfil de Skully064")  
+        56 minutos atrás
         
-    * [![Gyston2089](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23629ec4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1243384-gyston2089/ "Ir ao perfil de Gyston2089")
+    * [![jaomarqs2024](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b862%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255766-jaomarqs2024/ "Ir ao perfil de jaomarqs2024")
         
-        9
+        0
         
-        [PC R$ 2.068,00: ASUS TUF A520M Plus I, Ryzen 5 5600GT e 16GB, vale a pena?](https://www.clubedohardware.com.br/forums/topic/1701843-pc-r-206800-asus-tuf-a520m-plus-i-ryzen-5-5600gt-e-16gb-vale-a-pena/?do=getNewComment "PC R$ 2.068,00: ASUS TUF A520M Plus I, Ryzen 5 5600GT e 16GB, vale a pena?")
+        [BIOS taicon a520 (atualização)](https://www.clubedohardware.com.br/forums/topic/1701878-bios-taicon-a520-atualiza%C3%A7%C3%A3o/?do=getNewComment "BIOS taicon a520 (atualização)")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Gyston2089](https://www.clubedohardware.com.br/profile/1243384-gyston2089/ "Ir ao perfil de Gyston2089")  
-        3 horas atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [jaomarqs2024](https://www.clubedohardware.com.br/profile/1255766-jaomarqs2024/ "Ir ao perfil de jaomarqs2024")  
+        1 hora atrás
+        
+    * [![Ginke](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/Patrick.thumb.jpg.5da8e0eee9a5b06ba9cbf3d005840276.jpg)](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")
+        
+        0
+        
+        [Meu PC não desliga ou demora pra desligar](https://www.clubedohardware.com.br/forums/topic/1701877-meu-pc-n%C3%A3o-desliga-ou-demora-pra-desligar/?do=getNewComment "Meu PC não desliga ou demora pra desligar")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Ginke](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")  
+        1 hora atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
