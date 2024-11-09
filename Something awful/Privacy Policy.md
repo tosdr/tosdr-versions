@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Make Porn Work-Safe (Not Safe For Work)!](https://www.somethingawful.com/comedy-goldmine/make-porn-worksafe/1/)
-* [Baby Movies](https://www.somethingawful.com/photoshop-phriday/baby-movies/1/)
-* [Grandmas at Large](https://www.somethingawful.com/news/most-wanted-grandmas/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Sneeze Fetish Forum, GovTeen, and Bullshit](https://www.somethingawful.com/weekend-web/govteen-sneeze-fetish/1/)
+* [You're wearing a DOG COSTUME!](https://www.somethingawful.com/awfulvision/furry-expert-juche/1/)
+* [Motivational Posters](https://www.somethingawful.com/photoshop-phriday/motivational-posters/1/)
+* [Political Cartoon Parodies!](https://www.somethingawful.com/photoshop-phriday/political-cartoon-thread/1/)
+* [Miley's Still Twerkin'!](https://www.somethingawful.com/photoshop-phriday/miley-cyrus-twerk/1/)
+* [Ride 'em, Cowboy!](https://www.somethingawful.com/photoshop-phriday/ride-em-cowboy/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Friendly's is probably one of the best major brands of ice cream](http://forums.somethingawful.com/showthread.php?threadid=4074912 "Friendly's is probably one of the best major brands of ice cream")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [why do people collect sports cards](http://forums.somethingawful.com/showthread.php?threadid=4074809 "why do people collect sports cards")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [Whats a small thing that makes you grateful to be alive?](http://forums.somethingawful.com/showthread.php?threadid=4074813 "Whats a small thing that makes you grateful to be alive?")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [What is your biggest G rated unpopular opinion?](http://forums.somethingawful.com/showthread.php?threadid=4074915 "What is your biggest G rated unpopular opinion?")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE](http://forums.somethingawful.com/showthread.php?threadid=4074914 "Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE")
 
 ### Random Articles
 
-* [Alien UFO Art](https://www.somethingawful.com/awful-links/awful-link-1336/)
-* [MS Paint Scenes of Nature!](https://www.somethingawful.com/comedy-goldmine/mspaint-nature-landscapes/)
-* [SkyMall Product Review: Bark Deterring Ultrasonic Collar](https://www.somethingawful.com/news/skymall-bark-collar/)
-* [Variety Pack #24: 4th of July Weekend!](https://www.somethingawful.com/photoshop-phriday/fireworks-mustafa-alkhani/1/)
-* [Design a Porch!](https://www.somethingawful.com/photoshop-phriday/snowy-covered-porches/)
+* [I F\*\*\*ed Blues Traveler](https://www.somethingawful.com/news/blues-traveler-groupie/)
+* [Secrets of the Mountains](https://www.somethingawful.com/news/secrets-mountains/)
+* [William S. Burroughs Writes the Descriptions for Chili's Margarita Menu](https://www.somethingawful.com/news/burroughs-junkie-chilis/)
+* [The Steampunk Motivational Speaker: Teamwork](https://www.somethingawful.com/news/steampunk-motivational-speaker/)
+* [Day Dreamin' Davey](https://www.somethingawful.com/rom-pit/day-dreamin-davey/)
 
 [Random!](https://www.somethingawful.com/random/)
 
