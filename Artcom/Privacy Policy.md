@@ -1,6 +1,6 @@
-[Home for the Holidays Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Holiday Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
 
-[Home for the Holidays Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Holiday Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
