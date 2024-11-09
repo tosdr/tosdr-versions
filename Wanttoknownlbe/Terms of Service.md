@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/planeetgrote-ufos-bij-onze-zon/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/help-je-herstel-het-weefsel-van-de-werkelijkheid/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
