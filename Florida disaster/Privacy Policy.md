@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, November 8, 2024**
+**Saturday, November 9, 2024**
 
-**...Mostly Dry Conditions Return o South Florida and The Western Peninsula Today Thanks to High Pressure...Lingering Moisture and A Stalled Frontal Boundary to the North of Florida To Create Isolated Showers Across North Florida Throughout the Day...Breezy Onshore Winds to Allow For Isolated Showers Along the East Coast Throughout the Day...Hazardous Beach and Boating Conditions Continue Along the Florida Panhandle Due to Breezy Winds and Ocean Swells...Moderate to High Risk For Rip Currents Persists Statewide****...Minor to Moderate Flooding Continues Along Portions of the Withlacoochee and St. Johns Rivers...Areas of Patchy to Locally Dense Fog Possible Across North and Central Florida Overnight and Early Saturday Morning...NHC Continues to Monitor Major Hurricane Rafael and A Disturbance Near the Greater Antilles (20%)...**
+**...High Pressure Extending Over the State Maintaining An Abnormally Dry Airmass and A Stalled Frontal Boundary Sinking to The Florida-Georgia State Line to Give Way to Isolated to Widely Scattered Showers Across North Florida Throughout the Day...Breezy Onshore Winds To Give Way to Isolated Showers Along the East Coast, Moving Well Inland Across the Peninsula During the Peak Heating Hours...Breezy Winds With Gusts Near 15-25 MPH Persist Along the Peninsula and Keys...Unseasonable Warm Conditions Statewide...High Risk for Rip Currents Expected Nearly Statewide...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers...Localized Areas of Patchy to Locally Dense Fog Possible Overnight Into Early Sunday Morning...NHC Continues to Monitor Tropical Storm Rafael and A Disturbance Near the Bahamas (10%)****...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
