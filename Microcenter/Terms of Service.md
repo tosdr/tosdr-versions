@@ -363,7 +363,7 @@ Product category, brand navigation and general site naviation
         
     * PC Builders
         
-        PC Builders options - 3 groups of items - 8 total selections
+        PC Builders options - 3 groups of items - 9 total selections
         
         * Build a Custom PC
             
@@ -374,6 +374,7 @@ Product category, brand navigation and general site naviation
             
             * [Creator Studio Builder](https://www.microcenter.com/site/content/creator-studio-landing.aspx)
             * [Racing Sim Builder](https://www.microcenter.com/site/content/racing-sim-builder.aspx)
+            * [Racing Sim Bundles](https://www.microcenter.com/site/products/racing-simulators.aspx)
         * Showcase
             
             * [See Completed Builds](https://www.microcenter.com/search/builds.aspx)
@@ -767,7 +768,7 @@ Product category, brand navigation and general site naviation
         
     * Gaming & Software
         
-        Gaming & Software options - 11 groups of items - 39 total selections
+        Gaming & Software options - 11 groups of items - 40 total selections
         
         * PC & Mac Gaming
             
@@ -783,10 +784,14 @@ Product category, brand navigation and general site naviation
             
             * [Gaming PCs](https://www.microcenter.com/site/products/gaming_desktops.aspx)
             * [Gaming Laptops](https://www.microcenter.com/site/products/gaming-laptops.aspx)
-        * Gaming Furniture
+        * Racing Simulators
             
-            * [Gaming Chairs & Accessories](https://www.microcenter.com/category/4294967117/gaming-chairs-and-accessories)
-            * [Gaming Desks & Accessories](https://www.microcenter.com/category/4294967118/gaming-desks-and-accessories)
+            * [All Sim Racing](https://www.microcenter.com/site/products/racing-simulators.aspx)
+            * [Racing Sim Builder](https://www.microcenter.com/site/content/racing-sim-builder.aspx)
+            * [Sim Racing Rigs](https://www.microcenter.com/category/4294803070/sim-racing-rigs)
+            * [Racing Wheels](https://www.microcenter.com/category/4294803045,4294806628/racing-wheels)
+            * [Racing Pedals](https://www.microcenter.com/category/4294803045,4294806617/racing-pedals)
+            * [Racing Sim Bundles](https://www.microcenter.com/site/products/racing-simulators.aspx)
         * Console Gaming
             
             * [Xbox Gaming](https://www.microcenter.com/category/4294803081/xbox-gaming)
@@ -799,13 +804,10 @@ Product category, brand navigation and general site naviation
             * [VR Ready Video Cards](https://www.microcenter.com/category/4294966937,4294819823/vr-ready-video-cards)
             * [VR Ready Systems](https://www.microcenter.com/category/4294964325,4294819823/vr-ready-systems)
             * [VR Headsets](https://www.microcenter.com/category/4294803013/vr-headsets)
-        * Racing Simulators
+        * Gaming Furniture
             
-            * [All Sim Racing](https://www.microcenter.com/site/products/racing-simulators.aspx)
-            * [Racing Sim Builder](https://www.microcenter.com/site/content/racing-sim-builder.aspx)
-            * [Sim Racing Rigs](https://www.microcenter.com/category/4294803070/sim-racing-rigs)
-            * [Racing Wheels](https://www.microcenter.com/category/4294803045,4294806628/racing-wheels)
-            * [Racing Pedals](https://www.microcenter.com/category/4294803045,4294806617/racing-pedals)
+            * [Gaming Chairs & Accessories](https://www.microcenter.com/category/4294967117/gaming-chairs-and-accessories)
+            * [Gaming Desks & Accessories](https://www.microcenter.com/category/4294967118/gaming-desks-and-accessories)
         * DIY Arcade Gaming
             
             * [View All DIY Arcade Gaming](https://www.microcenter.com/category/4294811805/view-all-diy-arcade-gaming)
@@ -1044,6 +1046,7 @@ Product category, brand navigation and general site naviation
     * [Apple](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294821562)
     * [Monitors](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966896)
     * [Televisions](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966895)
+    * [Racing Sim Bundles](https://www.microcenter.com/site/products/racing-simulators.aspx)
 * [PC Parts](https://www.microcenter.com/site/products/computer-parts.aspx)
     * [Custom PC Builder](https://www.microcenter.com/site/content/custom-pc-builder.aspx)
     * [AMD Bundles](https://www.microcenter.com/site/content/bundle-and-save.aspx)
