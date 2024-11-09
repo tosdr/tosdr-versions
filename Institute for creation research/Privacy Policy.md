@@ -95,30 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Editor's Column
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/beastonished.jpg)](https://www.icr.org/article/be-astonished-by-jesus)
-
-[Be Astonished by Jesus](https://www.icr.org/article/be-astonished-by-jesus/)
-
-We at ICR hope your Christmas season was filled with celebration of the birth of our Lord Jesus, delight in His wonders in creation, and meaningful...
-
-BY: [JAYME DURANT](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=215)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/mysteries_of_God.jpg)](https://www.icr.org/article/mysteries-of-god)
-
-[Mysteries of God](https://www.icr.org/article/mysteries-of-god/)
-
-For those who love to read, the element of mystery often adds an extra layer to the enjoyment—we can’t wait to turn the page to discover...
-
-BY: [JAYME DURANT](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=215)
-
-[Creation and an Eternal Perspective](https://www.icr.org/article/creation-eternal-perspective/)
-
-While many of us struggle with daily routines that include high-pressure goals, chasing deadlines, and rushing to beat the tyranny of the urgent, our...
-
-BY: [JAYME DURANT](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=215)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
