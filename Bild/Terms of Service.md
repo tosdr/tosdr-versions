@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen
+
+JETZT! Der 3. Kampf: Jakub Merlan-Jarecki (29) vs. Kevin Njie (28) ++ Fame Fighting Live ++ Anmelden und nichts verpassen](https://www.bild.de/specials/premium-event/fame-fighting-2-hier-den-fight-pass-sichern-und-mitfiebern-66c70d88dc1b991b1e5914a0)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
