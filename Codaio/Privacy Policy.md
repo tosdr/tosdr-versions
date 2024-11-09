@@ -642,7 +642,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/8163cf3d4720/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/8e851d29d9ad/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
