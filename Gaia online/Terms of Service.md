@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-597c558b38059c334d3dc10761951d0a337b0c3c45a37a30c1bccd0f85b3c992337b0c3c45a37a30c1bccd0f85b3c992
+ccf31ec5b023acf86b507901c3abc2ceccf31ec5b023acf86b507901c3abc2ceccf31ec5b023acf86b507901c3abc2ce
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -328,10 +328,6 @@ Get Items
     
     fabulous finds for the thrifty spender
     
-* [Seasonal Styles](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fsale)
-    
-    Direct Sale
-    
 * [Gaia Merchandise](https://www.redbubble.com/people/Gaia-online/shop)
     
     real life Gaia merchandise
@@ -535,4 +531,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1731138312)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1731160168)
