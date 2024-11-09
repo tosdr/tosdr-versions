@@ -536,20 +536,6 @@ Default Title - $8
 
 ADD TO TOTE
 
-[![lysine-+-herbs-lip-balm](https://www.100percentpure.com/cdn/shop/files/Lysine_Herbslipbalm_239x254.jpg?v=1730991455)](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
-
-![ Lysine + Herbs Lip Balm](//www.100percentpure.com/cdn/shop/files/Lysine_Herbslipbalm_220x.jpg?v=1730991455)
-
-### [Lysine + Herbs Lip Balm](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
-
-659 reviews (659)
-
-$8.00
-
-Default Title - $8
-
-ADD TO TOTE
-
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-green-beauty-awards-highly_08c009e8-1e2b-416b-a8f2-94ecc2cccee7.png?crop=center&height=85&v=1697822128&width=85)](https://www.100percentpure.com/products/bright-eyes-masks)
 
 [![bright-eyes-masks](https://www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_239x254.jpg?v=1695873942)](https://www.100percentpure.com/products/bright-eyes-masks)
@@ -583,6 +569,20 @@ CHOOSE Size
 $8.00
 
 Default Title - $8
+
+ADD TO TOTE
+
+[![watermelon-cucumber-water-locking-moisturizer](https://www.100percentpure.com/cdn/shop/files/Watermelon_Moisturizer_239x254.jpg?v=1731003947)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
+
+![ Watermelon Cucumber Water Locking Moisturizer](//www.100percentpure.com/cdn/shop/files/Watermelon_Moisturizer_220x.jpg?v=1731003947)
+
+### [Watermelon Cucumber Water Locking Moisturizer](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
+
+103 reviews (103)
+
+$55.00
+
+Default Title - $55
 
 ADD TO TOTE
 
