@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Mormon sexual abuse: why are some in the church protecting sex abuse offenders?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/ "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")
+[![How does lung cancer affect the circulatory system?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-does-lung-cancer-affect-the-circulatory-system-scaled.jpg "How Does Lung Cancer Affect the Circulatory System?")](https://www.pintas.com/practice-areas/lung-cancer/how-does-lung-cancer-affect-the-circulatory-system/ "How Does Lung Cancer Affect the Circulatory System?")
 
-[#### Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/)
+[#### How Does Lung Cancer Affect the Circulatory System?](https://www.pintas.com/practice-areas/lung-cancer/how-does-lung-cancer-affect-the-circulatory-system/)
 
-[![How early can you detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-early-can-you-detect-mesothelioma-1-scaled.jpg "How Early Can You Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-you-detect-mesothelioma/ "How Early Can You Detect Mesothelioma?")
+[![Will my health insurance cover car accident injuries?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-will-my-health-insurance-cover-car-accident-injuries.jpg "Will My Health Insurance Cover Car Accident Injuries?")](https://www.pintas.com/practice-areas/car-accident-lawyer/will-my-health-insurance-cover-car-accident-injuries/ "Will My Health Insurance Cover Car Accident Injuries?")
 
-[#### How Early Can You Detect Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-you-detect-mesothelioma/)
+[#### Will My Health Insurance Cover Car Accident Injuries?](https://www.pintas.com/practice-areas/car-accident-lawyer/will-my-health-insurance-cover-car-accident-injuries/)
 
-[![What are the symptoms of stage 1 ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-are-the-symptoms-of-stage-1-ovarian-cancer-scaled.jpg "What Are the Symptoms of Stage 1 Ovarian Cancer?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/ "What Are the Symptoms of Stage 1 Ovarian Cancer?")
+[![Is there a cure for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-mesothelioma-lawyer-is-there-a-cure-for-mesothelioma.jpg "Is There a Cure for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/ "Is There a Cure for Mesothelioma?")
 
-[#### What Are the Symptoms of Stage 1 Ovarian Cancer?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/)
+[#### Is There a Cure for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
