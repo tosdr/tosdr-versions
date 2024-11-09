@@ -11,6 +11,7 @@ Toggle navigation [![home](/images/planet-bubble.png)](https://wigle.net/index)
     * [App FAQ](https://wigle.net/wiwiwa-faq)
     * [Forums](https://wigle.net/phpbb/)
     * [Mastodon](https://defcon.social/@WiGLEnet)
+    * [Bsky](https://bsky.app/profile/wiglenet.bsky.social)
     * [Twitter](https://twitter.com/wiglenet)
 * [Stats](https://wigle.net/stats)
 * [Tools](#)
@@ -69,6 +70,7 @@ Just like the website, WiGLE WiFi Wardriving doesn't require real identifying in
 
 * [Wiki](https://wigle.net/wiki/index.cgi)
 * [Mastodon](https://defcon.social/@WiGLEnet)
+* [Bsky](https://bsky.app/profile/wiglenet.bsky.social)
 * [Twitter](http://twitter.com/wiglenet)
 * [IRC](irc://wigle.net:6667/wigle)
 
