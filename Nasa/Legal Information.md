@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
+[![Group photo of NASA SkillBridge employees around an Astronaut suit at the JSC Neutral Buoyancy Laboratory.](https://www.nasa.gov/wp-content/uploads/2024/11/skillbridge-group-pic3.jpg?w=1024)
+
+2 min read
+
+### NASA Named one of America’s Best Employers for Veterans 
+
+article2 hours ago](https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
 
 6 min read
 
-### NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
+### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 
-article1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
-
-5 min read
-
-### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
-
-article4 days ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article4 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -241,25 +241,25 @@ Back
 
 ### Featured
 
-[![Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring](https://science.nasa.gov/wp-content/uploads/2024/11/pia21736-voyager-clean-room-crop.jpg)
+[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+
+4 min read
+
+### X-59 Fires Up its Engine for First Time on its Way to Takeoff
+
+article 2 days ago](https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
+
+2 min read
+
+### Hubble Captures a Galaxy with Many Lights
+
+article 7 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring](https://science.nasa.gov/wp-content/uploads/2024/11/pia21736-voyager-clean-room-crop.jpg)
 
 5 min read
 
 ### Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
 
-article 4 days ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
-
-4 min read
-
-### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
-
-article 4 days ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
-
-6 min read
-
-### NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
-
-article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)
+article 4 days ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)
 
 ### Highlights
 
@@ -269,13 +269,13 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### NASA Shares Space Food Insight with Commercial Food Industry
 
-article 21 hours ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![The crew of the Human Exploration Research Analog’s Campaign 7 Mission 1 clasp hands above their simulated space habitat’s elevator shaft.](https://www.nasa.gov/wp-content/uploads/2024/08/hero.png?w=1024)
+article 23 hours ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![The crew of the Human Exploration Research Analog’s Campaign 7 Mission 1 clasp hands above their simulated space habitat’s elevator shaft.](https://www.nasa.gov/wp-content/uploads/2024/08/hero.png?w=1024)
 
 1 min read
 
 ### HERO
 
-article 24 hours ago](https://www.nasa.gov/hrp/hero/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/vr.png?w=1024)
+article 1 day ago](https://www.nasa.gov/hrp/hero/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/vr.png?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 4 days ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human
 
 ### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 
-article 2 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
+article 4 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
 
 2 min read
 
@@ -335,7 +335,7 @@ article 7 days ago](https://science.nasa.gov/science-research/planetary-science/
 
 ### Hubble Captures a Galaxy with Many Lights
 
-article 4 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
+article 7 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
 
 2 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Highlights
 
-[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
+[![Title slide for Open Science Success Stories with Dr Keith Siew](https://www.nasa.gov/wp-content/uploads/2024/10/success-stories-title-slide-keithsiew.jpg?w=1024)
+
+2 min read
+
+### Open Science Success Stories with Dr Keith Siew
+
+article 2 hours ago](https://www.nasa.gov/open-science-success-stories-with-dr-keith-siew-2/)[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
+
+1 min read
+
+### Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
 
 6 min read
 
 ### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 
-article 2 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
-
-2 min read
-
-### Hubble Captures a Galaxy with Many Lights
-
-article 4 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
-
-3 min read
-
-### Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF
-
-article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)
+article 4 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2
 
 ### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 
-article 1 hour ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+article 4 hours ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
@@ -395,25 +395,25 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-b
 
 ### Highlights
 
-[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
+[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
+
+1 min read
+
+### Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
 
 3 min read
 
 ### Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF
 
-article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 2 min read
 
 ### Power to Explore STEM Writing Challenge
 
-article 1 day ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
-
-5 min read
-
-### From Campus to Cosmos: NASA Grants Boost Student, University Innovation
-
-article 3 days ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)
+article 1 day ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)
 
 ### Featured
 
@@ -427,19 +427,25 @@ article 2 days ago](https://www.nasa.gov/learning-resources/get-involved-with-na
 
 ### Featured
 
-[![Nicholas Bitner and jesse Rhoades standing in front of machinery in a BiPed lab.](https://www.nasa.gov/wp-content/uploads/2024/11/231205-bipedlunarboot-web-.jpg?w=1024)
+[![Group photo of NASA SkillBridge employees around an Astronaut suit at the JSC Neutral Buoyancy Laboratory.](https://www.nasa.gov/wp-content/uploads/2024/11/skillbridge-group-pic3.jpg?w=1024)
 
-5 min read
+2 min read
 
-### From Campus to Cosmos: NASA Grants Boost Student, University Innovation
+### NASA Named one of America’s Best Employers for Veterans 
 
-article 3 days ago](https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/)[![Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring](https://science.nasa.gov/wp-content/uploads/2024/11/pia21736-voyager-clean-room-crop.jpg)
+article 2 hours ago](https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/)[![Anna L. Fisher operates the Remote Manipulator System from Discovery’s aft flight deck](https://www.nasa.gov/wp-content/uploads/2024/11/sts-51a-20-fisher-operating-rms-51a-31-067.jpg?w=381)
 
-5 min read
+12 min read
 
-### Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
+### 40 Years Ago: STS-51A – “The Ace Repo Company”
 
-article 4 days ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)
+article 6 hours ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+
+3 min read
+
+### NASA Shares Space Food Insight with Commercial Food Industry
+
+article 23 hours ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)
 
 ### Highlights
 
