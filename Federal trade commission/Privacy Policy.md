@@ -18,10 +18,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -223,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Tentative Agenda for November 14 Open Commission Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-announces-tentative-agenda-november-14-open-commission-meeting)
+    ### [FTC Sends More Than $536,000 in Refunds to Consumers Deceived by Misleading Ads for Sobrenix “Anti-Alcohol Craving” Supplement](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-536000-refunds-consumers-deceived-misleading-ads-sobrenix-anti-alcohol-craving)
     
     November 7, 2024
     
@@ -234,7 +232,7 @@ Main Menu Mega
     
     Nov12
     
-    ### [Facebook, Docket No. C-4365 Oral Argument (Hybrid) - November 12, 2024](https://www.ftc.gov/news-events/events/2024/11/facebook-docket-no-c-4365-oral-argument-hybrid-november-12-2024)
+    ### [Facebook, Docket No. C-4365 Oral Argument Before the Commission (Hybrid) - November 12, 2024](https://www.ftc.gov/news-events/events/2024/11/facebook-docket-no-c-4365-oral-argument-commission-hybrid-november-12-2024)
     
     Tuesday, November 12, 2024 | 9:00AM - 12:00PM
     
@@ -325,10 +323,8 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
