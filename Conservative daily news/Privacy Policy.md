@@ -1,15 +1,15 @@
-Thursday, November 7 2024
+Friday, November 8 2024
 
 Breaking News
 
+* [Colorado Voters Decide To Tax Firearms, Ammo](https://www.conservativedailynews.com/2024/11/colorado-voters-decide-to-tax-firearms-ammo/)
+* [Republicans Are Showing The Democrats What Joy Looks Like](https://www.conservativedailynews.com/2024/11/republicans-are-showing-the-democrats-what-joy-looks-like/)
+* [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/)
+* [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/)
 * [President Biden Addresses the Nation About Election Results – 11/7/24](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
 * [White House Press Briefing with Karine Jean-Pierre – 11/7/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-7-24/)
 * [NYT/MSM Induced Election-Related Psychosis: Cognitive Dissonance](https://www.conservativedailynews.com/2024/11/nyt-msm-induced-election-related-psychosis-cognitive-dissonance/)
 * [Corporate Media, Dems Thought Female Vote Would Be Slam Dunk For Harris. Boy, Were They Wrong](https://www.conservativedailynews.com/2024/11/corporate-media-dems-thought-female-vote-would-be-slam-dunk-for-harris-boy-were-they-wrong/)
-* [President Joe Biden’s Schedule for Thursday, November 7, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-7-2024/)
-* [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
-* [RFK Jr. Says ‘Entire Departments’ At FDA Could Get The Ax](https://www.conservativedailynews.com/2024/11/rfk-jr-says-entire-departments-at-fda-could-get-the-ax/)
-* [Dems Already Rallying Resistance Less Than 24 Hours After Trump Becomes President-Elect](https://www.conservativedailynews.com/2024/11/dems-already-rallying-resistance-less-than-24-hours-after-trump-becomes-president-elect/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -131,6 +131,36 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![second amendment](https://www.conservativedailynews.com/wp-content/uploads/2017/06/second-amendment.jpg)](https://www.conservativedailynews.com/2024/11/colorado-voters-decide-to-tax-firearms-ammo/)
+    
+    [Colorado Voters Decide To Tax Firearms, Ammo](https://www.conservativedailynews.com/2024/11/colorado-voters-decide-to-tax-firearms-ammo/)
+    
+    November 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/11/good-news-americans-are-no-longer-listening-to-mass-media/)
+    
+    [Good News: Americans Are No Longer Listening to Mass Media](https://www.conservativedailynews.com/2024/11/good-news-americans-are-no-longer-listening-to-mass-media/)
+    
+    November 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/why-trump-won/)
+    
+    [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/)
+    
+    November 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5748-scaled-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/republicans-are-showing-the-democrats-what-joy-looks-like/)
+    
+    [Republicans Are Showing The Democrats What Joy Looks Like](https://www.conservativedailynews.com/2024/11/republicans-are-showing-the-democrats-what-joy-looks-like/)
+    
+    November 8, 2024
+    
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/)
+    
+    November 8, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
     
     [A Sincere Thank You](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
@@ -149,49 +179,19 @@ Recent Posts
     
     November 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Joe-Biden-speech-5-220x150.png)](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
-    
-    [President Biden Addresses the Nation About Election Results – 11/7/24](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
-    
-    November 7, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-7-24/)
-    
-    [White House Press Briefing with Karine Jean-Pierre – 11/7/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-7-24/)
-    
-    November 7, 2024
-    
-* [![Joe Biden Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/wrong-direction-5/)
-    
-    [Wrong Direction](https://www.conservativedailynews.com/2024/11/wrong-direction-5/)
-    
-    November 7, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/postmortem-2024/)
-    
-    [Postmortem 2024](https://www.conservativedailynews.com/2024/11/postmortem-2024/)
-    
-    November 7, 2024
-    
-* [![Red Wave Kamala Harris Joe Biden 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/red-wave/)
-    
-    [Red Wave](https://www.conservativedailynews.com/2024/11/red-wave/)
-    
-    November 7, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Top 5 Self-Defense Handgun Cartridges](https://www.thegunpage.com/top-5-self-defense-handgun-cartridges-2/10611740)
-* [WY: GOA-Endorsed Candidates Win Big In Wyoming!](https://www.thegunpage.com/wy-goa-endorsed-candidates-win-big-in-wyoming/10611739)
-* [Top 5 Self-Defense Handgun Cartridges](https://www.thegunpage.com/top-5-self-defense-handgun-cartridges/10611735)
-* [Smith & Wesson Revolver Rebates Through End Of Year](https://www.thegunpage.com/smith-wesson-revolver-rebates-through-end-of-year/10611737)
-* [A Blueprint for Trump’s First 30 Days](https://www.thegunpage.com/a-blueprint-for-trumps-first-30-days/10611732)
-* [Sweden Signs Agreement For More Sako AK 24 Rifles](https://www.thegunpage.com/sweden-signs-agreement-for-more-sako-ak-24-rifles/10611738)
-* [Gun Groups Challenge Maryland’s “Sensitive Places” Law in Federal Court](https://www.thegunpage.com/gun-groups-challenge-marylands-sensitive-places-law-in-federal-court/10611728)
-* [Mesa Tactical Truckee Forend: Kit Out Your Benelli M2](https://www.thegunpage.com/mesa-tactical-truckee-forend-kit-out-your-benelli-m2/10611730)
-* [An Open Letter to Gun Owners from NSSF](https://www.thegunpage.com/an-open-letter-to-gun-owners-from-nssf/10611722)
-* [TFB Behind the Gun #139: The Proving Grounds with Matt & Dan](https://www.thegunpage.com/tfb-behind-the-gun-139-the-proving-grounds-with-matt-dan/10611720)
+* [GOA VICTORY: Federal Judge Eviscerates Illinois AR-15 & 30+ Round Magazine Ban, Permanently Enjoins Enforcement](https://www.thegunpage.com/goa-victory-federal-judge-eviscerates-illinois-ar-15-30-round-magazine-ban-permanently-enjoins-enforcement/10611765)
+* [The Ban on Machinegun Conversion Devices Is Archaic & Ineffective](https://www.thegunpage.com/the-ban-on-machinegun-conversion-devices-is-archaic-ineffective/10611762)
+* [Zarges Medium Pistol and Gear Case: Is It Worth the Investment?](https://www.thegunpage.com/zarges-medium-pistol-and-gear-case-is-it-worth-the-investment/10611760)
+* [PA: PA-GOA Team Ensures Harris Defeat](https://www.thegunpage.com/pa-pa-goa-team-ensures-harris-defeat/10611763)
+* [Bump Stock Bans Threaten All Semiautomatic Firearms](https://www.thegunpage.com/bump-stock-bans-threaten-all-semiautomatic-firearms/10611759)
+* [CZ Unveils The Shadow 2 Target](https://www.thegunpage.com/cz-unveils-the-shadow-2-target/10611764)
+* [EAA Launches Girsan Brat 2311 Pistol](https://www.thegunpage.com/eaa-launches-girsan-brat-2311-pistol/10611758)
+* [10th Circuit Rules Colorado Under-21 Gun Purchase Ban Constitutional](https://www.thegunpage.com/10th-circuit-rules-colorado-under-21-gun-purchase-ban-constitutional/10611755)
+* [Pearson Industries Releases the AccuDog Group Reducer](https://www.thegunpage.com/pearson-industries-releases-the-accudog-group-reducer/10611753)
+* [Washington Man Shoots Himself In The Butt, Blames It on Stranger](https://www.thegunpage.com/washington-man-shoots-himself-in-the-butt-blames-it-on-stranger/10611750)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,6 +233,8 @@ Contact Us
 
 Recent Comments
 
+* [Ted Thomas](http://cdn/) on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783096)
+* Ted Thomas on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783095)
 * John on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783065)
 * Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783064)
 * Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783063)
@@ -240,8 +242,6 @@ Recent Comments
 * Caesar Avalos on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783047)
 * charles wilkins on [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/#comment-783044)
 * KayCee on [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/#comment-783041)
-* KayCee on [Fingers Crossed](https://www.conservativedailynews.com/2024/11/fingers-crossed/#comment-783040)
-* KayCee on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783035)
 
 [Close](#)
 
