@@ -893,17 +893,17 @@ Chauchau Pham Naples 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Isaiah and Cortney did a fantastic job. Friendly, professional and very efficient
+Justin and Paris did a fantastic job clearing out the condo for my dad!
 
-tye kuhlman Austin 02/11/2024
+Ellie Kozarec Cincinnati 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Justin and Paris did a fantastic job clearing out the condo for my dad!
+Isaiah and Cortney did a fantastic job. Friendly, professional and very efficient
 
-Ellie Kozarec Cincinnati 02/11/2024
+tye kuhlman Austin 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
