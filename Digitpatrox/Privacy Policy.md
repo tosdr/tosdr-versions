@@ -20,16 +20,16 @@ Saturday, November 9 2024
 
 Latest
 
-* [AMD rolls out open-source OLMo LLM, to compete with AI giants – Computerworld](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
-* [You Can Get This Budget Samsung Chromebook on Sale for $80 Right Now](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
-* [4 Healthy Thanksgiving Vegetable Side Dishes](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
-* [True 4K Performance Monitors For PCs and PlayStations](https://digitpatrox.com/true-4k-performance-monitors-for-pcs-and-playstations/)
-* [How To Setup an IVR Call Flow to Maximize Containment Rate](https://digitpatrox.com/how-to-setup-an-ivr-call-flow-to-maximize-containment-rate/)
-* [I’m a mattress deals writer — the 5 Black Friday sales I’d shop this weekend](https://digitpatrox.com/im-a-mattress-deals-writer-the-5-black-friday-sales-id-shop-this-weekend/)
-* [Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://digitpatrox.com/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
-* [DJI just added the two most requested features to its $199 Neo drone](https://digitpatrox.com/dji-just-added-the-two-most-requested-features-to-its-199-neo-drone/)
-* [Bleach TYBW Part 3 Episode 6 Release Date and Time (Countdown Timer)](https://digitpatrox.com/bleach-tybw-part-3-episode-6-release-date-and-time-countdown-timer/)
-* [Can the four-day week work for tech?](https://digitpatrox.com/can-the-four-day-week-work-for-tech/)
+* [A new iOS 18 security feature makes it harder for police to unlock iPhones](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
+* [Who is Amara in Arcane Season 2? Answered](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
+* [UK launches platform to help businesses manage AI risks, build trust](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
+* [These Are the Best Tech Deals From Target’s Early Black Friday Sale](https://digitpatrox.com/these-are-the-best-tech-deals-from-targets-early-black-friday-sale/)
+* [How to Protect Yourself in a Multicar Pileup Due to Fog, Sno](https://digitpatrox.com/how-to-protect-yourself-in-a-multicar-pileup-due-to-fog-sno/)
+* [How to Change What Your iPhone Action Button Does Based on the Time](https://digitpatrox.com/how-to-change-what-your-iphone-action-button-does-based-on-the-time/)
+* [Why Customers and Companies Love Interactive Voice Response](https://digitpatrox.com/why-customers-and-companies-love-interactive-voice-response/)
+* [5 best new movies to watch this weekend on Netflix, Hulu, Prime Video and more](https://digitpatrox.com/5-best-new-movies-to-watch-this-weekend-on-netflix-hulu-prime-video-and-more/)
+* [HPE warns of critical RCE flaws in Aruba Networking access points](https://digitpatrox.com/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/)
+* [Mobvoi Home Walking Treadmill review: the smart features stressed me out](https://digitpatrox.com/mobvoi-home-walking-treadmill-review-the-smart-features-stressed-me-out/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3600762-0-49209700-1730993199-AMD_logo_on_office.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/DKxT_9dadzZqXlaO7Cp0r-yWlbI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532313/STK478_breaking_into_phone_C.jpg)](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
     
-    [AMD rolls out open-source OLMo LLM, to compete with AI giants – Computerworld](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
+    [A new iOS 18 security feature makes it harder for police to unlock iPhones](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
     
-    8 mins ago
+    1 min ago
     
-* [![](https://lifehacker.com/imagery/articles/01J97Z734D2Y6A9PPXZKH5XHRB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Amara-in-Arcane.jpg)](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
     
-    [You Can Get This Budget Samsung Chromebook on Sale for $80 Right Now](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
+    [Who is Amara in Arcane Season 2? Answered](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
     
-    36 mins ago
+    20 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730836197/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-4-Great-Sides-for-Thanksgiving-1124)](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
+* [![](https://www.cio.com/wp-content/uploads/2024/11/3600688-0-05051500-1730993537-uk-united-kingdom_fallback_generic_shutterstock_1666920130-100909877-orig-100918586-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
     
-    [4 Healthy Thanksgiving Vegetable Side Dishes](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
+    [UK launches platform to help businesses manage AI risks, build trust](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
     
-    47 mins ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/01-2024-11-02-13-22-23.jpg)](https://digitpatrox.com/true-4k-performance-monitors-for-pcs-and-playstations/)
+* [![](https://lifehacker.com/imagery/articles/01JC6PQAFVPKQ4XK2QNFCP0KJC/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-are-the-best-tech-deals-from-targets-early-black-friday-sale/)
     
-    [True 4K Performance Monitors For PCs and PlayStations](https://digitpatrox.com/true-4k-performance-monitors-for-pcs-and-playstations/)
+    [These Are the Best Tech Deals From Target’s Early Black Friday Sale](https://digitpatrox.com/these-are-the-best-tech-deals-from-targets-early-black-friday-sale/)
     
-    48 mins ago
+    3 hours ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/ivr-call-flow-featured-image-11082024-min.png)](https://digitpatrox.com/how-to-setup-an-ivr-call-flow-to-maximize-containment-rate/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1698157852/prod/content/dam/CRO-Images-2023/10October/Cars/CR-Cars-InlineHero-How-to-Protect-Yourself-Multicar-Pileup-Update-1023)](https://digitpatrox.com/how-to-protect-yourself-in-a-multicar-pileup-due-to-fog-sno/)
     
-    [How To Setup an IVR Call Flow to Maximize Containment Rate](https://digitpatrox.com/how-to-setup-an-ivr-call-flow-to-maximize-containment-rate/)
+    [How to Protect Yourself in a Multicar Pileup Due to Fog, Sno](https://digitpatrox.com/how-to-protect-yourself-in-a-multicar-pileup-due-to-fog-sno/)
     
-    1 hour ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 mins ago
+* [1 min ago
     
-    ### AMD rolls out open-source OLMo LLM, to compete with AI giants – Computerworld](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
-* [36 mins ago
+    ### A new iOS 18 security feature makes it harder for police to unlock iPhones](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
+* [20 mins ago
     
-    ### You Can Get This Budget Samsung Chromebook on Sale for $80 Right Now](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
-* [47 mins ago
+    ### Who is Amara in Arcane Season 2? Answered](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
+* [2 hours ago
     
-    ### 4 Healthy Thanksgiving Vegetable Side Dishes](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
+    ### UK launches platform to help businesses manage AI risks, build trust](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
 
 Most Popular Topics
 
-* [August 14, 2024
+* [September 11, 2024
     
-    ### Android 15 No-Show Signals Google’s Shifting Focus Towards AI](https://digitpatrox.com/android-15-no-show-signals-googles-shifting-focus-towards-ai/)
-* [August 28, 2024
+    ### My Favorite Amazon Deal of the Day: The Google Pixel 8 Pro (With a Free Pixel Watch)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-google-pixel-8-pro-with-a-free-pixel-watch/)
+* [September 27, 2024
     
-    ### Notion exits Russia and will terminate accounts in September](https://digitpatrox.com/notion-exits-russia-and-will-terminate-accounts-in-september/)
-* [August 29, 2024
+    ### Asus Zenbook S14 review | ITPro](https://digitpatrox.com/asus-zenbook-s14-review-itpro/)
+* [August 30, 2024
     
-    ### Everything you need to know about GitLab Duo Enterprise](https://digitpatrox.com/everything-you-need-to-know-about-gitlab-duo-enterprise/)
+    ### Remedy and Annapurna Partner up for Control 2 and Other Franchises](https://digitpatrox.com/remedy-and-annapurna-partner-up-for-control-2-and-other-franchises/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://digitpatrox.com/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
-* [3 hours ago
+    ### Why Customers and Companies Love Interactive Voice Response](https://digitpatrox.com/why-customers-and-companies-love-interactive-voice-response/)
+* [4 hours ago
     
-    ### DJI just added the two most requested features to its $199 Neo drone](https://digitpatrox.com/dji-just-added-the-two-most-requested-features-to-its-199-neo-drone/)
-* [3 hours ago
+    ### 5 best new movies to watch this weekend on Netflix, Hulu, Prime Video and more](https://digitpatrox.com/5-best-new-movies-to-watch-this-weekend-on-netflix-hulu-prime-video-and-more/)
+* [5 hours ago
     
-    ### Bleach TYBW Part 3 Episode 6 Release Date and Time (Countdown Timer)](https://digitpatrox.com/bleach-tybw-part-3-episode-6-release-date-and-time-countdown-timer/)
+    ### HPE warns of critical RCE flaws in Aruba Networking access points](https://digitpatrox.com/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/)
 
 Most Viewed Topics
 
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
