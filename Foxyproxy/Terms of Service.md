@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm actually quite impressed with the product \[GeoShift\].
+Love you guys btw. Wish I had the money for one of your routers.
 
-Dustin Personius
+Sher Cakes
