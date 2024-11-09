@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/efsa-slik-aspartaam-voor-zoete-koek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/geen-complot-autos-op-afstand-totaal-bestuurbaar/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
