@@ -92,7 +92,13 @@ Search site
 
 [River Flood Warning
 
-from FRI 5:18 PM CST until SAT 8:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until SAT 6:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+
+2
+
+[Tornado Watch
+
+until FRI 9:00 PM CST, Navarro County, Ellis County, Kaufman County, Freestone County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -405,35 +411,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Lt. Gov. Dan Patrick says school choice will be a priority for the Senate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/P-SHAUN-HURRICANE-BERYL-PREPS-530P_00.00.22.52.jpg?ve=1&tl=1)
+ [![Bird flu infects more farmworkers than previously known, CDC says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1244781816.jpg?ve=1&tl=1)
 
- ![Lt. Gov. Dan Patrick says school choice will be a priority for the Senate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/P-SHAUN-HURRICANE-BERYL-PREPS-530P_00.00.22.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lt-gov-dan-patrick-says-school-choice-will-be-second-bill-senate)
+ ![Bird flu infects more farmworkers than previously known, CDC says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1244781816.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cdc-guidance-bird-flu-farmworkers-2024)
 
-### [Lt. Gov. Dan Patrick says school choice will be a priority for the Senate](https://www.fox4news.com/news/lt-gov-dan-patrick-says-school-choice-will-be-second-bill-senate)
+### [Bird flu infects more farmworkers than previously known, CDC says](https://www.fox4news.com/news/cdc-guidance-bird-flu-farmworkers-2024)
 
- [![Man who killed Dallas police officer is suspect in shooting earlier that day, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/corey-cobb.jpg?ve=1&tl=1)
+ [![Missing Wylie woman found safe by local resident, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110624-cb-amelia-wylie-missing-woman-9p-pkg_kdfw11_00.00.10.28.jpg?ve=1&tl=1)
 
- ![Man who killed Dallas police officer is suspect in shooting earlier that day, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/corey-cobb.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-suspect-corey-cobb-bey-darron-burks)
+ ![Missing Wylie woman found safe by local resident, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110624-cb-amelia-wylie-missing-woman-9p-pkg_kdfw11_00.00.10.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wylie-missing-melonie-ballenger-search)
 
-### [Man who killed Dallas police officer is suspect in shooting earlier that day, police say](https://www.fox4news.com/news/dallas-shooting-suspect-corey-cobb-bey-darron-burks)
+### [Missing Wylie woman found safe by local resident, police say](https://www.fox4news.com/news/wylie-missing-melonie-ballenger-search)
 
- [![Traffic Alert: Fallen highway sign shuts down I-45 in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110824-45-sign-down-kdfweme002_11_54_59_mpg_00.00.03.16.jpg?ve=1&tl=1)
+ [![Dallas residents continue fighting proposed high-rise apartment tower](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/P-LORI-DALLAS-COUNCIL-PEPPER-SQUARE-530P_00.01.14.22.jpg?ve=1&tl=1)
 
- ![Traffic Alert: Fallen highway sign shuts down I-45 in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110824-45-sign-down-kdfweme002_11_54_59_mpg_00.00.03.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/i-45-dallas-shut-down-traffic-fallen-sign)
+ ![Dallas residents continue fighting proposed high-rise apartment tower](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/P-LORI-DALLAS-COUNCIL-PEPPER-SQUARE-530P_00.01.14.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-residents-continue-fighting-proposed-high-rise-apartment-tower)
 
-### [Traffic Alert: Fallen highway sign shuts down I-45 in Dallas](https://www.fox4news.com/news/i-45-dallas-shut-down-traffic-fallen-sign)
+### [Dallas residents continue fighting proposed high-rise apartment tower](https://www.fox4news.com/news/dallas-residents-continue-fighting-proposed-high-rise-apartment-tower)
 
- [![Ken Paxton sues Dallas doctor for providing gender-affirming care to minors](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/52b97193-GettyImages-1240251360.jpg?ve=1&tl=1)
+ [![White Settlement home invasion suspect arrested after dropping his phone while fleeing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/white-settlement-arrest.png?ve=1&tl=1)
 
- ![Ken Paxton sues Dallas doctor for providing gender-affirming care to minors](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/52b97193-GettyImages-1240251360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ken-paxton-gender-transition-lawsuit)
+ ![White Settlement home invasion suspect arrested after dropping his phone while fleeing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/white-settlement-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/white-settlement-oak-timbers-apartment-robbery)
 
-### [Ken Paxton sues Dallas doctor for providing gender-affirming care to minors](https://www.fox4news.com/news/ken-paxton-gender-transition-lawsuit)
+### [White Settlement home invasion suspect arrested after dropping his phone while fleeing](https://www.fox4news.com/news/white-settlement-oak-timbers-apartment-robbery)
 
- [![Spicy rigatoni recipe | The Ten](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/spicy.jpg?ve=1&tl=1)
+ [![Dallas weather: Tornado Watch canceled for much of North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/465989356_601268725602252_1176825055444610545_n.jpg?ve=1&tl=1)
 
- ![Spicy rigatoni recipe | The Ten](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/spicy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spicy-rigatoni-recipe-ten)
+ ![Dallas weather: Tornado Watch canceled for much of North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/465989356_601268725602252_1176825055444610545_n.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
 
-### [Spicy rigatoni recipe | The Ten](https://www.fox4news.com/news/spicy-rigatoni-recipe-ten)
+### [Dallas weather: Tornado Watch canceled for much of North Texas](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
 
 ###### [News](https://www.fox4news.com/news)
 
