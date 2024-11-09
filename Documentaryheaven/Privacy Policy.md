@@ -108,11 +108,6 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
     
     Prisoners of Katrina
@@ -133,34 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 
 ###### Throwback Documentaries
 
-* [![Brian’s Story](/wp-content/thumbnails/9949-100x70.jpg?x53432)
+* [![Gotti: Our Father, The Godfather](/wp-content/thumbnails/8877-100x70.jpg?x53432)
     
-    Brian’s Story
+    Gotti: Our Father, The Godfather
     
-    At the age of 21 Brian Davis graduated with a degree in English from Cambridge University, seven years later he was a published author and by the mid eighties he had become one of the best known journ](https://documentaryheaven.com/brians-story/ "Brian’s Story")
-* [![Not Afraid: The Shady Records Story](/wp-content/thumbnails/9680-100x70.jpg?x53432)
+    For the first time ever, John Gotti's children, Angel, Victoria and Peter, freely speak about what life was like knowing and living with their father, no question is off limits. Previously such insigh](https://documentaryheaven.com/gotti-our-father-godfather/ "Gotti: Our Father, The Godfather")
+* [![Blood in the Face](/wp-content/thumbnails/5916-100x70.jpg?x53432)
     
-    Not Afraid: The Shady Records Story
+    Blood in the Face
     
-    The folks over at Complex magazine recently got an opportunity to sit down with Eminem and his entourage, which included Paul Rosenberg, Dr. Dre, 50 Cent and Royce Da 5’9 in order to discuss the rise](https://documentaryheaven.com/not-afraid-shady-records-story/ "Not Afraid: The Shady Records Story")
-* [![Cancer Cure: Dr. Burzynski Therapy](/wp-content/thumbnails/6446-100x70.jpg?x53432)
+    Blood in the Face was inspired by a nonfiction book by author James Ridgeway, who is also credited as one of the film’s directors. This documentary was largely shot in Cohoctah Township, Michigan. It](https://documentaryheaven.com/blood-in-the-face/ "Blood in the Face")
+* [![Scientific Verification of Vedic Knowledge](/wp-content/thumbnails/2325-100x70.jpg?x53432)
     
-    Cancer Cure: Dr. Burzynski Therapy
+    Scientific Verification of Vedic Knowledge
     
-    Documentary on Stanislaw R. Burzynski's revolutionary cancer cure treatment based on his discovery on the mechanics of cancer, which lead him to the creation of the Antineoplaston Therapy. Dr. Burzyns](https://documentaryheaven.com/cancer-cure-dr-burzynski-therapy/ "Cancer Cure: Dr. Burzynski Therapy")
-* [![Fire](/wp-content/thumbnails/3998-100x70.png?x53432)
+    A vast number of statements and materials presented in the ancient Vedic literatures can be shown to agree with modern scientific findings and they also reveal a highly developed scientific content in](https://documentaryheaven.com/scientific-verification-of-vedic-knowledge/ "Scientific Verification of Vedic Knowledge")
+* [![Inside Out](/wp-content/thumbnails/5706-100x70.jpg?x53432)
     
-    Fire
+    Inside Out
     
-    Professor Iain Stewart continues his epic exploration of how the planet has shaped human history. Iain explores man's relationship with fire. He begins by embarking on an extraordinary encounter with](https://documentaryheaven.com/fire/ "Fire")
-* [![Rico: The Legacy](/wp-content/thumbnails/1633-100x70.jpg?x53432)
+    The film "Inside Out" was born out of the angst that even in the 21st century, in a city as liberal and safe and cosmopolitan as Mumbai (India), women’s access to public space is limited and largely r](https://documentaryheaven.com/inside-out/ "Inside Out")
+* [![Class Dismissed](/wp-content/thumbnails/6151-100x70.jpg?x53432)
     
-    Rico: The Legacy
+    Class Dismissed
     
-    English"This documentary (made by Jep Jorba, Miquel Àngel Arnáiz and Ester Casals) is a very humble documentary, in terms of money and material resources. We know that it has its limitations and c](https://documentaryheaven.com/rico-the-legacy/ "Rico: The Legacy")
+    Class Dismissed provides a critical look at how U.S. history is taught in high school, at the myths that reduce the complexity of history into simple soundbites, and the information that never seems t](https://documentaryheaven.com/class-dismissed/ "Class Dismissed")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
