@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![WarrenBuffet](/assets/logos/WarrenBuffetGivingGraph.png)](https://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+[![NRG Energy Giving](/assets/Images/teasers/small/NRG.png)](http://www.followthemoney.org/research/blog/nrg-energy-blue-red-green/)
 
-Warren Buffet's preference for Republican candidates, 2005-2008.
+NRG Energy Giving, by Party, 2000-13.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
