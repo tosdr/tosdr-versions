@@ -76,6 +76,7 @@ Menu
     * [Thanksgiving](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes)
         * [Thanksgiving Brunch](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/thanksgiving-brunch-ideas)
         * [Thanksgiving Appetizer Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/thanksgiving-appetizers)
+        * [Small Thanksgiving Recipes](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/small-thanksgiving-dinner-ideas)
         * [Best Turkey Recipes](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/recipes/best-turkey-recipes)
         * [Thanksgiving Side Dish Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/sides)
         * [Thanksgiving Pie Recipes](https://www.bettycrocker.com/recipes/dishes/pie-and-tart-recipes/thanksgiving)
