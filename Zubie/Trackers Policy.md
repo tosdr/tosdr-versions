@@ -297,5 +297,3 @@ No obligation. Just information.
 \*Indicates required field
 
 Learn how your information will be used in our [privacy policy](https://zubie.com/privacy-policy/).
-
-This site uses cookies for data and analytical purposes. By continuing to browse or by clicking 'Accept', you agree to this use.[Accept](#)[Privacy policy](https://zubie.com/privacy/)
