@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Lucie Bílá - Most přes rozbouřené vody](https://lyricstranslate.com/en/lucie-bila-most-pres-rozbourene-vody-lyrics)
-
-Czech
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Lucie Bílá - MissAriel](https://lyricstranslate.com/en/lucie-bila-missariel-lyrics)
-
-Czech
-
-[![LT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1-1706215881.png)](https://lyricstranslate.com/en/translator/lt "LT")
+[![Lobolyrix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1224978-1552832837.jpg)](https://lyricstranslate.com/en/translator/lobolyrix "Lobolyrix")
 
 New comment
 
-\[quote=Don Juan\]This is more aesthetic than ...  [more](https://lyricstranslate.com/en/comment/1174825#comment-1174825)
+(Title) Jormunandr > Jormungandr  [more](https://lyricstranslate.com/en/comment/1175185#comment-1175185)
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Lucie Bílá - Miluji tě](https://lyricstranslate.com/en/lucie-bila-miluji-te-lyrics)
-
-Czech
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Lucie Bílá - Martini dry](https://lyricstranslate.com/en/lucie-bila-martini-dry-lyrics)
-
-Czech
-
-[![Daria5](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1499004-1619771229.jpg)](https://lyricstranslate.com/en/translator/daria5 "Daria5")
+[![Multilingual Alpha Male](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/multilingual-alpha-male "Multilingual Alpha Male")
 
 New translation
 
-[X:IN - NEVER SORRY](https://lyricstranslate.com/en/xin-never-sorry-transliteration-0)
+[Françoise Hardy - Tous les garçons et les filles](https://lyricstranslate.com/en/francoise-hardy-tous-les-garcons-et-les-f-english-0)
 
-English → Transliteration
+French → English
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Lucie Bílá - Maratón](https://lyricstranslate.com/en/lucie-bila-maraton-lyrics)
-
-Czech
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
 New song
 
-[Lucie Bílá - Láska je laska](https://lyricstranslate.com/en/lucie-bila-laska-je-laska-lyrics)
+[Alain Bashung - Lunatic Asylum](https://lyricstranslate.com/en/alain-bashung-lunatic-asylum-lyrics)
 
-Czech
+French
+
+[![Natur Provence](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1289099-1661029088.jpg)](https://lyricstranslate.com/en/translator/natur-provence "Natur Provence")
+
+New song
+
+[Günter Pfitzmann - Der Schöne Franz](https://lyricstranslate.com/en/gunter-pfitzmann-der-schone-franz-lyrics)
+
+German (Berlinerisch dialect)
+
+[![theguy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/theguy "theguy")
+
+New song
+
+[The Kelly Family - Crazy](https://lyricstranslate.com/en/kelly-family-crazy-lyrics)
+
+English
+
+[![Tera4](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615562-1724699096.jpg)](https://lyricstranslate.com/en/translator/tera4 "Tera4")
+
+New translation
+
+[The Phantom of the Opera (Musical) - Zrcadlo \[The Mirror (Angel of Music)\]](https://lyricstranslate.com/en/phantom-o-zrcadlo-mirror-ange-english)
+
+Czech → English
+
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+
+New song
+
+[Alain Bashung - Ma peau va te plaire](https://lyricstranslate.com/en/alain-bashung-ma-peau-va-te-plaire-lyrics)
+
+French
+
+[![pocato](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1435812-1639846404.png)](https://lyricstranslate.com/en/translator/pocato "pocato")
+
+New song
+
+[REOL - RE RESCUE](https://lyricstranslate.com/en/reol-re-rescue-lyrics)
+
+Japanese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
