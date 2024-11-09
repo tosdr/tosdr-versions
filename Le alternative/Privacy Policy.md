@@ -1,6 +1,6 @@
 [Salta al contenuto](#content)
 
-[![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png)](https://www.lealternative.net/)
+[![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png.pagespeed.ce.ZqC9PI-ZT6.png)](https://www.lealternative.net/)
 
 [Le Alternative](https://www.lealternative.net/)
 
@@ -200,7 +200,7 @@ Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accet
 * [Google News](https://news.google.com/s/CBIwrIyQxEQ)
 * [Email](mailto:info@lealternative.net)
 
-[![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png)](https://www.lealternative.net/)
+[![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png.pagespeed.ce.ZqC9PI-ZT6.png)](https://www.lealternative.net/)
 
 [Trasparenza](https://www.lealternative.net/donazioni/#trasparenza) | [Contatti](https://www.lealternative.net/chi-siamo/#contatti) | [Disclaimer](https://www.lealternative.net/disclaimer/) | [Privacy](https://www.lealternative.net/privacy-policy/) | [CC BY-SA 4.0](https://www.lealternative.net/disclaimer/#licenza) | [Status](https://status.lealternative.net/) 🟢  
 Questo sito [utilizza](https://www.infomaniak.com/it/ecologia) solo energia verde 💚
