@@ -128,7 +128,7 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
+    * [Sanju Samson](https://www.news18.com/amp/cricket/list-of-records-broken-by-sanju-samson-in-1st-t20i-against-south-africa-9114118.html)
     * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
     * [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
     * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
@@ -169,7 +169,7 @@ Follow us on
 
 In Trends:
 
-* [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
+* [Sanju Samson](https://www.news18.com/amp/cricket/list-of-records-broken-by-sanju-samson-in-1st-t20i-against-south-africa-9114118.html)
 * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
 * [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
 * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
