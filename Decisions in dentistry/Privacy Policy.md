@@ -182,6 +182,18 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Get ready for an EXCLUSIVE Black Friday CE deal th ![Get ready for an EXCLUSIVE Black Friday CE deal that’s BIGGER than our main event! 📣🎉🙌🏼
+🔓📧Subscribe to our emails before Nov 13 and unlock EXTRA SAVINGS in your inbox!
+👉🏼Click the link in our bio, then click “Join Our Newsletter”
+#dentist #dentistry #dental #dds #dentalcare #oralhealth #oralcare #oralhygiene](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCH2fJaiXJL/) 
+
+[Achieving predictable and lasting esthetic outcome ![Achieving predictable and lasting esthetic outcomes with immediate implant placement requires meticulous planning and adherence to 10 essential keys. From proper implant sizing to managing gingival phenotypes, this structured approach ensures optimal bone stability and soft tissue preservation, minimizing long-term complications. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCHcXcXuLeN/) 
+
 [The economics of dental care and the push for rout ![The economics of dental care and the push for routine treatments raise concerns about overdiagnosis. Yet, with periodontal disease and caries widespread in the United States, is the real issue too much care or not enough? Link in bio.⁠
 ⁠
 ⁠
@@ -214,20 +226,6 @@ You're going to LOVE how much you learn!⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB9CUvFMChH/) 
-
-[Starting January 1, 2025, new legislation will exp ![Starting January 1, 2025, new legislation will expand the duties of dental assistants in California. While aimed at modernizing dental practices, dental hygienists express concern over the impact of these changes on patient care. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB6dhrjNlzx/) 
-
-[The rising demand for immediate tooth replacement ![The rising demand for immediate tooth replacement has pressured clinicians to provide quick solutions, but without proper planning, these can lead to failures. This article outlines 10 essential keys for achieving optimal esthetic and functional outcomes in immediate implant placement, ensuring long-term success and patient satisfaction. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB3x3W0vSIU/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
