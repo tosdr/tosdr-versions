@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How does lung cancer affect the circulatory system?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-does-lung-cancer-affect-the-circulatory-system-scaled.jpg "How Does Lung Cancer Affect the Circulatory System?")](https://www.pintas.com/practice-areas/lung-cancer/how-does-lung-cancer-affect-the-circulatory-system/ "How Does Lung Cancer Affect the Circulatory System?")
+[![Is non small cell lung cancer the same as mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-non-small-cell-lung-cancer-the-same-as-mesothelioma.jpg "Is Non Small Cell Lung Cancer the Same As Mesothelioma?")](https://www.pintas.com/lung-cancer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/ "Is Non Small Cell Lung Cancer the Same As Mesothelioma?")
 
-[#### How Does Lung Cancer Affect the Circulatory System?](https://www.pintas.com/practice-areas/lung-cancer/how-does-lung-cancer-affect-the-circulatory-system/)
+[#### Is Non Small Cell Lung Cancer the Same As Mesothelioma?](https://www.pintas.com/lung-cancer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/)
 
-[![Will my health insurance cover car accident injuries?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-will-my-health-insurance-cover-car-accident-injuries.jpg "Will My Health Insurance Cover Car Accident Injuries?")](https://www.pintas.com/practice-areas/car-accident-lawyer/will-my-health-insurance-cover-car-accident-injuries/ "Will My Health Insurance Cover Car Accident Injuries?")
+[![Who can file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-who-can-file-a-talcum-powder-lawsuit.jpg "Who Can File A Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/ "Who Can File A Talcum Powder Lawsuit?")
 
-[#### Will My Health Insurance Cover Car Accident Injuries?](https://www.pintas.com/practice-areas/car-accident-lawyer/will-my-health-insurance-cover-car-accident-injuries/)
+[#### Who Can File A Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/)
 
-[![Is there a cure for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-mesothelioma-lawyer-is-there-a-cure-for-mesothelioma.jpg "Is There a Cure for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/ "Is There a Cure for Mesothelioma?")
+[![Can you diagnose lung cancer with a pet scan?](https://www.pintas.com/wp-content/uploads/2020/11/can-you-diagnose-lung-cancer-with-a-PET-scan.jpg "Can You Diagnose Lung Cancer with a PET Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/ "Can You Diagnose Lung Cancer with a PET Scan?")
 
-[#### Is There a Cure for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/)
+[#### Can You Diagnose Lung Cancer with a PET Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
