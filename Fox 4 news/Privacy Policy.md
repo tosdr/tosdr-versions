@@ -98,7 +98,7 @@ from SAT 12:00 PM CST until SUN 9:00 AM CST, Comanche County](https://www.fox4ne
 
 [River Flood Warning
 
-until SAT 6:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until SUN 7:30 AM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -411,35 +411,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2 charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1)
+ [![FEMA official removed from role for directing hurricane relief away from Trump supporters' homes](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/gettyimages-2176966215-scaled.jpg?ve=1&tl=1)
 
- ![2 charged with murder for deadly Old East Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.04.20.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
+ ![FEMA official removed from role for directing hurricane relief away from Trump supporters' homes](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2176966215-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fema-official-removed-from-role-directing-hurricane-relief-away-from-trump-supporters-homes)
 
-### [2 charged with murder for deadly Old East Dallas shooting](https://www.fox4news.com/news/dilido-road-shooting-arrest-victim-alexis-fernando-estrada-zambrano)
+### [FEMA official removed from role for directing hurricane relief away from Trump supporters' homes](https://www.fox4news.com/news/fema-official-removed-from-role-directing-hurricane-relief-away-from-trump-supporters-homes)
 
- [![Dallas weather: Rainy Friday before sunny, dry weekend](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-first-wx-drive-cam-9p_00.00.39.38.jpg?ve=1&tl=1)
+ [![Mega Millions ticket purchased in Fort Worth wins $3 million prize](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/Mega-Millions-1.jpg?ve=1&tl=1)
 
- ![Dallas weather: Rainy Friday before sunny, dry weekend](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-first-wx-drive-cam-9p_00.00.39.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
+ ![Mega Millions ticket purchased in Fort Worth wins $3 million prize](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/Mega-Millions-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-drawing-november-9-winning-numbers-fort-worth)
 
-### [Dallas weather: Rainy Friday before sunny, dry weekend](https://www.fox4news.com/weather/dallas-weather-rain-storms-friday)
+### [Mega Millions ticket purchased in Fort Worth wins $3 million prize](https://www.fox4news.com/news/mega-millions-drawing-november-9-winning-numbers-fort-worth)
 
- [![Frisco Mountain Lion: Camera spots big cat in homeowner's backyard](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/vlcsnap-2024-11-07-19h51m20s753.png?ve=1&tl=1)
+ [![Dallas shooting: 1 killed in Oak Cliff](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
 
- ![Frisco Mountain Lion: Camera spots big cat in homeowner's backyard](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/vlcsnap-2024-11-07-19h51m20s753.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-mountain-lion)
+ ![Dallas shooting: 1 killed in Oak Cliff](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-1-killed-oak-cliff)
 
-### [Mountain lion spotted in Frisco homeowner's backyard](https://www.fox4news.com/news/frisco-mountain-lion)
+### [1 killed in Oak Cliff shooting](https://www.fox4news.com/news/dallas-shooting-1-killed-oak-cliff)
 
- [![Tony Todd reportedly dies at 69, say reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1079928326.jpg?ve=1&tl=1)
+ [![James Van Der Beek mistook cancer symptoms for problems with his diet](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/vanderbeek-fox-getty1.jpg?ve=1&tl=1)
 
- ![Tony Todd reportedly dies at 69, say reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1079928326.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tony-todd-candyman-star)
+ ![James Van Der Beek mistook cancer symptoms for problems with his diet](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/vanderbeek-fox-getty1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/james-van-der-beek-colon-cancer-symptons)
 
-### [Tony Todd reportedly dies at 69, say reports](https://www.fox4news.com/news/tony-todd-candyman-star)
+### [James Van Der Beek mistook cancer symptoms for problems with his diet](https://www.fox4news.com/news/james-van-der-beek-colon-cancer-symptons)
 
- [![Student loan forgiveness: Trump's win brings uncertainty to borrowers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/student-debt-getty.jpg?ve=1&tl=1)
+ [![Tony Todd, ‘Candyman’ and ‘Final Destination’ star, dead at 69](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/todd-getty-fnc1.jpg?ve=1&tl=1)
 
- ![Student loan forgiveness: Trump's win brings uncertainty to borrowers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/student-debt-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/student-loan-forgiveness-trumps-win-uncertainty-borrowers)
+ ![Tony Todd, ‘Candyman’ and ‘Final Destination’ star, dead at 69](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/todd-getty-fnc1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tony-todd-candyman-final-destination-star-dead-69)
 
-### [Student loan forgiveness: Trump's win brings uncertainty to borrowers](https://www.fox4news.com/news/student-loan-forgiveness-trumps-win-uncertainty-borrowers)
+### [Tony Todd, ‘Candyman’ and ‘Final Destination’ star, dead at 69](https://www.fox4news.com/news/tony-todd-candyman-final-destination-star-dead-69)
 
 ###### [News](https://www.fox4news.com/news)
 
