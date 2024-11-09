@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e03465873b2ee476096649ae3873e28d
+9740174f9e16c7feb51d39501ba1d6e6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm by 10 mm vintage Czech glass oval beads](https://sojourner.biz/images/cache/glass/GL0161.200.jpg)](https://sojourner.biz/beads/glass/12-mm-by-10-mm-vintage-czech-glass-oval-beads.html "12 mm by 10 mm vintage Czech glass oval beads")
+[![14 mm to 24 mm gray stick pearls](https://sojourner.biz/images/cache/pearls/PE0115.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-to-24-mm-gray-stick-pearls.html "14 mm to 24 mm gray stick pearls")
 
-#### [12 mm by 10 mm vintage Czech glass oval beads](https://sojourner.biz/beads/glass/12-mm-by-10-mm-vintage-czech-glass-oval-beads.html "12 mm by 10 mm vintage Czech glass oval beads")
+#### [14 mm to 24 mm gray stick pearls](https://sojourner.biz/beads/pearls/14-mm-to-24-mm-gray-stick-pearls.html "14 mm to 24 mm gray stick pearls")
 
-$11.00
+$40.00
 
 ### Best Sellers
 
