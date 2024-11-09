@@ -152,25 +152,25 @@ This site is protected by hCaptcha and its [privacy policy](https://hcaptcha.com
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1731142426) [Email](#_xfUid-1-1731142426) [Share](#_xfUid-1-1731142426) [Link](#_xfUid-1-1731142426)
+[WhatsApp](#_xfUid-1-1731164536) [Email](#_xfUid-1-1731164536) [Share](#_xfUid-1-1731164536) [Link](#_xfUid-1-1731164536)
 
 ### Forum statistics
 
 Threads
 
-67,486
+67,498
 
 Messages
 
-2,947,148
+2,948,271
 
 Members
 
-4,677,614
+4,678,831
 
 Latest member
 
-[jfkl12](https://platinmods.com/members/jfkl12.5006931/)
+[Ameliaye](https://platinmods.com/members/ameliaye.5008154/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
