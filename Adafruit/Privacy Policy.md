@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Take the tools in hand and carve your own best life”
+“ Nothing is work unless you'd rather be doing something else”
 
-[Douglas Lurton](https://archive.org/details/makemostofyourli00lurtrich)
+[George Halas](https://en.wikipedia.org/wiki/George_Halas)
 
 [](https://www.adafruit.com/about)
 
