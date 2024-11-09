@@ -7,6 +7,7 @@ icon-X Close menu
     * [A - M](https://creatorink.com/collections)
         
         * [After Skool](https://creatorink.com/collections/after-skool)
+        * [Alpharad](https://creatorink.com/collections/alpharad)
         * [Anti-Chef](https://creatorink.com/collections/anti-chef)
         * [Brody Animates](https://creatorink.com/collections/brodyanimates)
         * [Chocovania](https://creatorink.com/collections/chocovania)
@@ -18,6 +19,7 @@ icon-X Close menu
         * [FNAF](https://creatorink.com/collections/five-nights-at-freddys)
         * [FootofaFerret](https://creatorink.com/collections/foot-of-a-ferret)
         * [Haminations](https://creatorink.com/collections/haminations)
+        * [Here's Johnny](https://creatorink.com/collections/heres-johnny)
         * [Inanimate Insanity](https://creatorink.com/collections/inanimate-insanity)
         * [Infamous Swoosh](https://creatorink.com/collections/infamous-swoosh)
         * [Itsalola07](https://creatorink.com/collections/itsalola07)
@@ -32,7 +34,8 @@ icon-X Close menu
         * [Pelo](https://creatorink.com/collections/pelo)
         * [Rosanna Pansino](https://creatorink.com/collections/rosanna-pansino)
         * [SomeThingElseYT](https://creatorink.com/collections/somethingelseyt-by-adam-ortiz)
-        * [TheOdd1sOut](https://creatorink.com/collections/theodd1sout)
+        * [The Expanse](https://creatorink.com/collections/the-expanse)
+        * [The Odd 1s Out](https://creatorink.com/collections/theodd1sout)
         
     * [All Creators](https://creatorink.com/collections)
         
@@ -84,6 +87,8 @@ icon-X Close menu
     
     [After Skool](https://creatorink.com/collections/after-skool)
     
+    [Alpharad](https://creatorink.com/collections/alpharad)
+    
     [Anti-Chef](https://creatorink.com/collections/anti-chef)
     
     [Brody Animates](https://creatorink.com/collections/brodyanimates)
@@ -105,6 +110,8 @@ icon-X Close menu
     [FootofaFerret](https://creatorink.com/collections/foot-of-a-ferret)
     
     [Haminations](https://creatorink.com/collections/haminations)
+    
+    [Here's Johnny](https://creatorink.com/collections/heres-johnny)
     
     [Inanimate Insanity](https://creatorink.com/collections/inanimate-insanity)
     
@@ -130,7 +137,9 @@ icon-X Close menu
     
     [SomeThingElseYT](https://creatorink.com/collections/somethingelseyt-by-adam-ortiz)
     
-    [TheOdd1sOut](https://creatorink.com/collections/theodd1sout)
+    [The Expanse](https://creatorink.com/collections/the-expanse)
+    
+    [The Odd 1s Out](https://creatorink.com/collections/theodd1sout)
     
     [All Creators](https://creatorink.com/collections)
     
