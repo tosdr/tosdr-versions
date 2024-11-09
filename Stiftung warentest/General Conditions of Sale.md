@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
 
 Service Stiftung Warentest
 
