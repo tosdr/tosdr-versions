@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [Trump’s likely FCC chair wrote Project 2025 chapter on how he’d run the agency](https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/)
     
-4. 4. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
+4. 4. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
     
-5. 5. [Secondhand EVs will flood the market in 2026, JD Power says](https://arstechnica.com/cars/2024/11/second-hand-evs-will-flood-the-market-in-2026-jd-power-says/)
+5. 5. [Rocket Report: Australia says yes to the launch; Russia delivers for Iran](https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/)
     
 
 Customize
