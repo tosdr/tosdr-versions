@@ -240,14 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Find a domain, create a website, and get custom email
+#### Did we do a good job for you?
 
   
-
-Search
-
+[kudos@dynu.com](#) - _tell us when one of our teams went above and beyond._  
   
-[#### I already have a domain name](https://www.dynu.com/ControlPanel/TransferDomainName)
 
 ### News
 
