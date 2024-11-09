@@ -1,6 +1,4 @@
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20186%20100'%3E%3C/svg%3E)
-
-![](https://yapiapp.com/wp-content/uploads/2022/08/YAPI-logo-footer-V1.svg)](https://yapiapp.com/)
+[![](https://yapiapp.com/wp-content/uploads/2022/08/YAPI-logo-footer-V1.svg)](https://yapiapp.com/)
 
 * [Features](#)
     * [Features](#)
@@ -109,8 +107,6 @@ Our website and services are not directed at children under the age of 18. We do
 
 If you have any questions, concerns, or comments about our privacy policy, please contact us at Yapi Inc., 4100 W. Alameda Ave. Ste. 362, Burbank, CA 91505.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20186%20100'%3E%3C/svg%3E "YAPI-logo-footer-V1")
-
 ![](https://yapiapp.com/wp-content/uploads/2022/08/YAPI-logo-footer-V1.svg "YAPI-logo-footer-V1")
 
 #### Our products
@@ -138,15 +134,7 @@ If you have any questions, concerns, or comments about our privacy policy, pleas
 
 Helping thousands of dentists succeed since 2009
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://yapiapp.com/wp-content/uploads/2022/08/Facebook-Icon-50x50-black.svg)](https://www.facebook.com/goyapi)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://yapiapp.com/wp-content/uploads/2022/08/Instagram-Icon-50x50-black.svg)](https://www.instagram.com/yapi_app/?hl=en) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://yapiapp.com/wp-content/uploads/2022/08/LinkedIn-Icon-50x50-black.svg)](https://www.linkedin.com/company/yapi)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://yapiapp.com/wp-content/uploads/2022/08/YouTube-Icon-50x50-black.svg)](https://www.youtube.com/@yapi_dental)
+[![](https://yapiapp.com/wp-content/uploads/2022/08/Facebook-Icon-50x50-black.svg)](https://www.facebook.com/goyapi) [![](https://yapiapp.com/wp-content/uploads/2022/08/Instagram-Icon-50x50-black.svg)](https://www.instagram.com/yapi_app/?hl=en) [![](https://yapiapp.com/wp-content/uploads/2022/08/LinkedIn-Icon-50x50-black.svg)](https://www.linkedin.com/company/yapi)[![](https://yapiapp.com/wp-content/uploads/2022/08/YouTube-Icon-50x50-black.svg)](https://www.youtube.com/@yapi_dental)
 
 [Privacy Policy](https://yapiapp.com/privacy/) | [Terms of Use](https://yapiapp.com/terms-of-use/)
 
