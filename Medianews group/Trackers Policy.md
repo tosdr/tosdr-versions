@@ -134,7 +134,7 @@ United States of America
 Attention: Legal Department
 
 * [Privacy Policy](https://www.medianewsgroup.com/privacy-policy/)
-* [Terms of Use](https://www.medianewsgroup.com/terms-of-use/)
+* [General Terms of Use](https://www.medianewsgroup.com/terms-of-use/)
 * [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/)
 * [Accessibility](https://www.medianewsgroup.com/accessibility-statement/)
 * [Terms and Conditions](https://www.medianewsgroup.com/terms-and-conditions/)
