@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,10 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Куриное филе, запечённое с помидорами, перцем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174181)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -253,7 +249,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173407#comments) | 08.11.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173407#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -337,7 +333,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174407#comments) | 08.11.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174407#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -452,10 +448,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740055.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735988.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173407) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746390.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750495.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746376.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) |
-| [Салат с печенью, виноградом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [Салат из морской капусты с яблоком и морковью](https://www.russianfood.com/recipes/recipe.php?rid=173407) | [Гармошка из куриного филе с грибами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [Гриссини-змейки](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) |
-| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750462.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174685) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) |
-| [Меренговый рулет со сливочным кремом и ягодами](https://www.russianfood.com/recipes/recipe.php?rid=174685) | [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) |
+| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746376.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750462.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174685) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750495.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746390.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) |
+| [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [Меренговый рулет со сливочным кремом и ягодами](https://www.russianfood.com/recipes/recipe.php?rid=174685) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [Гриссини-змейки](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [Гармошка из куриного филе с грибами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174609) | [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) |
+| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740055.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735988.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173407) |
+| [Салат с печенью, виноградом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174407) | [Салат из морской капусты с яблоком и морковью](https://www.russianfood.com/recipes/recipe.php?rid=173407) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +468,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(139)
+(93)
