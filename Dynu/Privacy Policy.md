@@ -240,22 +240,14 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Want to contribute ?
+### Find a domain, create a website, and get custom email
 
   
 
-[Submit your Article](https://www.dynu.com/Support/ContactUs)  
-  
+Search
 
   
-
-[Suggest an Update](https://www.dynu.com/Support/ContactUs)  
-  
-
-  
-
-[Request an Article](https://www.dynu.com/Support/ContactUs)  
-  
+[#### I already have a domain name](https://www.dynu.com/ControlPanel/TransferDomainName)
 
 ### News
 
