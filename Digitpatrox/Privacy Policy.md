@@ -20,16 +20,16 @@ Saturday, November 9 2024
 
 Latest
 
-* [Microsoft adds Copilot AI features to some non-US M365 consumer plans – Computerworld](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
-* [Oral Decongestant Phenylephrine Will Be Pulled From Market, FDA Says](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
-* [2025 Mini Countryman SE EV First Drive Review](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
-* [Today’s NYT Connections Hints and Answer for November 8 (#516)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-8-516/)
-* [What does a data center look like in the AI era?](https://digitpatrox.com/what-does-a-data-center-look-like-in-the-ai-era/)
-* [12 Steps to Address Australia’s Skills Shortage, Australian Computer Society Reports](https://digitpatrox.com/12-steps-to-address-australias-skills-shortage-australian-computer-society-reports/)
-* [I’ve been testing Apple Intelligence — here’s 3 reasons why it’s worth upgrading to a new iPhone](https://digitpatrox.com/ive-been-testing-apple-intelligence-heres-3-reasons-why-its-worth-upgrading-to-a-new-iphone/)
-* [D-Link won’t fix critical flaw affecting 60,000 older NAS devices](https://digitpatrox.com/d-link-wont-fix-critical-flaw-affecting-60000-older-nas-devices/)
-* [YouTube Premium’s legacy price breaks are going away for more users](https://digitpatrox.com/youtube-premiums-legacy-price-breaks-are-going-away-for-more-users/)
-* [NYT Connections Today: Hints and Answers for November 9, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-9-2024/)
+* [AMD rolls out open-source OLMo LLM, to compete with AI giants – Computerworld](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
+* [You Can Get This Budget Samsung Chromebook on Sale for $80 Right Now](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
+* [4 Healthy Thanksgiving Vegetable Side Dishes](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
+* [True 4K Performance Monitors For PCs and PlayStations](https://digitpatrox.com/true-4k-performance-monitors-for-pcs-and-playstations/)
+* [How To Setup an IVR Call Flow to Maximize Containment Rate](https://digitpatrox.com/how-to-setup-an-ivr-call-flow-to-maximize-containment-rate/)
+* [I’m a mattress deals writer — the 5 Black Friday sales I’d shop this weekend](https://digitpatrox.com/im-a-mattress-deals-writer-the-5-black-friday-sales-id-shop-this-weekend/)
+* [Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://digitpatrox.com/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
+* [DJI just added the two most requested features to its $199 Neo drone](https://digitpatrox.com/dji-just-added-the-two-most-requested-features-to-its-199-neo-drone/)
+* [Bleach TYBW Part 3 Episode 6 Release Date and Time (Countdown Timer)](https://digitpatrox.com/bleach-tybw-part-3-episode-6-release-date-and-time-countdown-timer/)
+* [Can the four-day week work for tech?](https://digitpatrox.com/can-the-four-day-week-work-for-tech/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601452-0-84597400-1731095897-microsoft-Copilot-ai.png?w=1024)](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3600762-0-49209700-1730993199-AMD_logo_on_office.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
     
-    [Microsoft adds Copilot AI features to some non-US M365 consumer plans – Computerworld](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
+    [AMD rolls out open-source OLMo LLM, to compete with AI giants – Computerworld](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
     
     8 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HF2GZB0GBYZPMGMN1JDBQDJH/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
+* [![](https://lifehacker.com/imagery/articles/01J97Z734D2Y6A9PPXZKH5XHRB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
     
-    [Oral Decongestant Phenylephrine Will Be Pulled From Market, FDA Says](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
+    [You Can Get This Budget Samsung Chromebook on Sale for $80 Right Now](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
     
     36 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730911392/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Mini-Countryman-EV-f-driving-11-24)](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730836197/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-4-Great-Sides-for-Thanksgiving-1124)](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
     
-    [2025 Mini Countryman SE EV First Drive Review](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
+    [4 Healthy Thanksgiving Vegetable Side Dishes](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
     
     47 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-8-516/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/01-2024-11-02-13-22-23.jpg)](https://digitpatrox.com/true-4k-performance-monitors-for-pcs-and-playstations/)
     
-    [Today’s NYT Connections Hints and Answer for November 8 (#516)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-8-516/)
+    [True 4K Performance Monitors For PCs and PlayStations](https://digitpatrox.com/true-4k-performance-monitors-for-pcs-and-playstations/)
     
     48 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/RVcNr8FAxg7tZd3zzQALkm-1200-80.jpg)](https://digitpatrox.com/what-does-a-data-center-look-like-in-the-ai-era/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/ivr-call-flow-featured-image-11082024-min.png)](https://digitpatrox.com/how-to-setup-an-ivr-call-flow-to-maximize-containment-rate/)
     
-    [What does a data center look like in the AI era?](https://digitpatrox.com/what-does-a-data-center-look-like-in-the-ai-era/)
+    [How To Setup an IVR Call Flow to Maximize Containment Rate](https://digitpatrox.com/how-to-setup-an-ivr-call-flow-to-maximize-containment-rate/)
     
     1 hour ago
     
@@ -210,49 +210,49 @@ Recent Topics
 
 * [8 mins ago
     
-    ### Microsoft adds Copilot AI features to some non-US M365 consumer plans – Computerworld](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
+    ### AMD rolls out open-source OLMo LLM, to compete with AI giants – Computerworld](https://digitpatrox.com/amd-rolls-out-open-source-olmo-llm-to-compete-with-ai-giants-computerworld/)
 * [36 mins ago
     
-    ### Oral Decongestant Phenylephrine Will Be Pulled From Market, FDA Says](https://digitpatrox.com/oral-decongestant-phenylephrine-will-be-pulled-from-market-fda-says/)
+    ### You Can Get This Budget Samsung Chromebook on Sale for $80 Right Now](https://digitpatrox.com/you-can-get-this-budget-samsung-chromebook-on-sale-for-80-right-now/)
 * [47 mins ago
     
-    ### 2025 Mini Countryman SE EV First Drive Review](https://digitpatrox.com/2025-mini-countryman-se-ev-first-drive-review/)
+    ### 4 Healthy Thanksgiving Vegetable Side Dishes](https://digitpatrox.com/4-healthy-thanksgiving-vegetable-side-dishes/)
 
 Most Popular Topics
 
-* [September 20, 2024
+* [August 14, 2024
     
-    ### Salesforce may have had its ‘ChatGPT moment’ with AI agents – and it will take a lot to knock the company off its perch](https://digitpatrox.com/salesforce-may-have-had-its-chatgpt-moment-with-ai-agents-and-it-will-take-a-lot-to-knock-the-company-off-its-perch/)
-* [September 27, 2024
+    ### Android 15 No-Show Signals Google’s Shifting Focus Towards AI](https://digitpatrox.com/android-15-no-show-signals-googles-shifting-focus-towards-ai/)
+* [August 28, 2024
     
-    ### Upper Merion Township, PA notifies residents of data breach that compromised their personal info](https://digitpatrox.com/upper-merion-township-pa-notifies-residents-of-data-breach-that-compromised-their-personal-info/)
-* [October 3, 2024
+    ### Notion exits Russia and will terminate accounts in September](https://digitpatrox.com/notion-exits-russia-and-will-terminate-accounts-in-september/)
+* [August 29, 2024
     
-    ### Top 10 Highest Grossing Movies of 2024 So Far](https://digitpatrox.com/top-10-highest-grossing-movies-of-2024-so-far/)
+    ### Everything you need to know about GitLab Duo Enterprise](https://digitpatrox.com/everything-you-need-to-know-about-gitlab-duo-enterprise/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### I’ve been testing Apple Intelligence — here’s 3 reasons why it’s worth upgrading to a new iPhone](https://digitpatrox.com/ive-been-testing-apple-intelligence-heres-3-reasons-why-its-worth-upgrading-to-a-new-iphone/)
 * [3 hours ago
     
-    ### D-Link won’t fix critical flaw affecting 60,000 older NAS devices](https://digitpatrox.com/d-link-wont-fix-critical-flaw-affecting-60000-older-nas-devices/)
+    ### Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://digitpatrox.com/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
 * [3 hours ago
     
-    ### YouTube Premium’s legacy price breaks are going away for more users](https://digitpatrox.com/youtube-premiums-legacy-price-breaks-are-going-away-for-more-users/)
+    ### DJI just added the two most requested features to its $199 Neo drone](https://digitpatrox.com/dji-just-added-the-two-most-requested-features-to-its-199-neo-drone/)
+* [3 hours ago
+    
+    ### Bleach TYBW Part 3 Episode 6 Release Date and Time (Countdown Timer)](https://digitpatrox.com/bleach-tybw-part-3-episode-6-release-date-and-time-countdown-timer/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
