@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-56155ad489f87ed0fe14b1746cce6fa7
+3c1aa7ce55a7e8b179bd51ab23ff281c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![EB18 bead](https://sojourner.biz/images/cache/EB18lbl.200.jpg)](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
+[![6 mm by 8 mm Vintage Czech glass irregular cube beads](https://sojourner.biz/images/cache/glass/GL0084.200.jpg)](https://sojourner.biz/beads/glass/6-mm-by-8-mm-vintage-czech-glass-irregular-cube-beads.html "6 mm by 8 mm Vintage Czech glass irregular cube beads")
 
-#### [EB18 bead](https://sojourner.biz/beads/metal/eb18-bead.html "EB18 bead")
+#### [6 mm by 8 mm Vintage Czech glass irregular cube beads](https://sojourner.biz/beads/glass/6-mm-by-8-mm-vintage-czech-glass-irregular-cube-beads.html "6 mm by 8 mm Vintage Czech glass irregular cube beads")
 
-$6.50
+$9.00
 
 ### Best Sellers
 
