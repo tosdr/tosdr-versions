@@ -373,4 +373,4 @@ S.T.A.R. Bullion Storage and Silver Bullion logos and names are registered trade
 
 ×Close
 
-[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.9627629476426)
+[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.0286510815046034)
