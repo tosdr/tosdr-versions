@@ -303,6 +303,10 @@ Privacy Policy
 
 [Home](https://www.peoplestrust.com/en/) > [Legal](https://www.peoplestrust.com/en/legal/) > [Privacy & Security](https://www.peoplestrust.com/en/legal/privacy-security/) > Privacy Policy
 
+**Notice:** Due to a planned system upgrade, Interac e-Transfer will be unavailable intermittently between 01:00 am – 4:00 am PT (4:00 am - 7:00 am ET) on Sunday November 10, 2024. We apologize for any inconvenience.
+
+**Attention:** En raison d'une mise à jour de nos systèmes, les Virements Interac seront indisponibles par intermittence le Dimanche 10 Novembre 2024 entre 01 h 00 et 04 h 00 heure du Pacifique (4 h 00 - 07 h 00 heure de l'Est). Nous vous présentons toutes nos excuses pour ce désagrément.
+
 ### **PRIVACY POLICY**
 
 #### **Protecting your privacy – we’re in it together!**
