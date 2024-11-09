@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Flips Nevada, Nears Sweep of Swing States](https://www.theepochtimes.com/us/trump-flips-nevada-nears-sweep-of-swing-states-5754080)
+    
+    3hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Trump Flips Nevada, Nears Sweep of Swing States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Flips Nevada, Nears Sweep of Swing States](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752275-DSC_1796-LasVegas-Nevada-Jacob-Kepler-trump_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-flips-nevada-nears-sweep-of-swing-states-5754080)
+* [‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://www.theepochtimes.com/us/its-hard-to-lose-walz-returns-home-to-minnesota-after-election-loss-5756966)
+    
+    5hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    
+    [![‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756982-Tim-Walz-AP24313811271321-205x123.jpg.webp)](https://www.theepochtimes.com/us/its-hard-to-lose-walz-returns-home-to-minnesota-after-election-loss-5756966)
 * [Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756877-GettyImages-2182554830-205x123.jpg.webp)](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
 * [Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
     
-    2hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    8hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
     [![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697574-GettyImages-1238839241-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
 * [Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://www.theepochtimes.com/article/day-in-photos-swift-wildfire-legislators-attack-and-a-respectful-2-minute-silence-5756641)
     
-    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    8hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756918-California_Winds_Wildfires_24312830408275KO-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-swift-wildfire-legislators-attack-and-a-respectful-2-minute-silence-5756641)
-* [6 Things To Know About Susie Wiles, Trump’s Next Chief of Staff](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
+* [6 Things to Know About Susie Wiles, Trump’s Next Chief of Staff](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
     
-    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![6 Things To Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![6 Things to Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![6 Things To Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756953-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
+    ![6 Things to Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756953-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
 * [Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://www.theepochtimes.com/us/governors-attorneys-general-roll-out-plans-to-contest-trump-admins-policies-5756476)
     
-    4hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    9hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
     [![Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756462-Trump-GettyImages-2183218884-205x123.jpg.webp)](https://www.theepochtimes.com/us/governors-attorneys-general-roll-out-plans-to-contest-trump-admins-policies-5756476)
 * [Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://www.theepochtimes.com/us/meeting-to-resist-trump-reveals-rift-between-progressive-moderate-democrats-5756685)
     
-    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755679-11062024-DSC08429-Harris-concession-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/meeting-to-resist-trump-reveals-rift-between-progressive-moderate-democrats-5756685)
 * [Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://www.theepochtimes.com/china/lawmakers-turn-attention-to-chips-companies-as-industry-braces-for-china-restrictions-5756598)
     
-    4hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    10hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
     [![Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://img.theepochtimes.com/assets/uploads/2024/08/06/id5700785-GettyImages-1541248341-205x123.jpg.webp)](https://www.theepochtimes.com/china/lawmakers-turn-attention-to-chips-companies-as-industry-braces-for-china-restrictions-5756598)
 * [Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://www.theepochtimes.com/us/witnesses-in-daniel-penny-trial-describe-fears-for-their-safety-in-subway-incident-5756769)
     
-    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    10hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://img.theepochtimes.com/assets/uploads/2024/11/id5752161-1.tagreuters.com2024binary_LYNXMPEKA0177-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/witnesses-in-daniel-penny-trial-describe-fears-for-their-safety-in-subway-incident-5756769)
-* [Joe Rogan Urges Trump to Rebuild American Unity](https://www.theepochtimes.com/us/joe-rogan-urges-trump-to-rebuild-american-unity-5756811)
-    
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Joe Rogan Urges Trump to Rebuild American Unity](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Joe Rogan Urges Trump to Rebuild American Unity](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740640-Trump_Rogan-rogan-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/joe-rogan-urges-trump-to-rebuild-american-unity-5756811)
-* [UK Must Avoid Complicity in CCP’s Forced Organ Harvesting, Says Rights Panel](https://www.theepochtimes.com/china/uk-must-avoid-complicity-in-ccps-forced-organ-harvesting-says-rights-panel-5756741)
-    
-    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![UK Must Avoid Complicity in CCP’s Forced Organ Harvesting, Says Rights Panel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![UK Must Avoid Complicity in CCP’s Forced Organ Harvesting, Says Rights Panel](https://img.theepochtimes.com/assets/uploads/2023/07/17/id5402995-Falun-Gong-UK-London-205x123.jpg.webp)](https://www.theepochtimes.com/china/uk-must-avoid-complicity-in-ccps-forced-organ-harvesting-says-rights-panel-5756741)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
