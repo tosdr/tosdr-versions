@@ -1,16 +1,16 @@
 Rated 4.9 / 5 based on [750 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
 Trustpilot
 
 Africa's Leading Safari Company 2024 – World Travel Awards
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
 
 [+1 (800) 854-1896](tel:+1(800)854-1896)
 
-[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/67135389be2521c91c01a1f7_winner_logo_variation.png)](https://www.safari.com/)
+[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67135389be2521c91c01a1f7_winner_logo_variation.png)](https://www.safari.com/)
 
 __
 
@@ -95,8 +95,6 @@ About us
 [Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
 
 Menu
-
-[start planning](https://www.safari.com/start-planning)
 
 Terms & Conditions
 ------------------
@@ -217,7 +215,7 @@ VARIATION OF THESE TERMS
 Customer Testimonials
 ---------------------
 
-![Trustpilot Logo](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1292ed2fecfb_588-5885660_adding-trustpilot-image-next-to-logo-on-supply.png)
+![Trustpilot Logo](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1292ed2fecfb_588-5885660_adding-trustpilot-image-next-to-logo-on-supply.png)
 
 4.9
 
@@ -225,7 +223,19 @@ out of 5 based on
 
 [750 reviews](https://www.trustpilot.com/review/www.safari.com)
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 8, 2024
+
+> Sara was very helpful
+
+> Sara was very helpful, she answered all my questions, addressed all my requests and did so very quickly 😁
+
+Melanie
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 8, 2024
 
@@ -237,7 +247,7 @@ Ben George
 
 ,
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 7, 2024
 
@@ -251,7 +261,7 @@ Melissa Solomon
 
 US
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 7, 2024
 
@@ -265,7 +275,7 @@ Larissa Santos
 
 AU
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 7, 2024
 
@@ -279,7 +289,7 @@ Jason Albert
 
 us
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 6, 2024
 
@@ -293,7 +303,7 @@ brawh
 
 US
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 5, 2024
 
@@ -307,7 +317,7 @@ Bryan
 
 GB
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 5, 2024
 
@@ -321,7 +331,7 @@ Bradley
 
 ZA
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 5, 2024
 
@@ -334,20 +344,6 @@ Werner Untrieser
 ,
 
 DE
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 2, 2024
-
-> We can't thank Shann enough!!!
-
-> We can't thank Shann enough for her exceptional help in planning our trip! She went above and beyond to ensure every detail was perfect, from booking our flights and safari to arranging seamless transportation. Shann was incredibly responsive, always available to answer our questions and offer guidance. Her dedication and attention to detail truly made our trip stress-free and enjoyable. We \*highly recommend\* her to anyone looking for top-notch service and a worry-free travel experience!
-
-Tanaya Peck
-
-,
-
-US
 
 VIP service
 
@@ -367,11 +363,11 @@ Consultants available 24/7
 
 Contact a safari expert now
 
- [![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/638500515c3f6754a3924b53_WhatsApp%20icon.png)
+ [![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/638500515c3f6754a3924b53_WhatsApp%20icon.png)
 
- WhatsApp](https://go.wa.link/africansafari)[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd3dae70e909fa3afc073_Flag%20SA.png)
+ WhatsApp](https://go.wa.link/africansafari)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd3dae70e909fa3afc073_Flag%20SA.png)
 
-+27 21 468 7255](tel:+27214687255)[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
++27 21 468 7255](tel:+27214687255)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
 
 (800) 854-1896](tel:(800)854-1896)
 
@@ -396,11 +392,11 @@ Contact a safari expert now
 * [Instagram](https://www.instagram.com/safaridotcom)
 * [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@Safaricom-iz5ff)
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94d8ce96361ca285c045_logo-green.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94d8ce96361ca285c045_logo-green.svg)
 
 #### Moments of Greatness  
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/67132f71d8a5e523112b09ce_africas-leading-safari-company-2024-winner-shield-256.png)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67132f71d8a5e523112b09ce_africas-leading-safari-company-2024-winner-shield-256.png)
 
 #### Voted **Africa's Leading Safari Company 2024** by the [World Travel Awards](https://www.worldtravelawards.com/award-africas-leading-safari-company-2024).  
 
@@ -412,7 +408,7 @@ Cape Town
 Southern Africa Tourism Services Association (SATSA) – Member No. #1680  
 African Travel & Tourism Association (ATTA) – Member No. #206430  
 
-[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)](https://www.safari.com/travel-with-us#atta-certified)[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)](https://www.safari.com/travel-with-us#satsa-certified)
+[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)](https://www.safari.com/travel-with-us#atta-certified)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)](https://www.safari.com/travel-with-us#satsa-certified)
 
 [Terms of use](https://www.safari.com/terms-and-conditions)
 
