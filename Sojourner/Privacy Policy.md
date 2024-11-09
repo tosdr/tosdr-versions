@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5a0f349dc3130f670c2e8044da8a5003
+1eca79fd73479c65aa3013f3e646376c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Coral floral clasp](https://www.sojourner.biz/images/cache/SKU0096variations.200.jpg)](https://www.sojourner.biz/clasps/glass/coral-floral-clasp.html "Coral floral clasp")
+[![Turquoise clasp](https://www.sojourner.biz/images/cache/SKU0002-2front.200.jpg)](https://www.sojourner.biz/clasps/semi-precious/turquoise-clasp.html "Turquoise clasp")
 
-#### [Coral floral clasp](https://www.sojourner.biz/clasps/glass/coral-floral-clasp.html "Coral floral clasp")
+#### [Turquoise clasp](https://www.sojourner.biz/clasps/semi-precious/turquoise-clasp.html "Turquoise clasp")
 
-$24.50
+$41.00
 
 ### Best Sellers
 
