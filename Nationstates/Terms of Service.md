@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [WHAT IS HAWK TUAH PLEASE EXPLAIN (2)](https://forum.nationstates.net/viewtopic.php?t=558117&f=25&view=unread#unread ""WHAT IS HAWK TUAH PLEASE EXPLAIN" (2 posts)")
-* [The country game(a roleplay) (8,378)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (8,378 posts)")
-* [American Politics: Turnabout Trump (2,065)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (2,065 posts)")
-* [Where would AL be from IRL? (18)](https://forum.nationstates.net/viewtopic.php?t=557308&f=25&view=unread#unread ""Where would AL be from IRL?" (18 posts)")
-* [\[λ\] What If Every US County Was A State? (9)](https://forum.nationstates.net/viewtopic.php?t=558116&f=20&view=unread#unread ""[λ] What If Every US County Was A State?" (9 posts)")
+* [Draft \[Commend Refugia\] (4)](https://forum.nationstates.net/viewtopic.php?t=558108&f=24&view=unread#unread ""Draft [Commend Refugia]" (4 posts)")
+* [Grant AN's curse then make it good (27)](https://forum.nationstates.net/viewtopic.php?t=557930&f=25&view=unread#unread ""Grant AN's curse then make it good" (27 posts)")
+* [Say a random sentence (9,140)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,140 posts)")
+* [Which "Dere" is AN/AU? (274)](https://forum.nationstates.net/viewtopic.php?t=557828&f=25&view=unread#unread ""Which "Dere" is AN/AU?" (274 posts)")
+* [\[Abortion Thread\] To rules? To conseq… (1,634)](https://forum.nationstates.net/viewtopic.php?t=549913&f=20&view=unread#unread ""[Abortion Thread] To rules? To consequences!" (1,634 posts)")
 
 Advertisement
 
