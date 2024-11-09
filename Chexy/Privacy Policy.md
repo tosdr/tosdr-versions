@@ -327,3 +327,93 @@ Social
 [X](https://twitter.com/chexyrent)
 
 [©](https://www.framer.com/) Chexy inc
+
+![](https://framerusercontent.com/images/QxdK4VugqG6hNAuVeBwoaVRgxo.png)
+
+CHEXY
+
+About us
+
+[Contact us](https://intercom.help/chexyrent/en)
+
+[Careers](https://chexy.applytojobs.ca/)
+
+Legal
+
+[Privacy Policy](https://www.chexy.co/privacy-policy)
+
+[Terms of use](https://www.chexy.co/T&Cs)
+
+Social
+
+[Instagram](https://www.instagram.com/chexy.rent/)
+
+[TikTok](https://www.tiktok.com/@getchexy)
+
+[Facebook](https://www.facebook.com/getchexy/)
+
+[Linkedin](https://www.linkedin.com/company/chexy/)
+
+[X](https://twitter.com/chexyrent)
+
+[©](https://www.framer.com/) Chexy inc
+
+![](https://framerusercontent.com/images/QxdK4VugqG6hNAuVeBwoaVRgxo.png)
+
+CHEXY
+
+About us
+
+[Contact us](https://intercom.help/chexyrent/en)
+
+[Careers](https://chexy.applytojobs.ca/)
+
+Legal
+
+[Privacy Policy](https://www.chexy.co/privacy-policy)
+
+[Terms of use](https://www.chexy.co/T&Cs)
+
+Social
+
+[Instagram](https://www.instagram.com/chexy.rent/)
+
+[TikTok](https://www.tiktok.com/@getchexy)
+
+[Facebook](https://www.facebook.com/getchexy/)
+
+[Linkedin](https://www.linkedin.com/company/chexy/)
+
+[X](https://twitter.com/chexyrent)
+
+[©](https://www.framer.com/) Chexy inc
+
+![](https://framerusercontent.com/images/QxdK4VugqG6hNAuVeBwoaVRgxo.png)
+
+CHEXY
+
+About us
+
+[Contact us](https://intercom.help/chexyrent/en)
+
+[Careers](https://chexy.applytojobs.ca/)
+
+Legal
+
+[Privacy Policy](https://www.chexy.co/privacy-policy)
+
+[Terms of use](https://www.chexy.co/T&Cs)
+
+Social
+
+[Instagram](https://www.instagram.com/chexy.rent/)
+
+[TikTok](https://www.tiktok.com/@getchexy)
+
+[Facebook](https://www.facebook.com/getchexy/)
+
+[Linkedin](https://www.linkedin.com/company/chexy/)
+
+[X](https://twitter.com/chexyrent)
+
+[©](https://www.framer.com/) Chexy inc
