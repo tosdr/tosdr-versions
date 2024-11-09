@@ -59,7 +59,7 @@ Menu
     * [Playlist: Proxmox Tutorials](https://www.smarthomebeginner.com/go/proxmox-tutorials-playlist)
 * [Deployarr](https://www.smarthomebeginner.com/deployarr/)
     * [Deployarr Product Page](https://www.smarthomebeginner.com/deployarr/)
-    * [Deployarr v5 Release](https://www.smarthomebeginner.com/deployarr-v5/)
+    * [Deployarr v5 Release](https://www.smarthomebeginner.com/deployarr-v5-launched/)
     * [Video: 20-min Intro](https://www.smarthomebeginner.com/go/deployarr-v5-intro)
     * [Video: Detailed Guide](https://www.smarthomebeginner.com/go/deployarr-v5-detailed-guide)
 * [Members](https://www.smarthomebeginner.com/membership-account/)
@@ -125,7 +125,7 @@ Menu
     * [Playlist: Proxmox Tutorials](https://www.smarthomebeginner.com/go/proxmox-tutorials-playlist)
 * [Deployarr](https://www.smarthomebeginner.com/deployarr/)
     * [Deployarr Product Page](https://www.smarthomebeginner.com/deployarr/)
-    * [Deployarr v5 Release](https://www.smarthomebeginner.com/deployarr-v5/)
+    * [Deployarr v5 Release](https://www.smarthomebeginner.com/deployarr-v5-launched/)
     * [Video: 20-min Intro](https://www.smarthomebeginner.com/go/deployarr-v5-intro)
     * [Video: Detailed Guide](https://www.smarthomebeginner.com/go/deployarr-v5-detailed-guide)
 * [Members](https://www.smarthomebeginner.com/membership-account/)
@@ -175,11 +175,11 @@ Deployarr 5 Walkthrough: Docker Homelab in Minutes🚀
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 104 / 150 by Dec 31, 2024
+> 114 / 150 by Dec 31, 2024
 > 
-> [Join Us](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
+> [Join the Geek Army!](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
-> [Why did we start Memberships?](https://www.smarthomebeginner.com/state-of-the-site-2023/)
+> [Why did I start Memberships?](https://www.smarthomebeginner.com/state-of-the-site-2023/)
 
 [](https://www.youtube.com/@anandslab)
 
@@ -190,31 +190,31 @@ Deployarr 5 Walkthrough: Docker Homelab in Minutes🚀
 Recent Posts
 ------------
 
-* [![Authelia Docker Compose Guide](https://www.smarthomebeginner.com/images/2024/02/Docker-Series-06-Authelia-150x84.png "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 2")
+* [![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-v5-with-90-Apps-Thumbnail-150x85.jpg "Deployarr v5 Launched: Is it an Embarrassment? BS? 2")
     
-    ![Authelia Docker Compose Guide](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 2")](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
+    ![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr v5 Launched: Is it an Embarrassment? BS? 2")](https://www.smarthomebeginner.com/deployarr-v5-launched/)
+    
+    [Deployarr v5 Launched: Is it an Embarrassment? BS?](https://www.smarthomebeginner.com/deployarr-v5-launched/)
+* [![Authelia Docker Compose Guide](https://www.smarthomebeginner.com/images/2024/02/Docker-Series-06-Authelia-150x84.png "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 3")
+    
+    ![Authelia Docker Compose Guide](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 3")](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
     
     [Authelia Docker Compose Guide: Secure 2-Factor Auth \[2024-v2\]](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
-* [![Uptime Kuma Docker Compose](https://www.smarthomebeginner.com/images/2024/05/title-2-150x93.jpeg "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 3")
+* [![Uptime Kuma Docker Compose](https://www.smarthomebeginner.com/images/2024/05/title-2-150x93.jpeg "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 4")
     
-    ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 3")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
+    ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 4")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
     
     [Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
-* [![Deployarr Version 5 Intro | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-Version-5-Intro-150x85.jpg "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")
+* [![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-v5-with-90-Apps-Thumbnail-150x85.jpg "Deployarr: 90+ Docker Apps in Minutes with Traefik, SSL, Authelia 5")
     
-    ![Deployarr Version 5 Intro | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")](https://www.smarthomebeginner.com/deployarr/)
+    ![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr: 90+ Docker Apps in Minutes with Traefik, SSL, Authelia 5")](https://www.smarthomebeginner.com/deployarr/)
     
-    [Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia](https://www.smarthomebeginner.com/deployarr/)
-* [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 5")
+    [Deployarr: 90+ Docker Apps in Minutes with Traefik, SSL, Authelia](https://www.smarthomebeginner.com/deployarr/)
+* [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 6")
     
-    ![Bash Aliases For Docker](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 5")](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
+    ![Bash Aliases For Docker](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 6")](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
     
     [Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
-* [![Traefik V3 Docker Compose](https://www.smarthomebeginner.com/images/2024/05/Docker-Series-05-Traefik-v3-150x84.png "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 6")
-    
-    ![Traefik V3 Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 6")](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
-    
-    [Ultimate Traefik v3 Docker Compose Guide \[2024\]: LE, SSL, Reverse Proxy](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
 
 [Post Archives](https://www.smarthomebeginner.com/archives/)
 
@@ -232,3 +232,12 @@ All information on smarthomebeginner.com is for informational purposes only. No 
 * [Contact Us](https://www.smarthomebeginner.com/contact/)
 
 Copyright © 2024 HTPCBEGINNER LLC. All Rights Reserved · No reproduction without permission
+
+Deployarr 5 Released!
+---------------------
+
+Automate Homelab Setup with Deployarr. ([Launch Sale](https://www.smarthomebeginner.com/deployarr/))
+
+15% Off Code: **DEPLOYARR5**
+
+Try Deployarr
