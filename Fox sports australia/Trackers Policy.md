@@ -212,116 +212,16 @@ FOX SCORES
     | CAI | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080006)
-* [NBA
+* [NBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ORL | 115 |
-    | NO  | 88  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010182/box-score)
-* [NBA
-    
-    Full Time
+    10/11 16:30 AEST
     
     |     |     |
     | --- | --- |
-    | CHA | 103 |
-    | IND | 83  |
+    | ADL | –   |
+    | ILL | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010183/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DET | 122 |
-    | ATL | 121 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010181/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NY  | 116 |
-    | MIL | 94  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011039/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CLE | 136 |
-    | GS  | 117 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010185/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DAL | 113 |
-    | PHO | 114 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010186/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BOS | 108 |
-    | BKN | 104 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010184/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | OKC | 126 |
-    | HOU | 107 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011040/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MEM | 128 |
-    | WAS | 104 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010187/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 127 |
-    | POR | 102 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011041/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DEN | 135 |
-    | MIA | 122 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010188/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080007)
 * [NBA
     
     Full Time
@@ -386,46 +286,16 @@ FOX SCORES
     
 * [Men's Test
     
-    10/11 2:10 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | ENG | –   |
-    | AUS | –   |
+    | ENG | 37  |
+    | AUS | 42  |
     
     Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20241302)
 * Football
     
-* [A-League W
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MVC | 2   |
-    | MCY | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250202)
-* [A-League W
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BRI | 1   |
-    | SYD | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250203)
-* [A-League W
-    
-    10/11 14:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | WEL | –   |
-    | CAN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250204)
 * [A-League M
     
     Full Time
@@ -446,54 +316,114 @@ FOX SCORES
     | WUN | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250403)
-* [Premier League
+* [A-League M
     
-    10/11 2:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BRE | –   |
-    | BOU | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251110)
-* [Premier League
-    
-    10/11 2:00 AEST
+    10/11 16:00 AEST
     
     |     |     |
     | --- | --- |
-    | WOL | –   |
-    | SOU | –   |
+    | CCM | –   |
+    | WEL | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251108)
-* [Premier League
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250404)
+* [A-League M
     
-    10/11 2:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CRY | –   |
-    | FUL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251106)
-* [Premier League
-    
-    10/11 2:00 AEST
+    10/11 18:00 AEST
     
     |     |     |
     | --- | --- |
-    | WHU | –   |
-    | EVE | –   |
+    | SYD | –   |
+    | MAC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250405)
+* [A-League M
+    
+    10/11 20:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | MCY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250406)
+* [A-League W
+    
+    10/11 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WEL | –   |
+    | CAN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250204)
+* [A-League W
+    
+    10/11 15:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WSW | –   |
+    | ADL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250205)
+* [A-League W
+    
+    10/11 18:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | NEW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250206)
+* [Premier League
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | WHU | 0   |
+    | EVE | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251105)
 * [Premier League
     
-    10/11 4:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BHA | –   |
-    | MCI | –   |
+    | CRY | 0   |
+    | FUL | 2   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251106)
+* [Premier League
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | BRE | 3   |
+    | BOU | 2   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251110)
+* [Premier League
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | WOL | 2   |
+    | SOU | 0   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251108)
+* [Premier League
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | BHA | 2   |
+    | MCI | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251109)
 * [Premier League
@@ -1143,6 +1073,7 @@ FOX SCORES
 [Rugby](https://www.foxsports.com.au/video/rugby)
 
 * [Wallabies](https://www.foxsports.com.au/video/rugby/wallabies)
+* [Rugby](https://www.foxsports.com.au/video/rugby/rugby)
 * [Rugby World Cup](https://www.foxsports.com.au/video/rugby/rugby-world-cup)
 * [Sponsored](https://www.foxsports.com.au/video/rugby/sponsored)
 
