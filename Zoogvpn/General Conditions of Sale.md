@@ -185,7 +185,6 @@ Zoog Services IKE
 * [Help Center](https://zoogvpn.com/help-center/)
 * [VPN Setup Wizard](https://zoogvpn.com/vpn-setup/)
 * [FAQ](https://zoogvpn.com/faq/)
-* [Resources](https://zoogvpn.com/resources/)
 * [Contact](https://zoogvpn.com/contact/)
 * [DNS Leak test](https://zoogvpn.com/dns-leak-test/)
 * [What is my IP address](https://zoogvpn.com/what-is-my-ip-address/)
