@@ -304,7 +304,7 @@ San Diego, CA 92101
     Explore the ESET Customer Portal to:
     
     * Renew, add devices or upgrade your product
-    * Retrieve your license information
+    * Retrieve your subscription information
     * Update your subscription and billing information
     * Find help with product installation
     * Get additional technical support
@@ -654,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/business/resources/webinars/)
+[United States (EN)](https://www.eset.com/us/about/newsroom/corporate-blog/)
 
 * * *
 
