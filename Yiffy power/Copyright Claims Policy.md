@@ -75,33 +75,33 @@ Latest commented posts
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 810 1
+0 824 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/fanta-and-maxi-created-by-mawmain/)
+[](https://yiff-party.com/yiff/susie-undertale-series-and-etc-created-by-shen-hokori/)
 
-[fanta and maxi created by mawmain](https://yiff-party.com/yiff/fanta-and-maxi-created-by-mawmain/)
+[susie (undertale (series) and etc) created by shen hokori](https://yiff-party.com/yiff/susie-undertale-series-and-etc-created-by-shen-hokori/)
 
-0 2 0
+0 1 0
 
 November 9, 2024
 
-[](https://yiff-party.com/yiff/lucyfurx-nintendo-switch-and-etc-created-by-janiskisa/)
+[](https://yiff-party.com/yiff/jaki-and-raiden-locktober-created-by-pastelpastel/)
 
-[lucyfurx (nintendo switch and etc) created by janiskisa](https://yiff-party.com/yiff/lucyfurx-nintendo-switch-and-etc-created-by-janiskisa/)
+[jaki and raiden (locktober) created by pastelpastel](https://yiff-party.com/yiff/jaki-and-raiden-locktober-created-by-pastelpastel/)
 
-0 87 0
+0 146 0
 
-October 10, 2024
+October 11, 2024
 
-[](https://yiff-party.com/yiff/princess-celestia-and-princess-luna-friendship-is-magic-and-etc-created-by-kanaeshka/)
+[](https://yiff-party.com/yiff/abrams-and-ivy-deadlock-and-etc-created-by-arbuzbudesh/)
 
-[princess celestia and princess luna (friendship is magic and etc) created by kanaeshka](https://yiff-party.com/yiff/princess-celestia-and-princess-luna-friendship-is-magic-and-etc-created-by-kanaeshka/)
+[abrams and ivy (deadlock and etc) created by arbuzbudesh](https://yiff-party.com/yiff/abrams-and-ivy-deadlock-and-etc-created-by-arbuzbudesh/)
 
-0 85 0
+0 153 0
 
-October 10, 2024
+October 11, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
