@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3c1aa7ce55a7e8b179bd51ab23ff281c
+9b21ea15f0292ccf9b560b7dc94d0d25
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm by 8 mm Vintage Czech glass irregular cube beads](https://sojourner.biz/images/cache/glass/GL0084.200.jpg)](https://sojourner.biz/beads/glass/6-mm-by-8-mm-vintage-czech-glass-irregular-cube-beads.html "6 mm by 8 mm Vintage Czech glass irregular cube beads")
+[![12 mm by 10 mm faceted etched glass oval beads](https://sojourner.biz/images/cache/glass/GL0119.200.jpg)](https://sojourner.biz/beads/glass/12-mm-by-10-mm-faceted-etched-glass-oval-beads.html "12 mm by 10 mm faceted etched glass oval beads")
 
-#### [6 mm by 8 mm Vintage Czech glass irregular cube beads](https://sojourner.biz/beads/glass/6-mm-by-8-mm-vintage-czech-glass-irregular-cube-beads.html "6 mm by 8 mm Vintage Czech glass irregular cube beads")
+#### [12 mm by 10 mm faceted etched glass oval beads](https://sojourner.biz/beads/glass/12-mm-by-10-mm-faceted-etched-glass-oval-beads.html "12 mm by 10 mm faceted etched glass oval beads")
 
-$9.00
+$10.00
 
 ### Best Sellers
 
