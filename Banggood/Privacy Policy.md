@@ -24,6 +24,7 @@
     * [Inscription Se connecter](javascript:;)
     * [Paramètres du compte](javascript:;)
     * [Règles de points](javascript:;)
+    * [Avantages pour les nouveaux utilisateurs](javascript:;)
 * Commander
     
     * [Commandes anormales](javascript:;)
