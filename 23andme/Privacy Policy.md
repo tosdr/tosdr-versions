@@ -4,7 +4,7 @@
 
 * [![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/)
     
-* Shop![](/_next/static/media/caret.d8c670e4.svg)
+* Shop
     
     ### Shop by service
     
@@ -57,20 +57,20 @@
     
 * [Total Health](https://www.23andme.com/total-health/)
 
-* [Sign In](https://you.23andme.com/)
-* [Register Kit](https://www.23andme.com/start/)
+* [Sign in](https://you.23andme.com/)
+* [Register kit](https://www.23andme.com/start/)
 * [Help](https://customercare.23andme.com/hc/en-us/)
 * [Shop](https://www.23andme.com/compare-dna-tests/)
 
 Open Menu
 
-![close](/_next/static/media/x-gray7.2bb6bad1.svg)Close
+Close Menu
 
 [![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/)
 
 [Shop](https://www.23andme.com/compare-dna-tests/)
 
-* Shop![](/_next/static/media/caret.d8c670e4.svg)
+* Shop
     
     ### Shop by service
     
@@ -110,9 +110,9 @@ Open Menu
     
     [Compare our services](https://www.23andme.com/compare-dna-tests/)
     
-* [TOTAL HEALTH](https://www.23andme.com/total-health/)
-* [Sign In](https://you.23andme.com/)
-* [Register Kit](https://www.23andme.com/start/)
+* [Total Health](https://www.23andme.com/total-health/)
+* [Sign in](https://you.23andme.com/)
+* [Register kit](https://www.23andme.com/start/)
 * [Help](https://customercare.23andme.com/hc/en-us/)
 
 [![23andMe Home](/_next/static/media/mobile-gray.5c8acbea.svg)](https://www.23andme.com/)
