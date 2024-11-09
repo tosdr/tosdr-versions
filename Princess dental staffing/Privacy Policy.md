@@ -504,7 +504,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-105974)
+Don’t have an account? [Sign up](#sign-up-987932)
 
 Sign up for an account
 
@@ -522,7 +522,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-105974)
+Already have an account? [Sign in](#sign-in-987932)
 
 Log in to your account
 
@@ -542,7 +542,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-107304)
+Don’t have an account? [Sign up](#sign-up-129225)
 
 Sign up for an account
 
@@ -560,7 +560,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-107304)
+Already have an account? [Sign in](#sign-in-129225)
 
 Success
 
