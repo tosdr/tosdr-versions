@@ -428,11 +428,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike/paintings/two.jpg?itok=QfJWSj0I)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd/flu-studenti2.jpg?itok=1dJ_DcdE)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20122013)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/skulptura.jpg?itok=fW1UA69U)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/arsen.jpg?itok=OL9UyIS-)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
