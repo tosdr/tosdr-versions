@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. java
+1. data science
     
-2. c
+2. project management
     
-3. computer science
+3. trading
     
 
 Popular subjects
@@ -427,25 +427,25 @@ Popular subjects
 1. [Web Development
     
     13,490 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+2. [Computer Networking
     
-    8,594 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Cybersecurity
+    1,713 courses](https://www.classcentral.com/subject/computer-networking)
+3. [Leadership
     
-    16,622 courses](https://www.classcentral.com/subject/cybersecurity)
+    3,924 courses](https://www.classcentral.com/subject/leadership)
 
 Popular courses
 ---------------
 
-1. [Mechanical Ventilation for COVID-19
+1. [Introduction to Programming with MATLAB
     
-    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
-2. [Fractals and Scaling
+    Vanderbilt University](https://www.classcentral.com/course/matlab-3396)
+2. [Python for Data Science
     
-    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-fractals-and-scaling-3612)
-3. [Songwriting: Writing the Lyrics
+    University of California, San Diego](https://www.classcentral.com/course/python-the-university-of-california-san-diego-pyt-8209)
+3. [Introduction to Animal Behaviour
     
-    Berklee College of Music](https://www.classcentral.com/course/songwriting-lyrics-523)
+    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
