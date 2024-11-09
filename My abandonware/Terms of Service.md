@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Ah! Megami-Sama](https://www.myabandonware.com/game/ah-megami-sama-sys)
+* [Angelique](https://www.myabandonware.com/game/angelique-ba8)
 * [Powerboat Challenge](https://www.myabandonware.com/game/powerboat-challenge-ta2)
 * [Prey Mobile 3D](https://www.myabandonware.com/game/prey-mobile-3d-ta1)
 * [Peggle](https://www.myabandonware.com/game/peggle-ta0)
-* [Need for Speed: Carbon - Own the City](https://www.myabandonware.com/game/need-for-speed-carbon-own-the-city-t9z)
-* [Iron Sight](https://www.myabandonware.com/game/iron-sight-t9y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
