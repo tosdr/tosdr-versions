@@ -188,25 +188,25 @@ No related posts.
 
 #### Recently Updated Pages
 
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 8, 2024
+* [Medical News Today – Bias and Credibility](https://mediabiasfactcheck.com/medical-news-today/ "View Medical News Today – Bias and Credibility") - November 8, 2024
     
-* [Junge Welt – Bias and Credibility](https://mediabiasfactcheck.com/junge-welt-bias-and-credibility/ "View Junge Welt – Bias and Credibility") - November 8, 2024
+* [Trending Politics – Bias and Credibility](https://mediabiasfactcheck.com/trending-politics/ "View Trending Politics – Bias and Credibility") - November 8, 2024
     
-* [Frontiers in Imaging – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-imaging-bias/ "View Frontiers in Imaging – Bias and Credibility") - November 8, 2024
+* [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/ "View Changes/Corrections") - November 8, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 8, 2024
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 8, 2024
     
-* [Lake Powell Chronicle – Bias and Credibility](https://mediabiasfactcheck.com/lake-powell-chronicle-bias/ "View Lake Powell Chronicle – Bias and Credibility") - November 8, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 8, 2024
     
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 8, 2024
+* [Not The Bee – Bias and Credibility](https://mediabiasfactcheck.com/not-the-bee/ "View Not The Bee – Bias and Credibility") - November 8, 2024
     
-* [EurAsian Times – Bias and Credibility](https://mediabiasfactcheck.com/eurasian-times-bias-and-credibility/ "View EurAsian Times – Bias and Credibility") - November 8, 2024
+* [World Population Review – Bias and Credibility](https://mediabiasfactcheck.com/world-population-review/ "View World Population Review – Bias and Credibility") - November 8, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 8, 2024
+* [Rumble – Bias and Credibility](https://mediabiasfactcheck.com/rumble/ "View Rumble – Bias and Credibility") - November 8, 2024
     
-* [Agencia EFE – Bias and Credibility](https://mediabiasfactcheck.com/agencia-efe-bias-and-credibility/ "View Agencia EFE – Bias and Credibility") - November 7, 2024
+* [Mediaite – Bias and Credibility](https://mediabiasfactcheck.com/mediaite/ "View Mediaite – Bias and Credibility") - November 8, 2024
     
-* [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/ "View Changes/Corrections") - November 7, 2024
+* [Slate – Bias and Credibility](https://mediabiasfactcheck.com/slate/ "View Slate – Bias and Credibility") - November 8, 2024
     
 
 #### Today’s Top Page Views
@@ -214,11 +214,11 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 
