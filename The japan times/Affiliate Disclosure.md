@@ -211,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Highest-level heavy rain warning issues for Kagoshima island town](https://www.japantimes.co.jp/news/2024/11/09/japan/kagoshima-heavy-rain-warning/ "Highest-level heavy rain warning issues for Kagoshima island town")
-
-19 mins ago
-
-[Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
-
-1 hours ago
-
-[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+[Musk believes in global warming. Trump doesn’t. Will that change?](https://www.japantimes.co.jp/news/2024/11/09/world/musk-trump-climate-sway/ "Musk believes in global warming. Trump doesn’t. Will that change?")
 
 2 hours ago
 
-[Right-sided colon gets rid of cancer, Japanese researchers find](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
+[Komeito picks land minster Tetsuo Saito as new party leader](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/komeito-picks-new-leader-saito/ "Komeito picks land minster Tetsuo Saito as new party leader")
 
 2 hours ago
 
-[CDP's Yukio Edano to chair Lower House Constitution panel](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/yukio-edano-lower-house-constitution-panel/ "CDP's Yukio Edano to chair Lower House Constitution panel")
+[The long global trail of resentment behind Trump’s resurrection](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-resentment-resurrection/ "The long global trail of resentment behind Trump’s resurrection")
 
-2 hours ago
+3 hours ago
+
+[Smile, flatter and barter: How the world is prepping for Trump part II](https://www.japantimes.co.jp/news/2024/11/09/world/politics/world-prepares-for-trump/ "Smile, flatter and barter: How the world is prepping for Trump part II")
+
+3 hours ago
+
+[Trump weighs key personnel choices, schooled by his first-term experience](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-cabinet-posts-selections/ "Trump weighs key personnel choices, schooled by his first-term experience")
+
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
