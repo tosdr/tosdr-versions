@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
+    
+    ### [‘Here’s what the council is doing to tackle mobile phone snatching and anti-social behaviour this winter’](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
+    
     [![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
     
     ### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
@@ -52,10 +56,6 @@
     [![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
     
     ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/immigration-changes-and-impact-360x180.png)](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
-    
-    ### [Labour’s new immigration policies: A comprehensive look at changes](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
+    
+    ### [‘Here’s what the council is doing to tackle mobile phone snatching and anti-social behaviour this winter’](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
+    
     [![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
     
     ### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
@@ -138,10 +142,6 @@ View All Result
     [![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
     
     ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/immigration-changes-and-impact-360x180.png)](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
-    
-    ### [Labour’s new immigration policies: A comprehensive look at changes](https://southwarknews.co.uk/area/london/labours-new-immigration-policies-a-comprehensive-look-at-changes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -371,17 +371,17 @@ Website
 
 [5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
+[![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
+
+### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
+
+[7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
+
 [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
 
 ### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
 
 [5th November 2024](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
-
-[![Canada Water British Land, boardwalk opening © Tom Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/11/Canada-Water-British-Land-Asif-Khan-boardwalk-opening-©-Tom-Campbell-4-2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-
-### [Canada Water boardwalk is now open, connecting shops, library and future homes](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-
-[4th November 2024](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
 
 ### Featured Articles
 
