@@ -2,6 +2,7 @@ Saturday, November 9 2024
 
 Breaking News
 
+* [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/)
 * [JD Vance Has Four Years To Be Ready](https://www.conservativedailynews.com/2024/11/jd-vance-has-four-years-to-be-ready/)
 * [Colorado Voters Decide To Tax Firearms, Ammo](https://www.conservativedailynews.com/2024/11/colorado-voters-decide-to-tax-firearms-ammo/)
 * [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/)
@@ -9,7 +10,6 @@ Breaking News
 * [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/)
 * [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/)
 * [President Biden Addresses the Nation About Election Results – 11/7/24](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
-* [White House Press Briefing with Karine Jean-Pierre – 11/7/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-7-24/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -131,6 +131,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5753-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/)
+    
+    [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/)
+    
+    November 9, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5751.webp-220x150.webp)](https://www.conservativedailynews.com/2024/11/jd-vance-has-four-years-to-be-ready/)
     
     [JD Vance Has Four Years To Be Ready](https://www.conservativedailynews.com/2024/11/jd-vance-has-four-years-to-be-ready/)
@@ -170,12 +176,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
     
     [A Sincere Thank You](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
-    
-    November 7, 2024
-    
-* [![CNN Media Bias Kamala Harris 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/)
-    
-    [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/)
     
     November 7, 2024
     
@@ -233,6 +233,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783130)
 * [Ted Thomas](http://cdn/) on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783096)
 * Ted Thomas on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783095)
 * John on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783065)
@@ -241,7 +242,6 @@ Recent Comments
 * [Bill](http://conservativedailynews.com/) on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783060)
 * Caesar Avalos on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783047)
 * charles wilkins on [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/#comment-783044)
-* KayCee on [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/#comment-783041)
 
 [Close](#)
 
