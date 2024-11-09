@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Incumbent Democrat Wins Nevada Senate Race](https://www.theepochtimes.com/us/incumbent-democrat-wins-nevada-senate-race-5753286)
+    
+    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Incumbent Democrat Wins Nevada Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Incumbent Democrat Wins Nevada Senate Race](https://img.theepochtimes.com/assets/uploads/2023/04/05/id5173844-sen-jacky-rosen-205x123.jpg.webp)](https://www.theepochtimes.com/us/incumbent-democrat-wins-nevada-senate-race-5753286)
+* [US District Court Judge Blocks Illinois Ban on Certain Types of Rifles, Attachments](https://www.theepochtimes.com/us/us-district-court-judge-blocks-illinois-ban-on-certain-types-of-rifles-attachments-5756930)
+    
+    1hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
+    
+    [![US District Court Judge Blocks Illinois Ban on Certain Types of Rifles, Attachments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US District Court Judge Blocks Illinois Ban on Certain Types of Rifles, Attachments](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757094-AK-47-shop-OP-205x123.jpg)](https://www.theepochtimes.com/us/us-district-court-judge-blocks-illinois-ban-on-certain-types-of-rifles-attachments-5756930)
+* [France Grapples With ‘Mexicanized’ Narco-Enclaves](https://www.theepochtimes.com/world/france-grapples-with-mexicanized-narco-enclaves-5756026)
+    
+    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![France Grapples With ‘Mexicanized’ Narco-Enclaves](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![France Grapples With ‘Mexicanized’ Narco-Enclaves](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756763-GettyImages-184256698201-02-205x123.jpg.webp)](https://www.theepochtimes.com/world/france-grapples-with-mexicanized-narco-enclaves-5756026)
+* [Trump Could Impact the Supreme Court for Decades to Come](https://www.theepochtimes.com/article/trump-could-impact-the-supreme-court-for-decades-to-come-5756885)
+    
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Trump Could Impact the Supreme Court for Decades to Come](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Could Impact the Supreme Court for Decades to Come](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756970-Trump-supreme-sourt-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-could-impact-the-supreme-court-for-decades-to-come-5756885)
+* [Persecution of Falun Gong Adherents Continues as Thousands Reported Imprisoned, Tortured This Year](https://www.theepochtimes.com/falun-gong/persecution-of-falun-gong-adherents-continues-as-thousands-reported-imprisoned-tortured-this-year-5751535)
+    
+    6hr By [Sophia Lam](https://www.theepochtimes.com/author/sophia-lam)
+    
+    [![Persecution of Falun Gong Adherents Continues as Thousands Reported Imprisoned, Tortured This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Persecution of Falun Gong Adherents Continues as Thousands Reported Imprisoned, Tortured This Year](https://img.theepochtimes.com/assets/uploads/2015/09/abanner53259846-205x123.jpg.webp)](https://www.theepochtimes.com/falun-gong/persecution-of-falun-gong-adherents-continues-as-thousands-reported-imprisoned-tortured-this-year-5751535)
+* [California Metro Areas Among the Nation’s Lowest in Home Turnover Rate](https://www.theepochtimes.com/us/california-metro-areas-among-the-nations-lowest-in-home-turnover-rate-5756929)
+    
+    7hr By [Sophie Li](https://www.theepochtimes.com/author/sophie-li)
+    
+    [![California Metro Areas Among the Nation’s Lowest in Home Turnover Rate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![California Metro Areas Among the Nation’s Lowest in Home Turnover Rate](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732871-IrvineHomes_ForSale_JF_7_09212020-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-metro-areas-among-the-nations-lowest-in-home-turnover-rate-5756929)
 * [Trump Flips Nevada, Nears Sweep of Swing States](https://www.theepochtimes.com/us/trump-flips-nevada-nears-sweep-of-swing-states-5754080)
     
-    3hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    9hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
     [![Trump Flips Nevada, Nears Sweep of Swing States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Flips Nevada, Nears Sweep of Swing States](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752275-DSC_1796-LasVegas-Nevada-Jacob-Kepler-trump_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-flips-nevada-nears-sweep-of-swing-states-5754080)
+    ![Trump Flips Nevada, Nears Sweep of Swing States](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754879-38761-LasVegas-Nevada-Jacob-Kepler-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-flips-nevada-nears-sweep-of-swing-states-5754080)
 * [‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://www.theepochtimes.com/us/its-hard-to-lose-walz-returns-home-to-minnesota-after-election-loss-5756966)
     
-    5hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    11hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
     
     [![‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘It’s Hard to Lose’: Walz Returns Home to Minnesota After Election Loss](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756982-Tim-Walz-AP24313811271321-205x123.jpg.webp)](https://www.theepochtimes.com/us/its-hard-to-lose-walz-returns-home-to-minnesota-after-election-loss-5756966)
 * [Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
     
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Victory Sends US Stocks to Best Weekly Rally in a Year](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756877-GettyImages-2182554830-205x123.jpg.webp)](https://www.theepochtimes.com/business/trump-victory-sends-us-stocks-to-best-weekly-rally-in-a-year-5756848)
 * [Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
     
-    8hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    14hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
     [![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Rep. Scott Perry Fends Off Democratic Rival to Win Reelection](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697574-GettyImages-1238839241-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-scott-perry-fends-off-democratic-rival-to-win-reelection-5756856)
-* [Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://www.theepochtimes.com/article/day-in-photos-swift-wildfire-legislators-attack-and-a-respectful-2-minute-silence-5756641)
-    
-    8hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Swift Wildfire, Legislators’ Attack, and a Respectful 2-Minute Silence](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756918-California_Winds_Wildfires_24312830408275KO-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-swift-wildfire-legislators-attack-and-a-respectful-2-minute-silence-5756641)
-* [6 Things to Know About Susie Wiles, Trump’s Next Chief of Staff](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
-    
-    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![6 Things to Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![6 Things to Know About Susie Wiles, Trump’s Next Chief of Staff](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5756953-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-things-to-know-about-susie-wiles-trumps-next-chief-of-staff-5756762)
-* [Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://www.theepochtimes.com/us/governors-attorneys-general-roll-out-plans-to-contest-trump-admins-policies-5756476)
-    
-    9hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
-    
-    [![Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Governors, Attorneys General Roll Out Plans to Contest Trump Admin’s Policies](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756462-Trump-GettyImages-2183218884-205x123.jpg.webp)](https://www.theepochtimes.com/us/governors-attorneys-general-roll-out-plans-to-contest-trump-admins-policies-5756476)
-* [Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://www.theepochtimes.com/us/meeting-to-resist-trump-reveals-rift-between-progressive-moderate-democrats-5756685)
-    
-    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Meeting to Resist Trump Reveals Rift Between Progressive, Moderate Democrats](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755679-11062024-DSC08429-Harris-concession-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/meeting-to-resist-trump-reveals-rift-between-progressive-moderate-democrats-5756685)
-* [Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://www.theepochtimes.com/china/lawmakers-turn-attention-to-chips-companies-as-industry-braces-for-china-restrictions-5756598)
-    
-    10hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Lawmakers Turn Attention to Chips Companies as Industry Braces for China Restrictions](https://img.theepochtimes.com/assets/uploads/2024/08/06/id5700785-GettyImages-1541248341-205x123.jpg.webp)](https://www.theepochtimes.com/china/lawmakers-turn-attention-to-chips-companies-as-industry-braces-for-china-restrictions-5756598)
-* [Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://www.theepochtimes.com/us/witnesses-in-daniel-penny-trial-describe-fears-for-their-safety-in-subway-incident-5756769)
-    
-    10hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Witnesses in Daniel Penny Trial Describe Fears for Their Safety in Subway Incident](https://img.theepochtimes.com/assets/uploads/2024/11/id5752161-1.tagreuters.com2024binary_LYNXMPEKA0177-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/witnesses-in-daniel-penny-trial-describe-fears-for-their-safety-in-subway-incident-5756769)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
