@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
-[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
+[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-  [![Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432867.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.")](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
+  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-[What does Trump's victory mean for Japan?](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
+[Australia’s next frigates to come from Japan or Germany](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
-  [![The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432750.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.")](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
+  [![A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/433020.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture")](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
-[Nissan cuts outlook and announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
+[Japan’s households cut spending once again as prices rise](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
-  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
+  [![Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432961.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.")](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
-[Japan’s biggest base pay gains in 31 years support case for rate hikes](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
+[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
-  [![The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.")](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
+  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
 Editors' Picks
 --------------
@@ -160,37 +160,37 @@ Editors' Picks
 
   [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+
+By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "Aishwarya KUMAR")  
+
+  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[U.S. allies and partners gird for return of ‘transactional’ Trump](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
+[Australia’s next frigates to come from Japan or Germany](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
-  [![Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432867.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Onlookers watch a broadcast of Republican candidate Donald Trump addressing his election night watch party, in Times Square, New York, on Wednesday. Trump has been elected the 47th president of the United States, pulling off a stunning political comeback in one of the most polarized contests for the White House in U.S. history.")](https://www.japantimes.co.jp/news/2024/11/07/japan/politics/trump-return-japan-alliances/ "U.S. allies and partners gird for return of ‘transactional’ Trump")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[What does Trump's victory mean for Japan?](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
-
-By [Kuni Miyake](https://www.japantimes.co.jp/author/1298/kuni-miyake/ "Kuni Miyake")  
-
-  [![The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432750.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.")](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
+  [![A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/433020.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture")](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Nissan cuts outlook and announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
+[Japan’s households cut spending once again as prices rise](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
-By [Nicholas Takahashi](https://www.japantimes.co.jp/author/4213/nicholas-takahashi/ "Nicholas Takahashi")  
+By [Toru Fujioka](https://www.japantimes.co.jp/author/358/toru-fujioka/ "Toru Fujioka")  
 
-  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
+  [![Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432961.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.")](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[Japan’s biggest base pay gains in 31 years support case for rate hikes](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
+[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
-By [Erica Yokoyama](https://www.japantimes.co.jp/author/1058/erica-yokoyama/ "Erica Yokoyama")  
+By [Mai Yoshikawa](https://www.japantimes.co.jp/author/1728/mai-yoshikawa/ "Mai Yoshikawa")  
 
-  [![The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.")](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
+  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,13 @@ Latest News
 
 [Musk believes in global warming. Trump doesn’t. Will that change?](https://www.japantimes.co.jp/news/2024/11/09/world/musk-trump-climate-sway/ "Musk believes in global warming. Trump doesn’t. Will that change?")
 
-8 hours ago
-
 [Komeito picks land minster Tetsuo Saito as new party leader](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/komeito-picks-new-leader-saito/ "Komeito picks land minster Tetsuo Saito as new party leader")
-
-9 hours ago
 
 [The long global trail of resentment behind Trump’s resurrection](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-resentment-resurrection/ "The long global trail of resentment behind Trump’s resurrection")
 
-9 hours ago
-
 [Smile, flatter and barter: How the world is prepping for Trump part II](https://www.japantimes.co.jp/news/2024/11/09/world/politics/world-prepares-for-trump/ "Smile, flatter and barter: How the world is prepping for Trump part II")
 
-9 hours ago
-
 [Trump weighs key personnel choices, schooled by his first-term experience](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-cabinet-posts-selections/ "Trump weighs key personnel choices, schooled by his first-term experience")
-
-11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
