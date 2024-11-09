@@ -196,59 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> Thanks Adriaan...
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Johan Botha - Brand Xplosion
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=40849501)  
-APTV Telecoms CC
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=129285872)  
+CLEVER STUDENTS
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=53941927)  
-Leef in Afrikaans
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=9255586)  
+Tiny Cuddles Photography
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=187271985)  
-NIMAWELL
-
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=206436469)  
-UniTech Solutions Pty Ltd
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=60081880)  
-OptaServ
-
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=9849611)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=55652502)  
-LEO DEVELOPMENT GROUP
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=53023302)  
-SLOANE STAR MEAT MARKET
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=105101309)  
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=129496765)  
 Lemba Truck Stop
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=108729060)  
-MONSTER SECURITY GUARDING
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=69717523)  
+Westside Car Audio CC
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=74565894)  
-Fox Alarms & Security
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=147643306)  
+VerdanTech Pty Ltd
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=41209434)  
-Konsortium Operations (PTY) LTD
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=100166907)  
+AFS Electrical
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=119488739)  
-Imvubu General Trading
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=92955122)  
+AMS Ambu Medical Supplies
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=66767631)  
-West Coast Horse Trails
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=97461151)  
+Oukraal Merino's
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=22bfa6dccab62e53c44e01474b3a87afe157b53778387adfc286398f7252948c&c=163509323)  
-Wiselink Broadband Vryheid
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=131316407)  
+Depot Diesel (Pty) Ltd
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=117835497)  
+FX ACCOUNTING
+
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=44732201)  
+United Paintball Federation
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=80198667)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=118441668)  
+Little Nutty Professors
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=183157750)  
+Goju-Ryu Pretoria East
+
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=606cf4368150427d08aa6c17d18f87e7696ee54b27e226baaf2a3ae3e24a8d56&c=53280565)  
+Moving Made Easy (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
