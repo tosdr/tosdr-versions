@@ -108,7 +108,7 @@
     * [Affiliates![Affiliates](https://www.knack.com/wp-content/uploads/2023/08/affilates-icon-purple.png)](https://www.knack.com/affiliates/)
 * [Pricing](https://www.knack.com/pricing/)
 
-[![User](https://www.knack.com//wp-content/uploads/2023/11/Customer-Portal.svg)Log In](https://dashboard.knack.com/sign-in) [Free Trial](https://dashboard.knack.com/sign-up)
+ [![User](https://www.knack.com//wp-content/uploads/2023/11/Customer-Portal.svg) Log In](https://dashboard.knack.com/sign-in) [Free Trial](https://dashboard.knack.com/sign-up)
 
 ###### Explore Solutions
 
