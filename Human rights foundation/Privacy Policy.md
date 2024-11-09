@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTA4OTo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
+[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTA5MDo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
 
 * [About Us](https://hrf.org/about-us/) Close About Us Open About Us
     
@@ -45,7 +45,7 @@ Search
 
 Close this search box.
 
-![](data:image/svg+xml;nitro-empty-id=MTU0MDo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=MTU0MTo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 About Us
 
@@ -412,7 +412,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 * By email: [\[email protected\]](https://hrf.org/cdn-cgi/l/email-protection)
 
-![HRF](data:image/svg+xml;nitro-empty-id=MjE0NDoxNjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
+![HRF](data:image/svg+xml;nitro-empty-id=MjE0NToxNjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 
 ##### We believe that when we rise, tyranny falls.
 
@@ -442,7 +442,7 @@ Find answers to commonly asked questions in our FAQs.
 
 #### Join the cause by subscribing to our newsletter.
 
-   
+  
 
 First Name 
 
@@ -456,7 +456,7 @@ Submit
 
 #### Email Us
 
-   
+  
 
 First Name 
 
@@ -474,7 +474,7 @@ Submit
 
 #### Join the cause by subscribing to our newsletter.
 
-   
+  
 
 First Name 
 
