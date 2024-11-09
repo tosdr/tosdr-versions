@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you so much! That's honestly why you're the best service!
+No problems at all. Happy and will use it again if need be.
 
-Gary Lock
+Jeff Attaway
