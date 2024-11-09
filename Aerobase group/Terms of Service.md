@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Next-gen stealth tanker may be unaffordable, Air Force secretary fears](https://www.defensenews.com/air/2024/11/08/next-gen-stealth-tanker-may-be-unaffordable-air-force-secretary-fears/)  
+    11/08/24 02:15pm  
+    
+    The Air Force worries it will be unable to afford a next-generation refueling tanker, as the service struggles with how to pay for a bow wave of modernizations. (Alexis Morris/U.S. Air Force)
+    
 * [Watch the US Air Force carry out dramatic nighttime Minuteman III test](https://www.defensenews.com/air/2024/11/06/watch-the-us-air-force-carry-out-dramatic-nighttime-minuteman-iii-test/)  
     11/06/24 05:00pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/04/24 02:20pm  
     
     The Air Force is soon sending a task force of strategic bombers to Europe, but has not said which bombers will be deployed. The service flies B-1 Lancers, B-2 Spirits, and B-52 Stratofortresses. (Air Force)
-    
-* [Marine pilot loses command after ejecting from F-35B that kept flying](https://www.defensenews.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/)  
-    10/31/24 04:57pm  
-    
-    A pilot who ejected from an F-35B over South Carolina last year alleges he was fired from his command of a prestigious squadron as a result of the mishap. (Cpl. Christopher R. Lape/Marine Corps)
     
 
 Recent parts by keyword  
