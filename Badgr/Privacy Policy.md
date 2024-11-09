@@ -15,78 +15,65 @@
 * [Canvas Badges](https://info.badgr.com/policies/privacy-badgr)
     
 
-Menu
+[EN](https://info.badgr.com/)
 
-[Back to main site](https://info.badgr.com/)
+### Select your location
 
-* [Overview](https://info.badgr.com/privacy-center)
-    
-* [Product Privacy Notice](https://info.badgr.com/policies/product-privacy-policy)
-    
-* [EU Privacy Policy](https://info.badgr.com/policies/privacy/EU)
-    
-* [Brazil Privacy Policy](https://info.badgr.com/policies/privacy/brazil)
-    
-* [APAC Privacy Policy](https://info.badgr.com/policies/privacy/APAC)
-    
-* [Canvas Badges](https://info.badgr.com/policies/privacy-badgr)
+* * [English: NA](https://info.badgr.com/)
+        
+        English
+        
+    * [Español](https://info.badgr.com/es)
+        
+        Español
+        
+    * [English: AU](https://info.badgr.com/en-au)
+        
+        English
+        
+    * [Italiano](https://info.badgr.com/it)
+        
+        Italiano
+        
+    * [English: UK](https://info.badgr.com/en-gb)
+        
+        English
+        
+    * [Nederlands](https://info.badgr.com/nl)
+        
+        Dutch
+        
+    * [Deutsch](https://info.badgr.com/de)
+        
+        Deutsch
+        
+    * [Português](https://info.badgr.com/pt-br)
+        
+        Português
+        
     
 
 Close modal
 
-### Select your location
-
-* ### Americas
-    
-    * [North America](https://info.badgr.com/)
-        
-        English
-        
-    * [Brazil](https://info.badgr.com/pt-br)
-        
-        Português
-        
-    * [Latin America](https://info.badgr.com/es)
-        
-        Español
-        
-    
-* ### Asia Pacific
-    
-    * [Australia](https://info.badgr.com/en-au)
-        
-        English
-        
-    
-* ### Europe
-    
-    * [Germany](https://info.badgr.com/de)
-        
-        Deutsch
-        
-    * [Spain](https://info.badgr.com/es-es)
-        
-        Español
-        
-    * [United Kingdom](https://info.badgr.com/en-gb)
-        
-        English
-        
-    * [Benelux](https://info.badgr.com/nl)
-        
-        Dutch
-        
-    * [Italy](https://info.badgr.com/it)
-        
-        Italiano
-        
-    
-
-[North America](https://info.badgr.com/)
-
 Reset language preference
 
 Clear redirect preference
+
+Utility
+-------
+
+* [Support](https://info.badgr.com/support/canvas-support-faq)
+* [Contact Us](https://info.badgr.com/contact-us)
+* [Log In](https://info.badgr.com/)
+    * [Canvas](https://info.badgr.com/canvas/login)
+    * [Canvas Credentials](https://info.badgr.com/canvas/canvas-credentials/login)
+    * [Student ePortfolio](https://portfolium.com/login)
+    * [Mastery Connect](https://app.masteryconnect.com/login)
+    * [Elevate Data Sync](https://identity.us2.kimonocloud.com/login)
+    * [LearnPlatform by Instructure](https://app.learnplatform.com/users/sign_in)
+* [Try Canvas Free](https://info.badgr.com/try-canvas)
+
+Menu
 
         ![](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif "2021_7_ic21_backgrounds_c-02")
 
