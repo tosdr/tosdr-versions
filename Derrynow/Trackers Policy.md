@@ -268,22 +268,6 @@ The late Philip Howell.
 [Derry man sadly dies while on holiday in Thailand](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police investigating possible arson attack at Derry bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack at Derry bar")](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
-
-A police cordon at the Don Bar in Derry.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating possible arson attack at Derry bar](https://www.derrynow.com/news/local-news/1650673/police-investigating-possible-arson-attack-at-derry-bar.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Graham Norton Show on BBC? Here's the sofa line-up](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
 
 Flares lighting up Derry's Craigavon Bridge
@@ -293,28 +277,12 @@ Flares lighting up Derry's Craigavon Bridge
 [Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with serious domestic abuse offences breached bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with serious domestic abuse offences breached bail")](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry man charged with serious domestic abuse offences breached bail](https://www.derrynow.com/news/local-news/1650761/derry-man-charged-withserious-domestic-abuse-offences-breached-bail.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![xx](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "xx")](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Former Sinn Fein press officer Michael McMonagle (42) jailed for nine months at Derry Court](https://www.derrynow.com/news/local-news/1650763/former-sinn-fein-press-officer-michael-mcmonagle-42-jailed-for-nine-months-at-derry-court.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![When and where to watch Ireland vs New Zealand | Time, TV, tickets, team news and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch Ireland vs New Zealand | Time, TV, tickets, team news and more")](https://www.derrynow.com/news/national-news/1650751/when-and-where-to-watch-ireland-vs-new-zealand-time-tv-tickets-team-news-and-more.html)
-
-Photo: Sportsfile
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[When and where to watch Ireland vs New Zealand | Time, TV, tickets, team news and more](https://www.derrynow.com/news/national-news/1650751/when-and-where-to-watch-ireland-vs-new-zealand-time-tv-tickets-team-news-and-more.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![McMonagle was sentenced for series of child sex offences involving police decoys](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McMonagle was sentenced for series of child sex offences involving police decoys")](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
 
@@ -336,6 +304,36 @@ Photo: Sportsfile
 
 [Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Blueprint for women’s safety presented to councillors following spate of Derry attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Blueprint for women’s safety presented to councillors following spate of Derry attacks")](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
+
+Officers from the PSNI’s Local Neighbourhood Policing Teams at the Top of the Hill Park area in Derry where a woman was attacked by a male with a knife (Liam McBurney/PA)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2")](https://www.derrynow.com/story-telling/pictures---videos/1646907/in-pictures-cce-baile-na-gcailleach-traditional-weekender-in-studio-2.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2](https://www.derrynow.com/story-telling/pictures---videos/1646907/in-pictures-cce-baile-na-gcailleach-traditional-weekender-in-studio-2.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures")](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre")](https://www.derrynow.com/story-telling/pictures---videos/1651090/in-pictures-gemx-interative-roadshow-visits-claudy-s-diamond-centre.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre](https://www.derrynow.com/story-telling/pictures---videos/1651090/in-pictures-gemx-interative-roadshow-visits-claudy-s-diamond-centre.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,14 +511,32 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
+[![Mayor receives special visitor to finalise Christmas plans for Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor receives special visitor to finalise Christmas plans for Derry and Strabane")](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
+
+Mayor Lilian Seenoi-Barr, at her meeting with Santa Claus to discuss the Council area’s plans for Christmas, included are Santa’s little helpers Cría Cole, Ennan Shiels and Oisin Heffernan.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Mayor welcomes special visitor to Derry's Guildhall](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final")](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
+
+The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by ROSSNA MILLIE in 29.26. Pictured with (from left) Stuart Harpur with Sienna, Kirsty Harpur (centre) with Ava & Alyssah.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
+[![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/resizer/165/93/true/2024_11_08/466024808_2371976239824075_8078305991078823144_n-1731101464705.jpg--.jpg?1731101464730 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
 
 Flares lighting up Derry's Craigavon Bridge
 
@@ -546,22 +562,6 @@ Officers from the PSNI’s Local Neighbourhood Policing Teams at the Top of the 
 
 [Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Screenshot_%28200%29-1731083612759.png--.png?1731083612803 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Zachary Geddis Trust delighted to feature on BBC Children in Need](https://www.derrynow.com/resizer/165/93/true/2024_11_08/CDP_-_12-11-24_-_Page_14_lead_pic-1731073206103.jpg--.jpg?1731073207312 "Zachary Geddis Trust delighted to feature on BBC Children in Need")](https://www.derrynow.com/news/home/1650981/zachary-geddis-trust-delighted-to-feature-on-bbc-children-in-need.html)
-
-The Little Superstars Service offers support for kids aged between five and 17.
-
-[Home](https://www.derrynow.com/)
-
-[Zachary Geddis Trust delighted to feature on BBC Children in Need](https://www.derrynow.com/news/home/1650981/zachary-geddis-trust-delighted-to-feature-on-bbc-children-in-need.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
