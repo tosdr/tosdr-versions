@@ -108,6 +108,11 @@ Advertisement
 
 ###### Highest Rated This Month
 
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
     
     Prisoners of Katrina
@@ -128,39 +133,34 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 
 ###### Throwback Documentaries
 
-* [![Generals At War: The Battle Of The Bulge](/wp-content/thumbnails/6469-100x70.png?x53432)
+* [![Brian’s Story](/wp-content/thumbnails/9949-100x70.jpg?x53432)
     
-    Generals At War: The Battle Of The Bulge
+    Brian’s Story
     
-    1944- Adolf Hitler starts a gigantic offensive in the West. If the Allies cannot contain the German advance, Adolf Hitler could win a victory.This exciting series takes a fresh approach to the gre](https://documentaryheaven.com/generals-at-war-the-battle-of-the-bulge/ "Generals At War: The Battle Of The Bulge")
-* [![Australia’s Front Line](/wp-content/thumbnails/6862-100x70.png?x53432)
+    At the age of 21 Brian Davis graduated with a degree in English from Cambridge University, seven years later he was a published author and by the mid eighties he had become one of the best known journ](https://documentaryheaven.com/brians-story/ "Brian’s Story")
+* [![Not Afraid: The Shady Records Story](/wp-content/thumbnails/9680-100x70.jpg?x53432)
     
-    Australia’s Front Line
+    Not Afraid: The Shady Records Story
     
-    Taking viewers behind-the-scenes of Australia’s Immigration, Customs and Quarantine departments.](https://documentaryheaven.com/australias-front-line/ "Australia’s Front Line")
-* [![Nas’ Story](/wp-content/thumbnails/3925-100x70.jpg?x53432)
+    The folks over at Complex magazine recently got an opportunity to sit down with Eminem and his entourage, which included Paul Rosenberg, Dr. Dre, 50 Cent and Royce Da 5’9 in order to discuss the rise](https://documentaryheaven.com/not-afraid-shady-records-story/ "Not Afraid: The Shady Records Story")
+* [![Cancer Cure: Dr. Burzynski Therapy](/wp-content/thumbnails/6446-100x70.jpg?x53432)
     
-    Nas’ Story
+    Cancer Cure: Dr. Burzynski Therapy
     
-    A very good documentary about the hip-hop artist Nas, giving  good insight into his life and upbringing.](https://documentaryheaven.com/nas-story/ "Nas’ Story")
-* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
+    Documentary on Stanislaw R. Burzynski's revolutionary cancer cure treatment based on his discovery on the mechanics of cancer, which lead him to the creation of the Antineoplaston Therapy. Dr. Burzyns](https://documentaryheaven.com/cancer-cure-dr-burzynski-therapy/ "Cancer Cure: Dr. Burzynski Therapy")
+* [![Fire](/wp-content/thumbnails/3998-100x70.png?x53432)
     
-    EP 4/6 The Private Life of Plants
+    Fire
     
-    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
-* [![Fallujah: The Hidden Massacre](/wp-content/thumbnails/2438-100x70.jpg?x53432)
+    Professor Iain Stewart continues his epic exploration of how the planet has shaped human history. Iain explores man's relationship with fire. He begins by embarking on an extraordinary encounter with](https://documentaryheaven.com/fire/ "Fire")
+* [![Rico: The Legacy](/wp-content/thumbnails/1633-100x70.jpg?x53432)
     
-    Fallujah: The Hidden Massacre
+    Rico: The Legacy
     
-    This war can not have witnesses. It can not have witnesses because it is based on lies. The Americans have permitted only embedded journalists to go to Fallujah. Despite that, for example the image of](https://documentaryheaven.com/fallujah-the-hidden-massacre/ "Fallujah: The Hidden Massacre")
+    English"This documentary (made by Jep Jorba, Miquel Àngel Arnáiz and Ester Casals) is a very humble documentary, in terms of money and material resources. We know that it has its limitations and c](https://documentaryheaven.com/rico-the-legacy/ "Rico: The Legacy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
