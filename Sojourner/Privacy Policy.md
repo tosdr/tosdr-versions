@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dfa315eaaa01aaa4fa86503cd7a974f8
+b3faf9f799bdc66e2734de266d754692
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Heliotrope rock stone clasp](https://www.sojourner.biz/images/cache/SKU0482front.200.jpg)](https://www.sojourner.biz/clasps/glass/heliotrope-rock-stone-clasp.html "Heliotrope rock stone clasp")
+[![8 mm black pinch beads](https://www.sojourner.biz/images/cache/glass/GL0325.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-black-pinch-beads.html "8 mm black pinch beads")
 
-#### [Heliotrope rock stone clasp](https://www.sojourner.biz/clasps/glass/heliotrope-rock-stone-clasp.html "Heliotrope rock stone clasp")
+#### [8 mm black pinch beads](https://www.sojourner.biz/beads/glass/8-mm-black-pinch-beads.html "8 mm black pinch beads")
 
-$26.50
+$5.00
 
 ### Best Sellers
 
