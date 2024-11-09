@@ -25,7 +25,7 @@ Sign up
 SubscribeStar.com Privacy Policy
 ================================
 
-Updated: November 08, 2024 02:25 pm
+Updated: November 09, 2024 03:16 am
 
 * * *
 
@@ -137,10 +137,10 @@ You have the right to manage your cookie preferences. When you first visit Subsc
 * **Using the Cookie Consent Tool on SubscribeStar:** We provide a [cookie consent management tool](https://www.subscribestar.com/account/cookies_privacy_settings) that allows you to review and adjust your cookie settings by category (e.g., Strictly Necessary, Performance, Functional, and Third-Party cookies). You can opt in or out of specific categories, except for Strictly Necessary and Functional cookies, which are essential for our website’s functionality. 
 * **Opting Out of Google Analytics:** To prevent Google Analytics from collecting your information, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) or simply opt out using our [cookie consent management tool](https://www.subscribestar.com/account/cookies_privacy_settings).
 * **Using Your Browser Settings:** Most web browsers allow you to manage your cookie settings directly through their settings. You can block or delete cookies as desired. Instructions for managing cookies on popular browsers can be found below:
-    * **Google Chrome:** Manage cookies in Chrome
-    * **Mozilla Firefox:** Manage cookies in Firefox
-    * **Safari:** Manage cookies in Safari
-    * **Microsoft Edge:** Manage cookies in Edge
+    * **Google Chrome:** [Manage cookies in Chrome](https://support.google.com/chrome/answer/95647)
+    * **Mozilla Firefox:** [Manage cookies in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+    * **Safari:** [Manage cookies in Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+    * **Microsoft Edge:** [Manage cookies in Edge](https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies)
 
 > Disabling cookies via browser setting may and will impact the functionality of SubscribeStar and will affect your ability to access all features.
 
