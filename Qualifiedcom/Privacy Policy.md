@@ -118,11 +118,11 @@ Hear from from industry leaders on all things B2B marketing.
 
 [Explore Qualified+](https://www.qualified.com/plus)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/67069a350960ed217812226a_piper%20the%20ai%20sdr.png)![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6706a5d9ce9b5f53eb3d9b9f_Demo%20Day%20Live%20Nav.svg)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/672e6d0fc21c4eadf4d2d7f5_FY25%20PLS%20Logo.svg)
 
-Explore the art of the possible with Piper the AI SDR
+Wednesday, December 11th, 10am-1pm PT | Virtual Event
 
-[Watch NOW](https://www.qualified.com/piper-demo-day)
+[Register NOW](https://www.qualified.com/pipeline-summit-2025-planning)
 
 Say hello to
 
@@ -743,30 +743,11 @@ Functional Cookies
 
 [Watch Now](https://www.qualified.com/archive/events)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/661946d8571bf6281ff9d4a0_Piper%20Profile.png)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/672e6d0fc21c4eadf4d2d7f5_FY25%20PLS%20Logo.svg)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66194770272fededa863d69d_leds.svg)
+### Wednesday, December 11th, 10am-1pm PT | Virtual Event
 
-### Say hello to 
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6619464e3bdd8e02c5b15ae7_Piper_logo.svg)
-
-### the AI SDR
-
-[Meet Piper](https://www.qualified.com/ai-sdr)
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/661946d8571bf6281ff9d4a0_Piper%20Profile.png)
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66194770272fededa863d69d_leds.svg)
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66e1f632badac7a6e86fdfe0_Piper%20the%20AI%20SDR.svg)
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/67052cd790e4a8d2c715a7c4_logo_2.png)
-
-### Explore the art of the possible  
-with Piper the AI SDR
-
-[Watch Now](https://www.qualified.com/piper-demo-day)
+[Register Now](https://www.qualified.com/pipeline-summit-2025-planning)
 
 PRODUCT
 
