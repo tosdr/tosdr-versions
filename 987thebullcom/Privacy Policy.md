@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Tucson Too LateJordan Davis<br><br>4:39am |
-| Truck BedHardy<br><br>4:36am |
-| Would If I CouldErnest<br><br>4:33am |
-| Just To Say We DidKenny Chesney<br><br>4:30am |
-| Sunrise, Sunburn, SunsetLuke Bryan<br><br>4:27am |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:40am |
+| People Are CrazyBilly Currington<br><br>10:36am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:33am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:29am |
+| Life Is A HighwayRascal Flatts<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,9 +495,9 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Top 40 • Pacific NW
+Top 40 • Eastern
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
@@ -507,9 +507,9 @@ Sports • Midwest
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Eastern
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
