@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/epstein-simpel-en-slechts-the-mossad-puppet-on-a-string/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/artificial-intelligence-versus-scheppingskracht/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
