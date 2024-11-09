@@ -6,6 +6,8 @@ Accept & Dismiss
 
 [Skip to content](#MainContent)
 
+Customer service responses are a few days behind at this time. We appreciate your patience!
+
 New orders are expected to ship by
 
      
