@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Sturdy Ability ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2273%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/characters/pokemon/25-facts-about-sturdy-ability/)
+[![28 Facts About 1920s Music ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-1920s-music/)
+
+Performing Arts
+
+09 Nov 2024
+
+[28 Facts About 1920s Music](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-1920s-music/)
+
+[![25 Facts About Rare Pokemon ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/characters/pokemon/25-facts-about-rare-pokemon/)
 
 Pokemon
 
-08 Nov 2024
+09 Nov 2024
 
-[25 Facts About Sturdy Ability](https://facts.net/characters/pokemon/25-facts-about-sturdy-ability/)
-
-[![25 Facts About Derbyshire Football ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/25-facts-about-derbyshire-football/)
-
-Sports
-
-07 Nov 2024
-
-[25 Facts About Derbyshire Football](https://facts.net/lifestyle/sports/25-facts-about-derbyshire-football/)
+[25 Facts About Rare Pokemon](https://facts.net/characters/pokemon/25-facts-about-rare-pokemon/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
