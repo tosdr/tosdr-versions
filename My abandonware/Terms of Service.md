@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Alice in Wonderland: An Adventure Beyond the Mirror](https://www.myabandonware.com/game/alice-in-wonderland-an-adventure-beyond-the-mirror-t9n)
-* [Action Hero 3D: Wild Dog](https://www.myabandonware.com/game/action-hero-3d-wild-dog-t9m)
-* [Confidential Mission](https://www.myabandonware.com/game/confidential-mission-t94)
-* [Come On Baby](https://www.myabandonware.com/game/come-on-baby-t93)
-* [Cobra the Arcade](https://www.myabandonware.com/game/cobra-the-arcade-t92)
+* [Powerboat Challenge](https://www.myabandonware.com/game/powerboat-challenge-ta2)
+* [Prey Mobile 3D](https://www.myabandonware.com/game/prey-mobile-3d-ta1)
+* [Peggle](https://www.myabandonware.com/game/peggle-ta0)
+* [Need for Speed: Carbon - Own the City](https://www.myabandonware.com/game/need-for-speed-carbon-own-the-city-t9z)
+* [Iron Sight](https://www.myabandonware.com/game/iron-sight-t9y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
