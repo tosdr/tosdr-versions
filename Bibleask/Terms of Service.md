@@ -10,20 +10,23 @@
 
 Menu
 
-* [Home](https://bibleask.org/)
-* [Questions by Topic](https://bibleask.org/topics/)
-* [Q&A Podcast](https://bibleask.org/live/)
+* [Topics](https://bibleask.org/topics/)
+    * [Articles by Topic](https://bibleask.org/topics/)
+    * [Videos by Topic](https://bibleask.org/live/video-topics/)
+* [Podcast](https://bibleask.org/live/)
 * [Apps](https://bibleask.org/apps/)
-* [Ask Alpha (AI)](https://bibleask.org/alpha/)
-* [Bible (KJV, ASV)](https://bible.bibleask.org/)
+* [Ask Alpha](https://bibleask.org/alpha/)
+* [Bible](https://bible.bibleask.org/)
 * [Subscribe](https://bibleask.org/subscribe/)
+
+[Home](https://bibleask.org/)
 
 Terms of Use
 ============
 
 **SHARE**
 
-[Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F)[X](https://x.com/intent/tweet?text=Terms%20of%20Use&url=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&via=bibleask)[Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&title=Terms%20of%20Use)[Subscribe](https://bibleask.org/subscribe/)
+[Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F)[X](https://x.com/intent/tweet?text=Terms%20of%20Use&url=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&via=bibleask)[Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&title=Terms%20of%20Use)
 
 * * *
 
