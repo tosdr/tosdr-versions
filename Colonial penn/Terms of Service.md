@@ -119,7 +119,7 @@ Get a Quote![right arrow](/o/cptheme/images/White.svg)
 We believe in making insurance simple
 -------------------------------------
 
-[Learn more about our life insurance](https://colonialpenn.com/web/colonialpenn/products/insurance)![right arrow](/o/cptheme/images/Blue.svg)
+[Learn more about our life insurance](https://colonialpenn.com/products/insurance)![right arrow](/o/cptheme/images/Blue.svg)
 
 ![GBL Logo icon](/o/cptheme/images/GBL_Card/GBL_Logo.svg)
 
@@ -167,7 +167,7 @@ Choose Colonial Penn®
 
 Since 1957, Colonial Penn has specialized in making life insurance simple and accessible by offering it directly to consumers at affordable prices.
 
-[Learn more about us](https://colonialpenn.com/web/colonialpenn/our-company)![right arrow](/o/cptheme/images/Blue.svg)
+[Learn more about us](https://colonialpenn.com/our-company)![right arrow](/o/cptheme/images/Blue.svg)
 
 A
 
@@ -210,7 +210,7 @@ Managing your policy is simple and easy. [Log in](https://www.mycolonialpenn.co
 
 If you need assistance, click here to
 
-[learn more](https://colonialpenn.com/web/colonialpenn/service-support/contact-us)![right arrow](/o/cptheme/images/Blue.svg)
+[learn more](https://colonialpenn.com/service-support/contact-us)![right arrow](/o/cptheme/images/Blue.svg)
 
 Or call us directly at: [1-800-523-9100](tel:1-800-523-9100)
 
