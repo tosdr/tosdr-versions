@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/573/cover2.jpg "10 Memes That Defined The 2024 U.S. Presidential Election")
+* [!['Getting Your Teacher On A Tangent' Trend Celebrates Wasting Class Time](https://i.kym-cdn.com/featured_items/icons/wide/000/026/587/1.jpg "'Getting Your Teacher On A Tangent' Trend Celebrates Wasting Class Time")
     
-    10 Memes That Defined The 2024 U.S. Presidential Election](https://knowyourmeme.com/editorials/meme-review/10-memes-that-defined-the-2024-us-presidential-election)
+    'Getting Your Teacher On A Tangent' Trend Celebrates Wasting Class Time](https://knowyourmeme.com/memes/getting-your-teacher-on-a-tangent)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/572/hq720_(3).jpg "The Weekly Meme Roundup: Peanut The Squirrel, Knee Surgery, Election Memes And More")
+* [![Bro Got A Know Your Meme Entry](https://i.kym-cdn.com/featured_items/icons/wide/000/026/586/cover11.jpg "Bro Got A Know Your Meme Entry")
     
-    The Weekly Meme Roundup: Peanut The Squirrel, Knee Surgery, Election Memes And More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-peanut-the-squirrel-knee-surgery-election-memes-and-more)
+    Bro Got A Know Your Meme Entry](https://knowyourmeme.com/memes/bro-the-cat)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/571/nintendo-pokemon-sue-palworld-developer-pocketpair-2-860x484.jpg "Pocketpair Reveals 'Patents' Subject To Nintendo's 'Palworld' Lawsuit, And Indeed One Of Them Is The 'Aiming' Patent")
+* [![That One Edit of Trump In Style Of Ken Carson's 'A Great Chaos' Gets A Boost Following The Election](https://i.kym-cdn.com/featured_items/icons/wide/000/026/585/cover9.jpg "That One Edit of Trump In Style Of Ken Carson's 'A Great Chaos' Gets A Boost Following The Election")
     
-    Pocketpair Reveals 'Patents' Subject To Nintendo's 'Palworld' Lawsuit, And Indeed One Of Them Is The 'Aiming' Patent](https://knowyourmeme.com/news/pocketpair-reveals-patents-subject-to-nintendos-palworld-lawsuit-and-indeed-one-of-them-is-the-aiming-patent)
+    That One Edit of Trump In Style Of Ken Carson's 'A Great Chaos' Gets A Boost Following The Election](https://knowyourmeme.com/memes/a-great-chaos-trump-album-cover-edits)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/570/cover5.jpg "Where Did 'Captain, It's Wednesday' Come From? The 'What A Week, Huh?' Comic And Meme Explained")
+* [![Badussy War TikTok Memes](https://i.kym-cdn.com/featured_items/icons/wide/000/026/584/badussywar.jpg "Today Marks Three Years Since The 'Badussy War' Started But Some Would Argue That The Conflict's Ongoing")
     
-    Where Did 'Captain, It's Wednesday' Come From? The 'What A Week, Huh?' Comic And Meme Explained](https://knowyourmeme.com/editorials/guides/where-did-captain-its-wednesday-come-from-the-what-a-week-huh-comic-and-meme-explained)
+    Today Marks Three Years Since The 'Badussy War' Started But Some Would Argue That The Conflict's Ongoing](https://knowyourmeme.com/memes/badussy-war)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/569/poopsongcover.jpg "Musician 'Matt Farley' Explains The 'Your Name + Poop Song' TikTok Trend And Why He's Written So Many Songs About Poop")
+* [![Old <i>Eric Andre</i> Sketch Shoots Way Into Memedom](https://i.kym-cdn.com/featured_items/icons/wide/000/026/583/fff.jpg "11 Years Ago, We Began Trying To Figure Out Who Killed Hannibal")
     
-    Musician 'Matt Farley' Explains The 'Your Name + Poop Song' TikTok Trend And Why He's Written So Many Songs About Poop](https://knowyourmeme.com/editorials/interviews/musician-matt-farley-explains-the-your-name-poop-song-tiktok-trend-and-why-hes-written-so-many-songs-about-poop)
+    11 Years Ago, We Began Trying To Figure Out Who Killed Hannibal](https://knowyourmeme.com/memes/who-killed-hannibal)
     
 
 ##### Also Trending:
 
-[Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") [Harambe the Gorilla](https://knowyourmeme.com/memes/harambe-the-gorilla "Harambe the Gorilla") [40 Monkeys Escape Research Facility](https://knowyourmeme.com/memes/events/40-monkeys-escape-research-facility "40 Monkeys Escape Research Facility")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### 'lo! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
