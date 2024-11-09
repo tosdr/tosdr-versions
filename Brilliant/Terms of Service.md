@@ -218,6 +218,12 @@ Company
 
 [Educators](https://brilliant.org/educators/)
 
+Behind the scenes
+
+[Solving Equations](https://blog.brilliant.org/solving-equations/)
+
+[Thinking in Code](https://blog.brilliant.org/thinking-in-code/)
+
 [](https://www.facebook.com/brilliantorg)[](https://www.instagram.com/brilliantorg)[](https://twitter.com/brilliantorg)[](https://www.linkedin.com/company/brilliant-org/)
 
 [Terms of service](https://brilliant.org/terms-of-use/)
