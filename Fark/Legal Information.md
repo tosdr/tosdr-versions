@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More funny for your money.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The Navy said they would send Gibbs over to smack the guy in the back of the head](https://www.fark.com/goto/13456950) ( [weartv.com](https://www.fark.com/goto/13456950) ) » [(0 comments)](https://www.fark.com/comments/13456950/The-Navy-said-they-would-send-Gibbs-over-to-smack-guy-in-back-of-head) |
-| [Discussion](https://www.fark.com/discussion/) | [Husbands have some - ah, interesting - thoughts to offer in the birthing suite](https://www.fark.com/goto/13456946) ( [upworthy.com](https://www.fark.com/goto/13456946) ) » [(4 comments)](https://www.fark.com/comments/13456946/Husbands-have-some-ah-interesting-thoughts-to-offer-in-birthing-suite) |
-| [Sports](https://www.fark.com/sports/) | [Forget bobbleheads and T-shirts. When Klay Thompson makes his first visit back to the bay, everyone in attendance gets a Kaptain Klay hat](https://www.fark.com/goto/13456928) ( [msn.com](https://www.fark.com/goto/13456928) ) » [(1 comment)](https://www.fark.com/comments/13456928/Forget-bobbleheads-T-shirts-When-Klay-Thompson-makes-his-first-visit-back-to-bay-everyone-in-attendance-gets-a-Kaptain-Klay-hat) |
-| [Business](https://www.fark.com/business/) | [Face eating leopards look for the union label](https://www.fark.com/goto/13456842) ( [rawstory.com](https://www.fark.com/goto/13456842) ) » [(8 comments)](https://www.fark.com/comments/13456842/Face-eating-leopards-look-for-union-label) |
-| [STEM](https://www.fark.com/stem/) | [Study shows alcohol causes dementia, but don't worry, another one will be along in a minute](https://www.fark.com/goto/13456936) ( [scitechdaily.com](https://www.fark.com/goto/13456936) ) » [(3 comments)](https://www.fark.com/comments/13456936/Study-shows-alcohol-causes-dementia-but-dont-worry-another-one-will-be-along-in-a-minute) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The Beatles get their first Grammy nominations since their glory days of 1997](https://www.fark.com/goto/13456942) ( [cnn.com](https://www.fark.com/goto/13456942) ) » [(0 comments)](https://www.fark.com/comments/13456942/The-Beatles-get-their-first-Grammy-nominations-since-their-glory-days-of-1997) |
-| [Fandom](https://www.fark.com/fandom/) | [Don't taunt the dynamite Mario](https://www.fark.com/goto/13456982) ( [kotaku.com](https://www.fark.com/goto/13456982) ) » [(4 comments)](https://www.fark.com/comments/13456982/Dont-taunt-dynamite-Mario) |
+| [Main](https://www.fark.com/) | [Oh nothing... just Pentagon officials actively workshopping responses to illegal orders to unleash the US military on Americans](https://www.fark.com/goto/13457024) ( [theguardian.com](https://www.fark.com/goto/13457024) ) » [(32 comments)](https://www.fark.com/comments/13457024/Oh-nothing-just-Pentagon-officials-actively-workshopping-responses-to-illegal-orders-to-unleash-US-military-on-Americans) |
+| [Discussion](https://www.fark.com/discussion/) | [Husbands have some - ah, interesting - thoughts to offer in the birthing suite](https://www.fark.com/goto/13456946) ( [upworthy.com](https://www.fark.com/goto/13456946) ) » [(7 comments)](https://www.fark.com/comments/13456946/Husbands-have-some-ah-interesting-thoughts-to-offer-in-birthing-suite) |
+| [Sports](https://www.fark.com/sports/) | [Steve Kerr clowns TFG hard, then ends his motivational speech to the team with: "Let's make America great again and beat the Celtics"](https://www.fark.com/goto/13456992) ( [msn.com](https://www.fark.com/goto/13456992) ) » [(1 comment)](https://www.fark.com/comments/13456992/Steve-Kerr-clowns-TFG-hard-then-ends-his-motivational-speech-to-team-with-Lets-make-America-great-again-beat-Celtics) |
+| [Business](https://www.fark.com/business/) | [How a second Trump term is going to screw your retirement savings](https://www.fark.com/goto/13457152) ( [plansponsor.com](https://www.fark.com/goto/13457152) ) » [(12 comments)](https://www.fark.com/comments/13457152/How-a-second-Trump-term-is-going-to-screw-your-retirement-savings) |
+| [STEM](https://www.fark.com/stem/) | [A guide to surveillance self defense and maintaining your privacy online](https://www.fark.com/goto/13456980) ( [ssd.eff.org](https://www.fark.com/goto/13456980) ) » [(1 comment)](https://www.fark.com/comments/13456980/A-guide-to-surveillance-self-defense-maintaining-your-privacy-online) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Kurn, son of Mogh, wins entrance to Sto'Vo'Kor](https://www.fark.com/goto/13457120) ( [deadline.com](https://www.fark.com/goto/13457120) ) » [(4 comments)](https://www.fark.com/comments/13457120/Kurn-son-of-Mogh-wins-entrance-to-StoVoKor) |
+| [Fandom](https://www.fark.com/fandom/) | [The Bat-Signal has gone up for stupid](https://www.fark.com/goto/13457308) ( [thedrive.com](https://www.fark.com/goto/13457308) ) » [(2 comments)](https://www.fark.com/comments/13457308/The-Bat-Signal-has-gone-up-for-stupid) |
 | [D'awww](https://www.fark.com/dawww/) | [Ever kinked a water hose to make the user look at the spout, then released it as a prank? This elephant sure has](https://www.fark.com/goto/13456674) ( [phys.org](https://www.fark.com/goto/13456674) ) » [(8 comments)](https://www.fark.com/comments/13456674/Ever-kinked-a-water-hose-to-make-user-look-at-spout-then-released-it-as-a-prank-This-elephant-sure-has) |
-| [Food](https://www.fark.com/food/) | [If youʻre allergic to eggs or yellow #5 and the "chocolate peanut butter" ice cream you just bought is bright orange, you shouldnʻt eat it. Actually, even if youʻre not allergic to anything, that should raise a red flag](https://www.fark.com/goto/13456870) ( [newsweek.com](https://www.fark.com/goto/13456870) ) » [(2 comments)](https://www.fark.com/comments/13456870/If-youre-allergic-to-eggs-yellow-5-the-chocolate-peanut-butter-ice-cream-you-just-bought-is-bright-orange-you-shouldnt-eat-it-Actually-even-if-youre-not-allergic-to-anything-that-should-raise-a-red-flag) |
-| [Politics](https://www.fark.com/politics/) | [Failed upstate NY Assembly candidate who lost in this week's election has turned himself in to police for stealing his rival's campaign mailers from people's mailboxes. An honest Republican, go figure](https://www.fark.com/goto/13456562) ( [nypost.com](https://www.fark.com/goto/13456562) ) » [(4 comments)](https://www.fark.com/comments/13456562/Failed-upstate-NY-Assembly-candidate-who-lost-in-this-weeks-election-has-turned-himself-in-to-police-for-stealing-his-rivals-campaign-mailers-from-peoples-mailboxes-An-honest-Republican-go-figure) |
+| [Food](https://www.fark.com/food/) | [In pictures: Hospital food around the world](https://www.fark.com/goto/13457312) ( [theguardian.com](https://www.fark.com/goto/13457312) ) » [(5 comments)](https://www.fark.com/comments/13457312/In-pictures-Hospital-food-around-world) |
+| [Politics](https://www.fark.com/politics/) | [Saudi Arabian Crown Prince shows future King of America how to Make Slavery Great Again (possible nsfw content on page)](https://www.fark.com/goto/13457332) ( [dailystar.co.uk](https://www.fark.com/goto/13457332) ) » [(14 comments)](https://www.fark.com/comments/13457332/Saudi-Arabian-Crown-Prince-shows-future-King-of-America-how-to-Make-Slavery-Great-Again-possible-nsfw-content-on-page) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 09 2024 01:42:54  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 09 2024 07:43:27  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
