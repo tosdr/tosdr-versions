@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b3faf9f799bdc66e2734de266d754692
+98a0f76fe66af8aae47a1ad85eff32d1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm black pinch beads](https://www.sojourner.biz/images/cache/glass/GL0325.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-black-pinch-beads.html "8 mm black pinch beads")
+[![4 mm gold-plate flat-faced diamond bead](https://www.sojourner.biz/images/cache/metalbeads/MET012.200.jpg)](https://www.sojourner.biz/beads/metal/4-mm-gold-plate-flat-faced-diamond-bead.html "4 mm gold-plate flat-faced diamond bead")
 
-#### [8 mm black pinch beads](https://www.sojourner.biz/beads/glass/8-mm-black-pinch-beads.html "8 mm black pinch beads")
+#### [4 mm gold-plate flat-faced diamond bead](https://www.sojourner.biz/beads/metal/4-mm-gold-plate-flat-faced-diamond-bead.html "4 mm gold-plate flat-faced diamond bead")
 
-$5.00
+$7.50
 
 ### Best Sellers
 
