@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2023/09/EarpHERO-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/fieldhockeyhero-250x141.png)
     
-    Dr. Shelley Earp to deliver 2024 Winter Commencement address](https://www.unc.edu/posts/2024/11/07/dr-shelley-earp-to-deliver-2024-winter-commencement-address/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/CorrectionalProgramHero-250x141.jpg)
+    Carolina field hockey wins 27th ACC title](https://www.unc.edu/posts/2024/11/08/carolina-field-hockey-wins-27th-acc-title/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/LeylaSantiagoHERO2.jpg-250x141.png)
     
-    Correctional Education gives prisoners a second chance](https://www.unc.edu/posts/2024/11/06/correctional-education-gives-prisoners-a-second-chance/)
+    Former CNN correspondent mentors next generation of journalists](https://www.unc.edu/posts/2024/11/08/former-cnn-correspondent-mentors-next-generation-of-journalists/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=d81c789d5c&text=%prefix%%text%%suffix%&post_id=248837&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=be4578aa3f&text=%prefix%%text%%suffix%&post_id=219540&type=%type%)
 
 ### Share on Mastodon
 
