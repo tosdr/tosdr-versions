@@ -77,13 +77,13 @@ Offers
     
     [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
-* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
+* [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
     
-    ### Set sail with the Moana 2 Ticket 2 Adventure
+    ### Wicked Exclusive Collector's Pin Pack
     
-    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
+    Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
     
-    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
     
 * [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
