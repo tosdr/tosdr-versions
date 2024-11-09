@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
+[![WarrenBuffet](/assets/logos/WarrenBuffetGivingGraph.png)](https://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+
+Warren Buffet's preference for Republican candidates, 2005-2008.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
