@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
 Service Stiftung Warentest
 
