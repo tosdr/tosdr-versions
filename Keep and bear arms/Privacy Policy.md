@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 384 active visitors** | **Saturday, November 09, 2024** |
+| **You are 1 of 306 active visitors** | **Saturday, November 09, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**\[The American Colonies were\] all democratic governments, where the power is in the hands of the people and where there is not the least difficulty or jealousy about putting arms into the hands of every man in the country. \[European countries should not\] be ignorant of the strength and the force of such a form of government and how strenuously and almost wonderfully people living under one have sometimes exerted themselves in defence of their rights and liberties and how fatally it has ended with many a man and many a state who have entered into quarrels, wars and contests with them. � George Mason, "Remarks on Annual Elections for the Fairfax Independent Company" in The Papers of George Mason, 1725-1792, ed Robert A. Rutland (Chapel Hill, 1970).
+ **QUOTES TO REMEMBER**Mr. and Mrs. America, turn 'em all in... � Dianne Feinstein, CBS-TV's "60 Minutes, February 5, 1995.
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
