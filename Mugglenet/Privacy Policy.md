@@ -244,20 +244,6 @@ MuggleNet Archive Select Month November 2024  (5) October 2024  (27) September
 
 ### November 2024
 
-#### Fri, Nov 8
-
-Chris Rankin's birthday
-
-Recurs yearly
-
-Percy Weasley
-
-Colin Creevey is Petrified
-
-Recurs yearly
-
-1992
-
 #### Sat, Nov 9
 
 Harry catches the Snitch in his mouth during his first Quidditch match
@@ -282,6 +268,20 @@ Recurs yearly
 
 2005
 
+#### Fri, Nov 15
+
+Fantastic Beasts and Where to Find Them - Movie 1 (London premiere)
+
+Recurs yearly
+
+2016
+
+Harry Potter and the Chamber of Secrets movie
+
+Recurs yearly
+
+2002
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
+Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
 
 ### Potter History
 
-May 21-24, 2009 – The first LeakyCon is held in Boston, Massachusetts.
+July 31, 2008 – It is announced that The Tales of Beedle the Bard, originally only to be read by the owners of the seven handwritten copies, would be published worldwide on December 4, with all proceeds being given to charity.
 
 ### Potter Quote
 
-“Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.”
+“I wonder how you expect to gain an idea of my usual teaching methods if you continue to interrupt me? You see, I do not generally permit people to talk when I am talking.”
 
 [](#)
 
