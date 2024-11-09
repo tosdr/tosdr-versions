@@ -92,7 +92,13 @@ Search site
 
 [River Flood Warning
 
-from FRI 5:18 PM CST until SAT 8:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until SAT 6:00 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+
+2
+
+[Tornado Watch
+
+until FRI 9:00 PM CST, Navarro County, Ellis County, Kaufman County, Freestone County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
