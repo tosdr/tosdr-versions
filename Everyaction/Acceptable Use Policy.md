@@ -571,6 +571,18 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![Woman in yellow sweater sitting with hand on shoulder of another woman, comforting](/sites/default/files/styles/card_image_short/public/2023-05/istock-1132974918.jpg?h=140710cd&itok=9pagVUvR)
+    
+    ### [How corporations can scale nonprofit partnerships](https://www.everyaction.com/blog/how-corporations-can-scale-nonprofit-partnerships)
+    
+    * Corporate social responsibility
+    * Employee giving
+    * Employee volunteering
+    * Grant management & grant making
+    * Corporations
+    * Foundations & grantmakers
+    * Corporate Social Responsibility
+    
 * ![A male and a female employee are standing in an office. The female employee is holding a laptop, and the male employee is holding a tablet. They are both looking at the laptop screen and smiling. ](/sites/default/files/styles/card_image_short/public/2024-11/istock-1724408290.jpeg?h=06ac0d8c&itok=HdrVhT6q)
     
     ### [What’s new for Bonterra Strategic Philanthropy 2H 2024?](https://www.everyaction.com/blog/whats-new-bonterra-strategic-philanthropy-2h-2024)
@@ -592,15 +604,6 @@ Social impact insights & information
     * Public agencies
     * Case Management
     * Human services
-    
-* ![A female scientist is wearing a lab coat, goggles, gloves, and a mask while looking into a microscope. ](/sites/default/files/styles/card_image_short/public/2024-11/1287080337.jpeg?h=dd617f3c&itok=Cl1rtX68)
-    
-    ### [The medical grants ecosystem: people, programs, and products](https://www.everyaction.com/blog/medical-grants-ecosystem-people-programs-and-products)
-    
-    * Medical affairs
-    * Corporations
-    * Life sciences
-    * Corporate Social Responsibility
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
