@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
+1. [![Left: Letitia James, wearing a red shirt, dark jacket, and pearl necklace, discusses Donald Trump's financial dealings at a press conference. Right: Donald Trump, wearing a white shirt, dark suit jacket, and a red ](https://am24.mediaite.com/lc/cnt/uploads/2022/11/Letitia-James-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/we-will-put-your-fat-a-in-prison-potential-trump-ag-candidate-threatens-to-prosecute-letitia-james-for-conspiracy/)
     
-    ### ['Heartbreaking and unimaginable': Mom gave 2-year-old daughter to drug dealer while buying meth, girl hasn’t been seen since, police say](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
+    ### ['We will put your fat a–– in prison': Potential Trump AG candidate threatens to prosecute Letitia James for conspiracy](https://lawandcrime.com/high-profile/we-will-put-your-fat-a-in-prison-potential-trump-ag-candidate-threatens-to-prosecute-letitia-james-for-conspiracy/)
     
-2. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
+2. [![Kari Lake](https://am21.mediaite.com/lc/cnt/uploads/2023/10/AP23284082785369-432x243.jpg)](https://lawandcrime.com/high-profile/denied-arizona-supreme-court-issues-terse-rejection-of-kari-lakes-last-ditch-bid-to-become-governor-over-bogus-election-claims/)
     
-    ### ['I have a stolen ar15 and a target': Man threatens to 'carry out an attack' if Trump wins election, feds say](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
+    ### ['DENIED': Arizona Supreme Court issues terse rejection of Kari Lake's last-ditch bid to become governor over bogus election claims](https://lawandcrime.com/high-profile/denied-arizona-supreme-court-issues-terse-rejection-of-kari-lakes-last-ditch-bid-to-become-governor-over-bogus-election-claims/)
     
-3. [![Background: YouTube/KVIA. Inset: Dalia Olivas and Ricky Ballard (GoFundMe).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Dalia-Olivas-Ricky-Ballard-432x243.jpg)](https://lawandcrime.com/crime/soldier-admits-to-drinking-a-lot-at-gender-reveal-before-crashing-into-engaged-couple-and-killing-them-while-still-wearing-baby-blue-wristband-from-party-cops/)
+3. [![Left to right: Jaclyn Machelle Barnett and Daniel Alan Wright (Baxter County Jail).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/asdfasdf-432x243.jpg)](https://lawandcrime.com/crime/couple-kept-boy-locked-in-lightless-bathroom-with-ratchet-strap-for-days-without-food-or-clothing-police/)
     
-    ### [Soldier admits to drinking 'a lot' at gender reveal before crashing into engaged couple and killing them while still wearing baby blue wristband from party: Cops](https://lawandcrime.com/crime/soldier-admits-to-drinking-a-lot-at-gender-reveal-before-crashing-into-engaged-couple-and-killing-them-while-still-wearing-baby-blue-wristband-from-party-cops/)
+    ### [Couple kept boy locked in lightless bathroom with 'ratchet strap' for days without food or clothing: Police](https://lawandcrime.com/crime/couple-kept-boy-locked-in-lightless-bathroom-with-ratchet-strap-for-days-without-food-or-clothing-police/)
     
-4. [![Aileen Cannon appears inset against an image of Donald Trump pointing left.](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Cannon-Trump-Victors-432x243.jpg)](https://lawandcrime.com/high-profile/judge-aileen-cannon-emerges-as-one-of-the-2024-elections-most-influential-players-and-maybe-one-of-the-biggest-winners-as-ag-and-scotus-rumors-swirl/)
+4. [![Background: The Dublin San Ramon Regional Wastewater Treatment Facility in Pleasanton, Calif. on Tues. September 22, 2015 (Michael Macor/San Francisco Chronicle via AP). Inset: Robert F. Kennedy Jr. (X/RFK Jr.).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/RFK-Jr.-water-treatment-plant-432x243.jpg)](https://lawandcrime.com/high-profile/unreasonable-risk-federal-judges-ruling-to-reduce-fluoride-levels-in-drinking-water-despite-scarce-research-may-help-fuel-rfk-jr-s-wild-crusade/)
     
-    ### [Judge Aileen Cannon emerges as one of the 2024 election's most influential players — and maybe one of the biggest winners as AG and SCOTUS rumors swirl](https://lawandcrime.com/high-profile/judge-aileen-cannon-emerges-as-one-of-the-2024-elections-most-influential-players-and-maybe-one-of-the-biggest-winners-as-ag-and-scotus-rumors-swirl/)
+    ### ['Unreasonable risk': Federal judge's ruling to reduce fluoride levels in drinking water despite 'scarce' research may help fuel RFK Jr.'s 'wild' crusade](https://lawandcrime.com/high-profile/unreasonable-risk-federal-judges-ruling-to-reduce-fluoride-levels-in-drinking-water-despite-scarce-research-may-help-fuel-rfk-jr-s-wild-crusade/)
     
-5. [![Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/factually-and-legally-incorrect-trump-appointed-judge-savages-gop-efforts-to-block-ballot-collection-in-georgia-tells-attorneys-to-read-the-boy-who-cried-wolf/)
+5. [![Esther Thelus](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Esther-Thelus-432x243.jpg)](https://lawandcrime.com/crime/they-are-all-on-fire-mother-who-felt-too-much-humiliation-doused-her-2-year-old-and-8-month-old-sons-in-gasoline-and-set-them-ablaze-cops-say/)
     
-    ### ['Factually and legally incorrect': Trump-appointed judge savages GOP efforts to block ballot collection in Georgia — tells attorneys to read 'The Boy Who Cried Wolf'](https://lawandcrime.com/high-profile/factually-and-legally-incorrect-trump-appointed-judge-savages-gop-efforts-to-block-ballot-collection-in-georgia-tells-attorneys-to-read-the-boy-who-cried-wolf/)
+    ### ['They are all on fire!': Mother who felt 'too much humiliation' doused her 2-year-old and 8-month-old sons in gasoline and set them ablaze, cops say](https://lawandcrime.com/crime/they-are-all-on-fire-mother-who-felt-too-much-humiliation-doused-her-2-year-old-and-8-month-old-sons-in-gasoline-and-set-them-ablaze-cops-say/)
     
 
 [](http://eepurl.com/c89Jdb)
