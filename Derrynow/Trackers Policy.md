@@ -284,62 +284,82 @@ Flares lighting up Derry's Craigavon Bridge
 [Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![McMonagle was sentenced for series of child sex offences involving police decoys](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McMonagle was sentenced for series of child sex offences involving police decoys")](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[McMonagle sentenced for series of child sex offences involving police decoys](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Family of Derry woman killed by army denied identity of soldier who shot their mother](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Family of Derry woman killed by army denied identity of soldier who shot their mother")](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Memoriam - John McCready - 10th Anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Blueprint for women’s safety presented to councillors following spate of Derry attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Blueprint for women’s safety presented to councillors following spate of Derry attacks")](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
-
-Officers from the PSNI’s Local Neighbourhood Policing Teams at the Top of the Hill Park area in Derry where a woman was attacked by a male with a knife (Liam McBurney/PA)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2")](https://www.derrynow.com/story-telling/pictures---videos/1646907/in-pictures-cce-baile-na-gcailleach-traditional-weekender-in-studio-2.html)
+[![IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road")](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: CCE Baile na gCailleach Traditional Weekender in Studio 2](https://www.derrynow.com/story-telling/pictures---videos/1646907/in-pictures-cce-baile-na-gcailleach-traditional-weekender-in-studio-2.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures")](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry man Shane Duffy returns to the Republic of Ireland squad for Finland and England fixtures](https://www.derrynow.com/news/derry-sport/1650952/derry-man-shane-duffy-returns-to-the-republic-of-ireland-squad-for-finland-and-england-fixtures.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre")](https://www.derrynow.com/story-telling/pictures---videos/1651090/in-pictures-gemx-interative-roadshow-visits-claudy-s-diamond-centre.html)
+[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: GEMX interative roadshow visits Claudy's Diamond Centre](https://www.derrynow.com/story-telling/pictures---videos/1651090/in-pictures-gemx-interative-roadshow-visits-claudy-s-diamond-centre.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Rory Kavanagh takes up manager's role at Watty Graham's Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
+
+Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas")](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
+
+The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Simon Harris to skip Enniskillen visit on advice from Government officials](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris to skip Enniskillen visit on advice from Government officials")](https://www.derrynow.com/news/northern-ireland/1651663/simon-harris-to-skip-enniskillen-visit-on-advice-from-government-officials.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Simon Harris to skip Enniskillen visit on advice from Government officials](https://www.derrynow.com/news/northern-ireland/1651663/simon-harris-to-skip-enniskillen-visit-on-advice-from-government-officials.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Call out for Christmas themed youth social event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call out for Christmas themed youth social event in Derry's Guildhall")](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
+
+The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathleen at Friday's 'Our Guildhall, Our Space' event. Centre at back is entertainer Mickey Doherty.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Call out for Christmas themed youth social event in Derry's Guildhall](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mayor receives special visitor to finalise Christmas plans for Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor receives special visitor to finalise Christmas plans for Derry and Strabane")](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
+
+Mayor Lilian Seenoi-Barr, at her meeting with Santa Claus to discuss the Council area’s plans for Christmas, included are Santa’s little helpers Cría Cole, Ennan Shiels and Oisin Heffernan.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Mayor welcomes special visitor to Derry's Guildhall](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final")](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road")](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
 
@@ -396,20 +416,6 @@ Multimedia
 
 [PROPERTY: Stylish Derry home in ideal location hits the market](https://www.derrynow.com/news/pictures---videos/1646758/property-stylish-derry-home-in-ideal-location-hits-the-market.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Na Magha host Camogie Halloween Camp](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Na Magha host Camogie Halloween Camp")](https://www.derrynow.com/story-telling/pictures---videos/1648704/in-pictures-na-magha-host-camogie-halloween-camp.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Na Magha host Camogie Halloween Camp](https://www.derrynow.com/story-telling/pictures---videos/1648704/in-pictures-na-magha-host-camogie-halloween-camp.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home")](https://www.derrynow.com/story-telling/pictures---videos/1646905/in-pictures-craft-fair-coffee-morning-held-in-the-ymca-drumahoe-in-aid-of-ardlough-care-home.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Craft Fair coffee morning held in The YMCA Drumahoe in aid of Ardlough Care Home](https://www.derrynow.com/story-telling/pictures---videos/1646905/in-pictures-craft-fair-coffee-morning-held-in-the-ymca-drumahoe-in-aid-of-ardlough-care-home.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,7 +517,34 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Mayor receives special visitor to finalise Christmas plans for Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor receives special visitor to finalise Christmas plans for Derry and Strabane")](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
+[![Call out for Christmas themed youth social event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call out for Christmas themed youth social event in Derry's Guildhall")](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
+
+The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathleen at Friday's 'Our Guildhall, Our Space' event. Centre at back is entertainer Mickey Doherty.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Call out for Christmas themed youth social event in Derry's Guildhall](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Rory Kavanagh takes up manager's role at Watty Graham's Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
+
+Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_07/MixCollage-07-Nov-2024-04-05-PM-4859-1730995498980.jpg--.jpg?1730995499047 "The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas")](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
+
+The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mayor receives special visitor to finalise Christmas plans for Derry and Strabane](https://www.derrynow.com/resizer/165/93/true/2024_11_06/Christmas_2024_launch_3-1730891497039.jpg--.jpg?1730891498928 "Mayor receives special visitor to finalise Christmas plans for Derry and Strabane")](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
 
 Mayor Lilian Seenoi-Barr, at her meeting with Santa Claus to discuss the Council area’s plans for Christmas, included are Santa’s little helpers Cría Cole, Ennan Shiels and Oisin Heffernan.
 
@@ -520,7 +553,7 @@ Mayor Lilian Seenoi-Barr, at her meeting with Santa Claus to discuss the Council
 [Mayor welcomes special visitor to Derry's Guildhall](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final")](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
+[![Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/resizer/165/93/true/2024_11_07/IDNT_7-11-24_Greyhounds_5_30074567-1730989488167.jpg--.jpg?1730989494825 "Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final")](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
 
 The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by ROSSNA MILLIE in 29.26. Pictured with (from left) Stuart Harpur with Sienna, Kirsty Harpur (centre) with Ava & Alyssah.
 
@@ -535,33 +568,6 @@ The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by R
 
 [Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/resizer/165/93/true/2024_11_08/466024808_2371976239824075_8078305991078823144_n-1731101464705.jpg--.jpg?1731101464730 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
-
-Flares lighting up Derry's Craigavon Bridge
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man sadly dies while on holiday in Thailand](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Philip_Howell-1731096238059.jpg--.jpg?1731096238081 "Derry man sadly dies while on holiday in Thailand")](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
-
-The late Philip Howell.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man sadly dies while on holiday in Thailand](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Derry_attacks-1731080874772.jpg--.jpg?1731080874798 "Blueprint for women’s safety presented to councillors following spate of Derry attacks")](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
-
-Officers from the PSNI’s Local Neighbourhood Policing Teams at the Top of the Hill Park area in Derry where a woman was attacked by a male with a knife (Liam McBurney/PA)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Blueprint for women’s safety presented to councillors following spate of Derry attacks](https://www.derrynow.com/news/local-news/1651157/blueprint-for-womens-safety-presented-to-councillors-following-spate-of-derry-attacks.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
