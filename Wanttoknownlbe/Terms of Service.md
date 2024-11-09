@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/we-did-it-walvisvangstverbod-verlengd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/klimaat/nog-meer-experts-tegen-klimaat-idiotie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -193,6 +193,22 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het lijkt op.. en HET IS ‘ETNISCHE ZUIVERING’
+
+[https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-j…](https://www.wanttoknow.nl/politiek/oorlog/het-lijkt-op-en-het-is-etnische-zuivering/comment-page-1/#comment-626364)
+
+![Jennyan72](https://secure.gravatar.com/avatar/03e36057eed2c0261978f105a9c37e67?s=50&d=identicon&r=g)
+
+##### **Jennyan72** reacts on:
+
+##### Vanuit ’n hoger perspectief op Aarde; met Berry Vincenta..
+
+[Wat weer een geweldige channeling.... en wat veel informatie…](https://www.wanttoknow.nl/inspiratie/vanuit-n-hoger-perspectief-op-aarde-met-berry-vincenta/comment-page-1/#comment-626363)
 
 ![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
 
@@ -433,22 +449,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### De ‘gruwelijke’, volgende mRNA-ontwikkelingen!!
 
 [Hoi Guido. Het schijnt dat de paper al een tegen-paper heeft…](https://www.wanttoknow.nl/hoofdartikelen/de-gruwelijke-volgende-mrna-ontwikkelingen/comment-page-1/#comment-626332)
-
-![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
-
-##### **Adriaan W** reacts on:
-
-##### De aanval op de multidimensionale mens..!
-
-[Weer een Triple A artikel van mevr. Harriet, waaraan ik af e…](https://www.wanttoknow.nl/overige/de-aanval-op-de-multidimensionale-mens/comment-page-1/#comment-626331)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Rechtszaak tegen Rutte blokkeert NAVO-job..!!!
-
-[Het probleem met sommige "hoog geplaatsten" (waaronder Rutte…](https://www.wanttoknow.nl/nieuws/rechtszaak-tegen-rutte-blokkeert-navo-job/comment-page-1/#comment-626330)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
