@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f/20241109T001906/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f/20241109T001906/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-death-investigation-mount-carroll-loved-ones-respond-sheriffs-statement/526-5f82653b-655e-4a33-bc4c-177eb2949c6a)
         
-        #### [Augustana Symphonic Band celebrating 150 years this November](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4) [![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a830fe4e-d79b-41ec-a0df-0f94e54f412d/a830fe4e-d79b-41ec-a0df-0f94e54f412d_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4)
+        #### [Loved ones of Jackson Kradle respond to Carroll County sheriff's statement on death investigation](https://www.wqad.com/article/news/local/jackson-kradle-death-investigation-mount-carroll-loved-ones-respond-sheriffs-statement/526-5f82653b-655e-4a33-bc4c-177eb2949c6a)
         
-        #### [Celebrate 150 years of the Augustana Symphonic Band](https://www.wqad.com/article/news/local/the-current/augustana-symphonic-band-150-years/526-796ab98f-adaf-4997-a8de-7f7e3425dde4)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/aea963a5-88a6-431b-b276-6997e61336ce/20241028T212958/aea963a5-88a6-431b-b276-6997e61336ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aea963a5-88a6-431b-b276-6997e61336ce/20241028T212958/aea963a5-88a6-431b-b276-6997e61336ce_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/inaugural-qc-veterans-day-festival-raising-money-uncommon-valor/526-3c885687-f2a8-4154-a8ef-6900980682cd)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/07049239-0db1-4cfd-a036-ecf24eb4815e/20241108T235855/07049239-0db1-4cfd-a036-ecf24eb4815e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/07049239-0db1-4cfd-a036-ecf24eb4815e/20241108T235855/07049239-0db1-4cfd-a036-ecf24eb4815e_360x203.jpg)](https://www.wqad.com/article/news/local/veterans-day-wwii-veterans-honored-john-deere-headquarters/526-ab6257c3-a53d-474a-9ef6-f9bf4618ab3a)
         
-        #### [Inaugural 'QC Veterans Festival' raising money for veteran suicide prevention](https://www.wqad.com/article/news/local/the-current/inaugural-qc-veterans-day-festival-raising-money-uncommon-valor/526-3c885687-f2a8-4154-a8ef-6900980682cd)
+        #### [John Deere hosts Veterans Day ceremony, including honoring 2 local WWII veterans](https://www.wqad.com/article/news/local/veterans-day-wwii-veterans-honored-john-deere-headquarters/526-ab6257c3-a53d-474a-9ef6-f9bf4618ab3a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0b6c6049-4738-4e4b-bd1b-43fa79f235c2/20241108T131025/0b6c6049-4738-4e4b-bd1b-43fa79f235c2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0b6c6049-4738-4e4b-bd1b-43fa79f235c2/20241108T131025/0b6c6049-4738-4e4b-bd1b-43fa79f235c2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a5d82a27-7728-4e13-b0ed-313111bbc54d/20241108T225918/a5d82a27-7728-4e13-b0ed-313111bbc54d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a5d82a27-7728-4e13-b0ed-313111bbc54d/20241108T225918/a5d82a27-7728-4e13-b0ed-313111bbc54d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Nice Friday... Next shower chance approaching](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -87,15 +86,16 @@ Navigation
 
 Davenport, IA »
 
-62°
+45°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
 [Weather](https://www.wqad.com/weather/alerts) [Closings](https://www.wqad.com/closings)
 
 * [Download News 8+](https://www.wqad.com/article/about-us/wqad-plus-news-8-streaming-app-24-7-news-channel-roku-amazon-fire-stick-tv/526-8541371e-0493-4bcb-943b-4f265cfa63ce)
+* [News 8+ Stream Schedule](https://www.wqad.com/article/about-us/wqad-plus-news-8-streaming-app-24-7-news-channel-roku-amazon-fire-stick-tv/526-8541371e-0493-4bcb-943b-4f265cfa63ce)
 * [Ask Andrew](https://www.wqad.com/article/weather/ask-andrew/ask-andrew/526-62a556b9-8c63-4d25-9bb1-d4f62ce24546)
 * [As Seen On TV](https://www.wqad.com/as-seen-on-tv)
 * [Meet the Team](https://www.wqad.com/meet-the-team)
