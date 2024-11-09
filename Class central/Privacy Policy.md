@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
-2. [6 Best Graphic Design Courses for Beginners for 2024](https://www.classcentral.com/report/best-graphic-design-courses/)
-3. [7 Best Dropshipping Courses for 2024](https://www.classcentral.com/report/best-dropshipping-courses/)
-4. [Harvard’s Intro to Python: Earn a Free Certificate](https://www.classcentral.com/report/harvard-cs50-python/)
-5. [330+ Free University Courses to Learn a New Language](https://www.classcentral.com/report/language-learning-online-courses/)
+1. [9 Best Adobe Premiere Pro Courses for 2024](https://www.classcentral.com/report/best-adobe-premiere-courses/)
+2. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
+3. [6 Best Graphic Design Courses for Beginners for 2024](https://www.classcentral.com/report/best-graphic-design-courses/)
+4. [7 Best Dropshipping Courses for 2024](https://www.classcentral.com/report/best-dropshipping-courses/)
+5. [Harvard’s Intro to Python: Earn a Free Certificate](https://www.classcentral.com/report/harvard-cs50-python/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. data science
+1. English
     
-2. project management
+2. java
     
-3. trading
+3. harvard
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Computer Science
     
-    13,490 courses](https://www.classcentral.com/subject/web-development)
-2. [Computer Networking
+    42,579 courses](https://www.classcentral.com/subject/cs)
+2. [Communication Skills
     
-    1,713 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Leadership
+    4,099 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Project Management
     
-    3,924 courses](https://www.classcentral.com/subject/leadership)
+    4,065 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 ---------------
 
-1. [Introduction to Programming with MATLAB
+1. [Project Management: The Basics for Success
     
-    Vanderbilt University](https://www.classcentral.com/course/matlab-3396)
-2. [Python for Data Science
+    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
+2. [Introduction to Mathematical Thinking
     
-    University of California, San Diego](https://www.classcentral.com/course/python-the-university-of-california-san-diego-pyt-8209)
-3. [Introduction to Animal Behaviour
+    Stanford University](https://www.classcentral.com/course/maththink-370)
+3. [Arab-Islamic History: From Tribes to Empires
     
-    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
+    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
