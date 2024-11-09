@@ -121,7 +121,7 @@ vertreten durch die Geschäftsführer Dr. Rainer Esser, Christian Röpke und Enr
 
 Postanschrift: ZEIT ONLINE GmbH  
 Helmut-Schmidt-Haus  
-20095 Hamburg
+20095 [Hamburg](https://www.zeit.de/thema/hamburg)
 
 Telefon: (040) 3280-0  
 E-Mail: kontakt(at)zeit.de
@@ -142,7 +142,7 @@ Die Allgemeinen Nutzungsbedingungen von ZEIT ONLINE gelten für alle Portale und
 Bitte beachten Sie, dass die auf den Portalen der ZEIT ONLINE GmbH veröffentlichten Schriftwerke, Fotografien und Illustrationen, Videos und sonstige Inhalte urheberrechtlich geschützt sind und von Ihnen nur dann vervielfältigt oder anderweitig genutzt werden dürfen, wenn Ihnen dies im Einzelfall durch den Rechteinhaber oder die gesetzlichen Schranken des Urheberrechts gestattet ist. Diese Inhalte unterliegen keiner Creative Common Lizenz, es sei denn, eine solche ist ausdrücklich angegeben. Eine Verlinkung oder Zitierung ist ohne Genehmigung zulässig, soweit dies in den Grenzen Zitatrechts nach § 51 UrhG erfolgt. Zu den Möglichkeiten einer Lizenzierung von Nutzungsrechten, finden Sie [**hier**](http://www.zeitverlag.de/presse/rechte-und-lizenzen) weitere Informationen und Ansprechpartner.
 
 2.  
-Bitte beachten Sie auch, dass die Kennzeichen (Marken, Geschäftsbezeichnungen, Zeitschriften- und Rubrikentitel) der ZEIT ONLINE GmbH und der Zeitverlag Gerd Bucerius GmbH & Co. KG dem Schutz des Markengesetzes unterliegen.
+Bitte beachten Sie auch, dass die Kennzeichen (Marken, Geschäftsbezeichnungen, Zeitschriften- und Rubrikentitel) der ZEIT ONLINE GmbH und der Zeitverlag [Gerd Bucerius](https://www.zeit.de/thema/gerd-bucerius) GmbH & Co. KG dem Schutz des Markengesetzes unterliegen.
 
 **§ 2 Haftung der ZEIT ONLINE GmbH**
 
@@ -153,7 +153,7 @@ Die ZEIT ONLINE GmbH übernimmt keine rechtliche Gewähr für die Richtigkeit, V
 Die ZEIT ONLINE GmbH wird sich bemühen, ihre Dienste stets zugänglich zu halten, sie übernimmt hierfür jedoch keine Haftung. Ein Anspruch auf ständige Verfügbarkeit besteht nicht. Die ZEIT ONLINE GmbH behält sich vor, ihr Angebot oder Teile des Angebots jederzeit zu beenden oder einzuschränken. Für kostenpflichtige Angebote gelten jeweils ergänzende Bestimmungen.
 
 3.  
-Eine Haftung für einen Datenverlust des Nutzers oder Schäden an Hard- oder Software des Nutzers übernimmt die ZEIT ONLINE GmbH nur für den Fall des Vorsatzes oder der groben Fahrlässigkeit oder der Verletzung von Kardinalpflichten. Die Haftung ist begrenzt auf denjenigen Schaden, welcher bei vertragsgemäßer privater Nutzung durch den Nutzer vernünftigerweise vorhersehbar ist.  
+Eine Haftung für einen Datenverlust des Nutzers oder Schäden an Hard- oder [Software](https://www.zeit.de/thema/software) des Nutzers übernimmt die ZEIT ONLINE GmbH nur für den Fall des Vorsatzes oder der groben Fahrlässigkeit oder der Verletzung von Kardinalpflichten. Die Haftung ist begrenzt auf denjenigen Schaden, welcher bei vertragsgemäßer privater Nutzung durch den Nutzer vernünftigerweise vorhersehbar ist.  
 
 4.  
 Voraussetzung für die einwandfreie Nutzung der von ZEIT ONLINE GmbH angebotenen Dienste ist, dass Sie über einen Zugang zu elektronischen Medien verfügen, der dem jeweils aktuellen technischen Standard entspricht. Bitte informieren Sie sich vor Abschluss des Vertrages, ob die von Ihnen benutzte Hard- und Software die Nutzung der hier zur Verfügung gestellten Dienste ermöglicht. Für jedes Abonnement finden Sie in der jeweiligen Angebotsbeschreibung die technischen Details der angebotenen Dienste. Zudem können Sie mit Hilfe von Demoversionen testen, ob Ihre Hard- und Software die Nutzung der Angebote ermöglicht. Antworten auf häufig gestellte Fragen [finden Sie hier.](https://premium.zeit.de/faq)
@@ -174,7 +174,7 @@ Sofern der Nutzer Kaufmann ist oder seinen ständigen Aufenthaltsort im Ausland 
 Die ZEIT ONLINE GmbH behält sich vor, ihre Nutzungsbedingungen zukünftig zu ändern. Für kostenpflichtige Dienste gelten die jeweiligen besonderen Bestimmungen.
 
 5.  
-Die Europäische Kommission stellt unter [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/) eine Plattform zur außergerichtlichen Online-Streitbeilegung (sog. OS-Plattform) bereit. Gemäß § 36 VSBG weisen wir Sie darauf hin, dass wir zur Teilnahme an einem Streitschlichtungsverfahren vor einer Verbraucherschlichtungsstelle nicht verpflichtet sind und an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle nicht teilnehmen.  
+Die [Europäische Kommission](https://www.zeit.de/thema/eu-kommission) stellt unter [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/) eine Plattform zur außergerichtlichen Online-Streitbeilegung (sog. OS-Plattform) bereit. Gemäß § 36 VSBG weisen wir Sie darauf hin, dass wir zur Teilnahme an einem Streitschlichtungsverfahren vor einer Verbraucherschlichtungsstelle nicht verpflichtet sind und an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle nicht teilnehmen.  
 
 **Nutzungsbedingungen für digitale Abonnements**
 
@@ -253,7 +253,7 @@ Datum
 (\*) Unzutreffendes streichen. 
 
 **3\. Rücksendekosten**  
-Im Falle des Widerrufrechts haben Sie die Kosten der Rücksendung zu tragen, wenn die gelieferte Ware der bestellten entspricht. Bei Widerruf des gesamten Kaufvertrages belaufen sich die Kosten der Rücksendung über DHL bspw. auf € 4,99 (z.B. für die Rücksendung eines iPads im Rahmen des Digital-Abonnements mit iPad).
+Im Falle des Widerrufrechts haben Sie die Kosten der Rücksendung zu tragen, wenn die gelieferte Ware der bestellten entspricht. Bei Widerruf des gesamten Kaufvertrages belaufen sich die Kosten der Rücksendung über DHL bspw. auf € 4,99 (z.B. für die Rücksendung eines [iPads](https://www.zeit.de/thema/ipad) im Rahmen des Digital-Abonnements mit iPad).
 
 **§ 4 Zahlung**  
 Das Entgelt ist vom Nutzer entsprechend der vereinbarten Bestelldaten wahlweise per Bankeinzug, Kreditkarte (VISA, MasterCard oder Diners Club) oder Rechnung zu zahlen. Sie kommen mit der Erfüllung dieser Forderung spätestens dann in Verzug, wenn Sie nicht innerhalb von 30 Tagen nach Zugang der Rechnung und Fälligkeit leisten.
@@ -363,7 +363,7 @@ vertreten durch die Geschäftsführer Dr. Rainer Esser, Christian Röpke und Enr
 
 Postanschrift: ZEIT ONLINE GmbH  
 Helmut-Schmidt-Haus  
-20095 Hamburg
+20095 [Hamburg](https://www.zeit.de/thema/hamburg)
 
 Telefon: (040) 3280-0  
 E-Mail: kontakt(at)zeit.de
@@ -395,12 +395,12 @@ Schließen
 
 ### Schlagwörter
 
-* AGB,
-* E-Paper,
-* Software,
-* Urheberrecht,
-* Bundesrepublik Deutschland,
-* Hamburg
+* [Gerd Bucerius](https://www.zeit.de/thema/gerd-bucerius),
+* [Hamburg](https://www.zeit.de/thema/hamburg),
+* [Software](https://www.zeit.de/thema/software),
+* [iPad](https://www.zeit.de/thema/ipad),
+* [EU-Kommission](https://www.zeit.de/thema/eu-kommission),
+* [Bundesrepublik Deutschland](https://www.zeit.de/thema/bundesrepublik-deutschland)
 * , [Aktuelle Themen](https://www.zeit.de/thema/index)
 
 ### Navigationspfad
