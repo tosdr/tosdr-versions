@@ -107,69 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Lucie Bílá - Braniboři v Čechách](https://lyricstranslate.com/en/lucie-bila-branibori-v-cechach-lyrics)
-
-Czech
-
-[![protossdesign](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1511985-1648825139.jpg)](https://lyricstranslate.com/en/translator/protossdesign "protossdesign")
-
-Transcription request fulfilled
-
-[Jean-Petit qui danse](https://lyricstranslate.com/en/french-childrens-songs-jean-petit-qui-danse-lyrics)
-
-French
-
-[![protossdesign](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1511985-1648825139.jpg)](https://lyricstranslate.com/en/translator/protossdesign "protossdesign")
-
-New song
-
-[French Children's Songs - Jean-Petit qui danse](https://lyricstranslate.com/en/french-childrens-songs-jean-petit-qui-danse-lyrics)
-
-French
-
-[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
+[![ditteoline](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1184778-1651771338.jpg)](https://lyricstranslate.com/en/translator/ditteoline "ditteoline")
 
 New translation
 
-[Philip Labes - A TV Show Called Earth](https://lyricstranslate.com/en/philip-labes-tv-show-called-earth-french)
+[Einstürzende Neubauten - Sabrina](https://lyricstranslate.com/en/einsturzende-neubaut-sabrina-danish)
 
-English → French
+English → Danish
 
-[![Super Girl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1308083-1547756752.png)](https://lyricstranslate.com/en/translator/super-girl "Super Girl")
-
-New translation
-
-[Djordan - Бом, Бом (Bom, Bom)](https://lyricstranslate.com/en/djordan-bom-bom-romanian)
-
-Bulgarian → Romanian
-
-[![HiiJin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/hiijin "HiiJin")
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
 New translation
 
-[Bogdan DLP - La tine și la bani](https://lyricstranslate.com/en/bogdan-dlp-la-tine-si-la-bani-english)
+[Hugues Aufray - Personne te connaît (quand tu es dans le trou)](https://lyricstranslate.com/en/hugues-aufray-personne-te-connait-quan-english-0)
 
-Romanian → English
+French → English
 
 [![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
 
-New transcription request
+Transcription request fulfilled
 
-[Ranma 1/2 (ost) - Olvida la amargura](https://lyricstranslate.com/en/ranma-12-ost-olvida-la-amargura)
+[Spiel nicht mit der Liebe](https://lyricstranslate.com/en/peggy-brown-spiel-nicht-mit-der-liebe-lyrics)
 
-Spanish
+German
 
-[![masa8910](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408007-1569673458.jpg)](https://lyricstranslate.com/en/translator/masa8910 "masa8910")
+[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
 
-New translation
+New song
 
-[Laufey - Promise](https://lyricstranslate.com/en/laufey-promise-masonese)
+[Peggy Brown - Spiel nicht mit der Liebe](https://lyricstranslate.com/en/peggy-brown-spiel-nicht-mit-der-liebe-lyrics)
 
-English → Masonese
+German
+
+[![Gunda412](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1459212-1593362012.jpg)](https://lyricstranslate.com/en/translator/gunda412 "Gunda412")
+
+New collection
+
+[Songs about sandwiches](https://lyricstranslate.com/en/collection/songs-about-sandwiches)
+
+[![lemminkainen](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/lemminkainen "lemminkainen")
+
+New song
+
+[Elina Vaara - Balladi](https://lyricstranslate.com/en/elina-vaara-balladi-lyrics)
+
+Finnish
+
+[![Gunda412](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1459212-1593362012.jpg)](https://lyricstranslate.com/en/translator/gunda412 "Gunda412")
+
+New song
+
+[Helge Schneider - Käsebrot](https://lyricstranslate.com/en/helge-schneider-kasebrot-lyrics)
+
+German
+
+[![Aslı Karaman](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1540557-1688070923.jpg)](https://lyricstranslate.com/en/translator/asl%C4%B1-karaman "Aslı Karaman")
+
+New song
+
+[Grup ORHUN - TURAN (Selam Olsun)](https://lyricstranslate.com/en/grup-orhun-turan-selam-olsun-lyrics)
+
+Turkish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
