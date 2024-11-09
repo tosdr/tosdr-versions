@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 203 utilisateurs actifs
+##### 421 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Bug de Word qui supprime les documents (au lieu de les enregistrer) : Microsoft publie enfin un correctif !](https://lecrabeinfo.net/bug-de-word-qui-supprime-les-documents-au-lieu-de-les-enregistrer-microsoft-publie-enfin-un-correctif.html)
 * [Python maintenant disponible dans Excel !](https://lecrabeinfo.net/python-maintenant-disponible-dans-excel.html) 
 * [Windows 10 : Microsoft dévoile le prix que vous devrez payer pour rester à jour en 2025](https://lecrabeinfo.net/windows-10-microsoft-devoile-le-prix-que-vous-devrez-payer-pour-rester-a-jour-en-2025.html)
-* [Windows 11 24H2 : la foire aux bugs continue !](https://lecrabeinfo.net/windows-11-24h2-la-foire-aux-bugs-continue.html)
 
 ### Tendance
 
