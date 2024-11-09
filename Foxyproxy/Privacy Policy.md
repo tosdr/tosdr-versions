@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for your always quick response!
+Living in Tanzania and France means that your proxy service has been a fantastic addition to our TV viewing year - keep it up! I have never experienced any instability in your proxy servers, whether accessing from TZ or France, so I have purchased a year long proxy again.
 
-Ana Matic
+Jo Anderson
