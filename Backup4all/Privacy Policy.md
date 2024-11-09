@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
+* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
     
-* [How to backup your data to Hitachi](https://www.backup4all.com/how-to-backup-your-data-to-hitachi-kb.html)  
+* [How to backup your data to HostEurope](https://www.backup4all.com/how-to-backup-your-data-to-hosteurope-kb.html)  
     
-* [How to back up data without using zip compres ...](https://www.backup4all.com/how-to-back-up-data-without-using-zip-compression-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
-* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
+* [Types of backup](https://www.backup4all.com/backup-types-kb.html)  
     
-* [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
+* [How to create an automated backup](https://www.backup4all.com/how-to-create-an-automated-backup-kb.html)  
     
 
 Choose language:
