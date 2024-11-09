@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2022/07/Scott-Meherg-rec-326x245.jpg)](https://cwbchicago.com/2024/11/18-time-convicted-felon-gets-6-years-for-stealing-rare-baseball-cards.html "18-time convicted felon gets 6 years for stealing rare baseball cards")
+
+Lincoln Square
+
+### [18-time convicted felon gets 6 years for stealing rare baseball cards](https://cwbchicago.com/2024/11/18-time-convicted-felon-gets-6-years-for-stealing-rare-baseball-cards.html "18-time convicted felon gets 6 years for stealing rare baseball cards")
+
+[November 6, 2024 9:28 AM](https://cwbchicago.com/2024/11)
+
+A 17-time felon added an 18th conviction to his résumé Monday when he pleaded guilty to stealing baseball cards worth tens of thousands of dollars. Scott Meherg, 44, pleaded guilty to felony theft in exchange for a six-year sentence from Judge Mary Margaret Brosnahan.[](https://cwbchicago.com/2024/11/18-time-convicted-felon-gets-6-years-for-stealing-rare-baseball-cards.html "18-time convicted felon gets 6 years for stealing rare baseball cards")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Navy-pier-above-326x245.jpg)](https://cwbchicago.com/2024/11/gunman-kills-2-at-navy-pier-known-suspect-remains-on-the-loose.html "Gunman kills 2 at Navy Pier, known suspect remains on the loose")
+
+Streeterville
+
+### [Gunman kills 2 at Navy Pier, known suspect remains on the loose](https://cwbchicago.com/2024/11/gunman-kills-2-at-navy-pier-known-suspect-remains-on-the-loose.html "Gunman kills 2 at Navy Pier, known suspect remains on the loose")
+
+[November 5, 2024 3:32 PM](https://cwbchicago.com/2024/11)
+
+A gunman killed two men at Navy Pier on Tuesday afternoon and then fled into Streeterville on foot. Chicago police suspect the killer is a recently fired employee at one of the pier’s restaurants.[](https://cwbchicago.com/2024/11/gunman-kills-2-at-navy-pier-known-suspect-remains-on-the-loose.html "Gunman kills 2 at Navy Pier, known suspect remains on the loose")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/SANTIAGO-JOSUVE-VARGAS--326x245.jpg)](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
 
 Streeterville
@@ -252,26 +272,6 @@ Streeterville
 [November 5, 2024 2:38 PM](https://cwbchicago.com/2024/11)
 
 A Venezuelan migrant has been detained as a safety threat, his 13th arrest in a year, after he allegedly tried to rob a woman of her bike in Streeterville.[](https://cwbchicago.com/2024/11/migrant-arrested-13-times-in-a-year-is-now-charged-with-streeterville-robbery.html "Migrant arrested 13 times in a year is now charged with Streeterville robbery")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jerome-Jackson-and-Bryant-Robinson-326x245.jpg)](https://cwbchicago.com/2024/11/2-men-went-on-nighttime-robbery-spree-from-79th-street-to-the-north-side-prosecutors-say-one-was-wearing-an-ankle-monitor.html "2  men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.")
-
-CTA
-
-### [2 men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.](https://cwbchicago.com/2024/11/2-men-went-on-nighttime-robbery-spree-from-79th-street-to-the-north-side-prosecutors-say-one-was-wearing-an-ankle-monitor.html "2  men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.")
-
-[November 5, 2024 11:11 AM](https://cwbchicago.com/2024/11)
-
-CHICAGO — Two men, including one who was supposed to be home on electronic monitoring, went on a crosstown robbery spree, mugging victims from 79th Street to Lakeview and Uptown before finally being arrested at the Addison Red Line station, officials said. Bryant Robinson and Jerome Jackson, both 20, are each charged with four counts[](https://cwbchicago.com/2024/11/2-men-went-on-nighttime-robbery-spree-from-79th-street-to-the-north-side-prosecutors-say-one-was-wearing-an-ankle-monitor.html "2  men went on nighttime robbery spree from 79th Street to the North Side, prosecutors say. One was wearing an ankle monitor.")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Flag-CFD-326x245.jpg)](https://cwbchicago.com/2024/11/cpd-officer-is-murdered-on-duty-2-detained.html "CPD officer is murdered on duty, 2 detained")
-
-Chatham
-
-### [CPD officer is murdered on duty, 2 detained](https://cwbchicago.com/2024/11/cpd-officer-is-murdered-on-duty-2-detained.html "CPD officer is murdered on duty, 2 detained")
-
-[November 5, 2024 6:22 AM](https://cwbchicago.com/2024/11)
-
-A Chicago police officer was shot and killed by machine gun fire while conducting an investigation in the Chatham neighborhood Monday evening.[](https://cwbchicago.com/2024/11/cpd-officer-is-murdered-on-duty-2-detained.html "CPD officer is murdered on duty, 2 detained")
 
 Search
 
