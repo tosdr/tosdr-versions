@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs AFG - Live](https://www.cricbuzz.com/live-cricket-scores/108771/ban-vs-afg-2nd-odi-afghanistan-v-bangladesh-in-uae-2024 "Bangladesh v Afghanistan, 2nd ODI - Live")[SL vs NZ - Toss](https://www.cricbuzz.com/live-cricket-scores/108737/sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st T20I - Toss")[BRHW vs ADSW - BRHW Won](https://www.cricbuzz.com/live-cricket-scores/101347/brhw-vs-adsw-20th-match-womens-big-bash-league-2024 "Brisbane Heat Women v Adelaide Strikers Women, 20th Match - BRHW Won")[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-england-tour-of-west-indies-2024 "West Indies v England, 1st T20I - Preview")[IND vs RSA - IND Won](https://www.cricbuzz.com/live-cricket-scores/100337/ind-vs-rsa-1st-t20i-india-tour-of-south-africa-2024 "India v South Africa, 1st T20I - IND Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-england-tour-of-west-indies-2024 "West Indies v England, 1st T20I - Preview")[BAN vs AFG - BAN Won](https://www.cricbuzz.com/live-cricket-scores/108771/ban-vs-afg-2nd-odi-afghanistan-v-bangladesh-in-uae-2024 "Bangladesh v Afghanistan, 2nd ODI - BAN Won")[NZ vs SL - SL Won](https://www.cricbuzz.com/live-cricket-scores/108737/nz-vs-sl-1st-t20i-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 1st T20I - SL Won")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100348/rsa-vs-ind-2nd-t20i-india-tour-of-south-africa-2024 "South Africa v India, 2nd T20I - Preview")[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92030/aus-vs-pak-3rd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 3rd ODI - Preview")
 
 AllLive NowToday
 
@@ -60,13 +60,13 @@ AllLive NowToday
     
     1st T20I
     
-* [South Africa vs India](https://www.cricbuzz.com/live-cricket-scores/100348/rsa-vs-ind-2nd-t20i-south-africa-v-india-2024 "South Africa v India, 2nd T20I - Upcoming")
+* [South Africa vs India](https://www.cricbuzz.com/live-cricket-scores/100348/rsa-vs-ind-2nd-t20i-south-africa-v-india-2024 "South Africa v India, 2nd T20I - Preview")
     
     2nd T20I
     
 * Afghanistan v Bangladesh in UAE, 2024
     
-    [Bangladesh vs Afghanistan  LIVE](https://www.cricbuzz.com/live-cricket-scores/108771/ban-vs-afg-2nd-odi-afghanistan-v-bangladesh-in-uae-2024 "Bangladesh v Afghanistan, 2nd ODI - Live")
+    [Bangladesh vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/108771/ban-vs-afg-2nd-odi-afghanistan-v-bangladesh-in-uae-2024 "Bangladesh v Afghanistan, 2nd ODI - BAN Won")
     
     2nd ODI
     
@@ -96,21 +96,17 @@ AllLive NowToday
     
 * New Zealand tour of Sri Lanka, 2024
     
-    [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/108737/sl-vs-nz-1st-t20i-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 1st T20I - Toss")
+    [New Zealand vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108737/nz-vs-sl-1st-t20i-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 1st T20I - SL Won")
     
     1st T20I
     
-* [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/108739/sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd T20I - Upcoming")
+* [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/108739/sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd T20I - Preview")
     
     2nd T20I
     
 * ICC CWC League Two 2023-27
     
-    [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108935/uae-vs-oman-46th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 46th Match - OMAN Won")
-    
-    46th Match
-    
-* [Netherlands vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108938/ned-vs-uae-47th-match-icc-cwc-league-two-2023-27 "Netherlands v United Arab Emirates, 47th Match - NED Won")
+    [Netherlands vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108938/ned-vs-uae-47th-match-icc-cwc-league-two-2023-27 "Netherlands v United Arab Emirates, 47th Match - NED Won")
     
     47th Match
     
@@ -126,19 +122,19 @@ AllLive NowToday
     
     Elite Group A
     
-* [Tamil Nadu vs Assam](https://www.cricbuzz.com/live-cricket-scores/97646/tn-vs-asm-elite-group-d-ranji-trophy "Tamil Nadu v Assam, Elite Group D - Match drawn")
-    
-    Elite Group D
-    
 * [Baroda vs Tripura](https://www.cricbuzz.com/live-cricket-scores/97558/brd-vs-tri-elite-group-a-ranji-trophy "Baroda v Tripura, Elite Group A - Match drawn")
     
     Elite Group A
+    
+* [Tamil Nadu vs Assam](https://www.cricbuzz.com/live-cricket-scores/97646/tn-vs-asm-elite-group-d-ranji-trophy "Tamil Nadu v Assam, Elite Group D - Match drawn")
+    
+    Elite Group D
     
 * [Madhya Pradesh vs Bihar](https://www.cricbuzz.com/live-cricket-scores/97626/mp-vs-bih-elite-group-c-ranji-trophy "Madhya Pradesh v Bihar, Elite Group C - MP Won")
     
     Elite Group C
     
-* [Uttarakhand vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97612/utk-vs-ap-elite-group-b-ranji-trophy "Uttarakhand v Andhra, Elite Group B - Complete")
+* [Uttarakhand vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97612/utk-vs-ap-elite-group-b-ranji-trophy "Uttarakhand v Andhra, Elite Group B - Match drawn")
     
     Elite Group B
     
@@ -149,6 +145,10 @@ AllLive NowToday
 * [Chhattisgarh vs Railways](https://www.cricbuzz.com/live-cricket-scores/97664/cg-vs-rlys-elite-group-d-ranji-trophy "Chhattisgarh v Railways, Elite Group D - Match drawn")
     
     Elite Group D
+    
+* [Bengal vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97619/ben-vs-kar-elite-group-c-ranji-trophy "Bengal v Karnataka, Elite Group C - Match drawn")
+    
+    Elite Group C
     
 * [Hyderabad vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97608/hyd-vs-raj-elite-group-b-ranji-trophy "Hyderabad v Rajasthan, Elite Group B - Match drawn")
     
@@ -182,10 +182,6 @@ AllLive NowToday
     
     Elite Group C
     
-* [Bengal vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97619/ben-vs-kar-elite-group-c-ranji-trophy "Bengal v Karnataka, Elite Group C - Match drawn")
-    
-    Elite Group C
-    
 * Ranji Trophy Plate
     
     [Sikkim vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98157/skm-vs-ngl-plate-ranji-trophy-plate "Sikkim v Nagaland, Plate - NGL Won")
@@ -216,15 +212,7 @@ AllLive NowToday
     
 * ICC CWC Challenge League B, 2024-26
     
-    [Tanzania vs Italy](https://www.cricbuzz.com/live-cricket-scores/108169/tan-vs-ita-3rd-match-icc-cwc-challenge-league-b-2024-26 "Tanzania v Italy, 3rd Match - ITA Won")
-    
-    3rd Match
-    
-* [Bahrain vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/108161/bhr-vs-hk-2nd-match-icc-cwc-challenge-league-b-2024-26 "Bahrain v Hong Kong, 2nd Match - HK Won")
-    
-    2nd Match
-    
-* [Italy vs Hong Kong  LIVE](https://www.cricbuzz.com/live-cricket-scores/108179/ita-vs-hk-5th-match-icc-cwc-challenge-league-b-2024-26 "Italy v Hong Kong, 5th Match - Live")
+    [Italy vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/108179/ita-vs-hk-5th-match-icc-cwc-challenge-league-b-2024-26 "Italy v Hong Kong, 5th Match - ITA Won")
     
     5th Match
     
@@ -232,11 +220,11 @@ AllLive NowToday
     
     4th Match
     
-* [Bahrain vs Singapore](https://www.cricbuzz.com/live-cricket-scores/108193/bhr-vs-sin-7th-match-icc-cwc-challenge-league-b-2024-26 "Bahrain v Singapore, 7th Match - Upcoming")
+* [Bahrain vs Singapore](https://www.cricbuzz.com/live-cricket-scores/108193/bhr-vs-sin-7th-match-icc-cwc-challenge-league-b-2024-26 "Bahrain v Singapore, 7th Match - Preview")
     
     7th Match
     
-* [Uganda vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/108187/uga-vs-hk-6th-match-icc-cwc-challenge-league-b-2024-26 "Uganda v Hong Kong, 6th Match - Upcoming")
+* [Uganda vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/108187/uga-vs-hk-6th-match-icc-cwc-challenge-league-b-2024-26 "Uganda v Hong Kong, 6th Match - Preview")
     
     6th Match
     
@@ -264,17 +252,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107449/cntbry-vs-nk-3rd-match-plunket-shield "Canterbury v Northern Knights, 3rd Match - Upcoming")
-    
-    3rd Match
-    
-* [Wellington vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107441/wel-vs-akl-2nd-match-plunket-shield "Wellington v Auckland, 2nd Match - Upcoming")
+    [Wellington vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107441/wel-vs-akl-2nd-match-plunket-shield "Wellington v Auckland, 2nd Match - Upcoming")
     
     2nd Match
     
 * [Central Districts vs Otago](https://www.cricbuzz.com/live-cricket-scores/107435/cd-vs-otg-1st-match-plunket-shield "Central Districts v Otago, 1st Match - Upcoming")
     
     1st Match
+    
+* [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107449/cntbry-vs-nk-3rd-match-plunket-shield "Canterbury v Northern Knights, 3rd Match - Upcoming")
+    
+    3rd Match
     
 * WOMEN
     
@@ -322,11 +310,11 @@ AllLive NowToday
     
     6th Match
     
-* [Mongolia Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/109204/mglw-vs-mmrw-3rd-place-play-off-china-womens-t20i-quadrangular-series "Mongolia Women v Myanmar Women, 3rd Place Play-off - Upcoming")
+* [Mongolia Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/109204/mglw-vs-mmrw-3rd-place-play-off-china-womens-t20i-quadrangular-series "Mongolia Women v Myanmar Women, 3rd Place Play-off - Preview")
     
     3rd Place Play-off
     
-* [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/109211/chnw-vs-hkw-final-china-womens-t20i-quadrangular-series "China Women v Hong Kong Women, Final - Upcoming")
+* [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/109211/chnw-vs-hkw-final-china-womens-t20i-quadrangular-series "China Women v Hong Kong Women, Final - Preview")
     
     Final
     
@@ -637,41 +625,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132373/icc-cancels-nov-11-champions-trophy-event-over-scheduling-imbroglio "ICC cancels November 11 Champions Trophy event over scheduling imbroglio")
+
+[ICC cancels November 11 Champions Trophy event over scheduling imbroglio](https://www.cricbuzz.com/cricket-news/132373/icc-cancels-nov-11-champions-trophy-event-over-scheduling-imbroglio "ICC cancels November 11 Champions Trophy event over scheduling imbroglio")
+
+52m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132372/shanto-jaker-and-nasum-shine-as-bangladesh-draw-level "Shanto, Jaker and Nasum shine as Bangladesh draw level")
+
+[Shanto, Jaker and Nasum shine as Bangladesh draw level](https://www.cricbuzz.com/cricket-news/132372/shanto-jaker-and-nasum-shine-as-bangladesh-draw-level "Shanto, Jaker and Nasum shine as Bangladesh draw level")
+
+53m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132371/charith-asalanka-bowlers-give-sri-lanka-a-winning-start "Asalanka, bowlers give Sri Lanka a winning start")
+
+[Asalanka, bowlers give Sri Lanka a winning start](https://www.cricbuzz.com/cricket-news/132371/charith-asalanka-bowlers-give-sri-lanka-a-winning-start "Asalanka, bowlers give Sri Lanka a winning start")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132370/ranji-trophy-mulani-fifer-gives-mumbai-a-massive-win "Ranji Trophy: Mulani fifer gives Mumbai a massive win")
+
+[Ranji Trophy: Mulani fifer gives Mumbai a massive win](https://www.cricbuzz.com/cricket-news/132370/ranji-trophy-mulani-fifer-gives-mumbai-a-massive-win "Ranji Trophy: Mulani fifer gives Mumbai a massive win")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132369/sanju-samson-shaken-not-stirred "Sanju Samson: Shaken, not stirred")
 
 [Sanju Samson: Shaken, not stirred](https://www.cricbuzz.com/cricket-news/132369/sanju-samson-shaken-not-stirred "Sanju Samson: Shaken, not stirred")
 
-42m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132368/konstas-webster-guide-australia-a-through "Konstas, Webster guide Australia A through")
 
 [Konstas, Webster guide Australia A through](https://www.cricbuzz.com/cricket-news/132368/konstas-webster-guide-australia-a-through "Konstas, Webster guide Australia A through")
 
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132367/all-round-renegades-prevail-in-melbourne-derby "All-round Renegades prevail in Melbourne derby ")
-
-[All-round Renegades prevail in Melbourne derby](https://www.cricbuzz.com/cricket-news/132367/all-round-renegades-prevail-in-melbourne-derby "All-round Renegades prevail in Melbourne derby ")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132366/samson-delights-durban-as-india-strike-first "Samson delights Durban as India strike first")
-
-[Samson delights Durban as India strike first](https://www.cricbuzz.com/cricket-news/132366/samson-delights-durban-as-india-strike-first "Samson delights Durban as India strike first")
-
-17h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132365/sensational-samson-century-sinks-south-africa "Sensational Samson century sinks South Africa")
-
-[Sensational Samson century sinks South Africa](https://www.cricbuzz.com/cricket-news/132365/sensational-samson-century-sinks-south-africa "Sensational Samson century sinks South Africa")
-
-18h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132364/pooran-russell-hetmyer-back-for-first-two-england-t20is-alzarri-joseph-suspended "Pooran, Russell, Hetmyer back for first two England T20Is; Alzarri Joseph suspended")
-
-[Pooran, Russell, Hetmyer back for first two England T20Is; Alzarri Joseph suspended](https://www.cricbuzz.com/cricket-news/132364/pooran-russell-hetmyer-back-for-first-two-england-t20is-alzarri-joseph-suspended "Pooran, Russell, Hetmyer back for first two England T20Is; Alzarri Joseph suspended")
-
-18h ago
+10h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
