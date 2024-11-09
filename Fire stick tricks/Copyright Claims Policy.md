@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Install Cinema HD APK on FireStick (Oct 2024)](https://www.firesticktricks.com/cinema-apk-firestick.html)
-* [Is 123Movies Safe and Legal? Everything You Need to Know](https://www.firesticktricks.com/is-123movies-safe-and-legal.html)
-* [How to Install Torque Lite Kodi Addon on FireStick](https://www.firesticktricks.com/torque-lite-kodi-addon.html)
-* [How to Install WatchNixtoons2 Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/watchnixtoons2-kodi-addon.html)
-* [How to Install Sport HD Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/sporthd-kodi-addon.html)
+* [20 Best Putlocker Alternatives (That REALLY Work) in 2024](https://www.firesticktricks.com/putlocker-alternatives.html)
+* [Best 123Movies Alternatives for Movies & Shows](https://www.firesticktricks.com/123movies-alternatives.html)
+* [Best StreamEast Alternatives for Sports Streaming](https://www.firesticktricks.com/streameast-alternatives.html)
+* [20 Best FMovies Alternatives for Free Movies & Shows](https://www.firesticktricks.com/fmovies-alternatives.html)
+* [How to Install Black and White Movies Kodi Addon](https://www.firesticktricks.com/black-and-white-movies-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
