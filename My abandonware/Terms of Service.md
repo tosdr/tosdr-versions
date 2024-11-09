@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 32100 old games to download for free!
+More than 32200 old games to download for free!
 
  
 
@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Conquestador: Szenario Generator](https://www.myabandonware.com/game/conquestador-szenario-generator-6cf)
-* [Survivor Ultimate](https://www.myabandonware.com/game/survivor-ultimate-sx3)
-* [Demon Attack](https://www.myabandonware.com/game/demon-attack-4tb)
-* [Atlantis](https://www.myabandonware.com/game/atlantis-74a)
-* [Frogger](https://www.myabandonware.com/game/frogger-7)
+* [Alice in Wonderland: An Adventure Beyond the Mirror](https://www.myabandonware.com/game/alice-in-wonderland-an-adventure-beyond-the-mirror-t9n)
+* [Action Hero 3D: Wild Dog](https://www.myabandonware.com/game/action-hero-3d-wild-dog-t9m)
+* [Confidential Mission](https://www.myabandonware.com/game/confidential-mission-t94)
+* [Come On Baby](https://www.myabandonware.com/game/come-on-baby-t93)
+* [Cobra the Arcade](https://www.myabandonware.com/game/cobra-the-arcade-t92)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Troubadours](https://www.myabandonware.com/game/troubadours-hli)
-* [U-boat](https://www.myabandonware.com/game/u-boat-o3h)
-* [Alias Underground Episode 5: Turkish Embassy - CIA Countermission](https://www.myabandonware.com/game/alias-underground-episode-5-turkish-embassy-cia-countermission-o1p)
+* [3D-Puzzlespass](https://www.myabandonware.com/game/3d-puzzlespass-myd)
+* [Super Mario Fushigi no Korokoro Party](https://www.myabandonware.com/game/super-mario-fushigi-no-korokoro-party-ssy)
+* [Master Labyrinth](https://www.myabandonware.com/game/master-labyrinth-pkw)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
