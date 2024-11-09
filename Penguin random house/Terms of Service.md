@@ -14,6 +14,14 @@ Recommendations
 
 Audio
 
+* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
+    
+    Children’s & YA Books That Celebrate Native American Heritage
+    
+    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
+
+* * *
+
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
     
     New Releases
@@ -22,19 +30,11 @@ Audio
 
 * * *
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
-    Books Bans Are on the Rise in America
+    Audiobooks for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/29140304/PRH_New-in-Audio-November-1200x628-1.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * <
     
