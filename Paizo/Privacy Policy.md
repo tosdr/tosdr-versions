@@ -87,7 +87,6 @@ All Products Messageboards Blogs Users PRD
     * [ ]  [Apparel & Gifts▾▾](https://paizo.com/store/apparelGifts "Store > Apparel & Gifts")
     * [ ]  [Exclusives▾▾](https://paizo.com/store/exclusives "Store > Exclusives")
     * [ ]  [Sale▾▾](https://paizo.com/store/sale "Store > Sale")
-        * [Goblin Mini Flash Sale](https://paizo.com/store/sale/goblinMiniFlashSale "Store > Sale > Goblin Mini Flash Sale")
         * [$1 Bin](https://paizo.com/store/sale/oneDollar "Store > Sale > $1 Bin")
         * [25% Off](https://paizo.com/store/sale/twentyFive "Store > Sale > 25% Off")
         * [50% Off](https://paizo.com/store/sale/bffifty "Store > Sale > 50% Off")
