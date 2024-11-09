@@ -15,6 +15,12 @@ Free Shipping Over $55 - Free Gift over $80
         * [Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
         * [Sonic Scalp Scrubber](https://blackwolfnation.com/products/sonic-scalp)
         * [Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
+    * [Bundles + Kits](https://blackwolfnation.com/collections/bundle-save)
+        * Back
+        * [Bundles + Kits](https://blackwolfnation.com/collections/bundle-save)
+        * [Sonic Scrubber Bundles](https://blackwolfnation.com/collections/sonic-scrubber-gift-sets)
+        * [Sonic Scalp Bundles](https://blackwolfnation.com/collections/sonic-scalp-collection)
+        * [WUSH Bundles](https://blackwolfnation.com/collections/wush-gift-sets)
     * [Devices](https://blackwolfnation.com/collections/devices)
         * Back
         * [Devices](https://blackwolfnation.com/collections/devices)
@@ -55,20 +61,7 @@ Free Shipping Over $55 - Free Gift over $80
         
         [![](//blackwolfnation.com/cdn/shop/files/4_0172bd68-9b68-41d9-af6f-0a34afa1986f.png?v=1730137606&width=1350)](https://blackwolfnation.com/collections/bundle-save)
         
-* [Shop By Solution](https://blackwolfnation.com/collections)
-    * Back
-    * [Shop By Solution](https://blackwolfnation.com/collections)
-    * [Dry Skin](https://blackwolfnation.com/collections/black-wolf-dry-skin)
-    * [Face Acne](https://blackwolfnation.com/collections/black-wolf-face-acne)
-    * [Body Acne](https://blackwolfnation.com/collections/black-wolf-body-acne)
-    * [Flaky Scalp](https://blackwolfnation.com/collections/black-wolf-flaky-scalp)
-    * [Ear Health](https://blackwolfnation.com/collections/wush-collection)
-    * [![](//blackwolfnation.com/cdn/shop/files/8_f1e553cd-2e86-470f-99a4-01cb2774d897.png?v=1730137893&width=1350)](https://blackwolfnation.com/collections/hair)
-        
-        [![](//blackwolfnation.com/cdn/shop/files/6_7f4ef6d9-e02b-41b9-a03f-541374f90a2a.png?v=1730137893&width=1350)](https://blackwolfnation.com/products/wush)
-        
-        [![](//blackwolfnation.com/cdn/shop/files/7_176ed82f-4410-4471-a736-5d66c8b5d2ee.png?v=1730137893&width=1350)](https://blackwolfnation.com/collections/devices)
-        
+* [🎄 Holiday Shop 🎄](https://blackwolfnation.com/pages/2024-black-wolf-holiday-gift-guide)
 * [Subscribe + Save](https://blackwolfnation.com/pages/subscriptions)
 * [FSA/HSA Eligible](https://blackwolfnation.com/pages/fsa-hsa-eligible-black-wolf-products)
 * [Shop All](https://blackwolfnation.com/collections/shop-all)
@@ -91,6 +84,10 @@ Free Shipping Over $55 - Free Gift over $80
         * [Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
         * [Sonic Scalp Scrubber](https://blackwolfnation.com/products/sonic-scalp)
         * [Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
+    * [Bundles + Kits](https://blackwolfnation.com/collections/bundle-save)
+        * [Sonic Scrubber Bundles](https://blackwolfnation.com/collections/sonic-scrubber-gift-sets)
+        * [Sonic Scalp Bundles](https://blackwolfnation.com/collections/sonic-scalp-collection)
+        * [WUSH Bundles](https://blackwolfnation.com/collections/wush-gift-sets)
     * [Devices](https://blackwolfnation.com/collections/devices)
         * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
         * [Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
@@ -114,20 +111,7 @@ Free Shipping Over $55 - Free Gift over $80
         * [Device Hook](https://blackwolfnation.com/products/sonic-scrubber-wall-holder-hook)
         * [Body Scrubber](https://blackwolfnation.com/products/body-scrubber)
     
-* [Shop By Solution](https://blackwolfnation.com/collections)
-    
-    [![](//blackwolfnation.com/cdn/shop/files/8_f1e553cd-2e86-470f-99a4-01cb2774d897.png?v=1730137893&width=1350)](https://blackwolfnation.com/collections/hair)
-    
-    [![](//blackwolfnation.com/cdn/shop/files/6_7f4ef6d9-e02b-41b9-a03f-541374f90a2a.png?v=1730137893&width=1350)](https://blackwolfnation.com/products/wush)
-    
-    [![](//blackwolfnation.com/cdn/shop/files/7_176ed82f-4410-4471-a736-5d66c8b5d2ee.png?v=1730137893&width=1350)](https://blackwolfnation.com/collections/devices)
-    
-    * [Dry Skin](https://blackwolfnation.com/collections/black-wolf-dry-skin)
-    * [Face Acne](https://blackwolfnation.com/collections/black-wolf-face-acne)
-    * [Body Acne](https://blackwolfnation.com/collections/black-wolf-body-acne)
-    * [Flaky Scalp](https://blackwolfnation.com/collections/black-wolf-flaky-scalp)
-    * [Ear Health](https://blackwolfnation.com/collections/wush-collection)
-    
+* [🎄 Holiday Shop 🎄](https://blackwolfnation.com/pages/2024-black-wolf-holiday-gift-guide)
 * [Subscribe + Save](https://blackwolfnation.com/pages/subscriptions)
 * [FSA/HSA Eligible](https://blackwolfnation.com/pages/fsa-hsa-eligible-black-wolf-products)
 * [Shop All](https://blackwolfnation.com/collections/shop-all)
