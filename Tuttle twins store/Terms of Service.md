@@ -35,7 +35,7 @@ Shipping & taxes calculated at checkout
 
 [Free shipping on orders $70+ (USA Only)](https://tuttletwins.store/collections/all)
 
-[Guild Days Extended! Up to 50% Off Sitewide.
+[Veterans Day Sale, Get 25% OFF with Code VET25
 
 DAYS
 
@@ -49,7 +49,7 @@ MINS
 
 :
 
-SECS](https://tuttletwins.store/collections/guild)
+SECS](https://shop.angel.com/collections/veterans-day-sale-25-off-with-code-vet25)
 
     
 
