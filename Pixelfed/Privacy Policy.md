@@ -65,4 +65,4 @@ Originally adapted from the [Mastodon](https://mastodon.social/terms) privacy po
 
 [About](https://pixelfed.social/site/about) [Help](https://pixelfed.social/site/help) [Terms](https://pixelfed.social/site/terms) [Privacy](https://pixelfed.social/site/privacy) [Language](https://pixelfed.social/site/language)
 
-© 2024 pixelfed.social · [Powered by Pixelfed](https://pixelfed.org/) · v0.12.3
+© 2024 pixelfed.social · [Powered by Pixelfed](https://pixelfed.org/) · v0.12.4
