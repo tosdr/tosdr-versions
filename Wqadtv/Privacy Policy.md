@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f/20241109T001906/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f/20241109T001906/9b94108d-fd0a-4466-b2fb-b1dffcbdc69f_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-death-investigation-mount-carroll-loved-ones-respond-sheriffs-statement/526-5f82653b-655e-4a33-bc4c-177eb2949c6a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ade006-9a48-40bf-8315-6cf1f0c00b3c/c9ade006-9a48-40bf-8315-6cf1f0c00b3c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/snowmans-reindeer-farm-sweepstakes-2024/526-85cddd24-7128-4120-9e6f-e7ffe2269100)
         
-        #### [Loved ones of Jackson Kradle respond to Carroll County sheriff's statement on death investigation](https://www.wqad.com/article/news/local/jackson-kradle-death-investigation-mount-carroll-loved-ones-respond-sheriffs-statement/526-5f82653b-655e-4a33-bc4c-177eb2949c6a)
+        #### [Snowman's Reindeer Farm Sweepstakes 2024](https://www.wqad.com/article/news/local/contests/snowmans-reindeer-farm-sweepstakes-2024/526-85cddd24-7128-4120-9e6f-e7ffe2269100)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/07049239-0db1-4cfd-a036-ecf24eb4815e/20241108T235855/07049239-0db1-4cfd-a036-ecf24eb4815e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/07049239-0db1-4cfd-a036-ecf24eb4815e/20241108T235855/07049239-0db1-4cfd-a036-ecf24eb4815e_360x203.jpg)](https://www.wqad.com/article/news/local/veterans-day-wwii-veterans-honored-john-deere-headquarters/526-ab6257c3-a53d-474a-9ef6-f9bf4618ab3a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4197c0ea-0f5e-4277-aca4-ec927cb62210/20241109T040521/4197c0ea-0f5e-4277-aca4-ec927cb62210_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4197c0ea-0f5e-4277-aca4-ec927cb62210/20241109T040521/4197c0ea-0f5e-4277-aca4-ec927cb62210_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-car-washes-number/526-12883d13-88c5-4657-8597-4920f6083806)
         
-        #### [John Deere hosts Veterans Day ceremony, including honoring 2 local WWII veterans](https://www.wqad.com/article/news/local/veterans-day-wwii-veterans-honored-john-deere-headquarters/526-ab6257c3-a53d-474a-9ef6-f9bf4618ab3a)
+        #### [Why are there so many car washes in the Quad Cities?](https://www.wqad.com/article/news/local/quad-cities-car-washes-number/526-12883d13-88c5-4657-8597-4920f6083806)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-45°
+44°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
