@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Preview Warming Up to Hot Peppers** | The Key Ingredient](https://video.nhpbs.org/video/preview-warming-up-to-hot-peppers-dr7wp2?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Patsy Cline: Walkin' After Midnight Preview** | Great Performances](https://video.nhpbs.org/video/patsy-cline-walkin-after-midnight-preview-2g8tnp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**UNUM Chat: Atul Gawande** | Ken Burns UNUM](https://video.nhpbs.org/video/unum-chat-atul-gawande-xebbze?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Henry Mancini 100 at the Hollywood Bowl Preview** | Great Performances](https://video.nhpbs.org/video/henry-mancini-100-at-the-hollywood-bowl-preview-axuu8h?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Sheri Says: How to Roast Peppers** | The Key Ingredient](https://video.nhpbs.org/video/sheri-says-how-to-roast-peppers-sums9n?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 8, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-8-2024-pbs-news-hour-full-episode-1731042001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Perception Gap** | The State We're In](https://video.nhpbs.org/video/the-perception-gap-rzkdst?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Jon Meacham** | Firing Line](https://video.nhpbs.org/video/jon-meacham-srg8g5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**See more of Peter Shire's art** | Craft in America](https://video.nhpbs.org/video/see-more-of-peter-shires-art-k4vbk0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**House control in question as races remain too close to call** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-congress-1731016412?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 7, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-7-2024-ybezrd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Capturing San Diego: America's Wildest City** | Nature](https://video.nhpbs.org/video/capturing-san-diego-americas-wildest-city?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Here** | Flicks](https://video.nhpbs.org/video/here-miplia?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview** | Elemental: Reimagine Wildfire](https://video.nhpbs.org/video/preview-cze224?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [| Peleliu: WWII's Most Well-Preserved Battlefield](https://video.nhpbs.org/video/peleliu-wwiis-most-well-preserved-battlefield-FtOnpL?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**I Made Kidney Stones So I Could Destroy Them Forever** | Reactions](https://video.nhpbs.org/video/i-made-kidney-stones-so-i-could-destroy-them-forever-bmlbfl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
