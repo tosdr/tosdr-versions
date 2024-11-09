@@ -1,56 +1,44 @@
 [Skip to main content](#main-content)
 
-Close modal
+[EN](https://info.badgr.com/)
 
 ### Select your location
 
-* ### Americas
-    
-    * [North America](https://info.badgr.com/)
+* * [English: NA](https://info.badgr.com/)
         
         English
         
-    * [Brazil](https://info.badgr.com/pt-br)
-        
-        Português
-        
-    * [Latin America](https://info.badgr.com/es)
+    * [Español](https://info.badgr.com/es)
         
         Español
         
-    
-* ### Asia Pacific
-    
-    * [Australia](https://info.badgr.com/en-au)
+    * [English: AU](https://info.badgr.com/en-au)
         
         English
         
-    
-* ### Europe
-    
-    * [Germany](https://info.badgr.com/de)
-        
-        Deutsch
-        
-    * [Spain](https://info.badgr.com/es-es)
-        
-        Español
-        
-    * [United Kingdom](https://info.badgr.com/en-gb)
-        
-        English
-        
-    * [Benelux](https://info.badgr.com/nl)
-        
-        Dutch
-        
-    * [Italy](https://info.badgr.com/it)
+    * [Italiano](https://info.badgr.com/it)
         
         Italiano
         
+    * [English: UK](https://info.badgr.com/en-gb)
+        
+        English
+        
+    * [Nederlands](https://info.badgr.com/nl)
+        
+        Dutch
+        
+    * [Deutsch](https://info.badgr.com/de)
+        
+        Deutsch
+        
+    * [Português](https://info.badgr.com/pt-br)
+        
+        Português
+        
     
 
-[North America](https://info.badgr.com/)
+Close modal
 
 Reset language preference
 
@@ -59,7 +47,6 @@ Clear redirect preference
 Utility
 -------
 
-* [Try Canvas Free](https://info.badgr.com/try-canvas)
 * [Support](https://info.badgr.com/support/canvas-support-faq)
 * [Contact Us](https://info.badgr.com/contact-us)
 * [Log In](https://info.badgr.com/)
@@ -69,576 +56,371 @@ Utility
     * [Mastery Connect](https://app.masteryconnect.com/login)
     * [Elevate Data Sync](https://identity.us2.kimonocloud.com/login)
     * [LearnPlatform by Instructure](https://app.learnplatform.com/users/sign_in)
+* [Try Canvas Free](https://info.badgr.com/try-canvas)
 
 [![Home](/themes/custom/themekit/logo.svg)](https://info.badgr.com/)
 
 Main
 ----
 
-* K-12
-    * [K-12 SOLUTIONS](https://info.badgr.com/k12)
+* [K-12](#)
+    * K-12 Products
         
-        * Column
-            * [Canvas](https://info.badgr.com/k12/products/canvas)
-                
-                ![](/sites/default/files/svg/2022-03/Canvas_Bug_Square.svg)
-                
-                The hub of your digital classroom that serves as the foundation for teaching and learning.
-                
-            * [Canvas LMS](https://info.badgr.com/k12/products/canvas/canvas-lms)
-            * [Canvas Studio](https://info.badgr.com/k12/products/canvas/canvas-studio)
-            * [Canvas Catalog](https://info.badgr.com/k12/products/canvas/canvas-catalog)
-            * [Canvas Credentials](https://info.badgr.com/k12/products/canvas/canvas-credentials)
-            * [Try Canvas Free](https://info.badgr.com/try-canvas)
-        * Column
-            * [Mastery](https://info.badgr.com/k12/products/mastery)
-                
-                ![](/sites/default/files/svg/2022-03/Mastery_Bug_Square_0.svg)
-                
-                The assessment tools and quality content educators need to accelerate learning forward.
-                
-            * [Mastery Connect](https://info.badgr.com/k12/products/mastery/mastery-connect)
-            * [Mastery Item Bank](https://info.badgr.com/k12/products/mastery/mastery-item-bank)
-            * [Mastery View Formative Assessments](https://info.badgr.com/k12/products/mastery/mastery-view-formative-assessments)
-            * [Mastery View Predictive Assessments](https://info.badgr.com/k12/products/mastery/mastery-view-predictive-assessments)
-        * Column
-            * [Impact](https://info.badgr.com/k12/products/impact)
-                
-                ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
-                
-                The data-driven support and communication solution that improves edtech adoption.
-                
-            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
-                
-                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
-                
-                The actionable insights educators need to make  
-                data-informed decisions.
-                
-        * Column
-            * [LearnPlatform by Instructure](https://info.badgr.com/k12/products/learnplatform)
-                
-                ![LearnPlatform Bug Web Square](/sites/default/files/image/2023-06/LearnPlatform_Bug_Web_Square.png)
-                
-                Improves student outcomes by building an equitable and effective edtech ecosystem based on evidence.
-                
-            * [Services](https://info.badgr.com/services)
-            * [Leadership Development](https://info.badgr.com/leadership-development)
-            * [All Products](https://info.badgr.com/products)
+        *     [![Canvas bug logo](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
+            
+            Canvas](#canvas--58669)
+        *     [![Mastery Logo Bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
+            
+            Mastery](#mastery-58669)
+        *     [![Impact Logo bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
+            
+            Impact](#impact-58669)
+        *     [![LearnPlatform Logo bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
+            
+            Learn Platform](#learn-platform-58669)
+        *     [![Instructure Logo bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
+            
+            Intelligent Insights](#intelligent-insights-58669)
         
-    * Column
-        * Solutions by Need
-            * [Learning Management](https://info.badgr.com/k12/solutions/learning-management)
-            * [Assessment](https://info.badgr.com/k12/solutions/assessment-tools)
-            * [Content](https://info.badgr.com/k12/solutions/assessment-content)
-            * [Online Programs](https://info.badgr.com/k12/solutions/online-programs)
-            * [Analytics](https://info.badgr.com/k12/solutions/analytics)
-            * [EdTech Effectiveness](https://info.badgr.com/k12/products/learnplatform)
-            * [Professional Development](https://info.badgr.com/k12/solutions/professional-development)
-            * [Integrations With Partner Tools](https://info.badgr.com/k12/solutions/integrations-other-tools)
-        * Solutions by Role
-            * [For Administrators](https://info.badgr.com/k12/solutions/administrators)
-            * [For IT/Technologists](https://info.badgr.com/k12/solutions/it-technologists)
-            * [For Educators](https://info.badgr.com/k12/solutions/educators)
-            * [For EdTech Providers](https://info.badgr.com/partners/evidence-as-a-service)
-            * [For Students & Parents](https://info.badgr.com/k12/solutions/students-families)
-* Higher ED
-    * [HIGHER EDUCATION SOLUTIONS](https://info.badgr.com/higher-education)
+        K-12 Products
         
-        * Column
-            * [Canvas](https://info.badgr.com/higher-education/products/canvas)
-                
-                ![](/sites/default/files/svg/2022-03/Canvas_Bug_Square.svg)
-                
-                Modern tools that elevate the higher ed experience whether virtual, hybrid, or in-person.
-                
-            * [Canvas LMS](https://info.badgr.com/higher-education/products/canvas/canvas-lms)
-            * [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
-            * [Canvas Catalog](https://info.badgr.com/higher-education/products/canvas/canvas-catalog)
-            * [Canvas Credentials](https://info.badgr.com/higher-education/products/canvas/canvas-credentials)
-            * [Canvas Student Pathways](https://info.badgr.com/higher-education/products/canvas/canvas-student-pathways)
-            * [TRY CANVAS FREE](https://info.badgr.com/try-canvas)
-        * Column
-            * [Impact](https://info.badgr.com/higher-education/products/impact)
-                
-                ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
-                
-                Data-driven support and communication solution to maximize the use of campus technology.
-                
-            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
-                
-                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
-                
-                The actionable insights educators need to make  
-                data-informed decisions.
-                
-            * [Services](https://info.badgr.com/services)
-                
-                We offer rollout plans, product training, content development, and more.
-                
-            * [All Products](https://info.badgr.com/products)
+        Details
         
-    * Column
-        * Solutions by Need
-            * [Learning Management](https://info.badgr.com/higher-education/solutions/learning-management)
-            * [Student Engagement & Success](https://info.badgr.com/higher-education/solutions/student-engagement-success)
-            * [New Traditional Programs](https://info.badgr.com/higher-education/solutions/new-traditional-programs)
-            * [Lifelong Learning](https://info.badgr.com/higher-education/solutions/lifelong-learning)
-            * [Competency Based Education](https://info.badgr.com/higher-education/solutions/competency-based-education)
-            * [Content](https://info.badgr.com/higher-education/solutions/instructional-content)
-            * [Analytics](https://info.badgr.com/higher-education/solutions/data-analytics)
-            * [Integrations With Partner Tools](https://info.badgr.com/higher-education/solutions/integrations-other-tools)
-        * Solutions by Role
-            * [For Administrators](https://info.badgr.com/higher-education/solutions/administrators)
-            * [For IT/Technologists](https://info.badgr.com/higher-education/solutions/it-technologists)
-            * [For Educators](https://info.badgr.com/higher-education/solutions/educators)
-* Professional ED
-    * [PROFESSIONAL EDUCATION SOLUTIONS](https://info.badgr.com/professional-education)
+        ![Canvas Logo](/sites/default/files/image/2023-07/Canvas_Horizontal_ByInstructure_Color_RGB.png)
         
-        * Column
-            * [Canvas](https://info.badgr.com/professional-education)
-                
-                ![](/sites/default/files/svg/2022-03/Canvas_Bug_Square.svg)
-                
-                Modern tools that elevate the learning experience, whether virtual, hybrid, or in-person.
-                
-            * [TRY CANVAS FREE](https://info.badgr.com/try-canvas)
-            * [Vocational](https://info.badgr.com/vocational)
-                
-                Deliver hands-on vocational training, blending theory with practical simulations for excellence.
-                
-            * [Government](https://info.badgr.com/government)
-                
-                Enhance government training with tools for upskilling, cross-training, and performance improvement.
-                
-        * Column
-            * [Impact](https://info.badgr.com/professional-education/products/impact)
-                
-                ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
-                
-                Data-driven support and communication solution to maximize the use of your edtech.
-                
-            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
-                
-                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
-                
-                The actionable insights needed to make data-informed decisions.
-                
-            * [Services](https://info.badgr.com/services)
-                
-                We offer rollout plans, product training, content development, and more.
-                
-            * [All Products](https://info.badgr.com/products)
+        Simplify teaching and learning activities, organize coursework, and keep teachers, students, and families connected and communicating—all in one place.
         
-    * Column
-        *   ![Supporting One of the World’s Largest Sports Organizations with Canvas LMS](/sites/default/files/styles/small_hq/public/image/2024-10/matthew-mcbrayer-pga-unsplash.png?itok=9EWiK67M)
+        [Canvas LMS](https://info.badgr.com/k12/products/canvas/canvas-lms)
+        
+        [Canvas Catalog](https://info.badgr.com/k12/products/canvas/canvas-catalog)
+        
+        [Canvas Studio](https://info.badgr.com/k12/products/canvas/canvas-studio)
+        
+        [Canvas Credentials](https://info.badgr.com/k12/products/canvas/canvas-credentials)
+        
+        K-12 Products
+        
+        Details
+        
+        ![Mastery logo horizontal](/sites/default/files/image/2021-12/Mastery_Horizontal_ByInstructure_Color_RGB.png)
+        
+        Drive learning outcomes with high-quality assessments and actionable insights that inform and improve teaching and learning.
+        
+        [Mastery Connect](https://info.badgr.com/k12/products/mastery/mastery-connect)
+        
+        [Master Item Bank](https://info.badgr.com/k12/products/mastery/mastery-item-bank)
+        
+        [Mastery View Formative Assessment](https://info.badgr.com/k12/products/mastery/mastery-view-formative-assessments)
+        
+        [Mastery Predictive Assessment](https://info.badgr.com/k12/products/mastery/mastery-view-predictive-assessments)
+        
+        K-12 Products
+        
+        Details
+        
+        ![Impact logo horizontal](/sites/default/files/image/2021-12/Impact_Horizontal_ByInstructure_Color_RGB.png)
+        
+        Maximize edtech usage with data-backed support and communication tools that help educators unlock the full potential of their tech.
+        
+        [Impact](https://info.badgr.com/k12/products/impact)
+        
+        K-12 Products
+        
+        Details
+        
+        ![LearnPlatform By Instructure - Dark Logo](/sites/default/files/image/2023-06/LearnPlatform_ByInstructure_Lockup_Dark.png)
+        
+        Make evidence-based decisions about edtech investments to ensure their safety, cost-effectiveness, compliance and efficacy.
+        
+        [Learn Platform](https://info.badgr.com/k12/products/learnplatform)
+        
+        K-12 Products
+        
+        Details
+        
+        ![Intelligent Insights Horizontal Logo](/sites/default/files/image/2024-11/intelligent-insights-logo-rgb-color.png)
+        
+        Unlock the full potential of your data with AI-powered insights that reveal what's working, what's not, and where you need to focus your efforts.
+        
+        [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+        
+        [Services](https://info.badgr.com/services)
+        
+        [Leadership Development](https://info.badgr.com/leadership-development)
+        
+    * Featured Resource
+        
+          [![blue logo for kenton unified school district with a pic of a classroom learning on chromebooks](/sites/default/files/styles/small_hq/public/image/2024-09/kenton_thumbnail.png?itok=czoWQJ90)
+        
+        Case Study
+        
+        #### 
+        
+        Kenmore - Town of Tonawanda: Fulfilling The Need for a True LMS](https://info.badgr.com/resources/case-studies/kenmore-town-tonawanda-fulfilling-need-true-learning-platform)
+        
+* [Higher ED](#)
+    * Higher Education Solutions
+        
+        *     [![Canvas bug logo](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
             
-            Case Study
+            Canvas](#canvas-58696)
+        *     [![Impact Logo bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
             
-            #### 
+            Impact](#impact-58696)
+        *     [![Instructure Logo bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
             
-            Supporting One of the Largest Sports Organizations with Canvas LMS
+            Intelligent Insights](#intelligent-insights-58696)
+        
+        Higher Education Solutions
+        
+        Details
+        
+        ![Canvas Logo](/sites/default/files/image/2023-07/Canvas_Horizontal_ByInstructure_Color_RGB.png)
+        
+        Empower learning with a centralized hub that keeps students and faculty connected, engaged, and supported—all in one easy-to-use platform.
+        
+        [Canvas LMS](https://info.badgr.com/higher-education/products/canvas/canvas-lms)
+        
+        [Canvas Catalog](https://info.badgr.com/higher-education/products/canvas/canvas-catalog)
+        
+        [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
+        
+        [Canvas Credentials](https://info.badgr.com/higher-education/products/canvas/canvas-credentials/request-demo)
+        
+        Higher Education Solutions
+        
+        Details
+        
+        ![Impact logo horizontal](/sites/default/files/image/2021-12/Impact_Horizontal_ByInstructure_Color_RGB.png)
+        
+        Maximize edtech usage with data-backed support and communication tools that help educators unlock the full potential of their tech.
+        
+        [Impact](https://info.badgr.com/higher-education/products/impact)
+        
+        Higher Education Solutions
+        
+        Details
+        
+        ![Intelligent Insights Horizontal Logo](/sites/default/files/image/2024-11/intelligent-insights-logo-rgb-color.png)
+        
+        AI-powered insights that turn data into action, making it easy for administrators to drive better student and campus outcomes.
+        
+        [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+        
+        [Services](https://info.badgr.com/services)
+        
+    * Featured Resource
+        
+          [![Intelligent Insights by Instructure](/sites/default/files/styles/small_hq/public/image/2024-07/2024_Intelligent-Insights-Web-Video-Thumbnail.png?itok=-0UXtKoI)
+        
+        Intelligent Insights
+        
+        #### 
+        
+        Data-Informed Decision-Making at Scale](https://info.badgr.com/resources/videos/intelligent-insights-data-informed-decision-making-scale)
+        
+* [Professional ED](#)
+    * Professional Ed Solutions
+        
+        *     [![Canvas bug logo](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
             
-            [READ MORE](https://info.badgr.com/resources/case-studies/pga-america-supporting-one-of-the-worlds-largest-sports-organizations-canvas-lms)
+            Canvas](#canvas-58707)
+        *     [![Impact Logo bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
             
-* Resources
-    * Column
-        * Centers
-            * [The Study Hall](https://info.badgr.com/resources)
-                
-                Articles, videos, stories, and news about our products, edtech, and education.
-                
-            * [Our Community](https://info.badgr.com/community)
-                
-                Share ideas, ask and answer questions, access guides, and connect with peers.
-                
-            * [Canvas Network](https://www.canvas.net/)
-                
-                Modify and use online courses from educators and institutions worldwide.
-                
-            * [Integrations](https://community.canvaslms.com/t5/Partners/ct-p/partners)
-                
-                See how we integrate with your SIS, custom apps, and hundreds of external edu apps.
-                
-    * Column
-        * By Type
-            * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
-            * [Blogs](https://info.badgr.com/resources/blog)
-            * [Case Studies](https://info.badgr.com/resources/case-studies)
-            * [Ebooks & Buyer’s Guides](https://info.badgr.com/resources/ebooks)
-            * [Infographics](https://info.badgr.com/resources/infographic)
-            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
-            * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
-            * [Research](https://info.badgr.com/resources/research)
-            * [Videos](https://info.badgr.com/resources/videos)
-            * [All Resources](https://info.badgr.com/resources)
-    * Column
-        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
+            Impact](#impact-58707)
+        *     [![Instructure Logo bug](https://www.instructure.com/sites/default/files/image/2021-06/Clear.gif)
             
-            Lifelong Learning Report:
-            
-            #### 
-            
-            Trends and Insights from K-12 to Career
-            
-            [Read the Report](https://info.badgr.com/research/lifelong-learning)
-            
-* News & Events
-    * Column
-        * Events
-            * [Upcoming Events](https://info.badgr.com/events)
-            * [InstructureCon 2025](https://info.badgr.com/instructurecon/spokane)
-            * [InstructureCon 2024](https://info.badgr.com/resources/instructurecon-2024)
-            * [Webinars](https://info.badgr.com/resources/webinars)
-        * News
-            * [Latest News](https://info.badgr.com/news)
-            * [Media Resources](https://info.badgr.com/about/brand-guide/media-resources)
-            * [Brand Guide](https://info.badgr.com/brand-guide)
-            * [Press Releases](https://info.badgr.com/news/public-relations)
-    * Column
-        *   ![](/sites/default/files/styles/small_hq/public/image/2024-03/2024-InstructureCon-Web-Images_Thumbnail%20%281%29.jpg?itok=jIC3xpfy "2024-InstructureCon-Web-Images_Thumbnail (1).jpg")
-            
-            #### 
-            
-            Check out the highlights from InstructureCon 24.
-            
-            [Explore More](https://info.badgr.com/resources/instructurecon-2024)
-            
-* About Us
-    * Column
-        * The Company
-            * [About Us](https://info.badgr.com/about)
-            * [Our Story](https://info.badgr.com/about/our-story)
-            * [Leadership](https://info.badgr.com/about/leadership)
-            * [Careers](https://info.badgr.com/about/careers)
-            * [Investor Relations](https://ir.instructure.com/)
-            * [Canvas Overview](https://info.badgr.com/canvas)
-            * [AI Principles](https://info.badgr.com/about/ai-guiding-principles)
-            * [Contact Us](https://info.badgr.com/contact-us)
-        * We Value
-            * [Privacy](https://info.badgr.com/privacy-security)
-            * [Security](https://info.badgr.com/trust-center)
-            * [Accessibility](https://info.badgr.com/accessibility)
-            * [ESG Report](https://info.badgr.com/about/esg-report)
-    * Column
-        * The EdTech Collective
-            * [Our Partner Ecosystem](https://info.badgr.com/partners/our-partners)
-            * [Become an EdCo Partner](https://info.badgr.com/partners)
-            * [Channel Partners](https://info.badgr.com/partners/channel-partners)
-            * [Evidence as a Service](https://info.badgr.com/partners/evidence-as-a-service)
+            Intelligent Insights](#intelligent-insights-58707)
+        
+        Professional Ed Solutions
+        
+        Details
+        
+        ![Canvas logo horizontal](/sites/default/files/image/2021-12/Canvas_Horizontal_ByInstructure_Color_RGB.png)
+        
+        Streamline learning and development with a flexible, user-friendly platform that supports growth, enhances engagement, and drives impactful results.
+        
+        [Canvas LMS](https://info.badgr.com/professional-education)
+        
+        Professional Ed Solutions
+        
+        Details
+        
+        ![Impact logo horizontal](/sites/default/files/image/2021-12/Impact_Horizontal_ByInstructure_Color_RGB.png)
+        
+        Optimize edtech usage with data-driven insights and seamless communication tools to boost engagement and drive measurable success.
+        
+        [Impact](https://info.badgr.com/professional-education/products/impact)
+        
+        Professional Ed Solutions
+        
+        Details
+        
+        ![Intelligent Insights Horizontal Logo](/sites/default/files/image/2024-11/intelligent-insights-logo-rgb-color.png)
+        
+        Maximize the potential of your learning data with AI-powered insights that improve outcomes and enable data-driven decision-making at scale.
+        
+        [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+        
+        [Vocational](https://info.badgr.com/vocational)
+        
+        [Government](https://info.badgr.com/government)
+        
+        [Services](https://info.badgr.com/services)
+        
+    * Featured Customer Story
+        
+          [![Supporting One of the World’s Largest Sports Organizations with Canvas LMS](/sites/default/files/styles/small_hq/public/image/2024-10/matthew-mcbrayer-pga-unsplash.png?itok=9EWiK67M)
+        
+        Case Study
+        
+        #### 
+        
+        Supporting One of the Largest Sports Organizations with Canvas LMS](https://info.badgr.com/resources/case-studies/pga-america-supporting-one-of-the-worlds-largest-sports-organizations-canvas-lms)
+        
+* [Resources](#)
+    * Centers
+        
+        [The Study Hall](https://info.badgr.com/resources)
+        
+        [Our Community](https://info.badgr.com/community)
+        
+        [Canvas Network](https://www.canvas.net/)
+        
+        [Integrations](https://community.canvaslms.com/t5/Partners/ct-p/partners)
+        
+        By Type
+        
+        [Blogs](https://info.badgr.com/resources/blog)
+        
+        [Case Studies](https://info.badgr.com/resources/case-studies)
+        
+        [Ebooks & Buyer Guides](https://info.badgr.com/resources/ebooks)
+        
+        [Research](https://info.badgr.com/resources/research)
+        
+        [Videos](https://info.badgr.com/resources/videos)
+        
+        [Infrographics](https://info.badgr.com/resources/infographic)
+        
+        [On-Demand Webinars](https://info.badgr.com/resources/webinars)
+        
+        [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
+        
+    * Featured Resource
+        
+          [![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
+        
+        Lifelong Learning Report
+        
+        #### 
+        
+        Trends and Insights from K-12 to Career](https://info.badgr.com/research/lifelong-learning)
+        
+* [News & Events](#)
+    * News
+        
+        [Latest News](https://info.badgr.com/news)
+        
+        [Media Resources](https://info.badgr.com/about/brand-guide/media-resources)
+        
+        [Brand Guide](https://info.badgr.com/about/brand-guide)
+        
+        [Press Releases](https://info.badgr.com/news/public-relations)
+        
+        Events
+        
+        [Upcoming Events](https://info.badgr.com/events)
+        
+        [InstructureCon 2025](https://info.badgr.com/instructurecon/spokane)
+        
+        [InstructureCon 2024](https://info.badgr.com/resources/instructurecon-2024)
+        
+        [Webinars](https://info.badgr.com/resources/webinars)
+        
+* [About Us](#)
+    * The Company
+        
+        [About Us](https://info.badgr.com/about)
+        
+        [Our Story](https://info.badgr.com/about/our-story)
+        
+        [Leadership](https://info.badgr.com/about/leadership)
+        
+        [Careers](https://info.badgr.com/about/leadership)
+        
+        [Investor Relations](https://ir.instructure.com/overview/default.aspx)
+        
+        [Canvas Overview](https://info.badgr.com/canvas)
+        
+        [AI Principles](https://info.badgr.com/about/ai-guiding-principles)
+        
+        [Contact Us](https://info.badgr.com/contact-us)
+        
+        We Value
+        
+        [Privacy](https://info.badgr.com/privacy-security)
+        
+        [Security](https://info.badgr.com/trust-center)
+        
+        [Accessibility](https://info.badgr.com/accessibility)
+        
+        [ESG Report](https://info.badgr.com/about/esg-report)
+        
+        The Edtech Collective
+        
+        [Our Partner Ecosystem](https://info.badgr.com/partners/our-partners)
+        
+        [Become an Edtech Partner](https://info.badgr.com/partners)
+        
+        [Channel Partners](https://info.badgr.com/partners/channel-partners)
+        
+        [Evidence as a Service](https://info.badgr.com/partners/evidence-as-a-service)
+        
 
 [Get a Demo](https://info.badgr.com/request-demo)
 
 0
 
-Menu
-
-Main
-----
-
-* K-12
-    * [K-12 SOLUTIONS](https://info.badgr.com/k12)
-        
-        * Column
-            * [Canvas](https://info.badgr.com/k12/products/canvas)
-                
-                ![](/sites/default/files/svg/2022-03/Canvas_Bug_Square.svg)
-                
-                The hub of your digital classroom that serves as the foundation for teaching and learning.
-                
-            * [Canvas LMS](https://info.badgr.com/k12/products/canvas/canvas-lms)
-            * [Canvas Studio](https://info.badgr.com/k12/products/canvas/canvas-studio)
-            * [Canvas Catalog](https://info.badgr.com/k12/products/canvas/canvas-catalog)
-            * [Canvas Credentials](https://info.badgr.com/k12/products/canvas/canvas-credentials)
-            * [Try Canvas Free](https://info.badgr.com/try-canvas)
-        * Column
-            * [Mastery](https://info.badgr.com/k12/products/mastery)
-                
-                ![](/sites/default/files/svg/2022-03/Mastery_Bug_Square_0.svg)
-                
-                The assessment tools and quality content educators need to accelerate learning forward.
-                
-            * [Mastery Connect](https://info.badgr.com/k12/products/mastery/mastery-connect)
-            * [Mastery Item Bank](https://info.badgr.com/k12/products/mastery/mastery-item-bank)
-            * [Mastery View Formative Assessments](https://info.badgr.com/k12/products/mastery/mastery-view-formative-assessments)
-            * [Mastery View Predictive Assessments](https://info.badgr.com/k12/products/mastery/mastery-view-predictive-assessments)
-        * Column
-            * [Impact](https://info.badgr.com/k12/products/impact)
-                
-                ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
-                
-                The data-driven support and communication solution that improves edtech adoption.
-                
-            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
-                
-                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
-                
-                The actionable insights educators need to make  
-                data-informed decisions.
-                
-        * Column
-            * [LearnPlatform by Instructure](https://info.badgr.com/k12/products/learnplatform)
-                
-                ![LearnPlatform Bug Web Square](/sites/default/files/image/2023-06/LearnPlatform_Bug_Web_Square.png)
-                
-                Improves student outcomes by building an equitable and effective edtech ecosystem based on evidence.
-                
-            * [Services](https://info.badgr.com/services)
-            * [Leadership Development](https://info.badgr.com/leadership-development)
-            * [All Products](https://info.badgr.com/products)
-        
-    * Column
-        * Solutions by Need
-            * [Learning Management](https://info.badgr.com/k12/solutions/learning-management)
-            * [Assessment](https://info.badgr.com/k12/solutions/assessment-tools)
-            * [Content](https://info.badgr.com/k12/solutions/assessment-content)
-            * [Online Programs](https://info.badgr.com/k12/solutions/online-programs)
-            * [Analytics](https://info.badgr.com/k12/solutions/analytics)
-            * [EdTech Effectiveness](https://info.badgr.com/k12/products/learnplatform)
-            * [Professional Development](https://info.badgr.com/k12/solutions/professional-development)
-            * [Integrations With Partner Tools](https://info.badgr.com/k12/solutions/integrations-other-tools)
-        * Solutions by Role
-            * [For Administrators](https://info.badgr.com/k12/solutions/administrators)
-            * [For IT/Technologists](https://info.badgr.com/k12/solutions/it-technologists)
-            * [For Educators](https://info.badgr.com/k12/solutions/educators)
-            * [For EdTech Providers](https://info.badgr.com/partners/evidence-as-a-service)
-            * [For Students & Parents](https://info.badgr.com/k12/solutions/students-families)
-* Higher ED
-    * [HIGHER EDUCATION SOLUTIONS](https://info.badgr.com/higher-education)
-        
-        * Column
-            * [Canvas](https://info.badgr.com/higher-education/products/canvas)
-                
-                ![](/sites/default/files/svg/2022-03/Canvas_Bug_Square.svg)
-                
-                Modern tools that elevate the higher ed experience whether virtual, hybrid, or in-person.
-                
-            * [Canvas LMS](https://info.badgr.com/higher-education/products/canvas/canvas-lms)
-            * [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
-            * [Canvas Catalog](https://info.badgr.com/higher-education/products/canvas/canvas-catalog)
-            * [Canvas Credentials](https://info.badgr.com/higher-education/products/canvas/canvas-credentials)
-            * [Canvas Student Pathways](https://info.badgr.com/higher-education/products/canvas/canvas-student-pathways)
-            * [TRY CANVAS FREE](https://info.badgr.com/try-canvas)
-        * Column
-            * [Impact](https://info.badgr.com/higher-education/products/impact)
-                
-                ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
-                
-                Data-driven support and communication solution to maximize the use of campus technology.
-                
-            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
-                
-                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
-                
-                The actionable insights educators need to make  
-                data-informed decisions.
-                
-            * [Services](https://info.badgr.com/services)
-                
-                We offer rollout plans, product training, content development, and more.
-                
-            * [All Products](https://info.badgr.com/products)
-        
-    * Column
-        * Solutions by Need
-            * [Learning Management](https://info.badgr.com/higher-education/solutions/learning-management)
-            * [Student Engagement & Success](https://info.badgr.com/higher-education/solutions/student-engagement-success)
-            * [New Traditional Programs](https://info.badgr.com/higher-education/solutions/new-traditional-programs)
-            * [Lifelong Learning](https://info.badgr.com/higher-education/solutions/lifelong-learning)
-            * [Competency Based Education](https://info.badgr.com/higher-education/solutions/competency-based-education)
-            * [Content](https://info.badgr.com/higher-education/solutions/instructional-content)
-            * [Analytics](https://info.badgr.com/higher-education/solutions/data-analytics)
-            * [Integrations With Partner Tools](https://info.badgr.com/higher-education/solutions/integrations-other-tools)
-        * Solutions by Role
-            * [For Administrators](https://info.badgr.com/higher-education/solutions/administrators)
-            * [For IT/Technologists](https://info.badgr.com/higher-education/solutions/it-technologists)
-            * [For Educators](https://info.badgr.com/higher-education/solutions/educators)
-* Professional ED
-    * [PROFESSIONAL EDUCATION SOLUTIONS](https://info.badgr.com/professional-education)
-        
-        * Column
-            * [Canvas](https://info.badgr.com/professional-education)
-                
-                ![](/sites/default/files/svg/2022-03/Canvas_Bug_Square.svg)
-                
-                Modern tools that elevate the learning experience, whether virtual, hybrid, or in-person.
-                
-            * [TRY CANVAS FREE](https://info.badgr.com/try-canvas)
-            * [Vocational](https://info.badgr.com/vocational)
-                
-                Deliver hands-on vocational training, blending theory with practical simulations for excellence.
-                
-            * [Government](https://info.badgr.com/government)
-                
-                Enhance government training with tools for upskilling, cross-training, and performance improvement.
-                
-        * Column
-            * [Impact](https://info.badgr.com/professional-education/products/impact)
-                
-                ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
-                
-                Data-driven support and communication solution to maximize the use of your edtech.
-                
-            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
-                
-                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
-                
-                The actionable insights needed to make data-informed decisions.
-                
-            * [Services](https://info.badgr.com/services)
-                
-                We offer rollout plans, product training, content development, and more.
-                
-            * [All Products](https://info.badgr.com/products)
-        
-    * Column
-        *   ![Supporting One of the World’s Largest Sports Organizations with Canvas LMS](/sites/default/files/styles/small_hq/public/image/2024-10/matthew-mcbrayer-pga-unsplash.png?itok=9EWiK67M)
-            
-            Case Study
-            
-            #### 
-            
-            Supporting One of the Largest Sports Organizations with Canvas LMS
-            
-            [READ MORE](https://info.badgr.com/resources/case-studies/pga-america-supporting-one-of-the-worlds-largest-sports-organizations-canvas-lms)
-            
-* Resources
-    * Column
-        * Centers
-            * [The Study Hall](https://info.badgr.com/resources)
-                
-                Articles, videos, stories, and news about our products, edtech, and education.
-                
-            * [Our Community](https://info.badgr.com/community)
-                
-                Share ideas, ask and answer questions, access guides, and connect with peers.
-                
-            * [Canvas Network](https://www.canvas.net/)
-                
-                Modify and use online courses from educators and institutions worldwide.
-                
-            * [Integrations](https://community.canvaslms.com/t5/Partners/ct-p/partners)
-                
-                See how we integrate with your SIS, custom apps, and hundreds of external edu apps.
-                
-    * Column
-        * By Type
-            * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
-            * [Blogs](https://info.badgr.com/resources/blog)
-            * [Case Studies](https://info.badgr.com/resources/case-studies)
-            * [Ebooks & Buyer’s Guides](https://info.badgr.com/resources/ebooks)
-            * [Infographics](https://info.badgr.com/resources/infographic)
-            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
-            * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
-            * [Research](https://info.badgr.com/resources/research)
-            * [Videos](https://info.badgr.com/resources/videos)
-            * [All Resources](https://info.badgr.com/resources)
-    * Column
-        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
-            
-            Lifelong Learning Report:
-            
-            #### 
-            
-            Trends and Insights from K-12 to Career
-            
-            [Read the Report](https://info.badgr.com/research/lifelong-learning)
-            
-* News & Events
-    * Column
-        * Events
-            * [Upcoming Events](https://info.badgr.com/events)
-            * [InstructureCon 2025](https://info.badgr.com/instructurecon/spokane)
-            * [InstructureCon 2024](https://info.badgr.com/resources/instructurecon-2024)
-            * [Webinars](https://info.badgr.com/resources/webinars)
-        * News
-            * [Latest News](https://info.badgr.com/news)
-            * [Media Resources](https://info.badgr.com/about/brand-guide/media-resources)
-            * [Brand Guide](https://info.badgr.com/brand-guide)
-            * [Press Releases](https://info.badgr.com/news/public-relations)
-    * Column
-        *   ![](/sites/default/files/styles/small_hq/public/image/2024-03/2024-InstructureCon-Web-Images_Thumbnail%20%281%29.jpg?itok=jIC3xpfy "2024-InstructureCon-Web-Images_Thumbnail (1).jpg")
-            
-            #### 
-            
-            Check out the highlights from InstructureCon 24.
-            
-            [Explore More](https://info.badgr.com/resources/instructurecon-2024)
-            
-* About Us
-    * Column
-        * The Company
-            * [About Us](https://info.badgr.com/about)
-            * [Our Story](https://info.badgr.com/about/our-story)
-            * [Leadership](https://info.badgr.com/about/leadership)
-            * [Careers](https://info.badgr.com/about/careers)
-            * [Investor Relations](https://ir.instructure.com/)
-            * [Canvas Overview](https://info.badgr.com/canvas)
-            * [AI Principles](https://info.badgr.com/about/ai-guiding-principles)
-            * [Contact Us](https://info.badgr.com/contact-us)
-        * We Value
-            * [Privacy](https://info.badgr.com/privacy-security)
-            * [Security](https://info.badgr.com/trust-center)
-            * [Accessibility](https://info.badgr.com/accessibility)
-            * [ESG Report](https://info.badgr.com/about/esg-report)
-    * Column
-        * The EdTech Collective
-            * [Our Partner Ecosystem](https://info.badgr.com/partners/our-partners)
-            * [Become an EdCo Partner](https://info.badgr.com/partners)
-            * [Channel Partners](https://info.badgr.com/partners/channel-partners)
-            * [Evidence as a Service](https://info.badgr.com/partners/evidence-as-a-service)
-
-Close modal
+[EN](https://info.badgr.com/)
 
 ### Select your location
 
-* ### Americas
-    
-    * [North America](https://info.badgr.com/)
+* * [English: NA](https://info.badgr.com/)
         
         English
         
-    * [Brazil](https://info.badgr.com/pt-br)
-        
-        Português
-        
-    * [Latin America](https://info.badgr.com/es)
+    * [Español](https://info.badgr.com/es)
         
         Español
         
-    
-* ### Asia Pacific
-    
-    * [Australia](https://info.badgr.com/en-au)
+    * [English: AU](https://info.badgr.com/en-au)
         
         English
         
-    
-* ### Europe
-    
-    * [Germany](https://info.badgr.com/de)
-        
-        Deutsch
-        
-    * [Spain](https://info.badgr.com/es-es)
-        
-        Español
-        
-    * [United Kingdom](https://info.badgr.com/en-gb)
-        
-        English
-        
-    * [Benelux](https://info.badgr.com/nl)
-        
-        Dutch
-        
-    * [Italy](https://info.badgr.com/it)
+    * [Italiano](https://info.badgr.com/it)
         
         Italiano
         
+    * [English: UK](https://info.badgr.com/en-gb)
+        
+        English
+        
+    * [Nederlands](https://info.badgr.com/nl)
+        
+        Dutch
+        
+    * [Deutsch](https://info.badgr.com/de)
+        
+        Deutsch
+        
+    * [Português](https://info.badgr.com/pt-br)
+        
+        Português
+        
     
 
-[North America](https://info.badgr.com/)
+Close modal
 
 Reset language preference
 
@@ -647,7 +429,6 @@ Clear redirect preference
 Utility
 -------
 
-* [Try Canvas Free](https://info.badgr.com/try-canvas)
 * [Support](https://info.badgr.com/support/canvas-support-faq)
 * [Contact Us](https://info.badgr.com/contact-us)
 * [Log In](https://info.badgr.com/)
@@ -657,10 +438,9 @@ Utility
     * [Mastery Connect](https://app.masteryconnect.com/login)
     * [Elevate Data Sync](https://identity.us2.kimonocloud.com/login)
     * [LearnPlatform by Instructure](https://app.learnplatform.com/users/sign_in)
+* [Try Canvas Free](https://info.badgr.com/try-canvas)
 
-[Get a Demo](https://info.badgr.com/request-demo)
-
-0
+Menu
 
 Badgr Terms Of Service | Policy
 ===============================
