@@ -20,6 +20,19 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Image received via Southwark Council 
+    From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
+    
+    ### [Southwark theatres celebrated for leading the way on the London Living Wage](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
+    
+    [![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+    
+    ### [Giant Christmas tree lights switch on and Santa’s Grotto returns to Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+    
+    [![Valentina and Carlo Schiesaro can't understand why the price has gone up so much](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5318-4-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-slam-275-per-cent-hike-in-council-bike-locker-fees-calling-increase-unjustified/)
+    
+    ### [Bermondsey residents slam 275 per cent hike in council bike locker fees, calling increase “unjustified”](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-slam-275-per-cent-hike-in-council-bike-locker-fees-calling-increase-unjustified/)
+    
     [![The fiction award is regarded the world’s most prestigious for fiction works published in the UK and Ireland. Image: South Bank London](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-fiction-award-is-regarded-the-worlds-most-prestigious-for-fiction-works-published-in-the-UK-and-Ireland.-Image-Southbank-Centre-360x180.webp)](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
     
     ### [Booker Prize nominees to read from books at Royal Festival Hall](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
@@ -43,18 +56,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
     
     ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
-    
-    [![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-    
-    ### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-    
-    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
-    
-    ### [When will dangerous cladding from thousands of buildings across the capital be removed?](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
-    
-    [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-    
-    ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +106,19 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Image received via Southwark Council 
+    From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
+    
+    ### [Southwark theatres celebrated for leading the way on the London Living Wage](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
+    
+    [![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+    
+    ### [Giant Christmas tree lights switch on and Santa’s Grotto returns to Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+    
+    [![Valentina and Carlo Schiesaro can't understand why the price has gone up so much](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5318-4-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-slam-275-per-cent-hike-in-council-bike-locker-fees-calling-increase-unjustified/)
+    
+    ### [Bermondsey residents slam 275 per cent hike in council bike locker fees, calling increase “unjustified”](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-slam-275-per-cent-hike-in-council-bike-locker-fees-calling-increase-unjustified/)
+    
     [![The fiction award is regarded the world’s most prestigious for fiction works published in the UK and Ireland. Image: South Bank London](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-fiction-award-is-regarded-the-worlds-most-prestigious-for-fiction-works-published-in-the-UK-and-Ireland.-Image-Southbank-Centre-360x180.webp)](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
     
     ### [Booker Prize nominees to read from books at Royal Festival Hall](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
@@ -128,18 +142,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
     
     ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
-    
-    [![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-    
-    ### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-    
-    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
-    
-    ### [When will dangerous cladding from thousands of buildings across the capital be removed?](https://southwarknews.co.uk/area/london/when-will-dangerous-cladding-from-thousands-of-buildings-across-the-capital-be-removed/)
-    
-    [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-    
-    ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +385,12 @@ Website
 
 ### Featured Articles
 
+[![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+
+### [Giant Christmas tree lights switch on and Santa’s Grotto returns to Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+
+[9th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+
 [![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
 
 ### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
@@ -413,12 +421,6 @@ CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/
 ### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
 
 [7th November 2024](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-
-[![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
-
-### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
-
-[7th November 2024](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
 
 ### USEFUL PAGES
 
