@@ -83,7 +83,7 @@ Close
 AWS Service Terms
 =================
 
-#### Last Updated: November 7, 2024
+####  Last Updated: November 8, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -105,7 +105,7 @@ The Service Terms below govern your use of the Services. Capitalized terms used 
 
 **1.8.** You may perform benchmarks or comparative tests or evaluations (each, a “Benchmark”) of the Services. If you perform or disclose, or direct or permit any third party to perform or disclose, any Benchmark of any of the Services, you (i) will include in any disclosure, and will disclose to us, all information necessary to replicate such Benchmark, and (ii) agree that we may perform and disclose the results of Benchmarks of your products or services, irrespective of any restrictions on Benchmarks in the terms governing your products or services.
 
-**1.9.** Only the applicable AWS Contracting Party (as defined in the AWS Customer Agreement) will have obligations with respect to each AWS account, and no other AWS Contracting Party has any obligation with respect to such account. The AWS Contracting Party for an account may change as described in the Agreement, and the new AWS Contracting Party will be responsible for issuing any invoices to you after such change, including monthly invoices. Invoices for each account will reflect the AWS Contracting Party that is responsible for that account during the applicable billing period.
+**1.9.** Only the applicable AWS Contracting Party (as defined in the AWS Customer Agreement) will have obligations with respect to each AWS account, and no other AWS Contracting Party has any obligation with respect to such account. The AWS Contracting Party for an account may change as described in the Agreement, and the new AWS Contracting Party will be responsible for issuing any invoices to you after such change, including monthly invoices. Invoices for each account will reflect the AWS Contracting Party that is responsible for that account during the applicable billing period. You agree to accept invoices from AWS electronically, in a format and method of delivery as determined by AWS, e.g., in a PDF format, as permitted under applicable law. 
 
 If, as of the time of a change of the AWS Contracting Party responsible for your account, you have made an up-front payment for any Services under such account, then the AWS Contracting Party you paid such up-front payment to may remain the AWS Contracting Party for the applicable account only with respect to the Services related to such up-front payment.
 
@@ -662,8 +662,6 @@ We may delete, upon 30 days’ notice to you, any of Your Content uploaded to AW
 **31.7.** If your use of Amazon WorkMail is terminated, we may delete your data and your End Users’ mailboxes.
 
 **31.8.** Portions of Amazon WorkMail in Japan are sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement.
-
-  
 
 #### 32\. Amazon WorkSpaces Application Manager (Amazon WAM)
 
