@@ -66,17 +66,17 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
         
-    *  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    *  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
         
-        [Living](https://www.women.com/category/living/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
         
-        ### [The 5 Best Books Of The 2020s For Millennials](https://www.women.com/1701412/best-books-for-women-in-30s/)
+        ### [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
         
-        For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
+        While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
         
-        By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
+        By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
         
 
 More Stories
@@ -117,18 +117,6 @@ More Stories
     Surgery scars don't have to be ugly. In an ear of body positivity, some celebrities are exposing their scars to reclaim power and share their stories.
     
     By Emily Hutchinson [Read More](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
-    
-*  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
-    
-    ### [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
-    
-    While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
     
 *  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
     
@@ -225,6 +213,18 @@ More Stories
     Thanks to Kylie Jenner, classic time pieces are more on trend than ever. Here's how the star is using the accessory to bridge luxury and practicality.
     
     By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
+    
+*  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [The 5 Best Books Of The 2020s For Millennials](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    
+    For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
     
 *  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
     
