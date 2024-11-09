@@ -57,7 +57,7 @@ Empfehlungen für dich
         
         Hersteller
         
-        * [Apple](https://talk-point.de/collections/smartphones-apple)
+        * [Apple](https://talk-point.de/collections/apple-iphone)
         * [Samsung](https://talk-point.de/collections/smartphones-samsung)
         * [Xiaomi](https://talk-point.de/collections/smartphones-xiaomi)
         * [Huawei](https://talk-point.de/collections/smartphones-huawei)
@@ -334,7 +334,7 @@ Empfehlungen für dich
         
         Hersteller
         
-        * [Apple](https://talk-point.de/collections/smartphones-apple)
+        * [Apple](https://talk-point.de/collections/apple-iphone)
         * [Samsung](https://talk-point.de/collections/smartphones-samsung)
         * [Xiaomi](https://talk-point.de/collections/smartphones-xiaomi)
         * [Huawei](https://talk-point.de/collections/smartphones-huawei)
