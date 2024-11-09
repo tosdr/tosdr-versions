@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/red-hot-flames-in-the-sky-un-ufo-dal-passato/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/dr-le-mucche-sanno-salire-scendere-le-scale/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
