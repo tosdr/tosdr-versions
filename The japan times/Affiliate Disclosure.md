@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432750.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The outcome of the U.S. election may mark the beginning of the end of the era of “American exceptionalism” and should concern its allies such as Japan.")](https://www.japantimes.co.jp/commentary/2024/11/07/japan/trump-victory-japan/ "What does Trump's victory mean for Japan?")
 
-[Nissan cuts outlook, announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
+[Nissan cuts outlook and announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
 
-  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
+  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
 
-[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+[Japan’s biggest base pay gains in 31 years support case for rate hikes](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
 
-  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+  [![The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.")](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
 
 Editors' Picks
 --------------
@@ -178,19 +178,19 @@ By [Kuni Miyake](https://www.japantimes.co.jp/author/1298/kuni-miyake/ "Kuni Miy
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Nissan cuts outlook, announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
+[Nissan cuts outlook and announces restructuring with 9,000 job cuts](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
 
 By [Nicholas Takahashi](https://www.japantimes.co.jp/author/4213/nicholas-takahashi/ "Nicholas Takahashi")  
 
-  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook, announces restructuring with 9,000 job cuts")
+  [![Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432886.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan sees its operating income plunging to just ¥150 billion in the fiscal year ending in March, down 70% from its previous forecast.")](https://www.japantimes.co.jp/business/2024/11/07/companies/nissan-job-cuts/ "Nissan cuts outlook and announces restructuring with 9,000 job cuts")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+[Japan’s biggest base pay gains in 31 years support case for rate hikes](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
 
-By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "Aishwarya KUMAR")  
+By [Erica Yokoyama](https://www.japantimes.co.jp/author/1058/erica-yokoyama/ "Erica Yokoyama")  
 
-  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+  [![The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The pace of gains in Japanese workers' base pay quickened to 2.6% year on year in September, versus a 2.4% clip in August.")](https://www.japantimes.co.jp/business/2024/11/07/economy/japan-wages-september/ "Japan’s biggest base pay gains in 31 years support case for rate hikes")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,15 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[LDP between a rock and a hard place in struggle to get DPP support](https://www.japantimes.co.jp/news/2024/11/08/japan/politics/ldp-dpp-policy-negotiations/ "LDP between a rock and a hard place in struggle to get DPP support")
+[Highest-level heavy rain warning issues for Kagoshima island town](https://www.japantimes.co.jp/news/2024/11/09/japan/kagoshima-heavy-rain-warning/ "Highest-level heavy rain warning issues for Kagoshima island town")
 
-[Komeito pins hopes on new leader after dismal electoral performance](https://www.japantimes.co.jp/news/2024/11/08/japan/politics/komeito-leadership-election/ "Komeito pins hopes on new leader after dismal electoral performance")
+19 mins ago
 
-[Comedian Hitoshi Matsumoto to withdraw Bungeishunju defamation suit](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/hitoshi-matsumoto-trial-bunshun/ "Comedian Hitoshi Matsumoto to withdraw Bungeishunju defamation suit")
+[Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
 
-[Bank of Yokohama weighs Japan bond comeback with more rate hikes to come](https://www.japantimes.co.jp/business/2024/11/08/companies/yokohama-bank-japan-bonds/ "Bank of Yokohama weighs Japan bond comeback with more rate hikes to come")
+1 hours ago
 
-[Police rearrest man over attacks on LDP headquarters and PM Office](https://www.japantimes.co.jp/news/2024/11/08/japan/crime-legal/ldp-attack-rearrest/ "Police rearrest man over attacks on LDP headquarters and PM Office")
+[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+2 hours ago
+
+[Right-sided colon gets rid of cancer, Japanese researchers find](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
+
+2 hours ago
+
+[CDP's Yukio Edano to chair Lower House Constitution panel](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/yukio-edano-lower-house-constitution-panel/ "CDP's Yukio Edano to chair Lower House Constitution panel")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
