@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The fiction award is regarded the world’s most prestigious for fiction works published in the UK and Ireland. Image: South Bank London](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-fiction-award-is-regarded-the-worlds-most-prestigious-for-fiction-works-published-in-the-UK-and-Ireland.-Image-Southbank-Centre-360x180.webp)](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
+    
+    ### [Booker Prize nominees to read from books at Royal Festival Hall](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
+    
+    [![St Olave, St Thomas and St John United Charity, based on Druid Street. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/St-Olave-St-Thomas-and-St-John-United-Charity-based-on-Druid-Street.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
+    
+    ### [Bermondsey charity at ‘grave risk’ after investigation, MP warns](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
+    
     [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
     
     ### [‘Here’s what the council is doing to tackle mobile phone snatching and anti-social behaviour this winter’](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
@@ -47,15 +55,6 @@
     [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
     
     ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-    
-    [![The arches on America Street are opposite the America House apartment block.
-    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-    
-    ### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-    
-    [![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
-    
-    ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The fiction award is regarded the world’s most prestigious for fiction works published in the UK and Ireland. Image: South Bank London](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-fiction-award-is-regarded-the-worlds-most-prestigious-for-fiction-works-published-in-the-UK-and-Ireland.-Image-Southbank-Centre-360x180.webp)](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
+    
+    ### [Booker Prize nominees to read from books at Royal Festival Hall](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
+    
+    [![St Olave, St Thomas and St John United Charity, based on Druid Street. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/St-Olave-St-Thomas-and-St-John-United-Charity-based-on-Druid-Street.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
+    
+    ### [Bermondsey charity at ‘grave risk’ after investigation, MP warns](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
+    
     [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
     
     ### [‘Here’s what the council is doing to tackle mobile phone snatching and anti-social behaviour this winter’](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
@@ -133,15 +140,6 @@ View All Result
     [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
     
     ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-    
-    [![The arches on America Street are opposite the America House apartment block.
-    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-    
-    ### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-    
-    [![The mini Christmas market in action. (Asda)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Asda_Gnome_Market_SJ_340-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
-    
-    ### [Mini Christmas market is offering free food on the South Bank](https://southwarknews.co.uk/area/south-bank/mini-christmas-market-is-offering-free-food-on-the-south-bank/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -225,17 +223,17 @@ Terms of Use
 
 [3rd November 2024](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
 
-[![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
-
-### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
-
-[5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
-
 [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 [7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
+
+[![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+[5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
 [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
 
