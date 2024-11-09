@@ -556,11 +556,6 @@ Kaiserstr. 89
 
 ### SECUSO Events
 
-**Friday, 08 Nov 2024**  
-[39\. AIK-Symposium](https://secuso.aifb.kit.edu/english/76.php/event/53037#calendar_top)
-
-* * *
-
   
 **[Further Events ...](https://secuso.aifb.kit.edu/english/76.php#calendar_top)**
 
