@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KYTX/images/e2b0946b-4827-4459-a6a6-d926635ac5f6/20241107T180929/e2b0946b-4827-4459-a6a6-d926635ac5f6_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/e2b0946b-4827-4459-a6a6-d926635ac5f6/20241107T180929/e2b0946b-4827-4459-a6a6-d926635ac5f6_360x203.jpg)](https://www.kagstv.com/article/news/local/west-tawakoni-girl-missing/501-572cc955-aff2-4928-a934-acd6517cd10b)
+    *  [![](https://media.kagstv.com/assets/KFSM/images/54749894-625c-4686-b969-700d3b88302e/54749894-625c-4686-b969-700d3b88302e_16x9.jpg) ![](https://media.kagstv.com/assets/KFSM/images/54749894-625c-4686-b969-700d3b88302e/54749894-625c-4686-b969-700d3b88302e_360x203.jpg)](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
         
-        #### [AMBER Alert issued for 16-year-old out of Hunt County](https://www.kagstv.com/article/news/local/west-tawakoni-girl-missing/501-572cc955-aff2-4928-a934-acd6517cd10b)
+        #### [Samples from water wells in Navasota test positive for E. coli bacteria](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/d63c88c9-e495-42c0-b389-896584179c64/20241107T201620/d63c88c9-e495-42c0-b389-896584179c64_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d63c88c9-e495-42c0-b389-896584179c64/20241107T201620/d63c88c9-e495-42c0-b389-896584179c64_360x203.jpg)](https://www.kagstv.com/article/news/local/gen-taylor-meant-so-much-to-all-of-us-am-central-texas-aggies-remember-horace-pete-taylor/500-27a9d216-0fbc-49a9-ab6c-ef82d2333dd2)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/c17e908a-4722-4462-9cf5-3cf651335f2a/20241108T204804/c17e908a-4722-4462-9cf5-3cf651335f2a_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c17e908a-4722-4462-9cf5-3cf651335f2a/20241108T204804/c17e908a-4722-4462-9cf5-3cf651335f2a_360x203.jpg)](https://www.kagstv.com/article/news/crime/cspd-looking-to-identify-northgate-street-sign-theives/500-f3e45720-7d74-4c05-b808-f835cba53baa)
         
-        #### [Texas A&M-Central Texas remember founding leader, Horace "Pete"Taylor](https://www.kagstv.com/article/news/local/gen-taylor-meant-so-much-to-all-of-us-am-central-texas-aggies-remember-horace-pete-taylor/500-27a9d216-0fbc-49a9-ab6c-ef82d2333dd2)
+        #### [College Station Police looking to find "two upstanding gentlemen" that stole street signs](https://www.kagstv.com/article/news/crime/cspd-looking-to-identify-northgate-street-sign-theives/500-f3e45720-7d74-4c05-b808-f835cba53baa)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-87°
+68°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
