@@ -31,6 +31,56 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Musk podría aprovechar su apoyo a Trump y desplazar a Zuckerberg en la élite tecnológica 
+=========================================================================================
+
+Elon Musk podría obtener importante poder político de manos de Donald Trump.
+----------------------------------------------------------------------------
+
+![Musk se perfila para un rol clave en el gabinete de Donald Trump. Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-1.jpg)
+
+La **relación entre Donald Trump y Elon Musk** ha dado un giro importante en los últimos años. Durante la **campaña electoral de 2024**, Musk mostró un **apoyo claro y público hacia Trump**, mediante donaciones y declaraciones. Según [EFE](https://efe.com/mundo/2024-11-08/eeuu-elecciones-alianza-elon-musk-donald-trump/ "https://efe.com/mundo/2024-11-08/eeuu-elecciones-alianza-elon-musk-donald-trump/"), **el magnate tecnológico donó 130 millones de dólares** al ‘Trump America PAC’ y animó a sus seguidores a **respaldar al candidato republicano**. 
+
+### Más noticias
+
+* [¿Cuál será el rol de Elon Musk en las políticas tecnológicas de Donald Trump?](https://www.elcomercio.com/tecnologia/donald-trump-elon-musk-estados-unidos-elecciones.html "https://www.elcomercio.com/tecnologia/donald-trump-elon-musk-estados-unidos-elecciones.html")
+* [Elon Musk construyó su imperio empresarial desde una modesta empresa](https://www.elcomercio.com/tecnologia/elon-musk-biografia-tesla-spacex.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tecnologia/elon-musk-biografia-tesla-spacex.html?source=Internal&ref=Single+Content+Link") 
+
+**Posible rol clave de Elon Musk en el gabinete de Donald Trump** 
+------------------------------------------------------------------
+
+Tras la **victoria de Trump en las elecciones presidenciales de 2024 de Estados Unidos**, Musk fue uno de los **invitados especiales en las celebraciones en Mar-a-Lago**, Florida. Este acercamiento ha generado **especulaciones sobre su posible integración en el nuevo gabinete del presidente**.  
+
+En círculos políticos y tecnológicos, se habla de un **rol clave para Musk**, especialmente en la NASA. Esto podría **impulsar aún más su empresa SpaceX**, conocida por sus ambiciosos planes de **viajes comerciales fuera de la Tierra**. 
+
+**Propuesta para liderar la comisión de eficiencia gubernamental** 
+-------------------------------------------------------------------
+
+A decir de [France 24](https://www.france24.com/es/ee-uu-y-canad%C3%A1/20241107-trump-regresa-c%C3%B3mo-ser%C3%A1-su-gabinete-musk-y-robert-kennedy-entre-los-opcionados "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20241107-trump-regresa-c%C3%B3mo-ser%C3%A1-su-gabinete-musk-y-robert-kennedy-entre-los-opcionados"), **Trump deberá cubrir unos 4 000 puestos gubernamentales**, de los cuales 1 200 requieren **confirmación del Senado**. Musk ha sido propuesto para **liderar una nueva comisión de eficiencia gubernamental**, con la promesa de **recortar al menos 2 000 millones de dólares del presupuesto federal**.  
+
+Sin embargo, **su cercanía con Trump podría generar conflictos de interés**, especialmente debido a su **crítica a la supervisión de SpaceX** y su influencia en la **regulación de vehículos eléctricos en California**, lo que afectaría a Tesla. Si Musk se incorpora al gobierno, los posibles conflictos de interés relacionados con sus empresas deberán resolverse. 
+
+**Musk solicita posiciones clave en el Gobierno de Trump** 
+-----------------------------------------------------------
+
+Según EFE, The New York Times informó que **Elon Musk ha solicitado a Donald Trump la contratación de varios empleados de su empresa SpaceX** para ocupar altos cargos en el Gobierno, que incluyen en el **Departamento de Defensa**, uno de sus principales clientes.  
+
+Siguiendo con la misma fuente, el impacto de su cercanía con Trump se ha visto reflejado en el mercado, donde, tras la victoria del republicano, **las acciones de su empresa Tesla aumentaron alrededor del 15%**, lo que ha permitido a Musk **incrementar su patrimonio en unos 15 000 millones de dólares**. 
+
+**¿Beneficios legales para Musk?** 
+-----------------------------------
+
+El apoyo de Musk a Trump podría traer también **beneficios legales**, de acuerdo con [Forbes](https://forbes.com.mx/victoria-de-trump-promete-impulsar-el-sueno-de-elon-musk-de-llevar-humanos-a-marte/ "https://forbes.com.mx/victoria-de-trump-promete-impulsar-el-sueno-de-elon-musk-de-llevar-humanos-a-marte/"), citado por France 24. **Musk enfrenta varias investigaciones**, como la apelación de un bono de 50 mil millones de dólares en acciones de Tesla y una **investigación sobre los sistemas de conducción autónoma de su empresa**. Además, la administración Trump podría **ofrecer un entorno regulatorio más favorable para sus negocios**, incluyendo Tesla, que podría beneficiarse de propuestas que afecten a sus competidores. 
+
+**Trump y Zuckerberg: Tensión política y legal** 
+-------------------------------------------------
+
+La buena relación entre Trump y Musk podría ser vista como una **forma de desplazar a Mark Zuckerberg**, el CEO de Meta, quien ha sido uno de los **competidores en el sector tecnológico**. Los recientes gestos de apoyo sugieren que **Musk podría consolidarse como un nuevo referente en la élite tecnológica mundial**, superando a Zuckerberg, especialmente en un contexto político y económico favorable. 
+
+Según [Infobae](https://www.infobae.com/estados-unidos/2024/07/12/donald-trump-prometio-perseguir-y-encarcelar-a-fraudulentos-electorales-y-advirtio-a-mark-zuckerberg/ "https://www.infobae.com/estados-unidos/2024/07/12/donald-trump-prometio-perseguir-y-encarcelar-a-fraudulentos-electorales-y-advirtio-a-mark-zuckerberg/"), Trump advirtió que, si es reelegido, **perseguirá a los “fraudulentos electorales” y los enviará a prisión**. En su plataforma Truth Social, mencionó específicamente al CEO de Meta, acusándolo de **influir en las elecciones de 2020 mediante subvenciones a juntas electorales locales**, conocidas como “Zuckerbucks”.  
+
+**Trump y Zuckerberg han tenido una relación tensa**, especialmente después de que **Facebook suspendiera a Trump tras el asalto al Capitolio en 2021**. La reanudación de la cuenta de Trump en 2023 provocó críticas de expertos en elecciones, y ahora, con la inmunidad presidencial en juego, algunos temen que **Trump use la ley para perseguir a sus opositores, incluyendo a Zuckerberg**. 
+
 Viene el fin de año y es necesario cuidar la salud mental
 =========================================================
 
@@ -997,73 +1047,3 @@ La cuenta pendiente de **Mena fue sumar minutos en una Copa del Mundo**. Fue cit
 
 San viernes
 -----------
-
-¿Por qué vehículos y gasolinas inciden en la inflación negativa en Ecuador?
-===========================================================================
-
-El INEC publicó los índices de la inflación mensual de octubre en Ecuador.
---------------------------------------------------------------------------
-
-![El desemepeño de la venta de automóviles en octubre incidió en la inflación mensual de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/automoviles.jpg)
-
-Octubre registra una **inflación negativa**, según la publicación mensual del **Instituto Nacional de Estadística y Censos (INEC)**.
-
-La información indica que la **inflación mensual** es de **\-0,24%**, comparado con el mes anterior, que fue de **0,18%.** En octubre de 2023 se ubicó en -0,18%.
-
-### Más noticias
-
-* [Los precios de los alimentos subieron en los mercados](https://www.elcomercio.com/actualidad/ecuador/precios-alimentos-subieron-mercados.html "https://www.elcomercio.com/actualidad/ecuador/precios-alimentos-subieron-mercados.html")
-* [La inflación en Ecuador se desaceleró en agosto](https://www.elcomercio.com/actualidad/negocios/inflacion-ecuador-desacelero-agosto.html "https://www.elcomercio.com/actualidad/negocios/inflacion-ecuador-desacelero-agosto.html")
-
-En el caso de la inflación anual, en **octubre de 2024 llegó a 1,36%** y en el mismo mes de 2023 estuvo en 1,93%. Frente al mes anterior de este año fue de 1,42%. 
-
-La mayor incidencia en la **inflación negativa de Ecuador** fueron los **alimentos y bebidas no alcohólicas, transporte y salud.** 
-
-Estos tres elementos hacen parte de las **12 categorías o divisiones que tiene el INEC** para calcular la inflación mensual en Ecuador.
-
-Los autos y las gasolinas, en la inflación
-------------------------------------------
-
-En la categoría de **transporte** son tomados cuenta **23 productos**. Todo ese grupo participa el 14,74% de la ponderación de la canasta del Índice de Precios al Consumidor.
-
-Los tres primeros productos son la **gasolina de alto y bajo octanaje, así como los automóviles.** Estos se miden para el cálculo de la inflación mensual.
-
-El INEC informa que esos dos elementos tuvieron una incidencia mensual negativa. Este comportamiento tiene una explicación relacionada con la reducción del precio de las gasolinas, así como por la caída de las ventas de los automóviles.
-
-En octubre, el valor de la **gasolina extra, ecopaís y la súper** se redujeron por segundo mes consecutivo.
-
-En ese mes, el precio de las **gasolinas extra y ecopaís** pasó de 2,59 a 2,56 dólares por galón. Mientras que, la gasolina súper, de 95 octanos, tiene el precio sugerido de 3,90 dólares por galón.
-
-El precio de las gasolinas de Ecuador cambia cada mes. En el caso de la ecopaís y extra, el Gobierno estableció una banda para regular los precios.
-
-Desde el 28 de junio de 2024, el **presidente del Ecuador, Daniel Noboa, eliminó el subsidio** de las gasolinas extra y ecopaís.
-
-Tras este cambio, estos derivados entraron en un sistema de bandas y la tarifa fluctúa mensualmente, conforme al precio del petróleo en el mercado internacional. Con este nuevo sistema, el precio de estos derivados cambian el 12 de cada mes.
-
-Asimismo, la normativa señala que el precio de las gasolinas extra y ecopaís no podrá subir más del 5% mensual ni bajar más del 10% del mes anterior.
-
-Mientras que el precio de la gasolina súper está liberado y se comercializa a diferentes tarifas, dependiendo de la estación de servicio, respetando los márgenes del precio sugerido.
-
-La baja venta de los automóviles
---------------------------------
-
-La **Asociación de Empresas Automotrices del Ecuador** informa sobre una caída en la comercialización de vehículos.
-
-En su publicación se menciona que el Servicio de Rentas Internas informó que entre enero y octubre de 2024 se vendieron 91 393 vehículos nuevos.
-
-Eso representó una caída del 19%, en relación con las ventas del mismo periodo del año anterior, cuando se comercializaron 113 125 unidades. 
-
-En octubre de este año se vendieron 8 245 unidades, frente al mes de 2023 que fueron 10 364.
-
-Los alimentos son otro rubro de la canasta familiar
----------------------------------------------------
-
-En octubre, el segmento de alimentos y bebidas no alcohólicas también tuvo una inflación negativa.
-
-Los 10 productos, con mayor incidencia en la variación mensual, tuvieron un impacto a la baja en la inflación. Entre ellos están el arroz, cebolla paiteña, tomate riñón, pescado fresco fileteado, tomate de árbol, arveja tierna, chocolates, presas de pollo, entre otros.
-
-Esta categoría, que agrupa a 115 productos, representa el 22,45% de la canasta del Índice de Precios al Consumidor. 
-
-El comportamiento de la inflación no fue igual entre las regiones. El INEC informa que las ciudades de la Costa mostraron variaciones mensuales inferiores a las de la Sierra[.](https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_y_Censos_(Ecuador) "https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_y_Censos_(Ecuador)")
-
-Con esos datos, la canasta básica familiar de octubre de 2024 costó 805,04 dólares. Este costo aumentó en un 0,15% frente a septiembre de 2024.
