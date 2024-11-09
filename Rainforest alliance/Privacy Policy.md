@@ -294,7 +294,7 @@ general or business(Required)
 
  Send me business updates
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
