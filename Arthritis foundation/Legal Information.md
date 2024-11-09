@@ -373,7 +373,7 @@ Updated: April 26, 2021.
 * [JA Camps](https://www.arthritis.org/events/ja-camps)
 * [Pathways Conference](https://www.arthritis.org/about-us/pathways)
 * [Living Well Events](https://www.arthritis.org/events/living-well)
-* [Cycling Experience](https://www.arthritis.org/events/bike-event)
+* [Bike Events](https://www.arthritis.org/events/bike-event)
 * [Walk to Cure Arthritis](https://www.arthritis.org/events/wtca)
 * [Fundraise Your Way](https://www.arthritis.org/events/diy-fundraising)
 * [JA Family Summit](https://www.arthritis.org/events/ja-conference)
@@ -387,7 +387,7 @@ Updated: April 26, 2021.
 
 Atlanta, GA
 
-78° Arthritis Index Beneficial
+72° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
