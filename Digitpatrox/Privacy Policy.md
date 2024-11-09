@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, November 8 2024
+Saturday, November 9 2024
 
 Latest
 
-* [Unpatched Mazda Connect bugs let hackers install persistent malware](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
-* [The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
-* [Google Vids AI Video Creation Tool Arrives for Workspace Users](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
-* [Texas clinic notifies 37K people of data breach that compromised SSNs, passwords, and medical info](https://digitpatrox.com/texas-clinic-notifies-37k-people-of-data-breach-that-compromised-ssns-passwords-and-medical-info/)
-* [CrowdStrike eyes SaaS security gains with Adaptive Shield acquisition](https://digitpatrox.com/crowdstrike-eyes-saas-security-gains-with-adaptive-shield-acquisition/)
-* [What if robots learned the same way genAI chatbots do? – Computerworld](https://digitpatrox.com/what-if-robots-learned-the-same-way-genai-chatbots-do-computerworld/)
-* [You Can Get the Amazon Echo Auto for 55% Off Right Now](https://digitpatrox.com/you-can-get-the-amazon-echo-auto-for-55-off-right-now/)
-* [Microsoft’s Copilot strategy shifts with new Microsoft 365 bundle, but it’ll cost you more](https://digitpatrox.com/microsofts-copilot-strategy-shifts-with-new-microsoft-365-bundle-but-itll-cost-you-more/)
-* [How to Make Your Car More Comfortable for You](https://digitpatrox.com/how-to-make-your-car-more-comfortable-for-you/)
-* [The Best TV Backlights of 2024](https://digitpatrox.com/the-best-tv-backlights-of-2024/)
+* [Google’s ‘Project Jarvis’ project could let AI agents take over computers](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
+* [How to Start, Stop, and Restart Services in Linux](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
+* [Here’s how often your Android TV will get updated](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
+* [Critical Veeam RCE bug now used in Frag ransomware attacks](https://digitpatrox.com/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
+* [The Beatles’ final song, restored using AI, is up for a Grammy](https://digitpatrox.com/the-beatles-final-song-restored-using-ai-is-up-for-a-grammy/)
+* [Shonen Unleashed Codes (November 2024): Are There Any?](https://digitpatrox.com/shonen-unleashed-codes-november-2024-are-there-any/)
+* [Nokia waves off IntelBroker breach claims, says leaked source code came from a third party application](https://digitpatrox.com/nokia-waves-off-intelbroker-breach-claims-says-leaked-source-code-came-from-a-third-party-application/)
+* [Mistral’s new tool automatically deletes offending content – Computerworld](https://digitpatrox.com/mistrals-new-tool-automatically-deletes-offending-content-computerworld/)
+* [How to Freeze Thanksgiving Gravy Ahead of Time](https://digitpatrox.com/how-to-freeze-thanksgiving-gravy-ahead-of-time/)
+* [How to check if Windows 10 22H2, 21H2, or older version is installed on your PC](https://digitpatrox.com/how-to-check-if-windows-10-22h2-21h2-or-older-version-is-installed-on-your-pc/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/08/headpic.jpeg)](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
+* [![](https://cdn.mos.cms.futurecdn.net/K3B73FKabpxEQuCJrwgoiP-1200-80.jpg)](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
     
-    [Unpatched Mazda Connect bugs let hackers install persistent malware](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
+    [Google’s ‘Project Jarvis’ project could let AI agents take over computers](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
     
     30 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/2wIT6vjCpdu4j876y2zVMSpqEUM=/0x0:2048x1365/1200x628/filters:focal(1024x683:1025x684)/cdn.vox-cdn.com/uploads/chorus_asset/file/25721493/Gb3zWbGbwAA5UAk.jpeg)](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
+* [![](https://assets.techrepublic.com/uploads/2022/09/TR-linux-security-wolfi.jpeg)](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
     
-    [The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
+    [How to Start, Stop, and Restart Services in Linux](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
     
-    47 mins ago
+    32 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Google-Vids-New-AI-Powered-Video-Marketing-Tool.jpg)](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
+* [![](https://cdn.mos.cms.futurecdn.net/nwv6ZGPKju9PAGAwWnittG-1200-80.jpg)](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
     
-    [Google Vids AI Video Creation Tool Arrives for Workspace Users](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
+    [Here’s how often your Android TV will get updated](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
     
-    1 hour ago
+    36 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Data-breach-at-Texas-clinic-compromises-37K-SSNs-passwords-and-medical-info.jpg)](https://digitpatrox.com/texas-clinic-notifies-37k-people-of-data-breach-that-compromised-ssns-passwords-and-medical-info/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/08/Veeam.jpg)](https://digitpatrox.com/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
     
-    [Texas clinic notifies 37K people of data breach that compromised SSNs, passwords, and medical info](https://digitpatrox.com/texas-clinic-notifies-37k-people-of-data-breach-that-compromised-ssns-passwords-and-medical-info/)
+    [Critical Veeam RCE bug now used in Frag ransomware attacks](https://digitpatrox.com/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
     
     2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/HUhxuw4q94nJ9GYPYBXcvB-1200-80.jpg)](https://digitpatrox.com/crowdstrike-eyes-saas-security-gains-with-adaptive-shield-acquisition/)
+* [![](https://cdn.vox-cdn.com/thumbor/0UK96KMvPUgq6Wd4GHs4H_7VbG8=/0x0:5000x3568/1200x628/filters:focal(2316x1034:2317x1035)/cdn.vox-cdn.com/uploads/chorus_asset/file/25722381/1405111904.jpg)](https://digitpatrox.com/the-beatles-final-song-restored-using-ai-is-up-for-a-grammy/)
     
-    [CrowdStrike eyes SaaS security gains with Adaptive Shield acquisition](https://digitpatrox.com/crowdstrike-eyes-saas-security-gains-with-adaptive-shield-acquisition/)
+    [The Beatles’ final song, restored using AI, is up for a Grammy](https://digitpatrox.com/the-beatles-final-song-restored-using-ai-is-up-for-a-grammy/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -210,49 +210,49 @@ Recent Topics
 
 * [30 mins ago
     
-    ### Unpatched Mazda Connect bugs let hackers install persistent malware](https://digitpatrox.com/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
-* [47 mins ago
+    ### Google’s ‘Project Jarvis’ project could let AI agents take over computers](https://digitpatrox.com/googles-project-jarvis-project-could-let-ai-agents-take-over-computers/)
+* [32 mins ago
     
-    ### The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
-* [1 hour ago
+    ### How to Start, Stop, and Restart Services in Linux](https://digitpatrox.com/how-to-start-stop-and-restart-services-in-linux/)
+* [36 mins ago
     
-    ### Google Vids AI Video Creation Tool Arrives for Workspace Users](https://digitpatrox.com/google-vids-ai-video-creation-tool-arrives-for-workspace-users/)
+    ### Here’s how often your Android TV will get updated](https://digitpatrox.com/heres-how-often-your-android-tv-will-get-updated/)
 
 Most Popular Topics
 
-* [September 29, 2024
+* [August 12, 2024
     
-    ### Eliminate ‘Delayed Decisions’ to Declutter Long-Term](https://digitpatrox.com/eliminate-delayed-decisions-to-declutter-long-term/)
-* [August 19, 2024
+    ### Here Are the 4 Best Gaming Browsers for Windows](https://digitpatrox.com/here-are-the-4-best-gaming-browsers-for-windows/)
+* [August 17, 2024
     
-    ### Fortnite Is Back on Mobile (for Some of Us)](https://digitpatrox.com/fortnite-is-back-on-mobile-for-some-of-us/)
-* [3 weeks ago
+    ### The 5 Best AI CRM Software in 2024](https://digitpatrox.com/the-5-best-ai-crm-software-in-2024/)
+* [August 23, 2024
     
-    ### Features, Prices, Pros and Cons](https://digitpatrox.com/features-prices-pros-and-cons/)
+    ### NYT Connections Today: Hints and Answers for August 24, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-august-24-2024/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### You Can Get the Amazon Echo Auto for 55% Off Right Now](https://digitpatrox.com/you-can-get-the-amazon-echo-auto-for-55-off-right-now/)
 * [4 hours ago
     
-    ### Microsoft’s Copilot strategy shifts with new Microsoft 365 bundle, but it’ll cost you more](https://digitpatrox.com/microsofts-copilot-strategy-shifts-with-new-microsoft-365-bundle-but-itll-cost-you-more/)
+    ### Nokia waves off IntelBroker breach claims, says leaked source code came from a third party application](https://digitpatrox.com/nokia-waves-off-intelbroker-breach-claims-says-leaked-source-code-came-from-a-third-party-application/)
 * [4 hours ago
     
-    ### How to Make Your Car More Comfortable for You](https://digitpatrox.com/how-to-make-your-car-more-comfortable-for-you/)
+    ### Mistral’s new tool automatically deletes offending content – Computerworld](https://digitpatrox.com/mistrals-new-tool-automatically-deletes-offending-content-computerworld/)
+* [5 hours ago
+    
+    ### How to Freeze Thanksgiving Gravy Ahead of Time](https://digitpatrox.com/how-to-freeze-thanksgiving-gravy-ahead-of-time/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 28, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
