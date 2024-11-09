@@ -284,13 +284,6 @@ A police cordon at the Don Bar in Derry.
 [Who are the guests on tonight's Graham Norton Show on BBC? Here's the sofa line-up](https://www.derrynow.com/news/arts---entertainment/1650806/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, November 8, 2024](https://www.derrynow.com/news/deaths/1650044/derry-death-notices-friday-november-8-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
 
 Flares lighting up Derry's Craigavon Bridge
@@ -336,6 +329,13 @@ Photo: Sportsfile
 
 [Family of Derry woman killed by army denied identity of soldier who shot their mother](https://www.derrynow.com/news/local-news/1650950/family-of-derry-woman-killed-by-army-denied-identity-of-soldier-who-shot-their-mother.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Memoriam - John McCready - 10th Anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Memoriam - John McCready - 10th Anniversary")](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Memoriam - John McCready - 10th Anniversary](https://www.derrynow.com/news/deaths/1651188/derry-memoriam-john-mccready-10th-anniversary.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
 
 Flares lighting up Derry's Craigavon Bridge
@@ -522,7 +529,7 @@ Flares lighting up Derry's Craigavon Bridge
 [Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man sadly dies while on holiday in Thailand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man sadly dies while on holiday in Thailand")](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
+[![Derry man sadly dies while on holiday in Thailand](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Philip_Howell-1731096238059.jpg--.jpg?1731096238081 "Derry man sadly dies while on holiday in Thailand")](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
 
 The late Philip Howell.
 
@@ -555,13 +562,6 @@ The Little Superstars Service offers support for kids aged between five and 17.
 
 [Zachary Geddis Trust delighted to feature on BBC Children in Need](https://www.derrynow.com/news/home/1650981/zachary-geddis-trust-delighted-to-feature-on-bbc-children-in-need.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![McMonagle was sentenced for series of child sex offences involving police decoys](https://www.derrynow.com/resizer/165/93/true/2024_11_08/3-1731072506020.png--.png?1731072506101 "McMonagle was sentenced for series of child sex offences involving police decoys")](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[McMonagle sentenced for series of child sex offences involving police decoys](https://www.derrynow.com/news/local-news/1650953/mcmonagle-sentenced-for-series-of-child-sex-offences-involving-police-decoys.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
