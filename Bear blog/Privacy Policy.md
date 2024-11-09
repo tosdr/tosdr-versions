@@ -164,7 +164,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [HermanMartinus](https://github.com/HermanMartinus) / **[bearblog](https://github.com/HermanMartinus/bearblog)** Public
 
 * [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog) You must be signed in to change notification settings
-* [Fork 79](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Fork 80](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
 * [Star 2.7k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
     
 
