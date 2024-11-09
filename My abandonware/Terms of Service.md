@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Conquestador: Szenario Generator](https://www.myabandonware.com/game/conquestador-szenario-generator-6cf)
+* [Survivor Ultimate](https://www.myabandonware.com/game/survivor-ultimate-sx3)
 * [Demon Attack](https://www.myabandonware.com/game/demon-attack-4tb)
 * [Atlantis](https://www.myabandonware.com/game/atlantis-74a)
 * [Frogger](https://www.myabandonware.com/game/frogger-7)
-* [Big Buck Hunter](https://www.myabandonware.com/game/big-buck-hunter-t91)
-* [Big Buck Hunter: Shooter's Challenge](https://www.myabandonware.com/game/big-buck-hunter-shooter-s-challenge-t90)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
