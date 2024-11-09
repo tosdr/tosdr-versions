@@ -30,9 +30,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![TikTok launches its search ads](https://illumin.com/wp-content/uploads/2024/11/TikTok-Search-Advertising-263x300.png)
+    * ![Effective, purpose-based marketing for 2025](https://illumin.com/wp-content/uploads/2023/05/Effective-Purpose-Based-Marketing-in-2023-2-263x300.jpg)
         
-        TikTok launches its search ads[Read More](https://illumin.com/insights/blog/tiktok-search-ads/)
+        Effective, purpose-based marketing for 2025[Read More](https://illumin.com/insights/blog/effective-purpose-based-marketing/)
         
 * [Company](#)
     * [Company](#)
