@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Gilbert Burton](https://cdn.returningveterans.org/images/honor/GIL_crop.jpg)  
+![Phil Gioia](https://cdn.returningveterans.org/images/honor/Phil_Gioia.jpg)  
 
-**In Honor of Gilbert Burton**  
+**In Honor of Phil Gioia**  
 United States Army  
-Submitted by Guy Burstein](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/08/24 - 7:13:45  
+Printed 11/09/24 - 1:04:37  
 © 2024 Returning Veterans Project
