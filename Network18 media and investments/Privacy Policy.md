@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Sanju Samson](https://www.news18.com/amp/cricket/list-of-records-broken-by-sanju-samson-in-1st-t20i-against-south-africa-9114118.html)
-    * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
-    * [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
-    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
-    * [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
-    * [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+    * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
+    * [India vs South Africa](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
+    * [Donald Trump](https://www.news18.com/world/trump-completes-clean-sweep-of-all-swing-states-gets-312-electoral-votes-9115113.html)
+    * [Surviving 9-5 Workday](https://www.news18.com/lifestyle/surviving-the-9-to-5-practical-ways-to-keep-stress-out-of-your-workplace-life-9114723.html)
+    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-heartbroken-varun-dhawan-starting-family-citadel-honey-bunny-9115097.html)
+    * [MrBeast Event](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +169,12 @@ Follow us on
 
 In Trends:
 
-* [Sanju Samson](https://www.news18.com/amp/cricket/list-of-records-broken-by-sanju-samson-in-1st-t20i-against-south-africa-9114118.html)
-* [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
-* [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
-* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
-* [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
-* [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+* [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
+* [India vs South Africa](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
+* [Donald Trump](https://www.news18.com/world/trump-completes-clean-sweep-of-all-swing-states-gets-312-electoral-votes-9115113.html)
+* [Surviving 9-5 Workday](https://www.news18.com/lifestyle/surviving-the-9-to-5-practical-ways-to-keep-stress-out-of-your-workplace-life-9114723.html)
+* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-heartbroken-varun-dhawan-starting-family-citadel-honey-bunny-9115097.html)
+* [MrBeast Event](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
