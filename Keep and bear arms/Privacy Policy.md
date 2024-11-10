@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 439 active visitors** | **Saturday, November 09, 2024** |
+| **You are 1 of 391 active visitors** | **Saturday, November 09, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**A democracy cannot exist as a permanent form of government. It can only exist until a majority of voters discover that they can vote themselves largess out of the public treasury. � Alexander Tyler (in his 1770 book, Cycle of Democracy)
+ **QUOTES TO REMEMBER**When you disarm your subjects, you offend them by showing that either from cowardliness or lack of faith, you distrust them; and either conclusion will induce them to hate you. � NICCOLO MACHIAVELLI
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
