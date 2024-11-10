@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-['SNL’ cast cheekily praises Trump in first post-election cold open: ‘We have been with you all along’](https://nypost.com/2024/11/10/entertainment/snl-cast-cheekily-praises-trump-in-first-post-election-cold-open/)
+[One dead, several injured in shooting at university's homecoming celebration](https://nypost.com/2024/11/10/us-news/tuskegee-university-shooting-leaves-one-dead-several-injured-at-alabama-school/)
 
 Terms Of Use
 ============
