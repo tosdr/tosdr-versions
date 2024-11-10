@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c08794ecacec94f66a9e7bfc9466658b
+d79789b60c1ebe46aa906f6833cd299b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm to 14 mm glass bugle beads](https://www.sojourner.biz/images/cache/glass/GL0196.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
+[![Purple and gold faceted Czech bicone beads](https://www.sojourner.biz/images/cache/glass/GL0087.200.jpg)](https://www.sojourner.biz/beads/glass/purple-and-gold-faceted-czech-bicone-beads.html "Purple and gold faceted Czech bicone beads")
 
-#### [12 mm to 14 mm glass bugle beads](https://www.sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
+#### [Purple and gold faceted Czech bicone beads](https://www.sojourner.biz/beads/glass/purple-and-gold-faceted-czech-bicone-beads.html "Purple and gold faceted Czech bicone beads")
 
-$4.00
+$15.00
 
 ### Best Sellers
 
@@ -197,8 +197,8 @@ $4.00
     $26.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Gray pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
-    $28.00
+10. [Black and white playful cat sauce dish](https://www.sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
