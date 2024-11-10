@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/energetische-hulp-aan-dieren-oostvaardersplassen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/michael-moore-de-vs-is-niet-failliet/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
