@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0d2a3db561122b20f57f1cf027dbb6a3
+4e717f196eb4c33bb7a254efae685545
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm clear round beads with primary color accents](https://www.sojourner.biz/images/cache/glass/GL0181.200.jpg)](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
+[![Green and gold bicone beads](https://www.sojourner.biz/images/cache/glass/GL0135.200.jpg)](https://www.sojourner.biz/beads/glass/green-and-gold-bicone-beads.html "Green and gold bicone beads")
 
-#### [4 mm clear round beads with primary color accents](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
+#### [Green and gold bicone beads](https://www.sojourner.biz/beads/glass/green-and-gold-bicone-beads.html "Green and gold bicone beads")
 
-$7.00
+$15.00
 
 ### Best Sellers
 
