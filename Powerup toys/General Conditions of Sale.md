@@ -266,6 +266,7 @@ FREE SHIPPING ON ORDERS $60+
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
 * [](https://www.instagram.com/poweruptoys/ "POWERUP® on Instagram")
+* [](https://www.tiktok.com/@poweruptoys "POWERUP® on TikTok")
 * [](https://twitter.com/Poweruptoys "POWERUP® on Twitter")
 * [](https://youtube.com/@Poweruptoys "POWERUP® on YouTube")
 
@@ -624,6 +625,7 @@ This warranty does not apply to: (a) consumable parts, such as batteries, or pro
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
 * [](https://www.instagram.com/poweruptoys/ "POWERUP® on Instagram")
+* [](https://www.tiktok.com/@poweruptoys "POWERUP® on TikTok")
 * [](https://twitter.com/Poweruptoys "POWERUP® on Twitter")
 * [](https://youtube.com/@Poweruptoys "POWERUP® on YouTube")
 
@@ -690,6 +692,7 @@ This warranty does not apply to: (a) consumable parts, such as batteries, or pro
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
 * [](https://www.instagram.com/poweruptoys/ "POWERUP® on Instagram")
+* [](https://www.tiktok.com/@poweruptoys "POWERUP® on TikTok")
 * [](https://twitter.com/Poweruptoys "POWERUP® on Twitter")
 * [](https://youtube.com/@Poweruptoys "POWERUP® on YouTube")
 
