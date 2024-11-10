@@ -207,9 +207,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +251,15 @@ Latest News
 
 [China reaffirms boundaries of sea near flash point reef](https://www.japantimes.co.jp/news/2024/11/10/asia-pacific/china-sea-reaffirms-boundaries/ "China reaffirms boundaries of sea near flash point reef")
 
-4 hours ago
+9 hours ago
 
 [Nippon Ishin chief refuses to cooperate with Ishiba government](https://www.japantimes.co.jp/news/2024/11/10/japan/politics/nippon-ishin-refuses-cooperate/ "Nippon Ishin chief refuses to cooperate with Ishiba government")
 
-6 hours ago
-
 [Fire breaks out on Japan MSDF ship; cause under investigation](https://www.japantimes.co.jp/news/2024/11/10/japan/fire-breaks-out-from-msdf-ship/ "Fire breaks out on Japan MSDF ship; cause under investigation")
-
-7 hours ago
 
 [Silicon Valley’s Trump supporters envision ascendant startups and Vance 2028](https://www.japantimes.co.jp/news/2024/11/10/world/politics/silicon-valley-trump-vance/ "Silicon Valley’s Trump supporters envision ascendant startups and Vance 2028")
 
-8 hours ago
-
 [Taiwan sees a higher price for U.S. support as Trump returns to power](https://www.japantimes.co.jp/news/2024/11/10/asia-pacific/politics/taiwan-us-support-trump/ "Taiwan sees a higher price for U.S. support as Trump returns to power")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
