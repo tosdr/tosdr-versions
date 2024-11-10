@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,7 +114,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111842-our-president-2024-11-09)
+     [](https://patriotpost.us/memes/111850-2-chronicles-7-14-2024-11-10)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -147,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
