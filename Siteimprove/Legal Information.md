@@ -363,12 +363,12 @@ Support
 * [Developer Center](https://developer.siteimprove.com/)
 * [System Status](https://status.siteimprove.com/)
 
-*  [![](/globalassets/media/shared/social/linkedin_updated.svg) LinkedIn](https://www.linkedin.com/company/siteimprove)
-*  [![](/globalassets/media/shared/social/twitter.svg) Twitter](https://twitter.com/siteimprove)
-*  [![](/globalassets/media/shared/social/facebook.svg) Facebook](https://www.facebook.com/Siteimprove)
-*  [![](/globalassets/media/shared/social/youtube.svg) Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
+*  [![](/globalassets/media/shared/social/linkedin_updated.svg) LinkedIn icon - Visit us on LinkedIn](https://www.linkedin.com/company/siteimprove)
+*  [![](/globalassets/media/shared/social/twitter.svg) Twitter icon - Visit us on Twitter](https://twitter.com/siteimprove)
+*  [![](/globalassets/media/shared/social/facebook.svg) Facebook icon - Visit us on Facebook](https://www.facebook.com/Siteimprove)
+*  [![](/globalassets/media/shared/social/youtube.svg) Youtube icon - Visit us on Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
 
-![Leadership 2024](/globalassets/media/redesign2024/leader_2024_new.png)
+![Three award badges, each shaped like a shield with the "G2" logo at the top, and a red banner across the middle stating "Leader Fall 2024".](/globalassets/media/redesign2024/leader_fall_2024_new.png)
 
 Siteimprove is a leader in Digital Governance, Digital Analytics, and SEO Tools.
 
