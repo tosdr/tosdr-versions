@@ -160,9 +160,11 @@ Solutions
 
 [![eLearning Africa](https://assets-www.readspeaker.com/uploads/2024/10/openbadgefactory.png?width=120&height=120&quality=100&format=webp)](https://www.elearning-africa.com/)
 
+![Moodle Certification](https://assets-www.readspeaker.com/uploads/2024/11/CertifiedIntegrations_Outstanding-Growth-Award_Badge_DIGITAL.png?width=120&height=120&quality=100&format=webp)
+
 © ReadSpeaker B.V. All rights reserved.
 
-[linkedin](https://www.linkedin.com/company/readspeaker) [facebook](https://www.facebook.com/ReadSpeaker/) [youtube](https://www.youtube.com/channel/UC1XftPBh3QPQzoN0VW1QwWQ) [instagram](https://www.instagram.com/readspeaker/) [tiktok](https://www.tiktok.com/@readspeaker) [discord](https://okt.to/Fw4PZy) [x-twitter](https://x.com/ReadSpeaker)
+[linkedin](https://www.linkedin.com/company/readspeaker) [facebook](https://www.facebook.com/ReadSpeaker/) [youtube](https://www.youtube.com/channel/UC1XftPBh3QPQzoN0VW1QwWQ) [instagram](https://www.instagram.com/readspeaker/) [tiktok](https://www.tiktok.com/@readspeaker) [discord](https://discord.gg/G6bjeMYQ) [x-twitter](https://x.com/ReadSpeaker)
 
 [](https://www.readspeaker.com/)
 
