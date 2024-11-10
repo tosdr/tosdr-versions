@@ -279,23 +279,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Sidney Powell smiles behind shades](https://lawandcrime.com/wp-content/uploads/2024/02/AP23211748550041-432x243.jpeg)](https://lawandcrime.com/high-profile/kraken-lawyer-sidney-powell-ordered-to-produce-invasive-financial-documents-in-dominion-defamation-case/)
+1. [![Sidney Powell smiles behind shades](https://am22.mediaite.com/lc/cnt/uploads/2024/02/AP23211748550041-432x243.jpeg)](https://lawandcrime.com/high-profile/kraken-lawyer-sidney-powell-ordered-to-produce-invasive-financial-documents-in-dominion-defamation-case/)
     
     ### ['Kraken' lawyer Sidney Powell ordered to produce invasive financial documents in Dominion defamation case](https://lawandcrime.com/high-profile/kraken-lawyer-sidney-powell-ordered-to-produce-invasive-financial-documents-in-dominion-defamation-case/)
     
-2. [![Kari Lake](https://lawandcrime.com/wp-content/uploads/2023/10/AP23284082785369-432x243.jpg)](https://lawandcrime.com/high-profile/denied-arizona-supreme-court-issues-terse-rejection-of-kari-lakes-last-ditch-bid-to-become-governor-over-bogus-election-claims/)
+2. [![Kari Lake](https://am21.mediaite.com/lc/cnt/uploads/2023/10/AP23284082785369-432x243.jpg)](https://lawandcrime.com/high-profile/denied-arizona-supreme-court-issues-terse-rejection-of-kari-lakes-last-ditch-bid-to-become-governor-over-bogus-election-claims/)
     
     ### ['DENIED': Arizona Supreme Court issues terse rejection of Kari Lake's last-ditch bid to become governor over bogus election claims](https://lawandcrime.com/high-profile/denied-arizona-supreme-court-issues-terse-rejection-of-kari-lakes-last-ditch-bid-to-become-governor-over-bogus-election-claims/)
     
-3. [![An image of a fish sandwich stuffed with bacon inset against an image of a McDonald's.](https://lawandcrime.com/wp-content/uploads/2024/11/McDs-Alahmar-432x243.jpg)](https://lawandcrime.com/high-profile/mcdonalds-employees-intentionally-filled-fish-filet-with-bacon-and-gave-it-to-muslim-child-agency-finds/)
+3. [![An image of a fish sandwich stuffed with bacon inset against an image of a McDonald's.](https://am23.mediaite.com/lc/cnt/uploads/2024/11/McDs-Alahmar-432x243.jpg)](https://lawandcrime.com/high-profile/mcdonalds-employees-intentionally-filled-fish-filet-with-bacon-and-gave-it-to-muslim-child-agency-finds/)
     
     ### [McDonald's employees intentionally filled fish filet with bacon and gave it to Muslim child, agency finds](https://lawandcrime.com/high-profile/mcdonalds-employees-intentionally-filled-fish-filet-with-bacon-and-gave-it-to-muslim-child-agency-finds/)
     
-4. [![Left: Letitia James, wearing a red shirt, dark jacket, and pearl necklace, discusses Donald Trump's financial dealings at a press conference. Right: Donald Trump, wearing a white shirt, dark suit jacket, and a red ](https://lawandcrime.com/wp-content/uploads/2022/11/Letitia-James-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/we-will-put-your-fat-a-in-prison-potential-trump-ag-candidate-threatens-to-prosecute-letitia-james-for-conspiracy/)
+4. [![Left: Letitia James, wearing a red shirt, dark jacket, and pearl necklace, discusses Donald Trump's financial dealings at a press conference. Right: Donald Trump, wearing a white shirt, dark suit jacket, and a red ](https://am24.mediaite.com/lc/cnt/uploads/2022/11/Letitia-James-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/we-will-put-your-fat-a-in-prison-potential-trump-ag-candidate-threatens-to-prosecute-letitia-james-for-conspiracy/)
     
     ### ['We will put your fat a–– in prison': Potential Trump AG candidate threatens to prosecute Letitia James for conspiracy](https://lawandcrime.com/high-profile/we-will-put-your-fat-a-in-prison-potential-trump-ag-candidate-threatens-to-prosecute-letitia-james-for-conspiracy/)
     
-5. [![William Alexander Pope (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/11/jan6-5-432x243.jpg)](https://lawandcrime.com/high-profile/final-opportunity-to-make-peace-accused-jan-6-rioter-warns-judge-of-dangerous-cycle-of-retribution-in-asking-for-trial-delay-after-trump-victory/)
+5. [![William Alexander Pope (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/jan6-5-432x243.jpg)](https://lawandcrime.com/high-profile/final-opportunity-to-make-peace-accused-jan-6-rioter-warns-judge-of-dangerous-cycle-of-retribution-in-asking-for-trial-delay-after-trump-victory/)
     
     ### ['Final opportunity to make peace': Accused Jan. 6 rioter warns judge of 'dangerous cycle of retribution' in asking for trial delay after Trump victory](https://lawandcrime.com/high-profile/final-opportunity-to-make-peace-accused-jan-6-rioter-warns-judge-of-dangerous-cycle-of-retribution-in-asking-for-trial-delay-after-trump-victory/)
     
