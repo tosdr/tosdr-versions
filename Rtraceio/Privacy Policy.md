@@ -1,8 +1,11 @@
-LibreSpeed
-==========
+speed.rtrace.io
+===============
+
+Selecting a server...
 
   
-[Privacy](#)
+
+Server:
 
 Ping
 
@@ -14,11 +17,11 @@ ms
 
 Download
 
-Mbps
+Mbit/s
 
 Upload
 
-Mbps
+Mbit/s
 
 ### Share results
 
@@ -31,7 +34,7 @@ Test ID:
 Privacy Policy
 --------------
 
-This HTML5 Speedtest server is configured with telemetry enabled.
+This HTML5 speed test server is configured with telemetry enabled.
 
 #### What data we collect
 
@@ -63,8 +66,9 @@ By starting the test, you consent to the terms of this privacy policy.
 
 If you want to have your information deleted, you need to provide either the ID of the test or your IP address. This is the only way to identify your data, without this information we won't be able to comply with your request.  
   
-Contact this email address for all deletion requests: [admin@rtrace.io](mailto:admin@rtrace.io).
+Contact this email address for all deletion requests: [speed@rtrace.io](mailto:speed@rtrace.io).
 
   
   
+
 [Close](#)
