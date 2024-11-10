@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is there a blood test for asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-is-there-a-blood-test-for-asbestos-exposure-1.jpg "Is There a Blood Test for Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure "Is There a Blood Test for Asbestos Exposure?")
+[![What are the symptoms of malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-what-are-the-symptoms-of-malignant-mesothelioma-scaled.jpg "What Are the Symptoms of Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/ "What Are the Symptoms of Malignant Mesothelioma?")
 
-[#### Is There a Blood Test for Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure)
+[#### What Are the Symptoms of Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/)
 
-[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
+[![Have you witnessed elderly abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-have-you-witnessed-elderly-abuse-scaled-1.jpg "Have You Witnessed Elderly Abuse?")](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/ "Have You Witnessed Elderly Abuse?")
 
-[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
+[#### Have You Witnessed Elderly Abuse?](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/)
 
-[![What is talc used for?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-is-talc-used-for.jpg "What Is Talc Used For?")](https://www.pintas.com/talcum-powder/what-is-talc-used-for/ "What Is Talc Used For?")
+[![How do you know if lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-do-you-know-if-lung-cancer-is-caused-by-asbestos.jpg "How Do You Know If Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/ "How Do You Know If Lung Cancer Is Caused By Asbestos?")
 
-[#### What Is Talc Used For?](https://www.pintas.com/talcum-powder/what-is-talc-used-for/)
+[#### How Do You Know If Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
