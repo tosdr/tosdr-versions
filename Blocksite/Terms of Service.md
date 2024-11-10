@@ -102,6 +102,8 @@
     [Sign Up](https://user.blocksite.co/signup)
     
 
+[Home](https://blocksite.co/) » Terms of Use
+
 ![People Cards Left](https://blocksite.co/wp-content/uploads/2024/02/left-green-bg.4366c245.svg)
 
 ![People Cards Right](https://blocksite.co/wp-content/uploads/2024/02/right-green-bg.4b20eaff.svg)
