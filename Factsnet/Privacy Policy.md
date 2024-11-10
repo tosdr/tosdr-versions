@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![28 Facts About 1920s Music ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-1920s-music/)
+[![25 Facts About 1970s Cartoons ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2275%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/entertainment/25-facts-about-1970s-cartoons/)
 
-Performing Arts
+Entertainment
 
-09 Nov 2024
+10 Nov 2024
 
-[28 Facts About 1920s Music](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-1920s-music/)
+[25 Facts About 1970s Cartoons](https://facts.net/lifestyle/entertainment/25-facts-about-1970s-cartoons/)
 
-[![25 Facts About Rare Pokemon ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/characters/pokemon/25-facts-about-rare-pokemon/)
+[![30 Facts About Focal Dermal Hypoplasia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-focal-dermal-hypoplasia/)
 
-Pokemon
+Health Science
 
-09 Nov 2024
+10 Nov 2024
 
-[25 Facts About Rare Pokemon](https://facts.net/characters/pokemon/25-facts-about-rare-pokemon/)
+[30 Facts About Focal Dermal Hypoplasia](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-focal-dermal-hypoplasia/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
