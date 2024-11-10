@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.99%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_81/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/87f97a12890a9dedc54988979cb6ee7a769fffef)](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-for-2-million-20-000-and-a-touch-over-2000-20241028-p5km02)
+[![The New Bahru lifestyle precinct is housed in a former high school built around a shaded lawn.](https://static.ffx.io/images/$zoom_0.1304%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d732b3b7c89b844905694464d39b615050382eeb)](https://www.afr.com/life-and-luxury/design/singapore-layover-check-out-new-bahru-20241107-p5kold)
 
-### [Jewellery for $2m, $20,000 and a touch over $2000](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-for-2-million-20-000-and-a-touch-over-2000-20241028-p5km02)
+### [Singapore layover? Check out New Bahru](https://www.afr.com/life-and-luxury/design/singapore-layover-check-out-new-bahru-20241107-p5kold)
 
-* Eugenie Kelly
+* 56 mins ago
+* Stephen Todd
 
-* ### [Annoyed by all those driver alerts? Volvo’s working on it](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/annoyed-by-all-those-driver-alerts-volvo-s-working-on-it-20241023-p5kkuu)
+* ### [10 country and coastal retreats to book in 2025](https://www.afr.com/life-and-luxury/travel/10-country-and-coastal-retreats-to-book-in-2025-20241025-p5klfz)
     
-* ### [Jill Dupleix’s easy festive menu from three top cookbooks of 2023](https://www.afr.com/life-and-luxury/food-and-wine/jill-dupleix-s-easy-festive-menu-from-her-top-three-cookbooks-of-2023-20231030-p5efzq)
+* ### [Why late March is the best time of year to visit Hong Kong](https://www.afr.com/life-and-luxury/travel/why-late-march-is-the-best-time-of-year-to-visit-hong-kong-20240507-p5fpj1)
     
 
 [Rich List](https://www.afr.com/rich-list)
