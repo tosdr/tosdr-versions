@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have used it with great success for my Kindle!!
+Absolutely no complaints and have already re-subscribed to 1-yr extended service.
 
-Sheila Hargreaves
+Andrea Wai Ming Chan
