@@ -31,19 +31,6 @@ We have never provided any internal customer, member, or visitor information to 
   
 [Buy Individual Books](https://inteltechniques.com/books.html)  
   
-[Buy All 9 Books for $150](https://sowl.co/s/mDwVy)  
-
-[OSINT Techniques (10th Edition)](https://inteltechniques.com/book1.html)  
-[OSINT Techniques: Leaks, Breaches & Logs](https://inteltechniques.com/book1a.html)  
-[OSINT Techniques: The Ultimate Virtual Machine](https://inteltechniques.com/book1b.html)  
-[Extreme Privacy (5th Edition)](https://inteltechniques.com/book7.html)  
-[Extreme Privacy: Mobile Devices](https://inteltechniques.com/book7a.html)  
-[Extreme Privacy: macOS Devices](https://inteltechniques.com/book7b.html)  
-[Extreme Privacy: Linux Devices](https://inteltechniques.com/book7c.html)  
-[Extreme Privacy: VPNs & Firewalls](https://inteltechniques.com/book7d.html)  
-[This Book Was Self-Published](https://inteltechniques.com/book8.html)  
-
-Individual orders available on each book page. PDFs will be immediately available for download after purchase, and an email will also include the download link. You must provide an email address where we can reach you to deliver any updates. This can be a masked, forwarding, or private email provider, but please do not use temporary addresses which you will not be able to control in the future. All PDFs will include a visible and hidden watermark with your order number, but will not include your name, email, or any other personally identifying text. All orders are delivered via SendOwl, and purchasing details are submitted through our own Stripe account. We do not store your credit card information. Due to the nature of instant delivery of digital products, **all sales are final**.
 
 * Copyright © 2009-2024 IntelTechniques.com
 * All Rights Reserved
