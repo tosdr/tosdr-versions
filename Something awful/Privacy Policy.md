@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
-* [More Goons With Balloons](https://www.somethingawful.com/comedy-goldmine/goons-balloons-2/1/)
-* [Retail Horror Stories!](https://www.somethingawful.com/comedy-goldmine/retail-horror-stories/1/)
-* [Improper Ganda!](https://www.somethingawful.com/photoshop-phriday/improper-propaganda-posters/1/)
-* [Pretentious Games](https://www.somethingawful.com/photoshop-phriday/pretentious-games/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Toys: A Reality](https://www.somethingawful.com/comedy-goldmine/toys-a-reality/1/)
+* [101 Things to do with a Baby](https://www.somethingawful.com/comedy-goldmine/101-things-do/1/)
+* [More Art of Vampire: The Maquerade (1990s)](https://www.somethingawful.com/dungeons-and-dragons/vampire-artwork-montreal/1/)
+* [BeastForum, AnimeNation, and Girl.com.au](https://www.somethingawful.com/weekend-web/beastforum-animenation-girlcomau/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [SA gratitude journal](http://forums.somethingawful.com/showthread.php?threadid=4075072 "SA gratitude journal")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Native Heritage Month](http://forums.somethingawful.com/showthread.php?threadid=4075038 "Native Heritage Month")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Toxx for the Donnie stroke out itt.](http://forums.somethingawful.com/showthread.php?threadid=4075046 "Toxx for the Donnie stroke out itt.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [I want to go to jail](http://forums.somethingawful.com/showthread.php?threadid=4075039 "I want to go to jail")
 
 ### Random Articles
 
-* [AD&D 2nd Edition Al-Qadim Monstrous Compendium Appendix (1992)](https://www.somethingawful.com/dungeons-and-dragons/al-qadim-monsters/1/)
-* [Nintendo's Super Smash Bros for 3DS: COMPETITIVE GUIDE](https://www.somethingawful.com/news/super-smash-guide/)
-* [Mad Rail Skills](https://www.somethingawful.com/news/mad-rail-skills/)
-* [Travels With Doogie](https://www.somethingawful.com/news/travels-with-doogie/)
-* [Games with Randomly Generated Names!](https://www.somethingawful.com/comedy-goldmine/random-game-names/)
+* [Ain't Life Queer](https://www.somethingawful.com/news/aint-life-queer/)
+* [State Og Events: 2.1.2000 - 2.13.2000](https://www.somethingawful.com/state-og/state-og-events/)
+* [The Very Very Haunted House](https://www.somethingawful.com/flash-tub/very-very-haunted/)
+* [Walking Canes!](https://www.somethingawful.com/photoshop-phriday/walking-canes/1/)
+* [Aliens and UFO Art](https://www.somethingawful.com/awful-links/awful-link-3953/)
 
 [Random!](https://www.somethingawful.com/random/)
 
