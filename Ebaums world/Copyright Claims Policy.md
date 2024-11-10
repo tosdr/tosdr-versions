@@ -197,13 +197,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/) [‘You Got Lamb Chops, You Got Steak!’ Guy Refuses to Split $4,600 Bill Just Because It’s Somebody's Birthday](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/)
+    [![The 24 Worst Decisions in the History of Human Kind](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/) [The 24 Worst Decisions in the History of Human Kind](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/)
     
-    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
+    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
     
     [![21 Savage Insults That Burnt People to a Crisp](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/) [21 Savage Insults That Burnt People to a Crisp](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/)
     
-    [![pool emptying](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/) [Guy Notices Something Unusual When Emptying His Pool : Laminar Flow Phenomenon](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/)
+    [![a gallery of wtf and cringeworthy pics](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/) [59 Pics That Are The Epitome of Cringe](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/)
     
 
 * Advertisement
