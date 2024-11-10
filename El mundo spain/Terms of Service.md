@@ -1,14 +1,13 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZzBh5QoAAVAAAABbHYk)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZzC36woAAVAAAABbRPY)
 
 Es noticia
 
 * [Mazón](https://www.elmundo.es/comunidad-valenciana/2024/11/08/672e1cffe9cf4a7e518b459e.html)
 * [Maribel Vilaplana](https://www.elmundo.es/television/2024/11/08/672e316621efa0667b8b4591.html)
-* [DANA Valencia](https://www.elmundo.es/espana/2024/11/09/672f0ca7a75cca8941dbc6ec-directo.html)
+* [DANA Valencia](https://www.elmundo.es/espana/2024/11/10/673062aea75cca8941f40098-directo.html)
 * [Científico cáncer](https://www.elmundo.es/ciencia-y-salud/salud/2024/11/10/672df5a6fc6c834f588b4597.html)
 * [Mediación Qatar](https://www.elmundo.es/internacional/2024/11/09/672fc7b621efa0b6758b4574.html)
 * [Lágrimas Militao](https://www.elmundo.es/deportes/futbol/primera-division/2024/11/09/672f8e26e85ece86348b457a.html)
-* [Real Madrid - Osasuna](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/r-madrid-osasuna/2024/11/09/01_0101_20241109_186_450-directo.html)
 * [Crisis Alemania](https://www.elmundo.es/internacional/2024/11/10/672f85c4e9cf4a125e8b45a7.html)
 * [Copa de Maestros](https://www.elmundo.es/deportes/tenis/2024/11/09/672de2c3fc6c83be6a8b4587.html)
 * [Enfermera saturada](https://www.elmundo.es/ciencia-y-salud/salud/2024/11/10/672e136dfc6c83be6a8b4593.html)
@@ -22,11 +21,8 @@ Es noticia
 * [Manifestación DANA Valencia](https://www.elmundo.es/como/2024/11/08/672e075fe9cf4a7c648b457e.html)
 * [PP](https://www.elmundo.es/espana/2024/11/08/672d1c4afdddff39b58b45a3.html)
 * [ATP Finals](https://www.elmundo.es/como/2024/11/08/672dda1efdddff680f8b456d.html)
-* [Leptospirosis](https://www.elmundo.es/ciencia-y-salud/salud/2024/11/08/672dff0121efa077028b4580.html)
 * [Vestidos camiseros](https://www.elmundo.es/yodona/moda/2024/11/08/67286c17fdddffd05c8b457e.html)
-* [Alcaraz](https://www.elmundo.es/como/2024/11/08/672dfea2e4d4d86b318b4597.html)
 * [Escapada Madrid](https://www.elmundo.es/madrid/2024/11/08/672de1c1e85ece8a488b4590.html)
-* [Precio luz hoy](https://www.elmundo.es/como/2024/11/08/672ce6b2e9cf4aa6648b458e.html)
 * [Novedades Zara](https://www.elmundo.es/yodona/moda/2024/11/08/672df32421efa0fd7f8b457f.html)
 * [Festivos Madrid 2024](https://www.elmundo.es/como/2024/03/25/66014a62e9cf4aea7a8b4576.html)
 * [Calendario laboral España 2025](https://www.elmundo.es/como/2024/09/27/66f69e3be85ecefa1b8b457e.html)
