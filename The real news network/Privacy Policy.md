@@ -74,9 +74,9 @@ Trending Posts
 --------------
 
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
 * [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
-* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
@@ -138,9 +138,9 @@ Trending Posts
 --------------
 
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
 * [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
-* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
