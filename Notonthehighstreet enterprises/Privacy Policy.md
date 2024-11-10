@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-[Shop imaginative Christmas gifts](https://www.notonthehighstreet.com/christmas/christmas-gifts)
+[Shop in app & use APPONLY15 for 15% off](https://notonthehighstreet.onelink.me/XbOV/promo)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
