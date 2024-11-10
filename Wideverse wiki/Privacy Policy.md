@@ -73,7 +73,7 @@ Navigation menu
 * [Page information](https://wideboys.org/index.php?title=WIDEVERSE_Wiki:Privacy_policy&action=info "More information about this page")
 * [Browse properties](https://wideboys.org/Special:Browse/:WIDEVERSE-5FWiki:Privacy-5Fpolicy)
 
-* This page was last edited on 24 April 2019, at 21:16.
+* This page was last edited on 24 April 2019, at 20:16.
 
 * [Privacy policy](https://wideboys.org/WIDEVERSE_Wiki:Privacy_policy)
 * [About WIDEVERSE Wiki](https://wideboys.org/WIDEVERSE_Wiki:About)
