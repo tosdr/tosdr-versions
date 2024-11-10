@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I renewed with a new account for 3 months. I am very pleased with how easy it is to setup with the Firefox plugin and the speed is excellent!
+The service worked flawlessly, and when I travel overseas again in early January I will certainly renew.
 
-Gregory Chirichigno
+Scott Campbell
