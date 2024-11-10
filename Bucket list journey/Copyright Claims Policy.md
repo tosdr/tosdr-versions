@@ -194,7 +194,7 @@ Name Email Website
 
 ![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
 
-### Hey! I'm Annette.
+#### Hey! I'm Annette.
 
 I’m a goal obsessed mid-lifer, traveler, experience collector, fear crusher, content creator and author who is on a mission to give every dreamer the tools and inspiration to live their bucket list—one checkmark at a time.  
 [THERE'S MORE TO MY STORY](https://bucketlistjourney.net/about/) →
