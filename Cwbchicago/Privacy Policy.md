@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Darion-McMillian-326x245.jpg)](https://cwbchicago.com/2024/11/cop-killer-cut-off-electronic-monitoring-bracelet-while-running-from-pursuing-officers-officials.html "Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Timothy-Blaze-Yong-Suk-Lee-and-Samir-Marogail-326x245.jpg)](https://cwbchicago.com/2024/11/3-charged-with-burglarizing-gaming-lottery-machines-from-rogers-park-to-dunning.html "3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning")
 
-Chatham
+Dunning
 
-### [Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials](https://cwbchicago.com/2024/11/cop-killer-cut-off-electronic-monitoring-bracelet-while-running-from-pursuing-officers-officials.html "Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials")
+### [3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning](https://cwbchicago.com/2024/11/3-charged-with-burglarizing-gaming-lottery-machines-from-rogers-park-to-dunning.html "3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning")
 
-[November 6, 2024 5:48 PM](https://cwbchicago.com/2024/11)
+[November 7, 2024 8:27 AM](https://cwbchicago.com/2024/11)
 
-CHICAGO — Officials this afternoon revealed new details as they announced charges against the man they say killed Chicago Police Officer Enrique Martinez and a second person during a traffic stop Monday night. Darion McMillian, 23, of Harvey, is charged with first-degree murder of a peace officer, first-degree murder, attempted first-degree murder of a peace[](https://cwbchicago.com/2024/11/cop-killer-cut-off-electronic-monitoring-bracelet-while-running-from-pursuing-officers-officials.html "Cop killer cut off electronic monitoring bracelet while running from pursuing officers: officials")
+Three men, including two on parole, are accused of stealing thousands of dollars by breaking into video gaming and lottery machines at Chicago businesses.[](https://cwbchicago.com/2024/11/3-charged-with-burglarizing-gaming-lottery-machines-from-rogers-park-to-dunning.html "3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning")
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/07/Scott-Meherg-rec-326x245.jpg)](https://cwbchicago.com/2024/11/18-time-convicted-felon-gets-6-years-for-stealing-rare-baseball-cards.html "18-time convicted felon gets 6 years for stealing rare baseball cards")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/P24-3-060-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/cops-hunt-robber-whos-targeting-businesses-on-far-north-side.html "Cops hunt robber who’s targeting businesses on Far North Side")
 
 Lincoln Square
 
-### [18-time convicted felon gets 6 years for stealing rare baseball cards](https://cwbchicago.com/2024/11/18-time-convicted-felon-gets-6-years-for-stealing-rare-baseball-cards.html "18-time convicted felon gets 6 years for stealing rare baseball cards")
+### [Cops hunt robber who’s targeting businesses on Far North Side](https://cwbchicago.com/2024/11/cops-hunt-robber-whos-targeting-businesses-on-far-north-side.html "Cops hunt robber who’s targeting businesses on Far North Side")
 
-[November 6, 2024 9:28 AM](https://cwbchicago.com/2024/11)
+[November 7, 2024 5:41 AM](https://cwbchicago.com/2024/11)
 
-A 17-time felon added an 18th conviction to his résumé Monday when he pleaded guilty to stealing baseball cards worth tens of thousands of dollars. Scott Meherg, 44, pleaded guilty to felony theft in exchange for a six-year sentence from Judge Mary Margaret Brosnahan.[](https://cwbchicago.com/2024/11/18-time-convicted-felon-gets-6-years-for-stealing-rare-baseball-cards.html "18-time convicted felon gets 6 years for stealing rare baseball cards")
+Police have linked five recent business robberies on the Far North Side to a single man who may be armed.[](https://cwbchicago.com/2024/11/cops-hunt-robber-whos-targeting-businesses-on-far-north-side.html "Cops hunt robber who’s targeting businesses on Far North Side")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Navy-pier-above-326x245.jpg)](https://cwbchicago.com/2024/11/gunman-kills-2-at-navy-pier-known-suspect-remains-on-the-loose.html "Gunman kills 2 at Navy Pier, known suspect remains on the loose")
+[![](https://cwbchicago.com/wp-content/uploads/2021/12/Clarence-Anderson-and-suspect-photos-326x245.jpg)](https://cwbchicago.com/2024/11/serial-robber-possibly-responsible-for-20-holdups-gets-18-year-sentence.html "Serial robber, possibly responsible for 20 holdups, gets 18-year sentence")
 
-Streeterville
+Little Village
 
-### [Gunman kills 2 at Navy Pier, known suspect remains on the loose](https://cwbchicago.com/2024/11/gunman-kills-2-at-navy-pier-known-suspect-remains-on-the-loose.html "Gunman kills 2 at Navy Pier, known suspect remains on the loose")
+### [Serial robber, possibly responsible for 20 holdups, gets 18-year sentence](https://cwbchicago.com/2024/11/serial-robber-possibly-responsible-for-20-holdups-gets-18-year-sentence.html "Serial robber, possibly responsible for 20 holdups, gets 18-year sentence")
 
-[November 5, 2024 3:32 PM](https://cwbchicago.com/2024/11)
+[November 6, 2024 7:03 PM](https://cwbchicago.com/2024/11)
 
-A gunman killed two men at Navy Pier on Tuesday afternoon and then fled into Streeterville on foot. Chicago police suspect the killer is a recently fired employee at one of the pier’s restaurants.[](https://cwbchicago.com/2024/11/gunman-kills-2-at-navy-pier-known-suspect-remains-on-the-loose.html "Gunman kills 2 at Navy Pier, known suspect remains on the loose")
+The man prosecutors said may have been responsible for more than 20 robberies from Little Village to the North Side has been given an 18-year sentence.[](https://cwbchicago.com/2024/11/serial-robber-possibly-responsible-for-20-holdups-gets-18-year-sentence.html "Serial robber, possibly responsible for 20 holdups, gets 18-year sentence")
 
 Search
 
