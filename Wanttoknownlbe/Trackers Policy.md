@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/michael-moore-de-vs-is-niet-failliet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-fake-valse-alarm-melding-op-hawai/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -141,6 +141,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het lijkt op.. en HET IS ‘ETNISCHE ZUIVERING’
+
+[Het is te gek voor woorden maar op NOS TT pagina 125 stond d…](https://www.wanttoknow.nl/politiek/oorlog/het-lijkt-op-en-het-is-etnische-zuivering/comment-page-1/#comment-626365)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -389,14 +397,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### De sluiers worden opgelicht..!
 
 [Fantastisch geschreven stuk Harriet !…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626333)
-
-![AntiSoof](https://secure.gravatar.com/avatar/55ae105e9f793e127288fc6586c6467a?s=50&d=identicon&r=g)
-
-##### **AntiSoof** reacts on:
-
-##### De ‘gruwelijke’, volgende mRNA-ontwikkelingen!!
-
-[Hoi Guido. Het schijnt dat de paper al een tegen-paper heeft…](https://www.wanttoknow.nl/hoofdartikelen/de-gruwelijke-volgende-mrna-ontwikkelingen/comment-page-1/#comment-626332)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
