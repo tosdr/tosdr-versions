@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Country HouseSam Hunt<br><br>4:41am |
-| American KidsKenny Chesney<br><br>4:35am |
-| Life With YouKelsey Hart<br><br>4:33am |
-| Thinking 'Bout YouDustin Lynch Ft Mackenzie Porter<br><br>4:30am |
-| Love SomebodyMorgan Wallen<br><br>4:27am |
+| Miles On ItKane Brown Ft Marshmello<br><br>10:38am |
+| ToesZac Brown Band<br><br>10:34am |
+| I Am Not OkayJelly Roll<br><br>10:31am |
+| Dirt On My BootsJon Pardi<br><br>10:28am |
+| The BonesMaren Morris<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,17 +495,17 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
+Top 40 • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
