@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
 
 Service Stiftung Warentest
 
