@@ -244,8 +244,8 @@ Social Media
 * [](https://www.linkedin.com/company/rsltio/)
 * [](https://twitter.com/RSLTNYC)
 
-[![](https://rslt.io/wp-content/uploads/2021/06/2023-Honoree-Badge-2.png)](https://rslt.io/)
+[![](https://rslt.io/wp-content/uploads/2021/06/2023-Honoree-Badge-2.webp)](https://rslt.io/)
 
-![](https://rslt.io/wp-content/uploads/2021/06/Untitled-design-20.png)
+![](https://rslt.io/wp-content/uploads/2021/06/Untitled-design-20.webp)
 
 Copyright © 2022. All rights reserved.
