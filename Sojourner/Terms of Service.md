@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9b21ea15f0292ccf9b560b7dc94d0d25
+7beedcbd1e3e08a2123a7117e60655e5
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm by 10 mm faceted etched glass oval beads](https://sojourner.biz/images/cache/glass/GL0119.200.jpg)](https://sojourner.biz/beads/glass/12-mm-by-10-mm-faceted-etched-glass-oval-beads.html "12 mm by 10 mm faceted etched glass oval beads")
+[![Large fancy agate flat oval beads](https://sojourner.biz/images/cache/stone/STN015.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
 
-#### [12 mm by 10 mm faceted etched glass oval beads](https://sojourner.biz/beads/glass/12-mm-by-10-mm-faceted-etched-glass-oval-beads.html "12 mm by 10 mm faceted etched glass oval beads")
+#### [Large fancy agate flat oval beads](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
 
-$10.00
+$18.00
 
 ### Best Sellers
 
