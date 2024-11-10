@@ -83,13 +83,13 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Space policy is about to get pretty wild, y’all](https://cdn.arstechnica.net/wp-content/uploads/2024/11/49955873916_eec9e31e4c_k-768x432.jpg)](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
+1. [![Listing image for first story in Most Read: DNA shows Pompeii’s dead aren’t who we thought they were](https://cdn.arstechnica.net/wp-content/uploads/2024/11/pompeii2-768x432.jpg)](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-    1. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
+    1. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-2. 2. [New SMB-friendly subscription tier may be too late to stop VMware migrations](https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/)
+2. 2. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
     
-3. 3. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
+3. 3. [New SMB-friendly subscription tier may be too late to stop VMware migrations](https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/)
     
 4. 4. [Verizon, AT&T tell courts: FCC can’t punish us for selling user location data](https://arstechnica.com/tech-policy/2024/11/verizon-att-tell-courts-fcc-cant-punish-us-for-selling-user-location-data/)
     
