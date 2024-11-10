@@ -110,13 +110,9 @@ Get a clear picture of what your users experience to prioritize and fix issues](
 
 Product
 
-[Product Overview](https://instabug.com/product)[Bug Reporting](https://instabug.com/product/bug-reporting)[Crash Reporting](https://instabug.com/product/crash-reporting)[App Performance Monitoring](https://instabug.com/product/app-performance-monitoring)[Session Replay](https://instabug.com/product/session-replay)[Release Management](https://instabug.com/product/release-management)[In-App Surveys](https://instabug.com/product/in-app-surveys)[App Ratings and Reviews](https://instabug.com/product/app-ratings-reviews)
+[What is Mobile Observability?](https://instabug.com/mobile-observability)[AI-Powered Mobile Observability](https://instabug.com/ai)[Test Your App Before Every Release](https://instabug.com/usecase/test)[Improve Your App Stability and Performance](https://instabug.com/usecase/improve)[Collect Actionable User Feedback](https://instabug.com/usecase/collect)[Integrations](https://instabug.com/integrations)
 
-Platform
-
-[Why Instabug](https://instabug.com/platform/why-instabug)[Automated Reproduction](https://instabug.com/platform/automated-reproduction)[User-Centric Insights](https://instabug.com/platform/user-centric-insights)[Team Performance](https://instabug.com/platform/team-performance)[Release Centered](https://instabug.com/platform/release-centered)
-
-[Pricing](https://instabug.com/pricing)
+[Pricing](https://instabug.com/pricing)[Customers](https://instabug.com/customers)
 
 Developers
 
@@ -126,19 +122,13 @@ Platforms
 
 [iOS](https://instabug.com/platforms/ios)[Android](https://instabug.com/platforms/android)[Flutter](https://instabug.com/platforms/flutter)[Browse all Platforms](https://instabug.com/platforms)
 
-Integrations
-
-[Jira](https://instabug.com/integrations/jira)[Github](https://instabug.com/integrations/github)[Slack](https://instabug.com/integrations/slack)[Browse all Integrations](https://instabug.com/integrations)
-
-[Customers](https://instabug.com/customers)
-
 Resources
 
-[Blog](https://instabug.com/blog)[FAQs](https://instabug.com/faq)
+[Blog](https://instabug.com/blog)[Reviews](https://instabug.com/reviews)[FAQs](https://instabug.com/faq)
 
 Tools
 
-[Sentiment Analysis](https://instabug.com/sentiment-analysis)[ROI Calculator](https://instabug.com/roi-calculator)[Benchmark Report 2023](https://instabug.com/mobile-app-stability-outlook-2023)
+[Sentiment Analysis](https://instabug.com/sentiment-analysis)[ROI Calculator](https://instabug.com/roi-calculator)[Benchmark Report 2024](https://instabug.com/mobile-app-stability-outlook-2024)
 
 End-User Terms of Service
 =========================
