@@ -13,14 +13,18 @@ Site search input
 
 * [Subjects](https://www.teachervision.com/subject)
     
-    * * [Health and Safety](https://www.teachervision.com/subjects/health-safety)
+    * * [Art](https://www.teachervision.com/resources/art-music-drama)
+        * [Health and Safety](https://www.teachervision.com/subjects/health-safety)
         * [Language Arts and Writing](https://www.teachervision.com/subjects/language-arts-writing)
         * [Languages](https://www.teachervision.com/subjects/language-arts-writing/foreign-languages)
         * [Mathematics](https://www.teachervision.com/subjects/mathematics)
-    * * [Physical Education](https://www.teachervision.com/subjects/health-safety/physical-education-fitness)
+    * * [Music](https://www.teachervision.com/resources/music)
+        * [Physical Education](https://www.teachervision.com/subjects/health-safety/physical-education-fitness)
         * [Library](https://www.teachervision.com/subjects/reading-literature/library-resources)
         * [Reading and Literature](https://www.teachervision.com/subjects/reading-literature)
+        * [Geography](https://www.teachervision.com/resources/geography)
     * * [Science](https://www.teachervision.com/subjects/science)
+        * [Government](https://www.teachervision.com/resources/us-government)
         * [Social Studies and History](https://www.teachervision.com/subjects/social-studies-history)
         * [21st Century Skills-SEL](https://www.teachervision.com/futurefit)
     
