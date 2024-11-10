@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-knetterende-energieen-van-dit-moment/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/asperge-tegen-kanker/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
