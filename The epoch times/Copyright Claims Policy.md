@@ -160,70 +160,70 @@ TOP NEWS
 
 * [Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://www.theepochtimes.com/us/trump-wins-arizona-completing-sweep-of-7-battleground-states-5754084)
     
-    1hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    7hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
     [![Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753648-GettyImages-2182728325-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-wins-arizona-completing-sweep-of-7-battleground-states-5754084)
 * [Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://www.theepochtimes.com/us/trump-says-nikki-haley-mike-pompeo-wont-be-part-of-his-administration-5757245)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://img.theepochtimes.com/assets/uploads/2018/11/26/nikki-haley-e1543263355153-205x123.jpeg.webp)](https://www.theepochtimes.com/us/trump-says-nikki-haley-mike-pompeo-wont-be-part-of-his-administration-5757245)
 * [Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://www.theepochtimes.com/us/chinese-national-arrested-again-after-multiple-efforts-to-enter-mar-a-lago-5757235)
     
-    3hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    9hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
     [![Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757239-li-zijie-205x123.jpg.webp)](https://www.theepochtimes.com/us/chinese-national-arrested-again-after-multiple-efforts-to-enter-mar-a-lago-5757235)
 * [School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://www.theepochtimes.com/article/school-districts-that-spent-covid-19-money-on-hiring-now-grapple-with-layoffs-5743002)
     
-    3hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    9hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
     
     [![School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756826-School-layoffs-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/school-districts-that-spent-covid-19-money-on-hiring-now-grapple-with-layoffs-5743002)
 * [Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://www.theepochtimes.com/business/space-heaters-baby-sleepwear-recalled-due-to-burn-hazard-5757116)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757119-Kyte-1-205x123.jpg.webp)](https://www.theepochtimes.com/business/space-heaters-baby-sleepwear-recalled-due-to-burn-hazard-5757116)
 * [Long Bitter Foes, US and Russia Face Prospect of Talks After Trump Election Win](https://www.theepochtimes.com/us/long-bitter-foes-us-and-russia-face-prospect-of-talks-after-trump-election-win-5756786)
     
-    4hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    10hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
     [![Long Bitter Foes, US and Russia Face Prospect of Talks After Trump Election Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Long Bitter Foes, US and Russia Face Prospect of Talks After Trump Election Win](https://img.theepochtimes.com/assets/uploads/2022/03/15/GettyImages-1152460535-205x123.jpg.webp)](https://www.theepochtimes.com/us/long-bitter-foes-us-and-russia-face-prospect-of-talks-after-trump-election-win-5756786)
 * [Stunned by Election Results, Democrats Continue to Point Fingers](https://www.theepochtimes.com/us/stunned-by-election-results-democrats-continue-to-point-fingers-5757118)
     
-    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    10hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Stunned by Election Results, Democrats Continue to Point Fingers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Stunned by Election Results, Democrats Continue to Point Fingers](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755684-11062024-DSC08452-Harris-concession-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/stunned-by-election-results-democrats-continue-to-point-fingers-5757118)
 * [Day in Photos: Protest Over Floods, Railway Explosion, and a Lookalike Competition](https://www.theepochtimes.com/article/day-in-photos-protest-over-floods-railway-explosion-and-a-lookalike-competition-5757101)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Protest Over Floods, Railway Explosion, and a Lookalike Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Protest Over Floods, Railway Explosion, and a Lookalike Competition](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757213-GettyImages-2183872862-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-protest-over-floods-railway-explosion-and-a-lookalike-competition-5757101)
 * [Here Are the Uncalled House Races That Will Determine Control of the Chamber](https://www.theepochtimes.com/us/here-are-the-uncalled-house-races-that-will-determine-control-of-the-chamber-5757110)
     
-    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    11hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Here Are the Uncalled House Races That Will Determine Control of the Chamber](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Here Are the Uncalled House Races That Will Determine Control of the Chamber](https://img.theepochtimes.com/assets/uploads/2024/07/16/id5687637-GettyImages-1246018028-205x123.jpg.webp)](https://www.theepochtimes.com/us/here-are-the-uncalled-house-races-that-will-determine-control-of-the-chamber-5757110)
 * [2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://www.theepochtimes.com/us/2-women-arrested-in-colorado-ballot-scheme-tried-to-test-voting-signature-system-affidavit-5757121)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
