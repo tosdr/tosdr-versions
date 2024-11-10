@@ -1,15 +1,15 @@
-Saturday, November 9 2024
+Sunday, November 10 2024
 
 Breaking News
 
+* [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
+* [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/)
+* [Major Automaker Exec Flatly Says Liberals’ EV ‘Mandates’ Are ‘Impossible’ To Meet](https://www.conservativedailynews.com/2024/11/major-automaker-exec-flatly-says-liberals-ev-mandates-are-impossible-to-meet/)
+* [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
+* [With Trump Returning To Power, Europe Chief Weighs Idea Of Buying More Natural Gas From US Instead Of Russia](https://www.conservativedailynews.com/2024/11/with-trump-returning-to-power-europe-chief-weighs-idea-of-buying-more-natural-gas-from-us-instead-of-russia/)
+* [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/)
 * [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/)
 * [JD Vance Has Four Years To Be Ready](https://www.conservativedailynews.com/2024/11/jd-vance-has-four-years-to-be-ready/)
-* [Colorado Voters Decide To Tax Firearms, Ammo](https://www.conservativedailynews.com/2024/11/colorado-voters-decide-to-tax-firearms-ammo/)
-* [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/)
-* [Republicans Are Showing The Democrats What Joy Looks Like](https://www.conservativedailynews.com/2024/11/republicans-are-showing-the-democrats-what-joy-looks-like/)
-* [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/)
-* [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/)
-* [President Biden Addresses the Nation About Election Results – 11/7/24](https://www.conservativedailynews.com/2024/11/president-biden-addresses-the-nation-about-election-results-11-7-24/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -116,72 +116,74 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
+    
+    [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
+    
+    November 9, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/why-trump-won/)
     
     [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/)
     
     November 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
-    
-    [Trump’s Legal Problems Evaporate As Americans Send Him Back To The White House](https://www.conservativedailynews.com/2024/11/trumps-legal-problems-evaporate-as-americans-send-him-back-to-the-white-house/)
-    
-    November 6, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5753-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-kamala-lost/)
     
-    [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/)
+    [Why Kamala Lost](https://www.conservativedailynews.com/2024/11/why-kamala-lost/)
+    
+    November 10, 2024
+    
+* [![Democrats Trump is Hitler Card](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
+    
+    [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
     
     November 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5751.webp-220x150.webp)](https://www.conservativedailynews.com/2024/11/jd-vance-has-four-years-to-be-ready/)
+* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/)
     
-    [JD Vance Has Four Years To Be Ready](https://www.conservativedailynews.com/2024/11/jd-vance-has-four-years-to-be-ready/)
+    [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/)
     
-    November 8, 2024
+    November 9, 2024
     
-* [![second amendment](https://www.conservativedailynews.com/wp-content/uploads/2017/06/second-amendment.jpg)](https://www.conservativedailynews.com/2024/11/colorado-voters-decide-to-tax-firearms-ammo/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/major-automaker-exec-flatly-says-liberals-ev-mandates-are-impossible-to-meet/)
     
-    [Colorado Voters Decide To Tax Firearms, Ammo](https://www.conservativedailynews.com/2024/11/colorado-voters-decide-to-tax-firearms-ammo/)
+    [Major Automaker Exec Flatly Says Liberals’ EV ‘Mandates’ Are ‘Impossible’ To Meet](https://www.conservativedailynews.com/2024/11/major-automaker-exec-flatly-says-liberals-ev-mandates-are-impossible-to-meet/)
     
-    November 8, 2024
+    November 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/11/good-news-americans-are-no-longer-listening-to-mass-media/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/10/Hamas-220x150.jpg)](https://www.conservativedailynews.com/2024/11/qatar-reportedly-expels-hamas-following-terrorist-groups-latest-rejection-of-ceasefire-deal/)
     
-    [Good News: Americans Are No Longer Listening to Mass Media](https://www.conservativedailynews.com/2024/11/good-news-americans-are-no-longer-listening-to-mass-media/)
+    [Qatar Reportedly Expels Hamas Following Terrorist Group’s Latest Rejection Of Ceasefire Deal](https://www.conservativedailynews.com/2024/11/qatar-reportedly-expels-hamas-following-terrorist-groups-latest-rejection-of-ceasefire-deal/)
     
-    November 8, 2024
+    November 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/why-trump-won/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
     
-    [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/)
+    [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
     
-    November 8, 2024
+    November 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5748-scaled-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/republicans-are-showing-the-democrats-what-joy-looks-like/)
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/11/with-trump-returning-to-power-europe-chief-weighs-idea-of-buying-more-natural-gas-from-us-instead-of-russia/)
     
-    [Republicans Are Showing The Democrats What Joy Looks Like](https://www.conservativedailynews.com/2024/11/republicans-are-showing-the-democrats-what-joy-looks-like/)
+    [With Trump Returning To Power, Europe Chief Weighs Idea Of Buying More Natural Gas From US Instead Of Russia](https://www.conservativedailynews.com/2024/11/with-trump-returning-to-power-europe-chief-weighs-idea-of-buying-more-natural-gas-from-us-instead-of-russia/)
     
-    November 8, 2024
+    November 9, 2024
     
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/07/man-in-handcuffs.jpg)](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/)
     
-    [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/)
+    [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/)
     
-    November 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
-    
-    [A Sincere Thank You](https://www.conservativedailynews.com/2024/11/a-sincere-thank-you/)
-    
-    November 7, 2024
+    November 9, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The Origin Of The ‘Plow Handle’ Grip Shape In Early Pistols](https://www.thegunpage.com/the-origin-of-the-plow-handle-grip-shape-in-early-pistols/10611781)
+* [Silencer Saturday #354: SHOT Show 2025 Predictions](https://www.thegunpage.com/silencer-saturday-354-shot-show-2025-predictions/10611780)
 * [Georgia Teen Arrested After Killing A Man While Playing With A Gun](https://www.thegunpage.com/georgia-teen-arrested-after-killing-a-man-while-playing-with-a-gun/10611778)
 * [Looking Back At The 2009 NRA National Smallbore Rifle Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-smallbore-rifle-championship/10611772)
 * [The 5 Best Full-Size Handguns](https://www.thegunpage.com/the-5-best-full-size-handguns/10611769)
@@ -190,8 +192,6 @@ Recent Posts
 * [TFB Podcast Roundup 154: The November 8th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-154-the-november-8th-roundup/10611771)
 * [GOA VICTORY: Federal Judge Eviscerates Illinois AR-15 & 30+ Round Magazine Ban, Permanently Enjoins Enforcement](https://www.thegunpage.com/goa-victory-federal-judge-eviscerates-illinois-ar-15-30-round-magazine-ban-permanently-enjoins-enforcement/10611765)
 * [The Ban on Machinegun Conversion Devices Is Archaic & Ineffective](https://www.thegunpage.com/the-ban-on-machinegun-conversion-devices-is-archaic-ineffective/10611762)
-* [Zarges Medium Pistol and Gear Case: Is It Worth the Investment?](https://www.thegunpage.com/zarges-medium-pistol-and-gear-case-is-it-worth-the-investment/10611760)
-* [PA: PA-GOA Team Ensures Harris Defeat](https://www.thegunpage.com/pa-pa-goa-team-ensures-harris-defeat/10611763)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,15 +233,15 @@ Contact Us
 
 Recent Comments
 
+* Timothy Hardiman on [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/#comment-783144)
+* Jeff L. on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783141)
+* KayCee on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783139)
 * Stanley Warner on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783130)
 * [Ted Thomas](http://cdn/) on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783096)
 * Ted Thomas on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783095)
 * John on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783065)
 * Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783064)
 * Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783063)
-* [Bill](http://conservativedailynews.com/) on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783060)
-* Caesar Avalos on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783047)
-* charles wilkins on [Garbage Day](https://www.conservativedailynews.com/2024/11/garbage-day/#comment-783044)
 
 [Close](#)
 
