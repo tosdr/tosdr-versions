@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZzC37AoAAVEAAABcxQQ)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZzELUwoAAVEAAABcnqA)
 
 Es noticia
 
@@ -7,6 +7,7 @@ Es noticia
 * [DANA Valencia](https://www.elmundo.es/espana/2024/11/10/673062aea75cca8941f40098-directo.html)
 * [Científico cáncer](https://www.elmundo.es/ciencia-y-salud/salud/2024/11/10/672df5a6fc6c834f588b4597.html)
 * [Mediación Qatar](https://www.elmundo.es/internacional/2024/11/09/672fc7b621efa0b6758b4574.html)
+* [Lola Índigo](https://www.elmundo.es/cultura/musica/2024/11/10/6730e1fee9cf4a671c8b457e.html)
 * [Lágrimas Militao](https://www.elmundo.es/deportes/futbol/primera-division/2024/11/09/672f8e26e85ece86348b457a.html)
 * [Crisis Alemania](https://www.elmundo.es/internacional/2024/11/10/672f85c4e9cf4a125e8b45a7.html)
 * [Copa de Maestros](https://www.elmundo.es/deportes/tenis/2024/11/09/672de2c3fc6c83be6a8b4587.html)
