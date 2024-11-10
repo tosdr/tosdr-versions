@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:40am |
-| People Are CrazyBilly Currington<br><br>10:36am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>10:33am |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:29am |
-| Life Is A HighwayRascal Flatts<br><br>10:25am |
+| Beautiful As YouThomas Rhett<br><br>4:38pm |
+| Drink A BeerLuke Bryan<br><br>4:35pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>4:32pm |
+| I Never LieZach Top<br><br>4:28pm |
+| I Like It, I Love ItTim Mcgraw<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
