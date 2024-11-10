@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-09 Nov 2024
+10 Nov 2024
 
 * [Home
     
@@ -259,23 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Derry man sadly dies while on holiday in Thailand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man sadly dies while on holiday in Thailand")](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
+[![IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final")](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
 
-The late Philip Howell.
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man sadly dies while on holiday in Thailand](https://www.derrynow.com/news/local-news/1651416/derry-man-sadly-dies-while-on-holiday-in-thailand.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final")](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
-
-Flares lighting up Derry's Craigavon Bridge
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fireworks and flares light up Derry's Craigavon Bridge ahead of FAI Cup Final](https://www.derrynow.com/news/local-news/1651444/fireworks-and-flares-light-up-derry-s-craigavon-bridge-ahead-of-fai-cup-final.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
 
@@ -283,13 +272,6 @@ Flares lighting up Derry's Craigavon Bridge
 
 [Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road")](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
 
@@ -340,6 +322,15 @@ Mayor Lilian Seenoi-Barr, at her meeting with Santa Claus to discuss the Council
 
 [Mayor welcomes special visitor to Derry's Guildhall](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final")](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
+
+The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by ROSSNA MILLIE in 29.26. Pictured with (from left) Stuart Harpur with Sienna, Kirsty Harpur (centre) with Ava & Alyssah.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
