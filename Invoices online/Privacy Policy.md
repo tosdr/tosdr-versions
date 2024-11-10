@@ -117,56 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Shaun Gartshore
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=21970542)  
-McKaynine Mobility
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=65113902)  
+TurboFibre
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=51347713)  
-FX ACCOUNTING
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=163794992)  
+Redlum Group (Pty) Ltd
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=103120947)  
-Abandoned Vehicle and Truck Solutions
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=170571250)  
+Roekeloos Group
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=184483609)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=171291776)  
+VerdanTech Pty Ltd
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=5824015)  
-MR Compressors& Industrial Supplies
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=11136470)  
+Import Maaw
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=125167320)  
-FJW Security Cc
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=183629717)  
+Know Informatics
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=163444356)  
-Frequency Fanatics (Pty) Ltd
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=92421191)  
+Echo Recording Studio cc
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=115427779)  
-APTV Telecoms CC
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=29861891)  
+Mtunzini Group
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=52910114)  
-Skinz Printing & Branding
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=37430039)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=39536094)  
-Lion Software Develepment
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=31045498)  
+Printo
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=19031516)  
-Oak Tree Immigration
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=160893868)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=144537673)  
-Repairs In Motion
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=182100697)  
+Wiselink Broadband Dundee
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=24659246)  
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=181527593)  
+Henry's Home Renovations
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=140955469)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=188124414)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=938d136cee11e11caa4afe8e51187b8837c495538e667ef9407d89e49286ca7a&c=60837118)  
-LEO DEVELOPMENT GROUP
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=aab565df94ae0cb0cdccb3ffa78fc091f8077a87b2183e15a96b458e56ba3af3&c=1893588)  
+Fox Alarms & Security CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
