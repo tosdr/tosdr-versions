@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-05822fea87f35595897d1445f9ac1189
+43f45612911718ad9fa7f2b61408ef23
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Green swirl button clasp](https://sojourner.biz/images/cache/SKU0279front.200.jpg)](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
+[![7 mm milk glass heart beads](https://sojourner.biz/images/cache/glass/HRT010.200.jpg)](https://sojourner.biz/beads/glass/7-mm-milk-glass-heart-beads.html "7 mm milk glass heart beads")
 
-#### [Green swirl button clasp](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
+#### [7 mm milk glass heart beads](https://sojourner.biz/beads/glass/7-mm-milk-glass-heart-beads.html "7 mm milk glass heart beads")
 
-$17.00
+$2.00
 
 ### Best Sellers
 
