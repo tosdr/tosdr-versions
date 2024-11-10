@@ -12,11 +12,7 @@ Close
 
 ![](data:,)
 
-[![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdyZxg7shgG0BEdqTncVMSyiJF9JVQZJhPpPOIcIDc5ec)![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdDoXbfCYG4xDpfxcBVW04SCJF9JVQZJhPpPOIcIDc5ec)
-
-Stop Cyberbullying Day
-
-We are united in the fight against online bullying and encourage everyone to be kinder to each other!](https://ok.ru/dk?st.cmd=anonymMain)
+[](https://ok.ru/dk?st.cmd=anonymMain)
 
 English
 
