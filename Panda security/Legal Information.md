@@ -11,6 +11,16 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
+: :
+
+Renew and get **50% off**
+
+: :
+
+\-50%
+
+**Renew Panda Dome**
+
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
