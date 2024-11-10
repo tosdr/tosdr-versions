@@ -113,11 +113,6 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -133,34 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+* [![Reggae Britannia](/wp-content/thumbnails/5597-100x70.jpg?x53432)
     
-    Pedigree Dogs Exposed
+    Reggae Britannia
     
-    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![First Peoples: Europe](/wp-content/thumbnails/10204-100x70.jpg?x53432)
+    The acclaimed BBC4 Britannia series moves into the world of British reggae. Showing how it came from Jamaica in the 1960s to influence, over the next 20 years, both British music and society.The doc](https://documentaryheaven.com/reggae-britannia/ "Reggae Britannia")
+* [![The Secret of Drawing](/wp-content/thumbnails/9894-100x70.jpg?x53432)
     
-    First Peoples: Europe
+    The Secret of Drawing
     
-    Today we have Europe to ourselves we are all modern humans but when we first arrived in this land it was already a home for our cousins, the Neanderthals. We used to think that we were so much more ad](https://documentaryheaven.com/first-peoples-europe/ "First Peoples: Europe")
-* [![Living on Bitcoin for a Week](/wp-content/thumbnails/13482-100x70.jpg?x53432)
+    Once upon a time the ability to draw was seen as the first and most essential skill of any artist, but in the age of the unmade bed and the pickled shark, drawing is widely perceived as an old fashion](https://documentaryheaven.com/secret-of-drawing/ "The Secret of Drawing")
+* [![180° The Movie](/wp-content/thumbnails/6596-100x70.png?x53432)
     
-    Living on Bitcoin for a Week
+    180° The Movie
     
-    From the producer of the documentary Super Size Me, Morgan Spurlock now sets out to take on the strange new world of bitcoin and attempt to survive on nothing but the digital currency for a week.W](https://documentaryheaven.com/living-on-bitcoin-for-week/ "Living on Bitcoin for a Week")
-* [![The Choice is Ours](/wp-content/thumbnails/12885-100x70.jpg?x53432)
+    Christian Evangelist, Ray Comfort attacks again. The main premise in this film is the portrayal of abortion as modern Holocaust, thus claiming to be a powerful, irrefutable argument against abortion t](https://documentaryheaven.com/180-the-movie/ "180° The Movie")
+* [![Iranium](/wp-content/thumbnails/5058-100x70.jpg?x53432)
     
-    The Choice is Ours
+    Iranium
     
-    The Choice is Ours is a film by The Venus Project, it explores many aspects of our society and sets about rethinking the possibilities available to us in our world, dispelling the myth of so called "H](https://documentaryheaven.com/choice-is-ours/ "The Choice is Ours")
-* [![The Amityville Horror: The Real Story](/wp-content/thumbnails/4899-100x70.jpg?x53432)
+    Iran's nuclear program presents a threat to international stability. Yet successive American administrations-Republican and Democratic alike-have misread the intentions and actions of the Iranian regi](https://documentaryheaven.com/iranium/ "Iranium")
+* [![Mind Control: America’s Secret War](/wp-content/thumbnails/1470-100x70.jpg?x53432)
     
-    The Amityville Horror: The Real Story
+    Mind Control: America’s Secret War
     
-    On 13 November 1974, police discovered six members of the De Feo family shot dead; the father, mother and four of the five children, at 112 Ocean Avenue in Amityville, New York. Attention turned to Ro](https://documentaryheaven.com/the-amityville-horror-the-real-story/ "The Amityville Horror: The Real Story")
+    It is one of the ill-kept secrets of America's intelligence agencies-for decades, they have worked virtually non-stop to perfect means of controlling the human mind. But while many have suspected the](https://documentaryheaven.com/mind-control-americas-secret-war/ "Mind Control: America’s Secret War")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
