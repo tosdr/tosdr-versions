@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Saturday, November 9 2024
+Sunday, November 10 2024
 
 Latest
 
-* [A new iOS 18 security feature makes it harder for police to unlock iPhones](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
-* [Who is Amara in Arcane Season 2? Answered](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
-* [UK launches platform to help businesses manage AI risks, build trust](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
-* [These Are the Best Tech Deals From Target’s Early Black Friday Sale](https://digitpatrox.com/these-are-the-best-tech-deals-from-targets-early-black-friday-sale/)
-* [How to Protect Yourself in a Multicar Pileup Due to Fog, Sno](https://digitpatrox.com/how-to-protect-yourself-in-a-multicar-pileup-due-to-fog-sno/)
-* [How to Change What Your iPhone Action Button Does Based on the Time](https://digitpatrox.com/how-to-change-what-your-iphone-action-button-does-based-on-the-time/)
-* [Why Customers and Companies Love Interactive Voice Response](https://digitpatrox.com/why-customers-and-companies-love-interactive-voice-response/)
-* [5 best new movies to watch this weekend on Netflix, Hulu, Prime Video and more](https://digitpatrox.com/5-best-new-movies-to-watch-this-weekend-on-netflix-hulu-prime-video-and-more/)
-* [HPE warns of critical RCE flaws in Aruba Networking access points](https://digitpatrox.com/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/)
-* [Mobvoi Home Walking Treadmill review: the smart features stressed me out](https://digitpatrox.com/mobvoi-home-walking-treadmill-review-the-smart-features-stressed-me-out/)
+* [Google says “Enhanced protection” feature in Chrome now uses AI](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
+* [There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
+* [Arcane Season 2: Who Survived and Died in Jinx’s Attack on Piltover Council?](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
+* [The secret to summarizing notifications on Android – Computerworld](https://digitpatrox.com/the-secret-to-summarizing-notifications-on-android-computerworld/)
+* [How to Structure a Cardio Playlist, According to a Spin Instructor](https://digitpatrox.com/how-to-structure-a-cardio-playlist-according-to-a-spin-instructor/)
+* [Windows 11 keeps adding clutter to the context menu with KB5046745 & KB5046746](https://digitpatrox.com/windows-11-keeps-adding-clutter-to-the-context-menu-with-kb5046745-kb5046746/)
+* [Why You Should Use Your TV’s Filmmaker Mode](https://digitpatrox.com/why-you-should-use-your-tvs-filmmaker-mode/)
+* [Reddit’s Search Is Not Good, but These Tricks Will Help](https://digitpatrox.com/reddits-search-is-not-good-but-these-tricks-will-help/)
+* [Apple’s iOS 18.2 Beta Brings AI Features](https://digitpatrox.com/apples-ios-18-2-beta-brings-ai-features/)
+* [Score! One of our favorite Mini-LED TVs of the year is $600 off in early Black Friday deal](https://digitpatrox.com/score-one-of-our-favorite-mini-led-tvs-of-the-year-is-600-off-in-early-black-friday-deal/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/DKxT_9dadzZqXlaO7Cp0r-yWlbI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532313/STK478_breaking_into_phone_C.jpg)](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/04/02/Google-Chrome.jpg)](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
     
-    [A new iOS 18 security feature makes it harder for police to unlock iPhones](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
+    [Google says “Enhanced protection” feature in Chrome now uses AI](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
     
-    1 min ago
+    5 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Amara-in-Arcane.jpg)](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
+* [![](https://cdn.vox-cdn.com/thumbor/AfZr1qOISqug1UnRuCpsxv8ERAU=/0x0:1089x753/1200x628/filters:focal(525x168:526x169)/cdn.vox-cdn.com/uploads/chorus_asset/file/25723451/Screenshot_2024_11_09_at_4.26.56_PM.png)](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
     
-    [Who is Amara in Arcane Season 2? Answered](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
+    [There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
     
-    20 mins ago
+    22 mins ago
     
-* [![](https://www.cio.com/wp-content/uploads/2024/11/3600688-0-05051500-1730993537-uk-united-kingdom_fallback_generic_shutterstock_1666920130-100909877-orig-100918586-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Jinx-attacks.jpg)](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
     
-    [UK launches platform to help businesses manage AI risks, build trust](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
+    [Arcane Season 2: Who Survived and Died in Jinx’s Attack on Piltover Council?](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
     
-    2 hours ago
+    41 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JC6PQAFVPKQ4XK2QNFCP0KJC/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-are-the-best-tech-deals-from-targets-early-black-friday-sale/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3598927-0-54573300-1730890056-android-notifications-16x9-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-secret-to-summarizing-notifications-on-android-computerworld/)
     
-    [These Are the Best Tech Deals From Target’s Early Black Friday Sale](https://digitpatrox.com/these-are-the-best-tech-deals-from-targets-early-black-friday-sale/)
+    [The secret to summarizing notifications on Android – Computerworld](https://digitpatrox.com/the-secret-to-summarizing-notifications-on-android-computerworld/)
     
     3 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1698157852/prod/content/dam/CRO-Images-2023/10October/Cars/CR-Cars-InlineHero-How-to-Protect-Yourself-Multicar-Pileup-Update-1023)](https://digitpatrox.com/how-to-protect-yourself-in-a-multicar-pileup-due-to-fog-sno/)
+* [![](https://lifehacker.com/imagery/articles/01JC6Q0BQDGDNHC2CX53WRMJW0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-structure-a-cardio-playlist-according-to-a-spin-instructor/)
     
-    [How to Protect Yourself in a Multicar Pileup Due to Fog, Sno](https://digitpatrox.com/how-to-protect-yourself-in-a-multicar-pileup-due-to-fog-sno/)
+    [How to Structure a Cardio Playlist, According to a Spin Instructor](https://digitpatrox.com/how-to-structure-a-cardio-playlist-according-to-a-spin-instructor/)
     
     3 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 min ago
+* [5 mins ago
     
-    ### A new iOS 18 security feature makes it harder for police to unlock iPhones](https://digitpatrox.com/a-new-ios-18-security-feature-makes-it-harder-for-police-to-unlock-iphones/)
-* [20 mins ago
+    ### Google says “Enhanced protection” feature in Chrome now uses AI](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
+* [22 mins ago
     
-    ### Who is Amara in Arcane Season 2? Answered](https://digitpatrox.com/who-is-amara-in-arcane-season-2-answered/)
-* [2 hours ago
+    ### There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
+* [41 mins ago
     
-    ### UK launches platform to help businesses manage AI risks, build trust](https://digitpatrox.com/uk-launches-platform-to-help-businesses-manage-ai-risks-build-trust/)
+    ### Arcane Season 2: Who Survived and Died in Jinx’s Attack on Piltover Council?](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
 
 Most Popular Topics
 
-* [September 11, 2024
+* [August 18, 2024
     
-    ### My Favorite Amazon Deal of the Day: The Google Pixel 8 Pro (With a Free Pixel Watch)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-google-pixel-8-pro-with-a-free-pixel-watch/)
-* [September 27, 2024
+    ### A Googler’s guide to getting things done](https://digitpatrox.com/a-googlers-guide-to-getting-things-done/)
+* [August 24, 2024
     
-    ### Asus Zenbook S14 review | ITPro](https://digitpatrox.com/asus-zenbook-s14-review-itpro/)
-* [August 30, 2024
+    ### Why I Stopped Trusting Game Trailers Years Ago](https://digitpatrox.com/why-i-stopped-trusting-game-trailers-years-ago/)
+* [August 27, 2024
     
-    ### Remedy and Annapurna Partner up for Control 2 and Other Franchises](https://digitpatrox.com/remedy-and-annapurna-partner-up-for-control-2-and-other-franchises/)
+    ### HMD’s Barbie flip phone goes extremely hard](https://digitpatrox.com/hmds-barbie-flip-phone-goes-extremely-hard/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Why Customers and Companies Love Interactive Voice Response](https://digitpatrox.com/why-customers-and-companies-love-interactive-voice-response/)
+    ### Why You Should Use Your TV’s Filmmaker Mode](https://digitpatrox.com/why-you-should-use-your-tvs-filmmaker-mode/)
+* [3 hours ago
+    
+    ### Reddit’s Search Is Not Good, but These Tricks Will Help](https://digitpatrox.com/reddits-search-is-not-good-but-these-tricks-will-help/)
 * [4 hours ago
     
-    ### 5 best new movies to watch this weekend on Netflix, Hulu, Prime Video and more](https://digitpatrox.com/5-best-new-movies-to-watch-this-weekend-on-netflix-hulu-prime-video-and-more/)
-* [5 hours ago
-    
-    ### HPE warns of critical RCE flaws in Aruba Networking access points](https://digitpatrox.com/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/)
+    ### Apple’s iOS 18.2 Beta Brings AI Features](https://digitpatrox.com/apples-ios-18-2-beta-brings-ai-features/)
 
 Most Viewed Topics
 
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
