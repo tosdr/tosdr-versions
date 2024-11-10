@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -249,7 +249,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173407#comments) | 08.11.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173407#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -263,7 +263,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174613#comments) | 08.11.24 |     |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174613#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -277,7 +277,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174581#comments) | 08.11.24 |     |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174581#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -333,7 +333,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174407#comments) | 08.11.24 |     |
+|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174407#comments) | 08.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -448,8 +448,8 @@
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746376.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735988.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173407) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750495.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
-| [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [Салат из морской капусты с яблоком и морковью](https://www.russianfood.com/recipes/recipe.php?rid=173407) | [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [Гриссини-змейки](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746376.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750495.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735988.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173407) |
+| [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) | [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Гриссини-змейки](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [Салат из морской капусты с яблоком и морковью](https://www.russianfood.com/recipes/recipe.php?rid=173407) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -465,5 +465,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(94)
