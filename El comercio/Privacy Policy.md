@@ -31,6 +31,106 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El embalse Mazar perdió cinco metros desde el 4 de noviembre
+============================================================
+
+La sequía hidrológica en Cuenca alcanzó los 121 días. Es la más prolongada desde que se tienen registros. En el 2023 fueron 117 días.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![El embalse de Mazar es uno de los más importantes del país, ya que alimenta a tres hidroeléctricas de la cuenca del Paute.](https://www.elcomercio.com/wp-content/uploads/2024/11/mazar-0611.jpg)
+
+**Cuenca** cumplió 121 días de **sequía hidrológica** y los embalses de las centrales **Mazar y Paute** son los más afectados.
+
+La cota en **Mazar** se ubicó en los 2 111,1 metros sobre el nivel del mar este domingo 10 de noviembre de 2024.
+
+Es decir, desde el 4 de noviembre ha perdido casi cinco metros por tres factores principales.
+
+El primero es que los caudales de la cuenca del **río Paute** siguen en niveles bajos.
+
+El segundo es porque Mazar opera todos los días -aunque por horas.
+
+El último factor es que sus reservas se entregaron al embalse de **la central hidroeléctrica Paute**, que está ubicada aguas abajo.
+
+### Más noticias
+
+* [Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-9-10-noviembre-2024.html "Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024")
+* [Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses](https://www.elcomercio.com/actualidad/ecuador/lluvias-en-ecuador-deberian-caer-por-un-mes-sin-parar-para-ayudar-a-embalses.html "Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses")
+
+La generación en Mazar y Paute
+------------------------------
+
+**Paute** es la segunda mayor generadora de Ecuador, luego de **Coca Codo Sinclair**.
+
+En la casa de máquinas de Paute mantienen niveles alto de producción para cubrir la demanda eléctrica de Ecuador y suplir el descenso en los aportes de otras hidroeléctricas como **Agoyán y San Francisco**.
+
+El sábado 9 de noviembre generó 5 773 megavatios hora y lo hizo hasta con ocho de sus 10 turbinas. 
+
+**Mazar y Sopladora,** que también forman parte del complejo hidroeléctrico Paute, ubicado en los límites de Azuay, Cañar y Morona Santiago, también están generando.
+
+**El Operador Nacional de Electricidad (Cenace)** programó para este domingo 10 que este complejo aporte con cerca del 10% de la generación hidroeléctrica.
+
+**Coca Codo Sinclair** lo hará con el 36%, según el Cenace.
+
+Para este domingo 10 de noviembre se prevé que la producción hidráulica sea el 48%. La diferencia se cubrirá con **térmica, eólica, gas natural**…
+
+La sequía en Cuenca
+-------------------
+
+Los caudales ríos **Yanuncay, Tomebamba, Machángara y Tarqui** están bajos. Cuenca enfrenta un sequía hidrológica de 121 días, que es la más larga desde 1973. Es decir, desde que se tienen registros. A finales del 2023 fueron 117 días.
+
+Según el coordinador de la **Red Hidrometereológica de Cuenca**, **Rigoberto Guerrero**, para este noviembre se prevé que existan lluvias, pero de forma puntual.
+
+Es decir, por tiempos cortos e intensos, pero no en las zonas de recarga hídricas.
+
+Según Guerrero, eso ocasiona que los caudales de los ríos suban de un momento a otro, pero no sean sostenibles en el tiempo y, prácticamente, no son un mayor aporte para el embalse de Mazar.
+
+Se requieren entre “15 y 20 días de lluvias continuas para salir de esta sequía”, dice el experto.
+
+En **diciembre** se pronostica que existan más lluvias, pero Guerrero estima que la sequía hidrológica persistirá.
+
+Un viaje lingüístico y cultural a través de la historia de los trabalenguas 
+============================================================================
+
+Explora los orígenes, beneficios y cultura de los trabalenguas.
+---------------------------------------------------------------
+
+![Los trabalenguas: antiguas herramientas griegas que cruzaron culturas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Trabalenguas.jpg)
+
+El **Día del Trabalenguas** se conmemora cada **segundo domingo de noviembre (este año se celebra el día 10)**, una fecha que invita a los amantes de las palabras a disfrutar de la **riqueza y complejidad del lenguaje**. Este día no solo es una celebración lúdica, sino también un **reconocimiento a la historia y los beneficios** de los trabalenguas en la educación y la cultura. 
+
+### Más noticias
+
+* [Estancia del príncipe Harry y Meghan en EE.UU. en duda tras victoria de Trump](https://www.elcomercio.com/afull/principe-harry-meghan-markle-donald-trump.html "https://www.elcomercio.com/afull/principe-harry-meghan-markle-donald-trump.html") 
+* [El truco de lavadora que deja la ropa impecable y ahorra energía](https://www.elcomercio.com/tendencias/curiosidades/truco-lavadora-deja-ropa-impecable.html "https://www.elcomercio.com/tendencias/curiosidades/truco-lavadora-deja-ropa-impecable.html")
+
+**Origen de los trabalenguas** 
+-------------------------------
+
+El **origen de los trabalenguas** se remonta a la **antigua Grecia**, donde se utilizaban como **herramientas educativas**. Los **sabios griegos** **creaban enigmas y juegos de palabras** para desarrollar habilidades oratorias y de dicción. Se consideraba que aquellos que podían pronunciar trabalenguas sin errores eran dignos de admiración por su conocimiento y habilidades lingüísticas, a decir de la web [Timetoast](https://www.timetoast.com/timelines/trabalenguas-origen "https://www.timetoast.com/timelines/trabalenguas-origen"). 
+
+A lo largo de los siglos, **esta tradición se ha expandido a diversas culturas**. En muchos países, **los trabalenguas han evolucionado**, adaptándose a las particularidades lingüísticas de cada lengua. Por ejemplo, en español, se han popularizado frases como “Tres tristes tigres comían trigo en un trigal” o “Pablito clavó un clavito”. 
+
+**Beneficios de los trabalenguas** 
+-----------------------------------
+
+Estos **juegos de palabras** no solo son entretenidos, sino que también sirven como **ejercicios para mejorar la pronunciación y la fluidez verbal**. 
+
+Los trabalenguas han sido reconocidos por sus **múltiples beneficios**. Ayudan a **desarrollar la dicción, mejoran la memoria y fomentan el interés por el lenguaje**. En las aulas, son utilizados como **herramientas pedagógicas** para enseñar a los niños a expresarse con claridad y confianza, de acuerdo con [Poblanerias](https://www.poblanerias.com/2018/11/origen-y-celebracion-del-dia-mundial-del-trabalenguas/ "https://www.poblanerias.com/2018/11/origen-y-celebracion-del-dia-mundial-del-trabalenguas/"). 
+
+Además, su práctica puede ser un **ejercicio divertido que promueve la competitividad amistosa** entre amigos y familiares. 
+
+**Importancia cognitiva**  
+---------------------------
+
+Los trabalenguas ofrecen **beneficios cognitivos significativos**. Al intentar pronunciar estas frases complicadas, **se ejercita el cerebro y se mejora la coordinación motora relacionada con el habla**. Estudios han demostrado que practicar trabalenguas puede ayudar a **mantener la mente activa y mejorar habilidades comunicativas**, a decir de [Computer Hoy](https://computerhoy.20minutos.es/reportajes/life/verdadero-origen-trabalenguas-que-es-tan-dificil-pronunciarlos-334297 "https://computerhoy.20minutos.es/reportajes/life/verdadero-origen-trabalenguas-que-es-tan-dificil-pronunciarlos-334297").  
+
+Además, son **herramientas efectivas en terapias del habla**, al ayudar a personas con **dificultades en la articulación**. 
+
+**Celebración del Día del Trabalenguas** 
+-----------------------------------------
+
+El Día Mundial del Trabalenguas es una **ocasión perfecta para explorar esta forma de arte lingüístico**. Durante este día, **personas de todas las edades participan en actividades** que incluyen competiciones de pronunciación, creación de nuevos trabalenguas y **sesiones de lectura en voz alta**. Estas actividades no solo celebran el lenguaje, sino que también **fomentan el aprendizaje colaborativo y el disfrute compartido del habla.** 
+
 ¿Cómo se manejan los cuidados paliativos en Chile y Uruguay? Lecciones para Ecuador
 ===================================================================================
 
@@ -847,130 +947,3 @@ Las etapas de la Vuelta al Ecuador 2024
 * **Viernes 15 noviembre** Etapa 5 – 152 km / Urbina – Machachi
 * **Sábado 16 noviembre** Etapa 6 – 179,8 Km / Machachi – Cotacachi
 * **Domingo 17 noviembre** Etapa 7 – 159,6 Km / Atuntaqui – Quito
-
-Consejos de salud mental para sobrellevar los apagones
-======================================================
-
-Según los expertos, los cortes de luz se afrontan de distintas maneras. Para los niños puede ser llevadero, para los adolescentes no tanto.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Foto referencial. La salud mental se ve afectada por las consecuencias que causa vivir sin luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/salud-mental.jpg)
-
-Ecuador atraviesa una **crisis energética** que ha obligado al Ministerio de Energía y Minas a aplicar cortes de luz desde el 23 de septiembre a escala nacional. Estos **apagones** han influido de distintas maneras en la salud mental de los ecuatorianos.
-
-### Más noticias
-
-* [Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentaran-a-ocho-horas-desde-el-domingo-dice-ministra.html "Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra")
-* [Nueve alimentos que mejoran la salud mental y emocional](https://www.elcomercio.com/tendencias/salud/alimentos-salud-mental-nutricion.html "Nueve alimentos que mejoran la salud mental y emocional")
-* [Servicios de salud tienen disposiciones por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-de-salud-tienen-disposiciones-por-cortes-de-luz.html "Servicios de salud tienen disposiciones por cortes de luz")
-
-¿Qué pasa con la salud mental?
-------------------------------
-
-Los **cortes de luz** causan varios sentimientos en las personas de acuerdo con su situación personal y/o profesional.
-
-Una de las principales afectaciones, **según David Landázuri,** psicoterapeuta con enfoque en terapias contextuales, es la imposibilidad de planificar.
-
-Esto debido a que el desarrollo de las **actividades diarias** se ve afectado por los cortes de luz y este cambio causa una tensión extra en nuestra salud mental.
-
-Esta imposibilidad para planificar puede manifestarse con temas de ansiedad, depresión o insomnio, que son los más comunes.
-
-La incertidumbre es otro elemento que afecta la salud mental, por ejemplo, no conocer en qué horario quitarán la luz o si mi empresa puede implementar un corte de personal.
-
-En **criterio de Landázuri,** las personas que no suelen manejar de manera adecuada la incertidumbre o la falta de certezas son las que pueden ver afectada su salud mental.
-
-Otro de los factores importantes que podría causar la crisis energética **es el aislamiento**. Esto afecta más a las personas **introvertidas que a las extrovertidas**.
-
-Las **introvertidas,** al quizá tener sus rutinas en sus espacios, pueden sufrir más por los cortes de luz cuando ven estas actividades afectadas. En cambio, **las extrovertidas** pueden lidiar mejor con los apagones al buscar el contacto con otras personas, salir, conversar, distraerse.
-
-Hablemos de los niños
----------------------
-
-En cuanto a la salud mental de los niños y adolescentes, **Karina Bravo**, psicoanalista de niños y adolescentes, explicó a El Comercio que es importante **cuidar el estrés o la ansiedad** que se les pueda transmitir por la crisis que atraviesa el país.
-
-Como adultos, si sabemos **filtrar de mejor manera los sentimientos** frente a los cortes de luz, puede ser una oportunidad diferente para los niños para aprender a desarrollar otras habilidades, debido a que están en una fase aún estructurante.
-
-Por ejemplo, se pueden hacer juegos distintos, mucha más convivencia, más tiempo con los padres.
-
-La oscuridad y el silencio absolutos podrían generar miedo en los niños; sin embargo, esto puede ayudar a desarrollar el ámbito sensorial.
-
-En el silencio se puede identificar otro tipo de sonidos naturales que están presentes en el ambiente y que pueden ayudar a calmarlos. Esto depende de cada niño y de sus entornos.
-
-La **percepción en la oscuridad y el juego con las sombras** es también una oportunidad para compartir y desarrollar habilidades.
-
-Los adolescentes podrían ser los más afectados
-----------------------------------------------
-
-**En cuanto a los adolescentes,** la psicoanalista Bravo señala que el asunto **es un poco más complicado.** Ellos ya atravesaron también una pandemia en su etapa de socialización.
-
-El tema de la comunicación a través de dispositivos electrónicos y la dependencia a la tecnología que se potenció en ello**s sí constituye una problemática distinta con los adolescentes.**
-
-Esto sí podría **generar estados de ansiedad** porque están acostumbrados a interactuar a través de dispositivos electrónicos, incluso si están junto a la persona con la que ‘chatean’.
-
-En los adolescentes, la falta de energía eléctrica tiene más aristas en el **desarrollo de la ansiedad** porque es la forma en la que se comunican.
-
-Los apagones también influyen **en el encuentro con uno mismo,** pues la tecnología es un distractor que ayuda a canalizar varios aspectos que se atraviesan en esta etapa. Sin los distractores, tienden a sobrepensar más.
-
-Según Bravo, hay casos **en que la oscuridad y el silencio** pueden causarles inseguridad y miedo, o hacerles experimentar un estado de alerta.
-
-Consejos del especialista
--------------------------
-
-El **psicoterapeuta Landázuri**, en charla con El Comercio, da recomendaciones claves para poder hacer frente a esta realidad que atravesamos todos los ecuatorianos:
-
-* **“No pelearse con lo que sucede”**. Pelearse con la realidad o con lo que sucede no hace que ello cambie.
-* Todo problema tiene solución, **si no tiene solución no es un problema** y, a partir de ello, el hecho no debe resolverse sino aceptarse.
-* A partir de esta aceptación se debe encontrar como desenvolverse y hallar algo parecido a nuestra vida antes de los apagones. **“Mientras más rechazamos lo que pasa, más sufrimiento nos causamos”**.
-* Contar siempre con alguien con quien podamos compartir y empatizar las cosas. Esto no debe partir desde **la queja**, sino tratando de **identificar los sentimientos** que tenemos respecto a la situación. No es lo mismo quejarse de la situación del país a decir que me siento impotente. Identificar mis sentimientos puede ayudar a empatizar con los demás y a ver que todos atravesamos complicaciones.
-* **Es importante mantener una mente compasiva.** Es decir, entender que todos estamos tratando de manejar de la mejor manera la crisis.
-* Lejos de ‘romantizar’ la situación, **es clave encontrar un sentido en las cosas** que nos suceden fuera de nuestro contexto. **Abrirnos a la experiencia antes de rechazarla.**
-* Buscar alternativas creativas para ocupar mi tiempo, como una cena ‘a la luz de las velas’ o leer un buen libro son [buenas ideas.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero
-====================================================================
-
-El Bayer Leverkusen del ecuatoriano Piero Hincapié empató por tercera vez consecutiva en la Bundesliga.
--------------------------------------------------------------------------------------------------------
-
-![El ecuatoriano Piero Hincapié jugó los 90 minuitos del partido](https://www.elcomercio.com/wp-content/uploads/2024/11/leverkusen-piero-empate.jpg)
-
-Con un **gol agónico**, el Bayer Leverkusen del ecuatoriano **Piero Hincapié** no pudo sostener la victoria y **empató con el último de la tabla**, el Bochum, en la décima jornada de la Bundesliga de Alemania.
-
-### Más noticias
-
-* [Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-bolivia.html "Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador")
-* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
-* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
-
-este **sábado** 9 de **noviembre** de **2024**, el **Bayer Leverkusen** sumó su tercer **empate** seguido en la **competición** y se distanció aún más del **liderato** del **Bayern Múnich**.
-
-Al contrario de lo que ocurría en la **temporada** pasada, el Leverkusen ahora pierde **victorias** en los tiempos añadidos.
-
-Bayer Leverkusen suma su tercer empate seguido
-----------------------------------------------
-
-El **Bochum** celebró el tanto del japonés **Koji Miyoshi** en el minuto 90. El colista se presentó al duelo con solo un punto en nueve encuentros: un empate y ocho derrotas en su haber.
-
-Mientras que el equipo dirigido por **Xavi Alonso**, en los últimos tres encuentros, ha dejado escapar seis puntos. Ahora lo distancian nueve del Bayern Múnich.
-
-El partido de este sábado no fue fácil para el Bayern; durante todo el cotejo no logró controlar el balón y crear serias ocasiones de gol.
-
-Sin embargo, el actual campeón se adelantó en el marcador al minuto 18, con un gol de **Patrik Schick**.
-
-Una serie de fallos en defensa castigó al conjunto de **Hincapié** al final. En una acción dentro del área, Dani de Wit encontró a Koji Miyoshi, que no perdonó, batió a **Lukas Hradecki** y encontró el gol[.](https://www.bundesliga.com/es/bundesliga "https://www.bundesliga.com/es/bundesliga")
-
-El Bayer Leverkusen arrancó con la siguiente **alineación**:
-
-* Lukas Hradecky
-* Edmond Tapsoba
-* Jonathan Tah
-* **Piero Hincapié**
-* Jeremie Frimpong (Aleix Garcia, m.87)
-* Granit Xhaka
-* Robert Andrich
-* Alex Grimaldo
-* Florian Wirtz
-* Jonas Hofmann (Nathan Tella, m.64)
-* Patrik Schik (Victor Boniface, m.78)
-
-El ecuatoriano comenzó de titular y jugó los **90 minutos** del partido
