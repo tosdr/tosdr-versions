@@ -312,9 +312,9 @@ Popular Stories
 * [![Mazda infotainment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
-* [![SteelFox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![HPE](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    New SteelFox malware hijacks Windows PCs using vulnerable driver](https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
+    HPE warns of critical RCE flaws in Aruba Networking access points](https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/)
 
 ##### Follow us:
 
