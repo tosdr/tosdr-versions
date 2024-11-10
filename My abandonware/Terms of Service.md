@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Ah! Megami-Sama](https://www.myabandonware.com/game/ah-megami-sama-sys)
-* [Angelique](https://www.myabandonware.com/game/angelique-ba8)
-* [Powerboat Challenge](https://www.myabandonware.com/game/powerboat-challenge-ta2)
-* [Prey Mobile 3D](https://www.myabandonware.com/game/prey-mobile-3d-ta1)
-* [Peggle](https://www.myabandonware.com/game/peggle-ta0)
+* [Averno](https://www.myabandonware.com/game/averno-tk3)
+* [Avenger of Rubicon](https://www.myabandonware.com/game/avenger-of-rubicon-tk2)
+* [Astro Blaster](https://www.myabandonware.com/game/astro-blaster-tk1)
+* [Adventures in Melgratta](https://www.myabandonware.com/game/adventures-in-melgratta-tk0)
+* [Civilization](https://www.myabandonware.com/game/civilization-td6)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [3D-Puzzlespass](https://www.myabandonware.com/game/3d-puzzlespass-myd)
-* [Super Mario Fushigi no Korokoro Party](https://www.myabandonware.com/game/super-mario-fushigi-no-korokoro-party-ssy)
-* [Master Labyrinth](https://www.myabandonware.com/game/master-labyrinth-pkw)
+* [Angel Devoid: Face of the Enemy](https://www.myabandonware.com/game/angel-devoid-face-of-the-enemy-pch)
+* [Killer Instinct 2](https://www.myabandonware.com/game/killer-instinct-2-sgb)
+* [Rolling Crash](https://www.myabandonware.com/game/rolling-crash-sdv)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
