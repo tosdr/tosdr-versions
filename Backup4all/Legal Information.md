@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to dreamObjects](https://www.backup4all.com/how-to-backup-your-data-to-dreamobjects-kb.html)  
+* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
     
-* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
+* [Restoring a backup from CD/DVD/Blu-ray to ano ...](https://www.backup4all.com/how-to-restore-a-backup-from-a-cd-dvd-blu-ray-to-another-computer-kb.html)  
     
-* [How to back up data files from Wasabi S3 Comp ...](https://www.backup4all.com/how-to-back-up-date-files-from-wasabi-s3-compatible-kb.html)  
+* [How to back up data files from SFTP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-sftp-using-backup4all-kb.html)  
     
-* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
+* [How to encrypt the files in Backup4all](https://www.backup4all.com/how-to-encrypt-the-files-in-backup4all-kb.html)  
     
-* [How to backup your data to Connectria](https://www.backup4all.com/how-to-backup-your-data-to-connectria-kb.html)  
+* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
     
 
 Choose language:
