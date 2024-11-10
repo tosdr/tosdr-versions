@@ -428,11 +428,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/licni-oglasi/personals/067.jpg?itok=LHTcZVMt)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/licni-oglasi-personals)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/fortuna/fortuna-transformacija.jpg?itok=bq3XH17N)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/fortuna)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/svedoci.jpg?itok=-UCAIir3)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/skovran.jpg?itok=I1031UOU)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -448,6 +448,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Novo izdanje Filmova na štiklama](http://seecult.org/vest/novo-izdanje-filmova-na-stiklama)
+* [Urbanov savremeni Majstor i Margarita](http://seecult.org/vest/urbanov-savremeni-majstor-i-margarita)
 * [Utisak da se nešto radi](http://seecult.org/vest/utisak-da-se-nesto-radi)
 * [Aktuelnost dualnosti Milene Pavlović Barili u MSUB-u](http://seecult.org/vest/aktuelnost-dualnosti-milene-pavlovic-barili-u-msub-u)
 * [Preminuo Zoran Đerić](http://seecult.org/vest/preminuo-zoran-deric)
@@ -456,8 +458,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Gordost i predrasude uz klasnu i rodnu nejednakost](http://seecult.org/vest/gordost-i-predrasude-uz-klasnu-i-rodnu-nejednakost)
 * [Otvorena 20. Slobodna zona – angažman da svet bude bolji](http://seecult.org/vest/otvorena-20-slobodna-zona-angazman-da-svet-bude-bolji)
 * [Otvoren Legat Milana Mladenovića](http://seecult.org/vest/otvoren-legat-milana-mladenovica)
-* [Šta zaista znači biti zajedno](http://seecult.org/vest/sta-zaista-znaci-biti-zajedno)
-* [Zabrana radova na Beogradskoj tvrđavi](http://seecult.org/vest/zabrana-radova-na-beogradskoj-tvrdavi)
 
 * [Konkursi](#tab1_1)
 
