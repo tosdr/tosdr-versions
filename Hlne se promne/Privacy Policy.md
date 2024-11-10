@@ -152,7 +152,7 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 [Québécois 101 : Les questions avec « tu » en français québécois](https://wanderingfrench.com/qc-004/)
 ------------------------------------------------------------------------------------------------------
 
-8 433 visites
+8 436 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/04/quebecois-101-le-top-5-des-expre-125x70.jpg)](https://wanderingfrench.com/qc-009/ "Québécois 101 : Le top 5 des expressions québécoises")
 
@@ -166,7 +166,7 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 [Québécois 101 : 8 expressions québécoises inspirées du hockey](https://wanderingfrench.com/qc012/)
 ---------------------------------------------------------------------------------------------------
 
-6 411 visites
+6 413 visites
 
 #### Vidéos les plus commentées
 
@@ -191,7 +191,7 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 
 [4 commentaires](https://wanderingfrench.com/cours-de-quebecois-en-octobre/#comments)
 
-[![Licence Creative Commons](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/deed.fr)
+[![Licence Creative Commons](https://wanderingfrench.com/wp-content/uploads/2024/11/CC-80x15-1.png)](https://creativecommons.org/licenses/by-nc/4.0/deed.fr)
 
 ![](https://wanderingfrench.com/wp-content/uploads/2018/06/CC-Small-Symbol.png) 2018-2024 Wandering French. Une production [One Blue Pixel](https://onebluepixel.net/). Thème par [Meks](https://mekshq.com/). [Politique de confidentialité](https://wanderingfrench.com/confidentialite/).
 
