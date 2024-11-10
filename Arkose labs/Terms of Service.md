@@ -370,4 +370,4 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
                                                
 
-http://localhost/3cscriptz3ealert(81)3cscript3e
+https://www.arkoselabs.com/legal/terms-of-use
