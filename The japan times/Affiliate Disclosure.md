@@ -139,6 +139,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
+[Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
+
+  [![Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433159.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
+
 [Australia’s next frigates to come from Japan or Germany](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
   [![A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/433020.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture")](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
@@ -146,10 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Japan’s households cut spending once again as prices rise](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
   [![Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432961.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.")](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
-
-[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
-
-  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
 Editors' Picks
 --------------
@@ -170,6 +170,12 @@ By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
+
+  [![Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433159.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Australia’s next frigates to come from Japan or Germany](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
 By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
@@ -183,14 +189,6 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 By [Toru Fujioka](https://www.japantimes.co.jp/author/358/toru-fujioka/ "Toru Fujioka")  
 
   [![Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432961.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.")](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
-
-By [Mai Yoshikawa](https://www.japantimes.co.jp/author/1728/mai-yoshikawa/ "Mai Yoshikawa")  
-
-  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
 Podcast
 -------
@@ -211,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,15 +251,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Charting the global economy: Trump win reverberates around the world](https://www.japantimes.co.jp/business/2024/11/10/economy/global-economy-trump-win/ "Charting the global economy: Trump win reverberates around the world")
+
+1 hours ago
+
+[Qatar stalls its Gaza ceasefire mediation](https://www.japantimes.co.jp/news/2024/11/10/world/politics/qatar-gaza-ceasefire-mediation/ "Qatar stalls its Gaza ceasefire mediation")
+
+1 hours ago
+
+[At least 40 killed as Israel pounds Lebanon, Lebanese officials say](https://www.japantimes.co.jp/news/2024/11/10/world/israel-pounds-lebanon-lebanese-officials/ "At least 40 killed as Israel pounds Lebanon, Lebanese officials say")
+
+1 hours ago
+
+[Japanese police seize over 100 smartphones in serial robberies](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones in serial robberies")
+
+1 hours ago
+
 [Musk believes in global warming. Trump doesn’t. Will that change?](https://www.japantimes.co.jp/news/2024/11/09/world/musk-trump-climate-sway/ "Musk believes in global warming. Trump doesn’t. Will that change?")
-
-[Komeito picks land minster Tetsuo Saito as new party leader](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/komeito-picks-new-leader-saito/ "Komeito picks land minster Tetsuo Saito as new party leader")
-
-[The long global trail of resentment behind Trump’s resurrection](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-resentment-resurrection/ "The long global trail of resentment behind Trump’s resurrection")
-
-[Smile, flatter and barter: How the world is prepping for Trump part II](https://www.japantimes.co.jp/news/2024/11/09/world/politics/world-prepares-for-trump/ "Smile, flatter and barter: How the world is prepping for Trump part II")
-
-[Trump weighs key personnel choices, schooled by his first-term experience](https://www.japantimes.co.jp/news/2024/11/09/world/politics/trump-cabinet-posts-selections/ "Trump weighs key personnel choices, schooled by his first-term experience")
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
