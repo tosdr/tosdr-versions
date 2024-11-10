@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [Sync your clock, it's stable time](https://f-droid.org/en/2024/10/17/twif.html) Oct 17, 2024
 * [Video guides, games and players](https://f-droid.org/en/2024/10/10/twif.html) Oct 10, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-11-07, fdroid-website [2.283](https://gitlab.com/fdroid/fdroid-website/tree/f32fed3e73)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-11-10, fdroid-website [2.283](https://gitlab.com/fdroid/fdroid-website/tree/f32fed3e73)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
