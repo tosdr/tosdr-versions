@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") [Harambe the Gorilla](https://knowyourmeme.com/memes/harambe-the-gorilla "Harambe the Gorilla") [40 Monkeys Escape Research Facility](https://knowyourmeme.com/memes/events/40-monkeys-escape-research-facility "40 Monkeys Escape Research Facility")
+[Brazilian Sadako](https://knowyourmeme.com/memes/brazilian-sadako "Brazilian Sadako") [Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") [40 Monkeys Escape Research Facility](https://knowyourmeme.com/memes/events/40-monkeys-escape-research-facility "40 Monkeys Escape Research Facility") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
