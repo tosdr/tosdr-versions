@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
+
+### [Prime Directive Crisis Emerges During USS Artemis Search and Rescue Mission in Borderlands](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
+
+Federation News Service November 10, 2024
+
+BORDERLANDS, CELEDI NEBULA – A routine mission to locate the missing civilian freighter Tritorian has transformed into a high-stakes situation for the USS Artemis-A (NCC-81287)
+
+[Read More »](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-drex-denali-station-xalor-clan-xifilis-award/)
 
 ### [Award Winner – Drex, Denali Station (Xalor Clan Xifilis Award)](https://www.starbase118.net/2024/award-winner-drex-denali-station-xalor-clan-xifilis-award/)
@@ -368,8 +380,6 @@ Join us for another in a series of interviews with winners of awards from our 24
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
 
 ### [USS Astraeus and USS Chin’toka return to service after Frontier Day repairs](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
@@ -379,20 +389,6 @@ Federation News Service November 8, 2024
 EARTH, SOL SYSTEM, ALPHA QUADRANT – Nearly half a year after the devastating attack on Frontier Day, the USS Astraeus and the newly reactivated USS
 
 [Read More »](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
-
-### [Ship Closeup – USS Astraeus](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
-
-docaharford November 7, 2024
-
-“Hope is the thing with feathers, that perches in the soul. And sings the tune without the words, and never stops at all.” –Emily Dickinson
-
-[Read More »](https://www.starbase118.net/2024/ship-closeup-uss-astraeus/)
 
 Ready to get started?
 ---------------------
