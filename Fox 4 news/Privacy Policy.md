@@ -405,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![VIDEO: Trapped toddler rescued from burning apartment in Granbury](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-10-131121.png?ve=1&tl=1)
+
+ ![VIDEO: Trapped toddler rescued from burning apartment in Granbury](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-10-131121.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-trapped-toddler-rescued-from-burning-apartment-granbury)
+
+### [VIDEO: Trapped toddler rescued from burning apartment in Granbury](https://www.fox4news.com/news/video-trapped-toddler-rescued-from-burning-apartment-granbury)
+
+ [![AMBER Alert Update: Missing 16-year-old girl in Hunt County found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/hunt-co-amber-alert.jpg?ve=1&tl=1)
+
+ ![AMBER Alert Update: Missing 16-year-old girl in Hunt County found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/hunt-co-amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
+
+### [AMBER Alert Update: Missing 16-year-old girl in Hunt County found safe](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
+
  [![2 dead in McKinney shooting Saturday evening](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111024-sh-mckinney-pd-shooting-fx-chestnut-colorad_00.03.31.26.jpg?ve=1&tl=1)
 
  ![2 dead in McKinney shooting Saturday evening](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111024-sh-mckinney-pd-shooting-fx-chestnut-colorad_00.03.31.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-dead-mckinney-shooting-saturday-evening)
 
 ### [2 dead in McKinney shooting Saturday evening](https://www.fox4news.com/news/2-dead-mckinney-shooting-saturday-evening)
 
+ [![US Marine Corps celebrating 249th birthday](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-56136361-scaled.jpg?ve=1&tl=1)
+
+ ![US Marine Corps celebrating 249th birthday](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-56136361-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/us-marine-corps-birthday-249-nov-10)
+
+### [US Marine Corps celebrating 249th birthday](https://www.fox4news.com/news/us-marine-corps-birthday-249-nov-10)
+
  [![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/gettyimages-2183216502-scaled.jpg?ve=1&tl=1)
 
  ![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183216502-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/donald-trump-wins-arizona-its-11-electoral-votes-flipping-state-red-again)
 
 ### [Donald Trump wins Arizona and its 11 electoral votes](https://www.fox4news.com/election/donald-trump-wins-arizona-its-11-electoral-votes-flipping-state-red-again)
-
- [![Rowlett community relieved over car burglary suspect's arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/deshawn-davis.jpg?ve=1&tl=1)
-
- ![Rowlett community relieved over car burglary suspect's arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/deshawn-davis.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rowlett-deshawn-davis-arrest)
-
-### [Rowlett community relieved over car burglary suspect's arrest](https://www.fox4news.com/news/rowlett-deshawn-davis-arrest)
-
- [![North Texas communities come together to honor veterans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-david-veterans-day-events-wrap-9p_kdfw1d3b_146_m_00.00.00.00.jpg?ve=1&tl=1)
-
- ![North Texas communities come together to honor veterans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-david-veterans-day-events-wrap-9p_kdfw1d3b_146_m_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-communities-come-together-honor-veterans)
-
-### [North Texas communities come together to honor veterans](https://www.fox4news.com/news/north-texas-communities-come-together-honor-veterans)
-
- [![Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-102201890-a.jpg?ve=1&tl=1)
-
- ![Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-102201890-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/nascar-bobby-allison-dies)
-
-### [Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://www.fox4news.com/sports/nascar-bobby-allison-dies)
 
 ###### [News](https://www.fox4news.com/news)
 
