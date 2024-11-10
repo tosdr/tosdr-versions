@@ -92,7 +92,7 @@ Search site
 
 [River Flood Warning
 
-until SUN 8:20 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until MON 8:40 AM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -405,6 +405,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![2 dead in McKinney shooting Saturday evening](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111024-sh-mckinney-pd-shooting-fx-chestnut-colorad_00.03.31.26.jpg?ve=1&tl=1)
+
+ ![2 dead in McKinney shooting Saturday evening](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111024-sh-mckinney-pd-shooting-fx-chestnut-colorad_00.03.31.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-dead-mckinney-shooting-saturday-evening)
+
+### [2 dead in McKinney shooting Saturday evening](https://www.fox4news.com/news/2-dead-mckinney-shooting-saturday-evening)
+
  [![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/gettyimages-2183216502-scaled.jpg?ve=1&tl=1)
 
  ![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183216502-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/donald-trump-wins-arizona-its-11-electoral-votes-flipping-state-red-again)
@@ -428,12 +434,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-102201890-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/nascar-bobby-allison-dies)
 
 ### [Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://www.fox4news.com/sports/nascar-bobby-allison-dies)
-
- [![Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2182723380.jpg?ve=1&tl=1)
-
- ![Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182723380.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dak-prescott-hamstring-surgery)
-
-### [Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://www.fox4news.com/sports/dak-prescott-hamstring-surgery)
 
 ###### [News](https://www.fox4news.com/news)
 
