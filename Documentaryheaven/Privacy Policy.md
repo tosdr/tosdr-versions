@@ -108,11 +108,6 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
-    
-    Prisoners of Katrina
-    
-    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -123,6 +118,11 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
+    
+    Prisoners of Katrina
+    
+    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Reggae Britannia](/wp-content/thumbnails/5597-100x70.jpg?x53432)
+* [![On The Road With, Scientists at CERN](/wp-content/thumbnails/6281-100x70.jpg?x53432)
     
-    Reggae Britannia
+    On The Road With, Scientists at CERN
     
-    The acclaimed BBC4 Britannia series moves into the world of British reggae. Showing how it came from Jamaica in the 1960s to influence, over the next 20 years, both British music and society.The doc](https://documentaryheaven.com/reggae-britannia/ "Reggae Britannia")
-* [![The Secret of Drawing](/wp-content/thumbnails/9894-100x70.jpg?x53432)
+    Matthew Stadlen spends the day at CERN, the European Organization for Nuclear Research near Geneva, with accelerator physicist Steve Myers.CERN is one of the world’s largest and most respected cen](https://documentaryheaven.com/on-the-road-with-scientists-at-cern/ "On The Road With, Scientists at CERN")
+* [![Operation InfeKtion: How Russia Perfected the Art of War](/wp-content/thumbnails/14400-100x70.jpg?x53432)
     
-    The Secret of Drawing
+    Operation InfeKtion: How Russia Perfected the Art of War
     
-    Once upon a time the ability to draw was seen as the first and most essential skill of any artist, but in the age of the unmade bed and the pickled shark, drawing is widely perceived as an old fashion](https://documentaryheaven.com/secret-of-drawing/ "The Secret of Drawing")
-* [![180° The Movie](/wp-content/thumbnails/6596-100x70.png?x53432)
+    The thing about a virus is that it doesn't destroy you head on but rather brings you down from the inside, turning your own cells against you. This story is about a virus, a virus created five decades](https://documentaryheaven.com/operation-infektion-how-russia-perfected-art-of-war/ "Operation InfeKtion: How Russia Perfected the Art of War")
+* [![Football’s Most Dangerous Rivalry](/wp-content/thumbnails/6685-100x70.jpg?x53432)
     
-    180° The Movie
+    Football’s Most Dangerous Rivalry
     
-    Christian Evangelist, Ray Comfort attacks again. The main premise in this film is the portrayal of abortion as modern Holocaust, thus claiming to be a powerful, irrefutable argument against abortion t](https://documentaryheaven.com/180-the-movie/ "180° The Movie")
-* [![Iranium](/wp-content/thumbnails/5058-100x70.jpg?x53432)
+    The rivalry between football clubs Rangers and Celtic goes past typical name calling and dives into violence, racial slurs and pure hatred.The rivalry between Glasgow's "Old Firm" sides is the mos](https://documentaryheaven.com/footballs-most-dangerous-rivalry/ "Football’s Most Dangerous Rivalry")
+* [![Snowball Earth](/wp-content/thumbnails/12516-100x70.jpg?x53432)
     
-    Iranium
+    Snowball Earth
     
-    Iran's nuclear program presents a threat to international stability. Yet successive American administrations-Republican and Democratic alike-have misread the intentions and actions of the Iranian regi](https://documentaryheaven.com/iranium/ "Iranium")
-* [![Mind Control: America’s Secret War](/wp-content/thumbnails/1470-100x70.jpg?x53432)
+    There is a theory that was once considered to be quite controversial, so much so that scientists labeled it absurd. It claimed that for millions of years the our planet Earth was covered entirely](https://documentaryheaven.com/snowball-earth/ "Snowball Earth")
+* [![War and Globalization: The Truth Behind 9/11](/wp-content/thumbnails/1364-100x70.jpg?x53432)
     
-    Mind Control: America’s Secret War
+    War and Globalization: The Truth Behind 9/11
     
-    It is one of the ill-kept secrets of America's intelligence agencies-for decades, they have worked virtually non-stop to perfect means of controlling the human mind. But while many have suspected the](https://documentaryheaven.com/mind-control-americas-secret-war/ "Mind Control: America’s Secret War")
+    In this lecture by Michel Chossudovsky, he blows away the smokescreen put up by the mainstream media, that 9/11 was an attack on America by “Islamic terrorists”. Through meticulous research, he has un](https://documentaryheaven.com/war-globalization-truth-behind-911/ "War and Globalization: The Truth Behind 9/11")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
