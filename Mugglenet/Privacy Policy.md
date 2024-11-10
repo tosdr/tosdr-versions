@@ -84,6 +84,7 @@
     * [Fan Focus](https://www.mugglenet.com/category/fans-and-fun/fan-focus/)
     * [Fandom](https://www.mugglenet.com/category/fans-and-fun/fandom/)
     * [Fandom Sortings](https://www.mugglenet.com/category/fans-and-fun/fandom-sortings/)
+    * [Fandom Timeline](https://www.mugglenet.com/fans-fun/fandom-timeline/)
     * [Fun Lists](https://www.mugglenet.com/category/fans-and-fun/fun-lists/)
     * [Games and Trivia](https://www.mugglenet.com/fans-fun/trivia-challenges/)
     * [GNOMEs](https://www.mugglenet.com/category/fans-and-fun/gnome/)
@@ -176,6 +177,7 @@
     * [Fan Focus](https://www.mugglenet.com/category/fans-and-fun/fan-focus/)
     * [Fandom](https://www.mugglenet.com/category/fans-and-fun/fandom/)
     * [Fandom Sortings](https://www.mugglenet.com/category/fans-and-fun/fandom-sortings/)
+    * [Fandom Timeline](https://www.mugglenet.com/fans-fun/fandom-timeline/)
     * [Fun Lists](https://www.mugglenet.com/category/fans-and-fun/fun-lists/)
     * [Games and Trivia](https://www.mugglenet.com/fans-fun/trivia-challenges/)
     * [GNOMEs](https://www.mugglenet.com/category/fans-and-fun/gnome/)
@@ -296,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Shirley Henderson was aged 35 at the time that she first played Moaning Myrtle. She is the oldest actor to play a Hogwarts student in the Harry Potter films.
+You do not get to choose your Animagus. You simply become the animal that you resemble most.
 
 ### Potter History
 
-November 19, 2005 – Harry Potter and the Goblet of Fire film grosses $36 million on opening day and $101 million during opening weekend.
+April 28, 2005 – It is announced that the Harry Potter and the Half-Blood Prince audio edition is to be released on August 25, 2005 in the United Kingdom. The American edition is set to be released in the United States and Canada on July 16, 2005.
 
 ### Potter Quote
 
-“Of course it is happening inside your head, Harry, but why on earth should that mean it is not real?”
+“If you’d ever had the pleasure to teach him, you’d know Newt is not a great follower of orders.”
 
 [](#)
 
