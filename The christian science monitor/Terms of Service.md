@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
+[### Ukrainian drones strike Moscow as Russia looks toward Trump’s presidency](https://www.csmonitor.com/World/Europe/2024/1110/ukraine-drone-attack-moscow-russia-trump-peace-talks "Ukrainian drones strike Moscow as Russia looks toward Trump’s presidency")
+
 [### Qatar halts its Israel-Hamas mediation efforts, citing lack of ‘good faith’](https://www.csmonitor.com/World/Middle-East/2024/1109/israel-hamas-peace-talks-suspended-qatar-ceasefire "Qatar halts its Israel-Hamas mediation efforts, citing lack of ‘good faith’")
 
 [### Trump is back. Parents worldwide hope and fear for children’s futures.](https://www.csmonitor.com/World/2024/1108/trump-peace-war-foreign "Trump is back. Parents worldwide hope and fear for children’s futures.")
-
-[### With the election of Donald Trump, Canada braces for surge of asylum-seekers fleeing US](https://www.csmonitor.com/World/Americas/2024/1108/immigration-trump-election-canada-U.S.-border "With the election of Donald Trump, Canada braces for surge of asylum-seekers fleeing US")
 
 * * *
 
