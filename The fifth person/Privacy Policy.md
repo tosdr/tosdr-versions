@@ -1,4 +1,4 @@
-Sunday, November 10 2024
+Monday, November 11 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
