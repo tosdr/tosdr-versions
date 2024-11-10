@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Actually, It is Buckley Carlson Who is the LabiaFace](https://www.somethingawful.com/news/buckley-carlson-spitalnick/)
-* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
-* [Alternative Movie Endings](https://www.somethingawful.com/comedy-goldmine/alternative-movie-endings/1/)
-* [DEAR FURRIES: WE WERE WRONG](https://www.somethingawful.com/news/bolgy-wolgy/)
-* [Monsters on Holiday!](https://www.somethingawful.com/photoshop-phriday/monsters-villains-vacation/1/)
+* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
+* [More Goons With Balloons](https://www.somethingawful.com/comedy-goldmine/goons-balloons-2/1/)
+* [Retail Horror Stories!](https://www.somethingawful.com/comedy-goldmine/retail-horror-stories/1/)
+* [Improper Ganda!](https://www.somethingawful.com/photoshop-phriday/improper-propaganda-posters/1/)
+* [Pretentious Games](https://www.somethingawful.com/photoshop-phriday/pretentious-games/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Native Heritage Month](http://forums.somethingawful.com/showthread.php?threadid=4075038 "Native Heritage Month")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Toxx for the Donnie stroke out itt.](http://forums.somethingawful.com/showthread.php?threadid=4075046 "Toxx for the Donnie stroke out itt.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [I want to go to jail](http://forums.somethingawful.com/showthread.php?threadid=4075039 "I want to go to jail")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Native Heritage Month](http://forums.somethingawful.com/showthread.php?threadid=4075038 "Native Heritage Month")
 
 ### Random Articles
 
-* [Food Network's Diverse Range Of Programming](https://www.somethingawful.com/news/food-network-diversity/)
-* [The Audiophile's Guide To A Perfect Stereo Setup](https://www.somethingawful.com/music-article/audiophile-stereo-guide/)
-* [This Man, His Corn](https://www.somethingawful.com/news/this-man/1/)
-* [Greatnewsdubai.ae: Wonderful News of Dubai, for You](https://www.somethingawful.com/news/dubai-debt-news/)
-* [Security Shenanigans](https://www.somethingawful.com/news/security-shenanigans/)
+* [AD&D 2nd Edition Al-Qadim Monstrous Compendium Appendix (1992)](https://www.somethingawful.com/dungeons-and-dragons/al-qadim-monsters/1/)
+* [Nintendo's Super Smash Bros for 3DS: COMPETITIVE GUIDE](https://www.somethingawful.com/news/super-smash-guide/)
+* [Mad Rail Skills](https://www.somethingawful.com/news/mad-rail-skills/)
+* [Travels With Doogie](https://www.somethingawful.com/news/travels-with-doogie/)
+* [Games with Randomly Generated Names!](https://www.somethingawful.com/comedy-goldmine/random-game-names/)
 
 [Random!](https://www.somethingawful.com/random/)
 
