@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Goons on Drugs](https://www.somethingawful.com/great-goon-database/great-goon-drugs/1/)
-* [Postage Stamps](https://www.somethingawful.com/photoshop-phriday/postage-stamps/1/)
-* [Manimated Productions](https://www.somethingawful.com/awful-links/alod_manimated/)
-* [Bad Fragmaster Poetry](https://www.somethingawful.com/news/bad-fragmaster-poetry/)
-* [Politician Album Covers! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/politician-album-covers/1/)
+* [Animal Anomalies](https://www.somethingawful.com/photoshop-phriday/animal-anomalies/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [PYF Drawing of Shrek from memory](https://www.somethingawful.com/comedy-goldmine/shrek-memory/)
+* [Lesser-Known Sleeping Positions!](https://www.somethingawful.com/photoshop-phriday/sleeping-positions-everybody/1/)
+* [The Pedo Files](https://www.somethingawful.com/weekend-web/the-pedo-files/1/)
 
 ### Popular Threads
 
@@ -219,11 +219,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Recursion](https://www.somethingawful.com/awful-movie-database/charlie-kaufman-recursion/)
-* [American Hustle; The Wolf of Wall Street; 47 Ronin](https://www.somethingawful.com/current-movie-reviews/american-hustle/1/)
-* [SA Psychoanalyzes Psychotic Synopsis](https://www.somethingawful.com/news/sa-psychoanalyzes-psychotic/)
-* [Mayhem.net](https://www.somethingawful.com/awful-links/awful-link-955/)
-* [I am a Horrible Monster and I Pray for Death](https://www.somethingawful.com/hogosphere/am-horrible-monster/)
+* [A Timeline Of The Penn State Self-Implosion](https://www.somethingawful.com/news/penn-state-timeline/)
+* [Elvendrums (Thanks, Master Shake!)](https://www.somethingawful.com/awful-links/elvendrums/)
+* [The Friend](https://www.somethingawful.com/news/the-friend/)
+* [Bold Tales of Adventure! (Part 2)](https://www.somethingawful.com/news/bold-tales-adventure-2/)
+* [Halloween: Your True Self!](https://www.somethingawful.com/awful-things-sale/halloween-true-self/)
 
 [Random!](https://www.somethingawful.com/random/)
 
