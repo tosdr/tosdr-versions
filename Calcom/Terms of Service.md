@@ -1,25 +1,19 @@
 [Cal.com logo](https://cal.com/)®
 
-[Hiring](https://cal.com/jobs)
-
+* Solutions
+    
+* [Enterprise](https://cal.com/enterprise)
+    
+* Developer
+    
+* Resources
+    
 * [Pricing](https://cal.com/pricing)
     
-* Products
-    
-* [Features](https://cal.com/resources/features)
-    
-* [Docs](https://cal.com/docs)
-    
-* [Blog](https://cal.com/blog)
-    
 
-[Login](https://app.cal.com/)
+[Sign in](https://app.cal.com/signup)
 
-[Pricing](https://cal.com/pricing)[Platform](https://cal.com/platform)[Enterprise](https://cal.com/enterprise)[Features](https://cal.com/resources/features)[Docs](https://cal.com/docs)[Blog](https://cal.com/blog)[Merch](https://cal.com/merch)
-
-Existing customer? [Login](https://app.cal.com/)
-
-[Get Started](https://app.cal.com/)
+[Get Started](https://cal.com/signup)
 
 Terms of Service
 ================
@@ -279,26 +273,13 @@ If you have any questions about these terms of service, please contact us:
 
 By email: [\[email protected\]](https://cal.com/cdn-cgi/l/email-protection).
 
-![squares](/squares-footer.svg)
-
-Let people book when it works for both of you
----------------------------------------------
-
-[Get Started](https://cal.com/signup)
-
-![Product of the Day](/product-of-the-day.svg)![Product of the Week](/product-of-the-week.svg)![Product of the Month](/product-of-the-month.svg)![Cal.com on Product Hunt](/producthunt.svg)![Cal.com on Google](/google-reviews.svg)![Cal.com on G2](/g2.svg)
-
-[Cal logo](https://cal.com/)
+[Cal.com logo](https://cal.com/)®
 
 [Hiring](https://cal.com/jobs)
 
-®
-
 Cal.com® and Cal® are a registered trademark by Cal.com, Inc. All rights reserved.
 
-[![EU-US Privacy Shield](/home/footer/eu-us.svg)](https://cal.com/security)[![ISO 27001](/home/footer/iso.svg)](https://cal.com/security)[![SOC2](/home/footer/soc2.svg)](https://cal.com/security)[![CCPA](/home/footer/ccpa.svg)](https://cal.com/security)[![GDPR](/home/footer/gdpr.svg)](https://cal.com/security)[![HIPAA](/home/footer/hipaa.svg)](https://cal.com/security)
-
-[Star](https://github.com/calcom/cal.com)
+[![EU-US Privacy Shield](/home/footer/eu-us.svg)](https://cal.com/security)[![ISO 27001](/home/footer/iso-dark.svg)](https://cal.com/security)[![SOC2](/home/footer/soc2-dark.svg)](https://cal.com/security)[![CCPA](/home/footer/ccpa-dark.svg)](https://cal.com/security)[![GDPR](/home/footer/gdpr-dark.svg)](https://cal.com/security)[![HIPAA](/home/footer/hipaa-dark.svg)](https://cal.com/security)
 
 [](https://go.cal.com/discord)[](https://twitter.com/calcom)[](https://github.com/calcom)[](https://go.cal.com/producthunt)[](https://go.cal.com/hackernews)
 
@@ -335,7 +316,7 @@ English
 * [C-suite](https://cal.com/scheduling/c-suite)
 * [Law](https://cal.com/scheduling/law)
 
-* resources
+* Resources
 * [Blog](https://cal.com/blog)
 * [Merch Store](https://cal.com/merch)
 * [Open Startup](https://cal.com/open)
@@ -359,19 +340,3 @@ English
 * [License](https://github.com/calcom/cal.com/blob/main/LICENSE)
 * [Security](https://cal.com/security)
 * [Changelog](https://cal.com/subscribe)
-
-* Compare to
-* [Calendly](https://cal.com/scheduling/calendly-alternative)
-* [ChiliPiper](https://cal.com/scheduling/chilipiper-alternative)
-* [Acuity](https://cal.com/scheduling/acuity-alternative)
-* [Nylas](https://cal.com/scheduling/nylas-alternative)
-* [Savvycal](https://cal.com/scheduling/savvycal-alternative)
-* [Cronofy](https://cal.com/scheduling/cronofy-alternative)
-* [Timekit](https://cal.com/scheduling/timekit-alternative)
-* [YouCanBook.Me](https://cal.com/scheduling/youcanbookme-alternative)
-* [Meetingbird](https://cal.com/scheduling/meetingbird-alternative)
-* [Hubspot Scheduler](https://cal.com/scheduling/hubspot-alternative)
-* [Doodle](https://cal.com/scheduling/doodle-alternative)
-* [Woven](https://cal.com/scheduling/woven-alternative)
-* [Harmonizely](https://cal.com/scheduling/harmonizely-alternative)
-* [TidyCal](https://cal.com/scheduling/tidycal-alternative)
