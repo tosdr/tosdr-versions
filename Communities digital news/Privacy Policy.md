@@ -26,13 +26,13 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-langford-1200x630.jpg)](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-beyonce-1200x630.jpg)](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
 
-[Tulane women’s basketball head coach wore Kamala shirt to kick off season, team loses](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
+[Kamala’s drubbing proves to be referendum on celeb endorsements](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-meg-whoopi-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-clooneylateshow-1200-x-628-1200x630.jpg)](https://americanwirenews.com/disheartened-george-clooney-taking-step-back-from-politics-after-kamala-thumping/)
 
-[Meghan McCain slams ‘The View’ over lack of conservative voices: ‘Radical progressive insane asylum’](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
+[‘Disheartened’ George Clooney taking ‘step back’ from politics after Kamala thumping](https://americanwirenews.com/disheartened-george-clooney-taking-step-back-from-politics-after-kamala-thumping/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cnn-discussion-3-1200x630.jpg)](https://americanwirenews.com/top-hillary-aide-says-democratic-party-being-held-hostage-to-the-far-left/)
 
@@ -58,9 +58,9 @@ Search for:
 
 [Fox News dominated election night coverage: ‘Averaged a whopping 10.3 million total viewers’](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nik-don-mike-split-1200-x-628-1200x630.jpg)
 
-### FEMA official given the boot after directing relief workers to ‘avoid homes advertising Trump’](https://americanwirenews.com/fema-official-given-the-boot-after-directing-relief-workers-to-avoid-homes-advertising-trump/)
+### Trump sets record straight on potential role Pompeo, Nikki Haley may have in his administration](https://americanwirenews.com/trump-sets-record-straight-on-potential-role-pompeo-nikki-haley-may-have-in-his-administration/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,14 @@ Search for:
 ### [WaPo owner Bezos kisses the ring](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-donaldt-kamala-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster/)
+
+[‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://americanwirenews.com/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bosa-220x180.jpg)](https://americanwirenews.com/well-worth-it-49ers-star-nick-bosa-responds-after-nfl-fines-him-for-wearing-maga-hat/)
+
+[‘Well worth it’: 49ers star Nick Bosa responds after NFL fines him for wearing MAGA hat](https://americanwirenews.com/well-worth-it-49ers-star-nick-bosa-responds-after-nfl-fines-him-for-wearing-maga-hat/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obeidallah-220x180.jpg)](https://americanwirenews.com/resistance-radio-host-becomes-an-election-denier-after-questioning-trumps-2024-win/)
 
@@ -169,14 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-smith-220x180.jpg)](https://americanwirenews.com/oprah-gets-blamed-for-alienating-voters-as-stars-failed-to-shine-for-kamala/)
 
 [Oprah gets blamed for ‘alienating’ voters as stars failed to shine for Kamala](https://americanwirenews.com/oprah-gets-blamed-for-alienating-voters-as-stars-failed-to-shine-for-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jerome-powell-220x180.jpg)](https://americanwirenews.com/trump-makes-call-on-fed-chair-jerome-powells-future/)
-
-[Trump makes call on defiant Fed Chair Jerome Powell’s future](https://americanwirenews.com/trump-makes-call-on-fed-chair-jerome-powells-future/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-skims-220x180.jpg)](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
-
-[Kim Kardashian slammed for ‘out of touch’ holiday SKIMS campaign: ‘Incredibly insensitive’](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
