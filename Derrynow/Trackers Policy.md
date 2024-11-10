@@ -266,20 +266,6 @@ Most Popular
 [IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Rory Kavanagh takes up manager's role at Watty Graham's Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
 
 Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
@@ -288,6 +274,13 @@ Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
 
 [Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas")](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
 
@@ -331,6 +324,13 @@ The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by R
 
 [Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -508,6 +508,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Call out for Christmas themed youth social event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call out for Christmas themed youth social event in Derry's Guildhall")](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
 
 The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathleen at Friday's 'Our Guildhall, Our Space' event. Centre at back is entertainer Mickey Doherty.
@@ -517,7 +524,7 @@ The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathle
 [Call out for Christmas themed youth social event in Derry's Guildhall](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Rory Kavanagh takes up manager's role at Watty Graham's Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
+[![Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/resizer/165/93/true/2024_11_09/2611484_Cropped-1731160167196.jpg--.jpg?1731160167660 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
 
 Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
 
@@ -552,13 +559,6 @@ The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by R
 
 [Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 9, 2024](https://www.derrynow.com/news/deaths/1651091/derry-death-notices-saturday-november-9-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
