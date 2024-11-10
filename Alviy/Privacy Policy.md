@@ -9,7 +9,7 @@
 * [Prices](https://alviy.com/en/price)
 * [Support](#)
     
-    [Router setup](https://alviy.com/en/router-setup/) [Clients](https://alviy.com/en/docs/clients) [API](https://alviy.com/en/docs/api) [Glossary](https://www.alviy.com/term/)
+    [Router setup](https://alviy.com/en/router-setup/) [Clients](https://alviy.com/en/docs/clients) [API](https://alviy.com/en/docs/api)
     
     [Abuse](https://cloud.alviy.com/abuse)
     
