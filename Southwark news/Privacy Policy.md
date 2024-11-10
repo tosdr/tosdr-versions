@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
+    ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
     [![Image received via Southwark Council 
     From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
@@ -52,10 +56,6 @@
     [![Diego Solarte, 44, from Stockwell, has been jailed for nine years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Diego-Solarte-44-from-Stockwell-has-been-jailed-for-nine-years-360x180.png)](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
     
     ### [Paedophile taekwondo coach from South London jailed](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
-    
-    ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
+    ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
     [![Image received via Southwark Council 
     From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
@@ -138,10 +142,6 @@ View All Result
     [![Diego Solarte, 44, from Stockwell, has been jailed for nine years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Diego-Solarte-44-from-Stockwell-has-been-jailed-for-nine-years-360x180.png)](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
     
     ### [Paedophile taekwondo coach from South London jailed](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
-    
-    ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -347,6 +347,12 @@ Website
 
 ### Popular Articles
 
+[![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+
+### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+
+[8th November 2024](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+
 [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
 ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
@@ -377,13 +383,13 @@ Website
 
 [5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
-[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
-
-### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
-
-[5th November 2024](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
-
 ### Featured Articles
+
+[![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+
+### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+
+[10th November 2024](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
 
 [![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
 
@@ -414,13 +420,6 @@ Website
 ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 [7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-[![The arches on America Street are opposite the America House apartment block.
-CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-120x86.jpg)](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-
-### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-
-[7th November 2024](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
 
 ### USEFUL PAGES
 
