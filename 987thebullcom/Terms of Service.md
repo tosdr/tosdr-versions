@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Country HouseSam Hunt<br><br>4:41am |
-| American KidsKenny Chesney<br><br>4:35am |
-| Life With YouKelsey Hart<br><br>4:33am |
-| Thinking 'Bout YouDustin Lynch Ft Mackenzie Porter<br><br>4:30am |
-| Love SomebodyMorgan Wallen<br><br>4:27am |
+| Miles On ItKane Brown Ft Marshmello<br><br>10:38am |
+| ToesZac Brown Band<br><br>10:34am |
+| I Am Not OkayJelly Roll<br><br>10:31am |
+| Dirt On My BootsJon Pardi<br><br>10:28am |
+| The BonesMaren Morris<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,17 +358,17 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+Spanish • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
