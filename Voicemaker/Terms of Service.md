@@ -60,7 +60,7 @@ Already have an account? [Login](#)
 Terms of Service
 ================
 
-Last Updated: March 1st, 2024
+Last Updated: November 10, 2024
 
 #### Introduction
 
@@ -186,6 +186,34 @@ Confidentiality obligations will however not apply to Your Information:
 * that is known to us, prior to receipt from you, or is obtained from a source other than one having an obligation of confidentiality to you;
 * that has become known (independent of disclosure by you) to us directly or indirectly from a source other than one having an obligation of confidentiality to you; or
 * that has become publicly known or otherwise ceases to be secret or confidential, except through a breach of this section by us, including if you designate a Your Information as “public” or post such information or content in a public area of the Site.
+
+  
+
+#### Voice Talent Agreement
+
+Voicemaker offers royalties to Voice Artists who license their voices for AI model creation. This section outlines the terms of royalty, usage rights, responsibilities, dataset and recording specifications:
+
+###### Royalty-Based Compensation
+
+* Voice Artists can earn royalties between 10% to 30% of revenue generated from usage of their AI voice models. Royalties are calculated based on the number of characters processed using the Voice Artist’s AI voice model, calculated per million characters used. Voice Artists can track usage metrics via a dedicated Voice Talent Dashboard.
+
+###### Payment Terms and Schedule
+
+* Royalties are distributed annually, generally in the first month of each year, and are deposited into the Voice Artist’s designated Bank or PayPal account. Voice Artists have access to a Voice Talent Dashboard, where they can track character usage and royalty earnings in real-time. This system is designed for transparency and allows artists to monitor their compensation directly. If a voice artist passes away, any outstanding royalties will be transferred to a designated nominee as specified in this agreement.
+* If the Voice Artist does not earn at least $100 in royalties per year for two consecutive years, they may request, with written consent, the ability to license their voice to other AI companies. In these cases, the original royalty rate may be reduced by 50%.
+* Voicemaker does not guarantee a minimum usage level for any AI voice model. Royalties are solely based on actual text character usage, with no minimum use requirement.
+
+###### Intellectual Property and Usage Rights
+
+* Voice Artists agree to provide Voicemaker with exclusive rights to their audio datasets for AI model development. This exclusivity restricts the Voice Artist from distributing or licensing the datasets to other AI platforms without prior written consent.
+* Voicemaker retains exclusive intellectual property rights to the AI voice model and any derived works created from the Voice Artist’s datasets. Even upon agreement termination, Voicemaker retains the right to use the Voice Artist’s datasets and AI model for up to 10 years to cover platform costs.
+
+###### Dataset and Recording Requirements
+
+* **Audio Dataset Quality:** Voice Artists must provide high-quality audio datasets that meet industry standards, specifically recorded in WAV format with a bit depth of 16-bit or 24-bit and a sample rate of 48 kHz or higher. The recording should be free of compression to maintain optimal quality.
+* **Noise Standards:** Audio recordings must be devoid of background noise, ensuring only the pure vocal quality of the Voice Artist. If any audio does not meet these quality standards, Voicemaker reserves the right to request resubmission of recordings.
+* **Minimum Dataset Duration:** Voice Artists are required to provide a minimum of 10 minutes of high-quality audio datasets. Additional recording hours may be requested by Voicemaker if needed.
+* **Recording Location and Schedule:** Recordings should be completed at a mutually agreed-upon location and time. Any schedule changes must be communicated to Voicemaker in advance.
 
   
 
