@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+    
+    ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+    
+    [![Glory Uhunarabona in her family bathroom where mould has steadily grown over eight years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Glory-Uhunarabona-in-her-family-bathroom-where-mould-has-steadily-grown-over-eight-years-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
+    
+    ### [Bermondsey mum’s eight-year black mould nightmare continues despite council admitting living conditions are ‘unacceptable’](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
+    
+    [![A group of hooded youths pictured in Rotherhithe. Image provided to Southwark News for publication.](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-1-1-360x180.png)](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
+    
+    ### [‘A masked biker tried to snatch my phone, minutes later I was threatened with a knife – but nothing came of it’](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
+    
+    [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
+    ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
     [![Image received via Southwark Council 
     From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
@@ -40,22 +56,6 @@
     [![St Olave, St Thomas and St John United Charity, based on Druid Street. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/St-Olave-St-Thomas-and-St-John-United-Charity-based-on-Druid-Street.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
     
     ### [Bermondsey charity at ‘grave risk’ after investigation, MP warns](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
-    
-    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
-    
-    ### [‘Here’s what the council is doing to tackle mobile phone snatching and anti-social behaviour this winter’](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
-    
-    [![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
-    
-    ### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
-    
-    [![Diego Solarte, 44, from Stockwell, has been jailed for nine years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Diego-Solarte-44-from-Stockwell-has-been-jailed-for-nine-years-360x180.png)](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
-    
-    ### [Paedophile taekwondo coach from South London jailed](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
-    
-    ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+    
+    ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+    
+    [![Glory Uhunarabona in her family bathroom where mould has steadily grown over eight years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Glory-Uhunarabona-in-her-family-bathroom-where-mould-has-steadily-grown-over-eight-years-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
+    
+    ### [Bermondsey mum’s eight-year black mould nightmare continues despite council admitting living conditions are ‘unacceptable’](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
+    
+    [![A group of hooded youths pictured in Rotherhithe. Image provided to Southwark News for publication.](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-1-1-360x180.png)](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
+    
+    ### [‘A masked biker tried to snatch my phone, minutes later I was threatened with a knife – but nothing came of it’](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
+    
+    [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
+    ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+    
     [![Image received via Southwark Council 
     From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
@@ -126,22 +142,6 @@ View All Result
     [![St Olave, St Thomas and St John United Charity, based on Druid Street. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/St-Olave-St-Thomas-and-St-John-United-Charity-based-on-Druid-Street.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
     
     ### [Bermondsey charity at ‘grave risk’ after investigation, MP warns](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
-    
-    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
-    
-    ### [‘Here’s what the council is doing to tackle mobile phone snatching and anti-social behaviour this winter’](https://southwarknews.co.uk/news/community/heres-what-the-council-is-doing-to-tackle-mobile-phone-snatching-and-anti-social-behaviour-this-winter/)
-    
-    [![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
-    
-    ### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
-    
-    [![Diego Solarte, 44, from Stockwell, has been jailed for nine years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Diego-Solarte-44-from-Stockwell-has-been-jailed-for-nine-years-360x180.png)](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
-    
-    ### [Paedophile taekwondo coach from South London jailed](https://southwarknews.co.uk/area/south-london/paedophile-taekwondo-coach-from-south-london-jailed/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-360x180.jpg)](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
-    
-    ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -207,6 +207,12 @@ Terms of Use
 
 ### Popular Articles
 
+[![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+
+### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+
+[8th November 2024](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
+
 [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
 ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
@@ -237,13 +243,19 @@ Terms of Use
 
 [5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
-[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
-
-### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
-
-[5th November 2024](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
-
 ### Featured Articles
+
+[![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+[10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+[![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+
+### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
+
+[10th November 2024](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
 
 [![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
 
@@ -268,19 +280,6 @@ Terms of Use
 ### [Taiko Meantime brings Japanese drumming to South London](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
 
 [8th November 2024](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
-
-[![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-[7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-[![The arches on America Street are opposite the America House apartment block.
-CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-120x86.jpg)](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-
-### [Borough residents win battle to stop railway arches opposite their homes becoming late night bars and restaurants](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
-
-[7th November 2024](https://southwarknews.co.uk/area/borough/borough-residents-win-battle-to-stop-railway-arches-opposite-their-homes-becoming-late-night-bars-and-restaurants/)
 
 ### USEFUL PAGES
 
