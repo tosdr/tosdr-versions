@@ -92,7 +92,7 @@ Search site
 
 [River Flood Warning
 
-until SUN 8:20 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until MON 8:40 AM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
