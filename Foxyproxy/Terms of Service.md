@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service worked flawlessly, and when I travel overseas again in early January I will certainly renew.
+I think your tool is awesome!
 
-Scott Campbell
+Masa Ruduy
