@@ -137,37 +137,38 @@ MSX Music player
 
 Latest reactions
 
-* [Alley Cat for MSX 2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX 2 available for sale soon")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
+* [Alley Cat for MSX 2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX 2 available for sale soon")
+* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
-* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Darwin](https://www.msx.org/downloads/darwin "Darwin")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 
 Latest forum posts
 
-* [Can't get the EGG Launcher to run](https://www.msx.org/forum/msx-talk/software/cant-get-the-egg-launcher-to-run "Can't get the EGG Launcher to run")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=75 "WonderTANG! Who wants to juice up your MSX?")
+* [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
+* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
+* [The BIG MSXVR Q&A thread](https://www.msx.org/forum/msx-talk/hardware/the-big-msxvr-qa-thread?page=33 "The BIG MSXVR Q&A thread")
+* [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
+* [The Great Gianna Sisters](https://www.msx.org/forum/msx-talk/general-discussion/the-great-gianna-sisters "The Great Gianna Sisters")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
+* [Can't get the EGG Launcher to run](https://www.msx.org/forum/msx-talk/software/cant-get-the-egg-launcher-to-run "Can't get the EGG Launcher to run")
 * [Street Fighter 2 - MSX - Who plays this game ?](https://www.msx.org/forum/msx-talk/development/street-fighter-2-msx-who-plays-this-game?page=7 "Street Fighter 2 - MSX - Who plays this game ?")
 * [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=2 "How do I get to the 2nd and other partitions "drives"?")
 * [Bin2Bas (Python Script)](https://www.msx.org/forum/msx-talk/development/bin2bas-python-script "Bin2Bas (Python Script)")
-* [The Great Gianna Sisters](https://www.msx.org/forum/msx-talk/general-discussion/the-great-gianna-sisters "The Great Gianna Sisters")
 * [BASIC-Kun for Omega MSX](https://www.msx.org/forum/msx-talk/hardware/basic-kun-for-omega-msx "BASIC-Kun for Omega MSX")
-* [Life on Earth/Myths and Dragons on MegaFlashROM SCC+ SD](https://www.msx.org/forum/msx-talk/software/life-on-earthmyths-and-dragons-on-megaflashrom-scc-sd "Life on Earth/Myths and Dragons on MegaFlashROM SCC+ SD")
-* [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
-* [FutureDisk 48 and 49](https://www.msx.org/forum/msx-talk/software/futuredisk-48-and-49 "FutureDisk 48 and 49")
-* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
-* [multiple value variable](https://www.msx.org/forum/msx-talk/development/multiple-value-variable "multiple value variable")
-* [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k?page=1 "9958 FPGA drop-in clone is here: TN-VDP 20K.")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [Alley Cat for MSX 2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX 2 available for sale soon")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
@@ -180,7 +181,6 @@ News headlines
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
-* [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
