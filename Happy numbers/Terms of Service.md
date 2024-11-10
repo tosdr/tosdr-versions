@@ -1,142 +1,189 @@
+[![banner](https://s3.us-west-1.amazonaws.com/happy-banners/Evergreen/1440.svg)](https://happynumbers.com/auth/signup)
+
 [![logo](https://static.happynumbers.com/teachers/headers/happy-logo.svg)](https://happynumbers.com/?redirect=no)
 
 For ParentsFor AdminsContact us[Curriculum](https://happynumbers.com/math)[Pricing](https://happynumbers.com/pricing)[Set up your class](https://happynumbers.com/auth/signup)
 
-Terms Of Service
-================
+Math Centers that Deliver – Differentiaton Done Right
+=====================================================
 
-Welcome to HappyNumbers.com. The following Terms of Service ("ToS") govern all use of the www.happynumbers.com website, including happynumbers.com/blog (the "Website) and all content, services, features, activities, and products available through the Website, including interactive Mathematics lessons, Happy Printables and Happy Letters (collectively, the "Services").
+While you teach small groups, Happy Numbers individualizes instruction for the rest of the class, and gives you actionable insights about student growth.
 
-The Services are provided by Happy Numbers Inc., a corporation incorporated under the laws of the state of Delaware, having its principal place of business at 2261 Market Street STE 22178, San Francisco, CA 94114, USA.
+[I’m a Teacher
 
-By using the Services, you agree to these ToS and Happy Numbers' Privacy Policy.
+Sign in to your account or sign up for one](https://happynumbers.com/auth/login)[I’m a Student
 
-Date of issue of this User Agreement: 01/04/2017
+Sign in to your account (created by your teacher)](https://happynumbers.com/find_class)
 
-Last updated: 10/15/2024
+![home background](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/home-image-bg.svg)![home background mobile](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/home-image-bg-mobile.svg)![home](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/home-image.svg)![home mobile](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/home-image-mobile.svg)
 
-If you do not agree with all the terms and conditions of this Agreement, we kindly ask that you refrain from using the Website or the Services. These Terms of Service may be amended periodically, and Happy Numbers will communicate any changes to you via email. By logging into the Website, your explicit acceptance of the updated Terms of Service will signify your consent to these modifications. Users have the option to terminate the modified Services within 45 days of the new Terms of Service being issued.
-
-1\. Your Responsibility for Internet Access
--------------------------------------------
-
-To use the Website, you must gain access to the Internet, either directly or through devices that access web based content, and pay any service and/or telephony fees associated with such access.
-
-You are responsible for obtaining and maintaining all necessary consents, licenses, and relevant filings and settings for the Website and/or intellectual property rights connected to any Services for your use. You shall ensure that the Services are not utilized in a manner that violates any applicable laws, regulations, or third party rights, including intellectual property rights, or that incites or facilitates such violations.
-
-2\. Customer Accounts
----------------------
-
-To access most of the Services, you may need to create an account. By creating an account, you affirm that:
-
-* You meet the eligibility criteria for an account as specified in these Terms of Service;
+* ![essa-logo](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/essa-logo.png)
     
-* Your personal information is accurate, current, and not misleading;
+    Evidence  
+    for ESSA
     
-* You are authorized to access and use the Services in accordance with applicable laws and regulations.
+* ![classlink-logo](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/classlink-logo.svg)
+    
+    ClassLink Curriculum  
+    & Content Partner
+    
+* ![ferpa-logo](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/ferpa-logo.svg)
+    
+    COPPA, FERPA,  
+    AB1584 Compliant
+    
+* ![clever-logo](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/clever-logo.svg)
+    
+    Clever Top-Rated  
+    Math Resource
     
 
-User accounts may be obtained by individuals who are 18 years or older, or of legal age in their country of residence if it exceeds 18, or who are below the legal age and older than 13 but authorized by their parents or legal representatives.
+Happy Numbers is helping 2 million students grow in math!  
+Here's what their teachers think:
+---------------------------------------------------------------------------------------------
 
-You are responsible for maintaining the confidentiality of your account, login, and password and for any activity that occurs through your account.
+[Get it started for free](https://happynumbers.com/auth/login)
 
-3\. Pricing
------------
+College Readiness Lives or Dies in Elementary Classrooms
+--------------------------------------------------------
 
-Happy Numbers provides free and paid licenses for Teacher accounts. Teacher accounts allow you to use exercises on an interactive whiteboard for group instruction and modeling. Individual student accounts are connected to Teacher accounts and may require a paid subscription. For pricing inquiries, contact support@happynumbers.com.
+Only ⅓ of US high school students are ready for college math. [Those who lag behind their peers by grade 8 have been on this clear trajectory since kindergarten](https://my.nctm.org/blogs/evgeny-milyutin/2018/09/10/algebra-or-primary-math-crisis-1). To prepare today’s elementary students for the jobs of tomorrow, we first need to prepare them for high school and college.  
+  
+This is why implementing quality resources and instruction in grades PK-5 is so critical.
 
-4\. Supervising Children
-------------------------
+![college-readiness](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/college-readiness.svg)
 
-Happy Numbers is concerned about the safety and privacy of all its users, particularly children. Parents, legal representatives, or teachers should assist children in accessing the Services and supervise their use of the Website.
+Happy Numbers is research based
+-------------------------------
 
-Happy Numbers acknowledges that students' personally identifiable information remains under the direct control of parents and the school.
+[View all studies](https://happynumbers.com/blog/happy-numbers-results-proven-by-research/)
 
-If you are a teacher, you represent that you have express consent from children's parents or legal representatives to use the Services.
+![essa-logo](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/essa-logo.png)
 
-Parents or legal representatives who become aware of unauthorized minor registration should contact us for account deletion.
+Evidence  
+for ESSA
 
-5\. Indemnification
--------------------
+Depth over Breadth, Quality over Quantity
+-----------------------------------------
 
-You agree to indemnify and hold Happy Numbers and its subsidiaries, affiliates, licensors, licensees, officers, agents, co-branders, and other partners, employees, and contractors harmless from any liabilities, losses, damages, claims, penalties, fines, costs, and expenses, including, without limitation, reasonable legal fees, that may arise in connection with (i) your use of and access to the Website and Services, including, without limitation, any text, logo, graphic, image, video, music, or any multimedia file (the “Content”), as well as your connection to the Website; (ii) your, your children's, or a third party's failure to comply with any provision of the Terms of Service (ToS); or (iii) any claim by a third party that any other use of the Website by you or your children infringes any intellectual property or other proprietary or privacy rights of such third party, or has otherwise caused damage to a third party.
+“All-singing, all-dancing” resources don’t lead to deep conceptual understanding. Time-tested pedagogy and research do. Happy Numbers is built on this vision － empowered by the latest technology and shaped through our work with real teachers across the country.
 
-6\. Modifications to Services
------------------------------
+![match-pattern](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/match-pattern.svg)
 
-Happy Numbers reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website and the Services (or any part thereof) with or without notice. You agree that Happy Numbers shall not be liable to you or any third party for any modification, suspension, or discontinuance of the Website. Although Happy Numbers will take reasonable care to ensure that the Content is up to date, any of the Content may be outdated at any given time, and Happy Numbers is under no obligation to update it.
+### Connected PK – 5 Math Story
 
-Happy Numbers may add, delete, or modify some or all of the Services. In such cases, you will be notified by email of any changes and will be given the option to either continue using your account or terminate it.
+Math by its very nature is an interconnected subject that builds on itself, and so is Happy Numbers. It’s a coherent PK-5 math story, not a shopping list of stand-alone rules and processes. The thoughtfully-designed progression of skills, concepts, connections, and tools that students acquire through Happy Numbers ensures a firm foundation for middle school and beyond.
 
-7\. Intellectual Property
--------------------------
+### Meaning behind Math with Every Touch
 
-All content displayed on or available through the Website is the exclusive property of Happy Numbers or used with express permission.
+Mastering math is about more than just getting the right answer. Students need to understand the reasoning behind their actions, having the flexibility to respond to challenges along the way.  
+  
+Happy Numbers technology allows for hands-on modeling with a diverse range of manipulatives. Through multiple representations Read more...
 
-You acknowledge and agree that copyright, trademark, or other intellectual property rights infringement may result in legal action.
+![math-meaning](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/math-meaning.svg)
 
-Happy Numbers grants you a limited, revocable, non-exclusive license to access the Website and Happy Printables to, as applicable, research, view, make legitimate inquiries or comments, and use Services and Happy Printables for personal purposes only, all in accordance with these ToS.
+![individualized-scaffolding](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/individualized-scaffolding.svg)
 
-Any other use of the Website is expressly prohibited. Importantly, this license does not include any right to collection, aggregation, copying, duplication, display, or derivative use of the Website, nor any right to use data mining, robots, spiders, or similar data gathering and extraction tools without our prior written permission; provided, however, that a limited exception to the preceding exclusion is provided for general-purpose internet search engines and non-commercial public archives that use tools to gather information solely for the purpose of displaying hyperlinks to the Website, provided they each do so from a stable IP address or range of IP addresses using an easily identifiable agent.
+### Individualized Scaffolding and Feedback
 
-8\. Prohibited Activities
--------------------------
+Happy Numbers builds an individualized math dialogue and responds to students just the way you would: unpacking concepts step-by-step, scaffolding learning, and providing immediate feedback based on student inputs.  
+  
+Individualized pacing means those who demonstrate mastery progress more quickly, and those who need more instruction receive it. As a result, Read more...
 
-You must not misuse the Website by knowingly introducing viruses, Trojans, worms, logic bombs, or other malicious or technologically harmful materials. You must refrain from attempting to gain unauthorized access to the Website, the server on which the Website is stored, or any server, computer, or database connected to the Website. You must not attack our Website via a denial-of-service attack or a distributed denial-of-service attack.
+![dino-glad](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/dino-glad.svg)
 
-You may commit a criminal offense in several jurisdictions by breaching this provision. Happy Numbers may report any such breach to the relevant law enforcement authorities, and Happy Numbers may cooperate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use the Website will cease immediately.
+And did we mention?  
+...students love it!
 
-Happy Numbers will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses, or other technologically harmful materials that may cause damage to your computer equipment, computer programs, data, or other proprietary materials due to your use of the Website or your downloading of any materials posted on it or on any website linked to it.
+![quotes](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/quotes.svg)
 
-9\. Disclaimers and Limitation of Liability
--------------------------------------------
+\[Happy Numbers\] is the most comprehensive and effective technology teaching tool  
+[I have ever used for my Kindergarten and First Grade classes!](https://happynumbers.com/blog/hitting-math-benchmarks-in-k-2-case-study/)
 
-THE WEBSITE AND SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND. HAPPY NUMBERS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+![george](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/george.png)
 
-HAPPY NUMBERS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES RESULTING FROM YOUR USE OR INABILITY TO USE THE WEBSITE OR SERVICES.
+George Regan
 
-10\. Privacy
-------------
+Slackwood Elementary School  
+in New Jersey
 
-Our Privacy Policy explains how we collect, process, use, and disclose your personal information. You can access it at [https://happynumbers.com/privacy-policy](https://happynumbers.com/privacy-policy)
-
-11\. Notices
-------------
-
-We may provide notices to you via email, post, or website announcements. The Website may also display notices of changes to the ToS or other matters.
-
-12\. Copyright Infringement
----------------------------
-
-If you believe your intellectual property rights have been infringed on the Website, please contact us with detailed information about the alleged infringement.
-
-13\. Entire Agreement
----------------------
-
-These ToS constitute the entire agreement between you and Happy Numbers regarding their subject matter, superseding and extinguishing any prior agreements, arrangements, or undertakings of any nature between you and Happy Numbers, whether oral or written, related to such subject matter. You may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content, or third-party software.
-
-14\. Termination
+Quick Sneak Peak
 ----------------
 
-We may suspend or terminate your access to the Website and Services at our sole discretion, with or without notice, for any reason, including breach of this User Agreement. Any suspected illegal, fraudulent, or abusive activity may be grounds for terminating your account and may be referred to the appropriate law enforcement authorities. Your right to use our Services will immediately cease upon suspension or termination. We reserve the right to remove or delete any information you may have on file with us, including any account or login information.
+Experience it yourself as you view a student
 
-15\. Governing Law and Jurisdiction
------------------------------------
+![card-preview](https://static.happynumbers.com/main-page/count-in-rows.png)
 
-These ToS and all matters arising out of or relating to these ToS shall be governed by the substantive laws of the State of California, USA, without regard to its principles of conflicts of laws. Any disputes shall be subject to the exclusive jurisdiction of the courts of the State of California, USA.
+Count in Rows
 
-16\. Contact Us
----------------
+![card-preview](https://static.happynumbers.com/main-page/buttons-on-jacket.png)
 
-For questions or suggestions about these ToS or your personal information, please contact us at:
+Count in Columns
 
-Happy Numbers Inc.,  
-2261 Market Street STE 22178  
-San Francisco, CA 94114  
-USA  
-support@happynumbers.com  
-Phone: +1-800-815-1574  
-Fax: +1-650-618-8611
+![card-preview](https://static.happynumbers.com/main-page/rectangle-above-triangle.png)
+
+Choose Above or Below
+
+PK
+
+K
+
+Gr. 1
+
+Gr. 2
+
+Gr. 3
+
+Gr. 4
+
+Gr. 5
+
+Differentiation = Success for Every Student
+-------------------------------------------
+
+The average 1-to-1-instructed student scores higher than 98% of those in a conventional non-differentiated classroom. That’s the power of individualized instruction: every student can succeed.
+
+### How can a teacher be everywhere at once?
+
+While we can’t clone teachers, Happy Numbers can ensure students get quality instruction when working independently (freeing up teachers to differentiate with small groups):
+
+* Each student starts off at the right point in the curriculum thanks to built-in Quantile-based assessments
+    
+* Students progress at their own pace through our pedagogy-rich math story, supported by instant, individualized feedback and scaffolding
+    
+* Teachers get actionable insights from Happy Numbers to inform their differentiation strategy
+    
+
+![differentiation](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/differentiation.svg)
+
+Why individualized instruction? [Download the Whitepaper](https://shared.happynumbers.com/whitepaper.pdf).
+
+Super Easy to Set Up
+--------------------
+
+[Set up your class!](https://happynumbers.com/teacher)
+
+Safe and Easy to Use
+--------------------
+
+We took care of everything
+
+* ![devices](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/devices.svg)
+    
+    Compatible with Any Device & Browser
+    
+* ![beling](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/beling.svg)
+    
+    Available in Spanish and English
+    
+* ![support](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/support.svg)
+    
+    Ready to Support Any Time You Need
+    
+* ![data](https://happy-s3-static2.s3.us-west-1.amazonaws.com/teachers/main-page/data.svg)
+    
+    Keep Your Data Protected
+    
 
 [![logo](https://static.happynumbers.com/teachers/headers/happy-logo.svg)](https://happynumbers.com/?redirect=no)
 
