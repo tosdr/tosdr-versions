@@ -189,8 +189,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**UNUM Chat: Atul Gawande** | Ken Burns UNUM](https://video.nhpbs.org/video/unum-chat-atul-gawande-xebbze?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Henry Mancini 100 at the Hollywood Bowl Preview** | Great Performances](https://video.nhpbs.org/video/henry-mancini-100-at-the-hollywood-bowl-preview-axuu8h?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Sheri Says: How to Roast Peppers** | The Key Ingredient](https://video.nhpbs.org/video/sheri-says-how-to-roast-peppers-sums9n?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Washington Week with the Atlantic full episode, 11/8/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-11824-4oass1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Perception Gap** | The State We're In](https://video.nhpbs.org/video/the-perception-gap-rzkdst?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Washington Week with the Atlantic full episode, 11/8/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-11824-4oass1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Demographics Behind Trump Win; Future of Women's Rights** | To The Contrary](https://video.nhpbs.org/video/demographics-behind-trump-win-future-of-womens-rights-w0h7td?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Jon Meacham** | Firing Line](https://video.nhpbs.org/video/jon-meacham-srg8g5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
