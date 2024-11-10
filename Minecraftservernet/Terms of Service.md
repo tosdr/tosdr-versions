@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
 
-Crafted Survival SMP](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival SMP")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1731212597.png.pagespeed.ic.QrQr2ku6lx.png)
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![Amici_In_Game](plugins/MineCraft/icons/25x25xAmici_In_Game_1730564282.png.pagespeed.ic.TNeKx33hh0.png)
 
-BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+Amici In Game](https://minecraft-server.net/details/Amici_In_Game/ "Amici In Game")[![PLAYKRETMCPL](plugins/MineCraft/icons/25x25xPLAYKRETMCPL_1699453929.png.pagespeed.ic.csO5XeMY1u.png)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Minecraft Bedrock PL](https://minecraft-server.net/details/PLAYKRETMCPL/ "Minecraft Bedrock PL")[![WinterCrest](plugins/MineCraft/icons/25x25xWinterCrest_1730715587.png.pagespeed.ic.abyuJw4X9V.png)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")
+WinterCrest Non Grief Survival](https://minecraft-server.net/details/WinterCrest/ "WinterCrest Non Grief Survival ")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06473 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06721 - Created by [Debaucus](https://debauc.us/)
