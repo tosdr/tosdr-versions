@@ -36,18 +36,18 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![Google says “Enhanced protection” feature in Chrome now uses AI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Google says “Enhanced protection” feature in Chrome now uses AI](https://www.bleepingcomputer.com/news/google/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
+    * [![Scammers target UK senior citizens with Winter Fuel Payment texts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Scammers target UK senior citizens with Winter Fuel Payment texts](https://www.bleepingcomputer.com/news/security/scammers-target-uk-senior-citizens-with-winter-fuel-payment-texts/)
+    * [![Hands on with AI features in Windows 11 Paint and Notepad](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hands on with AI features in Windows 11 Paint and Notepad](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-ai-features-in-windows-11-paint-and-notepad/)
     * [![Microsoft says recent Windows 11 updates break SSH connections](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft says recent Windows 11 updates break SSH connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-11-updates-break-ssh-connections/)
-    * [![Malicious PyPI package with 37,000 downloads steals AWS keys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Malicious PyPI package with 37,000 downloads steals AWS keys](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-with-37-000-downloads-steals-aws-keys/)
-    * [![Save 86% on Microsoft Visio 2024 for a limited time](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Save 86% on Microsoft Visio 2024 for a limited time](https://www.bleepingcomputer.com/offer/deals/save-86-percent-on-microsoft-visio-2024-for-a-limited-time/)
-    * [![Critical Veeam RCE bug now used in Frag ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Critical Veeam RCE bug now used in Frag ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -309,12 +309,12 @@ Popular Stories
 * [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CISA warns of critical Palo Alto Networks bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-palo-alto-networks-bug-exploited-in-attacks/)
+* [![Mazda infotainment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
 * [![SteelFox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New SteelFox malware hijacks Windows PCs using vulnerable driver](https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
-* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Hackers increasingly use Winos4.0 post-exploitation kit in attacks](https://www.bleepingcomputer.com/news/security/hackers-increasingly-use-winos40-post-exploitation-kit-in-attacks/)
 
 ##### Follow us:
 
