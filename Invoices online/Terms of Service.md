@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=96847619)  
-Dombieterfontein (PTY) LTD
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=68762175)  
+Mtunzini Group
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=40906546)  
-Chiron Medical Solutions
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=164806781)  
+IEMS (PTY) ltd
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=86421035)  
-McKaynine Mobility
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=83099018)  
+Kainos (Pty) Ltd
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=119023023)  
-Cpower Projects t/a Pro Pure Water
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=172331053)  
+LEONARD
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=1272932)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=13231775)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=35064965)  
-Nilbet T/A Waterman
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=94226223)  
+Iurus Inc
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=124158518)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=41522332)  
+WIP Digital Solutions
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=133241332)  
-Wiselink Broadband Pty Ltd
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=47688269)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=78177141)  
-Qothiphango Mining
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=51912412)  
+Echo Recording Studio cc
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=66068568)  
-Highlands Auto Engineering
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=155698393)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=208419869)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=138557984)  
+Desygn
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=93108870)  
-Atalie Scented Candles Pty Ltd
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=75402034)  
+#DiGi3 Marketing & Design
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=153150922)  
-OXYAIDER (PTY) LTD
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=101230823)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=84064320)  
-Cooper Power
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=160502574)  
+OrgChart Hosting Pty Ltd
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=472032daba5b20fe1c345ae668e19eb39d1b99816593ed0b120cbe84d778e5fa&c=145862646)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=44af0e24da272783f6674765947f3840849d0ed55a0dcf9257f5c9fbbd924908&c=74609080)  
+Digifax Pty) Ltd t/a Findfish
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
