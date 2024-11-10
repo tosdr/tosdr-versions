@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Supernatural Science: Previous Lives](/wp-content/thumbnails/1308-100x70.jpg?x53432)
+* [![Ghibli: The Miyazaki Temple](/wp-content/thumbnails/5922-100x70.jpg?x53432)
     
-    Supernatural Science: Previous Lives
+    Ghibli: The Miyazaki Temple
     
-    Millions believe in reincarnation. Is there proof that is really happens? Do people pass through many lifetimes and can they bring back memories from having lived before? Therapies now encouraging peo](https://documentaryheaven.com/supernatural-science-previous-lives/ "Supernatural Science: Previous Lives")
-* [![Hitman Hart: Wrestling with Shadows](/wp-content/thumbnails/3365-100x70.jpg?x53432)
+    Documentary about Studio Ghibli and the legendary anime director Miyazaki. Includes interviews with a variety of animators, directors, artists etc. in the field of anime, as well as Miyazaki himself.](https://documentaryheaven.com/ghibli-the-miyazaki-temple/ "Ghibli: The Miyazaki Temple")
+* [![Hacking Power, Corruption and Lies](/wp-content/thumbnails/9083-100x70.jpg?x53432)
     
-    Hitman Hart: Wrestling with Shadows
+    Hacking Power, Corruption and Lies
     
-    Hitman Hart: Wrestling with shadows is a documentary about the legendary WWF and WWE wrestler, Bret ‘The Hitman’ Hart. This is about a man making it to the top and the human cost: his father’s legacy](https://documentaryheaven.com/wrestling-with-shadows/ "Hitman Hart: Wrestling with Shadows")
-* [![EP2/4 Wonders of the Universe](/wp-content/thumbnails/5690-100x70.jpg?x53432)
+    This BBC Panorama Special covers the scandal that reached deep into the heart of the British establishment, which centered on Rupert Murdoch's media empire. David Cameron's former spokesman](https://documentaryheaven.com/hacking-power-corruption-lies/ "Hacking Power, Corruption and Lies") 
+* [![Louis Theroux on Fundamentalist Christianity](/wp-content/thumbnails/398-100x70.png?x53432)
     
-    EP2/4 Wonders of the Universe
+    Louis Theroux on Fundamentalist Christianity
     
-    Stardust In the second stop in his exploration of the wonders of the universe, Professor Brian Cox goes in search of humanity’s very essence to answer the biggest questions of all: what are we? And wh](https://documentaryheaven.com/wonders-of-the-universe-2/ "EP2/4 Wonders of the Universe")
-* [![Preview: Petenera – a Flamenco Drama in Music and Dance](/wp-content/thumbnails/2863-100x70.jpg?x53432)
+    This is a video that is about Fundamentalist Christianity by Louis Theroux. It provides some insight into the nature of the religion, beliefs, morals, reasons, etc.](https://documentaryheaven.com/louis-theroux-on-fundamentalist-christianity/ "Louis Theroux on Fundamentalist Christianity")
+* [![The Truth about Street Weapons](/wp-content/thumbnails/6847-100x70.jpg?x53432)
     
-    Preview: Petenera – a Flamenco Drama in Music and Dance
+    The Truth about Street Weapons
     
-    (For Preview Only) In this unique 2-hrs DVD, Petenera – a Flamenco Drama in Music and Dance recreates the legendary femme fatale that has haunted flamenco lore for centuries. It portrays her lonelines](https://documentaryheaven.com/preview-petenera-%e2%80%93-a-flamenco-drama-in-music-and-dance/ "Preview: Petenera – a Flamenco Drama in Music and Dance")
-* [![Winged Seduction: Birds Of Paradise](/wp-content/thumbnails/8617-100x70.jpg?x53432)
+    2008 has seen a staggering number of teenage gang and knife attacks on Britain's streets with a death toll comparable to that of our troops fighting in Afghanistan and Iraq.Dr Tunje Lasoye, Head o](https://documentaryheaven.com/the-truth-about-street-weapons/ "The Truth about Street Weapons")
+* [![Louis Theroux: By Reason of Insanity](/wp-content/thumbnails/9735-100x70.jpg?x53432)
     
-    Winged Seduction: Birds Of Paradise
+    Louis Theroux: By Reason of Insanity
     
-    Tim Laman a photographer for National Geographic and ornithologist Ed Scholes have been traveling to some of the most remote jungles the world has to offer in search of observing and photographing all](https://documentaryheaven.com/winged-seduction-birds-of-paradise/ "Winged Seduction: Birds Of Paradise")
+    Here is Louis Theroux latest documentary which is two parts and see's him immerse himself in the world of mental health by paying a visit to Ohio's maximum security state psychiatric hospitals and mee](https://documentaryheaven.com/louis-theroux-by-reason-of-insanity/ "Louis Theroux: By Reason of Insanity")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
