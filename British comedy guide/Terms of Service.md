@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/are_you_being_served_staff.jpg "Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC")](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/) Features
+
+[Comedy Rewind: Dear Sexy Knickers - A love letter to 'Are You Being Served?'](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/)
+
 [![A Christmas Carol(ish). David Elms. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/d/david_elms_christmas_carol_ish.jpg "A Christmas Carol(ish). David Elms. Credit: Matt Crockett")](https://www.comedy.co.uk/live/fgwg/david-elms/) Live
 
 [First Gig, Worst Gig: David Elms](https://www.comedy.co.uk/live/fgwg/david-elms/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris](https://cdn.comedy.co.uk/images/library/misc/300x200/a/austentatious_2024.jpg "Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris")](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/) Live
 
 [Austentatious Q&A with Rachel Parris](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/)
-
-[![The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_full_monty.jpg "The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)")](https://www.comedy.co.uk/quiz/331/) Quiz
-
-[British Comedy Quiz #331](https://www.comedy.co.uk/quiz/331/)
 
 #### Subscribe to our newsletters
 
