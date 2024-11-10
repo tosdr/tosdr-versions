@@ -190,19 +190,14 @@
 
 Subscribe
 
-[#### Skin Care](https://www.healthline.com/skincare)
+[#### Sexual Health](https://www.healthline.com/sexual-health)
 
-* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
-* [Science](https://www.healthline.com/skincare/skin-science)
-* [Ingredients](https://www.healthline.com/skincare/ingredients)
-* [Routine](https://www.healthline.com/skincare/build-your-routine)
-* [Acne](https://www.healthline.com/skincare/acne)
-* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
-* [Procedures](https://www.healthline.com/skincare/procedures)
-* [Products](https://www.healthline.com/skincare/products)
-* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
-* [Natural](https://www.healthline.com/skincare/natural-and-diy)
-* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
+* [Birth control](https://www.healthline.com/sexual-health/birth-control)
+* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
+* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
+* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
+* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
+* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
 
 Privacy Policy
 ==============
