@@ -309,6 +309,18 @@ _By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelew
 
 _By_ [Shi En Kim](https://www.quantamagazine.org/authors/shienkim)
 
+[![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+
+[#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Persuasive-LLMs_crNash-Weerasekera-Thumbnail.webp)](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
+
+[#### Debate May Help AI Models Converge on Truth](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
+
+_By_ [Stephen Ornes](https://www.quantamagazine.org/authors/stephen-ornes)
+
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
