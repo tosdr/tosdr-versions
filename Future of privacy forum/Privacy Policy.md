@@ -6,6 +6,7 @@
     * [FPF Training Program](https://fpf.org/training)
     * [Private Trainings](https://fpf.org/training-private)
     * [FPF Training Faculty](https://fpf.org/training/faculty)
+    * [FPF Training Program FAQs](https://fpf.org/fpf-training-program-2024-faqs/)
 * [FPF Portal](https://engage.fpf.org/home)
 * [Contact](https://fpf.org/contact)
 * [Search](https://fpf.org/?s=)
