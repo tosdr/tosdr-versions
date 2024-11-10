@@ -343,14 +343,14 @@ From time to time we may change our privacy practices. We will notify you of any
 
 **Recent Events**
 
-* [Today](https://www.setlist.fm/search?query=date:2024-11-09 "Search setlists by day: "Today"")
-* [Yesterday](https://www.setlist.fm/search?query=date:2024-11-08 "Search setlists by day: "Yesterday"")
+* [Today](https://www.setlist.fm/search?query=date:2024-11-10 "Search setlists by day: "Today"")
+* [Yesterday](https://www.setlist.fm/search?query=date:2024-11-09 "Search setlists by day: "Yesterday"")
+* [Nov 8, 2024](https://www.setlist.fm/search?query=date:2024-11-08 "Search setlists by day: "Nov 8, 2024"")
 * [Nov 7, 2024](https://www.setlist.fm/search?query=date:2024-11-07 "Search setlists by day: "Nov 7, 2024"")
 * [Nov 6, 2024](https://www.setlist.fm/search?query=date:2024-11-06 "Search setlists by day: "Nov 6, 2024"")
 * [Nov 5, 2024](https://www.setlist.fm/search?query=date:2024-11-05 "Search setlists by day: "Nov 5, 2024"")
 * [Nov 4, 2024](https://www.setlist.fm/search?query=date:2024-11-04 "Search setlists by day: "Nov 4, 2024"")
 * [Nov 3, 2024](https://www.setlist.fm/search?query=date:2024-11-03 "Search setlists by day: "Nov 3, 2024"")
-* [Nov 2, 2024](https://www.setlist.fm/search?query=date:2024-11-02 "Search setlists by day: "Nov 2, 2024"")
 
 **© setlist.fm**
 
