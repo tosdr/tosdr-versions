@@ -150,6 +150,7 @@ Latest reactions
 
 Latest forum posts
 
+* [Can't get the EGG Launcher to run](https://www.msx.org/forum/msx-talk/software/cant-get-the-egg-launcher-to-run "Can't get the EGG Launcher to run")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [Street Fighter 2 - MSX - Who plays this game ?](https://www.msx.org/forum/msx-talk/development/street-fighter-2-msx-who-plays-this-game?page=7 "Street Fighter 2 - MSX - Who plays this game ?")
 * [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=2 "How do I get to the 2nd and other partitions "drives"?")
@@ -162,7 +163,6 @@ Latest forum posts
 * [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
 * [multiple value variable](https://www.msx.org/forum/msx-talk/development/multiple-value-variable "multiple value variable")
 * [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k?page=1 "9958 FPGA drop-in clone is here: TN-VDP 20K.")
-* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
