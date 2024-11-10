@@ -150,4 +150,4 @@ Pirate Party Australia Incorporated
 INC: 9892436 ABN: 99 462 965 754  
   
 
-![](//analytics.pirateparty.org.au/js/index.php?rec=1&idsite=1&rec=1)
+![](https://analytics.pirateparty.org.au/js/index.php?rec=1&idsite=1&rec=1)
