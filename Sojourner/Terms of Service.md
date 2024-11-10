@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7beedcbd1e3e08a2123a7117e60655e5
+05822fea87f35595897d1445f9ac1189
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Large fancy agate flat oval beads](https://sojourner.biz/images/cache/stone/STN015.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
+[![Green swirl button clasp](https://sojourner.biz/images/cache/SKU0279front.200.jpg)](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
 
-#### [Large fancy agate flat oval beads](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
+#### [Green swirl button clasp](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
 
-$18.00
+$17.00
 
 ### Best Sellers
 
