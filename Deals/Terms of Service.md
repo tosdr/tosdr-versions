@@ -1,10 +1,10 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)    
 
-![](https://img.gg.deals/2b/46/36efa4539b68ae7eaaa4b2415cac07fdb6ff_1224cr120_Q100.jpg)
+![](https://img.gg.deals/12/4c/49e8d04ee039531f44a01b1987f6163379c3_1224cr120_Q100.jpg)
 
-![](https://img.gg.deals/af/5d/ed030f16bb3d5f2190d057f80cafe4cd2d38_2560xt1440_Q100.jpg)
+![](https://img.gg.deals/12/4c/49e8d04ee039531f44a01b1987f6163379c3_2560xt1440_Q100.jpg)
 
-[](https://gg.deals/us/redirect/0b09abd946c59be794aaf099e1c27476ac098895/?utm_campaign=top-banner&utm_source=page%2Fpage)
+[](https://gg.deals/us/redirect/4d6fbe8187817776e5356e6c26bdaeeadaaec8f0/?utm_campaign=top-banner&utm_source=page%2Fpage)
 
 Region: United States
 
