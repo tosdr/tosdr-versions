@@ -602,7 +602,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Day & Night Eye Perfection GWP Starts Now! Free w/ $120+ USE CODE: AMPM](https://www.100percentpure.com/products/day-night-eye-perfection-gwp "https://www.100percentpure.com/products/day-night-eye-perfection-gwp")
+[Your Eye-Defining Duo - FREE with $60 Purchase! USE CODE: EYES24](https://www.100percentpure.com/products/day-night-eye-perfection-gwp "https://www.100percentpure.com/products/day-night-eye-perfection-gwp")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
