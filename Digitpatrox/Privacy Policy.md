@@ -20,16 +20,16 @@ Sunday, November 10 2024
 
 Latest
 
+* [It Just Got Easier to Change Your iPhone’s Default Browser, Email App, and More](https://digitpatrox.com/it-just-got-easier-to-change-your-iphones-default-browser-email-app-and-more/)
+* [Most Reliable Central Air Conditioning Systems](https://digitpatrox.com/most-reliable-central-air-conditioning-systems/)
+* [The 24 Funniest and Rare Reddit Trophies and Achievements You Can Get](https://digitpatrox.com/the-24-funniest-and-rare-reddit-trophies-and-achievements-you-can-get/)
+* [I test gaming mice for a living — these are the five I would buy right now](https://digitpatrox.com/i-test-gaming-mice-for-a-living-these-are-the-five-i-would-buy-right-now/)
+* [Microsoft says recent Windows 11 updates break SSH connections](https://digitpatrox.com/microsoft-says-recent-windows-11-updates-break-ssh-connections/)
+* [Andor’s second season hits Disney Plus in April](https://digitpatrox.com/andors-second-season-hits-disney-plus-in-april/)
+* [Today’s Wordle Answer and Hints (November 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-10-2024/)
 * [You Can Get This iPad Pro on Sale for $600 Right Now](https://digitpatrox.com/you-can-get-this-ipad-pro-on-sale-for-600-right-now/)
 * [Best Dishwashers for $500 or Less](https://digitpatrox.com/best-dishwashers-for-500-or-less/)
 * [Don’t Take the Bait on These Phishing Scams](https://digitpatrox.com/dont-take-the-bait-on-these-phishing-scams/)
-* [I drove a BMW i4 M50 Gran Coup EV for a week — here’s my pros and cons](https://digitpatrox.com/i-drove-a-bmw-i4-m50-gran-coup-ev-for-a-week-heres-my-pros-and-cons/)
-* [Hands on with AI features in Windows 11 Paint and Notepad](https://digitpatrox.com/hands-on-with-ai-features-in-windows-11-paint-and-notepad/)
-* [Seagate’s 2TB Xbox Expansion Card has returned to its best price to date](https://digitpatrox.com/seagates-2tb-xbox-expansion-card-has-returned-to-its-best-price-to-date/)
-* [NYT Strands Today: Hints, Answers & Spangram for November 10](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-10/)
-* [What It’s Like to Train for a Race With Garmin’s Training Plans](https://digitpatrox.com/what-its-like-to-train-for-a-race-with-garmins-training-plans/)
-* [18 Best Kitchen Appliances of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/18-best-kitchen-appliances-of-2024-lab-tested-and-reviewed/)
-* [Your Smart TV Might Have a Camera—Here’s What You Can Do With It](https://digitpatrox.com/your-smart-tv-might-have-a-camera-heres-what-you-can-do-with-it/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J7EMTW9AYCXJGB5W8NEKVNQK/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-ipad-pro-on-sale-for-600-right-now/)
+* [![](https://lifehacker.com/imagery/articles/01JC35MKTGSXN4GAKC1C54K312/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/it-just-got-easier-to-change-your-iphones-default-browser-email-app-and-more/)
     
-    [You Can Get This iPad Pro on Sale for $600 Right Now](https://digitpatrox.com/you-can-get-this-ipad-pro-on-sale-for-600-right-now/)
+    [It Just Got Easier to Change Your iPhone’s Default Browser, Email App, and More](https://digitpatrox.com/it-just-got-easier-to-change-your-iphones-default-browser-email-app-and-more/)
     
-    37 mins ago
+    39 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731093146/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Best-Dishwashers-for-500-or-less-1124)](https://digitpatrox.com/best-dishwashers-for-500-or-less/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1718988012/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Central-AC-0624)](https://digitpatrox.com/most-reliable-central-air-conditioning-systems/)
     
-    [Best Dishwashers for $500 or Less](https://digitpatrox.com/best-dishwashers-for-500-or-less/)
+    [Most Reliable Central Air Conditioning Systems](https://digitpatrox.com/most-reliable-central-air-conditioning-systems/)
     
-    47 mins ago
+    49 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/security-265130.jpg)](https://digitpatrox.com/dont-take-the-bait-on-these-phishing-scams/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/reddit-mascot-with-some-trophies-and-achievements-behind-him.jpg)](https://digitpatrox.com/the-24-funniest-and-rare-reddit-trophies-and-achievements-you-can-get/)
     
-    [Don’t Take the Bait on These Phishing Scams](https://digitpatrox.com/dont-take-the-bait-on-these-phishing-scams/)
+    [The 24 Funniest and Rare Reddit Trophies and Achievements You Can Get](https://digitpatrox.com/the-24-funniest-and-rare-reddit-trophies-and-achievements-you-can-get/)
     
-    48 mins ago
+    50 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/NJGdxGfu25EcGLcVXUahuK-1200-80.jpg)](https://digitpatrox.com/i-drove-a-bmw-i4-m50-gran-coup-ev-for-a-week-heres-my-pros-and-cons/)
+* [![](https://cdn.mos.cms.futurecdn.net/HGN8LHfmFNtui6DFz8BmWb-1200-80.png)](https://digitpatrox.com/i-test-gaming-mice-for-a-living-these-are-the-five-i-would-buy-right-now/)
     
-    [I drove a BMW i4 M50 Gran Coup EV for a week — here’s my pros and cons](https://digitpatrox.com/i-drove-a-bmw-i4-m50-gran-coup-ev-for-a-week-heres-my-pros-and-cons/)
+    [I test gaming mice for a living — these are the five I would buy right now](https://digitpatrox.com/i-test-gaming-mice-for-a-living-these-are-the-five-i-would-buy-right-now/)
     
     2 hours ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/09/18/Paint.jpg)](https://digitpatrox.com/hands-on-with-ai-features-in-windows-11-paint-and-notepad/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/02/Windows_11_headpic.jpg)](https://digitpatrox.com/microsoft-says-recent-windows-11-updates-break-ssh-connections/)
     
-    [Hands on with AI features in Windows 11 Paint and Notepad](https://digitpatrox.com/hands-on-with-ai-features-in-windows-11-paint-and-notepad/)
+    [Microsoft says recent Windows 11 updates break SSH connections](https://digitpatrox.com/microsoft-says-recent-windows-11-updates-break-ssh-connections/)
     
     3 hours ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [37 mins ago
+* [39 mins ago
     
-    ### You Can Get This iPad Pro on Sale for $600 Right Now](https://digitpatrox.com/you-can-get-this-ipad-pro-on-sale-for-600-right-now/)
-* [47 mins ago
+    ### It Just Got Easier to Change Your iPhone’s Default Browser, Email App, and More](https://digitpatrox.com/it-just-got-easier-to-change-your-iphones-default-browser-email-app-and-more/)
+* [49 mins ago
     
-    ### Best Dishwashers for $500 or Less](https://digitpatrox.com/best-dishwashers-for-500-or-less/)
-* [48 mins ago
+    ### Most Reliable Central Air Conditioning Systems](https://digitpatrox.com/most-reliable-central-air-conditioning-systems/)
+* [50 mins ago
     
-    ### Don’t Take the Bait on These Phishing Scams](https://digitpatrox.com/dont-take-the-bait-on-these-phishing-scams/)
+    ### The 24 Funniest and Rare Reddit Trophies and Achievements You Can Get](https://digitpatrox.com/the-24-funniest-and-rare-reddit-trophies-and-achievements-you-can-get/)
 
 Most Popular Topics
 
-* [September 10, 2024
+* [October 4, 2024
     
-    ### Blood Pressure Monitors Don’t Fit Millions of People](https://digitpatrox.com/blood-pressure-monitors-dont-fit-millions-of-people/)
-* [2 weeks ago
+    ### What to Do When You Hit a Deer](https://digitpatrox.com/what-to-do-when-you-hit-a-deer/)
+* [August 11, 2024
     
-    ### LSU vs Texas A&M livestream: How to watch college football Week 9 game online from anywhere](https://digitpatrox.com/lsu-vs-texas-am-livestream-how-to-watch-college-football-week-9-game-online-from-anywhere/)
-* [September 2, 2024
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [4 weeks ago
     
-    ### California rehab center hacked by Abyss, SSNs compromised](https://digitpatrox.com/california-rehab-center-hacked-by-abyss-ssns-compromised/)
+    ### YouTube Music Could Finally Get This Simple Playlist Feature Soon](https://digitpatrox.com/youtube-music-could-finally-get-this-simple-playlist-feature-soon/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for November 10](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-10/)
+    ### Today’s Wordle Answer and Hints (November 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-10-2024/)
 * [6 hours ago
     
-    ### What It’s Like to Train for a Race With Garmin’s Training Plans](https://digitpatrox.com/what-its-like-to-train-for-a-race-with-garmins-training-plans/)
+    ### You Can Get This iPad Pro on Sale for $600 Right Now](https://digitpatrox.com/you-can-get-this-ipad-pro-on-sale-for-600-right-now/)
 * [6 hours ago
     
-    ### 18 Best Kitchen Appliances of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/18-best-kitchen-appliances-of-2024-lab-tested-and-reviewed/)
+    ### Best Dishwashers for $500 or Less](https://digitpatrox.com/best-dishwashers-for-500-or-less/)
 
 Most Viewed Topics
 
@@ -249,10 +249,10 @@ Most Viewed Topics
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 12, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
