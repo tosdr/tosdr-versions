@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. digital marketing
+1. data science
     
-2. French
+2. finance
     
-3. html
+3. web development
     
 
 Popular subjects
