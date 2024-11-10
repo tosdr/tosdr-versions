@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://www.theepochtimes.com/us/trump-wins-arizona-completing-sweep-of-7-battleground-states-5754084)
+    
+    1hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753648-GettyImages-2182728325-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-wins-arizona-completing-sweep-of-7-battleground-states-5754084)
+* [Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://www.theepochtimes.com/us/trump-says-nikki-haley-mike-pompeo-wont-be-part-of-his-administration-5757245)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://img.theepochtimes.com/assets/uploads/2018/11/26/nikki-haley-e1543263355153-205x123.jpeg.webp)](https://www.theepochtimes.com/us/trump-says-nikki-haley-mike-pompeo-wont-be-part-of-his-administration-5757245)
+* [Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://www.theepochtimes.com/us/chinese-national-arrested-again-after-multiple-efforts-to-enter-mar-a-lago-5757235)
+    
+    3hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    
+    [![Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757239-li-zijie-205x123.jpg.webp)](https://www.theepochtimes.com/us/chinese-national-arrested-again-after-multiple-efforts-to-enter-mar-a-lago-5757235)
+* [School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://www.theepochtimes.com/article/school-districts-that-spent-covid-19-money-on-hiring-now-grapple-with-layoffs-5743002)
+    
+    3hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756826-School-layoffs-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/school-districts-that-spent-covid-19-money-on-hiring-now-grapple-with-layoffs-5743002)
+* [Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://www.theepochtimes.com/business/space-heaters-baby-sleepwear-recalled-due-to-burn-hazard-5757116)
+    
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757119-Kyte-1-205x123.jpg.webp)](https://www.theepochtimes.com/business/space-heaters-baby-sleepwear-recalled-due-to-burn-hazard-5757116)
+* [Long Bitter Foes, US and Russia Face Prospect of Talks After Trump Election Win](https://www.theepochtimes.com/us/long-bitter-foes-us-and-russia-face-prospect-of-talks-after-trump-election-win-5756786)
+    
+    4hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![Long Bitter Foes, US and Russia Face Prospect of Talks After Trump Election Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Long Bitter Foes, US and Russia Face Prospect of Talks After Trump Election Win](https://img.theepochtimes.com/assets/uploads/2022/03/15/GettyImages-1152460535-205x123.jpg.webp)](https://www.theepochtimes.com/us/long-bitter-foes-us-and-russia-face-prospect-of-talks-after-trump-election-win-5756786)
+* [Stunned by Election Results, Democrats Continue to Point Fingers](https://www.theepochtimes.com/us/stunned-by-election-results-democrats-continue-to-point-fingers-5757118)
+    
+    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Stunned by Election Results, Democrats Continue to Point Fingers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Stunned by Election Results, Democrats Continue to Point Fingers](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755684-11062024-DSC08452-Harris-concession-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/stunned-by-election-results-democrats-continue-to-point-fingers-5757118)
+* [Day in Photos: Protest Over Floods, Railway Explosion, and a Lookalike Competition](https://www.theepochtimes.com/article/day-in-photos-protest-over-floods-railway-explosion-and-a-lookalike-competition-5757101)
+    
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Protest Over Floods, Railway Explosion, and a Lookalike Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Protest Over Floods, Railway Explosion, and a Lookalike Competition](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757213-GettyImages-2183872862-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-protest-over-floods-railway-explosion-and-a-lookalike-competition-5757101)
+* [Here Are the Uncalled House Races That Will Determine Control of the Chamber](https://www.theepochtimes.com/us/here-are-the-uncalled-house-races-that-will-determine-control-of-the-chamber-5757110)
+    
+    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Here Are the Uncalled House Races That Will Determine Control of the Chamber](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Here Are the Uncalled House Races That Will Determine Control of the Chamber](https://img.theepochtimes.com/assets/uploads/2024/07/16/id5687637-GettyImages-1246018028-205x123.jpg.webp)](https://www.theepochtimes.com/us/here-are-the-uncalled-house-races-that-will-determine-control-of-the-chamber-5757110)
 * [2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://www.theepochtimes.com/us/2-women-arrested-in-colorado-ballot-scheme-tried-to-test-voting-signature-system-affidavit-5757121)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![2 Women Arrested in Colorado Ballot Scheme Tried to ‘Test’ Voting Signature System: Affidavit](https://img.theepochtimes.com/assets/uploads/2024/03/04/id5600500-20240304_160614-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-women-arrested-in-colorado-ballot-scheme-tried-to-test-voting-signature-system-affidavit-5757121)
-* [Can an Aspirin a Day Keep the Doctor Away?](https://www.theepochtimes.com/health/aspirin-remarkable-for-preventing-heart-attacks-is-not-a-supplement-for-everyone-5744493)
-    
-    2hr By [Flora Zhao](https://www.theepochtimes.com/author/flora-zhao)
-    
-    [![Can an Aspirin a Day Keep the Doctor Away?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Can an Aspirin a Day Keep the Doctor Away?](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756906-Untitled_Artwork-4-205x123.jpg.webp)](https://www.theepochtimes.com/health/aspirin-remarkable-for-preventing-heart-attacks-is-not-a-supplement-for-everyone-5744493)
-* [Costco Sales Rise Ahead of the Holiday Season](https://www.theepochtimes.com/business/costco-sales-rise-ahead-of-the-holiday-season-5757079)
-    
-    2hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
-    
-    [![Costco Sales Rise Ahead of the Holiday Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Costco Sales Rise Ahead of the Holiday Season](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757083-GettyImages-2161665699-205x123.jpeg.webp)](https://www.theepochtimes.com/business/costco-sales-rise-ahead-of-the-holiday-season-5757079)
-* [Biden, Trump to Meet Wednesday as Transition Stage Gets Underway](https://www.theepochtimes.com/us/biden-trump-to-meet-wednesday-as-transition-stage-gets-underway-5757111)
-    
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Biden, Trump to Meet Wednesday as Transition Stage Gets Underway](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden, Trump to Meet Wednesday as Transition Stage Gets Underway](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674527-trump-biden-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-trump-to-meet-wednesday-as-transition-stage-gets-underway-5757111)
-* [ChatGPT Rejected Over 250,000 Requests to Create Images of Presidential Candidates Before Election](https://www.theepochtimes.com/tech/chatgpt-rejected-over-250000-requests-to-create-images-of-presidential-candidates-before-election-5757047)
-    
-    3hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![ChatGPT Rejected Over 250,000 Requests to Create Images of Presidential Candidates Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![ChatGPT Rejected Over 250,000 Requests to Create Images of Presidential Candidates Before Election](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5692585-AI-205x123.jpg.webp)](https://www.theepochtimes.com/tech/chatgpt-rejected-over-250000-requests-to-create-images-of-presidential-candidates-before-election-5757047)
-* [Labor Board Tightens Limits on What Employers Can Say During Unionization Efforts](https://www.theepochtimes.com/us/labor-board-tightens-limits-on-what-employers-can-say-during-unionization-efforts-5756815)
-    
-    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Labor Board Tightens Limits on What Employers Can Say During Unionization Efforts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Labor Board Tightens Limits on What Employers Can Say During Unionization Efforts](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636506-Starbucks-Union-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/labor-board-tightens-limits-on-what-employers-can-say-during-unionization-efforts-5756815)
-* [Voters in 3 States Approve Paid Sick Leave, 2 States to Increase Minimum Wage](https://www.theepochtimes.com/business/voters-in-3-states-approve-paid-sick-leave-2-states-to-increase-minimum-wage-5756938)
-    
-    4hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Voters in 3 States Approve Paid Sick Leave, 2 States to Increase Minimum Wage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Voters in 3 States Approve Paid Sick Leave, 2 States to Increase Minimum Wage](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756468-voters-GettyImages-2183139788-205x123.jpg.webp)](https://www.theepochtimes.com/business/voters-in-3-states-approve-paid-sick-leave-2-states-to-increase-minimum-wage-5756938)
-* [DeSantis Orders Probe After FEMA Allegedly Avoided Trump Supporters’ Homes](https://www.theepochtimes.com/us/desantis-orders-probe-after-fema-allegedly-avoided-trump-supporters-homes-5757020)
-    
-    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![DeSantis Orders Probe After FEMA Allegedly Avoided Trump Supporters’ Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DeSantis Orders Probe After FEMA Allegedly Avoided Trump Supporters’ Homes](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740560-DeSantis-AP24286622555863-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-orders-probe-after-fema-allegedly-avoided-trump-supporters-homes-5757020)
-* [Bill Ackman Seeks to Delist Companies From Amsterdam After Attack on Israelis](https://www.theepochtimes.com/business/bill-ackman-seeks-to-delist-companies-from-amsterdam-after-attack-on-israelis-5757070)
-    
-    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Bill Ackman Seeks to Delist Companies From Amsterdam After Attack on Israelis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Bill Ackman Seeks to Delist Companies From Amsterdam After Attack on Israelis](https://img.theepochtimes.com/assets/uploads/2024/04/25/id5637621-Bill-Ackman-e1650701331203-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/bill-ackman-seeks-to-delist-companies-from-amsterdam-after-attack-on-israelis-5757070)
-* [Incumbent Democrat Wins Nevada Senate Race](https://www.theepochtimes.com/us/incumbent-democrat-wins-nevada-senate-race-5753286)
-    
-    6hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Incumbent Democrat Wins Nevada Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Incumbent Democrat Wins Nevada Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757095-sen-jacky-rosen-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/incumbent-democrat-wins-nevada-senate-race-5753286)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
