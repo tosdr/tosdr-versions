@@ -95,87 +95,39 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Unique Environment for Life
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Life_On_Venus_1400x1050.jpg)](https://www.icr.org/article/have-scientists-found-life-on-venus)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
 
-[Have Scientists Found Life on Venus?](https://www.icr.org/article/have-scientists-found-life-on-venus/)
+[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
 
-Secular scientists are obsessed with attempting to show that life on Earth is not unique and therefore must exist, if not elsewhere in our solar system...
+“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/news/astrobiology_follow_wide.jpg)](https://www.icr.org/article/astrobiology-follow-)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14402)
 
-[Astrobiology: Follow the . . .](https://www.icr.org/article/astrobiology-follow-/)
+[God's Standards](https://www.icr.org/article/14402/)
 
-"Astrobiology" is a curious science. Like its predecessor "exobiology" it is, as George Gaylord Simpson once quipped, "a...
+“Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in...
 
-BY: [DAVID F. COPPEDGE](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=175)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Record_Breaking_Mouse_1400x1050.jpg)](https://www.icr.org/article/record-breaking-mouse-higher-than-any-mammal)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/transforming-light)
 
-[Record-Breaking Mouse, Higher Than Any Mammal](https://www.icr.org/article/record-breaking-mouse-higher-than-any-mammal/)
+[The Transforming Light of Salvation](https://www.icr.org/article/transforming-light/)
 
-Recently, researchers have reported on the world’s “highest-dwelling mammal,” the yellow-rumped leaf-eared mouse, observed upon a dormant...
+“For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/dinosaurspider_1400x1050.jpg)](https://www.icr.org/article/dinosaur-spider-still-spider)
-
-[Dinosaur Spider Is Still a Spider](https://www.icr.org/article/dinosaur-spider-still-spider/)
-
-A giant “dinosaur age” trapdoor spider fossil has been unearthed from McGraths Flat in central New South Wales, Australia. The Zoological...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/ICR_Mar23_wallpaper_Main.jpg)](https://www.icr.org/article/march-2023-icr-wallpaper)
-
-[March 2023 ICR Wallpaper](https://www.icr.org/article/march-2023-icr-wallpaper/)
-
-"Sing to the Lord with thanksgiving; Sing praises on the harp to our God, Who covers the heavens with clouds, Who prepares rain for the earth, Who...
-
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
-
-[![](/i/Main%20Stage%20-%201400x1050/turtlefossil_1400x1050.jpg)](https://www.icr.org/article/bav-turtle-fossil-supports)
-
-[Bavarian Turtle Fossil Supports Marine Mixing](https://www.icr.org/article/bav-turtle-fossil-supports/)
-
-A new discovery of a foot-long marine turtle fossil was announced in central Bavaria, southern Germany.1 The species, dubbed Solnhofia parsoni,...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
 
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
 
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
-
-Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
-
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
-
-$4.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
-
-Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
-
-$9.99
-
-$15.99
+$29.99
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
@@ -184,6 +136,26 @@ Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-
 $2.99
 
 $7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
+
+Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
+
+$9.99
+
+$15.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
