@@ -418,9 +418,9 @@ Top
     
     [Why Do Indians like to Take Photos with Foreigners? \[Selfies Included!\]](https://blog.karlrock.com/why-do-indians-like-to-take-photos-with-foreigners-selfies-included/ "Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]")
     
-* [![Travel Essentials: Before You Travel to India](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/04/2.-Male-Book-on-the-table-with-travel-objects-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-    [Travel Essentials: Before You Travel to India](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
