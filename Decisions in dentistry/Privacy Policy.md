@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Ensure the safety of your operatory with these ess ![Ensure the safety of your operatory with these essential disinfection tips for clinical surfaces. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCJ6TBOtWwz/) 
+
 [Get ready for an EXCLUSIVE Black Friday CE deal th ![Get ready for an EXCLUSIVE Black Friday CE deal that’s BIGGER than our main event! 📣🎉🙌🏼
 🔓📧Subscribe to our emails before Nov 13 and unlock EXTRA SAVINGS in your inbox!
 👉🏼Click the link in our bio, then click “Join Our Newsletter”
@@ -219,13 +226,6 @@ You're going to LOVE how much you learn!⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB_nHvaMiC0/) 
-
-[This case report illustrates the successful applic ![This case report illustrates the successful application of the 10 keys for immediate implant placement in the esthetic zone. By following a meticulous, evidence-based approach, the team delivered optimal esthetic and functional outcomes, with a final follow-up showing long-term stability and patient satisfaction. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB9CUvFMChH/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
