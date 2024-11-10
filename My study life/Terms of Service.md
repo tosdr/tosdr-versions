@@ -52,7 +52,7 @@
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%20682'%3E%3C/svg%3E)
 
- ![](https://mystudylife.com/wp-content/uploads/2022/01/bannergen1.png)
+ ![](https://mystudylife.com/wp-content/uploads/2022/01/xbannergen1.png.pagespeed.ic.V0suOD68gy.jpg)
 
 Terms of Service
 ================
