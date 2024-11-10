@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[One dead, several injured in shooting at university's homecoming celebration](https://nypost.com/2024/11/10/us-news/tuskegee-university-shooting-leaves-one-dead-several-injured-at-alabama-school/)
-
 Terms Of Use
 ============
 
