@@ -4,11 +4,10 @@
 
 (Vérizieu – Ain – 281m)
 
-* [Twitter](https://twitter.com/mtthsgonzalez)
-* [Instagram](https://www.instagram.com/mtthsgonzalez/)
+* [X](https://x.com/mtthsgz)
+* [Instagram](https://www.instagram.com/mtthsgz/)
 * [YouTube](https://www.youtube.com/@flying38)
 * [E-mail](mailto:webmaster@flying38.net)
-* [Mastodon](https://mastodon.social/@MtthsGonzalez)
 
 Menu
 
