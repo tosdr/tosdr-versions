@@ -1,4 +1,4 @@
-![](https://project-ouroboros-p-pub.s3.amazonaws.com/9bMhilfcaQCbvxpW0Vdc1ZGq/HomePage_Logo.png "sandialabs")
+![sandialabs](https://project-ouroboros-p-pub.s3.amazonaws.com/9bMhilfcaQCbvxpW0Vdc1ZGq/HomePage_Logo.png "sandialabs")
 
 Log into Yello
 ==============
