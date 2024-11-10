@@ -335,25 +335,26 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Grippostad C Stickpack bei Erkältung 12Stk](https://www.medikamente-per-klick.de/product?artnr=09671871&simpleContentAttachmentId=14183&wochenklick)  
-**Sonderangebot**  
-[![Sonderangebot](/images/products/medikamenteperklick/mittel/09671871_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=09671871&simpleContentAttachmentId=14183&wochenklick)
+[GAVISCON Liquid Suspension bei Sodbrennen (24x10 ml) während der Schwangerschaft](https://www.medikamente-per-klick.de/product?artnr=10982961&simpleContentAttachmentId=14183&wochenklick)  
+\*\*\*auch für nicht schwangere Menschen geeignet\*\*\***  
+Sonderangebot**  
+[![Sonderangebot](/images/products/medikamenteperklick/mittel/10982961_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=10982961&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
 
-16,37 €\*
+22,97 €\*
 
 Ihr Preis:
 
-9,18 €\*
+9,99 €\*
 
 Sie sparen:
 
-7,19 € \-44%
+12,98 € \-57%
 
 2024-11-10 20:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=09671871&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=10982961&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -649,4 +650,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=dbkwmicjhyfeuzdlxewxfcldmpjptwsh&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=sbaoyaicminobrunwyzlcqhccytwlfbu&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
