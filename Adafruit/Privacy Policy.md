@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If I have seen further it is by standing on the shoulders of giants”
+“ It is the fate of manufactured goods to slowly and gently depreciate as they get old... but it is the fate of operating systems to become free”
 
-[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
+[Neal Stephenson](http://www.nealstephenson.com/)
 
 [](https://www.adafruit.com/about)
 
