@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Allianz Care](https://www.expatexchange.com/banner/allianz_expat_health_insurance_ldr4.gif)](https://www.kqzyfj.com/click-1462468-13892475?sid=43062-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_Leaderboard_Blue.png)](https://www.expatexchange.com/partnerdirect/100/69503-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![Allianz Care](https://www.expatexchange.com/banner/allianz_mpu.gif)](https://www.kqzyfj.com/click-1462468-13892475?sid=43062-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_MPU_Blue.png)](https://www.expatexchange.com/partnerdirect/100/69503-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)
+[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/75779-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[SJB Global](https://www.expatexchange.com/partnerdirect/182/75779-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
+[Learn More](https://www.expatexchange.com/partnerdirect/182/75779-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Learn More")
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/75779-MOBILE-cbar-vrs-A-hicontent-Global-62)[SJB Global](https://www.expatexchange.com/partnerdirect/182/75779-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
+[Learn More](https://www.expatexchange.com/partnerdirect/182/75779-MOBILE-cbar-vrs-A-hicontent-Global-62 "Learn More")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
