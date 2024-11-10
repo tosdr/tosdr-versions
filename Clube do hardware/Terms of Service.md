@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1834467218_menu)
+ [Compartilhar](#elShareItem_1750611290_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1379210357_menu)
+ [Compartilhar](#elShareItem_1420346276_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,35 +365,95 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![LoordSTAR](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/The-Batman-Complete-Series-Blu-ray-Featured-01.thumb.jpg.1bb7da782c37eb0f230d53d711a5f2cb.jpg)](https://www.clubedohardware.com.br/profile/1255836-loordstar/ "Ir ao perfil de LoordSTAR")
+    * [![Pablo medonho](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1135589.thumb.jpeg.226b21745ed242108c7c80314edf7edc.jpeg)](https://www.clubedohardware.com.br/profile/1135589-pablo-medonho/ "Ir ao perfil de Pablo medonho")
         
         0
+        
+        [2 ou 4 pentes de ram amd](https://www.clubedohardware.com.br/forums/topic/1701990-2-ou-4-pentes-de-ram-amd/?do=getNewComment "2 ou 4 pentes de ram amd")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Pablo medonho](https://www.clubedohardware.com.br/profile/1135589-pablo-medonho/ "Ir ao perfil de Pablo medonho")  
+        4 minutos atrás
+        
+    * [![LeoziinG0D](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255843.thumb.png.c8fcdf0de10841f69201b6422b2092a1.png)](https://www.clubedohardware.com.br/profile/1255843-leoziing0d/ "Ir ao perfil de LeoziinG0D")
+        
+        0
+        
+        [Processador Intel para suportar RTX3060](https://www.clubedohardware.com.br/forums/topic/1701989-processador-intel-para-suportar-rtx3060/?do=getNewComment "Processador Intel para suportar RTX3060")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [LeoziinG0D](https://www.clubedohardware.com.br/profile/1255843-leoziing0d/ "Ir ao perfil de LeoziinG0D")  
+        18 minutos atrás
+        
+    * [![matheus lucas santos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252190.thumb.png.f33eafaa817f20eb1852660e2aac62ed.png)](https://www.clubedohardware.com.br/profile/1252190-matheus-lucas-santos/ "Ir ao perfil de matheus lucas santos")
+        
+        0
+        
+        [Informação sobre qual placa fica boa com o amd a10 7860k a placa maefm2a68m-dg3+](https://www.clubedohardware.com.br/forums/topic/1701988-informa%C3%A7%C3%A3o-sobre-qual-placa-fica-boa-com-o-amd-a10-7860k-a-placa-maefm2a68m-dg3/?do=getNewComment "Informação sobre qual placa fica boa com o amd a10 7860k a placa maefm2a68m-dg3+")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [matheus lucas santos](https://www.clubedohardware.com.br/profile/1252190-matheus-lucas-santos/ "Ir ao perfil de matheus lucas santos")  
+        59 minutos atrás
+        
+    * [![Engenheiro Leigo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255839.thumb.jpeg.a654aa5497a787d6d20887cad4c50a86.jpeg)](https://www.clubedohardware.com.br/profile/1255839-engenheiro-leigo/ "Ir ao perfil de Engenheiro Leigo")
+        
+        1
+        
+        [Indiquem uma configuração custo/benefício](https://www.clubedohardware.com.br/forums/topic/1701987-indiquem-uma-configura%C3%A7%C3%A3o-custobenef%C3%ADcio/?do=getNewComment "Indiquem uma configuração custo/benefício")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Engenheiro Leigo](https://www.clubedohardware.com.br/profile/1255839-engenheiro-leigo/ "Ir ao perfil de Engenheiro Leigo")  
+        3 horas atrás
+        
+    * [![ZeePanzer](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/imported-photo-1234833.thumb.png.1c7f09c129b1e6b9432d3efe312eb380.png)](https://www.clubedohardware.com.br/profile/1234833-zeepanzer/ "Ir ao perfil de ZeePanzer")
+        
+        1
+        
+        [Posicionamento de Water cooler com bomba no Radiador.](https://www.clubedohardware.com.br/forums/topic/1701986-posicionamento-de-water-cooler-com-bomba-no-radiador/?do=getNewComment "Posicionamento de Water cooler com bomba no Radiador.")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [ZeePanzer](https://www.clubedohardware.com.br/profile/1234833-zeepanzer/ "Ir ao perfil de ZeePanzer")  
+        4 horas atrás
+        
+    * [![mrzats](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236297c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255838-mrzats/ "Ir ao perfil de mrzats")
+        
+        0
+        
+        [Computador antigo se recusa a ser formatado](https://www.clubedohardware.com.br/forums/topic/1701985-computador-antigo-se-recusa-a-ser-formatado/?do=getNewComment "Computador antigo se recusa a ser formatado")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [mrzats](https://www.clubedohardware.com.br/profile/1255838-mrzats/ "Ir ao perfil de mrzats")  
+        4 horas atrás
+        
+    * [![LoordSTAR](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/The-Batman-Complete-Series-Blu-ray-Featured-01.thumb.jpg.1bb7da782c37eb0f230d53d711a5f2cb.jpg)](https://www.clubedohardware.com.br/profile/1255836-loordstar/ "Ir ao perfil de LoordSTAR")
+        
+        1
         
         [Gabinete Gamer Mancer CV100 Purple Edition, ARG](https://www.clubedohardware.com.br/forums/topic/1701984-gabinete-gamer-mancer-cv100-purple-edition-arg/?do=getNewComment "Gabinete Gamer Mancer CV100 Purple Edition, ARG")
         
         [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
         Por [LoordSTAR](https://www.clubedohardware.com.br/profile/1255836-loordstar/ "Ir ao perfil de LoordSTAR")  
-        1 hora atrás
+        7 horas atrás
         
     * [![jotta.jg_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1238143.thumb.jpeg.80604a3a112aca9633a71dc366c5db48.jpeg)](https://www.clubedohardware.com.br/profile/1238143-jottajg_/ "Ir ao perfil de jotta.jg_")
         
-        0
+        3
         
         [Qual upgrade vocês me recomendariam a fazer](https://www.clubedohardware.com.br/forums/topic/1701983-qual-upgrade-voc%C3%AAs-me-recomendariam-a-fazer/?do=getNewComment "Qual upgrade vocês me recomendariam a fazer")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
         Por [jotta.jg\_](https://www.clubedohardware.com.br/profile/1238143-jottajg_/ "Ir ao perfil de jotta.jg_")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Dizzee](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255835.thumb.png.78b45accb86f862a8bce8acb416fdb65.png)](https://www.clubedohardware.com.br/profile/1255835-dizzee/ "Ir ao perfil de Dizzee")
         
-        0
+        1
         
         [CX500 suporta RTX4060TI nessa configuração?](https://www.clubedohardware.com.br/forums/topic/1701982-cx500-suporta-rtx4060ti-nessa-configura%C3%A7%C3%A3o/?do=getNewComment "CX500 suporta RTX4060TI nessa configuração?")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [Dizzee](https://www.clubedohardware.com.br/profile/1255835-dizzee/ "Ir ao perfil de Dizzee")  
-        2 horas atrás
+        7 horas atrás
         
     * [![Yan Mangabeira Sousa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_5651.thumb.jpeg.0c5a965d494e5c6610ec8b437c0fa17b.jpeg)](https://www.clubedohardware.com.br/profile/1255823-yan-mangabeira-sousa/ "Ir ao perfil de Yan Mangabeira Sousa")
         
@@ -403,67 +463,7 @@ Mais opções...
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [Yan Mangabeira Sousa](https://www.clubedohardware.com.br/profile/1255823-yan-mangabeira-sousa/ "Ir ao perfil de Yan Mangabeira Sousa")  
-        2 horas atrás
-        
-    * [![nathan1010](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253890.thumb.png.cd261ea43c011cf68b41dc9a0264d3e0.png)](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")
-        
-        0
-        
-        [water cooler rise mode aura ice black suporta o ryzen 7 7800x3d ?](https://www.clubedohardware.com.br/forums/topic/1701980-water-cooler-rise-mode-aura-ice-black-suporta-o-ryzen-7-7800x3d/?do=getNewComment "water cooler rise mode aura ice black suporta o ryzen 7 7800x3d ?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [nathan1010](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")  
-        3 horas atrás
-        
-    * [![Tarley de jesus](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255830.thumb.jpeg.6b4e2e4520ad6aaa890109a0874f8163.jpeg)](https://www.clubedohardware.com.br/profile/1255830-tarley-de-jesus/ "Ir ao perfil de Tarley de jesus")
-        
-        0
-        
-        [Rx 6700xt red devil powercolor RGB travouna cor azul e não muda mais](https://www.clubedohardware.com.br/forums/topic/1701979-rx-6700xt-red-devil-powercolor-rgb-travouna-cor-azul-e-n%C3%A3o-muda-mais/?do=getNewComment "Rx 6700xt red devil powercolor RGB travouna cor azul e não muda mais")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Tarley de jesus](https://www.clubedohardware.com.br/profile/1255830-tarley-de-jesus/ "Ir ao perfil de Tarley de jesus")  
-        3 horas atrás
-        
-    * [![Gui18281](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255831.thumb.jpeg.ace32e2451fd51c94d8cc13d1e5c861e.jpeg)](https://www.clubedohardware.com.br/profile/1255831-gui18281/ "Ir ao perfil de Gui18281")
-        
-        1
-        
-        [Meu Pc liga, porém depois de 1 minuto ele desliga](https://www.clubedohardware.com.br/forums/topic/1701978-meu-pc-liga-por%C3%A9m-depois-de-1-minuto-ele-desliga/?do=getNewComment "Meu Pc liga, porém depois de 1 minuto ele desliga")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Gui18281](https://www.clubedohardware.com.br/profile/1255831-gui18281/ "Ir ao perfil de Gui18281")  
-        3 horas atrás
-        
-    * [![Lucas7rlk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255728.thumb.jpeg.30ea17ccecc068d045a3144fee68df65.jpeg)](https://www.clubedohardware.com.br/profile/1255728-lucas7rlk/ "Ir ao perfil de Lucas7rlk")
-        
-        3
-        
-        [Monitor samsung liga mas não da Vídeo](https://www.clubedohardware.com.br/forums/topic/1701977-monitor-samsung-liga-mas-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Monitor samsung liga mas não da Vídeo")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Lucas7rlk](https://www.clubedohardware.com.br/profile/1255728-lucas7rlk/ "Ir ao perfil de Lucas7rlk")  
-        3 horas atrás
-        
-    * [![Arthur Tavarres](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234325.thumb.jpeg.8a3273cac0dc475d942edd0a15c4ed39.jpeg)](https://www.clubedohardware.com.br/profile/1234325-arthur-tavarres/ "Ir ao perfil de Arthur Tavarres")
-        
-        1
-        
-        [Qual Air cooler ou Water cooler eu compro pra um Ryzen 7 5700x ?](https://www.clubedohardware.com.br/forums/topic/1701976-qual-air-cooler-ou-water-cooler-eu-compro-pra-um-ryzen-7-5700x/?do=getNewComment "Qual Air cooler ou Water cooler eu compro pra um Ryzen 7 5700x ?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Arthur Tavarres](https://www.clubedohardware.com.br/profile/1234325-arthur-tavarres/ "Ir ao perfil de Arthur Tavarres")  
-        3 horas atrás
-        
-    * [![Tacio4176](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255828.thumb.jpeg.c498193cd9011bccd195cab24f0b10b1.jpeg)](https://www.clubedohardware.com.br/profile/1255828-tacio4176/ "Ir ao perfil de Tacio4176")
-        
-        0
-        
-        [Rx 580 fan RGB](https://www.clubedohardware.com.br/forums/topic/1701975-rx-580-fan-rgb/?do=getNewComment "Rx 580 fan RGB")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Tacio4176](https://www.clubedohardware.com.br/profile/1255828-tacio4176/ "Ir ao perfil de Tacio4176")  
-        4 horas atrás
+        8 horas atrás
         
     
 
@@ -624,10 +624,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
