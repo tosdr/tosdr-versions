@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/klimaat/nog-meer-experts-tegen-klimaat-idiotie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/het-antwoord-op-de-crisis-is-gronden/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
