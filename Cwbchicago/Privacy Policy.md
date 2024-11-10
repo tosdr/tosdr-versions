@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Navy-Pier-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/navy-pier-suspect-surrenders-to-police-chicago.html "‘Person of interest’ surrenders in double murder at Navy Pier")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Michal-Ciskal-326x245.jpg)](https://cwbchicago.com/2024/11/14-year-old-with-pending-felony-case-murdered-man-during-carjacking-attempt-source.html "14-year-old with pending felony case murdered man during carjacking attempt: source")
 
-Streeterville
+Fuller Park
 
-### [‘Person of interest’ surrenders in double murder at Navy Pier](https://cwbchicago.com/2024/11/navy-pier-suspect-surrenders-to-police-chicago.html "‘Person of interest’ surrenders in double murder at Navy Pier")
+### [14-year-old with pending felony case murdered man during carjacking attempt: source](https://cwbchicago.com/2024/11/14-year-old-with-pending-felony-case-murdered-man-during-carjacking-attempt-source.html "14-year-old with pending felony case murdered man during carjacking attempt: source")
 
-[November 7, 2024 3:35 PM](https://cwbchicago.com/2024/11)
+[November 7, 2024 11:35 PM](https://cwbchicago.com/2024/11)
 
-Investigators on Thursday released surveillance images of the man they believe killed two of his former co-workers at Navy Pier on Tuesday afternoon. Within three hours, he turned himself in.[](https://cwbchicago.com/2024/11/navy-pier-suspect-surrenders-to-police-chicago.html "‘Person of interest’ surrenders in double murder at Navy Pier")
+A 14-year-old boy is charged with murdering a man during an attempted carjacking this summer while he already had at least one case pending in juvenile court, according to a source familiar with the matter.[](https://cwbchicago.com/2024/11/14-year-old-with-pending-felony-case-murdered-man-during-carjacking-attempt-source.html "14-year-old with pending felony case murdered man during carjacking attempt: source")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Timothy-Blaze-Yong-Suk-Lee-and-Samir-Marogail-326x245.jpg)](https://cwbchicago.com/2024/11/3-charged-with-burglarizing-gaming-lottery-machines-from-rogers-park-to-dunning.html "3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/DePaul-hate-crime-suspects-326x245.jpg)](https://cwbchicago.com/2024/11/2-suspects-sought-in-depaul-university-hate-crime-attack.html "2 suspects sought in DePaul University hate crime attack")
 
-Dunning
+Lincoln Park
 
-### [3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning](https://cwbchicago.com/2024/11/3-charged-with-burglarizing-gaming-lottery-machines-from-rogers-park-to-dunning.html "3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning")
+### [2 suspects sought in DePaul University hate crime attack](https://cwbchicago.com/2024/11/2-suspects-sought-in-depaul-university-hate-crime-attack.html "2 suspects sought in DePaul University hate crime attack")
 
-[November 7, 2024 8:27 AM](https://cwbchicago.com/2024/11)
+[November 7, 2024 6:43 PM](https://cwbchicago.com/2024/11)
 
-Three men, including two on parole, are accused of stealing thousands of dollars by breaking into video gaming and lottery machines at Chicago businesses.[](https://cwbchicago.com/2024/11/3-charged-with-burglarizing-gaming-lottery-machines-from-rogers-park-to-dunning.html "3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning")
+Investigators are looking for two men in connection with the hate crime attack of at least one Jewish student on DePaul University’s Lincoln Park campus on Wednesday afternoon.[](https://cwbchicago.com/2024/11/2-suspects-sought-in-depaul-university-hate-crime-attack.html "2 suspects sought in DePaul University hate crime attack")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/P24-3-060-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/cops-hunt-robber-whos-targeting-businesses-on-far-north-side.html "Cops hunt robber who’s targeting businesses on Far North Side")
+[![](https://cwbchicago.com/wp-content/uploads/2023/05/Taft-HS-326x245.jpg)](https://cwbchicago.com/2024/11/sophomore-gets-10-years-for-shooting-at-2-schoolmates-on-nw-side.html "Sophomore gets 10 years for shooting at 2 schoolmates on NW Side")
 
-Lincoln Square
+Norwood park
 
-### [Cops hunt robber who’s targeting businesses on Far North Side](https://cwbchicago.com/2024/11/cops-hunt-robber-whos-targeting-businesses-on-far-north-side.html "Cops hunt robber who’s targeting businesses on Far North Side")
+### [Sophomore gets 10 years for shooting at 2 schoolmates on NW Side](https://cwbchicago.com/2024/11/sophomore-gets-10-years-for-shooting-at-2-schoolmates-on-nw-side.html "Sophomore gets 10 years for shooting at 2 schoolmates on NW Side")
 
-[November 7, 2024 5:41 AM](https://cwbchicago.com/2024/11)
+[November 7, 2024 4:14 PM](https://cwbchicago.com/2024/11)
 
-Police have linked five recent business robberies on the Far North Side to a single man who may be armed.[](https://cwbchicago.com/2024/11/cops-hunt-robber-whos-targeting-businesses-on-far-north-side.html "Cops hunt robber who’s targeting businesses on Far North Side")
+A Taft High School student who shot at two schoolmates as they walked home from class last year, leaving one with a graze wound, received a 10-year sentence on Thursday.[](https://cwbchicago.com/2024/11/sophomore-gets-10-years-for-shooting-at-2-schoolmates-on-nw-side.html "Sophomore gets 10 years for shooting at 2 schoolmates on NW Side")
 
 Search
 
