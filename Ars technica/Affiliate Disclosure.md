@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-4. 4. [Rocket Report: Australia says yes to the launch; Russia delivers for Iran](https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/)
+4. 4. [Verizon, AT&T tell courts: FCC can’t punish us for selling user location data](https://arstechnica.com/tech-policy/2024/11/verizon-att-tell-courts-fcc-cant-punish-us-for-selling-user-location-data/)
     
-5. 5. [Verizon, AT&T tell courts: FCC can’t punish us for selling user location data](https://arstechnica.com/tech-policy/2024/11/verizon-att-tell-courts-fcc-cant-punish-us-for-selling-user-location-data/)
+5. 5. [Rocket Report: Australia says yes to the launch; Russia delivers for Iran](https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/)
     
 
 Customize
