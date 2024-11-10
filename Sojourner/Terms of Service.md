@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-43f45612911718ad9fa7f2b61408ef23
+35508c9fd2262faafc1667f6d3ddb963
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![7 mm milk glass heart beads](https://sojourner.biz/images/cache/glass/HRT010.200.jpg)](https://sojourner.biz/beads/glass/7-mm-milk-glass-heart-beads.html "7 mm milk glass heart beads")
+[![Jet Swarovski clasp](https://sojourner.biz/images/cache/SKU0087front.200.jpg)](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
 
-#### [7 mm milk glass heart beads](https://sojourner.biz/beads/glass/7-mm-milk-glass-heart-beads.html "7 mm milk glass heart beads")
+#### [Jet Swarovski clasp](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
 
-$2.00
+$27.00
 
 ### Best Sellers
 
@@ -168,8 +168,8 @@ $2.00
     $26.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Gray pearl toggle clasp](https://sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
-    $28.00
+10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
