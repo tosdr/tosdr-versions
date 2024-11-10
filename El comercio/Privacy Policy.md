@@ -31,6 +31,464 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Chelsea de Moisés Caicedo divide puntos con el Arsenal
+======================================================
+
+El ecuatoriano Moisés Caicedo tuvo una destacada participación contra el Arsenal, este domingo.
+-----------------------------------------------------------------------------------------------
+
+![Moisés Caicedo mientras disputa el balón durante el partido contra el Arsenal](https://www.elcomercio.com/wp-content/uploads/2024/11/moises-caicedo-chelsea-arsenal.jpg)
+
+El Chelsea de **Moisés Caicedo** y el Arsenal de **Martin Odegaard** igualaron 1 a 1 en un dinámico y peleado encuentro que jugaron este domingo 10 de noviembre de 2024.
+
+### Más noticias
+
+* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
+* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
+* [Libertad sorprendió y goleó a un desganado El Nacional en Latacunga](https://www.elcomercio.com/deportes/futbol/libertad-goleada-nacional-estadio-cocha.html "Libertad sorprendió y goleó a un desganado El Nacional en Latacunga")
+
+La primera mitad fue **tensa**, con los dos equipos cuidando su **estrategia** sin querer regalar nada. Solo **Malo Gusto**, con un **cabezazo** desviado a un metro del arco, y **Martinelli**, con un **disparo** contra el arquero **Robert Sánchez**, desnivelaron el cotejo defensivo que se tenía.
+
+También lo pudo hacer **Kai Havertz**, que marcó un **gol** contra su exequipo y lo celebró mandando callar a la grada, esa a la que hace tres años regaló una **Copa de Europa**. Pero el **VAR** apreció para demostrar un **fuera de juego** y anular el tanto.
+
+Durante dos meses, el **Arsenal** se quedó sin **Odegaard**, apartado por una **lesión** de tobillo y recuperado esta semana. El noruego jugó unos minutos contra el **Inter de Milán**, y ante la importancia de la visita a **Stamford Bridge**, Arteta le puso de titular contra el **Chelsea**.
+
+Los goles llegaron en el segundo tiempo
+---------------------------------------
+
+Odegaard no defraudó. Al minuto 60 dio un pase a Martinelli para que abra el marcador. Se inventó uno de sus clásicos pases al segundo palo y la mala marca en defensa del Chelsea hizo el resto. Martinelli recibió solo, Robert tapó mal su palo y el brasileño la colocó[.](https://es.wikipedia.org/wiki/Premier_League "https://es.wikipedia.org/wiki/Premier_League")
+
+**Enzo Fernández** entró al campo luego de unos minutos. El argentino ha sido suplente en cuatro de los últimos cinco encuentros de **Premier**. Su cambio le benefició a su equipo. En jugada, al minuto 70, le dio la pelota en tres cuartos a **Pedro Neto** y disparó para empatar el cotejo.
+
+> Final del partido. [#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHEARS](https://twitter.com/hashtag/CHEARS?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/TyXAu4ALvX](https://t.co/TyXAu4ALvX)
+> 
+> — Chelsea FC en español (@ChelseaFC\_Sp) [November 10, 2024](https://twitter.com/ChelseaFC_Sp/status/1855678316084371805?ref_src=twsrc%5Etfw)
+
+**Mikel Merino**, que también salió desde el banco del Arsenal, tuvo tres ocasiones para el 1-2, pero no las aprovechó; la acción más clara fue un remate que tapó con el hueco Robert.
+
+Como de costumbre, Moisés Caicedo hizo un excelente partido
+-----------------------------------------------------------
+
+El ecuatoriano Moisés Caicedo entró de titular y jugó los 90 minutos. Tuvo una destacada participación, siendo uno de los **mejores jugadores de la cancha**.
+
+> 𝐏𝐮𝐥𝐩𝐨 𝐌𝐨𝐢 🇪🇨 💙[#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHEARS](https://twitter.com/hashtag/CHEARS?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/XjCJvMAQkf](https://t.co/XjCJvMAQkf)
+> 
+> — Chelsea FC en español (@ChelseaFC\_Sp) [November 10, 2024](https://twitter.com/ChelseaFC_Sp/status/1855668405526798799?ref_src=twsrc%5Etfw)
+
+El jugador fue quien más pases dio a campo rival (28), quien más pases puso al último tercio de cancha (9), el que mayor recuperaciones de balón hizo (8) y tuvo una efectividad del 95 % de los pases.
+
+Este empate les sirve de poco a ambos, que quedan con 19 puntos, el Chelsea en el tercer puesto y el Arsenal en cuarto.
+
+Los equipos están a nueve puntos del **Liverpool**, que lidera la acumulada de la Premier League luego de 11 fechas. Detrás le sigue el **Manchester City** con 23 unidades. _**Con información de EFE**_.
+
+Ciudadanos reclaman cumplimiento de horarios de cortes de luz
+=============================================================
+
+Mazar solo puede operar con una turbina por las condiciones en su embalse
+-------------------------------------------------------------------------
+
+![La ciudadanía pide que se cumplan los horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-ec.jpg)
+
+Los ciudadanos en **Quito, Guayaquil, Cuenca,** entre otras ciudades, reclaman porque no se cumplen los horarios programados de **cortes de luz** para este fin de semana del sábado 9 y domingo 10 de noviembre[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
+
+Más noticias
+------------
+
+* [Cortes de luz en Quito para este 10 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-horas-aumento-domingo.html "Cortes de luz en Quito para este 10 de noviembre")
+* [Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-9-10-noviembre-2024.html "Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024")
+* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
+
+Al consultar en los sitios web de las empresas distribuidoras como **Quito, Centrosur**, entre otras, los horarios de cortes no coinciden con los que se aplican en los diferentes sectores.
+
+El Gobierno anunció el sábado 9 de noviembre que los cortes subirán hasta 12 horas al día por mantenimientos en **Agoyán y San Francisco** y la sequía en la **cuenca del río Paute**,  que alimenta a los embalses de **Paute y Mazar.**
+
+Hasta el mediodía de este domingo 10, las empresas distribuidoras no han actualizado los nuevos horarios en ciudades como **Quito y Cuenca.**
+
+Las empresas distribuidoras indicaron que no pueden actualizar esos horarios porque el **Operador Nacional de Electricidad (Cenace)** les indica las necesidades de corte de luz en función de las posibilidades de generación que tienen cada hora.
+
+Las condiciones en Mazar
+------------------------
+
+El **embalse de Mazar** se ubica en los 2 111 metros sobre el nivel del mar a las 13:00 de este domingo 9.
+
+Es decir, está a un metro del límite considerado como riesgoso porque aumenta la posibilidad de que ingrese sedimento, que puedan afectar a las **dos turbinas de la hidroeléctrica**.
+
+El sedimiento consiste en lodo, piedras y palos.
+
+**Mazar** está apagada desde las 12:00 del 9 de noviembre. Hasta esa hora laboró con una sola turbina. La última vez que generó con dos fue a las 18:00 del viernes 8.
+
+En los niveles actuales no se pueden prender las dos turbinas, solo una.
+
+El **Colegio de Ingenieros Eléctricos de Azuay** informó que con dos unidades a plena potencia se puede operar hasta los 2 114 metros sobre el nivel del mar. Si baja de ese nivel solo se puede usar.
+
+Un comunicado de la Cenace
+--------------------------
+
+En la actualidad, circula un documento del **Cenace.** En ese informe se alerta sobre la necesidad de implementar **racionamientos** **energéticos** en el Ecuador. Esto, debido a la crítica situación de los embalses y la proyección de una mayor demanda de electricidad.
+
+En un oficio dirigido a las autoridades del sector energético, Cenace subrayó la urgencia de adoptar medidas para evitar un **posible colapso** del sistema eléctrico del Ecuador.
+
+El Gobierno no ha emitido un pronunciamiento desmintiendo, aclarando o ratificando dicho informe.
+
+El regreso de Donald Trump y su impacto en la geopolítica internacional
+=======================================================================
+
+El regreso de Donald Trump podría alterar el equilibrio global, afectando la seguridad en Europa, Medio Oriente y Asia.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump ganó las elecciones de Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-23-1.jpg)
+
+El regreso de **Donald Trump** a la Presidencia de Estados Unidos podría redefinir el conflicto entre **Ucrania y Rusi**a. Este **escenario incluiría Crimea** y las áreas ocupadas desde la invasión de 2022, generando preocupación entre los **aliados europeos de Ucrania**.
+
+### Más noticias
+
+* [La clave de Donald Trump para conquistar a los hombres jóvenes](https://www.elcomercio.com/actualidad/mundo/clave-donald-trump-conquistar-hombres-jovenes.html "La clave de Donald Trump para conquistar a los hombres jóvenes")
+* [El voto popular incidió en el triunfo de Donald Trump](https://www.elcomercio.com/actualidad/mundo/voto-popular-incidio-triunfo-donald-trump.html "El voto popular incidió en el triunfo de Donald Trump")
+* [Organización proaborto advierte que Donald Trump podría prohibir píldoras abortivas](https://www.elcomercio.com/actualidad/mundo/organizacion-proaborto-advierte-trump-podria-prohibir-pildoras-abortivas.html "Organización proaborto advierte que Donald Trump podría prohibir píldoras abortivas")
+
+Vladimir Moreano, analista en relaciones internacionales, señala que **Trump probablemente buscaría un alto el fuego entre Kiev y Moscú,** lo cual podría reconocer las ganancias territoriales de Rusia.
+
+Según Moreano, Trump podría amenazar con desvincularse de la **OTAN para presionar a Europa** a firmar un acuerdo con Rusia, lo que desestabilizaría la ya frágil relación transatlántica.
+
+El analista Rafael Panchana coincide en que la posible retirada de **Estados Unidos de la OTAN bajo Trump** tendría implicaciones serias para la seguridad en Europa. Esto dejaría a los países europeos en una posición vulnerable ante Rusia, especialmente a aquellos cercanos al conflicto en Ucrania.
+
+Panchana enfatiza que la postura de Trump podría cambiar el equilibrio de poder en Europa, minando la credibilidad de la **OTAN y dejando a Ucrania en una posición difícil**. En este contexto, los países de la Unión Europea tendrían que decidir si apoyar a Ucrania a pesar del retiro de apoyo de Estados Unidos.
+
+Los expertos advierten que esta política de Trump podría llevar a una reorganización de las alianzas en Europa. También mencionan una **posible retirada de la OTAN** también abriría la puerta para que Rusia ampliara su influencia en la región.
+
+Panchana, por su parte, menciona que si bien algunos líderes europeos podrían adaptarse a esta nueva realidad, otros buscarían reforzar la defensa europea independiente, un proyecto que ha ganado fuerza en años recientes pero que aún no está consolidado.
+
+Impacto en Medio Oriente, una alianza reforzada con Israel
+----------------------------------------------------------
+
+El apoyo de Trump a **Israel y Arabia Saudita** es otra área de preocupación para los analistas internacionales. Panchana cree que el regreso de Trump podría significar un fortalecimiento de su respaldo a Israel y Arabia Saudita, incrementando la tensión con Irán.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCHFLK-svI5/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCHFLK-svI5/?utm_source=ig_embed&utm_campaign=loading)
+
+Esto es particularmente relevante en un momento en que el primer ministro israelí, Benjamin Netanyahu, busca confrontar a los aliados de Irán en la región.
+
+Para Panchana, la falta de **moderación en esta política podría llevar a una crisis humanitaria en Gaza y otras áreas afectadas**.
+
+Asimismo, advierten que aunque algunos regímenes árabes apoyarían una postura más agresiva hacia Irán, también temen las posibles reacciones de la población ante la difícil situación palestina.
+
+Ambos analistas consideran que la política exterior de **Trump en Medio Oriente podría desestabilizar** aún más la región y **complicar las relaciones con otros aliados árabes**.
+
+En este contexto, el apoyo de Trump podría dar a Netanyahu la confianza para intensificar sus acciones contra Irán y sus aliados en Yemen y Líbano.
+
+Panchana destaca que la falta de límites en el respaldo estadounidense podría motivar a Netanyahu a actuar de manera más agresiva. Esto, además, fortalecería la posición de Trump en sus negociaciones con Rusia.
+
+Retos en Asia, la incertidumbre con China y Corea del Norte
+-----------------------------------------------------------
+
+La relación de **Estados Unidos con Asia** bajo un nuevo mandato de Trump también plantea dudas, especialmente en torno a **China y Corea del Norte**.
+
+Según Panchana, es probable que Trump mantenga su **postura económica agresiva hacia China**, incluyendo aranceles adicionales. Sin embargo, el analista añade que **Trump podría explorar acuerdos pragmáticos y transaccionales con el presidente Xi Jinping**.
+
+Moreano destaca que esta postura ambivalente hacia China aumenta la incertidumbre para los aliados asiáticos, como **Taiwán, Corea del Sur y Japón**.
+
+Por otra parte, la relación de Trump con Corea del Norte también es motivo de preocupación. Durante su primer mandato, Trump osciló entre **acercamientos y amenazas a Pyongyang**, llegando a estar al borde de un conflicto en 2017.
+
+Panchana señala que la **imprevisibilidad de ambas partes hace posible un nuevo episodio de tensiones** en la península coreana, especialmente si Trump busca **utilizar su relación con Corea del Norte** como estrategia frente a China. En un escenario de tensión creciente, **Japón y Corea del Sur** podrían verse forzados a reconsiderar sus estrategias de defensa regional.
+
+Finalmente, los expertos coinciden en que el regreso de Trump podría desestabilizar el frágil equilibrio de poder en Asia.
+
+Un organizador de las fiestas de P. Diddy detalló los excesos de los eventos
+============================================================================
+
+El costo de los eventos y los lujos que había fueron parte de las revelaciones.
+-------------------------------------------------------------------------------
+
+![P. Diddy fue arrestado el 16 de septiembre de 2024. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/11/diddy-El-Comercio-8.jpg)
+
+**Un organizador de eventos**, que trabajó con [Sean “Diddy” Combs](https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html "https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html") en los años 2000, dice Infobae, contó detalles exclusivos sobre las famosas fiestas “**freak offs**” del rapero.
+
+En declaraciones hechas al _New York Post_, estas reuniones privadas requerían una inversión de hasta 500 mil dólares por evento y contaban con instalaciones de lujo, donde paredes y techos estaban cubiertos de espejos.
+
+### Más noticias
+
+* **[Yailin la Más Viral se pelea en un juego de baloncesto](https://www.elcomercio.com/afull/yailinlamasviral-pelea-baloncesto.html "https://www.elcomercio.com/afull/yailinlamasviral-pelea-baloncesto.html")**
+* **[Fallece Tony Todd, estrella de la película de terror ‘Candyman’](https://www.elcomercio.com/tendencias/tony-todd-candiman-destino-final.html "https://www.elcomercio.com/tendencias/tony-todd-candiman-destino-final.html")**
+
+“Por todas partes donde miraras, te veías reflejado una y otra vez”, mencionó la fuente, quien prefirió mantener su identidad en reserva, pero cuya relación laboral con Combs fue verificada.
+
+**Los detalles de las controversiales fiestas de P. Diddy**
+-----------------------------------------------------------
+
+Estas fiestas de P. Diddy eran generalmente organizadas para coincidir con eventos mediáticos como los **[MTV Video Music Awards](https://www.mtv.com/vma "https://www.mtv.com/vma")** o el **[Super Bowl](https://es.wikipedia.org/wiki/Super_Bowl "https://es.wikipedia.org/wiki/Super_Bowl")**. Las celebraciones indicó la fuente incluían **comida gourmet, alcohol de lujo, bailarines, acróbatas y hasta animales vivos**.
+
+La fuente indicó que Combs también contrataba modelos para sus eventos, aunque algunos parecían más bien trabajar como acompañantes. “Puedes imaginar cómo se vería cuando la gente está desnuda y teniendo relaciones en el suelo, en los sofás, donde sea”, añadió el organizador.
+
+El _New York Post_ tuvo acceso a más de dos docenas de videos que muestran el contenido de estas reuniones, en los cuales incluso se sugiere la participación directa de Combs.
+
+En marzo de 2024, las autoridades federales allanaron propiedades de Diddy e incautaron videos y elementos como botellas de aceite para bebés y lubricantes.
+
+Los fiscales alegan que estos eventos no solo eran lujosos, sino que también involucraban actividades ilegales y un abuso de poder sobre los asistentes, controlados a través de drogas y amenazas. **[Sean Combs](https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-juicio-trafico-sexual.html "https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-juicio-trafico-sexual.html")** enfrenta cargos de conspiración, tráfico y prostitución, aunque se ha declarado no culpable.
+
+Libertad sorprendió y goleó a un desganado El Nacional en Latacunga
+===================================================================
+
+El cuadro lojano logró una importante victoria ante El Nacional que le mantiene 'con vida' en la Serie A.
+---------------------------------------------------------------------------------------------------------
+
+![Los lojanos aprovecharon las oportunidades de marcar y lograron una importante victoria de visita](https://www.elcomercio.com/wp-content/uploads/2024/11/libertad-el-nacional.jpg)
+
+**Libertad** sorprendió a **El Nacional** en su visita al estadio de **La Cocha**, en Latacunga, provincia de Cotopaxi. Luego de conseguir no solo la victoria, sino también una **goleada** poco esperada, los lojanos buscan mantenerse en la **Serie A** y salvarse del descenso, a falta de dos fechas.
+
+### Más noticias
+
+* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
+* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
+* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
+
+El **atípico partido** de la décima tercera fecha de la segunda etapa jugado a las 10:30 de este domingo 10 de noviembre tuvo **dos equipos completamente distintos**.
+
+Por un lado, un Libertad que luchó cada bola disputada, que se mantuvo concentrado en el juego y no desaprovechó los **errores rivales**; y por otro, **un cuadro militar sin entrega**, desordenado y que presentó, quizá, su peor partido del año.
+
+El marcador se abrió temprano. Al **minuto 2**, los naranjas ya ganaban a los rojos tras una pelota parada que se decantó en errores defensivos de El Nacional y varios rebotes. **Diego Ávila** fue el encargado de abrir la goleada.
+
+En otro tiro de esquina nació el **segundo tanto** de Libertad. **Bryan Caicedo** marcó de cabeza y amplió la ventaja a los 36′.
+
+**Siete minutos** más tarde, a los 43′, el partido se concretó. Libertad logró el **0 a 3** tras una jugada colectiva en el área que definió **Nixon Molina**[.](https://ligapro.ec/tabla-de-posiciones/ "https://ligapro.ec/tabla-de-posiciones/")
+
+> Goleada a domicilio 🚚  
+>   
+> Nixon Molina llegó como delantero para definir con tranquilidad y conseguir el 0-3 para [@LibertadFC3](https://twitter.com/LibertadFC3?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FK9DaO3Zpa](https://t.co/FK9DaO3Zpa)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 10, 2024](https://twitter.com/zapping_ecu/status/1855646999862816900?ref_src=twsrc%5Etfw)
+
+Con el pitazo del árbitro de la finalización del primer tiempo, las cosas en La Cocha quedaron claras: Libertad se estaba jugando su **permanencia** en la máxima categoría nacional, mientras que los jugadores de El Nacional se presentaron en la cancha para cumplir con la jornada.
+
+Goleada de Libertad se amplió
+-----------------------------
+
+El **segundo tiempo** en Latacunga fue mero trámite. Con el amplio resultado a favor de los lojanos, el equipo visitante bajó sus intenciones de ir para adelante y aprovechó cada error que cometía la defensa ‘criolla’.
+
+Los finalistas de la **Copa Ecuador** no respondían a ningún ataque; solo por ocasiones, mostraban ideas de juego colectivo que terminaban en ocasiones desaprovechadas de gol.
+
+**Cristian Penilla** sentenció cualquier esperanza militar de recuperarse al minuto 58.
+
+El defensor **Daniel Patiño** cometió un desastroso error en el área con el que regaló el balón al capitán de Libertad. Penilla no dudó en rematar y puso el **humillante 0-4**, ante la molestia del reducido grupo de hinchas militares que acompañaron a su equipo.
+
+> Nuevo error, nuevo gol 😅  
+>   
+> Cristian Penilla recuperó y no dudó en concretar el 0-4 para [@LibertadFC3](https://twitter.com/LibertadFC3?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zHxSqYndah](https://t.co/zHxSqYndah)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 10, 2024](https://twitter.com/zapping_ecu/status/1855656362014818539?ref_src=twsrc%5Etfw)
+
+**Gabriel Cortez** redujo la goleada a 1-4 en el minuto 67. El mediocampista aprovechó los espacios generados en el área tras una pared y disparó con fuerza al arco.
+
+Los **últimos 20 minutos** del partido pasaron desapercibidos en La Cocha. Los ‘criollos’ mostraron su falta de entrega, relacionada con la falta de pagos que acumula la plantilla. Libertad, por su parte, intentó incrementar el abultado marcador, pero sus delanteros no se mostraron finos.
+
+La goleada, que **pudo terminar en más**, puso a la pelea a los lojanos para evitar el **descenso**.
+
+Con el **merecido resultado** obtenido en su visita, la tabla acumulada de la Liga Pro los deja en el **puesto 14**, con 23 puntos y -16 goles de diferencia.
+
+A sus rivales directos, Cuenca, Cumbayá e Imbabura les resta jugar sus partidos de esta fecha. Cumbayá visitará a **Barcelona** este domingo, mientras que **Imbabura y Cuenca** se enfrentarán el lunes en la provincia del norte.
+
+De los 16 equipos de la Serie A, quienes queden en los **dos últimos puestos** pierden la categoría.
+
+> Final del Partido.  
+>   
+> 🆚 [#ElNacionalLibertad](https://twitter.com/hashtag/ElNacionalLibertad?src=hash&ref_src=twsrc%5Etfw) 1×4  
+> 🏆 [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WhAkp1pxEf](https://t.co/WhAkp1pxEf)
+> 
+> — Club Deportivo El Nacional (@elnacionalec) [November 10, 2024](https://twitter.com/elnacionalec/status/1855663523876999458?ref_src=twsrc%5Etfw)
+
+Masacre en Querétaro deja víctimas mortales
+===========================================
+
+Las autoridades siguieron las cámaras de seguridad para identificar el auto de los presuntos responsables.
+----------------------------------------------------------------------------------------------------------
+
+![Los armados destruyeron la camioneta con la que se movilizaban.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ataque-Queretaro.jpg)
+
+Diez personas, tres mujeres y siete hombres, murieron en un **ataque armado** en un bar de **Querétaro**, en el centro de **México**. Al menos siete personas más resultaron heridas. La Fiscalía General del Estado (FGE) informó de lo ocurrido este 10 de noviembre[.](https://es.wikipedia.org/wiki/Quer%C3%A9taro "https://es.wikipedia.org/wiki/Quer%C3%A9taro")
+
+Más noticias
+------------
+
+* [Un tiroteo cerca del metro de New York afectó el servicio](https://www.elcomercio.com/actualidad/mundo/un-tiroteo-cerca-del-metro-de-new-york-afecto-el-servicio.html "Un tiroteo cerca del metro de New York afectó el servicio")
+* [Autoridades desmienten tiroteo y heridos en Naranjito](https://www.elcomercio.com/actualidad/autoridades-desmienten-tiroteo-y-heridos-en-naranjito.html "Autoridades desmienten tiroteo y heridos en Naranjito")
+* [Siete personas fueron acribilladas en Manta en medio de una fiesta](https://www.elcomercio.com/actualidad/seguridad/siete-personas-acribilladas-manta-fiesta-cumpleanos-fallecidos.html "Siete personas fueron acribilladas en Manta en medio de una fiesta")
+
+En un comunicado, la **Fiscalía** explicó que la **Secretaría de Seguridad Pública Municipal** de **Querétaro** reportó la agresión en un bar de la zona centro de la capital del estado. Tras recibir esta información, se abrió la investigación correspondiente.
+
+Investigación de las autoridades sobre el ataque en Querétaro
+-------------------------------------------------------------
+
+Agentes de **Servicios Periciales** llegaron al lugar y confirmaron el fallecimiento de 10 personas (7 hombres y 3 mujeres).
+
+Recolectaron también los **indicios balísticos** necesarios. En el municipio de El Marqués, otro equipo identificó un vehículo vinculado con el ataque.
+
+Comunicado de las autoridades sobre el ataque en Querétaro
+----------------------------------------------------------
+
+El secretario de Seguridad Pública Municipal, **Juan Luis Ferrusca Ortiz**, informó en un video en **redes** **sociales** que el ataque se reportó a emergencias después de las 21:00. En ese momento, también se notificó la detención de una persona.
+
+“Reportaron detonaciones de arma de fuego en la calle de **Circunvalación**, específicamente en el bar Los Cantaritos”, explicó el jefe de la policía.
+
+“Al lugar llegaron los cuerpos de **emergencia** y corroboraron que al menos cuatro personas armadas, con armas largas, llegaron en una camioneta. La camioneta fue identificada y se obtuvieron los números de placas”, señaló Ferrusca Ortiz.
+
+Confirmación de víctimas mortales durante el ataque armado
+----------------------------------------------------------
+
+El jefe policial añadió que en el interior del bar **murieron 10 personas** y al menos siete más sufrieron **lesiones**.
+
+También informó que los agresores abandonaron el vehículo en el municipio **El Marqués**, donde lo incendiaron.
+
+Por otro lado, el gobernador de **Querétaro**, Mauricio Kuri, publicó un mensaje en redes sociales. Afirmó que “todo el sistema de seguridad de **Querétaro** se moviliza para capturar a los **criminales** que atacaron un restaurante de la capital”.
+
+“Castigaremos a los responsables de este acto brutal. Seguiremos blindando nuestras fronteras y manteniendo la seguridad de nuestro **Estado**“, señaló Kuri. También ordenó brindar atención a los familiares de las personas fallecidas.
+
+Finalmente, **Querétaro**, estado vecino de **Guanajuato** en el centro de **México**, ha experimentado un incremento en la violencia en los últimos meses. Este aumento se debe, en gran medida, a la disputa territorial entre el Cártel Jalisco Nueva Generación, el Cártel de Sinaloa y el Cártel de Santa Rosa de Lima.
+
+Chile apoya al Consejo de Seguridad de la ONU
+=============================================
+
+La subsecretaria de Relaciones Exteriores de Chile, Gloria de la Fuente, defendió la “ampliación” del Consejo de Seguridad de la ONU, tanto a miembros permanentes como no permanentes, para que estén mejor representadas regiones como África y Latinoamérica. Más noticias “Chile apoya la idea de una ampliación del Consejo de Seguridad que apunte a resolver \[…\]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Vista de una votación en la Asamblea General de la ONU, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/ONU-EFE.jpg)
+
+La subsecretaria de Relaciones Exteriores de Chile, **Gloria de la Fuente**, defendió la “ampliación” del **Consejo de Seguridad de la ONU**, tanto a miembros permanentes como no permanentes, para que estén mejor representadas regiones como África y Latinoamérica.
+
+### Más noticias
+
+* [Jorge Valdivia, histórico futbolista de Chile, suma nueva acusación de abuso sexual](https://www.elcomercio.com/deportes/jorge-valdivia-segunda-acusacion-chile-abuso.html "Jorge Valdivia, histórico futbolista de Chile, suma nueva acusación de abuso sexual")
+* [Histórico futbolista de Chile, acusado de abuso sexual](https://www.elcomercio.com/deportes/jorge-valdivia-chile-denuncia-abuso-sexual.html "Histórico futbolista de Chile, acusado de abuso sexual")
+* [Fallece el escritor chileno Antonio Skármeta, conocido por ‘El cartero de Neruda’](https://www.elcomercio.com/tendencias/cultura/antonio-skarmeta-escritor-chile.html "Fallece el escritor chileno Antonio Skármeta, conocido por ‘El cartero de Neruda’ ")
+
+“**Chile apoya la idea de una ampliación del Consejo de Seguridad** que apunte a resolver la situación de injusticia que ha afectado a distintas regiones geográficas, entre ellos Asia Pacífico, nuestra propia región de América Latina y el Caribe, y, por supuesto África”, declaró la vicecanciller en una entrevista telefónica con EFE desde Adís Abeba, capital de Etiopía.
+
+“Si bien Chile no otorgó su apoyo a **ningún país africano e**n específico en su interés por ser miembro permanente del Consejo de Seguridad, fue claro en su apoyo en dotar de una mayor participación a distintas regiones del mundo subrepresentadas, dentro de las que se encuentra África”, afirmó la vicecanciller.
+
+Visión sobre África
+-------------------
+
+Respecto a África, la viceministra destacó que “dicho continente tiene un rol crucial en la mantención de la **paz y la seguridad internacionale**s”.
+
+De la Fuente también subrayó “la necesidad de generar una reforma del sistema de las Naciones Unidas y, particularmente, el Consejo de Seguridad”.
+
+“Nuestro propio presidente en la última Asamblea de las Naciones Unidas dio cuenta de eso, que efectivamente, hay un **sistema multilateral** que tuvo muchos éxitos pero también límites, hoy en día, respecto a los desafíos que enfrentamos”, expresó.
+
+“Entonces estamos muy abiertos a generar una **conversación amplia** sobre cómo resolvemos para que el multilateralismo responda de la mejor manera a los desafíos que tenemos y cuáles son las fórmulas”, subrayó.
+
+Desde Adís Abeba, donde está la sede de la Unión Africana (UA), enfatizó el papel de esa organización como “una **importante puerta** de entrada también para la conversación con otros países” del continente.
+
+Desafíos multilaterales
+-----------------------
+
+Además, consideró que establecer relaciones con este organismo podría ayudar a “enfrentar de manera común los desafíos multilaterales”.
+
+De la Fuente remarcó que los **tres países de esta gira (**Sudáfrica, Kenia y Etiopía) forman parte del “sur global”, como Chile, y son “estratégicos” para la **nación sudamericana,** que busca mayor cooperación con ellos en áreas como el comercio y la inversión.
+
+El sur global, prosiguió, tiene **“desafíos muy importantes”** como “los impactos diferenciados que tiene la crisis climática, las olas migratorias o los conflictos”.
+
+“Compartimos la necesidad de potenciar un buen diálogo desde la perspectiva del sur global, desde la dirección sur-sur”, añadió.
+
+Entre otras actividades, De la Fuente firmó durante su **gira africana dos memorando**s de entendimiento: uno sobre cooperación entre la Academia Diplomática de Chile Andrés Bello y la Academia del Servicio Exterior de Kenia, y otro de cooperación con Sudáfrica en materia de pesca y acuicultura. 
+
+Cortes de luz en Quito para este 10 de noviembre
+================================================
+
+El Ministerio de Energía extendió los horarios de cortes de luz en todo el Ecuador.
+-----------------------------------------------------------------------------------
+
+![Los cortes de luz tienen una duración de hasta 12 horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/Cortes-de-luz-Quito-1.jpg)
+
+El **Ministerio de Energía** y Minas del Ecuador anunció cortes de luz de hasta 12 horas en todo el país, en respuesta a una severa disminución en los caudales de las centrales hidroeléctricas **Mazar** y **Coca Codo Sinclair[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")**
+
+### Más noticias
+
+* [Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-9-10-noviembre-2024.html "Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024")
+* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
+* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
+
+En Quito, la Empresa Eléctrica Quito ajustó los horarios de racionamiento eléctrico, afectando a varias zonas en diferentes franjas horarias durante el domingo 10 de noviembre.
+
+Horarios de cortes de luz en Quito
+----------------------------------
+
+Los cortes se distribuyen de la siguiente manera:
+
+* **De 00:00 a 06:00 y de 16:00 a 22:00**: Miraflores, Río Coca, Conocoto, Tumbaco, Cumbayá.
+* **De 00:00 a 06:00 y de 14:00 a 20:00**: Luluncoto, Chilibulo, La Floresta, Cristianía, Epiclachima.
+* **De 03:00 a 09:00 y de 12:00 a 18:00**: La Carolina, Nueva Cumbayá, Tababela, Los Bancos, Pérez Guerrero, El Obraje (Machachi).
+* **De 09:00 a 15:00 y de 18:00 a 24:00**: Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao, Inga Bajo.
+* **De 08:00 a 14:00 y de 18:00 a 24:00**: Barrionuevo, Iñaquito, Santa Rosa, Sangolquí, El Quinche.
+* **De 06:00 a 12:00 y de 16:00 a 22:00**: Olímpico, El Bosque, San Antonio, Alangasí, San Rafael, Pomasqui, Eugenio Espejo.
+
+Razones para el aumento de los cortes de luz
+--------------------------------------------
+
+La decisión de extender los cortes de luz a 12 horas responde a un contexto crítico de baja de caudales en las principales hidroeléctricas del Ecuador.
+
+Además, el **Ministerio de Energía** informó que realiza mantenimientos de emergencia en las centrales **Agoyán**, **San Francisco** y otras plantas térmicas. El objetivo es garantizar la seguridad y continuidad del Sistema Eléctrico Nacional y evitar fallas mayores.
+
+El anuncio, realizado de forma repentina y luego de otro comunicado emitido la noche del viernes 8 de noviembre, generó incomodidad en la ciudadanía, que ha visto afectadas sus actividades cotidianas debido a la **reprogramación** **de los cortes.**
+
+TCE definirá la candidatura de Jan Topic
+========================================
+
+Jan Topic reaccionó a una posible resolución del TCE en sus redes sociales.
+---------------------------------------------------------------------------
+
+![La reunión será de manera presencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jan-Topic.jpg)
+
+La presidenta del Tribunal Contencioso Electoral (TCE), Ivonne Coloma Peralta, convocó a una **Sesión Extraordinaria Jurisdiccional** del Pleno para este **domingo 10 de noviembre de 2024** a las **20:00**[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025")
+
+### Más noticias
+
+* [Un candidato presidencial anuncia que podría dejar la campaña electoral](https://www.elcomercio.com/actualidad/politica/candidato-presidencial-anuncia-podria-dejar-campana-electoral.html "Un candidato presidencial anuncia que podría dejar la campaña electoral")
+* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
+* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
+
+El tema principal será la resolución de la candidatura de **Jan Topic**, patrocinado por el partido Sociedad Unida Más Acción (SUMA).
+
+La sesión se realizará de manera **presencial** en la sala de sesiones del Órgano de Justicia Electoral, ubicada en Juan León Mera N21-152 y Vicente Ramón Roca, en el Distrito Metropolitano de Quito, provincia de Pichincha.
+
+Contexto de la objeción a la candidatura
+----------------------------------------
+
+El Partido Sociedad Patriótica (PSP), lista 3, y el Pachakutik (PK), lista 18, objetaron la candidatura de Jan Topic, argumentando que mantiene contratos con el Estado. El **Código de la Democracia** lo prohíbe para quienes buscan participar en elecciones.
+
+Sin embargo, el **Consejo Nacional Electoral (CNE)**, en sesión del 8 de octubre de 2024, rechazó estas objeciones al constatar, con los registros de la **Superintendencia de Compañías** y el **Servicio Nacional de Contratación Pública (Sercop)**, que Topic no tiene contratos con el Estado.
+
+En respuesta, PSP y PK presentaron recursos ante el TCE. El juez Ángel Torres elaboró un proyecto de sentencia que el pleno del Tribunal resolverá en una única instancia, sin posibilidad de apelación.
+
+Reacciones de Topic y su equipo
+-------------------------------
+
+Previo a la reunión, Jan Topic se pronunció en su cuenta de X y denunció una supuesta decisión de descalificación: “Rumores de descalificación ante TCE. Saben que NO soy contratista del Estado, pero argumentan: ‘posiblemente podría a futuro beneficiarse de algún contrato.’ ¿La razón real? Abajo”, expresó el empresario.
+
+Por su parte, **Guillermo Celi**, cofundador de SUMA, llamó a sus seguidores a manifestarse en apoyo a Topic este domingo en las instalaciones del TCE, en Quito. En su cuenta de X, Celi escribió: “A defender la libertad de los ecuatorianos a elegir a su candidato a la Presidencia de la República. No permitiremos que el gobierno de Noboa saque a Jan Topic de la papeleta”.
+
+> Rumores de descalificación ante TCE. Saben que NO soy contratista del Estado, pero argumentan: “posiblemente podría a futuro beneficiarse de algún contrato.” ¿La razón real? Abajo. Daniel, la vamos a pelear en la OEA, CIDH—créeme, tu no serás presidente; Ecuador merece mejor. [pic.twitter.com/1fq55zVrro](https://t.co/1fq55zVrro)
+> 
+> — Jan T. Topić (@jantopicecuador) [November 10, 2024](https://twitter.com/jantopicecuador/status/1855425133508284875?ref_src=twsrc%5Etfw)
+
+Pronunciamiento de la OEA
+-------------------------
+
+El secretario general de la **OEA**, **Luis Almagro**, también se pronunció sobre las versiones de una posible inhabilitación de Jan Topic.
+
+Almagro señaló que “ante versiones oficiosas respecto a la **inhabilitación** del candidato a la Presidencia de Ecuador, **Jan** **Topic**, consideramos que, de hacerse efectiva, la misma constituiría un fuerte golpe a la integridad del presente **proceso electoral** y un serio revés a la **democracia ecuatoriana**”.
+
+> Ante versiones oficiosas respecto a la inhabilitación del candidato a la Presidencia de [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) Jan Topic [@jantopicecuador](https://twitter.com/jantopicecuador?ref_src=twsrc%5Etfw), consideramos que, de hacerse efectiva, la misma constituiría un fuerte golpe a la integridad del presente proceso electoral y un serio revés a la…
+> 
+> — Luis Almagro (@Almagro\_OEA2015) [November 10, 2024](https://twitter.com/Almagro_OEA2015/status/1855618648720703894?ref_src=twsrc%5Etfw)
+
+**Comunicado de la Cancillería del Ecuador**
+--------------------------------------------
+
+A las 13:15, de este 10 de noviembre de 2024, la Cancillería publicó en su cuenta de X un comunicado oficial como respuesta a las declaraciones de Almagro.
+
+> Comunicado oficial | [pic.twitter.com/eKtmApM1hp](https://t.co/eKtmApM1hp)
+> 
+> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [November 10, 2024](https://twitter.com/CancilleriaEc/status/1855675667280494873?ref_src=twsrc%5Etfw)
+
 El embalse Mazar perdió cinco metros desde el 4 de noviembre
 ============================================================
 
@@ -464,486 +922,3 @@ A su vez formarán parte del evento representantes del talento ecuatoriano con d
 La principal cita de la moda en Ecuador contará también con invitados especiales como José Fortaleza, editor la edición para Latinoamérica de la revista Vogue, y Claudia Zuleta, reconocida diseñadora, directora creativa y estilista de celebridades.
 
 Junto a otros expositores de renombre, participarán en los espacios ‘3C Conferencias, Charlas y Conversatorios’, donde compartirán su visión sobre el futuro de la moda.
-
-Es oficial, final de Copa Ecuador se disputará en otro estadio y ciudad
-=======================================================================
-
-El presidente de la FEF, Francisco Egas, confirmó que la final de la Copa Ecuador se jugará en Quito.
------------------------------------------------------------------------------------------------------
-
-![El cuadro militar y los del Valle definirán al campeón de la Copa Ecuador 2024](https://www.elcomercio.com/wp-content/uploads/2024/11/nacional-idv-copa-ecuador.jpg)
-
-El Presidente de la Federación Ecuatoriana de Fútbol (**FEF**) confirmó que la **Copa Ecuador** cambiará la **sede de la final**, por petición de los equipos en disputa.
-
-### Más noticias
-
-* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
-* [Votaciones para Daniel Pintado como mejor atleta del año están por finalizar](https://www.elcomercio.com/deportes/otros/votaciones-daniel-pintado-mejor-atleta.html "Votaciones para Daniel Pintado como mejor atleta del año están por finalizar")
-* [Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-bolivia.html "Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador")
-
-En conversación con medios de comunicación, **Francisco Egas** oficializó que el partido entre **Independiente del Valle** y **El Nacional** no se jugará en el **Estadio de Ibarra**, cómo se tenía programado.
-
-Ahora, el partido que definirá al campeón de la tercera edición de este torneo se realizará en **Quito**.
-
-El Nacional e IDV, los finalistas de la Copa Ecuador
-----------------------------------------------------
-
-El **Nacional e Independiente del Valle** disputarán la final de la Copa Ecuador 2024, torneo organizado por la Federación Ecuatoriana de Fútbol (FEF).
-
-Para llegar a la final, El Nacional derrotó en las semifinales a **Mushuc Runa**, por un marcador global de 4-1, con lo que abrió la puerta para obtener un título nacional después de 18 años, tras el campeonato logrado en 2006.
-
-Por su parte, Independiente del Valle dejó en el camino a **Universidad Católica de forma dramática**. En los partidos de ida y vuelta el marcador fue de 2-2 y en los penales los del Valle se impusieron por 6-5, con Moisés Ramírez como una de la figuras.
-
-La FEF, inicialmente, decidió que la final entre los dos equipos de Quito se juegue, el miércoles 27 de noviembre, **en el Estadio Olímpico de Ibarra**, escenario ubicado a 113 kilómetros de distancia de la capital ecuatoriana.
-
-Esta decisión no gustó a los equipos capitalinos, quienes ambos solicitaron que el partido final se juegue en sus cercanías[.](https://es.wikipedia.org/wiki/Copa_Ecuador "https://es.wikipedia.org/wiki/Copa_Ecuador")
-
-¿En qué estadio se jugará la final de la Copa Ecuador?
-------------------------------------------------------
-
-Francisco Egas confirmó que la final de la Copa Ecuador entre los **rojos y los rayados** se jugará en el **Estadio Rodrigo Paz Delgado**, propiedad de Liga de Quito.
-
-Este estadio ya recibió una final de este torneo en **2019**, cuando los ‘albos’ recibieron a Delfín en la ida.
-
-El **Rodrigo Paz Delgado**, también conocido como “Casa Blanca”, tiene una capacidad reglamentaria de **41 575 espectadores**; superior a las cerca de 18 000 personas que entraban en el Estadio de Ibarra.
-
-La hora del partido final no se ha confirmado aún, como el **valor de las localidades**. Se espera que en los próximos días se conozcan estos detalles.
-
-Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024
-========================================================================
-
-Por la baja de los caudales a las centrales hidroeléctrica y el mantenimiento de otras, los cortes de luz aumentaron a 12 horas en todo el país.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil serán de 12 horas durante el fin de semana del 9 y 10 de noviembre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-31.jpg)
-
-Tras el anuncio del **Ministerio de Energía y Minas** sobre el aumento de los cortes de luz, se presentaron los **nuevos horarios** de **apagones** en la ciudad de **Guayaquil**.
-
-### Más noticias
-
-* [Consejos de salud mental para sobrellevar los apagones](https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html "Consejos de salud mental para sobrellevar los apagones")
-* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
-* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
-
-Guayaquil, sin luz por 12 horas
--------------------------------
-
-Como en el resto del país, en **Guayaquil** los **cortes de luz** tendrán una duración de **12 horas**, para el fin de semana del **9 y 10 de noviembre del 2024.**
-
-Según el **Gobierno**, se recurre a esta medida para **proteger los embalses**, que están en un punto crítico por la **escasez de lluvias**.
-
-La **Corporación Nacional de Electricidad** (CNEL) entregó la distribución de los apagones en Guayaquil para este fin de semana, que se podrá seguir en el siguiente cuadro:
-
-Cortes por la baja de las cotas
--------------------------------
-
-Los **cotas** de los embalses de las **centrales hidroeléctricas** están en **niveles críticos**. La central de **Mazar** dejó de operar a las 13:00 de este 9 de noviembre del 2024. También están acercándose al mínimo **Minas San Francisco** y **Amaluza**.
-
-Para el **Ministerio de Energía y Minas**, la decisión repentina de aumentar los cortes de luz hasta las 12 horas diarias es la del mantenimiento de algunas centrales, como **Agoyán**, **San Francisco** y otras plantas térmicas.
-
-En su comunicado, el Ministerio señaló que “estos **mantenimientos son indispensables** para asegurar la continuidad y seguridad del **Sistema Eléctrico Nacional**, así como para prevenir fallas mayores”[.](https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador) "https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador)")
-
-Sin embargo, hay quejas de los usuarios porque no se respetaron los horarios. Así, en su cuenta de X, Michelle Paredes escribió que en su vecindario, Mucho Lote 2, no correspondía el corte de luz, sin embargo, le cortaron el suministro de energía.
-
-> Acaban de cortar la energía en la cuarta etapa de Mucho Lote 1 y se supone que era de 13h00 a 16h00. 😡
-> 
-> — Michelle Paredes 🫀 (@AndryMichelleP) [November 9, 2024](https://twitter.com/AndryMichelleP/status/1855288017272942719?ref_src=twsrc%5Etfw)
-
-Fallece Tony Todd, estrella de la película de terror ‘Candyman’
-===============================================================
-
-Fue una figura querida tanto por su trabajo en el cine como por su carácter humano
-----------------------------------------------------------------------------------
-
-![Uno de los papeles más reconocidos de Tony Todd fue el de Candyman.](https://www.elcomercio.com/wp-content/uploads/2024/11/candyman-quito-El-Comercio.jpg)
-
-El reconocido actor Tony Todd, famoso por sus papeles emblemáticos en las sagas de Candyman y Destino final, murió a los 69 años tras una larga enfermedad. El deceso ocurrió el miércoles 6 de noviembre de 2024 en su hogar en California, según confirmó su esposa, Fatima, a The Hollywood Reporter.
-
-A pesar de la confirmación, no se han revelado detalles sobre la naturaleza de su enfermedad. Todd, conocido por su profunda voz y su presencia en pantalla y deja un legado que abarca varias décadas de trabajo en cine y televisión.
-
-**Una carrera llena de personajes memorables**
-----------------------------------------------
-
-Tony Todd comenzó su carrera como actor de carácter, destacándose en diversos papeles en producciones como _Beverly Hills, 90210_ , _Night of the Living Dead_ , _Platoon_ , y _The Rock_ , entre otras.
-
-Sin embargo, su mayor reconocimiento llegó con su interpretación del temible ‘Candyman’ en la saga homónima, y ​​por su participación en _Destino Final_ , donde encarnó al misterioso hombre que anunciaba la muerte inminente.
-
-A lo largo de su carrera, Todd expresó en varias entrevistas su amor por la actuación teatral y su deseo de interpretar una variedad de personajes en lugar de encasillarse en un solo tipo de rol. En una reciente entrevista con _MovieWeb_, Todd mencionó su pasión por el teatro y la colaboración en cine, destacando que todas las películas son una “colaboración” entre actores y cineastas.
-
-**Homenajes y recuerdos de sus compañeros**
--------------------------------------------
-
-El legado de Todd fue rápidamente reconocido en redes sociales, donde muchos rindieron homenaje a su talento. La productora de _Final Destination_ , New Line Cinema, expresó a través de Instagram: “La industria ha perdido a una leyenda. Nosotros hemos perdido a un amigo muy querido. Descansa en paz, Tony”.
-
-Además de su esposa, Todd deja a dos hijos, Alex y Ariana, y una carrera que será recordada por sus contribuciones al cine de terror y su incansable deseo de reinventarse como actor.
-
-**Las cinco películas más importantes de Tony Todd**
-----------------------------------------------------
-
-### Candyman (1992)
-
-Su papel como el aterrador Candyman lo convirtió en una leyenda del cine de terror y le dio reconocimiento internacional.
-
-### Destino final (2000)
-
-Interpretó a Bludworth , un personaje clave que alerta a los protagonistas sobre la muerte inminente, un papel que lo consolidó en el cine de terror.
-
-### Platoon (1986)
-
-Su debut en una gran producción, trabajando con Oliver Stone y un elenco de estrellas como Forest Whitaker y Willem Dafoe.
-
-### The Rock (1996)
-
-Un papel en esta exitosa película de acción junto a Sean Connery y Nicolas Cage le dio un mayor reconocimiento en Hollywood.
-
-### La noche de los muertos vivientes (1990)
-
-Tony Todd protagonizó este remake de culto, interpretando a Ben , un papel icónico en el cine de zombies
-
-Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa
-================================================================================
-
-Los 'albos' quieren final. Liga de Quito superó a los del Valle en su estadio y ahora van por la segunda etapa de la Liga Pro.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito le dio la vuelta al partido y se llevó la victoria con un 2 a 1](https://www.elcomercio.com/wp-content/uploads/2024/11/liga-quito-idv.jpg)
-
-En un **vibrante partido** que tuvo grandes ocasiones de gol, **Liga Deportiva Universitaria de Quito** ganó a **Independiente del Valle** y se colocó como líder en la tabla de posiciones de la **Liga Pro**.
-
-### Más noticias
-
-* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
-* [Votaciones para Daniel Pintado como mejor atleta del año están por finalizar](https://www.elcomercio.com/deportes/otros/votaciones-daniel-pintado-mejor-atleta.html "Votaciones para Daniel Pintado como mejor atleta del año están por finalizar")
-* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
-
-Los ‘albos’ y los ‘rayados’ se enfrentaron en un **apasionante duelo** a las 15:30 de este sábado 9 de noviembre de 2024, por la decimotercera fecha de la segunda fase del torneo local.
-
-La **final adelantada** se vivió como tal, con duelos individuales, ataques directos y gritos de gol para ambos equipos.
-
-Una final adelantada
---------------------
-
-Liga de Quito llegó segunda en la tabla de posiciones con **26 puntos**, por detrás de Independiente del Valle, que llegó con la misma cantidad de puntos, pero con un gol más de diferencia.
-
-Los de Sangolquí se jugaban un partido especial; el objetivo era ganar para liquidar las aspiraciones de LDU y adueñarse de la segunda etapa. Con la victoria, el título estaba casi en sus manos a falta de **dos fechas**.
-
-Sin embargo, el ‘**Rey de Copas**‘ no quería dejar de pasar la oportunidad para superar a los punteros y forzar con ello una ‘**finalísima**‘.
-
-Liga de Quito ganó y se consolida para ganar la etapa
------------------------------------------------------
-
-### Primer tiempo
-
-El duelo entre Pablo ‘**Vitamina**‘ Sánchez, de Liga, y **Javier Gandolfi**, de IDV se lo llevó el técnico ‘albo’.
-
-Los blancos hicieron sentir su localía en el **Estadio Rodrigo Paz Delgado** y lograron remontar un 0 a 1.
-
-El goleador del cuadro del Valle, el colombiano **Jeison Medina**, abrió el marcador a los 17 minutos con un ‘golazo’ desde fuera del área
-
-> JEISOOOOOON 🔪 GOLAZO  
->   
-> Error de Richard Mina en la salida y Medina sacó un remate colocado para poner el 0-1 de [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw). 🫢[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gkuzBlr74l](https://t.co/gkuzBlr74l)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 9, 2024](https://twitter.com/zapping_ecu/status/1855353633585676297?ref_src=twsrc%5Etfw)
-
-Liga se mostró ‘respetuosa’ con su rival en el primer tiempo, con un **fútbol directo** y sin muchas ideas colectivas.
-
-Pero todo cambió en los minutos finales del primer tiempo, a los 45+2′, el máximo anotador de la Liga Pro, el paraguayo **Alex Arce** empató el cotejo y sumó 21 tantos en la actual temporada.
-
-Este gol **subió el ánimo** de los locales y le dio otra cara al partido de Liga en el segundo tiempo.
-
-> ✈️🇵🇾 [pic.twitter.com/hYo8Duq58i](https://t.co/hYo8Duq58i)
-> 
-> — LDU Oficial (@LDU\_Oficial) [November 9, 2024](https://twitter.com/LDU_Oficial/status/1855363472172941565?ref_src=twsrc%5Etfw)
-
-### Segundo Tiempo
-
-El segundo tiempo fue distinto con respecto a los primeros 45 minutos. IDV **bajó su ritmo** y esto lo aprovechó LDU.
-
-De inicio a fin, el partido fue **frenético**. Ambos equipos tuvieron **claras ocasiones de gol**.
-
-Al minuto 62, **Fernando Cornejo** aprovechó un extraordinario pase de **Michael Estrada**, y tras visualizar el achique del arquero Guido Villar, colocó el esférico en el costado inferior derecho.
-
-> C O R N E J O 🇨🇱 [pic.twitter.com/Sh8JCpa5GY](https://t.co/Sh8JCpa5GY)
-> 
-> — LDU Oficial (@LDU\_Oficial) [November 9, 2024](https://twitter.com/LDU_Oficial/status/1855371096947556782?ref_src=twsrc%5Etfw)
-
-Con el **2 a 1**, Liga se dedicó a defender de forma ordenada, pero sin bajar los brazos en el ataque. Independiente del Valle, por su parte, buscó el arco norte en varias ocasiones pero **sin mucho éxito**.
-
-El **ida y vuelta** fue constante hasta los últimos minutos. El desgaste físico de los 22 jugadores fue notable.
-
-Desde el minuto 85, los jugadores se mostraron más erráticos debido al **nerviosismo** de lo que significaba este cotejo.
-
-Finalmente, Liga pudo mantener su **superioridad táctica** y cuidó el marcador. El 2 a 1 pone en las manos de LDU la **pelea por el título**.
-
-Si Independiente del Valle pierde el campeonato este 2024, seguramente será por este partido.
-
-Últimas dos fechas ‘de infarto’
--------------------------------
-
-**Dos fechas** restan para definir la segunda etapa de la Liga Pro. El favorito, tras este partido, es Liga de Quito.
-
-De ganar, los ‘albos’ se enfrentarán en una final a ida y vuelta con los ganadores de la primera etapa: Independiente del Valle.
-
-A LDU le resta visitar a **Universidad Católica** y cerrará con **Deportivo Cuenca** en casa. Mientras que los de Sangolquí recibirán en su estadio a **Macará** y viajarán a **El Oro** para enfrentar al equipo de la ciudad, quien también tienen la esperanza de llegar a una final.
-
-Aeropuerto Internacional de Quito advierte sobre falso anuncio de maletas perdidas
-==================================================================================
-
-Una publicación fraudulenta circula en redes sociales.
-------------------------------------------------------
-
-![Screenshot de la cuenta de X del Aeropuerto Internacional Mariscal Sucre.](https://www.elcomercio.com/wp-content/uploads/2024/11/aeropuerto-quito-El-Comercio.jpg)
-
-El **Aeropuerto Internacional Mariscal Sucre de Quito** publicó una alerta en su cuenta de X. En la publicación advierte a la ciudadanía acerca de un **falso anuncio** que circula en **redes sociales**.
-
-El anuncio trata sobre un supuesto acto benéfico en el que se regalarían maletas perdidas no reclamadas 2 dólares cada una. En la publicación, se asegura que una gran cantidad de maletas olvidadas se acumulan cada año en el almacén del aeropuerto y que serán donadas a través de un evento organizado por la institución. Además, se menciona que los interesados ​​deben llenar un cuestionario para recibir una de estas maletas, destacando la urgencia y limitación de las mismas.
-
-> ⚠️¡Atención!  
-> Hacemos un llamado a no caer en falsos anuncios a nombre de Corporación [#Quiport](https://twitter.com/hashtag/Quiport?src=hash&ref_src=twsrc%5Etfw) o del [#AeropuertoUIO](https://twitter.com/hashtag/AeropuertoUIO?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/IDI7H48FKI](https://t.co/IDI7H48FKI)
-> 
-> — Aeropuerto Internacional de Quito (@AeropuertoUIO) [November 6, 2024](https://twitter.com/AeropuertoUIO/status/1854270949115248730?ref_src=twsrc%5Etfw)
-
-La institución aclara que este anuncio no tiene ninguna relación con el aeropuerto ni con sus operaciones. Se trata de un fraude cuyo objetivo es engañar a los usuarios.
-
-La entidad pidió a la ciudadanía que no proporcione ninguna información personal ni realice ninguna acción relacionada con este falso anuncio.
-
-La entidad subrayó que el Aeropuerto Internacional Mariscal Sucre no está organizando ningún evento de este tipo.
-
-Cotas de varias hidroeléctricas están llegando al límite
-========================================================
-
-Mazar dejó de producir energía desde las 13:00 de hoy. Otras represas también están llegando a los niveles más bajos.
----------------------------------------------------------------------------------------------------------------------
-
-![El embalse de Mazar está llegando a niveles mínimos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-29.jpg)
-
-Las **lluvias** volvieron a escasear en el sur del país. Los caudales de agua hacia el embalse de **Mazar**, la más importante del Complejo Hidroeléctrico **Paute**, han caído y la cota está cerca de llegar a su nivel crítico. Pero no es la única. **Otros embalses** también están llegando a los **niveles mínimos** para su operación,
-
-### Más noticias
-
-* [Consejos de salud mental para sobrellevar los apagones](https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html "Consejos de salud mental para sobrellevar los apagones")
-* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
-* [Nuevos horarios de cortes de luz en Quito para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/nuevos-horarios-de-cortes-de-luz-en-quito-para-este-sabado-9-de-noviembre.html "Nuevos horarios de cortes de luz en Quito para este sábado 9 de noviembre")
-
-A las 13:00, Mazar se apagó
----------------------------
-
-Según las gráficas de producción de la **Corporación Eléctrica del Ecuador (Celec)**, a las 16:00 de este 9 de noviembre del 2024, la cota de Mazar llegó a los 2 110.93 metros sobre el nivel del mar.
-
-Asimismo, el caudal de agua ha sido irregular. Y a esa misma hora era de **10.51 metros cúbicos por segundo.**
-
-De acuerdo a la misma información, **hasta las 12:00** de hoy, **Mazar** generó **56.97 megavatios por hora.** Sin embargo, **desde las 13:00, ya no hay ningún informe**, cuando otras hidroeléctricas, como San Francisco o Molino, sí están generando energía hasta las 16:00.
-
-Otras represas están al límite de sus cotas
--------------------------------------------
-
-No solo _Mazar_ está en riesgo de que lleguen al límite más bajo de sus cotas. Hay otras hidroeléctricas que están bajo el mismo problema. Uno de ellos es **Minas San Francisco,** que a las 16:00 estaba a 784.25 metros sobre el nivel del mar, cuando el mínimo posible es 783,33 metros[.](https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador")
-
-Tampoco le está yendo bien a **Amaluza**. Tenía 1982,69; el mínimo es de 1975 metros sobre el nivel del mar.
-
-Más cortes en el país
----------------------
-
-El Ministerio de Energía y Minas anunció que para el fin de semana del **9 y 10 de noviembre del 2024**, los cortes de luz aumentarán **a 12 horas**. Según esta dependencia del Estado, la medida responde a la necesidad de realizar mantenimientos programados y de emergencia en las centrales hidroeléctricas Agoyán, San Francisco y en algunas plantas térmicas.
-
-Votaciones para Daniel Pintado como mejor atleta del año están por finalizar
-============================================================================
-
-El marchista ecuatoriano Daniel Pintado está nominado a los 'World Athletics Awards'. Te contamos como votar por él.
---------------------------------------------------------------------------------------------------------------------
-
-![El cuencano Daniel Pintado logró dos medallas de oro en los Juegos Olímpicos París 2024](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-pintado-mejor-atleta.jpg)
-
-El ecuatoriano **Daniel Pintado** está nominado a mejor atleta del año en los ‘**World Athletics Awards**‘. La votación es pública e incluye premios para los fanáticos que elijan a su **deportista favorito**.
-
-### Más noticias
-
-* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
-* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
-* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
-
-La votación para los ‘World Athletics Awards’, que premia a los mejores atletas del año, **está por finalizar** esta semana.
-
-**12 atletas de distintas categorías** están nominados en este reconocimiento internacional, incluido el marchista ecuatoriano Daniel Pintado.
-
-La elección determinará dos premios, el título al mejor finalista de las categorías **pista, campo y fuera de estadio** y el título como el mejor atleta de 2024.
-
-El cuencano de **29 años** está nominado en categoría fuera de estadio.
-
-Vota y participa por un viaje a Mónaco
---------------------------------------
-
-La votación para elegir al mejor atleta del año se realiza del lunes 4 al **domingo 10 de noviembre**.
-
-Para participar deberás ingresar al siguiente [enlace](https://eu.research.net/r/2L2KJFC "https://eu.research.net/r/2L2KJFC").
-
-En esta página web podrás seleccionar tu atleta favorito. Daniel Pintado se encuentra en la primera opción de los deportistas masculinos.
-
-Los ganadores de cada categoría, junto con el vencedor general, se anunciarán el 1 de diciembre en una **ceremonia en Mónaco**.
-
-Como incentivo para los participantes, uno de los votantes y un acompañante podrán disfrutar de un **viaje VIP a Mónaco**. Esta experiencia incluye tres noches de estadía y la oportunidad de conocer a los mejores atletas de 2024. Otros **10 finalistas recibirán una sesión virtual** con los deportistas.
-
-Nominados al mejor atleta del año
----------------------------------
-
-**Seis hombres y seis mujeres** se encuentran nominados al mejor atleta del año. Estos son:
-
-### Hombres nominados
-
-**Brian Daniel Pintado, Ecuador**
-
-* Campeón olímpico de 20 km marcha
-* Plata olímpica en relevos mixtos de marcha atlética
-
-**Jakob Ingebrigtsen, Noruega**
-
-* Campeón olímpico de 5.000 metros
-* Récord mundial de 3.000 metros
-
-**Letsile Tebogo, Botsuana**
-
-* Campeón olímpico de 200 metros
-* Líder mundial de 200 metros
-
-**Militiadis Tentoglou, Grecia**
-
-* Campeón olímpico de salto de longitud
-* Campeón del mundo de salto de longitud en pista cubierta
-
-**Mondo Duplantis, Suecia**
-
-* Campeón olímpico de salto con pértiga
-* Récord mundial de salto con pértiga
-
-**Tamirat Tola, Etiopía**
-
-* Campeón olímpico de maratón
-* Récord olímpico de maratón
-
-### Mujeres nominadas
-
-**Julien Alfred, Santa Lucía**
-
-* Campeón olímpico de 100 metros
-* Campeón del mundo de 60 metros en pista cubierta
-
-**Nafi Thiam, Bélgica**
-
-* Campeón olímpico de heptatlón
-* Líder mundial de heptatlón
-
-**Ruth Chepngetich, Kenia**
-
-* Récord mundial de maratón
-* Ganadora del maratón de Chicago
-
-**Sifan Hassan, Países Bajos**
-
-* Campeón olímpico de maratón
-* Récord olímpico de maratón
-
-**Sydney McLaughlin-Levrone, Estados Unidos**
-
-* Campeona olímpica de 400 vallas y 4×400 vallas
-* Récord mundial de 400 vallas
-
-**Yaroslava Mahuchikh, Ucrania**
-
-* Campeona olímpica de salto de altura
-* Récord mundial de salto de altura
-
-Daniel Pintado y unos Juegos Olímpicos históricos
--------------------------------------------------
-
-En los Juegos Olímpicos de París 2024, Daniel Pintado hizo historia al ganar la medalla de oro en la prueba de 20 kilómetros marcha, convirtiéndose en el segundo atleta ecuatoriano en obtener la máxima medalla en esta disciplina, tras la obtenida por Jefferson Pérez en Atlanta 1996.
-
-Pintado finalizó la competencia con un tiempo de 1:18:55, lo que le permitió no solo llevarse el oro, sino también dar a Ecuador su primera medalla en estos Juegos.
-
-Además de su oro, Daniel Pintado también alcanzó la medalla de plata en los **relevos mixtos** junto a **Glenda Morejón,** convirtiéndose así en el primer ecuatoriano en conseguir **dos medallas** en una misma edición olímpica
-
-Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato
-==================================================================================
-
-La resolución alcanza a otros funcionarios.
--------------------------------------------
-
-![El presidente de Bolivia, Luis Arce, saluda durante la presentación de un informe de gestión el viernes 8 de noviembre de 2024 en La Paz (Bolivia).](https://www.elcomercio.com/wp-content/uploads/2024/11/69de6f5b2d4b008c2ed4b1f7a11526154326f12e.jpg)
-
-El Tribunal Constitucional Plurinacional de **Bolivia** emitió el viernes 8 de noviembre de 2024 un fallo que confirma que la reelección en el país es por una sola vez de forma continua o discontinua, por lo que el exmandatario **Evo Morales** (2006-2019) estaría impedido para ser candidato a la Presidencia en 2025.
-
-El auto constitucional, firmado por los magistrados René Espada y Gonzalo Hurtado, establece que las autoridades electas en los poderes Legislativo, Ejecutivo y Judicial tienen “el ejercicio de su periodo de mandato, únicamente por dos periodos, sean estos continuos o discontinuos sin posibilidad de ampliarse a un tercer mandato”.
-
-El fallo, que es una respuesta a un recurso de complementación y enmienda presentado por algunos legisladores, señala que la Constitución promulgada en 2009, promovida por Morales, busca “evitar de cualquier modo la permanencia de un mandatario, en el caso de los Órganos Legislativo (y) Ejecutivo por más de diez años en total”.
-
-Esto afecta las intenciones de Morales de ser candidato a la Presidencia nuevamente, pues ya gobernó Bolivia en tres ocasiones (2006-2009, 2010-2014 y 2015-2019).
-
-Alcance de la resolución
-------------------------
-
-Asimismo, la premisa del Tribunal Constitucional se aplica también a los magistrados del poder Judicial, quienes pueden ser reelegidos por voto popular una vez, mientras que para los vocales electorales no existe la posibilidad de extensión de su mandato.
-
-La resolución establece además que “ninguna autoridad electa que hubiera superado dos candidaturas anteriores, podrá candidatear y menos ejercer” los cargos de vicepresidente, presidente del Legislativo, presidente de la Cámara de Diputados y del Senado”.
-
-Esta semana el senador Andrónico Rodríguez, afín al bloque oficialista de Morales, fue elegido por cuarta vez consecutiva como presidente del Senado.
-
-El diputado opositor José Carlos Gutiérrez, uno de los legisladores que planteó el recurso, dijo a EFE que el auto constitucional es una “aclaración” al fallo que emitió esa misma instancia a finales del año pasado.
-
-La sentencia constitucional de diciembre de 2023 estableció que en Bolivia el presidente y vicepresidente solo pueden ser elegidos y ejercer su mandato por dos periodos, ya sean continuos o discontinuos y que la reelección indefinida no existe y “no es un derecho humano”.
-
-“Con esto, lo que le queda a Evo Morales es dejar en paz a Bolivia y dejar de pretender conseguir el poder por la fuerza, enfrentar a la Justicia como un civil cualquiera, porque él no va a poder ser presidente nunca más en su vida”, enfatizó Gutiérrez.
-
-Esta semana, en una entrevista concedida a EFE en Lauca Ñ, Morales reiteró que él “está legalmente constitucionalmente, nacionalmente, internacionalmente habilitado” y que la intención del Gobierno a través de la Justicia es “hacer creer que Evo está inhabilitado”.
-
-El oficialista **Movimiento al Socialismo (MAS)** está dividido en dos bandos, unos que apoyan a Morales y otros adeptos al presidente de Bolivia, Luis Arce, debido a las tensiones internas en el partido oficialista que comenzaron a finales de 2021.
-
-Esta tensión ha aumentado en las últimas semanas por el bloqueo de carreteras que por 24 días los seguidores de Morales mantuvieron en el centro del país para exigir que se levanten las investigación por estupro y tráfico de personas, además por el respeto al congreso de 2023 que le proclamó “candidato único” para los comicios de 2025.
-
-El bloque de Arce y el de Morales están también enfrentados por el control del MAS, cuya permanencia como partido depende de una próxima reunión en la que se renueve la directiva que Morales preside.
-
-Segundo Navarrete y Steven Haro buscan revancha en la Vuelta al Ecuador
-=======================================================================
-
-La Vuelta al Ecuador empezará el 11 de noviembre y dos experimentados ciclistas ecuatorianos quieren sorprender en este 2024
-----------------------------------------------------------------------------------------------------------------------------
-
-![Segundo Navarrete y Steven Haro volverán a la Vuelta al Ecuador con el Team Giant Toscana.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-21.jpg)
-
-Los ciclistas ecuatorianos **Segundo Navarrete** y **Steven Haro** encabezan la escuadra nacional Team Giant Toscana con un único objetivo: hacer historia en la 41ª edición de la **Vuelta Ciclística al Ecuador**.
-
-Con la experiencia acumulada en ediciones anteriores, ambos corredores tienen la mira puesta en los primeros lugares de la clasificación general y en destacarse en alguna de las etapas del giro nacional que empezará desde este 11 de noviembre del 2024.
-
-### Más noticias:
-
-* [Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala](https://www.elcomercio.com/deportes/bayron-guama-vuelta-guatemala-ecuador.html "Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala")
-* [¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?](https://www.elcomercio.com/deportes/ciclismo/cuando-vuelta-ciclistica-ecuador-2024-equipos.html "¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?")
-* [Campeón del mundo de ciclismo es asesinado en Colombia](https://www.elcomercio.com/deportes/campeon-mundo-colombia-ciclismo-asesinato.html "Campeón del mundo de ciclismo es asesinado en Colombia")
-
-**Haro**, campeón en 2021, y **Navarrete**, subcampeón en 2019, lideran a un equipo joven que promete ser una de las principales fuerzas en la competencia.
-
-**Navarrete**, quien va por 18 ediciones en la Vuelta, destacó el intenso trabajo de preparación realizado para obtener el mejor desempeño posible. “La meta es pelear por un buen puesto en la general”, aseguró el ciclista carchense. Por su parte, Steven Haro, quien ha sido clave para el equipo, expresó su confianza en la calidad de sus entrenamientos y mencionó que sus aspiraciones son estar entre los cinco primeros y ganar una o dos etapas.
-
-Además de los dos corredores experimentados, el **Team Giant Toscana** contará con otros talentos emergentes, como los hermanos Jilmar y Joffre Imbaquingo. Joffre, quien recientemente estuvo en una pasantía en España con el equipo filial del Caja Rural, es uno de los ciclistas a seguir.
-
-También forman parte del equipo Marco Chalco, Yostin Pozo, quien participó en el Tour del Avenir 2024 en Francia, y Christian Albarracín, quien tiene claro que su objetivo es ganar una de las etapas.
-
-Los ciclistas comenzarán su desafío el 11 de noviembre, en una competencia que recorrerá 1125 km a través de las provincias más emblemáticas de Ecuador, hasta culminar el 17 de noviembre.
-
-Equipos internacionales en la Vuelta Ciclística al Ecuador
-----------------------------------------------------------
-
-Se espera la presencia de unos 90 ciclistas élite, entre los que destacan equipos internacionales como el **Team Medellín**, el Esparza de México, el BTR-USA de Estados Unidos, el Politachira Heidy Lee de Venezuela, el Orígenes Coffee de Colombia y el Hino One La Red de Guatemala.
-
-Además, competirán varios equipos nacionales de renombre como el **Movistar Best PC**, que contará con el cuatro veces ganador de la Vuelta, Byron Guamá.
-
-Las etapas de la Vuelta al Ecuador 2024
----------------------------------------
-
-* **Domingo 10 noviembre** Presentación Equipos / Holiday Inn Airport
-* **Lunes 11 noviembre** Etapa 1 – 157,5 Km / Calacali – La Concordia
-* **Martes 12 noviembre** Etapa 2 – 239,2 Km / Valle Hermoso – Babahoyo
-* **Miércoles 13 noviembre** Etapa 3 – 115,9 Km / El Arenal – Alausí
-* **Jueves 14 noviembre** Etapa 4 – 129,6 Km / Circuito Riobamba
-* **Viernes 15 noviembre** Etapa 5 – 152 km / Urbina – Machachi
-* **Sábado 16 noviembre** Etapa 6 – 179,8 Km / Machachi – Cotacachi
-* **Domingo 17 noviembre** Etapa 7 – 159,6 Km / Atuntaqui – Quito
