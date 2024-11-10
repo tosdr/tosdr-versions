@@ -25,18 +25,18 @@ Privacy Policy
 
 #### **پربازدیدها**
 
-* [![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/app/uploads/2021/04/xodkosi-o-estesmar-95x65.jpg)](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)[خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/Linas-Kaziulionis-95x65.jpeg)](https://karkhane.org/5952/nioc_white_collars/)[در مورد “اعتصابات” کارمندان رسمی شرکت ملی نفت ایران](https://karkhane.org/5952/nioc_white_collars/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
+* [![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/app/uploads/2021/04/xodkosi-o-estesmar-95x65.jpg)](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)[خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
 * [![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](https://karkhane.org/app/uploads/2020/11/bazxani-e-haft-tappe-99-95x65.jpg)](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)[بازخوانی هفت‌تپه‌ی نودونُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال ۹۹](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)
@@ -52,9 +52,9 @@ Privacy Policy
 * [![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/app/uploads/2021/05/gozares-vaziyat-kargaran-labaniyat-hume-e-esfahan-95x65.jpg)](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)[گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)
-* [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
+    ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
