@@ -174,7 +174,6 @@
     * [APIs & Integrations](https://www.fiverr.com/categories/programming-tech/software-development/api-integrations?source=category_tree)
     * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
     * [Scripting](https://www.fiverr.com/categories/programming-tech/software-development/scripting?source=category_tree)
-    * [Browser Extensions](https://www.fiverr.com/categories/programming-tech/software-development/browser-extension?source=category_tree)
     * [QA & Review](https://www.fiverr.com/categories/programming-tech/qa-services?source=category_tree)
     * [User Testing](https://www.fiverr.com/categories/programming-tech/user-testing-services?source=category_tree)
     
@@ -187,6 +186,7 @@
         
     * [Electronics Engineering](https://www.fiverr.com/categories/programming-tech/electronics-engineering?source=category_tree)
     * [Support & IT](https://www.fiverr.com/categories/programming-tech/support-it-services?source=category_tree)
+    * [Discord Server Setup](https://www.fiverr.com/categories/online-marketing/buy/community-management/plan-and-strategy/discord?source=category_tree)
     * [Convert Files](https://www.fiverr.com/categories/programming-tech/file-conversion-services?source=category_tree)
     
     * ### Seeking a full suite of services?
@@ -620,7 +620,7 @@
     
     * [Gaming](https://www.fiverr.com/categories/lifestyle/gaming?source=category_tree)
     * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree)
-    * [eSports Management & Strategynew](https://www.fiverr.com/categories/lifestyle/gaming/esports-management-strategy?source=category_tree)
+    * [eSports Management & Strategy](https://www.fiverr.com/categories/lifestyle/gaming/esports-management-strategy?source=category_tree)
     * [Game Matchmakingnew](https://www.fiverr.com/categories/lifestyle/recreational-gaming/game-matchmaking?source=category_tree)
     * [Ingame Creation](https://www.fiverr.com/categories/lifestyle/ingame-creation?source=category_tree)
     * [Gameplay Experience & Feedbacknew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
@@ -888,7 +888,6 @@ Browse categories
     * [APIs & Integrations](https://www.fiverr.com/categories/programming-tech/software-development/api-integrations?source=category_tree)
     * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
     * [Scripting](https://www.fiverr.com/categories/programming-tech/software-development/scripting?source=category_tree)
-    * [Browser Extensions](https://www.fiverr.com/categories/programming-tech/software-development/browser-extension?source=category_tree)
     * [QA & Review](https://www.fiverr.com/categories/programming-tech/qa-services?source=category_tree)
     * [User Testing](https://www.fiverr.com/categories/programming-tech/user-testing-services?source=category_tree)
     
@@ -900,6 +899,7 @@ Browse categories
     * Miscellaneous
     * [Electronics Engineering](https://www.fiverr.com/categories/programming-tech/electronics-engineering?source=category_tree)
     * [Support & IT](https://www.fiverr.com/categories/programming-tech/support-it-services?source=category_tree)
+    * [Discord Server Setup](https://www.fiverr.com/categories/online-marketing/buy/community-management/plan-and-strategy/discord?source=category_tree)
     * [Convert Files](https://www.fiverr.com/categories/programming-tech/file-conversion-services?source=category_tree)
     
 * Digital Marketing
@@ -1292,7 +1292,7 @@ Browse categories
     
     * [Gaming](https://www.fiverr.com/categories/lifestyle/gaming?source=category_tree)
     * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree)
-    * [eSports Management & StrategyNew](https://www.fiverr.com/categories/lifestyle/gaming/esports-management-strategy?source=category_tree)
+    * [eSports Management & Strategy](https://www.fiverr.com/categories/lifestyle/gaming/esports-management-strategy?source=category_tree)
     * [Game MatchmakingNew](https://www.fiverr.com/categories/lifestyle/recreational-gaming/game-matchmaking?source=category_tree)
     * [Ingame Creation](https://www.fiverr.com/categories/lifestyle/ingame-creation?source=category_tree)
     * [Gameplay Experience & FeedbackNew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
