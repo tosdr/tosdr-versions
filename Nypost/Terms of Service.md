@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[FEMA official who allegedly told workers to avoid Florida homes with Trump signs fired: report](https://nypost.com/2024/11/09/us-news/fema-official-who-allegedly-told-workers-to-avoid-florida-homes-with-trump-signs-fired-report/)
+['SNL’ cast cheekily praises Trump in first post-election cold open: ‘We have been with you all along’](https://nypost.com/2024/11/10/entertainment/snl-cast-cheekily-praises-trump-in-first-post-election-cold-open/)
 
 Terms Of Use
 ============
