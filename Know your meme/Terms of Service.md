@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!['Getting Your Teacher On A Tangent' Trend Celebrates Wasting Class Time](https://i.kym-cdn.com/featured_items/icons/wide/000/026/587/1.jpg "'Getting Your Teacher On A Tangent' Trend Celebrates Wasting Class Time")
+* [![Joe Rogan's Dog Is a Good Meme Boy](https://i.kym-cdn.com/featured_items/icons/wide/000/026/603/Screen_Shot_2019-04-08_at_2.52.33_PM.png "Six Years Ago, The First 'Dog vs. Werewolf' Meme Was Posted Online")
     
-    'Getting Your Teacher On A Tangent' Trend Celebrates Wasting Class Time](https://knowyourmeme.com/memes/getting-your-teacher-on-a-tangent)
+    Six Years Ago, The First 'Dog vs. Werewolf' Meme Was Posted Online](https://knowyourmeme.com/memes/dog-vs-werewolf)
     
-* [![Bro Got A Know Your Meme Entry](https://i.kym-cdn.com/featured_items/icons/wide/000/026/586/cover11.jpg "Bro Got A Know Your Meme Entry")
+* [![It's Been Eight Years Since This Nasty Raccoon Got Its Start on Reddit](https://i.kym-cdn.com/featured_items/icons/wide/000/026/602/Screen_Shot_2019-02-26_at_3.38.50_PM.png "The 'Evil Plotting Raccoon' Meme Is 16 Years Old Today")
     
-    Bro Got A Know Your Meme Entry](https://knowyourmeme.com/memes/bro-the-cat)
+    The 'Evil Plotting Raccoon' Meme Is 16 Years Old Today](https://knowyourmeme.com/memes/evil-plotting-raccoon)
     
-* [![That One Edit of Trump In Style Of Ken Carson's 'A Great Chaos' Gets A Boost Following The Election](https://i.kym-cdn.com/featured_items/icons/wide/000/026/585/cover9.jpg "That One Edit of Trump In Style Of Ken Carson's 'A Great Chaos' Gets A Boost Following The Election")
+* [![YOR RESPONDS TO CALTRANS ADMIT THERE ARE NO PLANS TO WIDEN 1-15 NEAR STATELIN](https://i.kym-cdn.com/featured_items/icons/wide/000/026/601/New_Project_ghoofy.jpg "Happy Anniversary To 'One More Lane, Bro'")
     
-    That One Edit of Trump In Style Of Ken Carson's 'A Great Chaos' Gets A Boost Following The Election](https://knowyourmeme.com/memes/a-great-chaos-trump-album-cover-edits)
+    Happy Anniversary To 'One More Lane, Bro'](https://knowyourmeme.com/memes/one-more-lane-bro-one-more-lane-will-fix-it)
     
-* [![Badussy War TikTok Memes](https://i.kym-cdn.com/featured_items/icons/wide/000/026/584/badussywar.jpg "Today Marks Three Years Since The 'Badussy War' Started But Some Would Argue That The Conflict's Ongoing")
+* [![The Many Memes Of Sabrina Carpenter](https://i.kym-cdn.com/featured_items/icons/wide/000/026/600/1730161179958.png "The Many Memes Of Sabrina Carpenter")
     
-    Today Marks Three Years Since The 'Badussy War' Started But Some Would Argue That The Conflict's Ongoing](https://knowyourmeme.com/memes/badussy-war)
+    The Many Memes Of Sabrina Carpenter](https://knowyourmeme.com/memes/people/sabrina-carpenter)
     
-* [![Old <i>Eric Andre</i> Sketch Shoots Way Into Memedom](https://i.kym-cdn.com/featured_items/icons/wide/000/026/583/fff.jpg "11 Years Ago, We Began Trying To Figure Out Who Killed Hannibal")
+* [![Australian YouTuber Norme Tests His Sanity In A Month-Long Solitary Confinement Livestream](https://i.kym-cdn.com/featured_items/icons/wide/000/026/599/Norme_solitary_cover.jpg "Australian YouTuber Norme Tests His Sanity In A Month-Long Solitary Confinement Livestream")
     
-    11 Years Ago, We Began Trying To Figure Out Who Killed Hannibal](https://knowyourmeme.com/memes/who-killed-hannibal)
+    Australian YouTuber Norme Tests His Sanity In A Month-Long Solitary Confinement Livestream](https://knowyourmeme.com/memes/events/normes-solitary-confinement-livestream)
     
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice") [Humongous Sword Guy](https://knowyourmeme.com/memes/humongous-sword-guy "Humongous Sword Guy")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
