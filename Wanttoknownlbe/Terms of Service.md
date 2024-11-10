@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/moet-oorzaak-oversterfte-niet-eerst-boven-water/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/wef-schwab/het-landverraad-van-rutte-wef-rules/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -193,6 +193,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
+
+##### **GuidoJ.** reacts on:
+
+##### Vanuit ’n hoger perspectief op Aarde; met Berry Vincenta..
+
+[Tot je dienst Jenny!…](https://www.wanttoknow.nl/inspiratie/vanuit-n-hoger-perspectief-op-aarde-met-berry-vincenta/comment-page-1/#comment-626366)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -441,14 +449,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### De sluiers worden opgelicht..!
 
 [Nou Harriët, wat Trump betreft mag onderhand toch wel duidel…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626334)
-
-![cvhvk](https://secure.gravatar.com/avatar/5a94b6722c7850b67340d4c209a777a3?s=50&d=identicon&r=g)
-
-##### **cvhvk** reacts on:
-
-##### De sluiers worden opgelicht..!
-
-[Fantastisch geschreven stuk Harriet !…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626333)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
