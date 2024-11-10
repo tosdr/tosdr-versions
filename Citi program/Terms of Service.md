@@ -12,13 +12,7 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
 * [About](https://about.citiprogram.org/get-to-know-citi-program/)
 * [Job Board](https://about.citiprogram.org/employment-center/)
 
-[![CITI Program Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2078'%3E%3C/svg%3E)
-
-![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)
-
-![CITI Program Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2078'%3E%3C/svg%3E)
-
-![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)](https://about.citiprogram.org/)
+ [![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)](https://about.citiprogram.org/)
 
 [](#none)
 
@@ -42,9 +36,7 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
     * [FAQs](https://about.citiprogram.org/faqs/)
     * [Contact](https://about.citiprogram.org/sales-help/)
 
-[![search](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-
-![search](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/icons/search.svg)](#none)
+[![search](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/icons/search.svg)](#none)
 
 [My Courses](https://www.citiprogram.org/members/index.cfm?pageID=50) [My Cart](https://www.citiprogram.org/members/index.cfm?pageID=802)
 
@@ -62,11 +54,7 @@ Terms of Service
 
 Last updated: 15 December 2022
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20198'%3E%3C/svg%3E)
-
-![](https://about.citiprogram.org/wp-content/uploads/2016/11/research-building-e1480950268432.png)
-
-The Collaborative Institutional Training Initiative (CITI Program) provides educational materials to affiliates of its organizational subscribers, and to its individual subscribers, using websites and other forms of information exchange. The CITI Program is a division of Biomedical Research Alliance of New York (“BRANY”), a limited liability corporation based in Lake Success, NY, United States of America.
+![](https://about.citiprogram.org/wp-content/uploads/2016/11/research-building-e1480950268432.png)The Collaborative Institutional Training Initiative (CITI Program) provides educational materials to affiliates of its organizational subscribers, and to its individual subscribers, using websites and other forms of information exchange. The CITI Program is a division of Biomedical Research Alliance of New York (“BRANY”), a limited liability corporation based in Lake Success, NY, United States of America.
 
 ACCESS TO AND USE OF CITI PROGRAM WEBSITES AND THEIR CONTENTS, AND TO OTHER CITI PROGRAM MATERIALS, ARE SUBJECT TO THESE TERMS AND CONDITIONS, AS WELL AS TO OUR [PRIVACY AND COOKIE POLICY](https://about.citiprogram.org/privacy-policy/) AND [COPYRIGHT](https://about.citiprogram.org/copyright/). PLEASE READ THEM CAREFULLY.
 
@@ -241,9 +229,7 @@ Fort Lauderdale, FL 33301
 * [Statement of Security Practices](https://about.citiprogram.org/security-statement/)
 * [Anti-Discrimination Policy](https://about.citiprogram.org/terms-of-service-anti-discrimination-policy/)
 
-[![CITI Program Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2078'%3E%3C/svg%3E)
-
-![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/citi-program-logo.svg)](https://about.citiprogram.org/)
+[![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/citi-program-logo.svg)](https://about.citiprogram.org/)
 
 * [](https://www.linkedin.com/company/citiprogram)
 * [](https://www.facebook.com/citiprograminfo)
@@ -304,12 +290,4 @@ Fort Lauderdale, FL 33301
 * 888.529.5929 / 9:00 a.m. to 7:00 p.m. / U.S. Eastern Time / Monday – Friday
     
 
-[![Brany Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2036'%3E%3C/svg%3E)
-
-![Brany Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/brany-footer-logo.png)](https://www.brany.com/)[![Protocol Builder Pro Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2033'%3E%3C/svg%3E)
-
-![Protocol Builder Pro Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/protocol-builder-footer-logo.jpg)](https://protocolbuilderpro.com/)[![HRP Consulting Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2047'%3E%3C/svg%3E)
-
-![HRP Consulting Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/hrp-footer-logo.png)](https://thehrpconsultinggroup.com/)[![Master Tech Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%2090'%3E%3C/svg%3E)
-
-![Master Tech Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/master-tech.png)](https://www.techsoftware.com/)
+ [![Brany Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/brany-footer-logo.png)](https://www.brany.com/)[![Protocol Builder Pro Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/protocol-builder-footer-logo.jpg)](https://protocolbuilderpro.com/)[![HRP Consulting Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/hrp-footer-logo.png)](https://thehrpconsultinggroup.com/)[![Master Tech Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/master-tech.png)](https://www.techsoftware.com/)
