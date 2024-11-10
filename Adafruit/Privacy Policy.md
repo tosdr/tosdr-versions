@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Collaborative production is simple: no one person can take credit for what gets created, and the project could not come into being without the participation of many”
+“ If I have seen further it is by standing on the shoulders of giants”
 
-[Clay Shirky](http://en.wikipedia.org/wiki/Clay_Shirky)
+[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
 
 [](https://www.adafruit.com/about)
 
