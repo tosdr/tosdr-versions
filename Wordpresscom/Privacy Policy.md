@@ -443,7 +443,7 @@ That’s it! Thanks for reading.
         
     
 * *  [![](https://s2.wp.com/i/logo/wpcom-gray-white.png) Automattic](https://automattic.com/)
-    * [Customize](https://automattic.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fautomattic.wordpress.com%2Fprivacy%2F)
+    * [Customize](https://automattic.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fautomattic.wordpress.com%2Fprivacy%2F%3Futm_medium%3Dautomattic_referred%26utm_source%3Dwccom_footer)
     * Subscribe Subscribed
     * [Sign up](https://wordpress.com/start/)
     * [Log in](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fautomattic.com%252Fprivacy%252F)
