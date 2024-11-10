@@ -164,7 +164,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [gorhill](https://github.com/gorhill) / **[uBlock](https://github.com/gorhill/uBlock)** Public
 
 * [Notifications](https://github.com/login?return_to=%2Fgorhill%2FuBlock) You must be signed in to change notification settings
-* [Fork 3.1k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
+* [Fork 3.2k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
 * [Star 47.4k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
     
 
