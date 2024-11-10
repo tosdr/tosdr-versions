@@ -266,6 +266,20 @@ Most Popular
 [IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Rory Kavanagh takes up manager's role at Watty Graham's Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
 
 Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
@@ -274,13 +288,6 @@ Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
 
 [Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas")](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
 
@@ -307,30 +314,12 @@ The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathle
 [Call out for Christmas themed youth social event in Derry's Guildhall](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mayor receives special visitor to finalise Christmas plans for Derry and Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor receives special visitor to finalise Christmas plans for Derry and Strabane")](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
+[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
 
-Mayor Lilian Seenoi-Barr, at her meeting with Santa Claus to discuss the Council area’s plans for Christmas, included are Santa’s little helpers Cría Cole, Ennan Shiels and Oisin Heffernan.
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Mayor welcomes special visitor to Derry's Guildhall](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final")](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
-
-The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by ROSSNA MILLIE in 29.26. Pictured with (from left) Stuart Harpur with Sienna, Kirsty Harpur (centre) with Ava & Alyssah.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
