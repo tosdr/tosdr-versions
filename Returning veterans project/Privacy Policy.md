@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![The US Navy](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Tim Calvert](https://cdn.returningveterans.org/images/honor/Tim_Calvert.jpg)  
 
-**In Honor of The US Navy**  
-United States Navy  
-Submitted by Kyle Foreman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Tim Calvert**  
+United States Marine Corps  
+Submitted by Cynthia Calvert](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/10/24 - 7:33:16  
+Printed 11/10/24 - 1:22:17  
 © 2024 Returning Veterans Project
