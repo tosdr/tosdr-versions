@@ -23,7 +23,7 @@ Site notice
 * [Site notice](https://www.kimai.org/en/site-notice.html)
 * [Privacy policy](https://www.kimai.org/en/privacy-policy.html)
 * [Terms](https://www.kimai.org/en/terms-cloud.html)
-* [Plugins](https://www.kimai.org/en/terms-plugins.html)
+* [Plugin license](https://www.kimai.org/en/terms-plugins.html)
 * [Data Processing](https://www.kimai.org/en/terms-gdpr.html)
 * [Trademark](https://www.kimai.org/en/trademark-policy.html)
 
