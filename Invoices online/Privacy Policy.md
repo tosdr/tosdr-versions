@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=42560653)  
-webb it services
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=208792146)  
+Bchange Online CC
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=185359777)  
-AFS Electrical
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=183018213)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=115212671)  
-UMVIKELI PRIVATE SECURITY
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=103287569)  
+Kara Medical (Pty) Ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=136994892)  
-IYD
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=103082385)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=134617251)  
-Westside Car Audio CC
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=39413330)  
+Well Hung Art
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=120431835)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=128745850)  
+Fox Alarms & Security CC
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=5340223)  
-Lily Fern & Co
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=179778949)  
+Vplay Grafix
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=34537840)  
-Dombieterfontein (PTY) LTD
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=22428075)  
+Little Nutty Professors
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=67104427)  
-Lizzy Pop PTY(Ltd)
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=25254370)  
+Redlum Group (Pty) Ltd
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=184377874)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=173598712)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=68403776)  
-Wiselink Broadband Pty Ltd
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=65484472)  
+APTV Telecoms CC
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=124654918)  
-Immediate Health (pty)ltd
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=71722753)  
+Tracknetics
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=10608738)  
-Import Maaw
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=59369327)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=46912213)  
-NIMAWELL
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=28735347)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=59c72c057dc6234daf952bd3e4025169998a852f7546ff300003b64ca3f189c0&c=34769768)  
-Sonic Electrical Services PTY Ltd
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=efdf7a05e3fca76d2744ca5a4418768fff92cfb6360f690db8fd9fe720a0d09e&c=197609173)  
+Moving Made Easy (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
