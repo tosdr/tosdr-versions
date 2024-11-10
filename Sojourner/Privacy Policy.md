@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1eca79fd73479c65aa3013f3e646376c
+0d2a3db561122b20f57f1cf027dbb6a3
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Turquoise clasp](https://www.sojourner.biz/images/cache/SKU0002-2front.200.jpg)](https://www.sojourner.biz/clasps/semi-precious/turquoise-clasp.html "Turquoise clasp")
+[![4 mm clear round beads with primary color accents](https://www.sojourner.biz/images/cache/glass/GL0181.200.jpg)](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
 
-#### [Turquoise clasp](https://www.sojourner.biz/clasps/semi-precious/turquoise-clasp.html "Turquoise clasp")
+#### [4 mm clear round beads with primary color accents](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
 
-$41.00
+$7.00
 
 ### Best Sellers
 
