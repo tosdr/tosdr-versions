@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2011-12 Ballot Measures](/assets/Images/teasers/small/SameSexMarriage.png)](http://www.followthemoney.org/research/institute-reports/2011-2012-ballot-measure-overview/)
-
-2011-12 same-sex marriage ballots in 5 states.
+[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Average-Leg-by-WinLose.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
