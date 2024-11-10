@@ -118,16 +118,16 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
-    
-    Prisoners of Katrina
-    
-    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
+    
+    Prisoners of Katrina
+    
+    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![On The Road With, Scientists at CERN](/wp-content/thumbnails/6281-100x70.jpg?x53432)
+* [![Supernatural Science: Previous Lives](/wp-content/thumbnails/1308-100x70.jpg?x53432)
     
-    On The Road With, Scientists at CERN
+    Supernatural Science: Previous Lives
     
-    Matthew Stadlen spends the day at CERN, the European Organization for Nuclear Research near Geneva, with accelerator physicist Steve Myers.CERN is one of the world’s largest and most respected cen](https://documentaryheaven.com/on-the-road-with-scientists-at-cern/ "On The Road With, Scientists at CERN")
-* [![Operation InfeKtion: How Russia Perfected the Art of War](/wp-content/thumbnails/14400-100x70.jpg?x53432)
+    Millions believe in reincarnation. Is there proof that is really happens? Do people pass through many lifetimes and can they bring back memories from having lived before? Therapies now encouraging peo](https://documentaryheaven.com/supernatural-science-previous-lives/ "Supernatural Science: Previous Lives")
+* [![Hitman Hart: Wrestling with Shadows](/wp-content/thumbnails/3365-100x70.jpg?x53432)
     
-    Operation InfeKtion: How Russia Perfected the Art of War
+    Hitman Hart: Wrestling with Shadows
     
-    The thing about a virus is that it doesn't destroy you head on but rather brings you down from the inside, turning your own cells against you. This story is about a virus, a virus created five decades](https://documentaryheaven.com/operation-infektion-how-russia-perfected-art-of-war/ "Operation InfeKtion: How Russia Perfected the Art of War")
-* [![Football’s Most Dangerous Rivalry](/wp-content/thumbnails/6685-100x70.jpg?x53432)
+    Hitman Hart: Wrestling with shadows is a documentary about the legendary WWF and WWE wrestler, Bret ‘The Hitman’ Hart. This is about a man making it to the top and the human cost: his father’s legacy](https://documentaryheaven.com/wrestling-with-shadows/ "Hitman Hart: Wrestling with Shadows")
+* [![EP2/4 Wonders of the Universe](/wp-content/thumbnails/5690-100x70.jpg?x53432)
     
-    Football’s Most Dangerous Rivalry
+    EP2/4 Wonders of the Universe
     
-    The rivalry between football clubs Rangers and Celtic goes past typical name calling and dives into violence, racial slurs and pure hatred.The rivalry between Glasgow's "Old Firm" sides is the mos](https://documentaryheaven.com/footballs-most-dangerous-rivalry/ "Football’s Most Dangerous Rivalry")
-* [![Snowball Earth](/wp-content/thumbnails/12516-100x70.jpg?x53432)
+    Stardust In the second stop in his exploration of the wonders of the universe, Professor Brian Cox goes in search of humanity’s very essence to answer the biggest questions of all: what are we? And wh](https://documentaryheaven.com/wonders-of-the-universe-2/ "EP2/4 Wonders of the Universe")
+* [![Preview: Petenera – a Flamenco Drama in Music and Dance](/wp-content/thumbnails/2863-100x70.jpg?x53432)
     
-    Snowball Earth
+    Preview: Petenera – a Flamenco Drama in Music and Dance
     
-    There is a theory that was once considered to be quite controversial, so much so that scientists labeled it absurd. It claimed that for millions of years the our planet Earth was covered entirely](https://documentaryheaven.com/snowball-earth/ "Snowball Earth")
-* [![War and Globalization: The Truth Behind 9/11](/wp-content/thumbnails/1364-100x70.jpg?x53432)
+    (For Preview Only) In this unique 2-hrs DVD, Petenera – a Flamenco Drama in Music and Dance recreates the legendary femme fatale that has haunted flamenco lore for centuries. It portrays her lonelines](https://documentaryheaven.com/preview-petenera-%e2%80%93-a-flamenco-drama-in-music-and-dance/ "Preview: Petenera – a Flamenco Drama in Music and Dance")
+* [![Winged Seduction: Birds Of Paradise](/wp-content/thumbnails/8617-100x70.jpg?x53432)
     
-    War and Globalization: The Truth Behind 9/11
+    Winged Seduction: Birds Of Paradise
     
-    In this lecture by Michel Chossudovsky, he blows away the smokescreen put up by the mainstream media, that 9/11 was an attack on America by “Islamic terrorists”. Through meticulous research, he has un](https://documentaryheaven.com/war-globalization-truth-behind-911/ "War and Globalization: The Truth Behind 9/11")
+    Tim Laman a photographer for National Geographic and ornithologist Ed Scholes have been traveling to some of the most remote jungles the world has to offer in search of observing and photographing all](https://documentaryheaven.com/winged-seduction-birds-of-paradise/ "Winged Seduction: Birds Of Paradise")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
