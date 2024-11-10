@@ -92,13 +92,7 @@ Search site
 
 [River Flood Warning
 
-from SAT 12:00 PM CST until SUN 9:00 AM CST, Comanche County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[River Flood Warning
-
-until SUN 7:30 AM CST, Jack County](https://www.fox4news.com/weather-alerts)
+until SUN 8:20 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -411,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![FEMA official removed from role for directing hurricane relief away from Trump supporters' homes](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/gettyimages-2176966215-scaled.jpg?ve=1&tl=1)
+ [![Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-102201890-a.jpg?ve=1&tl=1)
 
- ![FEMA official removed from role for directing hurricane relief away from Trump supporters' homes](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2176966215-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fema-official-removed-from-role-directing-hurricane-relief-away-from-trump-supporters-homes)
+ ![Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-102201890-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/nascar-bobby-allison-dies)
 
-### [FEMA official removed from role for directing hurricane relief away from Trump supporters' homes](https://www.fox4news.com/news/fema-official-removed-from-role-directing-hurricane-relief-away-from-trump-supporters-homes)
+### [Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://www.fox4news.com/sports/nascar-bobby-allison-dies)
 
- [![Mega Millions ticket purchased in Fort Worth wins $3 million prize](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/Mega-Millions-1.jpg?ve=1&tl=1)
+ [![Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2182723380.jpg?ve=1&tl=1)
 
- ![Mega Millions ticket purchased in Fort Worth wins $3 million prize](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/Mega-Millions-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-drawing-november-9-winning-numbers-fort-worth)
+ ![Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182723380.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dak-prescott-hamstring-surgery)
 
-### [Mega Millions ticket purchased in Fort Worth wins $3 million prize](https://www.fox4news.com/news/mega-millions-drawing-november-9-winning-numbers-fort-worth)
+### [Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://www.fox4news.com/sports/dak-prescott-hamstring-surgery)
 
- [![Dallas shooting: 1 killed in Oak Cliff](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
+ [![American nurse, 31, killed while vacationing in Budapest](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/budapest-fts-mz2.jpg?ve=1&tl=1)
 
- ![Dallas shooting: 1 killed in Oak Cliff](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-1-killed-oak-cliff)
+ ![American nurse, 31, killed while vacationing in Budapest](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/budapest-fts-mz2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mackenzie-michalsk-hungary-vacation-american-killed-budapest)
 
-### [1 killed in Oak Cliff shooting](https://www.fox4news.com/news/dallas-shooting-1-killed-oak-cliff)
+### [American nurse, 31, killed while vacationing in Budapest](https://www.fox4news.com/news/mackenzie-michalsk-hungary-vacation-american-killed-budapest)
 
- [![James Van Der Beek mistook cancer symptoms for problems with his diet](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/vanderbeek-fox-getty1.jpg?ve=1&tl=1)
+ [![See it: Butter the lucky horse beats the odds in dramatic 60-foot well rescue](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/horse1.jpg?ve=1&tl=1)
 
- ![James Van Der Beek mistook cancer symptoms for problems with his diet](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/vanderbeek-fox-getty1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/james-van-der-beek-colon-cancer-symptons)
+ ![See it: Butter the lucky horse beats the odds in dramatic 60-foot well rescue](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/horse1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/butter-lucky-horse-beats-odds-dramatic-60-foot-well-rescue)
 
-### [James Van Der Beek mistook cancer symptoms for problems with his diet](https://www.fox4news.com/news/james-van-der-beek-colon-cancer-symptons)
+### [See it: Butter the lucky horse beats the odds in dramatic 60-foot well rescue](https://www.fox4news.com/news/butter-lucky-horse-beats-odds-dramatic-60-foot-well-rescue)
 
- [![Tony Todd, ‘Candyman’ and ‘Final Destination’ star, dead at 69](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/todd-getty-fnc1.jpg?ve=1&tl=1)
+ [![Watch: Police release bodycam footage of officer tackling 70-year-old man](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/oklapolice.jpg?ve=1&tl=1)
 
- ![Tony Todd, ‘Candyman’ and ‘Final Destination’ star, dead at 69](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/todd-getty-fnc1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tony-todd-candyman-final-destination-star-dead-69)
+ ![Watch: Police release bodycam footage of officer tackling 70-year-old man](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/oklapolice.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-police-tackle-elderly-man)
 
-### [Tony Todd, ‘Candyman’ and ‘Final Destination’ star, dead at 69](https://www.fox4news.com/news/tony-todd-candyman-final-destination-star-dead-69)
+### [Watch: Police release bodycam footage of officer tackling 70-year-old man](https://www.fox4news.com/news/oklahoma-police-tackle-elderly-man)
 
 ###### [News](https://www.fox4news.com/news)
 
