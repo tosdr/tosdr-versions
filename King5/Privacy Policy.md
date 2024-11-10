@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-llamada-entre-trump-y-sheinbaum/281-7c722dbe-e0ed-4910-9bdf-5632e457ca6b)
         
-        #### [3 people sleeping near Everett road killed after driver loses control, police say](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
+        #### [Cinco Cosas: Llamada entre Trump y Sheinbaum, casos de tosferina y donación de juguetes](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-llamada-entre-trump-y-sheinbaum/281-7c722dbe-e0ed-4910-9bdf-5632e457ca6b)
         
     *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/29658c3a-deb1-44d1-9ef5-9218370c0609/20241110T042702/29658c3a-deb1-44d1-9ef5-9218370c0609_16x9.jpg) ![](https://media.king5.com/assets/KING/images/29658c3a-deb1-44d1-9ef5-9218370c0609/20241110T042702/29658c3a-deb1-44d1-9ef5-9218370c0609_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/49a539bf-13ca-400e-99c9-7231bd2a3b3e/20241110T160239/49a539bf-13ca-400e-99c9-7231bd2a3b3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/49a539bf-13ca-400e-99c9-7231bd2a3b3e/20241110T160239/49a539bf-13ca-400e-99c9-7231bd2a3b3e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+55°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
