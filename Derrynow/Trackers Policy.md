@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final")](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -273,46 +266,32 @@ Most Popular
 [Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
 
-[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![Rory Kavanagh takes up manager's role at Watty Graham's Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
+[Heartbreak for Derry City in FAI Cup Final](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
 
-[Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas")](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
+[Ruaidhri Higgins: 'Do I still have the drive and hunger to keep going? My intentions now are to keep going.'](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas
+[![Derry City behind at the break in FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City behind at the break in FAI Cup final")](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
 
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
+Andrew Quinn puts Drogheda United in the lead. PHOTO: Thomas Flinkow/Sportsfile
 
-[Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Sport](https://www.derrynow.com/section/976/sport)
 
-[![Simon Harris to skip Enniskillen visit on advice from Government officials](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris to skip Enniskillen visit on advice from Government officials")](https://www.derrynow.com/news/northern-ireland/1651663/simon-harris-to-skip-enniskillen-visit-on-advice-from-government-officials.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Simon Harris to skip Enniskillen visit on advice from Government officials](https://www.derrynow.com/news/northern-ireland/1651663/simon-harris-to-skip-enniskillen-visit-on-advice-from-government-officials.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Call out for Christmas themed youth social event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call out for Christmas themed youth social event in Derry's Guildhall")](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
-
-The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathleen at Friday's 'Our Guildhall, Our Space' event. Centre at back is entertainer Mickey Doherty.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Call out for Christmas themed youth social event in Derry's Guildhall](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry City behind at the break in FAI Cup final](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
 
@@ -320,6 +299,36 @@ The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathle
 
 [O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Thousands attend Derry ‘Rally For Women’s Safety’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Thousands attend Derry ‘Rally For Women’s Safety’")](https://www.derrynow.com/news/local-news/1652188/thousands-attend-derry-rally-for-womens-safety.html)
+
+Guildhall Square lit up on Friday at a rally opposing violence against women.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Thousands attend Derry ‘Rally For Women’s Safety’](https://www.derrynow.com/news/local-news/1652188/thousands-attend-derry-rally-for-womens-safety.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: The Suite Life](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Suite Life")](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: The Suite Life](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
+------------------------------------------------------------------------------------------------------------------
+
+[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -497,57 +506,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Call out for Christmas themed youth social event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call out for Christmas themed youth social event in Derry's Guildhall")](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
-
-The Mayor Lillian Seenoi-Barr pictured with Seanain McCallion and her mum Kathleen at Friday's 'Our Guildhall, Our Space' event. Centre at back is entertainer Mickey Doherty.
+[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Call out for Christmas themed youth social event in Derry's Guildhall](https://www.derrynow.com/news/local-news/1651170/call-out-forchristmas-themed-youth-social-event-in-derry-s-guildhall.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/resizer/165/93/true/2024_11_09/2611484_Cropped-1731160167196.jpg--.jpg?1731160167660 "Rory Kavanagh takes up manager's role at Watty Graham's Glen")](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
 
-Rory Kavanagh last month helped St Eunan's to the Senior C title in Donega
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Rory Kavanagh takes up manager's role at Watty Graham's Glen](https://www.derrynow.com/news/gaa/1651735/rory-kavanagh-takes-up-manager-s-role-at-watty-graham-s-glen.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_07/MixCollage-07-Nov-2024-04-05-PM-4859-1730995498980.jpg--.jpg?1730995499047 "The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas")](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
-
-The Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Ulster Orchestra set to perform two festive musical celebrations in Derry before Christmas](https://www.derrynow.com/news/what-s-on/1650179/ulster-orchestra-set-to-perform-two-festive-musical-celebrations-in-derry-before-christmas.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mayor receives special visitor to finalise Christmas plans for Derry and Strabane](https://www.derrynow.com/resizer/165/93/true/2024_11_06/Christmas_2024_launch_3-1730891497039.jpg--.jpg?1730891498928 "Mayor receives special visitor to finalise Christmas plans for Derry and Strabane")](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
-
-Mayor Lilian Seenoi-Barr, at her meeting with Santa Claus to discuss the Council area’s plans for Christmas, included are Santa’s little helpers Cría Cole, Ennan Shiels and Oisin Heffernan.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Mayor welcomes special visitor to Derry's Guildhall](https://www.derrynow.com/news/local-news/1648766/mayor-welcomes-special-visitor-to-derry-s-guildhall.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/resizer/165/93/true/2024_11_07/IDNT_7-11-24_Greyhounds_5_30074567-1730989488167.jpg--.jpg?1730989494825 "Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final")](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
-
-The Len Mc Kinney & Track Lotto Brandywell 525 Derby 1st Semi-Final was won by ROSSNA MILLIE in 29.26. Pictured with (from left) Stuart Harpur with Sienna, Kirsty Harpur (centre) with Ava & Alyssah.
+Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry Greyhounds: La Calabaza squashes her rivals’ challenges in Derby Semi-Final](https://www.derrynow.com/news/derry-sport/1650040/derry-greyhounds-la-calabaza-squashes-her-rivals-challenges-in-derby-semi-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ruaidhri Higgins: 'Do I still have the drive and hunger to keep going? My intentions now are to keep going.'](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_10/IDNM_11-11-24_Back_Page_2-1731260231322.jpg--.jpg?1731260233446 "Derry City")](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
+
+Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Heartbreak for Derry City in FAI Cup Final](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: The Suite Life](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Snapinsta.app_461502839_1819614105478829_6811083524925265705_n_1080-1731080890375_1731080906.jpg--.jpg?1731080906565 "MacD on Music: The Suite Life")](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: The Suite Life](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
+------------------------------------------------------------------------------------------------------------------
+
+[![Derry City behind at the break in FAI Cup final](https://www.derrynow.com/resizer/165/93/true/2024_11_10/2982232-1731255133094.jpg--.jpg?1731255134022 "Derry City behind at the break in FAI Cup final")](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
+
+Andrew Quinn puts Drogheda United in the lead. PHOTO: Thomas Flinkow/Sportsfile
+
+[Sport](https://www.derrynow.com/section/976/sport)
+
+[Derry City behind at the break in FAI Cup final](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_10/1731242101958_0.jpg--.jpg?1731242102067 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
