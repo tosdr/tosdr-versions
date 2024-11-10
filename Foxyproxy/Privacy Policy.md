@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-No problems at all. Happy and will use it again if need be.
+I appreciate the responsive customer service and will plan to re-subscribe.
 
-Jeff Attaway
+Anita Bathija
