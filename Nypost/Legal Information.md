@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[FEMA official who allegedly told workers to avoid Florida homes with Trump signs fired: report](https://nypost.com/2024/11/09/us-news/fema-official-who-allegedly-told-workers-to-avoid-florida-homes-with-trump-signs-fired-report/)
+[One dead, several injured in shooting at university's homecoming celebration](https://nypost.com/2024/11/10/us-news/tuskegee-university-shooting-leaves-one-dead-several-injured-at-alabama-school/)
 
 Privacy Notice Highlights
 =========================
