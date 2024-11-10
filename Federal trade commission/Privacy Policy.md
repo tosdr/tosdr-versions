@@ -221,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Tentative Agenda for November 14 Open Commission Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-announces-tentative-agenda-november-14-open-commission-meeting)
+    ### [FTC Sends More Than $536,000 in Refunds to Consumers Deceived by Misleading Ads for Sobrenix “Anti-Alcohol Craving” Supplement](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-536000-refunds-consumers-deceived-misleading-ads-sobrenix-anti-alcohol-craving)
     
     November 7, 2024
     
