@@ -116,7 +116,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“Before, it felt like torture to be in my own skin. I beat myself up for everything and guilt ruled my whole life. When I started therapy, I couldn’t cope with life at all. After working with Dave, I’m not beating myself up compulsively and I feel hopeful about the future for the first time in a long time.”_
+_“Before therapy I thought I could change people with my love, affection, loyalty, etc. Not only did I think I \*could\* but I think I thought that it was somehow also my duty to do so. Then I learned about codependency and how it was not my responsibility to change people nor is it possible. I learned that people are who they are and, other than a respectful request, it's best to take people at face value and use boundaries. As a result, I no longer make as much space for people in my life who drain me and do not fill my cup.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
