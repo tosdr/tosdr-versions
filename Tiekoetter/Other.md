@@ -2,11 +2,11 @@ To add your instance below please open an issue on [the documentation repository
 
 | [name](https://invidious.tiekoetter.com/?sort_by=name) | [version](https://invidious.tiekoetter.com/?sort_by=version) | [type](https://invidious.tiekoetter.com/?sort_by=type) | [users](https://invidious.tiekoetter.com/?sort_by=users) | [signup](https://invidious.tiekoetter.com/?sort_by=signup) | [location](https://invidious.tiekoetter.com/?sort_by=location) | [healthUptime / Downtime displayed in percentage](https://invidious.tiekoetter.com/?sort_by=health) | [cors](https://invidious.tiekoetter.com/?sort_by=cors) | [api](https://invidious.tiekoetter.com/?sort_by=api) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.11.08-ee6d2b5 | https | 8498 | ✔   | 🇨🇱 CL | [99.397](https://updown.io/sesu) | ❌   | ✔   |
-| [invidious.jing.rocks](https://invidious.jing.rocks/) | 2024.11.01-4d49e387 | https | 6700 | ✔   | 🇯🇵 JP | [99.861](https://updown.io/cfds) | ✔   | ✔   |
-| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | 2024.10.28-cec3cfba | https | 3506 | ✔   | 🇺🇦 UA | [100.0](https://updown.io/oo85) | ✔   | ✔   |
-| [yewtu.be](https://yewtu.be/) | 2024.11.09-34cc6db | https | 1   | ❌   | 🇩🇪 DE | [99.978](https://updown.io/0h16) | ❌   | ❌   |
-| [yt.drgnz.club](https://yt.drgnz.club/) | \-  | https | \-  | \-  | 🇨🇿 CZ | [32.673](https://updown.io/gqfo) | \-  | \-  |
+| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.11.10-036ab6e | https | 8512 | ✔   | 🇨🇱 CL | [99.521](https://updown.io/sesu) | ❌   | ✔   |
+| [invidious.jing.rocks](https://invidious.jing.rocks/) | 2024.11.01-4d49e387 | https | 6714 | ✔   | 🇯🇵 JP | [99.861](https://updown.io/cfds) | ✔   | ✔   |
+| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | 2024.10.28-cec3cfba | https | 3515 | ✔   | 🇺🇦 UA | [100.0](https://updown.io/oo85) | ❌   | ❌   |
+| [yewtu.be](https://yewtu.be/) | 2024.11.10-e562c3f | https | 1   | ❌   | 🇩🇪 DE | [99.978](https://updown.io/0h16) | ❌   | ❌   |
+| [yt.drgnz.club](https://yt.drgnz.club/) | \-  | https | \-  | \-  | 🇨🇿 CZ | [32.629](https://updown.io/gqfo) | \-  | \-  |
 | [zzlsbhhfvwg3...q.b32.i2p](http://zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p/) | \-  | i2p | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 | [inv.nadekonw...vyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion/) | \-  | onion | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 
