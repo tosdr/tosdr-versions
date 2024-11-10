@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Animal Anomalies](https://www.somethingawful.com/photoshop-phriday/animal-anomalies/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [PYF Drawing of Shrek from memory](https://www.somethingawful.com/comedy-goldmine/shrek-memory/)
-* [Lesser-Known Sleeping Positions!](https://www.somethingawful.com/photoshop-phriday/sleeping-positions-everybody/1/)
-* [The Pedo Files](https://www.somethingawful.com/weekend-web/the-pedo-files/1/)
+* [Actually, It is Buckley Carlson Who is the LabiaFace](https://www.somethingawful.com/news/buckley-carlson-spitalnick/)
+* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
+* [Alternative Movie Endings](https://www.somethingawful.com/comedy-goldmine/alternative-movie-endings/1/)
+* [DEAR FURRIES: WE WERE WRONG](https://www.somethingawful.com/news/bolgy-wolgy/)
+* [Monsters on Holiday!](https://www.somethingawful.com/photoshop-phriday/monsters-villains-vacation/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Friendly's is probably one of the best major brands of ice cream](http://forums.somethingawful.com/showthread.php?threadid=4074912 "Friendly's is probably one of the best major brands of ice cream")
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE](http://forums.somethingawful.com/showthread.php?threadid=4074914 "Mods and mod-lovers DO enter this thread YOU KNOE WHO YOU ARE")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [What is your biggest G rated unpopular opinion?](http://forums.somethingawful.com/showthread.php?threadid=4074915 "What is your biggest G rated unpopular opinion?")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Toxx for the Donnie stroke out itt.](http://forums.somethingawful.com/showthread.php?threadid=4075046 "Toxx for the Donnie stroke out itt.")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [I want to go to jail](http://forums.somethingawful.com/showthread.php?threadid=4075039 "I want to go to jail")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Native Heritage Month](http://forums.somethingawful.com/showthread.php?threadid=4075038 "Native Heritage Month")
 
 ### Random Articles
 
-* [A Timeline Of The Penn State Self-Implosion](https://www.somethingawful.com/news/penn-state-timeline/)
-* [Elvendrums (Thanks, Master Shake!)](https://www.somethingawful.com/awful-links/elvendrums/)
-* [The Friend](https://www.somethingawful.com/news/the-friend/)
-* [Bold Tales of Adventure! (Part 2)](https://www.somethingawful.com/news/bold-tales-adventure-2/)
-* [Halloween: Your True Self!](https://www.somethingawful.com/awful-things-sale/halloween-true-self/)
+* [Food Network's Diverse Range Of Programming](https://www.somethingawful.com/news/food-network-diversity/)
+* [The Audiophile's Guide To A Perfect Stereo Setup](https://www.somethingawful.com/music-article/audiophile-stereo-guide/)
+* [This Man, His Corn](https://www.somethingawful.com/news/this-man/1/)
+* [Greatnewsdubai.ae: Wonderful News of Dubai, for You](https://www.somethingawful.com/news/dubai-debt-news/)
+* [Security Shenanigans](https://www.somethingawful.com/news/security-shenanigans/)
 
 [Random!](https://www.somethingawful.com/random/)
 
