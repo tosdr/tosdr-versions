@@ -244,14 +244,6 @@ MuggleNet Archive Select Month November 2024  (6) October 2024  (27) September
 
 ### November 2024
 
-#### Sat, Nov 9
-
-Harry catches the Snitch in his mouth during his first Quidditch match
-
-Recurs yearly
-
-1991
-
 #### Wed, Nov 13
 
 Weighing of the Wands Ceremony
@@ -282,6 +274,18 @@ Recurs yearly
 
 2002
 
+#### Sat, Nov 16
+
+Fantastic Beasts: Crimes of Grindelwald - Movie 2
+
+Recurs yearly
+
+Harry Potter and the Philosopher's/Sorcerer's Stone movie
+
+Recurs yearly
+
+2001
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -292,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There is a rumor that when the House points counter was built for the “Harry Potter” film series, it caused a nationwide shortage of Indian glass beads.
+The Golden Snitch was invented by Bowman Wright, a metal charmer who lived during the Middle Ages.
 
 ### Potter History
 
-December 21, 2004 – In a joint press release, Scholastic and Bloomsbury announce that the sixth Harry Potter book will be released at midnight BST on July 16, 2005. The suggested retail price is $29.99 in the United States and £16.99 in the United Kingdom. Bloomsbury says it will be “a bit shorter” than Harry Potter and the Order of the Phoenix.
+July 29, 2008 – The first Harry Potter and the Half-Blood Prince teaser trailer makes its way online and plays in front of The Mummy in theaters.
 
 ### Potter Quote
 
-“That is the enemy – their arrogance, their power lust, their barbarity. He’s the key to our victory.”
+“Go on, Harry, take it! You saved Dad’s life, if anyone’s got the right to eavesdrop on him it’s you. . . .”
 
 [](#)
 
