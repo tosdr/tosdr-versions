@@ -221,12 +221,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [3rd November 2024](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
 
-[![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-
-### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-
-[8th November 2024](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-
 [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
@@ -238,6 +232,12 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
 [5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
+### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
+[5th November 2024](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
 
 ### Featured Articles
 
