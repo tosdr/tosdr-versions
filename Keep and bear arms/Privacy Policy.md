@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 289 active visitors** | **Sunday, November 10, 2024** |
+| **You are 1 of 484 active visitors** | **Sunday, November 10, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**A state may not impose a charge for the enjoyment of a right granted by the federal constitution... The power to impose a license tax on the exercise of these freedoms is indeed as potent as the power of censorship which this Court has repeatedly struck down... a person cannot be compelled 'to purchase, through a license fee or a license tax, the privilege freely granted by the constitution.' �MURDOCK V. PENNSYLVANIA 319 US 105 (1942)
+ **QUOTES TO REMEMBER**Of all tyrannies, a tyranny exercised for the good of its victims may be the most oppressive. It may be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end, for they do so with the approval of their own conscience. � C. S. LEWIS
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
