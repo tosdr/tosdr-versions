@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Pablo medonho](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1135589.thumb.jpeg.226b21745ed242108c7c80314edf7edc.jpeg)](https://www.clubedohardware.com.br/profile/1135589-pablo-medonho/ "Ir ao perfil de Pablo medonho")
-        
-        1
-        
-        [2 ou 4 pentes de ram amd](https://www.clubedohardware.com.br/forums/topic/1701990-2-ou-4-pentes-de-ram-amd/?do=getNewComment "2 ou 4 pentes de ram amd")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Pablo medonho](https://www.clubedohardware.com.br/profile/1135589-pablo-medonho/ "Ir ao perfil de Pablo medonho")  
-        18 minutos atrás
-        
-    * [![LeoziinG0D](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255843.thumb.png.c8fcdf0de10841f69201b6422b2092a1.png)](https://www.clubedohardware.com.br/profile/1255843-leoziing0d/ "Ir ao perfil de LeoziinG0D")
+    * [![satellitezinho](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-974165.thumb.jpeg.fdcdd2b66eda37b5c2cc5b68a7744d25.jpeg)](https://www.clubedohardware.com.br/profile/974165-satellitezinho/ "Ir ao perfil de satellitezinho")
         
         0
         
-        [Processador Intel para suportar RTX3060](https://www.clubedohardware.com.br/forums/topic/1701989-processador-intel-para-suportar-rtx3060/?do=getNewComment "Processador Intel para suportar RTX3060")
+        [I7 7700k não dá vídeo na ga 110 d3a](https://www.clubedohardware.com.br/forums/topic/1702030-i7-7700k-n%C3%A3o-d%C3%A1-v%C3%ADdeo-na-ga-110-d3a/?do=getNewComment "I7 7700k não dá vídeo na ga 110 d3a")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [LeoziinG0D](https://www.clubedohardware.com.br/profile/1255843-leoziing0d/ "Ir ao perfil de LeoziinG0D")  
-        32 minutos atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [satellitezinho](https://www.clubedohardware.com.br/profile/974165-satellitezinho/ "Ir ao perfil de satellitezinho")  
+        20 minutos atrás
         
-    * [![matheus lucas santos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252190.thumb.png.f33eafaa817f20eb1852660e2aac62ed.png)](https://www.clubedohardware.com.br/profile/1252190-matheus-lucas-santos/ "Ir ao perfil de matheus lucas santos")
+    * [![Gustavo 1978](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248675.thumb.png.7757cf1a348d6875969600d4a8384964.png)](https://www.clubedohardware.com.br/profile/1248675-gustavo-1978/ "Ir ao perfil de Gustavo 1978")
         
         0
         
-        [Informação sobre qual placa fica boa com o amd a10 7860k a placa maefm2a68m-dg3+](https://www.clubedohardware.com.br/forums/topic/1701988-informa%C3%A7%C3%A3o-sobre-qual-placa-fica-boa-com-o-amd-a10-7860k-a-placa-maefm2a68m-dg3/?do=getNewComment "Informação sobre qual placa fica boa com o amd a10 7860k a placa maefm2a68m-dg3+")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [matheus lucas santos](https://www.clubedohardware.com.br/profile/1252190-matheus-lucas-santos/ "Ir ao perfil de matheus lucas santos")  
-        1 hora atrás
-        
-    * [![Engenheiro Leigo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255839.thumb.jpeg.a654aa5497a787d6d20887cad4c50a86.jpeg)](https://www.clubedohardware.com.br/profile/1255839-engenheiro-leigo/ "Ir ao perfil de Engenheiro Leigo")
-        
-        1
-        
-        [Indiquem uma configuração custo/benefício](https://www.clubedohardware.com.br/forums/topic/1701987-indiquem-uma-configura%C3%A7%C3%A3o-custobenef%C3%ADcio/?do=getNewComment "Indiquem uma configuração custo/benefício")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Engenheiro Leigo](https://www.clubedohardware.com.br/profile/1255839-engenheiro-leigo/ "Ir ao perfil de Engenheiro Leigo")  
-        3 horas atrás
-        
-    * [![ZeePanzer](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/imported-photo-1234833.thumb.png.1c7f09c129b1e6b9432d3efe312eb380.png)](https://www.clubedohardware.com.br/profile/1234833-zeepanzer/ "Ir ao perfil de ZeePanzer")
-        
-        1
-        
-        [Posicionamento de Water cooler com bomba no Radiador.](https://www.clubedohardware.com.br/forums/topic/1701986-posicionamento-de-water-cooler-com-bomba-no-radiador/?do=getNewComment "Posicionamento de Water cooler com bomba no Radiador.")
+        [Compatibilidade Fan e Placa-Mãe](https://www.clubedohardware.com.br/forums/topic/1702029-compatibilidade-fan-e-placa-m%C3%A3e/?do=getNewComment "Compatibilidade Fan e Placa-Mãe")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [ZeePanzer](https://www.clubedohardware.com.br/profile/1234833-zeepanzer/ "Ir ao perfil de ZeePanzer")  
-        5 horas atrás
+        Por [Gustavo 1978](https://www.clubedohardware.com.br/profile/1248675-gustavo-1978/ "Ir ao perfil de Gustavo 1978")  
+        21 minutos atrás
         
-    * [![mrzats](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236297c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255838-mrzats/ "Ir ao perfil de mrzats")
-        
-        0
-        
-        [Computador antigo se recusa a ser formatado](https://www.clubedohardware.com.br/forums/topic/1701985-computador-antigo-se-recusa-a-ser-formatado/?do=getNewComment "Computador antigo se recusa a ser formatado")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [mrzats](https://www.clubedohardware.com.br/profile/1255838-mrzats/ "Ir ao perfil de mrzats")  
-        5 horas atrás
-        
-    * [![LoordSTAR](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/The-Batman-Complete-Series-Blu-ray-Featured-01.thumb.jpg.1bb7da782c37eb0f230d53d711a5f2cb.jpg)](https://www.clubedohardware.com.br/profile/1255836-loordstar/ "Ir ao perfil de LoordSTAR")
+    * [![RiquelmeMendes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255819.thumb.jpeg.a36105920b212e16d6e0c9866a42f49a.jpeg)](https://www.clubedohardware.com.br/profile/1255819-riquelmemendes/ "Ir ao perfil de RiquelmeMendes")
         
         1
         
-        [Gabinete Gamer Mancer CV100 Purple Edition, ARG](https://www.clubedohardware.com.br/forums/topic/1701984-gabinete-gamer-mancer-cv100-purple-edition-arg/?do=getNewComment "Gabinete Gamer Mancer CV100 Purple Edition, ARG")
+        [Upgrade para AM4 valeu a pena?](https://www.clubedohardware.com.br/forums/topic/1702028-upgrade-para-am4-valeu-a-pena/?do=getNewComment "Upgrade para AM4 valeu a pena?")
         
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [LoordSTAR](https://www.clubedohardware.com.br/profile/1255836-loordstar/ "Ir ao perfil de LoordSTAR")  
-        7 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [RiquelmeMendes](https://www.clubedohardware.com.br/profile/1255819-riquelmemendes/ "Ir ao perfil de RiquelmeMendes")  
+        54 minutos atrás
         
-    * [![jotta.jg_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1238143.thumb.jpeg.80604a3a112aca9633a71dc366c5db48.jpeg)](https://www.clubedohardware.com.br/profile/1238143-jottajg_/ "Ir ao perfil de jotta.jg_")
+    * [![Bgzada](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46278%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247208-bgzada/ "Ir ao perfil de Bgzada")
+        
+        4
+        
+        [Um Aircoller de 1500rpm serve?](https://www.clubedohardware.com.br/forums/topic/1702027-um-aircoller-de-1500rpm-serve/?do=getNewComment "Um Aircoller de 1500rpm serve?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Bgzada](https://www.clubedohardware.com.br/profile/1247208-bgzada/ "Ir ao perfil de Bgzada")  
+        1 hora atrás
+        
+    * [![loak](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1199803.thumb.jpeg.87762c75d6d789f0f671b59c955d0aa1.jpeg)](https://www.clubedohardware.com.br/profile/1199803-loak/ "Ir ao perfil de loak")
+        
+        1
+        
+        [Recomendação entre 2 monitores QHD. Gigabyte M27q-sa ou ASUS VG27AQL3A ?](https://www.clubedohardware.com.br/forums/topic/1702026-recomenda%C3%A7%C3%A3o-entre-2-monitores-qhd-gigabyte-m27q-sa-ou-asus-vg27aql3a/?do=getNewComment "Recomendação entre 2 monitores QHD. Gigabyte M27q-sa ou ASUS VG27AQL3A ?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [loak](https://www.clubedohardware.com.br/profile/1199803-loak/ "Ir ao perfil de loak")  
+        1 hora atrás
+        
+    * [![PeterThunder123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1235144.thumb.jpeg.9bd61c6bbaa56e02d19caee39e70b8f9.jpeg)](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")
         
         3
         
-        [Qual upgrade vocês me recomendariam a fazer](https://www.clubedohardware.com.br/forums/topic/1701983-qual-upgrade-voc%C3%AAs-me-recomendariam-a-fazer/?do=getNewComment "Qual upgrade vocês me recomendariam a fazer")
+        [Sugestão para comprar teclado para jogos](https://www.clubedohardware.com.br/forums/topic/1702025-sugest%C3%A3o-para-comprar-teclado-para-jogos/?do=getNewComment "Sugestão para comprar teclado para jogos")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [jotta.jg\_](https://www.clubedohardware.com.br/profile/1238143-jottajg_/ "Ir ao perfil de jotta.jg_")  
-        8 horas atrás
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [PeterThunder123](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")  
+        1 hora atrás
         
-    * [![Dizzee](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255835.thumb.png.78b45accb86f862a8bce8acb416fdb65.png)](https://www.clubedohardware.com.br/profile/1255835-dizzee/ "Ir ao perfil de Dizzee")
+    * [![yPopplo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255851.thumb.jpeg.03eaed5003be95915e8af20a788d5224.jpeg)](https://www.clubedohardware.com.br/profile/1255851-ypopplo/ "Ir ao perfil de yPopplo")
+        
+        2
+        
+        [Compatibilidade da Ram com a placa-mãe e processador](https://www.clubedohardware.com.br/forums/topic/1702023-compatibilidade-da-ram-com-a-placa-m%C3%A3e-e-processador/?do=getNewComment "Compatibilidade da Ram com a placa-mãe e processador")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [yPopplo](https://www.clubedohardware.com.br/profile/1255851-ypopplo/ "Ir ao perfil de yPopplo")  
+        2 horas atrás
+        
+    * [![LucasPereira1](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4af%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1139255-lucaspereira1/ "Ir ao perfil de LucasPereira1")
+        
+        3
+        
+        [Troca de peças e configurações](https://www.clubedohardware.com.br/forums/topic/1702022-troca-de-pe%C3%A7as-e-configura%C3%A7%C3%B5es/?do=getNewComment "Troca de peças e configurações")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [LucasPereira1](https://www.clubedohardware.com.br/profile/1139255-lucaspereira1/ "Ir ao perfil de LucasPereira1")  
+        2 horas atrás
+        
+    * [![lucas12201abc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249559.thumb.png.fba6c3cf6df881bb735c72a8563b670d.png)](https://www.clubedohardware.com.br/profile/1249559-lucas12201abc/ "Ir ao perfil de lucas12201abc")
+        
+        2
+        
+        [Dying light roda no meu pc?](https://www.clubedohardware.com.br/forums/topic/1702021-dying-light-roda-no-meu-pc/?do=getNewComment "Dying light roda no meu pc?")
+        
+        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
+        Por [lucas12201abc](https://www.clubedohardware.com.br/profile/1249559-lucas12201abc/ "Ir ao perfil de lucas12201abc")  
+        2 horas atrás
+        
+    * [![VictorCz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245138.thumb.png.df7b2a9111246b29adc6458038b920bf.png)](https://www.clubedohardware.com.br/profile/1245138-victorcz/ "Ir ao perfil de VictorCz")
         
         1
         
-        [CX500 suporta RTX4060TI nessa configuração?](https://www.clubedohardware.com.br/forums/topic/1701982-cx500-suporta-rtx4060ti-nessa-configura%C3%A7%C3%A3o/?do=getNewComment "CX500 suporta RTX4060TI nessa configuração?")
+        [ERRO Secure Boot Valorant](https://www.clubedohardware.com.br/forums/topic/1702020-erro-secure-boot-valorant/?do=getNewComment "ERRO Secure Boot Valorant")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Dizzee](https://www.clubedohardware.com.br/profile/1255835-dizzee/ "Ir ao perfil de Dizzee")  
-        8 horas atrás
-        
-    * [![Yan Mangabeira Sousa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_5651.thumb.jpeg.0c5a965d494e5c6610ec8b437c0fa17b.jpeg)](https://www.clubedohardware.com.br/profile/1255823-yan-mangabeira-sousa/ "Ir ao perfil de Yan Mangabeira Sousa")
-        
-        0
-        
-        [Setup completo por 10 mil](https://www.clubedohardware.com.br/forums/topic/1701981-setup-completo-por-10-mil/?do=getNewComment "Setup completo por 10 mil")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Yan Mangabeira Sousa](https://www.clubedohardware.com.br/profile/1255823-yan-mangabeira-sousa/ "Ir ao perfil de Yan Mangabeira Sousa")  
-        8 horas atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [VictorCz](https://www.clubedohardware.com.br/profile/1245138-victorcz/ "Ir ao perfil de VictorCz")  
+        2 horas atrás
         
     
 
