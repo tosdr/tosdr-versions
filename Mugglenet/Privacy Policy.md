@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nearly Headless Nick died on October 31, 1492, after being hit in the neck 45 times with a blunt ax.
+There is a rumor that when the House points counter was built for the “Harry Potter” film series, it caused a nationwide shortage of Indian glass beads.
 
 ### Potter History
 
-June 26, 1997 – Harry Potter and the Philosopher’s Stone is published by Bloomsbury in the United Kingdom. Today, over 107 million copies of the story have been sold worldwide.
+December 21, 2004 – In a joint press release, Scholastic and Bloomsbury announce that the sixth Harry Potter book will be released at midnight BST on July 16, 2005. The suggested retail price is $29.99 in the United States and £16.99 in the United Kingdom. Bloomsbury says it will be “a bit shorter” than Harry Potter and the Order of the Phoenix.
 
 ### Potter Quote
 
-“She’s been breaking into your broom shed in the garden since the age of six and taking each of your brooms out in turn when you weren’t looking.”
+“That is the enemy – their arrogance, their power lust, their barbarity. He’s the key to our victory.”
 
 [](#)
 
