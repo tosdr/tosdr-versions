@@ -405,6 +405,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/gettyimages-2183216502-scaled.jpg?ve=1&tl=1)
+
+ ![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183216502-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/donald-trump-wins-arizona-its-11-electoral-votes-flipping-state-red-again)
+
+### [Donald Trump wins Arizona and its 11 electoral votes](https://www.fox4news.com/election/donald-trump-wins-arizona-its-11-electoral-votes-flipping-state-red-again)
+
+ [![Rowlett community relieved over car burglary suspect's arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/deshawn-davis.jpg?ve=1&tl=1)
+
+ ![Rowlett community relieved over car burglary suspect's arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/deshawn-davis.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rowlett-deshawn-davis-arrest)
+
+### [Rowlett community relieved over car burglary suspect's arrest](https://www.fox4news.com/news/rowlett-deshawn-davis-arrest)
+
+ [![North Texas communities come together to honor veterans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-david-veterans-day-events-wrap-9p_kdfw1d3b_146_m_00.00.00.00.jpg?ve=1&tl=1)
+
+ ![North Texas communities come together to honor veterans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-david-veterans-day-events-wrap-9p_kdfw1d3b_146_m_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-communities-come-together-honor-veterans)
+
+### [North Texas communities come together to honor veterans](https://www.fox4news.com/news/north-texas-communities-come-together-honor-veterans)
+
  [![Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-102201890-a.jpg?ve=1&tl=1)
 
  ![Legendary NASCAR driver Bobby Allison, founder of the 'Alabama Gang,' dies at 86](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-102201890-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/nascar-bobby-allison-dies)
@@ -416,24 +434,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182723380.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dak-prescott-hamstring-surgery)
 
 ### [Dak Prescott is seeking another opinion before season-ending surgery on hamstring, AP source says](https://www.fox4news.com/sports/dak-prescott-hamstring-surgery)
-
- [![American nurse, 31, killed while vacationing in Budapest](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/budapest-fts-mz2.jpg?ve=1&tl=1)
-
- ![American nurse, 31, killed while vacationing in Budapest](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/budapest-fts-mz2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mackenzie-michalsk-hungary-vacation-american-killed-budapest)
-
-### [American nurse, 31, killed while vacationing in Budapest](https://www.fox4news.com/news/mackenzie-michalsk-hungary-vacation-american-killed-budapest)
-
- [![See it: Butter the lucky horse beats the odds in dramatic 60-foot well rescue](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/horse1.jpg?ve=1&tl=1)
-
- ![See it: Butter the lucky horse beats the odds in dramatic 60-foot well rescue](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/horse1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/butter-lucky-horse-beats-odds-dramatic-60-foot-well-rescue)
-
-### [See it: Butter the lucky horse beats the odds in dramatic 60-foot well rescue](https://www.fox4news.com/news/butter-lucky-horse-beats-odds-dramatic-60-foot-well-rescue)
-
- [![Watch: Police release bodycam footage of officer tackling 70-year-old man](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/oklapolice.jpg?ve=1&tl=1)
-
- ![Watch: Police release bodycam footage of officer tackling 70-year-old man](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/oklapolice.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-police-tackle-elderly-man)
-
-### [Watch: Police release bodycam footage of officer tackling 70-year-old man](https://www.fox4news.com/news/oklahoma-police-tackle-elderly-man)
 
 ###### [News](https://www.fox4news.com/news)
 
