@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is early stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-what-is-early-stage-lung-cancer-scaled.jpg "What Is Early Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/early-stage-lung-cancer "What Is Early Stage Lung Cancer?")
+[![Is there a blood test for asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-is-there-a-blood-test-for-asbestos-exposure-1.jpg "Is There a Blood Test for Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure "Is There a Blood Test for Asbestos Exposure?")
 
-[#### What Is Early Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/early-stage-lung-cancer)
+[#### Is There a Blood Test for Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure)
 
-[![How long can you live with stage 4 mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-long-can-you-live-with-stage-4-mesothelioma.jpg "How Long Can You Live with Stage 4 Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-can-you-live-with-stage-4-mesothelioma/ "How Long Can You Live with Stage 4 Mesothelioma?")
+[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
 
-[#### How Long Can You Live with Stage 4 Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-can-you-live-with-stage-4-mesothelioma/)
+[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
+[![What is talc used for?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-is-talc-used-for.jpg "What Is Talc Used For?")](https://www.pintas.com/talcum-powder/what-is-talc-used-for/ "What Is Talc Used For?")
 
-[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
+[#### What Is Talc Used For?](https://www.pintas.com/talcum-powder/what-is-talc-used-for/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
