@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![CSM Evert Walter Costello](https://cdn.returningveterans.org/images/honor/Bud_Mae_Costellos_dad.jpg)  
+![The US Navy](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Memory of CSM Evert Walter Costello**  
-United States Army  
-Submitted by Mae Costello](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of The US Navy**  
+United States Navy  
+Submitted by Kyle Foreman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/10/24 - 1:16:33  
+Printed 11/10/24 - 7:33:16  
 © 2024 Returning Veterans Project
