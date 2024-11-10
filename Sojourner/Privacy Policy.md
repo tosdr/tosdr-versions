@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4e717f196eb4c33bb7a254efae685545
+c08794ecacec94f66a9e7bfc9466658b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Green and gold bicone beads](https://www.sojourner.biz/images/cache/glass/GL0135.200.jpg)](https://www.sojourner.biz/beads/glass/green-and-gold-bicone-beads.html "Green and gold bicone beads")
+[![12 mm to 14 mm glass bugle beads](https://www.sojourner.biz/images/cache/glass/GL0196.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
 
-#### [Green and gold bicone beads](https://www.sojourner.biz/beads/glass/green-and-gold-bicone-beads.html "Green and gold bicone beads")
+#### [12 mm to 14 mm glass bugle beads](https://www.sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
 
-$15.00
+$4.00
 
 ### Best Sellers
 
