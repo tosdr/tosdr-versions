@@ -31,1027 +31,946 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Nuevos horarios de cortes de luz en Quito para este sábado 9 de noviembre
-=========================================================================
+¿Cómo se manejan los cuidados paliativos en Chile y Uruguay? Lecciones para Ecuador
+===================================================================================
 
-La Empresa Eléctrica Quito detalló el cronograma emergente de cortes de luz para este sábado 9 de noviembre de 2024.
---------------------------------------------------------------------------------------------------------------------
+Uno de los mayores desafíos para que el Ecuador cuente con un Sistema Nacional de Cuidados Paliativos es la inversión económica que demanda. Para que este servicio sea accesible y asequible, especialmente para personas de bajos recursos, el Ministerio de Finanzas y otras entidades del Estado deberán garantizar los recursos necesarios en todos los niveles \[…\]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Quito tendrá cortes de luz de tres, seis, nueve y 12 horas](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-nuevos-quito-horarios.jpg)
+![La ley de cuidados paliativos aprobada por la Asamblea está en manos del Ejecutivo para su aprobación o veto. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/11/CP.jpg)
 
-La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz** que tendrá la ciudad este sábado 9 de noviembre de 2024.
-
-### Más noticias
-
-* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
-* [Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentaran-a-ocho-horas-desde-el-domingo-dice-ministra.html "Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra")
-* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
-
-La entidad ajustó el cronograma a última hora, tras un anuncio del **Ministerio de Energía** donde indicó que las hidroeléctricas del país mantienen bajos niveles en sus caudales.
-
-La capital incrementó los **apagones programados para este sábado de seis a doce horas**, en algunos sectores.
-
-En otros puntos, la suspensión del servicio eléctrico va desde las **tres a nueve horas**. En todos los casos, los horarios están distribuidos en una y dos franjas[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
-
-Nuevos cortes de luz en Quito para este sábado 9 de noviembre
--------------------------------------------------------------
-
-Las **zonas residenciales** de Quito tienen **siete horarios** de cortes de luz:
-
-### De 12:00 a 15:00
-
-* Miraflores
-* Río Coca
-* Conocoto
-* Tumbaco
-* Cumbayá
-
-### De 12:00 a 18:00
-
-* Luluncoto
-* Chilibulo
-* La Floresta
-* Cristianía
-* Eplicachima
-
-### De 06:00 a 12:00 y de 16:00 a 22:00
-
-* La Carolina
-* Nueva Cumbayá
-* Tababela
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-### De 15:00 a 21:00
-
-* Chimbacalle
-* Belisario Quevedo
-* Granda Centeno
-* Gualo
-* Andalucía
-* Cotocollao
-* Inga Bajo
-
-### De 18:00 a 24:00
-
-* Barrionuevo
-* Iñaquito
-* Santa Rosa
-* Sangolquí
-* El Quinche
-
-### De 12:00 a 15:00 y 18:00 a 24:00
-
-* Olímpico
-* El Bosque
-* San Antonio
-* Alangasí
-* San Rafael
-* Pomasqui
-* Eugenio Espejo
-
-### De 18:00 a 24:00
-
-* Luluncoto
-* San Roque
-* Río Coca
-* Cotocollao
-* Conocoto
-* Alangasí
-* Santa Rosa
-* Inga Bajo
-
-Mientras que en las **zonas industriales**, los apagones se realizarán de acuerdo con **tres horarios**[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
-
-* 00:00 a 05:00
-* 10:00 a 24:00
-* 06:00 a 09:00 y de 15:00 a 18:00
-
-Este es el **cronograma completo** por barrios para este **sábado 9 de noviembre**:
-
-El Gobierno no aclaró el porqué de la **sectorización** con distintos rangos de horarios, algunos con tres horas y otros de 12 horas.
-
-Cortes de luz aumentaron a 12 horas
------------------------------------
-
-La decisión de aumentar los cortes de luz a última hora surgió en un contexto de **disminución sin precedentes en los caudales** de las centrales hidroeléctricas **Mazar y Coca Codo Sinclair** según detalló el Ministerio de Energía.
-
-La cartera de Estado aseguró que la medida busca reducir el **impacto severo** que produce la falta de lluvias al suministro eléctrico del Ecuador.
-
-Asimismo, los nuevos horarios de cortes de luz emergentes fueron implementados debido a **mantenimientos de emergencia** en las centrales Agoyán, San Francisco y otras plantas térmicas.
-
-“Estos mantenimientos son indispensables para asegurar la continuidad y seguridad del Sistema Eléctrico Nacional, así como para prevenir fallas mayores”, manifestó el comunicado del Ministerio.
-
-El anuncio repentino, tras otro previo difundido la noche del viernes 8 de noviembre, causó malestar en la ciudadanía al ver reprogramadas sus actividades cotidianas.
-
-Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre
-======================================================================
-
-El Ministerio de Energía emitió un comunicado donde detalla las razones del nuevo cronograma.
----------------------------------------------------------------------------------------------
-
-![El nuevo cronograma fue anunciado por el Ministerio de Energía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Cortes-de-luz-1.jpg)
-
-El Ministerio de Energía y Minas anunció este 9 de noviembre la implementación de un plan de racionamiento eléctrico en todo el territorio nacional.
+Uno de los mayores desafíos para que el Ecuador cuente con un Sistema Nacional de Cuidados Paliativos es la inversión económica que demanda. Para que este servicio sea accesible y asequible, especialmente para personas de bajos recursos, el Ministerio de Finanzas y otras entidades del Estado deberán garantizar los recursos necesarios en todos los niveles de atención.  
 
 Más noticias
 ------------
 
-* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
-* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
-* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
+* [Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley](https://www.elcomercio.com/actualidad/ecuador/cuidados-paliativos-ecuador-ley-beneficios-realidad.html "Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley")
+* [‘El lenguaje bélico convierte al cáncer en un enemigo y reprime emociones’: Daniela Rojas](https://www.elcomercio.com/tendencias/salud/el-lenguaje-belico-convierte-al-cancer-en-un-enemigo-y-reprime-emociones-daniela-rojas.html "‘El lenguaje bélico convierte al cáncer en un enemigo y reprime emociones’: Daniela Rojas")
 
-El comunicado fue difundido en los canales oficiales del **Ministerio de Energía**, donde se detallan las razones de este nuevo cronograma.
+Esta es una de las premisas que tendrá que tomar en cuenta el Ejecutivo para vetar parcial o totalmente el proyecto de ley de cuidados paliativos. El documento, aprobado por la Asamblea en octubre del 2024, da 200 días al ente rector de salud para reorganizar sus presupuestos.
 
-¿Por qué hay un nuevo cronograma de cortes de luz?
---------------------------------------------------
+La presión por servicios de cuidados paliativos es cada vez mayor por la creciente prevalencia de enfermedades no transmisibles y el acelerado envejecimiento. En el Censo de 2022 se constató que la [mayoría de provincias (15)](https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html "https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html") está por debajo del nivel de reemplazo necesario para mantener la población estable o que no decrezca. Para esto se requiere 2,1 hijos por mujer.
 
-Esta medida, que estará vigente durante el sábado 9 y el domingo 10 de noviembre, responde a la necesidad de realizar mantenimientos programados y de emergencia en las centrales hidroeléctricas Agoyán, San Francisco y varias plantas térmicas.
+Una cobertura nacional limitada
+-------------------------------
 
-Además, se ha reportado una baja histórica en los caudales de los principales embalses, lo cual ha afectado gravemente la generación de electricidad.
+Con esta legislación se busca garantizar atención integral a personas con enfermedades avanzadas, progresivas e incurables, que sufren de manera intensa y tienen un pronóstico de vida limitado. Actualmente el acceso a estos cuidados es limitado. La asambleísta Cecilia Herrera explica que la cobertura es de 3,5% con 78 equipos. Esto representa 4,6 recursos asistenciales por millón de habitantes.
 
-> 📌\[COMUNICADO OFICIAL\]  
->   
-> A la ciudadanía⤵️ [pic.twitter.com/kSL4UnixRC](https://t.co/kSL4UnixRC)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 9, 2024](https://twitter.com/RecNaturalesEC/status/1855289743598317624?ref_src=twsrc%5Etfw)
+Frente a esto se propone la complementariedad de servicios públicos y privados, permitiendo derivaciones entre ambos en zonas urbanas y rurales, según las necesidades. También se establece que los centros de salud del primer nivel cuenten con profesionales capacitados. Pero todo esto requiere de fondos disponibles para garantizar la permanencia y continuidad de los cuidados.
 
-Nuevo cronograma de cortes de luz en Ecuador
---------------------------------------------
+Según un informe de la Comisión Lancet, 4,85 de cada 1 000 habitantes en Ecuador sufren gravemente por enfermedades agudas o crónicas. Otro dato: la distribución de morfina es insuficiente, con solo 2,5 mg por habitante. Esto indica que la media de morfina administrada a los pacientes para un tratamiento referencial de 90 días fue de 41,7 kg, frente a los 48 kg requeridos durante el 2020.
 
-El cronograma de racionamiento contempla cortes de energía de hasta 12 horas diarias, según informó el Ministerio.
+Estas cifras resaltan la urgencia de contar con una legislación que viabilice la atención paliativa adecuada. Frente a esta necesidad, **EL COMERCIO** consultó a **Gabriela Píriz**, jefa de Servicio de Medicina Paliativa del **Hospital Maciel de** **Uruguay** y a **Alfredo Rodríguez**, director médico del **Hospice Clínica Familia de** **Chile** para conocer cómo se implementan los cuidados paliativos en estos países.
 
-Esta decisión surge en un contexto de disminución sin precedentes en los caudales de las centrales hidroeléctricas Mazar, que forma parte del Complejo Hidroeléctrico Paute Integral, y Coca Codo Sinclair, lo que ha impactado severamente el suministro eléctrico del Ecuador.
+Chile extendió los cuidados paliativos a 247 de 300 comunas
+-----------------------------------------------------------
 
-“Estos mantenimientos son indispensables para asegurar la continuidad y seguridad del Sistema Eléctrico Nacional, así como para prevenir fallas mayores”, subraya el comunicado del Ministerio.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-46-1024x683.jpg)
 
-La institución también aseguró que se realiza un monitoreo constante de las centrales hidroeléctricas. El fin es adaptar las decisiones a la cambiante situación de los recursos hídricos y garantizar la mejor gestión posible del suministro eléctrico.
+Alfredo Rodríguez es especialista en medicina paliativa.
 
-> 📍¡IMPORTANTE!  
->   
-> 📌Informamos a la ciudadanía sobre la suspensión del servicio de energía eléctrica, a escala nacional, para el sábado 09 y domingo 10 de noviembre.  
->   
-> 🔸Conoce la programación en el siguiente enlace👉 [https://t.co/Bb3pIo3u7X](https://t.co/Bb3pIo3u7X) [pic.twitter.com/nyTyNcTfFy](https://t.co/nyTyNcTfFy)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 9, 2024](https://twitter.com/RecNaturalesEC/status/1855291716615430578?ref_src=twsrc%5Etfw)
+En Chile, los cuidados paliativos empezaron en la década de 1990 con un programa para pacientes con cáncer. En 2005, la **Ley GES (Garantías Explícitas en Salud)** garantizó acceso a cuidados paliativos y alivio del dolor para pacientes con cáncer avanzado. La ley se amplió a todas las etapas del cáncer, en 2016.
 
-Compra de electricidad a Colombia
----------------------------------
+En 2021 se aprobó la **Ley de Cuidados Paliativos Universales**, que incluyó a pacientes con enfermedades no oncológicas (crónicas y neurodegenerativas). En 2023 comenzó su implementación a nivel nacional.
 
-El Ministerio anticipó que, la próxima semana, se espera concluir las negociaciones con Colombia, lo que podría representar un alivio significativo en el abastecimiento de energía.
+Para asegurar el acceso en todo el país, Chile cubre los cuidados paliativos en servicios públicos y privados, con énfasis en las zonas rurales. La Ley GES asegura que los pacientes con cáncer avanzado reciban atención dentro de cinco días hábiles, luego de su derivación. Además, la ley de cuidados paliativos universales prioriza la atención primaria de salud, que cubre más del 80% de la población.
 
-Este acuerdo permitiría la importación de electricidad para complementar la demanda energética nacional mientras persista la escasez hídrica.
+Una fortaleza del sistema, según Alfredo Rodríguez, especialista en medicina paliativa, es la descentralización, con unidades de cuidados paliativos en hospitales y centros de atención primaria. Des esta manera-añade- 247 de las 350 comunas están cubiertos y tienen acceso a medicamentos esenciales. Sin embargo cree que todavía hay desafíos en la formación de pregrado, falta una evaluación de la calidad de los servicios y que se amplíe la atención de los hospicios.
 
-Por su parte, el Gobierno reafirma su compromiso con una transición hacia una matriz energética más sostenible y resiliente, en línea con los planes para diversificar las fuentes de generación de energía en Ecuador.
+En cuanto a la capacitación de los profesionales sanitarios, el Ministerio de Salud lo hace mediante plataformas digitales y programas continuos. Universidades como la Católica ofrecen diplomados y programas específicos en cuidados paliativos para médicos, enfermeras y psicólogos. Las enfermeras, que tienen un rol clave, participan en programas avanzados de formación en esta área.
 
-Migrantes latinos en riesgo de exclusión de ayudas por temporal en España
-=========================================================================
+Uruguay pasó de una cobertura del 18% al 74,9% en 11 años
+---------------------------------------------------------
 
-Migrantes perdieron sus trabajos a causa de la DANA, en Valencia.
------------------------------------------------------------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Gabriela-Piriz-vale.jpg)
 
-![Varias personas trabajan en las labores de limpieza y desescombro en Paiporta, Valencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/dana-espana-1.jpg)
+Gabriela Píriz es especialista en medicina interna,  
+paliativa y en gestión de la calidad en servicios de salud.
 
-**Migrantes** que perdieron su vivienda o su empleo a consecuencia del temporal que azotó [España](https://www.elcomercio.com/actualidad/mundo/alerta-cataluna-intensifica-busqueda-valencia-dana.html "https://www.elcomercio.com/actualidad/mundo/alerta-cataluna-intensifica-busqueda-valencia-dana.html") corren el riesgo de quedar excluidos de las ayudas aprobadas por la Administración. Esto por no disponer de su documentación en regla: **“Se olvidaron de nosotros”**, lamenta un damnificado colombiano.
+Los cuidados paliativos en Uruguay comenzaron a desarrollarse con la creación del [Plan Nacional de Cuidados Paliativos](https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/plan-cuidados-paliativos-version-setiembre-2013 "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/plan-cuidados-paliativos-version-setiembre-2013") en 2012, liderado por el Ministerio de Salud Pública (MSP). Gabriela Píriz, especialista en cuidados paliativos lo gestionó desde el inicio hasta febrero del 2020.
+
+Inicialmente, 18 de cada 100 pacientes que necesitaban este servicio recibían atención. Desde entonces hasta el 2023, la cobertura ha escalado a 74,9%. Se cuenta con 29 servicios de asistencia pediátrica y 73 servicios para adultos. Dentro de este último grupo con patologías no oncológicas se ha constatado que el 47% presentan demencias y enfermedades cardiovasculares.
+
+Hay que destacar que en este país, la Ley Integral de Cuidados Paliativos (20179/023) recién se aprueba en agosto del 2023, tras un largo recorrido y logros alcanzados con el plan.
+
+El plan promueve la creación de una red de asistencia paliativa nacional con distintos niveles de atención, asegurando cobertura y continuidad asistencial. Además, se prioriza la formación básica en cuidados paliativos. Más de 10 mil profesionales de la salud han participado en cursos virtuales gratuitos del Programa de Cuidados Paliativos del MSP, entre 2021-2024. Las zonas rurales son cubiertas asistencialmente por médicos locales que trabajan en red con los equipos de especialistas.
+
+La capacitación de los profesionales-añade Píriz- se realiza a través de una diplomatura, dos másteres, y cursos especializados, como las Clínicas ECHO, que permiten la discusión virtual de casos complejos.
+
+Las fortalezas del sistema, según Píriz, es la integración en el Sistema Nacional Integrado de Salud, la obligatoriedad de los cuidados paliativos como prestación. Están conscientes de que los cuidados paliativos no es algo adicional ni optativo. Tienen que ser dispensados en paralelo con los tratamientos y estar adaptados a las crecientes necesidades físicas, psicosociales y espirituales de los pacientes y familias. Esto a medida que la enfermedad progresa hacia la fase terminal.
+
+Lecciones que dejan ambos países para Ecuador
+---------------------------------------------
+
+* Garantizar que los pacientes en todas las zonas del país, incluyendo las rurales, tengan acceso a este servicio y a los fármacos necesarios para el alivio del dolor y otros síntomas. 
+* Implementar cuidados paliativos no solo en hospitales, sino en centros de atención primaria, lo que facilita el acceso en zonas rurales y más alejadas de los centros urbanos.
+* La formación de los profesionales de la salud debe ser integral y continua, con un enfoque práctico y especializado. Debe incluirse desde el nivel de pregrado.
+*  Implementar políticas que fomenten los cuidados paliativos domiciliarios, especialmente en áreas rurales y de difícil acceso, para garantizar la continuidad de la atención.
+* Establecer un plan de gestión nacional que involucre a todos los prestadores de salud, con diagnósticos y evaluación periódicos de la situación y mejora continua del sistema.
+
+Turismo a París
+===============
+
+El negocio aeronáutico es muy rentable y Ecuador debe desarrollarlo para brindar la seguridad y comodidad.
+----------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+Todos soñamos con ir al **romántico París** y **tomarnos** una **foto** con nuestra amada con la **Torre Eiffel** de fondo y 15 millones de personas lo consiguen cada año; y ahora con más facilidad, ya que han peatonizado el puente sobre el **río Sena** donde hasta hace un año había que tomarse la foto rapidito por el temor a ser atropellado. Ahora en el **puente caminan miles de personas** todo el día y más al atardecer cuando se **admira el encendido de luces de la Torre**.
+
+Si la opción es ir por **aviones low cost,** aparecen 3 aeropuertos: Charles de Gaulle, Orly y … Beauvais que es usado esencialmente por Ryanair, pero está a una hora y media al **norte de París** y por 10 euros menos en el pasaje, se escoge un vuelo a otra **ciudad distante a París**, donde no hay otra opción que subir a una única **línea de buses de ida y vuelta** a París por 32 euros adicionales más tres horas de viaje y unas 2 horas más de colas a la intemperie, lo que a inicios de noviembre es muy frío y asumo insufrible en **invierno**.
+
+Ya caído en la **trampa**, no queda, sino reconocer la **habilidad de Ryanair** para posicionarse en un **aeropuerto prefabricado** y aumentar una **línea de buses a sus vuelos**, que debería publicitarse como a Beauvais y no como a París. Esta **estrategia** de buscar **aeropuertos** pequeños sin uso, ha sido parte del **éxito** de esta **aerolínea**, que busca ciudades con un pequeño **aeropuerto** y **monta vuelos** de bajo costo que convierten en **destino de moda** a sitios que no se sabía que existían y lo que el **usuario** ahorra en vuelo, lo paga en transporte adicional, **alimentación** y colas bajo condiciones **climáticas severas**.
+
+A **Ecuador** aún no llegan **aerolíneas** low cost y una que dice serlo no lo es, tiene un **sinfín de costos** escondidos que al final resulta más cara que las **convencionales**. Pero sí tenemos **aeropuertos prefabricados** y abandonados como el de Tena o viejos y sin vuelos como el de Riobamba, **dos ciudades divididas** por sinuosas **carreteras** que exigen 4 horas de maltratar el coche y de jugarse la vida ante **buseros suicidas**.
+
+El **negocio aeronáutico** es muy rentable y **Ecuador** debe desarrollarlo para brindar la **seguridad** y **comodidad** que han perdido **muchas carreteras y viajar en aviones** que no nos dejen en Quito, pero si en Latacunga; que en Guayaquil vendan vuelos a Baños de Agua Santa, pero aterricen en el aeropuerto de Shell a 1 hora de Baños y a 10 minutos de Puyo.
+
+Es necesario crear tantos **incentivos** para el **transporte** aéreo interno seguro y rápido, como los que existen para el caótico **transporte terrestre**.  
+
+Guerras santas: las cruzadas populares
+======================================
+
+Dos casos ilustran cómo entusiasmaron las guerras santas a la gente común.
+--------------------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+Es un lugar común considerar a las **cruzadas** como un asunto de caballeros, reyes y papas, de hecho, es así como se las representa en libros y películas. Pero las ocho **cruzadas** convocadas por el papado a lo largo de **dos centurias** (entre los siglos XI y XIII) atrejeron también al pueblo y no solo a **ejércitos formales.**
+
+Dos casos ilustran cómo **entusiasmaron** las **guerras santas** a la gente común. En 1097, mientras se desarrollaba [la primera cruzada](https://www.nowtilus.com/descargas/Saber/FragmentoPromocionalBHCRUZADASPDFsm.pdf), el fraile francés **Pedro el Ermitaño** sedujo a campesinos, mendigos y aventureros –entre 18 y 60 mil personas– para marchar a Jerusalén al grito de ‘Dios lo quiere’, con el propósito de **‘recuperar los santos lugares**’ de la dominación musulmana. La **excursión** resultó un **desastre** y la mayoría murieron en el camino.
+
+No obstante, las **cruzadas** siguieron sucediéndose una tras otra, de manera que poco más de un siglo después, en 1199, el papa Inocencio III convocó [la cuarta cruzada](https://www.elcomercio.com/politicas-de-privacidad/La%20tr%C3%A1gica%20cruzada%20de%20los%20ni%C3%B1os%20inocentes%20en%20la%20Edad%20Media%20Ernest%20Bendriss%20https:/historia.nationalgeographic.com.es/a/tragica-cruzada-ninos-inocentes-edad-media_16012), esta vez no se dirigió a los **reyes** sino directamente a los pobres, a quienes la **religiosidad** popular consideraba ‘los verdaderos elegidos’. En ese contexto sucedió la **“cruzada con niños**”, con la idea de que su pureza conquistaría **Tierra Santa**.
+
+En 1212, con un inflamado **fervor religioso,** Esteban, joven pastor de apenas 12 años, escribió a la Corte del **rey Felipe Augusto de Francia,** asegurando que tenía una carta entregada por **Jesucristo** en la que le pedía impulsar la **cruzada**. El rey desechó la idea, pero el **joven encabezó el movimiento** y en menos de un mes reunió a unos 30 mil niños, que emprendieron **viaje en compañía** de algunos **religiosos** y **peregrinos adultos**, mientras se organizaba una iniciativa similar en **Alemania**.
+
+Un grupo de estos **peregrinos** llegó a **Roma**. El papa Inocencio les explicó que eran **demasiados jóvenes** para ir a una **cruzada** y los animó a regresar. Antes de la reunión, ya varios habían fallecido en el camino. Los sobrevivientes, al intentar volver a casa, murieron ahogados o terminaron como esclavos en **Egipto**.
+
+El que alimenta al lagarto…
+===========================
+
+El progreso real requiere esfuerzo y paciencia, pero la política a menudo sacrifica el futuro por resultados inmediatos.
+------------------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+El verdadero **crecimiento** y **progreso** se consiguen con **arduo trabajo**, con disciplina, pensando y con valores actuando, con principios y, de manera particular valiéndose de la **paciencia**, es decir, entendiendo que el inmediatismo no es el camino, ya que en la práctica significa “pan para hoy, pero hambre para mañana…”
+
+La **política** en el **país**, en muchos casos, no pretende entender peor aún practicar aquello, frente a un electorado que aplaude y “valora” el **resultado inmediato**, muchas veces sin reparar ni entender el real costo y **efecto final** que se vuelve principal, esto es el que se da en el tiempo y que es el que en verdad queda, vale y cuenta.
+
+Un claro ejemplo de aquello, es el **compromiso** y **ofrecimiento desfinanciado**, **irresponsable** y desatinado del político que, no le importa **hipotecar** con **deuda externa y eterna** a las futuras generaciones, que sin haberles consultado nacen y mueren endeudadas, sin **beneficio** de inventario, sin entender por qué y sin percibir fruto alguno.
+
+Otro ejemplo, son las “**coincidencias**” entre políticos, que con base en **acuerdos reservados**, se intercambian favores y/o **apoyos circunstanciales**, por supuesto a espaldas de la **opinión pública**, realizando **trueques** a escondidas en los que lo que menos importa son las **consecuencias finales**, a fin de obtener y conseguir el **objetivo** inmediato, el aplauso de bambalina, el **triunfo superficial** y vacío, mirando sus **actores despreocupados** a otro lado con aire de santidad o de **postiza ingenuidad.** Así, por ejemplo, a cambio de votos y/o **respaldos específicos,** se apoyan designaciones, ternas, nombramientos de personajes cuestionados y/u oscuros, los que lo más seguro, ya posesionados en sus cargos,  gestionarán y tomarán **decisiones** no en función de los profundos y sagrados intereses del país, sino de los **intereses** de sus **líderes y cabecillas**, probablemente en determinados **casos**, orientados a favorecer y/o fomentar la **impunidad** y por ende a la **justicia burlar**.
+
+Se configura así, de esta manera, esa **suerte de riña** entre el **ciego y torpe** pragmatismo frente a la responsable decisión enmarcada en la **ética**. Dichas **malas prácticas**, han contribuido al **estancamiento** como nación, siendo por ende fundamental desactivarlas en aras de construir un verdadero país en el que exista seria gestión y, profunda **responsabilidad** por las actuales y **futuras generaciones**. Decisiones en tal sentido, generarían que las letras de la **historia** sean hilvanadas con tinta de gloria, destacando justos  **reconocimientos** de honor de aquellos mandatarios calificados como Estadistas, que con **sabiduría y valentía** renunciaron al pedestal de papel,  “sacrificando” el **aplauso barato** e inmediato, renunciando a lo conveniente y por lo correcto optando.
+
+De continuar dichas prácticas, lo único que pudiera esperar quien alimente al lagarto, es que no se lo coma primero…
+
+Cartas a Quito / 10 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este domingo 10 de noviembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+El ocaso del pensamiento 
+-------------------------
+
+Este es el título que abre una reflexión que no me aborda en una tarde lluviosa, nostálgica o con regusto a “depre”. Muy al contrario, el domingo ha sido luminoso y predominantemente placentero. Una jornada lúdica de paseo descalza sobre playa dorada y chapuzón en aguas tan frías como cristalinas. 
+
+Pero he sentido la necesidad de poner blanco sobre negro aquello que, más que observar, confirmo día tras día en la sociedad que me rodea y que avanza en muchos aspectos, pero que en este que me inquieta, entiendo retrocede. 
+
+Vivimos muy rápido, demasiado, y aunque tengamos la fortuna de no ser bombardeados con armas de guerra, al menos de momento, lo somos por otro tipo de bombas. Las de la presión que ejercen nuestras preocupaciones económicas, laborales, familiares… Todo un compendio de lucha y penalidades, generador de agobios y ansiedades, que oscurecen nuestro cielo, como los pájaros en la película del genio Hitchcock. 
+
+Poco tiempo nos queda, pues, para la distracción, que es más una necesidad que un dispendio. Pero más allá no vamos. No consta en nuestra agenda, reservas para la reflexión o el pensamiento crítico. 
+
+Y no es nuestra culpa, al no poder contar con más arena en el reloj, ni neuronas sin saturar, para utilizar en esas otras capacidades elevadas del ser humano. Por eso discriminamos con criterios de “lo fácil e inmediato”. Por eso creo que, en su consecuencia, nos estamos convirtiendo, inconsciente e irremediablemente, en gargantúas. 
+
+Devoradores de cuanto se nos cuenta o proyecta. Deglutiendo sin saborear ni masticar. Oídos y ojos que son meras puertas de entrada, pero que no filtran. Lamentablemente, perdemos conocimiento, porque, aunque absorbemos como esponjas, ya difícilmente discernimos un vino de un vinagre. 
+
+El filtrado, el decantado, requieren de su maña y de su tiempo, y este último es rara avis, una medida finita y muy escasa, como los alimentos para millones en este planeta. 
+
+No soy halagüeña en cuanto a encontrar solución a lo que considero un problema de relevancia: el humano ovinizado, pero ponerlo de manifiesto ya es un avance. 
+
+Tiro la piedra esperando sus ondas, y en la cima de la montaña, busco el eco. 
+
+Cristina Maruri 
+
+¿Los apagones generan una ‘segunda nueva normalidad’ en el país?
+================================================================
+
+Los apagones obligan a los ecuatorianos a modificar hábitos. Como en la pandemia del covid, se vive una segunda nueva normalidad en el país.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Entre los cambios que imponen los apagones, está la modalidad de estudiar e interactuar.](https://www.elcomercio.com/wp-content/uploads/2024/11/apagones-estudios.jpg)
+
+Han pasado poco más de cuatro años cuando saltó la **pandemia del covid-19** y el mundo comenzó a hablar de “**una nueva normalidad**“. A partir de una crisis, las personas debían acostumbrarse a nuevas realidades, nuevas formas de relacionarse y de producir. Ahora, los **cortes de luz** de hasta 14 horas, que disminuyen y luego vuelven a aumentar, han afectado a muchos. Se ha abierto un debate alrededor de una pregunta: ¿se puede decir que los **apagones** generan una s**egunda nueva normalidad en el país**?
 
 ### Más noticias
 
-* [Unos 16 000 clientes de telefonía fija y 37 000 de móvil continúan afectados tras la DANA](https://www.elcomercio.com/actualidad/mundo/16-000-clientes-telefonia-fija-37-000-movil-continuan-afectados-tras-dana.html "Unos 16 000 clientes de telefonía fija y 37 000 de móvil continúan afectados tras la DANA")
-* [Tras nueve días de la DANA, el panorama aún es desolador en España](https://www.elcomercio.com/actualidad/mundo/tras-nueve-dias-dana-panorama-desolador-espana.html "Tras nueve días de la DANA, el panorama aún es desolador en España")
-* [Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA](https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html "Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA")
+* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
+* [Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores](https://www.elcomercio.com/actualidad/quito/alarmantes-indicadores-calidad-aire-quito-uso-generadores.html "Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores")
+* [El ecuatoriano compra solo ciertos alimentos por los cortes de luz](https://www.elcomercio.com/actualidad/negocios/como-conservar-alimentos-durante-cortes-luz-ecuador.html "El ecuatoriano compra solo ciertos alimentos por los cortes de luz")
 
-“Ya pasó durante la pandemia y ahora otra vez”, añade Jhon Hoover, que vive en la **periferia de Valencia** (este), la zona más golpeada por el temporal.
+Tal como en la pandemia, las compras a mansalva
+-----------------------------------------------
 
-Jhon se dedica a arreglar electrodomésticos y en estos días lo hace para sus vecinos sin cobrar porque “hay que ayudar”, pese a que se quedó **sin trabajo tras la riada porque el agua** se llevó su moto, con la que se desplazaba a casa de sus clientes.
+Tal como en la **pandemia**, los cortes de luz **modificaron hábitos** que impactaron en los **bolsillos** y no fruto de la **crisis económica** necesariamente, sino porque objetos que nadie se había imaginado **se convirtieron de golpe en productos de primera y vitalísima necesidad**. Se compraba a mansalva **mascarillas**, **alcohol en gel**, **desinfectantes**, comida -perecible y no- y, en consecuencia, se pertrechaban de **papel higiénico**[.](https://es.wikipedia.org/wiki/COVID-19 "https://es.wikipedia.org/wiki/COVID-19")
 
-Tiene hijos que mantener y **se quedó sin trabajo**, pero Jhon no reside en España de forma regular y, por lo tanto, no puede acogerse a ningún Expediente de Regulación de Empleo Temporal (ERTE) excepcional como los que ya se están empezando a aplicar a los afectados por el temporal. Además, no tiene contrato ni documentación como trabajador por cuenta propia (autónomo).
+Con los cortes de luz hubo el mismo **fenómeno de consumo**, a pesar del impacto que provocará en la economía real. Aunque las preferencias fueron otras: generadores de luz, paneles solares, linternas, baterías, focos recargables. En las casas donde todo es eléctrico, compraron cocinetas a gas, pese a la restricción del uso de este combustible para ciertos edificios. Las UPS para dotar de energía a los routers de internet se convirtieron en la sensación.
 
-Sin ayudas laborales para trabajadores irregulares
---------------------------------------------------
+La gran diferencia: la tecnología impedida
+------------------------------------------
 
- “Entre las ayudas que anunció el Gobierno español no hay ninguna a la que se puedan acoger los migrantes en situación irregular”, lamenta el responsable de políticas de protección social y empleo de Oxfam Intermón, Alejandro Garcia-Gil.
+**Ximena Aguinaga** es una profesora que recuerda muy bien cómo en el 2020 debieron ajustarse a la tecnología. Hubo que crear **aulas virtuales.** Ahora, en cambio, deben readaptarse a lo **analógico**.
 
-“Estas personas son las que tienen los **trabajos más precarios**, que son importantísimos, como los jornaleros que cultivan lo que comemos o los que se dedican al cuidado de nuestros mayores. Son personas como todos y **están ayudando mucho a sus vecinos como todo el mundo**, pero se han olvidado de ellos en las ayudas”, critica.
+Y en este sentido, las respuestas han sido diferentes. **“Todos fuimos estudiantes con pizarra, con tizas o marcador, y el mundo sigue”.** Sin embargo, para la **nueva generación** de docentes, fue como una caída, un retroceso tan grande que no se podía hacer nada.
 
-En la misma situación que Jhon se encuentran muchas de las mujeres vinculadas con la **Asociación Intercultural de Profesionales del Hogar y de los Cuidados**, que agrupa a unas 200, en su mayoría migrantes, de zonas próximas a Valencia, coordinadas por la colombiana Marcela Bahamón.
+En el centro educativo en que trabaja se permite tener el celular a los estudiantes del Bachillerato. Sin embargo, Aguinaga ve que los apagones derivaron en algo _virtuoso_: los jóvenes comenzaron a **interactuar** más, a **charlar**, incluso a **jugar**.
 
-En el grupo hay cuidadoras que fueron despedidas de un día para otro porque sus empleadores perdieron el trabajo o la casa y no podían seguir pagándolas.
+“Como **docente** y como **mamá**, creo que ha sido **maravilloso** porque **todo lo que se conectaron desde la pandemia, debieron desconectarse**“, dice Aguinaga, con una mirada positiva la manera como reaccionaron los adolescentes ante los apagones.
 
-La mayoría cobraban por días o por semanas, perdieron su fuente de ingresos. No pueden pedir ayuda a la Administración porque no estaban legalmente contratadas, como también les ocurre a los jornaleros que no han vuelto al campo porque sigue inundado.
+Soluciones ante los apagones
+----------------------------
 
-Otros migrantes perdieron todos sus enseres, como la **hondureña Cinthya Torres**, que vivía interna en casa de la anciana a la que cuidaba y vio como el agua se lo llevaba todo.
+Aguinaga no se anima a decir que se trate de una nueva normalidad. Tampoco lo hace la psicóloga Gisella Echeverría. Para que sea una **nueva normalidad** debiera pasar más el tiempo, sin embargo, hay que pensar en las soluciones ante un posible síndrome de abstinencia tecnológica.
 
-Ella no puede pedir ninguna ayuda de vivienda “porque lo que anunció el Gobierno es una moratoria del pago de la hipoteca para los propietarios de viviendas, pero nada para inquilinos y, menos aún, para **personas que alquilan habitaciones** o viven en la casa de empleadores o amigos sin ningún papel que lo avale”, aclara Alejandro Garcia-Gil de Oxfam Intermón.
+En un mundo **hipertecnologizado** e **hipercomunicado** \-dice Echeverría-; su ausencia es un problema. Sin embargo, lo importante es **aceptar la realidad y encontrar las soluciones**.
 
-También para las ayudas a quienes hayan perdido muebles o sufrido graves desperfectos en casa “hay que presentar papeles que acrediten que resides regularmente en el país y los irregulares vuelven a quedar fuera”, continúa.
+**“La fuente mayor de sufrimiento es la falta de aceptación de la realidad**. En la medida en que más pronto aceptemos que esto ees algo con lo que debemos vivir, quién sabe por cuánto tiempo, hay que aceptar la realidad y enfocarse en las soluciones”, añade Echeverría.
 
-Además, otra de las medidas anunciadas por el Gobierno, el incremento del Ingreso Mínimo Vital para los afectados, deja fuera a quienes no lo recibieran antes del temporal, según el activista.
+Si bien en mucho estas soluciones dependen de algunos objetos materiales, se puede fortalecer el vínculo humano. “Se puede aprovechar esta escasez de luz para generar un espacio de comunicación entre la familia, que es algo que habitualmente se pierde cuando estamos conectados a los dispositivos. Volver a tener la capacidad de contar historias, de leer libros, de **llenarnos de buenas palabras**“. 
 
-“**Siempre se olvidan de los mismos** \-sentencia Marcela Bahamón-. A nuestra sociedad le falta humanidad”.
-
-Fase final de Toachi Pilatón está en marcha, según Ministerio de Energía
-========================================================================
-
-La central se alimenta de los ríos Toachi y Pilatón, ubicados en la vertiente occidental de los Andes.
-------------------------------------------------------------------------------------------------------
-
-![El Ministerio de Energía prevé que la hidroeléctrica funcione lo más pronto posible.](https://www.elcomercio.com/wp-content/uploads/2024/11/Toachi-Pilaton.jpg)
-
-La central hidroeléctrica **Alluriquín**, (Toachi Pilatón) tras más de 14 años de espera, finalmente generará energía en Ecuador. Así lo detalló el Ministerio de Energía.
-
-**Más noticias**
-
-* [El Toachi Pilatón queda a punto para arrancar su operación](https://www.elcomercio.com/actualidad/negocios/complejo-hidroelectrico-toachi-pilaton-tunel-operacion.html "El Toachi Pilatón queda a punto para arrancar su operación")
-* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/uncategorized/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
-
-**Inés** **Manzano**, ministra (e) de **Energía y Minas**, señaló que la fase final del proyecto ya está en marcha.
-
-¿Cuándo comenzará a funcionar la hidroeléctrica?
-------------------------------------------------
-
-“Hemos iniciado la cuenta regresiva. A finales de diciembre ya contaremos con energía eléctrica de la central”, indicó **Manzano** en un evento donde se cerraron las compuertas de la presa del río **Toachi**, paso necesario para acumular el agua que permitirá iniciar las pruebas.
-
-El proyecto **Toachi Pilatón**, con una capacidad de 204 MW, es parte de un esfuerzo por ampliar la generación eléctrica en el Ecuador.
-
-Durante el acto, estuvieron presentes funcionarios como el viceministro de **Electricidad** y Energía Renovable, Fabián Calero Freire; el gerente general de **Celec** EP, Gustavo Sánchez Íñiguez. Además de técnicos de la Unidad de Negocio **Hidrotoapi** y representantes de las empresas contratistas.
-
-> 📍 BOLETÍN DE PRENSA  
->   
-> Inicia la cuenta regresiva para la generación de energía de Toachi Pilaton después de 14 años  
->   
-> ✅ Más información: [https://t.co/K4uidRAcPM](https://t.co/K4uidRAcPM) [pic.twitter.com/9W0WQzJXFh](https://t.co/9W0WQzJXFh)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 9, 2024](https://twitter.com/RecNaturalesEC/status/1855091178351309028?ref_src=twsrc%5Etfw)
-
-Llenado del embalse
--------------------
-
-El llenado del embalse se llevará a cabo de manera gradual en un periodo de 45 días. Esto, para evitar afectaciones en la **infraestructura** de la presa y los taludes del río.
-
-Posteriormente, comenzarán las pruebas de **funcionamiento** en las unidades de generación.
-
-La primera unidad se espera que esté operativa a finales de **diciembre**, la segunda en **enero** y la tercera en **febrero**, con lo cual se alcanzará la potencia total de 204 MW.
-
-¿Dónde se encuentra la central Toachi Pilatón?
-----------------------------------------------
-
-La central **Toachi Pilatón**, que registra un avance del 98%, se encuentra en los límites de **Pichincha**, **Santo Domingo** de los Tsáchilas y **Cotopaxi**.
-
-Esta central se alimenta de los ríos **Toachi** y **Pilatón**, ubicados en la vertiente occidental de los Andes, lo que permitirá aprovechar la generación eléctrica durante los períodos de estiaje en la vertiente oriental del Ecuador.
-
-CATS, la buena comida de un restaurante clásico de Quito
-========================================================
-
-CATS Restaurante fue un innovador de las noches quiteñas, desde que abrió sus puertas en los 90, en la zona de La Mariscal.
----------------------------------------------------------------------------------------------------------------------------
-
-![Álvaro Hernández (d) es el chef de CATS Restaurante, un icono de la ciudad de Quito, y el Señor del Sombrero.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-42.jpg)
-
-**CATS** es de esos pocos **restaurantes** que ha sabido permanecer en el **tiempo**. No es una tarea fácil. Hubo tantos restaurantes, bares y discotecas que aparentaban ser sólidos para mantenerse en pie. Muchos no pudieron superar la prueba de las tres décadas. Eso no pasó con **CATS**, que lleva ya **35 años** ofreciendo **buena comida** y un **buen ambiente**. Es ya un **clásico de la gastronomía de Quito.** Y hasta allá fue el **Señor del Sombrero**, en esta vuelta a **EL COMERCIO**, para disfrutar de lo **nuevo** sin dejar de lado la **memoria**.
-
-### Más noticias
-
-* [Carbonara auténtica, un viaje a Roma desde Guayaquil](https://www.elcomercio.com/videos/sabores-video/carbonara-autentica-viaje-alfiume-restaurante.html "Carbonara auténtica, un viaje a Roma desde Guayaquil")
-* [Iche, el sabor de Manabí que renace desde las raíces](https://www.elcomercio.com/empresariales/iche-el-sabor-manabi-que-renace-desde-las-raices.html "Iche, el sabor de Manabí que renace desde las raíces")
-* [Cafetería Modelo, 74 años de tradición en la gastronomía de Quito](https://www.elcomercio.com/tendencias/gastronomia/cafeteria-modelo-74-anos-tradicion-gastronomia-quito.html "Cafetería Modelo, 74 años de tradición en la gastronomía de Quito")
-
-CATS irrumpe en el Quito de los 90
+La no tan fácil “nueva normalidad”
 ----------------------------------
 
-Para dimensionar más lo que representa **CATS** como un **restaurante innovador** en Quito, habría que pensar cómo era la vida nocturna para adolescentes y jóvenes de los años 80. Había pocos lugares a donde ir por las noches. Las fiestas eran en casas o las organizaban el curso de algún colegio en alguna de las sedes que los nacidos en otras provincias tenían en Quito.
+Sin embargo, lo que complica son los **cambios repentinos en los horarios de cortes**, que hacen que la incertidumbre sea mayor y **se compliquen las adaptaciones**. Así, muchos pueden contar de las tensiones entre vecinos.
 
-**CATS** fue uno de los **innovadores** de los restaurantes de Quito en los años 90. En el fondo, es uno de los testigos más importantes de una época, la de los orígenes de La Mariscal como epicentro de la naciente movida nocturna quiteña. Abrió sus puertas en 1990, cuando esos adolescentes y jóvenes de los 80 ya trabajaban y buscaban alguna experiencia diferente que no excluyera la diversión. Y la encontraron en este restaurante, cuyo nombre provino en mucho por al musical de Andrew Lloyd Weber[.](https://es.wikipedia.org/wiki/Cats "https://es.wikipedia.org/wiki/Cats")
+Los chats barriales en **WhatsApp**, por ejemplo, han sido los lugares de las disputas entre aquellos que **tienen generador y los que no**. Otros, en cambio, exigen que se implementen cambios en los conjuntos.
 
-**Esa experiencia nueva era la comida.** La idea de pasar un buen momento, tomarse un buen trago, con buena música, fundamentalmente rock, y, a la vez, comer bien, no era común. Y fue bien recibido; tanto, que ha perdurado hasta estos días y en estos tiempos en que todo debe ser efímero para dar paso a la constante irrupción de lo nuevo.
+Lo que nadie se animó a decir, como en la pandemia, es que de los apagones saldremos **mejores seres humanos.**  
 
-Los cambios necesarios en CATS
-------------------------------
+Miles de personas exigen la dimisión del presidente de Valencia
+===============================================================
 
-Con la llegada del covid-19, el chef de CATS, **Álvaro Hernández**, y su esposa **Michelle Burbano,** sintieron que debían buscar un nuevo espacio. Su local original era muy acogedor, pero quizá no tan apropiado para una pandemia que obligó a los individuos a distanciarse socialmente. Además, La Mariscal, como epicentro de la vida nocturna de Quito, entró en crisis. Y no pudieron encontrar mejor lugar que el que tiene ahora en Cumbayá, en la calle Manuela Sáenz.
+La indignación de los valencianos se debe a la tardanza de información del peligro y la falta de respuesta oportuna de los gobiernos regional y central.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**CATS restaurante** tiene un estilo moderno, diferente a ese nostálgico diseño de las casas modernistas de La Mariscal. Tiene grandes ventanales que permiten gozar de la vista hacia el valle de Tumbaco y más allá. Mantiene elementos de la decoración original: afiches de películas y de música, sobre todo rock & roll: Pink Floyd, Led Zeppelin, Jimmy Hendrix. Eso permite que uno disfrute del nuevo local con algo de memoria, que siempre viene bien.
+![Una multitud se concentró en Valencia para exigir la salida del presidente Mazón.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-35-1.jpg)
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-25-1024x683.jpg)
+**Miles de personas** participaron hoy 9 de noviembre del 2024, contra el presidente de la región mediterránea española de **Valencia**, **Carlos Mazón.** Los valencianos exigen su **dimisión** por la **catástrofe** causada por la **DANA**, las lluvias torrenciales del 29 de octubre de este año, y la **tardanza**, según los convocantes, en avisar a la población del peligro.
 
-El atardecer en Cumbayá, en donde se encuentra ahora CATS. Foto: Diego Pallero / EL COMERCIO
+Más noticias
+------------
 
-CATS se renueva con un homenaje al Paiche
------------------------------------------
+* [La vida en Valencia a 10 días de la DANA](https://www.elcomercio.com/actualidad/mundo/vida-valencia-10-dias-dana.html "La vida en Valencia a 10 días de la DANA")
+* [Justicia de Valencia remite al Supremo una demanda por ‘inacción’ del Gobierno en la DANA](https://www.elcomercio.com/actualidad/mundo/justicia-valencia-remite-supremo-una-demanda-inaccion-gobierno-dana.html "Justicia de Valencia remite al Supremo una demanda por ‘inacción’ del Gobierno en la DANA")
+* [Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA](https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html "Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA")
 
-Si el año pasado, el chef Álvaro Hernández nos sorprendió con sus riñones, este año, hace no más de dos semanas, está innovando su menú con el paiche, un pescado amazónico que tiene una textura firme, ideal para ir con su salsa americana con mariscos, o la holandesa, que nos ofrece en una tarde de noviembre.
+Miles piden la renuncia del presidente de Valencia
+--------------------------------------------------
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-26-1024x683.jpg)
+Los participantes –**130 000 personas**, según la Delegación del Gobierno en la región- respondieron al llamado realizado por organizaciones sociales, cívicas y sindicatos de izquierda con el lema ‘Mazón, dimisión’. El temporal dejó al menos **214 muertos**, decenas de **desaparecidos**, miles de **damnificados** y daños materiales multimillonarios en **75 municipios de la provincia** costera de Valencia.
 
-Paiche en salsa americana con mariscos (izq.) y en salsa holandesa. Dos preparaciones distintas que alegran el sabor de este pescado amazónico. Foto: Diego Pallero / EL COMERCIO
+Al término de la **marcha**, un grupo de manifestantes protagonizó **enfrentamientos** con la **Policía Nacional** en el centro de la ciudad. Hasta entonces, la manifestación se había desarrollado **sin incidentes** de gravedad, a excepción del lanzamiento de algunas bengalas y barro contra el Consistorio, tras el arranque de la cabecera, y que requirió la intervención de las **unidades antidisturbios de la Policía Nacional.** También lanzaron barro y pintura contra el Palau de la Generalitat, sede del Gobierno regional.
 
-Paiche, en salsa americana y mariscos
--------------------------------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-33-1-1024x683.jpg)
 
-Con este plato, **Álvaro** nos muestra su conocimiento de los productos con los que trabaja y el valor que le da a la calidad y sobre cómo proceder con ellos. Hay **mucha técnica**, que no excluye la **sencillez**, que deja en el paladar una **eclosión de sabores.**
+Valencia contra Mazón
+---------------------
 
-El pescado va a la plancha. Aparte, en una sartén caliente combina primero aceite de cebolla y de ajo. Luego van los primeros mariscos: **calamar** y **mejillón**, a los que agrega la **salsa**, preparada previamente con las **cáscaras del camarón.** Hay un perfume que evoca a mar, aunque sepamos que la estrella del plato es el paiche amazónico. Es un encuentro feliz, al que luego se suma el camarón, cocido brevemente para que mantenga su textura.
+En la ciudad de **Valencia**, la pancarta de cabecera, con el lema de la manifestación, incluía una **imagen de Mazón cabeza abajo** y ataviado con el chaleco de emergencias. El manifiesto de la movilización recoge los reclamos de las 65 entidades convocantes, apoyadas por otras 83.
 
-Cuando emplata, coloca una cama de vegetales con un toque ahumado. Hay un ingrediente que sorprende y se vuelve interesante en este plato, que le da una textura diferente y un contraste geográfico: habas. Se trata de un plato que bien valió la pena su incorporación al menú.
+Los asistentes tanto de la ciudad de Valencia como de municipios castigados por las inundaciones corearon gritos de **“asesino” y “dimisión”**. Llevaban carteles con mensajes que denunciaban la tardanza con que llegaron los avisos de peligro a la población[.](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a "https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a")
 
-Paiche, en salsa holandesa
---------------------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-34-2-1024x683.jpg)
 
-En este plato, se entiende la meticulosidad con la que un cocinero debe trabajar sus ingredientes. Y eso hizo Álvaro al elaborar la salsa holandesa. Fue una tarea que demanda paradójicamente agitación y paciencia.
+¿La no politización de la marcha?
+---------------------------------
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-27-1024x683.jpg)
+Los **organizadores** pidieron que la manifestación transcurriera en silencio, **sin ropa manchada de barro y se evitaran mensajes violentos.**
 
-La meticulosidad con la que trabaja la salsa holandesa se percibe desde el primer momento en que se la prueba con el paiche. Foto: Diego Pallero / EL COMERCIO
+**Beatriz Cardona,** una de las portavoces de esta protesta, explicó que “**quien quiera aprovecharse políticamente de la situación, se ha equivocado de manifestación”.**
 
-El toque de **vinagre** y la yema del **huevo** llegan a tener dos cosas que van muy bien con los pescados: una **textura cremosa y uniforme**, con el toque de **acidez** tan agradable. El pescado a la plancha mantuvo su consistencia y lo coloca sobre una piedra, que fue calentada previamente en el horno. Y los vegetales le dan la frescura pertinente a un plato tan sabroso.
+Según progresan la búsqueda de desaparecidos, la limpieza y la reconstrucción de los daños del desastre natural, **avanza también la confrontación política** sobre la gestión de la catástrofe.
 
-**CATS es un restaurante de Quito inolvidable**. El buen ambiente, el humor, el sentido de lo bohemio se destacan en este lugar, que no perdió sus raíces de La Mariscal, pero que supo mirar hacia adelante.
+El **Ejecutivo central** y el **gobierno valenciano** se han **cruzado acusaciones de tardanza** sobre cuándo se comunicó la previsión de lluvias torrenciales y cuándo se avisó a la población para que permaneciera en lugares seguros.
 
-Ajustes en los horarios escolares por cortes de luz en Ecuador
-==============================================================
+No obstante, **Carlos Mazón** dijo hoy que la**s responsabilidades políticas “tocarán en su momento”**, pues la prioridad es atender a los afectados. Igualmente, el ministro del Interior, Fernando Grande-Marlaska, rechazó entrar en “polémicas”.
 
-El ajuste de los horarios escolares se debe a los cambios en los cortes de luz en Ecuador.
-------------------------------------------------------------------------------------------
+Noboa tilda de “absurdo” el rechazo a la Cumbre Iberoamericana del Comité que apoya a Glas
+==========================================================================================
 
-![Los nuevos horarios fueron compartidos por el Ministerio de Educación.](https://www.elcomercio.com/wp-content/uploads/2024/11/Clases-horarios.jpg)
+Glas fue uno de los hombres fuertes del Gobierno de Rafael Correa (2007-2017) y fue vicepresidente.
+---------------------------------------------------------------------------------------------------
 
-El **Ministerio de Educación** informó sobre el funcionamiento de los **horarios escolares** del 11 al 15 de noviembre debido a los **cortes de luz en Ecuador[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")**
+![Daniel Noboa, participó de la sesión solemne por los 104 años de cantonización de la ciudad de Manta.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-19-1.jpg)
+
+El presidente de Ecuador, **Daniel Noboa**, tildó el viernes 8 de noviembre de 2024 de “absurdo” el rechazo a la realización de la XXIX Cumbre Iberoamericana de Jefes de Estado y de Gobierno, prevista para la próxima semana en la ciudad de Cuenca, por parte del Comité Internacional para la Libertad de Jorge Glas, exvicepresidente de Rafael Correa.
+
+“Ya estaban tardando… Ahora resulta que no quieren que la XXIX Cumbre Iberoamericana sea en Cuenca. Quieren que el reconocimiento internacional, el turismo y la reactivación económica vaya hacia otro lado”, escribió Noboa en su cuenta de la red social X.
+
+“Rechazar la Cumbre por un delincuente, no solo es absurdo, sino que demuestra un claro desprecio por el bienestar de Cuenca y de los ecuatorianos, pero todos sabemos cómo son”, agregó el mandatario sin nombrar explícitamente a Glas, condenado por corrupción y detenido en la Embajada de México en Quito el pasado 5 de abril cuando acaba de recibir asilo diplomático.
+
+Más temprano, el comité que exige la libertad del exvicepresidente dijo en un comunicado que le resultaba “muy extraño, y contrario a los postulados que el foro iberoamericano enarbola, llevar adelante una cumbre bajo los auspicios de un gobierno responsable de violaciones de las más mínimas normas de convivencia entre Estados”.
+
+Y añadió que el Gobierno “mantiene como secuestrado a una persona que está bajo la protección del derecho de asilo”, en referencia a la permanencia del exvicepresidente en La Roca, la cárcel de máxima seguridad de Ecuador, a la que fue llevado tras la incursión policial en la Embajada mexicana.
+
+El Comité instó a que no pase desapercibida en el foro “la más grave afrenta cometida en nuestra región en los últimos tiempos en contra de los principios y propósitos de la Carta de las Naciones Unidas”.
+
+Además, urgió a la Secretaría General Iberoamericana (Segib) a que interponga “sus buenos oficios” para garantizar la integridad física y la vida de Glas, y para respaldar la solicitud que el Gobierno mexicano hizo, a través de la Embajada de Suiza, para que se le otorgue un salvoconducto y se respete su estatus de asilado diplomático.
+
+El escrito fue firmado, entre otros por Adolfo Pérez Esquivel, premio Nobel de la Paz; el exjuez español Baltazar Garzón, el exvicepresidente del Gobierno español Pablo Iglesias y otros miembros de Podemos como su secretaria general Ione Belarra y la eurodiputada y exministra Irene Montero.
+
+También figura el excanciller peruano Héctor Béjar y el exministro boliviano Sacha Llorenti, entre otros integrantes de la izquierda de los países de Hispanoamérica.
+
+Glas fue uno de los hombres fuertes del Gobierno de Rafael Correa (2007-2017) y ocupó el cargo de vicepresidente entre 2013 y 2017, así como durante los primeros meses del gobierno de Lenín Moreno (2017-2021), hasta que comenzaron las investigaciones en su contra, imputaciones y acusaciones que siempre ha rechazado al declararse un perseguido político.
+
+En el momento de su detención en la Embajada de México en Quito, Glas tenía pendiente terminar de cumplir una sentencia de ocho años de cárcel por dos condenas por corrupción dictadas en 2017 y 2020, por las que ya había purgado alrededor de cinco años cuando salió en libertad a finales de 2022 por orden de un juez que este año fue condenado a dos años de prisión por prevaricación en esa decisión.
+
+La orden judicial de detención contra Glas se emitió en el marco de un tercer proceso penal en su contra por presunto peculado (malversación de fondos públicos) en las obras de reconstrucción tras el terremoto de 2016.
+
+México y Ecuador se han contrademandado ante la Corte Internacional de Justicia por los hechos de abril, con acusaciones mutuas de haber transgredido convenios y normas internacionales.
+
+Más diseñadores internacionales se suman al ‘Quito Fashion Week’
+================================================================
+
+Durante el encuentro se presentarán las tendencias de la moda global en Quito.
+------------------------------------------------------------------------------
+
+![La Quito Fashion Week se llevará a cabo del 28 de noviembre y el 3 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/quito-fashion-week-quito-El-Comercio.jpg)
+
+La diseñadora colombiana **Cintia Mosquera**, el italo-helvético **Giovanni LoPresti** y la panameña **Zunilda Gutiérrez** se suman a los nombres que participarán en la primera edición de la ‘**Quito Fashion Week**’, la semana de la moda de la capital ecuatoriana, donde también presentarán colecciones [Custo Barcelona](https://es.wikipedia.org/wiki/Custo_Dalmau "https://es.wikipedia.org/wiki/Custo_Dalmau") y **[Ágatha Ruiz de la Prada](https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-ecuador.html "https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-ecuador.html")**.
+
+“Los diseñadores presentarán las tendencias de la moda global en Quito, consolidando el evento como un verdadero encuentro de culturas y estilos”, expresaron los organizadores del evento este viernes en un comunicado.
 
 ### Más noticias
 
-* [Ecuador tiene nuevos horarios de cortes de luz hasta el jueves 14 de noviembre](https://www.elcomercio.com/actualidad/ecuador/ecuador-nuevos-horarios-luz-14-noviembre.html "Ecuador tiene nuevos horarios de cortes de luz hasta el jueves 14 de noviembre")
-* [Cortes de luz en Quito para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-sabado-9-de-noviembre.html "Cortes de luz en Quito para este sábado 9 de noviembre")
-* [Cortes de luz en Guayaquil para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-sabado-9-de-noviembre.html "Cortes de luz en Guayaquil para este sábado 9 de noviembre")
+* **[¿Quién es Ágatha Ruiz de la Prada?](https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html "https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html")**
+* **[¿Qué colores combinan con vino tinto?](https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html "https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html")**
 
-Este comunicado detalla que estas medidas se establecen en función de las **actualizaciones** del Operador Nacional de Electricidad (**Cenace)**.
+Custo Barcelona, del diseñador español Custo Dalmau, regresará a Ecuador tras su participación el año pasado en la ‘Quito Fashion Night’, y la diseñadora española Agatha Ruíz de la Prada llevará por primera vez su estilo colorido y creatividad a la pasarela quiteña.
 
-Horarios escolares en Ecuador:
-------------------------------
+El evento ha evolucionado de ser una única velada para convertirse en un festival de varios días, que se celebrará entre el 28 de noviembre y el 3 de diciembre de 2024 en la capital.
 
-* **Jornada matutina:** tanto el ingreso como la salida se mantienen en los horarios habituales.
-* **Jornada vespertina:** comienza en el horario establecido y culmina a las 17:00.
-* **Jornada nocturna:** se desarrollará de manera no presencial, y los docentes implementarán recursos académicos y guías pedagógicas para asegurar la continuidad educativa.
+Sus asistentes podrán disfrutar de desfiles de alta moda, espacios de conexión y aprendizaje y ‘pop ups’ (tiendas efímeras) de marcas del diseño global.
 
-Por otro lado, el **Ministerio de Educación** señala que las instituciones educativas particulares, fiscomisionales y municipales pueden optar por adoptar estas medidas o, si lo prefieren, establecer sus propias estrategias, siempre que se garantice la continuidad del **proceso educativo.**
+Diseño nacional estará presente
+-------------------------------
 
-Cortes de luz en Ecuador se amplían a ocho horas 
--------------------------------------------------
+A su vez formarán parte del evento representantes del talento ecuatoriano con diseñadores nacionales como Gustavo Moscoso, Milú Espinoza, y Nancy Espinoza de Ámbar & Arena.
 
-Por su parte, la ministra de **Energía** encargada, Inés **Manzano**, abordó este viernes 8 de noviembre la **crisis energética** en Ecuador.
+La principal cita de la moda en Ecuador contará también con invitados especiales como José Fortaleza, editor la edición para Latinoamérica de la revista Vogue, y Claudia Zuleta, reconocida diseñadora, directora creativa y estilista de celebridades.
 
-En una entrevista para Ecuavisa, anticipó que los cortes de luz se extenderán a ocho horas a partir de la próxima semana, ya que el país no cuenta con las condiciones adecuadas para mantener cortes de seis horas. Esta decisión se tomó tras un análisis y monitoreo diario de las **condiciones de las hidroeléctricas.**
+Junto a otros expositores de renombre, participarán en los espacios ‘3C Conferencias, Charlas y Conversatorios’, donde compartirán su visión sobre el futuro de la moda.
 
-Asimismo, con base en estas evaluaciones, se establecen cronogramas en bloques que abarcan de domingo a jueves, permitiendo de este modo que las actividades puedan programarse de acuerdo con la planificación.
+Es oficial, final de Copa Ecuador se disputará en otro estadio y ciudad
+=======================================================================
 
-“Debido a que las **lluvias** están previstas para el fin de semana, es necesario preservar la poca agua disponible en los embalses”, explicó Manzano.
+El presidente de la FEF, Francisco Egas, confirmó que la final de la Copa Ecuador se jugará en Quito.
+-----------------------------------------------------------------------------------------------------
 
-Cortes de luz hasta el jueves 14 de noviembre 
+![El cuadro militar y los del Valle definirán al campeón de la Copa Ecuador 2024](https://www.elcomercio.com/wp-content/uploads/2024/11/nacional-idv-copa-ecuador.jpg)
+
+El Presidente de la Federación Ecuatoriana de Fútbol (**FEF**) confirmó que la **Copa Ecuador** cambiará la **sede de la final**, por petición de los equipos en disputa.
+
+### Más noticias
+
+* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
+* [Votaciones para Daniel Pintado como mejor atleta del año están por finalizar](https://www.elcomercio.com/deportes/otros/votaciones-daniel-pintado-mejor-atleta.html "Votaciones para Daniel Pintado como mejor atleta del año están por finalizar")
+* [Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-bolivia.html "Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador")
+
+En conversación con medios de comunicación, **Francisco Egas** oficializó que el partido entre **Independiente del Valle** y **El Nacional** no se jugará en el **Estadio de Ibarra**, cómo se tenía programado.
+
+Ahora, el partido que definirá al campeón de la tercera edición de este torneo se realizará en **Quito**.
+
+El Nacional e IDV, los finalistas de la Copa Ecuador
+----------------------------------------------------
+
+El **Nacional e Independiente del Valle** disputarán la final de la Copa Ecuador 2024, torneo organizado por la Federación Ecuatoriana de Fútbol (FEF).
+
+Para llegar a la final, El Nacional derrotó en las semifinales a **Mushuc Runa**, por un marcador global de 4-1, con lo que abrió la puerta para obtener un título nacional después de 18 años, tras el campeonato logrado en 2006.
+
+Por su parte, Independiente del Valle dejó en el camino a **Universidad Católica de forma dramática**. En los partidos de ida y vuelta el marcador fue de 2-2 y en los penales los del Valle se impusieron por 6-5, con Moisés Ramírez como una de la figuras.
+
+La FEF, inicialmente, decidió que la final entre los dos equipos de Quito se juegue, el miércoles 27 de noviembre, **en el Estadio Olímpico de Ibarra**, escenario ubicado a 113 kilómetros de distancia de la capital ecuatoriana.
+
+Esta decisión no gustó a los equipos capitalinos, quienes ambos solicitaron que el partido final se juegue en sus cercanías[.](https://es.wikipedia.org/wiki/Copa_Ecuador "https://es.wikipedia.org/wiki/Copa_Ecuador")
+
+¿En qué estadio se jugará la final de la Copa Ecuador?
+------------------------------------------------------
+
+Francisco Egas confirmó que la final de la Copa Ecuador entre los **rojos y los rayados** se jugará en el **Estadio Rodrigo Paz Delgado**, propiedad de Liga de Quito.
+
+Este estadio ya recibió una final de este torneo en **2019**, cuando los ‘albos’ recibieron a Delfín en la ida.
+
+El **Rodrigo Paz Delgado**, también conocido como “Casa Blanca”, tiene una capacidad reglamentaria de **41 575 espectadores**; superior a las cerca de 18 000 personas que entraban en el Estadio de Ibarra.
+
+La hora del partido final no se ha confirmado aún, como el **valor de las localidades**. Se espera que en los próximos días se conozcan estos detalles.
+
+Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024
+========================================================================
+
+Por la baja de los caudales a las centrales hidroeléctrica y el mantenimiento de otras, los cortes de luz aumentaron a 12 horas en todo el país.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil serán de 12 horas durante el fin de semana del 9 y 10 de noviembre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-31.jpg)
+
+Tras el anuncio del **Ministerio de Energía y Minas** sobre el aumento de los cortes de luz, se presentaron los **nuevos horarios** de **apagones** en la ciudad de **Guayaquil**.
+
+### Más noticias
+
+* [Consejos de salud mental para sobrellevar los apagones](https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html "Consejos de salud mental para sobrellevar los apagones")
+* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
+* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
+
+Guayaquil, sin luz por 12 horas
+-------------------------------
+
+Como en el resto del país, en **Guayaquil** los **cortes de luz** tendrán una duración de **12 horas**, para el fin de semana del **9 y 10 de noviembre del 2024.**
+
+Según el **Gobierno**, se recurre a esta medida para **proteger los embalses**, que están en un punto crítico por la **escasez de lluvias**.
+
+La **Corporación Nacional de Electricidad** (CNEL) entregó la distribución de los apagones en Guayaquil para este fin de semana, que se podrá seguir en el siguiente cuadro:
+
+Cortes por la baja de las cotas
+-------------------------------
+
+Los **cotas** de los embalses de las **centrales hidroeléctricas** están en **niveles críticos**. La central de **Mazar** dejó de operar a las 13:00 de este 9 de noviembre del 2024. También están acercándose al mínimo **Minas San Francisco** y **Amaluza**.
+
+Para el **Ministerio de Energía y Minas**, la decisión repentina de aumentar los cortes de luz hasta las 12 horas diarias es la del mantenimiento de algunas centrales, como **Agoyán**, **San Francisco** y otras plantas térmicas.
+
+En su comunicado, el Ministerio señaló que “estos **mantenimientos son indispensables** para asegurar la continuidad y seguridad del **Sistema Eléctrico Nacional**, así como para prevenir fallas mayores”[.](https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador) "https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador)")
+
+Sin embargo, hay quejas de los usuarios porque no se respetaron los horarios. Así, en su cuenta de X, Michelle Paredes escribió que en su vecindario, Mucho Lote 2, no correspondía el corte de luz, sin embargo, le cortaron el suministro de energía.
+
+> Acaban de cortar la energía en la cuarta etapa de Mucho Lote 1 y se supone que era de 13h00 a 16h00. 😡
+> 
+> — Michelle Paredes 🫀 (@AndryMichelleP) [November 9, 2024](https://twitter.com/AndryMichelleP/status/1855288017272942719?ref_src=twsrc%5Etfw)
+
+Fallece Tony Todd, estrella de la película de terror ‘Candyman’
+===============================================================
+
+Fue una figura querida tanto por su trabajo en el cine como por su carácter humano
+----------------------------------------------------------------------------------
+
+![Uno de los papeles más reconocidos de Tony Todd fue el de Candyman.](https://www.elcomercio.com/wp-content/uploads/2024/11/candyman-quito-El-Comercio.jpg)
+
+El reconocido actor Tony Todd, famoso por sus papeles emblemáticos en las sagas de Candyman y Destino final, murió a los 69 años tras una larga enfermedad. El deceso ocurrió el miércoles 6 de noviembre de 2024 en su hogar en California, según confirmó su esposa, Fatima, a The Hollywood Reporter.
+
+A pesar de la confirmación, no se han revelado detalles sobre la naturaleza de su enfermedad. Todd, conocido por su profunda voz y su presencia en pantalla y deja un legado que abarca varias décadas de trabajo en cine y televisión.
+
+**Una carrera llena de personajes memorables**
 ----------------------------------------------
 
-En cuanto a la **programación** de los **cortes de luz** en Ecuador, desde el domingo 10 hasta el jueves 14 de noviembre, se incluyen cortes de ocho horas para el **sector** **residencial**.
+Tony Todd comenzó su carrera como actor de carácter, destacándose en diversos papeles en producciones como _Beverly Hills, 90210_ , _Night of the Living Dead_ , _Platoon_ , y _The Rock_ , entre otras.
 
-Por otro lado, los sectores industriales tendrán franjas horarias variables según la provincia.
+Sin embargo, su mayor reconocimiento llegó con su interpretación del temible ‘Candyman’ en la saga homónima, y ​​por su participación en _Destino Final_ , donde encarnó al misterioso hombre que anunciaba la muerte inminente.
 
-Adicionalmente, cada **empresa eléctrica** informará los cronogramas de los sectores que cubren. Las entidades a cargo de la distribución del servicio en Ecuador son:
+A lo largo de su carrera, Todd expresó en varias entrevistas su amor por la actuación teatral y su deseo de interpretar una variedad de personajes en lugar de encasillarse en un solo tipo de rol. En una reciente entrevista con _MovieWeb_, Todd mencionó su pasión por el teatro y la colaboración en cine, destacando que todas las películas son una “colaboración” entre actores y cineastas.
 
-* Corporación Nacional de Electricidad (CNEL)
-* Empresa Eléctrica Quito
-* Emel Norte
-* Empresa Eléctrica Cotopaxi
-* Empresa Eléctrica Ambato Regional Centro Norte
-* Empresa Eléctrica Riobamba
-* Centro Sur
-* Empresa Eléctrica Azogues
-* Empresa Eléctrica Regional del Sur
+**Homenajes y recuerdos de sus compañeros**
+-------------------------------------------
 
-Para finalizar, se informa que para conocer el horario de cortes en cada sector, se puede visitar la página web de la empresa eléctrica correspondiente a cada provincia o el sitio web del Ministerio de Energía, donde están disponibles los cronogramas de las nueve entidades.
+El legado de Todd fue rápidamente reconocido en redes sociales, donde muchos rindieron homenaje a su talento. La productora de _Final Destination_ , New Line Cinema, expresó a través de Instagram: “La industria ha perdido a una leyenda. Nosotros hemos perdido a un amigo muy querido. Descansa en paz, Tony”.
 
-¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?
-======================================================================
+Además de su esposa, Todd deja a dos hijos, Alex y Ariana, y una carrera que será recordada por sus contribuciones al cine de terror y su incansable deseo de reinventarse como actor.
 
-La Vuelta a Ecuador de ciclismo contará con 15 equipos que estarán presentes durante siete etapas de trayecto y disputarán seis maillots.
------------------------------------------------------------------------------------------------------------------------------------------
+**Las cinco películas más importantes de Tony Todd**
+----------------------------------------------------
 
-![Bayron Guamá, cuatro veces ganador de la Vuelta a Ecuador, en una competencia ciclística.](https://www.elcomercio.com/wp-content/uploads/2024/11/Snapinsta.app_448763421_17990459402655416_3505745869362022165_n_1080.jpg)
+### Candyman (1992)
 
-La **Vuelta a Ecuador** de ciclismo está por arrancar y ya tiene a sus equipos confirmados para la competencia. El evento que se llevará a cabo entre el 11 y el 17 de noviembre del 2024 contará con 15 equipos de acuerdo a la **Federación Ecuatoriana de Ciclismo (FEF)**.
+Su papel como el aterrador Candyman lo convirtió en una leyenda del cine de terror y le dio reconocimiento internacional.
 
-A partir del lunes 11 de noviembre, los elencos iniciarán su rodaje desde Calacalí (Pichincha) yen la primera de las **siete etapas** que contemplará el evento. El fin de la carrera ciclística será en Quito, adonde ingresarán los participantes tras haber recorrido las regiones costa y sierra del país.
+### Destino final (2000)
+
+Interpretó a Bludworth , un personaje clave que alerta a los protagonistas sobre la muerte inminente, un papel que lo consolidó en el cine de terror.
+
+### Platoon (1986)
+
+Su debut en una gran producción, trabajando con Oliver Stone y un elenco de estrellas como Forest Whitaker y Willem Dafoe.
+
+### The Rock (1996)
+
+Un papel en esta exitosa película de acción junto a Sean Connery y Nicolas Cage le dio un mayor reconocimiento en Hollywood.
+
+### La noche de los muertos vivientes (1990)
+
+Tony Todd protagonizó este remake de culto, interpretando a Ben , un papel icónico en el cine de zombies
+
+Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa
+================================================================================
+
+Los 'albos' quieren final. Liga de Quito superó a los del Valle en su estadio y ahora van por la segunda etapa de la Liga Pro.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Liga de Quito le dio la vuelta al partido y se llevó la victoria con un 2 a 1](https://www.elcomercio.com/wp-content/uploads/2024/11/liga-quito-idv.jpg)
+
+En un **vibrante partido** que tuvo grandes ocasiones de gol, **Liga Deportiva Universitaria de Quito** ganó a **Independiente del Valle** y se colocó como líder en la tabla de posiciones de la **Liga Pro**.
+
+### Más noticias
+
+* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
+* [Votaciones para Daniel Pintado como mejor atleta del año están por finalizar](https://www.elcomercio.com/deportes/otros/votaciones-daniel-pintado-mejor-atleta.html "Votaciones para Daniel Pintado como mejor atleta del año están por finalizar")
+* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
+
+Los ‘albos’ y los ‘rayados’ se enfrentaron en un **apasionante duelo** a las 15:30 de este sábado 9 de noviembre de 2024, por la decimotercera fecha de la segunda fase del torneo local.
+
+La **final adelantada** se vivió como tal, con duelos individuales, ataques directos y gritos de gol para ambos equipos.
+
+Una final adelantada
+--------------------
+
+Liga de Quito llegó segunda en la tabla de posiciones con **26 puntos**, por detrás de Independiente del Valle, que llegó con la misma cantidad de puntos, pero con un gol más de diferencia.
+
+Los de Sangolquí se jugaban un partido especial; el objetivo era ganar para liquidar las aspiraciones de LDU y adueñarse de la segunda etapa. Con la victoria, el título estaba casi en sus manos a falta de **dos fechas**.
+
+Sin embargo, el ‘**Rey de Copas**‘ no quería dejar de pasar la oportunidad para superar a los punteros y forzar con ello una ‘**finalísima**‘.
+
+Liga de Quito ganó y se consolida para ganar la etapa
+-----------------------------------------------------
+
+### Primer tiempo
+
+El duelo entre Pablo ‘**Vitamina**‘ Sánchez, de Liga, y **Javier Gandolfi**, de IDV se lo llevó el técnico ‘albo’.
+
+Los blancos hicieron sentir su localía en el **Estadio Rodrigo Paz Delgado** y lograron remontar un 0 a 1.
+
+El goleador del cuadro del Valle, el colombiano **Jeison Medina**, abrió el marcador a los 17 minutos con un ‘golazo’ desde fuera del área
+
+> JEISOOOOOON 🔪 GOLAZO  
+>   
+> Error de Richard Mina en la salida y Medina sacó un remate colocado para poner el 0-1 de [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw). 🫢[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gkuzBlr74l](https://t.co/gkuzBlr74l)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 9, 2024](https://twitter.com/zapping_ecu/status/1855353633585676297?ref_src=twsrc%5Etfw)
+
+Liga se mostró ‘respetuosa’ con su rival en el primer tiempo, con un **fútbol directo** y sin muchas ideas colectivas.
+
+Pero todo cambió en los minutos finales del primer tiempo, a los 45+2′, el máximo anotador de la Liga Pro, el paraguayo **Alex Arce** empató el cotejo y sumó 21 tantos en la actual temporada.
+
+Este gol **subió el ánimo** de los locales y le dio otra cara al partido de Liga en el segundo tiempo.
+
+> ✈️🇵🇾 [pic.twitter.com/hYo8Duq58i](https://t.co/hYo8Duq58i)
+> 
+> — LDU Oficial (@LDU\_Oficial) [November 9, 2024](https://twitter.com/LDU_Oficial/status/1855363472172941565?ref_src=twsrc%5Etfw)
+
+### Segundo Tiempo
+
+El segundo tiempo fue distinto con respecto a los primeros 45 minutos. IDV **bajó su ritmo** y esto lo aprovechó LDU.
+
+De inicio a fin, el partido fue **frenético**. Ambos equipos tuvieron **claras ocasiones de gol**.
+
+Al minuto 62, **Fernando Cornejo** aprovechó un extraordinario pase de **Michael Estrada**, y tras visualizar el achique del arquero Guido Villar, colocó el esférico en el costado inferior derecho.
+
+> C O R N E J O 🇨🇱 [pic.twitter.com/Sh8JCpa5GY](https://t.co/Sh8JCpa5GY)
+> 
+> — LDU Oficial (@LDU\_Oficial) [November 9, 2024](https://twitter.com/LDU_Oficial/status/1855371096947556782?ref_src=twsrc%5Etfw)
+
+Con el **2 a 1**, Liga se dedicó a defender de forma ordenada, pero sin bajar los brazos en el ataque. Independiente del Valle, por su parte, buscó el arco norte en varias ocasiones pero **sin mucho éxito**.
+
+El **ida y vuelta** fue constante hasta los últimos minutos. El desgaste físico de los 22 jugadores fue notable.
+
+Desde el minuto 85, los jugadores se mostraron más erráticos debido al **nerviosismo** de lo que significaba este cotejo.
+
+Finalmente, Liga pudo mantener su **superioridad táctica** y cuidó el marcador. El 2 a 1 pone en las manos de LDU la **pelea por el título**.
+
+Si Independiente del Valle pierde el campeonato este 2024, seguramente será por este partido.
+
+Últimas dos fechas ‘de infarto’
+-------------------------------
+
+**Dos fechas** restan para definir la segunda etapa de la Liga Pro. El favorito, tras este partido, es Liga de Quito.
+
+De ganar, los ‘albos’ se enfrentarán en una final a ida y vuelta con los ganadores de la primera etapa: Independiente del Valle.
+
+A LDU le resta visitar a **Universidad Católica** y cerrará con **Deportivo Cuenca** en casa. Mientras que los de Sangolquí recibirán en su estadio a **Macará** y viajarán a **El Oro** para enfrentar al equipo de la ciudad, quien también tienen la esperanza de llegar a una final.
+
+Aeropuerto Internacional de Quito advierte sobre falso anuncio de maletas perdidas
+==================================================================================
+
+Una publicación fraudulenta circula en redes sociales.
+------------------------------------------------------
+
+![Screenshot de la cuenta de X del Aeropuerto Internacional Mariscal Sucre.](https://www.elcomercio.com/wp-content/uploads/2024/11/aeropuerto-quito-El-Comercio.jpg)
+
+El **Aeropuerto Internacional Mariscal Sucre de Quito** publicó una alerta en su cuenta de X. En la publicación advierte a la ciudadanía acerca de un **falso anuncio** que circula en **redes sociales**.
+
+El anuncio trata sobre un supuesto acto benéfico en el que se regalarían maletas perdidas no reclamadas 2 dólares cada una. En la publicación, se asegura que una gran cantidad de maletas olvidadas se acumulan cada año en el almacén del aeropuerto y que serán donadas a través de un evento organizado por la institución. Además, se menciona que los interesados ​​deben llenar un cuestionario para recibir una de estas maletas, destacando la urgencia y limitación de las mismas.
+
+> ⚠️¡Atención!  
+> Hacemos un llamado a no caer en falsos anuncios a nombre de Corporación [#Quiport](https://twitter.com/hashtag/Quiport?src=hash&ref_src=twsrc%5Etfw) o del [#AeropuertoUIO](https://twitter.com/hashtag/AeropuertoUIO?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/IDI7H48FKI](https://t.co/IDI7H48FKI)
+> 
+> — Aeropuerto Internacional de Quito (@AeropuertoUIO) [November 6, 2024](https://twitter.com/AeropuertoUIO/status/1854270949115248730?ref_src=twsrc%5Etfw)
+
+La institución aclara que este anuncio no tiene ninguna relación con el aeropuerto ni con sus operaciones. Se trata de un fraude cuyo objetivo es engañar a los usuarios.
+
+La entidad pidió a la ciudadanía que no proporcione ninguna información personal ni realice ninguna acción relacionada con este falso anuncio.
+
+La entidad subrayó que el Aeropuerto Internacional Mariscal Sucre no está organizando ningún evento de este tipo.
+
+Cotas de varias hidroeléctricas están llegando al límite
+========================================================
+
+Mazar dejó de producir energía desde las 13:00 de hoy. Otras represas también están llegando a los niveles más bajos.
+---------------------------------------------------------------------------------------------------------------------
+
+![El embalse de Mazar está llegando a niveles mínimos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-29.jpg)
+
+Las **lluvias** volvieron a escasear en el sur del país. Los caudales de agua hacia el embalse de **Mazar**, la más importante del Complejo Hidroeléctrico **Paute**, han caído y la cota está cerca de llegar a su nivel crítico. Pero no es la única. **Otros embalses** también están llegando a los **niveles mínimos** para su operación,
+
+### Más noticias
+
+* [Consejos de salud mental para sobrellevar los apagones](https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html "Consejos de salud mental para sobrellevar los apagones")
+* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
+* [Nuevos horarios de cortes de luz en Quito para este sábado 9 de noviembre](https://www.elcomercio.com/actualidad/nuevos-horarios-de-cortes-de-luz-en-quito-para-este-sabado-9-de-noviembre.html "Nuevos horarios de cortes de luz en Quito para este sábado 9 de noviembre")
+
+A las 13:00, Mazar se apagó
+---------------------------
+
+Según las gráficas de producción de la **Corporación Eléctrica del Ecuador (Celec)**, a las 16:00 de este 9 de noviembre del 2024, la cota de Mazar llegó a los 2 110.93 metros sobre el nivel del mar.
+
+Asimismo, el caudal de agua ha sido irregular. Y a esa misma hora era de **10.51 metros cúbicos por segundo.**
+
+De acuerdo a la misma información, **hasta las 12:00** de hoy, **Mazar** generó **56.97 megavatios por hora.** Sin embargo, **desde las 13:00, ya no hay ningún informe**, cuando otras hidroeléctricas, como San Francisco o Molino, sí están generando energía hasta las 16:00.
+
+Otras represas están al límite de sus cotas
+-------------------------------------------
+
+No solo _Mazar_ está en riesgo de que lleguen al límite más bajo de sus cotas. Hay otras hidroeléctricas que están bajo el mismo problema. Uno de ellos es **Minas San Francisco,** que a las 16:00 estaba a 784.25 metros sobre el nivel del mar, cuando el mínimo posible es 783,33 metros[.](https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador")
+
+Tampoco le está yendo bien a **Amaluza**. Tenía 1982,69; el mínimo es de 1975 metros sobre el nivel del mar.
+
+Más cortes en el país
+---------------------
+
+El Ministerio de Energía y Minas anunció que para el fin de semana del **9 y 10 de noviembre del 2024**, los cortes de luz aumentarán **a 12 horas**. Según esta dependencia del Estado, la medida responde a la necesidad de realizar mantenimientos programados y de emergencia en las centrales hidroeléctricas Agoyán, San Francisco y en algunas plantas térmicas.
+
+Votaciones para Daniel Pintado como mejor atleta del año están por finalizar
+============================================================================
+
+El marchista ecuatoriano Daniel Pintado está nominado a los 'World Athletics Awards'. Te contamos como votar por él.
+--------------------------------------------------------------------------------------------------------------------
+
+![El cuencano Daniel Pintado logró dos medallas de oro en los Juegos Olímpicos París 2024](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-pintado-mejor-atleta.jpg)
+
+El ecuatoriano **Daniel Pintado** está nominado a mejor atleta del año en los ‘**World Athletics Awards**‘. La votación es pública e incluye premios para los fanáticos que elijan a su **deportista favorito**.
+
+### Más noticias
+
+* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
+* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
+* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
+
+La votación para los ‘World Athletics Awards’, que premia a los mejores atletas del año, **está por finalizar** esta semana.
+
+**12 atletas de distintas categorías** están nominados en este reconocimiento internacional, incluido el marchista ecuatoriano Daniel Pintado.
+
+La elección determinará dos premios, el título al mejor finalista de las categorías **pista, campo y fuera de estadio** y el título como el mejor atleta de 2024.
+
+El cuencano de **29 años** está nominado en categoría fuera de estadio.
+
+Vota y participa por un viaje a Mónaco
+--------------------------------------
+
+La votación para elegir al mejor atleta del año se realiza del lunes 4 al **domingo 10 de noviembre**.
+
+Para participar deberás ingresar al siguiente [enlace](https://eu.research.net/r/2L2KJFC "https://eu.research.net/r/2L2KJFC").
+
+En esta página web podrás seleccionar tu atleta favorito. Daniel Pintado se encuentra en la primera opción de los deportistas masculinos.
+
+Los ganadores de cada categoría, junto con el vencedor general, se anunciarán el 1 de diciembre en una **ceremonia en Mónaco**.
+
+Como incentivo para los participantes, uno de los votantes y un acompañante podrán disfrutar de un **viaje VIP a Mónaco**. Esta experiencia incluye tres noches de estadía y la oportunidad de conocer a los mejores atletas de 2024. Otros **10 finalistas recibirán una sesión virtual** con los deportistas.
+
+Nominados al mejor atleta del año
+---------------------------------
+
+**Seis hombres y seis mujeres** se encuentran nominados al mejor atleta del año. Estos son:
+
+### Hombres nominados
+
+**Brian Daniel Pintado, Ecuador**
+
+* Campeón olímpico de 20 km marcha
+* Plata olímpica en relevos mixtos de marcha atlética
+
+**Jakob Ingebrigtsen, Noruega**
+
+* Campeón olímpico de 5.000 metros
+* Récord mundial de 3.000 metros
+
+**Letsile Tebogo, Botsuana**
+
+* Campeón olímpico de 200 metros
+* Líder mundial de 200 metros
+
+**Militiadis Tentoglou, Grecia**
+
+* Campeón olímpico de salto de longitud
+* Campeón del mundo de salto de longitud en pista cubierta
+
+**Mondo Duplantis, Suecia**
+
+* Campeón olímpico de salto con pértiga
+* Récord mundial de salto con pértiga
+
+**Tamirat Tola, Etiopía**
+
+* Campeón olímpico de maratón
+* Récord olímpico de maratón
+
+### Mujeres nominadas
+
+**Julien Alfred, Santa Lucía**
+
+* Campeón olímpico de 100 metros
+* Campeón del mundo de 60 metros en pista cubierta
+
+**Nafi Thiam, Bélgica**
+
+* Campeón olímpico de heptatlón
+* Líder mundial de heptatlón
+
+**Ruth Chepngetich, Kenia**
+
+* Récord mundial de maratón
+* Ganadora del maratón de Chicago
+
+**Sifan Hassan, Países Bajos**
+
+* Campeón olímpico de maratón
+* Récord olímpico de maratón
+
+**Sydney McLaughlin-Levrone, Estados Unidos**
+
+* Campeona olímpica de 400 vallas y 4×400 vallas
+* Récord mundial de 400 vallas
+
+**Yaroslava Mahuchikh, Ucrania**
+
+* Campeona olímpica de salto de altura
+* Récord mundial de salto de altura
+
+Daniel Pintado y unos Juegos Olímpicos históricos
+-------------------------------------------------
+
+En los Juegos Olímpicos de París 2024, Daniel Pintado hizo historia al ganar la medalla de oro en la prueba de 20 kilómetros marcha, convirtiéndose en el segundo atleta ecuatoriano en obtener la máxima medalla en esta disciplina, tras la obtenida por Jefferson Pérez en Atlanta 1996.
+
+Pintado finalizó la competencia con un tiempo de 1:18:55, lo que le permitió no solo llevarse el oro, sino también dar a Ecuador su primera medalla en estos Juegos.
+
+Además de su oro, Daniel Pintado también alcanzó la medalla de plata en los **relevos mixtos** junto a **Glenda Morejón,** convirtiéndose así en el primer ecuatoriano en conseguir **dos medallas** en una misma edición olímpica
+
+Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato
+==================================================================================
+
+La resolución alcanza a otros funcionarios.
+-------------------------------------------
+
+![El presidente de Bolivia, Luis Arce, saluda durante la presentación de un informe de gestión el viernes 8 de noviembre de 2024 en La Paz (Bolivia).](https://www.elcomercio.com/wp-content/uploads/2024/11/69de6f5b2d4b008c2ed4b1f7a11526154326f12e.jpg)
+
+El Tribunal Constitucional Plurinacional de **Bolivia** emitió el viernes 8 de noviembre de 2024 un fallo que confirma que la reelección en el país es por una sola vez de forma continua o discontinua, por lo que el exmandatario **Evo Morales** (2006-2019) estaría impedido para ser candidato a la Presidencia en 2025.
+
+El auto constitucional, firmado por los magistrados René Espada y Gonzalo Hurtado, establece que las autoridades electas en los poderes Legislativo, Ejecutivo y Judicial tienen “el ejercicio de su periodo de mandato, únicamente por dos periodos, sean estos continuos o discontinuos sin posibilidad de ampliarse a un tercer mandato”.
+
+El fallo, que es una respuesta a un recurso de complementación y enmienda presentado por algunos legisladores, señala que la Constitución promulgada en 2009, promovida por Morales, busca “evitar de cualquier modo la permanencia de un mandatario, en el caso de los Órganos Legislativo (y) Ejecutivo por más de diez años en total”.
+
+Esto afecta las intenciones de Morales de ser candidato a la Presidencia nuevamente, pues ya gobernó Bolivia en tres ocasiones (2006-2009, 2010-2014 y 2015-2019).
+
+Alcance de la resolución
+------------------------
+
+Asimismo, la premisa del Tribunal Constitucional se aplica también a los magistrados del poder Judicial, quienes pueden ser reelegidos por voto popular una vez, mientras que para los vocales electorales no existe la posibilidad de extensión de su mandato.
+
+La resolución establece además que “ninguna autoridad electa que hubiera superado dos candidaturas anteriores, podrá candidatear y menos ejercer” los cargos de vicepresidente, presidente del Legislativo, presidente de la Cámara de Diputados y del Senado”.
+
+Esta semana el senador Andrónico Rodríguez, afín al bloque oficialista de Morales, fue elegido por cuarta vez consecutiva como presidente del Senado.
+
+El diputado opositor José Carlos Gutiérrez, uno de los legisladores que planteó el recurso, dijo a EFE que el auto constitucional es una “aclaración” al fallo que emitió esa misma instancia a finales del año pasado.
+
+La sentencia constitucional de diciembre de 2023 estableció que en Bolivia el presidente y vicepresidente solo pueden ser elegidos y ejercer su mandato por dos periodos, ya sean continuos o discontinuos y que la reelección indefinida no existe y “no es un derecho humano”.
+
+“Con esto, lo que le queda a Evo Morales es dejar en paz a Bolivia y dejar de pretender conseguir el poder por la fuerza, enfrentar a la Justicia como un civil cualquiera, porque él no va a poder ser presidente nunca más en su vida”, enfatizó Gutiérrez.
+
+Esta semana, en una entrevista concedida a EFE en Lauca Ñ, Morales reiteró que él “está legalmente constitucionalmente, nacionalmente, internacionalmente habilitado” y que la intención del Gobierno a través de la Justicia es “hacer creer que Evo está inhabilitado”.
+
+El oficialista **Movimiento al Socialismo (MAS)** está dividido en dos bandos, unos que apoyan a Morales y otros adeptos al presidente de Bolivia, Luis Arce, debido a las tensiones internas en el partido oficialista que comenzaron a finales de 2021.
+
+Esta tensión ha aumentado en las últimas semanas por el bloqueo de carreteras que por 24 días los seguidores de Morales mantuvieron en el centro del país para exigir que se levanten las investigación por estupro y tráfico de personas, además por el respeto al congreso de 2023 que le proclamó “candidato único” para los comicios de 2025.
+
+El bloque de Arce y el de Morales están también enfrentados por el control del MAS, cuya permanencia como partido depende de una próxima reunión en la que se renueve la directiva que Morales preside.
+
+Segundo Navarrete y Steven Haro buscan revancha en la Vuelta al Ecuador
+=======================================================================
+
+La Vuelta al Ecuador empezará el 11 de noviembre y dos experimentados ciclistas ecuatorianos quieren sorprender en este 2024
+----------------------------------------------------------------------------------------------------------------------------
+
+![Segundo Navarrete y Steven Haro volverán a la Vuelta al Ecuador con el Team Giant Toscana.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-21.jpg)
+
+Los ciclistas ecuatorianos **Segundo Navarrete** y **Steven Haro** encabezan la escuadra nacional Team Giant Toscana con un único objetivo: hacer historia en la 41ª edición de la **Vuelta Ciclística al Ecuador**.
+
+Con la experiencia acumulada en ediciones anteriores, ambos corredores tienen la mira puesta en los primeros lugares de la clasificación general y en destacarse en alguna de las etapas del giro nacional que empezará desde este 11 de noviembre del 2024.
 
 ### Más noticias:
 
 * [Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala](https://www.elcomercio.com/deportes/bayron-guama-vuelta-guatemala-ecuador.html "Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala")
 * [¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?](https://www.elcomercio.com/deportes/ciclismo/cuando-vuelta-ciclistica-ecuador-2024-equipos.html "¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?")
-* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
+* [Campeón del mundo de ciclismo es asesinado en Colombia](https://www.elcomercio.com/deportes/campeon-mundo-colombia-ciclismo-asesinato.html "Campeón del mundo de ciclismo es asesinado en Colombia")
 
-Dentro de la quincena de escuadras que tendrán acción dentro del torneo, estas se dividen tres categorías. Los equipos presentes se encuentran agrupados e**n Continentales UCI, internacionales y nacionales.**
+**Haro**, campeón en 2021, y **Navarrete**, subcampeón en 2019, lideran a un equipo joven que promete ser una de las principales fuerzas en la competencia.
 
-Los equipos participantes de la Vuelta a Ecuador
-------------------------------------------------
+**Navarrete**, quien va por 18 ediciones en la Vuelta, destacó el intenso trabajo de preparación realizado para obtener el mejor desempeño posible. “La meta es pelear por un buen puesto en la general”, aseguró el ciclista carchense. Por su parte, Steven Haro, quien ha sido clave para el equipo, expresó su confianza en la calidad de sus entrenamientos y mencionó que sus aspiraciones son estar entre los cinco primeros y ganar una o dos etapas.
 
-Dentro de la categoría de equipos continentales se ubican cuatro escuadras. En el caso de los internacionales están presentes cinco y en las nacionales, seis.
+Además de los dos corredores experimentados, el **Team Giant Toscana** contará con otros talentos emergentes, como los hermanos Jilmar y Joffre Imbaquingo. Joffre, quien recientemente estuvo en una pasantía en España con el equipo filial del Caja Rural, es uno de los ciclistas a seguir.
 
-Los equipos continentales son el **Movistar Best PC, el Team Saitel, el Team Banco Guayaquil Bianchi y el Team Medellín EPM.** Dentro del lote de los internacionales se ubican el **BTR Tacing, el Orígenes Coffe, el Politáchira Heidy Lee Sport, el HINO One – La Red y el Esparza Training.**
+También forman parte del equipo Marco Chalco, Yostin Pozo, quien participó en el Tour del Avenir 2024 en Francia, y Christian Albarracín, quien tiene claro que su objetivo es ganar una de las etapas.
 
-Los planteles nacionales que estarán dentro de la Vuelta a Ecuador son el **Team C&S Technology, el C.F.E. Halcones Unidos, el Glant Toscana, Campo Fértil, C.D.E.A.R Sin Fronteras y COAC San Gabriel Cinecable**.
+Los ciclistas comenzarán su desafío el 11 de noviembre, en una competencia que recorrerá 1125 km a través de las provincias más emblemáticas de Ecuador, hasta culminar el 17 de noviembre.
 
-¿Qué maillots se entregarán durante la Vuelta?
-----------------------------------------------
+Equipos internacionales en la Vuelta Ciclística al Ecuador
+----------------------------------------------------------
 
-Dentro de la Vuelta a Ecuador se otorgarán **seis maillots**, de los cuales cuatro podrán rotar a medida de la competencia y se definirá cuando esta termina. Estos tendrán distintivos de colores y se otorgarán a partir de distintos criterios.
+Se espera la presencia de unos 90 ciclistas élite, entre los que destacan equipos internacionales como el **Team Medellín**, el Esparza de México, el BTR-USA de Estados Unidos, el Politachira Heidy Lee de Venezuela, el Orígenes Coffee de Colombia y el Hino One La Red de Guatemala.
 
-El **maillot amarillo** corresponderá al líder general individual y va para el puntero y ganador de la Vuelta. Para obtenerlo se sumarán los tiempos de cada corredor en todas las etapas y se lo llevará el que menor tiempo contabilice.
+Además, competirán varios equipos nacionales de renombre como el **Movistar Best PC**, que contará con el cuatro veces ganador de la Vuelta, Byron Guamá.
 
-El **maillot de pepas rojas** será destinado para la clasificación de montaña. Este suma los puntos conseguidos en tales tramos y se lo adjudica el que mayor puntaje consiga[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
-
-El **maillot verde** de metas volantes se otorga a partir de la sumatoria de puntos por cada corredor al paso de lugares señalados. El líder es quien obtenga más puntos.
-
-El **maillot blanco** se destina para el mejor ciclista sub-23. Para este se ocupan los mismos criterios que para el maillot amarillo.
-
-En el caso de los **maillots rojo y azul**, estos varían en función de cada etapa. El primero se lo otorga al ganador de la etapa y el segundo al ciclista combativo.
-
-¿Cuál es el recorrido de la Vuelta a Ecuador?
----------------------------------------------
-
-En el evento, los ciclistas recorrerán un total de **1.125,2 kilómetros**, distribuidos a lo largo de varias etapas.
-
-La primera etapa comenzará en **Calacalí** y finalizará en **La Concordia**, con un recorrido de 157,5 km. A continuación, se disputarán las siguientes etapas: **Valle Hermoso – Babahoyo**, con 239,23 km; **El Arenal (Chimborazo) – Alausí**, con 115,9 km; y el **circuito de Riobamba**, con 110,1 km.
-
-Las tres etapas restantes serán: desde **Urbina** (Chimborazo) hasta **Machachi**, con 152 km; de **Machachi** a **Cotacachi**, con 182,8 km; y finalmente, el trayecto entre **Atuntaqui y la Mitad del Mundo**, con 158,6 km, que servirá como cierre del evento.
-
-Nutricionista revela el error que todos cometemos al levantarnos
-================================================================
-
-El experto recomendó algunos consejos para activar el cuerpo de forma saludable.
---------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/levantarnos-El-Comercio.jpg)
-
-Cada persona tiene un hábito diferente al despertarse: algunos se estiran, otros beben agua, revisan sus celulares, entre otros. Sin embargo, hay un error que cometen casi todas las personas y que un especialista en nutrición no recomienda.
-
-Es normal que, después de hacer toda su rutina mañanera, cada individuo proceda a desayunar. Vicente Clemente, catedrático de Nutrición de la Universidad Europea, explicó que esto debería cambiar.
-
-“**Nos levantamos y nos llevamos a la boca un plato de cereal.** Lo estamos haciendo mal”, agregó Clemente.
-
-El nutricionista expuso en ‘Health Stat’ que las investigaciones realizadas hasta el momento acerca de los beneficios del desayuno para la salud del cuerpo humano no son concluyentes y que pone en duda que el ser humano está biológicamente diseñado para ello.
-
-“Si analizamos la evolución del hombre, que es la que nos permite entender el sistema orgánico actual que tenemos y cómo funciona, **podemos ver que, primero, nunca hemos desayunado y, segundo, somos la única especie que se ha violado una ley** biológica que implica que para recibir cualquier tipo de energía debemos gastarla”, detalló.
-
-Según el experto, advirtió que este hábito en la vida podría llegar a ser peligroso, ya que puede causar enfermedades a largo plazo, como la diabetes, enfermedades cardiovasculares, neurodegenerativas, entre otras. “Tenemos una inconsistencia evolutiva brutal”, insistió el nutricionista.
-
-¿Cómo activar el cuerpo de forma saludable?
--------------------------------------------
-
-El nutricionista Vicente Clemente da algunos consejos para activar el cuerpo de la mejor manera:
-
-### Activación del cortisol
-
-Es la principal hormona del estrés; esta es de gran ayuda, ya que es la encargada de preparar al cuerpo para moverse y buscar comida, lo que es una de las funciones biológicas. El experto aconseja no quedarse tanto tiempo sentado desde el momento en que se despierta y recomienda moverse más.
-
-### Tome el sol
-
-Para la estimulación del cuerpo, es importante aprovechar los primeros rayos del sol, siempre que sea posible. “Ahora mismo no tenemos eso, porque nada más despertarnos nos subimos al coche y de ahí a la oficina, donde la luz es artificial. De ninguna manera nos estiramos hacia los rayos del sol de la mañana, que son diferentes del sol del mediodía o de la tarde”, comentó el doctor.
-
-El profesor aseguró que hacer estas cosas le será de mucha ayuda para sentirse con energía a lo largo del día. “Activaremos nuestro metabolismo temprano en la mañana, por lo que comenzaremos a quemar grasa mucho antes”, afirmó.
-
-En caso de que no pueda realizar algunas de estas actividades, el nutricionista comentó que tomar una ducha con agua fría es una buena alternativa debido a los beneficios que esta tiene.
-
-“Es una forma de darle al cuerpo una señal química lo más real y evolutiva posible. Además, estas duchas estimulan el sistema inmunológico lo que rebaja la posibilidad de contraer enfermedades”, manifestó.
-
-Después de realizar esta actividades, es importante que desayune o que lo consulte con su médico de cabecera, ya que no todos los organismos son iguales y algunas personas necesitan de esta ingesta.
-
-Vicepresidenta Verónica Abad fue suspendida
-===========================================
-
-El Ministerio del Trabajo informó sobre la resolución este 8 de noviembre de 2024.
-----------------------------------------------------------------------------------
-
-![El Ministerio del Trabajo informó sobre la resolución.](https://www.elcomercio.com/wp-content/uploads/2024/11/Lluvia-en-Quito-reservas--2.jpg)
-
-El **Ministerio** de **Trabajo** sancionó a la vicepresidenta de la República, **María Verónica Abad Rojas**, con una suspensión temporal sin remuneración por 150 días[.](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad")
-
-Más noticias
-------------
-
-* [Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE](https://www.elcomercio.com/actualidad/politica/audiencia-denuncia-veronica-abad-contra-daniel-noboa-instalo-tce.html "Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE")
-* [TCE sanciona a Verónica Abad ¿Cuál fue el motivo?](https://www.elcomercio.com/actualidad/politica/tce-sanciona-veronica-abad-motivo.html "TCE sanciona a Verónica Abad ¿Cuál fue el motivo?")
-* [Verónica Abad suma dos denuncias por violencia política de género](https://www.elcomercio.com/actualidad/politica/veronica-abad-nueva-denuncia-reemplazar-daniel-noboa.html "Verónica Abad suma dos denuncias por violencia política de género")
-
-Esto se debe a un abandono injustificado del trabajo, conforme al Art. 48 literal b) de la Ley Orgánica del Servicio Público (LOSEP).
-
-Suspensión de Verónica Abad
----------------------------
-
-La medida responde a que **Abad** no se presentó en **Ankara**, **Turquía**, antes del 1 de septiembre de 2024, como se le ordenó mediante el **Decreto Ejecutivo No. 353.**
-
-La **Vicepresidenta** llegó el 9 de septiembre, sin justificación del retraso, lo que implicó una ausencia de cinco días consecutivos en su destino asignado.
-
-Durante la audiencia del 7 de noviembre, representantes de la **Presidencia** y del **Ministerio** de **Relaciones Exteriores** señalaron que se ofrecieron las condiciones necesarias para su traslado, con notificación previa sobre la exigencia de presentarse a tiempo.
-
-La defensa de Abad argumentó que no se contaba con pruebas para sostener la falta.
-
-La **sanción** impuesta se enfoca en equilibrar la gravedad de la falta con el principio de proporcionalidad, evitando arbitrariedades en el poder sancionador estatal, según detalla la resolución del **Ministerio del Trabajo.**
-
-TCE sanciona a Verónica Abad
-----------------------------
-
-El Tribunal Contencioso Electoral (**TCE**) emitió una sanción contra la vicepresidenta **Verónica Abad** por realizar actos de **campaña anticipada.**
-
-La denuncia, presentada por J**uan Esteban Guarderas**, vocal del Consejo de Participación Ciudadana y Control Social, surgió a mediados de año.
-
-El **TCE** basó su fallo en el artículo 278, numeral 7, del **Código de la Democracia**, que considera falta grave la realización de actos de precampaña electoral.
-
-Bajo el principio de proporcionalidad, el tribunal determinó que **Abad** incurrió en dicha infracción, aunque aclaró que su conducta no generó una afectación significativa al proceso electoral en su conjunto.
-
-Por esta razón, el organismo concluyó que una multa de 8 500 dólares sería suficiente para disuadir futuras infracciones por parte de Abad y otros actores políticos.
-
-Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático
-====================================================================================
-
-Durante su primer mandato, Trump retiró a EE.UU. del Acuerdo de París.
-----------------------------------------------------------------------
-
-![Fotografía que muestra a Donald Trump, hablando durante un mitin en Michigan (Estados Unidos).](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-efe.jpg)
-
-Washington, 9 nov (EFE).- Donald Trump regresa a la Casa Blanca en enero con la intención de demoler los cimientos de las actuales políticas medioambientales de Estados Unidos, favorecer los combustibles fósiles y abandonar cualquier tipo de liderazgo internacional en la lucha contra el cambio climático.
-
-Su victoria en las elecciones estadounidenses del martes se produjo pocos días antes de que el mundo inicie el 11 de noviembre en Azerbaiyán la COP29, la reunión de la ONU para avanzar los objetivos de la lucha global contra la crisis climática.
-
-Y la segunda presidencia del político republicano es una de las peores noticias que muchos delegados de COP29 querían escuchar: la llegada al poder de un negacionista del cambio climático.
-
-En 2020, durante su primer mandato (2017-2021), Trump retiró a EE.UU. del Acuerdo de París al rechazar la ciencia y calificar la crisis climática como un “fraude”. Cuatro años después, sus opiniones no sólo no han cambiado, sino que su negacionismo se ha visto reforzado.
-
-**El negacionsimo climático de Trump**
---------------------------------------
-
-En agosto de este año, durante una entrevista con el empresario Elon Musk en la red social X, Trump expresó su rechazo frontal a la lucha contra el cambio climático.
-
-“Lo que no entiendo es que la gente hable de calentamiento global o cambio climático pero nunca hable del 'calentamiento nuclear'”, explicó en referencia al arsenal de armas nucleares que poseen varios países.
-
-“Para mí el gran problema no es el cambio climático. No lo es. Todo es un problema, pero son grados. Para mí el gran problema es el poder nuclear. El poder nuclear es tan grande”, añadió entre palabras de aprobación de Musk.
-
-El Proyecto 2025, redactado por el laboratorio conservador Heritage Foundation y que es considerado por numerosos analistas como la guía de ruta para la segunda presidencia de Trump, dedica un capítulo a la Agencia de Protección Medioambiental (EPA en inglés), una de las principales herramientas de Washington para luchar contra la crisis climática.
-
-Proyecto 2025 acusa a EPA de ser “un caldo de cultivo para la expansión de la influencia y el control del Gobierno federal en toda la economía”, infiltrada por activistas que ignoran “la voluntad del Congreso”, por lo que plantea una radical reestructuración “para volver a lo básico”, que se ejecutará el primer día de Trump en la Casa Blanca con una orden ejecutiva.
-
-Fiel a su papel como material explosivo para demoler la arquitectura reguladora de Estados Unidos, el texto también aboga por la desaparición de la Administración Nacional Oceanográfica y Atmosférica (NOAA en inglés), que entre otras misiones estudia el clima y vigila los océanos.
-
-**La guerra de guerrillas medioambientalista**
-----------------------------------------------
-
-Aunque Trump se quiso distanciar del Proyecto 2025 durante la campaña electoral, pocos dudan que el republicano deshará tanto como pueda el andamiaje legislativo y normativo que constriñe a los sectores más contaminantes y favorece la economía verde.
-
-En octubre, en un mitin, el entonces candidato aseguró que en cuanto vuelva al poder el 20 de enero van a “perforar, cariño, perforar”, en referencia a la expansión del sector petrolífero.
-
-El republicano también quiere cancelar la Ley de Reducción de la Inflación del actual presidente, Joe Biden, que destina centenares de miles de millones de dólares a descarbonizar la economía del país.
-
-Pero una cosa son las intenciones y otra los hechos. El movimiento medioambientalista estadounidense ya tiene una estrategia para intentar parar los pies a Trump. Básicamente, una guerra de guerrillas jurídica.
-
-“En la primera presidencia de Trump, Sierra Club presentó más de 300 demandas judiciales que bloquearon muchos de sus intentos de eliminar las protecciones medioambientales”, declaró el jueves en una rueda de prensa Ben Jealous, director ejecutivo de Sierra Club.
-
-“Nuestra operación no sólo está preparada, sino que ya está en marcha para asegurar que quienes intentan abusar del poder del Gobierno tengan que rendir responsabilidades”, añadió.
-
-Líderes de otras organizaciones medioambientales también destacan que aunque Trump puede sacar de nuevo a EE.UU. del Acuerdo de París, su presidencia sólo durará cuatro años y el próximo presidente podrá reintegrar al país en el tratado el primer día de su mandato, como ya hizo en 2021 Biden. EFE
-
-jcr/mgr/amg
-
-Al menos 44 palestinos muertos en Gaza en el último día; 43 552 en 400 días de guerra
-=====================================================================================
-
-Estos datos no incluyen a los en torno a 10 000 cadáveres entre los escombros o en las carreteras, según Sanidad
-----------------------------------------------------------------------------------------------------------------
-
-![Un periodista palestino inspeccionando refugios dañados tras un ataque aéreo israelí en el complejo del Hospital de los Mártires de Al Aqsa en Deir Al Balah, en el centro de la Franja de Gaza, el 9 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/0be16bee3ae633be39554fc1c2876c3fc7278de7.jpg)
-
-Los ataques del Ejército israelí mataron al menos a 44 palestinos en la Franja de Gaza en la última jornada, lo que hace 43 552 víctimas mortales de la ofensiva israelí el día que esta cumple 400 días, según el balance diario del Ministerio de Sanidad del enclave, dependiente de Hamas.
-
-Otras 81 personas resultaron heridas a lo largo de Gaza, elevando el cómputo total de heridos a 102.765 en más de 13 meses.
-
-Estos datos no incluyen a los en torno a 10 000 cadáveres que siguen entre los escombros o en las carreteras según las estimaciones de Sanidad, y a los que los equipos de Defensa Civil aún no han podido llegar todavía. Esta situación se agrava especialmente en el norte de Gaza, donde Israel mantiene un asedio que no permite a este servicio de emergencias trabajar desde hace 18 días.
-
-Además, un elevado pero aún desconocido número de gazatíes han sido detenidos durante las operaciones israelíes y llevados a cárceles en su territorio. El Gobierno de Gaza, en manos de la organización islamista Hamás, estima que son más de 5 200 en un año.
-
-El viernes 8 de noviembre, el Ejército liberó a 20 detenidos que habían hecho presos hace unos 20 días, la mayoría en las asediadas Yabalia, Beit Lahia y Beit Hanoun, durante la incursión terrestre de las tropas, según la agencia palestina de noticias Wafa.
-
-Solo en Beit Lahia, las fuerzas armadas detuvieron a 44 trabajadores sanitarios y pacientes del hospital Kamal Adwan, mientras el centro tenía casi 200 pacientes. Su director, Hussam Abu Safiya, denunció entonces que el centro había perdido la capacidad de atenderlos.
-
-Los liberados este sábado entraron a Gaza por el cruce de Kerem Shalom, en el extremo sur de la Franja, y fueron llevados al hospital Nasser de la ciudad de Jan Yunis.
-
-Por otro lado, en la ciudad de Gaza, Wafa denunció un bombardeo en el barrio oriental de Shujaiya en el que murieron al menos cinco palestinos.
-
-Esta noche, otro ataque israelí contra la capital mató en una escuela que albergaba refugiados a seis personas, entre ellos dos jóvenes periodistas y su padre. Los otros fallecidos fueron una pareja, en la que la mujer estaba embarazada, y su hijo, un niño.
-
-En Beit Hanoun, un proyectil de artillería mató esta mañana a otras seis personas.
-
-Musk podría aprovechar su apoyo a Trump y desplazar a Zuckerberg en la élite tecnológica 
-=========================================================================================
-
-Elon Musk podría obtener importante poder político de manos de Donald Trump.
-----------------------------------------------------------------------------
-
-![Musk se perfila para un rol clave en el gabinete de Donald Trump. Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-1.jpg)
-
-La **relación entre Donald Trump y Elon Musk** ha dado un giro importante en los últimos años. Durante la **campaña electoral de 2024**, Musk mostró un **apoyo claro y público hacia Trump**, mediante donaciones y declaraciones. Según [EFE](https://efe.com/mundo/2024-11-08/eeuu-elecciones-alianza-elon-musk-donald-trump/ "https://efe.com/mundo/2024-11-08/eeuu-elecciones-alianza-elon-musk-donald-trump/"), **el magnate tecnológico donó 130 millones de dólares** al ‘Trump America PAC’ y animó a sus seguidores a **respaldar al candidato republicano**. 
-
-### Más noticias
-
-* [¿Cuál será el rol de Elon Musk en las políticas tecnológicas de Donald Trump?](https://www.elcomercio.com/tecnologia/donald-trump-elon-musk-estados-unidos-elecciones.html "https://www.elcomercio.com/tecnologia/donald-trump-elon-musk-estados-unidos-elecciones.html")
-* [Elon Musk construyó su imperio empresarial desde una modesta empresa](https://www.elcomercio.com/tecnologia/elon-musk-biografia-tesla-spacex.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tecnologia/elon-musk-biografia-tesla-spacex.html?source=Internal&ref=Single+Content+Link") 
-
-**Posible rol clave de Elon Musk en el gabinete de Donald Trump** 
-------------------------------------------------------------------
-
-Tras la **victoria de Trump en las elecciones presidenciales de 2024 de Estados Unidos**, Musk fue uno de los **invitados especiales en las celebraciones en Mar-a-Lago**, Florida. Este acercamiento ha generado **especulaciones sobre su posible integración en el nuevo gabinete del presidente**.  
-
-En círculos políticos y tecnológicos, se habla de un **rol clave para Musk**, especialmente en la NASA. Esto podría **impulsar aún más su empresa SpaceX**, conocida por sus ambiciosos planes de **viajes comerciales fuera de la Tierra**. 
-
-**Propuesta para liderar la comisión de eficiencia gubernamental** 
--------------------------------------------------------------------
-
-A decir de [France 24](https://www.france24.com/es/ee-uu-y-canad%C3%A1/20241107-trump-regresa-c%C3%B3mo-ser%C3%A1-su-gabinete-musk-y-robert-kennedy-entre-los-opcionados "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20241107-trump-regresa-c%C3%B3mo-ser%C3%A1-su-gabinete-musk-y-robert-kennedy-entre-los-opcionados"), **Trump deberá cubrir unos 4 000 puestos gubernamentales**, de los cuales 1 200 requieren **confirmación del Senado**. Musk ha sido propuesto para **liderar una nueva comisión de eficiencia gubernamental**, con la promesa de **recortar al menos 2 000 millones de dólares del presupuesto federal**.  
-
-Sin embargo, **su cercanía con Trump podría generar conflictos de interés**, especialmente debido a su **crítica a la supervisión de SpaceX** y su influencia en la **regulación de vehículos eléctricos en California**, lo que afectaría a Tesla. Si Musk se incorpora al gobierno, los posibles conflictos de interés relacionados con sus empresas deberán resolverse. 
-
-**Musk solicita posiciones clave en el Gobierno de Trump** 
------------------------------------------------------------
-
-Según EFE, The New York Times informó que **Elon Musk ha solicitado a Donald Trump la contratación de varios empleados de su empresa SpaceX** para ocupar altos cargos en el Gobierno, que incluyen en el **Departamento de Defensa**, uno de sus principales clientes.  
-
-Siguiendo con la misma fuente, el impacto de su cercanía con Trump se ha visto reflejado en el mercado, donde, tras la victoria del republicano, **las acciones de su empresa Tesla aumentaron alrededor del 15%**, lo que ha permitido a Musk **incrementar su patrimonio en unos 15 000 millones de dólares**. 
-
-**¿Beneficios legales para Musk?** 
------------------------------------
-
-El apoyo de Musk a Trump podría traer también **beneficios legales**, de acuerdo con [Forbes](https://forbes.com.mx/victoria-de-trump-promete-impulsar-el-sueno-de-elon-musk-de-llevar-humanos-a-marte/ "https://forbes.com.mx/victoria-de-trump-promete-impulsar-el-sueno-de-elon-musk-de-llevar-humanos-a-marte/"), citado por France 24. **Musk enfrenta varias investigaciones**, como la apelación de un bono de 50 mil millones de dólares en acciones de Tesla y una **investigación sobre los sistemas de conducción autónoma de su empresa**. Además, la administración Trump podría **ofrecer un entorno regulatorio más favorable para sus negocios**, incluyendo Tesla, que podría beneficiarse de propuestas que afecten a sus competidores. 
-
-**Trump y Zuckerberg: Tensión política y legal** 
--------------------------------------------------
-
-La buena relación entre Trump y Musk podría ser vista como una **forma de desplazar a Mark Zuckerberg**, el CEO de Meta, quien ha sido uno de los **competidores en el sector tecnológico**. Los recientes gestos de apoyo sugieren que **Musk podría consolidarse como un nuevo referente en la élite tecnológica mundial**, superando a Zuckerberg, especialmente en un contexto político y económico favorable. 
-
-Según [Infobae](https://www.infobae.com/estados-unidos/2024/07/12/donald-trump-prometio-perseguir-y-encarcelar-a-fraudulentos-electorales-y-advirtio-a-mark-zuckerberg/ "https://www.infobae.com/estados-unidos/2024/07/12/donald-trump-prometio-perseguir-y-encarcelar-a-fraudulentos-electorales-y-advirtio-a-mark-zuckerberg/"), Trump advirtió que, si es reelegido, **perseguirá a los “fraudulentos electorales” y los enviará a prisión**. En su plataforma Truth Social, mencionó específicamente al CEO de Meta, acusándolo de **influir en las elecciones de 2020 mediante subvenciones a juntas electorales locales**, conocidas como “Zuckerbucks”.  
-
-**Trump y Zuckerberg han tenido una relación tensa**, especialmente después de que **Facebook suspendiera a Trump tras el asalto al Capitolio en 2021**. La reanudación de la cuenta de Trump en 2023 provocó críticas de expertos en elecciones, y ahora, con la inmunidad presidencial en juego, algunos temen que **Trump use la ley para perseguir a sus opositores, incluyendo a Zuckerberg**. 
-
-Viene el fin de año y es necesario cuidar la salud mental
-=========================================================
-
-Las reuniones y celebraciones pueden aumentar la sensación de soledad o insuficiencia en algunas personas.
-----------------------------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: Persona con ansiedad en una habitación donde se ve detrás un reloj y el calendario del mes de Diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/EDITORIAL-1.jpg)
-
-**Noviembre y diciembre** son meses complejos. Las luces, reuniones y celebraciones suelen asociarse con alegría, pero no todos lo viven de la misma manera. Para algunos, es una época de fiesta y emoción. Para otros, en cambio, el fin de año representa un desafío emocional. La presión social por cumplir con compromisos, mostrar felicidad, y enfrentar expectativas sobre “cerrar bien el año” puede ser abrumadora y perjudicial para la salud mental.
-
-Las festividades vienen acompañadas de simbolismos y expectativas. La cercanía del nuevo año nos empuja a llevar a cabo **balances personales** y enfrentar pendientes. Esta “última oportunidad” parece forzarnos a evaluar logros, objetivos y cambios. Para quienes experimentan [ansiedad](https://www.elcomercio.com/tendencias/que-es-ansiedad-sintomas-tratamiento.html "https://www.elcomercio.com/tendencias/que-es-ansiedad-sintomas-tratamiento.html"), estrés o depresión, este peso simbólico puede hacer que diciembre se convierta en una época de tensión.
-
-> La **[Asociación Americana de Psicología](https://www.apa.org/ "https://www.apa.org/")** ha reportado que la ansiedad y el estrés aumentan en diciembre y afectan niños, niñas, jóvenes, adultos y adultos mayores.
-
-Según la **OMS** ([Organización Mundial de la Salud](https://www.who.int/es "https://www.who.int/es")), 280 millones de personas padecen depresión, una condición que puede agravarse en épocas de alta presión social como el último mes del año. Hay estudios que indican que la soledad y la ausencia de familiares son factores comunes de **estrés durante las fiestas**, pero también hay en estas fechas una significativa carga emocional impuesta por la idea de que “todos deben estar felices”. Este mito, reforzado por campañas y mensajes comerciales, hace que aquellos que no se sienten así se vean atrapados en un ciclo de incomprensión y desamparo.
-
-Es crucial recordar que estos meses no son sinónimo de felicidad para todos. Para quienes enfrentan problemas emocionales, cada reunión y cada festividad pueden aumentar la sensación de soledad o insuficiencia. Así, mientras algunos disfrutan de las festividades, otros luchan en silencio con sus propios demonios.
-
-No es cuestión de ignorar las fiestas, sino de abrir espacios de apoyo y empatía para aquellos que las enfrentan con dificultad. Promover el respeto hacia diferentes emociones y reconocer la importancia de la salud mental en diciembre es esencial para construir un entorno en el que todos, independientemente de su situación emocional, encuentren algo de paz. Diciembre, por ejemplo, debería ser una época para celebrar, pero también para cuidar y acompañar a quienes lo necesitan.
-
-Dos lecciones de Trump a los candidatos
-=======================================
-
-Necesitamos un candidato honesto que promueva empleo, seguridad, inversiones y combata la corrupción.
------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-La victoria de **Donald Trump**  en las **elecciones** de **Estados Unidos** debe ser materia de estudio para los  **candidatos ecuatorianos** y sus **equipos**. Los estrategas estudian medios, redes, estrategias, mensajes, ideologías, **tendencias**, pero no estudian dos claves del **propio candidato**.
-
-La primera clave es decir la verdad, sin ambages; los **críticos** pueden tildarle de **misógino**, xenófobo y racista, pero los **electores** conocen al **candidato**. La segunda es **explicar** las **medidas** que adoptará para solucionar los **problemas** de la gente. **Kamala** tenía la sonrisa del mejor candidato, pero no comunicó su **programa**. **Trump** con su cara malhumorada sintonizaba mejor con el electorado.
-
-**Trump** ofreció **bajar impuestos** a contribuyentes y empresas, **atraer capitales**, imponer aranceles a las **importaciones** para proteger la **industria nacional**, crear empleo y **generar riqueza**; son recetas de derecha y nuestros **candidatos** tienen vergüenza de ser de **derecha**.
-
-Nuestro **candidato presidente** seguramente sufrirá, como **Kamala**, la **contradicción** entre promesas **electorales** y **realidades gubernamentales**. Sus estrategas enfrentan el imposible desafío de ofrecer eficacia siendo ineficaz, ofrecer **transparencia** viviendo de relatos, ofrecer luz estando en **tinieblas**.
-
-La **candidata** del **socialismo**, esperanzada en la caída de su **adversario**, sufre los **embates** de la realidad. El techo de su **candidatura** se mantiene firme en la **medida** en que se consolidan las evidencias de **corrupción** de los **exmandatarios**, de sus líderes, de sus **estrategas**, de los **controladores** que en el gobierno de la **revolución ciudadana** se dedicaron a chantajear y robar.
-
-Necesitamos un **candidato** que diga la verdad, que prometa obras, empleo, **seguridad** para los capitales, que ofrezca cortar la mano a los ladrones, despedir a los vagos, cobrar los **impuestos** a los evasores, que abra el país a la **inversión** en **energía**, en **petróleo**, en minería, en agricultura. Cuando empiece la **campaña** quizá aparezca el **candidato** que entendió la **victoria** de **Trump**.
-
-Así estuvo el feriado de noviembre para el sector turístico y hotelero de Ecuador
-=================================================================================
-
-El gasto turístico en el feriado de finados 2024 es menor respecto a otro años, pero muestra una mejora frente a los asuetos de este año.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![En Cuenca se realizaron más de 230 eventos, entre conciertos, desfiles, festivales gastronómicos, actos culturales, entre otros. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/11/Cuenca-vale.jpg)
-
-El feriado de finados y fiestas de Cuenca generaron un gasto turístico inferior al de los últimos tres años. Sin embargo, con cinco días de descanso -el más largo del año- el resultado superó a los cinco feriados previos de 2024. Estuvo cerca de igualar el gasto registrado durante el Carnaval.
-
-Este año ha sido complicado para el sector turístico debido a la crisis energética, la falta de agua y la inseguridad. A pesar de ello, el turismo generó **62 millones** de dólares, según el **[Ministerio de Turismo](https://servicios.turismo.gob.ec/turismo-en-cifras/feriados-nacionales/ "https://servicios.turismo.gob.ec/turismo-en-cifras/feriados-nacionales/")**. Esto representa una caída del **20,5%** respecto al feriado de noviembre de 2023, cuando se alcanzaron **78 millones** de dólares. La cifra también fue inferior a la de los feriados de 2021 y 2022.
-
-Más noticias
-------------
-
-* [¿Cuántos feriados nacionales y locales le restan a Ecuador en 2024?](https://www.elcomercio.com/actualidad/ecuador/cuantos-feriados-nacionales-locales-ecuador-2024.html "¿Cuántos feriados nacionales y locales le restan a Ecuador en 2024?")
-* [En el feriado de noviembre se registraron más de 47 000 emergencias](https://www.elcomercio.com/actualidad/ecuador/feriado-de-noviembre-se-registraron-mas-de-47-000-emergencias.html "En el feriado de noviembre se registraron más de 47 000 emergencias")
-
-Teniendo en cuenta el contexto económico y social del país, tanto el Gobierno como la **Federación de Cámaras de Turismo** consideran que el resultado es positivo. El gobierno atribuye la mejora a la reducción del IVA del 15% al 8%, para servicios turísticos.
-
-**Holbach Muñetón**, presidente de la Federación, cree que este resultado se debe a varias acciones conjuntas. Esta vez, los gremios turísticos, cámaras y asociaciones no recibieron la noticia de la extensión del feriado por la prensa. El Gobierno los consultó antes de tomar la decisión para obtener sus puntos de vista y estar listos para recibir a los turistas.
-
-Este enfoque colaborativo permitió coordinar esfuerzos entre el Ministerio de Turismo, empresarios, Policía y alcaldes. Estos últimos lideraron eventos, desfiles, conciertos y actividades para atraer a los turistas. “Las personas se desplazan cuando hay atractivos para toda la familia”, señaló Muñetón.
-
-A pesar de la incertidumbre y el temor generalizado, los empresarios turísticos también valoran la disposición del turista nacional por viajar. Durante los cinco días de descanso se registraron **965 mil viajes**, **17%** menos que en el mismo feriado del año pasado. Las provincias con mayor número de viajes fueron **Pichincha, Santa Elena y Azuay.**
-
-Cuenca destaca con una alta ocupación hotelera
-----------------------------------------------
-
-La ocupación hotelera promedio alcanzó el **33%**, nueve puntos menos que el promedio de los últimos tres años, que fue del **42%**. No obstante, algunos destinos como Cuenca, que celebró su aniversario, registraron ocupaciones superiores. Según el Ministerio de Turismo, Cuenca alcanzó el **61%** de ocupación, aunque el Municipio local reportó un **98%.** En total, la ciudad recibió a 280 233 personas, que llegaron por carretera, terminales terrestres y vuelos.
-
-Otros destinos populares con mayor ocupación hotelera durante el feriado fueron: **Baños y Ambato** (Tungurahua), **Montañita** (Manabí), **General Villamil Playas** (Santa Elena).
-
-**Mauricio Letort**, de la **Asociación Hotelera del Ecuador**, destaca que estos destinos son muy demandados en los feriados, lo que contribuyó a un aumento en sus ingresos. Sin embargo, señaló que algunos destinos siguen sin recuperar su flujo turístico, debido a la inseguridad o a la falta de gestión de los gobiernos locales. Los Ríos y Esmeraldas, por ejemplo, registran una ocupación inferior al 17%.
-
-Turismo nacional sigue dominando
---------------------------------
-
-Durante el feriado, se confirmó que el turista nacional sigue siendo mayoría. El **91%** de los turistas fueron ecuatorianos, mientras que los extranjeros representaron apenas el **9%**. Según Letort, esta tendencia se debe a la percepción de inseguridad y violencia, alimentada por la narrativa política sobre guerra y terrorismo, que probablemente se intensificará durante la campaña electoral. Por ello, propone una tregua para reducir esta narrativa y fomentar una visión más positiva.
-
-A pesar de este panorama, tanto el sector turístico como las autoridades coinciden en que el enfoque debe estar en el turista nacional. En promedio, el gasto diario por turista fue de **64 dólares**, con una estadía promedio de una noche y dos ocupantes por habitación.
-
-“Debemos comenzar por casa. Si no logramos convencer al ecuatoriano que vive aquí, ¿cómo vamos a atraer al turista extranjero?”, afirmó Muñetón.
-
-En el último trimestre de este año y el primero del 2025, el Mintur se enfocará en promocionar en medios tradicionales y digitales la campaña: **‘Deja de ser extranjero en tu tierra’**, para promover el turismo interno, destacando la riqueza de sus cuatro regiones. Además, se lanzará una miniserie en redes sociales sobre los destinos gastronómicos del país.
-
-Paquetes turísticos se concentran en Galápagos y Amazonía
----------------------------------------------------------
-
-Los turistas que optaron por paquetes turísticos, que incluyen hospedaje, alimentos, transporte y guianza, prefirieron destinos como Galápagos, que requiere un mínimo de cuatro días para ser visitado.
-
-También hubo una alta demanda por la Amazonía, especialmente por áreas protegidas como el Parque Nacional Yasuní, Cuyabeno y Tena, según Juan Carlos Núñez, presidente de la Asociación Nacional de Operadores de Turismo (Optur).
-
-A nivel general, la operación turística se mantuvo en un 40%, un porcentaje bajo en comparación con los niveles previos a la pandemia. En los Andes, los tours a Cotopaxi, Quilotoa, Otavalo y Mindo experimentaron una mayor activación.
-
-Posiciones contrapuestas respecto a la reducción del IVA
---------------------------------------------------------
-
-De acuerdo con un reciente análisis realizado en agosto de 2024, el Mintur dice que el impacto de la reducción del IVA al 8% en servicios turísticos es positivo.
-
-Entre los hallazgos está un aumento del 13% en el gasto turístico promedio; un incremento de 1,8 puntos porcentuales en la ocupación hotelera. Además, un 22% más de viajes en cada feriado.
-
-Juan Carlos Núñez, de Optur, señala que los gremios expusieron en su momento en la Asamblea que la reducción del 8% no es de gran ayuda solo para feriados. “La gente no se va de feriado pensando que se va a reducir el IVA”. Este operador turístico cree que la medida debiera extenderse a todo el año y que sea del 5% como se fijó para el sector de la construcción. Con esto se busca la reactivación del sector.
-
-Otros desafíos del sector turístico
------------------------------------
-
-* Optur solicitó al Mintur que los operadores turísticos puedan tener permisos para comprar combustible para sus generadores eléctricos. En la Amazonía, sobre todo en las zonas fronterizas, no les venden el producto en las gasolineras, sin un permiso oficial.
-* El gremio hotelero aún afronta competencia desigual con los alojamientos temporales. Pese a que el Mintur ya emitió un reglamento, los gobiernos locales también deben establecer sus reglas para que operan legalmente. Atacames es una de las localidades que ya cuenta con su reglamento local.
-* Los operadores turísticos también denuncian competencia desleal, pues se ofertan servicios de manera informal. Frente a esto exigen más control y regulación.
-* Los hoteles de cuatro y cinco estrellas tienen una tarifa comercial de energía eléctrica, pero actualmente el gasto por mantenimiento y combustible para sus generadores eléctricos ha subido hasta tres veces, según Mauricio Letort, de la Asociación Hotelera del Ecuador.
-
-Cartas a Quito / 9 de noviembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este sábado 9 de noviembre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Entre la obscuridad y el ruido 
--------------------------------
-
-Realmente estamos pasando momentos de muchas tensiones y preocupaciones, tanto a nivel local como internacional, pero ahora específicamente refiriéndome al tema propuesto, realmente se puede decir que han significado días de mucho estrés y angustia, pues tratar de acoplarnos a los horarios propuestos por el gobierno para los cortes de electricidad, los cuales no se cumplen a cabalidad y con la permanente zozobra de que se produzcan daños en los electrodomésticos, televisiones, computadoras y todos aquellos muebles y enseres que funcionan con electricidad, ciertamente que son momentos sumamente de obscuridad, no solo por la falta de luz, sino también por el estado mental y sicológico al que estamos sometidos. 
-
-Y si a todo esto se agrega el permanente ruido que se produce en los lugares donde habitamos, cuando al suspenderse la luz comienzan a funcionar las plantas de generación eléctrica, entonces realmente es que perdemos totalmente la paz y la tranquilidad, pues nos vemos sometidos a esa obscuridad y a ese azote del ruido, que si es en horas de la noche o a primeras horas de la madrugada, resulta más que insoportable. 
-
-Comprendemos que principalmente estos cortes de luz se deben a la tremenda sequía que estamos viviendo y que lamentablemente la mayor generación de luz depende de las centrales hidroeléctricas que funcionan precisamente con el agua de los ríos que las alimentan y al producirse la escasez, entonces comienzan esas serias limitaciones, debido a que en esa forma se construyeron esas centrales hidroeléctricas, sin haber previsto otras alternativas de suministro de energía como termoeléctrica, eólica, solar e incluso nuclear que se las usa en otros países, que ya no sufren estas situaciones. 
-
-Esperamos que el esfuerzo que está haciendo el gobierno actual y según las noticias que se nos ha transmitido, se cumplan esos pronósticos y en unas pocas semanas más ya volvamos a la normalidad y que esta situación no se vuelva a repetir, pues resulta inadmisible que en los momentos actuales con tantos avances tecnológicos, sigamos sumidos en estas anormalidades, que nunca pensamos podrían volver a sucederse, lo cual nos remonta a la época del Presidente Sixto Durán Ballén, en los años 1992 al 1996, que significó algo que realmente quedó marcado como un período muy triste y desolador de nuestra época republicana. 
-
-Hernán Patricio Orcés Salvador 
-
-Ensalada arcoíris con garbanzos y aguacate
-==========================================
-
-Descubre una ensalada deliciosa y nutritiva, fresca, colorida y llena de sabor. ¡Comparte esta receta con tus amigos!
----------------------------------------------------------------------------------------------------------------------
-
-![Nuestra ensalada arcoíris tiene todo lo que necesitas, colores vibrantes, ingredientes frescos y una mezcla deliciosa de sabores.](https://www.elcomercio.com/wp-content/uploads/2024/11/1-1.jpg)
-
-La **ensalada** es un **plato versátil** que puede ser tanto un acompañamiento como el **plato principal.** A menudo, se asocia con la **frescura y la salud**, pero también puede ser un festín de **sabores y texturas**. Esta **receta** de **ensalada perfecta** combina una variedad de **ingredientes** que no solo son **nutritivos**, sino que también aportan un estallido de color a tu mesa. Aquí te presentamos una **ensalada** que destaca por su **frescura, sabor y facilidad de preparación**.
-
-Ingredientes
-------------
-
-2 tazas de espinacas frescas
-
-1 taza de lechuga romana
-
-1 taza de rúcula
-
-1 pepino grande, cortado en rodajas
-
-1 pimiento rojo, cortado en tiras
-
-1 zanahoria grande, rallada
-
-1/2 cebolla morada, en rodajas finas
-
-1 taza de garbanzos cocidos (pueden ser enlatados)
-
-100 g de queso desmenuzado
-
-1 aguacate, cortado en cubos
-
-1/2 taza de arándanos frescos (opcional)
-
-1/4 taza de nueces o almendras tostadas
-
-3 cucharadas de aceite de oliva
-
-2 cucharadas de vinagre balsámico
-
-1 cucharadita de miel
-
-Sal y pimienta al gusto
-
-* * *
-
-> Esta ensalada es ideal para quienes buscan mantener una alimentación saludable sin sacrificar el sabor.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/3-1-1024x1024.jpg)
-
-Una ensalada perfecta para el almuerzo, cena o como snack saludable.
-
-Paso a paso para preparar la ensalada arcoíris
-----------------------------------------------
-
-* En un tazón grande, **combinar** las espinacas, la lechuga romana y la rúcula. Estas hojas verdes aportarán frescura y un buen aporte nutricional.
-* **Agregar** el pepino, el pimiento rojo, la zanahoria rallada y la cebolla morada al tazón con las hojas verdes. **Mezclar** suavemente para que se distribuyan bien los ingredientes.
-* **Añadir** los garbanzos cocidos y el queso desmenuzado. Los garbanzos son una excelente fuente de proteína vegetal y fibra.
-* **Incorporar** el aguacate cortado en cubos y los **arándanos** frescos si decides usarlos. Estos **ingredientes** aportan un toque dulce y cremoso a la **ensalada**.
-* **Espolvorear** las nueces o almendras tostadas sobre la ensalada para añadir un crujido delicioso.
-* En un frasco pequeño o un tazón, **mezclar** el aceite de oliva, el vinagre balsámico, la miel, la sal y la pimienta. Agitar o batir bien hasta que todos los **ingredientes** estén combinados.
-* **Verter** el aderezo sobre la **ensalada** justo antes de servir. **Mezclar** suavemente para asegurarte de que todos los **ingredientes** estén bien cubiertos con el **aderezo**.
-* **Disfrutar** tu ensalada fresca como plato principal o como acompañamiento en cualquier comida.
-
-Consejos para una ensalada perfecta
------------------------------------
-
-* No dudes en **experimentar** con diferentes **verduras y frutas** según la temporada.
-* **Combinar** ingredientes **crujientes** con otros más suaves para crear **contrastes agradables**.
-* Puedes **sustituir** el **aderezo balsámico** por uno a base de yogur o limón si prefieres algo más ligero.
-
-Esta **ensalada** no solo es **deliciosa**, sino también rica en **nutrientes** y **perfecta** para cualquier ocasión, desde una **comida ligera** hasta una **cena especial.** Su **preparación** es rápida, lo que te permitirá disfrutarla sin **complicaciones**. La **ensalada perfecta** es aquella que se adapta a tus **gustos personales** y a lo que tengas a mano en tu **cocina**. ¡Atrévete a personalizarla!
-
-Ecuador concluyó reuniones con el FMI tras valoración de medidas aplicadas
-==========================================================================
-
-El Fondo Monetario Internacional (FMI) concluyó las reuniones con el Gobierno de Ecuador, este viernes 8 de noviembre.
-----------------------------------------------------------------------------------------------------------------------
-
-![El ministro de Finanzas, Juan Carlos Vega, y la directora del FMI, Kristalina Georgieva](https://www.elcomercio.com/wp-content/uploads/2024/11/fmi-ecaudor.jpg)
-
-El **Fondo Monetario Internacional** (FMI) concluyó las reuniones con el Ministerio de Economía y Finanzas de **Ecuador**, este viernes 8 de noviembre de 2024.
-
-### Más noticias
-
-* [Conozca los puntos más importantes de las leyes económicas de Daniel Noboa](https://www.elcomercio.com/actualidad/negocios/conozca-puntos-importantes-leyes-economicas-daniel-noboa.html "Conozca los puntos más importantes de las leyes económicas de Daniel Noboa")
-* [Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE](https://www.elcomercio.com/actualidad/politica/audiencia-denuncia-veronica-abad-contra-daniel-noboa-instalo-tce.html "Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE")
-* [Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-tomo-decision-proyecto-de-ley-contra-lavado-de-activos.html "Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos")
-
-El FMI reconoció los progresos que tuvo con el país en la implementación del programa de **políticas económicas y reformas estructurales** acometidas bajo el último programa crediticio, según informó el Gobierno ecuatoriano.
-
-FMI valoró medidas aplicadas en Ecuador
+Las etapas de la Vuelta al Ecuador 2024
 ---------------------------------------
 
-El **Ministerio de Economía y Finanzas** de Ecuador aseguró en un comunicado que el FMI valoró el desarrollo de las medidas económicas en el “desafiante contexto ocasionado por la histórica sequía que enfrenta el país”.
+* **Domingo 10 noviembre** Presentación Equipos / Holiday Inn Airport
+* **Lunes 11 noviembre** Etapa 1 – 157,5 Km / Calacali – La Concordia
+* **Martes 12 noviembre** Etapa 2 – 239,2 Km / Valle Hermoso – Babahoyo
+* **Miércoles 13 noviembre** Etapa 3 – 115,9 Km / El Arenal – Alausí
+* **Jueves 14 noviembre** Etapa 4 – 129,6 Km / Circuito Riobamba
+* **Viernes 15 noviembre** Etapa 5 – 152 km / Urbina – Machachi
+* **Sábado 16 noviembre** Etapa 6 – 179,8 Km / Machachi – Cotacachi
+* **Domingo 17 noviembre** Etapa 7 – 159,6 Km / Atuntaqui – Quito
 
-Asimismo, el personal técnico del FMI reiteró el apoyo a la consecución de los objetivos de **sostenibilidad y crecimiento económico inclusivo**[.](https://www.imf.org/es/Home "https://www.imf.org/es/Home")
+Consejos de salud mental para sobrellevar los apagones
+======================================================
 
-Las autoridades económicas del Ecuador ratificaron el compromiso de fortalecer la **estabilidad macroeconómica** y el fomento a un **crecimiento inclusivo** que proteja a los ciudadanos más vulnerables.
+Según los expertos, los cortes de luz se afrontan de distintas maneras. Para los niños puede ser llevadero, para los adolescentes no tanto.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-Entre las medidas emprendidas por la administración del presidente **Daniel Noboa** estuvo una reforma tributaria donde se incrementó del impuesto al valor agregado (IVA) del **12 %** al **15 %**.
+![Foto referencial. La salud mental se ve afectada por las consecuencias que causa vivir sin luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/salud-mental.jpg)
 
-También el descongelamiento de los **precios de las gasolinas** más consumidas en el país (85 octanos), bajo un esquema que no liberó completamente los precios, pero que se siguen manejando con unos límites máximos mensuales de incremento o disminución.
-
-Ecuador recibirá 4 000 millones de dólares
-------------------------------------------
-
-El FMI aprobó en mayo pasado de 2024 un programa crediticio de **4 000 millones de dólares** a implementarse en un plazo de **48 meses**.
-
-Mientras el Gobierno evalúa la posibilidad de acogerse a una **nueva línea de crédito** de la misma institución.
-
-El dinero estuvo destinado principalmente a equilibrar las **cuentas estatales**, que en 2023 cerraron un déficit de aproximadamente **4 800 millones de dólares**, lo que equivale a cerca del 5 % del producto interior bruto (**PIB**).   
-
-Padre de Dana Ramos, y otros dos familiares, fueron sentenciados por su asesinato
-=================================================================================
-
-Dana Ramos, una niña de ocho años, desapareció en febrero de 2024; 15 días después fue hallada sin vida en Riobamba.
---------------------------------------------------------------------------------------------------------------------
-
-![Tres familiares de Dana Ramos estuvieron detrás de su desaparición y asesinato](https://www.elcomercio.com/wp-content/uploads/2024/11/dana-ramos-asesinato.jpg)
-
-La niña de **8 años**, **Dana Ramos** desapareció el **1 de febrero de 2024**, tras salir a una tienda en el barrio **El Porvenir**, en **Riobamba**.
+Ecuador atraviesa una **crisis energética** que ha obligado al Ministerio de Energía y Minas a aplicar cortes de luz desde el 23 de septiembre a escala nacional. Estos **apagones** han influido de distintas maneras en la salud mental de los ecuatorianos.
 
 ### Más noticias
 
-* [Robo en centro comercial terminó en balacera en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/intento-robo-balacera-centro-comercial-guayaquil.html "Robo en centro comercial terminó en balacera en Guayaquil")
-* [Policía recuperó cinco osamentas humanas en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-osamentas-humanas-guayaquil.html "Policía recuperó cinco osamentas humanas en Guayaquil")
-* [Jimmy Ruiz, asesor de Augusto Verduga, fue asesinado](https://www.elcomercio.com/actualidad/seguridad/jimmy-ruiz-asesor-augusto-verduga.html "Jimmy Ruiz, asesor de Augusto Verduga, fue asesinado")
+* [Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentaran-a-ocho-horas-desde-el-domingo-dice-ministra.html "Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra")
+* [Nueve alimentos que mejoran la salud mental y emocional](https://www.elcomercio.com/tendencias/salud/alimentos-salud-mental-nutricion.html "Nueve alimentos que mejoran la salud mental y emocional")
+* [Servicios de salud tienen disposiciones por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-de-salud-tienen-disposiciones-por-cortes-de-luz.html "Servicios de salud tienen disposiciones por cortes de luz")
 
-Un **Tribunal de Garantías Penales** de **Chimborazo** dictó sentencia contra los tres involucrados en el **asesinato** de la pequeña Dana Ramos, una niña de ocho años que desapareció el 1 de febrero de 2024.
+¿Qué pasa con la salud mental?
+------------------------------
 
-Ese día, testigos vieron por última vez a Dana, luego que saliera a comprar a una tienda en su barrio **El Porvenir**, en Riobamba, provincia de Chimborazo.
+Los **cortes de luz** causan varios sentimientos en las personas de acuerdo con su situación personal y/o profesional.
 
-Al poco tiempo que desapareció, los padres de Dana recibieron mensajes y correos electrónicos, en los que “desconocidos” exigían el pago de **25,000 dólares** para liberarla.
+Una de las principales afectaciones, **según David Landázuri,** psicoterapeuta con enfoque en terapias contextuales, es la imposibilidad de planificar.
 
-**15 días después**, el **16 de febrero**, la Policía encontró a la menor de edad sin vida en el fondo de una **cisterna** en la casa de sus abuelos.
+Esto debido a que el desarrollo de las **actividades diarias** se ve afectado por los cortes de luz y este cambio causa una tensión extra en nuestra salud mental.
 
-La **autopsia médico-legal** concluyó que la niña fue asesinada por **asfixia**, **sofocación** y **obstrucción** de las vías respiratorias[.](https://www.fiscalia.gob.ec/ "https://www.fiscalia.gob.ec/")
+Esta imposibilidad para planificar puede manifestarse con temas de ansiedad, depresión o insomnio, que son los más comunes.
 
-Su propia familia planificó el secuestro
-----------------------------------------
+La incertidumbre es otro elemento que afecta la salud mental, por ejemplo, no conocer en qué horario quitarán la luz o si mi empresa puede implementar un corte de personal.
 
-Las investigaciones de **Fiscalía** permitieron identificar indicios claves que vincularon a tres familiares de Dana en su asesinato: **Mauro Ramos**, su padre; **Evelyn B.**, prima de la pequeña; y **Rafael L.**, esposo de Evelyn.
+En **criterio de Landázuri,** las personas que no suelen manejar de manera adecuada la incertidumbre o la falta de certezas son las que pueden ver afectada su salud mental.
 
-Durante la audiencia de juicio, que se extendió por cuatro días hasta este viernes **8 de noviembre de 2024**, la fiscal del caso presentó una acusación detallada, donde especificó uno a uno cómo actuaron los señalados en el delito.
+Otro de los factores importantes que podría causar la crisis energética **es el aislamiento**. Esto afecta más a las personas **introvertidas que a las extrovertidas**.
 
-En la audiencia se exhibieron pruebas documentales y testimoniales que los vinculan directamente con el crimen.
+Las **introvertidas,** al quizá tener sus rutinas en sus espacios, pueden sufrir más por los cortes de luz cuando ven estas actividades afectadas. En cambio, **las extrovertidas** pueden lidiar mejor con los apagones al buscar el contacto con otras personas, salir, conversar, distraerse.
 
-Algunos de los indicios fueron: testimonios de familiares de la víctima y de agentes que participaron en la búsqueda, el informe investigativo y el acta del levantamiento del cadáver.
+Hablemos de los niños
+---------------------
 
-Sentencia contra los involucrados
----------------------------------
+En cuanto a la salud mental de los niños y adolescentes, **Karina Bravo**, psicoanalista de niños y adolescentes, explicó a El Comercio que es importante **cuidar el estrés o la ansiedad** que se les pueda transmitir por la crisis que atraviesa el país.
 
-Los magistrados determinaron que Mauro Ramos, Evelyn B. y Rafael L. deberán cumplir con una pena de **40 años** de prisión.
+Como adultos, si sabemos **filtrar de mejor manera los sentimientos** frente a los cortes de luz, puede ser una oportunidad diferente para los niños para aprender a desarrollar otras habilidades, debido a que están en una fase aún estructurante.
 
-Su prima fue calificada como autora directa, su padre como autor mediato y Rafael como coautor del asesinato de Dana.
+Por ejemplo, se pueden hacer juegos distintos, mucha más convivencia, más tiempo con los padres.
 
-Además, los sentenciados deberán pagar una multa de **1,500 salarios básicos unificados** (690,000 dólares).
+La oscuridad y el silencio absolutos podrían generar miedo en los niños; sin embargo, esto puede ayudar a desarrollar el ámbito sensorial.
 
-Más otros **20,000 dólares** como reparación integral a favor de la madre de la víctima.
+En el silencio se puede identificar otro tipo de sonidos naturales que están presentes en el ambiente y que pueden ayudar a calmarlos. Esto depende de cada niño y de sus entornos.
 
-La sentencia se basó en el artículo **162 del Código Orgánico Integral Penal (COIP)**, que sanciona por secuestro extorsivo con resultado de muerte.
+La **percepción en la oscuridad y el juego con las sombras** es también una oportunidad para compartir y desarrollar habilidades.
 
-La agravación del delito fue por la participación de dos o más personas en la comisión del crimen en **perjuicio de una niña**.
+Los adolescentes podrían ser los más afectados
+----------------------------------------------
 
-La Naciones Unidas, la avenida de la modernidad y la memoria en Quito
-=====================================================================
+**En cuanto a los adolescentes,** la psicoanalista Bravo señala que el asunto **es un poco más complicado.** Ellos ya atravesaron también una pandemia en su etapa de socialización.
 
-La avenida Naciones Unidas es el epicentro financiero y comercial y una de la que más intervenciones ha tenido desde la mitad del s. XX.
-----------------------------------------------------------------------------------------------------------------------------------------
+El tema de la comunicación a través de dispositivos electrónicos y la dependencia a la tecnología que se potenció en ello**s sí constituye una problemática distinta con los adolescentes.**
 
-![La avenida Naciones tiene casi dos kilómetros de largo y 80 metros de ancho.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-44.jpg)
+Esto sí podría **generar estados de ansiedad** porque están acostumbrados a interactuar a través de dispositivos electrónicos, incluso si están junto a la persona con la que ‘chatean’.
 
-Quizá no haya **avenida** en **Quito** que no tuviera tanta transformación como la **Naciones Unidas**. De hecho, su primer nombre fue **De los Estadios**. Desde la mitad del siglo XX, cuando se comenzó su construcción, había enormes descampados. Parte del **estadio Olímpico Atahualpa** y termina en la **avenida América**. Esta vía es un icono de **modernidad y memoria.**
+En los adolescentes, la falta de energía eléctrica tiene más aristas en el **desarrollo de la ansiedad** porque es la forma en la que se comunican.
+
+Los apagones también influyen **en el encuentro con uno mismo,** pues la tecnología es un distractor que ayuda a canalizar varios aspectos que se atraviesan en esta etapa. Sin los distractores, tienden a sobrepensar más.
+
+Según Bravo, hay casos **en que la oscuridad y el silencio** pueden causarles inseguridad y miedo, o hacerles experimentar un estado de alerta.
+
+Consejos del especialista
+-------------------------
+
+El **psicoterapeuta Landázuri**, en charla con El Comercio, da recomendaciones claves para poder hacer frente a esta realidad que atravesamos todos los ecuatorianos:
+
+* **“No pelearse con lo que sucede”**. Pelearse con la realidad o con lo que sucede no hace que ello cambie.
+* Todo problema tiene solución, **si no tiene solución no es un problema** y, a partir de ello, el hecho no debe resolverse sino aceptarse.
+* A partir de esta aceptación se debe encontrar como desenvolverse y hallar algo parecido a nuestra vida antes de los apagones. **“Mientras más rechazamos lo que pasa, más sufrimiento nos causamos”**.
+* Contar siempre con alguien con quien podamos compartir y empatizar las cosas. Esto no debe partir desde **la queja**, sino tratando de **identificar los sentimientos** que tenemos respecto a la situación. No es lo mismo quejarse de la situación del país a decir que me siento impotente. Identificar mis sentimientos puede ayudar a empatizar con los demás y a ver que todos atravesamos complicaciones.
+* **Es importante mantener una mente compasiva.** Es decir, entender que todos estamos tratando de manejar de la mejor manera la crisis.
+* Lejos de ‘romantizar’ la situación, **es clave encontrar un sentido en las cosas** que nos suceden fuera de nuestro contexto. **Abrirnos a la experiencia antes de rechazarla.**
+* Buscar alternativas creativas para ocupar mi tiempo, como una cena ‘a la luz de las velas’ o leer un buen libro son [buenas ideas.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero
+====================================================================
+
+El Bayer Leverkusen del ecuatoriano Piero Hincapié empató por tercera vez consecutiva en la Bundesliga.
+-------------------------------------------------------------------------------------------------------
+
+![El ecuatoriano Piero Hincapié jugó los 90 minuitos del partido](https://www.elcomercio.com/wp-content/uploads/2024/11/leverkusen-piero-empate.jpg)
+
+Con un **gol agónico**, el Bayer Leverkusen del ecuatoriano **Piero Hincapié** no pudo sostener la victoria y **empató con el último de la tabla**, el Bochum, en la décima jornada de la Bundesliga de Alemania.
 
 ### Más noticias
 
-* [¿Cuánto debe llover en Quito para mantener el estado óptimo de las reservas de agua?](https://www.elcomercio.com/actualidad/quito/cuanto-llover-quito-mantener-estado-optimo-reservas-agua.html "¿Cuánto debe llover en Quito para mantener el estado óptimo de las reservas de agua?")
-* [Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores](https://www.elcomercio.com/actualidad/quito/alarmantes-indicadores-calidad-aire-quito-uso-generadores.html "Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores")
-* [Quito tendrá un intercambiador en punto crítico de la av. Occidental](https://www.elcomercio.com/actualidad/quito/constuccion-intercambiador-occidental-mariana-jesus-quito.html "Quito tendrá un intercambiador en punto crítico de la av. Occidental")
+* [Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-bolivia.html "Beccacece destaca a Bolivia antes de partido con la Selección de Ecuador")
+* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
+* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
 
-Los recuerdos y el presente de la avenida Naciones Unidas
----------------------------------------------------------
+este **sábado** 9 de **noviembre** de **2024**, el **Bayer Leverkusen** sumó su tercer **empate** seguido en la **competición** y se distanció aún más del **liderato** del **Bayern Múnich**.
 
-La **avenida Naciones Unidas** es la vía más ancha de la ciudad: **80 metros**. Cruza con las avenidas más importantes del **macrocentro quiteño** con sus 1 **800 metros de longitud**: la Seis de Diciembre, la Shyris, la Amazonas, la Diez de Agosto y la avenida América. Y en cada uno parece tener su particularidad.
+Al contrario de lo que ocurría en la **temporada** pasada, el Leverkusen ahora pierde **victorias** en los tiempos añadidos.
 
-En el primer cruce está el **estadio Olímpico Atahualpa**; en el segundo, el parque **La Carolina,** que se extiende hasta la avenida **Amazonas** y, con él, algunos **centros comerciales**, los primeros que se levantaron en la década de los 70. Además, en el tercero, por la Amazonas, gira el mundo financiero de Quito.
+Bayer Leverkusen suma su tercer empate seguido
+----------------------------------------------
 
-En el cuarto cruce, es el paso del trolebús, con el que inicio del transporte moderno y masivo de Quito. Al final, la avenida América, cuyo **redondel perdió la belleza** que tenía con la **pileta a colores**, que fue parte de la fascinación del Quito de finales de los 70 y principios de los 80.
+El **Bochum** celebró el tanto del japonés **Koji Miyoshi** en el minuto 90. El colista se presentó al duelo con solo un punto en nueve encuentros: un empate y ocho derrotas en su haber.
 
-La primera escalera mecánica
-----------------------------
+Mientras que el equipo dirigido por **Xavi Alonso**, en los últimos tres encuentros, ha dejado escapar seis puntos. Ahora lo distancian nueve del Bayern Múnich.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-48-1024x683.jpg)
+El partido de este sábado no fue fácil para el Bayern; durante todo el cotejo no logró controlar el balón y crear serias ocasiones de gol.
 
-Fue en el **Centro Comercial Naciones Unidas** -más pronunciado como C-C-NU- en donde hubo la **primera escalera mecánica** en **Quito**. Fue una de las cosas más emocionantes de la ciudad, al punto que, en esos años 70, fue una gran atracción. Había que ver esa escalera mecánica y sentirla. Era como estar en el **primer mundo.**
+Sin embargo, el actual campeón se adelantó en el marcador al minuto 18, con un gol de **Patrik Schick**.
 
-Había un **guardia** cuya tarea especial era **cuidar el buen uso de la escalera.** Tenía un silbato y pitaba si alguien se atrevía a ir contra corriente: subir cuando la escalera bajaba o bajar cuando la escalera subía.
+Una serie de fallos en defensa castigó al conjunto de **Hincapié** al final. En una acción dentro del área, Dani de Wit encontró a Koji Miyoshi, que no perdonó, batió a **Lukas Hradecki** y encontró el gol[.](https://www.bundesliga.com/es/bundesliga "https://www.bundesliga.com/es/bundesliga")
 
-La vorágine de la ciudad
-------------------------
+El Bayer Leverkusen arrancó con la siguiente **alineación**:
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-45-1-1024x683.jpg)
+* Lukas Hradecky
+* Edmond Tapsoba
+* Jonathan Tah
+* **Piero Hincapié**
+* Jeremie Frimpong (Aleix Garcia, m.87)
+* Granit Xhaka
+* Robert Andrich
+* Alex Grimaldo
+* Florian Wirtz
+* Jonas Hofmann (Nathan Tella, m.64)
+* Patrik Schik (Victor Boniface, m.78)
 
-Aunque hay quienes viven en algunas **edificaciones** que dan a la avenida Naciones Unidas, no se puede decir que se trata de un barrio. La vida de barrio implica tener tiempo y eso es lo que precisamente falta en esta vía. **No hay tiempo en la avenida Naciones Unidas y sus alrededores**. Así son las zonas financieras de cualquier parte del mundo. La ciudad de Quito en esta zona es una **vorágine**.
-
-Los automóviles ruedan al apuro y los bocinazos son frecuentes. Las personas caminan casi sin mirar atrás. Los despistados son una novedad. Hay **ventas ambulantes** en pequeños quioscos y pocos tienen tiempo o ganas para hablar. Algunos están pendientes de las autoridades municipales de control. Pasan raudos los scooters y las bicicletas[.](https://es.wikipedia.org/wiki/Bulevar_Naciones_Unidas#:~:text=El%20Bulevar%20Naciones%20Unidas%20(tambi%C3%A9n,largo%20de%20todo%20el%20a%C3%B1o.&text=Bulevar%20Naciones%20Unidas%2C%20iluminado%20en%20Navidad.&text=Plaza%20de%20las%20Am%C3%A9ricas%2C%20Centro,Quicentro%20Shopping%2C%20Estadio%20Ol%C3%ADmpico%20Atahualpa.&text=La%20v%C3%ADa%20conecta%20al%20hipercentro,1.8%20km%20entre%20ambos%20extremos. "https://es.wikipedia.org/wiki/Bulevar_Naciones_Unidas#:~:text=El%20Bulevar%20Naciones%20Unidas%20(tambi%C3%A9n,largo%20de%20todo%20el%20a%C3%B1o.&text=Bulevar%20Naciones%20Unidas%2C%20iluminado%20en%20Navidad.&text=Plaza%20de%20las%20Am%C3%A9ricas%2C%20Centro,Quicentro%20Shopping%2C%20Estadio%20Ol%C3%ADmpico%20Atahualpa.&text=La%20v%C3%ADa%20conecta%20al%20hipercentro,1.8%20km%20entre%20ambos%20extremos.")
-
-Cruzar la calle, un riesgo en varias partes
--------------------------------------------
-
-En los 1 800 metros de longitud que tiene la avenida Naciones Unidas, hay seis puntos de semáforos. Están en las intersecciones con la Seis de Diciembre, República de El Salvador, Shyris, Japón, Amazonas, Diez de Agosto y América.
-
-Sin embargo, en **tres intersecciones no está clara la indicación de la zona cebra**, en la que tiene prioridad el peatón. Es más, en la **Seis de Diciembre** literalmente no se ve el paso peatonal. Tampoco en la Diez de Agosto tiene claridad y en el **redondel de la América** hay que tener coraje y pasar a las corridas.
-
-Los cruces más graves se dan en las intersecciones con las **calles Núñez de Vela e Iñaquito** (entre Amazonas y Diez de Agosto). Ahí es pase como quiera y sálvese quien pueda. Al no haber semáforo, los vehículos parecen tener la prioridad.
-
-En un momento, dos vehículos se detuvieron para que pasaran los peatones a la altura de la **Núñez de Vela.** Ocupaban los carriles izquierdo y central.
-
-z de Vela, por el carril derecho venía un vehículo blanco, conducido a toda velocidad por un joven. Si alguien no le gritaba “¡Ey, para!”, y frenara de golpe, alguna víctima habría, porque los peatones ya estaban a uno o dos pasos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-49-1024x683.jpg)
-
-Además, solo hay un puente peatonal, que no tan pocas personas usan. Está entre la Shyris y Japón.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-46-1-1024x683.jpg)
-
-De cualquier modo, la Naciones Unidas es **la gran avenida de Quito**, en donde se siente que es una ciudad grande, pujante, moderna y siempre en tensión consigo misma.
+El ecuatoriano comenzó de titular y jugó los **90 minutos** del partido
