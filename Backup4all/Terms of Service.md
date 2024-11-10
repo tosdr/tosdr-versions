@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to clear the backup](https://www.backup4all.com/how-to-clear-the-backup-kb.html)  
+* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
     
-* [How to back up data files from Connectria usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-connectria-using-backup4all-kb.html)  
+* [How to Backup to Azure](https://www.backup4all.com/how-to-backup-to-azure-kb.html)  
     
-* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
+* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
     
-* [How to back up data without using zip compres ...](https://www.backup4all.com/how-to-back-up-data-without-using-zip-compression-kb.html)  
+* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
     
-* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
+* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
     
 
 Choose language:
