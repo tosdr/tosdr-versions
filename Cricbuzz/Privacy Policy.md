@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-england-tour-of-west-indies-2024 "West Indies v England, 1st T20I - Preview")[BAN vs AFG - BAN Won](https://www.cricbuzz.com/live-cricket-scores/108771/ban-vs-afg-2nd-odi-afghanistan-v-bangladesh-in-uae-2024 "Bangladesh v Afghanistan, 2nd ODI - BAN Won")[NZ vs SL - SL Won](https://www.cricbuzz.com/live-cricket-scores/108737/nz-vs-sl-1st-t20i-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 1st T20I - SL Won")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100348/rsa-vs-ind-2nd-t20i-india-tour-of-south-africa-2024 "South Africa v India, 2nd T20I - Preview")[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92030/aus-vs-pak-3rd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 3rd ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-england-tour-of-west-indies-2024 "West Indies v England, 1st T20I - ENG Won")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100348/rsa-vs-ind-2nd-t20i-india-tour-of-south-africa-2024 "South Africa v India, 2nd T20I - Preview")[HBHW vs PRSW - Live](https://www.cricbuzz.com/live-cricket-scores/101352/hbhw-vs-prsw-21st-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Perth Scorchers Women, 21st Match - Live")[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92030/aus-vs-pak-3rd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 3rd ODI - Preview")[BAN vs AFG - BAN Won](https://www.cricbuzz.com/live-cricket-scores/108771/ban-vs-afg-2nd-odi-afghanistan-v-bangladesh-in-uae-2024 "Bangladesh v Afghanistan, 2nd ODI - BAN Won")
 
 AllLive NowToday
 
@@ -76,11 +76,11 @@ AllLive NowToday
     
 * West Indies v England, 2024
     
-    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-west-indies-v-england-2024 "West Indies v England, 1st T20I - Preview")
+    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-west-indies-v-england-2024 "West Indies v England, 1st T20I - ENG Won")
     
     1st T20I
     
-* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95178/wi-vs-eng-2nd-t20i-west-indies-v-england-2024 "West Indies v England, 2nd T20I - Upcoming")
+* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95178/wi-vs-eng-2nd-t20i-west-indies-v-england-2024 "West Indies v England, 2nd T20I - Preview")
     
     2nd T20I
     
@@ -210,6 +210,12 @@ AllLive NowToday
     
     6th Match
     
+* Australia Domestic One-Day Cup 2024-25
+    
+    [South Australia vs New South Wales](https://www.cricbuzz.com/live-cricket-scores/103195/saus-vs-nsw-12th-match-australia-domestic-one-day-cup-2024-25 "South Australia v New South Wales, 12th Match - Upcoming")
+    
+    12th Match
+    
 * ICC CWC Challenge League B, 2024-26
     
     [Italy vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/108179/ita-vs-hk-5th-match-icc-cwc-challenge-league-b-2024-26 "Italy v Hong Kong, 5th Match - ITA Won")
@@ -280,7 +286,7 @@ AllLive NowToday
     
     20th Match
     
-* [Hobart Hurricanes Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101352/hbhw-vs-prsw-21st-match-wbbl-2024 "Hobart Hurricanes Women v Perth Scorchers Women, 21st Match - Preview")
+* [Hobart Hurricanes Women vs Perth Scorchers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101352/hbhw-vs-prsw-21st-match-wbbl-2024 "Hobart Hurricanes Women v Perth Scorchers Women, 21st Match - Live")
     
     21st Match
     
@@ -629,37 +635,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [ICC cancels November 11 Champions Trophy event over scheduling imbroglio](https://www.cricbuzz.com/cricket-news/132373/icc-cancels-nov-11-champions-trophy-event-over-scheduling-imbroglio "ICC cancels November 11 Champions Trophy event over scheduling imbroglio")
 
-52m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132372/shanto-jaker-and-nasum-shine-as-bangladesh-draw-level "Shanto, Jaker and Nasum shine as Bangladesh draw level")
 
 [Shanto, Jaker and Nasum shine as Bangladesh draw level](https://www.cricbuzz.com/cricket-news/132372/shanto-jaker-and-nasum-shine-as-bangladesh-draw-level "Shanto, Jaker and Nasum shine as Bangladesh draw level")
 
-53m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132371/charith-asalanka-bowlers-give-sri-lanka-a-winning-start "Asalanka, bowlers give Sri Lanka a winning start")
 
 [Asalanka, bowlers give Sri Lanka a winning start](https://www.cricbuzz.com/cricket-news/132371/charith-asalanka-bowlers-give-sri-lanka-a-winning-start "Asalanka, bowlers give Sri Lanka a winning start")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132370/ranji-trophy-mulani-fifer-gives-mumbai-a-massive-win "Ranji Trophy: Mulani fifer gives Mumbai a massive win")
 
 [Ranji Trophy: Mulani fifer gives Mumbai a massive win](https://www.cricbuzz.com/cricket-news/132370/ranji-trophy-mulani-fifer-gives-mumbai-a-massive-win "Ranji Trophy: Mulani fifer gives Mumbai a massive win")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132369/sanju-samson-shaken-not-stirred "Sanju Samson: Shaken, not stirred")
 
 [Sanju Samson: Shaken, not stirred](https://www.cricbuzz.com/cricket-news/132369/sanju-samson-shaken-not-stirred "Sanju Samson: Shaken, not stirred")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132368/konstas-webster-guide-australia-a-through "Konstas, Webster guide Australia A through")
 
 [Konstas, Webster guide Australia A through](https://www.cricbuzz.com/cricket-news/132368/konstas-webster-guide-australia-a-through "Konstas, Webster guide Australia A through")
 
-10h ago
+16h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
