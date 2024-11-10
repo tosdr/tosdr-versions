@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Sets Condition for Next Senate Republican Leader](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/uploads/2020/03/10/Trump-Capitol-Hill-coronavirus-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
+* [Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757490-GettyImages-2183211687-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
+* [3 Teams That Shook Up the College Football Playoff Field](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
+    
+    4hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
+    
+    [![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757476-GettyImages-2183204068-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
+* [Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
+    
+    5hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    
+    [![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757388-GettyImages-2181953428KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
 * [‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
     
-    NEW By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    6hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
     
     [![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757167-lead22-205x123.jpg.webp)](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
 * [Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://www.theepochtimes.com/world/qatar-pauses-its-gaza-cease-fire-mediator-role-5757185)
     
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    8hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757357-GettyImages-72690487-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/qatar-pauses-its-gaza-cease-fire-mediator-role-5757185)
 * [Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://www.theepochtimes.com/us/federal-judge-gives-states-in-censorship-lawsuit-against-us-government-chance-to-make-case-5756886)
     
-    3hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    9hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757345-Vivek-Murthy-LS-205x123.webp)](https://www.theepochtimes.com/us/federal-judge-gives-states-in-censorship-lawsuit-against-us-government-chance-to-make-case-5756886)
 * [Former NATO Chief Urges Europe to Work With Trump to End Ukraine War](https://www.theepochtimes.com/us/former-nato-chief-urges-europe-to-work-with-trump-to-end-ukraine-war-5757238)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Former NATO Chief Urges Europe to Work With Trump to End Ukraine War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Former NATO Chief Urges Europe to Work With Trump to End Ukraine War](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757344-Jens-Stoltenberg-and-President-Trump-LS-205x123.webp)](https://www.theepochtimes.com/us/former-nato-chief-urges-europe-to-work-with-trump-to-end-ukraine-war-5757238)
 * [Top 3 Reasons Voters Gave for Not Supporting Harris: Poll](https://www.theepochtimes.com/us/top-3-reasons-voters-gave-for-not-supporting-harris-poll-5757135)
     
-    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    11hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Top 3 Reasons Voters Gave for Not Supporting Harris: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Top 3 Reasons Voters Gave for Not Supporting Harris: Poll](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755974-GettyImages-2183352108-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-3-reasons-voters-gave-for-not-supporting-harris-poll-5757135)
-* [Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://www.theepochtimes.com/us/trump-wins-arizona-completing-sweep-of-7-battleground-states-5754084)
+* [Plantar Fasciitis: Leading Cause of Heel Pain, 3 Natural Treatments](https://www.theepochtimes.com/health/plantar-fasciitis-symptoms-causes-treatments-and-natural-approaches-5751452)
     
-    13hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    11hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
-    [![Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Plantar Fasciitis: Leading Cause of Heel Pain, 3 Natural Treatments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Wins Arizona, Completing Sweep of 7 Battleground States](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754322-GettyImages-2182935838-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-wins-arizona-completing-sweep-of-7-battleground-states-5754084)
-* [Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://www.theepochtimes.com/us/trump-says-nikki-haley-mike-pompeo-wont-be-part-of-his-administration-5757245)
-    
-    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Says Nikki Haley, Mike Pompeo Won’t Be Part of His Administration](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757347-GettyImages-1002472000-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-nikki-haley-mike-pompeo-wont-be-part-of-his-administration-5757245)
-* [Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://www.theepochtimes.com/us/chinese-national-arrested-again-after-multiple-efforts-to-enter-mar-a-lago-5757235)
-    
-    15hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
-    
-    [![Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Chinese National Arrested Again After Multiple Efforts to Enter Mar-a-Lago](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757348-li-zijie-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/chinese-national-arrested-again-after-multiple-efforts-to-enter-mar-a-lago-5757235)
-* [School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://www.theepochtimes.com/article/school-districts-that-spent-covid-19-money-on-hiring-now-grapple-with-layoffs-5743002)
-    
-    16hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
-    
-    [![School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![School Districts That Spent COVID-19 Money on Hiring Now Grapple With Layoffs](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756826-School-layoffs-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/school-districts-that-spent-covid-19-money-on-hiring-now-grapple-with-layoffs-5743002)
-* [Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://www.theepochtimes.com/business/space-heaters-baby-sleepwear-recalled-due-to-burn-hazard-5757116)
-    
-    16hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Space Heaters, Baby Sleepwear Recalled Due to Burn Hazard](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757349-Baby-Sleepwear-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/space-heaters-baby-sleepwear-recalled-due-to-burn-hazard-5757116)
+    ![Plantar Fasciitis: Leading Cause of Heel Pain, 3 Natural Treatments](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756130-Plantar-Fasciitis_-205x123.jpg.webp)](https://www.theepochtimes.com/health/plantar-fasciitis-symptoms-causes-treatments-and-natural-approaches-5751452)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
