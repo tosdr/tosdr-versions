@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-england-tour-of-west-indies-2024 "West Indies v England, 1st T20I - ENG Won")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100348/rsa-vs-ind-2nd-t20i-india-tour-of-south-africa-2024 "South Africa v India, 2nd T20I - Preview")[HBHW vs PRSW - Live](https://www.cricbuzz.com/live-cricket-scores/101352/hbhw-vs-prsw-21st-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Perth Scorchers Women, 21st Match - Live")[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92030/aus-vs-pak-3rd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 3rd ODI - Preview")[BAN vs AFG - BAN Won](https://www.cricbuzz.com/live-cricket-scores/108771/ban-vs-afg-2nd-odi-afghanistan-v-bangladesh-in-uae-2024 "Bangladesh v Afghanistan, 2nd ODI - BAN Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs PAK - Live](https://www.cricbuzz.com/live-cricket-scores/92030/aus-vs-pak-3rd-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 3rd ODI - Live")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100348/rsa-vs-ind-2nd-t20i-india-tour-of-south-africa-2024 "South Africa v India, 2nd T20I - Preview")[SYTW vs SYSW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101358/sytw-vs-sysw-22nd-match-womens-big-bash-league-2024 "Sydney Thunder Women v Sydney Sixers Women, 22nd Match - SYTW Won")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95169/wi-vs-eng-1st-t20i-england-tour-of-west-indies-2024 "West Indies v England, 1st T20I - ENG Won")[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/108739/sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd T20I - Preview")
 
 AllLive NowToday
 
@@ -90,7 +90,7 @@ AllLive NowToday
     
     2nd ODI
     
-* [Australia vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/92030/aus-vs-pak-3rd-odi-australia-v-pakistan "Australia v Pakistan, 3rd ODI - Preview")
+* [Australia vs Pakistan  LIVE](https://www.cricbuzz.com/live-cricket-scores/92030/aus-vs-pak-3rd-odi-australia-v-pakistan "Australia v Pakistan, 3rd ODI - Live")
     
     3rd ODI
     
@@ -103,6 +103,12 @@ AllLive NowToday
 * [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/108739/sl-vs-nz-2nd-t20i-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd T20I - Preview")
     
     2nd T20I
+    
+* Indonesia v Myanmar, 2024
+    
+    [Indonesia vs Myanmar](https://www.cricbuzz.com/live-cricket-scores/109218/idn-vs-mmr-1st-t20i-indonesia-v-myanmar-2024 "Indonesia v Myanmar, 1st T20I - Upcoming")
+    
+    1st T20I
     
 * ICC CWC League Two 2023-27
     
@@ -234,6 +240,14 @@ AllLive NowToday
     
     6th Match
     
+* [Hong Kong vs Tanzania](https://www.cricbuzz.com/live-cricket-scores/108201/hk-vs-tan-9th-match-icc-cwc-challenge-league-b-2024-26 "Hong Kong v Tanzania, 9th Match - Upcoming")
+    
+    9th Match
+    
+* [Bahrain vs Italy](https://www.cricbuzz.com/live-cricket-scores/108195/bhr-vs-ita-8th-match-icc-cwc-challenge-league-b-2024-26 "Bahrain v Italy, 8th Match - Upcoming")
+    
+    8th Match
+    
 * Pakistan A v Sri Lanka A, 2024
     
     [Pakistan A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/109250/paka-vs-sla-1st-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Pakistan A v Sri Lanka A, 1st Unofficial Test - Upcoming")
@@ -274,11 +288,7 @@ AllLive NowToday
     
     WBBL 2024
     
-    [Melbourne Stars Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101344/mlsw-vs-sysw-18th-match-wbbl-2024 "Melbourne Stars Women v Sydney Sixers Women, 18th Match - SYSW Won")
-    
-    18th Match
-    
-* [Melbourne Renegades Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101345/mlrw-vs-mlsw-19th-match-wbbl-2024 "Melbourne Renegades Women v Melbourne Stars Women, 19th Match - MLRW Won")
+    [Melbourne Renegades Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101345/mlrw-vs-mlsw-19th-match-wbbl-2024 "Melbourne Renegades Women v Melbourne Stars Women, 19th Match - MLRW Won")
     
     19th Match
     
@@ -286,11 +296,11 @@ AllLive NowToday
     
     20th Match
     
-* [Hobart Hurricanes Women vs Perth Scorchers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101352/hbhw-vs-prsw-21st-match-wbbl-2024 "Hobart Hurricanes Women v Perth Scorchers Women, 21st Match - Live")
+* [Hobart Hurricanes Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101352/hbhw-vs-prsw-21st-match-wbbl-2024 "Hobart Hurricanes Women v Perth Scorchers Women, 21st Match - HBHW Won")
     
     21st Match
     
-* [Sydney Sixers Women vs Sydney Thunder Women](https://www.cricbuzz.com/live-cricket-scores/101358/sysw-vs-sytw-22nd-match-wbbl-2024 "Sydney Sixers Women v Sydney Thunder Women, 22nd Match - Preview")
+* [Sydney Thunder Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101358/sytw-vs-sysw-22nd-match-wbbl-2024 "Sydney Thunder Women v Sydney Sixers Women, 22nd Match - SYTW Won")
     
     22nd Match
     
@@ -298,13 +308,13 @@ AllLive NowToday
     
     23rd Match
     
+* [Sydney Thunder Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101367/sytw-vs-prsw-24th-match-wbbl-2024 "Sydney Thunder Women v Perth Scorchers Women, 24th Match - Upcoming")
+    
+    24th Match
+    
 * China Womens T20I Quadrangular Series
     
-    [Myanmar Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/109183/mmrw-vs-mglw-3rd-match-china-womens-t20i-quadrangular-series "Myanmar Women v Mongolia Women, 3rd Match - MMRW Won")
-    
-    3rd Match
-    
-* [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/109190/chnw-vs-hkw-4th-match-china-womens-t20i-quadrangular-series "China Women v Hong Kong Women, 4th Match - HKW Won")
+    [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/109190/chnw-vs-hkw-4th-match-china-womens-t20i-quadrangular-series "China Women v Hong Kong Women, 4th Match - HKW Won")
     
     4th Match
     
@@ -316,7 +326,7 @@ AllLive NowToday
     
     6th Match
     
-* [Mongolia Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/109204/mglw-vs-mmrw-3rd-place-play-off-china-womens-t20i-quadrangular-series "Mongolia Women v Myanmar Women, 3rd Place Play-off - Preview")
+* [Mongolia Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/109204/mglw-vs-mmrw-3rd-place-play-off-china-womens-t20i-quadrangular-series "Mongolia Women v Myanmar Women, 3rd Place Play-off - Complete")
     
     3rd Place Play-off
     
@@ -631,41 +641,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132373/icc-cancels-nov-11-champions-trophy-event-over-scheduling-imbroglio "ICC cancels November 11 Champions Trophy event over scheduling imbroglio")
+  [](https://www.cricbuzz.com/cricket-news/132379/australia-crumble-again-with-bat-to-fold-for-140 "Australia crumble again with bat to fold for 140")
 
-[ICC cancels November 11 Champions Trophy event over scheduling imbroglio](https://www.cricbuzz.com/cricket-news/132373/icc-cancels-nov-11-champions-trophy-event-over-scheduling-imbroglio "ICC cancels November 11 Champions Trophy event over scheduling imbroglio")
+[Australia crumble again with bat to fold for 140](https://www.cricbuzz.com/cricket-news/132379/australia-crumble-again-with-bat-to-fold-for-140 "Australia crumble again with bat to fold for 140")
+
+26m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132378/record-breaking-lizelle-lee-fires-hurricanes-to-big-win "Record-breaking Lizelle Lee fires Hurricanes to big win")
+
+[Record-breaking Lizelle Lee fires Hurricanes to big win](https://www.cricbuzz.com/cricket-news/132378/record-breaking-lizelle-lee-fires-hurricanes-to-big-win "Record-breaking Lizelle Lee fires Hurricanes to big win")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132377/nathan-mcsweeney-the-man-they-call-buddha-finds-his-true-calling "Nathan McSweeney - The man they call 'Buddha' finds his true calling")
+
+[Nathan McSweeney - The man they call 'Buddha' finds his true calling](https://www.cricbuzz.com/cricket-news/132377/nathan-mcsweeney-the-man-they-call-buddha-finds-his-true-calling "Nathan McSweeney - The man they call 'Buddha' finds his true calling")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132376/england-go-1-0-up-after-salt-blitz "England go 1-0 up after Salt blitz")
+
+[England go 1-0 up after Salt blitz](https://www.cricbuzz.com/cricket-news/132376/england-go-1-0-up-after-salt-blitz "England go 1-0 up after Salt blitz")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132375/mcsweeney-inglis-named-in-test-squad-for-border-gavaskar-trophy-opener "McSweeney, Inglis named in Test squad for Border-Gavaskar Trophy opener")
+
+[McSweeney, Inglis named in Test squad for Border-Gavaskar Trophy opener](https://www.cricbuzz.com/cricket-news/132375/mcsweeney-inglis-named-in-test-squad-for-border-gavaskar-trophy-opener "McSweeney, Inglis named in Test squad for Border-Gavaskar Trophy opener")
 
 6h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132372/shanto-jaker-and-nasum-shine-as-bangladesh-draw-level "Shanto, Jaker and Nasum shine as Bangladesh draw level")
+  [](https://www.cricbuzz.com/cricket-news/132374/najmul-heaps-praise-on-game-changer-nasum "Najmul heaps praise on 'game-changer' Nasum")
 
-[Shanto, Jaker and Nasum shine as Bangladesh draw level](https://www.cricbuzz.com/cricket-news/132372/shanto-jaker-and-nasum-shine-as-bangladesh-draw-level "Shanto, Jaker and Nasum shine as Bangladesh draw level")
+[Najmul heaps praise on 'game-changer' Nasum](https://www.cricbuzz.com/cricket-news/132374/najmul-heaps-praise-on-game-changer-nasum "Najmul heaps praise on 'game-changer' Nasum")
 
 6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132371/charith-asalanka-bowlers-give-sri-lanka-a-winning-start "Asalanka, bowlers give Sri Lanka a winning start")
-
-[Asalanka, bowlers give Sri Lanka a winning start](https://www.cricbuzz.com/cricket-news/132371/charith-asalanka-bowlers-give-sri-lanka-a-winning-start "Asalanka, bowlers give Sri Lanka a winning start")
-
-7h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132370/ranji-trophy-mulani-fifer-gives-mumbai-a-massive-win "Ranji Trophy: Mulani fifer gives Mumbai a massive win")
-
-[Ranji Trophy: Mulani fifer gives Mumbai a massive win](https://www.cricbuzz.com/cricket-news/132370/ranji-trophy-mulani-fifer-gives-mumbai-a-massive-win "Ranji Trophy: Mulani fifer gives Mumbai a massive win")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132369/sanju-samson-shaken-not-stirred "Sanju Samson: Shaken, not stirred")
-
-[Sanju Samson: Shaken, not stirred](https://www.cricbuzz.com/cricket-news/132369/sanju-samson-shaken-not-stirred "Sanju Samson: Shaken, not stirred")
-
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132368/konstas-webster-guide-australia-a-through "Konstas, Webster guide Australia A through")
-
-[Konstas, Webster guide Australia A through](https://www.cricbuzz.com/cricket-news/132368/konstas-webster-guide-australia-a-through "Konstas, Webster guide Australia A through")
-
-16h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
