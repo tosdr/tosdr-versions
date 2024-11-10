@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
 
 Service Stiftung Warentest
 
