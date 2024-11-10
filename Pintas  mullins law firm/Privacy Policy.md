@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the symptoms of malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-what-are-the-symptoms-of-malignant-mesothelioma-scaled.jpg "What Are the Symptoms of Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/ "What Are the Symptoms of Malignant Mesothelioma?")
+[![How can i report abuse at a memory care facility?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-can-i-report-abuse-at-a-memory-care-facility-300x200.jpg "How Can I Report Abuse at a Memory Care Facility?")](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/ "How Can I Report Abuse at a Memory Care Facility?")
 
-[#### What Are the Symptoms of Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/)
+[#### How Can I Report Abuse at a Memory Care Facility?](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/)
 
-[![Have you witnessed elderly abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-have-you-witnessed-elderly-abuse-scaled-1.jpg "Have You Witnessed Elderly Abuse?")](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/ "Have You Witnessed Elderly Abuse?")
+[![Is talcum powder a carcinogen?](https://www.pintas.com/wp-content/uploads/2020/07/shutterstock_447728962-scaled.jpg "Is Talcum Powder A Carcinogen?")](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/ "Is Talcum Powder A Carcinogen?")
 
-[#### Have You Witnessed Elderly Abuse?](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/)
+[#### Is Talcum Powder A Carcinogen?](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/)
 
-[![How do you know if lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-do-you-know-if-lung-cancer-is-caused-by-asbestos.jpg "How Do You Know If Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/ "How Do You Know If Lung Cancer Is Caused By Asbestos?")
+[![What do i do if i witness nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-do-i-do-if-i-witness-nursing-home-abuse-lawyer-scaled.jpg "What Do I Do if I Witness Nursing Home Abuse?")](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/ "What Do I Do if I Witness Nursing Home Abuse?")
 
-[#### How Do You Know If Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/)
+[#### What Do I Do if I Witness Nursing Home Abuse?](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/)
 
 ### Injured?  
 Tell Us What Happened.
