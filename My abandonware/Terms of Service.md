@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Mud Pies](https://www.myabandonware.com/game/mud-pies-sz5)
+* [Play Ball, Kate!](https://www.myabandonware.com/game/play-ball-kate-sz4)
+* [The Goofy Ghost](https://www.myabandonware.com/game/the-goofy-ghost-sz3)
 * [Word Hunt](https://www.myabandonware.com/game/word-hunt-tmd)
 * [Unnkulian Underworld: The Unknown Unventure](https://www.myabandonware.com/game/unnkulian-underworld-the-unknown-unventure-tmc)
-* [Turbo Trek](https://www.myabandonware.com/game/turbo-trek-tmb)
-* [The Crusade](https://www.myabandonware.com/game/the-crusade-tkf)
-* [Super Speed: Christmas Edition](https://www.myabandonware.com/game/super-speed-christmas-edition-tke)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
