@@ -260,10 +260,10 @@ Privacy Policy
 
 Connect with DOH
 
-* [](https://www.facebook.com/FLDepartmentofHealth)
-* [](https://twitter.com/HealthyFla)
-* [](https://www.youtube.com/user/fldoh)
-* [](https://www.pinterest.com/HealthyFla/)
+* [facebook](https://www.facebook.com/FLDepartmentofHealth)
+* [twitter](https://twitter.com/HealthyFla)
+* [youtube](https://www.youtube.com/user/fldoh)
+* [pinterest](https://www.pinterest.com/HealthyFla/)
 
 Featured Programs
 
