@@ -240,26 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Great Users
+#### Launch and scale compute workloads on KVM instances featuring hyperfast NVMe SSD storage and best price-to-performance ratio!
 
   
-
-![Partner](/content/images/content/strip/wyatt.house.png)
-
+[Get Started](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
   
-
-  
-![Partner](/content/images/content/strip/clearviewnetworks.com.png)
-
-  
-
-  
-![Partner](/content/images/content/strip/Skyrim.co.png)
-
-  
-
-  
-![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
