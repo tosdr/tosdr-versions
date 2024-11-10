@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Averno](https://www.myabandonware.com/game/averno-tk3)
-* [Avenger of Rubicon](https://www.myabandonware.com/game/avenger-of-rubicon-tk2)
-* [Astro Blaster](https://www.myabandonware.com/game/astro-blaster-tk1)
-* [Adventures in Melgratta](https://www.myabandonware.com/game/adventures-in-melgratta-tk0)
-* [Civilization](https://www.myabandonware.com/game/civilization-td6)
+* [Word Hunt](https://www.myabandonware.com/game/word-hunt-tmd)
+* [Unnkulian Underworld: The Unknown Unventure](https://www.myabandonware.com/game/unnkulian-underworld-the-unknown-unventure-tmc)
+* [Turbo Trek](https://www.myabandonware.com/game/turbo-trek-tmb)
+* [The Crusade](https://www.myabandonware.com/game/the-crusade-tkf)
+* [Super Speed: Christmas Edition](https://www.myabandonware.com/game/super-speed-christmas-edition-tke)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
