@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Service Stiftung Warentest
 
