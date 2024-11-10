@@ -9,7 +9,7 @@
 * [FanStore](https://store.fandango.com/)
 * [At Home](https://www.vudu.com/?cmp=fandango_globalnav_web)
 * [Movie News](https://www.fandango.com/movie-news)
-* [Sign In/Join](https://www.fandango.com/accounts/join-now?from=https%3A%2F%2Fwww.fandango.com%2Fpolicies%2Fterms-and-policies%3F)
+* [Sign In/Join](https://www.fandango.com/accounts/join-now?from=https%3A%2F%2Fwww.fandango.com%2Fpolicies%2Fterms-and-policies)
 
 [Gift Cards](https://www.fandango.com/fandango-gift-cards) [Offers](https://www.fandango.com/offers)[Watch Peacock](https://www.peacocktv.com/?cid=2301libgennbcrownedi6741&utm_campaign=2301libgen&utm_source=fnd_fndg_st-sv&utm_medium=own_edi_awa_glbnvlnk&utm_term=fandangovisitors&utm_content=peacock)
 
