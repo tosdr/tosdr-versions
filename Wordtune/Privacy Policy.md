@@ -529,7 +529,7 @@ Last Updated: September 3, 2023
 
 ### **Features**
 
-* [Paraphrase](https://www.wordtune.com/paraphrasing-tool)
+* [Paraphrasing tool](https://www.wordtune.com/paraphrasing-tool)
 * [Rewrite](https://www.wordtune.com/rewrite)
 * [Grammar checker](https://www.wordtune.com/grammar)
 * [Summarizer](https://www.wordtune.com/summarizer)
