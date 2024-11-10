@@ -45,21 +45,23 @@ Free UK Shipping with orders over £50
         * [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
-    * Shop our new performance wear styles.
+    * Apparel to propel you forward
         
-    * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
+    * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
     * [CAPS](https://puresportcbd.com/en-us/collections/caps)
     * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
     * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
     * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
     * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
+    * [COLLECTIONS](https://puresportcbd.com/en-us#)
+        * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/135_ee638a29-ce56-4041-9143-e612a426b1bc.jpg?v=1730816676&width=1920)
+    [![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
     
-    NEW PERFORMANCE WEAR
+    VITAMIN D3 + K2
     
-    Reflect who you are, even in the dark.](https://puresportcbd.com/en-us/collections/new-performance-wear)
+    Stay on track as Winter rolls in.](https://puresportcbd.com/en-us/collections/all)
     
 * Our story
     
@@ -147,21 +149,23 @@ Free UK Shipping with orders over £50
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
         
-        Shop our new performance wear styles.
+        Apparel to propel you forward
         
-        * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
+        * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
         * [CAPS](https://puresportcbd.com/en-us/collections/caps)
         * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
         * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
         * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
         * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
         * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
+        * [COLLECTIONS](https://puresportcbd.com/en-us#)
+            * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/135_ee638a29-ce56-4041-9143-e612a426b1bc.jpg?v=1730816676&width=1920)
+    [![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
     
-    NEW PERFORMANCE WEAR
+    VITAMIN D3 + K2
     
-    Reflect who you are, even in the dark.](https://puresportcbd.com/en-us/collections/new-performance-wear)
+    Stay on track as Winter rolls in.](https://puresportcbd.com/en-us/collections/all)
     
 * [Our story](#)
     
@@ -220,11 +224,11 @@ Free UK Shipping with orders over £50
     An unfiltered insight into the brand, people and community.](https://puresportcbd.com/en-us/blogs/puresport-project)
     
 
-[![](//puresport.co/cdn/shop/files/135_ee638a29-ce56-4041-9143-e612a426b1bc.jpg?v=1730816676&width=1920)
+[![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
 
-NEW PERFORMANCE WEAR
+VITAMIN D3 + K2
 
-Reflect who you are, even in the dark.](https://puresportcbd.com/en-us/collections/new-performance-wear)
+Stay on track as Winter rolls in.](https://puresportcbd.com/en-us/collections/all)
 
 PRIVACY POLICY
 ==============
