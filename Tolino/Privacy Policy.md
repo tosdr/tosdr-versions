@@ -259,8 +259,8 @@ With the tolino Webreader you can read your e-books directly on your laptop or t
 
 ### Download tolino app from the App Store:
 
-* [](https://apps.apple.com/de/app/tolino-free-reading-app-ebooks/id944944881?l=de&ls=1)
 * [](https://play.google.com/store/apps/details?id=com.mytolino.app)
+* [](https://apps.apple.com/de/app/tolino-free-reading-app-ebooks/id944944881?l=de&ls=1)
 
 ### Keep in touch with tolino:
 
