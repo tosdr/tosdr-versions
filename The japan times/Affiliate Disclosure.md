@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 10, 2024](https://www.japantimes.co.jp/archive/2024/11/10/ "archive page")
+[November 11, 2024](https://www.japantimes.co.jp/archive/2024/11/11/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,34 +131,54 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+
+  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+
 [Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
   [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
+[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
+  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
 [Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
-
-[Right-sided colon gets rid of cancer, Japanese researchers find](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
-
-  [![National Cancer Center Hospital building in Tokyo's Chuo Ward](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433136.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "National Cancer Center Hospital building in Tokyo's Chuo Ward")](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
-
-[Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
-
-  [![Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433159.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
-
-[Australia’s next frigates to come from Japan or Germany](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
-
-  [![A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/433020.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture")](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+
+By [Mai Yoshikawa](https://www.japantimes.co.jp/author/1728/mai-yoshikawa/ "Mai Yoshikawa")  
+
+  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
 
   [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+
+  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -167,26 +187,6 @@ Editors' Picks
 By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "Aishwarya KUMAR")  
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Right-sided colon gets rid of cancer, Japanese researchers find](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
-
-  [![National Cancer Center Hospital building in Tokyo's Chuo Ward](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433136.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "National Cancer Center Hospital building in Tokyo's Chuo Ward")](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
-
-  [![Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433159.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Australia’s next frigates to come from Japan or Germany](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
-
-  [![A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/433020.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture")](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
 Podcast
 -------
@@ -249,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[China reaffirms boundaries of sea near flash point reef](https://www.japantimes.co.jp/news/2024/11/10/asia-pacific/china-sea-reaffirms-boundaries/ "China reaffirms boundaries of sea near flash point reef")
+
+4 hours ago
+
 [Nippon Ishin chief refuses to cooperate with Ishiba government](https://www.japantimes.co.jp/news/2024/11/10/japan/politics/nippon-ishin-refuses-cooperate/ "Nippon Ishin chief refuses to cooperate with Ishiba government")
 
-31 mins ago
+6 hours ago
 
-[Fire breaks out on Japan navy ship, cause under investigation](https://www.japantimes.co.jp/news/2024/11/10/japan/fire-breaks-out-from-msdf-ship/ "Fire breaks out on Japan navy ship, cause under investigation")
+[Fire breaks out on Japan MSDF ship; cause under investigation](https://www.japantimes.co.jp/news/2024/11/10/japan/fire-breaks-out-from-msdf-ship/ "Fire breaks out on Japan MSDF ship; cause under investigation")
 
-58 mins ago
+7 hours ago
 
-[Silicon Valley’s Trump supporters envision ascendant startups, Vance 2028](https://www.japantimes.co.jp/news/2024/11/10/world/politics/silicon-valley-trump-vance/ "Silicon Valley’s Trump supporters envision ascendant startups, Vance 2028")
+[Silicon Valley’s Trump supporters envision ascendant startups and Vance 2028](https://www.japantimes.co.jp/news/2024/11/10/world/politics/silicon-valley-trump-vance/ "Silicon Valley’s Trump supporters envision ascendant startups and Vance 2028")
 
-2 hours ago
+8 hours ago
 
 [Taiwan sees a higher price for U.S. support as Trump returns to power](https://www.japantimes.co.jp/news/2024/11/10/asia-pacific/politics/taiwan-us-support-trump/ "Taiwan sees a higher price for U.S. support as Trump returns to power")
 
-2 hours ago
-
-[Foreign firms pull more money from China’s slowing economy](https://www.japantimes.co.jp/business/2024/11/10/companies/foreign-firms-china-economy/ "Foreign firms pull more money from China’s slowing economy")
-
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
