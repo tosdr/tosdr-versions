@@ -219,8 +219,8 @@ Find a Location
 Also of Interest:
 
 * [Autism Resources](https://www.abskids.com/resources/)
-* [Autism Spectrum Disorder & Preparing For A...](https://blog.abskids.com/natural-disaster-preparaton-autism)
-* [Hiring Scams Warning](https://blog.abskids.com/hiring-scams-warning)
+* [Smartphone-based Digital Platform](https://blog.abskids.com/alternative-behavior-strategies-introduces-first-smartphone-based-digital-platform-to-assist-autism-therapists)
+* [First Smartphone-based Digital Platform](https://www.abskids.com/about/news/abs-introduces-platform-to-assist-autism-therapists/)
 
 © 2024 Alternative Behavior Strategies, LLC d/b/a ABS Kids. All rights reserved.
 
