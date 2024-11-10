@@ -182,6 +182,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Georgia Teen Arrested After Killing A Man While Playing With A Gun](https://www.thegunpage.com/georgia-teen-arrested-after-killing-a-man-while-playing-with-a-gun/10611778)
 * [Looking Back At The 2009 NRA National Smallbore Rifle Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-smallbore-rifle-championship/10611772)
 * [The 5 Best Full-Size Handguns](https://www.thegunpage.com/the-5-best-full-size-handguns/10611769)
 * [BREAKING: Illinois Gun & Magazine Ban Struck Down by Federal Judge](https://www.thegunpage.com/breaking-illinois-gun-magazine-ban-struck-down-by-federal-judge/10611767)
@@ -191,7 +192,6 @@ Recent Posts
 * [The Ban on Machinegun Conversion Devices Is Archaic & Ineffective](https://www.thegunpage.com/the-ban-on-machinegun-conversion-devices-is-archaic-ineffective/10611762)
 * [Zarges Medium Pistol and Gear Case: Is It Worth the Investment?](https://www.thegunpage.com/zarges-medium-pistol-and-gear-case-is-it-worth-the-investment/10611760)
 * [PA: PA-GOA Team Ensures Harris Defeat](https://www.thegunpage.com/pa-pa-goa-team-ensures-harris-defeat/10611763)
-* [Bump Stock Bans Threaten All Semiautomatic Firearms](https://www.thegunpage.com/bump-stock-bans-threaten-all-semiautomatic-firearms/10611759)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
