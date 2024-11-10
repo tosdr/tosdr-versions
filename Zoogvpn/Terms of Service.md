@@ -244,17 +244,17 @@ Zoog Services IKE
 * [VPN for Routers](https://zoogvpn.com/products/vpn-for-router/ "Download VPN for Routers")
 * [VPN for Linux](https://zoogvpn.com/products/vpn-for-linux/ "Download VPN for Linux")
 * [VPN Extensions for Chrome](https://zoogvpn.com/chrome-vpn-extension/ "VPN Extensions for Chrome")
+* [VPN for Business](https://zoogvpn.com/business-vpn/ "Business VPN Solution")
 
 ##### About ZoogVPN
 
 * [About us](https://zoogvpn.com/about/)
 * [Pricing](https://zoogvpn.com/pricing/)
-* [Products](https://zoogvpn.com/vpn-downloads/)
 * [Features](https://zoogvpn.com/features/)
+* [Blog](https://zoogvpn.com/zlog/)
 * [Privacy Policy](https://zoogvpn.com/privacy/)
 * [Terms of Service](https://zoogvpn.com/terms/)
 * [Refund Policy](https://zoogvpn.com/refund/)
-* [Blog](https://zoogvpn.com/zlog/)
 
 ##### Help and Support
 
@@ -262,8 +262,8 @@ Zoog Services IKE
 * [VPN Setup Wizard](https://zoogvpn.com/vpn-setup/)
 * [FAQ](https://zoogvpn.com/faq/)
 * [Contact](https://zoogvpn.com/contact/)
-* [DNS Leak test](https://zoogvpn.com/dns-leak-test/)
 * [What is my IP address](https://zoogvpn.com/what-is-my-ip-address/)
+* [DNS Leak test](https://zoogvpn.com/dns-leak-test/)
 * [WebRTC Leak Test](https://zoogvpn.com/webrtc-leak-test/)
 * [Free Online Password Generator](https://zoogvpn.com/online-password-generator/)
 
