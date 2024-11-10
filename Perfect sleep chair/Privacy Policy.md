@@ -684,7 +684,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 10 people voted yesNo, this review was not helpful 1 person voted no
+    Yes, this review was helpful 11 people voted yesNo, this review was not helpful 1 person voted no
     
     **JH** 
     
