@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sun, Nov 10, 2024
+Mon, Nov 11, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
-    * [India vs South Africa](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
-    * [Donald Trump](https://www.news18.com/world/trump-completes-clean-sweep-of-all-swing-states-gets-312-electoral-votes-9115113.html)
-    * [Surviving 9-5 Workday](https://www.news18.com/lifestyle/surviving-the-9-to-5-practical-ways-to-keep-stress-out-of-your-workplace-life-9114723.html)
-    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-heartbroken-varun-dhawan-starting-family-citadel-honey-bunny-9115097.html)
-    * [MrBeast Event](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
+    * [Ind vs SA](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
+    * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
+    * [CJI Chandrachud](https://www.news18.com/india/never-allow-yourself-ex-cji-on-why-his-father-wont-let-him-sell-pune-flat-watch-9115281.html)
+    * [Logan Paul](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
+    * [Rohit Sharma](https://www.news18.com/cricket/rohit-sharma-sacked-as-india-captain-virat-kohli-in-fox-sports-bgt-poster-with-cummins-sparks-uproar-9115527.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,11 +170,11 @@ Follow us on
 In Trends:
 
 * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
-* [India vs South Africa](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
-* [Donald Trump](https://www.news18.com/world/trump-completes-clean-sweep-of-all-swing-states-gets-312-electoral-votes-9115113.html)
-* [Surviving 9-5 Workday](https://www.news18.com/lifestyle/surviving-the-9-to-5-practical-ways-to-keep-stress-out-of-your-workplace-life-9114723.html)
-* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-heartbroken-varun-dhawan-starting-family-citadel-honey-bunny-9115097.html)
-* [MrBeast Event](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
+* [Ind vs SA](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
+* [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
+* [CJI Chandrachud](https://www.news18.com/india/never-allow-yourself-ex-cji-on-why-his-father-wont-let-him-sell-pune-flat-watch-9115281.html)
+* [Logan Paul](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
+* [Rohit Sharma](https://www.news18.com/cricket/rohit-sharma-sacked-as-india-captain-virat-kohli-in-fox-sports-bgt-poster-with-cummins-sparks-uproar-9115527.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -302,7 +302,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 10, 2024
+Nov 11, 2024
 
 [View All](https://www.news18.com/short-news/)
 
