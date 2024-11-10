@@ -36,18 +36,18 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![Microsoft investigates OneDrive issue causing macOS app freezes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft investigates OneDrive issue causing macOS app freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
+    * [![Hackers now use ZIP file concatenation to evade detection](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+    * [![Put your scrolling to use and learn something new with this StackSkills deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Put your scrolling to use and learn something new with this StackSkills deal](https://www.bleepingcomputer.com/offer/deals/put-your-scrolling-to-use-and-learn-something-new-with-this-stackskills-deal/)
     * [![Google says “Enhanced protection” feature in Chrome now uses AI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Google says “Enhanced protection” feature in Chrome now uses AI](https://www.bleepingcomputer.com/news/google/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
-    * [![Scammers target UK senior citizens with Winter Fuel Payment texts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Scammers target UK senior citizens with Winter Fuel Payment texts](https://www.bleepingcomputer.com/news/security/scammers-target-uk-senior-citizens-with-winter-fuel-payment-texts/)
-    * [![Hands on with AI features in Windows 11 Paint and Notepad](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hands on with AI features in Windows 11 Paint and Notepad](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-ai-features-in-windows-11-paint-and-notepad/)
-    * [![Microsoft says recent Windows 11 updates break SSH connections](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft says recent Windows 11 updates break SSH connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-11-updates-break-ssh-connections/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
