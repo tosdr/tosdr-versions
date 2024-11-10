@@ -2,14 +2,14 @@ Sunday, November 10 2024
 
 Breaking News
 
+* [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/)
+* [Trump’s Landslide Win Reveals Dems Have More Than Just A Biden-Harris Problem](https://www.conservativedailynews.com/2024/11/trumps-landslide-win-reveals-dems-have-more-than-just-a-biden-harris-problem/)
 * [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
 * [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/)
 * [Major Automaker Exec Flatly Says Liberals’ EV ‘Mandates’ Are ‘Impossible’ To Meet](https://www.conservativedailynews.com/2024/11/major-automaker-exec-flatly-says-liberals-ev-mandates-are-impossible-to-meet/)
 * [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
 * [With Trump Returning To Power, Europe Chief Weighs Idea Of Buying More Natural Gas From US Instead Of Russia](https://www.conservativedailynews.com/2024/11/with-trump-returning-to-power-europe-chief-weighs-idea-of-buying-more-natural-gas-from-us-instead-of-russia/)
 * [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/)
-* [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/)
-* [JD Vance Has Four Years To Be Ready](https://www.conservativedailynews.com/2024/11/jd-vance-has-four-years-to-be-ready/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -116,21 +116,45 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![Democrats Trump is Hitler Card](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
+    
+    [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
+    
+    November 9, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
     
     [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
     
     November 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/why-trump-won/)
-    
-    [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/)
-    
-    November 8, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/dangerous-2/)
+    
+    [Dangerous](https://www.conservativedailynews.com/2024/11/dangerous-2/)
+    
+    November 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/07/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/)
+    
+    [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/)
+    
+    November 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/01-famrisk-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trumps-landslide-win-reveals-dems-have-more-than-just-a-biden-harris-problem/)
+    
+    [Trump’s Landslide Win Reveals Dems Have More Than Just A Biden-Harris Problem](https://www.conservativedailynews.com/2024/11/trumps-landslide-win-reveals-dems-have-more-than-just-a-biden-harris-problem/)
+    
+    November 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-hmcoming-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/closing-thoughts/)
+    
+    [Closing Thoughts](https://www.conservativedailynews.com/2024/11/closing-thoughts/)
+    
+    November 10, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-kamala-lost/)
     
     [Why Kamala Lost](https://www.conservativedailynews.com/2024/11/why-kamala-lost/)
@@ -155,33 +179,11 @@ Recent Posts
     
     November 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/10/Hamas-220x150.jpg)](https://www.conservativedailynews.com/2024/11/qatar-reportedly-expels-hamas-following-terrorist-groups-latest-rejection-of-ceasefire-deal/)
-    
-    [Qatar Reportedly Expels Hamas Following Terrorist Group’s Latest Rejection Of Ceasefire Deal](https://www.conservativedailynews.com/2024/11/qatar-reportedly-expels-hamas-following-terrorist-groups-latest-rejection-of-ceasefire-deal/)
-    
-    November 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
-    
-    [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
-    
-    November 9, 2024
-    
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/11/with-trump-returning-to-power-europe-chief-weighs-idea-of-buying-more-natural-gas-from-us-instead-of-russia/)
-    
-    [With Trump Returning To Power, Europe Chief Weighs Idea Of Buying More Natural Gas From US Instead Of Russia](https://www.conservativedailynews.com/2024/11/with-trump-returning-to-power-europe-chief-weighs-idea-of-buying-more-natural-gas-from-us-instead-of-russia/)
-    
-    November 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/07/man-in-handcuffs.jpg)](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/)
-    
-    [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/)
-    
-    November 9, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [9mm vs. .45 ACP: The Debate That Seems To Never End](https://www.thegunpage.com/9mm-vs-45-acp-the-debate-that-seems-to-never-end/10611789)
+* [Musician Jay Allen Becomes Gun Owner After Being Robbed At Gunpoint](https://www.thegunpage.com/musician-jay-allen-becomes-gun-owner-after-being-robbed-at-gunpoint/10611787)
 * [The Origin Of The ‘Plow Handle’ Grip Shape In Early Pistols](https://www.thegunpage.com/the-origin-of-the-plow-handle-grip-shape-in-early-pistols/10611781)
 * [Silencer Saturday #354: SHOT Show 2025 Predictions](https://www.thegunpage.com/silencer-saturday-354-shot-show-2025-predictions/10611780)
 * [Georgia Teen Arrested After Killing A Man While Playing With A Gun](https://www.thegunpage.com/georgia-teen-arrested-after-killing-a-man-while-playing-with-a-gun/10611778)
@@ -190,8 +192,6 @@ Recent Posts
 * [BREAKING: Illinois Gun & Magazine Ban Struck Down by Federal Judge](https://www.thegunpage.com/breaking-illinois-gun-magazine-ban-struck-down-by-federal-judge/10611767)
 * [POTD: Stag Arms Wyoming 307 Limited Edition](https://www.thegunpage.com/potd-stag-arms-wyoming-307-limited-edition/10611770)
 * [TFB Podcast Roundup 154: The November 8th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-154-the-november-8th-roundup/10611771)
-* [GOA VICTORY: Federal Judge Eviscerates Illinois AR-15 & 30+ Round Magazine Ban, Permanently Enjoins Enforcement](https://www.thegunpage.com/goa-victory-federal-judge-eviscerates-illinois-ar-15-30-round-magazine-ban-permanently-enjoins-enforcement/10611765)
-* [The Ban on Machinegun Conversion Devices Is Archaic & Ineffective](https://www.thegunpage.com/the-ban-on-machinegun-conversion-devices-is-archaic-ineffective/10611762)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,15 +233,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/#comment-783149)
+* David Criss on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783148)
+* Beverly Sellers on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783146)
 * Timothy Hardiman on [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/#comment-783144)
 * Jeff L. on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783141)
 * KayCee on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783139)
 * Stanley Warner on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783130)
 * [Ted Thomas](http://cdn/) on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783096)
 * Ted Thomas on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783095)
-* John on [God Saved Him, Because There Is More Work To Do](https://www.conservativedailynews.com/2024/11/god-saved-him-because-there-is-more-work-to-do/#comment-783065)
-* Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783064)
-* Jeff L. on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783063)
 
 [Close](#)
 
