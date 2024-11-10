@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/wat-poetst-nasa-weg-in-de-zeeman-krater/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/secret-meeting/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -207,6 +207,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
+
+##### **GuidoJ.** reacts on:
+
+##### Het geheim achter nicotine..
+
+[Voor meer info, kun je de reacties onder deze youtube video'…](https://www.wanttoknow.nl/gezondheid/het-geheim-achter-nicotine/comment-page-1/#comment-626367)
 
 ![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
 
@@ -455,14 +463,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### De sluiers worden opgelicht..!
 
 [Trump heeft Jeruzalem toch ook erkent als hoofdstad van Isra…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626335)
-
-![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
-
-##### **Arend Zeevat** reacts on:
-
-##### De sluiers worden opgelicht..!
-
-[Nou Harriët, wat Trump betreft mag onderhand toch wel duidel…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626334)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
