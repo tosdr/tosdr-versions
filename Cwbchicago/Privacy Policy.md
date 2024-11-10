@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Navy-Pier-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/navy-pier-suspect-surrenders-to-police-chicago.html "‘Person of interest’ surrenders in double murder at Navy Pier")
+
+Streeterville
+
+### [‘Person of interest’ surrenders in double murder at Navy Pier](https://cwbchicago.com/2024/11/navy-pier-suspect-surrenders-to-police-chicago.html "‘Person of interest’ surrenders in double murder at Navy Pier")
+
+[November 7, 2024 3:35 PM](https://cwbchicago.com/2024/11)
+
+Investigators on Thursday released surveillance images of the man they believe killed two of his former co-workers at Navy Pier on Tuesday afternoon. Within three hours, he turned himself in.[](https://cwbchicago.com/2024/11/navy-pier-suspect-surrenders-to-police-chicago.html "‘Person of interest’ surrenders in double murder at Navy Pier")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Timothy-Blaze-Yong-Suk-Lee-and-Samir-Marogail-326x245.jpg)](https://cwbchicago.com/2024/11/3-charged-with-burglarizing-gaming-lottery-machines-from-rogers-park-to-dunning.html "3 charged with burglarizing gaming, lottery machines from Rogers Park to Dunning")
 
 Dunning
@@ -262,16 +272,6 @@ Lincoln Square
 [November 7, 2024 5:41 AM](https://cwbchicago.com/2024/11)
 
 Police have linked five recent business robberies on the Far North Side to a single man who may be armed.[](https://cwbchicago.com/2024/11/cops-hunt-robber-whos-targeting-businesses-on-far-north-side.html "Cops hunt robber who’s targeting businesses on Far North Side")
-
-[![](https://cwbchicago.com/wp-content/uploads/2021/12/Clarence-Anderson-and-suspect-photos-326x245.jpg)](https://cwbchicago.com/2024/11/serial-robber-possibly-responsible-for-20-holdups-gets-18-year-sentence.html "Serial robber, possibly responsible for 20 holdups, gets 18-year sentence")
-
-Little Village
-
-### [Serial robber, possibly responsible for 20 holdups, gets 18-year sentence](https://cwbchicago.com/2024/11/serial-robber-possibly-responsible-for-20-holdups-gets-18-year-sentence.html "Serial robber, possibly responsible for 20 holdups, gets 18-year sentence")
-
-[November 6, 2024 7:03 PM](https://cwbchicago.com/2024/11)
-
-The man prosecutors said may have been responsible for more than 20 robberies from Little Village to the North Side has been given an 18-year sentence.[](https://cwbchicago.com/2024/11/serial-robber-possibly-responsible-for-20-holdups-gets-18-year-sentence.html "Serial robber, possibly responsible for 20 holdups, gets 18-year sentence")
 
 Search
 
