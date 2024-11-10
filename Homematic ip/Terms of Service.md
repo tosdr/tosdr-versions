@@ -335,14 +335,6 @@ Event
 
 BAUHAUS Lörrach: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-11-14-bauhaus-loerrach)
 
-[Nov.
-
-07-09
-
-Event
-
-hagebaumarkt Brunnthal: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-11-07-hagebaumarkt-brunnthal)
-
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/eula)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/eula)
 *  [![FR](/modules/contrib/languageicons/flags/fr.png "FR") FR](https://homematic-ip.com/fr/cluf)
