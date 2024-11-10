@@ -20,16 +20,16 @@ Sunday, November 10 2024
 
 Latest
 
+* [How to adjust your Strava privacy settings](https://digitpatrox.com/how-to-adjust-your-strava-privacy-settings/)
+* [Scammers target UK senior citizens with Winter Fuel Payment texts](https://digitpatrox.com/scammers-target-uk-senior-citizens-with-winter-fuel-payment-texts/)
+* [Intel exec says Arrow Lake launch ‘just didn’t go as planned’](https://digitpatrox.com/intel-exec-says-arrow-lake-launch-just-didnt-go-as-planned/)
+* [NYT Connections Today: Hints and Answers for November 10, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-10-2024/)
+* [Five Ways to Speed up Chrome](https://digitpatrox.com/five-ways-to-speed-up-chrome/)
+* [Volkswagen Recalls More Cars to Fix Faulty Takata Airbags](https://digitpatrox.com/volkswagen-recalls-more-cars-to-fix-faulty-takata-airbags/)
+* [8 Signs It Might Be Time to Change Your ISP](https://digitpatrox.com/8-signs-it-might-be-time-to-change-your-isp/)
+* [How to watch Chelsea vs Arsenal live stream for free EPL](https://digitpatrox.com/how-to-watch-chelsea-vs-arsenal-live-stream-for-free-epl/)
 * [Google says “Enhanced protection” feature in Chrome now uses AI](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
 * [There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
-* [Arcane Season 2: Who Survived and Died in Jinx’s Attack on Piltover Council?](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
-* [The secret to summarizing notifications on Android – Computerworld](https://digitpatrox.com/the-secret-to-summarizing-notifications-on-android-computerworld/)
-* [How to Structure a Cardio Playlist, According to a Spin Instructor](https://digitpatrox.com/how-to-structure-a-cardio-playlist-according-to-a-spin-instructor/)
-* [Windows 11 keeps adding clutter to the context menu with KB5046745 & KB5046746](https://digitpatrox.com/windows-11-keeps-adding-clutter-to-the-context-menu-with-kb5046745-kb5046746/)
-* [Why You Should Use Your TV’s Filmmaker Mode](https://digitpatrox.com/why-you-should-use-your-tvs-filmmaker-mode/)
-* [Reddit’s Search Is Not Good, but These Tricks Will Help](https://digitpatrox.com/reddits-search-is-not-good-but-these-tricks-will-help/)
-* [Apple’s iOS 18.2 Beta Brings AI Features](https://digitpatrox.com/apples-ios-18-2-beta-brings-ai-features/)
-* [Score! One of our favorite Mini-LED TVs of the year is $600 off in early Black Friday deal](https://digitpatrox.com/score-one-of-our-favorite-mini-led-tvs-of-the-year-is-600-off-in-early-black-friday-deal/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/04/02/Google-Chrome.jpg)](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
+* [![](https://cdn.mos.cms.futurecdn.net/VvDWNYAJNUDVnkFVVJ7vT6-1200-80.jpg)](https://digitpatrox.com/how-to-adjust-your-strava-privacy-settings/)
     
-    [Google says “Enhanced protection” feature in Chrome now uses AI](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
+    [How to adjust your Strava privacy settings](https://digitpatrox.com/how-to-adjust-your-strava-privacy-settings/)
     
-    5 mins ago
+    27 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/AfZr1qOISqug1UnRuCpsxv8ERAU=/0x0:1089x753/1200x628/filters:focal(525x168:526x169)/cdn.vox-cdn.com/uploads/chorus_asset/file/25723451/Screenshot_2024_11_09_at_4.26.56_PM.png)](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
+* [![](https://www.bleepstatic.com/content/hl-images/2016/11/18/UK-Flag.jpg)](https://digitpatrox.com/scammers-target-uk-senior-citizens-with-winter-fuel-payment-texts/)
     
-    [There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
+    [Scammers target UK senior citizens with Winter Fuel Payment texts](https://digitpatrox.com/scammers-target-uk-senior-citizens-with-winter-fuel-payment-texts/)
     
-    22 mins ago
+    2 hours ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Jinx-attacks.jpg)](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
+* [![](https://cdn.vox-cdn.com/thumbor/GTd4Pxv3auKxzuQHFI7xojBSOXw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11447641/acastro_180529_1777_intel_0001.0.jpg)](https://digitpatrox.com/intel-exec-says-arrow-lake-launch-just-didnt-go-as-planned/)
     
-    [Arcane Season 2: Who Survived and Died in Jinx’s Attack on Piltover Council?](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
+    [Intel exec says Arrow Lake launch ‘just didn’t go as planned’](https://digitpatrox.com/intel-exec-says-arrow-lake-launch-just-didnt-go-as-planned/)
     
-    41 mins ago
+    2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3598927-0-54573300-1730890056-android-notifications-16x9-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-secret-to-summarizing-notifications-on-android-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-10-2024/)
     
-    [The secret to summarizing notifications on Android – Computerworld](https://digitpatrox.com/the-secret-to-summarizing-notifications-on-android-computerworld/)
+    [NYT Connections Today: Hints and Answers for November 10, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-10-2024/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JC6Q0BQDGDNHC2CX53WRMJW0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-structure-a-cardio-playlist-according-to-a-spin-instructor/)
+* [![](https://lifehacker.com/imagery/articles/01JC6G5P0SCQFPZ9388YZAXDD7/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/five-ways-to-speed-up-chrome/)
     
-    [How to Structure a Cardio Playlist, According to a Spin Instructor](https://digitpatrox.com/how-to-structure-a-cardio-playlist-according-to-a-spin-instructor/)
+    [Five Ways to Speed up Chrome](https://digitpatrox.com/five-ways-to-speed-up-chrome/)
     
-    3 hours ago
+    5 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 mins ago
+* [27 mins ago
     
-    ### Google says “Enhanced protection” feature in Chrome now uses AI](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
-* [22 mins ago
+    ### How to adjust your Strava privacy settings](https://digitpatrox.com/how-to-adjust-your-strava-privacy-settings/)
+* [2 hours ago
     
-    ### There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
-* [41 mins ago
+    ### Scammers target UK senior citizens with Winter Fuel Payment texts](https://digitpatrox.com/scammers-target-uk-senior-citizens-with-winter-fuel-payment-texts/)
+* [2 hours ago
     
-    ### Arcane Season 2: Who Survived and Died in Jinx’s Attack on Piltover Council?](https://digitpatrox.com/arcane-season-2-who-survived-and-died-in-jinxs-attack-on-piltover-council/)
+    ### Intel exec says Arrow Lake launch ‘just didn’t go as planned’](https://digitpatrox.com/intel-exec-says-arrow-lake-launch-just-didnt-go-as-planned/)
 
 Most Popular Topics
 
-* [August 18, 2024
+* [September 16, 2024
     
-    ### A Googler’s guide to getting things done](https://digitpatrox.com/a-googlers-guide-to-getting-things-done/)
-* [August 24, 2024
+    ### What is a cloud server?](https://digitpatrox.com/what-is-a-cloud-server/)
+* [3 weeks ago
     
-    ### Why I Stopped Trusting Game Trailers Years Ago](https://digitpatrox.com/why-i-stopped-trusting-game-trailers-years-ago/)
-* [August 27, 2024
+    ### How to fix 0xC1900101 errors on Windows 11, 10](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
+* [2 days ago
     
-    ### HMD’s Barbie flip phone goes extremely hard](https://digitpatrox.com/hmds-barbie-flip-phone-goes-extremely-hard/)
+    ### The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [5 hours ago
     
-    ### Why You Should Use Your TV’s Filmmaker Mode](https://digitpatrox.com/why-you-should-use-your-tvs-filmmaker-mode/)
-* [3 hours ago
+    ### 8 Signs It Might Be Time to Change Your ISP](https://digitpatrox.com/8-signs-it-might-be-time-to-change-your-isp/)
+* [5 hours ago
     
-    ### Reddit’s Search Is Not Good, but These Tricks Will Help](https://digitpatrox.com/reddits-search-is-not-good-but-these-tricks-will-help/)
-* [4 hours ago
+    ### How to watch Chelsea vs Arsenal live stream for free EPL](https://digitpatrox.com/how-to-watch-chelsea-vs-arsenal-live-stream-for-free-epl/)
+* [7 hours ago
     
-    ### Apple’s iOS 18.2 Beta Brings AI Features](https://digitpatrox.com/apples-ios-18-2-beta-brings-ai-features/)
+    ### Google says “Enhanced protection” feature in Chrome now uses AI](https://digitpatrox.com/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
