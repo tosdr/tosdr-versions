@@ -237,6 +237,4 @@ Chevron down icon Chevron down icon
 
        
 
-     
-
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
