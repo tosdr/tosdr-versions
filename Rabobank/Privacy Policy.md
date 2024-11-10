@@ -1,8 +1,8 @@
 Go directly to:
 
-* [Go directly to: Main navigation](https://www.rabobank.com/privacy#main_navigation)
-* [Go directly to: Content](https://www.rabobank.com/privacy#content)
-* [Go directly to: Footer](https://www.rabobank.com/privacy#footer)
+* [Go directly to: Main navigation](https://www.rabobank.com/privacy?907062@=#main_navigation)
+* [Go directly to: Content](https://www.rabobank.com/privacy?907062@=#content)
+* [Go directly to: Footer](https://www.rabobank.com/privacy?907062@=#footer)
 
 [![Rabo logo](https://media.rabobank.com/m/5c0d2c496819b02f/original/Rabobank-text-logo.png)](https://www.rabobank.com/ "to homepage")
 
