@@ -1,16 +1,16 @@
 [Skip to main content](#main-content)
 
-Save 50% Sitewide! DETAILS
+Save 40% Sitewide! DETAILS
 
-BLACK FRIDAY TRAINING RUN
+Celebrate the Holidays Pain-Free!
 
 Close the Modal
 
-#### Save 50% Sitewide!
+#### SAVE 40% SITEWIDE
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 11/7/2024 8AM ET - 11/9/2024 6AM ET.
+Offer valid 11/10/2024 8AM ET - 11/12/2024 6AM ET.
 
 Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
