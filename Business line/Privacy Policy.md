@@ -8,17 +8,17 @@
 
  -51.15
 
-##### CRUDEOIL   5,946.00
+##### CRUDEOIL   5,950.00
 
- -183.00
+ -6.00
 
-##### GOLD   77,260.00
+##### GOLD   77,292.00
 
- -151.00
++ 20.00
 
-##### SILVER   91,261.00
+##### SILVER   91,270.00
 
- -1,052.00
++ 1.00
 
 ##### SENSEX   79,486.32
 
@@ -32,17 +32,17 @@
 
  -51.15
 
-##### CRUDEOIL   5,946.00
+##### CRUDEOIL   5,950.00
 
- -183.00
+ -6.00
 
-##### CRUDEOIL   5,946.00
+##### CRUDEOIL   5,950.00
 
- -183.00
+ -6.00
 
-##### GOLD   77,260.00
+##### GOLD   77,292.00
 
- -151.00
++ 20.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
