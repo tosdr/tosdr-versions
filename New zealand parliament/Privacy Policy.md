@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/footer/faq/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/list-of-submitters/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/footer/faq/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/list-of-submitters/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
