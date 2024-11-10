@@ -9,7 +9,7 @@
 * [FanStore](https://store.fandango.com/)
 * [At Home](https://www.vudu.com/?cmp=fandango_globalnav_web)
 * [Movie News](https://www.fandango.com/movie-news)
-* [Sign In/Join](https://www.fandango.com/accounts/join-now?from=https%3A%2F%2Fwww.fandango.com%2Fpolicies%2Fterms-and-policies)
+* [Sign In/Join](https://www.fandango.com/accounts/join-now?from=https%3A%2F%2Fwww.fandango.com%2Fpolicies%2Fterms-and-policies%3F)
 
 [Gift Cards](https://www.fandango.com/fandango-gift-cards) [Offers](https://www.fandango.com/offers)[Watch Peacock](https://www.peacocktv.com/?cid=2301libgennbcrownedi6741&utm_campaign=2301libgen&utm_source=fnd_fndg_st-sv&utm_medium=own_edi_awa_glbnvlnk&utm_term=fandangovisitors&utm_content=peacock)
 
@@ -18,7 +18,7 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **E! @ Wicked Premiere Livestream** Tune in on Nov 9th at 8PM ET / 5PM PT
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get $5 off on Moana to watch at home** When you buy a ticket to Moana 2
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
@@ -61,14 +61,6 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [E! @ Wicked Premiere Livestream image link ![E! @ Wicked Premiere Livestream](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/2a41b4f0-98b0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-wickedlivestream-292x118-v3.png)](https://www.fandango.com/movie-news/e-at-wicked-premiere-presented-by-fandango-how-to-watch-live-on-november-9-755207?cmp=TARS~FANDANGO~WickedLivestream_Footer) 
-    
-    ### E! @ Wicked Premiere Livestream
-    
-    Don't miss the magic! Tune in to the Livestream on Nov 9th at 8PM ET / 5PM PT presented by Fandango.
-    
-    [TUNE IN](https://www.fandango.com/movie-news/e-at-wicked-premiere-presented-by-fandango-how-to-watch-live-on-november-9-755207?cmp=TARS~FANDANGO~WickedLivestream_Footer)
-    
 * [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
     
     ### Gladiator II Prop Auction
@@ -77,21 +69,29 @@ Offers
     
     [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
-* [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
+* [Get $5 off on Moana image link ![Get $5 off on Moana](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dee210e0-9332-11ef-8321-2b978811c524--fan-globalofferunit-homepage-moana2gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer) 
     
-    ### Wicked Exclusive Collector's Pin Pack
+    ### Get $5 off on Moana
     
-    Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
+    Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
     
-    [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer)
     
-* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
+* [Introducing Fandango FanClub! image link ![Introducing Fandango FanClub!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6be1ccb0-9333-11ef-ab6e-6bc4e16d49df--fanclub-p1-launch-tars-292x118-v3a.png)](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer) 
     
-    ### Popular Poster Pack
+    ### Introducing Fandango FanClub!
     
-    Get 2 movie tickets to Wicked, a limited edition poster, and more!
+    FanClub provides exclusive benefits that help you save money every time you go to the movies with monthly credits, fee-free tickets, and unique perks.
     
-    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
+    [JOIN NOW](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer)
+    
+* [SPECIAL EARLY SCREENING image link ![SPECIAL EARLY SCREENING](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/c7c8cc70-9335-11ef-8321-2b978811c524--fan-offerunit-wicked-292x118.png)](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer) 
+    
+    ### SPECIAL EARLY SCREENING
+    
+    See Wicked in theaters early as a Prime Member Exclusive
+    
+    [BUY NOW](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer)
     
 
 New & Coming soon
@@ -190,15 +190,15 @@ New & Coming soon
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
 
-### SPECIAL EVENT
+### Special Offer
 
 Close
 
-![E! @ Wicked Premiere Livestream](https://images.fandango.com/cms/assets/25ef9c10-98b4-11ef-8321-2b978811c524--fan-globalnavbar-wickedlivestream-343x362-v3.jpg)
+![Get $5 off on Moana to watch at home](http://images.fandango.com/cms/assets/ce5fefa0-9e2f-11ef-a07e-5b03d6159fe4--fan-globalnavbar-moana2gwp-343x362.jpg)
 
-#### Don't miss the magic! Tune in to the Livestream on Nov 9th at 8PM ET / 5PM PT presented by Fandango.
+#### Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
 
-[TUNE IN](https://www.fandango.com/movie-news/e-at-wicked-premiere-presented-by-fandango-how-to-watch-live-on-november-9-755207?cmp=TARS~FANDANGO~WickedLivestream_promomodule)
+Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Moana 2’ between 7:00am PT on 10/28/24 and 11:59pm PT on 11/10/24. Purchaser will receive a post purchase email containing one Fandango at Home Promotional Code (“Code”) that is good for $5 off the purchase (and not the rental) of Moana in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 11/15/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes, shipping and handling additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. If cost of purchase or rental is more than maximum value of the Code, then user must pay the difference. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_promomodule)
 
 ### Special Offer
 
