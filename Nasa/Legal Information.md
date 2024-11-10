@@ -70,13 +70,13 @@ Suggested Searches
 
 ### NASA Named one of America’s Best Employers for Veterans 
 
-article20 hours ago](https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
+article1 day ago](https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
 
 6 min read
 
 ### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 
-article22 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article1 day ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -291,7 +291,7 @@ article 5 days ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human
 
 ### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 
-article 22 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
+article 1 day ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Open Science Success Stories with Dr Keith Siew
 
-article 20 hours ago](https://www.nasa.gov/open-science-success-stories-with-dr-keith-siew-2/)[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
+article 1 day ago](https://www.nasa.gov/open-science-success-stories-with-dr-keith-siew-2/)[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
 
 1 min read
 
 ### Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
 
 6 min read
 
 ### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 
-article 22 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)
+article 1 day ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 22 hours ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian
 
 ### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 
-article 22 hours ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+article 1 day ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-b
 
 ### Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
 
 3 min read
 
@@ -433,13 +433,13 @@ article 3 days ago](https://www.nasa.gov/learning-resources/get-involved-with-na
 
 ### NASA Named one of America’s Best Employers for Veterans 
 
-article 20 hours ago](https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/)[![Anna L. Fisher operates the Remote Manipulator System from Discovery’s aft flight deck](https://www.nasa.gov/wp-content/uploads/2024/11/sts-51a-20-fisher-operating-rms-51a-31-067.jpg?w=381)
+article 1 day ago](https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/)[![Anna L. Fisher operates the Remote Manipulator System from Discovery’s aft flight deck](https://www.nasa.gov/wp-content/uploads/2024/11/sts-51a-20-fisher-operating-rms-51a-31-067.jpg?w=381)
 
 12 min read
 
 ### 40 Years Ago: STS-51A – “The Ace Repo Company”
 
-article 24 hours ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
 
 3 min read
 
