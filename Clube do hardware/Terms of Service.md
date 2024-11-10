@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1426275821_menu)
+ [Compartilhar](#elShareItem_694466894_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_748505614_menu)
+ [Compartilhar](#elShareItem_1876873992_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Abbaab DiCabra](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1092589.thumb.jpeg.de0704ed3794d61efefcdf6807814f3b.jpeg)](https://www.clubedohardware.com.br/profile/1092589-abbaab-dicabra/ "Ir ao perfil de Abbaab DiCabra")
+    * [![Rubinho Tech](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/Zubat-Pokemon-PNG-Photo.thumb.png.d188a60d49b252e839b99338f1a45045.png)](https://www.clubedohardware.com.br/profile/866567-rubinho-tech/ "Ir ao perfil de Rubinho Tech")
         
         0
         
-        [Tentei upgradear o processador, mas não funcionou. No que errei?](https://www.clubedohardware.com.br/forums/topic/1701940-tentei-upgradear-o-processador-mas-n%C3%A3o-funcionou-no-que-errei/?do=getNewComment "Tentei upgradear o processador, mas não funcionou. No que errei?")
+        [Como a Sony Poderia Melhorar o Ps5 Pro](https://www.clubedohardware.com.br/forums/topic/1701968-como-a-sony-poderia-melhorar-o-ps5-pro/?do=getNewComment "Como a Sony Poderia Melhorar o Ps5 Pro")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Abbaab DiCabra](https://www.clubedohardware.com.br/profile/1092589-abbaab-dicabra/ "Ir ao perfil de Abbaab DiCabra")  
-        25 minutos atrás
+        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
+        Por [Rubinho Tech](https://www.clubedohardware.com.br/profile/866567-rubinho-tech/ "Ir ao perfil de Rubinho Tech")  
+        4 minutos atrás
         
-    * [![Carlos AM Rodrigues](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ECA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255781-carlos-am-rodrigues/ "Ir ao perfil de Carlos AM Rodrigues")
-        
-        0
-        
-        [Mau funcionamento do computador](https://www.clubedohardware.com.br/forums/topic/1701939-mau-funcionamento-do-computador/?do=getNewComment "Mau funcionamento do computador")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [Carlos AM Rodrigues](https://www.clubedohardware.com.br/profile/1255781-carlos-am-rodrigues/ "Ir ao perfil de Carlos AM Rodrigues")  
-        27 minutos atrás
-        
-    * [![Brunno.Alves](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1220163.thumb.jpeg.e716cfba6373fad42f2dc329c3ae33fd.jpeg)](https://www.clubedohardware.com.br/profile/1220163-brunnoalves/ "Ir ao perfil de Brunno.Alves")
+    * [![DEREFTGH](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1218298.thumb.jpeg.18aca2dda3959f7e17ccb66ff5f7fe08.jpeg)](https://www.clubedohardware.com.br/profile/1218298-dereftgh/ "Ir ao perfil de DEREFTGH")
         
         0
         
-        [Pc não dá imagem depois de uma queda de energia](https://www.clubedohardware.com.br/forums/topic/1701938-pc-n%C3%A3o-d%C3%A1-imagem-depois-de-uma-queda-de-energia/?do=getNewComment "Pc não dá imagem depois de uma queda de energia")
+        [uma placa-mãe DIEBOLD H61H2-M3 (V1.0) suporta um i7 3770?](https://www.clubedohardware.com.br/forums/topic/1701967-uma-placa-m%C3%A3e-diebold-h61h2-m3-v10-suporta-um-i7-3770/?do=getNewComment "uma placa-mãe DIEBOLD H61H2-M3 (V1.0) suporta um i7 3770?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Brunno.Alves](https://www.clubedohardware.com.br/profile/1220163-brunnoalves/ "Ir ao perfil de Brunno.Alves")  
-        42 minutos atrás
+        Por [DEREFTGH](https://www.clubedohardware.com.br/profile/1218298-dereftgh/ "Ir ao perfil de DEREFTGH")  
+        5 minutos atrás
         
-    * [![Falcoyeahh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1236400.thumb.jpeg.b1415fe7c6e1002a8747d873776dbf75.jpeg)](https://www.clubedohardware.com.br/profile/1236400-falcoyeahh/ "Ir ao perfil de Falcoyeahh")
+    * [![daniellelandini](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/Image-4872.thumb.jpg.7d8df9e47c70a110bc5ba814686dd72d.jpg)](https://www.clubedohardware.com.br/profile/963280-daniellelandini/ "Ir ao perfil de daniellelandini")
+        
+        0
+        
+        [Indicação de placa-mãe boa e barata e gabinete](https://www.clubedohardware.com.br/forums/topic/1701965-indica%C3%A7%C3%A3o-de-placa-m%C3%A3e-boa-e-barata-e-gabinete/?do=getNewComment "Indicação de placa-mãe boa e barata e gabinete")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [daniellelandini](https://www.clubedohardware.com.br/profile/963280-daniellelandini/ "Ir ao perfil de daniellelandini")  
+        13 minutos atrás
+        
+    * [![Chkazz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255821.thumb.jpeg.374b89c92d682afd7b3132f5bf80a9b3.jpeg)](https://www.clubedohardware.com.br/profile/1255821-chkazz/ "Ir ao perfil de Chkazz")
         
         2
         
-        [Montei um Ryzen 5 4600g com uma b450m e não dá Vídeo ou bipa](https://www.clubedohardware.com.br/forums/topic/1701937-montei-um-ryzen-5-4600g-com-uma-b450m-e-n%C3%A3o-d%C3%A1-v%C3%ADdeo-ou-bipa/?do=getNewComment "Montei um Ryzen 5 4600g com uma b450m e não dá Vídeo ou bipa")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Falcoyeahh](https://www.clubedohardware.com.br/profile/1236400-falcoyeahh/ "Ir ao perfil de Falcoyeahh")  
-        47 minutos atrás
-        
-    * [![FoxJonZ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255799.thumb.png.21204a1669c201ce594cbab3e0947dc7.png)](https://www.clubedohardware.com.br/profile/1255799-foxjonz/ "Ir ao perfil de FoxJonZ")
-        
-        0
-        
-        [Compatibilidade com am5 Water cooler H45](https://www.clubedohardware.com.br/forums/topic/1701936-compatibilidade-com-am5-water-cooler-h45/?do=getNewComment "Compatibilidade com am5  Water cooler H45")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [FoxJonZ](https://www.clubedohardware.com.br/profile/1255799-foxjonz/ "Ir ao perfil de FoxJonZ")  
-        1 hora atrás
-        
-    * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.png.a9180a7adafa6f6d2058e08ccf4cabcc.png)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
-        
-        1
-        
-        [Gabinete Pichau Pouter 4 suporta Radeon RX 7700XT e Corsair H150 360mm?](https://www.clubedohardware.com.br/forums/topic/1701935-gabinete-pichau-pouter-4-suporta-radeon-rx-7700xt-e-corsair-h150-360mm/?do=getNewComment "Gabinete Pichau Pouter 4 suporta Radeon RX 7700XT e Corsair H150 360mm?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
-        1 hora atrás
-        
-    * [![Ronaldo Salustino](https://www.clubedohardware.com.br/uploads/members/monthly_2021_06/111.jpg.thumb.jpg.9d15a28f2e807b35ecf76482cfbb02ec.jpg)](https://www.clubedohardware.com.br/profile/1088880-ronaldo-salustino/ "Ir ao perfil de Ronaldo Salustino")
-        
-        0
-        
-        [Configurações da BIOS Gigabyte para a instalação da distro Mint 22](https://www.clubedohardware.com.br/forums/topic/1701934-configura%C3%A7%C3%B5es-da-bios-gigabyte-para-a-instala%C3%A7%C3%A3o-da-distro-mint-22/?do=getNewComment "Configurações da BIOS Gigabyte para a instalação da distro Mint 22")
-        
-        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
-        Por [Ronaldo Salustino](https://www.clubedohardware.com.br/profile/1088880-ronaldo-salustino/ "Ir ao perfil de Ronaldo Salustino")  
-        1 hora atrás
-        
-    * [![Toni1836](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1236948.thumb.jpeg.6be9b719c0824493114704fb8be6cf6c.jpeg)](https://www.clubedohardware.com.br/profile/1236948-toni1836/ "Ir ao perfil de Toni1836")
-        
-        1
-        
-        [rx580 não da Vídeo](https://www.clubedohardware.com.br/forums/topic/1701933-rx580-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "rx580 não da Vídeo")
+        [PcYes, Mancer ou Afox? (Radeon RX550 ou GeForce GTX 750ti)](https://www.clubedohardware.com.br/forums/topic/1701962-pcyes-mancer-ou-afox-radeon-rx550-ou-geforce-gtx-750ti/?do=getNewComment "PcYes, Mancer ou Afox? (Radeon RX550 ou GeForce GTX 750ti)")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Toni1836](https://www.clubedohardware.com.br/profile/1236948-toni1836/ "Ir ao perfil de Toni1836")  
+        Por [Chkazz](https://www.clubedohardware.com.br/profile/1255821-chkazz/ "Ir ao perfil de Chkazz")  
+        27 minutos atrás
+        
+    * [![nivek](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1179405.thumb.jpeg.cbb18c5641beeaabccd955d31d071991.jpeg)](https://www.clubedohardware.com.br/profile/1179405-nivek/ "Ir ao perfil de nivek")
+        
+        0
+        
+        [Um módulo de 16gb ou 2x8gb?](https://www.clubedohardware.com.br/forums/topic/1701961-um-m%C3%B3dulo-de-16gb-ou-2x8gb/?do=getNewComment "Um módulo de 16gb ou 2x8gb?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [nivek](https://www.clubedohardware.com.br/profile/1179405-nivek/ "Ir ao perfil de nivek")  
+        31 minutos atrás
+        
+    * [![Mago Dragão Nascido](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243347.thumb.jpeg.7d8bd80033cb539c5162ba06b41cbbea.jpeg)](https://www.clubedohardware.com.br/profile/1243347-mago-drag%C3%A3o-nascido/ "Ir ao perfil de Mago Dragão Nascido")
+        
+        0
+        
+        [bem Ryzen 5 5600X ou Ryzen 5 3600 e AMD Ryzen 7 5700X?](https://www.clubedohardware.com.br/forums/topic/1701960-bem-ryzen-5-5600x-ou-ryzen-5-3600-e-amd-ryzen-7-5700x/?do=getNewComment "bem Ryzen 5 5600X ou Ryzen 5 3600 e AMD Ryzen 7 5700X?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Mago Dragão Nascido](https://www.clubedohardware.com.br/profile/1243347-mago-drag%C3%A3o-nascido/ "Ir ao perfil de Mago Dragão Nascido")  
+        38 minutos atrás
+        
+    * [![aerozoniia](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255820.thumb.png.1ba94f10d983e4cd358c319222b3c521.png)](https://www.clubedohardware.com.br/profile/1255820-aerozoniia/ "Ir ao perfil de aerozoniia")
+        
+        0
+        
+        [Sobre bateria notebook HP 256 G8](https://www.clubedohardware.com.br/forums/topic/1701959-sobre-bateria-notebook-hp-256-g8/?do=getNewComment "Sobre bateria notebook HP 256 G8")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [aerozoniia](https://www.clubedohardware.com.br/profile/1255820-aerozoniia/ "Ir ao perfil de aerozoniia")  
+        43 minutos atrás
+        
+    * [![Klinger Hudson](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362afc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EKH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/786000-klinger-hudson/ "Ir ao perfil de Klinger Hudson")
+        
+        1
+        
+        [Vale a pena um I5 11400F??](https://www.clubedohardware.com.br/forums/topic/1701957-vale-a-pena-um-i5-11400f/?do=getNewComment "Vale a pena um I5 11400F??")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Klinger Hudson](https://www.clubedohardware.com.br/profile/786000-klinger-hudson/ "Ir ao perfil de Klinger Hudson")  
         1 hora atrás
         
-    * [![TheVoid188](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/9bd3dd2da7926e154db75851650537e4ade2d7a3_hq.thumb.jpg.4e8b1aa4916e0027224fff0adcd81169.jpg)](https://www.clubedohardware.com.br/profile/1116624-thevoid188/ "Ir ao perfil de TheVoid188")
+    * [![HarrenvelTSD](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255818.thumb.jpeg.55762c7c22924dfd32a7458e35e5d6ba.jpeg)](https://www.clubedohardware.com.br/profile/1255818-harrenveltsd/ "Ir ao perfil de HarrenvelTSD")
         
-        4
+        0
         
-        [O que é melhor, cabo de força 0,75mm ou 2,50mm?](https://www.clubedohardware.com.br/forums/topic/1701932-o-que-%C3%A9-melhor-cabo-de-for%C3%A7a-075mm-ou-250mm/?do=getNewComment "O que é melhor, cabo de força 0,75mm ou 2,50mm?")
+        [Meu notebook não está usando a placa de Vídeo direito](https://www.clubedohardware.com.br/forums/topic/1701956-meu-notebook-n%C3%A3o-est%C3%A1-usando-a-placa-de-v%C3%ADdeo-direito/?do=getNewComment "Meu notebook não está usando a placa de Vídeo direito")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [TheVoid188](https://www.clubedohardware.com.br/profile/1116624-thevoid188/ "Ir ao perfil de TheVoid188")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [HarrenvelTSD](https://www.clubedohardware.com.br/profile/1255818-harrenveltsd/ "Ir ao perfil de HarrenvelTSD")  
         1 hora atrás
         
-    * [![Victorruan12341](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1207107-victorruan12341/ "Ir ao perfil de Victorruan12341")
+    * [![CaduGms](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255816.thumb.jpeg.02ea11a375049bac7c85a0b463be06d2.jpeg)](https://www.clubedohardware.com.br/profile/1255816-cadugms/ "Ir ao perfil de CaduGms")
         
-        6
+        1
         
-        [O cs2 rodaria a mais de 180fps com Ryzen 5 4600G e RX 7600 ou RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1701927-o-cs2-rodaria-a-mais-de-180fps-com-ryzen-5-4600g-e-rx-7600-ou-rtx-4060/?do=getNewComment "O cs2 rodaria a mais de 180fps com Ryzen 5 4600G e RX 7600 ou RTX 4060?")
+        [montagem do meu pc se sao compatives ou se tem algum erro](https://www.clubedohardware.com.br/forums/topic/1701955-montagem-do-meu-pc-se-sao-compatives-ou-se-tem-algum-erro/?do=getNewComment "montagem do meu pc se sao compatives ou se tem algum erro")
         
-        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
-        Por [Victorruan12341](https://www.clubedohardware.com.br/profile/1207107-victorruan12341/ "Ir ao perfil de Victorruan12341")  
-        2 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [CaduGms](https://www.clubedohardware.com.br/profile/1255816-cadugms/ "Ir ao perfil de CaduGms")  
+        1 hora atrás
         
     
 
@@ -623,5 +623,11 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
+
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+
+**EBOOK GRÁTIS!**
+
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
