@@ -139,6 +139,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
+[Right-sided colon gets rid of cancer, Japanese researchers find](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
+
+  [![National Cancer Center Hospital building in Tokyo's Chuo Ward](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433136.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "National Cancer Center Hospital building in Tokyo's Chuo Ward")](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
+
 [Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
 
   [![Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433159.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
@@ -146,10 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Australia’s next frigates to come from Japan or Germany](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
 
   [![A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/433020.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture")](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
-
-[Japan’s households cut spending once again as prices rise](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
-
-  [![Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432961.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.")](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
 Editors' Picks
 --------------
@@ -170,6 +170,12 @@ By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Right-sided colon gets rid of cancer, Japanese researchers find](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
+
+  [![National Cancer Center Hospital building in Tokyo's Chuo Ward](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433136.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "National Cancer Center Hospital building in Tokyo's Chuo Ward")](https://www.japantimes.co.jp/news/2024/11/09/japan/science-health/right-side-colon-cancer-japan-research/ "Right-sided colon gets rid of cancer, Japanese researchers find")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Ishiba considering U.S. visit for first in-person talks with Trump](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
 
   [![Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433159.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba reviews Self-Defense Forces troops during the SDF's 70th anniversary at the Ground Self-Defense Force's Camp Asaka, which straddles Tokyo and Saitama Prefecture, on Saturday.")](https://www.japantimes.co.jp/news/2024/11/09/japan/politics/ishiba-us-visit-trump-meeting/ "Ishiba considering U.S. visit for first in-person talks with Trump")
@@ -181,14 +187,6 @@ By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "
 By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
   [![A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/433020.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Mogami frigate at the Maritime Self-Defense Force's Yokosuka Naval Base in Yokosuka, Kanagawa Prefecture")](https://www.japantimes.co.jp/news/2024/11/08/japan/japan-germany-australian-frigates/ "Australia’s next frigates to come from Japan or Germany")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Japan’s households cut spending once again as prices rise](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
-
-By [Toru Fujioka](https://www.japantimes.co.jp/author/358/toru-fujioka/ "Toru Fujioka")  
-
-  [![Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432961.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese household spending fell in September for the second straight month as higher prices choked consumers' appetite.")](https://www.japantimes.co.jp/business/2024/11/08/economy/september-household-spending/ "Japan’s households cut spending once again as prices rise")
 
 Podcast
 -------
@@ -251,23 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Charting the global economy: Trump win reverberates around the world](https://www.japantimes.co.jp/business/2024/11/10/economy/global-economy-trump-win/ "Charting the global economy: Trump win reverberates around the world")
+[Nippon Ishin chief refuses to cooperate with Ishiba government](https://www.japantimes.co.jp/news/2024/11/10/japan/politics/nippon-ishin-refuses-cooperate/ "Nippon Ishin chief refuses to cooperate with Ishiba government")
 
-1 hours ago
+31 mins ago
 
-[Qatar stalls its Gaza ceasefire mediation](https://www.japantimes.co.jp/news/2024/11/10/world/politics/qatar-gaza-ceasefire-mediation/ "Qatar stalls its Gaza ceasefire mediation")
+[Fire breaks out on Japan navy ship, cause under investigation](https://www.japantimes.co.jp/news/2024/11/10/japan/fire-breaks-out-from-msdf-ship/ "Fire breaks out on Japan navy ship, cause under investigation")
 
-1 hours ago
+58 mins ago
 
-[At least 40 killed as Israel pounds Lebanon, Lebanese officials say](https://www.japantimes.co.jp/news/2024/11/10/world/israel-pounds-lebanon-lebanese-officials/ "At least 40 killed as Israel pounds Lebanon, Lebanese officials say")
+[Silicon Valley’s Trump supporters envision ascendant startups, Vance 2028](https://www.japantimes.co.jp/news/2024/11/10/world/politics/silicon-valley-trump-vance/ "Silicon Valley’s Trump supporters envision ascendant startups, Vance 2028")
 
-1 hours ago
+2 hours ago
 
-[Japanese police seize over 100 smartphones in serial robberies](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones in serial robberies")
+[Taiwan sees a higher price for U.S. support as Trump returns to power](https://www.japantimes.co.jp/news/2024/11/10/asia-pacific/politics/taiwan-us-support-trump/ "Taiwan sees a higher price for U.S. support as Trump returns to power")
 
-1 hours ago
+2 hours ago
 
-[Musk believes in global warming. Trump doesn’t. Will that change?](https://www.japantimes.co.jp/news/2024/11/09/world/musk-trump-climate-sway/ "Musk believes in global warming. Trump doesn’t. Will that change?")
+[Foreign firms pull more money from China’s slowing economy](https://www.japantimes.co.jp/business/2024/11/10/companies/foreign-firms-china-economy/ "Foreign firms pull more money from China’s slowing economy")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
