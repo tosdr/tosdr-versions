@@ -7,25 +7,16 @@
 * [Documentation](https://tasks.org/docs/)
     
     * [Welcome](https://tasks.org/docs/)
-    * [Synchronization](https://tasks.org/docs/sync)
-    * [Sharing](https://tasks.org/docs/sharing)
-    * [Markdown](https://tasks.org/docs/markdown)
-    * [Backups](https://tasks.org/docs/backups)
-    * [Filters](https://tasks.org/docs/filters)
-    * [Location](https://tasks.org/docs/location)
-    * [Manual sorting](https://tasks.org/docs/manual_sort_mode)
-    * [Beta testing](https://tasks.org/docs/beta)
-    * [Translations](https://tasks.org/docs/translations)
     * [Subscribe](https://tasks.org/docs/subscribe)
     * [Donate](https://tasks.org/docs/donate)
-    * [Themes](https://tasks.org/docs/themes)
-    * [Tasker Plugins](https://tasks.org/docs/tasker)
+    * [Beta testing](https://tasks.org/docs/beta)
+    * [Translations](https://tasks.org/docs/translations)
     * [Privacy Policy](https://tasks.org/docs/privacy)
-* [Tasks.org sync](https://tasks.org/docs/app_passwords)
+* [Synchronization](https://tasks.org/docs/sync)
     
-* [Third-party sync](https://tasks.org/docs/google_tasks_intro)
+* [Usage guide](https://tasks.org/docs/recurrence)
     
-* [Troubleshooting](https://tasks.org/docs/notifications)
+* [Troubleshooting](https://tasks.org/docs/troubleshooting_notifications)
     
 
 * [](https://tasks.org/)
@@ -134,9 +125,9 @@ Last updated: March 2, 2021
 
 [Previous
 
-Tasker Plugins](https://tasks.org/docs/tasker)[Next
+Translations](https://tasks.org/docs/translations)[Next
 
-App passwords](https://tasks.org/docs/app_passwords)
+Overview](https://tasks.org/docs/sync)
 
 * [TL;DR](#tldr)
 * [Current location](#current-location)
@@ -163,11 +154,9 @@ Social
 
 * [![](https://img.shields.io/github/stars/tasks/tasks?label=GitHub&style=social)](https://github.com/tasks/tasks)
 * [![](https://img.shields.io/reddit/subreddit-subscribers/tasks?label=Reddit&style=social)](https://reddit.com/r/tasks)
-* [![](https://img.shields.io/twitter/follow/tasks_org?label=Twitter&style=social)](https://twitter.com/tasks_org)
 
 More
 
-* [Chat on Libera Chat](https://web.libera.chat/#tasks)
 * [Changelog](https://github.com/tasks/tasks/blob/main/CHANGELOG.md)
 * [Privacy policy](https://tasks.org/docs/privacy)
 
