@@ -96,7 +96,7 @@ Seattle, WA »
 
 50°
 
-![Mist](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
