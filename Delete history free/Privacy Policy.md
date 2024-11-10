@@ -17,7 +17,6 @@ Menu
 
 Search for:   
 
-* [Open APK File](https://www.deletehistoryfree.com/open-apk-file/)
 * [View and Delete history](https://www.deletehistoryfree.com/)
     * [Bing](https://www.deletehistoryfree.com/delete-bing-search-history/)
     * [Facebook](https://www.deletehistoryfree.com/clear-facebook-search-history/)
