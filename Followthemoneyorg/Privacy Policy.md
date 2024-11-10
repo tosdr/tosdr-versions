@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Amount Given by Supporters and Opponents of 2013 & 2014 Ballot Measures](/assets/Images/teasers/full/2013-14-Amts-to-Passed-Failed-BMs.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![2011-12 Ballot Measures](/assets/Images/teasers/small/SameSexMarriage.png)](http://www.followthemoney.org/research/institute-reports/2011-2012-ballot-measure-overview/)
+
+2011-12 same-sex marriage ballots in 5 states.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
