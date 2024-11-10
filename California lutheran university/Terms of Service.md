@@ -2,8 +2,6 @@
 * [Skip to main content](#page-content)
 * [Skip to global footer](#global-footer)
 
-**Update** – The Oxnard Campus will remain closed through the weekend, reopening on Monday, November 11. [More info](https://www.callutheran.edu/emergency/)
-
 * [Apply](https://www.callutheran.edu/admission/apply.html)
 * [Request Info](https://www.callutheran.edu/admission/request-info.html)
 * [Virtual Tour](https://www.callutheran.edu/tour/)
