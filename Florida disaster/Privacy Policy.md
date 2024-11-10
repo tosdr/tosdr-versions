@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, November 9, 2024**
+**Sunday, November 10, 2024**
 
-**...High Pressure Extending Over the State Maintaining An Abnormally Dry Airmass and A Stalled Frontal Boundary Sinking to The Florida-Georgia State Line to Give Way to Isolated to Widely Scattered Showers Across North Florida Throughout the Day...Breezy Onshore Winds To Give Way to Isolated Showers Along the East Coast, Moving Well Inland Across the Peninsula During the Peak Heating Hours...Breezy Winds With Gusts Near 15-25 MPH Persist Along the Peninsula and Keys...Unseasonable Warm Conditions Statewide...High Risk for Rip Currents Expected Nearly Statewide...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers...Localized Areas of Patchy to Locally Dense Fog Possible Overnight Into Early Sunday Morning...NHC Continues to Monitor Tropical Storm Rafael and A Disturbance Near the Bahamas (10%)****...**
+**...High Pressure To Keep Conditions Mostly Dry Across the State; Brief Showers Possible Statewide Throughout the Day...Stalled Frontal Boudary Offshore from Northeast Florida to Bring More Widespread Shower Activity; Isolated to Scattered Showers Along Western Panhandle and East Coast...Shower Activity to Linger Overnight Along Western Panhandle and Eastern Peninsula...Breezy Winds With Gusts Near 15-25 MPH Persist Along the Peninsula and Keys...Above Normal Temperatures Statewide...High Risk for Rip Currents Expected Along Panhandle and East Coast Beaches...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers...Localized Areas of Patchy to Locally Dense Fog Possible Overnight or Early Monday Morning Throughout North Florida and I-75 Corridor...NHC Continues to Monitor Tropical Storm Rafael and A Disturbance Near the Bahamas (10%)****...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
