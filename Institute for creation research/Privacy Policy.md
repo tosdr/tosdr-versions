@@ -95,39 +95,59 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Zoology
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
+[![](/i/Main%20Stage%20-%201400x1050/Hungry_Bumblebees_Fix_1400x1050.jpg)](https://www.icr.org/article/hungry-bumblebees-hurry-pollen-production)
 
-[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
+[Hungry Bumblebees Hurry Pollen Production](https://www.icr.org/article/hungry-bumblebees-hurry-pollen-production/)
 
-“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
+May and June are abuzz with busy bees, really clever bumblebees.1,2 And their practical cleverness continues to astonish researchers, as a recently...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14402)
+[![](/i/Main%20Stage%20-%201400x1050/Orphaned_Manatee_1400x1050.jpg)](https://www.icr.org/article/orphaned-manatee-rescued-in-florida-keys)
 
-[God's Standards](https://www.icr.org/article/14402/)
+[Orphaned Manatee Rescued in Florida Keys](https://www.icr.org/article/orphaned-manatee-rescued-in-florida-keys/)
 
-“Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in...
+Necessities can be keys to forming new friendships, an orphaned baby manatee learned earlier this month.1 Maybe there is also a lesson for us...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/transforming-light)
+[![](/i/Main%20Stage%20-%201400x1050/Turtles_Tough_Times_1400x1050.jpg)](https://www.icr.org/article/turtles-birdwatching-living-through-tough-times)
 
-[The Transforming Light of Salvation](https://www.icr.org/article/transforming-light/)
+[Turtles, Birdwatching, and Living Through Tough Times](https://www.icr.org/article/turtles-birdwatching-living-through-tough-times/)
 
-“For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God...
+How can learning about turtles and doing some birdwatching be useful during this time? Local disasters are declared, and ordinary life activities are restricted,...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/BeeConstruct_1400x1050.jpg)](https://www.icr.org/article/honey-bee-nest-constructing)
+
+[Incredible Honey Bees and Their Nest Constructing Skills](https://www.icr.org/article/honey-bee-nest-constructing/)
+
+It seems not a month goes by that more remarkable discoveries are made regarding the humble honey bee. They have been found capable of basic math,...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/sharkjaws_1400x1050.jpg)](https://www.icr.org/article/shark-jaws)
+
+[Shark Jaws](https://www.icr.org/article/shark-jaws/)
+
+Sharks are back in the news, and it’s in regard to their most formidable and fearsome structure—their jaws. Zoologists recently studied...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/MetabolismOrigin_1400x1050.jpg)](https://www.icr.org/article/metabolism-origin)
+
+[The Origin of Metabolism](https://www.icr.org/article/metabolism-origin/)
+
+Metabolism is the totality of chemical reactions that manage all of the molecular, material, and energy resources within an organism. Part of a creature’s...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
-
-$29.99
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
@@ -143,19 +163,23 @@ Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young
 
 $7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
 
-Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
 
-$15.99
+$7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
 
-Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
-
-$9.99
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
 
 $15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
