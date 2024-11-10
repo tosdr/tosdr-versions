@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 391 active visitors** | **Saturday, November 09, 2024** |
+| **You are 1 of 352 active visitors** | **Sunday, November 10, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**When you disarm your subjects, you offend them by showing that either from cowardliness or lack of faith, you distrust them; and either conclusion will induce them to hate you. � NICCOLO MACHIAVELLI
+ **QUOTES TO REMEMBER**As an individual, I believe, very strongly, that handguns should be banned and that there should be stringent, effective control of other firearms. However, as a judge, I know full well that the question of whether handguns can be sold is a political one, not an issue of products liability law, and that this is a matter for the legislatures, not the courts. The unconventional theories advanced in this case (and others) are totally without merit, a misuse of products liability laws. � Judge Buchmeyer, Patterson v. Gesellschaft, 1206 F.Supp. 1206, 1216 (N.D. Tex. 1985)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
