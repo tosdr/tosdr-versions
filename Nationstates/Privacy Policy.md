@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [UK Politics Thread: Kemi Badenoch ele… (12,226)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,226 posts)")
-* [American Politics: Turnabout Trump (2,960)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (2,960 posts)")
-* [\[REPORT\] Routine action requests (Mov… (9,373)](https://forum.nationstates.net/viewtopic.php?t=473656&f=16&view=unread#unread ""[REPORT] Routine action requests (Moves, Adbots, Spam, etc)" (9,373 posts)")
-* [Dein Vaterland\[OOC/MT/Closed\] (1,150)](https://forum.nationstates.net/viewtopic.php?t=544964&f=4&view=unread#unread ""Dein Vaterland[OOC/MT/Closed]" (1,150 posts)")
-* [WorldVision Song Contest 117 - Concor… (58)](https://forum.nationstates.net/viewtopic.php?t=557365&f=4&view=unread#unread ""WorldVision Song Contest 117 - Concord, Plangainer - IC" (58 posts)")
+* [Ask BN a question and edit it when th… (210)](https://forum.nationstates.net/viewtopic.php?t=556146&f=25&view=unread#unread ""Ask BN a question and edit it when they answer II" (210 posts)")
+* [Why do Black US Voters vote for the P… (17)](https://forum.nationstates.net/viewtopic.php?t=558215&f=20&view=unread#unread ""Why do Black US Voters vote for the Party of Jefferson Davis" (17 posts)")
+* [The guns of TET fell silent (11,521)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""The guns of TET fell silent" (11,521 posts)")
+* [\[Tennis/NSTT\] Indoor hard court seaso… (25)](https://forum.nationstates.net/viewtopic.php?t=556675&f=7&view=unread#unread ""[Tennis/NSTT] Indoor hard court season 10 [RP/Results]" (25 posts)")
+* [What music are you listening to? v19 (257)](https://forum.nationstates.net/viewtopic.php?t=557533&f=25&view=unread#unread ""What music are you listening to? v19" (257 posts)")
 
 Advertisement
 
