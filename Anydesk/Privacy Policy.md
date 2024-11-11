@@ -18,8 +18,6 @@
     
     [Access & Control](https://anydesk.com/en/features#access-control) [Administration & Customization](https://anydesk.com/en/features#administration-customization) [Security & Privacy](https://anydesk.com/en/features#security-privacy) [Collaboration](https://anydesk.com/en/features#collaboration)
     
-* [Solutions![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
-    
     By Need
     
     [Remote Support](https://anydesk.com/en/solutions/remote-support) [Remote Work](https://anydesk.com/en/solutions/remote-work) [Mobile Device Support](https://anydesk.com/en/solutions/mobile-device-support) [Cloud vs On-Premises](https://anydesk.com/en/solutions/on-premises) [Enterprise Solution](https://anydesk.com/en/solutions/enterprise-solution)
@@ -29,15 +27,17 @@
     [Education](https://anydesk.com/en/solutions/education) [Government](https://anydesk.com/en/solutions/government) [Corporations](https://anydesk.com/en/solutions/corporations) [Media Creatives](https://anydesk.com/en/solutions/media-creatives) [Information Technology  
     & Services](https://anydesk.com/en/solutions/information-technology-services)
     
+* [Partners![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
+    
+    Partners
+    
+    [Partner Community](https://anydesk.com/en/partners) [Become a Partner](https://anydesk.com/en/become-a-partner) [Partner Locator](https://anydesk.com/en/partners/partner-locator) [Integration Partners](https://anydesk.com/en/partners/integration)
+    
 * [Company![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     Company
     
     [AnyDesk Team](https://anydesk.com/en/leadership-team) [Open Positions](https://anydesk.com/en/career) [Press](https://anydesk.com/en/press) [Events](https://anydesk.com/en/events)
-    
-    Partners
-    
-    [Partner Community](https://anydesk.com/en/partners) [Become a Partner](https://anydesk.com/en/become-a-partner) [Partner Locator](https://anydesk.com/en/partners/partner-locator) [Integration Partners](https://anydesk.com/en/partners/integration)
     
     Resources
     
