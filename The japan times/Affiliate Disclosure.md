@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 11, 2024](https://www.japantimes.co.jp/archive/2024/11/11/ "archive page")
+[November 12, 2024](https://www.japantimes.co.jp/archive/2024/11/12/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
+[Japanese police seize over 100 smartphones stolen in serial robberies](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+
+  [![Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/10/433168.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.")](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+
 [The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
   [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
-[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
+[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
+  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
 [Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
 
   [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
-
-[North Korea launches GPS interference, affecting airplanes and ships](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
-
-  [![Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433140.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.")](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
 
 Editors' Picks
 --------------
@@ -160,6 +160,12 @@ Editors' Picks
 
   [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japanese police seize over 100 smartphones stolen in serial robberies](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+
+  [![Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/10/433168.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.")](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
 [The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
@@ -168,25 +174,19 @@ By [Mai Yoshikawa](https://www.japantimes.co.jp/author/1728/mai-yoshikawa/ "Mai 
 
   [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Stop walking on escalators, local Japanese authorities say](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
+[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-  [![Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432468.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Saitama Gov. Motohiro Ono (right) and others call on users to stand still on the escalator in the city of Saitama in September.")](https://www.japantimes.co.jp/news/2024/11/06/japan/society/escalator-fall-prevention/ "Stop walking on escalators, local Japanese authorities say")
+By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "Aishwarya KUMAR")  
+
+  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
 
   [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[North Korea launches GPS interference, affecting airplanes and ships](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433140.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.")](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
 
 Podcast
 -------
@@ -249,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan to propose $65 billion plan to aid chip industry, draft shows](https://www.japantimes.co.jp/business/2024/11/11/tech/chip-industry-plan/ "Japan to propose $65 billion plan to aid chip industry, draft shows")
+
+3 hours ago
+
+[Worsening corporate mood and bankruptcies cloud BOJ's rate hike path](https://www.japantimes.co.jp/business/2024/11/11/corporate-mood-bankruptcies-boj/ "Worsening corporate mood and bankruptcies cloud BOJ's rate hike path")
+
+3 hours ago
+
+[Seven Bank seeks to expand cash-machine network beyond 7-Elevens](https://www.japantimes.co.jp/business/2024/11/11/companies/seven-bank-atms/ "Seven Bank seeks to expand cash-machine network beyond 7-Elevens")
+
+6 hours ago
+
 [Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
 
-49 mins ago
+7 hours ago
 
 [Japan weighs mandatory allergen labeling for cashew nuts](https://www.japantimes.co.jp/news/2024/11/11/japan/science-health/cashew-nuts-allergy/ "Japan weighs mandatory allergen labeling for cashew nuts")
 
-1 hours ago
-
-[Trump tariffs could have a significant impact on Japanese exports](https://www.japantimes.co.jp/business/2024/11/11/economy/trump-japan-economy/ "Trump tariffs could have a significant impact on Japanese exports")
-
-1 hours ago
-
-[Ishiba holds on to PM role as tricky parliamentary session looms](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
-
-1 hours ago
-
-[Taiwan braces for Trump’s return, but much will depend on his team](https://www.japantimes.co.jp/news/2024/11/11/asia-pacific/politics/taiwan-us-relations-trump/ "Taiwan braces for Trump’s return, but much will depend on his team")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
