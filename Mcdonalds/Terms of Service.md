@@ -24,16 +24,15 @@ Language
     
     [View Full Menu](https://www.mcdonalds.com/us/en-us/full-menu.html)
     
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/BigMacC_LeftRailImage_160x160:menu-category?resmode=sharp2)Chicken Big Mac®](https://www.mcdonalds.com/us/en-us/full-menu/chicken-big-mac.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/MealDeal_NavigationImage_160x160v1:menu-category?resmode=sharp2)Meal Deals](https://www.mcdonalds.com/us/en-us/full-menu/5-dollar-meals.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/breakfast_300x300:menu-category?resmode=sharp2)Breakfast](https://www.mcdonalds.com/us/en-us/full-menu/breakfast.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/LeftRail_BurgersPCP_160x160:menu-category?resmode=sharp2)Burgers](https://www.mcdonalds.com/us/en-us/full-menu/burgers.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/LeftRail_ChickenFishPCP_160x160:menu-category?resmode=sharp2)Chicken & Fish Sandwiches](https://www.mcdonalds.com/us/en-us/full-menu/chicken-and-fish-sandwiches.html)
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/McNuggetsAndMeals_NavImage:menu-category?resmode=sharp2)McNuggets® and Meals](https://www.mcdonalds.com/us/en-us/full-menu/mcnuggets-meals.html)
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/202006_5280_10McNuggets_Dunked_160x160:menu-category?resmode=sharp2)McNuggets®](https://www.mcdonalds.com/us/en-us/full-menu/mcnuggets.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/Category_202408_FriesandSides_160x160:menu-category?resmode=sharp2)Fries & Sides](https://www.mcdonalds.com/us/en-us/full-menu/fries-sides.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/nav_happy_meal_160x160:menu-category?resmode=sharp2)Happy Meal®](https://www.mcdonalds.com/us/en-us/full-menu/happy-meal.html)
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/mccafe_300x300:menu-category?resmode=sharp2)McCafé® Coffees](https://www.mcdonalds.com/us/en-us/full-menu/mccafe-coffees.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/desserts_shakes_300x300:menu-category?resmode=sharp2)Sweets & Treats](https://www.mcdonalds.com/us/en-us/full-menu/sweets-treats.html)
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/mccafe_300x300:menu-category?resmode=sharp2)McCafé® Coffees](https://www.mcdonalds.com/us/en-us/full-menu/mccafe-coffees.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/NavImage_Beverages_160x160:menu-category?resmode=sharp2)Beverages](https://www.mcdonalds.com/us/en-us/full-menu/drinks.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/D123_160x160:menu-category?resmode=sharp2)$1 $2 $3 Dollar Menu\*](https://www.mcdonalds.com/us/en-us/full-menu/123dollarmenu.html)
     
@@ -75,16 +74,15 @@ Language
     
     [View Full Menu](https://www.mcdonalds.com/us/en-us/full-menu.html)
     
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/BigMacC_LeftRailImage_160x160:menu-category?resmode=sharp2)Chicken Big Mac®](https://www.mcdonalds.com/us/en-us/full-menu/chicken-big-mac.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/MealDeal_NavigationImage_160x160v1:menu-category?resmode=sharp2)Meal Deals](https://www.mcdonalds.com/us/en-us/full-menu/5-dollar-meals.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/breakfast_300x300:menu-category?resmode=sharp2)Breakfast](https://www.mcdonalds.com/us/en-us/full-menu/breakfast.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/LeftRail_BurgersPCP_160x160:menu-category?resmode=sharp2)Burgers](https://www.mcdonalds.com/us/en-us/full-menu/burgers.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/LeftRail_ChickenFishPCP_160x160:menu-category?resmode=sharp2)Chicken & Fish Sandwiches](https://www.mcdonalds.com/us/en-us/full-menu/chicken-and-fish-sandwiches.html)
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/McNuggetsAndMeals_NavImage:menu-category?resmode=sharp2)McNuggets® and Meals](https://www.mcdonalds.com/us/en-us/full-menu/mcnuggets-meals.html)
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/202006_5280_10McNuggets_Dunked_160x160:menu-category?resmode=sharp2)McNuggets®](https://www.mcdonalds.com/us/en-us/full-menu/mcnuggets.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/Category_202408_FriesandSides_160x160:menu-category?resmode=sharp2)Fries & Sides](https://www.mcdonalds.com/us/en-us/full-menu/fries-sides.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/nav_happy_meal_160x160:menu-category?resmode=sharp2)Happy Meal®](https://www.mcdonalds.com/us/en-us/full-menu/happy-meal.html)
-    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/mccafe_300x300:menu-category?resmode=sharp2)McCafé® Coffees](https://www.mcdonalds.com/us/en-us/full-menu/mccafe-coffees.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/desserts_shakes_300x300:menu-category?resmode=sharp2)Sweets & Treats](https://www.mcdonalds.com/us/en-us/full-menu/sweets-treats.html)
+    *      [![](https://s7d1.scene7.com/is/image/mcdonalds/mccafe_300x300:menu-category?resmode=sharp2)McCafé® Coffees](https://www.mcdonalds.com/us/en-us/full-menu/mccafe-coffees.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/NavImage_Beverages_160x160:menu-category?resmode=sharp2)Beverages](https://www.mcdonalds.com/us/en-us/full-menu/drinks.html)
     *      [![](https://s7d1.scene7.com/is/image/mcdonalds/D123_160x160:menu-category?resmode=sharp2)$1 $2 $3 Dollar Menu\*](https://www.mcdonalds.com/us/en-us/full-menu/123dollarmenu.html)
     
