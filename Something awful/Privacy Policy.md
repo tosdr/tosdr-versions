@@ -205,29 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [CONEX Convict Connections: "Sublime Situations"](https://www.somethingawful.com/news/conex-sublime-situations/1/)
-* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
-* [DEAR FURRIES: WE WERE WRONG](https://www.somethingawful.com/news/bolgy-wolgy/)
-* [Payneify the Planet](https://www.somethingawful.com/photoshop-phriday/payneify-the-planet/1/)
-* [Dungeons & Dragons: Deities & Demigods (Cthulhu Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-deities-demigods/1/)
+* [Tattoo SWAT](https://www.somethingawful.com/fashion-swat/tattoo-swat/1/)
+* [SO LONG 2008 YOU FAGGOT YEAR](https://www.somethingawful.com/levi-johnston/tripp-levi-johnston/1/)
+* [Steve's 2008 Golden Hotbabe Awards for Miniature Excellence](https://www.somethingawful.com/feature-articles/miniatures-awards-painting/1/)
+* [/r/Community (Thanks, Ryan!)](https://www.somethingawful.com/awful-links/reddit-rcommunity-netflix/)
+* [Embarassing Sexual Moments Part 2](https://www.somethingawful.com/comedy-goldmine/embarassing-sexual-moments-2/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [SA gratitude journal](http://forums.somethingawful.com/showthread.php?threadid=4075072 "SA gratitude journal")
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [What are some dirty secrets about the industry you work in?](http://forums.somethingawful.com/showthread.php?threadid=4075100 "What are some dirty secrets about the industry you work in?")
-* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Toxx for the Donnie stroke out itt.](http://forums.somethingawful.com/showthread.php?threadid=4075046 "Toxx for the Donnie stroke out itt.")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [can I do this (goon project)](http://forums.somethingawful.com/showthread.php?threadid=4075094 "can I do this (goon project)")
 * ![](https://fi.somethingawful.com/forums/posticons/phiz-crabcore.gif) [It sucks to be invisible](http://forums.somethingawful.com/showthread.php?threadid=4075107 "It sucks to be invisible")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [I want to go to jail](http://forums.somethingawful.com/showthread.php?threadid=4075039 "I want to go to jail")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [can I do this (goon project)](http://forums.somethingawful.com/showthread.php?threadid=4075094 "can I do this (goon project)")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [SASS 2024: This Time With Spirit Halloween](http://forums.somethingawful.com/showthread.php?threadid=4075097 "SASS 2024: This Time With Spirit Halloween")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [SA gratitude journal](http://forums.somethingawful.com/showthread.php?threadid=4075072 "SA gratitude journal")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [i tried to make fondue and i barely survived](http://forums.somethingawful.com/showthread.php?threadid=4075122 "i tried to make fondue and i barely survived")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [What are some dirty secrets about the industry you work in?](http://forums.somethingawful.com/showthread.php?threadid=4075100 "What are some dirty secrets about the industry you work in?")
 
 ### Random Articles
 
-* [Brokenbit\_h's Blog](https://www.somethingawful.com/awful-links/awful-link-2286/)
-* [TV Threshold: Two Extremes](https://www.somethingawful.com/feature-articles/mentalist-valentine/)
-* [2nd Grade AP Reading Exam](https://www.somethingawful.com/news/ap-reading-exam/)
-* [What's New on Netflix This Month!](https://www.somethingawful.com/news/netflix-june-2015/)
-* [August 17, 2009](https://www.somethingawful.com/forum-fridays/ff08-17-09/1/)
+* [PIPER PALIN PLEASE LEAVE MY SISTER ALONE](https://www.somethingawful.com/levi-johnston/piper-mercede-feud/1/)
+* [Make Fictional Animals Real!](https://www.somethingawful.com/photoshop-phriday/fictional-animals-life/1/)
+* [Life: An Exclusive Review](https://www.somethingawful.com/news/life-an-exclusive/)
+* [A Trip to Old Console Hell, and What I Found There](https://www.somethingawful.com/news/gamecube-ps2-auction/)
+* [Wing Music](https://www.somethingawful.com/awful-links/awful-link-1672/)
 
 [Random!](https://www.somethingawful.com/random/)
 
