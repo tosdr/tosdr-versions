@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-llamada-entre-trump-y-sheinbaum/281-7c722dbe-e0ed-4910-9bdf-5632e457ca6b)
+    *  [![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
         
-        #### [Cinco Cosas: Llamada entre Trump y Sheinbaum, casos de tosferina y donación de juguetes](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-llamada-entre-trump-y-sheinbaum/281-7c722dbe-e0ed-4910-9bdf-5632e457ca6b)
+        #### [3 people sleeping near Everett road killed after driver loses control, police say](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
         
-    *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
+    *  [![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_360x203.jpeg)](https://www.king5.com/article/news/local/thurston-county-deputies-investigating-suspicious-death-yelm-homicide/281-99e89e7a-1c1b-4692-be91-81332e8ded99)
         
-        #### [Timeline: Rain, wind and mountain snow move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
+        #### [TCSO investigating homicide at home near Yelm](https://www.king5.com/article/news/local/thurston-county-deputies-investigating-suspicious-death-yelm-homicide/281-99e89e7a-1c1b-4692-be91-81332e8ded99)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-55°
+53°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
