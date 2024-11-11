@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
+    
+    NEW By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    
+    [![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725945-GettyImages-2170673473-205x123.jpg.webp)](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
+* [S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
+    
+    2hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    
+    [![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757390-GettyImages-2183500888-205x123.jpg.webp)](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
+* [How a Second Trump Term Could Impact US Production, Prices, and Investments](https://www.theepochtimes.com/article/how-a-second-trump-term-could-impact-us-production-prices-and-investments-5756916)
+    
+    4hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    
+    [![How a Second Trump Term Could Impact US Production, Prices, and Investments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How a Second Trump Term Could Impact US Production, Prices, and Investments](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757418-Trump-second-term-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-a-second-trump-term-could-impact-us-production-prices-and-investments-5756916)
 * [Trump Sets Condition for Next Senate Republican Leader](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/uploads/2020/03/10/Trump-Capitol-Hill-coronavirus-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
+    ![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757547-McConnell-Trump-GettyImages-1257244765KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
 * [Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757490-GettyImages-2183211687-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
 * [3 Teams That Shook Up the College Football Playoff Field](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
     
-    4hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
+    10hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
     
     [![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757476-GettyImages-2183204068-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
 * [Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
     
-    5hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    11hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
     
     [![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757388-GettyImages-2181953428KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
 * [‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
     
-    6hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    12hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
     
     [![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757167-lead22-205x123.jpg.webp)](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
 * [Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://www.theepochtimes.com/world/qatar-pauses-its-gaza-cease-fire-mediator-role-5757185)
     
-    8hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    15hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757357-GettyImages-72690487-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/qatar-pauses-its-gaza-cease-fire-mediator-role-5757185)
 * [Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://www.theepochtimes.com/us/federal-judge-gives-states-in-censorship-lawsuit-against-us-government-chance-to-make-case-5756886)
     
-    9hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    15hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757345-Vivek-Murthy-LS-205x123.webp)](https://www.theepochtimes.com/us/federal-judge-gives-states-in-censorship-lawsuit-against-us-government-chance-to-make-case-5756886)
-* [Former NATO Chief Urges Europe to Work With Trump to End Ukraine War](https://www.theepochtimes.com/us/former-nato-chief-urges-europe-to-work-with-trump-to-end-ukraine-war-5757238)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Former NATO Chief Urges Europe to Work With Trump to End Ukraine War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Former NATO Chief Urges Europe to Work With Trump to End Ukraine War](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757344-Jens-Stoltenberg-and-President-Trump-LS-205x123.webp)](https://www.theepochtimes.com/us/former-nato-chief-urges-europe-to-work-with-trump-to-end-ukraine-war-5757238)
-* [Top 3 Reasons Voters Gave for Not Supporting Harris: Poll](https://www.theepochtimes.com/us/top-3-reasons-voters-gave-for-not-supporting-harris-poll-5757135)
-    
-    11hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Top 3 Reasons Voters Gave for Not Supporting Harris: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Top 3 Reasons Voters Gave for Not Supporting Harris: Poll](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755974-GettyImages-2183352108-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-3-reasons-voters-gave-for-not-supporting-harris-poll-5757135)
-* [Plantar Fasciitis: Leading Cause of Heel Pain, 3 Natural Treatments](https://www.theepochtimes.com/health/plantar-fasciitis-symptoms-causes-treatments-and-natural-approaches-5751452)
-    
-    11hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
-    
-    [![Plantar Fasciitis: Leading Cause of Heel Pain, 3 Natural Treatments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Plantar Fasciitis: Leading Cause of Heel Pain, 3 Natural Treatments](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5756130-Plantar-Fasciitis_-205x123.jpg.webp)](https://www.theepochtimes.com/health/plantar-fasciitis-symptoms-causes-treatments-and-natural-approaches-5751452)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
