@@ -190,8 +190,8 @@ We operate different websites, Apps (web and mobile) and an online retail shop (
 
 If you are accessing our OS Sites and/or Services from a location outside of the UK or the European Economic Area (the EEA), please refer to the section "Additional information for international users (outside of the UK or EEA)" at the end of this Privacy Policy for important additional information.
 
-Show all sectionsexpand\_circle\_down
--------------------------------------
+Further detailsShow all sectionsexpand\_circle\_down
+----------------------------------------------------
 
 ### Legal Basis and purpose for processing your personal data (UK and EEA residents only)expand\_circle\_down
 
