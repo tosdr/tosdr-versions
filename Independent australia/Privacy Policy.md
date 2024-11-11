@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [Snag a bag and mag!](https://independent-australia.myshopify.com/collections/bags/products/bag-and-mag-bundle-exclusive-subscriber-offer-discounted-price)
 
-[Some very basic questions for the Reserve Bank of Australia](https://independentaustralia.net/article-display/some-very-basic-questions-for-the-reserve-bank-of-australia,19136)
+[Government bans social media fearing rise of 'Generation Left'](https://independentaustralia.net/article-display/government-bans-social-media-fearing-rise-of--generation-left,19158)
 
-['Mean Streak' relives Robodebt horrors](https://independentaustralia.net/article-display/politics-display/mean-streak-relives-robodebt-horrors,19145)
+[Donald Trump wins presidency thanks to lack of media scrutiny](https://independentaustralia.net/article-display/politics-display/donald-trump-wins-presidency-thanks-to-lack-of-media-scrutiny,19157)
 
-[Trump Mark II: Chaos personified](https://independentaustralia.net/article-display/trump-mark-ii-chaos-personified,19148)
+[Why an LNP win in outback QLD won't necessarily translate nationwide](https://independentaustralia.net/article-display/why-an-lnp-win-in-outback-qld-wont-necessarily-translate-nationwide,19151)
 
 Privacy Policy
 
