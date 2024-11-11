@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
+[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
 
-[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
+[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
 
-[![Can you sue for lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-you-sue-for-lung-cancer-2-scaled.jpg "Can You Sue For Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/ "Can You Sue For Lung Cancer?")
+[![What are the warning signs of elder abuse and neglect?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-warning-signs-of-elder-abuse-and-neglect-scaled.jpg "What Are the Warning Signs of Elder Abuse and Neglect?")](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/ "What Are the Warning Signs of Elder Abuse and Neglect?")
 
-[#### Can You Sue For Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/)
+[#### What Are the Warning Signs of Elder Abuse and Neglect?](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/)
 
-[![Tactics of emotionally abusive care staff](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use-scaled.jpg "Tactics of Emotionally Abusive Care Staff")](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/ "Tactics of Emotionally Abusive Care Staff")
+[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
 
-[#### Tactics of Emotionally Abusive Care Staff](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/)
+[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
