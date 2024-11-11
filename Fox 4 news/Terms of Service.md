@@ -3,9 +3,9 @@
 * [Live](https://www.fox4news.com/live)
 * [News](https://www.fox4news.com/news)
 * [Weather](https://www.fox4news.com/weather)
-* [2024 Election](https://www.fox4news.com/election)
 * [Good Day](https://www.fox4news.com/shows/good-day)
 * [Sports](https://www.fox4news.com/sports)
+* [Traffic](https://www.fox4news.com/traffic)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
