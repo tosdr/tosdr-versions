@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![The Ferrari 12Cilindri is the perfect grand tourer for a place with no speed limits. ](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/198624f7055cc9e893cc860b98720c1d4963dfec)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-ferrari-12cilindri-is-tough-to-pronounce-impressive-to-drive-20241023-p5kkux)
+[![ ](https://static.ffx.io/images/$zoom_0.1345%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/23eee257fa794a2f7e2ce1c54c973f789b0e02e6)](https://www.afr.com/technology/samsung-s-new-tablet-stuck-to-our-walls-like-spaghetti-20241108-p5kozq)
 
-### [This Ferrari is tough to pronounce, but impressive to drive](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-ferrari-12cilindri-is-tough-to-pronounce-impressive-to-drive-20241023-p5kkux)
+### [Samsung’s new tablet stuck to our walls like spaghetti](https://www.afr.com/technology/samsung-s-new-tablet-stuck-to-our-walls-like-spaghetti-20241108-p5kozq)
 
-* Tony Davis
+* 54 mins ago
+* John Davidson
 
-* ### [Singapore layover? Check out New Bahru](https://www.afr.com/life-and-luxury/design/singapore-layover-check-out-new-bahru-20241107-p5kold)
+* ### [Why the Amazon is best explored by water](https://www.afr.com/life-and-luxury/travel/why-the-amazon-is-best-explored-by-water-20241030-p5kmkk)
     
-* ### [10 country and coastal retreats to book in 2025](https://www.afr.com/life-and-luxury/travel/10-country-and-coastal-retreats-to-book-in-2025-20241025-p5klfz)
+* ### [10 getaways to satisfy your adrenalin-rush needs in 2025](https://www.afr.com/life-and-luxury/travel/10-getaways-to-satisfy-your-adrenalin-rush-needs-in-2025-20241025-p5klge)
     
 
 [Rich List](https://www.afr.com/rich-list)
