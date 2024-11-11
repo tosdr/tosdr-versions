@@ -182,6 +182,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Thank You Veterans](https://www.thegunpage.com/thank-you-veterans-7/10611797)
 * [9mm vs. .45 ACP: The Debate That Seems To Never End](https://www.thegunpage.com/9mm-vs-45-acp-the-debate-that-seems-to-never-end/10611789)
 * [Musician Jay Allen Becomes Gun Owner After Being Robbed At Gunpoint](https://www.thegunpage.com/musician-jay-allen-becomes-gun-owner-after-being-robbed-at-gunpoint/10611787)
 * [The Origin Of The ‘Plow Handle’ Grip Shape In Early Pistols](https://www.thegunpage.com/the-origin-of-the-plow-handle-grip-shape-in-early-pistols/10611781)
@@ -191,7 +192,6 @@ Recent Posts
 * [The 5 Best Full-Size Handguns](https://www.thegunpage.com/the-5-best-full-size-handguns/10611769)
 * [BREAKING: Illinois Gun & Magazine Ban Struck Down by Federal Judge](https://www.thegunpage.com/breaking-illinois-gun-magazine-ban-struck-down-by-federal-judge/10611767)
 * [POTD: Stag Arms Wyoming 307 Limited Edition](https://www.thegunpage.com/potd-stag-arms-wyoming-307-limited-edition/10611770)
-* [TFB Podcast Roundup 154: The November 8th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-154-the-november-8th-roundup/10611771)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
