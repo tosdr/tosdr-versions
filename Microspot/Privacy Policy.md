@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/2972.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/3483.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -107,23 +107,23 @@ Autres actions ici
 Testé pour vous
 ---------------
 
-[![80x80_I24_Icons_013_Blog20.png](/medias/80x80-I24-Icons-013-Blog20.png?context=bWFzdGVyfGNtc3wzOTY2fGltYWdlL3BuZ3xhR1kzTDJnNE5DODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU1DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qQXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8M2EwODY5ZWRhNDhmOWY2Zjg3NjU1ZWMyOTcwZTg4ZTliNjc2NGJkOGUyOGZlMzVjZTVjNzUzNmY2YjdmNzZmMw)
+[![80x80_I24_Icons_013_Blog22.png](/medias/80x80-I24-Icons-013-Blog22.png?context=bWFzdGVyfGNtc3w0OTI2fGltYWdlL3BuZ3xhRFptTDJobE5pODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU1pNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qSXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8Mjg5YjdjZTYxNzkwMWNiZTgzODA1MmZiZGU1MjExZDhkYjYwYzM5ZWZkNDc3N2U4N2IyZjJlMzgwNzRmNjllMw)
 
-SONY
+JBL
 
-Xperia 10 VI](https://www.microspot.ch/fr/cms/blog/conseils/sony-xperia-10-vi)
+PartyBox 320](https://www.microspot.ch/fr/cms/blog/conseils/jbl-by-harman-partybox-stage-320)
 
-[![80x80_I24_Icons_013_Blog17.png](/medias/80x80-I24-Icons-013-Blog17.png?context=bWFzdGVyfGNtc3w1MjMyfGltYWdlL3BuZ3xhR0l3TDJnd1l5ODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeE55NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1UY3VjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8OTkzMjMxZGFlZWFjNjY4MzBjNjZkMmM5MTUxYWUwMjU4NmYwMGFkNjk0ZmY2ODhiZDdmNzdiYzFlMzc4Zjg1Zg)
+[![80x80_I24_Icons_013_Blog25.png](/medias/80x80-I24-Icons-013-Blog25.png?context=bWFzdGVyfGNtc3w1MDIxfGltYWdlL3BuZ3xhRFZpTDJnNE55ODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU5TNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qVXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YjQ0NWIwNmI3MGMwYzQ1MzMyMDYxZTc5ZTc5NzRmZTA5NDQwY2FiM2NlMGU1NWFmNGZmYmFlNzMyYzQ4ZDBjNA)
 
-Sodastream
+SAMSUNG
 
-Duo](https://www.microspot.ch/fr/cms/blog/conseils/sodastream-duo)
+Galaxy Z Flip6](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-z-flip6)
 
-[![80x80_I24_Icons_013_Blog7.png](/medias/80x80-I24-Icons-013-Blog7.png?context=bWFzdGVyfGNtc3w2MzQ3fGltYWdlL3BuZ3xhREpqTDJnMk1pODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjM0xuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjM0xuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDk2YmU0Y2YwOGFkODlhYWJlNDUyMjE5ZmQyMjcwYmE0NDZhMGVmZjIxNjM2ODhmNGE2ZmMzOWFhOGZmYmMwNzg)
+[![80x80_I24_Icons_013_Blog16.png](/medias/80x80-I24-Icons-013-Blog16.png?context=bWFzdGVyfGNtc3w2MTYzfGltYWdlL3BuZ3xhRFpqTDJnelpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeE5pNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1UWXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWZkYWNjMmUzYzc0NmI1ZDFmOTljNTU5M2M3Njk5YThiNzZlY2ZlNTU3MzIzZTVlODEwYTJjYzE0MmM4NWIzYg)
 
-DELONGHI
+NINJA
 
-Rivelia EXAM440.55.G](https://www.microspot.ch/fr/cms/blog/conseils/delonghi-rivelia)
+Multi Cooker Foodi](https://www.microspot.ch/fr/cms/blog/conseils/ninja-multicuiseur-foodi)
 
 Test: Dyson WashG1
 ------------------
@@ -188,9 +188,9 @@ Achetez comme vous aimez
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Retrait gratuit
+[Garantie Plus
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
