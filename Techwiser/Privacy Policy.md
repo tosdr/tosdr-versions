@@ -1,19 +1,5 @@
 [![TechWiser](https://techwiser.com/wp-content/uploads/2021/05/TechWiser-logo-new.png)](https://techwiser.com/)
 
-* [Windows](https://techwiser.com/category/windows/)
-* [Android](https://techwiser.com/category/android/)
-* [iOS](https://techwiser.com/category/ios/)
-* [Gadgets](https://techwiser.com/category/gadgets/)
-* [macOS](https://techwiser.com/category/macos/)
-* [Internet](https://techwiser.com/category/internet/)
-* [AI](https://techwiser.com/category/ai/)
-* [Reviews/Comparisons](https://techwiser.com/category/reviews/)
-* [More](# "More")
-    * [About Us](https://techwiser.com/about/)
-    * [Contact Us](https://techwiser.com/contact-us/)
-    * [Privacy Policy](https://techwiser.com/privacy-policy/)
-    * [Careers](https://techwiser.com/we-are-hiring/)
-
 [](#)
 
  Search
@@ -66,11 +52,6 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://techwiser.
 * [Youtube](https://www.youtube.com/techwiser)
 * [Rss](https://techwiser.com/feed/)
 
-* [About Us](https://techwiser.com/about/)
-* [Contact Us](https://techwiser.com/contact-us/)
-* [Careers](https://techwiser.com/hiring-tech-writer/)
-* [Privacy Policy](https://techwiser.com/privacy-policy/)
-
 © Techwiser Media Private Limited (2012-2024)
 
 [](#)
@@ -78,17 +59,3 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://techwiser.
 [![TechWiser](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201045%20190'%3E%3C/svg%3E)](https://techwiser.com/)
 
 [](https://www.facebook.com/techwiser/)[](https://twitter.com/techwiser)[](https://www.instagram.com/techwiser/)[](https://www.youtube.com/techwiser)[](https://techwiser.com/feed/)
-
-* [Windows](https://techwiser.com/category/windows/)
-* [Android](https://techwiser.com/category/android/)
-* [iOS](https://techwiser.com/category/ios/)
-* [Gadgets](https://techwiser.com/category/gadgets/)
-* [macOS](https://techwiser.com/category/macos/)
-* [Internet](https://techwiser.com/category/internet/)
-* [AI](https://techwiser.com/category/ai/)
-* [Reviews/Comparisons](https://techwiser.com/category/reviews/)
-* [More](# "More")
-    * [About Us](https://techwiser.com/about/)
-    * [Contact Us](https://techwiser.com/contact-us/)
-    * [Privacy Policy](https://techwiser.com/privacy-policy/)
-    * [Careers](https://techwiser.com/we-are-hiring/)
