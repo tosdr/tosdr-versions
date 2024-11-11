@@ -1,4 +1,4 @@
-[Skip to Content](#main)
+[Skip to Content](#wrapper)
 
 Javascript must be enabled for the correct page display
 
@@ -16,10 +16,12 @@ Show mobile menu
 * [Refer a friend](https://www.veygo.com/refer/)
 
 * [Help](https://www.veygo.com/help/)
+* [Start a Claim](https://account.veygo.com/purchases)
 * [My Account](https://account.veygo.com/profile%20)
 * [Sign in](https://login.veygo.com/?redirect=https://www.veygo.com/privacy-policy/?loggedin=true%20)
 
 * [Help](https://www.veygo.com/help/)
+* [Start a Claim](https://account.veygo.com/purchases)
 * [My Account](https://account.veygo.com/profile%20)
 * [Sign in](https://login.veygo.com/?redirect=https://www.veygo.com/privacy-policy/?loggedin=true%20)
 
@@ -30,18 +32,20 @@ Veygo is part of the Admiral Group and operates under our shared group privacy p
 
 [Read our privacy policy on admiral.com](https://www.admiral.com/your-privacy-and-security "Link to Admiral's shared group privacy policy")
 
+[Veygp](https://www.veygo.com/)
+
 ##### Insurance
 
+* [Start a claim](https://account.veygo.com/purchases)
 * [Learner driver insurance](https://www.veygo.com/learner-driver-insurance/)
 * [New driver insurance](https://www.veygo.com/new-driver/)
 * [Experienced driver insurance](https://www.veygo.com/experienced-driver-insurance/)
 * [Pay-as-you-go cover](https://www.veygo.com/temporary-car-insurance/)
 * [Monthly rolling cover](https://www.veygo.com/monthly-subscriptions/)
-* [Make a claim](https://account.veygo.com/purchases)
 
 ##### Company
 
-* [About Us](https://www.veygo.com/about-us/)
+* [About us](https://www.veygo.com/about-us/)
 * [Careers](https://www.veygo.com/careers/)
 * [Magazine](https://www.veygo.com/veygo-magazine/)
 * [Help](https://www.veygo.com/help/)
@@ -52,7 +56,7 @@ Veygo is part of the Admiral Group and operates under our shared group privacy p
 * [Privacy policy](https://www.veygo.com/privacy-policy/)
 * [Cookie policy](https://www.veygo.com/cookie-policy/)
 * [Your agreement](https://quote.veygo.com/static/Your_Agreement_with_Able_Insurance_Services_Limited.pdf)
-* [Modern slavery statement](https://admiralgroup.co.uk/investor-relations/corporate-governance/modern-slavery-statements)
+* [Modern slavery statement](https://www.veygo.com/modern-slavery-statement/)
 
 ##### Hours
 
