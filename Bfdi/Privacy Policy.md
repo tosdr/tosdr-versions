@@ -54,7 +54,7 @@ Hauptmenü
     [Pri­vat­wirt­schaft](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Privatwirtschaft_node.html)
     ------------------------------------------------------------------------------------------------------
     
-    * [Di­gi­ta­le Diens­te, Mes­sen­ger & Coo­kies](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telemedien/Telemedien_node.html)
+    * [Di­gi­ta­le Diens­te und Mes­sen­ger­diens­te](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telemedien/Telemedien_node.html)
     * [Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telekommunikation/Telekommunikation_node.html)
     * [Brief und Pa­ket](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Post/Post_node.html "Brief und Paket")
     * [Aus­kunf­tei­en](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Auskunfteien/Auskunfteien-node.html)
@@ -113,7 +113,7 @@ Hauptmenü
     * [Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Datenverarbeitung/Datenverarbeitung-node.html)
     * [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Technische-Anwendungen/Technische-Anwendungen_node.html)
     * [In­ter­na­tio­na­le Da­ten­über­mitt­lung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Internationaler-Datentransfer/Internationaler-Datentransfer-node.html "Internationale Datenübermittlung")
-    * [Di­gi­ta­le Diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
+    * [Di­gi­ta­le Diens­te und Mes­sen­ger­diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
     
     [Ein­zelthe­men](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
     ------------------------------------------------------------------------------------------------------
@@ -258,7 +258,7 @@ Schließen
         * [Ar­beits­ver­wal­tung](https://www.bfdi.bund.de/DE/Buerger/Sozialverwaltung/Arbeitsverwaltung/Arbeitsverwaltung-node.html)
         * [Ren­ten- und Un­fall­ver­si­che­rung](https://www.bfdi.bund.de/DE/Buerger/Sozialverwaltung/Rente/Rente-node.html)
     * Privatwirtschaft
-        * [Di­gi­ta­le Diens­te, Mes­sen­ger & Coo­kies](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telemedien/Telemedien_node.html)
+        * [Di­gi­ta­le Diens­te und Mes­sen­ger­diens­te](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telemedien/Telemedien_node.html)
         * [Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Telekommunikation/Telekommunikation_node.html)
         * [Brief und Pa­ket](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Post/Post_node.html "Brief und Paket")
         * [Aus­kunf­tei­en](https://www.bfdi.bund.de/DE/Buerger/Privatwirtschaft/Auskunfteien/Auskunfteien-node.html)
@@ -292,7 +292,7 @@ Schließen
         * [Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Datenverarbeitung/Datenverarbeitung-node.html)
         * [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Technische-Anwendungen/Technische-Anwendungen_node.html)
         * [In­ter­na­tio­na­le Da­ten­über­mitt­lung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Internationaler-Datentransfer/Internationaler-Datentransfer-node.html "Internationale Datenübermittlung")
-        * [Di­gi­ta­le Diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
+        * [Di­gi­ta­le Diens­te und Mes­sen­ger­diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
     * Einzelthemen
         * [Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Telekommunikation/Telekommunikation_node.html "Telekommunikation")
         * [Ener­gie­wen­de](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Energiewende/Energiewende-node.html "Energiewende")
