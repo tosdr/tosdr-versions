@@ -20,10 +20,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-360x180.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
-    ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
     [![New Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/New-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
     
     ### [‘Knifeman attempts bike theft’ in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
@@ -56,6 +52,10 @@
     From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
     ### [Southwark theatres celebrated for leading the way on the London Living Wage](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
+    
+    [![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+    
+    ### [Giant Christmas tree lights switch on and Santa’s Grotto returns to Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,10 +106,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-360x180.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
-    ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
     [![New Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/New-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
     
     ### [‘Knifeman attempts bike theft’ in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
@@ -142,6 +138,10 @@ View All Result
     From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
     ### [Southwark theatres celebrated for leading the way on the London Living Wage](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
+    
+    [![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+    
+    ### [Giant Christmas tree lights switch on and Santa’s Grotto returns to Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -225,17 +225,17 @@ Terms of Use
 
 [5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
 
-[![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-[10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
 [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 [7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
+
+[![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+[10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
 
 [![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
@@ -244,12 +244,6 @@ Terms of Use
 [5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
 ### Featured Articles
-
-[![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-[11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 [![Police were called to the incident on Wells Park Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-the-incident-on-Wells-Park-Road.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
 
@@ -280,6 +274,12 @@ Terms of Use
 ### [Giant Christmas tree lights switch on and Santa’s Grotto returns to Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
 
 [9th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
+
+[![Computer-generated image of Peckham town centre after the proposed redevelopment. Credit: Peckham Heritage](https://southwarknews.co.uk/wp-content/uploads/2024/11/View-31-Peckham-Levels-centre-proposed_TVIA_24_AP_2074-ENVIRONMENTAL_STATEMENT_VOLUME_2__HERITAGE__TOWNSCAPE_AND_VISUAL_IMPACT_ASSESSME-3895311-166-1-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+
+### [Peckham architectural treasures to be ‘overshadowed’ towers rising up to 20-storeys](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
+
+[8th November 2024](https://southwarknews.co.uk/area/peckham/peckham-architectural-treasures-to-be-overshadowed-towers-rising-up-to-20-storeys/)
 
 ### USEFUL PAGES
 
