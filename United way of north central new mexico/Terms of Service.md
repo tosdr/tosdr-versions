@@ -2,9 +2,9 @@
 
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20335'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20445'%3E%3C/svg%3E)
 
-![](https://uwncnm.org/wp-content/uploads/2022/12/UWNCNM_logo_vertical_counties-400.jpg)](https://uwncnm.org/)
+![](https://uwncnm.org/wp-content/uploads/2024/11/nav_logo_final.webp)](https://uwncnm.org/)
 
 * [Who We Are](https://uwncnm.org/who-we-are/)
     * [About Us](https://uwncnm.org/about-us/)
@@ -43,7 +43,7 @@
         * [Corporate & Workplace Giving](https://uwncnm.org/corporate-giving/)
     * [Volunteer](https://uwncnm.org/volunteer/)
         * [Week of Caring](https://uwncnm.org/week-of-caring/)
-    * [Events](https://uwncnm.org/events/)
+    * [Events](https://uwncnm.org/?page_id=1029)
 * [Community Grants](https://uwncnm.org/community-investment-grants/)
     * [Emergency Food & Shelter Program](https://uwncnm.org/efsp/)
     * [Agency Log In](https://uwncnm.org/agencylink/)
@@ -88,7 +88,7 @@ Menu
         * [Corporate & Workplace Giving](https://uwncnm.org/corporate-giving/)
     * [Volunteer](https://uwncnm.org/volunteer/)
         * [Week of Caring](https://uwncnm.org/week-of-caring/)
-    * [Events](https://uwncnm.org/events/)
+    * [Events](https://uwncnm.org/?page_id=1029)
 * [Community Grants](https://uwncnm.org/community-investment-grants/)
     * [Emergency Food & Shelter Program](https://uwncnm.org/efsp/)
     * [Agency Log In](https://uwncnm.org/agencylink/)
@@ -153,9 +153,9 @@ Sign up for our emails and stay informed about how we work with partners and sup
 * [Blogs](https://uwncnm.org/uwncnm-blogs)
 * [Media Press Kit](https://uwncnm.org/press-kit)
 
-![featured-images2-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "featured-images2-min")
+![footer_logo_uwncnm](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "footer_logo_uwncnm")
 
-![featured-images2-min](https://uwncnm.org/wp-content/uploads/elementor/thumbs/UWNCNM_logo_vertical_counties-400-pyp4v7a2l9m0s5ofn7gt7irjsj6lz6idei3fthmnqe.jpg "featured-images2-min")
+![footer_logo_uwncnm](https://uwncnm.org/wp-content/uploads/elementor/thumbs/footer_logo_uwncnm-qwvnd18cvqfj2idp2d7o2gr65hyptfx49ikdue361c.webp "footer_logo_uwncnm")
 
 [Give Now](https://uwncnm.org/terms-of-use/?campaign=518585)
 
