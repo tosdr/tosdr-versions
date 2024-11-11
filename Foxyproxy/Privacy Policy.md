@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I set up a new 1 year subscription before old one expired. I'm very happy with this.
+Happy with the proxy server service. I already set up another subscription.
 
-Frank
+David Steele
