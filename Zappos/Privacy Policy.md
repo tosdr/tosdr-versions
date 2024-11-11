@@ -1,9 +1,5 @@
 [Skip to main content](#main)
 
-Snag casual boots for chilly season. [Shop Our Guide](https://www.zappos.com/c/top-10-casual-boots)
-
-The top 10 UGG® gifts. [Shop Our Guide.](https://www.zappos.com/c/10-most-gifted-ugg)
-
 Cozy Crocs for chilly weather! [Shop The Guide](https://www.zappos.com/c/crocs-fuzzy-edition-2024)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
