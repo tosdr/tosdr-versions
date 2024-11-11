@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Black Friday Sneak Peek: Save up to 40% off the best sound for the season. [Shop](https://www.bose.com/c/holiday-sale)
+Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
-Exclusive QuietComfort Ultra Headphones are now available in Sandstone. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
+Exclusive: Sandstone QuietComfort Ultra Headphones are now available. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
 
-Military personnel score a special discount with ID.Me at checkout. [Learn How for Vet Day Nov 11/7 - 11/11](https://www.bose.com/idme-group-discounts-program)
+Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
-Sign up for Bose texts & get an extra 10% off Bose Certified Refurbished products! [Sign Up.](https://cloud.email.bose.com/sms-sign-up)
+My Bose Members get a Holiday Bonus Card with every online order above $100 for future purchases. [Terms apply](https://assets.bosecreative.com/m/7661b7b1999a42b6/original/bose_holiday_bonus_card_terms_and_conditions_nov_2024.pdf)
 
 [Cancel](#)
 
@@ -14,7 +14,7 @@ Back
 
 * [Holiday](#)
     
-    * [Black Friday Sneak Peek](https://www.bose.com/c/holiday-sale)
+    * [Black Friday Deals](https://www.bose.com/c/holiday-sale)
     * [Gift Guide](https://www.bose.com/holiday-gift-guide)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
     * [Gift Sets](https://www.bose.com/c/sets)
@@ -22,25 +22,23 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/5da336c11f25d14/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Gift-Guide.png)
+    [![](https://assets.bosecreative.com/m/5dce4046dc495b97/webimage-SF_NavFlyout_Holiday_Bonus-Card_Mobile.png)
     
-    ### Holiday Gift Guide](https://www.bose.com/holiday-gift-guide "Shop")
+    ### Shop more. Get more.](https://www.bose.com/c/holiday-sale "Shop")
     
      
     
-    Black Friday Sneak Peek
+    Shop more. Get more.
+    --------------------
     
-    Shop early. Own the gift game.
-    ------------------------------
+    My Bose Members, get a Holiday Bonus Card for future orders with every purchase above $100.
     
-    Stock up now on gifts with up to 40% off.
-    
-    [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
+    [Shop](https://www.bose.com/c/holiday-sale "Shop")
     
 
 * [Shop](#)
     
-    * [Black Friday Sneak Peek](https://www.bose.com/c/holiday-sale)
+    * [Black Friday Deals](https://www.bose.com/c/holiday-sale)
     * [New & Exclusive](https://www.bose.com/c/new-arrivals)
     * [Headphones](https://www.bose.com/c/headphones)
     * [Earbuds](https://www.bose.com/c/earbuds)
@@ -111,16 +109,18 @@ Back
     
     [![](https://assets.bosecreative.com/m/6fa09240bc64c918/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Sandstone-QCUH.png)
     
-    Exclusive color drop
+    Exclusive Color Drop
     
-    ### Sculpted in Sandstone](https://www.bose.com/QCUH-HEADPHONEARN.html "BUY NOW")
+    ### Sculpted in Sandstone](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1 "BUY NOW")
     
      
+    
+    Exclusive Color Drop
     
     Sculpted in Sandstone
     ---------------------
     
-    Unlock $100 off world-class noise cancellation.
+    Share the joy of legendary sound.
     
     [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1 "BUY NOW")
     
@@ -192,13 +192,11 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/73e0d5fb6a8f14ed/webimage-QCHLE24-Moonstone_SLMPS_QCUEBLE25-LunarBlue_SF_SneakPeek_Nav_Fly-Out_Desktop_CrossCat_Mobile.png)
+[![](https://assets.bosecreative.com/m/5dce4046dc495b97/webimage-SF_NavFlyout_Holiday_Bonus-Card_Mobile.png)
 
-Black Friday Sneak Peek
+### Shop more. Get more.](https://www.bose.com/c/holiday-sale "Shop")
 
-### Shop early. Own the gift game.](https://www.bose.com/c/holiday-sale "SHOP")
-
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw563b3756/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw49e547e9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
