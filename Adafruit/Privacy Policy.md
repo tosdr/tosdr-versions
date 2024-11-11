@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The economy of human time is the next advantage of machinery in manufactures”
+“ We understand human mental processes only slightly better than a fish understands swimming”
 
-[Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
+[John McCarthy](http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29)
 
 [](https://www.adafruit.com/about)
 
