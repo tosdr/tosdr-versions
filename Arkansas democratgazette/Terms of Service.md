@@ -128,7 +128,6 @@ Open user options menu
 * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
 * [Home](https://www.arkansasonline.com/)
 * [Local News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
-* [Election](https://www.arkansasonline.com/election)
 * [HS Football Scores](https://www.arkansasonline.com/arpreps/2024/)
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
 * [Obits](https://www.arkansasonline.com/obituaries/)
