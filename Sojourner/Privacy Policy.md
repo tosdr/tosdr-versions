@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-000c3544ed3eb080a1c5eb8959b63b65
+f2331e733a779b4c86dd439569f90335
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm to 14 mm white coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0182.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-white-coin-pearls.html "12 mm to 14 mm white coin pearls")
+[![Kyanite 6 mm flat circles](https://www.sojourner.biz/images/cache/kyanite/KYN004.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/kyanite/kyanite-6-mm-flat-circles.html "Kyanite 6 mm flat circles")
 
-#### [12 mm to 14 mm white coin pearls](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-white-coin-pearls.html "12 mm to 14 mm white coin pearls")
+#### [Kyanite 6 mm flat circles](https://www.sojourner.biz/beads/stone-a-l/kyanite/kyanite-6-mm-flat-circles.html "Kyanite 6 mm flat circles")
 
-$41.00
+$50.00
 
 ### Best Sellers
 
