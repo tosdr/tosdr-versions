@@ -87,11 +87,11 @@ Most Read
     
     1. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-2. 2. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
+2. 2. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
     
-3. 3. [New SMB-friendly subscription tier may be too late to stop VMware migrations](https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/)
+3. 3. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
     
-4. 4. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
+4. 4. [New SMB-friendly subscription tier may be too late to stop VMware migrations](https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/)
     
 5. 5. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
     
