@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-30 Day Guarantee
+[![](//blackwolfnation.com/cdn/shop/files/10_384daddb-9c94-4c94-8581-c8a73753a8ff.png?crop=center&height=50&v=1722973225&width=50)
 
-Free Shipping Over $55 - Free Gift over $80
+🎄⭐️ 25% OFF HOLIDAY BUNDLES! USE CODE BLACKWOLF25 - SHOP NOW! 🎄⭐️](https://blackwolfnation.com/collections/bundle-gifts)
 
 [](https://blackwolfnation.com/customer_authentication/redirect?locale=en&region_country=US)
 
