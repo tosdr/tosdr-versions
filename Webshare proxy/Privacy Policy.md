@@ -100,6 +100,10 @@ Starting at
 
 $0.2/GB](https://www.webshare.io/verified-proxy)
 
+[Compare Our plans
+
+"Explore and Choose the Best Proxy Plan for Your Needs"](https://www.webshare.io/product-comparison)
+
 Features
 
 Proxy
@@ -211,7 +215,7 @@ No credit card required.
 
 [Get 10 Free Proxies](https://dashboard.webshare.io/register)
 
-[Talk To Sales](#)[Log In](https://dashboard.webshare.io/login/?source=nav_login)[Sign Up](https://dashboard.webshare.io/register/?source=nav_register)
+[Contact Us](#)[Log In](https://dashboard.webshare.io/login/?source=nav_login)[Sign Up](https://dashboard.webshare.io/register/?source=nav_register)
 
 Privacy Policy
 --------------
@@ -462,13 +466,9 @@ Get started today,
 no credit card required.
 ========================
 
-[Create Account](https://dashboard.webshare.io/register/?source=footer-create-account)
-
-[Talk to Sales](#)
+[Get Webshare Free](https://dashboard.webshare.io/register?source=home_hero_button_register)[Talk to Expert](#)
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/662f5802210174c495089655_Webshare%20Logo_white.svg)](#)[Buy fast & affordable proxy servers. Get 10 proxies today for free.](https://dashboard.webshare.io/register?source=footer_free_proxies_banner_register)
-
-© Webshare Proxy
 
 [](https://www.facebook.com/webshareproxy/)
 
@@ -512,3 +512,9 @@ no credit card required.
 * [Intellectual Property](https://www.webshare.io/intellectual-property)
 * [Terms of Service](https://www.webshare.io/terms)
 * [Privacy Policy](https://www.webshare.io/privacy-policy)
+
+© Webshare Proxy
+
+payment methods
+
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/672dfd72d3946ceeb5f1fe20_Visa.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/672dfd7279dd80dc62c033a7_Mastercard.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/672dfd721cafdb560b8c61ed_Amex.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/672dfd7348ef5a1e06aa7035_Discover.svg)
