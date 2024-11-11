@@ -305,7 +305,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956)
 
-Сегодня 17:34
+11.11.24
 
 [![«Единая Россия» дала старт благотворительной акции «Коробка храбрости»](https://cdn.er.ru/media/news/November2024/tMgUIrSQ4rhV0wZBwmJx-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-blagotvoritelnoj-akcii-korobka-hrabrosti)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонникиЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=140476) [#Коробкахрабрости](https://er.ru/activity/news?tags%5B0%5D=1095019) [#медучреждения](https://er.ru/activity/news?tags%5B0%5D=5855) [#игрушки](https://er.ru/activity/news?tags%5B0%5D=5113) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
 
-Сегодня 17:05
+11.11.24
 
 [![«Единая Россия» даст старт международной акции «Люди Артека» 15 ноября](https://cdn.er.ru/media/news/November2024/3sRX7dMMqZv8IQdeF10i-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dast-start-mezhdunarodnoj-akcii-lyudi-arteka-15-noyabrya)
 
@@ -321,7 +321,7 @@
 
 [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#Беларусь](https://er.ru/activity/news?tags%5B0%5D=5381) [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872)
 
-Сегодня 13:40
+11.11.24
 
 [![Сергей Лавров: «Единая Россия» инициировала межпартийные процессы по противодействию практикам неоколониализма](https://cdn.er.ru/media/news/November2024/ftadDx6UqNrjyQVWRQ48-small.jpg)](https://er.ru/activity/news/sergej-lavrov-edinaya-rossiya-iniciirovala-mezhpartijnye-processy-po-protivodejstviyu-praktikam-neokolonializma)
 
@@ -329,7 +329,7 @@
 
 [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#Африка](https://er.ru/activity/news?tags%5B0%5D=382)
 
-Сегодня 12:40
+11.11.24
 
 [![Сергей Лавров: К следующей конференции по вопросам Евразийской безопасности мы постараемся разработать евразийскую хартию многообразия и многополярности](https://cdn.er.ru/media/news/November2024/Iez2rUP41bhqKllEXTux-small.jpg)](https://er.ru/activity/news/sergej-lavrov-k-sleduyushej-konferencii-po-voprosam-evrazijskoj-bezopasnosti-my-postaraemsya-razrabotat-evrazijskuyu-hartiyu-mnogoobraziya-i-mnogopolyarnosti)
 
@@ -337,7 +337,7 @@
 
 [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#Евразия](https://er.ru/activity/news?tags%5B0%5D=28959) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
-Сегодня 12:24
+11.11.24
 
 [![Сергей Лавров: Страны Евразии должны нести солидарную ответственность за урегулирование локальных конфликтов, не допуская вмешательства извне](https://cdn.er.ru/media/news/November2024/3Z8niFZFUXymWYLKgOE4-small.jpg)](https://er.ru/activity/news/sergej-lavrov-strany-evrazii-dolzhny-nesti-solidarnuyu-otvetstvennost-za-uregulirovanie-lokalnyh-konfliktov-ne-dopuskaya-vmeshatelstva-izvne)
 
@@ -345,7 +345,7 @@
 
 [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#вмешательство](https://er.ru/activity/news?tags%5B0%5D=8270) [#конфликты](https://er.ru/activity/news?tags%5B0%5D=59211) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#Евразия](https://er.ru/activity/news?tags%5B0%5D=28959)
 
-Сегодня 12:15
+11.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
