@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4feb73dc-ee20-4ab1-9cbe-8ea364a0ce76/20241110T001523/4feb73dc-ee20-4ab1-9cbe-8ea364a0ce76_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4feb73dc-ee20-4ab1-9cbe-8ea364a0ce76/20241110T001523/4feb73dc-ee20-4ab1-9cbe-8ea364a0ce76_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/24419574-5290-455d-a1ec-4de9212edcee/20241111T001329/24419574-5290-455d-a1ec-4de9212edcee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/24419574-5290-455d-a1ec-4de9212edcee/20241111T001329/24419574-5290-455d-a1ec-4de9212edcee_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Breezy but dry end to the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A breezy and sunny Veterans Day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_360x203.jpg)](https://www.wqad.com/article/news/regional/volunteer-poll-workers-drown-flood-washed-highway-rural-missouri-election-day/63-f88470b8-e843-4811-ae70-fa590c23c1f1)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-54°
+49°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
