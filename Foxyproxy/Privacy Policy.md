@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Absolutely no complaints and have already re-subscribed to 1-yr extended service.
+I'm actually quite impressed with the product \[GeoShift\].
 
-Andrea Wai Ming Chan
+Dustin Personius
