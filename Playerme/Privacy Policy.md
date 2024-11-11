@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/inzoi-early-access-release-date-on-march-28-2025/)
+    [](https://player.me/towers-of-aghasba-early-access-on-november-19/)
     
-    ![inZOI, KRAFTON Sims Competitor Announces a New Early Access Release Date on March 28, 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Towers of Aghasba Early Access: Everything to Know Before November 19](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/inzoi-early-access-release-date-on-march-28-2025/)
+    [](https://player.me/towers-of-aghasba-early-access-on-november-19/)
     
-    ![inZOI, KRAFTON Sims Competitor Announces a New Early Access Release Date on March 28, 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Towers of Aghasba Early Access: Everything to Know Before November 19](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/wp-content/uploads/2024/11/Everything-to-Know-Before-November-19.png)
+
+[Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/towers-of-aghasba-early-access-on-november-19/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+November 11, 2024/
+
+Dreamlit Games project, Towers of Aghasba, an open-world fantasy game that invites players into a sandbox of boundless creativity and…
+
+[Read More](https://player.me/towers-of-aghasba-early-access-on-november-19/)
+
+![Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/wp-content/uploads/2024/11/The-10-Best-Mods-to-Try-1.png)
+
+[Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
+
+
+-------------------------------------------------------------------------------------------------------------
+
+November 11, 2024/
+
+Risk of Rain 2 is a remarkable evolution of its predecessor, pushing players into the thrill of escaping an alien…
+
+[Read More](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
+
 ![Ranking the 6 Best Cooking Anime of All Time](https://player.me/wp-content/uploads/2024/11/Ranking-the-6-Best-Cooking-Anime-of-All-Time.png)
 
 [Ranking the 6 Best Cooking Anime of All Time](https://player.me/ranking-the-6-best-cooking-anime-of-all-time/)
@@ -218,32 +244,6 @@ November 6, 2024/
 In a historical market shift, NVIDIA, a company once recognized primarily for gaming GPUs, surpassed tech giants like Apple and…
 
 [Read More](https://player.me/nvidia-surpasses-apple-as-most-valuable-company/)
-
-![Call of Duty: Mobile 5th Anniversary Details: Everything You Need to Know Before November 6](https://player.me/wp-content/uploads/2024/11/Everything-You-Need-to-Know-Before-November-6.png)
-
-[Call of Duty: Mobile 5th Anniversary Details: Everything You Need to Know Before November 6](https://player.me/call-of-duty-mobile-5th-anniversary-details/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 5, 2024/
-
-On November 6, Call of Duty: Mobile is gearing up to celebrate its fifth anniversary with an extensive Season 10…
-
-[Read More](https://player.me/call-of-duty-mobile-5th-anniversary-details/)
-
-![Every New AI Feature in iOS 18.2: ChatGPT Integration, Improved Camera Control, Apple Intelligence and More](https://player.me/wp-content/uploads/2024/11/New-AI-Feature-in-iOS-18.2.png)
-
-[Every New AI Feature in iOS 18.2: ChatGPT Integration, Improved Camera Control, Apple Intelligence and More](https://player.me/every-new-ai-feature-in-ios-18-2/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 5, 2024/
-
-Apple’s iOS 18.2 is preparing for a December release with updates designed to redefine user experience. Key among these is…
-
-[Read More](https://player.me/every-new-ai-feature-in-ios-18-2/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/wp-content/uploads/2024/11/Everything-to-Know-Before-November-19.png)
+
+[Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/towers-of-aghasba-early-access-on-november-19/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+November 11, 2024/
+
+Dreamlit Games project, Towers of Aghasba, an open-world fantasy game that invites players into a sandbox of boundless creativity and…
+
+[Read More](https://player.me/towers-of-aghasba-early-access-on-november-19/)
+
+![Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/wp-content/uploads/2024/11/The-10-Best-Mods-to-Try-1.png)
+
+[Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
+
+
+-------------------------------------------------------------------------------------------------------------
+
+November 11, 2024/
+
+Risk of Rain 2 is a remarkable evolution of its predecessor, pushing players into the thrill of escaping an alien…
+
+[Read More](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
+
 ![Ranking the 6 Best Cooking Anime of All Time](https://player.me/wp-content/uploads/2024/11/Ranking-the-6-Best-Cooking-Anime-of-All-Time.png)
 
 [Ranking the 6 Best Cooking Anime of All Time](https://player.me/ranking-the-6-best-cooking-anime-of-all-time/)
@@ -379,32 +405,6 @@ November 5, 2024/
 Apple’s iOS 18.2 is preparing for a December release with updates designed to redefine user experience. Key among these is…
 
 [Read More](https://player.me/every-new-ai-feature-in-ios-18-2/)
-
-![DRAGON QUEST III HD-2D Remake: Story, Gameplay, Editions and Everything You Need to Know Before November 14](https://player.me/wp-content/uploads/2024/11/Dragon-Quest-3-HD-2D-Remake_Story-Gameplay-Editions-and-Everything-You-Need-to-Know-Before-November-14-1.png)
-
-[DRAGON QUEST III HD-2D Remake: Story, Gameplay, Editions and Everything You Need to Know Before November 14](https://player.me/everything-to-know-about-dragon-quest-iii-hd-2d-remake/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 4, 2024/
-
-Fans of classic RPGs, rejoice! DRAGON QUEST III HD-2D Remake is officially releasing on November 14, 2024, for Nintendo Switch,…
-
-[Read More](https://player.me/everything-to-know-about-dragon-quest-iii-hd-2d-remake/)
-
-![Disney Music Parade: Encore Is Launching Globally, Starting with Asia on December 12](https://player.me/wp-content/uploads/2024/11/Disney-Music-Parade.png)
-
-[Disney Music Parade: Encore Is Launching Globally, Starting with Asia on December 12](https://player.me/disney-music-parade-encore-is-launching-globally/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 4, 2024/
-
-Disney Music Parade: Encore, a vibrant rhythm game featuring various beloved Disney characters and songs, is set to make waves…
-
-[Read More](https://player.me/disney-music-parade-encore-is-launching-globally/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new upda
 
 player.me
 
+[](https://player.me/towers-of-aghasba-early-access-on-november-19/ "Towers of Aghasba Early Access: Everything to Know Before November 19")
+
+[Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/towers-of-aghasba-early-access-on-november-19/)
+
+November 11, 2024
+
+[](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/ "Risk of Rain 2 Mods: The 10 Best Mods to Try")
+
+[Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
+
+November 11, 2024
+
 [](https://player.me/ranking-the-6-best-cooking-anime-of-all-time/ "Ranking the 6 Best Cooking Anime of All Time")
 
 [Ranking the 6 Best Cooking Anime of All Time](https://player.me/ranking-the-6-best-cooking-anime-of-all-time/)
@@ -853,22 +865,10 @@ November 6, 2024
 
 November 6, 2024
 
-[](https://player.me/call-of-duty-mobile-5th-anniversary-details/ "Call of Duty: Mobile 5th Anniversary Details: Everything You Need to Know Before November 6")
-
-[Call of Duty: Mobile 5th Anniversary Details: Everything You Need to Know Before November 6](https://player.me/call-of-duty-mobile-5th-anniversary-details/)
-
-November 5, 2024
-
-[](https://player.me/every-new-ai-feature-in-ios-18-2/ "Every New AI Feature in iOS 18.2: ChatGPT Integration, Improved Camera Control, Apple Intelligence and More")
-
-[Every New AI Feature in iOS 18.2: ChatGPT Integration, Improved Camera Control, Apple Intelligence and More](https://player.me/every-new-ai-feature-in-ios-18-2/)
-
-November 5, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 579,552 times, 83 visit(s) today
+Visited 579,650 times, 181 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
