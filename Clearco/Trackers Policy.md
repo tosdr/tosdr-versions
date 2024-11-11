@@ -94,7 +94,7 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/672e43ef61b43209100bffa9_ecommerce-mistakes-bfcm.jpg)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67323bb1775b8c061197b128_top-mistakes-ecommerce--black-friday-cyber-monday.png)
 
 ###### Ecommerce Brands Biggest Mistakes During BFCM
 
