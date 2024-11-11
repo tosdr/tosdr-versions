@@ -2,6 +2,8 @@
 
 * Es noticia:
 * [Real Sociedad - Barcelona](https://www.marca.com/futbol/laliga-ea-sports/real-sociedad-barcelona/2024/11/10/01_0101_20241110_188_178-directo.html)
+* [Fuera de juego Lewandowski](https://www.marca.com/futbol/barcelona/2024/11/10/increible-fuera-juego-milimetrico-lewandowski-punta-bota.html)
+* [Frenkie de Jong](https://www.marca.com/futbol/barcelona/2024/11/10/frenkie-jong-vuelve-lesionarse.html)
 * [Lamine Yamal](https://www.marca.com/futbol/barcelona/2024/11/10/lamine-yamal-baja-lesion-anoeta.html)
 * [Medvedev](https://www.marca.com/tenis/2024/11/10/medvedev-pierde-cabeza-partido-fritz.html)
 * [Real Sociedad - Barcelona dónde ver](https://www.marca.com/futbol/primera-division/2024/11/10/real-sociedad-barcelona-horario-ver-tv-partido-laliga-ea-sports.html)
