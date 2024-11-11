@@ -2,14 +2,14 @@ Monday, November 11 2024
 
 Breaking News
 
-* [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/)
-* [Trump’s Landslide Win Reveals Dems Have More Than Just A Biden-Harris Problem](https://www.conservativedailynews.com/2024/11/trumps-landslide-win-reveals-dems-have-more-than-just-a-biden-harris-problem/)
-* [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
-* [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/)
-* [Major Automaker Exec Flatly Says Liberals’ EV ‘Mandates’ Are ‘Impossible’ To Meet](https://www.conservativedailynews.com/2024/11/major-automaker-exec-flatly-says-liberals-ev-mandates-are-impossible-to-meet/)
-* [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
-* [With Trump Returning To Power, Europe Chief Weighs Idea Of Buying More Natural Gas From US Instead Of Russia](https://www.conservativedailynews.com/2024/11/with-trump-returning-to-power-europe-chief-weighs-idea-of-buying-more-natural-gas-from-us-instead-of-russia/)
-* [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/)
+* [CNN’s Enten: Democrat Party Has No ‘Heir Apparent’ For Next Presidential Primary](https://www.conservativedailynews.com/2024/11/cnns-enten-democrat-party-has-no-heir-apparent-for-next-presidential-primary/)
+* [Trump Chooses GOP Rep. Elise Stefanik As US Ambassador To UN](https://www.conservativedailynews.com/2024/11/trump-chooses-gop-rep-elise-stefanik-as-us-ambassador-to-un/)
+* [Here Comes Trump’s ‘Morning in America’ Economy](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
+* [Wealthy Town Running Out Of Cash Under California’s Strict Affordable Housing Policies](https://www.conservativedailynews.com/2024/11/wealthy-town-running-out-of-cash-under-californias-strict-affordable-housing-policies/)
+* [The Left Will Regret Their Meltdown As The People Have Spoken](https://www.conservativedailynews.com/2024/11/the-left-will-regret-their-meltdown-as-the-people-have-spoken/)
+* [Trump Easily Destroys all the Leftist Geniuses Again](https://www.conservativedailynews.com/2024/11/trump-easily-destroys-all-the-leftist-geniuses-again/)
+* [Medal of Honor Monday: Army Pfc. Foster J. Sayers](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-foster-j-sayers/)
+* [President Joe Biden’s Schedule for Monday, November 11, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-11-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -26,10 +26,6 @@ Breaking News
 * [Log In](#)
 
 * [Home](https://www.conservativedailynews.com/)
-* [2024 Election](https://www.conservativedailynews.com/the-2024-presidential-election/)
-    * [2024 Electoral Map](https://www.conservativedailynews.com/the-2024-presidential-election/)
-    * [Donald Trump](https://www.conservativedailynews.com/tag/donald-trump/)
-    * [Kamala Harris](https://www.conservativedailynews.com/tag/kamala-harris/)
 * [Sections](https://conservativedailynews.com/)
     * [News and Politics](https://www.conservativedailynews.com/category/trending-topics/breaking-news/ "Breaking News")
     * [Editorial Cartoons](https://www.conservativedailynews.com/category/trending-topics/political-cartoons/ "The Best Political Cartoons")
@@ -47,6 +43,9 @@ Breaking News
     * [Biden’s Schedule](https://www.conservativedailynews.com/tag/schedule/)
     * [White House Press Briefings](https://www.conservativedailynews.com/tag/press-briefing/)
     * [Biden Administration News](https://www.conservativedailynews.com/tag/the-biden-administration/)
+* [Trump Administration](https://www.conservativedailynews.com/the-donald-trump-administration/)
+    * [Trump’s Cabinet](https://www.conservativedailynews.com/the-donald-trump-administration/ "The Cabinet of President Donald Trump")
+    * [Trump Administration News](https://www.conservativedailynews.com/tag/trump-administration/ "News about the Donald Trump Administration")
 * [Get the Newsletter](https://www.conservativedailynews.com/about-2/contact-us/subscribe-to-the-newsletter/)
 * [Write for CDN](https://www.conservativedailynews.com/about-2/contact-us/write-for-cdn/ "Become a CDN Contributor")
 * [Support Us](https://www.conservativedailynews.com/support-conservative-news/ "Support CDN With a Small Donation")
@@ -111,87 +110,87 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.35%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.40%
 
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
+    
+    [Thank a Veteran](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
+    
+    November 11, 2024
+    
 * [![Democrats Trump is Hitler Card](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
     
     [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
-    
-    November 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
-    
-    [Joe Rogan Says Harris Campaign Wanted Topic ‘Restrictions’ For Interview, Asked If He Edits Footage](https://www.conservativedailynews.com/2024/11/joe-rogan-says-harris-campaign-wanted-topic-restrictions-for-interview-asked-if-he-edits-footage/)
     
     November 9, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/dangerous-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/11/cnns-enten-democrat-party-has-no-heir-apparent-for-next-presidential-primary/)
     
-    [Dangerous](https://www.conservativedailynews.com/2024/11/dangerous-2/)
+    [CNN’s Enten: Democrat Party Has No ‘Heir Apparent’ For Next Presidential Primary](https://www.conservativedailynews.com/2024/11/cnns-enten-democrat-party-has-no-heir-apparent-for-next-presidential-primary/)
     
-    November 10, 2024
+    November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/07/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/11/Elise-Stefanik.jpg)](https://www.conservativedailynews.com/2024/11/trump-chooses-gop-rep-elise-stefanik-as-us-ambassador-to-un/)
     
-    [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/)
+    [Trump Chooses GOP Rep. Elise Stefanik As US Ambassador To UN](https://www.conservativedailynews.com/2024/11/trump-chooses-gop-rep-elise-stefanik-as-us-ambassador-to-un/)
     
-    November 10, 2024
+    November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/01-famrisk-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trumps-landslide-win-reveals-dems-have-more-than-just-a-biden-harris-problem/)
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
     
-    [Trump’s Landslide Win Reveals Dems Have More Than Just A Biden-Harris Problem](https://www.conservativedailynews.com/2024/11/trumps-landslide-win-reveals-dems-have-more-than-just-a-biden-harris-problem/)
+    [Here Comes Trump’s ‘Morning in America’ Economy](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
     
-    November 10, 2024
+    November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-hmcoming-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/closing-thoughts/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/California-broke.jpg)](https://www.conservativedailynews.com/2024/11/wealthy-town-running-out-of-cash-under-californias-strict-affordable-housing-policies/)
     
-    [Closing Thoughts](https://www.conservativedailynews.com/2024/11/closing-thoughts/)
+    [Wealthy Town Running Out Of Cash Under California’s Strict Affordable Housing Policies](https://www.conservativedailynews.com/2024/11/wealthy-town-running-out-of-cash-under-californias-strict-affordable-housing-policies/)
     
-    November 10, 2024
+    November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-kamala-lost/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5760-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/the-left-will-regret-their-meltdown-as-the-people-have-spoken/)
     
-    [Why Kamala Lost](https://www.conservativedailynews.com/2024/11/why-kamala-lost/)
+    [The Left Will Regret Their Meltdown As The People Have Spoken](https://www.conservativedailynews.com/2024/11/the-left-will-regret-their-meltdown-as-the-people-have-spoken/)
     
-    November 10, 2024
+    November 11, 2024
     
-* [![Democrats Trump is Hitler Card](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trump-easily-destroys-all-the-leftist-geniuses-again/)
     
-    [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
+    [Trump Easily Destroys all the Leftist Geniuses Again](https://www.conservativedailynews.com/2024/11/trump-easily-destroys-all-the-leftist-geniuses-again/)
     
-    November 9, 2024
+    November 11, 2024
     
-* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-vet-prior-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/out-in-the-cold/)
     
-    [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/)
+    [Out In The Cold](https://www.conservativedailynews.com/2024/11/out-in-the-cold/)
     
-    November 9, 2024
+    November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/major-automaker-exec-flatly-says-liberals-ev-mandates-are-impossible-to-meet/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/241105-O-D0439-059A-220x150.jpg)](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-foster-j-sayers/)
     
-    [Major Automaker Exec Flatly Says Liberals’ EV ‘Mandates’ Are ‘Impossible’ To Meet](https://www.conservativedailynews.com/2024/11/major-automaker-exec-flatly-says-liberals-ev-mandates-are-impossible-to-meet/)
+    [Medal of Honor Monday: Army Pfc. Foster J. Sayers](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-foster-j-sayers/)
     
-    November 9, 2024
+    November 11, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Flat Tire Turned Machete Attack, Takes a Bad Day to Worse](https://www.thegunpage.com/flat-tire-turned-machete-attack-takes-a-bad-day-to-worse/10611803)
+* [TFB Weekly Web Deals 113: Deals for Veterans Day – November 11th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-113-deals-for-veterans-day-november-11th-2024/10611801)
+* [Take a Vet Shooting](https://www.thegunpage.com/take-a-vet-shooting/10611799)
+* [High Speed Gear Gen 2 Operator Belt Offers Lightweight Strength And Secure Fit](https://www.thegunpage.com/high-speed-gear-gen-2-operator-belt-offers-lightweight-strength-and-secure-fit/10611805)
+* [Talladega Marksmanship Park Electronic Targets Receive Upgrades, Including New Tablets](https://www.thegunpage.com/talladega-marksmanship-park-electronic-targets-receive-upgrades-including-new-tablets/10611802)
 * [Thank You Veterans](https://www.thegunpage.com/thank-you-veterans-7/10611797)
+* [Tandemkross Accelerator Forward Thumb Ledge For The Ruger Mark IV 22/45](https://www.thegunpage.com/tandemkross-accelerator-forward-thumb-ledge-for-the-ruger-mark-iv-22-45/10611800)
 * [9mm vs. .45 ACP: The Debate That Seems To Never End](https://www.thegunpage.com/9mm-vs-45-acp-the-debate-that-seems-to-never-end/10611789)
 * [Musician Jay Allen Becomes Gun Owner After Being Robbed At Gunpoint](https://www.thegunpage.com/musician-jay-allen-becomes-gun-owner-after-being-robbed-at-gunpoint/10611787)
 * [The Origin Of The ‘Plow Handle’ Grip Shape In Early Pistols](https://www.thegunpage.com/the-origin-of-the-plow-handle-grip-shape-in-early-pistols/10611781)
-* [Silencer Saturday #354: SHOT Show 2025 Predictions](https://www.thegunpage.com/silencer-saturday-354-shot-show-2025-predictions/10611780)
-* [Georgia Teen Arrested After Killing A Man While Playing With A Gun](https://www.thegunpage.com/georgia-teen-arrested-after-killing-a-man-while-playing-with-a-gun/10611778)
-* [Looking Back At The 2009 NRA National Smallbore Rifle Championship](https://www.thegunpage.com/looking-back-at-the-2009-nra-national-smallbore-rifle-championship/10611772)
-* [The 5 Best Full-Size Handguns](https://www.thegunpage.com/the-5-best-full-size-handguns/10611769)
-* [BREAKING: Illinois Gun & Magazine Ban Struck Down by Federal Judge](https://www.thegunpage.com/breaking-illinois-gun-magazine-ban-struck-down-by-federal-judge/10611767)
-* [POTD: Stag Arms Wyoming 307 Limited Edition](https://www.thegunpage.com/potd-stag-arms-wyoming-307-limited-edition/10611770)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,10 +232,10 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/#comment-783161)
 * KayCee on [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/#comment-783149)
 * David Criss on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783148)
 * Beverly Sellers on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783146)
-* Timothy Hardiman on [Three People Charged In Connection To Alleged Iran-Linked Trump Assassination Plot](https://www.conservativedailynews.com/2024/11/three-people-charged-in-connection-to-alleged-iran-linked-trump-assassination-plot/#comment-783144)
 * Jeff L. on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783141)
 * KayCee on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783139)
 * Stanley Warner on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783130)
