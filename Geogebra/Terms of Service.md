@@ -84,7 +84,7 @@ Performing calculations with fractions, statistics and exponential functions](ht
 
 Notes
 
-Exploring apps bundle including free tools for geometry, spreadsheet and CAS](https://www.geogebra.org/notes)
+Explore online note taking app with interactive graphs, slides, images and much more](https://www.geogebra.org/notes)
 
 [App Downloads](https://www.geogebra.org/download)
 
@@ -166,7 +166,7 @@ Performing calculations with fractions, statistics and exponential functions](ht
 
 Notes
 
-Exploring apps bundle including free tools for geometry, spreadsheet and CAS](https://www.geogebra.org/notes)
+Explore online note taking app with interactive graphs, slides, images and much more](https://www.geogebra.org/notes)
 
 [App Downloads](https://www.geogebra.org/download)
 
