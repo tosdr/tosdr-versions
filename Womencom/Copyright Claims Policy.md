@@ -54,45 +54,57 @@
     
     By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
     
-* *  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+* *  [![Woman wearing silver eyeshadow](https://www.women.com/img/gallery/the-winter-20242025-makeup-trends-youll-be-seeing-everywhere/intro-1731091107.jpg)](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [The Winter 2024/2025 Makeup Trends You'll Be Seeing Everywhere](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+        
+        Makeup trends for winter 2024/2025 include classic holiday colors, metallics, and goth girl glam. But the natural, "no-makeup" look is also popular.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+        
+    *  [![Taylor Swift on stage](https://www.women.com/img/gallery/the-full-transformation-of-taylor-swift-from-country-singer-to-chiefs-wag/intro-1730484748.jpg)](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Shiloh Jolie's Stunning Style Transformation](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+        ### [The Full Transformation Of Taylor Swift From Country Singer To Chiefs WAG](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
         
-        Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
+        Taylor Swift, and her fashion, have grown up since the sundress-and-boots days of the early 2000s. Today, she's making WAG wear supportive and galm.
         
-        By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
-        
-    *  [![Cleaning out closet](https://www.women.com/img/gallery/cobwebbing-the-refreshing-dating-trend-explained/intro-1730747990.jpg)](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-        
-        ### [Cobwebbing: The Refreshing Dating Trend, Explained](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
-        
-        Although cobwebbing may seem like a scary step for some people, more than anything it's an act of healing and self care.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
+        By Emily Hutchinson [Read More](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
         
 
 More Stories
 ------------
 
-*  [![Taylor Swift on stage](https://www.women.com/img/gallery/the-full-transformation-of-taylor-swift-from-country-singer-to-chiefs-wag/intro-1730484748.jpg)](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
+*  [![Hilary Novelle Simon sitting on a table](https://www.women.com/img/gallery/heres-what-went-down-with-the-style-club-after-shark-tank/intro-1730917118.jpg)](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    ### [The Full Transformation Of Taylor Swift From Country Singer To Chiefs WAG](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
+    ### [Here's What Went Down With The Style Club After Shark Tank](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
     
-    Taylor Swift, and her fashion, have grown up since the sundress-and-boots days of the early 2000s. Today, she's making WAG wear supportive and galm.
+    After a 2016 appearance on "Shark Tank", The Style Club's feminist apparel took off. But the company lost momentum after a legal challenge.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
+    By Emily Hutchinson [Read More](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
+    
+*  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Shiloh Jolie's Stunning Style Transformation](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+    
+    Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
     
 *  [![Selena Gomez wearing pink makeup](https://www.women.com/img/gallery/selena-gomez-beauty-looks-well-never-forget/intro-1730826646.jpg)](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
     
@@ -105,6 +117,18 @@ More Stories
     Selena Gomez may be the queen of understated makeup, but she's also pulled out some bold, vibrant looks over the years that we love.
     
     By Emily Hutchinson [Read More](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
+    
+*  [![Cleaning out closet](https://www.women.com/img/gallery/cobwebbing-the-refreshing-dating-trend-explained/intro-1730747990.jpg)](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [Cobwebbing: The Refreshing Dating Trend, Explained](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
+    
+    Although cobwebbing may seem like a scary step for some people, more than anything it's an act of healing and self care.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
     
 *  [![Sarah Michelle Gellar posing against a backdrop in 2024](https://www.women.com/img/gallery/8-sarah-michelle-gellar-outfits-that-could-have-come-straight-from-buffy-summers-closet/intro-1730747022.jpg)](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
     
@@ -381,30 +405,6 @@ More Stories
     With how good Sabrina Carpenter is at looking glam, you'd think we're talking nonsense when we say she's had some outfit fails. Here were some we can't forget.
     
     By Emily Hutchinson [Read More](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
-    
-*  [![Angelina Jolie](https://www.women.com/img/gallery/angelina-jolie-is-gorgeous-without-makeup/intro-1729782059.jpg)](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Angelina Jolie Is Gorgeous Without Makeup](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
-    
-    It's normal to be curious about whether it's the makeup doing all the work or something else. In Angelina Jolie's case, it's something else.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
-    
-*  [![Miley Cyrus](https://www.women.com/img/gallery/miley-cyrus-is-childless-by-choice-her-heartbreaking-reason-makes-so-much-sense/intro-1729705548.jpg)](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [Miley Cyrus Is Childless By Choice & Her Heartbreaking Reason Makes So Much Sense](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
-    
-    For some, it's a matter of not wanting kids. For others, like Miley Cyrus, there's specific reasoning behind living a child free life.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
     
 
 Back
