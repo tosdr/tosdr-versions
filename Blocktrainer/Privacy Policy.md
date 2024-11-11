@@ -24,7 +24,7 @@
 [Anmelden](https://www.blocktrainer.de/login) [Registrieren](https://www.blocktrainer.de/registrierung)
 
 * [Kaufen & Verwahren](https://www.blocktrainer.de/kaufen-und-anbieter)
-    * [Bitcoin-Sparplan-Vergleich](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-sparplan-vergleich)
+    * [Bitcoin-Anbieter-Vergleich](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-anbieter-vergleich)
     * [Anleitung – Bitcoin kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/anleitung-bitcoin-kaufen)
     * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker)
     * [Hardware Wallets](https://www.blocktrainer.de/kaufen-und-anbieter/hardware-wallets)
@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![blocktrainer.de](/fileadmin/_processed_/9/e/csm_blocktrainer_box_17e9184473.png)](https://www.blocktrainer.de/unterstuetze-uns)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
