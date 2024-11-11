@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_115052754_menu)
+ [Compartilhar](#elShareItem_1949120464_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -147,7 +147,7 @@ Posts recomendados
     
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
-* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.980 posts")
+* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.982 posts")
 * 13.059
 * 16/01/2002
 *  Offline
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1308809464_menu)
+ [Compartilhar](#elShareItem_1428890161_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,15 +365,95 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![bru](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255875.thumb.png.1395ef5728ece23278b064ff71a1b22e.png)](https://www.clubedohardware.com.br/profile/1255875-bru/ "Ir ao perfil de bru")
+    * [![micael heber](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4bc62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255880-micael-heber/ "Ir ao perfil de micael heber")
+        
+        1
+        
+        [Monitor AOC 27" 27G2S BK É BOM ?](https://www.clubedohardware.com.br/forums/topic/1702078-monitor-aoc-27-27g2s-bk-%C3%A9-bom/?do=getNewComment "Monitor AOC 27" 27G2S BK É BOM ?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [micael heber](https://www.clubedohardware.com.br/profile/1255880-micael-heber/ "Ir ao perfil de micael heber")  
+        23 minutos atrás
+        
+    * [![felzeed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244769.thumb.jpeg.aa622e84ddde4a68ff956f25bce45a75.jpeg)](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")
+        
+        1
+        
+        [Gabinete até 300 reais](https://www.clubedohardware.com.br/forums/topic/1702077-gabinete-at%C3%A9-300-reais/?do=getNewComment "Gabinete até 300 reais")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [felzeed](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")  
+        42 minutos atrás
+        
+    * [![kaique20](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1080283.thumb.png.5cea39f9cf5d5ca5a77da54249da0c11.png)](https://www.clubedohardware.com.br/profile/1080283-kaique20/ "Ir ao perfil de kaique20")
+        
+        3
+        
+        [Pc não liga com 4 pentes de memória, e liga led VGA](https://www.clubedohardware.com.br/forums/topic/1702075-pc-n%C3%A3o-liga-com-4-pentes-de-mem%C3%B3ria-e-liga-led-vga/?do=getNewComment "Pc não liga com 4 pentes de memória, e liga led VGA")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [kaique20](https://www.clubedohardware.com.br/profile/1080283-kaique20/ "Ir ao perfil de kaique20")  
+        1 hora atrás
+        
+    * [![Paadovani](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255538.thumb.jpeg.a02748b716492304d26f5790d82d539e.jpeg)](https://www.clubedohardware.com.br/profile/1255538-paadovani/ "Ir ao perfil de Paadovani")
+        
+        1
+        
+        [Redragon Kumara PRO é Bom?](https://www.clubedohardware.com.br/forums/topic/1702073-redragon-kumara-pro-%C3%A9-bom/?do=getNewComment "Redragon Kumara PRO é Bom?")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Paadovani](https://www.clubedohardware.com.br/profile/1255538-paadovani/ "Ir ao perfil de Paadovani")  
+        1 hora atrás
+        
+    * [![Nel Santos](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48562%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ENS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255877-nel-santos/ "Ir ao perfil de Nel Santos")
+        
+        1
+        
+        [O BitLocker é confiável para HD-Externo ?](https://www.clubedohardware.com.br/forums/topic/1702072-o-bitlocker-%C3%A9-confi%C3%A1vel-para-hd-externo/?do=getNewComment "O BitLocker é confiável para HD-Externo ?")
+        
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [Nel Santos](https://www.clubedohardware.com.br/profile/1255877-nel-santos/ "Ir ao perfil de Nel Santos")  
+        1 hora atrás
+        
+    * [![Gabriel Ramos16](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255876.thumb.jpeg.8799fff3582d418d452cae20496174cd.jpeg)](https://www.clubedohardware.com.br/profile/1255876-gabriel-ramos16/ "Ir ao perfil de Gabriel Ramos16")
+        
+        1
+        
+        [Não consigo controlar os leds do meu gabinete usando uma controladora.](https://www.clubedohardware.com.br/forums/topic/1702071-n%C3%A3o-consigo-controlar-os-leds-do-meu-gabinete-usando-uma-controladora/?do=getNewComment "Não consigo controlar os leds do meu gabinete usando uma controladora.")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Gabriel Ramos16](https://www.clubedohardware.com.br/profile/1255876-gabriel-ramos16/ "Ir ao perfil de Gabriel Ramos16")  
+        2 horas atrás
+        
+    * [![Pancierizx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_2311.thumb.jpeg.42aaa527e7ae5c11bc2352d73b7cbe02.jpeg)](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")
+        
+        4
+        
+        [Loja Micro Center dos EUA é confiável?](https://www.clubedohardware.com.br/forums/topic/1702070-loja-micro-center-dos-eua-%C3%A9-confi%C3%A1vel/?do=getNewComment "Loja Micro Center dos EUA é confiável?")
+        
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [Pancierizx](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")  
+        3 horas atrás
+        
+    * [![Nelson Backes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1236629.thumb.jpeg.a93b971fa181802c55a4178521d4f2ac.jpeg)](https://www.clubedohardware.com.br/profile/1236629-nelson-backes/ "Ir ao perfil de Nelson Backes")
         
         0
+        
+        [Monitor com Chromecrast e GPU](https://www.clubedohardware.com.br/forums/topic/1702069-monitor-com-chromecrast-e-gpu/?do=getNewComment "Monitor com Chromecrast e GPU")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Nelson Backes](https://www.clubedohardware.com.br/profile/1236629-nelson-backes/ "Ir ao perfil de Nelson Backes")  
+        5 horas atrás
+        
+    * [![bru](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255875.thumb.png.1395ef5728ece23278b064ff71a1b22e.png)](https://www.clubedohardware.com.br/profile/1255875-bru/ "Ir ao perfil de bru")
+        
+        1
         
         [Monitor ou placa de vídeo?](https://www.clubedohardware.com.br/forums/topic/1702067-monitor-ou-placa-de-v%C3%ADdeo/?do=getNewComment "Monitor ou placa de vídeo?")
         
         [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
         Por [bru](https://www.clubedohardware.com.br/profile/1255875-bru/ "Ir ao perfil de bru")  
-        16 minutos atrás
+        6 horas atrás
         
     * [![julianonn01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255874.thumb.png.8900d505ae08e2e9cdeaf53caab116c8.png)](https://www.clubedohardware.com.br/profile/1255874-julianonn01/ "Ir ao perfil de julianonn01")
         
@@ -383,87 +463,7 @@ Mais opções...
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [julianonn01](https://www.clubedohardware.com.br/profile/1255874-julianonn01/ "Ir ao perfil de julianonn01")  
-        43 minutos atrás
-        
-    * [![TheFerente](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/images.thumb.png.e5b6ea25d23b3f2e9ba36d7cba123558.png)](https://www.clubedohardware.com.br/profile/1206705-theferente/ "Ir ao perfil de TheFerente")
-        
-        1
-        
-        [Monitor 27 Pol IPS](https://www.clubedohardware.com.br/forums/topic/1702065-monitor-27-pol-ips/?do=getNewComment "Monitor 27 Pol IPS")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [TheFerente](https://www.clubedohardware.com.br/profile/1206705-theferente/ "Ir ao perfil de TheFerente")  
-        1 hora atrás
-        
-    * [![nathan1010](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253890.thumb.png.cd261ea43c011cf68b41dc9a0264d3e0.png)](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")
-        
-        0
-        
-        [water cooler rise mode aura ice black suporta o ryzen 7 7800x3d ?](https://www.clubedohardware.com.br/forums/topic/1702064-water-cooler-rise-mode-aura-ice-black-suporta-o-ryzen-7-7800x3d/?do=getNewComment "water cooler rise mode aura ice black suporta o ryzen 7 7800x3d ?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [nathan1010](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")  
-        2 horas atrás
-        
-    * [![Freitolas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255872.thumb.png.1abbc8b46b4734ab70c29b97e4dc6c28.png)](https://www.clubedohardware.com.br/profile/1255872-freitolas/ "Ir ao perfil de Freitolas")
-        
-        0
-        
-        [Mouse não reconhecido pelo computador](https://www.clubedohardware.com.br/forums/topic/1702063-mouse-n%C3%A3o-reconhecido-pelo-computador/?do=getNewComment "Mouse não reconhecido pelo computador")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Freitolas](https://www.clubedohardware.com.br/profile/1255872-freitolas/ "Ir ao perfil de Freitolas")  
-        3 horas atrás
-        
-    * [![Blacklin3](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23629bc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255871-blacklin3/ "Ir ao perfil de Blacklin3")
-        
-        4
-        
-        [Indicações de Placas mãe LGA 1700 e Watercoolers](https://www.clubedohardware.com.br/forums/topic/1702062-indica%C3%A7%C3%B5es-de-placas-m%C3%A3e-lga-1700-e-watercoolers/?do=getNewComment "Indicações de Placas mãe LGA 1700 e Watercoolers")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Blacklin3](https://www.clubedohardware.com.br/profile/1255871-blacklin3/ "Ir ao perfil de Blacklin3")  
-        3 horas atrás
-        
-    * [![Pcdeupau](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255870.thumb.png.f486f5f26577bd24d29b7a7a42d2e444.png)](https://www.clubedohardware.com.br/profile/1255870-pcdeupau/ "Ir ao perfil de Pcdeupau")
-        
-        1
-        
-        [Pc com defeito não liga](https://www.clubedohardware.com.br/forums/topic/1702061-pc-com-defeito-n%C3%A3o-liga/?do=getNewComment "Pc com defeito não liga")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Pcdeupau](https://www.clubedohardware.com.br/profile/1255870-pcdeupau/ "Ir ao perfil de Pcdeupau")  
-        4 horas atrás
-        
-    * [![Wonjong](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/Screenshot_30.thumb.png.6cea6af843e96af9849067d5fef412ab.png)](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")
-        
-        3
-        
-        [SSD Kingston NV2, 1TB, M.2 NVMe por R$380. Vale a pena?](https://www.clubedohardware.com.br/forums/topic/1702060-ssd-kingston-nv2-1tb-m2-nvme-por-r380-vale-a-pena/?do=getNewComment "SSD Kingston NV2, 1TB, M.2 NVMe por R$380. Vale a pena?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Wonjong](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")  
-        5 horas atrás
-        
-    * [![rmlazzari58](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-720377.thumb.jpeg.53cdf81c7c07825733da927f655b7b53.jpeg)](https://www.clubedohardware.com.br/profile/720377-rmlazzari58/ "Ir ao perfil de rmlazzari58")
-        
-        1
-        
-        [Como calcular a tensão depois de um indutor? (Zener tester)](https://www.clubedohardware.com.br/forums/topic/1702058-como-calcular-a-tens%C3%A3o-depois-de-um-indutor-zener-tester/?do=getNewComment "Como calcular a tensão depois de um indutor? (Zener tester)")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [rmlazzari58](https://www.clubedohardware.com.br/profile/720377-rmlazzari58/ "Ir ao perfil de rmlazzari58")  
-        5 horas atrás
-        
-    * [![Lucas  Pietro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/81mOMIZBLlL.thumb.png.8d3179175b1ece70389fe275e7f03af4.png)](https://www.clubedohardware.com.br/profile/1124889-lucas-pietro/ "Ir ao perfil de Lucas  Pietro")
-        
-        2
-        
-        [O cabo PCIE da minha Fonte é compatível com Adaptador PCIE 6 pinos para 8 pinos?](https://www.clubedohardware.com.br/forums/topic/1702057-o-cabo-pcie-da-minha-fonte-%C3%A9-compat%C3%ADvel-com-adaptador-pcie-6-pinos-para-8-pinos/?do=getNewComment "O cabo PCIE da minha Fonte é compatível com Adaptador PCIE 6 pinos para 8 pinos?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Lucas Pietro](https://www.clubedohardware.com.br/profile/1124889-lucas-pietro/ "Ir ao perfil de Lucas  Pietro")  
-        5 horas atrás
+        6 horas atrás
         
     
 
@@ -624,10 +624,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
