@@ -117,61 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Johan Botha - Brand Xplosion
+Kobus Venter
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=148492195)  
-kidoscabbie
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=200617287)  
+Itroniq (Pty) Ltd
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=131858007)  
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=16808170)  
+Moremi Kitchens Rustenburg
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=125550774)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=42482096)  
+Vplay Grafix
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=181396322)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=57563029)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=104292263)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=190721476)  
 Baby Toddles Infant Care
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=160940282)  
-Digifax Pty) Ltd t/a Findfish
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=124493945)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=60130482)  
-CBR Verwe/Paints
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=93099826)  
+Blue Sky Solar Services
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=65493554)  
-Tracknetics
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=138308075)  
+Nogana Events and Decor
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=9832622)  
-MONSTER SECURITY SERVICES
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=131413898)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=74559564)  
-Meyer Towing & Recovery
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=59344683)  
+Sarabi
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=34061429)  
-FlipDesign - Renovation Contracting Firm
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=124721989)  
+NEW BEGINNINGS DESIGNS
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=74252265)  
-West Coast Horse Trails
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=81856209)  
-OXYAIDER (PTY) LTD
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=213275615)  
-Chiron Medical Solutions
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=159202921)  
-Bchange Online CC
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=57394538)  
-Cape Adventure Zone
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=11397094)  
-Norton Medical & Consult - Namibia
-
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=a9bcfb3f157d846fea8e1a2fc6da58a3e1a4aadc27d85cfb996cbb6e11e2e17c&c=171671245)  
-African Roots
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=21437925)  
+Entidee Enterprise PTY (ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
