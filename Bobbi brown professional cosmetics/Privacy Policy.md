@@ -4,7 +4,7 @@ Previous
 
 [Enjoy 25% off sitewide. Exclusions apply.\*](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
-[Pick a free set on $85+ ($50 value). No code needed.](https://www.bobbibrowncosmetics.com/offers-landing-page)
+[Pick a free set on $85+. Plus, get a free full-size Mascara on $100+ ($90 value). No code needed.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
