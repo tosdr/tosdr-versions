@@ -16,7 +16,7 @@ SVT är ett public service-bolag med uppdrag att bedriva TV-verksamhet i allmän
 
 Om du skickar in material till våra program, anmäler dig att delta i våra program eller vara del av publiken behandlar vi ditt namn och kontaktuppgifter samt annan information som är relevant för ändamålet. För mer information om besök till SVT:s lokaler i Stockholm, Göteborg, Malmö och Umeå se nedan under avsnittet “Behandling för andra än journalistiska ändamål - Besökare”. 
 
-Om du använder våra digitala tjänster behandlar vi ditt namn, kontaktuppgifter, din aktivitet i våra digitala tjänster. Några exempel på detta är deltagande i program, dina röstningar, resultat i olika spel m.m., samt övriga uppgifter som kan utgöra underlag för våra program.  
+Om du använder våra digitala tjänster behandlar vi ditt namn, kontaktuppgifter, din aktivitet i våra digitala tjänster. Några exempel på detta är deltagande i program, dina röstningar, resultat i olika spel m.m., samt övriga uppgifter som kan utgöra underlag för våra program. Även bild, video och ljud, samt till dess tillhörande uppgifter så som IP adress, plats och namn skickas in till SVT, via våra digitala tjänster för vidare publicering är uppgifter som behandlas.
 
 Om du önskar få nyhetsbrev från SVT avseende vårt utbud behandlar vi ditt namn och din e-postadress för att kunna skicka ut nyhetsbrev. Om du deltar i paneler för undersökning av vårt utbud behandlar vi ditt namn, e-postadress, ålder, postnummer och dina svar på frågor i undersökningen för att kunna analysera panelsvaren och anpassa vårt utbud därefter. Om du delar dina åsikter avseende våra program med oss behandlar vi ditt namn, kontaktuppgifter och annat innehåll i kommunikationen för att kunna ta in synpunkter när vi tar fram vårt programutbud. 
 
