@@ -223,8 +223,8 @@ Contacting Custom Ink
 If you have any questions or comments about this Policy, or to exercise your rights under this Policy, please contact us using the information below.
 
 Custom Ink, LLC  
-2910 District Ave.  
-Fairfax VA, 22031  
+1640 Boro Place Suite 301  
+Tysons VA 22102  
 703-891-2205  
 [Click Here](https://www.customink.com/remove) to unsubscribe from marketing  
 [Click Here](https://privacyportal.onetrust.com/webform/ad37f637-4936-48fb-9de5-eacfd28c9739/81ffeefa-aa44-4b28-9a0e-e8710790f056) for privacy and marketing removals  
