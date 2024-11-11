@@ -280,7 +280,25 @@ Don’t hesitate to contact us if you have any questions.
 
 © 2024 Recruit Bright FROM Forem Software
 
-Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fprivacy-policy%2F&_wpnonce=74e9b45920) And try again
+RecruitBright.in Acquired by Forem Innovations Private Limited
+
+Hubli, India – 11 November 2024 – Forem Innovations Private Limited, the parent company of Forem Software, is pleased to announce the acquisition of RecruitBright.in, a leading job search and recruitment platform known for its user-friendly interface, advanced search options, and seamless applicant tracking system.
+
+Founded by Mayur Patil, RecruitBright.in has established itself as a trusted platform in the recruitment industry, connecting job seekers and employers with cutting-edge technology to make hiring simpler, faster, and more effective. This acquisition marks a significant milestone for Forem Innovations, expanding its reach in the HR tech sector and enhancing its suite of services for businesses and job seekers.
+
+“We are thrilled to bring RecruitBright.in under the Forem Innovations umbrella,” said a spokesperson for Forem Innovations Private Limited. “This acquisition aligns perfectly with our vision of transforming the recruitment landscape through technology and innovation. By combining RecruitBright’s strengths with our resources and expertise, we aim to create a comprehensive solution that caters to all recruitment needs.”
+
+The acquisition will allow RecruitBright.in to leverage Forem Innovations’ resources and technological capabilities to expand its offerings and provide even more advanced solutions to its users. This move reaffirms Forem Innovations’ commitment to driving technological advancement in the recruitment space, providing employers with a streamlined hiring process and job seekers with an accessible, efficient job search experience.
+
+With this acquisition, RecruitBright.in will continue to operate under its existing brand, offering the same quality service that users have come to expect, with enhancements and new features planned for the coming months
+
+Close
+
+[Powered by ![EssentialPlugin](https://www.recruitbright.in/wp-content/plugins/popup-anything-on-click/assets/images/essentialplugin-logo-small.png)](https://www.essentialplugin.com/?utm_source=https://www.recruitbright.in&utm_medium=popup&utm_campaign=credit-link "Powered by EssentialPlugin") 
+
+[](javascript:void(0);)
+
+Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fprivacy-policy%2F&_wpnonce=4f6dea15d6) And try again
 
 Login to your account
 ---------------------
@@ -321,6 +339,8 @@ Choose your Account Type
 * Confirm Password \* [](#)
 * Phone: \*
     
+      
+    
 * Organization Name 
 * Select Sector \*
     
@@ -347,7 +367,7 @@ Choose your Account Type
 
 [Close](javascript:void(0))
 
-                                      
+                                           
 
 Answers
 -------
