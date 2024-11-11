@@ -6,11 +6,11 @@
     
 * [Forum](https://www.silicone-forum.com/)
     
-    [Yeni mesajlar](https://www.silicone-forum.com/neler-yeni/mesajlar/) [Forumlarda ara](https://www.silicone-forum.com/ara/?type=post)
+    [Yeni mesajlar](https://www.silicone-forum.com/neler-yeni/mesajlar/)
     
 * [Neler yeni](https://www.silicone-forum.com/neler-yeni/)
     
-    [Yeni mesajlar](https://www.silicone-forum.com/neler-yeni/mesajlar/) [Son etkinlik](https://www.silicone-forum.com/neler-yeni/son-etkinlik) [Yeni profil mesajları](https://www.silicone-forum.com/neler-yeni/profil-mesajlari/)
+    [Yeni mesajlar](https://www.silicone-forum.com/neler-yeni/mesajlar/) [Son etkinlik](https://www.silicone-forum.com/neler-yeni/son-etkinlik)
     
 * [Bloglar](https://www.silicone-forum.com/bloglar)
     
@@ -18,35 +18,17 @@
     
 * [Kurallar](https://www.silicone-forum.com/konu/kurallar)
     
-* [Üyeler](https://www.silicone-forum.com/uye/)
-    
-    [Şu anki ziyaretçiler](https://www.silicone-forum.com/online/) [Yeni profil mesajları](https://www.silicone-forum.com/neler-yeni/profil-mesajlari/) [Profil mesajlarında ara](https://www.silicone-forum.com/ara/?type=profile_post)
-    
 
-[Giriş yap](https://www.silicone-forum.com/giris/) [Kaydol](https://www.silicone-forum.com/kayit/)
+[Giriş yap](https://www.silicone-forum.com/giris/)
 
-[Neler yeni](https://www.silicone-forum.com/neler-yeni/ "Neler yeni") [Ara](https://www.silicone-forum.com/ara/ "Ara")
-
-### Ara
-
-Sadece başlıklarda ara
-
-Tarafından: 
-
-Ara [Gelişmiş arama…](https://www.silicone-forum.com/ara/)
+[Neler yeni](https://www.silicone-forum.com/neler-yeni/ "Neler yeni")
 
 * [Son etkinlik](https://www.silicone-forum.com/neler-yeni/son-etkinlik)
-    
-* [Kaydol](https://www.silicone-forum.com/kayit/)
     
 
 Menü
 
 [Giriş yap](https://www.silicone-forum.com/giris/)
-
-* * *
-
-[Kaydol](https://www.silicone-forum.com/kayit/)
 
 * * *
 
@@ -145,7 +127,6 @@ Bu site reCAPTCHA ile korunmaktadır ve Google [gizlilik politikası](https://po
 * [Varsayılan Tema](https://www.silicone-forum.com/diger/stil "Stil seçimi")
 * [Türkçe (TR)](https://www.silicone-forum.com/diger/dil "Dil seçimi")
 
-* [Bize ulaşın](https://www.silicone-forum.com/diger/bize-ulasin)
 * [Kullanım şartları](https://www.silicone-forum.com/yardim/kosullar/)
 * [Gizlilik politikası](https://www.silicone-forum.com/yardim/gizlilik-politikasi/)
 * [Yardım](https://www.silicone-forum.com/yardim/)
