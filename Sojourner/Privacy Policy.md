@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d79789b60c1ebe46aa906f6833cd299b
+000c3544ed3eb080a1c5eb8959b63b65
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Purple and gold faceted Czech bicone beads](https://www.sojourner.biz/images/cache/glass/GL0087.200.jpg)](https://www.sojourner.biz/beads/glass/purple-and-gold-faceted-czech-bicone-beads.html "Purple and gold faceted Czech bicone beads")
+[![12 mm to 14 mm white coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0182.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-white-coin-pearls.html "12 mm to 14 mm white coin pearls")
 
-#### [Purple and gold faceted Czech bicone beads](https://www.sojourner.biz/beads/glass/purple-and-gold-faceted-czech-bicone-beads.html "Purple and gold faceted Czech bicone beads")
+#### [12 mm to 14 mm white coin pearls](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-white-coin-pearls.html "12 mm to 14 mm white coin pearls")
 
-$15.00
+$41.00
 
 ### Best Sellers
 
