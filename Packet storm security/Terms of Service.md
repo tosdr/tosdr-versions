@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,10 +53,10 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 219 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 55 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 223 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 61 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 20 files
 * [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 20 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 18 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 5 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 5 files
@@ -68,6 +68,30 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[No One Knows Who Moved UK's Oldest Satellite](https://packetstormsecurity.com/news/view/36577/No-One-Knows-Who-Moved-UKs-Oldest-Satellite.html)
+
+Posted [Nov 9, 2024](https://packetstormsecurity.com/news/date/2024-11-09/ "15:06:05 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [britain](https://packetstormsecurity.com/news/tags/britain), [space](https://packetstormsecurity.com/news/tags/space)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36577/) | [View](https://www.bbc.com/news/articles/cpwrr58801yo)
+
+[Hackers Are Stealing Tickets From Ticketmaster Accounts](https://packetstormsecurity.com/news/view/36576/Hackers-Are-Stealing-Tickets-From-Ticketmaster-Accounts.html)
+
+Posted [Nov 9, 2024](https://packetstormsecurity.com/news/date/2024-11-09/ "15:05:20 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36576/) | [View](https://www.businessinsider.com/ticketmaster-hacked-transfer-tickets-from-customer-account-scam-2024-11)
+
+[US Gov Agency Urges Employees To Limit Phone Use After China Salt Typhoon Hack](https://packetstormsecurity.com/news/view/36575/US-Gov-Agency-Urges-Employees-To-Limit-Phone-Use-After-China-Salt-Typhoon-Hack.html)
+
+Posted [Nov 9, 2024](https://packetstormsecurity.com/news/date/2024-11-09/ "15:04:25 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36575/) | [View](https://www.securityweek.com/us-gov-agency-urges-employees-to-limit-phone-use-after-china-salt-typhoon-hack/)
 
 [Palo Alto Networks Expedition Vulnerability Exploited In Attacks](https://packetstormsecurity.com/news/view/36574/Palo-Alto-Networks-Expedition-Vulnerability-Exploited-In-Attacks.html)
 
@@ -84,6 +108,14 @@ Posted [Nov 8, 2024](https://packetstormsecurity.com/news/date/2024-11-08/ "16:4
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [germany](https://packetstormsecurity.com/news/tags/germany)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36573/) | [View](https://www.scworld.com/news/legal-protections-for-security-researchers-sought-in-new-german-draft-law)
+
+[Scattered Spider, BlackCat Claw Their Way Back From The Undergound](https://packetstormsecurity.com/news/view/36572/Scattered-Spider-BlackCat-Claw-Their-Way-Back-From-The-Undergound.html)
+
+Posted [Nov 8, 2024](https://packetstormsecurity.com/news/date/2024-11-08/ "16:49:31 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36572/) | [View](https://www.theregister.com/2024/11/08/scattered_spider_blackcat_return/)
 
 [North Korean Hackers Target macOS Users](https://packetstormsecurity.com/news/view/36571/North-Korean-Hackers-Target-macOS-Users.html)
 
@@ -116,38 +148,6 @@ Posted [Nov 7, 2024](https://packetstormsecurity.com/news/date/2024-11-07/ "15:1
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud), [facebook](https://packetstormsecurity.com/news/tags/facebook), [social](https://packetstormsecurity.com/news/tags/social)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36568/) | [View](https://www.theguardian.com/technology/2024/nov/06/facebook-cambridge-analytica-lawsuit)
-
-[Trump Plans To Dismantle AI Safeguards After Victory](https://packetstormsecurity.com/news/view/36567/Trump-Plans-To-Dismantle-AI-Safeguards-After-Victory.html)
-
-Posted [Nov 7, 2024](https://packetstormsecurity.com/news/date/2024-11-07/ "15:14:27 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw), [terror](https://packetstormsecurity.com/news/tags/terror)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36567/) | [View](https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/)
-
-[Cybercrooks Are Targeting Bengal Cat Lovers In Australia](https://packetstormsecurity.com/news/view/36566/Cybercrooks-Are-Targeting-Bengal-Cat-Lovers-In-Australia.html)
-
-Posted [Nov 7, 2024](https://packetstormsecurity.com/news/date/2024-11-07/ "15:14:20 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [australia](https://packetstormsecurity.com/news/tags/australia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36566/) | [View](https://www.theregister.com/2024/11/06/bengal_cat_australia/)
-
-[China's Volt Typhoon Reportedly Breached Singtel In Test Run For US Attack](https://packetstormsecurity.com/news/view/36565/Chinas-Volt-Typhoon-Reportedly-Breached-Singtel-In-Test-Run-For-US-Attack.html)
-
-Posted [Nov 6, 2024](https://packetstormsecurity.com/news/date/2024-11-06/ "19:10:30 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor), [singapore](https://packetstormsecurity.com/news/tags/singapore)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36565/) | [View](https://www.theregister.com/2024/11/06/chinas_volt_typhoon_breached_singtel/)
-
-[Attackers Stole Microlise Staff Data Following DHL, Serco Disruption](https://packetstormsecurity.com/news/view/36564/Attackers-Stole-Microlise-Staff-Data-Following-DHL-Serco-Disruption.html)
-
-Posted [Nov 6, 2024](https://packetstormsecurity.com/news/date/2024-11-06/ "19:10:26 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36564/) | [View](https://www.theregister.com/2024/11/06/microlise_cyberattack/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1087714684&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1087714684.1731337764.1731337764.1731337764.1%3B%2B__utmz%3D32867617.1731337764.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1195367089&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1195367089.1731359146.1731359146.1731359146.1%3B%2B__utmz%3D32867617.1731359146.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
