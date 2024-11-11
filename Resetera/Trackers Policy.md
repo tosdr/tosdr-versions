@@ -207,6 +207,7 @@ To learn more about cookies, and find more information about blocking certain ty
 | Apple Podcasts | These cookies are set by Apple Podcasts, and may be used for displaying embedded content. |
 | Audius | These cookies are set by Audius, and may be used for displaying embedded content. |
 | Bandcamp | These cookies are set by Bandcamp, and may be used for displaying embedded content. |
+| Bluesky | These cookies are set by Bluesky, and may be used for displaying embedded content. |
 | Bunny Stream | These cookies are set by Bunny Stream, and may be used for displaying embedded content. |
 | Captivate | These cookies are set by Captivate, and may be used for displaying embedded content. |
 | Castos | These cookies are set by Castos, and may be used for displaying embedded content. |
@@ -230,6 +231,7 @@ To learn more about cookies, and find more information about blocking certain ty
 | Megaphone | These cookies are set by Megaphone, and may be used for displaying embedded content. |
 | Meta | These cookies are set by [Meta](https://www.facebook.com/privacy/policy/), and may be used for displaying embedded content. |
 | Mixcloud | These cookies are set by Mixcloud, and may be used for displaying embedded content. |
+| Trending Views | These cookies are set by Trending Views, and may be used for displaying embedded content. |
 | Odysee | These cookies are set by Odysee, and may be used for displaying embedded content. |
 | On3 DB | These cookies are set by On3 DB, and may be used for displaying embedded content. |
 | Podbean | These cookies are set by Podbean, and may be used for displaying embedded content. |
