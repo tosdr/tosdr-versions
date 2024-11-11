@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-53f892e082e8074dc8a404c88b340cfa
+f724553db840f6e860b227e7bdb92fa7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm to 14 mm glass bugle beads](https://sojourner.biz/images/cache/glass/GL0196.200.jpg)](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
+[![Blue starry sky clasp](https://sojourner.biz/images/cache/SKU0414front.200.jpg)](https://sojourner.biz/clasps/glass/blue-starry-sky-clasp.html "Blue starry sky clasp")
 
-#### [12 mm to 14 mm glass bugle beads](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
+#### [Blue starry sky clasp](https://sojourner.biz/clasps/glass/blue-starry-sky-clasp.html "Blue starry sky clasp")
 
-$4.00
+$27.00
 
 ### Best Sellers
 
