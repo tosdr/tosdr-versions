@@ -251,7 +251,7 @@ EN
 
 EN
 
-[Log in](https://www.leaseweb.com/en/about-us/legal/sales-contract)[0](https://www.leaseweb.com/en/cart)
+Log in[0](https://www.leaseweb.com/en/cart)
 
 [Home](https://www.leaseweb.com/en/)›[History](https://www.leaseweb.com/en/about-us)›[Legal Information](https://www.leaseweb.com/en/about-us/legal)›[Sales Contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)
 
@@ -777,47 +777,33 @@ Start Live Chat Email Us
 
 Or [**click here**](https://www.leaseweb.com/en/contact) to see our full list of contact options.
 
-Links
-
-[Customer Portal](https://secure.leaseweb.com/login)
-
-[Status](https://www.leasewebstatus.com/)
-
-[Leaseweb Blog](http://blog.leaseweb.com/)
-
-[Knowledge Base](https://kb.leaseweb.com/)
-
-[API Documentation](http://developer.leaseweb.com/)
-
-[Leaseweb Labs](https://labs.leaseweb.com/)
-
-About Leaseweb
-
-[Our Story](https://www.leaseweb.com/en/about-us)
-
-[Careers](https://www.leaseweb.com/en/about-us/career)
-
-[Press Releases](https://www.leaseweb.com/en/press/releases)
-
-[Events](https://www.leaseweb.com/en/about-us/events)
-
-[Contact](https://www.leaseweb.com/en/contact)
-
-Legal & Compliance
-
-[General](https://www.leaseweb.com/en/about-us/legal)
-
-[Sales Contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)
-
-[Personal Data Protection Acts](https://www.leaseweb.com/en/about-us/legal/personal-data-protection-acts)
-
-[Abuse Handling](https://www.leaseweb.com/en/about-us/legal/abuse-handling)
-
-[KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer)
-
-[Website Terms of Use & Cookie Statement](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement)
-
-[Impressum](https://www.leaseweb.com/en/about-us/legal/impressum)
+* Links
+    
+    * [Customer Portal](https://secure.leaseweb.com/login)
+    * [Status](https://www.leasewebstatus.com/)
+    * [Leaseweb Blog](http://blog.leaseweb.com/)
+    * [Knowledge Base](https://kb.leaseweb.com/)
+    * [API Documentation](http://developer.leaseweb.com/)
+    * [Leaseweb Labs](https://labs.leaseweb.com/)
+    
+* About Leaseweb
+    
+    * [Our Story](https://www.leaseweb.com/en/about-us)
+    * [Careers](https://www.leaseweb.com/en/about-us/career)
+    * [Press Releases](https://www.leaseweb.com/en/press/releases)
+    * [Events](https://www.leaseweb.com/en/about-us/events)
+    * [Contact](https://www.leaseweb.com/en/contact)
+    
+* Legal & Compliance
+    
+    * [General](https://www.leaseweb.com/en/about-us/legal)
+    * [Sales Contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)
+    * [Personal Data Protection Acts](https://www.leaseweb.com/en/about-us/legal/personal-data-protection-acts)
+    * [Abuse Handling](https://www.leaseweb.com/en/about-us/legal/abuse-handling)
+    * [KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer)
+    * [Website Terms of Use & Cookie Statement](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement)
+    * [Impressum](https://www.leaseweb.com/en/about-us/legal/impressum)
+    
 
 ©2024 Leaseweb. All Rights Reserved.
 
