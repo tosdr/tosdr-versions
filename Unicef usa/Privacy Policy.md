@@ -30,6 +30,7 @@ Sort by RelevanceNewestOldest
     *  Children's Protection 
         * [Children's Protection](https://www.unicefusa.org/what-unicef-does/childrens-protection)
         * [Every Child Protected](https://www.unicefusa.org/what-unicef-does/childrens-protection/every-child-protected)
+        * [Birth Registration](https://www.unicefusa.org/what-unicef-does/childrens-protection/birth-registration)
         * [Child Migrants & Refugees](https://www.unicefusa.org/what-unicef-does/childrens-protection/child-migrants-refugees)
         * [Child Poverty](https://www.unicefusa.org/what-unicef-does/childrens-protection/child-poverty)
         * [Child Trafficking](https://www.unicefusa.org/what-unicef-does/childrens-protection/child-trafficking)
