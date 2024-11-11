@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,13 @@
 
 Сейчас читают
 
-* [Шпинатный бисквитный рулет с красной рыбой и сливочно-сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174686)
+* [Гармошка из куриного филе с грибами, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174609)
+* [Блинные мешочки от змеиного Деда Мороза](https://www.russianfood.com/recipes/recipe.php?rid=174771)
+* [Ставрида с грибами](https://www.russianfood.com/recipes/recipe.php?rid=15174)
+* [Тарт с франжипаном и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=158504)
+* [Грибы, фаршированные курицей и сыром, запечённые в духовке](https://www.russianfood.com/recipes/recipe.php?rid=165026)
+* [Рыба по-французски с грибами и сыром, запечённая с картофелем](https://www.russianfood.com/recipes/recipe.php?rid=165399)
+* [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571)
 
 |     |
 | --- |
@@ -170,6 +176,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Лепёшки с картошкой и ещё вкуснятины немножко.) Лучшие рецепты из КАРТОФЕЛЯ (30)](https://www.russianfood.com/reading/?post_id=22860) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/713/sm_712286.jpg)](https://www.russianfood.com/reading/?post_id=22860)
+
+Лепёшки с картошкой и сыром. Жареная картошка с грибами. Вареники с картошкой и печенью. Картофель с маслинами и фетой. Картофельные зразы с огурцами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22860)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22860#comments) | 11.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -203,7 +223,7 @@
 | --- | --- |
 | Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759) |     |
 
-[![Фото к рецепту: Чуррос с йогуртово-чесночным соусом](//img1.russianfood.com/dycontent/images_upl/750/sm_749625.jpg "Фото к рецепту: Чуррос с йогуртово-чесночным соусом")](https://www.russianfood.com/recipes/recipe.php?rid=174759)
+[![Фото к рецепту: Чуррос с йогуртово-чесночным соусом](//img1.russianfood.com/dycontent/images_upl/751/sm_750642.jpg "Фото к рецепту: Чуррос с йогуртово-чесночным соусом")](https://www.russianfood.com/recipes/recipe.php?rid=174759)
 
 Чуррос - обжаренные во фритюре палочки из заварного теста. Благодаря ароматному соусу из йогурта с чесноком и зеленью испанские чуррос станут отличной закуской на праздничном столе. Особенно в виде симпатичных змеек на Новый год 2025.
 
@@ -211,7 +231,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174759#comments) | 11.11.24 |     |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174759#comments) | 11.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -225,7 +245,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174758#comments) | 11.11.24 |     |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174758#comments) | 11.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -367,20 +387,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174613#comments) | 08.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Кекс с грушами и пряностями](https://www.russianfood.com/recipes/recipe.php?rid=174581) |     |
-
-[![Фото к рецепту: Кекс с грушами и пряностями](//img1.russianfood.com/dycontent/images_upl/751/sm_750369.jpg "Фото к рецепту: Кекс с грушами и пряностями")](https://www.russianfood.com/recipes/recipe.php?rid=174581)
-
-Кекс с грушей и пряностями хоть и готовится несложно, но его уверенно можно отнести к категории праздничной выпечки. В кексовое тесто с добавлением молока и пряностей вмешиваются мелко нарезанные груши. В процессе выпечки кусочки груши размягчаются, придавая кексу особенно нежный вкус.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174581)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174581#comments) | 08.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -450,10 +456,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750077.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749584.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
-| [Блинные мешочки от змеиного Деда Мороза](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750077.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749584.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174758) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750642.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174759) |
+| [Блинные мешочки от змеиного Деда Мороза](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758) | [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(135)
+(142)
