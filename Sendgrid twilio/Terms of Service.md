@@ -1637,7 +1637,7 @@ We can't wait to see what you build.
 * [Youtube Logo](https://www.youtube.com/@twilio)
 
 * [Legal](https://www.twilio.com/en-us/legal/tos)
-* [Privacy](https://www.twilio.com/en-us/legal/privacy)
+* [Privacy (Updated)](https://www.twilio.com/en-us/legal/privacy)
 * [Twilio.org](https://www.twilio.org/)
 * [Press & Media](https://www.twilio.com/en-us/press)
 * [Signal](https://signal.twilio.com/?_ga=2.112150148.1826591240.1667227419-607057990.1661885030)
