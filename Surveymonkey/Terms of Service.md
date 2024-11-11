@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__badge.png)
+![SurveyMonkey Logo](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__badge.png)
 
-* [Oversigt](https://www.surveymonkey.com/mp/legal/)
+* [Panoramica](https://www.surveymonkey.com/mp/legal/)
     
-* [Brugsbetingelser](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Condizioni di utilizzo](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Gældende serviceaftale](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Contratto sui servizi applicabile](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Servicespecifikke betingelser](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Condizioni specifiche dei servizi](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Grundlæggende principper for databeskyttelse](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Elementi fondamentali della privacy](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Meddelelse om beskyttelse af personlige oplysninger](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Informativa sulla privacy](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Cookie](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Brug af cookies på spørgeundersøgelsessider](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Cookie utilizzati nelle pagine dell'indagine](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Politik om acceptabel brug](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Politica sugli utilizzi ammissibili](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Sikkerhed](https://www.surveymonkey.com/mp/legal/security/)
+* [Sicurezza](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Generelt](https://www.surveymonkey.com/mp/legal/general/)
+* [Informazioni generali](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Vidste du?
+Lo sapevi?
 
-63 % overvejer, hvordan en virksomhed håndterer personlige oplysninger og sikkerhed, inden de vælger at benytte virksomhedens produkter eller tjenester.
+Il 63% delle persone valuta la privacy e la sicurezza di un'azienda prima di acquistarne i prodotti e servizi.
 
-![Billede af statistik på juridisk sidepanel](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__stats-image.png)
+![Statistiche barra laterale Centro legale](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
