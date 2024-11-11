@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/annunakki-jullie-waren-onze-goden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/nos-zwijgt-50-franse-steden-vol-in-protest/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
