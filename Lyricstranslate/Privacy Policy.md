@@ -107,67 +107,59 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![ditteoline](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1184778-1651771338.jpg)](https://lyricstranslate.com/en/translator/ditteoline "ditteoline")
+[![gakumiru](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616822-1717112280.jpg)](https://lyricstranslate.com/en/translator/gakumiru "gakumiru")
+
+New request
+
+[Exist † Trace - 海の雫 (Umi no shizuku)](https://lyricstranslate.com/en/request/%E6%B5%B7%E3%81%AE%E9%9B%AB)
+
+Japanese → English
+
+[![heskia1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/heskia1 "heskia1")
+
+New comment
+
+You are most welcome. If you know Persian, the ...  [more](https://lyricstranslate.com/en/comment/1175490#comment-1175490)
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175489#comment-1175489)
+
+[![Klaarzin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1517013-1636035828.png)](https://lyricstranslate.com/en/translator/klaarzin "Klaarzin")
+
+New comment
+
+In diesem Gedicht lese ich einen scharfen Angriff ...  [more](https://lyricstranslate.com/en/comment/1175488#comment-1175488)
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175487#comment-1175487)
+
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
 New translation
 
-[Einstürzende Neubauten - Sabrina](https://lyricstranslate.com/en/einsturzende-neubaut-sabrina-danish)
+[Hanaregumi - ののちゃん (Nono-chan)](https://lyricstranslate.com/en/hanaregumi-no-no-chan-english)
 
-English → Danish
+Japanese → English
 
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+Thank you for your time and help 😊  [more](https://lyricstranslate.com/en/comment/1175486#comment-1175486)
+
+[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
 
 New translation
 
-[Hugues Aufray - Personne te connaît (quand tu es dans le trou)](https://lyricstranslate.com/en/hugues-aufray-personne-te-connait-quan-english-0)
+[NATARIE IN THE DREAM - 空に届く砂の山 (Sora ni Todoku Suna no Yama)](https://lyricstranslate.com/en/natarie-dream-sora-ni-todoku-suna-no-ya-english)
 
-French → English
-
-[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
-
-Transcription request fulfilled
-
-[Spiel nicht mit der Liebe](https://lyricstranslate.com/en/peggy-brown-spiel-nicht-mit-der-liebe-lyrics)
-
-German
-
-[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
-
-New song
-
-[Peggy Brown - Spiel nicht mit der Liebe](https://lyricstranslate.com/en/peggy-brown-spiel-nicht-mit-der-liebe-lyrics)
-
-German
-
-[![Gunda412](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1459212-1593362012.jpg)](https://lyricstranslate.com/en/translator/gunda412 "Gunda412")
-
-New collection
-
-[Songs about sandwiches](https://lyricstranslate.com/en/collection/songs-about-sandwiches)
-
-[![lemminkainen](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/lemminkainen "lemminkainen")
-
-New song
-
-[Elina Vaara - Balladi](https://lyricstranslate.com/en/elina-vaara-balladi-lyrics)
-
-Finnish
-
-[![Gunda412](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1459212-1593362012.jpg)](https://lyricstranslate.com/en/translator/gunda412 "Gunda412")
-
-New song
-
-[Helge Schneider - Käsebrot](https://lyricstranslate.com/en/helge-schneider-kasebrot-lyrics)
-
-German
-
-[![Aslı Karaman](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1540557-1688070923.jpg)](https://lyricstranslate.com/en/translator/asl%C4%B1-karaman "Aslı Karaman")
-
-New song
-
-[Grup ORHUN - TURAN (Selam Olsun)](https://lyricstranslate.com/en/grup-orhun-turan-selam-olsun-lyrics)
-
-Turkish
+Japanese → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
