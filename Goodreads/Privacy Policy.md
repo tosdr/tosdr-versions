@@ -1,5 +1,3 @@
-[![10 Years of Beloved Books](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730839394i/475.jpg)](https://www.goodreads.com/blog/show/2837?ref=belovedbks24_eb)
-
 [](https://www.goodreads.com/ "Goodreads Home")
 
 * [Home](https://www.goodreads.com/?ref=nav_home)
