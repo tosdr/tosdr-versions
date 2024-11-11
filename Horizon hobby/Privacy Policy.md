@@ -6,25 +6,25 @@
 
 Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
+[THANK YOU VETERANS!
+
+Military Members Save 20%](https://www.horizonhobby.com/id-me.html)
+
 [CLEARANCE
 
-Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
-
-[RC Club Bonus Points
-
-Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/)
 
 [Pre-Black Friday
 
 Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
+[THANK YOU VETERANS!
+
+Military Members Save 20%](https://www.horizonhobby.com/id-me.html)
+
 [CLEARANCE
 
 Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
-
-[RC Club Bonus Points
-
-Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
  
 
@@ -112,25 +112,25 @@ My store
 
 Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
+[THANK YOU VETERANS!
+
+Military Members Save 20%](https://www.horizonhobby.com/id-me.html)
+
 [CLEARANCE
 
-Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
-
-[RC Club Bonus Points
-
-Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/)
 
 [Pre-Black Friday
 
 Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
+[THANK YOU VETERANS!
+
+Military Members Save 20%](https://www.horizonhobby.com/id-me.html)
+
 [CLEARANCE
 
 Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
-
-[RC Club Bonus Points
-
-Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
