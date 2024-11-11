@@ -207,9 +207,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +251,19 @@ Latest News
 
 [Japan to propose $65 billion plan to aid chip industry, draft shows](https://www.japantimes.co.jp/business/2024/11/11/tech/chip-industry-plan/ "Japan to propose $65 billion plan to aid chip industry, draft shows")
 
-3 hours ago
+9 hours ago
 
 [Worsening corporate mood and bankruptcies cloud BOJ's rate hike path](https://www.japantimes.co.jp/business/2024/11/11/corporate-mood-bankruptcies-boj/ "Worsening corporate mood and bankruptcies cloud BOJ's rate hike path")
 
-3 hours ago
+9 hours ago
 
 [Seven Bank seeks to expand cash-machine network beyond 7-Elevens](https://www.japantimes.co.jp/business/2024/11/11/companies/seven-bank-atms/ "Seven Bank seeks to expand cash-machine network beyond 7-Elevens")
 
-6 hours ago
+11 hours ago
 
 [Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
 
-7 hours ago
-
 [Japan weighs mandatory allergen labeling for cashew nuts](https://www.japantimes.co.jp/news/2024/11/11/japan/science-health/cashew-nuts-allergy/ "Japan weighs mandatory allergen labeling for cashew nuts")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
