@@ -1101,7 +1101,7 @@ Search:
     
     ![RSS Feed](https://nextcloud.com/c/uploads/2023/01/RSS-feed-icon-white.svg)](https://nextcloud.com/feed/ "RSS Feed")
 
-© 2022 - 2024 Nextcloud GmbH
+© 2021 - 2024 Nextcloud GmbH
 
 ![Nextcloud](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2071%2050'%3E%3C/svg%3E "Nextcloud")
 
