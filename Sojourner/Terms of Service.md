@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5c014e17834a3c67694c535f32e19305
+53f892e082e8074dc8a404c88b340cfa
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Dragonfly earrings](https://sojourner.biz/images/cache/jewelry/E0059.200.webp)](https://sojourner.biz/jewelry/earrings/dragonfly-earrings.html "Dragonfly earrings")
+[![12 mm to 14 mm glass bugle beads](https://sojourner.biz/images/cache/glass/GL0196.200.jpg)](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
 
-#### [Dragonfly earrings](https://sojourner.biz/jewelry/earrings/dragonfly-earrings.html "Dragonfly earrings")
+#### [12 mm to 14 mm glass bugle beads](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
 
-$57.00
+$4.00
 
 ### Best Sellers
 
