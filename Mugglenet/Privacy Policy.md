@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The first autographed copy of Harry Potter and the Half-Blood Prince was shipped across the Atlantic in a trunk and taken via armored truck to a secret location.
+The name Harry Potter appears 29 times in Harry Potter and the Philosopher’s Stone, while the name Voldemort appears 38 times.
 
 ### Potter History
 
-January 9, 2006 – The IMAX version of Harry Potter and the Goblet of Fire is revealed to be the highest-grossing IMAX film ever.
+June 5, 2004 – Harry Potter and the Prisoner of Azkaban film hauls in $40.8 million in its first day; sets record.
 
 ### Potter Quote
 
-“Only this morning, for instance, I took a wrong turning on the way to the bathroom and found myself in a beautifully proportioned room I have never seen before, containing a really rather magnificent collection of chamber pots. When I went back to investigate more closely, I discovered that the room had vanished.”
+“Dear, dear. Miss Brown, would you mind running along to the head-mistress and informing her that we have an escaped firework in our classroom?”
 
 [](#)
 
