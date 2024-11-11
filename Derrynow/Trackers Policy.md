@@ -268,21 +268,12 @@ The PSNI have advised motorists of a road closure in the Magherafelt area.
 [County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
+[![IN PICTURES: Derry City fans paint Dublin 'Red and White'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans paint Dublin 'Red and White'")](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
 
-Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins: 'Do I still have the drive and hunger to keep going? My intentions now are to keep going.'](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, November 11, 2024](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry City fans paint Dublin 'Red and White'](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded")](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
 
@@ -293,14 +284,48 @@ Derry courthouse
 [‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
 
-Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry Death Notices - Monday, November 11, 2024](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Heartbreak for Derry City in FAI Cup Final](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------
+[!['Trusted associate' in drug supply operation jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted associate' in drug supply operation jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Trusted associate' in drug supply operation jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry charged 32-year-old man with number of driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charged 32-year-old man with number of driving-related offences")](https://www.derrynow.com/news/local-news/1652899/police-in-derry-charged-32-year-old-man-with-number-of-driving-related-offences.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry charged 32-year-old man with number of driving-related offences](https://www.derrynow.com/news/local-news/1652899/police-in-derry-charged-32-year-old-man-with-number-of-driving-related-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
+
+IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman in critical condition in hospital following serious crash near Ballyronan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in critical condition in hospital following serious crash near Ballyronan")](https://www.derrynow.com/news/home/1652919/woman-in-critical-condition-in-hospital-following-serious-crash-near-ballyronan.html)
+
+The PSNI are appealing for witnesses and information following last night's collision.
+
+[Home](https://www.derrynow.com/)
+
+[Woman in critical condition in hospital following serious crash near Ballyronan](https://www.derrynow.com/news/home/1652919/woman-in-critical-condition-in-hospital-following-serious-crash-near-ballyronan.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Derry man charged with criminal damage and possession of drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man charged with criminal damage and possession of drugs")](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
 
@@ -311,37 +336,14 @@ Derry Magistrate's Court
 [Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City behind at the break in FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City behind at the break in FAI Cup final")](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
+[![Derry religious book shop set to close its doors later this month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry religious book shop set to close its doors later this month")](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
 
-Andrew Quinn puts Drogheda United in the lead. PHOTO: Thomas Flinkow/Sportsfile
-
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[Derry City behind at the break in FAI Cup final](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Thousands attend Derry ‘Rally For Women’s Safety’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Thousands attend Derry ‘Rally For Women’s Safety’")](https://www.derrynow.com/news/local-news/1652188/thousands-attend-derry-rally-for-womens-safety.html)
-
-Guildhall Square lit up on Friday at a rally opposing violence against women.
+Vertias will close at the end of this month.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Thousands attend Derry ‘Rally For Women’s Safety’](https://www.derrynow.com/news/local-news/1652188/thousands-attend-derry-rally-for-womens-safety.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry religious book shop set to close its doors later this month](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,53 +525,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[!['Trusted associate' in drug supply operation jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted associate' in drug supply operation jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
+[![Roe Park Resort](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Park Resort")](https://www.derrynow.com/news/county-derry-post/1653045/galgorm-collection-acquires-roe-park-resort-as-part-of-milestone-50m-investment.html)
 
-Derry Crown Court
+Roe Park Resort
 
-[Local News](https://www.derrynow.com/section/975/news)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-['Trusted associate' in drug supply operation jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Galgorm Collection acquires Roe Park Resort as part of milestone £50m investment](https://www.derrynow.com/news/county-derry-post/1653045/galgorm-collection-acquires-roe-park-resort-as-part-of-milestone-50m-investment.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded")](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
+[![10p parking promotion returns to Magherafelt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "10p parking promotion returns to Magherafelt")](https://www.derrynow.com/news/home/1653019/10p-parking-promotion-returns-to-magherafelt.html)
 
-Derry courthouse
+Chair of Mid Ulster District Council, Councillor Eugene McConnell launches the 10p reduced parking, available in Dungannon and Magherafelt from Saturday, November 23.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[10p parking promotion returns to Magherafelt](https://www.derrynow.com/news/home/1653019/10p-parking-promotion-returns-to-magherafelt.html)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Recruitment under way to find next Northern Ireland victims’ commissioner](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_11/1731319501472_0.jpg--.jpg?1731319501735 "Recruitment under way to find next Northern Ireland victims’ commissioner")](https://www.derrynow.com/news/local-news/1652678/recruitment-under-way-to-find-next-northern-ireland-victims-commissioner.html)
+[![Maghera writer's children's book series 'The Weatherbies' celebrates bumper year](https://www.derrynow.com/resizer/165/93/true/2024_11_11/IMG_6273-1731342103882_1731342284.jpeg--.jpeg?1731342284882 "Maghera writer's children's book series 'The Weatherbies' celebrates bumper year")](https://www.derrynow.com/news/what-s-on/1653058/maghera-writer-s-children-s-book-series-the-weatherbies-celebrates-bumper-year.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Author Yvonne Fleming's series of books has grown into one of the most talked-about children's brands in the country.
 
-[Recruitment under way to find next Northern Ireland victims’ commissioner](https://www.derrynow.com/news/local-news/1652678/recruitment-under-way-to-find-next-northern-ireland-victims-commissioner.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
 
-[![Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Derry man charged with criminal damage and possession of drugs")](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
+[Maghera writer's children's book series 'The Weatherbies' celebrates bumper year](https://www.derrynow.com/news/what-s-on/1653058/maghera-writer-s-children-s-book-series-the-weatherbies-celebrates-bumper-year.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Derry Magistrate's Court
+[![Foyle Hospice launches Lights of Love Appeal 2024](https://www.derrynow.com/resizer/165/93/true/2024_11_11/Entire_family_with_Santa-1731334856110.jpg--.jpg?1731334857070 "Foyle Hospice launches Lights of Love Appeal 2024")](https://www.derrynow.com/news/local-news/1652920/foyle-hospice-launches-lights-of-love-appeal-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Programme of events revealed to mark Ulster-Scots Language Week](https://www.derrynow.com/resizer/165/93/true/2024_11_11/Ulster-Scots-Language-Week_2-1731320358965.jpg--.jpg?1731320358987 "Programme of events revealed to mark Ulster-Scots Language Week")](https://www.derrynow.com/news/local-news/1652635/programme-of-events-revealed-to-mark-ulster-scots-language-week.html)
+Richard Wilson, and his two sons, Jake and Noah with Kelly
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Programme of events revealed to mark Ulster-Scots Language Week](https://www.derrynow.com/news/local-news/1652635/programme-of-events-revealed-to-mark-ulster-scots-language-week.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Foyle Hospice launches Lights of Love Appeal 2024](https://www.derrynow.com/news/local-news/1652920/foyle-hospice-launches-lights-of-love-appeal-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%281%29-1695307127889.jpg--.jpg?1695307127981 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
+[![Health minister refuses to support Executive funding reallocation exercise](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_11/1731333309446_0.jpg--.jpg?1731333309668 "Health minister refuses to support Executive funding reallocation exercise")](https://www.derrynow.com/news/local-news/1652908/health-minister-refuses-to-support-executive-funding-reallocation-exercise.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Monday, November 11, 2024](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Health minister refuses to support Executive funding reallocation exercise](https://www.derrynow.com/news/local-news/1652908/health-minister-refuses-to-support-executive-funding-reallocation-exercise.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](https://www.derrynow.com/resizer/165/93/true/2024_11_11/MixCollage-11-Nov-2024-12-24-PM-3127-1731328737568.jpg--.jpg?1731328737627 "IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine")](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
+
+IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine
+
+[Home](https://www.derrynow.com/)
+
+[IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
