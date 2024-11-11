@@ -28,7 +28,9 @@ triangle borderless
     
     New Arrivals arrow bottom
     
-    [![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_80x.png?v=1728306704)
+    [![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_80x.png?v=1718650384)
+    
+    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)[![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_80x.png?v=1728306704)
     
     4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)[![](//www.lorex.com/cdn/shop/collections/N910-4KDW-L1_80x.png?v=1708619171)
     
@@ -113,7 +115,7 @@ triangle borderless
     
     * [Deals](https://www.lorex.com/pages/promotions)
     * [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    * [Halloween Sale](https://www.lorex.com/pages/promotions)
+    * [Big Savings on Security](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
@@ -173,6 +175,7 @@ Follow Us
 arrow left Back
 
 * [New Arrivals](https://www.lorex.com/pages/new-arrivals)
+* [4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
 * [4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
 * [Fusion Wireless](https://www.lorex.com/collections/fusion-wireless)
 * [Dual Lens Security Cameras](https://www.lorex.com/collections/dual-lens-security-cameras)
@@ -328,6 +331,10 @@ Your cart is empty
     * [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
     * [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
     * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
+    
+    [![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_x150.png?v=1718650384)
+    
+    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
     
     [![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_x150.png?v=1728306704)
     
