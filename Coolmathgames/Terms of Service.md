@@ -364,4 +364,8 @@ See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
     * [Facebook](https://www.facebook.com/CoolMathGamesLLC)
     * [YouTube](https://www.youtube.com/@coolmathofficial)
     
+    English
+    
+    [Español](https://www.coolmathgames.com/es/terms-use)[Português, Brasil](https://www.coolmathgames.com/pt-br/terms-use "Português")[Français](https://www.coolmathgames.com/fr/terms-use)[Italiano](https://www.coolmathgames.com/it/terms-use)[हिन्दी](https://www.coolmathgames.com/hi/terms-use)[简体中文](https://www.coolmathgames.com/zh-hans/terms-use)[日本語](https://www.coolmathgames.com/ja/terms-use)[Deutsch](https://www.coolmathgames.com/de/terms-use)
+    
 5. © 2024 Coolmath.com LLC. All Rights Reserved.
