@@ -9,7 +9,7 @@ Agreements & Policies
 * [Package Center Developer Distribution Agreement](https://www.synology.com/company/legal/Pkg_Center_Dev_Distri_Agreement)
 * [Pre-Release Program Agreement](https://www.synology.com/company/legal/Pre_Release_Program_Agreement)
 * [SDK License Agreement](https://www.synology.com/company/legal/SDK_License_Agreement)
-* [Synology Store Sales Policy](https://www.synology.com/company/legal/Synology_Store_Sales_Policy)
+* [Synology Store Terms and Conditions](https://www.synology.com/company/legal/Synology_Store_Sales_Policy)
 
 Privacy
 -------
