@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=214036320)  
-Sarabi
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=184840533)  
-Lion Software Develepment
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=92829290)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=170018405)  
-Iurus Inc
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=34197394)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=155624423)  
-Prosper Park
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=127052920)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=104502893)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=83363899)  
-Gemini-IT Group
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=124765675)  
-CGHK Enterprises (PTY) LTD
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=98371870)  
-McKaynine Mobility
-
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=55403531)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=110927640)  
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=130387118)  
 Little Nutty Professors
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=165571546)  
-Imvubu General Trading
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=54560723)  
+Mountain Lion Properties
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=1a6ec4fb8d2877e8dd13006dedb390be3f35f5c98e77fff60ad8e18600bf59e2&c=64604121)  
-Lizzy Pop PTY(Ltd)
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=139019701)  
+MONSTER SECURITY SERVICES
+
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=211609147)  
+AFS Electrical
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=18119228)  
+Wiselink Broadband Dundee
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=95156710)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=163160180)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=55718779)  
+Cooper Logistics (Pty) Ltd
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=80268055)  
+FJW Security Cc
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=185070953)  
+M's Frozen Delights
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=29448497)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=63304564)  
+Atalie Scented Candles Pty Ltd
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=25073916)  
+Baby Toddles Infant Care
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=57943367)  
+NGB HOLDINGS PTY LTD
+
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=203849464)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
