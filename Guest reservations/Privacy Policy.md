@@ -1,13 +1,13 @@
-[![Guest Reservations - Logo](/assets/bb50d1fe/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
+[![Guest Reservations - Logo](/assets/12c8db29/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
 An independent travel network](https://www.guestreservations.com/ "Guest Reservations")
 
 [Groups (9+ Rooms)](https://groups.guestreservations.com/Group-Rate/ "Groups (9+ Rooms)") [Travel Guides](https://www.guestreservations.com/about/news "Travel Guides") [My Booking](https://www.guestreservations.com/about/mybooking "My Booking")
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (855) 470-1527](tel:8554701527)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (855) 470-1527](tel:8554701527)
 
 Privacy Policy
 ==============
@@ -158,9 +158,9 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 
 This Privacy Policy was updated June 5, 2024.
 
- ![Guest Reservations - Logo](/assets/5efe07dc/images/logo-dark-tm.svg "Guest Reservations - Logo") An independent travel network
+ ![Guest Reservations - Logo](/assets/e059699d/images/logo-dark-tm.svg "Guest Reservations - Logo") An independent travel network
 
- [![Guest Reservations on Facebook](/assets/5efe07dc/images/social-networks/facebook.svg "Guest Reservations on Facebook")](https://www.facebook.com/guestreservations "Guest Reservations on Facebook")[![Guest Reservations on Twitter](/assets/5efe07dc/images/social-networks/twitter.svg "Guest Reservations on Twitter")](https://twitter.com/guest_res "Guest Reservations on Twitter")[![Guest Reservations on Instagram](/assets/5efe07dc/images/social-networks/instagram.svg "Guest Reservations on Instagram")](https://www.instagram.com/guestreservations/ "Guest Reservations on Instagram")[![Guest Reservations on Pinterest](/assets/5efe07dc/images/social-networks/pinterest.svg "Guest Reservations on Pinterest")](https://www.pinterest.com/guestreservations/ "Guest Reservations on Pinterest")[![Guest Reservations on YouTube](/assets/5efe07dc/images/social-networks/you-tube.svg "Guest Reservations on YouTube")](https://www.youtube.com/@GuestReservations "Guest Reservations on YouTube")
+ [![Guest Reservations on Facebook](/assets/e059699d/images/social-networks/facebook.svg "Guest Reservations on Facebook")](https://www.facebook.com/guestreservations "Guest Reservations on Facebook")[![Guest Reservations on Twitter](/assets/e059699d/images/social-networks/twitter.svg "Guest Reservations on Twitter")](https://twitter.com/guest_res "Guest Reservations on Twitter")[![Guest Reservations on Instagram](/assets/e059699d/images/social-networks/instagram.svg "Guest Reservations on Instagram")](https://www.instagram.com/guestreservations/ "Guest Reservations on Instagram")[![Guest Reservations on Pinterest](/assets/e059699d/images/social-networks/pinterest.svg "Guest Reservations on Pinterest")](https://www.pinterest.com/guestreservations/ "Guest Reservations on Pinterest")[![Guest Reservations on YouTube](/assets/e059699d/images/social-networks/you-tube.svg "Guest Reservations on YouTube")](https://www.youtube.com/@GuestReservations "Guest Reservations on YouTube")
 
 ##### Learn more
 
