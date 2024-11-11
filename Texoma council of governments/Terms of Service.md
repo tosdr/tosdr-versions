@@ -150,6 +150,14 @@ Nov 12
 
 Nov 14
 
+10:00 am - 11:30 pm
+
+### [Natural Resources Advisory Committee](https://tcog.com/event/natural-resources-advisory-committee-6/ "Natural Resources Advisory Committee")
+
+Sherman
+
+Nov 14
+
 4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
 
 ### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee-2/2024-11-14/ "Audit and Finance Committee")
@@ -171,12 +179,6 @@ Nov 21
 ### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-11-21/ "Governing Board Meeting")
 
 Sherman
-
-Dec 3
-
-12:30 pm - 2:00 pm
-
-### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs-3/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
 
 [View Calendar](https://tcog.com/calendar/ "View more events.")
 
