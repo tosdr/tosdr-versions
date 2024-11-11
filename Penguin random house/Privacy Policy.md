@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
     
-    How To Read More in 2024
+    Children’s & YA Books That Celebrate Native American Heritage
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
-
-* * *
-
-* [![A Guide to Colson Whitehead Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/22134851/PRH_Site_1200x628_ColsonWhite.jpg)
-    
-    A Guide to Colson Whitehead Books
-    
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
+    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
+
+* * *
+
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+    
+    Join Our Authors for Upcoming Events
+    
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * <
     
