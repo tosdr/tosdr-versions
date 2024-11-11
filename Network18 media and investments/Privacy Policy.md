@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Mon, Nov 11, 2024
+Tue, Nov 12, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
-    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-is-back-on-kapil-sharmas-show-5-years-after-exit-archana-puran-singh-reacts-9115755.html)
-    * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
-    * [Kangana Ranaut](https://www.news18.com/movies/kangana-ranaut-got-into-a-fight-at-premiere-of-ranbir-kapoors-saawariya-shocking-claims-surface-9115970.html)
-    * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
-    * [Gautam Gambhir](https://www.news18.com/cricket/gautam-gambhir-press-conference-live-updates-india-vs-australia-test-series-border-gavaskar-trophy-2024-25-rohit-sharma-virat-kohli-jasprit-bumrah-liveblog-9115758.html)
+    * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
+    * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
+    * [ICC Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
+    * [Sri Lankan Airlines](https://www.news18.com/viral/srilankan-airlines-ad-shows-real-locations-of-ramayana-leaves-indians-with-goosebumps-9116093.html)
+    * [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
+    * [Anaya Bangar](https://www.news18.com/cricket/for-anaya-and-aryan-cricket-remains-constant-sanjay-bangars-child-shares-their-journey-of-transitioning-9115945.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +169,12 @@ Follow us on
 
 In Trends:
 
-* [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
-* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-is-back-on-kapil-sharmas-show-5-years-after-exit-archana-puran-singh-reacts-9115755.html)
-* [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
-* [Kangana Ranaut](https://www.news18.com/movies/kangana-ranaut-got-into-a-fight-at-premiere-of-ranbir-kapoors-saawariya-shocking-claims-surface-9115970.html)
-* [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
-* [Gautam Gambhir](https://www.news18.com/cricket/gautam-gambhir-press-conference-live-updates-india-vs-australia-test-series-border-gavaskar-trophy-2024-25-rohit-sharma-virat-kohli-jasprit-bumrah-liveblog-9115758.html)
+* [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
+* [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
+* [ICC Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
+* [Sri Lankan Airlines](https://www.news18.com/viral/srilankan-airlines-ad-shows-real-locations-of-ramayana-leaves-indians-with-goosebumps-9116093.html)
+* [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
+* [Anaya Bangar](https://www.news18.com/cricket/for-anaya-and-aryan-cricket-remains-constant-sanjay-bangars-child-shares-their-journey-of-transitioning-9115945.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -302,7 +302,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 11, 2024
+Nov 12, 2024
 
 [View All](https://www.news18.com/short-news/)
 
