@@ -130,50 +130,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Kobus Venter
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=200617287)  
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=51984598)  
+Tantra Sound and Lightz
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=207607197)  
+MOSELA GROUP Pty(ltd)
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=11332499)  
+Blue Bulls Rugby Coaches Association
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=201433080)  
+Norton Medical & Consult - Namibia
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=127510014)  
 Itroniq (Pty) Ltd
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=16808170)  
-Moremi Kitchens Rustenburg
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=58495528)  
+Myfinance-Online
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=125550774)  
-Roamfree Boerdery (PTY) LTD
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=138298558)  
+Tiny Cuddles Photography
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=42482096)  
-Vplay Grafix
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=104661301)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=181396322)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=108684818)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=57563029)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=104292263)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=190721476)  
-Baby Toddles Infant Care
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=124493945)  
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=92820252)  
 IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=93099826)  
-Blue Sky Solar Services
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=94290850)  
+Oak Tree Immigration
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=138308075)  
-Nogana Events and Decor
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=187425188)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=131413898)  
-SA Security Brokerz (Pty) Ltd
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=38012984)  
+NIMAWELL
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=59344683)  
-Sarabi
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=121127054)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=124721989)  
-NEW BEGINNINGS DESIGNS
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=21437925)  
-Entidee Enterprise PTY (ltd)
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=135191956)  
+Waterfinatics Swim School
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
