@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Runnin' Outta MoonlightRandy Houser<br><br>10:37pm |
-| Next Thing You KnowJordan Davis<br><br>10:34pm |
-| Wind Up Missing YouTucker Wetmore<br><br>10:32pm |
-| Gimmie That GirlJoe Nichols<br><br>10:29pm |
-| AustinDasha<br><br>10:26pm |
+| Break Up In A Small TownSam Hunt<br><br>4:39am |
+| One Bad HabitTim Mcgraw<br><br>4:36am |
+| Devil You KnowTyler Braden<br><br>4:33am |
+| YouDan Shay<br><br>4:30am |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,17 +362,17 @@ Featured Brands
 
 Spanish • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
