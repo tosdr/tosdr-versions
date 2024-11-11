@@ -297,11 +297,13 @@ Questions about the Terms of Service should be sent to us at [\[email protected
 
 **Company Details:**
 
-HRKdistribution OÜ
+**Nebulink Limited**
 
-Laki tn 25-411, Mustamäe linnaosa, Tallinn, 12915, Estonia.
+The Black Church, st.
 
-CR No. 14160799
+Mary’s Place, Dublin 7,
+
+Leinster,  D07 P4AX, Ireland
 
 Your Basket (0 Items)
 ---------------------
