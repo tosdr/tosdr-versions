@@ -29,7 +29,6 @@
     * [Mission Products](https://www.mycoolingstore.com/mission-athletics.html)
     * [Personal Cooling Devices](https://www.mycoolingstore.com/personal-cooling-devices.html)
     * [Flame Resistant Cooling Products](https://www.mycoolingstore.com/flame-resistant-cooling-products.html)
-    * [Chill Skinz Cooling Products](https://www.mycoolingstore.com/chill-skinz.html)
     * [Duke Cannon](https://www.mycoolingstore.com/duke-cannon.html)
     
 * [Cooling Vests](https://www.mycoolingstore.com/cooling-vests.html)
@@ -231,9 +230,7 @@
         * [Mission Products](https://www.mycoolingstore.com/mission-athletics.html)
         * [Personal Cooling Devices](https://www.mycoolingstore.com/personal-cooling-devices.html)
         * [Flame Resistant Cooling Products](https://www.mycoolingstore.com/flame-resistant-cooling-products.html)
-        * [Chill Skinz Cooling Products](https://www.mycoolingstore.com/chill-skinz.html)
         * [Duke Cannon](https://www.mycoolingstore.com/duke-cannon.html)
-        * [View All](https://www.mycoolingstore.com/cooling-towels-body-coolers.html)
     * ![Neck Coolers](https://s.turbifycdn.com/aah/yhst-136372476553304/neck-coolers-59.png)
         
         [Neck Coolers](https://www.mycoolingstore.com/neck-coolers.html)
