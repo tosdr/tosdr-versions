@@ -291,13 +291,8 @@ Congratulations! You'll get your free product discount at checkout.
 
 KEEP SHOPPING [CHECKOUT](https://snuggiestore.com/checkout)
 
-[sale
-
-QUICK ADD
-
-QUICK ADD
-
-This product is SOLD OUT.
+[sold  
+out
 
 SNUGGIE HEATED SHAWL
 
