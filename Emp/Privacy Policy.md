@@ -154,9 +154,9 @@ Katalog durchsuchen  löschen Packstation suchen
 
 [](https://www.emp.de/singles-day/)
 
-Zum Singles Day bis zu 70% auf alles!
+Zum Singles-Day 11% EXTRA sparen!
 
-[Jetzt sparen!](https://www.emp.de/singles-day/ "Jetzt sparen!")
+[Jetzt shoppen!](https://www.emp.de/singles-day/ "Jetzt shoppen!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
