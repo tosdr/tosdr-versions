@@ -88,7 +88,7 @@ Eine Änderung dieser Einstellung lässt die Möglichkeit einer Antragstellung a
 
 **Bewerbung auf einen Studienplatz**
 
-Im Falle einer Bewerbung werden Namen, Anrede, Geburtsdatum, Postanschrift, E-Mail-Adresse, eventuell weitere Kontaktdaten, Qualifikationsdaten (wie der Hochschulzugangsberechtigung, Ausbildungen, Medizinertest-Ergebnis, etc.) sowie die beworbenen Studienangebote erhoben und gespeichert, um Ihre Bewerbung im Rahmen des jeweiligen Verfahrens zu bearbeiten. Dazu wird Ihnen bei der entsprechenden Registrierung eine gesonderte Erklärung zur Datenerhebung und Nutzung zur Verfügung gestellt. Sie können die Erklärung für das Verfahren für grundständige Studienangebote (DoSV) der teilnehmenden Hochschulen bzw. für das Verfahren in den Studiengängen Medizin, Tiermedizin, Zahnmedizin und Pharmazie [als PDF-Datei](https://www.hochschulstart-info.de/datenschutz/SfH_Datenschutzerklaerung.pdf "Datenschutz") einsehen.
+Im Falle einer Bewerbung werden Namen, Anrede, Geburtsdatum, Postanschrift, E-Mail-Adresse, eventuell weitere Kontaktdaten, Qualifikationsdaten (wie der Hochschulzugangsberechtigung, Ausbildungen, Medizinertest-Ergebnis, etc.) sowie die beworbenen Studienangebote erhoben und gespeichert, um Ihre Bewerbung im Rahmen des jeweiligen Verfahrens zu bearbeiten. Dazu wird Ihnen bei der entsprechenden Registrierung eine gesonderte Erklärung zur Datenerhebung und Nutzung zur Verfügung gestellt. Sie können die Erklärung für das Verfahren für grundständige Studienangebote ([DoSV](https://hochschulstart.de/unterstuetzung/glossar?tx_dpnglossary_glossary%5Baction%5D=show&tx_dpnglossary_glossary%5Bcontroller%5D=Term&tx_dpnglossary_glossary%5Bterm%5D=6&cHash=29a368a32e74a9ab6a6c284bb15969d5 "Dialogorientiertes Serviceverfahren")) der teilnehmenden Hochschulen bzw. für das Verfahren in den Studiengängen Medizin, Tiermedizin, Zahnmedizin und Pharmazie [als PDF-Datei](https://www.hochschulstart-info.de/datenschutz/SfH_Datenschutzerklaerung.pdf "Datenschutz") einsehen.
 
 **Sonstige Zwecke**
 
@@ -100,7 +100,7 @@ Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt nicht.
 
 Die Daten der Website-Nutzung werden anonym gespeichert und unterliegen daher keiner zeitlichen Beschränkung.
 
-Bei Bewerbungen werden Ihre diesbezüglichen Daten für die Dauer des jeweiligen Verfahrens gespeichert und genutzt. Weitere Details enthalten die gesonderten Erklärungen zur Datenerhebung und Nutzung für das Verfahren für grundständige Studienangebote (DoSV) der teilnehmenden Hochschulen bzw. für das Verfahren in den Studiengängen Medizin, Tiermedizin, Zahnmedizin und Pharmazie.
+Bei Bewerbungen werden Ihre diesbezüglichen Daten für die Dauer des jeweiligen Verfahrens gespeichert und genutzt. Weitere Details enthalten die gesonderten Erklärungen zur Datenerhebung und Nutzung für das Verfahren für grundständige Studienangebote ([DoSV](https://hochschulstart.de/unterstuetzung/glossar?tx_dpnglossary_glossary%5Baction%5D=show&tx_dpnglossary_glossary%5Bcontroller%5D=Term&tx_dpnglossary_glossary%5Bterm%5D=6&cHash=29a368a32e74a9ab6a6c284bb15969d5 "Dialogorientiertes Serviceverfahren")) der teilnehmenden Hochschulen bzw. für das Verfahren in den Studiengängen Medizin, Tiermedizin, Zahnmedizin und Pharmazie.
 
 ### 4\. Rechte als Betroffener
 
