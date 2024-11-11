@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is mesothelioma a slow growing cancer?](https://www.pintas.com/wp-content/uploads/2020/07/is-mesothelioma-a-slow-growing-cancer-scaled.jpg "Is Mesothelioma a Slow Growing Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/ "Is Mesothelioma a Slow Growing Cancer?")
+[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
 
-[#### Is Mesothelioma a Slow Growing Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/)
+[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
 
-[![What is the talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-talcum-powder-lawsuit.jpg "What Is the Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/ "What Is the Talcum Powder Lawsuit?")
+[![Can you sue for lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-you-sue-for-lung-cancer-2-scaled.jpg "Can You Sue For Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/ "Can You Sue For Lung Cancer?")
 
-[#### What Is the Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/)
+[#### Can You Sue For Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/)
 
-[![What is the best way to detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-x-ray-show-mesothelioma.jpg "What is the Best Way to Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/ "What is the Best Way to Detect Mesothelioma?")
+[![Tactics of emotionally abusive care staff](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use-scaled.jpg "Tactics of Emotionally Abusive Care Staff")](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/ "Tactics of Emotionally Abusive Care Staff")
 
-[#### What is the Best Way to Detect Mesothelioma?](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/)
+[#### Tactics of Emotionally Abusive Care Staff](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
