@@ -31,7 +31,7 @@ Lulu Membership Agreement and Terms of Use
 
 Lulu Press, Inc. 700 Park Offices Drive Suite 250 Research Triangle, NC 27709
 
-**_REVISED:_** _June 28, 2024_
+**_REVISED:_** _November 11, 2024_
 
 Lulu Press Inc (also referred to as “Lulu.com,” “Lulu,” and the “Site”) is an online print-on-demand and self-publishing platform providing free-to-use tools for publishing, printing, shipping, and distributing your work for personal use and/or sale to others. Lulu’s platform includes a marketplace for selling and purchasing goods and services and provides content including videos, guides, and helpful documentation. Lulu also provides applications to integrate our printing and fulfillment network with your online stores under “Lulu Direct.”
 
@@ -126,7 +126,7 @@ Please note that we may also provide users with an automated method of reporting
 
 YOU ARE SOLELY RESPONSIBLE FOR RETAINING COPIES OF ANY CONTENT UPLOADED TO THE SITE. WE ARE NOT RESPONSIBLE FOR RETAINING YOUR FILE(S), AND MAINTAIN NO LIABILITY FOR THE LOSS OF FILES THAT ARE REMOVED IN COMPLIANCE WITH THESE TERMS AND THE SITES NORMAL FUNCTIONS. 
 
-Lulu reserves the right to (a) reserve a portion of the back cover of any printed book or any other Content for placement of a unique identifying number and barcode (this number may be the Content’s ISBN, if an ISBN is assigned), and (b) delete Content from Lulu’s database after a defined period of time, as set forth in the then current policies of Lulu.
+Lulu reserves the right to (a) reserve a portion of the back cover of any printed book or any other Content for placement of a unique identifying number and barcode (this number may be the Content’s ISBN, if an ISBN is assigned), (b) reserve a portion of the last pages of any printed book or any other Content for placement of a unique identifying barcode and any mandatory legal information, and (c) delete Content from Lulu’s database after a defined period of time, as set forth in the then current policies of Lulu.
 
 #### Policy and Guidelines
 
@@ -588,7 +588,7 @@ Lulu is not responsible for any changes made by your ecommerce platform that may
 
 * * *
 
-Download a PDF of the previous Terms & Conditions [here](https://assets.lulu.com/media/terms-and-conditions/en/lulu-terms-and-conditions-en-2023.pdf).
+Download a PDF of the previous Terms & Conditions [here](https://assets.lulu.com/media/terms-and-conditions/en/lulu-terms-and-conditions-en-2024.pdf).
 
 Our Team
 
