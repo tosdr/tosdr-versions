@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/secret-meeting/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/om-even-stil-van-te-worden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
