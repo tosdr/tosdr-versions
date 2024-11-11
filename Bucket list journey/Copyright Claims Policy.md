@@ -15,9 +15,7 @@
 * [Instagram](https://www.instagram.com/bucketlistjourney/)
 * [Pinterest](https://www.pinterest.com/bucketlistjrny/)
 
-[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='360'%20height='56'%20viewBox='0%200%20360%2056'%3E%3C/svg%3E)
-
-![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
+[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
 
 [](#)
 
@@ -70,9 +68,7 @@ Menu
 
 [](#)
 
-[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='529'%20height='80'%20viewBox='0%200%20529%2080'%3E%3C/svg%3E)
-
-![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
+[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
 
 Menu
 
@@ -190,9 +186,7 @@ Name Email Website
 
 Δ
 
-[![Bucket List Boss Annette White](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='900'%20height='1200'%20viewBox='0%200%20900%201200'%3E%3C/svg%3E)
-
-![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
+[![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
 
 #### Hey! I'm Annette.
 
@@ -206,11 +200,7 @@ Are you ready to start facing your fear and living your bucket list?
 **JOIN US TO GET 2,000 BUCKET LIST IDEAS FREE**
 -----------------------------------------------
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
-
-![Annette White the Owner of Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='240'%20height='300'%20viewBox='0%200%20240%20300'%3E%3C/svg%3E "Bucket List Template Annette")
 
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/smush-webp/2023/02/Bucket-List-Template-Annette-240x300.jpg.webp "Bucket List Template Annette")
 
@@ -239,39 +229,15 @@ Jump right in and you will get your printable ideas by email:
   
   
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
 [Here’s to you if you stepped out of your comfort ![Here’s to you if you stepped out of your comfort zone today—even just a little! Bucket lists aren’t always about jumping out of planes or climbing mountains—though if you did, you’re amazing! 👏
 Sometimes, it’s about the small victories, like trying a new recipe, signing up for a dance class, or saying yes to something you almost talked yourself out of. 🌟 So if you tried something new today, this glass of Zinfandel is for YOU! 
 What little adventure did you have today?
 PS: this was my reward for try saying yes to an invitation I’d normally turn down 😊
-#bucketlist #bucketlist✔️ #goals #motovation #bucketlistadventures #bucketlisters #faceyourfears #saynotofear #takearisk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Here’s to you if you stepped out of your comfort zone today—even just a little! Bucket lists aren’t always about jumping out of planes or climbing mountains—though if you did, you’re amazing! 👏
-Sometimes, it’s about the small victories, like trying a new recipe, signing up for a dance class, or saying yes to something you almost talked yourself out of. 🌟 So if you tried something new today, this glass of Zinfandel is for YOU! 
-What little adventure did you have today?
-PS: this was my reward for try saying yes to an invitation I’d normally turn down 😊
 #bucketlist #bucketlist✔️ #goals #motovation #bucketlistadventures #bucketlisters #faceyourfears #saynotofear #takearisk](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCHVXphvEsX/) 
 
 [🌳 Here’s my one-day bucket list itinerary for ![🌳 Here’s my one-day bucket list itinerary for GOLDEN GATE PARK, SAN FRANCISCO 🌳
-(💫 SAVE for planning your trip to Northern #California💫)
-Want to conquer all that Golden Gate Park has to offer in just one day? Challenge accepted! At over 1,000 acres (bigger than Central Park!), this park is a haven of gardens, museums, lakes, and trails. Here’s how to make the most of it:
-1️⃣ Have coffee & Pastries @tartinebakery in the Inner Sunset ☕🥐 This local gem is famous for its pastries (and sourdough bread!)—seriously, their babka is a must-try!
-2️⃣ Explore the California Academy of Sciences (@calacademy) 🐠 Don’t miss the four-story Osher Rainforest (butterflies galore!) or the bioluminescent creatures in the aquarium.
-3️⃣ Stop by @conservatoryofflowers 🌸 They’ve got giant water lilies and rare orchids, plus the building is a 100+ year-old wood-and-glass building.
-4️⃣ See the masterpieces at @deyoungmuseum 🎨  Not a museum lover? Neither am I, but the de Young might have changed my mind. It’s packed with art from the 17th century to today
-5️⃣ Grab lunch @hookfishco🐟🌮 Fuel up with poke bowls, fish tacos, and guac at this laid-back spot near Ocean Beach. Outdoor seating only, so bundle up if it’s chilly!
-6️⃣ Make a Quick Stop at Queen Wilhelmina Garden and the Dutch Windmill 🌷 Spring tulips are a highlight, but even in the off-season (I was there in fall), the windmill is a photo-op.
-7️⃣ Pedal Boat on Blue Heron Lake 🚤 Hop into a pedal or rowboat @blueheronboathouse. Cruise around, enjoy the scenery and get a little leg workout at the same time!
-8️⃣ Walk the JFK Promenade 🚶‍♀️Take a scenic walk along this artsy Promenade toward the Japanese Tea Garden.
-9️⃣ Stroll through the @japaneseteagardensf 🍁 Finish the day in peace at this 5-acre haven of koi ponds, pagodas, and cherry blossoms (in March/April). 
-1️⃣0️⃣ Dinner at @kothaisf 🍽
-End your adventure with a feast at this cozy spot in the Inner Sunset. Their Asian-inspired dishes like Slow Shrooms and Monterey Squid are the perfect way to wrap up a day well-spent.
-#sanfrancisco #sanfranciscocalifornia #california #BucketListAdventures #visitcalifornia#travelbucketlist #GoldenGatePark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![🌳 Here’s my one-day bucket list itinerary for GOLDEN GATE PARK, SAN FRANCISCO 🌳
 (💫 SAVE for planning your trip to Northern #California💫)
 Want to conquer all that Golden Gate Park has to offer in just one day? Challenge accepted! At over 1,000 acres (bigger than Central Park!), this park is a haven of gardens, museums, lakes, and trails. Here’s how to make the most of it:
 1️⃣ Have coffee & Pastries @tartinebakery in the Inner Sunset ☕🥐 This local gem is famous for its pastries (and sourdough bread!)—seriously, their babka is a must-try!
@@ -292,30 +258,9 @@ Tip: Check your weather app before heading out! The area is notorious for fog th
 Not up for all those stairs? No worries! There’s a great viewing platform near the parking lot where you can still soak in the scenery without the climb (though there is still a .4 mile walk to the platform!).
 ⚡️Save for your trip to Northern California⚡️
 @pointreyesnps @visitcalifornia
-#PointReyes #pointreyescalifornia #PointReyesLighthouse #california #northern california #BucketListAdventures #visitcalifornia #lighthouse #travelbucketlist](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Ready to tackle 313 stairs down to California’s historic Point Reyes Lighthouse... and then 313 stairs back up? 😅 (Yes, your quads will feel it, but it’s worth it!). This beauty sits along the rugged coastline of the Point Reyes National Seashore, offering killer views—if Mother Nature cooperates, that is ☁️ 
-Tip: Check your weather app before heading out! The area is notorious for fog that likes to crash the party, blocking those postcard-worthy ocean views. Your best bet? Visit on a sunny, clear day (afternoons usually give you the best chance).
-Not up for all those stairs? No worries! There’s a great viewing platform near the parking lot where you can still soak in the scenery without the climb (though there is still a .4 mile walk to the platform!).
-⚡️Save for your trip to Northern California⚡️
-@pointreyesnps @visitcalifornia
 #PointReyes #pointreyescalifornia #PointReyesLighthouse #california #northern california #BucketListAdventures #visitcalifornia #lighthouse #travelbucketlist](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBrAOgyvE34/) 
 
 [If you’re heading to the #NorthernCalifornia t ![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
-(💫 SAVE for planning your trip to Northern #California💫)
-SEBASTOPOL, CALIFORNIA RESTAURANTS
-1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
-2️⃣ @khom_loi_sonoma 🌶️ Spicy Thai eats with local Sonoma ingredients. Don’t skip the drunken noodles, it was my favorite thing we ate! 
-3️⃣ @goldfinch.sebastopol 🍤 California bistro with seasonal dishes and ballpark fries you’ll crave forever. If you’re a seafood lover, do yourself a favor and order the halibut ceviche!
-4️⃣ @handline.sebastopol 🌮 Retro vibes with fish tacos and dreamy soft-serve ice cream. Best enjoyed on the patio! 
-5️⃣ @fernbar.sebastopol 🍹 Cocktails that wow, plus a fried chicken sandwich and mushroom umami bomb you’ll drool over for days. 
-6️⃣ @thefarmersxwife 🥪 Their tuna melt with chips *inside* will change your life—trust me.  Plus, the Farm Market Salad is loaded with fresh ingredients.
-7️⃣ @piala.winebar 🥟 Georgian comfort food, including cheesy khachapuri, perfect for a cozy meal. 
-8️⃣ @oyster_sebastopol🦪 Fresh oysters, Oyster Po’Boys, baked oysters and lots of other yummy fish. 
-@visitsonoma @visitcalifornia
-#Sebastopol #sebastopolCalifornia #california #sonomacounty #northerncalifornia #BucketListAdventures #travelbucketlist #bucketlist #sonomacountyfood](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
 (💫 SAVE for planning your trip to Northern #California💫)
 SEBASTOPOL, CALIFORNIA RESTAURANTS
 1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
