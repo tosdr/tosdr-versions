@@ -121,7 +121,7 @@ Submit
     
     New Relic Now
     
-    AI meets observability. On-demand access starts Nov 7.](https://newrelic.com/event/new-relic-now)
+    AI meets observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
     
     1
     
@@ -193,7 +193,7 @@ Submit
     
     New Relic Now
     
-    Starting November 7th: On-demand access to tomorrow's solutions.](https://newrelic.com/event/new-relic-now)
+    Available now: On-demand access to tomorrow's solutions.](https://newrelic.com/event/new-relic-now-on-demand)
     
     [![Security icon](/sites/default/files/2024-04/security.svg)
     
@@ -254,7 +254,7 @@ Submit
     
     New Relic Now
     
-    See the future of observability. On-demand access starts Nov 7.](https://newrelic.com/event/new-relic-now)
+    See the future of observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
     
     [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
     
