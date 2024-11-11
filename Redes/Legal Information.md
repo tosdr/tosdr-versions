@@ -120,11 +120,11 @@ Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pab
 
 Noticia
 
-Emprendimiento
+Transformación Digital PYMES
 
-La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas
+El programa Kit Digital recibe el Premio Ciudadanía por su impacto en la digitalización de pymes y autónomos
 
-[La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas")
+[El programa Kit Digital recibe el Premio Ciudadanía por su impacto en la digitalización de pymes y autónomos](http://red.es/es/actualidad/noticias/el-programa-kit-digital-recibe-el-premio-ciudadania-2024 "Ir al contenido de: El programa Kit Digital recibe el Premio Ciudadanía por su impacto en la digitalización de pymes y autónomos")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
@@ -189,7 +189,7 @@ Nuestros Portales
 * [Transparencia y Buen Gobierno](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 * [Protección de Datos](http://red.es/es/proteccion-de-datos)
 * [Reutilización de la Información del Sector Público](https://sede.red.gob.es/datos-abiertos)
-* [Canal de denuncias](http://red.es/canal-de-denuncias)
+* [Canal de denuncias](http://red.es/es/canal-de-denuncias)
 
 Páginas de Interés
 
