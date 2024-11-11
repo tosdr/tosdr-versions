@@ -1,7 +1,5 @@
 [Skip to main content](#sitecontent)
 
-[Read the world's most authoritative analysis of hotel bookings, SiteMinder's Hotel Booking Trends, **here**](https://www.siteminder.com/hotel-booking-trends/)
-
 [](https://www.siteminder.com/ "Visit the home page")
 
 [Start free trial](https://www.siteminder.com/start-free-trial/)
