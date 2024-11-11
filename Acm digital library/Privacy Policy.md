@@ -285,9 +285,9 @@ Search
         
         [ACM Education Advisory Committee Applications Open](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
         
-        [![amanda-randles-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/amanda-randles-techtalk.jpg)](https://events.zoom.us/ev/AlEAyuY_fpmGG3-mSdtoTqLuXlCZ8MTgK3DBuDPV8-61XtlonECu~AvfzkKu8DQwJ5pb52gtD3MYnXGhqQ-admG4RE8JaYi492NDZE5NKPCeGaQ)
+        [![christine-robson-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/christine-robson-techtalk.jpg)](https://events.zoom.us/ev/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AqfKcOgXRwUotrDs-rfDNWzUsAD_flFeNU-vG9tSPpEhjjb2dWe_xVB9aw)
         
-        [Amanda Randles TechTalk](https://events.zoom.us/ev/AlEAyuY_fpmGG3-mSdtoTqLuXlCZ8MTgK3DBuDPV8-61XtlonECu~AvfzkKu8DQwJ5pb52gtD3MYnXGhqQ-admG4RE8JaYi492NDZE5NKPCeGaQ)
+        [Christine Robson TechTalk](https://events.zoom.us/ev/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AqfKcOgXRwUotrDs-rfDNWzUsAD_flFeNU-vG9tSPpEhjjb2dWe_xVB9aw)
         
         [![Image of Nashlie Sephus](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/nashlie-sephus.jpg)](https://learning.acm.org/bytecast/ep59-nashlie-sephus)
         
