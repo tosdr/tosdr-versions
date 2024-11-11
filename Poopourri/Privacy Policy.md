@@ -58,10 +58,6 @@ shop
 * [Sale](https://www.poopourri.com/collections/sale)
 * Search  
     
-* ![customer account icon](//pourri.com/cdn/shop/t/804/assets/icon--nav-account-v2.svg?v=125546052516818336491730829275)
-    
-    **Sign in** to earn rewards
-    
 *  ![shopping bag icon](//pourri.com/cdn/shop/t/804/assets/icon--cart.svg?v=43504665361036498501730829271) **0**
 
 X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=18042034792411084763)
@@ -175,14 +171,6 @@ Recover Password Go Back
 
 Register
 ========
-
-Loading...
-
-![customer account icon](//pourri.com/cdn/shop/t/804/assets/icon--nav-account-v2.svg?v=125546052516818336491730829275)
-
-**Sign in to earn rewards** Don’t have an account? Create an account
-
-Sign In
 
 Privacy Policy
 ==============
