@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Sidney Powell smiles behind shades](https://am22.mediaite.com/lc/cnt/uploads/2024/02/AP23211748550041-432x243.jpeg)](https://lawandcrime.com/high-profile/kraken-lawyer-sidney-powell-ordered-to-produce-invasive-financial-documents-in-dominion-defamation-case/)
+1. [![Jack White and the White Stripes sue Donald Trump.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Jack-White-Donald-Trump-432x243.jpg)](https://lawandcrime.com/crime/days-after-calling-trump-a-wannabe-dictator-jack-white-and-the-white-stripes-drop-lawsuit-against-president-elect/)
     
-    ### ['Kraken' lawyer Sidney Powell ordered to produce invasive financial documents in Dominion defamation case](https://lawandcrime.com/high-profile/kraken-lawyer-sidney-powell-ordered-to-produce-invasive-financial-documents-in-dominion-defamation-case/)
+    ### [Days after calling Trump a 'wannabe dictator,' Jack White and the White Stripes drop lawsuit against president-elect](https://lawandcrime.com/crime/days-after-calling-trump-a-wannabe-dictator-jack-white-and-the-white-stripes-drop-lawsuit-against-president-elect/)
     
-2. [![Kari Lake](https://am21.mediaite.com/lc/cnt/uploads/2023/10/AP23284082785369-432x243.jpg)](https://lawandcrime.com/high-profile/denied-arizona-supreme-court-issues-terse-rejection-of-kari-lakes-last-ditch-bid-to-become-governor-over-bogus-election-claims/)
+2. [![Background: CCTV footage posted by Shomrim CH showing an attempted kidnapping in Crown Heights, Brooklyn, on Nov. 9, 2024 (Shomrim CH). Inset: Another angle of the attempted kidnapping in Crown Heights, Brooklyn (Shomrim CH).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Crown-Heights-kidnapping-432x243.jpg)](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
     
-    ### ['DENIED': Arizona Supreme Court issues terse rejection of Kari Lake's last-ditch bid to become governor over bogus election claims](https://lawandcrime.com/high-profile/denied-arizona-supreme-court-issues-terse-rejection-of-kari-lakes-last-ditch-bid-to-become-governor-over-bogus-election-claims/)
+    ### ['Something is clearly going on': Video shows masked man allegedly trying to kidnap 6-year-old Jewish boy walking with his father](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
     
-3. [![An image of a fish sandwich stuffed with bacon inset against an image of a McDonald's.](https://am23.mediaite.com/lc/cnt/uploads/2024/11/McDs-Alahmar-432x243.jpg)](https://lawandcrime.com/high-profile/mcdonalds-employees-intentionally-filled-fish-filet-with-bacon-and-gave-it-to-muslim-child-agency-finds/)
+3. [![Supreme Court Justice Sonia Sotomayor speaks during a panel discussion at the winter meeting of the National Governors Association, Friday, Feb. 23, 2024, in Washington.](https://am24.mediaite.com/lc/cnt/uploads/2024/07/AP24054772084464-432x243.jpeg)](https://lawandcrime.com/high-profile/court-needs-her-now-more-than-ever-justice-sotomayor-reportedly-thumbs-her-nose-at-people-calling-for-her-resignation-before-trump-takes-office/)
     
-    ### [McDonald's employees intentionally filled fish filet with bacon and gave it to Muslim child, agency finds](https://lawandcrime.com/high-profile/mcdonalds-employees-intentionally-filled-fish-filet-with-bacon-and-gave-it-to-muslim-child-agency-finds/)
+    ### ['Court needs her now more than ever': Justice Sotomayor reportedly thumbs her nose at people calling for her resignation before Trump takes office](https://lawandcrime.com/high-profile/court-needs-her-now-more-than-ever-justice-sotomayor-reportedly-thumbs-her-nose-at-people-calling-for-her-resignation-before-trump-takes-office/)
     
-4. [![Left: Letitia James, wearing a red shirt, dark jacket, and pearl necklace, discusses Donald Trump's financial dealings at a press conference. Right: Donald Trump, wearing a white shirt, dark suit jacket, and a red ](https://am24.mediaite.com/lc/cnt/uploads/2022/11/Letitia-James-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/we-will-put-your-fat-a-in-prison-potential-trump-ag-candidate-threatens-to-prosecute-letitia-james-for-conspiracy/)
+4. [![Juan Antonio Alvarado Saenz](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Cecilia-Robles-Ochoa-and--432x243.jpg)](https://lawandcrime.com/crime/couple-murdered-each-other-as-their-11-year-old-son-played-video-games-in-next-room-cops/)
     
-    ### ['We will put your fat a–– in prison': Potential Trump AG candidate threatens to prosecute Letitia James for conspiracy](https://lawandcrime.com/high-profile/we-will-put-your-fat-a-in-prison-potential-trump-ag-candidate-threatens-to-prosecute-letitia-james-for-conspiracy/)
+    ### [Couple murdered each other as their 11-year-old son played video games in next room: Cops](https://lawandcrime.com/crime/couple-murdered-each-other-as-their-11-year-old-son-played-video-games-in-next-room-cops/)
     
-5. [![William Alexander Pope (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/jan6-5-432x243.jpg)](https://lawandcrime.com/high-profile/final-opportunity-to-make-peace-accused-jan-6-rioter-warns-judge-of-dangerous-cycle-of-retribution-in-asking-for-trial-delay-after-trump-victory/)
+5. [![Thomas Perez being interrogated by detectives (KTTV/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Thomas-Perez-432x243.jpg)](https://lawandcrime.com/crime/it-is-acceptable-and-perfectly-legal-police-chief-defends-cops-on-social-media-for-getting-man-to-confess-to-murder-that-didnt-happen-using-alleged-psychological-torture/)
     
-    ### ['Final opportunity to make peace': Accused Jan. 6 rioter warns judge of 'dangerous cycle of retribution' in asking for trial delay after Trump victory](https://lawandcrime.com/high-profile/final-opportunity-to-make-peace-accused-jan-6-rioter-warns-judge-of-dangerous-cycle-of-retribution-in-asking-for-trial-delay-after-trump-victory/)
+    ### ['It is acceptable and perfectly legal': Police chief defends cops on social media for getting man to confess to murder that didn't happen using alleged 'psychological torture'](https://lawandcrime.com/crime/it-is-acceptable-and-perfectly-legal-police-chief-defends-cops-on-social-media-for-getting-man-to-confess-to-murder-that-didnt-happen-using-alleged-psychological-torture/)
     
 
 [](http://eepurl.com/c89Jdb)
