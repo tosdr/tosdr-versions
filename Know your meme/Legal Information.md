@@ -97,6 +97,18 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/606/ocda-explainer.jpg "What Is 'OCDA,' AKA 'Occupational Cares Diversity Affairs'? TikToker Calimar White's Boss-Hating Complaints Company Explained")
+    
+    What Is 'OCDA,' AKA 'Occupational Cares Diversity Affairs'? TikToker Calimar White's Boss-Hating Complaints Company Explained](https://knowyourmeme.com/editorials/guides/what-is-ocda-aka-occupational-cares-diversity-affairs-tiktoker-calimar-whites-boss-hating-complaints-company-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/605/leopards_eatin.jpg "What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained")
+    
+    What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-memes-about-a-leopards-eating-peoples-faces-political-party-memes-about-face-eating-leopards-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/604/Who_is_this_diva_cover.jpg "'Who Is This Diva?' The Viral Catchphrase And Spam Comment Meme Explained ")
+    
+    'Who Is This Diva?' The Viral Catchphrase And Spam Comment Meme Explained](https://knowyourmeme.com/editorials/guides/who-is-this-diva-the-viral-catchphrase-and-spam-comment-meme-explained)
+    
 * [![Joe Rogan's Dog Is a Good Meme Boy](https://i.kym-cdn.com/featured_items/icons/wide/000/026/603/Screen_Shot_2019-04-08_at_2.52.33_PM.png "Six Years Ago, The First 'Dog vs. Werewolf' Meme Was Posted Online")
     
     Six Years Ago, The First 'Dog vs. Werewolf' Meme Was Posted Online](https://knowyourmeme.com/memes/dog-vs-werewolf)
@@ -105,22 +117,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     The 'Evil Plotting Raccoon' Meme Is 16 Years Old Today](https://knowyourmeme.com/memes/evil-plotting-raccoon)
     
-* [![YOR RESPONDS TO CALTRANS ADMIT THERE ARE NO PLANS TO WIDEN 1-15 NEAR STATELIN](https://i.kym-cdn.com/featured_items/icons/wide/000/026/601/New_Project_ghoofy.jpg "Happy Anniversary To 'One More Lane, Bro'")
-    
-    Happy Anniversary To 'One More Lane, Bro'](https://knowyourmeme.com/memes/one-more-lane-bro-one-more-lane-will-fix-it)
-    
-* [![The Many Memes Of Sabrina Carpenter](https://i.kym-cdn.com/featured_items/icons/wide/000/026/600/1730161179958.png "The Many Memes Of Sabrina Carpenter")
-    
-    The Many Memes Of Sabrina Carpenter](https://knowyourmeme.com/memes/people/sabrina-carpenter)
-    
-* [![Australian YouTuber Norme Tests His Sanity In A Month-Long Solitary Confinement Livestream](https://i.kym-cdn.com/featured_items/icons/wide/000/026/599/Norme_solitary_cover.jpg "Australian YouTuber Norme Tests His Sanity In A Month-Long Solitary Confinement Livestream")
-    
-    Australian YouTuber Norme Tests His Sanity In A Month-Long Solitary Confinement Livestream](https://knowyourmeme.com/memes/events/normes-solitary-confinement-livestream)
-    
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Norme's Solitary Confinement Livestream](https://knowyourmeme.com/memes/events/normes-solitary-confinement-livestream "Norme's Solitary Confinement Livestream") [I Love Video Games / Me Too](https://knowyourmeme.com/memes/i-love-video-games-me-too "I Love Video Games / Me Too") [Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Gavin Newsom](https://knowyourmeme.com/memes/people/gavin-newsom "Gavin Newsom") [I Love Video Games / Me Too](https://knowyourmeme.com/memes/i-love-video-games-me-too "I Love Video Games / Me Too") [Brazilian Sadako](https://knowyourmeme.com/memes/brazilian-sadako "Brazilian Sadako") [Norme's Solitary Confinement Livestream](https://knowyourmeme.com/memes/events/normes-solitary-confinement-livestream "Norme's Solitary Confinement Livestream") [Dave Blunts](https://knowyourmeme.com/memes/people/dave-blunts "Dave Blunts")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
