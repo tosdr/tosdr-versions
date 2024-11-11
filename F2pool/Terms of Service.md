@@ -20,8 +20,6 @@ English
 
 [Create Account](https://www.f2pool.com/user/signup) [Sign In](https://www.f2pool.com/user/signin)
 
-* [Upcoming BEL block reward reduction](https://f2pool.zendesk.com/hc/en-us/articles/39427659617433--Upcoming-BEL-block-reward-reduction) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
-
 F2Pool Terms of Service
 -----------------------
 
