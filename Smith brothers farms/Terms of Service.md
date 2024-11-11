@@ -188,11 +188,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (64)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (74)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (35)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (40)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Thanksgiving Essentials (24)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
+    * [Thanksgiving Essentials (26)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -218,12 +218,12 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (75)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (76)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
         * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
             
-        * [Traditional Yogurt (21)](https://www.smithbrothersfarms.com/traditional)
+        * [Traditional Yogurt (22)](https://www.smithbrothersfarms.com/traditional)
             
         
     * [Eggs & Butter (10)](https://www.smithbrothersfarms.com/eggs-butter)
@@ -234,7 +234,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (58)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (60)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (6)](https://www.smithbrothersfarms.com/blocks)
@@ -245,7 +245,7 @@ Hi
             
         * [Cream Cheese (10)](https://www.smithbrothersfarms.com/cream-cheese)
             
-        * [Artisan Cheese (13)](https://www.smithbrothersfarms.com/other-cheese)
+        * [Artisan Cheese (15)](https://www.smithbrothersfarms.com/other-cheese)
             
         * [Single Serve (12)](https://www.smithbrothersfarms.com/single-serve-cheeses)
             
@@ -266,10 +266,10 @@ Hi
         * [Prepared Produce (8)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (95)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (99)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
-        * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
+        * [Bread & Buns (35)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (6)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
@@ -279,7 +279,7 @@ Hi
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (14)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (15)](https://www.smithbrothersfarms.com/desserts)
             
         * [Cookies (3)](https://www.smithbrothersfarms.com/cookie)
             
@@ -296,12 +296,12 @@ Hi
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (69)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (71)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
         * [Frozen Meals (32)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (16)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (18)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (3)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
