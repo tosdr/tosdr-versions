@@ -179,7 +179,7 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Trump won … but wait, Albo just got another flight upgrade!](https://independentaustralia.net/article-display/trump-won-but-wait-albo-just-got-another-flight-upgrade,19150 "Permanent Link : Trump won … but wait, Albo just got another flight upgrade!")
+* [Government bans social media fearing rise of 'Generation Left'](https://independentaustralia.net/article-display/government-bans-social-media-fearing-rise-of-generation-left,19158 "Permanent Link : Government bans social media fearing rise of  'Generation Left'")
 * [Donald Trump wins presidency thanks to lack of media scrutiny](https://independentaustralia.net/article-display/donald-trump-wins-presidency-thanks-to-lack-of-media-scrutiny,19157 "Permanent Link : Donald Trump wins presidency thanks to lack of media scrutiny")
 * [Rigging, robbery and rich men's resources](https://independentaustralia.net/article-display/rigging-robbery-and-rich-mens-resources,19156 "Permanent Link : Rigging, robbery and rich men's resources")
 * [How a Victorian fruit merchant could be leading to answers to the climate crisis](https://independentaustralia.net/article-display/how-a-victorian-fruit-merchant-could-be-leading-to-answers-to-the-climate-crisis,19128 "Permanent Link : How a Victorian fruit merchant could be leading to answers to the climate crisis")
