@@ -28,9 +28,11 @@ Products
 
 Our Values
 
-[About Us](https://internxt.com/about)[Log in](https://drive.internxt.com/login)
+[About Us](https://internxt.com/about)
 
 English (EN)
+
+[Log in](https://drive.internxt.com/login)
 
 Terms of Service
 ================
@@ -1271,18 +1273,18 @@ Copyright © 2024, Internxt Universal Technologies SL
 
 ![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
-![Surveillance left](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcampaigns%2Fhalloween%2Finternx_halloween_pricing.webp&w=384&q=75)
+![Surveillance left](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fblack-friday%2Fblack_friday_horizontal_sale.png&w=640&q=75)
 
-Save 80%
+Save 85%
 
-Killer Halloween  
-deals!
+Back to  
+Black Friday!
 
 Claim deal
 
-Save 80%
+Save 85%!
 
-Boo! Come save with us...
+The best Black Friday deals
 
 Choose plan
 
@@ -1290,7 +1292,7 @@ Choose plan
 
 \*Offer is for free accounts or new customers
 
-Save on all lifetime plans
+Save big on all premium plans
 
 Private, encrypted cloud storage
 
@@ -1300,7 +1302,7 @@ End-to-end encrypted transfers
 
 No unauthorized access
 
-Offer ends November 10
+Offer ends December 3rd
 
 Get 80% OFF all our Premium Plans
 ---------------------------------
