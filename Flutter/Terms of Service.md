@@ -389,7 +389,8 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
 
 [Get started](https://flutter.dev/get-started/install/)
 
-[Flutter 3.24 and Dart 3.5](https://medium.com/flutter/flutter-3-24-dart-3-5-204b7d20c45d) are here! Check out [what's new](https://flutter.dev/release/whats-new) on the website.
+[Flutter 3.24 and Dart 3.5](https://medium.com/flutter/flutter-3-24-dart-3-5-204b7d20c45d) are here! Check out [what's new](https://flutter.dev/release/whats-new) on the website.  
+Help improve Flutter! Take our [Q4 survey](https://google.qualtrics.com/jfe/form/SV_4PhMtNLa6DWOGWi?Source=Website).
 
 * Get started
 * [Set up Flutter](https://flutter.dev/get-started/install)
