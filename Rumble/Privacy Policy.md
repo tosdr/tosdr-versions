@@ -202,127 +202,115 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Bannons War Room
+[Redacted News
 
-33.2K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Steven Crowder
-
-29K](https://rumble.com/v5o68uh--the-trump-effect-why-the-world-is-already-a-better-place.html "Steven Crowder")
-
-[Badlands Media
-
-6.46K](https://rumble.com/v5o3yoz-badlands-daily-monday-november-11-2024.html "Badlands Media")
+17.6K](https://rumble.com/v5oaddk-breaking-dems-plan-to-block-trump-from-inauguration-biden-to-resign-to-inst.html "Redacted News")
 
 [NEWSMAX
 
-5.58K](https://rumble.com/v5o6ka5-the-gerry-callahan-show-live-monday-november-11-2024-newsmax-podcasts.html "NEWSMAX")
+4.24K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Kimberly Guilfoyle
 
-2.09K](https://rumble.com/v5o1d9n-the-mk-show-nov.-11th.html "Matt Kohrs")
-
-[usefulidiots
-
-261](https://rumble.com/v5ny92w-useful-idiots-monday-mourning-with-katie-halper-and-aaron-mat.html "usefulidiots")
+3.24K](https://rumble.com/v5o9g7t-breaking-news-president-trumps-latest-hires-plus-the-meaning-of-veterans-da.html "Kimberly Guilfoyle")
 
 [Lofi Girl
 
-241](https://rumble.com/v1heynx-lofi-hip-hop-radio-beats-to-relaxstudy-to.html "Lofi Girl")
-
-[Mike Crispi
-
-156](https://rumble.com/v5o2swe-mike-crispi-unafraid-11-11-24-10am-est.html "Mike Crispi")
-
-[The Kirk Minihane Show
-
-150](https://rumble.com/v5o5s6h-kms-live-november-11-2024-ft.-blind-mike-and-beyond-average-mick.html "The Kirk Minihane Show")
-
-[barstoolsports
-
-147](https://rumble.com/v5o5s6h-kms-live-november-11-2024-ft.-blind-mike-and-beyond-average-mick.html "barstoolsports")
+233](https://rumble.com/v1heynx-lofi-hip-hop-radio-beats-to-relaxstudy-to.html "Lofi Girl")
 
 [Major League Fishing
 
-64](https://rumble.com/v5n5v5q-live-toyota-series-championship.html "Major League Fishing")
-
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
-
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
-
-[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
-
-[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
-
-[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
-
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
-
-[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
-
-[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[NHRA](https://rumble.com/c/NHRA "NHRA")
-
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
-
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
-
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
-
-[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
-
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
-
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+36](https://rumble.com/v5n5v5q-live-toyota-series-championship.html "Major League Fishing")
 
 [Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
 
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+
+[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
+
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
+
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+
+[Bannons War Room](https://rumble.com/c/BannonsWarRoom "Bannons War Room")
+
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+
+[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
 [A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
 
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
 
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+
+[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
+
+[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
+
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
+
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+
+[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
 
 ### Theme
 
