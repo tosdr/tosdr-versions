@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz
-
-Kanzler-Hammer: Erste Genossen wollen Pistorius statt Scholz](https://www.bild.de/politik/inland/kanzler-hammer-erste-genossen-wollen-pistorius-statt-scholz-6731ef0a781ba6172e9a6877)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
