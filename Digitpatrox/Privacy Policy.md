@@ -20,16 +20,16 @@ Monday, November 11 2024
 
 Latest
 
+* [Microsoft investigates OneDrive issue causing macOS app freezes](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
+* [Apple now sells iPhone 16 and 16 Pro repair parts](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
+* [How to Set ChatGPT Search as Your Default Search Engine](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
+* [I Compared ChatGPT Search and Google, and Google Should Be Worried](https://digitpatrox.com/i-compared-chatgpt-search-and-google-and-google-should-be-worried/)
+* [How to Rid Your Car of Odors and Smells](https://digitpatrox.com/how-to-rid-your-car-of-odors-and-smells/)
+* [Try Out the Two New Exciting AI Features in Chrome](https://digitpatrox.com/try-out-the-two-new-exciting-ai-features-in-chrome/)
+* [NYT Connections today hints and answers — Monday, November 11 (#519)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-november-11-519/)
+* [Windows 11 is adding a ‘Share’ button to the Start menu and Taskbar](https://digitpatrox.com/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
+* [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://digitpatrox.com/the-next-nintendo-direct-is-all-about-super-nintendo-worlds-donkey-kong-country/)
 * [The Penguin Episode 8 Release Date and Time (Countdown Timer)](https://digitpatrox.com/the-penguin-episode-8-release-date-and-time-countdown-timer/)
-* [What to Do When Your Employer Shifts Your Pay From Salary to Hourly](https://digitpatrox.com/what-to-do-when-your-employer-shifts-your-pay-from-salary-to-hourly/)
-* [How to Use a Space Heater Safely](https://digitpatrox.com/how-to-use-a-space-heater-safely/)
-* [Habits to Keep Linux Resource Usage Low](https://digitpatrox.com/habits-to-keep-linux-resource-usage-low/)
-* [How to watch ‘Yellowstone’ season 5 part 2 online and from anywhere](https://digitpatrox.com/how-to-watch-yellowstone-season-5-part-2-online-and-from-anywhere/)
-* [Malicious PyPI package with 37,000 downloads steals AWS keys](https://digitpatrox.com/malicious-pypi-package-with-37000-downloads-steals-aws-keys/)
-* [Amazon tests mixing and matching its grocery operations](https://digitpatrox.com/amazon-tests-mixing-and-matching-its-grocery-operations/)
-* [Yellowstone Season 5 Part 2 Release Date and Time (Contdown Timer)](https://digitpatrox.com/yellowstone-season-5-part-2-release-date-and-time-contdown-timer/)
-* [It Just Got Easier to Change Your iPhone’s Default Browser, Email App, and More](https://digitpatrox.com/it-just-got-easier-to-change-your-iphones-default-browser-email-app-and-more/)
-* [Most Reliable Central Air Conditioning Systems](https://digitpatrox.com/most-reliable-central-air-conditioning-systems/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/11/IF-18.jpg)](https://digitpatrox.com/the-penguin-episode-8-release-date-and-time-countdown-timer/)
+* [![](https://www.bleepstatic.com/content/hl-images/2022/10/28/0_OneDrive.jpg)](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
     
-    [The Penguin Episode 8 Release Date and Time (Countdown Timer)](https://digitpatrox.com/the-penguin-episode-8-release-date-and-time-countdown-timer/)
+    [Microsoft investigates OneDrive issue causing macOS app freezes](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
     
-    15 mins ago
+    37 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JC67107XKQA9KT892RKVVTKN/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/what-to-do-when-your-employer-shifts-your-pay-from-salary-to-hourly/)
+* [![](https://cdn.vox-cdn.com/thumbor/t2JsCpYr1Uc3UY3V1iRUKv6TSwU=/0x0:2000x1334/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626805/DSC08374_alt_3.jpg)](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
     
-    [What to Do When Your Employer Shifts Your Pay From Salary to Hourly](https://digitpatrox.com/what-to-do-when-your-employer-shifts-your-pay-from-salary-to-hourly/)
+    [Apple now sells iPhone 16 and 16 Pro repair parts](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
     
-    3 hours ago
+    55 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730310298/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-How-to-Be-Sure-Youre-Using-Your-Space-Heater-Safely-1024)](https://digitpatrox.com/how-to-use-a-space-heater-safely/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/chatgpt-search-experience-1.jpg)](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
     
-    [How to Use a Space Heater Safely](https://digitpatrox.com/how-to-use-a-space-heater-safely/)
+    [How to Set ChatGPT Search as Your Default Search Engine](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
     
-    3 hours ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_2412987605.jpg)](https://digitpatrox.com/habits-to-keep-linux-resource-usage-low/)
+* [![](https://lifehacker.com/imagery/articles/01JC5PXM2HCP6KQ32P8KYTW0A4/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/i-compared-chatgpt-search-and-google-and-google-should-be-worried/)
     
-    [Habits to Keep Linux Resource Usage Low](https://digitpatrox.com/habits-to-keep-linux-resource-usage-low/)
+    [I Compared ChatGPT Search and Google, and Google Should Be Worried](https://digitpatrox.com/i-compared-chatgpt-search-and-google-and-google-should-be-worried/)
     
-    3 hours ago
+    4 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/C2JNAKnxN4AGrLDqv9hgWe-1200-80.jpg)](https://digitpatrox.com/how-to-watch-yellowstone-season-5-part-2-online-and-from-anywhere/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1664999804/prod/content/dam/CRO-Images-2022/Cars/10October/CR-Cars-Inlinehero-how-to-get-rid-of-smells-in-car-1022)](https://digitpatrox.com/how-to-rid-your-car-of-odors-and-smells/)
     
-    [How to watch ‘Yellowstone’ season 5 part 2 online and from anywhere](https://digitpatrox.com/how-to-watch-yellowstone-season-5-part-2-online-and-from-anywhere/)
+    [How to Rid Your Car of Odors and Smells](https://digitpatrox.com/how-to-rid-your-car-of-odors-and-smells/)
     
     4 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 mins ago
+* [37 mins ago
     
-    ### The Penguin Episode 8 Release Date and Time (Countdown Timer)](https://digitpatrox.com/the-penguin-episode-8-release-date-and-time-countdown-timer/)
-* [3 hours ago
+    ### Microsoft investigates OneDrive issue causing macOS app freezes](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
+* [55 mins ago
     
-    ### What to Do When Your Employer Shifts Your Pay From Salary to Hourly](https://digitpatrox.com/what-to-do-when-your-employer-shifts-your-pay-from-salary-to-hourly/)
-* [3 hours ago
+    ### Apple now sells iPhone 16 and 16 Pro repair parts](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
+* [1 hour ago
     
-    ### How to Use a Space Heater Safely](https://digitpatrox.com/how-to-use-a-space-heater-safely/)
+    ### How to Set ChatGPT Search as Your Default Search Engine](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
 
 Most Popular Topics
 
-* [October 8, 2024
+* [August 25, 2024
     
-    ### Today’s Wordle Answer and Hints (October 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-9-2024/)
-* [4 weeks ago
+    ### Worldwide UC&C revenues to hit $69.1B mark this year, IDC projects – Computerworld](https://digitpatrox.com/worldwide-ucc-revenues-to-hit-69-1b-mark-this-year-idc-projects-computerworld/)
+* [2 weeks ago
     
-    ### The Boys Season 5 Casts Mason Dye as Bombsight](https://digitpatrox.com/the-boys-season-5-casts-mason-dye-as-bombsight/)
-* [September 6, 2024
+    ### The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
+* [October 11, 2024
     
-    ### Don’t Have the Time to Play an MMORPG? Try These Roguelikes Instead](https://digitpatrox.com/dont-have-the-time-to-play-an-mmorpg-try-these-roguelikes-instead/)
+    ### AI agents are here to stay – and Boomi thinks it can be a market leader](https://digitpatrox.com/ai-agents-are-here-to-stay-and-boomi-thinks-it-can-be-a-market-leader/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [4 hours ago
     
-    ### Amazon tests mixing and matching its grocery operations](https://digitpatrox.com/amazon-tests-mixing-and-matching-its-grocery-operations/)
-* [5 hours ago
+    ### NYT Connections today hints and answers — Monday, November 11 (#519)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-november-11-519/)
+* [6 hours ago
     
-    ### Yellowstone Season 5 Part 2 Release Date and Time (Contdown Timer)](https://digitpatrox.com/yellowstone-season-5-part-2-release-date-and-time-contdown-timer/)
-* [8 hours ago
+    ### Windows 11 is adding a ‘Share’ button to the Start menu and Taskbar](https://digitpatrox.com/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
+* [6 hours ago
     
-    ### It Just Got Easier to Change Your iPhone’s Default Browser, Email App, and More](https://digitpatrox.com/it-just-got-easier-to-change-your-iphones-default-browser-email-app-and-more/)
+    ### The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://digitpatrox.com/the-next-nintendo-direct-is-all-about-super-nintendo-worlds-donkey-kong-country/)
 
 Most Viewed Topics
 
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
