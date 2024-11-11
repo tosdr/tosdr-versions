@@ -37,11 +37,11 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🐳 11,737 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
+🐳 11,922 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
 
-[![Atari 7800+](https://www.mobygames.com/static/img/7800__1180x90.03241eff.jpg)](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
+[![Tetris Forever](https://www.mobygames.com/static/img/tf_1180x90.909323bd.png)](https://www.digitaleclipse.com/games/tetrisforever)
 
-[![Atari 7800+](https://www.mobygames.com/static/img/7800__300x90.7fed56ff.jpg)](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
+[![Tetris Forever](https://www.mobygames.com/static/img/tf_300x90.1434f33d.png)](https://www.digitaleclipse.com/games/tetrisforever)
 
 Terms of Service
 ================
@@ -136,4 +136,4 @@ In addition to any other available relief, MobyGames and You agree that any comm
 
 © 1999–2024 MobyGames ™
 
-v20241108
+v20241111a
