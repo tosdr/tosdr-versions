@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
-    * [Ind vs SA](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
+    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-is-back-on-kapil-sharmas-show-5-years-after-exit-archana-puran-singh-reacts-9115755.html)
     * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
     * [CJI Chandrachud](https://www.news18.com/india/never-allow-yourself-ex-cji-on-why-his-father-wont-let-him-sell-pune-flat-watch-9115281.html)
-    * [Logan Paul](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
-    * [Rohit Sharma](https://www.news18.com/cricket/rohit-sharma-sacked-as-india-captain-virat-kohli-in-fox-sports-bgt-poster-with-cummins-sparks-uproar-9115527.html)
+    * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
+    * [Gautam Gambhir](https://www.news18.com/cricket/gautam-gambhir-press-conference-live-updates-india-vs-australia-test-series-border-gavaskar-trophy-2024-25-rohit-sharma-virat-kohli-jasprit-bumrah-liveblog-9115758.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,11 +170,11 @@ Follow us on
 In Trends:
 
 * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
-* [Ind vs SA](https://www.news18.com/cricket/india-vs-south-africa-2nd-t20i-live-score-today-ind-vs-sa-commentary-scorecard-weather-updates-sanju-samson-suryakumar-yadav-arshdeep-singh-gqeberha-liveblog-9115459.html)
+* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-is-back-on-kapil-sharmas-show-5-years-after-exit-archana-puran-singh-reacts-9115755.html)
 * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
 * [CJI Chandrachud](https://www.news18.com/india/never-allow-yourself-ex-cji-on-why-his-father-wont-let-him-sell-pune-flat-watch-9115281.html)
-* [Logan Paul](https://www.news18.com/movies/saif-ali-khan-carries-jeh-on-his-shoulders-kareena-malaika-and-others-join-mrbeast-logan-pauls-event-9115450.html)
-* [Rohit Sharma](https://www.news18.com/cricket/rohit-sharma-sacked-as-india-captain-virat-kohli-in-fox-sports-bgt-poster-with-cummins-sparks-uproar-9115527.html)
+* [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
+* [Gautam Gambhir](https://www.news18.com/cricket/gautam-gambhir-press-conference-live-updates-india-vs-australia-test-series-border-gavaskar-trophy-2024-25-rohit-sharma-virat-kohli-jasprit-bumrah-liveblog-9115758.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
