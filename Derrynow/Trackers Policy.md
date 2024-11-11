@@ -277,6 +277,22 @@ Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
 [Ruaidhri Higgins: 'Do I still have the drive and hunger to keep going? My intentions now are to keep going.'](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 11, 2024](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded")](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
+
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
 
 Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
@@ -285,6 +301,15 @@ Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
 
 [Heartbreak for Derry City in FAI Cup Final](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man charged with criminal damage and possession of drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man charged with criminal damage and possession of drugs")](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City behind at the break in FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City behind at the break in FAI Cup final")](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
 
@@ -304,12 +329,12 @@ Guildhall Square lit up on Friday at a rally opposing violence against women.
 [Thousands attend Derry ‘Rally For Women’s Safety’](https://www.derrynow.com/news/local-news/1652188/thousands-attend-derry-rally-for-womens-safety.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
 
@@ -318,32 +343,43 @@ Guildhall Square lit up on Friday at a rally opposing violence against women.
 [O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![£5m scheme boosts nature for hundreds of communities across UK, report shows](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£5m scheme boosts nature for hundreds of communities across UK, report shows")](https://www.derrynow.com/news/northern-ireland/1652491/5m-scheme-boosts-nature-for-hundreds-of-communities-across-uk-report-shows.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[£5m scheme boosts nature for hundreds of communities across UK, report shows](https://www.derrynow.com/news/northern-ireland/1652491/5m-scheme-boosts-nature-for-hundreds-of-communities-across-uk-report-shows.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: The Suite Life](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Suite Life")](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: The Suite Life](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
-------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Paddy Hillyard launches new book at Museum of Free Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Paddy Hillyard launches new book at Museum of Free Derry")](https://www.derrynow.com/story-telling/pictures---videos/1652697/in-pictures-paddy-hillyard-launches-new-book-at-museum-of-free-derry.html)
+
+IN PICTURES: Paddy Hillyard launches new book at Museum of Free Derry
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Paddy Hillyard launches new book at Museum of Free Derry](https://www.derrynow.com/story-telling/pictures---videos/1652697/in-pictures-paddy-hillyard-launches-new-book-at-museum-of-free-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Cumann na mBunscol Doire City Primary 6 Blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cumann na mBunscol Doire City Primary 6 Blitz")](https://www.derrynow.com/story-telling/pictures---videos/1652695/in-pictures-cumann-na-mbunscol-doire-city-primary-6-blitz.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Cumann na mBunscol Doire City Primary 6 Blitz](https://www.derrynow.com/story-telling/pictures---videos/1652695/in-pictures-cumann-na-mbunscol-doire-city-primary-6-blitz.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry City fans paint Dublin 'Red and White'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans paint Dublin 'Red and White'")](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans paint Dublin 'Red and White'](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
+
+IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final")](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
 
@@ -386,34 +422,6 @@ Multimedia
 
 [FAN VIEW: Derry City fans give their predictions ahead of Sunday's FAI Cup final](https://www.derrynow.com/story-telling/pictures---videos/1649837/fan-view-derry-city-fans-give-their-predictions-ahead-of-sunday-s-fai-cup-final.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about in Brunswick Bowling Alley and Martha's Vineyard, Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1648705/throwback-thursday-partytime-out-and-about-in-brunswick-bowling-alley-and-martha-s-vineyard-derry-2009.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Education Minsister Paul Givan visits St John's Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Education Minsister Paul Givan visits St John's Primary School")](https://www.derrynow.com/story-telling/pictures---videos/1649213/in-pictures-education-minsister-paul-givan-visits-st-john-s-primary-school.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Education Minsister Paul Givan visits St John's Primary School](https://www.derrynow.com/story-telling/pictures---videos/1649213/in-pictures-education-minsister-paul-givan-visits-st-john-s-primary-school.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Another successful year and AGM for Derry Credit Union](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Another successful year and AGM for Derry Credit Union")](https://www.derrynow.com/story-telling/pictures---videos/1648772/in-pictures-another-successful-year-and-agm-for-derry-credit-union.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Another successful year and AGM for Derry Credit Union](https://www.derrynow.com/story-telling/pictures---videos/1648772/in-pictures-another-successful-year-and-agm-for-derry-credit-union.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PROPERTY: Stylish Derry home in ideal location hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Stylish Derry home in ideal location hits the market")](https://www.derrynow.com/news/pictures---videos/1646758/property-stylish-derry-home-in-ideal-location-hits-the-market.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PROPERTY: Stylish Derry home in ideal location hits the market](https://www.derrynow.com/news/pictures---videos/1646758/property-stylish-derry-home-in-ideal-location-hits-the-market.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,53 +523,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
+[!['Trusted associate' in drug supply operation jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted associate' in drug supply operation jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Trusted associate' in drug supply operation jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded")](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
+
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Recruitment under way to find next Northern Ireland victims’ commissioner](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_11/1731319501472_0.jpg--.jpg?1731319501735 "Recruitment under way to find next Northern Ireland victims’ commissioner")](https://www.derrynow.com/news/local-news/1652678/recruitment-under-way-to-find-next-northern-ireland-victims-commissioner.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Recruitment under way to find next Northern Ireland victims’ commissioner](https://www.derrynow.com/news/local-news/1652678/recruitment-under-way-to-find-next-northern-ireland-victims-commissioner.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Derry man charged with criminal damage and possession of drugs")](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Programme of events revealed to mark Ulster-Scots Language Week](https://www.derrynow.com/resizer/165/93/true/2024_11_11/Ulster-Scots-Language-Week_2-1731320358965.jpg--.jpg?1731320358987 "Programme of events revealed to mark Ulster-Scots Language Week")](https://www.derrynow.com/news/local-news/1652635/programme-of-events-revealed-to-mark-ulster-scots-language-week.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Programme of events revealed to mark Ulster-Scots Language Week](https://www.derrynow.com/news/local-news/1652635/programme-of-events-revealed-to-mark-ulster-scots-language-week.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%281%29-1695307127889.jpg--.jpg?1695307127981 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Monday, November 11, 2024](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry road closed following road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed following road traffic collision")](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
-
-The PSNI have advised motorists of a road closure in the Magherafelt area.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/resizer/165/93/true/2024_11_10/TRC_SANTA_Announcement-1731266081941.png--.png?1731266082168 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_10/2982413-1731264055090.jpg--.jpg?1731264055994 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
-
-Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins: 'Do I still have the drive and hunger to keep going? My intentions now are to keep going.'](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_10/IDNM_11-11-24_Back_Page_2-1731260231322.jpg--.jpg?1731260233446 "Derry City")](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
-
-Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Heartbreak for Derry City in FAI Cup Final](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: The Suite Life](https://www.derrynow.com/resizer/165/93/true/2024_11_08/Snapinsta.app_461502839_1819614105478829_6811083524925265705_n_1080-1731080890375_1731080906.jpg--.jpg?1731080906565 "MacD on Music: The Suite Life")](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: The Suite Life](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
-------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
