@@ -6,7 +6,7 @@ Pause slideshow Play slideshow
 
 icon-X Close menu
 
-* Shop
+* Shop Online
     
     * [Power Mobility](https://www.perfectsleepchair.com/collections/curated-power-mobility)
         
@@ -33,9 +33,8 @@ icon-X Close menu
         * [Incontinence Care](https://www.perfectsleepchair.com/products/adult-incontinence-disposal-system)
         
     
-* [About Us](https://www.perfectsleepchair.com/pages/about-our-company)
-* [Request Callback](https://www.perfectsleepchair.com/pages/get-a-call-back)
-* [Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
+* [Call Us: 888-404-1724](tel:888-404-1724)
+* [Check Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
 * [Log in](https://www.perfectsleepchair.com/account)
     
 
@@ -59,7 +58,7 @@ Your cart is currently empty.
 
  [![](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue_v2.webp?v=1691275808&width=400)![](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue_v2.webp?v=1691275808&width=300)](https://www.perfectsleepchair.com/)
 
-* Shop
+* Shop Online
     
     [![Curated Power Mobility](//www.shopjourney.com/cdn/shop/collections/hero-slide-image-0_da0e0da6-f0f9-4658-8904-3267e7bd55d8.webp?v=1720851878&width=4000)](https://www.perfectsleepchair.com/collections/curated-power-mobility)
     
@@ -101,9 +100,8 @@ Your cart is currently empty.
     
     [Incontinence Care](https://www.perfectsleepchair.com/products/adult-incontinence-disposal-system)
     
-* [About Us](https://www.perfectsleepchair.com/pages/about-our-company)
-* [Request Callback](https://www.perfectsleepchair.com/pages/get-a-call-back)
-* [Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
+* [Call Us: 888-404-1724](tel:888-404-1724)
+* [Check Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
 
 [account Log in](https://www.perfectsleepchair.com/account) [icon-search Search](https://www.perfectsleepchair.com/search) icon-hamburger Site navigation [Cart](https://www.perfectsleepchair.com/cart)
 
@@ -761,7 +759,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 43 people voted yesNo, this review was not helpful 8 people voted no
+    Yes, this review was helpful 44 people voted yesNo, this review was not helpful 8 people voted no
     
     **JH** 
     
