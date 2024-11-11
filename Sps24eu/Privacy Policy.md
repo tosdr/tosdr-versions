@@ -128,10 +128,6 @@ Delivery cost from
     * [Garage door kits](https://sps24.eu/en/menu/gate-automation-systems/garage-door-kits-4858.html "Garage door kits")
     * [Sliding Gate Kits](https://sps24.eu/en/menu/gate-automation-systems/sliding-gate-kits-4859.html "Sliding Gate Kits")
     * [Swing Gate Kits](https://sps24.eu/en/menu/gate-automation-systems/swing-gate-kits-4860.html "Swing Gate Kits")
-* [Battery-powered tools and equipment](https://sps24.eu/en/menu/battery-powered-tools-and-equipment-4811.html "Battery-powered tools and equipment")
-    * [Milling machines](https://sps24.eu/en/menu/battery-powered-tools-and-equipment/milling-machines-4812.html "Milling machines")
-    * [Nailers and staplers](https://sps24.eu/en/menu/battery-powered-tools-and-equipment/nailers-and-staplers-4813.html "Nailers and staplers")
-    * [Impact wrenches](https://sps24.eu/en/menu/battery-powered-tools-and-equipment/impact-wrenches-4814.html "Impact wrenches")
 * [Electric water heaters](https://sps24.eu/en/menu/electric-water-heaters-4821.html "Electric water heaters")
 * [Recuperation](https://sps24.eu/en/menu/recuperation-4822.html "Recuperation")
     * [VASCO](https://sps24.eu/en/menu/recuperation/vasco-4823.html "VASCO")
@@ -294,7 +290,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=c96158a8d2147ebf27c917a9d1b6aacb)
+![pixel](https://client4733.idosell.com/checkup.php?c=3586f280a8871686187a2248ce195bf2)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
