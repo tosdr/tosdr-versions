@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
+* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
     
-* [How to Backup to Azure](https://www.backup4all.com/how-to-backup-to-azure-kb.html)  
+* [Backup to Iomega REV drives](https://www.backup4all.com/backup-to-iomega-rev-drives-kb.html)  
     
-* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
+* [How to backup your data to dinCloud](https://www.backup4all.com/how-to-backup-your-data-to-dincloud-kb.html)  
     
-* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
+* [How to restore data files to Minio using Back ...](https://www.backup4all.com/how-to-restore-data-files-to-minio-using-backup4all-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
     
 
 Choose language:
