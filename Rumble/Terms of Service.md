@@ -446,127 +446,115 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Bannons War Room
+[Redacted News
 
-33.2K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Steven Crowder
-
-29K](https://rumble.com/v5o68uh--the-trump-effect-why-the-world-is-already-a-better-place.html "Steven Crowder")
-
-[Badlands Media
-
-6.46K](https://rumble.com/v5o3yoz-badlands-daily-monday-november-11-2024.html "Badlands Media")
+17.6K](https://rumble.com/v5oaddk-breaking-dems-plan-to-block-trump-from-inauguration-biden-to-resign-to-inst.html "Redacted News")
 
 [NEWSMAX
 
-5.58K](https://rumble.com/v5o6ka5-the-gerry-callahan-show-live-monday-november-11-2024-newsmax-podcasts.html "NEWSMAX")
+4.24K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Kimberly Guilfoyle
 
-2.09K](https://rumble.com/v5o1d9n-the-mk-show-nov.-11th.html "Matt Kohrs")
-
-[usefulidiots
-
-261](https://rumble.com/v5ny92w-useful-idiots-monday-mourning-with-katie-halper-and-aaron-mat.html "usefulidiots")
+3.24K](https://rumble.com/v5o9g7t-breaking-news-president-trumps-latest-hires-plus-the-meaning-of-veterans-da.html "Kimberly Guilfoyle")
 
 [Lofi Girl
 
-241](https://rumble.com/v1heynx-lofi-hip-hop-radio-beats-to-relaxstudy-to.html "Lofi Girl")
-
-[Mike Crispi
-
-156](https://rumble.com/v5o2swe-mike-crispi-unafraid-11-11-24-10am-est.html "Mike Crispi")
-
-[The Kirk Minihane Show
-
-146](https://rumble.com/v5o5s6h-kms-live-november-11-2024-ft.-blind-mike-and-beyond-average-mick.html "The Kirk Minihane Show")
-
-[barstoolsports
-
-146](https://rumble.com/v5o5s6h-kms-live-november-11-2024-ft.-blind-mike-and-beyond-average-mick.html "barstoolsports")
+233](https://rumble.com/v1heynx-lofi-hip-hop-radio-beats-to-relaxstudy-to.html "Lofi Girl")
 
 [Major League Fishing
 
-64](https://rumble.com/v5n5v5q-live-toyota-series-championship.html "Major League Fishing")
+36](https://rumble.com/v5n5v5q-live-toyota-series-championship.html "Major League Fishing")
 
-[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
+[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
 
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
 
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+[Geeks + Gamers](https://rumble.com/c/GeeksandGamers "Geeks + Gamers")
 
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
 
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
 
-[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
+[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
 
 [LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
 
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
 
-[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
-
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
-
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
-
-[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
-
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
-
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
-
-[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
 
 [DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
 
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
+[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
 
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
 
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
 
-[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
 
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
 
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
 
-[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
-
-[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
-
-[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
-
-[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
 
 [UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
 
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
 
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
 
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
 
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
 
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
+
+[NELK](https://rumble.com/c/NELK "NELK")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+
+[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
+
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
+
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+
+[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
+
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
 
 ### Theme
 
