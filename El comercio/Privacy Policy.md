@@ -31,6 +31,162 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Daniel Noboa designa a José de la Gasca ministro de Gobierno
+============================================================
+
+La Presidencia de la República informó de la decisión por medio de un comunicado compartido en su cuenta oficial
+----------------------------------------------------------------------------------------------------------------
+
+![José de la Gasca fue designado ministro de Gobierno por Daniel Noboa.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jose-de-la-GAsca.jpg)
+
+Este lunes 11 de noviembre, la **Presidencia de la República** informó sobra la designación de **José de la Gasca** como nuevo ministro de Gobierno.
+
+### Más noticias
+
+* [Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE](https://www.elcomercio.com/actualidad/politica/audiencia-denuncia-veronica-abad-contra-daniel-noboa-instalo-tce.html "Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE")
+* [Dos incendios se registran en Guayaquil este 11 de noviembre; una niña falleció](https://www.elcomercio.com/actualidad/ecuador/dos-incendios-se-registran-en-guayaquil-una-nina-fallecio.html "Dos incendios se registran en Guayaquil este 11 de noviembre; una niña falleció")
+* [Nuevos horarios de cortes de luz en Quito para este lunes 11 y martes 12 de noviembre](https://www.elcomercio.com/actualidad/quito/nuevos-horarios-cortes-luz-lunes-martes.html "Nuevos horarios de cortes de luz en Quito para este lunes 11 y martes 12 de noviembre")
+
+La designación
+--------------
+
+Por medio de un comunicado se informó que el presidente de la República, Daniel Noboa Azín, designó a José de la Gasca para este cargo.
+
+Añade el comunicado que **De la Gasca** cuenta con una destacada trayectoria en el servicio público, así como una sólida formación en temas de gobernanza y políticas públicas.
+
+Con esta designación, e**l Presidente de la República r**eafirma su compromiso con el fortalecimiento de la institucionalidad y el diálogo como pilares fundamentales para el desarrollo del país, concluye el [documento](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa").
+
+De la Gasca fue secretario Anticorrupción en el gobierno de Lenín Moreno y reemplaza a Arturo Félix Wong, quien fue delegado para negociar la compra de energía en Colombia.
+
+Wong cumplió las funciones de **ministro de Gobierno h**asta el domingo 10 de noviembre de 2024.
+
+El nuevo **Ministro de Gobierno** tiene formación en Criminalística y Ciencias Forenses y ha ejercido la docencia.
+
+> A la ciudadanía: [pic.twitter.com/wKiZMeSJHQ](https://t.co/wKiZMeSJHQ)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 11, 2024](https://twitter.com/Presidencia_Ec/status/1855957396826247646?ref_src=twsrc%5Etfw)
+
+Wong fue designado para la negociación a Colombia
+-------------------------------------------------
+
+El presidente de la República, Daniel Noboa, envió al entonces ministro de Gobierno, **Arturo Félix Wong,** a Colombia para la compra de energía. Así lo informó el Ejecutivo, este 10 de noviembre del 2024, en su cuenta de X.
+
+El país sufre apagones de hasta 12 horas diarias y el clima seco que no permite avizorar lluvias suficientes para el abastecimiento de energía. Ante ello, el presidente Daniel Noboa decidió enviar a Wong a Colombia “con el propósito de ejecutar la compra de energía para Ecuador”. 4
+
+Para el Mandatario en su tuit, dijo que la decisión es resultado de “la emergencia climática“. Por lo tanto, se “ha convertido a la energía en nuestra primera prioridad”.  
+
+> La emergencia climática ha convertido a la energía en nuestra primera prioridad. Por eso, he tomado la decisión de enviar como delegado del Gobierno a [@ArturoFelixWong](https://twitter.com/ArturoFelixWong?ref_src=twsrc%5Etfw) a Colombia, con el propósito de ejecutar la compra de energía para Ecuador.
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [November 10, 2024](https://twitter.com/DanielNoboaOk/status/1855757555445944472?ref_src=twsrc%5Etfw)
+
+Dos incendios se registran en Guayaquil este 11 de noviembre; una niña falleció
+===============================================================================
+
+Una unidad de la Metrovía se incendió en la vía a Daule. Es la cuarta unidad que se incendia en lo que va del año en Guayaquil.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Una unidad de la Metrovía se incendió en la vía a Daule.](https://www.elcomercio.com/wp-content/uploads/2024/11/metrovia-gye.jpg)
+
+Este lunes 11 de noviembre de 2024, **dos incendios se registraron en Guayaquil**. Uno de ellos a primeras horas de la madrugada.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este lunes 11 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-11-de-noviembre.html "Así funciona el Pico y placa en Quito este lunes 11 de noviembre")
+* [Nuevos horarios de cortes de luz en Quito para este lunes 11 y martes 12 de noviembre](https://www.elcomercio.com/actualidad/quito/nuevos-horarios-cortes-luz-lunes-martes.html "Nuevos horarios de cortes de luz en Quito para este lunes 11 y martes 12 de noviembre")
+* [Consejos de salud mental para sobrellevar los apagones](https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html "Consejos de salud mental para sobrellevar los apagones")
+
+Un incendio se dio en una vivienda
+----------------------------------
+
+Alrededor de la 01:00 de este lunes 11 de noviembre, **los organismos de socorro** fueron alertados de un incendio en una vivienda en Guayaquil.
+
+El incendio se registró en las calle**s Esmeraldas y 4 de Noviembre,** y se habría iniciado tras el corte de luz.
+
+Tras la alerta, las instituciones de emergencia se desplegaron al sitio. **El Cuerpo de Bomberos Guayaquil** acudió y hallaron en el interior de la **casa a una niña y a su abuela.**
+
+Los paramédicos les brindaron atención de primeros auxilios; sin embargo**, la menor falleció**. La persona de la tercera edad fue trasladada a una casa de salud para recibir atención médica adecuada.
+
+La Policía Nacional acudió también para brindar auxilio; así mismo, la empresa Segura EP realizó el monitoreo de la atención a la emergencia.
+
+El incendio se habría provocado por un cortocircuito **de un aparato electrónico** que estaba conectado; no obstante, se realizan investigaciones.
+
+> 📹 Desde el Centro de Operaciones de [#SeguraEP](https://twitter.com/hashtag/SeguraEP?src=hash&ref_src=twsrc%5Etfw) se visualiza la atención de [@BomberosGYE](https://twitter.com/BomberosGYE?ref_src=twsrc%5Etfw) en un incendio en las calles Esmeraldas y 4 de Noviembre. 🧯👨🏻‍🚒🚒[@PoliciaDMGZona8](https://twitter.com/PoliciaDMGZona8?ref_src=twsrc%5Etfw) se encuentra en el sitio brindando apoyo.  
+>   
+> Circule con precaución.[#AcciónSegura](https://twitter.com/hashtag/Acci%C3%B3nSegura?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oExhLypjdh](https://t.co/oExhLypjdh)
+> 
+> — Segura EP (@segura\_ep) [November 11, 2024](https://twitter.com/segura_ep/status/1855857921176830072?ref_src=twsrc%5Etfw)
+
+Una unidad de la Metrovía se incendió
+-------------------------------------
+
+Otra emergencia se registró este lunes 11 de noviembre en Guayaquil, esta vez en una unidad del Sistema de **Transporte Metrovía**, en el km 7,5 de la vía a Daule.
+
+La emergencia se dio pasadas las 06:30, cerca de la parada de la **Gallegos Lara.** Varios testigos compartieron videos en redes sociales donde se ven las llamas y una columna enorme de humo negro.
+
+La unidad de la metrovía quedó casi completamente consumida por el fuego. En imágenes se puede ver solo su esqueleto quemado.
+
+Personal del **Cuerpo de Bomberos Guayaquil** asistió a extinguir las llamas con cuatro unidades de combate y precautelar la seguridad de los transeúntes del sector.
+
+La **Policía Naciona**l también asistió a brindar asistencia. Hasta el momento no se conocen las causas del incendio ni si hay personas afectadas.
+
+> [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw)  
+> Una unidad de la metrovia se incendió en la vía a Daule antes de llegar a la parada de la Gallegos Lara [pic.twitter.com/jXzSwtqZO3](https://t.co/jXzSwtqZO3)
+> 
+> — Minuto & Medio (@MinMedio) [November 11, 2024](https://twitter.com/MinMedio/status/1855945702381089131?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este lunes 11 de noviembre
+================================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa es una medida que aplica el Municipio de Quito para controlar el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/11/transito-pico-y-placa.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementa para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Cierres viales en Quito se ejecutan desde el 8 de noviembre](https://www.elcomercio.com/actualidad/quito/cierres-viales-quito-se-ejecutan-desde-8-de-noviembre-6-de-diciembre.html "Cierres viales en Quito se ejecutan desde el 8 de noviembre")
+* [El incendio forestal en los Ilinizas fue controlado](https://www.elcomercio.com/actualidad/ecuador/incendio-forestal-ilinizas-controlado-mejia.html "El incendio forestal en los Ilinizas fue controlado")
+* [Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentaran-a-ocho-horas-desde-el-domingo-dice-ministra.html "Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir, 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 El inseguro seguro
 ==================
 
@@ -432,7 +588,7 @@ El Gobierno enviará a Arturo Félix Wong como su delegado para adquirir energí
 
 ![Daniel Noboa escribió en Twitter que enviará a Félix Wong a Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Daniel-Noboa.jpg)
 
-El **presidente** de la República, **Daniel Noboa**, enviará al **ministro de Gobierno, Arturo Félix Wong**, a Colombia para la compra de energía. Así lo informó el Ejecutivo, este **10 de noviembre del 2024**, en su cuenta de **X**.
+El **presidente** de la República, **Daniel Noboa**, enviará a **Arturo Félix Wong**, a Colombia para la compra de energía. Así lo informó el Ejecutivo, este **10 de noviembre del 2024**, en su cuenta de **X**.
 
 Más noticias
 ------------
@@ -955,153 +1111,3 @@ Por otra parte, la relación de Trump con Corea del Norte también es motivo de 
 Panchana señala que la **imprevisibilidad de ambas partes hace posible un nuevo episodio de tensiones** en la península coreana, especialmente si Trump busca **utilizar su relación con Corea del Norte** como estrategia frente a China. En un escenario de tensión creciente, **Japón y Corea del Sur** podrían verse forzados a reconsiderar sus estrategias de defensa regional.
 
 Finalmente, los expertos coinciden en que el regreso de Trump podría desestabilizar el frágil equilibrio de poder en Asia.
-
-Un organizador de las fiestas de P. Diddy detalló los excesos de los eventos
-============================================================================
-
-El costo de los eventos y los lujos que había fueron parte de las revelaciones.
--------------------------------------------------------------------------------
-
-![P. Diddy fue arrestado el 16 de septiembre de 2024. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/11/diddy-El-Comercio-8.jpg)
-
-**Un organizador de eventos**, que trabajó con [Sean “Diddy” Combs](https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html "https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html") en los años 2000, dice Infobae, contó detalles exclusivos sobre las famosas fiestas “**freak offs**” del rapero.
-
-En declaraciones hechas al _New York Post_, estas reuniones privadas requerían una inversión de hasta 500 mil dólares por evento y contaban con instalaciones de lujo, donde paredes y techos estaban cubiertos de espejos.
-
-### Más noticias
-
-* **[Yailin la Más Viral se pelea en un juego de baloncesto](https://www.elcomercio.com/afull/yailinlamasviral-pelea-baloncesto.html "https://www.elcomercio.com/afull/yailinlamasviral-pelea-baloncesto.html")**
-* **[Fallece Tony Todd, estrella de la película de terror ‘Candyman’](https://www.elcomercio.com/tendencias/tony-todd-candiman-destino-final.html "https://www.elcomercio.com/tendencias/tony-todd-candiman-destino-final.html")**
-
-“Por todas partes donde miraras, te veías reflejado una y otra vez”, mencionó la fuente, quien prefirió mantener su identidad en reserva, pero cuya relación laboral con Combs fue verificada.
-
-**Los detalles de las controversiales fiestas de P. Diddy**
------------------------------------------------------------
-
-Estas fiestas de P. Diddy eran generalmente organizadas para coincidir con eventos mediáticos como los **[MTV Video Music Awards](https://www.mtv.com/vma "https://www.mtv.com/vma")** o el **[Super Bowl](https://es.wikipedia.org/wiki/Super_Bowl "https://es.wikipedia.org/wiki/Super_Bowl")**. Las celebraciones indicó la fuente incluían **comida gourmet, alcohol de lujo, bailarines, acróbatas y hasta animales vivos**.
-
-La fuente indicó que Combs también contrataba modelos para sus eventos, aunque algunos parecían más bien trabajar como acompañantes. “Puedes imaginar cómo se vería cuando la gente está desnuda y teniendo relaciones en el suelo, en los sofás, donde sea”, añadió el organizador.
-
-El _New York Post_ tuvo acceso a más de dos docenas de videos que muestran el contenido de estas reuniones, en los cuales incluso se sugiere la participación directa de Combs.
-
-En marzo de 2024, las autoridades federales allanaron propiedades de Diddy e incautaron videos y elementos como botellas de aceite para bebés y lubricantes.
-
-Los fiscales alegan que estos eventos no solo eran lujosos, sino que también involucraban actividades ilegales y un abuso de poder sobre los asistentes, controlados a través de drogas y amenazas. **[Sean Combs](https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-juicio-trafico-sexual.html "https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-juicio-trafico-sexual.html")** enfrenta cargos de conspiración, tráfico y prostitución, aunque se ha declarado no culpable.
-
-Libertad sorprendió y goleó a un desganado El Nacional en Latacunga
-===================================================================
-
-El cuadro lojano logró una importante victoria ante El Nacional que le mantiene 'con vida' en la Serie A.
----------------------------------------------------------------------------------------------------------
-
-![Los lojanos aprovecharon las oportunidades de marcar y lograron una importante victoria de visita](https://www.elcomercio.com/wp-content/uploads/2024/11/libertad-el-nacional.jpg)
-
-**Libertad** sorprendió a **El Nacional** en su visita al estadio de **La Cocha**, en Latacunga, provincia de Cotopaxi. Luego de conseguir no solo la victoria, sino también una **goleada** poco esperada, los lojanos buscan mantenerse en la **Serie A** y salvarse del descenso, a falta de dos fechas.
-
-### Más noticias
-
-* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
-* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
-* [La Selección de Ecuador tiene dos sorprendentes regresos](https://www.elcomercio.com/deportes/seleccion-ecuador-regreso-carlos-gruezo-angel-mena-beccacece.html "La Selección de Ecuador tiene dos sorprendentes regresos")
-
-El **atípico partido** de la décima tercera fecha de la segunda etapa jugado a las 10:30 de este domingo 10 de noviembre tuvo **dos equipos completamente distintos**.
-
-Por un lado, un Libertad que luchó cada bola disputada, que se mantuvo concentrado en el juego y no desaprovechó los **errores rivales**; y por otro, **un cuadro militar sin entrega**, desordenado y que presentó, quizá, su peor partido del año.
-
-El marcador se abrió temprano. Al **minuto 2**, los naranjas ya ganaban a los rojos tras una pelota parada que se decantó en errores defensivos de El Nacional y varios rebotes. **Diego Ávila** fue el encargado de abrir la goleada.
-
-En otro tiro de esquina nació el **segundo tanto** de Libertad. **Bryan Caicedo** marcó de cabeza y amplió la ventaja a los 36′.
-
-**Siete minutos** más tarde, a los 43′, el partido se concretó. Libertad logró el **0 a 3** tras una jugada colectiva en el área que definió **Nixon Molina**[.](https://ligapro.ec/tabla-de-posiciones/ "https://ligapro.ec/tabla-de-posiciones/")
-
-> Goleada a domicilio 🚚  
->   
-> Nixon Molina llegó como delantero para definir con tranquilidad y conseguir el 0-3 para [@LibertadFC3](https://twitter.com/LibertadFC3?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FK9DaO3Zpa](https://t.co/FK9DaO3Zpa)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 10, 2024](https://twitter.com/zapping_ecu/status/1855646999862816900?ref_src=twsrc%5Etfw)
-
-Con el pitazo del árbitro de la finalización del primer tiempo, las cosas en La Cocha quedaron claras: Libertad se estaba jugando su **permanencia** en la máxima categoría nacional, mientras que los jugadores de El Nacional se presentaron en la cancha para cumplir con la jornada.
-
-Goleada de Libertad se amplió
------------------------------
-
-El **segundo tiempo** en Latacunga fue mero trámite. Con el amplio resultado a favor de los lojanos, el equipo visitante bajó sus intenciones de ir para adelante y aprovechó cada error que cometía la defensa ‘criolla’.
-
-Los finalistas de la **Copa Ecuador** no respondían a ningún ataque; solo por ocasiones, mostraban ideas de juego colectivo que terminaban en ocasiones desaprovechadas de gol.
-
-**Cristian Penilla** sentenció cualquier esperanza militar de recuperarse al minuto 58.
-
-El defensor **Daniel Patiño** cometió un desastroso error en el área con el que regaló el balón al capitán de Libertad. Penilla no dudó en rematar y puso el **humillante 0-4**, ante la molestia del reducido grupo de hinchas militares que acompañaron a su equipo.
-
-> Nuevo error, nuevo gol 😅  
->   
-> Cristian Penilla recuperó y no dudó en concretar el 0-4 para [@LibertadFC3](https://twitter.com/LibertadFC3?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zHxSqYndah](https://t.co/zHxSqYndah)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 10, 2024](https://twitter.com/zapping_ecu/status/1855656362014818539?ref_src=twsrc%5Etfw)
-
-**Gabriel Cortez** redujo la goleada a 1-4 en el minuto 67. El mediocampista aprovechó los espacios generados en el área tras una pared y disparó con fuerza al arco.
-
-Los **últimos 20 minutos** del partido pasaron desapercibidos en La Cocha. Los ‘criollos’ mostraron su falta de entrega, relacionada con la falta de pagos que acumula la plantilla. Libertad, por su parte, intentó incrementar el abultado marcador, pero sus delanteros no se mostraron finos.
-
-La goleada, que **pudo terminar en más**, puso a la pelea a los lojanos para evitar el **descenso**.
-
-Con el **merecido resultado** obtenido en su visita, la tabla acumulada de la Liga Pro los deja en el **puesto 14**, con 23 puntos y -16 goles de diferencia.
-
-A sus rivales directos, Cuenca, Cumbayá e Imbabura les resta jugar sus partidos de esta fecha. Cumbayá visitará a **Barcelona** este domingo, mientras que **Imbabura y Cuenca** se enfrentarán el lunes en la provincia del norte.
-
-De los 16 equipos de la Serie A, quienes queden en los **dos últimos puestos** pierden la categoría.
-
-> Final del Partido.  
->   
-> 🆚 [#ElNacionalLibertad](https://twitter.com/hashtag/ElNacionalLibertad?src=hash&ref_src=twsrc%5Etfw) 1×4  
-> 🏆 [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WhAkp1pxEf](https://t.co/WhAkp1pxEf)
-> 
-> — Club Deportivo El Nacional (@elnacionalec) [November 10, 2024](https://twitter.com/elnacionalec/status/1855663523876999458?ref_src=twsrc%5Etfw)
-
-Masacre en Querétaro deja víctimas mortales
-===========================================
-
-Las autoridades siguieron las cámaras de seguridad para identificar el auto de los presuntos responsables.
-----------------------------------------------------------------------------------------------------------
-
-![Los armados destruyeron la camioneta con la que se movilizaban.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ataque-Queretaro.jpg)
-
-Diez personas, tres mujeres y siete hombres, murieron en un **ataque armado** en un bar de **Querétaro**, en el centro de **México**. Al menos siete personas más resultaron heridas. La Fiscalía General del Estado (FGE) informó de lo ocurrido este 10 de noviembre[.](https://es.wikipedia.org/wiki/Quer%C3%A9taro "https://es.wikipedia.org/wiki/Quer%C3%A9taro")
-
-Más noticias
-------------
-
-* [Un tiroteo cerca del metro de New York afectó el servicio](https://www.elcomercio.com/actualidad/mundo/un-tiroteo-cerca-del-metro-de-new-york-afecto-el-servicio.html "Un tiroteo cerca del metro de New York afectó el servicio")
-* [Autoridades desmienten tiroteo y heridos en Naranjito](https://www.elcomercio.com/actualidad/autoridades-desmienten-tiroteo-y-heridos-en-naranjito.html "Autoridades desmienten tiroteo y heridos en Naranjito")
-* [Siete personas fueron acribilladas en Manta en medio de una fiesta](https://www.elcomercio.com/actualidad/seguridad/siete-personas-acribilladas-manta-fiesta-cumpleanos-fallecidos.html "Siete personas fueron acribilladas en Manta en medio de una fiesta")
-
-En un comunicado, la **Fiscalía** explicó que la **Secretaría de Seguridad Pública Municipal** de **Querétaro** reportó la agresión en un bar de la zona centro de la capital del estado. Tras recibir esta información, se abrió la investigación correspondiente.
-
-Investigación de las autoridades sobre el ataque en Querétaro
--------------------------------------------------------------
-
-Agentes de **Servicios Periciales** llegaron al lugar y confirmaron el fallecimiento de 10 personas (7 hombres y 3 mujeres).
-
-Recolectaron también los **indicios balísticos** necesarios. En el municipio de El Marqués, otro equipo identificó un vehículo vinculado con el ataque.
-
-Comunicado de las autoridades sobre el ataque en Querétaro
-----------------------------------------------------------
-
-El secretario de Seguridad Pública Municipal, **Juan Luis Ferrusca Ortiz**, informó en un video en **redes** **sociales** que el ataque se reportó a emergencias después de las 21:00. En ese momento, también se notificó la detención de una persona.
-
-“Reportaron detonaciones de arma de fuego en la calle de **Circunvalación**, específicamente en el bar Los Cantaritos”, explicó el jefe de la policía.
-
-“Al lugar llegaron los cuerpos de **emergencia** y corroboraron que al menos cuatro personas armadas, con armas largas, llegaron en una camioneta. La camioneta fue identificada y se obtuvieron los números de placas”, señaló Ferrusca Ortiz.
-
-Confirmación de víctimas mortales durante el ataque armado
-----------------------------------------------------------
-
-El jefe policial añadió que en el interior del bar **murieron 10 personas** y al menos siete más sufrieron **lesiones**.
-
-También informó que los agresores abandonaron el vehículo en el municipio **El Marqués**, donde lo incendiaron.
-
-Por otro lado, el gobernador de **Querétaro**, Mauricio Kuri, publicó un mensaje en redes sociales. Afirmó que “todo el sistema de seguridad de **Querétaro** se moviliza para capturar a los **criminales** que atacaron un restaurante de la capital”.
-
-“Castigaremos a los responsables de este acto brutal. Seguiremos blindando nuestras fronteras y manteniendo la seguridad de nuestro **Estado**“, señaló Kuri. También ordenó brindar atención a los familiares de las personas fallecidas.
-
-Finalmente, **Querétaro**, estado vecino de **Guanajuato** en el centro de **México**, ha experimentado un incremento en la violencia en los últimos meses. Este aumento se debe, en gran medida, a la disputa territorial entre el Cártel Jalisco Nueva Generación, el Cártel de Sinaloa y el Cártel de Santa Rosa de Lima.
