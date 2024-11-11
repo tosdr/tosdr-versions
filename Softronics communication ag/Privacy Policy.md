@@ -22,6 +22,8 @@
     * [Virtual Server](https://server.softronics.ch/en/login/)
     * [DNS Admin](https://dnsadmin.softronics.ch/)
 
+[DE](https://www.softronics.ch/de/ueber-uns/datenschutz) [EN](https://www.softronics.ch/en/about-us/privacy)
+
 [![Softronics Logo](https://static.softronics.ch//img/logo.jpg)
 
 Softronics Easy. Flexible. Close](https://www.softronics.ch/en)
@@ -136,8 +138,6 @@ Register your desired domain quickly and easily. Choose from over 700 domain ext
     Register your desired domain quickly and easily. Choose from over 700 domain extensions at attractive conditions.
     
 
-* [EN](#)
-    * [DEDeutsch](https://www.softronics.ch/de/ueber-uns/datenschutz)
 * [USD](#)
     * [CHF](#)
     * [EUR](#)
