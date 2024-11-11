@@ -80,7 +80,7 @@ Menu Chiudi
 
 [Menù e ricerca per No JavaScript](https://www.lealternative.net/menu/)
 
-Unisciti alle comunità di Le Alternative: [![Logo di Feddit](/wp-content/uploads/2024/05/feddit5.webp)](https://feddit.it/c/lealternative) [![Logo di Signal](/wp-content/uploads/2024/05/logosignal.webp.pagespeed.ce.JqkWzUOFC-.webp)](https://fedd.it/signal) [![Logo di SimpleX Chat](/wp-content/uploads/2024/09/xsimplex-ok.png.pagespeed.ic._IBfgBDua2.png)](https://fedd.it/simplex) [![Logo di Telegram](/wp-content/uploads/2024/05/telegram.webp)](https://t.me/LeAlternativeGruppoUfficiale) [![Logo di Matrix](/wp-content/uploads/2024/05/matrix3.webp)](https://matrix.to/#/#lealternative-spazio:matrix.org) [![Logo di WhatsApp](/wp-content/uploads/2024/05/Digital_Glyph_Green.webp)](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
+Unisciti alle comunità di Le Alternative: [![Logo di Feddit](/wp-content/uploads/2024/05/feddit5.webp.pagespeed.ce.TTpf2nUF0p.webp)](https://feddit.it/c/lealternative) [![Logo di Signal](/wp-content/uploads/2024/05/logosignal.webp.pagespeed.ce.JqkWzUOFC-.webp)](https://fedd.it/signal) [![Logo di SimpleX Chat](/wp-content/uploads/2024/09/xsimplex-ok.png.pagespeed.ic._IBfgBDua2.png)](https://fedd.it/simplex) [![Logo di Telegram](/wp-content/uploads/2024/05/telegram.webp.pagespeed.ce.cxTXVBHUiZ.webp)](https://t.me/LeAlternativeGruppoUfficiale) [![Logo di Matrix](/wp-content/uploads/2024/05/matrix3.webp)](https://matrix.to/#/#lealternative-spazio:matrix.org) [![Logo di WhatsApp](/wp-content/uploads/2024/05/Digital_Glyph_Green.webp)](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
 
 Privacy Policy completa
 =======================
@@ -193,7 +193,7 @@ Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accet
 * [WhatsApp](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
 * [Facebook](https://www.facebook.com/LeAlternative.net)
 * [Instagram](https://www.instagram.com/_le_alternative/)
-* [Discord](https://discord.gg/NhYJ2HNsRN)
+* [Discord](https://discord.gg/8H66M2EG)
 * [Pinterest](https://www.pinterest.it/le_alternative/)
 * [Youtube](https://www.youtube.com/@lealternative)
 * [Google News](https://news.google.com/s/CBIwrIyQxEQ)
