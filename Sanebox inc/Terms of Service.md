@@ -265,4 +265,4 @@ _These TOS were last modified January 6, 2021._
 
 © Copyright 2024 SaneBox, Inc.
 
-[TikTok](https://www.tiktok.com/@sanebox "TikTok")[Instagram](https://www.instagram.com/teamsanebox/ "Instagram")[Facebook](https://www.facebook.com/SaneBox "Facebook")[X](https://www.twitter.com/sanebox "X")[LinkedIn](https://www.linkedin.com/company/sanebox "LinkedIn")
+[YouTube](https://www.youtube.com/@sanebox "YouTube")[TikTok](https://www.tiktok.com/@sanebox "TikTok")[Instagram](https://www.instagram.com/teamsanebox/ "Instagram")[Facebook](https://www.facebook.com/SaneBox "Facebook")[X](https://www.twitter.com/sanebox "X")[LinkedIn](https://www.linkedin.com/company/sanebox "LinkedIn")
