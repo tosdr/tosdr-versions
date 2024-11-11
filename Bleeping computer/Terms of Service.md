@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Windows Server 2025 released—here are the new features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows 11 is adding a 'Share' button to the Start menu and Taskbar](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows Server 2025 released—here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-released-here-are-the-new-features/)
-    * [![Schneider Electric confirms dev platform breach after hacker steals data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows 11 is adding a 'Share' button to the Start menu and Taskbar](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
+    * [![Microsoft says recent Windows 11 updates break SSH connections](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Schneider Electric confirms dev platform breach after hacker steals data](https://www.bleepingcomputer.com/news/security/schneider-electric-confirms-dev-platform-breach-after-hacker-steals-data/)
-    * [![Custom ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft says recent Windows 11 updates break SSH connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-11-updates-break-ssh-connections/)
+    * [![Google says “Enhanced protection” feature in Chrome now uses AI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Custom "Pygmy Goat" malware used in Sophos Firewall hack on govt network](https://www.bleepingcomputer.com/news/security/custom-pygmy-goat-malware-used-in-sophos-firewall-hack-on-govt-network/)
-    * [![Windows infected with backdoored Linux VMs in new phishing attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Google says “Enhanced protection” feature in Chrome now uses AI](https://www.bleepingcomputer.com/news/google/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
+    * [![Palo Alto Networks warns of potential PAN-OS RCE vulnerability](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
+        Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
     
+    * [![Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-server-2025-automatic-upgrades-on-third-party-tools/)
+    * [![Halliburton reports $35 million loss after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Halliburton reports $35 million loss after ransomware attack](https://www.bleepingcomputer.com/news/security/halliburton-reports-35-million-loss-after-ransomware-attack/)
     * [![This $30 cybersecurity course deal helps prepare for certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This $30 cybersecurity course deal helps prepare for certifications](https://www.bleepingcomputer.com/offer/deals/this-30-cybersecurity-course-deal-helps-prepare-for-certifications/)
     * [![Windows 11 is adding a 'Share' button to the Start menu and Taskbar](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 11 is adding a 'Share' button to the Start menu and Taskbar](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
-    * [![Microsoft investigates OneDrive issue causing macOS app freezes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft investigates OneDrive issue causing macOS app freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
-    * [![Hackers now use ZIP file concatenation to evade detection](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
