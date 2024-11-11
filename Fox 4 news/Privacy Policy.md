@@ -405,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Boil water notice issued in Alvord](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111024-alvord-boil-water-notice.jpg?ve=1&tl=1)
+
+ ![Boil water notice issued in Alvord](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111024-alvord-boil-water-notice.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boil-water-notice-issued-alvord)
+
+### [Boil water notice issued in Alvord](https://www.fox4news.com/news/boil-water-notice-issued-alvord)
+
+ [![Jerry Jones shuts down calls for curtains at AT&T Stadium](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1409609090.jpg?ve=1&tl=1)
+
+ ![Jerry Jones shuts down calls for curtains at AT&T Stadium](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1409609090.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-curtains-att-stadium-sun)
+
+### [Jerry Jones shuts down calls for curtains at AT&T Stadium: 'We know where the sun is going to be'](https://www.fox4news.com/sports/jerry-jones-curtains-att-stadium-sun)
+
+ [![DeSoto woman shot armed man attempting to break into home, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
+
+ ![DeSoto woman shot armed man attempting to break into home, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-shooting-friday-raintree-circle-octavio-flores-mondragon)
+
+### [DeSoto woman shot armed man attempting to break into home, police say](https://www.fox4news.com/news/desoto-shooting-friday-raintree-circle-octavio-flores-mondragon)
+
+ [![Escaped monkeys update: More than half safely recovered, several still on the loose](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183211739.jpg?ve=1&tl=1)
+
+ ![Escaped monkeys update: More than half safely recovered, several still on the loose](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183211739.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/escaped-monkeys-south-carolina)
+
+### [Escaped monkeys update: More than half safely recovered, several still on the loose](https://www.fox4news.com/news/escaped-monkeys-south-carolina)
+
  [![Dallas murder suspect, 18, believed to be in country illegally, records show](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jason-steven-dallas.jpg?ve=1&tl=1)
 
  ![Dallas murder suspect, 18, believed to be in country illegally, records show](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jason-steven-dallas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-jason-steven)
 
 ### [Dallas murder suspect, 18, believed to be in country illegally, records show](https://www.fox4news.com/news/dilido-road-shooting-jason-steven)
-
- [![Hurts accounts for 4 TDs as Eagles roll past bumbling, Prescott-less Cowboys 34-6](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2183450424-scaled.jpg?ve=1&tl=1)
-
- ![Hurts accounts for 4 TDs as Eagles roll past bumbling, Prescott-less Cowboys 34-6](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183450424-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/hurts-accounts-4-tds-eagles-roll-past-bumbling-prescott-less-cowboys-34-6)
-
-### [Hurts accounts for 4 TDs as Eagles roll past bumbling, Prescott-less Cowboys 34-6](https://www.fox4news.com/sports/hurts-accounts-4-tds-eagles-roll-past-bumbling-prescott-less-cowboys-34-6)
-
- [![The Dallas Cowboys just set an NFL record no team wants to hold](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2183450610.jpg?ve=1&tl=1)
-
- ![The Dallas Cowboys just set an NFL record no team wants to hold](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183450610.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-just-set-nfl-record-no-team-wants-hold)
-
-### [The Dallas Cowboys just set an NFL record no team wants to hold](https://www.fox4news.com/sports/dallas-cowboys-just-set-nfl-record-no-team-wants-hold)
-
- [![Tuskegee University Homecoming Week shooting leaves 1 dead, 16 injured](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-564087035-scaled.jpg?ve=1&tl=1)
-
- ![Tuskegee University Homecoming Week shooting leaves 1 dead, 16 injured](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-564087035-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tuskegee-university-homecoming-week-shooting-2024)
-
-### [Tuskegee University Homecoming Week shooting leaves 1 dead, 16 injured](https://www.fox4news.com/news/tuskegee-university-homecoming-week-shooting-2024)
-
- [![What was the fireball in the sky over North Texas?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/e7951119c3f06aeaa6fc6ab3ad814be5.jpg?ve=1&tl=1)
-
- ![What was the fireball in the sky over North Texas?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/e7951119c3f06aeaa6fc6ab3ad814be5.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/what-was-fireball-sky-over-north-texas)
-
-### [What was the fireball in the sky over North Texas?](https://www.fox4news.com/news/what-was-fireball-sky-over-north-texas)
 
 ###### [News](https://www.fox4news.com/news)
 
