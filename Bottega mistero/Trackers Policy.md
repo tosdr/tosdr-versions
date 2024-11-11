@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/non-vorrei-mai-far-parte-un-club-accettasse-suoi-soci-uno/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/deep-dark-fears/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
