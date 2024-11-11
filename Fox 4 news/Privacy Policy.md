@@ -405,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![VIDEO: Trapped toddler rescued from burning apartment in Granbury](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-10-131121.png?ve=1&tl=1)
+ [![Dallas murder suspect, 18, believed to be in country illegally, records show](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jason-steven-dallas.jpg?ve=1&tl=1)
 
- ![VIDEO: Trapped toddler rescued from burning apartment in Granbury](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-10-131121.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-trapped-toddler-rescued-from-burning-apartment-granbury)
+ ![Dallas murder suspect, 18, believed to be in country illegally, records show](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jason-steven-dallas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-jason-steven)
 
-### [VIDEO: Trapped toddler rescued from burning apartment in Granbury](https://www.fox4news.com/news/video-trapped-toddler-rescued-from-burning-apartment-granbury)
+### [Dallas murder suspect, 18, believed to be in country illegally, records show](https://www.fox4news.com/news/dilido-road-shooting-jason-steven)
 
- [![AMBER Alert Update: Missing 16-year-old girl in Hunt County found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/hunt-co-amber-alert.jpg?ve=1&tl=1)
+ [![Hurts accounts for 4 TDs as Eagles roll past bumbling, Prescott-less Cowboys 34-6](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2183450424-scaled.jpg?ve=1&tl=1)
 
- ![AMBER Alert Update: Missing 16-year-old girl in Hunt County found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/hunt-co-amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
+ ![Hurts accounts for 4 TDs as Eagles roll past bumbling, Prescott-less Cowboys 34-6](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183450424-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/hurts-accounts-4-tds-eagles-roll-past-bumbling-prescott-less-cowboys-34-6)
 
-### [AMBER Alert Update: Missing 16-year-old girl in Hunt County found safe](https://www.fox4news.com/news/amber-alert-jordan-maceachran-hunt-county)
+### [Hurts accounts for 4 TDs as Eagles roll past bumbling, Prescott-less Cowboys 34-6](https://www.fox4news.com/sports/hurts-accounts-4-tds-eagles-roll-past-bumbling-prescott-less-cowboys-34-6)
 
- [![2 dead in McKinney shooting Saturday evening](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111024-sh-mckinney-pd-shooting-fx-chestnut-colorad_00.03.31.26.jpg?ve=1&tl=1)
+ [![The Dallas Cowboys just set an NFL record no team wants to hold](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2183450610.jpg?ve=1&tl=1)
 
- ![2 dead in McKinney shooting Saturday evening](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111024-sh-mckinney-pd-shooting-fx-chestnut-colorad_00.03.31.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-dead-mckinney-shooting-saturday-evening)
+ ![The Dallas Cowboys just set an NFL record no team wants to hold](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183450610.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-just-set-nfl-record-no-team-wants-hold)
 
-### [2 dead in McKinney shooting Saturday evening](https://www.fox4news.com/news/2-dead-mckinney-shooting-saturday-evening)
+### [The Dallas Cowboys just set an NFL record no team wants to hold](https://www.fox4news.com/sports/dallas-cowboys-just-set-nfl-record-no-team-wants-hold)
 
- [![US Marine Corps celebrating 249th birthday](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-56136361-scaled.jpg?ve=1&tl=1)
+ [![Tuskegee University Homecoming Week shooting leaves 1 dead, 16 injured](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-564087035-scaled.jpg?ve=1&tl=1)
 
- ![US Marine Corps celebrating 249th birthday](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-56136361-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/us-marine-corps-birthday-249-nov-10)
+ ![Tuskegee University Homecoming Week shooting leaves 1 dead, 16 injured](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-564087035-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tuskegee-university-homecoming-week-shooting-2024)
 
-### [US Marine Corps celebrating 249th birthday](https://www.fox4news.com/news/us-marine-corps-birthday-249-nov-10)
+### [Tuskegee University Homecoming Week shooting leaves 1 dead, 16 injured](https://www.fox4news.com/news/tuskegee-university-homecoming-week-shooting-2024)
 
- [![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/gettyimages-2183216502-scaled.jpg?ve=1&tl=1)
+ [![What was the fireball in the sky over North Texas?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/e7951119c3f06aeaa6fc6ab3ad814be5.jpg?ve=1&tl=1)
 
- ![Donald Trump wins Arizona and its 11 electoral votes, flipping the state red again](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183216502-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/donald-trump-wins-arizona-its-11-electoral-votes-flipping-state-red-again)
+ ![What was the fireball in the sky over North Texas?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/e7951119c3f06aeaa6fc6ab3ad814be5.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/what-was-fireball-sky-over-north-texas)
 
-### [Donald Trump wins Arizona and its 11 electoral votes](https://www.fox4news.com/election/donald-trump-wins-arizona-its-11-electoral-votes-flipping-state-red-again)
+### [What was the fireball in the sky over North Texas?](https://www.fox4news.com/news/what-was-fireball-sky-over-north-texas)
 
 ###### [News](https://www.fox4news.com/news)
 
