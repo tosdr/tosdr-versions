@@ -29,16 +29,16 @@ Search[](https://podnews.net/search)
 About this website
 ==================
 
-Oct 1, 2024 · First published August 23 2018 · By [![James Cridland](https://podnews.net/static/authors/james-cridland.jpg)](https://james.cridland.net/) [James Cridland](https://james.cridland.net/) · 5 minutes to read
+Nov 11, 2024 · First published August 23 2018 · By [![James Cridland](https://podnews.net/static/authors/james-cridland.jpg)](https://james.cridland.net/) [James Cridland](https://james.cridland.net/) · 5.1 minutes to read
 
 This website, our newsletter and our podcast are intended to be a quick, daily update with global news for those involved in podcasting and on-demand audio. It launched in May 2017.
 
 * [Here’s how to submit a news story to us](https://podnews.net/article/submissions-and-disclosures), and our relevant editorial disclosures.
 * [Here’s how to submit a podcast for news coverage](https://podnews.net/article/submit-a-podcast-to-us).
 
-As of November 10, 2024, we have **32,259** active newsletter subscribers, based [all round the world](https://podnews.net/about/subscriber-countries). We have an average open-rate of around 43%, significantly above the industry average. Our podcast achieved [**68,069** downloads last month](https://op3.dev/show/55f8007aec094899a02fd44273aa6558?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23). Our website’s articles (daily newsletters and in-depth articles only) have been viewed **2,131,590** times over the past 30 days.
+As of November 11, 2024, we have **32,260** active newsletter subscribers, based [all round the world](https://podnews.net/about/subscriber-countries). We have an average open-rate of around 43%, significantly above the industry average. Our podcast achieved [**68,069** downloads last month](https://op3.dev/show/55f8007aec094899a02fd44273aa6558?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23). Our website’s articles (daily newsletters and in-depth articles only) have been viewed **2,131,590** times over the past 30 days.
 
-Our [privacy-aware](https://podnews.net/privacy) website achieves a carbon rating of A+, and in May 2024 was cleaner than [93%](https://www.websitecarbon.com/website/podnews-net/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23) of webpages globally.
+Our [privacy-aware](https://podnews.net/privacy) website achieves a carbon rating of A+, and in Nov 2024 was cleaner than [93%](https://www.websitecarbon.com/website/podnews-net/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23) of webpages globally, with 0.08g of CO2 per page load.
 
 > “Looking at our incoming web traffic sources, it’s obvious that our audience trusts Podnews the most for their podcasting news.” - a Director of Growth Marketing for a podcast advertising company
 
@@ -56,9 +56,7 @@ And, of course, we’ve [plenty of RSS feeds and other integrations](https://pod
 Editorial team information
 --------------------------
 
-![An embedded video](https://i.podnews.network/r/y/0/NSGaoxDdmA8.jpeg)
-
-Click to play this video from YouTube[YouTube’s privacy policy](https://www.youtube.com/t/privacy)
+![James Cridland, Podnews Editor](https://podnews.net/static/inline/james-cridland-sponsor%241024x682.jpg)
 
 It is curated by [James Cridland](https://james.cridland.net/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net%3A2018-08-23). With over 28 years in the radio and online business, in 2005 James helped launch the first daily podcast from a UK radio station and the world’s first radio station streaming app, and has been operating online publications since 1993. He offers a truly international view: a Brit, living in Australia, working for companies across the world including North America. This daily newsletter is a unique opportunity to contextualise the international podcast landscape.
 
@@ -154,4 +152,5 @@ About Podnews
 
 [News](https://podnews.net/archive) · [Jobs](https://podnews.net/jobs) · [Events](https://podnews.net/events) · [Articles](https://podnews.net/articles) · [Directory](https://podnews.net/directory) · [Press Releases](https://podnews.net/press-releases) · [Advertise](https://podnews.net/article/advertising) · [About](https://podnews.net/about) · [Privacy](https://podnews.net/privacy)  
 [Contact Podnews](https://podnews.net/contact-us) · [Status](https://stats.uptimerobot.com/E36JBCIw7g) · © 2017-2024 Podnews LLC  
-[](https://go.podnews.net/miscreant.php)
+
+[storybook-overwhelming](https://go.podnews.net/miscreant.php)
