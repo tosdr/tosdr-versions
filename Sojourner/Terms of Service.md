@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-35508c9fd2262faafc1667f6d3ddb963
+5c014e17834a3c67694c535f32e19305
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Jet Swarovski clasp](https://sojourner.biz/images/cache/SKU0087front.200.jpg)](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
+[![Dragonfly earrings](https://sojourner.biz/images/cache/jewelry/E0059.200.webp)](https://sojourner.biz/jewelry/earrings/dragonfly-earrings.html "Dragonfly earrings")
 
-#### [Jet Swarovski clasp](https://sojourner.biz/clasps/swarovski/jet-swarovski-clasp.html "Jet Swarovski clasp")
+#### [Dragonfly earrings](https://sojourner.biz/jewelry/earrings/dragonfly-earrings.html "Dragonfly earrings")
 
-$27.00
+$57.00
 
 ### Best Sellers
 
