@@ -490,6 +490,16 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![A female service member smiles at a colleague.](/sites/default/files/styles/carousel_square_450x450_/public/2024-11/mcvsc_header-photo.jpg.webp?itok=9uSxONF2)
+
+**The organization giving back to America’s veterans**
+
+Mt. Carmel Veterans Service Center empowers veterans with health, wellness, employment support, and family services, using innovative data solutions to drive lasting impact.
+
+[Read their story onThe organization giving back to America’s veterans](https://www.everyaction.com/case-studies/organization-giving-back-americas-veterans)
+
+Impact Powered by:
+
 ![A group of people convene at the Arab American Family Support Center](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/arab-american-family-support-center_header-photo.png.webp?itok=nHJkcEbY)
 
 **Breaking down barriers for NYC immigrants**
@@ -553,16 +563,6 @@ Foundry Ministries helps people overcome life controlling problems such as subst
 Impact Powered by:
 
 * Case Management
-
-![Family who has benefitted from Home Repair Services](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/bonterra-home-repair-services_header-photo.jpg.webp?itok=PZyT7o1Z)
-
-**45 years of safer homes and stronger communities**
-
-Home Repair Services has strengthened communities for 45 years, completing 66,000+ repairs, teaching DIY workshops, and providing affordable solutions for vulnerable homeowners.
-
-[Read their story on45 years of safer homes and stronger communities](https://www.everyaction.com/case-studies/45-years-safer-homes-and-stronger-communities)
-
-Impact Powered by:
 
 Previous Next
 
