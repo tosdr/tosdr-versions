@@ -253,29 +253,29 @@ _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
-
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/11/QA-Patrick-Cai_crDave-Phillips-Thumbnail.webp)](https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/)
 
 [#### He’s Gleaning the Design Rules of Life to Re-Create It](https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/)
 
 _By_ [Shi En Kim](https://www.quantamagazine.org/authors/shienkim)
 
-[![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
-
-[#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
-
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Persuasive-LLMs_crNash-Weerasekera-Thumbnail.webp)](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
 
 [#### Debate May Help AI Models Converge on Truth](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
 
 _By_ [Stephen Ornes](https://www.quantamagazine.org/authors/stephen-ornes)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
+
+[![Animation in which tornadoes twirl amid a crystalline lattice.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Supersolids-crIbrahimRayintakath_RuiBrazThumbnail.webp)](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
+
+[#### Physicists Spot Quantum Tornadoes Twirling in a ‘Supersolid’](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
+
+_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
 
 The Quanta Newsletter
 
