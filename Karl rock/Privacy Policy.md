@@ -402,13 +402,13 @@ Top
     
     [List of common Hindi swear words (with formatting for blocklists)](https://blog.karlrock.com/list-of-common-hindi-swear-words/ "List of common Hindi swear words (with formatting for blocklists)")
     
-* [![How to Book a Train Ticket in India (For Foreigners)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/pexels-vishnudeep-dixit-1260805.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
-    
-    [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
-    
 * [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
     [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
+    
+* [![How to Book a Train Ticket in India (For Foreigners)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/pexels-vishnudeep-dixit-1260805.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
+    
+    [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
 * [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
@@ -418,9 +418,9 @@ Top
     
     [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
-* [![Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9105-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
+* [![Nankana Sahib Travel Super Guide](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/03/Karl-Rock-at-Nankana-Sahib-e1719486743489.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
     
-    [Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
+    [Nankana Sahib Travel Super Guide](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
