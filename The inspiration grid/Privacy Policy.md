@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/10/huion-kamvas-13-gen3-review-temp.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/huion-kamvas-13-gen-3-review-better-than-ever/)
+
+### Huion Kamvas 13 (Gen 3) Review: Better Than Ever
+
 ![](https://inspgr.id/app/uploads/2024/11/ayaneo-3-reveal-cover.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/wicked-discounts-some-of-our-favorite-ipad-accessories-are-on-sale-for-halloween/)
 
 ### Wicked Discounts: Some of our favorite iPad accessories are on sale for Halloween
-
-![](https://inspgr.id/app/uploads/2024/10/editorial-esr-charging-stand-review-feature.jpg)
-
-[Product Design](https://theinspirationgrid.com/category/product-design/)[Technology](https://theinspirationgrid.com/category/technology-2/)
-
-[](https://theinspirationgrid.com/editorial/esr-qi2-3-in-1-wireless-charging-station-review-keeping-it-cool/)
-
-### ESR Qi2 3-in-1 Wireless Charging Station Review: Keeping it Cool
 
 #want
 -----
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/design-beatles-toys-feature.jpg)
+
+[](https://theinspirationgrid.com/the-beatles-art-toys-by-collectable-cities/)
+
+### The Beatles Art Toys by Collectable Cities
+
+![](https://inspgr.id/app/uploads/2024/11/illustration-paykhan-feature.jpg)
+
+[](https://theinspirationgrid.com/amazing-illustrations-by-paykhan/)
+
+### Amazing Illustrations by Paykhan
+
 ![](https://inspgr.id/app/uploads/2024/11/design-good-dogs-feature.jpg)
 
 [](https://theinspirationgrid.com/good-dogs-a-celebration-of-canine-companions/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/dream-car-a-3d-tribute-by-tianchen-deng/)
 
 ### Dream Car: A 3D Tribute by TianChen Deng
-
-![](https://inspgr.id/app/uploads/2024/11/architecture-the-sphinx-feature.jpg)
-
-[](https://theinspirationgrid.com/the-sphinx-a-striking-minimalist-residence/)
-
-### The Sphinx: A Striking Minimalist Residence
-
-![](https://inspgr.id/app/uploads/2024/11/photography-reciprocal-feature.jpg)
-
-[](https://theinspirationgrid.com/reciprocal-ethereal-photos-by-zac-henderson/)
-
-### Reciprocal: Ethereal Photos by Zac Henderson
 
 Awesome products for creatives
 ------------------------------
