@@ -451,7 +451,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Customer Success](https://asana.com/customer-success)
 * [Developers and API](https://developers.asana.com/docs)
 * [Partners](https://asana.com/partners)
-* [Sitemap](https://asana.com/inside-asana/site-map)
+* [Sitemap](https://asana.com/site-map)
 
 * Company
 * [About us](https://asana.com/company)
