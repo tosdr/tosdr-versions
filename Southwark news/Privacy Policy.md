@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-360x180.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
+    
+    ### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
+    
     [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-360x180.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
     
     ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
@@ -51,11 +55,6 @@
     [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
     
     ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
-    
-    [![Image received via Southwark Council 
-    From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
-    
-    ### [Southwark theatres celebrated for leading the way on the London Living Wage](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-360x180.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
+    
+    ### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
+    
     [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-360x180.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
     
     ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
@@ -137,11 +140,6 @@ View All Result
     [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
     
     ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
-    
-    [![Image received via Southwark Council 
-    From left to right: Carly Fernandez, James Reed (Southwark Council), Marissa McKinnon, Cllr John Batteson, Suzann McLean, Bilan Suliman (back row), Lia Blomberg](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
-    
-    ### [Southwark theatres celebrated for leading the way on the London Living Wage](https://southwarknews.co.uk/area/south-bank/southwark-theatres-celebrated-for-leading-the-way-on-the-london-living-wage/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -385,6 +383,12 @@ Website
 
 ### Featured Articles
 
+[![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-120x86.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
+
+### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
+
+[11th November 2024](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
+
 [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
@@ -414,12 +418,6 @@ Website
 ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
 
 [10th November 2024](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
-
-[![Castle Square Christmas lights switch on last year.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-07-11-2024-at-12.50-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
-
-### [Giant Christmas tree lights switch on and Santa’s Grotto returns to Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
-
-[9th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/giant-christmas-tree-lights-switch-on-and-santas-grotto-returns-to-elephant-and-castle/)
 
 ### USEFUL PAGES
 
