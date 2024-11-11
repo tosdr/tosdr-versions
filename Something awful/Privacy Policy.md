@@ -205,26 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Toys: A Reality](https://www.somethingawful.com/comedy-goldmine/toys-a-reality/1/)
-* [101 Things to do with a Baby](https://www.somethingawful.com/comedy-goldmine/101-things-do/1/)
-* [More Art of Vampire: The Maquerade (1990s)](https://www.somethingawful.com/dungeons-and-dragons/vampire-artwork-montreal/1/)
-* [BeastForum, AnimeNation, and Girl.com.au](https://www.somethingawful.com/weekend-web/beastforum-animenation-girlcomau/1/)
+* [CONEX Convict Connections: "Sublime Situations"](https://www.somethingawful.com/news/conex-sublime-situations/1/)
+* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
+* [DEAR FURRIES: WE WERE WRONG](https://www.somethingawful.com/news/bolgy-wolgy/)
+* [Payneify the Planet](https://www.somethingawful.com/photoshop-phriday/payneify-the-planet/1/)
+* [Dungeons & Dragons: Deities & Demigods (Cthulhu Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-deities-demigods/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [SA gratitude journal](http://forums.somethingawful.com/showthread.php?threadid=4075072 "SA gratitude journal")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Native Heritage Month](http://forums.somethingawful.com/showthread.php?threadid=4075038 "Native Heritage Month")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [What are some dirty secrets about the industry you work in?](http://forums.somethingawful.com/showthread.php?threadid=4075100 "What are some dirty secrets about the industry you work in?")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Toxx for the Donnie stroke out itt.](http://forums.somethingawful.com/showthread.php?threadid=4075046 "Toxx for the Donnie stroke out itt.")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [can I do this (goon project)](http://forums.somethingawful.com/showthread.php?threadid=4075094 "can I do this (goon project)")
+* ![](https://fi.somethingawful.com/forums/posticons/phiz-crabcore.gif) [It sucks to be invisible](http://forums.somethingawful.com/showthread.php?threadid=4075107 "It sucks to be invisible")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [I want to go to jail](http://forums.somethingawful.com/showthread.php?threadid=4075039 "I want to go to jail")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [SASS 2024: This Time With Spirit Halloween](http://forums.somethingawful.com/showthread.php?threadid=4075097 "SASS 2024: This Time With Spirit Halloween")
 
 ### Random Articles
 
-* [Ain't Life Queer](https://www.somethingawful.com/news/aint-life-queer/)
-* [State Og Events: 2.1.2000 - 2.13.2000](https://www.somethingawful.com/state-og/state-og-events/)
-* [The Very Very Haunted House](https://www.somethingawful.com/flash-tub/very-very-haunted/)
-* [Walking Canes!](https://www.somethingawful.com/photoshop-phriday/walking-canes/1/)
-* [Aliens and UFO Art](https://www.somethingawful.com/awful-links/awful-link-3953/)
+* [Brokenbit\_h's Blog](https://www.somethingawful.com/awful-links/awful-link-2286/)
+* [TV Threshold: Two Extremes](https://www.somethingawful.com/feature-articles/mentalist-valentine/)
+* [2nd Grade AP Reading Exam](https://www.somethingawful.com/news/ap-reading-exam/)
+* [What's New on Netflix This Month!](https://www.somethingawful.com/news/netflix-june-2015/)
+* [August 17, 2009](https://www.somethingawful.com/forum-fridays/ff08-17-09/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
