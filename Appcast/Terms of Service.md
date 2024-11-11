@@ -1,6 +1,4 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                              
-
-[Skip to content](#content)
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                               [Skip to content](#content)
 
 [![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
 
