@@ -4,7 +4,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[SALE - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
+[Black Friday SALE - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
 
 [Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
 
@@ -52,12 +52,12 @@ The store will not work correctly in the case when cookies are disabled.
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-* [Sale](https://www.womanizer.com/eu/sale)
+* [Black Friday Sale](https://www.womanizer.com/eu/sale)
     
     * [Premium](https://www.womanizer.com/eu/premium)
-    * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
+    * [Next](https://www.womanizer.com/eu/next)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
-    * [Tease Me, Please Me Set](https://www.womanizer.com/eu/tease-me-please-me-set)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
@@ -66,6 +66,7 @@ The store will not work correctly in the case when cookies are disabled.
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
     * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
     * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
+    * [Arcwave Ion](https://www.womanizer.com/eu/arcwave-ion)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [InsideOut](https://www.womanizer.com/eu/insideout)
@@ -75,7 +76,6 @@ The store will not work correctly in the case when cookies are disabled.
     * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
-    * [We-Vibe Wand 2](https://www.womanizer.com/eu/we-vibe-wand-2)
     * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
