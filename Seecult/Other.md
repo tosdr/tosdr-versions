@@ -407,26 +407,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.msub.org.rs](https://www.msub.org.rs/)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
     
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    Mednarodni grafični likovni center/Švicarija, Grad Tivoli, Pod turnom 3, Ljubljana
     
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    **ANTONIO PICHILLÁ QUIACAÍN** (1982, San Pedro La Laguna, Sololá, Gvatemala): **DARITEV / THE OFFERING** - razstava (18.9.2024.-12.1.2025.)
     
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    [https://galeriaelviramoreno.com/artists/54-antonio-pichilla-quiacain/overview](https://galeriaelviramoreno.com/artists/54-antonio-pichilla-quiacain/overview)
     
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    Kustosinja razstave: Yasmín Martín Vodopivec
+    
+    [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/tamara-cvetic-n2.jpg?itok=cEwige0Z)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/its-z1/23-0214.jpg?itok=oqx_sOR7)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/its-z1)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/noc-muzeja/vojni-kazamati-noc-muzeja-2007/noc-muzeja-23.jpg?itok=tt5sK_JP)](http://seecult.org/galerija/foto-galerija/foto-arhiva/noc-muzeja/vojni-kazamati-noc-muzeja-2007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/zbogom-andergraund-mikrob/vodenje-zbogom-andergraund-pozega/7.jpg?itok=1HpdBa5S)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/zbogom-andergraund-mikrob/vo%C4%91enje-zbogom-andergraund)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -442,6 +444,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Hitovi 20. Slobodne zone na bis](http://seecult.org/vest/hitovi-20-slobodne-zone-na-bis)
 * [Nagrade 18. Animanime](http://seecult.org/vest/nagrade-18-animanime)
 * [Pobednici 22. ZFF-a](http://seecult.org/vest/pobednici-22-zff)
 * [Novo izdanje Filmova na štiklama](http://seecult.org/vest/novo-izdanje-filmova-na-stiklama)
@@ -451,7 +454,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminuo Zoran Đerić](http://seecult.org/vest/preminuo-zoran-deric)
 * [Stanje i (ne)moć medija](http://seecult.org/vest/stanje-i-nemoc-medija)
 * [Žilnik, Vida Ognjenović i Milena Marković među akademicima](http://seecult.org/vest/zilnik-vida-ognjenovic-i-milena-markovic-medu-akademicima)
-* [Gordost i predrasude uz klasnu i rodnu nejednakost](http://seecult.org/vest/gordost-i-predrasude-uz-klasnu-i-rodnu-nejednakost)
 
 * [Konkursi](#tab1_1)
 
