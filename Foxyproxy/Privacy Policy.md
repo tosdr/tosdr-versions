@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm actually quite impressed with the product \[GeoShift\].
+I love it! And have already re-upped with a new subscription.
 
-Dustin Personius
+Dan Klug
