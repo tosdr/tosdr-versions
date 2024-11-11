@@ -137,23 +137,24 @@ MSX Music player
 
 Latest reactions
 
+* [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
+* [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [Alley Cat for MSX 2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX 2 available for sale soon")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
-* [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [Darwin](https://www.msx.org/downloads/darwin "Darwin")
-* [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 
 Latest forum posts
 
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=75 "WonderTANG! Who wants to juice up your MSX?")
+* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us?page=1 "Pal system in the US")
+* [Omega keyboard switch for spacebar](https://www.msx.org/forum/msx-talk/hardware/omega-keyboard-switch-for-spacebar "Omega keyboard switch for spacebar")
 * [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=2 "How do I get to the 2nd and other partitions "drives"?")
 * [Discovering the Latest Interactive Games and Entertainment Trends for 2024](https://www.msx.org/forum/msx-talk/general-discussion/discovering-the-latest-interactive-games-and-entertainment-trends- "Discovering the Latest Interactive Games and Entertainment Trends for 2024")
-* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [Can't get the EGG Launcher to run](https://www.msx.org/forum/msx-talk/software/cant-get-the-egg-launcher-to-run "Can't get the EGG Launcher to run")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
@@ -162,7 +163,6 @@ Latest forum posts
 * [SM-X HDMI Revitalization Project](https://www.msx.org/forum/msx-talk/hardware/sm-x-hdmi-revitalization-project "SM-X HDMI Revitalization Project")
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
 * [The BIG MSXVR Q&A thread](https://www.msx.org/forum/msx-talk/hardware/the-big-msxvr-qa-thread?page=33 "The BIG MSXVR Q&A thread")
-* [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
