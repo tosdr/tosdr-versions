@@ -299,11 +299,35 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Молодая Гвардия» и «Волонтёрская Рота» проведут в новых регионах мероприятия в честь Дня матери](https://cdn.er.ru/media/news/November2024/Nv2ByNq2UqCrSdbxOjWT-small.png)](https://er.ru/activity/news/molodaya-gvardiya-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-v-chest-dnya-materi)
+
+[«Молодая Гвардия» и «Волонтёрская Рота» проведут в новых регионах мероприятия в честь Дня матери](https://er.ru/activity/news/molodaya-gvardiya-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-v-chest-dnya-materi)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956)
+
+Сегодня 17:34
+
+[![«Единая Россия» дала старт благотворительной акции «Коробка храбрости»](https://cdn.er.ru/media/news/November2024/tMgUIrSQ4rhV0wZBwmJx-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-blagotvoritelnoj-akcii-korobka-hrabrosti)
+
+[«Единая Россия» дала старт благотворительной акции «Коробка храбрости»](https://er.ru/activity/news/edinaya-rossiya-dala-start-blagotvoritelnoj-akcii-korobka-hrabrosti)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонникиЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=140476) [#Коробкахрабрости](https://er.ru/activity/news?tags%5B0%5D=1095019) [#медучреждения](https://er.ru/activity/news?tags%5B0%5D=5855) [#игрушки](https://er.ru/activity/news?tags%5B0%5D=5113) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
+
+Сегодня 17:05
+
+[![«Единая Россия» даст старт международной акции «Люди Артека» 15 ноября](https://cdn.er.ru/media/news/November2024/3sRX7dMMqZv8IQdeF10i-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dast-start-mezhdunarodnoj-akcii-lyudi-arteka-15-noyabrya)
+
+[«Единая Россия» даст старт международной акции «Люди Артека» 15 ноября](https://er.ru/activity/news/edinaya-rossiya-dast-start-mezhdunarodnoj-akcii-lyudi-arteka-15-noyabrya)
+
+[#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#Беларусь](https://er.ru/activity/news?tags%5B0%5D=5381) [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872)
+
+Сегодня 13:40
+
 [![Сергей Лавров: «Единая Россия» инициировала межпартийные процессы по противодействию практикам неоколониализма](https://cdn.er.ru/media/news/November2024/ftadDx6UqNrjyQVWRQ48-small.jpg)](https://er.ru/activity/news/sergej-lavrov-edinaya-rossiya-iniciirovala-mezhpartijnye-processy-po-protivodejstviyu-praktikam-neokolonializma)
 
 [Сергей Лавров: «Единая Россия» инициировала межпартийные процессы по противодействию практикам неоколониализма](https://er.ru/activity/news/sergej-lavrov-edinaya-rossiya-iniciirovala-mezhpartijnye-processy-po-protivodejstviyu-praktikam-neokolonializma)
 
-[#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#комиссия Генсовета](https://er.ru/activity/news?tags%5B0%5D=65650)
+[#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#Африка](https://er.ru/activity/news?tags%5B0%5D=382)
 
 Сегодня 12:40
 
@@ -311,7 +335,7 @@
 
 [Сергей Лавров: К следующей конференции по вопросам Евразийской безопасности мы постараемся разработать евразийскую хартию многообразия и многополярности](https://er.ru/activity/news/sergej-lavrov-k-sleduyushej-konferencii-po-voprosam-evrazijskoj-bezopasnosti-my-postaraemsya-razrabotat-evrazijskuyu-hartiyu-mnogoobraziya-i-mnogopolyarnosti)
 
-[#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
+[#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#Евразия](https://er.ru/activity/news?tags%5B0%5D=28959) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
 Сегодня 12:24
 
@@ -322,30 +346,6 @@
 [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#вмешательство](https://er.ru/activity/news?tags%5B0%5D=8270) [#конфликты](https://er.ru/activity/news?tags%5B0%5D=59211) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#Евразия](https://er.ru/activity/news?tags%5B0%5D=28959)
 
 Сегодня 12:15
-
-[![«Единая Россия» окажет содействие ветеранам СВО с трудоустройством на предприятия АПК](https://cdn.er.ru/media/news/November2024/zIHtGbUDkJQwIdqadCWW-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-okazhet-sodejstvie-veteranam-svo-s-trudoustrojstvom-na-predpriyatiya-apk)
-
-[«Единая Россия» окажет содействие ветеранам СВО с трудоустройством на предприятия АПК](https://er.ru/activity/news/edinaya-rossiya-okazhet-sodejstvie-veteranam-svo-s-trudoustrojstvom-na-predpriyatiya-apk)
-
-[#поддержкаучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1094235) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#Республика Мордовия](https://er.ru/activity/news?tags%5B0%5D=1090160) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#русскоесело](https://er.ru/activity/news?tags%5B0%5D=105010) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#Наумец](https://er.ru/activity/news?tags%5B0%5D=1095264) [#ветераныСВО](https://er.ru/activity/news?tags%5B0%5D=1095636)
-
-09.11.24
-
-[![Владимир Якушев и Владислав Шапша обсудили задачи «Единой России» в Калужской области на 2025 год](https://cdn.er.ru/media/news/November2024/sNLVLd9AXCO32VbvVoho-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-i-vladislav-shapsha-obsudili-zadachi-edinoj-rossii-v-kaluzhskoj-oblasti-na-2025-god)
-
-[Владимир Якушев и Владислав Шапша обсудили задачи «Единой России» в Калужской области на 2025 год](https://er.ru/activity/news/vladimir-yakushev-i-vladislav-shapsha-obsudili-zadachi-edinoj-rossii-v-kaluzhskoj-oblasti-na-2025-god)
-
-[#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Шапша](https://er.ru/activity/news?tags%5B0%5D=23539) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-08.11.24
-
-[![«Единая Россия» передала гуманитарную помощь в больницы и школу в ДНР](https://cdn.er.ru/media/news/November2024/FHRFcmL4nEHOpIVxJEQk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-bolnicy-i-shkolu-v-dnr)
-
-[«Единая Россия» передала гуманитарную помощь в больницы и школу в ДНР](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-v-bolnicy-i-shkolu-v-dnr)
-
-[#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-08.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
