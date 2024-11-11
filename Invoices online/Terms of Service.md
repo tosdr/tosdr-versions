@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Jannie Schutte - myFinance-Online.co.za
+Henry Venter
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=130387118)  
-Little Nutty Professors
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=167353624)  
+Redlum Group (Pty) Ltd
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=54560723)  
-Mountain Lion Properties
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=183012276)  
+Well Hung Art
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=139019701)  
-MONSTER SECURITY SERVICES
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=212913849)  
+Oak Tree Immigration
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=211609147)  
-AFS Electrical
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=76404033)  
+Van Der Merwe Olieverspreiders
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=18119228)  
-Wiselink Broadband Dundee
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=66528142)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=95156710)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=105864079)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=163160180)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=68566406)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=55718779)  
-Cooper Logistics (Pty) Ltd
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=111604877)  
+NWET Pty LTD
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=80268055)  
-FJW Security Cc
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=113087195)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=185070953)  
-M's Frozen Delights
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=107213982)  
+Dombieterfontein (PTY) LTD
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=29448497)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=96970839)  
+Peter Salvage Pty Ltd
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=63304564)  
-Atalie Scented Candles Pty Ltd
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=9586063)  
+Henry's Home Renovations
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=25073916)  
-Baby Toddles Infant Care
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=178971869)  
+Waterfinatics Swim School
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=57943367)  
-NGB HOLDINGS PTY LTD
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=90886178)  
+Website Café (PTY) LTD
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=d4c3acc74313c31753da957d8caf761b28df87905d819987834307e0596b04bc&c=203849464)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=156140143)  
+MR Compressors& Industrial Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
