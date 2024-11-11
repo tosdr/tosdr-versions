@@ -1,5 +1,3 @@
-✨ New course! Enroll in [LLMs as Operating Systems: Agent Memory](https://bit.ly/4eb7j0L)
-
 [](https://www.deeplearning.ai/)
 
 * [Explore Courses](https://www.deeplearning.ai/courses/)
