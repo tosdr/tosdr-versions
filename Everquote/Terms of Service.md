@@ -250,5 +250,3 @@ More
 EverQuote is a leading online insurance marketplace in the U.S. We're on a mission to help consumers better protect life's most important assets: their families, property and future. For quality control purposes, your activity on this website may be monitored or recorded by EverQuote or its service providers.
 
 Copyright © 2024 EverQuote, Inc.
-
-Copyright © 2024 EverQuote, Inc.
