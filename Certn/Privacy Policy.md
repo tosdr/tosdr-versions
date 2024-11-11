@@ -102,7 +102,6 @@ Error
 * [Applicant Terms of Use](#contract-skxc4ktljx)
 * [mg - la - con-648](#contract-xmifpf3vk)
 * [Income Verification Terms of Use](#contract-sjctngdzke)
-* [Tokenized Authorization (B2B) - EN (MG test)](#contract-iqyzulv6g)
 
 Test Contract 2
 ---------------
@@ -2223,11 +2222,11 @@ City and County of San Francisco Fair Chance Ordinance
 City of Los Angeles Fair Chance Initiative Disclosure
 -----------------------------------------------------
 
-### Version 7.0
+### Version 8.0
 
-##### Effective October 30th 2024
+##### Effective November 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67223ea30aaad50932a28cad.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6731e2190332954b0afc00de.pdf)
 
 * * *
 
@@ -2235,7 +2234,7 @@ City of Los Angeles Fair Chance Initiative Disclosure
 
 * * *
 
-![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/lP6ACd3PS.jpg)![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/vlQ4qk4v6.jpg)
+![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/lP6ACd3PS.jpg) ![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/vlQ4qk4v6.jpg)
 
 Non Criminal Consent - HR English
 ---------------------------------
@@ -2603,7 +2602,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 8th 2024
+##### Effective November 11th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6178,38 +6177,6 @@ These terms of use are subject to change from time to time. Certn will notify yo
 You consent to receive any agreements, notices, disclosures and other communications (collectively, “**Notices**”) to which these Terms refer electronically including without limitation by e-mail or by posting notices with the Services. You agree that all Notices provided electronically satisfy any legal requirement that such communications be in writing.
 
 If you have any questions about these Terms, you can contact customer support via email at [support@certn.co](mailto:support@certn.co).
-
-Tokenized Authorization (B2B) - EN (MG test)
---------------------------------------------
-
-### Version 10.0
-
-##### Effective November 8th 2024
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672e3b11da217d88646f9f15.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**AUTORISATION**
-
-Afin d'évaluer votre aptitude à participer à {{purpose}} , {{company\_name}} ("Société") a demandé au [Certn](https://certn.co/) de vérifier votre identité, de créer et de vous renvoyer un rapport de consommation (votre " Rapport") composé de : {{services\_list}} .
-
-Nous collecterons les informations personnelles suivantes dans le but de fournir les services: {{personal\_information\_list}} . {{#if data\_providers\_list}}Nous pouvons collecter des informations personnelles directement auprès de vous, de la société ou de tiers tels que {{data\_providers\_list}} {{else}} Nous pouvons collecter des informations personnelles directement auprès de vous ou de la Société{{/if}}. Nous comparerons les informations reçues de différentes sources pour en assurer la cohérence.
-
-Il peut être nécessaire pour Certn de transférer et de traiter des informations personnelles dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, vos informations personnelles peuvent être traitées par nos employés et sous-traitants au Canada, en Australie, aux États-Unis, au Royaume-Uni, en Afrique du Sud et aux Philippines. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
-
-Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou demander une correction, une suppression ou une copie de votre rapport à tout moment en contactant le responsable de la protection de la vie privée du Certn au 1-844-987-0690 ou à [privacy@certn.co](mailto:privacy@certn.co). De plus amples informations concernant la collecte, l'utilisation, la divulgation ou le stockage de vos informations personnelles sont disponibles [ici](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3).
-
-  
-
-  
-  
-  
-  
 
 * * *
 
