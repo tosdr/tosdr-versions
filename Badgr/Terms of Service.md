@@ -108,11 +108,11 @@ Main
         
         [Mastery Connect](https://info.badgr.com/k12/products/mastery/mastery-connect)
         
-        [Master Item Bank](https://info.badgr.com/k12/products/mastery/mastery-item-bank)
+        [Mastery Item Bank](https://info.badgr.com/k12/products/mastery/mastery-item-bank)
         
-        [Mastery View Formative Assessment](https://info.badgr.com/k12/products/mastery/mastery-view-formative-assessments)
+        [Mastery View Formative Assessments](https://info.badgr.com/k12/products/mastery/mastery-view-formative-assessments)
         
-        [Mastery Predictive Assessment](https://info.badgr.com/k12/products/mastery/mastery-view-predictive-assessments)
+        [Mastery View Predictive Assessments](https://info.badgr.com/k12/products/mastery/mastery-view-predictive-assessments)
         
         K-12 Products
         
@@ -295,13 +295,13 @@ Main
         
         [Case Studies](https://info.badgr.com/resources/case-studies)
         
-        [Ebooks & Buyer Guides](https://info.badgr.com/resources/ebooks)
+        [Ebooks & Buyer's Guides](https://info.badgr.com/resources/ebooks)
         
         [Research](https://info.badgr.com/resources/research)
         
         [Videos](https://info.badgr.com/resources/videos)
         
-        [Infrographics](https://info.badgr.com/resources/infographic)
+        [Infographics](https://info.badgr.com/resources/infographic)
         
         [On-Demand Webinars](https://info.badgr.com/resources/webinars)
         
@@ -347,7 +347,7 @@ Main
         
         [Leadership](https://info.badgr.com/about/leadership)
         
-        [Careers](https://info.badgr.com/about/leadership)
+        [Careers](https://info.badgr.com/about/careers)
         
         [Investor Relations](https://ir.instructure.com/overview/default.aspx)
         
