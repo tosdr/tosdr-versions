@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f2331e733a779b4c86dd439569f90335
+ca7aafd92e86a0eefec9e4abf86cdfa7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Kyanite 6 mm flat circles](https://www.sojourner.biz/images/cache/kyanite/KYN004.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/kyanite/kyanite-6-mm-flat-circles.html "Kyanite 6 mm flat circles")
+[![7 mm amethyst round beads](https://www.sojourner.biz/images/cache/amethyst/YST004.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/amethyst/7-mm-amethyst-round-beads.html "7 mm amethyst round beads")
 
-#### [Kyanite 6 mm flat circles](https://www.sojourner.biz/beads/stone-a-l/kyanite/kyanite-6-mm-flat-circles.html "Kyanite 6 mm flat circles")
+#### [7 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/7-mm-amethyst-round-beads.html "7 mm amethyst round beads")
 
-$50.00
+$37.00
 
 ### Best Sellers
 
