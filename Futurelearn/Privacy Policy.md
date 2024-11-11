@@ -720,6 +720,20 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [COP29: FutureLearn Encourages Learners To Be A Force For Good](https://www.futurelearn.com/info/press/cop29-futurelearn-encourages-learners-to-be-a-force-for-good)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    As COP29 gets underway in Baku, Azerbaijan, the UK-based online learning platform FutureLearn is demonstrating …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
+* [FutureLearn Partners With Uptime To Launch FutureLearn Shorts](https://www.futurelearn.com/info/press/futurelearn-partners-with-uptime-to-launch-futurelearn-shorts)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the leading UK-based online learning platform, has partnered with Uptime, the knowledge-hacking app, to …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [National STEM Day: Empowering Women And Girls in STEM](https://www.futurelearn.com/info/press/national-stem-day-empowering-women-and-girls-in-stem)
     ----------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -735,20 +749,6 @@ Powered By
     Interested in furthering your education with an online degree? We take a look at the …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [General](https://www.futurelearn.com/info/blog/general), [Learning](https://www.futurelearn.com/info/blog/learning)
-    
-* [FutureLearn Celebrates National Career Development Month With A Focus On AI Skills](https://www.futurelearn.com/info/press/futurelearn-celebrates-national-career-development-month-with-a-focus-on-ai-skills)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, a leader in online learning, has joined in celebrations for National Career Development Month, …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [FutureLearn Lowers The Prices Of Thousands Of Short Course Upgrades](https://www.futurelearn.com/info/press/futurelearn-lowers-the-prices-of-thousands-of-short-course-upgrades)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, a leader in online learning, has announced price reductions on thousands of online courses. …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
