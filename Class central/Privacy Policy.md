@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. marketing
+1. digital marketing
     
-2. trading
+2. marketing
     
-3. html
+3. psychology
     
 
 Popular subjects
@@ -427,9 +427,9 @@ Popular subjects
 1. [Computer Science
     
     42,612 courses](https://www.classcentral.com/subject/cs)
-2. [Entrepreneurship
+2. [Web Development
     
-    4,081 courses](https://www.classcentral.com/subject/entrepreneurship)
+    13,514 courses](https://www.classcentral.com/subject/web-development)
 3. [Data Analysis
     
     8,634 courses](https://www.classcentral.com/subject/data-analysis)
@@ -437,15 +437,15 @@ Popular subjects
 Popular courses
 ---------------
 
-1. [Machine Learning Foundations: A Case Study Approach
+1. [Monitoring Volcanoes and Magma Movements
     
-    University of Washington](https://www.classcentral.com/course/ml-foundations-4352)
-2. [Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis
+    University of Iceland](https://www.classcentral.com/course/volcanoes-the-university-of-iceland-monitoring-vo-13227)
+2. [Introduction to Dynamical Systems and Chaos
     
-    Wellcome Genome Campus](https://www.classcentral.com/course/bacterial-genomes-access-and-analysis-11907)
-3. [Introduction to Engineering Mechanics
+    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-dynamical-systems-and-chaos-1182)
+3. [Multilingual Practices: Tackling Challenges and Creating Opportunities
     
-    Georgia Institute of Technology](https://www.classcentral.com/course/statics1-564)
+    University of Groningen](https://www.classcentral.com/course/multilingual-practices-8096)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
