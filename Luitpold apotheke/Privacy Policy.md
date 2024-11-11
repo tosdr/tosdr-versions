@@ -366,7 +366,7 @@ Sie sparen:
 
 12,98 € \-57%
 
-2024-11-10 20:00:00
+2024-11-12 08:00:00
 
 [Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=10982961&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
@@ -664,4 +664,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=vrybjyvryswbuyucersbbilodkdqvwpv&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=caakgpmqbptfsqtzozfeyowkoqdmtbev&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
