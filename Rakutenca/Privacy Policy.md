@@ -143,7 +143,7 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/ebay-canada)[Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/canadian-tire)[HelloFresh
+        4% Cash Back](https://www.rakuten.ca/canadian-tire)[HelloFresh
         
         7.5% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
         
@@ -225,7 +225,7 @@ FR
         
         [Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
+        4% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
         
         2% Cash Back](https://www.rakuten.ca/home-hardware)[Rona
         
@@ -345,7 +345,7 @@ FR
         
         [Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
+        4% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
         
         2% Cash Back](https://www.rakuten.ca/home-hardware)[Insurely
         
@@ -395,7 +395,7 @@ FR
         
         Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/ticket/campaign/12CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
+        4% Cash Back](https://www.rakuten.ca/ticket/campaign/12CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
         
     * [Sports & Outdoor](https://www.rakuten.ca/stores/sports-outdoor "Sports & Outdoor Promo Codes and Coupons")
         
