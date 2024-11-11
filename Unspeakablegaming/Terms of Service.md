@@ -41,9 +41,15 @@ Header - Shapes Theme
     
 * Merch
     
+    * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/DSC_1113_1.jpg?v=1730739040&width=700)
+        
+        2024 HOLIDAY CARD](https://www.unspeakable.com/products/2024-holiday-card)
     * [![GREY T-SHIRT WITH BLUE FONT](//www.unspeakable.com/cdn/shop/files/DSC_1088.jpg?v=1729534063&width=700)
         
         GREY T-SHIRT WITH BLUE FONT](https://www.unspeakable.com/products/unisex-t-shirt)
+    * [![UNCHOMPABLE HAT](//www.unspeakable.com/cdn/shop/files/DSC_1087_1.jpg?v=1729087901&width=700)
+        
+        UNCHOMPABLE HAT](https://www.unspeakable.com/products/unchompable-hat)
     * [![2024 ORNAMENT](//www.unspeakable.com/cdn/shop/files/DSC_1050.jpg?v=1727797820&width=700)
         
         2024 ORNAMENT](https://www.unspeakable.com/products/2024-ornament)
@@ -53,12 +59,6 @@ Header - Shapes Theme
     * [![10 COLOR PEN](//www.unspeakable.com/cdn/shop/files/DSC_1056.jpg?v=1729004312&width=700)
         
         10 COLOR PEN](https://www.unspeakable.com/products/10-color-pen-1)
-    * [![PENCIL SHARPENER/ERASER](//www.unspeakable.com/cdn/shop/files/DSC_1059.jpg?v=1729004618&width=700)
-        
-        PENCIL SHARPENER/ERASER](https://www.unspeakable.com/products/pencil-sharpener-eraser)
-    * [![4" FLASHLIGHT](//www.unspeakable.com/cdn/shop/files/DSC_1134.jpg?v=1730738735&width=700)
-        
-        4" FLASHLIGHT](https://www.unspeakable.com/products/4-flashlight)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
