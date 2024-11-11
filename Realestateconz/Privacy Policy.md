@@ -81,7 +81,7 @@ How we collect this information: We collect this information via:
 * The use of cookies and other similar technologies. A cookie is a small file which is stored in your web browser. This collection may occur across different devices. If you use our website before you create an account, information collected by cookies regarding your prior usage may be assigned to your account. You can disable cookies through our Cookie Preferences (see Opt-Out Information below). Currently, we use third parties such as Google Analytics, HubSpot, Braze, HotJar, Facebook, Google AdWords, and Lotame to do this for us.
 * A guest token which is applied when you use our website.
 
-Third party cookies: We also allow third parties to use cookies (and other similar technologies) on our website to collect information about your behaviour while using our website and services. This is for advertising and remarketing purposes. Currently these third parties include Google Analytics, Lotame DMP, HubSpot, Facebook, Google Ad Exchange, Google Ad Manager, Magnite (Formerly Rubicon), Index exchange, and Campaign Track. You can disable cookies through our Cookie Preferences, and you can opt out of targeted advertising (see Opt-Out Information below).
+Third party cookies: We also allow third parties to use cookies (and other similar technologies) on our website to collect information about your behaviour while using our website and services. This is for advertising and remarketing purposes. Currently these third parties include Google Analytics, HubSpot, Facebook, Google Ad Exchange, Google Ad Manager, and Campaign Track. You can disable cookies through our Cookie Preferences, and you can opt out of targeted advertising (see Opt-Out Information below).
 
 Our content may feature Nielsen’s proprietary measurement software, which contributes to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at [Digital measurement privacy statement](http://www.nielsen.com/digitalprivacy.)
 
@@ -128,14 +128,10 @@ Third party service providers: So that we can provide our services and improve o
 * Osano Technologies – Managing data and user’s privacy
 * Amazon Web Services – Data Storage (such as your account information)
 * Google Analytics – For Reporting and Machine Learning (such as Internal metrics reporting)
-* Lotame – Website browsing information (such as cookie browsing behavioural patterns).
 * Salesforce – CRM (customer relationship management).
 * Campaign Track – Website browsing information (such as cookie browsing behavioural patterns).
 * HotJar - Website browsing information (such as clickthrough).
 * Braze – Customer engagement platform to communicate with our users via email or push notifications (in app) (such as newsletters and marketing communications).
-* Yahoo Ad tech – Advertisement technology platform that collects information (such as location, screen size, time of day) to serve personalized/relevant ads.
-* Magnite (Formerly Rubicon) - Advertisement technology platform that collects information (such as location, screen size, time of day) to serve personalized/relevant ads.
-* Index Exchange - Advertisement technology platform that collects information (such as location, screen size, time of day) to serve personalized/relevant ads.
 
 Law enforcement: We may disclose your personal information to law enforcement, governmental or regulatory agencies for legal compliance or law enforcement purposes.
 
