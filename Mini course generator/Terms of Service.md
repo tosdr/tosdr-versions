@@ -1,5 +1,4 @@
-Payment Terms and Conditions
-============================
+Home
 
 #### Mini Course Generator | Payment Terms and Conditions  
 
