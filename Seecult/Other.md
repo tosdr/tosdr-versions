@@ -347,20 +347,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si](https://www.mg-lj.si/si)
     
-    [10:00 Adriana Maraž, LJ](javascript:void(0);)
-    
-    **12.07.2024 | 10:00**
-    
-    Mednarodni grafični likovni center, Grad Tivoli, Pod turnom 3, Ljubljana
-    
-    **ADRIANA MARAŽ** (1931-2015): **RETROSPEKTIVA** - razstava (11.7.-10.11.2024.)
-    
-    kustosinji razstave: mag. Breda Škrjanec in dr. Nadja Zgonik
-    
-    oblikovanje razstave: Mina Fina
-    
-    [http://www.mglc-lj.si](http://www.mglc-lj.si/)
-    
     [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
@@ -374,24 +360,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     autorka: dr Rajka Bošković
     
     [https://www.msub.org.rs](https://www.msub.org.rs/)
-    
-    [11:00 Misterij majstora Fortezze - Europska baština šibenskoga gravera, ZG](javascript:void(0);)
-    
-    **11.09.2024 | 11:00**
-    
-    Galerija Klovićevi dvori, Jezuitski trg 4, Zagreb
-    
-    **MISTERIJ MAJSTORA FORTEZZE - EUROPSKA BAŠTINA ŠIBENSKOGA GRAVERA** - izložba (10.9.-10.11.2024.)
-    
-    Autorice izložbe: Marina Lambaša, Flora Turner Vučetić
-    
-    Organizacija izložbe: Galerija Klovićevi dvori i Muzej grada Šibenika
-    
-    Kustosice izložbe: Jasmina Bavoljak, Marina Lambaša
-    
-    Likovni postav izložbe: Dinko Uglešić
-    
-    [https://gkd.hr](https://gkd.hr/)
     
     [10:00 Odprti globus, LJ](javascript:void(0);)
     
@@ -425,14 +393,40 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.cd-cc.si/kultura/razstave](https://www.cd-cc.si/kultura/razstave)
     
+    [12:00 Jelena Bulajić, BG](javascript:void(0);)
+    
+    **12.09.2024 | 12:00**
+    
+    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
+    
+    Salon Muzeja savremene umetnosti, Pariska 14, Beograd
+    
+    **JELENA BULAJIĆ** (1990, Vrbas): **AFTER SUGIMOTO** - prva samostalna izložba (11.9.-18.11.2024.)
+    
+    Kustoskinja izložbe: Kristina Armuš
+    
+    [https://www.msub.org.rs](https://www.msub.org.rs/)
+    
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumenti/documents/skc-beograd.jpg?itok=wGvipM5G)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumentidocuments)
+[![Objekti i projekti / Objects and Projects, September 1971. Normal 8 mm film by Zoran Popovic](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/objects-and-projects-september-1971/objekti-i-projekti.?itok=0bWuBnc6 "Objekti i projekti / Objects and Projects, September 1971. Normal 8 mm film by Zoran Popovic")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/objects-and-projects-september)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013/dscf3863.jpg?itok=Ufyonf8J)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/djokic.jpg?itok=SOpl2Qxu)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -448,6 +442,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Nagrade 18. Animanime](http://seecult.org/vest/nagrade-18-animanime)
+* [Pobednici 22. ZFF-a](http://seecult.org/vest/pobednici-22-zff)
 * [Novo izdanje Filmova na štiklama](http://seecult.org/vest/novo-izdanje-filmova-na-stiklama)
 * [Urbanov savremeni Majstor i Margarita](http://seecult.org/vest/urbanov-savremeni-majstor-i-margarita)
 * [Utisak da se nešto radi](http://seecult.org/vest/utisak-da-se-nesto-radi)
@@ -456,8 +452,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Stanje i (ne)moć medija](http://seecult.org/vest/stanje-i-nemoc-medija)
 * [Žilnik, Vida Ognjenović i Milena Marković među akademicima](http://seecult.org/vest/zilnik-vida-ognjenovic-i-milena-markovic-medu-akademicima)
 * [Gordost i predrasude uz klasnu i rodnu nejednakost](http://seecult.org/vest/gordost-i-predrasude-uz-klasnu-i-rodnu-nejednakost)
-* [Otvorena 20. Slobodna zona – angažman da svet bude bolji](http://seecult.org/vest/otvorena-20-slobodna-zona-angazman-da-svet-bude-bolji)
-* [Otvoren Legat Milana Mladenovića](http://seecult.org/vest/otvoren-legat-milana-mladenovica)
 
 * [Konkursi](#tab1_1)
 
