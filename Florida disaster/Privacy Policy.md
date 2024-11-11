@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, November 10, 2024**
+**Monday, November 11, 2024**
 
-**...High Pressure To Keep Conditions Mostly Dry Across the State; Brief Showers Possible Statewide Throughout the Day...Stalled Frontal Boudary Offshore from Northeast Florida to Bring More Widespread Shower Activity; Isolated to Scattered Showers Along Western Panhandle and East Coast...Shower Activity to Linger Overnight Along Western Panhandle and Eastern Peninsula...Breezy Winds With Gusts Near 15-25 MPH Persist Along the Peninsula and Keys...Above Normal Temperatures Statewide...High Risk for Rip Currents Expected Along Panhandle and East Coast Beaches...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers...Localized Areas of Patchy to Locally Dense Fog Possible Overnight or Early Monday Morning Throughout North Florida and I-75 Corridor...NHC Continues to Monitor Tropical Storm Rafael and A Disturbance Near the Bahamas (10%)****...**
+**...Patchy Fog to Dissipate and Lift By Mid-to-Late Morning...Scattered to Widespread Showers Across Western Panhandle; Additional Showers Spreading Eastward Towards Big Bend...Isolated Showers Along East-Central and Southeast Florida Coasts...Above Normal Temperatures Statewide...Showers to Continue Overnight Along Western Panhandle...Patchy to Locally Dense Fog Possible Over Suwannee Valley and I-75 Corridor Overnight...High Risk for Rip Currents Expected Along Panhandle and East Coast Beaches...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers; Portions of Rivers Falling Below Flood Stage...NHC Monitoring Area of Potential Development in Western Caribbean Over Next 7 Days (40%)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
