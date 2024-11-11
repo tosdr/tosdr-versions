@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Mrs. Wigglesworth's Secret](https://www.myabandonware.com/game/mrs-wigglesworth-s-secret-sz7)
+* [Mystery of the Witch's Shoes](https://www.myabandonware.com/game/mystery-of-the-witch-s-shoes-sz6)
 * [Mud Pies](https://www.myabandonware.com/game/mud-pies-sz5)
 * [Play Ball, Kate!](https://www.myabandonware.com/game/play-ball-kate-sz4)
 * [The Goofy Ghost](https://www.myabandonware.com/game/the-goofy-ghost-sz3)
-* [Word Hunt](https://www.myabandonware.com/game/word-hunt-tmd)
-* [Unnkulian Underworld: The Unknown Unventure](https://www.myabandonware.com/game/unnkulian-underworld-the-unknown-unventure-tmc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
