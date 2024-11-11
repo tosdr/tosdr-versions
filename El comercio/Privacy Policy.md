@@ -31,6 +31,290 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El inseguro seguro
+==================
+
+El IESS debe proteger a sus afiliados, facilitando el acceso a tratamientos médicos y cumplir con sus obligaciones económicas.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+La **tragedia energética** originada en el peor **estiaje** de la **historia** de nuestro país, afecta a todo el **territorio** nacional y causa zozobra permanente a toda la **ciudadanía**, pero a pesar de la gravedad de **crisis**, no es la única **situación angustiosa** en la que estamos inmersos. Uno de los problemas más acuciantes y sin una real solución es la **salud**. Múltiples han sido los intentos por poner orden a la **multiplicidad** de **servicios** destinados a **combatir** las **enfermedades**, pero que dividen y absorben individualmente **presupuestos**, sin alcanzar la **eficiencia** que la **modernización** de la **medicina** ofrece en otras **latitudes**. Durante los primeros años del milenio en el **Ecuador** se desarrollaban varios programas descentralizados **cantonales** de salud, con un **éxito** evidente y prometedor; contaban con la **participación** de la **comunidad** y con **dispensarios** del Ministerio de Salud y del IESS. Habían realizado pequeños **censos** y conocían a los enfermos del sector, tanto en los sitios de **vivienda**, cuanto en el tipo de afecciones. Se practicaba la **atención primaria de salud** a través de educación, de **vacunaciones** y de **prácticas de sanidad e higiene**. Desgraciadamente, con el advenimiento del **gobierno** de la década del descarado hurto, se centralizó el manejo de la salud, para hacer negociados como el de las camionetas adaptadas a **ambulancias** y muchos otros. Se desarmaron varios de los **programas** con los que se pretendía dar inicio a un **sistema** de **salud**, todavía inexistente en el país. Sin embargo, se estructuraron **redes de servicio** con el afán de intercambiar pacientes de una **institución** carente de un tipo de atención a otra que está en condiciones de brindarla. Se sumaron establecimientos privados y en un inicio las **compensaciones económicas** mutuas por **servicios prestados**, dentro de **tarifarios institucionales**, tuvieron **éxito** y así miles de pacientes pobres pudieron recibir tratamientos muy costosos como **cirugías complejas**, problemas cardio y cerebro vasculares, afecciones oncológicas de alta **especialidad** y muchos otros.  Durante los primeros años el intento funcionó, pero, al poco tiempo, tanto el Ministerio de Salud, cuanto el **IESS**, no cumplieron con el **pago de las tarifas** y ocasionaron serios problemas de desfinanciamiento a los **centros médicos** que prestaron **servicios externos**, los que, tuvieron que suspender la atención a los **pacientes** derivados de estas instituciones. Unos **hospitales** lo hicieron definitivamente y otro, SOLCA, pese a la **deuda multimillonaria** que mantiene el IESS que, aunque se comprometió a cancelarla progresivamente desde junio hasta diciembre, no ha cumplido, hace **esfuerzos** para mantener su **labor humanitaria** en los **pacientes oncológicos infantiles y adultos**. El Ministerio de Salud, en forma responsable, acorta, con **aportes progresivos**, su deuda.
+
+El IESS aduce que no se han realizado **auditorías** a los reportes de los **prestadores externos** y llama la atención que, aunque existen **excelentes auditores institucionales**, no les utiliza y, en su lugar, desde hace tres años **contrata auditorías externas**, una y otra vez, que cumplen parcialmente el trabajo o no lo cumplen, hecho que genera un atraso de tres años en la **cancelación de las múltiples deudas** que mantiene con los **prestadores externos.**
+
+El Instituto Ecuatoriano de Seguridad Social (IESS) es la **organización** más comprometida con sus **aportantes** y **pensionados**. Es el soporte de los **trabajadores**, por ello debe protegerles ampliando las **posibilidades** de **tratamientos médicos** y no bloqueándolas por irresponsable **falta de cumplimiento** de sus **obligaciones económicas.**
+
+Cartas a Quito / 11 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este lunes 11 de noviembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Ecuador fuera de control 
+-------------------------
+
+La pandemia del COVID, paralizo al país y a toda actividad comercial, la droga era la única mercadería que se vendía, la delincuencia se organizó y se multiplicó, les dio trabajo a muchos y a sus familias, se tomaron sectores de la ciudad, y del País; se han expandido, secuestran, asaltan, roban, y ahora se creen con derecho a cobrar impuestos (vacunas) para darnos seguridad, pero a diferencia del SRI, el evasor paga con la pena de muerte. 
+
+La inseguridad se debe, a que no hemos entendido, que los derechos humanos son de las víctimas y no de los delincuentes, nuestras leyes son demasiado “bondadosas”, muy pocos van a la cárcel, se quedan con arresto domiciliario, y seguridad privada con la misma policía, y si van a la cárcel, llegan a un spa; ¿Qué leyes podemos esperar de una asamblea, con mayoría de un partido político, en el que todos sus dirigentes están presos o prófugos? ¿Qué podemos esperar de un CNE que ha permitido que esto suceda? 
+
+El crimen organizado tiene leyes, su “Ley metálica” de “plata o plomo”, que pone en peligro gobierno, el sistema de justicia, y rebasa la legislación vigente, si queremos que el Ecuador vuelva a ser seguro, nuestras leyes deben ser “proporcionales a la gravedad del delito”, los sicarios deben tener el mismo destino que sus víctimas, como lo fue en Ecuador en 1857-1896 y está vigente en muchos países del mundo. ¿Es este el Ecuador que queremos? 
+
+Juan Orus Guerra 
+
+Ataque de los Obscuros Mundiales a EE. UU. y el planeta 
+--------------------------------------------------------
+
+No es a Trump, es a la “Nación Estadounidense la democracia más antigua, contigua, libre y democrática del mundo, con una misma Constitución”, para dominar el planeta. Que se independizó del yugo del Viejo Mundo el 4 de julio de 1776, en guerra libertaria de Trece Colonias entre 1775 y 1783, con la victoria de Yorktown y Tratado de París, inspirados por el “Espíritu Libertario del Nuevo Mundo de la Amaruka o Abya Yala”. Nefasta conquista de América y el planeta del Partido Comunista Capitalista Chino y “vendidos de derecha”, Rusia con la Izquierda Mundial Post II G. Mundial con Cabeza de Playa en la Isla Cárcel de Cuba y la “ONU y UE Zurdas”. No es por el bloqueo, su miseria, sino por sus 65 años de tiranía (recibe ayuda de Rusia, China, Irán…), endurecido luego de los Misiles Nucleares Rusos apuntando a EE. UU. en 1962, “miren a Venezuela el país más rico de América en la miseria con 25 años de Chávez y Maduro”. Putin exigió la devolución de “más de 3.000 cabezas nucleares a Ucrania”, entregadas a cambio de respetar su independencia (M. de Budapest – 1994), en 2014 se tomó Crimea y en 2022 invadió el país. Amenaza de Guerra Civil de bando y bando el “5N”, último atentado a teléfonos de Trump y J. D. Vance por “hackers chinos”, buzones electorales incendiados, trumpistas van a votar y no les dejan, miles de votantes ilegales a última hora en Pensilvania, **“ABC por error”** en el GP de México de F1 da como ganadora a Kamala. Emboscada Zurda del Capitolio, son violentos y por el poder encienden las calles en toda América y el planeta. A Noboa lo quieren tumbar y el amable Biden dice que los seguidores de Trump son una “basura”. “5N” un antes y después del Destino del Mundo.     
+
+Juan Carlos Cobo Rueda 
+
+El reto de reconstruir la justicia en Ecuador
+=============================================
+
+Reconstruir la justicia es el pedido de una comisión de la ONU
+--------------------------------------------------------------
+
+![Imagen creada con inteligencia artificial, de un juez que dicta sentencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-29.jpg)
+
+La reciente evaluación de la **ONU** sobre el **sistema judicial de Ecuador** pone sobre la mesa problemas que el país enfrenta desde hace décadas: corrupción, inseguridad y la influencia del crimen organizado en instituciones que, por naturaleza, deberían ser **independientes** y robustas[.](https://es.wikipedia.org/wiki/Funci%C3%B3n_Judicial "https://es.wikipedia.org/wiki/Funci%C3%B3n_Judicial")
+
+No se trata de señalamientos menores. El Comité de Derechos Humanos de la ONU habla de una **situación “preocupante”** y “frágil”, donde la falta de protección a jueces y fiscales, la infiltración en las cárceles y los constantes estados de excepción son temas prioritarios que requieren atención inmediata.
+
+> Las recomendaciones de la ONU no pueden quedar como un simple documento de observaciones. Deben convertirse en una hoja de ruta que guíe las reformas urgentes en el sistema judicial y en la protección de los derechos humanos en Ecuador.
+
+En Ecuador, el **poder judicial** no solo enfrenta desafíos por la falta de recursos y el congestionamiento de causas. Además sufre la penetración del **crimen organizado**. Los casos Metástasis, Plaga y Purga expusieron esta realidad, revelando que grupos criminales han logrado influir en las decisiones de jueces, fiscales y otros funcionarios. Esto pone en riesgo el principio de **imparcialidad** judicial.
+
+Esta situación genera una **imagen** de un sistema que, lejos de proteger a los ciudadanos, parece estar doblegado ante **intereses ilícitos**. El Comité [advirtió](https://www.elcomercio.com/actualidad/seguridad/onu-pronuncio-sistema-justicia-ecuador.html "https://www.elcomercio.com/actualidad/seguridad/onu-pronuncio-sistema-justicia-ecuador.html") que esta “**fragilidad**” del poder judicial compromete la base del Estado de derecho en **Ecuador**.
+
+El informe de la ONU apunta a las insuficientes medidas de protección para **jueces y fiscales**, muchos de los cuales enfrentan amenazas de muerte, atentados y agresiones. Sin un entorno seguro para quienes administran **justicia**, se corre el riesgo de que los funcionarios terminen cooptados o intimidados. Es imperioso que el **Estado** implemente medidas sólidas y efectivas para brindar protección a quienes ejercen estas funciones. Debe garantizar la integridad de los procesos **judiciales** y la confianza pública.
+
+El pronunciamiento de la ONU también aborda otros temas sensibles. Como la persistente **discriminación** hacia la comunidad **LGTBI**, la violación de derechos en centros que practican la “terapia de conversión”. También los obstáculos que enfrentan las **mujeres** para acceder al aborto en casos de violación, pese a que la ley lo permite. Estos puntos reflejan una **deuda histórica** en materia de derechos humanos que el país debe saldar para avanzar hacia una **sociedad** inclusiva y justa.
+
+El pronunciamiento de la ONU debería ser una **llamada de atención** para la sociedad ecuatoriana. Si bien la actual administración ha manifestado su compromiso de enfrentar estos **desafíos**, la tarea no será sencilla ni rápida. Lograr una justicia independiente, libre de **corrupción** y capaz de proteger a sus funcionarios y ciudadanos es una meta que demandará voluntad **política**, recursos y el apoyo de la comunidad internacional.
+
+El reto ahora es actuar. Las recomendaciones de la **ONU** no pueden quedar como un **simple documento de observaciones**; deben convertirse en una hoja de ruta que guíe las reformas urgentes en el sistema judicial y en la protección de los derechos humanos en Ecuador.
+
+Este es el perfil de peatón que es más atropellado en Quito
+===========================================================
+
+El Distrito Metropolitano de Quito tiene un visor de siniestralidad donde se detallan los perfiles de las víctimas de atropellamiento.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Los expertos señalan varias razones por las que los adultos mayores son atropellados.](https://www.elcomercio.com/wp-content/uploads/2024/11/Peaton.jpg)
+
+El próximo 17 de noviembre se conmemora el Día Mundial en Recuerdo de las **Víctimas de Siniestros** de **Tránsito**, una fecha que invita a reflexionar sobre el impacto de estos eventos en la sociedad[.](https://es.wikipedia.org/wiki/Peat%C3%B3n "https://es.wikipedia.org/wiki/Peat%C3%B3n")
+
+### Más noticias
+
+* [Tránsito cambia por nuevo intercambiador en la Occidental desde el 15 de noviembre](https://www.elcomercio.com/actualidad/quito/intercambiador-mariscal-sucre-transito-vehicular.html)
+* [Que la prevención de los siniestros de tránsito no se detenga en Quito](https://www.elcomercio.com/opinion/editorial/prevencion-siniestros-transito-quito-accidentes.html)
+* [Recomendaciones para conducir de noche con cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-conducir-noche-quito-recomendaciones.html)
+
+En **Quito**, los peatones representan el segundo grupo con mayor número de víctimas. De hecho, entre ellos, los **adultos mayores** resultan los más afectados, ya que sufren graves lesiones e incluso fallecimientos en el lugar del siniestro.
+
+Relato de Paola Herdoíza
+------------------------
+
+**Paola Herdoíza**, de 35 años, fue atropellada en 2022 mientras cruzaba la avenida **Eloy Alfaro**. Ella relata que el **semáforo** para los vehículos se puso en rojo, lo que le permitió iniciar su paso por el cruce peatonal.
+
+Sin embargo, tras apenas tres pasos, un conductor en un automóvil rojo, bajo los efectos del alcohol, la **atropelló**. “Di tres pasos y solo sentí el impacto en mi cabeza y hombro”, recuerda Paola. Actualmente, camina con dificultad, y las cicatrices le recuerdan ese trágico momento.
+
+Después del atropellamiento, **Paola** enfrentó un proceso legal, y su caso fue conocido por la Fundación CAVAT, que lucha por visibilizar y defender a las víctimas de siniestros de tránsito en Ecuador.
+
+Antes del siniestro, **Paola** disfrutaba de bailar y practicar deportes, actividades que ahora no puede realizar.
+
+CAVAT destaca que la **infraestructura** vial en el sitio del atropellamiento permite tomar curvas a altas velocidades, lo que deja a los peatones en una posición de **vulnerabilidad**.
+
+Adultos mayores, las principales víctimas en siniestros de tránsito
+-------------------------------------------------------------------
+
+De acuerdo con datos de **Quito Data Vial**, los adultos mayores constituyen las principales víctimas mortales en la vía pública por atropellamiento.
+
+**Washington** **Martínez**, director de la Agencia Metropolitana de Tránsito de Quito (AMT), opina que, acostumbrados a un flujo vehicular menor en el pasado, muchos **adultos mayores** cruzan las vías sin tomar en cuenta el alto riesgo actual, lo que contribuye al alarmante número de **fallecimientos**.
+
+En esta misma línea, **Pamela Villacrés**, coordinadora de Bloomberg en Ecuador, atribuye esta situación a la infraestructura deficiente que no se adapta a sus **necesidades**.
+
+Un claro ejemplo es la avenida Occidental, donde el límite de velocidad de 90 km/h y la falta de accesibilidad en los **puentes peatonales** obligan a muchos a cruzar la vía, exponiéndolos a un **alto riesgo.**
+
+Por otro lado, reducir estas cifras es un desafío para **Martínez**, cuyo objetivo final es que no haya fallecidos en siniestros de tránsito.
+
+No obstante, factores externos, como los **cortes de luz**, dificultan los controles, ya que el personal debe enfocar su atención en gestionar el tráfico en intersecciones problemáticas.
+
+**Cristian Rivera**, experto en riesgos, también advierte que la **infraestructura vial de Quito**, diseñada para favorecer la alta velocidad, reduce el tiempo de reacción ante emergencias, lo que incrementa los riesgos para los peatones.
+
+La importancia de proteger a los peatones en Quito
+--------------------------------------------------
+
+**Pamela Villacrés** subraya la importancia de proteger a los **peatones** dentro de la jerarquía de movilidad. Sin embargo, la falta de infraestructura adecuada incrementa su vulnerabilidad, exponiéndolos al **peligro** en una ciudad donde **la velocidad** es un **factor clave.**
+
+La Agencia Nacional de Tránsito (ANT) señala que la supervivencia de un peatón en caso de atropello disminuye drásticamente cuando un vehículo circula a más de 30 km/h, lo cual contrasta con los 50 km/h, velocidad a la cual la mayoría de las víctimas pierde la vida.
+
+Por su parte, la Fundación CAVAT destaca que, además de la velocidad, el uso de **dispositivos electrónicos**, el exceso de velocidad y la falta de respeto a las señales de tránsito son factores determinantes en estos siniestros.
+
+Washington Martínez también atribuye esta problemática a una **cultura de movilidad** que considera atrasada en Quito.
+
+Siniestros de Tránsito, según Tipo de Siniestro, por Meses – 2024
+-----------------------------------------------------------------
+
+| Tipo de Siniestro | Cantidad | Porcentaje |
+| --- | --- | --- |
+| Arrollamientos | 119 | 1%  |
+| Atropellos | 1,992 | 13% |
+| Caída de Pasajeros | 317 | 2%  |
+| Choque Frontal | 921 | 6%  |
+| Choque Lateral | 4,326 | 28% |
+| Choque Posterior | 1,614 | 10% |
+| Colisión | 377 | 2%  |
+| Estrellamientos | 1,799 | 12% |
+| Otros | 556 | 4%  |
+| Pérdida de Carril | 2,381 | 15% |
+| Pérdida de Pista | 379 | 2%  |
+| Rozamientos | 583 | 4%  |
+| Volcamientos | 225 | 1%  |
+| Total | 15,589 | 100% |
+
+Total, peatones arrollados y atropellados: 2,111 personas
+
+**Los derechos del peatón**
+---------------------------
+
+Ley Orgánica de Transporte Terrestre de Tránsito y Seguridad Vial estipula los derechos del peatón:
+
+* Contar con las garantías necesarias para un tránsito seguro.
+* Disponer de vías públicas libres de obstáculos y no invadidas.
+* Contar con infraestructura y señalización vial adecuadas que brinden seguridad.
+* Tener preferencia en el cruce de vía en todas las intersecciones reguladas por semáforos cuando  
+    la luz verde de cruce peatonal esté encendida; todo el tiempo en los cruces cebra, con mayor énfasis  
+    en las zonas escolares; y, en las esquinas de las intersecciones no reguladas por semáforos  
+    procurando su propia seguridad y la de los demás.
+* Tener libre circulación sobre las aceras y en las zonas peatonales exclusivas.
+* Recibir orientación adecuada de los agentes de tránsito sobre señalización vial, ubicación de calles  
+    y nominativas que regulen el desplazamiento de personas y recibir de estos y de los demás  
+    ciudadanos la asistencia oportuna cuando sea necesario.
+
+**Las obligaciones del peatón**
+-------------------------------
+
+La Ley Orgánica de Transporte Terrestre de Tránsito y Seguridad Vial estipula las obligaciones del peatón:
+
+* Utilizar las calles y aceras para la práctica de actividades que no atenten contra su seguridad, la  
+    de terceros o bienes.
+* Abstenerse de solicitar transporte o pedir ayuda a los automovilistas en lugares inapropiados o  
+    prohibidos.
+* Cruzar las calles por los cruces cebra y pasos elevados o deprimidos de no existir pasos cebra,  
+    cruzar por las esquinas de las intersecciones.
+* Abstenerse de caminar sobre la calzada de las calles abiertas al tránsito vehicular.
+* Abstenerse de cruzar la calle por la parte anterior y posterior de los automotores que se detienen momentáneamente.
+* Cuando no existan aceras junto a la calzada, circular al margen de los lugares marcados y, a falta de marca, por el espaldón de la vía y siempre en sentido contrario al tránsito de vehículos.
+* Embarcarse o desembarcarse de un vehículo sin invadir la calle, solo cuando el vehículo esté detenido y próximo a la orilla de la acera.
+* Procurar en todo momento su propia seguridad y la de los demás.
+* Las demás señaladas en los reglamentos e instructivos.
+
+Contencioso Electoral dictamina que Topic no puede ser candidato
+================================================================
+
+Con cuatro votos a favor y uno salvado, el TCE resolvió que Topic mantenía control sobre empresas contratistas con el Estado
+----------------------------------------------------------------------------------------------------------------------------
+
+![Jan Topic esperaba afuera de la sede del TCE la resolución sobre su candidatura.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-39-1.jpg)
+
+Tras más de tres horas de lectura del informe y consideraciones, el **Tribunal Contencioso Electoral (TCE)** dictaminó este 10 de noviembre del 2024 que **Jan Topic** **no puede ser candidato a la Presidencia.** Ángel Torres fue el juez sustanciador que dio paso a la **impugnación** del **Partido Sociedad Patriótica** y del movimiento **Pachakutik**. Su ponencia tuvo cuatro votos a favor y uno salvado.
+
+### Más noticias
+
+* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
+* [Mujeres proponen cambios al Código de la Democracia por violencia política](https://www.elcomercio.com/actualidad/politica/mujeres-cambios-codigo-democracia-violencia-politica.html "Mujeres proponen cambios al Código de la Democracia por violencia política")
+* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
+
+Topic mantenía control sobre empresas
+-------------------------------------
+
+Durante su lectura, **Ángel Torres** sostenía que, según los documentos, **Topic** n**o perdió el control de las empresas que mantenían contratos con el Estado.** Sostuvo que la transferencia de acciones a su hermano, Antonio Tomás Jurado Feraud, y a su padre, Jan Topic Granados, no mermaron su control en dichas empresas.
+
+El control de una persona jurídica no se da necesariamente por la posesión de acciones. **“El poder de decisión en juntas directivas o externos (…) Este tipo de control efectivo puede no estar reflejado en el capital social”**, sostuvo Torres.
+
+Además, se cuestionó la forma cómo manejó el **Consejo Nacional Electoral** las impugnaciones de las dos organizaciones políticas, pues, al decir de Torres, se priorizó más la formalidad.
+
+El voto salvado fue del juez Fernando Muñoz.
+
+Topic frente al TCE
+-------------------
+
+Rodeado por partidarios, el **candidato presidencial por SUMA Jan Topic** llegó a **Quito**, este 10 de noviembre del 2024. Estuvo en las afueras del **Tribunal Contencioso Electoral (TCE)**, a la espera de la resolución sobre su candidatura a la **Presidencia de la República**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCNnloEp73I/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de TVC Ecuador (@tvcecuador)](https://www.instagram.com/reel/DCNnloEp73I/?utm_source=ig_embed&utm_campaign=loading)
+
+Ahora, **Sociedad Unida Más Acción (SUMA),** deberá buscar otro nombre para candidatizarse a la Presidencia.
+
+Topic, activo en redes
+----------------------
+
+Durante el día, **Topic** se mantuvo activo por las **redes sociales** y recibió incluso el apoyo del secretario de la Organización de Estados Americanos (OEA), **Luis Almagro**. La **Cancillería** le recordó a **Almagro**, sobre la no intromisión y que el Gobierno respeta la independencia de poderes.
+
+“Perdonen mi francés”, escribió **Topic** en su cuenta de X, una frase que se usa cuando se dice alguna mala palabra. Sin embargo, Topic sí escribió en lengua francesa.
+
+Perdónenme mi francés…pero independencia **‘mes couilles**.’ (mis pelotas) **Ecuador** no es tu hacienda, ¡y lo estás destruyendo!
+
+> ¿Independencia? Perdónenme mi francés…pero independencia 'mes couilles.' Ecuador no es tu hacienda ¡y lo estas destruyendo![https://t.co/CwY86aSaYu](https://t.co/CwY86aSaYu) [pic.twitter.com/ikhhuNIEpd](https://t.co/ikhhuNIEpd)
+> 
+> — Jan T. Topić (@jantopicecuador) [November 10, 2024](https://twitter.com/jantopicecuador/status/1855686649293783505?ref_src=twsrc%5Etfw)
+
+La vicepresidenta Verónica Abad habló sobre su suspensión
+=========================================================
+
+Verónica Abad habló durante seis minutos sobre su postura ante su suspensión.
+-----------------------------------------------------------------------------
+
+![Verónica Abad subió un video a sus redes sociales.](https://www.elcomercio.com/wp-content/uploads/2024/11/Veronica-Abad.jpg)
+
+La vicepresidenta de Ecuador, **Verónica Abad**, manifestó su postura ante la **suspensión** de 150 días sin remuneración impuesta por el **Ministerio del Trabajo**[.](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad")
+
+### Más noticias
+
+* [Vicepresidenta Verónica Abad fue suspendida](https://www.elcomercio.com/actualidad/politica/veronica-abad-funciones-ministerio-trabajo.html "Vicepresidenta Verónica Abad fue suspendida")
+* [Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE](https://www.elcomercio.com/actualidad/politica/audiencia-denuncia-veronica-abad-contra-daniel-noboa-instalo-tce.html "Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE")
+* [TCE sanciona a Verónica Abad ¿Cuál fue el motivo?](https://www.elcomercio.com/actualidad/politica/tce-sanciona-veronica-abad-motivo.html "TCE sanciona a Verónica Abad ¿Cuál fue el motivo?")
+
+A través de un video publicado en sus redes sociales, **Abad** calificó la medida como una “violación innegable a los principios de **legalidad** y **justicia**“. También criticó el procedimiento seguido en su contra.
+
+Sanción a Verónica Abad
+-----------------------
+
+La sanción responde a una supuesta falta administrativa por **abandono injustificado** del trabajo.
+
+Abad no se presentó en Ankara, **Turquía**, antes del 1 de septiembre de 2024, como lo exigía el Decreto Ejecutivo No. 353. Llegó a su destino el 9 de septiembre sin justificación formal.
+
+Durante una audiencia el 7 de noviembre, representantes de la **Presidencia** y del **Ministerio de Relaciones Exteriores** argumentaron que se le proporcionaron las condiciones necesarias para su traslado y se le notificó la importancia de su llegada oportuna.
+
+Declaración de Verónica Abad
+----------------------------
+
+En su declaración, **Abad** señaló que defenderá “los derechos, la **libertad** y la **democracia** de nuestra República”, y denunció presiones para su **renuncia**, así como el encarcelamiento de su hijo, lo que, según ella, ha afectado su honra y la de su familia.
+
+Además, pidió a la **Asamblea Nacional** investigar las acciones de las autoridades del Ministerio del Trabajo, la Cancillería y la Presidencia, y advirtió que también llevará su defensa a instancias internacionales.
+
+> 🔴 IMPORTANTE 🇪🇨  
+> Mi rechazo frente a la improcedente, clara, e innegable violación a los principios de legalidad y justicia, con la "suspensión" en mi contra por el Ministerio de Trabajo.  
+> Defenderé con firmeza los derechos, libertad y democracia de nuestra República. [pic.twitter.com/5ktscTZ3pE](https://t.co/5ktscTZ3pE)
+> 
+> — Verónica Abad (@veroniabad) [November 11, 2024](https://twitter.com/veroniabad/status/1855785638282375312?ref_src=twsrc%5Etfw)
+
+TCE sanciona a Verónica Abad
+----------------------------
+
+El Tribunal Contencioso Electoral (**TCE**) emitió una sanción contra la vicepresidenta **Verónica Abad** por realizar actos de campaña anticipada.
+
+La denuncia, presentada por **Juan Esteban Guarderas**, vocal del Consejo de Participación Ciudadana y Control Social, surgió a mediados de año.
+
+El TCE basó su fallo en el artículo 278, numeral 7, del **Código** de la **Democracia**, que considera falta grave la realización de actos de precampaña electoral.
+
+Bajo el principio de proporcionalidad, el tribunal determinó que Abad incurrió en dicha infracción, aunque aclaró que su conducta no generó una afectación significativa al proceso electoral en su conjunto. Por esta razón, el organismo concluyó que una multa de 8 500 dólares sería suficiente para disuadir futuras infracciones por parte de Abad y otros actores políticos.
+
 Nuevos horarios de cortes de luz en Quito para este lunes 11 y martes 12 de noviembre
 =====================================================================================
 
@@ -146,7 +430,7 @@ Noboa envía a Arturo Félix Wong a Colombia para comprar energía
 El Gobierno enviará a Arturo Félix Wong como su delegado para adquirir energía a Colombia, en medio de la crisis energética y climática del país.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Daniel Noboa escribió en Twitter que enviará a Félix Wong a Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/ACTUALIDAD-6.jpg)
+![Daniel Noboa escribió en Twitter que enviará a Félix Wong a Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Daniel-Noboa.jpg)
 
 El **presidente** de la República, **Daniel Noboa**, enviará al **ministro de Gobierno, Arturo Félix Wong**, a Colombia para la compra de energía. Así lo informó el Ejecutivo, este **10 de noviembre del 2024**, en su cuenta de **X**.
 
@@ -821,268 +1105,3 @@ Por otro lado, el gobernador de **Querétaro**, Mauricio Kuri, publicó un mensa
 “Castigaremos a los responsables de este acto brutal. Seguiremos blindando nuestras fronteras y manteniendo la seguridad de nuestro **Estado**“, señaló Kuri. También ordenó brindar atención a los familiares de las personas fallecidas.
 
 Finalmente, **Querétaro**, estado vecino de **Guanajuato** en el centro de **México**, ha experimentado un incremento en la violencia en los últimos meses. Este aumento se debe, en gran medida, a la disputa territorial entre el Cártel Jalisco Nueva Generación, el Cártel de Sinaloa y el Cártel de Santa Rosa de Lima.
-
-Chile apoya al Consejo de Seguridad de la ONU
-=============================================
-
-La subsecretaria de Relaciones Exteriores de Chile, Gloria de la Fuente, defendió la “ampliación” del Consejo de Seguridad de la ONU, tanto a miembros permanentes como no permanentes, para que estén mejor representadas regiones como África y Latinoamérica. Más noticias “Chile apoya la idea de una ampliación del Consejo de Seguridad que apunte a resolver \[…\]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Vista de una votación en la Asamblea General de la ONU, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/ONU-EFE.jpg)
-
-La subsecretaria de Relaciones Exteriores de Chile, **Gloria de la Fuente**, defendió la “ampliación” del **Consejo de Seguridad de la ONU**, tanto a miembros permanentes como no permanentes, para que estén mejor representadas regiones como África y Latinoamérica.
-
-### Más noticias
-
-* [Jorge Valdivia, histórico futbolista de Chile, suma nueva acusación de abuso sexual](https://www.elcomercio.com/deportes/jorge-valdivia-segunda-acusacion-chile-abuso.html "Jorge Valdivia, histórico futbolista de Chile, suma nueva acusación de abuso sexual")
-* [Histórico futbolista de Chile, acusado de abuso sexual](https://www.elcomercio.com/deportes/jorge-valdivia-chile-denuncia-abuso-sexual.html "Histórico futbolista de Chile, acusado de abuso sexual")
-* [Fallece el escritor chileno Antonio Skármeta, conocido por ‘El cartero de Neruda’](https://www.elcomercio.com/tendencias/cultura/antonio-skarmeta-escritor-chile.html "Fallece el escritor chileno Antonio Skármeta, conocido por ‘El cartero de Neruda’ ")
-
-“**Chile apoya la idea de una ampliación del Consejo de Seguridad** que apunte a resolver la situación de injusticia que ha afectado a distintas regiones geográficas, entre ellos Asia Pacífico, nuestra propia región de América Latina y el Caribe, y, por supuesto África”, declaró la vicecanciller en una entrevista telefónica con EFE desde Adís Abeba, capital de Etiopía.
-
-“Si bien Chile no otorgó su apoyo a **ningún país africano e**n específico en su interés por ser miembro permanente del Consejo de Seguridad, fue claro en su apoyo en dotar de una mayor participación a distintas regiones del mundo subrepresentadas, dentro de las que se encuentra África”, afirmó la vicecanciller.
-
-Visión sobre África
--------------------
-
-Respecto a África, la viceministra destacó que “dicho continente tiene un rol crucial en la mantención de la **paz y la seguridad internacionale**s”.
-
-De la Fuente también subrayó “la necesidad de generar una reforma del sistema de las Naciones Unidas y, particularmente, el Consejo de Seguridad”.
-
-“Nuestro propio presidente en la última Asamblea de las Naciones Unidas dio cuenta de eso, que efectivamente, hay un **sistema multilateral** que tuvo muchos éxitos pero también límites, hoy en día, respecto a los desafíos que enfrentamos”, expresó.
-
-“Entonces estamos muy abiertos a generar una **conversación amplia** sobre cómo resolvemos para que el multilateralismo responda de la mejor manera a los desafíos que tenemos y cuáles son las fórmulas”, subrayó.
-
-Desde Adís Abeba, donde está la sede de la Unión Africana (UA), enfatizó el papel de esa organización como “una **importante puerta** de entrada también para la conversación con otros países” del continente.
-
-Desafíos multilaterales
------------------------
-
-Además, consideró que establecer relaciones con este organismo podría ayudar a “enfrentar de manera común los desafíos multilaterales”.
-
-De la Fuente remarcó que los **tres países de esta gira (**Sudáfrica, Kenia y Etiopía) forman parte del “sur global”, como Chile, y son “estratégicos” para la **nación sudamericana,** que busca mayor cooperación con ellos en áreas como el comercio y la inversión.
-
-El sur global, prosiguió, tiene **“desafíos muy importantes”** como “los impactos diferenciados que tiene la crisis climática, las olas migratorias o los conflictos”.
-
-“Compartimos la necesidad de potenciar un buen diálogo desde la perspectiva del sur global, desde la dirección sur-sur”, añadió.
-
-Entre otras actividades, De la Fuente firmó durante su **gira africana dos memorando**s de entendimiento: uno sobre cooperación entre la Academia Diplomática de Chile Andrés Bello y la Academia del Servicio Exterior de Kenia, y otro de cooperación con Sudáfrica en materia de pesca y acuicultura. 
-
-Cortes de luz en Quito para este 10 de noviembre
-================================================
-
-El Ministerio de Energía extendió los horarios de cortes de luz en todo el Ecuador.
------------------------------------------------------------------------------------
-
-![Los cortes de luz tienen una duración de hasta 12 horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/Cortes-de-luz-Quito-1.jpg)
-
-El **Ministerio de Energía** y Minas del Ecuador anunció cortes de luz de hasta 12 horas en todo el país, en respuesta a una severa disminución en los caudales de las centrales hidroeléctricas **Mazar** y **Coca Codo Sinclair[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")**
-
-### Más noticias
-
-* [Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-9-10-noviembre-2024.html "Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024")
-* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
-* [Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luzcronograma-nuevo-ecuador.html "Cortes de luz de hasta 12 horas en Ecuador para el 9 y 10 de noviembre")
-
-En Quito, la Empresa Eléctrica Quito ajustó los horarios de racionamiento eléctrico, afectando a varias zonas en diferentes franjas horarias durante el domingo 10 de noviembre.
-
-Horarios de cortes de luz en Quito
-----------------------------------
-
-Los cortes se distribuyen de la siguiente manera:
-
-* **De 00:00 a 06:00 y de 16:00 a 22:00**: Miraflores, Río Coca, Conocoto, Tumbaco, Cumbayá.
-* **De 00:00 a 06:00 y de 14:00 a 20:00**: Luluncoto, Chilibulo, La Floresta, Cristianía, Epiclachima.
-* **De 03:00 a 09:00 y de 12:00 a 18:00**: La Carolina, Nueva Cumbayá, Tababela, Los Bancos, Pérez Guerrero, El Obraje (Machachi).
-* **De 09:00 a 15:00 y de 18:00 a 24:00**: Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao, Inga Bajo.
-* **De 08:00 a 14:00 y de 18:00 a 24:00**: Barrionuevo, Iñaquito, Santa Rosa, Sangolquí, El Quinche.
-* **De 06:00 a 12:00 y de 16:00 a 22:00**: Olímpico, El Bosque, San Antonio, Alangasí, San Rafael, Pomasqui, Eugenio Espejo.
-
-Razones para el aumento de los cortes de luz
---------------------------------------------
-
-La decisión de extender los cortes de luz a 12 horas responde a un contexto crítico de baja de caudales en las principales hidroeléctricas del Ecuador.
-
-Además, el **Ministerio de Energía** informó que realiza mantenimientos de emergencia en las centrales **Agoyán**, **San Francisco** y otras plantas térmicas. El objetivo es garantizar la seguridad y continuidad del Sistema Eléctrico Nacional y evitar fallas mayores.
-
-El anuncio, realizado de forma repentina y luego de otro comunicado emitido la noche del viernes 8 de noviembre, generó incomodidad en la ciudadanía, que ha visto afectadas sus actividades cotidianas debido a la **reprogramación** **de los cortes.**
-
-TCE definirá la candidatura de Jan Topic
-========================================
-
-Jan Topic reaccionó a una posible resolución del TCE en sus redes sociales.
----------------------------------------------------------------------------
-
-![La reunión será de manera presencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jan-Topic.jpg)
-
-La presidenta del Tribunal Contencioso Electoral (TCE), Ivonne Coloma Peralta, convocó a una **Sesión Extraordinaria Jurisdiccional** del Pleno para este **domingo 10 de noviembre de 2024** a las **20:00**[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025")
-
-### Más noticias
-
-* [Un candidato presidencial anuncia que podría dejar la campaña electoral](https://www.elcomercio.com/actualidad/politica/candidato-presidencial-anuncia-podria-dejar-campana-electoral.html "Un candidato presidencial anuncia que podría dejar la campaña electoral")
-* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
-* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
-
-El tema principal será la resolución de la candidatura de **Jan Topic**, patrocinado por el partido Sociedad Unida Más Acción (SUMA).
-
-La sesión se realizará de manera **presencial** en la sala de sesiones del Órgano de Justicia Electoral, ubicada en Juan León Mera N21-152 y Vicente Ramón Roca, en el Distrito Metropolitano de Quito, provincia de Pichincha.
-
-Contexto de la objeción a la candidatura
-----------------------------------------
-
-El Partido Sociedad Patriótica (PSP), lista 3, y el Pachakutik (PK), lista 18, objetaron la candidatura de Jan Topic, argumentando que mantiene contratos con el Estado. El **Código de la Democracia** lo prohíbe para quienes buscan participar en elecciones.
-
-Sin embargo, el **Consejo Nacional Electoral (CNE)**, en sesión del 8 de octubre de 2024, rechazó estas objeciones al constatar, con los registros de la **Superintendencia de Compañías** y el **Servicio Nacional de Contratación Pública (Sercop)**, que Topic no tiene contratos con el Estado.
-
-En respuesta, PSP y PK presentaron recursos ante el TCE. El juez Ángel Torres elaboró un proyecto de sentencia que el pleno del Tribunal resolverá en una única instancia, sin posibilidad de apelación.
-
-Reacciones de Topic y su equipo
--------------------------------
-
-Previo a la reunión, Jan Topic se pronunció en su cuenta de X y denunció una supuesta decisión de descalificación: “Rumores de descalificación ante TCE. Saben que NO soy contratista del Estado, pero argumentan: ‘posiblemente podría a futuro beneficiarse de algún contrato.’ ¿La razón real? Abajo”, expresó el empresario.
-
-Por su parte, **Guillermo Celi**, cofundador de SUMA, llamó a sus seguidores a manifestarse en apoyo a Topic este domingo en las instalaciones del TCE, en Quito. En su cuenta de X, Celi escribió: “A defender la libertad de los ecuatorianos a elegir a su candidato a la Presidencia de la República. No permitiremos que el gobierno de Noboa saque a Jan Topic de la papeleta”.
-
-> Rumores de descalificación ante TCE. Saben que NO soy contratista del Estado, pero argumentan: “posiblemente podría a futuro beneficiarse de algún contrato.” ¿La razón real? Abajo. Daniel, la vamos a pelear en la OEA, CIDH—créeme, tu no serás presidente; Ecuador merece mejor. [pic.twitter.com/1fq55zVrro](https://t.co/1fq55zVrro)
-> 
-> — Jan T. Topić (@jantopicecuador) [November 10, 2024](https://twitter.com/jantopicecuador/status/1855425133508284875?ref_src=twsrc%5Etfw)
-
-Pronunciamiento de la OEA
--------------------------
-
-El secretario general de la **OEA**, **Luis Almagro**, también se pronunció sobre las versiones de una posible inhabilitación de Jan Topic.
-
-Almagro señaló que “ante versiones oficiosas respecto a la **inhabilitación** del candidato a la Presidencia de Ecuador, **Jan** **Topic**, consideramos que, de hacerse efectiva, la misma constituiría un fuerte golpe a la integridad del presente **proceso electoral** y un serio revés a la **democracia ecuatoriana**”.
-
-> Ante versiones oficiosas respecto a la inhabilitación del candidato a la Presidencia de [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) Jan Topic [@jantopicecuador](https://twitter.com/jantopicecuador?ref_src=twsrc%5Etfw), consideramos que, de hacerse efectiva, la misma constituiría un fuerte golpe a la integridad del presente proceso electoral y un serio revés a la…
-> 
-> — Luis Almagro (@Almagro\_OEA2015) [November 10, 2024](https://twitter.com/Almagro_OEA2015/status/1855618648720703894?ref_src=twsrc%5Etfw)
-
-**Comunicado de la Cancillería del Ecuador**
---------------------------------------------
-
-A las 13:15, de este 10 de noviembre de 2024, la Cancillería publicó en su cuenta de X un comunicado oficial como respuesta a las declaraciones de Almagro.
-
-> Comunicado oficial | [pic.twitter.com/eKtmApM1hp](https://t.co/eKtmApM1hp)
-> 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [November 10, 2024](https://twitter.com/CancilleriaEc/status/1855675667280494873?ref_src=twsrc%5Etfw)
-
-El embalse Mazar perdió cinco metros desde el 4 de noviembre
-============================================================
-
-La sequía hidrológica en Cuenca alcanzó los 121 días. Es la más prolongada desde que se tienen registros. En el 2023 fueron 117 días.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![El embalse de Mazar es uno de los más importantes del país, ya que alimenta a tres hidroeléctricas de la cuenca del Paute.](https://www.elcomercio.com/wp-content/uploads/2024/11/mazar-0611.jpg)
-
-**Cuenca** cumplió 121 días de **sequía hidrológica** y los embalses de las centrales **Mazar y Paute** son los más afectados.
-
-La cota en **Mazar** se ubicó en los 2 111,1 metros sobre el nivel del mar este domingo 10 de noviembre de 2024.
-
-Es decir, desde el 4 de noviembre ha perdido casi cinco metros por tres factores principales.
-
-El primero es que los caudales de la cuenca del **río Paute** siguen en niveles bajos.
-
-El segundo es porque Mazar opera todos los días -aunque por horas.
-
-El último factor es que sus reservas se entregaron al embalse de **la central hidroeléctrica Paute**, que está ubicada aguas abajo.
-
-### Más noticias
-
-* [Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-9-10-noviembre-2024.html "Estos son los cortes de luz en Guayaquil el 9 y 10 de noviembre del 2024")
-* [Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses](https://www.elcomercio.com/actualidad/ecuador/lluvias-en-ecuador-deberian-caer-por-un-mes-sin-parar-para-ayudar-a-embalses.html "Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses")
-
-La generación en Mazar y Paute
-------------------------------
-
-**Paute** es la segunda mayor generadora de Ecuador, luego de **Coca Codo Sinclair**.
-
-En la casa de máquinas de Paute mantienen niveles alto de producción para cubrir la demanda eléctrica de Ecuador y suplir el descenso en los aportes de otras hidroeléctricas como **Agoyán y San Francisco**.
-
-El sábado 9 de noviembre generó 5 773 megavatios hora y lo hizo hasta con ocho de sus 10 turbinas. 
-
-**Mazar y Sopladora,** que también forman parte del complejo hidroeléctrico Paute, ubicado en los límites de Azuay, Cañar y Morona Santiago, también están generando.
-
-**El Operador Nacional de Electricidad (Cenace)** programó para este domingo 10 que este complejo aporte con cerca del 10% de la generación hidroeléctrica.
-
-**Coca Codo Sinclair** lo hará con el 36%, según el Cenace.
-
-Para este domingo 10 de noviembre se prevé que la producción hidráulica sea el 48%. La diferencia se cubrirá con **térmica, eólica, gas natural**…
-
-La sequía en Cuenca
--------------------
-
-Los caudales ríos **Yanuncay, Tomebamba, Machángara y Tarqui** están bajos. Cuenca enfrenta un sequía hidrológica de 121 días, que es la más larga desde 1973. Es decir, desde que se tienen registros. A finales del 2023 fueron 117 días.
-
-Según el coordinador de la **Red Hidrometereológica de Cuenca**, **Rigoberto Guerrero**, para este noviembre se prevé que existan lluvias, pero de forma puntual.
-
-Es decir, por tiempos cortos e intensos, pero no en las zonas de recarga hídricas.
-
-Según Guerrero, eso ocasiona que los caudales de los ríos suban de un momento a otro, pero no sean sostenibles en el tiempo y, prácticamente, no son un mayor aporte para el embalse de Mazar.
-
-Se requieren entre “15 y 20 días de lluvias continuas para salir de esta sequía”, dice el experto.
-
-En **diciembre** se pronostica que existan más lluvias, pero Guerrero estima que la sequía hidrológica persistirá.
-
-Un viaje lingüístico y cultural a través de la historia de los trabalenguas 
-============================================================================
-
-Explora los orígenes, beneficios y cultura de los trabalenguas.
----------------------------------------------------------------
-
-![Los trabalenguas: antiguas herramientas griegas que cruzaron culturas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Trabalenguas.jpg)
-
-El **Día del Trabalenguas** se conmemora cada **segundo domingo de noviembre (este año se celebra el día 10)**, una fecha que invita a los amantes de las palabras a disfrutar de la **riqueza y complejidad del lenguaje**. Este día no solo es una celebración lúdica, sino también un **reconocimiento a la historia y los beneficios** de los trabalenguas en la educación y la cultura. 
-
-### Más noticias
-
-* [Estancia del príncipe Harry y Meghan en EE.UU. en duda tras victoria de Trump](https://www.elcomercio.com/afull/principe-harry-meghan-markle-donald-trump.html "https://www.elcomercio.com/afull/principe-harry-meghan-markle-donald-trump.html") 
-* [El truco de lavadora que deja la ropa impecable y ahorra energía](https://www.elcomercio.com/tendencias/curiosidades/truco-lavadora-deja-ropa-impecable.html "https://www.elcomercio.com/tendencias/curiosidades/truco-lavadora-deja-ropa-impecable.html")
-
-**Origen de los trabalenguas** 
--------------------------------
-
-El **origen de los trabalenguas** se remonta a la **antigua Grecia**, donde se utilizaban como **herramientas educativas**. Los **sabios griegos** **creaban enigmas y juegos de palabras** para desarrollar habilidades oratorias y de dicción. Se consideraba que aquellos que podían pronunciar trabalenguas sin errores eran dignos de admiración por su conocimiento y habilidades lingüísticas, a decir de la web [Timetoast](https://www.timetoast.com/timelines/trabalenguas-origen "https://www.timetoast.com/timelines/trabalenguas-origen"). 
-
-A lo largo de los siglos, **esta tradición se ha expandido a diversas culturas**. En muchos países, **los trabalenguas han evolucionado**, adaptándose a las particularidades lingüísticas de cada lengua. Por ejemplo, en español, se han popularizado frases como “Tres tristes tigres comían trigo en un trigal” o “Pablito clavó un clavito”. 
-
-**Beneficios de los trabalenguas** 
------------------------------------
-
-Estos **juegos de palabras** no solo son entretenidos, sino que también sirven como **ejercicios para mejorar la pronunciación y la fluidez verbal**. 
-
-Los trabalenguas han sido reconocidos por sus **múltiples beneficios**. Ayudan a **desarrollar la dicción, mejoran la memoria y fomentan el interés por el lenguaje**. En las aulas, son utilizados como **herramientas pedagógicas** para enseñar a los niños a expresarse con claridad y confianza, de acuerdo con [Poblanerias](https://www.poblanerias.com/2018/11/origen-y-celebracion-del-dia-mundial-del-trabalenguas/ "https://www.poblanerias.com/2018/11/origen-y-celebracion-del-dia-mundial-del-trabalenguas/"). 
-
-Además, su práctica puede ser un **ejercicio divertido que promueve la competitividad amistosa** entre amigos y familiares. 
-
-**Importancia cognitiva**  
----------------------------
-
-Los trabalenguas ofrecen **beneficios cognitivos significativos**. Al intentar pronunciar estas frases complicadas, **se ejercita el cerebro y se mejora la coordinación motora relacionada con el habla**. Estudios han demostrado que practicar trabalenguas puede ayudar a **mantener la mente activa y mejorar habilidades comunicativas**, a decir de [Computer Hoy](https://computerhoy.20minutos.es/reportajes/life/verdadero-origen-trabalenguas-que-es-tan-dificil-pronunciarlos-334297 "https://computerhoy.20minutos.es/reportajes/life/verdadero-origen-trabalenguas-que-es-tan-dificil-pronunciarlos-334297").  
-
-Además, son **herramientas efectivas en terapias del habla**, al ayudar a personas con **dificultades en la articulación**. 
-
-**Celebración del Día del Trabalenguas** 
------------------------------------------
-
-El Día Mundial del Trabalenguas es una **ocasión perfecta para explorar esta forma de arte lingüístico**. Durante este día, **personas de todas las edades participan en actividades** que incluyen competiciones de pronunciación, creación de nuevos trabalenguas y **sesiones de lectura en voz alta**. Estas actividades no solo celebran el lenguaje, sino que también **fomentan el aprendizaje colaborativo y el disfrute compartido del habla.** 
-
-Turismo a París
-===============
-
-El negocio aeronáutico es muy rentable y Ecuador debe desarrollarlo para brindar la seguridad y comodidad.
-----------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-Todos soñamos con ir al **romántico París** y **tomarnos** una **foto** con nuestra amada con la **Torre Eiffel** de fondo y 15 millones de personas lo consiguen cada año; y ahora con más facilidad, ya que han peatonizado el puente sobre el **río Sena** donde hasta hace un año había que tomarse la foto rapidito por el temor a ser atropellado. Ahora en el **puente caminan miles de personas** todo el día y más al atardecer cuando se **admira el encendido de luces de la Torre**.
-
-Si la opción es ir por **aviones low cost,** aparecen 3 aeropuertos: Charles de Gaulle, Orly y … Beauvais que es usado esencialmente por Ryanair, pero está a una hora y media al **norte de París** y por 10 euros menos en el pasaje, se escoge un vuelo a otra **ciudad distante a París**, donde no hay otra opción que subir a una única **línea de buses de ida y vuelta** a París por 32 euros adicionales más tres horas de viaje y unas 2 horas más de colas a la intemperie, lo que a inicios de noviembre es muy frío y asumo insufrible en **invierno**.
-
-Ya caído en la **trampa**, no queda, sino reconocer la **habilidad de Ryanair** para posicionarse en un **aeropuerto prefabricado** y aumentar una **línea de buses a sus vuelos**, que debería publicitarse como a Beauvais y no como a París. Esta **estrategia** de buscar **aeropuertos** pequeños sin uso, ha sido parte del **éxito** de esta **aerolínea**, que busca ciudades con un pequeño **aeropuerto** y **monta vuelos** de bajo costo que convierten en **destino de moda** a sitios que no se sabía que existían y lo que el **usuario** ahorra en vuelo, lo paga en transporte adicional, **alimentación** y colas bajo condiciones **climáticas severas**.
-
-A **Ecuador** aún no llegan **aerolíneas** low cost y una que dice serlo no lo es, tiene un **sinfín de costos** escondidos que al final resulta más cara que las **convencionales**. Pero sí tenemos **aeropuertos prefabricados** y abandonados como el de Tena o viejos y sin vuelos como el de Riobamba, **dos ciudades divididas** por sinuosas **carreteras** que exigen 4 horas de maltratar el coche y de jugarse la vida ante **buseros suicidas**.
-
-El **negocio aeronáutico** es muy rentable y **Ecuador** debe desarrollarlo para brindar la **seguridad** y **comodidad** que han perdido **muchas carreteras y viajar en aviones** que no nos dejen en Quito, pero si en Latacunga; que en Guayaquil vendan vuelos a Baños de Agua Santa, pero aterricen en el aeropuerto de Shell a 1 hora de Baños y a 10 minutos de Puyo.
-
-Es necesario crear tantos **incentivos** para el **transporte** aéreo interno seguro y rápido, como los que existen para el caótico **transporte terrestre**.
