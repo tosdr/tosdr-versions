@@ -115,9 +115,9 @@ Single Sign-On for Education](https://www.classlink.com/solutions/single-sign-on
 
 Remote Learning](https://www.classlink.com/solutions/remote-learning)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde72551585bb7215cab1e_nav-apps-icon.svg)
 
-View Our 6,000+ App Library](https://www.classlink.com/resources/sso)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde72551585bb7215cab1e_nav-apps-icon.svg)
+View Our 6,000+ App Library](https://www.classlink.com/resources/sso-search)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62bde72551585bb7215cab1e_nav-apps-icon.svg)
 
-View Our 6,000+ App Library](https://www.classlink.com/resources/sso)
+View Our 6,000+ App Library](https://www.classlink.com/resources/sso-search)
 
 Products
 
