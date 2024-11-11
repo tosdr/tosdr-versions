@@ -205,28 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Tattoo SWAT](https://www.somethingawful.com/fashion-swat/tattoo-swat/1/)
-* [SO LONG 2008 YOU FAGGOT YEAR](https://www.somethingawful.com/levi-johnston/tripp-levi-johnston/1/)
-* [Steve's 2008 Golden Hotbabe Awards for Miniature Excellence](https://www.somethingawful.com/feature-articles/miniatures-awards-painting/1/)
-* [/r/Community (Thanks, Ryan!)](https://www.somethingawful.com/awful-links/reddit-rcommunity-netflix/)
-* [Embarassing Sexual Moments Part 2](https://www.somethingawful.com/comedy-goldmine/embarassing-sexual-moments-2/1/)
+* [Myspace SWAT](https://www.somethingawful.com/fashion-swat/myspace-swat/1/)
+* [Alien Blood](https://www.somethingawful.com/movie-reviews/alien-blood/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Tone it Down a Notch!](https://www.somethingawful.com/photoshop-phriday/tone-down-notch/1/)
+* [The Soccer Mystery!](https://www.somethingawful.com/photoshop-phriday/hadji-diouf-gif/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/phiz-crabcore.gif) [It sucks to be invisible](http://forums.somethingawful.com/showthread.php?threadid=4075107 "It sucks to be invisible")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [What are some dirty secrets about the industry you work in?](http://forums.somethingawful.com/showthread.php?threadid=4075100 "What are some dirty secrets about the industry you work in?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [can I do this (goon project)](http://forums.somethingawful.com/showthread.php?threadid=4075094 "can I do this (goon project)")
+* ![](https://fi.somethingawful.com/forums/posticons/phiz-crabcore.gif) [It sucks to be invisible](http://forums.somethingawful.com/showthread.php?threadid=4075107 "It sucks to be invisible")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [i tried to make fondue and i barely survived](http://forums.somethingawful.com/showthread.php?threadid=4075122 "i tried to make fondue and i barely survived")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [SASS 2024: This Time With Spirit Halloween](http://forums.somethingawful.com/showthread.php?threadid=4075097 "SASS 2024: This Time With Spirit Halloween")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [SA gratitude journal](http://forums.somethingawful.com/showthread.php?threadid=4075072 "SA gratitude journal")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [i tried to make fondue and i barely survived](http://forums.somethingawful.com/showthread.php?threadid=4075122 "i tried to make fondue and i barely survived")
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [What are some dirty secrets about the industry you work in?](http://forums.somethingawful.com/showthread.php?threadid=4075100 "What are some dirty secrets about the industry you work in?")
 
 ### Random Articles
 
-* [PIPER PALIN PLEASE LEAVE MY SISTER ALONE](https://www.somethingawful.com/levi-johnston/piper-mercede-feud/1/)
-* [Make Fictional Animals Real!](https://www.somethingawful.com/photoshop-phriday/fictional-animals-life/1/)
-* [Life: An Exclusive Review](https://www.somethingawful.com/news/life-an-exclusive/)
-* [A Trip to Old Console Hell, and What I Found There](https://www.somethingawful.com/news/gamecube-ps2-auction/)
-* [Wing Music](https://www.somethingawful.com/awful-links/awful-link-1672/)
+* [Everyone in Their Place](https://www.somethingawful.com/news/everyone-their-place/)
+* [The Flag Factory (Thanks, Hollisbrown!)](https://www.somethingawful.com/awful-links/theflagfactory-theflagpole/)
+* [The Official Dragonlance Faq](https://www.somethingawful.com/awful-links/awful-link-3892/)
+* [The Alpha Weed Comedian](https://www.somethingawful.com/news/american-pothead/)
+* [Rare Bazooka Joe Comics](https://www.somethingawful.com/news/bazooka-joe/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
