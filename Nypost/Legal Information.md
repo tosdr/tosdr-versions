@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Cops hunt for 23-year-old accused of stabbing his dad to death on Long Island](https://nypost.com/2024/11/11/us-news/23-year-old-allegedly-stabs-dad-to-death-on-long-island/)
+
 Privacy Notice Highlights
 =========================
 
