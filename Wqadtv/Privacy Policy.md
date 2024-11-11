@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/KARE/images/7b460132-2f11-47a9-ae7b-ed3aaf221d9c/20241107T183040/7b460132-2f11-47a9-ae7b-ed3aaf221d9c_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/7b460132-2f11-47a9-ae7b-ed3aaf221d9c/20241107T183040/7b460132-2f11-47a9-ae7b-ed3aaf221d9c_360x203.jpg)](https://www.wqad.com/article/news/local/post-election-november-2024-results-managing-mental-health-self-care-anxiety-depression-nami-iowa-iowa-mental-health-advocacy/524-ef3126b3-c0eb-4679-a8e6-42869b507c44)
+        
+        #### [Here’s how to cope with post-election stress](https://www.wqad.com/article/news/local/post-election-november-2024-results-managing-mental-health-self-care-anxiety-depression-nami-iowa-iowa-mental-health-advocacy/524-ef3126b3-c0eb-4679-a8e6-42869b507c44)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-mount-carroll-illinois-death-inquest/526-0fe412d9-503d-4aff-8efc-fd9862ce985f)
         
         #### [Inquest scheduled in the death of Jackson Kradle](https://www.wqad.com/article/news/local/jackson-kradle-mount-carroll-illinois-death-inquest/526-0fe412d9-503d-4aff-8efc-fd9862ce985f)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_360x203.jpg)](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
-        
-        #### [Carroll County Sheriff's Office releases statement about death of Jackson Kradle](https://www.wqad.com/article/news/local/carroll-county-sheriff-office-statement-jackson-kradle-death/526-894c5c1c-bbdd-4953-a024-898340b5e4da)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/24419574-5290-455d-a1ec-4de9212edcee/20241111T001329/24419574-5290-455d-a1ec-4de9212edcee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/24419574-5290-455d-a1ec-4de9212edcee/20241111T001329/24419574-5290-455d-a1ec-4de9212edcee_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2d0eb7a3-794c-4e33-af74-ab1f9d544261/20241111T134137/2d0eb7a3-794c-4e33-af74-ab1f9d544261_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2d0eb7a3-794c-4e33-af74-ab1f9d544261/20241111T134137/2d0eb7a3-794c-4e33-af74-ab1f9d544261_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [A breezy and sunny Veterans Day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-47°
+50°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
