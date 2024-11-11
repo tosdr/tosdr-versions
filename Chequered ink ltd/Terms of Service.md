@@ -13,7 +13,7 @@
 * [About](https://chequered.ink/about/)
     * [Elsewhere](https://chequered.ink/elsewhere/)
     * [Press](https://chequered.ink/press/)
-    * [Terms of Use](https://chequered.ink/terms-of-use/)
+    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
     * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
 * [Contact](https://chequered.ink/contact/)
 
@@ -25,7 +25,7 @@
 * [About](https://chequered.ink/about/)
     * [Elsewhere](https://chequered.ink/elsewhere/)
     * [Press](https://chequered.ink/press/)
-    * [Terms of Use](https://chequered.ink/terms-of-use/)
+    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
     * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
 * [Contact](https://chequered.ink/contact/)
 
@@ -33,14 +33,14 @@ Search for:
 
 [![Chequered Ink](https://chequered.ink/wp-content/uploads/2024/05/cropped-web_logo.png)](https://chequered.ink/ "Chequered Ink | Home page")
 
-Terms of Use
-============
+Terms and Conditions
+====================
 
-Last updated: 23/01/2017
+Last updated: 11/11/2024
 
 **1\. Definition of terms**
 
-* “The company” hereafter refers to Chequered Ink Ltd.
+* “The company” hereafter refers to Chequered Ink Ltd. registered company no. 09646754 in England & Wales.
 * “Products” hereafter refers to any free or paid application, game, software, asset or any other obtainable or downloadable item created by the company.
 * “The agreement” refers to the terms of use as described on this page.
 
@@ -49,7 +49,7 @@ Last updated: 23/01/2017
 
 * To use the company’s products you must agree to the terms of use described here.
 * Downloading, purchasing or using any of the company’s products implies that you have read and understood this agreement.
-* If you fail to comply with the terms of use you should cease to use the products and destroy any personal copies of the products you have.
+* If you fail to comply with the terms of use you should cease to use the products and return or destroy any personal copies of the products you have.
 * The terms are not all encompassing and the company reserves the right to cancel the agreement with individuals on a case-by-case basis.
 * You are NOT eligible to agree to these terms if current international or local laws prevent you from agreeing to these terms or using the products provided by the company. It is your responsibility to check these laws.
 * These terms are subject to change. You will be subject to such changes whenever you make use of a product after the change.
@@ -84,6 +84,9 @@ Last updated: 23/01/2017
   
 **6\. Refunds**
 
+* The company will provide full refunds for any product sold online or over the phone if:
+    * The customer asks within 14 days of receiving the product;
+    * The product is returned in the state which it was received.
 * The company is not responsible for providing refunds on products sold through third-party vendors. These vendors usually have their own refund policies which you should check before purchasing products.
 
   
