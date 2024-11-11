@@ -4,30 +4,20 @@
 
 * Get to know us
     
+* Bringing people together
+    
+* Building spatial intelligence
+    
 * Work with us
-    
-* Create with us
-    
-    * Lightship **(Unity)**
-        
-    * 8th Wall **(Web)**
-        
-    
-* Explore with us
     
 
 * Get to know us
     
+* Bringing people together
+    
+* Building spatial intelligence
+    
 * Work with us
-    
-* Create with us
-    
-    * Lightship **(Unity)**
-        
-    * 8th Wall **(Web)**
-        
-    
-* Explore with us
     
 
 Niantic Terms of Service
@@ -445,7 +435,7 @@ Careers
 
 Careers
 
-Developers
+Platform
 
 Products
 
