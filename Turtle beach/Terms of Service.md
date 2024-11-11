@@ -1,3 +1,5 @@
+Extended returns through 1.31.25. [Learn More](https://www.turtlebeach.com/pages/terms-of-sale#returns "Learn More")
+
 Unique. Colorful. Innovative. Check out our PDP brand today. [SHOP NOW](https://pdp.com/ "shop now")
 
 Free Shipping on orders over $39
