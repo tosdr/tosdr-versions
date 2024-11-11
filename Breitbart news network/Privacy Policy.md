@@ -55,10 +55,10 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
+* [Veterans Day](https://www.breitbart.com/tag/veterans-day/)
 * [Trump Landslide](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Media Meltdown](https://www.breitbart.com/the-media/)
 * [Hollywood Hate](https://www.breitbart.com/entertainment/)
-* [Amsterdam Pogrom](https://www.breitbart.com/tag/amsterdam/)
 * [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
