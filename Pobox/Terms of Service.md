@@ -29,7 +29,6 @@
         * [About us](https://www.pobox.com/company/about/)
         * [Our values](https://www.pobox.com/company/values/)
         * [API Documentation](https://www.pobox.com/dev/)
-        * [Policies](https://www.pobox.com/policies/)
     * Download the app
         
         * [App Store Download Fastmail on the App Store](https://apps.apple.com/us/app/fastmail-email-calendar/id931370077)
@@ -47,13 +46,13 @@ Policies
 
 * End user policies
     
+    * [Data Transparency Report](https://www.pobox.com/policies/transparency-report/)
     * [Terms of Service](https://www.pobox.com/policies/terms-of-service/)
     * [Privacy policy](https://www.pobox.com/policies/privacy/)
-    * [Data Transparency Report](https://www.pobox.com/policies/transparency-report/)
+    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     * [Fastmail Domain Terms of Service](https://www.pobox.com/policies/domains-terms-of-service/)
     * [Data Protection Agreement](https://www.pobox.com/policies/dpa/)
     * [PartnerStack Terms of Service](https://www.pobox.com/policies/partnerstack-terms-of-service/)
-    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     
 * Developers and integration partners
     
@@ -74,13 +73,13 @@ Policies
 
 * End user policies
     
+    * [Data Transparency Report](https://www.pobox.com/policies/transparency-report/)
     * [Terms of Service](https://www.pobox.com/policies/terms-of-service/)
     * [Privacy policy](https://www.pobox.com/policies/privacy/)
-    * [Data Transparency Report](https://www.pobox.com/policies/transparency-report/)
+    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     * [Fastmail Domain Terms of Service](https://www.pobox.com/policies/domains-terms-of-service/)
     * [Data Protection Agreement](https://www.pobox.com/policies/dpa/)
     * [PartnerStack Terms of Service](https://www.pobox.com/policies/partnerstack-terms-of-service/)
-    * [Cookies policy](https://www.pobox.com/policies/cookies-policy/)
     
 * Developers and integration partners
     
