@@ -156,7 +156,7 @@ IF FOR ANY REASON, YOU ARE UNABLE OR UNWILLING TO AGREE TO ALL OUR TERMS OF USE,
     
 8. **Copyright Policy.**
     
-    You may not post, distribute, perform, display, transmit or reproduce in any way any copyrighted material, trademarks, or other proprietary information without obtaining the prior written consent of the owner of such proprietary rights. Ookla has registered a designated agent with the Copyright Office pursuant to 17 U.S.C. §512(c). If you believe that your work has been copied and posted on the Services in a way that constitutes copyright or trademark infringement, please notify the designated agent, Ziff Davis, LLC at 114 5th Avenue, 15th Floor, New York, New York 10011, Attn: Legal Department, fax: (212) 503-5136, or by email [legal@ziffdavis.com](mailto:legal@ziffdavis.com) and insert “**_Terms of Use_**” in the subject line.
+    You may not post, distribute, perform, display, transmit or reproduce in any way any copyrighted material, trademarks, or other proprietary information without obtaining the prior written consent of the owner of such proprietary rights. Ookla has registered a designated agent with the Copyright Office pursuant to 17 U.S.C. §512(c). If you believe that your work has been copied and posted on the Services in a way that constitutes copyright or trademark infringement, please notify the designated agent, Ziff Davis, LLC at 360 Park Avenue South, 17th Floor, New York, New York 10010, Attention: Legal Department, fax: (212) 503-5136, or by email [legal@ziffdavis.com](mailto:legal@ziffdavis.com) and insert “**_Terms of Use_**” in the subject line.
     
     A notification of claimed infringement must include the following:
     
