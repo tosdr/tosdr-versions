@@ -90,10 +90,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[River Flood Warning
-
-until MON 8:40 AM CST, Jack County](https://www.fox4news.com/weather-alerts)
-
 Privacy Policy
 ==============
 
@@ -405,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![American Freight closing all stores amid parent company's bankruptcy filing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/everything-mustgo.jpg?ve=1&tl=1)
+
+ ![American Freight closing all stores amid parent company's bankruptcy filing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/everything-mustgo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-freight-closing-stores-parent-companys-bankruptcy-filing)
+
+### [American Freight closing all stores amid parent company's bankruptcy filing](https://www.fox4news.com/news/american-freight-closing-stores-parent-companys-bankruptcy-filing)
+
  [![Boil water notice issued in Alvord](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111024-alvord-boil-water-notice.jpg?ve=1&tl=1)
 
  ![Boil water notice issued in Alvord](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111024-alvord-boil-water-notice.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boil-water-notice-issued-alvord)
@@ -428,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Escaped monkeys update: More than half safely recovered, several still on the loose](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183211739.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/escaped-monkeys-south-carolina)
 
 ### [Escaped monkeys update: More than half safely recovered, several still on the loose](https://www.fox4news.com/news/escaped-monkeys-south-carolina)
-
- [![Dallas murder suspect, 18, believed to be in country illegally, records show](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jason-steven-dallas.jpg?ve=1&tl=1)
-
- ![Dallas murder suspect, 18, believed to be in country illegally, records show](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jason-steven-dallas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-jason-steven)
-
-### [Dallas murder suspect, 18, believed to be in country illegally, records show](https://www.fox4news.com/news/dilido-road-shooting-jason-steven)
 
 ###### [News](https://www.fox4news.com/news)
 
