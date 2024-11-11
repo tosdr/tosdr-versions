@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/88a7c891-effd-4fc0-8d7f-1af06ee70a2f/20241111T130449/88a7c891-effd-4fc0-8d7f-1af06ee70a2f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/88a7c891-effd-4fc0-8d7f-1af06ee70a2f/20241111T130449/88a7c891-effd-4fc0-8d7f-1af06ee70a2f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/a3136828-140f-4710-88b2-ebb5e1762c3d/20241111T061404/a3136828-140f-4710-88b2-ebb5e1762c3d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3136828-140f-4710-88b2-ebb5e1762c3d/20241111T061404/a3136828-140f-4710-88b2-ebb5e1762c3d_360x203.jpg)](https://www.king5.com/article/news/snow-lovers-hope-incoming-storm-brings-new-life-washington-mountain-towns/281-f7f4cd97-b995-4bda-938e-2260f3bacb54)
         
         #### [Snow lovers hope incoming storm brings new life to Washington's mountain towns](https://www.king5.com/article/news/snow-lovers-hope-incoming-storm-brings-new-life-washington-mountain-towns/281-f7f4cd97-b995-4bda-938e-2260f3bacb54)
-        
-    *  [![](https://media.king5.com/assets/KING/images/49a539bf-13ca-400e-99c9-7231bd2a3b3e/20241110T160239/49a539bf-13ca-400e-99c9-7231bd2a3b3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/49a539bf-13ca-400e-99c9-7231bd2a3b3e/20241110T160239/49a539bf-13ca-400e-99c9-7231bd2a3b3e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-51°
+52°
 
 ![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
