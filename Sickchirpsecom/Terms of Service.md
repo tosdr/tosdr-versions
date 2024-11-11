@@ -417,6 +417,18 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/mattel-wicked-doll-site-packaging.webp)](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+
+### [Mattel’s ‘Wicked’ Movie Dolls Accidentally List Porn Site On Packaging](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+
+[Read More »](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/pub-full-english.jpg)](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+
+### [Pub Responds To Backlash After Charging Customers £25 For A Full English Breakfast](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+
+[Read More »](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/banned-transgender-autism-football.webp)](https://www.sickchirpse.com/girl-with-autism-17-banned-for-asking-transgender-opponent-are-you-a-man/)
 
 ### [Girl With Autism, 17, Banned For Asking Transgender Opponent: ‘Are You A Man?’](https://www.sickchirpse.com/girl-with-autism-17-banned-for-asking-transgender-opponent-are-you-a-man/)
@@ -434,21 +446,21 @@ SEND
 ### [Ambulance Hits Cyclist, Rushes Him To Hospital, Then Sticks Him With $1,800 Bill](https://www.sickchirpse.com/ambulance-hits-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill/)
 
 [Read More »](https://www.sickchirpse.com/ambulance-hits-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/gta-6.webp)](https://www.sickchirpse.com/new-update-on-gta-6-issued-by-rockstars-parent-company-take-two/)
-
-### [New Update On GTA 6 Issued By Rockstar’s Parent Company Take-Two](https://www.sickchirpse.com/new-update-on-gta-6-issued-by-rockstars-parent-company-take-two/)
-
-[Read More »](https://www.sickchirpse.com/new-update-on-gta-6-issued-by-rockstars-parent-company-take-two/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/primark.jpg)](https://www.sickchirpse.com/primark-quality-tests-find-15-jeans-as-durable-as-150-pair/)
-
-### [Primark Quality Tests Find £15 Jeans As ‘Durable’ As £150 Pair](https://www.sickchirpse.com/primark-quality-tests-find-15-jeans-as-durable-as-150-pair/)
-
-[Read More »](https://www.sickchirpse.com/primark-quality-tests-find-15-jeans-as-durable-as-150-pair/)
 
 #### trending post
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/mattel-wicked-doll-site-packaging.webp)](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+
+### [Mattel’s ‘Wicked’ Movie Dolls Accidentally List Porn Site On Packaging](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+
+[Read More »](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/pub-full-english.jpg)](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+
+### [Pub Responds To Backlash After Charging Customers £25 For A Full English Breakfast](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+
+[Read More »](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/banned-transgender-autism-football.webp)](https://www.sickchirpse.com/girl-with-autism-17-banned-for-asking-transgender-opponent-are-you-a-man/)
 
 ### [Girl With Autism, 17, Banned For Asking Transgender Opponent: ‘Are You A Man?’](https://www.sickchirpse.com/girl-with-autism-17-banned-for-asking-transgender-opponent-are-you-a-man/)
@@ -466,18 +478,6 @@ SEND
 ### [Ambulance Hits Cyclist, Rushes Him To Hospital, Then Sticks Him With $1,800 Bill](https://www.sickchirpse.com/ambulance-hits-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill/)
 
 [Read More »](https://www.sickchirpse.com/ambulance-hits-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/primark.jpg)](https://www.sickchirpse.com/primark-quality-tests-find-15-jeans-as-durable-as-150-pair/)
-
-### [Primark Quality Tests Find £15 Jeans As ‘Durable’ As £150 Pair](https://www.sickchirpse.com/primark-quality-tests-find-15-jeans-as-durable-as-150-pair/)
-
-[Read More »](https://www.sickchirpse.com/primark-quality-tests-find-15-jeans-as-durable-as-150-pair/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/roger-rabbit-jessica.webp)](https://www.sickchirpse.com/roger-rabbit-director-says-sequel-wont-happen-because-disney-wont-use-jessica-rabbit/)
-
-### [Roger Rabbit Director Says Sequel ‘Won’t Happen’ Because Disney Won’t Use Jessica Rabbit](https://www.sickchirpse.com/roger-rabbit-director-says-sequel-wont-happen-because-disney-wont-use-jessica-rabbit/)
-
-[Read More »](https://www.sickchirpse.com/roger-rabbit-director-says-sequel-wont-happen-because-disney-wont-use-jessica-rabbit/)
 
 Copyright 2023 © All rights Reserved.
 
