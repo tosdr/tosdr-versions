@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![radio tower](/siteassets/resources/images/-news-centre/body-images/2024/mmwave-spectrum-auction-moves-a-step-closer/hero-1336--560px-mmwave-spectrum-auction-moves-a-step-closer.png?width=1920&height=1085&quality=80)
+
+### mmWave spectrum auction moves a step closer
+
+11 November 2024](https://www.ofcom.org.uk/spectrum/frequencies/mmwave-spectrum-auction-moves-a-step-closer/?language=en)
+
 [![Abstract Online (Web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/abstract-online-web.jpg?width=1920&height=1085&quality=80)
 
 ### Open letter to UK online service providers regarding Generative AI and chatbots
@@ -151,13 +157,7 @@
 
 1 November 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/tamara-ingram-obe-and-lord-allan-of-hallam-join-ofcom-board/)
 
-[![A close-up photo of a camera lens](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/sanction-thumbnail.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom fines GB News £100,000
-
-31 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-fines-gb-news/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
