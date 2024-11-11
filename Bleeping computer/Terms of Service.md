@@ -355,12 +355,12 @@ Popular Stories
 * [![Mazda infotainment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
-* [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    CISA warns of critical Palo Alto Networks bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-palo-alto-networks-bug-exploited-in-attacks/)
 * [![PyPI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Malicious PyPI package with 37,000 downloads steals AWS keys](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-with-37-000-downloads-steals-aws-keys/)
+* [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 
 ##### Follow us:
 
