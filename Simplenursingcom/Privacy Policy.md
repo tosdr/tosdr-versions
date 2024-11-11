@@ -5,6 +5,7 @@
     * [NCLEX-RN® Prep](https://simplenursing.com/nclex/ "NCLEX-RN® Prep")
     * [NCLEX-PN® Prep](https://simplenursing.com/nclex-pn/ "NCLEX-PN® Prep")
 * [Resources](# "Resources")
+    * [Study Guide Books](https://simplenursing.com/study-guide-books/ "Study Guide Books")
     * [NCLEX® Practice Questions](https://simplenursing.com/nclex-practice-questions-review/ "NCLEX® Practice Questions")
     * [NCLEX Prep Comparisons](https://simplenursing.com/nclex-prep-comparisons-2024/ "NCLEX Prep Comparisons")
     * [The SimpleNursing Blog](https://simplenursing.com/blog/ "The SimpleNursing Blog")
