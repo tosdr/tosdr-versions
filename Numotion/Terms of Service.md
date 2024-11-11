@@ -43,6 +43,8 @@
 
 [Menu](#navigation)
 
+[**Data Security Incident**](https://www.numotion.com/data-security-incident)
+
 Terms of Use
 ============
 
