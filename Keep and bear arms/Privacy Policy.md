@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 567 active visitors** | **Monday, November 11, 2024** |
+| **You are 1 of 410 active visitors** | **Monday, November 11, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**"Some people think that the Second Amendment is an outdated relic of an earlier time. Doubtless some also think that constitutional protections of other rights are outdated relics of earlier times. We The People own those rights regardless, unless and until We The People repeal them. For those who believe it to be outdated, the Second Amendment provides a good test of whether their allegiance is really to the Constitution of the United States, or only to their preferences in public policies and audiences. The Constitution is law, not vague aspirations, and we are obligated to protect, defend, and apply it. If the Second Amendment were truly an outdated relic, the Constitution provides a method for repeal. The Constitution does not furnish the federal courts with an eraser." --9th Circuit Court Judge Andrew Kleinfeld, dissenting opinion in which the court refused to rehear the case while citing deeply flawed anti-Second Amendment nonsense (Nordyke v. King; opinion filed April 5, 2004)
+ **QUOTES TO REMEMBER**No kingdom can be secured otherwise than by arming the people. The possession of arms is the distinction between a freeman and a slave. He, who has nothing, and who himself belongs to another, must be defended by him, whose property he is, and needs no arms. But he, who thinks he is his own master, and has what he can call his own, ought to have arms to defend himself, and what he possesses; else he lives precariously, and at discretion. � James Burgh, Political Disquisitions: Or, an Enquiry into Public Errors, Defects, and Abuses \[London, 1774-1775\].
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
