@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-eindtijd-zonnestormen-klimaatverandering-en-de-elite/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/wat-is-verlichting/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
