@@ -69,7 +69,7 @@ Page content follows
     
     #### Featured Radios
     
-    * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/710_160_PRODUCT_01_4764_-2139358587.jpg)](https://shop.siriusxm.com/onyx-ezr-vehicle)
+    * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/710_160_PRODUCT_01_4764_2008362462.jpg)](https://shop.siriusxm.com/onyx-ezr-vehicle)
         
         [Onyx EZR](https://shop.siriusxm.com/onyx-ezr-vehicle)
         
@@ -125,7 +125,7 @@ Page content follows
         
         #### Featured Radios
         
-        * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/710_160_PRODUCT_01_4764_-2139358587.jpg)](https://shop.siriusxm.com/onyx-ezr-vehicle)
+        * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/710_160_PRODUCT_01_4764_2008362462.jpg)](https://shop.siriusxm.com/onyx-ezr-vehicle)
             
             [Onyx EZR](https://shop.siriusxm.com/onyx-ezr-vehicle)
             
