@@ -190,7 +190,7 @@ Hi
         
     * [New! (64)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (37)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (35)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (24)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -266,7 +266,7 @@ Hi
         * [Prepared Produce (8)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (96)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (95)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
@@ -281,7 +281,7 @@ Hi
             
         * [Treats (14)](https://www.smithbrothersfarms.com/desserts)
             
-        * [Cookies (4)](https://www.smithbrothersfarms.com/cookie)
+        * [Cookies (3)](https://www.smithbrothersfarms.com/cookie)
             
         
     * [Meat (53)](https://www.smithbrothersfarms.com/meat-poultry)
@@ -318,10 +318,10 @@ Hi
         * [Coffee (29)](https://www.smithbrothersfarms.com/coffee-2)
             
         
-    * [Snacks (36)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (35)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
-        * [Salsa, Dips & Hummus (15)](https://www.smithbrothersfarms.com/salsa)
+        * [Salsa, Dips & Hummus (14)](https://www.smithbrothersfarms.com/salsa)
             
         * [Chips, Crackers & Nuts (18)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
