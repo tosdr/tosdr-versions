@@ -184,8 +184,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**November 10, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/november-10-2024-pbs-news-weekend-full-episode-1731254678?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Porsche 911 Dakar & 2024 Hyundai Kona EV** | MotorWeek](https://video.nhpbs.org/video/2024-porsche-911-dakar-2024-hyundai-kona-ev-i0h5i0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**How anger over Gaza war may have shaped some voters' choices** | PBS News Hour](https://video.nhpbs.org/video/gaza-fallout-1731188921?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**UNUM Chat: Atul Gawande** | Ken Burns UNUM](https://video.nhpbs.org/video/unum-chat-atul-gawande-xebbze?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Henry Mancini 100 at the Hollywood Bowl Preview** | Great Performances](https://video.nhpbs.org/video/henry-mancini-100-at-the-hollywood-bowl-preview-axuu8h?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Sheri Says: How to Roast Peppers** | The Key Ingredient](https://video.nhpbs.org/video/sheri-says-how-to-roast-peppers-sums9n?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
