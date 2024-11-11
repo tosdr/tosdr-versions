@@ -165,91 +165,65 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Zoology
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Hungry_Bumblebees_Fix_1400x1050.jpg)](https://www.icr.org/article/hungry-bumblebees-hurry-pollen-production)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/whole-armor-god)
 
-[Hungry Bumblebees Hurry Pollen Production](https://www.icr.org/article/hungry-bumblebees-hurry-pollen-production/)
+[The Whole Armor of God](https://www.icr.org/article/whole-armor-god/)
 
-May and June are abuzz with busy bees, really clever bumblebees.1,2 And their practical cleverness continues to astonish researchers, as a recently...
+“Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.” (Ephesians...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Orphaned_Manatee_1400x1050.jpg)](https://www.icr.org/article/orphaned-manatee-rescued-in-florida-keys)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/thy-word-is-settled)
 
-[Orphaned Manatee Rescued in Florida Keys](https://www.icr.org/article/orphaned-manatee-rescued-in-florida-keys/)
+[Thy Word Is Settled Forever](https://www.icr.org/article/thy-word-is-settled/)
 
-Necessities can be keys to forming new friendships, an orphaned baby manatee learned earlier this month.1 Maybe there is also a lesson for us...
+“For ever, O LORD, thy word is settled in heaven.” (Psalm 119:89) This is the central verse in the longest chapter in the longest...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Turtles_Tough_Times_1400x1050.jpg)](https://www.icr.org/article/turtles-birdwatching-living-through-tough-times)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/lessons-learn)
 
-[Turtles, Birdwatching, and Living Through Tough Times](https://www.icr.org/article/turtles-birdwatching-living-through-tough-times/)
+[Lessons to Learn](https://www.icr.org/article/lessons-learn/)
 
-How can learning about turtles and doing some birdwatching be useful during this time? Local disasters are declared, and ordinary life activities are restricted,...
+“But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.”...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/BeeConstruct_1400x1050.jpg)](https://www.icr.org/article/honey-bee-nest-constructing)
-
-[Incredible Honey Bees and Their Nest Constructing Skills](https://www.icr.org/article/honey-bee-nest-constructing/)
-
-It seems not a month goes by that more remarkable discoveries are made regarding the humble honey bee. They have been found capable of basic math,...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/sharkjaws_1400x1050.jpg)](https://www.icr.org/article/shark-jaws)
-
-[Shark Jaws](https://www.icr.org/article/shark-jaws/)
-
-Sharks are back in the news, and it’s in regard to their most formidable and fearsome structure—their jaws. Zoologists recently studied...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/MetabolismOrigin_1400x1050.jpg)](https://www.icr.org/article/metabolism-origin)
-
-[The Origin of Metabolism](https://www.icr.org/article/metabolism-origin/)
-
-Metabolism is the totality of chemical reactions that manage all of the molecular, material, and energy resources within an organism. Part of a creature’s...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475255/file.jpg)
 
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+The God Who is Real](https://store.icr.org/dr-henry-morris-the-god-who-is-real.html)
 
-$2.99
+$9.99
 
-$7.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
 
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+$19.99
 
-$7.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474441/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+The Beginning of the World](https://store.icr.org/dr-henry-morris-the-beginning-of-the-world.html)
 
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+$10.99
 
-$7.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
+The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
 
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+$47.99
 
-$15.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
 
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+$9.99
 
-$29.99
+$12.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
