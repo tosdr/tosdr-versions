@@ -35,7 +35,7 @@ Shipping & taxes calculated at checkout
 
 [Free shipping on orders $70+ (USA Only)](https://tuttletwins.store/collections/all)
 
-[Veterans Day Sale, Get 25% OFF with Code VET25
+[LAST CHANCE Veterans Day Sale, Get 25% OFF with Code VET25
 
 DAYS
 
