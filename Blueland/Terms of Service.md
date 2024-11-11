@@ -404,7 +404,7 @@ Quick Add
 
 ![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/847fff37b437c589680f7172ac66be994245d177-1790x1790.jpg?w=32&h=32&q=100&fit=clip&auto=format&w=3840)
 
-Bestseller](https://www.blueland.com/products/laundry-starter-set)
+Award Winner](https://www.blueland.com/products/laundry-starter-set)
 
 [Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
