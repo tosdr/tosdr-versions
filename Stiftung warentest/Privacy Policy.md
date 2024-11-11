@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
 Service Stiftung Warentest
 
