@@ -323,9 +323,8 @@ Advertise
 
 [![The Ferrari 12Cilindri is the perfect grand tourer for a place with no speed limits. ](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/198624f7055cc9e893cc860b98720c1d4963dfec)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-ferrari-12cilindri-is-tough-to-pronounce-impressive-to-drive-20241023-p5kkux)
 
-### [The Ferrari 12Cilindri is tough to pronounce, impressive to drive](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-ferrari-12cilindri-is-tough-to-pronounce-impressive-to-drive-20241023-p5kkux)
+### [This Ferrari is tough to pronounce, but impressive to drive](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-ferrari-12cilindri-is-tough-to-pronounce-impressive-to-drive-20241023-p5kkux)
 
-* 47 mins ago
 * Tony Davis
 
 * ### [Singapore layover? Check out New Bahru](https://www.afr.com/life-and-luxury/design/singapore-layover-check-out-new-bahru-20241107-p5kold)
