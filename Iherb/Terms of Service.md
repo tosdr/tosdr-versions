@@ -68,10 +68,6 @@ $38.3M+
 
 2023 kostenlos oder teilweise kostenlos erhaltene Bestellungen
 
-$17.3M+
-
-2023 ausgezahltes Guthaben
-
 Verfügbare Prämien
 
 Verfällt am {0}
