@@ -1,6 +1,6 @@
-![hamburger-menu](https://website.cdn.speechify.com/hamburger-menu-1.svg?quality=80&width=96)
+![hamburger-menu](https://website.cdn.speechify.com/hamburger-menu-1.svg?quality=80&width=1400)
 
-[![speechify-light](https://website.cdn.speechify.com/speechify-light.svg?quality=80&width=256)](https://speechify.com/en/)
+[![speechify-light](https://website.cdn.speechify.com/speechify-light.svg?quality=80&width=1400)](https://speechify.com/en/)
 
 [Text to Speech](https://speechify.com/en/text-to-speech-online/)
 
@@ -378,7 +378,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 
 ![footer-waves](https://website.cdn.speechify.com/footer-waves.svg?quality=80&width=3840)
 
-![](https://website.cdn.speechify.com/logo.svg?quality=80&width=256)
+![](https://website.cdn.speechify.com/logo.svg?quality=80&width=1400)
 
 [![app-store](https://website.cdn.speechify.com/app-store.svg?quality=80&width=3840)](https://apps.apple.com/app/speechify-text-to-speech-audio/id1209815023?ppid=6eb2aad7-ffe4-45fa-b138-50cc08d44770)[![play-store](https://website.cdn.speechify.com/play-store.svg?quality=80&width=3840)](https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2)
 
@@ -417,12 +417,12 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 * [Brand Kit](https://speechify.com/en/brand-kit/)
 * [Terms & Conditions](https://speechify.com/en/terms/)
 
-* [![icon-instagram](https://website.cdn.speechify.com/icon-instagram.svg?quality=80&width=64)](https://www.instagram.com/speechifyapp/?hl=en)
-* [![icon-facebook](https://website.cdn.speechify.com/icon-facebook.svg?quality=80&width=64)](https://www.facebook.com/getspeechify/)
-* [![icon-twitter-x](https://website.cdn.speechify.com/icon-twitter-x.svg?quality=80&width=64)](https://twitter.com/SpeechifyAI/)
-* [![icon-tiktok](https://website.cdn.speechify.com/icon-tiktok.svg?quality=80&width=64)](https://www.tiktok.com/@speechifyapp/)
-* [![icon-linkedin](https://website.cdn.speechify.com/icon-linkedin.svg?quality=80&width=64)](https://www.linkedin.com/company/getspeechify/)
-* [![icon-youtube](https://website.cdn.speechify.com/icon-youtube.svg?quality=80&width=64)](https://www.youtube.com/channel/UCdVAkcFLzG-nAWWASbZb4ZA/)
+* [![icon-instagram](https://website.cdn.speechify.com/icon-instagram.svg?quality=80&width=1400)](https://www.instagram.com/speechifyapp/?hl=en)
+* [![icon-facebook](https://website.cdn.speechify.com/icon-facebook.svg?quality=80&width=1400)](https://www.facebook.com/getspeechify/)
+* [![icon-twitter-x](https://website.cdn.speechify.com/icon-twitter-x.svg?quality=80&width=1400)](https://twitter.com/SpeechifyAI/)
+* [![icon-tiktok](https://website.cdn.speechify.com/icon-tiktok.svg?quality=80&width=1400)](https://www.tiktok.com/@speechifyapp/)
+* [![icon-linkedin](https://website.cdn.speechify.com/icon-linkedin.svg?quality=80&width=1400)](https://www.linkedin.com/company/getspeechify/)
+* [![icon-youtube](https://website.cdn.speechify.com/icon-youtube.svg?quality=80&width=1400)](https://www.youtube.com/channel/UCdVAkcFLzG-nAWWASbZb4ZA/)
 
 ### Recommended reading
 
@@ -462,7 +462,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 
 Made with ❤️ around the 🌍 | @ Speechify Inc 2024
 
-![icon-globe](https://website.cdn.speechify.com/icons-globe.png?quality=80&width=128)English![icon-down](https://website.cdn.speechify.com/icons-down.png?quality=80&width=128)
+![icon-globe](https://website.cdn.speechify.com/icons-globe.png?quality=80&width=1400)English![icon-down](https://website.cdn.speechify.com/icons-down.png?quality=80&width=1400)
 
 Book Sitemap
 
