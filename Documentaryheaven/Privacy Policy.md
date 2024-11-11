@@ -108,6 +108,11 @@ Advertisement
 
 ###### Highest Rated This Month
 
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -118,11 +123,6 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
     
     Prisoners of Katrina
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Fela Kuti](/wp-content/thumbnails/6380-100x70.jpg?x53432)
+* [![Russell Brand: From Addiction to Recovery](/wp-content/thumbnails/8368-100x70.jpg?x53432)
     
-    Fela Kuti
+    Russell Brand: From Addiction to Recovery
     
-    “Fela Kuti Music is the Weapon” is about the Afrobeat legend, musician, composer and performer, mixes footage of Fela Anikulapo Kuti performing at his Shrine nightclub, interviews with the controversi](https://documentaryheaven.com/fela-kuti/ "Fela Kuti")
-* [![Dark Fellowships: Nazi Cult, The Vril](/wp-content/thumbnails/3661-100x70.jpg?x53432)
+    Russell Brand used to be an addict of alcohol, heroin and other drugs. In his documentary, Brand challenges the system currently in use to treat addicts in Britain. His passionate, honest and eye-open](https://documentaryheaven.com/russell-brand-addiction-recovery/ "Russell Brand: From Addiction to Recovery")
+* [![Dispatches: Undercover Mosque](/wp-content/thumbnails/792-100x70.png?x53432)
     
-    Dark Fellowships: Nazi Cult, The Vril
+    Dispatches: Undercover Mosque
     
-    Uncover the truth surrounding one of the most renowned and feared organisations in the world, the Vril Society. This compelling one-off explores conspiracy theories, retraces historical events, invest](https://documentaryheaven.com/dark-fellowships-nazi-cult-the-vril/ "Dark Fellowships: Nazi Cult, The Vril")
-* [![The Devil and the Death Penalty](/wp-content/thumbnails/11825-100x70.jpg?x53432)
+    An undercover investigation into mosques in the UK which are run by organisations whose public faces are presented as moderate but whose preachers condemn democracy and praise the Taliban for killing](https://documentaryheaven.com/dispatches-undercover-mosque/ "Dispatches: Undercover Mosque")
+* [![Richie Hawtin](/wp-content/thumbnails/5907-100x70.jpg?x53432)
     
-    The Devil and the Death Penalty
+    Richie Hawtin
     
-    This is the story of Lawrence Bittaker and his accomplice Roy Norris, two convicted serial murderers and rapists who in 1979 murdered and raped five teenage girls over a period of five months in south](https://documentaryheaven.com/devil-death-penalty/ "The Devil and the Death Penalty")
-* [![Inside the Holocaust](/wp-content/thumbnails/8599-100x70.jpg?x53432)
+    Slices - Pioneers Of Electronic Music Vol. 1 - Richie HawtinThe launch of this DVD special series, Slices - Pioneers of Electronic Music celebrates in detail the life and work of prominent artists](https://documentaryheaven.com/richie-hawtin/ "Richie Hawtin")
+* [![Small Town Ecstasy](/wp-content/thumbnails/5791-100x70.jpg?x53432)
     
-    Inside the Holocaust
+    Small Town Ecstasy
     
-    This is a gripping hour and a half special by the History Channel on the horrors of the Holocaust, starting off with the early days of persecution found in Nazi Germany right up until the final a](https://documentaryheaven.com/inside-holocaust/ "Inside the Holocaust")
-* [![The Marvellous World of Roald Dahl](/wp-content/thumbnails/12594-100x70.jpg?x53432)
+    This documentary is about Scott, a 40-year-old divorced father, his four children; Job (20), Craig (18), Heather (15) and Sam (13).Scott has been introduced to the rave scene, and Ecstasy, by Craig.](https://documentaryheaven.com/small-town-ecstasy/ "Small Town Ecstasy")
+* [![Preppers UK](/wp-content/thumbnails/7750-100x70.jpg?x53432)
     
-    The Marvellous World of Roald Dahl
+    Preppers UK
     
-    Roald Dahl is probably best known for having written a vast collection of award winning children's novels / short stories, most notably The BFG, Matilda, Charlie and the Chocolate Facto](https://documentaryheaven.com/marvellous-world-of-roald-dahl/ "The Marvellous World of Roald Dahl")
+    Paranoid and delusional, or should the rest of you be prepping too? Preppers UK introduces you to local preppers, each with their own unique fears and personal plans to survive a catastrophe. In Nor](https://documentaryheaven.com/preppers-uk/ "Preppers UK")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
