@@ -401,6 +401,7 @@ Reach massive audiences through their favorite content in a safe and reliable wa
 * [Data Protection Addendum](https://www.azerion.com/publishers-seller-monetization-data-protection-addendum/)
 * [Seller Monetization Terms and Conditions](https://www.azerion.com/publishers-seller-monetization-terms-and-conditions/)
 * [Data Processing Agreement](https://www.azerion.com/publishers-seller-monetization-data-processing-agreement/)
+* [Phishing](https://www.azerion.com/phishing/)
 
 * [](https://www.linkedin.com/company/azerion/)
 * [](https://www.instagram.com/weareazerion/)
