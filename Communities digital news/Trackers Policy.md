@@ -26,57 +26,63 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-obama-1200x630.png)](https://americanwirenews.com/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lizcheney-kamala-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/some-dems-begged-kamala-not-to-campaign-with-devil-liz-cheney/)
 
-[Wild AI-generated post-election call between Biden and Obama is straight FIRE](https://americanwirenews.com/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire/)
+[Some Dems begged Kamala not to campaign with ‘devil’ Liz Cheney](https://americanwirenews.com/some-dems-begged-kamala-not-to-campaign-with-devil-liz-cheney/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-clooneylateshow-1200-x-628-1200x630.jpg)](https://americanwirenews.com/disheartened-george-clooney-taking-step-back-from-politics-after-kamala-thumping/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-homan-trump-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-taps-real-border-czar-to-replace-kamala-oversee-deportation-of-illegal-aliens/)
 
-[‘Disheartened’ George Clooney taking ‘step back’ from politics after Kamala thumping](https://americanwirenews.com/disheartened-george-clooney-taking-step-back-from-politics-after-kamala-thumping/)
+[Trump taps REAL ‘border czar’ to replace Kamala, oversee ‘deportation of illegal aliens’](https://americanwirenews.com/trump-taps-real-border-czar-to-replace-kamala-oversee-deportation-of-illegal-aliens/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bosa-1200x630.jpg)](https://americanwirenews.com/well-worth-it-49ers-star-nick-bosa-responds-after-nfl-fines-him-for-wearing-maga-hat/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/04/SG-Stefanik-1200x630.jpg)](https://americanwirenews.com/trump-choses-strong-tough-and-smart-woman-as-u-s-ambassador-to-the-united-nations/)
 
-[‘Well worth it’: 49ers star Nick Bosa responds after NFL fines him for wearing MAGA hat](https://americanwirenews.com/well-worth-it-49ers-star-nick-bosa-responds-after-nfl-fines-him-for-wearing-maga-hat/)
+[Trump choses ‘strong, tough, and smart’ woman as U.S. ambassador to the United Nations](https://americanwirenews.com/trump-choses-strong-tough-and-smart-woman-as-u-s-ambassador-to-the-united-nations/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nik-don-mike-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-sets-record-straight-on-potential-role-pompeo-nikki-haley-may-have-in-his-administration/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-strahan-1200x630.jpg)](https://americanwirenews.com/fans-demand-fox-sports-fire-analyst-former-nfl-star-for-cowardly-act-during-national-anthem/)
 
-[Trump sets record straight on potential role Pompeo, Nikki Haley may have in his administration](https://americanwirenews.com/trump-sets-record-straight-on-potential-role-pompeo-nikki-haley-may-have-in-his-administration/)
+[Fans demand Fox Sports fire analyst, former NFL star for ‘cowardly’ act during national anthem](https://americanwirenews.com/fans-demand-fox-sports-fire-analyst-former-nfl-star-for-cowardly-act-during-national-anthem/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-charlamagne-1200x630.jpg)](https://americanwirenews.com/no-really-charlamagne-gets-reality-check-when-told-trump-got-1-of-3-voters-of-color/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-matga-videos-1200x630.jpg)](https://americanwirenews.com/furious-women-start-matga-movement-to-kill-trump-voting-men-with-poison/)
 
-[‘No… really?’ Charlamagne gets reality check when told Trump got 1 of 3 voters of color](https://americanwirenews.com/no-really-charlamagne-gets-reality-check-when-told-trump-got-1-of-3-voters-of-color/)
+[Furious women start ‘MATGA,’ movement to kill Trump-voting men with POISON](https://americanwirenews.com/furious-women-start-matga-movement-to-kill-trump-voting-men-with-poison/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-simmons-1200x630.png)](https://americanwirenews.com/kamalas-former-aide-threatens-trump-47-swag-with-harebrained-idea-involving-biden/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-c-schumer-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/election-denier-schumer-wont-allow-new-gop-senator-to-attend-orientation-after-ap-called-race/)
 
-[Kamala’s former aide threatens ‘Trump 47’ swag with harebrained idea involving Biden](https://americanwirenews.com/kamalas-former-aide-threatens-trump-47-swag-with-harebrained-idea-involving-biden/)
+[Election denier Schumer won’t allow new GOP senator to attend orientation after AP called race](https://americanwirenews.com/election-denier-schumer-wont-allow-new-gop-senator-to-attend-orientation-after-ap-called-race/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tish-hakeem-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-1-1200x630.jpg)](https://americanwirenews.com/elon-musk-makes-big-announcement-about-next-gop-senate-leadership-seat/)
 
-[Things go downhill fast after Hakeem Jeffries warns Trump to ‘back up off’ of Tish James](https://americanwirenews.com/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james/)
+[Elon Musk makes big announcement about next GOP Senate leadership seat](https://americanwirenews.com/elon-musk-makes-big-announcement-about-next-gop-senate-leadership-seat/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joyyaledr-1200-x-628-1200x630.jpg)](https://americanwirenews.com/yale-psychologist-urges-left-to-ice-trump-supporting-family-during-holidays/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-scott-trump-1200x630.jpg)](https://americanwirenews.com/trump-spells-out-key-requirement-for-senate-gop-leader-top-contender-agrees-whatever-it-takes/)
 
-[Yale psychologist urges left to ice Trump-supporting family during holidays](https://americanwirenews.com/yale-psychologist-urges-left-to-ice-trump-supporting-family-during-holidays/)
+(Official White House Photo by Shealah Craighead)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-criswell-1200x630.jpg)
+[Trump spells out key requirement for Senate GOP leader, top contender agrees, ‘whatever it takes’](https://americanwirenews.com/trump-spells-out-key-requirement-for-senate-gop-leader-top-contender-agrees-whatever-it-takes/)
 
-### Fired FEMA supervisor claims she’s a ‘patsy,’ agency made her a ‘scapegoat’](https://americanwirenews.com/fired-fema-supervisor-claims-shes-a-patsy-agency-made-her-a-scapegoat/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-garlandpresser-1200-x-628-1200x630.jpg)
+
+### Slugga: The loathsome Merrick Garland can’t get the boot fast enough](https://americanwirenews.com/slugga-the-loathsome-merrick-garland-cant-get-the-boot-fast-enough/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Kamala’s drubbing proves to be referendum on celeb endorsements](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
+### [NJ Gov. Phil Murphy meets with team to ‘war game’ 2nd Trump term: ‘We’ll fight to the death’](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
 
-### [Top Hillary aide says Democratic Party ‘being held hostage to the far left’](https://americanwirenews.com/top-hillary-aide-says-democratic-party-being-held-hostage-to-the-far-left/)
+### [Wins keep coming: Jack Smith moving to halt Trump prosecution, asks judge to vacate all deadlines](https://americanwirenews.com/wins-keep-coming-jack-smith-to-halt-prosecution-of-trump-asks-judge-to-vacate-all-deadlines/)
 
-### [FEMA official given the boot after directing relief workers to ‘avoid homes advertising Trump’](https://americanwirenews.com/fema-official-given-the-boot-after-directing-relief-workers-to-avoid-homes-advertising-trump/)
+### [House Dem unimpressed in meeting Kamala Harris: ‘There was kind of an eye roll’](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
 
-### [Tulane women’s basketball head coach wore Kamala shirt to kick off season, team loses](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
+### [Ron DeSantis floats one of Florida’s ‘greats’ for HHS secretary under Trump](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
 
-### [Meghan McCain slams ‘The View’ over lack of conservative voices: ‘Radical progressive insane asylum’](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
+### [‘Squawk Box’ host humiliates Scaramucci over how wrong he was on Trump](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
 
-### [Melania has message about what husband has in store for America](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
+### [Tim Walz’s daughter sounds off, says country ‘does not deserve Kamala’](https://americanwirenews.com/tim-walzs-daughter-sounds-off-says-country-does-not-deserve-kamala/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/x-trump-grandkids-220x180.png)](https://americanwirenews.com/sundays-with-grandpa-trump-takes-time-to-enjoy-grandkids-after-election-win/)
+
+[‘Sundays with Grandpa’: Trump takes time to enjoy grandkids after election win](https://americanwirenews.com/sundays-with-grandpa-trump-takes-time-to-enjoy-grandkids-after-election-win/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aoc-djt-split-1-1200-x-628-220x180.jpg)](https://americanwirenews.com/aocs-district-shifts-bigly-to-trump-during-election/)
 
@@ -94,9 +100,21 @@ Search for:
 
 [‘But I thought…’: Biden to welcome Trump at White House this week](https://americanwirenews.com/but-i-thought-biden-to-welcome-trump-at-white-house-this-week/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-beyonce-220x180.jpg)](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
+
+[Kamala’s drubbing proves to be referendum on celeb endorsements](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michaelson-singleton-220x180.jpg)](https://americanwirenews.com/im-not-going-to-listen-to-transphobia-at-this-table-cnn-panel-explodes-over-a-perceived-slur/)
 
 [‘I’m not going to listen to transphobia at this table!’ CNN panel explodes over a perceived ‘slur’](https://americanwirenews.com/im-not-going-to-listen-to-transphobia-at-this-table-cnn-panel-explodes-over-a-perceived-slur/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cnn-discussion-3-220x180.jpg)](https://americanwirenews.com/top-hillary-aide-says-democratic-party-being-held-hostage-to-the-far-left/)
+
+[Top Hillary aide says Democratic Party ‘being held hostage to the far left’](https://americanwirenews.com/top-hillary-aide-says-democratic-party-being-held-hostage-to-the-far-left/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-220x180.jpg)](https://americanwirenews.com/fema-official-given-the-boot-after-directing-relief-workers-to-avoid-homes-advertising-trump/)
+
+[FEMA official given the boot after directing relief workers to ‘avoid homes advertising Trump’](https://americanwirenews.com/fema-official-given-the-boot-after-directing-relief-workers-to-avoid-homes-advertising-trump/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-they-them-220x180.jpg)](https://americanwirenews.com/how-trumps-11th-hour-they-them-ad-helped-clinch-his-victory/)
 
@@ -105,6 +123,14 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obamabro-1200-x-628-220x180.jpg)](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
 
 [‘Obama bro’ podcast host claims Biden campaign’s internal polling showed Trump earning 400 electoral votes](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-langford-220x180.jpg)](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
+
+[Tulane women’s basketball head coach wore Kamala shirt to kick off season, team loses](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-meg-whoopi-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
+
+[Meghan McCain slams ‘The View’ over lack of conservative voices: ‘Radical progressive insane asylum’](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fox-news-trump-win-220x180.jpg)](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
 
@@ -152,32 +178,6 @@ Search for:
 
 [Nancy Pelosi blames Joe Biden for loss after leading coup against him](https://americanwirenews.com/nancy-pelosi-blames-joe-biden-for-loss-after-leading-coup-against-him/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fettermanrogan1-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-scorched-after-profanely-lashing-out-at-his-own-states-voters/)
-
-[Fetterman scorched after profanely lashing out at his own state’s voters](https://americanwirenews.com/fetterman-scorched-after-profanely-lashing-out-at-his-own-states-voters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-phil-murphy-220x180.jpg)](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
-
-[NJ Gov. Phil Murphy meets with team to ‘war game’ 2nd Trump term: ‘We’ll fight to the death’](https://americanwirenews.com/nj-gov-phil-murphy-meets-with-team-to-war-game-2nd-trump-term-well-fight-to-the-death/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-trump-sg-jack-smith-220x180.jpg)](https://americanwirenews.com/wins-keep-coming-jack-smith-to-halt-prosecution-of-trump-asks-judge-to-vacate-all-deadlines/)
-
-[Wins keep coming: Jack Smith moving to halt Trump prosecution, asks judge to vacate all deadlines](https://americanwirenews.com/wins-keep-coming-jack-smith-to-halt-prosecution-of-trump-asks-judge-to-vacate-all-deadlines/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marie-gluesenkamp-perez-220x180.jpg)](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
-
-[House Dem unimpressed in meeting Kamala Harris: ‘There was kind of an eye roll’](https://americanwirenews.com/house-dem-unimpressed-in-meeting-kamala-harris-there-was-kind-of-an-eye-roll/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1242296709-1-1-220x180.jpg)](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
-
-[Ron DeSantis floats one of Florida’s ‘greats’ for HHS secretary under Trump](https://americanwirenews.com/ron-desantis-floats-one-of-floridas-greats-for-hhs-secretary-under-trump/)
-
-(Photo by Paul Hennessy/SOPA Images/LightRocket via Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mucci-cnbc-220x180.jpg)](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
-
-[‘Squawk Box’ host humiliates Scaramucci over how wrong he was on Trump](https://americanwirenews.com/squawk-box-host-humiliates-scaramucci-over-how-wrong-he-was-on-trump/)
-
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
     SIGN ME UP!
@@ -186,21 +186,21 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [Trending on BPR](https://www.bizpacreview.com/)
 
-[![Letters thanking Kamala supporters for agreeing ‘to house a migrant family’ terrify wealthy homeowners](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-harris-postcard-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/04/letters-thanking-kamala-supporters-for-agreeing-to-house-a-migrant-family-terrify-wealthy-homeowners-1500039/)
+[![Fired FEMA supervisor claims she’s a ‘patsy,’ agency made her a ‘scapegoat’](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-criswell-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/10/fired-fema-supervisor-claims-shes-a-patsy-agency-made-her-a-scapegoat-1501740/)
 
-[Letters thanking Kamala supporters for agreeing ‘to house a migrant family’ terrify wealthy homeowners](https://www.bizpacreview.com/2024/11/04/letters-thanking-kamala-supporters-for-agreeing-to-house-a-migrant-family-terrify-wealthy-homeowners-1500039/)
+[Fired FEMA supervisor claims she’s a ‘patsy,’ agency made her a ‘scapegoat’](https://www.bizpacreview.com/2024/11/10/fired-fema-supervisor-claims-shes-a-patsy-agency-made-her-a-scapegoat-1501740/)
 
-[![The best for last: New Trump ad BLOWS AWAY any political ad made in the last decade!](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-trump-ad-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/04/the-best-for-last-new-trump-ad-blows-away-any-political-ad-made-in-the-last-decade-1500020/)
+[![Wild AI-generated post-election call between Biden and Obama is straight FIRE](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-biden-obama-1200x630-1.png)](https://www.bizpacreview.com/2024/11/10/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire-1501688/)
 
-[The best for last: New Trump ad BLOWS AWAY any political ad made in the last decade!](https://www.bizpacreview.com/2024/11/04/the-best-for-last-new-trump-ad-blows-away-any-political-ad-made-in-the-last-decade-1500020/)
+[Wild AI-generated post-election call between Biden and Obama is straight FIRE](https://www.bizpacreview.com/2024/11/10/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire-1501688/)
 
-[![The hoaxes never stop as media uncorks another doozy](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-trumplittiz-1200-x-628-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/04/the-hoaxes-never-stop-as-media-uncorks-another-doozy-1500024/)
+[![Things go downhill fast after Hakeem Jeffries warns Trump to ‘back up off’ of Tish James](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-tish-hakeem-split-1200-x-628-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/10/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james-1501696/)
 
-[The hoaxes never stop as media uncorks another doozy](https://www.bizpacreview.com/2024/11/04/the-hoaxes-never-stop-as-media-uncorks-another-doozy-1500024/)
+[Things go downhill fast after Hakeem Jeffries warns Trump to ‘back up off’ of Tish James](https://www.bizpacreview.com/2024/11/10/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james-1501696/)
 
-[![Ted Cruz warns of ‘true believer’ Kamala, most ‘anti-Israel’ administration in history](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-maria-ted11200-x-628-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/04/ted-cruz-warns-of-true-believer-kamala-most-anti-israel-administration-in-history-1500028/)
+[![‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-donaldt-kamala-split-1200-x-628-1-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/10/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster-1501652/)
 
-[Ted Cruz warns of ‘true believer’ Kamala, most ‘anti-Israel’ administration in history](https://www.bizpacreview.com/2024/11/04/ted-cruz-warns-of-true-believer-kamala-most-anti-israel-administration-in-history-1500028/)
+[‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://www.bizpacreview.com/2024/11/10/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster-1501652/)
 
 ### [COLUMNISTS](https://www.commdiginews.com/columnists/)
 
@@ -272,23 +272,21 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://americanwirenews.com/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-220x180.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Wallace-220x180.jpg)](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
 
-[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+[Nicolle Wallace: ‘As a human, I deleted Twitter as an act of self-preservation’](https://americanwirenews.com/nicolle-wallace-as-a-human-i-deleted-twitter-as-an-act-of-self-preservation/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183347794-220x180.jpg)](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/06/SG-Lloyd-Austin-220x180.jpg)](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
 
-[Pelosi, Donna Brazile exchange heated words at Kamala’s concession speech
+[Def Sec Austin memo to troops urges ‘calm, orderly’ transition after Trump win](https://americanwirenews.com/defsec-austin-memo-to-troops-urges-calm-orderly-transition-after-trump-win/)
 
-Getty Images](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-words-at-kamalas-concession-speech/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michael-shellenberger-220x180.jpg)](https://americanwirenews.com/journalist-goes-viral-for-trying-to-explain-to-stubborn-left-why-they-just-lost-so-badly/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nyjames-1200-x-628-220x180.jpg)](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
+[Journalist goes viral for trying to explain to stubborn left why they just lost so badly](https://americanwirenews.com/journalist-goes-viral-for-trying-to-explain-to-stubborn-left-why-they-just-lost-so-badly/)
 
-[Slugga: Letitia James vows to get Trump – they just aren’t going to stop](https://americanwirenews.com/slugga-letitia-james-vows-to-get-trump-they-just-arent-going-to-stop/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-trump-220x180.jpg)](https://americanwirenews.com/joe-rogan-has-hard-advice-for-trump-after-win/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
-
-[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
+[Joe Rogan has hard advice for Trump after win](https://americanwirenews.com/joe-rogan-has-hard-advice-for-trump-after-win/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -326,6 +324,14 @@ Getty Images](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-
 
 [Auburn basketball flight diverted after scuffle; team marks big win with bizarre celebration](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-research-220x180.png)](https://americanwirenews.com/residents-on-alert-after-dozens-of-test-monkeys-escape-research-facility/)
+
+[Residents on alert after dozens of test monkeys escape research facility](https://americanwirenews.com/residents-on-alert-after-dozens-of-test-monkeys-escape-research-facility/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-skims-220x180.jpg)](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
+
+[Kim Kardashian slammed for ‘out of touch’ holiday SKIMS campaign: ‘Incredibly insensitive’](https://americanwirenews.com/kim-kardashian-slammed-for-out-of-touch-holiday-skims-campaign-incredibly-insensitive/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/skyler-robert-philippi-220x180.jpg)](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
 
 [FBI thwarts alleged white supremacist attack on Nashville power grid on Election Day eve](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
@@ -333,13 +339,5 @@ Getty Images](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kim-kardashian-220x180.jpg)](https://americanwirenews.com/kim-kardashian-ripped-for-wearing-princess-dis-diamond-lined-cross-pendant-between-nearly-bare-breasts/)
 
 [Kim Kardashian ripped for wearing Princess Di’s diamond-lined cross pendant between nearly bare breasts](https://americanwirenews.com/kim-kardashian-ripped-for-wearing-princess-dis-diamond-lined-cross-pendant-between-nearly-bare-breasts/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-snl_kam-1200-x-628-220x180.jpg)](https://americanwirenews.com/nbc-files-equal-time-notice-with-the-fcc-late-sunday-after-fallout-over-kamalas-snl-gift/)
-
-[NBC files Equal Time notice with the FCC late Sunday after fallout over Kamala’s SNL gift](https://americanwirenews.com/nbc-files-equal-time-notice-with-the-fcc-late-sunday-after-fallout-over-kamalas-snl-gift/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drea-de-matteo-2-220x180.jpg)](https://americanwirenews.com/the-sopranos-actress-gets-real-i-think-half-of-hollywood-is-actually-voting-for-trump/)
-
-[The Sopranos actress gets real: ‘I think half of Hollywood is actually voting for Trump’](https://americanwirenews.com/the-sopranos-actress-gets-real-i-think-half-of-hollywood-is-actually-voting-for-trump/)
 
 © 2024. All Rights Reserved. American Wire News
