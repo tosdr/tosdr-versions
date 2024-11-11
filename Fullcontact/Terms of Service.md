@@ -295,4 +295,4 @@ FullContact is a privacy-safe Identity Resolution company building trust between
 * [LN](https://www.linkedin.com/company/fullcontact-inc-)
 * [YT](https://www.youtube.com/user/FullContactAPI)
 
-© 2024 FullContact. All Rights Reserved.
+© 2024 J2 Martech Corp., a Ziff Davis company. All rights reserved. FullContact is a registered trademark of J2 Martech Corp.
