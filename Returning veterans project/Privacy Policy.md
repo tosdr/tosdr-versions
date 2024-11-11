@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Gunner Veterans](https://cdn.returningveterans.org/images/honor/2nd_Battalion_3rd_Field_Artillery.jpg)  
+![The Navy](https://cdn.returningveterans.org/images/honor/curtis.jpg)  
 
-**In Honor of Gunner Veterans**  
-United States Army  
-Submitted by Michael Spasyk](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of The Navy**  
+United States Navy  
+Submitted by William Curtis](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/10/24 - 7:23:58  
+Printed 11/11/24 - 1:18:14  
 © 2024 Returning Veterans Project
