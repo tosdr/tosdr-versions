@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It is the fate of manufactured goods to slowly and gently depreciate as they get old... but it is the fate of operating systems to become free”
+“ I'm an engineer. I see myself as a toolmaker and the musicians are my customers... They use my tools”
 
-[Neal Stephenson](http://www.nealstephenson.com/)
+[Robert Moog](http://en.wikipedia.org/wiki/Robert_Moog)
 
 [](https://www.adafruit.com/about)
 
