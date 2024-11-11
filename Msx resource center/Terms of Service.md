@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [Alley Cat for MSX 2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX 2 available for sale soon")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
@@ -149,15 +150,15 @@ Latest reactions
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [Darwin](https://www.msx.org/downloads/darwin "Darwin")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
-* [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 
 Latest forum posts
 
+* [Discovering the Latest Interactive Games and Entertainment Trends for 2024](https://www.msx.org/forum/msx-talk/general-discussion/discovering-the-latest-interactive-games-and-entertainment-trends- "Discovering the Latest Interactive Games and Entertainment Trends for 2024")
+* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
+* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=2 "How do I get to the 2nd and other partitions "drives"?")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [Can't get the EGG Launcher to run](https://www.msx.org/forum/msx-talk/software/cant-get-the-egg-launcher-to-run "Can't get the EGG Launcher to run")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
-* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us "Pal system in the US")
-* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives?page=2 "How do I get to the 2nd and other partitions "drives"?")
 * [Yamaha YIS-503 II Power supply Unit pinout information](https://www.msx.org/forum/msx-talk/hardware/yamaha-yis-503-ii-power-supply-unit-pinout-information "Yamaha YIS-503 II Power supply Unit pinout information")
 * [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
 * [SM-X HDMI Revitalization Project](https://www.msx.org/forum/msx-talk/hardware/sm-x-hdmi-revitalization-project "SM-X HDMI Revitalization Project")
@@ -165,7 +166,6 @@ Latest forum posts
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
 * [The BIG MSXVR Q&A thread](https://www.msx.org/forum/msx-talk/hardware/the-big-msxvr-qa-thread?page=33 "The BIG MSXVR Q&A thread")
 * [Looking for musician](https://www.msx.org/forum/msx-talk/graphics-and-music/looking-for-musician "Looking for musician")
-* [The Great Gianna Sisters](https://www.msx.org/forum/msx-talk/general-discussion/the-great-gianna-sisters "The Great Gianna Sisters")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
