@@ -95,66 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/whole-armor-god)
-
-[The Whole Armor of God](https://www.icr.org/article/whole-armor-god/)
-
-“Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.” (Ephesians...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/thy-word-is-settled)
-
-[Thy Word Is Settled Forever](https://www.icr.org/article/thy-word-is-settled/)
-
-“For ever, O LORD, thy word is settled in heaven.” (Psalm 119:89) This is the central verse in the longest chapter in the longest...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/lessons-learn)
-
-[Lessons to Learn](https://www.icr.org/article/lessons-learn/)
-
-“But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.”...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475255/file.jpg)
-
-The God Who is Real](https://store.icr.org/dr-henry-morris-the-god-who-is-real.html)
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474441/file.jpg)
-
-The Beginning of the World](https://store.icr.org/dr-henry-morris-the-beginning-of-the-world.html)
-
-$10.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
-
-The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
-
-$47.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
-
-Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
-
-$9.99
-
-$12.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
