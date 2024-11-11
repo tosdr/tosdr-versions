@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_73381_2024/73381-2024-hon-jenny-salesa-to-the-minister-for-ethnic/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_69684_2024/69684-2024-hon-dr-deborah-russell-to-the-minister-for/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_73381_2024/73381-2024-hon-jenny-salesa-to-the-minister-for-ethnic/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_69684_2024/69684-2024-hon-dr-deborah-russell-to-the-minister-for/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
