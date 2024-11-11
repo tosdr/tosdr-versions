@@ -249,6 +249,7 @@ Zoog Services IKE
 ##### About ZoogVPN
 
 * [About us](https://zoogvpn.com/about/)
+* [Reviews](https://zoogvpn.com/reviews/)
 * [Pricing](https://zoogvpn.com/pricing/)
 * [Features](https://zoogvpn.com/features/)
 * [Blog](https://zoogvpn.com/zlog/)
