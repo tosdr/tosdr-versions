@@ -117,15 +117,15 @@ Converstations with people building the Next Generation Internet](https://podcas
 
 ### News
 
+[NGI TALER Grants for Tryton and Interledger Interoperability](https://nlnet.nl/news/2024/20241111-NGI-Taler-grants.html) 2024-11-11
+
+[NGI Mobifree Grants Awarded for Fair Mobile Software](https://nlnet.nl/news/2024/20241111-NGI-Mobifree-grants.html) 2024-11-11
+
 [Monitoring Plugins wins BlueHats Prize for maintainers](https://nlnet.nl/news/2024/20241015-BlueHatsPrize4.html) 2024-10-15
 
 [NGI0 Commons Fund Supports 32 Projects Building the Public Internet](https://nlnet.nl/news/2024/20241014-announcing-CommonsFund-call.html) 2024-10-14
 
 [49 Free and Open Source Projects Receive NGI0 Core Grants](https://nlnet.nl/news/2024/20241003-announcing-Core-call.html) 2024-10-03
-
-[Apply for funding before December 1st 2024](https://nlnet.nl/news/2024/20241001-call.html) 2024-10-01
-
-[NGI Assure Programme Successfully Concluded](https://nlnet.nl/news/2024/20240919-NGI-Assure-Concluded.html) 2024-09-19
 
 * [More news](https://nlnet.nl/news)
 
