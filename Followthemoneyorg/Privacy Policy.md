@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Top Contributing Sectors to OR govs Kitzhaber and Brown](/assets/Images/teasers/small/KitzhabervBrownPercentbyIndustry.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-john-kitzhaber-and-kate-brown/)
+[![Successful challengers vs. losing incumbents in the US House](/assets/Uploads/cfi1.png)](https://www.followthemoney.org/research/blog/massive-amounts-were-spent-by-the-candidates-and-independent-spenders-in-the-races-that-decided-the-2018-midterms)
 
-Sector giving to OR govs Kitzhaber and Brown.
+Successful challengers vs. losing incumbents in the US House of Representatives, 2006-2018.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
