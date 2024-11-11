@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-piramide-ufos-blijven-zich-melden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/alice-in-graancirkelland/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
