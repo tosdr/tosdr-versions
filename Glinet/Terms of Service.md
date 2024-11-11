@@ -1,3 +1,5 @@
+Don't Miss Out! Save up to 42% during our Black Friday Sale | [Shop Today](#)
+
 [![GL.iNet logo](/logo.svg)](https://www.gl-inet.com/)
 
 * [Home](https://www.gl-inet.com/)
