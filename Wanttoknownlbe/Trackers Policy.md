@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-gaat-enkel-om-onszelf/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/buitengewoon-zintuigelijke-ervaringen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
