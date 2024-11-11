@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
+Military personnel score a special discount with ID.Me at checkout. [Learn How](https://www.bose.com/idme-group-discounts-program) for Vet Day Nov 11/7 - 11/11
 
 Exclusive: Sandstone QuietComfort Ultra Headphones are now available. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
 
@@ -140,20 +140,20 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/38239db7b1460494/webimage-Mobile-Nav-partners.png)
+    [![](https://assets.bosecreative.com/m/3fd8877b4aaead5b/webimage-SusanAlexander_NavFlyout_mobile_343x180_x2.png)
     
-    "ON IN 5!"
+    SUSAN ALEXANDRA COLLABORATION
     
-    ### Scenes behind the sound](https://www.bose.com/stories/why-musicians-love-ultra-open-earbuds "LEARN MORE")
+    ### Express yourself](https://www.bose.com/stories/collabs "Learn more")
     
      
     
-    Scenes behind the sound
-    -----------------------
+    Express yourself
+    ----------------
     
-    These stars are “on in 5!”
+    Learn about our collaboration with Susan Alexandra
     
-    [LEARN MORE](https://www.bose.com/stories/why-musicians-love-ultra-open-earbuds "LEARN MORE")
+    [Learn more](https://www.bose.com/stories/collabs "Learn more")
     
 
 * [Support](#)
