@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
+“ The economy of human time is the next advantage of machinery in manufactures”
 
-[Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie)
+[Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
 
 [](https://www.adafruit.com/about)
 
