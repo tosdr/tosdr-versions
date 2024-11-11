@@ -1,4 +1,4 @@
-![Youporn Free Porn](https://ea.t8cdn.com/93df0d8bcae8b2a47b5d870088e3d819adeb1ab1/tube8/cdn_assets/images/shared/logo.png?v=93df0d8bcae8b2a47b5d870088e3d819adeb1ab1)
+![Youporn Free Porn](https://ea.t8cdn.com/1df4b49a7df4124a4ab78547ce5898ebb8659f98/tube8/cdn_assets/images/shared/logo.png?v=1df4b49a7df4124a4ab78547ce5898ebb8659f98)
 
 This website is for adults only
 
@@ -8,7 +8,7 @@ I am 18 or older - Enter I am under 18 - Exit
 
 Our [parental controls page](https://www.asacp.org/index.html?content=parental_guidelines) explains how you can easily block access to this site.
 
-© Tube8 2024 [![rta](https://ea.t8cdn.com/93df0d8bcae8b2a47b5d870088e3d819adeb1ab1/base/cdn_assets/images/shared/rta.gif?v=93df0d8bcae8b2a47b5d870088e3d819adeb1ab1)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
+© Tube8 2024 [![rta](https://ea.t8cdn.com/1df4b49a7df4124a4ab78547ce5898ebb8659f98/base/cdn_assets/images/shared/rta.gif?v=1df4b49a7df4124a4ab78547ce5898ebb8659f98)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
 
 Your Cookies, Your Choice
 
@@ -47,45 +47,55 @@ These cookies enable us to make the Website more relevant to your interests and 
 
 Accept all cookies Accept only essential cookies Save and close
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/93df0d8bcae8b2a47b5d870088e3d819adeb1ab1/tube8/cdn_assets/images/shared/logo.png?v=93df0d8bcae8b2a47b5d870088e3d819adeb1ab1 "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/1df4b49a7df4124a4ab78547ce5898ebb8659f98/tube8/cdn_assets/images/shared/logo.png?v=1df4b49a7df4124a4ab78547ce5898ebb8659f98 "Tube8 Free Porn")](https://www.tube8.com/)
 
 #### Recent Searches
 
 #### Trending Searches
 
-* [Hot milf](https://www.tube8.com/porntags/hot+milf/)
+* [Angela white](https://www.tube8.com/porntags/angela+white/)
+* [Breastfeeding](https://www.tube8.com/porntags/breastfeeding/)
 * [Hairy anal](https://www.tube8.com/porntags/hairy+anal/)
+* [Virtual sex](https://www.tube8.com/porntags/virtual+sex/)
 * [Friends wife](https://www.tube8.com/porntags/friends+wife/)
+* [Doggy](https://www.tube8.com/porntags/doggy/)
 * [Hotel maid](https://www.tube8.com/porntags/hotel+maid/)
-* [Perfect ass](https://www.tube8.com/porntags/perfect+ass/)
 * [Missionary creampie](https://www.tube8.com/porntags/missionary+creampie/)
-* [Leah gotti](https://www.tube8.com/porntags/leah+gotti/)
-* [China](https://www.tube8.com/porntags/china/)
-* [Lisa ann](https://www.tube8.com/porntags/lisa+ann/)
-* [Lesbian double dildo](https://www.tube8.com/porntags/lesbian+double+dildo/)
+* [Girl next door](https://www.tube8.com/porntags/girl+next+door/)
+* [Cum swap](https://www.tube8.com/porntags/cum+swap/)
 
 #### Recommended Categories For You
 
 [More](https://www.tube8.com/categories.html)
 
-* [Threesome Category](https://www.tube8.com/cat/threesome/)
-* [Big Dick Category](https://www.tube8.com/cat/bigdick/)
+* [Squirting Category](https://www.tube8.com/cat/squirting/)
+* [Interracial Category](https://www.tube8.com/cat/interracial/)
+* [Masturbation Category](https://www.tube8.com/cat/masturbation/)
+* [Blonde Category](https://www.tube8.com/cat/blonde/)
+* [Creampie Category](https://www.tube8.com/cat/creampie/)
+* [POV Category](https://www.tube8.com/cat/pov/)
+* [Redhead Category](https://www.tube8.com/cat/redhead/)
+* [Compilation Category](https://www.tube8.com/cat/compilation/)
+* [BBW Category](https://www.tube8.com/cat/bbw/)
+* [Romantic Category](https://www.tube8.com/cat/romantic/)
+* [Massage Category](https://www.tube8.com/cat/massage/)
+* [Brunette Category](https://www.tube8.com/cat/brunette/)
 
 #### Recommended Pornstars For You
 
 [More](https://www.tube8.com/pornstars/)
 
+[Liana
+
+Pornstar](https://www.tube8.com/pornstar/liana/)
+
 [Maggie Star
 
 Pornstar](https://www.tube8.com/pornstar/maggie-star/)
 
-[Brittany Blaze
+[Dora Venter
 
-Pornstar](https://www.tube8.com/pornstar/brittany-blaze/)
-
-[Johnny Rey
-
-Pornstar](https://www.tube8.com/gay/pornstar/johnny-rey/)
+Pornstar](https://www.tube8.com/pornstar/dora-venter/)
 
 #### All videos
 
@@ -132,7 +142,9 @@ Pornstar](https://www.tube8.com/gay/pornstar/johnny-rey/)
     
     ### Most Popular Categories
     
-    [![Blowjob](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Big Tits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    Big Tits](https://www.tube8.com/cat/bigtits/)[![Blowjob](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     Blowjob](https://www.tube8.com/cat/blowjob/)[![Asian](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -142,9 +154,7 @@ Pornstar](https://www.tube8.com/gay/pornstar/johnny-rey/)
     
     Ebony](https://www.tube8.com/cat/ebony/)[![Fetish](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    Fetish](https://www.tube8.com/cat/fetish/)[![Latina](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    Latina](https://www.tube8.com/cat/latina/)
+    Fetish](https://www.tube8.com/cat/fetish/)
     
     [See All Categories](https://www.tube8.com/categories.html)
     
@@ -654,28 +664,6 @@ We may terminate these Terms of Service for any or no reason at any time by noti
 
 Back to Top
 
-* [Introduction](#pn_introduction)
-
-1. [Scope](#pn_scope)
-2. [The Data We Process About You](#pn_data)
-3. [The Sources from Which We Process Personal Information](#pn_sources)
-4. [Purposes for Which We Process Your Personal Information](#pn_purposes)
-5. [Our Legal Bases Under Canadian and European Union (EU) Privacy Law](#pn_legal)
-6. [Disclosure of Your Personal Information](#pn_disclosure)
-7. [Cookies and Automatic Data Collection Technologies](#pn_cookies)
-8. [Your Choices About How We Collect, Use and Disclose Your Personal Information](#pn_your-choices)
-9. [California Rights and Choices](#pn_california-rights)
-10. [Resident’s Rights – Jurisdictions in the United States, Where Applicable](#pn_notice)
-11. [Biometric Information](#pn_law)
-12. [Notice to Law Enforcement](#pn_notice-law)
-13. [Transfers of Your Personal Information to Other Countries](#pn_transfers)
-14. [Retention of Personal Information](#pn_retention)
-15. [Third-Party Links and Sites](#pn_links)
-16. [Changes to Our Privacy Notice](#pn_changes)
-17. [Contact Information](#pn_contact)
-18. [Your Rights Related to Your Personal Information](#pn_your-rights)
-19. [Manage My Data](#pn_requests)
-
 Privacy Notice
 ==============
 
@@ -683,13 +671,11 @@ Last Modified: May 23, 2024
 
 Introduction
 
-Aylo Freesites Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the website [www.tube8.com/](https://www.tube8.com/) (hereinafter "**Tube8**") and is the controller of the information collected or provided via Tube8.
+Aylo Freesites Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the website https://www.tube8.com/ (hereinafter "**Tube8**") and is the controller of the information collected or provided via Tube8.
 
 Please read this Privacy Notice carefully, as your access to and use of Tube8 signifies that you have read and understand all terms within this Privacy Notice. We respect your privacy and are committed to protecting your personal data.
 
 If you have any questions about our privacy practices, please see the Section “_Contact Information_” below for information on how to contact us.
-
-Back to Top
 
 1\. Scope
 
@@ -698,9 +684,9 @@ For the purposes of this Privacy Notice, “**process**”, “**processed**” 
 This Privacy Notice applies to information we collect:
 
 * on Tube8
+    
 * and your communications with Tube8 via email, online support chats, phoneline support or otherwise;
-
-Back to Top
+    
 
 2\. The Data We Process About You
 
@@ -709,16 +695,24 @@ We may process different kinds of personal data about you, depending on whether 
 Persons who visit Tube8 without logging in or registering (“**Unregistered Users**”):
 
 * **Contact Data:** We will only process your email address or any other information which you voluntarily provide to us at your direction for a specific function, namely, to participate in a contest or survey.
+    
 * **Online Forms and Communication Data:** We process Contact Data and other information that you submit through online forms provided on Tube8 or information send to us via email, online support chats or such as information provided in the context of support requests or any other inquiries, the content reporting and moderation of content, and our internal complaint handling system.
+    
 * **Website activity data:** We process information about how you use Tube8 and interact with content and advertisements, including the pages you visit on and search history on Tube8, and the referring web page from which you arrived on Tube8 from. We process browser and operating system information, devices you use to access Tube8 and your time zone setting. We also process online identifiers. Specifically, we process internet protocol (IP) address information and we set cookies as explained below in the section on _Cookies and Automatic Data Collection Technologies_ and as described in our [Cookie Notice](https://www.tube8.com/information/cookie-notice).
+    
 * **Identifiers:** Some users may be asked to provide identifiers (including government-issued photo identification as well as other documentation) to verify that they are over the age of majority required to have access to Tube8 and to view the content. In such cases, this information is processed by trusted third party age verification service providers. This Privacy Notice does not apply to the privacy practices of these third-party age verification service providers. Read the privacy terms and conditions of these third-party service providers carefully.
+    
 
 Persons who choose to create an account on Tube8 (“**Registered Users**”): we process the same categories of information described above for Unregistered Users, and additionally the following information:
 
 * **Contact Information:** We process usernames and email addresses. If you choose to register through a third-party platform, we will collect certain personal information from those platforms.
+    
 * **User Submitted Personal Information:** We process information you submit to personalize your account or for a specific function, for example your date of birth, age, gender, your interests, preferences, feedback, survey responses, your preferences in receiving marketing from us and our third parties, and your communication preferences, as well as any other information which you voluntarily provide to us at your direction for a specific function.
+    
 * **Identifiers and Biometric Information:** You may be asked to provide identifiers (including government-issued photo identification as well as other documentation) to verify your identity and that you are over the age of majority required to access Tube8 and to view the content. We also process biometric information to verify the authenticity of the identifiers you provide us while registering to Tube8, as further explained in the section “_Biometric Information_” below. This information is processed by trusted third party age verification service providers. This Privacy Notice does not apply to the privacy practices of these third-party age verification service providers. Read the privacy terms and conditions of these third party service providers carefully.
-* **User Contributions including Audio/Video Information:** We provide areas on Tube8 where you can post information about yourself and others, communicate with others, upload content (e.g., pictures, video files, etc.), and post comments or reviews of content found on Tube8.
+    
+* **User Contributions including Audio/Video Information:** We provide areas on Tube8 where you can post information about yourself and others, communicate with others, upload content (e.g., pictures, video files, etc.), and post comments or reviews of content found on Tube8 .
+    
 
 Please use caution in providing user contributions. **By providing user contributions you are making that content and information publicly available.** User contributions can be read, collected, used, and disclosed by others, and we cannot control who accesses your user contributions or what other users may do with the information you voluntarily post or submit. User contributions are governed by the Tube8 Terms of Service found at [https://www.tube8.com/info.html#terms](https://www.tube8.com/info.html#terms).
 
@@ -726,95 +720,119 @@ We may process your data to produce and share aggregated insights that do not di
 
 Tube8 is forbidden of access to persons under the age of 18 or the applicable age of majority in the jurisdiction from which Tube8 is accessed (“**minors**”), and we therefore prohibit minors from using Tube8. As indicated throughout this Privacy Notice, some users may be asked to provide some information to us and our service providers to verify that you are over the age of majority required to have access to Tube8 and to view the content. We do not knowingly process personal information from minors. If you are the parent or legal guardian of a minor who has provided us with personal information, then please contact us at [support@tube8.com](mailto:support@tube8.com) to have that minor’s personal information deleted.
 
-Back to Top
-
 3\. The Sources from Which We Process Personal Information
 
 We process Personal Information in the following ways:
 
 * **Directly from you:** We process the categories of information listed above directly from you.
+    
 * **Automated technologies or interactions.** As explained in the section below on _"Cookies and Automatic Data Collection Technologies"_, as further described in our [Cookie Notice](https://www.tube8.com/information/cookie-notice), we set cookies and other automatic techniques to process website activity data when you visit Tube8.
+    
 * **Third-Party Single Sign-on:** We may obtain information if you create or sign-in your account through a third-party platform (such as Google), we will have access to certain information from that platform such as your name, email address or such other information you may have submitted and allowed this third party to share.
-
-Back to Top
+    
 
 4\. Purposes for Which We Process Your Personal Information
 
 We process personal information for the purposes described below.
 
-* **Provision of services:** We process identifiers, website activity data, and, additionally, for Registered Users, Contact Data, and user contributions, including any interactive features on Tube8, and to verify your eligibility and deliver prizes in connection with contests and sweepstakes.
+* **Provision of services:** We process identifiers, website activity data, and, additionally, for Registered Users, Contact Data, and user contributions, including any interactive features on Tube8 , and to verify your eligibility and deliver prizes in connection with contests and sweepstakes.
+    
 * **Customer management (Registered Users Only):** We process identifiers and Contact Data, to manage Registered Users’ account, to provide customer support and notices to the Registered Users about their account, and notices about changes to Tube8 or any products or services we offer or provide through them.
+    
 * **Age and Identity verification:** In some cases, we process identifiers and will use third party service providers to process biometric information for the purpose of verifying your identity and the authenticity of the identifiers you provide to us while registering for an account on Tube8.
+    
 * **Customization of content and marketing (Unregistered Users and Registered Users):** We process for both Registered Users and Unregistered Users, identifiers and contact information, website activity data; and for Registered Users, user submitted personal information and user contributions to analyze your use of, or interest in, the content, products, or services, to develop and display content and advertising tailored to your interests on Tube8.
+    
 * **Communications and handling of requests:** We process Online Forms and Communications Data and other information as necessary to respond to and resolve any of your requests, including where this is required to ensure compliance with our legal obligations.
+    
 * **Analytics:** We process identifiers and website activity data to determine whether users of Tube8 are unique, or whether the same user is using Tube8 on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns.
+    
 * **Functionality and security:** We may process any of the categories of data we process to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement.
+    
 * **Compliance:** We may process any of the categories of data we process to enforce our Terms of Service and to comply with our legal obligations. In certain jurisdictions, this includes our legal obligation to verify the age of users having access to Tube8.
+    
 * **Hash Values:** We may create hash values from any of the categories of data we process, such as infringing or illegal content to train our models to detect, prevent, and combat illegal activities including fraud, sexual assault, or exploitation. We reserve the right to share any hashes with law enforcement agencies.
+    
 * **Information you provide:** We will process contact information and user submitted personal information in any other way we may describe when you provide the information; or for any other purpose with your consent provided separately from this Privacy Notice.
-
-Back to Top
+    
 
 5\. Our Legal Bases Under Canadian and European Union (EU) Privacy Law
 
 To the extent required by applicable law, we rely on several lawful bases to use your data in these ways. This means we process your personal data only where:
 
 * You provide your consent to do so for a specific purpose: for example, when you allow us to show you personalized ads or to send you e-mail marketing.
+    
 * Biometric information may in some instances also be processed by our third-party service provider based on your consent for identification and age verification purposes. You may withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any collection, use, processing, or disclosure that occurred prior to the withdrawal.
+    
 * It is necessary to perform our contract with you: for example, to create your account and provide our services.
+    
 * It is necessary to comply with our legal obligations: for example, we may be required to collect, use, or disclose your information in connection with civil, criminal, corporate, taxation, regulatory matters, or litigation.
+    
 * It satisfies a legitimate interest (which is not overridden by your data protection interests): for example, to keep Tube8 safe and secure from fraud and illegal activities.
+    
 * It is used to protect your or others’ vital interests: for example, in case of emergency or to prevent a crime or fraud.
+    
 * It is used for tasks carried out in the public interest: for example, to combat unlawful behaviour where it is in the public interest to do so and where the public interest is laid down by applicable law.
+    
 
 Depending on the circumstances, we may rely on different legal bases when processing your same information for different purposes. If you reside outside the European Economic Area (“EEA”), Switzerland or the United Kingdom (“UK”), the legal bases on which we rely may differ from those listed above.
-
-Back to Top
 
 6\. Disclosure of Your Personal Information
 
 We disclose personal information when necessary to perform the services or for other purposes set out in this Privacy Notice. When we disclose your personal information, we usually rely on the performance of our contract with you, our legal obligation to do so, our legitimate interest (e.g., operating Tube8), so long as it doesn’t outweigh your interests or your consent, except when expressly stated otherwise below in the paragraph _"To comply with the law or protect our rights or the rights of third parties"_. Disclosure of your personal information may also involve transfers of your personal information outside the EEA. To the extent that we need to transfer personal information outside the EEA, we will do so according to the section _"Transfers of Your Personal Information to Other Countries"_ or when necessary for the performance of the contract between us. The parties to whom we may disclose your personal information include:
 
 * **the public:** When you submit user contributions including audio/video content, you are using Tube8 and services to make that information public.
+    
 * **our contractors and/or employees:** To provide our services to you, our employees and/or contractors may receive access to your personal data only on a need-to-know basis. Such employees and contractors abide by confidentiality obligations.
+    
 * **our corporate group:** We may disclose any of the categories of personal information to members of our corporate group to the extent this is necessary for our purposes described in this Privacy Notice, and generally to operate our business, which includes: identification and age verification purposes, transaction monitoring and payment processing, customer support, facilitate business development, administer user accounts or provide IT, technical and engineering support. You acknowledge that in some cases, members of our corporate group might be established or run their services outside the EEA.
+    
 * **Linked Third-Party Websites or Single Sign-On Services:** You may choose to sign-in, connect or register an account using an external third-party platform, or Single Sign-On (SSO) if available. If you choose to connect your account to a third-party platform, the providers of this platform may receive information about you. When you use third-party platforms, their own terms and privacy policies will govern their use.
-* **Service providers:** We disclose certain categories of personal information to our authorized service providers that perform certain services on our behalf to enable us to provide our services to you pursuant to our Terms of Service. These service providers may use your information only to perform these tasks on our behalf, may include, identity and document authenticity verification including biometric processing, age verification, risk and fraud detection and mitigation, customer service, marketing and advertising, customization of content, analytics, security, or hosting Tube8 or supporting Tube8’s functionality. These service providers may only have access to the personal information needed to perform their functions but are not permitted to process such information for any other purposes. Where required under applicable laws, we entered into data processing agreements with such service providers to ensure that personal information is only processed securely within our instructions. You can view the list of our third-party service providers acting as our processors [here](https://www.tube8.com/information/processors).
+    
+* **Service providers:** We disclose certain categories of personal information to our authorized service providers that perform certain services on our behalf to enable us to provide our services to you pursuant to our Terms of Service. These service providers may use your information only to perform these tasks on our behalf, may include, identity and document authenticity verification including biometric processing, age verification, risk and fraud detection and mitigation, customer service, marketing and advertising, customization of content, analytics, security, or hosting Tube8 or supporting Tube8's functionality. These service providers may only have access to the personal information needed to perform their functions but are not permitted to process such information for any other purposes. Where required under applicable laws, we entered into data processing agreements with such service providers to ensure that personal information is only processed securely within our instructions. You can view the list of our third-party service providers acting as our processors [here](https://www.tube8.com/information/processors).
+    
 * **Legal successors:** We may disclose the categories of personal information we process to a buyer or other successor in the event of a merger, acquisition or sale or transfer of some or all our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding. Such transactions may be in our legitimate interest, particularly our interest in making decisions that enable our business to develop.
+    
 * **To comply with the law or protect our rights or the rights of third parties:** We access, preserve and share all of the categories of personal information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, this also includes our Trust and Safety initiative, in the scope of which we may disclose some information to several recipients, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security, or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others; or (e) to maintain and protect the security and integrity of Tube8 or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+    
 
 For more information on recipients of personal information, please see the section “Contact Information” below on how to contact us.
 
-Back to Top
-
 7\. Cookies and Automatic Data Collection Technologies
 
-As you navigate through and interact with Tube8, we use automatic data collection technologies to collect website activity data. The technologies we use for this automatic data collection may include cookies, which are small text files that are stored in your web browser or downloaded to your device when you visit Tube8. For more information on how we use cookies, please refer to our Cookie Notice, available [here](https://www.tube8.com/information/cookie-notice).
-
-Back to Top
+As you navigate through and interact with Tube8 , we use automatic data collection technologies to collect website activity data. The technologies we use for this automatic data collection may include cookies, which are small text files that are stored in your web browser or downloaded to your device when you visit Tube8 . For more information on how we use cookies, please refer to our Cookie Notice, available [here](https://www.tube8.com/information/cookie-notice).
 
 8\. Your Choices About How We Process and Disclose Your Personal Information
 
 We strive to provide you with choices regarding the personal information you provide to us.
 
 * You can choose not to provide us with certain personal information, but that may result in you being unable to use certain features of Tube8 because such information may be required for you to register as a member; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on Tube8.
+    
 * The Cookie Banner can be utilized to customize your cookie preferences. The Cookie Banner will record when you have consented to our cookies. For logged in users, we will ask for consent once a year or when we have major changes to our cookies, to ensure you stay up to date with changes to our cookies and privacy policies. For non-logged in users, your Cookie Banner selection will be kept only for the specific session. The Cookie Banner specifically controls the Functionality, Analytics, and Advertising cookies set by using Tube8. Strictly necessary cookies cannot be disabled, nor can the tool be used to block cookies on third party websites linked from Tube8.
+    
 * You can access the Cookie Banner anytime by clicking on the ‘Manage cookies’ option that is located at the footer of Tube8.
+    
 * You can opt out of receiving marketing emails from us using the opt-out link provided in our emails or by changing your preferences in your account settings. You may use your account settings to delete your user contributions and audio/video information.
+    
 * You may also delete and deactivate your account with us at any time unless required not to do so by law or by a court order. If you do so, your profile will no longer be accessible by you. If you later choose to have an account with us, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved.
+    
 * Where we provide you personalised services, we may analyse the information you supply, as well as your activity on Tube8, so that we can offer a more relevant, tailored service. For instance, we could use your favourites' list to provide you with personalised content recommendations or ads. If you don’t want to receive these services, you can switch off the recommendations toggle on the “recommended” page or via the bar at the left of our page. For more information on how we use recommendations, please click [here](https://www.tube8.com/info.html#systemguidelines).
-
-Back to Top
+    
 
 9\. California Rights and Choices
 
 As of January 1, 2020, the California Consumer Privacy Act of 2018 (“CCPA”) provides California residents (“Consumer(s)”) certain rights with respect to their personal information, as this term is defined under the CCPA. In addition to the rights that we state under this Privacy Notice, and subject to the exceptions found under the CCPA, Consumers have the right to:
 
 * Opt-out of the sale of their personal information, should we sell their personal information;
+    
 * Be informed of certain information concerning our collection and use of their personal information;
+    
 * Request that we delete certain personal information we collected from them;
+    
 * Appoint an agent to exercise their rights provided for by the CCPA, provided that a duly executed notarized power of attorney is presented and provided that the agent has information deemed sufficient to allow us to verify the identity of the Consumer in question and to locate his/her information in our systems;
+    
 * Not be subjected to discrimination for the exercise of these rights. We will not deny California residents the use of our service, neither will we provide a different level or quality or services for exercising any of their CCPA rights, unless as permitted under the CCPA.
+    
 
 Tube8 does not sell, nor has it sold in the past twelve (12) months personal information to third parties for monetary or other valuable consideration. We may however disclose certain personal information with third parties, service providers and entities within our corporate group to enable them to perform certain services on our behalf and namely to make Tube8 work properly, as described in the section above titled _Disclosure of Your Personal Information_.
 
@@ -824,13 +842,9 @@ In either case you will need to provide the following information to verify your
 
 You can designate an agent to make a request by executing a notarized power of attorney to have that person act on your behalf and providing that person with the information listed above that allows us to verify your identity and locate your information. Alternatively, you will need to directly confirm your identity with us using the methods described above, sign an authorization for the agent to act on your behalf and provide us with confirmation that you have done so.
 
-Back to Top
-
 10\. Resident’s Rights – Jurisdictions in the United States, Where Applicable
 
 We do not sell, trade, or exchange the Registered Users’ personal information with anyone for money.
-
-Back to Top
 
 11\. Biometric Information
 
@@ -839,32 +853,32 @@ We employ third-party service providers to verify your identity, age, and the au
 Your biometric information will be processed to:
 
 * verify you are a real, live person and to prevent the use of methods which would allow a user to identify as someone else;
+    
 * to match your selfie with your government-issued ID you submit or previously submitted to us to make sure that nobody is impersonating you;
+    
 * to help confirm your age;
+    
 
 Please note that this section entitled _"Biometric Information"_ applies to relevant users who wish to upload content onto Tube8 but does not apply to identifiers processed by our third-party age verification service providers solely for the purpose of granting you access to Tube8. Our third-party service providers will store your biometric information according to their retention policies, please consult the section _"Retention of Personal Information"_ below to understand our retention practices.
-
-Back to Top
 
 12\. Notice to Law Enforcement
 
 The following information serves as a guideline for law enforcement officials seeking disclosure of records. You may serve us a valid court order, subpoena, search warrant or equivalent legal or official administrative document by respecting the following conditions:
 
 1. The document(s) is uploaded, and all required fields have been filed out adequately on our platform for Legal Service Process located at: [https://legalservice.aylo.com/legal/datarequest](https://legalservice.aylo.com/legal/datarequest);
+    
 2. The document(s) you are serving is correctly issued to Aylo Freesites Ltd by a valid Court of Law or equivalent legal or administrative authority to us;
+    
 3. The document(s) is also sent by mail at the following address: 195-197 Old Nicosia-Limassol Road, Block 1 Dali Industrial Zone, Cyprus 2540.
+    
 
 We reserve the right to refuse online service through Tube8, namely in cases where the above requirements are not met and require formal legal service at the above address. In such an event, you will be notified. We may raise or waive any legal objection or right available, in our sole discretion.
-
-Back to Top
 
 13\. Transfers of Your Personal Information to Other Countries
 
 By using Tube8 you consent to the transfer of information that we process about you, which may include personal information to other countries in which members of our corporate group or our service providers are located. When we transfer personal information to countries outside of the EEA or other regions or countries with comprehensive data protection laws, we will ensure that the information is transferred in accordance with the applicable laws. Where applicable, we rely on decisions of the European Commission, known as “adequacy decisions”, recognizing that certain countries offer a level of protection of personal data that is essentially equivalent to the EEA. In other situations, we rely on standard contractual clauses approved by the European Commission (and the equivalent standard contractual clauses for the UK, where appropriate) or on derogations provided for under the applicable law to transfer information to a third country.
 
 For more information or to obtain a copy of our standard contractual clauses, please see the section “_Contact Information_” below on how to contact us.
-
-Back to Top
 
 14\. Retention of Personal Information
 
@@ -878,13 +892,9 @@ For more information on data retention periods, please contact us by using the i
 
 Where permissible, we will also delete your personal information upon your request as explained in the section _"Your Rights Related to Your Personal Information"_.
 
-Back to Top
-
 15\. Third-Party Links and Sites
 
 If you click on a link to a third-party website, you will be taken to websites we do not control. This Privacy Notice does not apply to the privacy practices of these websites. Read the Privacy Notice of other websites carefully. We are not responsible for these third-party practices.
-
-Back to Top
 
 16\. Changes to Our Privacy Notice
 
@@ -898,19 +908,24 @@ You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Indus
 
 Our Data Protection Officer can be contacted at the following email address: [dpo@tube8.com](mailto:dpo@tube8.com).
 
-Back to Top
-
 18\. Your Rights Related to Your Personal Information
 
 Subject to local law and applicable legal requirements and exemptions, you have certain rights regarding your personal data:
 
 * **Right of access**: you have the right to receive information on the personal data we hold about you and how such personal data is used, as well as a copy of your personal data;
+    
 * **Right to rectification**: you have the right to rectify inaccurate personal data concerning you;
+    
 * **Right to be forgotten**: you have the right to delete/erase your personal data;
+    
 * **Right to data portability**: you have the right to receive the personal data provided by you in a structured, commonly used, and machine-readable format and to transmit this personal data to another data controller;
+    
 * **Right to object**: you have the right to object to the use of your personal data where such use is based on our legitimate interests or on public interests;
+    
 * **Right to restriction of processing**: you have the right in some cases, to restrict our use of your personal data.
+    
 * **Right to file a complaint**: If you are in the EEA or the UK, you also have a right to lodge a complaint with your local data protection authority.
+    
 
 If we ask for your consent to process your personal data, you have the right to withdraw your consent at any time. Note that, in that case, you may no longer able to use several functionalities of Tube8 or access Tube8 in some cases.
 
@@ -922,8 +937,6 @@ Please note that unless you have created an account with us, we may not have suf
 
 Note that some requests to delete certain personal information will require the deletion of your user account as the provision of user accounts are inextricably linked to the processing of certain personal information (e.g., your e-mail address). If you delete your account, your personal data and all account related information including, but not limited to, user profile data, sharing data and any data or content specifically associated with your account will no longer be accessible by you. If, after deleting your account, you wish to have an account with us in the future, you will have to sign up for a new account.
 
-Back to Top
-
 19\. Manage My Data
 
 Registered Users may request a copy of their personal data or request the deletion of their personal data via the links below. Please note that the below website is governed by the present Privacy Notice.
@@ -931,8 +944,6 @@ Registered Users may request a copy of their personal data or request the deleti
 [REQUEST A COPY OF MY PERSONAL DATA](https://www.tube8.com/managemydata/requestDataCopy?productId=10159&productDomain=tube8.com) [DELETE MY PERSONAL DATA](https://www.tube8.com/managemydata/requestDataDeletion?productId=10159&productDomain=tube8.com)
 
 _Note: AdBlocker add-ons interfere with the Manage My Data system. Please disable them._
-
-Back to Top
 
 RTA
 ===
@@ -1650,9 +1661,9 @@ INCREASE YOUR EXPOSURE TODAY!
 
 Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
-[![Sign Up Now](https://ea.t8cdn.com/93df0d8bcae8b2a47b5d870088e3d819adeb1ab1/base/cdn_assets/images/shared/sign-up-button.png?v=93df0d8bcae8b2a47b5d870088e3d819adeb1ab1)](https://www.pornhub.com/partners/cpp)
+[![Sign Up Now](https://ea.t8cdn.com/1df4b49a7df4124a4ab78547ce5898ebb8659f98/base/cdn_assets/images/shared/sign-up-button.png?v=1df4b49a7df4124a4ab78547ce5898ebb8659f98)](https://www.pornhub.com/partners/cpp)
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/93df0d8bcae8b2a47b5d870088e3d819adeb1ab1/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=93df0d8bcae8b2a47b5d870088e3d819adeb1ab1 "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/1df4b49a7df4124a4ab78547ce5898ebb8659f98/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=1df4b49a7df4124a4ab78547ce5898ebb8659f98 "Tube8 Free Porn")](https://www.tube8.com/)
 
  HELP & SUPPORT
 
@@ -1679,7 +1690,7 @@ Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
 [Looking for gay porn?](https://www.tube8.com/gay "Tube8 Gay")
 
-[![rta](https://ea.t8cdn.com/93df0d8bcae8b2a47b5d870088e3d819adeb1ab1/base/cdn_assets/images/shared/rta.gif?v=93df0d8bcae8b2a47b5d870088e3d819adeb1ab1)](https://www.tube8.com/info.html#rating)
+[![rta](https://ea.t8cdn.com/1df4b49a7df4124a4ab78547ce5898ebb8659f98/base/cdn_assets/images/shared/rta.gif?v=1df4b49a7df4124a4ab78547ce5898ebb8659f98)](https://www.tube8.com/info.html#rating)
 
 © Tube8 2006 - 2024
 
