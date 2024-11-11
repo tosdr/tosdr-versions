@@ -153,6 +153,8 @@ Sub Menu
 
 search
 
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
+
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -661,17 +663,17 @@ Teri Silveira Calgary 26/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-super friendly & fast !
+Great service. They were fast and gave me a great deal would highly recommend their services.
 
-Callie Murray Calgary 24/10/2024
+Harry Tys Calgary 24/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great service. They were fast and gave me a great deal would highly recommend their services.
+super friendly & fast !
 
-Harry Tys Calgary 24/10/2024
+Callie Murray Calgary 24/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,30 +887,6 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Zack K. and Lucus were great. They took care of everything we needed!
-
-Bob Saffin Cincinnati 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Keith and Caleb were awesome!
-
-Ben Hardin Wisconsin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Darontay and Derrick J. did an amazing job. Showed up right on time and cleared out everything that I wanted gone.
-
-Tim Leber Seattle 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Derek and Deronta did a fabulous job clearing our items from my father’s house. They were done inside of 30 minutes.
 
 Shawn Newkirk Seattle 09/11/2024
@@ -965,17 +943,25 @@ Rochelle Wisconsin 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Antonio & Chris were courtious quick and awesome. Thank you
+Zack K. and Lucus were great. They took care of everything we needed!
 
-Amie Sommer Cincinnati 08/11/2024
+Bob Saffin Cincinnati 09/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-JASON AND DANIEL
+Keith and Caleb were awesome!
 
-Lucien Cox LA Metro 08/11/2024
+Ben Hardin Wisconsin 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Darontay and Derrick J. did an amazing job. Showed up right on time and cleared out everything that I wanted gone.
+
+Tim Leber Seattle 09/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1013,17 +999,33 @@ Suzanne Tubbs Austin 08/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Sevotae and Stephen did a great job and priced me out great.
+Antonio & Chris were courtious quick and awesome. Thank you
 
-Rayne Loucks Madison 07/11/2024
+Amie Sommer Cincinnati 08/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Joe was awesome! Super friendly and easy to work with. Quick service removing a mattress for us during a move.
+JASON AND DANIEL
 
-Megan Radke Austin 07/11/2024
+Lucien Cox LA Metro 08/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Pleasant people to work with. Prompt and fair pricing. Took everything I asked them to. I would recommend them and use them again.
+
+Harlan Pilon Wisconsin 07/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+These guys were great. Thanks for ridding us of junk and enjoying my dog.
+
+Cricket Park Cincinnati 07/11/2024
 
 ### 
 
