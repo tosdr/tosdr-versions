@@ -1,4 +1,4 @@
-[Skip to Content](#main)
+[Skip to Content](#wrapper)
 
 Javascript must be enabled for the correct page display
 
@@ -16,10 +16,12 @@ Show mobile menu
 * [Refer a friend](https://www.veygo.com/refer/)
 
 * [Help](https://www.veygo.com/help/)
+* [Start a Claim](https://account.veygo.com/purchases)
 * [My Account](https://account.veygo.com/profile%20)
 * [Sign in](https://login.veygo.com/?redirect=https://www.veygo.com/cookie-policy/?loggedin=true%20)
 
 * [Help](https://www.veygo.com/help/)
+* [Start a Claim](https://account.veygo.com/purchases)
 * [My Account](https://account.veygo.com/profile%20)
 * [Sign in](https://login.veygo.com/?redirect=https://www.veygo.com/cookie-policy/?loggedin=true%20)
 
@@ -59,7 +61,7 @@ The persistent cookies used on this website help us to improve the user experien
 What cookies do we use and why?
 -------------------------------
 
-Please see the list of cookies in the table below. Please note if you have enhanced settings on your browser the table may not load. 
+Please see the list of cookies in the table below. Please note if you have enhanced settings on your browser the table may not load.
 
 We use services provided by a third party for fraud prevention purposes. The third-party service helps us decide whether to accept transactions from devices by checking whether these devices have been identified with fraudulent transactions in the past, such as reported instances of identity theft, account takeovers, or malware attacks. If you set your browser or device to reject these cookies or tokens, you may not be able to conclude some transactions through our website or application. We share information about the device you are using, which may also have been used or appropriated by others, and do not identify you or reveal the details of your transaction to that third-party.
 
@@ -80,32 +82,30 @@ To opt out of being tracked by Google Marketing Platform (Analytics) across all 
 Further information on our use of cookies
 -----------------------------------------
 
-If you would like more information regarding cookies or our use of them, please contact our Data Protection Officer at: yourinformationrights@admiralgroup.co.uk, or write to:
+If you would like more information regarding cookies or our use of them, please contact our Data Protection Officer at: [yourinformationrights@admiralgroup.co.uk](mailto:yourinformationrights@admiralgroup.co.uk), or write to:
 
-Data Protection Officer
-
-Admiral Group plc
-
-Tŷ Admiral
-
-David Street
-
+Data Protection Officer  
+Admiral Group plc  
+Tŷ Admiral  
+David Street  
 Cardiff CF10 2EH
 
 January 2021
 
+[Veygp](https://www.veygo.com/)
+
 ##### Insurance
 
+* [Start a claim](https://account.veygo.com/purchases)
 * [Learner driver insurance](https://www.veygo.com/learner-driver-insurance/)
 * [New driver insurance](https://www.veygo.com/new-driver/)
 * [Experienced driver insurance](https://www.veygo.com/experienced-driver-insurance/)
 * [Pay-as-you-go cover](https://www.veygo.com/temporary-car-insurance/)
 * [Monthly rolling cover](https://www.veygo.com/monthly-subscriptions/)
-* [Make a claim](https://account.veygo.com/purchases)
 
 ##### Company
 
-* [About Us](https://www.veygo.com/about-us/)
+* [About us](https://www.veygo.com/about-us/)
 * [Careers](https://www.veygo.com/careers/)
 * [Magazine](https://www.veygo.com/veygo-magazine/)
 * [Help](https://www.veygo.com/help/)
@@ -116,7 +116,7 @@ January 2021
 * [Privacy policy](https://www.veygo.com/privacy-policy/)
 * [Cookie policy](https://www.veygo.com/cookie-policy/)
 * [Your agreement](https://quote.veygo.com/static/Your_Agreement_with_Able_Insurance_Services_Limited.pdf)
-* [Modern slavery statement](https://admiralgroup.co.uk/investor-relations/corporate-governance/modern-slavery-statements)
+* [Modern slavery statement](https://www.veygo.com/modern-slavery-statement/)
 
 ##### Hours
 
