@@ -356,6 +356,20 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-kirsty-lee-carpenter-uss-ronin-shaxs-star-security-tactical/)
+
+### [Award Winner – Kirsty Lee Carpenter, USS Ronin (Shaxs Star – Security/Tactical)](https://www.starbase118.net/2024/award-winner-kirsty-lee-carpenter-uss-ronin-shaxs-star-security-tactical/)
+
+Salkath November 11, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-kirsty-lee-carpenter-uss-ronin-shaxs-star-security-tactical/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
 
 ### [Prime Directive Crisis Emerges During USS Artemis Search and Rescue Mission in Borderlands](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
@@ -368,6 +382,8 @@ BORDERLANDS, CELEDI NEBULA – A routine mission to locate the missing civilian 
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-drex-denali-station-xalor-clan-xifilis-award/)
 
 ### [Award Winner – Drex, Denali Station (Xalor Clan Xifilis Award)](https://www.starbase118.net/2024/award-winner-drex-denali-station-xalor-clan-xifilis-award/)
@@ -377,18 +393,6 @@ Salkath November 9, 2024
 Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-drex-denali-station-xalor-clan-xifilis-award/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
-
-### [USS Astraeus and USS Chin’toka return to service after Frontier Day repairs](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
-
-Federation News Service November 8, 2024
-
-EARTH, SOL SYSTEM, ALPHA QUADRANT – Nearly half a year after the devastating attack on Frontier Day, the USS Astraeus and the newly reactivated USS
-
-[Read More »](https://www.starbase118.net/2024/uss-astraeus-and-uss-chintoka-return-to-service-after-frontier-day-repairs/)
 
 Ready to get started?
 ---------------------
