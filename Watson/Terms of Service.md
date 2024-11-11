@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)6°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [En direct](https://www.watson.ch/fr/en-direct/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [En direct](https://www.watson.ch/fr/en-direct/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Vidéo](https://www.watson.ch/fr/video/)
-* [Espace](https://www.watson.ch/fr/espace/)
-* [Migrants](https://www.watson.ch/fr/migrants/)
+* [Transports](https://www.watson.ch/fr/transports/)
 * [Analyse](https://www.watson.ch/fr/analyse/)
-* [Russie](https://www.watson.ch/fr/russie/)
 * [Planète](https://www.watson.ch/fr/planete/)
 * [Astronomie](https://www.watson.ch/fr/astronomie/)
-* [immigration](https://www.watson.ch/fr/immigration/)
 * [Climat](https://www.watson.ch/fr/climat/)
 * [Animaux](https://www.watson.ch/fr/animaux/)
-* [Musique](https://www.watson.ch/fr/musique/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [voiture](https://www.watson.ch/fr/voiture/)
-* [Mexique](https://www.watson.ch/fr/mexique/)
+* [Inondation](https://www.watson.ch/fr/inondation/)
+* [Genève](https://www.watson.ch/fr/geneve/)
+* [Berne](https://www.watson.ch/fr/berne/)
+* [Espagne](https://www.watson.ch/fr/espagne/)
+* [Nati](https://www.watson.ch/fr/nati/)
+* [People](https://www.watson.ch/fr/people/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Football](https://www.watson.ch/fr/football/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
