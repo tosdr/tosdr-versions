@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e752daa1-719b-4688-b5f9-71c1f9caf437/20241109T192138/e752daa1-719b-4688-b5f9-71c1f9caf437_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
+    *  [![](https://media.king5.com/assets/KING/images/7c951af3-d341-4530-8e80-205e0808eaed/20240922T032839/7c951af3-d341-4530-8e80-205e0808eaed_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7c951af3-d341-4530-8e80-205e0808eaed/20240922T032839/7c951af3-d341-4530-8e80-205e0808eaed_360x203.jpg)](https://www.king5.com/article/news/local/washington-state-flags-half-staff-nov-12/281-b4d80f27-bae6-4c7d-8175-87748bced3b2)
         
-        #### [3 people sleeping near Everett road killed after driver loses control, police say](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
+        #### [Why Washington state flags will be at half-staff on Tuesday](https://www.king5.com/article/news/local/washington-state-flags-half-staff-nov-12/281-b4d80f27-bae6-4c7d-8175-87748bced3b2)
         
-    *  [![](https://media.king5.com/assets/KING/images/b58170e9-4ed8-4767-9a94-1ef4d2804ad4/20241111T041848/b58170e9-4ed8-4767-9a94-1ef4d2804ad4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b58170e9-4ed8-4767-9a94-1ef4d2804ad4/20241111T041848/b58170e9-4ed8-4767-9a94-1ef4d2804ad4_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/tacoma-residents-concerns-shotspotter-pilot-program/281-b4ebb3e6-6a95-4533-b456-3afb36ba6674)
+    *  [![](https://media.king5.com/assets/KING/images/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6/20241111T164229/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6/20241111T164229/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6_360x203.jpg)](https://www.king5.com/article/sports/jordan-chiles-fight-olympic-bronze-medal-restored/281-b2256249-7205-4ea7-9be5-68dec9e2b493)
         
-        #### [Tacoma residents voice concerns about gunshot detection pilot program during public forum](https://www.king5.com/article/news/local/tacoma/tacoma-residents-concerns-shotspotter-pilot-program/281-b4ebb3e6-6a95-4533-b456-3afb36ba6674)
+        #### [Jordan Chiles discusses latest in fight to have Olympic bronze medal restored](https://www.king5.com/article/sports/jordan-chiles-fight-olympic-bronze-medal-restored/281-b2256249-7205-4ea7-9be5-68dec9e2b493)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/a3136828-140f-4710-88b2-ebb5e1762c3d/20241111T061404/a3136828-140f-4710-88b2-ebb5e1762c3d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3136828-140f-4710-88b2-ebb5e1762c3d/20241111T061404/a3136828-140f-4710-88b2-ebb5e1762c3d_360x203.jpg)](https://www.king5.com/article/news/snow-lovers-hope-incoming-storm-brings-new-life-washington-mountain-towns/281-f7f4cd97-b995-4bda-938e-2260f3bacb54)
+    *  [![](https://media.king5.com/assets/KSDK/images/408674ce-c4c1-4af4-b130-ecacf491866e/408674ce-c4c1-4af4-b130-ecacf491866e_16x9.jpeg) ![](https://media.king5.com/assets/KSDK/images/408674ce-c4c1-4af4-b130-ecacf491866e/408674ce-c4c1-4af4-b130-ecacf491866e_360x203.jpeg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
-        #### [Snow lovers hope incoming storm brings new life to Washington's mountain towns](https://www.king5.com/article/news/snow-lovers-hope-incoming-storm-brings-new-life-washington-mountain-towns/281-f7f4cd97-b995-4bda-938e-2260f3bacb54)
+        #### [Timeline: Rain, wind and mountain snow move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+51°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
