@@ -225,6 +225,62 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 11, 2024
+
+> Luxury South Africa Tour
+
+> I inquired into a South African safari tour. I asked two questions, is this a private tour and what are the available dates in May. The first question wasn't answered and the itinerary presented was for "May 2025" but had February dates. When I asked for clarification on the timeline and the dates, there was no response (over 3 days now). I would expect a better response for a luxury tour.
+
+Don Shewmaker
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 11, 2024
+
+> 3-nights Zambia trip
+
+> I would start by saying before I started talking to Leigh-Ann Croeser I knew I wanted to go on this 3-nights adventure in Zambia with my family towards the end of this year, but I did not have any idea of how to go about planning it, thankfully Leigh-Ann responded immediately to my enquiry. Ever since I started communicating with her, she has been a very friendly, professional, knowledgeable, awesome Luxury Safari consultant who came through for me in every step of this process. She offered great advice and did a great job in customizing our itinerary and put my mind at ease in the process. She always responded quickly and gave me great advise when I needed. We are so looking forward to going on this adventure. I want to thank her from the bottom of my heart;) Thembi Coleman and her family
+
+Thembela Coleman
+
+,
+
+us
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 9, 2024
+
+> Details were clear and sent in atimely…
+
+> Details were clear and sent in atimely manner.
+
+Tony N
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 9, 2024
+
+> The lodge was great
+
+> The lodge was great, very friendly stuff. Saw all kind of animals. The vendor we booked the lodge, charged way to much, compared when you book the lodge directly.
+
+Werner Untrieser
+
+,
+
+DE
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 8, 2024
 
 > Sara was very helpful
@@ -234,6 +290,8 @@ out of 5 based on
 Melanie
 
 ,
+
+CA
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -246,6 +304,8 @@ Melanie
 Ben George
 
 ,
+
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -288,62 +348,6 @@ Jason Albert
 ,
 
 us
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 6, 2024
-
-> Lindi Weeks - Safari.com. A Pleasure to Work With.
-
-> I recently had the pleasure of working with Lindi Weeks of Safari.com to plan our dream safari, and I couldn't be happier with the experience! From start to finish, she was incredibly patient, answering every question I had and addressing all my concerns. Her knowledge of safari destinations, wildlife, and logistics is truly impressive – it’s clear she’s a seasoned expert in the field! Beyond being well-informed, Lindi is an all-around wonderful person to work with. She was understanding of our budget and needs, and she crafted an itinerary that perfectly balanced adventure, relaxation, and unique wildlife encounters. At every step, I felt like I was in great hands, knowing Lindi had thought of every detail to make our trip as memorable as possible. If you're considering a safari adventure and want someone who is knowledgeable, patient, and truly cares about making your experience unforgettable, I highly recommend Lindi
-
-brawh
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 5, 2024
-
-> This is the second time this year we…
-
-> This is the second time this year we have used Shann Shaw at Safari.com. She is outstanding in her role and is always so flexible and helpful. She literally goes beyond expectations and nothing is ever to much for her and there is never any frustrations when plans have to be re-started if flights arriving later than expected. She also comes up with wonderful ideas for trips and not just limited to Safari's but for hotels in South Africa as well. i don't normally write reviews but Shann deserves every accolade that comes her way. thank you so much - Bryan & Jo
-
-Bryan
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 5, 2024
-
-> was really go service and will always…
-
-> was really go service and will always use her for future bookings when visiting the park
-
-Bradley
-
-,
-
-ZA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 5, 2024
-
-> The booking team is very helpful and…
-
-> The booking team is very helpful and always on top
-
-Werner Untrieser
-
-,
-
-DE
 
 VIP service
 
