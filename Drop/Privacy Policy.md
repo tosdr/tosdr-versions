@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop DCD Cozy Bakery Keycap Set
+[Drop + Grell OAE1 is coming back
 
-Fresh baked for your fingertips
+All new blacked out colorway!
 
-Shop Now
+REQUEST NOW
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-dcd-cozy-bakery-keycap-set)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-grell-oae1-headphones/story#story)
 
 Free Standard Shipping in the US on orders over $99
 
