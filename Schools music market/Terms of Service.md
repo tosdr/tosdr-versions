@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/cast-a-spell-halloween-rhythm-worksheet/)
+ [](https://schoolsmusicmarket.com/product/compose-a-song-cut-and-stick/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/the-medieval-period-presentation/)
+ [](https://schoolsmusicmarket.com/product/level-0-beginner-band-mad-music-full-band-bundle-280-worksheets-w-fingerings/)
 
 ###### Browse By Year/Grade
 
