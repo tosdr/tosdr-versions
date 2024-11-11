@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-The next best thing to UltraFark
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Prankster convinces teachers in Russia to wear patriotic tin foil hats to protect against 'NATO satellites'](https://www.fark.com/goto/13458598) ( [msn.com](https://www.fark.com/goto/13458598) ) » [(3 comments)](https://www.fark.com/comments/13458598/Prankster-convinces-teachers-in-Russia-to-wear-patriotic-tin-foil-hats-to-protect-against-NATO-satellites) |
-| [Discussion](https://www.fark.com/discussion/) | [Did you get teeth pulled for dentures? I'm freaking out because that's gonna happen tomorrow. They'll disassemble the bottom half of my face using only local anesthetics, and it has me freaked out. Have you had it done? Talk me down off this ledge](https://www.fark.com/goto/13458520) ( [affordabledentures.com](https://www.fark.com/goto/13458520) ) » [(43 comments)](https://www.fark.com/comments/13458520/Did-you-get-teeth-pulled-for-dentures-Im-freaking-out-because-thats-gonna-happen-tomorrow-Theyll-disassemble-bottom-half-of-my-face-using-only-local-anesthetics-it-has-me-freaked-out-Have-you-had-it-done-Talk-me-down-off-this-ledge) |
-| [Sports](https://www.fark.com/sports/) | [Jared Goff and the Detroit Lions travel to Houston to take on C.J. Stroud and the Texans. Will the Lions win on the road to go up to 8-1? Or will the Texans beat them at home? Sunday Night Football kicks off at 8:20 PM ET on NBC](https://www.fark.com/goto/13457864) ( [espn.com](https://www.fark.com/goto/13457864) ) » [(658 comments)](https://www.fark.com/comments/13457864/Jared-Goff-the-Detroit-Lions-travel-to-Houston-to-take-on-CJ-Stroud-the-Texans-Will-Lions-win-on-road-to-go-up-to-8-1-Or-will-Texans-beat-them-at-home-Sunday-Night-Football-kicks-off-at-820-PM-ET-on-NBC) |
-| [Business](https://www.fark.com/business/) | [The wealthy: EVs are for poors. Besides, we fly private jets](https://www.fark.com/goto/13458604) ( [cnbc.com](https://www.fark.com/goto/13458604) ) » [(1 comment)](https://www.fark.com/comments/13458604/The-wealthy-EVs-are-for-poors-Besides-we-fly-private-jets) |
-| [STEM](https://www.fark.com/stem/) | ["\[S\]itting is best because it offers better access to the anus"](https://www.fark.com/goto/13458486) ( [thehealthy.com](https://www.fark.com/goto/13458486) ) » [(15 comments)](https://www.fark.com/comments/13458486/Sitting-is-best-because-it-offers-better-access-to-anus) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["Grift Men North of Richmond"](https://www.fark.com/goto/13458622) ( [pennlive.com](https://www.fark.com/goto/13458622) ) » [(0 comments)](https://www.fark.com/comments/13458622/Grift-Men-North-of-Richmond) |
+| [Main](https://www.fark.com/) | [Meet the psychiatrist who invented Karens, Yankees fans, and people who like Chicago-style pizza](https://www.fark.com/goto/13458808) ( [newrepublic.com](https://www.fark.com/goto/13458808) ) » [(0 comments)](https://www.fark.com/comments/13458808/Meet-psychiatrist-who-invented-Karens-Yankees-fans-people-who-like-Chicago-style-pizza) |
+| [Discussion](https://www.fark.com/discussion/) | [Veterans Day is the solemn occasion where we use coupons and discounts to honor those who fought for the values that a majority of Americans very recently decided weren't worth fighting for](https://www.fark.com/goto/13458732) ( [today.com](https://www.fark.com/goto/13458732) ) » [(7 comments)](https://www.fark.com/comments/13458732/Veterans-Day-is-solemn-occasion-where-we-use-coupons-discounts-to-honor-those-who-fought-for-values-that-a-majority-of-Americans-very-recently-decided-werent-worth-fighting-for) |
+| [Sports](https://www.fark.com/sports/) | [Pope Francis can't stop tweeting about his team, the Saints](https://www.fark.com/goto/13458628) ( [nbcphiladelphia.com](https://www.fark.com/goto/13458628) ) » [(0 comments)](https://www.fark.com/comments/13458628/Pope-Francis-cant-stop-tweeting-about-his-team-Saints) |
+| [Business](https://www.fark.com/business/) | [The iconic Super Cub 50, world's most popular smaller-engine motorcycle, is being killed off by Honda thanks to emissions, e-scooters and e-bikes](https://www.fark.com/goto/13458828) ( [mainichi.jp](https://www.fark.com/goto/13458828) ) » [(7 comments)](https://www.fark.com/comments/13458828/The-iconic-Super-Cub-50-worlds-most-popular-smaller-engine-motorcycle-is-being-killed-off-by-Honda-thanks-to-emissions-e-scooters-e-bikes) |
+| [STEM](https://www.fark.com/stem/) | [Meet the psychiatrist who invented Karens, Yankees fans, and people who like Chicago-style pizza](https://www.fark.com/goto/13458808) ( [newrepublic.com](https://www.fark.com/goto/13458808) ) » [(0 comments)](https://www.fark.com/comments/13458808/Meet-psychiatrist-who-invented-Karens-Yankees-fans-people-who-like-Chicago-style-pizza) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Writer complains that SNL has ruined their childhood with erotic Mike Wazowski artwork, somehow overlooking that the character is literally a walking, talking testicle](https://www.fark.com/goto/13458834) ( [slashfilm.com](https://www.fark.com/goto/13458834) ) » [(14 comments)](https://www.fark.com/comments/13458834/Writer-complains-that-SNL-has-ruined-their-childhood-with-erotic-Mike-Wazowski-artwork-somehow-overlooking-that-character-is-literally-a-walking-talking-testicle) |
 | [Fandom](https://www.fark.com/fandom/) | [IGN sinks Mario & Luigi: Brothership](https://www.fark.com/goto/13458098) ( [ign.com](https://www.fark.com/goto/13458098) ) » [(25 comments)](https://www.fark.com/comments/13458098/IGN-sinks-Mario-Luigi-Brothership) |
 | [D'awww](https://www.fark.com/dawww/) | [When dogs drift](https://www.fark.com/goto/13458198) ( [youtube.com](https://www.fark.com/goto/13458198) ) » [(4 comments)](https://www.fark.com/comments/13458198/When-dogs-drift) |
-| [Food](https://www.fark.com/food/) | [Rattlesnakes bite and rattlesnake bites](https://www.fark.com/goto/13458524) ( [thetakeout.com](https://www.fark.com/goto/13458524) ) » [(4 comments)](https://www.fark.com/comments/13458524/Rattlesnakes-bite-rattlesnake-bites) |
-| [Politics](https://www.fark.com/politics/) | [Nevertheless, she resisted](https://www.fark.com/goto/13458608) ( [boston.com](https://www.fark.com/goto/13458608) ) » [(4 comments)](https://www.fark.com/comments/13458608/Nevertheless-she-resisted) |
+| [Food](https://www.fark.com/food/) | [Old and busted: We gotta get that sauce, Morty. New hotness: They messed up our favorite sauce, Morty](https://www.fark.com/goto/13458884) ( [metro.co.uk](https://www.fark.com/goto/13458884) ) » [(1 comment)](https://www.fark.com/comments/13458884/Old-busted-We-gotta-get-that-sauce-Morty-New-hotness-They-messed-up-our-favorite-sauce-Morty) |
+| [Politics](https://www.fark.com/politics/) | ["Yeah, I voted for Trump. But I can't be racist because I'm not white"](https://www.fark.com/goto/13458760) ( [usatoday.com](https://www.fark.com/goto/13458760) ) » [(12 comments)](https://www.fark.com/comments/13458760/Yeah-I-voted-for-Trump-But-I-cant-be-racist-because-Im-not-white) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 11 2024 01:42:59  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 11 2024 08:44:10  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
