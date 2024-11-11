@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Fern Brady. Credit: Raphaël Neal](https://cdn.comedy.co.uk/images/library/people/300x200/f/fern_brady_2021.jpg "Fern Brady. Credit: Raphaël Neal")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-59/) Live
+
+[Fern Brady, The Weirdos, Anirban Dasgupta, Andrew Doherty - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-59/)
+
 [![Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/are_you_being_served_staff.jpg "Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC")](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/) Features
 
 [Comedy Rewind: Dear Sexy Knickers - A love letter to Are You Being Served?](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Rhys James. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/r/rhys_james_2022.jpg "Rhys James. Credit: Matt Crockett")](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/) Shop
 
 [Rhys James talks about his Spilt Milk special](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/)
-
-[![Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris](https://cdn.comedy.co.uk/images/library/misc/300x200/a/austentatious_2024.jpg "Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris")](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/) Live
-
-[Austentatious Q&A with Rachel Parris](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/)
 
 #### Subscribe to our newsletters
 
