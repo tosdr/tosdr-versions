@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2023/10/Julius-Wilkerson-326x245.jpg)](https://cwbchicago.com/2024/11/3-years-for-man-who-attacked-people-with-a-baseball-bat-in-lincoln-park.html "3 years for man who attacked people with a baseball bat in Lincoln Park")
+
+Lincoln Park
+
+### [3 years for man who attacked people with a baseball bat in Lincoln Park](https://cwbchicago.com/2024/11/3-years-for-man-who-attacked-people-with-a-baseball-bat-in-lincoln-park.html "3 years for man who attacked people with a baseball bat in Lincoln Park")
+
+[November 8, 2024 11:31 AM](https://cwbchicago.com/2024/11)
+
+A man pleaded guilty this week to randomly attacking three people with a baseball bat in Lincoln Park last year.[](https://cwbchicago.com/2024/11/3-years-for-man-who-attacked-people-with-a-baseball-bat-in-lincoln-park.html "3 years for man who attacked people with a baseball bat in Lincoln Park")
+
 [![](https://cwbchicago.com/wp-content/uploads/2022/12/Sebon-Grisby-and-Dangelo-Webb-326x245.jpg)](https://cwbchicago.com/2024/11/2-men-shot-by-a-concealed-carry-holder-in-the-loop-are-getting-sent-to-prison-too.html "2 men shot by a concealed carry holder in the Loop are getting sent to prison, too")
 
 Loop
@@ -262,16 +272,6 @@ Fuller Park
 [November 7, 2024 11:35 PM](https://cwbchicago.com/2024/11)
 
 A 14-year-old boy is charged with murdering a man during an attempted carjacking this summer while he already had at least one case pending in juvenile court, according to a source familiar with the matter.[](https://cwbchicago.com/2024/11/14-year-old-with-pending-felony-case-murdered-man-during-carjacking-attempt-source.html "14-year-old with pending felony case murdered man during carjacking attempt: source")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/DePaul-hate-crime-suspects-326x245.jpg)](https://cwbchicago.com/2024/11/2-suspects-sought-in-depaul-university-hate-crime-attack.html "2 suspects sought in DePaul University hate crime attack")
-
-Lincoln Park
-
-### [2 suspects sought in DePaul University hate crime attack](https://cwbchicago.com/2024/11/2-suspects-sought-in-depaul-university-hate-crime-attack.html "2 suspects sought in DePaul University hate crime attack")
-
-[November 7, 2024 6:43 PM](https://cwbchicago.com/2024/11)
-
-Investigators are looking for two men in connection with the hate crime attack of at least one Jewish student on DePaul University’s Lincoln Park campus on Wednesday afternoon.[](https://cwbchicago.com/2024/11/2-suspects-sought-in-depaul-university-hate-crime-attack.html "2 suspects sought in DePaul University hate crime attack")
 
 Search
 
