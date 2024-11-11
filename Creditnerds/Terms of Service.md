@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic, 2D cartoon-style image of a concerned character with glasses holding a document labeled 'Social Security' and looking thoughtful. Surrounding icons, such as a padlock, shield, warning symbol, and question marks, represent identity protection and steps to take if a Social Security number is stolen. The design uses flat colors and minimal shading, creating an approachable and informative visual on identity theft.](https://creditnerds.com/wp-content/uploads/2024/11/Social-Security-Fraud-30x30.webp)](https://creditnerds.com/what-to-do-if-your-social-security-number-is-stolen/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+November 11, 2024
+
+#### [What to Do if Your Social Security Number Is Stolen](https://creditnerds.com/what-to-do-if-your-social-security-number-is-stolen/)
+
+Identity theft can happen to anyone, and your Social Security number (SSN) is a prime target for scammers. When your SSN is stolen, acting quickly can protect your financial health. Start by reporting the theft and take steps to prevent further damage. Here’s a comprehensive guide to recovering from identity theft and keeping your information …
+
+[Read More](https://creditnerds.com/what-to-do-if-your-social-security-number-is-stolen/)
+
 [![A semi-realistic, 2D cartoon-style image of a professional character with glasses holding a document labeled 'Second Mortgage' with a thoughtful expression. The character stands in front of a house illustration, surrounded by financial icons like dollar signs, a house key, and mortgage documents, symbolizing the concept of a second mortgage. The image uses flat colors and minimal shading, creating a professional yet approachable look that explains second mortgages effectively.](https://creditnerds.com/wp-content/uploads/2024/11/Second-Mortgage-30x30.webp)](https://creditnerds.com/what-is-a-second-mortgage/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -386,18 +398,6 @@ October 8, 2024
 Deciding when to get your first credit card is an important financial decision. While the minimum age to get a credit card is typically 18, there are several factors to consider. You must meet the issuer's credit requirements, have a reliable source of income, and possess the financial skills to manage it responsibly. Let’s explore …
 
 [Read More](https://creditnerds.com/what-is-the-best-age-to-get-a-credit-card/)
-
-[![Cartoon-style image of a person wearing glasses, holding two credit cards, with arrows showing one credit card being transferred to the other. In the background, dollar signs and graphs symbolize the financial concept of a balance transfer.](https://creditnerds.com/wp-content/uploads/2024/10/Balance-Transfer-30x30.webp)](https://creditnerds.com/what-is-a-balance-transfer/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-October 7, 2024
-
-#### [What Is a Balance Transfer?](https://creditnerds.com/what-is-a-balance-transfer/)
-
-A balance transfer involves moving debt from one or more credit cards or loans to a new credit card that offers an introductory 0% annual percentage rate (APR). This financial strategy can help you save on interest, making it easier to pay down your balance. However, it's not the only option available for debt repayment, …
-
-[Read More](https://creditnerds.com/what-is-a-balance-transfer/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
