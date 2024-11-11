@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Are certain people most likely to get mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-certain-people-most-likely-to-get-mesothelioma.jpg "Are Certain People Most Likely to Get Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/are-certain-people-most-likely-to-get-mesothelioma/ "Are Certain People Most Likely to Get Mesothelioma?")
+[![Is mesothelioma a slow growing cancer?](https://www.pintas.com/wp-content/uploads/2020/07/is-mesothelioma-a-slow-growing-cancer-scaled.jpg "Is Mesothelioma a Slow Growing Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/ "Is Mesothelioma a Slow Growing Cancer?")
 
-[#### Are Certain People Most Likely to Get Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/are-certain-people-most-likely-to-get-mesothelioma/)
+[#### Is Mesothelioma a Slow Growing Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/)
 
-[![Suing for abuse at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility-300x200.jpg "Suing for Abuse at Assisted Living Facilities")](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/ "Suing for Abuse at Assisted Living Facilities")
+[![What is the talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-talcum-powder-lawsuit.jpg "What Is the Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/ "What Is the Talcum Powder Lawsuit?")
 
-[#### Suing for Abuse at Assisted Living Facilities](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/)
+[#### What Is the Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/)
 
-[![How do you get roundup off your skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-roundup-off-your-skin.jpg "How Do You Get Roundup Off Your Skin?")](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/ "How Do You Get Roundup Off Your Skin?")
+[![What is the best way to detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-x-ray-show-mesothelioma.jpg "What is the Best Way to Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/ "What is the Best Way to Detect Mesothelioma?")
 
-[#### How Do You Get Roundup Off Your Skin?](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/)
+[#### What is the Best Way to Detect Mesothelioma?](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
