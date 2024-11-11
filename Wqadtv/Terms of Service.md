@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KARE/images/7b460132-2f11-47a9-ae7b-ed3aaf221d9c/20241107T183040/7b460132-2f11-47a9-ae7b-ed3aaf221d9c_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/7b460132-2f11-47a9-ae7b-ed3aaf221d9c/20241107T183040/7b460132-2f11-47a9-ae7b-ed3aaf221d9c_360x203.jpg)](https://www.wqad.com/article/news/local/post-election-november-2024-results-managing-mental-health-self-care-anxiety-depression-nami-iowa-iowa-mental-health-advocacy/524-ef3126b3-c0eb-4679-a8e6-42869b507c44)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
         
-        #### [Here’s how to cope with post-election stress](https://www.wqad.com/article/news/local/post-election-november-2024-results-managing-mental-health-self-care-anxiety-depression-nami-iowa-iowa-mental-health-advocacy/524-ef3126b3-c0eb-4679-a8e6-42869b507c44)
+        #### [Enter to win tickets to see Disney on Ice presents Frozen and Encanto](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ea31d102-cca1-44f9-bf26-51fec1a898e2/20240731T195738/ea31d102-cca1-44f9-bf26-51fec1a898e2_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-mount-carroll-illinois-death-inquest/526-0fe412d9-503d-4aff-8efc-fd9862ce985f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c86712ea-c90e-4367-bfe7-6998df46ff9e/20241111T165812/c86712ea-c90e-4367-bfe7-6998df46ff9e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c86712ea-c90e-4367-bfe7-6998df46ff9e/20241111T165812/c86712ea-c90e-4367-bfe7-6998df46ff9e_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-veteran-banner-program-river/526-53c71d50-eac1-4b32-8d5d-a40c8c88d694)
         
-        #### [Inquest scheduled in the death of Jackson Kradle](https://www.wqad.com/article/news/local/jackson-kradle-mount-carroll-illinois-death-inquest/526-0fe412d9-503d-4aff-8efc-fd9862ce985f)
+        #### [City of Davenport unveils Veterans Tribute Banner Program](https://www.wqad.com/article/news/local/davenport-veteran-banner-program-river/526-53c71d50-eac1-4b32-8d5d-a40c8c88d694)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -60,9 +60,9 @@ Navigation
         
         #### [A breezy and sunny Veterans Day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6a56379-55fc-4748-bcc2-7beee0562bb2/20241107T190336/d6a56379-55fc-4748-bcc2-7beee0562bb2_360x203.jpg)](https://www.wqad.com/article/news/regional/volunteer-poll-workers-drown-flood-washed-highway-rural-missouri-election-day/63-f88470b8-e843-4811-ae70-fa590c23c1f1)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/ec3ab13d-c527-40e3-9859-0aa8c2f101f6/20241111T123458/ec3ab13d-c527-40e3-9859-0aa8c2f101f6_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ec3ab13d-c527-40e3-9859-0aa8c2f101f6/20241111T123458/ec3ab13d-c527-40e3-9859-0aa8c2f101f6_360x203.jpg)](https://www.wqad.com/article/news/nation-world/wildfires-both-us-coasts/507-9a22b994-4f70-4767-803e-1f51cb0d7ae8)
         
-        #### [Couple married for more than 50 years die in flooding on way to work as election volunteers in rural Missouri](https://www.wqad.com/article/news/regional/volunteer-poll-workers-drown-flood-washed-highway-rural-missouri-election-day/63-f88470b8-e843-4811-ae70-fa590c23c1f1)
+        #### [Fire crews on both US coasts battle wildfires; 1 death in New York-New Jersey fire](https://www.wqad.com/article/news/nation-world/wildfires-both-us-coasts/507-9a22b994-4f70-4767-803e-1f51cb0d7ae8)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-50°
+48°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
