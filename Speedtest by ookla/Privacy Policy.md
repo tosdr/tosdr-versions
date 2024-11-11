@@ -295,10 +295,10 @@ This Privacy Policy (or “policy”) describes how Ookla uses the personal info
     
     For any additional questions, you can contact us by emailing privacy@ookla.com or at the following address:
     
-    Ziff Davis  
+    Ziff Davis, LLC  
     Attention: Legal Department  
-    114 Fifth Avenue, 15th Floor  
-    New York, NY 10011
+    360 Park Avenue South, 17th Floor  
+    New York, New York 10010
     
     We have registered our DPO with the Irish Data Protection Commission. If you have any questions or concerns about our privacy practices, we encourage you to contact our DPO at the following email address [dpo@ziffdavis.com](mailto:dpo@ziffdavis.com) or at the following address:
     
