@@ -303,27 +303,7 @@ You may contact us at the addresses set out below or by emailing [privacy@spicew
 
 Ziff Davis
 
-Attention: Legal Department
-
-114 Fifth Avenue, 15th Floor
-
-New York, NY 10011
-
-If you are an EU resident, you may contact our Data Protection Officer at [dpo@spiceworks.com](mailto:dpo@spiceworks.com "Opens a new window") or submit GDPR related inquiries to our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") .
-
-If you have any comments, questions or concerns about any of the information in this Privacy Policy, or any other issues relating to the processing of your personal information carried out by us, or on our behalf, please contact:
-
-Ziff Davis
-
-Attention: Legal Department
-
-114 Fifth Avenue, 15th Floor
-
-New York, NY 10011
-
-[privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window")
-
-Our Data Protection Officer may be contacted at [dpo@spiceworks.com](mailto:dpo@spiceworks.com "Opens a new window"). To exercise your privacy rights, please use our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") .
+Attention: Legal Department 360 Park Ave South, Floor 17 New York, NY 10010 If you are an EU resident, you may contact our Data Protection Officer at [dpo@spiceworks.com](mailto:dpo@spiceworks.com "Opens a new window") or submit GDPR related inquiries to our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") . If you have any comments, questions or concerns about any of the information in this Privacy Policy, or any other issues relating to the processing of your personal information carried out by us, or on our behalf, please contact: Ziff Davis Attention: Legal Department 360 Park Ave South, Floor 17 New York, NY 10010 [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window") Our Data Protection Officer may be contacted at [dpo@spiceworks.com](mailto:dpo@spiceworks.com "Opens a new window"). To exercise your privacy rights, please use our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") .
 
 **15\. Children**
 
