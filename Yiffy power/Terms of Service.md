@@ -97,31 +97,31 @@ Latest commented posts
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 892 1
+0 899 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/toy-bonnie-five-nights-at-freddys-2-and-etc-created-by-joooji/)
+[](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-bela987-2/)
 
-[toy bonnie (five nights at freddy’s 2 and etc) created by joooji](https://yiff-party.com/yiff/toy-bonnie-five-nights-at-freddys-2-and-etc-created-by-joooji/)
+[judy hopps and nick wilde directed by bela987](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-bela987-2/)
 
-0 2 0
+0 1 0
 
 November 11, 2024
 
-[](https://yiff-party.com/yiff/mordecai-and-rigby-cartoon-network-and-etc-created-by-shredded-wheat/)
+[](https://yiff-party.com/yiff/sonic-the-hedgehog-directed-by-styx343/)
 
-[mordecai and rigby (cartoon network and etc) created by shredded wheat](https://yiff-party.com/yiff/mordecai-and-rigby-cartoon-network-and-etc-created-by-shredded-wheat/)
+[sonic the hedgehog directed by styx343](https://yiff-party.com/yiff/sonic-the-hedgehog-directed-by-styx343/)
 
-0 172 0
+0 159 0
 
 October 12, 2024
 
-[](https://yiff-party.com/yiff/aydan-created-by-toastedfox/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-huskeyking-4/)
 
-[aydan created by toastedfox](https://yiff-party.com/yiff/aydan-created-by-toastedfox/)
+[directed by huskeyking](https://yiff-party.com/yiff-ai-premium/directed-by-huskeyking-4/)
 
-0 101 0
+0 41 0
 
 October 12, 2024
 
