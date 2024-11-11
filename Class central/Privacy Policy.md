@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [9 Best Adobe Premiere Pro Courses for 2024](https://www.classcentral.com/report/best-adobe-premiere-courses/)
-2. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
-3. [6 Best Graphic Design Courses for Beginners for 2024](https://www.classcentral.com/report/best-graphic-design-courses/)
-4. [7 Best Dropshipping Courses for 2024](https://www.classcentral.com/report/best-dropshipping-courses/)
-5. [Harvard’s Intro to Python: Earn a Free Certificate](https://www.classcentral.com/report/harvard-cs50-python/)
+1. [Class Action: 50,000 Seek Payouts, Costing Coursera, Udemy Millions](https://www.classcentral.com/report/coursera-udemy-data-privacy-class-action/)
+2. [Black Friday 2024: Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
+3. [9 Best Adobe Premiere Pro Courses for 2024](https://www.classcentral.com/report/best-adobe-premiere-courses/)
+4. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
+5. [6 Best Graphic Design Courses for Beginners for 2024](https://www.classcentral.com/report/best-graphic-design-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. data science
+1. python
     
-2. javascript
+2. marketing
     
-3. graphic design
+3. computer science
     
 
 Popular subjects
@@ -426,26 +426,26 @@ Popular subjects
 
 1. [Computer Science
     
-    42,612 courses](https://www.classcentral.com/subject/cs)
+    42,658 courses](https://www.classcentral.com/subject/cs)
 2. [Web Development
     
-    13,514 courses](https://www.classcentral.com/subject/web-development)
-3. [Data Analysis
+    13,519 courses](https://www.classcentral.com/subject/web-development)
+3. [Communication Skills
     
-    8,634 courses](https://www.classcentral.com/subject/data-analysis)
+    4,101 courses](https://www.classcentral.com/subject/communication-skills)
 
 Popular courses
 ---------------
 
-1. [Monitoring Volcanoes and Magma Movements
+1. [Internet History, Technology, and Security
     
-    University of Iceland](https://www.classcentral.com/course/volcanoes-the-university-of-iceland-monitoring-vo-13227)
-2. [Introduction to Dynamical Systems and Chaos
+    University of Michigan](https://www.classcentral.com/course/insidetheinternet-335)
+2. [Fibonacci Numbers and the Golden Ratio
     
-    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-dynamical-systems-and-chaos-1182)
-3. [Multilingual Practices: Tackling Challenges and Creating Opportunities
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fibonacci-6684)
+3. [Análisis estadístico con Excel
     
-    University of Groningen](https://www.classcentral.com/course/multilingual-practices-8096)
+    Galileo University](https://www.classcentral.com/course/excel-universidad-galileo-analisis-estadistico-co-13320)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
