@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The name Harry Potter appears 29 times in Harry Potter and the Philosopher’s Stone, while the name Voldemort appears 38 times.
+Ginny Weasley’s middle name is Molly.
 
 ### Potter History
 
-June 5, 2004 – Harry Potter and the Prisoner of Azkaban film hauls in $40.8 million in its first day; sets record.
+February 25, 2007 – What Will Happen in Harry Potter 7? reaches the #4 spot on the New York Times Best Seller list.
 
 ### Potter Quote
 
-“Dear, dear. Miss Brown, would you mind running along to the head-mistress and informing her that we have an escaped firework in our classroom?”
+“Now you mention it, d’you know . . . I think I’m feeling a bit . . . rebellious.”
 
 [](#)
 
