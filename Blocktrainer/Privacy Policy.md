@@ -24,7 +24,7 @@
 [Anmelden](https://www.blocktrainer.de/login) [Registrieren](https://www.blocktrainer.de/registrierung)
 
 * [Kaufen & Verwahren](https://www.blocktrainer.de/kaufen-und-anbieter)
-    * [Bitcoin-Anbieter-Vergleich](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-anbieter-vergleich)
+    * [Vergleich – Bitcoin-Anbieter](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-anbieter-vergleich)
     * [Anleitung – Bitcoin kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/anleitung-bitcoin-kaufen)
     * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker)
     * [Hardware Wallets](https://www.blocktrainer.de/kaufen-und-anbieter/hardware-wallets)
@@ -32,7 +32,7 @@
     * [Bitcoin als Cashback](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-als-cashback/satsbackcom)
     * [Krypto & Steuern](https://www.blocktrainer.de/kaufen-und-anbieter/krypto-steuern)
     * [Heizen mit Bitcoin](https://www.blocktrainer.de/kaufen-und-anbieter/heizen-mit-bitcoin)
-    * [ATM - Bitcoin am Automat kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/atm-bitcoin-am-automat-kaufen)
+    * [ATM – Bitcoin am Automat kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/atm-bitcoin-am-automat-kaufen)
 * [Lernen & Wissen](https://www.blocktrainer.de/wissen)
     * [Artikel für Einsteiger](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger)
     * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
