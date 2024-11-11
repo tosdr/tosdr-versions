@@ -40,7 +40,7 @@ These technologies are necessary for the underlying operation of the site or app
 | Name of cookie | Expiry period | Purpose | Company |
 | --- | --- | --- | --- |
 | Name of cookie: \_\_cf\_bm (x 2) | Expiry period: Persistent - 30 minutes | Purpose: Authorisation | Company: Cloudflare, Inc. |
-| Name of cookie: \_\_cflb (x 3) | Expiry period: Persistent - 23 hours | Purpose: Your visit | Company: Cloudflare, Inc. |
+| Name of cookie: \_\_cflb (x 2) | Expiry period: Persistent - 23 hours | Purpose: Your visit | Company: Cloudflare, Inc. |
 | Name of cookie: \_\_cfruid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
 | Name of cookie: \_cfuvid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 30 days | Purpose: Your visit | Company: DoubleClick, Google LLC |
@@ -65,8 +65,6 @@ These technologies are used to measure aggregate website activity, allowing Visa
 | --- | --- | --- | --- |
 | Name of cookie: \_ga | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Google Analytics, Google LLC |
 | Name of cookie: \_ga\__\*_ (x 2) | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Google Analytics, Google LLC |
-| Name of cookie: \_gat\_tealium\_0 | Expiry period: Persistent - 1 minute | Purpose: Analytics | Company: Google Analytics, Google LLC |
-| Name of cookie: \_gid | Expiry period: Persistent - 1 day | Purpose: Analytics | Company: Google Analytics, Google LLC |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 90 days | Purpose: Your visit | Company: Google Analytics, Google LLC |
 
 Site experience
@@ -114,7 +112,6 @@ These technologies gather information about your browsing. We also work with adv
 | Name of cookie: CMID | Expiry period: Persistent - 1 year | Purpose: Advertising | Company: Casale Media Inc. |
 | Name of cookie: CMPRO | Expiry period: Persistent - 90 days | Purpose: Advertising | Company: Casale Media Inc. |
 | Name of cookie: CMPS | Expiry period: Persistent - 90 days | Purpose: Advertising | Company: Casale Media Inc. |
-| Name of cookie: fr | Expiry period: Persistent - 3 months | Purpose: Advertising | Company: Facebook, Meta Platforms, Inc. |
 | Name of cookie: IDE | Expiry period: Persistent - 2 years | Purpose: Advertising | Company: DoubleClick, Google LLC |
 | Name of cookie: li\_gc | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: LinkedIn Corporation |
 | Name of cookie: lidc | Expiry period: Persistent - 1 day | Purpose: Social networking | Company: LinkedIn Corporation |
