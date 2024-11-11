@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-You do not get to choose your Animagus. You simply become the animal that you resemble most.
+The first autographed copy of Harry Potter and the Half-Blood Prince was shipped across the Atlantic in a trunk and taken via armored truck to a secret location.
 
 ### Potter History
 
-April 28, 2005 – It is announced that the Harry Potter and the Half-Blood Prince audio edition is to be released on August 25, 2005 in the United Kingdom. The American edition is set to be released in the United States and Canada on July 16, 2005.
+January 9, 2006 – The IMAX version of Harry Potter and the Goblet of Fire is revealed to be the highest-grossing IMAX film ever.
 
 ### Potter Quote
 
-“If you’d ever had the pleasure to teach him, you’d know Newt is not a great follower of orders.”
+“Only this morning, for instance, I took a wrong turning on the way to the bathroom and found myself in a beautifully proportioned room I have never seen before, containing a really rather magnificent collection of chamber pots. When I went back to investigate more closely, I discovered that the room had vanished.”
 
 [](#)
 
