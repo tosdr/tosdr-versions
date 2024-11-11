@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Kawasaki norovirus, please step up for your pandemic debut](https://www.fark.com/goto/13458178) ( [metro.co.uk](https://www.fark.com/goto/13458178) ) » [(7 comments)](https://www.fark.com/comments/13458178/Kawasaki-norovirus-please-step-up-for-your-pandemic-debut) |
-| [Discussion](https://www.fark.com/discussion/) | [Today's jazz journey offers up classics, modern & soul, including Aretha Franklin & Mavis Staples, Al Green, Jill Barber, Leonard Cohen, Cannonball Adderley & many more. Jazz playlists start @ 12:30 pm ET; Fuse 'n Flow follows @ 1:00pm ET](https://www.fark.com/goto/13458266) ( [bigeradio.com](https://www.fark.com/goto/13458266) ) » [(11 comments)](https://www.fark.com/comments/13458266/Todays-jazz-journey-offers-up-classics-modern-soul-including-Aretha-Franklin-Mavis-Staples-Al-Green-Jill-Barber-Leonard-Cohen-Cannonball-Adderley-many-more-Jazz-playlists-start-1230-pm-ET-Fuse-n-Flow-follows-100pm-ET) |
-| [Sports](https://www.fark.com/sports/) | [Week 10 starts off early at 9:30 AM ET with the Giants and Panthers in Munich, Germany. Other big games include Steelers-Commanders, Broncos-Chiefs, and Eagles-Cowboys. Will this be an exciting Sunday?](https://www.fark.com/goto/13457862) ( [espn.com](https://www.fark.com/goto/13457862) ) » [(429 comments)](https://www.fark.com/comments/13457862/Week-10-starts-off-early-at-930-AM-ET-with-Giants-Panthers-in-Munich-Germany-Other-big-games-include-Steelers-Commanders-Broncos-Chiefs-Eagles-Cowboys-Will-this-be-an-exciting-Sunday) |
-| [Business](https://www.fark.com/business/) | [Thirty-five million buck Chuck](https://www.fark.com/goto/13458176) ( [pressdemocrat.com](https://www.fark.com/goto/13458176) ) » [(1 comment)](https://www.fark.com/comments/13458176/Thirty-five-million-buck-Chuck) |
-| [STEM](https://www.fark.com/stem/) | [Skynet would like to remind you that quantum computing is going the way of the Dodo bird](https://www.fark.com/goto/13457670) ( [technologyreview.com](https://www.fark.com/goto/13457670) ) » [(34 comments)](https://www.fark.com/comments/13457670/Skynet-would-like-to-remind-you-that-quantum-computing-is-going-way-of-Dodo-bird) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Venom: The Last Dance hangs onto #1 with $14 million as Heretic is a spirited #2 with $11 million. Best Christmas Pageant Ever jingles few bells at #3 with $10 million, The Wild Robot making the circuit at #4 with $6 million, Smile 2 smirking at #5](https://www.fark.com/goto/13458164) ( [deadline.com](https://www.fark.com/goto/13458164) ) » [(5 comments)](https://www.fark.com/comments/13458164/Venom-The-Last-Dance-hangs-onto-1-with-$14-million-as-Heretic-is-a-spirited-2-with-$11-million-Best-Christmas-Pageant-Ever-jingles-few-bells-at-3-with-$10-million-The-Wild-Robot-making-circuit-at-4-with-$6-million-Smile-2-smirking-at-5) |
-| [Fandom](https://www.fark.com/fandom/) | [IGN sinks Mario & Luigi: Brothership](https://www.fark.com/goto/13458098) ( [ign.com](https://www.fark.com/goto/13458098) ) » [(14 comments)](https://www.fark.com/comments/13458098/IGN-sinks-Mario-Luigi-Brothership) |
-| [D'awww](https://www.fark.com/dawww/) | [When dogs drift](https://www.fark.com/goto/13458198) ( [youtube.com](https://www.fark.com/goto/13458198) ) » [(0 comments)](https://www.fark.com/comments/13458198/When-dogs-drift) |
-| [Food](https://www.fark.com/food/) | [Food companies sell products that are less healthy in poorer countries. The Obvious tag is starving right now](https://www.fark.com/goto/13458106) ( [thehindu.com](https://www.fark.com/goto/13458106) ) » [(11 comments)](https://www.fark.com/comments/13458106/Food-companies-sell-products-that-are-less-healthy-in-poorer-countries-The-Obvious-tag-is-starving-right-now) |
-| [Politics](https://www.fark.com/politics/) | [Taliban more concerned about climate change than Y'All Qaeda](https://www.fark.com/goto/13458184) ( [dw.com](https://www.fark.com/goto/13458184) ) » [(9 comments)](https://www.fark.com/comments/13458184/Taliban-more-concerned-about-climate-change-than-YAll-Qaeda) |
+| [Main](https://www.fark.com/) | [Because they've already died and gone to porn heaven](https://www.fark.com/goto/13458492) ( [msn.com](https://www.fark.com/goto/13458492) ) » [(7 comments)](https://www.fark.com/comments/13458492/Because-theyve-already-died-gone-to-porn-heaven) |
+| [Discussion](https://www.fark.com/discussion/) | [Thanks to the politicking done to get a Hendrick Chevy into the final four, this thread is \[not\] going to the Politics tab. The worst NASCAR Cup Series season ever ends at Phoenix, starting at 3 PM ET on NBC](https://www.fark.com/goto/13457920) ( [nbcsports.com](https://www.fark.com/goto/13457920) ) » [(214 comments)](https://www.fark.com/comments/13457920/Thanks-to-politicking-done-to-get-a-Hendrick-Chevy-into-final-four-this-thread-is-not-going-to-Politics-tab-The-worst-NASCAR-Cup-Series-season-ever-ends-at-Phoenix-starting-at-3-PM-ET-on-NBC) |
+| [Sports](https://www.fark.com/sports/) | [Lionel Messi has no more goals for this MLS season](https://www.fark.com/goto/13458262) ( [espn.com](https://www.fark.com/goto/13458262) ) » [(12 comments)](https://www.fark.com/comments/13458262/Lionel-Messi-has-no-more-goals-for-this-MLS-season) |
+| [Business](https://www.fark.com/business/) | [After you win the lottery, this is how you deal with friends and relatives asking for money](https://www.fark.com/goto/13458508) ( [cnbc.com](https://www.fark.com/goto/13458508) ) » [(3 comments)](https://www.fark.com/comments/13458508/After-you-win-lottery-this-is-how-you-deal-with-friends-relatives-asking-for-money) |
+| [STEM](https://www.fark.com/stem/) | [Just in time for the start of 2025: Interstellar gateway out of the galaxy discovered](https://www.fark.com/goto/13458406) ( [futurism.com](https://www.fark.com/goto/13458406) ) » [(10 comments)](https://www.fark.com/comments/13458406/Just-in-time-for-start-of-2025-Interstellar-gateway-out-of-galaxy-discovered) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Venom: The Last Dance hangs onto #1 with $14 million as Heretic is a spirited #2 with $11 million. Best Christmas Pageant Ever jingles few bells at #3 with $10 million, The Wild Robot making the circuit at #4 with $6 million, Smile 2 smirking at #5](https://www.fark.com/goto/13458164) ( [deadline.com](https://www.fark.com/goto/13458164) ) » [(9 comments)](https://www.fark.com/comments/13458164/Venom-The-Last-Dance-hangs-onto-1-with-$14-million-as-Heretic-is-a-spirited-2-with-$11-million-Best-Christmas-Pageant-Ever-jingles-few-bells-at-3-with-$10-million-The-Wild-Robot-making-circuit-at-4-with-$6-million-Smile-2-smirking-at-5) |
+| [Fandom](https://www.fark.com/fandom/) | [IGN sinks Mario & Luigi: Brothership](https://www.fark.com/goto/13458098) ( [ign.com](https://www.fark.com/goto/13458098) ) » [(21 comments)](https://www.fark.com/comments/13458098/IGN-sinks-Mario-Luigi-Brothership) |
+| [D'awww](https://www.fark.com/dawww/) | [When dogs drift](https://www.fark.com/goto/13458198) ( [youtube.com](https://www.fark.com/goto/13458198) ) » [(4 comments)](https://www.fark.com/comments/13458198/When-dogs-drift) |
+| [Food](https://www.fark.com/food/) | [Seaweed fans prove you can eat anything if you boil it long enough](https://www.fark.com/goto/13458256) ( [theguardian.com](https://www.fark.com/goto/13458256) ) » [(13 comments)](https://www.fark.com/comments/13458256/Seaweed-fans-prove-you-can-eat-anything-if-you-boil-it-long-enough) |
+| [Politics](https://www.fark.com/politics/) | [Why wait for the inauguration to dispose of Constitutional order?](https://www.fark.com/goto/13458488) ( [bsky.app](https://www.fark.com/goto/13458488) ) » [(25 comments)](https://www.fark.com/comments/13458488/Why-wait-for-inauguration-to-dispose-of-Constitutional-order) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 10 2024 13:42:55  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 10 2024 19:43:51  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
