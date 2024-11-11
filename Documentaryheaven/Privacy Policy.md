@@ -118,16 +118,16 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
-    
-    Prisoners of Katrina
-    
-    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
+    
+    Prisoners of Katrina
+    
+    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ross Kemp: Extreme World – Mexico EP3](/wp-content/thumbnails/5394-100x70.jpg?x53432)
+* [![Fela Kuti](/wp-content/thumbnails/6380-100x70.jpg?x53432)
     
-    Ross Kemp: Extreme World – Mexico EP3
+    Fela Kuti
     
-    Ross travels to the war torn city of Juarez in Mexico where the drug cartels fight for ownership of smuggling routes into the US worth $40 billion.](https://documentaryheaven.com/ross-kemp-extreme-world-mexico/ "Ross Kemp: Extreme World – Mexico EP3")
-* [![Searching for Spitman](/wp-content/thumbnails/10034-100x70.png?x53432)
+    “Fela Kuti Music is the Weapon” is about the Afrobeat legend, musician, composer and performer, mixes footage of Fela Anikulapo Kuti performing at his Shrine nightclub, interviews with the controversi](https://documentaryheaven.com/fela-kuti/ "Fela Kuti")
+* [![Dark Fellowships: Nazi Cult, The Vril](/wp-content/thumbnails/3661-100x70.jpg?x53432)
     
-    Searching for Spitman
+    Dark Fellowships: Nazi Cult, The Vril
     
-    The tale behind a somewhat notorious character from around the West London area known only as "Spitman" is the thing urban legends are made of, a sort of local boogie man if you will. Spitman is](https://documentaryheaven.com/searching-for-spitman/ "Searching for Spitman")
-* [![Palestine Is Still The Issue](/wp-content/thumbnails/720-100x70.png?x53432)
+    Uncover the truth surrounding one of the most renowned and feared organisations in the world, the Vril Society. This compelling one-off explores conspiracy theories, retraces historical events, invest](https://documentaryheaven.com/dark-fellowships-nazi-cult-the-vril/ "Dark Fellowships: Nazi Cult, The Vril")
+* [![The Devil and the Death Penalty](/wp-content/thumbnails/11825-100x70.jpg?x53432)
     
-    Palestine Is Still The Issue
+    The Devil and the Death Penalty
     
-    In 1977, the award-winning journalist and film-maker, John Pilger, made a documentary called Palestine Is Still The Issue. He told how almost a million Palestinians had been forced off their land in 1](https://documentaryheaven.com/palestine-is-still-the-issue/ "Palestine Is Still The Issue")
-* [![The Pharmacratic Inquisition](/wp-content/thumbnails/2273-100x70.jpg?x53432)
+    This is the story of Lawrence Bittaker and his accomplice Roy Norris, two convicted serial murderers and rapists who in 1979 murdered and raped five teenage girls over a period of five months in south](https://documentaryheaven.com/devil-death-penalty/ "The Devil and the Death Penalty")
+* [![Inside the Holocaust](/wp-content/thumbnails/8599-100x70.jpg?x53432)
     
-    The Pharmacratic Inquisition
+    Inside the Holocaust
     
-    Thousands of years ago, in the pre monarchic era, sacred plants and other entheogenic substances where politically correct and highly respected for their ability to bring forth the divine, Yahweh, God](https://documentaryheaven.com/the-pharmacratic-inquisition/ "The Pharmacratic Inquisition")
-* [![Feltham Sings](/wp-content/thumbnails/5858-100x70.gif?x53432)
+    This is a gripping hour and a half special by the History Channel on the horrors of the Holocaust, starting off with the early days of persecution found in Nazi Germany right up until the final a](https://documentaryheaven.com/inside-holocaust/ "Inside the Holocaust")
+* [![The Marvellous World of Roald Dahl](/wp-content/thumbnails/12594-100x70.jpg?x53432)
     
-    Feltham Sings
+    The Marvellous World of Roald Dahl
     
-    This documentary is – without a shadow of a doubt – one of the most innovative and engrossing documentaries ever aired on British television. Set in Feltham Young Offenders Institution in the United K](https://documentaryheaven.com/feltham-sings/ "Feltham Sings")
+    Roald Dahl is probably best known for having written a vast collection of award winning children's novels / short stories, most notably The BFG, Matilda, Charlie and the Chocolate Facto](https://documentaryheaven.com/marvellous-world-of-roald-dahl/ "The Marvellous World of Roald Dahl")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
