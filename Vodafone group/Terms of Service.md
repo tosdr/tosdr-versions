@@ -363,7 +363,7 @@ Other UK number: 03333 048 069 (standard call charges apply).
 From abroad: +44 7836 191 191 (standard international call charges apply).  
 Vodafone Limited, Vodafone House, The Connection, Newbury, Berkshire RG14 2FN. June 2017.
 
-[linkedin](https://www.linkedin.com/company/vodafone/)[twitter](https://twitter.com/VodafoneGroup)[youtube](https://www.youtube.com/vodafonemedia)[instagram](https://www.instagram.com/vodafone/)[facebook](https://www.facebook.com/thevodafonegroup/)
+[linkedin](https://www.linkedin.com/company/vodafone/)[twitter](https://twitter.com/VodafoneGroup)[youtube](https://www.youtube.com/vodafonemedia)[instagram](https://www.instagram.com/vodafone/)[facebook](https://www.facebook.com/thevodafonegroup/)[tiktok](https://www.tiktok.com/@vodafone)
 
 ##### Investors
 
