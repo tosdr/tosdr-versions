@@ -1,5 +1,11 @@
 [Zu Inhalt springen](#site-main)
 
+[](https://www.twitch.tv/talkpointgmbh)
+
+Wir sind LIVE 🔴 ab 11 Uhr - einschalten lohnt sich! #preisvergleich
+
+Wir sind LIVE 🔴 ab 11 Uhr - einschalten lohnt sich! #preisvergleich
+
 Menü
 
 [![talk-point.de logo](//talk-point.de/cdn/shop/files/talk-point-logo_200x30.png?v=1729963456)](https://talk-point.de/)
