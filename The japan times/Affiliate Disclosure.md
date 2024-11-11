@@ -198,18 +198,18 @@ Podcast
 Longform
 --------
 
-  [![Akira Oishi (left) and Shinichi Okanobori have taken on the responsibility of surveying the flora and fauna of Mount Tenran and Mount Tonosu in Saitama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431194.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Akira Oishi (left) and Shinichi Okanobori have taken on the responsibility of surveying the flora and fauna of Mount Tenran and Mount Tonosu in Saitama Prefecture.")](https://www.japantimes.co.jp/environment/2024/11/02/wildlife/japan-ecosystem-biodiversity-loss/ "Inside Japan's 100-year project to monitor its deteriorating biodiversity")
+  [![Construction takes place on the Takanawa Gateway Convention Center in Tokyo, slated to open in 2025.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/432904.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Construction takes place on the Takanawa Gateway Convention Center in Tokyo, slated to open in 2025.")](https://www.japantimes.co.jp/business/2024/11/11/mice-tourism-japan-business/ "A boom for business tourism in Japan?")
 
-[Inside Japan's 100-year project to monitor its deteriorating biodiversity](https://www.japantimes.co.jp/environment/2024/11/02/wildlife/japan-ecosystem-biodiversity-loss/ "Inside Japan's 100-year project to monitor its deteriorating biodiversity")
+[A boom for business tourism in Japan?](https://www.japantimes.co.jp/business/2024/11/11/mice-tourism-japan-business/ "A boom for business tourism in Japan?")
 
-By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,17 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[China reaffirms boundaries of sea near flash point reef](https://www.japantimes.co.jp/news/2024/11/10/asia-pacific/china-sea-reaffirms-boundaries/ "China reaffirms boundaries of sea near flash point reef")
+[Philippines seeks to protect U.S. economic ties under Trump](https://www.japantimes.co.jp/news/2024/11/11/asia-pacific/politics/philippines-us-economic-trump/ "Philippines seeks to protect U.S. economic ties under Trump")
 
-9 hours ago
+39 mins ago
 
-[Nippon Ishin chief refuses to cooperate with Ishiba government](https://www.japantimes.co.jp/news/2024/11/10/japan/politics/nippon-ishin-refuses-cooperate/ "Nippon Ishin chief refuses to cooperate with Ishiba government")
+[How a Trump presidency could lead to a purge at the Pentagon](https://www.japantimes.co.jp/news/2024/11/11/world/politics/trump-presidency-purge-pentagon/ "How a Trump presidency could lead to a purge at the Pentagon")
 
-[Fire breaks out on Japan MSDF ship; cause under investigation](https://www.japantimes.co.jp/news/2024/11/10/japan/fire-breaks-out-from-msdf-ship/ "Fire breaks out on Japan MSDF ship; cause under investigation")
+1 hours ago
 
-[Silicon Valley’s Trump supporters envision ascendant startups and Vance 2028](https://www.japantimes.co.jp/news/2024/11/10/world/politics/silicon-valley-trump-vance/ "Silicon Valley’s Trump supporters envision ascendant startups and Vance 2028")
+[Amid rising costs, universities try to help students study abroad](https://www.japantimes.co.jp/news/2024/11/11/japan/society/japan-university-study-abroad-weak-yen/ "Amid rising costs, universities try to help students study abroad")
 
-[Taiwan sees a higher price for U.S. support as Trump returns to power](https://www.japantimes.co.jp/news/2024/11/10/asia-pacific/politics/taiwan-us-support-trump/ "Taiwan sees a higher price for U.S. support as Trump returns to power")
+1 hours ago
+
+[BOJ divided on rate hike timing, October summary shows](https://www.japantimes.co.jp/business/2024/11/11/economy/boj-interest-rate-opinions/ "BOJ divided on rate hike timing, October summary shows")
+
+1 hours ago
+
+[Emperor Naruhito and Empress Masako attend annual marine convention](https://www.japantimes.co.jp/news/2024/11/11/japan/japan-imperial-couple-marine-convention/ "Emperor Naruhito and Empress Masako attend annual marine convention")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
