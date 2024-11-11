@@ -626,7 +626,7 @@ Telefonisch eingeschränkt erreichbar
 
 Liebe\*r GLS Kund\*in,
 
-auch wir müssen uns manchmal intern abstimmen, damit die Zusammenarbeit gut klappt und alles gerecht zugeht. Darum ist unser Telefonservice Montag früh, 11.11.2024 bis 11 Uhr eingeschränkt erreichbar.
+auch wir müssen uns manchmal intern abstimmen, damit die Zusammenarbeit gut klappt und alles gerecht zugeht. Darum ist unser Telefonservice heute morgen bis 11 Uhr eingeschränkt erreichbar.
 
 Ausnahmen sind Fragen zum GLS Onlinebanking. Dafür sind wir selbstverständlich wie gewohnt für Dich da. Für alles andere, sprich uns bitte ab 11 Uhr an!
 
