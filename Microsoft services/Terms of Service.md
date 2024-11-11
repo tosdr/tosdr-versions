@@ -625,12 +625,12 @@ Els productes, les aplicacions i els serveis següents estan coberts pel Contrac
 * Microsoft Research Open Data
 * Microsoft Rewards
 * Microsoft Soundscape
-* Microsoft Start
 * Microsoft Sway
 * Microsoft Teams
 * Microsoft Translator
 * Minecraft Realms Plus and Minecraft Realms
 * Mixer
+* MSN (abans conegut com a Microsoft Start)
 * MSN Accés telefònic
 * MSN Diners
 * MSN El Temps
