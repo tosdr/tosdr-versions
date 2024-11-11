@@ -20,16 +20,16 @@ Monday, November 11 2024
 
 Latest
 
+* [Sundar Pichai says more than 25% of Google’s code is now AI-generated – and it’s a big hint at the future of software development](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
+* [Forget AirPods Max! These luxurious Bowers & Wilkins noise canceling headphones just hit $249 for Black Friday — lowest price ever](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
+* [Hackers now use ZIP file concatenation to evade detection](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+* [Mattel accidentally linked a porn site on Wicked doll packaging](https://digitpatrox.com/mattel-accidentally-linked-a-porn-site-on-wicked-doll-packaging/)
+* [Jio 5G Has a New Trick up Its Sleeve to Help Save Your Phone’s Battery Life](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
+* [Review: The Tenways CGO600 Pro E-Bike Is So Practical, It’s Almost Sexy](https://digitpatrox.com/review-the-tenways-cgo600-pro-e-bike-is-so-practical-its-almost-sexy/)
+* [Best Garlic Presses and Rockers](https://digitpatrox.com/best-garlic-presses-and-rockers/)
+* [Windows Me Was More Revolutionary Than We Think](https://digitpatrox.com/windows-me-was-more-revolutionary-than-we-think/)
+* [How to change the layout of the Mail app on your iPhone in iOS 18.2](https://digitpatrox.com/how-to-change-the-layout-of-the-mail-app-on-your-iphone-in-ios-18-2/)
 * [Microsoft investigates OneDrive issue causing macOS app freezes](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
-* [Apple now sells iPhone 16 and 16 Pro repair parts](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
-* [How to Set ChatGPT Search as Your Default Search Engine](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
-* [I Compared ChatGPT Search and Google, and Google Should Be Worried](https://digitpatrox.com/i-compared-chatgpt-search-and-google-and-google-should-be-worried/)
-* [How to Rid Your Car of Odors and Smells](https://digitpatrox.com/how-to-rid-your-car-of-odors-and-smells/)
-* [Try Out the Two New Exciting AI Features in Chrome](https://digitpatrox.com/try-out-the-two-new-exciting-ai-features-in-chrome/)
-* [NYT Connections today hints and answers — Monday, November 11 (#519)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-november-11-519/)
-* [Windows 11 is adding a ‘Share’ button to the Start menu and Taskbar](https://digitpatrox.com/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
-* [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://digitpatrox.com/the-next-nintendo-direct-is-all-about-super-nintendo-worlds-donkey-kong-country/)
-* [The Penguin Episode 8 Release Date and Time (Countdown Timer)](https://digitpatrox.com/the-penguin-episode-8-release-date-and-time-countdown-timer/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2022/10/28/0_OneDrive.jpg)](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
+* [![](https://cdn.mos.cms.futurecdn.net/E7gcnrYbk5bqt5XGYcNJZe-1200-80.jpg)](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
     
-    [Microsoft investigates OneDrive issue causing macOS app freezes](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
+    [Sundar Pichai says more than 25% of Google’s code is now AI-generated – and it’s a big hint at the future of software development](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
     
-    37 mins ago
+    20 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/t2JsCpYr1Uc3UY3V1iRUKv6TSwU=/0x0:2000x1334/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626805/DSC08374_alt_3.jpg)](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
+* [![](https://cdn.mos.cms.futurecdn.net/viGCmPZ6C8XeRVTqyb4YC3-1200-80.jpg)](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
     
-    [Apple now sells iPhone 16 and 16 Pro repair parts](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
+    [Forget AirPods Max! These luxurious Bowers & Wilkins noise canceling headphones just hit $249 for Black Friday — lowest price ever](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
     
-    55 mins ago
+    29 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/chatgpt-search-experience-1.jpg)](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg)](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
     
-    [How to Set ChatGPT Search as Your Default Search Engine](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
+    [Hackers now use ZIP file concatenation to evade detection](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JC5PXM2HCP6KQ32P8KYTW0A4/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/i-compared-chatgpt-search-and-google-and-google-should-be-worried/)
+* [![](https://cdn.vox-cdn.com/thumbor/T95NmHMi4_gbhpTT5P7_uvNJN48=/0x0:1938x1241/1200x628/filters:focal(969x621:970x622)/cdn.vox-cdn.com/uploads/chorus_asset/file/25725726/Wicked_Elphaba_Galinda.jpg)](https://digitpatrox.com/mattel-accidentally-linked-a-porn-site-on-wicked-doll-packaging/)
     
-    [I Compared ChatGPT Search and Google, and Google Should Be Worried](https://digitpatrox.com/i-compared-chatgpt-search-and-google-and-google-should-be-worried/)
+    [Mattel accidentally linked a porn site on Wicked doll packaging](https://digitpatrox.com/mattel-accidentally-linked-a-porn-site-on-wicked-doll-packaging/)
     
-    4 hours ago
+    2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1664999804/prod/content/dam/CRO-Images-2022/Cars/10October/CR-Cars-Inlinehero-how-to-get-rid-of-smells-in-car-1022)](https://digitpatrox.com/how-to-rid-your-car-of-odors-and-smells/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Jio-True-5G.jpg)](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
     
-    [How to Rid Your Car of Odors and Smells](https://digitpatrox.com/how-to-rid-your-car-of-odors-and-smells/)
+    [Jio 5G Has a New Trick up Its Sleeve to Help Save Your Phone’s Battery Life](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
     
-    4 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [37 mins ago
+* [20 mins ago
     
-    ### Microsoft investigates OneDrive issue causing macOS app freezes](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
-* [55 mins ago
+    ### Sundar Pichai says more than 25% of Google’s code is now AI-generated – and it’s a big hint at the future of software development](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
+* [29 mins ago
     
-    ### Apple now sells iPhone 16 and 16 Pro repair parts](https://digitpatrox.com/apple-now-sells-iphone-16-and-16-pro-repair-parts/)
-* [1 hour ago
+    ### Forget AirPods Max! These luxurious Bowers & Wilkins noise canceling headphones just hit $249 for Black Friday — lowest price ever](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
+* [2 hours ago
     
-    ### How to Set ChatGPT Search as Your Default Search Engine](https://digitpatrox.com/how-to-set-chatgpt-search-as-your-default-search-engine/)
+    ### Hackers now use ZIP file concatenation to evade detection](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 
 Most Popular Topics
 
-* [August 25, 2024
+* [August 15, 2024
     
-    ### Worldwide UC&C revenues to hit $69.1B mark this year, IDC projects – Computerworld](https://digitpatrox.com/worldwide-ucc-revenues-to-hit-69-1b-mark-this-year-idc-projects-computerworld/)
-* [2 weeks ago
+    ### How to Install NVIDIA GPU Driver on Fedora 40+ KDE 6 Spin on Wayland](https://digitpatrox.com/how-to-install-nvidia-gpu-driver-on-fedora-40-kde-6-spin-on-wayland/)
+* [3 days ago
     
-    ### The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
-* [October 11, 2024
+    ### Google’s mysterious ‘search.app’ links leave Android users concerned](https://digitpatrox.com/googles-mysterious-search-app-links-leave-android-users-concerned/)
+* [3 weeks ago
     
-    ### AI agents are here to stay – and Boomi thinks it can be a market leader](https://digitpatrox.com/ai-agents-are-here-to-stay-and-boomi-thinks-it-can-be-a-market-leader/)
+    ### All Your Couch-to-5K Questions, Answered](https://digitpatrox.com/all-your-couch-to-5k-questions-answered/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [5 hours ago
     
-    ### NYT Connections today hints and answers — Monday, November 11 (#519)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-november-11-519/)
-* [6 hours ago
+    ### Best Garlic Presses and Rockers](https://digitpatrox.com/best-garlic-presses-and-rockers/)
+* [5 hours ago
     
-    ### Windows 11 is adding a ‘Share’ button to the Start menu and Taskbar](https://digitpatrox.com/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
-* [6 hours ago
+    ### Windows Me Was More Revolutionary Than We Think](https://digitpatrox.com/windows-me-was-more-revolutionary-than-we-think/)
+* [5 hours ago
     
-    ### The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://digitpatrox.com/the-next-nintendo-direct-is-all-about-super-nintendo-worlds-donkey-kong-country/)
+    ### How to change the layout of the Mail app on your iPhone in iOS 18.2](https://digitpatrox.com/how-to-change-the-layout-of-the-mail-app-on-your-iphone-in-ios-18-2/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
