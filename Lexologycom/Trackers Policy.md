@@ -19,7 +19,7 @@ Toggle navigation
 * [About](https://www.lexology.com/about)
 * More
     
-    [Blog](https://www.lexology.com/blog) [Popular](https://www.lexology.com/library/popular)
+    [Blog](https://www.lexology.com/blog) [Popular](https://www.lexology.com/library/popular) [Lexology Academic](https://academic.lexology.com/?utm_source=Lexology&utm_content=headermore)
     
 * [Login](https://www.lexology.com/account/login?returnurl=%2Fcookies)
 * [Register](https://www.lexology.com/account/register.aspx?returnurl=%2Fcookies)
@@ -150,6 +150,7 @@ More
 * [Events](https://www.lexology.com/events)
 * [Popular](https://www.lexology.com/library/popular)
 * [Code of ethics](https://www.lexology.com/code-of-ethics)
+* [Lexology Academic](https://academic.lexology.com/?utm_source=Lexology&utm_content=footer)
 
 Legal
 
