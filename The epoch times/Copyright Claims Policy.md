@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Schumer Says No Senate Orientation for McCormick Until Race Decided](https://www.theepochtimes.com/us/schumer-says-no-senate-orientation-for-mccormick-until-race-decided-5757697)
+    
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Schumer Says No Senate Orientation for McCormick Until Race Decided](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Schumer Says No Senate Orientation for McCormick Until Race Decided](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727203-Schumer-GettyImages-2173166734-205x123.jpg.webp)](https://www.theepochtimes.com/us/schumer-says-no-senate-orientation-for-mccormick-until-race-decided-5757697)
+* [Trump to Nominate Rep. Elise Stefanik as UN Ambassador](https://www.theepochtimes.com/us/trump-to-nominate-stefanik-as-un-ambassador-5757707)
+    
+    1hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Trump to Nominate Rep. Elise Stefanik as UN Ambassador](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump to Nominate Rep. Elise Stefanik as UN Ambassador](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5594041-GettyImages-2026347026-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-nominate-stefanik-as-un-ambassador-5757707)
+* [Trump Names Former ICE Director Thomas Homan as Border Czar](https://www.theepochtimes.com/us/trump-appoints-former-ice-director-thomas-homan-as-border-czar-5757669)
+    
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Trump Names Former ICE Director Thomas Homan as Border Czar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Names Former ICE Director Thomas Homan as Border Czar](https://img.theepochtimes.com/assets/uploads/2018/06/05/20180605-Homan-CharlotteCuthbertson-6046-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-appoints-former-ice-director-thomas-homan-as-border-czar-5757669)
+* [Veterans Reflect on the Boy Inside Them That Died on the Battlefield](https://www.theepochtimes.com/us/veterans-reflect-on-the-boy-inside-them-that-died-on-the-battlefield-5757282)
+    
+    6hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    
+    [![Veterans Reflect on the Boy Inside Them That Died on the Battlefield](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Veterans Reflect on the Boy Inside Them That Died on the Battlefield](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757683-20241103_1622500-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/veterans-reflect-on-the-boy-inside-them-that-died-on-the-battlefield-5757282)
+* [Veteran Service Providers Ask Americans to Go Beyond Saying ‘Thank You for Your Service’](https://www.theepochtimes.com/us/veteran-service-providers-ask-americans-to-go-beyond-saying-thank-you-for-your-service-5752292)
+    
+    6hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    
+    [![Veteran Service Providers Ask Americans to Go Beyond Saying ‘Thank You for Your Service’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Veteran Service Providers Ask Americans to Go Beyond Saying ‘Thank You for Your Service’](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726033-GettyImages-1342295765KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/veteran-service-providers-ask-americans-to-go-beyond-saying-thank-you-for-your-service-5752292)
+* [What’s Behind the India–China Border Disengagement Deal](https://www.theepochtimes.com/world/complex-diplomacy-led-to-india-china-border-disengagement-us-elections-and-indo-pacific-geopolitics-contributed-experts-5751994)
+    
+    6hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    
+    [![What’s Behind the India–China Border Disengagement Deal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What’s Behind the India–China Border Disengagement Deal](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755982-GettyImages-82119247-205x123.jpg.webp)](https://www.theepochtimes.com/world/complex-diplomacy-led-to-india-china-border-disengagement-us-elections-and-indo-pacific-geopolitics-contributed-experts-5751994)
+* [What to Expect From Trump’s First Day in Office](https://www.theepochtimes.com/article/what-to-expect-from-trumps-first-day-in-office-5756994)
+    
+    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![What to Expect From Trump’s First Day in Office](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What to Expect From Trump’s First Day in Office](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757473-GettyImages-1233737869-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-to-expect-from-trumps-first-day-in-office-5756994)
 * [Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://www.theepochtimes.com/article/veteran-says-beloved-wifes-cancer-like-fighting-a-war-at-home-5755397)
     
-    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    7hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
     [![Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756691-20241107_112218-205x123.jpg.webp)](https://www.theepochtimes.com/article/veteran-says-beloved-wifes-cancer-like-fighting-a-war-at-home-5755397)
+    ![Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757686-20241107_112218-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/article/veteran-says-beloved-wifes-cancer-like-fighting-a-war-at-home-5755397)
 * [Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
     
-    6hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    12hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
     
     [![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725945-GettyImages-2170673473-205x123.jpg.webp)](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
+    ![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757685-GettyImages-2170673473-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
 * [S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
     
-    8hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    14hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
     
     [![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757390-GettyImages-2183500888-205x123.jpg.webp)](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
-* [Film Spotlighting China’s Forced Organ Harvesting Shocks New Yorkers](https://www.theepochtimes.com/china/film-spotlighting-chinas-forced-organ-harvesting-moves-viewers-in-new-york-5757346)
-    
-    9hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu) and [Frank Fang](https://www.theepochtimes.com/author/frank-fang)
-    
-    [![Film Spotlighting China’s Forced Organ Harvesting Shocks New Yorkers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Film Spotlighting China’s Forced Organ Harvesting Shocks New Yorkers](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757369-EpochImages-7782806354-205x123.jpg.webp)](https://www.theepochtimes.com/china/film-spotlighting-chinas-forced-organ-harvesting-moves-viewers-in-new-york-5757346)
-* [How a Second Trump Term Could Impact US Production, Prices, and Investments](https://www.theepochtimes.com/article/how-a-second-trump-term-could-impact-us-production-prices-and-investments-5756916)
-    
-    10hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
-    
-    [![How a Second Trump Term Could Impact US Production, Prices, and Investments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How a Second Trump Term Could Impact US Production, Prices, and Investments](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757418-Trump-second-term-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-a-second-trump-term-could-impact-us-production-prices-and-investments-5756916)
-* [Trump Sets Condition for Next Senate Republican Leader](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
-    
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757547-McConnell-Trump-GettyImages-1257244765KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
-* [Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
-    
-    15hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757490-GettyImages-2183211687-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
-* [3 Teams That Shook Up the College Football Playoff Field](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
-    
-    16hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
-    
-    [![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757476-GettyImages-2183204068-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
-* [Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
-    
-    17hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
-    
-    [![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757388-GettyImages-2181953428KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
-* [‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
-    
-    18hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
-    
-    [![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757167-lead22-205x123.jpg.webp)](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
+    ![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757687-GettyImages-2183500888-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
