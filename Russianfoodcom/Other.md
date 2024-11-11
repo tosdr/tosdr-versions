@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -169,6 +169,48 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[От завтрака до десерта. Лучшие рецепты БЫСТРЕЕ! №24-46](https://www.russianfood.com/reading/?post_id=22857) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/682/sm_681012.jpg)](https://www.russianfood.com/reading/?post_id=22857)
+
+Ленивые вареники на ряженке. Курица в луковом соусе. Крем-суп из брокколи с сыром. Кукурузная каша с тушёнкой. Печенье на желтках с лимонной цедрой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22857)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22857#comments) | 11.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759) |     |
+
+[![Фото к рецепту: Чуррос с йогуртово-чесночным соусом](//img1.russianfood.com/dycontent/images_upl/750/sm_749625.jpg "Фото к рецепту: Чуррос с йогуртово-чесночным соусом")](https://www.russianfood.com/recipes/recipe.php?rid=174759)
+
+Чуррос - обжаренные во фритюре палочки из заварного теста. Благодаря ароматному соусу из йогурта с чесноком и зеленью испанские чуррос станут отличной закуской на праздничном столе. Особенно в виде симпатичных змеек на Новый год 2025.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174759)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174759#comments) | 11.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758) |     |
+
+[![Фото к рецепту: Чуррос с сырным соусом](//img1.russianfood.com/dycontent/images_upl/750/sm_749584.jpg "Фото к рецепту: Чуррос с сырным соусом")](https://www.russianfood.com/recipes/recipe.php?rid=174758)
+
+Чуррос - золотистые палочки из заварного теста, обжаренные во фритюре. Традиционно это испанское блюдо готовят в виде обычных или согнутых в виде петли палочек. Но на Новый год 2025 можно сделать их в виде змеек - к наступающему году Змеи. Благодаря тягучему сырному соусу чуррос станут отличной закуской на праздничном столе.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174758)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [svanna](https://www.russianfood.com/blogs/?id=321745) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174758#comments) | 11.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Для холодных и горячих закусок. СВЁКЛА по-необычному (19)](https://www.russianfood.com/reading/?post_id=22856) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/746/sm_745244.jpg)](https://www.russianfood.com/reading/?post_id=22856)
@@ -179,7 +221,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22856#comments) | 10.11.24 |     |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22856#comments) | 10.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -263,7 +305,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174685#comments) | 09.11.24 |     |
+|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174685#comments) | 09.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -277,7 +319,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174785#comments) | 09.11.24 |     |
+|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174785#comments) | 09.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -334,48 +376,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22848#comments) | 08.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Простые идеи на каждый день. Лучшие рецепты из ФАРША (29)](https://www.russianfood.com/reading/?post_id=22847) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/724/sm_723181.jpg)](https://www.russianfood.com/reading/?post_id=22847)
-
-Котлеты из фарша с овощами. Тефтели в томатно-цитрусовом соусе. Суп с фаршем, шпинатом и овощами. Гречка с рисом и фаршем. Фрикадельки с сыром и лимоном.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22847)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22847#comments) | 08.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Конвертики из лаваша с творогом и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174410) |     |
-
-[![Фото к рецепту: Конвертики из лаваша с творогом и изюмом](//img1.russianfood.com/dycontent/images_upl/748/sm_747014.jpg "Фото к рецепту: Конвертики из лаваша с творогом и изюмом")](https://www.russianfood.com/recipes/recipe.php?rid=174410)
-
-Простой и быстрый рецепт для любителей сладких пирожков с творожной начинкой. Удобно, что не придётся возиться с тестом - его заменяет лаваш. Лаваш нарезают, сворачивают в конвертики с творогом и изюмом, а затем обжаривают на сковороде.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174410)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174410#comments) | 08.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Салат с печенью, виноградом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174407) |     |
-
-[![Фото к рецепту: Салат с печенью, виноградом и апельсином](//img1.russianfood.com/dycontent/images_upl/741/sm_740055.jpg "Фото к рецепту: Салат с печенью, виноградом и апельсином")](https://www.russianfood.com/recipes/recipe.php?rid=174407)
-
-Делюсь вкусным рецептом салата с печенью, виноградом и апельсином, который я готовлю не только к празднику, но и на каждый день. Мне очень нравится сочетание сладкого и соленого. В рецепте используются сладкие сочные апельсины, виноград и нежные кусочки куриной печени с большим количеством салатной зелени. Это очень вкусно и полезно!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174407)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174407#comments) | 08.11.24 |     |
 
 |     |
 | --- |
@@ -446,10 +446,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750077.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746376.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735988.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173407) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750029.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750495.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741791.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174476) |
-| [Блинные мешочки от змеиного Деда Мороза](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613) | [Салат из морской капусты с яблоком и морковью](https://www.russianfood.com/recipes/recipe.php?rid=173407) | [Судак по-новогоднему, в год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174770) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Гриссини-змейки](https://www.russianfood.com/recipes/recipe.php?rid=174785) | [Курица, фаршированная гречкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174476) |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750077.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749584.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
+| [Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [Блинные мешочки от змеиного Деда Мороза](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -466,4 +466,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(88)
+(131)
