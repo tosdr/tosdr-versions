@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,6 +146,10 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
+Сейчас читают
+
+* [Шпинатный бисквитный рулет с красной рыбой и сливочно-сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174686)
+
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -166,6 +170,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Нарезать, соединить и насладиться. Лучшие САЛАТЫ №24-46](https://www.russianfood.com/reading/?post_id=22858) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/737/sm_736592.jpg)](https://www.russianfood.com/reading/?post_id=22858)
+
+Салат с крабовыми палочками и кальмарами. Салат из сельди с картофелем и зелёным горошком. Салат с курицей, корейской морковью и черносливом. Салат со свёклой, брокколи и перцем. Винегрет с черносливом. Салат из тыквы с руколой и гранатом. Салат с тунцом, капустой и авокадо.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22858)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22858#comments) | 11.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -363,20 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174581#comments) | 08.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Уютные вечера для семейных торжеств. Лучшие рецепты НА ВЫХОДНЫЕ №24-45](https://www.russianfood.com/reading/?post_id=22848) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/719/sm_718106.jpg)](https://www.russianfood.com/reading/?post_id=22848)
-
-Карась, запечённый с луком и сметаной. Булгур с курицей и овощами. Селёдка под шубой в багете. Пикантные куриные шейки. Мясной пирог с капустой. Рагу из говядины с копчёными колбасками. Рыба в кокосовом кляре.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22848)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22848#comments) | 08.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -448,8 +452,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750077.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749584.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
-| [Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [Блинные мешочки от змеиного Деда Мороза](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
+| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750077.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749584.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
+| [Блинные мешочки от змеиного Деда Мороза](https://www.russianfood.com/recipes/recipe.php?rid=174771) | [Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759) | [Закуска "Змейки" из слоёного теста с беконом и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174538) | [Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -466,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(131)
+(135)
