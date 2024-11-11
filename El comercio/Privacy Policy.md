@@ -31,6 +31,484 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Nuevos horarios de cortes de luz en Quito para este lunes 11 y martes 12 de noviembre
+=====================================================================================
+
+La EEQ detalló el nuevo cronograma de cortes de luz que tendrá la ciudad este lunes 11 y martes 12 de noviembre.
+----------------------------------------------------------------------------------------------------------------
+
+![Quito tendrá cortes de luz de 12 horas este lunes y martes](https://www.elcomercio.com/wp-content/uploads/2024/11/nuevos-cortes-luz-quito.jpg)
+
+La Empresa Eléctrica Quito (**EEQ**) detalló el nuevo cronograma de **cortes de luz** que tendrá la ciudad este lunes 11 y martes 12 de noviembre.
+
+### Más noticias
+
+* [Ciudadanos reclaman cumplimiento de horarios de cortes de luz](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-mazar-horarios-cronograma.html "Ciudadanos reclaman cumplimiento de horarios de cortes de luz")
+* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
+* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
+
+La entidad ajustó el cronograma a última hora, tras un anuncio del **Ministerio de Energía** donde indicó que las hidroeléctricas del país mantienen bajos niveles en sus caudales[.](https://www.eeq.com.ec/cortes-de-servicio1 "https://www.eeq.com.ec/cortes-de-servicio1")
+
+Los apagones programados para este **lunes y martes** serán de **12 horas** para los sectores residenciales.
+
+La suspensión del servicio eléctrico se realizará en dos franjas horarias de seis horas cada una, en la mañana-tarde y en la tarde-noche.
+
+Nuevos cortes de luz en Quito para este lunes y martes
+------------------------------------------------------
+
+Las **zonas residenciales** de Quito tienen **12 horarios** de cortes de luz:
+
+### De 00:00 a 06:00 y de 12:00 a 18:00
+
+* Miraflores
+* Río Coca
+* Conocoto
+* Tumbaco
+* Cumbayá
+
+### De 00:00 a 06:00 y de 13:00 a 19:00
+
+* Luluncoto
+* Chilibulo
+* La Floresta
+* Cristianía
+* Eplicachima
+
+### De 07:00 a 13:00 y de 18:00 a 24:00
+
+* La Carolina
+* Nueva Cumbayá
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+### De 07:00 a 13:00 y de 18:00 a 24:00
+
+* Chimbacalle
+* Belisario Quevedo
+* Gualo
+* Inga Bajo
+
+### De 09:00 a 15:00 y de 18:00 a 24:00
+
+* Granda Centeno
+* Andalucía
+* Cotocollao
+
+### De 06:00 a 12:00 y de 16:00 a 22:00
+
+* Iñaquito
+* Sangolquí
+
+### De 04:00 a 10:00 y de 14:00 a 20:00
+
+* Barrionuevo
+* Santa Rosa
+* El Quinche
+
+### De 09:00 a 15:00 y de 18:00 a 24:00
+
+* Olímpico
+* San Antonio
+* Alangasí
+* Eugenio Espejo
+
+### De 10:00 a 16:00 y de 19:00 a 24:00
+
+* El Bosque
+* San Rafael
+* Pomasqui
+
+### De 02:00 a 08:00 y de 12:00 a 18:00
+
+* San Roque
+* Río Coca
+* Cotocollao
+* Conocoto
+* Santa Rosa
+* Inga Bajo
+
+Ciudadanos reclaman incumplimiento de horarios de cortes de luz
+---------------------------------------------------------------
+
+Los ciudadanos en **Quito, Guayaquil, Cuenca,** entre otras ciudades, reclaman porque no se cumplen los horarios programados de **cortes de luz** para este fin de semana del sábado 9 y domingo 10 de noviembre[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
+
+Al consultar en los sitios web de las empresas distribuidoras como **Quito, Centrosur**, entre otras, los horarios de cortes no coinciden con los que se aplican en los diferentes sectores.
+
+En las redes sociales de las empresas eléctricas, usuarios reclaman constantemente por este incumplimiento. Los ciudadanos manifiestan que los **anuncios a última hora** y la falta de cumplimiento de los cronogramas les afectan en sus actividades diarias.
+
+El Gobierno anunció el sábado 9 de noviembre que los cortes subirán hasta 12 horas al día por mantenimientos en **Agoyán y San Francisco** y la sequía en la **cuenca del río Paute**, que alimenta a los embalses de **Paute y Mazar.**
+
+Noboa envía a Arturo Félix Wong a Colombia para comprar energía
+===============================================================
+
+El Gobierno enviará a Arturo Félix Wong como su delegado para adquirir energía a Colombia, en medio de la crisis energética y climática del país.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa escribió en Twitter que enviará a Félix Wong a Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/ACTUALIDAD-6.jpg)
+
+El **presidente** de la República, **Daniel Noboa**, enviará al **ministro de Gobierno, Arturo Félix Wong**, a Colombia para la compra de energía. Así lo informó el Ejecutivo, este **10 de noviembre del 2024**, en su cuenta de **X**.
+
+Más noticias
+------------
+
+* [Esta es la programación de cortes de luz en Quito, del 11 al 14 de noviembre](https://www.elcomercio.com/actualidad/quito/programacion-cortes-luz-quito-11-14-noviembre.html "Esta es la programación de cortes de luz en Quito, del 11 al 14 de noviembre")
+* [¿Los apagones generan una ‘segunda nueva normalidad’ en el país?](https://www.elcomercio.com/actualidad/apagones-segunda-nueva-normalidad-ecuador.html "¿Los apagones generan una ‘segunda nueva normalidad’ en el país?")
+* [Consejos de salud mental para sobrellevar los apagones](https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html "Consejos de salud mental para sobrellevar los apagones")
+
+La compra de energía: una prioridad
+-----------------------------------
+
+El país sufre **apagones** de hasta 12 horas diarias y el clima seco que no permite avizorar lluvias suficientes para el abastecimiento de energía. Ante ello, el presidente **Daniel Noboa** decidió enviar a **Wong** a Colombia “con el propósito de ejecutar la compra de energía para Ecuador”. 4
+
+Para el **Mandatario** en su tuit, dijo que la decisión es resultado de “**la emergencia climática**“. Por lo tanto, se “ha convertido a la energía en nuestra primera prioridad”.
+
+Colombia había suspendido la venta a Ecuador
+--------------------------------------------
+
+El 30 de septiembre del 2024, **Colombia** decidió **suspender** la venta de energía a Ecuador. Allí también están sufriendo un temporal seco y los embalses también están en niveles bajos, pero no al nivel dramático que en Ecuador.
+
+En octubre pasado, la ministra de Energía de Ecuador, **Inés Manzano**, se reunió con su par colombiano, Andrés Camacho, para reiniciar la venta de energía a Ecuador. Sin embargo, Manzano no logró que se revirtiera la suspensión[.](https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador")
+
+Colombia oferta normalmente, en el sistema interconectado, hasta 450 megavatios.
+
+Mazar sigue apagado
+-------------------
+
+Desde las 13:00 de ayer, 9 de noviembre, y todo el día de hoy, hasta las 19:25, **Mazano** no generaba nada de energía.
+
+En cambio, **Molino** suspendió sus actividades desde las 08:00 hasta las 18:00 de hoy, 10 de noviembre del 2024. En esa misma franja horaria, tampoco operó **Sopladora**.
+
+Barcelona SC ganó con una aplastante goleada a Cumbayá
+======================================================
+
+Siete de los ocho partidos de la fecha 13 de la Liga Pro se jugaron entre este viernes y domingo. Te contamos los resultados.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Barcelona SC marcó una lluvia de goles en el segundo tiempo](https://www.elcomercio.com/wp-content/uploads/2024/11/barcelona-cumbaya-liga-pro.jpg)
+
+**Barcelona SC** le propinó una **goleada histórica** a Cumbayá FC y lo sentenció a ser el principal candidato para el **descenso**.
+
+### Más noticias
+
+* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
+* [Chelsea de Moisés Caicedo divide puntos con el Arsenal](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-empate-arsenal.html "Chelsea de Moisés Caicedo divide puntos con el Arsenal")
+* [Libertad sorprendió y goleó a un desganado El Nacional en Latacunga](https://www.elcomercio.com/deportes/futbol/libertad-goleada-nacional-estadio-cocha.html "Libertad sorprendió y goleó a un desganado El Nacional en Latacunga")
+
+Los ‘toreros’ **no tuvieron compasión** deportiva con el equipo quiteño y lo golearon **8 a 1**. El partido se disputó la tarde de este domingo 10 de noviembre de 2024, en el Estadio **Monumental** de Guayaquil.
+
+> ¡GRAN TRIUNFO EN CASA! 💛🏟️  
+>   
+> ⚽️ E. Bello  
+> ⚽️ C. Solano  
+> ⚽️⚽️ A. Obando  
+> ⚽️⚽️ J. Corozo  
+> ⚽️⚽️ O. Rivero[#BSCvsCumbayá](https://twitter.com/hashtag/BSCvsCumbay%C3%A1?src=hash&ref_src=twsrc%5Etfw) [#BarcelonaSomosTodos](https://twitter.com/hashtag/BarcelonaSomosTodos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tJhnpa7Kzl](https://t.co/tJhnpa7Kzl)
+> 
+> — BARCELONA S.C. (@BarcelonaSC) [November 10, 2024](https://twitter.com/BarcelonaSC/status/1855738901249581342?ref_src=twsrc%5Etfw)
+
+Barcelona dominó el partido desde el comienzo
+---------------------------------------------
+
+El marcador se abrió a los **pocos minutos** de comenzando el cotejo. A los 6′, **Eduard Bello** marcó el 1 a 0 con un **golazo de tijera**. Cerca del final del primer tiempo, a los 44′, el canterano **Allen Obando** extendió la ventaja con un tanto de cabeza.
+
+Lo que parecía ser un partido más para la estadística se convirtió en **especial** para los hinchas amarillas por la **lluvia de goles** que se registraron en la segunda etapa.
+
+10 Minutos de terror para el Cumbayá
+------------------------------------
+
+**Cristhian Solano** de tiro libre, con complicidad del arquero, a los 49 minutos y **nuevamente Obando** de cabeza a los 53′ ampliaron la diferencia en el Monumental.
+
+> Le metió rosca ☄  
+>   
+> Cristhian Solano se animó a pegarle al arco y firmó el 3-0 para [@BarcelonaSC](https://twitter.com/BarcelonaSC?ref_src=twsrc%5Etfw) tras un tiro libre.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/NNOjkqBt7X](https://t.co/NNOjkqBt7X)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 10, 2024](https://twitter.com/zapping_ecu/status/1855730985368789018?ref_src=twsrc%5Etfw)
+
+Al minuto 64, tras una gran acción individual, **Juan Carlos Paredes** recuperó una bola en el medio cambo y con un tiro raso a la izquierda del arco ajustó el 4 a 1.
+
+Sin embargo, ni bien el cuadro torero sacó del medio**, Janner Corozo** puso la **quinta** con un golazo tras dejar desparramado a quien lo marcaba.
+
+> El incansable Janner!! 🥸  
+>   
+> El atacante de [@BarcelonaSC](https://twitter.com/BarcelonaSC?ref_src=twsrc%5Etfw) y su tranquilidad para el 5-1 en Guayaquil.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tMJdSQLyF9](https://t.co/tMJdSQLyF9)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 10, 2024](https://twitter.com/zapping_ecu/status/1855735436662165997?ref_src=twsrc%5Etfw)
+
+Un Barcelona crecido fue por más y lo consiguió. A los tres minutos **Octavio Rivero** marcó el sexto gol y al **71′** otra vez Corozo colocó la séptima.
+
+Los 10 minutos de terror que sufrió el Cumbayá finalmente terminaron con **otro gol de Rivero**, en lo que fue la definitiva y **aplastante victoria** de 8 a 1 para los locales.
+
+> Este fue el último 😅  
+>   
+> Octavio Rivero y el 8-1 definitivo de [@BarcelonaSC](https://twitter.com/BarcelonaSC?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Hr620eqX45](https://t.co/Hr620eqX45)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 10, 2024](https://twitter.com/zapping_ecu/status/1855740718838379006?ref_src=twsrc%5Etfw)
+
+Otros resultados de la fecha 13 de la Liga Pro
+----------------------------------------------
+
+Siete de los ocho partidos de la fecha 13 se jugaron entre el **viernes 8 y domingo 10 de noviembre**.
+
+### Delfín vs. Mushuc Runa
+
+En el primer partido Delfín se impuso al Mushuc Runa de local por **4 a 2**. Los tantos de Delfín en el **Jocay de Manta** los marcaron Luis Castro de penal (45+5′), Nicolás Goitea (50′), Maikel Reyes (56′) y Enzo Gaggi (84′).
+
+Mientras que para Mushuc Runa descontaron Elián Caicedo (59′) y Joaquín Vergés (78)’.
+
+### Universidad Católica vs. Aucas
+
+El sábado 9 de noviembre se jugaron 3 partidos. En un apretado cotejo, **Universidad Católica** ganó 3 a 2 al **Aucas**, en el Estadio Olímpico Atahualpa.
+
+Todos los tantos de los celestes llegaron de **penal**: Alexander Alvarado (30′) y José Fajardo (45+2′ – 90 +1′) fueron los goleadores.
+
+Aucas, por su parte, **descontó** con los tantos de Ángelo Mina (35′) y Facundo Callejo al (71′).
+
+### Macará vs. Emelec
+
+En otro partido, Macará y Emelec **igualaron en el Bellavista de Ambato**. Los eléctricos comenzaron ganando con un gol de Alexander Gonzáles (21′). Macará logró la igualdad al minuto 56 con un tanto de Janpol Morales.
+
+### Liga de Quito vs. Independiente del Valle
+
+El partido más importante de la jornada tuvo lugar en el Estadio **Rodrigo Paz Delgado** de Quito. En el cotejo que en gran parte decidía la segunda etapa, Liga de Quito logró voltear el marcador y venció a Independiente del Valle por **2 a 1**.
+
+Los tantos en el cuadro albo los marcaron Alex Arce (45+1′) y Fernando Cornejo (62′). Por los rayados el tanto inicial lo puso Jeison Media[.](https://ligapro.ec/ "https://ligapro.ec/")
+
+### El Nacional vs. Libertad
+
+Este domingo **El Nacional** perdió contra Libertad de Loja en el estadio La Cocha de Latacunga.
+
+El marcador finalizó en un **sorpresivo 1 a 4**, con un nacional desganado. Los goles en el cuadro lojano los marcaron: Diego Ávila (2′), Bryan Caicedo (36′), Nixon Molina (43′) y Cristian Penilla (58′). Por el cuadro militar descontó Gabriel Cortes a los 66 minutos.
+
+### Orense vs. Técnico Universitario
+
+Finalmente, un **Orense** que de ganar se metía a la pelea por la etapa cayó de local contra **Técnico Universitario**.
+
+Los goles los anotaron Vicente Torres (36′) y Diego Armas (45+1′)
+
+Esta es la programación de cortes de luz en Quito, del 11 al 14 de noviembre
+============================================================================
+
+Los cortes de luz serán de ocho horas en la capital. Sin embargo, la ciudadanía quiere que al menos se respete los horarios establecidos.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![En el Valle de Tumbaco el corte de luz se adelantó dos horas antes de lo previsto.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-37-1.jpg)
+
+La **Empresa Eléctrica Quito** tiene definido en su página web la **programación de cortes de luz** para la ciudad de **Quito**. Este cronograma tiene un alcance de lunes 11 hasta jueves 14 de noviembre del 2024.
+
+### Más noticias
+
+* [Ciudadanos reclaman cumplimiento de horarios de cortes de luz](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-mazar-horarios-cronograma.html "Ciudadanos reclaman cumplimiento de horarios de cortes de luz")
+* [Ajustes en los horarios escolares por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/jornada-escolar-horarios-cortes-luz-ecuador.html "Ajustes en los horarios escolares por cortes de luz en Ecuador")
+* [¿Los apagones generan una ‘segunda nueva normalidad’ en el país?](https://www.elcomercio.com/actualidad/apagones-segunda-nueva-normalidad-ecuador.html "¿Los apagones generan una ‘segunda nueva normalidad’ en el país?")
+
+Programación semanal de cortes de luz
+-------------------------------------
+
+La **Empresa Eléctrica Quito** ha establecido los cortes de luz de **ocho horas,** según la regulación nacional, por el descenso de los caudales a las centrales hidroeléctricas del país. Los apagones serán en **dos etapas** de **cuatro horas cada una.**
+
+Así, el primer grupo, que incluye **Miraflores, Río Coca, Conocoto, Tumbaco y Cumbayá**, tendrán cortes de luz desde 02:00 a 06:00 y de 15:00 a 19:00. En cambio, hay otros barrios que tendrán cortes en horarios más complejos.
+
+Chimbacalle, Belisario Quevedo, Gualo, Inga Bajo, tendrán cortes de 10:00 a 14:00 y de 19:00 a 23:00.
+
+En cambio, el **sector industrial no recibirá luz.**
+
+¿Respeto a la programación de cortes?
+-------------------------------------
+
+En el cronograma adjunto, se lee “Recuerde que debido a la mejora de las condiciones hidrológicas, los cortes de energía pueden reducirse dentro del periodo de cortes programado”. Sin embargo, muchas personas se quejaron en redes sociales de que **no hubo respeto a la programación** de cortes.
+
+Una de ellas fue el usuario conocido como El mal pensado, quien reclamó por el adelantamiento de los cortes de luz en Tumbaco.
+
+> Se supone que los cortes de luz empezaban a las 16h00 pero siendo las 14h00, nos acaban de cortar el servicio en [#Tumbaco](https://twitter.com/hashtag/Tumbaco?src=hash&ref_src=twsrc%5Etfw). [@ElectricaQuito](https://twitter.com/ElectricaQuito?ref_src=twsrc%5Etfw) esto es una burla descarada. De nada sirve planificar si hacen lo que les da la gana y no cumplen con los horarios anunciados. [@valletumbaco](https://twitter.com/valletumbaco?ref_src=twsrc%5Etfw) [pic.twitter.com/eAhaVLBAqD](https://t.co/eAhaVLBAqD)
+> 
+> — El malpensado (@elapestado) [November 10, 2024](https://twitter.com/elapestado/status/1855689021768475115?ref_src=twsrc%5Etfw)
+
+A continuación el cronograma de la Empresa Eléctrica Quito, para esta semana, hasta el jueves. Sin embargo, en el cuadro también se encuentran los cortes destinados para hoy, 10 de noviembre del 2024.
+
+Activa el modo Stranger Things en tú WhatsApp
+=============================================
+
+Si eres fan de la serie de Netflix, este modo te encantará.
+-----------------------------------------------------------
+
+![Parte del elenco de la serie de Netflix, 'Stranger Things'.](https://www.elcomercio.com/wp-content/uploads/2024/11/stranger-things-El-Comercio.jpg)
+
+Los seguidores de ‘**Stranger Things**‘ ahora pueden darle un toque especial a tu **WhatsApp** gracias al **modo Stranger Things**.
+
+Este cambio permite a los usuarios modificar el ícono de la popular aplicación de mensajería para que luzca una imagen inspirada en la exitosa **serie de Netflix**.
+
+### Más noticias
+
+* **[Cómo rastrear un teléfono celular de manera ética con esta guía](https://www.elcomercio.com/tecnologia/rastrear-telefono-celular-tutorial.html "https://www.elcomercio.com/tecnologia/rastrear-telefono-celular-tutorial.html")** 
+* **[Evita el robo de tu cuenta de Spotify con estos consejos](https://www.elcomercio.com/tecnologia/spotify-robo-cuenta-redes-sociales.html "https://www.elcomercio.com/tecnologia/spotify-robo-cuenta-redes-sociales.html")** 
+
+Activarlo solo requiere instalar una aplicación de terceros, **Nova Launcher**, la cual permite personalizar la interfaz visual del dispositivo y cambiar íconos, entre otros elementos.
+
+**Pasos para activar el modo en tu dispositivo**
+------------------------------------------------
+
+Para acceder al **modo ‘Stranger Things**‘, sigue estos pasos:
+
+1. Descarga _Nova Launcher_ en un celular Android y configúralo como predeterminado para que permita editar el diseño de la pantalla principal.
+2. Busca o crea una imagen PNG del logo de WhatsApp con símbolos alusivos a _Stranger Things_ , como el Demogorgon o el logo de la serie, idealmente en formato transparente.
+3. En la pantalla de inicio, mantén presionado el ícono de WhatsApp y selecciona “Editar”.
+4. Cambia el logo de WhatsApp haciendo clic en la imagen, elige “Aplicaciones” y luego “Fotos”.
+5. Selecciona la imagen descargada, ajusta el tamaño y confirma para activar el “modo Stranger Things”.
+
+Si en algún momento deseas regresar al ícono original, basta con desinstalar Nova Launcher desde la Play Store, lo que eliminará todas las personalizaciones aplicadas en la interfaz.
+
+**Ventajas y limitaciones de usar lanzadores**
+----------------------------------------------
+
+El uso de lanzadores como Nova Launcher no solo permite cambiar logotipos, sino también otros elementos de la pantalla, como el fondo o el estilo de los iconos.
+
+Es importante recordar que el cambio no es oficial, por lo que **Meta**, la empresa detrás de **WhatsApp**, no respalda esta modificación y que únicamente el aspecto visual de la aplicación será alterado.
+
+La Era del Hielo regresa a la pantalla grande
+=============================================
+
+Disney hizo un anuncio sobre el trío de amigos que se robó el corazón de todos desde 2002.
+------------------------------------------------------------------------------------------
+
+![Manny el mamut, Sid el perezoso y Diego el tigre dientes de sable son los protagonistas de 'La Era del Hielo'.](https://www.elcomercio.com/wp-content/uploads/2024/11/era-hielo-El-Comercio.jpg)
+
+Disney confirmó oficialmente el regreso de la franquicia _**La era de hielo**_ a los cines, con una sexta entrega que se estrenará en 2026.
+
+La noticia fue revelada durante la [**convención D23 en Brasil**,](https://www.clarin.com/espectaculos/d23-expo-brasil-2024-evento-disney-presenta-estrenos-esperados-series-peliculas-vienen_0_rGeIVRcLuN.html "https://www.clarin.com/espectaculos/d23-expo-brasil-2024-evento-disney-presenta-estrenos-esperados-series-peliculas-vienen_0_rGeIVRcLuN.html") en un anuncio que emocionó a los fanáticos de la saga.
+
+El trío de amigos compuesto por **Manny el mamut**, **Sid el perezoso** y **Diego el tigre dientes de sable** vuelve para una nueva aventura.
+
+Esta cinta será la primera en casi diez años, desde el lanzamiento en 2016 de _La era del hielo: choque de mundos_ , que recaudó 408,5 millones de dólares a escala mundial.
+
+**Las voces originales regresan para la nueva aventura**
+--------------------------------------------------------
+
+La compañía confirma que los actores originales darán vida nuevamente a los personajes principales. Ray Romano retomará su papel como Manny, el entrañable líder de la manada, mientras que John Leguizamo será una vez más el divertido y peculiar Sid.
+
+Denis Leary regresa como Diego, el valiente tigre dientes de sable, y Queen Latifah interpretará a Ellie, la pareja de Manny.
+
+Además, Simon Pegg volverá como Buck, la intrépida comadreja de un solo ojo. Disney compartió un video en el evento donde Romano, en tono cómico, celebró el regreso de su querido personaje.
+
+**¿Un retorno triunfal?**
+-------------------------
+
+A pesar de su éxito en taquilla, la última película de la franquicia, _La era del hielo: choque de mundos_, no fue bien recibida por la crítica, alcanzando solo un 18% de valoración en Rotten Tomatoes.
+
+Sin embargo, Disney y 20th Century Animation confían en el carisma y popularidad de estos personajes, y los de la saga esperan que _La era de hielo 6_ logre revivir la esencia que hizo de las primeras entregas un éxito.
+
+Esta será una nueva oportunidad para que Manny, Sid y Diego reconquisten al público en una aventura llena de humor y emoción.
+
+Deportivo Quito enfrentará a tradicional rival en cuartos de final del Ascenso
+==============================================================================
+
+Deportivo Quito se encuentra entre los ocho mejores equipos del Ascenso Nacional; en cuartos de final tendrá un duro rival.
+---------------------------------------------------------------------------------------------------------------------------
+
+![El cuadro manabita de Liga de Portoviejo se clasificó para los cuartos de final del Ascenso](https://www.elcomercio.com/wp-content/uploads/2024/11/deportivo-quito-liga-portoviejo-ascenso.jpg)
+
+Deportivo Quito ya conoce rival para enfrentar en los cuartos de final del Ascenso Nacional.
+
+### Más noticias
+
+* [Chelsea de Moisés Caicedo divide puntos con el Arsenal](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-empate-arsenal.html "Chelsea de Moisés Caicedo divide puntos con el Arsenal")
+* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
+* [Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero](https://www.elcomercio.com/deportes/futbol/leverkusen-piero-hincapie-empate-puntero.html "Leverkusen de Piero Hincapié suma otro empate y se aleja del puntero")
+
+El tradicional equipo quiteño clasificó de forma directa a esta etapa tras disputar únicamente la ida de los octavos de final contra Toreros F.C., filial de Barcelona S.C.
+
+Tras empatar 1 a 1 en Guayaquil, el partido de vuelta debía realizarse este domingo 10 de noviembre en el estadio Gonzalo Pozo Ripalda del Aucas, en el sur de Quito, sin embargo, Toreros fue suspendido dos días antes.
+
+El club guayaquileño no cumplió con sus obligaciones reglamentarias ante la Federación Ecuatoriana de Fútbol (FEF), lo que llevó a que los chullas ganen en mesa el partido por 3 a 0, dando un global de 4 a 1 a favor de los quiteños.
+
+> Él, con la que tantas veces nos dimos la cabeza 🤕, ahora… 😘  
+> ¡Tómalo por el buen lado! 😉[#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) un poquito de sal 💙❤️ [pic.twitter.com/flJY1qwUyv](https://t.co/flJY1qwUyv)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [November 8, 2024](https://twitter.com/SDQuito_Oficial/status/1854967582777872534?ref_src=twsrc%5Etfw)
+
+El Deportivo Quito antes eliminó en la llave de ida y vuelta de los dieciseisavos de final a Cantera Orense.
+
+Liga de Portoviejo también va por el ascenso
+--------------------------------------------
+
+El rival que tendrá el Deportivo Quito en los cuartos de final es un ‘viejo conocido’.
+
+Este domingo se conoció al ganador de la llave entre Liga Deportiva Universitaria de Portoviejo y la Naranja Mekánica de Guayaquil.
+
+En la ida jugada el domingo 3 de noviembre en el estadio Reales Tamarindos de la capital de Manabí, ante más de 15 000 personas, ‘La Capira’ se impuso por 2 a 0, con goles de Cesar Espinola y Jhojan Riascos[.](https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Portoviejo "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Portoviejo")
+
+En el partido de vuelta disputado en el estadio Christian Benítez de Guayaquil, la Naranja Mekánica no pudo remontar el resultado e igualó 1 a 1 contra LDU de Portoviejo.
+
+Los manabas comenzaron ganando el cotejo con gol de Cristhian Cuero en el primer de tiempo. En la segunda etapa, Andy Tenorio igualó el marcado tras convertir un gol a favor de los naranjas.
+
+El tiempo hizo lo suyo, y finalmente, el marcador global terminó 3 a 1 a favor de la U verde.
+
+> Final del partido! [#NaranjaMekánica](https://twitter.com/hashtag/NaranjaMek%C3%A1nica?src=hash&ref_src=twsrc%5Etfw) 1- [#LDUP](https://twitter.com/hashtag/LDUP?src=hash&ref_src=twsrc%5Etfw) 1 [#PorNuestraGente](https://twitter.com/hashtag/PorNuestraGente?src=hash&ref_src=twsrc%5Etfw)[#VamosLiga](https://twitter.com/hashtag/VamosLiga?src=hash&ref_src=twsrc%5Etfw)🟢⚪️ [pic.twitter.com/PgCJouKpcM](https://t.co/PgCJouKpcM)
+> 
+> — LDU PORTOVIEJO (@LDUPoficial) [November 10, 2024](https://twitter.com/LDUPoficial/status/1855672159902843113?ref_src=twsrc%5Etfw)
+
+Antes, Liga de Portoviejo dejó en el camino a Daquilema, en los dieciseisavos de final del Ascenso.
+
+¿Cuándo se enfrentarán Deportivo Quito y Liga de Portoviejo?
+------------------------------------------------------------
+
+Los cuartos de final entre Deportivo Quito y Liga de Portoviejo se jugará en dos partidos, el domingo 10 y el domingo 17 de noviembre.
+
+El primer encuentro se realizará en Quito y la vuelta en Portoviejo. El estadio para la idea está por confirmarse, pero lo más probable es que sea el Gonzalo Pozo Ripalda. Mientras que en Manabí, el partido se jugará en el Reales Tamarindos.
+
+En ambos cotejos se espera una amplia concurrencia de hinchas. Tanto la ‘AKD’ como la ‘U’ han sido los equipos que más fanáticos llevan a los estadios debido a su historia e importancia para sus ciudades.
+
+En el Ascenso Nacional, los dos equipos que lleguen a la final se clasifican a la Serie B.
+
+Generadores eléctricos, analice su necesidad antes de comprarlos
+================================================================
+
+La demanda de generadores eléctricos aumentó en Ecuador debido a los cortes de energía que iniciaron en septiembre de 2024.
+---------------------------------------------------------------------------------------------------------------------------
+
+![El uso de generadores se incrementa en medio de la crisis energética del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/generadores-811.jpg)
+
+La demanda de los **generadores eléctricos** se disparó en Ecuador desde que se iniciaron los **cortes de luz** programados en todo el país, en septiembre de 2024. Después de más de 45 días de **racionamientos eléctricos prolongados**, más ecuatorianos piensan en la adquisición de estos equipos para solventar de alguna manera la **crisis energética**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentaran-a-ocho-horas-desde-el-domingo-dice-ministra.html "Cortes de luz aumentarán a ocho horas desde el domingo, dice Ministra")
+* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
+* [Más ecuatorianos buscan equipos para sobrellevar los efectos de los](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz") [](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")[cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuatorianos-equipos-electricos-sobrellevar-efectos-cortes-de-luz.html "Más ecuatorianos buscan equipos para sobrellevar los efectos de los cortes de luz")
+
+Según datos del Banco Central del Ecuador (BCE), entre enero y agosto de este 2024 se importaron 5 990 toneladas de generadores eléctricos. El monto representa un crecimiento del 209% en comparación con lo importando en el mismo período del 2023, cuando se importó 1 939,03 toneladas.
+
+La mayoría de estos equipos importados este año ya se ha vendido. Eso se puede concluir, ya que por ahora los **generadores eléctricos** están agotados en los principales almacenes de país. Las nuevas adquisiciones llegarán en las próximas semanas.
+
+Los hay desde los 800 vatios, rondando los 250 dólares, hasta de 10 000 vatios (o 10kW), con un precio sobre los 2 800 dólares. Estos últimos equipos sirven para viviendas o para mantener abiertos pequeños negocios. Mientras que algunos centros comerciales se han equipado con generadores de 1 500 KW para poder seguir funcionando.
+
+¿Qué se debe tener en cuenta a la hora de adquirir un generador eléctrico?
+--------------------------------------------------------------------------
+
+Si usted está pensando en adquirir un generador eléctrico para su vivienda o negocio, debe tomar en cuenta varias consideraciones antes de realizar esta inversión.
+
+**Juan Barroso**, ingeniero eléctrico, recomienda determinar las prioridades para lo que se necesita la energía y en función de ello, buscar el equipo en el mercado.
+
+Primero es importante decidir qué dispositivos o áreas son esenciales que tengan energía. Puede ser iluminación, internet, electrodomésticos o equipos tecnológicos, especialmente si se realiza teletrabajo.
+
+Este análisis permitirá calcular el **consumo total** y seleccionar un generador con la capacidad adecuada, ya que, por ejemplo, una familia podría necesitar uno de 1 000 vatios (1 kW) a 1 200 vatios (1,2 KW) para lo básico, señaló Barroso.
+
+Si la necesidad de energía es mayor, los costos también se incrementarán. Por ejemplo, los comercios pequeños con **refrigeradores** requieren una mayor potencia, alrededor de 2 500 vatios (2,5 kW) a 6 000 vatios (6 kW) señaló **Geovanny Núñez**, especialista eléctrico.
+
+Si el negocio es más grande se requerirá un generador de 10 kW o más, agregó. Mientras que un equipo para un edificio de unos 10 pisos, se requieren equipos más potentes de más de 130 kW. Estos son más costosos.
+
+Los equipos pequeños o domésticos utilizan gasolina para su funcionamiento, mientras que los generadores más grandes requieren de diésel.
+
+Además, es crucial considerar otros factores como: el lugar donde se ubicará el generador (por el ruido y la ventilación necesaria), el consumo de combustible y los costos adicionales, como cables de extensión para conectar al tablero eléctrico.
+
+También, se recomienda analizar si la compra será inversión o gasto temporal, ya que esta crisis energética podría ser transitoria y solo durar algunos meses y quizás no justifique el costo del equipo a **largo plazo**.
+
+Cortes de luz
+-------------
+
+Para la semana del 11 al 17 de noviembre de 2024, los cortes de luz continuarán en Ecuador. La ministra de Energía encargada, Inés Manzano, anunció que los cortes desde el domingo 10 de noviembre serán de ocho horas al día.
+
 Chelsea de Moisés Caicedo divide puntos con el Arsenal
 ======================================================
 
@@ -589,83 +1067,6 @@ Además, son **herramientas efectivas en terapias del habla**, al ayudar a perso
 
 El Día Mundial del Trabalenguas es una **ocasión perfecta para explorar esta forma de arte lingüístico**. Durante este día, **personas de todas las edades participan en actividades** que incluyen competiciones de pronunciación, creación de nuevos trabalenguas y **sesiones de lectura en voz alta**. Estas actividades no solo celebran el lenguaje, sino que también **fomentan el aprendizaje colaborativo y el disfrute compartido del habla.** 
 
-¿Cómo se manejan los cuidados paliativos en Chile y Uruguay? Lecciones para Ecuador
-===================================================================================
-
-Uno de los mayores desafíos para que el Ecuador cuente con un Sistema Nacional de Cuidados Paliativos es la inversión económica que demanda. Para que este servicio sea accesible y asequible, especialmente para personas de bajos recursos, el Ministerio de Finanzas y otras entidades del Estado deberán garantizar los recursos necesarios en todos los niveles \[…\]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La ley de cuidados paliativos aprobada por la Asamblea está en manos del Ejecutivo para su aprobación o veto. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/11/CP.jpg)
-
-Uno de los mayores desafíos para que el Ecuador cuente con un Sistema Nacional de Cuidados Paliativos es la inversión económica que demanda. Para que este servicio sea accesible y asequible, especialmente para personas de bajos recursos, el Ministerio de Finanzas y otras entidades del Estado deberán garantizar los recursos necesarios en todos los niveles de atención.  
-
-Más noticias
-------------
-
-* [Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley](https://www.elcomercio.com/actualidad/ecuador/cuidados-paliativos-ecuador-ley-beneficios-realidad.html "Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley")
-* [‘El lenguaje bélico convierte al cáncer en un enemigo y reprime emociones’: Daniela Rojas](https://www.elcomercio.com/tendencias/salud/el-lenguaje-belico-convierte-al-cancer-en-un-enemigo-y-reprime-emociones-daniela-rojas.html "‘El lenguaje bélico convierte al cáncer en un enemigo y reprime emociones’: Daniela Rojas")
-
-Esta es una de las premisas que tendrá que tomar en cuenta el Ejecutivo para vetar parcial o totalmente el proyecto de ley de cuidados paliativos. El documento, aprobado por la Asamblea en octubre del 2024, da 200 días al ente rector de salud para reorganizar sus presupuestos.
-
-La presión por servicios de cuidados paliativos es cada vez mayor por la creciente prevalencia de enfermedades no transmisibles y el acelerado envejecimiento. En el Censo de 2022 se constató que la [mayoría de provincias (15)](https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html "https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html") está por debajo del nivel de reemplazo necesario para mantener la población estable o que no decrezca. Para esto se requiere 2,1 hijos por mujer.
-
-Una cobertura nacional limitada
--------------------------------
-
-Con esta legislación se busca garantizar atención integral a personas con enfermedades avanzadas, progresivas e incurables, que sufren de manera intensa y tienen un pronóstico de vida limitado. Actualmente el acceso a estos cuidados es limitado. La asambleísta Cecilia Herrera explica que la cobertura es de 3,5% con 78 equipos. Esto representa 4,6 recursos asistenciales por millón de habitantes.
-
-Frente a esto se propone la complementariedad de servicios públicos y privados, permitiendo derivaciones entre ambos en zonas urbanas y rurales, según las necesidades. También se establece que los centros de salud del primer nivel cuenten con profesionales capacitados. Pero todo esto requiere de fondos disponibles para garantizar la permanencia y continuidad de los cuidados.
-
-Según un informe de la Comisión Lancet, 4,85 de cada 1 000 habitantes en Ecuador sufren gravemente por enfermedades agudas o crónicas. Otro dato: la distribución de morfina es insuficiente, con solo 2,5 mg por habitante. Esto indica que la media de morfina administrada a los pacientes para un tratamiento referencial de 90 días fue de 41,7 kg, frente a los 48 kg requeridos durante el 2020.
-
-Estas cifras resaltan la urgencia de contar con una legislación que viabilice la atención paliativa adecuada. Frente a esta necesidad, **EL COMERCIO** consultó a **Gabriela Píriz**, jefa de Servicio de Medicina Paliativa del **Hospital Maciel de** **Uruguay** y a **Alfredo Rodríguez**, director médico del **Hospice Clínica Familia de** **Chile** para conocer cómo se implementan los cuidados paliativos en estos países.
-
-Chile extendió los cuidados paliativos a 247 de 300 comunas
------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-46-1024x683.jpg)
-
-Alfredo Rodríguez es especialista en medicina paliativa.
-
-En Chile, los cuidados paliativos empezaron en la década de 1990 con un programa para pacientes con cáncer. En 2005, la **Ley GES (Garantías Explícitas en Salud)** garantizó acceso a cuidados paliativos y alivio del dolor para pacientes con cáncer avanzado. La ley se amplió a todas las etapas del cáncer, en 2016.
-
-En 2021 se aprobó la **Ley de Cuidados Paliativos Universales**, que incluyó a pacientes con enfermedades no oncológicas (crónicas y neurodegenerativas). En 2023 comenzó su implementación a nivel nacional.
-
-Para asegurar el acceso en todo el país, Chile cubre los cuidados paliativos en servicios públicos y privados, con énfasis en las zonas rurales. La Ley GES asegura que los pacientes con cáncer avanzado reciban atención dentro de cinco días hábiles, luego de su derivación. Además, la ley de cuidados paliativos universales prioriza la atención primaria de salud, que cubre más del 80% de la población.
-
-Una fortaleza del sistema, según Alfredo Rodríguez, especialista en medicina paliativa, es la descentralización, con unidades de cuidados paliativos en hospitales y centros de atención primaria. Des esta manera-añade- 247 de las 350 comunas están cubiertos y tienen acceso a medicamentos esenciales. Sin embargo cree que todavía hay desafíos en la formación de pregrado, falta una evaluación de la calidad de los servicios y que se amplíe la atención de los hospicios.
-
-En cuanto a la capacitación de los profesionales sanitarios, el Ministerio de Salud lo hace mediante plataformas digitales y programas continuos. Universidades como la Católica ofrecen diplomados y programas específicos en cuidados paliativos para médicos, enfermeras y psicólogos. Las enfermeras, que tienen un rol clave, participan en programas avanzados de formación en esta área.
-
-Uruguay pasó de una cobertura del 18% al 74,9% en 11 años
----------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Gabriela-Piriz-vale.jpg)
-
-Gabriela Píriz es especialista en medicina interna,  
-paliativa y en gestión de la calidad en servicios de salud.
-
-Los cuidados paliativos en Uruguay comenzaron a desarrollarse con la creación del [Plan Nacional de Cuidados Paliativos](https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/plan-cuidados-paliativos-version-setiembre-2013 "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/plan-cuidados-paliativos-version-setiembre-2013") en 2012, liderado por el Ministerio de Salud Pública (MSP). Gabriela Píriz, especialista en cuidados paliativos lo gestionó desde el inicio hasta febrero del 2020.
-
-Inicialmente, 18 de cada 100 pacientes que necesitaban este servicio recibían atención. Desde entonces hasta el 2023, la cobertura ha escalado a 74,9%. Se cuenta con 29 servicios de asistencia pediátrica y 73 servicios para adultos. Dentro de este último grupo con patologías no oncológicas se ha constatado que el 47% presentan demencias y enfermedades cardiovasculares.
-
-Hay que destacar que en este país, la Ley Integral de Cuidados Paliativos (20179/023) recién se aprueba en agosto del 2023, tras un largo recorrido y logros alcanzados con el plan.
-
-El plan promueve la creación de una red de asistencia paliativa nacional con distintos niveles de atención, asegurando cobertura y continuidad asistencial. Además, se prioriza la formación básica en cuidados paliativos. Más de 10 mil profesionales de la salud han participado en cursos virtuales gratuitos del Programa de Cuidados Paliativos del MSP, entre 2021-2024. Las zonas rurales son cubiertas asistencialmente por médicos locales que trabajan en red con los equipos de especialistas.
-
-La capacitación de los profesionales-añade Píriz- se realiza a través de una diplomatura, dos másteres, y cursos especializados, como las Clínicas ECHO, que permiten la discusión virtual de casos complejos.
-
-Las fortalezas del sistema, según Píriz, es la integración en el Sistema Nacional Integrado de Salud, la obligatoriedad de los cuidados paliativos como prestación. Están conscientes de que los cuidados paliativos no es algo adicional ni optativo. Tienen que ser dispensados en paralelo con los tratamientos y estar adaptados a las crecientes necesidades físicas, psicosociales y espirituales de los pacientes y familias. Esto a medida que la enfermedad progresa hacia la fase terminal.
-
-Lecciones que dejan ambos países para Ecuador
----------------------------------------------
-
-* Garantizar que los pacientes en todas las zonas del país, incluyendo las rurales, tengan acceso a este servicio y a los fármacos necesarios para el alivio del dolor y otros síntomas. 
-* Implementar cuidados paliativos no solo en hospitales, sino en centros de atención primaria, lo que facilita el acceso en zonas rurales y más alejadas de los centros urbanos.
-* La formación de los profesionales de la salud debe ser integral y continua, con un enfoque práctico y especializado. Debe incluirse desde el nivel de pregrado.
-*  Implementar políticas que fomenten los cuidados paliativos domiciliarios, especialmente en áreas rurales y de difícil acceso, para garantizar la continuidad de la atención.
-* Establecer un plan de gestión nacional que involucre a todos los prestadores de salud, con diagnósticos y evaluación periódicos de la situación y mejora continua del sistema.
-
 Turismo a París
 ===============
 
@@ -684,241 +1085,4 @@ A **Ecuador** aún no llegan **aerolíneas** low cost y una que dice serlo no lo
 
 El **negocio aeronáutico** es muy rentable y **Ecuador** debe desarrollarlo para brindar la **seguridad** y **comodidad** que han perdido **muchas carreteras y viajar en aviones** que no nos dejen en Quito, pero si en Latacunga; que en Guayaquil vendan vuelos a Baños de Agua Santa, pero aterricen en el aeropuerto de Shell a 1 hora de Baños y a 10 minutos de Puyo.
 
-Es necesario crear tantos **incentivos** para el **transporte** aéreo interno seguro y rápido, como los que existen para el caótico **transporte terrestre**.  
-
-Guerras santas: las cruzadas populares
-======================================
-
-Dos casos ilustran cómo entusiasmaron las guerras santas a la gente común.
---------------------------------------------------------------------------
-
-![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
-
-Es un lugar común considerar a las **cruzadas** como un asunto de caballeros, reyes y papas, de hecho, es así como se las representa en libros y películas. Pero las ocho **cruzadas** convocadas por el papado a lo largo de **dos centurias** (entre los siglos XI y XIII) atrejeron también al pueblo y no solo a **ejércitos formales.**
-
-Dos casos ilustran cómo **entusiasmaron** las **guerras santas** a la gente común. En 1097, mientras se desarrollaba [la primera cruzada](https://www.nowtilus.com/descargas/Saber/FragmentoPromocionalBHCRUZADASPDFsm.pdf), el fraile francés **Pedro el Ermitaño** sedujo a campesinos, mendigos y aventureros –entre 18 y 60 mil personas– para marchar a Jerusalén al grito de ‘Dios lo quiere’, con el propósito de **‘recuperar los santos lugares**’ de la dominación musulmana. La **excursión** resultó un **desastre** y la mayoría murieron en el camino.
-
-No obstante, las **cruzadas** siguieron sucediéndose una tras otra, de manera que poco más de un siglo después, en 1199, el papa Inocencio III convocó [la cuarta cruzada](https://www.elcomercio.com/politicas-de-privacidad/La%20tr%C3%A1gica%20cruzada%20de%20los%20ni%C3%B1os%20inocentes%20en%20la%20Edad%20Media%20Ernest%20Bendriss%20https:/historia.nationalgeographic.com.es/a/tragica-cruzada-ninos-inocentes-edad-media_16012), esta vez no se dirigió a los **reyes** sino directamente a los pobres, a quienes la **religiosidad** popular consideraba ‘los verdaderos elegidos’. En ese contexto sucedió la **“cruzada con niños**”, con la idea de que su pureza conquistaría **Tierra Santa**.
-
-En 1212, con un inflamado **fervor religioso,** Esteban, joven pastor de apenas 12 años, escribió a la Corte del **rey Felipe Augusto de Francia,** asegurando que tenía una carta entregada por **Jesucristo** en la que le pedía impulsar la **cruzada**. El rey desechó la idea, pero el **joven encabezó el movimiento** y en menos de un mes reunió a unos 30 mil niños, que emprendieron **viaje en compañía** de algunos **religiosos** y **peregrinos adultos**, mientras se organizaba una iniciativa similar en **Alemania**.
-
-Un grupo de estos **peregrinos** llegó a **Roma**. El papa Inocencio les explicó que eran **demasiados jóvenes** para ir a una **cruzada** y los animó a regresar. Antes de la reunión, ya varios habían fallecido en el camino. Los sobrevivientes, al intentar volver a casa, murieron ahogados o terminaron como esclavos en **Egipto**.
-
-El que alimenta al lagarto…
-===========================
-
-El progreso real requiere esfuerzo y paciencia, pero la política a menudo sacrifica el futuro por resultados inmediatos.
-------------------------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-El verdadero **crecimiento** y **progreso** se consiguen con **arduo trabajo**, con disciplina, pensando y con valores actuando, con principios y, de manera particular valiéndose de la **paciencia**, es decir, entendiendo que el inmediatismo no es el camino, ya que en la práctica significa “pan para hoy, pero hambre para mañana…”
-
-La **política** en el **país**, en muchos casos, no pretende entender peor aún practicar aquello, frente a un electorado que aplaude y “valora” el **resultado inmediato**, muchas veces sin reparar ni entender el real costo y **efecto final** que se vuelve principal, esto es el que se da en el tiempo y que es el que en verdad queda, vale y cuenta.
-
-Un claro ejemplo de aquello, es el **compromiso** y **ofrecimiento desfinanciado**, **irresponsable** y desatinado del político que, no le importa **hipotecar** con **deuda externa y eterna** a las futuras generaciones, que sin haberles consultado nacen y mueren endeudadas, sin **beneficio** de inventario, sin entender por qué y sin percibir fruto alguno.
-
-Otro ejemplo, son las “**coincidencias**” entre políticos, que con base en **acuerdos reservados**, se intercambian favores y/o **apoyos circunstanciales**, por supuesto a espaldas de la **opinión pública**, realizando **trueques** a escondidas en los que lo que menos importa son las **consecuencias finales**, a fin de obtener y conseguir el **objetivo** inmediato, el aplauso de bambalina, el **triunfo superficial** y vacío, mirando sus **actores despreocupados** a otro lado con aire de santidad o de **postiza ingenuidad.** Así, por ejemplo, a cambio de votos y/o **respaldos específicos,** se apoyan designaciones, ternas, nombramientos de personajes cuestionados y/u oscuros, los que lo más seguro, ya posesionados en sus cargos,  gestionarán y tomarán **decisiones** no en función de los profundos y sagrados intereses del país, sino de los **intereses** de sus **líderes y cabecillas**, probablemente en determinados **casos**, orientados a favorecer y/o fomentar la **impunidad** y por ende a la **justicia burlar**.
-
-Se configura así, de esta manera, esa **suerte de riña** entre el **ciego y torpe** pragmatismo frente a la responsable decisión enmarcada en la **ética**. Dichas **malas prácticas**, han contribuido al **estancamiento** como nación, siendo por ende fundamental desactivarlas en aras de construir un verdadero país en el que exista seria gestión y, profunda **responsabilidad** por las actuales y **futuras generaciones**. Decisiones en tal sentido, generarían que las letras de la **historia** sean hilvanadas con tinta de gloria, destacando justos  **reconocimientos** de honor de aquellos mandatarios calificados como Estadistas, que con **sabiduría y valentía** renunciaron al pedestal de papel,  “sacrificando” el **aplauso barato** e inmediato, renunciando a lo conveniente y por lo correcto optando.
-
-De continuar dichas prácticas, lo único que pudiera esperar quien alimente al lagarto, es que no se lo coma primero…
-
-Cartas a Quito / 10 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este domingo 10 de noviembre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-El ocaso del pensamiento 
--------------------------
-
-Este es el título que abre una reflexión que no me aborda en una tarde lluviosa, nostálgica o con regusto a “depre”. Muy al contrario, el domingo ha sido luminoso y predominantemente placentero. Una jornada lúdica de paseo descalza sobre playa dorada y chapuzón en aguas tan frías como cristalinas. 
-
-Pero he sentido la necesidad de poner blanco sobre negro aquello que, más que observar, confirmo día tras día en la sociedad que me rodea y que avanza en muchos aspectos, pero que en este que me inquieta, entiendo retrocede. 
-
-Vivimos muy rápido, demasiado, y aunque tengamos la fortuna de no ser bombardeados con armas de guerra, al menos de momento, lo somos por otro tipo de bombas. Las de la presión que ejercen nuestras preocupaciones económicas, laborales, familiares… Todo un compendio de lucha y penalidades, generador de agobios y ansiedades, que oscurecen nuestro cielo, como los pájaros en la película del genio Hitchcock. 
-
-Poco tiempo nos queda, pues, para la distracción, que es más una necesidad que un dispendio. Pero más allá no vamos. No consta en nuestra agenda, reservas para la reflexión o el pensamiento crítico. 
-
-Y no es nuestra culpa, al no poder contar con más arena en el reloj, ni neuronas sin saturar, para utilizar en esas otras capacidades elevadas del ser humano. Por eso discriminamos con criterios de “lo fácil e inmediato”. Por eso creo que, en su consecuencia, nos estamos convirtiendo, inconsciente e irremediablemente, en gargantúas. 
-
-Devoradores de cuanto se nos cuenta o proyecta. Deglutiendo sin saborear ni masticar. Oídos y ojos que son meras puertas de entrada, pero que no filtran. Lamentablemente, perdemos conocimiento, porque, aunque absorbemos como esponjas, ya difícilmente discernimos un vino de un vinagre. 
-
-El filtrado, el decantado, requieren de su maña y de su tiempo, y este último es rara avis, una medida finita y muy escasa, como los alimentos para millones en este planeta. 
-
-No soy halagüeña en cuanto a encontrar solución a lo que considero un problema de relevancia: el humano ovinizado, pero ponerlo de manifiesto ya es un avance. 
-
-Tiro la piedra esperando sus ondas, y en la cima de la montaña, busco el eco. 
-
-Cristina Maruri 
-
-¿Los apagones generan una ‘segunda nueva normalidad’ en el país?
-================================================================
-
-Los apagones obligan a los ecuatorianos a modificar hábitos. Como en la pandemia del covid, se vive una segunda nueva normalidad en el país.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Entre los cambios que imponen los apagones, está la modalidad de estudiar e interactuar.](https://www.elcomercio.com/wp-content/uploads/2024/11/apagones-estudios.jpg)
-
-Han pasado poco más de cuatro años cuando saltó la **pandemia del covid-19** y el mundo comenzó a hablar de “**una nueva normalidad**“. A partir de una crisis, las personas debían acostumbrarse a nuevas realidades, nuevas formas de relacionarse y de producir. Ahora, los **cortes de luz** de hasta 14 horas, que disminuyen y luego vuelven a aumentar, han afectado a muchos. Se ha abierto un debate alrededor de una pregunta: ¿se puede decir que los **apagones** generan una s**egunda nueva normalidad en el país**?
-
-### Más noticias
-
-* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
-* [Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores](https://www.elcomercio.com/actualidad/quito/alarmantes-indicadores-calidad-aire-quito-uso-generadores.html "Alarmantes indicadores sobre la calidad del aire en Quito por el uso de generadores")
-* [El ecuatoriano compra solo ciertos alimentos por los cortes de luz](https://www.elcomercio.com/actualidad/negocios/como-conservar-alimentos-durante-cortes-luz-ecuador.html "El ecuatoriano compra solo ciertos alimentos por los cortes de luz")
-
-Tal como en la pandemia, las compras a mansalva
------------------------------------------------
-
-Tal como en la **pandemia**, los cortes de luz **modificaron hábitos** que impactaron en los **bolsillos** y no fruto de la **crisis económica** necesariamente, sino porque objetos que nadie se había imaginado **se convirtieron de golpe en productos de primera y vitalísima necesidad**. Se compraba a mansalva **mascarillas**, **alcohol en gel**, **desinfectantes**, comida -perecible y no- y, en consecuencia, se pertrechaban de **papel higiénico**[.](https://es.wikipedia.org/wiki/COVID-19 "https://es.wikipedia.org/wiki/COVID-19")
-
-Con los cortes de luz hubo el mismo **fenómeno de consumo**, a pesar del impacto que provocará en la economía real. Aunque las preferencias fueron otras: generadores de luz, paneles solares, linternas, baterías, focos recargables. En las casas donde todo es eléctrico, compraron cocinetas a gas, pese a la restricción del uso de este combustible para ciertos edificios. Las UPS para dotar de energía a los routers de internet se convirtieron en la sensación.
-
-La gran diferencia: la tecnología impedida
-------------------------------------------
-
-**Ximena Aguinaga** es una profesora que recuerda muy bien cómo en el 2020 debieron ajustarse a la tecnología. Hubo que crear **aulas virtuales.** Ahora, en cambio, deben readaptarse a lo **analógico**.
-
-Y en este sentido, las respuestas han sido diferentes. **“Todos fuimos estudiantes con pizarra, con tizas o marcador, y el mundo sigue”.** Sin embargo, para la **nueva generación** de docentes, fue como una caída, un retroceso tan grande que no se podía hacer nada.
-
-En el centro educativo en que trabaja se permite tener el celular a los estudiantes del Bachillerato. Sin embargo, Aguinaga ve que los apagones derivaron en algo _virtuoso_: los jóvenes comenzaron a **interactuar** más, a **charlar**, incluso a **jugar**.
-
-“Como **docente** y como **mamá**, creo que ha sido **maravilloso** porque **todo lo que se conectaron desde la pandemia, debieron desconectarse**“, dice Aguinaga, con una mirada positiva la manera como reaccionaron los adolescentes ante los apagones.
-
-Soluciones ante los apagones
-----------------------------
-
-Aguinaga no se anima a decir que se trate de una nueva normalidad. Tampoco lo hace la psicóloga Gisella Echeverría. Para que sea una **nueva normalidad** debiera pasar más el tiempo, sin embargo, hay que pensar en las soluciones ante un posible síndrome de abstinencia tecnológica.
-
-En un mundo **hipertecnologizado** e **hipercomunicado** \-dice Echeverría-; su ausencia es un problema. Sin embargo, lo importante es **aceptar la realidad y encontrar las soluciones**.
-
-**“La fuente mayor de sufrimiento es la falta de aceptación de la realidad**. En la medida en que más pronto aceptemos que esto ees algo con lo que debemos vivir, quién sabe por cuánto tiempo, hay que aceptar la realidad y enfocarse en las soluciones”, añade Echeverría.
-
-Si bien en mucho estas soluciones dependen de algunos objetos materiales, se puede fortalecer el vínculo humano. “Se puede aprovechar esta escasez de luz para generar un espacio de comunicación entre la familia, que es algo que habitualmente se pierde cuando estamos conectados a los dispositivos. Volver a tener la capacidad de contar historias, de leer libros, de **llenarnos de buenas palabras**“. 
-
-La no tan fácil “nueva normalidad”
-----------------------------------
-
-Sin embargo, lo que complica son los **cambios repentinos en los horarios de cortes**, que hacen que la incertidumbre sea mayor y **se compliquen las adaptaciones**. Así, muchos pueden contar de las tensiones entre vecinos.
-
-Los chats barriales en **WhatsApp**, por ejemplo, han sido los lugares de las disputas entre aquellos que **tienen generador y los que no**. Otros, en cambio, exigen que se implementen cambios en los conjuntos.
-
-Lo que nadie se animó a decir, como en la pandemia, es que de los apagones saldremos **mejores seres humanos.**  
-
-Miles de personas exigen la dimisión del presidente de Valencia
-===============================================================
-
-La indignación de los valencianos se debe a la tardanza de información del peligro y la falta de respuesta oportuna de los gobiernos regional y central.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Una multitud se concentró en Valencia para exigir la salida del presidente Mazón.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-35-1.jpg)
-
-**Miles de personas** participaron hoy 9 de noviembre del 2024, contra el presidente de la región mediterránea española de **Valencia**, **Carlos Mazón.** Los valencianos exigen su **dimisión** por la **catástrofe** causada por la **DANA**, las lluvias torrenciales del 29 de octubre de este año, y la **tardanza**, según los convocantes, en avisar a la población del peligro.
-
-Más noticias
-------------
-
-* [La vida en Valencia a 10 días de la DANA](https://www.elcomercio.com/actualidad/mundo/vida-valencia-10-dias-dana.html "La vida en Valencia a 10 días de la DANA")
-* [Justicia de Valencia remite al Supremo una demanda por ‘inacción’ del Gobierno en la DANA](https://www.elcomercio.com/actualidad/mundo/justicia-valencia-remite-supremo-una-demanda-inaccion-gobierno-dana.html "Justicia de Valencia remite al Supremo una demanda por ‘inacción’ del Gobierno en la DANA")
-* [Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA](https://www.elcomercio.com/actualidad/mundo/dana-valencia-comunidad-espanola-latina-ecuatoriano.html "Ecuatoriano ayuda a limpiar las calles de Valencia por la DANA")
-
-Miles piden la renuncia del presidente de Valencia
---------------------------------------------------
-
-Los participantes –**130 000 personas**, según la Delegación del Gobierno en la región- respondieron al llamado realizado por organizaciones sociales, cívicas y sindicatos de izquierda con el lema ‘Mazón, dimisión’. El temporal dejó al menos **214 muertos**, decenas de **desaparecidos**, miles de **damnificados** y daños materiales multimillonarios en **75 municipios de la provincia** costera de Valencia.
-
-Al término de la **marcha**, un grupo de manifestantes protagonizó **enfrentamientos** con la **Policía Nacional** en el centro de la ciudad. Hasta entonces, la manifestación se había desarrollado **sin incidentes** de gravedad, a excepción del lanzamiento de algunas bengalas y barro contra el Consistorio, tras el arranque de la cabecera, y que requirió la intervención de las **unidades antidisturbios de la Policía Nacional.** También lanzaron barro y pintura contra el Palau de la Generalitat, sede del Gobierno regional.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-33-1-1024x683.jpg)
-
-Valencia contra Mazón
----------------------
-
-En la ciudad de **Valencia**, la pancarta de cabecera, con el lema de la manifestación, incluía una **imagen de Mazón cabeza abajo** y ataviado con el chaleco de emergencias. El manifiesto de la movilización recoge los reclamos de las 65 entidades convocantes, apoyadas por otras 83.
-
-Los asistentes tanto de la ciudad de Valencia como de municipios castigados por las inundaciones corearon gritos de **“asesino” y “dimisión”**. Llevaban carteles con mensajes que denunciaban la tardanza con que llegaron los avisos de peligro a la población[.](https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a "https://es.wikipedia.org/wiki/Inundaciones_de_la_DANA_de_2024_en_Espa%C3%B1a")
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-34-2-1024x683.jpg)
-
-¿La no politización de la marcha?
----------------------------------
-
-Los **organizadores** pidieron que la manifestación transcurriera en silencio, **sin ropa manchada de barro y se evitaran mensajes violentos.**
-
-**Beatriz Cardona,** una de las portavoces de esta protesta, explicó que “**quien quiera aprovecharse políticamente de la situación, se ha equivocado de manifestación”.**
-
-Según progresan la búsqueda de desaparecidos, la limpieza y la reconstrucción de los daños del desastre natural, **avanza también la confrontación política** sobre la gestión de la catástrofe.
-
-El **Ejecutivo central** y el **gobierno valenciano** se han **cruzado acusaciones de tardanza** sobre cuándo se comunicó la previsión de lluvias torrenciales y cuándo se avisó a la población para que permaneciera en lugares seguros.
-
-No obstante, **Carlos Mazón** dijo hoy que la**s responsabilidades políticas “tocarán en su momento”**, pues la prioridad es atender a los afectados. Igualmente, el ministro del Interior, Fernando Grande-Marlaska, rechazó entrar en “polémicas”.
-
-Noboa tilda de “absurdo” el rechazo a la Cumbre Iberoamericana del Comité que apoya a Glas
-==========================================================================================
-
-Glas fue uno de los hombres fuertes del Gobierno de Rafael Correa (2007-2017) y fue vicepresidente.
----------------------------------------------------------------------------------------------------
-
-![Daniel Noboa, participó de la sesión solemne por los 104 años de cantonización de la ciudad de Manta.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-19-1.jpg)
-
-El presidente de Ecuador, **Daniel Noboa**, tildó el viernes 8 de noviembre de 2024 de “absurdo” el rechazo a la realización de la XXIX Cumbre Iberoamericana de Jefes de Estado y de Gobierno, prevista para la próxima semana en la ciudad de Cuenca, por parte del Comité Internacional para la Libertad de Jorge Glas, exvicepresidente de Rafael Correa.
-
-“Ya estaban tardando… Ahora resulta que no quieren que la XXIX Cumbre Iberoamericana sea en Cuenca. Quieren que el reconocimiento internacional, el turismo y la reactivación económica vaya hacia otro lado”, escribió Noboa en su cuenta de la red social X.
-
-“Rechazar la Cumbre por un delincuente, no solo es absurdo, sino que demuestra un claro desprecio por el bienestar de Cuenca y de los ecuatorianos, pero todos sabemos cómo son”, agregó el mandatario sin nombrar explícitamente a Glas, condenado por corrupción y detenido en la Embajada de México en Quito el pasado 5 de abril cuando acaba de recibir asilo diplomático.
-
-Más temprano, el comité que exige la libertad del exvicepresidente dijo en un comunicado que le resultaba “muy extraño, y contrario a los postulados que el foro iberoamericano enarbola, llevar adelante una cumbre bajo los auspicios de un gobierno responsable de violaciones de las más mínimas normas de convivencia entre Estados”.
-
-Y añadió que el Gobierno “mantiene como secuestrado a una persona que está bajo la protección del derecho de asilo”, en referencia a la permanencia del exvicepresidente en La Roca, la cárcel de máxima seguridad de Ecuador, a la que fue llevado tras la incursión policial en la Embajada mexicana.
-
-El Comité instó a que no pase desapercibida en el foro “la más grave afrenta cometida en nuestra región en los últimos tiempos en contra de los principios y propósitos de la Carta de las Naciones Unidas”.
-
-Además, urgió a la Secretaría General Iberoamericana (Segib) a que interponga “sus buenos oficios” para garantizar la integridad física y la vida de Glas, y para respaldar la solicitud que el Gobierno mexicano hizo, a través de la Embajada de Suiza, para que se le otorgue un salvoconducto y se respete su estatus de asilado diplomático.
-
-El escrito fue firmado, entre otros por Adolfo Pérez Esquivel, premio Nobel de la Paz; el exjuez español Baltazar Garzón, el exvicepresidente del Gobierno español Pablo Iglesias y otros miembros de Podemos como su secretaria general Ione Belarra y la eurodiputada y exministra Irene Montero.
-
-También figura el excanciller peruano Héctor Béjar y el exministro boliviano Sacha Llorenti, entre otros integrantes de la izquierda de los países de Hispanoamérica.
-
-Glas fue uno de los hombres fuertes del Gobierno de Rafael Correa (2007-2017) y ocupó el cargo de vicepresidente entre 2013 y 2017, así como durante los primeros meses del gobierno de Lenín Moreno (2017-2021), hasta que comenzaron las investigaciones en su contra, imputaciones y acusaciones que siempre ha rechazado al declararse un perseguido político.
-
-En el momento de su detención en la Embajada de México en Quito, Glas tenía pendiente terminar de cumplir una sentencia de ocho años de cárcel por dos condenas por corrupción dictadas en 2017 y 2020, por las que ya había purgado alrededor de cinco años cuando salió en libertad a finales de 2022 por orden de un juez que este año fue condenado a dos años de prisión por prevaricación en esa decisión.
-
-La orden judicial de detención contra Glas se emitió en el marco de un tercer proceso penal en su contra por presunto peculado (malversación de fondos públicos) en las obras de reconstrucción tras el terremoto de 2016.
-
-México y Ecuador se han contrademandado ante la Corte Internacional de Justicia por los hechos de abril, con acusaciones mutuas de haber transgredido convenios y normas internacionales.
-
-Más diseñadores internacionales se suman al ‘Quito Fashion Week’
-================================================================
-
-Durante el encuentro se presentarán las tendencias de la moda global en Quito.
-------------------------------------------------------------------------------
-
-![La Quito Fashion Week se llevará a cabo del 28 de noviembre y el 3 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/quito-fashion-week-quito-El-Comercio.jpg)
-
-La diseñadora colombiana **Cintia Mosquera**, el italo-helvético **Giovanni LoPresti** y la panameña **Zunilda Gutiérrez** se suman a los nombres que participarán en la primera edición de la ‘**Quito Fashion Week**’, la semana de la moda de la capital ecuatoriana, donde también presentarán colecciones [Custo Barcelona](https://es.wikipedia.org/wiki/Custo_Dalmau "https://es.wikipedia.org/wiki/Custo_Dalmau") y **[Ágatha Ruiz de la Prada](https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-ecuador.html "https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-ecuador.html")**.
-
-“Los diseñadores presentarán las tendencias de la moda global en Quito, consolidando el evento como un verdadero encuentro de culturas y estilos”, expresaron los organizadores del evento este viernes en un comunicado.
-
-### Más noticias
-
-* **[¿Quién es Ágatha Ruiz de la Prada?](https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html "https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html")**
-* **[¿Qué colores combinan con vino tinto?](https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html "https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html")**
-
-Custo Barcelona, del diseñador español Custo Dalmau, regresará a Ecuador tras su participación el año pasado en la ‘Quito Fashion Night’, y la diseñadora española Agatha Ruíz de la Prada llevará por primera vez su estilo colorido y creatividad a la pasarela quiteña.
-
-El evento ha evolucionado de ser una única velada para convertirse en un festival de varios días, que se celebrará entre el 28 de noviembre y el 3 de diciembre de 2024 en la capital.
-
-Sus asistentes podrán disfrutar de desfiles de alta moda, espacios de conexión y aprendizaje y ‘pop ups’ (tiendas efímeras) de marcas del diseño global.
-
-Diseño nacional estará presente
--------------------------------
-
-A su vez formarán parte del evento representantes del talento ecuatoriano con diseñadores nacionales como Gustavo Moscoso, Milú Espinoza, y Nancy Espinoza de Ámbar & Arena.
-
-La principal cita de la moda en Ecuador contará también con invitados especiales como José Fortaleza, editor la edición para Latinoamérica de la revista Vogue, y Claudia Zuleta, reconocida diseñadora, directora creativa y estilista de celebridades.
-
-Junto a otros expositores de renombre, participarán en los espacios ‘3C Conferencias, Charlas y Conversatorios’, donde compartirán su visión sobre el futuro de la moda.
+Es necesario crear tantos **incentivos** para el **transporte** aéreo interno seguro y rápido, como los que existen para el caótico **transporte terrestre**.
