@@ -48,10 +48,10 @@ Free UK Shipping with orders over £50
     * Apparel to propel you forward
         
     * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
+    * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     * [CAPS](https://puresportcbd.com/en-us/collections/caps)
     * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
     * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
-    * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
     * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
     * [COLLECTIONS](https://puresportcbd.com/en-us#)
@@ -152,10 +152,10 @@ Free UK Shipping with orders over £50
         Apparel to propel you forward
         
         * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
+        * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
         * [CAPS](https://puresportcbd.com/en-us/collections/caps)
         * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
         * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
-        * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
         * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
         * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
         * [COLLECTIONS](https://puresportcbd.com/en-us#)
