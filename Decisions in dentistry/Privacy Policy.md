@@ -182,6 +182,16 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[EARN 2 CEUs: Unraveling the Impact of Tooth Wear o ![EARN 2 CEUs: Unraveling the Impact of Tooth Wear on Oral Health⁠
+Explore the complexities of tooth wear and its profound effects on oral health, esthetics, and overall well-being.⁠
+By Bright Chang, DMD, MS⁠
+⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCMl9FZM5k-/) 
+
 [Ensure the safety of your operatory with these ess ![Ensure the safety of your operatory with these essential disinfection tips for clinical surfaces. Link in bio.⁠
 ⁠
 ⁠
@@ -219,13 +229,6 @@ You're going to LOVE how much you learn!⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCB-OCySqtu/) 
-
-[Licensure compacts can significantly expand your c ![Licensure compacts can significantly expand your career options, allowing you to practice across state lines with ease. Learn how these compacts impact your mobility and ensure smoother transitions in the evolving world of oral healthcare. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB_nHvaMiC0/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
