@@ -176,7 +176,7 @@
     * [Marvel Cards](https://www.pricecharting.com/category/marvel-cards)
     * [Magic Cards](https://www.pricecharting.com/category/magic-cards)
     * [One Piece Cards](https://www.pricecharting.com/category/one-piece-cards)
-    * [Star Wars CCG Cards](https://www.pricecharting.com/category/star-wars-cards)
+    * [Star Wars Cards](https://www.pricecharting.com/category/star-wars-cards)
     * [YuGiOh Cards](https://www.pricecharting.com/category/yugioh-cards)
 * [Comics](https://www.pricecharting.com/category/comic-books) [Comics](#)
     * [All Comics](https://www.pricecharting.com/category/comic-books)
