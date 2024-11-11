@@ -31,6 +31,10 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Conditions of Use
 
+[×](#)
+
+Veterans Day: World Headquarters will be closed on November 11 in observance of the Veterans Day holiday.
+
 Conditions of Use
 =================
 
