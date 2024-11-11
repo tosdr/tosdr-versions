@@ -1,10 +1,10 @@
-HOLIDAY SEASON SALE!
+11.11 SUPER SALE!
 
-20% Off + 10% **Cashback**
+30% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : HDEALS20
+Use Code : NOV11SALE
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
@@ -310,7 +310,7 @@ Javascript is not currently enabled in your browser.
   
 You must [Enable Javascript](http://support.google.com/bin/answer.py?hl=en&answer=23852)to run this web page correctly.
 
-   
+ 
 
 ![BPC-icon-72](https://budgetpetcare.b-cdn.net/Content/images/favicon_icon/BPC-ICON-72.webp)
 
