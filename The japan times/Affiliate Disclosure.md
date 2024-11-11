@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
 
-[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+[North Korea launches GPS interference, affecting airplanes and ships](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
 
-  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+  [![Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433140.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.")](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
 
 Editors' Picks
 --------------
@@ -182,11 +182,11 @@ By [Mai Yoshikawa](https://www.japantimes.co.jp/author/1728/mai-yoshikawa/ "Mai 
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+[North Korea launches GPS interference, affecting airplanes and ships](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
 
-By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "Aishwarya KUMAR")  
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
+  [![Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433140.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Houses in the countryside outside the North Korean city of Kaesong are seen across the Demilitarized Zone (DMZ) from the Ganghwa Peace Observatory, on the South Korean island of Ganghwa on Friday.")](https://www.japantimes.co.jp/news/2024/11/09/asia-pacific/north-korea-gps-jamming/ "North Korea launches GPS interference, affecting airplanes and ships")
 
 Podcast
 -------
@@ -207,9 +207,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Philippines seeks to protect U.S. economic ties under Trump](https://www.japantimes.co.jp/news/2024/11/11/asia-pacific/politics/philippines-us-economic-trump/ "Philippines seeks to protect U.S. economic ties under Trump")
+[Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
 
-39 mins ago
+49 mins ago
 
-[How a Trump presidency could lead to a purge at the Pentagon](https://www.japantimes.co.jp/news/2024/11/11/world/politics/trump-presidency-purge-pentagon/ "How a Trump presidency could lead to a purge at the Pentagon")
-
-1 hours ago
-
-[Amid rising costs, universities try to help students study abroad](https://www.japantimes.co.jp/news/2024/11/11/japan/society/japan-university-study-abroad-weak-yen/ "Amid rising costs, universities try to help students study abroad")
+[Japan weighs mandatory allergen labeling for cashew nuts](https://www.japantimes.co.jp/news/2024/11/11/japan/science-health/cashew-nuts-allergy/ "Japan weighs mandatory allergen labeling for cashew nuts")
 
 1 hours ago
 
-[BOJ divided on rate hike timing, October summary shows](https://www.japantimes.co.jp/business/2024/11/11/economy/boj-interest-rate-opinions/ "BOJ divided on rate hike timing, October summary shows")
+[Trump tariffs could have a significant impact on Japanese exports](https://www.japantimes.co.jp/business/2024/11/11/economy/trump-japan-economy/ "Trump tariffs could have a significant impact on Japanese exports")
 
 1 hours ago
 
-[Emperor Naruhito and Empress Masako attend annual marine convention](https://www.japantimes.co.jp/news/2024/11/11/japan/japan-imperial-couple-marine-convention/ "Emperor Naruhito and Empress Masako attend annual marine convention")
+[Ishiba holds on to PM role as tricky parliamentary session looms](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
 
 1 hours ago
+
+[Taiwan braces for Trump’s return, but much will depend on his team](https://www.japantimes.co.jp/news/2024/11/11/asia-pacific/politics/taiwan-us-relations-trump/ "Taiwan braces for Trump’s return, but much will depend on his team")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
