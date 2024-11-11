@@ -1757,6 +1757,7 @@ If you have questions about this notice, or you want to obtain more information 
 Main navigation
 ---------------
 
+* [Sitemap](https://www.bms.com/site-map.html)
 * [Home](https://www.bms.com/)
 * [Patients & caregivers](https://www.bms.com/patient-and-caregivers.html)
 * [Healthcare providers](https://www.bms.com/healthcare-providers.html)
