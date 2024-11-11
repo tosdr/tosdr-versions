@@ -383,8 +383,17 @@ We're here to help anytime.
 
 © 2024 Savvy Smart and Deals Ltd, [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
+* American Express
+* Apple Pay
+* Diners Club
+* Discover
+* Meta Pay
+* Google Pay
+* Mastercard
 * PayPal
+* Shop Pay
 * Venmo
+* Visa
 
 Login
 -----
