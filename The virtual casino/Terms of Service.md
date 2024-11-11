@@ -13,11 +13,11 @@ Last updated: 30 AUGUST 2024
 General Terms & Conditions for Membership
 -----------------------------------------
 
-By playing at Vegas Strip, you represent and warrant that you fully understand and agree to comply with these Terms and Conditions.
+By playing at Virtual, you represent and warrant that you fully understand and agree to comply with these Terms and Conditions.
 
-Vegas Strip is the trade name of the Company, and you obtain no rights to such terms, nor any other terms, graphics, text, concepts or methodologies, by using the Web site and the material contained therein.
+Virtual is the trade name of the Company, and you obtain no rights to such terms, nor any other terms, graphics, text, concepts or methodologies, by using the Web site and the material contained therein.
 
-Mentioned below are the Vegas Strip terms. Read them closely to ensure that you completely understand the conditions and are ready to abide by them. Seek the advice of a local legal official in case you have question regarding your rights and obligations arising from this agreement. An alteration in the casino terms at any time is the Vegas Strip prerogative. Consulting the Website and/or the Help file once every three months is strongly suggested.
+Mentioned below are the Virtual terms. Read them closely to ensure that you completely understand the conditions and are ready to abide by them. Seek the advice of a local legal official in case you have question regarding your rights and obligations arising from this agreement. An alteration in the casino terms at any time is the Virtual prerogative. Consulting the Website and/or the Help file once every three months is strongly suggested.
 
 We utilize the most modern and peerless methods to maintain and secure your sensitive and personal data, thereby ensuring the Player protection. These include transmission of sensitive details to and from the client application, encryption of the user name and password information, and transfer of data from our servers.
 
@@ -53,7 +53,7 @@ We utilize the most modern and peerless methods to maintain and secure your sens
 15. By accepting any prize and/or winnings from the Casino, you consent to the use of your name for advertising and promotional purposes without additional compensation except where prohibited by law.
 16. If you have any dispute regarding the outcome of any casino game, you must submit your complaint to the Company in writing within fourteen (14) days. In the event of a discrepancy between the result showing on your Casino software and the Casino's server software, the result showing on the Casino's server software shall be the official and governing result of the game.
 17. The liability of taxes and fees applicable to winnings resulting from use of the software rests with the Player. The Player is expected to maintain and report the winnings to the concerned authorities, in case the prizes are taxable in their jurisdiction.
-18. Before a withdrawal can be processed, the player may be required to provide a government-issued photo ID and a clear selfie of themselves. We might also ask the player to verify their crypto wallet address by making a small crypto deposit before any payout can be sent to said crypto wallet address. Vegas Strip also reserves the right to request additional information to validate any of its users accounts.
+18. Before a withdrawal can be processed, the player may be required to provide a government-issued photo ID and a clear selfie of themselves. We might also ask the player to verify their crypto wallet address by making a small crypto deposit before any payout can be sent to said crypto wallet address. Virtual also reserves the right to request additional information to validate any of its users accounts.
 19. The Casino reserves the right, in its sole discretion and without notice to you, to add new activities or games to the Casino or to discontinue any activity or game of the Casino at any time.
 20. You are solely responsible for keeping your account number and password secure and secret. You shall not allow any other person or third party including, without limitation, any minor, to use or reuse your account, access and/or use any materials or information from the Web site, accept any prize, or participate in the games. You are solely responsible for any deposits and/or losses that may occur on your account.
 21. The Casino shall not be required to maintain user names or passwords if the Player misplaces, forgets, loses, or is otherwise unable to enter the Casino because of anything other than the Casino's error.
@@ -91,7 +91,7 @@ Please follow this link [here](https://www.thevirtualcasino.com/allowed-countri
 
 ### Marketing Communications
 
-Your privacy is important to us. You may choose to unsubscribe from marketing communications, including email, text messages or phone calls at any time. Please note that you will still receive all transactional messages related to your account even if you unsubscribe from marketing communications. We do not send nor condone the sending of unsolicited communications. If you think you are receiving unsolicited email from our company, please report this to [help@vegasstripcasino.com](mailto:help@vegasstripcasino.com).
+Your privacy is important to us. You may choose to unsubscribe from marketing communications, including email, text messages or phone calls at any time. Please note that you will still receive all transactional messages related to your account even if you unsubscribe from marketing communications. We do not send nor condone the sending of unsolicited communications. If you think you are receiving unsolicited email from our company, please report this to [help@thevirtualcasino.com](mailto:help@thevirtualcasino.com).
 
 ### Third Party Communications
 
@@ -100,34 +100,34 @@ The Casino does not have control over third party marketing communications, incl
 **By creating an account and playing at the casino you are agreeing to the terms and conditions of the casino as stated above.  
 **
 
-### Inactive Vegas Strip Account Policy
+### Inactive Virtual Account Policy
 
-A Vegas Strip Account gives you Vegas Strip-wide access to most Vegas Strip products, such as Games, Daily Free Spins, Weekly Insurance  and others using the same username and password.
+A Virtual Account gives you Virtual-wide access to most Virtual products, such as Games, Daily Free Spins, Weekly Insurance  and others using the same username and password.
 
-An inactive Vegas Strip Account is an account that has not been used within a 2-year period. Vegas Strip reserves the right to delete an inactive Vegas Strip Account and its activity and data if you are inactive across Vegas Strip for at least two years.
+An inactive Virtual Account is an account that has not been used within a 2-year period. Virtual reserves the right to delete an inactive Virtual Account and its activity and data if you are inactive across Virtual for at least two years.
 
-Vegas Strip also reserves the right to delete data in a product if you are inactive in that product for at least two years. This is determined based on each product’s inactivity policies.
+Virtual also reserves the right to delete data in a product if you are inactive in that product for at least two years. This is determined based on each product’s inactivity policies.
 
-**How Vegas Strip defines activity**
+**How Virtual defines activity**
 
-A Vegas Strip Account that is in use is considered active. The activity might include these actions you take when you sign in or while you’re signed in to your Vegas Strip Account:
+A Virtual Account that is in use is considered active. The activity might include these actions you take when you sign in or while you’re signed in to your Virtual Account:
 
-* Log in to the Vegas Strip Lobby
-* Play a game at Vegas Strip
-* Make a deposit at Vegas Strip
+* Log in to the Virtual Lobby
+* Play a game at Virtual
+* Make a deposit at Virtual
 
-Vegas Strip Account activity is demonstrated by account and not by device. You can take action on any surface where you’re signed in to your Vegas Strip Account, for example, on your phone.
+Virtual Account activity is demonstrated by account and not by device. You can take action on any surface where you’re signed in to your Virtual Account, for example, on your phone.
 
-**What happens when your Vegas Strip Account is inactive**
+**What happens when your Virtual Account is inactive**
 
-When your Vegas Strip Account has not been used within a 2-year period, your Vegas Strip Account, is then deemed inactive, and all of its content and data may be deleted. Before this happens, Vegas Strip will give you an opportunity to take action in your account by:
+When your Virtual Account has not been used within a 2-year period, your Virtual Account, is then deemed inactive, and all of its content and data may be deleted. Before this happens, Virtual will give you an opportunity to take action in your account by:
 
-* Sending email notifications to your Vegas Strip Account
+* Sending email notifications to your Virtual Account
 * Sending notifications to your recovery email, if any exists
 
-Vegas Strip products reserve the right to delete your data when your account has not been used within that product for a 2-year period.
+Virtual products reserve the right to delete your data when your account has not been used within that product for a 2-year period.
 
-September 1, 2023 is the earliest a Vegas Strip Account will be deleted due to this policy
+September 1, 2023 is the earliest a Virtual Account will be deleted due to this policy
 
 Rules
 -----
@@ -154,9 +154,9 @@ Unless stated otherwise, all No Deposit Bonuses are subject to the following ter
 16. If you use any bonus to accumulate a feature guarantee(s), or extra bonus rounds, and use a subsequent deposit and or bonus to redeem built-up feature bonus rounds, the winnings coming from said bonus round(s) shall void all or any winnings. No deposits will be refunded.
 17. In the event that a Player redeems a no-deposit promotional offer that he/she is not entitled to, any winnings generated from that promotion will be voided.
 18. The Player is entitled to only one free chip in between deposits; any winnings resulting from multiple free chips will be void. For example, should a Player redeem two free chips in a row, he/she will not be able to withdraw any winnings generated by playing on said chip.
-19. If a player has never deposited in Vegas Strip, to ensure a secured and lightning-fast payout process, winnings from No Deposit Bonuses will only be paid via one of the largest and easy-to-use cryptocurrencies: Litecoin (LTC).
+19. If a player has never deposited in Virtual, to ensure a secured and lightning-fast payout process, winnings from No Deposit Bonuses will only be paid via one of the largest and easy-to-use cryptocurrencies: Litecoin (LTC).
 20. For security purposes, to make sure the player is genuine and who they claim to be, the player may be asked to verify their Litecoin (LTC) crypto wallet address by making a small LTC verification deposit before any payout from a free bonus can be issued.
-21. If any cryptocurrency other than LTC is used to make the verification deposit, due to our third party provider's technical limitations regarding minimum withdrawal amount, Vegas Strip reserves the right to consider the deposit as real money deposit and no refund shall be issued.
+21. If any cryptocurrency other than LTC is used to make the verification deposit, due to our third party provider's technical limitations regarding minimum withdrawal amount, Virtual reserves the right to consider the deposit as real money deposit and no refund shall be issued.
 
 ### Weekly Cashback
 
@@ -244,7 +244,7 @@ SLOT TOURNAMENT TERMS & CONDITIONS
   
 2\. Any player that registers multiple casino accounts (including but not limited to accounts registered with varying details) to make numerous entries into slot tournaments will forfeit any winnings.  
   
-3\. Vegas Strip reserves the right to limit the eligibility of customers to participate in any tournaments, for any reason whatsoever without notice to the player. Players excluded from redeeming bonuses cannot enter any slot tournaments.  
+3\. Virtual reserves the right to limit the eligibility of customers to participate in any tournaments, for any reason whatsoever without notice to the player. Players excluded from redeeming bonuses cannot enter any slot tournaments.  
   
 4\. The tournament buy-in will be deducted from your real money account balance. Bonuses or winnings from a previous tournament cannot be used for buy-ins to slot tournaments. Tournament winnings generated from an entry, a re-buy or an add-on paid for with a No Deposit Bonus or coming from a previous tournament will be voided.  
   
