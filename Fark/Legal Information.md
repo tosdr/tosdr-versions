@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+The next best thing to UltraFark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Because they've already died and gone to porn heaven](https://www.fark.com/goto/13458492) ( [msn.com](https://www.fark.com/goto/13458492) ) » [(7 comments)](https://www.fark.com/comments/13458492/Because-theyve-already-died-gone-to-porn-heaven) |
-| [Discussion](https://www.fark.com/discussion/) | [Thanks to the politicking done to get a Hendrick Chevy into the final four, this thread is \[not\] going to the Politics tab. The worst NASCAR Cup Series season ever ends at Phoenix, starting at 3 PM ET on NBC](https://www.fark.com/goto/13457920) ( [nbcsports.com](https://www.fark.com/goto/13457920) ) » [(214 comments)](https://www.fark.com/comments/13457920/Thanks-to-politicking-done-to-get-a-Hendrick-Chevy-into-final-four-this-thread-is-not-going-to-Politics-tab-The-worst-NASCAR-Cup-Series-season-ever-ends-at-Phoenix-starting-at-3-PM-ET-on-NBC) |
-| [Sports](https://www.fark.com/sports/) | [Lionel Messi has no more goals for this MLS season](https://www.fark.com/goto/13458262) ( [espn.com](https://www.fark.com/goto/13458262) ) » [(12 comments)](https://www.fark.com/comments/13458262/Lionel-Messi-has-no-more-goals-for-this-MLS-season) |
-| [Business](https://www.fark.com/business/) | [After you win the lottery, this is how you deal with friends and relatives asking for money](https://www.fark.com/goto/13458508) ( [cnbc.com](https://www.fark.com/goto/13458508) ) » [(3 comments)](https://www.fark.com/comments/13458508/After-you-win-lottery-this-is-how-you-deal-with-friends-relatives-asking-for-money) |
-| [STEM](https://www.fark.com/stem/) | [Just in time for the start of 2025: Interstellar gateway out of the galaxy discovered](https://www.fark.com/goto/13458406) ( [futurism.com](https://www.fark.com/goto/13458406) ) » [(10 comments)](https://www.fark.com/comments/13458406/Just-in-time-for-start-of-2025-Interstellar-gateway-out-of-galaxy-discovered) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Venom: The Last Dance hangs onto #1 with $14 million as Heretic is a spirited #2 with $11 million. Best Christmas Pageant Ever jingles few bells at #3 with $10 million, The Wild Robot making the circuit at #4 with $6 million, Smile 2 smirking at #5](https://www.fark.com/goto/13458164) ( [deadline.com](https://www.fark.com/goto/13458164) ) » [(9 comments)](https://www.fark.com/comments/13458164/Venom-The-Last-Dance-hangs-onto-1-with-$14-million-as-Heretic-is-a-spirited-2-with-$11-million-Best-Christmas-Pageant-Ever-jingles-few-bells-at-3-with-$10-million-The-Wild-Robot-making-circuit-at-4-with-$6-million-Smile-2-smirking-at-5) |
-| [Fandom](https://www.fark.com/fandom/) | [IGN sinks Mario & Luigi: Brothership](https://www.fark.com/goto/13458098) ( [ign.com](https://www.fark.com/goto/13458098) ) » [(21 comments)](https://www.fark.com/comments/13458098/IGN-sinks-Mario-Luigi-Brothership) |
+| [Main](https://www.fark.com/) | [Prankster convinces teachers in Russia to wear patriotic tin foil hats to protect against 'NATO satellites'](https://www.fark.com/goto/13458598) ( [msn.com](https://www.fark.com/goto/13458598) ) » [(3 comments)](https://www.fark.com/comments/13458598/Prankster-convinces-teachers-in-Russia-to-wear-patriotic-tin-foil-hats-to-protect-against-NATO-satellites) |
+| [Discussion](https://www.fark.com/discussion/) | [Did you get teeth pulled for dentures? I'm freaking out because that's gonna happen tomorrow. They'll disassemble the bottom half of my face using only local anesthetics, and it has me freaked out. Have you had it done? Talk me down off this ledge](https://www.fark.com/goto/13458520) ( [affordabledentures.com](https://www.fark.com/goto/13458520) ) » [(43 comments)](https://www.fark.com/comments/13458520/Did-you-get-teeth-pulled-for-dentures-Im-freaking-out-because-thats-gonna-happen-tomorrow-Theyll-disassemble-bottom-half-of-my-face-using-only-local-anesthetics-it-has-me-freaked-out-Have-you-had-it-done-Talk-me-down-off-this-ledge) |
+| [Sports](https://www.fark.com/sports/) | [Jared Goff and the Detroit Lions travel to Houston to take on C.J. Stroud and the Texans. Will the Lions win on the road to go up to 8-1? Or will the Texans beat them at home? Sunday Night Football kicks off at 8:20 PM ET on NBC](https://www.fark.com/goto/13457864) ( [espn.com](https://www.fark.com/goto/13457864) ) » [(658 comments)](https://www.fark.com/comments/13457864/Jared-Goff-the-Detroit-Lions-travel-to-Houston-to-take-on-CJ-Stroud-the-Texans-Will-Lions-win-on-road-to-go-up-to-8-1-Or-will-Texans-beat-them-at-home-Sunday-Night-Football-kicks-off-at-820-PM-ET-on-NBC) |
+| [Business](https://www.fark.com/business/) | [The wealthy: EVs are for poors. Besides, we fly private jets](https://www.fark.com/goto/13458604) ( [cnbc.com](https://www.fark.com/goto/13458604) ) » [(1 comment)](https://www.fark.com/comments/13458604/The-wealthy-EVs-are-for-poors-Besides-we-fly-private-jets) |
+| [STEM](https://www.fark.com/stem/) | ["\[S\]itting is best because it offers better access to the anus"](https://www.fark.com/goto/13458486) ( [thehealthy.com](https://www.fark.com/goto/13458486) ) » [(15 comments)](https://www.fark.com/comments/13458486/Sitting-is-best-because-it-offers-better-access-to-anus) |
+| [Entertainment](https://www.fark.com/entertainment/) | ["Grift Men North of Richmond"](https://www.fark.com/goto/13458622) ( [pennlive.com](https://www.fark.com/goto/13458622) ) » [(0 comments)](https://www.fark.com/comments/13458622/Grift-Men-North-of-Richmond) |
+| [Fandom](https://www.fark.com/fandom/) | [IGN sinks Mario & Luigi: Brothership](https://www.fark.com/goto/13458098) ( [ign.com](https://www.fark.com/goto/13458098) ) » [(25 comments)](https://www.fark.com/comments/13458098/IGN-sinks-Mario-Luigi-Brothership) |
 | [D'awww](https://www.fark.com/dawww/) | [When dogs drift](https://www.fark.com/goto/13458198) ( [youtube.com](https://www.fark.com/goto/13458198) ) » [(4 comments)](https://www.fark.com/comments/13458198/When-dogs-drift) |
-| [Food](https://www.fark.com/food/) | [Seaweed fans prove you can eat anything if you boil it long enough](https://www.fark.com/goto/13458256) ( [theguardian.com](https://www.fark.com/goto/13458256) ) » [(13 comments)](https://www.fark.com/comments/13458256/Seaweed-fans-prove-you-can-eat-anything-if-you-boil-it-long-enough) |
-| [Politics](https://www.fark.com/politics/) | [Why wait for the inauguration to dispose of Constitutional order?](https://www.fark.com/goto/13458488) ( [bsky.app](https://www.fark.com/goto/13458488) ) » [(25 comments)](https://www.fark.com/comments/13458488/Why-wait-for-inauguration-to-dispose-of-Constitutional-order) |
+| [Food](https://www.fark.com/food/) | [Rattlesnakes bite and rattlesnake bites](https://www.fark.com/goto/13458524) ( [thetakeout.com](https://www.fark.com/goto/13458524) ) » [(4 comments)](https://www.fark.com/comments/13458524/Rattlesnakes-bite-rattlesnake-bites) |
+| [Politics](https://www.fark.com/politics/) | [Nevertheless, she resisted](https://www.fark.com/goto/13458608) ( [boston.com](https://www.fark.com/goto/13458608) ) » [(4 comments)](https://www.fark.com/comments/13458608/Nevertheless-she-resisted) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 10 2024 19:43:51  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 11 2024 01:42:59  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
