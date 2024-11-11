@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/wijwordenwakker-voor-e-150/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-gaat-enkel-om-onszelf/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -141,6 +141,22 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het lijkt op.. en HET IS ‘ETNISCHE ZUIVERING’
+
+[PS. Israël is zionistisch en Hayo Meyer Zei het al Zionisme…](https://www.wanttoknow.nl/politiek/oorlog/het-lijkt-op-en-het-is-etnische-zuivering/comment-page-1/#comment-626369)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het lijkt op.. en HET IS ‘ETNISCHE ZUIVERING’
+
+[https://nl.wikipedia.org/wiki/Februaristaking Tijdens de oor…](https://www.wanttoknow.nl/politiek/oorlog/het-lijkt-op-en-het-is-etnische-zuivering/comment-page-1/#comment-626368)
 
 ![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
 
@@ -381,22 +397,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is er met ons bloed aan de hand?
 
 [Wanneer ik aan mensen probeer duidelijk te maken dat digital…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wat-is-er-met-ons-bloed-aan-de-hand/comment-page-1/#comment-626337)
-
-![kluut127](https://secure.gravatar.com/avatar/50b61c4097564ca71cf156762f721f76?s=50&d=identicon&r=g)
-
-##### **kluut127** reacts on:
-
-##### Verwar nooit een opleiding met intelligentie..!
-
-[Tja, hélaas moet ik het met het bovenstaande eens zijn! Ik h…](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/comment-page-1/#comment-626336)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### De sluiers worden opgelicht..!
-
-[Trump heeft Jeruzalem toch ook erkent als hoofdstad van Isra…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626335)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
