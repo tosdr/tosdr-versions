@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://www.theepochtimes.com/article/veteran-says-beloved-wifes-cancer-like-fighting-a-war-at-home-5755397)
+    
+    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    
+    [![Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756691-20241107_112218-205x123.jpg.webp)](https://www.theepochtimes.com/article/veteran-says-beloved-wifes-cancer-like-fighting-a-war-at-home-5755397)
 * [Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
     
-    NEW By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    6hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
     
     [![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725945-GettyImages-2170673473-205x123.jpg.webp)](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
 * [S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
     
-    2hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    8hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
     
     [![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757390-GettyImages-2183500888-205x123.jpg.webp)](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
+* [Film Spotlighting China’s Forced Organ Harvesting Shocks New Yorkers](https://www.theepochtimes.com/china/film-spotlighting-chinas-forced-organ-harvesting-moves-viewers-in-new-york-5757346)
+    
+    9hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu) and [Frank Fang](https://www.theepochtimes.com/author/frank-fang)
+    
+    [![Film Spotlighting China’s Forced Organ Harvesting Shocks New Yorkers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Film Spotlighting China’s Forced Organ Harvesting Shocks New Yorkers](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757369-EpochImages-7782806354-205x123.jpg.webp)](https://www.theepochtimes.com/china/film-spotlighting-chinas-forced-organ-harvesting-moves-viewers-in-new-york-5757346)
 * [How a Second Trump Term Could Impact US Production, Prices, and Investments](https://www.theepochtimes.com/article/how-a-second-trump-term-could-impact-us-production-prices-and-investments-5756916)
     
-    4hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    10hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
     [![How a Second Trump Term Could Impact US Production, Prices, and Investments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![How a Second Trump Term Could Impact US Production, Prices, and Investments](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757418-Trump-second-term-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-a-second-trump-term-could-impact-us-production-prices-and-investments-5756916)
 * [Trump Sets Condition for Next Senate Republican Leader](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
     
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Sets Condition for Next Senate Republican Leader](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757547-McConnell-Trump-GettyImages-1257244765KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sets-condition-for-next-senate-republican-leader-5757426)
 * [Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
     
-    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    15hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Will Continue to Push for Ukraine Aid in Next 2 Months Before Leaving, Adviser Says](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757490-GettyImages-2183211687-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-will-continue-to-push-for-ukraine-aid-in-next-2-months-before-leaving-adviser-says-5757391)
 * [3 Teams That Shook Up the College Football Playoff Field](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
     
-    10hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
+    16hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
     
     [![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![3 Teams That Shook Up the College Football Playoff Field](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757476-GettyImages-2183204068-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/3-teams-that-shook-up-the-college-football-playoff-field-5757315)
 * [Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
     
-    11hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    17hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
     
     [![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Small Businesses Focus on Value, Customization to Succeed in Challenging Holiday Sales Season](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757388-GettyImages-2181953428KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/small-businesses-focus-on-value-customization-to-succeed-in-challenging-holiday-sales-season-5757108)
 * [‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
     
-    12hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    18hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
     
     [![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘Forever Chemicals’ in US Drinking Water: A Growing Problem](https://img.theepochtimes.com/assets/uploads/2024/11/09/id5757167-lead22-205x123.jpg.webp)](https://www.theepochtimes.com/article/forever-chemicals-in-us-drinking-water-a-growing-problem-5749777)
-* [Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://www.theepochtimes.com/world/qatar-pauses-its-gaza-cease-fire-mediator-role-5757185)
-    
-    15hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Qatar Pauses Its Gaza Cease-Fire Mediator Role](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757357-GettyImages-72690487-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/qatar-pauses-its-gaza-cease-fire-mediator-role-5757185)
-* [Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://www.theepochtimes.com/us/federal-judge-gives-states-in-censorship-lawsuit-against-us-government-chance-to-make-case-5756886)
-    
-    15hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Gives States in Censorship Lawsuit Against US Government Chance to Make Case](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757345-Vivek-Murthy-LS-205x123.webp)](https://www.theepochtimes.com/us/federal-judge-gives-states-in-censorship-lawsuit-against-us-government-chance-to-make-case-5756886)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
