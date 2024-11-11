@@ -1,6 +1,6 @@
 5.39.5
 
-1731335654552
+1731357137990
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1731336102663
+1731357196543
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1731336047722
+1731357198520
 
 You need to enable JavaScript to run this app.
 
@@ -544,6 +544,81 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Love & Roses + English National Ballet - The Nutcracker November 2024 Competition
+
+**Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
+
+**Competition Details:** To enter the competition:
+
+1. Follow @loveandroses and @englishnationalballet on Instagram
+2. Like and save the post
+3. Tag a friend in the comment section who you would like to take with you
+4. Share to your stories for an extra entry
+
+**Note:** Only the @loveandroses account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Tuesday 12th November at 17:00pm and closes on Tuesday 19th November 2024 at 17:00pm. UK or US residents 18+ only. We will only notify the winner here on Instagram, via our official account @loveandroses. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+**1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
+
+* employees of Lipsy Ltd or its holding or subsidiary companies;
+* employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or
+* members of the immediate families or households of a) and b) above.
+
+**2\. No purchase necessary.** Multiple entries are permitted.
+
+**3\. Start Date/Time:** Tuesday 12th November at 17:00pm
+
+**4\. Closing date/Time:** Tuesday 19th November 2024 at 17:00pm
+
+**5\. To enter:** Entrants must do the following on the official @loveandroses Instagram account between 17:00pm on the start date and 17:00pm on the closing date:
+
+1. Follow @loveandroses and @englishnationalballet on Instagram
+2. Like and save the post
+3. Tag a friend in the comment section who you would like to take with you
+4. Share to their stories for an extra entry
+
+**6\. Late entries:** Entries made after 17:00pm on Tuesday 19th November will not be counted.
+
+**7\. Winner Selection:** One winner will be selected at random by @loveandroses on Wednesday 20th November after 9:00am and contacted directly by @loveandroses Limited via Instagram direct mail before midnight that day.
+
+**8\. Prize Claim:** The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize, and Love & Roses reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Love & Roses does not accept any responsibility if you are not able to claim the prize.
+
+**9\. Substitute Prize:** In the event of unforeseen circumstances, Love & Roses reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+
+**10\. The Prize:** The prize is as follows:
+
+* 2x English National Ballet tickets to see the Nutcracker on the opening night of the 12th December
+* 1x £250 Gift Voucher from Love & Roses
+
+**11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+
+**12\. Prize Delivery:** The prizes will be sent to the winner within 6 months of the competition ending, and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+
+**13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+
+**14\. Residency Requirement:** The winner must be a UK or US resident.
+
+**15\. Final Decision:** Love & Roses' decision is final, and no correspondence will be entered into.
+
+**16\. Allergy Declaration:** The winner must declare any allergies.
+
+**17\. Verification:** Love & Roses reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotion’s entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+
+**18\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+
+**19\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+
+**20\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+
+**21\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Love & Roses. Accordingly, Love & Roses may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Love & Roses as a result thereof.
+
+**22\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+
+**23\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+**24\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
 
 ### Bath & Body Works UK Social Media Competition
 
@@ -2855,7 +2930,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1731336396870
+1731357211182
 
 ### Our Social Networks
 
