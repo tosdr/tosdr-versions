@@ -131,7 +131,7 @@ English
     * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
     * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-is-back-on-kapil-sharmas-show-5-years-after-exit-archana-puran-singh-reacts-9115755.html)
     * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
-    * [CJI Chandrachud](https://www.news18.com/india/never-allow-yourself-ex-cji-on-why-his-father-wont-let-him-sell-pune-flat-watch-9115281.html)
+    * [Kangana Ranaut](https://www.news18.com/movies/kangana-ranaut-got-into-a-fight-at-premiere-of-ranbir-kapoors-saawariya-shocking-claims-surface-9115970.html)
     * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
     * [Gautam Gambhir](https://www.news18.com/cricket/gautam-gambhir-press-conference-live-updates-india-vs-australia-test-series-border-gavaskar-trophy-2024-25-rohit-sharma-virat-kohli-jasprit-bumrah-liveblog-9115758.html)
 * News18 Initiatives
@@ -172,7 +172,7 @@ In Trends:
 * [Champions Trophy](https://www.news18.com/cricket/icc-cancels-upcoming-champions-trophy-event-due-to-scheduling-fiasco-9115165.html)
 * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-is-back-on-kapil-sharmas-show-5-years-after-exit-archana-puran-singh-reacts-9115755.html)
 * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-revealed-why-she-refused-kuch-kuch-hota-hai-role-i-would-have-been-lynched-9114987.html)
-* [CJI Chandrachud](https://www.news18.com/india/never-allow-yourself-ex-cji-on-why-his-father-wont-let-him-sell-pune-flat-watch-9115281.html)
+* [Kangana Ranaut](https://www.news18.com/movies/kangana-ranaut-got-into-a-fight-at-premiere-of-ranbir-kapoors-saawariya-shocking-claims-surface-9115970.html)
 * [Ind vs SA](https://www.news18.com/cricket/series/india-vs-south-africa-2024.html)
 * [Gautam Gambhir](https://www.news18.com/cricket/gautam-gambhir-press-conference-live-updates-india-vs-australia-test-series-border-gavaskar-trophy-2024-25-rohit-sharma-virat-kohli-jasprit-bumrah-liveblog-9115758.html)
 
