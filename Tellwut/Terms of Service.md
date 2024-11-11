@@ -4,7 +4,7 @@
 
 [](https://www.tellwut.com/)
 
-Sign Up Login
+ [![Open Sweepstake](/images/sweepstake.png)](javascript:void(0);)Sign Up Login
 
 EARN
 
@@ -14,7 +14,11 @@ REWARDS LIVE
 
 ×
 
-Welcome to our sweepstake! Here is some important information.
+Welcome to our sweepstakes! Here is some important information:  
+  
+Prizes: 4 winners selected from entries done on weekdays (Mon-Fri). 2 winners selected from entries done over the weekend (Sat-Sun), $25 per winner.  
+  
+How to participate: 1 entry/attempted paid survey. 5 entries for completing a paid survey. 5 entries for referred friend. 1 entry per day for logging in. 1 entry per day for the survey of the day.
 
 Login to Continue Close
 
@@ -375,7 +379,7 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 
 * Surveys: **91,368**
 
-* Voters: **2,950,558**
+* Voters: **2,950,950**
 
 * Light / Dark / Auto
 
