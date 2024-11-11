@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/2972.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -78,7 +78,7 @@ Visitez l'une de nos quelques environ
 
 [![Philips TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0725-CM1-Phillips-Week-KW46-47.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1NDM0N3xpbWFnZS9qcGVnfGFHWXlMMmhrTlM4NE5qQjRORGcwWDBreU5GOHdOekkxWDBOTk1WOVFhR2xzYkdsd2MxOVhaV1ZyWDB0WE5EWXRORGN1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTNNalZmUTAweFgxQm9hV3hzYVhCelgxZGxaV3RmUzFjME5pMDBOeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NGE4Nzg2OWU2YjY3NDMwNDRiOWUxMzU2YmRhZmZkOTZmZjkzODlhNzc4ZTIxYWNjMDNiZTg5Y2JlYjY1ODE0ZA&w=2360&q=75)
 
-15%de rabais sur une sélection de téléviseurs Philips](https://www.microspot.ch/fr/brand/philips)
+15%de rabais sur une sélection de téléviseurs PHILIPS](https://www.microspot.ch/fr/brand/philips)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0746-CM1-Promos-KW46-472.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNjY5NHxpbWFnZS9qcGVnfGFEZGlMMmcxWXk4NE5qQjRORGcwWDBreU5GOHdOelEyWDBOTk1WOVFjbTl0YjNOZlMxYzBOaTAwTnpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6ZzJNSGcwT0RSZlNUSTBYekEzTkRaZlEwMHhYMUJ5YjIxdmMxOUxWelEyTFRRM01pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXwzMmVkMDZjNjZjMmUxMWFhN2I4MzA1YWFiMTUxMzU3ODkyODI4Y2VjYjA0YzIzNDQyNTljZGQ5ZDE5YjdjYzAz&w=2360&q=75)
 
@@ -101,10 +101,6 @@ Autres actions ici
 [Profiter](https://www.microspot.ch/fr/promotions)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-05-Oktober-Mac-M4-FR-CTA-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTk5NnxpbWFnZS9qcGVnfGFHSXlMMmhoTXk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFZmVDJ0MGIySmxjbDlOWVdOZlRUUmZSbEpmUTFSQlgycGxkSHAwWDJ0aGRXWmxiaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2TVRFNE1IZ3pOVEJmU1RJMFh6QTFYMDlyZEc5aVpYSmZUV0ZqWDAwMFgwWlNYME5VUVY5cVpYUjZkRjlyWVhWbVpXNHVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NmM3MmExOWE0YmVmZTgyODQ1ZTZlMzllYTg3NjFmYzFhMDNmYmM4MzJlYWQzZDRlMTMzMmZkNTc1N2Y3N2JhOQ&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-05-Oktober-Mac-M4-FR-CTA-jetzt-kaufen.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMDA2NHxpbWFnZS9qcGVnfGFEQXhMMmd5TVM4NE1qaDRNelV3WDBreU5GOHdOVjlQYTNSdlltVnlYMDFoWTE5Tk5GOUdVbDlEVkVGZmFtVjBlblJmYTJGMVptVnVMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TWpoNE16VXdYMGt5TkY4d05WOVBhM1J2WW1WeVgwMWhZMTlOTkY5R1VsOURWRUZmYW1WMGVuUmZhMkYxWm1WdUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGFmODc0YmNlZWNjYWI1ZGE2ZTBhODllODI1MzY3OGQ0MTdmMjcwNzIyMmM2YzI0MjkzNzFjMWVjZmVhYzJlM2I&w=2360&q=75)](https://www.microspot.ch/fr/cms/macbook-pro-m4-2024)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0692-CM1-Samsung-Cashback5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1MDIzN3xpbWFnZS9qcGVnfGFHUTNMMmc1TVM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFk1TWw5RFRURmZVMkZ0YzNWdVoxOURZWE5vWW1GamF6VXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4d05qa3lYME5OTVY5VFlXMXpkVzVuWDBOaGMyaGlZV05yTlM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGU5NjBmYWExY2UzNzZmYzRiYmRjMjFhYzY3ZTM2ZWU3YjhkNzgxMmI0ZjAxZTI1MDc2OWQ4YzJhNTljMjhjMmE&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0692-CM1-Samsung-Cashback5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0Mzk1NXxpbWFnZS9qcGVnfGFERTVMMmhqWXk4NE1qaDRNelV3WDBreU5GOHdOamt5WDBOTk1WOVRZVzF6ZFc1blgwTmhjMmhpWVdOck5TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPREk0ZURNMU1GOUpNalJmTURZNU1sOURUVEZmVTJGdGMzVnVaMTlEWVhOb1ltRmphelV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGU1NjBmNDIyNjk1ZTA2YjA3ZWFmZTMwYmI1ZjhlY2JkMWU3ZWI0ODQ0NzE3ODQ5OWVkY2FjMTkyNTI4YmI3ZjI&w=2360&q=75)](https://www.microspot.ch/fr/cms/samsung-smartphone)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0590-Nachhaltigkeit-Banner2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNDIyNTd8aW1hZ2UvanBlZ3xhRFE1TDJnM1ppOHhNVGd3ZURNMU1GOUpNalJmTURVNU1GOU9ZV05vYUdGc2RHbG5hMlZwZEY5Q1lXNXVaWEl5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFU1TUY5T1lXTm9hR0ZzZEdsbmEyVnBkRjlDWVc1dVpYSXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXwxMGNhY2I3MDdiMjAxM2FmZDJmNDBlZDA4MGVlMDIyMmM2ODFhZDBjYjdlY2I4YjdjY2Q4MmJiODZiMWJhNWRj&w=2360&q=75)](https://www.microspot.ch/fr/cms/entreprise/durabilit%C3%A9)
 
@@ -129,16 +125,14 @@ DELONGHI
 
 Rivelia EXAM440.55.G](https://www.microspot.ch/fr/cms/blog/conseils/delonghi-rivelia)
 
-![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Sony-Makroobjektive.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NjAwNnxpbWFnZS9qcGVnfGFEWTVMMmhqTmk4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVMjl1ZVY5TllXdHliMjlpYW1WcmRHbDJaUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgxTnZibmxmVFdGcmNtOXZZbXBsYTNScGRtVXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWQ0YWI3Njk4Yjc1MzZlZWZmZDEwZDI0ZGU3ODI3Njg3ZjRhZmE1YjAxZDBhNDdkYTAzOTAxOWQyNDFiNDcyMg&w=2360&q=75)
+Test: Dyson WashG1
+------------------
 
-[Test des objectifs macro de SONY](https://www.microspot.ch/fr/cms/blog/conseils/sony-makro)
+![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Dyson-Waschsauger.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4MTUwMHxpbWFnZS9qcGVnfGFEZGlMMmhoTVM4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZSSGx6YjI1ZlYyRnpZMmh6WVhWblpYSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemt4TlhnMU1UVmZTVEkwWDFOdlRXVmZRbXh2WjE5RWVYTnZibDlYWVhOamFITmhkV2RsY2k1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDExZWIzZWYyNTQzNzhkOGRiYmQ4N2JiZTM4ZmNhZGQ0MGFiMWY1NTVhOGEzODZkZWRlYjU3OWUxYTc0OTMzMDU&w=2360&q=75)
 
+Ceux qui ont des sols durs chez eux connaissent probablement la situation : passer l'aspirateur suffit en fait à maintenir l'appartement en ordre. Mais de temps en temps, il faut tout de même passer à l'eau pour que tout soit vraiment propre comme un sou neuf. Mais je déteste frotter avec un seau et une serpillière, car cela se transforme toujours en une demi-bataille d'eau. Le nouveau nettoyant humide WashG1 de Dyson arrive donc à point nommé. Il promet un nettoyage en profondeur en un tour de main. Je l'ai testé pour toi.
 
-------------------------------------------------------------------------------------------------
-
-Photographier les plus petits détails en grand format – voilà le but de la macrophotographie. Pour ce faire, il faut des objectifs spéciaux qui fournissent la qualité d'image des objectifs « normaux », mais qui minimisent la distance de mise au point. J'ai reçu de SONY deux modèles à tester : une focale fixe et un télézoom. Dans ce blog, je te donne une recommandation pour savoir lequel des deux modèles te convient le mieux.
-
-[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/sony-makro)
+[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/dyson-washg1)
 
 Nos opérateurs
 --------------
@@ -186,17 +180,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
+[Frais de port gratuits pour livraison
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Frais de port gratuits pour livraison
+[Retrait gratuit
 
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
