@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Schumer Says No Senate Orientation for McCormick Until Race Decided](https://www.theepochtimes.com/us/schumer-says-no-senate-orientation-for-mccormick-until-race-decided-5757697)
+* [Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://www.theepochtimes.com/us/jury-awards-12-6-million-to-woman-fired-for-not-receiving-covid-vaccine-5757873)
     
-    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Schumer Says No Senate Orientation for McCormick Until Race Decided](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Schumer Says No Senate Orientation for McCormick Until Race Decided](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727203-Schumer-GettyImages-2173166734-205x123.jpg.webp)](https://www.theepochtimes.com/us/schumer-says-no-senate-orientation-for-mccormick-until-race-decided-5757697)
-* [Trump to Nominate Rep. Elise Stefanik as UN Ambassador](https://www.theepochtimes.com/us/trump-to-nominate-stefanik-as-un-ambassador-5757707)
+    ![Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678735-ny-vaccine-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/jury-awards-12-6-million-to-woman-fired-for-not-receiving-covid-vaccine-5757873)
+* [Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://www.theepochtimes.com/us/trump-taps-former-us-rep-lee-zeldin-as-head-of-epa-5757932)
     
-    1hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Trump to Nominate Rep. Elise Stefanik as UN Ambassador](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump to Nominate Rep. Elise Stefanik as UN Ambassador](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5594041-GettyImages-2026347026-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-nominate-stefanik-as-un-ambassador-5757707)
-* [Trump Names Former ICE Director Thomas Homan as Border Czar](https://www.theepochtimes.com/us/trump-appoints-former-ice-director-thomas-homan-as-border-czar-5757669)
+    ![Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://img.theepochtimes.com/assets/uploads/2022/11/03/EpochImages-6836471180-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-former-us-rep-lee-zeldin-as-head-of-epa-5757932)
+* [Missouri GOP Senator Withdraws From Consideration as Trump’s Attorney General](https://www.theepochtimes.com/us/missouri-gop-senator-withdraws-from-consideration-as-trumps-attorney-general-5757877)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump Names Former ICE Director Thomas Homan as Border Czar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Missouri GOP Senator Withdraws From Consideration as Trump’s Attorney General](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Names Former ICE Director Thomas Homan as Border Czar](https://img.theepochtimes.com/assets/uploads/2018/06/05/20180605-Homan-CharlotteCuthbertson-6046-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-appoints-former-ice-director-thomas-homan-as-border-czar-5757669)
-* [Veterans Reflect on the Boy Inside Them That Died on the Battlefield](https://www.theepochtimes.com/us/veterans-reflect-on-the-boy-inside-them-that-died-on-the-battlefield-5757282)
+    ![Missouri GOP Senator Withdraws From Consideration as Trump’s Attorney General](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757994-ag-schmitt-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/missouri-gop-senator-withdraws-from-consideration-as-trumps-attorney-general-5757877)
+* [9 Things to Know About Elise Stefanik, Trump’s Pick for UN Ambassador](https://www.theepochtimes.com/article/9-things-to-know-about-elise-stefanik-trumps-pick-for-un-ambassador-5757846)
     
-    6hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    2hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Veterans Reflect on the Boy Inside Them That Died on the Battlefield](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![9 Things to Know About Elise Stefanik, Trump’s Pick for UN Ambassador](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Veterans Reflect on the Boy Inside Them That Died on the Battlefield](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757683-20241103_1622500-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/veterans-reflect-on-the-boy-inside-them-that-died-on-the-battlefield-5757282)
-* [Veteran Service Providers Ask Americans to Go Beyond Saying ‘Thank You for Your Service’](https://www.theepochtimes.com/us/veteran-service-providers-ask-americans-to-go-beyond-saying-thank-you-for-your-service-5752292)
+    ![9 Things to Know About Elise Stefanik, Trump’s Pick for UN Ambassador](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757983-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/9-things-to-know-about-elise-stefanik-trumps-pick-for-un-ambassador-5757846)
+* [Biden Commemorates Veterans Day at Arlington National Cemetery](https://www.theepochtimes.com/us/biden-commemorates-veterans-day-at-arlington-national-cemetery-5757804)
     
-    6hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Veteran Service Providers Ask Americans to Go Beyond Saying ‘Thank You for Your Service’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Commemorates Veterans Day at Arlington National Cemetery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Veteran Service Providers Ask Americans to Go Beyond Saying ‘Thank You for Your Service’](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726033-GettyImages-1342295765KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/veteran-service-providers-ask-americans-to-go-beyond-saying-thank-you-for-your-service-5752292)
-* [What’s Behind the India–China Border Disengagement Deal](https://www.theepochtimes.com/world/complex-diplomacy-led-to-india-china-border-disengagement-us-elections-and-indo-pacific-geopolitics-contributed-experts-5751994)
+    ![Biden Commemorates Veterans Day at Arlington National Cemetery](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757997-Biden-Arlington-GettyImages-2183583461-205x123.jpg)](https://www.theepochtimes.com/us/biden-commemorates-veterans-day-at-arlington-national-cemetery-5757804)
+* [Senate Majority Leader Candidates Agree to Trump’s Demand for Recess Appointments](https://www.theepochtimes.com/us/senate-majority-leader-candidates-agree-to-trumps-demand-for-recess-appointments-5757729)
     
-    6hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![What’s Behind the India–China Border Disengagement Deal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Senate Majority Leader Candidates Agree to Trump’s Demand for Recess Appointments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What’s Behind the India–China Border Disengagement Deal](https://img.theepochtimes.com/assets/uploads/2024/11/07/id5755982-GettyImages-82119247-205x123.jpg.webp)](https://www.theepochtimes.com/world/complex-diplomacy-led-to-india-china-border-disengagement-us-elections-and-indo-pacific-geopolitics-contributed-experts-5751994)
-* [What to Expect From Trump’s First Day in Office](https://www.theepochtimes.com/article/what-to-expect-from-trumps-first-day-in-office-5756994)
+    ![Senate Majority Leader Candidates Agree to Trump’s Demand for Recess Appointments](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757991-ScottThuneCornyn2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-majority-leader-candidates-agree-to-trumps-demand-for-recess-appointments-5757729)
+* [Taiwan Businessman to Sue Chinese Officials Who Sanctioned Him Over Political Views](https://www.theepochtimes.com/china/taiwan-businessman-to-sue-chinese-officials-who-sanctioned-him-over-political-views-5757708)
     
-    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    4hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![What to Expect From Trump’s First Day in Office](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Taiwan Businessman to Sue Chinese Officials Who Sanctioned Him Over Political Views](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What to Expect From Trump’s First Day in Office](https://img.theepochtimes.com/assets/uploads/2024/11/10/id5757473-GettyImages-1233737869-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-to-expect-from-trumps-first-day-in-office-5756994)
-* [Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://www.theepochtimes.com/article/veteran-says-beloved-wifes-cancer-like-fighting-a-war-at-home-5755397)
+    ![Taiwan Businessman to Sue Chinese Officials Who Sanctioned Him Over Political Views](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757881-1.tagreuters.com2022binary_LYNXMPEI801FC-FILEDIMAGE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-businessman-to-sue-chinese-officials-who-sanctioned-him-over-political-views-5757708)
+* [Governor Seeks Answers on Whether Tennesseans Were Discriminated Against by FEMA](https://www.theepochtimes.com/us/governor-seeks-answers-on-whether-tennesseans-were-discriminated-against-by-fema-5757704)
     
-    7hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Governor Seeks Answers on Whether Tennesseans Were Discriminated Against by FEMA](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Veteran Says Beloved Wife’s Cancer ‘Like Fighting a War At Home’](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757686-20241107_112218-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/article/veteran-says-beloved-wifes-cancer-like-fighting-a-war-at-home-5755397)
-* [Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
+    ![Governor Seeks Answers on Whether Tennesseans Were Discriminated Against by FEMA](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757862-Tennessee-Gov-Bill-Lee-1297087033-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/governor-seeks-answers-on-whether-tennesseans-were-discriminated-against-by-fema-5757704)
+* [Russian Drone Bombardment of Ukraine Continues to Intensify](https://www.theepochtimes.com/world/russian-drone-bombardment-of-ukraine-continues-to-intensify-5757637)
     
-    12hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
     
-    [![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Russian Drone Bombardment of Ukraine Continues to Intensify](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rick Scott Garners Endorsements From Trump Allies in GOP Senate Leadership Race](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757685-GettyImages-2170673473-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/rick-scott-gains-ground-in-gop-senate-leadership-race-amid-endorsements-from-trump-allies-5756728)
-* [S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
+    ![Russian Drone Bombardment of Ukraine Continues to Intensify](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750941-Unknown-8-205x123.jpg.webp)](https://www.theepochtimes.com/world/russian-drone-bombardment-of-ukraine-continues-to-intensify-5757637)
+* [Gold Sees Biggest Weekly Dip in More Than 5 Months](https://www.theepochtimes.com/business/gold-sees-biggest-weekly-dip-in-more-than-5-months-5757674)
     
-    14hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Gold Sees Biggest Weekly Dip in More Than 5 Months](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![S&P 500 Reports Earnings Growth for 5th Straight Quarter](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757687-GettyImages-2183500888-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/sp-500-reports-earnings-growth-for-5th-straight-quarter-5757386)
+    ![Gold Sees Biggest Weekly Dip in More Than 5 Months](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757863-GettyImages-1227918179-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/gold-sees-biggest-weekly-dip-in-more-than-5-months-5757674)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
