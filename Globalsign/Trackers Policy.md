@@ -45,6 +45,7 @@ Menu Menu
             * [Document Signing Solutions](https://www.globalsign.com/en/document-signing)
             * [Digital Signing Service](https://www.globalsign.com/en/digital-signing-service)
             * [Digital Signing Service](https://www.globalsign.com/en/digital-signing-service)
+            * [Legality Guidelines for Digital Signatures](https://www.globalsign.com/en/legality-guidelines)
             * [Advanced vs Qualified Signatures](https://www.globalsign.com/en/advanced-vs-qualified-signatures)
             * [Qualified Signatures & Seals](https://www.globalsign.com/en/qualified-electronic-signatures-seals)
             * [Qualified Signatures & Seals](https://www.globalsign.com/en/qualified-electronic-signatures-seals)
