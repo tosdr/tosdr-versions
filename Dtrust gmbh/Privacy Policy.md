@@ -87,7 +87,9 @@ Responsible for Data Processing
 -------------------------------
 
 D-Trust GmbH  
+  
 Kommandantenstr. 15  
+  
 10969 Berlin
 
 You can reach our data protection officer at the email address: [datenschutz@d-trust.net](mailto:datenschutz@d-trust.net)
