@@ -34,9 +34,8 @@
     * [Animal Welfare Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/animal-welfare-fund.html)
     * [End Homelessness Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-homelessness-fund.html)
     * [End Hunger Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-hunger-fund.html)
-    * [Global Health Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-health-fund.html)
-    * [Global Poverty Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-poverty-fund.html)
     * [Improve Education Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/improve-education-fund.html)
+    * [Veterans & Military Assistance Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/veterans-military-fund.html)
     
 * [Donor Basics](https://www.charitynavigator.org/donor-basics.html)
     
@@ -131,9 +130,8 @@
     * [Animal Welfare Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/animal-welfare-fund.html)
     * [End Homelessness Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-homelessness-fund.html)
     * [End Hunger Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-hunger-fund.html)
-    * [Global Health Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-health-fund.html)
-    * [Global Poverty Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-poverty-fund.html)
     * [Improve Education Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/improve-education-fund.html)
+    * [Veterans & Military Assistance Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/veterans-military-fund.html)
     
 * [Donor Basics](https://www.charitynavigator.org/donor-basics.html)
     
