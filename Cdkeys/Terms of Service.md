@@ -116,6 +116,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -447,9 +448,7 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Farming Simulator 25 - Year 1 Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25_-_year_1_edition.jpg)   No 1. \-34%
-    
-    Pre-order](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam)
+1.    [![Farming Simulator 25 - Year 1 Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25_-_year_1_edition.jpg)   No 1. \-34%](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam)
     
     **[Farming Simulator 25 - Year 1 Edition PC](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam "Farming Simulator 25 - Year 1 Edition PC")**
     
