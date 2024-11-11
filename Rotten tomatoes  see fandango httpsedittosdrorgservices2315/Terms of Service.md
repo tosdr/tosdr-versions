@@ -18,7 +18,7 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Ascend to victory with The Champion's Collectio** Get an Exclusive Gladiator II Movie Pack
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
@@ -115,7 +115,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/FND_poster_Moana2-Presale.jpg)
     
     Moana 2 (2024)](https://www.fandango.com/moana-2-2024-235102/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235322/FND_poster_RedOne-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235322/red_one.jpg)
     
     Red One (2024)](https://www.fandango.com/red-one-2024-235322/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235494/Conclave_OfficialPoster.jpg)
@@ -194,7 +194,7 @@ New & Coming soon
 
 Close
 
-![Ascend to victory with The Champion's Collection](https://images.fandango.com/cms/assets/74fa1520-9e30-11ef-8321-2b978811c524--fan-globalnavbar-gladiator2bundle-343x362.png)
+![Rise to victory with The Champion's Collection](https://images.fandango.com/cms/assets/74fa1520-9e30-11ef-8321-2b978811c524--fan-globalnavbar-gladiator2bundle-343x362.png)
 
 #### Ascend to victory with The Champion's Collection featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive 27"x40” Gladiator II physical poster (shipping & handling included), and Gladiator II on Fandango at Home (when available).
 
