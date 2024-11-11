@@ -170,7 +170,7 @@ We are committed to handling legal requests for customer data with the utmost ca
 
 We take a proactive approach to responding to security threats and issues. In the event of a data breach or security incident, we have a structured response plan to address the situation promptly and effectively.
 
-[Read about our Incident Response](#)
+[Read about our Incident Response](https://www.inmotionhosting.com/privacy/incident-response/)
 
 ### Personal Data Requests
 
