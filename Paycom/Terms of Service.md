@@ -323,7 +323,7 @@
 Terms of Use
 ============
 
-Last modified: October 19, 2022
+Last modified: November 8, 2024
 
 Paycom (“Paycom”, “us”, “our”, or “we”), provides the information and services on its World Wide Web site(s) (the “Site”) under the following terms and conditions. By accessing and/or using the Site, you, and to the extent applicable, the entity on behalf of which you are using the Site (“you”, “your”, or “user(s)”), indicate your acceptance of these terms and conditions. We may update these terms and conditions from time to time, and your continued use of the Site after we post any changes constitutes your acceptance of such changes.
 
