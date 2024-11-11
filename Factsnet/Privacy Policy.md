@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About 1970s Cartoons ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2275%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/entertainment/25-facts-about-1970s-cartoons/)
-
-Entertainment
-
-10 Nov 2024
-
-[25 Facts About 1970s Cartoons](https://facts.net/lifestyle/entertainment/25-facts-about-1970s-cartoons/)
-
-[![30 Facts About Focal Dermal Hypoplasia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-focal-dermal-hypoplasia/)
+[![40 Facts About Spastic Dysphonia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-spastic-dysphonia/)
 
 Health Science
 
-10 Nov 2024
+11 Nov 2024
 
-[30 Facts About Focal Dermal Hypoplasia](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-focal-dermal-hypoplasia/)
+[40 Facts About Spastic Dysphonia](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-spastic-dysphonia/)
+
+[![40 Facts About Polycystic Ovarian Disease ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-polycystic-ovarian-disease/)
+
+Health Science
+
+11 Nov 2024
+
+[40 Facts About Polycystic Ovarian Disease](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-polycystic-ovarian-disease/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
