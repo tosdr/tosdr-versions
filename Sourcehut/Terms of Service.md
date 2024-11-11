@@ -106,13 +106,11 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [2363e949b197aaf3ed8c591cf029ae9bd6e56574](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/2363e949b197aaf3ed8c591cf029ae9bd6e56574)
-Author: Gary Kim <gary@garykim.dev>
-Date:   2024-10-29T15:22:30-04:00
+commit [754d2602d93c5e47cc2ccc92a4055ec300c54cc2](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/754d2602d93c5e47cc2ccc92a4055ec300c54cc2)
+Author: Jordan Anderson <jordan@jba.io>
+Date:   2024-11-04T03:58:52-06:00
 
-Update fedora supported versions
-
-Signed-off-by: Gary Kim <gary@garykim.dev>
+Update OpenBSD compatibility matrix
 
 **Clone this wiki**
 
