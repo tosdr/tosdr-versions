@@ -92,6 +92,8 @@
 
 [Comparisons](https://www.polly.ai/polly-versus-surveys)
 
+[Webinars](https://www.polly.ai/webinars)
+
 [Blog](https://www.polly.ai/blog)
 
 [Guides](https://www.polly.ai/guides)
@@ -203,6 +205,8 @@
 [Resources](javascript:;)
 
 [Comparisons](https://www.polly.ai/polly-versus-surveys)
+
+[Webinars](https://www.polly.ai/webinars)
 
 [Blog](https://www.polly.ai/blog)
 
@@ -642,6 +646,8 @@ Start using Polly with your team
 
 [Resources](javascript:;)
 
+[Webinars](https://www.polly.ai/webinars)
+
 [Blog](https://www.polly.ai/blog)
 
 [Guides](https://www.polly.ai/guides)
@@ -656,8 +662,6 @@ Start using Polly with your team
 
 [Security](https://www.polly.ai/security)
 
-[Become a Polly Partner](https://www.polly.ai/partner-with-us)
-
 [Company](javascript:;)
 
 [About us](https://www.polly.ai/about)
@@ -669,6 +673,8 @@ Start using Polly with your team
 [Terms of Service](https://www.polly.ai/terms-of-service)
 
 [Service status](https://status.polly.ai/)
+
+[Become a Partner](https://www.polly.ai/partner-with-us)
 
 [Contact us](https://www.polly.ai/contact)
 
