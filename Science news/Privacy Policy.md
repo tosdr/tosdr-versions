@@ -184,7 +184,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+            
+            ### [Uranus may have looked weird when NASA’s Voyager 2 flew by](https://www.sciencenews.org/article/uranus-weird-look-voyager-2-flyby)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")6 hours ago
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [A cosmic census triples the known number of black holes in dwarf galaxies](https://www.sciencenews.org/article/census-black-holes-dwarf-galaxies)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 7, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [A zombie star’s spiky filaments shed light on a 12th century supernova](https://www.sciencenews.org/article/zombie-star-supernova-filaments)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 4, 2024
             
 
 Privacy Policy
