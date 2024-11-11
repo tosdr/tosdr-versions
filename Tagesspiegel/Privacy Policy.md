@@ -21,6 +21,7 @@ zurückscrollen
     * [Olaf Scholz](https://www.tagesspiegel.de/politik/themen/olaf-scholz)
     * [Bundeswehr](https://www.tagesspiegel.de/politik/themen/bundeswehr)
     * [Energie & Klima](https://www.tagesspiegel.de/politik/energie-klima/)
+    * [Digitalisierung & KI](https://www.tagesspiegel.de/politik/digitalisierung-ki/)
     
     vorscrollen
     
@@ -59,7 +60,7 @@ zurückscrollen
     * [Berliner Wirtschaft](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/)
     * [Berliner Sport](https://www.tagesspiegel.de/berlin/berliner_sport/)
     * [Polizei & Justiz](https://www.tagesspiegel.de/berlin/polizei-justiz/)
-    * [Stadtleben](https://www.tagesspiegel.de/berlin/stadtleben/)
+    * [Berliner Geschichte](https://www.tagesspiegel.de/gesellschaft/geschichte/themen/berliner-geschichte)
     * [Fahrrad & Verkehr](https://www.tagesspiegel.de/berlin/themen/fahrrad-und-verkehr-in-berlin)
     * [Schule](https://www.tagesspiegel.de/berlin/schule/)
     * [Nachrufe](https://www.tagesspiegel.de/gesellschaft/themen/nachrufe)
