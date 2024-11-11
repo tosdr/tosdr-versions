@@ -387,9 +387,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [truncate](https://www.merriam-webster.com/word-of-the-day)
+#### [armistice](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of truncate](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of truncate")
+[![Listen to the pronunciation of armistice](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of armistice")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
