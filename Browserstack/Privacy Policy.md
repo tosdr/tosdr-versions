@@ -1,7 +1,3 @@
-By clicking 'Accept All', you agree to the use of all types of cookies to enhance site navigation. For more information, please visit our [cookie policy](https://www.browserstack.com/cookie-policy).
-
-Accept All Reject All
-
 [Skip to main content](#main-content)
 
 [![BrowserStack Logo](https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg)](https://www.browserstack.com/ "BrowserStack Logo")
@@ -587,6 +583,7 @@ Tools
 * [Terms of Service](https://www.browserstack.com/terms)
 * [Privacy Policy](https://www.browserstack.com/privacy)
 * [Cookie Policy](https://www.browserstack.com/cookie-policy)
+
 * [Sitemap](https://www.browserstack.com/sitemap)
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzIDInPjwvc3ZnPg== "chat-icon")
