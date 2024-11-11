@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ghibli: The Miyazaki Temple](/wp-content/thumbnails/5922-100x70.jpg?x53432)
+* [![Ghost of The Black Sea](/wp-content/thumbnails/6082-100x70.jpg?x53432)
     
-    Ghibli: The Miyazaki Temple
+    Ghost of The Black Sea
     
-    Documentary about Studio Ghibli and the legendary anime director Miyazaki. Includes interviews with a variety of animators, directors, artists etc. in the field of anime, as well as Miyazaki himself.](https://documentaryheaven.com/ghibli-the-miyazaki-temple/ "Ghibli: The Miyazaki Temple")
-* [![Hacking Power, Corruption and Lies](/wp-content/thumbnails/9083-100x70.jpg?x53432)
+    Seven years ago, on his third trip to the Black Sea, Dr. Robert Ballard discovered a miraculously well-preserved Byzantine shipwreck, but his team could only take pictures. Now, Ballard returns with s](https://documentaryheaven.com/ghost-of-the-black-sea/ "Ghost of The Black Sea")
+* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
     
-    Hacking Power, Corruption and Lies
+    EP 4/6 The Private Life of Plants
     
-    This BBC Panorama Special covers the scandal that reached deep into the heart of the British establishment, which centered on Rupert Murdoch's media empire. David Cameron's former spokesman](https://documentaryheaven.com/hacking-power-corruption-lies/ "Hacking Power, Corruption and Lies") 
-* [![Louis Theroux on Fundamentalist Christianity](/wp-content/thumbnails/398-100x70.png?x53432)
+    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
+* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
     
-    Louis Theroux on Fundamentalist Christianity
+    Panorama: The Battle For Bomb Alley
     
-    This is a video that is about Fundamentalist Christianity by Louis Theroux. It provides some insight into the nature of the religion, beliefs, morals, reasons, etc.](https://documentaryheaven.com/louis-theroux-on-fundamentalist-christianity/ "Louis Theroux on Fundamentalist Christianity")
-* [![The Truth about Street Weapons](/wp-content/thumbnails/6847-100x70.jpg?x53432)
+    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
+* [![The Memphis Belle: A Story of a Flying Fortress](/wp-content/thumbnails/2142-100x70.jpg?x53432)
     
-    The Truth about Street Weapons
+    The Memphis Belle: A Story of a Flying Fortress
     
-    2008 has seen a staggering number of teenage gang and knife attacks on Britain's streets with a death toll comparable to that of our troops fighting in Afghanistan and Iraq.Dr Tunje Lasoye, Head o](https://documentaryheaven.com/the-truth-about-street-weapons/ "The Truth about Street Weapons")
-* [![Louis Theroux: By Reason of Insanity](/wp-content/thumbnails/9735-100x70.jpg?x53432)
+    Movie Guide Unabashedly sentimental, this war film was produced by David Putnam in partnership with Catherine Wyler, whose father William Wyler directed an acclaimed documentary about the real-life ev](https://documentaryheaven.com/the-memphis-belle-a-story-of-a-flying-fortress/ "The Memphis Belle: A Story of a Flying Fortress")
+* [![Air Crash Investigations: Ghost Plane](/wp-content/thumbnails/4088-100x70.jpg?x53432)
     
-    Louis Theroux: By Reason of Insanity
+    Air Crash Investigations: Ghost Plane
     
-    Here is Louis Theroux latest documentary which is two parts and see's him immerse himself in the world of mental health by paying a visit to Ohio's maximum security state psychiatric hospitals and mee](https://documentaryheaven.com/louis-theroux-by-reason-of-insanity/ "Louis Theroux: By Reason of Insanity")
+    Helios Airways Flight 522 departs from Cyprus. As it flies over Greece, air traffic controllers lose radio contact with it. An incorrect setting on the cabin pressurization panel causes the pilots and](https://documentaryheaven.com/air-crash-investigations-ghost-plane/ "Air Crash Investigations: Ghost Plane")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
