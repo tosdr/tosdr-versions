@@ -39,7 +39,7 @@ English
 Symbaloo Privacy Policy
 =======================
 
- Effective Date: October 15, 2024
+ Effective Date: November 12, 2024
 
 Introduction
 ------------
