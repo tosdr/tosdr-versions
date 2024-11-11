@@ -1279,7 +1279,6 @@ Gå direkt till :
         * [Hantering av personuppgifter](https://www.sva.se/om-oss/kontakta-oss/hantering-av-personuppgifter/)
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
-            * [Lokalplanerare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lokalplanerare/)
             * [Laboratorieingenjör, BMA eller Mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieingenjor-bma-eller-mikrobiolog/)
             * [Registrator](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/registrator/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
