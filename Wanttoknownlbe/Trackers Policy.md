@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/buitengewoon-zintuigelijke-ervaringen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/liegende-ministers-volksgezondheid-in-nl-en-be/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
