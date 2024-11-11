@@ -261,9 +261,11 @@ Free standard shipping on orders over $29.00
         * [For Creatives](https://www.logitech.com/en-us/mx/mx-creatives.html)
         * [Explore all](https://www.logitech.com/en-us/mx/master-series.html)
         
-        ![Lightbulb icon overlaid on tools and parts](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/discover-feature-sustainability.png?v=1)
+        ![Desk Setup Image](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/discover-feature-configurator.png?v=1)
         
-        * [**Designed with sustainability in mind. See our pledge** See our sustainability pledge](https://www.logitech.com/en-us/sustainability.html)
+        Create the Ultimate Setup
+        
+        * [Start the Quiz](https://www.logitech.com/en-us/configurator/pws-setup.html)
         
     
 * Business
