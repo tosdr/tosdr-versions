@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Image provided by Billy Youth Engagement Project](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-13.10.42-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
+    
+    ### [Youth charity opens new Canada Water centre](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/) 
+    
     [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
     
     ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
@@ -52,10 +56,6 @@
     [![The fiction award is regarded the world’s most prestigious for fiction works published in the UK and Ireland. Image: South Bank London](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-fiction-award-is-regarded-the-worlds-most-prestigious-for-fiction-works-published-in-the-UK-and-Ireland.-Image-Southbank-Centre-360x180.webp)](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
     
     ### [Booker Prize nominees to read from books at Royal Festival Hall](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
-    
-    [![St Olave, St Thomas and St John United Charity, based on Druid Street. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/St-Olave-St-Thomas-and-St-John-United-Charity-based-on-Druid-Street.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
-    
-    ### [Bermondsey charity at ‘grave risk’ after investigation, MP warns](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Image provided by Billy Youth Engagement Project](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-13.10.42-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
+    
+    ### [Youth charity opens new Canada Water centre](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/) 
+    
     [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
     
     ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
@@ -138,10 +142,6 @@ View All Result
     [![The fiction award is regarded the world’s most prestigious for fiction works published in the UK and Ireland. Image: South Bank London](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-fiction-award-is-regarded-the-worlds-most-prestigious-for-fiction-works-published-in-the-UK-and-Ireland.-Image-Southbank-Centre-360x180.webp)](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
     
     ### [Booker Prize nominees to read from books at Royal Festival Hall](https://southwarknews.co.uk/area/south-bank/booker-prize-nominees-to-read-from-books-at-royal-festival-hall/)
-    
-    [![St Olave, St Thomas and St John United Charity, based on Druid Street. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/St-Olave-St-Thomas-and-St-John-United-Charity-based-on-Druid-Street.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
-    
-    ### [Bermondsey charity at ‘grave risk’ after investigation, MP warns](https://southwarknews.co.uk/area/bermondsey/bermondsey-charity-at-grave-risk-after-investigation-mp-warns/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -365,12 +365,6 @@ Website
 
 [5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
 
-[![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
-
-### [Unique Peckham home could be named House of the Year](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/) 
-
-[3rd November 2024](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
-
 [![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 ### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
@@ -383,7 +377,19 @@ Website
 
 [5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
 
+[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
+### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
+[5th November 2024](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
 ### Featured Articles
+
+[![Image provided by Billy Youth Engagement Project](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-13.10.42-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
+
+### [Youth charity opens new Canada Water centre](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/) 
+
+[11th November 2024](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
 
 [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
 
@@ -414,12 +420,6 @@ Website
 ### [M&S Brixton to reopen this month](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
 
 [8th November 2024](https://southwarknews.co.uk/area/south-london/ms-brixton-to-reopen-this-month/)
-
-[![Photo and video from www.taikomeantime.rhythmworks.com](https://southwarknews.co.uk/wp-content/uploads/2024/11/Drumming-120x86.jpg)](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
-
-### [Taiko Meantime brings Japanese drumming to South London](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
-
-[8th November 2024](https://southwarknews.co.uk/area/south-london/taiko-meantime-brings-japanese-drumming-to-south-london/)
 
 ### USEFUL PAGES
 
