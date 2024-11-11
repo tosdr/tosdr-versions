@@ -326,15 +326,15 @@ _Date dernière mise à jour : Novembre 2024_
 Les plus lus
 ------------
 
-1. [![Fin octobre 2024, Gérard Claudet a passé la nuit dans le garage de l'hôpital de Langres, en Haute-Marne](https://images.bfmtv.com/LiSDkO7fE_Zk3FGZW1Dpp-9_BzQ=/0x0:1920x1080/300x0/images/Fin-octobre-2024-Gerard-Claudet-a-passe-la-nuit-dans-le-garage-de-l-hopital-de-Langres-en-Haute-Marne-1973859.jpg)
+1. [![Une femme marchant dans le froid. Photo d'illustration](https://images.bfmtv.com/xS8Axw_gv8A_9kpawJCaR0rpdd0=/0x0:912x513/300x0/images/1267341.jpg)
     
-    ![Fin octobre 2024, Gérard Claudet a passé la nuit dans le garage de l'hôpital de Langres, en Haute-Marne](https://images.bfmtv.com/LiSDkO7fE_Zk3FGZW1Dpp-9_BzQ=/0x0:1920x1080/300x0/images/Fin-octobre-2024-Gerard-Claudet-a-passe-la-nuit-dans-le-garage-de-l-hopital-de-Langres-en-Haute-Marne-1973859.jpg)
+    ![Une femme marchant dans le froid. Photo d'illustration](https://images.bfmtv.com/xS8Axw_gv8A_9kpawJCaR0rpdd0=/0x0:912x513/300x0/images/1267341.jpg)
     
-    ### "Je suis je ne sais où": faute de place aux urgences, il se retrouve installé dans le garage de l'hôpital](https://www.bfmtv.com/sante/je-suis-je-ne-sais-ou-faute-de-place-aux-urgences-il-est-hospitalise-dans-le-garage-de-l-hopital_AV-202411110115.html ""Je suis je ne sais où": faute de place aux urgences, il se retrouve installé dans le garage de l'hôpital")
-2. [### France-Israël: Israël recommande à ses citoyens de ne pas aller au match](https://rmcsport.bfmtv.com/football/equipe-de-france/france-israel-israel-recommande-a-ses-citoyens-de-ne-pas-aller-au-match_AV-202411100349.html "France-Israël: Israël recommande à ses citoyens de ne pas aller au match")
-3. [### Donald Trump élu président: explosion des recherches Internet pour quitter les États-Unis](https://www.bfmtv.com/tech/donald-trump-elu-president-explosion-des-recherches-internet-pour-quitter-les-etats-unis_AN-202411100274.html "Donald Trump élu président: explosion des recherches Internet pour quitter les États-Unis")
-4. [### La mystérieuse disparition des biscuits Finger des rayons de nos supermarchés](https://www.bfmtv.com/economie/la-mysterieuse-disparition-des-biscuits-finger-des-rayons-de-nos-supermarches_AV-202411080635.html "La mystérieuse disparition des biscuits Finger des rayons de nos supermarchés")
-5. [### Royaume-Uni: aveugle, on lui refuse des prestations sociales car elle a été capable de se rendre à un entretien](https://www.bfmtv.com/international/europe/angleterre/royaume-uni-aveugle-on-lui-refuse-des-prestations-sociales-car-elle-a-ete-capable-de-se-rendre-a-un-entretien_AN-202411090393.html "Royaume-Uni: aveugle, on lui refuse des prestations sociales car elle a été capable de se rendre à un entretien")
+    ### Les températures vont dégringoler cette semaine: voici à quoi s'attendre](https://www.bfmtv.com/meteo/jusqu-a-0-c-a-quoi-faut-il-s-attendre-avec-l-arrivee-du-froid-cette-semaine_AN-202411110401.html "Les températures vont dégringoler cette semaine: voici à quoi s'attendre")
+2. [### Pourquoi la colère des agriculteurs risque de gronder plus fort le 15 novembre](https://www.bfmtv.com/economie/economie-social/pourquoi-la-colere-des-agriculteurs-risque-de-gronder-plus-fort-le-15-novembre_AD-202411110240.html "Pourquoi la colère des agriculteurs risque de gronder plus fort le 15 novembre")
+3. [### Le pape en Corse en décembre? Pourquoi François préfère Ajaccio à la réouverture de Notre-Dame](https://www.bfmtv.com/societe/religions/le-pape-en-corse-en-decembre-pourquoi-francois-prefere-ajaccio-a-la-reouverture-de-notre-dame_AV-202411110380.html "Le pape en Corse en décembre? Pourquoi François préfère Ajaccio à la réouverture de Notre-Dame")
+4. [### "Je suis je ne sais où": faute de place aux urgences, il se retrouve installé dans le garage de l'hôpital](https://www.bfmtv.com/sante/je-suis-je-ne-sais-ou-faute-de-place-aux-urgences-il-est-hospitalise-dans-le-garage-de-l-hopital_AV-202411110115.html ""Je suis je ne sais où": faute de place aux urgences, il se retrouve installé dans le garage de l'hôpital")
+5. [### "Limoges perd son emblème": "l'homme en bleu", cycliste emblématique de la ville, meurt renversé par une voiture](https://www.bfmtv.com/limoges/limoges-perd-son-embleme-l-homme-en-bleu-cycliste-emblematique-de-la-ville-meurt-renverse-par-une-voiture_AD-202411110349.html ""Limoges perd son emblème": "l'homme en bleu", cycliste emblématique de la ville, meurt renversé par une voiture")
 
 ![BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
