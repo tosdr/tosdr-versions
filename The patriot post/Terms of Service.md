@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -201,12 +201,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34489)
+     [](https://patriotpost.us/cartoons/34492)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Gary Bauer The Great Divide](https://patriotpost.us/opinion/111860-the-great-divide-2024-11-11)
 *      [Matthew Continetti The Biden Error](https://patriotpost.us/opinion/111839-the-biden-error-2024-11-09)
 *      [The Washington Stand Trump’s Win ‘Isn’t the Finish Line — It’s the Starting Point’](https://patriotpost.us/opinion/111840-trumps-win-isnt-the-finish-line-its-the-starting-point-2024-11-09)
 *      [Ben Shapiro Why Trump Won](https://patriotpost.us/opinion/111809-why-trump-won-2024-11-08)
@@ -214,7 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Michael Barone What You Didn’t Hear About on Election Night: The Other 43 States](https://patriotpost.us/opinion/111807-what-you-didnt-hear-about-on-election-night-the-other-43-states-2024-11-08)
 *      [David Harsanyi Good News: Americans Are No Longer Listening to Mass Media](https://patriotpost.us/opinion/111806-good-news-americans-are-no-longer-listening-to-mass-media-2024-11-08)
 *      [Gary Bauer Kamala’s Concession, Sort Of](https://patriotpost.us/opinion/111804-kamalas-concession-sort-of-2024-11-08)
-*      [Armstrong Williams An Open Letter to the Left’s Unremarkable, Bitter, Woke, Visionless, Out-of-Touch Leadership](https://patriotpost.us/opinion/111802-an-open-letter-to-the-lefts-unremarkable-bitter-woke-visionless-out-of-touch-leadership-2024-11-08)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +228,9 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
 
- 
-
-Shop Now](https://patriotpostshop.com/)
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
