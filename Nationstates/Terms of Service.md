@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What is Your Relationship with the A.N.? (6)](https://forum.nationstates.net/viewtopic.php?t=558200&f=25&view=unread#unread ""What is Your Relationship with the A.N.?" (6 posts)")
-* [Ukrainian War VII: Everything has a p… (9,125)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (9,125 posts)")
-* [\[Q\] Removing a password. (5)](https://forum.nationstates.net/viewtopic.php?t=558159&f=15&view=unread#unread ""[Q] Removing a password." (5 posts)")
-* [\[Discussion\] Committee Rule (2)](https://forum.nationstates.net/viewtopic.php?t=558185&f=9&view=unread#unread ""[Discussion] Committee Rule" (2 posts)")
-* [American Politics: Turnabout Trump (2,862)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (2,862 posts)")
+* [UK Politics Thread: Kemi Badenoch ele… (12,226)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,226 posts)")
+* [American Politics: Turnabout Trump (2,960)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (2,960 posts)")
+* [\[REPORT\] Routine action requests (Mov… (9,373)](https://forum.nationstates.net/viewtopic.php?t=473656&f=16&view=unread#unread ""[REPORT] Routine action requests (Moves, Adbots, Spam, etc)" (9,373 posts)")
+* [Dein Vaterland\[OOC/MT/Closed\] (1,150)](https://forum.nationstates.net/viewtopic.php?t=544964&f=4&view=unread#unread ""Dein Vaterland[OOC/MT/Closed]" (1,150 posts)")
+* [WorldVision Song Contest 117 - Concor… (58)](https://forum.nationstates.net/viewtopic.php?t=557365&f=4&view=unread#unread ""WorldVision Song Contest 117 - Concord, Plangainer - IC" (58 posts)")
 
 Advertisement
 
