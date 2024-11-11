@@ -20,16 +20,16 @@ Monday, November 11 2024
 
 Latest
 
-* [Sundar Pichai says more than 25% of Google’s code is now AI-generated – and it’s a big hint at the future of software development](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
-* [Forget AirPods Max! These luxurious Bowers & Wilkins noise canceling headphones just hit $249 for Black Friday — lowest price ever](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
-* [Hackers now use ZIP file concatenation to evade detection](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
-* [Mattel accidentally linked a porn site on Wicked doll packaging](https://digitpatrox.com/mattel-accidentally-linked-a-porn-site-on-wicked-doll-packaging/)
-* [Jio 5G Has a New Trick up Its Sleeve to Help Save Your Phone’s Battery Life](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
-* [Review: The Tenways CGO600 Pro E-Bike Is So Practical, It’s Almost Sexy](https://digitpatrox.com/review-the-tenways-cgo600-pro-e-bike-is-so-practical-its-almost-sexy/)
-* [Best Garlic Presses and Rockers](https://digitpatrox.com/best-garlic-presses-and-rockers/)
-* [Windows Me Was More Revolutionary Than We Think](https://digitpatrox.com/windows-me-was-more-revolutionary-than-we-think/)
-* [How to change the layout of the Mail app on your iPhone in iOS 18.2](https://digitpatrox.com/how-to-change-the-layout-of-the-mail-app-on-your-iphone-in-ios-18-2/)
-* [Microsoft investigates OneDrive issue causing macOS app freezes](https://digitpatrox.com/microsoft-investigates-onedrive-issue-causing-macos-app-freezes/)
+* [The FTC’s ‘Click-to-Cancel’ rule for subscriptions is long overdue – Computerworld](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
+* [Seven Things Your Credit Card’s Trip Protection Won’t Actually Cover](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
+* [Florida YMCA notifies 12K people of data breach compromising SSNs](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
+* [Windows 11 lifecycle for Home and Pro](https://digitpatrox.com/windows-11-lifecycle-for-home-and-pro/)
+* [Is It Safe to Run Your Oven’s Self-Clean Cycle?](https://digitpatrox.com/is-it-safe-to-run-your-ovens-self-clean-cycle/)
+* [This Is My Favorite Smart Doorbell Feature](https://digitpatrox.com/this-is-my-favorite-smart-doorbell-feature/)
+* [Nearly half of all digital initiatives still fail – here’s how you can learn from the ‘digital vanguard’ and deliver success](https://digitpatrox.com/nearly-half-of-all-digital-initiatives-still-fail-heres-how-you-can-learn-from-the-digital-vanguard-and-deliver-success/)
+* [9 Podcast Planning Templates You Can Download Right Now](https://digitpatrox.com/9-podcast-planning-templates-you-can-download-right-now/)
+* [What is the Sheraton Hotel mattress and is it on sale this Black Friday?](https://digitpatrox.com/what-is-the-sheraton-hotel-mattress-and-is-it-on-sale-this-black-friday/)
+* [Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](https://digitpatrox.com/microsoft-blames-windows-server-2025-automatic-upgrades-on-3rd-party-tools/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     September 28, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/E7gcnrYbk5bqt5XGYcNJZe-1200-80.jpg)](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601566-0-08808800-1731322952-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
     
-    [Sundar Pichai says more than 25% of Google’s code is now AI-generated – and it’s a big hint at the future of software development](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
+    [The FTC’s ‘Click-to-Cancel’ rule for subscriptions is long overdue – Computerworld](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
     
-    20 mins ago
+    46 seconds ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/viGCmPZ6C8XeRVTqyb4YC3-1200-80.jpg)](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
+* [![](https://lifehacker.com/imagery/articles/01JCDZJVHK7G90H2MAA02C31QJ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
     
-    [Forget AirPods Max! These luxurious Bowers & Wilkins noise canceling headphones just hit $249 for Black Friday — lowest price ever](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
+    [Seven Things Your Credit Card’s Trip Protection Won’t Actually Cover](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
     
     29 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg)](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Florida-YMCA-data-breach-leaks-SSNs.jpg)](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
     
-    [Hackers now use ZIP file concatenation to evade detection](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+    [Florida YMCA notifies 12K people of data breach compromising SSNs](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
     
-    2 hours ago
+    36 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/T95NmHMi4_gbhpTT5P7_uvNJN48=/0x0:1938x1241/1200x628/filters:focal(969x621:970x622)/cdn.vox-cdn.com/uploads/chorus_asset/file/25725726/Wicked_Elphaba_Galinda.jpg)](https://digitpatrox.com/mattel-accidentally-linked-a-porn-site-on-wicked-doll-packaging/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/05/windows-intelligence-update-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-lifecycle-for-home-and-pro/)
     
-    [Mattel accidentally linked a porn site on Wicked doll packaging](https://digitpatrox.com/mattel-accidentally-linked-a-porn-site-on-wicked-doll-packaging/)
+    [Windows 11 lifecycle for Home and Pro](https://digitpatrox.com/windows-11-lifecycle-for-home-and-pro/)
     
-    2 hours ago
+    37 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Jio-True-5G.jpg)](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1634567282/prod/content/dam/CRO-Images-2021/Home/10Oct/CR-Home-InlineHero-Is-it-Safe-to-Run-Ovens-Self-Clean-Feature-1021)](https://digitpatrox.com/is-it-safe-to-run-your-ovens-self-clean-cycle/)
     
-    [Jio 5G Has a New Trick up Its Sleeve to Help Save Your Phone’s Battery Life](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
+    [Is It Safe to Run Your Oven’s Self-Clean Cycle?](https://digitpatrox.com/is-it-safe-to-run-your-ovens-self-clean-cycle/)
     
-    2 hours ago
+    39 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [20 mins ago
+* [46 seconds ago
     
-    ### Sundar Pichai says more than 25% of Google’s code is now AI-generated – and it’s a big hint at the future of software development](https://digitpatrox.com/sundar-pichai-says-more-than-25-of-googles-code-is-now-ai-generated-and-its-a-big-hint-at-the-future-of-software-development/)
+    ### The FTC’s ‘Click-to-Cancel’ rule for subscriptions is long overdue – Computerworld](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
 * [29 mins ago
     
-    ### Forget AirPods Max! These luxurious Bowers & Wilkins noise canceling headphones just hit $249 for Black Friday — lowest price ever](https://digitpatrox.com/forget-airpods-max-these-luxurious-bowers-wilkins-noise-canceling-headphones-just-hit-249-for-black-friday-lowest-price-ever/)
-* [2 hours ago
+    ### Seven Things Your Credit Card’s Trip Protection Won’t Actually Cover](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
+* [36 mins ago
     
-    ### Hackers now use ZIP file concatenation to evade detection](https://digitpatrox.com/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+    ### Florida YMCA notifies 12K people of data breach compromising SSNs](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
 
 Most Popular Topics
 
-* [August 15, 2024
-    
-    ### How to Install NVIDIA GPU Driver on Fedora 40+ KDE 6 Spin on Wayland](https://digitpatrox.com/how-to-install-nvidia-gpu-driver-on-fedora-40-kde-6-spin-on-wayland/)
-* [3 days ago
-    
-    ### Google’s mysterious ‘search.app’ links leave Android users concerned](https://digitpatrox.com/googles-mysterious-search-app-links-leave-android-users-concerned/)
 * [3 weeks ago
     
-    ### All Your Couch-to-5K Questions, Answered](https://digitpatrox.com/all-your-couch-to-5k-questions-answered/)
+    ### My Favorite Way to Motivate Myself to Clean a Bit Every Day](https://digitpatrox.com/my-favorite-way-to-motivate-myself-to-clean-a-bit-every-day/)
+* [September 12, 2024
+    
+    ### Five New Features Coming to AirPods Pro 2 (and How to Update Them)](https://digitpatrox.com/five-new-features-coming-to-airpods-pro-2-and-how-to-update-them/)
+* [August 28, 2024
+    
+    ### Which Is the Better Tool?](https://digitpatrox.com/which-is-the-better-tool/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [1 hour ago
     
-    ### Best Garlic Presses and Rockers](https://digitpatrox.com/best-garlic-presses-and-rockers/)
-* [5 hours ago
+    ### Nearly half of all digital initiatives still fail – here’s how you can learn from the ‘digital vanguard’ and deliver success](https://digitpatrox.com/nearly-half-of-all-digital-initiatives-still-fail-heres-how-you-can-learn-from-the-digital-vanguard-and-deliver-success/)
+* [1 hour ago
     
-    ### Windows Me Was More Revolutionary Than We Think](https://digitpatrox.com/windows-me-was-more-revolutionary-than-we-think/)
-* [5 hours ago
+    ### 9 Podcast Planning Templates You Can Download Right Now](https://digitpatrox.com/9-podcast-planning-templates-you-can-download-right-now/)
+* [1 hour ago
     
-    ### How to change the layout of the Mail app on your iPhone in iOS 18.2](https://digitpatrox.com/how-to-change-the-layout-of-the-mail-app-on-your-iphone-in-ios-18-2/)
+    ### What is the Sheraton Hotel mattress and is it on sale this Black Friday?](https://digitpatrox.com/what-is-the-sheraton-hotel-mattress-and-is-it-on-sale-this-black-friday/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
