@@ -205,28 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Myspace SWAT](https://www.somethingawful.com/fashion-swat/myspace-swat/1/)
-* [Alien Blood](https://www.somethingawful.com/movie-reviews/alien-blood/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Tone it Down a Notch!](https://www.somethingawful.com/photoshop-phriday/tone-down-notch/1/)
-* [The Soccer Mystery!](https://www.somethingawful.com/photoshop-phriday/hadji-diouf-gif/1/)
+* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
+* [Best Buds](https://www.somethingawful.com/awful-movie-database/best-buds/)
+* [Fireworks and Duds](https://www.somethingawful.com/photoshop-phriday/fireworks-and-duds/1/)
+* [Civil War Era Chicanery](https://www.somethingawful.com/photoshop-phriday/civil-war-era/1/)
+* [Internet Movie Database and Talk Sex](https://www.somethingawful.com/weekend-web/internet-movie-database/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [What are some dirty secrets about the industry you work in?](http://forums.somethingawful.com/showthread.php?threadid=4075100 "What are some dirty secrets about the industry you work in?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [can I do this (goon project)](http://forums.somethingawful.com/showthread.php?threadid=4075094 "can I do this (goon project)")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [what are some good phone games](http://forums.somethingawful.com/showthread.php?threadid=4075148 "what are some good phone games")
 * ![](https://fi.somethingawful.com/forums/posticons/phiz-crabcore.gif) [It sucks to be invisible](http://forums.somethingawful.com/showthread.php?threadid=4075107 "It sucks to be invisible")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [i tried to make fondue and i barely survived](http://forums.somethingawful.com/showthread.php?threadid=4075122 "i tried to make fondue and i barely survived")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [SASS 2024: This Time With Spirit Halloween](http://forums.somethingawful.com/showthread.php?threadid=4075097 "SASS 2024: This Time With Spirit Halloween")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [SA gratitude journal](http://forums.somethingawful.com/showthread.php?threadid=4075072 "SA gratitude journal")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [can I do this (goon project)](http://forums.somethingawful.com/showthread.php?threadid=4075094 "can I do this (goon project)")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Anybody remember Hello Neighbor?](http://forums.somethingawful.com/showthread.php?threadid=4075158 "Anybody remember Hello Neighbor?")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [i tried to make fondue and i barely survived](http://forums.somethingawful.com/showthread.php?threadid=4075122 "i tried to make fondue and i barely survived")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [What are some dirty secrets about the industry you work in?](http://forums.somethingawful.com/showthread.php?threadid=4075100 "What are some dirty secrets about the industry you work in?")
 
 ### Random Articles
 
-* [Everyone in Their Place](https://www.somethingawful.com/news/everyone-their-place/)
-* [The Flag Factory (Thanks, Hollisbrown!)](https://www.somethingawful.com/awful-links/theflagfactory-theflagpole/)
-* [The Official Dragonlance Faq](https://www.somethingawful.com/awful-links/awful-link-3892/)
-* [The Alpha Weed Comedian](https://www.somethingawful.com/news/american-pothead/)
-* [Rare Bazooka Joe Comics](https://www.somethingawful.com/news/bazooka-joe/1/)
+* [Ghost Dog: Way to Piss Off Your Fans](https://www.somethingawful.com/news/ghost-dog-way/)
+* [Prank Institute, Literotica, and GaiaOnline](https://www.somethingawful.com/weekend-web/prank-institute-literotica/1/)
+* [Skewed Reality](https://www.somethingawful.com/photoshop-phriday/skewed-reality-spacefish/1/)
+* [Baffling Excerpts From The Dragon Age Codex](https://www.somethingawful.com/news/dragon-age-codex/1/)
+* [Stuff You Will Hate!](https://www.somethingawful.com/garbage-day/hate-despised-icon/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
