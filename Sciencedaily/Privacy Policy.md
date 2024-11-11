@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 10, 2024**
+**November 11, 2024**
 
 * * *
 
@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Universal Scale: Testing Einstein's Predictions](https://www.sciencedaily.com/releases/2024/11/241111123136.htm)
+* [Storm in a Laser Beam](https://www.sciencedaily.com/releases/2024/11/241111123307.htm)
+* [Noncoding RNAs Are Not Junk](https://www.sciencedaily.com/releases/2024/11/241107115053.htm)
 * [Deep Ocean Clues to Ice Age Puzzle](https://www.sciencedaily.com/releases/2024/11/241108113456.htm)
 * [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
 * [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
@@ -215,9 +218,6 @@ this hour
 * [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
 * [Elephant Turns Hose Into Showering Tool](https://www.sciencedaily.com/releases/2024/11/241108113209.htm)
 * [Chimps Perform Better With an Audience](https://www.sciencedaily.com/releases/2024/11/241108113207.htm)
-* [Animals: 100-Million-Year Explosion in Color](https://www.sciencedaily.com/releases/2024/11/241107193216.htm)
-* [Memories Are Not Only in the Brain](https://www.sciencedaily.com/releases/2024/11/241107193111.htm)
-* [Mini-Tornadoes in Supersolid Quantum Gas](https://www.sciencedaily.com/releases/2024/11/241106132229.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
+[K-12 Education](https://www.sciencedaily.com/news/mind_brain/k-12_education/)
 
-[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
+[Bird Flu](https://www.sciencedaily.com/news/health_medicine/bird_flu/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
-
 [Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
-
 [Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
-[Floods](https://www.sciencedaily.com/news/earth_climate/floods/)
+[Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
+
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
