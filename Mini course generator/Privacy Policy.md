@@ -1,5 +1,4 @@
-Data Processing Agreement
-=========================
+Home
 
 #### Mini Course Generator | Data Processing Agreement
 
