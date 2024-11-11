@@ -34,9 +34,9 @@ Navigation
         
         #### [3 people sleeping near Everett road killed after driver loses control, police say](https://www.king5.com/article/news/local/everett/everett-police-investigating-car-strikes-5-bystanders-killing-3/281-2c83719a-6147-481e-9687-01cf6fbe53de)
         
-    *  [![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_360x203.jpeg)](https://www.king5.com/article/news/local/thurston-county-deputies-investigating-suspicious-death-yelm-homicide/281-99e89e7a-1c1b-4692-be91-81332e8ded99)
+    *  [![](https://media.king5.com/assets/KING/images/b58170e9-4ed8-4767-9a94-1ef4d2804ad4/20241111T041848/b58170e9-4ed8-4767-9a94-1ef4d2804ad4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b58170e9-4ed8-4767-9a94-1ef4d2804ad4/20241111T041848/b58170e9-4ed8-4767-9a94-1ef4d2804ad4_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/tacoma-residents-concerns-shotspotter-pilot-program/281-b4ebb3e6-6a95-4533-b456-3afb36ba6674)
         
-        #### [TCSO investigating homicide at home near Yelm](https://www.king5.com/article/news/local/thurston-county-deputies-investigating-suspicious-death-yelm-homicide/281-99e89e7a-1c1b-4692-be91-81332e8ded99)
+        #### [Tacoma residents voice concerns about gunshot detection pilot program during public forum](https://www.king5.com/article/news/local/tacoma/tacoma-residents-concerns-shotspotter-pilot-program/281-b4ebb3e6-6a95-4533-b456-3afb36ba6674)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a3136828-140f-4710-88b2-ebb5e1762c3d/20241111T061404/a3136828-140f-4710-88b2-ebb5e1762c3d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3136828-140f-4710-88b2-ebb5e1762c3d/20241111T061404/a3136828-140f-4710-88b2-ebb5e1762c3d_360x203.jpg)](https://www.king5.com/article/news/snow-lovers-hope-incoming-storm-brings-new-life-washington-mountain-towns/281-f7f4cd97-b995-4bda-938e-2260f3bacb54)
+        
+        #### [Snow lovers hope incoming storm brings new life to Washington's mountain towns](https://www.king5.com/article/news/snow-lovers-hope-incoming-storm-brings-new-life-washington-mountain-towns/281-f7f4cd97-b995-4bda-938e-2260f3bacb54)
+        
     *  [![](https://media.king5.com/assets/KING/images/49a539bf-13ca-400e-99c9-7231bd2a3b3e/20241110T160239/49a539bf-13ca-400e-99c9-7231bd2a3b3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/49a539bf-13ca-400e-99c9-7231bd2a3b3e/20241110T160239/49a539bf-13ca-400e-99c9-7231bd2a3b3e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
-        
-        #### [Timeline: Rain, wind and mountain snow move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+51°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
