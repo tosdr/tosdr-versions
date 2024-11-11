@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-10 Nov 2024
+11 Nov 2024
 
 * [Home
     
@@ -266,15 +266,6 @@ Most Popular
 [Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
-
-Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Heartbreak for Derry City in FAI Cup Final](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
 
 Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
@@ -283,6 +274,15 @@ Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
 
 [Ruaidhri Higgins: 'Do I still have the drive and hunger to keep going? My intentions now are to keep going.'](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
+
+Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Heartbreak for Derry City in FAI Cup Final](https://www.derrynow.com/news/derry-sport/1652353/heartbreak-for-derry-city-in-fai-cup-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City behind at the break in FAI Cup final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City behind at the break in FAI Cup final")](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
 
@@ -316,6 +316,13 @@ Guildhall Square lit up on Friday at a rally opposing violence against women.
 [O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![MacD on Music: The Suite Life](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Suite Life")](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
@@ -323,12 +330,14 @@ Guildhall Square lit up on Friday at a rally opposing violence against women.
 [MacD on Music: The Suite Life](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
 ------------------------------------------------------------------------------------------------------------------
 
-[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+[![County Derry road closed following road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed following road traffic collision")](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+The PSNI have advised motorists of a road closure in the Magherafelt area.
 
-[Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -506,6 +515,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![County Derry road closed following road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed following road traffic collision")](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
+
+The PSNI have advised motorists of a road closure in the Magherafelt area.
+
+[Home](https://www.derrynow.com/)
+
+[County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -513,7 +531,7 @@ Advertise with Us
 [Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_10/2982413-1731264055090.jpg--.jpg?1731264055994 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
 
 Ruaidhri Higgins comes to terms with the FAI Cup final defeat.
 
@@ -546,13 +564,6 @@ Andrew Quinn puts Drogheda United in the lead. PHOTO: Thomas Flinkow/Sportsfile
 
 [Derry City behind at the break in FAI Cup final](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_10/1731242101958_0.jpg--.jpg?1731242102067 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
