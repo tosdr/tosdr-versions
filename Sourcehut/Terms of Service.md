@@ -106,11 +106,11 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [754d2602d93c5e47cc2ccc92a4055ec300c54cc2](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/754d2602d93c5e47cc2ccc92a4055ec300c54cc2)
-Author: Jordan Anderson <jordan@jba.io>
-Date:   2024-11-04T03:58:52-06:00
+commit [84da5436df1018b9a8894e6c758d3fae0a2a5b07](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/84da5436df1018b9a8894e6c758d3fae0a2a5b07)
+Author: Conrad Hoffmann <ch@bitfehler.net>
+Date:   2024-11-11T21:59:40+01:00
 
-Update OpenBSD compatibility matrix
+packages: bump to Alpine 3.20
 
 **Clone this wiki**
 
