@@ -118,16 +118,16 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
     
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ghost of The Black Sea](/wp-content/thumbnails/6082-100x70.jpg?x53432)
+* [![Ross Kemp: Extreme World – Mexico EP3](/wp-content/thumbnails/5394-100x70.jpg?x53432)
     
-    Ghost of The Black Sea
+    Ross Kemp: Extreme World – Mexico EP3
     
-    Seven years ago, on his third trip to the Black Sea, Dr. Robert Ballard discovered a miraculously well-preserved Byzantine shipwreck, but his team could only take pictures. Now, Ballard returns with s](https://documentaryheaven.com/ghost-of-the-black-sea/ "Ghost of The Black Sea")
-* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
+    Ross travels to the war torn city of Juarez in Mexico where the drug cartels fight for ownership of smuggling routes into the US worth $40 billion.](https://documentaryheaven.com/ross-kemp-extreme-world-mexico/ "Ross Kemp: Extreme World – Mexico EP3")
+* [![Searching for Spitman](/wp-content/thumbnails/10034-100x70.png?x53432)
     
-    EP 4/6 The Private Life of Plants
+    Searching for Spitman
     
-    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
-* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
+    The tale behind a somewhat notorious character from around the West London area known only as "Spitman" is the thing urban legends are made of, a sort of local boogie man if you will. Spitman is](https://documentaryheaven.com/searching-for-spitman/ "Searching for Spitman")
+* [![Palestine Is Still The Issue](/wp-content/thumbnails/720-100x70.png?x53432)
     
-    Panorama: The Battle For Bomb Alley
+    Palestine Is Still The Issue
     
-    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
-* [![The Memphis Belle: A Story of a Flying Fortress](/wp-content/thumbnails/2142-100x70.jpg?x53432)
+    In 1977, the award-winning journalist and film-maker, John Pilger, made a documentary called Palestine Is Still The Issue. He told how almost a million Palestinians had been forced off their land in 1](https://documentaryheaven.com/palestine-is-still-the-issue/ "Palestine Is Still The Issue")
+* [![The Pharmacratic Inquisition](/wp-content/thumbnails/2273-100x70.jpg?x53432)
     
-    The Memphis Belle: A Story of a Flying Fortress
+    The Pharmacratic Inquisition
     
-    Movie Guide Unabashedly sentimental, this war film was produced by David Putnam in partnership with Catherine Wyler, whose father William Wyler directed an acclaimed documentary about the real-life ev](https://documentaryheaven.com/the-memphis-belle-a-story-of-a-flying-fortress/ "The Memphis Belle: A Story of a Flying Fortress")
-* [![Air Crash Investigations: Ghost Plane](/wp-content/thumbnails/4088-100x70.jpg?x53432)
+    Thousands of years ago, in the pre monarchic era, sacred plants and other entheogenic substances where politically correct and highly respected for their ability to bring forth the divine, Yahweh, God](https://documentaryheaven.com/the-pharmacratic-inquisition/ "The Pharmacratic Inquisition")
+* [![Feltham Sings](/wp-content/thumbnails/5858-100x70.gif?x53432)
     
-    Air Crash Investigations: Ghost Plane
+    Feltham Sings
     
-    Helios Airways Flight 522 departs from Cyprus. As it flies over Greece, air traffic controllers lose radio contact with it. An incorrect setting on the cabin pressurization panel causes the pilots and](https://documentaryheaven.com/air-crash-investigations-ghost-plane/ "Air Crash Investigations: Ghost Plane")
+    This documentary is – without a shadow of a doubt – one of the most innovative and engrossing documentaries ever aired on British television. Set in Feltham Young Offenders Institution in the United K](https://documentaryheaven.com/feltham-sings/ "Feltham Sings")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
