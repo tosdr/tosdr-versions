@@ -392,15 +392,15 @@ Made with ❤ in Germany
 
 bitkasten GmbH
 
-Wallensteinstraße 63  
-90431 Nürnberg
+Frankenstraße 152  
+90461 Nürnberg
 
 Standort Niederrhein  
 Ernst-Dietrich-Platz 2  
 40882 Ratingen
 
 [+49 911 | 6000 2874](tel:+4991160002874)  
-[Kontaktformular](https://www.bitkasten.de/kontakt/) [](https://stage.bitkasten.de/login)
+[Kontaktformular](https://www.bitkasten.de/kontakt/)
 
 Nutzersupport
 
