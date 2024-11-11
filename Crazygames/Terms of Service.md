@@ -115,7 +115,7 @@ English
 
 [About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
 
-[](https://www.tiktok.com/@crazygames)[](https://www.linkedin.com/company/crazygames/)[](https://www.twitter.com/crazygamescom)[](https://www.youtube.com/@crazygamescom)[](https://play.google.com/store/apps/dev?id=8163162718412732005)[](https://apps.apple.com/us/developer/crazygames-com/id1145410933)
+[](https://www.tiktok.com/@crazygames)[](https://discord.com/invite/crazygames)[](https://www.linkedin.com/company/crazygames/)[](https://www.twitter.com/crazygamescom)[](https://www.youtube.com/@crazygamescom)[](https://play.google.com/store/apps/dev?id=8163162718412732005)[](https://apps.apple.com/us/developer/crazygames-com/id1145410933)
 
 © 2024 CrazyGames
 
