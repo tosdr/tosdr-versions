@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Can't get enough Fark in your life? Try
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Meet the psychiatrist who invented Karens, Yankees fans, and people who like Chicago-style pizza](https://www.fark.com/goto/13458808) ( [newrepublic.com](https://www.fark.com/goto/13458808) ) » [(0 comments)](https://www.fark.com/comments/13458808/Meet-psychiatrist-who-invented-Karens-Yankees-fans-people-who-like-Chicago-style-pizza) |
-| [Discussion](https://www.fark.com/discussion/) | [Veterans Day is the solemn occasion where we use coupons and discounts to honor those who fought for the values that a majority of Americans very recently decided weren't worth fighting for](https://www.fark.com/goto/13458732) ( [today.com](https://www.fark.com/goto/13458732) ) » [(7 comments)](https://www.fark.com/comments/13458732/Veterans-Day-is-solemn-occasion-where-we-use-coupons-discounts-to-honor-those-who-fought-for-values-that-a-majority-of-Americans-very-recently-decided-werent-worth-fighting-for) |
-| [Sports](https://www.fark.com/sports/) | [Pope Francis can't stop tweeting about his team, the Saints](https://www.fark.com/goto/13458628) ( [nbcphiladelphia.com](https://www.fark.com/goto/13458628) ) » [(0 comments)](https://www.fark.com/comments/13458628/Pope-Francis-cant-stop-tweeting-about-his-team-Saints) |
-| [Business](https://www.fark.com/business/) | [The iconic Super Cub 50, world's most popular smaller-engine motorcycle, is being killed off by Honda thanks to emissions, e-scooters and e-bikes](https://www.fark.com/goto/13458828) ( [mainichi.jp](https://www.fark.com/goto/13458828) ) » [(7 comments)](https://www.fark.com/comments/13458828/The-iconic-Super-Cub-50-worlds-most-popular-smaller-engine-motorcycle-is-being-killed-off-by-Honda-thanks-to-emissions-e-scooters-e-bikes) |
-| [STEM](https://www.fark.com/stem/) | [Meet the psychiatrist who invented Karens, Yankees fans, and people who like Chicago-style pizza](https://www.fark.com/goto/13458808) ( [newrepublic.com](https://www.fark.com/goto/13458808) ) » [(0 comments)](https://www.fark.com/comments/13458808/Meet-psychiatrist-who-invented-Karens-Yankees-fans-people-who-like-Chicago-style-pizza) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Writer complains that SNL has ruined their childhood with erotic Mike Wazowski artwork, somehow overlooking that the character is literally a walking, talking testicle](https://www.fark.com/goto/13458834) ( [slashfilm.com](https://www.fark.com/goto/13458834) ) » [(14 comments)](https://www.fark.com/comments/13458834/Writer-complains-that-SNL-has-ruined-their-childhood-with-erotic-Mike-Wazowski-artwork-somehow-overlooking-that-character-is-literally-a-walking-talking-testicle) |
-| [Fandom](https://www.fark.com/fandom/) | [IGN sinks Mario & Luigi: Brothership](https://www.fark.com/goto/13458098) ( [ign.com](https://www.fark.com/goto/13458098) ) » [(25 comments)](https://www.fark.com/comments/13458098/IGN-sinks-Mario-Luigi-Brothership) |
-| [D'awww](https://www.fark.com/dawww/) | [When dogs drift](https://www.fark.com/goto/13458198) ( [youtube.com](https://www.fark.com/goto/13458198) ) » [(4 comments)](https://www.fark.com/comments/13458198/When-dogs-drift) |
-| [Food](https://www.fark.com/food/) | [Old and busted: We gotta get that sauce, Morty. New hotness: They messed up our favorite sauce, Morty](https://www.fark.com/goto/13458884) ( [metro.co.uk](https://www.fark.com/goto/13458884) ) » [(1 comment)](https://www.fark.com/comments/13458884/Old-busted-We-gotta-get-that-sauce-Morty-New-hotness-They-messed-up-our-favorite-sauce-Morty) |
-| [Politics](https://www.fark.com/politics/) | ["Yeah, I voted for Trump. But I can't be racist because I'm not white"](https://www.fark.com/goto/13458760) ( [usatoday.com](https://www.fark.com/goto/13458760) ) » [(12 comments)](https://www.fark.com/comments/13458760/Yeah-I-voted-for-Trump-But-I-cant-be-racist-because-Im-not-white) |
+| [Main](https://www.fark.com/) | [Caption this sleeping beauty](https://www.fark.com/goto/13458762) ( [live.staticflickr.com](https://www.fark.com/goto/13458762) ) » [(11 comments)](https://www.fark.com/comments/13458762/Caption-this-sleeping-beauty) |
+| [Discussion](https://www.fark.com/discussion/) | ["My husband has an insane idea to ensure our son doesn't inherit his micropenis and I'm growing concerned he's serious"](https://www.fark.com/goto/13459218) ( [slate.com](https://www.fark.com/goto/13459218) ) » [(10 comments)](https://www.fark.com/comments/13459218/My-husband-has-an-insane-idea-to-ensure-our-son-doesnt-inherit-his-micropenis-Im-growing-concerned-hes-serious) |
+| [Sports](https://www.fark.com/sports/) | ["If someone gives you 100,000 to 1 on anything, you take that bet." Kevin Malone](https://www.fark.com/goto/13459126) ( [foxsports.com](https://www.fark.com/goto/13459126) ) » [(4 comments)](https://www.fark.com/comments/13459126/If-someone-gives-you-100000-to-1-on-anything-you-take-that-bet-Kevin-Malone) |
+| [Business](https://www.fark.com/business/) | [Yes](https://www.fark.com/goto/13459062) ( [msn.com](https://www.fark.com/goto/13459062) ) » [(6 comments)](https://www.fark.com/comments/13459062/Yes) |
+| [STEM](https://www.fark.com/stem/) | [This just in: heat waves are bad for old people. And their lawns too](https://www.fark.com/goto/13458856) ( [medicalxpress.com](https://www.fark.com/goto/13458856) ) » [(3 comments)](https://www.fark.com/comments/13458856/This-just-in-heat-waves-are-bad-for-old-people-And-their-lawns-too) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Once upon a time, Martha Stewart had a topless SNL promo. Here's the naked truth behind it](https://www.fark.com/goto/13459182) ( [cracked.com](https://www.fark.com/goto/13459182) ) » [(7 comments)](https://www.fark.com/comments/13459182/Once-upon-a-time-Martha-Stewart-had-a-topless-SNL-promo-Heres-naked-truth-behind-it) |
+| [Fandom](https://www.fark.com/fandom/) | [Avatar 3's concept art will have you even more excited to watch it at home](https://www.fark.com/goto/13458990) ( [gizmodo.com](https://www.fark.com/goto/13458990) ) » [(17 comments)](https://www.fark.com/comments/13458990/Avatar-3s-concept-art-will-have-you-even-more-excited-to-watch-it-at-home) |
+| [D'awww](https://www.fark.com/dawww/) | [What do penguins like to wear on the beach? A beak-ini](https://www.fark.com/goto/13459118) ( [metro.co.uk](https://www.fark.com/goto/13459118) ) » [(3 comments)](https://www.fark.com/comments/13459118/What-do-penguins-like-to-wear-on-beach-A-beak-ini) |
+| [Food](https://www.fark.com/food/) | [How SPAM came to be, starting way back in 1937. No, not the inbox clogging kind, the pink, jiggly gelatinous canned artery clogging kind](https://www.fark.com/goto/13459152) ( [youtube.com](https://www.fark.com/goto/13459152) ) » [(7 comments)](https://www.fark.com/comments/13459152/How-SPAM-came-to-be-starting-way-back-in-1937-No-not-inbox-clogging-kind-pink-jiggly-gelatinous-canned-artery-clogging-kind) |
+| [Politics](https://www.fark.com/politics/) | [Kid Rock: Uniter of a divided nation?](https://www.fark.com/goto/13458820) ( [huffpost.com](https://www.fark.com/goto/13458820) ) » [(23 comments)](https://www.fark.com/comments/13458820/Kid-Rock-Uniter-of-a-divided-nation) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 11 2024 08:44:10  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 11 2024 13:43:01  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
