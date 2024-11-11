@@ -293,7 +293,7 @@ Check Out Our Blog
 
 [![A semi-realistic, 2D cartoon-style image of a professional character with glasses holding a document labeled 'Second Mortgage' with a thoughtful expression. The character stands in front of a house illustration, surrounded by financial icons like dollar signs, a house key, and mortgage documents, symbolizing the concept of a second mortgage. The image uses flat colors and minimal shading, creating a professional yet approachable look that explains second mortgages effectively.](https://creditnerds.com/wp-content/uploads/2024/11/Second-Mortgage-30x30.webp)](https://creditnerds.com/what-is-a-second-mortgage/)
 
-[Uncategorized](https://creditnerds.com/category/uncategorized/)
+[Credit](https://creditnerds.com/category/credit/)
 
 November 5, 2024
 
