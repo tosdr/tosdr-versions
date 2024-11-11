@@ -2,8 +2,6 @@
 
 [![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-qwq9u2f3aupysbrdocpuxc7zjaguma3q7vibvdwqe2.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
 
-Search  Search
-
 MENUMENU
 
 * [My account](https://www.theottoolbox.com/my-account/)
