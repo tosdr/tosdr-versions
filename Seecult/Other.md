@@ -422,11 +422,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Objekti i projekti / Objects and Projects, September 1971. Normal 8 mm film by Zoran Popovic](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/objects-and-projects-september-1971/objekti-i-projekti.?itok=0bWuBnc6 "Objekti i projekti / Objects and Projects, September 1971. Normal 8 mm film by Zoran Popovic")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/objects-and-projects-september)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/tamara-cvetic-n2.jpg?itok=cEwige0Z)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/djokic.jpg?itok=SOpl2Qxu)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/noc-muzeja/vojni-kazamati-noc-muzeja-2007/noc-muzeja-23.jpg?itok=tt5sK_JP)](http://seecult.org/galerija/foto-galerija/foto-arhiva/noc-muzeja/vojni-kazamati-noc-muzeja-2007)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
