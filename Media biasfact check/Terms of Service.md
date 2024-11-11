@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 11, 2024 | Media News Daily: Top Stories for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/media-news-daily-top-stories-for-11-11-2024/ "Media News Daily: Top Stories for 11/11/2024")
+* [November 11, 2024 | MBFC’s Daily Vetted Fact Checks for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/mbfcs-daily-vetted-fact-checks-for-11-11-2024/ "MBFC’s Daily Vetted Fact Checks for 11/11/2024")
 * [November 10, 2024 | MBFC’s Daily Vetted Fact Checks for 11/10/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/10/mbfcs-daily-vetted-fact-checks-for-11-10-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/10/2024 (Weekend Edition)")
 * [November 9, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 3rd – Nov 9th](https://mediabiasfactcheck.com/2024/11/09/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-3rd-nov-9th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 3rd – Nov 9th")
 * [November 9, 2024 | MBFC’s Daily Vetted Fact Checks for 11/09/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/09/mbfcs-daily-vetted-fact-checks-for-11-09-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/09/2024 (Weekend Edition)")
-* [November 8, 2024 | Media News Daily: Top Stories for 11/08/2024](https://mediabiasfactcheck.com/2024/11/08/media-news-daily-top-stories-for-11-08-2024/ "Media News Daily: Top Stories for 11/08/2024")
-* [November 8, 2024 | MBFC’s Daily Vetted Fact Checks for 11/08/2024](https://mediabiasfactcheck.com/2024/11/08/mbfcs-daily-vetted-fact-checks-for-11-08-2024/ "MBFC’s Daily Vetted Fact Checks for 11/08/2024")
 
 Search for:  
 
@@ -217,10 +217,10 @@ No related posts.
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [MBFC's Daily Vetted Fact Checks for 11/10/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/10/mbfcs-daily-vetted-fact-checks-for-11-10-2024-weekend-edition/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
 
