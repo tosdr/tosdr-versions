@@ -42,7 +42,7 @@ Contents
 2. [Name and address of the controller](#section2)
 3. [Name and address of the data protection officer](#section3)
 4. [General information on data processing](#section4)
-5. [Provision of our websites and mobile apps; creation of log files](#section5)
+5. [Provision of our websites, mobile apps and forums; creation of log files](#section5)
 6. [Inquiries via contact form, email, support tool; legal matters](#section6)
 7. [Submission of newsletters](#section7)
 8. [Submission of push notifications](#section8)
@@ -191,13 +191,13 @@ After the end of this period, the IP address and log files are deleted, unless t
 
 #### 5\. Possibility of objection and removal
 
-The collection of data for the purpose of making the website or mobile app available and the storage of the data in log files are essential for the operation of the website. As a consequence, there is no objection possibility on the part of the user. Likewise, in case of error logs and breach of terms of service, there is no possibility of requesting the objection or the deletion of the log files. This decision is based on Art. 21(1) and 17(3)(f) GDPR.
+The collection of data for the purpose of making the website or mobile app available and the storage of the data in log files are essential for the operation of the website. As a consequence, there is no objection possibility on the part of the user. Likewise, in case of error logs and breach of terms of service, there is no possibility of requesting the objection or the deletion of the log files. This decision is based on Art. 21(1) and 17(3)(e) GDPR.
 
 #### 6\. Existence of automated decision making
 
 InnoGames uses an automated tool to determine whether you are breaching our Terms of Services or Game Rules in regards to the usage of prohibited bots and scripts (“Bot Detection Tool”). The Bot Detection Tool serves us by analyzing the data produced by your hardware when playing our games. In case the Bot Detection Tool determines that your actions in the game are incompatible with the action produced by a human, you might be subject to receiving an automatic ban.
 
-### B) Game Forums
+### B) Forums
 
 #### 1\. Description and scope of data processing
 
