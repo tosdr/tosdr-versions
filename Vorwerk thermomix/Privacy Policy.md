@@ -6,7 +6,7 @@ Menu
 * [Membership](https://cookidoo.thermomix.com/foundation/en-US/membership)
 * [Help](https://cookidoo.thermomix.com/foundation/en-US/help)
 
-* [Sign up](https://cookidoo.thermomix.com/profile/en-US/register)
+* [Sign up](https://cookidoo.thermomix.com/ciam/register/start)
 * [Login](https://web.production-us.cookidoo.vorwerk-digital.com/profile/en-US/login)
 
 [](https://cookidoo.thermomix.com/search/en-US)
