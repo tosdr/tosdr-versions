@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Rumpelstiltskin](https://www.myabandonware.com/game/rumpelstiltskin-szb)
+* [Thomas the Tank Engine & Friends: Thomas's Big Race](https://www.myabandonware.com/game/thomas-the-tank-engine-friends-thomas-s-big-race-tml)
+* [The Soccer Game II](https://www.myabandonware.com/game/the-soccer-game-ii-tmk)
+* [The Dragon's Domain II: Restoration](https://www.myabandonware.com/game/the-dragon-s-domain-ii-restoration-tmj)
 * [The Animated Alphabet](https://www.myabandonware.com/game/the-animated-alphabet-tmi)
-* [Tark Simmons, Priestess of the First Church, in her battle against the Demon of Dark Desire](https://www.myabandonware.com/game/tark-simmons-priestess-of-the-first-church-in-her-battle-against-the-demon-of-dark-desire-tmh)
-* [Space Pilot](https://www.myabandonware.com/game/space-pilot-tmg)
-* [Girl Poker](https://www.myabandonware.com/game/girl-poker-tmf)
-* [Air Traffic Controller](https://www.myabandonware.com/game/air-traffic-controller-tme)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
