@@ -208,7 +208,8 @@ webmaster@vpnranks.com
 
 VPNRanks, 2810 Crossroads Dr #4000, Madison, WI 53718 USA
 
-© Copyright 2024 | All Rights Reserved.
+© Copyright 2024 | All Rights Reserved.  
+At VPNRanks.com, we use Cookies to provide customized services, updated [Privacy Policy](https://www.vpnranks.com/privacy-policy/)
 
 * [](https://www.youtube.com/@vpnranksofficial "Youtube")
 * [](https://www.tiktok.com/@vpnranks "TikTok")
@@ -217,7 +218,3 @@ VPNRanks, 2810 Crossroads Dr #4000, Madison, WI 53718 USA
 * [](https://www.instagram.com/vpnranks/ "Instagram")
 
 Back To Top
-
-At VPNRanks.com, we use Cookies to provide customized service to users and help us analyze website performance. We've updated our [Privacy Policy](https://www.vpnranks.com/privacy-policy/)
-
-Accept All Deny
