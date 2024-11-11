@@ -321,16 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![The New Bahru lifestyle precinct is housed in a former high school built around a shaded lawn.](https://static.ffx.io/images/$zoom_0.1304%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d732b3b7c89b844905694464d39b615050382eeb)](https://www.afr.com/life-and-luxury/design/singapore-layover-check-out-new-bahru-20241107-p5kold)
+[![The Ferrari 12Cilindri is the perfect grand tourer for a place with no speed limits. ](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/198624f7055cc9e893cc860b98720c1d4963dfec)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-ferrari-12cilindri-is-tough-to-pronounce-impressive-to-drive-20241023-p5kkux)
 
-### [Singapore layover? Check out New Bahru](https://www.afr.com/life-and-luxury/design/singapore-layover-check-out-new-bahru-20241107-p5kold)
+### [The Ferrari 12Cilindri is tough to pronounce, impressive to drive](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-ferrari-12cilindri-is-tough-to-pronounce-impressive-to-drive-20241023-p5kkux)
 
-* 56 mins ago
-* Stephen Todd
+* 47 mins ago
+* Tony Davis
 
-* ### [10 country and coastal retreats to book in 2025](https://www.afr.com/life-and-luxury/travel/10-country-and-coastal-retreats-to-book-in-2025-20241025-p5klfz)
+* ### [Singapore layover? Check out New Bahru](https://www.afr.com/life-and-luxury/design/singapore-layover-check-out-new-bahru-20241107-p5kold)
     
-* ### [Why late March is the best time of year to visit Hong Kong](https://www.afr.com/life-and-luxury/travel/why-late-march-is-the-best-time-of-year-to-visit-hong-kong-20240507-p5fpj1)
+* ### [10 country and coastal retreats to book in 2025](https://www.afr.com/life-and-luxury/travel/10-country-and-coastal-retreats-to-book-in-2025-20241025-p5klfz)
     
 
 [Rich List](https://www.afr.com/rich-list)
