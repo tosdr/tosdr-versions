@@ -26,9 +26,9 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-beyonce-1200x630.jpg)](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-obama-1200x630.png)](https://americanwirenews.com/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire/)
 
-[Kamala’s drubbing proves to be referendum on celeb endorsements](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
+[Wild AI-generated post-election call between Biden and Obama is straight FIRE](https://americanwirenews.com/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-clooneylateshow-1200-x-628-1200x630.jpg)](https://americanwirenews.com/disheartened-george-clooney-taking-step-back-from-politics-after-kamala-thumping/)
 
@@ -42,21 +42,21 @@ Search for:
 
 [Trump sets record straight on potential role Pompeo, Nikki Haley may have in his administration](https://americanwirenews.com/trump-sets-record-straight-on-potential-role-pompeo-nikki-haley-may-have-in-his-administration/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gascon-hochman-1200x630.jpg)](https://americanwirenews.com/la-prosecutors-embrace-new-era-amid-gascon-defeat-crime-is-illegal-again/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-charlamagne-1200x630.jpg)](https://americanwirenews.com/no-really-charlamagne-gets-reality-check-when-told-trump-got-1-of-3-voters-of-color/)
 
-[LA prosecutors embrace new era amid Gascón defeat: ‘Crime is illegal again’](https://americanwirenews.com/la-prosecutors-embrace-new-era-amid-gascon-defeat-crime-is-illegal-again/)
+[‘No… really?’ Charlamagne gets reality check when told Trump got 1 of 3 voters of color](https://americanwirenews.com/no-really-charlamagne-gets-reality-check-when-told-trump-got-1-of-3-voters-of-color/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obamabro-1200-x-628-1200x630.jpg)](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-simmons-1200x630.png)](https://americanwirenews.com/kamalas-former-aide-threatens-trump-47-swag-with-harebrained-idea-involving-biden/)
 
-[‘Obama bro’ podcast host claims Biden campaign’s internal polling showed Trump earning 400 electoral votes](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
+[Kamala’s former aide threatens ‘Trump 47’ swag with harebrained idea involving Biden](https://americanwirenews.com/kamalas-former-aide-threatens-trump-47-swag-with-harebrained-idea-involving-biden/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tish-hakeem-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james/)
 
 [Things go downhill fast after Hakeem Jeffries warns Trump to ‘back up off’ of Tish James](https://americanwirenews.com/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fox-news-trump-win-1200x630.jpg)](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joyyaledr-1200-x-628-1200x630.jpg)](https://americanwirenews.com/yale-psychologist-urges-left-to-ice-trump-supporting-family-during-holidays/)
 
-[Fox News dominated election night coverage: ‘Averaged a whopping 10.3 million total viewers’](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
+[Yale psychologist urges left to ice Trump-supporting family during holidays](https://americanwirenews.com/yale-psychologist-urges-left-to-ice-trump-supporting-family-during-holidays/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-criswell-1200x630.jpg)
 
@@ -64,43 +64,23 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
+### [Kamala’s drubbing proves to be referendum on celeb endorsements](https://americanwirenews.com/kamalas-drubbing-proves-to-be-referendum-on-celeb-endorsements/)
+
+### [Top Hillary aide says Democratic Party ‘being held hostage to the far left’](https://americanwirenews.com/top-hillary-aide-says-democratic-party-being-held-hostage-to-the-far-left/)
+
+### [FEMA official given the boot after directing relief workers to ‘avoid homes advertising Trump’](https://americanwirenews.com/fema-official-given-the-boot-after-directing-relief-workers-to-avoid-homes-advertising-trump/)
+
+### [Tulane women’s basketball head coach wore Kamala shirt to kick off season, team loses](https://americanwirenews.com/tulane-womens-basketball-head-coach-wore-kamala-shirt-to-kick-off-season-team-loses/)
+
+### [Meghan McCain slams ‘The View’ over lack of conservative voices: ‘Radical progressive insane asylum’](https://americanwirenews.com/meghan-mccain-slams-the-view-over-lack-of-conservative-voices-radical-progressive-insane-asylum/)
+
 ### [Melania has message about what husband has in store for America](https://americanwirenews.com/melania-has-message-about-what-husband-has-in-store-for-america/)
 
-### [Let’s watch a sample of the bigmouth late-night hosts lose it over Trump victory](https://americanwirenews.com/lets-watch-a-sample-of-the-bigmouth-late-night-hosts-lose-it-over-trump-victory/)
-
-### [Bannon, MTG eager for retribution against malicious actor Liz Cheney](https://americanwirenews.com/bannon-mtg-eager-for-retribution-against-malicious-actor-liz-cheney/)
-
-### [Oh no! After implying she’ll drink Drano if Trump wins, Bette Midler’s X account disappears](https://americanwirenews.com/oh-no-after-implying-shell-drink-drano-if-trump-wins-bette-midlers-x-account-disappears/)
-
-### [Speculation on Trump’s Cabinet begins](https://americanwirenews.com/speculation-on-trumps-cabinet-begins/)
-
-### [WaPo owner Bezos kisses the ring](https://americanwirenews.com/wapo-owner-bezos-kisses-the-ring/)
-
 ### [LATEST](https://www.commdiginews.com/category/latest/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-charlamagne-220x180.jpg)](https://americanwirenews.com/no-really-charlamagne-gets-reality-check-when-told-trump-got-1-of-3-voters-of-color/)
-
-[‘No… really?’ Charlamagne gets reality check when told Trump got 1 of 3 voters of color](https://americanwirenews.com/no-really-charlamagne-gets-reality-check-when-told-trump-got-1-of-3-voters-of-color/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-simmons-220x180.png)](https://americanwirenews.com/kamalas-former-aide-threatens-trump-47-swag-with-harebrained-idea-involving-biden/)
-
-[Kamala’s former aide threatens ‘Trump 47’ swag with harebrained idea involving Biden](https://americanwirenews.com/kamalas-former-aide-threatens-trump-47-swag-with-harebrained-idea-involving-biden/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-auburn-220x180.jpg)](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
-
-[Auburn basketball flight diverted after scuffle; team marks big win with bizarre celebration](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aoc-djt-split-1-1200-x-628-220x180.jpg)](https://americanwirenews.com/aocs-district-shifts-bigly-to-trump-during-election/)
 
 [AOC’s district shifts ‘bigly’ to Trump during election](https://americanwirenews.com/aocs-district-shifts-bigly-to-trump-during-election/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joyyaledr-1200-x-628-220x180.jpg)](https://americanwirenews.com/yale-psychologist-urges-left-to-ice-trump-supporting-family-during-holidays/)
-
-[Yale psychologist urges left to ice Trump-supporting family during holidays](https://americanwirenews.com/yale-psychologist-urges-left-to-ice-trump-supporting-family-during-holidays/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-obama-220x180.png)](https://americanwirenews.com/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire/)
-
-[Wild AI-generated post-election call between Biden and Obama is straight FIRE](https://americanwirenews.com/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sanderstownsend-220x180.jpg)](https://americanwirenews.com/symone-sanders-scolds-white-women-yall-got-to-have-a-conversation/)
 
@@ -113,6 +93,26 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt-joe1-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/but-i-thought-biden-to-welcome-trump-at-white-house-this-week/)
 
 [‘But I thought…’: Biden to welcome Trump at White House this week](https://americanwirenews.com/but-i-thought-biden-to-welcome-trump-at-white-house-this-week/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michaelson-singleton-220x180.jpg)](https://americanwirenews.com/im-not-going-to-listen-to-transphobia-at-this-table-cnn-panel-explodes-over-a-perceived-slur/)
+
+[‘I’m not going to listen to transphobia at this table!’ CNN panel explodes over a perceived ‘slur’](https://americanwirenews.com/im-not-going-to-listen-to-transphobia-at-this-table-cnn-panel-explodes-over-a-perceived-slur/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-they-them-220x180.jpg)](https://americanwirenews.com/how-trumps-11th-hour-they-them-ad-helped-clinch-his-victory/)
+
+[How Trump’s 11th hour ‘they/them’ ad helped clinch his victory](https://americanwirenews.com/how-trumps-11th-hour-they-them-ad-helped-clinch-his-victory/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obamabro-1200-x-628-220x180.jpg)](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
+
+[‘Obama bro’ podcast host claims Biden campaign’s internal polling showed Trump earning 400 electoral votes](https://americanwirenews.com/obama-bro-podcast-host-claims-biden-campaigns-internal-polling-showed-trump-earning-400-electoral-votes/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fox-news-trump-win-220x180.jpg)](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
+
+[Fox News dominated election night coverage: ‘Averaged a whopping 10.3 million total viewers’](https://americanwirenews.com/fox-news-dominated-election-night-coverage-averaged-a-whopping-10-3-million-total-viewers/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gascon-hochman-220x180.jpg)](https://americanwirenews.com/la-prosecutors-embrace-new-era-amid-gascon-defeat-crime-is-illegal-again/)
+
+[LA prosecutors embrace new era amid Gascón defeat: ‘Crime is illegal again’](https://americanwirenews.com/la-prosecutors-embrace-new-era-amid-gascon-defeat-crime-is-illegal-again/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obeidallah-220x180.jpg)](https://americanwirenews.com/resistance-radio-host-becomes-an-election-denier-after-questioning-trumps-2024-win/)
 
@@ -264,9 +264,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-1200x630.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-donaldt-kamala-split-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster/)
 
-[Laura Ingraham calls Speaker Johnson out on post-election backbone: ‘that sounds like amnesty’](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
+[‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://americanwirenews.com/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-donaldt-kamala-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster/)
+
+[‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://americanwirenews.com/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laura-ingraham-mike-johnson-220x180.jpg)](https://americanwirenews.com/laura-ingraham-calls-speaker-johnson-out-on-post-election-backbone-that-sounds-like-amnesty/)
 
@@ -285,10 +289,6 @@ Getty Images](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
 [Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Woods-220x180.jpg)](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
-
-[James Woods envisions ceremony to rid America of Mayorkas](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -318,9 +318,13 @@ Getty Images](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/skyler-robert-philippi-1200x630.jpg)](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-auburn-1200x630.jpg)](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
 
-[FBI thwarts alleged white supremacist attack on Nashville power grid on Election Day eve](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
+[Auburn basketball flight diverted after scuffle; team marks big win with bizarre celebration](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-auburn-220x180.jpg)](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
+
+[Auburn basketball flight diverted after scuffle; team marks big win with bizarre celebration](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/skyler-robert-philippi-220x180.jpg)](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
 
@@ -337,9 +341,5 @@ Getty Images](https://americanwirenews.com/pelosi-donna-brazile-exchange-heated-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drea-de-matteo-2-220x180.jpg)](https://americanwirenews.com/the-sopranos-actress-gets-real-i-think-half-of-hollywood-is-actually-voting-for-trump/)
 
 [The Sopranos actress gets real: ‘I think half of Hollywood is actually voting for Trump’](https://americanwirenews.com/the-sopranos-actress-gets-real-i-think-half-of-hollywood-is-actually-voting-for-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelce-220x180.jpg)](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
-
-[Jason Kelce attacks fan, goes ballistic on guy for calling Taylor Swift’s boy toy the other F-word](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
 
 © 2024. All Rights Reserved. American Wire News
