@@ -199,6 +199,10 @@ Get a quick taste of Knack.
 
 [![Knack: No-Code Application Development Platform](https://www.knack.com/wp-content/uploads/2023/11/Screenshot-2023-11-06-at-2.35.42-PM-300x151-1.png)](https://www.knack.com/tour/)
 
+[Comprehensive Guide: How to Build Construction Software to Manage Operations](https://www.knack.com/blog/build-construction-software/)
+
+In the construction industry, finding the right software solution can…
+
 [How to Create an App with AI](https://www.knack.com/blog/how-to-create-an-app-with-ai/)
 
 The integration of AI (Artificial Intelligence) is revolutionizing the landscape,…
