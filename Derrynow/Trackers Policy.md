@@ -259,12 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
+[![County Derry road closed following road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed following road traffic collision")](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+The PSNI have advised motorists of a road closure in the Magherafelt area.
 
-[Derry Death Notices - Sunday, November 10, 2024](https://www.derrynow.com/news/deaths/1651092/derry-death-notices-sunday-november-10-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1652379/ruaidhri-higgins-do-i-still-have-the-drive-and-hunger-to-keep-going-my-intentions-now-are-to-keep-going.html)
 
@@ -293,13 +295,6 @@ Andrew Quinn puts Drogheda United in the lead. PHOTO: Thomas Flinkow/Sportsfile
 [Derry City behind at the break in FAI Cup final](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Thousands attend Derry ‘Rally For Women’s Safety’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Thousands attend Derry ‘Rally For Women’s Safety’")](https://www.derrynow.com/news/local-news/1652188/thousands-attend-derry-rally-for-womens-safety.html)
 
 Guildhall Square lit up on Friday at a rally opposing violence against women.
@@ -308,6 +303,13 @@ Guildhall Square lit up on Friday at a rally opposing violence against women.
 
 [Thousands attend Derry ‘Rally For Women’s Safety’](https://www.derrynow.com/news/local-news/1652188/thousands-attend-derry-rally-for-womens-safety.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](https://www.derrynow.com/news/national-news/1652146/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "O’Neill lays wreath at Cenotaph in Belfast on Remembrance Sunday")](https://www.derrynow.com/news/local-news/1652190/oneill-lays-wreath-at-cenotaph-in-belfast-on-remembrance-sunday.html)
 
@@ -323,21 +325,19 @@ Guildhall Square lit up on Friday at a rally opposing violence against women.
 [Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![£5m scheme boosts nature for hundreds of communities across UK, report shows](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£5m scheme boosts nature for hundreds of communities across UK, report shows")](https://www.derrynow.com/news/northern-ireland/1652491/5m-scheme-boosts-nature-for-hundreds-of-communities-across-uk-report-shows.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[£5m scheme boosts nature for hundreds of communities across UK, report shows](https://www.derrynow.com/news/northern-ireland/1652491/5m-scheme-boosts-nature-for-hundreds-of-communities-across-uk-report-shows.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![MacD on Music: The Suite Life](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Suite Life")](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
 
 [MacD on Music: The Suite Life](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
 ------------------------------------------------------------------------------------------------------------------
-
-[![County Derry road closed following road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed following road traffic collision")](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
-
-The PSNI have advised motorists of a road closure in the Magherafelt area.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 11, 2024](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![County Derry road closed following road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed following road traffic collision")](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
 
 The PSNI have advised motorists of a road closure in the Magherafelt area.
@@ -524,7 +531,7 @@ The PSNI have advised motorists of a road closure in the Magherafelt area.
 [County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Santa’s Grotto Returns to The Richmond Centre!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
+[![Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/resizer/165/93/true/2024_11_10/TRC_SANTA_Announcement-1731266081941.png--.png?1731266082168 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1652395/santas-grotto-returns-to-the-richmond-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -555,15 +562,6 @@ Drogheda United players celebrate with the FAI Cup. Pic by Sportsfile
 
 [MacD on Music: The Suite Life](https://www.derrynow.com/news/what-s-on/1651155/macd-on-music-the-suite-life.html)
 ------------------------------------------------------------------------------------------------------------------
-
-[![Derry City behind at the break in FAI Cup final](https://www.derrynow.com/resizer/165/93/true/2024_11_10/2982232-1731255133094.jpg--.jpg?1731255134022 "Derry City behind at the break in FAI Cup final")](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
-
-Andrew Quinn puts Drogheda United in the lead. PHOTO: Thomas Flinkow/Sportsfile
-
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[Derry City behind at the break in FAI Cup final](https://www.derrynow.com/news/sport/1652276/derry-city-behind-at-the-break-in-fai-cup-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
