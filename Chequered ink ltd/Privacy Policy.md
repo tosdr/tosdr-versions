@@ -13,7 +13,7 @@
 * [About](https://chequered.ink/about/)
     * [Elsewhere](https://chequered.ink/elsewhere/)
     * [Press](https://chequered.ink/press/)
-    * [Terms of Use](https://chequered.ink/terms-of-use/)
+    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
     * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
 * [Contact](https://chequered.ink/contact/)
 
@@ -25,7 +25,7 @@
 * [About](https://chequered.ink/about/)
     * [Elsewhere](https://chequered.ink/elsewhere/)
     * [Press](https://chequered.ink/press/)
-    * [Terms of Use](https://chequered.ink/terms-of-use/)
+    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
     * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
 * [Contact](https://chequered.ink/contact/)
 
