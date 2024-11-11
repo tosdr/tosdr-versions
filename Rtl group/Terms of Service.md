@@ -315,6 +315,14 @@ Europe's leading entertainment brand
     
     In the latest episode of _RTL stories – The podcast_, Isabell Ostermann, Senior Director Brand Management and Communications at RTL Group, discusses the RTL United rebranding project and balancing motherhood.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Isabell-Ostermann/)
     
+* [![slide-UFA wins a Bambi Award](/.galleries/images/UFA-Bambi_16-9.png?__scale=undefined&description=)
+    
+    UFA wins a Bambi Award
+    
+    11.11.2024
+    
+    UFA wins ‘Best Series of the Year’ for _Maxton Hall_ at the Bambi Awards, while Holocaust survivor Margot Friedländer receives the Honourary Bambi Award.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/UFA-wins-a-Bambi-Award/)
+    
 * [![slide-TV Key Facts 2024](/.galleries/images/TV-Key-Facts-2024_16-9.png?__scale=undefined&description=)
     
     TV Key Facts 2024
@@ -338,14 +346,6 @@ Europe's leading entertainment brand
     04.11.2024
     
     RTL Deutschland is joining forces with Stefan Raab and ARD to search for the star act that will represent Germany at the 2025 Eurovision Song Contest.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-goes-Eurovision/)
-    
-* [![slide-UFA expands in Hungary](/.galleries/images/Ute-Biernat-Emese-Acs_16-9.jpg?__scale=undefined&description=)
-    
-    UFA expands in Hungary
-    
-    31.10.2024
-    
-    UFA renames its Hungarian production unit to UFA Produkció and appoints Emese Ács and Ute Biernat as Co-Managing Directors.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/UFA-expands-in-Hungary/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
