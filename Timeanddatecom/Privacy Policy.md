@@ -68,7 +68,6 @@ Sign in
     * [Stopwatch](https://www.timeanddate.com/stopwatch/)
     * [Timer](https://www.timeanddate.com/timer/)
     * [Countdown to Any Date](https://www.timeanddate.com/countdown/create)
-    * [Election Countdown](https://www.timeanddate.com/countdown/election?iso=20241105T00&p0=263&msg=US+Presidential+Election+Countdown&font=cursive)
     * [Thanksgiving Countdown](https://www.timeanddate.com/countdown/thanksgiving)
     * [Black Friday Countdown](https://www.timeanddate.com/countdown/black-friday)
     * [New Year Countdown](https://www.timeanddate.com/countdown/newyear)
