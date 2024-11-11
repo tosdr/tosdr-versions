@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2022/12/Sebon-Grisby-and-Dangelo-Webb-326x245.jpg)](https://cwbchicago.com/2024/11/2-men-shot-by-a-concealed-carry-holder-in-the-loop-are-getting-sent-to-prison-too.html "2 men shot by a concealed carry holder in the Loop are getting sent to prison, too")
+
+Loop
+
+### [2 men shot by a concealed carry holder in the Loop are getting sent to prison, too](https://cwbchicago.com/2024/11/2-men-shot-by-a-concealed-carry-holder-in-the-loop-are-getting-sent-to-prison-too.html "2 men shot by a concealed carry holder in the Loop are getting sent to prison, too")
+
+[November 8, 2024 6:16 AM](https://cwbchicago.com/2024/11)
+
+Two men who were shot by a concealed carry holder who thought they were trying to steal his car in the Loop received prison sentences yesterday to go along with their gunshot wounds.[](https://cwbchicago.com/2024/11/2-men-shot-by-a-concealed-carry-holder-in-the-loop-are-getting-sent-to-prison-too.html "2 men shot by a concealed carry holder in the Loop are getting sent to prison, too")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Michal-Ciskal-326x245.jpg)](https://cwbchicago.com/2024/11/14-year-old-with-pending-felony-case-murdered-man-during-carjacking-attempt-source.html "14-year-old with pending felony case murdered man during carjacking attempt: source")
 
 Fuller Park
@@ -262,16 +272,6 @@ Lincoln Park
 [November 7, 2024 6:43 PM](https://cwbchicago.com/2024/11)
 
 Investigators are looking for two men in connection with the hate crime attack of at least one Jewish student on DePaul University’s Lincoln Park campus on Wednesday afternoon.[](https://cwbchicago.com/2024/11/2-suspects-sought-in-depaul-university-hate-crime-attack.html "2 suspects sought in DePaul University hate crime attack")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/05/Taft-HS-326x245.jpg)](https://cwbchicago.com/2024/11/sophomore-gets-10-years-for-shooting-at-2-schoolmates-on-nw-side.html "Sophomore gets 10 years for shooting at 2 schoolmates on NW Side")
-
-Norwood park
-
-### [Sophomore gets 10 years for shooting at 2 schoolmates on NW Side](https://cwbchicago.com/2024/11/sophomore-gets-10-years-for-shooting-at-2-schoolmates-on-nw-side.html "Sophomore gets 10 years for shooting at 2 schoolmates on NW Side")
-
-[November 7, 2024 4:14 PM](https://cwbchicago.com/2024/11)
-
-A Taft High School student who shot at two schoolmates as they walked home from class last year, leaving one with a graze wound, received a 10-year sentence on Thursday.[](https://cwbchicago.com/2024/11/sophomore-gets-10-years-for-shooting-at-2-schoolmates-on-nw-side.html "Sophomore gets 10 years for shooting at 2 schoolmates on NW Side")
 
 Search
 
