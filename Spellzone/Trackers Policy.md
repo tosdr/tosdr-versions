@@ -162,11 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"Spellzone is incredibly easy to access and caters for a wide range of abilities, which means you can use it throughout the school at a range of levels, making it fantastic value for money as a learning resource."
+"I have just subscribed and look forward to continuing to use Spellzone. I have been really impressed with the program during the trial period and the students gave very positive feedback. Many thanks."
 
-**Anne Shisler, SENCO, City of London School for Girls**
-
-[read more...](https://www.spellzone.com/pages/case-studies/city-of-london-school.cfm)
+**Teacher, International School, Geneva**
 
 ### Curriculum...
 
