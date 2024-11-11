@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Eduardo270](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/unnamed(19).thumb.png.771d555ff761736739a0ff31bc0fdea1.png)](https://www.clubedohardware.com.br/profile/1236610-eduardo270/ "Ir ao perfil de Eduardo270")
+    * [![bru](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255875.thumb.png.1395ef5728ece23278b064ff71a1b22e.png)](https://www.clubedohardware.com.br/profile/1255875-bru/ "Ir ao perfil de bru")
+        
+        0
+        
+        [Monitor ou placa de vídeo?](https://www.clubedohardware.com.br/forums/topic/1702067-monitor-ou-placa-de-v%C3%ADdeo/?do=getNewComment "Monitor ou placa de vídeo?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [bru](https://www.clubedohardware.com.br/profile/1255875-bru/ "Ir ao perfil de bru")  
+        16 minutos atrás
+        
+    * [![julianonn01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255874.thumb.png.8900d505ae08e2e9cdeaf53caab116c8.png)](https://www.clubedohardware.com.br/profile/1255874-julianonn01/ "Ir ao perfil de julianonn01")
         
         1
         
-        [Processador sem gargalo para uma rx 6750 xt](https://www.clubedohardware.com.br/forums/topic/1702055-processador-sem-gargalo-para-uma-rx-6750-xt/?do=getNewComment "Processador sem gargalo para uma rx 6750 xt")
+        [fonte ideal para rtx3060ti](https://www.clubedohardware.com.br/forums/topic/1702066-fonte-ideal-para-rtx3060ti/?do=getNewComment "fonte ideal para rtx3060ti")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Eduardo270](https://www.clubedohardware.com.br/profile/1236610-eduardo270/ "Ir ao perfil de Eduardo270")  
-        16 minutos atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [julianonn01](https://www.clubedohardware.com.br/profile/1255874-julianonn01/ "Ir ao perfil de julianonn01")  
+        43 minutos atrás
         
-    * [![Kauça](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462c0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255866-kau%C3%A7a/ "Ir ao perfil de Kauça")
+    * [![TheFerente](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/images.thumb.png.e5b6ea25d23b3f2e9ba36d7cba123558.png)](https://www.clubedohardware.com.br/profile/1206705-theferente/ "Ir ao perfil de TheFerente")
+        
+        1
+        
+        [Monitor 27 Pol IPS](https://www.clubedohardware.com.br/forums/topic/1702065-monitor-27-pol-ips/?do=getNewComment "Monitor 27 Pol IPS")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [TheFerente](https://www.clubedohardware.com.br/profile/1206705-theferente/ "Ir ao perfil de TheFerente")  
+        1 hora atrás
+        
+    * [![nathan1010](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253890.thumb.png.cd261ea43c011cf68b41dc9a0264d3e0.png)](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")
         
         0
         
-        [memória ram envinda em uma placa-mãe amd pode queimar a ram](https://www.clubedohardware.com.br/forums/topic/1702054-mem%C3%B3ria-ram-envinda-em-uma-placa-m%C3%A3e-amd-pode-queimar-a-ram/?do=getNewComment "memória ram envinda em uma placa-mãe amd pode queimar a ram")
+        [water cooler rise mode aura ice black suporta o ryzen 7 7800x3d ?](https://www.clubedohardware.com.br/forums/topic/1702064-water-cooler-rise-mode-aura-ice-black-suporta-o-ryzen-7-7800x3d/?do=getNewComment "water cooler rise mode aura ice black suporta o ryzen 7 7800x3d ?")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Kauça](https://www.clubedohardware.com.br/profile/1255866-kau%C3%A7a/ "Ir ao perfil de Kauça")  
-        18 minutos atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [nathan1010](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")  
+        2 horas atrás
         
-    * [![Pancierizx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_2311.thumb.jpeg.42aaa527e7ae5c11bc2352d73b7cbe02.jpeg)](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")
+    * [![Freitolas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255872.thumb.png.1abbc8b46b4734ab70c29b97e4dc6c28.png)](https://www.clubedohardware.com.br/profile/1255872-freitolas/ "Ir ao perfil de Freitolas")
+        
+        0
+        
+        [Mouse não reconhecido pelo computador](https://www.clubedohardware.com.br/forums/topic/1702063-mouse-n%C3%A3o-reconhecido-pelo-computador/?do=getNewComment "Mouse não reconhecido pelo computador")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Freitolas](https://www.clubedohardware.com.br/profile/1255872-freitolas/ "Ir ao perfil de Freitolas")  
+        3 horas atrás
+        
+    * [![Blacklin3](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23629bc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255871-blacklin3/ "Ir ao perfil de Blacklin3")
         
         4
         
-        [Configurações de pc EUA X BR](https://www.clubedohardware.com.br/forums/topic/1702053-configura%C3%A7%C3%B5es-de-pc-eua-x-br/?do=getNewComment "Configurações de pc EUA X BR")
+        [Indicações de Placas mãe LGA 1700 e Watercoolers](https://www.clubedohardware.com.br/forums/topic/1702062-indica%C3%A7%C3%B5es-de-placas-m%C3%A3e-lga-1700-e-watercoolers/?do=getNewComment "Indicações de Placas mãe LGA 1700 e Watercoolers")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Pancierizx](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")  
-        31 minutos atrás
+        Por [Blacklin3](https://www.clubedohardware.com.br/profile/1255871-blacklin3/ "Ir ao perfil de Blacklin3")  
+        3 horas atrás
         
-    * [![DividedOwl](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1238234.thumb.png.6c46efb9169ced56e8d915c829f3eac5.png)](https://www.clubedohardware.com.br/profile/1238234-dividedowl/ "Ir ao perfil de DividedOwl")
+    * [![Pcdeupau](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255870.thumb.png.f486f5f26577bd24d29b7a7a42d2e444.png)](https://www.clubedohardware.com.br/profile/1255870-pcdeupau/ "Ir ao perfil de Pcdeupau")
         
-        0
+        1
         
-        [Quero dar um upgrade no PC.](https://www.clubedohardware.com.br/forums/topic/1702052-quero-dar-um-upgrade-no-pc/?do=getNewComment "Quero dar um upgrade no PC.")
+        [Pc com defeito não liga](https://www.clubedohardware.com.br/forums/topic/1702061-pc-com-defeito-n%C3%A3o-liga/?do=getNewComment "Pc com defeito não liga")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [DividedOwl](https://www.clubedohardware.com.br/profile/1238234-dividedowl/ "Ir ao perfil de DividedOwl")  
-        38 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Pcdeupau](https://www.clubedohardware.com.br/profile/1255870-pcdeupau/ "Ir ao perfil de Pcdeupau")  
+        4 horas atrás
         
-    * [![Germano13](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255865.thumb.png.9307e8f0d69204e25c056a7f29222641.png)](https://www.clubedohardware.com.br/profile/1255865-germano13/ "Ir ao perfil de Germano13")
+    * [![Wonjong](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/Screenshot_30.thumb.png.6cea6af843e96af9849067d5fef412ab.png)](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")
         
         3
         
-        [rtx3060ti oc 12gb vs rtx4060 8gb](https://www.clubedohardware.com.br/forums/topic/1702051-rtx3060ti-oc-12gb-vs-rtx4060-8gb/?do=getNewComment "rtx3060ti oc 12gb vs rtx4060 8gb")
+        [SSD Kingston NV2, 1TB, M.2 NVMe por R$380. Vale a pena?](https://www.clubedohardware.com.br/forums/topic/1702060-ssd-kingston-nv2-1tb-m2-nvme-por-r380-vale-a-pena/?do=getNewComment "SSD Kingston NV2, 1TB, M.2 NVMe por R$380. Vale a pena?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Germano13](https://www.clubedohardware.com.br/profile/1255865-germano13/ "Ir ao perfil de Germano13")  
-        45 minutos atrás
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Wonjong](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")  
+        5 horas atrás
         
-    * [![Shyiou](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234681.thumb.jpeg.717e7cf8826215891321775fcde67594.jpeg)](https://www.clubedohardware.com.br/profile/1234681-shyiou/ "Ir ao perfil de Shyiou")
+    * [![rmlazzari58](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-720377.thumb.jpeg.53cdf81c7c07825733da927f655b7b53.jpeg)](https://www.clubedohardware.com.br/profile/720377-rmlazzari58/ "Ir ao perfil de rmlazzari58")
         
-        0
+        1
         
-        [Indicação de monitor para jogar](https://www.clubedohardware.com.br/forums/topic/1702050-indica%C3%A7%C3%A3o-de-monitor-para-jogar/?do=getNewComment "Indicação de monitor para jogar")
+        [Como calcular a tensão depois de um indutor? (Zener tester)](https://www.clubedohardware.com.br/forums/topic/1702058-como-calcular-a-tens%C3%A3o-depois-de-um-indutor-zener-tester/?do=getNewComment "Como calcular a tensão depois de um indutor? (Zener tester)")
         
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Shyiou](https://www.clubedohardware.com.br/profile/1234681-shyiou/ "Ir ao perfil de Shyiou")  
-        1 hora atrás
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [rmlazzari58](https://www.clubedohardware.com.br/profile/720377-rmlazzari58/ "Ir ao perfil de rmlazzari58")  
+        5 horas atrás
         
-    * [![rom12](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4ba%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/739784-rom12/ "Ir ao perfil de rom12")
-        
-        2
-        
-        [Consigo trocar um PS4 Fat por um PC que rode jogos de forma similar?](https://www.clubedohardware.com.br/forums/topic/1702049-consigo-trocar-um-ps4-fat-por-um-pc-que-rode-jogos-de-forma-similar/?do=getNewComment "Consigo trocar um PS4 Fat por um PC que rode jogos de forma similar?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [rom12](https://www.clubedohardware.com.br/profile/739784-rom12/ "Ir ao perfil de rom12")  
-        1 hora atrás
-        
-    * [![Mat4Key](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2397c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254995-mat4key/ "Ir ao perfil de Mat4Key")
-        
-        5
-        
-        [Qual placa de vídeo comprar na faixa de R$2.000,00 / R$2.500,00 ?](https://www.clubedohardware.com.br/forums/topic/1702048-qual-placa-de-v%C3%ADdeo-comprar-na-faixa-de-r200000-r250000/?do=getNewComment "Qual placa de vídeo comprar na faixa de R$2.000,00 / R$2.500,00 ?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Mat4Key](https://www.clubedohardware.com.br/profile/1254995-mat4key/ "Ir ao perfil de Mat4Key")  
-        2 horas atrás
-        
-    * [![Andelso](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a6%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/696556-andelso/ "Ir ao perfil de Andelso")
+    * [![Lucas  Pietro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/81mOMIZBLlL.thumb.png.8d3179175b1ece70389fe275e7f03af4.png)](https://www.clubedohardware.com.br/profile/1124889-lucas-pietro/ "Ir ao perfil de Lucas  Pietro")
         
         2
         
-        [placa-mãe pra Ryzen 5 5600 ou i5 12400](https://www.clubedohardware.com.br/forums/topic/1702047-placa-m%C3%A3e-pra-ryzen-5-5600-ou-i5-12400/?do=getNewComment "placa-mãe pra Ryzen 5 5600 ou i5 12400")
+        [O cabo PCIE da minha Fonte é compatível com Adaptador PCIE 6 pinos para 8 pinos?](https://www.clubedohardware.com.br/forums/topic/1702057-o-cabo-pcie-da-minha-fonte-%C3%A9-compat%C3%ADvel-com-adaptador-pcie-6-pinos-para-8-pinos/?do=getNewComment "O cabo PCIE da minha Fonte é compatível com Adaptador PCIE 6 pinos para 8 pinos?")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Andelso](https://www.clubedohardware.com.br/profile/696556-andelso/ "Ir ao perfil de Andelso")  
-        2 horas atrás
-        
-    * [![Eduardo_fv](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233076.thumb.png.33ecbbf2f9ae4211cb43177177c9db8c.png)](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")
-        
-        0
-        
-        [Qual monitor escolher, Painel VA 1440p ou FAST IPS 1080p](https://www.clubedohardware.com.br/forums/topic/1702046-qual-monitor-escolher-painel-va-1440p-ou-fast-ips-1080p/?do=getNewComment "Qual monitor escolher, Painel VA  1440p ou FAST IPS 1080p")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Eduardo\_fv](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")  
-        2 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Lucas Pietro](https://www.clubedohardware.com.br/profile/1124889-lucas-pietro/ "Ir ao perfil de Lucas  Pietro")  
+        5 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
