@@ -393,9 +393,9 @@ How top brands drive growth with SurveyMonkey.
 
 ![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__badge.png)
 
-* [Oversikt](https://www.surveymonkey.com/mp/legal/)
+* [Oversigt](https://www.surveymonkey.com/mp/legal/)
     
-* [Vilkår for bruk](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Brugsbetingelser](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Gjeldende tjenesteavtale](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Gældende serviceaftale](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Tjenestespesifikke vilkår](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Servicespecifikke betingelser](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Grunnleggende om personvern](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Grundlæggende principper for databeskyttelse](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Personvernregler](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Meddelelse om beskyttelse af personlige oplysninger](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Informasjonskapsler](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Informasjonskapsler som brukes på spørreundersøkelsessider](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Brug af cookies på spørgeundersøgelsessider](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Policy for akseptabel bruk](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Politik om acceptabel brug](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Sikkerhet](https://www.surveymonkey.com/mp/legal/security/)
+* [Sikkerhed](https://www.surveymonkey.com/mp/legal/security/)
     
 * [Generelt](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Visste du?
+Vidste du?
 
-63 % av forbrukere vurderer personvern- og sikkerhetshistorikken til et selskap før de bruker produktene eller tjenestene deres.
+63 % overvejer, hvordan en virksomhed håndterer personlige oplysninger og sikkerhed, inden de vælger at benytte virksomhedens produkter eller tjenester.
 
-![Statistikk på sidestolpe i juridisk senter](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__stats-image.png)
+![Billede af statistik på juridisk sidepanel](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
