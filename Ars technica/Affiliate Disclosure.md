@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [New SMB-friendly subscription tier may be too late to stop VMware migrations](https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/)
     
-4. 4. [Verizon, AT&T tell courts: FCC can’t punish us for selling user location data](https://arstechnica.com/tech-policy/2024/11/verizon-att-tell-courts-fcc-cant-punish-us-for-selling-user-location-data/)
+4. 4. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
     
-5. 5. [Research monkeys still having a ball days after busting out of lab, police say](https://arstechnica.com/science/2024/11/43-research-monkeys-on-the-lam-still-playfully-exploring-police-say/)
+5. 5. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
     
 
 Customize
