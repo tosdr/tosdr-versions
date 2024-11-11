@@ -4,7 +4,7 @@
 
 ![](https://s.amazon-adsystem.com/iu3?pid=67ae216d-997c-4448-b1c3-25887206ec47&event=PageView)
 
-              
+                  
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
@@ -57,10 +57,6 @@ shop
 * [Build Your Own Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
 * [Sale](https://www.poopourri.com/collections/sale)
 * Search  
-    
-* ![customer account icon](//pourri.com/cdn/shop/t/804/assets/icon--nav-account-v2.svg?v=125546052516818336491730829275)
-    
-    **Sign in** to earn rewards
     
 *  ![shopping bag icon](//pourri.com/cdn/shop/t/804/assets/icon--cart.svg?v=43504665361036498501730829271) **0**
 
@@ -175,14 +171,6 @@ Recover Password Go Back
 
 Register
 ========
-
-Loading...
-
-![customer account icon](//pourri.com/cdn/shop/t/804/assets/icon--nav-account-v2.svg?v=125546052516818336491730829275)
-
-**Sign in to earn rewards** Don’t have an account? Create an account
-
-Sign In
 
 POO~POURRI 45-DAY MONEY BACK FUNK-LOCK GUARANTEE
 ================================================
