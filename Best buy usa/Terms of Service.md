@@ -1,6 +1,6 @@
 None
 
-Black Friday Deals and Doorbusters are here[Shop now](https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c?id=pcmcat225600050002)
+Black Friday Deals Right Now[Shop now](https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c?id=pcmcat225600050002)
 
 [Skip to content](#headerskip "Skip to content")
 
