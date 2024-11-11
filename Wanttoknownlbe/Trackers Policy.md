@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/wie-bepaalt-wat-waar-is/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/wijwordenwakker-voor-e-150/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
