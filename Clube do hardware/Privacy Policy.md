@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![satellitezinho](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-974165.thumb.jpeg.fdcdd2b66eda37b5c2cc5b68a7744d25.jpeg)](https://www.clubedohardware.com.br/profile/974165-satellitezinho/ "Ir ao perfil de satellitezinho")
-        
-        0
-        
-        [I7 7700k não dá vídeo na ga 110 d3a](https://www.clubedohardware.com.br/forums/topic/1702030-i7-7700k-n%C3%A3o-d%C3%A1-v%C3%ADdeo-na-ga-110-d3a/?do=getNewComment "I7 7700k não dá vídeo na ga 110 d3a")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [satellitezinho](https://www.clubedohardware.com.br/profile/974165-satellitezinho/ "Ir ao perfil de satellitezinho")  
-        20 minutos atrás
-        
-    * [![Gustavo 1978](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248675.thumb.png.7757cf1a348d6875969600d4a8384964.png)](https://www.clubedohardware.com.br/profile/1248675-gustavo-1978/ "Ir ao perfil de Gustavo 1978")
-        
-        0
-        
-        [Compatibilidade Fan e Placa-Mãe](https://www.clubedohardware.com.br/forums/topic/1702029-compatibilidade-fan-e-placa-m%C3%A3e/?do=getNewComment "Compatibilidade Fan e Placa-Mãe")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Gustavo 1978](https://www.clubedohardware.com.br/profile/1248675-gustavo-1978/ "Ir ao perfil de Gustavo 1978")  
-        21 minutos atrás
-        
-    * [![RiquelmeMendes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255819.thumb.jpeg.a36105920b212e16d6e0c9866a42f49a.jpeg)](https://www.clubedohardware.com.br/profile/1255819-riquelmemendes/ "Ir ao perfil de RiquelmeMendes")
+    * [![Eduardo270](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/unnamed(19).thumb.png.771d555ff761736739a0ff31bc0fdea1.png)](https://www.clubedohardware.com.br/profile/1236610-eduardo270/ "Ir ao perfil de Eduardo270")
         
         1
         
-        [Upgrade para AM4 valeu a pena?](https://www.clubedohardware.com.br/forums/topic/1702028-upgrade-para-am4-valeu-a-pena/?do=getNewComment "Upgrade para AM4 valeu a pena?")
+        [Processador sem gargalo para uma rx 6750 xt](https://www.clubedohardware.com.br/forums/topic/1702055-processador-sem-gargalo-para-uma-rx-6750-xt/?do=getNewComment "Processador sem gargalo para uma rx 6750 xt")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [RiquelmeMendes](https://www.clubedohardware.com.br/profile/1255819-riquelmemendes/ "Ir ao perfil de RiquelmeMendes")  
-        54 minutos atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Eduardo270](https://www.clubedohardware.com.br/profile/1236610-eduardo270/ "Ir ao perfil de Eduardo270")  
+        16 minutos atrás
         
-    * [![Bgzada](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46278%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247208-bgzada/ "Ir ao perfil de Bgzada")
+    * [![Kauça](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462c0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255866-kau%C3%A7a/ "Ir ao perfil de Kauça")
+        
+        0
+        
+        [memória ram envinda em uma placa-mãe amd pode queimar a ram](https://www.clubedohardware.com.br/forums/topic/1702054-mem%C3%B3ria-ram-envinda-em-uma-placa-m%C3%A3e-amd-pode-queimar-a-ram/?do=getNewComment "memória ram envinda em uma placa-mãe amd pode queimar a ram")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Kauça](https://www.clubedohardware.com.br/profile/1255866-kau%C3%A7a/ "Ir ao perfil de Kauça")  
+        18 minutos atrás
+        
+    * [![Pancierizx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_2311.thumb.jpeg.42aaa527e7ae5c11bc2352d73b7cbe02.jpeg)](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")
         
         4
         
-        [Um Aircoller de 1500rpm serve?](https://www.clubedohardware.com.br/forums/topic/1702027-um-aircoller-de-1500rpm-serve/?do=getNewComment "Um Aircoller de 1500rpm serve?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Bgzada](https://www.clubedohardware.com.br/profile/1247208-bgzada/ "Ir ao perfil de Bgzada")  
-        1 hora atrás
-        
-    * [![loak](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1199803.thumb.jpeg.87762c75d6d789f0f671b59c955d0aa1.jpeg)](https://www.clubedohardware.com.br/profile/1199803-loak/ "Ir ao perfil de loak")
-        
-        1
-        
-        [Recomendação entre 2 monitores QHD. Gigabyte M27q-sa ou ASUS VG27AQL3A ?](https://www.clubedohardware.com.br/forums/topic/1702026-recomenda%C3%A7%C3%A3o-entre-2-monitores-qhd-gigabyte-m27q-sa-ou-asus-vg27aql3a/?do=getNewComment "Recomendação entre 2 monitores QHD. Gigabyte M27q-sa ou ASUS VG27AQL3A ?")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [loak](https://www.clubedohardware.com.br/profile/1199803-loak/ "Ir ao perfil de loak")  
-        1 hora atrás
-        
-    * [![PeterThunder123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1235144.thumb.jpeg.9bd61c6bbaa56e02d19caee39e70b8f9.jpeg)](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")
-        
-        3
-        
-        [Sugestão para comprar teclado para jogos](https://www.clubedohardware.com.br/forums/topic/1702025-sugest%C3%A3o-para-comprar-teclado-para-jogos/?do=getNewComment "Sugestão para comprar teclado para jogos")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [PeterThunder123](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")  
-        1 hora atrás
-        
-    * [![yPopplo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255851.thumb.jpeg.03eaed5003be95915e8af20a788d5224.jpeg)](https://www.clubedohardware.com.br/profile/1255851-ypopplo/ "Ir ao perfil de yPopplo")
-        
-        2
-        
-        [Compatibilidade da Ram com a placa-mãe e processador](https://www.clubedohardware.com.br/forums/topic/1702023-compatibilidade-da-ram-com-a-placa-m%C3%A3e-e-processador/?do=getNewComment "Compatibilidade da Ram com a placa-mãe e processador")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [yPopplo](https://www.clubedohardware.com.br/profile/1255851-ypopplo/ "Ir ao perfil de yPopplo")  
-        2 horas atrás
-        
-    * [![LucasPereira1](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4af%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1139255-lucaspereira1/ "Ir ao perfil de LucasPereira1")
-        
-        3
-        
-        [Troca de peças e configurações](https://www.clubedohardware.com.br/forums/topic/1702022-troca-de-pe%C3%A7as-e-configura%C3%A7%C3%B5es/?do=getNewComment "Troca de peças e configurações")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [LucasPereira1](https://www.clubedohardware.com.br/profile/1139255-lucaspereira1/ "Ir ao perfil de LucasPereira1")  
-        2 horas atrás
-        
-    * [![lucas12201abc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249559.thumb.png.fba6c3cf6df881bb735c72a8563b670d.png)](https://www.clubedohardware.com.br/profile/1249559-lucas12201abc/ "Ir ao perfil de lucas12201abc")
-        
-        2
-        
-        [Dying light roda no meu pc?](https://www.clubedohardware.com.br/forums/topic/1702021-dying-light-roda-no-meu-pc/?do=getNewComment "Dying light roda no meu pc?")
-        
-        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
-        Por [lucas12201abc](https://www.clubedohardware.com.br/profile/1249559-lucas12201abc/ "Ir ao perfil de lucas12201abc")  
-        2 horas atrás
-        
-    * [![VictorCz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245138.thumb.png.df7b2a9111246b29adc6458038b920bf.png)](https://www.clubedohardware.com.br/profile/1245138-victorcz/ "Ir ao perfil de VictorCz")
-        
-        1
-        
-        [ERRO Secure Boot Valorant](https://www.clubedohardware.com.br/forums/topic/1702020-erro-secure-boot-valorant/?do=getNewComment "ERRO Secure Boot Valorant")
+        [Configurações de pc EUA X BR](https://www.clubedohardware.com.br/forums/topic/1702053-configura%C3%A7%C3%B5es-de-pc-eua-x-br/?do=getNewComment "Configurações de pc EUA X BR")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [VictorCz](https://www.clubedohardware.com.br/profile/1245138-victorcz/ "Ir ao perfil de VictorCz")  
+        Por [Pancierizx](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")  
+        31 minutos atrás
+        
+    * [![DividedOwl](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1238234.thumb.png.6c46efb9169ced56e8d915c829f3eac5.png)](https://www.clubedohardware.com.br/profile/1238234-dividedowl/ "Ir ao perfil de DividedOwl")
+        
+        0
+        
+        [Quero dar um upgrade no PC.](https://www.clubedohardware.com.br/forums/topic/1702052-quero-dar-um-upgrade-no-pc/?do=getNewComment "Quero dar um upgrade no PC.")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [DividedOwl](https://www.clubedohardware.com.br/profile/1238234-dividedowl/ "Ir ao perfil de DividedOwl")  
+        38 minutos atrás
+        
+    * [![Germano13](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255865.thumb.png.9307e8f0d69204e25c056a7f29222641.png)](https://www.clubedohardware.com.br/profile/1255865-germano13/ "Ir ao perfil de Germano13")
+        
+        3
+        
+        [rtx3060ti oc 12gb vs rtx4060 8gb](https://www.clubedohardware.com.br/forums/topic/1702051-rtx3060ti-oc-12gb-vs-rtx4060-8gb/?do=getNewComment "rtx3060ti oc 12gb vs rtx4060 8gb")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Germano13](https://www.clubedohardware.com.br/profile/1255865-germano13/ "Ir ao perfil de Germano13")  
+        45 minutos atrás
+        
+    * [![Shyiou](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234681.thumb.jpeg.717e7cf8826215891321775fcde67594.jpeg)](https://www.clubedohardware.com.br/profile/1234681-shyiou/ "Ir ao perfil de Shyiou")
+        
+        0
+        
+        [Indicação de monitor para jogar](https://www.clubedohardware.com.br/forums/topic/1702050-indica%C3%A7%C3%A3o-de-monitor-para-jogar/?do=getNewComment "Indicação de monitor para jogar")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Shyiou](https://www.clubedohardware.com.br/profile/1234681-shyiou/ "Ir ao perfil de Shyiou")  
+        1 hora atrás
+        
+    * [![rom12](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4ba%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/739784-rom12/ "Ir ao perfil de rom12")
+        
+        2
+        
+        [Consigo trocar um PS4 Fat por um PC que rode jogos de forma similar?](https://www.clubedohardware.com.br/forums/topic/1702049-consigo-trocar-um-ps4-fat-por-um-pc-que-rode-jogos-de-forma-similar/?do=getNewComment "Consigo trocar um PS4 Fat por um PC que rode jogos de forma similar?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [rom12](https://www.clubedohardware.com.br/profile/739784-rom12/ "Ir ao perfil de rom12")  
+        1 hora atrás
+        
+    * [![Mat4Key](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2397c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254995-mat4key/ "Ir ao perfil de Mat4Key")
+        
+        5
+        
+        [Qual placa de vídeo comprar na faixa de R$2.000,00 / R$2.500,00 ?](https://www.clubedohardware.com.br/forums/topic/1702048-qual-placa-de-v%C3%ADdeo-comprar-na-faixa-de-r200000-r250000/?do=getNewComment "Qual placa de vídeo comprar na faixa de R$2.000,00 / R$2.500,00 ?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Mat4Key](https://www.clubedohardware.com.br/profile/1254995-mat4key/ "Ir ao perfil de Mat4Key")  
+        2 horas atrás
+        
+    * [![Andelso](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a6%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/696556-andelso/ "Ir ao perfil de Andelso")
+        
+        2
+        
+        [placa-mãe pra Ryzen 5 5600 ou i5 12400](https://www.clubedohardware.com.br/forums/topic/1702047-placa-m%C3%A3e-pra-ryzen-5-5600-ou-i5-12400/?do=getNewComment "placa-mãe pra Ryzen 5 5600 ou i5 12400")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Andelso](https://www.clubedohardware.com.br/profile/696556-andelso/ "Ir ao perfil de Andelso")  
+        2 horas atrás
+        
+    * [![Eduardo_fv](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233076.thumb.png.33ecbbf2f9ae4211cb43177177c9db8c.png)](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")
+        
+        0
+        
+        [Qual monitor escolher, Painel VA 1440p ou FAST IPS 1080p](https://www.clubedohardware.com.br/forums/topic/1702046-qual-monitor-escolher-painel-va-1440p-ou-fast-ips-1080p/?do=getNewComment "Qual monitor escolher, Painel VA  1440p ou FAST IPS 1080p")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Eduardo\_fv](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")  
         2 horas atrás
         
     
@@ -268,7 +268,7 @@ Política de privacidade
         
         [Vídeo](https://www.clubedohardware.com.br/artigos/video/ "Vídeo")  
         Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")  
-        segunda-feira às 23:04
+        4 de novembro
         
     * ![Tabela comparativa dos chips GeForce da NVIDIA (notebooks)](https://www.clubedohardware.com.br/uploads/cms/monthly_2023_04/36351_icone.thumb.jpg.9600505388de928d543e36160574c511.jpg "Tabela comparativa dos chips GeForce da NVIDIA (notebooks)")
         
@@ -278,7 +278,7 @@ Política de privacidade
         
         [Vídeo](https://www.clubedohardware.com.br/artigos/video/ "Vídeo")  
         Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")  
-        segunda-feira às 22:54
+        4 de novembro
         
     * ![Tabela comparativa dos chips Radeon da AMD (notebooks)](https://www.clubedohardware.com.br/uploads/cms/monthly_2024_03/36443_icone.thumb.jpg.282dc0932c52c6fb2cff7c4fb1218a3e.jpg "Tabela comparativa dos chips Radeon da AMD (notebooks)")
         
