@@ -259,7 +259,7 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-g
 
 ### Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
 
-article 6 days ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)
+article 7 days ago](https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 6 days ago](https://science.nasa.gov/missions/voyager-program/still-kick
 
 ### NASA Shares Space Food Insight with Commercial Food Industry
 
-article 3 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![The crew of the Human Exploration Research Analog’s Campaign 7 Mission 1 clasp hands above their simulated space habitat’s elevator shaft.](https://www.nasa.gov/wp-content/uploads/2024/08/hero.png?w=1024)
+article 4 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![The crew of the Human Exploration Research Analog’s Campaign 7 Mission 1 clasp hands above their simulated space habitat’s elevator shaft.](https://www.nasa.gov/wp-content/uploads/2024/08/hero.png?w=1024)
 
 1 min read
 
@@ -303,11 +303,17 @@ article 4 days ago](https://science.nasa.gov/earth/hurricane-helenes-gravity-wav
 
 ### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
 
-article 6 days ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)
+article 7 days ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)
 
 ### Highlights
 
-[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
+[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+
+4 min read
+
+### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
+
+article 3 hours ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
 
 2 min read
 
@@ -319,13 +325,7 @@ article 4 days ago](https://science.nasa.gov/earth/hurricane-helenes-gravity-wav
 
 ### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
 
-article 7 days ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
-
-2 min read
-
-### NASA’s New Edition of Graphic Novel Features Europa Clipper
-
-article 1 week ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)
+article 1 week ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)
 
 ### Featured
 
@@ -341,7 +341,7 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-g
 
 ### NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
 
-article 7 days ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
+article 1 week ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
 
 6 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Highlights
 
-[![Title slide for Open Science Success Stories with Dr Keith Siew](https://www.nasa.gov/wp-content/uploads/2024/10/success-stories-title-slide-keithsiew.jpg?w=1024)
+[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
 
-2 min read
+4 min read
 
-### Open Science Success Stories with Dr Keith Siew
+### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 
-article 3 days ago](https://www.nasa.gov/open-science-success-stories-with-dr-keith-siew-2/)[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
+article 3 hours ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Two Puerto Rican women stand on a beach, both wearing teal longsleeve shirts and sunglasses. The one on the left has a tan, wide-brimmed hat, and the one on the right has a pink baseball cap.](https://www.nasa.gov/wp-content/uploads/2024/11/1q4a4494.jpg?w=1024)
 
-1 min read
+4 min read
 
-### Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.
+### Interview with OCEANOS Instructor María Fernanda Barbarena-Arias
 
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/)[![A Puerto Rican man with a bushy white beard, green bucket hat, teal longsleeve shirt, and black shorts gestures to a group of high school students wearing neon orange shirts.](https://www.nasa.gov/wp-content/uploads/2024/11/img-2293.jpg?w=1024)
 
-6 min read
+3 min read
 
-### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
+### Interview with OCEANOS Instructor Samuel Suleiman
 
-article 3 days ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)
+article 10 hours ago](https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/)
 
 ### Highlights
 
@@ -445,7 +445,7 @@ article 3 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-re
 
 ### NASA Shares Space Food Insight with Commercial Food Industry
 
-article 3 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)
+article 4 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)
 
 ### Highlights
 
