@@ -115,7 +115,7 @@ English
 
 [About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
 
-[](https://www.tiktok.com/@crazygames)[](https://www.linkedin.com/company/crazygames/)[](https://www.twitter.com/crazygamescom)[](https://www.youtube.com/@crazygamescom)[](https://play.google.com/store/apps/dev?id=8163162718412732005)[](https://apps.apple.com/us/developer/crazygames-com/id1145410933)
+[](https://www.tiktok.com/@crazygames)[](https://discord.com/invite/crazygames)[](https://www.linkedin.com/company/crazygames/)[](https://www.twitter.com/crazygamescom)[](https://www.youtube.com/@crazygamescom)[](https://play.google.com/store/apps/dev?id=8163162718412732005)[](https://apps.apple.com/us/developer/crazygames-com/id1145410933)
 
 © 2024 CrazyGames
 
@@ -299,7 +299,9 @@ Within CrazyGames, personal data is only available to people who need to have ac
 
 When we use external providers to help us with the processing of your personal data (“**Processor**”), we will always ensure that your personal data is handled confidentially and in a safe manner. We also always draw up a contract with these Processors. This way the Processor will never be allowed to use your personal data on its own initiative and your personal data has to be erased as soon as the Processor has completed the assignment for CrazyGames.
 
-If you have any questions on these security measures, feel free to contact us at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact). 3. **IN CHARGE OF YOUR DATA**
+If you have any questions on these security measures, feel free to contact us at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
+
+### 8\. **In charge of your data**
 
 You are and always will be the boss of your personal data. After all, it is your personal data. You therefore have some rights that you can use. You can do the following with your data:
 
