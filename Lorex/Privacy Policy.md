@@ -92,7 +92,9 @@ triangle borderless
     
     2K Wi-Fi Video Doorbell (Battery-Operated, 32GB)](https://www.lorex.com/products/b463ajd-2k-battery-video-doorbell)[![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_80x.png?v=1708104429)
     
-    4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)[![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_80x.png?v=1699309499)
+    4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)[![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_80x.png?v=1718650384)
+    
+    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)[![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_80x.png?v=1699309499)
     
     Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
     
@@ -215,6 +217,7 @@ arrow left Back
 * [2K Wi-Fi Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)
 * [2K Wi-Fi Video Doorbell (Battery-Operated, 32GB)](https://www.lorex.com/products/b463ajd-2k-battery-video-doorbell)
 * [4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
+* [4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
 * [Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
 
 arrow left Back
@@ -515,6 +518,10 @@ Your cart is empty
     [![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_x150.png?v=1708104429)
     
     4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
+    
+    [![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_x150.png?v=1718650384)
+    
+    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
     
     [![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_x150.png?v=1699309499)
     
