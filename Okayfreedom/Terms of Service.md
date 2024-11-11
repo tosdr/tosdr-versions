@@ -245,6 +245,7 @@ With a free OkayFreedom-account, a certain data volume can be used per month fre
 
 **Product recommendations**
 
+* [VPN Online Shield](https://www.steganos.com/en/products/steganos-vpn-online-shield) ![](/images/okayfreedom/rating_5.png)
 * [Password Manager](https://www.steganos.com/en/products/steganos-password-manager) ![](/images/okayfreedom/rating_5.png)
 * [Data Safe](https://www.steganos.com/en/products/steganos-data-safe) ![](/images/okayfreedom/rating_4.png)
 * [PC Tuning PRO](https://www.steganos.com/en/products/steganos-pc-tuning-pro) ![](/images/okayfreedom/rating_5.png)
