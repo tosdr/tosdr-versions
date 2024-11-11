@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Successful challengers vs. losing incumbents in the US House](/assets/Uploads/cfi1.png)](https://www.followthemoney.org/research/blog/massive-amounts-were-spent-by-the-candidates-and-independent-spenders-in-the-races-that-decided-the-2018-midterms)
-
-Successful challengers vs. losing incumbents in the US House of Representatives, 2006-2018.
+[![Scorecard: Essential Disclosure Requirements for Independent Spending, 2014](/assets/Images/teasers/full/Screen-Shot-2016-05-12-at-2.21.54-PM.png)](http://www.followthemoney.org/research/institute-reports/scorecard-essential-disclosure-requirements-for-independent-spending-2014/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
