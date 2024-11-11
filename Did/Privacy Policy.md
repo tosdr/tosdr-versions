@@ -36,6 +36,7 @@ Leading Marketers Are Benefitting From **[D-ID’s Marketing Suite >>](https://w
     * [FAQs](https://www.d-id.com/faqs/)
     * [Contact Support](https://share-eu1.hsforms.com/17NVrWCsgSUK-eEwcw59QKgf6589?__hstc=161180962.f9ad6f37590ccd68fb91e6944956e519.1699450353015.1715837113875.1715843353858.206&__hssc=161180962.3.1715843353858&__hsfp=1285606672)
 
+* [Contact Sales](https://www.d-id.com/contact-us/)
 * [Start Free Trial](https://studio.d-id.com/)
 * [Log in](https://studio.d-id.com/login)
 
