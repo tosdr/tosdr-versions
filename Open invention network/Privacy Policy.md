@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
+> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
 
-Sumitomo Mitsui Financial Group
+Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
 
-> Bilibili is a diverse, open, and innovative cultural platform. All the time, we are committed to opening and sharing technologies and providing positive motivation in the innovation field of playback transmission, interactive entertainment, and cloud-native ecology through open source projects. Linux System software and open source technologies are important software infrastructures that promote business developments. Our participation in the OIN community demonstrates our consistent and ongoin… [Read more](https://openinventionnetwork.com/testimonial/bilibili/ "Complete testimonial by Wang Hao")
+> Alibaba and Ant congratulate Open Invention Network on this impressive milestone. OIN has taken a leadership role and worked tirelessly to improve intellectual property protection for Linux system and open source software. Alibaba and Ant look forward to continued partnership with OIN and the international open source community to foster innovation and reduce IP risks.  
 
-Wang HaoVice President, Bilibili
+Roger Shang - Alibaba Group Senior Legal Director // Benjamin Bai - Ant Group VP of Intellectual Property
+
+> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
+
+Luke IbbetsonHead of Group R&DVodaphone
+
+> China Mobile is committed to becoming a world-class information services and sci-tech innovation enterprise, and understands that Linux System and open source technology is a cornerstone to drive technological innovation and accelerate service innovation. After joining OIN, China Mobile will not only continue to support the innovative practice of open source projects, but also work closely with OIN and its members to promote the high-level implementation of the Linux System and open source techn… [Read more](https://www.openinventionnetwork.com/testimonial/china-mobile/ "Complete testimonial by Jia Liu")
+
+Jia LiuDeputy GM, Science & Technology Innovation, China Mobile
 
 > Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
 
 Mick LimDirector, Foxconn IP Affairs Division
 
-> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
+> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
 
-Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
+Jens WiegandCTO / EVP Software & ElectronicsKontron
 
-> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
+> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
 
-Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
+Chris DiBonaDirector of Open SourceGoogle
 
-> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
+> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
 
-Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
+Yandex
 
-> For more than 160 years, Heidelberg has been a leading provider of a spectrum of printing technologies used by the most respected print shops in the industry. We recognize the value of open source innovation in our firmware and increasingly sophisticated document management systems. By joining OIN, we are demonstrating our continued commitment to innovation and supporting it with patent non-aggression in Linux and adjacent technologies.  
+> Linux can be found in consumer and professional systems in use around the globe. We are committed to redesigning the lifestyles of people around the world, by providing them with excitement and peace of mind. One way we create sophisticated products is by using advanced open platforms, and we are committed to ensuring their ongoing development.  
 
-Christof HaustHeidelberger Drucksmachinen, AG
+Tetsuro FuseJVCKENWOODVice Operating Officer
 
-> Over its 21 years existence, OVHcloud has developed a strong vision on how innovation is critical to empower cloud users with a relentless effort on open source and open standards. Joining OIN is a strong asset to keep on developing our open innovation roadmap and taking it to the community.  
+> Infosys is actively taking open source, and open source based products, to all our enterprise customers, and so we are extremely excited to become part of OIN, and we encourage others to join OIN as well to support this very important initiative.  
 
-Miroslaw KlabaCo-founder & VP of EngineeringOVHcloud
-
-> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
-
-Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
-
-> By fostering the largest patent non-aggression community in history, OIN has protected core Linux and a broad array of FOSS technologies from patent aggression. We have worked together for the past 15 years, with the goal that FOSS would grow unimpeded by patent risks, and we have largely succeeded.  OIN has made a transformational difference.  I look forward to working with Keith and OIN as it creatively faces new challenges in the next decade.  
-
-Eben MoglenDirector-Counsel & ChairmanSoftware Freedom Law Center
+Navin BudhirajaSVP, Head of Architecture & TechnologyInfosys
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
