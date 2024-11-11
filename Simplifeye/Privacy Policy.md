@@ -13,18 +13,14 @@
 * [**Menu** Menu](#)
 
 * [Home](https://vynedental.com/home/)
-* Solutions
-    * [Mobile Payments](https://vynedental.com/mobile-payments/)
-    * [Patient Engagement Tools (OperaDDS)](https://vynedental.com/operadds/)
-    * [FastAttach®](https://vynedental.com/attachments/)
-    * [Vyne Trellis®](https://vynedental.com/trellis/)
+* [Solutions](https://simplifeye.co/#solutions2)
+    * [For Providers](https://vynedental.com/vyne-trellis/)
+    * [For Payers](https://vynedental.com/payers/)
     * [For Partners](https://vynedental.com/partners-2024/)
-* [Events](https://vynedental.com/events/)
-* [Partners](https://vynedental.com/?page_id=357)
+* [Customers](https://vynedental.com/customers/)
 * [Resources](https://vynedental.com/resources/)
-* [FastAttach® Web](https://fastattachweb.nea-fast.com/Login/?ReturnUrl=%2FDashboard)
+* [Login](https://app.vynetrellis.com/)
 * [866-712-9584](tel:+18667129584)
-* [We’re here to help.](https://vynedental.com/contact-us/)
 
 Simplify your practice
 ======================
