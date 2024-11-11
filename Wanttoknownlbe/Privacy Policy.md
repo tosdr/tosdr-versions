@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/vaccin-rechtszaak-tegen-klaas-dijkhoff-vvd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-eindtijd-zonnestormen-klimaatverandering-en-de-elite/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
