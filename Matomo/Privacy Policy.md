@@ -40,6 +40,8 @@ MENUMENU
 * Resources
     * [Help](https://matomo.org/help/)
     * [Blog](https://matomo.org/blog/)
+    * [Masterclasses](https://matomo.org/masterclass/)
+    * [Guide to Cookieless Marketing](https://matomo.org/resources/cookieless-future-guide/)
     * [Case Studies](https://matomo.org/case-studies/)
     * [Integrations](https://matomo.org/integrate/)
     * [Contact the Matomo team](https://matomo.org/contact/)
