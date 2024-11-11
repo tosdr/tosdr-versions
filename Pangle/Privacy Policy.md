@@ -6,7 +6,7 @@
 
 [Resources](https://www.pangleglobal.com/resource)
 
-[Help Center](https://www.pangleglobal.com/helpcenter)
+[Help Center](https://www.pangleglobal.com/knowledge)
 
 [Brand Safety Center](https://www.pangleglobal.com/brandsafety)
 
