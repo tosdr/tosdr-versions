@@ -1,6 +1,8 @@
 [Skip to content](#MainContent)
 
-### NEW X-Tech Vegan Leather Colors || [Shop Now](https://www.xchair.com/pages/xtech-limited-edition "The Limited Edition X-Tech Collection")
+### 25% OFF EVERYTHING || [Shop Now](https://www.xchair.com/collections/sale "Sale")
+
+### 844-492-4247
 
 [](https://www.xchair.com/)
 
@@ -12,7 +14,6 @@ Menu
     
     Shop by Category
     
-    * [NEW! Brisa® Vegan Leather Colors](https://www.xchair.com/pages/xtech-limited-edition)
     * [Leather & Leather-Like Office Chairs](https://www.xchair.com/collections/leather-leather-like-office-chairs)
     * [Mesh Office Chairs](https://www.xchair.com/collections/mesh-office-chairs)
     * [Massage & Heat Office Chairs](https://www.xchair.com/collections/massage-heat-office-chairs)
@@ -21,9 +22,9 @@ Menu
     * [All Office Chairs](https://www.xchair.com/collections/office-chairs)
     * [Office Chairs for Teams](https://www.xchair.com/pages/bulksales)
     
-    *       [![Woman in the office working at desk in X-tech ](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
+    *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        Style And Comfort For All.](https://www.xchair.com/collections/office-chairs)
+        Up to $475 off office chairs.](https://www.xchair.com/collections/office-chairs)
     *       [![Reef blue X-Tech chair at home office](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
         Featured: X-Tech Ultimate Executive Office Chair](https://www.xchair.com/products/xtech-ultimate-executive-office-chair)
@@ -42,7 +43,7 @@ Menu
     
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        The Perfect Pair With Your Office Chair.](https://www.xchair.com/collections/tables-desks)
+        25% off tables and desks.](https://www.xchair.com/collections/tables-desks)
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
         Featured: Standing Desk](https://www.xchair.com/products/standing-desk-rectangle)
@@ -71,7 +72,10 @@ Menu
     
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        Upgrade with ELEMAX™.](https://www.xchair.com/products/elemax-cooling-heat-and-massage-unit)
+        25% off all accessories.](https://www.xchair.com/collections/accessories)
+    *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
+        
+        Featured: Monitor Arms](https://www.xchair.com/collections/monitor-arms)
     
 * [Why X-Chair](https://www.xchair.com/pages/about-us)
     
@@ -90,7 +94,7 @@ Menu
         
         Learn About The Dynamic Variable Lumbar (DVL)® Support.](https://www.xchair.com/pages/ergonomics)
     
-* [Sale](https://www.xchair.com/collections/refurbished)
+* [Sale](https://www.xchair.com/collections/sale)
 
 * [BAG](https://www.xchair.com/cart)
 * [SIGN IN](https://www.xchair.com/account/login)
@@ -101,7 +105,6 @@ Office Chairs
 
 Shop by Category
 
-* [NEW! Brisa® Vegan Leather Colors](https://www.xchair.com/pages/xtech-limited-edition)
 * [Leather & Leather-Like Office Chairs](https://www.xchair.com/collections/leather-leather-like-office-chairs)
 * [Mesh Office Chairs](https://www.xchair.com/collections/mesh-office-chairs)
 * [Massage & Heat Office Chairs](https://www.xchair.com/collections/massage-heat-office-chairs)
