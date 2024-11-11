@@ -515,8 +515,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -808,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 
 test.de entdecken
 
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
 
 Fußbereich
 
@@ -2437,8 +2435,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -2849,8 +2845,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -3296,8 +3290,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Über unsere Internetseite können Sie einen kostenfreien Newsletter abonnieren.
@@ -3311,8 +3303,6 @@ Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellu
 Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
-
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3850,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 
 test.de entdecken
 
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 
 test.de entdecken
 
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
 
 Neueste Tests
 
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 
 test.de entdecken
 
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
 
 Service Stiftung Warentest
 
