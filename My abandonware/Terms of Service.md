@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Mrs. Wigglesworth's Secret](https://www.myabandonware.com/game/mrs-wigglesworth-s-secret-sz7)
-* [Mystery of the Witch's Shoes](https://www.myabandonware.com/game/mystery-of-the-witch-s-shoes-sz6)
-* [Mud Pies](https://www.myabandonware.com/game/mud-pies-sz5)
-* [Play Ball, Kate!](https://www.myabandonware.com/game/play-ball-kate-sz4)
-* [The Goofy Ghost](https://www.myabandonware.com/game/the-goofy-ghost-sz3)
+* [The Animated Alphabet](https://www.myabandonware.com/game/the-animated-alphabet-tmi)
+* [Tark Simmons, Priestess of the First Church, in her battle against the Demon of Dark Desire](https://www.myabandonware.com/game/tark-simmons-priestess-of-the-first-church-in-her-battle-against-the-demon-of-dark-desire-tmh)
+* [Space Pilot](https://www.myabandonware.com/game/space-pilot-tmg)
+* [Girl Poker](https://www.myabandonware.com/game/girl-poker-tmf)
+* [Air Traffic Controller](https://www.myabandonware.com/game/air-traffic-controller-tme)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Angel Devoid: Face of the Enemy](https://www.myabandonware.com/game/angel-devoid-face-of-the-enemy-pch)
-* [Killer Instinct 2](https://www.myabandonware.com/game/killer-instinct-2-sgb)
-* [Rolling Crash](https://www.myabandonware.com/game/rolling-crash-sdv)
+* [Outlaw](https://www.myabandonware.com/game/outlaw-sop)
+* [Micro Machines 2: Special Edition](https://www.myabandonware.com/game/micro-machines-2-special-edition-ofh)
+* [Premier Manager 3 De-Luxe](https://www.myabandonware.com/game/premier-manager-3-de-luxe-7la)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
