@@ -61,6 +61,71 @@ Menu
     * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
     * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/birthday/)
     
+* Open Christmas dropdown[![Christmas](https://static.web-explore.prod.moonpig.net/_next/static/images/christmas-ed690b11bd8f5aad1cdb53a4b7a9fcde.svg)
+    
+    Christmas](https://www.moonpig.com/uk/christmas/)
+    
+    ### Cards by Recipient
+    
+    * [All Christmas Cards](https://www.moonpig.com/uk/personalised-cards/christmas/)
+    * [For Mum](https://www.moonpig.com/uk/personalised-cards/christmas/for-mum/)
+    * [For Dad](https://www.moonpig.com/uk/personalised-cards/christmas/for-dad/)
+    * [For Mum & Dad](https://www.moonpig.com/uk/personalised-cards/christmas/for-parents/)
+    * [For Kids](https://www.moonpig.com/uk/personalised-cards/christmas/for-kids/)
+    * [For Granny & Grandad](https://www.moonpig.com/uk/personalised-cards/christmas/for-grandparents/)
+    * [For Grandchildren](https://www.moonpig.com/uk/personalised-cards/christmas/for-grandchildren/)
+    * [For Son](https://www.moonpig.com/uk/personalised-cards/christmas/for-son/)
+    * [For Daughter](https://www.moonpig.com/uk/personalised-cards/christmas/for-daughter/)
+    
+    ### Cards by Theme
+    
+    * [Across The Miles](https://www.moonpig.com/uk/personalised-cards/christmas/from-across-the-miles/)
+    * [Baby's First Christmas](https://www.moonpig.com/uk/personalised-cards/christmas/babys-first-christmas/)
+    * [First Christmas Together](https://www.moonpig.com/uk/personalised-cards/christmas/1st-christmas-together/)
+    * [From The Pets](https://www.moonpig.com/uk/personalised-cards/christmas/from-pets/)
+    * [Funny](https://www.moonpig.com/uk/personalised-cards/christmas/funny/)
+    * [Letters From Santa](https://www.moonpig.com/uk/personalised-cards/christmas/letter-from-santa/all/)
+    * [New Designs](https://www.moonpig.com/uk/personalised-cards/christmas/new)
+    * [Traditional](https://www.moonpig.com/uk/personalised-cards/christmas/traditional/)
+    
+    ### Gifts by Type
+    
+    * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/)
+    * [Beauty & Fragrance](https://www.moonpig.com/uk/gifts/christmas/beauty-grooming/)
+    * [Champagne & Prosecco](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/champagne-prosecco/)
+    * [Chocolate & Sweets](https://www.moonpig.com/uk/gifts/christmas/chocolate-sweets/)
+    * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/all/)
+    * [Hampers](https://www.moonpig.com/uk/gifts/christmas/hampers/)
+    * [Home](https://www.moonpig.com/uk/gifts/homeware/christmas/)
+    * [Kids Toys](https://www.moonpig.com/uk/gifts/christmas/toys-games/)
+    
+    ### Gift Inspiration
+    
+    * [Top Picks](https://www.moonpig.com/uk/gifts/christmas/star-picks/)
+    * [Stocking Fillers £20 & Under](https://www.moonpig.com/uk/gifts/christmas/stocking-fillers/)
+    * [Across The Miles](https://www.moonpig.com/uk/gifts/christmas/across-the-miles/)
+    * [Premium](https://www.moonpig.com/uk/gifts/christmas/luxury/)
+    * [For Her](https://www.moonpig.com/uk/gifts/christmas/for-her/)
+    * [For Him](https://www.moonpig.com/uk/gifts/christmas/for-him/)
+    * [For Kids](https://www.moonpig.com/uk/gifts/christmas/for-kids/)
+    * [For Partner](https://www.moonpig.com/uk/gifts/christmas/for-partner/)
+    * [For Parents](https://www.moonpig.com/uk/gifts/christmas/for-parents/)
+    * [For Grandparents](https://www.moonpig.com/uk/gifts/christmas/for-grandparents/)
+    
+    ### Top Brands
+    
+    * [Buyagift](https://www.moonpig.com/uk/gifts/experience-gifts/christmas/)
+    * [Cartwright & Butler](https://www.moonpig.com/uk/gifts/food/cartwright-butler/christmas/)
+    * [Early Learning Centre](https://www.moonpig.com/uk/gifts/early-learning-centre/all/)
+    * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/christmas/)
+    * [Lanson](https://www.moonpig.com/uk/gifts/alcohol/lanson/)
+    * [LEGO](https://www.moonpig.com/uk/gifts/lego/all/)
+    * [Lindt](https://www.moonpig.com/uk/gifts/food/lindt-chocolate/christmas/)
+    * [Maltesers & Celebrations](https://www.moonpig.com/uk/gifts/mars/christmas/)
+    * [Moët & Chandon](https://www.moonpig.com/uk/gifts/alcohol/moet/)
+    * [The Entertainer](https://www.moonpig.com/uk/gifts/the-entertainer/christmas/)
+    * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/all/)
+    
 * Open Cards dropdown[![Cards](https://static.web-explore.prod.moonpig.net/_next/static/images/cards-1216848fbcfa3b9ed73fa8e0965c9adc.svg)
     
     Cards](https://www.moonpig.com/uk/personalised-cards/)
