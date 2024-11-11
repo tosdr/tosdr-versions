@@ -310,6 +310,10 @@
     
     Success Stories
     
+    [![Tatvic Logo](https://static.wingify.com/gcp/tr:h-50,w-60,c-at_max/uploads/2024/10/Tatvic-logo-1.png)
+    
+    Tatvic Optimizes ICICI Lombard’s Insurance Form Gaining Increased Submissions With VWO](https://vwo.com/success-stories/tatvic/)
+    
     [![No Baby Blisters Logos Fnl Small](https://static.wingify.com/gcp//uploads/2024/10/No_Baby_Blisters_Logos_FNL-Small.png)
     
     No Baby Blisters Improves Donation Page Conversions with VWO](https://vwo.com/success-stories/no-baby-blisters/)
@@ -345,10 +349,6 @@
     [![Logo](https://static.wingify.com/gcp//uploads/2023/11/Screenshot-2023-11-30-at-11.22.30-AM.png)
     
     GoodwillFinds Increases Clicks On The Add-To-Cart Button By A/B Testing The Product Page](https://vwo.com/success-stories/goodwillfinds/)
-    
-    [![Logo](https://static.wingify.com/gcp//uploads/2023/10/logo.png)
-    
-    SelectHub Uplifts Purchase Rate and Customer Engagement by Testing Product Pages](https://vwo.com/success-stories/selecthub/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
