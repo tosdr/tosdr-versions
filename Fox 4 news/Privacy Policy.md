@@ -3,9 +3,9 @@
 * [Live](https://www.fox4news.com/live)
 * [News](https://www.fox4news.com/news)
 * [Weather](https://www.fox4news.com/weather)
-* [2024 Election](https://www.fox4news.com/election)
 * [Good Day](https://www.fox4news.com/shows/good-day)
 * [Sports](https://www.fox4news.com/sports)
+* [Traffic](https://www.fox4news.com/traffic)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![American Freight closing all stores amid parent company's bankruptcy filing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/everything-mustgo.jpg?ve=1&tl=1)
+ [![Irving fire station damaged by fire while firefighters out on call](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/original-1ec899e1-2495-4a9c-8332-757d71f8ec34.jpeg?ve=1&tl=1)
 
- ![American Freight closing all stores amid parent company's bankruptcy filing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/everything-mustgo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-freight-closing-stores-parent-companys-bankruptcy-filing)
+ ![Irving fire station damaged by fire while firefighters out on call](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/original-1ec899e1-2495-4a9c-8332-757d71f8ec34.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-fire-station-damaged-fire-while-firefighters-out-call)
 
-### [American Freight closing all stores amid parent company's bankruptcy filing](https://www.fox4news.com/news/american-freight-closing-stores-parent-companys-bankruptcy-filing)
+### [Irving fire station damaged by fire while firefighters out on call](https://www.fox4news.com/news/irving-fire-station-damaged-fire-while-firefighters-out-call)
 
- [![Boil water notice issued in Alvord](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111024-alvord-boil-water-notice.jpg?ve=1&tl=1)
+ [![Teens plotted murder of 22-year-old Dallas man, report says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jason-steven-dallas.jpg?ve=1&tl=1)
 
- ![Boil water notice issued in Alvord](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111024-alvord-boil-water-notice.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boil-water-notice-issued-alvord)
+ ![Teens plotted murder of 22-year-old Dallas man, report says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jason-steven-dallas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-jason-steven-affidavit)
 
-### [Boil water notice issued in Alvord](https://www.fox4news.com/news/boil-water-notice-issued-alvord)
+### [Teens plotted murder of 22-year-old Dallas man, report says](https://www.fox4news.com/news/dilido-road-shooting-jason-steven-affidavit)
 
- [![Jerry Jones shuts down calls for curtains at AT&T Stadium](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1409609090.jpg?ve=1&tl=1)
+ [![Micah Parsons says his Mike McCarthy comments are being taken out of context](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2183456992.jpg?ve=1&tl=1)
 
- ![Jerry Jones shuts down calls for curtains at AT&T Stadium](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1409609090.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-curtains-att-stadium-sun)
+ ![Micah Parsons says his Mike McCarthy comments are being taken out of context](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183456992.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/micah-parsons-mike-mccarthy-comments)
 
-### [Jerry Jones shuts down calls for curtains at AT&T Stadium: 'We know where the sun is going to be'](https://www.fox4news.com/sports/jerry-jones-curtains-att-stadium-sun)
+### [Micah Parsons says his Mike McCarthy comments are being taken out of context](https://www.fox4news.com/sports/micah-parsons-mike-mccarthy-comments)
 
- [![DeSoto woman shot armed man attempting to break into home, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
+ [![Thanksgiving by the numbers: Where does your food come from and what do farmers earn?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-625708976.jpg?ve=1&tl=1)
 
- ![DeSoto woman shot armed man attempting to break into home, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-shooting-friday-raintree-circle-octavio-flores-mondragon)
+ ![Thanksgiving by the numbers: Where does your food come from and what do farmers earn?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-625708976.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/thanksgiving-numbers-where-does-your-food-come-from-what-do-farmers-earn)
 
-### [DeSoto woman shot armed man attempting to break into home, police say](https://www.fox4news.com/news/desoto-shooting-friday-raintree-circle-octavio-flores-mondragon)
+### [Thanksgiving by the numbers: Where does your food come from and what do farmers earn?](https://www.fox4news.com/money/thanksgiving-numbers-where-does-your-food-come-from-what-do-farmers-earn)
 
- [![Escaped monkeys update: More than half safely recovered, several still on the loose](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183211739.jpg?ve=1&tl=1)
+ [![Emperor penguin found in Australia, thousands of miles from home](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1627882197-scaled.jpg?ve=1&tl=1)
 
- ![Escaped monkeys update: More than half safely recovered, several still on the loose](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183211739.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/escaped-monkeys-south-carolina)
+ ![Emperor penguin found in Australia, thousands of miles from home](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1627882197-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/penguin-australia-emperor-antarctica-denmark-beach)
 
-### [Escaped monkeys update: More than half safely recovered, several still on the loose](https://www.fox4news.com/news/escaped-monkeys-south-carolina)
+### [For first time, emperor penguin makes 2,000-mile swim from Antarctica to Australia](https://www.fox4news.com/news/penguin-australia-emperor-antarctica-denmark-beach)
 
 ###### [News](https://www.fox4news.com/news)
 
