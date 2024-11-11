@@ -435,7 +435,7 @@ Hamburger Menu
 
 * [Business](https://www.lenovo.com/us/en/business/benefits/)
     
-    * [Lenovo Pro for Business](https://account.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage) [Business Store Benefits](https://www.lenovo.com/us/en/business/benefits/) [Lenovo for Startups](https://www.lenovo.com/us/en/startups/) [Small Business](https://www.lenovo.com/us/en/business/small-business-benefits/) [Medium Business](https://www.lenovo.com/us/en/business/medium-business-benefits/) [Partners](https://www.lenovo.com/us/en/business/reseller-benefits/) [Professional Creators](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/)
+    * [Lenovo Pro for Business](https://account.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage) [Business Store Benefits](https://www.lenovo.com/us/en/business/benefits/) [Lenovo for Startups](https://www.lenovo.com/us/en/startups/) [Small Business](https://www.lenovo.com/us/en/business/small-business-benefits/) [Medium Business](https://www.lenovo.com/us/en/business/medium-business-benefits/) [Partners](https://www.lenovo.com/us/en/business/reseller-benefits/)
     * Explore
         
         [AI Laptops](https://www.lenovo.com/us/en/business/ai-laptops/) [Windows 11 Pro](https://www.lenovo.com/us/en/business/windows-11/) [Small Business Solutions](https://www.lenovo.com/us/en/solutions-for-smb/) [Legion PC's for Business](https://www.lenovo.com/us/en/gaming-and-work-laptops/) [Business Community](https://smbcommunity.lenovo.com/)
@@ -444,7 +444,7 @@ Hamburger Menu
     
     * Shop
         
-        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
+        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
         
         Quick Links
         
@@ -512,7 +512,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://account.lenovo.com/us/en/account/rewards/)
     
     My Lenovo Rewards
     
@@ -564,7 +564,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://account.lenovo.com/us/en/account/rewards/)
     
     My Lenovo Rewards
     
@@ -616,7 +616,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://account.lenovo.com/us/en/account/rewards/)
     
     My Lenovo Rewards
     
@@ -668,7 +668,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://account.lenovo.com/us/en/account/rewards/)
     
     My Lenovo Rewards
     
@@ -720,7 +720,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://account.lenovo.com/us/en/account/rewards/)
     
     My Lenovo Rewards
     
@@ -772,7 +772,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://account.lenovo.com/us/en/account/rewards/)
     
     My Lenovo Rewards
     
@@ -805,7 +805,7 @@ skip to main content
         
         Quick Links
         
-        [New Arrivals](https://www.lenovo.com/us/en/d/new-products/?visibleDatas=986%3Alaptops) [Pick Up at Best Buy](https://www.lenovo.com/us/en/d/bopis/?&visibleDatas=1014%3ALaptops) [Laptop Deals](https://www.lenovo.com/us/en/d/deals/laptops/) [Laptop Buying Guide](https://www.lenovo.com/us/en/laptop-buying-guide/)
+        [New Arrivals](https://www.lenovo.com/us/en/d/new-products/?visibleDatas=986%3Alaptops) [Pick Up at Best Buy](https://www.lenovo.com/us/en/d/bopis/?&visibleDatas=1014%3ALaptops) [Laptop Deals](https://www.lenovo.com/us/en/d/deals/laptops/) [Laptop Buying Guide](https://www.lenovo.com/us/en/laptop-buying-guide/) [Quick Ship - Build your Own PCs](https://www.lenovo.com/us/en/custom-quick-ship/)
     
 * [Desktops](https://www.lenovo.com/us/en/desktops/)
     
@@ -879,10 +879,10 @@ skip to main content
     
 * [Servers & Storage](https://www.lenovo.com/us/en/servers-storage/)
     
-    * [Explore Servers](https://www.lenovo.com/us/en/servers-storage/servers/) [Rack Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/racks/) [Tower Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/towers/) [Edge Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/edge/) [Mission Critical Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/mission-critical/) [Multi-Node Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/multi-node/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [Supercomputing Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/supercomputing/) [Options & Accessories](https://www.lenovo.com/us/en/servers-storage-options/) [Servers Deals](https://www.lenovo.com/us/en/d/deals/servers/)
+    * [Explore Servers](https://www.lenovo.com/us/en/servers-storage/servers/) [AI Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/ai/) [Rack Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/racks/) [Tower Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/towers/) [Edge Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/edge/) [Mission Critical Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/mission-critical/) [Multi-Node Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/multi-node/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [Supercomputing Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/supercomputing/) [Options & Accessories](https://www.lenovo.com/us/en/servers-storage-options/) [Servers Deals](https://www.lenovo.com/us/en/d/deals/servers/)
     * Explore By Processor
         
-        [AMD Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-amd/) [Intel Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-intel/) [Explore Storage](https://www.lenovo.com/us/en/servers-storage/storage/) [Unified Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/unified-storage/) [Storage Area Network](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-area-network/) [Direct-Attached Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/das/) [Tape Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-tape/) [Options & Accessories](https://www.lenovo.com/us/en/servers-storage-options/)
+        [AMD Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-amd/) [Intel Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-intel/) [Explore Storage](https://www.lenovo.com/us/en/servers-storage/storage/) [ThinkSystem DG Storage Arrays](https://www.lenovo.com/us/en/c/servers-storage/storage/unified-storage/dg-series-all-flash/) [ThinkSystem DM Storage Arrays](https://www.lenovo.com/us/en/c/servers-storage/storage/unified-storage/dm-series-all-flash/) [ThinkSystem DE Storage Arrays](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-area-network/de-hybrid-flash-array/) [ThinkSystem D Series Disk Enclosures](https://www.lenovo.com/us/en/c/servers-storage/storage/das/) [Fibre Channel Switches](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-area-network/san-fibre-channel-switches/) [Tape Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-tape/) [Storage Deals](https://www.lenovo.com/us/en/d/deals/storage-sale/?IPromoID=LEN128993)
     * [Hyperconverged Infrastructure](https://www.lenovo.com/us/en/servers-storage/sdi/) [ThinkAgile HX Series (with Nutanix)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-hx-series/) [ThinkAgile MX and SXM Series  
         (with Microsoft)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-mx-series/) [ThinkAgile VX Series (with VMware)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-vx-series/) [Explore Software](https://www.lenovo.com/us/en/servers-storage/software/) [Infrastructure Software](https://www.lenovo.com/us/en/servers-storage/software/infrastructure/) [Management Software](https://www.lenovo.com/us/en/servers-storage/software/management/) [Lenovo Open Cloud Automation](https://www.lenovo.com/us/en/servers-storage/software/open-cloud-automation/) [Cloud Marketplace](https://www.lenovo.com/us/en/servers-storage/software/cloud-marketplace/)
     
@@ -902,6 +902,7 @@ skip to main content
     * AI PCs
         
         [Copilot+ PC](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC) [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [AI-Ready Workstations](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Ready%2520Workstations) [View All AI PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
+    * [Explore AI Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/ai/) [Enterprise Rack](https://www.lenovo.com/us/en/p/racks/len21ts0007) [8 GPU Rack](https://www.lenovo.com/us/en/p/racks/len21ts0032) [Edge](https://www.lenovo.com/us/en/p/edge/len21te0019) [Mission-Critical](https://www.lenovo.com/us/en/p/mission-critical/len21ts0015) [Supercomputing](https://www.lenovo.com/us/en/p/supercomputing/len21ts0011)
     * Recommended Products
         
         [Yoga Slim 7i Gen 9](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7i-gen-9-aura-edition-15-inch-intel/len101y0051) [X1 Carbon Gen 13 Aura Edition](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-13-aura-edition-14-inch-intel/len101t0108) [ThinkPad T14s Gen 6](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-6-(14-inch-snapdragon)/len101t0099)
