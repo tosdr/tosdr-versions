@@ -11,7 +11,7 @@ Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 
 * [About](https://therapydave.com/about-eugene-psychotherapist/)
 * [Gottman Couples Therapy](https://therapydave.com/couples-therapy/)
-* [Individual Empowerment Therapy](https://therapydave.com/eugene-psychotherapy/)
+* [Individual Counseling](https://therapydave.com/eugene-psychotherapy/)
 * [FAQ](https://therapydave.com/psychotherapist-faqs/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
 * [Appointments](https://therapydave.com/therapist-appointments/)
