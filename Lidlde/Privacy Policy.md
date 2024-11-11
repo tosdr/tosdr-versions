@@ -12,7 +12,7 @@ AkzeptierenAblehnen
 
     
 
-[Hat da jemand SALE gesagt? Jetzt Schnäppchen sichern!](https://www.lidl.de/c/sale-bis-zu-77-sparen/a10058380)
+[Singles Day Deals: Nur heute exklusive Preise sichern!](https://www.lidl.de/c/lidl-deals-des-tages/s10015619)
 
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
