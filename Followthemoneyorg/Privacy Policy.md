@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013 and 2014: Money and Incumbency in State Legislative Races](/assets/Images/teasers/full/SuccessForContested2001-14.png)](http://www.followthemoney.org/research/institute-reports/2013-and-2014-money-and-incumbency-in-state-legislative-races/)
+[![ Top Contributing Sectors to OR govs Kitzhaber and Brown](/assets/Images/teasers/small/KitzhabervBrownPercentbyIndustry.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-john-kitzhaber-and-kate-brown/)
+
+Sector giving to OR govs Kitzhaber and Brown.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
