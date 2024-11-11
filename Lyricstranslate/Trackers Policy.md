@@ -137,67 +137,59 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Lobolyrix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1224978-1552832837.jpg)](https://lyricstranslate.com/en/translator/lobolyrix "Lobolyrix")
+[![gakumiru](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616822-1717112280.jpg)](https://lyricstranslate.com/en/translator/gakumiru "gakumiru")
+
+New request
+
+[Exist † Trace - 海の雫 (Umi no shizuku)](https://lyricstranslate.com/en/request/%E6%B5%B7%E3%81%AE%E9%9B%AB)
+
+Japanese → English
+
+[![heskia1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/heskia1 "heskia1")
 
 New comment
 
-(Title) Jormunandr > Jormungandr  [more](https://lyricstranslate.com/en/comment/1175185#comment-1175185)
+You are most welcome. If you know Persian, the ...  [more](https://lyricstranslate.com/en/comment/1175490#comment-1175490)
 
-[![Multilingual Alpha Male](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/multilingual-alpha-male "Multilingual Alpha Male")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New translation
+New comment
 
-[Françoise Hardy - Tous les garçons et les filles](https://lyricstranslate.com/en/francoise-hardy-tous-les-garcons-et-les-f-english-0)
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175489#comment-1175489)
 
-French → English
+[![Klaarzin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1517013-1636035828.png)](https://lyricstranslate.com/en/translator/klaarzin "Klaarzin")
 
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+New comment
 
-New song
+In diesem Gedicht lese ich einen scharfen Angriff ...  [more](https://lyricstranslate.com/en/comment/1175488#comment-1175488)
 
-[Alain Bashung - Lunatic Asylum](https://lyricstranslate.com/en/alain-bashung-lunatic-asylum-lyrics)
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-French
+New comment
 
-[![Natur Provence](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1289099-1661029088.jpg)](https://lyricstranslate.com/en/translator/natur-provence "Natur Provence")
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175487#comment-1175487)
 
-New song
-
-[Günter Pfitzmann - Der Schöne Franz](https://lyricstranslate.com/en/gunter-pfitzmann-der-schone-franz-lyrics)
-
-German (Berlinerisch dialect)
-
-[![theguy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/theguy "theguy")
-
-New song
-
-[The Kelly Family - Crazy](https://lyricstranslate.com/en/kelly-family-crazy-lyrics)
-
-English
-
-[![Tera4](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615562-1724699096.jpg)](https://lyricstranslate.com/en/translator/tera4 "Tera4")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
 New translation
 
-[The Phantom of the Opera (Musical) - Zrcadlo \[The Mirror (Angel of Music)\]](https://lyricstranslate.com/en/phantom-o-zrcadlo-mirror-ange-english)
+[Hanaregumi - ののちゃん (Nono-chan)](https://lyricstranslate.com/en/hanaregumi-no-no-chan-english)
 
-Czech → English
+Japanese → English
 
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New song
+New comment
 
-[Alain Bashung - Ma peau va te plaire](https://lyricstranslate.com/en/alain-bashung-ma-peau-va-te-plaire-lyrics)
+Thank you for your time and help 😊  [more](https://lyricstranslate.com/en/comment/1175486#comment-1175486)
 
-French
+[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
 
-[![pocato](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1435812-1639846404.png)](https://lyricstranslate.com/en/translator/pocato "pocato")
+New translation
 
-New song
+[NATARIE IN THE DREAM - 空に届く砂の山 (Sora ni Todoku Suna no Yama)](https://lyricstranslate.com/en/natarie-dream-sora-ni-todoku-suna-no-ya-english)
 
-[REOL - RE RESCUE](https://lyricstranslate.com/en/reol-re-rescue-lyrics)
-
-Japanese
+Japanese → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
