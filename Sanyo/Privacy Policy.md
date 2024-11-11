@@ -108,4 +108,4 @@ Last Updated: April 28, 2021
 [![](../../img/icon/protectourenvironment.png)](https://www.sanyo-av.com/us/support/recycle.php)
 
 [About SANYO](https://www.sanyo-av.com/us/learn/index.php) |  [Privacy Policy](https://www.sanyo-av.com/us/support/privacy.php) |  [Terms & Conditions](https://www.sanyo-av.com/us/support/privacy.php#tc) |   [![](../../img/icon/us.gif) USA/English](https://www.sanyo-av.com/language.php) | [![](../../img/element/fb-icon.png)](https://www.facebook.com/sanyotvusa/)  
-©2023 [FUNAI CORPORATION, INC.](https://www.funai.us/) All rights reserved.
+©2024 [FUNAI CORPORATION, INC.](https://www.funai.us/) All rights reserved.
