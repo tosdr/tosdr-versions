@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: DNA shows Pompeii’s dead aren’t who we thought they were](https://cdn.arstechnica.net/wp-content/uploads/2024/11/pompeii2-768x432.jpg)](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
+1. [![Listing image for first story in Most Read: How a stubborn computer scientist accidentally launched the deep learning boom](https://cdn.arstechnica.net/wp-content/uploads/2024/11/ai-data-drawers-768x432.jpg)](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
     
-    1. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
+    1. [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
     
 2. 2. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
     
-3. 3. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
+3. 3. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-4. 4. [New SMB-friendly subscription tier may be too late to stop VMware migrations](https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/)
+4. 4. [Russia: Fine, I guess we should have a Grasshopper rocket project, too](https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/)
     
-5. 5. [Review: M4 and M4 Pro Mac minis are probably Apple’s best Mac minis ever](https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/)
+5. 5. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
     
 
 Customize
