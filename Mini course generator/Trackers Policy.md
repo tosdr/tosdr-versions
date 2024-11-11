@@ -1,5 +1,4 @@
-Cookies policy
-==============
+Home
 
 #### Mini Course Generator | Cookies policy  
 
