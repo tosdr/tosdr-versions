@@ -1,4 +1,4 @@
-[![10 Years of Beloved Books](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730839394i/475.jpg)](https://www.goodreads.com/blog/show/2837?ref=belovedbks24_eb)
+[![Goodreads Choice Awards 2024 Opening Round](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730828961i/463.jpg)](https://www.goodreads.com/choiceawards/best-books-2024?ref=gca_nov_24_gcar1_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
