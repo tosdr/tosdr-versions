@@ -189,7 +189,7 @@ Nuestros Portales
 * [Transparencia y Buen Gobierno](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 * [Protección de Datos](http://red.es/es/proteccion-de-datos)
 * [Reutilización de la Información del Sector Público](https://sede.red.gob.es/datos-abiertos)
-* [Canal de denuncias](http://red.es/es/canal-de-denuncias)
+* [Canal de denuncias](http://red.es/canal-de-denuncias)
 
 Páginas de Interés
 
