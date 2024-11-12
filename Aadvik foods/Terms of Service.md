@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)           
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)            
 
-           
+              
 
 [Skip to content](#MainContent)
 
@@ -187,7 +187,7 @@ Sale Off
 
 ### [Camel Milk Chocolate | Classic । 70g](https://aadvikfoods.com/products/camel-milk-chocolates)
 
-₹ 299.00₹ 290.00
+₹ 299.00₹ 269.00
 
 Add To Cart
 
