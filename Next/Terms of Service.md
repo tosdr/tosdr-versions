@@ -1,6 +1,6 @@
 5.39.5
 
-1731401401374
+1731422599834
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1731401568516
+1731422833514
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1731401885553
+1731421891351
 
 You need to enable JavaScript to run this app.
 
@@ -1095,24 +1095,6 @@ The Nars Gift will be automatically added to bag when you buy two selected Nars 
 To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
 
 The Nars Gift will be automatically added once 2 qualifying Nars products have been added to the bag on either the Product or Shopping Bag Pages.
-
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
-
-This offer is not available to staff.
-
-Offer applies while stocks last.
-
-### Too Faced Promotion
-
-The Too Faced Gift will be automatically added to bag when you buy two selected Too Faced products. The Too Faced Makeup Minis Gift Set contains:
-
-* Doll Size Better than Sex Mascara
-* Doll Size Hangover Primer
-* Bag
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
-
-The Too Faced Gift will be automatically added once 2 qualifying Too Faced products have been added to the bag on either the Product or Shopping Bag Pages.
 
 The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
 
@@ -2930,7 +2912,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1731401576192
+1731422022686
 
 ### Our Social Networks
 
