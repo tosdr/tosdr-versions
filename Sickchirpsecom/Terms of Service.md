@@ -435,17 +435,17 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/brazilians-are-finding-creative-ways-to-keep-their-phones-safe-from-thieves/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/mattel-wicked-doll-site-packaging.webp)](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/Daves.jpg)](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
 
-### [Mattel’s ‘Wicked’ Movie Dolls Accidentally List Porn Site On Packaging](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+### [Dave’s Hot Chicken Give Away Hundreds Of Free Sliders For UK Launch](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
 
-[Read More »](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
+[Read More »](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/pub-full-english.jpg)](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/Saucemas-scaled.jpeg)](https://www.sickchirpse.com/heinz-launched-limited-edition-advent-calendar-favourite-sauces/)
 
-### [Pub Responds To Backlash After Charging Customers £25 For A Full English Breakfast](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+### [Heinz Have Launched A Limited Edition Advent Calendar Of Their Favourite Sauces](https://www.sickchirpse.com/heinz-launched-limited-edition-advent-calendar-favourite-sauces/)
 
-[Read More »](https://www.sickchirpse.com/pub-responds-to-backlash-after-charging-customers-25-for-a-full-english-breakfast/)
+[Read More »](https://www.sickchirpse.com/heinz-launched-limited-edition-advent-calendar-favourite-sauces/)
 
 #### trending post
 
@@ -454,6 +454,12 @@ SEND
 ### [David Coote Admits Viral Video Is Real But ‘Does Not Recall’ Calling Jurgen Klopp A ‘C\*\*\*’](https://www.sickchirpse.com/david-coote-admits-viral-video-is-real-but-does-not-recall-calling-jurgen-klopp-a-c/)
 
 [Read More »](https://www.sickchirpse.com/david-coote-admits-viral-video-is-real-but-does-not-recall-calling-jurgen-klopp-a-c/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/Daves.jpg)](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
+
+### [Dave’s Hot Chicken Give Away Hundreds Of Free Sliders For UK Launch](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
+
+[Read More »](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/mattel-wicked-doll-site-packaging.webp)](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
 
@@ -472,12 +478,6 @@ SEND
 ### [Girl With Autism, 17, Banned For Asking Transgender Opponent: ‘Are You A Man?’](https://www.sickchirpse.com/girl-with-autism-17-banned-for-asking-transgender-opponent-are-you-a-man/)
 
 [Read More »](https://www.sickchirpse.com/girl-with-autism-17-banned-for-asking-transgender-opponent-are-you-a-man/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/asda.webp)](https://www.sickchirpse.com/asda-email-which-sacked-475-staff-this-week-published-see-leaked-letter-in-full/)
-
-### [Asda Email Which Sacked 475 Staff This Week Published – See Leaked Letter In Full](https://www.sickchirpse.com/asda-email-which-sacked-475-staff-this-week-published-see-leaked-letter-in-full/)
-
-[Read More »](https://www.sickchirpse.com/asda-email-which-sacked-475-staff-this-week-published-see-leaked-letter-in-full/)
 
 Copyright 2023 © All rights Reserved.
 
