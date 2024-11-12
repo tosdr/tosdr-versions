@@ -123,7 +123,16 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Tradition of Service
+    1. The Enhanced Body
+        
+        In Focus
+        
+        **The Enhanced Body** From glasses and hearing aids to responsive prosthetics and 3D-printed organs, assistive body augmentations have changed the way we live. [Explore the advancements](https://www.harvard.edu/in-focus/prosthetics/)
+        
+        1. 1. [**The progress of dental implants**](https://news.harvard.edu/gazette/story/2024/10/daniel-buser-honored-at-harvard-school-of-dental-medicine/)
+            2. [**The innovation of wearable robotics**](https://gsas.harvard.edu/news/walk-robot)
+        
+    2. Tradition of Service
         
         In Focus
         
@@ -133,7 +142,7 @@ Menu
             1. [**Harvard and the military**](https://news.harvard.edu/gazette/story/series/harvard-and-the-military/)
             2. [**The long Crimson line**](https://news.harvard.edu/gazette/story/2024/11/number-of-armed-services-veterans-at-harvard-on-the-rise/)
         
-    2. Voting
+    3. Voting
         
         In Focus
         
@@ -142,16 +151,6 @@ Menu
         1. **What's on the ballot?**
             1. [**How AI is affecting elections**](https://ash.harvard.edu/articles/ai-and-the-2024-elections/)
             2. [**How polls become more accurate**](https://news.harvard.edu/gazette/story/2024/10/why-do-election-polls-seem-to-have-such-a-mixed-track-record/)
-        
-    3. Forests
-        
-        In Focus
-        
-        **Forests** From sprawling jungles to city parks, forests are complex ecosystems that support the livelihoods of flora, fauna, humans, and the planet. [Take a hike](https://www.harvard.edu/in-focus/forests/)
-        
-        1. **What's inside?**
-            1. [**Urban forests can help cool cities**](https://www.gsd.harvard.edu/2023/10/the-forest-for-the-trees-and-the-birds-and-the-people-and-the-planet/)
-            2. [**Forests can help offset carbon emissions**](https://news.harvard.edu/gazette/story/2022/11/new-report-shows-forests-have-big-role-to-play-in-climate-change-fight/)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
@@ -211,9 +210,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Mars may have been habitable much more recently than thought** Study bolsters theory that protective magnetic field supporting life-enabling atmosphere remained in place longer than estimates](https://news.harvard.edu/gazette/story/2024/10/mars-may-have-been-habitable-much-more-recently-than-thought/)
-        2. [**‘I wanted to make a difference in America’** Robert Putnam’s ‘Bowling Alone’ sounded an alarm we still haven’t answered](https://news.harvard.edu/gazette/story/2024/11/robert-putnam-wants-us-to-stop-bowling-alone/)
-        3. [**Do phones belong in schools?** Banning cellphones may help protect classroom focus, but school districts need to stay mindful of students’ sense of connection, experts say.](https://news.harvard.edu/gazette/story/2023/03/experts-see-pros-and-cons-to-allowing-cellphones-in-class/)
+        1. [**U.S. fertility rates are tumbling, but some families still go big. Why?** It’s partly matter of faith. Economist examines choice to have large families in new book.](https://news.harvard.edu/gazette/story/2024/11/u-s-fertility-rates-tumbling-but-some-families-still-go-big-why/)
+        2. [**Are optimists the realists?** Humanity is doing better than ever yet it often doesn’t seem that way. In podcast, experts make the case for fact-based hope.](https://news.harvard.edu/gazette/story/2024/11/are-optimists-the-realists-optimism-toxic-positivity-podcast-steven-pinker/)
+        3. [**Seem like peanut allergies were once rare and now everyone has them?** Surgeon, professor Marty Makary examines damage wrought when medicine closes ranks around inaccurate dogma](https://news.harvard.edu/gazette/story/2024/10/excerpt-from-blind-spots-by-marty-makary/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
