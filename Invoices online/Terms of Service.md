@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Henry Venter
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=167353624)  
-Redlum Group (Pty) Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=1618200)  
+webb it services
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=183012276)  
-Well Hung Art
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=84296927)  
+MONSTER SECURITY SERVICES
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=212913849)  
-Oak Tree Immigration
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=35146431)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=76404033)  
-Van Der Merwe Olieverspreiders
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=80465154)  
+Kara Medical (Pty) Ltd
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=66528142)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=53585813)  
+Alliance Energy
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=105864079)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=201186018)  
+TIGERDSL
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=68566406)  
-Karino Merinos ( PTY ) LTD
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=193316820)  
+Blue Bulls Rugby Coaches Association
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=111604877)  
-NWET Pty LTD
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=141255475)  
+Konsortium Operations (PTY) LTD
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=113087195)  
-FlipDesign - Renovation Contracting Firm
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=197084258)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=107213982)  
-Dombieterfontein (PTY) LTD
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=58247545)  
+Kainos (Pty) Ltd
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=96970839)  
-Peter Salvage Pty Ltd
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=70707483)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=9586063)  
-Henry's Home Renovations
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=151840439)  
+Highlands Auto Engineering
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=178971869)  
-Waterfinatics Swim School
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=200091020)  
+Lemba Truck Stop
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=90886178)  
-Website Café (PTY) LTD
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=158843749)  
+Goju Ryu Karate Centre
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=f180046fef30ebd2d7818c909ffead431385b401305dbae467a209860f1796ed&c=156140143)  
-MR Compressors& Industrial Supplies
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=1c7b382edb635ecc03285450bfff576d0af33a4ef615f6ea4614fed8e2fea042&c=95715189)  
+Vplay Letsheng Mall
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
