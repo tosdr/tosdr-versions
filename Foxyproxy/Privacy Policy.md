@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Perfect support. 10/10.
+Your service is great, and I have no complaints. I have renewed the service with you 4 times now! Cheers.
 
-John Claire McMenamin
+Chris Jones
