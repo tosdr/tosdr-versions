@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Collective Security League Assemb… (1,429)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,429 posts)")
-* [Using the AN's flag, how do they deal… (8,727)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,727 posts)")
-* [Rewrite AN's motto based on their...… (728)](https://forum.nationstates.net/viewtopic.php?t=542020&f=25&view=unread#unread ""Rewrite AN's motto based on their... banner?" (728 posts)")
-* [American Politics: Turnabout Trump (3,628)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,628 posts)")
-* [How dangerous is AN to world peace? (605)](https://forum.nationstates.net/viewtopic.php?t=554384&f=25&view=unread#unread ""How dangerous is AN to world peace?" (605 posts)")
+* [What rights specifically will Donald… (15)](https://forum.nationstates.net/viewtopic.php?t=558263&f=20&view=unread#unread ""What rights specifically will Donald Trump Take Away?" (15 posts)")
+* [American Politics: Turnabout Trump (3,680)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,680 posts)")
+* [Your Reaction to AN's News (III) (10,843)](https://forum.nationstates.net/viewtopic.php?t=507317&f=25&view=unread#unread ""Your Reaction to AN's News (III)" (10,843 posts)")
+* [Fortunately/Unfortunately (1,588)](https://forum.nationstates.net/viewtopic.php?t=515186&f=25&view=unread#unread ""Fortunately/Unfortunately" (1,588 posts)")
+* [Where do Democrats go from here? (597)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (597 posts)")
 
 Advertisement
 
