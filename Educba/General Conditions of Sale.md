@@ -57,7 +57,7 @@ Footer
     
     ![EDUCBA Youtube](https://cdn.educba.com/academy/wp-content/uploads/2022/06/youtube9.png "EDUCBA Youtube")](https://www.youtube.com/channel/UC1_jSu02VOW1pusqb2NF49g)[![EDUCBA Coursera](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E "EDUCBA Coursera")
     
-    ![EDUCBA Coursera](https://cdn.educba.com/academy/wp-content/uploads/2023/12/coursera-icon.png "EDUCBA Coursera")](https://www.coursera.org/educba)[![EDUCBA Udemy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E "EDUCBA Udemy")
+    ![EDUCBA Coursera](https://cdn.educba.com/academy/wp-content/uploads/2023/12/coursera-icon.png "EDUCBA Coursera")](https://www.coursera.org/partners/educba/)[![EDUCBA Udemy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E "EDUCBA Udemy")
     
     ![EDUCBA Udemy](https://cdn.educba.com/academy/wp-content/uploads/2023/12/udemy-icon.png "EDUCBA Udemy")](https://www.udemy.com/user/premananda-suna/)
 
@@ -88,7 +88,7 @@ Footer
 * [Explore Programs](https://www.educba.com/explore/?source=footer)
 * [Free Courses](https://www.educba.com/skillup-101free/?source=footer)
 * [Free Tutorials](https://www.educba.com/tutorials/?source=footer)
-* [EDUCBA at Coursera](https://www.coursera.org/educba)
+* [EDUCBA at Coursera](https://www.coursera.org/partners/educba/)
 * [EDUCBA at Udemy](https://www.udemy.com/user/premananda-suna/)
 
 ###### Resources
@@ -187,3 +187,7 @@ X
 This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in the cookie policy. By closing this banner, scrolling this page, clicking a link or continuing to browse otherwise, you agree to our [Privacy Policy](https://www.educba.com/privacy-policy/?source=popup "Privacy Policy")
 
 OK
+
+     
+
+[🚀 Limited Time Offer! \- 🎁 ENROLL NOW](https://www.educba.com/all-in-one/)
