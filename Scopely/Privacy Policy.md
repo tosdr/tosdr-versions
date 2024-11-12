@@ -375,7 +375,7 @@ _Refer-a-Friend, Promotions, and Similar Incentive Programs_: We may offer refer
   
 _Shine the Light Disclosure_: California residents are entitled to ask us for a notice that identifies the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and provides contact information for such affiliates and/or third parties. If you are a California resident and would like this information, please submit a written request to us using the contact information below in the “Contact Us” section.  
   
-_CCPA Reporting Metrics_: To learn more about our annual reporting metrics, please visit \[CCPA Metrics Report\].  
+_CCPA Reporting Metrics_: To learn more about our annual reporting metrics, please visit [www.scopely.com/ccpametrics](https://www.scopely.com/en/ccpametrics).  
   
 **Additional Information for Residents of Nevada**  
   
@@ -1172,7 +1172,7 @@ _Refer-a-Friend, Promotions, and Similar Incentive Programs_: We may offer refer
   
 _Shine the Light Disclosure_: California residents are entitled to ask us for a notice that identifies the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and provides contact information for such affiliates and/or third parties. If you are a California resident and would like this information, please submit a written request to us using the contact information below in the “Contact Us” section.  
   
-_CCPA Reporting Metrics_: To learn more about our annual reporting metrics, please visit \[CCPA Metrics Report\].  
+_CCPA Reporting Metrics_: To learn more about our annual reporting metrics, please visit [www.scopely.com/ccpametrics](https://www.scopely.com/en/ccpametrics).  
   
 **Additional Information for Residents of Nevada**  
   
