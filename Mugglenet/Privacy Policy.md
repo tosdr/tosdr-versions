@@ -288,6 +288,26 @@ Recurs yearly
 
 2001
 
+#### Mon, Nov 18
+
+Fantastic Beasts and Where to Find Them - Movie 1
+
+Recurs yearly
+
+2016
+
+Harry Potter and the Goblet of Fire movie
+
+Recurs yearly
+
+2005
+
+Jon Campling's birthday
+
+Recurs yearly
+
+Death Eater (DH1, DH2)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are 1,100,086 words in the entire “Harry Potter” series.
+Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
 
 ### Potter History
 
-April 9-11, 2009 – StarKid performs A Very Potter Musical at the University of Michigan.
+October 27, 2006 – MuggleNet releases What Will Happen in Harry Potter 7?
 
 ### Potter Quote
 
-“And Potter — do try and win, won’t you? Or we’ll be out of the running for the eighth year in a row, as Professor Snape was kind enough to remind me only last night. . . .”
+“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
 
 [](#)
 
