@@ -116,6 +116,8 @@ Choose Topic
 
 [Safety & Recalls](https://www.managedhealthcareexecutive.com/clinical/safety-recalls)
 
+[Skin Cancer](https://www.managedhealthcareexecutive.com/clinical/skin-cancer)
+
 [Sleep Disorders](https://www.managedhealthcareexecutive.com/clinical/sleep)
 
 [Solid Tumors](https://www.managedhealthcareexecutive.com/clinical/solid-tumors)
@@ -261,6 +263,8 @@ Choose Topic
 [Respiratory Conditions](https://www.managedhealthcareexecutive.com/clinical/respiratory-conditions)
 
 [Safety & Recalls](https://www.managedhealthcareexecutive.com/clinical/safety-recalls)
+
+[Skin Cancer](https://www.managedhealthcareexecutive.com/clinical/skin-cancer)
 
 [Sleep Disorders](https://www.managedhealthcareexecutive.com/clinical/sleep)
 
