@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Get as much education as you can. Nobody can take that away from you”
+“ In the beginner’s mind there are many possibilities, in the expert’s mind there are few”
 
-[Eben Upton](http://lifehacker.com/5978324/im-eben-upton-executive-director-of-the-raspberry-pi-foundation-and-this-is-how-i-work)
+[Shunryu Suzuki](http://en.wikipedia.org/wiki/Shunryu_Suzuki)
 
 [](https://www.adafruit.com/about)
 
