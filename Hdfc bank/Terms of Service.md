@@ -6025,6 +6025,8 @@ false
 * [HDFC SKY](https://hdfcsky.com/)
 * [XpressWay](https://v.hdfcbank.com/xpressway/index.html?LGCode=MKTG&icid=website_footer&mc_id=website_footer)
 * [Savings Account Interest Rate](https://www.hdfcbank.com/personal/save/accounts/savings-accounts/savings-account-interest-rate?LGCode=MKTG&mc_id=website_footer&icid=website_footer)
+* [Prepaid Card](https://www.hdfcbank.com/personal/pay/cards/prepaid-cards?LGCode=MKTG&mc_id=website_footer_Prepaid_card&icid=website_footer_Prepaid_card)
+* [Business Credit Card](https://www.hdfcbank.com/personal/pay/cards/business-credit-cards?LGCode=MKTG&mc_id=website_footer_Business_credit_card&icid=website_footer_Business_credit_card)
 
 * [Calculators](https://www.hdfcbank.com/personal/tools-and-calculators#Footer)
 * [Home Loan Calculator](https://www.hdfcbank.com/personal/tools-and-calculators/home-loan-calculator#Footer)
