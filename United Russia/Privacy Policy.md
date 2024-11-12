@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев: Встречи с секретарями первичек «Единой России» дают возможность понять, что именно волнует людей на местах](https://cdn.er.ru/media/news/November2024/o24euMPk1AWr0ziz6HtP-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-vstrechi-s-sekretaryami-pervichek-edinoj-rossii-dayut-vozmozhnost-ponyat-chto-imenno-volnuet-lyudej-na-mestah)
+
+[Владимир Якушев: Встречи с секретарями первичек «Единой России» дают возможность понять, что именно волнует людей на местах](https://er.ru/activity/news/vladimir-yakushev-vstrechi-s-sekretaryami-pervichek-edinoj-rossii-dayut-vozmozhnost-ponyat-chto-imenno-volnuet-lyudej-na-mestah)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619) [#советпервичек](https://er.ru/activity/news?tags%5B0%5D=128798) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+12.11.24
+
 [![«Единая Россия» проведёт Единый день приёма граждан, приуроченный к Международному дню слепых](https://cdn.er.ru/media/news/November2024/PxZX5tDIPl8tTzwoosB4-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-provedyot-edinyj-den-priyoma-grazhdan-priurochennyj-k-mezhdunarodnomu-dnyu-slepyh)
 
 [«Единая Россия» проведёт Единый день приёма граждан, приуроченный к Международному дню слепых](https://er.ru/activity/news/edinaya-rossiya-provedyot-edinyj-den-priyoma-grazhdan-priurochennyj-k-mezhdunarodnomu-dnyu-slepyh)
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#международныйденьслепых](https://er.ru/activity/news?tags%5B0%5D=140985) [#единыйденьприёмаграждан](https://er.ru/activity/news?tags%5B0%5D=113405) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#всероссийскоеобществослепых](https://er.ru/activity/news?tags%5B0%5D=124639) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017)
 
-Сегодня 16:26
+12.11.24
 
 [![Владимир Путин отметил работу фракции «Единой России» в Госдуме](https://cdn.er.ru/media/news/November2024/yfJRriNpmtMyrzNOnwSb-small.jpg)](https://er.ru/activity/news/vladimir-putin-otmetil-rabotu-frakcii-edinoj-rossii-v-gosdume)
 
@@ -313,7 +321,7 @@
 
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
-Сегодня 15:30
+12.11.24
 
 [![Госдума приняла закон «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://cdn.er.ru/media/news/November2024/1rb0R9Oq1Ukq2uiKCm1j-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
 
@@ -321,7 +329,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#волонтерскаядеятельность](https://er.ru/activity/news?tags%5B0%5D=147139) [#НДФЛ](https://er.ru/activity/news?tags%5B0%5D=1219) [#медуслуги](https://er.ru/activity/news?tags%5B0%5D=94272)
 
-Сегодня 14:31
+12.11.24
 
 [![Владимир Якушев: В волгоградской школе №7 созданы все условия для комфортного обучения и самореализации ребят](https://cdn.er.ru/media/news/November2024/QScg9aBmDLALzKffAOhf-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-v-volgogradskoj-shkole-7-sozdany-vse-usloviya-dlya-komfortnogo-obucheniya-i-samorealizacii-rebyat)
 
@@ -329,7 +337,7 @@
 
 [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616)
 
-Сегодня 14:17
+12.11.24
 
 [![Алёна Аршинова: При капремонте школ необходимо предусматривать площади для реализации проекта «Лица Героев»](https://cdn.er.ru/media/news/November2024/xHeynmWt6ilZ2DrQFrzF-small.JPG)](https://er.ru/activity/news/alena-arshinova-pri-kapremonte-shkol-neobhodimo-predusmatrivat-ploshadi-pod-realizaciyu-proekta-lica-geroev)
 
@@ -337,15 +345,7 @@
 
 [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#героиВОВ](https://er.ru/activity/news?tags%5B0%5D=114356) [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Новаяшкола](https://er.ru/activity/news?tags%5B0%5D=1090067) [#ЛицаГероев](https://er.ru/activity/news?tags%5B0%5D=1093607)
 
-Сегодня 14:00
-
-[![«Единая Россия» передала в Минпросвещения перечень объектов образования для капремонта в 2025-2027 годах](https://cdn.er.ru/media/news/November2024/phFsvCBkh6iLMyIUDFtd-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-v-minprosvesheniya-perechen-obektov-obrazovaniya-dlya-kapremonta-v-2025-2027-godah)
-
-[«Единая Россия» передала в Минпросвещения перечень объектов образования для капремонта в 2025-2027 годах](https://er.ru/activity/news/edinaya-rossiya-peredala-v-minprosvesheniya-perechen-obektov-obrazovaniya-dlya-kapremonta-v-2025-2027-godah)
-
-[#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#ремонтшкол](https://er.ru/activity/news?tags%5B0%5D=108590) [#детсады](https://er.ru/activity/news?tags%5B0%5D=6186)
-
-Сегодня 13:40
+12.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
