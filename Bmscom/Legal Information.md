@@ -324,9 +324,9 @@ Related links
 
 [Doing business with us as a supplier](https://www.bms.com/about-us/our-company/doing-business-with-us-as-a-supplier.html)
 
-News
+News & media
 
-[News](https://www.bms.com/media.html)
+[News & media](https://www.bms.com/media.html)
 
 [Press releases](https://www.bms.com/media/press-releases.html)
 
@@ -342,7 +342,7 @@ Related links
 
 [Disease state infographics](https://www.bms.com/media/media-library/disease-state-infographics.html)
 
-[Corporate publications](https://www.bms.com/media.html#publications)
+[Corporate resources](https://www.bms.com/media/media-library/corporate-resources.html)
 
 About us
 
@@ -1763,7 +1763,7 @@ Main navigation
 * [Healthcare providers](https://www.bms.com/healthcare-providers.html)
 * [Researchers](https://www.bms.com/researchers-and-partners.html)
 * [Investors](https://www.bms.com/investors.html)
-* [News](https://www.bms.com/media.html)
+* [News & media](https://www.bms.com/media.html)
 * [About us](https://www.bms.com/about-us.html)
 
 Resources
