@@ -613,8 +613,6 @@ Lost your password? Please enter your username or email address. You will receiv
 
   Email Reset Link
 
-CLOSE
-
 Shopping Bag
 
 Your cart is empty
@@ -643,6 +641,6 @@ Your personal data will be used to support your experience throughout this websi
 
  Register
 
-![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427c6426882-921a-43d8-b61c-12c932d4f42b&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427b6dc8652-a03c-40ec-8004-e34fe874a564&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
 
-![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=1010714329333125c6426882-921a-43d8-b61c-12c932d4f42b&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=1010714329333125b6dc8652-a03c-40ec-8004-e34fe874a564&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
