@@ -97,7 +97,7 @@ Footer
 
 * [Products](https://www.textverified.com/products)
 * [Free Numbers](https://www.textverified.com/free)
-* [Buy Credits](https://www.textverified.com/app/credits?open=true)
+* [Buy Credits](https://www.textverified.com/app/credits/fiat?open=true)
 * [API](https://www.textverified.com/docs/api/v2)
 
 ### Contact
