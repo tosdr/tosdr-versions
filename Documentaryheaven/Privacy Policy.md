@@ -118,16 +118,16 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
     
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Russell Brand: From Addiction to Recovery](/wp-content/thumbnails/8368-100x70.jpg?x53432)
+* [![The Things I See: Living with Psychosis](/wp-content/thumbnails/13849-100x70.jpg?x53432)
     
-    Russell Brand: From Addiction to Recovery
+    The Things I See: Living with Psychosis
     
-    Russell Brand used to be an addict of alcohol, heroin and other drugs. In his documentary, Brand challenges the system currently in use to treat addicts in Britain. His passionate, honest and eye-open](https://documentaryheaven.com/russell-brand-addiction-recovery/ "Russell Brand: From Addiction to Recovery")
-* [![Dispatches: Undercover Mosque](/wp-content/thumbnails/792-100x70.png?x53432)
+    A short film by the BBC which sees three people sit down and tell their stories of living with mental health conditions and how they individually manage and deal with delusions which vary from the biz](https://documentaryheaven.com/things-see-living-with-psychosis/ "The Things I See: Living with Psychosis")
+* [![Lugovoy Lie Detector Test: Who Killed Litvinenko?](/wp-content/thumbnails/6603-100x70.jpg?x53432)
     
-    Dispatches: Undercover Mosque
+    Lugovoy Lie Detector Test: Who Killed Litvinenko?
     
-    An undercover investigation into mosques in the UK which are run by organisations whose public faces are presented as moderate but whose preachers condemn democracy and praise the Taliban for killing](https://documentaryheaven.com/dispatches-undercover-mosque/ "Dispatches: Undercover Mosque")
-* [![Richie Hawtin](/wp-content/thumbnails/5907-100x70.jpg?x53432)
+    State Duma deputy Andrey Lugovoy, who the UK considers the main suspect in the killing of former FSB officer Aleksandr Litvinenko, did not commit the murder, a British lie detector test shows.Lugovo](https://documentaryheaven.com/lugovoy-lie-detector-test-who-killed-litvinenko/ "Lugovoy Lie Detector Test: Who Killed Litvinenko?")
+* [![Secrets of the Vatican](/wp-content/thumbnails/13441-100x70.jpg?x53432)
     
-    Richie Hawtin
+    Secrets of the Vatican
     
-    Slices - Pioneers Of Electronic Music Vol. 1 - Richie HawtinThe launch of this DVD special series, Slices - Pioneers of Electronic Music celebrates in detail the life and work of prominent artists](https://documentaryheaven.com/richie-hawtin/ "Richie Hawtin")
-* [![Small Town Ecstasy](/wp-content/thumbnails/5791-100x70.jpg?x53432)
+    On 28 February 2013, Pope Benedict XVI shocked the world by being the first pope to resign in 600 years. When the helicopter took him away he was leaving behind a bitterly divided Vatican and this FRO](https://documentaryheaven.com/secrets-of-vatican/ "Secrets of the Vatican")
+* [![The Day The Earth Nearly Died](/wp-content/thumbnails/50-100x70.png?x53432)
     
-    Small Town Ecstasy
+    The Day The Earth Nearly Died
     
-    This documentary is about Scott, a 40-year-old divorced father, his four children; Job (20), Craig (18), Heather (15) and Sam (13).Scott has been introduced to the rave scene, and Ecstasy, by Craig.](https://documentaryheaven.com/small-town-ecstasy/ "Small Town Ecstasy")
-* [![Preppers UK](/wp-content/thumbnails/7750-100x70.jpg?x53432)
+    250 million years ago, long before dinosaurs roamed the Earth, the land and oceans teemed with life. This was the Permian, a golden era of biodiversity that was about to come to a crashing end. Within](https://documentaryheaven.com/the-day-the-earth-nearly-died/ "The Day The Earth Nearly Died")
+* [![Lockup: Criminal Minds](/wp-content/thumbnails/1069-100x70.jpg?x53432)
     
-    Preppers UK
+    Lockup: Criminal Minds
     
-    Paranoid and delusional, or should the rest of you be prepping too? Preppers UK introduces you to local preppers, each with their own unique fears and personal plans to survive a catastrophe. In Nor](https://documentaryheaven.com/preppers-uk/ "Preppers UK")
+    Criminal Minds on MSNBC. It’s part of MSNBC’s Lockup series. On this special they highlight nine of the most violent inmates the series has ever interviewed. Even if you don’t like watching shows abou](https://documentaryheaven.com/lockup-criminal-minds/ "Lockup: Criminal Minds")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
