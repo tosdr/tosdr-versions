@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-11 Nov 2024
+12 Nov 2024
 
 * [Home
     
@@ -259,14 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![County Derry road closed following road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed following road traffic collision")](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
+[![PICTURES: Team Ireland's Olympic heroes and partners step out in style to centenary ball](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Team Ireland's Olympic heroes and partners step out in style to centenary ball")](https://www.derrynow.com/news/national-news/1653225/pictures-team-ireland-s-olympic-heroes-and-partners-step-out-in-style-to-centenary-ball.html)
 
-The PSNI have advised motorists of a road closure in the Magherafelt area.
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Home](https://www.derrynow.com/)
-
-[County Derry road closed following road traffic collision](https://www.derrynow.com/news/home/1652460/county-derry-road-closed-following-road-traffic-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Team Ireland's Olympic heroes and partners step out in style to centenary ball](https://www.derrynow.com/news/national-news/1653225/pictures-team-ireland-s-olympic-heroes-and-partners-step-out-in-style-to-centenary-ball.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry City fans paint Dublin 'Red and White'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans paint Dublin 'Red and White'")](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
 
@@ -274,6 +272,15 @@ The PSNI have advised motorists of a road closure in the Magherafelt area.
 
 [IN PICTURES: Derry City fans paint Dublin 'Red and White'](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
+
+IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded")](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
 
@@ -309,15 +316,6 @@ PSNI
 [Police in Derry charged 32-year-old man with number of driving-related offences](https://www.derrynow.com/news/local-news/1652899/police-in-derry-charged-32-year-old-man-with-number-of-driving-related-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
-
-IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Woman in critical condition in hospital following serious crash near Ballyronan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in critical condition in hospital following serious crash near Ballyronan")](https://www.derrynow.com/news/home/1652919/woman-in-critical-condition-in-hospital-following-serious-crash-near-ballyronan.html)
 
 The PSNI are appealing for witnesses and information following last night's collision.
@@ -327,15 +325,6 @@ The PSNI are appealing for witnesses and information following last night's coll
 [Woman in critical condition in hospital following serious crash near Ballyronan](https://www.derrynow.com/news/home/1652919/woman-in-critical-condition-in-hospital-following-serious-crash-near-ballyronan.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Derry man charged with criminal damage and possession of drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man charged with criminal damage and possession of drugs")](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry religious book shop set to close its doors later this month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry religious book shop set to close its doors later this month")](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
 
 Vertias will close at the end of this month.
@@ -344,6 +333,15 @@ Vertias will close at the end of this month.
 
 [Derry religious book shop set to close its doors later this month](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man charged with criminal damage and possession of drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man charged with criminal damage and possession of drugs")](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
