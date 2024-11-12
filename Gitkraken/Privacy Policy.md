@@ -1,19 +1,19 @@
-[![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
+[![](https://www.gitkraken.com/wp-content/uploads/2024/11/Group-21666.png)](https://www.gitkraken.com/)
 
 * [Dev Tools](# "Dev Tools")
-    * ![](https://www.gitkraken.com/wp-content/uploads/2024/09/Vector.svg)
-        
-        Built for Teams
+    * Built for Teams
         ---------------
         
         A DevEx platform that’s built for team velocity & greater collaboration.
         
-        ![](https://www.gitkraken.com/wp-content/uploads/2024/09/Vector-1.svg)
+        ![](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector.svg) Supercharge Your Dev Team \>
         
         Enterprise Grade
         ----------------
         
         Solutions designed for large-scale security, privacy & control.
+        
+        ![](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector-1.svg) Secure Your Dev Team \>
         
         Products
         --------
@@ -353,7 +353,7 @@ To ask questions or comment about this privacy policy and our privacy pract
 
 **Email:** **[\[email protected\]](https://www.gitkraken.com/cdn-cgi/l/email-protection)**
 
-![](https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg)
+![](https://www.gitkraken.com/wp-content/uploads/2021/12/Union.svg)
 
 **Products**
 
