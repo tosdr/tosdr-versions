@@ -137,6 +137,8 @@
     * [Vereinbarung über Endnutzerdienste (EWR)](#end-user-services-agreement-ewr-de "Vereinbarung über Endnutzerdienste (EWR)")
     * [SMS Terms](#sms-terms "SMS Terms")
     * [Plaid Account Terms](#plaid-account-terms "Plaid Account Terms")
+    * [IDV Privacy Statement](#idv-privacy-statement "IDV Privacy Statement")
+    * [Biometric Policy and Release](#biometric-policy-and-release "Biometric Policy and Release")
 * [Developers](#developers "Developers")
     * [Developer Policy](#developer-policy "Developer Policy")
     * [Developer Policy (2019)](#developer-policy-2019 "Developer Policy (2019)")
@@ -162,6 +164,8 @@
     * [Vereinbarung über Endnutzerdienste (EWR)](#end-user-services-agreement-ewr-de "Vereinbarung über Endnutzerdienste (EWR)")
     * [SMS Terms](#sms-terms "SMS Terms")
     * [Plaid Account Terms](#plaid-account-terms "Plaid Account Terms")
+    * [IDV Privacy Statement](#idv-privacy-statement "IDV Privacy Statement")
+    * [Biometric Policy and Release](#biometric-policy-and-release "Biometric Policy and Release")
 * [Developers](#developers "Developers")
     * [Developer Policy](#developer-policy "Developer Policy")
     * [Developer Policy (2019)](#developer-policy-2019 "Developer Policy (2019)")
@@ -3445,6 +3449,191 @@ If you are experiencing issues with the SMS messages from Plaid or our service p
 **Miscellaneous**. Any capitalized terms used but not defined in these Plaid Account Terms will have the meanings ascribed to them in the [End User Services Agreement (US)](#end-user-services-agreement-us). In the event of a conflict between these Plaid Account Terms and the [End User Services Agreement (US)](#end-user-services-agreement-us), these Plaid Account Terms will control and prevail as applicable to your use of a Plaid Account; provided that all other provisions of the [End User Services Agreement (US)](#end-user-services-agreement-us) will remain in full force and effect. By accepting the Agreement or creating, accessing, managing, or using your Plaid Account, you agree to the Agreement and certify that you have all the necessary rights to do so. If you do not agree to the Agreement, please do not create, access, manage, or use a Plaid Account. If, at any time, you no longer agree to the Agreement, you may delete your Plaid Account. Plaid, in our sole discretion, may disable or delete a Plaid Account if (a) we suspect any violation of any of the terms contained in the Agreement, (b) your Plaid Account is unused and remains inactive for an extended period of time, (c) we suspect any unauthorized use of your Plaid Account, or (d) we are legally obligated to do so. Plaid reserves the right to seek all other available remedies, in law or in equity, in connection with such any issue.
 
 * * *
+
+#### IDV Privacy Statement
+
+Effective Date: November 11, 2024
+
+Plaid Inc. and its subsidiaries, Plaid Financial Ltd. and Plaid, B.V. (collectively, “Plaid”, “we”, “our”, or “us”) offer identity verification, fraud detection, and watchlist screening services (the “IDV Services” or “Services”) globally to companies, firms, and financial institutions (“Customers” or “Customer”).
+
+You may be asked by one of our Customers to complete various checks which use the IDV Services. This IDV privacy statement (“IDV Privacy Statement”) explains how your personal data (“Personal Information”) may be used when we carry out the IDV Services on behalf of our Customers.
+
+Plaid does not knowingly collect, process, use, or share Personal Information for consumers under the age of 18. The IDV Services are intended only for individuals 18 years or older. If you are under 18, please do not use the IDV Services.
+
+When we provide IDV Services to our Customers, our Customers determine the purpose and means by which Personal Information is processed (and our Customers are considered a data controller). We act on our Customers’ instructions with respect to how and why your Personal Information is processed. Plaid is a data processor or sub-processor when it facilitates identity verification, fraud detection, and watchlist screening services at the direction of our Customers. Our Customers direct us to collect your Personal Information. Plaid acts as a processor or sub-processor when directed to collect information from you, including Personal Information, and Plaid receives instructions from our Customers about whom to collect personal data from and when to collect and process Personal Information. We use your Personal Information to provide IDV Services to our Customers. We also transfer and/or provide access to download the information we collect from you, including Personal Information, to Customers at their instruction and request.
+
+You should always check the privacy policies of our Customers and direct any queries and requests to exercise your rights with respect to your Personal Information to them.
+
+Some of the IDV Services may be accessed directly by you, including through our websites that reference this policy (collectively “Sites”). In some instances, for example, if you are a Customer or if you wish to make an inquiry about the IDV Services, or if you visit our website, we may be a data controller. We describe how and why we use personal data in these circumstances in Plaid’s applicable privacy policies at LINK www.plaid.com/legal/.
+
+Plaid will not ever sell your Personal Information from the IDV Services to third parties. Our Customers decide how we use your Personal Information, control their data retention policies, and may specify how long to retain Personal Information and whether and when we share the information we collect, including your Personal Information, with our Customer.
+
+Depending on the service required by our Customers, we may process Personal Information on our Customers' behalf as described in this IDV Privacy Statement, so we encourage you to read it carefully.
+
+##### Jump to Section
+
+1. [Overview](#section-1)
+2. [Information We May Collect](#section-2)
+3. [Biometric Information and Release](#section-3)
+4. [How We May Use & Disclose Your Personal Information to Provide IDV Services to Customers](#section-4)
+5. [How We May Use Anonymized or Aggregate Information to Maintain, Improve, and Develop the IDV Services](#section-5)
+6. [Your Rights and Choices](#section-6)
+7. [Security and Retention](#section-7)
+8. [Updates to this IDV Privacy Statement](#section-8)
+9. [Contacting Plaid](#section-9)
+10. [For Residents of the European Union and United Kingdom](#section-10)
+
+##### 1\. Overview
+
+When Plaid provides IDV Services to Customers, you may be asked to provide information about yourself to us. On behalf of our Customers, we carry out cloud-based identity verification, fraud detection, and watchlist screening services. The IDV Services collect information from you and about you to predict and help to prevent fraudulent activity in real time. Plaid then completes our IDV Services and provides the results directly to our Customers. At our Customer's request, we provide a copy of or transfer the information you share, including your Personal Information, for Customer's use and as part of the IDV Services. We may transfer and/or provide access for our Customers to download the information we collect from you, including your Personal Information, per our Customer’s instructions.
+
+Our Customers determine the scope of the request for information and what personal information about you might be used for analysis with the IDV Services. Customers configure the IDV Services to require and use certain information to verify your identity. A Customer may configure the IDV Services to ask for limited information. If the requested information is insufficient to provide verification, at our Customer’s instruction, the IDV Services may request additional information to complete the verification process.
+
+If you are not satisfied with the result of any processing, you should direct your query to the Customer.
+
+##### 2\. Information We May Collect
+
+Depending on the IDV Services requested by our Customers, we may collect your Personal Information in the following ways:
+
+**Information you provide**: We collect your Personal Information when you provide information requested by the Customer to us. If you choose not to provide the requested information, we will not be able to provide our Customer with the IDV Services. Please contact the Customer to discuss alternative identity verification and screening options, if available for your region or nationality.
+
+Some of the potential information about you that may be requested on behalf of our Customers includes contact details, including your name, email address, postal address, phone number, date of birth; identity documents with your image; your government-assigned identity number, such as a social security number; and/or a photograph or video image of you, to assess whether a person matches their identity document and appears to be a live person.
+
+We collect data directly from you through industry-standard techniques such as JavaScript code, SDKs, form submissions, image collection, video collection, and behaviors using tools our Customers embed on their websites or mobile apps (**“Customer Sites”**).
+
+**Information used to verify a phone number**: We also may provide a two-factor authentication feature to our Customers to help provide measures to ensure that the person providing information has possession of the phone number associated with that identity. To provide this feature for our Customers, we may use your Personal Information provided by our Customer or by you to send verification codes to you, such as via text messages, which you can then enter to confirm your identity when you use a Customer Site or create a new account with a Customer.
+
+**Information we automatically collect when you visit Customer Sites**: The IDV Services use certain standard tracking technologies to automatically collect certain information about your device when you interact with and use Customer Sites, including behavioral analytics regarding your interaction with the IDV Services, session replays, and how often a device is used to interact with Customer Sites and the IDV Services. Some of this information includes, for example, your IP address and certain unique identifiers, may identify a particular computer or device and may be considered Personal Information in some jurisdictions, including the EU.
+
+The types of information we may collect on behalf of our Customers will depend on whether you visit a Customer Site via an API interface, an app using our SDK, or a webpage, including:
+
+* **Browser and Device Information**, including device type and model, manufacturer, operating system type and version, web browser type and version, user agent, telephone carrier name and information, time zone, the network connection type, IP address, hardware-based identifiers, host name, device identifiers, Android/Google Advertising ID, canvas fingerprint, characteristics related to emulation or rooted such as if your device is “jailbroken”, and app name and version. We also collect character set, host name, language, page title and URL, referrer URL, number of fonts, fonts hash, number of plugins, plugins hash, screen height and width, color depth, platform, cookie footprint, maximum touch points, Java-Enabled, session storage, local storage, whether the resolution has been tampered, language or OS, whether ad blocking is enabled, whether do not track is enabled, flash socket IP and flash identifier. The SDK will also collect phone-related metadata such as battery level, device properties, and carrier name.
+* **Information about your behavior on Customer's Sites**, i.e. information about your activities on Customer’s Sites, session ID, session start and stop time, time zone offset, and location information which may be general location information inferred from your IP address or, in some circumstances, more precise geolocation information based on latitude and longitude coordinates. You may be able to control the collection of location information through particular Customer Sites by changing the preferences on your mobile device.
+
+**How We Use Tracking Technologies to Collect Information about You.** We use standard tracking technologies to automatically collect certain information from your device and browser when you visit or interact with Customer Sites. When you view or use the IDV Services via a Customer Site, Plaid servers are notified, and we are able to collect information from the browser or application. In addition, we collect data directly from you through standard tracking technologies such as JavaScript or SDK, which our Customers can embed on their websites.
+
+The types of tracking technologies we may use include:
+
+* **JavaScript Code (JS Snippet)**, also called a tag or pixel, is a tiny snippet of code inserted into the content of the Customer Site. You can disable JavaScript by changing the settings on your browser. Information about how to change those settings can usually be found on your internet browser provider's website. Because Plaid does not control these settings, we encourage you to check the information provided on a regular basis to ensure you are aware of any relevant changes.
+* **Mobile SDKs (Software Development Kits)**, or blocks of code embedded into a Customer Site that allow Plaid to collect certain information. You can control the use of certain information Plaid collects through the SDK by following the instructions applicable to your mobile device operating system. You may also be able to control whether and how your mobile device provides location information on particular Customer Sites by changing the preferences on your mobile device. Because Plaid does not control these settings, we encourage you to check the information provided on a regular basis to ensure you are aware of any relevant changes.
+* **Canvas Fingerprinting**, a tracking technique that allows us to render graphic images from built-in features of HTML5 Canvas in your browser. The canvas image is often rendered differently on different devices because of a number of factors such as, your web browser version, operating system and its settings, and installed graphics hardware, and allows us to distinguish you from other users. If you would like to disable canvas fingerprinting, you may choose to disable JavaScript or download a browser extension that blocks canvas fingerprinting techniques but doing this may impair the functionality of the IDV Services. Because Plaid does not control these settings or extensions, we encourage you to check the information provided about them on a regular basis to ensure you are aware of any relevant changes.
+* **Device Fingerprinting**, a tracking technique that allows us to identify you using information related to your device’s software and hardware, including components of your canvas fingerprint as combined with your device information. Plaid uses device fingerprinting to stop fraud and other bad actors, as well as for cybersecurity.
+
+Some of this information, such as your IP address and certain unique identifiers, may identify a particular computer or device and therefore may be considered “Personal Information” in some jurisdictions, including the EU and California.
+
+**Information we collect from service providers and third party sources**: At our Customer’s request and as part of IDV Services for Customers, we may combine the information we collect about you with information we receive from service providers. For example, we may receive information such as whether an IP address is commercial or private, whether a phone number is a landline, or whether an email domain is free. Customers may also ask us to work with third parties that match information provided against third-party sources such as credit header files, mobile account records, utility records, motor vehicle records and other reputable sources. For certain countries, your mobile carrier may be asked to disclose your mobile account details for the purpose of verifying your identity, including your name, address, and device details. We may also receive information about you from third parties and/or collect information about you that is publicly available, on behalf of our Customer.
+
+**Special categories of personal data.** If our Customers require you to provide us with an document that contains your photograph or if you need to verify your identity by providing a photograph or video image of yourself, these images may reveal special categories of data about you, for example, information relating to your health (for example, if you wear glasses), your race or ethnicity or relating to your religious or political beliefs. We use these special categories of personal data only on our Customer's instructions and in accordance with any of our Customers' privacy policies and this IDV Privacy Statement and for no other reason. Plaid IDV does not sell Personal Information.
+
+##### 3\. Biometric Information and Release
+
+If our Customer requires you to provide us with an identity document that contains an image of your face and a photograph or video image (sometimes called a selfie), we may compare your derived facial geometry from the image on your identity document to your derived facial geometry in the photograph or video image that you provide to determine whether a person matches their identity document. We may also use your facial geometry scan to detect and prevent fraud, including to determine whether the video image is of a live person and/or determining your estimated age, if applicable. Your identity document image, photograph, or video image, and any derived facial geometry scans from those images, may be considered biometric information in some jurisdictions.
+
+By using the IDV Services to connect to an app or service provided by our Customer, you agree that you have read, understand, and voluntarily consent to [Plaid’s Biometric Policy and Release.](#biometric-policy-and-release) and release in favor of Plaid and Plaid’s service providers any claims related to the collection, processing, use, disclosure of, or sharing of your images, photographs, or video images, including any data derived from those images to create facial geometry scans.
+
+For more information about our collection, use, processing, disclosure, and retention of your image from your identity document, photograph, or video image, including any derived facial geometry scans from those images that may be considered biometric data in your region, please see [Plaid’s Biometric Policy and Release.](#biometric-policy-and-release)
+
+##### 4\. How We May Use & Disclose Your Personal Information to Provide IDV Services to Customers
+
+Our Customers may use our IDV Services and we return information to the Customer about the likelihood that the person providing the information is who they claim to be. We also transfer to Customer and/or provide access for Customers to download the information we collect from you, including your Personal Information, at our Customer's instruction and request.
+
+Plaid uses your Personal Information to provide the IDV Services to our Customers, and to help our Customers comply with their legal obligations. We may also use device information or tracking technologies to identify and prevent fraud in the IDV Services. For example, we process your Personal Information through our cloud-based identity verification service to return match information to our Customers for particular events or activities on the Customer Site. In addition, when our Customers use two-factor authentication, we process your Personal Information, such as your telephone number, to send a verification code to you via text message. This helps our Customers who use this feature to verify identities by ensuring possession of the phone number associated with identities.
+
+##### 5\. How We May Use Anonymized or Aggregate Information to Maintain, Improve, and Develop the IDV Services
+
+We may anonymize, de-identify, or aggregate information to maintain, improve, optimize or develop the IDV Services. We may also use anonymized, de-identified, or aggregated information to prevent and detect fraud in the IDV Services. Plaid IDV never uses your Personal Information to maintain, improve, optimize, or develop the IDV Services.
+
+##### 6\. Your Rights and Choices
+
+Depending on your location and subject to applicable law, you may have the rights regarding your Personal Information we process on Customer’s behalf.
+
+**Data Protection Rights.** Where we act as a data processor, sub-processor, or service provider on behalf of our Customers, you must direct any request to access your Personal Information or to exercise any of your data protection rights to the Customer. We will assist our Customers in responding to your request and will act on their instructions.
+
+Please see Plaid’s End User Privacy Policy at [https://plaid.com/legal/#consumers](https://plaid.com/legal/#consumers) for more details on how we deal with any requests where we are responsible for processing any personal data as a data controller.
+
+##### 7\. Security and Retention
+
+**Security Safeguards**. We use technical and organizational security measures designed to protect Personal Information processed as part of the IDV Services against unauthorized access, disclosure, alteration, and destruction.
+
+**Data Retention**. Customers control their data retention policies and may specify how long to retain your Personal Information. When instructed by a Customer to do so, your Personal Information will either be deleted or anonymized.
+
+##### 8\. Updates to this IDV Privacy Statement
+
+We may revise the IDV Privacy Statement from time to time in response to our Customers requirements for the IDV Services and changing legal, technical, or business developments. We will provide any updates on our Site and the revised version will be effective when it is posted. If we make any material changes to the ways in which we use or share Personal Information previously collected from you, we will post the updated version here. You can see when this IDV Privacy Statement was last updated by checking the “last updated” or “effective” date displayed at the top of this page.
+
+##### 9\. Contacting Plaid
+
+Please contact Plaid with any questions or comments about this IDV Privacy Statement or our privacy practices at privacy@plaid.com or by mail at:
+
+Plaid Inc.  
+Attn: Legal  
+PO Box 7775 #35278  
+San Francisco, California 94120-7775  
+U.S.A.
+
+##### 10\. For Residents of the European Union and United Kingdom
+
+Plaid has appointed Plaid B.V. as its Data Protection Representative for the purposes of the GDPR in the EU/EEA and the Data Protection Act 2018 (as amended) in the UK. If you are an EU/EEA or UK resident and we have processed or are processing your Personal Information, you may be entitled to exercise your rights under the GDPR.
+
+If our Customer on whose behalf we have processed your Personal Information is also located in the EEA or UK, you should contact our Customer about your Personal Information instead of Plaid’s Data Protection Representative. If you still want to raise a question to Plaid, or otherwise exercise your rights in respect of your Personal Information, you may do so by:
+
+* sending an email to privacy@plaid.com; or
+* contacting our Data Protection Representative via webform at [https://plaid.com/legal/data-protection-request-form](https://plaid.com/legal/data-protection-request-form).
+
+You may also mail your inquiry to Plaid at the following addresses:
+
+_If you reside in the UK:_
+
+Plaid Financial Ltd.  
+Attn: Legal  
+Techspace Level 4, 25 Worship Street  
+London, United Kingdom, EC2A 2DX
+
+_If you reside in the EEA:_
+
+Plaid B.V.  
+Attn: Legal  
+Muiderstraat 1  
+1011PZ Amsterdam  
+The Netherlands
+
+On receiving your correspondence, Plaid is likely to request evidence of your identity to ensure your Personal Information is not provided to anyone other than you.
+
+#### Biometric Policy and Release
+
+Last Updated: November 11, 2024
+
+Plaid’s Biometric Policy and Release (“Biometric Policy”) describes how Plaid Inc. and its subsidiaries, Plaid Financial Ltd. and Plaid, B.V. (collectively, “Plaid”) treat the photos and/or video images of your face, including scans of facial geometry extracted from those images, which may be considered biometric data in some jurisdictions.
+
+Plaid acts as a service provider for our customers when providing identity verification and fraud prevention services. To provide our identity verification and/or fraud prevention services, our customers may require you to provide Plaid and/or Plaid’s service providers with an identity document that contains your image and/or a photograph or video image of yourself.
+
+Plaid and/or Plaid’s service providers collect and process the image from your identity document and your photograph or video image, at our customer’s instruction, to derive a scan of your facial geometry using facial recognition or similar technology in order to provide our customers with identity verification and fraud prevention services. Plaid and/or Plaid’s service providers may also process and use your photograph or video image for fraud detection and prevention services, including to determine whether your photograph or video image depicts a real person. Your identity document image, photograph, or video image, and any derived facial geometry scan from those images, may be considered biometric information in some jurisdictions.
+
+Plaid and/or Plaid’s service providers will collect, process, obtain, use, and store your identity document image, photograph, or video image for the purpose of:
+
+1. Comparing your derived facial geometry from the image on your identity document to your derived facial geometry in the photograph or video image that you provide to help verify your identity;
+2. To detect and prevent fraud, including by determining your estimated age, if applicable, using an image from your identity document, an image from a photograph or video image of yourself, and/or your derived facial geometry; and
+3. To maintain or provide our services for our customers, including assisting our Customers to review identity verification sessions.
+
+The image from your identity document, photograph, or video images of your face, and your derived facial geometry, if applicable, are stored in an encrypted format by Plaid and Plaid’s service providers on behalf of Plaid’s customers.
+
+PLAID AND PLAID’S SERVICE PROVIDERS NEVER USE THE PERSONAL INFORMATION OR IMAGE EXTRACTED FROM YOUR IDENTITY DOCUMENT, PHOTOGRAPH, OR VIDEO IMAGE, INCLUDING ANY DERIVED FACIAL GEOMETRY SCAN ASSOCIATED WITH YOUR IMAGES, TO ENHANCE, IMPROVE, OR DEVELOP OUR SERVICES.
+
+If you do not provide an identity document with an image of your face or a photograph and video image of yourself, Plaid and Plaid’s service providers will not process your images to derive your facial geometry data to compare your identity document to your photograph or video image. Plaid will retain a record of your partially completed verification process in accordance with customer’s instructions, unless otherwise required by law or legal process to delete such data after a shorter period of time. For more information, see our [IDV Privacy Statement](#idv-privacy-statement).
+
+**Retention and Storage**
+
+Where Plaid serves as a service provider, as defined by applicable law, our customers instruct Plaid to process, store, retain, or delete your identity document and/or photograph or video image. Plaid and Plaid’s service providers will permanently destroy and delete any identity document and/or photograph or video image in accordance with our customer’s instructions. Plaid will store identity documents and/or photograph or video images you provide for the duration of the business relationship between Plaid and our customer for which the images were collected and retained, unless otherwise required by law or legal process to delete such data after a shorter period of time.
+
+If you have created a Plaid Account subject to the [Plaid Account Terms](https://plaid.com/legal/#plaid-account-terms) and saved your identity verification information, Plaid may store at your instruction one or more identity document(s) containing facial imagery that you provide. Plaid does not ever process the image from these identity documents for any additional purpose unless instructed to do so by you, when you verify with a new app or service, nor does Plaid ever derive your facial geometry data from stored identity document(s) in your Plaid Account. You can learn more about how to delete your stored identity document(s) in your Plaid Account by contacting privacy@plaid.com or creating a Plaid Portal account by visiting [my.plaid.com](https://my.plaid.com/). Notwithstanding any indication to the contrary in Plaid’s [End User Privacy Policy](https://plaid.com/legal/#end-user-privacy-policy) or the [Plaid Account Terms](https://plaid.com/legal/#plaid-account-terms) this Biometric Policy shall prevail in the event of any inconsistency with other terms or notices provided to you.
+
+**Additional Terms**
+
+Plaid and/or Plaid’s service providers only use and process your image from your identity document and/or photograph or video image in accordance with this Biometric Policy, and for no other reasons. Plaid does not sell biometric information. Plaid is not responsible for the policies or practices of its customers. Please see Plaid’s [IDV Privacy Statement](#idv-privacy-statement) to understand how we collect and use your Personal Information on behalf of our customers. Plaid encourages you to also review our customers’ privacy policies and any applicable terms and conditions which may apply to their use of your data, some of which may be considered biometric data in your region.
+
+By using Plaid’s identity verification and fraud prevention services to connect to an app or service provided by our customers, you agree that any identity documents or photographs and video images you provide to verify your identity with our customers are (1) authentic, (2) submitted identity documents are your own government-issued identity documents, and (3) any submitted identity documents, photographs, or video images accurately depict your face and only your face in the photograph or video image that you provide.
+
+You agree that you have read, understand, and voluntarily consent to this Biometric Policy and Release; release in favor of Plaid and Plaid’s service providers, any claims related to the collection, processing, use, disclosure of, or sharing of your identity document and your photograph or video image, including any data derived from these images to create a facial geometry scan; and you confirm that you are not accessing Plaid’s services in any jurisdiction where those services are not permitted by applicable law.
 
 Developers
 ----------
@@ -7495,6 +7684,10 @@ As we make changes to our services, we review and update our legal policies to r
 
 Stay up to date by reviewing highlights from the most recent changes to our policies below. And if you have any questions about the changes, please reach out to us at [privacy@plaid.com](mailto:privacy@plaid.com).
 
+**2024-11-12**
+
+We updated our IDV Privacy Statement and added Plaid’s Biometric Policy and Release to our website.
+
 **2024-02-26**
 
 We updated our End User Privacy Policy and All Audience Privacy Statement.
@@ -7707,7 +7900,7 @@ Ready to get started?
 * [Delete my data](https://plaid.com/legal/data-protection-request-form/)
 * [End User Privacy Policy](https://plaid.com/legal/#end-user-privacy-policy)
 * [FAQs](https://my.plaid.com/help/)
-* [Plaid Consumer Reporting Agency, Inc.](https://plaid.com/plaid-check-consumer-report/consumer-request-form)
+* [Plaid Consumer Reporting Agency, Inc.](https://plaid.com/check/consumer-service-center)
 
 * For financial institutions
 * [Open Finance Solution](https://plaid.com/solutions/open-finance/)
