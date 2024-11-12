@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Military personnel score a special discount with ID.Me at checkout. [Learn How](https://www.bose.com/idme-group-discounts-program) for Vet Day Nov 11/7 - 11/11
+Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
 Exclusive: Sandstone QuietComfort Ultra Headphones are now available. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
 
 Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
-My Bose Members get a Holiday Bonus Card with every online order above $100 for future purchases. [Terms apply](https://assets.bosecreative.com/m/7661b7b1999a42b6/original/bose_holiday_bonus_card_terms_and_conditions_nov_2024.pdf)
+My Bose Members get a Holiday Bonus Card with every online order above $100 for future purchases. [Terms apply](https://www.bose.com/holiday-bonus-card-terms-and-conditions)
 
 [Cancel](#)
 
