@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Intuitive Machines](https://techcrunch.com/2024/11/11/intuitive-machines-ceo-we-now-have-the-platform-for-a-lunar-economy/)
-* [Meta VR Education](https://techcrunch.com/2024/11/11/meta-taps-us-uk-universities-to-test-vr-in-education-creates-digital-twin-metaversities-in-europe/)
-* [Swiggy IPO](https://techcrunch.com/2024/11/11/swiggy-listing-to-test-india-appetite-for-1-billion-plus-ipos/)
-* [X’s Grok](https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/)
-* [2024 Gift Guide](https://techcrunch.com/2024/11/11/gift-guide-2024-the-best-gadgets-for-new-home-owners/)
+* [Bluesky](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/)
+* [Sam Bankman-Fried Movie](https://techcrunch.com/2024/11/12/sam-bankman-fried-is-coming-to-the-big-screen/)
+* [AT&T Hack](https://techcrunch.com/2024/11/12/snowflake-hackers-identified-and-charged-with-stealing-50-billion-att-records/)
+* [Apple Security Camera](https://techcrunch.com/2024/11/12/apple-reportedly-shipping-a-security-camera-in-2026/)
+* [Apple Genmoji](https://techcrunch.com/2024/11/12/how-to-create-a-custom-emoji-with-genmoji-apple-intelligence-feature/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
