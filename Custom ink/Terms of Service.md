@@ -98,8 +98,8 @@ Custom Ink respects the intellectual property rights of others. We have a policy
 
 Ashley Brown  
 Custom Ink, LLC  
-2910 District Ave.  
-Fairfax VA, 22031  
+1640 Boro Place Suite 301  
+Tysons VA 22102  
 Tel: 703-891-2205  
 Email: [ip-notices@customink.com](mailto:ip-notices@customink.com)
 
