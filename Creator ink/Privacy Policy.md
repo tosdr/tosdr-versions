@@ -4,7 +4,7 @@ icon-X Close menu
 
 * [Creators](https://creatorink.com/collections)
     
-    * [A - M](https://creatorink.com/collections)
+    * [A - F](https://creatorink.com/collections)
         
         * [After Skool](https://creatorink.com/collections/after-skool)
         * [Anti-Chef](https://creatorink.com/collections/anti-chef)
@@ -17,6 +17,9 @@ icon-X Close menu
         * [Flashgitz](https://creatorink.com/collections/flashgitz)
         * [FNAF](https://creatorink.com/collections/five-nights-at-freddys)
         * [FootofaFerret](https://creatorink.com/collections/foot-of-a-ferret)
+        
+    * [G - M](https://creatorink.com/collections)
+        
         * [Haminations](https://creatorink.com/collections/haminations)
         * [Here's Johnny](https://creatorink.com/collections/heres-johnny)
         * [Inanimate Insanity](https://creatorink.com/collections/inanimate-insanity)
@@ -54,13 +57,6 @@ icon-X Close menu
         
     * [Collections](https://creatorink.com/collections)
         
-        * [FNAF Fazcar Racing Jacket Pre-Order](https://creatorink.com/products/fnaf-fazcar-racing-jacket)
-        * [FNAF | Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
-        * [FNAF Art Series | Posters](https://creatorink.com/collections/fnaf-art-series)
-        * [Pelo | New Spooky Month](https://creatorink.com/collections/pelo)
-        * [Haminations | Gremlin Attack Halloween](https://creatorink.com/collections/haminations)
-        * [Inanimate Insanity | New Plush Drop](https://creatorink.com/collections/inanimate-insanity)
-        * [Authorized Signature Jackets](https://creatorink.com/collections/authorized)
         * [Pre-Orders](https://creatorink.com/collections/pre-order-1)
         * [Available in Youth Sizes](https://creatorink.com/collections/available-in-kids-sizes)
         * [Final Sale!](https://creatorink.com/collections/evergreen-sale-collection)
@@ -82,7 +78,7 @@ icon-X Close menu
 
 * Creators
     
-    [A - M](https://creatorink.com/collections)
+    [A - F](https://creatorink.com/collections)
     
     [After Skool](https://creatorink.com/collections/after-skool)
     
@@ -105,6 +101,8 @@ icon-X Close menu
     [FNAF](https://creatorink.com/collections/five-nights-at-freddys)
     
     [FootofaFerret](https://creatorink.com/collections/foot-of-a-ferret)
+    
+    [G - M](https://creatorink.com/collections)
     
     [Haminations](https://creatorink.com/collections/haminations)
     
@@ -161,20 +159,6 @@ icon-X Close menu
     [All Available](https://creatorink.com/collections/all-available)
     
     [Collections](https://creatorink.com/collections)
-    
-    [FNAF Fazcar Racing Jacket Pre-Order](https://creatorink.com/products/fnaf-fazcar-racing-jacket)
-    
-    [FNAF | Into the Pit](https://creatorink.com/collections/fnaf-into-the-pit)
-    
-    [FNAF Art Series | Posters](https://creatorink.com/collections/fnaf-art-series)
-    
-    [Pelo | New Spooky Month](https://creatorink.com/collections/pelo)
-    
-    [Haminations | Gremlin Attack Halloween](https://creatorink.com/collections/haminations)
-    
-    [Inanimate Insanity | New Plush Drop](https://creatorink.com/collections/inanimate-insanity)
-    
-    [Authorized Signature Jackets](https://creatorink.com/collections/authorized)
     
     [Pre-Orders](https://creatorink.com/collections/pre-order-1)
     
