@@ -147,11 +147,11 @@ We’ve recently updated our Terms & Conditions to provide greater clarity on se
 * **Limitation of Liabilities**
 * **Proprietary Rights Notice**
 
-These updates are intended to enhance transparency and reflect the latest improvements in our Services. The updated terms will take effect on **October 21, 2024**. By continuing to use our services after this date, you agree to be bound by the new terms.  
+These updates are intended to enhance transparency and reflect the latest improvements in our Services. The updated terms will take effect on **November 12, 2024**. By continuing to use our services after this date, you agree to be bound by the new terms.
 
 * * *
 
-Last updated: October 2, 2024
+Last updated: November 12, 2024
 
 1\. Acceptance of terms
 -----------------------
@@ -239,9 +239,11 @@ In this Agreement, the following words have the meanings set out below. All capi
 
 5.1.3 GameAnalytics explicitly disclaims all liability for any defects in the Core Analytics, including but not limited to their accuracy, error-free operation, non-infringement of third-party intellectual property or copyright rights, completeness, or fitness for a particular purpose, except in cases of willful misconduct or fraud.
 
-5.2 All paid services provided by GameAnalytics shall be governed by and calculated in accordance with the terms set forth on the Pricing Page or as specified in an Order Form. In the event of any discrepancy between the Pricing Page and an Order Form, the terms of the Order Form shall prevail.
+5.2 GameAnalytics provides various subscription services, with details on pricing and other relevant terms available on the Pricing Page and during the payment process (“Self-Checkout”). GameAnalytics reserves the right to modify pricing or features associated with each plan at its sole discretion, with prior notice provided as set forth in this Agreement. The initial term for each subscription will be defined at the time of subscription and confirmed during the Self-Checkout or as specified in an Order Form. Company can also refer to the Pricing Page for details regarding the initial subscription period. In the event of any discrepancy between the Pricing Page and an Order Form, the terms of the Order Form shall prevail.
 
-5.2.1 Company shall bear full responsibility for all costs associated with queries executed on Google Cloud Platform (GCP) using BigQuery services. These costs are generated based on the volume of data processed by each query, in accordance with the pricing structure specified by Google Cloud Platform. Each invoice issued to the Company will itemize these costs as separate entries, providing a detailed breakdown of charges incurred during the billing period. It is the Company’s obligation to monitor and manage its query usage to control and optimize expenditures related to BigQuery.
+5.2.1 Company shall bear full responsibility for all costs associated with queries executed on Google Cloud Platform (“GCP”) using BigQuery services. These costs are generated based on the volume of data processed by each query, in accordance with the pricing structure specified by Google Cloud Platform. Each invoice issued to the Company will itemize these costs as separate entries, providing a detailed breakdown of charges incurred during the billing period. It is the Company’s obligation to monitor and manage its query usage to control and optimize expenditures related to BigQuery.
+
+5.2.2 All payments made by Company to GameAnalytics under this Agreement, including but not limited to payments for paid services as set forth on the Pricing Page or in an Order Form, and costs associated with queries executed on GCP using BigQuery services, are non-refundable. This includes, but is not limited to, cases where services are unused, underutilized, or where there is a reduction in query usage or data processed. GameAnalytics shall not be liable for refunding any fees, except in cases of willful misconduct or fraud.
 
 5.3 You are solely responsible for payment of any taxes, fees, or other charges of any nature whatsoever assessed against You by any governmental authority upon or with respect to the Service, excluding any taxes payable by GameAnalytics under applicable tax laws and regulation, notably but not limited to, on its general income. Each Party shall pay its own taxes as they fall due and shall indemnify and hold harmless the other Party from any and all claims and liability arising from its failure to report or pay such taxes.
 
@@ -269,13 +271,15 @@ In this Agreement, the following words have the meanings set out below. All capi
 
 5.6.1 Our Services will operate under a unified 30-day billing cycle model. Charges for the Services will be calculated based on usage over the preceding 30 days.
 
-5.6.2 Upon initiating your subscription, your account will be billed on the same calendar date each month based on the date of your initial subscription. The monthly active user (MAU) count, which determines the billing amount for each period, will be based on the usage during the 30 days preceding each billing date. We will inform you of your specific billing date when you start your subscription, and this date will remain consistent across subsequent billing periods unless you are otherwise notified.
+5.6.2 Upon initiating your subscription, your account will be billed on the same calendar date each month based on the date of your initial subscription. The monthly active user (MAU) count, which, if applicable, determines the billing amount for each period, will be based on the usage during the 30 days preceding each billing date. We will inform you of your specific billing date when you start your subscription, and this date will remain consistent across subsequent billing periods unless you are otherwise notified.
 
 5.6.3 Upon the preparation and finalization of the billing statement for the preceding billing period, GameAnalytics shall issue an invoice, which shall be dispatched to Company via electronic mail. It shall be the sole responsibility of Company to maintain accurate and current contact information to ensure the prompt receipt of such invoices. Failure to receive timely notification due to outdated or incorrect contact information shall not constitute grounds for non-payment or delay in payment of the invoiced amounts.
 
 5.6.4 Should Company fail to make payment within the terms agreed upon, or if any payment method provided by the Company is rejected, GameAnalytics reserves the right to remove access to the paid features of the Service. Notwithstanding such removal, access to “Core Analytics” features will be maintained for the account in question. This limited access remains in effect until the overdue payments are settled in full or until further notice by GameAnalytics. GameAnalytics does not guarantee that data related to periods following the removal of access will be accessible or retrievable, even if payments are subsequently settled. GameAnalytics may reinstate full access to all features upon receipt and clearance of all outstanding payments.
 
-5.6.5 We reserve the right to modify or change these billing cycle terms as necessary. Any changes to these terms will be communicated to you in accordance with this Agreement.
+5.6.5 All invoices issued by GameAnalytics are payable within 30 calendar days from the invoice date, unless otherwise agreed in writing. Failure to settle invoices within this period may result in the suspension of access to paid services, as outlined in Clause. It is Company’s responsibility to ensure timely payment and compliance with these terms to avoid service disruptions.
+
+5.6.6 We reserve the right to modify or change these billing cycle terms as necessary. Any changes to these terms will be communicated to you in accordance with this Agreement.
 
 5.7 Without limiting the generality of the foregoing, if an Account is inactive for ninety (90) days or exceeds metrics listed in Clause 7.4, then GameAnalytics may suspend the Service and/or delete any or all of Your Accounts and the Game Data contained therein without further notice and in its sole discretion.
 
@@ -465,11 +469,15 @@ by accessing and using the Service, You acknowledge and agree to the following t
 
 15.2 Either Party may terminate this Agreement upon mutual agreement, or if the other party is in breach of this Agreement and fails to cure such breach within thirty (30) days after the non-breaching party provides notice of the breach. Either party may also terminate this Agreement immediately upon notice if the other party (a) is liquidated, dissolved, or adjudged to be in a state of bankruptcy or receivership, (b) is insolvent, unable to pay its debts as they become due, makes an assignment for the benefit of creditors, or takes advantage of any law for the benefit of debtors, or (c) ceases to conduct business for any reason on an ongoing basis leaving no successor in interest.
 
-15.3 GameAnalytics reserves the right to terminate this Agreement at any time for convenience, upon giving thirty (30) days written notice to the Customer. Such notice shall be deemed sufficient if sent via email to the email address provided by Customer.
+15.3 GameAnalytics reserves the right to terminate this Agreement at any time for convenience, upon giving thirty (30) days written notice to the Customer. Such notice shall be deemed sufficient if sent via email to the email address provided by Customer. For subscriptions purchased through self-service, a standard notice period of 30 days applies unless otherwise indicated.
 
 15.3.1 This termination does not require the demonstration of any cause and shall be effective as specified in the notice.
 
 15.3.2 GameAnalytics may also immediately disable or suspend your access to and use of the Service if GameAnalytics believes in good faith that your conduct or failure to act may: (i) pose a security risk or otherwise adversely impact the Service, systems, or other users; (ii) constitute or enable tampering with, removing, disabling, or otherwise limiting the effectiveness of any technical protections; (iii) subject GameAnalytics, any reseller, or any other user to liability; or (iv) expose the Service or any of its functionalities to the risk of appropriation, replication, or use by competitors in a manner that could diminish the competitive advantage of GameAnalytics.
+
+15.3.3 Some subscription plans may include a lock-in period, during which early termination could result in additional fees or payment for the full term. Any lock-in period applicable will be clearly communicated on the Pricing Page and during the payment process.
+
+15.3.4 All subscriptions will automatically renew at the end of the initial term, for the same length as the original subscription, as specified on the Pricing Page or during the self-checkout process, unless canceled in accordance with this Agreement. Company may cancel auto-renewal by providing notice of non-renewal at least 30 days before the renewal date, as specified on the Pricing Page or during the payment process.
 
 15.4 Upon any termination or expiration of this Agreement:
 
