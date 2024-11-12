@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [U.S. Presidential election](https://www.japantimes.co.jp/tag/2024-us-presidential-election/ "U.S. Presidential election")
+* [Trump transition](https://www.japantimes.co.jp/tag/donald-trump/ "Trump transition")
 * [‘Yami baito’ burglaries](https://www.japantimes.co.jp/tag/theft/ "‘Yami baito’ burglaries")
 * [Japan’s political transition](https://www.japantimes.co.jp/news/japan/politics/ "Japan’s political transition")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -207,9 +207,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,21 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan to propose $65 billion plan to aid chip industry, draft shows](https://www.japantimes.co.jp/business/2024/11/11/tech/chip-industry-plan/ "Japan to propose $65 billion plan to aid chip industry, draft shows")
+[In Susie Wiles, Trump picks quiet competence for chief of staff](https://www.japantimes.co.jp/news/2024/11/12/world/politics/susie-wiles-trump-chief-staff/ "In Susie Wiles, Trump picks quiet competence for chief of staff")
 
-9 hours ago
+5 mins ago
 
-[Worsening corporate mood and bankruptcies cloud BOJ's rate hike path](https://www.japantimes.co.jp/business/2024/11/11/corporate-mood-bankruptcies-boj/ "Worsening corporate mood and bankruptcies cloud BOJ's rate hike path")
+[One of Trump’s few checks on power? The Supreme Court he shaped.](https://www.japantimes.co.jp/news/2024/11/12/world/politics/trump-power-supreme-court/ "One of Trump’s few checks on power? The Supreme Court he shaped.")
 
-9 hours ago
+44 mins ago
 
-[Seven Bank seeks to expand cash-machine network beyond 7-Elevens](https://www.japantimes.co.jp/business/2024/11/11/companies/seven-bank-atms/ "Seven Bank seeks to expand cash-machine network beyond 7-Elevens")
+[Boiling water reactor at Shimane nuclear plant to be restarted in early December](https://www.japantimes.co.jp/news/2024/11/12/japan/shimane-nuclear-reactor-back-online/ "Boiling water reactor at Shimane nuclear plant to be restarted in early December")
 
-11 hours ago
+1 hours ago
 
-[Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
+[Russian nuclear-powered submarine sails through Soya Strait](https://www.japantimes.co.jp/news/2024/11/12/japan/russian-submarine-sail-soya-strait/ "Russian nuclear-powered submarine sails through Soya Strait")
 
-[Japan weighs mandatory allergen labeling for cashew nuts](https://www.japantimes.co.jp/news/2024/11/11/japan/science-health/cashew-nuts-allergy/ "Japan weighs mandatory allergen labeling for cashew nuts")
+1 hours ago
+
+[Crime costs Latin America and Caribbean almost what region spends on education](https://www.japantimes.co.jp/news/2024/11/12/world/crime-legal/crime-latam-caribbean-idb/ "Crime costs Latin America and Caribbean almost what region spends on education")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
