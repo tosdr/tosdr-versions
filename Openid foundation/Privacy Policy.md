@@ -90,11 +90,6 @@
             * [Proof of Concept](https://openid.net/cg/gain-poc/proof-of-concept/)
             * [Related Specifications](https://openid.net/cg/gain-poc/related-specifications/)
             * [Participation Agreements](https://openid.net/cg/gain-poc/participation-agreements/)
-    * [Special Topic Groups](https://openid.net/sg/)
-        * [OpenID for Verifiable Credentials](https://openid.net/sg/openid4vc/)
-            * [Overview](https://openid.net/sg/openid4vc/)
-            * [Specifications](https://openid.net/sg/openid4vc/specifications/)
-            * [Libraries](https://openid.net/sg/openid4vc/libraries/)
     * [Working Group Resources](https://openid.net/wg/resources/)
 * [CALENDAR](https://openid.net/calendar/)
 
@@ -188,11 +183,6 @@ Menu
             * [Proof of Concept](https://openid.net/cg/gain-poc/proof-of-concept/)
             * [Related Specifications](https://openid.net/cg/gain-poc/related-specifications/)
             * [Participation Agreements](https://openid.net/cg/gain-poc/participation-agreements/)
-    * [Special Topic Groups](https://openid.net/sg/)
-        * [OpenID for Verifiable Credentials](https://openid.net/sg/openid4vc/)
-            * [Overview](https://openid.net/sg/openid4vc/)
-            * [Specifications](https://openid.net/sg/openid4vc/specifications/)
-            * [Libraries](https://openid.net/sg/openid4vc/libraries/)
     * [Working Group Resources](https://openid.net/wg/resources/)
 * [CALENDAR](https://openid.net/calendar/)
 
