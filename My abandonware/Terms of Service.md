@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
+* [The Human Body and How it Works: The Skeletal and Muscular Systems](https://www.myabandonware.com/game/the-human-body-and-how-it-works-the-skeletal-and-muscular-systems-szp)
+* [Categorizing: Detective Games](https://www.myabandonware.com/game/categorizing-detective-games-szo)
+* [Kittens](https://www.myabandonware.com/game/kittens-szn)
 * [Idea Box](https://www.myabandonware.com/game/idea-box-szl)
 * [Anemone](https://www.myabandonware.com/game/anemone-szg)
-* [I Can Carry and Borrow](https://www.myabandonware.com/game/i-can-carry-and-borrow-szf)
-* [I Can Count](https://www.myabandonware.com/game/i-can-count-sze)
-* [Lazy Jack](https://www.myabandonware.com/game/lazy-jack-szc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Outlaw](https://www.myabandonware.com/game/outlaw-sop)
-* [Micro Machines 2: Special Edition](https://www.myabandonware.com/game/micro-machines-2-special-edition-ofh)
-* [Premier Manager 3 De-Luxe](https://www.myabandonware.com/game/premier-manager-3-de-luxe-7la)
+* [GigaWing Generations](https://www.myabandonware.com/game/gigawing-generations-t87)
+* [Harihari Seal Paradise](https://www.myabandonware.com/game/harihari-seal-paradise-sxl)
+* [Revenge of the Mutant Camels II](https://www.myabandonware.com/game/revenge-of-the-mutant-camels-ii-mgp)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
