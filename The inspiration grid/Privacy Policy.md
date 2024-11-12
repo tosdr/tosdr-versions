@@ -291,6 +291,12 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-niark1-feature.jpg)
+
+[](https://theinspirationgrid.com/multifaceted-digital-collages-by-niark1/)
+
+### Multifaceted Digital Collages by Niark1
+
 ![](https://inspgr.id/app/uploads/2024/11/art-labrooy-2024-feature.jpg)
 
 [](https://theinspirationgrid.com/me-myself-and-i-sculptural-self-portraits-by-chris-labrooy/)
@@ -332,12 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/expressive-illustrated-portraits-by-anthony-ventura/)
 
 ### Expressive Illustrated Portraits by Anthony Ventura
-
-![](https://inspgr.id/app/uploads/2024/11/art-oupas-design-feature.jpg)
-
-[](https://theinspirationgrid.com/wonderful-paper-creations-by-oupas-design/)
-
-### Wonderful Paper Creations by Oupas Design
 
 Awesome products for creatives
 ------------------------------
