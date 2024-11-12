@@ -284,14 +284,14 @@ Hi
         * [Cookies (3)](https://www.smithbrothersfarms.com/cookie)
             
         
-    * [Meat (53)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (52)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (13)](https://www.smithbrothersfarms.com/poultry)
             
         * [Bacon & Breakfast Meat (14)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
-        * [Sausage, Dogs & Brats (9)](https://www.smithbrothersfarms.com/bacon-and-sausage)
+        * [Sausage, Dogs & Brats (8)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
