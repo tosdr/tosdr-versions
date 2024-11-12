@@ -90,25 +90,17 @@ El programa, que estará abierto hasta el 31 de diciembre de 2024, ya ha superad
 
 [Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting](http://red.es/es/actualidad/noticias/accede-los-bonos-de-asesoramiento-digital-especializado-para-pymes-de-kit "Ir al contenido de: Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting")
 
-![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=F7Yh6zdv)
+![Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Nueva.png?h=a6aa1fcb&itok=tGYD7QUa)
 
 Noticia
 
 Transformación Digital PYMES
 
-Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital
+Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital
 
-[Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
+[Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-pueden-solicitar-el-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital")
 
-![4YFN](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%204YFN%20%281%29_0.png?h=c16165f9&itok=P2cG11GF)
-
-Noticia
-
-Internacionalización
-
-Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y optar a ser parte del Pabellón de España en 4YFN
-
-[Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y optar a ser parte del Pabellón de España en 4YFN](http://red.es/es/actualidad/noticias/pabellon-espana-4yfn "Ir al contenido de: Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y optar a ser parte del Pabellón de España en 4YFN")
+![eMerge](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%20EMERGE_0.png?h=f6385b08&itok=XJUMFMfd)
 
 Noticia
 
@@ -117,6 +109,14 @@ Internacionalización
 Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
 
 [Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
+
+Noticia
+
+Internacionalización
+
+Un total de 76 startups forman parte del Pabellón de España en la edición 2024 de Web Summit
+
+[Un total de 76 startups forman parte del Pabellón de España en la edición 2024 de Web Summit](http://red.es/es/actualidad/noticias/un-total-76-startups-forman-parte-pabellon-espana-web-summit-2024 "Ir al contenido de: Un total de 76 startups forman parte del Pabellón de España en la edición 2024 de Web Summit")
 
 Noticia
 
