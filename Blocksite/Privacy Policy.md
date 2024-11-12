@@ -216,7 +216,7 @@
     [Sign Up](https://user.blocksite.co/signup)
     
 
-[Home](https://blocksite.co/) » Privacy Policy Website and App
+[Home](https://blocksite.co/) > Privacy Policy Website and App
 
 ![People Cards Left](https://blocksite.co/wp-content/uploads/2024/02/left-teal-bg.0798b50f.svg)
 
