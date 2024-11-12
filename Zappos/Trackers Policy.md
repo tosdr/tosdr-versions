@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Cozy Crocs for chilly weather! [Shop The Guide](https://www.zappos.com/c/crocs-fuzzy-edition-2024)
+Get early access to our Black Friday Sale! [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOj8AE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6225354%2C6478556%2C6478448%2C6505316%2C6231298%2C5083584%2C5754384%2C6413468%2C6324802%2C5732759%2C6367861%2C6247064&sy=1)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
