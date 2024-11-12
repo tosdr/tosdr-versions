@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/storms/winter/video/california-truckee-donner-pass-snow)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/winter/video/california-truckee-donner-pass-snow)
+[Top Weather Stories](https://weather.com/health/skin-health/video/etinol-rules-sun-wind-allergies)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/health/skin-health/video/etinol-rules-sun-wind-allergies)
 
 Products
 --------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/storms/winter/video/california-truckee-donner-pass-snow)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/health/skin-health/video/etinol-rules-sun-wind-allergies)
 
 More ForecastsMoreArrow down
 
@@ -372,6 +372,8 @@ We recognize our responsibility to use data and technology for good. We may use 
 * [Review All Privacy and Ad Settings](https://weather.com/privacy-settings)
 * [Choose how my information is shared](https://weather.com/privacy-settings#do-not-sell)
 * [Data Rights](https://weather.com/data-rights)
+
+The Weather Channel is the world's most accurate forecaster according to ForecastWatch, [Global and Regional Weather Forecast Accuracy Overview](https://forecastwatch.com/AccuracyOverview2017-2022), 2017-2022, commissioned by The Weather Company.
 
 © The Weather Company, LLC 2024
 
