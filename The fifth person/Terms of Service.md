@@ -1,4 +1,4 @@
-Tuesday, November 12 2024
+Wednesday, November 13 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -210,6 +210,14 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677750)
+    
+    [Jonathan Lloyd](https://fifthperson.com/trump-us-economy-portfolio/#comment-677750)
+    
+    The mass deportations won't happen. The USA simply doesn't h...
+    
 * [![Photo of Ahmad Shafi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Ahmad Shafi](https://secure.gravatar.com/avatar/2ed4b6108ff100fa0c5ebdc4014802ac?s=70&d=mm&r=g)](https://fifthperson.com/how-to-buy-us-shares-in-malaysia/#comment-676629)
@@ -289,14 +297,6 @@ Quick Guides
     [Adam Wong](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676130)
     
     Hi Daniel, 1. Foreigners who invest in Irish-domiciled secur...
-    
-* [![Photo of DANIEL](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of DANIEL](https://secure.gravatar.com/avatar/0adfaa699c1ad753a09aa1ab561c95a5?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676080)
-    
-    [DANIEL](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676080)
-    
-    Darren, thanks for the article. Q1: Can you advise if it's t...
     
 
 Advertisement
