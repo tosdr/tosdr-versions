@@ -30,6 +30,7 @@
 * [Seiten](#)
 * [Forum](#)
 * [FAQ](#)
+* [Wiki](#)
 
 * [Erweiterte Suche](https://gg-community.de/search/?extended=1)
 
