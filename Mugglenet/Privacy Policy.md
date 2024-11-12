@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Dumbledore” is an early modern English word for “bumblebee.”
+There are 1,100,086 words in the entire “Harry Potter” series.
 
 ### Potter History
 
-June 3, 2007 – MuggleNet and “MuggleCast” announce plans for the book release of “Harry Potter and the Deathly Hallows.” We are the only fansite to host parties on opposite sides of the world.
+April 9-11, 2009 – StarKid performs A Very Potter Musical at the University of Michigan.
 
 ### Potter Quote
 
-“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
+“And Potter — do try and win, won’t you? Or we’ll be out of the running for the eighth year in a row, as Professor Snape was kind enough to remind me only last night. . . .”
 
 [](#)
 
