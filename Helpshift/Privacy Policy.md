@@ -149,11 +149,9 @@
     ![](https://www.helpshift.com/wp-content/uploads/2024/02/Company-menu-icon.png)
     
     * [Company](https://www.helpshift.com/company/)
-    * [Leadership](https://www.helpshift.com/leadership/)
     * [Careers](https://www.keywordsstudios.com/en/careers/browse-careers/)
     
     * [Company](https://www.helpshift.com/company/)
-    * [Leadership](https://www.helpshift.com/leadership/)
     * [Careers](https://www.keywordsstudios.com/en/careers/browse-careers/)
     
     #### Featured News
@@ -735,7 +733,6 @@ Company
 
 * [About us](https://www.helpshift.com/company/)
 * [Careers](https://www.keywordsstudios.com/en/careers/browse-careers/)
-* [Leadership](https://www.helpshift.com/leadership/)
 * [Press](https://www.helpshift.com/press)
 * [Contact Us](https://www.helpshift.com/contact-us/)
 
