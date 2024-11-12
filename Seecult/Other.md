@@ -422,11 +422,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija/cacak-002.jpg?itok=QJNBNVpf)](http://seecult.org/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit/otvaranje-07.jpg?itok=c4t_ggXf)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kitchma.jpg?itok=29GI-WBl)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu/ubns-digi5.jpg?itok=Y0SfnWUY)](http://seecult.org/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
