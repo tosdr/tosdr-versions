@@ -401,7 +401,7 @@ FARE respects fair use and its role in allowing limited uses of copyrighted mate
 
 About FARE
 
-FARE (Food Allergy Research & Education) is a 501(c)(3) charitable organization with the mission to improve the quality of life and health of those with food allergies through transformative research, education, and advocacy.
+FARE (Food Allergy Research & Education) is a 501(c)(3) charitable organization with the mission to improve the quality of life and health of those with food allergy through transformative research, education, and advocacy.
 
 [Read More](https://www.foodallergy.org/about-us)
 
