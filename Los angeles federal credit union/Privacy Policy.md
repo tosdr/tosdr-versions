@@ -6,7 +6,7 @@ To make a loan payment, [**click here**](https://lafcu.messagepay.com/payment/ac
 
 Close
 
-                                                       [SKIP TO MAIN CONTENT](#skipToMain)
+                                                        [SKIP TO MAIN CONTENT](#skipToMain)
 
 We use cookies on our site to provide the optimum user experience. By using this website, you agree to the use of cookies on this site. [Read our privacy policy.](https://www.lafcu.org/privacypolicies)
 
