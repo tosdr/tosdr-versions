@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e0925d57f2ee74862942c7f52be959c9
+489f9dd052931450185b3ed0d36a44ec
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Hand-made silk rug number six](https://sojourner.biz/images/cache/RG0006.200.jpg)](https://sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-six.html "Hand-made silk rug number six")
+[![Gold-plate puffed rondelle](https://sojourner.biz/images/cache/metalbeads/MET010.200.jpg)](https://sojourner.biz/beads/metal/gold-plate-puffed-rondelle.html "Gold-plate puffed rondelle")
 
-#### [Hand-made silk rug number six](https://sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-six.html "Hand-made silk rug number six")
+#### [Gold-plate puffed rondelle](https://sojourner.biz/beads/metal/gold-plate-puffed-rondelle.html "Gold-plate puffed rondelle")
 
-$25.00
+$20.00
 
 ### Best Sellers
 
