@@ -407,28 +407,26 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.msub.org.rs](https://www.msub.org.rs/)
     
-    [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
     
-    Mednarodni grafični likovni center/Švicarija, Grad Tivoli, Pod turnom 3, Ljubljana
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
     
-    **ANTONIO PICHILLÁ QUIACAÍN** (1982, San Pedro La Laguna, Sololá, Gvatemala): **DARITEV / THE OFFERING** - razstava (18.9.2024.-12.1.2025.)
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
     
-    [https://galeriaelviramoreno.com/artists/54-antonio-pichilla-quiacain/overview](https://galeriaelviramoreno.com/artists/54-antonio-pichilla-quiacain/overview)
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
     
-    Kustosinja razstave: Yasmín Martín Vodopivec
-    
-    [http://www.mglc-lj.si](http://www.mglc-lj.si/)
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumenti/documents/sanja-ivekovic-party-performance-meeting-skc-1978.jpg?itok=chgONWW5)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumentidocuments)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija/cacak-002.jpg?itok=QJNBNVpf)](http://seecult.org/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/novasvetlost13.jpg?itok=ee7K-o60)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kitchma.jpg?itok=29GI-WBl)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,6 +442,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Pobednici 20. Slobodne zone](http://seecult.org/vest/pobednici-20-slobodne-zone)
 * [Festival evropske drame u BDP-u, u fokusu snovi](http://seecult.org/vest/festival-evropske-drame-u-bdp-u-u-fokusu-snovi)
 * [(Ne)mogućnost prijateljstva ideoloških neistomišljenika](http://seecult.org/vest/nemogucnost-prijateljstva-ideoloskih-neistomisljenika)
 * [Hitovi 20. Slobodne zone na bis](http://seecult.org/vest/hitovi-20-slobodne-zone-na-bis)
@@ -453,7 +452,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Urbanov savremeni Majstor i Margarita](http://seecult.org/vest/urbanov-savremeni-majstor-i-margarita)
 * [Utisak da se nešto radi](http://seecult.org/vest/utisak-da-se-nesto-radi)
 * [Aktuelnost dualnosti Milene Pavlović Barili u MSUB-u](http://seecult.org/vest/aktuelnost-dualnosti-milene-pavlovic-barili-u-msub-u)
-* [Preminuo Zoran Đerić](http://seecult.org/vest/preminuo-zoran-deric)
 
 * [Konkursi](#tab1_1)
 
