@@ -229,7 +229,6 @@ Location
         * [Agreement to acquire TESARO](https://www.gsk.com/en-gb/investors/corporate-actions/agreement-to-acquire-tesaro/)
         
     * [Debt investors](https://www.gsk.com/en-gb/investors/debt-investors/)
-    * [Feedback](https://www.gsk.com/en-gb/investors/feedback/)
     * [Investor contacts](https://www.gsk.com/en-gb/investors/investor-contacts/)
     
     [SPOTLIGHT ON Press releases ![Lab machinery](/media/9351/ware_3_2022_prodassmb_28_hess_nav.jpeg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/)  [SPOTLIGHT ON Our pipeline ![Case of vials](/media/9350/ware_3_2022_prodqc_14_hess.jpeg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/) 
@@ -246,8 +245,8 @@ Location
     * [Conferences](https://www.gsk.com/en-gb/media/conferences/)
     * [Media library](https://www.gsk.com/en-gb/media/media-library/)
     * [Our response to the situation in Ukraine](https://www.gsk.com/en-gb/media/our-response-to-the-situation-in-ukraine/)
-    * [Our response to the crisis in Israel and Gaza](https://www.gsk.com/en-gb/media/our-response-to-the-crisis-in-israel-and-gaza/)
     * [Zantac litigation](https://www.gsk.com/en-gb/media/zantac-litigation/)
+    * [Our response to the crisis in Israel and Gaza](https://www.gsk.com/en-gb/media/our-response-to-the-crisis-in-israel-and-gaza/)
     * [Our social media](https://www.gsk.com/en-gb/media/social-media/)
     * [RSS feeds](https://www.gsk.com/en-gb/media/rss-feeds/)
     
