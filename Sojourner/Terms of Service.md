@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-489f9dd052931450185b3ed0d36a44ec
+a01c7af5a18da2a809abe00d4a076d48
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Gold-plate puffed rondelle](https://sojourner.biz/images/cache/metalbeads/MET010.200.jpg)](https://sojourner.biz/beads/metal/gold-plate-puffed-rondelle.html "Gold-plate puffed rondelle")
+[![Faux lapis scarab clasp](https://sojourner.biz/images/cache/SKU0565front.200.jpg)](https://sojourner.biz/clasps/faux-stone/faux-lapis-scarab-clasp.html "Faux lapis scarab clasp")
 
-#### [Gold-plate puffed rondelle](https://sojourner.biz/beads/metal/gold-plate-puffed-rondelle.html "Gold-plate puffed rondelle")
+#### [Faux lapis scarab clasp](https://sojourner.biz/clasps/faux-stone/faux-lapis-scarab-clasp.html "Faux lapis scarab clasp")
 
-$20.00
+$24.00
 
 ### Best Sellers
 
