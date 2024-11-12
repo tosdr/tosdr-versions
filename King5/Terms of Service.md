@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7c951af3-d341-4530-8e80-205e0808eaed/20240922T032839/7c951af3-d341-4530-8e80-205e0808eaed_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7c951af3-d341-4530-8e80-205e0808eaed/20240922T032839/7c951af3-d341-4530-8e80-205e0808eaed_360x203.jpg)](https://www.king5.com/article/news/local/washington-state-flags-half-staff-nov-12/281-b4d80f27-bae6-4c7d-8175-87748bced3b2)
+    *  [![](https://media.king5.com/assets/KING/images/259be558-6ee9-48b3-a545-f1a9b53c9a38/20241112T014847/259be558-6ee9-48b3-a545-f1a9b53c9a38_16x9.jpg) ![](https://media.king5.com/assets/KING/images/259be558-6ee9-48b3-a545-f1a9b53c9a38/20241112T014847/259be558-6ee9-48b3-a545-f1a9b53c9a38_360x203.jpg)](https://www.king5.com/article/news/local/vigil-honors-victims-of-everett-crash-claimed-3-lives/281-5158cab3-9c0b-4ff2-b1a8-0d4a0211ff95)
         
-        #### [Why Washington state flags will be at half-staff on Tuesday](https://www.king5.com/article/news/local/washington-state-flags-half-staff-nov-12/281-b4d80f27-bae6-4c7d-8175-87748bced3b2)
+        #### [Family, friends of 3 people killed in Everett crash honor them at roadside vigil](https://www.king5.com/article/news/local/vigil-honors-victims-of-everett-crash-claimed-3-lives/281-5158cab3-9c0b-4ff2-b1a8-0d4a0211ff95)
         
-    *  [![](https://media.king5.com/assets/KING/images/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6/20241111T164229/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6/20241111T164229/fe1a29dd-0da4-4d91-bff9-c9b8e5e0a0c6_360x203.jpg)](https://www.king5.com/article/sports/jordan-chiles-fight-olympic-bronze-medal-restored/281-b2256249-7205-4ea7-9be5-68dec9e2b493)
+    *  [![](https://media.king5.com/assets/KING/images/228816e8-835b-4186-88f4-9710d21a00c5/20241112T011508/228816e8-835b-4186-88f4-9710d21a00c5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/228816e8-835b-4186-88f4-9710d21a00c5/20241112T011508/228816e8-835b-4186-88f4-9710d21a00c5_360x203.jpg)](https://www.king5.com/article/news/local/vietnam-wars-dustoff-crews-highest-civilian-honor/281-81ada9ef-d175-405b-a2ef-759172235239)
         
-        #### [Jordan Chiles discusses latest in fight to have Olympic bronze medal restored](https://www.king5.com/article/sports/jordan-chiles-fight-olympic-bronze-medal-restored/281-b2256249-7205-4ea7-9be5-68dec9e2b493)
+        #### [Vietnam War’s ‘Dustoff’ crews to receive highest civilian honor](https://www.king5.com/article/news/local/vietnam-wars-dustoff-crews-highest-civilian-honor/281-81ada9ef-d175-405b-a2ef-759172235239)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/88a7c891-effd-4fc0-8d7f-1af06ee70a2f/20241111T130449/88a7c891-effd-4fc0-8d7f-1af06ee70a2f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/88a7c891-effd-4fc0-8d7f-1af06ee70a2f/20241111T130449/88a7c891-effd-4fc0-8d7f-1af06ee70a2f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_360x203.jpg)](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
+        
+        #### [Strong winds possible in much of western Washington lowlands Tuesday and Wednesday](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
+        
+    *  [![](https://media.king5.com/assets/KING/images/38a8038c-0876-42ca-a6c9-69ac4af7f96f/20241112T013313/38a8038c-0876-42ca-a6c9-69ac4af7f96f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/38a8038c-0876-42ca-a6c9-69ac4af7f96f/20241112T013313/38a8038c-0876-42ca-a6c9-69ac4af7f96f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KSDK/images/408674ce-c4c1-4af4-b130-ecacf491866e/408674ce-c4c1-4af4-b130-ecacf491866e_16x9.jpeg) ![](https://media.king5.com/assets/KSDK/images/408674ce-c4c1-4af4-b130-ecacf491866e/408674ce-c4c1-4af4-b130-ecacf491866e_360x203.jpeg)](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
-        
-        #### [Timeline: Rain, wind and mountain snow move into Washington](https://www.king5.com/article/weather/weather-blog/rain-systems-move-western-washington-weekend-next-week/281-9610671f-0f8c-4cae-86db-3f3a3cf0c296)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+49°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
