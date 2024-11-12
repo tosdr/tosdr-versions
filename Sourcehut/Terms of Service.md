@@ -106,11 +106,11 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [84da5436df1018b9a8894e6c758d3fae0a2a5b07](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/84da5436df1018b9a8894e6c758d3fae0a2a5b07)
-Author: Conrad Hoffmann <ch@bitfehler.net>
-Date:   2024-11-11T21:59:40+01:00
+commit [a4f0a78a7586b3bd39fd1e48c3d0a8bdcd808c94](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/a4f0a78a7586b3bd39fd1e48c3d0a8bdcd808c94)
+Author: Drew DeVault <sir@cmpwn.com>
+Date:   2024-11-12T09:28:49+01:00
 
-packages: bump to Alpine 3.20
+builds.sr.ht/private-repos: remove obsolete warning
 
 **Clone this wiki**
 
