@@ -42,6 +42,10 @@ Personal Data processed for the following purposes and using the following servi
             
             Personal Data: Tracker; Usage Data
             
+        * ### Google Analytics 4
+            
+            Personal Data: number of Users; session statistics; Trackers; Usage Data
+            
         
     * ### Beta Testing
         
@@ -71,6 +75,13 @@ Personal Data processed for the following purposes and using the following servi
             Personal Data: Camera permission
             
         
+    * ### Displaying content from external platforms
+        
+        * ### Google Fonts
+            
+            Personal Data: Trackers; Usage Data
+            
+        
     * ### Handling payments
         
         * ### Stripe, Apple Pay and Google Pay
@@ -84,7 +95,7 @@ Personal Data processed for the following purposes and using the following servi
             
             Personal Data: Usage Data; various types of Data as specified in the privacy policy of the service
             
-        * ### DigitalOcean
+        * ### DigitalOcean and Firebase Hosting
             
             Personal Data: various types of Data as specified in the privacy policy of the service
             
@@ -123,6 +134,10 @@ Personal Data processed for the following purposes and using the following servi
         * ### SendinBlue Email
             
             Personal Data: Cookies; email address; Usage Data
+            
+        * ### Firebase Notifications
+            
+            Personal Data: various types of Data as specified in the privacy policy of the service
             
         
     * ### Platform services and hosting
@@ -190,7 +205,7 @@ YUCA SAS - 14 rue de Turbigo 75001 Paris (France)
 Types of Data collected
 -----------------------
 
-Among the types of Personal Data that Yuka collects, by itself or through third parties, there are: first name; email address; Usage Data; Camera permission; device information; geography/region; number of Users ; number of sessions; session duration; In-app purchases; Application opens; Application updates; first launches; operating systems; Cookies; Universally unique identifier (UUID); Crash information; geographic position.
+Among the types of Personal Data that Yuka collects, by itself or through third parties, there are: first name; email address; Usage Data; Camera permission; device information; geography/region; number of Users ; number of sessions; session duration; In-app purchases; Application opens; Application updates; first launches; operating systems; Cookies; Universally unique identifier (UUID); Crash information; geographic position; session statistics.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Yuka.  
@@ -221,7 +236,7 @@ Unless specified otherwise in this document, Personal Data shall be processed an
 The purposes of processing
 --------------------------
 
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Registration and authentication, Hosting and backend infrastructure, Contacting the User, Device permissions for Personal Data access, Handling payments, Social features, Infrastructure monitoring, Content performance and features testing (A/B testing), Analytics, Access to third-party accounts, User database management, Managing contacts and sending messages, Beta Testing, Location-based interactions, Platform services and hosting and Interaction with external social networks and platforms.
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Registration and authentication, Hosting and backend infrastructure, Contacting the User, Device permissions for Personal Data access, Handling payments, Social features, Infrastructure monitoring, Content performance and features testing (A/B testing), Analytics, Access to third-party accounts, User database management, Managing contacts and sending messages, Beta Testing, Location-based interactions, Platform services and hosting, Interaction with external social networks and platforms and Displaying content from external platforms.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
@@ -340,6 +355,18 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in California
     
+    #### Google Analytics 4 (Google LLC)
+    
+    Google Analytics 4 is a web analysis service provided by Google LLC (“Google”). Google utilizes the Data collected to track and examine the use of Yuka, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. In Google Analytics 4, IP addresses are used at collection time and then discarded before Data is logged in any data center or server. Users can learn more by consulting [Google’s official documentation](https://support.google.com/analytics/answer/12017362?hl=en&ref_topic=2919631).
+    
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
+    
+    Personal Data processed: number of Users; session statistics; Trackers; Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+    
+    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
 * ### Beta Testing
     
     This type of service makes it possible to manage User access to Yuka, or parts of it, for the purpose of testing a certain feature or the entire Application.  
@@ -427,6 +454,20 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
+* ### Displaying content from external platforms
+    
+    This type of service allows you to view content hosted on external platforms directly from the pages of Yuka and interact with them. Such services are often referred to as widgets, which are small elements placed on a website or app. They provide specific information or perform a particular function and often allow for user interaction. This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
+    
+    #### Google Fonts (Google LLC)
+    
+    Google Fonts is a typeface visualization service provided by Google LLC that allows Yuka to incorporate content of this kind on its pages.
+    
+    Personal Data processed: Trackers; Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/).
+    
+    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
 * ### Handling payments
     
     Unless otherwise specified, Yuka processes any payments by credit card, bank transfer or other means via external payment service providers. In general and unless where otherwise stated, Users are requested to provide their payment details and personal information directly to such payment service providers. Yuka isn't involved in the collection and processing of such information: instead, it will only receive a notification by the relevant payment service provider as to whether payment has been successfully completed.
@@ -508,6 +549,16 @@ Personal Data is collected for the following purposes and using the following se
     Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
     
     This processing constitutes:
+    
+    #### Firebase Hosting (Google LLC)
+    
+    Firebase Hosting is a hosting service provided by Google LLC.
+    
+    Personal Data processed: various types of Data as specified in the privacy policy of the service.
+    
+    Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy).
+    
+    Category of Personal Information collected according to the CCPA: identifiers.
     
 * ### Infrastructure monitoring
     
@@ -624,6 +675,16 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in California
     * a Sharing in California
+    
+    #### Firebase Notifications (Google LLC)
+    
+    Firebase Notifications is a message sending service provided by Google LLC. Firebase Notifications can be integrated with Firebase Analytics to target analytics-based audiences and track opening and conversion events.
+    
+    Personal Data processed: various types of Data as specified in the privacy policy of the service.
+    
+    Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy).
+    
+    Category of Personal Information collected according to the CCPA: identifiers.
     
 * ### Platform services and hosting
     
@@ -816,7 +877,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** first name, email address, About Me, Contact email, Universally unique identifier (UUID), Crash information, device information, Cookies, Usage Data
+    **Personal Information collected or disclosed:** first name, email address, About Me, Contact email, Universally unique identifier (UUID), Crash information, device information, Cookies, Usage Data, various types of Data as specified in the privacy policy of the service
     
     **Purposes:**
     
@@ -826,6 +887,7 @@ _While such categorization of Personal Information is mainly based on California
     * Infrastructure monitoring
     * User database management
     * Managing contacts and sending messages
+    * Hosting and backend infrastructure
     
     **Retention period:** for the time necessary to fulfill the purpose
     
@@ -835,11 +897,11 @@ _While such categorization of Personal Information is mainly based on California
     
     **Third-parties:** Google LLC, Yuka, SendinBlue SAS, The Rocket Science Group LLC
     
-    **Service providers or contractors:** Yuka
+    **Service providers or contractors:** Yuka, Google LLC
     
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Usage Data, various types of Data as specified in the privacy policy of the service, Camera permission, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, Cookies, Universally unique identifier (UUID), Crash information, email address, Tracker
+    **Personal Information collected or disclosed:** Usage Data, various types of Data as specified in the privacy policy of the service, Camera permission, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, Cookies, Universally unique identifier (UUID), Crash information, email address, Tracker, Trackers, number of Users, session statistics
     
     **Purposes:**
     
@@ -856,6 +918,7 @@ _While such categorization of Personal Information is mainly based on California
     * Beta Testing
     * Platform services and hosting
     * Interaction with external social networks and platforms
+    * Displaying content from external platforms
     
     **Retention period:** for the time necessary to fulfill the purpose
     
@@ -1069,6 +1132,6 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to Yuka, if not stated otherwise within this document.
 
-Latest update: January 21, 2021
+Latest update: November 12, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
