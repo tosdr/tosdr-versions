@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create an incremental backup](https://www.backup4all.com/how-to-create-an-incremental-backup-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
     
-* [How to use the command line application](https://www.backup4all.com/how-to-use-the-command-line-application-kb.html)  
+* [How to backup to Amazon S3](https://www.backup4all.com/backup-your-data-to-amazon-s3-kb.html)  
     
-* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
+* [How to find the logs in Backup4all](https://www.backup4all.com/how-to-find-the-logs-in-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
+* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
     
-* [FTP backup using SSL encryption](https://www.backup4all.com/ftp-backup-using-ssl-encryption-kb.html)  
+* [Backup strategy: run first backup locally the ...](https://www.backup4all.com/how-to-run-the-first-large-backup-locally-then-continue-the-kb.html)  
     
 
 Choose language:
