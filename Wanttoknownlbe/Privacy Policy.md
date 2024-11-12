@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/amerikaanse-onbetrouwbaarheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/hpv-vaccin-gardasil-vernielt-eierstokken-jonge-vrouw/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
