@@ -6,13 +6,13 @@
 
 Войти
 
-[О «Медузе»](https://meduza.io/pages/contacts)[Реклама](https://meduza.io/specials/cometogether)[Meduza in English](https://meduza.io/en)
+[О проекте](https://meduza.io/pages/contacts)[Meduza in English](https://meduza.io/en)
 
-Показывать по порядку
+Режим по порядку
 
 [EN](https://meduza.io/en)Войти
 
-[Я хочу поддержать «Медузу»](https://support.meduza.io/?utm_source=web&utm_medium=button&utm_campaign=support)
+[поддержать «Медузу»](https://support.meduza.io/?utm_source=meduza&utm_medium=button&utm_campaign=nov24)
 
 * Телеграм
 * Фейсбук
