@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Enhancing Cyber Resilience in Energy and Utilities Organizations
+            ##### Building a Resilient Network Architecture: Key Trends for 2025
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-energy-and-utilities-organizations)
+            [Learn more](https://levelblue.com/blogs/security-essentials/building-a-resilient-network-architecture-key-trends-for-2025)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -505,13 +505,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theresa Lanowitz
+#### David Balaban
 
-Nov 6, 2024
+Nov 12, 2024
 
-### [Enhancing Cyber Resilience in Energy and Utilities Organizations](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-energy-and-utilities-organizations)
+### [Building a Resilient Network Architecture: Key Trends for 2025](https://levelblue.com/blogs/security-essentials/building-a-resilient-network-architecture-key-trends-for-2025)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
