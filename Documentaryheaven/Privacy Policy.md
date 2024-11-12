@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Things I See: Living with Psychosis](/wp-content/thumbnails/13849-100x70.jpg?x53432)
+* [![Crash of Flight 111](/wp-content/thumbnails/6737-100x70.png?x53432)
     
-    The Things I See: Living with Psychosis
+    Crash of Flight 111
     
-    A short film by the BBC which sees three people sit down and tell their stories of living with mental health conditions and how they individually manage and deal with delusions which vary from the biz](https://documentaryheaven.com/things-see-living-with-psychosis/ "The Things I See: Living with Psychosis")
-* [![Lugovoy Lie Detector Test: Who Killed Litvinenko?](/wp-content/thumbnails/6603-100x70.jpg?x53432)
+    On the evening of September 2, 1998, a Swissair MD-11 jet bound from New York to Geneva diverted to Halifax, Nova Scotia, after the crew smelled smoke in the cockpit. Just minutes from the airport, Fl](https://documentaryheaven.com/crash-of-flight-111/ "Crash of Flight 111")
+* [![The Neurons that Shaped Civilization](/wp-content/thumbnails/3109-100x70.jpg?x53432)
     
-    Lugovoy Lie Detector Test: Who Killed Litvinenko?
+    The Neurons that Shaped Civilization
     
-    State Duma deputy Andrey Lugovoy, who the UK considers the main suspect in the killing of former FSB officer Aleksandr Litvinenko, did not commit the murder, a British lie detector test shows.Lugovo](https://documentaryheaven.com/lugovoy-lie-detector-test-who-killed-litvinenko/ "Lugovoy Lie Detector Test: Who Killed Litvinenko?")
-* [![Secrets of the Vatican](/wp-content/thumbnails/13441-100x70.jpg?x53432)
+    In this short 10 minute video, neuroscientist Vilayanur Ramachandran outlines the fascinating functions of mirror neurons. Only recently discovered, these neurons allow us to learn complex social beha](https://documentaryheaven.com/the-neurons-that-shaped-civilization/ "The Neurons that Shaped Civilization")
+* [![Beyond the Emoji](/wp-content/thumbnails/16089-100x70.jpg?x53432)
     
-    Secrets of the Vatican
+    Beyond the Emoji
     
-    On 28 February 2013, Pope Benedict XVI shocked the world by being the first pope to resign in 600 years. When the helicopter took him away he was leaving behind a bitterly divided Vatican and this FRO](https://documentaryheaven.com/secrets-of-vatican/ "Secrets of the Vatican")
-* [![The Day The Earth Nearly Died](/wp-content/thumbnails/50-100x70.png?x53432)
+    Beyond the Emoji shows how our means of communication are more extensive than ever before, the push of a button now days can put us in touch with hundreds or even thousands of people who are connecte](https://documentaryheaven.com/beyond-the-emoji/ "Beyond the Emoji")
+* [![NAWAPA 1964](/wp-content/thumbnails/7068-100x70.jpg?x53432)
     
-    The Day The Earth Nearly Died
+    NAWAPA 1964
     
-    250 million years ago, long before dinosaurs roamed the Earth, the land and oceans teemed with life. This was the Permian, a golden era of biodiversity that was about to come to a crashing end. Within](https://documentaryheaven.com/the-day-the-earth-nearly-died/ "The Day The Earth Nearly Died")
-* [![Lockup: Criminal Minds](/wp-content/thumbnails/1069-100x70.jpg?x53432)
+    The true story of the fight to build the North American Water And Power Alliance, spanning the 1960s and early 1970s, as told through the words of Utah's Senator Frank Moss.This unique style of docu](https://documentaryheaven.com/nawapa-1964/ "NAWAPA 1964")
+* [![The French Revolution: Tearing Up History](/wp-content/thumbnails/8831)
     
-    Lockup: Criminal Minds
+    The French Revolution: Tearing Up History
     
-    Criminal Minds on MSNBC. It’s part of MSNBC’s Lockup series. On this special they highlight nine of the most violent inmates the series has ever interviewed. Even if you don’t like watching shows abou](https://documentaryheaven.com/lockup-criminal-minds/ "Lockup: Criminal Minds")
+    A journey through the dramatic and destructive years of the French Revolution, telling its history in a way not seen before - through the extraordinary story of its art. Our guide through this turbule](https://documentaryheaven.com/french-revolution-tearing-up-history/ "The French Revolution: Tearing Up History")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
