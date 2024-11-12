@@ -156,6 +156,10 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
+[Pinelands Regional HS
+
+Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
+
 [Berlin HS
 
 Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
@@ -163,10 +167,6 @@ Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/r
 [Simmons MS
 
 Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
-
-[Pinelands Regional HS
-
-Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
 
 ![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
@@ -238,7 +238,9 @@ Case Studies](https://www.smartpass.app/customers)[![](https://www.smartpass.app
 
 Blog](https://www.smartpass.app/blog)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
 
-eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)
+eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/67328b40580b4713c4439c96_podcast%20icon.svg)
+
+Podcast](https://www.smartpass.app/podcast)
 
 Events
 
@@ -298,7 +300,9 @@ Case Studies](https://www.smartpass.app/customers)[![](https://www.smartpass.app
 
 Blog](https://www.smartpass.app/blog)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
 
-eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)
+eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/67328b40580b4713c4439c96_podcast%20icon.svg)
+
+Podcast](https://www.smartpass.app/podcast)
 
 Events
 
@@ -625,7 +629,7 @@ Products
 
 Resources
 
-[Grants + Funding](https://www.smartpass.app/education-grants-federal-funding)[Case Studies](https://www.smartpass.app/customers)[Blog](https://www.smartpass.app/blog)[Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
+[Grants + Funding](https://www.smartpass.app/education-grants-federal-funding)[Case Studies](https://www.smartpass.app/customers)[Blog](https://www.smartpass.app/blog)[Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)[Podcast](https://www.smartpass.app/podcast)
 
 Support
 
