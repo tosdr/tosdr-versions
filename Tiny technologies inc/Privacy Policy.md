@@ -11,6 +11,7 @@ The world's most trusted WYSIWYG HTML editor, for total control over your rich t
 * [Pricing](https://www.tiny.cloud/pricing/)
 * [Documentation](https://www.tiny.cloud/docs/tinymce/latest/)
 * [Demos](https://www.tiny.cloud/docs/tinymce/latest/full-featured-premium-demo/)
+* [Download TinyMCE for Free](https://www.tiny.cloud/get-tiny/)
 
 [MoxieManager
 
@@ -99,7 +100,7 @@ Discover why industry leaders and scaling start-ups love, use and trust Tiny pro
 
 [Start trial](https://www.tiny.cloud/auth/signup/ "Start trial")
 
-[Pricing](https://www.tiny.cloud/pricing/)[Contact Us](https://www.tiny.cloud/contact/)
+[Contact Us](https://www.tiny.cloud/contact/)
 
 [Log In](https://www.tiny.cloud/auth/login/)[Start For Free](https://www.tiny.cloud/auth/signup/ "Start For Free")
 
@@ -114,6 +115,7 @@ The world's most trusted WYSIWYG HTML editor, for total control over your rich t
 * [Pricing](https://www.tiny.cloud/pricing/)
 * [Documentation](https://www.tiny.cloud/docs/tinymce/latest/)
 * [Demos](https://www.tiny.cloud/docs/tinymce/latest/full-featured-premium-demo/)
+* [Download TinyMCE for Free](https://www.tiny.cloud/get-tiny/)
 
 [MoxieManager
 
@@ -203,8 +205,6 @@ Read:
 Discover why industry leaders and scaling start-ups love, use and trust Tiny products.](https://www.tiny.cloud/customer-stories/)
 
 [Start trial](https://www.tiny.cloud/auth/signup/ "Start trial")
-
-[Pricing](https://www.tiny.cloud/pricing/)
 
 [Contact Us](https://www.tiny.cloud/contact/)
 
