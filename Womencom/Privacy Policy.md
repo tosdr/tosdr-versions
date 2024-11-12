@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Two people embracing](https://www.women.com/img/gallery/how-to-tell-your-partner-you-want-to-have-spicier-sex/intro-1730835547.jpg)](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
+*  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
     
-    [Sex](https://www.women.com/category/sex-life/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
     
-    [How To Tell Your Partner You Want To Have Spicier Sex](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
-    ============================================================================================================================
+    [5 Perfume Mistakes You're Probably Making](https://www.women.com/1707678/perfume-mistakes/)
+    ============================================================================================
     
-    It might be time to spice things up and lean into the thrill of experimenting with each other. But broach this conversation mindfully.
+    Unless you're versed in the art of applying perfume, you're likely making some mistakes. Luckily, Onyi Ifeguni has offered some expert advice.
     
-    By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
+    By Bernadette Roe [Read More](https://www.women.com/1707678/perfume-mistakes/)
     
-* *  [![Woman wearing silver eyeshadow](https://www.women.com/img/gallery/the-winter-20242025-makeup-trends-youll-be-seeing-everywhere/intro-1731091107.jpg)](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+* *  [![Two people embracing](https://www.women.com/img/gallery/how-to-tell-your-partner-you-want-to-have-spicier-sex/intro-1730835547.jpg)](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Sex](https://www.women.com/category/sex-life/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
         
-        ### [The Winter 2024/2025 Makeup Trends You'll Be Seeing Everywhere](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+        ### [How To Tell Your Partner You Want To Have Spicier Sex](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
         
-        Makeup trends for winter 2024/2025 include classic holiday colors, metallics, and goth girl glam. But the natural, "no-makeup" look is also popular.
+        It might be time to spice things up and lean into the thrill of experimenting with each other. But broach this conversation mindfully.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+        By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
         
-    *  [![Taylor Swift on stage](https://www.women.com/img/gallery/the-full-transformation-of-taylor-swift-from-country-singer-to-chiefs-wag/intro-1730484748.jpg)](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
+    *  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
         
-        ### [The Full Transformation Of Taylor Swift From Country Singer To Chiefs WAG](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
+        ### [Shiloh Jolie's Stunning Style Transformation](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
         
-        Taylor Swift, and her fashion, have grown up since the sundress-and-boots days of the early 2000s. Today, she's making WAG wear supportive and galm.
+        Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
+        By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
         
 
 More Stories
@@ -94,17 +94,29 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
     
-*  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+*  [![Woman wearing silver eyeshadow](https://www.women.com/img/gallery/the-winter-20242025-makeup-trends-youll-be-seeing-everywhere/intro-1731091107.jpg)](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [The Winter 2024/2025 Makeup Trends You'll Be Seeing Everywhere](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+    
+    Makeup trends for winter 2024/2025 include classic holiday colors, metallics, and goth girl glam. But the natural, "no-makeup" look is also popular.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+    
+*  [![Taylor Swift on stage](https://www.women.com/img/gallery/the-full-transformation-of-taylor-swift-from-country-singer-to-chiefs-wag/intro-1730484748.jpg)](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    ### [Shiloh Jolie's Stunning Style Transformation](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+    ### [The Full Transformation Of Taylor Swift From Country Singer To Chiefs WAG](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
     
-    Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
+    Taylor Swift, and her fashion, have grown up since the sundress-and-boots days of the early 2000s. Today, she's making WAG wear supportive and galm.
     
-    By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+    By Emily Hutchinson [Read More](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
     
 *  [![Selena Gomez wearing pink makeup](https://www.women.com/img/gallery/selena-gomez-beauty-looks-well-never-forget/intro-1730826646.jpg)](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
     
@@ -393,18 +405,6 @@ More Stories
     If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
     
     By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
-    
-*  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1730082954.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Sabrina Carpenter Outfits That Totally Missed The Mark](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
-    
-    With how good Sabrina Carpenter is at looking glam, you'd think we're talking nonsense when we say she's had some outfit fails. Here were some we can't forget.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
     
 
 Back
