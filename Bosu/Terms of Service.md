@@ -145,26 +145,26 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 * Free shipping over $100 📦
-* SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
+* Shop early black friday sale now 15% off
 
 Terms of service
 ================
