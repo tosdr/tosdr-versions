@@ -20,6 +20,11 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Scott House as it looks today.
+    Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-360x180.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
+    
+    ### [31-storey student tower approved in Deptford](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
+    
     [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
     
     ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
@@ -51,10 +56,6 @@
     [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
     
     ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-    
-    [![Glory Uhunarabona in her family bathroom where mould has steadily grown over eight years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Glory-Uhunarabona-in-her-family-bathroom-where-mould-has-steadily-grown-over-eight-years-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
-    
-    ### [Bermondsey mum’s eight-year black mould nightmare continues despite council admitting living conditions are ‘unacceptable’](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +106,11 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Scott House as it looks today.
+    Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-360x180.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
+    
+    ### [31-storey student tower approved in Deptford](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
+    
     [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
     
     ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
@@ -136,10 +142,6 @@ View All Result
     [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
     
     ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-    
-    [![Glory Uhunarabona in her family bathroom where mould has steadily grown over eight years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Glory-Uhunarabona-in-her-family-bathroom-where-mould-has-steadily-grown-over-eight-years-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
-    
-    ### [Bermondsey mum’s eight-year black mould nightmare continues despite council admitting living conditions are ‘unacceptable’](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +385,13 @@ Website
 
 ### Featured Articles
 
+[![Scott House as it looks today.
+Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-120x86.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
+
+### [31-storey student tower approved in Deptford](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
+
+[12th November 2024](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
+
 [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
@@ -412,12 +421,6 @@ Website
 ### [Youth charity opens new Canada Water centre](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/) 
 
 [11th November 2024](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
-
-[![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-[10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
 
 ### USEFUL PAGES
 
