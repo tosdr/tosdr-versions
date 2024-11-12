@@ -300,13 +300,13 @@
 
 ![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/events)
 
+[##### Moloco Help Center
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/help-center)
+
 [##### Moloco Ads Developer Hub
 
 ![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://developer.moloco.cloud/)
-
-[##### Moloco Ads Help Center
-
-![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://help.moloco.com/hc/en-us)
 
 [##### Commerce Media Developer Hub
 
@@ -468,9 +468,9 @@ Back
 
 [##### Events](https://www.molocoads.com/events)
 
-[##### Moloco Ads Developer Hub](https://developer.moloco.cloud/)
+[##### Moloco Help Center](https://www.molocoads.com/help-center)
 
-[##### Moloco Ads Help Center](https://help.moloco.com/hc/en-us)
+[##### Moloco Ads Developer Hub](https://developer.moloco.cloud/)
 
 [##### Commerce Media Developer Hub](https://rmp-docs.moloco.com/docs)
 
