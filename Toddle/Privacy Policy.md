@@ -585,25 +585,67 @@ Our Data Protection Officer is Misbah Jafary. If you have any questions about th
 
 If you are based in India and you have any grievance or complaint about how your personal data is being processed you can contact the Grievance Officer for India – Misbah Jafary via e-mail address [privacy@toddleapp.com](mailto:privacy@toddleapp.com)
 
-We value and protect your privacy
+### We value and protect your privacy
 
-![](https://www.toddleapp.com/wp-content/uploads/2022/05/Group-2031.webp)
+[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![DPDPA logo](/wp-content/uploads/2024/10/Frame-2610794.webp "logo of DPDPA")](https://www.toddleapp.com/dpdpa/)
 
-[![COPPA logo](/wp-content/uploads/2024/06/coppa.webp)](https://www.toddleapp.com/coppa/)[![DPDPA logo](/wp-content/uploads/2024/06/dpdpa.webp)](https://www.toddleapp.com/dpdpa/)
+![AICPA logo](/wp-content/uploads/2024/10/Frame-628314-2.webp "logo of AICPA")
 
-![AICPA logo](/wp-content/uploads/2024/06/aicpa.webp)
+[![The Student Privacy Pledge 2020 logo](/wp-content/uploads/2024/10/Frame-628307-1-1.webp "logo of The Student Privacy Pledge 2020 ")](https://www.toddleapp.com/pp/)
 
-[![The Student Privacy Pledge 2020 logo](/wp-content/uploads/2024/06/spp.webp)](https://www.toddleapp.com/pp/)
+![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-![ISO/IEC logo](/wp-content/uploads/2024/06/iso.webp)
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
 
-[![GDPR logo](/wp-content/uploads/2024/06/gdpr.webp)](https://www.toddleapp.com/gdpr/)[![FERPA logo](/wp-content/uploads/2024/06/ferpa.webp)](https://www.toddleapp.com/ferpa/)
+![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
 
-![CCPA logo](/wp-content/uploads/2024/06/ccpa.webp)
+![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
 
-[![](/wp-content/uploads/2024/06/safer-techno.webp)](https://www.toddleapp.com/australianprivacyprinciples/)
+[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
 
-[Visit Privacy Center ![](https://www.toddleapp.com/wp-content/uploads/2021/08/RightArrowOutlined-1.png)](https://www.toddleapp.com/pc/) 
+![Servers in USA logo](/wp-content/uploads/2024/10/Frame-628315-1-1.webp "logo of Servers in USA")
+
+![AICPA logo](/wp-content/uploads/2024/10/Frame-628314-2.webp "logo of AICPA")
+
+[![The Student Privacy Pledge 2020 logo](/wp-content/uploads/2024/10/Frame-628307-1-1.webp "logo of The Student Privacy Pledge 2020 ")](https://www.toddleapp.com/pp/)
+
+![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
+
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)
+
+![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+
+![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
+
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)
+
+![Servers in Ireland logo](/wp-content/uploads/2024/10/Frame-628316-1-1.webp "logo of Servers in Ireland")
+
+![AICPA logo](/wp-content/uploads/2024/10/Frame-628314-2.webp "logo of AICPA")
+
+[![The Student Privacy Pledge 2020 logo](/wp-content/uploads/2024/10/Frame-628307-1-1.webp "logo of The Student Privacy Pledge 2020 ")](https://www.toddleapp.com/pp/)
+
+![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
+
+[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
+
+![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+
+![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
+
+![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
+
+![Servers in Sydney logo](/wp-content/uploads/2024/10/Frame-628315-2.webp "Servers in Sydney logo")
+
+![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
+
+![AICPA logo](/wp-content/uploads/2024/10/Frame-628314-2.webp "logo of AICPA")
+
+![Australian Privacy Principles](/wp-content/uploads/2024/10/Frame-628316-2.webp "logo of Australian Privacy Principles ")
+
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![The Student Privacy Pledge 2020 logo](/wp-content/uploads/2024/10/Frame-628307-1-1.webp "logo of The Student Privacy Pledge 2020 ")](https://www.toddleapp.com/pp/)[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
+
+[Visit Privacy & Security Center ![](https://www.toddleapp.com/wp-content/uploads/2021/08/RightArrowOutlined-1.png)](https://www.toddleapp.com/pc/) 
 
 Want to know more?
 
