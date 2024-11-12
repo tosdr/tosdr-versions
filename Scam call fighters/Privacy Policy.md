@@ -17,12 +17,12 @@ Saoke TV - Link trực tiếp bóng đá sao ke không QC, full HD
 #### Link trực tiếp xem  
 bóng đá 1
 
-[xem ngay](https://colatv.app/)
+[xem ngay](https://bet668607.com/)
 
 #### Link trực tiếp xem  
 bóng đá 2
 
-[xem ngay](https://colatv.app/)
+[xem ngay](https://bet668607.com/)
 
 #### Giới thiệu
 
@@ -354,6 +354,8 @@ Trang web saoketvxa.cc đang chờ đăng ký giấy phép hoạt động.
 Email: [\[email protected\]](http://www.scamcallfighters.com/cdn-cgi/l/email-protection)
 
 Địa chỉ: 78/4 Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh
+
+Tele @CallMeIsDK
 
 [RSS](http://www.scamcallfighters.com/feed/) [Giới thiệu](http://www.scamcallfighters.com/gioi-thieu.html "Giới thiệu") [Liên hệ](http://www.scamcallfighters.com/lien-he.html "Liên hệ") [Điều khoản](http://www.scamcallfighters.com/dieu-khoan-html "Điều khoản")
 
