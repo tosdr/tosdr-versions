@@ -1,6 +1,6 @@
 top of page
 
-[![Future Tech logo.png](https://static.wixstatic.com/media/bea093_38a597ef6a344e90ba7e9d7f5026a0ee~mv2.png/v1/fill/w_79,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Future%20Tech%20logo.png)](https://www.ftl.ltd/)
+[![Future Tech logo.png](https://static.wixstatic.com/media/bea093_38a597ef6a344e90ba7e9d7f5026a0ee~mv2.png/v1/fill/w_79,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Future%20Tech%20logo.png)](https://www.ftl.ltd/)
 
 Future Tech Labs / Studios / Distribution / Games
 
