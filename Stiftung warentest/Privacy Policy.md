@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
 
 Service Stiftung Warentest
 
