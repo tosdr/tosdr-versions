@@ -368,7 +368,7 @@ ADD TO TOTE
 
 ### [Green Tea EGCG Concentrate Cream](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
-693 reviews (693)
+695 reviews (695)
 
 $48.00
 
