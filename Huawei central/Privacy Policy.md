@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch D2 Malaysia](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-400x240.jpg)
+        
+        Huawei Watch D2 will launch in Malaysia on November 19](https://www.huaweicentral.com/huawei-watch-d2-will-launch-in-malaysia-on-november-19/)
     * [![Huawei Q3 2024 Chinese wearable](https://www.huaweicentral.com/wp-content/uploads/2024/10/WatchGT5-400x240.jpg)
         
         Huawei ranks first in Q3 2024 Chinese wearable market, beating Apple](https://www.huaweicentral.com/huawei-ranks-first-in-q3-2024-chinese-wearable-market-beating-apple/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch Ultimate Green China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-Ultimate-400x240.jpg)
         
         Huawei to launch Watch Ultimate Green Edition on October 22 in China](https://www.huaweicentral.com/huawei-to-launch-watch-ultimate-green-edition-on-october-22-in-china/)
-    * [![Huawei Watch GT 4 health features](https://www.huaweicentral.com/wp-content/uploads/2024/10/Health-Features-400x240.jpg)
-        
-        Huawei Watch GT 4 is receiving advanced health features](https://www.huaweicentral.com/huawei-watch-gt-4-is-receiving-advanced-health-features/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
