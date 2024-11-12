@@ -2,14 +2,14 @@ Tuesday, November 12 2024
 
 Breaking News
 
+* [Biden-Harris Admin Set To Slap Tax On Methane Emissions](https://www.conservativedailynews.com/2024/11/biden-harris-admin-set-to-slap-tax-on-methane-emissions/)
+* [Chris Wallace to Leave CNN](https://www.conservativedailynews.com/2024/11/chris-wallace-to-leave-cnn/)
+* [Speaker Johnson Is Just What The MAGA Movement Needs](https://www.conservativedailynews.com/2024/11/speaker-johnson-is-just-what-the-maga-movement-needs/)
+* [Biden’s Green Push Stumbles As Chinese Firm Ditches Texas Solar Plant](https://www.conservativedailynews.com/2024/11/bidens-green-push-stumbles-as-chinese-firm-ditches-texas-solar-plant/)
+* [Trump Picks Florida Rep. Mike Waltz As New National Security Advisor](https://www.conservativedailynews.com/2024/11/trump-picks-florida-rep-mike-waltz-as-new-national-security-advisor/)
+* [Electing Donald Trump is the Preface to a Bigger Story](https://www.conservativedailynews.com/2024/11/electing-donald-trump-is-the-preface-to-a-bigger-story/)
+* [President Joe Biden’s Schedule for Tuesday, November 12, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-12-2024/)
 * [CNN’s Enten: Democrat Party Has No ‘Heir Apparent’ For Next Presidential Primary](https://www.conservativedailynews.com/2024/11/cnns-enten-democrat-party-has-no-heir-apparent-for-next-presidential-primary/)
-* [Trump Chooses GOP Rep. Elise Stefanik As US Ambassador To UN](https://www.conservativedailynews.com/2024/11/trump-chooses-gop-rep-elise-stefanik-as-us-ambassador-to-un/)
-* [Here Comes Trump’s ‘Morning in America’ Economy](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
-* [Wealthy Town Running Out Of Cash Under California’s Strict Affordable Housing Policies](https://www.conservativedailynews.com/2024/11/wealthy-town-running-out-of-cash-under-californias-strict-affordable-housing-policies/)
-* [The Left Will Regret Their Meltdown As The People Have Spoken](https://www.conservativedailynews.com/2024/11/the-left-will-regret-their-meltdown-as-the-people-have-spoken/)
-* [Trump Easily Destroys all the Leftist Geniuses Again](https://www.conservativedailynews.com/2024/11/trump-easily-destroys-all-the-leftist-geniuses-again/)
-* [Medal of Honor Monday: Army Pfc. Foster J. Sayers](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-foster-j-sayers/)
-* [President Joe Biden’s Schedule for Monday, November 11, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-11-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -115,72 +115,75 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
-    
-    [Thank a Veteran](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
-    
-    November 11, 2024
-    
-* [![Democrats Trump is Hitler Card](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
-    
-    [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/)
-    
-    November 9, 2024
-    
-
-Recent Posts
-
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/11/cnns-enten-democrat-party-has-no-heir-apparent-for-next-presidential-primary/)
-    
-    [CNN’s Enten: Democrat Party Has No ‘Heir Apparent’ For Next Presidential Primary](https://www.conservativedailynews.com/2024/11/cnns-enten-democrat-party-has-no-heir-apparent-for-next-presidential-primary/)
-    
-    November 11, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/11/Elise-Stefanik.jpg)](https://www.conservativedailynews.com/2024/11/trump-chooses-gop-rep-elise-stefanik-as-us-ambassador-to-un/)
-    
-    [Trump Chooses GOP Rep. Elise Stefanik As US Ambassador To UN](https://www.conservativedailynews.com/2024/11/trump-chooses-gop-rep-elise-stefanik-as-us-ambassador-to-un/)
-    
-    November 11, 2024
-    
 * [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
     
     [Here Comes Trump’s ‘Morning in America’ Economy](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
     
     November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/California-broke.jpg)](https://www.conservativedailynews.com/2024/11/wealthy-town-running-out-of-cash-under-californias-strict-affordable-housing-policies/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
     
-    [Wealthy Town Running Out Of Cash Under California’s Strict Affordable Housing Policies](https://www.conservativedailynews.com/2024/11/wealthy-town-running-out-of-cash-under-californias-strict-affordable-housing-policies/)
-    
-    November 11, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5760-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/the-left-will-regret-their-meltdown-as-the-people-have-spoken/)
-    
-    [The Left Will Regret Their Meltdown As The People Have Spoken](https://www.conservativedailynews.com/2024/11/the-left-will-regret-their-meltdown-as-the-people-have-spoken/)
+    [Thank a Veteran](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
     
     November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trump-easily-destroys-all-the-leftist-geniuses-again/)
+
+Recent Posts
+
+* [![gas prices energy policy biden admin](https://www.conservativedailynews.com/wp-content/uploads/2022/06/mrz061622dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/biden-harris-admin-set-to-slap-tax-on-methane-emissions/)
     
-    [Trump Easily Destroys all the Leftist Geniuses Again](https://www.conservativedailynews.com/2024/11/trump-easily-destroys-all-the-leftist-geniuses-again/)
+    [Biden-Harris Admin Set To Slap Tax On Methane Emissions](https://www.conservativedailynews.com/2024/11/biden-harris-admin-set-to-slap-tax-on-methane-emissions/)
     
-    November 11, 2024
+    November 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-vet-prior-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/out-in-the-cold/)
+* [![fox-news-chris-wallace](https://www.conservativedailynews.com/wp-content/uploads/2016/10/Fox-News-Chris-Wallace.jpg)](https://www.conservativedailynews.com/2024/11/chris-wallace-to-leave-cnn/)
     
-    [Out In The Cold](https://www.conservativedailynews.com/2024/11/out-in-the-cold/)
+    [Chris Wallace to Leave CNN](https://www.conservativedailynews.com/2024/11/chris-wallace-to-leave-cnn/)
     
-    November 11, 2024
+    November 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/241105-O-D0439-059A-220x150.jpg)](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-foster-j-sayers/)
+* [![Speakern Mike Johnson cat herder](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-58-220x150.png)](https://www.conservativedailynews.com/2024/11/speaker-johnson-is-just-what-the-maga-movement-needs/)
     
-    [Medal of Honor Monday: Army Pfc. Foster J. Sayers](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-foster-j-sayers/)
+    [Speaker Johnson Is Just What The MAGA Movement Needs](https://www.conservativedailynews.com/2024/11/speaker-johnson-is-just-what-the-maga-movement-needs/)
     
-    November 11, 2024
+    November 12, 2024
+    
+* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/11/bidens-green-push-stumbles-as-chinese-firm-ditches-texas-solar-plant/)
+    
+    [Biden’s Green Push Stumbles As Chinese Firm Ditches Texas Solar Plant](https://www.conservativedailynews.com/2024/11/bidens-green-push-stumbles-as-chinese-firm-ditches-texas-solar-plant/)
+    
+    November 12, 2024
+    
+* [![Donald Trump cabinet meeting 1-10-18](https://www.conservativedailynews.com/wp-content/uploads/2018/01/Donald-Trump-cabinet-meeting-1-10-18-e1571621810869.png)](https://www.conservativedailynews.com/2024/11/trump-picks-florida-rep-mike-waltz-as-new-national-security-advisor/)
+    
+    [Trump Picks Florida Rep. Mike Waltz As New National Security Advisor](https://www.conservativedailynews.com/2024/11/trump-picks-florida-rep-mike-waltz-as-new-national-security-advisor/)
+    
+    November 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-democrats-2020-victory-was-a-blessing-in-disguise/)
+    
+    [The Democrats’ 2020 Victory Was a Blessing in Disguise](https://www.conservativedailynews.com/2024/11/the-democrats-2020-victory-was-a-blessing-in-disguise/)
+    
+    November 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/not-a-joke-2/)
+    
+    [Not a Joke](https://www.conservativedailynews.com/2024/11/not-a-joke-2/)
+    
+    November 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Wedding-Ring-220x150.jpg)](https://www.conservativedailynews.com/2024/11/three-daughters-and-a-ring/)
+    
+    [Three Daughters and a Ring](https://www.conservativedailynews.com/2024/11/three-daughters-and-a-ring/)
+    
+    November 12, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Colorado To Tax Guns, Ammunition And Accessories](https://www.thegunpage.com/colorado-to-tax-guns-ammunition-and-accessories/10611818)
+* [Daniel Defense Limited Series: TAIGA](https://www.thegunpage.com/daniel-defense-limited-series-taiga/10611815)
+* [Western Australia Takes “Buybacks” To A New Low](https://www.thegunpage.com/western-australia-takes-buybacks-to-a-new-low/10611813)
 * [What’s In Your Range Bag, Matthew Kutz?](https://www.thegunpage.com/whats-in-your-range-bag-matthew-kutz/10611812)
 * [Trump Reaffirms Push for National Concealed Carry Reciprocity](https://www.thegunpage.com/trump-reaffirms-push-for-national-concealed-carry-reciprocity/10611810)
 * [Post-Election Worries? Don’t Panic Buy Your First Gun!](https://www.thegunpage.com/post-election-worries-dont-panic-buy-your-first-gun/10611806)
@@ -188,9 +191,6 @@ Recent Posts
 * [Collegiate Rifle: Memphis Tigers Too Hot To Handle For Akron Zips](https://www.thegunpage.com/collegiate-rifle-memphis-tigers-too-hot-to-handle-for-akron-zips/10611808)
 * [TFB Weekly Web Deals 113: Deals for Veterans Day – November 11th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-113-deals-for-veterans-day-november-11th-2024/10611801)
 * [Take a Vet Shooting](https://www.thegunpage.com/take-a-vet-shooting/10611799)
-* [High Speed Gear Gen 2 Operator Belt Offers Lightweight Strength And Secure Fit](https://www.thegunpage.com/high-speed-gear-gen-2-operator-belt-offers-lightweight-strength-and-secure-fit/10611805)
-* [Talladega Marksmanship Park Electronic Targets Receive Upgrades, Including New Tablets](https://www.thegunpage.com/talladega-marksmanship-park-electronic-targets-receive-upgrades-including-new-tablets/10611802)
-* [Thank You Veterans](https://www.thegunpage.com/thank-you-veterans-7/10611797)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
