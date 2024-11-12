@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Carrossel que aparece no feed do reels - a imagem que ilustra o tema tem de fundo uma rua e, em destaque, aparece uma mão de uma pessoa branca, segurando um celular com o ícone do reel aberto na tela na cor rosa.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Tutorial-Como-criar-um-carrossel-que-sera-exibido-no-feed-do-REEL-580x290.jpg)](https://postgrain.com/?post_type=post&p=12703)
+[![Marketing de Retenção - A imagem que ilustra o tema tem o fundo laranja com uma vinheta preta nas bordas e, no meio, tem uma mulher, de cabelo solto longo, usando uma camisa de manga média branca, segurando um mega fone e a boca aberta, como se estivesse falando através dele.](https://postgrain.com/wp-content/uploads/2024/11/THUUMB-Marketing-de-Retencao-Entenda-sua-importancia-beneficios-e-como-colocar-em-pratica-580x290.jpg)](https://postgrain.com/?post_type=post&p=12717)
 
-[Passo a Passo: Como Criar um Carrossel para o Feed do Reels no Instagram \[Nova Atualização\]](https://postgrain.com/?post_type=post&p=12703)
+[Marketing de Retenção: Entenda sua importância, benefícios e como colocar em prática](https://postgrain.com/?post_type=post&p=12717)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12703)
+[Leia mais](https://postgrain.com/?post_type=post&p=12717)
 
 Ilustração de um dos personagens do Postgrain
 
