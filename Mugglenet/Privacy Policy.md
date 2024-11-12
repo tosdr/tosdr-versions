@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
+The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
 
 ### Potter History
 
-October 27, 2006 – MuggleNet releases What Will Happen in Harry Potter 7?
+February 2, 2006 – The actors playing the roles of Luna Lovegood (Evanna Lynch), Nymphadora Tonks (Natalia Tena), Dolores Umbridge (Imelda Staunton), and Bellatrix Lestrange (Helena Bonham Carter) in Harry Potter and the Order of the Phoenix are announced.
 
 ### Potter Quote
 
-“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
+“Alas! Ear wax!”
 
 [](#)
 
