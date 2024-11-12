@@ -12,7 +12,7 @@ GET IT ON
 * [MALL INSIDER](https://www.simon.com/mall-insider "Become A Mall Insider Today")
 * SHOP ONLINE
     
-    [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://shop.simon.com/?utm_source=Simon&utm_medium=Flyout&utm_campaign=SIMON_SHOPONLINE_BANNER)
+    [![ShopSimon - The Brands You Love. On Sale. 24/7.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://shop.simon.com/?utm_source=Simon&utm_medium=Flyout&utm_campaign=SIMON_SHOPONLINE_BANNER)
     
     Women's Most Popular
     
@@ -52,7 +52,7 @@ GET IT ON
     
     [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Tods)
     
-    [A.P.C](https://shop.simon.com/collections/luxe-store-a-p-c?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_APC)
+    [Tommy Hilfiger](https://shop.simon.com/collections/store-tommy-hilfiger?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_TommyH)
     
     [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_ALL)
     
@@ -158,7 +158,7 @@ Use your location to find centers near you
     
     [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Tods)
     
-    [A.P.C](https://shop.simon.com/collections/luxe-store-a-p-c?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_APC)
+    [Tommy Hilfiger](https://shop.simon.com/collections/store-tommy-hilfiger?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_TommyH)
     
     [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_ALL)
     
