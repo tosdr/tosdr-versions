@@ -174,71 +174,72 @@ SearchCtrl + K
     * [TeamSpeak 3 Integration](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/teamspeak-3)
     * [Stream Deck Integration](https://info.sonorancad.com/integration-plugins/stream-deck-integration)
         
-    * [In-Game Integration Plugins](https://info.sonorancad.com/integration-plugins/integration-plugins)
+    * [In-Game Integration](https://info.sonorancad.com/integration-plugins/in-game-integration)
         
-        * [Framework Installation](https://info.sonorancad.com/integration-plugins/integration-plugins/framework-installation)
+        * [FiveM Installation](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation)
             
-        * [Plugin Installation](https://info.sonorancad.com/integration-plugins/integration-plugins/plugin-installation)
-            
-            * [Plugin Troubleshooting](https://info.sonorancad.com/integration-plugins/integration-plugins/plugin-installation/plugin-troubleshooting)
+            * [Submodule Configuration](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/submodule-configuration)
                 
-            
-        * [Available Plugins](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins)
-            
-            * [Body Camera](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/bodycam)
-                
-            * [Call Commands](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/call-commands)
-                
-            * [Check API ID](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/api-id-checker)
-                
-            * [Civilian Integration](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/civilian-integration)
-                
-            * [Dispatch Notify](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/dispatch-notify)
-                
-            * [Framework Support (ESX/QBCore) and Auto Fines](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/framework-support-esx-qbcore-and-auto-fines)
-                
-                * [Depreciated: ESX Support](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/framework-support-esx-qbcore-and-auto-fines/esx-support)
+                * [Submodule Troubleshooting](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/submodule-configuration/plugin-troubleshooting)
                     
                 
-            * [FivePD](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/fivepd)
+            * [FiveM Submodules](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins)
                 
-            * [ForceReg](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/forcereg)
-                
-            * [Kick](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/kick)
-                
-            * [Locations](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/locations)
-                
-            * [Live Map](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/live-map)
-                
-            * [Lookups](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/lookups)
-                
-            * [Postals](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/postals)
-                
-            * [Smart Signs](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/smart-signs)
-                
-            * [Sonoran Radio (sonrad)](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/sonoran-radio-sonrad)
-                
-            * [Tablet & Mini-CAD](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/tablet)
-                
-            * [TeamSpeak 3](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/teamspeak-3)
-                
-            * [Traffic Stop](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/traffic-stop)
-                
-            * [Unit Status](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/unit-status)
-                
-            * [VehReg](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/vehreg)
-                
-            * [WraithV2](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins/wraithv2)
+                * [Body Camera](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/bodycam)
+                    
+                * [Call Commands](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/call-commands)
+                    
+                * [Check API ID](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/api-id-checker)
+                    
+                * [Civilian Integration](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/civilian-integration)
+                    
+                * [Dispatch Notify](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/dispatch-notify)
+                    
+                * [Framework Support (ESX/QBCore) and Auto Fines](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/framework-support-esx-qbcore-and-auto-fines)
+                    
+                    * [Depreciated: ESX Support](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/framework-support-esx-qbcore-and-auto-fines/esx-support)
+                        
+                    
+                * [FivePD](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/fivepd)
+                    
+                * [ForceReg](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/forcereg)
+                    
+                * [Kick](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/kick)
+                    
+                * [Locations](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/locations)
+                    
+                * [Live Map](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/live-map)
+                    
+                * [Lookups](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/lookups)
+                    
+                * [Postals](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/postals)
+                    
+                * [Smart Signs](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/smart-signs)
+                    
+                * [Sonoran Radio (sonrad)](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/sonoran-radio-sonrad)
+                    
+                * [Tablet & Mini-CAD](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/tablet)
+                    
+                * [TeamSpeak 3](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/teamspeak-3)
+                    
+                * [Traffic Stop](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/traffic-stop)
+                    
+                * [Unit Status](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/unit-status)
+                    
+                * [VehReg](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/vehreg)
+                    
+                * [WraithV2](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/wraithv2)
+                    
                 
             
-        * [Free Plugin Installation - Next Steps](https://info.sonorancad.com/integration-plugins/integration-plugins/free-plugin-installation-next-steps)
+        * [FiveM Development Documentation](https://info.sonorancad.com/integration-plugins/in-game-integration/framework-development-documentation)
             
-        * [Framework Development Documentation](https://info.sonorancad.com/integration-plugins/integration-plugins/framework-development-documentation)
-            
-            * [HTTP Request Handling](https://info.sonorancad.com/integration-plugins/integration-plugins/framework-development-documentation/http-request-handling)
+            * [HTTP Request Handling](https://info.sonorancad.com/integration-plugins/in-game-integration/framework-development-documentation/http-request-handling)
                 
             
-        * [Error Codes](https://info.sonorancad.com/integration-plugins/integration-plugins/error-codes)
+        * [Error Codes](https://info.sonorancad.com/integration-plugins/in-game-integration/error-codes)
+            
+        * [Free Plugin Installation - Next Steps](https://info.sonorancad.com/integration-plugins/in-game-integration/free-plugin-installation-next-steps)
             
         
     * [🎮Roblox ER:LC](https://info.sonorancad.com/integration-plugins/roblox-er-lc)
@@ -559,6 +560,71 @@ SearchCtrl + K
 * Roadmap
     
     * [📋Changelog](https://info.sonorancad.com/roadmap/changelog)
+        
+    * [v2.X.X - Legacy](https://info.sonorancad.com/roadmap/v2-legacy)
+        
+        * [Framework Installation](https://info.sonorancad.com/roadmap/v2-legacy/framework-installation)
+            
+        * [Plugin Installation](https://info.sonorancad.com/roadmap/v2-legacy/plugin-installation)
+            
+            * [Plugin Troubleshooting](https://info.sonorancad.com/roadmap/v2-legacy/plugin-installation/plugin-troubleshooting)
+                
+            
+        * [Available Plugins](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins)
+            
+            * [Body Camera](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/bodycam)
+                
+            * [Call Commands](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/call-commands)
+                
+            * [Check API ID](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/api-id-checker)
+                
+            * [Civilian Integration](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/civilian-integration)
+                
+            * [Dispatch Notify](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/dispatch-notify)
+                
+            * [Framework Support (ESX/QBCore) and Auto Fines](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/framework-support-esx-qbcore-and-auto-fines)
+                
+                * [Depreciated: ESX Support](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/framework-support-esx-qbcore-and-auto-fines/esx-support)
+                    
+                
+            * [FivePD](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/fivepd)
+                
+            * [ForceReg](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/forcereg)
+                
+            * [Kick](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/kick)
+                
+            * [Locations](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/locations)
+                
+            * [Live Map](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/live-map)
+                
+            * [Lookups](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/lookups)
+                
+            * [Postals](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/postals)
+                
+            * [Smart Signs](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/smart-signs)
+                
+            * [Sonoran Radio (sonrad)](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/sonoran-radio-sonrad)
+                
+            * [Tablet & Mini-CAD](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/tablet)
+                
+            * [TeamSpeak 3](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/teamspeak-3)
+                
+            * [Traffic Stop](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/traffic-stop)
+                
+            * [Unit Status](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/unit-status)
+                
+            * [VehReg](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/vehreg)
+                
+            * [WraithV2](https://info.sonorancad.com/roadmap/v2-legacy/available-plugins/wraithv2)
+                
+            
+        * [Framework Development Documentation](https://info.sonorancad.com/roadmap/v2-legacy/framework-development-documentation)
+            
+            * [HTTP Request Handling](https://info.sonorancad.com/roadmap/v2-legacy/framework-development-documentation/http-request-handling)
+                
+            
+        * [Error Codes](https://info.sonorancad.com/roadmap/v2-legacy/error-codes)
+            
         
 * Other
     
