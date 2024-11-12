@@ -291,13 +291,6 @@ Derry courthouse
 [‘Violent offender’ who ‘poses a risk to any female he is in a relationship with’ remanded](https://www.derrynow.com/news/local-news/1652710/violent-offender-who-poses-a-risk-to-any-female-he-is-in-a-relationship-with-remanded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, November 11, 2024](https://www.derrynow.com/news/deaths/1651094/derry-death-notices-monday-november-11-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [!['Trusted associate' in drug supply operation jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted associate' in drug supply operation jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
 
 Derry Crown Court
@@ -306,6 +299,15 @@ Derry Crown Court
 
 ['Trusted associate' in drug supply operation jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1652731/trusted-associate-in-drug-supply-operation-jailed-at-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry religious book shop set to close its doors later this month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry religious book shop set to close its doors later this month")](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
+
+Vertias will close at the end of this month.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry religious book shop set to close its doors later this month](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police in Derry charged 32-year-old man with number of driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charged 32-year-old man with number of driving-related offences")](https://www.derrynow.com/news/local-news/1652899/police-in-derry-charged-32-year-old-man-with-number-of-driving-related-offences.html)
 
@@ -325,15 +327,6 @@ The PSNI are appealing for witnesses and information following last night's coll
 [Woman in critical condition in hospital following serious crash near Ballyronan](https://www.derrynow.com/news/home/1652919/woman-in-critical-condition-in-hospital-following-serious-crash-near-ballyronan.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry religious book shop set to close its doors later this month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry religious book shop set to close its doors later this month")](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
-
-Vertias will close at the end of this month.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry religious book shop set to close its doors later this month](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspended sentence for Derry man charged with criminal damage and possession of drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man charged with criminal damage and possession of drugs")](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
 
 Derry Magistrate's Court
@@ -342,6 +335,15 @@ Derry Magistrate's Court
 
 [Suspended sentence for Derry man charged with criminal damage and possession of drugs](https://www.derrynow.com/news/local-news/1652675/suspended-sentence-for-derry-man-charged-with-criminal-damage-and-possession-of-drugs.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine")](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
+
+IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine
+
+[Home](https://www.derrynow.com/)
+
+[IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,6 +525,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1652965/derry-death-notices-tuesday-november-12-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, November 12, 2024](https://www.derrynow.com/news/deaths/1652965/derry-death-notices-tuesday-november-12-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Roe Park Resort](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Park Resort")](https://www.derrynow.com/news/county-derry-post/1653045/galgorm-collection-acquires-roe-park-resort-as-part-of-milestone-50m-investment.html)
 
 Roe Park Resort
@@ -532,7 +541,7 @@ Roe Park Resort
 [Galgorm Collection acquires Roe Park Resort as part of milestone £50m investment](https://www.derrynow.com/news/county-derry-post/1653045/galgorm-collection-acquires-roe-park-resort-as-part-of-milestone-50m-investment.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![10p parking promotion returns to Magherafelt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "10p parking promotion returns to Magherafelt")](https://www.derrynow.com/news/home/1653019/10p-parking-promotion-returns-to-magherafelt.html)
+[![10p parking promotion returns to Magherafelt](https://www.derrynow.com/resizer/165/93/true/2024_11_11/DSCF9163_1-1731339162463.jpg--.jpg?1731339163286 "10p parking promotion returns to Magherafelt")](https://www.derrynow.com/news/home/1653019/10p-parking-promotion-returns-to-magherafelt.html)
 
 Chair of Mid Ulster District Council, Councillor Eugene McConnell launches the 10p reduced parking, available in Dungannon and Magherafelt from Saturday, November 23.
 
@@ -565,15 +574,6 @@ Richard Wilson, and his two sons, Jake and Noah with Kelly
 
 [Health minister refuses to support Executive funding reallocation exercise](https://www.derrynow.com/news/local-news/1652908/health-minister-refuses-to-support-executive-funding-reallocation-exercise.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](https://www.derrynow.com/resizer/165/93/true/2024_11_11/MixCollage-11-Nov-2024-12-24-PM-3127-1731328737568.jpg--.jpg?1731328737627 "IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine")](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
-
-IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine
-
-[Home](https://www.derrynow.com/)
-
-[IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
