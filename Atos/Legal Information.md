@@ -166,18 +166,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Ensure your virtual infrastructure is sustainable infrastructure](https://atos.net/en/blog/ensure-your-virtual-infrastructure-is-sustainable-infrastructure)
         * [AI in customer service operations: Automation and human empathy](https://atos.net/en/blog/ai-in-customer-service-operations-automation-and-human-empathy)
         * [Creating connections with athlete engagement portals](https://atos.net/en/blog/experience-matters-creating-connections-with-athlete-engagement-portals)
         * [Successfully integrating AI into your business strategy](https://atos.net/en/blog/successfully-integrate-ai-business-strategy-lessons-from-experience)
-        * [Are you prepared to secure your data and critical IT infrastructure?](https://atos.net/en/blog/are-you-prepared-to-secure-your-data-and-critical-it-infrastructure)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 5, 2024
+        Nov 11, 2024
         
-        ### AI in customer service operations: Automation and human empathy
+        ### Ensure your virtual infrastructure is sustainable infrastructure
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
