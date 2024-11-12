@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Trump Selects Mike Waltz as His National Security Adviser: Reports](https://www.theepochtimes.com/china/trump-selects-mike-waltz-as-his-national-security-adviser-5758289)
+* [Oprah Winfrey Denies Claims She Took ‘Personal Fee’ From Harris Campaign](https://www.theepochtimes.com/us/oprah-winfrey-denies-claims-she-took-personal-fee-from-harris-campaign-5758541)
     
-    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump Selects Mike Waltz as His National Security Adviser: Reports](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Oprah Winfrey Denies Claims She Took ‘Personal Fee’ From Harris Campaign](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Selects Mike Waltz as His National Security Adviser: Reports](https://img.theepochtimes.com/assets/uploads/2024/08/21/id5710133-Rep.-Mike-Waltz-DNC-2024-205x123.jpeg.webp)](https://www.theepochtimes.com/china/trump-selects-mike-waltz-as-his-national-security-adviser-5758289)
-* [New York Judge Delays Ruling on Trump’s Immunity Arguments](https://www.theepochtimes.com/us/new-york-judge-delays-ruling-on-trumps-immunity-arguments-5758129)
+    ![Oprah Winfrey Denies Claims She Took ‘Personal Fee’ From Harris Campaign](https://img.theepochtimes.com/assets/uploads/2024/08/22/id5710583-oprah-205x123.jpg.webp)](https://www.theepochtimes.com/us/oprah-winfrey-denies-claims-she-took-personal-fee-from-harris-campaign-5758541)
+* [Here’s Who Could Be in Trump’s Cabinet](https://www.theepochtimes.com/us/heres-who-could-be-in-trumps-cabinet-5758458)
     
-    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![New York Judge Delays Ruling on Trump’s Immunity Arguments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Here’s Who Could Be in Trump’s Cabinet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York Judge Delays Ruling on Trump’s Immunity Arguments](https://img.theepochtimes.com/assets/uploads/2024/06/04/id5662610-Judge-Juan-M.-Merchan-AP24096846896407-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-judge-delays-ruling-on-trumps-immunity-arguments-5758129)
-* [DNA-Testing Company Terminates 40 Percent of Its Employees](https://www.theepochtimes.com/business/dna-testing-company-terminates-40-percent-of-its-employees-5758300)
+    ![Here’s Who Could Be in Trump’s Cabinet](https://img.theepochtimes.com/assets/uploads/2021/04/14/Linda-McMahon-and-Donald-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-who-could-be-in-trumps-cabinet-5758458)
+* [FAA Bans US Airlines From Flying Into Haiti After Shots Hit Passenger Planes](https://www.theepochtimes.com/us/faa-bans-us-airlines-from-flying-into-haiti-for-30-days-after-shots-hit-passenger-planes-5758511)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![DNA-Testing Company Terminates 40 Percent of Its Employees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FAA Bans US Airlines From Flying Into Haiti After Shots Hit Passenger Planes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![DNA-Testing Company Terminates 40 Percent of Its Employees](https://img.theepochtimes.com/assets/uploads/2022/10/19/GettyImages-1074407910-205x123.jpg.webp)](https://www.theepochtimes.com/business/dna-testing-company-terminates-40-percent-of-its-employees-5758300)
-* [Who Is Lee Zeldin? 5 Things to Know About Trump’s EPA Chief](https://www.theepochtimes.com/us/who-is-lee-zeldin-5-things-to-know-about-trumps-epa-chief-5757941)
+    ![FAA Bans US Airlines From Flying Into Haiti After Shots Hit Passenger Planes](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758579-1.tagreuters.com2024binary_LYNXMPEKAA0LS-FILEDIMAGE-LS-205x123.webp)](https://www.theepochtimes.com/us/faa-bans-us-airlines-from-flying-into-haiti-for-30-days-after-shots-hit-passenger-planes-5758511)
+* [US Supreme Court Rejects Jan. 6 Defendant’s Appeal Over Parading Charge](https://www.theepochtimes.com/us/us-supreme-court-rejects-jan-6-defendants-appeal-over-parading-charge-5758486)
     
-    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Who Is Lee Zeldin? 5 Things to Know About Trump’s EPA Chief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Supreme Court Rejects Jan. 6 Defendant’s Appeal Over Parading Charge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Who Is Lee Zeldin? 5 Things to Know About Trump’s EPA Chief](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758009-EpochImages-6836471180-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/who-is-lee-zeldin-5-things-to-know-about-trumps-epa-chief-5757941)
-* [New Zealand Prime Minister Offers ‘Unreserved’ Apology to People Abused in Care](https://www.theepochtimes.com/world/new-zealand-prime-minister-offers-unreserved-apology-to-people-abused-in-care-5758247)
+    ![US Supreme Court Rejects Jan. 6 Defendant’s Appeal Over Parading Charge](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758578-Jan-6-protest-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-supreme-court-rejects-jan-6-defendants-appeal-over-parading-charge-5758486)
+* [FTX Files Lawsuit Against Binance Seeking Nearly $1.8 Billion](https://www.theepochtimes.com/business/ftx-files-lawsuit-against-binance-seeking-nearly-1-8-billion-5758441)
     
-    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![New Zealand Prime Minister Offers ‘Unreserved’ Apology to People Abused in Care](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FTX Files Lawsuit Against Binance Seeking Nearly $1.8 Billion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New Zealand Prime Minister Offers ‘Unreserved’ Apology to People Abused in Care](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758249-AP24316850594248-205x123.jpg.webp)](https://www.theepochtimes.com/world/new-zealand-prime-minister-offers-unreserved-apology-to-people-abused-in-care-5758247)
-* [What to Know About Stephen Miller, Trump’s Deputy Chief of Policy](https://www.theepochtimes.com/us/what-to-know-about-stephen-miller-trumps-deputy-chief-of-policy-5757897)
+    ![FTX Files Lawsuit Against Binance Seeking Nearly $1.8 Billion](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758577-GettyImages-1244425803-LS-205x123.jpg.webp)](https://www.theepochtimes.com/business/ftx-files-lawsuit-against-binance-seeking-nearly-1-8-billion-5758441)
+* [Federal Judge Blocks Louisiana Law Requiring Ten Commandments in Public Schools](https://www.theepochtimes.com/us/federal-judge-blocks-louisiana-law-requiring-ten-commandments-in-public-schools-5758438)
     
-    4hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    2hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![What to Know About Stephen Miller, Trump’s Deputy Chief of Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Blocks Louisiana Law Requiring Ten Commandments in Public Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What to Know About Stephen Miller, Trump’s Deputy Chief of Policy](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758315-Stephen-Miller-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-know-about-stephen-miller-trumps-deputy-chief-of-policy-5757897)
-* [From Gas to Green and Back: How a Second Trump Term Will Impact US Energy](https://www.theepochtimes.com/business/from-gas-to-green-and-back-how-a-second-trump-term-will-impact-us-energy-5757849)
+    ![Federal Judge Blocks Louisiana Law Requiring Ten Commandments in Public Schools](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758575-AP24190750681868-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-blocks-louisiana-law-requiring-ten-commandments-in-public-schools-5758438)
+* [Biden Meets With Israeli President Herzog at White House](https://www.theepochtimes.com/us/biden-meets-with-israeli-president-herzog-at-white-house-5758366)
     
-    6hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![From Gas to Green and Back: How a Second Trump Term Will Impact US Energy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Meets With Israeli President Herzog at White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![From Gas to Green and Back: How a Second Trump Term Will Impact US Energy](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758302-GettyImages-1238962634-205x123.jpg.webp)](https://www.theepochtimes.com/business/from-gas-to-green-and-back-how-a-second-trump-term-will-impact-us-energy-5757849)
-* [The Lame Duck Session of Congress Begins—Here’s What to Expect](https://www.theepochtimes.com/us/the-lame-duck-session-of-congress-begins-heres-what-to-expect-5757295)
+    ![Biden Meets With Israeli President Herzog at White House](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758581-Herzog-at-the-White-House-LS-205x123.webp)](https://www.theepochtimes.com/us/biden-meets-with-israeli-president-herzog-at-white-house-5758366)
+* [Netanyahu Approved Pager Attacks Against Hezbollah, Spokesman Confirms](https://www.theepochtimes.com/world/netanyahu-approved-pager-attacks-against-hezbollah-spokesman-confirms-5757982)
     
-    6hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    3hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![The Lame Duck Session of Congress Begins—Here’s What to Expect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Netanyahu Approved Pager Attacks Against Hezbollah, Spokesman Confirms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![The Lame Duck Session of Congress Begins—Here’s What to Expect](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746845-10232024-DSC06694-US-Capitol-building-205x123.jpg.webp)](https://www.theepochtimes.com/us/the-lame-duck-session-of-congress-begins-heres-what-to-expect-5757295)
-* [In Arizona, Gallego Beats Lake in US Senate Showdown](https://www.theepochtimes.com/us/in-arizona-gallego-beats-lake-in-us-senate-showdown-5751627)
+    ![Netanyahu Approved Pager Attacks Against Hezbollah, Spokesman Confirms](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726317-2024-09-18T002155Z_1_LYNXMPEK8H00B_RTROPTP_4_ISRAEL-PALESTINIANS-HEZBOLLAH-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-approved-pager-attacks-against-hezbollah-spokesman-confirms-5757982)
+* [Trump Selects Former Gov. Mike Huckabee as Ambassador to Israel](https://www.theepochtimes.com/us/trump-to-nominate-mike-huckabee-as-ambassador-to-israel-5758471)
     
-    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![In Arizona, Gallego Beats Lake in US Senate Showdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Selects Former Gov. Mike Huckabee as Ambassador to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Arizona, Gallego Beats Lake in US Senate Showdown](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697561-lake-gallegoKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-gallego-beats-lake-in-us-senate-showdown-5751627)
-* [GOP Incumbent Mike Garcia Concedes California House Seat](https://www.theepochtimes.com/us/gop-incumbent-mike-garcia-concedes-california-house-seat-5758178)
+    ![Trump Selects Former Gov. Mike Huckabee as Ambassador to Israel](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758509-Huckabee-and-Trump-GettyImages-2181797031-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-nominate-mike-huckabee-as-ambassador-to-israel-5758471)
+* [Trump Likely to Pick Marco Rubio as Secretary of State](https://www.theepochtimes.com/us/trump-likely-to-pick-marco-rubio-as-secretary-of-state-5757768)
     
-    12hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    4hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![GOP Incumbent Mike Garcia Concedes California House Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Likely to Pick Marco Rubio as Secretary of State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Incumbent Mike Garcia Concedes California House Seat](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758317-10162023-DSC07648-Mike-Garcia.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-incumbent-mike-garcia-concedes-california-house-seat-5758178)
+    ![Trump Likely to Pick Marco Rubio as Secretary of State](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697569-GettyImages-1412540326-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-likely-to-pick-marco-rubio-as-secretary-of-state-5757768)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
