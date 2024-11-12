@@ -99,23 +99,23 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Jack White and the White Stripes sue Donald Trump.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Jack-White-Donald-Trump-432x243.jpg)](https://lawandcrime.com/crime/days-after-calling-trump-a-wannabe-dictator-jack-white-and-the-white-stripes-drop-lawsuit-against-president-elect/)
+1. [![Jack White and the White Stripes sue Donald Trump.](https://lawandcrime.com/wp-content/uploads/2024/09/Jack-White-Donald-Trump-432x243.jpg)](https://lawandcrime.com/crime/days-after-calling-trump-a-wannabe-dictator-jack-white-and-the-white-stripes-drop-lawsuit-against-president-elect/)
     
     ### [Days after calling Trump a 'wannabe dictator,' Jack White and the White Stripes drop lawsuit against president-elect](https://lawandcrime.com/crime/days-after-calling-trump-a-wannabe-dictator-jack-white-and-the-white-stripes-drop-lawsuit-against-president-elect/)
     
-2. [![Background: CCTV footage posted by Shomrim CH showing an attempted kidnapping in Crown Heights, Brooklyn, on Nov. 9, 2024 (Shomrim CH). Inset: Another angle of the attempted kidnapping in Crown Heights, Brooklyn (Shomrim CH).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Crown-Heights-kidnapping-432x243.jpg)](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
+2. [![Background: CCTV footage posted by Shomrim CH showing an attempted kidnapping in Crown Heights, Brooklyn, on Nov. 9, 2024 (Shomrim CH). Inset: Another angle of the attempted kidnapping in Crown Heights, Brooklyn (Shomrim CH).](https://lawandcrime.com/wp-content/uploads/2024/11/Crown-Heights-kidnapping-432x243.jpg)](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
     
     ### ['Something is clearly going on': Video shows masked man allegedly trying to kidnap 6-year-old Jewish boy walking with his father](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
     
-3. [![Joseph Haren (Comal County Criminal District Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Joseph-Haren-Comal-County-Criminal-District-Attorneys-Office-432x243.jpg)](https://lawandcrime.com/crime/man-so-drunk-field-sobriety-tests-were-too-dangerous-sentenced-to-life-in-prison-for-repeated-dwi-convictions/)
+3. [![Joseph Haren (Comal County Criminal District Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/11/Joseph-Haren-Comal-County-Criminal-District-Attorneys-Office-432x243.jpg)](https://lawandcrime.com/crime/man-so-drunk-field-sobriety-tests-were-too-dangerous-sentenced-to-life-in-prison-for-repeated-dwi-convictions/)
     
     ### [Man so drunk field sobriety tests were 'too dangerous' sentenced to life in prison for repeated DWI convictions](https://lawandcrime.com/crime/man-so-drunk-field-sobriety-tests-were-too-dangerous-sentenced-to-life-in-prison-for-repeated-dwi-convictions/)
     
-4. [![Inset: Celebrity chef Tobias Dorzon with Usher (Instagram). Background: Surveillance footage showing the Tobias Dorzon shooting (WTTG/YouTube).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Tobias-Dorzon-with-Usher-432x243.jpg)](https://lawandcrime.com/crime/please-dont-kill-me-bro-celebrity-chef-says-he-is-grateful-to-be-alive-after-being-gunned-down-with-girlfriend-in-robbery-caught-on-video/)
+4. [![Inset: Celebrity chef Tobias Dorzon with Usher (Instagram). Background: Surveillance footage showing the Tobias Dorzon shooting (WTTG/YouTube).](https://lawandcrime.com/wp-content/uploads/2024/11/Tobias-Dorzon-with-Usher-432x243.jpg)](https://lawandcrime.com/crime/please-dont-kill-me-bro-celebrity-chef-says-he-is-grateful-to-be-alive-after-being-gunned-down-with-girlfriend-in-robbery-caught-on-video/)
     
     ### ['Please don't kill me, bro': Celebrity chef says he is 'grateful' to be alive after being gunned down with girlfriend in robbery caught on video](https://lawandcrime.com/crime/please-dont-kill-me-bro-celebrity-chef-says-he-is-grateful-to-be-alive-after-being-gunned-down-with-girlfriend-in-robbery-caught-on-video/)
     
-5. [![Nicholas Wayne Hamlett (Monroe County (Tenn.) Sheriff's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Nicholas-Wayne-Hamlett-432x243.jpg)](https://lawandcrime.com/crime/hospital-worker-helps-nab-murder-suspect-who-staged-killing-as-bear-attack-to-steal-victims-identity-cops/)
+5. [![Nicholas Wayne Hamlett (Monroe County (Tenn.) Sheriff's Office).](https://lawandcrime.com/wp-content/uploads/2024/11/Nicholas-Wayne-Hamlett-432x243.jpg)](https://lawandcrime.com/crime/hospital-worker-helps-nab-murder-suspect-who-staged-killing-as-bear-attack-to-steal-victims-identity-cops/)
     
     ### [Hospital worker helps nab murder suspect who staged killing as bear attack to steal victim's identity: Cops](https://lawandcrime.com/crime/hospital-worker-helps-nab-murder-suspect-who-staged-killing-as-bear-attack-to-steal-victims-identity-cops/)
     
