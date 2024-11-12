@@ -132,17 +132,109 @@ Política de privacidade
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
+* ### Popular agora
+    
+    * [![trizieize](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/IMG_6596.thumb.JPG.a1b7b8ed58b1095a1ffdbbcd945b1425.JPG)](https://www.clubedohardware.com.br/profile/1232107-trizieize/ "Ir ao perfil de trizieize")
+        
+        10
+        
+        [Monitor AOC HERO 24G2/BK 144hz ou LG ULTRAGEAR 24GS60F-B 180hz](https://www.clubedohardware.com.br/forums/topic/1702180-monitor-aoc-hero-24g2bk-144hz-ou-lg-ultragear-24gs60f-b-180hz/ "Visualizar tópico")
+        
+        Por [trizieize](https://www.clubedohardware.com.br/profile/1232107-trizieize/ "Ir ao perfil de trizieize")  
+        1 hora atrás
+        
+    
 * ### Últimos tópicos
     
+    * [![Alvaro Pereira da Silva](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236271c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255930-alvaro-pereira-da-silva/ "Ir ao perfil de Alvaro Pereira da Silva")
+        
+        1
+        
+        [Upgrade placa de vídeo RX 6600](https://www.clubedohardware.com.br/forums/topic/1702184-upgrade-placa-de-v%C3%ADdeo-rx-6600/?do=getNewComment "Upgrade placa de vídeo RX 6600")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Alvaro Pereira da Silva](https://www.clubedohardware.com.br/profile/1255930-alvaro-pereira-da-silva/ "Ir ao perfil de Alvaro Pereira da Silva")  
+        16 minutos atrás
+        
+    * [![amido de milho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255931.thumb.jpeg.0fa8154cdf41b1cb58a40fadfd77d6fc.jpeg)](https://www.clubedohardware.com.br/profile/1255931-amido-de-milho/ "Ir ao perfil de amido de milho")
+        
+        1
+        
+        [vale a pena? corsair h150. aceito recomendações.](https://www.clubedohardware.com.br/forums/topic/1702183-vale-a-pena-corsair-h150-aceito-recomenda%C3%A7%C3%B5es/?do=getNewComment "vale a pena? corsair h150. aceito recomendações.")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [amido de milho](https://www.clubedohardware.com.br/profile/1255931-amido-de-milho/ "Ir ao perfil de amido de milho")  
+        21 minutos atrás
+        
+    * [![Nina Mandim](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255929.thumb.jpeg.d9d48464407699690182bab2e75e7d6d.jpeg)](https://www.clubedohardware.com.br/profile/1255929-nina-mandim/ "Ir ao perfil de Nina Mandim")
+        
+        2
+        
+        [Computador com menos de 1 ano de uso, desligando sozinho](https://www.clubedohardware.com.br/forums/topic/1702182-computador-com-menos-de-1-ano-de-uso-desligando-sozinho/?do=getNewComment "Computador com menos de 1 ano de uso, desligando sozinho")
+        
+        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
+        Por [Nina Mandim](https://www.clubedohardware.com.br/profile/1255929-nina-mandim/ "Ir ao perfil de Nina Mandim")  
+        23 minutos atrás
+        
+    * [![trizieize](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/IMG_6596.thumb.JPG.a1b7b8ed58b1095a1ffdbbcd945b1425.JPG)](https://www.clubedohardware.com.br/profile/1232107-trizieize/ "Ir ao perfil de trizieize")
+        
+        10
+        
+        [Monitor AOC HERO 24G2/BK 144hz ou LG ULTRAGEAR 24GS60F-B 180hz](https://www.clubedohardware.com.br/forums/topic/1702180-monitor-aoc-hero-24g2bk-144hz-ou-lg-ultragear-24gs60f-b-180hz/?do=getNewComment "Monitor AOC HERO 24G2/BK 144hz ou LG ULTRAGEAR 24GS60F-B 180hz")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [trizieize](https://www.clubedohardware.com.br/profile/1232107-trizieize/ "Ir ao perfil de trizieize")  
+        1 hora atrás
+        
+    * [![Matheus Quintaes](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362b3c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMQ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255928-matheus-quintaes/ "Ir ao perfil de Matheus Quintaes")
+        
+        2
+        
+        [Quais upgrades fazer no hp pavilion dv5 1220br?](https://www.clubedohardware.com.br/forums/topic/1702179-quais-upgrades-fazer-no-hp-pavilion-dv5-1220br/?do=getNewComment "Quais upgrades fazer no hp pavilion dv5 1220br?")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Matheus Quintaes](https://www.clubedohardware.com.br/profile/1255928-matheus-quintaes/ "Ir ao perfil de Matheus Quintaes")  
+        1 hora atrás
+        
+    * [![nathan1010](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253890.thumb.png.cd261ea43c011cf68b41dc9a0264d3e0.png)](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")
+        
+        6
+        
+        [consigo continuar com a mesma fonte trocando algumas configs ?](https://www.clubedohardware.com.br/forums/topic/1702178-consigo-continuar-com-a-mesma-fonte-trocando-algumas-configs/?do=getNewComment "consigo continuar com a mesma fonte trocando algumas configs ?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [nathan1010](https://www.clubedohardware.com.br/profile/1253890-nathan1010/ "Ir ao perfil de nathan1010")  
+        1 hora atrás
+        
+    * [![Caio Nunes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1247118.thumb.jpeg.3f74d3c1f665c0801a9954d3633d4125.jpeg)](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")
+        
+        3
+        
+        [Air Cooler AK400 cabe na B550M PRO VDH WIFI com Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1702176-air-cooler-ak400-cabe-na-b550m-pro-vdh-wifi-com-ryzen-7-5700x3d/?do=getNewComment "Air Cooler AK400 cabe na B550M PRO VDH WIFI com Ryzen 7 5700X3D?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Caio Nunes](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")  
+        2 horas atrás
+        
+    * [![Pedro Wnr](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236298c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EPW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/974901-pedro-wnr/ "Ir ao perfil de Pedro Wnr")
+        
+        8
+        
+        [PC liga sem imagem](https://www.clubedohardware.com.br/forums/topic/1702173-pc-liga-sem-imagem/?do=getNewComment "PC liga sem imagem")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Pedro Wnr](https://www.clubedohardware.com.br/profile/974901-pedro-wnr/ "Ir ao perfil de Pedro Wnr")  
+        4 horas atrás
+        
     * [![RapGusta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255925.thumb.jpeg.1980ff246bc29f137ccb97cc297a7189.jpeg)](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")
         
-        0
+        2
         
         [Sugestões para upgrade do meu PC](https://www.clubedohardware.com.br/forums/topic/1702172-sugest%C3%B5es-para-upgrade-do-meu-pc/?do=getNewComment "Sugestões para upgrade do meu PC")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [RapGusta](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")  
-        37 minutos atrás
+        6 horas atrás
         
     * [![galaxie76](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/71i-N696kUL._.thumb.jpg.f684fff9cefd255db1d8a2a3feb1d2e0.jpg)](https://www.clubedohardware.com.br/profile/545151-galaxie76/ "Ir ao perfil de galaxie76")
         
@@ -152,87 +244,7 @@ Política de privacidade
         
         [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
         Por [galaxie76](https://www.clubedohardware.com.br/profile/545151-galaxie76/ "Ir ao perfil de galaxie76")  
-        1 hora atrás
-        
-    * [![lp lopes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244905.thumb.png.a777d2492956db5fbd249b2ebbdcb267.png)](https://www.clubedohardware.com.br/profile/1244905-lp-lopes/ "Ir ao perfil de lp lopes")
-        
-        0
-        
-        [Até agora foi trocado as memória e a placa de vídeo.](https://www.clubedohardware.com.br/forums/topic/1702170-at%C3%A9-agora-foi-trocado-as-mem%C3%B3ria-e-a-placa-de-v%C3%ADdeo/?do=getNewComment "Até agora foi trocado as memória e a placa de vídeo.")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [lp lopes](https://www.clubedohardware.com.br/profile/1244905-lp-lopes/ "Ir ao perfil de lp lopes")  
-        2 horas atrás
-        
-    * [![Weckman](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imagem_2024-07-19_020319094.thumb.png.d0d5a5692031ecaec48409ee034c897e.png)](https://www.clubedohardware.com.br/profile/1249962-weckman/ "Ir ao perfil de Weckman")
-        
-        0
-        
-        [Indicação de Notebook durável](https://www.clubedohardware.com.br/forums/topic/1702169-indica%C3%A7%C3%A3o-de-notebook-dur%C3%A1vel/?do=getNewComment "Indicação de Notebook durável")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Weckman](https://www.clubedohardware.com.br/profile/1249962-weckman/ "Ir ao perfil de Weckman")  
-        2 horas atrás
-        
-    * [![Syzzk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255924.thumb.png.33671db1ae838c7f8b29a72aa06b1f3b.png)](https://www.clubedohardware.com.br/profile/1255924-syzzk/ "Ir ao perfil de Syzzk")
-        
-        1
-        
-        [Recomendação de fonte para PC com Xeon 1220 V2 e RX 570](https://www.clubedohardware.com.br/forums/topic/1702168-recomenda%C3%A7%C3%A3o-de-fonte-para-pc-com-xeon-1220-v2-e-rx-570/?do=getNewComment "Recomendação de fonte para PC com Xeon 1220 V2 e RX 570")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Syzzk](https://www.clubedohardware.com.br/profile/1255924-syzzk/ "Ir ao perfil de Syzzk")  
-        3 horas atrás
-        
-    * [![MichelOliveira7](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b162%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255922-micheloliveira7/ "Ir ao perfil de MichelOliveira7")
-        
-        0
-        
-        [Firmware tv box MQX PRO V76 RK3228A wifi sp6330](https://www.clubedohardware.com.br/forums/topic/1702167-firmware-tv-box-mqx-pro-v76-rk3228a-wifi-sp6330/?do=getNewComment "Firmware tv box MQX PRO V76 RK3228A wifi sp6330")
-        
-        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
-        Por [MichelOliveira7](https://www.clubedohardware.com.br/profile/1255922-micheloliveira7/ "Ir ao perfil de MichelOliveira7")  
-        3 horas atrás
-        
-    * [![Artur Mutzw](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255918.thumb.jpeg.bcdb7a0de10f36049014caf11e6241fb.jpeg)](https://www.clubedohardware.com.br/profile/1255918-artur-mutzw/ "Ir ao perfil de Artur Mutzw")
-        
-        0
-        
-        [computador com looping quando muda de processador.](https://www.clubedohardware.com.br/forums/topic/1702166-computador-com-looping-quando-muda-de-processador/?do=getNewComment "computador com looping quando muda de processador.")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Artur Mutzw](https://www.clubedohardware.com.br/profile/1255918-artur-mutzw/ "Ir ao perfil de Artur Mutzw")  
-        4 horas atrás
-        
-    * [![Omegass4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255920.thumb.png.a76927940b2d50d54d2401aa549c3209.png)](https://www.clubedohardware.com.br/profile/1255920-omegass4/ "Ir ao perfil de Omegass4")
-        
-        0
-        
-        [fps baixo rtx 4070 ti](https://www.clubedohardware.com.br/forums/topic/1702165-fps-baixo-rtx-4070-ti/?do=getNewComment "fps baixo rtx 4070 ti")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Omegass4](https://www.clubedohardware.com.br/profile/1255920-omegass4/ "Ir ao perfil de Omegass4")  
-        4 horas atrás
-        
-    * [![Juizo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1231409.thumb.jpeg.2270bcfb0966a1d4c2148d987541c334.jpeg)](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")
-        
-        5
-        
-        [Como escolher qual gabinete utilizar para montar um Pc gamer?](https://www.clubedohardware.com.br/forums/topic/1702164-como-escolher-qual-gabinete-utilizar-para-montar-um-pc-gamer/?do=getNewComment "Como escolher qual gabinete utilizar para montar um Pc gamer?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Juizo](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")  
-        5 horas atrás
-        
-    * [![Vitoria.Tinoco](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255919.thumb.png.37379a5deba58cf4c37320952feea7aa.png)](https://www.clubedohardware.com.br/profile/1255919-vitoriatinoco/ "Ir ao perfil de Vitoria.Tinoco")
-        
-        2
-        
-        [instalação da minha controladora](https://www.clubedohardware.com.br/forums/topic/1702163-instala%C3%A7%C3%A3o-da-minha-controladora/?do=getNewComment "instalação da minha controladora")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Vitoria.Tinoco](https://www.clubedohardware.com.br/profile/1255919-vitoriatinoco/ "Ir ao perfil de Vitoria.Tinoco")  
-        5 horas atrás
+        7 horas atrás
         
     
 
@@ -390,10 +402,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
