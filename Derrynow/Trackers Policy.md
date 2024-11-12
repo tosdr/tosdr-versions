@@ -273,42 +273,6 @@ Most Popular
 [Throwback Tuesday: Out and About with the County Post (2011)](https://www.derrynow.com/story-telling/pictures---videos/1652963/throwback-tuesday-out-and-about-with-the-county-post-2011.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry religious book shop set to close its doors later this month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry religious book shop set to close its doors later this month")](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
-
-Vertias will close at the end of this month.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry religious book shop set to close its doors later this month](https://www.derrynow.com/news/local-news/1652738/derry-religious-book-shop-set-to-close-its-doors-later-this-month.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry charged 32-year-old man with number of driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charged 32-year-old man with number of driving-related offences")](https://www.derrynow.com/news/local-news/1652899/police-in-derry-charged-32-year-old-man-with-number-of-driving-related-offences.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry charged 32-year-old man with number of driving-related offences](https://www.derrynow.com/news/local-news/1652899/police-in-derry-charged-32-year-old-man-with-number-of-driving-related-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman in critical condition in hospital following serious crash near Ballyronan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in critical condition in hospital following serious crash near Ballyronan")](https://www.derrynow.com/news/home/1652919/woman-in-critical-condition-in-hospital-following-serious-crash-near-ballyronan.html)
-
-The PSNI are appealing for witnesses and information following last night's collision.
-
-[Home](https://www.derrynow.com/)
-
-[Woman in critical condition in hospital following serious crash near Ballyronan](https://www.derrynow.com/news/home/1652919/woman-in-critical-condition-in-hospital-following-serious-crash-near-ballyronan.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine")](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
-
-IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine
-
-[Home](https://www.derrynow.com/)
-
-[IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine](https://www.derrynow.com/story-telling/home/1652808/in-pictures-community-gathers-to-pay-respects-at-remembrance-day-in-coleraine.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1652965/derry-death-notices-tuesday-november-12-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -316,23 +280,14 @@ IN PICTURES: Community gathers to pay respects at Remembrance Day in Coleraine
 [Derry Death Notices - Tuesday, November 12, 2024](https://www.derrynow.com/news/deaths/1652965/derry-death-notices-tuesday-november-12-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman travels over 3,000km to Irish beach where message in bottle washed up after 24 years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman travels over 3,000km to Irish beach where message in bottle washed up after 24 years")](https://www.derrynow.com/news/national-news/1652985/woman-travels-over-3-000km-to-irish-beach-where-message-in-bottle-washed-up-after-24-years.html)
+[![Suspended sentence for Derry man convicted of harassment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man convicted of harassment")](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
 
-Aoife Bourke (left) and Lexi Ploc-Canning (right) pictured at Westport Quay with her letter from the bottle she threw into the Atlantic Ocean as an eight-year-old (Pic: The Mayo News)
+Derry Magistrate's Court
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Woman travels over 3,000km to Irish beach where message in bottle washed up after 24 years](https://www.derrynow.com/news/national-news/1652985/woman-travels-over-3-000km-to-irish-beach-where-message-in-bottle-washed-up-after-24-years.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![U2 frontman Bono among the familiar faces spotted at Irish festival over the weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "U2 frontman Bono among the familiar faces spotted at Irish festival over the weekend")](https://www.derrynow.com/news/national-news/1652966/u2-frontman-bono-among-the-familiar-faces-spotted-at-irish-festival-over-the-weekend.html)
-
-Karen McEvoy and Bono
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[U2 frontman Bono among the familiar faces spotted at Irish festival over the weekend](https://www.derrynow.com/news/national-news/1652966/u2-frontman-bono-among-the-familiar-faces-spotted-at-irish-festival-over-the-weekend.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry man convicted of harassment](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Legacy body to investigate British Army killing of teenage IRA member in 1972](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Legacy body to investigate British Army killing of teenage IRA member in 1972")](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
 
@@ -340,6 +295,45 @@ Karen McEvoy and Bono
 
 [Legacy body to investigate British Army killing of teenage IRA member in 1972](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park")](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Ballinderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final")](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’")](https://www.derrynow.com/news/arts---entertainment/1653579/derry-dancer-tiernagh-canning-starring-in-lord-of-the-dance.html)
+
+The young north Derry woman is currently wowing audiences as the female lead in 'Lord of the Dance'.
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’](https://www.derrynow.com/news/arts---entertainment/1653579/derry-dancer-tiernagh-canning-starring-in-lord-of-the-dance.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds")](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Limavady family raise over £11k for Foyle Hospice in memory of Emma](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady family raise over £11k for Foyle Hospice in memory of Emma")](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
+
+Emma pictured with her son Joedin during their family holiday to Disney World.
+
+[Home](https://www.derrynow.com/)
+
+[Limavady family raise over £11k for Foyle Hospice in memory of Emma](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,55 +515,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Sean Brown’s family await outcome of judicial review on public inquiry into his murder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sean Brown’s family await outcome of judicial review on public inquiry into his murder")](https://www.derrynow.com/news/local-news/1653573/sean-browns-family-await-outcome-of-judicial-review-on-public-inquiry-into-his-murder.html)
+[![Dessie McAleese retires from McKay Family Butchers ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dessie McAleese retires from McKay Family Butchers ")](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
 
-Members of the Brown family pictured at last week's screening in Derry.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sean Brown’s family await outcome of judicial review on public inquiry into his murder](https://www.derrynow.com/news/local-news/1653573/sean-browns-family-await-outcome-of-judicial-review-on-public-inquiry-into-his-murder.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Spanish tour operators visit Causeway Coast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Spanish tour operators visit Causeway Coast")](https://www.derrynow.com/news/county-derry-post/1653580/spanish-tour-operators-visit-causeway-coast.html)
-
-Spanish tour operators visit Causeway Coast
+Dessie McAleese retires from McKay Family Butchers
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Spanish tour operators visit Causeway Coast](https://www.derrynow.com/news/county-derry-post/1653580/spanish-tour-operators-visit-causeway-coast.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
+[Long serving butcher Dessie hangs up his apron](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](https://www.derrynow.com/resizer/165/93/true/1622553563380.jpg--.jpg?1622553563000 "Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds")](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
+[![New Foyle Hospice shop to open in Ballykelly next week](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New Foyle Hospice shop to open in Ballykelly next week")](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Limavady family raise over £11k for Foyle Hospice in memory of Emma](https://www.derrynow.com/resizer/165/93/true/2024_11_12/CDP_-_12-11-24_-_Page_1_lead_pic_1-1731404108771_1731404361.jpeg--.jpeg?1731404361235 "Limavady family raise over £11k for Foyle Hospice in memory of Emma")](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
-
-Emma pictured with her son Joedin during their family holiday to Disney World.
+Foyle Hospice volunteer Teresa pictured in one of the charity's shops.
 
 [Home](https://www.derrynow.com/)
 
-[Limavady family raise over £11k for Foyle Hospice in memory of Emma](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[New Foyle Hospice shop to open in Ballykelly next week](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Michelle O'Neill visits HOly Family PS](https://www.derrynow.com/resizer/165/93/true/2024_11_12/image1_%281%29-1731405081950.jpeg--.jpeg?1731405081977 "Michelle O'Neill visits HOly Family PS")](https://www.derrynow.com/news/county-derry-post/1653504/first-minister-promises-to-work-hard-to-get-new-school-for-magherafelt-pupils.html)
-
-Michelle O'Neill visits HOly Family PS
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[First Minister promises to work hard to get new school for Magherafelt pupils](https://www.derrynow.com/news/county-derry-post/1653504/first-minister-promises-to-work-hard-to-get-new-school-for-magherafelt-pupils.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Legacy body to investigate British Army killing of teenage IRA member in 1972](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_11/1731356705042_0.jpg--.jpg?1731356705184 "Legacy body to investigate British Army killing of teenage IRA member in 1972")](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
+[![Police apologise as watchdog finds Katie Simpson’s family ‘failed’ by probe](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_12/1731431132673_0_1731433554.jpg--.jpg?1731433554326 "Police apologise as watchdog finds Katie Simpson’s family ‘failed’ by probe")](https://www.derrynow.com/news/local-news/1654135/police-apologise-as-watchdog-finds-katie-simpsons-family-failed-by-probe.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Legacy body to investigate British Army killing of teenage IRA member in 1972](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police apologise as watchdog finds Katie Simpson’s family ‘failed’ by probe](https://www.derrynow.com/news/local-news/1654135/police-apologise-as-watchdog-finds-katie-simpsons-family-failed-by-probe.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Glack Plough On group seeking retired farmers to join them](https://www.derrynow.com/resizer/165/93/true/2024_11_12/CDP_-_12-11-24_-_Page_4_lead_pic_%282%29-1731405460368.jpeg--.jpeg?1731405461592 "Glack Plough On group seeking retired farmers to join them")](https://www.derrynow.com/news/local-news/1653505/glack-plough-on-group-seeking-retired-farmers-to-join-them.html)
+
+The retired farmers pictured during a recent visit to Foyle Search and Rescue.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Glack Plough On group seeking retired farmers to join them](https://www.derrynow.com/news/local-news/1653505/glack-plough-on-group-seeking-retired-farmers-to-join-them.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](https://www.derrynow.com/resizer/165/93/true/2024_11_12/iGen_Autos_%281%29-1731420794844.jpg--.jpg?1731420794976 "Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards")](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
+
+Aaron McGrath and Paul Donnelly proudly accept the Medium Independent Dealer award from Shannon Baker, Affiliation & Partnerships Manager at Codeweavers, category sponsor.
+
+[Home](https://www.derrynow.com/)
+
+[Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![John Deery (centre) from Eglinton survived a cardiac arrest at this year’s Belfast Marathon thanks to a life-saving defibrillator and CPR performed by Peter O’Hare (right holding the defib)](https://www.derrynow.com/resizer/165/93/true/2024_11_12/Fearghal%2C_John%2C_Peter%2C_The_Circuit_BHF_pic_1-1731419067408.JPG--.JPG?1731419068154 "John Deery (centre) from Eglinton survived a cardiac arrest at this year’s Belfast Marathon thanks to a life-saving defibrillator and CPR performed by Peter O’Hare (right holding the defib)")](https://www.derrynow.com/news/county-derry-post/1653812/belfast-marathon-man-who-had-a-cardiac-arrest-tells-his-survival-story-thanks-to-lifesaving-defibrillator.html)
+
+John Deery (centre) from Eglinton survived a cardiac arrest at this year’s Belfast Marathon thanks to a life-saving defibrillator and CPR performed by Peter O’Hare (right holding the defib)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Belfast Marathon man who had a cardiac arrest tells his survival story thanks to lifesaving defibrillator](https://www.derrynow.com/news/county-derry-post/1653812/belfast-marathon-man-who-had-a-cardiac-arrest-tells-his-survival-story-thanks-to-lifesaving-defibrillator.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
