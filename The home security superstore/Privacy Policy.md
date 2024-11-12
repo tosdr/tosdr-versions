@@ -20,7 +20,7 @@ All
 * B Rated Safes
 * Bathroom Safety
 * Baton Flashlights
-* Self-Defense Baton
+* Self-Defense Batons
 * Body Cams
 * Byrna® Guns
 * Cell Phone Taser & Stun Guns
