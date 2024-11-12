@@ -162,6 +162,7 @@ X
 ### Quick links
 
 * [H1161](https://huion.com/download?model=65)
+* [Huion’s Early Black Friday Deals Go Live on Nov 11](https://www.huion.com/news/huion-black-friday-sale-2024.html)
 * [Introducing Huion Kamvas 13 (Gen 3): It is Where Art Starts](https://www.huion.com/news/introducing-kamvas-13-gen-3.html)
 * [The Rookies Awards 2024, sponsored by Huion and others, announced its winners!](https://www.huion.com/news/the-rookies-award-2024-huion-sponsor.html)
 * [Huion Announces In-kind Sponsorship for TED2024 Conference](https://www.huion.com/news/huion-announces-sponsorship-for-ted2024-conference.html)
