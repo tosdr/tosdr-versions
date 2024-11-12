@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6/20241111T223347/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6/20241111T223347/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6_360x203.jpg)](https://www.wqad.com/article/news/local/fire-sterling-cimco-recycling-center/526-e901687c-9ebf-43ae-950e-4d47f95a18d8)
         
-        #### [Enter to win tickets to see Disney on Ice presents Frozen and Encanto](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
+        #### [Fire at Sterling recycling center prompts large response](https://www.wqad.com/article/news/local/fire-sterling-cimco-recycling-center/526-e901687c-9ebf-43ae-950e-4d47f95a18d8)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c86712ea-c90e-4367-bfe7-6998df46ff9e/20241111T165812/c86712ea-c90e-4367-bfe7-6998df46ff9e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c86712ea-c90e-4367-bfe7-6998df46ff9e/20241111T165812/c86712ea-c90e-4367-bfe7-6998df46ff9e_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-veteran-banner-program-river/526-53c71d50-eac1-4b32-8d5d-a40c8c88d694)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2602bb0-0788-45c0-9396-903854eeda46/20241111T221129/d2602bb0-0788-45c0-9396-903854eeda46_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2602bb0-0788-45c0-9396-903854eeda46/20241111T221129/d2602bb0-0788-45c0-9396-903854eeda46_360x203.jpg)](https://www.wqad.com/article/news/community/veterans-day-2024-quad-cities/526-3883df57-8c98-409c-bacb-dc12082260f7)
         
-        #### [City of Davenport unveils Veterans Tribute Banner Program](https://www.wqad.com/article/news/local/davenport-veteran-banner-program-river/526-53c71d50-eac1-4b32-8d5d-a40c8c88d694)
+        #### [Here's how the greater Quad Cities community recognized Veterans Day](https://www.wqad.com/article/news/community/veterans-day-2024-quad-cities/526-3883df57-8c98-409c-bacb-dc12082260f7)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2d0eb7a3-794c-4e33-af74-ab1f9d544261/20241111T134137/2d0eb7a3-794c-4e33-af74-ab1f9d544261_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2d0eb7a3-794c-4e33-af74-ab1f9d544261/20241111T134137/2d0eb7a3-794c-4e33-af74-ab1f9d544261_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b/20241112T043318/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b/20241112T043318/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A breezy and sunny Veterans Day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Much colder night... Bright skies again Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/ec3ab13d-c527-40e3-9859-0aa8c2f101f6/20241111T123458/ec3ab13d-c527-40e3-9859-0aa8c2f101f6_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ec3ab13d-c527-40e3-9859-0aa8c2f101f6/20241111T123458/ec3ab13d-c527-40e3-9859-0aa8c2f101f6_360x203.jpg)](https://www.wqad.com/article/news/nation-world/wildfires-both-us-coasts/507-9a22b994-4f70-4767-803e-1f51cb0d7ae8)
         
-        #### [Fire crews on both US coasts battle wildfires; 1 death in New York-New Jersey fire](https://www.wqad.com/article/news/nation-world/wildfires-both-us-coasts/507-9a22b994-4f70-4767-803e-1f51cb0d7ae8)
+        #### [Fire crews on both US coasts battle wildfires](https://www.wqad.com/article/news/nation-world/wildfires-both-us-coasts/507-9a22b994-4f70-4767-803e-1f51cb0d7ae8)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-48°
+31°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
