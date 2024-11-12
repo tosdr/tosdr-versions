@@ -132,7 +132,7 @@
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
-    * [Black Friday Pre-Order - FAQ](https://support.vinegarsyndrome.com/en-US/black-friday-pre-order-faq-787412)
+    * [Lost City of Black Friday - FAQ](https://support.vinegarsyndrome.com/en-US/lost-city-of-black-friday-sale-2024---faq-948691)
 *    [Log In/Create Account](https://vinegarsyndrome.com/account/login)
 
 [Cart 0](https://vinegarsyndrome.com/cart)
@@ -551,7 +551,7 @@
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
-    * [Black Friday Pre-Order - FAQ](https://support.vinegarsyndrome.com/en-US/black-friday-pre-order-faq-787412)
+    * [Lost City of Black Friday - FAQ](https://support.vinegarsyndrome.com/en-US/lost-city-of-black-friday-sale-2024---faq-948691)
 
 Privacy Policy
 ==============
