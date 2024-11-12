@@ -82,9 +82,9 @@ Menu
     * [Across The Miles](https://www.moonpig.com/uk/personalised-cards/christmas/from-across-the-miles/)
     * [Baby's First Christmas](https://www.moonpig.com/uk/personalised-cards/christmas/babys-first-christmas/)
     * [First Christmas Together](https://www.moonpig.com/uk/personalised-cards/christmas/1st-christmas-together/)
+    * [Letters From Santa](https://www.moonpig.com/uk/personalised-cards/christmas/letter-from-santa/all/)
     * [From The Pets](https://www.moonpig.com/uk/personalised-cards/christmas/from-pets/)
     * [Funny](https://www.moonpig.com/uk/personalised-cards/christmas/funny/)
-    * [Letters From Santa](https://www.moonpig.com/uk/personalised-cards/christmas/letter-from-santa/all/)
     * [New Designs](https://www.moonpig.com/uk/personalised-cards/christmas/new)
     * [Traditional](https://www.moonpig.com/uk/personalised-cards/christmas/traditional/)
     
@@ -98,6 +98,7 @@ Menu
     * [Hampers](https://www.moonpig.com/uk/gifts/christmas/hampers/)
     * [Home](https://www.moonpig.com/uk/gifts/homeware/christmas/)
     * [Kids Toys](https://www.moonpig.com/uk/gifts/christmas/toys-games/)
+    * [Flowers & Plants](https://www.moonpig.com/uk/flowers-and-plants/christmas/)
     
     ### Gift Inspiration
     
@@ -202,6 +203,7 @@ Menu
     ### Shop by Occasion
     
     * [Birthday](https://www.moonpig.com/uk/flowers-and-plants/birthday/)
+    * [Christmas](https://www.moonpig.com/uk/flowers-and-plants/christmas/)
     * [Anniversary](https://www.moonpig.com/uk/flowers-and-plants/anniversary/)
     * [Congratulations](https://www.moonpig.com/uk/flowers-and-plants/congratulations/)
     * [Sympathy](https://www.moonpig.com/uk/flowers-and-plants/sympathy/)
@@ -377,6 +379,7 @@ Menu
     ### Shop by Occasion
     
     * [Birthday](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/birthday/)
+    * [Christmas](https://www.moonpig.com/uk/gifts/experience-gifts/christmas/)
     * [Anniversary](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/anniversary/)
     * [Wedding](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/wedding/)
     * [Congratulations](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/congratulations/)
