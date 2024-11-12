@@ -4,7 +4,7 @@ Dismiss
 
 [Skip to Content](#main)
 
-[![Syracuse University Homepage](https://fastly.cdn.syracuse.edu/dds-images/syracuse_horizontal_1Line.svg)](https://www.syracuse.edu/)
+[![Syracuse University Homepage](https://assets.cdn.syr.edu/logos/syr_horizontal_1Line_orange.svg)](https://www.syracuse.edu/)
 
 * [Academics](https://www.syracuse.edu/academics/)
     
@@ -332,7 +332,7 @@ We will do our best to promptly deal with your request.
 
 [Apply Now](https://www.syracuse.edu/admissions-aid/application-process/undergraduate/apply/) [Request Information](https://www.syracuse.edu/admissions-aid/request-information/) [Tour Campus](https://www.syracuse.edu/admissions-aid/tour-campus/)
 
-[![Syracuse University Homepage](https://fastly.cdn.syracuse.edu/dds-images/syracuse_horizontal_1Line.svg)](https://www.syracuse.edu/)
+[![Syracuse University Homepage](https://assets.cdn.syr.edu/logos/syr_horizontal_1Line_orange.svg)](https://www.syracuse.edu/)
 
 900 South Crouse Ave.
 
