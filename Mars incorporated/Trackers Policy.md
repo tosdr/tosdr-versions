@@ -302,9 +302,9 @@ Europe
 
 Austria
 
-[Deutsch](https://aut.mars.com/)
+[Deutsch](https://www.mars.com/de-at)
 
-[Deutsch](https://aut.mars.com/)
+[Deutsch](https://www.mars.com/de-at)
 
 Belgium
 
@@ -404,9 +404,9 @@ Slovakia
 
 Spain
 
-[English](https://esp.mars.com/en/)
+[English](https://www.mars.com/en-es)
 
-[Español](https://esp.mars.com/)
+[Español](https://www.mars.com/es-es)
 
 Sweden
 
