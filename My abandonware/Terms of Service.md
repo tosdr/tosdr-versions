@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [The Human Body and How it Works: The Skeletal and Muscular Systems](https://www.myabandonware.com/game/the-human-body-and-how-it-works-the-skeletal-and-muscular-systems-szp)
-* [Categorizing: Detective Games](https://www.myabandonware.com/game/categorizing-detective-games-szo)
-* [Kittens](https://www.myabandonware.com/game/kittens-szn)
-* [Idea Box](https://www.myabandonware.com/game/idea-box-szl)
-* [Anemone](https://www.myabandonware.com/game/anemone-szg)
+* [B.A.D.](https://www.myabandonware.com/game/b-a-d-top)
+* [Back to the Moon](https://www.myabandonware.com/game/back-to-the-moon-too)
+* [AT-Robots](https://www.myabandonware.com/game/at-robots-ton)
+* [Astrorock](https://www.myabandonware.com/game/astrorock-tom)
+* [Around the World](https://www.myabandonware.com/game/around-the-world-tol)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
