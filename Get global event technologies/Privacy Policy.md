@@ -4,6 +4,7 @@ top of page
 
 * [Home](https://www.get.systems/en)
 * [Projects](https://www.get.systems/en/future-of-festivals)
+* [Landing Page](https://www.get.systems/en/webinar-registration)
 * [Landing Page](https://www.get.systems/en/report)
 * [Products](https://www.get.systems/en/products)
     * [Cashless Payment](https://www.get.systems/en/cashless)
