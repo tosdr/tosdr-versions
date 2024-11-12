@@ -671,6 +671,8 @@ Service Details
 
 \* indicates a required field
 
+What space needs to be painted?\* Select Interior Exterior Please select an item
+
 Please describe your service needs:
 
 What floor is the appliance located? Select Basement 1st Floor 2nd Floor 3rd Floor 4th Floor or Higher
