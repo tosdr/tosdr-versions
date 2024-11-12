@@ -234,7 +234,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 [![](https://resources.blogblog.com/img/icon18_edit_allbkg.gif)](https://www.blogger.com/page-edit.g?blogID=4872500577479423617&pageID=7582132933299209018&from=pencil "Edit page")
 
-[Email This](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=email "Email This")[BlogThis!](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=blog "BlogThis!")[Share to Twitter](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=twitter "Share to Twitter")[Share to Facebook](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=facebook "Share to Facebook")[Share to Pinterest](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=pinterest "Share to Pinterest")
+[Email This](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=email "Email This")[BlogThis!](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=blog "BlogThis!")[Share to X](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=twitter "Share to X")[Share to Facebook](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=facebook "Share to Facebook")[Share to Pinterest](https://www.blogger.com/share-post.g?blogID=4872500577479423617&pageID=7582132933299209018&target=pinterest "Share to Pinterest")
 
 #### No comments:
 
