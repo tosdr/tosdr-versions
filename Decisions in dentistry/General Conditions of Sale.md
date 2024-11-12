@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[University of Nebraska dental hygiene students gai ![University of Nebraska dental hygiene students gain hands-on experience treating patients with complex needs in an operating room setting with the hopes of improving the next generation of clinicians’ ability to effectively care for patients with special healthcare needs. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCPD5a1M3LB/) 
+
 [EARN 2 CEUs: Unraveling the Impact of Tooth Wear o ![EARN 2 CEUs: Unraveling the Impact of Tooth Wear on Oral Health⁠
 Explore the complexities of tooth wear and its profound effects on oral health, esthetics, and overall well-being.⁠
 By Bright Chang, DMD, MS⁠
@@ -173,18 +180,6 @@ By Bright Chang, DMD, MS⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCEwt2XMjjX/) 
-
-[Subscribe to our emails before November 13 and get ![Subscribe to our emails before November 13 and get an EXCLUSIVE early Black Friday CE offer! This is BIGGER than our Black Friday promotion and it’s ONLY available to email subscribers. Simply click the link in our bio to subscribe today then check your inbox on November 13.⁠
-⁠
-Don’t miss the opportunity for EXTRA SAVINGS!⁠
-⁠
-You're going to LOVE how much you learn!⁠
-⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCB-OCySqtu/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
