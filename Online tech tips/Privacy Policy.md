@@ -93,6 +93,18 @@ We use a third party to provide monetization technologies for our site. You can 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
 
+[![Google Vids dashboard sample - google-vids-dashboard-sample](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "google-vids-dashboard-sample - Online Tech Tips")
+
+![Google Vids dashboard sample - google-vids-dashboard-sample](https://www.online-tech-tips.com/wp-content/uploads/2024/11/google-vids-dashboard-sample-300x200.png "google-vids-dashboard-sample - Online Tech Tips")](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/)
+
+[News](https://www.online-tech-tips.com/category/news/) · 2 min read
+
+### [Google Launches Vids, an AI Video Tool for Workspace Users](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/)
+
+Announced back in April, Google is finally rolling out Vids—its video creation tool—to the Workspace ecosystem. With Google Vids, Workspace…
+
+Sodiq Olanrewaju · Nov 11, 2024
+
 [![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "whatsapp-messenger-on-an-android-phone - Online Tech Tips")
 
 ![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](https://www.online-tech-tips.com/wp-content/uploads/2024/11/whatsapp-messenger-on-an-android-phone-300x200.jpg "whatsapp-messenger-on-an-android-phone - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/)
@@ -117,9 +129,7 @@ Source: OpenAI OpenAI is incorporating web search functionality into ChatGPT to 
 
 Sodiq Olanrewaju · Nov 1, 2024
 
-[![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")
-
-![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/)
+[![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/)
 
 [News](https://www.online-tech-tips.com/category/news/) · 2 min read
 
@@ -128,16 +138,6 @@ Sodiq Olanrewaju · Nov 1, 2024
 WhatsApp is introducing a new way for users to save and manage contacts on their devices. The instant messaging platform…
 
 Sodiq Olanrewaju · Oct 29, 2024
-
-[![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch.png "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/)
-
-[News](https://www.online-tech-tips.com/category/news/) · 2 min read
-
-### [Samsung Releases Stable One UI 6 Watch Update](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/)
-
-After several months of development, Samsung is releasing the stable version of the Wear OS 5-based One UI 6 Watch.…
-
-Sodiq Olanrewaju · Oct 28, 2024
 
 [VIEW MORE POSTS](https://www.online-tech-tips.com/category/news/)
 
@@ -183,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![Google Vids dashboard sample - google-vids-dashboard-sample](https://www.online-tech-tips.com/wp-content/uploads/2024/11/google-vids-dashboard-sample-130x85.png "google-vids-dashboard-sample - Online Tech Tips")](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/ "Google Launches Vids, an AI Video Tool for Workspace Users")
+    
+    [Google Launches Vids, an AI Video Tool for Workspace Users](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/ "Google Launches Vids, an AI Video Tool for Workspace Users")Nov 11, 2024
+    
 * [![ - preview-media-0-Minecraft-Title-Image](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-0-Minecraft-Title-Image-130x85.png "preview-media-0-Minecraft-Title-Image - Online Tech Tips")](https://www.online-tech-tips.com/how-to-make-terracotta-in-minecraft/ "How to Make Terracotta in Minecraft")
     
     [How to Make Terracotta in Minecraft](https://www.online-tech-tips.com/how-to-make-terracotta-in-minecraft/ "How to Make Terracotta in Minecraft")Nov 8, 2024
@@ -194,10 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![ - preview-media-1-snapchat-featured](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-snapchat-featured-130x85.png "preview-media-1-snapchat-featured - Online Tech Tips")](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")
     
     [How to See Mutual Friends On Snapchat](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")Nov 4, 2024
-    
-* [![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](https://www.online-tech-tips.com/wp-content/uploads/2024/11/whatsapp-messenger-on-an-android-phone-130x85.jpg "whatsapp-messenger-on-an-android-phone - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/ "WhatsApp Introduces “Custom Lists” for Better Chat Filtering")
-    
-    [WhatsApp Introduces “Custom Lists” for Better Chat Filtering](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/ "WhatsApp Introduces “Custom Lists” for Better Chat Filtering")Nov 4, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
