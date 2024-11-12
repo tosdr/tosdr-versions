@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/verlies-de-moed-niet-je-bent-hiervoor-gemaakt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/de-oneerlijke-informatiemakelaar/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
