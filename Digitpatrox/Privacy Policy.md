@@ -20,16 +20,16 @@ Tuesday, November 12 2024
 
 Latest
 
-* [Execs are happy to let AI make decisions for them, and it’s got IT workers worried](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
-* [Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
-* [How to prevent safe emails from being sent to the Junk Email folder in Outlook](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
-* [6 Things You Should Never Do to Your Fridge](https://digitpatrox.com/6-things-you-should-never-do-to-your-fridge/)
-* [Android’s Quick Share Now Works on ARM Windows Laptops](https://digitpatrox.com/androids-quick-share-now-works-on-arm-windows-laptops/)
-* [Working all that overtime won’t help you hit KPIs – but it will impact your mental wellbeing](https://digitpatrox.com/working-all-that-overtime-wont-help-you-hit-kpis-but-it-will-impact-your-mental-wellbeing/)
-* [5 Essential Basic HTML Rules for Beginners](https://digitpatrox.com/5-essential-basic-html-rules-for-beginners/)
-* [NYT Strands today — hints, spangram and answers for game #254 (Tuesday, November 12 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-254-tuesday-november-12-2024/)
-* [HIBP notifies 57 million people of Hot Topic data breach](https://digitpatrox.com/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
-* [How to quit Elon Musk’s Twitter / X](https://digitpatrox.com/how-to-quit-elon-musks-twitter-x/)
+* [Valve finally made a white Steam Deck that you can actually buy](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
+* [A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
+* [The Best Time of the Year to Start Working Out Is Now](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
+* [Best and Worst Cooktop Brands of 2024](https://digitpatrox.com/best-and-worst-cooktop-brands-of-2024/)
+* [How to Add Wi-Fi to a Desktop Computer](https://digitpatrox.com/how-to-add-wi-fi-to-a-desktop-computer/)
+* [5 Best Salary Benchmarking Tools for Competitive Pay Analysis](https://digitpatrox.com/5-best-salary-benchmarking-tools-for-competitive-pay-analysis/)
+* [Valve reveals limited edition white Steam Deck — just in time for Black Friday](https://digitpatrox.com/valve-reveals-limited-edition-white-steam-deck-just-in-time-for-black-friday/)
+* [iPhones now auto-restart to block access to encrypted data after long idle times](https://digitpatrox.com/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
+* [Google Learn About takes AI chatbot answers a step further](https://digitpatrox.com/google-learn-about-takes-ai-chatbot-answers-a-step-further/)
+* [Today’s Wordle Answer and Hints (November 12, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-12-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/SbReddXybRDUpfjmS5jrRA-1200-80.jpg)](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
+* [![](https://cdn.vox-cdn.com/thumbor/uO_irQp0i3vzrArMyweZ-ELw2KE=/0x0:2400x1350/1200x628/filters:focal(1445x937:1446x938)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727587/steam_deck_white_001.jpg)](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
     
-    [Execs are happy to let AI make decisions for them, and it’s got IT workers worried](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
+    [Valve finally made a white Steam Deck that you can actually buy](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
     
-    22 mins ago
+    29 seconds ago
     
-* [![](https://lifehacker.com/imagery/articles/01JCEFX0AP4RKZXNNBDA6ZFSQJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/share-files-from-the-taskbar-on-windows-11.jpg)](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
     
-    [Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
+    [A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
     
-    1 hour ago
+    19 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2019/11/outlook-safe-sender-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
+* [![](https://lifehacker.com/imagery/articles/01HF2H2ZZQWHG8CQFPS0X3KRQZ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
     
-    [How to prevent safe emails from being sent to the Junk Email folder in Outlook](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
+    [The Best Time of the Year to Start Working Out Is Now](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
     
-    1 hour ago
+    3 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1665696976/prod/content/dam/CRO-Images-2022/Newsletters/Smarter/CR-Smarter-InlineHero-Top-5-Reasons-Why-Your-Fridge-Is-Broken-v2-0922)](https://digitpatrox.com/6-things-you-should-never-do-to-your-fridge/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730475882/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Best-Cooktops-1124)](https://digitpatrox.com/best-and-worst-cooktop-brands-of-2024/)
     
-    [6 Things You Should Never Do to Your Fridge](https://digitpatrox.com/6-things-you-should-never-do-to-your-fridge/)
+    [Best and Worst Cooktop Brands of 2024](https://digitpatrox.com/best-and-worst-cooktop-brands-of-2024/)
     
-    1 hour ago
+    3 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/quickshare-from-a-pc-to-a-phone.jpg)](https://digitpatrox.com/androids-quick-share-now-works-on-arm-windows-laptops/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_759581101.png)](https://digitpatrox.com/how-to-add-wi-fi-to-a-desktop-computer/)
     
-    [Android’s Quick Share Now Works on ARM Windows Laptops](https://digitpatrox.com/androids-quick-share-now-works-on-arm-windows-laptops/)
+    [How to Add Wi-Fi to a Desktop Computer](https://digitpatrox.com/how-to-add-wi-fi-to-a-desktop-computer/)
     
-    1 hour ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [22 mins ago
+* [29 seconds ago
     
-    ### Execs are happy to let AI make decisions for them, and it’s got IT workers worried](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
-* [1 hour ago
+    ### Valve finally made a white Steam Deck that you can actually buy](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
+* [19 mins ago
     
-    ### Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
-* [1 hour ago
+    ### A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
+* [3 hours ago
     
-    ### How to prevent safe emails from being sent to the Junk Email folder in Outlook](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
+    ### The Best Time of the Year to Start Working Out Is Now](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
 
 Most Popular Topics
 
-* [September 1, 2024
+* [August 21, 2024
     
-    ### I have $250 to upgrade my bedding in the Labor Day sales — here’s what I’m buying](https://digitpatrox.com/i-have-250-to-upgrade-my-bedding-in-the-labor-day-sales-heres-what-im-buying/)
-* [August 30, 2024
+    ### Apple Vision Pro fails to ignite business interest – Computerworld](https://digitpatrox.com/apple-vision-pro-fails-to-ignite-business-interest-computerworld/)
+* [September 9, 2024
     
-    ### 4 Things People Get Wrong About Head Lice](https://digitpatrox.com/4-things-people-get-wrong-about-head-lice/)
-* [September 23, 2024
+    ### Apple Watch 10 preorders — save up to $365 right now](https://digitpatrox.com/apple-watch-10-preorders-save-up-to-365-right-now/)
+* [August 24, 2024
     
-    ### Steven Johnson on Google, NotebookLM, and AI research](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
+    ### Boost your mobility and ease tension in just 10 minutes with this stretching routine](https://digitpatrox.com/boost-your-mobility-and-ease-tension-in-just-10-minutes-with-this-stretching-routine/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [4 hours ago
     
-    ### 5 Essential Basic HTML Rules for Beginners](https://digitpatrox.com/5-essential-basic-html-rules-for-beginners/)
-* [2 hours ago
+    ### Valve reveals limited edition white Steam Deck — just in time for Black Friday](https://digitpatrox.com/valve-reveals-limited-edition-white-steam-deck-just-in-time-for-black-friday/)
+* [5 hours ago
     
-    ### NYT Strands today — hints, spangram and answers for game #254 (Tuesday, November 12 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-254-tuesday-november-12-2024/)
-* [3 hours ago
+    ### iPhones now auto-restart to block access to encrypted data after long idle times](https://digitpatrox.com/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
+* [5 hours ago
     
-    ### HIBP notifies 57 million people of Hot Topic data breach](https://digitpatrox.com/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
+    ### Google Learn About takes AI chatbot answers a step further](https://digitpatrox.com/google-learn-about-takes-ai-chatbot-answers-a-step-further/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
