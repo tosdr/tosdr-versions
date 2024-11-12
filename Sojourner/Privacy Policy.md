@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-68e610943c1a889d15b5776204b1cec5
+164a5a8c5fe2dbd8197010f3f9c1368d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![New snow clasp](https://www.sojourner.biz/images/cache/SKU0368front.200.jpg)](https://www.sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
+[![7 mm transparent purple heart beads](https://www.sojourner.biz/images/cache/glass/HRT029.200.jpg)](https://www.sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
 
-#### [New snow clasp](https://www.sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
+#### [7 mm transparent purple heart beads](https://www.sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
 
-$13.00
+$2.00
 
 ### Best Sellers
 
