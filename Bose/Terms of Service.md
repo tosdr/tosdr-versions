@@ -2,11 +2,11 @@
 
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
-Exclusive: Sandstone QuietComfort Ultra Headphones are now available. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
+Exclusive color drop: Ultra Open Earbuds are now available in Carbon Blue. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1)
 
 Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
-My Bose Members get a Holiday Bonus Card with every online order above $100 for future purchases. [Terms apply](https://www.bose.com/holiday-bonus-card-terms-and-conditions)
+My Bose members get a Holiday Bonus Card up to $100 to use on future orders. [Terms apply](https://www.bose.com/holiday-bonus-card-terms-and-conditions)
 
 [Cancel](#)
 
