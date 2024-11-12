@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/ "Pinsent Masons")
+[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
 
 1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 2. Privacy Policy [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy) 
@@ -183,9 +183,7 @@ Please enter a search term
     * [ED&I maturity assessment](https://www.pinsentmasons.com/solutions/d-i-maturity-assessment)
     * [Electrify - multi-site development](https://www.pinsentmasons.com/solutions/electrify)
     * [Employment Law +](https://www.pinsentmasons.com/solutions/employment-law-plus)
-    * [Human Cyber Index - security culture development](https://www.pinsentmasons.com/solutions/human-cyber-index)
     * [Medtech Express - medtech startup documentation](https://www.pinsentmasons.com/solutions/medtech-express)
-    * [Pay Equity Solution](https://www.pinsentmasons.com/solutions/pay-equity-solution)
     * [Pensions Solutions](https://www.pinsentmasons.com/solutions/pensions-services)
     * [P2C: Procurement to Completion](https://www.pinsentmasons.com/solutions/construction-procurement-contracts)
     * [Schrems II Managed Legal Service](https://www.pinsentmasons.com/solutions/schrems-ii-managed-legal-service)
