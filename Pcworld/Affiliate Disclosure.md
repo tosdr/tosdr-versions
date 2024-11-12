@@ -154,6 +154,7 @@
 Type your search and hit enter
 
 * Hot Topics
+* [PCWorld Awards](https://www.pcworld.com/best-consumer-tech-2024-2025)
 * [Ultimate Holiday Shopping Guide](https://www.pcworld.com/ultimate-holiday-shopping-guide)
 * [Best laptops](https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html)
 * [Best VPN](https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html)
