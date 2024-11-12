@@ -26,7 +26,7 @@ Apply to college
 
 Pay for college
 
-[Overview](https://www.commonapp.org/plan/paying-for-college)[Family resources](https://www.commonapp.org/family)
+[Overview](https://www.commonapp.org/plan/paying-for-college)[Family resources](https://www.commonapp.org/plan/for-families)
 
 Menu
 
