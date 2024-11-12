@@ -2,10 +2,7 @@
 
 [](https://www.joinhoney.com/)
 
-* Shop
-    
 * [Droplist](https://www.joinhoney.com/features/droplist)
-* [Rewards](https://www.joinhoney.com/features/paypalrewards)
 * [Earn Gift Cards](https://www.joinhoney.com/invite)
 
 JoinLog in
