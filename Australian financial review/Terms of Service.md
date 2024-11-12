@@ -323,9 +323,8 @@ Advertise
 
 [![ ](https://static.ffx.io/images/$zoom_0.1345%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/23eee257fa794a2f7e2ce1c54c973f789b0e02e6)](https://www.afr.com/technology/samsung-s-new-tablet-stuck-to-our-walls-like-spaghetti-20241108-p5kozq)
 
-### [Samsung’s new tablet stuck to our walls like spaghetti](https://www.afr.com/technology/samsung-s-new-tablet-stuck-to-our-walls-like-spaghetti-20241108-p5kozq)
+### [This new tablet is perfect for Netflix and so much more](https://www.afr.com/technology/samsung-s-new-tablet-stuck-to-our-walls-like-spaghetti-20241108-p5kozq)
 
-* 54 mins ago
 * John Davidson
 
 * ### [Why the Amazon is best explored by water](https://www.afr.com/life-and-luxury/travel/why-the-amazon-is-best-explored-by-water-20241030-p5kmkk)
