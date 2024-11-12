@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [The virus behind an outbreak in Brazil can spread from mother to fetus](https://www.sciencenews.org/article/virus-spread-fetus-womb-oropouche)
+            
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")3 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [A twisted protein sheds light on chronic wasting disease in deer](https://www.sciencenews.org/article/chronic-wasting-disease-deer-prion)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")1 hour ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")7 hours ago
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [A common drug may help treat a rare genetic disease](https://www.sciencenews.org/article/common-drug-treat-rare-genetic-disease)
             
             By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")November 8, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [‘The Power of Prions’ explores misfolded proteins’ role in brain diseases](https://www.sciencenews.org/article/misfolded-proteins-brain-diseases)
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")November 6, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A twisted protein sheds light on chronic wasting disease in deer](https://www.sciencenews.org/article/chronic-wasting-disease-deer-prion)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")1 hour ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")7 hours ago
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
@@ -163,6 +163,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
     * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
+            ### [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")5 hours ago
+            
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
             ### [Antimatter could travel by truck, a test with protons shows](https://www.sciencenews.org/article/antimatter-protons-travel-truck)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 8, 2024
@@ -173,12 +179,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 7, 2024
             
-        * [Tech](https://www.sciencenews.org/topic/tech)
-            
-            ### [Feather-inspired airplane flaps could boost flight performance](https://www.sciencenews.org/article/feather-inspired-airplane-flaps)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 5, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Uranus may have looked weird when NASA’s Voyager 2 flew by](https://www.sciencenews.org/article/uranus-weird-look-voyager-2-flyby)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")23 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 11, 2024
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
