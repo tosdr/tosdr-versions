@@ -302,9 +302,9 @@ Europe
 
 Austria
 
-[Deutsch](https://aut.mars.com/)
+[Deutsch](https://www.prettylitter.com/de-at)
 
-[Deutsch](https://aut.mars.com/)
+[Deutsch](https://www.prettylitter.com/de-at)
 
 Belgium
 
@@ -404,9 +404,9 @@ Slovakia
 
 Spain
 
-[English](https://esp.mars.com/en/)
+[English](https://www.prettylitter.com/en-es)
 
-[Español](https://esp.mars.com/)
+[Español](https://www.prettylitter.com/es-es)
 
 Sweden
 
