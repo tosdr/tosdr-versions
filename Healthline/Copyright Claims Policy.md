@@ -190,15 +190,14 @@
 
 Subscribe
 
-[#### Multiple Sclerosis](https://www.healthline.com/multiple-sclerosis)
+[#### Weight Management](https://www.healthline.com/weight-management)
 
-* [Newly Diagnosed](https://www.healthline.com/multiple-sclerosis/ms-basics)
-* [Treatment](https://www.healthline.com/multiple-sclerosis/treatment)
-* [Living Well with MS](https://www.healthline.com/multiple-sclerosis/living-with-ms)
-* [What to Eat](https://www.healthline.com/multiple-sclerosis/food)
-* [Well-Being & Support](https://www.healthline.com/multiple-sclerosis/mental-health-ms)
-* [Community](https://apps.apple.com/us/app/ms-healthline/id1040195462)
-* [Newsletter](https://www.healthline.com/newsletter-signup/multiple-sclerosis)
+* [Nutrition](https://www.healthline.com/weight-management/nutrition)
+* [Fitness](https://www.healthline.com/weight-management/fitness)
+* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
+* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
+* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
+* [Apps](https://www.healthline.com/weight-management/apps-products)
 
 Ad & Sponsorship Policy
 =======================
