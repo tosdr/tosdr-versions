@@ -137,7 +137,7 @@
 
 ### mmWave spectrum auction moves a step closer
 
-11 November 2024](https://www.ofcom.org.uk/spectrum/frequencies/mmwave-spectrum-auction-moves-a-step-closer/?language=en)
+11 November 2024](https://www.ofcom.org.uk/spectrum/frequencies/mmwave-spectrum-auction-moves-a-step-closer/)
 
 [![Abstract Online (Web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/abstract-online-web.jpg?width=1920&height=1085&quality=80)
 
