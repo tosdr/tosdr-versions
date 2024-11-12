@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/een-simulatie-als-initiatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/transform-fear-through-core-issue-work/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
