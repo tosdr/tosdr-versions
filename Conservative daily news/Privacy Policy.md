@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [What’s In Your Range Bag, Matthew Kutz?](https://www.thegunpage.com/whats-in-your-range-bag-matthew-kutz/10611812)
 * [Trump Reaffirms Push for National Concealed Carry Reciprocity](https://www.thegunpage.com/trump-reaffirms-push-for-national-concealed-carry-reciprocity/10611810)
 * [Post-Election Worries? Don’t Panic Buy Your First Gun!](https://www.thegunpage.com/post-election-worries-dont-panic-buy-your-first-gun/10611806)
 * [Flat Tire Turned Machete Attack, Takes a Bad Day to Worse](https://www.thegunpage.com/flat-tire-turned-machete-attack-takes-a-bad-day-to-worse/10611803)
@@ -190,7 +191,6 @@ Recent Posts
 * [High Speed Gear Gen 2 Operator Belt Offers Lightweight Strength And Secure Fit](https://www.thegunpage.com/high-speed-gear-gen-2-operator-belt-offers-lightweight-strength-and-secure-fit/10611805)
 * [Talladega Marksmanship Park Electronic Targets Receive Upgrades, Including New Tablets](https://www.thegunpage.com/talladega-marksmanship-park-electronic-targets-receive-upgrades-including-new-tablets/10611802)
 * [Thank You Veterans](https://www.thegunpage.com/thank-you-veterans-7/10611797)
-* [Tandemkross Accelerator Forward Thumb Ledge For The Ruger Mark IV 22/45](https://www.thegunpage.com/tandemkross-accelerator-forward-thumb-ledge-for-the-ruger-mark-iv-22-45/10611800)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
