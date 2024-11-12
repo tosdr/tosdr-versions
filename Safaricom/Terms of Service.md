@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [750 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [761 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -221,7 +221,35 @@ Customer Testimonials
 
 out of 5 based on
 
-[750 reviews](https://www.trustpilot.com/review/www.safari.com)
+[761 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 12, 2024
+
+> Dolan won the sale
+
+> Dolan was very helpful in explaining the experience and how to optimise the time there
+
+Jacomi
+
+,
+
+AU
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 11, 2024
+
+> Top notch !
+
+> What amazing service . Shann was very helpful especially given the time zone differences she worked all weekend on a very tight timeline
+
+peter price
+
+,
+
+AU
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -320,34 +348,6 @@ Melissa Solomon
 ,
 
 US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 7, 2024
-
-> Mel was incredible
-
-> Mel was incredible, she found great options and was quick to always aim for our comfort, I was very satisfied!!!!
-
-Larissa Santos
-
-,
-
-AU
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 7, 2024
-
-> I tried setting everything up myself
-
-> I tried setting everything up myself, but ran into a few hiccups. Less than an hour after reaching out to them in the late afternoon from overseas, I had a response. Leigh-Ann Croeser was quick to help me with all my lodging/ transport/ and special dietary plan needs. I'm looking forward to taking my special someone to this amazing place!
-
-Jason Albert
-
-,
-
-us
 
 VIP service
 
