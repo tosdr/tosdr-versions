@@ -287,17 +287,17 @@ Top of Today
     
     ### ['Something is clearly going on': Video shows masked man allegedly trying to kidnap 6-year-old Jewish boy walking with his father](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
     
-3. [![Supreme Court Justice Sonia Sotomayor speaks during a panel discussion at the winter meeting of the National Governors Association, Friday, Feb. 23, 2024, in Washington.](https://am24.mediaite.com/lc/cnt/uploads/2024/07/AP24054772084464-432x243.jpeg)](https://lawandcrime.com/high-profile/court-needs-her-now-more-than-ever-justice-sotomayor-reportedly-thumbs-her-nose-at-people-calling-for-her-resignation-before-trump-takes-office/)
+3. [![Joseph Haren (Comal County Criminal District Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Joseph-Haren-Comal-County-Criminal-District-Attorneys-Office-432x243.jpg)](https://lawandcrime.com/crime/man-so-drunk-field-sobriety-tests-were-too-dangerous-sentenced-to-life-in-prison-for-repeated-dwi-convictions/)
     
-    ### ['Court needs her now more than ever': Justice Sotomayor reportedly thumbs her nose at people calling for her resignation before Trump takes office](https://lawandcrime.com/high-profile/court-needs-her-now-more-than-ever-justice-sotomayor-reportedly-thumbs-her-nose-at-people-calling-for-her-resignation-before-trump-takes-office/)
+    ### [Man so drunk field sobriety tests were 'too dangerous' sentenced to life in prison for repeated DWI convictions](https://lawandcrime.com/crime/man-so-drunk-field-sobriety-tests-were-too-dangerous-sentenced-to-life-in-prison-for-repeated-dwi-convictions/)
     
-4. [![Juan Antonio Alvarado Saenz](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Cecilia-Robles-Ochoa-and--432x243.jpg)](https://lawandcrime.com/crime/couple-murdered-each-other-as-their-11-year-old-son-played-video-games-in-next-room-cops/)
+4. [![Inset: Celebrity chef Tobias Dorzon with Usher (Instagram). Background: Surveillance footage showing the Tobias Dorzon shooting (WTTG/YouTube).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Tobias-Dorzon-with-Usher-432x243.jpg)](https://lawandcrime.com/crime/please-dont-kill-me-bro-celebrity-chef-says-he-is-grateful-to-be-alive-after-being-gunned-down-with-girlfriend-in-robbery-caught-on-video/)
     
-    ### [Couple murdered each other as their 11-year-old son played video games in next room: Cops](https://lawandcrime.com/crime/couple-murdered-each-other-as-their-11-year-old-son-played-video-games-in-next-room-cops/)
+    ### ['Please don't kill me, bro': Celebrity chef says he is 'grateful' to be alive after being gunned down with girlfriend in robbery caught on video](https://lawandcrime.com/crime/please-dont-kill-me-bro-celebrity-chef-says-he-is-grateful-to-be-alive-after-being-gunned-down-with-girlfriend-in-robbery-caught-on-video/)
     
-5. [![Thomas Perez being interrogated by detectives (KTTV/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Thomas-Perez-432x243.jpg)](https://lawandcrime.com/crime/it-is-acceptable-and-perfectly-legal-police-chief-defends-cops-on-social-media-for-getting-man-to-confess-to-murder-that-didnt-happen-using-alleged-psychological-torture/)
+5. [![Nicholas Wayne Hamlett (Monroe County (Tenn.) Sheriff's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Nicholas-Wayne-Hamlett-432x243.jpg)](https://lawandcrime.com/crime/hospital-worker-helps-nab-murder-suspect-who-staged-killing-as-bear-attack-to-steal-victims-identity-cops/)
     
-    ### ['It is acceptable and perfectly legal': Police chief defends cops on social media for getting man to confess to murder that didn't happen using alleged 'psychological torture'](https://lawandcrime.com/crime/it-is-acceptable-and-perfectly-legal-police-chief-defends-cops-on-social-media-for-getting-man-to-confess-to-murder-that-didnt-happen-using-alleged-psychological-torture/)
+    ### [Hospital worker helps nab murder suspect who staged killing as bear attack to steal victim's identity: Cops](https://lawandcrime.com/crime/hospital-worker-helps-nab-murder-suspect-who-staged-killing-as-bear-attack-to-steal-victims-identity-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
