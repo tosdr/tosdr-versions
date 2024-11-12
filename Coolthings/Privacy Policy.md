@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/hori-wireless-horipad-for-steam-game-controller-pc-gaming/)
+    
+    [Hori Wireless Horipad for Steam Makes Your Gaming PC Feel Like a Game Console](https://www.coolthings.com/hori-wireless-horipad-for-steam-game-controller-pc-gaming/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/mudita-kompakt-minimalist-phone-pocket-sized-ereader/)
     
     [Mudita Kompakt Puts Minimalist Phone Functions in a Pocket-Sized E-Reader](https://www.coolthings.com/mudita-kompakt-minimalist-phone-pocket-sized-ereader/)
@@ -24,11 +29,6 @@
     
     [eufy SmartTrack Card E30 Rechargeable Wallet Tracker Only Needs Once-a-Year Charging](https://www.coolthings.com/eufy-smarttrack-card-e30-rechargeable-wallet-tracker-apple-find-my/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/vizio-micme-soundbar-subwoofer-two-mics-karaoke-machine/)
-    
-    [Vizio MicMe Transforms from Soundbar to Karaoke Machine](https://www.coolthings.com/vizio-micme-soundbar-subwoofer-two-mics-karaoke-machine/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/harlowe-sol-5-magsafe-camera-light-adjustable-lighting-angles-for-iphone/)
+    
+    [Harlowe Sol 5 MagSafe Camera Light Brings Versatile Lighting Angles to Your iPhone](https://www.coolthings.com/harlowe-sol-5-magsafe-camera-light-adjustable-lighting-angles-for-iphone/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nikon-z50-ii-mirrorless-camera-one-touch-imaging-presets-picture-control/)
     
     [Nikon Z50 II Offers One-Touch Imaging Presets to Instantly Change Color Tones and Set the Mood for Any Scene](https://www.coolthings.com/nikon-z50-ii-mirrorless-camera-one-touch-imaging-presets-picture-control/)
@@ -52,11 +57,6 @@
     
     [JanSport Venture Pack Finally Adds a Travel Backpack to the Popular Outfit’s Range](https://www.coolthings.com/jansport-venture-pack-travel-backpack-40l-carry-on/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
-    
-    [Insta360 Ace Pro 2 Brings 8K Video, Dual AI Chips, and Improved Audio Recording](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
