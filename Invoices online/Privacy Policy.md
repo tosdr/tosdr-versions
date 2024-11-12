@@ -117,63 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=51984598)  
-Tantra Sound and Lightz
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=191767527)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=207607197)  
-MOSELA GROUP Pty(ltd)
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=153847098)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=11332499)  
-Blue Bulls Rugby Coaches Association
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=28214368)  
+CLEVER STUDENTS
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=201433080)  
-Norton Medical & Consult - Namibia
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=101101313)  
+J.M. HUMAN RESOURCES
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=127510014)  
-Itroniq (Pty) Ltd
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=121730309)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=58495528)  
-Myfinance-Online
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=111730504)  
+Moremi Kitchens Rustenburg
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=138298558)  
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=178410458)  
+Moulded Wax SA - The Candle Store
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=25170734)  
+VerdanTech Pty Ltd
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=103762828)  
 Tiny Cuddles Photography
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=104661301)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=170935611)  
+Brilliant Roof Products
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=108684818)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=8657980)  
+MONSTER SECURITY SERVICES
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=92820252)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=172125531)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=94290850)  
-Oak Tree Immigration
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=195172435)  
+Wiselink Broadband Dundee
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=187425188)  
-MONSTER CONNECT (PTY) LTD
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=167305795)  
+Imhoff Equestrian Centre
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=38012984)  
-NIMAWELL
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=121127054)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=7bcc4a89ca23258af77f8087ba911ccc3b4f865949d98835d98f84fd35bbe7e1&c=135191956)  
-Waterfinatics Swim School
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=d75734b31a18353bbc95b5c3fd64203d1b65a1267fade1158ec1b2650101e610&c=107225083)  
+Vplay Letsheng Mall
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
