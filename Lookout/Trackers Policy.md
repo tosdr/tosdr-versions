@@ -103,7 +103,7 @@
     
     Recent Report
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/67251cd5175c179537b9cbd4_gen-ai-shield.png)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/67251cd5175c179537b9cbd4_gen-ai-shield.avif)
     
     Webflow in 2021
     
