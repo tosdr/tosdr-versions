@@ -8,10 +8,10 @@
 
 *  
     
-* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-voter-fraud-lottery-illegal/)
-* [Election Deniers](https://www.motherjones.com/politics/2024/10/how-election-deniers-took-over-georgia-election-system-trump/)
-* [Trump](https://www.motherjones.com/politics/2024/10/student-debt-relief-donald-trump-jd-vance/)
-* [Syria](https://www.motherjones.com/politics/2024/10/trump-turkey-erdogan-syria-kurds-conflict-of-interest/)
+* [Poll Workers](https://www.motherjones.com/politics/2024/11/disability-poll-worker-election-ballot-accessibility/)
+* [Trump](https://www.motherjones.com/politics/2024/11/press-freedom-groups-trump-threat/)
+* [Elon Musk’s “Election Integrity Community”](https://www.motherjones.com/politics/2024/11/elon-musk-election-integrity-community-arizona/)
+* [Private Prisons](https://www.motherjones.com/politics/2024/11/the-other-big-election-winners-private-prisons/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-voter-fraud-lottery-illegal/)
-* [Election Deniers](https://www.motherjones.com/politics/2024/10/how-election-deniers-took-over-georgia-election-system-trump/)
-* [Trump](https://www.motherjones.com/politics/2024/10/student-debt-relief-donald-trump-jd-vance/)
-* [Syria](https://www.motherjones.com/politics/2024/10/trump-turkey-erdogan-syria-kurds-conflict-of-interest/)
+* [Poll Workers](https://www.motherjones.com/politics/2024/11/disability-poll-worker-election-ballot-accessibility/)
+* [Trump](https://www.motherjones.com/politics/2024/11/press-freedom-groups-trump-threat/)
+* [Elon Musk’s “Election Integrity Community”](https://www.motherjones.com/politics/2024/11/elon-musk-election-integrity-community-arizona/)
+* [Private Prisons](https://www.motherjones.com/politics/2024/11/the-other-big-election-winners-private-prisons/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
