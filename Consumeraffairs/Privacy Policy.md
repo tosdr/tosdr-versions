@@ -135,7 +135,7 @@ Senior
 * [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
     
 
-[News](https://www.consumeraffairs.com/news04/)
+[News](https://www.consumeraffairs.com/news/)
 
 [Write a review](https://www.consumeraffairs.com/review/write/)
 
@@ -280,7 +280,7 @@ Senior
 * [View all Senior](https://www.consumeraffairs.com/elder-care-planning/)
     
 
-[News](https://www.consumeraffairs.com/news04/)
+[News](https://www.consumeraffairs.com/news/)
 
 [Write a review](https://www.consumeraffairs.com/review/write/)
 
