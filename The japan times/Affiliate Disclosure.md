@@ -31,8 +31,8 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Trump transition](https://www.japantimes.co.jp/tag/donald-trump/ "Trump transition")
+* [LDP / DPP](https://www.japantimes.co.jp/tag/LDP/ "LDP / DPP")
 * [‘Yami baito’ burglaries](https://www.japantimes.co.jp/tag/theft/ "‘Yami baito’ burglaries")
-* [Japan’s political transition](https://www.japantimes.co.jp/news/japan/politics/ "Japan’s political transition")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
 Editors' Picks
 --------------
@@ -184,9 +184,11 @@ By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Osaka brothel owner arrested for allegedly forcing 150 into prostitution](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-  [![Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/06/432470.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investigators from the Osaka Prefectural Police conduct a search last month at the high-end Japanese restaurant Tenhime, operated by Tateki Okuda, in the city of Osaka.")](https://www.japantimes.co.jp/news/2024/11/06/japan/crime-legal/osaka-brothels-prostitution/ "Osaka brothel owner arrested for allegedly forcing 150 into prostitution")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
 Podcast
 -------
@@ -249,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[In Susie Wiles, Trump picks quiet competence for chief of staff](https://www.japantimes.co.jp/news/2024/11/12/world/politics/susie-wiles-trump-chief-staff/ "In Susie Wiles, Trump picks quiet competence for chief of staff")
-
-5 mins ago
-
-[One of Trump’s few checks on power? The Supreme Court he shaped.](https://www.japantimes.co.jp/news/2024/11/12/world/politics/trump-power-supreme-court/ "One of Trump’s few checks on power? The Supreme Court he shaped.")
-
-44 mins ago
-
-[Boiling water reactor at Shimane nuclear plant to be restarted in early December](https://www.japantimes.co.jp/news/2024/11/12/japan/shimane-nuclear-reactor-back-online/ "Boiling water reactor at Shimane nuclear plant to be restarted in early December")
+[1 in 5 Japanese households to consist of one person age 65 or older in 2050](https://www.japantimes.co.jp/news/2024/11/12/japan/society/single-person-households/ "1 in 5 Japanese households to consist of one person age 65 or older in 2050")
 
 1 hours ago
 
-[Russian nuclear-powered submarine sails through Soya Strait](https://www.japantimes.co.jp/news/2024/11/12/japan/russian-submarine-sail-soya-strait/ "Russian nuclear-powered submarine sails through Soya Strait")
+[Osaka governor announces candidacy for Nippon Ishin leadership](https://www.japantimes.co.jp/news/2024/11/12/japan/politics/nippon-ishin-yoshimura-leadership-election/ "Osaka governor announces candidacy for Nippon Ishin leadership")
 
 1 hours ago
 
-[Crime costs Latin America and Caribbean almost what region spends on education](https://www.japantimes.co.jp/news/2024/11/12/world/crime-legal/crime-latam-caribbean-idb/ "Crime costs Latin America and Caribbean almost what region spends on education")
+[Nissan surges after firm linked to hedge fund takes 2.5% stake](https://www.japantimes.co.jp/business/2024/11/12/companies/nissan-activist-investor-stocks/ "Nissan surges after firm linked to hedge fund takes 2.5% stake")
 
 1 hours ago
+
+[Ishiba's minority government begins first day of business with focus on reform](https://www.japantimes.co.jp/news/2024/11/12/japan/politics/ishiba-political-funds/ "Ishiba's minority government begins first day of business with focus on reform")
+
+1 hours ago
+
+[India set to overtake Japan in GDP rankings](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
