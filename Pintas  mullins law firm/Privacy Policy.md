@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What causes mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-causes-mesothelioma-lung-cancer-scaled.jpg "What Causes Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/ "What Causes Mesothelioma Lung Cancer?")
+[![What is cancer of the lining of the lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-cancer-of-the-lining-of-the-lung.jpg "What Is Cancer of the Lining of the Lung?")](https://www.pintas.com/lung-cancer/what-is-cancer-of-the-lining-of-the-lung/ "What Is Cancer of the Lining of the Lung?")
 
-[#### What Causes Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/)
+[#### What Is Cancer of the Lining of the Lung?](https://www.pintas.com/lung-cancer/what-is-cancer-of-the-lining-of-the-lung/)
 
-[![Financial abuse types in assisted living](https://www.pintas.com/wp-content/uploads/2021/03/fraud-spelled-out-in-scrabble-letters-300x108.jpg "Financial Abuse Types in Assisted Living")](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/ "Financial Abuse Types in Assisted Living")
+[![Can asbestos cause pancreatic cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-can-asbestos-cause-pancreatic-cancer.jpg "Can Asbestos Cause Pancreatic Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/ "Can Asbestos Cause Pancreatic Cancer?")
 
-[#### Financial Abuse Types in Assisted Living](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/)
+[#### Can Asbestos Cause Pancreatic Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/)
 
-[![Who qualifies for a sexual abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-scaled-e1681853603360-300x230.jpg "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/ "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")
+[![How long does it take to settle a nursing home lawsuit?](https://www.pintas.com/wp-content/uploads/2021/04/a-neglected-senior-in-a-wheelchair-300x200.jpg "How Long Does it Take to Settle a Nursing Home Lawsuit?")](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/ "How Long Does it Take to Settle a Nursing Home Lawsuit?")
 
-[#### Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/)
+[#### How Long Does it Take to Settle a Nursing Home Lawsuit?](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/)
 
 ### Injured?  
 Tell Us What Happened.
