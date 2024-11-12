@@ -19,7 +19,7 @@
 
 [![Klaviyo Community Logo](https://uploads-us-west-2.insided.com/klaviyo-en/attachment/d9f4dbeb-9887-4eb8-b4a4-77e87d01ff4b.png)](https://community.klaviyo.com/)
 
-* [](https://community.klaviyo.com/topic/new?fid=64)
+* [](https://community.klaviyo.com/topic/new)
 * [](#)
 
 * [Home](https://community.klaviyo.com/)
@@ -232,3 +232,58 @@ This file cannot be downloaded
 Sorry, our virus scanner detected that this file isn't safe to download.
 
 [OK](#)
+
+Links & Resources
+
+* [Klaviyo.com](https://www.klaviyo.com/)
+* [Log in to Klaviyo](https://www.klaviyo.com/dashboard)
+* [Klaviyo Blog](https://www.klaviyo.com/blog)
+* [Help Center](https://help.klaviyo.com/hc/en-us)
+* [Marketing resources](https://www.klaviyo.com/marketing-resources)
+* [Live training](https://www.klaviyo.com/events/live-training)
+
+Platforms
+
+* [Klaviyo for Shopify](https://www.klaviyo.com/ecommerce-integrations/shopify)
+* [Klaviyo for Shopify Plus](https://www.klaviyo.com/ecommerce-integrations/shopify-plus)
+* [Klaviyo for BigCommerce](https://www.klaviyo.com/ecommerce-integrations/bigcommerce)
+* [Klaviyo for Commerce Cloud](https://www.klaviyo.com/ecommerce-integrations/commerce-cloud)
+* [Klaviyo for Magento](https://www.klaviyo.com/ecommerce-integrations/magento)
+* [Klaviyo for WooCommerce](https://www.klaviyo.com/ecommerce-integrations/woocommerce)
+* [Direct Integrations](https://www.klaviyo.com/ecommerce-integrations/direct)
+
+Partners
+
+* [Klaviyo Partner Programs](https://www.klaviyo.com/partner/program)
+* [Agency Partner Directory](https://connect.klaviyo.com/)
+* [Integrations Library](https://connect.klaviyo.com/integrations)
+
+Useful Things
+
+* [COVID-19 Insights](https://www.klaviyo.com/covid-19-daily-ecommerce-insights)
+* [Events](https://www.klaviyo.com/events)
+* [Email Template Builder](https://www.klaviyo.com/email-templates)
+* [API Docs](https://www.klaviyo.com/docs)
+* [Get Help](https://help.klaviyo.com/hc/en-us)
+
+About
+
+* [Who We Are](https://www.klaviyo.com/about)
+* [Newsroom](https://www.klaviyo.com/newsroom)
+* [Careers](https://www.klaviyo.com/careers)
+* [Engineering Blog](https://klaviyo.tech/)
+* [Design Blog](https://medium.com/klaviyo-design)
+* [Contact Us](https://www.klaviyo.com/landing/contact-us)
+
+* [](https://twitter.com/klaviyo)
+* [](https://www.facebook.com/Klaviyo/)
+* [](https://www.linkedin.com/company/klaviyo/)
+* [](https://www.instagram.com/klaviyo/)
+
+* [Terms and Privacy](https://www.klaviyo.com/legal) | Cookie Settings  
+    © 2024 Klaviyo All rights reserved. Klaviyo and the Klaviyo logo are trademarks or registered trademarks of Klaviyo, Inc. or its affiliates.
+
+* [](https://twitter.com/klaviyo)
+* [](https://www.facebook.com/Klaviyo/)
+* [](https://www.linkedin.com/company/klaviyo/)
+* [](https://www.instagram.com/klaviyo/)
