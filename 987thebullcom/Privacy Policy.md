@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| I Am Not OkayJelly Roll<br><br>4:39pm |
-| Small Town BoyDustin Lynch<br><br>4:36pm |
-| She'S Somebody'S DaughterDrew Baldridge<br><br>4:32pm |
-| Miles On ItKane Brown Ft Marshmello<br><br>4:29pm |
-| Live Like You Were DyingTim Mcgraw<br><br>4:25pm |
+| You ProofMorgan Wallen<br><br>10:42pm |
+| Take A Back RoadRodney Atkins<br><br>10:38pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:35pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>10:23pm |
+| OutskirtsSam Hunt<br><br>10:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Sports • Midwest
+Top 40 • Pacific NW
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
