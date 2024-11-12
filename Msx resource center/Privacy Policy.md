@@ -137,8 +137,8 @@ MSX Music player
 
 Latest reactions
 
-* [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
+* [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
@@ -150,14 +150,14 @@ Latest reactions
 
 Latest forum posts
 
+* [Yamaha YIS-503 II Power supply Unit pinout information](https://www.msx.org/forum/msx-talk/hardware/yamaha-yis-503-ii-power-supply-unit-pinout-information "Yamaha YIS-503 II Power supply Unit pinout information")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=124 "Please help testing upcoming openMSX release!")
+* [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
+* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us?page=1 "Pal system in the US")
+* [μ·PACK pronounciation](https://www.msx.org/forum/msx-talk/general-discussion/%CE%BC%C2%B7pack-pronounciation?page=1 "μ·PACK pronounciation")
 * [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=4 "Hi From Cuba, Need Help Z80 ;)")
 * [pack freeware games](https://www.msx.org/forum/msx-talk/software/pack-freeware-games "pack freeware games")
-* [μ·PACK pronounciation](https://www.msx.org/forum/msx-talk/general-discussion/%CE%BC%C2%B7pack-pronounciation?page=1 "μ·PACK pronounciation")
-* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us?page=1 "Pal system in the US")
-* [Yamaha YIS-503 II Power supply Unit pinout information](https://www.msx.org/forum/msx-talk/hardware/yamaha-yis-503-ii-power-supply-unit-pinout-information "Yamaha YIS-503 II Power supply Unit pinout information")
 * [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
-* [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [Omega keyboard switch for spacebar](https://www.msx.org/forum/msx-talk/hardware/omega-keyboard-switch-for-spacebar "Omega keyboard switch for spacebar")
 * [3D-printable Omega MSX cartridge slot guide](https://www.msx.org/forum/msx-talk/general-discussion/3d-printable-omega-msx-cartridge-slot-guide "3D-printable Omega MSX cartridge slot guide")
 * [\[FUSION-C\] Call to FUSION-C users & coders](https://www.msx.org/forum/msx-talk/software/fusion-c-call-to-fusion-c-users-coders?page=4 "[FUSION-C]  Call to FUSION-C users & coders ")
