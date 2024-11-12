@@ -1,16 +1,17 @@
 Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Webster - established 1828")[](javascript:void(0);)
 
-* [Games & Quizzes](https://www.merriam-webster.com/games)
-* [Games & Quizzes](https://www.merriam-webster.com/games)
+* [Games](https://www.merriam-webster.com/games)
+* [Games](https://www.merriam-webster.com/games)
 * [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 * [Grammar](https://www.merriam-webster.com/grammar)
 * [Wordplay](https://www.merriam-webster.com/wordplay)
+* [Rhymes](https://www.merriam-webster.com/rhymes)
 * [Word Finder](https://www.merriam-webster.com/wordfinder)
 * [Thesaurus](https://www.merriam-webster.com/thesaurus)
 * [Join MWU](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU)
 * * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
 * * Settings
     * [My Words](https://www.merriam-webster.com/saved-words)
     * [Recents](https://www.merriam-webster.com/recents)
@@ -18,10 +19,10 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
     * [Log Out](https://www.merriam-webster.com/logout)
 * [More](javascript:void(0);)
     * [Thesaurus](https://www.merriam-webster.com/thesaurus)
-    * [Join MWU ![link icon](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
+    * [Join MWU ![link icon](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
     * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
     
     * [Log In](https://www.merriam-webster.com/login)
     * Username
@@ -389,7 +390,7 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [labile](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of labile](/dist-cross-dungarees/2024-11-06--18-04-05-ksk06/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of labile")
+[![Listen to the pronunciation of labile](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of labile")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
