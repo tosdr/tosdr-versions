@@ -45,7 +45,7 @@ account
 
 close
 
-[Find answers to your Bible questions with Bible Gateway Plus. NOW ON SALE! Save 20% FOR LIFE!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_answerquestions_nowonsale20241111)
+[SAVE for a limited time and ANSWER your questions on the Book, Chapter and Verse you are reading. Upgrade to Bible Gateway Plus for as low as $3.33/mo.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_tiedtobcv092324_aslowas333_20241111)
 
 close
 
