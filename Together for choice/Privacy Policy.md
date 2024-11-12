@@ -2,7 +2,7 @@ top of page
 
 [Become a Member](https://www.togetherforchoice.org/ga-membership)
 
-[![Together-for-Choice_logo.png](https://static.wixstatic.com/media/941966_0a155bac8c7e47dbb897ec71987c2c3c~mv2.png/v1/crop/x_57,y_0,w_1543,h_800/fill/w_182,h_91,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Together-for-Choice_logo.png)](https://www.togetherforchoice.org/)
+[![Together-for-Choice_logo.png](https://static.wixstatic.com/media/941966_0a155bac8c7e47dbb897ec71987c2c3c~mv2.png/v1/crop/x_57,y_0,w_1543,h_800/fill/w_182,h_91,al_c,q_85,usm_2.00_1.00_0.00,enc_avif,quality_auto/Together-for-Choice_logo.png)](https://www.togetherforchoice.org/)
 
 * [About Us](https://www.togetherforchoice.org/aboutus)
     * [Leadership](https://www.togetherforchoice.org/leadership)
