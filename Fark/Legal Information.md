@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Caption this sleeping beauty](https://www.fark.com/goto/13458762) ( [live.staticflickr.com](https://www.fark.com/goto/13458762) ) » [(11 comments)](https://www.fark.com/comments/13458762/Caption-this-sleeping-beauty) |
-| [Discussion](https://www.fark.com/discussion/) | ["My husband has an insane idea to ensure our son doesn't inherit his micropenis and I'm growing concerned he's serious"](https://www.fark.com/goto/13459218) ( [slate.com](https://www.fark.com/goto/13459218) ) » [(10 comments)](https://www.fark.com/comments/13459218/My-husband-has-an-insane-idea-to-ensure-our-son-doesnt-inherit-his-micropenis-Im-growing-concerned-hes-serious) |
-| [Sports](https://www.fark.com/sports/) | ["If someone gives you 100,000 to 1 on anything, you take that bet." Kevin Malone](https://www.fark.com/goto/13459126) ( [foxsports.com](https://www.fark.com/goto/13459126) ) » [(4 comments)](https://www.fark.com/comments/13459126/If-someone-gives-you-100000-to-1-on-anything-you-take-that-bet-Kevin-Malone) |
-| [Business](https://www.fark.com/business/) | [Yes](https://www.fark.com/goto/13459062) ( [msn.com](https://www.fark.com/goto/13459062) ) » [(6 comments)](https://www.fark.com/comments/13459062/Yes) |
-| [STEM](https://www.fark.com/stem/) | [This just in: heat waves are bad for old people. And their lawns too](https://www.fark.com/goto/13458856) ( [medicalxpress.com](https://www.fark.com/goto/13458856) ) » [(3 comments)](https://www.fark.com/comments/13458856/This-just-in-heat-waves-are-bad-for-old-people-And-their-lawns-too) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Once upon a time, Martha Stewart had a topless SNL promo. Here's the naked truth behind it](https://www.fark.com/goto/13459182) ( [cracked.com](https://www.fark.com/goto/13459182) ) » [(7 comments)](https://www.fark.com/comments/13459182/Once-upon-a-time-Martha-Stewart-had-a-topless-SNL-promo-Heres-naked-truth-behind-it) |
-| [Fandom](https://www.fark.com/fandom/) | [Avatar 3's concept art will have you even more excited to watch it at home](https://www.fark.com/goto/13458990) ( [gizmodo.com](https://www.fark.com/goto/13458990) ) » [(17 comments)](https://www.fark.com/comments/13458990/Avatar-3s-concept-art-will-have-you-even-more-excited-to-watch-it-at-home) |
-| [D'awww](https://www.fark.com/dawww/) | [What do penguins like to wear on the beach? A beak-ini](https://www.fark.com/goto/13459118) ( [metro.co.uk](https://www.fark.com/goto/13459118) ) » [(3 comments)](https://www.fark.com/comments/13459118/What-do-penguins-like-to-wear-on-beach-A-beak-ini) |
-| [Food](https://www.fark.com/food/) | [How SPAM came to be, starting way back in 1937. No, not the inbox clogging kind, the pink, jiggly gelatinous canned artery clogging kind](https://www.fark.com/goto/13459152) ( [youtube.com](https://www.fark.com/goto/13459152) ) » [(7 comments)](https://www.fark.com/comments/13459152/How-SPAM-came-to-be-starting-way-back-in-1937-No-not-inbox-clogging-kind-pink-jiggly-gelatinous-canned-artery-clogging-kind) |
-| [Politics](https://www.fark.com/politics/) | [Kid Rock: Uniter of a divided nation?](https://www.fark.com/goto/13458820) ( [huffpost.com](https://www.fark.com/goto/13458820) ) » [(23 comments)](https://www.fark.com/comments/13458820/Kid-Rock-Uniter-of-a-divided-nation) |
+| [Main](https://www.fark.com/) | [Labradoodle was the key to solving its owner's murder. THAT IS A VERY GOOD BOY](https://www.fark.com/goto/13459544) ( [lawandcrime.com](https://www.fark.com/goto/13459544) ) » [(6 comments)](https://www.fark.com/comments/13459544/Labradoodle-was-key-to-solving-its-owners-murder-THAT-IS-A-VERY-GOOD-BOY) |
+| [Discussion](https://www.fark.com/discussion/) | [Tonight on RAW: GUNTHER confronts Damian, Liv & Raquel challenge Bianca & Jade for their tag team titles, who will Bronson tsunami next & what happens to Miz now that the Wyatt6 have him? Find out starting at 8 PM ET on USA](https://www.fark.com/goto/13459270) ( [wwe.com](https://www.fark.com/goto/13459270) ) » [(0 comments)](https://www.fark.com/comments/13459270/Tonight-on-RAW-GUNTHER-confronts-Damian-Liv-Raquel-challenge-Bianca-Jade-for-their-tag-team-titles-who-will-Bronson-tsunami-next-what-happens-to-Miz-now-that-Wyatt6-have-him-Find-out-starting-at-8-PM-ET-on-USA) |
+| [Sports](https://www.fark.com/sports/) | [Things aren't really improving for Wander Franco](https://www.fark.com/goto/13459284) ( [espn.com](https://www.fark.com/goto/13459284) ) » [(1 comment)](https://www.fark.com/comments/13459284/Things-arent-really-improving-for-Wander-Franco) |
+| [Business](https://www.fark.com/business/) | [There will soon only be one type of meatpacking going on in NYC's meatpacking district](https://www.fark.com/goto/13459154) ( [thetimes.com](https://www.fark.com/goto/13459154) ) » [(4 comments)](https://www.fark.com/comments/13459154/There-will-soon-only-be-one-type-of-meatpacking-going-on-in-NYCs-meatpacking-district) |
+| [STEM](https://www.fark.com/stem/) | [You may want to sit down for this, but those neural processing units that computer manufacturers want to sell you just aren't that useful](https://www.fark.com/goto/13459248) ( [theregister.com](https://www.fark.com/goto/13459248) ) » [(4 comments)](https://www.fark.com/comments/13459248/You-may-want-to-sit-down-for-this-but-those-neural-processing-units-that-computer-manufacturers-want-to-sell-you-just-arent-that-useful) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Despite concerning interactions, "A Regular Guy" Clark's determined to keep his secret identity ― a task complicated by his sons. Lois considers the Gazette's future after Chrissy's drastic proposal. S.№4 Ep.№7 of Superman & Lois, 8 ㏘ EST on The CW](https://www.fark.com/goto/13459562) ( [imdb.com](https://www.fark.com/goto/13459562) ) » [(1 comment)](https://www.fark.com/comments/13459562/Despite-concerning-interactions-A-Regular-Guy-Clarks-determined-to-keep-his-secret-identity-a-task-complicated-by-his-sons-Lois-considers-Gazettes-future-after-Chrissys-drastic-proposal-S4-Ep7-of-Superman-Lois-8-EST-on-The-CW) |
+| [Fandom](https://www.fark.com/fandom/) | ["Superman & Lois: Clark's Secret Struggle Takes Center Stage in Final Episodes"](https://www.fark.com/goto/13459482) ( [tvline.com](https://www.fark.com/goto/13459482) ) » [(0 comments)](https://www.fark.com/comments/13459482/Superman-Lois-Clarks-Secret-Struggle-Takes-Center-Stage-in-Final-Episodes) |
+| [D'awww](https://www.fark.com/dawww/) | [Bob, the man fish](https://www.fark.com/goto/13459274) ( [dailymail.co.uk](https://www.fark.com/goto/13459274) ) » [(3 comments)](https://www.fark.com/comments/13459274/Bob-man-fish) |
+| [Food](https://www.fark.com/food/) | [What's the best McDonald's burger?](https://www.fark.com/goto/13459540) ( [thetakeout.com](https://www.fark.com/goto/13459540) ) » [(29 comments)](https://www.fark.com/comments/13459540/Whats-best-McDonalds-burger) |
+| [Politics](https://www.fark.com/politics/) | [10 candidates to be the Joe Rogan of the Left](https://www.fark.com/goto/13459458) ( [garbageday.email](https://www.fark.com/goto/13459458) ) » [(64 comments)](https://www.fark.com/comments/13459458/-10-candidates-to-be-Joe-Rogan-of-Left) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 11 2024 13:43:01  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 11 2024 19:43:58  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
