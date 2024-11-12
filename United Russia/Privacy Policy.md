@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев: С 2019 года в эксплуатацию ввели 1682 новых детских сада](https://cdn.er.ru/media/news/November2024/v99jn5RAtLitmW0A2yEb-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-s-2019-goda-v-ekspluataciyu-vveli-1682-novyh-detskih-sada)
+
+[Владимир Якушев: С 2019 года в эксплуатацию ввели 1682 новых детских сада](https://er.ru/activity/news/vladimir-yakushev-s-2019-goda-v-ekspluataciyu-vveli-1682-novyh-detskih-sada)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#колледжи](https://er.ru/activity/news?tags%5B0%5D=40618) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
+
+Сегодня 12:20
+
+[![Владимир Якушев: С 2022 года капремонт завершён почти в 4,5 тысячах школ](https://cdn.er.ru/media/news/November2024/o9gd6LeFzeqSAZ500vS6-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-s-2022-goda-kapremont-zavershyon-pochti-v-4-5-tysyachah-shkol)
+
+[Владимир Якушев: С 2022 года капремонт завершён почти в 4,5 тысячах школ](https://er.ru/activity/news/vladimir-yakushev-s-2022-goda-kapremont-zavershyon-pochti-v-4-5-tysyachah-shkol)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#совещание](https://er.ru/activity/news?tags%5B0%5D=190) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
+
+Сегодня 12:15
+
 [![«Молодая Гвардия» и «Волонтёрская Рота» проведут в новых регионах мероприятия в честь Дня матери](https://cdn.er.ru/media/news/November2024/Nv2ByNq2UqCrSdbxOjWT-small.png)](https://er.ru/activity/news/molodaya-gvardiya-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-v-chest-dnya-materi)
 
 [«Молодая Гвардия» и «Волонтёрская Рота» проведут в новых регионах мероприятия в честь Дня матери](https://er.ru/activity/news/molodaya-gvardiya-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-v-chest-dnya-materi)
@@ -328,22 +344,6 @@
 [Сергей Лавров: «Единая Россия» инициировала межпартийные процессы по противодействию практикам неоколониализма](https://er.ru/activity/news/sergej-lavrov-edinaya-rossiya-iniciirovala-mezhpartijnye-processy-po-protivodejstviyu-praktikam-neokolonializma)
 
 [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#Африка](https://er.ru/activity/news?tags%5B0%5D=382)
-
-11.11.24
-
-[![Сергей Лавров: К следующей конференции по вопросам Евразийской безопасности мы постараемся разработать евразийскую хартию многообразия и многополярности](https://cdn.er.ru/media/news/November2024/Iez2rUP41bhqKllEXTux-small.jpg)](https://er.ru/activity/news/sergej-lavrov-k-sleduyushej-konferencii-po-voprosam-evrazijskoj-bezopasnosti-my-postaraemsya-razrabotat-evrazijskuyu-hartiyu-mnogoobraziya-i-mnogopolyarnosti)
-
-[Сергей Лавров: К следующей конференции по вопросам Евразийской безопасности мы постараемся разработать евразийскую хартию многообразия и многополярности](https://er.ru/activity/news/sergej-lavrov-k-sleduyushej-konferencii-po-voprosam-evrazijskoj-bezopasnosti-my-postaraemsya-razrabotat-evrazijskuyu-hartiyu-mnogoobraziya-i-mnogopolyarnosti)
-
-[#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#Евразия](https://er.ru/activity/news?tags%5B0%5D=28959) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
-
-11.11.24
-
-[![Сергей Лавров: Страны Евразии должны нести солидарную ответственность за урегулирование локальных конфликтов, не допуская вмешательства извне](https://cdn.er.ru/media/news/November2024/3Z8niFZFUXymWYLKgOE4-small.jpg)](https://er.ru/activity/news/sergej-lavrov-strany-evrazii-dolzhny-nesti-solidarnuyu-otvetstvennost-za-uregulirovanie-lokalnyh-konfliktov-ne-dopuskaya-vmeshatelstva-izvne)
-
-[Сергей Лавров: Страны Евразии должны нести солидарную ответственность за урегулирование локальных конфликтов, не допуская вмешательства извне](https://er.ru/activity/news/sergej-lavrov-strany-evrazii-dolzhny-nesti-solidarnuyu-otvetstvennost-za-uregulirovanie-lokalnyh-konfliktov-ne-dopuskaya-vmeshatelstva-izvne)
-
-[#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#вмешательство](https://er.ru/activity/news?tags%5B0%5D=8270) [#конфликты](https://er.ru/activity/news?tags%5B0%5D=59211) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#Евразия](https://er.ru/activity/news?tags%5B0%5D=28959)
 
 11.11.24
 
