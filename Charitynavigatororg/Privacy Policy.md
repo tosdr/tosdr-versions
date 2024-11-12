@@ -12,7 +12,7 @@
     
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
-    * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
+    * [Immigration and Refugees](https://www.charitynavigator.org/discover-charities/best-charities/immigration-refugee-charities.html)
     * [Animal Rescue](https://www.charitynavigator.org/discover-charities/best-charities/support-animal-rescue.html)
     * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
     * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
@@ -32,9 +32,9 @@
     
     * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
     * [Animal Welfare Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/animal-welfare-fund.html)
+    * [Beneficiary Voices Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/beneficiary-voices-fund.html)
     * [End Homelessness Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-homelessness-fund.html)
     * [End Hunger Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-hunger-fund.html)
-    * [Improve Education Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/improve-education-fund.html)
     * [Veterans & Military Assistance Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/veterans-military-fund.html)
     
 * [Donor Basics](https://www.charitynavigator.org/donor-basics.html)
@@ -108,7 +108,7 @@
     
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
-    * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
+    * [Immigration and Refugees](https://www.charitynavigator.org/discover-charities/best-charities/immigration-refugee-charities.html)
     * [Animal Rescue](https://www.charitynavigator.org/discover-charities/best-charities/support-animal-rescue.html)
     * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
     * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
@@ -128,9 +128,9 @@
     
     * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
     * [Animal Welfare Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/animal-welfare-fund.html)
+    * [Beneficiary Voices Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/beneficiary-voices-fund.html)
     * [End Homelessness Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-homelessness-fund.html)
     * [End Hunger Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-hunger-fund.html)
-    * [Improve Education Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/improve-education-fund.html)
     * [Veterans & Military Assistance Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/veterans-military-fund.html)
     
 * [Donor Basics](https://www.charitynavigator.org/donor-basics.html)
