@@ -90,6 +90,8 @@ Menu
         * [Game-Day Dips](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/recipes/game-day-dips)
         * [Game-Day Desserts](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/seasonal-ideas/game-day-brownies-and-desserts)
         * [Game-Day Appetizers](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/parties-and-get-togethers/game-day-the-slow-cooker-way)
+    * [Gift Guides](https://www.bettycrocker.com/special-occasions/the-best-holiday-gift-ideas)
+        
     
 * [How-To](https://www.bettycrocker.com/how-to)
     
@@ -169,6 +171,7 @@ Menu
     * [Glinda](https://www.bettycrocker.com/wicked/glinda)
         
     
+* [Gift Guides](https://www.bettycrocker.com/special-occasions/the-best-holiday-gift-ideas)
 
 * Save
     
