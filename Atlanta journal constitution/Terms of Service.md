@@ -16,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-potential-peach-state-appointments/H33JDJJCEBETZAX764A6JRDN5M/)
 * [Georgia Election Results](https://www.ajc.com/politics/election-results/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
