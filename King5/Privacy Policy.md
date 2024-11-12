@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/259be558-6ee9-48b3-a545-f1a9b53c9a38/20241112T014847/259be558-6ee9-48b3-a545-f1a9b53c9a38_16x9.jpg) ![](https://media.king5.com/assets/KING/images/259be558-6ee9-48b3-a545-f1a9b53c9a38/20241112T014847/259be558-6ee9-48b3-a545-f1a9b53c9a38_360x203.jpg)](https://www.king5.com/article/news/local/vigil-honors-victims-of-everett-crash-claimed-3-lives/281-5158cab3-9c0b-4ff2-b1a8-0d4a0211ff95)
+    *  [![](https://media.king5.com/assets/KING/images/37e5eb14-0fd9-4270-aca1-86b8170b7fe4/20241112T071403/37e5eb14-0fd9-4270-aca1-86b8170b7fe4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/37e5eb14-0fd9-4270-aca1-86b8170b7fe4/20241112T071403/37e5eb14-0fd9-4270-aca1-86b8170b7fe4_360x203.jpg)](https://www.king5.com/article/news/local/seattle-city-council-member-intervenes-dog-abuse-incident/281-e35a0ecb-123f-4cfa-8d7b-5c68be8ad393)
         
-        #### [Family, friends of 3 people killed in Everett crash honor them at roadside vigil](https://www.king5.com/article/news/local/vigil-honors-victims-of-everett-crash-claimed-3-lives/281-5158cab3-9c0b-4ff2-b1a8-0d4a0211ff95)
+        #### [Seattle council member helps rescue dog from 'disturbing' abuse incident](https://www.king5.com/article/news/local/seattle-city-council-member-intervenes-dog-abuse-incident/281-e35a0ecb-123f-4cfa-8d7b-5c68be8ad393)
         
-    *  [![](https://media.king5.com/assets/KING/images/228816e8-835b-4186-88f4-9710d21a00c5/20241112T011508/228816e8-835b-4186-88f4-9710d21a00c5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/228816e8-835b-4186-88f4-9710d21a00c5/20241112T011508/228816e8-835b-4186-88f4-9710d21a00c5_360x203.jpg)](https://www.king5.com/article/news/local/vietnam-wars-dustoff-crews-highest-civilian-honor/281-81ada9ef-d175-405b-a2ef-759172235239)
+    *  [![](https://media.king5.com/assets/KGW/images/c9e8d54a-d1dd-412e-9e98-9c2284780030/20241112T002104/c9e8d54a-d1dd-412e-9e98-9c2284780030_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/c9e8d54a-d1dd-412e-9e98-9c2284780030/20241112T002104/c9e8d54a-d1dd-412e-9e98-9c2284780030_360x203.jpg)](https://www.king5.com/article/news/local/chonky-cats-yuki-nikko-oregon-humane-society-adopted/283-97e8ef8b-5ede-4085-a72f-0cd73931605c)
         
-        #### [Vietnam War’s ‘Dustoff’ crews to receive highest civilian honor](https://www.king5.com/article/news/local/vietnam-wars-dustoff-crews-highest-civilian-honor/281-81ada9ef-d175-405b-a2ef-759172235239)
+        #### [News of 'chonky' cat brothers at Oregon Humane Society leads to swift adoption](https://www.king5.com/article/news/local/chonky-cats-yuki-nikko-oregon-humane-society-adopted/283-97e8ef8b-5ede-4085-a72f-0cd73931605c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,7 +60,7 @@ Navigation
         
         #### [Strong winds possible in much of western Washington lowlands Tuesday and Wednesday](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
         
-    *  [![](https://media.king5.com/assets/KING/images/38a8038c-0876-42ca-a6c9-69ac4af7f96f/20241112T013313/38a8038c-0876-42ca-a6c9-69ac4af7f96f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/38a8038c-0876-42ca-a6c9-69ac4af7f96f/20241112T013313/38a8038c-0876-42ca-a6c9-69ac4af7f96f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/891c5f33-14fe-4ca9-91e8-b869e7deaf5d/20241112T072735/891c5f33-14fe-4ca9-91e8-b869e7deaf5d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/891c5f33-14fe-4ca9-91e8-b869e7deaf5d/20241112T072735/891c5f33-14fe-4ca9-91e8-b869e7deaf5d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -96,7 +96,7 @@ Seattle, WA »
 
 49°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
