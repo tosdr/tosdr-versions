@@ -80,17 +80,6 @@ Attn: Legal Department – Privacy
 Suite #100-245  
 Charlottesville, VA 22902
 
-Schedule a 20 minute Zoom
--------------------------
-
-#### Always helpful, never boring.
-
-No salesy stuff. No pressure. We just want to make sure your questions are answered.
-
-Plus we love connecting with our customers. They help us build better software.
-
-[Book a call with the Co-founder](https://api.leadconnectorhq.com/widget/bookings/starchive-intro-call)
-
 [![](https://www.starchive.io/wp-content/uploads/2024/01/app-store.png "app-store")](https://apps.apple.com/us/app/starchive/id1480291489)
 
 [![](https://www.starchive.io/wp-content/uploads/2024/01/google-play.png "google-play")](https://play.google.com/store/apps/details?id=io.starchive.mobile)
