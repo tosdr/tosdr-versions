@@ -31,6 +31,640 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La inmigración es necesaria
+===========================
+
+Sin inversión en el Sur, la migración hacia EE.UU. seguirá; además, políticas de Trump y fluctuaciones del dólar impactarían a Ecuador..
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+
+Si no viene el **capital de Norte** a invertir en los países del Sur del continente, los **trabajadores** del Sur seguirán emigrando hacia los **Estados Unidos**, en forma legal o ilegal, porque necesitan subsistir en este **mundo** injusto y porque las **empresas** de allá requieren de **trabajadores** en puestos como la **industria de la construcción,** el ´cuidado de los ancianos, enfermería, labores de limpieza y mano de obra para la logística de la **vida económica** de los Estados Unidos.
+
+Las **amenazas de Trump** de expulsar a los **trabajadores ilegales** perjudican también a las **empresas** que pagan **menores salarios** y que los necesitan porque ya están preparados. También convienen a los países de origen de los **emigrantes** porque destinan sus **remesas** a mantener a sus **familiares**, lo que aumenta el **consumo** de bienes necesarios para la vida.
+
+Si la **amenaza** de disminuir o encarecer las **importaciones** provenientes del resto del mundo en verdad se la aplica, también habrá más **mano de obra** disponible y necesitada que de cualquier manera se irá a **Estados Unidos**. El mundo ya no es de los **estados proteccionistas**, sino de los que son más **productivos**. En el caso del Ecuador no habría afectación porque sus **exportaciones** de **productos** no **petroleros** se las hace compitiendo con otros **proveedores**, porque no tiene un **Acuerdo de Preferencias Arancelarias**.
+
+Si las **políticas** públicas de **Trump** afectan a las **inversiones** en el Ecuador, hay otros países como China que desean hacer negocios, si las **condiciones** son **rentables**. Si su **influencia** es **negativa** en los créditos de los **organismos multilaterales** habrá otras fuentes que puedan prestar dinero a un país en **desarrollo serio y confiable.**
+
+En lo atinente al **comercio** de **materias primas** como **petróleo** y **minerales metálicos** puede haber cambios en los **precios**, pero siempre que le favorezca a las **exportaciones** de los **Estados** **Unidos**. Entonces no cabe esperar **disminuciones drásticas** que puedan afectar al **Ecuador**.
+
+Pero habrá que ver si el **dólar** mantiene su **fuerza** y poder respecto de las demás **monedas** del mundo, en cuyo caso sus **fluctuaciones** sí afectarían a un **país dolarizado** como el **Ecuador**, en el sentido que si se fortalece perjudicaría a las **exportaciones ecuatorianas**, porque se encarecerían.
+
+Pollock, delirio y arrebato
+===========================
+
+El arte fue el amor de su vida, quiso ser pintor y los fracasos fueron su tortura y su aliento.
+-----------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+Ed Harris (Estados Unidos, 1950) funge de **productor**, **director** y **actor** de _**Pollock**_, película estrenada en 2000 y celebrada por la **crítica**; más, quizás, porque se trataba de exaltar la figura de **Pollock**, el Chico dorado, **artista** pintor que fundó un **movimiento** de controvertida **identidad** plástica, a partir de la **estrategia** del “chorreado”, que por sus discretas cualidades.
+
+Cuenta Harris que por los 80 su padre le obsequió un libro sobre el pintor y, a partir de su lectura, lo sedujo la **angustiosa** vida de alcohólatra excéntrico e **irreverente** del **artista**; sus colosales escándalos (la micción en la **chimenea** de la mansión de Peggy Guggenheim, su mecenas, en una de sus exclusivas fiestas); las **públicas agresiones** a sus amantes o los actos destructores de su obra. Cinta de regular calidad la que dedica Harris a Pollock; buscó **premios** con denuedo, pero el único Óscar fue para Marcia Gay Harden que encarna el papel de Lee Krasner, quien abandonó su **vida** y su arte por levantar las de **Pollock** desde el abismo donde se afanaba en sucumbir.
+
+Jackson Pollock, leyenda y arte
+-------------------------------
+
+Jackson Pollock (Estados Unidos, 1912-1956), **soberbio, neurótico, depresivo**, ¿bipolar? No sabía dibujar y sus **compañeros** de **estudios** de arte escarnecían su trabajo. El **arte** fue el amor de su vida, quiso ser pintor y los fracasos fueron su **tortura y su aliento**.
+
+Luego de su **paseo** por un figurativismo limitado, en los 40, empezó a **pintar abstracto**, género que defendió hasta el final de su azarosa existencia. Clement Greenberg fue el crítico que lo ascendió a los cielos, colmándolo de **elogios**. Sin embargo, antes de él, fue Lee Krasner, artista y compañera de Pollock, quien creyó en su **talento** y cumplió una cruzada para aproximarlo a quienes podrían rodearlo de gloria.
+
+Hay **reseñadores** que sustentan que fue Krasner quien pintó primero los celebérrimos “chorreados” y que jamás movió sus **labios escarlatas para afirmarlo o negarlo**. A lo largo de su travesía **humana y pictórica**, sus **piruetas surrealistas** y otras cabriolas, en Pollock lidiaba un ser desesperado y convulso que recurría al alcohol como único refugio. A causa de sus **excesos** probó la **psicología junguiana**, así como **innovadores** procedimientos de connotados especialistas de otras **tendencias psiquiátricas**.
+
+La **leyenda cruza** vida y obra de Pollock. Algunos cuentan que el ama de casa fue quien, por descuido, regó una lata de pintura en un lienzo templado en el piso del **taller**, y en ese feliz instante se le ocurrió al **artista** su memorable _dripping_ (goteo), para luego ir afinándolo y construyendo la _action painting_ (pintura de acción), corriente que sembró discípulos en Estados Unidos y en Europa. En todo caso, **bases de tarros** **perforados** o tarros llenos de pintura bastaron a Pollock para volcarlos sobre **vastos lienzos yacentes** en el piso de su estudio.
+
+Maraña de colores, **emociones** y **sensaciones**, trazos de colores magnéticos, ¿sin que el artista los cree sino el azar? **Casualismos**, centelleos, irradiaciones, **gesticulaciones**, luces que aparecen y se desvanecen en un instante –lo que dura el **parpadeo del observador**–. ¿Hay un genio auténtico detrás de ese **descomunal** fuego fatuo que es el arte de Pollock? La verdad es que el **cimiento de su celebridad** fue una millonaria apasionada por las **artes plásticas**, Peggy Guggenheim, unida en ese entonces al renombrado artista Max Ernst, junto a otros íconos europeos, más un grupo de notables críticos y periodistas.
+
+Europa dejó de ser el **centro del arte mundial** y la historia pasó el “testigo” a Estados Unidos. Tiempos de posguerra. **Estados Unidos** necesitaba homologar sus **triunfos bélicos** con otros ámbitos, en el que destacaba el cultural. ¿Una marca aureolada de **acertijos** y **develaciones estéticas** que apabullen al público? Es posible, al punto de asegurar, que la propia CIA colaboró en el **empeño** de **construir** la “marca” Pollock.
+
+Pero, **¿Pollock fue solo eso, una “marca”?** Véanse las imágenes de su obra. Acaso hay un mundo de **angustia y violentismo**, de furia y desamor, cielos e **infiernos**, **horizontes**, rebeliones, caminos desolados donde pululan **fulgores y lobregueces**. Universo de un ser flagelado por el indecible tormento de buscar y no hallar nunca.
+
+¿**Fue accidental la muerte de Pollock**? ¿Buscó el final con las manos en el volante de su carro, sintiendo el vértigo de la muerte que siempre lo sedujo, velado en esa **huida perpetua** que fue su vida?
+
+“¡Cómo de entre mis manos te resbalas!/ ¡Oh, cómo te deslizas, edad mía!/ ¡Qué mudos pasos traes, oh, muerte fría,/ pues con callado pie todo lo igualas”… Francisco de Quevedo.
+
+Resiliencia en Quito en 2 iniciativas de seguridad ciudadana
+============================================================
+
+Los recurrentes cortes de energía hacen que sean necesarias las precauciones en las intersecciones vehiculares para evitar choques. En los barrios, es necesario incrementar las medidas de seguridad.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La av. 10 de Agosto y NN.UU. es un punto conflictivo en las horas pico.](https://www.elcomercio.com/wp-content/uploads/2024/11/La-av.-10-de-Agosto-y-NN.UU_.jpg)
+
+En ciudades como Quito, la resiliencia se ha convertido en una necesidad ante las adversidades, como los recurrentes cortes de energía eléctrica. Estos inconvenientes no solo afectan la vida cotidiana, sino que también plantean desafíos significativos para la seguridad vial y la convivencia ciudadana.
+
+> Los cortes de energía en Quito han sido una constante en los 51 días, lo que genera molestias y complicaciones para los habitantes.
+
+Las luces de tráfico dejan de funcionar y crean un ambiente propenso a siniestros en las intersecciones más transitadas. En este contexto, es crucial que los conductores reduzcan la velocidad y mantengan una mayor atención al circular por las calles. La **Agencia Metropolitana de Tránsito (AMT)** ha establecido límites de velocidad que deben ser respetados para evitar siniestros, especialmente en situaciones donde la señalización puede verse comprometida por la falta de electricidad.
+
+Es fundamental que los conductores adopten comportamientos responsables al volante. En intersecciones conflictivas, reducir la velocidad puede prevenir incidentes graves. En lugares donde la señalización es deficiente, ceder el paso se convierte en un acto de responsabilidad que puede salvar vidas. Mantenerse alerta ante posibles imprevistos es vital, especialmente cuando otros conductores pueden no estar siguiendo las reglas.
+
+Es obvio que la AMT no puede estar presente en todos los más de 200 cruces de Quito las 24 horas del día, lo que significa que cada conductor debe tomar precauciones por su propia seguridad.
+
+Además de las preocupaciones viales, se ha reportado un aumento en los robos de generadores eléctricos en zonas como Tumbaco. Este fenómeno pone de manifiesto la necesidad urgente de reforzar el sentido de convivencia y seguridad en nuestras comunidades. La **Policía Nacional** debe intensificar sus rondas para disuadir estos delitos y garantizar un entorno seguro para todos.
+
+La resiliencia no solo implica adaptarse a las circunstancias adversas, sino también fomentar un sentido de comunidad. Los ciudadanos deben trabajar juntos para crear un ambiente más seguro. Esto incluye: Fomentar la comunicación entre vecinos puede ayudar a identificar comportamientos sospechosos y prevenir delitos.
+
+No se trata de encontrar un lado positivo a la crisis energética; más bien, debemos centrarnos en cómo podemos preservar nuestra seguridad y protección ciudadana. La situación actual exige una respuesta colectiva que priorice el bienestar común sobre el individualismo.
+
+Cartas a Quito / 12 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este martes 12 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Padre Fabián Arcos Sevilla “eres mi mejor amigo…”
+-------------------------------------------------
+
+El padre Fabián Arcos Sevilla, será recordado con cariño por quienes tuvieron la fortuna de conocerlo. Nunca olvidaré sus palabras “eres mi mejor amigo” cuando compartíamos largas conversaciones entre risas y reflexiones.
+
+El padre Fabián, es un ejemplo inspirador de dedicación y servicio en la comunidad católica. Su vida estuvo marcada por un profundo compromiso con los más necesitados, llevando esperanza y consuelo a quienes más lo requerían. Su labor pastoral dejó una huella imborrable en el corazón de sus feligreses.
+
+Desde su ordenación sacerdotal, se destacó por su cercanía con las comunidades. Aprendió kichwa para comunicarse mejor con sus feligreses, mostrando un respeto genuino por su cultura. Esta conexión lo convirtió en un sacerdote querido y respetado, que siempre estaba dispuesto a escuchar y ayudar.
+
+A lo largo de su vida, el padre Fabián enfrentó desafíos personales, incluyendo problemas de salud. Sin embargo, su espíritu indomable lo llevó a regresar a su misión pastoral con renovada energía. Su valentía y determinación inspiraron a muchos a seguir su ejemplo de fe y compromiso.
+
+El padre Fabián también desempeñó un papel crucial en la formación de futuros líderes religiosos. Como canciller de la Diócesis, contribuyó al desarrollo espiritual y educativo de la comunidad, dejando un legado que perdurará en las generaciones venideras.
+
+Su pasión por el servicio no solo se limitó a la iglesia; también visitaba hospitales para brindar apoyo a los enfermos. Su presencia reconfortante era un bálsamo para aquellos que enfrentaban momentos difíciles, demostrando que el amor y la compasión son fundamentales en el ministerio.
+
+La memoria del padre Fabián Arcos Sevilla seguirá viva. Su legado invita a todos a reflexionar sobre el verdadero significado del servicio y la importancia de cuidar a los demás. Su vida es un testimonio del poder transformador del amor y la fe en acción.
+
+Esto no es una despedida, sino un hasta pronto. Querido amigo que Dios te tenga en su santa gloria. Amén
+
+Roberto Camana-Fiallos
+
+El Andropoceno: amenazas y desafíos
+===================================
+
+Si la explosión global dio origen al principio, hoy la humanidad evoluciona en el Andropoceno, con grandes incógnitas y desafíos.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Los seres humanos somos la consecuencia de un proceso de evolución geológica, física, química y biológica.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-3-1.jpg)
+
+**Por muchos siglos nos hicieron creer que los seres humanos y el planeta Tierra éramos los centros del universo.** En el siglo XXI, gracias a la investigación científica y los viajes espaciales, **somos apenas un punto azul que gira a 250 kilómetros por segundo alrededor del Sol –una estrella-**, de los millones que existen en la galaxia denominada Vía Láctea.
+
+La gran explosión
+-----------------
+
+Este inmenso océano cósmico fue el resultado de una gran explosión –**el Big-Bang, hace 13.800 millones de años, aproximadamente**\-, que se sigue expandiendo. La vida se originó en una masa o colada acuífera compuesta por hidrógeno, nitrógeno, oxígeno y otros elementos.
+
+**Los seres humanos somos la consecuencia de un proceso de evolución geológica, física, química y biológica**, antecesores de un pasado común –los primates sociales-, y estos del **pez pulmonado que salió del mar** y pobló la tierra en el reino de los mamíferos terrestres.
+
+En este contexto, **el cerebro humano ocupó un lugar especial, que hizo posible la creación del pensamiento –y con él la inteligencia y una serie de lenguajes-** que culminó con la escritura. Y la aventura del aprendizaje continúa.
+
+El pasado humano
+----------------
+
+Reiteramos: **el planeta Tierra no es el centro del universo; tampoco la humanidad.** Esta conclusión ha sido posible gracias a las investigaciones científicas que demostraron la existencia de billones de galaxias, una de las cuales es la **Vía Láctea.**
+
+Algunas teorías han planteado el origen del universo. Dos tendencias han intentado responder a esta pregunta: el **creacionismo**, centrado en la idea de una creación sobrenatural, y el **evolucionismo**, que explica el proceso natural seguido por la materia, los seres vivos, hasta desembocar en el ser humano.
+
+Pese a los avances científicos –en especial la teoría de relatividad propuesta por **Alberto Einstein**\-, los conocimientos todavía no llegan a la gente del Estado llano. La información científica todavía es difusa y dispersa.
+
+**El pasado humano del** **“Homo sapiens”** (del latín, homo = hombre, y “sapiens” = sabio) **es relativamente reciente** (200 mil años), cuando en África “un simio insignificante acabó rigiendo el planeta Tierra”, **según Yuval Noah Harari.** Hoy, **la Tierra alberga 8.200 millones de habitantes**.
+
+Otras amenazas
+--------------
+
+En el siglo XX, tras el colapso del nazismo y el comunismo, **el liberalismo no logró generar un mundo equitativo**. Y el mundo global en el siglo XXI afronta otras amenazas: **el terrorismo, el calentamiento climático, la pobreza extrema, el gigantismo digital y el colapso de las ciudades por la alta contaminación.** Y nuevas maravillas se vislumbran, de la mano de la **infotecnología y la biotecnología**, así como de las **neurociencias** y los retos asociados a la **robótica y la inteligencia artificial**.
+
+Si la explosión global -de magnitudes insospechadas- dio origen al principio, la humanidad sigue evolucionando en esta era llamada Andropoceno, en la que prevalece el señorío del ser humano sobre la naturaleza, el progreso impredecible -de la mano de la incertidumbre- y las limitaciones de un modelo de gobernanza político y económico concentrador y excluyente de bienestar.
+
+Desafíos
+--------
+
+**La aventura del saber es una fuente inagotable de conocimientos y sabiduría**, que exige a profesores y estudiantes una apertura mental, para experimentar y comprender el complejo mundo en que vivimos.
+
+**Los temas abordados** en esta serie de artículos no resuelven ni agotan los fascinantes problemas de la ciencia y su incidencia en el bienestar humano, pero **abren espacios para la reflexión argumentada** sobre los aspectos más relevantes de la filosofía, la ciencia, las tecnologías y sus impactos.
+
+**La investigación científica, en este contexto, ocupa un lugar especial en las preocupaciones de los seres humanos**, y en particular de docentes y estudiantes comprometidos con la búsqueda constante de la **verdad** y la **realidad** resultante de los **fenómenos políticos, económicos, físicos, biológicos, sociales, ambientales y culturales.**
+
+Como complemento de este **paisaje epistemológico** es urgente insistir en la necesidad de **prepararnos para entender el mundo en que vivimos**, seguir las huellas o promover nuevas, para crear y descifrar **nuevos caminos para la sociedad con una base ética, es decir, de factura humana.**
+
+Marco Angulo, jugador de Liga de Quito, fallece a los 22 años
+=============================================================
+
+Marco Angulo nació en Esmeraldas hace 22 años. Su debut profesional lo hizo en Independiente del Valle.
+-------------------------------------------------------------------------------------------------------
+
+Lamentable. Marco Angulo, **jugador de Liga de Quito**, acaba de fallecer en el Hospital Eugenio Espejo este lunes 11 de noviembre de 2024, tras sufrir un grave siniestro de tránsito la madrugada del lunes 7 de octubre, en la Autopista General Rumiñahui.
+
+Marco Angulo es el tercer fallecido en el referido siniestro de tránsito. **Roberto Cabezas, jugador de Independiente Juniros**; y Víctor Charcopa, sin vinculación alguna como futbolistas, son los otros dos fallecidos de los cinco que iban en el vehículo.
+
+### Más noticias:
+
+* [Los siniestros de tránsito dejan una huella de luto en el fútbol ecuatoriano](https://www.elcomercio.com/deportes/futbol/siniestros-transito-futbol-ecuador-roberto-cabezas-munoz-tenorio.html "Los siniestros de tránsito dejan una huella de luto en el fútbol ecuatoriano")
+* [Delfín ganó, huye del descenso y frenó a Macará](https://www.elcomercio.com/deportes/futbol/delfin-macara-tabla-posiciones-descenso.html "Delfín ganó, huye del descenso y frenó a Macará")
+* [La Selección de Ecuador trabaja a doble jornada para eliminatorias](https://www.elcomercio.com/deportes/seleccion-ecuador-eliminatorias-paraguay-entrenamiento-beccacece.html "La Selección de Ecuador trabaja a doble jornada para eliminatorias")
+
+El mundo del fútbol lamento el **fallecimiento de Angulo**. La Liga Pro fue la encargada de comunicar el lamentable suceso.
+
+> 📍Descansa en paz Marco 🕊️⚽️ [pic.twitter.com/SCPEIpkXTR](https://t.co/SCPEIpkXTR)
+> 
+> — LigaPro (@LigaProEC) [November 12, 2024](https://twitter.com/LigaProEC/status/1856191672922546261?ref_src=twsrc%5Etfw)
+
+**El volante se formó y debutó profesionalmente en Independiente del Valle**, luego pasó por el Football Club Cincinnati de los Estados Unidos, y finalmente en Liga de Quito.
+
+Con la Selección de Ecuador tuvo dos partidos, uno en la era del argentino **Gustavo Alfaro, que lo hizo debutar en noviembre de 2022** en un empate 0-0 ante Irak, en la previa del Mundial Catar 2022.
+
+En marzo de 2023 el españo**l Félix Sánchez lo incluyó en su primera lista en marzo de 2023** en la gira en Australia e ingresó en sustitución de Junior Sornoza.
+
+Jugó 24 minutos en la victoria 1-2 con tantos de Pervis Estupiñán y Willian Pacho, dos de los defensores más goleadores del último lustro con la Tri.
+
+Carrera de Marco Angulo
+-----------------------
+
+A Independiente del Valle llegó en 2017. Antes de debutar en el primer equipo también fue parte del Independiente Juniors.
+
+En el 2020 fue parte del plante que ganó la Copa Libertadores sub-20 en Paraguay. En la final le ganaron 2-1 a River Plate, que tenía como su principal figura a Enzo Fernández, campeón del mundo con Argentina en Catar 2022.
+
+Dentro de ese equipo estaba Marco Angulo. Fue titular ante Colo-Colo (victoria 1-0); **ingresó al cambio con Libertad (victoria 2-1)**; y volvió a la titularidad ante Jorge Wilsterman (victoria 5-0 con un tanto suyo).
+
+En las semifinales ante Flamengo estuvo en el banco de suplentes. En la gran final volvió a la titularidad y completó los 90 minutos.
+
+Ese plantel de Independiente tenía a jugadores como Alexis Villa, Piero Hincapié, Willian Pacho, **José Andrés Hurtado, Moisés Caicedo, Pedro Vite** y Jhoanner Chávez, que actualmente forman parte de la Selección absoluta de Ecuador.
+
+El 9 de julio de 2021 se anunció que fue promovido al equipo principal, junto **Alan Minda, Carlos Gruezo Chamorro y Javier Sánchez**.
+
+Ese mismo año ganó la Liga Pro en la final ante Emelec. En el 2022 se colgó las medallas de oro de  
+la Copa Ecuador al vencer a 9 de Octubre; y la Copa Sudamericana, tras vencer a Sao Paulo en la final  
+única en Córdoba, Argentina.
+
+![Foto: Facebook CONMEBOL Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_carrera_1-1024x683.jpg)
+
+Foto: Facebook CONMEBOL Sudamericana.
+
+En el 2023 se marchó al F. C. Cincinnati y ganó la MLS Supporters’ Shield y la MLS Conferencia Este.
+
+Para el 2024 fue repatriado por Liga de Quito. No era titular indiscutible, **pero siempre estaba en la  
+consideración de Pablo ‘Vitamina’ Sánchez**, actual entrenador que llegó para reemplazar al español  
+Josep Alcácer.
+
+El domingo 6 de octubre **jugó tres minutos en la victoria 2-0 ante Orense en la octava fecha** de la  
+segunda etapa de la Liga Pro. Ingresó a los 87 minutos para reemplazar a Madison Julio.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_carrera_2-1024x683.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Este 12 de noviembre cambian los precios de las gasolinas en Ecuador
+====================================================================
+
+Las gasolinas extra y ecopaís suben a 2,67 dólares por galón desde el 12 de noviembre en Ecuador, mientras que la gasolina súper baja a 3,49 dólares.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los precios de las gasolinas cambian el 12 de cada mes, en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/gasolina.jpg)
+
+Las gasolinas extra y ecopaís (de 85 octanos) **incrementan de precio** desde el 12 de noviembre de 2024, en **Ecuador**, así lo informó la Cámara Nacional de Distribuidores de Derivados de Petróleo (Camddepe). Los nuevos valores estarán vigentes hasta el 11 de diciembre próximo.
+
+### Más noticias
+
+* [¿Por qué vehículos y gasolinas inciden en la inflación negativa en Ecuador?](https://www.elcomercio.com/actualidad/negocios/como-vehiculos-gasolinas-inciden-inflacion-negativa-mensual-ecuador.html "¿Por qué vehículos y gasolinas inciden en la inflación negativa en Ecuador?")
+* [Generadores eléctricos, analice su necesidad antes de comprarlos](https://www.elcomercio.com/actualidad/negocios/generadores-electricos-analice-necesidad-comprarlos-cortes-de-luz.html "Generadores eléctricos, analice su necesidad antes de comprarlos")
+* [Ecuador mantendrá cortes de luz de 12 horas hasta el jueves 14 de noviembre](https://www.elcomercio.com/actualidad/ecuador/ecuador-mantendra-cortes-luz-12-horas.html "Ecuador mantendrá cortes de luz de 12 horas hasta el jueves 14 de noviembre")
+
+Desde las 00:00 de este martes 12, el valor de las gasolinas extra y ecopaís sube a 2,67 dólares por galón. La cifra representa un incremento de 0,11 centavos en comparación con el precio establecido hasta este lunes 11 de noviembre, que fue de 2,56 dólares.
+
+El cambio de precios se lo hace mensualmente, bajo un esquema de bandas, que se aplica desde julio pasado. Este sistema regula el precio de las gasolinas extra y ecopaís permitiendo un aumento máximo del 5% mensual y una posible reducción de hasta el 10% del valor anterior, dependiendo del comportamiento del precio del petróleo a nivel internacional. En este caso, el incremento en el precio de las gasolinas es del 4%.
+
+> Suben de precio las gasolinas de 85 octanos (extra y ecopaís) desde este 12 de noviembre, hasta el 11 de diciembre.
+> 
+> — Oswaldo Erazo (@oswaldo\_erazoa) [November 11, 2024](https://twitter.com/oswaldo_erazoa/status/1856123139010245051?ref_src=twsrc%5Etfw)
+
+Precio de la gasolina súper
+---------------------------
+
+Por su parte, el precio **sugerido para la gasolina súper**, de 95 octanos, tendrá una reducción de 31 centavos de dólar este mes y se comercializará a 3,49 dólares por galón. Hasta este 11 de noviembre se comercializó a 3,80 dólares. La gasolina súper está liberada y su precio final depende de cada estación de servicio.
+
+Este ajuste responde a la decisión del Gobierno de **Daniel Noboa** de eliminar parcialmente el subsidio a las gasolinas extra y ecopaís.
+
+Conductor casi atropella a agente de tránsito en Cuenca
+=======================================================
+
+La agresión al agente de tránsito ocurrió en las calles de Cuenca.
+------------------------------------------------------------------
+
+![El agente de tránsito en Cuenca tuvo que treparse al vehículo.](https://www.elcomercio.com/wp-content/uploads/2024/11/agente-transito-cuenca.jpg)
+
+Un conductor casi atropella a un **agente de tránsito** en **Cuenca**, este lunes 11 de noviembre de 2024.
+
+El hecho fue difundido por ciudadanos en redes sociales.
+
+### Más noticias:
+
+* [Cuenca tiene la sequía más extensa de los últimos 51 años](https://www.elcomercio.com/actualidad/ecuador/cuenca-sequia-extensa-ultimos-anos.html "Cuenca tiene la sequía más extensa de los últimos 51 años")
+* [Mujer dio a luz en un bus con ayuda de un agente de tránsito, en Machala](https://www.elcomercio.com/actualidad/ecuador/mujer-dio-luz-bus-machala.html "Mujer dio a luz en un bus con ayuda de un agente de tránsito, en Machala")
+
+Conductor movió su vehículo pese a que el agente de tránsito quería detenerlo
+-----------------------------------------------------------------------------
+
+Este lunes, un agente de tránsito de la **Empresa Pública de Movilidad de Cuenca (EMOV EP)** casi es atropellado por un ciudadano que se negó a entregar sus documentos.
+
+La EMOV coordinó de inmediato con personal de la **Policía Nacional**, que detuvo al ciudadano que se encuentra bajo custodia por ataque o resistencia.
+
+“Rechazamos firmemente este acto de **agresión** contra nuestros agentes civiles de tránsito”, señaló la institución en sus redes sociales.
+
+El incidente ocurrió cuando el ciudadano se negó a entregar sus **documentos** y trató de agredir al agente.
+
+“En respuesta, se coordinó de inmediato con la Policía Nacional, quien ahora tiene al ciudadano bajo custodia por ataque o **resistencia**“, agregó la institución.
+
+La EMOV EP reiteró su compromiso de proteger la **integridad** de nuestro equipo y garantizar el cumplimiento de la ley para la seguridad de la comunidad.
+
+> 🚨Rechazamos firmemente este acto de agresión contra nuestros agentes civiles de tránsito. El incidente ocurrió cuando el ciudadano se negó a entregar sus documentos y trató de agredir a nuestro compañero. En respuesta, se coordinó de inmediato con la Policía Nacional, quien… [https://t.co/ipdPyHWhho](https://t.co/ipdPyHWhho)
+> 
+> — EMOV EP Cuenca (@emov\_ep) [November 12, 2024](https://twitter.com/emov_ep/status/1856161593568178373?ref_src=twsrc%5Etfw)
+
+Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador
+====================================================================
+
+El experimentado Óscar Sevilla sobresalió en la primera etapa de la Vuelta a Ecuador y a sus 48 años se mantiene vigente en el ciclismo.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Óscar Sevilla (centro) celebra su triunfo en la primera etapa de la Vuelta a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/1000162370.jpg)
+
+Los años para el ciclista español **Óscar Sevilla** no son un impedimento, sino una motivación para demostrar su capacidad y que se mantiene vigente en el deporte. A sus 48 años, el líder de equipo del Team Medellín se hizo con la primera etapa de la Vuelta a Ecuador y venció con lo justo.
+
+Sabe las responsabilidades que lleva con tal rol en la escuadra y, más allá de lo que él pueda hacer, intenta ver por los suyos y que la **potenciación** sea ambivalente. Aunque no se considera favorito y es consciente de las habilidades y calidad de sus rivales, la confianza en lo que él puede hacer está[.](https://es.wikipedia.org/wiki/%C3%93scar_Sevilla)
+
+### Más noticias:
+
+* [Dos ciclistas abandonan tras aparatosa caída en Vuelta a Ecuador](https://www.elcomercio.com/deportes/vuelta-ecuador-ciclistas-bajas-etapa-1.html "Dos ciclistas abandonan tras aparatosa caída en Vuelta a Ecuador")
+* [La etapa 1 de la Vuelta a Ecuador dejó un líder y bajas](https://www.elcomercio.com/deportes/ciclismo/la-etapa-1-de-la-vuelta-a-ecuador-dejo-un-lider-y-bajas.html "La etapa 1 de la Vuelta a Ecuador dejó un líder y bajas")
+* [¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?](https://www.elcomercio.com/deportes/equipos-ciclismo-vuelta-ecuador-2024.html "¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?")
+
+Antes de iniciar la etapa que abarcaría 147, 59 kilómetros, este arengaba a su equipo con las miradas sobre sí. En un círculo y a un costado de la línea de largada, sus compañeros lo escuchaban atentamente y luego este revelaba a EL COMERCIO que veía a la carrera como un desafío.
+
+Instantes después de aquella escena en Calacalí (Pichincha), Sevilla cruzaba la meta en La Concordia (Santo Domingo) tras cronometrar 3 horas, 17 minutos y 36 segundos. La victoria fue apretada, pero al final, por escasos segundos, consiguió imponerse.
+
+Óscar Sevilla y su triunfazo en la Vuelta a Ecuador
+---------------------------------------------------
+
+Ni siquiera las adversidades durante el camino frenaron al colombo español para encaminar su remontada de cara al triunfo. En el **kilómetro 40**, próximo al único puerto de montaña de la primera fase, un grupo de 10 ciclistas se vio involucrado en un incidente.
+
+Una caída frenó a aquel lote del pelotón y forzó el retiro de dos de los participantes. Dentro de aquellos afectados se encontraba **Aldemar Reyes**, compañero de Sevilla, quien consiguió recuperarse y volver a encarrilarse en el evento.
+
+A raíz de ello, **Sevilla** bajó su ritmo y no abandonó a su compañero para que este se reincorpore. Tras aquel momento y al lograr mantenerse en el primer pelotón, este se metió en la fuga final que le dio el triunfo.
+
+Junto a **Brayan Obando**, Sevilla se paró en su bicicleta para ganar la pulsada en el último momento. Escasos centímetros y cuatro décimas de segundo separaron a los dos ciclistas y le dieron el triunfo al español, que se colocó el jersey rojo de la etapa y el amarillo como líder de la Vuelta.
+
+La motivación y el triunfo de Óscar Sevilla
+-------------------------------------------
+
+“Aún mantengo la ilusión que tenía cuando empezaba y tengo la disciplina y el sacrificio de entrenarme y cuidarme (…) **Me siento válido en el ciclismo. Corro por eso, porque me gusta, por pasión, pero sobre todo porque me siento de esa manera.** Si no fuera así… que no aporto en nada, que fuera un cero a la izquierda, no estaría corriendo, sino dirigiendo como manager, en otra función”, señaló Sevilla a EL COMERCIO.
+
+A las ganas, el ímpetu y el gozo se le suma su convencimiento de que puede guiar a los más **jóvenes deportistas** en distintos contextos y proveerles resiliencia. Aquello no aplica solo a nivel grupal y en la convivencia del día a día, sino a nivel táctico, aunque cree que el aprendizaje es permanente.
+
+El motor de su familia en **Bogotá**, a lo lejos, también se vuelve fundamental y allí es cuando recuerda el sacrificio que su esposa y sus hijas han hecho por él al acompañarlo a lo largo de su carrera. De igual forma, el saber que ha superado malestares en su peor año a nivel de lesiones le impulsan a ‘un poquito más’.
+
+La ‘Tuka’ Ordóñez brilla en Venezuela a sus casi 40 años
+========================================================
+
+Roberto Ordóñez sigue encendido, pero esta vez, sus goles resuenan en Venezuela.
+--------------------------------------------------------------------------------
+
+![Roberto Ordóñez celebrando de forma eufórica un gol con Estudiantes de Mérida de Venezuela.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-11T213430.637.jpg)
+
+**Roberto** **Ordóñez**, más conocido como la ‘**Tuka**’, vive una segunda juventud en el fútbol venezolano. A sus casi 40 años, el delantero ecuatoriano se ha convertido en figura del **Estudiantes de Mérida.**
+
+Tras un año discreto en 2023 con Aucas, donde solo anotó dos goles en 20 partidos, **Ordóñez optó por emigrar a Venezuela** para la temporada siguiente.
+
+### Más noticias:
+
+* [La Copa Ecuador tiene tres goleadores, pero uno en competencia](https://www.elcomercio.com/deportes/futbol/copa-ecuador-goleadores-ordonez-mero.html "La Copa Ecuador tiene tres goleadores, pero uno en competencia")
+* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
+* [Chelsea de Moisés Caicedo divide puntos con el Arsenal](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-empate-arsenal.html "Chelsea de Moisés Caicedo divide puntos con el Arsenal")
+
+Su primera parada fue el **Llaneros FC, en la segunda sivisión**. Allí, la ‘Tuka’ destacó con tres goles y dos asistencias en 10 partidos, lo que atrajo la atención de Estudiantes de Mérida, uno de los equipos más históricos de Venezuela.
+
+En apenas cuatro meses y **a sus 39 años, Ordóñez ha impactado en su nuevo equipo** con goles y asistencias, siendo pieza clave en la búsqueda del título, que Estudiantes no consigue desde hace casi cuatro décadas.
+
+Los goles de la ‘Tuka’ en Venezuela
+-----------------------------------
+
+Desde su llegada a Estudiantes de Mérida, Ordóñez ha dejado huella. Anotó su primer gol en su segundo partido contra Angostura, logrando un empate para su equipo. En el torneo Clausura, **sumó cuatro goles en 12 partidos**, siendo fundamental para que Estudiantes avanzara al cuadrangular final.
+
+En la fase final, la ‘Tuka’ ha seguido demostrando su calidad. En **cuatro encuentros, suma dos goles y una asistencia**, incluyendo su reciente actuación del 10 de noviembre, cuando anotó y asistió en la victoria 3-2 ante Monagas FC. Con estos aportes, Estudiantes de Mérida mantiene vivas sus aspiraciones de alcanzar la final.
+
+Actualmente, el equipo marcha tercero en el **Grupo B del cuadrangular con seis puntos** y aún tiene posibilidades de quedar primero para disputar la final.
+
+> La Tuka Ordoñez 🇪🇨 le da la victoria a Estudiantes de Mérida frente al Monagas en el 90+1 y el rojiblanco depende de si mismo para clasificar a la Final del Clausura.[#FutVe](https://twitter.com/hashtag/FutVe?src=hash&ref_src=twsrc%5Etfw) [#LigaFUTVE](https://twitter.com/hashtag/LigaFUTVE?src=hash&ref_src=twsrc%5Etfw) [@EstudiantesMEFC](https://twitter.com/EstudiantesMEFC?ref_src=twsrc%5Etfw) [pic.twitter.com/ncm1Nm0jV3](https://t.co/ncm1Nm0jV3)
+> 
+> — Estudiantes de Mérida FC (@EDMphotos1971) [November 11, 2024](https://twitter.com/EDMphotos1971/status/1855798256535486751?ref_src=twsrc%5Etfw)
+
+La carrera de la ‘Tuka’
+-----------------------
+
+Roberto Ordóñez **comenzó su carrera en la Segunda Categoría** en 2004 con Espol. Tras más de una década entre la Serie B y Segunda, debutó en la Serie A con Mushuc Runa en 2015, destacando con 12 goles.
+
+Luego de un breve paso por México, regresó a Ecuador en 2016, donde militó en varios equipos de Primera División. **Formó parte de planteles históricos como el Delfín** campeón de 2019 y el **Aucas** campeón de 2022.
+
+Hasta la fecha, Ordóñez ha disputado **533 partidos y anotado 159 goles** como profesional, además de haber debutado con la Selección de Ecuador en 2017.
+
+Alexandra Arce fue vinculada a un caso de peculado
+==================================================
+
+Alexandra Arce fue alcaldesa de Durán y es asambleísta por el movimiento del correísmo, Revolución Ciudadana.
+-------------------------------------------------------------------------------------------------------------
+
+![Alexandra Arce es asambleísta del correísmo, en la actualidad.](https://www.elcomercio.com/wp-content/uploads/2024/11/alexandra-arce.jpg)
+
+La asambleísta por el correísmo, **Alexandra Arce** (RC), fue vinculada a un caso de **peculado**, este lunes 11 de noviembre de 2024.
+
+La Fiscalía vinculó a Arce como **exalcaldesa de Durán**, en el período 2014 -2019, junto a 17 personas más.
+
+### Más noticias:
+
+* [Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador](https://www.elcomercio.com/actualidad/seguridad/rafael-correa-jorge-glas-procesos-sentencias-ecuador.html "Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador")
+* [La CIDH visitó a Jorge Glas en La Roca](https://www.elcomercio.com/actualidad/politica/cidh-visito-jorge-glas-la-roca.html "La CIDH visitó a Jorge Glas en La Roca")
+
+Alexandra Arce y el caso en el que se la vincula por peculado
+-------------------------------------------------------------
+
+La Fiscalía vinculó a la exalcaldesa de Durán y **actual asambleísta** por el correísmo, Alexandra Arce, en un caso del peculado.
+
+Arce y 17 personas más fueron vinculadas a la investigación en torno al presunto cometimiento de peculado en contratos del **Sistema de Conducción de Agua Potable El Chobo**.
+
+Este hecho habría ocasionado **un perjuicio de 40 millones de dólares.**
+
+En la audiencia en que se abordó la causa, el presidente de la Corte Provincial de Guayas, Francisco Morales, dictó p**risión preventiva** para estos funcionarios: 
+
+* **Aldo R.**, director de Planeamiento Territorial
+* **Stalin P.**, residente de obra – empresa ESEICO S. A.
+* **Edgar Q.**, verificador de avance
+* **Johnny V.**, administrador contrato principal
+
+El juez también ordenó **arresto domiciliario a 4 personas**: tercera edad y enfermedades catastróficas.
+
+Además, dispuso la **retención de cuentas bancarias** de algunos de los vinculados.
+
+A otros involucrados se le impuso **prohibición** de salida del país y presentación periódica ante el Fiscal del caso.
+
+Arce señala que la causa es una forma de **persecución política** por parte de la Fiscal General del Estado, **Diana Salazar**.
+
+Además, de politización de la justicia, por parte del presidente **Daniel Noboa.**
+
+La investigación en torno a la supuesta trama durante el periodo en el que Arce se desempeñaba como alcaldesa se enfocó en la **ampliación de cobertura** del servicio de conducción de agua potable de El Chobo al cantón Durán, en varios sectores.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw)| [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) vincula a Alexandra A. P., exalcaldesa de [#Durán](https://twitter.com/hashtag/Dur%C3%A1n?src=hash&ref_src=twsrc%5Etfw), y 17 personas más a la causa en la que se investiga el delito de [#Peculado](https://twitter.com/hashtag/Peculado?src=hash&ref_src=twsrc%5Etfw) en contratos del Sistema de Conducción de Agua Potable [#ElChobo](https://twitter.com/hashtag/ElChobo?src=hash&ref_src=twsrc%5Etfw), que habría ocasionado un perjuicio de 40 millones de dólares. [pic.twitter.com/KbXqiCyfDs](https://t.co/KbXqiCyfDs)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [November 11, 2024](https://twitter.com/FiscaliaEcuador/status/1856096352431690214?ref_src=twsrc%5Etfw)
+
+¿Cuándo será el Black Friday en Ecuador?
+========================================
+
+El Black Friday nació en Estados Unidos en los sesenta y se extendió por el mundo. Ecuador no está exento de este, ' el día de las compras'.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Black Friday es aprovechado por compradores de todo el mundo por las buenas ofertas que se encuentran](https://www.elcomercio.com/wp-content/uploads/2024/11/black-friday-ecuador.jpg)
+
+El **Black Friday**, en español “Viernes Negro”, se remonta a la década de 1960 en **Filadelfia**, Estados Unidos. Originalmente, el término fue utilizado por los oficiales de **policía** de la ciudad para describir el caos del **tráfico** y las **multitudes** que inundaban las calles al día siguiente de **Acción de Gracias**.
+
+### Más noticias
+
+* [Generadores eléctricos, analice su necesidad antes de comprarlos](https://www.elcomercio.com/actualidad/negocios/generadores-electricos-analice-necesidad-comprarlos-cortes-de-luz.html "Generadores eléctricos, analice su necesidad antes de comprarlos")
+* [El ecuatoriano compra solo ciertos alimentos por los cortes de luz](https://www.elcomercio.com/actualidad/negocios/como-conservar-alimentos-durante-cortes-luz-ecuador.html "El ecuatoriano compra solo ciertos alimentos por los cortes de luz")
+* [Meteórico aumento de la compra de generadores eléctricos en Ecuador](https://www.elcomercio.com/actualidad/negocios/meteorico-aumento-de-la-compra-de-generadores-electricos-en-ecuador.html "Meteórico aumento de la compra de generadores eléctricos en Ecuador")
+
+El número de personas que salía a comprar y la **cantidad de vehículos** que circulaban por la ciudad era tal que los agentes lo veían como un día caracterizado por el desorden y las largas horas de trabajo.
+
+Sin embargo, a lo largo de los años, el término **fue evolucionando y perdió su connotación negativa**. En lugar de asociarse con el caos, se empezó a vincular con una de las jornadas más esperadas por los **consumidores** y **comerciantes** por igual.
+
+A finales de la década de 1980, las **tiendas** comenzaron a ofrecer enormes **descuentos** en una amplia gama de productos, y el **Black Friday** se transformó en una fecha clave para las **ventas** del año.
+
+Fue en este momento cuando la expresión “pasar de **números rojos** a **números negros**” empezó a tener un significado más positivo, refiriéndose al cambio de **pérdidas** a **ganancias** para las empresas, un fenómeno **contable** que reflejaba un aumento sustancial en las ventas.
+
+El Black Friday se extendió por el mundo
+----------------------------------------
+
+Con el paso de los años, el **Black Friday** ha trascendido las fronteras de los **Estados Unidos**, convirtiéndose en un fenómeno **global**. En la actualidad, millones de **consumidores** en todo el mundo esperan este día para adquirir productos con grandes **descuentos**[.](https://es.wikipedia.org/wiki/Viernes_negro_(compras) "https://es.wikipedia.org/wiki/Viernes_negro_(compras)")
+
+Desde **tecnología** de última generación, **ropa** de marca, hasta **electrodomésticos** y **artículos para el hogar**, las tiendas lanzan promociones irresistibles que atraen a compradores de todas las edades.
+
+En algunos casos, incluso se da inicio a las **ofertas** a partir del jueves por la noche, extendiéndose hasta el **fin de semana** y culminando en el **Cyber Monday**, otro evento de **ventas online** que ha ganado relevancia en los últimos años.
+
+Además, las estrategias de **marketing** en torno al **Black Friday** se han sofisticado, creando una especie de “**hype**” que hace que los consumidores se preparen con anticipación para no perderse las mejores ofertas.
+
+Compras navideñas
+-----------------
+
+Las **tiendas** físicas y virtuales ahora cuentan con **campañas publicitarias** durante semanas previas al evento. Esto contribuye a que muchos consideren al **Black Friday** como el inicio no oficial de la **temporada de compras navideñas**.
+
+Este evento ha cambiado no solo la manera en que las personas compran, sino también cómo se estructuran los **ciclos comerciales** en muchos países. Mientras algunos lo ven como una oportunidad para ahorrar y adelantar **compras navideñas**, otros lo critican por fomentar el **consumismo** desmedido.
+
+¿Cuándo se celebra el Black Friday en Ecuador?
+----------------------------------------------
+
+El **Viernes Negro** se celebra luego del Día de Acción de Gracias. Esta festividad, de gran importancia para Estados Unidos, se conmemora el **cuarto jueves** de noviembre.
+
+Este año, el Día de Acción de Gracias coincide con el jueves 28 de noviembre, por lo que el Black Friday se realizará el **viernes 29 de noviembre**.
+
+En la actualidad, muchos comercios comienzan sus ofertas días antes, creando lo que se conoce como la semana del Black Friday o ‘**Cyber Week**‘, que culmina con el ‘**Cyber Monday**‘, un día dedicado a las **compras en línea**.
+
+Estas prácticas no han sido ajenas a las **tiendas de Ecuador**, las cuales han adoptado estas fechas como oportunidades de incrementar sus ventas.
+
+Calendario electoral en noviembre, claves del proceso de candidaturas
+=====================================================================
+
+El calendario electoral en noviembre define reemplazos, objeciones y resoluciones para candidaturas oficiales de 2025.
+----------------------------------------------------------------------------------------------------------------------
+
+![Segunda vuelta de las Elecciones Anticipadas 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-22-1.jpg)
+
+En el **proceso electoral de 2025**, el mes de noviembre **marca una fase decisiva para las candidaturas y objeciones**. Durante el año, el **Consejo Nacional Electoral (CNE)** avanza con varias etapas preelectorales, incluyendo la inscripción de **organizaciones políticas**, la realización de procesos de democracia interna, y la inscripción y revisión inicial de candidaturas.
+
+### Más noticias
+
+* [Calendario para los comicios de 2025, ¿cuándo inicia la campaña electoral?](https://www.elcomercio.com/actualidad/politica/calendario-comicios-2025-cuando-inicia-campana-electoral.html "Calendario para los comicios de 2025, ¿cuándo inicia la campaña electoral?")
+* [Un candidato presidencial anuncia que podría dejar la campaña electoral](https://www.elcomercio.com/actualidad/politica/candidato-presidencial-anuncia-podria-dejar-campana-electoral.html "Un candidato presidencial anuncia que podría dejar la campaña electoral")
+* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
+
+Ahora, el cronograma electoral continúa con la gestión de **reemplazos de candidaturas, objeciones**, y los trámites necesarios para resolver cualquier disputa que haya surgido en la **inscripción.**
+
+Lo que ya pasó en el calendario electoral
+-----------------------------------------
+
+En septiembre y octubre, el CNE gestionó la **inscripción de candidaturas y atendió las primeras objeciones,** cumpliendo con el proceso de notificación, resolución y eventual impugnación de aquellos casos que **presentaron inconsistencias**.
+
+Durante ese tiempo, también se trabajó en la **calificación y notificación de las candidaturas**. De igual forma, los recursos contenciosos que se presentaron ante el **Tribunal Contencioso Electoral (TCE)**.
+
+Estas etapas permitieron definir el panorama inicial de participantes y abrir el espacio para resolver las disputas y sustituciones de última instancia.
+
+Lo que resta en noviembre: reemplazos, objeciones y resolución final
+--------------------------------------------------------------------
+
+El 12 de noviembre **concluye el período de reemplazos de candidaturas**, que aplica cuando el TCE rechaza a algún candidato o lista, obligando a los **sujetos políticos a designar sustitutos**.
+
+El 13 de noviembre se **notificará el listado actualizado** a los sujetos políticos, de forma que conozcan el estado actual de sus candidaturas.
+
+Del **15 al 16 de noviembre**, se abre un nuevo período de objeciones para que los **sujetos políticos puedan presentar inconformidades con respecto a las candidaturas vigentes**. Tras esta fase, se correrá traslado al candidato objetado el **16 de noviembre**, brindándole la oportunidad de responder.
+
+> [#EcuadorVotaInformado](https://twitter.com/hashtag/EcuadorVotaInformado?src=hash&ref_src=twsrc%5Etfw) 🗳️  
+>   
+> El 1⃣9⃣ de enero se realizará [#EcuadorDebate2025](https://twitter.com/hashtag/EcuadorDebate2025?src=hash&ref_src=twsrc%5Etfw), un programa de televisión elaborado técnicamente, en el que los candidatos a la Presidencia de la República 🇪🇨 expondrán en igualdad de condiciones sus propuestas.  
+>   
+> 📍 Conoce el Manual de Debates 📄… [pic.twitter.com/QU5eYrb2n1](https://t.co/QU5eYrb2n1)
+> 
+> — cnegobec (@cnegobec) [November 7, 2024](https://twitter.com/cnegobec/status/1854569809502990444?ref_src=twsrc%5Etfw)
+
+Contestación y resolución de objeciones
+---------------------------------------
+
+El candidato objetado contará con dos días, del **17 al 18 de noviembre**, para presentar su contestación. Esta es la última instancia en la que el **candidato puede defender su posición** antes de que el CNE tome una decisión definitiva.
+
+Finalmente, el **20 de noviembre**, el CNE resolverá las objeciones y realizará la calificación final de las candidaturas. Con esto se **oficializará las listas de candidatos** que pasarán a las siguientes fases del proceso electoral.
+
+Selección de miembros de las Juntas Receptoras del Voto
+-------------------------------------------------------
+
+**Este martes 12 de noviembre del 2024**, según consta en el calendario electoral, se llevará a cabo el **sorteo** de los miembros de las **Juntas Receptoras del Voto**. Se lo realizará en cada una de las 24 delegaciones electorales de manera simultánea desde las 10:00.
+
+Posteriormente, del **18 de noviembre al 25 de enero del 2025**, los seleccionados en el sorteo deberán ser **notificados** por las autoridades electorales de cada provincia. Luego, **del 2 de diciembre al 9 de febrero del próximo año,** recibirán las **capacitaciones**.
+
+El **80% de los miembros** de las Juntas Receptoras del Voto son **estudiantes universitarios**. Y según la normativa, quienes han actuado en **tres elecciones consecutivas**, no serán tomados en cuenta para esta etapa electoral.
+
+Ecuador mantendrá cortes de luz de 12 horas hasta el jueves 14 de noviembre
+===========================================================================
+
+El Ministerio de Energía dio a conocer los horarios de cortes de luz para las nueve empresas eléctricas de Ecuador.
+-------------------------------------------------------------------------------------------------------------------
+
+![Las nueve empresas eléctricas de Ecuador socializaron sus cronogramas de apagones](https://www.elcomercio.com/wp-content/uploads/2024/11/luz-cortes-ecuador-12-horas.jpg)
+
+El **Ministerio de Energía** informó que Ecuador mantendrá cortes de luz de hasta **12 horas**, entre el miércoles 13 y el jueves 14 de noviembre de 2024.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil para este martes 12 de noviembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-luz-guayaquil-noviembre-12.html "Cortes de luz en Guayaquil para este martes 12 de noviembre")
+* [Cortes de luz en Quito este martes 12 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-12-noviembre.html "Cortes de luz en Quito este martes 12 de noviembre")
+* [Asociación de operadores móviles tiene una propuesta frente a los cortes de luz](https://www.elcomercio.com/actualidad/negocios/asociacion-operadores-moviles-propuesta-frente-cortes-luz.html "Asociación de operadores móviles tiene una propuesta frente a los cortes de luz")
+
+Según explicó la entidad, la medida se debe a que las **condiciones hidrológicas y climáticas** en las zonas de las hidroeléctricas se mantienen desfavorables.
+
+Con esto, los ecuatorianos tendrán **seis días consecutivos de apagones** extendidos a 12 horas. El sábado, de forma sorpresiva, el Gobierno anunció el aumento de **cuatro horas** a las programaciones previamente difundidas, por mantenimientos de emergencia.
+
+La **crisis en Ecuador** ha obligado a los ciudadanos a optar por **generadores** y aparatos electrónicos, como **UPS**, que en menor medida les permite trabajar y estudiar.
+
+La ministra encargada de la cartera de Estado, **Inés Manzano**, prometió que los cortes de luz en Ecuador finalizarán en los primeros días de diciembre, sin embargo, de no tener lluvias considerables en las zonas de las hidroeléctricas, este anuncio no se ajustará a la realidad.
+
+Cortes de luz en Quito, Guayaquil y Cuenca
+------------------------------------------
+
+Cronograma en Quito
+-------------------
+
+La **Empresa Eléctrica Quito** detalló los cronogramas de cortes para el miércoles y jueves. La programación es similar a de los dos días previos.
+
+Las **zonas residenciales** en la capital tendrán cortes de luz de **12 horas**, mientras que el sector residencial varía entre **siete y 14 horas**.
+
+Apagones en Guayaquil
+---------------------
+
+En Guayaquil, por su parte, la Corporación Nacional de Electricidad (**CNEL**) detalló cómo funcionará la programación de cortes de luz.
+
+Los cortes de luz en **la capital de Guayas** aumentarán de **11 a 12 horas** en la mayoría de sectores.
+
+La suspensión está programada en **dos y tres franjas**: madrugada-mañana, mañana-tarde y tarde-noche[.](https://www.cnelep.gob.ec/ "https://www.cnelep.gob.ec/")
+
+Programación en Cuenca
+----------------------
+
+Finalmente, **Centrosur** informó los horarios de cortes de luz por sectores. Esta empresa presentó la programación de forma más ordenada.
+
+La suspensión del servicio eléctrico en la **capital de Azuay** ser realizará también en dos y tres franjas, en las que los cortes se ajustan en espacios de cuatro y seis horas.
+
+Para conocer los cronogramas del **resto de ciudades del Ecuador** ingresa al [siguiente enlace](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/") y selecciona la empresa eléctrica que distribuye el servicio en tu localidad.
+
+Premier League suspende a árbitro por insultar al Liverpool y Klopp
+===================================================================
+
+Uno de los árbitros de la Premier League recibió un duro castigo por unas declaraciones polémicas.
+--------------------------------------------------------------------------------------------------
+
+![El árbitro David Coote fu suspendido por insultar al ex DT del Liverpool Jürgen Klopp.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-11T200451.727.jpg)
+
+El colegio de árbitros de la Premier League (PGMOL) **suspendió a uno de sus árbitro**s tras difundirse un video en el que **llama “gilipollas” y “arrogante” a Jürgen Klopp**, en director téncio del Liverpool de Inglaterra.
+
+El video, del cual se desconoce la fecha y que muestra al árbitro de Premier League **David Coote insultando a Klopp**, está siendo investigado por la competición inglesa y en él se puede ver al colegiado, junto a otra persona, insultando al que fue técnico del Liverpool hasta el verano pasado.
+
+### Más noticias:
+
+* [Moisés Caicedo se integra al equipo de la semana de la Premier League](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-integra-al-equipo-de-la-semana-de-la-premier-league.html "Moisés Caicedo se integra al equipo de la semana de la Premier League")
+* [Chelsea de Moisés Caicedo divide puntos con el Arsenal](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-empate-arsenal.html "Chelsea de Moisés Caicedo divide puntos con el Arsenal")
+* [Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder](https://www.elcomercio.com/deportes/futbol/brighton-dejo-escapar-la-victoria-liverpool-nuevo-lider-premier-leauge.html "Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder")
+
+Los insultos para Jürgen Klopp y el Liverpool
+---------------------------------------------
+
+“**Es un gilipollas, un absoluto gilipollas.** Además de lo que me hizo en un partido contra el Burnley durante la pandemia, me acusó de mentir. No tengo interés en hablar con alguien tan jodidamente arrogante. **Haré todo lo posible por no hablar con él, alemán gilipollas, joder**“, dijo el árbitro inglés David Coote en el video, que ha circulado en redes sociales desde el domingo.
+
+El compañero de **Coote** en el vídeo añade: “**Para resumir, Klopp es un gilipollas,** en Liverpool son unos capullos y les odiamos”.
+
+En otra grabación, del mismo día, David Coote pide que el otro vídeo no se comparta para que no se viralice. “No puede ir a ningún sitio, en serio”, dice, a lo que su compañero añade: “**Es un árbitro de la Premier League, no arruinemos su carrera**“.
+
+> 😳 | 𝗘𝗦𝗖𝗔́𝗡𝗗𝗔𝗟𝗢  
+>   
+> 📹 Circulan dos videos en el que David Coote, árbitro de Premier League, aparentemente bajo efectos de alguna sustancia, insulta tanto a Jürgen Klopp como al Liverpool.  
+>   
+> 👀 Deja entrever algunas decisiones polémicas en cuanto al arbitraje también. [pic.twitter.com/L1qeYOW9LS](https://t.co/L1qeYOW9LS)
+> 
+> — Chelsea Uruguay (@CFCUruguay) [November 11, 2024](https://twitter.com/CFCUruguay/status/1855984840241271258?ref_src=twsrc%5Etfw)
+
+David Coote árbitro al Liverpool el último partido
+--------------------------------------------------
+
+Curiosamente, **Coote fue el árbitro del Liverpool vs. Aston Villa,** que se jugó este sábado 9 de noviembre y que terminó en victoria de los ‘Reds’. Durante el encuentro los de Birmingham acabaron muy enfadados porque no se pitó un posible penalti sobre Pau Torres con 1-0 en el marcador.
+
+“**David Coote ha sido suspendido con efecto inmediato**, pendiente de una investigación completa”, dijo el PGMOL en un comunicado.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-11T200444.232-1024x683.jpg)
+
+David Coote (amarillo) durante el partido entre Liverpool vs. Aston Villa. Foto: EFE.
+
 Deportivo Quito ya tiene fecha para enfrentar a Liga de Portoviejo
 ==================================================================
 
@@ -277,729 +911,3 @@ AMT se pronunció tras difusión de los videos
 La Agencia Metropolitana de Tránsito (**AMT**) confirmó a **EL COMERCIO** que recibieron las denuncias ciudadanas a través de redes sociales.
 
 Los videos están en investigación, para determinar si las conductoras incumplieron con algún tipo de normativa metropolitana o **infracción de tránsito**, indicó la entidad.
-
-¿Qué necesita Liga de Quito para ganar la etapa de la Liga Pro?
-===============================================================
-
-Liga de Quito depende de sí misma para retener el título de la Liga Pro.
-------------------------------------------------------------------------
-
-![Alex Arce celebrando el gol que marcó con Liga de Quito a Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-11T181750.651.jpg)
-
-**Liga de Quito** logró una de las victorias más importantes del segundo semestre y de toda la temporada 2024 al vencer 2-1 a Independiente del Valle en casa. Con este triunfo, los albos se posicionan como líderes de la segunda etapa de la Liga Pro, con 29 puntos, mientras que IDV sigue como escolta con 26.
-
-Gracias a este resultado, el **equipo de Pablo ‘Vitamina’ Sánchez depende de sí mismo** para alcanzar una nueva final y así defender el título obtenido en 2023 bajo la dirección de Luis Zubeldía.
-
-### Más noticias:
-
-* [Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-victoria-albos.html "Liga de Quito vence a Independiente del Valle y se consolida para ganar la etapa")
-* [Liga de Quito intentará frenar a Independiente del Valle en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-independiente-rodrigo-paz-fecha13.html "Liga de Quito intentará frenar a Independiente del Valle en Liga Pro")
-* [Liga de Quito domina ampliamente el historial contra Independiente del Valle](https://www.elcomercio.com/deportes/futbol/liga-de-quito-domina-ampliamente-historial-contra-independiente-del-valle.html "Liga de Quito domina ampliamente el historial contra Independiente del Valle")
-
-La final de este año podría ser una repetición de la de 2023, ya que **Independiente** **del** **Valle** ganó la primera etapa y ya tiene asegurado su lugar en el partido por el título.
-
-¿Qué necesita para ganar la etapa?
-----------------------------------
-
-Con una ventaja de tres puntos sobre Independiente del Valle, y con dos fechas por jugar en la segunda etapa de la Liga Pro, **Liga de Quito** solo necesita sumar cuatro puntos de seis posibles para asegurarse un lugar en la final.
-
-Esto significa que con una **victoria y un empate, la ‘U’ jugará el partido decisivo** contra IDV. Si consigue las dos victorias, se asegurará el primer lugar de la etapa.
-
-Aunque con una victoria también podría llegar a la final, ahí ya no depende de sí mismo, ya que tendría que esperar los resultados de **Independiente del Valle** en sus dos partidos.
-
-Los siguientes partidos de Liga de Quito
-----------------------------------------
-
-**Liga** **de** **Quito** tiene una ventaja de cara al final de la temporada, y es que juega sus dos últimos partidos en Quito.
-
-En la penúltima fecha, se enfrentará a **Universidad** **Católica** en el Estadio Olímpico Atahualpa, donde se espera una gran afluencia de hinchas y cerrará la etapa en el Estadio Rodrigo Paz Delgado contra **Deportivo** **Cuenca**, con expectativas de estadio lleno.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Cortes de luz en Quito este martes 12 de noviembre
-==================================================
-
-La Empresa Eléctrica de Quito anunció los horarios y las franjas de los cortes de luz para cada sector de la capital.
----------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en la capital este martes 12 de noviembre los define la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-martes-12-noviembre-1.jpg)
-
-Los **cortes de luz** en **Quito** para este **martes 12 de noviembre** son de hasta 12 horas en el sector residencial y 14 en el sector industrial.
-
-Esta semana, el Gobierno volvió a subir las horas de cortes de luz en todo el país.
-
-### Más noticias:
-
-* [Gremio industrial con incertidumbre tras horarios de cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/gremio-industrial-incertidumbre-cortes-luz-quito.html "Gremio industrial con incertidumbre tras horarios de cortes de luz en Quito")
-* [Ciudadanos reclaman cumplimiento de horarios de cortes de luz](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-mazar-horarios-cronograma.html "Ciudadanos reclaman cumplimiento de horarios de cortes de luz")
-
-Los horarios de cortes de luz en Quito este martes 12 de noviembre
-------------------------------------------------------------------
-
-Ecuador está a **diez días de cumplir dos meses de cortes de luz programados**.
-
-Aunque la pretención del **Gobierno** era disminuir paulatinamente los cortes de luz, esto no pasó.
-
-La falta de lluvias ha provocado que las leves mejorías presentadas en las **hidroeléctricas** no sean suficientes para la reducción.
-
-Ahora, el embalse de **Mazar** está en un nivel crítico y la hidroeléctrica fuera de operación.
-
-Además, la operación de **Paute y Sopladora** es limitada.
-
-La situación hidroeléctrica del país se complica nuevamente, sin que se llegue a dar acuerdos con el sector privado de **Colombia**.
-
-Tampoco se **concretan** las otras vías de provisión de energía.
-
-Así, los cortes de luz en Quito son de 12 horas para el sector residencial y 14 para el sector industrial.
-
-Las empresas eléctricas siguen recordando que, debido a la mejora de las **condiciones hidrológicas**, los cortes de energía pueden reducirse dentro del periodo de corte programado.
-
-Varios **ciudadanos** reportan que los horarios de cortes de luz no se están cumpliendo.
-
-En la capital, hay sectores donde **el servicio** se debía ir de 12:00 a 18:00; pero, hasta las 15:00 no se iba.
-
-Sin embargo, el servicio también se suspendió a media mañana, cuando no estaba previsto en el **cronograma**.
-
-Esta variación ha impedido la ejecución de **actividades programadas** con normalidad, como el cumplimiento del teletrabajo por horarios.
-
-A continuación, los horarios de los **cortes de luz en Quito este martes 12 de noviembre** de 2024:
-
-Conozca la nueva regulación para los aires acondicionados
-=========================================================
-
-El Ministerio de Producción, Comercio Exterior, Inversiones y Pesca de Ecuador aprobó una revisión emergente del reglamento técnico para acondicionadores de aire sin ductos.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los aires acondicionados consumen 500 megavatios diarios, según el análisis del Gobierno.](https://www.elcomercio.com/wp-content/uploads/2024/11/aire.png)
-
-El Ministerio de Producción, Comercio Exterior, Inversiones y Pesca de Ecuador oficializó una normativa emergente sobre la eficiencia energética de los **acondicionadores de aire**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Gobierno apunta a la eficiencia energética de los electrodomésticos](https://www.elcomercio.com/actualidad/negocios/gobierno-apunta-a-la-eficiencia-energetica-de-electrodomesticos.html "Gobierno apunta a la eficiencia energética de los electrodomésticos")
-* [Gremio industrial con incertidumbre tras horarios de cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/gremio-industrial-incertidumbre-cortes-luz-quito.html "Gremio industrial con incertidumbre tras horarios de cortes de luz en Quito")
-* [Ciudadanos reclaman cumplimiento de horarios de cortes de luz](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-mazar-horarios-cronograma.html "Ciudadanos reclaman cumplimiento de horarios de cortes de luz")
-
-Este reglamento busca garantizar que todos los **aires acondicionados**, tanto nacionales como importados, cumplan con estándares de **eficiencia energética**. Este debe contribuir con la reducción del consumo eléctrico y proteger al medio ambiente.
-
-> 📣 ¡Atención Socios! Nuevo reglamento técnico para acondicionadores de aire sin ductos 🌱❄️  
->   
-> 👉Conozca mas detalles en el siguiente enlace: [https://t.co/pIQOHsMbNb](https://t.co/pIQOHsMbNb) [pic.twitter.com/EpOvSWFEmZ](https://t.co/EpOvSWFEmZ)
-> 
-> — Cámara de Comercio de Guayaquil (@lacamaragye) [November 11, 2024](https://twitter.com/lacamaragye/status/1856062222599880967?ref_src=twsrc%5Etfw)
-
-¿Qué exige el nuevo reglamento?
--------------------------------
-
-El reglamento incluye especificaciones sobre los **modelos de acondicionadores de aire** que se comercialicen en Ecuador. Estos equipos deben clasificarse entre las categorías de e**ficiencia energética** **D y A+++.**
-
-Con esta medida, se busca que los aparatos operen con menor **consumo energético**, un aspecto crucial en el contexto de la creciente demanda de energía en el país, señaló el Gobierno.
-
-Para asegurar el cumplimiento de estos estándares, el reglamento establece procedimientos de **certificación y evaluación**. Los mismos que deberán ser aplicados por los fabricantes e importadores de estos equipos.
-
-Además, la normativa regula el **etiquetado de los equipo**s. Esta exige que se incluya en un lugar visible información **sobre el consumo energético**, la clase de eficiencia y el país de origen. El etiquetado en español será obligatorio, aunque puede incluir otros idiomas.
-
-Asimismo, con esta actualización, el gobierno ecuatoriano pretende alinear sus políticas con las recomendaciones internacionales en eficiencia energética. Al mismo tiempo, se promueve un mayor control en la comercialización de equipos que cumplan con estándares más rigurosos.
-
-Esta nueva regulación fue emitida el 29 de octubre del 2024 y que entrará en vigencia con su publicación en el **Registro Oficial**.
-
-Comienza la COP29 con una llamada al mundo 
-===========================================
-
-La cumbre se celebrará en la capital de Azerbaiyán hasta el 22 de noviembre de 2024.
-------------------------------------------------------------------------------------
-
-![El secretario ejecutivo de la ONU para el cambio climático, Simon Stiell, interviene durante la ceremonia de apertura de la Conferencia de las Naciones Unidas sobre el Cambio Climático (COP29) en Bakú.](https://www.elcomercio.com/wp-content/uploads/2024/11/cop-29-efe.jpg)
-
-La [cumbre climática COP29](https://www.elcomercio.com/actualidad/mundo/cop26-claves-cumbre-climatica-glasgow.html "https://www.elcomercio.com/actualidad/mundo/cop26-claves-cumbre-climatica-glasgow.html") comenzó este lunes, 11 de noviembre de 2024, en Bakú (Azerbaiyán) con una llamada al mundo para elevar la meta de **financiación climática**, porque **“vamos de camino a la ruina”** del planeta, advirtió en la inauguración el presidente de la conferencia mundial, Mukhtar Babayev.
-
-### Más noticias
-
-* [Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático](https://www.elcomercio.com/actualidad/mundo/trump-llega-a-la-casa-blanca-dispuesto-a-demoler-la-lucha-contra-el-cambio-climatico.html "Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático")
-* [Presidencia de COP29 propone fondo de financiación climática](https://www.elcomercio.com/actualidad/mundo/presidencia-cop29-fondo-financiacion-climatica.html "https://www.elcomercio.com/actualidad/mundo/presidencia-cop29-fondo-financiacion-climatica.html")
-
-En la apertura de la cumbre, la **mayor cita mundial** para debatir sobre cambio climático, participó además del presidente de la anterior cumbre en Dubái (COP28), el **sultán Ahmed Al-Jaber**, el secretario ejecutivo de la ONU para el cambio climático, Simon Stiell.
-
-La cumbre se celebrará en l**a capital de Azerbaiyán** hasta el 22 de noviembre de 2024, con la presencia de líderes de todo el mundo del más alto nivel político, para intentar aumentar la financiación contra la crisis climática, entre los principales retos.
-
-No se trata esta crisis de un problema futuro sino presente, aseguró el presidente de la COP29; las evidencias lo demuestran, desde las **recientes inundaciones en España,** hasta los incendios forestales en Australia o la subida de las aguas de los océanos.
-
-### Cooperación mundial
-
-Los tres líderes insistieron en la necesidad de la **cooperación mundial** para hacer un mundo más verde y mitigar el calentamiento global.
-
-Todos ellos han recalcado la necesidad de **aumentar la financiación** y dotar de mayores herramientas a los países para mejorar la mitigación de emisiones y la adaptación a los embates cada vez más catastróficos del clima.
-
-“Es el momento de la verdad; no va a ser fácil, est**a cumbre será una oportunidad para el desarrollo**; podemos construir el punto pero todos tienen que cruzarlo”, ha dicho el presidente de la COP29.
-
-Instó a garantizar que esta **conferencia sea “inclusiva y transparente”** para dar soluciones a todo el planeta frente a la emergencia climática.
-
-Si no se pone freno al problema “nos llevará a un calentamiento de tres grados” del planeta, lo que provocaría una situación “catastrófica” para millones de personas.
-
-La gente pide a gritos “liderazgo” y acción; esta COP es “el momento ineludible” para trazar un nuevo camino para todos con un paquete ambicioso y equilibrado que cumpla todos los mandatos.
-
-Nuestro plan se basa en “aumentar la ambición y posibilitar la acción”, con planes climáticos claros y con la financiación necesaria.
-
-Previamente el presidente de la anterior cumbre climática, la COP 28 de Dubai, el sultán Ahmed Al-Jaber, ha insistido también en el reto de la financiación para que sea más fácil disponer de ella y más accesible para los países.
-
-**Pidió “unidad”** de todos en el actual contexto de **conflictos políticos** en el mundo porque “lo que se necesita es más paz y menos provocación o polarización”, dijo.
-
-Destacó los esfuerzos por la **descarbonización** logrados en la anterior cumbre Dubái y ofreció todo su apoyo frente a esta **crisis mundial con acciones**; “somos lo que hacemos, no lo que decimos”.
-
-“Actuemos con solidaridad por un mundo más verde” entre todos con más paz y sin caer en provocaciones”.
-
-Para terminar, el secretario ejecutivo de la ONU para el cambio climático, Simon Stiell, instó a acordar una nueva meta de financiación mundial para la lucha contra el cambio climático porque “ningún país es inmune” al calentamiento global.
-
-Ha destacado los “pasos históricos” de los últimos años para mitigar el problema y ha apelado a la responsabilidad de todos los países para evitar abandonar Bakú “sin un resultado sustancial”.
-
-“Si al menos dos terceras partes de los países del mundo no reducen rápidamente las emisiones, el conjunto de las naciones pagará un coste brutal” por ello, ha advertido el dirigente de la ONU.
-
-“Si no somos capaces de dotar de resiliencia a las cadenas de suministro, toda la economía mundial se pondrá de rodillas” ante una progresiva subida de las temperaturas.
-
-“Dejemos de lado la idea de que la financiación de la **lucha contra el cambio climático es caridad**“, porque “una nueva y ambiciosa meta financiera beneficia a todos los países, incluidos los más grandes y ricos”.
-
-“Pero no basta con acordar un objetivo. Debemos trabajar más para reformar el sistema financiero mundial. Dar a los países el espacio fiscal que tan desesperadamente necesitan”.
-
-Se ha referido a las acciones que es necesario emprender para **atajar el problema**; en Bakú, debemos poner en marcha los mercados internacionales de carbono, y ultimar el artículo 6 en cumplimiento con el Acuerdo de París para contener las emisiones por debajo de 1,5 grados.
-
-“No debemos permitir que el objetivo de 1,5 grados se nos escape de las manos. Aunque las temperaturas suban, nuestros acuerdos deben reducirlas”, dijo.
-
-Megan Fox y Machine Gun Kelly esperan un bebé
-=============================================
-
-Megan Fox y Machine Gun Kelly esperan su bebé arcoíris.
--------------------------------------------------------
-
-![Megan Fox y Machine Gun Kelly: éxito y fama. Foto: @meganfox.](https://www.elcomercio.com/wp-content/uploads/2024/11/Meghan-Fox-Machine-Gun-.jpg)
-
-**[Megan Fox](https://www.instagram.com/meganfox/ "https://www.instagram.com/meganfox/") y Machine Gun Kelly** son dos figuras icónicas del entretenimiento contemporáneo. Su relación ha capturado la atención del público debido a su autenticidad y pasión mutua. Con el **anuncio del embarazo**, ambos se embarcan en un nuevo viaje que seguramente será tan emocionante como sus carreras individuales. 
-
-### Más noticias
-
-* [MEGAN FOX criticó a político que la acusa de vestir a sus hijos con ropa de niñas](https://www.elcomercio.com/afull/megan-fox-politico-hijos-ropa.html "https://www.elcomercio.com/afull/megan-fox-politico-hijos-ropa.html")
-* [Megan Fox habló sobre su lucha contra el trastorno de dismorfia corporal](https://www.elcomercio.com/tendencias/entretenimiento/megan-fox-transtorno-dismorfia-corporal.html "https://www.elcomercio.com/tendencias/entretenimiento/megan-fox-transtorno-dismorfia-corporal.html")
-
-**Megan Fox: Una estrella en el firmamento de Hollywood** 
-----------------------------------------------------------
-
-**Megan Fox es una actriz y modelo** estadounidense, reconocida por su belleza y talento en la pantalla. Nació el 16 de mayo de 1986 en Oak Ridge, Tennessee. Desde joven mostró interés por la actuación y **comenzó su carrera en la industria del entretenimiento a los 15 años**. Su primer gran papel llegó con la película **‘Transformers’ (2007)**, donde interpretó a **Mikaela Banes**, lo que la catapultó a la fama. A partir de ahí, participó en diversas películas como ‘Jennifer’s Body’ (2009) y ‘Teenage Mutant Ninja Turtles’ (2014), de acuerdo con [Sensacine](https://www.sensacine.com/actores/actor-105046/biografia/ "https://www.sensacine.com/actores/actor-105046/biografia/").  
-
-Fox ha sido objeto de atención mediática no solo por su trabajo, sino también por su vida personal. Ha estado en el centro de rumores y especulaciones sobre sus relaciones amorosas, especialmente con el **rapero Machine Gun Kelly**. 
-
-**Machine Gun Kelly: Un fenómeno musical** 
--------------------------------------------
-
-**Machine Gun Kelly**, cuyo nombre real es **Colson Baker**, nació el 22 de abril de 1990 en Houston, Texas. **Es un rapero, cantante y actor estadounidense** que ganó notoriedad por su estilo musical único que fusiona hip hop y rock alternativo. Su carrera despegó tras lanzar su mixtape Lace Up en 2012, que incluyó el exitoso **sencillo Wild Boy**. 
-
-Además de su música, ha participado en películas como ‘Bird Box’ (2018) y ‘The Dirt’ (2019), donde interpretó a **Tommy Lee**, según [The Vogue](https://thevogue.com/artists/machine-gun-kelly/ "https://thevogue.com/artists/machine-gun-kelly/").  
-
-**La relación entre Megan Fox y Machine Gun Kelly** 
-----------------------------------------------------
-
-La relación entre **Megan Fox y Machine Gun Kelly** comenzó en 2020 durante el rodaje de la película ‘Midnight in the Switchgrass’. Desde entonces, se han vuelto inseparables, al compartir momentos románticos y colaboraciones artísticas. En enero de 2022, l**a pareja anunció su compromiso**, lo que generó gran revuelo en los medios, siguiendo con [Hola!](https://www.hola.com/us-es/celebrities/2022060943767/machine-gun-kelly-infancia-inicios-musicales-am/ "https://www.hola.com/us-es/celebrities/2022060943767/machine-gun-kelly-infancia-inicios-musicales-am/")
-
-Sin embargo, **tuvieron una breve separación a principios de 2023** antes de reconciliarse poco después. Su relación ha sido marcada por una i**ntensa conexión emocional y una estética única** que combina elementos del amor moderno con un toque de rock and roll. Ambos han expresado públicamente sus sentimientos a través de redes sociales e incluso han colaborado musicalmente, lo que ha fortalecido aún más su vínculo. 
-
-**El anuncio del embarazo** 
-----------------------------
-
-Recientemente, **Megan Fox y Machine Gun Kelly anunciaron que esperan su primer hijo juntos**, lo que ha generado un gran revuelo entre los fanáticos y los medios de comunicación. 
-
-Según [Univisión](https://www.univision.com/famosos/megan-fox-embarazada-bebe-arcoiris-machine-gun-kelly "https://www.univision.com/famosos/megan-fox-embarazada-bebe-arcoiris-machine-gun-kelly"), la actriz compartió en su Instagram la feliz noticia este lunes 11 de noviembre. **Hace un año, reveló que sufrió un aborto espontáneo**, perdiendo a la niña que esperaba con Machine Gun Kelly. Ahora, Megan Fox e**stá embarazada de su bebé arcoíris**, fruto de su amor con el cantante. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCPh1gGzj9u/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Megan Fox (@meganfox)](https://www.instagram.com/p/DCPh1gGzj9u/?utm_source=ig_embed&utm_campaign=loading)
-
-Uno de los imputados por la muerte de Liam Payne reveló detalles perturbadores
-==============================================================================
-
-Una de las tres personas imputadas por la muerte de Liam Payne reveló detalles durante una entrevista.
-------------------------------------------------------------------------------------------------------
-
-![Liam Payne murió el pasado 16 de octubre, en Buenos Aires. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-11T173804.836.jpg)
-
-El exintegrante de **One Direction,** **Liam Payne**, falleció el pasado 16 de octubre en **Buenos Aires** tras caer desde el tercer piso de un hotel en el barrio de **Palermo.**
-
-La Fiscalía Nacional en lo Criminal y Correccional N° 14, encabezada por el fiscal Andrés Madrea, investiga el caso como un posible abandono de persona seguido de muerte.
-
-Tres personas han sido imputadas, entre ellas Braian Nahuel Paiz, un joven camarero de 24 años, quien enfrenta cargos por presunto suministro de drogas.
-
-### **Más noticias:**
-
-* [‘Amigo’ de Liam Payne está en la mira por su muerte ¿De qué lo acusan?](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-amigo-justicia-muerte-investigaciones.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-amigo-justicia-muerte-investigaciones.html")
-* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html")
-* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link")
-
-**Uno de los imputados por la muerte de Liam Payne reveló inquietantes detalles**
----------------------------------------------------------------------------------
-
-**Braian Nahuel** Paiz, oriundo de Berazategui, relató que conoció a Payne el 2 de octubre en un restaurante de Puerto Madero.
-
-Según su versión, fue el cantante quien lo contactó para pedirle drogas. “Él ya estaba drogado cuando llegó al local; de hecho, no comió”, afirmó Paiz en una entrevista con el canal Telefé.
-
-Aunque el fiscal lo acusa de haber suministrado sustancias al músico, Paiz lo niega rotundamente. Según su relato, su relación con **Payne** se mantuvo a través de mensajes de Instagram y se volvió más cercana en los días previos al trágico evento.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C4Lp1JUtgRT/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Liam Payne (@liampayne)](https://www.instagram.com/reel/C4Lp1JUtgRT/?utm_source=ig_embed&utm_campaign=loading)
-
-El 13 de octubre, ambos se encontraron nuevamente en el hotel. Paiz reconoce haber consumido marihuana, mientras que Payne habría consumido cocaína. “No lo vi mal, lo vi normal”, indicó Paiz, quien asegura que el cantante no mostró signos de agresividad durante su encuentro.
-
-Añadió: “**Ahí nos drogamos, porque es la realidad, pasó algo íntimo. Me quedé toda la noche**“.
-
-El testimonio de Paiz sobre las últimas horas de Payne añade más misterio al caso. Según relató, el cantante parecía temeroso y envió un mensaje con una ubicación equivocada poco antes de su muerte.
-
-“Creo que lo dejaron solo”, declaró, sugiriendo que algo raro estaba ocurriendo en ese momento.
-
-**Más imputados por la muerte de Liam Payne**
----------------------------------------------
-
-Uno de los imputados en la causa es Rogelio Luis Nores, de 36 años, residente en Boulogne y dedicado a la **asesoría y gestión empresarial**.
-
-Nores se encontraba acompañando al músico estadounidense Payne durante su estadía en Buenos Aires y enfrenta cargos por abandono de persona en concurso con suministro y facilitación de drogas.
-
-El último y tercer imputado, Ezequiel David Pereyra, de 21 años, es un empleado del hotel donde **Payne** se alojaba. Pereyra es señalado por el suministro de cocaína en dos ocasiones durante el tiempo que el músico estuvo hospedado en dicho hotel.
-
-Asociación de operadores móviles tiene una propuesta frente a los cortes de luz
-===============================================================================
-
-La industria móvil en Ecuador enfrenta desafíos por los cortes de luz y busca soluciones para mitigar el impacto.
------------------------------------------------------------------------------------------------------------------
-
-![Para mitigar el impacto de los cortes de luz, el sector móvil aumentó la capacidad de sus baterías, sin embargo, las interrupciones del servicio continúan.](https://www.elcomercio.com/wp-content/uploads/2024/11/moviles.jpg)
-
-La **industria de telecomunicaciones en Ecuador** enfrenta grandes desafíos debido a los **cortes de luz**, de hasta 14 horas al día, que vive el país desde hace cerca de dos meses. Entre los afectados directos están los millones de usuarios de **operadoras móviles** y de p**roveedores de internet** que se quedan incomunicados durante varias horas[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular](https://www.elcomercio.com/actualidad/ecuador/comision-asamblea-fiscalizacion-fallas-telefonia-celular-claro-movistar.html "Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular")
-* [Telefónicas anuncian medidas a sus usuarios por cortes de luz](https://www.elcomercio.com/actualidad/negocios/telefonicas-medidas-cortes-luz.html "https://www.elcomercio.com/actualidad/negocios/telefonicas-medidas-cortes-luz.html")
-* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html")
-
-El servicio de telefonía móvil y datos depende de la electricidad
------------------------------------------------------------------
-
-La interrupción de los servicios de telefonía móvil y datos se deben, principalmente, a que la infraestructura de las **redes móviles** depende de la electricidad. Por ello, los **prolongados cortes de luz** se convierten una amenaza para la conectividad en el país.
-
-La Asociación Global de Operadores Móviles (GSMA) señaló que las empresas del sector han implementado **medidas de emergencia** para mantener a los usuarios conectados. Entre ellas están el aumento de la capacidad de las baterías de respaldo en las estaciones de transmisión y el despliegue de más **generadores** para suplir temporalmente la falta de energía, aunque ambos sistemas de soporte tienen limitaciones.
-
-Además de las medidas técnicas adoptadas, el sector móvil implementó iniciativas de apoyo para los usuarios afectados. Entre ellas, la **postergación de pagos de facturas,** la **oferta de servicios adicionales sin costo** y la optimización de la logística de combustible para garantizar que los generadores puedan operar el mayor tiempo posible.
-
-Aun así, la industria enfrenta grandes retos, pues estas soluciones alternativas no pueden cubrir la demanda energética durante **periodos prolongados de interrupciones**.
-
-Ante ello, la Asociación Global de Operadores Móviles (GSMA) hizo una propuesta al Gobierno del Ecuador. El objetivo es trabajar en coordinación para buscar soluciones sostenibles a este problema.
-
-Una de las propuestas presentadas es **coordinar los cortes de energía** en horarios que permitan cargar las baterías de respaldo y optimizar así los recursos.
-
-Esta colaboración busca mitigar el impacto de la escasez eléctrica en las telecomunicaciones, priorizando el acceso a la conectividad, que resulta crucial para la vida diaria de los ciudadanos en un momento de crisis energética.
-
-Deportivo Cuenca ganó y hundió a Imbabura en el descenso
-========================================================
-
-Deportivo Cuenca escaló en la tabla acumulada a la posición 13 y se aleja del descenso.
----------------------------------------------------------------------------------------
-
-![Vilington Branda (c) y sus compañeros celebran el gol marcado a Imbabura en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/cuenca_imbabura_1.jpg)
-
-**Deportivo Cuenca** logró una necesitada y merecida victoria ante el Imbabura de 0-2, que por su parte, se complicó con el descenso en la tabla acumulada de la Liga Pro, con lo que encendió las alarmas.
-
-El encuentro entre el I**mbabura y el Deportivo Cuenca se jugó la tarde de este lunes 11** de noviembre de 2024, desde las 15:00, en un poco concurrido estadio Olímpico de Ibarra, la casa de los imbabureños que este año ascendieron a la Serie A.
-
-### Más noticias:
-
-* [Es oficial, final de Copa Ecuador se disputará en otro estadio y ciudad](https://www.elcomercio.com/deportes/futbol/oficial-final-copa-ecuador-estadio.html "Es oficial, final de Copa Ecuador se disputará en otro estadio y ciudad")
-* [Libertad sorprendió y goleó a un desganado El Nacional en Latacunga](https://www.elcomercio.com/deportes/futbol/libertad-goleada-nacional-estadio-cocha.html "Libertad sorprendió y goleó a un desganado El Nacional en Latacunga")
-* [Chelsea de Moisés Caicedo divide puntos con el Arsenal](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-empate-arsenal.html "Chelsea de Moisés Caicedo divide puntos con el Arsenal")
-
-El primer gol del Cuenca llegó a los 79 minutos, **con la firma de Vilington Germán Branda**, ingresado para el inicio del segundo tiempo por Dany Luna, a pase de Lucas Mancinelli, el principal referente del actual plantel.
-
-Branda recibió tarjeta amarilla por **despojarse de su camiseta en el momento del eufórico** y esperado festejo que, junto a sus compañeros, lo realizaron sobre el gramado del Olímpico de Ibarra, para satisfacción de los suyos y decepción de los rivales.
-
-A los **89 minutos el propio Branda sentenció el 0-2** con un potente remate cruzado desde fuera del área, que dejó como un espectador más al arquero Edisson Recalde, el sacrificado de la tarde en el 11 de los ‘Gardenios’.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/cuenca_imbabura_2-1024x683.jpg)
-
-El Cuenca respira en la tabla
------------------------------
-
-Con la victoria el **Deportivo Cuenca prácticamente salvó la categoría** y permanecerá un año más en la Liga Pro Serie A, pese a tener una campaña irregular en la que solo ganó siete de sus 28 juegos en lo que va del calendario.
-
-En la segunda etapa los **‘camisetas coloradas’ llegaron a 12 puntos** y un gol diferencia negativo de -1. Su campaña se resume en cuatro victorias, tres empates y seis derrotas. Anotó 14 goles y recibió 15.
-
-En la acumulada **llegaron a los 28 puntos y un gol diferencia de cero**, con lo que prácticamente se vuelve inalcanzable para Libertad (23), Imbabura (23) y Cumbayá (23), los tres equipos restante involucrados con el descenso.
-
-El nuevo colista es Cumbayá, que tiene un gol diferencia negativo de -26, por lo que también es un punto ‘invisible’ que puede ir en su contra en la sumatoria final.
-
-**Imbabura es penúltimo con los mismos 23 puntos y -25** de gol diferencia. Al momento, los dos son los descendidos a la Liga Pro Serie B de 2025.
-
-El gran ganador de esta etapa fue Libertad de Loja. **Los lojanos le ganaron 1-4 a un deslucido** y dormido El Nacional en el estadio La Cocha de Latacunga, con lo que abandonaron la zona del descenso, pero aún ni están del todo salvados.
-
-Tienen 23 puntos y un gol diferencie negativo de -16. **En la fecha 14 visitarán al Cuenca** en el Alejandro Serrano Aguilar, y en la 15 recibirán a Emelec en el Reina del Cisne.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-9-819x1024.jpg)
-
-San viernes
------------
-
-La Selección de Ecuador y Alexander Domínguez, ¿están distanciados?
-===================================================================
-
-Desde la llegada de Sebastián Beccacece a la selección, Alexander Domínguez ha perdido regularidad en las convocatorias.
-------------------------------------------------------------------------------------------------------------------------
-
-![Alexander Domínguez en un partido con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-11T171937.682.jpg)
-
-Una de las grandes ausencias de la **Selección de Ecuador** para los partidos contra Bolivia y Colombia es Alexander Domínguez, arquero titular y figura de Liga de Quito, quien nuevamente quedó fuera de los convocados por **Sebastián Beccacece**.
-
-Los arqueros elegidos por el técnico argentino fueron **Hernán Galíndez**, figura en Huracán de Argentina, Moisés Ramírez y Gonzalo Valle. Curiosamente, Ramírez y Valle han sido suplentes en sus respectivos equipos, y **Valle es el suplente de Domínguez** en Liga.
-
-### Más noticias:
-
-* [Ángel Mena sin ‘rencor’ con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-jovenes-ecuador-retiro.html "Ángel Mena sin ‘rencor’ con la Selección de Ecuador")
-* [Leonardo Campana pide ‘comprensión’ para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-seleccion-ecuador-delanteros.html "Leonardo Campana pide ‘comprensión’ para la Selección de Ecuador")
-* [La Selección de Ecuador vs. Bolivia, ¿cuándo juegan?](https://www.elcomercio.com/deportes/futbol/cuando-juega-bolivia-ecuador-guayaquil.html "La Selección de Ecuador vs. Bolivia, ¿cuándo juegan?")
-
-¿Por qué no es convocado Alexander Domínguez?
----------------------------------------------
-
-Considerando que Ramírez y Valle no atraviesan su mejor momento, y que ‘**Dida’ lidera la defensa de Liga de Quito**, equipo que busca llegar a la final de la Liga Pro, su ausencia resulta sorprendente.
-
-**Francisco Egas**, presidente de la Federación Ecuatoriana de Fútbol (FEF), se refirió a la no convocatoria del dos veces mundialista durante una rueda de prensa este lunes 11 de noviembre.
-
-“Yo no soy nadie para hablar de la convocatoria de uno y otro jugador. **No hay ninguna sanción**,” comentó Egas.
-
-Asimismo, Egas aclaró que solo **Sebastián Beccacece toma las decisiones sobre los jugadores** convocados y los motivos detrás de cada elección.
-
-“Él tiene en su cabeza lo que piensa plantear y lo que necesita de cada jugador,” destacó el dirigente.
-
-Desde que Beccacece asumió como DT, **Alexander Domínguez** no ha estado presente en ninguna de las tres convocatorias, lo cual envía un mensaje claro, la etapa de ‘Dida’ en la Selección parece haber llegado a su fin después de la Copa América 2024, donde fue titular.
-
-Los números de ‘Dida’ Domínguez en 2024
----------------------------------------
-
-Durante 2024, Alexander Domínguez ha disputado 39 partidos en cinco competencias diferentes.
-
-En esos partidos, ha **recibido 39 goles** y ha mantenido su arco en cero en 15 ocasiones.
-
-Desde la llegada de Beccacece, el 1 de agosto, ‘Dida’ ha sido titular y figura en la segunda etapa de la Liga Pro con Liga de Quito. En **13 partidos, ha recibido 12 goles** y ha mantenido la valla invicta en seis encuentros, lo que mantiene a Liga como líder del segundo semestre.
-
-En Estados Unidos siete estados aprobaron la protección del aborto
-==================================================================
-
-La población de los siete estados votó sobre el aborto en las elecciones de Estados Unidos de 2024.
----------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo de personas que protestan frente a la Casa Blanca para exigir que se proteja el aborto legal.](https://www.elcomercio.com/wp-content/uploads/2024/11/aborto-estados-unidos-efe.jpg)
-
-**Siete estados** votaron a favor de consolidar los **derechos reproductivos**, dos de ellos **Misuri y Arizona** revirtiendo la prohibición que estaba vigente. Los otros cinco son **Nevada, Colorado, Nueva York, Montana y Meryland**, de acuerdo a la BBC.
-
-### Más noticias:
-
-* [Embajada hizo una aclaración sobre leyes de inmigración a Estados Unidos](https://www.elcomercio.com/actualidad/ecuador/embajada-aclaracion-leyes-inmigracion-estados-unidos.html "Embajada hizo una aclaración sobre leyes de inmigración a Estados Unidos")
-* [Enmiendas sobre el uso de marihuana y aborto fracasan en Florida](https://www.elcomercio.com/actualidad/mundo/enmiendas-sobre-el-uso-de-marihuana-y-aborto-fracasan-en-florida.html "Enmiendas sobre el uso de marihuana y aborto fracasan en Florida")
-* [¿Cómo quedan el Senado y la Cámara Baja en Estados Unidos tras las elecciones?](https://www.elcomercio.com/actualidad/mundo/como-queda-senado-camara-estados-unidos.html "¿Cómo quedan el Senado y la Cámara Baja en Estados Unidos tras las elecciones?")
-
-En las elecciones de noviembre de 2024, los votantes en 10 estados de Estados Unidos tomaron una decisión histórica respecto al **derecho al aborto**, un tema que sigue siendo clave en la política del país, dos años después de la controvertida revocación de la protección nacional al aborto por parte de la Corte Suprema.
-
-Según la BBC, el referendo en estos estados muestra cómo el **derecho reproductivo** continúa siendo una cuestión de **alta relevanci**a en la agenda pública de EE.UU.
-
-En total, siete estados votaron a favor de consolidar los **derechos reproductivos**, mientras que tres decidieron mantener o reforzar las restricciones al aborto. En estados como Arizona y Misuri, la ciudadanía aprobó enmiendas que garantizan el **derecho al aborto** hasta la viabilidad fetal (alrededor de la semana 23 o 24 de embarazo), lo que marca un cambio significativo respecto a las **restricciones previas.**
-
-En otros estados, como **Nevada, Colorado, Nueva York y Maryland,** se realizaron reformas constitucionales que consagran explícitamente el derecho de las **mujeres a interrumpir su embarazo,** una victoria para los defensores del derecho reproductivo.
-
-Por otro lado, la BBC destaca que en estados como Florida, Nebraska y Dakota del Sur, los votantes decidieron mantener las restricciones al aborto. En **Florida, una de las leyes más restrictivas del país,** que prohíbe el aborto después de la **sexta semana de embarazo,** se mantiene vigente, a pesar de los esfuerzos por invalidarla. En Dakota del Sur, donde las **leyes de aborto son extremadamente restrictivas**, los votantes rechazaron una enmienda que habría protegido el aborto en el primer trimestre del embarazo.
-
-Implicaciones del voto sobre el aborto en Estados Unidos
---------------------------------------------------------
-
-Este referendo subraya la **creciente polarización** en torno al tema del aborto en Estados Unidos. Como informó la BBC, los resultados muestran una **fuerte división** entre estados que apuestan por proteger los derechos reproductivos y aquellos que buscan restringirlos.
-
-En estados como **Nueva York y Montana,** donde los votantes respaldaron la ampliación de derechos reproductivos, se resalta el deseo de **reforzar la autonomía de las mujeres** sobre sus cuerpos y salud. Por el contrario, en estados del sur y el medio oeste, como Florida y Dakota del Sur, las políticas restrictivas siguen siendo la norma, lo que refuerza la **tensión política en torno al tema.**
-
-Este panorama revela cómo el derecho al aborto sigue siendo uno de los temas más candentes en la política estadounidense. Según expertos, este tipo de **decisiones estatales** tiene un impacto directo en las elecciones presidenciales, ya que las políticas sobre derechos reproductivos siguen siendo una prioridad para muchos votantes. La BBC concluye que, a medida que continúan los **debates sobre el aborto,** los resultados de este referendo servirán como indicador de las futuras luchas legislativas en torno a los derechos reproductivos en todo el país.
-
-Ciclistas rinden homenaje a Carla Barona en Quito y exigen respeto en las vías
-==============================================================================
-
-Ciclistas en Quito y en Tulcán exigen acciones concretas para garantizar la seguridad en las vías. En la capital se recordó a Carla Barona.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los ciclistas dejaron mensajes en honor a Carla Barona durante la Ciclo Vida 2024 realizada en Quito para exigir más respeto en las vías.](https://www.elcomercio.com/wp-content/uploads/2024/11/CarlaBarona.jpg)
-
-Cientos de ciclistas se autoconvocaron nuevamente en **Quito** para recorrer las calles y exigir respeto por la vida de los pedalistas. Esta vez, la manifestación fue en homenaje a **Carla Barona**, quien falleció en un siniestro de tránsito en **Riobamba** durante el reciente feriado, pero también en memoria de todos los ciclistas que han perdido la vida en las vías.
-
-El domingo 10 de noviembre de 2024, los ciclistas recorrieron 25 km por la ciudad, culminando en la subida a **Nayón**, un lugar emblemático para los deportistas quiteños, donde se pintó un mural en honor a Carla.
-
-### Más noticias:
-
-* [¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?](https://www.elcomercio.com/deportes/equipos-ciclismo-vuelta-ecuador-2024.html "¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?")
-* [Segundo Navarrete y Steven Haro buscan revancha en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/vuelta-ecuador-2024-segundo-navarrete-steven-haro-revancha.html "Segundo Navarrete y Steven Haro buscan revancha en la Vuelta al Ecuador")
-* [Dos ciclistas abandonan tras aparatosa caída en Vuelta a Ecuador](https://www.elcomercio.com/deportes/vuelta-ecuador-ciclistas-bajas-etapa-1.html "Dos ciclistas abandonan tras aparatosa caída en Vuelta a Ecuador")
-
-**Barona**, muy querida en la comunidad ciclista, falleció cuando un conductor la embistió en **Riobamba.** Se conoce que el chofer huyó y que las investigaciones están en curso.
-
-Ciclo Vida 2024 en honor a Carla Barona
----------------------------------------
-
-Al concluir el recorrido de 25 km, amigos, familiares y ciclistas se reunieron en el sector de la Udla Arena, en el norte de Quito, donde un artista local pintó un mural en su honor, junto al de **Richard Carapaz**.
-
-Durante la **Ciclo Vida 2024**, se escribieron mensajes pidiendo respeto y visibilidad para los ciclistas.
-
-“Tratamos de visibilizarnos, de hacer sentir que sobre las bicicletas van personas, van vidas”, expresó **Alfonso Borja**, quien colaboró en la organización.
-
-La convocatoria reflejó el clamor por mayor [seguridad en las vías](https://es.wikipedia.org/wiki/Seguridad_en_el_ciclismo), especialmente tras el fallecimiento de otro ciclista el 9 de noviembre en **Tababela.**
-
-**Felipe Borja**, activista y ciclista extremo, expresó su frustración por la falta de respuestas: “Los accidentes se repiten de manera constante a lo largo de los años. Hemos hablado incansablemente con las autoridades, pidiendo espacio y respeto, pero no hay oídos. Las autoridades sucumben a las presiones de la industria automotriz por más espacio, más velocidad y menos control”.
-
-Borja aseguró que “las sanciones son casi inexistentes”, lo que aumenta la sensación de vulnerabilidad entre los ciclistas aficionados y élites en el país.
-
- “Todas estas incongruencias nos tienen sumamente afectados, aparte de las pérdidas humanas, es incomprensible lo que sucede en la ciudad, en el país, y en la buena parte del mundo también”, añadió **Felipe Borja.**
-
-![Los ciclistas dejaron mensajes en honor a Carla Barona durante la Ciclo Vida 2024 realizada en Quito para exigir más respeto en las vías.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-22-1024x683.jpg)
-
-Los ciclistas recorrieron 25 km por calles de Quito el 10 de noviembre del 2024. Foto: Felipe Borja.
-
-En Tulcán buscan más seguridad
-------------------------------
-
-En Tulcán, la comunidad ciclista también busca mayor seguridad. **Clubes** y escuelas de ciclismo de la provincia del **Carchi** han solicitado al Ministerio de Obras Públicas y a la Dirección de Aviación Civil el uso de la pista del aeropuerto Luis A. Mantilla para entrenamientos y eventos, para contar con mayor seguridad.
-
-Según **Visión Cero** – Tulcán – Plan de acción enfocado a la seguridad en la práctica del ciclismo en Carchi, **cuatro ciclistas han fallecido este 2024 en el país**, tres de ellos en noviembre.
-
-Actualmente, unos 450 ciclistas que forman parte de la comunidad ciclista en **Carchi,** entre profesionales, máster y juveniles, se entrenan en la Red Vial Estatal E35 (**Panamericana norte**) cuyo tráfico promedio diario es mayor a 8 mil vehículos por día, con un índice alto de siniestros de tránsito con ciclistas involucrados.
-
-Ante eso, los ciclistas, sobre todo de las categorías formativas en la provincia fronteriza, buscan la autorización para utilizar la pista aérea para sus entrenamientos, toda vez que el aeropuerto Luis A. Mantilla no recibe vuelos comerciales por más de 10 años.  
-
-Verónica Abad apelará la suspensión en instancias internacionales
-=================================================================
-
-El Ministerio del Trabajo suspendió a Verónica Abad durante 150 días por "abandono de trabajo".
------------------------------------------------------------------------------------------------
-
-![Dominique Dávila y Damián Armijos, abogados de la vicepresidenta Verónica Abad](https://www.elcomercio.com/wp-content/uploads/2024/11/abad-veronica-abad-api.jpg)
-
-**Verónica Abad** solicitó a la Asamblea General las garantías para difundir el video de una reunión, en la que se trató el **sumario administrativo** en su contra. La petición la hizo a través de sus **abogados**. Abad fue suspendida de sus funciones de vicepresidenta, luego de un sumario laboral.
-
-### Más noticias
-
-* [Ministra del Trabajo se pronuncia sobre suspensión de Verónica Abad](https://www.elcomercio.com/actualidad/negocios/ministra-trabajo-pronuncia-suspension-veronica-abad.html "Ministra del Trabajo se pronuncia sobre suspensión de Verónica Abad")
-* [La vicepresidenta Verónica Abad habló sobre su suspensión](https://www.elcomercio.com/actualidad/politica/la-vicepresidenta-veronica-abad-hablo-sobre-su-suspension.html "La vicepresidenta Verónica Abad habló sobre su suspensión")
-* [Vicepresidenta Verónica Abad fue suspendida](https://www.elcomercio.com/actualidad/politica/veronica-abad-funciones-ministerio-trabajo.html "Vicepresidenta Verónica Abad fue suspendida")
-
-Ministerio de Trabajo suspendió a Verónica Abad
------------------------------------------------
-
-El Ministerio de Trabajo informó de la suspensión de **150 días sin remuneración** a Abad, el pasado viernes 8 de noviembre de 2024.
-
-La funcionaria fue sancionada por una **falta administrativa**, tras no presentarse en Ankara, Turquía, antes del 1 de septiembre de 2024, como se le ordenó mediante el Decreto Ejecutivo No. 353.
-
-La Vicepresidenta llegó el 9 de septiembre desde **Tel Aviv**, Israel, presuntamente sin justificar su retraso. Esto implicó su **ausencia** en su destino asignado.
-
-Durante la audiencia realizada el jueves 7 de noviembre, representantes de la Presidencia y del Ministerio de Relaciones Exteriores señalaron que se ofrecieron las **condiciones necesarias** para su traslado, con notificación previa sobre la exigencia de presentarse a tiempo.
-
-Este supuesto **abandono injustificado** fue tratado conforme al artículo 48, de la Ley Orgánica del Servicio Público (Losep). La defensa de Abad argumentó que no se contaba con pruebas para sostener la falta[.](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad")
-
-### TCE emitió otra sanción días atrás
-
-Días atrás, el Tribunal Contencioso Electoral (**TCE**) emitió otra sanción contra la funcionaria por realizar **actos de campaña anticipada**.
-
-La denuncia, presentada por **Juan Esteban Guarderas**, vocal del Consejo de Participación Ciudadana y Control Social, surgió a mediados de año.
-
-El organismo concluyó la sanción en una multa de **8 500 dólares** para Abad.
-
-Abogados de Verónica Abad anticiparon acciones legales internacionales
-----------------------------------------------------------------------
-
-Los abogados de la Vicepresidenta, **Dominique Dávila y Damián Armijos**, explicaron este lunes 11 de noviembre de 2024 las **acciones legales** que tomarán.
-
-Su mensaje coincidió con lo anticipado por Abad en un **video difundido** en sus redes sociales.
-
-La funcionaria calificó la sanción en su contra como una “violación innegable a los principios de **legalidad** y **justicia**“.
-
-> 🔴 IMPORTANTE 🇪🇨  
-> Mi rechazo frente a la improcedente, clara, e innegable violación a los principios de legalidad y justicia, con la "suspensión" en mi contra por el Ministerio de Trabajo.  
-> Defenderé con firmeza los derechos, libertad y democracia de nuestra República. [pic.twitter.com/5ktscTZ3pE](https://t.co/5ktscTZ3pE)
-> 
-> — Verónica Abad (@veroniabad) [November 11, 2024](https://twitter.com/veroniabad/status/1855785638282375312?ref_src=twsrc%5Etfw)
-
-En su declaración, **Abad** denunció presiones para que renuncie. También habló del **encarcelamiento** de su hijo, lo que, según ella, “ha afectado su honra y la de su familia”.
-
-Los abogados de Abad anunciaron que presentaron una **acción de protección,** que impugna la **resolución del sumario administrativo** “por considerar el proceso de destitución un acto abusivo de poder, por parte del Ejecutivo de Daniel Noboa”. Aseguraron que acudirán ante la **Comisión Internacional de Derechos Humanos** para pedir **medidas cautelares** contra la resolución y que, en el caso de que se determinen indicios de responsabilidad penal, pedirán al Legislativo se ponga en conocimiento a **Fiscalía** y **Contraloría.**
-
-Nueva Vicepresidenta encargada
-------------------------------
-
-La **Presidencia de la República** emitió un comunicado la mañana de este lunes 11 de noviembre en el que se informó la designación de una nueva **Vicepresidenta encargada**.
-
-El documento señaló que en aplicación del artículo 150 de la Constitución de la República, la Presidencia encargó la institución a **Sariha Moya**.
-
-Sobre ello, Armijos aseguró que esta acción “no tiene ningún sentido” debido a que la decisión de la suspensión **no está en firme**.
-
-“Quedan varios recursos por cumplir antes que la resolución esté en firme, **nosotros vamos a ejercer todos ellos**“.
-
-Sobre la seguridad para Verónica Abad
--------------------------------------
-
-Al ser consultados los voceros de Abad sobre si la Vicepresidenta mantiene protección para salvaguardar su seguridad, el abogado Damián Armijos aseguró que no la tiene “desde hace tiempos por disposición de **Daniel Noboa**“.
-
-Sin embargo, las Fuerzas Armadas del Ecuador emitieron un comunicado la tarde de este lunes donde manifestaron que la **Casa Militar Presidencial** continuará brindando la protección “tal cual la ha venido recibiendo” Abad.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/image-6-819x1024.png)
-
-Asamblea sesiona el miércoles por Verónica Abad
-===============================================
-
-El pedido de Verónica Abad a la Asamblea fue presentado el pasado 17 de septiembre.
------------------------------------------------------------------------------------
-
-![Verónica Abad en la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/11/veronica-abad-asamblea.jpg)
-
-El Pleno de la **Asamblea** sesionará por el pedido de la vicepresidenta **Verónica Abad**, el **miércoles** 13 de noviembre de 2024, a las 15:00.
-
-La presidenta del Legislativo, **Viviana Veloz**, realizó la convocatoria este lunes 11 de noviembre.
-
-### Más noticias:
-
-El pedido de Verónica Abad y la sesión del Pleno de la Asamblea
----------------------------------------------------------------
-
-Horas después de que el **Ministerio de Trabajo** sancionara, vía sumario administrativo, a la vicepresidenta Verónica Abad con **150 días de suspensión** por abandono del cargo, Veloz convocó al Pleno.
-
-La Asamblea conocerá y resolverá sobre un pedido de la Vicepresidenta de la República del **17 de septiembre**.
-
-En esa ocasión, cuando el Parlamento eL dirigido por Henry Kronfle (PSC), el tema no llegó a tramitarse en el Pleno.
-
-Ahora, bajo la presidencia del **correísmo**, con **Viviana Veloz**, el Pleno tratará el tema.
-
-Abad solicitó a la Asamblea que fiscalice a las ministras del Trabajo, **Ivonne Núñez**, y de Relaciones Exteriores, **Gabriela Sommerfeld**.
-
-El motivo de la fiscalización es una supuesta “**arrogación de funciones**” en la que habrían incurrido las dos funcionarias por el sumario administrativo en su contra.
-
-En el documento que Abad envió a la Asamblea, señaló que es dignataria de elección popular, sujeta al control político de la Asamblea.
-
-Explicó que las designaciones, vía decreto ejecutivo, como **embajadora** del Ecuador por la paz y embajadora de Ecuador ante el Estado de Israel, no le hacen perder la calidad de Vicepresidenta.
-
-“No soy al mismo tiempo vicepresidenta de la República y embajadora, ya que este inexistente escenario acarrearía que me encuentre en situación de **pluriempleo**“, añadió.
-
-Abad explicó que pretenden sancionarle por la **Ley Orgánica de Servicio Público (LOSEP)**, por hechos que sucedieron bajo el régimen de la **Ley Orgánica de Servicio Público (LOSE)**, sin tomar en cuenta que sigue siendo la Vicepresidenta.
-
-### Verónica Abad sobre las dos ministras
-
-La Vicepresidenta sentenció que el sumario en su contra es otro acto de **persecución política** y hostigamiento.
-
-Que el presidente Daniel Noboa ha instaurado varios mecanismos para impedir su reemplazo en el cargo cuando se vea obligado a separarse de este ante su inminente **candidatura presidencial**.
-
-Abad dijo que hay que fiscalizar las actuaciones de **Cancillería** y determinar cómo se ha buscado hostigarla y denigrarla como persona y, con ello, “ineludiblemente **perjudicar** la autoridad institucional de la Vicepresidencia de la República”.
-
-Y, al **Ministerio del Trabajo,** que al iniciarle el sumario administrativo está atribuyéndose indebidamente funciones que no le corresponden.
-
-“El procesamiento y eventual **destitución** de la vicepresidenta de la República en el ejercicio de sus funciones solo le corresponde a la Asamblea Nacional”, agregó.
-
-Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador
-==============================================================
-
-El presidente de Argentina, Javier Milei, no asistirá a la XXIX Cumbre Iberoamericana que se celebrará en Ecuador el jueves y el viernes próximos, fechas en las que el mandatario planea viajar a Estados Unidos. Más noticias Milei y su visita a Ecuador Fuentes de la Presidencia argentina confirmaron este lunes 11 de noviembre de \[…\]
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Javier Milei, presidente de Argentina, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-10.jpg)
-
-El presidente de Argentina, **Javier Milei**, no asistirá a la XXIX Cumbre Iberoamericana que se celebrará en **Ecuador** el jueves y el viernes próximos, fechas en las que el mandatario planea viajar **a Estados Unidos**[.](https://es.wikipedia.org/wiki/Javier_Milei "https://es.wikipedia.org/wiki/Javier_Milei")
-
-### Más noticias
-
-* [Javier Milei asegura que universidad pública seguirá sin arancel en medio de protestas](https://www.elcomercio.com/actualidad/mundo/milei-asegura-universidad-publica-seguira-arancel-medio-protestas.html "Javier Milei asegura que universidad pública seguirá sin arancel en medio de protestas")
-* [La pobreza urbana en Argentina subió al 52,9 % en el primer semestre](https://www.elcomercio.com/tendencias/pobreza-urbana-argentina-subio-529-primer-semestre.html "La pobreza urbana en Argentina subió al 52,9 % en el primer semestre")
-
-Milei y su visita a Ecuador
----------------------------
-
-Fuentes de la **Presidencia argentina** confirmaron este lunes 11 de noviembre de 2024 que Milei no viajará a **Cuenca** para participar de la cita que reunirá a los jefes de Estado y Gobierno de Iberoamérica, a la que asistirá, entre otros, el rey **Felipe VI**, pero no el presidente del Gobierno español, Pedro Sánchez.
-
-La cumbre de Cuenca se celebrará en coincidencia con el viaje que Milei planea a Florida (EE.UU.) para participar en la Conferencia de Acción Política Conservadora (CPAC, en inglés), que tendrá lugar entre el jueves y el sábado en Mar-a-Lago, donde el presidente electo de Estados Unidos, Donald Trump, tiene una mansión.
-
-Viaja a Estados Unidos
-----------------------
-
-Fuentes oficiales confirmaron el pasado jueves que **Milei** planea asistir a la CPAC para reunirse con Trump.
-
-Si bien aún no se ha confirmado si se producirá el encuentro entre ambos, la **prensa argentina** insiste en que ese es el principal objetivo de Milei.
-
-El primer encuentro entre **Milei y Trump** se produjo en los márgenes de una edición de la misma conferencia el pasado 24 de febrero en National Harbor, Maryland (EE.UU.), una reunión en la que se transmitieron su **mutua simpatía** y buenos deseos, pero no se tradujo en una reunión formal.
-
-Aliado de Argentina
--------------------
-
-El Gobierno de Milei, que ha señalado a **Estados Unidos e Israel** como sus principales aliados en materia de política exterior, expresó la semana pasada su “apoyo incondicional” al “liderazgo” de Trump, a quien calificó como un “exponente del mundo libre, occidental y capitalista”.
-
-Tras su viaje a Estados Unidos, Milei, líder de la formación de **ultraderecha** La Libertad Avanza (LLA), planea participar de la Cumbre del G20 que se celebrará los días 18 y 19 de noviembre en Río de Janeiro.
-
-Según confirmaron este lunes fuentes oficiales, previo a esa cita, Milei mantendrá un encuentro en Buenos Aires con el **presidente de Francia, Emmanuel Macron**, quien viajará a Suramérica para la cumbre del G20.
-
-También está confirmado que, una vez celebrada la cumbre de **Río de Janeiro,** Milei recibirá el 20 de noviembre en Buenos Aires a la primera **ministra italiana, Giorgia Meloni,** quien también asistirá a la reunión del G20 en Brasil.
-
-El gobierno de Milei
---------------------
-
-El gobierno de **Javier Milei en Argentina** ha sido caracterizado por cambios radicales y controvertidos desde su inicio en diciembre de 2023. Como presidente **libertario**, Milei ha implementado un programa de reformas estructurales sin precedentes en la historia reciente del país.
-
-El eje central de su gestión ha sido el **ajuste fiscal drástico**, que Milei mismo ha descrito como “el más grande de la historia de la humanidad”. Este ajuste incluyó una **reducción** significativa del gasto público, pasando de **18 a 9 ministerios**, recortando empleos públicos, suspendiendo la obra pública y reduciendo subsidios.
-
-La devaluación
---------------
-
-Milei implementó una **fuerte devaluación del peso argentino**, que duplicó el valor del dólar. También firmó un megadecreto de necesidad y urgencia con 366 artículos para desregular la **economía**, incluyendo controvertidas reformas laborales.
-
-En el ámbito legislativo, el gobierno presentó la “Ley Bases”, un proyecto de **ley ómnibus** que, aunque inicialmente rechazado, fue posteriormente aprobado en una **versión reducida**.
-
-Económicamente, el gobierno celebra haber **logrado un superávit fiscal** en el primer trimestre de 2024 y una reducción de la inflación del 25,5% en diciembre de 2023 al 8,8% en abril de 2024. Sin embargo, estas medidas **han tenido un alto costo social**. El consumo masivo cayó un 20,4%, la pobreza aumentó del 44% al 55%, y la pobreza extrema se duplicó del 9% al 18%.
-
-Estilo de gobierno
-------------------
-
-Las políticas de Milei han afectado **diversos sectores**. Se redujeron drásticamente los presupuestos de educación, salud y desarrollo social. Se paralizó la obra pública y se suspendieron programas sociales y de salud. A pesar de no contar con una **mayoría parlamentaria**, Milei ha logrado avanzar con su agenda gracias al apoyo de sectores de la oposición y a la crisis que atraviesan los **partidos tradicionales**.
-
-El estilo de gobierno de Milei se ha caracterizado por un **discurso confortativo**, acusando a la “casta política” de ser responsable de los problemas del país. Su enfoque ha polarizado la opinión pública, con defensores que ven sus **medidas como necesarias** para la recuperación económica y críticos que advierten sobre el costo social y el debilitamiento institucional.
-
-**_Con información de EFE_**
-
-Ministra del Trabajo se pronuncia sobre suspensión de Verónica Abad
-===================================================================
-
-Verónica Abad enfrenta un sumario administrativo sin suspensión de sus derechos políticos. según la ministra del Trabajo, Ivonne Núñez.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![La ministra del Trabajo explicó la suspensión de Verónica Abad como vicepresidenta de la República.](https://www.elcomercio.com/wp-content/uploads/2024/11/ivonne.jpg)
-
-La ministra de Trabajo, Ivonne Núñez, se pronunció este 11 de noviembre de 2024 sobre la **suspensión** de **Verónica Abad** como vicepresidenta del Ecuador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [La vicepresidenta Verónica Abad habló sobre su suspensión](https://www.elcomercio.com/actualidad/politica/la-vicepresidenta-veronica-abad-hablo-sobre-su-suspension.html "La vicepresidenta Verónica Abad habló sobre su suspensión")
-* [Vicepresidenta Verónica Abad fue suspendida](https://www.elcomercio.com/actualidad/politica/veronica-abad-funciones-ministerio-trabajo.html "Vicepresidenta Verónica Abad fue suspendida")
-* [Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE](https://www.elcomercio.com/actualidad/politica/audiencia-denuncia-veronica-abad-contra-daniel-noboa-instalo-tce.html "Audiencia por denuncia de Verónica Abad contra Daniel Noboa se instaló en el TCE")
-
-Derechos políticos de Verónica Abad
------------------------------------
-
-La ministra Núñez aseguró que Abad no está **inhabilitada políticamente** y aclaró que solo enfrenta una **suspensión** **laboral**. “Ella goza de todos sus derechos políticos”, dijo.
-
-Además, agregó que en este caso se cumple el **artículo 23 del Pacto de San José**. Este artículo indica que se violan derechos humanos cuando, durante un **sumario administrativo en el sector público**, se suspenden los derechos políticos de una persona”, aseguró Núñez, en una entrevista con TCTelevisión.
-
-Y, también se cumplen con artículos 61 y 62 de la Constitución de la República, que aborda los derechos políticos en el Ecuador, señaló.
-
-Asimismo, dijo que este **proceso administrativo** siguió su curso y llegó a esta fase de resolución porque, en su calidad de Vicepresidenta, Abad presentó una acción de protección en Quito.
-
-“La jueza de la Unidad Judicial correspondiente determinó que al existir norma previa en la Ley Orgánica de Servicio Pública (Losep), el Ministerio del Trabajo debía continuar con el sumario administrativo”, dijo.
-
-Además, señaló que quien le da la viabilidad al Ministerio del Trabajo para continuar con este proceso es una juez constitucional. “Y quien utilizó la vía constitucional fue la señora **Verónica Abad**“, agregó**.**
-
-La decisión del Ministerio de Trabajo sobre Verónica Abad
----------------------------------------------------------
-
-El sábado 9 de noviembre se conoció que el **Ministerio de Trabajo** suspendió a Abad por 150 días por no haberse presentado en **Ankara**, capital de Turquía, dentro del plazo indicado por el Gobierno del Ecuador. El Ejecutivo la trasladó desde Tel Aviv (Israel), donde cumplía funciones como embajadora. El motivo del desplazamiento fue por seguridad dentro del conflicto que se suscita en Oriente Medio.
-
-Sobre la seguridad de la Segunda Mandataria, el Comando Conjunto de las Fuerzas Armadas informó que la “Casa Militar Presidencial continuará brindando la protección tal cual la ha venido recibiendo”.
-
-Por su parte, el presidente **Daniel Noboa** designó este lunes a **Sariha Moya** como vicepresidenta encargada tras la suspensión de Abad.
