@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/note-value-scavenger-hunt/)
+ [](https://schoolsmusicmarket.com/product/elements-of-music-posters-classroom-decoration/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/music-and-maths-an-easter-worksheet/)
+ [](https://schoolsmusicmarket.com/product/music-appreciation-worksheet/)
 
 ###### Browse By Year/Grade
 
