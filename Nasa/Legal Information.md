@@ -281,7 +281,7 @@ article 4 days ago](https://www.nasa.gov/hrp/hero/)[![](https://www.nasa.gov/wp-
 
 ### Do You Have Proposals for New Human Research Studies Benefiting Spaceflight?
 
-article 7 days ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human-research-studies-benefiting-spaceflight/)
+article 1 week ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human-research-studies-benefiting-spaceflight/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 7 days ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-fi
 
 ### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 
-article 3 hours ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
+article 4 hours ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/awe/AWE-Hurricane-Helene-blueDarkRed_Still2.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-p
 
 ### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 
-article 3 hours ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Two Puerto Rican women stand on a beach, both wearing teal longsleeve shirts and sunglasses. The one on the left has a tan, wide-brimmed hat, and the one on the right has a pink baseball cap.](https://www.nasa.gov/wp-content/uploads/2024/11/1q4a4494.jpg?w=1024)
+article 4 hours ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Two Puerto Rican women stand on a beach, both wearing teal longsleeve shirts and sunglasses. The one on the left has a tan, wide-brimmed hat, and the one on the right has a pink baseball cap.](https://www.nasa.gov/wp-content/uploads/2024/11/1q4a4494.jpg?w=1024)
 
 4 min read
 
 ### Interview with OCEANOS Instructor María Fernanda Barbarena-Arias
 
-article 10 hours ago](https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/)[![A Puerto Rican man with a bushy white beard, green bucket hat, teal longsleeve shirt, and black shorts gestures to a group of high school students wearing neon orange shirts.](https://www.nasa.gov/wp-content/uploads/2024/11/img-2293.jpg?w=1024)
+article 11 hours ago](https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/)[![A Puerto Rican man with a bushy white beard, green bucket hat, teal longsleeve shirt, and black shorts gestures to a group of high school students wearing neon orange shirts.](https://www.nasa.gov/wp-content/uploads/2024/11/img-2293.jpg?w=1024)
 
 3 min read
 
 ### Interview with OCEANOS Instructor Samuel Suleiman
 
-article 10 hours ago](https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/)
+article 11 hours ago](https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/)
 
 ### Highlights
 
