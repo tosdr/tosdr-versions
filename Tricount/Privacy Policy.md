@@ -188,8 +188,7 @@ The type of Personal Data we collect from third parties include confirmations of
 
 5.2 We respond to all requests we receive from data subjects wishing to exercise their rights relating to the protection of their personal data in accordance with the applicable data protection law.
 
-**Links to other Websites  
-**The Website and the Applications may contain hyperlinks or buttons redirecting to Websites and/or applications owned and operated by third parties. These Websites/Applications have their own privacy policies and we encourage you to review them. They will govern the use of the Personal Data you submit by visiting these Websites.  
+**Links to other Websites**The Website and the Applications may contain hyperlinks or buttons redirecting to Websites and/or applications owned and operated by third parties. These Websites/Applications have their own privacy policies and we encourage you to review them. They will govern the use of the Personal Data you submit by visiting these Websites.  
 We are not responsible for the privacy practices of these third party Websites and your use of such websites is at your own risk.
 
 6\. Updating this Policy
