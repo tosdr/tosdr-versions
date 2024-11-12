@@ -20,16 +20,16 @@ Tuesday, November 12 2024
 
 Latest
 
-* [Valve finally made a white Steam Deck that you can actually buy](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
-* [A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
-* [The Best Time of the Year to Start Working Out Is Now](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
-* [Best and Worst Cooktop Brands of 2024](https://digitpatrox.com/best-and-worst-cooktop-brands-of-2024/)
-* [How to Add Wi-Fi to a Desktop Computer](https://digitpatrox.com/how-to-add-wi-fi-to-a-desktop-computer/)
-* [5 Best Salary Benchmarking Tools for Competitive Pay Analysis](https://digitpatrox.com/5-best-salary-benchmarking-tools-for-competitive-pay-analysis/)
-* [Valve reveals limited edition white Steam Deck — just in time for Black Friday](https://digitpatrox.com/valve-reveals-limited-edition-white-steam-deck-just-in-time-for-black-friday/)
-* [iPhones now auto-restart to block access to encrypted data after long idle times](https://digitpatrox.com/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
-* [Google Learn About takes AI chatbot answers a step further](https://digitpatrox.com/google-learn-about-takes-ai-chatbot-answers-a-step-further/)
-* [Today’s Wordle Answer and Hints (November 12, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-12-2024/)
+* [New Ymir ransomware partners with RustyStealer in attacks](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
+* [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
+* [I May Finally Yield to the Dyson Airwrap, Thanks to This Insane Early Black Friday Deal!](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
+* [Amazon confirms employee data compromised amid 2023 MOVEit breach claims – but the hacker behind the leak says a host of other big tech names are also implicated](https://digitpatrox.com/amazon-confirms-employee-data-compromised-amid-2023-moveit-breach-claims-but-the-hacker-behind-the-leak-says-a-host-of-other-big-tech-names-are-also-implicated/)
+* [12 Google Docs Hacks Every Student Should Know](https://digitpatrox.com/12-google-docs-hacks-every-student-should-know/)
+* [Unsafe Infant Sleep Products Are Still Easy to Find Online](https://digitpatrox.com/unsafe-infant-sleep-products-are-still-easy-to-find-online/)
+* [The First Apple Music Book Will Cost You $450](https://digitpatrox.com/the-first-apple-music-book-will-cost-you-450/)
+* [Power supply shortages are a ticking time bomb for data center operators](https://digitpatrox.com/power-supply-shortages-are-a-ticking-time-bomb-for-data-center-operators/)
+* [7 Best CRM Software for Startups](https://digitpatrox.com/7-best-crm-software-for-startups/)
+* [Mila Air Purifier Review | Tom’s Guide](https://digitpatrox.com/mila-air-purifier-review-toms-guide/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/uO_irQp0i3vzrArMyweZ-ELw2KE=/0x0:2400x1350/1200x628/filters:focal(1445x937:1446x938)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727587/steam_deck_white_001.jpg)](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/02/20/ransomware.jpg)](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
     
-    [Valve finally made a white Steam Deck that you can actually buy](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
+    [New Ymir ransomware partners with RustyStealer in attacks](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
     
-    29 seconds ago
+    9 seconds ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/share-files-from-the-taskbar-on-windows-11.jpg)](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
+* [![](https://cdn.vox-cdn.com/thumbor/t1zx7m8eNJ6upFzeemPLsWXi6N4=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25298160/nvidia_app_key_visual.jpg)](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
     
-    [A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
+    [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
     
-    19 mins ago
+    18 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HF2H2ZZQWHG8CQFPS0X3KRQZ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Black-Friday-Dyson-Airwrap-Deal.jpg)](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
     
-    [The Best Time of the Year to Start Working Out Is Now](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
+    [I May Finally Yield to the Dyson Airwrap, Thanks to This Insane Early Black Friday Deal!](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
     
-    3 hours ago
+    37 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730475882/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Best-Cooktops-1124)](https://digitpatrox.com/best-and-worst-cooktop-brands-of-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/2B9Jf7dfcUvu2kKmsDvM3S-1200-80.jpg)](https://digitpatrox.com/amazon-confirms-employee-data-compromised-amid-2023-moveit-breach-claims-but-the-hacker-behind-the-leak-says-a-host-of-other-big-tech-names-are-also-implicated/)
     
-    [Best and Worst Cooktop Brands of 2024](https://digitpatrox.com/best-and-worst-cooktop-brands-of-2024/)
+    [Amazon confirms employee data compromised amid 2023 MOVEit breach claims – but the hacker behind the leak says a host of other big tech names are also implicated](https://digitpatrox.com/amazon-confirms-employee-data-compromised-amid-2023-moveit-breach-claims-but-the-hacker-behind-the-leak-says-a-host-of-other-big-tech-names-are-also-implicated/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_759581101.png)](https://digitpatrox.com/how-to-add-wi-fi-to-a-desktop-computer/)
+* [![](https://lifehacker.com/imagery/articles/01HFQEQZEX90CXAG91SB3MMBFW/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/12-google-docs-hacks-every-student-should-know/)
     
-    [How to Add Wi-Fi to a Desktop Computer](https://digitpatrox.com/how-to-add-wi-fi-to-a-desktop-computer/)
+    [12 Google Docs Hacks Every Student Should Know](https://digitpatrox.com/12-google-docs-hacks-every-student-should-know/)
     
     3 hours ago
     
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [29 seconds ago
+* [9 seconds ago
     
-    ### Valve finally made a white Steam Deck that you can actually buy](https://digitpatrox.com/valve-finally-made-a-white-steam-deck-that-you-can-actually-buy/)
-* [19 mins ago
+    ### New Ymir ransomware partners with RustyStealer in attacks](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
+* [18 mins ago
     
-    ### A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
-* [3 hours ago
+    ### Nvidia’s new app replacement for GeForce Experience is now out of beta](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
+* [37 mins ago
     
-    ### The Best Time of the Year to Start Working Out Is Now](https://digitpatrox.com/the-best-time-of-the-year-to-start-working-out-is-now/)
+    ### I May Finally Yield to the Dyson Airwrap, Thanks to This Insane Early Black Friday Deal!](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
 
 Most Popular Topics
 
-* [August 21, 2024
+* [September 27, 2024
     
-    ### Apple Vision Pro fails to ignite business interest – Computerworld](https://digitpatrox.com/apple-vision-pro-fails-to-ignite-business-interest-computerworld/)
-* [September 9, 2024
+    ### Tails Linux Is Teaming up With the Tor Project](https://digitpatrox.com/tails-linux-is-teaming-up-with-the-tor-project/)
+* [2 weeks ago
     
-    ### Apple Watch 10 preorders — save up to $365 right now](https://digitpatrox.com/apple-watch-10-preorders-save-up-to-365-right-now/)
-* [August 24, 2024
+    ### Best Handheld Leaf Blowers of 2024](https://digitpatrox.com/best-handheld-leaf-blowers-of-2024/)
+* [1 day ago
     
-    ### Boost your mobility and ease tension in just 10 minutes with this stretching routine](https://digitpatrox.com/boost-your-mobility-and-ease-tension-in-just-10-minutes-with-this-stretching-routine/)
+    ### Jio 5G Has a New Trick up Its Sleeve to Help Save Your Phone’s Battery Life](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### The First Apple Music Book Will Cost You $450](https://digitpatrox.com/the-first-apple-music-book-will-cost-you-450/)
 * [4 hours ago
     
-    ### Valve reveals limited edition white Steam Deck — just in time for Black Friday](https://digitpatrox.com/valve-reveals-limited-edition-white-steam-deck-just-in-time-for-black-friday/)
-* [5 hours ago
+    ### Power supply shortages are a ticking time bomb for data center operators](https://digitpatrox.com/power-supply-shortages-are-a-ticking-time-bomb-for-data-center-operators/)
+* [4 hours ago
     
-    ### iPhones now auto-restart to block access to encrypted data after long idle times](https://digitpatrox.com/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
-* [5 hours ago
-    
-    ### Google Learn About takes AI chatbot answers a step further](https://digitpatrox.com/google-learn-about-takes-ai-chatbot-answers-a-step-further/)
+    ### 7 Best CRM Software for Startups](https://digitpatrox.com/7-best-crm-software-for-startups/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
