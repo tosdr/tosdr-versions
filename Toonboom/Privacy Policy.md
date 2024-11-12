@@ -64,7 +64,6 @@
     Toon Boom sets itself appart in the market through a grass roots connection with the global animation market through its ambassadors, social channels, live video content, forums, networks. It’s all about sharing our common passion for animation. Join the conversation.
     
     * Column 1
-        * [Forums](https://forums.toonboom.com/)
         * [Adult Animation White Paper](https://www.toonboom.com/adult-animation-white-paper)
         * [Animation From Every Angle Digital Magazine](https://www.toonboom.com/animation-from-every-angle)
         * [Ambassadors Gallery](https://www.toonboom.com/community/ambassadors-gallery)
@@ -133,7 +132,6 @@ Open Menu
 * [Community](#)
     * [Back](#)
     * [Community](https://www.toonboom.com/community)
-        * [Forums](https://forums.toonboom.com/)
         * [MPV Program](https://forms.toonboom.com/community-mvp-program)
         * [Adult Animation White Paper](https://www.toonboom.com/adult-animation-white-paper)
         * [Animation From Every Angle Digital Magazine](https://www.toonboom.com/animation-from-every-angle)
@@ -373,7 +371,6 @@ Follow us
     * [Students](https://www.toonboom.com/students)
     * [Teachers](https://www.toonboom.com/teachers)
 * [Community](https://www.toonboom.com/community)
-    * [Forums](https://forums.toonboom.com/)
     * [Adult Animation White Paper](https://www.toonboom.com/adult-animation-white-paper)
     * [Animation From Every Angle Digital Magazine](https://www.toonboom.com/animation-from-every-angle)
     * [Ambassadors Gallery](https://www.toonboom.com/community/ambassadors-gallery)
