@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Kobus Venter
+Anri van der Linde
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=161012449)  
-Three Moons Emporium
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=102337629)  
+Sonic Electrical Services PTY Ltd
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=72138784)  
-National Elite Security Services (PTY) LTD
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=107284216)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=33581347)  
-Moving Made Easy (PTY) Ltd
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=137813631)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=69133435)  
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=50449785)  
+Baby Toddles Infant Care
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=190479312)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=187140087)  
+Dr V Naik Consult
+
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=174454397)  
+Well Hung Art
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=117542183)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=143322407)  
+Atalie Scented Candles Pty Ltd
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=94056689)  
+APTV Telecoms CC
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=136940567)  
+NGB HOLDINGS PTY LTD
+
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=103625055)  
+Henry's Home Renovations
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=177081345)  
 Brilliant Roof Products
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=189287335)  
-#DiGi3 Marketing & Design
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=205186928)  
-Chiron Medical Solutions
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=8998473)  
-Vplay Letsheng Mall
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=83266039)  
-CGHK Enterprises (PTY) LTD
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=178272300)  
-Gemini-IT Group
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=151536209)  
-Oukraal Merino's
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=17490885)  
-Multi CNC Solutions CC
-
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=29524453)  
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=84065357)  
 The Gourmet Artisans Ltd.
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=10613052)  
-kidoscabbie
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=112831526)  
-Kaylas Creations
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=f756ff82e989a87bd07f4b89f1291c79f120bdc32e0bab688d4aacf8e899b037&c=120442234)  
-Dr V Naik Consult
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=59681374)  
+Stories (Pty) Ltd t/a Storietyd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
