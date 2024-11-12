@@ -1,24 +1,23 @@
  
 
 * Es noticia:
+* [Deportivo de la Coruña](https://www.marca.com/futbol/segunda-division/cronica/2024/11/11/67325dfa46163ff5138b459e.html)
 * [Deportivo - Eibar](https://www.marca.com/futbol/laliga-hypermotion/deportivo-eibar/2024/11/11/01_0102_20241111_180_953-directo.html)
+* [Borja Mayoral](https://www.marca.com/futbol/getafe/2024/11/11/susto-borja-mayoral-incendio-casa-recogia-zarra.html)
 * [Alcaraz próximo partido](https://www.marca.com/tenis/copa-masters/2024/11/11/juega-alcaraz-segundo-partido-atp-finals-2024.html)
 * [Alcaraz](https://www.marca.com/tenis/copa-masters/2024/11/11/carlos-alcaraz-cede-dos-sets-ruud-empieza-cuesta.html)
-* [Real Madrid](https://www.marca.com/futbol/real-madrid/2024/11/11/pesadilla-interminable-madrid-rotura-cruzado-mes-medio.html)
+* [Pito Camacho](https://www.marca.com/tiramillas/television/2024/11/11/67327ee1268e3e9a748b45a3.html)
 * [Lewandowski](https://www.marca.com/futbol/barcelona/2024/11/11/lewandowski-viaja-polonia.html)
 * [Medvedev](https://www.marca.com/tenis/copa-masters/2024/11/11/medvedev-kyrgios-ruso-peineta-grada-descalificado-multado-lanzar-monedas-arbitro.html)
 * [Tyson - Paul cuándo es](https://www.marca.com/boxeo/2024/11/08/mike-tyson-vs-jake-paul-horario-ver-espana-combate-boxeo.html)
-* [Óscar Puente](https://www.marca.com/tiramillas/actualidad/2024/11/11/673219e822601d0a478b4571.html)
 * [Juan del Val](https://www.marca.com/tiramillas/television/2024/11/10/6730eded46163fbd8e8b457c.html)
-* [Errejón](https://www.marca.com/tiramillas/actualidad/2024/11/11/673208d422601d283a8b4597.html)
 * [Gonzalo Miró](https://www.marca.com/tiramillas/television/2024/11/11/6731bc0446163feab78b4580.html)
 * [Iker Jiménez](https://www.marca.com/tiramillas/television/2024/11/11/6731b64a268e3ea6098b4574.html)
 * [Risto Mejide](https://www.marca.com/tiramillas/television/2024/11/11/673226ef22601d616f8b4584.html)
-* [Carlos Mazón](https://www.marca.com/tiramillas/actualidad/2024/11/11/67323278268e3e88288b4597.html)
-* [Gladiator 2](https://www.marca.com/tiramillas/cine/2024/11/11/67323947ca4741f83d8b4594.html)
-* [Invitados Pasapalabra](https://www.marca.com/tiramillas/television/2024/11/11/673259dce2704eb9348b45aa.html)
+* [Arcane](https://www.marca.com/videojuegos/juegos/2024/11/11/67325317e2704ee3508b45cc.html)
 * [Black Friday](https://www.marca.com/tiramillas/actualidad/economia/2024/11/11/6732442d22601d3f4a8b45a5.html)
 * [Arturo Pérez-Reverte](https://www.marca.com/tiramillas/actualidad/2024/11/11/6731e3a8268e3e88288b4582.html)
+* [Sonsoles Ónega](https://www.marca.com/tiramillas/television/2024/11/11/673265b422601d01378b45a3.html)
 * [Horario MotoGP Barcelona](https://www.marca.com/motor/motogp/gp-valencia/2024/11/09/672fa217268e3edd3d8b457e.html)
 * [Ver MotoGP gratis](https://www.marca.com/motor/motogp/2024/11/07/672cded1268e3e86668b45ac.html)
 * [MotoGP GP Barcelona](https://www.marca.com/motor/motogp/gp-valencia.html)
@@ -27,7 +26,6 @@
 * [Fútbol hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/09/30/66faab18e2704ee99d8b45a5.html)
 * [LaLiga EA Sports](https://www.marca.com/futbol/primera-division.html)
 * [Clasificación Liga](https://www.marca.com/futbol/primera-division/clasificacion.html)
-* [Arcane](https://www.marca.com/videojuegos/juegos/2024/11/11/67325317e2704ee3508b45cc.html)
 
 [Portada de Marca](https://www.marca.com/)
 
