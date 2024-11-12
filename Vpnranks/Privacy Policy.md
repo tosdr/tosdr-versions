@@ -79,6 +79,8 @@
     * [![](https://www.vpnranks.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.svg)简体中文](https://www.vpnranks.com/zh-hans/%e9%9a%90%e7%a7%81%e6%94%bf%e7%ad%96/ "简体中文")
     * [![](https://www.vpnranks.com/wp-content/uploads/flags/it.png)Italiano](https://www.vpnranks.com/it-it/politica-sulla-riservatezza/ "Italiano")
     * [![](https://www.vpnranks.com/wp-content/uploads/flags/de.png)Deutsch](https://www.vpnranks.com/de-de/datenschutz-bestimmungen/ "Deutsch")
+    * [![](https://www.vpnranks.com/wp-content/uploads/flags/nl.png)Dutch](https://www.vpnranks.com/nl-nl/privacybeleid/ "Dutch")
+    * [![](https://www.vpnranks.com/wp-content/uploads/flags/es.alt.png)Español](https://www.vpnranks.com/es-es/politica-de-privacidad/ "Español")
     * [![](https://www.vpnranks.com/wp-content/uploads/flags/fr.png)French](https://www.vpnranks.com/fr-fr/politique-de-confidentialit/ "French")
 
 **I am Looking for**
