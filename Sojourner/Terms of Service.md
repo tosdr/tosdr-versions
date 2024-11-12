@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ac8f6533859f27ac7d8c3c04a47ebc56
+e0925d57f2ee74862942c7f52be959c9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![2 mm micro-faceted rose quartz beads](https://sojourner.biz/images/cache/rose_quartz/RQ0016one.200.jpg)](https://sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
+[![Hand-made silk rug number six](https://sojourner.biz/images/cache/RG0006.200.jpg)](https://sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-six.html "Hand-made silk rug number six")
 
-#### [2 mm micro-faceted rose quartz beads](https://sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
+#### [Hand-made silk rug number six](https://sojourner.biz/bohemian-chic-decor/hand-made-silk-rug-number-six.html "Hand-made silk rug number six")
 
-$14.00
+$25.00
 
 ### Best Sellers
 
