@@ -123,44 +123,44 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
-    
-    Prisoners of Katrina
-    
-    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
     
     Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+* [![7/7: Ripple Effect](/wp-content/thumbnails/2370-100x70.png?x53432)
+    
+    7/7: Ripple Effect
+    
+    Verint Systems is the security firm that is responsible for the CCTV surveillance cameras, in the London Underground rail network, and it is an Israeli company, with approximately 1000 employees. This...](https://documentaryheaven.com/77-ripple-effect/ "7/7: Ripple Effect")
 
 ###### Throwback Documentaries
 
-* [![What Plants Talk About](/wp-content/thumbnails/7474-100x70.jpg?x53432)
+* [![Secrets of The Occult: The Magicians](/wp-content/thumbnails/1159-100x70.jpg?x53432)
     
-    What Plants Talk About
+    Secrets of The Occult: The Magicians
     
-    This program integrates hard-core science with a light-hearted look at how plants behave, revealing a world where plants are as busy, responsive and complex as we are. From the stunning heights of the](https://documentaryheaven.com/what-plants-talk-about/ "What Plants Talk About")
-* [![Gashole](/wp-content/thumbnails/6076-100x70.jpeg?x53432)
+    Secrets of the Occult explores the world of the occult from the ancient and modern magicians who practice it to the cutting edge scientists attempting to explain its mysterious claims. This program hi](https://documentaryheaven.com/secrets-of-the-occult-the-magicians/ "Secrets of The Occult: The Magicians")
+* [![We Love Cigarettes](/wp-content/thumbnails/6070-100x70.jpg?x53432)
     
-    Gashole
+    We Love Cigarettes
     
-    What caused America to go from being a leading exporter of oil to the world’s largest importer? What are the economic and sociological forces that have contributed to that change and impede its soluti](https://documentaryheaven.com/gashole/ "Gashole")
-* [![Assault In the Ring](/wp-content/thumbnails/2091-100x70.jpg?x53432)
+    A love of nicotine unites all peoples across the globe, regardless of colour, wealth or creed. Where religion and politics have failed tobacco has succeeded, but at what cost? For over 50 years people](https://documentaryheaven.com/we-love-cigarettes/ "We Love Cigarettes")
+* [![War and Globalization: The Truth Behind 9/11](/wp-content/thumbnails/1364-100x70.jpg?x53432)
     
-    Assault In the Ring
+    War and Globalization: The Truth Behind 9/11
     
-    Assault In the Ring revisits a boxing scandal considered one of the sport’s darkest hours, and traces a man’s despairing journey following his alleged involvement in a criminal plot. The documentary e](https://documentaryheaven.com/assault-in-the-ring/ "Assault In the Ring")
-* [![Ross Kemp: In Search of Pirates](/wp-content/thumbnails/1080-100x70.jpg?x53432)
+    In this lecture by Michel Chossudovsky, he blows away the smokescreen put up by the mainstream media, that 9/11 was an attack on America by “Islamic terrorists”. Through meticulous research, he has un](https://documentaryheaven.com/war-globalization-truth-behind-911/ "War and Globalization: The Truth Behind 9/11")
+* [![The Bedroom Commandments](/wp-content/thumbnails/6317-100x70.jpg?x53432)
     
-    Ross Kemp: In Search of Pirates
+    The Bedroom Commandments
     
-    The actor investigates the boom in piracy on the world’s oceans, traveling to some of the planet’s biggest trouble spots to discover the problems faced by potential targets and those trying to protect](https://documentaryheaven.com/ross-kemp-in-search-of-pirates/ "Ross Kemp: In Search of Pirates")
-* [![Bush Family Fortunes](/wp-content/thumbnails/389-100x70.png?x53432)
+    Since the dawn of human consciousness we have searched for a belief system.We want to know, 'How should I live?' 'Why is the world like this?' and 'What happens when I die'?Religions give us](https://documentaryheaven.com/the-bedroom-commandments/ "The Bedroom Commandments")
+* [![Cashing In On Degrees](/wp-content/thumbnails/6345-100x70.jpg?x53432)
     
-    Bush Family Fortunes
+    Cashing In On Degrees
     
-    George W. Bush is only the latest and most famous part of the Bush family. He, as well as his father could call themselves “President of the United States of America“. But their history goes far furth](https://documentaryheaven.com/bush-family-fortunes/ "Bush Family Fortunes")
+    With students facing massive increases in their fees, Dispatches investigates the pay, perks and privileges enjoyed by universities’ top earners. Journalist Laurie Penny reveals the increasing commer](https://documentaryheaven.com/cashing-in-on-degrees/ "Cashing In On Degrees")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
