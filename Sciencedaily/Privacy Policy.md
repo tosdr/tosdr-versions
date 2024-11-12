@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Asthma and Memory Difficulties](https://www.sciencedaily.com/releases/2024/11/241111122759.htm)
 * [Swirling Polar Vortices Likely Exist On the Sun](https://www.sciencedaily.com/releases/2024/11/241111155235.htm)
 * [Universal Scale: Testing Einstein's Predictions](https://www.sciencedaily.com/releases/2024/11/241111123136.htm)
 * [Secret Behind Corpse Flower's Famous Stench](https://www.sciencedaily.com/releases/2024/11/241111122833.htm)
@@ -217,7 +218,6 @@ this hour
 * [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
 * [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
 * [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
-* [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
 
 Trending Topics
 ---------------
@@ -232,23 +232,23 @@ this week
 
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Bird Flu](https://www.sciencedaily.com/news/health_medicine/bird_flu/)
+[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
-
 [Hacking](https://www.sciencedaily.com/news/computers_math/hacking/)
+
+[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Recycling and Waste](https://www.sciencedaily.com/news/earth_climate/recycling_and_waste/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Recycling and Waste](https://www.sciencedaily.com/news/earth_climate/recycling_and_waste/)
 
   
 
