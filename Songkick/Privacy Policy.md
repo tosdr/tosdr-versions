@@ -5,8 +5,6 @@
         
         *  [![The Feelies Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Feelies  
             White Eagle Hall](https://www.songkick.com/concerts/42237962-feelies-at-white-eagle-hall)
-        *  [![Gogol Bordello Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Gogol Bordello  
-            White Eagle Hall](https://www.songkick.com/concerts/42236357-gogol-bordello-at-white-eagle-hall)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
