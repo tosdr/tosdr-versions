@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. harvard
+1. psychology
     
-2. web development
+2. finance
     
-3. machine learning
+3. web development
     
 
 Popular subjects
@@ -430,22 +430,22 @@ Popular subjects
 2. [Marketing
     
     7,989 courses](https://www.classcentral.com/subject/marketing)
-3. [Project Management
+3. [Communication Skills
     
-    4,072 courses](https://www.classcentral.com/subject/project-management)
+    4,114 courses](https://www.classcentral.com/subject/communication-skills)
 
 Popular courses
 ---------------
 
-1. [Introduction to Mathematical Thinking
+1. [The Science of Happiness
     
-    Stanford University](https://www.classcentral.com/course/maththink-370)
-2. [Introduction to Marketing
+    University of California, Berkeley](https://www.classcentral.com/course/happiness-university-of-california-berkeley-the-s-1781)
+2. [Shakespeare Matters
     
-    University of Pennsylvania](https://www.classcentral.com/course/whartonmarketing-1137)
-3. [Learning How To Learn for Youth
+    University of Adelaide](https://www.classcentral.com/course/shakespeare-university-of-adelaide-shakespeare-ma-8731)
+3. [Precalculus: the Mathematics of Numbers, Functions and Equations
     
-    Arizona State University](https://www.classcentral.com/course/learning-how-to-learn-youth-12569)
+    University of Padova](https://www.classcentral.com/course/precalculus-8988)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
