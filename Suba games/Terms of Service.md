@@ -41,6 +41,8 @@ Suba Mall
 * [](https://subagames.com/MARS/)
 * [](https://pt1.subagames.com/)
 
+* [](https://subagames.com/CookingBattles/Default.aspx)
+
 Community
 
 * [](https://subagames.com/Contest.aspx)
