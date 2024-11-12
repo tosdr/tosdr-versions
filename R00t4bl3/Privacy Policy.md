@@ -113,11 +113,11 @@ By using our website, you hereby consent to our Privacy Policy and agree to its 
     
     Feb 6, 2018
     
-* [![How to Limit Foreach Loop to a Number of Loops in PHP](https://r00t4bl3.com/uploads/php-logo-svg-2cef10039f7c9cd395ca32ced2508bcf.png)](https://r00t4bl3.com/post/how-to-limit-foreach-loop-to-a-number-of-loops-in-php) 
+* [![How to Hide nginx Web Server Version Signature and Remove X-Powered-By PHP Header on CentOS](https://r00t4bl3.com/uploads/nginx-logo-e33698aaef7d90bfc73ef25038aa1df2.png)](https://r00t4bl3.com/post/how-to-hide-nginx-web-server-version-signature-and-remove-x-powered-by-php-header-on-centos) 
     
-    #### [How to Limit Foreach Loop to a Number of Loops in PHP](https://r00t4bl3.com/post/how-to-limit-foreach-loop-to-a-number-of-loops-in-php)
+    #### [How to Hide nginx Web Server Version Signature and Remove X-Powered-By PHP Header on CentOS](https://r00t4bl3.com/post/how-to-hide-nginx-web-server-version-signature-and-remove-x-powered-by-php-header-on-centos)
     
-    Nov 2, 2017
+    Jul 17, 2018
     
 
 ### Latest Posts
