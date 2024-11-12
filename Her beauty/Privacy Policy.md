@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[10 Moments That Made Us Stop Rooting For Our Favorite TV Characters ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/3-1.webp)](https://herbeauty.co/entertainment/10-moments-that-made-us-stop-rooting-for-our-favorite-tv-characters/) 
+
 [Kat Dennings’ Tragic Journey Through Hollywood ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/Kat-Dennings-Tragic-Journey-Through-Hollywood-1.jpeg)](https://herbeauty.co/entertainment/kat-dennings-tragic-journey-through-hollywood/) 
 
 [Shania Twain Stuns Fans With Shockingly Youthful New Photo ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/1-e1730821528907.webp)](https://herbeauty.co/entertainment/shania-twain-stuns-fans-with-shockingly-youthful-new-photo/) 
-
-[6 Surprising Ways Your Body Reacts During a Lovers’ Quarrel ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/cover-1.jpg)](https://herbeauty.co/relationships/6-surprising-ways-your-body-reacts-during-a-lovers-quarrel/) 
 
 Advertisements
 
