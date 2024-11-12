@@ -635,6 +635,7 @@ More
 * [Security](https://www.yodlee.com/legal/yodlee-security)
 * [Website Terms of Use](https://www.yodlee.com/legal/terms-of-use)
 * [Credit Inquiry](https://credit.support.yodlee.com/#/credit-inquiry-form)
+* [Privacy Web Form](https://www.yodlee.com/yodlee-privacy-access-request-portal)
 
 [North America](#)
 
