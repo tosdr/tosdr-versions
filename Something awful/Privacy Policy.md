@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Animal Anomalies 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-part/1/)
+* [Board Game Reality](https://www.somethingawful.com/photoshop-phriday/board-game-reality/1/)
+* [Abstract Pixel Art! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/abstract-pixel-art/1/)
+* [Welcome to the DynaMars Corporation's Ares Station Update Service](https://www.somethingawful.com/news/dynamars-corporation-kiosk/1/)
 * [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Monsters on Holiday!](https://www.somethingawful.com/photoshop-phriday/monsters-villains-vacation/1/)
-* [Cute Animals Fighting!](https://www.somethingawful.com/photoshop-phriday/cute-animals-fighting/1/)
-* [The Fall Guy!](https://www.somethingawful.com/comedy-goldmine/oildri-fall-guy/1/)
+* [Jim, I simply remind everyone that Sonic The Hedgehog's Arms Are Not Freaking Blue](https://www.somethingawful.com/news/sonichu-stephen-miller/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Anybody remember Hello Neighbor?](http://forums.somethingawful.com/showthread.php?threadid=4075158 "Anybody remember Hello Neighbor?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [what are some good phone games](http://forums.somethingawful.com/showthread.php?threadid=4075148 "what are some good phone games")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Avoid fifth glyph. It is bad.](http://forums.somethingawful.com/showthread.php?threadid=4075230 "Avoid fifth glyph. It is bad.")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Who has a good baby?](http://forums.somethingawful.com/showthread.php?threadid=4075223 "Who has a good baby?")
 
 ### Random Articles
 
-* [Tapuaks](https://www.somethingawful.com/awful-links/awful-link-1043/)
-* [Minimac.com](https://www.somethingawful.com/awful-links/awful-link-2712/)
-* [Michael Worf Dorn](https://www.somethingawful.com/mooflogs/michael-worf-dorn/)
-* [The Official Holiday Guide to Meme Books](https://www.somethingawful.com/news/holiday-meme-guide/)
-* [A Valentines Day Message](https://www.somethingawful.com/flash-tub/valentines-day-cartoon/)
+* [Comic Relief](https://www.somethingawful.com/news/comic-relief/)
+* [Of Moof and Men](https://www.somethingawful.com/mooflogs/daily-grizzly-bear/)
+* [/r/WatchPeopleCode (Thanks, Surprisingly Dope!)](https://www.somethingawful.com/awful-links/watch-people-code/)
+* [TruthMedia Review: Final Fantasy X](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-final/)
+* [Defeat Boredom The Ace W. High Way!](https://www.somethingawful.com/news/defeat-boredom-ace/)
 
 [Random!](https://www.somethingawful.com/random/)
 
