@@ -464,19 +464,19 @@ Very Positive (41 reviews) ![](https://store.fastly.steamstatic.com/public/share
 
 Review Type
 
- All (19,281)  
- Positive (16,594)  
+ All (19,282)  
+ Positive (16,595)  
  Negative (2,687)
 
 Purchase Type
 
- All (19,281)  
+ All (19,282)  
  Steam Purchasers (18,139) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,142) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ Other (1,143) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,281)  
+ All Languages (19,282)  
  Your Languages (13,320) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
