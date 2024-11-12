@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What rights specifically will Donald… (15)](https://forum.nationstates.net/viewtopic.php?t=558263&f=20&view=unread#unread ""What rights specifically will Donald Trump Take Away?" (15 posts)")
-* [American Politics: Turnabout Trump (3,680)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,680 posts)")
-* [Your Reaction to AN's News (III) (10,843)](https://forum.nationstates.net/viewtopic.php?t=507317&f=25&view=unread#unread ""Your Reaction to AN's News (III)" (10,843 posts)")
-* [Fortunately/Unfortunately (1,588)](https://forum.nationstates.net/viewtopic.php?t=515186&f=25&view=unread#unread ""Fortunately/Unfortunately" (1,588 posts)")
-* [Where do Democrats go from here? (597)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (597 posts)")
+* [American Politics: Turnabout Trump (3,759)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,759 posts)")
+* [Would this be ok? (1)](https://forum.nationstates.net/viewtopic.php?t=558280&f=16&view=unread#unread ""Would this be ok?" (1 post)")
+* [Alabama Politics thread (69)](https://forum.nationstates.net/viewtopic.php?t=558238&f=20&view=unread#unread ""Alabama Politics thread" (69 posts)")
+* [AN Out of Context III (4,043)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,043 posts)")
+* [\[DRAFT\]Repeal GA 724 "Pre-Packaged Fo… (2)](https://forum.nationstates.net/viewtopic.php?t=558278&f=9&view=unread#unread ""[DRAFT]Repeal GA 724 "Pre-Packaged Food Labels"" (2 posts)")
 
 Advertisement
 
