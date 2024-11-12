@@ -61,15 +61,19 @@ Main Menu Mega
     Sections
     --------
     
+    * [Cases and Proceedings](https://www.ftc.gov/legal-library/browse/cases-proceedings)
     * [Premerger Notification Program](https://www.ftc.gov/enforcement/premerger-notification-program)
     * [Merger Review](https://www.ftc.gov/enforcement/merger-review)
     * [Anticompetitive Practices](https://www.ftc.gov/enforcement/anticompetitive-practices)
     * [Rulemaking](https://www.ftc.gov/enforcement/rulemaking)
+    * [Statutes](https://www.ftc.gov/legal-library/browse/statutes)
     * [Competition and Consumer Protection Guidance Documents](https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents)
+    * [Warning Letters](https://www.ftc.gov/legal-library/browse/warning-letters)
     * [Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network)
     * [Criminal Liaison Unit](https://www.ftc.gov/enforcement/criminal-liaison-unit)
     * [FTC Refund Programs](https://www.ftc.gov/enforcement/refunds)
     * [Notices of Penalty Offenses](https://www.ftc.gov/enforcement/penalty-offenses)
+    * [Competition Matters Blog](https://www.ftc.gov/enforcement/competition-matters)
     
     Take action
     -----------
@@ -84,11 +88,11 @@ Main Menu Mega
     
     Competition Matters
     
-    ### [Slow the Roll-up: Help Shine a Light on Serial Acquisitions](https://www.ftc.gov/enforcement/competition-matters/2024/05/slow-roll-help-shine-light-serial-acquisitions)
+    ### [Planning for the new HSR Form](https://www.ftc.gov/enforcement/competition-matters/2024/11/planning-new-hsr-form)
     
-    Henry Liu, Director of the Bureau of Competition
+    Bureau of Competition
     
-    May 23, 2024
+    November 12, 2024
     
     [View all Competition Matters Blog posts](https://www.ftc.gov/enforcement/competition-matters)
     
@@ -114,9 +118,14 @@ Main Menu Mega
     --------
     
     * [Advocacy and Research](https://www.ftc.gov/policy/advocacy-research)
+    * [Advisory Opinions](https://www.ftc.gov/legal-library/browse/advisory-opinions)
+    * [Cooperation Agreements](https://www.ftc.gov/legal-library/browse/cooperation-agreements)
+    * [Federal Register Notices](https://www.ftc.gov/legal-library/browse/federal-register-notices)
     * [Reports](https://www.ftc.gov/policy/reports)
     * [Public Comments](https://www.ftc.gov/policy/public-comments)
     * [Studies](https://www.ftc.gov/policy/studies)
+    * [Testimony](https://www.ftc.gov/legal-library/browse/testimony)
+    * [Policy Statements](https://www.ftc.gov/legal-library/browse/policy-statements)
     * [International](https://www.ftc.gov/policy/international)
     * [Office of Technology Blog](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -217,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $536,000 in Refunds to Consumers Deceived by Misleading Ads for Sobrenix “Anti-Alcohol Craving” Supplement](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-536000-refunds-consumers-deceived-misleading-ads-sobrenix-anti-alcohol-craving)
+    ### [FTC Action Stops H&R Block’s Unfair Downgrading Practices and Deceptive Promises of ‘Free’ Filing](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-action-stops-hr-blocks-unfair-downgrading-practices-deceptive-promises-free-filing)
     
-    November 7, 2024
+    November 12, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -333,20 +342,29 @@ Secondary Menu
 * [Submit Public Comments](https://www.ftc.gov/policy/public-comments)
 
 * [Enforcement](https://www.ftc.gov/enforcement) Show/hide Enforcement menu items
+    * [Cases and Proceedings](https://www.ftc.gov/legal-library/browse/cases-proceedings)
     * [Premerger Notification Program](https://www.ftc.gov/enforcement/premerger-notification-program)
     * [Merger Review](https://www.ftc.gov/enforcement/merger-review)
     * [Anticompetitive Practices](https://www.ftc.gov/enforcement/anticompetitive-practices)
     * [Rulemaking](https://www.ftc.gov/enforcement/rulemaking)
+    * [Statutes](https://www.ftc.gov/legal-library/browse/statutes)
     * [Competition and Consumer Protection Guidance Documents](https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents)
+    * [Warning Letters](https://www.ftc.gov/legal-library/browse/warning-letters)
     * [Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network)
     * [Criminal Liaison Unit](https://www.ftc.gov/enforcement/criminal-liaison-unit)
     * [FTC Refund Programs](https://www.ftc.gov/enforcement/refunds)
     * [Notices of Penalty Offenses](https://www.ftc.gov/enforcement/penalty-offenses)
+    * [Competition Matters Blog](https://www.ftc.gov/enforcement/competition-matters)
 * [Policy](https://www.ftc.gov/policy) Show/hide Policy menu items
     * [Advocacy and Research](https://www.ftc.gov/policy/advocacy-research)
+    * [Advisory Opinions](https://www.ftc.gov/legal-library/browse/advisory-opinions)
+    * [Cooperation Agreements](https://www.ftc.gov/legal-library/browse/cooperation-agreements)
+    * [Federal Register Notices](https://www.ftc.gov/legal-library/browse/federal-register-notices)
     * [Reports](https://www.ftc.gov/policy/reports)
     * [Public Comments](https://www.ftc.gov/policy/public-comments)
     * [Studies](https://www.ftc.gov/policy/studies)
+    * [Testimony](https://www.ftc.gov/legal-library/browse/testimony)
+    * [Policy Statements](https://www.ftc.gov/legal-library/browse/policy-statements)
     * [International](https://www.ftc.gov/policy/international)
     * [Office of Technology Blog](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
 * Advice and Guidance Show/hide Advice and Guidance menu items
@@ -503,20 +521,29 @@ Main navigation
 ---------------
 
 * [Enforcement](https://www.ftc.gov/enforcement)
+    * [Cases and Proceedings](https://www.ftc.gov/legal-library/browse/cases-proceedings)
     * [Premerger Notification Program](https://www.ftc.gov/enforcement/premerger-notification-program)
     * [Merger Review](https://www.ftc.gov/enforcement/merger-review)
     * [Anticompetitive Practices](https://www.ftc.gov/enforcement/anticompetitive-practices)
     * [Rulemaking](https://www.ftc.gov/enforcement/rulemaking)
+    * [Statutes](https://www.ftc.gov/legal-library/browse/statutes)
     * [Competition and Consumer Protection Guidance Documents](https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents)
+    * [Warning Letters](https://www.ftc.gov/legal-library/browse/warning-letters)
     * [Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network)
     * [Criminal Liaison Unit](https://www.ftc.gov/enforcement/criminal-liaison-unit)
     * [FTC Refund Programs](https://www.ftc.gov/enforcement/refunds)
     * [Notices of Penalty Offenses](https://www.ftc.gov/enforcement/penalty-offenses)
+    * [Competition Matters Blog](https://www.ftc.gov/enforcement/competition-matters)
 * [Policy](https://www.ftc.gov/policy)
     * [Advocacy and Research](https://www.ftc.gov/policy/advocacy-research)
+    * [Advisory Opinions](https://www.ftc.gov/legal-library/browse/advisory-opinions)
+    * [Cooperation Agreements](https://www.ftc.gov/legal-library/browse/cooperation-agreements)
+    * [Federal Register Notices](https://www.ftc.gov/legal-library/browse/federal-register-notices)
     * [Reports](https://www.ftc.gov/policy/reports)
     * [Public Comments](https://www.ftc.gov/policy/public-comments)
     * [Studies](https://www.ftc.gov/policy/studies)
+    * [Testimony](https://www.ftc.gov/legal-library/browse/testimony)
+    * [Policy Statements](https://www.ftc.gov/legal-library/browse/policy-statements)
     * [International](https://www.ftc.gov/policy/international)
     * [Office of Technology Blog](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
 * Advice and Guidance
