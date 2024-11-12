@@ -130,7 +130,7 @@
     *  [![icon-admit-yield](https://www.parchment.com/wp-content/uploads/2024/03/icon-admit-yield.svg) Advisory Board](https://www.parchment.com/company/advisory-board/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about3.svg) Partners](https://www.parchment.com/company/partners/)
     *  [![about4 - icon](https://www.parchment.com/wp-content/uploads/2024/08/about4.svg) Careers](https://www.parchment.com/company/careers/)
-    *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about5.svg) Press](https://www.parchment.com/resources/press/)
+    *  [![press icon](https://www.parchment.com/wp-content/uploads/2023/01/about5.svg) Press](https://www.parchment.com/resources/press/)
     *  ![library-icon](https://www.parchment.com/wp-content/uploads/2023/07/library-icon-40x40.png) Resources
         * [All Resources](https://www.parchment.com/resources/)
         * [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
