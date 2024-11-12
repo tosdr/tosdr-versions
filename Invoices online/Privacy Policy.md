@@ -117,59 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Support even on Sundays!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> Thanks Adriaan...
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Shaun Gartshore
+Johan Botha - Brand Xplosion
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=1495385)  
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=30876214)  
+TechnoDezi PTY(LTD)
+
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=94742758)  
+MONSTER SECURITY SERVICES (NORTHAM)
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=12178330)  
 SA Security Brokerz (Pty) Ltd
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=96593515)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=169955892)  
+The Gourmet Artisans Ltd.
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=124445535)  
-AquariumSmiths
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=122436613)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=119293147)  
-#DiGi3 Marketing & Design
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=39084773)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=118180468)  
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=34595256)  
+Cape Adventure Zone
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=159877481)  
+SMART GUY PCS (PTY) LTD
+
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=151879444)  
+TRACKFORCE (Pty) Ltd
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=33423675)  
 Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=128362572)  
-BD Maintenance
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=23997599)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=180047188)  
-Imvubu General Trading
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=94237509)  
+Goju-Ryu Pretoria East
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=128952480)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=172798264)  
+West Coast Horse Trails
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=130348878)  
+ARCHITEK PTY LTD
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=119783467)  
 Repairs In Motion
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=26393763)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=192749435)  
-CBR Verwe/Paints
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=165756218)  
-Wiselink Broadband Pty Ltd
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=196472900)  
-Myfinance-Online
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=64696245)  
-SR Travel Services
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=139476517)  
-Desygn
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=078f1ae9f64722ef2d8d72c33c01de594295d97b5dcca993c37a6e4502790de4&c=155684304)  
-High Point Marketing CC t/a Leads For Africa
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
