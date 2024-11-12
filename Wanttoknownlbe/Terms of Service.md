@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/coronawetenschaps-crisis-lockdown-is-schande/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/is-assange-een-rothschild-agent/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
