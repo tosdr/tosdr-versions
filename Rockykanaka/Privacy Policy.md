@@ -23,6 +23,7 @@
     
 * [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
+* [Black Friday](https://rockykanaka.com/pages/black-friday-early-access-sign-up)
 
 [Log in](https://rockykanaka.com/account/login)
 
@@ -47,6 +48,7 @@
     
 * [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
+* [Black Friday](https://rockykanaka.com/pages/black-friday-early-access-sign-up)
 
  Search our site  
 
