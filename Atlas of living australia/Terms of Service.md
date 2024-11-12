@@ -63,8 +63,6 @@
     * [How to cite the ALA](https://support.ala.org.au/support/solutions/articles/6000261662-citing-the-ala "How to cite the ALA")
     * [Contact us](https://www.ala.org.au/contact-us/ "Contact us")
 
-Join the ALA webinar today: Generous Interfaces for Discovering Biodiversity Data. Time: 12 PM (AEDT). Link to View: [Watch Here!](https://webcast.csiro.au/#/webcasts/alawebinar)
-
 Terms of Use
 ============
 
