@@ -2,9 +2,7 @@
 
 Previous
 
-[Enjoy 25% off sitewide. Exclusions apply.\*](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
-
-[Pick a free set on $85+. Plus, get a free full-size Mascara on $100+ ($90 value). No code needed.](https://www.bobbibrowncosmetics.com/offers-landing-page)
+[Get a free bestsellers set on $85+ ($55 value). Use code: bests at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -52,7 +50,13 @@ New
 
 [Shop All New Products](https://www.bobbibrowncosmetics.com/products/14460/new "Shop All New Products")
 
-[Shop Limited-Edition City Lights Holiday Collection](https://www.bobbibrowncosmetics.com/holiday-collection "Shop Limited-Edition City Lights Holiday Collection") Shop Limited-Edition City Lights Holiday Collection
+[Shop Limited-Edition PAC-MAN x Bobbi Brown Collection](https://www.bobbibrowncosmetics.com/products/52514/holiday/pacman "Shop Limited-Edition PAC-MAN x Bobbi Brown Collection") Shop Limited-Edition PAC-MAN x Bobbi Brown Collection
+
+  [![](/media/export/cms/11.12 Pacman/BB_FY25_D11_PAC_MAN_GNAV_Tile_Collection_01.jpeg)](https://www.bobbibrowncosmetics.com/products/52514/holiday/pacman)
+
+[Shop Limited-Edition PAC-MAN x Bobbi Brown Collection](https://www.bobbibrowncosmetics.com/products/52514/holiday/pacman "Shop Limited-Edition PAC-MAN x Bobbi Brown Collection")
+
+[Holiday City Lights Collection](https://www.bobbibrowncosmetics.com/holiday-collection "Holiday City Lights Collection ") Holiday City Lights Collection
 
    ![](/media/export/cms/10.4 GG Holiday/20230411_BB_PC_FY24_Holiday_GNAV_Eyeshadow_Palettes_Global_01.jpeg)
 
@@ -69,12 +73,6 @@ New
   [![](/media/export/cms/Homepage/94 Hannah/FY25_HannahMurray_Digital_GNAV_SLICE.jpg)](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
 
 [Shop Limited-Edition Polished Grunge Collection](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop Limited-Edition Polished Grunge Collection	")
-
-[Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Kerri Rosenthal Collection") Kerri Rosenthal Collection
-
-  ![](/media/export/cms/Homepage/Kerri Rosenthal Collection/FY24_KerriRosenthal_Digital_GNAV_Collection_03-1.jpg)
-
-[Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection")
 
  [SKINCARE](https://www.bobbibrowncosmetics.com/products/14006/skincare) SKINCARE 
 
@@ -287,8 +285,6 @@ HOLIDAY GIFT GUIDE
 Special offers
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
-
-[Shop 25% off Sitewide](https://www.bobbibrowncosmetics.com/products/14358/best-sellers "Shop 25% off Sitewide")
 
 [Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
