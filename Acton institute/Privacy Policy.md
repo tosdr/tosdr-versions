@@ -8,7 +8,7 @@ Menu
 
 [![](/themes/acton/dist/img/mobile-menu/acton_logo_white.svg)](https://www.acton.org/home)
 
-[![AU 2025 Mobile Banner](https://www.acton.org/sites/default/files/pcs/marketing/mobile.png)](https://university.acton.org/dinner)
+[![AU 2025 Mobile Banner](https://www.acton.org/sites/default/files/pcs/marketing/mobile2.png)](https://university.acton.org/dinner)
 
 Close
 
@@ -84,7 +84,7 @@ Acton Main Megamenu
 ![](https://www.acton.org/sites/default/files/pcs/marketing/au4.png)
 
   
-[![text block float right top](https://www.acton.org/sites/default/files/pcs/marketing/au3.png)](https://university.acton.org/)  
+[![text block float right top](https://www.acton.org/sites/default/files/pcs/marketing/au25-text2.png)](https://university.acton.org/)  
 [![button right top below](https://www.acton.org/sites/default/files/pcs/marketing/au1.png)](https://university.acton.org/)  
 ![text block float right top](https://www.acton.org/sites/default/files/pcs/marketing/au2.png)
 
