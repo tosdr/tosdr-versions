@@ -97,7 +97,7 @@ Connect
     * [Kensington Cozies](https://www.kensingtonbooks.com/kensingtoncozies/)
     * [Authors](https://www.kensingtonbooks.com/authors/)
     * [Books](https://www.kensingtonbooks.com/books/)
-    * [Catalogs](https://www.kensingtonbooks.com/catalogs/)
+    * [Catalogs](https://www.edelweiss.plus/#publisher=KENS)
 * [Column 2](#)
     * CUSTOMERS
     * [Returns Policy](https://www.kensingtonbooks.com/pages/returns/)
