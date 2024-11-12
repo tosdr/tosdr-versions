@@ -55,7 +55,7 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
-* [Trump Landslide](https://www.breitbart.com/tag/2024-presidential-election/)
+* [Trump Picks Team](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Amsterdam Pogroms](https://www.breitbart.com/tag/amsterdam/)
 * [Media Meltdown](https://www.breitbart.com/the-media/)
 * [Hollywood Hate](https://www.breitbart.com/entertainment/)
