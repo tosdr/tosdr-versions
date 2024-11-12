@@ -97,9 +97,9 @@ Hide Main Navigation Menu
 * [![](https://www.unc.edu/wp-content/uploads/2024/11/fieldhockeyhero-250x141.png)
     
     Carolina field hockey wins 27th ACC title](https://www.unc.edu/posts/2024/11/08/carolina-field-hockey-wins-27th-acc-title/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/LeylaSantiagoHERO2.jpg-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/RetiredNCSupremeCourtJustice_Hero-250x141.png)
     
-    Former CNN correspondent mentors next generation of journalists](https://www.unc.edu/posts/2024/11/08/former-cnn-correspondent-mentors-next-generation-of-journalists/)
+    Retired NC Supreme Court justice to speak at Stone Center](https://www.unc.edu/posts/2024/11/08/retired-nc-supreme-court-justice-to-speak-at-stone-center/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=f5281479ee&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=53e0688553&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
