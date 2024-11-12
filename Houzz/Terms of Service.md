@@ -485,6 +485,16 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Flags & Flagpoles](https://www.houzz.com/products/flags-and-flagpoles/theme_flag--Seasons)
 * [Holiday Storage](https://www.houzz.com/products/holiday-storage)
 
+* [Black Friday Sale](https://www.houzz.com/products/sale-event--black-friday-sale)
+* [Furniture Black Friday Sale](https://www.houzz.com/products/furniture/sale-event--black-friday-sale)
+* [Patio Furniture Black Friday Sale](https://www.houzz.com/products/patio-furniture/sale-event--black-friday-sale)
+* [Sofas & Sectionals Black Friday Sale](https://www.houzz.com/products/sofas-and-sectionals/sale-event--black-friday-sale)
+* [Lighting Black Friday Sale](https://www.houzz.com/products/lighting/sale-event--black-friday-sale)
+* [Kitchen & Dining Black Friday Sale](https://www.houzz.com/products/kitchen-and-dining/sale-event--black-friday-sale)
+* [Home Decor Black Friday Sale](https://www.houzz.com/products/home-decor/sale-event--black-friday-sale)
+* [Rugs Black Friday Sale](https://www.houzz.com/products/rugs/sale-event--black-friday-sale)
+* [Bath Black Friday Sale](https://www.houzz.com/products/bath-products/sale-event--black-friday-sale)
+
 * [Holiday Sale](https://www.houzz.com/products/holiday-decorations/on-sale)
 
 * [Trending in Holiday](https://www.houzz.com/shop-houzz/holiday)
