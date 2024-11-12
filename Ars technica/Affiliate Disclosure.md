@@ -83,15 +83,15 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: How a stubborn computer scientist accidentally launched the deep learning boom](https://cdn.arstechnica.net/wp-content/uploads/2024/11/ai-data-drawers-768x432.jpg)](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
+1. [![Listing image for first story in Most Read: There are some things the Crew-8 astronauts aren’t ready to talk about](https://cdn.arstechnica.net/wp-content/uploads/2024/11/53769893870_dec74809a4_k-768x432.jpg)](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
     
-    1. [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
+    1. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
     
-2. 2. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
+2. 2. [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
     
 3. 3. [Russia: Fine, I guess we should have a Grasshopper rocket project, too](https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/)
     
-4. 4. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
+4. 4. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
 5. 5. [Man gets 10 years for stealing $20M in nest eggs from 400 US home buyers](https://arstechnica.com/tech-policy/2024/11/hacker-gets-10-years-for-stealing-20m-in-home-buyers-down-payments/)
     
