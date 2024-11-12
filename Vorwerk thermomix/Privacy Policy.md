@@ -1,13 +1,13 @@
-[![Thermomix®](https://patternlib-all.prod.external.eu-tm-prod.vorwerk-digital.com/logo_thermomix-53db1960412131875585b778f2ab587a.png)](https://cookidoo.thermomix.com/foundation/en-US)
+[![thermomix logo](https://patternlib-all.prod.external.eu-tm-prod.vorwerk-digital.com/logo_thermomix-647b6c2b12e9c4521859a52248f64587.svg)](https://cookidoo.thermomix.com/foundation/en-US)
 
 Menu
 
 * [Explore](https://cookidoo.thermomix.com/foundation/en-US)
-* [Membership](https://cookidoo.thermomix.com/foundation/en-US/membership)
-* [Help](https://cookidoo.thermomix.com/foundation/en-US/help)
+* [My Recipes](https://cookidoo.thermomix.com/organize/en-US/my-recipes)
+* [My Week](https://cookidoo.thermomix.com/planning/en-US/my-week)
 
 * [Sign up](https://cookidoo.thermomix.com/ciam/register/start)
-* [Login](https://web.production-us.cookidoo.vorwerk-digital.com/profile/en-US/login)
+* [Login](https://cookidoo.thermomix.com/profile/en-US/login)
 
 [](https://cookidoo.thermomix.com/search/en-US)
 
@@ -423,8 +423,8 @@ Germany
 
 * [Terms of Service](https://cookidoo.thermomix.com/profile/en-US/legal-agreements/terms-of-use)
 * [Privacy Policy](https://cookidoo.thermomix.com/profile/en-US/legal-agreements/privacy-policy)
-* [Terms of Service](https://cookidoo.thermomix.com/commerce/en-US/terms-of-use)
-* [Privacy Policy](https://cookidoo.thermomix.com/commerce/en-US/privacy-policy)
+* [Terms of Service](https://cookidoo.thermomix.com/consent/web/documents/latest/tos/en-US)
+* [Privacy Policy](https://cookidoo.thermomix.com/consent/web/documents/latest/privacy/en-US)
 * [Disclaimer](https://cookidoo.thermomix.com/foundation/en-US/disclaimer)
 * [Imprint](https://cookidoo.thermomix.com/foundation/en-US/imprint)
 * [Cookies](https://cookidoo.thermomix.com/foundation/en-US/cookie-policy)
