@@ -31,6 +31,167 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Cómo será la segunda etapa de la Vuelta a Ecuador?
+===================================================
+
+La Vuelta a Ecuador continúa y su segunda etapa recorrerá 188, 64 kilómetros de ruta en un trazado de bajada y llano.
+---------------------------------------------------------------------------------------------------------------------
+
+![Grupo de ganadoras de la primera etapa de la Vuelta a Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-11T141116.091.jpg)
+
+La segunda etapa de la **Vuelta a Ecuador** se llevará a cabo durante este martes 12 de noviembre del 2024. El circuito establecido para la nueva fase de la competencia ciclística abarcará 188,64 kilómetros y se celebrará entre **Luz de América** (Santo Domingo) y **Babahoyo** (Los Ríos).
+
+A partir de las 09:00, al igual que en su día de inicio, el evento que cuenta con 15 equipos participantes se reanudará. En esta nueva oportunidad, la ruta contará con dos ciclistas menos en el Team Banco Guayaquil y en **Team Sin Fronteras SP** debido a que estos se retiraron tras una caída en la primera etapa[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador)
+
+### Más noticias:
+
+* [Vuelta Ciclística a Ecuador 2024 empezó en Calacalí](https://www.elcomercio.com/deportes/vuelta-ciclistica-ecuador-2024-empezo-calacali-etapa1.html "Vuelta Ciclística a Ecuador 2024 empezó en Calacalí")
+* [¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?](https://www.elcomercio.com/deportes/ciclismo/cuando-vuelta-ciclistica-ecuador-2024-equipos.html "¿Cuándo se corre la Vuelta Ciclística al Ecuador 2024?")
+* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
+
+A diferencia de la primera etapa, la segunda no contará con **puertos de montaña** e iniciará en una bajada que evolucionará en un terreno llano. Esta irá desde los 343 metros sobre el nivel del mar hasta los 12 en su línea de meta.
+
+El punto de partida será en el poblado de Luz de América, mientras que el arribo se llevará a cabo en el Estadio **Rafael Vera Yépez** de la capital riosense. Pese a la ausencia de montaña, la etapa sí contará con tres metas volantes, las cuales estarán ubicadas en los kilómetros 21,26; 62,5; 102,9; y 158,54.
+
+¿Qué esperar de la segunda etapa de la Vuelta a Ecuador?
+--------------------------------------------------------
+
+A partir del desarrollo de la segunda etapa de la **Vuelta Ciclística a Ecuador**, la tabla de posiciones empezará a dibujarse y brindará una mayor noción en torno a los nombres a tener en cuenta. Si bien en su primera carrera ya dejó luces, a partir de la nueva competencia pueden empezar a marcarse tendencias.
+
+La nueva carrera da la oportunidad de que figuras a tener en cuenta, que no lograron puestos estelares durante la **primera vuelta**, remonten. Asimismo, ante la ausencia de puertos de montaña, la clasificación de tal categoría no se moverá.
+
+En torno a los **seis jerseys** en disputa, cuatro podrán variar de portadores y dos serán válidos únicamente para la carrera. Dentro de los últimos están los que se otorgan al ganador de la etapa y al ciclista combativo, mientras que los que corresponde al líder, mejor sub-13, mejor escalador y líder de metas volantes cambian en función de la posición.
+
+La primera etapa de la Vuelta a Ecuador
+---------------------------------------
+
+La primera etapa dejó como líder de la **Vuelta a Ecuador**, provisionalmente, a su ganador. El colombo español Óscar Sevilla del Team Medellín fue el primero en cruzar la meta con un tiempo de 03:17:46 horas, a tan solo seis centésimas del segundo, Brayan Obando del Team Movistar.
+
+El jersey de montaña se lo llevó **Segundo Navarrate** y el de metas volantes lo hizo Esteban Villarreal. Joffre Imbaquingo fue el mejor sub-23 y Bayron Guamá el ciclista combativo.
+
+La verdura que combate arrugas y aporta colágeno 
+=================================================
+
+Este alimento, comúnmente cocido, es rico en colágeno y antioxidantes.
+----------------------------------------------------------------------
+
+![La cebolla aporta colágeno, combate arrugas e hidrata naturalmente. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/salud-colageno-arrugas.jpg)
+
+La búsqueda de la juventud y la belleza ha llevado a muchas personas a **explorar diferentes alimentos** que pueden ayudar a **mantener la piel saludable**. Uno de los vegetales menos apreciados en su forma cruda es **la cebolla**. Este alimento, que a menudo se consume cocido, **tiene propiedades sorprendentes** que pueden contribuir a la **producción de colágeno** y a la **prevención de arrugas**. A partir de los 40 años, incorporar cebolla en la dieta puede ser clave para cuidar la piel. 
+
+### Más noticias
+
+* [Consejos de salud mental para sobrellevar los apagones](https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html "https://www.elcomercio.com/tendencias/salud/consejos-de-salud-mental-para-sobrellevar-los-apagones.html")
+* [El kiwi deja de ser la fruta con más colágeno, este es el alimento que lo supera](https://www.elcomercio.com/tendencias/salud/fruta-colageno-alimento-economico-papaya.html "https://www.elcomercio.com/tendencias/salud/fruta-colageno-alimento-economico-papaya.html")
+
+**Propiedades del colágeno** 
+-----------------------------
+
+**El colágeno es una proteína esencial** que ayuda a **mantener la elasticidad y firmeza de la piel**. Con el tiempo, la **producción natural de colágeno disminuye**, lo que provoca **arrugas y flacidez**. Para contrarrestar este efecto, **es fundamental consumir alimentos que estimulen su producción**. La cebolla destaca no solo por su sabor, sino también por su **capacidad para aportar nutrientes esenciales** que favorecen la salud de la piel. 
+
+**Beneficios de la cebolla** 
+-----------------------------
+
+**Rica en antioxidantes:** La cebolla **contiene antioxidantes como la quercetina**, que protege las células del daño causado por los radicales libres. Esto ayuda a **prevenir el envejecimiento** prematuro de la piel, según [La Nación](https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/el-vegetal-que-le-aportara-colageno-a-tu-piel-de-manera-natural-y-ayuda-a-reducir-las-arrugas-nid07042024/ "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/el-vegetal-que-le-aportara-colageno-a-tu-piel-de-manera-natural-y-ayuda-a-reducir-las-arrugas-nid07042024/").  
+
+* **Estimulación del colágeno:** Aunque se asocia más comúnmente con otros alimentos como el caldo de huesos o los huevos, **la cebolla también contribuye a la producción de colágeno** gracias a su contenido en **vitamina C y compuestos sulfurados,** a decir de [Cronista](https://www.cronista.com/clase/gourmet/los-5-alimentos-con-mas-colageno-que-eliminan-las-arrugas-y-embellecen-la-piel/ "https://www.cronista.com/clase/gourmet/los-5-alimentos-con-mas-colageno-que-eliminan-las-arrugas-y-embellecen-la-piel/").  
+
+* **Propiedades anti-inflamatorias:** Los compuestos presentes en la cebolla ayudan a reducir la inflamación en el cuerpo, lo cual es beneficioso para mantener una piel clara y saludable. 
+
+* **Hidratación natural:** Consumir cebolla puede ayudar a **mantener una adecuada hidratación en la piel**, ya que está compuesta principalmente de agua. 
+
+**Cómo incorporar cebolla en tu dieta** 
+----------------------------------------
+
+A pesar de sus beneficios, **muchas personas evitan comer cebolla cruda debido a su sabor fuerte y picante**. Sin embargo, hay **varias maneras de disfrutarla** sin sacrificar sus propiedades: 
+
+* **Ensaladas frescas:** Agregar cebolla roja o amarilla finamente picada a ensaladas proporciona un crujido agradable y un sabor distintivo. 
+
+* **Salsas y aderezos:** Incorporar cebolla cruda en salsas como el guacamole o aderezos para ensaladas puede mejorar el perfil nutricional sin perder sus beneficios. 
+
+* **Jugos verdes:** Mezclar cebolla con otros vegetales en un jugo verde puede ser una excelente manera de aprovechar sus nutrientes. 
+
+* **Cocción lenta:** Cocinar cebolla lentamente realza su dulzura natural y permite disfrutarla en sopas o guisos sin perder todos sus beneficios. 
+
+**Otras fuentes de colágeno** 
+------------------------------
+
+Además de la cebolla, existen **otros alimentos que son excelentes fuentes de colágeno**: 
+
+* **Caldo de huesos o de patas:** Este alimento es conocido por su alto contenido en colágeno y aminoácidos esenciales 
+
+* **Huevos:** La yema contiene aminoácidos cruciales para la producción de colágeno 
+
+* **Frutas ricas en vitamina C:** Naranjas, kiwis y fresas son vitales para estimular el colágeno 
+
+* **Verduras verdes:** Espinacas y brócoli aportan nutrientes esenciales que ayudan en la producción del colágeno 
+
+Así funciona el Pico y placa en Quito este martes 12 de noviembre
+=================================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se aplica en Quito como medida para controlar el flujo vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/trafico-pico-.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica](https://www.elcomercio.com/actualidad/quito/alcalde-de-quito-evalua-cortes-de-agua-debido-a-crisis-hidrica.html "Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica")
+* [Cortes de agua en Quito este lunes 11 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-en-quito-este-lunes-11-de-noviembre.html "Cortes de agua en Quito este lunes 11 de noviembre")
+* [Sariha Moya será la vicepresidenta de la República encargada](https://www.elcomercio.com/actualidad/politica/sariha-moya-sera-la-vicepresidenta-de-la-republica-encargada.html "Sariha Moya será la vicepresidenta de la República encargada")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, **todos los vehículos pueden circular** debido a que en feriados no se aplica la medida.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
+
 La inmigración es necesaria
 ===========================
 
@@ -185,15 +346,15 @@ Desafíos
 
 Como complemento de este **paisaje epistemológico** es urgente insistir en la necesidad de **prepararnos para entender el mundo en que vivimos**, seguir las huellas o promover nuevas, para crear y descifrar **nuevos caminos para la sociedad con una base ética, es decir, de factura humana.**
 
-Marco Angulo, jugador de Liga de Quito, fallece a los 22 años
-=============================================================
+Marco Angulo, jugador de Liga de Quito, falleció a los 22 años
+==============================================================
 
 Marco Angulo nació en Esmeraldas hace 22 años. Su debut profesional lo hizo en Independiente del Valle.
 -------------------------------------------------------------------------------------------------------
 
-Lamentable. Marco Angulo, **jugador de Liga de Quito**, acaba de fallecer en el Hospital Eugenio Espejo este lunes 11 de noviembre de 2024, tras sufrir un grave siniestro de tránsito la madrugada del lunes 7 de octubre, en la Autopista General Rumiñahui.
+Lamentable. Marco Angulo, **jugador de Liga de Quito**, falleció en el Hospital Eugenio Espejo de Quito, este lunes 11 de noviembre de 2024, tras sufrir un grave siniestro de tránsito la madrugada del lunes 7 de octubre, en la Autopista General Rumiñahui.
 
-Marco Angulo es el tercer fallecido en el referido siniestro de tránsito. **Roberto Cabezas, jugador de Independiente Juniros**; y Víctor Charcopa, sin vinculación alguna como futbolistas, son los otros dos fallecidos de los cinco que iban en el vehículo.
+Marco Angulo es el tercer fallecido en el referido siniestro de tránsito. **Roberto Cabezas, jugador de Independiente Juniors**; y Víctor Charcopa, sin vinculación alguna como futbolista, son los otros dos fallecidos de los cinco que iban en el vehículo.
 
 ### Más noticias:
 
@@ -201,38 +362,36 @@ Marco Angulo es el tercer fallecido en el referido siniestro de tránsito. **Rob
 * [Delfín ganó, huye del descenso y frenó a Macará](https://www.elcomercio.com/deportes/futbol/delfin-macara-tabla-posiciones-descenso.html "Delfín ganó, huye del descenso y frenó a Macará")
 * [La Selección de Ecuador trabaja a doble jornada para eliminatorias](https://www.elcomercio.com/deportes/seleccion-ecuador-eliminatorias-paraguay-entrenamiento-beccacece.html "La Selección de Ecuador trabaja a doble jornada para eliminatorias")
 
-El mundo del fútbol lamento el **fallecimiento de Angulo**. La Liga Pro fue la encargada de comunicar el lamentable suceso.
-
-> 📍Descansa en paz Marco 🕊️⚽️ [pic.twitter.com/SCPEIpkXTR](https://t.co/SCPEIpkXTR)
-> 
-> — LigaPro (@LigaProEC) [November 12, 2024](https://twitter.com/LigaProEC/status/1856191672922546261?ref_src=twsrc%5Etfw)
+El mundo del fútbol rápidamente lamentó el **fallecimiento de Angulo**. La Liga Pro fue la encargada de comunicar el suceso.
 
 **El volante se formó y debutó profesionalmente en Independiente del Valle**, luego pasó por el Football Club Cincinnati de los Estados Unidos, y finalmente en Liga de Quito.
 
 Con la Selección de Ecuador tuvo dos partidos, uno en la era del argentino **Gustavo Alfaro, que lo hizo debutar en noviembre de 2022** en un empate 0-0 ante Irak, en la previa del Mundial Catar 2022.
 
-En marzo de 2023 el españo**l Félix Sánchez lo incluyó en su primera lista en marzo de 2023** en la gira en Australia e ingresó en sustitución de Junior Sornoza.
+El segundo, en marzo de 2023, con el españo**l Félix Sánchez, que lo incluyó en su primera lista** en la gira por Australia e ingresó en sustitución de Junior Sornoza.
 
 Jugó 24 minutos en la victoria 1-2 con tantos de Pervis Estupiñán y Willian Pacho, dos de los defensores más goleadores del último lustro con la Tri.
+
+> 📍Descansa en paz Marco 🕊️⚽️ [pic.twitter.com/SCPEIpkXTR](https://t.co/SCPEIpkXTR)
+> 
+> — LigaPro (@LigaProEC) [November 12, 2024](https://twitter.com/LigaProEC/status/1856191672922546261?ref_src=twsrc%5Etfw)
 
 Carrera de Marco Angulo
 -----------------------
 
 A Independiente del Valle llegó en 2017. Antes de debutar en el primer equipo también fue parte del Independiente Juniors.
 
-En el 2020 fue parte del plante que ganó la Copa Libertadores sub-20 en Paraguay. En la final le ganaron 2-1 a River Plate, que tenía como su principal figura a Enzo Fernández, campeón del mundo con Argentina en Catar 2022.
+En el 2020 integró el plantel que ganó la Copa Libertadores sub-20 en Paraguay. En la final derrotaron 2-1 a River Plate, que tenía como su principal figura a Enzo Fernández, campeón del mundo con Argentina en Catar 2022.
 
 Dentro de ese equipo estaba Marco Angulo. Fue titular ante Colo-Colo (victoria 1-0); **ingresó al cambio con Libertad (victoria 2-1)**; y volvió a la titularidad ante Jorge Wilsterman (victoria 5-0 con un tanto suyo).
 
-En las semifinales ante Flamengo estuvo en el banco de suplentes. En la gran final volvió a la titularidad y completó los 90 minutos.
+En las semifinales, ante Flamengo, estuvo en el banco de suplentes. En la gran final volvió a la titularidad y completó los 90 minutos.
 
-Ese plantel de Independiente tenía a jugadores como Alexis Villa, Piero Hincapié, Willian Pacho, **José Andrés Hurtado, Moisés Caicedo, Pedro Vite** y Jhoanner Chávez, que actualmente forman parte de la Selección absoluta de Ecuador.
+Ese plantel de Independiente tenía a jugadores como Alexis Villa, Piero Hincapié, Willian Pacho, **José Andrés Hurtado, Moisés Caicedo, Pedro Vite** y Jhoanner Chávez, que forman parte de la Selección absoluta de Ecuador.
 
 El 9 de julio de 2021 se anunció que fue promovido al equipo principal, junto **Alan Minda, Carlos Gruezo Chamorro y Javier Sánchez**.
 
-Ese mismo año ganó la Liga Pro en la final ante Emelec. En el 2022 se colgó las medallas de oro de  
-la Copa Ecuador al vencer a 9 de Octubre; y la Copa Sudamericana, tras vencer a Sao Paulo en la final  
-única en Córdoba, Argentina.
+Ese mismo año ganó la Liga Pro en la final ante Emelec. En el 2022 se colgó las medallas de oro de la Copa Ecuador al vencer a 9 de Octubre; y la Copa Sudamericana, tras vencer a Sao Paulo en la final única en Córdoba, Argentina.
 
 ![Foto: Facebook CONMEBOL Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_carrera_1-1024x683.jpg)
 
@@ -240,17 +399,16 @@ Foto: Facebook CONMEBOL Sudamericana.
 
 En el 2023 se marchó al F. C. Cincinnati y ganó la MLS Supporters’ Shield y la MLS Conferencia Este.
 
-Para el 2024 fue repatriado por Liga de Quito. No era titular indiscutible, **pero siempre estaba en la  
-consideración de Pablo ‘Vitamina’ Sánchez**, actual entrenador que llegó para reemplazar al español  
-Josep Alcácer.
+Para el 2024 fue repatriado por Liga de Quito. No era titular indiscutible, **pero siempre estaba en la consideración de Pablo ‘Vitamina’ Sánchez**, actual entrenador que llegó para reemplazar al español Josep Alcácer.
 
-El domingo 6 de octubre **jugó tres minutos en la victoria 2-0 ante Orense en la octava fecha** de la  
-segunda etapa de la Liga Pro. Ingresó a los 87 minutos para reemplazar a Madison Julio.
+El domingo 6 de octubre **jugó los últimos tres minutos de su carrera en la victoria 2-0 ante Orense en la octava fecha** de la segunda etapa de la Liga Pro.
+
+Ingresó a los 87 minutos para reemplazar a Madison Julio.
 
 ![](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_carrera_2-1024x683.jpg)
 
-No te pierdas – El Confesionario
---------------------------------
+San viernes
+-----------
 
 Este 12 de noviembre cambian los precios de las gasolinas en Ecuador
 ====================================================================
@@ -768,146 +926,3 @@ Al consultar en los sitios web de las empresas distribuidoras como **Quito, Cent
 En las redes sociales de las empresas eléctricas, usuarios reclamaron constantemente por este incumplimiento. Los ciudadanos manifestaron que la falta de cumplimiento de los cronogramas les afectaron en sus **actividades diarias**.
 
 El Gobierno anunció el sábado 9 de noviembre que los cortes subirán hasta 12 horas al día por mantenimientos en **Agoyán y San Francisco** y la sequía en la **cuenca del río Paute**, que alimenta a los embalses de **Paute y Mazar.**
-
-Ecu 911 registró 27 incendios forestales en Ecuador este lunes 11 de noviembre
-==============================================================================
-
-Los incendios forestales en Ecuador este lunes 11 de noviembre son atendidos por los organismos de emergencia.
---------------------------------------------------------------------------------------------------------------
-
-![Los incendios forestales en Ecuador este lunes 11 de noviembre están en varias provincias.](https://www.elcomercio.com/wp-content/uploads/2024/11/incendios-forestales-ecuador-lunes-11-noviembre.jpg)
-
-**El ECU 911** registró **27 incendios** forestales en **Ecuador**, este **lunes 11 de noviembre** de 2024.
-
-El **ECU 911** reportó los incendios en varias provincias del país.
-
-### Más noticias:
-
-* [Dos incendios se registran en Guayaquil este 11 de noviembre; una niña falleció](https://www.elcomercio.com/actualidad/ecuador/dos-incendios-se-registran-en-guayaquil-una-nina-fallecio.html "Dos incendios se registran en Guayaquil este 11 de noviembre; una niña falleció")
-* [Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador](https://www.elcomercio.com/actualidad/javier-milei-no-asistira-a-la-cumbre-iberoamericana-en-ecuador-2.html "Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador")
-
-Los 27 incendios forestales en varias provincias de Ecuador este lunes 11 de noviembre
---------------------------------------------------------------------------------------
-
-El ECU 911 recibió alertas por **27 incendios** forestales en siete provincias:
-
-* Nueve en Azuay
-* Seis en Chimborazo
-* Cinco en Cañar
-* Cuatro en Loja
-* Uno en Imbabura
-* Uno en Guayas
-* Uno en Pichincha
-
-En el Distrito Metropolitano de **Quito** se informó sobre un incendio forestal en la parroquia **Nanegal**.
-
-Se movilizaron **unidades logísticas y tanqueros** del Cuerpo de Bomberos de Quito, que se mantienen en la atención del reporte.
-
-Se trataría de una quema de bagazo que contaminó una parte de la **quebrada** de la localidad.
-
-En **Azuay**, en el cantón Nabón, sector San Miguel de Rañas, los bomberos de la localidad han trabajado en un flagelo que, de momento, habría afectado no menos de 247 hectáreas.
-
-Otro evento se reportó en el sector **Cochapamba**, Molleturo, en el que el fuego ha consumido 20 hectáreas de vegetación.
-
-Se dieron alertas en los alrededores del Cementerio de Cumbe, donde se ha contado con el apoyo del helicóptero del Ejército, en **Cuenca**.
-
-Bomberos y otras entidades de socorro efectúan tareas para controlar el fuego en los sectores de Pirca Grande, en **Gualaceo**; así como los cantones Girón y Sígsig.
-
-En **Santa Isabel**, en Sauceloma, se informó sobre la afectación de aproximadamente 200 hectáreas tras un flagelo.
-
-En **Loja**, en el Barrio Vicente Rocafuerte, personal bomberil controló y liquidó un incendio forestal con una afectación de tres hectáreas de vegetación nativa y matorral.
-
-Otras quemas se originaron en los sectores de **Rumizhitana,** Quillullacu y la parroquia San Lucas.
-
-Estos incendios están con labores de control y **sofocación**.
-
-### Más incendios
-
-**Desde Cañar**, se reportaron incendios en Azogues, Cañar, El Tambo y **Biblián**; todos fueron coordinados con personal y unidades de primera respuesta.
-
-En **Imbabura**, en el sector **Piñán**, en Cotacachi. En Chimborazo: en el cantón Colta, los incendios se registraron en los sectores Rayoloma, Liglig, Miraflores y 20 de Agosto.
-
-El fuego afectó a las zonas de San Carlos y Sucuso, en el cantón **Pallatanga**.
-
-Se reportó una quema de maleza, que fue atendida por el Cuerpo de Bomberos, **Guayaquil**, en la vía a la Costa, ingreso al Gasoducto.
-
-La respuesta emergente a todos estos incendios se coordinó con los **cuerpos de bomberos** de cada localidad.
-
-Además, con la **Secretaría de Riesgos**, otras entidades y ciudadanía.
-
-¿Qué tan fiel es la película de ‘Pedro Páramo’ en Netflix al libro de Juan Rulfo?
-=================================================================================
-
-El clásico publicado en 1955 se estrenó en la plataforma de streaming el 6 de noviembre de 2024.
-------------------------------------------------------------------------------------------------
-
-![Manuel Garcia-Rulfo es el actor que encarna a Pedro Páramo en la película de Netflix.](https://www.elcomercio.com/wp-content/uploads/2024/11/pedro-paramo-El-Comercio.jpg)
-
-La **película ‘Pedro Páramo’ de Netflix** tiene un doble desafío. Por un lado, debe enganchar a quienes no tienen ni idea de qué se trata y, por otro, no decepcionar a quienes ya leyeron el libro.
-
-El libro sigue a **Juan Preciado**, quien, tras la muerte de su madre, viaja al **pueblo de Comala** para encontrar a su padre, Pedro Páramo, un poderoso cacique. En este viaje descubre un pueblo desolado, habitado solo por almas en pena.
-
-### Más noticias
-
-* **[La Era del Hielo regresa a la pantalla grande](https://www.elcomercio.com/tendencias/era-hielo-seis-disney.html "https://www.elcomercio.com/tendencias/era-hielo-seis-disney.html")**
-* **[‘Gladiador 2’ regresa a la arena: Tráiler, reparto y todo lo que debes saber](https://www.elcomercio.com/tendencias/trailer-gladiador-2-estreno-pedro-pascal.html "https://www.elcomercio.com/tendencias/trailer-gladiador-2-estreno-pedro-pascal.html")**
-
-La historia, publicada en 1955, está marcada por el realismo mágico y ofrece una visión crítica de la sociedad mexicana de la época. ¿Qué hace la **película de Netflix**?
-
-**El reto de adaptar ‘Pedro Páramo’ al cine**
----------------------------------------------
-
-La **novela de Juan Rulfo** es famosa por su estructura no lineal que está llena de fragmentos y recuerdos de personajes. Rulfo presenta una narrativa en la que se entrelazan las voces de los muertos.
-
-En la película, el **director Rodrigo Prieto** sí respeta esta estructura y mantiene los saltos temporales que le otorgan ese tono de pesadilla constante.
-
-La novela explora temas profundos como la muerte, el arrepentimiento, la culpa y el abandono. Rulfo convierte a Comala en una representación de un limbo, un lugar donde los vivos y los muertos coexisten y donde los pecados de Pedro Páramo marcan el destino de sus habitantes.
-
-La película intenta capturar esta atmósfera sombría y respeta los aspectos más oscuros de la obra original. La cinta hace un esfuerzo notable por mantener los diálogos casi intactos, con las palabras originales de Rulfo.
-
-Esto permite que la película sí conserve la esencia y poesía del texto. Como era de esperar del renombrado cinefotógrafo Rodrigo Prieto, la película utiliza una paleta de colores y luces que refuerzan la decadencia y desolación de Comala presente en el libro. Las tomas resaltan el polvo y el ambiente árido, que reflejan tanto la geografía como la corrupción espiritual del lugar.
-
-Todos estos elementos permiten que ‘Pedro Páramo’ de Netflix lleve la atmósfera y los diálogos de la novela a la pantalla con gran fidelidad y que la conviertan en una de las adaptaciones más precisas que ha tenido la obra de Juan Rulfo, pero, como en todo, hay opiniones divididas.
-
-**Tráiler de ‘Pedro Páramo’**
------------------------------
-
-AMT investiga a dos conductoras por invadir el parque La Carolina en Quito
-==========================================================================
-
-Dos vehículos fueron captados en video mientras atravesaban el parque La Carolina. La AMT se pronunció sobre los hechos.
-------------------------------------------------------------------------------------------------------------------------
-
-![Una de las conductoras hablaba por celular mientras atravesaba el parque La Carolina](https://www.elcomercio.com/wp-content/uploads/2024/11/conductoras-parque-la-carolina.jpg)
-
-**Dos conductoras** fueron captadas en video mientras se atravesaban con sus vehículos por medio del parque **La Carolina**, en el centro norte de Quito.
-
-### Más noticias
-
-* [Ciclistas rinden homenaje a Carla Barona en Quito y exigen respeto en las vías](https://www.elcomercio.com/deportes/ciclismo/ciclistas-homenaje-carla-barona-respeto-vias.html "Ciclistas rinden homenaje a Carla Barona en Quito y exigen respeto en las vías")
-* [Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica](https://www.elcomercio.com/actualidad/quito/alcalde-de-quito-evalua-cortes-de-agua-debido-a-crisis-hidrica.html "Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica")
-* [Así funciona el Pico y placa en Quito este lunes 11 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-11-de-noviembre.html "Así funciona el Pico y placa en Quito este lunes 11 de noviembre")
-
-Las temerarias acciones fueron **grabadas y difundidas** por un ciudadano que se sorprendió por la presencia de los carros en uno de los **caminos peatonales** del área verde.
-
-En las imágenes, se observa primero a un **vehículo rojo 4×2** invadir el espacio ocupado por las personas que visitaron el parque, el domingo 10 de noviembre de 2024.
-
-La mujer, además de la presunta **contravención** que cometió, **utilizaba su celular** mientras conducía el automotor.
-
-Un segundo vehículo se atravesó La Carolina a los pocos minutos
----------------------------------------------------------------
-
-En otro video, compartido en TikTok al día siguiente, pero captado el mismo día, una segunda conductora fue filmada realizando la **misma acción** en un auto gris, aunque a una **mayor velocidad**.
-
-La mujer obligó a uno de los caminantes a **retirarse del espacio peatonal**, para continuar con su camino.
-
-La presunta **invasión** de La Carolina puso en riesgo a la **ciudadanía** que se encontraba en las áreas verdes y en la pista atlética del parque, entre ellos, **niños, deportistas y comerciantes**[.](https://es.wikipedia.org/wiki/Parque_La_Carolina "https://es.wikipedia.org/wiki/Parque_La_Carolina")
-
-Aparentemente, los vehículos invadieron el parque desde la av. Amazonas o por uno de los parqueaderos y se incorporaron en el lado oriental, en la **av. De los Shyris**.
-
-AMT se pronunció tras difusión de los videos
---------------------------------------------
-
-La Agencia Metropolitana de Tránsito (**AMT**) confirmó a **EL COMERCIO** que recibieron las denuncias ciudadanas a través de redes sociales.
-
-Los videos están en investigación, para determinar si las conductoras incumplieron con algún tipo de normativa metropolitana o **infracción de tránsito**, indicó la entidad.
