@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, November 11, 2024**
+**Tuesday, November 12, 2024**
 
-**...Patchy Fog to Dissipate and Lift By Mid-to-Late Morning...Scattered to Widespread Showers Across Western Panhandle; Additional Showers Spreading Eastward Towards Big Bend...Isolated Showers Along East-Central and Southeast Florida Coasts...Above Normal Temperatures Statewide...Showers to Continue Overnight Along Western Panhandle...Patchy to Locally Dense Fog Possible Over Suwannee Valley and I-75 Corridor Overnight...High Risk for Rip Currents Expected Along Panhandle and East Coast Beaches...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers; Portions of Rivers Falling Below Flood Stage...NHC Monitoring Area of Potential Development in Western Caribbean Over Next 7 Days (40%)...**
+**...Patchy to Locally Dense Fog to Dissipate and Lift By the Mid-Morning Hours...Isolated to Scattered Showers Along Western Panhandle...Spotty Showers Along North Florida and the East Coast Throughout the Day...Breezy Winds to Develop Across Southeast Florida and Keys Late this Afternoon...Weak Frontal Boundary To Push Southward Throughout the Day...Mostly Dry Conditions to Return Tonight...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers; Portions of Rivers Falling Below Flood Stage...NHC Monitoring Disturbance Western Caribbean Over Next 7 Days (80%)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
