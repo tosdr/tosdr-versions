@@ -313,8 +313,6 @@ This Privacy Notice is published and could be amended from time to time. We invi
 Country/region specific Privacy Notices
 ---------------------------------------
 
-Country/region specific Privacy Notices
-
 ### Americas
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -339,10 +337,6 @@ Germany, Austria and Switzerland
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 [**France**](https://atos.net/fr/vie-privee)
-
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-[**Netherlands**](https://atos.net/nl/nl-local-netherlands-statement)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)  
 [**Portugal**](https://atos.net/pt-pt/politica-de-privacidade)
