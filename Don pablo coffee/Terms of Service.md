@@ -1,4 +1,4 @@
-Free shipping on orders $50 or more inside the contiguous U.S.A.
+Free shipping on orders $50 or more inside the contiguous U.S.A. (Excluding cold brew)
 
 [![Don Pablo Specilaty Coffee Growers & Roasters - Miami, Fl](//donpablocoffee.com/cdn/shop/files/don_pablo_coffee_300x.png?v=1639586842)
 
