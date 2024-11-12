@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67323bb1775b8c061197b128_top-mistakes-ecommerce--black-friday-cyber-monday.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67337b39b37ce22712afdaef_clearco-receipt-funding-holiday-demand.png)
 
-###### Ecommerce Brands Biggest Mistakes During BFCM
+###### Feeling the Holiday Rush? Clearco’s Receipt Funding Keeps Your Cash Flow Merry and Bright
 
-[Read now >](https://clear.co/blog/top-mistakes-ecommerce-businesses-face-black-friday-cyber-monday)
+[Read now >](https://clear.co/blog/clearco-receipt-funding-holiday-demand)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
