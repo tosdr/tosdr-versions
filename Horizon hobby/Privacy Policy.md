@@ -28,7 +28,7 @@ Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-po
 
  
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwd39bc9fb/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf7ec4d3c/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 Search Name or Part Number
 
@@ -62,11 +62,11 @@ My Account
 * [Order Status](https://www.horizonhobby.com/orderstatus)
 * [View My Points](https://www.horizonhobby.com/rcclub?rurl=6)
 
-  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw2c988d8b/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7e095ed5/images/new-cart-icon-hover.svg) 0
+  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw45e58e79/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw71763476/images/new-cart-icon-hover.svg) 0
 
 Cart
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw2c988d8b/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7e095ed5/images/new-cart-icon-hover.svg) 0
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw45e58e79/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw71763476/images/new-cart-icon-hover.svg) 0
 
 Cart](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
@@ -92,7 +92,7 @@ water
 
 [Shop Boats](https://www.horizonhobby.com/boats/)
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw2c988d8b/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7e095ed5/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw45e58e79/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw71763476/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
 [My store
 
@@ -100,11 +100,11 @@ Select A Store](javascript:void(0))
 
 My store
 
-![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwd39bc9fb/images/horizon-hobby-logo-blue.svg)
+![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf7ec4d3c/images/horizon-hobby-logo-blue.svg)
 
 [icon-arrow-white Back](#)
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwd39bc9fb/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf7ec4d3c/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 [](#)
 
@@ -1044,6 +1044,10 @@ Legal
 * * *
 
 Copyright © Horizon Hobby, LLC
+
+           Submit
+
+ 
 
        
 
