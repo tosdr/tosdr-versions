@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)5°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)6°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,23 +54,23 @@
 
 Thèmes du moment
 
+* [impôt](https://www.watson.ch/fr/impot/)
+* [Valais](https://www.watson.ch/fr/valais/)
+* [France](https://www.watson.ch/fr/france/)
 * [People](https://www.watson.ch/fr/people/)
-* [Climat](https://www.watson.ch/fr/climat/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
 * [Hollywood](https://www.watson.ch/fr/hollywood/)
-* [Nati](https://www.watson.ch/fr/nati/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Police](https://www.watson.ch/fr/police/)
+* [Japon](https://www.watson.ch/fr/japon/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
-* [Planète](https://www.watson.ch/fr/planete/)
-* [Astronomie](https://www.watson.ch/fr/astronomie/)
 * [avion](https://www.watson.ch/fr/avion/)
+* [républicain](https://www.watson.ch/fr/republicain/)
 * [Transports](https://www.watson.ch/fr/transports/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Vidéo](https://www.watson.ch/fr/video/)
-* [républicain](https://www.watson.ch/fr/republicain/)
-* [Football](https://www.watson.ch/fr/football/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
