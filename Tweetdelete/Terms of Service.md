@@ -1,3 +1,13 @@
+ 
+
+[](https://tweetdelete.net/premium/?period=yearly)
+
+**50% OFF** Annual Plan
+
+EARLY BLACK FRIDAY flash Sale
+
+01 HR 12 Min 32 Sec
+
 [![site-logo](/static/images/logo.png)](https://tweetdelete.net/)
 
 * [FAQ](https://tweetdelete.net/faq/)
