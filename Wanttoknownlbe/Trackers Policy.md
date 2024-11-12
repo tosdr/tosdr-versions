@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/wikileaks-over-israel-pro-netanyahu-propaganda/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/poetin-verklaart-rusland-gmo-vrij/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -141,6 +141,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
+
+##### **Adriaan W** reacts on:
+
+##### Het geheim achter nicotine..
+
+[Thanks Guido...!…](https://www.wanttoknow.nl/gezondheid/het-geheim-achter-nicotine/comment-page-1/#comment-626370)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -389,14 +397,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is er met ons bloed aan de hand?
 
 [Mijn mening is op dit moment dat zowel de eerste maar ook de…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wat-is-er-met-ons-bloed-aan-de-hand/comment-page-1/#comment-626338)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Wat is er met ons bloed aan de hand?
-
-[Wanneer ik aan mensen probeer duidelijk te maken dat digital…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wat-is-er-met-ons-bloed-aan-de-hand/comment-page-1/#comment-626337)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
