@@ -118,16 +118,16 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
-    
-    Prisoners of Katrina
-    
-    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
+    
+    Prisoners of Katrina
+    
+    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Crash of Flight 111](/wp-content/thumbnails/6737-100x70.png?x53432)
+* [![What Plants Talk About](/wp-content/thumbnails/7474-100x70.jpg?x53432)
     
-    Crash of Flight 111
+    What Plants Talk About
     
-    On the evening of September 2, 1998, a Swissair MD-11 jet bound from New York to Geneva diverted to Halifax, Nova Scotia, after the crew smelled smoke in the cockpit. Just minutes from the airport, Fl](https://documentaryheaven.com/crash-of-flight-111/ "Crash of Flight 111")
-* [![The Neurons that Shaped Civilization](/wp-content/thumbnails/3109-100x70.jpg?x53432)
+    This program integrates hard-core science with a light-hearted look at how plants behave, revealing a world where plants are as busy, responsive and complex as we are. From the stunning heights of the](https://documentaryheaven.com/what-plants-talk-about/ "What Plants Talk About")
+* [![Gashole](/wp-content/thumbnails/6076-100x70.jpeg?x53432)
     
-    The Neurons that Shaped Civilization
+    Gashole
     
-    In this short 10 minute video, neuroscientist Vilayanur Ramachandran outlines the fascinating functions of mirror neurons. Only recently discovered, these neurons allow us to learn complex social beha](https://documentaryheaven.com/the-neurons-that-shaped-civilization/ "The Neurons that Shaped Civilization")
-* [![Beyond the Emoji](/wp-content/thumbnails/16089-100x70.jpg?x53432)
+    What caused America to go from being a leading exporter of oil to the world’s largest importer? What are the economic and sociological forces that have contributed to that change and impede its soluti](https://documentaryheaven.com/gashole/ "Gashole")
+* [![Assault In the Ring](/wp-content/thumbnails/2091-100x70.jpg?x53432)
     
-    Beyond the Emoji
+    Assault In the Ring
     
-    Beyond the Emoji shows how our means of communication are more extensive than ever before, the push of a button now days can put us in touch with hundreds or even thousands of people who are connecte](https://documentaryheaven.com/beyond-the-emoji/ "Beyond the Emoji")
-* [![NAWAPA 1964](/wp-content/thumbnails/7068-100x70.jpg?x53432)
+    Assault In the Ring revisits a boxing scandal considered one of the sport’s darkest hours, and traces a man’s despairing journey following his alleged involvement in a criminal plot. The documentary e](https://documentaryheaven.com/assault-in-the-ring/ "Assault In the Ring")
+* [![Ross Kemp: In Search of Pirates](/wp-content/thumbnails/1080-100x70.jpg?x53432)
     
-    NAWAPA 1964
+    Ross Kemp: In Search of Pirates
     
-    The true story of the fight to build the North American Water And Power Alliance, spanning the 1960s and early 1970s, as told through the words of Utah's Senator Frank Moss.This unique style of docu](https://documentaryheaven.com/nawapa-1964/ "NAWAPA 1964")
-* [![The French Revolution: Tearing Up History](/wp-content/thumbnails/8831)
+    The actor investigates the boom in piracy on the world’s oceans, traveling to some of the planet’s biggest trouble spots to discover the problems faced by potential targets and those trying to protect](https://documentaryheaven.com/ross-kemp-in-search-of-pirates/ "Ross Kemp: In Search of Pirates")
+* [![Bush Family Fortunes](/wp-content/thumbnails/389-100x70.png?x53432)
     
-    The French Revolution: Tearing Up History
+    Bush Family Fortunes
     
-    A journey through the dramatic and destructive years of the French Revolution, telling its history in a way not seen before - through the extraordinary story of its art. Our guide through this turbule](https://documentaryheaven.com/french-revolution-tearing-up-history/ "The French Revolution: Tearing Up History")
+    George W. Bush is only the latest and most famous part of the Bush family. He, as well as his father could call themselves “President of the United States of America“. But their history goes far furth](https://documentaryheaven.com/bush-family-fortunes/ "Bush Family Fortunes")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
