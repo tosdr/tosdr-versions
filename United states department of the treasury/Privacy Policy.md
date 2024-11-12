@@ -575,6 +575,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    November 12, 2024
+    
+    [Treasury Sanctions Sudanese Commander Involved in Human Rights Abuses in West Darfur](https://home.treasury.gov/news/press-releases/jy2710)
+    
     November 6, 2024
     
     [Treasury Expands Sanctions on Republika Srpska Network Evading U.S. Sanctions](https://home.treasury.gov/news/press-releases/jy2709)
@@ -582,10 +586,6 @@ MENU MENU
     November 1, 2024
     
     [Treasury Issues Final Rule Expanding CFIUS Coverage of Real Estate Transactions Around More Than 60 Military Installations](https://home.treasury.gov/news/press-releases/jy2708)
-    
-    November 1, 2024
-    
-    [U.S. Department of the Treasury’s CDFI Fund and Federal Housing Finance Agency Collaborate to Bolster CDFI Access to Capital](https://home.treasury.gov/news/press-releases/jy2707)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
