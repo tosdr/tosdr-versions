@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/8f92f9a2-74d9-44f0-8623-495c0217a511/20241026T005157/8f92f9a2-74d9-44f0-8623-495c0217a511_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8f92f9a2-74d9-44f0-8623-495c0217a511/20241026T005157/8f92f9a2-74d9-44f0-8623-495c0217a511_360x203.jpg)](https://www.king5.com/article/news/local/king-county-council-workforce-housing-motion-program/281-1476d53f-9f40-44d6-89bb-002cd82cc864)
+        
+        #### [King County Council to vote on motion funding $1 billion in affordable housing units](https://www.king5.com/article/news/local/king-county-council-workforce-housing-motion-program/281-1476d53f-9f40-44d6-89bb-002cd82cc864)
+        
     *  [![](https://media.king5.com/assets/KING/images/cb615b07-39cf-429d-901c-2d58408a3b12/20241112T131424/cb615b07-39cf-429d-901c-2d58408a3b12_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb615b07-39cf-429d-901c-2d58408a3b12/20241112T131424/cb615b07-39cf-429d-901c-2d58408a3b12_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/water-main-break-central-tacoma-discolored-water/281-686e9b83-e30b-4432-8d3b-fd5af069cf44)
         
-        #### [Central Tacoma residents may be without water for a few hours due to 'large water main break'](https://www.king5.com/article/news/local/tacoma/water-main-break-central-tacoma-discolored-water/281-686e9b83-e30b-4432-8d3b-fd5af069cf44)
-        
-    *  [![](https://media.king5.com/assets/KING/images/37e5eb14-0fd9-4270-aca1-86b8170b7fe4/20241112T071403/37e5eb14-0fd9-4270-aca1-86b8170b7fe4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/37e5eb14-0fd9-4270-aca1-86b8170b7fe4/20241112T071403/37e5eb14-0fd9-4270-aca1-86b8170b7fe4_360x203.jpg)](https://www.king5.com/article/news/local/seattle-city-council-member-intervenes-dog-abuse-incident/281-e35a0ecb-123f-4cfa-8d7b-5c68be8ad393)
-        
-        #### [Seattle council member helps rescue dog from 'disturbing' abuse incident](https://www.king5.com/article/news/local/seattle-city-council-member-intervenes-dog-abuse-incident/281-e35a0ecb-123f-4cfa-8d7b-5c68be8ad393)
+        #### [Central Tacoma residents advised to watch for discolored water after water main break](https://www.king5.com/article/news/local/tacoma/water-main-break-central-tacoma-discolored-water/281-686e9b83-e30b-4432-8d3b-fd5af069cf44)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KGW/images/cc3c9ec5-7d30-4217-a435-59fec28491e3/20241112T174522/cc3c9ec5-7d30-4217-a435-59fec28491e3_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/cc3c9ec5-7d30-4217-a435-59fec28491e3/20241112T174522/cc3c9ec5-7d30-4217-a435-59fec28491e3_360x203.jpg)](https://www.king5.com/article/weather/tornado-rockaway-beach-oregon-coast-national-weather-service/283-92caa4e7-62eb-49fc-abd5-e87b4e0e7b4b)
+        
+        #### [National Weather Service investigating possible tornado on Oregon Coast Monday night](https://www.king5.com/article/weather/tornado-rockaway-beach-oregon-coast-national-weather-service/283-92caa4e7-62eb-49fc-abd5-e87b4e0e7b4b)
+        
     *  [![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_360x203.jpg)](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
         
         #### [Strong winds possible in much of western Washington lowlands Tuesday and Wednesday](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
-        
-    *  [![](https://media.king5.com/assets/KING/images/891c5f33-14fe-4ca9-91e8-b869e7deaf5d/20241112T072735/891c5f33-14fe-4ca9-91e8-b869e7deaf5d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/891c5f33-14fe-4ca9-91e8-b869e7deaf5d/20241112T072735/891c5f33-14fe-4ca9-91e8-b869e7deaf5d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+54°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
