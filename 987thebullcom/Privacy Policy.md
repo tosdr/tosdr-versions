@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Love SomebodyMorgan Wallen<br><br>10:40am |
-| Craving YouThomas Rhett Ft Maren Morris<br><br>10:36am |
-| White HorseChris Stapleton<br><br>10:33am |
-| Am I OkMegan Moroney<br><br>10:29am |
-| Even If It Breaks Your HeartEli Young Band<br><br>10:25am |
+| I Am Not OkayJelly Roll<br><br>4:39pm |
+| Small Town BoyDustin Lynch<br><br>4:36pm |
+| She'S Somebody'S DaughterDrew Baldridge<br><br>4:32pm |
+| Miles On ItKane Brown Ft Marshmello<br><br>4:29pm |
+| Live Like You Were DyingTim Mcgraw<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,17 +495,17 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
