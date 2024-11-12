@@ -38,10 +38,12 @@ Main Navigation
     * [WrapStyle](https://www.thewrap.com/wrapstyle/)
 * [PRO](https://www.thewrap.com/members-hub)
     * [Members Hub](https://www.thewrap.com/members-hub/)
-    * [Data and Analysis](https://www.thewrap.com/data-analysis/)
-    * [WrapPRO](https://www.thewrap.com/category/wrappro/)
-    * [TheGrill 2024 Videos](https://www.thewrap.com/thegrill-2024-panels-videos/)
+    * [Data Insights](https://www.thewrap.com/data-analysis/)
+    * [Streaming Charts](https://www.thewrap.com/what-to-watch/)
     * [The Grill](https://www.thewrap.com/the-grill/)
+    * [TheGrill 2024 Videos](https://www.thewrap.com/thegrill-2024-panels-videos/)
+    * [WrapPRO](https://www.thewrap.com/category/wrappro/)
+* [What to Watch](https://www.thewrap.com/what-to-watch/)
 * [More](#)
     * [Power Women Summit](https://www.thewrap.com/power-women-summit/)
     * [Screening Series RSVP](https://thewrapscreenings.splashthat.com/)
@@ -58,7 +60,6 @@ Main Navigation
     * [Tech](https://www.thewrap.com/category/tech/)
     * [Culture](https://www.thewrap.com/category/culture/)
     * [Media](https://www.thewrap.com/category/media/)
-* [What to Watch](https://www.thewrap.com/what-to-watch/)
 
 [Newsletters](https://www.thewrap.com/newsletters/)[](https://www.thewrap.com/?s=)
 
