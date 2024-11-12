@@ -4,29 +4,29 @@
 
 * Solutions
     * Business Need
+        * [Work Orders](https://www.knack.com/solutions/work-orders/)
         * [Project Management![Project Management](https://www.knack.com/wp-content/uploads/2023/08/project-management-icon-purple.svg)](https://www.knack.com/solutions/project-management/)
         * [Financial Management![Financial Management](https://www.knack.com/wp-content/uploads/2023/08/financial-management-icon-purple.svg)](https://www.knack.com/solutions/financial-management/)
         * [Security & Compliance![Security & Compliance](https://www.knack.com/wp-content/uploads/2023/08/securitycompliance-icon-purple.svg)](https://www.knack.com/solutions/security-compliance/)
         * [Sales & Marketing![Sales & Marketing](https://www.knack.com/wp-content/uploads/2023/08/salesmarketing-icon-purple.svg)](https://www.knack.com/solutions/sales-and-marketing/)
         * [Supply Chain![Supply Chain](https://www.knack.com/wp-content/uploads/2023/08/supplychain-icon-purple.svg)](https://www.knack.com/solutions/supply-chain/)
-        * [Field Services![Field Services](https://www.knack.com/wp-content/uploads/2023/08/fieldservices-icon-purple.svg)](https://www.knack.com/solutions/field-services/)
         * [Business Operations![Business Operations](https://www.knack.com/wp-content/uploads/2023/08/businessoperations-icon-purple.svg)](https://www.knack.com/solutions/business-operations/)
     * Project Type
+        * [Asset & Equipment Management![Asset & Equipment Management](https://www.knack.com/wp-content/uploads/2023/08/assetandequipmentmanagement-icon-purple.svg)](https://www.knack.com/solutions/asset-equipment-management/)
         * [Custom CRM![Custom CRM](https://www.knack.com/wp-content/uploads/2023/08/customcrm-icon-purple.svg)](https://www.knack.com/solutions/custom-crm/)
         * [Customer Portal![Customer Portal](https://www.knack.com/wp-content/uploads/2023/08/customerportal-icon-purple.svg)](https://www.knack.com/solutions/customer-portal/)
         * [Online Database![Online Database](https://www.knack.com/wp-content/uploads/2023/08/onlinedatabase-icon-purple.svg)](https://www.knack.com/solutions/online-database/)
         * [Volunteer Management![Volunteer Management](https://www.knack.com/wp-content/uploads/2023/08/volunteermanagement-icon-purple.svg)](https://www.knack.com/solutions/volunteer-management/)
-        * [Asset & Equipment Management![Asset & Equipment Management](https://www.knack.com/wp-content/uploads/2023/08/assetandequipmentmanagement-icon-purple.svg)](https://www.knack.com/solutions/asset-equipment-management/)
         * [Vendor & Supplier Portal![Vendor & Supplier Portal](https://www.knack.com/wp-content/uploads/2023/08/vendorsupplierportal-icon-purple.svg)](https://www.knack.com/solutions/vendor-and-supplier-portal/)
         * [Inventory Management![Inventory Management](https://www.knack.com/wp-content/uploads/2023/08/inventorymanagement-icon-purple.svg)](https://www.knack.com/solutions/inventory-management/)
         * [Event Management![Event Management](https://www.knack.com/wp-content/uploads/2023/08/eventmanagement-icon-purple.svg)](https://www.knack.com/solutions/event-management/)
     * Industry
+        * [Construction![Construction](https://www.knack.com/wp-content/uploads/2023/08/construction-icon-purple.svg)](https://www.knack.com/solutions/construction/)
         * [Healthcare![Healthcare](https://www.knack.com/wp-content/uploads/2023/08/healthcare-icon-purple.svg)](https://www.knack.com/solutions/healthcare/)
         * [Government![Government](https://www.knack.com/wp-content/uploads/2023/08/government-icon-purple.svg)](https://www.knack.com/solutions/government/)
         * [Property Management![Property Management](https://www.knack.com/wp-content/uploads/2023/08/propertymanagement-icon-purple.svg)](https://www.knack.com/solutions/property-management/)
         * [Non-Profit![Non-Profit](https://www.knack.com/wp-content/uploads/2023/08/nonprofit-icon-purple.svg)](https://www.knack.com/solutions/non-profit/)
         * [Education![Education](https://www.knack.com/wp-content/uploads/2023/08/education-icon-purple.svg)](https://www.knack.com/solutions/education/)
-        * [Construction![Construction](https://www.knack.com/wp-content/uploads/2023/08/construction-icon-purple.svg)](https://www.knack.com/solutions/construction/)
         * [Software![Software](https://www.knack.com/wp-content/uploads/2023/08/software-icon-purple.svg)](https://www.knack.com/solutions/software/)
     * [Explore All Solutions](https://www.knack.com/solutions)
 * Platform
@@ -60,29 +60,29 @@
 
 * Solutions
     * Business Need
+        * [Work Orders](https://www.knack.com/solutions/work-orders/)
         * [Project Management![Project Management](https://www.knack.com/wp-content/uploads/2023/08/project-management-icon-purple.svg)](https://www.knack.com/solutions/project-management/)
         * [Financial Management![Financial Management](https://www.knack.com/wp-content/uploads/2023/08/financial-management-icon-purple.svg)](https://www.knack.com/solutions/financial-management/)
         * [Security & Compliance![Security & Compliance](https://www.knack.com/wp-content/uploads/2023/08/securitycompliance-icon-purple.svg)](https://www.knack.com/solutions/security-compliance/)
         * [Sales & Marketing![Sales & Marketing](https://www.knack.com/wp-content/uploads/2023/08/salesmarketing-icon-purple.svg)](https://www.knack.com/solutions/sales-and-marketing/)
         * [Supply Chain![Supply Chain](https://www.knack.com/wp-content/uploads/2023/08/supplychain-icon-purple.svg)](https://www.knack.com/solutions/supply-chain/)
-        * [Field Services![Field Services](https://www.knack.com/wp-content/uploads/2023/08/fieldservices-icon-purple.svg)](https://www.knack.com/solutions/field-services/)
         * [Business Operations![Business Operations](https://www.knack.com/wp-content/uploads/2023/08/businessoperations-icon-purple.svg)](https://www.knack.com/solutions/business-operations/)
     * Project Type
+        * [Asset & Equipment Management![Asset & Equipment Management](https://www.knack.com/wp-content/uploads/2023/08/assetandequipmentmanagement-icon-purple.svg)](https://www.knack.com/solutions/asset-equipment-management/)
         * [Custom CRM![Custom CRM](https://www.knack.com/wp-content/uploads/2023/08/customcrm-icon-purple.svg)](https://www.knack.com/solutions/custom-crm/)
         * [Customer Portal![Customer Portal](https://www.knack.com/wp-content/uploads/2023/08/customerportal-icon-purple.svg)](https://www.knack.com/solutions/customer-portal/)
         * [Online Database![Online Database](https://www.knack.com/wp-content/uploads/2023/08/onlinedatabase-icon-purple.svg)](https://www.knack.com/solutions/online-database/)
         * [Volunteer Management![Volunteer Management](https://www.knack.com/wp-content/uploads/2023/08/volunteermanagement-icon-purple.svg)](https://www.knack.com/solutions/volunteer-management/)
-        * [Asset & Equipment Management![Asset & Equipment Management](https://www.knack.com/wp-content/uploads/2023/08/assetandequipmentmanagement-icon-purple.svg)](https://www.knack.com/solutions/asset-equipment-management/)
         * [Vendor & Supplier Portal![Vendor & Supplier Portal](https://www.knack.com/wp-content/uploads/2023/08/vendorsupplierportal-icon-purple.svg)](https://www.knack.com/solutions/vendor-and-supplier-portal/)
         * [Inventory Management![Inventory Management](https://www.knack.com/wp-content/uploads/2023/08/inventorymanagement-icon-purple.svg)](https://www.knack.com/solutions/inventory-management/)
         * [Event Management![Event Management](https://www.knack.com/wp-content/uploads/2023/08/eventmanagement-icon-purple.svg)](https://www.knack.com/solutions/event-management/)
     * Industry
+        * [Construction![Construction](https://www.knack.com/wp-content/uploads/2023/08/construction-icon-purple.svg)](https://www.knack.com/solutions/construction/)
         * [Healthcare![Healthcare](https://www.knack.com/wp-content/uploads/2023/08/healthcare-icon-purple.svg)](https://www.knack.com/solutions/healthcare/)
         * [Government![Government](https://www.knack.com/wp-content/uploads/2023/08/government-icon-purple.svg)](https://www.knack.com/solutions/government/)
         * [Property Management![Property Management](https://www.knack.com/wp-content/uploads/2023/08/propertymanagement-icon-purple.svg)](https://www.knack.com/solutions/property-management/)
         * [Non-Profit![Non-Profit](https://www.knack.com/wp-content/uploads/2023/08/nonprofit-icon-purple.svg)](https://www.knack.com/solutions/non-profit/)
         * [Education![Education](https://www.knack.com/wp-content/uploads/2023/08/education-icon-purple.svg)](https://www.knack.com/solutions/education/)
-        * [Construction![Construction](https://www.knack.com/wp-content/uploads/2023/08/construction-icon-purple.svg)](https://www.knack.com/solutions/construction/)
         * [Software![Software](https://www.knack.com/wp-content/uploads/2023/08/software-icon-purple.svg)](https://www.knack.com/solutions/software/)
     * [Explore All Solutions](https://www.knack.com/solutions)
 * Platform
@@ -115,28 +115,28 @@
 Read how you can revolutionize your operation with Knack.
 
 * [Business Need](#)
+    * [Work Orders![Work Orders](https://www.knack.com/wp-content/uploads/2024/11/Untitled-design-22.svg)](https://www.knack.com/solutions/work-orders/)
     * [Project Management![Project Management](https://www.knack.com/wp-content/uploads/2023/11/project-management.svg)](https://www.knack.com/solutions/project-management/)
     * [Financial Management![Financial Management](https://www.knack.com/wp-content/uploads/2023/11/Financial.svg)](https://www.knack.com/solutions/financial-management/)
     * [Security and Compliance![Security and Compliance](https://www.knack.com/wp-content/uploads/2023/11/security.svg)](https://www.knack.com/solutions/security-compliance/)
     * [Sales and Marketing![Sales and Marketing](https://www.knack.com/wp-content/uploads/2023/11/Sales-and-Marketing.svg)](https://www.knack.com/solutions/sales-and-marketing/)
     * [Supply Chain![Supply Chain](https://www.knack.com/wp-content/uploads/2023/11/Supply-Chain.svg)](https://www.knack.com/solutions/supply-chain/)
-    * [Field Services![Field Services](https://www.knack.com/wp-content/uploads/2023/11/Field-Services.svg)](https://www.knack.com/solutions/field-services/)
     * [Business Operations![Business Operations](https://www.knack.com/wp-content/uploads/2023/11/Business-Opps.svg)](https://www.knack.com/solutions/business-operations/)
 * [Project Type](#)
+    * [Asset Management![Asset Management](https://www.knack.com/wp-content/uploads/2024/11/Untitled-design-23.svg)](https://www.knack.com/solutions/asset-equipment-management/)
     * [Custom CRM![Custom CRM](https://www.knack.com/wp-content/uploads/2023/11/Custom-CRM.svg)](https://www.knack.com/solutions/custom-crm/)
     * [Customer Portal![Customer Portal](https://www.knack.com/wp-content/uploads/2023/11/Customer-Portal.svg)](https://www.knack.com/solutions/customer-portal/)
     * [Event Management![Event Management](https://www.knack.com/wp-content/uploads/2023/11/6.svg)](https://www.knack.com/solutions/event-management/)
     * [Grants Management![Grants Management](https://www.knack.com/wp-content/uploads/2023/11/4.svg)](https://www.knack.com/solutions/grants-management/)
     * [Inventory Management![Inventory Management](https://www.knack.com/wp-content/uploads/2023/11/Inventory-Management.svg)](https://www.knack.com/solutions/inventory-management/)
     * [Learning Management![Learning Management](https://www.knack.com/wp-content/uploads/2023/11/Untitled-60-x-60-px.svg)](https://www.knack.com/solutions/training-learning-management/)
-    * [Online Database![Online Database](https://www.knack.com/wp-content/uploads/2023/11/Online-Database.svg)](https://www.knack.com/solutions/online-database/)
 * [Industry](#)
+    * [Construction![Construction](https://www.knack.com/wp-content/uploads/2023/11/construction-icon-purple.svg)](https://www.knack.com/solutions/construction/)
     * [Healthcare![Healthcare](https://www.knack.com/wp-content/uploads/2023/11/Healthcare.svg)](https://www.knack.com/solutions/healthcare/)
     * [Government![Government](https://www.knack.com/wp-content/uploads/2023/11/Government.svg)](https://www.knack.com/solutions/government/)
     * [Property Management![Property Management](https://www.knack.com/wp-content/uploads/2023/11/Property-Management.svg)](https://www.knack.com/solutions/property-management/)
     * [Non-Profit![Non-Profit](https://www.knack.com/wp-content/uploads/2023/11/Non-Profit.svg)](https://www.knack.com/solutions/non-profit/)
     * [Education![Education](https://www.knack.com/wp-content/uploads/2023/11/Education.svg)](https://www.knack.com/solutions/education/)
-    * [Construction![Construction](https://www.knack.com/wp-content/uploads/2023/11/construction-icon-purple.svg)](https://www.knack.com/solutions/construction/)
     * [Software![Software](https://www.knack.com/wp-content/uploads/2023/11/software-icon-purple.svg)](https://www.knack.com/solutions/software/)
 * [Explore All Solutions](https://www.knack.com/solutions)
 
@@ -146,9 +146,9 @@ Knack builders are succeeding.
 
 [![Knack: No-Code Application Development Platform](https://www.knack.com/wp-content/uploads/2023/11/1-1.svg)](https://www.knack.com/case-studies/)
 
-[Verified Athletics](https://www.knack.com/case-study/verified-athletics/)
+[DeRock Electric](https://www.knack.com/case-study/derock-electric/)
 
-Modernized college recruiting and achieved a 92% Customer Retention Rate.
+Digitization boosts DeRock Electric’s operations, efficiency, and profitability.
 
 [CureTech](https://www.knack.com/case-study/curetech/)
 
@@ -199,17 +199,17 @@ Get a quick taste of Knack.
 
 [![Knack: No-Code Application Development Platform](https://www.knack.com/wp-content/uploads/2023/11/Screenshot-2023-11-06-at-2.35.42-PM-300x151-1.png)](https://www.knack.com/tour/)
 
-[How to Create an App with AI](https://www.knack.com/blog/how-to-create-an-app-with-ai/)
+[Comprehensive Guide: How to Build Construction Software to Manage Operations](https://www.knack.com/blog/build-construction-software/)
 
-The integration of AI (Artificial Intelligence) is revolutionizing the landscape,…
+In the construction industry, finding the right software solution can…
 
-[Demystifying the Tech Revolution: What Is No-Code App Development?](https://www.knack.com/blog/what-is-no-code-app-development/)
+[How to Build a Web Portal](https://www.knack.com/blog/build-a-web-portal/)
 
-In the ever-evolving tech landscape, no-code application development has emerged…
+Building a web portal can transform the way you manage…
 
-[How to Create a Portal for Businesses: Considerations and Steps](https://www.knack.com/blog/how-to-create-a-portal/)
+[How to Build Apps Without Coding in Knack](https://www.knack.com/blog/how-to-create-an-app-without-coding/)
 
-In today’s fast-paced digital landscape, businesses are constantly seeking innovative…
+Creating a web app without any coding experience is now…
 
 * [Dive into Knack](#)
     * [Template Apps![Template Apps](https://www.knack.com/wp-content/uploads/2023/12/Cert-Icon-1.svg)](https://www.knack.com/template-inventory/)
@@ -277,9 +277,9 @@ Expedite your app build with a pre-built template.
 
 [![Knack: No-Code Application Development Platform](https://www.knack.com/wp-content/uploads/2023/11/Customer-Portal-1-300x201-1.png)](https://www.knack.com/template-inventory/)
 
-[Inventory Management Template](https://www.knack.com/templates/inventory-manager/)
+[Work Order Template](https://www.knack.com/templates/work-order/)
 
-Track current inventory by managing shipments and orders.
+Efficient work order control for supervisors and technicians.
 
 * [Terms of Service](https://www.knack.com/terms-of-service/)
 * [Privacy Statement](https://www.knack.com/privacy/)
