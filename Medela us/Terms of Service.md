@@ -477,7 +477,7 @@ Pregnancy & Preparation
 
 Load More
 
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/existing-articles/2088/image-thumb__2088__card/breast_shield_size.a8ad8755.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/choosing-your-medela-breast-shield-size)
+[![A set of Medela Hands-free Collection Cups with a Medela classic PersonalFit Flex™ double pumping kit, tubes not shown, sitting on a counter.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/existing-articles/2088/image-thumb__2088__card/breast_shield_size.a8ad8755.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/choosing-your-medela-breast-shield-size)
 
 Pumping Tips
 
