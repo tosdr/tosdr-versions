@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 623 utilisateurs actifs
+##### 885 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [4 méthodes pour bloquer les publicités sur YouTube](https://lecrabeinfo.net/4-methodes-pour-bloquer-les-publicites-sur-youtube.html)
 * [L'application officielle ChatGPT est enfin disponible sur Windows !](https://lecrabeinfo.net/lapplication-officielle-chatgpt-est-enfin-disponible-sur-windows.html) 
 * [Bug de Word qui supprime les documents (au lieu de les enregistrer) : Microsoft publie enfin un correctif !](https://lecrabeinfo.net/bug-de-word-qui-supprime-les-documents-au-lieu-de-les-enregistrer-microsoft-publie-enfin-un-correctif.html)
-* [Python maintenant disponible dans Excel !](https://lecrabeinfo.net/python-maintenant-disponible-dans-excel.html) 
 
 ### Tendance
 
@@ -152,11 +152,11 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 923 membres
-* 944 articles
-* 26 883 commentaires
-* [2 662 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
-* [875 abonnés X](https://x.com/lecrabeinfo)
+* 67 929 membres
+* 945 articles
+* 26 887 commentaires
+* [2 663 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* [877 abonnés X](https://x.com/lecrabeinfo)
 * [67 490 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
