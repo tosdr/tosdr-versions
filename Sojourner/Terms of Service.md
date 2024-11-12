@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a01c7af5a18da2a809abe00d4a076d48
+d5621f8f4ad7e89603d7c265969b1f38
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Faux lapis scarab clasp](https://sojourner.biz/images/cache/SKU0565front.200.jpg)](https://sojourner.biz/clasps/faux-stone/faux-lapis-scarab-clasp.html "Faux lapis scarab clasp")
+[![Rose cloud clasp](https://sojourner.biz/images/cache/SKU0436front.200.jpg)](https://sojourner.biz/clasps/glass/rose-cloud-clasp.html "Rose cloud clasp")
 
-#### [Faux lapis scarab clasp](https://sojourner.biz/clasps/faux-stone/faux-lapis-scarab-clasp.html "Faux lapis scarab clasp")
+#### [Rose cloud clasp](https://sojourner.biz/clasps/glass/rose-cloud-clasp.html "Rose cloud clasp")
 
-$24.00
+$23.50
 
 ### Best Sellers
 
@@ -160,16 +160,16 @@ $24.00
     $15.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+6. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
+8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Electric yellow Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/electric-yellow-swarovski-polka-dot-clasp.html "Electric yellow Swarovski polka dot clasp")  
-    $15.00
+10. [Large oval pearl clasp](https://sojourner.biz/clasps/pearl/large-oval-pearl-clasp.html "Large oval pearl clasp")  
+    $35.00
 
 [Top](#)
 
