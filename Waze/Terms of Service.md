@@ -34,23 +34,6 @@ Next
 
 [Waze](https://www.waze.com/)
 
-* [Plan your drive](https://www.waze.com/waze/topic/6342345?hl=en&ref_topic=6024567,6024551,)
-* Drive with Waze
-    
-    [Change your navigation](https://www.waze.com/waze/topic/7059900?hl=en&ref_topic=6262567,6024567,6024551,)[Interact with Wazers](https://www.waze.com/waze/topic/6273009?hl=en&ref_topic=6262567,6024567,6024551,)[Help improve the map](https://www.waze.com/waze/topic/14098147?hl=en&ref_topic=6262567,6024567,6024551,)
-    
-* [Edit the Waze map](https://www.waze.com/waze/topic/6263209?hl=en&ref_topic=6024567,6024551,)
-* [Manage your Waze account](https://www.waze.com/waze/topic/6263211?hl=en&ref_topic=6024567,6024551,)
-* Manage your driving experience
-    
-    [Customize your map display](https://www.waze.com/waze/topic/13773071?hl=en&ref_topic=14354098,6024567,6024551,)[Set sound and language preferences](https://www.waze.com/waze/topic/6268710?hl=en&ref_topic=14354098,6024567,6024551,)[Manage your alerts](https://www.waze.com/waze/topic/7060192?hl=en&ref_topic=14354098,6024567,6024551,)[Manage your driving preferences](https://www.waze.com/waze/topic/7060168?hl=en&ref_topic=14354098,6024567,6024551,)
-    
-* [Waze on in-car displays](https://www.waze.com/waze/topic/7406710?hl=en&ref_topic=6024567,6024551,)
-* [Help & feedback](https://www.waze.com/waze/topic/6262587?hl=en&ref_topic=6024567,6024551,)
-* [Learn about Waze](https://www.waze.com/waze/topic/9022747?hl=en&ref_topic=6024567,6024551,)
-* [Waze Privacy & Terms](https://www.waze.com/waze/announcements/12153862?hl=en&ref_topic=6024567,6024551,)
-* [Waze Compliance](https://www.waze.com/waze/announcements/13347356?hl=en&ref_topic=6024567,6024551,)
-
 Waze Privacy & Terms
 ====================
 
@@ -123,7 +106,7 @@ Google apps
 
 Main menu
 
-4086269285915844439
+15750282920503112705
 
 true
 
