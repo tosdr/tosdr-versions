@@ -1,6 +1,6 @@
-[Holiday Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
 
-[Holiday Sale - Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 40% Off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
@@ -289,6 +289,8 @@ Cancel
 [Fall Landscape](https://www.art.com/gallery/id--b275246/fall-landscapes-posters.htm "Fall Landscape")
 
 [Vintage Christmas](https://www.art.com/gallery/id--b20120/winter-wonderland-posters.htm "Vintage Christmas")
+
+[Wicked](https://www.art.com/gallery/id--b527126/wicked-broadway-posters.htm "Wicked")
 
 [Winter White](https://www.art.com/gallery/id--b41441/winter-white-posters.htm "Winter White")
 
