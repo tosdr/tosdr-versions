@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/605/leopards_eatin.jpg "What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained")
+    
+    What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-memes-about-a-leopards-eating-peoples-faces-political-party-memes-about-face-eating-leopards-explained)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/606/ocda-explainer.jpg "What Is 'OCDA,' AKA 'Occupational Cares Diversity Affairs'? TikToker Calimar White's Boss-Hating Complaints Company Explained")
     
     What Is 'OCDA,' AKA 'Occupational Cares Diversity Affairs'? TikToker Calimar White's Boss-Hating Complaints Company Explained](https://knowyourmeme.com/editorials/guides/what-is-ocda-aka-occupational-cares-diversity-affairs-tiktoker-calimar-whites-boss-hating-complaints-company-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/605/leopards_eatin.jpg "What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/608/clevee.jpg "What's A 'Cleveland Steamer'? The Gross Slang Term Popularized By 'Family Guy' Explained")
     
-    What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-memes-about-a-leopards-eating-peoples-faces-political-party-memes-about-face-eating-leopards-explained)
+    What's A 'Cleveland Steamer'? The Gross Slang Term Popularized By 'Family Guy' Explained](https://knowyourmeme.com/editorials/guides/whats-a-cleveland-steamer-the-gross-slang-term-popularized-by-family-guy-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/607/you-digging-in-me-explainer.jpg "What's The 'You Digging In Me' Meme? The TikTok Sound From A LoveAndLightTv Video Explained")
+    
+    What's The 'You Digging In Me' Meme? The TikTok Sound From A LoveAndLightTv Video Explained](https://knowyourmeme.com/editorials/guides/whats-the-you-digging-in-me-meme-the-tiktok-sound-from-a-loveandlighttv-video-explained)
     
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/604/Who_is_this_diva_cover.jpg "'Who Is This Diva?' The Viral Catchphrase And Spam Comment Meme Explained ")
     
     'Who Is This Diva?' The Viral Catchphrase And Spam Comment Meme Explained](https://knowyourmeme.com/editorials/guides/who-is-this-diva-the-viral-catchphrase-and-spam-comment-meme-explained)
     
-* [![Joe Rogan's Dog Is a Good Meme Boy](https://i.kym-cdn.com/featured_items/icons/wide/000/026/603/Screen_Shot_2019-04-08_at_2.52.33_PM.png "Six Years Ago, The First 'Dog vs. Werewolf' Meme Was Posted Online")
-    
-    Six Years Ago, The First 'Dog vs. Werewolf' Meme Was Posted Online](https://knowyourmeme.com/memes/dog-vs-werewolf)
-    
-* [![It's Been Eight Years Since This Nasty Raccoon Got Its Start on Reddit](https://i.kym-cdn.com/featured_items/icons/wide/000/026/602/Screen_Shot_2019-02-26_at_3.38.50_PM.png "The 'Evil Plotting Raccoon' Meme Is 16 Years Old Today")
-    
-    The 'Evil Plotting Raccoon' Meme Is 16 Years Old Today](https://knowyourmeme.com/memes/evil-plotting-raccoon)
-    
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Gavin Newsom](https://knowyourmeme.com/memes/people/gavin-newsom "Gavin Newsom") [I Love Video Games / Me Too](https://knowyourmeme.com/memes/i-love-video-games-me-too "I Love Video Games / Me Too") [Brazilian Sadako](https://knowyourmeme.com/memes/brazilian-sadako "Brazilian Sadako") [Norme's Solitary Confinement Livestream](https://knowyourmeme.com/memes/events/normes-solitary-confinement-livestream "Norme's Solitary Confinement Livestream") [Dave Blunts](https://knowyourmeme.com/memes/people/dave-blunts "Dave Blunts")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Nick Fuentes Doxxing](https://knowyourmeme.com/memes/events/nick-fuentes-doxxing "Nick Fuentes Doxxing") [Gavin Newsom](https://knowyourmeme.com/memes/people/gavin-newsom "Gavin Newsom") [Some Guy, The Guy](https://knowyourmeme.com/memes/some-guy-the-guy "Some Guy, The Guy") ["Republicans Are Weird"](https://knowyourmeme.com/memes/republicans-are-weird ""Republicans Are Weird"") [Your Body, My Choice](https://knowyourmeme.com/memes/your-body-my-choice "Your Body, My Choice")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Greetings! You must login or signup first!
 
 |     |     |
 | --- | --- |
