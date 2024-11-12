@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/cb615b07-39cf-429d-901c-2d58408a3b12/20241112T131424/cb615b07-39cf-429d-901c-2d58408a3b12_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb615b07-39cf-429d-901c-2d58408a3b12/20241112T131424/cb615b07-39cf-429d-901c-2d58408a3b12_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/water-main-break-central-tacoma-discolored-water/281-686e9b83-e30b-4432-8d3b-fd5af069cf44)
+        
+        #### [Central Tacoma residents may be without water for a few hours due to 'large water main break'](https://www.king5.com/article/news/local/tacoma/water-main-break-central-tacoma-discolored-water/281-686e9b83-e30b-4432-8d3b-fd5af069cf44)
+        
     *  [![](https://media.king5.com/assets/KING/images/37e5eb14-0fd9-4270-aca1-86b8170b7fe4/20241112T071403/37e5eb14-0fd9-4270-aca1-86b8170b7fe4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/37e5eb14-0fd9-4270-aca1-86b8170b7fe4/20241112T071403/37e5eb14-0fd9-4270-aca1-86b8170b7fe4_360x203.jpg)](https://www.king5.com/article/news/local/seattle-city-council-member-intervenes-dog-abuse-incident/281-e35a0ecb-123f-4cfa-8d7b-5c68be8ad393)
         
         #### [Seattle council member helps rescue dog from 'disturbing' abuse incident](https://www.king5.com/article/news/local/seattle-city-council-member-intervenes-dog-abuse-incident/281-e35a0ecb-123f-4cfa-8d7b-5c68be8ad393)
-        
-    *  [![](https://media.king5.com/assets/KGW/images/c9e8d54a-d1dd-412e-9e98-9c2284780030/20241112T002104/c9e8d54a-d1dd-412e-9e98-9c2284780030_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/c9e8d54a-d1dd-412e-9e98-9c2284780030/20241112T002104/c9e8d54a-d1dd-412e-9e98-9c2284780030_360x203.jpg)](https://www.king5.com/article/news/local/chonky-cats-yuki-nikko-oregon-humane-society-adopted/283-97e8ef8b-5ede-4085-a72f-0cd73931605c)
-        
-        #### [News of 'chonky' cat brothers at Oregon Humane Society leads to swift adoption](https://www.king5.com/article/news/local/chonky-cats-yuki-nikko-oregon-humane-society-adopted/283-97e8ef8b-5ede-4085-a72f-0cd73931605c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 49°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
