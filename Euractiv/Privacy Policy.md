@@ -22,7 +22,7 @@ For individuals](https://www.euractiv.com/euractiv-plus)
 [**Euractiv Pro**  
 For policy professionals](https://www.euractiv.com/euractiv-pro)
 
-[Ukraine](https://www.euractiv.com/topics/ukraine/) [The Capitals](https://www.euractiv.com/sections/the-capitals/) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/) | [Newsletters](https://www.euractiv.com/account) [Podcasts](https://www.euractiv.com/podcast) [Events](https://events.euractiv.com/) [Jobs](https://jobs.euractiv.com/) [Intelligence](https://intelligence.euractiv.com/)
+[Ukraine](https://www.euractiv.com/topics/ukraine/)[The Capitals](https://www.euractiv.com/sections/the-capitals/)[VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/sections/enlargement/) | [Newsletters](https://www.euractiv.com/account)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Intelligence](https://intelligence.euractiv.com/)
 
 ![Logo](https://www.euractiv.com/wp-content/themes/euractiv-2024/logo.png)  [×](javascript:void(0))
 
@@ -36,7 +36,7 @@ For corporations](https://www.euractiv.com/euractiv-pro)
 
 Login My account
 
-[Ukraine](https://www.euractiv.com/topics/ukraine) [The Capitals](https://www.euractiv.com/sections/the-capitals) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/)
+[Ukraine](https://www.euractiv.com/topics/ukraine/) [The Capitals](https://www.euractiv.com/sections/the-capitals/) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/) [Enlargement](https://www.euractiv.com/sections/enlargement/)
 
 [Global Europe](https://www.euractiv.com/sections/global-europe) [Economy](https://www.euractiv.com/sections/economy-jobs) [Politics](https://www.euractiv.com/sections/politics) [Agrifood](https://www.euractiv.com/sections/agriculture-food) [Health](https://www.euractiv.com/sections/health-consumers) [Tech](https://www.euractiv.com/sections/tech) [Energy, Environment & Transport](https://www.euractiv.com/sections/eet)
 
@@ -47,8 +47,9 @@ Euractiv+](https://www.euractiv.com/euractiv-plus)[Interested in policy insights
 Euractiv Pro](https://www.euractiv.com/euractiv-pro)
 
 * [Podcasts](https://www.euractiv.com/podcast)
+* [Videos](https://www.euractiv.com/video)
 * [Events](https://events.euractiv.com/)
-* [Newsletters](https://www.euractiv.com/account)
+* [Newsletters](https://www.euractiv.com/newsletters)
 * [Jobs](https://jobs.euractiv.com/)
 * [Euractiv Intelligence](https://intelligence.euractiv.com/)
 
@@ -453,10 +454,13 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ##### Policy areas
 
-* [Agrifood](https://www.euractiv.com/sections/agriculture-food/)
+* [Global Europe](https://www.euractiv.com/sections/global-europe)
+* [Economy](https://www.euractiv.com/sections/economy-jobs)
+* [Politics](https://www.euractiv.com/sections/politics)
+* [Agrifood](https://www.euractiv.com/sections/agriculture-food)
+* [Health](https://www.euractiv.com/sections/health-consumers)
+* [Tech](https://www.euractiv.com/sections/tech)
 * [Energy, Environment & Transport](https://www.euractiv.com/sections/eet)
-* [Health](https://www.euractiv.com/sections/health-consumers/)
-* [Technology](https://www.euractiv.com/sections/tech)
 
 ##### Newsletters
 
@@ -477,6 +481,7 @@ If you have any questions about this Privacy Policy, please contact us:
 * [Advertising at Euractiv](https://www.euractiv.com/advertise)
 * [Membership](https://www.euractiv.com/corporate-sponsoring/euractiv-membership/)
 * [Multimedia](https://www.euractiv.com/multimedia-services/)
+* [Events](https://events.euractiv.com/)
 * [European Public Projects](https://www.euractiv.com/eu-projects/)
 * [Yellow Academy](https://www.euractiv.com/yellow-academy/)
 * [Euractiv Intelligence](https://www.euractiv.com/intelligence)
@@ -489,7 +494,6 @@ If you have any questions about this Privacy Policy, please contact us:
 
 * [About us](https://www.euractiv.com/about-euractiv)
 * [Podcasts](https://www.euractiv.com/podcast)
-* [Events](https://events.euractiv.com/)
 * [Mediahuis](https://www.mediahuis.com/en/)
 * [Contact us](https://www.euractiv.com/contactus)
 * [Press releases](http://pr.euractiv.com/company/euractiv-39?_ga=2.205483607.690285834.1726672856-146497519.1726672856)
@@ -504,6 +508,6 @@ Login
 
 [](http://www.facebook.com/EURACTIV)[](http://www.twitter.com/euractiv)[](https://www.linkedin.com/company/euractiv-com/)[](http://www.youtube.com/euractiv)[](https://www.euractiv.com/?feed=mcfeed)[](https://www.instagram.com/euractiv/)[](https://masto.ai/@euractiv)[](https://t.me/EURACTIV_EU)[](https://bsky.app/profile/euractiv.com)[](https://www.threads.net/@euractiv)
 
-[Cookies](https://www.euractiv.com/about-euractiv/euractiv-com-cookie-policy/) [Terms & Conditions](https://www.euractiv.com/terms) [Privacy statement](https://www.euractiv.com/privacy/) [A mediahuis company](https://www.mediahuis.com/en/) Euractiv 2024
+Euractiv 2024
 
 © 1999 - 2024 | Efficacité et Transparence des Acteurs Européens. [EURACTIV MEDIA NETWORK BV.](https://www.euractiv.com/about-euractiv) | [Terms and Conditions](https://www.euractiv.com/terms) | [Cookie Policy](https://www.euractiv.com/about-euractiv/euractiv-com-cookie-policy/) | [Privacy Policy](https://www.euractiv.com/privacy/) | [Contact us](https://www.euractiv.com/contactus/)
