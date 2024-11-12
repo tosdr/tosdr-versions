@@ -325,7 +325,7 @@ A GraphQL Handbook for developers and architects to help plan your GraphQL adopt
 
 Platform
 
-[Hasura DDN](https://hasura.io/products)[Connectors](https://hasura.io/graphql/database)[Pricing](https://hasura.io/pricing)[Security](https://hasura.io/security/)
+[Hasura DDN](https://hasura.io/products)[Connectors](https://hasura.io/connectors)[Pricing](https://hasura.io/pricing)[Security](https://hasura.io/security/)
 
 Build
 
