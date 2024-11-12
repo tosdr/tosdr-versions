@@ -5,16 +5,6 @@
 
  [![servers.com](/dA/3c348bb3d8/logo.svg) ![servers.com](/dA/399d4eb149/logo-white.svg)](https://www.servers.com/)
 
-* Products
-    * [Forex VPS](https://www.servers.com/products/forex-vps)
-    * [Cloud servers](https://www.servers.com/products/cloud-servers)
-    * [Firewall](https://www.servers.com/products/firewall)
-    * [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
-    * [Dedicated servers](https://www.servers.com/products/dedicated-servers)
-    * [Private racks](https://www.servers.com/products/private-racks)
-    * [Load balancing](https://www.servers.com/products/load-balancing-service)
-    * [Private cloud](https://www.servers.com/products/private-cloud)
-    * [Cloud storage](https://www.servers.com/products/cloud-storage)
 * Why servers.com
     
     * [Network](#network-tab)
@@ -47,6 +37,7 @@
     
     * North America
     * [Dallas](https://www.servers.com/about/data-center-locations/dallas)
+    * [Miami](https://www.servers.com/about/data-center-locations/miami)
     * [San Francisco](https://www.servers.com/about/data-center-locations/sf)
     * [Washington](https://www.servers.com/about/data-center-locations/washington)
     
@@ -82,6 +73,7 @@
     * [Data center locations](#data-center-locations-child)
         * North America
         * [Dallas](https://www.servers.com/about/data-center-locations/dallas)
+        * [Miami](https://www.servers.com/about/data-center-locations/miami)
         * [San Francisco](https://www.servers.com/about/data-center-locations/sf)
         * [Washington](https://www.servers.com/about/data-center-locations/washington)
         * Asia Pacific
@@ -92,6 +84,16 @@
         * [London](https://www.servers.com/about/data-center-locations/london)
         * [Luxembourg](https://www.servers.com/about/data-center-locations/luxembourg)
     
+* Products
+    * [Cloud servers](https://www.servers.com/products/cloud-servers)
+    * [Forex VPS](https://www.servers.com/products/forex-vps)
+    * [Firewall](https://www.servers.com/products/firewall)
+    * [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
+    * [Dedicated servers](https://www.servers.com/products/dedicated-servers)
+    * [Private racks](https://www.servers.com/products/private-racks)
+    * [Load balancing](https://www.servers.com/products/load-balancing-service)
+    * [Private cloud](https://www.servers.com/products/private-cloud)
+    * [Cloud storage](https://www.servers.com/products/cloud-storage)
 * Company
     * [Legal](https://www.servers.com/company/legal/)
     * [About servers.com](https://www.servers.com/company/about-servers)
@@ -153,8 +155,8 @@ Do you have a specific project, need to make changes to a specific configuration
 
 ##### Products
 
-* [Forex VPS](https://www.servers.com/products/forex-vps)
 * [Cloud servers](https://www.servers.com/products/cloud-servers)
+* [Forex VPS](https://www.servers.com/products/forex-vps)
 * [Firewall](https://www.servers.com/products/firewall)
 * [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
 * [Dedicated servers](https://www.servers.com/products/dedicated-servers)
