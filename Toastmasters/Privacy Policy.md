@@ -31,10 +31,6 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Privacy Policy
 
-[×](#)
-
-Veterans Day: World Headquarters will be closed on November 11 in observance of the Veterans Day holiday.
-
 Privacy Policy
 ==============
 
