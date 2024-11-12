@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Comic Book Chaos II (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/comic-book-chaos-3/1/)
-* [World of Warcraft](https://www.somethingawful.com/weekend-web/world-of-warcraft/1/)
-* [Swingers Board](https://www.somethingawful.com/weekend-web/swingers-board/1/)
-* [The Best Of Weekend Web volume 4](https://www.somethingawful.com/flash-tub/best-weekend-web4/)
-* [Dungeons & Dragons Module B1: "In Search of the Unknown" - Part 2](https://www.somethingawful.com/dungeons-and-dragons/unknown-search-urdm/1/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Druids](https://www.somethingawful.com/movie-reviews/druids/1/)
+* [Variety Pack #3: O'Reilly Programming Books; Adventures of Gatorade Boy!](https://www.somethingawful.com/photoshop-phriday/variety-pack-3/1/)
+* [The Witcher - DOUBLE FEATURE!](https://www.somethingawful.com/webcam-ward/witchers/1/)
 
 ### Popular Threads
 
@@ -219,11 +219,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Gamescott Reviews - World of Warcraft](https://www.somethingawful.com/flash-tub/gamescott-reviews-3/)
-* [He-Man and the Masters of th](https://www.somethingawful.com/awful-links/awful-link-528/)
-* [I Hate You Page 68](https://www.somethingawful.com/cliff-yablonski/i-hate-you-68/)
-* [Scientology vs. Talibanology](https://www.somethingawful.com/news/scientology-vs-talibanology/)
-* [The Great American Reach Around - California and South Africa](https://www.somethingawful.com/news/gara-week-eleven/1/)
+* [Mega Men!](https://www.somethingawful.com/news/mega-men/)
+* [Savita Bhabhi (Thanks, The Worst Unicorn!) (NWS!)](https://www.somethingawful.com/awful-links/savita-bhabhi-kirtu/)
+* [A Most Curious Courtship](https://www.somethingawful.com/news/most-curious-courtship/1/)
+* [Mark Of The Bistro](https://www.somethingawful.com/news/mark-bistro/)
+* [Record Button Records' November Newsletter](https://www.somethingawful.com/news/record-label-newsletter/)
 
 [Random!](https://www.somethingawful.com/random/)
 
