@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 12, 2024](https://www.japantimes.co.jp/archive/2024/11/12/ "archive page")
+[November 13, 2024](https://www.japantimes.co.jp/archive/2024/11/13/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
-[Japanese police seize over 100 smartphones stolen in serial robberies](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-  [![Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/10/433168.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.")](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+[Ishiba holds on to PM role as tricky parliamentary session looms](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
 
-  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+  [![Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433351.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
 
 [Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
+[Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
 
-  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
+  [![DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
 
 Editors' Picks
 --------------
@@ -162,17 +162,19 @@ Editors' Picks
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japanese police seize over 100 smartphones stolen in serial robberies](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-  [![Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/10/433168.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Mazuki Takarada, who was arrested last month in connection with the murder of a 75-year-old man in Yokohama, is believed to be part of a series of robberies that have taken place in and around Tokyo since the summer.")](https://www.japantimes.co.jp/news/2024/11/10/japan/crime-legal/robberies-smartphones-seized/ "Japanese police seize over 100 smartphones stolen in serial robberies")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-[The sound of silence: Japan's no-conversation services](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-By [Mai Yoshikawa](https://www.japantimes.co.jp/author/1728/mai-yoshikawa/ "Mai Yoshikawa")  
+[Ishiba holds on to PM role as tricky parliamentary session looms](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
 
-  [![Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/08/432602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sanwa Koutsu's Kuroko Taxi service has drivers dressed in traditional stagehand garb communicate with passengers only through gestures and written messages.")](https://www.japantimes.co.jp/life/2024/11/09/lifestyle/silence-customer-service-japan/ "The sound of silence: Japan's no-conversation services")
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+
+  [![Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433351.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -184,11 +186,11 @@ By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
+[Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
-  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
+  [![DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[1 in 5 Japanese households to consist of one person age 65 or older in 2050](https://www.japantimes.co.jp/news/2024/11/12/japan/society/single-person-households/ "1 in 5 Japanese households to consist of one person age 65 or older in 2050")
+[35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
-1 hours ago
+4 hours ago
+
+[Ishiba and Xi to affirm mutually beneficial strategic ties](https://www.japantimes.co.jp/news/2024/11/12/japan/ishiba-xi-to-affirm-strategic-ties/ "Ishiba and Xi to affirm mutually beneficial strategic ties")
+
+4 hours ago
+
+[Fukushima nuclear debris arrives at lab after secret journey](https://www.japantimes.co.jp/news/2024/11/12/japan/fukushima-nuclear-debris-lab-secret-journey/ "Fukushima nuclear debris arrives at lab after secret journey")
+
+4 hours ago
+
+[1 in 5 people in Japan age 65 and older will be living alone in 2050](https://www.japantimes.co.jp/news/2024/11/12/japan/society/single-person-households/ "1 in 5 people in Japan age 65 and older will be living alone in 2050")
+
+7 hours ago
 
 [Osaka governor announces candidacy for Nippon Ishin leadership](https://www.japantimes.co.jp/news/2024/11/12/japan/politics/nippon-ishin-yoshimura-leadership-election/ "Osaka governor announces candidacy for Nippon Ishin leadership")
 
-1 hours ago
-
-[Nissan surges after firm linked to hedge fund takes 2.5% stake](https://www.japantimes.co.jp/business/2024/11/12/companies/nissan-activist-investor-stocks/ "Nissan surges after firm linked to hedge fund takes 2.5% stake")
-
-1 hours ago
-
-[Ishiba's minority government begins first day of business with focus on reform](https://www.japantimes.co.jp/news/2024/11/12/japan/politics/ishiba-political-funds/ "Ishiba's minority government begins first day of business with focus on reform")
-
-1 hours ago
-
-[India set to overtake Japan in GDP rankings](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
