@@ -94,7 +94,7 @@ SECTIONS
 
 FRONTIER MAG
 
-[Archive](https://www.theblaze.com/frontier1/archive/)[Prints](https://www.theblaze.com/frontier1/prints/)[About](https://www.theblaze.com/frontier/about/about-frontier)[Subscribe](https://www.blazeunlimited.com/)
+[Archive](https://www.theblaze.com/frontier/archive/)[Prints](https://www.theblaze.com/frontier/prints/)[About](https://www.theblaze.com/frontier/about/about-frontier)[Subscribe](https://www.blazeunlimited.com/)
 
 [BLAZETV](https://www.blazetv.com/)
 
