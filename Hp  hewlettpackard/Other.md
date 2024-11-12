@@ -192,7 +192,7 @@ Shop
 
 [* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work "Hybrid Work")
 
-[* Remote Work bundles](https://www.hp.com/us-en/shop/slp/hybrid-work-solutions/bundles "Remote Work bundles")
+[* Software](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Software "Software")
 
 Support
 
@@ -313,7 +313,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Shop Accessories
 
-[* View all accessories](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)[* Remote Work bundles](https://www.hp.com/us-en/shop/slp/hybrid-work-solutions/bundles)
+[* View all accessories](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)[* Software](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Software)
 
 * Problem solving
 
@@ -392,7 +392,7 @@ In cooperation with the U.S. Consumer Product Safety Commission and other safety
 
 [Related links](javascript:void(0))
 
-[How to Connect Printer to...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [HP Printer Software Download: How...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [HP LaserJet Pro M404dn](https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-m404dn) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [HP Amplify Partner Program](https://www.hp.com/us-en/solutions/hp-amplify-partner-program.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [HP Large-format printing - HP Click Print solutions](https://www.hp.com/us-en/printers/large-format/click.html) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
+[How to Connect Printer to...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [HP Printer Software Download: How...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [HP LaserJet Pro M404dn](https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-m404dn) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [HP Wolf Security - Endpoint Security Solutions](https://www.hp.com/us-en/security/endpoint-security-solutions.html) [HP Amplify Partner Program](https://www.hp.com/us-en/solutions/hp-amplify-partner-program.html) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [HP Large-format printing - HP Click Print solutions](https://www.hp.com/us-en/printers/large-format/click.html) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
 
 Select Your Country/Region and Language
 ---------------------------------------
@@ -640,7 +640,7 @@ popUpSREndingLabelString
 * [Accessibility](https://www.hp.com/us-en/hp-information/accessibility-aging.html)|
 * [CA Supply Chains Act](https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c05388050)|
 * [Privacy](https://www.hp.com/us-en/privacy/privacy-central.html)|
-* [Use of cookies](https://www.hp.com/us-en/privacy/use-of-cookies.html)|
+* [Use of cookies](#)|
 * [Your privacy choices](https://www.hp.com/us-en/privacy/your-privacy-choices.html)|
 * [Terms of use](https://www.hp.com/us-en/terms-of-use.html)|
 * [Limited warranty statement](https://www.hp.com/us-en/privacy/limited_warranty.html)|
