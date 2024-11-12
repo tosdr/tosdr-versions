@@ -97,6 +97,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws](https://i.kym-cdn.com/featured_items/icons/wide/000/026/609/cover1.jpg "Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws")
+    
+    Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws](https://knowyourmeme.com/memes/humongous-sword-guy)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/605/leopards_eatin.jpg "What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained")
     
     What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-memes-about-a-leopards-eating-peoples-faces-political-party-memes-about-face-eating-leopards-explained)
@@ -113,14 +117,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     What's The 'You Digging In Me' Meme? The TikTok Sound From A LoveAndLightTv Video Explained](https://knowyourmeme.com/editorials/guides/whats-the-you-digging-in-me-meme-the-tiktok-sound-from-a-loveandlighttv-video-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/604/Who_is_this_diva_cover.jpg "'Who Is This Diva?' The Viral Catchphrase And Spam Comment Meme Explained ")
-    
-    'Who Is This Diva?' The Viral Catchphrase And Spam Comment Meme Explained](https://knowyourmeme.com/editorials/guides/who-is-this-diva-the-viral-catchphrase-and-spam-comment-meme-explained)
-    
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Nick Fuentes Doxxing](https://knowyourmeme.com/memes/events/nick-fuentes-doxxing "Nick Fuentes Doxxing")
+[Starlink 2024 Election Conspiracy Theory](https://knowyourmeme.com/memes/starlink-2024-united-states-election-fraud-conspiracy-theory "Starlink 2024 Election Conspiracy Theory") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Nick Fuentes Doxxing](https://knowyourmeme.com/memes/events/nick-fuentes-doxxing "Nick Fuentes Doxxing") [Kamala Harris Election Overturned Prank](https://knowyourmeme.com/memes/neighbor-tina-kamala-harris-election-overturned-prank "Kamala Harris Election Overturned Prank") [Some Guy, The Guy](https://knowyourmeme.com/memes/some-guy-the-guy "Some Guy, The Guy")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
