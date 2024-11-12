@@ -291,6 +291,12 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-labrooy-2024-feature.jpg)
+
+[](https://theinspirationgrid.com/me-myself-and-i-sculptural-self-portraits-by-chris-labrooy/)
+
+### Me, Myself and I: Sculptural Self-Portraits by Chris Labrooy
+
 ![](https://inspgr.id/app/uploads/2024/11/design-beatles-toys-feature.jpg)
 
 [](https://theinspirationgrid.com/the-beatles-art-toys-by-collectable-cities/)
@@ -332,12 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/wonderful-paper-creations-by-oupas-design/)
 
 ### Wonderful Paper Creations by Oupas Design
-
-![](https://inspgr.id/app/uploads/2024/11/3d-dream-car-feature.jpg)
-
-[](https://theinspirationgrid.com/dream-car-a-3d-tribute-by-tianchen-deng/)
-
-### Dream Car: A 3D Tribute by TianChen Deng
 
 Awesome products for creatives
 ------------------------------
