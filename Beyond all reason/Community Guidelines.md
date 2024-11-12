@@ -210,7 +210,7 @@ These are much clearer cut rules and reporting is a completely acceptable first 
 
 ### 5\. Unfair Advantages
 
-1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - _#widget-downloads_
+1. Custom widgets used on public servers must be made publicly available, we have a section on the discord specifically for it - [_#widgets_](https://discord.com/channels/549281623154229250/1113845509891829810)
 2. Purposefully passing on consequential information to a game in progress via things like spectator mode (we understand mistakes happen occasionally) is obviously a form of cheating
 3. Exploiting bugs, hacking or spec cheating (second account to view the game as a spectator) can result in swifter and more stringent responses than the above items
 4. Attempting to exploit the player skill rating system, either by dumping by losing on purpose or boosting with an alternative (“smurf”) account falls under this section
