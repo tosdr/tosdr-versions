@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [How to minimize distractions while working from home](https://independentaustralia.net/article-display/how-to-minimize-distractions-while-working-from-home,19162 "Permanent Link : How to minimize distractions while working from home")
+* [Republic agenda still on the table 25 years after rejection](https://independentaustralia.net/article-display/republic-agenda-still-on-the-table-25-years-after-rejection,19164 "Permanent Link : Republic agenda still on the table 25 years after rejection")
+* [All aboard the Trump train](https://independentaustralia.net/article-display/all-aboard-the-trump-train,19163 "Permanent Link : All aboard the Trump train")
 * [Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159 "Permanent Link : Australia’s 3G shutdown: Why your 4G/5G phone is now blocked")
 * [Trump’s return offers gains for Australia and other trade competitors](https://independentaustralia.net/article-display/trumps-return-offers-gains-for-australia-and-other-trade-competitors,19160 "Permanent Link : Trump’s return offers gains for Australia and other trade competitors")
 * [Government bans social media fearing rise of 'Generation Left'](https://independentaustralia.net/article-display/government-bans-social-media-fearing-rise-of-generation-left,19158 "Permanent Link : Government bans social media fearing rise of  'Generation Left'")
 * [Donald Trump wins presidency thanks to lack of media scrutiny](https://independentaustralia.net/article-display/donald-trump-wins-presidency-thanks-to-lack-of-media-scrutiny,19157 "Permanent Link : Donald Trump wins presidency thanks to lack of media scrutiny")
-* [Rigging, robbery and rich men's resources](https://independentaustralia.net/article-display/rigging-robbery-and-rich-mens-resources,19156 "Permanent Link : Rigging, robbery and rich men's resources")
-* [How a Victorian fruit merchant could be leading to answers to the climate crisis](https://independentaustralia.net/article-display/how-a-victorian-fruit-merchant-could-be-leading-to-answers-to-the-climate-crisis,19128 "Permanent Link : How a Victorian fruit merchant could be leading to answers to the climate crisis")
-* [Jets and G-forces: When playing 'Roulette' is just another day at the office](https://independentaustralia.net/article-display/jets-and-g-forces-when-playing-roulette-is-just-another-day-at-the-office,19144 "Permanent Link : Jets and G-forces: When playing 'Roulette' is just another day at the office")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
