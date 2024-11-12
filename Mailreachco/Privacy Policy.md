@@ -56,7 +56,7 @@ Sign up](https://app.mailreach.co/signup)
 
 [![](https://cdn.prod.website-files.com/6654d3ae37a5b777c8fd355d/6654d3ae37a5b777c8fd35a1_MailReach%20Logo.svg)](#)
 
-[](https://www.youtube.com/@MailReachTV)[](https://www.linkedin.com/company/70942379/)[](https://x.com/MailReachApp)[](https://www.facebook.com/people/MailReach/100064024002828/)[](#)
+[](https://www.youtube.com/@DamienFromMailReach)[](https://www.linkedin.com/company/70942379/)[](https://x.com/MailReachApp)[](https://www.facebook.com/people/MailReach/100064024002828/)[](#)
 
 [![](https://cdn.prod.website-files.com/6336c0ecc4a07d5c2a6b36c2/6654e97ea386093dfefde8a0_Climate.png)
 
