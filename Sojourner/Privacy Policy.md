@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-927dcd5a73e223844d7f8717f72a3f46
+68e610943c1a889d15b5776204b1cec5
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm to 14 mm brown rectangular pearls](https://www.sojourner.biz/images/cache/pearls/PE0087.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-brown-rectangular-pearls.html "12 mm to 14 mm brown rectangular pearls")
+[![New snow clasp](https://www.sojourner.biz/images/cache/SKU0368front.200.jpg)](https://www.sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
 
-#### [12 mm to 14 mm brown rectangular pearls](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-brown-rectangular-pearls.html "12 mm to 14 mm brown rectangular pearls")
+#### [New snow clasp](https://www.sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
 
-$16.50
+$13.00
 
 ### Best Sellers
 
