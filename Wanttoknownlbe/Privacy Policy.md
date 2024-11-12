@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/wat-is-verlichting/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/amerikaanse-onbetrouwbaarheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
