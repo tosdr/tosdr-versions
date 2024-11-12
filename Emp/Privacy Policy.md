@@ -152,11 +152,11 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/singles-day/)
+[](https://www.emp.de/winter-is-coming/ "Wappne dich!")
 
-Zum Singles-Day 11% EXTRA sparen!
+Winter Is Coming!
 
-[Jetzt shoppen!](https://www.emp.de/singles-day/ "Jetzt shoppen!")
+[Wappne dich!](https://www.emp.de/winter-is-coming/ "Wappne dich!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
