@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Idea Box](https://www.myabandonware.com/game/idea-box-szl)
+* [Anemone](https://www.myabandonware.com/game/anemone-szg)
 * [I Can Carry and Borrow](https://www.myabandonware.com/game/i-can-carry-and-borrow-szf)
 * [I Can Count](https://www.myabandonware.com/game/i-can-count-sze)
 * [Lazy Jack](https://www.myabandonware.com/game/lazy-jack-szc)
-* [Rumpelstiltskin](https://www.myabandonware.com/game/rumpelstiltskin-szb)
-* [Thomas the Tank Engine & Friends: Thomas's Big Race](https://www.myabandonware.com/game/thomas-the-tank-engine-friends-thomas-s-big-race-tml)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
