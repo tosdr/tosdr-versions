@@ -729,7 +729,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 25 people voted yesNo, this review was not helpful 17 people voted no
+    Yes, this review was helpful 25 people voted yesNo, this review was not helpful 18 people voted no
     
 * **Dale E. W.**
     
@@ -759,7 +759,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 44 people voted yesNo, this review was not helpful 8 people voted no
+    Yes, this review was helpful 45 people voted yesNo, this review was not helpful 8 people voted no
     
     **JH** 
     
@@ -844,6 +844,7 @@ Enter your email Subscribe
 * [Facebook](https://www.facebook.com/Journeyhl "Journey Health & Lifestyle on Facebook")
 * [YouTube](https://www.youtube.com/user/firstSTREETinc "Journey Health & Lifestyle on YouTube")
 
+* Amazon
 * American Express
 * Apple Pay
 * Discover
