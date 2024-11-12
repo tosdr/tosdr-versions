@@ -183,7 +183,7 @@ Quality virtual care that is personal, connected, & sustainable.](#)[Contact Sal
         * [![Hypertension](https://9198914.fs1.hubspotusercontent-na1.net/hubfs/9198914/Hypertension.svg)
             
             Hypertension](https://www.omadahealth.com/hypertension)
-        * [![GLP-1s](https://www.omadahealth.com/hubfs/Omada_Health_GLP-1_Care_Track.svg)
+        * [![GLP-1s](https://www.omadahealth.com/hubfs/Omada_Health_GLP-1_Care_Track-1.svg)
             
             GLP-1 Care Track](https://www.omadahealth.com/glp-1-care-track)
         * [![Musculoskeletal](https://9198914.fs1.hubspotusercontent-na1.net/hubfs/9198914/Musculoskeletal.svg)
