@@ -288,6 +288,7 @@ Empfehlungen für dich
         * [TP Zelte](https://talk-point.de/collections/tp-zelte)
         * [TP Kofferset](https://talk-point.de/collections/tp-hartschalen-reisekoffer)
     
+* [Trinkbares](https://talk-point.de/collections/spirituosen)
 * [Top-Seller](https://talk-point.de/collections/top-seller)
 * [Einzelstücke](https://talk-point.de/collections/b-ware-einzelstucke)
 
@@ -573,6 +574,7 @@ Empfehlungen für dich
         * [TP Zelte](https://talk-point.de/collections/tp-zelte)
         * [TP Kofferset](https://talk-point.de/collections/tp-hartschalen-reisekoffer)
     
+* [Trinkbares](https://talk-point.de/collections/spirituosen)
 * [Top-Seller](https://talk-point.de/collections/top-seller)
 * [Einzelstücke](https://talk-point.de/collections/b-ware-einzelstucke)
 
