@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Gone to the Dogs](https://www.myabandonware.com/game/gone-to-the-dogs-szt)
+* [Codename Silver](https://www.myabandonware.com/game/codename-silver-szs)
+* [Read & Spell: In the Days of Knights and Castles](https://www.myabandonware.com/game/read-spell-in-the-days-of-knights-and-castles-szr)
 * [B.A.D.](https://www.myabandonware.com/game/b-a-d-top)
 * [Back to the Moon](https://www.myabandonware.com/game/back-to-the-moon-too)
-* [AT-Robots](https://www.myabandonware.com/game/at-robots-ton)
-* [Astrorock](https://www.myabandonware.com/game/astrorock-tom)
-* [Around the World](https://www.myabandonware.com/game/around-the-world-tol)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
