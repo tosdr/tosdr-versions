@@ -24,13 +24,9 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://drawabox.com/rec/proko/drawingbasics)
+[](https://amzn.to/2SjhDei)
 
-USE CODE BLACK20
-
-FOR 20% OFF
-
-SALE ENDS November 29th
+[](https://amzn.to/4cDKBhz)
 
 [](https://drawabox.com/rec/zapata/shading)
 
@@ -40,9 +36,13 @@ FOR 20% OFF
 
 SALE ENDS November 29th
 
-[](https://amzn.to/4bl6tx5)
+[](https://drawabox.com/rec/proko/figuredrawing)
 
-[](https://amzn.to/4cDKBhz)
+USE CODE BLACK20
+
+FOR 20% OFF
+
+SALE ENDS November 29th
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
