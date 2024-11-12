@@ -34,6 +34,9 @@ Products
     Get 1.1.1.1
     -----------
     
+    Need help choosing?
+    -------------------
+    
 * [Latest product news](https://blog.cloudflare.com/tag/product-news/)
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
@@ -51,6 +54,9 @@ Pricing
     
     Register domain
     ---------------
+    
+    Need help choosing?
+    -------------------
     
 * [View FAQs](https://www.cloudflare.com/plans/faq/)
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
@@ -326,6 +332,7 @@ Getting Started
 * [Free plans](https://www.cloudflare.com/plans/free/)
 * [For enterprises](https://www.cloudflare.com/enterprise/)
 * [Compare plans](https://www.cloudflare.com/plans/)
+* [Get a recommendation](https://www.cloudflare.com/about-your-website/)
 * [Request a demo](https://www.cloudflare.com/plans/enterprise/demo/)
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
