@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [Animal Anomalies 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-part/1/)
 * [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Druids](https://www.somethingawful.com/movie-reviews/druids/1/)
-* [Variety Pack #3: O'Reilly Programming Books; Adventures of Gatorade Boy!](https://www.somethingawful.com/photoshop-phriday/variety-pack-3/1/)
-* [The Witcher - DOUBLE FEATURE!](https://www.somethingawful.com/webcam-ward/witchers/1/)
+* [Monsters on Holiday!](https://www.somethingawful.com/photoshop-phriday/monsters-villains-vacation/1/)
+* [Cute Animals Fighting!](https://www.somethingawful.com/photoshop-phriday/cute-animals-fighting/1/)
+* [The Fall Guy!](https://www.somethingawful.com/comedy-goldmine/oildri-fall-guy/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [what are some good phone games](http://forums.somethingawful.com/showthread.php?threadid=4075148 "what are some good phone games")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Anybody remember Hello Neighbor?](http://forums.somethingawful.com/showthread.php?threadid=4075158 "Anybody remember Hello Neighbor?")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [i tried to make fondue and i barely survived](http://forums.somethingawful.com/showthread.php?threadid=4075122 "i tried to make fondue and i barely survived")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [what are some good phone games](http://forums.somethingawful.com/showthread.php?threadid=4075148 "what are some good phone games")
 
 ### Random Articles
 
-* [Mega Men!](https://www.somethingawful.com/news/mega-men/)
-* [Savita Bhabhi (Thanks, The Worst Unicorn!) (NWS!)](https://www.somethingawful.com/awful-links/savita-bhabhi-kirtu/)
-* [A Most Curious Courtship](https://www.somethingawful.com/news/most-curious-courtship/1/)
-* [Mark Of The Bistro](https://www.somethingawful.com/news/mark-bistro/)
-* [Record Button Records' November Newsletter](https://www.somethingawful.com/news/record-label-newsletter/)
+* [Tapuaks](https://www.somethingawful.com/awful-links/awful-link-1043/)
+* [Minimac.com](https://www.somethingawful.com/awful-links/awful-link-2712/)
+* [Michael Worf Dorn](https://www.somethingawful.com/mooflogs/michael-worf-dorn/)
+* [The Official Holiday Guide to Meme Books](https://www.somethingawful.com/news/holiday-meme-guide/)
+* [A Valentines Day Message](https://www.somethingawful.com/flash-tub/valentines-day-cartoon/)
 
 [Random!](https://www.somethingawful.com/random/)
 
