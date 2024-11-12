@@ -46,6 +46,16 @@ FOX SCORES
     | PER | 7 /171 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250124)
+* [Women's BBL
+    
+    13/11 18:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | HOB | –   |
+    | ADE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250125)
 * AFL
     
 * [AFL Women's
@@ -90,70 +100,18 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=714)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAR | 15  |
-    | MIA | 23  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251014)
 * Basketball
     
-* [NBA
+* [WNBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SA  | 116 |
-    | SAC | 96  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010206/box-score)
-* [NBA
-    
-    Full Time
+    13/11 19:00 AEST
     
     |     |     |
     | --- | --- |
-    | CHI | 113 |
-    | CLE | 119 |
+    | SYD | –   |
+    | BEN | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010204/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | HOU | 107 |
-    | WAS | 92  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010205/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NO  | 105 |
-    | BKN | 107 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010207/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | OKC | 134 |
-    | LAC | 128 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011044/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030001)
 * [NBA
     
     13/11 11:00 AEST
@@ -872,7 +830,6 @@ FOX SCORES
 
 * [Wallabies](https://www.foxsports.com.au/video/rugby/wallabies)
 * [Rugby](https://www.foxsports.com.au/video/rugby/rugby)
-* [Rugby World Cup](https://www.foxsports.com.au/video/rugby/rugby-world-cup)
 * [Sponsored](https://www.foxsports.com.au/video/rugby/sponsored)
 
 [Other Sports](https://www.foxsports.com.au/video/other-sports)
