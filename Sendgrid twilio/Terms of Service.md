@@ -994,7 +994,7 @@ _There may be additional words that we define in the body of these terms. Make s
 
 "_**Twilio Acceptable Use Policy**_" means certain terms relating to the use of the Services, including the [Service and Country Specific Requirements](https://www.twilio.com/en-us/legal/service-country-specific-terms) set forth therein, the current version of which is available at [https://www.twilio.com/legal/aup](https://www.twilio.com/legal/aup).
 
-“_**Twilio Data**_” means any data that is (a) derived or generated from the use or provision of the Services that does not identify you, your End Users, or any natural person or is anonymized, de-identified, and/or aggregated such that it can no longer identify you, your End Users, or any natural person or  (b) any Customer Data that is anonymized, de-identified, and/or aggregated by Twilio in accordance with this Agreement.
+“_**Twilio Data**_” means any data that is (a) derived or generated from the use or provision of the Services that does not identify you, your End Users, or any natural person or is anonymized, de-identified, and/or aggregated such that it can no longer identify you, your End Users, or any natural person or (b) any Customer Data that is anonymized, de-identified, and/or aggregated by Twilio in accordance with this Agreement.
 
 “_**Twilio Data Protection Addendum**_” means the personal data processing-related terms for the Services, the current version of which is available at [https://www.twilio.com/legal/data-protection-addendum](https://www.twilio.com/en-us/legal/data-protection-addendum)
 
