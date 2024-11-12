@@ -61,7 +61,6 @@ Menu
     * [Panels](https://nwh.com/products-services/panels/)
         * [Plywood to Match](https://nwh.com/products-services/panels/plywood-to-match/)
         * [Meranti Plywood](https://nwh.com/products-services/panels/meranti/)
-        * [Specialty Panels](https://nwh.com/products-services/panels/specialty/)
     * [Pallet Stock](https://nwh.com/products-services/pallet-stock/)
     * [Value-Added Services](https://nwh.com/products-services/service-centers/)
     * [Sell Your Timber](https://nwh.com/sell-your-timber/)
