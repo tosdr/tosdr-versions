@@ -166,7 +166,7 @@ Download for macOS
 
 [New
 
-Status Mobile Public Release & New Desktop Beta Now Live!](https://status.im/blog/status-mobile-desktop-releases)
+Status v2.31 is Now Live on Mobile and Desktop!](https://status.im/blog/status-v2-31-is-now-live-on-mobile-and-desktop)
 
 Make the  
 jump to web3
@@ -392,7 +392,17 @@ A secure contactless hardware wallet.
 
 [View Blog](https://status.im/blog)
 
-[Desktop
+[Status
+
+Status v2.31 is Now Live on Mobile and Desktop!
+
+![Us](https://our.status.im/content/images/2024/06/Avatar_-_1080.webp)
+
+Us
+
+on Nov 12, 2024
+
+![](https://our.status.im/content/images/2024/11/Status-231-blog-header.png)](https://status.im/blog/status-v2-31-is-now-live-on-mobile-and-desktop)[Desktop
 
 Status Mobile Public Release & New Desktop Beta Now Live!
 
@@ -412,17 +422,7 @@ Us
 
 on Aug 20, 2024
 
-![](https://our.status.im/content/images/2024/08/Blog_Linea_Status.jpg)](https://status.im/blog/linea-partnership-status-network)[Status
-
-Embracing Community Choices: Status to Develop SNT Staking and Status L2
-
-![Us](https://our.status.im/content/images/2024/06/Avatar_-_1080.webp)
-
-Us
-
-on Jul 30, 2024
-
-![](https://our.status.im/content/images/2024/07/Blog---cover---19.jpg)](https://status.im/blog/snt-staking-and-status-network)
+![](https://our.status.im/content/images/2024/08/Blog_Linea_Status.jpg)](https://status.im/blog/linea-partnership-status-network)
 
 ### Decentralising the future
 
