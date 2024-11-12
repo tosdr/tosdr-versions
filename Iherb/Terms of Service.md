@@ -1133,11 +1133,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-24% Sale zum Singles Day 
+[\-22% für Augen & Sehkraft
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=24DOUBLE11)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/eye-vision?pcode=22EYE24)
 
       
 
