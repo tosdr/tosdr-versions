@@ -311,53 +311,9 @@ We use cookies to track how our users are browsing and engaging with our website
 
 [Legal](https://www.alchemer.com/legal/)
 
-We are using cookies to give you the best experience on our website.
-
-You can find out more about which cookies we are using or switch them off in settings.
-
-Accept
-
 See it in Action
 ----------------
 
 Request a demo so you can see what’s possible for your organization.  
 
 [×](#)
-
-                             
-
-Close GDPR Cookie Settings
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2048'%3E%3C/svg%3E)
-
-![](https://www.alchemer.com/wp-content/uploads/2024/08/Alchemer-Logo-300x48.png)
-
-* Privacy Overview
-* Strictly Necessary Cookies
-* 3rd Party Cookies
-
-[Powered by  GDPR Cookie Compliance](https://wordpress.org/plugins/gdpr-cookie-compliance/)
-
-Privacy Overview
-
-This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
-
-Strictly Necessary Cookies
-
-Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
-
-Enable or Disable Cookies 
-
-If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.
-
-3rd Party Cookies
-
-This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
-
-Keeping this cookie enabled helps us to improve our website.
-
-Enable or Disable Cookies 
-
-Please enable Strictly Necessary Cookies first so that we can save your preferences!
-
-Enable All Save Settings
