@@ -117,61 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Johan Botha - Brand Xplosion
+Hugo van Sittert
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=30876214)  
-TechnoDezi PTY(LTD)
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=170843367)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=94742758)  
-MONSTER SECURITY SERVICES (NORTHAM)
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=37352298)  
+Lion Software Develepment
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=12178330)  
-SA Security Brokerz (Pty) Ltd
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=2989972)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=169955892)  
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=9136976)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=16475230)  
+Dombieterfontein (PTY) LTD
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=59700848)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=99283303)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=171157333)  
+#DiGi3 Marketing & Design
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=110868013)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=164168165)  
+Depot Diesel (Pty) Ltd
+
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=83779062)  
+Meyer Towing & Recovery
+
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=28055038)  
 The Gourmet Artisans Ltd.
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=122436613)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=79452268)  
+SLOANE STAR MEAT MARKET
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=39084773)  
-NJR ICT Services (Pty) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=138062198)  
+MONSTER SECURITY GUARDING
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=34595256)  
-Cape Adventure Zone
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=159877481)  
-SMART GUY PCS (PTY) LTD
-
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=151879444)  
-TRACKFORCE (Pty) Ltd
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=33423675)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=23997599)  
-Sonic Electrical Services PTY Ltd
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=94237509)  
-Goju-Ryu Pretoria East
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=172798264)  
-West Coast Horse Trails
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=130348878)  
-ARCHITEK PTY LTD
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=c1aa93a6e1f7653c9325911996a7e0e8658656d68aeec7fb5dec06d0787369a6&c=119783467)  
-Repairs In Motion
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=169204578)  
+Alliance Energy
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
