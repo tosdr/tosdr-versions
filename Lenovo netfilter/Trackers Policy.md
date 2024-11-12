@@ -872,10 +872,10 @@ skip to main content
 * [Tablets & Phones](https://www.lenovo.com/us/en/tablets/)
     
     * [Explore Tablets](https://www.lenovo.com/us/en/tablets/subseries-results) [Tablets for Business](https://www.lenovo.com/us/en/business/tablets/) [Android Tablets](https://www.lenovo.com/us/en/c/tablets/android-tablets/lenovo-tab-series) [Tablet Accessories](https://www.lenovo.com/us/en/dc/accessories-and-software/tablet-accessories) [Tablet Deals](https://www.lenovo.com/us/en/d/deals/phones-and-tablets/?sortBy=bestSelling) [Shop All Tablets](https://www.lenovo.com/us/en/tablets/results)
-    * [Explore Smartphones](https://www.lenovo.com/us/en/d/motorola-smartphones/) [ThinkPhone by Motorola](https://www.lenovo.com/us/en/p/phones/motorola-smartphones/thinkphone/thinkphone-by-motorola/paxm0000us) [Moto G Series](https://www.lenovo.com/us/en/d/motorola-smartphones/moto-g/) [Moto Edge Series](https://www.lenovo.com/us/en/d/motorola-smartphones/motorola-edge) [Moto Care](https://www.lenovo.com/us/en/moto-care/) [Phone Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/phone-accessories/) [Smartphone Deals](https://www.lenovo.com/us/en/d/deals/phones)
     * Best Selling Tablets
         
         [Lenovo Tab Plus](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-plus/len103l0024) [Lenovo Tab M11](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m11-(11-inch-mtk)/len103l0022) [Lenovo Tab M8](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m8-gen-4-(8-inch-mtk)/len103l0013) [Lenovo Tab M9](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m9-(9-inch-mtk)/len103l0016) [Lenovo Tab P12](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-p12/len103l0018)
+    * [Explore Smartphones](https://www.lenovo.com/us/en/d/motorola-smartphones/) [Moto Care](https://www.lenovo.com/us/en/moto-care/) [Phone Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/phone-accessories/)
     
 * [Servers & Storage](https://www.lenovo.com/us/en/servers-storage/)
     
