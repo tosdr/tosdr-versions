@@ -207,28 +207,35 @@ Medium’s failure to exercise or enforce any right or provision of these Terms 
 
 [](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=---footer_actions--9db0094a1e0f---------------------bookmark_footer-----------)
 
-[![Medium](https://miro.medium.com/v2/resize:fill:144:144/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
+[![Medium Policy](https://miro.medium.com/v2/resize:fill:96:96/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page---post_publication_info--9db0094a1e0f--------------------------------)
 
-[![Medium Policy](https://miro.medium.com/v2/resize:fill:64:64/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
+[![Medium Policy](https://miro.medium.com/v2/resize:fill:128:128/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page---post_publication_info--9db0094a1e0f--------------------------------)
+
+[Published in Medium Policy
+--------------------------](https://policy.medium.com/?source=post_page---post_publication_info--9db0094a1e0f--------------------------------)
+
+[41K Followers](https://medium.com/followers?source=post_page---post_publication_info--9db0094a1e0f--------------------------------)
+
+·[Last published Nov 8, 2021](https://medium.com/email-import-terms-of-use-cccf29534bf4?source=post_page---post_publication_info--9db0094a1e0f--------------------------------)
+
+The Fine Print
+
+[![Medium](https://miro.medium.com/v2/resize:fill:96:96/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
+
+[![Medium](https://miro.medium.com/v2/resize:fill:128:128/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
 
 Follow
-
-[](https://medium.com/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2F617d850a6582&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&newsletterV3=504c7870fdb6&newsletterV3Id=617d850a6582&user=Medium&userId=504c7870fdb6&source=---post_author_info--9db0094a1e0f---------------------subscribe_user-----------)
 
 [Written by Medium
 -----------------](https://medium.com/@Medium?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
 
 [1.5M Followers](https://medium.com/@Medium/followers?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
 
-·Editor for
-
-[Medium Policy](https://policy.medium.com/?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
+·[32 Following](https://medium.com/@Medium/following?source=post_page---post_author_info--9db0094a1e0f--------------------------------)
 
 Everyone’s stories and ideas
 
 Follow
-
-[](https://medium.com/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2F617d850a6582&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&newsletterV3=504c7870fdb6&newsletterV3Id=617d850a6582&user=Medium&userId=504c7870fdb6&source=---post_author_info--9db0094a1e0f---------------------subscribe_user-----------)
 
 [Help](https://help.medium.com/hc/en-us?source=post_page-----9db0094a1e0f--------------------------------)
 
