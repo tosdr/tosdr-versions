@@ -310,6 +310,10 @@
     
     Success Stories
     
+    [![Logo (1) (1)](https://static.wingify.com/gcp//uploads/2024/11/logo-1-1.png)
+    
+    Us improved checkout rates for e5 by adding a cart confirmation pop-up](https://vwo.com/success-stories/us/)
+    
     [![Tatvic Logo](https://static.wingify.com/gcp/tr:h-50,w-60,c-at_max/uploads/2024/10/Tatvic-logo-1.png)
     
     Tatvic Optimizes ICICI Lombard’s Insurance Form Gaining Increased Submissions With VWO](https://vwo.com/success-stories/tatvic/)
@@ -345,10 +349,6 @@
     [![Logo](https://static.wingify.com/gcp//uploads/2023/12/LOGO.png)
     
     Critique Jeu Improved Inter-page Navigation by Testing Blue Underlined Hyperlinks](https://vwo.com/success-stories/critique-jeu/)
-    
-    [![Logo](https://static.wingify.com/gcp//uploads/2023/11/Screenshot-2023-11-30-at-11.22.30-AM.png)
-    
-    GoodwillFinds Increases Clicks On The Add-To-Cart Button By A/B Testing The Product Page](https://vwo.com/success-stories/goodwillfinds/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
