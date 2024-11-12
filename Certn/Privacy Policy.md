@@ -2654,11 +2654,11 @@ To withdraw your consent whilst the application is in progress you can contact t
 Tokenized Authorization (B2B) - EN
 ----------------------------------
 
-### Version 25.0
+### Version 25.1
 
-##### Effective June 26th 2024
+##### Effective November 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65df63639f66dd42050c7690.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667c2f737c9b1d735d8ca608.pdf)
 
 * * *
 
@@ -2668,17 +2668,11 @@ Tokenized Authorization (B2B) - EN
 
 **AUTHORIZATION**
 
-To evaluate your suitability for {{{purpose}}}, the Company has asked Certn and its parent, affiliates and subsidiaries, as applicable ("**Certn**", “**we**" or "**us**”) to verify your identity, and create and return a consumer report {{{usa\_report}}}(your "**Report(s)**") consisting of: {{{services\_list}}} (the " **Services**”).
+To evaluate your suitability for {{purpose}} , {{company\_name}} (the "**Company**") has asked [Certn](https://certn.co/) to assemble and return a consumer report (your "**Report**") consisting of: {{services\_list}} .
 
-  
+Certn will collect the following personal information for the purpose of completing the Report: {{personal\_information\_list}} . {{#if data\_providers\_list}}Certn may collect Personal Information directly from you, the Company or third parties such as {{data\_providers\_list}} {{else}} Certn may collect Personal Information directly from you or the Company{{/if}}. Certn will compare information received from different sources for consistency.
 
-We will collect the following personal information for the purpose of completing the Services: {{{personal\_information\_list}}}. We may collect Personal Information directly from you, the Company, or third parties such as {{{data\_providers\_list}}}. We will compare information received from different sources for consistency.
-
-  
-
-It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Further, depending on the Services, and the location of the Company, your Personal Information may be processed by our employees and contractors in Canada, Australia, the United States, the United Kingdom, South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
-
-  
+It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Your Personal Information may be handled by our employees and contractors in Canada, Australia, the U.S., the U.K., South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
 You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
 
@@ -5787,11 +5781,11 @@ You have the right to request additional information regarding the nature and sc
 Tokenized Authorization (B2B) - EN-GB
 -------------------------------------
 
-### Version 1.1
+### Version 1.2
 
-##### Effective October 28th 2024
+##### Effective November 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67202acd014115adeb2983b7.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672278ec0aaad50932a945f0.pdf)
 
 * * *
 
@@ -5801,19 +5795,14 @@ Tokenized Authorization (B2B) - EN-GB
 
 **AUTHORISATION**
 
-To evaluate your suitability for {{{purpose}}}, the Company has asked Certn and its parent, affiliates and subsidiaries, as applicable ("**Certn**", “**we**" or "**us**”) to verify your identity, and create and return a consumer report {{{usa\_report}}}(your "**Report(s)**") consisting of: {{{services\_list}}} (the " **Services**”).
+To evaluate your suitability for {{purpose}}, {{company\_name}} (the "**Company**") has asked [Certn](https://certn.co/) to assemble and return a consumer report (your "**Report**") consisting of: {{services\_list}}.
 
+Certn will collect the following personal information for the purpose of completing the Report: {{personal\_information\_list}}. {{#if data\_providers\_list}}Certn may collect Personal Information directly from you, the Company, or third parties such as {{data\_providers\_list}} {{else}}Certn may collect Personal Information directly from you or the Company{{/if}}. Certn will compare information received from different sources for consistency.
+
+It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Your Personal Information may be processed by our employees and contractors in Canada, Australia, the United States, the United Kingdom, South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+
+You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).  
   
-
-We will collect the following personal information for the purpose of completing the Services: {{{personal\_information\_list}}}. {{#if data\_providers\_list}}We may collect Personal Information directly from you, the Company, or third parties such as {{{data\_providers\_list}}}{{else}}We may collect Personal Information directly from you or the Company{{/if}}. We will compare information received from different sources for consistency.
-
-  
-
-It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Further, depending on the Services, and the location of the Company, your Personal Information may be processed by our employees and contractors in Canada, Australia, the United States, the United Kingdom, South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
-
-  
-
-You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
 
   
 
