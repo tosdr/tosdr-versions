@@ -178,7 +178,7 @@ Table of Contents Table of Contents Toggle navigation
                 * [Resizing images](https://www.knowledgeowl.com/help/resizing-images)
                 * [Accessible images](https://www.knowledgeowl.com/help/accessible-images)
                 * [Gif and animation usage](https://www.knowledgeowl.com/help/gif-usage)
-                * [Create consistent screenshots](https://www.knowledgeowl.com/help/create-consistent-screenshots)New
+                * [Create consistent screenshots](https://www.knowledgeowl.com/help/create-consistent-screenshots)
         * [Add videos to articles](javascript:void(0);)
             
             * [Add videos to your articles](https://www.knowledgeowl.com/help/videos)
@@ -969,7 +969,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Pause or suspend subscription](https://www.knowledgeowl.com/help/pause-or-put-my-account-on-hold)
         * [Cancel my account](https://www.knowledgeowl.com/help/cancel-my-account)
         * [Resolve payment](https://www.knowledgeowl.com/help/resolve-payment)
-        * [Why is an American company charging me, a non-American, sales tax?](https://www.knowledgeowl.com/help/canadian-sales-tax-hstgstpstqst)
+        * [Why is an American company charging me, a non-American, sales tax?](https://www.knowledgeowl.com/help/non-american-sales-tax)
     * [Company and Product Info](javascript:void(0);)
         
         * [Company Website](https://www.knowledgeowl.com/help/company-website)
@@ -1411,7 +1411,7 @@ If you do not agree to the new terms and conditions, you may terminate this agre
     
 * [Author team order consistently displayed](https://www.knowledgeowl.com/help/author-team-order-consistently-displayed)
     
-* [Add a new glossary term](https://www.knowledgeowl.com/help/populate-the-glossary)
+* [Conditional content based on tags](https://www.knowledgeowl.com/help/conditional-content-based-on-tags)
     
 
    
