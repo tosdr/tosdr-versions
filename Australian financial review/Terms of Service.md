@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1345%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/23eee257fa794a2f7e2ce1c54c973f789b0e02e6)](https://www.afr.com/technology/samsung-s-new-tablet-stuck-to-our-walls-like-spaghetti-20241108-p5kozq)
+[![ ](https://static.ffx.io/images/$zoom_0.3447%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_312/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/02b51df1ccc275abafb565ed6b318f308e21ca69)](https://www.afr.com/life-and-luxury/health-and-wellness/it-turns-out-gin-and-tennis-do-mix-20241104-p5knnn)
 
-### [This new tablet is perfect for Netflix and so much more](https://www.afr.com/technology/samsung-s-new-tablet-stuck-to-our-walls-like-spaghetti-20241108-p5kozq)
+### [It turns out gin and tennis do mix](https://www.afr.com/life-and-luxury/health-and-wellness/it-turns-out-gin-and-tennis-do-mix-20241104-p5knnn)
 
-* John Davidson
+* 54 mins ago
+* Life & Leisure
 
-* ### [Why the Amazon is best explored by water](https://www.afr.com/life-and-luxury/travel/why-the-amazon-is-best-explored-by-water-20241030-p5kmkk)
+* ### [10 delicious culinary adventures in 2025](https://www.afr.com/life-and-luxury/travel/10-delicious-culinary-adventures-in-2025-20241025-p5klgh)
     
-* ### [10 getaways to satisfy your adrenalin-rush needs in 2025](https://www.afr.com/life-and-luxury/travel/10-getaways-to-satisfy-your-adrenalin-rush-needs-in-2025-20241025-p5klge)
+* ### [Trust Los Angeles to have a crazy entertainment venue like Level 8](https://www.afr.com/life-and-luxury/travel/trust-los-angeles-to-have-a-crazy-entertainment-venue-like-level-8-20241017-p5kj1n)
     
 
 [Rich List](https://www.afr.com/rich-list)
