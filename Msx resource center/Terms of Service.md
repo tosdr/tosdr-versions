@@ -153,6 +153,7 @@ Latest reactions
 
 Latest forum posts
 
+* [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=124 "Please help testing upcoming openMSX release!")
 * [Yamaha YIS-503 II Power supply Unit pinout information](https://www.msx.org/forum/msx-talk/hardware/yamaha-yis-503-ii-power-supply-unit-pinout-information "Yamaha YIS-503 II Power supply Unit pinout information")
@@ -164,7 +165,6 @@ Latest forum posts
 * [The BIG MSXVR Q&A thread](https://www.msx.org/forum/msx-talk/hardware/the-big-msxvr-qa-thread?page=33 "The BIG MSXVR Q&A thread")
 * [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us?page=1 "Pal system in the US")
 * [Discovering the Latest Interactive Games and Entertainment Trends for 2024](https://www.msx.org/forum/msx-talk/general-discussion/discovering-the-latest-interactive-games-and-entertainment-trends- "Discovering the Latest Interactive Games and Entertainment Trends for 2024")
-* [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [Can't get the EGG Launcher to run](https://www.msx.org/forum/msx-talk/software/cant-get-the-egg-launcher-to-run "Can't get the EGG Launcher to run")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
