@@ -3151,28 +3151,20 @@ Gestionar las solicitudes de información de la iniciativa Datos Abiertos
 **\- Responsable:**
 
 Ministerio de Asuntos Económicos y Transformación Digital  
-  
 Secretaría de Estado de Digitalización e Inteligencia Artificial  
-  
 Paseo de la Castellana, 162 - 28046 Madrid  
-  
 Delegado de Protección de Datos a través de: [dpd@economia.gob.es](mailto:dpd@economia.gob.es)
 
 Ministerio de Hacienda y Función Pública  
-  
 Secretaría de Estado de Función Pública  
-  
 Calle de Santa Engracia, 7 - 28010 Madrid  
-  
 Delegado de Protección de Datos a través de:  [DPDHacienda@hacienda.gob.es](mailto:DPDHacienda@hacienda.gob.es)
 
 **\- Encargado:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno, s/n  
-  
-28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)n_
+28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Subencargado:**
 
@@ -3180,7 +3172,7 @@ En las tareas de gestión de las solicitudes objeto de esta ficha de tratamiento
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 * * *
 
@@ -3205,9 +3197,7 @@ RedIris y Servicios Públicos Digitales.
 #### Legitimación
 
 RGPD: 6.1. a) El interesado dio su consentimiento para el tratamiento de sus datos personales para uno o varios fines específicos.  
-  
 RGPD: 6.1.e) Tratamiento necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento.  
-  
 Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 * * *
@@ -3248,7 +3238,6 @@ Dentro del Espacio Económico Europeo con nivel de protección adecuado:  
 
 * Administraciones Públicas  (Cesión de datos)
 * Proveedores (Encargo de Tratamiento)  
-      
      
 
 #### **35.- Invitación general para participar en los programas de atracción, y retención de talento**
