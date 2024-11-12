@@ -131,6 +131,7 @@ Feedback
 
 [mehr Spiele](https://spiele.spiegel.de/)
 
+*  [![Öffnen Sie das Spiel Adventskalender](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 88 88' width='88' height='88' %3E%3C/svg%3E)Advents­kalender](https://spiele.spiegel.de/adventskalender/?utm_campaign=adventskalender&utm_medium=footer_rondell&utm_source=spiegel_de "Adventskalender")
 *  [![Öffnen Sie das Spiel Kreuzworträtsel](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 88 88' width='88' height='88' %3E%3C/svg%3E)Kreuzworträt­sel](https://spiele.spiegel.de/kreuzwortraetsel/?utm_campaign=kreuzwortraetsel&utm_medium=footer_rondell&utm_source=spiegel_de "Kreuzworträtsel")
 *  [![Öffnen Sie das Spiel Solitär](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 88 88' width='88' height='88' %3E%3C/svg%3E)Solitär](https://spiele.spiegel.de/solitaer/?utm_campaign=solitaer&utm_medium=footer_rondell&utm_source=spiegel_de "Solitär")
 *  [![Öffnen Sie das Spiel Sudoku](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 88 88' width='88' height='88' %3E%3C/svg%3E)Sudoku](https://spiele.spiegel.de/sudoku/?utm_campaign=sudoku&utm_medium=footer_rondell&utm_source=spiegel_de "Sudoku")
