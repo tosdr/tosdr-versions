@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If I have seen further it is by standing on the shoulders of giants”
+“ Get as much education as you can. Nobody can take that away from you”
 
-[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
+[Eben Upton](http://lifehacker.com/5978324/im-eben-upton-executive-director-of-the-raspberry-pi-foundation-and-this-is-how-i-work)
 
 [](https://www.adafruit.com/about)
 
