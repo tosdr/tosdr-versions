@@ -131,10 +131,9 @@ English
     * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
     * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
     * [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-    * [Tom Cruise](https://www.news18.com/movies/mission-impossible-8-trailer-tom-cruise-teases-ethan-hunts-deadliest-mission-in-final-reckoning-9116852.html)
+    * [Shahid Kapoor](https://www.news18.com/business/real-estate/bollywood-actor-shahid-kapoor-leases-out-luxury-apartment-at-over-rs-20-lakh-per-month-9117413.html)
     * [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
     * [Champions Trophy](https://www.news18.com/cricket/pakistan-might-withdraw-from-champions-trophy-not-to-play-against-india-in-icc-events-report-9116912.html)
-    * [Gold Prices](https://www.news18.com/business/savings-and-investments/gold-prices-fall-in-india-check-22-carat-rate-in-your-city-on-november-12-9117120.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -173,10 +172,9 @@ In Trends:
 * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
 * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
 * [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-* [Tom Cruise](https://www.news18.com/movies/mission-impossible-8-trailer-tom-cruise-teases-ethan-hunts-deadliest-mission-in-final-reckoning-9116852.html)
+* [Shahid Kapoor](https://www.news18.com/business/real-estate/bollywood-actor-shahid-kapoor-leases-out-luxury-apartment-at-over-rs-20-lakh-per-month-9117413.html)
 * [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
 * [Champions Trophy](https://www.news18.com/cricket/pakistan-might-withdraw-from-champions-trophy-not-to-play-against-india-in-icc-events-report-9116912.html)
-* [Gold Prices](https://www.news18.com/business/savings-and-investments/gold-prices-fall-in-india-check-22-carat-rate-in-your-city-on-november-12-9117120.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
