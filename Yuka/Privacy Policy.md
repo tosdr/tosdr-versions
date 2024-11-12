@@ -11,6 +11,8 @@ This document contains [a section dedicated to Users in the European Union and t
 
 This document contains [a section dedicated to Users in the United States and their privacy rights.](#all_us_laws_info)
 
+This document contains [a section dedicated to Users in Switzerland and their privacy rights](#fadp_info).
+
   
 
 This document can be printed for reference by using the print command in the settings of any browser.
@@ -110,6 +112,10 @@ Personal Data processed for the following purposes and using the following servi
             
             Personal Data: Crash information; device information; Universally unique identifier (UUID)
             
+        * ### Bugsnag
+            
+            Personal Data: device information; device logs; Trackers; Usage Data
+            
         
     * ### Interaction with external social networks and platforms
         
@@ -182,6 +188,32 @@ The Digital Advertising Alliance offers an application called [AppChoices](https
 
 Users may also opt out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
 
+Further information about the processing of Personal Data
+---------------------------------------------------------
+
+* * ### Unique device identification
+        
+        Yuka may track Users by storing a unique identifier of their device, for analytics purposes or for storing Users' preferences.
+        
+    * ### Rights for registered California Users under the age of 18
+        
+        California's "Online Eraser" law, part of California's Business and Professions Code Sections 22580-22582, requires operators of certain websites and online services targeting minors to allow registered Users who are under the age of 18 and residents of California to request removal of content they post.
+        
+        If a registered User fits that description and posted content on Yuka, they may request removal of such content by contacting the Owner or its privacy policy coordinator at the contact details provided in this document.
+        
+        In response to this request, the Owner may make content posted by the registered User invisible to other registered Users and the public (rather than deleting it entirely), in which case the content may remain on the Owner's servers. It may also be publicly available elsewhere if a third party copied and reposted this content.
+        
+    * ### Push notifications
+        
+        Yuka may send push notifications to the User to achieve the purposes outlined in this privacy policy.
+        
+        Users may in most cases opt-out of receiving push notifications by visiting their device settings, such as the notification settings for mobile phones, and then change those settings for Yuka, some or all of the apps on the particular device. Users must be aware that disabling push notifications may negatively affect the utility of Yuka.
+        
+    * ### The Service is not directed to children under the age of 13
+        
+        Users declare themselves to be adult according to their applicable legislation. Minors may use Yuka only with the assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use Yuka.
+        
+
 Contact information
 -------------------
 
@@ -205,7 +237,7 @@ YUCA SAS - 14 rue de Turbigo 75001 Paris (France)
 Types of Data collected
 -----------------------
 
-Among the types of Personal Data that Yuka collects, by itself or through third parties, there are: first name; email address; Usage Data; Camera permission; device information; geography/region; number of Users ; number of sessions; session duration; In-app purchases; Application opens; Application updates; first launches; operating systems; Cookies; Universally unique identifier (UUID); Crash information; geographic position; session statistics.
+Among the types of Personal Data that Yuka collects, by itself or through third parties, there are: first name; email address; Usage Data; Camera permission; device information; geography/region; number of Users ; number of sessions; session duration; In-app purchases; Application opens; Application updates; first launches; operating systems; Cookies; Universally unique identifier (UUID); Crash information; geographic position; session statistics; device logs.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Yuka.  
@@ -287,17 +319,15 @@ Personal Data is collected for the following purposes and using the following se
     This type of service allows Yuka to access Data from your account on a third-party service and perform actions with it.  
     These services are not activated automatically, but require explicit authorization by the User.
     
-    #### Facebook account access (Yuka)
+    #### Facebook account access (Meta Platforms, Inc.)
     
     This service allows Yuka to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
     
     Permissions asked: About Me; Contact email.
     
-    Place of processing: United States – [Privacy Policy](https://www.facebook.com/policy.php).
+    Place of processing: United States – [Privacy Policy](https://www.facebook.com/privacy/policy/) – [Opt out](https://www.facebook.com/help/247395082112892).
     
     Category of Personal Information collected according to the CCPA: identifiers.
-    
-    This processing constitutes:
     
 * ### Analytics
     
@@ -589,6 +619,16 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
+    #### Bugsnag (Bugsnag Inc.)
+    
+    Bugsnag is a monitoring service provided by Bugsnag Inc.
+    
+    Personal Data processed: device information; device logs; Trackers; Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://docs.bugsnag.com/legal/privacy-policy/).
+    
+    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
 * ### Interaction with external social networks and platforms
     
     This type of service allows interaction with social networks or other external platforms directly from the pages of Yuka.  
@@ -705,8 +745,6 @@ Personal Data is collected for the following purposes and using the following se
     
     Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
     
-    This processing constitutes:
-    
     #### Google Play Store (Google Ireland Limited)
     
     Yuka is distributed on the Google Play Store, a platform for the distribution of mobile apps, provided by Google Ireland Limited.
@@ -801,6 +839,32 @@ The Digital Advertising Alliance offers an application called [AppChoices](https
 
 Users may also opt out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
 
+Further information about the processing of Personal Data
+---------------------------------------------------------
+
+* ### Unique device identification
+    
+    Yuka may track Users by storing a unique identifier of their device, for analytics purposes or for storing Users' preferences.
+    
+* ### Rights for registered California Users under the age of 18
+    
+    California's "Online Eraser" law, part of California's Business and Professions Code Sections 22580-22582, requires operators of certain websites and online services targeting minors to allow registered Users who are under the age of 18 and residents of California to request removal of content they post.
+    
+    If a registered User fits that description and posted content on Yuka, they may request removal of such content by contacting the Owner or its privacy policy coordinator at the contact details provided in this document.
+    
+    In response to this request, the Owner may make content posted by the registered User invisible to other registered Users and the public (rather than deleting it entirely), in which case the content may remain on the Owner's servers. It may also be publicly available elsewhere if a third party copied and reposted this content.
+    
+* ### Push notifications
+    
+    Yuka may send push notifications to the User to achieve the purposes outlined in this privacy policy.
+    
+    Users may in most cases opt-out of receiving push notifications by visiting their device settings, such as the notification settings for mobile phones, and then change those settings for Yuka, some or all of the apps on the particular device. Users must be aware that disabling push notifications may negatively affect the utility of Yuka.
+    
+* ### The Service is not directed to children under the age of 13
+    
+    Users declare themselves to be adult according to their applicable legislation. Minors may use Yuka only with the assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use Yuka.
+    
+
 Further Information for Users in the European Union
 ---------------------------------------------------
 
@@ -858,6 +922,28 @@ Users are also entitled to learn about the legal basis for Data transfers abroad
 
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. Such requests are free of charge and will be answered by the Owner as early as possible and always within one month, providing Users with the information required by law. Any rectification or erasure of Personal Data or restriction of processing will be communicated by the Owner to each recipient, if any, to whom the Personal Data has been disclosed unless this proves impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.
 
+Further information for Users in Switzerland
+--------------------------------------------
+
+This section applies to Users in Switzerland, and, for such Users, supersedes any other possibly divergent or conflicting information contained in the privacy policy.
+
+Further details regarding the categories of Data processed, the purposes of processing, the categories of recipients of the personal data, if any, the retention period and further information about Personal Data can be found in **the section titled “Detailed information on the processing of Personal Data” within this document**.
+
+### The rights of Users according to the Swiss Federal Act on Data Protection
+
+Users may exercise certain rights regarding their Data within the limits of law, including the following:
+
+* right of access to Personal Data;
+* right to object to the processing of their Personal Data (which also allows Users to demand that processing of Personal Data be restricted, Personal Data be deleted or destroyed, specific disclosures of Personal Data to third parties be prohibited);
+* right to receive their Personal Data and have it transferred to another controller (data portability);
+* right to ask for incorrect Personal Data to be corrected.
+
+  
+
+#### How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. Such requests are free of charge and will be answered by the Owner as early as possible, providing Users with the information required by law.
+
 Further information for Users in the United States
 --------------------------------------------------
 
@@ -888,6 +974,7 @@ _While such categorization of Personal Information is mainly based on California
     * User database management
     * Managing contacts and sending messages
     * Hosting and backend infrastructure
+    * Further information about Personal Data
     
     **Retention period:** for the time necessary to fulfill the purpose
     
@@ -895,13 +982,13 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Google LLC, Yuka, SendinBlue SAS, The Rocket Science Group LLC
+    **Third-parties:** Google LLC, Meta Platforms, Inc., SendinBlue SAS, The Rocket Science Group LLC
     
     **Service providers or contractors:** Yuka, Google LLC
     
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Usage Data, various types of Data as specified in the privacy policy of the service, Camera permission, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, Cookies, Universally unique identifier (UUID), Crash information, email address, Tracker, Trackers, number of Users, session statistics
+    **Personal Information collected or disclosed:** Usage Data, various types of Data as specified in the privacy policy of the service, Camera permission, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, Cookies, Universally unique identifier (UUID), Crash information, email address, Tracker, Trackers, number of Users, session statistics, device logs
     
     **Purposes:**
     
@@ -926,7 +1013,7 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Google LLC, Stripe Inc, DigitalOcean Inc., SendinBlue SAS, Facebook, Inc., Aut O’Mattic A8C Ireland Ltd., Google Ireland Limited, Apple Inc., Facebook Ireland Ltd
+    **Third-parties:** Google LLC, Stripe Inc, DigitalOcean Inc., SendinBlue SAS, Facebook, Inc., Aut O’Mattic A8C Ireland Ltd., Google Ireland Limited, Apple Inc., Facebook Ireland Ltd, Bugsnag Inc.
     
     **Service providers or contractors:** Yuka
     
