@@ -173,7 +173,7 @@ Under certain circumstances, it may be necessary for us to transfer your persona
 
   
 
-The UK Data Protection Authority has certified some third countries as having a level of data protection comparable to the GDPR by means of an adequacy decision. You can find an overview of third countries with an adequacy decision here. For service providers based in the USA, this only applies if they are certified in accordance with the EU-US Data Privacy Framework.
+The UK Data Protection Authority has certified some third countries as having a level of data protection comparable to the GDPR by means of an adequacy decision. You can find an overview of third countries with an adequacy decision [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en?prefLang=de#documents). For service providers based in the USA, this only applies if they are certified in accordance with the EU-US Data Privacy Framework.
 
   
 
@@ -230,9 +230,13 @@ Storage period/criteria for determining the storage period
 
 The log files are stored for a period of seven days and then automatically deleted.
 
-4\. Contacting Customer Care
+6\. Contacting Customer Care
 
-### **Why do we process personal data?**
+**Contacting Customer Care**
+
+  
+
+**Why do we process personal data?**
 
   
 
@@ -240,17 +244,11 @@ To help us provide you with the best possible customer service and to enable us 
 
   
 
-  
+**What personal data do we use?**
 
   
 
-### **What personal data do we use?**
-
-  
-
-Depending on the circumstances, we may collect any of the following information:
-
-  
+**Depending on the circumstances, we may collect any of the following information:**
 
 * Full name;
 * Email address;
@@ -265,11 +263,7 @@ Personal data obtained by Lidl when dealing with your request by telephone, e-ma
 
   
 
-  
-
-  
-
-### **Who can access your personal data?**
+**Who can acces your personal data?**
 
   
 
@@ -281,11 +275,7 @@ In some cases, it may be necessary for us to forward extracts of your request to
 
   
 
-  
-
-  
-
-### **How long do we store your personal data?**
+**How long do we store your personal data?**
 
   
 
@@ -294,10 +284,6 @@ In some cases, it may be necessary for us to forward extracts of your request to
   
 
 In most cases, personal data will be kept no longer than 30 days from the date your request is resolved. However any complaints or issues which require further investigation will be kept for a maximum of 3 years.
-
-  
-
-  
 
   
 
@@ -317,57 +303,41 @@ Any interactions with LiA is automatically anonymised.
 
 7\. CCTV and loss prevention technologies
 
-**5\. Accessing our Services**
+**7\. CCTV and loss prevention technologies**
 
   
 
-Purposes of data processing/legal basis
+**Why do we process personal data?**
 
-  
+CCTV recording is active at all Lidl sites which includes our stores, distribution centres, local and property offices and our Head Office. Some of our cameras may also use non-scan detection technologies as part of the checkout process. Any cameras using non-scan detection technologies are only active at our store checkouts and self-checkouts. Such recordings or technologies used are captured and processed in Lidl’s legitimate interest for the purpose of;
 
-When you access our Services automatically and without your intervention, your browser sends the
+• Safety and security of our customers, staff and security guards;
 
-  
+• Safety and security of our premises and property;
 
- IP address of the end device used,
+• Health and safety and to investigate accidents or claims;
 
- Date and time of access,
+• Protection against, detection of and evidencing of criminal activities;
 
- Name and URL of the retrieved file,
+• The reduction of company losses and inventory discrepancies and;
 
- Website/application from which access is made (referrer URL),
+Any non-scan technologies used on our checkouts and self-checkouts cameras are only used to identify non-scanned items, prevent inventory loss and will always involve human intervention. All facial images collected as part of our non-scan detection cameras are pixelated and no facial recognition technologies are used. Only non-scanned footage will be recorded and these will be stored in line with the principle set out in this Privacy Notice.
 
- Browser and, if applicable, operating system of your end device,
+Many of our premises hold alcohol licenses which requires CCTV to be in operation. For these premises, the processing is necessary for Lidl to comply with its legal obligations.
 
- Name of your access provider
+CCTV footage may at times be used in evidencing legal/ongoing disputes where all requirements for the access and storage of such data have been met as laid out in our internal investigation procedures.
 
-  
+The physical technological infrastructure and recordings are stored and backed-up internally.
 
-to our server and temporarily stores them in a log file for the following purposes:
+Who can assess your personal data?
 
-  
+As a general rule, we will not disclose this data to any third parties.
 
- To ensure a smooth connection set-up,
+Lidl will always cooperate with the local police or law enforcement agencies and will provide CCTV footage upon their request when it is lawful and necessary to do so.
 
- To ensure convenient/appropriate use of our website/application,
+Should there be an incident involving the damage or destruction of our property or premises, or violence or abuse towards of customers, staff or security guards, we may disclose CCTV footage to the police or law enforcement agencies.
 
- To evaluate system security and stability.
-
-  
-
-If you agree to geolocalisation on your end device, we process your real-time location data when you use certain functions of our Services (e.g. displaying the location of the nearest Lidl store in the store finder).
-
-  
-
-The legal basis for data processing is Article 6(1)(1)(f) GDPR. Our legitimate interest lies in the correct presentation of our Services, the protection of our systems and the prevention of unauthorised access to our website. If the presentation serves to prepare a contract, the legal basis for data processing is Article 6(1)(b) GDPR.
-
-  
-
-Storage period/criteria for determining the storage period
-
-  
-
-The log files are stored for a period of seven days and then automatically deleted.
+We may share CCTV footage or images with our internal or external advisors (including but not limited to lawyers, consultants, insurance companies) as may be necessary for the defense of our legal rights.
 
 8\. Newsletter distribution
 
@@ -1001,7 +971,9 @@ We use cookies and carry out associated data processing for the purposes of self
 
   
 
-In addition, in this context, data in the Lidl app about you is also partially processed by the advertising partner The UK Trade Desk Ltd., c / o The Trade Desk, Inc., 42 N. Chestnut Street, Ventura, CA 93001, USA (“TTD”) as a separately responsible person for displaying personalised advertising and for measuring success. In order to be able to link your usage behavior with you, the identifiers (MAID, hashed e-mail address and / or hashed telephone number) are forwarded to TTD on the basis of your consent. You will find further information on data processing as well as how you can assert your rights as a data subject in TTD's data protection information.
+In addition, in this context, data in the Lidl app about you is also partially processed by the advertising partner The UK Trade Desk Ltd., c / o The Trade Desk, Inc., 42 N. Chestnut Street, Ventura, CA 93001, USA (“TTD”) as a separately responsible person for displaying personalised advertising and for measuring success. In order to be able to link your usage behavior with you, the identifiers (MAID, hashed e-mail address and / or hashed telephone number) are forwarded to TTD on the basis of your consent. You will find further information on data processing as well as how you can assert your rights as a data subject in [TTD's data protection information.](https://www.thetradedesk.com/us/privacy)
+
+  
 
 We also use the Microsoft Advertising and Microsoft Clarity Services of the provider Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Ireland (Microsoft) and the Google Advertising Service of the provider Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (Google) for self-promotion in our Services. Microsoft and Google also process your data as part of the Microsoft and Google Advertising Services under their own responsibility.
 
@@ -1246,8 +1218,6 @@ Further information on data processing by the companies listed below and on exer
   
 
 An information overview of the individual cookies and similar technologies used, together with the respective processing purposes, the respective storage period and any third-party providers involved can be found here. Further details on processing can also be found in the preferences manager.
-
-  
 
 15\. Lidl Plus
 
