@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=466953673018979&ev=PageView&noscript=1)  Terms and Conditions of Our Services | TechGig                                         
+![](https://www.facebook.com/tr?id=466953673018979&ev=PageView&noscript=1)     Terms and Conditions of Our Services | TechGig                                         
 
 [](javascript:void(0))
 
@@ -11,10 +11,12 @@ Please verify your internet connection and retry
 
 × The Browser we detected is unsupported and may result in unexpected behaviour. Please select an updated version for best experience.
 
-![hamburger icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
+[![TechGig](https://www.techgig.com/files/contest_upload_files/techgig-logo-141024.svg)](https://www.techgig.com/)
 
-[![TechGig](https://static.techgig.com/Themes/Release/images/tg_style_new/tg-logo.svg)](https://www.techgig.com/)
-
+* [![TechGig](https://www.techgig.com/files/contest_upload_files/techgig-logo-141024.svg)](https://www.techgig.com/)
+    
+    ![hamburger close](https://www.techgig.com/files/contest_upload_files/hamburger-close-icon-1401024.svg)
+    
 * ![profile pic](https://static.techgig.com/Themes/Release/images/default.png)
     
     ###### Hi Guest
@@ -23,113 +25,49 @@ Please verify your internet connection and retry
     
     0%
     
-* [NEWS](https://www.techgig.com/)
+* [Compete](https://www.techgig.com/)
     
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    Latest Tech News
-    
-    * [Trending](https://content.techgig.com/trending-news)
-    * [Top Stories](https://content.techgig.com/top-stories)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    Web Stories
-    
-    * [Trending](https://content.techgig.com/web-stories)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    Developer Zone
-    
-    * [Developer Speak](https://content.techgig.com/developer-speak)
-    * [Technology Unplugged](https://content.techgig.com/technology-unplugged)
-    * [Software Download](https://content.techgig.com/software-download)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    TG Player
-    
-    * [Podcast](https://content.techgig.com/podcasts)
-    * [Videos](https://content.techgig.com/videos)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    Leader's Speak
-    
-    * [CIO Speak](https://content.techgig.com/cio-speak)
-    * [CTO Talk](https://content.techgig.com/cto-talk)
-    * [Expert Opinion](https://content.techgig.com/expert-opinion)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    Tech Beat
-    
-    * [Java](https://content.techgig.com/searchresult.cms?query=java&sortorder=score)
-    * [Android](https://content.techgig.com/searchresult.cms?query=android&sortorder=score)
-    * [Artificial Intelligence](https://content.techgig.com/searchresult.cms?query=artificial%20intelligence&sortorder=score)
-    * [Machine Learning](https://content.techgig.com/searchresult.cms?query=machine%20learning&sortorder=score)
-    * [DevOps](https://content.techgig.com/searchresult.cms?query=devops&sortorder=score)
-    * [Cloud](https://content.techgig.com/searchresult.cms?query=cloud&sortorder=score)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    Career Advice
-    
-    * [Technology Guide](https://content.techgig.com/technology-guide)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    TG Prime
-    
-    * [Exclusive Reads](https://content.techgig.com/exclusive-reads)
-    * [Editor's Pick](https://content.techgig.com/editor-picks)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    CIO Corner
-    
-    * [CIO Home](https://cio.techgig.com/)
-    * [Industry Insights](https://cio.techgig.com/industry-insights)
-    * [Tech Bytes](https://cio.techgig.com/tech-bytes)
-    * [RapidFire with CIOs](https://cio.techgig.com/rapidfire-with-cios)
-    * [Tech Talks](https://cio.techgig.com/tech-talk)
-    * [Startup News](https://cio.techgig.com/startup-news)
-    * [Research](https://cio.techgig.com/research)
-    
-* [Challenges](https://www.techgig.com/challenge)
-* [Practice](https://www.techgig.com/practice)
-* [Webinars](https://www.techgig.com/webinar)
-* [Skill Test](https://www.techgig.com/skilltest)
-* [Jobs](https://www.techgig.com/jobs)
-* [EVENTS](https://www.techgig.com/)
-    
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
-    
-    TechGig Events
-    
+    * [Hiring Challenge](https://www.techgig.com/challenge?challenge_type=3)
+    * [Prize Challenge](https://www.techgig.com/challenge?challenge_type=2)
     * [Code Gladiators](https://www.techgig.com/codegladiators)
     * [Geek Goddess](https://www.techgig.com/geekgoddess)
     
-* [COMMUNITIES](https://www.techgig.com/)
+* [Learn](https://www.techgig.com/challenge)
     
-    ![tech news icon](https://www.techgig.com/files/contest_upload_files/spacer-gif.gif)
+    * [Webinars](https://www.techgig.com/webinar)
+    * [Podcasts](https://content.techgig.com/podcasts)
+    * [Expert Insights](https://content.techgig.com/expert-opinion)
+    * [Practice](https://www.techgig.com/practice)
     
-    Communities
+* [Grow](https://www.techgig.com/practice)
     
-    * [Skill Communities](https://www.techgig.com/skill)
-    * [Company Communities](https://www.techgig.com/company)
-    * [Campus Ambassador](https://www.techgig.com/campus-ambassador)
+    * [TG Pro Profile](https://www.techgig.com/tgpro-profile)
+    * [Skill Certification](https://www.techgig.com/skilltest)
+    * [Jobs](https://www.techgig.com/jobs)
+    
+* [Communities](https://www.techgig.com/webinar)
+    
+    * [Skills Communities](https://www.techgig.com/skill)
+    * [Company Community](https://www.techgig.com/company)
     * [Startup Community](https://www.techgig.com/startup)
+    * [Campus Communities](https://www.techgig.com/campus-ambassador)
+    * [Discussion](https://www.techgig.com/discussion)
     
-* [Discussion](https://www.techgig.com/discussion)
-* [For Business](https://engage.techgig.com/)
+* [News](https://www.techgig.com/)
+    
+    * [Latest News](https://content.techgig.com/trending-news)
+    * [Top News](https://content.techgig.com/top-stories)
+    * [Visual Stories](https://content.techgig.com/web-stories)
+    * [Leader's Speak](https://content.techgig.com/leaders-speak)
+    
+*  [![facebook](https://www.techgig.com/files/contest_upload_files/fb-141024.png)](https://www.facebook.com/Techgig)[![insta](https://www.techgig.com/files/contest_upload_files/insta-141024.png)](https://www.instagram.com/techgigdotcom/)[![linkedin](https://www.techgig.com/files/contest_upload_files/lnk-141024.png)](https://www.linkedin.com/company/techgig-com)[![twitter](https://www.techgig.com/files/contest_upload_files/tw-141024.png)](https://twitter.com/techgigdotcom)[![](https://www.techgig.com/files/contest_upload_files/yticon-141024.png)](https://www.youtube.com/@TechGigdotcom)
+    
 
-![search icon](https://www.techgig.com/files/contest_upload_files/search-icon-280723.gif)
+![search icon](https://www.techgig.com/files/contest_upload_files/search-icon-1401024.svg)
 
-[Login / SignUp](https://www.techgig.com/register?tab=login)
+[For Business](https://engage.techgig.com/) [Login/SignUp](https://www.techgig.com/register?tab=login)
 
-[](https://www.techgig.com/register?tab=login)
+[![user icon](https://www.techgig.com/files/contest_upload_files/profile-icon-1401024.svg)](https://www.techgig.com/register?tab=login)
 
  × 
 
@@ -373,7 +311,13 @@ This Agreement is accepted upon user use of the TechGig Website or any of the Te
 
 **News Widgets:** [Latest News](https://content.techgig.com/) | [Top Tech News](https://content.techgig.com/#top-technews) | [Technology News](https://content.techgig.com/technology) | [Hiring News](https://content.techgig.com/hiring) | [Internet News](https://content.techgig.com/internet) | [Gadgets News](https://content.techgig.com/gadgets) | [Mobile Technologies News](https://content.techgig.com/mobile) | [Startups News](https://content.techgig.com/startups) | [Social Media News](https://content.techgig.com/social-media) | [It-Security News](https://content.techgig.com/it-security) | [Ecommerce News](https://content.techgig.com/ecommerce) | [Leadership News](https://content.techgig.com/leadership)
 
-![TechGig](https://static.techgig.com/Themes/Release/images/tg_images/new-images/tech-gig-large.svg)  
+![TechGig](https://www.techgig.com/files/contest_upload_files/techgig-white-logo-141024.svg)
+
+Follow us on
+
+[](https://www.facebook.com/Techgig)[](https://twitter.com/techgigdotcom)[](https://www.linkedin.com/company/techgig-com)[](https://www.instagram.com/techgigdotcom/)[![YouTube](https://www.techgig.com/files/contest_upload_files/footer-yt-031024.png)](https://www.youtube.com/@TechGigdotcom)
+
+#### COMPANY
 
 * [About Us](https://www.techgig.com/knowus/about-us)
 * [Contact Us](https://www.techgig.com/knowus/contact-us#tg-contact)
@@ -382,15 +326,50 @@ This Agreement is accepted upon user use of the TechGig Website or any of the Te
 * [Our Awards](https://www.techgig.com/knowus/our-awards#our-awards)
 * [Terms & Conditions](https://www.techgig.com/user/terms)
 * [Join Our Team](https://www.techgig.com/upload-resume)
+
+#### FOR TECH COMMUNITY
+
+* [Create Your Tech Profile](https://www.techgig.com/tgpro-profile)
+* [Tech Challenges](https://www.techgig.com/challenge)
+* [Assess Your Skills](https://www.techgig.com/skilltest)
+* [Practice Problems](https://www.techgig.com/practice)
+* [Code Gladiators](https://www.techgig.com/codegladiators)
+* [Geek Goddess](https://www.techgig.com/geekgoddess)
+* [Get Hired](https://www.techgig.com/get-hired)
+* [Interact with IT Industry Experts](https://www.techgig.com/upload-resume)
 * [Bug Bounty Program](https://www.techgig.com/bugbounty)
 
-#### Follow TechGig
+* [Read Top Tech Updates](https://www.techgig.com/tech-news)
+* [Campus Ambassadors](https://www.techgig.com/campus-ambassador)
+* [Know About Top Companies](https://www.techgig.com/company)
+* [Code Memo](https://www.techgig.com/codememo)
+* [Coding Environment](https://www.techgig.com/developer/coding-environment)
+* [How To Write Your Code](https://www.techgig.com/developer/how-to-write-your-code)
+* [Create Your Problem](https://www.techgig.com/developer/create-your-problem)
+* [Become Skill Expert](https://www.techgig.com/become-expert)
 
-[](https://www.facebook.com/Techgig)[](https://twitter.com/techgigdotcom)[](https://www.linkedin.com/company/techgig-com)[](https://www.instagram.com/techgigdotcom/)
+#### For Business
+
+* ##### HIRING SOLUTIONS
+    
+    * [Challenges](https://engage.techgig.com/challenge)
+    * [Talent Assessment](https://engage.techgig.com/talent-assessment)
+* ##### ANNUAL EVENTS
+    
+    * [Code Gladiators](https://engage.techgig.com/codegladiators)
+    * [Geek Goddess](https://engage.techgig.com/geekgoddess)
+* ##### MARKETING SOLUTIONS
+    
+    * [Webinars](https://engage.techgig.com/webinars)
+    * [Digital Assets](https://engage.techgig.com/digital-assets)
+    * [Brand Inventories](https://engage.techgig.com/brand-inventory)
+* ##### BUSINESS SOLUTIONS
+    
+    * [Hackathons](https://engage.techgig.com/hackathons)
+
+![letter](https://www.techgig.com/files/contest_upload_files/tg-letter-031024.png)
 
 #### Subscribe To Our Newsletter
-
-  
 
 Thank You! You will start receiving TechGig newsletter from tomorrow.
 
@@ -399,50 +378,6 @@ Incorrect email. Please enter the correct email.
 Error During Subscription. Please try again.
 
 Please provide an email first!.
-
-#### About
-
-* [Code Memo](https://www.techgig.com/codememo)
-* [TechGig Institution](https://www.techgig.com/techgig-institution)
-* [Technical Profile](https://www.techgig.com/technical-profile)
-* [Campus Ambassadors](https://www.techgig.com/campus-ambassador)
-* [Get Hired](https://www.techgig.com/get-hired)
-* [Meet People](https://www.techgig.com/people)
-* [Interact with IT industry experts](https://www.techgig.com/webinar)
-* [Assess your skills](https://www.techgig.com/skilltest)
-* [Know about top Companies](https://www.techgig.com/company)
-* [Read Top Tech Updates](https://www.techgig.com/tech-news)
-
-#### For Developers
-
-* [Become Skill Expert](https://www.techgig.com/become-expert)
-* [Coding Environment](https://www.techgig.com/developer/coding-environment)
-* [How to Write Your Code](https://www.techgig.com/developer/how-to-write-your-code)
-* [Create Your Problem](https://www.techgig.com/developer/create-your-problem)
-* [Practice Problems](https://www.techgig.com/practice)
-* [TechGig Challenges](https://www.techgig.com/challenge)
-* [College Ranking](https://www.techgig.com/college-ranking)
-* [Organise Codeathon](https://www.techgig.com/code-a-thon)
-
-#### For Business
-
-* ##### Hiring Solutions
-    
-* [Challenges](https://engage.techgig.com/challenge)
-* [Talent Assessment](https://engage.techgig.com/talent-assessment)
-* [Live Interviews](https://engage.techgig.com/interview)
-* ##### Marketing Solutions
-    
-* [Webinars](https://engage.techgig.com/webinars)
-* [Digital Assets](https://engage.techgig.com/digital-assets)
-* [Brand Inventories](https://engage.techgig.com/brand-inventory)
-* ##### Business Solutions
-    
-* [Hackathons](https://engage.techgig.com/hackathons)
-* ##### Annual Events
-    
-* [Code Gladiators](https://engage.techgig.com/codegladiators)
-* [Geek Goddess](https://engage.techgig.com/geekgoddess)
 
 Copyright © TechGig (A Product of CoolBoots Media Private Limited) 2024.
 
