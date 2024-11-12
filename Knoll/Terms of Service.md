@@ -632,66 +632,62 @@
 Featured Products
 -----------------
 
-[![](/media/23/447/Thumb_newsonthumb,3.jpg)
+[![](/media/994/865/Thumb_Morrison-Hannah-Thumb,3.jpg)
 
-Newson Task™](https://www.knoll.com/design-plan/product/newson-task-chair?section=design)
-
-[![](/media/789/403/Thumb_ollo-knit-back-thumb,3.png)
-
-Ollo® with Knit Back](https://www.knoll.com/design-plan/product/ollo-knit-back?section=design)
-
-[![](/media/228/589/Thumb_k-screen-extend-default,3.png)
-
-k.™ screen
-
-Extend](https://www.knoll.com/design-plan/product/k-screen-extend?section=design)
+Morrison Hannah™ Chair](https://www.knoll.com/design-plan/product/morrison-hannah?section=design)
 
 [![](/media/618/152/Thumb_genthumb_112022,3.jpg)
 
 Generation by Knoll®](https://www.knoll.com/design-plan/product/generation-by-knoll?section=design)
 
-[![](/media/343/594/Thumb_regenthumb_112022,3.jpg)
-
-ReGeneration by Knoll®](https://www.knoll.com/design-plan/product/regeneration-by-knoll?section=design)
-
-[![](/media/462/56/Thumb_antenna-workspaces-knoll-default,5.png)
-
-Antenna Workspaces®](https://www.knoll.com/design-plan/product/antenna-workspaces?section=design)
-
-[![](/media/188/370/Thumb_dividends-horizon-knoll-default,5.png)
-
-Dividends Horizon®](https://www.knoll.com/story/design-plan/dividends-horizon)
-
-[![](/media/997/539/Thumb_rockwell-unscripted-creative-wall-default,3.png)
-
-Rockwell Unscripted® Creative Wall®](https://www.knoll.com/design-plan/product/rockwell-unscripted-creative-wall?section=design)
-
 [![](/media/330/676/Thumb_k-stand-880,3.png)
 
 k. stand™ Height‑Adjustable Tables](https://www.knoll.com/design-plan/product/k-stand-height-adjustable-tables?section=design)
 
-[![](/media/694/705/Thumb_k-bench-height-adjustable-benching-default,3.png)
+[![](/media/322/824/Thumb_Lev-by-Knoll-Thumb,10.jpg)
 
-k.™ bench Height‑Adjustable Benching](https://www.knoll.com/design-plan/product/k-bench?section=design)
+Lev by Knoll Height‑Adjustable Table](https://www.knoll.com/design-plan/product/lev-by-knoll?section=design)
+
+[![](/media/415/488/Thumb_dividends-horizon-default,3.jpg)
+
+Cove Collection by Knoll™](https://www.knoll.com/design-plan/product/cove-collection?section=design)
 
 [![](/media/779/985/Thumb_anchor-880,5.png)
 
 Anchor™](https://www.knoll.com/design-plan/product/anchor?section=design)
 
-[![](/media/327/131/Thumb_quoin-thumbnail,3.png)
+[![](/media/480/170/Thumb_series-2-thumb,3.jpg)
 
-Quoin™](https://www.knoll.com/design-plan/product/quoin?section=design)
+Series 2 Storage](https://www.knoll.com/design-plan/product/series-2?section=design)
+
+[![](/media/462/56/Thumb_antenna-workspaces-knoll-default,5.png)
+
+Antenna Workspaces®](https://www.knoll.com/design-plan/product/antenna-workspaces?section=design)
+
+[![](/media/343/594/Thumb_regenthumb_112022,3.jpg)
+
+ReGeneration by Knoll®](https://www.knoll.com/design-plan/product/regeneration-by-knoll?section=design)
+
+[![](/media/853/695/Thumb_life-task-chair-default,3.png)
+
+Life®](https://www.knoll.com/design-plan/product/life?section=design)
 
 Helpful Links
 -------------
 
-[3D Furniture Symbols
+[Surface Finish Library
 
-Page](https://www.knoll.com/design-plan/resources/furniture-symbols)[Knoll Showrooms
+Page](https://www.knoll.com/design-plan/resources/surface-finishes)[Photo and Media Bank
 
-Page](https://www.knoll.com/locations/knoll-showrooms)[How to Purchase
+Page](https://www.knoll.com/design-plan/resources/media-bank)[Price Lists
 
-Page](https://www.knoll.com/design-plan/resources/purchasing-knoll-2)[Sales Teams
+Page](https://www.knoll.com/design-plan/resources/price-lists)[3D Furniture Symbols
+
+Page](https://www.knoll.com/design-plan/resources/furniture-symbols)[How to Purchase
+
+Page](https://www.knoll.com/design-plan/resources/purchasing-knoll-2)[Knoll Showrooms
+
+Page](https://www.knoll.com/locations/knoll-showrooms)[Sales Teams
 
 Page](https://www.knoll.com/design-plan/teams)
 
