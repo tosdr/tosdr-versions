@@ -789,11 +789,11 @@ Change language:
 
 **iPages Dev tools**
 
-Page built: **Wed Oct 30 2024 17:07:20 GMT**
+Page built: **Tue Nov 12 2024 16:56:23 GMT**
 
 Site ID: **ipages-using-the-bbc**
 
-Built from: **master @ b999663**
+Built from: **master @ 1dd4a32**
 
 ### Rebuild Page
 
@@ -803,7 +803,13 @@ Rebuild page
 
 ### Useful links
 
-[View in iSite](https://production.bbc.co.uk/isite2-xforms/fr/ipages-using-the-bbc/page-standard/edit/78715e05-06c3-409c-ab1d-3ec8926782d4) View page XML View in iPages Dashboard
+[View in iSite](https://production.bbc.co.uk/isite2-xforms/fr/ipages-using-the-bbc/page-standard/edit/78715e05-06c3-409c-ab1d-3ec8926782d4) View page XML View JSON cache View in iPages Dashboard
+
+### Demo mode
+
+Hides preview environment warning banner on preview pages.
+
+ On  Off
 
 ### Theme toggler
 
