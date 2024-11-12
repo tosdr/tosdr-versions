@@ -30,14 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908)
+    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/kewanee-animal-cruelty-puppy-man-charged/526-584625df-2c70-471d-bbbd-fb088bb6681f)
         
-        #### [Moline middle schooler detained after bringing BB gun to school, police say](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908) [![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908)
+        #### [Kewanee man charged with animal cruelty after officials say he threw an 8-week-old puppy](https://www.wqad.com/article/news/crime/kewanee-animal-cruelty-puppy-man-charged/526-584625df-2c70-471d-bbbd-fb088bb6681f) [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/kewanee-animal-cruelty-puppy-man-charged/526-584625df-2c70-471d-bbbd-fb088bb6681f)
         
-        #### [Police: Moline middle schooler brings BB gun to school, detained](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908)
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/025c15bf-7dc5-4e77-8fd8-e5af19b2b516/20241112T042319/025c15bf-7dc5-4e77-8fd8-e5af19b2b516_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/025c15bf-7dc5-4e77-8fd8-e5af19b2b516/20241112T042319/025c15bf-7dc5-4e77-8fd8-e5af19b2b516_360x203.jpg)](https://www.wqad.com/article/news/local/vote/yes-in-illinois-anyone-can-find-out-if-you-voted-in-the-general-election/63-c4ebe339-507c-438a-870a-ab0a7303258c)
+        #### [Police: Kewanee man charged with animal cruelty after he choked, threw 8-week-old puppy](https://www.wqad.com/article/news/crime/kewanee-animal-cruelty-puppy-man-charged/526-584625df-2c70-471d-bbbd-fb088bb6681f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6b05cac8-8192-4f57-8d22-1ec3042c5e68/20241108T040829/6b05cac8-8192-4f57-8d22-1ec3042c5e68_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6b05cac8-8192-4f57-8d22-1ec3042c5e68/20241108T040829/6b05cac8-8192-4f57-8d22-1ec3042c5e68_360x203.jpg)](https://www.wqad.com/article/news/local/american-freight-bankrupt-closure-iowa-illinois-locations/526-baabc2a3-5fb5-4063-8827-6e83a4e2568e)
         
-        #### [Yes, in Illinois, anyone can find out if you voted in the general election](https://www.wqad.com/article/news/local/vote/yes-in-illinois-anyone-can-find-out-if-you-voted-in-the-general-election/63-c4ebe339-507c-438a-870a-ab0a7303258c)
+        #### [Bankrupt furniture chain closing all locations, including those in Iowa and Illinois](https://www.wqad.com/article/news/local/american-freight-bankrupt-closure-iowa-illinois-locations/526-baabc2a3-5fb5-4063-8827-6e83a4e2568e)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTSP/images/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2/20241110T134442/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2/20241110T134442/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/fema-worker-fired-avoid-helping-hurricane-survivors-trump/67-da729852-06aa-44d2-8de6-0c85aa0e4405)
+    *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
-        #### [FEMA worker fired after directing other workers to avoid helping hurricane victims who supported Trump](https://www.wqad.com/article/weather/hurricane/fema-worker-fired-avoid-helping-hurricane-survivors-trump/67-da729852-06aa-44d2-8de6-0c85aa0e4405)
+        #### [Driver dies after ignoring blockades, plummeting into North Carolina gorge](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/bdb67f1c-e5cf-41d4-810d-6ca4319907d2/20241112T134306/bdb67f1c-e5cf-41d4-810d-6ca4319907d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bdb67f1c-e5cf-41d4-810d-6ca4319907d2/20241112T134306/bdb67f1c-e5cf-41d4-810d-6ca4319907d2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -87,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-45°
+44°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
