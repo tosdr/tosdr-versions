@@ -67,9 +67,6 @@ Skip to main content
     [Dashboard](https://www.wevideo.com/app) [Log out](#)
     
 
-* [Home](https://www.wevideo.com/ "WeVideo")
-* **DPA**
-
 Data Processing Addendum
 ========================
 
