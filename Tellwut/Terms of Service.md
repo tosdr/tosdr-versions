@@ -1,10 +1,10 @@
   
   
-   Terms And Conditions | Tellwut.com                              
+   Terms And Conditions | Tellwut.com                               
 
 [](https://www.tellwut.com/)
 
- [![Open Sweepstake](/images/sweepstake.png)](javascript:void(0);)Sign Up Login
+[![Open Sweepstake](/images/sweepstake.png)](javascript:void(0);)Sign Up Login
 
 EARN
 
@@ -377,9 +377,9 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 * [Affiliate](https://www.tellwut.com/affiliates)
 * [Advertising](https://www.tellwut.com/advertising)
 
-* Surveys: **91,382**
+* Surveys: **91,395**
 
-* Voters: **2,952,894**
+* Voters: **2,953,413**
 
 * Light / Dark / Auto
 
