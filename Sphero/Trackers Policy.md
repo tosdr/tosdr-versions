@@ -111,7 +111,7 @@ Login / Signup
 Login
 -----
 
-Enter your e-mail and password:
+Enter your email and password:
 
  Email
 
