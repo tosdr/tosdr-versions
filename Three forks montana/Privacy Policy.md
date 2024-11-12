@@ -6,7 +6,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
-![](/imgD/weatherbit_icons/s04d.png) Today's weather: Mix snow/rain 47°/17°
+![](/imgD/weatherbit_icons/r04d.png) Today's weather: Light shower rain 47°/17°
 
 [![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
 
@@ -42,7 +42,6 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
         * [City Contacts](https://www.threeforksmontana.us/city-contacts)
         * [Code Compliance](https://www.threeforksmontana.us/code-compliance)
         * [Court](https://www.threeforksmontana.us/court)
-            * [Court Calendar & Dress Code](https://www.threeforksmontana.us/court-calendar-and-dress-code)
     * [City Council Meetings](https://www.threeforksmontana.us/city-council-meetings)
         * [Council Agendas](https://www.threeforksmontana.us/council-agendas)
         * [Council Minutes](https://www.threeforksmontana.us/council-minutes)
