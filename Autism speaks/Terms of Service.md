@@ -192,12 +192,7 @@ Please enter your location to help us display the correct information for your a
 
   
 
-    
-
-Autism Speaks Walk is the world's largest autism fundraising event
-==================================================================
-
-[Walk with us](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=24Hero)
+[![Gifts matched for World Kindness Day - Your donation will be 2x matched - Donate today!](/sites/default/files/WDK-24-2340x804-transparent.png "Gifts 2x matched for World Kindness Day")](https://donate.autismspeaks.org/-/XTTHJLTJ)
 
 Autism information and support
 
