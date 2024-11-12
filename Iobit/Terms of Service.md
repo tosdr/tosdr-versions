@@ -2,7 +2,7 @@
 
 PC Health Solution](https://www.iobit.com/en/index.php)
 
-* [![SALE](../tpl/images/2024/blackfriday/nav_sale_icon.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=navi_iconbfs)
+*  [![Black Friday](../tpl/images/2022blackfriday/nav_icon.png) ![Black Friday](../tpl/images/2022blackfriday/nav_icon_hover.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=navi_iconbfs)
     
     [![Time-Limited 90% OFF >](../tpl/images/2024/blackfriday/nav_off_icon.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=navi_iconbfd)
     
