@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off All Home Safety Prodcts I Code: HOME15](https://www.thehomesecuritysuperstore.com/collections/home-safety?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Home+Safety+Prodcts)
+[20% Off All Self-Defense Batons | Code: BATON20](https://www.thehomesecuritysuperstore.com/collections/batons?utm_source=website&utm_medium=banner&utm_campaign=20%25+Off+All+Self-Defense+Batons)
 
-TODAY'S OFFER: :: | 15% Off All Home Safety Prodcts I Code: HOME15
+TODAY'S OFFER: :: | 20% Off All Self-Defense Batons | Code: BATON20
 
 TODAY'S OFFER: : :
 
- 15% Off All Home Safety Prodcts I Code: HOME15
+ 20% Off All Self-Defense Batons Code: BATON20
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
