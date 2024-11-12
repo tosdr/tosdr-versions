@@ -38,7 +38,7 @@ The Government's Response To Our Petition
 The Unsealing Order
 -------------------
 
-[Tweet](https://twitter.com/intent/tweet?text=Grand%20jury%20subpoena%20for%20Signal%20user%20data,%20Eastern%20District%20of%20Virginia&url=https://signal.org/bigbrother/eastern-virginia-grand-jury/&via=signalapp&related=signalapp "Share on Twitter") [Facebook](https://facebook.com/sharer.php?u=https://signal.org/bigbrother/eastern-virginia-grand-jury/ "Share on Facebook")
+[Tweet](https://twitter.com/intent/tweet?text=Grand+jury+subpoena+for+Signal+user+data%2C+Eastern+District+of+Virginia&url=https://signal.org/bigbrother/eastern-virginia-grand-jury/&via=signalapp&related=signalapp "Share on Twitter") [Facebook](https://facebook.com/sharer.php?u=https://signal.org/bigbrother/eastern-virginia-grand-jury/ "Share on Facebook")
 
 ### Don't have Signal? [Give it a try!](https://signal.org/download/)
 
