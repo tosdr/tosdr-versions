@@ -95,6 +95,14 @@ Pay Bill
 [![Commerce Cloud Storefront Reference Architecture](https://images.publicstorage.com/Branding/logo-brand-crop.png?width=100&height=53)](https://www.publicstorage.com/ "Public Storage Home")
 
 * [Find Storage](https://www.publicstorage.com/self-storage-search)
+* Storage Solutions
+    * [Decluttering](https://www.publicstorage.com/storage-solutions/decluttering)
+    * [Living Abroad](https://www.publicstorage.com/storage-solutions/living-abroad)
+    * [Military Storage](https://www.publicstorage.com/storage-solutions/military-storage)
+    * [Seasonal Storage](https://www.publicstorage.com/storage-solutions/seasonal-storage)
+    * [Storage FAQs](https://www.publicstorage.com/storage-solutions/storage-faqs)
+    * [Life Transitions](https://www.publicstorage.com/storage-solutions/storage-for-life-transitions)
+    * [Storage Lockers](https://www.publicstorage.com/storage-solutions/storage-lockers)
 * [Size Guide](https://www.publicstorage.com/size-guide)
 * Storage Types
     * [Self Storage](https://www.publicstorage.com/self-storage)
