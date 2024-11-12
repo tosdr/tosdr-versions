@@ -82,7 +82,7 @@ Trending Posts
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
 
 Close
 
@@ -146,7 +146,7 @@ Trending Posts
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
 
 [Skip to content](#main)
 
