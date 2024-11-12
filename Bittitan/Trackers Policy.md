@@ -133,7 +133,7 @@
 * [Report the use of Unlicensed Software](https://www.ideracorp.com/legal/reportus)
 * [Copyright Infringement and Takedown Policy](https://www.ideracorp.com/Legal/BitTitan/Copyright-Infringement-Notification)
 
-![](https://www.bittitan.com/wp-content/uploads/2023/05/BT_IDERA-Logo_Horizontal-on-Dark.png "BT_IDERA-Logo_Horizontal-on-Dark")
+![](https://www.bittitan.com/wp-content/uploads/2024/10/Logo_Standard-on-Dark.png "Logo_Standard on Dark")
 
 Search for:     
 
