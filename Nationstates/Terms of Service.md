@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Turnabout Trump (3,263)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,263 posts)")
-* [Compliment AN's Lore (96)](https://forum.nationstates.net/viewtopic.php?t=555312&f=25&view=unread#unread ""Compliment AN's Lore" (96 posts)")
-* [2023-24 Israel-Iran proxy conflict (1,614)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,614 posts)")
-* [Your favorite part of AN’s forum sig XI (4,520)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (4,520 posts)")
-* [The Collective Security League Assemb… (1,411)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,411 posts)")
+* [Empires: 2024 REVIVED IC (310)](https://forum.nationstates.net/viewtopic.php?t=557841&f=31&view=unread#unread ""Empires: 2024 REVIVED IC" (310 posts)")
+* [The country game(a roleplay) (8,438)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (8,438 posts)")
+* [American Politics: Turnabout Trump (3,535)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,535 posts)")
+* [\[Abortion Thread\] To rules? To conseq… (1,657)](https://forum.nationstates.net/viewtopic.php?t=549913&f=20&view=unread#unread ""[Abortion Thread] To rules? To consequences!" (1,657 posts)")
+* [Where do Democrats go from here? (578)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (578 posts)")
 
 Advertisement
 
