@@ -20,16 +20,16 @@ Tuesday, November 12 2024
 
 Latest
 
-* [New Ymir ransomware partners with RustyStealer in attacks](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
-* [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
-* [I May Finally Yield to the Dyson Airwrap, Thanks to This Insane Early Black Friday Deal!](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
-* [Amazon confirms employee data compromised amid 2023 MOVEit breach claims – but the hacker behind the leak says a host of other big tech names are also implicated](https://digitpatrox.com/amazon-confirms-employee-data-compromised-amid-2023-moveit-breach-claims-but-the-hacker-behind-the-leak-says-a-host-of-other-big-tech-names-are-also-implicated/)
-* [12 Google Docs Hacks Every Student Should Know](https://digitpatrox.com/12-google-docs-hacks-every-student-should-know/)
-* [Unsafe Infant Sleep Products Are Still Easy to Find Online](https://digitpatrox.com/unsafe-infant-sleep-products-are-still-easy-to-find-online/)
-* [The First Apple Music Book Will Cost You $450](https://digitpatrox.com/the-first-apple-music-book-will-cost-you-450/)
-* [Power supply shortages are a ticking time bomb for data center operators](https://digitpatrox.com/power-supply-shortages-are-a-ticking-time-bomb-for-data-center-operators/)
-* [7 Best CRM Software for Startups](https://digitpatrox.com/7-best-crm-software-for-startups/)
-* [Mila Air Purifier Review | Tom’s Guide](https://digitpatrox.com/mila-air-purifier-review-toms-guide/)
+* [Why you should always offboard outgoing staff: A disgruntled ex-Disney employee targeted former colleagues with DDoS attacks and hacked its menu system to change peanut allergen information](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
+* [Navigating Global Compliance for Shopify Merchants](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
+* [Beware! The Samsung OLED panel lottery might be back in 2025 — here’s what it means for you](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
+* [Signal introduces convenient “call links” for private group chats](https://digitpatrox.com/signal-introduces-convenient-call-links-for-private-group-chats/)
+* [The slim PS5 is getting a price cut for the holidays](https://digitpatrox.com/the-slim-ps5-is-getting-a-price-cut-for-the-holidays/)
+* [Fortnite OG is Permanently Returning in December](https://digitpatrox.com/fortnite-og-is-permanently-returning-in-december/)
+* [Nearly half of workers think using AI makes them look lazy and incompetent](https://digitpatrox.com/nearly-half-of-workers-think-using-ai-makes-them-look-lazy-and-incompetent/)
+* [Box adds AI agent and no-code app builder tools – Computerworld](https://digitpatrox.com/box-adds-ai-agent-and-no-code-app-builder-tools-computerworld/)
+* [When to Watch the Leonid Meteor Shower This Weekend](https://digitpatrox.com/when-to-watch-the-leonid-meteor-shower-this-weekend/)
+* [How to make and receive calls on Windows 11, 10](https://digitpatrox.com/how-to-make-and-receive-calls-on-windows-11-10/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/02/20/ransomware.jpg)](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
+* [![](https://cdn.mos.cms.futurecdn.net/5ZGYoUNiZkmirm75MMLJPF-1200-80.jpg)](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
     
-    [New Ymir ransomware partners with RustyStealer in attacks](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
+    [Why you should always offboard outgoing staff: A disgruntled ex-Disney employee targeted former colleagues with DDoS attacks and hacked its menu system to change peanut allergen information](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
     
-    9 seconds ago
+    14 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/t1zx7m8eNJ6upFzeemPLsWXi6N4=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25298160/nvidia_app_key_visual.jpg)](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/ecommerce-2023-11-27-04-49-52-utc.jpg)](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
     
-    [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
+    [Navigating Global Compliance for Shopify Merchants](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
     
     18 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Black-Friday-Dyson-Airwrap-Deal.jpg)](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
+* [![](https://cdn.mos.cms.futurecdn.net/pwL8QuZvZcjc2mCNRLFAiE-1200-80.jpg)](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
     
-    [I May Finally Yield to the Dyson Airwrap, Thanks to This Insane Early Black Friday Deal!](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
+    [Beware! The Samsung OLED panel lottery might be back in 2025 — here’s what it means for you](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
     
-    37 mins ago
+    22 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/2B9Jf7dfcUvu2kKmsDvM3S-1200-80.jpg)](https://digitpatrox.com/amazon-confirms-employee-data-compromised-amid-2023-moveit-breach-claims-but-the-hacker-behind-the-leak-says-a-host-of-other-big-tech-names-are-also-implicated/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/10/14/signal-header-white.jpg)](https://digitpatrox.com/signal-introduces-convenient-call-links-for-private-group-chats/)
     
-    [Amazon confirms employee data compromised amid 2023 MOVEit breach claims – but the hacker behind the leak says a host of other big tech names are also implicated](https://digitpatrox.com/amazon-confirms-employee-data-compromised-amid-2023-moveit-breach-claims-but-the-hacker-behind-the-leak-says-a-host-of-other-big-tech-names-are-also-implicated/)
+    [Signal introduces convenient “call links” for private group chats](https://digitpatrox.com/signal-introduces-convenient-call-links-for-private-group-chats/)
     
     2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01HFQEQZEX90CXAG91SB3MMBFW/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/12-google-docs-hacks-every-student-should-know/)
+* [![](https://cdn.vox-cdn.com/thumbor/NOcMbBRAvDeH-T69JvkUXnySPn0=/0x0:1000x1000/1200x628/filters:focal(500x500:501x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25471726/playstation_5_slim_digital.jpg)](https://digitpatrox.com/the-slim-ps5-is-getting-a-price-cut-for-the-holidays/)
     
-    [12 Google Docs Hacks Every Student Should Know](https://digitpatrox.com/12-google-docs-hacks-every-student-should-know/)
+    [The slim PS5 is getting a price cut for the holidays](https://digitpatrox.com/the-slim-ps5-is-getting-a-price-cut-for-the-holidays/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 seconds ago
+* [14 mins ago
     
-    ### New Ymir ransomware partners with RustyStealer in attacks](https://digitpatrox.com/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
+    ### Why you should always offboard outgoing staff: A disgruntled ex-Disney employee targeted former colleagues with DDoS attacks and hacked its menu system to change peanut allergen information](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
 * [18 mins ago
     
-    ### Nvidia’s new app replacement for GeForce Experience is now out of beta](https://digitpatrox.com/nvidias-new-app-replacement-for-geforce-experience-is-now-out-of-beta/)
-* [37 mins ago
+    ### Navigating Global Compliance for Shopify Merchants](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
+* [22 mins ago
     
-    ### I May Finally Yield to the Dyson Airwrap, Thanks to This Insane Early Black Friday Deal!](https://digitpatrox.com/i-may-finally-yield-to-the-dyson-airwrap-thanks-to-this-insane-early-black-friday-deal/)
+    ### Beware! The Samsung OLED panel lottery might be back in 2025 — here’s what it means for you](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
 
 Most Popular Topics
 
-* [September 27, 2024
+* [September 16, 2024
     
-    ### Tails Linux Is Teaming up With the Tor Project](https://digitpatrox.com/tails-linux-is-teaming-up-with-the-tor-project/)
-* [2 weeks ago
+    ### Windows 10 Home and Pro ISO files for 32- and 64-bit PCs ready for download](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
+* [3 weeks ago
     
-    ### Best Handheld Leaf Blowers of 2024](https://digitpatrox.com/best-handheld-leaf-blowers-of-2024/)
-* [1 day ago
+    ### Stable Diffusion 3.5 Is Out with Better Performance & the Right Number of Limbs](https://digitpatrox.com/stable-diffusion-3-5-is-out-with-better-performance-the-right-number-of-limbs/)
+* [August 23, 2024
     
-    ### Jio 5G Has a New Trick up Its Sleeve to Help Save Your Phone’s Battery Life](https://digitpatrox.com/jio-5g-has-a-new-trick-up-its-sleeve-to-help-save-your-phones-battery-life/)
+    ### Home Depot’s Labor Day sale is live — 23 deals I’d shop now on grills, patio furniture and more](https://digitpatrox.com/home-depots-labor-day-sale-is-live-23-deals-id-shop-now-on-grills-patio-furniture-and-more/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### The First Apple Music Book Will Cost You $450](https://digitpatrox.com/the-first-apple-music-book-will-cost-you-450/)
 * [4 hours ago
     
-    ### Power supply shortages are a ticking time bomb for data center operators](https://digitpatrox.com/power-supply-shortages-are-a-ticking-time-bomb-for-data-center-operators/)
+    ### Nearly half of workers think using AI makes them look lazy and incompetent](https://digitpatrox.com/nearly-half-of-workers-think-using-ai-makes-them-look-lazy-and-incompetent/)
 * [4 hours ago
     
-    ### 7 Best CRM Software for Startups](https://digitpatrox.com/7-best-crm-software-for-startups/)
+    ### Box adds AI agent and no-code app builder tools – Computerworld](https://digitpatrox.com/box-adds-ai-agent-and-no-code-app-builder-tools-computerworld/)
+* [4 hours ago
+    
+    ### When to Watch the Leonid Meteor Shower This Weekend](https://digitpatrox.com/when-to-watch-the-leonid-meteor-shower-this-weekend/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
