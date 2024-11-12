@@ -77,7 +77,10 @@ Menu
         
     * [Etudier à la HES-SO](https://www.hes-so.ch/la-hes-so/etudier-a-la-hes-so)
     * [Soutien à l'enseignement](https://www.hes-so.ch/la-hes-so/soutien-a-lenseignement)
-    * [Digitalisation](https://www.hes-so.ch/la-hes-so/digitalisation)
+    * [Digitalisation](https://www.hes-so.ch/la-hes-so/digitalisation "/la-hes-so/digitalisation")
+        
+        * [L'IA à la HES-SO](https://www.hes-so.ch/la-hes-so/digitalisation/ia)
+        
     * [Durabilité](https://www.hes-so.ch/la-hes-so/durabilite)
     * [Egalité et Diversité](https://www.hes-so.ch/la-hes-so/egalite-et-diversite)
     * [International](https://www.hes-so.ch/la-hes-so/international)
