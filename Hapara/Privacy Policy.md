@@ -14,7 +14,7 @@
         * [Prince George’s County Public Schools](https://hapara.com/blog/prince-georges-county-public-schools-k-12-tech-rollout-roadmap/)
         * [Wolf Creek Public Schools](https://hapara.com/blog/creating-success-for-all-learners-at-wolf-creek-public-schools/)
         * [Alberta Collaboration for Learning](https://hapara.com/blog/driving-equity-in-alberta-canada-through-collaboration/)
-        * [More customer stories >](https://hapara.com/blog/customer-stories/)
+        * [More customer stories →](https://hapara.com/blog/customer-stories/)
 * Products
     * [Col 1](#)
         * School/District PricingSee why Hāpara is the best value for safe and focused digital learning.
