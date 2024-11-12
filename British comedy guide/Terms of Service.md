@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Paulina Lenoir. Credit: David Pickens](https://cdn.comedy.co.uk/images/library/people/300x200/p/paulina_lenoir_b.jpg "Paulina Lenoir. Credit: David Pickens")](https://www.comedy.co.uk/live/random8/paulina-lenoir/) Live
+
+[Random 8: Paulina Lenoir](https://www.comedy.co.uk/live/random8/paulina-lenoir/)
+
 [![Fern Brady. Credit: Raphaël Neal](https://cdn.comedy.co.uk/images/library/people/300x200/f/fern_brady_2021.jpg "Fern Brady. Credit: Raphaël Neal")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-59/) Live
 
 [Fern Brady, The Weirdos, Anirban Dasgupta, Andrew Doherty - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-59/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![A Christmas Carol(ish). David Elms. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/d/david_elms_christmas_carol_ish.jpg "A Christmas Carol(ish). David Elms. Credit: Matt Crockett")](https://www.comedy.co.uk/live/fgwg/david-elms/) Live
 
 [First Gig, Worst Gig: David Elms](https://www.comedy.co.uk/live/fgwg/david-elms/)
-
-[![Rhys James. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/r/rhys_james_2022.jpg "Rhys James. Credit: Matt Crockett")](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/) Shop
-
-[Rhys James talks about his Spilt Milk special](https://www.comedy.co.uk/shop/features/rhys-james-spilt-milk-interview/)
 
 #### Subscribe to our newsletters
 
