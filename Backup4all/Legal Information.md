@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to schedule an existing backup job](https://www.backup4all.com/how-to-schedule-an-existing-backup-job-kb.html)  
+* [How to restore from Hitachi](https://www.backup4all.com/how-to-restore-from-hitachi-kb.html)  
     
-* [How to schedule all jobs?](https://www.backup4all.com/how-to-schedule-all-groups-kb.html)  
+* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
     
-* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
+* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
     
-* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
+* [Backup4all back up destinations](https://www.backup4all.com/backup4all-back-up-destinations-kb.html)  
     
-* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
+* [How to back up data files from NiftyClouds us ...](https://www.backup4all.com/how-to-back-up-data-files-from-niftyclouds-using-backup4all-kb.html)  
     
 
 Choose language:
