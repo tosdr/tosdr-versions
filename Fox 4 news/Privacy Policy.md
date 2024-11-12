@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Driver jumps from overpass into Trinity River after crash on I-35 in Fort Worth, causing heavy traffic](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111224-121-sylvania-ave-crash-kdfweme002_05_46_15__00.07.37.28.jpg?ve=1&tl=1)
+
+ ![Driver jumps from overpass into Trinity River after crash on I-35 in Fort Worth, causing heavy traffic](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111224-121-sylvania-ave-crash-kdfweme002_05_46_15__00.07.37.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/i-35-121-traffic-driver-jumps-trinity)
+
+### [Driver jumps from overpass into Trinity River after crash on I-35 in Fort Worth, causing heavy traffic](https://www.fox4news.com/news/i-35-121-traffic-driver-jumps-trinity)
+
+ [![How many House seats are still undecided? GOP close to majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183367837.jpg?ve=1&tl=1)
+
+ ![How many House seats are still undecided? GOP close to majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183367837.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/house-election-results-majority-republicans-democrats-races-still-undecided)
+
+### [How many House seats are still undecided? GOP close to majority](https://www.fox4news.com/news/house-election-results-majority-republicans-democrats-races-still-undecided)
+
  [![Dead body found wrapped up in Garland condo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111124-garland-chaha-rd-body-found-raw-lv_00.05.17.18.jpg?ve=1&tl=1)
 
  ![Dead body found wrapped up in Garland condo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111124-garland-chaha-rd-body-found-raw-lv_00.05.17.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/garland-body-found-chaha-condo)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![DeSoto woman shoots armed intruder who followed her home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-peyton-desoto-raintree-cir-shooting-1030p_00.02.00.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-woman-shoots-armed-intruder-who-followed-her-home)
 
 ### [DeSoto woman shoots armed intruder who followed her home](https://www.fox4news.com/news/desoto-woman-shoots-armed-intruder-who-followed-her-home)
-
- [![Texas Michelin Guide: Here are your Michelin star restaurants & honorable mentions](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2144490955.jpg?ve=1&tl=1)
-
- ![Texas Michelin Guide: Here are your Michelin star restaurants & honorable mentions](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2144490955.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-updates-texas-michelin-star-restaurants-winners-guide-2024)
-
-### [Texas Michelin Guide: Here are your Michelin star restaurants & honorable mentions](https://www.fox4news.com/news/live-updates-texas-michelin-star-restaurants-winners-guide-2024)
-
- [![How many House seats are still undecided? GOP close to majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183367837.jpg?ve=1&tl=1)
-
- ![How many House seats are still undecided? GOP close to majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183367837.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/house-election-results-majority-republicans-democrats-races-still-undecided)
-
-### [How many House seats are still undecided? GOP close to majority](https://www.fox4news.com/news/house-election-results-majority-republicans-democrats-races-still-undecided)
 
 ###### [News](https://www.fox4news.com/news)
 
