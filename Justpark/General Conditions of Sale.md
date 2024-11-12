@@ -64,7 +64,7 @@ _For this refund type, the transaction fee is non refundable._
 * Cancelled more than 24 hrs but less than 21 days before the booking starts AND booking value is less than £50
 * Refunds to your Wallet will be instant and can be used to make a new booking right away
 
-\*For this refund type, the transaction fee is added back to your JustPark Wallet, to be deducted on the next successful transaction.\*
+_For this refund type, the transaction fee is added back to your JustPark Wallet, to be deducted on the next successful transaction._
 
 * * *
 
