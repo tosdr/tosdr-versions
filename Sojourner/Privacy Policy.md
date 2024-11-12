@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e03510a3a4e0989e24b0dc12db46080a
+927dcd5a73e223844d7f8717f72a3f46
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm irregular round bone beads](https://www.sojourner.biz/images/cache/BN0002.200.jpg)](https://www.sojourner.biz/beads/bone/10-mm-irregular-round-bone-beads.html "10 mm irregular round bone beads")
+[![12 mm to 14 mm brown rectangular pearls](https://www.sojourner.biz/images/cache/pearls/PE0087.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-brown-rectangular-pearls.html "12 mm to 14 mm brown rectangular pearls")
 
-#### [10 mm irregular round bone beads](https://www.sojourner.biz/beads/bone/10-mm-irregular-round-bone-beads.html "10 mm irregular round bone beads")
+#### [12 mm to 14 mm brown rectangular pearls](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-brown-rectangular-pearls.html "12 mm to 14 mm brown rectangular pearls")
 
-$31.00
+$16.50
 
 ### Best Sellers
 
