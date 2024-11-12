@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We understand human mental processes only slightly better than a fish understands swimming”
+“ Get as much education as you can. Nobody can take that away from you”
 
-[John McCarthy](http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29)
+[Eben Upton](http://lifehacker.com/5978324/im-eben-upton-executive-director-of-the-raspberry-pi-foundation-and-this-is-how-i-work)
 
 [](https://www.adafruit.com/about)
 
