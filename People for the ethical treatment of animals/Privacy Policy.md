@@ -512,7 +512,7 @@ International Sites
 
 Share Post [Donate](https://headlines.peta.org/donate/ "Donate")
 
-**Text [APPLE](sms:73822?&body=APPLE) to [73822](sms:73822?&body=APPLE) to urge Apple to stop exploiting primates for movies & shows, like they did in _Bad Monkey_. Monkeys aren’t actors!**
+**[Click here](sms:73822?&body=OKC) to text [OKC](sms:73822?&body=OKC) to [73822](sms:73822?&body=OKC) to take action after a dog was mauled to death at an Oklahoma City shelter!**
 
 Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
