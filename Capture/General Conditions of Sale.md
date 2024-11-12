@@ -152,7 +152,7 @@
     * [Our Story](https://www.capture.com/pages/our-story)
     * [Blog](https://www.capture.com/pages/blog)
     
-* [Gift Ideas](https://www.capture.com/pages/gift-ideas)
+* [Gift Ideas 🎁](https://www.capture.com/pages/gift-ideas)
 * [Reviews](https://www.capture.com/pages/capture-reviews)
 * Help
     
@@ -298,7 +298,7 @@
     * [Our Story](https://www.capture.com/pages/our-story)
     * [Blog](https://www.capture.com/pages/blog)
     
-* [Gift Ideas](https://www.capture.com/pages/gift-ideas)
+* [Gift Ideas 🎁](https://www.capture.com/pages/gift-ideas)
 * [Reviews](https://www.capture.com/pages/capture-reviews)
 * Help
     
