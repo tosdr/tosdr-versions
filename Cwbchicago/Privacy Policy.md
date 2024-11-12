@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/CPD-patch-2024-generic-edited-326x245.jpg)](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
+
+South Loop
+
+### [Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
+
+[November 9, 2024 10:07 AM](https://cwbchicago.com/2024/11)
+
+The parents of a woman found dead in the stairwell of a South Loop luxury high-rise are asking a judge to block the woman’s husband from claiming her remains.[](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Raylon-East-Navy-Pier-326x245.jpg)](https://cwbchicago.com/2024/11/ex-employee-charged-with-double-murder-at-navy-pier.html "Ex-employee charged with double murder at Navy Pier")
+
+Streeterville
+
+### [Ex-employee charged with double murder at Navy Pier](https://cwbchicago.com/2024/11/ex-employee-charged-with-double-murder-at-navy-pier.html "Ex-employee charged with double murder at Navy Pier")
+
+[November 9, 2024 7:53 AM](https://cwbchicago.com/2024/11)
+
+Prosecutors have charged a man with murdering two of his former co-workers in an office at Navy Pier this week.[](https://cwbchicago.com/2024/11/ex-employee-charged-with-double-murder-at-navy-pier.html "Ex-employee charged with double murder at Navy Pier")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/1900-block-north-california-chicago-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-logan-square-overnight.html "Man shot in Logan Square overnight")
 
 Logan Square
@@ -252,26 +272,6 @@ Logan Square
 [November 9, 2024 7:23 AM](https://cwbchicago.com/2024/11)
 
 The 35-year-old was in the 1900 block of North California when he got into an argument with a man in a red sedan around 3:15 a.m., according to police.[](https://cwbchicago.com/2024/11/man-shot-in-logan-square-overnight.html "Man shot in Logan Square overnight")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Zander-Glas-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-with-robbing-cta-passenger-while-on-pretrial-release-for-allegedly-attacking-a-cta-guard-and-on-probation-for-breaking-cta-windows.html "Man charged with robbing CTA passenger while on pretrial release for allegedly attacking a CTA guard and on probation for breaking CTA windows")
-
-Archer Heights
-
-### [Man charged with robbing CTA passenger while on pretrial release for allegedly attacking a CTA guard and on probation for breaking CTA windows](https://cwbchicago.com/2024/11/man-charged-with-robbing-cta-passenger-while-on-pretrial-release-for-allegedly-attacking-a-cta-guard-and-on-probation-for-breaking-cta-windows.html "Man charged with robbing CTA passenger while on pretrial release for allegedly attacking a CTA guard and on probation for breaking CTA windows")
-
-[November 8, 2024 7:51 PM](https://cwbchicago.com/2024/11)
-
-A man charged with robbing a woman on the CTA is so familiar with Chicago cops that one of them recognized him on video of the crime and still had his phone number, making it easy to reach out and arrange for his surrender.[](https://cwbchicago.com/2024/11/man-charged-with-robbing-cta-passenger-while-on-pretrial-release-for-allegedly-attacking-a-cta-guard-and-on-probation-for-breaking-cta-windows.html "Man charged with robbing CTA passenger while on pretrial release for allegedly attacking a CTA guard and on probation for breaking CTA windows")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/10/Julius-Wilkerson-326x245.jpg)](https://cwbchicago.com/2024/11/3-years-for-man-who-attacked-people-with-a-baseball-bat-in-lincoln-park.html "3 years for man who attacked people with a baseball bat in Lincoln Park")
-
-Lincoln Park
-
-### [3 years for man who attacked people with a baseball bat in Lincoln Park](https://cwbchicago.com/2024/11/3-years-for-man-who-attacked-people-with-a-baseball-bat-in-lincoln-park.html "3 years for man who attacked people with a baseball bat in Lincoln Park")
-
-[November 8, 2024 11:31 AM](https://cwbchicago.com/2024/11)
-
-A man pleaded guilty this week to randomly attacking three people with a baseball bat in Lincoln Park last year.[](https://cwbchicago.com/2024/11/3-years-for-man-who-attacked-people-with-a-baseball-bat-in-lincoln-park.html "3 years for man who attacked people with a baseball bat in Lincoln Park")
 
 Search
 
