@@ -16,6 +16,12 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/11/10/did-you-buy-the-959-ps5-pro/)
+    
+    Nov 10, 2024 | 11:01 AM EST
+    
+    ### [Did you buy the $959 PS5 Pro?](https://mobilesyrup.com/2024/11/10/did-you-buy-the-959-ps5-pro/)
+    
     [](https://mobilesyrup.com/2024/11/07/ps5-pro-canada-now-available/)
     
     Nov 7, 2024 | 10:51 AM EST
@@ -46,13 +52,13 @@
     
     ### [New on Xbox Game Pass on console, cloud and PC in November 2024 \[Wave 1\]](https://mobilesyrup.com/2024/11/04/xbox-game-pass-console-cloud-pc-new-games-november-2024-wave-1/)
     
-    [](https://mobilesyrup.com/2024/11/04/ps5-pro-enhanced-games-launch-lineup/)
-    
-    Nov 4, 2024 | 12:30 PM EST
-    
-    ### [More than 50 games will be PS5 Pro Enhanced at launch](https://mobilesyrup.com/2024/11/04/ps5-pro-enhanced-games-launch-lineup/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/11/10/did-you-buy-the-959-ps5-pro/)
+        
+        Nov 10, 2024 | 11:01 AM EST
+        
+        ### [Did you buy the $959 PS5 Pro?](https://mobilesyrup.com/2024/11/10/did-you-buy-the-959-ps5-pro/)
         
         [](https://mobilesyrup.com/2024/11/07/ps5-pro-canada-now-available/)
         
@@ -84,52 +90,58 @@
         
         ### [New on Xbox Game Pass on console, cloud and PC in November 2024 \[Wave 1\]](https://mobilesyrup.com/2024/11/04/xbox-game-pass-console-cloud-pc-new-games-november-2024-wave-1/)
         
-        [](https://mobilesyrup.com/2024/11/04/ps5-pro-enhanced-games-launch-lineup/)
-        
-        Nov 4, 2024 | 12:30 PM EST
-        
-        ### [More than 50 games will be PS5 Pro Enhanced at launch](https://mobilesyrup.com/2024/11/04/ps5-pro-enhanced-games-launch-lineup/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/11/08/fizz-mobile-early-black-friday-deals/)
+    [](https://mobilesyrup.com/2024/11/11/the-weeknd-immersive-music-experience-vision-pro/)
     
-    Nov 8, 2024 | 4:33 PM EST
+    Nov 11, 2024 | 6:08 PM EST
     
-    ### [Fizz’s early Black Friday deals include a plan discount if you buy a Pixel 9](https://mobilesyrup.com/2024/11/08/fizz-mobile-early-black-friday-deals/)
+    ### [The Weeknd’s immersive music experience ‘Open Hearts’ debuts on Vision Pro](https://mobilesyrup.com/2024/11/11/the-weeknd-immersive-music-experience-vision-pro/)
     
-    [](https://mobilesyrup.com/2024/11/08/rogers-offering-40-100gb-65-190gb-plans/)
+    [](https://mobilesyrup.com/2024/11/11/oneplus-launches-magsafe-compatible-battery-back/)
     
-    Nov 8, 2024 | 3:39 PM EST
+    Nov 11, 2024 | 5:43 PM EST
     
-    ### [Rogers reportedly offering some customers $40/100GB, $65/190GB plans](https://mobilesyrup.com/2024/11/08/rogers-offering-40-100gb-65-190gb-plans/)
+    ### [OnePlus launches MagSafe compatible battery back](https://mobilesyrup.com/2024/11/11/oneplus-launches-magsafe-compatible-battery-back/)
     
-    [](https://mobilesyrup.com/2024/11/08/motorola-discounts-2023-razr-family/)
+    [](https://mobilesyrup.com/2024/11/11/rogers-bell-telus-tell-crtc-they-have-affordable-roaming/)
     
-    Nov 8, 2024 | 2:40 PM EST
+    Nov 11, 2024 | 5:25 PM EST
     
-    ### [Motorola discounts 2023 Razr family by up to $550 for the holidays](https://mobilesyrup.com/2024/11/08/motorola-discounts-2023-razr-family/)
+    ### [Big Three telcos tell CRTC they have affordable roaming, what do you think?](https://mobilesyrup.com/2024/11/11/rogers-bell-telus-tell-crtc-they-have-affordable-roaming/)
     
-    [](https://mobilesyrup.com/2024/11/08/gemini-utilities-extensions/)
+    [](https://mobilesyrup.com/2024/11/11/barbie-tie-in-for-wicked-movie-includes-porn-url/)
     
-    Nov 8, 2024 | 1:38 PM EST
+    Nov 11, 2024 | 4:50 PM EST
     
-    ### [‘Utilities’ extension makes Gemini a real Assistant replacement](https://mobilesyrup.com/2024/11/08/gemini-utilities-extensions/)
+    ### [Barbie tie-in for ‘Wicked’ movie includes porn URL](https://mobilesyrup.com/2024/11/11/barbie-tie-in-for-wicked-movie-includes-porn-url/)
     
-    [](https://mobilesyrup.com/2024/11/08/pixel-update-november-2024/)
+    [](https://mobilesyrup.com/2024/11/11/apple-execs-mac-mini-power-button-bottom-size-restraints/)
     
-    Nov 8, 2024 | 12:19 PM EST
+    Nov 11, 2024 | 4:15 PM EST
     
-    ### [November Pixel update now rolling out, comes with a lot of bug fixes](https://mobilesyrup.com/2024/11/08/pixel-update-november-2024/)
+    ### [Apple execs say Mac mini power button on bottom due to size restraints](https://mobilesyrup.com/2024/11/11/apple-execs-mac-mini-power-button-bottom-size-restraints/)
     
-    [](https://mobilesyrup.com/2024/11/08/reactions-kind-of-work-between-ios-and-android-now/)
+    [](https://mobilesyrup.com/2024/11/11/pixel-weather-vibrates-depending-on-weather/)
     
-    Nov 8, 2024 | 11:17 AM EST
+    Nov 11, 2024 | 3:33 PM EST
     
-    ### [Reactions kind of work between iOS and Android now](https://mobilesyrup.com/2024/11/08/reactions-kind-of-work-between-ios-and-android-now/)
+    ### [Pixel Weather app has new vibrations depending on weather](https://mobilesyrup.com/2024/11/11/pixel-weather-vibrates-depending-on-weather/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
+        
+        [](https://mobilesyrup.com/2024/11/11/rogers-bell-telus-tell-crtc-they-have-affordable-roaming/)
+        
+        Nov 11, 2024 | 5:25 PM EST
+        
+        ### [Big Three telcos tell CRTC they have affordable roaming, what do you think?](https://mobilesyrup.com/2024/11/11/rogers-bell-telus-tell-crtc-they-have-affordable-roaming/)
+        
+        [](https://mobilesyrup.com/2024/11/11/rogers-no-cost-upgrades-3g-shutdown/)
+        
+        Nov 11, 2024 | 12:52 PM EST
+        
+        ### [Rogers offers customers with old phones no-cost upgrades ahead of 3G shutdown](https://mobilesyrup.com/2024/11/11/rogers-no-cost-upgrades-3g-shutdown/)
         
         [](https://mobilesyrup.com/2024/11/08/fizz-mobile-early-black-friday-deals/)
         
@@ -154,18 +166,6 @@
         Nov 7, 2024 | 5:32 PM EST
         
         ### [Public Mobile rolls out $49/100GB 4G Canada/U.S. plan](https://mobilesyrup.com/2024/11/07/public-mobile-49-100gb-4g-canada-us-plan/)
-        
-        [](https://mobilesyrup.com/2024/11/07/rogers-internet-xfinity-rebrand/)
-        
-        Nov 7, 2024 | 4:40 PM EST
-        
-        ### [Rogers internet joins TV with Xfinity rebrand](https://mobilesyrup.com/2024/11/07/rogers-internet-xfinity-rebrand/)
-        
-        [](https://mobilesyrup.com/2024/11/07/koodo-3g-charge-cover-maintenance-costs/)
-        
-        Nov 7, 2024 | 1:58 PM EST
-        
-        ### [Koodo charging 3G users extra $3/mo to cover maintenance costs](https://mobilesyrup.com/2024/11/07/koodo-3g-charge-cover-maintenance-costs/)
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
@@ -207,6 +207,18 @@
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
+        [](https://mobilesyrup.com/2024/11/11/apple-execs-mac-mini-power-button-bottom-size-restraints/)
+        
+        Nov 11, 2024 | 4:15 PM EST
+        
+        ### [Apple execs say Mac mini power button on bottom due to size restraints](https://mobilesyrup.com/2024/11/11/apple-execs-mac-mini-power-button-bottom-size-restraints/)
+        
+        [](https://mobilesyrup.com/2024/11/11/mac-mini-has-removable-ssd-but-its-not-easily-replaceable/)
+        
+        Nov 11, 2024 | 10:48 AM EST
+        
+        ### [Mac mini has removable SSD, but it’s not easily replaceable](https://mobilesyrup.com/2024/11/11/mac-mini-has-removable-ssd-but-its-not-easily-replaceable/)
+        
         [](https://mobilesyrup.com/2024/11/04/rumour-apple-redesign-macbook-pro-2026/)
         
         Nov 4, 2024 | 11:10 AM EST
@@ -231,19 +243,19 @@
         
         ### [The M2 and M3 MacBook Airs now start with 16GB of RAM](https://mobilesyrup.com/2024/10/30/the-m2-m3-macbook-air-start-16gb-of-ram/)
         
-        [](https://mobilesyrup.com/2024/10/30/new-m4-macbook-pro-m4-max-chipset/)
-        
-        Oct 30, 2024 | 11:01 AM EDT
-        
-        ### [The new M4 MacBook Pro launches alongside M4 Max chipset](https://mobilesyrup.com/2024/10/30/new-m4-macbook-pro-m4-max-chipset/)
-        
-        [](https://mobilesyrup.com/2024/10/29/new-mac-mini-canada-pricing/)
-        
-        Oct 29, 2024 | 11:06 AM EDT
-        
-        ### [Honey, I shrunk the Mac mini](https://mobilesyrup.com/2024/10/29/new-mac-mini-canada-pricing/)
-        
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
+        
+        [](https://mobilesyrup.com/2024/11/11/the-weeknd-immersive-music-experience-vision-pro/)
+        
+        Nov 11, 2024 | 6:08 PM EST
+        
+        ### [The Weeknd’s immersive music experience ‘Open Hearts’ debuts on Vision Pro](https://mobilesyrup.com/2024/11/11/the-weeknd-immersive-music-experience-vision-pro/)
+        
+        [](https://mobilesyrup.com/2024/11/11/pixel-weather-vibrates-depending-on-weather/)
+        
+        Nov 11, 2024 | 3:33 PM EST
+        
+        ### [Pixel Weather app has new vibrations depending on weather](https://mobilesyrup.com/2024/11/11/pixel-weather-vibrates-depending-on-weather/)
         
         [](https://mobilesyrup.com/2024/11/06/us-search-how-to-move-to-canada-soar-after-election/)
         
@@ -268,18 +280,6 @@
         Nov 4, 2024 | 4:20 PM EST
         
         ### [New Google Photos update adds new notification section](https://mobilesyrup.com/2024/11/04/new-google-photos-update-adds-new-notification-section/)
-        
-        [](https://mobilesyrup.com/2024/10/31/android-16-q2-2025/)
-        
-        Oct 31, 2024 | 6:08 PM EDT
-        
-        ### [Android 16 to release in Q2 of 2025](https://mobilesyrup.com/2024/10/31/android-16-q2-2025/)
-        
-        [](https://mobilesyrup.com/2024/10/31/ai-generated-review-summaries-coming-to-app-store/)
-        
-        Oct 31, 2024 | 4:10 PM EDT
-        
-        ### [AI-generated review summaries coming to the App Store](https://mobilesyrup.com/2024/10/31/ai-generated-review-summaries-coming-to-app-store/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -359,6 +359,18 @@
         
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
         
+        [](https://mobilesyrup.com/2024/11/11/oneplus-launches-magsafe-compatible-battery-back/)
+        
+        Nov 11, 2024 | 5:43 PM EST
+        
+        ### [OnePlus launches MagSafe compatible battery back](https://mobilesyrup.com/2024/11/11/oneplus-launches-magsafe-compatible-battery-back/)
+        
+        [](https://mobilesyrup.com/2024/11/11/barbie-tie-in-for-wicked-movie-includes-porn-url/)
+        
+        Nov 11, 2024 | 4:50 PM EST
+        
+        ### [Barbie tie-in for ‘Wicked’ movie includes porn URL](https://mobilesyrup.com/2024/11/11/barbie-tie-in-for-wicked-movie-includes-porn-url/)
+        
         [](https://mobilesyrup.com/2024/11/04/latest-ios-18-2-dev-beta-share-airtags-location-with-anyone/)
         
         Nov 4, 2024 | 4:37 PM EST
@@ -383,19 +395,13 @@
         
         ### [Simple mod brings Bluetooth to nearly 40-year-old NES consoles](https://mobilesyrup.com/2024/10/09/simple-mod-brings-bluetooth-to-nearly-40-year-old-nes-consoles/)
         
-        [](https://mobilesyrup.com/2024/10/07/google-japan-gboard-double-sided-keyboard/)
-        
-        Oct 7, 2024 | 6:18 PM EDT
-        
-        ### [Google Japan unveils double-sided keyboard, you can build your own](https://mobilesyrup.com/2024/10/07/google-japan-gboard-double-sided-keyboard/)
-        
-        [](https://mobilesyrup.com/2024/10/02/microsoft-stops-hololens-2-production-support-ends-2027/)
-        
-        Oct 2, 2024 | 2:09 PM EDT
-        
-        ### [Microsoft stops HoloLens 2 production, support to end in 2027](https://mobilesyrup.com/2024/10/02/microsoft-stops-hololens-2-production-support-ends-2027/)
-        
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
+        
+        [](https://mobilesyrup.com/2024/11/11/andor-season-2-lands-on-disney-in-april-22/)
+        
+        Nov 11, 2024 | 9:57 AM EST
+        
+        ### [Andor Season 2 lands on Disney+ on April 22](https://mobilesyrup.com/2024/11/11/andor-season-2-lands-on-disney-in-april-22/)
         
         [](https://mobilesyrup.com/2024/11/07/alien-romulus-hits-disney-on-nov-21/)
         
@@ -427,13 +433,13 @@
         
         ### [Sportsnet+ is about to get more expensive](https://mobilesyrup.com/2024/11/05/rogers-sportsnet-plus-price-increase-january-2025/)
         
-        [](https://mobilesyrup.com/2024/11/05/crave-annual-plans-40-percent-off-black-friday/)
-        
-        Nov 5, 2024 | 2:29 PM EST
-        
-        ### [Crave’s annual plans are 40 percent off for Black Friday](https://mobilesyrup.com/2024/11/05/crave-annual-plans-40-percent-off-black-friday/)
-        
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
+        
+        [](https://mobilesyrup.com/2024/11/11/gemini-app-making-way-iphone/)
+        
+        Nov 11, 2024 | 2:46 PM EST
+        
+        ### [iPhones could soon have access to a dedicated Gemini app](https://mobilesyrup.com/2024/11/11/gemini-app-making-way-iphone/)
         
         [](https://mobilesyrup.com/2024/11/08/gemini-utilities-extensions/)
         
@@ -464,12 +470,6 @@
         Oct 31, 2024 | 4:10 PM EDT
         
         ### [AI-generated review summaries coming to the App Store](https://mobilesyrup.com/2024/10/31/ai-generated-review-summaries-coming-to-app-store/)
-        
-        [](https://mobilesyrup.com/2024/10/31/openais-google-competitor-chatgpt-search-launches-today/)
-        
-        Oct 31, 2024 | 3:04 PM EDT
-        
-        ### [OpenAI’s Google competitor ChatGPT Search launches today](https://mobilesyrup.com/2024/10/31/openais-google-competitor-chatgpt-search-launches-today/)
         
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
@@ -512,6 +512,12 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
+    
+    Nov 10, 2024 | 2:07 PM EST
+    
+    ### [Xbox Series X All-Digital Review: A small discount, same Xbox](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
+    
     [](https://mobilesyrup.com/2024/11/07/m4-imac-key-upgrade-review/)
     
     Nov 7, 2024 | 3:32 PM EST
@@ -541,12 +547,6 @@
     Nov 4, 2024 | 7:00 AM EST
     
     ### [Mario & Luigi: Brothership is one of the most charming games I’ve played in ages](https://mobilesyrup.com/2024/11/04/mario-and-luigi-brothership-nintendo-switch-review/)
-    
-    [](https://mobilesyrup.com/2024/11/02/withings-scanwatch-vitals-review-fitness-tracker/)
-    
-    Nov 2, 2024 | 11:04 AM EDT
-    
-    ### [The Withings ScanWatch Vitals is my favourite fitness tracker](https://mobilesyrup.com/2024/11/02/withings-scanwatch-vitals-review-fitness-tracker/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -740,6 +740,12 @@
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
+        [](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
+        
+        Nov 10, 2024 | 2:07 PM EST
+        
+        ### [Xbox Series X All-Digital Review: A small discount, same Xbox](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
+        
         [](https://mobilesyrup.com/2024/11/04/mario-and-luigi-brothership-nintendo-switch-review/)
         
         Nov 4, 2024 | 7:00 AM EST
@@ -769,12 +775,6 @@
         Oct 15, 2024 | 9:00 AM EDT
         
         ### [Super Mario Party Jamboree is some of the most fun I’ve had all year](https://mobilesyrup.com/2024/10/15/super-mario-party-jamboree-nintendo-switch-review/)
-        
-        [](https://mobilesyrup.com/2024/10/14/neva-man-best-friend/)
-        
-        Oct 14, 2024 | 12:01 PM EDT
-        
-        ### [Neva is the wonderfully beautiful tale of Man’s Best Friend](https://mobilesyrup.com/2024/10/14/neva-man-best-friend/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
@@ -817,6 +817,12 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/11/11/1000xresist-vancouver-sunset-visitor-remy-siu-interview/)
+    
+    Nov 11, 2024 | 11:46 AM EST
+    
+    ### [How a first-time Vancouver developer made one of 2024’s best games, 1000xResist](https://mobilesyrup.com/2024/11/11/1000xresist-vancouver-sunset-visitor-remy-siu-interview/)
+    
     [](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
     
     Nov 3, 2024 | 11:01 AM EST
@@ -846,12 +852,6 @@
     Oct 27, 2024 | 10:58 AM EDT
     
     ### [I can’t wait to review the Asus ROG Phone 9](https://mobilesyrup.com/2024/10/27/asus-rog-phone-9-hardware-hands-on/)
-    
-    [](https://mobilesyrup.com/2024/10/25/oxygenos-15-very-mindful-ai-very/)
-    
-    Oct 25, 2024 | 1:27 PM EDT
-    
-    ### [OxygenOS 15: very smooth, very AI](https://mobilesyrup.com/2024/10/25/oxygenos-15-very-mindful-ai-very/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -969,6 +969,12 @@
         
     * [General](https://mobilesyrup.com/categories/features/features-general/)
         
+        [](https://mobilesyrup.com/2024/11/11/1000xresist-vancouver-sunset-visitor-remy-siu-interview/)
+        
+        Nov 11, 2024 | 11:46 AM EST
+        
+        ### [How a first-time Vancouver developer made one of 2024’s best games, 1000xResist](https://mobilesyrup.com/2024/11/11/1000xresist-vancouver-sunset-visitor-remy-siu-interview/)
+        
         [](https://mobilesyrup.com/2024/11/02/the-best-way-to-play-wii-gamecube-games-2024-2025/)
         
         Nov 2, 2024 | 2:32 PM EDT
@@ -999,14 +1005,14 @@
         
         ### [OxygenOS 15: very smooth, very AI](https://mobilesyrup.com/2024/10/25/oxygenos-15-very-mindful-ai-very/)
         
-        [](https://mobilesyrup.com/2024/10/20/nhl-goalie-mask-designed-on-ipad/)
-        
-        Oct 20, 2024 | 2:28 PM EDT
-        
-        ### [Your favourite NHL Goalie mask was likely designed on iPad](https://mobilesyrup.com/2024/10/20/nhl-goalie-mask-designed-on-ipad/)
-        
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
+    
+    [](https://mobilesyrup.com/2024/11/11/streaming-in-canada-crave-disney-plus-netflix-paramount-plus-prime-video-jake-paul-vs-mike-tyson/)
+    
+    Nov 11, 2024 | 7:03 PM EST
+    
+    ### [Streaming in Canada on Crave, Disney+, Netflix, Paramount+ and Prime Video \[Nov. 11-17\]](https://mobilesyrup.com/2024/11/11/streaming-in-canada-crave-disney-plus-netflix-paramount-plus-prime-video-jake-paul-vs-mike-tyson/)
     
     [](https://mobilesyrup.com/2024/11/09/streaming-in-canada-crave-netflix-prime-video-arcane-season-2/)
     
@@ -1037,12 +1043,6 @@
     Oct 30, 2024 | 5:33 PM EDT
     
     ### [New on Prime Video Canada: November 2024](https://mobilesyrup.com/2024/10/30/new-prime-video-canada-november-2024/)
-    
-    [](https://mobilesyrup.com/2024/10/28/streaming-in-canada-crave-disney-plus-mubi-netflix-prime-video-the-substance/)
-    
-    Oct 28, 2024 | 7:02 PM EDT
-    
-    ### [Streaming in Canada on Crave, Disney+, Mubi, Netflix and Prime Video \[Oct. 28-Nov. 3\]](https://mobilesyrup.com/2024/10/28/streaming-in-canada-crave-disney-plus-mubi-netflix-prime-video-the-substance/)
     
     * [General](https://mobilesyrup.com/categories/resources/general-resources/)
         
@@ -1084,6 +1084,12 @@
         
     * [Streaming](https://mobilesyrup.com/categories/resources/resources-streaming/)
         
+        [](https://mobilesyrup.com/2024/11/11/streaming-in-canada-crave-disney-plus-netflix-paramount-plus-prime-video-jake-paul-vs-mike-tyson/)
+        
+        Nov 11, 2024 | 7:03 PM EST
+        
+        ### [Streaming in Canada on Crave, Disney+, Netflix, Paramount+ and Prime Video \[Nov. 11-17\]](https://mobilesyrup.com/2024/11/11/streaming-in-canada-crave-disney-plus-netflix-paramount-plus-prime-video-jake-paul-vs-mike-tyson/)
+        
         [](https://mobilesyrup.com/2024/11/09/streaming-in-canada-crave-netflix-prime-video-arcane-season-2/)
         
         Nov 9, 2024 | 2:29 PM EST
@@ -1113,12 +1119,6 @@
         Oct 26, 2024 | 2:31 PM EDT
         
         ### [Where to stream The Substance in Canada](https://mobilesyrup.com/2024/10/26/where-to-stream-the-substance-canada/)
-        
-        [](https://mobilesyrup.com/2024/10/24/crave-november-2024-new-content/)
-        
-        Oct 24, 2024 | 4:09 PM EDT
-        
-        ### [New on Crave: November 2024](https://mobilesyrup.com/2024/10/24/crave-november-2024-new-content/)
         
     * [How-to's](https://mobilesyrup.com/categories/resources/resources-how-tos/)
         
@@ -1163,6 +1163,12 @@
     
 * [Business](https://mobilesyrup.com/categories/business/)
     
+    [](https://mobilesyrup.com/2024/11/11/if-trump-enacts-tariffs-the-iphone-price-could-go-up/)
+    
+    Nov 11, 2024 | 1:55 PM EST
+    
+    ### [If Trump enacts tariffs, the iPhone price could go up](https://mobilesyrup.com/2024/11/11/if-trump-enacts-tariffs-the-iphone-price-could-go-up/)
+    
     [](https://mobilesyrup.com/2024/11/07/ericsson-canada-government-expanded-r-and-d-funding/)
     
     Nov 7, 2024 | 4:00 PM EST
@@ -1193,13 +1199,13 @@
     
     ### [Apple’s iPhone sales are still going up, Q4 revenue grows year-over-year](https://mobilesyrup.com/2024/10/31/apples-iphone-sales-are-still-going-up-2024-q4-revenue/)
     
-    [](https://mobilesyrup.com/2024/10/31/ago-cybersecurity-incident-customer-emails/)
-    
-    Oct 31, 2024 | 3:38 PM EDT
-    
-    ### [AGO cybersecurity incident may have impacted customer emails](https://mobilesyrup.com/2024/10/31/ago-cybersecurity-incident-customer-emails/)
-    
     * [General](https://mobilesyrup.com/categories/business/general/)
+        
+        [](https://mobilesyrup.com/2024/11/11/if-trump-enacts-tariffs-the-iphone-price-could-go-up/)
+        
+        Nov 11, 2024 | 1:55 PM EST
+        
+        ### [If Trump enacts tariffs, the iPhone price could go up](https://mobilesyrup.com/2024/11/11/if-trump-enacts-tariffs-the-iphone-price-could-go-up/)
         
         [](https://mobilesyrup.com/2024/11/05/eastlink-sunwire-home-internet-tv-phone-services/)
         
@@ -1230,12 +1236,6 @@
         Oct 17, 2024 | 2:19 PM EDT
         
         ### [Apple worked on EV battery with China’s BYD: report](https://mobilesyrup.com/2024/10/17/apple-ev-battery-china-byd-report/)
-        
-        [](https://mobilesyrup.com/2024/10/17/uber-considering-acquiring-expedia-report/)
-        
-        Oct 17, 2024 | 12:25 PM EDT
-        
-        ### [Uber is considering acquiring Expedia: report](https://mobilesyrup.com/2024/10/17/uber-considering-acquiring-expedia-report/)
         
     * [Government](https://mobilesyrup.com/categories/business/business-general/)
         
@@ -1354,6 +1354,12 @@
     
 * [Streaming](https://mobilesyrup.com/categories/streaming/)
     
+    [](https://mobilesyrup.com/2024/11/11/andor-season-2-lands-on-disney-in-april-22/)
+    
+    Nov 11, 2024 | 9:57 AM EST
+    
+    ### [Andor Season 2 lands on Disney+ on April 22](https://mobilesyrup.com/2024/11/11/andor-season-2-lands-on-disney-in-april-22/)
+    
     [](https://mobilesyrup.com/2024/11/08/crave-launches-saturday-night-live-streaming-collection/)
     
     Nov 8, 2024 | 5:37 PM EST
@@ -1384,13 +1390,13 @@
     
     ### [Sportsnet+ is about to get more expensive](https://mobilesyrup.com/2024/11/05/rogers-sportsnet-plus-price-increase-january-2025/)
     
-    [](https://mobilesyrup.com/2024/11/05/crave-annual-plans-40-percent-off-black-friday/)
-    
-    Nov 5, 2024 | 2:29 PM EST
-    
-    ### [Crave’s annual plans are 40 percent off for Black Friday](https://mobilesyrup.com/2024/11/05/crave-annual-plans-40-percent-off-black-friday/)
-    
     * [Streaming](https://mobilesyrup.com/categories/streaming/)
+        
+        [](https://mobilesyrup.com/2024/11/11/andor-season-2-lands-on-disney-in-april-22/)
+        
+        Nov 11, 2024 | 9:57 AM EST
+        
+        ### [Andor Season 2 lands on Disney+ on April 22](https://mobilesyrup.com/2024/11/11/andor-season-2-lands-on-disney-in-april-22/)
         
         [](https://mobilesyrup.com/2024/11/08/crave-launches-saturday-night-live-streaming-collection/)
         
@@ -1421,12 +1427,6 @@
         Nov 5, 2024 | 3:14 PM EST
         
         ### [Sportsnet+ is about to get more expensive](https://mobilesyrup.com/2024/11/05/rogers-sportsnet-plus-price-increase-january-2025/)
-        
-        [](https://mobilesyrup.com/2024/11/05/crave-annual-plans-40-percent-off-black-friday/)
-        
-        Nov 5, 2024 | 2:29 PM EST
-        
-        ### [Crave’s annual plans are 40 percent off for Black Friday](https://mobilesyrup.com/2024/11/05/crave-annual-plans-40-percent-off-black-friday/)
         
     
 * [Videos](https://mobilesyrup.com/videos/)
