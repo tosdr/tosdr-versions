@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 12, 2024 | Media News Daily: Top Stories for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/media-news-daily-top-stories-for-11-12-2024/ "Media News Daily: Top Stories for 11/12/2024")
+* [November 12, 2024 | MBFC’s Daily Vetted Fact Checks for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/mbfcs-daily-vetted-fact-checks-for-11-12-2024/ "MBFC’s Daily Vetted Fact Checks for 11/12/2024")
 * [November 11, 2024 | Media News Daily: Top Stories for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/media-news-daily-top-stories-for-11-11-2024/ "Media News Daily: Top Stories for 11/11/2024")
 * [November 11, 2024 | MBFC’s Daily Vetted Fact Checks for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/mbfcs-daily-vetted-fact-checks-for-11-11-2024/ "MBFC’s Daily Vetted Fact Checks for 11/11/2024")
 * [November 10, 2024 | MBFC’s Daily Vetted Fact Checks for 11/10/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/10/mbfcs-daily-vetted-fact-checks-for-11-10-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/10/2024 (Weekend Edition)")
-* [November 9, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 3rd – Nov 9th](https://mediabiasfactcheck.com/2024/11/09/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-3rd-nov-9th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 3rd – Nov 9th")
-* [November 9, 2024 | MBFC’s Daily Vetted Fact Checks for 11/09/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/09/mbfcs-daily-vetted-fact-checks-for-11-09-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/09/2024 (Weekend Edition)")
 
 Search for:  
 
@@ -153,6 +153,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Students For Liberty (SFL) – Bias and Credibility](https://mediabiasfactcheck.com/students-for-liberty-sfl-bias-and-credibility/)
+    
+    November 12, 2024
+    
+* [North Pocono News – Bias and Credibility](https://mediabiasfactcheck.com/north-pocono-news-bias/)
+    
+    November 12, 2024
+    
 * [Salisbury Review – Bias and Credibility](https://mediabiasfactcheck.com/salisbury-review-bias-and-credibility/)
     
     November 11, 2024
@@ -177,36 +185,28 @@ No related posts.
     
     November 10, 2024
     
-* [Real News No Bullshit (RNNBS) – Bias and Credibility](https://mediabiasfactcheck.com/real-news-no-bullshit-rnnbs-bias-and-credibility/)
-    
-    November 10, 2024
-    
-* [Ashland News – Bias and Credibility](https://mediabiasfactcheck.com/ashland-news-bias/)
-    
-    November 10, 2024
-    
 
 #### Recently Updated Pages
 
+* [Students For Liberty (SFL) – Bias and Credibility](https://mediabiasfactcheck.com/students-for-liberty-sfl-bias-and-credibility/ "View Students For Liberty (SFL) – Bias and Credibility") - November 12, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 12, 2024
+    
+* [North Pocono News – Bias and Credibility](https://mediabiasfactcheck.com/north-pocono-news-bias/ "View North Pocono News – Bias and Credibility") - November 12, 2024
+    
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 12, 2024
+    
+* [Journal of Politics and Society – Bias and Credibility](https://mediabiasfactcheck.com/journal-of-politics-and-society/ "View Journal of Politics and Society – Bias and Credibility") - November 12, 2024
+    
 * [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 11, 2024
     
 * [Salisbury Review – Bias and Credibility](https://mediabiasfactcheck.com/salisbury-review-bias-and-credibility/ "View Salisbury Review – Bias and Credibility") - November 11, 2024
-    
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 11, 2024
     
 * [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 11, 2024
     
 * [Mediaite – Bias and Credibility](https://mediabiasfactcheck.com/mediaite/ "View Mediaite – Bias and Credibility") - November 11, 2024
     
 * [Public Interest Research Group (PIRG) – Bias and Credibility](https://mediabiasfactcheck.com/public-interest-research-group-pirg-bias-and-credibility/ "View Public Interest Research Group (PIRG) – Bias and Credibility") - November 11, 2024
-    
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 11, 2024
-    
-* [DeadState – Bias and Credibility](https://mediabiasfactcheck.com/dead-state/ "View DeadState – Bias and Credibility") - November 11, 2024
-    
-* [Being Liberal – Bias and Credibility](https://mediabiasfactcheck.com/being-liberal/ "View Being Liberal – Bias and Credibility") - November 11, 2024
-    
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 11, 2024
     
 
 #### Today’s Top Page Views
@@ -216,10 +216,10 @@ No related posts.
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/mbfcs-daily-vetted-fact-checks-for-11-11-2024/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [MBFC's Daily Vetted Fact Checks for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/mbfcs-daily-vetted-fact-checks-for-11-11-2024/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
