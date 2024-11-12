@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![monsanto](/assets/logos/MonsantoStateContributions2007-2012.png)](http://www.followthemoney.org/research/institute-research/names-in-the-news-monsanto)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
 
-Monsanto has taken a keen interest in ballot measures.
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
