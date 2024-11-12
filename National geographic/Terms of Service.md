@@ -69,6 +69,14 @@ By email:
 
 This contact information is only for reporting alleged copyright infringements. Contact information for other matters is provided elsewhere on the site.
 
+#### 3.1 Prohibition on Data Scraping
+
+For full clarity and without affecting previous rights reservations, National Geographic Society expressly affirms that:
+
+Any past, present or future access, use, copying, reproduction, extraction, distribution or exploitation of any of the works or content (or portion thereof) owned or controlled by National Geographic Society (including recordings, audiovisual recordings, composition, lyrics, artwork, images, data, metadata, etc.) for the purpose of text and data mining, Artificial Intelligence (“AI”) training, development or commercialisation of AI systems, tools or technology, web scraping, mining, altering, making extractions, preparing derivative works or similar purposes, and by any means, is prohibited, except as specifically and expressly licensed by National Geographic Society in the form of a written licence. The use of any artist name, image, likeness and voice also requires specific permission.
+
+National Geographic Society expressly reserves its rights in respect of the use of National Geographic Society’s content, including without limitation under Article 4 of the EU Directive 2019/790/EC to the fullest extent permitted (or not otherwise restricted) under such laws (in the event that a court decides this Article might apply to the above uses, an interpretation we should add we do not agree with). Our reservation applies to all content owned or controlled by National Geographic Society, now or in the future, including where this content may be identified through publicly available means.
+
 ### 4\. Liability
 
 The Service is provided for informational purposes only. The Service should not be used in any high risk activities where damage or injury to persons, property, environment, finances or business may result if an error occurs. You expressly assume all risk for such use.
