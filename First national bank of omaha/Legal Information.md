@@ -321,8 +321,6 @@ New to Business Banking?
 
 [Enroll Now](https://www.banking.fnbo.com/CommercialWeb/enroll/enroll-form)
 
-Our branches will be closed on Monday, November 11, in observance of Veterans Day.
-
 FNBO Privacy Notice
 ===================
 
