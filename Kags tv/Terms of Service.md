@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/b70fbc22-fcc9-450d-866a-6e2edc00ca2e/20241112T151139/b70fbc22-fcc9-450d-866a-6e2edc00ca2e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/b70fbc22-fcc9-450d-866a-6e2edc00ca2e/20241112T151139/b70fbc22-fcc9-450d-866a-6e2edc00ca2e_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-a-m-u/tx-tribune-tamu-lgbtq-studies-minor-and-low-producing-programs-cut/499-c185406e-403b-4848-af65-ad76b5cd6cdc)
+        
+        #### [Texas A&M regents overrule faculty, cut 52 “low-producing” programs including LGBTQ+ studies minor](https://www.kagstv.com/article/news/local/texas-a-m-u/tx-tribune-tamu-lgbtq-studies-minor-and-low-producing-programs-cut/499-c185406e-403b-4848-af65-ad76b5cd6cdc)
+        
     *  [![](https://media.kagstv.com/assets/KFSM/images/54749894-625c-4686-b969-700d3b88302e/54749894-625c-4686-b969-700d3b88302e_16x9.jpg) ![](https://media.kagstv.com/assets/KFSM/images/54749894-625c-4686-b969-700d3b88302e/54749894-625c-4686-b969-700d3b88302e_360x203.jpg)](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
         
         #### [Samples from water wells in Navasota test positive for E. coli bacteria](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/c17e908a-4722-4462-9cf5-3cf651335f2a/20241108T204804/c17e908a-4722-4462-9cf5-3cf651335f2a_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c17e908a-4722-4462-9cf5-3cf651335f2a/20241108T204804/c17e908a-4722-4462-9cf5-3cf651335f2a_360x203.jpg)](https://www.kagstv.com/article/news/crime/cspd-looking-to-identify-northgate-street-sign-theives/500-f3e45720-7d74-4c05-b808-f835cba53baa)
-        
-        #### [College Station Police looking to find "two upstanding gentlemen" that stole street signs](https://www.kagstv.com/article/news/crime/cspd-looking-to-identify-northgate-street-sign-theives/500-f3e45720-7d74-4c05-b808-f835cba53baa)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-61°
+83°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
