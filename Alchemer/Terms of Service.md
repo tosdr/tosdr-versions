@@ -108,8 +108,8 @@
 
 [Request a Demo](https://www.alchemer.com/contact/)
 
-Alchemer Website Terms of Use
-=============================
+Alchemer Website Terms of Use​
+==============================
 
 Acceptance of the Terms of Use
 ------------------------------
