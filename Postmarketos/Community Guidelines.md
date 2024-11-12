@@ -5,6 +5,11 @@
 Code of Conduct
 ===============
 
+You are reading the [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) with the following changes:
+
+* Replaced the [enforcement](#enforcement) e-mail address
+* Listed who receives these e-mails
+
 [Our Pledge](#our-pledge)
 -------------------------
 
@@ -47,6 +52,8 @@ This Code of Conduct applies within all community spaces, and also applies when 
 ---------------------------
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by emailing **[help@postmarketos.org](mailto:help@postmarketos.org)**. All complaints will be reviewed and investigated promptly and fairly.
+
+_E-mails sent to that address go to the CoC team ([Oliver](https://postmarketos.org/core-contributors/#oliver-smith-ollieparanoid), [Luca](https://postmarketos.org/core-contributors/#luca-weiss-z3ntu), [Caleb](https://postmarketos.org/core-contributors/#caleb-connolly-calebccff), [Bart](https://postmarketos.org/core-contributors/#bart-ribbers-puretryout))._
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
