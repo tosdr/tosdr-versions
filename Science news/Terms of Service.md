@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Uranus may have looked weird when NASA’s Voyager 2 flew by](https://www.sciencenews.org/article/uranus-weird-look-voyager-2-flyby)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")5 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")11 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
