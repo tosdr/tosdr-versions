@@ -23,7 +23,7 @@ Search gov.je  Search
 
 * [Home](https://www.gov.je/Pages/default.aspx "gov.je home")
 
-   
+    
 
 Terms and conditions
 ====================
@@ -89,7 +89,7 @@ Digital Services
 Union Street  
 St Helier  
 Jersey  
-JE2 3RF
+JE2 3DN
 
 [Connect to SignVideo](https://www.gov.je/pages/signvideo.aspx)
 
