@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Percentage of Competitive Gubernatorial Races, by Incumbency Status, 2001-2016](/assets/Images/teasers/small/competitive-govs.JPG)](https://www.followthemoney.org/research/institute-reports/monetary-competitiveness-in-gubernatorial-elections-2001-2016)
+[![monsanto](/assets/logos/MonsantoStateContributions2007-2012.png)](http://www.followthemoney.org/research/institute-research/names-in-the-news-monsanto)
+
+Monsanto has taken a keen interest in ballot measures.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
