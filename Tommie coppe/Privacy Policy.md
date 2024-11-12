@@ -1,30 +1,30 @@
 [Skip to main content](#main-content)
 
-Save 40% Sitewide! DETAILS
+Up To 60% off Holiday Pain Relief! DETAILS
 
-Celebrate the Holidays Pain-Free!
-
-Close the Modal
-
-#### SAVE 40% SITEWIDE
-
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
-
-Offer valid 11/10/2024 8AM ET - 11/12/2024 6AM ET.
-
-Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-FREE GIFT WITH PURCHASE
+HOLIDAY PAIN RELIEF
 
 Close the Modal
 
-#### Free Tommie Copper Baseball Hat on Orders $125+
+#### SAVE UP TO 60%
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP NOW](https://www.tommiecopper.com/special/holiday-pain-relief/)
 
-Offer valid 10/11/2024 8AM ET - 10/12/2024 6AM ET.
+Offer valid 11/12/2024 8AM ET - 11/15/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $125+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Up to 60% off Holiday Pain Relief discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+COMPRESSION SLEEVES
+
+Close the Modal
+
+#### Buy 1 Get 1 Free Today!
+
+[SHOP NOW](https://www.tommiecopper.com/compression-socks/)
+
+Offer valid 10/21/2024 8AM ET - 10/24/2024 6AM ET.
+
+To receive Buy 1 Get 1 Free discount on all compression socks, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
