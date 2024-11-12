@@ -190,26 +190,15 @@
 
 Subscribe
 
-[#### Nutrition](https://www.healthline.com/nutrition)
+[#### Multiple Sclerosis](https://www.healthline.com/multiple-sclerosis)
 
-* Meal Kits
-    
-    * [Overview](https://www.healthline.com/nutrition/meal-kits)
-    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
-    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
-    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
-    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
-    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
-    
-* [Special Diets](https://www.healthline.com/nutrition/diets)
-* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
-* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
-* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
-* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
-* [Products](https://www.healthline.com/reviews/nutrition-products)
-* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
-* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
-* [Weight Management](https://www.healthline.com/nutrition/weight-management)
+* [Newly Diagnosed](https://www.healthline.com/multiple-sclerosis/ms-basics)
+* [Treatment](https://www.healthline.com/multiple-sclerosis/treatment)
+* [Living Well with MS](https://www.healthline.com/multiple-sclerosis/living-with-ms)
+* [What to Eat](https://www.healthline.com/multiple-sclerosis/food)
+* [Well-Being & Support](https://www.healthline.com/multiple-sclerosis/mental-health-ms)
+* [Community](https://apps.apple.com/us/app/ms-healthline/id1040195462)
+* [Newsletter](https://www.healthline.com/newsletter-signup/multiple-sclerosis)
 
 Ad & Sponsorship Policy
 =======================
