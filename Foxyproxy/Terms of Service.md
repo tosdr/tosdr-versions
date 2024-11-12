@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks so much for your brilliantly quick and efficient response!
+I used the service while abroad and found it to be very good. I will certainly use it again on my next overseas visit.
 
-Jaci Stephen
+John Weatherley
