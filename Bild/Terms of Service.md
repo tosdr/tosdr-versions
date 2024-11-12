@@ -5,7 +5,7 @@
 * [Bild-KI](https://bild.de/hey-ki-helfer)
 * [Infos zu BILDplus](https://angebot.bild.de/info/)
 * [Wetter IconWetter](https://www.bild.de/wetter)
-* [Video IconVideo & Audio](https://www.bild.de/video/mediathek/video/bild-live-71144736.bild.html)
+* [BILDplay](https://www.bild.de/video/mediathek/video/bild-live-71144736.bild.html)
 * [Marktplatz](https://marktplatz.bild.de/)
 * [ePaper IconZeitung](https://www.bild.de/bildplus/aboseite/bild-abonnement/bildplus-abo-seite-81057138.bild.html)
 * [Suche IconSuche](https://www.bild.de/suche.bild.html)
@@ -169,6 +169,7 @@ Menü
 * [BILD Kindergesundheitsgipfel](https://www.bild.de/ratgeber/gesundheit/kinder/bild-kindergesundheitsgipfel-83891608.bild.html)
 * [BILD Vorsorgegipfel](https://www.bild.de/ratgeber/bild-vorsorgegipfel/gesundheit/deutschland-sorgt-vor-77772934.bild.html)
 * [BILD Herzgipfel](https://www.bild.de/ratgeber/gesundheit/bild-herzgipfel-30ZW52dWRsfwdXQtdMe1)
+* [BILD Frauengesundheitsgipfel](https://www.bild.de/ratgeber/gesundheit/bild-frauengesundheitsgipfel/ngdwWX6Gukkpt3GVdBUp)
 
 * [Serviceportal 50Plus](https://www.bild.de/leben-wissen/gesundheit/serviceportal-50Plus-miSYfgKr0Nem9mmOkBTP)
 
@@ -204,6 +205,28 @@ Menü
 4. AGB
     ===
     
+
+[BreakingNews
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP
+
+Regierungskrise! Neuwahl! Jetzt spricht die FDP](https://www.bild.de/politik/inland/regierungskrise-in-deutschland-showdown-um-die-ampel-macht-67288f86ebdb8724738e8224)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
