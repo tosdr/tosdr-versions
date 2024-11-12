@@ -50,9 +50,9 @@ Look for the print icon (insert icon) at the bottom of each page when you want a
 
 Shaw.ca has been written to be clear, concise and accessible to as wide an audience as possible.
 
-### Joint Terms of Service
+### Shaw Terms of Service
 
-[Joint Terms of Service](https://assets.ctfassets.net/tzb4ihmthaev/1laoswxcuLnjSakxvejZju/f88c0a892bb13959465fd57353faeadd/Joint_Terms_of_Service_July_15_2024.pdf)
+[Joint Terms of Service](https://assets.ctfassets.net/tzb4ihmthaev/KRkbVnOHVnOS8mPAEiJZI/662a2d26c241a9a1e8364e52117fd231/Joint_Terms_of_Service_Nov_12_2024.pdf)
 
 ### Payment Terms and Conditions
 
@@ -89,9 +89,7 @@ Shaw provides you with the following convenient payment alternatives:
 
 #### Terms of Payment
 
-The services you subscribe to are payable by the due date indicated on your bill. Payments made after the statement date on your bill will be reflected on your next bill. Amounts owing after the due date are subject to a late payment interest charge calculated on the outstanding amount at 3%\* per month (42.6% per year) until paid in full. If your account remains unpaid for 60 days, you agree to pay a fee of $50.00 for services relating to the administration, processing, or service costs for your account (for example, collections efforts due to non-payment or suspension, disconnection or reactivation of your Services). Overdue accounts are subject to termination of the services by Shaw. You agree to pay Shaw $25.00 if your credit card is denied or if your cheque is returned due to non-sufficient funds. Should it become necessary to disconnect a past due account, payment of the full outstanding balance plus a reconnection charge will be required before service is restored, provided Shaw is not under any obligation to restore the services to any person who continues to fail to make timely payment of the amounts due.
-
-\*Customers with an existing 2-Year ValuePlan as of August 3, 2023, will continue to see a 2% late payment fee and a $20.00 account processing fee up until their contract expiry date, at which time they will be bound by the above late payment fee structure.
+You may visit the MyShaw tool at my.shaw.ca for more information on your current Services, to view your monthly Internet data usage and notifications and to manage your billing information. You will be billed monthly for both your Services and any applicable equipment and the charges will appear on your monthly invoice. Payment terms are included in our Joint Terms of Service. For TV and Internet Services provided on a month-to-month basis, including fixed term Services that will transition to a month-to-month basis upon the expiry of the ValuePlan Commitment Period, Shaw may make changes to your Services from time to time in accordance with the CRTC’s TVSP and Internet Codes, as applicable, including changing the applicable regular monthly fees and charges, by providing you with not less than 30 days’ notice of any such change becoming effective (for Internet Services, not less than 60 days’ notice for changes to key contract terms and conditions as defined in the CRTC Internet Code). For all other changes, including substantive changes to the Joint Terms of Service, Acceptable Use Policies and Privacy Policy, each of which are hereby incorporated by reference into this Agreement, Shaw will provide you with notice as required by applicable law. If you do not wish to accept the aforementioned changes, you may contact Shaw to change or cancel your Services. You shall be deemed to have accepted any changes made by Shaw if you continue to use your Services after such changes are effective with no additional action or agreement required. This Agreement is non-transferable by you but may be freely assigned by Shaw. If the Services under this Agreement replace or supersede all services under an existing agreement, your previous agreement will automatically terminate once the Buyer’s Right to Cancel period (as set out below) and any applicable trial period under this Agreement has elapsed. Early cancellation fees applicable to your previous agreement will remain in effect until it is terminated. If this Agreement is cancelled within the Buyer’s Right to Cancel period or any applicable trial period then your previous agreement will become active, however, if any of the Services included in the previous agreement are no longer available, then equivalent in-market Services will be instated for the remainder of the ValuePlan Commitment Period of your previous agreement.
 
 #### Privacy
 
@@ -259,9 +257,9 @@ Below is a list of Shaw Tariffs as filed with the Canadian Radio-Television and 
 
 The following documents show examples of Shaw’s service agreements:
 
-[Sample of Internet only Month-to-month agreement](https://assets.ctfassets.net/tzb4ihmthaev/5edCxOBTOfHPkqISIHhhrg/ac4e326482b862bdec1ac99993f6987f/Service_Agreement_Internet_MTM.pdf)  
-[Sample of Internet only 2-year ValuePlan agreement with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/6zZAIW73DhsclbCHikQcJQ/247aa2bd7bcce97c50d5a630e0a2aab8/Service_Agreement_Internet_with_Self_Protect.pdf)  
-[Sample of Internet & Television ValuePlan with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/4BJapvqo0WKwob2wvoJdku/f7d834ebb15214c55b95e32e0f31efe5/Service_Agreement_Internet_and_TV_with_Self_Protect.pdf)
+[Sample of Internet only Month-to-month agreement](https://assets.ctfassets.net/tzb4ihmthaev/6pNZv99U4jLXF3odW7hJqV/a3fddfaef651dbebf8d6b334822b0ebc/Service_Agreement_Internet_MTM.pdf)  
+[Sample of Internet only 2-year ValuePlan agreement with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/31S2LlOeDg5Mi4sIYJimPj/c370cab05a96d864053dbda6ec0c072b/Service_Agreement_Internet_with_Self_Protect.pdf)  
+[Sample of Internet & Television ValuePlan with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/74WetgxAngchxe1QMScSak/ad10842c2fcf73375974c291219ed712/Service_Agreement_Internet_and_TV_with_Self_Protect.pdf)
 
 ### Shaw Price Guarantee Terms
 
