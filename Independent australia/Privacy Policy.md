@@ -179,10 +179,10 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159 "Permanent Link : Australia’s 3G shutdown: Why your 4G/5G phone is now blocked")
 * [How to minimize distractions while working from home](https://independentaustralia.net/article-display/how-to-minimize-distractions-while-working-from-home,19162 "Permanent Link : How to minimize distractions while working from home")
 * [Republic agenda still on the table 25 years after rejection](https://independentaustralia.net/article-display/republic-agenda-still-on-the-table-25-years-after-rejection,19164 "Permanent Link : Republic agenda still on the table 25 years after rejection")
 * [All aboard the Trump train](https://independentaustralia.net/article-display/all-aboard-the-trump-train,19163 "Permanent Link : All aboard the Trump train")
-* [Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159 "Permanent Link : Australia’s 3G shutdown: Why your 4G/5G phone is now blocked")
 * [Trump’s return offers gains for Australia and other trade competitors](https://independentaustralia.net/article-display/trumps-return-offers-gains-for-australia-and-other-trade-competitors,19160 "Permanent Link : Trump’s return offers gains for Australia and other trade competitors")
 * [Government bans social media fearing rise of 'Generation Left'](https://independentaustralia.net/article-display/government-bans-social-media-fearing-rise-of-generation-left,19158 "Permanent Link : Government bans social media fearing rise of  'Generation Left'")
 * [Donald Trump wins presidency thanks to lack of media scrutiny](https://independentaustralia.net/article-display/donald-trump-wins-presidency-thanks-to-lack-of-media-scrutiny,19157 "Permanent Link : Donald Trump wins presidency thanks to lack of media scrutiny")
