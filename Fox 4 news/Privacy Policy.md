@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Irving fire station damaged by fire while firefighters out on call](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/original-1ec899e1-2495-4a9c-8332-757d71f8ec34.jpeg?ve=1&tl=1)
+ [![Arrest made after hiker murdered in small mountain town slaying staged as bear attack](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/tenn-hiker1.jpg?ve=1&tl=1)
 
- ![Irving fire station damaged by fire while firefighters out on call](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/original-1ec899e1-2495-4a9c-8332-757d71f8ec34.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-fire-station-damaged-fire-while-firefighters-out-call)
+ ![Arrest made after hiker murdered in small mountain town slaying staged as bear attack](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/tenn-hiker1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arrest-made-after-hiker-murdered-small-mountain-town-slaying-staged-bear-attack)
 
-### [Irving fire station damaged by fire while firefighters out on call](https://www.fox4news.com/news/irving-fire-station-damaged-fire-while-firefighters-out-call)
+### [Arrest made after hiker murdered in small mountain town slaying staged as bear attack](https://www.fox4news.com/news/arrest-made-after-hiker-murdered-small-mountain-town-slaying-staged-bear-attack)
 
- [![Teens plotted murder of 22-year-old Dallas man, report says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jason-steven-dallas.jpg?ve=1&tl=1)
+ [![Why is Thanksgiving so late this year?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/thanksgiving-dinner.jpg?ve=1&tl=1)
 
- ![Teens plotted murder of 22-year-old Dallas man, report says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jason-steven-dallas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dilido-road-shooting-jason-steven-affidavit)
+ ![Why is Thanksgiving so late this year?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/thanksgiving-dinner.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/why-thanksgiving-late-this-year)
 
-### [Teens plotted murder of 22-year-old Dallas man, report says](https://www.fox4news.com/news/dilido-road-shooting-jason-steven-affidavit)
+### [Why is Thanksgiving so late this year?](https://www.fox4news.com/news/why-thanksgiving-late-this-year)
 
- [![Micah Parsons says his Mike McCarthy comments are being taken out of context](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2183456992.jpg?ve=1&tl=1)
+ [![Judge rules New York City can't block migrant buses from Texas](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/GettyImages-1651037905.jpg?ve=1&tl=1)
 
- ![Micah Parsons says his Mike McCarthy comments are being taken out of context](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183456992.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/micah-parsons-mike-mccarthy-comments)
+ ![Judge rules New York City can't block migrant buses from Texas](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/592/333/GettyImages-1651037905.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/judge-rules-new-york-city-cant-block-migrant-buses-from-texas)
 
-### [Micah Parsons says his Mike McCarthy comments are being taken out of context](https://www.fox4news.com/sports/micah-parsons-mike-mccarthy-comments)
+### [Judge rules New York City can't block migrant buses from Texas](https://www.fox4news.com/news/judge-rules-new-york-city-cant-block-migrant-buses-from-texas)
 
- [![Thanksgiving by the numbers: Where does your food come from and what do farmers earn?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-625708976.jpg?ve=1&tl=1)
+ [![Trump prioritizes border by selecting Tom Homan as Border Czar](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111124-border-security-birthright-citizenship-dial_00.01.54.48.jpg?ve=1&tl=1)
 
- ![Thanksgiving by the numbers: Where does your food come from and what do farmers earn?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-625708976.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/thanksgiving-numbers-where-does-your-food-come-from-what-do-farmers-earn)
+ ![Trump prioritizes border by selecting Tom Homan as Border Czar](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111124-border-security-birthright-citizenship-dial_00.01.54.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-prioritizes-border-tom-homan-border-czar)
 
-### [Thanksgiving by the numbers: Where does your food come from and what do farmers earn?](https://www.fox4news.com/money/thanksgiving-numbers-where-does-your-food-come-from-what-do-farmers-earn)
+### [Trump prioritizes border by selecting Tom Homan as Border Czar](https://www.fox4news.com/news/trump-prioritizes-border-tom-homan-border-czar)
 
- [![Emperor penguin found in Australia, thousands of miles from home](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1627882197-scaled.jpg?ve=1&tl=1)
+ [![It cost $194 million in 2023 to care for the homeless in Dallas, Collin counties: study](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/01/32/18/010523-Rabb-Homeless-Broll-MG-KDFWEME002_mpg_00.02.57.10.jpg?ve=1&tl=1)
 
- ![Emperor penguin found in Australia, thousands of miles from home](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1627882197-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/penguin-australia-emperor-antarctica-denmark-beach)
+ ![It cost $194 million in 2023 to care for the homeless in Dallas, Collin counties: study](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/01/32/18/592/333/010523-Rabb-Homeless-Broll-MG-KDFWEME002_mpg_00.02.57.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/housing-forward-2023-homelessness-estimate-survey)
 
-### [For first time, emperor penguin makes 2,000-mile swim from Antarctica to Australia](https://www.fox4news.com/news/penguin-australia-emperor-antarctica-denmark-beach)
+### [It cost $194 million in 2023 to care for the homeless in Dallas, Collin counties: study](https://www.fox4news.com/news/housing-forward-2023-homelessness-estimate-survey)
 
 ###### [News](https://www.fox4news.com/news)
 
