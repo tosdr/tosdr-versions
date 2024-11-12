@@ -652,7 +652,7 @@ https://www.conair.com/cart?lang=en\_US
         [![](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw508f134b/images/arrow-expand.svg)](https://www.conair.com/safety?lang=en_US)
     
     [![](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw508f134b/images/arrow-expand.svg)](https://www.conair.com/safety?lang=en_US)
-* [Featured](https://www.conair.com/featured?lang=en_US)
+* [Holiday Gifts](https://www.conair.com/featured?lang=en_US)
 * [Sale](https://www.conair.com/sale?lang=en_US)
 
    
