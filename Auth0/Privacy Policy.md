@@ -4,15 +4,15 @@ Looks like you have Javascript turned off! Please enable it to improve your brow
 
 [Skip to main content](#main-content)
 
-Get the Key Takeaways from dev\_day(24) + Oktane
+Okta webinars on-demand. See what you missed!
 
-Get the Key Takeaways from dev\_day(24) + Oktane
+Okta webinars on-demand. See what you missed!
 
-[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Dev-Day_LP/)
+[Watch Now](https://www.okta.com/webinars/hub/)
 
-[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Dev-Day_LP/)
+[Watch Now](https://www.okta.com/webinars/hub/)
 
-[Get the Key Takeaways from dev\_day(24) + Oktane](https://pages.okta.com/2024-11-WBN-Best-of-Dev-Day_LP/)
+[Okta webinars on-demand. See what you missed!](https://www.okta.com/webinars/hub/)
 
 [+1 (800) 425-1267](tel:+1-800-425-1267)
 
