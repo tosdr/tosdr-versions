@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+    
+    ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+    
     [![Rober Rinder will give an interview inside the Cathedral later this month. Image: Cathyfosterknox (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rober-Rinder-will-give-an-interview-inside-the-Cathedral-later-this-month.-Image-Cathyfosterknox-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
     
     ### [TV’s Judge Rinder to join SleepOut to raise homelessness awareness at Southwark Cathedral](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
@@ -51,10 +55,6 @@
     [![Glory Uhunarabona in her family bathroom where mould has steadily grown over eight years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Glory-Uhunarabona-in-her-family-bathroom-where-mould-has-steadily-grown-over-eight-years-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
     
     ### [Bermondsey mum’s eight-year black mould nightmare continues despite council admitting living conditions are ‘unacceptable’](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
-    
-    [![A group of hooded youths pictured in Rotherhithe. Image provided to Southwark News for publication.](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-1-1-360x180.png)](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
-    
-    ### [‘A masked biker tried to snatch my phone, minutes later I was threatened with a knife – but nothing came of it’](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+    
+    ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+    
     [![Rober Rinder will give an interview inside the Cathedral later this month. Image: Cathyfosterknox (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rober-Rinder-will-give-an-interview-inside-the-Cathedral-later-this-month.-Image-Cathyfosterknox-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
     
     ### [TV’s Judge Rinder to join SleepOut to raise homelessness awareness at Southwark Cathedral](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
@@ -136,10 +140,6 @@ View All Result
     [![Glory Uhunarabona in her family bathroom where mould has steadily grown over eight years](https://southwarknews.co.uk/wp-content/uploads/2024/11/Glory-Uhunarabona-in-her-family-bathroom-where-mould-has-steadily-grown-over-eight-years-360x180.png)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
     
     ### [Bermondsey mum’s eight-year black mould nightmare continues despite council admitting living conditions are ‘unacceptable’](https://southwarknews.co.uk/area/bermondsey/bermondsey-mums-eight-year-black-mould-nightmare-continues-despite-council-admitting-living-conditions-are-unacceptable/)
-    
-    [![A group of hooded youths pictured in Rotherhithe. Image provided to Southwark News for publication.](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-1-1-360x180.png)](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
-    
-    ### [‘A masked biker tried to snatch my phone, minutes later I was threatened with a knife – but nothing came of it’](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +383,12 @@ Website
 
 ### Featured Articles
 
+[![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+
+### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+
+[12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+
 [![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-120x86.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
 
 ### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
@@ -412,12 +418,6 @@ Website
 ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
 
 [10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-[![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
-
-### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
-
-[10th November 2024](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
 
 ### USEFUL PAGES
 
