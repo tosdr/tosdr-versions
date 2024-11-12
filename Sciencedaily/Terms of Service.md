@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 11, 2024**
+**November 12, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Genomic Test to Diagnose Nearly Any Infection](https://www.sciencedaily.com/releases/2024/11/241112123431.htm)
+* [Robots With Superhuman Vision: Radio Signals](https://www.sciencedaily.com/releases/2024/11/241112123749.htm)
+* [Surprisingly Massive Galaxies in Early Universe](https://www.sciencedaily.com/releases/2024/11/241112123028.htm)
+* [First Amber Find On the Antarctic Continent](https://www.sciencedaily.com/releases/2024/11/241112122816.htm)
+* [Moderate Exercise Can Reduce Heart Risk](https://www.sciencedaily.com/releases/2024/11/241111155405.htm)
+* [Milestone in the Study of Octopus Arms](https://www.sciencedaily.com/releases/2024/11/241111162206.htm)
+* [Was 'Snowball Earth' a Global Event?](https://www.sciencedaily.com/releases/2024/11/241111155227.htm)
+* [Towards an Efficient Quantum 'Hard Drive'](https://www.sciencedaily.com/releases/2024/11/241111123405.htm)
+* [Asthma and Memory Difficulties](https://www.sciencedaily.com/releases/2024/11/241111122759.htm)
 * [Swirling Polar Vortices Likely Exist On the Sun](https://www.sciencedaily.com/releases/2024/11/241111155235.htm)
-* [Universal Scale: Testing Einstein's Predictions](https://www.sciencedaily.com/releases/2024/11/241111123136.htm)
-* [Secret Behind Corpse Flower's Famous Stench](https://www.sciencedaily.com/releases/2024/11/241111122833.htm)
-* [Storm in a Laser Beam](https://www.sciencedaily.com/releases/2024/11/241111123307.htm)
-* [Noncoding RNAs Are Not Junk](https://www.sciencedaily.com/releases/2024/11/241107115053.htm)
-* [Deep Ocean Clues to Ice Age Puzzle](https://www.sciencedaily.com/releases/2024/11/241108113456.htm)
-* [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
-* [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
-* [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
-* [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
 
 Trending Topics
 ---------------
@@ -249,17 +249,17 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
-
 [Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
-[K-12 Education](https://www.sciencedaily.com/news/mind_brain/k-12_education/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
+[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
@@ -267,9 +267,9 @@ this week
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Veterinary Medicine](https://www.sciencedaily.com/news/plants_animals/veterinary_medicine/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
   
 
