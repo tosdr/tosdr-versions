@@ -21,8 +21,6 @@
 * [Shop](https://shop.us.dlink.com/?utm_source=dlink_us_website&utm_medium=Shopbutton&utm_content=Shopbutton)
 * [Support](https://support.dlink.com/)
 
-![](/images/content/flags/en-us.png)
-
 [](https://us.dlink.com/us/en "D-Link")
 
  
@@ -304,8 +302,6 @@ Subscribe
     
     [Awards](https://company.dlink.com/en/esg/awards/)
     
-
-![](/images/content/flags/en-us.png)
 
 * [Privacy](https://us.dlink.com/us/en/privacy)
 * [Terms of use](https://us.dlink.com/us/en/terms-of-use)
