@@ -64,9 +64,7 @@
     [OS Maps](https://explore.osmaps.com/)[OS GetOutside blog](https://getoutside.ordnancesurvey.co.uk/)
     
 
-search
-
-account\_circleLog inkeyboard\_arrow\_down
+Log in
 
 Shop and OS maps
 
@@ -80,9 +78,9 @@ Data access
 * [Existing business orders](https://www.ordnancesurvey.co.uk/account/commercial-orders)
 * [OS Data Hub](https://osdatahub.os.uk/api/auth/signIn)
 
-searchSearch
+Search
 
-account\_circleLog inkeyboard\_arrow\_down
+Log in
 
 Shop and OS maps
 
@@ -100,27 +98,17 @@ Menu
 
 * Data products
     
-    arrow\_forward\_ios
-    
 * Services
-    
-    arrow\_forward\_ios
     
 * Customers
     
-    arrow\_forward\_ios
-    
 * About
-    
-    arrow\_forward\_ios
     
 * News & Insights
     
-    arrow\_forward\_ios
-    
 * Shop
     
-    ![](/img-assets/hiking.x54760774.svg)![](/img-assets/hiker-animation-orange.x3faabd4c.png)arrow\_forward\_ios
+    ![](/img-assets/hiking.x54760774.svg)![](/img-assets/hiker-animation-orange.x3faabd4c.png)
     
 [Customer support](https://www.ordnancesurvey.co.uk/customers/support)[Contact us](https://www.ordnancesurvey.co.uk/contact-us)
 
