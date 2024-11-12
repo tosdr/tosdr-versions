@@ -43,6 +43,10 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/ticket/campaign/1CategoryFeaturedStores/store/l-l-bean?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Books, Music, Movies & Games](https://www.rakuten.ca/stores/books-music-movies-games "Books, Music, Movies & Games Promo Codes and Coupons")
         
         [Books, Music, Movies & Games](https://www.rakuten.ca/stores/books-music-movies-games)
@@ -70,6 +74,10 @@ FR
         Book Outlet
         
         2.5% Cash Back](https://www.rakuten.ca/ticket/campaign/2CategoryFeaturedStores/store/book-outlet?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     * [Clothing, Shoes & Accessories](https://www.rakuten.ca/stores/clothing-shoes-accessories "Clothing, Shoes & Accessories Promo Codes and Coupons")
         
@@ -101,6 +109,10 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/ticket/campaign/3CategoryFeaturedStores/store/alo-yoga?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Computers, Electronics & Office](https://www.rakuten.ca/stores/computers-electronics-office "Computers, Electronics & Office Promo Codes and Coupons")
         
         [Computers, Electronics & Office](https://www.rakuten.ca/stores/computers-electronics-office)
@@ -130,6 +142,10 @@ FR
         Sonos
         
         2% Cash Back](https://www.rakuten.ca/ticket/campaign/4CategoryFeaturedStores/store/sonos?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     * [Department & Grocery Stores](https://www.rakuten.ca/stores/department-grocery-stores "Department & Grocery Stores Promo Codes and Coupons")
         
@@ -161,6 +177,10 @@ FR
         
         15% Cash Back](https://www.rakuten.ca/ticket/campaign/5CategoryFeaturedStores/store/chefsplate?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Drugstores](https://www.rakuten.ca/stores/drugstores "Drugstores Promo Codes and Coupons")
         
         [Drugstores](https://www.rakuten.ca/stores/drugstores)
@@ -186,6 +206,10 @@ FR
         Well.ca
         
         2% Cash Back](https://www.rakuten.ca/ticket/campaign/6CategoryFeaturedStores/store/well?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     * [Gifts & Flowers](https://www.rakuten.ca/stores/gifts-flowers "Gifts & Flowers Promo Codes and Coupons")
         
@@ -217,6 +241,10 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/ticket/campaign/8CategoryFeaturedStores/store/holt-renfrew?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Hardware & Tools](https://www.rakuten.ca/stores/hardware-tools "Hardware & Tools Promo Codes and Coupons")
         
         [Hardware & Tools](https://www.rakuten.ca/stores/hardware-tools)
@@ -246,6 +274,10 @@ FR
         Giant Tiger
         
         2% Cash Back](https://www.rakuten.ca/ticket/campaign/9CategoryFeaturedStores/store/giant-tiger?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     * [Health & Beauty](https://www.rakuten.ca/stores/health-beauty "Health & Beauty Promo Codes and Coupons")
         
@@ -277,6 +309,10 @@ FR
         
         11% Cash Back](https://www.rakuten.ca/ticket/campaign/10CategoryFeaturedStores/store/mac-cosmetics-ca?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Home, Auto & Garden](https://www.rakuten.ca/stores/home-auto-garden "Home, Auto & Garden Promo Codes and Coupons")
         
         [Home, Auto & Garden](https://www.rakuten.ca/stores/home-auto-garden)
@@ -306,6 +342,10 @@ FR
         Bouclair
         
         2% Cash Back](https://www.rakuten.ca/ticket/campaign/11CategoryFeaturedStores/store/bouclair.com?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     * [Luxury](https://www.rakuten.ca/stores/luxury "Luxury Promo Codes and Coupons")
         
@@ -337,6 +377,10 @@ FR
         
         up to 1% Cash Back](https://www.rakuten.ca/ticket/campaign/17CategoryFeaturedStores/store/coachoutlet?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Make Your Move](https://www.rakuten.ca/stores/make-your-move "Make Your Move Promo Codes and Coupons")
         
         [Make Your Move](https://www.rakuten.ca/stores/make-your-move)
@@ -366,6 +410,10 @@ FR
         TELUS
         
         up to 10% Cash Back](https://www.rakuten.ca/ticket/campaign/18CategoryFeaturedStores/store/telus?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     * [Pets](https://www.rakuten.ca/stores/pets "Pets Promo Codes and Coupons")
         
@@ -397,6 +445,10 @@ FR
         
         4% Cash Back](https://www.rakuten.ca/ticket/campaign/12CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Sports & Outdoor](https://www.rakuten.ca/stores/sports-outdoor "Sports & Outdoor Promo Codes and Coupons")
         
         [Sports & Outdoor](https://www.rakuten.ca/stores/sports-outdoor)
@@ -427,6 +479,10 @@ FR
         
         11% Cash Back](https://www.rakuten.ca/ticket/campaign/13CategoryFeaturedStores/store/thelasthunt.com?sourceName=nav-menu)
         
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
+        
     * [Tax & Financial Services](https://www.rakuten.ca/stores/financial-services "Tax & Financial Services Promo Codes and Coupons")
         
         [Tax & Financial Services](https://www.rakuten.ca/stores/financial-services)
@@ -454,6 +510,10 @@ FR
         H&R Block
         
         3.5% Cash Back](https://www.rakuten.ca/ticket/campaign/7CategoryFeaturedStores/store/hrblock?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     * [Travel & Vacations](https://www.rakuten.ca/stores/travel-vacations "Travel & Vacations Promo Codes and Coupons")
         
@@ -484,6 +544,10 @@ FR
         Booking.com
         
         4% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/booking-com?sourceName=nav-menu)
+        
+        [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
+        
+        ![](//static.rakuten.ca/img/page_component/7485/en_holiday-drop_down_leaderboard-784x95.png)](https://www.rakuten.ca/holiday-gifting)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -784,7 +848,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
+[![Earn 11% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/302080/en-stickyfooter-1170x60_ua11.png "Under Armour Canada Coupons, Promo Codes")
+
+was 2%, now
+
+11% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
