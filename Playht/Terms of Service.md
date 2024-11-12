@@ -322,6 +322,11 @@ EACH PROVISION OF THESE TERMS THAT PROVIDES FOR A LIMITATION OF LIABILITY, DISCL
 * [Audio Accessiblity](https://play.ht/audio-articles/)
 * [YouTube videos](https://play.ht/use-cases/youtube-videos/)
 * [TikTok videos](https://play.ht/use-cases/tiktok-videos/)
+* [AI Phone Call](https://play.ht/ai-phone-call/)
+* [AI Telemarketing](https://play.ht/ai-telemarketing/)
+* [AI Receptionist](https://play.ht/ai-receptionist/)
+* [AI Voice Bot](https://play.ht/ai-voice-bot/)
+* [AI IVR System](https://play.ht/ai-ivr/)
 
 ##### Integrations
 
