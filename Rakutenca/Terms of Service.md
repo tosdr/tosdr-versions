@@ -261,7 +261,7 @@ FR
         
         up to 11% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
-        6% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
+        3% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
         
         $3 Cash Back](https://www.rakuten.ca/weight-watchers-canada)
         
@@ -315,7 +315,7 @@ FR
         
         [Michael Kors
         
-        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        6% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
