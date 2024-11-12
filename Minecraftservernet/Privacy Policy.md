@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
+[![OblivionPrison](plugins/MineCraft/icons/25x25xOblivionPrison_1716869247.png.pagespeed.ic.FbvFd6IVCa.jpg)
 
-Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1731370671.png.pagespeed.ce.4K26pX4nDP.png)
+Oblivion Prison](https://minecraft-server.net/details/OblivionPrison/ "Oblivion Prison")[![PLAYKRETMCPL](plugins/MineCraft/icons/25x25xPLAYKRETMCPL_1699453929.png.pagespeed.ic.csO5XeMY1u.png)
 
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Minecraft Bedrock PL](https://minecraft-server.net/details/PLAYKRETMCPL/ "Minecraft Bedrock PL")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
 
-Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")
+ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06664 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.077 - Created by [Debaucus](https://debauc.us/)
