@@ -64,9 +64,7 @@
     [OS Maps](https://explore.osmaps.com/)[OS GetOutside blog](https://getoutside.ordnancesurvey.co.uk/)
     
 
-search
-
-account\_circleLog inkeyboard\_arrow\_down
+Log in
 
 Shop and OS maps
 
@@ -80,9 +78,9 @@ Data access
 * [Existing business orders](https://www.ordnancesurvey.co.uk/account/commercial-orders)
 * [OS Data Hub](https://osdatahub.os.uk/api/auth/signIn)
 
-searchSearch
+Search
 
-account\_circleLog inkeyboard\_arrow\_down
+Log in
 
 Shop and OS maps
 
@@ -100,27 +98,17 @@ Menu
 
 * Data products
     
-    arrow\_forward\_ios
-    
 * Services
-    
-    arrow\_forward\_ios
     
 * Customers
     
-    arrow\_forward\_ios
-    
 * About
-    
-    arrow\_forward\_ios
     
 * News & Insights
     
-    arrow\_forward\_ios
-    
 * Shop
     
-    ![](/img-assets/hiking.x54760774.svg)![](/img-assets/hiker-animation-orange.x3faabd4c.png)arrow\_forward\_ios
+    ![](/img-assets/hiking.x54760774.svg)![](/img-assets/hiker-animation-orange.x3faabd4c.png)
     
 [Customer support](https://www.ordnancesurvey.co.uk/customers/support)[Contact us](https://www.ordnancesurvey.co.uk/contact-us)
 
@@ -190,10 +178,10 @@ We operate different websites, Apps (web and mobile) and an online retail shop (
 
 If you are accessing our OS Sites and/or Services from a location outside of the UK or the European Economic Area (the EEA), please refer to the section "Additional information for international users (outside of the UK or EEA)" at the end of this Privacy Policy for important additional information.
 
-Further detailsShow all sectionsexpand\_circle\_down
-----------------------------------------------------
+Further detailsShow all sections
+--------------------------------
 
-### Legal Basis and purpose for processing your personal data (UK and EEA residents only)expand\_circle\_down
+### Legal Basis and purpose for processing your personal data (UK and EEA residents only)
 
 We must follow certain rules when we have your personal data.
 
@@ -212,7 +200,7 @@ If you are accessing our Sites and Services from a location outside of the UK or
 
 Read more
 
-### We process the following types of dataexpand\_circle\_down
+### We process the following types of data
 
 The types of data we process include Personal, Special Category and Pseudonymised data.
 
@@ -222,7 +210,7 @@ The types of data we process include Personal, Special Category and Pseudonymise
 
 Read more
 
-### How we collect your personal dataexpand\_circle\_down
+### How we collect your personal data
 
 We are committed to protecting your personal information and respecting your privacy. We may collect and process personal data about you in different ways, depending on the nature of our relationship with you.
 
@@ -245,7 +233,7 @@ We also use web and mobile analytics technologies for our OS Sites and/or Servic
 
 Read more
 
-### Cookiesexpand\_circle\_down
+### Cookies
 
 We use cookies to distinguish you from other users of our Sites and Services.
 
@@ -253,7 +241,7 @@ This helps us to provide you with a good experience when you use our Sites and S
 
 Read more
 
-### How we use your personal dataexpand\_circle\_down
+### How we use your personal data
 
 The main reason we need to use your personal data is to know who you are. If we do not have your personal data, it could mean you miss out on the things we can do for you.
 
@@ -275,7 +263,7 @@ We may also use your data in the following ways:
 
 Read more
 
-### Our Legitimate Interestsexpand\_circle\_down
+### Our Legitimate Interests
 
 There are times when we will rely on legitimate interests to process personal data, particularly when it is not practical to obtain consent.
 
@@ -297,7 +285,7 @@ We may also use your data in the following ways:
 
 Read more
 
-### Categories of personal data you give to usexpand\_circle\_down
+### Categories of personal data you give to us
 
 Personal data is information that relates to an individual, which covers a wide range of categories.
 
@@ -319,7 +307,7 @@ The personal data you give us includes:
 
 Read more
 
-### Your Location informationexpand\_circle\_down
+### Your Location information
 
 There are several ways we may use your Location information.
 
@@ -329,7 +317,7 @@ There are several ways we may use your Location information.
 
 Read more
 
-### Your Device informationexpand\_circle\_down
+### Your Device information
 
 Each time you visit or use our OS Sites and/or Services, we may automatically collect the following information.
 
@@ -339,7 +327,7 @@ Each time you visit or use our OS Sites and/or Services, we may automatically co
 
 Read more
 
-### We use the Device information in the following waysexpand\_circle\_down
+### We use the Device information in the following ways
 
 These are some of the ways in which we use Device information.
 
@@ -351,7 +339,7 @@ These are some of the ways in which we use Device information.
 
 Read more
 
-### We use the Log information in the following waysexpand\_circle\_down
+### We use the Log information in the following ways
 
 Here are the ways in which we use Log information.
 
@@ -363,7 +351,7 @@ Here are the ways in which we use Log information.
 
 Read more
 
-### Information we pass to Third Parties and other Data Sharingexpand\_circle\_down
+### Information we pass to Third Parties and other Data Sharing
 
 Sometimes we may need to share your personal data, or other people might share it with us. We are very careful about how we do this, meaning there are even more rules.
 
@@ -397,7 +385,7 @@ We require all third parties to respect the security of your personal data and t
 
 Read more
 
-### Seeing adverts for Ordnance Survey onlineexpand\_circle\_down
+### Seeing adverts for Ordnance Survey online
 
 We use online marketing to keep you up to date with our products and offers.
 
@@ -411,7 +399,7 @@ For more information on our use of advertising technologies and cookies please s
 
 Read more
 
-### Data transfers to third countriesexpand\_circle\_down
+### Data transfers to third countries
 
 Your personal information may be transferred to, and processed in, countries other than the country in which you are a resident. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective).
 
@@ -421,7 +409,7 @@ However, we have taken appropriate safeguards to require your personal informati
 
 Read more
 
-### Data security and how we store personal dataexpand\_circle\_down
+### Data security and how we store personal data
 
 We store personal data as either secure physical records, or electronically on our internal IT systems, in cloud storage, and in some cases, records on third party servers, which may be located in various countries (please see the "Data transfers to third countries" section above for more details).
 
@@ -431,7 +419,7 @@ We have put in place procedures to deal with any suspected personal data breach 
 
 Read more
 
-### Retaining your personal informationexpand\_circle\_down
+### Retaining your personal information
 
 We will retain your personal data for as long as necessary to fulfil the purposes we collected it for, including the purposes of satisfying any legal, accounting, or reporting requirements. We may also retain your personal data for a reasonable period after collecting it, to allow us to respond to any follow up enquiries or complaints, or for as long as you remain a registered user of our products and services.
 
@@ -443,7 +431,7 @@ In some circumstances you can ask us to delete your data: see Right to Erasure b
 
 Read more
 
-### Data protection rights for UK and EEA Data Subjectsexpand\_circle\_down
+### Data protection rights for UK and EEA Data Subjects
 
 If you are a resident of the UK or EEA, you have the following data protection rights.
 
@@ -467,7 +455,7 @@ If you are a resident of the UK or EEA, you have the following data protection r
 
 Read more
 
-### Using our Chatbot and Live chatexpand\_circle\_down
+### Using our Chatbot and Live chat
 
 We keep a record of all conversations with our ChatBot and Live chat, to keep improving our customer’s experience.
 
@@ -483,7 +471,7 @@ It is important you do not provide any sensitive information that is not directl
 
 Read more
 
-### Duke of Edinburgh Scheme Participant OS Maps Usersexpand\_circle\_down
+### Duke of Edinburgh Scheme Participant OS Maps Users
 
 We are committed to protecting the privacy of children who use the OS Maps service for the Duke of Edinburgh Award Scheme.
 
@@ -499,7 +487,7 @@ Categories of personal data collected are:
 
 Read more
 
-### Additional information for international users (outside of the UK or EEA)expand\_circle\_down
+### Additional information for international users (outside of the UK or EEA)
 
 The following information affects international users (outside of the UK or EEA).
 
@@ -615,7 +603,7 @@ We may take steps to verify your identity and the authenticity of the request. O
 
 Read more
 
-### Changes to this Privacy Policyexpand\_circle\_down
+### Changes to this Privacy Policy
 
 Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you.
 
