@@ -1,28 +1,47 @@
 [](https://www.expressvpn.com/ "Express VPN")
 
-* [What is a VPN?](https://www.expressvpn.com/what-is-vpn)
-* [What We Offer](https://www.expressvpn.com/features)
+* Why ExpressVPN? submenu
+    
+    * [What Is a VPN?](https://www.expressvpn.com/what-is-vpn)
+    * [Servers in 105 Countries](https://www.expressvpn.com/vpn-server)
+    * [Enjoy Sites and Services](https://www.expressvpn.com/vpn-service)
+    * [VPN for Gaming](https://www.expressvpn.com/gaming)
+    * [No-Logs Policy](https://www.expressvpn.com/what-is-vpn/policy-towards-logs)
+    * [Our Experts](https://www.expressvpn.com/experts)
+    * [Explore All Features](https://www.expressvpn.com/features)
+    
+* Products submenu
     
     * [Keys Password Manager](https://www.expressvpn.com/keys)
-    * [Aircove Router](https://www.expressvpn.com/aircove)
-    * [Servers in 105 Countries](https://www.expressvpn.com/vpn-server)
-    * [Sites and Services](https://www.expressvpn.com/vpn-service)
-    * [VPN for Gaming](https://www.expressvpn.com/gaming)
-    * [Policy Against Logs](https://www.expressvpn.com/what-is-vpn/policy-towards-logs)
+    * [Aircove Routers](https://www.expressvpn.com/aircove)
+    * [Threat Manager](https://www.expressvpn.com/features/threat-manager)
+    * [Ad Blocker](https://www.expressvpn.com/features/ad-blocker)
+    * [Parental Controls](https://www.expressvpn.com/features/parental-controls)
+    * [Dedicated IP](https://www.expressvpn.com/features/dedicated-ip)
+    * [ID Alerts](https://www.expressvpn.com/features/id-defender/id-alerts)
+    * [ID Theft Insurance](https://www.expressvpn.com/features/id-defender/id-theft-insurance)
+    * [Data Removal](https://www.expressvpn.com/features/id-defender/data-removal)
     
-* [Download VPN](https://www.expressvpn.com/vpn-download)
+* Devices submenu
     
-    * [Windows PC VPN](https://www.expressvpn.com/vpn-download/vpn-windows)
-    * [Mac VPN](https://www.expressvpn.com/vpn-download/vpn-mac)
-    * [iPhone VPN (iOS)](https://www.expressvpn.com/vpn-download/vpn-ios)
-    * [Android VPN APK](https://www.expressvpn.com/vpn-download/vpn-android)
-    * [Router VPN](https://www.expressvpn.com/vpn-download/vpn-router)
-    * [Apple TV VPN](https://www.expressvpn.com/vpn-download/vpn-apple-tv)
-    * [Fire Stick VPN](https://www.expressvpn.com/vpn-download/vpn-fire-tv-stick)
-    * [Android TV VPN](https://www.expressvpn.com/vpn-download/vpn-android-tv)
-    * [Chrome VPN Extension](https://www.expressvpn.com/vpn-download/chrome-vpn)
+    * [MacOS](https://www.expressvpn.com/vpn-download/vpn-mac)
+    * [Windows PC](https://www.expressvpn.com/vpn-download/vpn-windows)
+    * [iOS (iPhone & iPad)](https://www.expressvpn.com/vpn-download/vpn-ios)
+    * [Android](https://www.expressvpn.com/vpn-download/vpn-android)
+    * [Linux](https://www.expressvpn.com/vpn-download/vpn-linux)
+    * [Routers](https://www.expressvpn.com/vpn-download/vpn-router)
+    * [Apple TV](https://www.expressvpn.com/vpn-download/vpn-apple-tv)
+    * [Fire Stick](https://www.expressvpn.com/vpn-download/vpn-fire-tv-stick)
+    * [Android TV](https://www.expressvpn.com/vpn-download/vpn-android-tv)
+    * [Chrome Extension](https://www.expressvpn.com/vpn-download/chrome-vpn)
+    * [Download VPN](https://www.expressvpn.com/vpn-download)
     
-* [Support](https://www.expressvpn.com/support)
+* Get Help submenu
+    
+    * [Support Center](https://www.expressvpn.com/support)
+    * [Live Chat](https://www.expressvpn.com/support/#open-chat)
+    * [Enter Redemption Code](https://www.expressvpn.com/redeem)
+    
 * [Blog](https://www.expressvpn.com/blog)
 * [My Account](https://www.expressvpn.com/sign-in)[](https://www.expressvpn.com/sign-in)
 * English Language
@@ -40,29 +59,56 @@
         
         [Setup](https://www.expressvpn.com/setup)
         
-    * [What is a VPN?](https://www.expressvpn.com/what-is-vpn)
-    * [What We Offer](https://www.expressvpn.com/features) submenu
+    * Why ExpressVPN?
+        
+        submenu
+        
+        * [What Is a VPN?](https://www.expressvpn.com/what-is-vpn)
+        * [Servers in 105 Countries](https://www.expressvpn.com/vpn-server)
+        * [Enjoy Sites and Services](https://www.expressvpn.com/vpn-service)
+        * [VPN for Gaming](https://www.expressvpn.com/gaming)
+        * [No-Logs Policy](https://www.expressvpn.com/what-is-vpn/policy-towards-logs)
+        * [Our Experts](https://www.expressvpn.com/experts)
+        * [Explore All Features](https://www.expressvpn.com/features)
+        
+    * Products
+        
+        submenu
         
         * [Keys Password Manager](https://www.expressvpn.com/keys)
-        * [Aircove Router](https://www.expressvpn.com/aircove)
-        * [Servers in 105 Countries](https://www.expressvpn.com/vpn-server)
-        * [Sites and Services](https://www.expressvpn.com/vpn-service)
-        * [VPN for Gaming](https://www.expressvpn.com/gaming)
-        * [Policy Against Logs](https://www.expressvpn.com/what-is-vpn/policy-towards-logs)
+        * [Aircove Routers](https://www.expressvpn.com/aircove)
+        * [Threat Manager](https://www.expressvpn.com/features/threat-manager)
+        * [Ad Blocker](https://www.expressvpn.com/features/ad-blocker)
+        * [Parental Controls](https://www.expressvpn.com/features/parental-controls)
+        * [Dedicated IP](https://www.expressvpn.com/features/dedicated-ip)
+        * [ID Alerts](https://www.expressvpn.com/features/id-defender/id-alerts)
+        * [ID Theft Insurance](https://www.expressvpn.com/features/id-defender/id-theft-insurance)
+        * [Data Removal](https://www.expressvpn.com/features/id-defender/data-removal)
         
-    * [Download VPN](https://www.expressvpn.com/vpn-download) submenu
+    * Devices
         
-        * [Windows PC VPN](https://www.expressvpn.com/vpn-download/vpn-windows)
-        * [Mac VPN](https://www.expressvpn.com/vpn-download/vpn-mac)
-        * [iPhone VPN (iOS)](https://www.expressvpn.com/vpn-download/vpn-ios)
-        * [Android VPN APK](https://www.expressvpn.com/vpn-download/vpn-android)
-        * [Router VPN](https://www.expressvpn.com/vpn-download/vpn-router)
-        * [Apple TV VPN](https://www.expressvpn.com/vpn-download/vpn-apple-tv)
-        * [Fire Stick VPN](https://www.expressvpn.com/vpn-download/vpn-fire-tv-stick)
-        * [Android TV VPN](https://www.expressvpn.com/vpn-download/vpn-android-tv)
-        * [Chrome VPN Extension](https://www.expressvpn.com/vpn-download/chrome-vpn)
+        submenu
         
-    * [Support](https://www.expressvpn.com/support)
+        * [MacOS](https://www.expressvpn.com/vpn-download/vpn-mac)
+        * [Windows PC](https://www.expressvpn.com/vpn-download/vpn-windows)
+        * [iOS (iPhone & iPad)](https://www.expressvpn.com/vpn-download/vpn-ios)
+        * [Android](https://www.expressvpn.com/vpn-download/vpn-android)
+        * [Linux](https://www.expressvpn.com/vpn-download/vpn-linux)
+        * [Routers](https://www.expressvpn.com/vpn-download/vpn-router)
+        * [Apple TV](https://www.expressvpn.com/vpn-download/vpn-apple-tv)
+        * [Fire Stick](https://www.expressvpn.com/vpn-download/vpn-fire-tv-stick)
+        * [Android TV](https://www.expressvpn.com/vpn-download/vpn-android-tv)
+        * [Chrome Extension](https://www.expressvpn.com/vpn-download/chrome-vpn)
+        * [Download VPN](https://www.expressvpn.com/vpn-download)
+        
+    * Get Help
+        
+        submenu
+        
+        * [Support Center](https://www.expressvpn.com/support)
+        * [Live Chat](https://www.expressvpn.com/support/#open-chat)
+        * [Enter Redemption Code](https://www.expressvpn.com/redeem)
+        
     * [Blog](https://www.expressvpn.com/blog)
     * [My Account](https://www.expressvpn.com/sign-in)
     
@@ -259,7 +305,7 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 * [Download ExpressVPN](https://www.expressvpn.com/vpn-download)
 * [MacOS](https://www.expressvpn.com/vpn-download/vpn-mac)
 * [Windows PC](https://www.expressvpn.com/vpn-download/vpn-windows)
-* [iPhone / iOS](https://www.expressvpn.com/vpn-download/vpn-ios)
+* [iOS (iPhone & iPad)](https://www.expressvpn.com/vpn-download/vpn-ios)
 * [Android](https://www.expressvpn.com/vpn-download/vpn-android)
 * [Linux](https://www.expressvpn.com/vpn-download/vpn-linux)
 * [Routers](https://www.expressvpn.com/vpn-download/vpn-router)
@@ -295,9 +341,10 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 * [Careers](https://www.expressvpn.com/jobs)
 
 * Programs
+* [Tottenham Hotspur](https://www.expressvpn.com/tottenham-hotspur)
+* [Partner With Us](https://www.expressvpn.com/partners)
 * [Affiliates](https://www.expressvpn.com/affiliates)
 * [Influencers](https://www.expressvpn.com/influencers)
-* [Partners](https://www.expressvpn.com/partners)
 
 * Get Help
 * [Support Center](https://www.expressvpn.com/support/)
@@ -305,7 +352,7 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 * [FAQ](https://www.expressvpn.com/support/troubleshooting/frequently-asked-questions/)
 * [Contact Us](https://www.expressvpn.com/#seopenchat)
 * [Buy VPN](https://www.expressvpn.com/order)
-* [Redeem Subscription Code](https://www.expressvpn.com/redeem)
+* [Enter Redemption Code](https://www.expressvpn.com/redeem)
 
 * Learn More
 * [What Is a VPN?](https://www.expressvpn.com/what-is-vpn)
