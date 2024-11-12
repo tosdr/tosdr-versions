@@ -407,26 +407,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.msub.org.rs](https://www.msub.org.rs/)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
     
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    Mednarodni grafični likovni center/Švicarija, Grad Tivoli, Pod turnom 3, Ljubljana
     
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    **ANTONIO PICHILLÁ QUIACAÍN** (1982, San Pedro La Laguna, Sololá, Gvatemala): **DARITEV / THE OFFERING** - razstava (18.9.2024.-12.1.2025.)
     
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    [https://galeriaelviramoreno.com/artists/54-antonio-pichilla-quiacain/overview](https://galeriaelviramoreno.com/artists/54-antonio-pichilla-quiacain/overview)
     
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    Kustosinja razstave: Yasmín Martín Vodopivec
+    
+    [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit/otvaranje-07.jpg?itok=c4t_ggXf)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-skoplje/odmazda-skoplje6.jpg?itok=DRxr1Mrn)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-skoplje)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu/ubns-digi5.jpg?itok=Y0SfnWUY)](http://seecult.org/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bilal-no-suicide.jpg?itok=kqCuRIQ5)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
