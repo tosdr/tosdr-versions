@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Balance
+
+### Europe’s path for a just migration](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1112/Europe-s-path-for-a-just-migration "Europe’s path for a just migration")
+
+[Creativity
+
+### They took up arms to fight Russia. They’ve taken up pens to express themselves.](https://www.csmonitor.com/World/Europe/2024/1112/ukraine-war-russia-poetry-prose-literature-book-fair "They took up arms to fight Russia. They’ve taken up pens to express themselves.")
+
 [Community
 
 ### ‘Circling the drain.’ How one Georgia veteran fought off homelessness.](https://www.csmonitor.com/USA/Society/2024/1111/veterans-day-va-homeless-georgia "‘Circling the drain.’ How one Georgia veteran fought off homelessness.")
-
-[Compassion
-
-### A shield for Gaza’s innocent](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1108/A-shield-for-Gaza-s-innocent "A shield for Gaza’s innocent")
-
-[Respect
-
-### How to move past ‘othering,’ and toward mutual respect](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2439 "How to move past ‘othering,’ and toward mutual respect")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -160,11 +160,11 @@ Regions
 
 Recent Stories
 
+[### They took up arms to fight Russia. They’ve taken up pens to express themselves.](https://www.csmonitor.com/World/Europe/2024/1112/ukraine-war-russia-poetry-prose-literature-book-fair "They took up arms to fight Russia. They’ve taken up pens to express themselves.")
+
 [### ‘Circling the drain.’ How one Georgia veteran fought off homelessness.](https://www.csmonitor.com/USA/Society/2024/1111/veterans-day-va-homeless-georgia "‘Circling the drain.’ How one Georgia veteran fought off homelessness.")
 
 [### Ukrainian drones strike Moscow as Russia looks toward Trump’s presidency](https://www.csmonitor.com/World/Europe/2024/1110/ukraine-drone-attack-moscow-russia-trump-peace-talks "Ukrainian drones strike Moscow as Russia looks toward Trump’s presidency")
-
-[### Qatar halts its Israel-Hamas mediation efforts, citing lack of ‘good faith’](https://www.csmonitor.com/World/Middle-East/2024/1109/israel-hamas-peace-talks-suspended-qatar-ceasefire "Qatar halts its Israel-Hamas mediation efforts, citing lack of ‘good faith’")
 
 * * *
 
