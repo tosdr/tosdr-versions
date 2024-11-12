@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic, 2D cartoon-style image of a friendly character with glasses holding a checklist labeled 'Pay Off Holiday Debt' with a confident expression. Surrounding them are holiday-themed icons like gift boxes, a credit card, a piggy bank, and dollar signs, symbolizing strategies for managing and paying off holiday expenses. The background includes elements like a calendar and checklist items, using flat colors and minimal shading for an approachable and easy-to-follow design.](https://creditnerds.com/wp-content/uploads/2024/11/Holiday-Debt-30x30.webp)](https://creditnerds.com/how-to-pay-off-holiday-debt/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+November 11, 2024
+
+#### [How to Pay Off Holiday Debt](https://creditnerds.com/how-to-pay-off-holiday-debt/)
+
+The holiday season often brings joy and celebration, but it can also leave us with a financial hangover. Between gifts, parties, and travel expenses, many people find themselves facing holiday debt in the new year. If this sounds familiar, you’re not alone. However, with a proactive approach, you can learn how to pay off holiday …
+
+[Read More](https://creditnerds.com/how-to-pay-off-holiday-debt/)
+
 [![A semi-realistic, 2D cartoon-style image of a concerned character with glasses holding a document labeled 'Social Security' and looking thoughtful. Surrounding icons, such as a padlock, shield, warning symbol, and question marks, represent identity protection and steps to take if a Social Security number is stolen. The design uses flat colors and minimal shading, creating an approachable and informative visual on identity theft.](https://creditnerds.com/wp-content/uploads/2024/11/Social-Security-Fraud-30x30.webp)](https://creditnerds.com/what-to-do-if-your-social-security-number-is-stolen/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -386,18 +398,6 @@ October 9, 2024
 The holiday season brings joy, family time, and gift-giving, but it also increases the risk of scams and identity theft. As you juggle your to-do list and manage holiday expenses, fraudsters may see an opportunity to target you. To stay safe, follow these 7 tips to avoid holiday scams and protect your identity in 2024. …
 
 [Read More](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
-
-[![Cartoon-style image of a person wearing glasses, standing in front of a timeline with highlighted ages such as 18, 21, and 25. The character holds a credit card and looks thoughtful, considering the best age to get one. Symbols like dollar signs, credit scores, and a calendar appear in the background, representing financial growth and responsibility.](https://creditnerds.com/wp-content/uploads/2024/10/What-age-to-get-a-credit-card-30x30.webp)](https://creditnerds.com/what-is-the-best-age-to-get-a-credit-card/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-October 8, 2024
-
-#### [What Is the Best Age to Get a Credit Card?](https://creditnerds.com/what-is-the-best-age-to-get-a-credit-card/)
-
-Deciding when to get your first credit card is an important financial decision. While the minimum age to get a credit card is typically 18, there are several factors to consider. You must meet the issuer's credit requirements, have a reliable source of income, and possess the financial skills to manage it responsibly. Let’s explore …
-
-[Read More](https://creditnerds.com/what-is-the-best-age-to-get-a-credit-card/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
