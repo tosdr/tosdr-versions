@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Arrest made after hiker murdered in small mountain town slaying staged as bear attack](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/tenn-hiker1.jpg?ve=1&tl=1)
+ [![Dead body found wrapped up in Garland condo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111124-garland-chaha-rd-body-found-raw-lv_00.05.17.18.jpg?ve=1&tl=1)
 
- ![Arrest made after hiker murdered in small mountain town slaying staged as bear attack](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/tenn-hiker1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arrest-made-after-hiker-murdered-small-mountain-town-slaying-staged-bear-attack)
+ ![Dead body found wrapped up in Garland condo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111124-garland-chaha-rd-body-found-raw-lv_00.05.17.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/garland-body-found-chaha-condo)
 
-### [Arrest made after hiker murdered in small mountain town slaying staged as bear attack](https://www.fox4news.com/news/arrest-made-after-hiker-murdered-small-mountain-town-slaying-staged-bear-attack)
+### [Dead body found wrapped up in Garland condo](https://www.fox4news.com/news/garland-body-found-chaha-condo)
 
- [![Why is Thanksgiving so late this year?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/thanksgiving-dinner.jpg?ve=1&tl=1)
+ [![Lewisville ISD parents voice concerns about possible closure of 5 elementary schools](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111124-lewisville-isd-school-closures-qt-9p-pkg_kd_00.00.55.54.jpg?ve=1&tl=1)
 
- ![Why is Thanksgiving so late this year?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/thanksgiving-dinner.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/why-thanksgiving-late-this-year)
+ ![Lewisville ISD parents voice concerns about possible closure of 5 elementary schools](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111124-lewisville-isd-school-closures-qt-9p-pkg_kd_00.00.55.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-isd-parents-voice-concerns-about-possible-closure-5-elementary-schools)
 
-### [Why is Thanksgiving so late this year?](https://www.fox4news.com/news/why-thanksgiving-late-this-year)
+### [Lewisville ISD parents voice concerns about possible closure of 5 elementary schools](https://www.fox4news.com/news/lewisville-isd-parents-voice-concerns-about-possible-closure-5-elementary-schools)
 
- [![Judge rules New York City can't block migrant buses from Texas](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/GettyImages-1651037905.jpg?ve=1&tl=1)
+ [![DeSoto woman shoots armed intruder who followed her home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-peyton-desoto-raintree-cir-shooting-1030p_00.02.00.14.jpg?ve=1&tl=1)
 
- ![Judge rules New York City can't block migrant buses from Texas](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/592/333/GettyImages-1651037905.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/judge-rules-new-york-city-cant-block-migrant-buses-from-texas)
+ ![DeSoto woman shoots armed intruder who followed her home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-peyton-desoto-raintree-cir-shooting-1030p_00.02.00.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-woman-shoots-armed-intruder-who-followed-her-home)
 
-### [Judge rules New York City can't block migrant buses from Texas](https://www.fox4news.com/news/judge-rules-new-york-city-cant-block-migrant-buses-from-texas)
+### [DeSoto woman shoots armed intruder who followed her home](https://www.fox4news.com/news/desoto-woman-shoots-armed-intruder-who-followed-her-home)
 
- [![Trump prioritizes border by selecting Tom Homan as Border Czar](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111124-border-security-birthright-citizenship-dial_00.01.54.48.jpg?ve=1&tl=1)
+ [![Texas Michelin Guide: Here are your Michelin star restaurants & honorable mentions](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2144490955.jpg?ve=1&tl=1)
 
- ![Trump prioritizes border by selecting Tom Homan as Border Czar](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111124-border-security-birthright-citizenship-dial_00.01.54.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-prioritizes-border-tom-homan-border-czar)
+ ![Texas Michelin Guide: Here are your Michelin star restaurants & honorable mentions](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2144490955.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-updates-texas-michelin-star-restaurants-winners-guide-2024)
 
-### [Trump prioritizes border by selecting Tom Homan as Border Czar](https://www.fox4news.com/news/trump-prioritizes-border-tom-homan-border-czar)
+### [Texas Michelin Guide: Here are your Michelin star restaurants & honorable mentions](https://www.fox4news.com/news/live-updates-texas-michelin-star-restaurants-winners-guide-2024)
 
- [![It cost $194 million in 2023 to care for the homeless in Dallas, Collin counties: study](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/01/32/18/010523-Rabb-Homeless-Broll-MG-KDFWEME002_mpg_00.02.57.10.jpg?ve=1&tl=1)
+ [![How many House seats are still undecided? GOP close to majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183367837.jpg?ve=1&tl=1)
 
- ![It cost $194 million in 2023 to care for the homeless in Dallas, Collin counties: study](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/01/32/18/592/333/010523-Rabb-Homeless-Broll-MG-KDFWEME002_mpg_00.02.57.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/housing-forward-2023-homelessness-estimate-survey)
+ ![How many House seats are still undecided? GOP close to majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183367837.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/house-election-results-majority-republicans-democrats-races-still-undecided)
 
-### [It cost $194 million in 2023 to care for the homeless in Dallas, Collin counties: study](https://www.fox4news.com/news/housing-forward-2023-homelessness-estimate-survey)
+### [How many House seats are still undecided? GOP close to majority](https://www.fox4news.com/news/house-election-results-majority-republicans-democrats-races-still-undecided)
 
 ###### [News](https://www.fox4news.com/news)
 
