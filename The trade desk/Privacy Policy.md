@@ -14,8 +14,7 @@
     
 * [Resources and insights](https://www.thetradedesk.com/us/resource-desk)
     
-* [Edge Academy](https://www.thetradedesk.com/us/edge-academy)
-    
+* [Edge Academy](https://edgeacademy.thetradedesk.com/)
 
 [Contact Us](https://www.thetradedesk.com/us/contact-us)
 
@@ -29,8 +28,7 @@ Close×
     
 * [Resources and insights](https://www.thetradedesk.com/us/resource-desk)
     
-* [Edge Academy](https://www.thetradedesk.com/us/edge-academy)
-    
+* [Edge Academy](https://edgeacademy.thetradedesk.com/)
 
 * [Careers](https://careers.thetradedesk.com/)
 * [Investors](https://www.thetradedesk.com/us/about-us/investors)
