@@ -302,7 +302,7 @@ View the signed MOU](https://www.fcps.edu/about-fcps/safety-security/school-reso
 
 ### Digital Privacy in FCPS
 
-Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/family-resources/technology/digital-citizenship-internet-safety/digital-privacy-fcps)  [![Student working on a computer](/sites/default/files/styles/card_1x/public/media/hero/071203-1077.jpg?h=69879900&itok=eRLpKtbe)
+Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/services/technology/digital-citizenship-guidance-technology-use/digital-privacy-fcps)  [![Student working on a computer](/sites/default/files/styles/card_1x/public/media/hero/071203-1077.jpg?h=69879900&itok=eRLpKtbe)
 
 ### Internet Content Filtering
 
