@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [In Arizona, Gallego Beats Lake in US Senate Showdown](https://www.theepochtimes.com/us/in-arizona-gallego-beats-lake-in-us-senate-showdown-5751627)
+    
+    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![In Arizona, Gallego Beats Lake in US Senate Showdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Arizona, Gallego Beats Lake in US Senate Showdown](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697561-lake-gallegoKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-gallego-beats-lake-in-us-senate-showdown-5751627)
+* [GOP Incumbent Mike Garcia Concedes California House Seat](https://www.theepochtimes.com/us/gop-incumbent-mike-garcia-concedes-california-house-seat-5758178)
+    
+    5hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    
+    [![GOP Incumbent Mike Garcia Concedes California House Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![GOP Incumbent Mike Garcia Concedes California House Seat](https://img.theepochtimes.com/assets/uploads/2023/10/17/id5511896-10162023-DSC07648-Mike-Garcia-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-incumbent-mike-garcia-concedes-california-house-seat-5758178)
 * [Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://www.theepochtimes.com/article/day-in-photos-veterans-day-parade-cop29-opening-and-a-bathing-baby-hippo-5757727)
     
-    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    8hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758024-DSC04331-veterans-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-veterans-day-parade-cop29-opening-and-a-bathing-baby-hippo-5757727)
 * [Republicans Are 4 Seats Away From Retaining House Majority](https://www.theepochtimes.com/us/republicans-are-4-seats-away-from-retaining-house-majority-5757777)
     
-    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    9hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![Republicans Are 4 Seats Away From Retaining House Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Republicans Are 4 Seats Away From Retaining House Majority](https://img.theepochtimes.com/assets/uploads/2024/07/16/id5687637-GettyImages-1246018028-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-are-4-seats-away-from-retaining-house-majority-5757777)
 * [Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://www.theepochtimes.com/us/judge-to-rule-on-whether-trumps-conviction-should-stand-in-light-of-presidential-immunity-ruling-5757677)
     
-    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    9hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5642357-Trump-Judge-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-to-rule-on-whether-trumps-conviction-should-stand-in-light-of-presidential-immunity-ruling-5757677)
 * [8 Things to Know About Tom Homan, Trump’s New Border Czar](https://www.theepochtimes.com/article/8-things-to-know-about-tom-homan-trumps-new-border-czar-5757848)
     
-    5hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    11hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![8 Things to Know About Tom Homan, Trump’s New Border Czar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![8 Things to Know About Tom Homan, Trump’s New Border Czar](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757988-GettyImages-955742058-OP-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/8-things-to-know-about-tom-homan-trumps-new-border-czar-5757848)
 * [Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://www.theepochtimes.com/us/ohio-gov-dewine-begins-process-of-selecting-vances-senate-replacement-5757926)
     
-    5hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    11hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
     
     [![Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725199-Haitian_Immigrants_Springfield_24260704500954-205x123.jpg.webp)](https://www.theepochtimes.com/us/ohio-gov-dewine-begins-process-of-selecting-vances-senate-replacement-5757926)
 * [Asthma May Affect Memory in Children, Study Finds](https://www.theepochtimes.com/health/asthma-may-affect-memory-in-children-study-finds-5757816)
     
-    5hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
+    11hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
     
     [![Asthma May Affect Memory in Children, Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Asthma May Affect Memory in Children, Study Finds](https://img.theepochtimes.com/assets/uploads/2022/09/19/AdobeStock_321987696-205x123.jpeg.webp)](https://www.theepochtimes.com/health/asthma-may-affect-memory-in-children-study-finds-5757816)
 * [Voters in Washington State Say Yes to Block Natural Gas Ban](https://www.theepochtimes.com/us/voters-in-washington-state-say-yes-to-block-natural-gas-ban-5757851)
     
-    5hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    11hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Voters in Washington State Say Yes to Block Natural Gas Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Voters in Washington State Say Yes to Block Natural Gas Ban](https://img.theepochtimes.com/assets/uploads/2023/12/07/id5542643-Gas-Stove-205x123.jpg.webp)](https://www.theepochtimes.com/us/voters-in-washington-state-say-yes-to-block-natural-gas-ban-5757851)
 * [Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://www.theepochtimes.com/us/reports-of-engine-failure-lead-to-probe-of-honda-acura-vehicles-5757805)
     
-    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    11hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://img.theepochtimes.com/assets/uploads/2021/06/13/2021-Honda-Odyssey-017-1200x800-205x123.jpg.webp)](https://www.theepochtimes.com/us/reports-of-engine-failure-lead-to-probe-of-honda-acura-vehicles-5757805)
-* [Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://www.theepochtimes.com/us/jury-awards-12-6-million-to-woman-fired-for-not-receiving-covid-vaccine-5757873)
-    
-    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678735-ny-vaccine-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/jury-awards-12-6-million-to-woman-fired-for-not-receiving-covid-vaccine-5757873)
-* [Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://www.theepochtimes.com/us/trump-taps-former-us-rep-lee-zeldin-as-head-of-epa-5757932)
-    
-    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758032-Lee-Zeldin-GettyImages-2162471157-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-former-us-rep-lee-zeldin-as-head-of-epa-5757932)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
