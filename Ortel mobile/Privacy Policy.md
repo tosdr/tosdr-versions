@@ -299,7 +299,7 @@ Sicherheit
 * SSL-Verschlüsselung
 * Volle Kostenkontrolle
 
-![](/assets/images/png/ssl-certificate.png?1730366099)
+![](/assets/images/png/ssl-certificate.png?1731425905)
 
 Ortel Mobile ist ein Unternehmen der Telefónica Deutschland
 
@@ -556,25 +556,25 @@ Rechtliches
 
 Zahlungsarten
 
-![MasterCard](/assets/images/payment/mastercard.svg?1730366099 "MasterCard")
+![MasterCard](/assets/images/payment/mastercard.svg?1731425905 "MasterCard")
 
-![Visa](/assets/images/payment/visa.svg?1730366099 "Visa")
+![Visa](/assets/images/payment/visa.svg?1731425905 "Visa")
 
-![Klarna](/assets/images/payment/klarna.svg?1730366099 "Klarna")
+![Klarna](/assets/images/payment/klarna.svg?1731425905 "Klarna")
 
-![Paypal](/assets/images/payment/paypal.svg?1730366099 "Paypal")
+![Paypal](/assets/images/payment/paypal.svg?1731425905 "Paypal")
 
-![Giropay](/assets/images/payment/giropay.svg?1730366099 "Giropay")
+![Giropay](/assets/images/payment/giropay.svg?1731425905 "Giropay")
 
 Folge uns
 
 [](https://www.facebook.com/MeinOrtel)[](https://www.instagram.com/ortelmobile_official/)[](https://www.youtube.com/@OrtelMobileDE)[](https://www.tiktok.com/@ortel.mobile)
 
-![Ortel Mobile Siegel](/assets/images/png/Siegel_2024.png?1730366099 "Ortel Mobile Siegel")
+![Ortel Mobile Siegel](/assets/images/png/Siegel_2024.png?1731425905 "Ortel Mobile Siegel")
 
-[Nach oben scrollen ![top](/assets/icons/prev-white.svg?1730366099)](# "Nach oben scrollen") 
+[Nach oben scrollen ![top](/assets/icons/prev-white.svg?1731425905)](# "Nach oben scrollen") 
 
-![](?1730366317) Ortel Mobile ist ein Unternehmen der Telefónica Deutschland
+![](?1731426135) Ortel Mobile ist ein Unternehmen der Telefónica Deutschland
 
   
 Du bist in Begriff **ortelmobile.de** zu verlassen, um auf die folgende Adresse weitergeleitet zu werden:
