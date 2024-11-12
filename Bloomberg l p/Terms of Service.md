@@ -30,7 +30,6 @@
     * [Sustainability](https://www.bloomberg.com/company/sustainability/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Bloomberg London](https://www.bloomberg.com/london/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Bloomberg Beta](https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=notices)
-    * [Gender-Equality Index](https://www.bloomberg.com/gei?utm_source=bloomberg-menu&utm_medium=notices)
     
     ### Communications
     
@@ -90,7 +89,6 @@
     * [Sustainability](https://www.bloomberg.com/company/sustainability/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Bloomberg London](https://www.bloomberg.com/london/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Bloomberg Beta](https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=notices)
-    * [Gender-Equality Index](https://www.bloomberg.com/gei?utm_source=bloomberg-menu&utm_medium=notices)
     
     ### Communications
     
