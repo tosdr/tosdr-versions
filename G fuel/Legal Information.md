@@ -1,11 +1,12 @@
   
-Terms of service – G FUEL                                                                                                  
+Terms of service – G FUEL                                                                                                        
 
 [Skip to content](#MainContent)  
 
 Close menu
 
 * [Home](https://gfuel.com/)
+* [Gift Guide 🎁](https://gfuel.com/pages/gfuel-holiday-gift-guide)
 * [Shop](https://gfuel.com/collections)
     
     * [New Arrivals](https://gfuel.com/collections/new-arrivals)
@@ -48,7 +49,6 @@ Close menu
     
 * [Store Locator](https://gfuel.com/pages/store-locator)
 * [Rewards](https://gfuel.com/pages/rewards)
-* [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 * [Log in](https://gfuel.com/account)
     
 
@@ -105,7 +105,7 @@ Close menu
 * [Discord](https://discord.gg/DFKfA5PjDp "G FUEL on Discord")
 * [Twitch](https://www.twitch.tv/gfuelenergy "G FUEL on Twitch")
 
-  [![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_150x.png?v=1716554254) ![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_130x.png?v=1716554254)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_150x.png?v=1716554254) ![G FUEL](//gfuel.com/cdn/shop/files/OFFICIAL_LOGO_130x.png?v=1716554254)](https://gfuel.com/)
+  [![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)
 
   Search  "Close (esc)"
 
@@ -117,23 +117,24 @@ Close menu
 
  [![HYPE SAUCE](//gfuel.com/cdn/shop/files/hype-sauce-tub-g-fuel-gamer-drink-862064_medium.png?v=1705691117) HYPE SAUCE](https://gfuel.com/products/hype-sauce-tub)
 
- [![Watermelon](//gfuel.com/cdn/shop/files/watermelon-tub-g-fuel-gamer-drink-875896_medium.png?v=1719529787) Watermelon](https://gfuel.com/products/g-fuel-tub-watermelon)
-
- [![Snow Cone](//gfuel.com/cdn/shop/files/snow-cone-tub-g-fuel-gamer-drink-869835_medium.png?v=1723075654) Snow Cone](https://gfuel.com/products/snow-cone)
-
  [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-183550_medium.png?v=1710297383) Miami Nights](https://gfuel.com/products/miami-nights-tub)
 
- [![Nuka Cola Quantum](//gfuel.com/cdn/shop/files/nuka-cola-quantum-tub-g-fuel-gamer-drink-655279_medium.png?v=1712710170) Nuka Cola Quantum](https://gfuel.com/products/fallout-25-anniversary-nuka-cola-quantum-energy-tub)
+ [![The Ultimate Murdercorn Sour Rainbow Candy](//gfuel.com/cdn/shop/products/murdercorn-candy-tub-g-fuel-gamer-drink-620974_medium.png?v=1689025657) The Ultimate Murdercorn Sour Rainbow Candy](https://gfuel.com/products/murdercorn-candy)
 
- [![Sonic’s Peach Rings](//gfuel.com/cdn/shop/products/sonics-peach-rings-tub-g-fuel-gamer-drink-444648_medium.png?v=1660320704) Sonic’s Peach Rings](https://gfuel.com/products/sonics-peach-rings-tub)
+ [![PewDiePie's Yuzu Slash Hydration](//gfuel.com/cdn/shop/files/pewdiepies-yuzu-slash-hydration-hydration-tub-g-fuel-gamer-drink-589853_medium.png?v=1729305183) PewDiePie's Yuzu Slash Hydration](https://gfuel.com/products/yuzu-slash-hydration)
 
- [![Mega Man™ Blue Bomber Slushee](//gfuel.com/cdn/shop/products/mega-man-blue-bomber-slushee-tub-g-fuel-gamer-drink-734945_medium.png?v=1660319983) Mega Man™ Blue Bomber Slushee](https://gfuel.com/products/mega-man-tub)
+ [![Sonic's Peach Rings Supreme Hydration](//gfuel.com/cdn/shop/files/sonics-peach-rings-supreme-hydration-hydration-tub-g-fuel-gamer-drink-966027_medium.png?v=1705532832) Sonic's Peach Rings Supreme Hydration](https://gfuel.com/products/sonics-peach-rings-hydration-tub)
 
- [![Naruto's Sage Mode](//gfuel.com/cdn/shop/files/narutos-sage-mode-tub-g-fuel-gamer-drink-976746_medium.png?v=1712710139) Naruto's Sage Mode](https://gfuel.com/products/narutos-sage-mode-tub)
+ [![Dragon Fruit Cans](//gfuel.com/cdn/shop/products/spyro-dragonfruit-cans-retail-rtd-g-fuel-gamer-drink-469412_medium.png?v=1667259506) Dragon Fruit Cans](https://gfuel.com/products/spyro-dragonfruit-cans)
+
+ [![Naruto's Rasengan Soda Ice Candy Cans](//gfuel.com/cdn/shop/products/narutos-soda-ice-candy-cans-rtd-single-can-g-fuel-gamer-drink-501479_medium.png?v=1674206078) Naruto's Rasengan Soda Ice Candy Cans](https://gfuel.com/products/rasengan-cans)
+
+ [![G FUEL Energy + Protein Bundle](//gfuel.com/cdn/shop/files/energy-protein-bundle-bundle-g-fuel-gamer-drink-495379_medium.png?v=1712710220) G FUEL Energy + Protein Bundle](https://gfuel.com/products/energy-protein-bundle)
 
 View more
 
 * [Home](https://gfuel.com/)
+* [Gift Guide 🎁](https://gfuel.com/pages/gfuel-holiday-gift-guide)
 * [Shop](https://gfuel.com/collections)
     
     [New Arrivals](https://gfuel.com/collections/new-arrivals)
@@ -198,7 +199,6 @@ View more
     
 * [Store Locator](https://gfuel.com/pages/store-locator)
 * [Rewards](https://gfuel.com/pages/rewards)
-* [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
 [Log in](https://gfuel.com/account) Site navigation [Cart](https://gfuel.com/cart)
 
@@ -210,11 +210,9 @@ View more
 
 Pause slideshow Play slideshow
 
-[368K+ ⭐️⭐️⭐️⭐️⭐️ Ratings](https://www.shopperapproved.com/reviews/GFUEL)
+[Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/g-fuel-rewards-terms-and-conditions)
 
 [Get Early Access 🔥Download the Official G FUEL APP](https://gfuel.com/pages/mobile-app)
-
-[Earn FREE G Fuel 💥Join the Rewards Program](https://gfuel.com/pages/g-fuel-rewards-terms-and-conditions)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -594,7 +592,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/608/assets/app-store-badge.svg?v=123926581890561309811731092197)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/608/assets/google-play-badge.png?v=132395384020293405351731092197)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/609/assets/app-store-badge.svg?v=123926581890561309811731361226)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/609/assets/google-play-badge.png?v=132395384020293405351731361226)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
