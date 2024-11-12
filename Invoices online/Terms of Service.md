@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Anri van der Linde
+Henry Venter
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=102337629)  
-Sonic Electrical Services PTY Ltd
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=123973552)  
+Fox Alarms & Security CC
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=107284216)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=123682605)  
+Cape Adventure Zone
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=137813631)  
-UMVIKELI PRIVATE SECURITY
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=195124455)  
+IYD
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=50449785)  
-Baby Toddles Infant Care
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=188332605)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=190479312)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=12203328)  
+Creative Characters
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=187140087)  
-Dr V Naik Consult
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=182593758)  
+J.M. HUMAN RESOURCES
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=174454397)  
-Well Hung Art
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=60982101)  
+African Roots
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=117542183)  
-Safe-Train Consulting (PTY) Ltd
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=114323763)  
+AFS Electrical
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=143322407)  
-Atalie Scented Candles Pty Ltd
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=12867092)  
+Network Grey (Pty) Ltd
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=94056689)  
-APTV Telecoms CC
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=4767442)  
+West Coast Horse Trails
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=136940567)  
-NGB HOLDINGS PTY LTD
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=2907911)  
+BD Maintenance
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=103625055)  
-Henry's Home Renovations
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=102195480)  
+Myfinance-Online
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=177081345)  
-Brilliant Roof Products
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=69492552)  
+Cooper Logistics (Pty) Ltd
 
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=84065357)  
-The Gourmet Artisans Ltd.
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=24429245)  
+Itroniq (Pty) Ltd
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=f7143ca0658bb06fd07a873278eecae78bc58e8951a884b5b83a6eb5f19c85bc&c=59681374)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=135260072)  
+FJW Security Cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
