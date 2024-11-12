@@ -43,7 +43,7 @@ Share
 
 www.cookiebot.com
 
-Last update: October 21, 2024
+Last update: November 12, 2024
 
 Your privacy is important to us. This Privacy Policy covers what we collect and how we use, disclose, transfer and store your information.
 
@@ -431,6 +431,7 @@ If a third country transfer is provided for and no adequacy decision or appropri
 | Salesforce, Erika-Mann-Straße 31-37,  <br>80636 Munich,  <br>Germany  <br>_(By consenting to the use of Salesforce data will also be shared with LinkedIn for marketing purposes. Please see above under “LinkedIn” for more information about this provider.)_ | Pardot: This is a CRM software system that provides solutions for sales, customer service and marketing.  <br>Sales Cloud: Sales Cloud is a sales application that allows companies to manage contacts, leads, opportunities, quotes and orders. | Account data, Contact information, info from courses (percentage of the courses and the certification).  <br>  <br>This data will be kept in Salesforceafter termination of the agreement with Cookiebot™.  <br>  <br>Data will be shared among the Cookiebot™ and Usercentrics products | In the USA (San Francisco, CA)  <br>For Sales Cloud the data centers/operators where our data will be stored are located in Germany and/or France.  <br>For the system Pardot, our data will be stored in the USA. | GDPR Art. 6 (1) lit. b | [https://www.salesforce.com/company/privacy](https://www.salesforce.com/company/privacy) |
 | Sendgrid, Twilio Germany GmbH,  <br>Rosenheimer Str. 143C  <br>81671 Munich, Germany | Email sending provider used primarily for sending Cookiebot scan reports and invoices (paying customers only) via email | Emails | EU and the USA | GDPR Art. 6 (1) lit. b | [https://www.twilio.com/legal/privacy](https://www.twilio.com/legal/privacy) |
 | Sentry/Functional Software, Inc.,  <br>45 Fremont Street, 8th Floor, San Francisco, CA 94105, USA | Error logging for frontend errors happening for users of our product. | IP address | In the USA | GDPR Art. 6 (1) lit. b | [https://sentry.io/privacy/](https://sentry.io/privacy/) |
+| Storylane Inc., 2261 Market Street #4813, San Francisco, CA 94114, United States of America | Interactive Demo Platform | IP address | United States of America | GDPR Art. 6 (1) lit. a | [https://www.storylane.io/privacy-policy](https://www.storylane.io/privacy-policy) |
 | Sydbank A/S, Peberlyk 4  <br>DK-6200 Aabenraa  <br>DENMARK | Payment provider | Payment information, Order number, Credit Card information | Denmark | GDPR Art. 6 (1) lit. b | [https://www.sydbank.dk/privat/kontakt/persondata](https://www.sydbank.dk/privat/kontakt/persondata) |
 | Valuecase GmbH,  <br>Axel-Springer-Platz 3, 20355 Hamburg, Germany | Mutual Project Management Software to enhance sales cycle speed and conversion rates | Name, email address, company name, and other information you include in the system as a prospect. | Germany (EU) |     |     |
 | Visma e-conomic a/sGærtorvet 1-51799 Copenhagen VDenmark | Bookkeeping and accounting system | Name, Title, Phone Number, Email address, Address  <br>  <br>Other applicable data will be processed if it is included in the voucher/invoice | Denmark | GDPR Art. 6 (1) lit. b | [https://www.e-conomic.dk/sikkerhed/privacy](https://www.e-conomic.dk/sikkerhed/privacy) |
@@ -478,9 +479,9 @@ We reserve the right to update this privacy policy from time to time. In the eve
 
 * * *
 
-This Privacy Policy was last modified on October 21, 2024.
+This Privacy Policy was last modified on November 12, 2024.
 
-Click [here](https://www.cookiebot.com/en/cookiebot-privacy-policy-valid-until-october-20-2024/) to see the previous Privacy policy valid until October 20, 2024.
+Click [here](https://www.cookiebot.com/en/cookiebot-privacy-policy-valid-until-november-11-2024/) to see the previous Privacy policy valid until November 11, 2024.
 
      
 
