@@ -241,23 +241,17 @@ Past Week
 
 ### Most Read Articles
 
+[![An illustration of a man using a telescope to look at a constellation in the shape of a mathematical curve.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Thumbnail.webp)](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
+
+[#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
+
+_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
+
 [![An illustration of concentric rings of a radiating wave in space, with chopsticks that appear poised to pluck a particle out of the wave.](https://www.quantamagazine.org/wp-content/uploads/2024/10/Detecting-Gravitons_crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 
 [#### It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
-
-[![A person laying on a bunkbed resembling a graph](https://www.quantamagazine.org/wp-content/uploads/2024/11/BunkbedDebunked_cr-Irene-Perez-for-Quanta-Magazine-Thumbnail.webp)](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
-
-[#### Math’s ‘Bunkbed Conjecture’ Has Been Debunked](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
-
-_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/QA-Patrick-Cai_crDave-Phillips-Thumbnail.webp)](https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/)
-
-[#### He’s Gleaning the Design Rules of Life to Re-Create It](https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/)
-
-_By_ [Shi En Kim](https://www.quantamagazine.org/authors/shienkim)
 
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Persuasive-LLMs_crNash-Weerasekera-Thumbnail.webp)](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
 
@@ -265,17 +259,11 @@ _By_ [Shi En Kim](https://www.quantamagazine.org/authors/shienkim)
 
 _By_ [Stephen Ornes](https://www.quantamagazine.org/authors/stephen-ornes)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+[![A person laying on a bunkbed resembling a graph](https://www.quantamagazine.org/wp-content/uploads/2024/11/BunkbedDebunked_cr-Irene-Perez-for-Quanta-Magazine-Thumbnail.webp)](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
 
-[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+[#### Math’s ‘Bunkbed Conjecture’ Has Been Debunked](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
 
-_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
-
-[![Animation in which tornadoes twirl amid a crystalline lattice.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Supersolids-crIbrahimRayintakath_RuiBrazThumbnail.webp)](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
-
-[#### Physicists Spot Quantum Tornadoes Twirling in a ‘Supersolid’](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
-
-_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
+_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 The Quanta Newsletter
 
