@@ -1,5 +1,3 @@
-[**STATEMENT**: Our CEO Responds to 2024 Election Results](https://www.nokidhungry.org/who-we-are/pressroom/statement-share-our-strengths-anne-filipic-responds-2024-elections)
-
 [No Kid Hungry Homepage NKH Logo](https://www.nokidhungry.org/) Menu
 
 Header Social Media Links
