@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Rober Rinder will give an interview inside the Cathedral later this month. Image: Cathyfosterknox (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rober-Rinder-will-give-an-interview-inside-the-Cathedral-later-this-month.-Image-Cathyfosterknox-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
+    
+    ### [TV’s Judge Rinder to join SleepOut to raise homelessness awareness at Southwark Cathedral](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
+    
     [![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-360x180.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
     
     ### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
@@ -51,10 +55,6 @@
     [![A group of hooded youths pictured in Rotherhithe. Image provided to Southwark News for publication.](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-1-1-360x180.png)](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
     
     ### [‘A masked biker tried to snatch my phone, minutes later I was threatened with a knife – but nothing came of it’](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
-    
-    [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
-    
-    ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Rober Rinder will give an interview inside the Cathedral later this month. Image: Cathyfosterknox (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rober-Rinder-will-give-an-interview-inside-the-Cathedral-later-this-month.-Image-Cathyfosterknox-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
+    
+    ### [TV’s Judge Rinder to join SleepOut to raise homelessness awareness at Southwark Cathedral](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
+    
     [![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-360x180.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
     
     ### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
@@ -136,10 +140,6 @@ View All Result
     [![A group of hooded youths pictured in Rotherhithe. Image provided to Southwark News for publication.](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-1-1-360x180.png)](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
     
     ### [‘A masked biker tried to snatch my phone, minutes later I was threatened with a knife – but nothing came of it’](https://southwarknews.co.uk/news/community/a-masked-biker-tried-to-snatch-my-phone-minutes-later-i-was-threatened-with-a-knife-but-nothing-came-of-it/)
-    
-    [![The lockers in action.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Decathlon_LondonSport_Equip_02-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
-    
-    ### [Free sports equipment lockers now available at Canada Water](https://southwarknews.co.uk/area/rotherhithe/free-sports-equipment-lockers-now-available-at-canada-water/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -231,11 +231,11 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
-[![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+[![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
-### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
-[5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+[11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 ### Featured Articles
 
