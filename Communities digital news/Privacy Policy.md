@@ -184,21 +184,21 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [Trending on BPR](https://www.bizpacreview.com/)
 
-[![Fired FEMA supervisor claims she’s a ‘patsy,’ agency made her a ‘scapegoat’](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-criswell-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/10/fired-fema-supervisor-claims-shes-a-patsy-agency-made-her-a-scapegoat-1501740/)
+[![MSNBC’s Jon Capehart questions how to ‘live’ with Trump voters: ‘How do we move forward?’](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-capehart-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/11/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward-1501946/)
 
-[Fired FEMA supervisor claims she’s a ‘patsy,’ agency made her a ‘scapegoat’](https://www.bizpacreview.com/2024/11/10/fired-fema-supervisor-claims-shes-a-patsy-agency-made-her-a-scapegoat-1501740/)
+[MSNBC’s Jon Capehart questions how to ‘live’ with Trump voters: ‘How do we move forward?’](https://www.bizpacreview.com/2024/11/11/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward-1501946/)
 
-[![Wild AI-generated post-election call between Biden and Obama is straight FIRE](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-biden-obama-1200x630-1.png)](https://www.bizpacreview.com/2024/11/10/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire-1501688/)
+[![Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-ana-navarro-1200x630-1.png)](https://www.bizpacreview.com/2024/11/11/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump-1501931/)
 
-[Wild AI-generated post-election call between Biden and Obama is straight FIRE](https://www.bizpacreview.com/2024/11/10/wild-ai-generated-post-election-call-between-biden-and-obama-is-straight-fire-1501688/)
+[Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://www.bizpacreview.com/2024/11/11/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump-1501931/)
 
-[![Things go downhill fast after Hakeem Jeffries warns Trump to ‘back up off’ of Tish James](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-tish-hakeem-split-1200-x-628-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/10/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james-1501696/)
+[![Sotomayor balks at Dems trying to force her to retire – Bernie backs her play](https://www.bizpacreview.com/wp-content/uploads/2024/04/sg-sotomayor-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/11/sotomayor-balks-at-dems-trying-to-force-her-to-retire-bernie-backs-her-play-1501881/)
 
-[Things go downhill fast after Hakeem Jeffries warns Trump to ‘back up off’ of Tish James](https://www.bizpacreview.com/2024/11/10/things-go-downhill-fast-after-hakeem-jeffries-warns-trump-to-back-up-off-of-tish-james-1501696/)
+[Sotomayor balks at Dems trying to force her to retire – Bernie backs her play](https://www.bizpacreview.com/2024/11/11/sotomayor-balks-at-dems-trying-to-force-her-to-retire-bernie-backs-her-play-1501881/)
 
-[![‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-donaldt-kamala-split-1200-x-628-1-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/10/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster-1501652/)
+[![‘Skip Forward’ cruise features FOUR year excursion to escape Trump presidency](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-villa-vie-ship-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/11/skip-forward-cruise-features-four-year-excursion-to-escape-trump-presidency-1501884/)
 
-[‘Beyond masterstroke’: Trump offers to help Kamala pay debt after ‘$1 billion disaster’](https://www.bizpacreview.com/2024/11/10/beyond-masterstroke-trump-offers-to-help-kamala-pay-debt-after-1-billion-disaster-1501652/)
+[‘Skip Forward’ cruise features FOUR year excursion to escape Trump presidency](https://www.bizpacreview.com/2024/11/11/skip-forward-cruise-features-four-year-excursion-to-escape-trump-presidency-1501884/)
 
 ### [COLUMNISTS](https://www.commdiginews.com/columnists/)
 
