@@ -165,6 +165,88 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Age of the Earth
+
+[![](/i/radio/images/hourglass_j0409260_wide.jpg)](https://www.icr.org/article/age-earth-matters)
+
+[Why the Age of the Earth Matters](https://www.icr.org/article/age-earth-matters/)
+
+Is the universe billions of years old—or only thousands? Many Christians are uncomfortable with the idea of recent creation because they...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/Strange_Crust_1400x1050.jpg)](https://www.icr.org/article/strange-ocean-crust-waves-discovered)
+
+[Strange Ocean Crust Waves Discovered](https://www.icr.org/article/strange-ocean-crust-waves-discovered/)
+
+While searching for a missing plane on the ocean floor, scientists made an interesting geological discovery. On March 8, 2014, Malaysia Airlines flight...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Lunar_Recession_News_1400x1050.jpg)](https://www.icr.org/article/lunar-recession-in-the-news)
+
+[Lunar Recession in the News](https://www.icr.org/article/lunar-recession-in-the-news/)
+
+Recently, the issue of the moon’s motion away from Earth was discussed on a popular science website.1,2 The author of the article is a...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+More Creation Q&A
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_do_I_believe.jpg)](https://www.icr.org/article/why-do-i-believe-in-recent-creation)
+
+[Why Do I Believe in Recent Creation?](https://www.icr.org/article/why-do-i-believe-in-recent-creation/)
+
+A student recently asked what I believe about the age of the earth. I replied that at one time I felt absolutely certain that the world was billions...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/CanScientistsReplaceGod.jpg)](https://www.icr.org/article/can-scientists-replace-god-with-nothing)
+
+[Can Scientists Replace God with Nothing?](https://www.icr.org/article/can-scientists-replace-god-with-nothing/)
+
+Hebrews 11:3 says, “By faith we understand that the universe was created by the word of God.” Do you find it a little odd that we must have...
+
+BY: [SCOTT ARLEDGE](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=246)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowPrepareCreationMInistry.jpg)](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry)
+
+[How Do I Prepare for Creation Ministry?](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry/)
+
+Many of today’s creation researchers can testify that information from the Institute for Creation Research sparked a burning, lifelong passion...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
+
+Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+
+$14.99
+
+$19.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
