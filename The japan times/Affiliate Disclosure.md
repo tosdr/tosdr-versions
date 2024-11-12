@@ -255,23 +255,19 @@ Latest News
 
 [35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
-4 hours ago
+10 hours ago
 
 [Ishiba and Xi to affirm mutually beneficial strategic ties](https://www.japantimes.co.jp/news/2024/11/12/japan/ishiba-xi-to-affirm-strategic-ties/ "Ishiba and Xi to affirm mutually beneficial strategic ties")
 
-4 hours ago
+10 hours ago
 
 [Fukushima nuclear debris arrives at lab after secret journey](https://www.japantimes.co.jp/news/2024/11/12/japan/fukushima-nuclear-debris-lab-secret-journey/ "Fukushima nuclear debris arrives at lab after secret journey")
 
-4 hours ago
+10 hours ago
 
 [1 in 5 people in Japan age 65 and older will be living alone in 2050](https://www.japantimes.co.jp/news/2024/11/12/japan/society/single-person-households/ "1 in 5 people in Japan age 65 and older will be living alone in 2050")
 
-7 hours ago
-
 [Osaka governor announces candidacy for Nippon Ishin leadership](https://www.japantimes.co.jp/news/2024/11/12/japan/politics/nippon-ishin-yoshimura-leadership-election/ "Osaka governor announces candidacy for Nippon Ishin leadership")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
