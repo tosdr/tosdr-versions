@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![João Nascimento Chaves](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2363c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJN%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255916-jo%C3%A3o-nascimento-chaves/ "Ir ao perfil de João Nascimento Chaves")
+    * [![RapGusta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255925.thumb.jpeg.1980ff246bc29f137ccb97cc297a7189.jpeg)](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")
         
         0
         
-        [Voz do mic saindo "robotizada" quando usa um microfone externo (Mesa ou Headset)](https://www.clubedohardware.com.br/forums/topic/1702159-voz-do-mic-saindo-robotizada-quando-usa-um-microfone-externo-mesa-ou-headset/?do=getNewComment "Voz do mic saindo "robotizada" quando usa um microfone externo (Mesa ou Headset)")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [João Nascimento Chaves](https://www.clubedohardware.com.br/profile/1255916-jo%C3%A3o-nascimento-chaves/ "Ir ao perfil de João Nascimento Chaves")  
-        46 minutos atrás
-        
-    * [![Roberto Antoniellison](https://www.clubedohardware.com.br/uploads/members/monthly_2018_05/d.thumb.jpg.43413e9c3d50d61e36e684e83e820023.jpg)](https://www.clubedohardware.com.br/profile/980041-roberto-antoniellison/ "Ir ao perfil de Roberto Antoniellison")
-        
-        4
-        
-        [Upgrade em pc gamer/ de trabalho](https://www.clubedohardware.com.br/forums/topic/1702158-upgrade-em-pc-gamer-de-trabalho/?do=getNewComment "Upgrade em pc gamer/ de trabalho")
+        [Sugestões para upgrade do meu PC](https://www.clubedohardware.com.br/forums/topic/1702172-sugest%C3%B5es-para-upgrade-do-meu-pc/?do=getNewComment "Sugestões para upgrade do meu PC")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Roberto Antoniellison](https://www.clubedohardware.com.br/profile/980041-roberto-antoniellison/ "Ir ao perfil de Roberto Antoniellison")  
-        54 minutos atrás
+        Por [RapGusta](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")  
+        37 minutos atrás
         
-    * [![GabrielOAlves](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23629fc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/564325-gabrieloalves/ "Ir ao perfil de GabrielOAlves")
-        
-        2
-        
-        [Sugestão de Upgrade - R$ 3.000/R$ 4.000](https://www.clubedohardware.com.br/forums/topic/1702157-sugest%C3%A3o-de-upgrade-r-3000r-4000/?do=getNewComment "Sugestão de Upgrade - R$ 3.000/R$ 4.000")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [GabrielOAlves](https://www.clubedohardware.com.br/profile/564325-gabrieloalves/ "Ir ao perfil de GabrielOAlves")  
-        57 minutos atrás
-        
-    * [![Andysur](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255915.thumb.jpeg.f99b4f893bb3759458a18772b640caf8.jpeg)](https://www.clubedohardware.com.br/profile/1255915-andysur/ "Ir ao perfil de Andysur")
-        
-        2
-        
-        [fonte 650W Plusgold da XPG Core reactor Aguenta uma RTX 4070 super Verto da PNY](https://www.clubedohardware.com.br/forums/topic/1702156-fonte-650w-plusgold-da-xpg-core-reactor-aguenta-uma-rtx-4070-super-verto-da-pny/?do=getNewComment "fonte 650W Plusgold da XPG Core reactor Aguenta uma RTX 4070 super Verto da PNY")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Andysur](https://www.clubedohardware.com.br/profile/1255915-andysur/ "Ir ao perfil de Andysur")  
-        1 hora atrás
-        
-    * [![Stadszis](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253339.thumb.jpeg.6e826a89da647ab5659ae4bc878f5f08.jpeg)](https://www.clubedohardware.com.br/profile/1253339-stadszis/ "Ir ao perfil de Stadszis")
-        
-        3
-        
-        [Controladora vai dar conta ?](https://www.clubedohardware.com.br/forums/topic/1702155-controladora-vai-dar-conta/?do=getNewComment "Controladora vai dar conta ?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Stadszis](https://www.clubedohardware.com.br/profile/1253339-stadszis/ "Ir ao perfil de Stadszis")  
-        1 hora atrás
-        
-    * [![Lyrocon](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4629a%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1146892-lyrocon/ "Ir ao perfil de Lyrocon")
+    * [![galaxie76](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/71i-N696kUL._.thumb.jpg.f684fff9cefd255db1d8a2a3feb1d2e0.jpg)](https://www.clubedohardware.com.br/profile/545151-galaxie76/ "Ir ao perfil de galaxie76")
         
         0
         
-        [Upgrade de placa-mãe AM5](https://www.clubedohardware.com.br/forums/topic/1702154-upgrade-de-placa-m%C3%A3e-am5/?do=getNewComment "Upgrade de placa-mãe AM5")
+        [potenciometro do cambio para logitech g25](https://www.clubedohardware.com.br/forums/topic/1702171-potenciometro-do-cambio-para-logitech-g25/?do=getNewComment "potenciometro do cambio para logitech g25")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Lyrocon](https://www.clubedohardware.com.br/profile/1146892-lyrocon/ "Ir ao perfil de Lyrocon")  
+        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
+        Por [galaxie76](https://www.clubedohardware.com.br/profile/545151-galaxie76/ "Ir ao perfil de galaxie76")  
         1 hora atrás
         
-    * [![Rafael Ignácio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255913.thumb.jpeg.7eb44b305a10fddf6f4cfe58781416ae.jpeg)](https://www.clubedohardware.com.br/profile/1255913-rafael-ign%C3%A1cio/ "Ir ao perfil de Rafael Ignácio")
-        
-        1
-        
-        [PC reiniciando durante jogos após troca da placa-mãe: Ryzen 5700X e B550M TUF](https://www.clubedohardware.com.br/forums/topic/1702152-pc-reiniciando-durante-jogos-ap%C3%B3s-troca-da-placa-m%C3%A3e-ryzen-5700x-e-b550m-tuf/?do=getNewComment "PC reiniciando durante jogos após troca da placa-mãe: Ryzen 5700X e B550M TUF")
-        
-        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
-        Por [Rafael Ignácio](https://www.clubedohardware.com.br/profile/1255913-rafael-ign%C3%A1cio/ "Ir ao perfil de Rafael Ignácio")  
-        1 hora atrás
-        
-    * [![Anderson8482](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255912.thumb.png.cb8315acfb47d385891abcf915f2f1d9.png)](https://www.clubedohardware.com.br/profile/1255912-anderson8482/ "Ir ao perfil de Anderson8482")
+    * [![lp lopes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244905.thumb.png.a777d2492956db5fbd249b2ebbdcb267.png)](https://www.clubedohardware.com.br/profile/1244905-lp-lopes/ "Ir ao perfil de lp lopes")
         
         0
         
-        [Meu teclado e mouse não funcionam quando ligo o PC](https://www.clubedohardware.com.br/forums/topic/1702151-meu-teclado-e-mouse-n%C3%A3o-funcionam-quando-ligo-o-pc/?do=getNewComment "Meu teclado e mouse não funcionam quando ligo o PC")
+        [Até agora foi trocado as memória e a placa de vídeo.](https://www.clubedohardware.com.br/forums/topic/1702170-at%C3%A9-agora-foi-trocado-as-mem%C3%B3ria-e-a-placa-de-v%C3%ADdeo/?do=getNewComment "Até agora foi trocado as memória e a placa de vídeo.")
         
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Anderson8482](https://www.clubedohardware.com.br/profile/1255912-anderson8482/ "Ir ao perfil de Anderson8482")  
-        1 hora atrás
-        
-    * [![Leogas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255910.thumb.png.500fe19a491294f1cd92a347777e31bb.png)](https://www.clubedohardware.com.br/profile/1255910-leogas/ "Ir ao perfil de Leogas")
-        
-        1
-        
-        [Não consigo remover a Placa de Vídeo do Slot da placa-mãe (A320M-HD ASRock)](https://www.clubedohardware.com.br/forums/topic/1702149-n%C3%A3o-consigo-remover-a-placa-de-v%C3%ADdeo-do-slot-da-placa-m%C3%A3e-a320m-hd-asrock/?do=getNewComment "Não consigo remover a Placa de Vídeo do Slot da placa-mãe (A320M-HD ASRock)")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Leogas](https://www.clubedohardware.com.br/profile/1255910-leogas/ "Ir ao perfil de Leogas")  
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [lp lopes](https://www.clubedohardware.com.br/profile/1244905-lp-lopes/ "Ir ao perfil de lp lopes")  
         2 horas atrás
         
-    * [![thiagoruiz](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/imported-photo-1220372.thumb.png.ac17f455410682b6805607f55ccc9c32.png)](https://www.clubedohardware.com.br/profile/1220372-thiagoruiz/ "Ir ao perfil de thiagoruiz")
+    * [![Weckman](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imagem_2024-07-19_020319094.thumb.png.d0d5a5692031ecaec48409ee034c897e.png)](https://www.clubedohardware.com.br/profile/1249962-weckman/ "Ir ao perfil de Weckman")
         
-        2
+        0
         
-        [Sugestões de fonte para PC com AMD Ryzen 5 4600G e Radeon RX 570](https://www.clubedohardware.com.br/forums/topic/1702148-sugest%C3%B5es-de-fonte-para-pc-com-amd-ryzen-5-4600g-e-radeon-rx-570/?do=getNewComment "Sugestões de fonte para PC com AMD Ryzen 5 4600G e Radeon RX 570")
+        [Indicação de Notebook durável](https://www.clubedohardware.com.br/forums/topic/1702169-indica%C3%A7%C3%A3o-de-notebook-dur%C3%A1vel/?do=getNewComment "Indicação de Notebook durável")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Weckman](https://www.clubedohardware.com.br/profile/1249962-weckman/ "Ir ao perfil de Weckman")  
+        2 horas atrás
+        
+    * [![Syzzk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255924.thumb.png.33671db1ae838c7f8b29a72aa06b1f3b.png)](https://www.clubedohardware.com.br/profile/1255924-syzzk/ "Ir ao perfil de Syzzk")
+        
+        1
+        
+        [Recomendação de fonte para PC com Xeon 1220 V2 e RX 570](https://www.clubedohardware.com.br/forums/topic/1702168-recomenda%C3%A7%C3%A3o-de-fonte-para-pc-com-xeon-1220-v2-e-rx-570/?do=getNewComment "Recomendação de fonte para PC com Xeon 1220 V2 e RX 570")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [thiagoruiz](https://www.clubedohardware.com.br/profile/1220372-thiagoruiz/ "Ir ao perfil de thiagoruiz")  
-        2 horas atrás
+        Por [Syzzk](https://www.clubedohardware.com.br/profile/1255924-syzzk/ "Ir ao perfil de Syzzk")  
+        3 horas atrás
+        
+    * [![MichelOliveira7](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b162%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255922-micheloliveira7/ "Ir ao perfil de MichelOliveira7")
+        
+        0
+        
+        [Firmware tv box MQX PRO V76 RK3228A wifi sp6330](https://www.clubedohardware.com.br/forums/topic/1702167-firmware-tv-box-mqx-pro-v76-rk3228a-wifi-sp6330/?do=getNewComment "Firmware tv box MQX PRO V76 RK3228A wifi sp6330")
+        
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [MichelOliveira7](https://www.clubedohardware.com.br/profile/1255922-micheloliveira7/ "Ir ao perfil de MichelOliveira7")  
+        3 horas atrás
+        
+    * [![Artur Mutzw](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255918.thumb.jpeg.bcdb7a0de10f36049014caf11e6241fb.jpeg)](https://www.clubedohardware.com.br/profile/1255918-artur-mutzw/ "Ir ao perfil de Artur Mutzw")
+        
+        0
+        
+        [computador com looping quando muda de processador.](https://www.clubedohardware.com.br/forums/topic/1702166-computador-com-looping-quando-muda-de-processador/?do=getNewComment "computador com looping quando muda de processador.")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Artur Mutzw](https://www.clubedohardware.com.br/profile/1255918-artur-mutzw/ "Ir ao perfil de Artur Mutzw")  
+        4 horas atrás
+        
+    * [![Omegass4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255920.thumb.png.a76927940b2d50d54d2401aa549c3209.png)](https://www.clubedohardware.com.br/profile/1255920-omegass4/ "Ir ao perfil de Omegass4")
+        
+        0
+        
+        [fps baixo rtx 4070 ti](https://www.clubedohardware.com.br/forums/topic/1702165-fps-baixo-rtx-4070-ti/?do=getNewComment "fps baixo rtx 4070 ti")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Omegass4](https://www.clubedohardware.com.br/profile/1255920-omegass4/ "Ir ao perfil de Omegass4")  
+        4 horas atrás
+        
+    * [![Juizo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1231409.thumb.jpeg.2270bcfb0966a1d4c2148d987541c334.jpeg)](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")
+        
+        5
+        
+        [Como escolher qual gabinete utilizar para montar um Pc gamer?](https://www.clubedohardware.com.br/forums/topic/1702164-como-escolher-qual-gabinete-utilizar-para-montar-um-pc-gamer/?do=getNewComment "Como escolher qual gabinete utilizar para montar um Pc gamer?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Juizo](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")  
+        5 horas atrás
+        
+    * [![Vitoria.Tinoco](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255919.thumb.png.37379a5deba58cf4c37320952feea7aa.png)](https://www.clubedohardware.com.br/profile/1255919-vitoriatinoco/ "Ir ao perfil de Vitoria.Tinoco")
+        
+        2
+        
+        [instalação da minha controladora](https://www.clubedohardware.com.br/forums/topic/1702163-instala%C3%A7%C3%A3o-da-minha-controladora/?do=getNewComment "instalação da minha controladora")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Vitoria.Tinoco](https://www.clubedohardware.com.br/profile/1255919-vitoriatinoco/ "Ir ao perfil de Vitoria.Tinoco")  
+        5 horas atrás
         
     
 
