@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/poetin-verklaart-rusland-gmo-vrij/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-maya-tijdsverschuiving/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
