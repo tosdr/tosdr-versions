@@ -16,7 +16,7 @@
 
 [* Fix a problem](https://support.google.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124,)[* Watch videos](https://support.google.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124,)[* Manage your account & settings](https://support.google.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124,)[* Supervised experiences on YouTube](https://support.google.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,)[* YouTube Premium](https://support.google.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124,)[* Create & grow your channel](https://support.google.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124,)[* Monetize with the YouTube Partner Program](https://support.google.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124,)[* Policy, safety, & copyright](https://support.google.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124,)
 
-[* Community](https://support.google.com/youtube/community?hl=en&help_center_link=[2814000,%22Copyright%20strike%20basics%22])[* YouTube](https://www.youtube.com/)
+[* Community](https://support.google.com/youtube/community?hl=en&help_center_link=CLDgqwESF0NvcHlyaWdodCBzdHJpa2UgYmFzaWNz)[* YouTube](https://www.youtube.com/)
 
 [* Privacy Policy](https://www.google.com/intl/en/privacy.html)[* YouTube Terms of Service](http://youtube.com/t/terms)[* Submit feedback](about:invalid#zjslayoutz)
 
@@ -29,7 +29,7 @@ General Help Center experience
 Next
 
 * [Help Center](https://support.google.com/youtube/?hl=en)
-* [Community](https://support.google.com/youtube/community?hl=en&help_center_link=[2814000,%22Copyright%20strike%20basics%22])
+* [Community](https://support.google.com/youtube/community?hl=en&help_center_link=CLDgqwESF0NvcHlyaWdodCBzdHJpa2UgYmFzaWNz)
 * [Creator Tips](https://support.google.com/youtube/announcements/11909013)
 
 [YouTube](https://www.youtube.com/)
@@ -143,7 +143,7 @@ Need more help?
 
 ### Try these next steps:
 
-[Post to the help community Get answers from community members](https://support.google.com/youtube/community?hl=en&help_center_link=[2814000,%22Copyright%20strike%20basics%22])
+[Post to the help community Get answers from community members](https://support.google.com/youtube/community?hl=en&help_center_link=CLDgqwESF0NvcHlyaWdodCBzdHJpa2UgYmFzaWNz)
 
 true
 
@@ -197,7 +197,7 @@ Google apps
 
 Main menu
 
-3504624272251457746
+5285568228136000331
 
 true
 
