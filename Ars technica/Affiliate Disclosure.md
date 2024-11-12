@@ -87,9 +87,9 @@ Most Read
     
     1. [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
     
-2. 2. [Russia: Fine, I guess we should have a Grasshopper rocket project, too](https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/)
+2. 2. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
     
-3. 3. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
+3. 3. [Russia: Fine, I guess we should have a Grasshopper rocket project, too](https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/)
     
 4. 4. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
     
