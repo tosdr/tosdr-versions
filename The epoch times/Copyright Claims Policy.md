@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Selects Mike Waltz as His National Security Adviser: Reports](https://www.theepochtimes.com/china/trump-selects-mike-waltz-as-his-national-security-adviser-5758289)
+    
+    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![Trump Selects Mike Waltz as His National Security Adviser: Reports](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Selects Mike Waltz as His National Security Adviser: Reports](https://img.theepochtimes.com/assets/uploads/2024/08/21/id5710133-Rep.-Mike-Waltz-DNC-2024-205x123.jpeg.webp)](https://www.theepochtimes.com/china/trump-selects-mike-waltz-as-his-national-security-adviser-5758289)
+* [New York Judge Delays Ruling on Trump’s Immunity Arguments](https://www.theepochtimes.com/us/new-york-judge-delays-ruling-on-trumps-immunity-arguments-5758129)
+    
+    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![New York Judge Delays Ruling on Trump’s Immunity Arguments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York Judge Delays Ruling on Trump’s Immunity Arguments](https://img.theepochtimes.com/assets/uploads/2024/06/04/id5662610-Judge-Juan-M.-Merchan-AP24096846896407-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-judge-delays-ruling-on-trumps-immunity-arguments-5758129)
+* [DNA-Testing Company Terminates 40 Percent of Its Employees](https://www.theepochtimes.com/business/dna-testing-company-terminates-40-percent-of-its-employees-5758300)
+    
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![DNA-Testing Company Terminates 40 Percent of Its Employees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![DNA-Testing Company Terminates 40 Percent of Its Employees](https://img.theepochtimes.com/assets/uploads/2022/10/19/GettyImages-1074407910-205x123.jpg.webp)](https://www.theepochtimes.com/business/dna-testing-company-terminates-40-percent-of-its-employees-5758300)
+* [Who Is Lee Zeldin? 5 Things to Know About Trump’s EPA Chief](https://www.theepochtimes.com/us/who-is-lee-zeldin-5-things-to-know-about-trumps-epa-chief-5757941)
+    
+    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Who Is Lee Zeldin? 5 Things to Know About Trump’s EPA Chief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Who Is Lee Zeldin? 5 Things to Know About Trump’s EPA Chief](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758009-EpochImages-6836471180-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/who-is-lee-zeldin-5-things-to-know-about-trumps-epa-chief-5757941)
+* [New Zealand Prime Minister Offers ‘Unreserved’ Apology to People Abused in Care](https://www.theepochtimes.com/world/new-zealand-prime-minister-offers-unreserved-apology-to-people-abused-in-care-5758247)
+    
+    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![New Zealand Prime Minister Offers ‘Unreserved’ Apology to People Abused in Care](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New Zealand Prime Minister Offers ‘Unreserved’ Apology to People Abused in Care](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758249-AP24316850594248-205x123.jpg.webp)](https://www.theepochtimes.com/world/new-zealand-prime-minister-offers-unreserved-apology-to-people-abused-in-care-5758247)
+* [What to Know About Stephen Miller, Trump’s Deputy Chief of Policy](https://www.theepochtimes.com/us/what-to-know-about-stephen-miller-trumps-deputy-chief-of-policy-5757897)
+    
+    4hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![What to Know About Stephen Miller, Trump’s Deputy Chief of Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What to Know About Stephen Miller, Trump’s Deputy Chief of Policy](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758315-Stephen-Miller-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-know-about-stephen-miller-trumps-deputy-chief-of-policy-5757897)
+* [From Gas to Green and Back: How a Second Trump Term Will Impact US Energy](https://www.theepochtimes.com/business/from-gas-to-green-and-back-how-a-second-trump-term-will-impact-us-energy-5757849)
+    
+    6hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![From Gas to Green and Back: How a Second Trump Term Will Impact US Energy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![From Gas to Green and Back: How a Second Trump Term Will Impact US Energy](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758302-GettyImages-1238962634-205x123.jpg.webp)](https://www.theepochtimes.com/business/from-gas-to-green-and-back-how-a-second-trump-term-will-impact-us-energy-5757849)
+* [The Lame Duck Session of Congress Begins—Here’s What to Expect](https://www.theepochtimes.com/us/the-lame-duck-session-of-congress-begins-heres-what-to-expect-5757295)
+    
+    6hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![The Lame Duck Session of Congress Begins—Here’s What to Expect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![The Lame Duck Session of Congress Begins—Here’s What to Expect](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746845-10232024-DSC06694-US-Capitol-building-205x123.jpg.webp)](https://www.theepochtimes.com/us/the-lame-duck-session-of-congress-begins-heres-what-to-expect-5757295)
 * [In Arizona, Gallego Beats Lake in US Senate Showdown](https://www.theepochtimes.com/us/in-arizona-gallego-beats-lake-in-us-senate-showdown-5751627)
     
-    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![In Arizona, Gallego Beats Lake in US Senate Showdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Arizona, Gallego Beats Lake in US Senate Showdown](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697561-lake-gallegoKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-gallego-beats-lake-in-us-senate-showdown-5751627)
 * [GOP Incumbent Mike Garcia Concedes California House Seat](https://www.theepochtimes.com/us/gop-incumbent-mike-garcia-concedes-california-house-seat-5758178)
     
-    5hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    12hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
     [![GOP Incumbent Mike Garcia Concedes California House Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Incumbent Mike Garcia Concedes California House Seat](https://img.theepochtimes.com/assets/uploads/2023/10/17/id5511896-10162023-DSC07648-Mike-Garcia-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-incumbent-mike-garcia-concedes-california-house-seat-5758178)
-* [Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://www.theepochtimes.com/article/day-in-photos-veterans-day-parade-cop29-opening-and-a-bathing-baby-hippo-5757727)
-    
-    8hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758024-DSC04331-veterans-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-veterans-day-parade-cop29-opening-and-a-bathing-baby-hippo-5757727)
-* [Republicans Are 4 Seats Away From Retaining House Majority](https://www.theepochtimes.com/us/republicans-are-4-seats-away-from-retaining-house-majority-5757777)
-    
-    9hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Republicans Are 4 Seats Away From Retaining House Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Republicans Are 4 Seats Away From Retaining House Majority](https://img.theepochtimes.com/assets/uploads/2024/07/16/id5687637-GettyImages-1246018028-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-are-4-seats-away-from-retaining-house-majority-5757777)
-* [Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://www.theepochtimes.com/us/judge-to-rule-on-whether-trumps-conviction-should-stand-in-light-of-presidential-immunity-ruling-5757677)
-    
-    9hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5642357-Trump-Judge-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-to-rule-on-whether-trumps-conviction-should-stand-in-light-of-presidential-immunity-ruling-5757677)
-* [8 Things to Know About Tom Homan, Trump’s New Border Czar](https://www.theepochtimes.com/article/8-things-to-know-about-tom-homan-trumps-new-border-czar-5757848)
-    
-    11hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![8 Things to Know About Tom Homan, Trump’s New Border Czar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![8 Things to Know About Tom Homan, Trump’s New Border Czar](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757988-GettyImages-955742058-OP-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/8-things-to-know-about-tom-homan-trumps-new-border-czar-5757848)
-* [Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://www.theepochtimes.com/us/ohio-gov-dewine-begins-process-of-selecting-vances-senate-replacement-5757926)
-    
-    11hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
-    
-    [![Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725199-Haitian_Immigrants_Springfield_24260704500954-205x123.jpg.webp)](https://www.theepochtimes.com/us/ohio-gov-dewine-begins-process-of-selecting-vances-senate-replacement-5757926)
-* [Asthma May Affect Memory in Children, Study Finds](https://www.theepochtimes.com/health/asthma-may-affect-memory-in-children-study-finds-5757816)
-    
-    11hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
-    
-    [![Asthma May Affect Memory in Children, Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Asthma May Affect Memory in Children, Study Finds](https://img.theepochtimes.com/assets/uploads/2022/09/19/AdobeStock_321987696-205x123.jpeg.webp)](https://www.theepochtimes.com/health/asthma-may-affect-memory-in-children-study-finds-5757816)
-* [Voters in Washington State Say Yes to Block Natural Gas Ban](https://www.theepochtimes.com/us/voters-in-washington-state-say-yes-to-block-natural-gas-ban-5757851)
-    
-    11hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Voters in Washington State Say Yes to Block Natural Gas Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Voters in Washington State Say Yes to Block Natural Gas Ban](https://img.theepochtimes.com/assets/uploads/2023/12/07/id5542643-Gas-Stove-205x123.jpg.webp)](https://www.theepochtimes.com/us/voters-in-washington-state-say-yes-to-block-natural-gas-ban-5757851)
-* [Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://www.theepochtimes.com/us/reports-of-engine-failure-lead-to-probe-of-honda-acura-vehicles-5757805)
-    
-    11hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://img.theepochtimes.com/assets/uploads/2021/06/13/2021-Honda-Odyssey-017-1200x800-205x123.jpg.webp)](https://www.theepochtimes.com/us/reports-of-engine-failure-lead-to-probe-of-honda-acura-vehicles-5757805)
+    ![GOP Incumbent Mike Garcia Concedes California House Seat](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758317-10162023-DSC07648-Mike-Garcia.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-incumbent-mike-garcia-concedes-california-house-seat-5758178)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
