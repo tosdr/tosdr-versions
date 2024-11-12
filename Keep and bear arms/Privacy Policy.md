@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 291 active visitors** | **Monday, November 11, 2024** |
+| **You are 1 of 192 active visitors** | **Tuesday, November 12, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Foolish liberals who are trying to read the Second Amendment out of the Constitution by claiming it's not an individual right or that it's too much of a public safety hazard don't see the danger in the big picture. They're courting disaster by encouraging others to use the same means to eliminate portions of the constitution they don't like. � Alan Dershowitz
+ **QUOTES TO REMEMBER**All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident. � Arthur Schopenhauer (1788-1860)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
