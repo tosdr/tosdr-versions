@@ -16,6 +16,7 @@ Search
 
 * [Our Story](https://perc.org/about/our-story/)
 * [Our People](https://perc.org/about/our-people/)
+* [Partners](https://perc.org/about/partners/)
 * [Annual Report](https://perc.org/about/annual-report/)
 * [Press Room](https://perc.org/about/press-room/)
 * [Careers](https://www.perc.org/careers/)
@@ -55,6 +56,8 @@ ABOUT
 [Our Story](https://www.perc.org/about/our-story/)
 
 [Our People](https://www.perc.org/about/our-people/)
+
+[Partners](https://www.perc.org/about/partners/)
 
 [Annual Report](https://www.perc.org/about/annual-report/)
 
