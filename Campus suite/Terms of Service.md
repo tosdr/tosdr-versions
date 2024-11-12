@@ -456,29 +456,29 @@ b. SchoolStatus will neither disclose District Data nor access District Data exc
 
 ![1EdTech Trusted Education App Certified Badge](https://www.schoolstatus.com/wp-content/uploads/1EdTech_TrustEd-Apps-Certified-485x520-BW-300x322.webp)
 
-![Best Meets Requirements Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestMeetsRequirements_MeetsRequirements-2-300x389.webp)
-
-![Best Relationship Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestRelationship_Total-1-1-300x389.webp)
-
-![Best Results Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestResults_Total-300x389.webp)
-
-![Best Support Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestSupport_QualityOfSupport-300x389.webp)
-
-![Best Usability Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestUsability_Total-300x389.webp)
-
-![Easiest to do Business With Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_EasiestToDoBusinessWith_EaseOfDoingBusinessWith-300x389.webp)
-
-![Easiest to Use Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_EasiestToUse_EaseOfUse-300x389.webp)
-
-![Users Most Likely to Recommend Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_UsersMostLikelyToRecommend_Nps-300x389.webp)
-
-![Easiest Admin Summer 2024](https://www.schoolstatus.com/wp-content/uploads/SchoolManagement_EasiestAdmin_EaseOfAdmin-300x389.webp)
-
-![Leader Summer 2024](https://www.schoolstatus.com/wp-content/uploads/SchoolManagement_Leader_Leader-300x389.webp)
-
-![Momentum Leader Summer 2024](https://www.schoolstatus.com/wp-content/uploads/SchoolManagement_MomentumLeader_Leader-300x389.webp)
-
 ![Users Love Us Summer 2024](https://www.schoolstatus.com/wp-content/uploads/users-love-us-2-300x389.webp)
+
+![](https://www.schoolstatus.com/wp-content/uploads/G2-recommend-fall2024.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-momentum-leader.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-leader.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-easy-business.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-easiest-to-use.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-easiest-setup.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-best-usability.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-best-support.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-best-results.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-best-relationship.png)
+
+![](https://www.schoolstatus.com/wp-content/uploads/g2-fall-best-meets-requirements.png)
 
 ![Document icon](https://www.schoolstatus.com/wp-content/uploads/cta_icon.svg)
 
