@@ -404,7 +404,6 @@ Privacy Statement
 
 * Privacy Statement
 * User Agreement
-* [Venmo Short Form Disclosure(opens in a new tab)](https://venmo.com/resources/our-fees/#shortform "Venmo Short Form Disclosure")
 * [Venmo Long Form Disclosure(opens in a new tab)](https://venmo.com/resources/our-fees/#longform "Venmo Long Form Disclosure")
 * Licenses
 * Consent
@@ -416,13 +415,11 @@ Privacy Statement
 * Venmo Mastercard Privacy Policy
 * Cryptocurrency Terms & Conditions
 * [Open Source Attribution(opens in a new tab)](https://help.venmo.com/hc/en-us/articles/217042848 "Open Source Attribution")
-* User Agreement - Effective November 12, 2024
 
 U.S.
 
 * Privacy Statement
 * User Agreement
-* [Venmo Short Form Disclosure(opens in a new tab)](https://venmo.com/resources/our-fees/#shortform "Venmo Short Form Disclosure")
 * [Venmo Long Form Disclosure(opens in a new tab)](https://venmo.com/resources/our-fees/#longform "Venmo Long Form Disclosure")
 * Licenses
 * Consent
@@ -434,7 +431,6 @@ U.S.
 * Venmo Mastercard Privacy Policy
 * Cryptocurrency Terms & Conditions
 * [Open Source Attribution(opens in a new tab)](https://help.venmo.com/hc/en-us/articles/217042848 "Open Source Attribution")
-* User Agreement - Effective November 12, 2024
 
 Footer
 ------
