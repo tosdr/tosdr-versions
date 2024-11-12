@@ -1,12 +1,27 @@
  [![](https://nitropay.com/wp-content/themes/nitro-ow/assets/nitro.png) by Overwolf](https://nitropay.com/)
 
-* [How it works](https://nitropay.com/#intro)
+* [Nitro](https://nitropay.com/)
+* Publishers
+    
+    PUBLISHERS
+    
+    [How it Works](https://nitropay.com/publishers) [Documentation](https://nitropay.com/docs)
+    
+* Advertisers
+    
+    ADVERTISERS
+    
+    [Advertisers Offering](https://nitropay.com/advertisers) [Top Sites](https://nitropay.com/top-sites)
+    
+* Resources
+    
+    RESOURCES
+    
+    [Blog & News](https://blog.nitropay.com/) [Press Releases](https://blog.nitropay.com/tag/press-releases) [FAQ](https://nitropay.com/faq)
+    
 * [NitroDex](https://nitropay.com/nitrodex)
-* [Blog](https://blog.nitropay.com/)
-* [Docs](https://nitropay.com/docs)
-* [Sign up](https://nitropay.com/#contact)
 
-[Client Login](https://panel.nitropay.com/)
+[Log in](https://panel.nitropay.com/)
 
 Privacy Policy
 ==============
@@ -211,24 +226,29 @@ In the preceding twelve (12) months, the company has not sold any personal infor
 
 We use cookies to improve your experience and increase the relevancy of content when using Nitro. Our cookies are used for analytics, optimization, and advertising operations. [Learn more](https://nitropay.com/privacy).[Got it](#)
 
-![](//s.nit.ro/assets/nitro-ow.png) [![](//s.nit.ro/assets/ow-title.png)](https://www.overwolf.com/)
+![](//s.nit.ro/assets/nitro-ow.png) [![](//s.nit.ro/assets/ow-title.png)](https://www.overwolf.com/) [![](https://s.nit.ro/ow/ISO.svg)](https://www.overwolf.com/iso/)
 
 * ![](//s.nit.ro/assets/ow-n.svg)
-* #### Nitro
+* #### Publishers
     
-    * [How it works](https://nitropay.com/#intro)
-    * [NitroDex](https://nitropay.com/nitrodex)
-    * [Docs](https://nitropay.com/docs)
-    * [Sign in](https://panel.nitropay.com/)
+    * [How it works](https://nitropay.com/publishers)
+    * [Documentation](https://nitropay.com/docs)
+* #### Advertisers
+    
+    * [Advertisers Offering](https://nitropay.com/advertisers)
+    * [Top Sites](https://nitropay.com/top-sites)
+* #### Resources
+    
+    * [Blog & News](https://blog.nitropay.com/)
+    * [Press Releases](https://blog.nitropay.com/tag/press-releases/)
+    * [FAQ](https://nitropay.com/faq)
 * #### Companions
     
     * [Overwolf](https://www.overwolf.com/)
     * [CurseForge](https://www.curseforge.com/)
     * [Tebex](https://www.tebex.io/)
-* #### Company
+* #### [Nitrodex](https://nitropay.com/nitrodex)
     
-    * [Blog](https://blog.nitropay.com/)
-    * [Contact us](https://nitropay.com/#contact)
 * [![](//s.nit.ro/assets/ow-large.png)](https://www.overwolf.com/) [![](https://s.nit.ro/ow/ISO.svg)](https://www.overwolf.com/iso/)
 
 **© Overwolf. All rights reserved.**
