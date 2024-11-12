@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6/20241111T223347/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6/20241111T223347/e926a3fd-c2b6-455c-96f8-95b6fa8d78b6_360x203.jpg)](https://www.wqad.com/article/news/local/fire-sterling-cimco-recycling-center/526-e901687c-9ebf-43ae-950e-4d47f95a18d8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908)
         
-        #### [Fire at Sterling recycling center prompts large response](https://www.wqad.com/article/news/local/fire-sterling-cimco-recycling-center/526-e901687c-9ebf-43ae-950e-4d47f95a18d8)
+        #### [Moline middle schooler detained after bringing BB gun to school, police say](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908) [![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/af6710e1-5be1-4469-817a-7f1194e8fc38/af6710e1-5be1-4469-817a-7f1194e8fc38_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2602bb0-0788-45c0-9396-903854eeda46/20241111T221129/d2602bb0-0788-45c0-9396-903854eeda46_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2602bb0-0788-45c0-9396-903854eeda46/20241111T221129/d2602bb0-0788-45c0-9396-903854eeda46_360x203.jpg)](https://www.wqad.com/article/news/community/veterans-day-2024-quad-cities/526-3883df57-8c98-409c-bacb-dc12082260f7)
+        #### [Police: Moline middle schooler brings BB gun to school, detained](https://www.wqad.com/article/news/local/public-safety/john-deere-middle-school-bb-gun-moline-student-detained/526-d0dbd559-41ca-413d-88df-64f85978a908)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/025c15bf-7dc5-4e77-8fd8-e5af19b2b516/20241112T042319/025c15bf-7dc5-4e77-8fd8-e5af19b2b516_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/025c15bf-7dc5-4e77-8fd8-e5af19b2b516/20241112T042319/025c15bf-7dc5-4e77-8fd8-e5af19b2b516_360x203.jpg)](https://www.wqad.com/article/news/local/vote/yes-in-illinois-anyone-can-find-out-if-you-voted-in-the-general-election/63-c4ebe339-507c-438a-870a-ab0a7303258c)
         
-        #### [Here's how the greater Quad Cities community recognized Veterans Day](https://www.wqad.com/article/news/community/veterans-day-2024-quad-cities/526-3883df57-8c98-409c-bacb-dc12082260f7)
+        #### [Yes, in Illinois, anyone can find out if you voted in the general election](https://www.wqad.com/article/news/local/vote/yes-in-illinois-anyone-can-find-out-if-you-voted-in-the-general-election/63-c4ebe339-507c-438a-870a-ab0a7303258c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b/20241112T043318/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b/20241112T043318/0efe4dfc-4d2b-422b-8c44-f6cc32908d0b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WTSP/images/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2/20241110T134442/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2/20241110T134442/f1bb5fc4-4430-49f7-8e78-5f5beaa0d4d2_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/fema-worker-fired-avoid-helping-hurricane-survivors-trump/67-da729852-06aa-44d2-8de6-0c85aa0e4405)
         
-        #### [Much colder night... Bright skies again Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [FEMA worker fired after directing other workers to avoid helping hurricane victims who supported Trump](https://www.wqad.com/article/weather/hurricane/fema-worker-fired-avoid-helping-hurricane-survivors-trump/67-da729852-06aa-44d2-8de6-0c85aa0e4405)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/ec3ab13d-c527-40e3-9859-0aa8c2f101f6/20241111T123458/ec3ab13d-c527-40e3-9859-0aa8c2f101f6_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ec3ab13d-c527-40e3-9859-0aa8c2f101f6/20241111T123458/ec3ab13d-c527-40e3-9859-0aa8c2f101f6_360x203.jpg)](https://www.wqad.com/article/news/nation-world/wildfires-both-us-coasts/507-9a22b994-4f70-4767-803e-1f51cb0d7ae8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bdb67f1c-e5cf-41d4-810d-6ca4319907d2/20241112T134306/bdb67f1c-e5cf-41d4-810d-6ca4319907d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bdb67f1c-e5cf-41d4-810d-6ca4319907d2/20241112T134306/bdb67f1c-e5cf-41d4-810d-6ca4319907d2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Fire crews on both US coasts battle wildfires](https://www.wqad.com/article/news/nation-world/wildfires-both-us-coasts/507-9a22b994-4f70-4767-803e-1f51cb0d7ae8)
+        #### [Seasonable highs for your Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-31°
+45°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
