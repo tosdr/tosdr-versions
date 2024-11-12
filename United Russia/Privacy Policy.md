@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Владимир Якушев: С 2019 года в эксплуатацию ввели 1682 новых детских сада](https://cdn.er.ru/media/news/November2024/v99jn5RAtLitmW0A2yEb-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-s-2019-goda-v-ekspluataciyu-vveli-1682-novyh-detskih-sada)
+[![«Единая Россия» проведёт Единый день приёма граждан, приуроченный к Международному дню слепых](https://cdn.er.ru/media/news/November2024/PxZX5tDIPl8tTzwoosB4-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-provedyot-edinyj-den-priyoma-grazhdan-priurochennyj-k-mezhdunarodnomu-dnyu-slepyh)
 
-[Владимир Якушев: С 2019 года в эксплуатацию ввели 1682 новых детских сада](https://er.ru/activity/news/vladimir-yakushev-s-2019-goda-v-ekspluataciyu-vveli-1682-novyh-detskih-sada)
+[«Единая Россия» проведёт Единый день приёма граждан, приуроченный к Международному дню слепых](https://er.ru/activity/news/edinaya-rossiya-provedyot-edinyj-den-priyoma-grazhdan-priurochennyj-k-mezhdunarodnomu-dnyu-slepyh)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#колледжи](https://er.ru/activity/news?tags%5B0%5D=40618) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#международныйденьслепых](https://er.ru/activity/news?tags%5B0%5D=140985) [#единыйденьприёмаграждан](https://er.ru/activity/news?tags%5B0%5D=113405) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#всероссийскоеобществослепых](https://er.ru/activity/news?tags%5B0%5D=124639) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017)
 
-Сегодня 12:20
+Сегодня 16:26
 
-[![Владимир Якушев: С 2022 года капремонт завершён почти в 4,5 тысячах школ](https://cdn.er.ru/media/news/November2024/o9gd6LeFzeqSAZ500vS6-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-s-2022-goda-kapremont-zavershyon-pochti-v-4-5-tysyachah-shkol)
+[![Владимир Путин отметил работу фракции «Единой России» в Госдуме](https://cdn.er.ru/media/news/November2024/yfJRriNpmtMyrzNOnwSb-small.jpg)](https://er.ru/activity/news/vladimir-putin-otmetil-rabotu-frakcii-edinoj-rossii-v-gosdume)
 
-[Владимир Якушев: С 2022 года капремонт завершён почти в 4,5 тысячах школ](https://er.ru/activity/news/vladimir-yakushev-s-2022-goda-kapremont-zavershyon-pochti-v-4-5-tysyachah-shkol)
+[Владимир Путин отметил работу фракции «Единой России» в Госдуме](https://er.ru/activity/news/vladimir-putin-otmetil-rabotu-frakcii-edinoj-rossii-v-gosdume)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#совещание](https://er.ru/activity/news?tags%5B0%5D=190) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
-Сегодня 12:15
+Сегодня 15:30
 
-[![«Молодая Гвардия» и «Волонтёрская Рота» проведут в новых регионах мероприятия в честь Дня матери](https://cdn.er.ru/media/news/November2024/Nv2ByNq2UqCrSdbxOjWT-small.png)](https://er.ru/activity/news/molodaya-gvardiya-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-v-chest-dnya-materi)
+[![Госдума приняла закон «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://cdn.er.ru/media/news/November2024/1rb0R9Oq1Ukq2uiKCm1j-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
 
-[«Молодая Гвардия» и «Волонтёрская Рота» проведут в новых регионах мероприятия в честь Дня матери](https://er.ru/activity/news/molodaya-gvardiya-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-v-chest-dnya-materi)
+[Госдума приняла закон «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#волонтерскаядеятельность](https://er.ru/activity/news?tags%5B0%5D=147139) [#НДФЛ](https://er.ru/activity/news?tags%5B0%5D=1219) [#медуслуги](https://er.ru/activity/news?tags%5B0%5D=94272)
 
-11.11.24
+Сегодня 14:31
 
-[![«Единая Россия» дала старт благотворительной акции «Коробка храбрости»](https://cdn.er.ru/media/news/November2024/tMgUIrSQ4rhV0wZBwmJx-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-blagotvoritelnoj-akcii-korobka-hrabrosti)
+[![Владимир Якушев: В волгоградской школе №7 созданы все условия для комфортного обучения и самореализации ребят](https://cdn.er.ru/media/news/November2024/QScg9aBmDLALzKffAOhf-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-v-volgogradskoj-shkole-7-sozdany-vse-usloviya-dlya-komfortnogo-obucheniya-i-samorealizacii-rebyat)
 
-[«Единая Россия» дала старт благотворительной акции «Коробка храбрости»](https://er.ru/activity/news/edinaya-rossiya-dala-start-blagotvoritelnoj-akcii-korobka-hrabrosti)
+[Владимир Якушев: В волгоградской школе №7 созданы все условия для комфортного обучения и самореализации ребят](https://er.ru/activity/news/vladimir-yakushev-v-volgogradskoj-shkole-7-sozdany-vse-usloviya-dlya-komfortnogo-obucheniya-i-samorealizacii-rebyat)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонникиЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=140476) [#Коробкахрабрости](https://er.ru/activity/news?tags%5B0%5D=1095019) [#медучреждения](https://er.ru/activity/news?tags%5B0%5D=5855) [#игрушки](https://er.ru/activity/news?tags%5B0%5D=5113) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
+[#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616)
 
-11.11.24
+Сегодня 14:17
 
-[![«Единая Россия» даст старт международной акции «Люди Артека» 15 ноября](https://cdn.er.ru/media/news/November2024/3sRX7dMMqZv8IQdeF10i-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dast-start-mezhdunarodnoj-akcii-lyudi-arteka-15-noyabrya)
+[![Алёна Аршинова: При капремонте школ необходимо предусматривать площади для реализации проекта «Лица Героев»](https://cdn.er.ru/media/news/November2024/xHeynmWt6ilZ2DrQFrzF-small.JPG)](https://er.ru/activity/news/alena-arshinova-pri-kapremonte-shkol-neobhodimo-predusmatrivat-ploshadi-pod-realizaciyu-proekta-lica-geroev)
 
-[«Единая Россия» даст старт международной акции «Люди Артека» 15 ноября](https://er.ru/activity/news/edinaya-rossiya-dast-start-mezhdunarodnoj-akcii-lyudi-arteka-15-noyabrya)
+[Алёна Аршинова: При капремонте школ необходимо предусматривать площади для реализации проекта «Лица Героев»](https://er.ru/activity/news/alena-arshinova-pri-kapremonte-shkol-neobhodimo-predusmatrivat-ploshadi-pod-realizaciyu-proekta-lica-geroev)
 
-[#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#Беларусь](https://er.ru/activity/news?tags%5B0%5D=5381) [#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872)
+[#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#героиВОВ](https://er.ru/activity/news?tags%5B0%5D=114356) [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Новаяшкола](https://er.ru/activity/news?tags%5B0%5D=1090067) [#ЛицаГероев](https://er.ru/activity/news?tags%5B0%5D=1093607)
 
-11.11.24
+Сегодня 14:00
 
-[![Сергей Лавров: «Единая Россия» инициировала межпартийные процессы по противодействию практикам неоколониализма](https://cdn.er.ru/media/news/November2024/ftadDx6UqNrjyQVWRQ48-small.jpg)](https://er.ru/activity/news/sergej-lavrov-edinaya-rossiya-iniciirovala-mezhpartijnye-processy-po-protivodejstviyu-praktikam-neokolonializma)
+[![«Единая Россия» передала в Минпросвещения перечень объектов образования для капремонта в 2025-2027 годах](https://cdn.er.ru/media/news/November2024/phFsvCBkh6iLMyIUDFtd-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-v-minprosvesheniya-perechen-obektov-obrazovaniya-dlya-kapremonta-v-2025-2027-godah)
 
-[Сергей Лавров: «Единая Россия» инициировала межпартийные процессы по противодействию практикам неоколониализма](https://er.ru/activity/news/sergej-lavrov-edinaya-rossiya-iniciirovala-mezhpartijnye-processy-po-protivodejstviyu-praktikam-neokolonializma)
+[«Единая Россия» передала в Минпросвещения перечень объектов образования для капремонта в 2025-2027 годах](https://er.ru/activity/news/edinaya-rossiya-peredala-v-minprosvesheniya-perechen-obektov-obrazovaniya-dlya-kapremonta-v-2025-2027-godah)
 
-[#Лавров](https://er.ru/activity/news?tags%5B0%5D=1443) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#Африка](https://er.ru/activity/news?tags%5B0%5D=382)
+[#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#ремонтшкол](https://er.ru/activity/news?tags%5B0%5D=108590) [#детсады](https://er.ru/activity/news?tags%5B0%5D=6186)
 
-11.11.24
+Сегодня 13:40
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
