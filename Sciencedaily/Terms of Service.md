@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Universal Scale: Testing Einstein's Predictions](https://www.sciencedaily.com/releases/2024/11/241111123136.htm)
+* [Secret Behind Corpse Flower's Famous Stench](https://www.sciencedaily.com/releases/2024/11/241111122833.htm)
 * [Storm in a Laser Beam](https://www.sciencedaily.com/releases/2024/11/241111123307.htm)
 * [Noncoding RNAs Are Not Junk](https://www.sciencedaily.com/releases/2024/11/241107115053.htm)
 * [Deep Ocean Clues to Ice Age Puzzle](https://www.sciencedaily.com/releases/2024/11/241108113456.htm)
@@ -237,8 +239,6 @@ this hour
 * [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
 * [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
 * [Elephant Turns Hose Into Showering Tool](https://www.sciencedaily.com/releases/2024/11/241108113209.htm)
-* [Chimps Perform Better With an Audience](https://www.sciencedaily.com/releases/2024/11/241108113207.htm)
-* [Animals: 100-Million-Year Explosion in Color](https://www.sciencedaily.com/releases/2024/11/241107193216.htm)
 
 Trending Topics
 ---------------
@@ -253,23 +253,23 @@ this week
 
 [K-12 Education](https://www.sciencedaily.com/news/mind_brain/k-12_education/)
 
-[COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
+[Bird Flu](https://www.sciencedaily.com/news/health_medicine/bird_flu/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
-
 [Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
-
 [Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
-[Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
