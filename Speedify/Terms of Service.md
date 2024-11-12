@@ -131,9 +131,9 @@ Upcoming Events
 
 Nov 13
 
-10:01 am - 11:00 am EST
+10:00 am - 11:00 am EST
 
-### [11/13 @ 10am EST – Your webcam choice will make or break your streams | Ask the CEO your tech questions](https://speedify.com/event/11-13-10am-est-how-do-you-put-speedify-on-your-router-ask-the-ceo-your-tech-questions/ "11/13 @ 10am EST – Your webcam choice will make or break your streams | Ask the CEO your tech questions")
+### [11/13 @ 10am EST – The Streaming Technology showing up at the StreamGeeks Summit | Ask the CEO your tech questions](https://speedify.com/event/11-13-10am-est-how-do-you-put-speedify-on-your-router-ask-the-ceo-your-tech-questions/ "11/13 @ 10am EST – The Streaming Technology showing up at the StreamGeeks Summit | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
@@ -141,7 +141,7 @@ Nov 13
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
-* [How to Easily Fix Instagram Freezing Issues for Good](https://speedify.com/blog/how-to/how-to-fix-instagram-freezing-problem/)
+* [How to Connect If Starbucks WiFi Login Screen Won't Pop Up](https://speedify.com/blog/starbucks-wifi-wont-pop-up-fix/)
 
 ### Bonding Apps
 
