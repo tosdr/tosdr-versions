@@ -141,36 +141,36 @@ Stay Up to Date
 
 Popular Events
 
-* [Adele Tour 2024](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tour 2024")
+* [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
 * [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
-* [Tickets for FC Barcelona](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "Tickets for FC Barcelona")
+* [FC Barcelona Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "FC Barcelona Ticket")
 * [Michael Buble Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tickets")
 * [Taylor Swift Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Tickets")
-* [The Eagles Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Concert Tickets")
-* [Billie Eilish Tour 2024](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Tour 2024")
-* [Coldplay Tour](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour")
-* [Tickets for Los Angeles Rams](https://www.viagogo.com/Sports-Tickets/Football/NFL/Los-Angeles-Rams-Tickets "Tickets for Los Angeles Rams")
-* [Philadelphia Eagles Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Philadelphia-Eagles-Tickets "Philadelphia Eagles Ticket")
-* [Chicago Bears Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Chicago-Bears-Tickets "Chicago Bears Ticket")
-* [Sabrina Carpenter Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tickets")
-* [New York Knicks Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/NBA/New-York-Knicks-Tickets "New York Knicks Tickets")
+* [The Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Tickets")
 * [Tickets for Detroit Lions](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Detroit-Lions-Tickets "Tickets for Detroit Lions")
-* [Ohio State Buckeyes Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Ohio-State-Buckeyes-Football-Tickets "Ohio State Buckeyes Football Tickets")
-* [Wicked the Musical Tickets](https://www.viagogo.com/Theater-Tickets/Cast-Recordings/Musicals/Wicked-the-Musical-Tickets "Wicked the Musical Tickets")
-* [Tyler, The Creator Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Tyler-The-Creator-Tickets "Tyler, The Creator Concert Tickets")
-* [Trans-Siberian Orchestra Tickets](https://www.viagogo.com/Theater-Tickets/Classical/Trans-Siberian-Orchestra-Tickets "Trans-Siberian Orchestra Tickets")
-* [National Finals Rodeo Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Rodeo/National-Finals-Rodeo-Tickets "National Finals Rodeo Ticket")
+* [Philadelphia Eagles Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Philadelphia-Eagles-Tickets "Philadelphia Eagles Tickets")
+* [Billie Eilish Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Tickets")
+* [New York Knicks Ticket](https://www.viagogo.com/Sports-Tickets/Basketball/NBA/New-York-Knicks-Tickets "New York Knicks Ticket")
+* [Formula 1 Ticket](https://www.viagogo.com/Sports-Tickets/Sports-and-Outdoors/Formula-1-Tickets "Formula 1 Ticket")
 * [Boston Celtics Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Boston-Celtics-Tickets "Boston Celtics Tickets")
-* [Zach Bryan Tour 2025](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Zach-Bryan-Tickets "Zach Bryan Tour 2025")
-* [Kansas City Chiefs Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Kansas-City-Chiefs-Tickets "Kansas City Chiefs Tickets")
-* [Tickets for Los Angeles Lakers](https://www.viagogo.com/Sports-Tickets/Basketball/NBA/Los-Angeles-Lakers-Tickets "Tickets for Los Angeles Lakers")
-* [UFC (Ultimate Fighting Championship) Ticket](https://www.viagogo.com/Sport-More-Section/Mixed-Martial-Arts/UFC-(Ultimate-Fighting-Championship) "UFC (Ultimate Fighting Championship) Ticket")
-* [Most Valuable Promotions Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Boxing/Most-Valuable-Promotions-Tickets "Most Valuable Promotions Ticket")
+* [Trans-Siberian Orchestra Tickets](https://www.viagogo.com/Theater-Tickets/Classical/Trans-Siberian-Orchestra-Tickets "Trans-Siberian Orchestra Tickets")
+* [Pittsburgh Steelers Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/Pittsburgh-Steelers-Tickets "Pittsburgh Steelers Ticket")
+* [Andrea Bocelli Tickets](https://www.viagogo.com/Theater-Tickets/Opera/Andrea-Bocelli-Tickets "Andrea Bocelli Tickets")
+* [Tyler, The Creator Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Tyler-The-Creator-Tickets "Tyler, The Creator Concert Tickets")
+* [Coldplay Tour](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour")
+* [Pentatonix Tour 2024](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Pentatonix-Tickets "Pentatonix Tour 2024")
+* [Los Angeles Rams Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/Los-Angeles-Rams-Tickets "Los Angeles Rams Tickets")
+* [Sabrina Carpenter Tour 2025](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tour 2025")
+* [Most Valuable Promotions Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Boxing/Most-Valuable-Promotions-Tickets "Most Valuable Promotions Tickets")
+* [Golden State Warriors Ticket](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Golden-State-Warriors-Tickets "Golden State Warriors Ticket")
+* [Tickets for Ohio State Buckeyes Football](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Ohio-State-Buckeyes-Football-Tickets "Tickets for Ohio State Buckeyes Football")
+* [Dallas Cowboys Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Dallas-Cowboys-Tickets "Dallas Cowboys Tickets")
+* [Billy Joel Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Billy-Joel-Tickets "Billy Joel Tickets")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb05 : -
+\- : ecpuse1-webb12 : -
 
 }
 
