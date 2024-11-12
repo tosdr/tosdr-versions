@@ -192,70 +192,7 @@ We value and respect your privacy. You have the right to opt out of “sales” 
 
 We value your trust and are dedicated to maintaining the highest standards of compliance.
 
-[Web Hosting](https://www.inmotionhosting.com/)
-
-* [Shared Hosting](https://www.inmotionhosting.com/shared-hosting)
-* [WordPress Hosting](https://www.inmotionhosting.com/wordpress-hosting)
-* [Managed WordPress](https://www.inmotionhosting.com/wordpress-hosting/managed-wordpress)
-* [VPS Hosting](https://www.inmotionhosting.com/vps-hosting)
-* [Cloud VPS](https://www.inmotionhosting.com/cloud-vps)
-* [Dedicated Server Hosting](https://www.inmotionhosting.com/dedicated-servers)
-* [Bare Metal Servers](https://www.inmotionhosting.com/bare-metal-servers)
-* [Enterprise Hosting Solutions](https://www.inmotionhosting.com/enterprise-hosting-solutions)
-* [OpenMetal Cloud IaaS](https://www.openmetal.io/)
-* [Reseller Hosting](https://www.inmotionhosting.com/reseller-hosting)
-* [Reseller VPS](https://www.inmotionhosting.com/vps-reseller)
-* [Minecraft Server Hosting](https://www.inmotionhosting.com/minecraft-server-hosting)
-* [eCommerce Hosting](https://www.inmotionhosting.com/ecommerce-hosting)
-
-Hosting Tools
-
-* [WordPress](https://www.inmotionhosting.com/wordpress-hosting)
-* [WooCommerce Hosting](https://www.inmotionhosting.com/wordpress-hosting/woocommerce)
-* [Drupal Hosting](https://www.inmotionhosting.com/drupal-hosting)
-* [Joomla Hosting](https://www.inmotionhosting.com/joomla-hosting)
-* [cPanel Hosting](https://www.inmotionhosting.com/cpanel-hosting)
-* [PHP Hosting](https://www.inmotionhosting.com/php-hosting)
-* [Magento Hosting](https://www.inmotionhosting.com/magento-hosting)
-* [PrestaShop Hosting](https://www.inmotionhosting.com/prestashop-hosting)
-* [Laravel Hosting](https://www.inmotionhosting.com/laravel-hosting)
-* [WebPro Dashboard](https://www.inmotionhosting.com/webpro)
-* [WordPress Website Builder](https://www.inmotionhosting.com/wordpress-website-builder)
-* [Domain Names](https://www.inmotionhosting.com/domains)
-
-Support
-
-* Live Chat
-* [+1 757 416 6575](tel:+17574166575)
-* [+44 2045 763722](tel:+442045763722)
-* [Support Center](https://www.inmotionhosting.com/support/)
-* [Community Support](https://www.inmotionhosting.com/support/questions/)
-* [WordPress Tutorials](https://www.inmotionhosting.com/support/edu/wordpress/)
-* [Premier Support](https://www.inmotionhosting.com/premier-support)
-* [Managed Hosting](https://www.inmotionhosting.com/managed-hosting)
-* [Website Transfers](https://www.inmotionhosting.com/transfer-your-website-to-the-best-web-hosting)
-* [Data Center Locations](https://www.inmotionhosting.com/about-us/data-centers)
-* [Los Angeles Data Center](https://www.inmotionhosting.com/about-us/data-centers/los-angeles-california)
-* [Ashburn Data Center](https://www.inmotionhosting.com/about-us/data-centers/ashburn-virginia)
-* [Amsterdam Data Center](https://www.inmotionhosting.com/about-us/data-centers/amsterdam-netherlands)
-
-About Us
-
-* [Contact Us](https://www.inmotionhosting.com/contact)
-* [About Us](https://www.inmotionhosting.com/about-us)
-* [Blog](https://www.inmotionhosting.com/blog/)
-* [News](https://www.inmotionhosting.com/press)
-* [Careers](https://www.inmotionhosting.com/employment/)
-* [Hosting Affiliate Program](https://www.inmotionhosting.com/hosting-affiliate-program)
-* [Refer a Friend](https://www.inmotionhosting.com/refer-a-friend)
-* [Student Web Hosting](https://www.inmotionhosting.com/edu/web-hosting-for-schools)
-* [Sitemap](https://www.inmotionhosting.com/sitemap)
-* Cookie Settings
-* Accessibility Settings
-
-Family of Brands
-
-[![InMotion Hosting](https://www.inmotionhosting.com/dslib/assets/logos/corporate/inmotion-hosting-logo-grey.webp)](https://www.inmotionhosting.com/)[![Web Hosting Hub](https://www.inmotionhosting.com/dslib/assets/logos/corporate/web-hosting-hub-logo-grey.webp)](https://www.webhostinghub.com/?__hstc=191291125.009be947c16775e92def5e6f0e70e0c7.1710447277509.1710788003718.1710792508009.18&__hssc=191291125.10.1710792508009&__hsfp=3079907552)[![RamNode](https://www.inmotionhosting.com/dslib/assets/logos/corporate/ramnode-logo-grey.webp)](https://ramnode.com/)
+[![InMotion Hosting](https://www.inmotionhosting.com/dslib/assets/logos/corporate/inmotion-hosting-logo-grey.webp)](https://www.inmotionhosting.com/)
 
 Follow Us
 
