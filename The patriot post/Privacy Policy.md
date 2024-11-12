@@ -120,20 +120,21 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34492)
+     [](https://patriotpost.us/cartoons/34493)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Gary Bauer The Great Divide](https://patriotpost.us/opinion/111860-the-great-divide-2024-11-11)
-*      [Matthew Continetti The Biden Error](https://patriotpost.us/opinion/111839-the-biden-error-2024-11-09)
-*      [The Washington Stand Trump’s Win ‘Isn’t the Finish Line — It’s the Starting Point’](https://patriotpost.us/opinion/111840-trumps-win-isnt-the-finish-line-its-the-starting-point-2024-11-09)
-*      [Ben Shapiro Why Trump Won](https://patriotpost.us/opinion/111809-why-trump-won-2024-11-08)
-*      [Erick Erickson The Aftermath](https://patriotpost.us/opinion/111808-the-aftermath-2024-11-08)
-*      [Michael Barone What You Didn’t Hear About on Election Night: The Other 43 States](https://patriotpost.us/opinion/111807-what-you-didnt-hear-about-on-election-night-the-other-43-states-2024-11-08)
-*      [David Harsanyi Good News: Americans Are No Longer Listening to Mass Media](https://patriotpost.us/opinion/111806-good-news-americans-are-no-longer-listening-to-mass-media-2024-11-08)
-*      [Gary Bauer Kamala’s Concession, Sort Of](https://patriotpost.us/opinion/111804-kamalas-concession-sort-of-2024-11-08)
+*      [Dennis Prager The Democrats’ 2020 Victory Was a Blessing in Disguise](https://patriotpost.us/opinion/111887-the-democrats-2020-victory-was-a-blessing-in-disguise-2024-11-12)
+*      [Salena Zito Cultural Curators Face Reckoning for Mocking Middle America](https://patriotpost.us/opinion/111885-cultural-curators-face-reckoning-for-mocking-middle-america-2024-11-12)
+*      [Daniel McCarthy Democrats Are at a Dead End, Unless They Learn From Trump](https://patriotpost.us/opinion/111883-democrats-are-at-a-dead-end-unless-they-learn-from-trump-2024-11-12)
+*      [Victor Joecks Left Blames Racist Minorities for Trump’s Win](https://patriotpost.us/opinion/111882-left-blames-racist-minorities-for-trumps-win-2024-11-12)
+*      [Cal Thomas Democrats Self-Examine, but Not the Media](https://patriotpost.us/opinion/111881-democrats-self-examine-but-not-the-media-2024-11-12)
+*      [Hans von Spakovsky Biden-Harris DOJ Prosecutor Targets Trans Whistleblower Doctor Again](https://patriotpost.us/opinion/111879-biden-harris-doj-prosecutor-targets-trans-whistleblower-doctor-again-2024-11-12)
+*      [Rich Lowry Trump Shows Demography Isn’t Destiny](https://patriotpost.us/opinion/111878-trump-shows-demography-isnt-destiny-2024-11-12)
+*      [Tony Perkins Once Again, the Sacred Fire of Liberty Is Preserved](https://patriotpost.us/opinion/111876-once-again-the-sacred-fire-of-liberty-is-preserved-2024-11-12)
+*      [The Babylon Bee Jimmy Kimmel Ratings Soar After Debuting New Segment Where He Stands There All Sad and Cries Like a Wuss](https://patriotpost.us/opinion/111873-jimmy-kimmel-ratings-soar-after-debuting-new-segment-where-he-stands-there-all-sad-and-cries-like-a-wuss-2024-11-12)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +148,13 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“Let me now take a more comprehensive view, and warn you in the most solemn manner against the baneful effects of the Spirit of Party generally. … A fire not to be quenched, it demands a uniform vigilance to prevent its bursting into a flame, lest, instead of warming, it should consume.” —George Washington (1796)
+“The most sacred of the duties of a government \[is\] to do equal and impartial justice to all citizens.” —Thomas Jefferson (1816)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
