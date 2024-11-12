@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-164a5a8c5fe2dbd8197010f3f9c1368d
+3332ce8b3e71c573cd8e46b11757c64d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![7 mm transparent purple heart beads](https://www.sojourner.biz/images/cache/glass/HRT029.200.jpg)](https://www.sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
+[![15 mm by 12 mm brown mustard agate oval beads](https://www.sojourner.biz/images/cache/stone/STN063.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/15-mm-by-12-mm-brown-mustard-agate-oval-beads.html "15 mm by 12 mm brown mustard agate oval beads")
 
-#### [7 mm transparent purple heart beads](https://www.sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
+#### [15 mm by 12 mm brown mustard agate oval beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/15-mm-by-12-mm-brown-mustard-agate-oval-beads.html "15 mm by 12 mm brown mustard agate oval beads")
 
-$2.00
+$13.00
 
 ### Best Sellers
 
@@ -189,16 +189,16 @@ $2.00
     $15.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+6. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
+8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Electric yellow Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/electric-yellow-swarovski-polka-dot-clasp.html "Electric yellow Swarovski polka dot clasp")  
-    $15.00
+10. [Large oval pearl clasp](https://www.sojourner.biz/clasps/pearl/large-oval-pearl-clasp.html "Large oval pearl clasp")  
+    $35.00
 
 [Top](#)
 
