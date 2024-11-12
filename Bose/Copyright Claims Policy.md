@@ -2,8 +2,6 @@
 
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
-Exclusive color drop: Ultra Open Earbuds are now available in Carbon Blue. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1)
-
 Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
 My Bose members get a Holiday Bonus Card up to $100 to use on future orders. [Terms apply](https://www.bose.com/holiday-bonus-card-terms-and-conditions)
@@ -291,6 +289,7 @@ We are experiencing issues at this moment. Please try again later.
 
 ##### Offers Offers
 
+* [Holiday Bonus Card Offer](https://www.bose.com/holiday-bonus-card-terms-and-conditions)
 * [Gift Cards](https://www.bose.com/gift-cards)
 * [ID.me Group Program](https://www.bose.com/idme-group-discounts-program)
 * [Corporate Gifting](https://www.bose.com/corporate-gifting)
