@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Tue, Nov 12, 2024
+Wed, Nov 13, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -130,10 +130,10 @@ English
 * Top Trends
     * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
     * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
+    * [Vivek Ramaswamy](https://www.news18.com/world/what-is-vivek-ramaswamys-future-in-trump-2-0-after-likely-snub-for-secretary-of-state-9117700.html)
+    * [Song Jae Rim](https://www.news18.com/movies/south-korean-actor-song-jae-rim-passes-away-at-39-found-dead-in-seoul-apartment-9117748.html)
     * [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-    * [Shahid Kapoor](https://www.news18.com/business/real-estate/bollywood-actor-shahid-kapoor-leases-out-luxury-apartment-at-over-rs-20-lakh-per-month-9117413.html)
     * [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
-    * [Champions Trophy](https://www.news18.com/cricket/pakistan-might-withdraw-from-champions-trophy-not-to-play-against-india-in-icc-events-report-9116912.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,10 +171,10 @@ In Trends:
 
 * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
 * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
+* [Vivek Ramaswamy](https://www.news18.com/world/what-is-vivek-ramaswamys-future-in-trump-2-0-after-likely-snub-for-secretary-of-state-9117700.html)
+* [Song Jae Rim](https://www.news18.com/movies/south-korean-actor-song-jae-rim-passes-away-at-39-found-dead-in-seoul-apartment-9117748.html)
 * [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-* [Shahid Kapoor](https://www.news18.com/business/real-estate/bollywood-actor-shahid-kapoor-leases-out-luxury-apartment-at-over-rs-20-lakh-per-month-9117413.html)
 * [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
-* [Champions Trophy](https://www.news18.com/cricket/pakistan-might-withdraw-from-champions-trophy-not-to-play-against-india-in-icc-events-report-9116912.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -302,7 +302,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 12, 2024
+Nov 13, 2024
 
 [View All](https://www.news18.com/short-news/)
 
