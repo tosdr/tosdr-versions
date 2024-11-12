@@ -71,12 +71,12 @@ Privacy Policy
 
 ### تازه‌ها
 
+* [درباره‌ی تجمع کارکنان ارکان ثالث نفت](https://karkhane.org/6138/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%aa%d8%ac%d9%85%d8%b9-%da%a9%d8%a7%d8%b1%da%a9%d9%86%d8%a7%d9%86-%d8%a7%d8%b1%da%a9%d8%a7%d9%86-%d8%ab%d8%a7%d9%84%d8%ab-%d9%86%d9%81%d8%aa/) اسفند 25، 1400
 * [نقدی بر فیلم “زنبور کارگر”](https://karkhane.org/6098/a_critic_of_workerbee/) اسفند 25، 1400
 * [حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/) اسفند 25، 1400
 * [در مورد “اعتصابات” کارمندان رسمی شرکت ملی نفت ایران](https://karkhane.org/5952/nioc_white_collars/) اسفند 25، 1400
 * [گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/) اسفند 25، 1400
 * [کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/) اسفند 25، 1400
-* [تجربه‌ی فرش‌بافی در خانه](https://karkhane.org/5899/farshbafi_dar_xane/) اسفند 25، 1400
 
 ### برچسب‌ها
 
@@ -93,7 +93,7 @@ Privacy Policy
 * [قوانین کارگری](https://karkhane.org/category/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c/) 1
 * [گزارش](https://karkhane.org/category/%da%af%d8%b2%d8%a7%d8%b1%d8%b4/) 78
 * [گوناگون](https://karkhane.org/category/%da%af%d9%88%d9%86%d8%a7%da%af%d9%88%d9%86/) 2
-* [مقاله‌‌](https://karkhane.org/category/%d9%85%d9%82%d8%a7%d9%84%d9%87/) 140
+* [مقاله‌‌](https://karkhane.org/category/%d9%85%d9%82%d8%a7%d9%84%d9%87/) 141
 * [نوشته‌های رسیده](https://karkhane.org/category/%d9%86%d9%88%d8%b4%d8%aa%d9%87%e2%80%8c%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%db%8c%d8%af%d9%87/) 10
 * [هنر و ادبیات](https://karkhane.org/category/%d9%87%d9%86%d8%b1-%d9%88-%d8%a7%d8%af%d8%a8%db%8c%d8%a7%d8%aa/) 54
 
