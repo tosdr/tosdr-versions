@@ -175,6 +175,7 @@ Menu
         * [Explore All Topics](https://corporatefinanceinstitute.com/topics/)
     * [View All Courses](https://corporatefinanceinstitute.com/collections/)
     
+* [CPE](https://corporatefinanceinstitute.com/about-cfi/cpe-credits-online/)
 * CFI For Teams
     
     * [Overview](#)
