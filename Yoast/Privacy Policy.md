@@ -29,10 +29,13 @@ Search  Search
     * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/knowledge_base.png)Help centerFind out how to use our products](https://yoast.com/help/)
     * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/dev_docs.png)Developer docsAdvanced build details for developers](https://developer.yoast.com/)
     * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/highlight_support.png)24/7 supportPremium support whenever you needGet support now](https://yoast.com/help/)
-* [Community](https://yoast.com/about-us/community/)
-    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/company.png)CompanyFind out more about our company](https://yoast.com/about-us/)
-    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/wp_community.png)WordPressOur place in the WordPress ecosystem](https://yoast.com/wordpress/)
-    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/giving_back.png)Giving backOur community involvement activities](https://yoast.com/about-us/community/)
+* [About us](https://yoast.com/about-us/)
+    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/company.png)Team and leadershipMeet the Yoasters](https://yoast.com/about-us/team/)
+    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/yoast_seo.png)Company cultureEquality, inclusiveness, and empowerment](https://yoast.com/about-us/core-values/)
+    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/content_seo.png)CareersJoin Yoast, make an impact](https://yoast.com/jobs/)
+    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/giving_back.png)CommunityGiving back to our community](https://yoast.com/about-us/community/)
+    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/wp_community.png)Yoast and WordPressYoast in the WordPress ecosystem](https://yoast.com/wordpress/)
+    * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/product_news.png)EventsNetwork, learn, grow](https://yoast.com/about-us/events/)
 * Search  Search
     
 * CURRENCY selected='selected'USD ($)EUR (€)GBP (£)
