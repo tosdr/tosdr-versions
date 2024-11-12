@@ -1,6 +1,6 @@
 ![matomo](https://piwik.ovpn.se/piwik.php?idsite=1)
 
-**[Special Offer: Save $144 on our annual subscription](https://www.ovpn.com/en/pricing?package=year-b)**
+**[Best deal of the year - get 77% off our 2-year plan for Black Friday! Get Deal](https://www.ovpn.com/en/pricing?package=two-years)**
 
 [![](https://www.ovpn.com/images/logos/logo.svg "OVPN")](https://www.ovpn.com/en)
 
@@ -20,7 +20,7 @@ Not secure
 
 Your internet provider can monitor what you do online.
 
-[Get protected now](https://www.ovpn.com/en/pricing?package=year-b)
+[Get protected now](https://www.ovpn.com/en/pricing)
 
 [](#)
 
