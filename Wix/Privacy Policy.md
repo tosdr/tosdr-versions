@@ -746,6 +746,21 @@ bottom of page
 
                                        
 
+[](https://www.wix.com/ "Wix.com")
+
+The Wix website builder offers a complete solution from enterprise-grade infrastructure and business features to advanced SEO and marketing tools–enabling anyone to create and grow online.
+
+* [About](https://www.wix.com/about/us)
+* [Contact Us](https://www.wix.com/about/contact-us)
+
+* [](https://www.facebook.com/wix "Facebook")
+* [](https://www.youtube.com/user/Wix "Youtube")
+* [](https://www.instagram.com/wix "Instagram")
+* [](https://www.tiktok.com/@wix "TikTok")
+* [](https://www.pinterest.com/wixcom "Pinterest")
+* [](https://twitter.com/wix "Twitter")
+* [](https://www.linkedin.com/company/wix-com?trk=biz-companies-cym "Linkedin")
+
 Product
 
 * [Website Templates](https://www.wix.com/website/templates)
@@ -795,21 +810,6 @@ Company
 * [Patent Notice](https://www.wix.com/about/patent-notice)
 * [Sitemap](https://www.wix.com/about/sitemap)
 * [Careers](https://careers.wix.com/)
-
-[](https://www.wix.com/ "Wix.com")
-
-The Wix website builder offers a complete solution from enterprise-grade infrastructure and business features to advanced SEO and marketing tools–enabling anyone to create and grow online.
-
-* [About](https://www.wix.com/about/us)
-* [Contact Us](https://www.wix.com/about/contact-us)
-
-* [](https://www.facebook.com/wix "Facebook")
-* [](https://www.youtube.com/user/Wix "Youtube")
-* [](https://www.instagram.com/wix "Instagram")
-* [](https://www.tiktok.com/@wix "TikTok")
-* [](https://www.pinterest.com/wixcom "Pinterest")
-* [](https://twitter.com/wix "Twitter")
-* [](https://www.linkedin.com/company/wix-com?trk=biz-companies-cym "Linkedin")
 
 * [Terms of Use](https://www.wix.com/about/terms-of-use)
 * [Privacy Policy](https://www.wix.com/about/privacy)
