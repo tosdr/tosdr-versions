@@ -447,6 +447,8 @@ Office: Park Residence, Skopje Macedonia
     
 * [Social Media Glossary](https://embedsocial.com/social-media-glossary/)
     
+* [Become a Partner](https://embedsocial.com/partner-program/)
+    
 
 ### Tutorials
 
