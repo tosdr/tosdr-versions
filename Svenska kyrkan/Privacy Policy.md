@@ -1343,7 +1343,7 @@ Sök Meny
 * [Sociala medier](https://www.svenskakyrkan.se/personuppgifter-i-sociala-medier)
 * [Svenska kyrkan i utlandet](https://www.svenskakyrkan.se/om-oss/svenska-kyrkan-i-utlandet-personuppgifter)
 
-[Lyssna](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=innehall&url=)
+[Lyssna](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=innehall&url=https%3a%2f%2fwww.svenskakyrkan.se%2fdefault.aspx%3fid%3d1761650)
 
 Personuppgifter (GDPR)
 ======================
