@@ -1203,6 +1203,7 @@
             * [ ]  [Release Tools](https://handbook.gitlab.com/handbook/engineering/infrastructure/release-tools/)
             * [ ]  [Service Maturity Model](https://handbook.gitlab.com/handbook/engineering/infrastructure/service-maturity-model/)
             * [ ]  [Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/)
+                * [ ]  [Data Access Durability Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/durability/)
                 * [ ]  [Delivery Group](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/delivery/)
                     * [ ]  [Delivery Team Metrics](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/delivery/metrics/)
                     * [ ]  [Delivery Team Training](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/delivery/training/)
