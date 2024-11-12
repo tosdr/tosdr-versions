@@ -189,9 +189,7 @@ On occasion, we collect and handle sensitive information. This may include:
 * health information (where this is relevant to an insurance policy, claim or if you're in financial difficulty and ask for hardship relief due to illness)
 * race or ethnicity (for example we may ask you what language you speak if you request a translator to communicate with us)
 * criminal history and political affiliation, where it is relevant for our regulatory and/or legal obligations
-* Biometric information (such as fingerprints or face), where this information is Collected and Used for the purpose of automated biometric verification or biometric identification
-
- 
+* Biometric information (such as fingerprints or face), where this information is Collected and Used for the purpose of automated biometric verification, biometric identification, or behavioural profile information (such as your keystroke typing patterns or scrolling or swiping activity) while you interact with us digitally, to detect suspicious financial and cyber activities, including fraud.
 
 Information about your personal circumstances
 
@@ -232,7 +230,8 @@ We use your information to deliver our products and services including to:
 * manage our relationship with you or your business
 * improve our service to you and your experience with us
 * communicate with you or your representatives about our products and services
-* let you know about other products and services that may be of interest to you. 
+* let you know about other products and services that may be of interest to you
+* respond to your enquiries about our products and services, including with \[CommBank GenAI\].
 
 Improving our business
 
@@ -240,7 +239,8 @@ We use your information to improve the products and services we provide through 
 
 * reviewing customer feedback and assessing how you use our products and services
 * testing and validating the effectiveness of products, services and system enhancements
-* monitoring and reviewing call recordings, online chats and other business activity for quality assurance, training and compliance purposes.
+* monitoring and reviewing call recordings, online chats and other business activity for quality assurance, training and compliance purposes
+* we may also use any information you provide through our online chat to improve our automated responses generated with \[Commbank GenAI\].
 
 Managing our operations
 
@@ -363,6 +363,7 @@ We may share your information with our service partners, external service provid
 
 * organisations that we partner with to supply products and services, for example, payment and shopping services, mortgage insurers, loyalty program partners and our product distributors.
 * external service providers that we engage to do some of our work for us, for example mailing houses, debt recovery agencies, legal service providers and information technology, cloud service providers and market research companies.
+* external technology service providers that support \[CommBank GenAI\] (such as Microsoft).
 * people who help us process applications and claims (like assessors and investigators).
 * organisations involved in our funding arrangements (like loan purchasers, investors, advisers, researchers, trustees and rating agencies).
 * auditors, insurers and re-insurers
@@ -493,7 +494,9 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     If you apply for credit or offer to act as a guarantor, we may collect or share your information with a credit reporting body. This information is used to determine your eligibility for credit.
     
-    Credit reporting bodies include this information in their reports to help other credit providers to assess your credit worthiness (such as when you apply for a credit card or a loan). 
+    When we request information about you from a credit reporting body, we will need to share some of your personal or credit information with them, your consent is not required for us to share that information in relation to a consumer credit application.   
+    
+    Credit reporting bodies include a record of our request for your information (called a credit enquiry) in their reports to help other credit providers assess your credit worthiness (such as when you apply for a credit card or a loan) and may also use the information when they calculate your credit score or rating. In some circumstances your credit score or rating may be negatively impacted by these credit enquiries, such as where numerous credit enquiries have been recorded by a credit reporting body over a short period on their report about you.
     
     We can also ask credit reporting bodies to give us your overall credit score and may use credit information from credit reporting bodies together with other information to arrive at our own assessment of your ability to manage credit.
     
@@ -930,7 +933,7 @@ For other European jurisdictions please refer to the [European Commission](http
 Things you should know
 ----------------------
 
-* Policy updated: 4 September 2024
+* Policy updated: 11 November 2024
     
     During our relationship with you, we may tell you more about how we collect and handle your information – for example, when you fill in an application form or receive product terms and conditions. You should always read these documents carefully.
     
