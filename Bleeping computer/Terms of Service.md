@@ -36,18 +36,18 @@
         
         Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
     
-    * [![Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![iPhones now auto-restart to block access to encrypted data after long idle times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-server-2025-automatic-upgrades-on-third-party-tools/)
-    * [![Halliburton reports $35 million loss after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        iPhones now auto-restart to block access to encrypted data after long idle times](https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
+    * [![VMware makes Workstation and Fusion free for everyone](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Halliburton reports $35 million loss after ransomware attack](https://www.bleepingcomputer.com/news/security/halliburton-reports-35-million-loss-after-ransomware-attack/)
-    * [![This $30 cybersecurity course deal helps prepare for certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
+    * [![New Ymir ransomware partners with RustyStealer in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This $30 cybersecurity course deal helps prepare for certifications](https://www.bleepingcomputer.com/offer/deals/this-30-cybersecurity-course-deal-helps-prepare-for-certifications/)
-    * [![Windows 11 is adding a 'Share' button to the Start menu and Taskbar](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Ymir ransomware partners with RustyStealer in attacks](https://www.bleepingcomputer.com/news/security/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
+    * [![HIBP notifies 57 million people of Hot Topic data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 is adding a 'Share' button to the Start menu and Taskbar](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
+        HIBP notifies 57 million people of Hot Topic data breach](https://www.bleepingcomputer.com/news/security/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,12 +352,12 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Mazda infotainment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
 * [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
+* [![Mazda infotainment](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
 * [![PyPI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Malicious PyPI package with 37,000 downloads steals AWS keys](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-with-37-000-downloads-steals-aws-keys/)
