@@ -28,7 +28,7 @@ No results
     * [Tips & Tricks](https://linuxiac.com/category/linux-knowledge/tips/)
 * [Linux Distributions](https://linuxiac.com/category/distributions/)
 
-[](https://twitter.com/linuxiac)[](https://mastodon.social/@linuxiac)[](https://www.facebook.com/my.linuxiac)[](https://t.me/linuxiac)[](https://linuxiac.com/feed/)
+[](https://twitter.com/linuxiac)[](https://mastodon.social/@linuxiac)[](https://www.facebook.com/my.linuxiac)[](https://www.threads.net/@linuxiac)[](https://t.me/linuxiac)[](https://linuxiac.com/feed/)
 
 Search
 
