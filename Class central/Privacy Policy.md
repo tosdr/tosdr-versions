@@ -1,6 +1,6 @@
- [### ![](/images/promobar/book-green.svg) Coursera Cuts Jobs Despite $100M Revenue Milestone
+ [### ![](/images/promobar/cc-badge-white.svg) 100 Most Popular Courses for November
 
-View](https://www.classcentral.com/report/cousera-layoffs-2024/)
+View](https://www.classcentral.com/report/most-popular-november-2024/)
 
 Close
 
@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. law
+1. harvard
     
-2. machine learning
+2. web development
     
-3. html
+3. machine learning
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Artificial Intelligence
     
-    42,658 courses](https://www.classcentral.com/subject/cs)
-2. [Web Development
+    13,569 courses](https://www.classcentral.com/subject/ai)
+2. [Marketing
     
-    13,519 courses](https://www.classcentral.com/subject/web-development)
-3. [Communication Skills
+    7,989 courses](https://www.classcentral.com/subject/marketing)
+3. [Project Management
     
-    4,101 courses](https://www.classcentral.com/subject/communication-skills)
+    4,072 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 ---------------
 
-1. [Internet History, Technology, and Security
+1. [Introduction to Mathematical Thinking
     
-    University of Michigan](https://www.classcentral.com/course/insidetheinternet-335)
-2. [Fibonacci Numbers and the Golden Ratio
+    Stanford University](https://www.classcentral.com/course/maththink-370)
+2. [Introduction to Marketing
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fibonacci-6684)
-3. [Análisis estadístico con Excel
+    University of Pennsylvania](https://www.classcentral.com/course/whartonmarketing-1137)
+3. [Learning How To Learn for Youth
     
-    Galileo University](https://www.classcentral.com/course/excel-universidad-galileo-analisis-estadistico-co-13320)
+    Arizona State University](https://www.classcentral.com/course/learning-how-to-learn-youth-12569)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
