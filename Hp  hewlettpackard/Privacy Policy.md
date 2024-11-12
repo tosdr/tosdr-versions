@@ -511,7 +511,7 @@ popUpSREndingLabelString
 * [Modern Slavery Act Statement](https://h20195.www2.hp.com/V2/GetDocument.aspx?docname=c05388050)|
 * [HP UK Gender Pay Gap Report](https://www.hp.com/gb-en/gender-pay-gap.html)|
 * [Privacy](http://www.hp.com/gb-en/privacy/privacy-central.html)|
-* [Use of cookies](https://www.hp.com/gb-en/privacy/use-of-cookies.html)|
+* [Use of cookies](#)|
 * [Personal data rights](https://www.hp.com/gb-en/personal-data-rights.html)|
 * [Terms of use](https://www.hp.com/gb-en/terms-of-use.html)|
 * [Consumer legal guarantee](https://support.hp.com/gb-en/document/c03922002)|
