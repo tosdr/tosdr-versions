@@ -192,7 +192,7 @@ Shop
 
 [* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work "Hybrid Work")
 
-[* Remote Work bundles](https://www.hp.com/us-en/shop/slp/hybrid-work-solutions/bundles "Remote Work bundles")
+[* Software](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Software "Software")
 
 Support
 
@@ -313,7 +313,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Shop Accessories
 
-[* View all accessories](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)[* Remote Work bundles](https://www.hp.com/us-en/shop/slp/hybrid-work-solutions/bundles)
+[* View all accessories](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)[* Software](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Software)
 
 * Problem solving
 
@@ -833,7 +833,7 @@ popUpSREndingLabelString
 * [Accessibility](https://www.hp.com/us-en/hp-information/accessibility-aging.html)|
 * [CA Supply Chains Act](https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c05388050)|
 * [Privacy](https://www.hp.com/us-en/privacy/privacy-central.html)|
-* [Use of cookies](https://www.hp.com/us-en/privacy/use-of-cookies.html)|
+* [Use of cookies](#)|
 * [Your privacy choices](https://www.hp.com/us-en/privacy/your-privacy-choices.html)|
 * [Terms of use](https://www.hp.com/us-en/terms-of-use.html)|
 * [Limited warranty statement](https://www.hp.com/us-en/privacy/limited_warranty.html)|
