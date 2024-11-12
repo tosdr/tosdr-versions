@@ -99,7 +99,7 @@ And of course, if you have installed our mobile app on your mobile device and yo
 
 1. 1 [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
 2. 2 [One Piece Fan Letter](https://myanimelist.net/anime/60022/One_Piece_Fan_Letter)
-3. 3 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
+3. 3[](https://myanimelist.net/anime/5114/-)
 4. 4 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
 5. 5 [Shingeki no Kyojin Season 3 Part 2](https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2)
 
