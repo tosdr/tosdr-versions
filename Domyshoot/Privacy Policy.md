@@ -68,9 +68,9 @@ Accelerate your Walmart sales by generating conversion worthy content for your p
 
 [Mercado Livre
 
-Increase the visibility of your products and get photos of your products for Mercado Libre](https://www.domyshoot.com/enterprise/mercadolivre)[Kaufland
+Increase the visibility of your products and get photos of your products for Mercado Libre](https://www.domyshoot.com/mercadolivre)[Kaufland
 
-create high-quality images with white backgrounds, infographics and lifestyle shots](https://www.domyshoot.com/enterprise/kaufland)
+create high-quality images with white backgrounds, infographics and lifestyle shots](https://www.domyshoot.com/kaufland)
 
 [![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671cd1e6249480e4a6595597_photostudio_header_img%20(1).webp)
 
@@ -433,7 +433,7 @@ WHEREVER YOU SELL
 
 [Amazon
 
-New](https://www.domyshoot.com/amazon)[Walmart](https://www.domyshoot.com/walmart)[Shopify](https://www.domyshoot.com/shopify)[Mercado Livre](https://www.domyshoot.com/enterprise/mercadolivre)[Kaufland](https://www.domyshoot.com/enterprise/kaufland)
+New](https://www.domyshoot.com/amazon)[Walmart](https://www.domyshoot.com/walmart)[Shopify](https://www.domyshoot.com/shopify)[Mercado Livre](https://www.domyshoot.com/mercadolivre)[Kaufland](https://www.domyshoot.com/kaufland)
 
 WHATEVER YOU SELL
 
