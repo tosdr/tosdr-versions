@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://www.theepochtimes.com/article/day-in-photos-veterans-day-parade-cop29-opening-and-a-bathing-baby-hippo-5757727)
+    
+    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Veteran’s Day Parade, COP29 Opening, and a Bathing Baby Hippo](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758024-DSC04331-veterans-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-veterans-day-parade-cop29-opening-and-a-bathing-baby-hippo-5757727)
+* [Republicans Are 4 Seats Away From Retaining House Majority](https://www.theepochtimes.com/us/republicans-are-4-seats-away-from-retaining-house-majority-5757777)
+    
+    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Republicans Are 4 Seats Away From Retaining House Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Republicans Are 4 Seats Away From Retaining House Majority](https://img.theepochtimes.com/assets/uploads/2024/07/16/id5687637-GettyImages-1246018028-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-are-4-seats-away-from-retaining-house-majority-5757777)
+* [Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://www.theepochtimes.com/us/judge-to-rule-on-whether-trumps-conviction-should-stand-in-light-of-presidential-immunity-ruling-5757677)
+    
+    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge to Rule on Whether Trump’s Conviction Should Stand in Light of Presidential Immunity Ruling](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5642357-Trump-Judge-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-to-rule-on-whether-trumps-conviction-should-stand-in-light-of-presidential-immunity-ruling-5757677)
+* [8 Things to Know About Tom Homan, Trump’s New Border Czar](https://www.theepochtimes.com/article/8-things-to-know-about-tom-homan-trumps-new-border-czar-5757848)
+    
+    5hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![8 Things to Know About Tom Homan, Trump’s New Border Czar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![8 Things to Know About Tom Homan, Trump’s New Border Czar](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757988-GettyImages-955742058-OP-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/8-things-to-know-about-tom-homan-trumps-new-border-czar-5757848)
+* [Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://www.theepochtimes.com/us/ohio-gov-dewine-begins-process-of-selecting-vances-senate-replacement-5757926)
+    
+    5hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    
+    [![Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Ohio Gov. DeWine Begins Process of Selecting Vance’s Senate Replacement](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725199-Haitian_Immigrants_Springfield_24260704500954-205x123.jpg.webp)](https://www.theepochtimes.com/us/ohio-gov-dewine-begins-process-of-selecting-vances-senate-replacement-5757926)
+* [Asthma May Affect Memory in Children, Study Finds](https://www.theepochtimes.com/health/asthma-may-affect-memory-in-children-study-finds-5757816)
+    
+    5hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
+    
+    [![Asthma May Affect Memory in Children, Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Asthma May Affect Memory in Children, Study Finds](https://img.theepochtimes.com/assets/uploads/2022/09/19/AdobeStock_321987696-205x123.jpeg.webp)](https://www.theepochtimes.com/health/asthma-may-affect-memory-in-children-study-finds-5757816)
+* [Voters in Washington State Say Yes to Block Natural Gas Ban](https://www.theepochtimes.com/us/voters-in-washington-state-say-yes-to-block-natural-gas-ban-5757851)
+    
+    5hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Voters in Washington State Say Yes to Block Natural Gas Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Voters in Washington State Say Yes to Block Natural Gas Ban](https://img.theepochtimes.com/assets/uploads/2023/12/07/id5542643-Gas-Stove-205x123.jpg.webp)](https://www.theepochtimes.com/us/voters-in-washington-state-say-yes-to-block-natural-gas-ban-5757851)
+* [Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://www.theepochtimes.com/us/reports-of-engine-failure-lead-to-probe-of-honda-acura-vehicles-5757805)
+    
+    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Reports of Engine Failure Lead to Probe of Honda, Acura Vehicles](https://img.theepochtimes.com/assets/uploads/2021/06/13/2021-Honda-Odyssey-017-1200x800-205x123.jpg.webp)](https://www.theepochtimes.com/us/reports-of-engine-failure-lead-to-probe-of-honda-acura-vehicles-5757805)
 * [Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://www.theepochtimes.com/us/jury-awards-12-6-million-to-woman-fired-for-not-receiving-covid-vaccine-5757873)
     
-    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Jury Awards $12.6 Million to Woman Fired for Not Receiving COVID Vaccine](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678735-ny-vaccine-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/jury-awards-12-6-million-to-woman-fired-for-not-receiving-covid-vaccine-5757873)
 * [Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://www.theepochtimes.com/us/trump-taps-former-us-rep-lee-zeldin-as-head-of-epa-5757932)
     
-    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    7hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://img.theepochtimes.com/assets/uploads/2022/11/03/EpochImages-6836471180-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-former-us-rep-lee-zeldin-as-head-of-epa-5757932)
-* [Missouri GOP Senator Withdraws From Consideration as Trump’s Attorney General](https://www.theepochtimes.com/us/missouri-gop-senator-withdraws-from-consideration-as-trumps-attorney-general-5757877)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Missouri GOP Senator Withdraws From Consideration as Trump’s Attorney General](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Missouri GOP Senator Withdraws From Consideration as Trump’s Attorney General](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757994-ag-schmitt-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/missouri-gop-senator-withdraws-from-consideration-as-trumps-attorney-general-5757877)
-* [9 Things to Know About Elise Stefanik, Trump’s Pick for UN Ambassador](https://www.theepochtimes.com/article/9-things-to-know-about-elise-stefanik-trumps-pick-for-un-ambassador-5757846)
-    
-    2hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![9 Things to Know About Elise Stefanik, Trump’s Pick for UN Ambassador](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![9 Things to Know About Elise Stefanik, Trump’s Pick for UN Ambassador](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757983-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/9-things-to-know-about-elise-stefanik-trumps-pick-for-un-ambassador-5757846)
-* [Biden Commemorates Veterans Day at Arlington National Cemetery](https://www.theepochtimes.com/us/biden-commemorates-veterans-day-at-arlington-national-cemetery-5757804)
-    
-    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Biden Commemorates Veterans Day at Arlington National Cemetery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Commemorates Veterans Day at Arlington National Cemetery](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757997-Biden-Arlington-GettyImages-2183583461-205x123.jpg)](https://www.theepochtimes.com/us/biden-commemorates-veterans-day-at-arlington-national-cemetery-5757804)
-* [Senate Majority Leader Candidates Agree to Trump’s Demand for Recess Appointments](https://www.theepochtimes.com/us/senate-majority-leader-candidates-agree-to-trumps-demand-for-recess-appointments-5757729)
-    
-    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Senate Majority Leader Candidates Agree to Trump’s Demand for Recess Appointments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Senate Majority Leader Candidates Agree to Trump’s Demand for Recess Appointments](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757991-ScottThuneCornyn2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-majority-leader-candidates-agree-to-trumps-demand-for-recess-appointments-5757729)
-* [Taiwan Businessman to Sue Chinese Officials Who Sanctioned Him Over Political Views](https://www.theepochtimes.com/china/taiwan-businessman-to-sue-chinese-officials-who-sanctioned-him-over-political-views-5757708)
-    
-    4hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Taiwan Businessman to Sue Chinese Officials Who Sanctioned Him Over Political Views](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Taiwan Businessman to Sue Chinese Officials Who Sanctioned Him Over Political Views](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757881-1.tagreuters.com2022binary_LYNXMPEI801FC-FILEDIMAGE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-businessman-to-sue-chinese-officials-who-sanctioned-him-over-political-views-5757708)
-* [Governor Seeks Answers on Whether Tennesseans Were Discriminated Against by FEMA](https://www.theepochtimes.com/us/governor-seeks-answers-on-whether-tennesseans-were-discriminated-against-by-fema-5757704)
-    
-    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Governor Seeks Answers on Whether Tennesseans Were Discriminated Against by FEMA](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Governor Seeks Answers on Whether Tennesseans Were Discriminated Against by FEMA](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757862-Tennessee-Gov-Bill-Lee-1297087033-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/governor-seeks-answers-on-whether-tennesseans-were-discriminated-against-by-fema-5757704)
-* [Russian Drone Bombardment of Ukraine Continues to Intensify](https://www.theepochtimes.com/world/russian-drone-bombardment-of-ukraine-continues-to-intensify-5757637)
-    
-    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
-    
-    [![Russian Drone Bombardment of Ukraine Continues to Intensify](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Russian Drone Bombardment of Ukraine Continues to Intensify](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750941-Unknown-8-205x123.jpg.webp)](https://www.theepochtimes.com/world/russian-drone-bombardment-of-ukraine-continues-to-intensify-5757637)
-* [Gold Sees Biggest Weekly Dip in More Than 5 Months](https://www.theepochtimes.com/business/gold-sees-biggest-weekly-dip-in-more-than-5-months-5757674)
-    
-    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Gold Sees Biggest Weekly Dip in More Than 5 Months](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Gold Sees Biggest Weekly Dip in More Than 5 Months](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757863-GettyImages-1227918179-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/gold-sees-biggest-weekly-dip-in-more-than-5-months-5757674)
+    ![Trump Taps Former Rep. Lee Zeldin as Head of EPA](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758032-Lee-Zeldin-GettyImages-2162471157-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-former-us-rep-lee-zeldin-as-head-of-epa-5757932)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
