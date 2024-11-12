@@ -95,65 +95,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Creation Science Update
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/chastening)
+[![](/i/Main%20Stage%20-%201400x1050/byhomosapiens_1400x1050.jpg)](https://www.icr.org/article/built-by-homo-sapiens)
 
-[Chastening](https://www.icr.org/article/chastening/)
+[Built by Homo sapiens?](https://www.icr.org/article/built-by-homo-sapiens/)
 
-“Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty.” (Job 5:17) One of the fascinating...
+Preserved wood was recently found in Kalambo Falls, Zambia, where evolutionary anthropologists from Aberystwyth University and the University of Liverpool...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/common-salvation)
+[![](/i/Main%20Stage%20-%201400x1050/eightarmed_1400x1050.jpg)](https://www.icr.org/article/eight-armed-anomaly)
 
-[The Common Salvation](https://www.icr.org/article/common-salvation/)
+[Eight-Armed Anomaly](https://www.icr.org/article/eight-armed-anomaly/)
 
-“Beloved, when I gave all diligence to write unto you of the common salvation...” (Jude 1:3) The description of our salvation as “common”...
+Octopi are incredible and intelligent creatures—they are mesmerizing to observe and study. Some of octopi’s interesting features include...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/savor-life-or-death)
+[![](/i/Main%20Stage%20-%201400x1050/OldestMeal_1400x1050)](https://www.icr.org/article/worlds-oldest-meal)
 
-[Savor of Life or Death](https://www.icr.org/article/savor-life-or-death/)
+[World's Oldest Meal](https://www.icr.org/article/worlds-oldest-meal/)
 
-“For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish: To the one we are the savour of death unto...
+The Ediacara biota is a sporadic faunal (animal) stage containing unique soft-bodied fossil creatures in sandstone from the Ediacaran System dating...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
 
-Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
+The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
 
-$14.99
+$2.99
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
 
-$
+The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
+$7.99
 
-The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
 
-$59.99
+The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
 
-$69.99
+$34.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373091/file.jpg)
 
-The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
+The Ice Age Real and Recent](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent.html)
 
-$79.99
+$7.99
 
-$94.99
+$9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/14549604/file.jpg)
 
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+The Climate Change Conflict: Keeping Cool Over Global Warming - eBook](https://store.icr.org/the-climate-change-conflict-keeping-cool-o.html)
 
-$12.99
+$2.99
+
+$7.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
