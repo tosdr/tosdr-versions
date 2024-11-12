@@ -302,19 +302,19 @@ Legal
 
 Nature’s Way - Website Privacy Policy  
   
-Last Modified: November 10, 2023
+Last Modified: November 11, 2024
 
   
 This Privacy Policy applies to the websites, social media pages, mobile applications, or online services that are owned or controlled by Nature’s Way Brands, LLC and its subsidiaries (collectively, “Nature’s Way,” “our,” “we,” or “us”) and that post a link to this Privacy Policy (collectively, “Sites,” and individually, a “Site”). This Privacy Policy only covers information collected at the Sites and does not cover any information collected at any other web site or offline by Nature’s Way (unless specifically stated). This Privacy Policy describes our information collection and use practices, as well as rights you may have with respect to the personal information we collect.  
   
-This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms & Conditions](https://naturesway.com/legal/#Terms%20of%20Use). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
+This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms of Service](https://naturesway.com/legal/#Terms%20of%20Use). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
 
   
 **NOTICE TO CALIFORNIA RESIDENTS**  
   
 California Notice at Collection  
   
-We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963 "Nature's Way Privacy Request"). You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
+We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) . You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
   
 We keep Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required by law. What this means in practice will vary between different types of information, and when we consider our approach we take into account ongoing business or legal needs for the information, for example in relation to tax, health and safety, and potential or actual disputes or investigations.  
   
@@ -340,94 +340,94 @@ We collect information in different ways. We collect information listed in the �
   
 We also collect information about you automatically. Where permitted by law we use tracking tools such as browser Cookies and Web Beacons to collect information from you. We collect information about users over time when you use the Sites. We collect information about you from third parties, such as social media platforms and advertising analytics providers. We may have third parties collect information as described in this Privacy Policy, for example in Section 6.  
   
-We may collect information about you from third parties and commercially-available sources, including from social media providers, survey providers, data aggregators, data brokers, and public or commercially-available databases. We may collect information about your interactions with our ads on third-party sites. We may also collect information about you from our service providers, affiliates, and business partners.
+We may collect information about you from third parties and commercially-available sources, including from social media providers, survey providers, data aggregators, data brokers, and public or commercially-available databases. We may collect information about your interactions with our ads on third-party sites. We may also collect information about you from our service providers, affiliates, and business partners.  
+  
 
 |     |     |
 | --- | --- |
 | What categories of Personal Information do we collect? | What are the purposes for which we collect and use your Personal Information? |
-| * _Identifiers_: This includes your real name, postal address, Internet Protocol address, telephone number, email address, or other similar identifiers.<br>* _Characteristics of Protected Classifications:_ This includes your age, race, color, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), medical condition, physical or mental disability, ancestry, national origin, citizenship, marital status, veteran or military status, and genetic information (including familial genetic information).<br>* _Commercial Information:_ This includes records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.<br>* _Internet or other Electronic Network Activity Information:_ This includes browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.<br>* _Geolocation Data:_ This includes physical location or movements.<br>* _Audio Information:_ This includes data relating to call transcripts with Nature’s Way personnel.<br>* _Professional or employment-related information:_ This includes information related to your employment and employment history.<br>* _Inferences Drawn from Above:_ This includes a profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | * We use information to respond to your requests or questions.<br>* We use information to improve our Sites, products, programs and services.<br>* We might use your information to customize your experience with us.<br>* We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online, to the extent permitted by law, for the transactional purpose, or by your consent. We may combine information we get from you with information about you we get from third parties.<br>* We use information for security purposes. Where legally permitted, we may use your information to protect our company, our customers, and our websites.<br>* We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.<br>* We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms and Conditions.<br>* We use information to comply with applicable law, and as otherwise permitted by applicable law. |
+| * _Identifiers_: This includes your real name, postal address, Internet Protocol address, telephone number, email address, or other similar identifiers.<br>* _Characteristics of Protected Classifications:_ This includes your age, race, color, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), medical condition, physical or mental disability, ancestry, national origin, citizenship, marital status, veteran or military status, and genetic information (including familial genetic information).<br>* _Commercial Information:_ This includes records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.<br>* _Internet or other Electronic Network Activity Information:_ This includes browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.<br>* _Geolocation Data:_ This includes physical location or movements.<br>* _Audio Information:_ This includes data relating to call transcripts with Nature’s Way personnel.<br>* _Professional or employment-related information:_ This includes information related to your employment and employment history.<br>* _Inferences Drawn from Above:_ This includes a profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | * We use information to respond to your requests or questions.<br>* We use information to improve our Sites, products, programs and services.<br>* We might use your information to customize your experience with us.<br>* We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online, to the extent permitted by law, for the transactional purpose, or by your consent. We may combine information we get from you with information about you we get from third parties.<br>* We use information for security purposes. Where legally permitted, we may use your information to protect our company, our customers, and our websites.<br>* We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.<br>* We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms of Service.<br>* We use information to comply with applicable law, and as otherwise permitted by applicable law. |
 
+**3\. USE OF INFORMATION**  
   
-
-3. **USE OF INFORMATION**  
-      
-    We may use the information we collect from and about you for a variety of business and commercial purposes, including:  
-      
-    **Fulfilling your Request.** We use information that we collect including Personal Information for a variety of purposes. We use information to respond to your requests or questions, or to complete a transaction. We use information to improve our Sites, products, programs and services. We might use your information to customize your experience with us.  
-      
-    **To Provide our Sites**. We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online. We may combine information we get from you with information about you we get from third parties.  
-      
-    **Security and Fraud Prevention**. We use information for security purposes. Where legally permitted, we may use your information to protect our Company, our customers, and our Sites.  
-      
-    **Targeted Advertising.** We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.  
-      
-    **Providing You with Personalized Recommendations.** If you choose to complete assessments in the Services, we will use information that you provide to send you personalized product recommendations and other information that we believe may be of interest to you. We also use your Personal Information to provide you with targeted advertising and content, and to allow you to participate in interactive features, when you choose to do so. For example, we remember your login ID/email address or screen name so that you can quickly login the next time you visit the Services or so that you can easily retrieve the items you previously placed in your shopping cart.  
-      
-    **Third-Party Social Networks**. We use your Personal Information when you interact with third-party social networking features, such as “Like” functions, to serve you with advertisements and engage with you on third-party social networks. You can learn more about how these features work and the profile data that we obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  
-      
-    **Performing Analyses**. We use your Personal Information to perform business analyses or for other purposes designed to improve the quality of our business and the Services we offer.  
-      
-    **Preventing and Detecting Fraud and Other Crimes**. We use your Personal Information to help prevent and detect fraud and other crimes that might be committed using or against the Services. We may use your Personal Information to investigate possible violations of and enforce our contracts. We may also use your Personal Information to protect our or others’ rights, privacy, safety or property, and/or that of our affiliates. We do this to protect our business assets and to comply with our legal obligations.  
-      
-    **Managing and Operating Our IT Systems**. We use your Personal Information to help us in troubleshooting, testing, maintaining, and protecting our IT systems, including our Sites.  
-      
-    **Complying with Legal and Regulatory Obligations**. We use your Personal Information to comply with our legal and regulatory obligations, which arise from time to time. For instance, we may use your contact information to alert you if a product is recalled.  
-      
-    **Communicating with You.** We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms and Conditions.  
-      
-    We use information to comply with applicable law, and as otherwise permitted by applicable law.  
-      
-    **4\. DISCLOSURE AND SHARING OF INFORMATION.**  
-      
-    **Affiliates.** We are affiliated with a number of other health and wellness brands (collectively, our “Affiliates”). We may share your Personal Information with our Affiliates to send you promotions, information about sales and offers, and newsletters in which you have indicated interest and for legal and other business purposes.  
-      
-    **Business Partners.** We may share your Personal Information with companies with whom we partner to offer goods or services (e.g., joint products or promotions).  
-      
-    **Service Providers**. We may use third party service providers to perform certain services on behalf of the Sites, such as web site hosting, accepting job applications, providing web site usage analytics, sending email or other communications, providing marketing assistance and data analysis, providing consumer affairs services, fulfilling and processing orders, or performing other administrative services. Some of these service providers may collect information on the Sites directly from you on our behalf; in such cases, these service providers are not permitted to use your Personal Information for their own use.  
-      
-    **Analytics and Advertising Partners.** You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your Personal Information shared, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties. You also may request, sometimes through your use of an interactive feature or third party application, that we share information about you with a third party, and we will typically do so under those circumstances.  
-      
-    **Sponsors or Administrators.** We may offer sweepstakes, contests, and other promotions (collectively, a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice, likeness or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list.  
-      
-    We may also disclose your Personal Information: i) as required by law, such as to comply with a subpoena, or similar legal process; ii) when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a valid government request; or iii) if Nature’s Way is involved in a merger, acquisition, assignment, divestiture, bankruptcy, consolidation, reorganization, liquidation, transfer or sale of all or a portion of its assets.  
-      
-    **5\. COOKIES AND OTHER TRACKING TECHNOLOGIES**  
-      
-    We collect information, and authorize our third party vendors to collect information, about users over time across our Sites and for other services. To do this, we and/or our third party vendors use several common tracking tools. These may include Cookies, Web Beacons, Flash Cookies, and similar technologies.  
-      
-    In connection with an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and at our Site to help us measure the effectiveness of our advertising, how our visitors use our Site and to enable us to provide more focused and subsequent email marketing communications to you.  
-      
-    Some content or applications, including advertisements, on the Sites are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with Web Beacons or other tracking technologies to collect information about you when you use our Site. The information they collect may be associated with your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content, which is often referred to as remarketing.  
-      
-    While we may use a variety of service providers to perform advertising services, some of these companies are members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit http://www.networkadvertising.org/managing/opt\_out.aspopens in a new tab, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit http://www.aboutads.info/choices/opens in a new tab, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note that these companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads while visiting the Sites and elsewhere online.  
-      
-    **6\. SECURITY AND RETENTION**  
-      
-    Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure,. We periodically update our technology in order to improve the protection of customer information.  
-      
-    We retain Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required or permitted by law.  
-      
-    **7\. WE STORE INFORMATION BOTH IN AND OUTSIDE OF THE U.S.**  
-      
-    Personal Information we collect from you may be transferred to, or stored at, a destination in the United States or another destination outside of United States. It may be processed by staff operating in these locations who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. If you live outside of the United States, you understand and agree that we may transfer your Personal Information to the United States. U.S. laws may not afford the same level or protection as those in your country.  
-      
-    **8\. CHANGES TO PRIVACY POLICY**  
-      
-    Nature’s Way may make changes to this statement from time to time. We will post changes to our Privacy Policy here, so be sure to check back periodically.  
-      
-    **9\. UNSUBSCRIBING FROM MARKETING MESSAGES**  
-      
-    You may unsubscribe from receiving offers and promotions for our products and services through the unsubscribe mechanisms provided in our promotional communications. Even if you opt out of getting marketing messages, we will send you transactional messages. These include responses to your questions.  
-      
-    **10\. OUR SITES AND CHILDREN**  
-      
-    Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Care at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
-      
-    **YOUR PRIVACY RIGHTS**  
-      
-    **Explanation of Applicable Privacy Rights**  
-      
-    If you are a California, Virginia, Colorado or Connecticut resident, you may take advantage of the following privacy rights:
+We may use the information we collect from and about you for a variety of business and commercial purposes, including:  
+  
+**Fulfilling your Request.** We use information that we collect including Personal Information for a variety of purposes. We use information to respond to your requests or questions, or to complete a transaction. We use information to improve our Sites, products, programs and services. We might use your information to customize your experience with us.  
+  
+**To Provide our Sites**. We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online. We may combine information we get from you with information about you we get from third parties.  
+  
+**Security and Fraud Prevention**. We use information for security purposes. Where legally permitted, we may use your information to protect our Company, our customers, and our Sites.  
+  
+**Targeted Advertising.** We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.  
+  
+**Providing You with Personalized Recommendations.** If you choose to complete assessments in the Services, we will use information that you provide to send you personalized product recommendations and other information that we believe may be of interest to you. We also use your Personal Information to provide you with targeted advertising and content, and to allow you to participate in interactive features, when you choose to do so. For example, we remember your login ID/email address or screen name so that you can quickly login the next time you visit the Services or so that you can easily retrieve the items you previously placed in your shopping cart.  
+  
+**Third-Party Social Networks**. We use your Personal Information when you interact with third-party social networking features, such as “Like” functions, to serve you with advertisements and engage with you on third-party social networks. You can learn more about how these features work and the profile data that we obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  
+  
+**Performing Analyses**. We use your Personal Information to perform business analyses or for other purposes designed to improve the quality of our business and the Services we offer.  
+  
+**Preventing and Detecting Fraud and Other Crimes**. We use your Personal Information to help prevent and detect fraud and other crimes that might be committed using or against the Services. We may use your Personal Information to investigate possible violations of and enforce our contracts. We may also use your Personal Information to protect our or others’ rights, privacy, safety or property, and/or that of our affiliates. We do this to protect our business assets and to comply with our legal obligations.  
+  
+**Managing and Operating Our IT Systems**. We use your Personal Information to help us in troubleshooting, testing, maintaining, and protecting our IT systems, including our Sites.  
+  
+**Complying with Legal and Regulatory Obligations**. We use your Personal Information to comply with our legal and regulatory obligations, which arise from time to time. For instance, we may use your contact information to alert you if a product is recalled.  
+  
+**Communicating with You.** We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms of Service.  
+  
+We use information to comply with applicable law, and as otherwise permitted by applicable law.  
+  
+**4\. DISCLOSURE AND SHARING OF INFORMATION.**  
+  
+**Affiliates.** We are affiliated with a number of other health and wellness brands (collectively, our “Affiliates”). We may share your Personal Information with our Affiliates to send you promotions, information about sales and offers, and newsletters in which you have indicated interest and for legal and other business purposes.  
+  
+**Business Partners.** We may share your Personal Information with companies with whom we partner to offer goods or services (e.g., joint products or promotions).  
+  
+**Service Providers**. We may use third party service providers to perform certain services on behalf of the Sites, such as web site hosting, accepting job applications, providing web site usage analytics, sending email or other communications, providing marketing assistance and data analysis, providing consumer affairs services, fulfilling and processing orders, or performing other administrative services. Some of these service providers may collect information on the Sites directly from you on our behalf; in such cases, these service providers are not permitted to use your Personal Information for their own use.  
+  
+**Analytics and Advertising Partners.** You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your Personal Information shared, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties. You also may request, sometimes through your use of an interactive feature or third party application, that we share information about you with a third party, and we will typically do so under those circumstances.  
+  
+**Sponsors or Administrators.** We may offer sweepstakes, contests, and other promotions (collectively, a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice, likeness or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list.  
+  
+We may also disclose your Personal Information: i) as required by law, such as to comply with a subpoena, or similar legal process; ii) when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a valid government request; or iii) if Nature’s Way is involved in a merger, acquisition, assignment, divestiture, bankruptcy, consolidation, reorganization, liquidation, transfer or sale of all or a portion of its assets.  
+  
+**5\. COOKIES AND OTHER TRACKING TECHNOLOGIES**  
+  
+We collect information, and authorize our third party vendors to collect information, about users over time across our Sites and for other services. To do this, we and/or our third party vendors use several common tracking tools. These may include Cookies, Web Beacons, Flash Cookies, and similar technologies.  
+  
+In connection with an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and at our Site to help us measure the effectiveness of our advertising, how our visitors use our Site and to enable us to provide more focused and subsequent email marketing communications to you.  
+  
+Some content or applications, including advertisements, on the Sites are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with Web Beacons or other tracking technologies to collect information about you when you use our Site. The information they collect may be associated with your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content, which is often referred to as remarketing.  
+  
+While we may use a variety of service providers to perform advertising services, some of these companies are members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit http://www.networkadvertising.org/managing/opt\_out.aspopens in a new tab, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit http://www.aboutads.info/choices/opens in a new tab, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note that these companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads while visiting the Sites and elsewhere online.  
+  
+**6\. SECURITY AND RETENTION**  
+  
+Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure,. We periodically update our technology in order to improve the protection of customer information.  
+  
+We retain Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required or permitted by law.  
+  
+**7\. WE STORE INFORMATION BOTH IN AND OUTSIDE OF THE U.S.**  
+  
+Personal Information we collect from you may be transferred to, or stored at, a destination in the United States or another destination outside of United States. It may be processed by staff operating in these locations who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. If you live outside of the United States, you understand and agree that we may transfer your Personal Information to the United States. U.S. laws may not afford the same level or protection as those in your country.  
+  
+**8\. CHANGES TO PRIVACY POLICY**  
+  
+Nature’s Way may make changes to this statement from time to time. We will post changes to our Privacy Policy here, so be sure to check back periodically.  
+  
+**9\. UNSUBSCRIBING FROM MARKETING MESSAGES**  
+  
+You may unsubscribe from receiving offers and promotions for our products and services through the unsubscribe mechanisms provided in our promotional communications. Even if you opt out of getting marketing messages, we will send you transactional messages. These include responses to your questions.  
+  
+**10\. OUR SITES AND CHILDREN**  
+  
+Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Care at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
+  
+**YOUR PRIVACY RIGHTS**  
+  
+**Explanation of Applicable Privacy Rights**  
+  
+If you are a California, Virginia, Colorado or Connecticut resident, you may take advantage of the following privacy rights:  
+  
 
 * **Right to Know**: You have the right to request that we provide you with what Personal Information we have collected about you, including the categories of Personal Information, the categories of sources from which the Personal Information is collected, the business or commercial purpose for collecting, selling, or sharing Personal Information, or for Virginians, what Personal Information is used for targeted advertising, the categories of third parties to whom we disclose Personal Information, and the specific pieces of Personal Information we have collected about you. You have the right to receive this information in a portable format.
 
@@ -446,7 +446,7 @@ We may collect information about you from third parties and commercially-availab
   
 For California, Virginia, Colorado, and Connecticut residents, to take advantage of your right to know/access, delete, correct, or portability, or to submit an appeal of a denial of your privacy rights under Virginia, Colorado, or Connecticut law, please click [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) or contact us by email at privacyquestion@naturesway.com, or by using the “Contact Us” section below. If by email, please indicate the type of request you are making in the subject line of your message. We may request certain information to verify your identity before we can respond to such requests. We will confirm receipt of your request within ten (10) business days and will respond to your request within forty-five (45) calendar days, after proper verification, unless we need additional time, in which case we will let you know.  
   
-To take advantage of your right to opt-out of the sale or sharing of Personal Information or to opt-out of targeted advertising, please click on the [Do Not Sell or Share My Data](https://naturesway.com/pages/legal/#Do%20Not%20Sell%20or%20Share%20My%20Data) link which also is on our site footer or contact us using the “Contact Us” section below. We will work to comply with your opt-out request within 15 business days.  
+To take advantage of your right to opt-out of the sale or sharing of Personal Information or to opt-out of targeted advertising, please click on the [Do Not Sell or Share My Data](https://naturesway.com/pages/legal/#Do%20Not%20Sell%20or%20Share%20My%20Data "Nature's Way Privacy Requests") link which also is on our site footer or contact us using the “Contact Us” section below. We will work to comply with your opt-out request within 15 business days.  
   
 California, Connecticut, and Colorado residents may also choose to enable online, where available, a universal opt-out preference via a tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
   
@@ -462,7 +462,8 @@ Personal Information We Collect
   
 We have collected the categories of Personal Information disclosed in the “Notice to California Residents” section above, including within the last twelve (12) months.  
   
-We Obtain the Categories of Personal Information Listed Above From the Following Categories of Sources:
+We Obtain the Categories of Personal Information Listed Above From the Following Categories of Sources:  
+  
 
 * Directly from you. For example, when you sign up for email on our Site.
 * From other sources, such as marketing partners, social events, and social networking sites.
@@ -475,7 +476,8 @@ Categories of Personal Information Disclosed for Business Purposes: We may discl
   
 In the preceding twelve (12) months, we have disclosed the categories of Personal Information listed in the “Notice to California Residents” section above, for a business purpose.  
   
-We disclose your Personal Information for the business purposes disclosed above in “Use of Information” to the following categories of third parties:
+We disclose your Personal Information for the business purposes disclosed above in “Use of Information” to the following categories of third parties:  
+  
 
 * Our Affiliates.
 
@@ -488,45 +490,47 @@ Each category of Personal Information disclosed in “Personal Information We Co
 
 #### Terms of Use
 
- Schwabe North America, Inc. - Website Terms of Use Agreement
+Schwabe North America, Inc. - Website Terms of Service Agreement
 
-_Date Last Modified: May 7, 2024_
+_Date Last Modified: November 11, 2024_
 
-Schwabe North America and its subsidiaries and affiliates, including Nature’s Way Brands, LLC, ("Schwabe North America,” “we,” “our” or “us”) welcome you. The following Website Terms of Use Agreement ("Site Terms of Use") governs your use of this Internet website owned and operated by Schwabe North America (the "Site"). Please read these Terms of Use and our Privacy Policy carefully because they govern your use of the Site and our online store for our Products. The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained in these Site Terms of Use and the Privacy Policy. For ease of reference, the Site and our online store are collectively called the “Services.”  
+Schwabe North America and its subsidiaries and affiliates, including Nature’s Way Brands, LLC, ("Schwabe North America,” “we,” “our” or “us”) welcome you. The following Website Terms of Service Agreement ("Site Terms of Service") governs your use of this Internet website owned and operated by Schwabe North America (the "Site"). Please read these Terms of Service and our Privacy Policy carefully because they govern your use of the Site and our online store for our Products. The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained in these Site Terms of Service and the Privacy Policy. For ease of reference, the Site and our online store are collectively called the “Services.”  
 
-1. **Agreement to Site Terms of Use**
+1. **Agreement to Site Terms of Service**
 
-By accessing and using the Services, you agree to be bound by the terms and conditions contained in these Site Terms of Use, you acknowledge: (i) that we will process your information; and (ii) to the use of cookies and similar technologies in accordance with our Privacy Policy.  If you do not agree to the terms set out in these Site Terms of Use, you must not use the Services.
+By accessing and using the Services, you agree to be bound by the terms and conditions contained in these Site Terms of Service, you acknowledge: (i) that we will process your information; and (ii) to the use of cookies and similar technologies in accordance with our Privacy Policy.  If you do not agree to the terms set out in these Site Terms of Service, you must not use the Services.
 
-1. **Your Obligations**
+2. **Your Obligations**
 
-You are required to comply with all applicable laws in connection with your use of the Services, and such further limitations as may be set forth in any written or on-screen notice from Schwabe North America. As a condition of your use of the Services, you warrant that you will not use the Services for any purpose that is unlawful or prohibited by these Site Terms of Use.
+You are required to comply with all applicable laws in connection with your use of the Services, and such further limitations as may be set forth in any written or on-screen notice from Schwabe North America. As a condition of your use of the Services, you warrant that you will not use the Services for any purpose that is unlawful or prohibited by these Site Terms of Service.
 
-1. **Privacy Policy**
+3. **Privacy Policy**
 
 You agree and consent to the terms of the Schwabe North America Online Privacy Policy, a copy of which you should review by clicking [here](https://naturesway.com/legal/#Privacy%20of%20Policy).
 
-1. **Availability of the Services**
+4. **Availability of the Services**
 
 We make no representations and provide no warranties that: (i) the Services will be made available at any time or from any specific geographical location; (ii) your access to the Services will be continuous or uninterrupted; or (iii) the Services will be accessible or optimized on all browser, computers, tablets, phones or viewing platforms.  We reserve the right to suspend access to all or part of the Services for any reason, including for business or operational reasons, such as improving the appearance or functionality of the Services, content updates, periodic maintenance, or to resolve any issues of which we become aware. The Services are provided for users in the United States. Although it may be possible to access the Services from other countries, we make no representation that the Services are compliant with any legal requirements in force in any jurisdiction other than United States, or that the content available on the Site will be appropriate for users in other countries.
 
-1. **No Professional Advice**
+5. **No Professional Advice**
 
 Any information supplied through the Services or by any employee or agent of Schwabe North America, whether by telephone, e-mail, letter, facsimile or other form of communication, is for educational purposes or general guidance on the use of the Services, and does not constitute medical, legal, tax, accounting or other professional advice. Health-related information provided through the Services is not a substitute for medical advice and it is important that you not make medical decisions without first consulting your personal physician or health care practitioner. The information provided through the Services and on the Site does not replace the relationship that exists between you and your physician. **You should not use the information on this site for diagnosing or treating a health problem or disease**. Under no circumstances will we be liable for any loss or damage caused by your reliance on information obtained through the Site.  The receipt of any questions or feedback you submit to Schwabe North America does not create a professional relationship and does not create any confidentiality privileges beyond those described in our Privacy Policy.  
 
-1. **Online Product Purchases**
+6. **Online Product Purchases**
 
-(a) Product Purchases. You may purchase products available on the Site. All products, specifications, descriptions, and prices are subject to change at any time without notice. Your purchase is subject to these Site Terms of Use and the Privacy Policy. We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order.  In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made.  
+(a) Product Purchases. You may purchase products available on the Site. All products, specifications, descriptions, and prices are subject to change at any time without notice. Your purchase is subject to these Site Terms of Service and the Privacy Policy. We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order.  In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made.  
 
 (b) Payment Information. You will be asked to enter your payment details during the checkout process. By placing an order, you confirm that the credit card you use is yours. All card payments are subject to authorization by your card issuer.
 
-(c) Shipping. Products you purchase through the Site will be shipped to you at the address you designate as the shipping address during the check-out process. We are not responsible for any packages that are refused or held for delivery. Refunds will not be issued for any orders that are refused by intended recipient or that cannot be delivered to due to an address error.  Currently, our Products are only available for purchase by residents of the 50 United States and the District of Columbia, and will only be shipped within the 50 United States and the District of Columbia. Free ground shipping on all orders of $35 or more. Some products may not be available to ship to some states due to applicable state laws.
+(c) Express Checkout. In addition, you can select an express check option: Shop Pay, Google Pay, or Apple Pay. When any of these payment options are selected, you are using that tool to manage payment, billing address, and shipping address.
 
-(d) Return Policy. If  you are not satisfied with your purchase for any reason, you may return it within 45 days of the date of your purchase for a full refund, excluding any shipping charges.  Please keep your packing slip or confirmation email for proof of purchase. We monitor return activity for abuse and reserve the right to limit or refuse returns or exchanges.
+(d) Shipping. Products you purchase through the Site will be shipped to you at the address you designate as the shipping address during the check-out process. We are not responsible for any packages that are refused or held for delivery. Refunds will not be issued for any orders that are refused by intended recipient or that cannot be delivered to due to an address error.  Currently, our Products are only available for purchase by residents of the 50 United States and the District of Columbia, and will only be shipped within the 50 United States and the District of Columbia. Free ground shipping on all orders of $35 or more. Some products may not be available to ship to some states due to applicable state laws.
 
-We reserve the right to request the product be shipped back to us in its original packaging at the customer’s expense  and we do not assume responsibility for lost or misdirected returns. Please note that clearance items, as well as short-dated and expired product are not eligible for an exchange or refund.
+(e) Return Policy. If you are not satisfied with your purchase for any reason, you may return it within 45 days of the date of your purchase for a full refund, excluding any shipping charges.  Please keep your packing slip or confirmation email for proof of purchase. We monitor return activity for abuse and reserve the right to limit or refuse returns or exchanges.
 
-1. **Subscribe & Save**
+We reserve the right to request the product be shipped back to us in its original packaging at the customer’s expense and we do not assume responsibility for lost or misdirected returns. Please note that clearance items, as well as short-dated and expired product are not eligible for an exchange or refund.
+
+7. **Subscribe & Save**
 
 When you purchase a subscription you will regularly receive repeat deliveries. These are based on the subscription duration and frequency that you select. Your recurring subscription(s) will remain active until either you or Nature’s Way decides to cancel. You or Nature’s Way can terminate any recurring subscription at any time, and there will be no cancellation fee or ongoing charges after cancellation, except if a shipment in a recurring subscription has already been processed before cancellation. In such a case, the recurring subscription shipment will be canceled after that specific shipment, and you will be responsible for the payment of the last shipment.
 
@@ -538,7 +542,7 @@ If you want to cancel or change your subscription, you can do it at any time. Yo
 
 See our [returns policy](https://naturesway.com/pages/legal#Satisfaction%20Guarantee) for more details on returns and refunds.
 
-1. **Product Use**
+8. **Product Use**
 
 Regulations for product use are established by country. Information contained on this site pertains only to United States, and is not intended to provide adequate information for product use. Before using any product, read and carefully observe the directions on the label.  Some products may not be available to ship to some states due to applicable state laws.
 
@@ -564,7 +568,7 @@ By submitting a question in response to one of our requests or questions on @nat
 
 Your Question is deemed to be non-confidential and non-proprietary.  We are under no obligation to use Your Question. You agree to cooperate with us and sign any supporting documentation we may reasonably require, confirming our ownership, including copyright ownership and your waiver of any applicable moral rights. 
 
-Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal/#Privacy%20of%20Policy). 
+Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy). 
 
 You represent and warrant to us that (i) you are 18 years old or older and a legal resident of the 50 United States; (ii) have the right to transmit Your Content; (iii) you are the copyright owner or have the copyright owner’s permission required to grant the rights to Your Content; (iv) you hold the rights necessary to grant the licenses described herein; (iv) Your Content will not violate, misappropriate or infringe any intellectual property rights, publicity rights or other proprietary rights of any third party. 
 
@@ -572,46 +576,46 @@ You hereby release us from any claims, damages, actions or liabilities arising f
 
 You agree to indemnify, defend, and hold harmless us from and against all losses, expenses, damages, and costs, including reasonable attorneys’ fees arising from any breach of the foregoing representations and warranties.
 
-13. **User Generated Content Terms of Use (“UGC Terms of Use”)**
+13. **User Generated Content Terms of Service (“UGC Terms of Service”)**
 
-The "Content" refers to the photo(s), video(s), story(ies), caption and comments you posted on Facebook, Twitter, Instagram or Pinterest ("Social Media") described in the message we sent referring you to these UGC Terms of Use.  In addition, the Content may include your responses to questions we sent you in a message regarding your use of our products, any photos or videos you provide directly to us, as well as any product reviews you posted on Social Media or provided directly to us.
+The "Content" refers to the photo(s), video(s), story(ies), caption and comments you posted on Facebook, Twitter, Instagram or Pinterest ("Social Media") described in the message we sent referring you to these UGC Terms of Service.  In addition, the Content may include your responses to questions we sent you in a message regarding your use of our products, any photos or videos you provide directly to us, as well as any product reviews you posted on Social Media or provided directly to us.
 
-**By responding to our message with the requested hashtag or response, you agree that we may use your Content in accordance with these UGC Terms of Use.**
+**By responding to our message with the requested hashtag or response, you agree that we may use your Content in accordance with these UGC Terms of Service.**
 
 You represent and warrant that:
 
 * You are at least eighteen (18) years of age or are legally considered an adult in the State or Country where you reside;
-* You have full power and authority to agree to these UGC Terms of Use;
+* You have full power and authority to agree to these UGC Terms of Service;
 * The Content is your own original creation, you did not take the Content from another website, social media posting or elsewhere, and the Content does not contain anything that violates the rights of any person or entity;
 * The Content does not contain any trademarks, logos, brand names, advertising, sponsorship, or promotional material owned by any person or entity, other than you or us;
 * The Content does not contain anything illegal, defamatory, obscene or offensive;
-* You have permission from any person(s) appearing in the Content to provide us with the rights to use the Content as described in these UGC Terms of Use;
+* You have permission from any person(s) appearing in the Content to provide us with the rights to use the Content as described in these UGC Terms of Service;
 * Your upload or post of the Content does not violate any applicable laws or the terms or requirements of the Social Media platform(s) where you uploaded or posted the Content;
-* Our use of the Content as described in these UGC Terms of Use will not violate the rights of any person or entity and will not violate any law;
-* You confirm and agree that Our use of the Content as described in these UGC Terms of Use does not and shall not require any payment to any person or entity and does not require license, authorization, approval or consent by any other person or entity; and
-* You have read and you agree to comply with all of the terms and conditions in these UGC Terms of Use.
+* Our use of the Content as described in these UGC Terms of Service will not violate the rights of any person or entity and will not violate any law;
+* You confirm and agree that Our use of the Content as described in these UGC Terms of Service does not and shall not require any payment to any person or entity and does not require license, authorization, approval or consent by any other person or entity; and
+* You have read and you agree to comply with all of the terms and conditions in these UGC Terms of Service.
 
 You grant us an irrevocable and unlimited right and license to use the Content (and to allow others to use the Content) including allowing us to feature your name, social media handle, accompanying text, and any images, without the payment of any royalty. You agree that you shall never withdraw this permission and license to use the Content. We may use the Content for any business purpose on our websites and social media pages, and in our digital newsletters, and any other online, digital marketing material and in any new media or technology that becomes available later in time, throughout the world, for an unlimited time. You agree that we may use, copy, , modify, alter, edit, publish, create new derivative works from, make available and display the Content (or any part of the Content) and related content, and include the Content (or any part of the Content) into other works, for any business related purposes, including but not limited to promotional and marketing purposes. You also grant us the right, at our sole choice, to use your username, real name, image, likeness, caption, location or other identifying information in connection with any use of the Content. You agree that we have no obligation to use the Content or your name or other identifying information.
 
-You confirm that you have the consent or permission of any other person or entity that is required for our use of the Content as described in these UGC Terms of Use, including but not limited to: (a) any person who appears or performs in the Content, and (b) any person or entity who owns any rights in the Content or anything that appears in the Content. You irrevocably and unconditionally grant to us all consents or permissions of any person or entity as required by any applicable laws, including but not limited to Copyright laws and related rights laws (and all other laws now or in future in force in any part of the world) which may be required for our use of the Content and the rights you are granting us under these UGC Terms of Use.
+You confirm that you have the consent or permission of any other person or entity that is required for our use of the Content as described in these UGC Terms of Service, including but not limited to: (a) any person who appears or performs in the Content, and (b) any person or entity who owns any rights in the Content or anything that appears in the Content. You irrevocably and unconditionally grant to us all consents or permissions of any person or entity as required by any applicable laws, including but not limited to Copyright laws and related rights laws (and all other laws now or in future in force in any part of the world) which may be required for our use of the Content and the rights you are granting us under these UGC Terms of Service.
 
 You irrevocably and unconditionally waive (and agree not to enforce) all rights in the Content, including without limitation any moral rights or equivalent rights which you may otherwise have under any laws now existing or which become law in the future in any part of the world.
 
-If requested, you will sign any documentation in such manner and at such location as may be required to protect, perfect or enforce any of the rights you have given to us under these UGC Terms of Use. Whether we choose to use the Content or not is solely our choice. We have no obligation to use the Content and we may remove or stop using any Content at any time, for any reason. Use of the Content does not imply our endorsement of or any affiliation with you.
+If requested, you will sign any documentation in such manner and at such location as may be required to protect, perfect or enforce any of the rights you have given to us under these UGC Terms of Service. Whether we choose to use the Content or not is solely our choice. We have no obligation to use the Content and we may remove or stop using any Content at any time, for any reason. Use of the Content does not imply our endorsement of or any affiliation with you.
 
-We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Use and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal/#Privacy%20of%20Policy).
+We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Service and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal#Privacy%20of%20Policy).
 
-If you believe that the Content has been copied in a way that constitutes copyright infringement, you may provide us with written notification of your claim in accordance with the requirements of the U.S. Digital Millennium Copyright Act of 1998 and the instructions provided in these Site Terms of Use.
+If you believe that the Content has been copied in a way that constitutes copyright infringement, you may provide us with written notification of your claim in accordance with the requirements of the U.S. Digital Millennium Copyright Act of 1998 and the instructions provided in these Site Terms of Service.
 
-You shall be liable for and shall indemnify us against any and all claims, actions, liabilities, losses, damages, expenses (including reasonable legal expenses) incurred by us which arise directly or indirectly from a breach by you of your obligations, representations or warranties under these UGC Terms of Use.
+You shall be liable for and shall indemnify us against any and all claims, actions, liabilities, losses, damages, expenses (including reasonable legal expenses) incurred by us which arise directly or indirectly from a breach by you of your obligations, representations or warranties under these UGC Terms of Service.
 
-These UGC Terms of Use are personal to you and may not be assigned or transferred by you for any reason whatsoever without our prior written consent. We may assign our rights and obligations under these UGC Terms of Use to any other person, in whole or in part, without consent.
+These UGC Terms of Service are personal to you and may not be assigned or transferred by you for any reason whatsoever without our prior written consent. We may assign our rights and obligations under these UGC Terms of Service to any other person, in whole or in part, without consent.
 
-A failure by us to exercise and any delay, forbearance or indulgence by us in exercising any right, power or remedy under these UGC Terms of Use (in whole or in part) shall not operate as a waiver of that right, power or remedy or preclude its exercise at any subsequent time or on any subsequent occasion. A person not a party to these UGC Terms of Use has no right to enforce any of these terms.
+A failure by us to exercise and any delay, forbearance or indulgence by us in exercising any right, power or remedy under these UGC Terms of Service (in whole or in part) shall not operate as a waiver of that right, power or remedy or preclude its exercise at any subsequent time or on any subsequent occasion. A person not a party to these UGC Terms of Service has no right to enforce any of these terms.
 
-These UGC Terms of Use contain all the terms agreed between us regarding the Content and supersede any prior agreement, understanding or arrangement between us, whether oral or in writing.
+These UGC Terms of Service contain all the terms agreed between us regarding the Content and supersede any prior agreement, understanding or arrangement between us, whether oral or in writing.
 
-Any questions regarding these UGC Terms of Use may be directed to: Schwabe North America, Inc., Attn: General Counsel, 825 Challenger Drive, Green Bay, WI 54311.
+Any questions regarding these UGC Terms of Service may be directed to: Schwabe North America, Inc., Attn: General Counsel, 825 Challenger Drive, Green Bay, WI 54311.
 
 14. **Customer Ratings, Reviews, and Submissions**
 
@@ -623,7 +627,7 @@ By submitting any User Submissions, you agree that:
 * All "moral rights" that you may have in such User Submissions have been voluntarily waived by you;
 * All User Submissions that you post is accurate;
 * You are at least 18 years old;
-* Use of the User Submissions you supply does not violate these Site Terms of Use and will not cause injury to any person or entity.
+* Use of the User Submissions you supply does not violate these Site Terms of Service and will not cause injury to any person or entity.
 
 You further agree that you may not submit any User Submissions:
 
@@ -639,13 +643,13 @@ You agree to indemnify and hold us (and our officers, directors, agents, subsidi
 
 For any User Submissions that you submit, you grant Schwabe North America a perpetual, irrevocable, royalty-free, transferable right and license to use , copy, modify, delete in its entirety, adapt, publish, translate, create derivative works from and/or sell and/or distribute such User Submissions and/or incorporate such User Submissions into any form, medium or technology throughout the world without compensation to you.
 
-All User Submissions that you submit may be used at our sole discretion. We reserve the right to change, condense, withhold publication, remove or delete any content on the Site that we deem, in our sole discretion, to violate the User Submissions’ guidelines above or any other provision of these Site Terms of Use.  We do not guarantee that you will have any recourse through Schwabe North America to edit or delete any User Submissions you have submitted. Ratings and written comments are generally posted within two to four business days. However, we reserve the right to remove or to refuse to post any submission to the extent authorized by law. You acknowledge that you, not Schwabe North America, are responsible for the contents of your User Submissions. None of the User Submissions that you submit shall be subject to any obligation of confidence on the part of Schwabe North America, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
+All User Submissions that you submit may be used at our sole discretion. We reserve the right to change, condense, withhold publication, remove or delete any content on the Site that we deem, in our sole discretion, to violate the User Submissions’ guidelines above or any other provision of these Site Terms of Service.  We do not guarantee that you will have any recourse through Schwabe North America to edit or delete any User Submissions you have submitted. Ratings and written comments are generally posted within two to four business days. However, we reserve the right to remove or to refuse to post any submission to the extent authorized by law. You acknowledge that you, not Schwabe North America, are responsible for the contents of your User Submissions. None of the User Submissions that you submit shall be subject to any obligation of confidence on the part of Schwabe North America, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
 
 Please note that Site visitors may post content that is inaccurate, misleading, or deceptive. Schwabe North America neither endorses nor is responsible for any opinion, advice, information, or statements made by third parties. The opinions expressed by third parties reflect solely the opinions of the individuals who submitted such opinions and may not reflect the opinions of Schwabe North America.
 
-15. **Modification of These Site Terms of Use**
+15. **Modification of These Site Terms of Service**
 
-Schwabe North America reserves the right to amend these Terms of Use at any time. You are bound by any such revisions and should therefore periodically visit this page to review the then-current Terms of Use to which you are bound. Your use of the Services after the posting of modifications to these Terms of Use will constitute your acceptance of these Terms of Use, as modified. If at any time you do not wish to accept these Terms of Use, you are not thereafter authorized to use the Services.
+Schwabe North America reserves the right to amend these Terms of Service at any time. You are bound by any such revisions and should therefore periodically visit this page to review the then-current Terms of Service to which you are bound. Your use of the Services after the posting of modifications to these Terms of Service will constitute your acceptance of these Terms of Service, as modified. If at any time you do not wish to accept these Terms of Service, you are not thereafter authorized to use the Services.
 
 16. **Updating Your Information**
 
@@ -667,7 +671,7 @@ SCHWABE NORTH AMERICA RESERVES THE RIGHT TO ALTER THE CONTENT OF THIS SERVICE IN
 
 19. **Indemnification**
 
-Upon a request by Schwabe North America, you agree to defend, indemnify and hold harmless Schwabe North America and its subsidiaries, affiliates, officers, agents, co-branders or other partners and employees from all liabilities, claims and expenses, including reasonable attorneys’ fees, made by any third party due to or arising out of your use of the Service, your violation of these Terms of Use or your violation of any rights of another.
+Upon a request by Schwabe North America, you agree to defend, indemnify and hold harmless Schwabe North America and its subsidiaries, affiliates, officers, agents, co-branders or other partners and employees from all liabilities, claims and expenses, including reasonable attorneys’ fees, made by any third party due to or arising out of your use of the Service, your violation of these Terms of Service or your violation of any rights of another.
 
 20. **Digital Millennium Copyright Act / Notice of Copyright Infringement**
 
@@ -686,19 +690,19 @@ Any notice that fails to comply with the above requirements will not be consider
 
 21. **Choice of Law and Forum**
 
-These Site Terms of Use shall be governed by and construed in accordance with the laws of the State of Wisconsin, excluding its conflict of law rules. You and Schwabe North America expressly agree to submit to the exclusive jurisdiction and venue of the courts in Wisconsin in all disputes arising out of or relating to the use of the Services.
+These Site Terms of Service shall be governed by and construed in accordance with the laws of the State of Wisconsin, excluding its conflict of law rules. You and Schwabe North America expressly agree to submit to the exclusive jurisdiction and venue of the courts in Wisconsin in all disputes arising out of or relating to the use of the Services.
 
 22. **No Waiver**
 
-The failure of Schwabe North America to enforce any provisions of these of Terms of Use or respond to a breach by you or other parties shall not in any way waive its right to enforce subsequently any terms or conditions of these Terms of Use or to act with respect to similar breaches.
+The failure of Schwabe North America to enforce any provisions of these of Terms of Service or respond to a breach by you or other parties shall not in any way waive its right to enforce subsequently any terms or conditions of these Terms of Service or to act with respect to similar breaches.
 
 23. **Miscellaneous**
 
-You agree that no joint venture, partnership, employment, or agency relationship exists between you and Schwabe North America as a result of these Terms of Use or your use of the Services. Nothing contained in these Terms of Use is in derogation of Schwabe North America's right to comply with governmental, court and law enforcement requests or requirements relating to your use of these Services or information provided to or gathered by Schwabe North America with respect to such use. A printed version of these Site Terms of Use and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Site Terms of Use to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+You agree that no joint venture, partnership, employment, or agency relationship exists between you and Schwabe North America as a result of these Terms of Service or your use of the Services. Nothing contained in these Terms of Service is in derogation of Schwabe North America's right to comply with governmental, court and law enforcement requests or requirements relating to your use of these Services or information provided to or gathered by Schwabe North America with respect to such use. A printed version of these Site Terms of Service and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Site Terms of Service to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
 24. **Severability and Integration**
 
-Unless otherwise specified herein, these Terms of Use constitute the entire agreement between you and Schwabe North America.
+Unless otherwise specified herein, these Terms of Service constitute the entire agreement between you and Schwabe North America.
 
 #### Satisfaction Guarantee
 
@@ -870,19 +874,19 @@ Effective: March 31, 2024                   Last updated: April
 
 Nature’s Way - Website Privacy Policy  
   
-Last Modified: November 10, 2023
+Last Modified: November 11, 2024
 
   
 This Privacy Policy applies to the websites, social media pages, mobile applications, or online services that are owned or controlled by Nature’s Way Brands, LLC and its subsidiaries (collectively, “Nature’s Way,” “our,” “we,” or “us”) and that post a link to this Privacy Policy (collectively, “Sites,” and individually, a “Site”). This Privacy Policy only covers information collected at the Sites and does not cover any information collected at any other web site or offline by Nature’s Way (unless specifically stated). This Privacy Policy describes our information collection and use practices, as well as rights you may have with respect to the personal information we collect.  
   
-This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms & Conditions](https://naturesway.com/legal/#Terms%20of%20Use). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
+This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms of Service](https://naturesway.com/legal/#Terms%20of%20Use). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
 
   
 **NOTICE TO CALIFORNIA RESIDENTS**  
   
 California Notice at Collection  
   
-We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963 "Nature's Way Privacy Request"). You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
+We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) . You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
   
 We keep Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required by law. What this means in practice will vary between different types of information, and when we consider our approach we take into account ongoing business or legal needs for the information, for example in relation to tax, health and safety, and potential or actual disputes or investigations.  
   
@@ -908,94 +912,94 @@ We collect information in different ways. We collect information listed in the �
   
 We also collect information about you automatically. Where permitted by law we use tracking tools such as browser Cookies and Web Beacons to collect information from you. We collect information about users over time when you use the Sites. We collect information about you from third parties, such as social media platforms and advertising analytics providers. We may have third parties collect information as described in this Privacy Policy, for example in Section 6.  
   
-We may collect information about you from third parties and commercially-available sources, including from social media providers, survey providers, data aggregators, data brokers, and public or commercially-available databases. We may collect information about your interactions with our ads on third-party sites. We may also collect information about you from our service providers, affiliates, and business partners.
+We may collect information about you from third parties and commercially-available sources, including from social media providers, survey providers, data aggregators, data brokers, and public or commercially-available databases. We may collect information about your interactions with our ads on third-party sites. We may also collect information about you from our service providers, affiliates, and business partners.  
+  
 
 |     |     |
 | --- | --- |
 | What categories of Personal Information do we collect? | What are the purposes for which we collect and use your Personal Information? |
-| * _Identifiers_: This includes your real name, postal address, Internet Protocol address, telephone number, email address, or other similar identifiers.<br>* _Characteristics of Protected Classifications:_ This includes your age, race, color, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), medical condition, physical or mental disability, ancestry, national origin, citizenship, marital status, veteran or military status, and genetic information (including familial genetic information).<br>* _Commercial Information:_ This includes records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.<br>* _Internet or other Electronic Network Activity Information:_ This includes browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.<br>* _Geolocation Data:_ This includes physical location or movements.<br>* _Audio Information:_ This includes data relating to call transcripts with Nature’s Way personnel.<br>* _Professional or employment-related information:_ This includes information related to your employment and employment history.<br>* _Inferences Drawn from Above:_ This includes a profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | * We use information to respond to your requests or questions.<br>* We use information to improve our Sites, products, programs and services.<br>* We might use your information to customize your experience with us.<br>* We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online, to the extent permitted by law, for the transactional purpose, or by your consent. We may combine information we get from you with information about you we get from third parties.<br>* We use information for security purposes. Where legally permitted, we may use your information to protect our company, our customers, and our websites.<br>* We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.<br>* We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms and Conditions.<br>* We use information to comply with applicable law, and as otherwise permitted by applicable law. |
+| * _Identifiers_: This includes your real name, postal address, Internet Protocol address, telephone number, email address, or other similar identifiers.<br>* _Characteristics of Protected Classifications:_ This includes your age, race, color, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), medical condition, physical or mental disability, ancestry, national origin, citizenship, marital status, veteran or military status, and genetic information (including familial genetic information).<br>* _Commercial Information:_ This includes records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.<br>* _Internet or other Electronic Network Activity Information:_ This includes browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.<br>* _Geolocation Data:_ This includes physical location or movements.<br>* _Audio Information:_ This includes data relating to call transcripts with Nature’s Way personnel.<br>* _Professional or employment-related information:_ This includes information related to your employment and employment history.<br>* _Inferences Drawn from Above:_ This includes a profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | * We use information to respond to your requests or questions.<br>* We use information to improve our Sites, products, programs and services.<br>* We might use your information to customize your experience with us.<br>* We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online, to the extent permitted by law, for the transactional purpose, or by your consent. We may combine information we get from you with information about you we get from third parties.<br>* We use information for security purposes. Where legally permitted, we may use your information to protect our company, our customers, and our websites.<br>* We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.<br>* We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms of Service.<br>* We use information to comply with applicable law, and as otherwise permitted by applicable law. |
 
+**3\. USE OF INFORMATION**  
   
-
-3. **USE OF INFORMATION**  
-      
-    We may use the information we collect from and about you for a variety of business and commercial purposes, including:  
-      
-    **Fulfilling your Request.** We use information that we collect including Personal Information for a variety of purposes. We use information to respond to your requests or questions, or to complete a transaction. We use information to improve our Sites, products, programs and services. We might use your information to customize your experience with us.  
-      
-    **To Provide our Sites**. We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online. We may combine information we get from you with information about you we get from third parties.  
-      
-    **Security and Fraud Prevention**. We use information for security purposes. Where legally permitted, we may use your information to protect our Company, our customers, and our Sites.  
-      
-    **Targeted Advertising.** We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.  
-      
-    **Providing You with Personalized Recommendations.** If you choose to complete assessments in the Services, we will use information that you provide to send you personalized product recommendations and other information that we believe may be of interest to you. We also use your Personal Information to provide you with targeted advertising and content, and to allow you to participate in interactive features, when you choose to do so. For example, we remember your login ID/email address or screen name so that you can quickly login the next time you visit the Services or so that you can easily retrieve the items you previously placed in your shopping cart.  
-      
-    **Third-Party Social Networks**. We use your Personal Information when you interact with third-party social networking features, such as “Like” functions, to serve you with advertisements and engage with you on third-party social networks. You can learn more about how these features work and the profile data that we obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  
-      
-    **Performing Analyses**. We use your Personal Information to perform business analyses or for other purposes designed to improve the quality of our business and the Services we offer.  
-      
-    **Preventing and Detecting Fraud and Other Crimes**. We use your Personal Information to help prevent and detect fraud and other crimes that might be committed using or against the Services. We may use your Personal Information to investigate possible violations of and enforce our contracts. We may also use your Personal Information to protect our or others’ rights, privacy, safety or property, and/or that of our affiliates. We do this to protect our business assets and to comply with our legal obligations.  
-      
-    **Managing and Operating Our IT Systems**. We use your Personal Information to help us in troubleshooting, testing, maintaining, and protecting our IT systems, including our Sites.  
-      
-    **Complying with Legal and Regulatory Obligations**. We use your Personal Information to comply with our legal and regulatory obligations, which arise from time to time. For instance, we may use your contact information to alert you if a product is recalled.  
-      
-    **Communicating with You.** We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms and Conditions.  
-      
-    We use information to comply with applicable law, and as otherwise permitted by applicable law.  
-      
-    **4\. DISCLOSURE AND SHARING OF INFORMATION.**  
-      
-    **Affiliates.** We are affiliated with a number of other health and wellness brands (collectively, our “Affiliates”). We may share your Personal Information with our Affiliates to send you promotions, information about sales and offers, and newsletters in which you have indicated interest and for legal and other business purposes.  
-      
-    **Business Partners.** We may share your Personal Information with companies with whom we partner to offer goods or services (e.g., joint products or promotions).  
-      
-    **Service Providers**. We may use third party service providers to perform certain services on behalf of the Sites, such as web site hosting, accepting job applications, providing web site usage analytics, sending email or other communications, providing marketing assistance and data analysis, providing consumer affairs services, fulfilling and processing orders, or performing other administrative services. Some of these service providers may collect information on the Sites directly from you on our behalf; in such cases, these service providers are not permitted to use your Personal Information for their own use.  
-      
-    **Analytics and Advertising Partners.** You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your Personal Information shared, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties. You also may request, sometimes through your use of an interactive feature or third party application, that we share information about you with a third party, and we will typically do so under those circumstances.  
-      
-    **Sponsors or Administrators.** We may offer sweepstakes, contests, and other promotions (collectively, a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice, likeness or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list.  
-      
-    We may also disclose your Personal Information: i) as required by law, such as to comply with a subpoena, or similar legal process; ii) when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a valid government request; or iii) if Nature’s Way is involved in a merger, acquisition, assignment, divestiture, bankruptcy, consolidation, reorganization, liquidation, transfer or sale of all or a portion of its assets.  
-      
-    **5\. COOKIES AND OTHER TRACKING TECHNOLOGIES**  
-      
-    We collect information, and authorize our third party vendors to collect information, about users over time across our Sites and for other services. To do this, we and/or our third party vendors use several common tracking tools. These may include Cookies, Web Beacons, Flash Cookies, and similar technologies.  
-      
-    In connection with an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and at our Site to help us measure the effectiveness of our advertising, how our visitors use our Site and to enable us to provide more focused and subsequent email marketing communications to you.  
-      
-    Some content or applications, including advertisements, on the Sites are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with Web Beacons or other tracking technologies to collect information about you when you use our Site. The information they collect may be associated with your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content, which is often referred to as remarketing.  
-      
-    While we may use a variety of service providers to perform advertising services, some of these companies are members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit http://www.networkadvertising.org/managing/opt\_out.aspopens in a new tab, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit http://www.aboutads.info/choices/opens in a new tab, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note that these companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads while visiting the Sites and elsewhere online.  
-      
-    **6\. SECURITY AND RETENTION**  
-      
-    Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure,. We periodically update our technology in order to improve the protection of customer information.  
-      
-    We retain Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required or permitted by law.  
-      
-    **7\. WE STORE INFORMATION BOTH IN AND OUTSIDE OF THE U.S.**  
-      
-    Personal Information we collect from you may be transferred to, or stored at, a destination in the United States or another destination outside of United States. It may be processed by staff operating in these locations who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. If you live outside of the United States, you understand and agree that we may transfer your Personal Information to the United States. U.S. laws may not afford the same level or protection as those in your country.  
-      
-    **8\. CHANGES TO PRIVACY POLICY**  
-      
-    Nature’s Way may make changes to this statement from time to time. We will post changes to our Privacy Policy here, so be sure to check back periodically.  
-      
-    **9\. UNSUBSCRIBING FROM MARKETING MESSAGES**  
-      
-    You may unsubscribe from receiving offers and promotions for our products and services through the unsubscribe mechanisms provided in our promotional communications. Even if you opt out of getting marketing messages, we will send you transactional messages. These include responses to your questions.  
-      
-    **10\. OUR SITES AND CHILDREN**  
-      
-    Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Care at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
-      
-    **YOUR PRIVACY RIGHTS**  
-      
-    **Explanation of Applicable Privacy Rights**  
-      
-    If you are a California, Virginia, Colorado or Connecticut resident, you may take advantage of the following privacy rights:
+We may use the information we collect from and about you for a variety of business and commercial purposes, including:  
+  
+**Fulfilling your Request.** We use information that we collect including Personal Information for a variety of purposes. We use information to respond to your requests or questions, or to complete a transaction. We use information to improve our Sites, products, programs and services. We might use your information to customize your experience with us.  
+  
+**To Provide our Sites**. We use information to administer our Site and for internal operations. For example, we may aggregate or de-identify your information for analytics, research or other business purposes. We combine information. For example, we may combine information that we have collected offline with information we collect online. We may combine information we get from you with information about you we get from third parties.  
+  
+**Security and Fraud Prevention**. We use information for security purposes. Where legally permitted, we may use your information to protect our Company, our customers, and our Sites.  
+  
+**Targeted Advertising.** We use information for marketing purposes. For example, we might send you information about new products or services or special offers. We might also use your information to serve you ads about our products, services and offers. We might tell you about new features or updates. These might be third-party offers or products we think you might find interesting. If you register with us, we’ll send you our promotional emails.  
+  
+**Providing You with Personalized Recommendations.** If you choose to complete assessments in the Services, we will use information that you provide to send you personalized product recommendations and other information that we believe may be of interest to you. We also use your Personal Information to provide you with targeted advertising and content, and to allow you to participate in interactive features, when you choose to do so. For example, we remember your login ID/email address or screen name so that you can quickly login the next time you visit the Services or so that you can easily retrieve the items you previously placed in your shopping cart.  
+  
+**Third-Party Social Networks**. We use your Personal Information when you interact with third-party social networking features, such as “Like” functions, to serve you with advertisements and engage with you on third-party social networks. You can learn more about how these features work and the profile data that we obtain about you, and find out how to opt out by reviewing the privacy notices of the relevant third-party social networks.  
+  
+**Performing Analyses**. We use your Personal Information to perform business analyses or for other purposes designed to improve the quality of our business and the Services we offer.  
+  
+**Preventing and Detecting Fraud and Other Crimes**. We use your Personal Information to help prevent and detect fraud and other crimes that might be committed using or against the Services. We may use your Personal Information to investigate possible violations of and enforce our contracts. We may also use your Personal Information to protect our or others’ rights, privacy, safety or property, and/or that of our affiliates. We do this to protect our business assets and to comply with our legal obligations.  
+  
+**Managing and Operating Our IT Systems**. We use your Personal Information to help us in troubleshooting, testing, maintaining, and protecting our IT systems, including our Sites.  
+  
+**Complying with Legal and Regulatory Obligations**. We use your Personal Information to comply with our legal and regulatory obligations, which arise from time to time. For instance, we may use your contact information to alert you if a product is recalled.  
+  
+**Communicating with You.** We use information to communicate with you about your account, purchases or our relationship. We may contact you about your account or for feedback. We might also contact you about this Privacy Policy or our Site Usage Terms of Service.  
+  
+We use information to comply with applicable law, and as otherwise permitted by applicable law.  
+  
+**4\. DISCLOSURE AND SHARING OF INFORMATION.**  
+  
+**Affiliates.** We are affiliated with a number of other health and wellness brands (collectively, our “Affiliates”). We may share your Personal Information with our Affiliates to send you promotions, information about sales and offers, and newsletters in which you have indicated interest and for legal and other business purposes.  
+  
+**Business Partners.** We may share your Personal Information with companies with whom we partner to offer goods or services (e.g., joint products or promotions).  
+  
+**Service Providers**. We may use third party service providers to perform certain services on behalf of the Sites, such as web site hosting, accepting job applications, providing web site usage analytics, sending email or other communications, providing marketing assistance and data analysis, providing consumer affairs services, fulfilling and processing orders, or performing other administrative services. Some of these service providers may collect information on the Sites directly from you on our behalf; in such cases, these service providers are not permitted to use your Personal Information for their own use.  
+  
+**Analytics and Advertising Partners.** You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your Personal Information shared, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties. You also may request, sometimes through your use of an interactive feature or third party application, that we share information about you with a third party, and we will typically do so under those circumstances.  
+  
+**Sponsors or Administrators.** We may offer sweepstakes, contests, and other promotions (collectively, a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice, likeness or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list.  
+  
+We may also disclose your Personal Information: i) as required by law, such as to comply with a subpoena, or similar legal process; ii) when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a valid government request; or iii) if Nature’s Way is involved in a merger, acquisition, assignment, divestiture, bankruptcy, consolidation, reorganization, liquidation, transfer or sale of all or a portion of its assets.  
+  
+**5\. COOKIES AND OTHER TRACKING TECHNOLOGIES**  
+  
+We collect information, and authorize our third party vendors to collect information, about users over time across our Sites and for other services. To do this, we and/or our third party vendors use several common tracking tools. These may include Cookies, Web Beacons, Flash Cookies, and similar technologies.  
+  
+In connection with an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and at our Site to help us measure the effectiveness of our advertising, how our visitors use our Site and to enable us to provide more focused and subsequent email marketing communications to you.  
+  
+Some content or applications, including advertisements, on the Sites are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with Web Beacons or other tracking technologies to collect information about you when you use our Site. The information they collect may be associated with your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content, which is often referred to as remarketing.  
+  
+While we may use a variety of service providers to perform advertising services, some of these companies are members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit http://www.networkadvertising.org/managing/opt\_out.aspopens in a new tab, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit http://www.aboutads.info/choices/opens in a new tab, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note that these companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads while visiting the Sites and elsewhere online.  
+  
+**6\. SECURITY AND RETENTION**  
+  
+Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure,. We periodically update our technology in order to improve the protection of customer information.  
+  
+We retain Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required or permitted by law.  
+  
+**7\. WE STORE INFORMATION BOTH IN AND OUTSIDE OF THE U.S.**  
+  
+Personal Information we collect from you may be transferred to, or stored at, a destination in the United States or another destination outside of United States. It may be processed by staff operating in these locations who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. If you live outside of the United States, you understand and agree that we may transfer your Personal Information to the United States. U.S. laws may not afford the same level or protection as those in your country.  
+  
+**8\. CHANGES TO PRIVACY POLICY**  
+  
+Nature’s Way may make changes to this statement from time to time. We will post changes to our Privacy Policy here, so be sure to check back periodically.  
+  
+**9\. UNSUBSCRIBING FROM MARKETING MESSAGES**  
+  
+You may unsubscribe from receiving offers and promotions for our products and services through the unsubscribe mechanisms provided in our promotional communications. Even if you opt out of getting marketing messages, we will send you transactional messages. These include responses to your questions.  
+  
+**10\. OUR SITES AND CHILDREN**  
+  
+Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Care at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
+  
+**YOUR PRIVACY RIGHTS**  
+  
+**Explanation of Applicable Privacy Rights**  
+  
+If you are a California, Virginia, Colorado or Connecticut resident, you may take advantage of the following privacy rights:  
+  
 
 * **Right to Know**: You have the right to request that we provide you with what Personal Information we have collected about you, including the categories of Personal Information, the categories of sources from which the Personal Information is collected, the business or commercial purpose for collecting, selling, or sharing Personal Information, or for Virginians, what Personal Information is used for targeted advertising, the categories of third parties to whom we disclose Personal Information, and the specific pieces of Personal Information we have collected about you. You have the right to receive this information in a portable format.
 
@@ -1014,7 +1018,7 @@ We may collect information about you from third parties and commercially-availab
   
 For California, Virginia, Colorado, and Connecticut residents, to take advantage of your right to know/access, delete, correct, or portability, or to submit an appeal of a denial of your privacy rights under Virginia, Colorado, or Connecticut law, please click [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) or contact us by email at privacyquestion@naturesway.com, or by using the “Contact Us” section below. If by email, please indicate the type of request you are making in the subject line of your message. We may request certain information to verify your identity before we can respond to such requests. We will confirm receipt of your request within ten (10) business days and will respond to your request within forty-five (45) calendar days, after proper verification, unless we need additional time, in which case we will let you know.  
   
-To take advantage of your right to opt-out of the sale or sharing of Personal Information or to opt-out of targeted advertising, please click on the [Do Not Sell or Share My Data](https://naturesway.com/pages/legal/#Do%20Not%20Sell%20or%20Share%20My%20Data) link which also is on our site footer or contact us using the “Contact Us” section below. We will work to comply with your opt-out request within 15 business days.  
+To take advantage of your right to opt-out of the sale or sharing of Personal Information or to opt-out of targeted advertising, please click on the [Do Not Sell or Share My Data](https://naturesway.com/pages/legal/#Do%20Not%20Sell%20or%20Share%20My%20Data "Nature's Way Privacy Requests") link which also is on our site footer or contact us using the “Contact Us” section below. We will work to comply with your opt-out request within 15 business days.  
   
 California, Connecticut, and Colorado residents may also choose to enable online, where available, a universal opt-out preference via a tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
   
@@ -1030,7 +1034,8 @@ Personal Information We Collect
   
 We have collected the categories of Personal Information disclosed in the “Notice to California Residents” section above, including within the last twelve (12) months.  
   
-We Obtain the Categories of Personal Information Listed Above From the Following Categories of Sources:
+We Obtain the Categories of Personal Information Listed Above From the Following Categories of Sources:  
+  
 
 * Directly from you. For example, when you sign up for email on our Site.
 * From other sources, such as marketing partners, social events, and social networking sites.
@@ -1043,7 +1048,8 @@ Categories of Personal Information Disclosed for Business Purposes: We may discl
   
 In the preceding twelve (12) months, we have disclosed the categories of Personal Information listed in the “Notice to California Residents” section above, for a business purpose.  
   
-We disclose your Personal Information for the business purposes disclosed above in “Use of Information” to the following categories of third parties:
+We disclose your Personal Information for the business purposes disclosed above in “Use of Information” to the following categories of third parties:  
+  
 
 * Our Affiliates.
 
@@ -1054,45 +1060,47 @@ Categories of Personal Information Sold or Shared
   
 Each category of Personal Information disclosed in “Personal Information We Collect” was sold or shared with analytics and advertising partners, business partners, advertising networks, advertising platforms, social media companies, and third parties, for the purposes described in this Privacy Policy within the last 12 months, including for targeted advertising. We do not knowingly sell or share Personal Information about persons under the age of 16.
 
- Schwabe North America, Inc. - Website Terms of Use Agreement
+Schwabe North America, Inc. - Website Terms of Service Agreement
 
-_Date Last Modified: May 7, 2024_
+_Date Last Modified: November 11, 2024_
 
-Schwabe North America and its subsidiaries and affiliates, including Nature’s Way Brands, LLC, ("Schwabe North America,” “we,” “our” or “us”) welcome you. The following Website Terms of Use Agreement ("Site Terms of Use") governs your use of this Internet website owned and operated by Schwabe North America (the "Site"). Please read these Terms of Use and our Privacy Policy carefully because they govern your use of the Site and our online store for our Products. The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained in these Site Terms of Use and the Privacy Policy. For ease of reference, the Site and our online store are collectively called the “Services.”  
+Schwabe North America and its subsidiaries and affiliates, including Nature’s Way Brands, LLC, ("Schwabe North America,” “we,” “our” or “us”) welcome you. The following Website Terms of Service Agreement ("Site Terms of Service") governs your use of this Internet website owned and operated by Schwabe North America (the "Site"). Please read these Terms of Service and our Privacy Policy carefully because they govern your use of the Site and our online store for our Products. The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained in these Site Terms of Service and the Privacy Policy. For ease of reference, the Site and our online store are collectively called the “Services.”  
 
-1. **Agreement to Site Terms of Use**
+1. **Agreement to Site Terms of Service**
 
-By accessing and using the Services, you agree to be bound by the terms and conditions contained in these Site Terms of Use, you acknowledge: (i) that we will process your information; and (ii) to the use of cookies and similar technologies in accordance with our Privacy Policy.  If you do not agree to the terms set out in these Site Terms of Use, you must not use the Services.
+By accessing and using the Services, you agree to be bound by the terms and conditions contained in these Site Terms of Service, you acknowledge: (i) that we will process your information; and (ii) to the use of cookies and similar technologies in accordance with our Privacy Policy.  If you do not agree to the terms set out in these Site Terms of Service, you must not use the Services.
 
-1. **Your Obligations**
+2. **Your Obligations**
 
-You are required to comply with all applicable laws in connection with your use of the Services, and such further limitations as may be set forth in any written or on-screen notice from Schwabe North America. As a condition of your use of the Services, you warrant that you will not use the Services for any purpose that is unlawful or prohibited by these Site Terms of Use.
+You are required to comply with all applicable laws in connection with your use of the Services, and such further limitations as may be set forth in any written or on-screen notice from Schwabe North America. As a condition of your use of the Services, you warrant that you will not use the Services for any purpose that is unlawful or prohibited by these Site Terms of Service.
 
-1. **Privacy Policy**
+3. **Privacy Policy**
 
 You agree and consent to the terms of the Schwabe North America Online Privacy Policy, a copy of which you should review by clicking [here](https://naturesway.com/legal/#Privacy%20of%20Policy).
 
-1. **Availability of the Services**
+4. **Availability of the Services**
 
 We make no representations and provide no warranties that: (i) the Services will be made available at any time or from any specific geographical location; (ii) your access to the Services will be continuous or uninterrupted; or (iii) the Services will be accessible or optimized on all browser, computers, tablets, phones or viewing platforms.  We reserve the right to suspend access to all or part of the Services for any reason, including for business or operational reasons, such as improving the appearance or functionality of the Services, content updates, periodic maintenance, or to resolve any issues of which we become aware. The Services are provided for users in the United States. Although it may be possible to access the Services from other countries, we make no representation that the Services are compliant with any legal requirements in force in any jurisdiction other than United States, or that the content available on the Site will be appropriate for users in other countries.
 
-1. **No Professional Advice**
+5. **No Professional Advice**
 
 Any information supplied through the Services or by any employee or agent of Schwabe North America, whether by telephone, e-mail, letter, facsimile or other form of communication, is for educational purposes or general guidance on the use of the Services, and does not constitute medical, legal, tax, accounting or other professional advice. Health-related information provided through the Services is not a substitute for medical advice and it is important that you not make medical decisions without first consulting your personal physician or health care practitioner. The information provided through the Services and on the Site does not replace the relationship that exists between you and your physician. **You should not use the information on this site for diagnosing or treating a health problem or disease**. Under no circumstances will we be liable for any loss or damage caused by your reliance on information obtained through the Site.  The receipt of any questions or feedback you submit to Schwabe North America does not create a professional relationship and does not create any confidentiality privileges beyond those described in our Privacy Policy.  
 
-1. **Online Product Purchases**
+6. **Online Product Purchases**
 
-(a) Product Purchases. You may purchase products available on the Site. All products, specifications, descriptions, and prices are subject to change at any time without notice. Your purchase is subject to these Site Terms of Use and the Privacy Policy. We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order.  In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made.  
+(a) Product Purchases. You may purchase products available on the Site. All products, specifications, descriptions, and prices are subject to change at any time without notice. Your purchase is subject to these Site Terms of Service and the Privacy Policy. We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order.  In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made.  
 
 (b) Payment Information. You will be asked to enter your payment details during the checkout process. By placing an order, you confirm that the credit card you use is yours. All card payments are subject to authorization by your card issuer.
 
-(c) Shipping. Products you purchase through the Site will be shipped to you at the address you designate as the shipping address during the check-out process. We are not responsible for any packages that are refused or held for delivery. Refunds will not be issued for any orders that are refused by intended recipient or that cannot be delivered to due to an address error.  Currently, our Products are only available for purchase by residents of the 50 United States and the District of Columbia, and will only be shipped within the 50 United States and the District of Columbia. Free ground shipping on all orders of $35 or more. Some products may not be available to ship to some states due to applicable state laws.
+(c) Express Checkout. In addition, you can select an express check option: Shop Pay, Google Pay, or Apple Pay. When any of these payment options are selected, you are using that tool to manage payment, billing address, and shipping address.
 
-(d) Return Policy. If  you are not satisfied with your purchase for any reason, you may return it within 45 days of the date of your purchase for a full refund, excluding any shipping charges.  Please keep your packing slip or confirmation email for proof of purchase. We monitor return activity for abuse and reserve the right to limit or refuse returns or exchanges.
+(d) Shipping. Products you purchase through the Site will be shipped to you at the address you designate as the shipping address during the check-out process. We are not responsible for any packages that are refused or held for delivery. Refunds will not be issued for any orders that are refused by intended recipient or that cannot be delivered to due to an address error.  Currently, our Products are only available for purchase by residents of the 50 United States and the District of Columbia, and will only be shipped within the 50 United States and the District of Columbia. Free ground shipping on all orders of $35 or more. Some products may not be available to ship to some states due to applicable state laws.
 
-We reserve the right to request the product be shipped back to us in its original packaging at the customer’s expense  and we do not assume responsibility for lost or misdirected returns. Please note that clearance items, as well as short-dated and expired product are not eligible for an exchange or refund.
+(e) Return Policy. If you are not satisfied with your purchase for any reason, you may return it within 45 days of the date of your purchase for a full refund, excluding any shipping charges.  Please keep your packing slip or confirmation email for proof of purchase. We monitor return activity for abuse and reserve the right to limit or refuse returns or exchanges.
 
-1. **Subscribe & Save**
+We reserve the right to request the product be shipped back to us in its original packaging at the customer’s expense and we do not assume responsibility for lost or misdirected returns. Please note that clearance items, as well as short-dated and expired product are not eligible for an exchange or refund.
+
+7. **Subscribe & Save**
 
 When you purchase a subscription you will regularly receive repeat deliveries. These are based on the subscription duration and frequency that you select. Your recurring subscription(s) will remain active until either you or Nature’s Way decides to cancel. You or Nature’s Way can terminate any recurring subscription at any time, and there will be no cancellation fee or ongoing charges after cancellation, except if a shipment in a recurring subscription has already been processed before cancellation. In such a case, the recurring subscription shipment will be canceled after that specific shipment, and you will be responsible for the payment of the last shipment.
 
@@ -1104,7 +1112,7 @@ If you want to cancel or change your subscription, you can do it at any time. Yo
 
 See our [returns policy](https://naturesway.com/pages/legal#Satisfaction%20Guarantee) for more details on returns and refunds.
 
-1. **Product Use**
+8. **Product Use**
 
 Regulations for product use are established by country. Information contained on this site pertains only to United States, and is not intended to provide adequate information for product use. Before using any product, read and carefully observe the directions on the label.  Some products may not be available to ship to some states due to applicable state laws.
 
@@ -1130,7 +1138,7 @@ By submitting a question in response to one of our requests or questions on @nat
 
 Your Question is deemed to be non-confidential and non-proprietary.  We are under no obligation to use Your Question. You agree to cooperate with us and sign any supporting documentation we may reasonably require, confirming our ownership, including copyright ownership and your waiver of any applicable moral rights. 
 
-Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal/#Privacy%20of%20Policy). 
+Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy). 
 
 You represent and warrant to us that (i) you are 18 years old or older and a legal resident of the 50 United States; (ii) have the right to transmit Your Content; (iii) you are the copyright owner or have the copyright owner’s permission required to grant the rights to Your Content; (iv) you hold the rights necessary to grant the licenses described herein; (iv) Your Content will not violate, misappropriate or infringe any intellectual property rights, publicity rights or other proprietary rights of any third party. 
 
@@ -1138,46 +1146,46 @@ You hereby release us from any claims, damages, actions or liabilities arising f
 
 You agree to indemnify, defend, and hold harmless us from and against all losses, expenses, damages, and costs, including reasonable attorneys’ fees arising from any breach of the foregoing representations and warranties.
 
-13. **User Generated Content Terms of Use (“UGC Terms of Use”)**
+13. **User Generated Content Terms of Service (“UGC Terms of Service”)**
 
-The "Content" refers to the photo(s), video(s), story(ies), caption and comments you posted on Facebook, Twitter, Instagram or Pinterest ("Social Media") described in the message we sent referring you to these UGC Terms of Use.  In addition, the Content may include your responses to questions we sent you in a message regarding your use of our products, any photos or videos you provide directly to us, as well as any product reviews you posted on Social Media or provided directly to us.
+The "Content" refers to the photo(s), video(s), story(ies), caption and comments you posted on Facebook, Twitter, Instagram or Pinterest ("Social Media") described in the message we sent referring you to these UGC Terms of Service.  In addition, the Content may include your responses to questions we sent you in a message regarding your use of our products, any photos or videos you provide directly to us, as well as any product reviews you posted on Social Media or provided directly to us.
 
-**By responding to our message with the requested hashtag or response, you agree that we may use your Content in accordance with these UGC Terms of Use.**
+**By responding to our message with the requested hashtag or response, you agree that we may use your Content in accordance with these UGC Terms of Service.**
 
 You represent and warrant that:
 
 * You are at least eighteen (18) years of age or are legally considered an adult in the State or Country where you reside;
-* You have full power and authority to agree to these UGC Terms of Use;
+* You have full power and authority to agree to these UGC Terms of Service;
 * The Content is your own original creation, you did not take the Content from another website, social media posting or elsewhere, and the Content does not contain anything that violates the rights of any person or entity;
 * The Content does not contain any trademarks, logos, brand names, advertising, sponsorship, or promotional material owned by any person or entity, other than you or us;
 * The Content does not contain anything illegal, defamatory, obscene or offensive;
-* You have permission from any person(s) appearing in the Content to provide us with the rights to use the Content as described in these UGC Terms of Use;
+* You have permission from any person(s) appearing in the Content to provide us with the rights to use the Content as described in these UGC Terms of Service;
 * Your upload or post of the Content does not violate any applicable laws or the terms or requirements of the Social Media platform(s) where you uploaded or posted the Content;
-* Our use of the Content as described in these UGC Terms of Use will not violate the rights of any person or entity and will not violate any law;
-* You confirm and agree that Our use of the Content as described in these UGC Terms of Use does not and shall not require any payment to any person or entity and does not require license, authorization, approval or consent by any other person or entity; and
-* You have read and you agree to comply with all of the terms and conditions in these UGC Terms of Use.
+* Our use of the Content as described in these UGC Terms of Service will not violate the rights of any person or entity and will not violate any law;
+* You confirm and agree that Our use of the Content as described in these UGC Terms of Service does not and shall not require any payment to any person or entity and does not require license, authorization, approval or consent by any other person or entity; and
+* You have read and you agree to comply with all of the terms and conditions in these UGC Terms of Service.
 
 You grant us an irrevocable and unlimited right and license to use the Content (and to allow others to use the Content) including allowing us to feature your name, social media handle, accompanying text, and any images, without the payment of any royalty. You agree that you shall never withdraw this permission and license to use the Content. We may use the Content for any business purpose on our websites and social media pages, and in our digital newsletters, and any other online, digital marketing material and in any new media or technology that becomes available later in time, throughout the world, for an unlimited time. You agree that we may use, copy, , modify, alter, edit, publish, create new derivative works from, make available and display the Content (or any part of the Content) and related content, and include the Content (or any part of the Content) into other works, for any business related purposes, including but not limited to promotional and marketing purposes. You also grant us the right, at our sole choice, to use your username, real name, image, likeness, caption, location or other identifying information in connection with any use of the Content. You agree that we have no obligation to use the Content or your name or other identifying information.
 
-You confirm that you have the consent or permission of any other person or entity that is required for our use of the Content as described in these UGC Terms of Use, including but not limited to: (a) any person who appears or performs in the Content, and (b) any person or entity who owns any rights in the Content or anything that appears in the Content. You irrevocably and unconditionally grant to us all consents or permissions of any person or entity as required by any applicable laws, including but not limited to Copyright laws and related rights laws (and all other laws now or in future in force in any part of the world) which may be required for our use of the Content and the rights you are granting us under these UGC Terms of Use.
+You confirm that you have the consent or permission of any other person or entity that is required for our use of the Content as described in these UGC Terms of Service, including but not limited to: (a) any person who appears or performs in the Content, and (b) any person or entity who owns any rights in the Content or anything that appears in the Content. You irrevocably and unconditionally grant to us all consents or permissions of any person or entity as required by any applicable laws, including but not limited to Copyright laws and related rights laws (and all other laws now or in future in force in any part of the world) which may be required for our use of the Content and the rights you are granting us under these UGC Terms of Service.
 
 You irrevocably and unconditionally waive (and agree not to enforce) all rights in the Content, including without limitation any moral rights or equivalent rights which you may otherwise have under any laws now existing or which become law in the future in any part of the world.
 
-If requested, you will sign any documentation in such manner and at such location as may be required to protect, perfect or enforce any of the rights you have given to us under these UGC Terms of Use. Whether we choose to use the Content or not is solely our choice. We have no obligation to use the Content and we may remove or stop using any Content at any time, for any reason. Use of the Content does not imply our endorsement of or any affiliation with you.
+If requested, you will sign any documentation in such manner and at such location as may be required to protect, perfect or enforce any of the rights you have given to us under these UGC Terms of Service. Whether we choose to use the Content or not is solely our choice. We have no obligation to use the Content and we may remove or stop using any Content at any time, for any reason. Use of the Content does not imply our endorsement of or any affiliation with you.
 
-We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Use and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal/#Privacy%20of%20Policy).
+We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Service and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal#Privacy%20of%20Policy).
 
-If you believe that the Content has been copied in a way that constitutes copyright infringement, you may provide us with written notification of your claim in accordance with the requirements of the U.S. Digital Millennium Copyright Act of 1998 and the instructions provided in these Site Terms of Use.
+If you believe that the Content has been copied in a way that constitutes copyright infringement, you may provide us with written notification of your claim in accordance with the requirements of the U.S. Digital Millennium Copyright Act of 1998 and the instructions provided in these Site Terms of Service.
 
-You shall be liable for and shall indemnify us against any and all claims, actions, liabilities, losses, damages, expenses (including reasonable legal expenses) incurred by us which arise directly or indirectly from a breach by you of your obligations, representations or warranties under these UGC Terms of Use.
+You shall be liable for and shall indemnify us against any and all claims, actions, liabilities, losses, damages, expenses (including reasonable legal expenses) incurred by us which arise directly or indirectly from a breach by you of your obligations, representations or warranties under these UGC Terms of Service.
 
-These UGC Terms of Use are personal to you and may not be assigned or transferred by you for any reason whatsoever without our prior written consent. We may assign our rights and obligations under these UGC Terms of Use to any other person, in whole or in part, without consent.
+These UGC Terms of Service are personal to you and may not be assigned or transferred by you for any reason whatsoever without our prior written consent. We may assign our rights and obligations under these UGC Terms of Service to any other person, in whole or in part, without consent.
 
-A failure by us to exercise and any delay, forbearance or indulgence by us in exercising any right, power or remedy under these UGC Terms of Use (in whole or in part) shall not operate as a waiver of that right, power or remedy or preclude its exercise at any subsequent time or on any subsequent occasion. A person not a party to these UGC Terms of Use has no right to enforce any of these terms.
+A failure by us to exercise and any delay, forbearance or indulgence by us in exercising any right, power or remedy under these UGC Terms of Service (in whole or in part) shall not operate as a waiver of that right, power or remedy or preclude its exercise at any subsequent time or on any subsequent occasion. A person not a party to these UGC Terms of Service has no right to enforce any of these terms.
 
-These UGC Terms of Use contain all the terms agreed between us regarding the Content and supersede any prior agreement, understanding or arrangement between us, whether oral or in writing.
+These UGC Terms of Service contain all the terms agreed between us regarding the Content and supersede any prior agreement, understanding or arrangement between us, whether oral or in writing.
 
-Any questions regarding these UGC Terms of Use may be directed to: Schwabe North America, Inc., Attn: General Counsel, 825 Challenger Drive, Green Bay, WI 54311.
+Any questions regarding these UGC Terms of Service may be directed to: Schwabe North America, Inc., Attn: General Counsel, 825 Challenger Drive, Green Bay, WI 54311.
 
 14. **Customer Ratings, Reviews, and Submissions**
 
@@ -1189,7 +1197,7 @@ By submitting any User Submissions, you agree that:
 * All "moral rights" that you may have in such User Submissions have been voluntarily waived by you;
 * All User Submissions that you post is accurate;
 * You are at least 18 years old;
-* Use of the User Submissions you supply does not violate these Site Terms of Use and will not cause injury to any person or entity.
+* Use of the User Submissions you supply does not violate these Site Terms of Service and will not cause injury to any person or entity.
 
 You further agree that you may not submit any User Submissions:
 
@@ -1205,13 +1213,13 @@ You agree to indemnify and hold us (and our officers, directors, agents, subsidi
 
 For any User Submissions that you submit, you grant Schwabe North America a perpetual, irrevocable, royalty-free, transferable right and license to use , copy, modify, delete in its entirety, adapt, publish, translate, create derivative works from and/or sell and/or distribute such User Submissions and/or incorporate such User Submissions into any form, medium or technology throughout the world without compensation to you.
 
-All User Submissions that you submit may be used at our sole discretion. We reserve the right to change, condense, withhold publication, remove or delete any content on the Site that we deem, in our sole discretion, to violate the User Submissions’ guidelines above or any other provision of these Site Terms of Use.  We do not guarantee that you will have any recourse through Schwabe North America to edit or delete any User Submissions you have submitted. Ratings and written comments are generally posted within two to four business days. However, we reserve the right to remove or to refuse to post any submission to the extent authorized by law. You acknowledge that you, not Schwabe North America, are responsible for the contents of your User Submissions. None of the User Submissions that you submit shall be subject to any obligation of confidence on the part of Schwabe North America, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
+All User Submissions that you submit may be used at our sole discretion. We reserve the right to change, condense, withhold publication, remove or delete any content on the Site that we deem, in our sole discretion, to violate the User Submissions’ guidelines above or any other provision of these Site Terms of Service.  We do not guarantee that you will have any recourse through Schwabe North America to edit or delete any User Submissions you have submitted. Ratings and written comments are generally posted within two to four business days. However, we reserve the right to remove or to refuse to post any submission to the extent authorized by law. You acknowledge that you, not Schwabe North America, are responsible for the contents of your User Submissions. None of the User Submissions that you submit shall be subject to any obligation of confidence on the part of Schwabe North America, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
 
 Please note that Site visitors may post content that is inaccurate, misleading, or deceptive. Schwabe North America neither endorses nor is responsible for any opinion, advice, information, or statements made by third parties. The opinions expressed by third parties reflect solely the opinions of the individuals who submitted such opinions and may not reflect the opinions of Schwabe North America.
 
-15. **Modification of These Site Terms of Use**
+15. **Modification of These Site Terms of Service**
 
-Schwabe North America reserves the right to amend these Terms of Use at any time. You are bound by any such revisions and should therefore periodically visit this page to review the then-current Terms of Use to which you are bound. Your use of the Services after the posting of modifications to these Terms of Use will constitute your acceptance of these Terms of Use, as modified. If at any time you do not wish to accept these Terms of Use, you are not thereafter authorized to use the Services.
+Schwabe North America reserves the right to amend these Terms of Service at any time. You are bound by any such revisions and should therefore periodically visit this page to review the then-current Terms of Service to which you are bound. Your use of the Services after the posting of modifications to these Terms of Service will constitute your acceptance of these Terms of Service, as modified. If at any time you do not wish to accept these Terms of Service, you are not thereafter authorized to use the Services.
 
 16. **Updating Your Information**
 
@@ -1233,7 +1241,7 @@ SCHWABE NORTH AMERICA RESERVES THE RIGHT TO ALTER THE CONTENT OF THIS SERVICE IN
 
 19. **Indemnification**
 
-Upon a request by Schwabe North America, you agree to defend, indemnify and hold harmless Schwabe North America and its subsidiaries, affiliates, officers, agents, co-branders or other partners and employees from all liabilities, claims and expenses, including reasonable attorneys’ fees, made by any third party due to or arising out of your use of the Service, your violation of these Terms of Use or your violation of any rights of another.
+Upon a request by Schwabe North America, you agree to defend, indemnify and hold harmless Schwabe North America and its subsidiaries, affiliates, officers, agents, co-branders or other partners and employees from all liabilities, claims and expenses, including reasonable attorneys’ fees, made by any third party due to or arising out of your use of the Service, your violation of these Terms of Service or your violation of any rights of another.
 
 20. **Digital Millennium Copyright Act / Notice of Copyright Infringement**
 
@@ -1252,19 +1260,19 @@ Any notice that fails to comply with the above requirements will not be consider
 
 21. **Choice of Law and Forum**
 
-These Site Terms of Use shall be governed by and construed in accordance with the laws of the State of Wisconsin, excluding its conflict of law rules. You and Schwabe North America expressly agree to submit to the exclusive jurisdiction and venue of the courts in Wisconsin in all disputes arising out of or relating to the use of the Services.
+These Site Terms of Service shall be governed by and construed in accordance with the laws of the State of Wisconsin, excluding its conflict of law rules. You and Schwabe North America expressly agree to submit to the exclusive jurisdiction and venue of the courts in Wisconsin in all disputes arising out of or relating to the use of the Services.
 
 22. **No Waiver**
 
-The failure of Schwabe North America to enforce any provisions of these of Terms of Use or respond to a breach by you or other parties shall not in any way waive its right to enforce subsequently any terms or conditions of these Terms of Use or to act with respect to similar breaches.
+The failure of Schwabe North America to enforce any provisions of these of Terms of Service or respond to a breach by you or other parties shall not in any way waive its right to enforce subsequently any terms or conditions of these Terms of Service or to act with respect to similar breaches.
 
 23. **Miscellaneous**
 
-You agree that no joint venture, partnership, employment, or agency relationship exists between you and Schwabe North America as a result of these Terms of Use or your use of the Services. Nothing contained in these Terms of Use is in derogation of Schwabe North America's right to comply with governmental, court and law enforcement requests or requirements relating to your use of these Services or information provided to or gathered by Schwabe North America with respect to such use. A printed version of these Site Terms of Use and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Site Terms of Use to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+You agree that no joint venture, partnership, employment, or agency relationship exists between you and Schwabe North America as a result of these Terms of Service or your use of the Services. Nothing contained in these Terms of Service is in derogation of Schwabe North America's right to comply with governmental, court and law enforcement requests or requirements relating to your use of these Services or information provided to or gathered by Schwabe North America with respect to such use. A printed version of these Site Terms of Service and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Site Terms of Service to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
 24. **Severability and Integration**
 
-Unless otherwise specified herein, these Terms of Use constitute the entire agreement between you and Schwabe North America.
+Unless otherwise specified herein, these Terms of Service constitute the entire agreement between you and Schwabe North America.
 
 #### Our Guarantee To You
 
@@ -1502,6 +1510,8 @@ More Info
 
        
 
+Chat not available
+
 #### Hello there, looks like you're located in Canada.
 
 Would you like to visit our Canada Store?
@@ -1533,6 +1543,8 @@ Taxes and [shipping](https://naturesway.com/policies/shipping-policy) calculated
 Update
 
 Check out
+
+ One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 
 #### You May Also Like:
 
