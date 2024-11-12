@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 10,415
+* 10,424
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,530
+* 8,533
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 18,173
+* 18,179
 * 11
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,834
+* 14,837
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 26,999
+* 27,017
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,889
+* 8,892
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,195
+* 15,196
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,082
+* 14,086
 * 9
 
 ### The 1.20(.1) Update​
@@ -834,7 +834,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 6,657
+* 6,659
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,443
+* 8,445
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,868
+* 13,869
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,436
+* 35,437
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,143
+* 15,147
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,683
+* 37,684
 * 18
 
 ### The 1.19 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,301
+* 24,305
 * 17
 
 ### The 1.18 update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,865
+* 8,866
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1316,11 +1316,35 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 ### [Members online](https://papermc.io/online/)
 
-No members online now.
+* [xBengie](https://papermc.io/members/xbengie.12470/)
 
-Total: 20 (members: 0, guests: 20)
+Total: 33 (members: 1, guests: 32)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
+
+[![Kent_HD](/data/avatars/s/11/11574.jpg?1728200351)](https://papermc.io/members/kent_hd.11574/)
+
+* Question
+
+Question [Server Problem](https://papermc.io/threads/server-problem.1400/)
+
+* [Kent\_HD](https://papermc.io/members/kent_hd.11574/)
+* [Oct 6, 2024](https://papermc.io/threads/server-problem.1400/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+4
+
+Views
+
+405
+
+[Help](https://papermc.io/forums/paper-help/) [9 minutes ago](https://papermc.io/threads/server-problem.1400/latest)
+
+[xBengie](https://papermc.io/members/xbengie.12470/)
+
+[X](https://papermc.io/members/xbengie.12470/)
 
 [![Tanya](/data/avatars/s/12/12439.jpg?1731263038)](https://papermc.io/members/tanya.12439/)
 
@@ -1339,7 +1363,7 @@ Replies
 
 Views
 
-43
+48
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sunday at 6:28 PM](https://papermc.io/threads/crash-paperspigot-1-12-2-idk.1440/latest)
 
@@ -1361,7 +1385,7 @@ Replies
 
 Views
 
-41
+43
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sunday at 12:50 PM](https://papermc.io/threads/cannot-invoke-net-minecraft-server-network-servergamepacketlistenerimpl-latency-because-player-connection-is-null.1439/latest)
 
@@ -1383,7 +1407,7 @@ Replies
 
 Views
 
-63
+65
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Saturday at 7:29 PM](https://papermc.io/threads/mockbukkit-a-testing-framework-for-minecraft-plugins.1438/latest)
 
@@ -1431,7 +1455,7 @@ Replies
 
 Views
 
-93
+97
 
 [Help](https://papermc.io/forums/paper-help/) [Saturday at 3:39 AM](https://papermc.io/threads/how-do-i-set-up-groups-so-that-i-cant-make-changes-to-a-higher-ranked-group-paper-1-21-1-luckperms.1435/latest)
 
@@ -1455,7 +1479,7 @@ Replies
 
 Views
 
-62
+69
 
 [Help](https://papermc.io/forums/velocity-help/) [Wednesday at 10:43 AM](https://papermc.io/threads/how-to-set-up-velocity-mysql-idk-to-start.1434/latest)
 
@@ -1527,35 +1551,13 @@ Replies
 
 Views
 
-222
+224
 
 [Help](https://papermc.io/forums/velocity-help/) [Nov 1, 2024](https://papermc.io/threads/paper-velocity-command-aliases.1429/latest)
 
 [YuanYuanOwO](https://papermc.io/members/yuanyuanowo.12188/)
 
 [Y](https://papermc.io/members/yuanyuanowo.12188/)
-
-[C](https://papermc.io/members/creamgod45.12166/)
-
-Question [try createBlockData got java.lang.NullPointerException: null](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/)
-
-* [creamgod45](https://papermc.io/members/creamgod45.12166/)
-* [Oct 31, 2024](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/)
-* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
-
-Replies
-
-4
-
-Views
-
-137
-
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Oct 31, 2024](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/latest)
-
-[stefvanschie](https://papermc.io/members/stefvanschie.38/)
-
-[S](https://papermc.io/members/stefvanschie.38/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
