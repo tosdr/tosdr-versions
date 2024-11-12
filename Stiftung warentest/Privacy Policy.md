@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
-* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
-* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
-* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
-* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
 
 Service Stiftung Warentest
 
