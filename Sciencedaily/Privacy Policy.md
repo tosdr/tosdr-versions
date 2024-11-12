@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 11, 2024**
+**November 12, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
-
 [Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
-[K-12 Education](https://www.sciencedaily.com/news/mind_brain/k-12_education/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+
+[Bird Flu](https://www.sciencedaily.com/news/health_medicine/bird_flu/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+[Hacking](https://www.sciencedaily.com/news/computers_math/hacking/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+[Recycling and Waste](https://www.sciencedaily.com/news/earth_climate/recycling_and_waste/)
 
-[Veterinary Medicine](https://www.sciencedaily.com/news/plants_animals/veterinary_medicine/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
   
 
