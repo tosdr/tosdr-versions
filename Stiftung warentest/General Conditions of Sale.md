@@ -585,21 +585,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Professionelle Helfer im Test: Deutlich mehr Eltern­geld mit Beratung](https://www.test.de/Elterngeldberatung-im-Test-5942423-0/ "Professionelle Helfer im Test - Deutlich mehr Elterngeld mit Beratung")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
 
 Fußbereich
 
@@ -2720,21 +2720,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Professionelle Helfer im Test: Deutlich mehr Eltern­geld mit Beratung](https://www.test.de/Elterngeldberatung-im-Test-5942423-0/ "Professionelle Helfer im Test - Deutlich mehr Elterngeld mit Beratung")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2776,39 +2776,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Professionelle Helfer im Test: Deutlich mehr Eltern­geld mit Beratung](https://www.test.de/Elterngeldberatung-im-Test-5942423-0/ "Professionelle Helfer im Test - Deutlich mehr Elterngeld mit Beratung")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
 
 Neueste Tests
 
+* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 * [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
 * [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Professionelle Helfer im Test: Deutlich mehr Eltern­geld mit Beratung](https://www.test.de/Elterngeldberatung-im-Test-5942423-0/ "Professionelle Helfer im Test - Deutlich mehr Elterngeld mit Beratung")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
 
 Service Stiftung Warentest
 
