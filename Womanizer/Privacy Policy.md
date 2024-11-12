@@ -56,27 +56,29 @@ The store will not work correctly in the case when cookies are disabled.
     
     * [Premium](https://www.womanizer.com/eu/premium)
     * [Next](https://www.womanizer.com/eu/next)
-    * [OG](https://www.womanizer.com/eu/womanizer-og)
-    * [DUO 2](https://www.womanizer.com/eu/duo2)
+    * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
-    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
-    * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
-    * [Arcwave Ion](https://www.womanizer.com/eu/arcwave-ion)
-    * [Premium 2](https://www.womanizer.com/eu/premium-2)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
-    * [InsideOut](https://www.womanizer.com/eu/insideout)
-    * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
-    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
-    * [DUO](https://www.womanizer.com/eu/duo)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
     * [Pro40](https://www.womanizer.com/eu/pro-40)
-    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [NEW
+        
+        Blend](https://www.womanizer.com/eu/blend)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
-    * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
+    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
+    * [DUO](https://www.womanizer.com/eu/duo)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
+    * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
+    * [InsideOut](https://www.womanizer.com/eu/insideout)
+    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
+    * [Arcwave Ion](https://www.womanizer.com/eu/arcwave-ion)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
