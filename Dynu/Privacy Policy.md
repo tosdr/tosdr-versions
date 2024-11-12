@@ -240,12 +240,15 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Ready to get started?
+### Priority Support
 
   
-Sign up for a free dynamic DNS account, no credit card needed  
+
+#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
+
   
-[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
+
+[Get Priority Support](https://www.dynu.com/Membership)  
   
 
 ### News
