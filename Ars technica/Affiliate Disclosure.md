@@ -87,13 +87,13 @@ Most Read
     
     1. [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
     
-2. 2. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
+2. 2. [Russia: Fine, I guess we should have a Grasshopper rocket project, too](https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/)
     
-3. 3. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
+3. 3. [Marvel drops Captain America: Brave New World trailer](https://arstechnica.com/culture/2024/11/marvel-drops-captain-america-brave-new-world-trailer/)
     
-4. 4. [Russia: Fine, I guess we should have a Grasshopper rocket project, too](https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/)
+4. 4. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-5. 5. [Space policy is about to get pretty wild, y’all](https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/)
+5. 5. [Man gets 10 years for stealing $20M in nest eggs from 400 US home buyers](https://arstechnica.com/tech-policy/2024/11/hacker-gets-10-years-for-stealing-20m-in-home-buyers-down-payments/)
     
 
 Customize
