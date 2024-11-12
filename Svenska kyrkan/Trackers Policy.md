@@ -1344,7 +1344,7 @@ Sök Meny
 * [Tillgänglighet](https://www.svenskakyrkan.se/tillganglighet-pa-svenskakyrkanse)
 * [Appar](https://www.svenskakyrkan.se/om-oss/appar)
 
-[Lyssna](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=innehall&url=)
+[Lyssna](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=innehall&url=https%3a%2f%2fwww.svenskakyrkan.se%2fdefault.aspx%3fid%3d1363923)
 
 Kakor
 =====
