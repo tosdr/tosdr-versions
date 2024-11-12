@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, November 11 2024
+Tuesday, November 12 2024
 
 Latest
 
-* [The FTC’s ‘Click-to-Cancel’ rule for subscriptions is long overdue – Computerworld](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
-* [Seven Things Your Credit Card’s Trip Protection Won’t Actually Cover](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
-* [Florida YMCA notifies 12K people of data breach compromising SSNs](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
-* [Windows 11 lifecycle for Home and Pro](https://digitpatrox.com/windows-11-lifecycle-for-home-and-pro/)
-* [Is It Safe to Run Your Oven’s Self-Clean Cycle?](https://digitpatrox.com/is-it-safe-to-run-your-ovens-self-clean-cycle/)
-* [This Is My Favorite Smart Doorbell Feature](https://digitpatrox.com/this-is-my-favorite-smart-doorbell-feature/)
-* [Nearly half of all digital initiatives still fail – here’s how you can learn from the ‘digital vanguard’ and deliver success](https://digitpatrox.com/nearly-half-of-all-digital-initiatives-still-fail-heres-how-you-can-learn-from-the-digital-vanguard-and-deliver-success/)
-* [9 Podcast Planning Templates You Can Download Right Now](https://digitpatrox.com/9-podcast-planning-templates-you-can-download-right-now/)
-* [What is the Sheraton Hotel mattress and is it on sale this Black Friday?](https://digitpatrox.com/what-is-the-sheraton-hotel-mattress-and-is-it-on-sale-this-black-friday/)
-* [Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](https://digitpatrox.com/microsoft-blames-windows-server-2025-automatic-upgrades-on-3rd-party-tools/)
+* [Execs are happy to let AI make decisions for them, and it’s got IT workers worried](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
+* [Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
+* [How to prevent safe emails from being sent to the Junk Email folder in Outlook](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
+* [6 Things You Should Never Do to Your Fridge](https://digitpatrox.com/6-things-you-should-never-do-to-your-fridge/)
+* [Android’s Quick Share Now Works on ARM Windows Laptops](https://digitpatrox.com/androids-quick-share-now-works-on-arm-windows-laptops/)
+* [Working all that overtime won’t help you hit KPIs – but it will impact your mental wellbeing](https://digitpatrox.com/working-all-that-overtime-wont-help-you-hit-kpis-but-it-will-impact-your-mental-wellbeing/)
+* [5 Essential Basic HTML Rules for Beginners](https://digitpatrox.com/5-essential-basic-html-rules-for-beginners/)
+* [NYT Strands today — hints, spangram and answers for game #254 (Tuesday, November 12 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-254-tuesday-november-12-2024/)
+* [HIBP notifies 57 million people of Hot Topic data breach](https://digitpatrox.com/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
+* [How to quit Elon Musk’s Twitter / X](https://digitpatrox.com/how-to-quit-elon-musks-twitter-x/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -123,17 +123,17 @@ Popular Posts
     
     August 13, 2024
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/04/04/FBI.jpg)](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
-    
-    [FBI disrupts the Dispossessor ransomware operation, seizes servers](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
-    
-    August 13, 2024
-    
 * [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/a-pair-of-oneplus-nord-buds-3-pro-in-front-of-the-case-1_53851478092_o.jpg)](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
     [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
     September 28, 2024
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2023/04/04/FBI.jpg)](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
+    
+    [FBI disrupts the Dispossessor ransomware operation, seizes servers](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
+    
+    August 13, 2024
     
 
 * [Popular](#widget_tabs-1-popular)
@@ -158,48 +158,48 @@ Popular Posts
     
     August 13, 2024
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/04/04/FBI.jpg)](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
-    
-    [FBI disrupts the Dispossessor ransomware operation, seizes servers](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
-    
-    August 13, 2024
-    
 * [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/a-pair-of-oneplus-nord-buds-3-pro-in-front-of-the-case-1_53851478092_o.jpg)](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
     [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
     September 28, 2024
     
+* [![](https://www.bleepstatic.com/content/hl-images/2023/04/04/FBI.jpg)](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
+    
+    [FBI disrupts the Dispossessor ransomware operation, seizes servers](https://digitpatrox.com/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
+    
+    August 13, 2024
+    
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601566-0-08808800-1731322952-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/SbReddXybRDUpfjmS5jrRA-1200-80.jpg)](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
     
-    [The FTC’s ‘Click-to-Cancel’ rule for subscriptions is long overdue – Computerworld](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
+    [Execs are happy to let AI make decisions for them, and it’s got IT workers worried](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
     
-    46 seconds ago
+    22 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JCDZJVHK7G90H2MAA02C31QJ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
+* [![](https://lifehacker.com/imagery/articles/01JCEFX0AP4RKZXNNBDA6ZFSQJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
     
-    [Seven Things Your Credit Card’s Trip Protection Won’t Actually Cover](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
+    [Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
     
-    29 mins ago
+    1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Florida-YMCA-data-breach-leaks-SSNs.jpg)](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
+* [![](https://pureinfotech.com/wp-content/uploads/2019/11/outlook-safe-sender-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
     
-    [Florida YMCA notifies 12K people of data breach compromising SSNs](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
+    [How to prevent safe emails from being sent to the Junk Email folder in Outlook](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
     
-    36 mins ago
+    1 hour ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/05/windows-intelligence-update-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-lifecycle-for-home-and-pro/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1665696976/prod/content/dam/CRO-Images-2022/Newsletters/Smarter/CR-Smarter-InlineHero-Top-5-Reasons-Why-Your-Fridge-Is-Broken-v2-0922)](https://digitpatrox.com/6-things-you-should-never-do-to-your-fridge/)
     
-    [Windows 11 lifecycle for Home and Pro](https://digitpatrox.com/windows-11-lifecycle-for-home-and-pro/)
+    [6 Things You Should Never Do to Your Fridge](https://digitpatrox.com/6-things-you-should-never-do-to-your-fridge/)
     
-    37 mins ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1634567282/prod/content/dam/CRO-Images-2021/Home/10Oct/CR-Home-InlineHero-Is-it-Safe-to-Run-Ovens-Self-Clean-Feature-1021)](https://digitpatrox.com/is-it-safe-to-run-your-ovens-self-clean-cycle/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/quickshare-from-a-pc-to-a-phone.jpg)](https://digitpatrox.com/androids-quick-share-now-works-on-arm-windows-laptops/)
     
-    [Is It Safe to Run Your Oven’s Self-Clean Cycle?](https://digitpatrox.com/is-it-safe-to-run-your-ovens-self-clean-cycle/)
+    [Android’s Quick Share Now Works on ARM Windows Laptops](https://digitpatrox.com/androids-quick-share-now-works-on-arm-windows-laptops/)
     
-    39 mins ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [46 seconds ago
+* [22 mins ago
     
-    ### The FTC’s ‘Click-to-Cancel’ rule for subscriptions is long overdue – Computerworld](https://digitpatrox.com/the-ftcs-click-to-cancel-rule-for-subscriptions-is-long-overdue-computerworld/)
-* [29 mins ago
+    ### Execs are happy to let AI make decisions for them, and it’s got IT workers worried](https://digitpatrox.com/execs-are-happy-to-let-ai-make-decisions-for-them-and-its-got-it-workers-worried/)
+* [1 hour ago
     
-    ### Seven Things Your Credit Card’s Trip Protection Won’t Actually Cover](https://digitpatrox.com/seven-things-your-credit-cards-trip-protection-wont-actually-cover/)
-* [36 mins ago
+    ### Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
+* [1 hour ago
     
-    ### Florida YMCA notifies 12K people of data breach compromising SSNs](https://digitpatrox.com/florida-ymca-notifies-12k-people-of-data-breach-compromising-ssns/)
+    ### How to prevent safe emails from being sent to the Junk Email folder in Outlook](https://digitpatrox.com/how-to-prevent-safe-emails-from-being-sent-to-the-junk-email-folder-in-outlook/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 1, 2024
     
-    ### My Favorite Way to Motivate Myself to Clean a Bit Every Day](https://digitpatrox.com/my-favorite-way-to-motivate-myself-to-clean-a-bit-every-day/)
-* [September 12, 2024
+    ### I have $250 to upgrade my bedding in the Labor Day sales — here’s what I’m buying](https://digitpatrox.com/i-have-250-to-upgrade-my-bedding-in-the-labor-day-sales-heres-what-im-buying/)
+* [August 30, 2024
     
-    ### Five New Features Coming to AirPods Pro 2 (and How to Update Them)](https://digitpatrox.com/five-new-features-coming-to-airpods-pro-2-and-how-to-update-them/)
-* [August 28, 2024
+    ### 4 Things People Get Wrong About Head Lice](https://digitpatrox.com/4-things-people-get-wrong-about-head-lice/)
+* [September 23, 2024
     
-    ### Which Is the Better Tool?](https://digitpatrox.com/which-is-the-better-tool/)
+    ### Steven Johnson on Google, NotebookLM, and AI research](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
 
 Last Modified Topics
 
-* [1 hour ago
+* [2 hours ago
     
-    ### Nearly half of all digital initiatives still fail – here’s how you can learn from the ‘digital vanguard’ and deliver success](https://digitpatrox.com/nearly-half-of-all-digital-initiatives-still-fail-heres-how-you-can-learn-from-the-digital-vanguard-and-deliver-success/)
-* [1 hour ago
+    ### 5 Essential Basic HTML Rules for Beginners](https://digitpatrox.com/5-essential-basic-html-rules-for-beginners/)
+* [2 hours ago
     
-    ### 9 Podcast Planning Templates You Can Download Right Now](https://digitpatrox.com/9-podcast-planning-templates-you-can-download-right-now/)
-* [1 hour ago
+    ### NYT Strands today — hints, spangram and answers for game #254 (Tuesday, November 12 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-254-tuesday-november-12-2024/)
+* [3 hours ago
     
-    ### What is the Sheraton Hotel mattress and is it on sale this Black Friday?](https://digitpatrox.com/what-is-the-sheraton-hotel-mattress-and-is-it-on-sale-this-black-friday/)
+    ### HIBP notifies 57 million people of Hot Topic data breach](https://digitpatrox.com/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 28, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 12, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
