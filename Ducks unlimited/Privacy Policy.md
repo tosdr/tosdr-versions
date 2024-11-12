@@ -46,11 +46,11 @@
     * [Events Near Me Find local DU events near you](https://www.ducks.org/events#events)
     * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
     * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+    * [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
         
         DU Expedition Shirt
         
-        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=joincamobaselayer&ID=14347&responsecode=CQK0AAAA&or=1)
+        Donate today](https://give.ducks.org/campaign/638645/donate)
     
 * [Media](https://www.ducks.org/media)
     
@@ -60,11 +60,11 @@
     * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
     * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
     * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+    * [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
         
         DU Expedition Shirt
         
-        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=joincamobaselayer&ID=14347&responsecode=CQK0AAAA&or=1)
+        Donate today](https://give.ducks.org/campaign/638645/donate)
     
 * [About](https://www.ducks.org/about-ducks-unlimited)
     
@@ -100,7 +100,7 @@
         * [Become a Sponsor](https://www.ducks.org/get-involved/du-memberships/become-a-sponsor-save-an-acre)
         * [Online Auctions](https://www.ducks.org/events/du-state-and-regional-online-auctions)
         * [State Calendar Gun Giveaway](https://www.ducks.org/events/calendar-gun-giveaway)
-    * * [Donate Now](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906)
+    * * [Donate Now](https://www.ducks.org/year-end-2024)
         * [Give Monthly](https://give.ducks.org/campaign/584940/donate)
     
 
@@ -121,7 +121,7 @@ Your Location
 
 Change [View State Page](https://www.ducks.org/)
 
-[Donate Now](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906) [Give Monthly](https://give.ducks.org/campaign/584940/donate)
+[Donate Now](https://www.ducks.org/year-end-2024) [Give Monthly](https://give.ducks.org/campaign/584940/donate)
 
 [Conservation](https://www.ducks.org/conservation)
 
@@ -165,11 +165,11 @@ Change [View State Page](https://www.ducks.org/)
 * [Events Near Me Find local DU events near you](https://www.ducks.org/events#events)
 * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
 * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+* [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
     
     DU Expedition Shirt
     
-    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=joincamobaselayer&ID=14347&responsecode=CQK0AAAA&or=1)
+    Donate today](https://give.ducks.org/campaign/638645/donate)
 
 [Media](https://www.ducks.org/media)
 
@@ -179,11 +179,11 @@ Change [View State Page](https://www.ducks.org/)
 * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
 * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
 * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+* [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
     
     DU Expedition Shirt
     
-    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=joincamobaselayer&ID=14347&responsecode=CQK0AAAA&or=1)
+    Donate today](https://give.ducks.org/campaign/638645/donate)
 
 [About](https://www.ducks.org/about-ducks-unlimited)
 
@@ -216,7 +216,7 @@ Change [View State Page](https://www.ducks.org/)
     * [Become a Sponsor](https://www.ducks.org/get-involved/du-memberships/become-a-sponsor-save-an-acre)
     * [Online Auctions](https://www.ducks.org/events/du-state-and-regional-online-auctions)
     * [State Calendar Gun Giveaway](https://www.ducks.org/events/calendar-gun-giveaway)
-* * [Donate Now](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906)
+* * [Donate Now](https://www.ducks.org/year-end-2024)
     * [Give Monthly](https://give.ducks.org/campaign/584940/donate)
 
 * [About Ducks Unlimited](https://www.ducks.org/about-ducks-unlimited)
@@ -414,7 +414,7 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 * [National Online Auction](https://www.ducks.org/events/national-online-auction "National Online Auction")
 
 * [Get Involved](https://www.ducks.org/get-involved "Get Involved")
-* [Join or Renew](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906 "Join or Renew")
+* [Join or Renew](https://www.ducks.org/year-end-2024 "Join or Renew")
 * [Monthly Giving](https://give.ducks.org/campaign/584940/donate "Monthly Giving")
 * [Memorial Giving](https://donate.ducks.org/donateOnlineSecure.aspx?promoKey=MemorialHonorGiving "Memorial Giving")
 * [Volunteer](https://www.ducks.org/volunteer "Volunteer")
