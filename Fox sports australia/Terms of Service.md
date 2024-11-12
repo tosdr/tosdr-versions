@@ -18,20 +18,20 @@ FOX SCORES
     
 * [One-Day Cup
     
+    SA won by 6 wkts
+    
     |     |     |
     | --- | --- |
-    | SA  |     |
-    | NSW | 6 /161 |
+    | SA  | 4 /198 |
+    | NSW | 197 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250112)
 * [Women's BBL
     
-    12/11 18:10 AEST
-    
     |     |     |
     | --- | --- |
-    | SYDT | –   |
-    | PER | –   |
+    | SYDT |     |
+    | PER | 3 /86 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250124)
 * AFL
@@ -82,66 +82,66 @@ FOX SCORES
     
 * [NFL
     
-    1st Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LAR | 0   |
-    | MIA | 7   |
+    | LAR | 15  |
+    | MIA | 23  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251014)
 * Basketball
     
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | OKC | 37  |
-    | LAC | 34  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011044/box-score)
-* [NBA
-    
-    2nd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | CHI | 46  |
-    | CLE | 52  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010204/box-score)
-* [NBA
-    
-    2nd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | HOU | 37  |
-    | WAS | 28  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010205/box-score)
-* [NBA
-    
-    2nd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | SA  | 42  |
-    | SAC | 41  |
+    | SA  | 116 |
+    | SAC | 96  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010206/box-score)
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NO  | 38  |
-    | BKN | 40  |
+    | CHI | 113 |
+    | CLE | 119 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010204/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | HOU | 107 |
+    | WAS | 92  |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010205/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | NO  | 105 |
+    | BKN | 107 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010207/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | OKC | 134 |
+    | LAC | 128 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011044/box-score)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -875,7 +875,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [UFC 309](https://www.foxsports.com.au/ufc)
