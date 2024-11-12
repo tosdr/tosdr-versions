@@ -19,6 +19,50 @@ If this is not what you’re looking for,
 
 [**Buy now**](https://www.pandasecurity.com/security-promotion/?campaign=dome2411b&coupon=50OFFMULTIP&track=190478)
 
+### BlackFriday! **\-70%** on our plans
+
+0 0
+
+Days
+
+0 0
+
+Hours
+
+0 0
+
+Minutes
+
+0 0
+
+Seconds
+
+\-70%
+
+[Buy Panda Dome](https://www.pandasecurity.com/security-promotion/?campaign=blackfriday2024&track=190478)
+
+### CyberMonday! **\-60%** on our plans
+
+0 0
+
+Days
+
+0 0
+
+Hours
+
+0 0
+
+Minutes
+
+0 0
+
+Seconds
+
+\-60%
+
+[Buy Panda Dome](https://www.pandasecurity.com/security-promotion/?campaign=cybermonday2024&track=190478)
+
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
