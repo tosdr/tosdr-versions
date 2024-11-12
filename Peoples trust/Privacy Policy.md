@@ -136,14 +136,10 @@ Nous proposons du financement hypothécaire commercial à loyer modique de l’e
     ![Peoples Bank Logo](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/logos/PeoplesGroup-LogoFlat-RGB.png)
 * [Commercial Lending](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/commercial/)
 * [CMHC Lending](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/cmhc/)
-* [Conventional Commercial Mortgages](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/conventional-commercial-mortgages/)
-* [Loan Calculator](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/loan-calculator/)
 * [Find an Expert](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/find-an-expert/)
 
 * [Prêts hypothécaires commerciaux](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/commercial/)
 * [Prêts de la SCHL](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/cmhc/)
-* [Prêts hypothécaires ordinaires pour immeubles commerciaux](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/prets-hypothecaires-ordinaires-pour-immeubles-commerciaux/)
-* [Calculatrice de prêt](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/calculatrice-de-pret/)
 * [Trouver un expert](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/trouver-un-expert/)
 
 ![](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/logos/PG_logo_web.png)
