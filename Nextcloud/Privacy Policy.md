@@ -8,16 +8,6 @@
 
 [Register now](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
 
-[![Nextcloud Hub 9 is here!
-](https://nextcloud.com/c/uploads/2024/07/nc-hub9-logo-blue-gradient.svg)](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
-")
-
-[**Nextcloud Hub 9** is here!](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
-")
-
-[Learn more](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
-")
-
 [![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
 * [Products](# "Products")
