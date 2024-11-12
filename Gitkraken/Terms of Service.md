@@ -1,19 +1,19 @@
-[![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
+[![](https://www.gitkraken.com/wp-content/uploads/2024/11/Group-21666.png)](https://www.gitkraken.com/)
 
 * [Dev Tools](# "Dev Tools")
-    * ![](https://www.gitkraken.com/wp-content/uploads/2024/09/Vector.svg)
-        
-        Built for Teams
+    * Built for Teams
         ---------------
         
         A DevEx platform that’s built for team velocity & greater collaboration.
         
-        ![](https://www.gitkraken.com/wp-content/uploads/2024/09/Vector-1.svg)
+        ![](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector.svg) Supercharge Your Dev Team \>
         
         Enterprise Grade
         ----------------
         
         Solutions designed for large-scale security, privacy & control.
+        
+        ![](https://staging-www.gitkraken.com/wp-content/uploads/2024/09/Vector-1.svg) Secure Your Dev Team \>
         
         Products
         --------
@@ -245,7 +245,7 @@ This EULA is governed and construed by the laws of the State of Arizona, United 
 
 If you have any questions about this EULA or wish to request any special terms for a customer subscription, please direct all correspondence to: Axosoft LLC DBA GitKraken, 16435 N Scottsdale Road, Suite 130, Scottsdale, AZ 85254, or email [\[email protected\]](https://www.gitkraken.com/cdn-cgi/l/email-protection). If you want to report a suspected bug or security vulnerability with our site or products, please contact [\[email protected\]](https://www.gitkraken.com/cdn-cgi/l/email-protection). Axosoft, GitLens and GitKraken are trademarks and/or a registered trademark of Axosoft or its Affiliates in the United States and/or various jurisdictions.
 
-![](https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg)
+![](https://www.gitkraken.com/wp-content/uploads/2021/12/Union.svg)
 
 **Products**
 
