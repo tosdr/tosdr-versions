@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansD_20231212_20231212/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansD_20231212_20231212/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
