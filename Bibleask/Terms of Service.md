@@ -211,8 +211,6 @@ Download our apps
 
 Subscribe (Weekly Updates)
 
- 
-
 \* indicates required
 
 Email Address \*
