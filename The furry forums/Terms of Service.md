@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-All forum announcements and updates are posted [here](https://www.thefurryforum.com/forums/index.php?board=17.0)!
+Join our chat room on [Discord](https://www.thefurryforum.com/forums/index.php?topic=38553.0)! We'd love to chat with you!
 
   
   
 
-[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
+[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
 
   
 
