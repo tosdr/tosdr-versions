@@ -61,8 +61,6 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Tuition increases on November 12th - [Enroll soon](https://artofproblemsolving.com/school/schedule) to lock in current pricing!
-
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
 Art of Problem Solving Terms of Service
