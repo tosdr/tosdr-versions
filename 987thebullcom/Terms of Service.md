@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| You ProofMorgan Wallen<br><br>10:42pm |
-| Take A Back RoadRodney Atkins<br><br>10:38pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:35pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:23pm |
-| OutskirtsSam Hunt<br><br>10:20pm |
+| Where The Wild Things AreLuke Combs<br><br>4:40am |
+| Rock And A Hard PlaceBailey Zimmerman<br><br>4:37am |
+| Fall Of SummerScotty Mccreery<br><br>4:34am |
+| Bigger HousesDan Shay<br><br>4:30am |
+| The PainterCody Johnson<br><br>4:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
