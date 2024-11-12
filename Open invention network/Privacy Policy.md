@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
+> The Electric Vehicle Charging Industry is booming and has benefited greatly from the freedom to use open source software such as Linux in our systems. The Open Charge Alliance stands for open collaboration, open standards and is a strong supporter of OIN. We can’t have patent aggression slowing down innovation and market growth in this exciting new industry.  
 
-Shane CoughlanProgram ManagerOpenChain Project
+Lonneke DriessenDirectorOpen Charge Alliance
 
-> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
+> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
 
-Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
+Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
 
-> Over its 21 years existence, OVHcloud has developed a strong vision on how innovation is critical to empower cloud users with a relentless effort on open source and open standards. Joining OIN is a strong asset to keep on developing our open innovation roadmap and taking it to the community.  
+> Google has been a proud member of OIN since joining the community in 2007. Linux and adjacent open source software power the cloud-based services of today and tomorrow. Throughout, OIN has been there to ensure that open source remains safe for users, consumers, and developers alike to consume and upon which to build.
 
-Miroslaw KlabaCo-founder & VP of EngineeringOVHcloud
+Chris DiBonaDirector of Open SourceGoogle
 
-> Bilibili is a diverse, open, and innovative cultural platform. All the time, we are committed to opening and sharing technologies and providing positive motivation in the innovation field of playback transmission, interactive entertainment, and cloud-native ecology through open source projects. Linux System software and open source technologies are important software infrastructures that promote business developments. Our participation in the OIN community demonstrates our consistent and ongoin… [Read more](https://openinventionnetwork.com/testimonial/bilibili/ "Complete testimonial by Wang Hao")
+> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
 
-Wang HaoVice President, Bilibili
-
-> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
-
-Robert DiCosmoFounder & CEOSoftware Heritage
-
-> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
-
-Mick LimDirector, Foxconn IP Affairs Division
+Stephan DührManaging Director, Bareos GmbH & Co. KG
 
 > Linux is a critical enabler of Guest-Tek’s systems as it helps the company to provide its industry leading solutions to the hospitality industry. By becoming an Open Invention Network licensee, we encourage ongoing Linux development which ensures the continued improvement of our technology and services. This relationship will be very beneficial for Guest-Tek and our customers and partners worldwide.  
 
 Arnon LevyPresident & CEOGuest-Tek
 
-> At the time of OIN’s founding, open source was nascent, and most software was built in silos. During the past 15 years, we have been pleased to watch the OIN community grow from 6 members to more than 3,300. The OIN community’s powerful cross license has enabled businesses to safely develop and sell innovative new systems and platforms that have revolutionized the way the world conducts business.  
+> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
 
-Peter TotoSenior VP, IP CounselSony Corporation of America
+Todd MooreCTO, Developer EcosystemsIBM
 
-> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
+> Tencent is committed to offering high-quality, Internet-based services from social, games and digital content to mobile payment, cloud services, Internet financial services and smart retail solutions, among many others. Linux and open source are critical elements in the technologies that we are developing to provide these services. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
 
-Luke IbbetsonHead of Group R&DVodaphone
+Xu YanSenior Account ManagerTencent Holdings Limited
 
-> Improving little by little every day is not just a slogan for Great Wall Motor. We believe in daily advances in our in-vehicle systems to improve our customers’ overall driving experience. Harnessing the benefits inherent in open source software to help do so completely aligns with our goals. By joining OIN, we are demonstrating our commitment to open source software, and supporting it with a pledge of patent non-aggression.  
+> Protecting open source is critical to us, our users and to the ongoing health of the Internet. We’re proud of our new role within OIN. We’re very happy with the direction OIN has been going.  
 
-Xiaozu WangHead of Intellectual PropertyGreat Wall Motor Company Limited
+Chris DiBonaDirector of Open SourceGoogle
+
+> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
+
+Yandex
+
+> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
+
+Koichi TsukuiChief Technology Officer, Advantest
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
