@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Dark Money Pushes Into State Elections](/assets/Images/teasers/small/DarkMoneyStates.JPG)](https://www.followthemoney.org/research/blog/darkness-on-the-edge-of-town-national-dark-money-targets-states)
+[![Percentage of Competitive Gubernatorial Races, by Incumbency Status, 2001-2016](/assets/Images/teasers/small/competitive-govs.JPG)](https://www.followthemoney.org/research/institute-reports/monetary-competitiveness-in-gubernatorial-elections-2001-2016)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
