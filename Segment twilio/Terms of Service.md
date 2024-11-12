@@ -849,19 +849,15 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
 Twilio Terms of Service
 =======================
 
-**Last Updated:** February 14, 2023
+**Last Updated:** November 12, 2024
 
-__These Terms of Service are effective on February 14, 2023, if you created your account or accepted or otherwise agreed to them on or after February 14, 2023.__
+__These Terms of Service are effective on November 12, 2024, if you created your account or accepted or otherwise agreed to them on or after November 12, 2024.__
 
-_These Terms of Service are effective on March 15, 2023, if you created your account or accepted or otherwise agreed to a previous version of these Terms of Service prior to February 14, 2023._  
+_These Terms of Service are effective on December 19, 2024, if you created your account or accepted or otherwise agreed to a previous version of these Terms of Service prior to November 12, 2024._  
 
 _Please read our_ [_online notice_](https://segment.com/en-us/legal/online-terms-updates)_, which explains the changes to these Terms of Service and our other legal terms and conditions in more detail._
 
-_The most recent prior version of these Terms of Service is available [here](https://segment.com/en-us/legal/tos/tos-sept-2022 "here")._
-
-_If you were under the Partner Terms of Service (PTOS), the Partner Terms of Service (PTOS) has been replaced with these Terms of Service. The most recent prior version of the Partner Terms of Service (PTOS) is available [here](https://segment.com/en-us/legal/tos/ptos-feb-2022 "Partner Terms of Service")._
-
-_If you were under the Twilio Segment Partner Program Agreement, the Twilio Segment Partner Program Agreement has been replaced with these Terms of Service. The most recent prior version of the Twilio Segment Partner Program Agreement is available [here](https://segment.com/legal/partnersagreement-jan2023/)._
+_The most recent prior version of these Terms of Service is available [here](https://segment.com/en-us/legal/tos/tos-feb-2023)._
 
 [Table of Contents](#table-of-contents)
 ---------------------------------------
@@ -894,7 +890,7 @@ _Our services are generally intended for business or professional use only._ 
 
 _If you have a separate agreement with us for the use of our services, these terms will not apply to you. However, these terms will apply if any services you use are not covered under that separate agreement._ 
 
-_These terms are effective on the date you accept them. The Twilio entity that is entering into these terms depends on where your business entity is registered. Please see the table below for more information._
+_These terms are effective on the date you accept them. This includes any additional terms that are referenced in these terms and available at hyperlinks and any order forms that you may execute with Twilio. The Twilio entity that is entering into these terms depends on where your business entity is registered. Please see the table below for more information._
 
 * * *
 
@@ -904,7 +900,7 @@ _THE SERVICES ARE INTENDED FOR BUSINESS USE OR USE IN CONNECTION WITH AN INDIVID
 
 _If you have a separate written agreement with Twilio for your use of the Services, these Twilio Terms of Service will not apply to you, unless that written agreement does not cover a particular Service, in which case, these Twilio Terms of Service apply solely to your use of that particular Service._
 
-These Twilio Terms of Service (“_**Agreement**_”) set forth the terms for your use of the Services and are effective as of the date you accept or otherwise agree to the terms of this Agreement (“_**Effective Date**_”). This Agreement is between the applicable Twilio entity identified below (“_**Twilio**_”) and you or the organization on whose behalf you are accepting or otherwise agreeing to the terms of this Agreement (“_**you**"_, _"**your**"_, _"**yours**"_, or _"**Customer**_”).  
+These Twilio Terms of Service (“_**Agreement**_”) set forth the terms for your use of the Services and are effective as of the date you accept or otherwise agree to the terms of this Agreement (“_**Effective Date**_”). This Agreement consists of these Twilio Terms of Service, terms referenced in these Twilio Terms of Service which are available at hyperlinks, and any applicable Order Form(s) (as defined below). This Agreement is between the applicable Twilio entity identified below (“_**Twilio**_”) and you or the organization on whose behalf you are accepting or otherwise agreeing to the terms of this Agreement (“_**you**"_, _"**your**"_, _"**yours**"_, or _"**Customer**_”).  
 
 **If you are domiciled in:**
 
@@ -946,7 +942,7 @@ _If you keep using our services after these terms have changed and gone into eff
 
 * * *
 
-Twilio may update the terms of this Agreement from time to time. Twilio will provide you with written notice of any _material_ updates at least thirty (30) days prior to the date the updated version of this Agreement is effective, unless such material updates result from changes in laws, regulations, or requirements from telecommunications providers. The updated version of this Agreement will be available at [https://www.twilio.com/legal/tos](https://segment.com/en-us/legal/tos). Notices for material updates to the terms of this Agreement will be given in accordance with Section 9.5 (Notices). Following such notice, your continued use of the Services on or after the date the updated version of this Agreement is effective and binding, as indicated at the top of this Agreement, constitutes your acceptance of the updated version of this Agreement. The updated version of this Agreement supersedes all prior versions.  If you do not agree to the updated version of this Agreement, you must stop using the Services immediately.
+Twilio may update the terms of this Agreement from time to time. Twilio will provide you with written notice of any _material_ updates at least thirty (30) days prior to the date the updated version of this Agreement is effective, unless such material updates result from changes in laws, regulations, or requirements from telecommunications providers. The current, up to date version of this Agreement will be available at [https://www.twilio.com/legal/tos](https://segment.com/en-us/legal/tos). Notices for material updates to the terms of this Agreement will be given in accordance with Section 9.5 (Notices). Following such notice, your continued use of the Services on or after the date the updated version of this Agreement is effective and binding, as indicated at the top of this Agreement, constitutes your acceptance of the updated version of this Agreement. The updated version of this Agreement supersedes all prior versions.  If you do not agree to the updated version of this Agreement, you must stop using the Services immediately.
 
 * * *
 
@@ -978,7 +974,7 @@ _There may be additional words that we define in the body of these terms. Make s
 
 “_**Beta Offerings**_” means Services that are identified as alpha, beta, not generally available, limited release, developer preview, or any similar Services offered by Twilio.
 
-“_**Customer Data**_” means data and other information made available by you to Twilio in connection with your use of the Services under this Agreement.
+“_**Customer Data**_” means any data (a) provided by you or your End Users (as defined below) to Twilio in connection with your use of the Services or (b) generated for your use as part of the Services. Customer Data excludes any Twilio Data (as defined below).
 
 “_**Customer Services**_” means any software application or other products and services provided by you and used in connection with your use of the Services under this Agreement. If applicable, Customer Services includes sources from which you choose to retrieve Customer Data and destinations to which you choose to transmit Customer Data using the Services.
 
@@ -990,21 +986,21 @@ _There may be additional words that we define in the body of these terms. Make s
 
 “_**Order Form**_” means an ordering document between you and Twilio, or any of their Affiliates, that specifies mutually agreed upon rates for certain Services and any commercial terms related thereto. 
 
-“_**Services**_” means the products and services provided by Twilio or its Affiliates, as applicable, that (a) you use, including, without limitation, products and services that are on a trial basis or otherwise free of charge or (b) you order under an Order Form. Services excludes any Customer Services and Third Party Services (as defined below).
+“_**Services**_” means the products and services provided by Twilio or its Affiliates, as applicable, including all updates, modifications, or improvements thereto, that you purchase pursuant to an Order Form or otherwise use. Services excludes any Customer Services and Third Party Services (as defined below).
 
-“_**Service Usage Data**_” means any data that is derived from the use of the Services that does not directly or indirectly identify you, your End Users, or any natural person and includes (a) data such as volumes, frequencies, bounce rates, and Service performance data and (b) subject to any restrictions under applicable law or regulation, data that is anonymized, de-identified, and/or aggregated such that it could no longer directly or indirectly identify you, your End Users, or any natural person.
+"**_Support Terms_**" means the support-related terms for the Services, the current version of which is available at [https://www.twilio.com/support-plans](https://www.twilio.com/support-plans)**_._**
 
-“_**Support Terms**_” means the support-related terms for the Services, the current version of which is available at [https://www.twilio.com/support-plans](https://segment.com/en-us/support-plans).
+**_"Third Party Services_**" means any products, services, or software components that are purchased by you from Twilio, but provided, or otherwise made available, by a third party (i.e., a party other than Twilio). Third Party Services are governed by a separate agreement between you and the third-party provider.
 
-_“**Third Party Services**”_ means any products, services, or software components that are purchased by you from Twilio, but provided, or otherwise made available, by a third party (i.e., a party other than Twilio). Third Party Services are governed by a separate agreement between you and the third-party provider.
+"_**Twilio Acceptable Use Policy**_" means certain terms relating to the use of the Services, including the [Service and Country Specific Requirements](https://segment.com/en-us/legal/service-country-specific-terms) set forth therein, the current version of which is available at [https://www.twilio.com/legal/aup](https://www.twilio.com/legal/aup).
 
-_“**Twilio Acceptable Use Policy**_” means certain terms relating to the use of the Services, including the [Service and Country Specific Requirements](https://segment.com/en-us/legal/service-country-specific-terms) set forth therein, the current version of which is available at [https://www.twilio.com/legal/aup](https://segment.com/en-us/legal/aup). 
+“_**Twilio Data**_” means any data that is (a) derived or generated from the use or provision of the Services that does not identify you, your End Users, or any natural person or is anonymized, de-identified, and/or aggregated such that it can no longer identify you, your End Users, or any natural person or  (b) any Customer Data that is anonymized, de-identified, and/or aggregated by Twilio in accordance with this Agreement.
 
-“_**Twilio Data Protection Addendum**_” means the personal data processing-related terms for the Services, the current version of which is available at [https://www.twilio.com/legal/data-protection-addendum](https://segment.com/en-us/legal/data-protection-addendum).
+“_**Twilio Data Protection Addendum**_” means the personal data processing-related terms for the Services, the current version of which is available at [https://www.twilio.com/legal/data-protection-addendum](https://segment.com/en-us/legal/data-protection-addendum)
 
 “_**Twilio Security Overview**_” means the security related terms for the Services, the current version of which is available at [https://www.twilio.com/legal/security-overview](https://segment.com/en-us/legal/security-overview).
 
-“_**Twilio SLA**_” means the service level agreement for the Services, the current version of which is available at [https://www.twilio.com/legal/service-level-agreement](https://segment.com/en-us/legal/service-level-agreement).
+“_**Twilio SLA**_” means the service level agreements for the Services, the current versions of which are available at [https://www.twilio.com/legal/service-level-agreement](https://segment.com/en-us/legal/service-level-agreement).
 
 Any capitalized term not defined in this Section 1 will have the meaning provided in this Agreement.
 
@@ -1012,11 +1008,11 @@ Any capitalized term not defined in this Section 1 will have the meaning provide
 
 * * *
 
-_We will make our services available to you according to_ [_our published documentation on our website_](https://www.twilio.com/docs) _and_ [_our service level agreement_](https://segment.com/en-us/legal/service-level-agreement)_. We will also protect your data and our services according to_ [_our security overview_](https://segment.com/en-us/legal/security-overview)_._
+_We will make our services available to you according to_ [_our published documentation on our website_](https://www.twilio.com/docs) _and_ [_our service level agreement_s](https://www.twilio.com/legal/service-level-agreement)_. We will also protect your data and our services according to_ [_our security overview_](https://segment.com/en-us/legal/security-overview)_._
 
 * * *
 
-2.1 Provision of the Services.  Twilio will: (a) provide the Services to you pursuant to this Agreement, the applicable Documentation, and any applicable Order Form(s); (b) comply with the Twilio SLA; (c) comply with the security terms for the Services as set forth in the Twilio Security Overview; (d) provide the Services in accordance with laws applicable to Twilio’s provision of the Services to its customers generally (i.e., without regard for your particular use of the Services), subject to your use of the Services in accordance with this Agreement, the applicable Documentation, and any applicable Order Form(s); (e) make commercially reasonable efforts to use industry standard measures designed to scan, detect, and delete Malicious Code; (f) if applicable, use trained, qualified personnel to provide the Services; and (g) use commercially reasonable efforts to provide you with applicable support for the Services as described in the Support Terms.
+2.1 Provision of the Services.  Twilio will: (a) provide the Services to you pursuant to this Agreement, the applicable Documentation, and any applicable Order Form(s); (b) comply with the applicable Twilio SLA; (c) comply with the security terms for the Services as set forth in the Twilio Security Overview; (d) provide the Services in accordance with laws applicable to Twilio’s provision of the Services to its customers generally (i.e., without regard for your particular use of the Services), subject to your use of the Services in accordance with this Agreement, the applicable Documentation, and any applicable Order Form(s); (e) make commercially reasonable efforts to use industry standard measures designed to scan, detect, and delete Malicious Code; (f) if applicable, use trained, qualified personnel to provide the Services; and (g) use commercially reasonable efforts to provide you with applicable support for the Services as described in the applicable Support Terms.
 
 * * *
 
@@ -1072,7 +1068,7 @@ _You may use products called beta offerings, which are not generally available (
 
 * * *
 
-2.5 Beta Offerings.  From time to time, Twilio may make available Beta Offerings. You may, in your sole discretion, choose to use a Beta Offering. Twilio may discontinue a Beta Offering at any time, in its sole discretion, or decide not to make a Beta Offering generally available. To the extent you use any Beta Offerings that are only made available to a limited number of customers on an invitation basis in a non-public or private manner (collectively, "_**Private Beta Offerings**_"), the additional terms in Section 10.1 (Private Beta Offerings) apply to you.
+2.5 Beta Offerings.  From time to time, Twilio may make available Beta Offerings. You may, in your sole discretion, choose to use a Beta Offering. Twilio may discontinue a Beta Offering at any time, in its sole discretion, or decide not to make a Beta Offering generally available. 
 
 ### [3\. Fees and Payment Terms](#3-fees-and-payment-terms)
 
@@ -1116,9 +1112,9 @@ _You also may not create new accounts until any fees that you owe us are paid in
 
 3.3 Payment Terms.  Except as otherwise expressly set forth herein, payment obligations are non-cancelable and fees, Taxes, and Communications Surcharges (collectively, “_**Fees**_”), once paid, are non-refundable. Except as otherwise set forth in the applicable Order Form(s) and subject to Section 3.3.3 (Payment Disputes), You will pay the Fees due hereunder in accordance with the following applicable payment method:
 
-3.3.1 Credit Card.  If you elect to add funds to your account by credit card and use such funds to pay the Fees due, you are responsible for ensuring such funds cover the Fees due. If your account does not have sufficient funds or your credit card declines a charge for the Fees due, Twilio may suspend the provision of the Services to all of your accounts until the Fees due are paid in full. You are prohibited from creating new accounts until the Fees due are paid in full.
+3.3.1 Credit Card.  If you elect to add funds to your account by credit card and use such funds to pay the Fees due, you are responsible for ensuring such funds cover such Fees. If your account does not have sufficient funds or your credit card declines a charge for the Fees due, Twilio may suspend the provision of the Services to all of your accounts until the Fees due are paid in full. You are prohibited from creating new accounts until the Fees due are paid in full.
 
-3.3.2 Invoicing.  If you elect to receive invoices and Twilio approves you for the same, then, except as otherwise set forth in the applicable Order Form(s), (a) invoices will be sent to you each month, via email to the email address(es) you designate in your account and (b) you will pay the Fees due within thirty (30) days of the date of the invoice. Except as otherwise set forth in the applicable Order Form(s) or an invoice to the extent you procure the Services without any applicable Order Form(s), the Fees are payable in United States dollars. If you fail to pay the Fees and remedy such failure within fifteen (15) days of the date Twilio provides you with written notice of the same, then Twilio may (i) assess and you will pay a late fee of the lesser of 1.5% per month or the maximum amount allowable by law and (ii) suspend the provision of the Services to all of your accounts until the Fees due are paid in full. You are prohibited from creating new accounts until the Fees due are paid in full.
+3.3.2 Invoicing.  If you elect to receive invoices and Twilio approves you for the same, then, except as otherwise set forth in the applicable Order Form(s), (a) invoices will be sent to you each month via email to the email address(es) you designate in your account and (b) you will pay the Fees due within thirty (30) days of the date of the invoice. Except as otherwise set forth in the applicable Order Form(s) or an invoice to the extent you procure the Services without any applicable Order Form(s), the Fees are payable in United States dollars. If you fail to pay the Fees and remedy such failure within fifteen (15) days of the date Twilio provides you with written notice of the same, then Twilio may (i) assess and you will pay a late fee of the lesser of 1.5% per month or the maximum amount allowable by law and (ii) suspend the provision of the Services to all of your accounts until the Fees due are paid in full. You are prohibited from creating new accounts until the Fees due are paid in full.
 
 * * *
 
@@ -1140,11 +1136,23 @@ _If you are purchasing our services through a third-party fulfillment reseller, 
 
 * * *
 
-_What is ours is ours, including our services,_ [_our published documentation on our website_](https://www.twilio.com/docs)_, our confidential information, data that is derived from the use of our services that does not identify or no longer identifies you, your end users, or any natural person, and any feedback you or your end users provide to us about our services. What is yours is yours, including the software applications you develop or products and services you offer, your confidential information, and your data._
+_What is ours is ours, including the following:_
+
+_(a) our services;_ 
+
+(b) [_our published documentation on our website_](https://www.twilio.com/docs); 
+
+_(c) our confidential information;_
+
+_(d) any data that is derived or generated from the use or provision of our services that does not identify or no longer identifies you, your end users, or any natural person or any data that is anonymized, de-identified, and/or aggregated; and_
+
+_(e) any feedback you or your end users provide to us about our services._
+
+_Additionally, what is yours is yours, including the software applications you develop or products and services you offer, your confidential information, and your data._
 
 * * *
 
-4.1 Ownership Rights.  As between the parties, Twilio exclusively owns and reserves all right, title, and interest in and to the Services, the Documentation, Twilio's Confidential Information (as defined in Section 4.3.1 (Definition)), Service Usage Data, and any feedback or suggestions you or your End Users provide regarding the Services. As between the parties, you exclusively own and reserve all right, title, and interest in and to the Customer Services, your Confidential Information, and Customer Data, subject to Twilio’s rights to process Customer Data in accordance with this Agreement.
+4.1 Ownership Rights.  As between the parties, Twilio exclusively owns and reserves all right, title, and interest in and to the Services, the Documentation, Twilio's Confidential Information (as defined in Section 4.3.1 (Definition)), Twilio Data, as well as any feedback or suggestions you or your End Users provide regarding the Services. As between the parties, you exclusively own and reserve all right, title, and interest in and to the Customer Services, your Confidential Information, and Customer Data, subject to Twilio’s rights to process Customer Data in accordance with this Agreement and the Twilio Data Protection Addendum.
 
 * * *
 
@@ -1156,7 +1164,7 @@ _We or our affiliates can use your data in order to provide you with our service
 
 * * *
 
-_Neither of us will tell anyone else about or use the confidential information that we got from each other, except to carry out each of our individual obligations under these terms._ 
+_Neither of us will tell anyone else about or use the confidential information that we got from each other, except as allowed under these terms and the terms of [our Data Protection Addendum](https://segment.com/en-us/legal/data-protection-addendum)._ 
 
 _If either of us shares the other’s confidential information with third parties, then the one sharing that confidential information will make sure those third parties comply with these confidentiality obligations._
 
@@ -1166,15 +1174,15 @@ _If either of us shares the other’s confidential information with third partie
 
 4.3.1 Definition.  “_Confidential Information_” means any information or data, regardless of whether it is in tangible form, disclosed by either party (“_**Disclosing Party**_”) to the other party (“_**Receiving Party**_”) that is marked or otherwise designated as confidential or proprietary or that should otherwise be reasonably understood to be confidential given the nature of the information and the circumstances surrounding the disclosure, including, without limitation, this Agreement, Order Form(s), Customer Data, security reports and attestations, audit reports, customer lists, pricing, concepts, processes, plans, designs and other strategies, “know how”, inventions, and financial, technical, or other business information and materials of Disclosing Party and its Affiliates. Confidential Information does not include any information which: (a) is publicly available through no breach of this Agreement or fault of Receiving Party; (b) was properly known by Receiving Party, and to its knowledge, without any restriction, prior to disclosure by Disclosing Party; (c) was properly disclosed to Receiving Party, and to its knowledge, without any restriction, by another person without violation of Disclosing Party's rights; or (d) is independently developed by Receiving Party without use of or reference to the Confidential Information of Disclosing Party.
 
-4.3.2 Use and Disclosure.  Except as otherwise authorized by Disclosing Party in writing, Receiving Party will not (a) use any Confidential Information of Disclosing Party for any purpose outside of exercising Receiving Party’s rights or fulfilling its obligations under this Agreement and (b) disclose or make Confidential Information of Disclosing Party available to any party, except to Receiving Party's Affiliates, and Receiving Party's and its Affiliates’ respective employees, legal counsel, accountants, contractors, and in Twilio’s case, subcontractors (collectively, “_**Representatives**_”) who have a “need to know” as necessary for Receiving Party to exercise its rights or fulfill its obligations under this Agreement. Receiving Party will be responsible for its Representatives’ compliance with this Section 4.3. Representatives will be legally bound to protect Confidential Information of Disclosing Party under terms of confidentiality that are at least as protective as the terms of this Section 4.3. Receiving Party will protect the confidentiality of Confidential Information of Disclosing Party using the same degree of care that it uses to protect the confidentiality of its own confidential information but in no event less than reasonable care. Notwithstanding the foregoing, you may disclose Twilio’s SOC2 or similar report, which will constitute Twilio’s Confidential Information, only to your End Users or your End Users' employee or contract worker who has a “need to know” for such SOC2 or similar report and is legally bound to terms of confidentiality that are at least as protective as the terms of this Section 4.3.
+4.3.2 Use and Disclosure.  Except as otherwise authorized under Section 4.3.3 (Compelled Disclosure), under the Twilio Data Protection Addendum, or by Disclosing Party in writing, Receiving Party will not (a) use any Confidential Information of Disclosing Party for any purpose outside of exercising Receiving Party’s rights or fulfilling its obligations under this Agreement and (b) disclose or make Confidential Information of Disclosing Party available to any party, except to Receiving Party's Affiliates, and Receiving Party's and its Affiliates’ respective employees, legal counsel, accountants, contractors, and in Twilio’s case, subcontractors (collectively, “_**Representatives**_”) who have a “need to know” as necessary for Receiving Party to exercise its rights or fulfill its obligations under this Agreement. Receiving Party will be responsible for its Representatives’ compliance with this Section 4.3. Representatives will be legally bound to protect Confidential Information of Disclosing Party under terms of confidentiality that are at least as protective as the terms of this Section 4.3. Receiving Party will protect the confidentiality of Confidential Information of Disclosing Party using the same degree of care that it uses to protect the confidentiality of its own confidential information but in no event less than reasonable care. Notwithstanding the foregoing, you may disclose Twilio’s SOC2 or similar report, which will constitute Twilio’s Confidential Information, only to your End Users or your End Users' employee or contract worker who has a “need to know” for such SOC2 or similar report and is legally bound to terms of confidentiality that are at least as protective as the terms of this Section 4.3.
 
 * * *
 
-_Either of us may disclose the confidential information we got from the other if required by a law, regulation, subpoena, or a court order, if we fulfill certain conditions, such as providing notice, if legally allowed, and reasonable cooperation._
+_Either of us may disclose the confidential information we got from the other if requested by a regulator or required by regulation, law, subpoena, or court order, if we fulfill certain conditions, such as providing written notice, if legally allowed and such disclosure does not interfere with an investigation into potential illegal activity, and reasonable cooperation._
 
 * * *
 
-4.3.3 Compelled Disclosure.  Receiving Party may disclose Confidential Information of Disclosing Party if so required pursuant to a regulation, law, subpoena, or court order (collectively, “_**Compelled Disclosures**_”), provided Receiving Party gives Disclosing Party written notice of a Compelled Disclosure (to the extent legally permitted). Receiving Party will provide reasonable cooperation to Disclosing Party in connection with a Compelled Disclosure at Disclosing Party’s sole expense.
+4.3.3 Compelled Disclosure.  Receiving Party may disclose Confidential Information of Disclosing Party if so required pursuant to a request from a regulator or pursuant to regulation, law, subpoena, or court order (collectively, “_**Compelled Disclosures**_”), provided Receiving Party gives Disclosing Party written notice of a Compelled Disclosure to the extent (a) legally permitted and (b) where, when Twilio is Receiving Party, it determines that such Compelled Disclosure will not unduly interfere with an ongoing investigation into potential illegal activity. Receiving Party will provide reasonable cooperation to Disclosing Party in connection with a Compelled Disclosure at Disclosing Party’s sole expense.
 
 * * *
 
@@ -1214,11 +1222,11 @@ _If you or your end users become placed on any government sanctions or restricte
 
 * * *
 
-_You will only give us data for which you provided any required notices and received any required permissions, including in a manner as required by law or regulation. In addition, we will only use this data according to Section 4.2 (Customer Data) above._
+_You will only give us data for which you provided any required notices and received any required permissions, including in a manner as required by law or regulation. In addition, we will only use this data according to these terms and the terms of [our Data Protection Addendum](https://segment.com/en-us/legal/data-protection-addendum)._
 
 * * *
 
-5.3 Consents and Permissions.  You represent and warrant that you have provided and will continue to provide adequate notices, and that you have obtained and will continue to obtain the necessary permissions and consents, to provide Customer Data to Twilio for processing pursuant to Section 4.2 (Customer Data).
+5.3 Consents and Permissions.  You represent and warrant that you have provided, and will continue to provide, adequate notices, and that you have obtained, and will continue to obtain, the necessary permissions and consents required to enable Twilio to process all Customer Data to provide the Services or as permitted by this Agreement and the Twilio Data Protection Addendum.
 
 * * *
 
@@ -1470,17 +1478,9 @@ _These terms and these terms only govern our relationship with each other and yo
 
 * * *
 
-9.11 Entire Agreement.  This Agreement (including all exhibits and attachments hereto) will constitute the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous understandings, proposals, statements, sales materials, presentations, or non-disclosure or other agreements, whether oral or written. No oral or written information or advice given by Twilio, its agents, or its employees will create a warranty or in any way increase the scope of the warranties or obligations in this Agreement. The parties agree that any term or condition stated in your vendor registration form or registration portal or in any purchase order document or similar document will be construed solely as evidence of your internal business processes and the terms and conditions contained therein will be void and have no effect with regard to this Agreement, even if accepted by Twilio or executed by the parties after the Effective Date.
+9.11 Entire Agreement.  This Agreement will constitute the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous understandings, proposals, statements, sales materials, presentations, or non-disclosure or other agreements, whether oral or written. No oral or written information or advice given by Twilio, its agents, or its employees will create a warranty or in any way increase the scope of the warranties or obligations in this Agreement. The parties agree that any term or condition stated in your vendor registration form or registration portal or in any purchase order document or similar document will be construed solely as evidence of your internal business processes and the terms and conditions contained therein will be void and have no effect with regard to this Agreement, even if accepted by Twilio or executed by the parties after the Effective Date.
 
 ### [10\. Additional Terms](#10-additional-terms)  
-
-* * *
-
-_If you use any of our non-public or private beta offerings, these terms apply to you._
-
-* * *
-
-10.1 Private Beta Offerings.  Any Private Beta Offerings made available to Customer are strictly for testing and experimentation purposes only. Customer acknowledges that, by their nature, Private Beta Offerings may (a) not meet speed or performance benchmarks or expectations; (b) have gaps in functionality; and (c) contain bugs. The Support Terms and Twilio SLA do not apply to Private Beta Offerings. Private Beta Offerings, and any information related to such Private Beta Offerings, including their existence, are considered Twilio’s Confidential Information.
 
 * * *
 
@@ -1488,35 +1488,35 @@ _If you are a U.S. Federal or U.S. state entity, or a federally-recognized triba
 
 * * *
 
-10.2 United States Federal, State, and Tribal Governments.  If you are a (a) United States federal entity,  including without limitation, a bureau, office, agency, department, or other entity of the United States government; (b) a United States state entity, including without limitation, a bureau, department, office, or other entity of a state or a local, county, borough, commonwealth city, municipality, town, township, special purpose district, or other entity established by the laws of a state and located in such state; or (c) a federally-recognized tribal entity performing governmental functions and eligible for funding and services from the United States Department of the Interior by virtue of its status as an Indian tribe, or in Alaska, a Native village or Alaska Regional Native corporation, the following terms apply:
+10.1 United States Federal, State, and Tribal Governments.  If you are a (a) United States federal entity,  including without limitation, a bureau, office, agency, department, or other entity of the United States government; (b) a United States state entity, including without limitation, a bureau, department, office, or other entity of a state or a local, county, borough, commonwealth city, municipality, town, township, special purpose district, or other entity established by the laws of a state and located in such state; or (c) a federally-recognized tribal entity performing governmental functions and eligible for funding and services from the United States Department of the Interior by virtue of its status as an Indian tribe, or in Alaska, a Native village or Alaska Regional Native corporation, the following terms apply:
 
-10.2.1 Failure to Pay.  Twilio may assess, and you will pay, interest equal to the maximum amount allowable by applicable law, if you fail to pay the Fees and remedy such failure within fifteen (15) days of the date Twilio provides you with written notice of the same.
+10.1.1 Failure to Pay.  Twilio may assess, and you will pay, interest equal to the maximum amount allowable by applicable law, if you fail to pay the Fees and remedy such failure within fifteen (15) days of the date Twilio provides you with written notice of the same.
 
-10.2.2 Public Disclosure Laws.  Section 4.3.2 (Use and Disclosure) of this Agreement does not prohibit you from disclosing the terms of this Agreement to the extent required by public disclosure laws applicable to you (“_**Public Disclosure Laws**_”), provided that, to the extent permissible, any material legal terms included in this Agreement (e.g., representations and warranties, indemnification, limitation of liability) and any trade secrets, non-publicly available pricing, future business plans, future product plans or features, or business strategies of Twilio are redacted.
+10.1.2 Public Disclosure Laws.  Section 4.3.2 (Use and Disclosure) of this Agreement does not prohibit you from disclosing the terms of this Agreement to the extent required by public disclosure laws applicable to you (“_**Public Disclosure Laws**_”), provided that, to the extent permissible, any material legal terms included in this Agreement (e.g., representations and warranties, indemnification, limitation of liability) and any trade secrets, non-publicly available pricing, future business plans, future product plans or features, or business strategies of Twilio are redacted.
 
-10.2.3 Compelled Disclosure of Confidential Information. Receiving Party will provide reasonable cooperation to Disclosing Party in connection with a Compelled Disclosure at Disclosing Party’s sole expense to the extent permitted by applicable law.
+10.1.3 Compelled Disclosure of Confidential Information. Receiving Party will provide reasonable cooperation to Disclosing Party in connection with a Compelled Disclosure at Disclosing Party’s sole expense to the extent permitted by applicable law.
 
-10.2.4 Customer Services IP Infringement.  You represent and warrant that the Customer Services do not, and will not, infringe or misappropriate a third party’s intellectual property rights. Your breach of this Section 10.2.4 will not be subject to liability limitations set forth in Section 7 (Limitation of Liability) of this Agreement. 
+10.1.4 Customer Services IP Infringement.  You represent and warrant that the Customer Services do not, and will not, infringe or misappropriate a third party’s intellectual property rights. Your breach of this Section 10.1.4 will not be subject to liability limitations set forth in Section 7 (Limitation of Liability) of this Agreement. 
 
-10.2.5 Use of Marks.  Twilio will not use your name, logo, or a description of your use case(s) on Twilio’s website, earnings release and calls, or marketing or promotional materials without your prior written consent.
+10.1.5 Use of Marks.  Twilio will not use your name, logo, or a description of your use case(s) on Twilio’s website, earnings release and calls, or marketing or promotional materials without your prior written consent.
 
-10.2.6 Indemnification by Customer.  Your obligations in Section 6.2 (Indemnification by Customer) of this Agreement will apply to the extent permitted by applicable law, regulation, or procedure. 
+10.1.6 Indemnification by Customer.  Your obligations in Section 6.2 (Indemnification by Customer) of this Agreement will apply to the extent permitted by applicable law, regulation, or procedure. 
 
-10.2.7 Assignment.  The ability of either party to assign this Agreement without consent pursuant to Section 9.2 (Assignment) of this Agreement will not apply where prohibited by applicable law. 
+10.1.7 Assignment.  The ability of either party to assign this Agreement without consent pursuant to Section 9.2 (Assignment) of this Agreement will not apply where prohibited by applicable law. 
 
-10.2.8 Governing Law.   Section 9.6 (Governing Law and Attorneys’ Fees) of this Agreement is hereby deleted in its entirety and replaced with the following: 
+10.1.8 Governing Law.   Section 9.6 (Governing Law and Attorneys’ Fees) of this Agreement is hereby deleted in its entirety and replaced with the following: 
 
 _Governing Law. This Agreement will be governed by and interpreted according to (a) United States Federal law, if you are a United States Federal entity, or (b) the laws of the state in which you are located without regard to conflicts of laws and principles that would cause the application of the laws of another jurisdiction, if you are not a United States Federal entity. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods._ 
 
-10.2.9 Dispute Resolution.  Section 9.7 (Dispute Resolution) of this Agreement is hereby deleted in its entirety and replaced with the following:  
+10.1.9 Dispute Resolution.  Section 9.7 (Dispute Resolution) of this Agreement is hereby deleted in its entirety and replaced with the following:  
 
 _Except as otherwise specified in applicable law, in the event of a dispute, claim, or controversy arising out of or in connection with this Agreement or the breach, termination, enforcement, interpretation, or validity thereof (other than for disputes, claims, or controversies related to the intellectual property of a party) (collectively, “**Disputes**”), each party’s senior representatives will engage in good faith negotiations with the other party’s senior representatives to amicably resolve a Dispute. If the parties are unable to resolve a Dispute within thirty (30) days after the first request to engage in good faith negotiations or within such other time period as the parties may agree to in writing, then either party may seek relief as set forth in Section 9.6 (Governing Law and Attorneys’ Fees)._ 
 
-10.2.10 Code of Federal Regulations.  Twilio agrees to comply with the clauses included under 48 C.F.R. § 52.244-6 Subcontracts for Commercial Products and Commercial Services, and all applicable equal opportunity laws including the provisions of Executive Order 11246, as amended, Section 402 of the Vietnam Era Veterans Readjustment Assistance Act of 1974 (38 USC 4212), and Section 503 of the Rehabilitation Act of 1973, as amended, and the regulations at 41 C.F.R. §§ 60-1 -60-60, 60-250, and 60-741. The affirmative action clause and regulations contained in the preceding sentence are incorporated by reference into this Agreement.
+10.1.10 Code of Federal Regulations.  Twilio agrees to comply with the clauses included under 48 C.F.R. § 52.244-6 Subcontracts for Commercial Products and Commercial Services, and all applicable equal opportunity laws including the provisions of Executive Order 11246, as amended, Section 402 of the Vietnam Era Veterans Readjustment Assistance Act of 1974 (38 USC 4212), and Section 503 of the Rehabilitation Act of 1973, as amended, and the regulations at 41 C.F.R. §§ 60-1 -60-60, 60-250, and 60-741. The affirmative action clause and regulations contained in the preceding sentence are incorporated by reference into this Agreement.
 
-10.2.11 Commercial Items.  The Services are “Commercially available off-the-shelf (COTS) items”, consisting of “Commercial Products(s),” “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. § 2.101. Consistent with 48 C.F.R. § 12.212 or 48 C.F.R. §§ 227.7202-1-227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being provided (a) only as Commercial Items and (b) with only those rights as are granted to all other Twilio customers. Unpublished-rights are reserved under the copyright laws of the United States.
+10.1.11 Commercial Items.  The Services are “Commercially available off-the-shelf (COTS) items”, consisting of “Commercial Products(s),” “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. § 2.101. Consistent with 48 C.F.R. § 12.212 or 48 C.F.R. §§ 227.7202-1-227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being provided (a) only as Commercial Items and (b) with only those rights as are granted to all other Twilio customers. Unpublished-rights are reserved under the copyright laws of the United States.
 
-10.2.12 Conflict.  In the event of any conflict between this Section 10.2 and any other terms of this Agreement, this Section 10.2 will prevail.
+10.1.12 Conflict.  In the event of any conflict between this Section 10.1 and any other terms of this Agreement, this Section 10.1 will prevail.
 
 * * *
 
@@ -1524,7 +1524,7 @@ _If you are a microenterprise, small enterprise, or a not for profit organisatio
 
 * * *
 
-10.3 European Electronic Communications Code.  If you are a microenterprise, small enterprise, or not for profit organisation, and Twilio provides you the Services within the European Economic Area or United Kingdom, you agree you have read and accept the European Electronic Communications Code Rights Waiver available at [https://www.twilio.com/legal/service-country-specific-terms/eu-eecc-waiver](https://segment.com/en-us/legal/service-country-specific-terms/eu-eecc-waiver).
+10.2 European Electronic Communications Code.  If you are a microenterprise, small enterprise, or not for profit organisation, and Twilio provides you the Services within the European Economic Area or United Kingdom, you agree you have read and accept the European Electronic Communications Code Rights Waiver available at [https://www.twilio.com/legal/service-country-specific-terms/eu-eecc-waiver](https://segment.com/en-us/legal/service-country-specific-terms/eu-eecc-waiver).
 
 * * *
 
@@ -1532,9 +1532,9 @@ _If your business entity is registered in Brazil, these terms apply to you._
 
 * * *
 
-10.4 Brazil.  If you are domiciled in Brazil, the following terms apply:
+10.3 Brazil.  If you are domiciled in Brazil, the following terms apply:
 
-10.4.1 Dispute Resolution.  Section 9.7 (Dispute Resolution) of this Agreement is hereby deleted in its entirety and replaced with the following:  
+10.3.1 Dispute Resolution.  Section 9.7 (Dispute Resolution) of this Agreement is hereby deleted in its entirety and replaced with the following:  
 
 _In the event of a dispute, claim, or controversy arising out of or in connection with this Agreement or the breach, termination, enforcement, interpretation, or validity thereof (collectively, “**Disputes**”), each party’s senior representatives will engage in good faith negotiations with the other party’s senior representatives to amicably resolve a Dispute. If the parties are unable to resolve a Dispute within thirty (30) days after the first request to engage in good faith negotiations or within such other time period as the parties may agree to in writing, then either party may commence (a) litigation proceedings if the amounts being sought are less than two hundred thousand dollars ($200,000 USD) or (b) binding arbitration under the Rules of CAM-CCBC if the amounts being sought are greater than or equal to two hundred thousand dollars ($200,000 USD). To the extent a Dispute is submitted for arbitration, the parties will share equally the fees and expenses of the CAM-CCBC arbitrator. The arbitration will be conducted by a sole arbitrator chosen by the mutual agreement of the parties or, failing that, by CAM-CCBC under its then prevailing rules. Judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. The arbitrator will have the authority to grant specific performance or any other equitable or legal remedy, including provisional remedies. Each party will be responsible for its own incurred expenses arising out of any dispute resolution procedure. Any arbitration proceedings will take place in the English language in the City and State of São Paulo, Brazil._
 
@@ -1544,25 +1544,25 @@ _If your business entity is registered in Japan, these terms apply to you._
 
 * * *
 
-10.5 Japan.  If you are domiciled in Japan, the following terms apply:
+10.4 Japan.  If you are domiciled in Japan, the following terms apply:
 
-10.5.1 Intended Use.  The Services are intended for business use by corporate or business entities, and you agree that you will not use the Services for any personal or individual use.
+10.4.1 Intended Use.  The Services are intended for business use by corporate or business entities, and you agree that you will not use the Services for any personal or individual use.
 
-10.5.2 Required Information and Verification Process.  Depending on the Services you use, you may be required to submit copies of government-issued ID documents to Twilio and/or complete verification processes (e.g., via post) as required under applicable law or regulation, including, without limitation, the Act on Prevention of Transfer of Criminal Proceeds and the Telecommunications Business Act.
+10.4.2 Required Information and Verification Process.  Depending on the Services you use, you may be required to submit copies of government-issued ID documents to Twilio and/or complete verification processes (e.g., via post) as required under applicable law or regulation, including, without limitation, the Act on Prevention of Transfer of Criminal Proceeds and the Telecommunications Business Act.
 
-10.5.3 Taxes and Communications Surcharges.  Taxes, as defined in Section 3.2.1 (Taxes) of this Agreement, will include Japanese consumption tax. The universal service fee and the telephone relay service fee charged by telecommunication providers (e.g., carriers) will be borne by you as part of the Communications Surcharges set forth in Section 3.2.2 (Communications Surcharges) of this Agreement.
+10.4.3 Taxes and Communications Surcharges.  Taxes, as defined in Section 3.2.1 (Taxes) of this Agreement, will include Japanese consumption tax. The universal service fee and the telephone relay service fee charged by telecommunication providers (e.g., carriers) will be borne by you as part of the Communications Surcharges set forth in Section 3.2.2 (Communications Surcharges) of this Agreement.
 
-10.5.4 Currency.  All Fees are payable in Japanese Yen, except as otherwise set forth in writing, including in an applicable Order Form(s) or an invoice to the extent you procure the Services without an Order Form.
+10.4.4 Currency.  All Fees are payable in Japanese Yen, except as otherwise set forth in writing, including in an applicable Order Form(s) or an invoice to the extent you procure the Services without an Order Form.
 
-10.5.5 Intellectual Property Rights.  Any intellectual property rights vested by Twilio under this Agreement will include the rights set forth in Article 27 (Right of Adaptation) and 28 (Original Author’s Right in Derivative Works) of the Copyright Act of Japan, Act No. 48 of May 6, 1970. Further, you agree not to exercise against Twilio, or any other third parties designated by Twilio, any moral rights you may have in any contents, including, without limitation, the feedback or suggestions you or your End Users provide regarding the Services that Twilio is entitled to exploit under this Agreement.
+10.4.5 Intellectual Property Rights.  Any intellectual property rights vested by Twilio under this Agreement will include the rights set forth in Article 27 (Right of Adaptation) and 28 (Original Author’s Right in Derivative Works) of the Copyright Act of Japan, Act No. 48 of May 6, 1970. Further, you agree not to exercise against Twilio, or any other third parties designated by Twilio, any moral rights you may have in any contents, including, without limitation, the feedback or suggestions you or your End Users provide regarding the Services that Twilio is entitled to exploit under this Agreement.
 
-10.5.6 Anti-Social Forces.  Each party represents and warrants that it (a) is not an anti-social force (meaning here and hereinafter, gangsters, right-wing groups, anti-social forces, and others equivalent thereto) and (b) does not have any exchange or involvement with anti-social forces, such as cooperation or involvement in the maintenance, operation, or management of anti-social forces, through funding, or other means.
+10.4.6 Anti-Social Forces.  Each party represents and warrants that it (a) is not an anti-social force (meaning here and hereinafter, gangsters, right-wing groups, anti-social forces, and others equivalent thereto) and (b) does not have any exchange or involvement with anti-social forces, such as cooperation or involvement in the maintenance, operation, or management of anti-social forces, through funding, or other means.
 
-10.5.7 Dispute Resolution.  Section 9.7 (Dispute Resolution) of this Agreement is hereby deleted in its entirety and replaced with the following:
+10.4.7 Dispute Resolution.  Section 9.7 (Dispute Resolution) of this Agreement is hereby deleted in its entirety and replaced with the following:
 
 _In the event of a dispute, claim, or controversy arising out of or in connection with this Agreement or the breach, termination, enforcement, interpretation, or validity thereof (other than for disputes, claims, or controversies related to the intellectual property of a party) (collectively, “**Disputes**”), each party’s senior representatives will engage in good faith negotiations with the other party’s senior representatives to amicably resolve a Dispute. If the parties are unable to resolve a Dispute within thirty (30) days after the first request to engage in good faith negotiations or within such other time period as the parties may agree to in writing, then either party may seek relief as set forth in Section 9.6 (Governing Law and Attorneys’ Fees)._
 
-10.5.8 Conflict.  In the event of any conflict between this Section 10.5 and any other terms of this Agreement, this Section 10.5 will prevail.
+10.4.8 Conflict.  In the event of any conflict between this Section 10.4 and any other terms of this Agreement, this Section 10.4 will prevail.
 
 * * *
 
@@ -1570,17 +1570,17 @@ _If you are joining or participating in any of Twilio's partner programs, these 
 
 * * *
 
-10.6 Partner Program.  If you are joining or participating in any Twilio partner program (e.g., Twilio Build, Twilio Showcase, Twilio Segment Select) (“_**Partner Program**_”), the following terms apply:
+10.5 Partner Programs.  If you are joining or participating in any Twilio partner program (each, a “_**Partner Program**_”), the following terms apply:
 
-10.6.1 Partner Program Acceptance Conditions.  Your acceptance into the applicable Partner Program is conditioned on (a) Twilio’s approval of your completed application to join such applicable Partner Program, if applicable; (b) your satisfaction of all Partner Program acceptance qualifications and requirements that are communicated to you in writing by Twilio; and (c) your acceptance and compliance with the terms of this Agreement.
+10.5.1 Partner Program Acceptance Conditions.  Your acceptance into the applicable Partner Program is conditioned on (a) Twilio’s approval of your completed application to join such applicable Partner Program, if applicable; (b) your satisfaction of all Partner Program acceptance qualifications and requirements that are communicated to you in writing by Twilio; and (c) your acceptance and compliance with the terms of this Agreement.
 
-10.6.2 Partner Program Guides and Policies.  You will comply with the applicable Partner Program guides and policies available at [https://www.twilio.com/legal/partner-program-policies](https://segment.com/en-us/legal/partner-program-policies).
+10.5.2 Partner Program Guides and Policies.  You will comply with the applicable Partner Program guides and policies available at [https://www.twilio.com/legal/partner-program-policies](https://segment.com/en-us/legal/partner-program-policies).
 
-10.6.3 Use of Marks and Publicity.  Each party (“_**Licensor**_”) grants the other party (“_**Licensee**_”) the right to use and display Licensor’s trademarks, service marks, names, logos, images, Partner Program participation badges, collateral, or similar materials (“_**Brand Elements**_”) (a) to identify the parties’ relationship and (b) for marketing activities relating to the applicable Partner Program. Any Brand Elements will be used in accordance with Licensor’s then-current Brand Elements guidelines. Twilio’s Brand Elements guidelines are available at [https://www.twilio.com/legal/trademark](https://www.twilio.com/legal/trademark) and [https://brand.segment.com](https://brand.segment.com/ "https://brand.segment.com"). Twilio’s Brand Elements are non-transferrable, and Twilio may revoke your right to use and display Twilio’s Brand Elements at any time upon written notice to you. Neither party will issue any press releases or public announcements relating to the Partner Program, or your participation in the Partner Program, without the other party’s prior written approval.
+10.5.3 Publicity Restrictions.  Neither party will issue any press releases or public announcements in connection with your participation in the applicable Partner Program without the other party’s prior written consent.
 
-10.6.4 Partner Program Removal.  Twilio may, for any reason or no reason, remove you from the applicable Partner Program, or your access to the applicable Partner Program account portal, upon thirty (30) days prior written notice to you.
+10.5.4 Partner Program Removal.  Twilio may, for any reason or no reason, remove you from the applicable Partner Program, or your access to the applicable Partner Program account portal, upon thirty (30) days prior written notice to you.
 
-10.6.5 Conflict.  In the event of any conflict between this Section 10.6 and any other terms of this Agreement, this Section 10.6 will prevail.
+10.5.5 Conflict.  In the event of any conflict between this Section 10.5 and any other terms of this Agreement, this Section 10.5 will prevail.
 
 We can't wait to see what you build.
 ------------------------------------
