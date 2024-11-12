@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201599%20318'%3E%3C/svg%3E)
-
-![](https://www.alchemer.com/wp-content/uploads/2024/07/Alchemer_wspace.png)](https://www.alchemer.com/)
+[![](https://www.alchemer.com/wp-content/uploads/2024/07/Alchemer_wspace.png)](https://www.alchemer.com/)
 
 * Products
     
@@ -112,15 +110,15 @@ Privacy Policy
 ==============
 
 You own your data. We don’t sell your data. Ever.
-=================================================
+-------------------------------------------------
 
-**Welcome to the Alchemer website. As an application service provider, Alchemer Limited provides our customers, with two-way communication tools (including our software platform-Alchemer).**
+Welcome to the Alchemer website. As an application service provider, Alchemer Limited provides our customers, with two-way communication tools (including our software platform-Alchemer).
 
-**Like the postal service, we deliver information that belongs to customers and their survey respondents, not us. We’ve created this privacy policy to explain how Alchemer handles your data and your personal information.**
+Like the postal service, we deliver information that belongs to customers and their survey respondents, not us. We’ve created this privacy policy to explain how Alchemer handles your data and your personal information.
 
-**This Privacy Policy applies to information collected on our sites www.alchemer.eu, www.alchemer.com, community.alchemer.com, app.alchemer.com, as well as to all of our software services platforms, products, and other services and websites, except where otherwise noted by a separate unique privacy policy. We refer to all of our products, software platforms, services, and sites collectively as our “Services.” This Privacy Policy sets out how we use your information in the delivery of our Sites and Services.**
+This Privacy Policy applies to information collected on our sites www.alchemer.eu, www.alchemer.com, community.alchemer.com, app.alchemer.com, as well as to all of our software services platforms, products, and other services and websites, except where otherwise noted by a separate unique privacy policy. We refer to all of our products, software platforms, services, and sites collectively as our “Services.” This Privacy Policy sets out how we use your information in the delivery of our Sites and Services.
 
-**This Privacy Policy does not speak to the practices of any third parties, including those of our partners who may display Alchemer branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Customer has engaged Alchemer.**
+This Privacy Policy does not speak to the practices of any third parties, including those of our partners who may display Alchemer branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Customer has engaged Alchemer.
 
 Our Privacy FAQ + Key Privacy Issues
 ------------------------------------
@@ -133,15 +131,17 @@ IF YOU CREATE SURVEYS:
 
 * * You act as the data controller to the survey respondents. We enable you to communicate your compliance statements regarding data handling and privacy. As such, you are responsible for honoring respondent requests under EU privacy regulations.
 
-* * We act as a data processor to respondents. Our platform enables you to securely collect respondent information and the ability to comply with data processing consent/notification requirements. Any data requests from survey respondents will be forwarded to the respective survey creator for action.
-    * We act as a data controller for your account information. When you create an account, we collect the minimal required information to deliver our services and communicate with you. This information is never sold.
-    * We’re serious about data security. Take a look at the data security section of our privacy policy.
-    * You determine where respondent data travels. Which data center you utilize is based on which site you use to create surveys. For instance, surveys created on www.alchemer.eu will utilize the EU AWS data center in Frankfurt, Germany. What happens to the data after we collect it is up to you, our customer.
-    * Customer Information you provide to us.
-    * Registration information (e.g., your username, password, and email address).
-    * Billing information (e.g., billing details and financial information associated with your selected payment method like credit card number and expiration date or a bank account number). We don’t store any credit card information, and use a third party service as credit card processor.
-    * Account settings (e.g., your account settings page, account preferences, and personal details like your default language, timezone, etc.).
-    * Email lists (e.g., email lists you upload to invite people to take your surveys via email). We don’t use your email lists or any email addresses you collect through your surveys, except to assist you at your direction (e.g., if your email list isn’t sending correctly).
+* We act as a data processor to respondents. Our platform enables you to securely collect respondent information and the ability to comply with data processing consent/notification requirements. Any data requests from survey respondents will be forwarded to the respective survey creator for action.
+* We act as a data controller for your account information. When you create an account, we collect the minimal required information to deliver our services and communicate with you. This information is never sold.
+* We’re serious about data security. Take a look at the data security section of our privacy policy.
+* You determine where respondent data travels. Which data center you utilize is based on which site you use to create surveys. For instance, surveys created on www.alchemer.eu will utilize the EU AWS data center in Frankfurt, Germany. What happens to the data after we collect it is up to you, our customer.
+* Customer Information you provide to us.
+* Registration information (e.g., your username, password, and email address).
+* Billing information (e.g., billing details and financial information associated with your selected payment method like credit card number and expiration date or a bank account number). We don’t store any credit card information, and use a third party service as credit card processor.
+* Account settings (e.g., your account settings page, account preferences, and personal details like your default language, timezone, etc.).
+* Email lists (e.g., email lists you upload to invite people to take your surveys via email). We don’t use your email lists or any email addresses you collect through your surveys, except to assist you at your direction (e.g., if your email list isn’t sending correctly).
+
+  
 
 IF YOU ANSWER SURVEYS:
 
@@ -165,7 +165,9 @@ IF YOU ANSWER SURVEYS:
 
 * * * Referral source (e.g., which source or link referred respondent to survey)
 
-* * * Page tag data (e.g., clear gifs, web beacons, web bugs)
+* Page tag data (e.g., clear gifs, web beacons, web bugs)
+
+  
 
 **Your Rights**
 
@@ -187,7 +189,9 @@ IF YOU ANSWER SURVEYS:
 
 * * The right to object – you may object to your data being processed for purposes to which you do not consent
 
-* * Rights in relation to automated decision making and profiling – you may restrict your data from being used in automated decision making and profiling applications
+* Rights in relation to automated decision making and profiling – you may restrict your data from being used in automated decision making and profiling applications
+
+  
 
 You may wish to exercise a right to obtain information about yourself or to correct, update or delete that information. Some of these rights may be subject to some exceptions or limitations in local law. Please note your rights and choices vary depending upon your location. We will take reasonable steps to verify your identity and we will respond to your request to exercise these rights within a reasonable time (and in all cases within 30 days of receiving a request). [If you wish to exercise your rights, you can do so here.](https://www.surveygizmo.com/s3/4371617/Data-Rights-Request)
 
@@ -522,53 +526,9 @@ We use cookies to track how our users are browsing and engaging with our website
 
 [Legal](https://www.alchemer.com/legal/)
 
-We are using cookies to give you the best experience on our website.
-
-You can find out more about which cookies we are using or switch them off in settings.
-
-Accept
-
 See it in Action
 ----------------
 
 Request a demo so you can see what’s possible for your organization.  
 
 [×](#)
-
-                             
-
-Close GDPR Cookie Settings
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2048'%3E%3C/svg%3E)
-
-![](https://www.alchemer.com/wp-content/uploads/2024/08/Alchemer-Logo-300x48.png)
-
-* Privacy Overview
-* Strictly Necessary Cookies
-* 3rd Party Cookies
-
-[Powered by  GDPR Cookie Compliance](https://wordpress.org/plugins/gdpr-cookie-compliance/)
-
-Privacy Overview
-
-This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
-
-Strictly Necessary Cookies
-
-Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
-
-Enable or Disable Cookies 
-
-If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.
-
-3rd Party Cookies
-
-This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
-
-Keeping this cookie enabled helps us to improve our website.
-
-Enable or Disable Cookies 
-
-Please enable Strictly Necessary Cookies first so that we can save your preferences!
-
-Enable All Save Settings
