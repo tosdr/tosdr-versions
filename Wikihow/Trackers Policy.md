@@ -139,6 +139,16 @@ Save settings
 
 ### Featured Articles
 
+[![Make Instant Coffee](https://www.wikihow.com/images/thumb/1/12/Make-Instant-Coffee-Step-22-Version-6.jpg/-crop-126-120-126px-Make-Instant-Coffee-Step-22-Version-6.jpg)
+
+How to  
+Brew a Cup of Instant Coffee: 5 Delicious Methods](https://www.wikihow.com/Make-Instant-Coffee)
+
+[![Text a Guy Without Looking Desperate](https://www.wikihow.com/images/thumb/e/ef/Text-a-Guy-Without-Looking-Desperate-Step-12.jpg/-crop-126-120-126px-Text-a-Guy-Without-Looking-Desperate-Step-12.jpg)
+
+How to  
+Text a Guy Without Looking Desperate](https://www.wikihow.com/Text-a-Guy-Without-Looking-Desperate)
+
 [![Palm Reading Love Line](https://www.wikihow.com/images/thumb/2/2d/Palm-Reading-Love-Line-Step-13.jpg/-crop-126-120-126px-Palm-Reading-Love-Line-Step-13.jpg)
 
 A Complete Guide to Reading and Understanding Your Love Lines](https://www.wikihow.com/Palm-Reading-Love-Line)
@@ -147,16 +157,6 @@ A Complete Guide to Reading and Understanding Your Love Lines](https://www.wikih
 
 How to  
 Become Valedictorian](https://www.wikihow.com/Become-Valedictorian)
-
-[![Take Better Notes](https://www.wikihow.com/images/thumb/9/90/Take-Better-Notes-Step-14-Version-3.jpg/-crop-126-120-126px-Take-Better-Notes-Step-14-Version-3.jpg)
-
-How to  
-Take Better Notes](https://www.wikihow.com/Take-Better-Notes)
-
-[![Take Care of a Ladybug](https://www.wikihow.com/images/thumb/2/25/Take-Care-of-a-Ladybug-Step-11.jpg/-crop-126-120-126px-Take-Care-of-a-Ladybug-Step-11.jpg)
-
-How to  
-Feed and Care for a Ladybug](https://www.wikihow.com/Take-Care-of-a-Ladybug)
 
   
 
@@ -199,4 +199,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-142
+148
