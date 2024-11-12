@@ -475,6 +475,8 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
     
 * [Social Media Glossary](https://embedsocial.com/social-media-glossary/)
     
+* [Become a Partner](https://embedsocial.com/partner-program/)
+    
 
 ### Tutorials
 
