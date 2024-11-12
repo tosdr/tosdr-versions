@@ -102,10 +102,10 @@ PINGDOM\_CANARY\_STRINGSkip to Content
 
 * English
     
-    * [Deutsch](https://lucid.co/de)
-    * [English](https://lucid.co/)
+    * [Deutsch](https://lucid.co/de/cookies)
+    * [English](https://lucid.co/cookies)
     * [Español](https://lucid.co/es)
-    * [Français](https://lucid.co/fr)
+    * [Français](https://lucid.co/fr/cookies)
     * [Italiano](https://lucid.co/it)
     * [日本語](https://lucid.co/ja)
     * [한국인](https://lucid.co/ko)
