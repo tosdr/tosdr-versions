@@ -165,7 +165,6 @@ Primary Navigation
         * [Export Finance Managers](https://www.sba.gov/local-assistance/export-trade-assistance/export-finance-managers)
         * [U.S. Export Assistance Centers](https://www.sba.gov/local-assistance/export-trade-assistance/us-export-assistance-centers)
     * [Federal contracting assistance](https://www.sba.gov/local-assistance/federal-contracting-assistance)
-    * [Community Navigators](https://www.sba.gov/local-assistance/community-navigators)
     * [Regional Innovation Clusters](https://www.sba.gov/local-assistance/regional-innovation-clusters)
     * [Veterans Business Development Officers](https://www.sba.gov/local-assistance/veterans-business-development-officers)
     
