@@ -115,8 +115,6 @@ You can review their privacy and cookie policy [here](https://www.snigel.com/pri
 
 * * *
 
-Last Updated on November 14, 2023 by Media Bias Fact Check
-
 * * *
 
 #### **Do you appreciate our work? Please consider one of the following ways to sustain us.**
@@ -153,6 +151,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [SarahWestall.com – Bias and Credibility](https://mediabiasfactcheck.com/sarahwestall-com-bias-and-credibility/)
+    
+    November 12, 2024
+    
+* [RTV Slovenija – Bias and Credibility](https://mediabiasfactcheck.com/rtv-slovenija-bias-and-credibility/)
+    
+    November 12, 2024
+    
 * [Students For Liberty (SFL) – Bias and Credibility](https://mediabiasfactcheck.com/students-for-liberty-sfl-bias-and-credibility/)
     
     November 12, 2024
@@ -177,36 +183,28 @@ No related posts.
     
     November 11, 2024
     
-* [Swindon Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/swindon-advertiser-bias/)
-    
-    November 11, 2024
-    
-* [Technology Networks – Bias and Credibility](https://mediabiasfactcheck.com/technology-networks-bias-and-credibility/)
-    
-    November 10, 2024
-    
 
 #### Recently Updated Pages
 
-* [Students For Liberty (SFL) – Bias and Credibility](https://mediabiasfactcheck.com/students-for-liberty-sfl-bias-and-credibility/ "View Students For Liberty (SFL) – Bias and Credibility") - November 12, 2024
+* [ScienceDirect – Bias and Credibility](https://mediabiasfactcheck.com/sciencedirect/ "View ScienceDirect – Bias and Credibility") - November 12, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 12, 2024
+* [RT News (RT.Com) – Bias and Credibility](https://mediabiasfactcheck.com/rt-news/ "View RT News (RT.Com) – Bias and Credibility") - November 12, 2024
     
-* [North Pocono News – Bias and Credibility](https://mediabiasfactcheck.com/north-pocono-news-bias/ "View North Pocono News – Bias and Credibility") - November 12, 2024
+* [Benton Times – Bias and Credibility](https://mediabiasfactcheck.com/benton-times/ "View Benton Times – Bias and Credibility") - November 12, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 12, 2024
+* [Mint Press News – Bias and Credibility](https://mediabiasfactcheck.com/mint-press-news/ "View Mint Press News – Bias and Credibility") - November 12, 2024
     
-* [Journal of Politics and Society – Bias and Credibility](https://mediabiasfactcheck.com/journal-of-politics-and-society/ "View Journal of Politics and Society – Bias and Credibility") - November 12, 2024
+* [Bemidji Pioneer – Bias and Credibility](https://mediabiasfactcheck.com/bemidji-pioneer-bias/ "View Bemidji Pioneer – Bias and Credibility") - November 12, 2024
     
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 11, 2024
+* [Bedford Times-Mail – Bias and Credibility](https://mediabiasfactcheck.com/bedford-times-mail-bias/ "View Bedford Times-Mail – Bias and Credibility") - November 12, 2024
     
-* [Salisbury Review – Bias and Credibility](https://mediabiasfactcheck.com/salisbury-review-bias-and-credibility/ "View Salisbury Review – Bias and Credibility") - November 11, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 12, 2024
     
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 11, 2024
+* [America Max News – Bias and Credibility](https://mediabiasfactcheck.com/america-max-news/ "View America Max News – Bias and Credibility") - November 12, 2024
     
-* [Mediaite – Bias and Credibility](https://mediabiasfactcheck.com/mediaite/ "View Mediaite – Bias and Credibility") - November 11, 2024
+* [Investopedia – Bias and Credibility](https://mediabiasfactcheck.com/investopedia/ "View Investopedia – Bias and Credibility") - November 12, 2024
     
-* [Public Interest Research Group (PIRG) – Bias and Credibility](https://mediabiasfactcheck.com/public-interest-research-group-pirg-bias-and-credibility/ "View Public Interest Research Group (PIRG) – Bias and Credibility") - November 11, 2024
+* [Psychology Today – Bias and Credibility](https://mediabiasfactcheck.com/psychology-today/ "View Psychology Today – Bias and Credibility") - November 12, 2024
     
 
 #### Today’s Top Page Views
@@ -217,10 +215,10 @@ No related posts.
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [MBFC's Daily Vetted Fact Checks for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/mbfcs-daily-vetted-fact-checks-for-11-11-2024/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
