@@ -95,68 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/byhomosapiens_1400x1050.jpg)](https://www.icr.org/article/built-by-homo-sapiens)
-
-[Built by Homo sapiens?](https://www.icr.org/article/built-by-homo-sapiens/)
-
-Preserved wood was recently found in Kalambo Falls, Zambia, where evolutionary anthropologists from Aberystwyth University and the University of Liverpool...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/eightarmed_1400x1050.jpg)](https://www.icr.org/article/eight-armed-anomaly)
-
-[Eight-Armed Anomaly](https://www.icr.org/article/eight-armed-anomaly/)
-
-Octopi are incredible and intelligent creatures—they are mesmerizing to observe and study. Some of octopi’s interesting features include...
-
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
-
-[![](/i/Main%20Stage%20-%201400x1050/OldestMeal_1400x1050)](https://www.icr.org/article/worlds-oldest-meal)
-
-[World's Oldest Meal](https://www.icr.org/article/worlds-oldest-meal/)
-
-The Ediacara biota is a sporadic faunal (animal) stage containing unique soft-bodied fossil creatures in sandstone from the Ediacaran System dating...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
-
-The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
-
-$2.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
-
-The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
-
-The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
-
-$34.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373091/file.jpg)
-
-The Ice Age Real and Recent](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent.html)
-
-$7.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/14549604/file.jpg)
-
-The Climate Change Conflict: Keeping Cool Over Global Warming - eBook](https://store.icr.org/the-climate-change-conflict-keeping-cool-o.html)
-
-$2.99
-
-$7.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
