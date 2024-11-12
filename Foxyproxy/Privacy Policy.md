@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is great, and I have no complaints. I have renewed the service with you 4 times now! Cheers.
+I only subscribed for a month just to test the connection speed and see if I could enjoy movies without interruption. The movies load seamlessly and the connection proved 100% reliable. I will be renewing!
 
-Chris Jones
+Diane Walden
