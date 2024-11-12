@@ -1,4 +1,4 @@
-[Skip to content](#content)
+[Skip to content](#content)[Skip to Accessibility Statement](https://simplisafe.com/legal/accessibility_statement)
 
 [](https://simplisafe.com/)
 
