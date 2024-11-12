@@ -80,6 +80,8 @@ Close Menu
 
 [Return](https://www.theblaze.com/return/)
 
+[Frontier](https://www.theblaze.com/frontier/)
+
 SECTIONS
 
 [News](https://www.theblaze.com/news/)[Opinion](https://www.theblaze.com/columns/)[Lifestyle](https://www.theblaze.com/align/)[Tech](https://www.theblaze.com/return/)[Fearless](https://www.theblaze.com/fearless/)
@@ -89,6 +91,10 @@ SECTIONS
 [RADIO](https://www.theblaze.com/st/radio)
 
 [PODCASTS](https://www.theblaze.com/podcasts/)
+
+FRONTIER MAG
+
+[Archive](https://www.theblaze.com/frontier1/archive/)[Prints](https://www.theblaze.com/frontier1/prints/)[About](https://www.theblaze.com/frontier/about/about-frontier)[Subscribe](https://www.blazeunlimited.com/)
 
 [BLAZETV](https://www.blazetv.com/)
 
