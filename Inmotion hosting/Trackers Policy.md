@@ -76,14 +76,16 @@ Close Menu Main Menu
 
 [Trust Center](https://www.inmotionhosting.com/privacy)
 
-_Last Updated: January 1, 2023  
-_
+**Cookie Policy**
+=================
 
-This InMotion Hosting, Inc.(“Company”) Cookie Policy (“Policy”) describes the cookies, web beacons, pixels, tags, scripts, tracking technologies and other similar technologies used by Company to collect information to enhance visitor experience in the course of Company’s business, including through Company’s websites, services, applications, tools and/or messaging (collectively, “Websites”). This Policy also explains a visitor, user or Company’s customer’s (collectively, “User”) rights to control a User’s access and use of the tracking technology(ies) used on the Websites. For additional information about Company’s privacy practices, please review Company’s [Privacy Policy](https://www.inmotionhosting.com/privacy/)
+_Last Updated: November 1, 2024_
 
-By continuing to visit or use the Websites and any webpage(s) within the Websites, each User acknowledges and agrees to the use of cookies, tracking technologies and other similar technologies, and further agrees to abide by the terms of the [Universal Terms of Service](https://www.inmotionhosting.com/legal/), Privacy Policy, and/or any other terms and policies posted on the Website.  
+This Cookie Policy (“Policy”) describes the cookies, web beacons, pixels, tags, scripts, tracking technologies and other similar technologies used by InMotion Hosting, Inc., its parent, subsidiaries, affiliates, and brands (collectively, “Company”) to collect information to enhance visitor experience in the course of Company’s business, including through Company’s websites, services, applications, tools and/or messaging (collectively, “Websites”). This Policy also explains a visitor, user or Company’s customer’s (collectively, “User”) rights to control a User’s access and use of the tracking technology(ies) used on the Websites. For additional information about Company’s privacy practices, please review Company’s [Privacy Policy](https://www.inmotionhosting.com/privacy/).
 
-**User is in control****:** Other than cookies, tracking technologies and other similar technologies that are considered “essential” (see below), if a User does not wish to accept these technologies in connection with visiting and/or using the Websites, User may decline implementation of such technologies (via Company’s cookie pop-up on first visit to the Websites, and/or may also exercise any of the additional options that are described below.
+By continuing to visit or use the Websites, Products, and any webpage(s) within the Websites, each User acknowledges and agrees to the use of cookies, tracking technologies and other similar technologies, and further agrees to abide by the terms of the [Universal Terms of Service](https://www.inmotionhosting.com/legal/), Privacy Policy, and/or any other terms and policies posted on the Website.  
+
+**User is in control:** Other than cookies, tracking technologies and other similar technologies that are considered “essential” (see below), if a User does not wish to accept these technologies in connection with visiting and/or using the Websites, User may decline implementation of such technologies (via Company’s cookie pop-up on first visit to the Websites, and/or may also exercise any of the additional options that are described below.
 
 **What are cookies, web beacons and similar technologies?** These technologies are essentially small data files placed on a User’s computer, web-based tablet, mobile phone or other web-based electronic device (“collectively, a “Device”) that allows Company to record information when User visits or interacts with the Websites. Though often these technologies are generically referred to as “Cookies,” each functions slightly differently, and is better explained below.
 
@@ -97,7 +99,7 @@ By continuing to visit or use the Websites and any webpage(s) within the Website
 
 * “Third-Party Cookies” are cookies created by third-parties outside of Company’s control and the outside of the Website(s).
 
-**Company’s Use of Cookies:**Cookies, tracking technologies and other similar technologies are integral to the functionality of the Website(s) including, but not limited to, Company user experience, chat interface, shopping cart, and targeted advertising. Company also uses cookies, tracking technologies and other similar technologies to improve the performance of or provide User with extra functionality while on the Website(s).Cookies utilized include: 
+**Company’s Use of Cookies:** Cookies, tracking technologies and other similar technologies are integral to the functionality of the Website(s) including, but not limited to, Company user experience, chat interface, shopping cart, and targeted advertising. Company also uses cookies, tracking technologies and other similar technologies to improve the performance of or provide User with extra functionality while on the Website(s).Cookies utilized include: 
 
 * Strictly Necessary Cookies 
 * Performance Cookies 
