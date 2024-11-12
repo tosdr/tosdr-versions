@@ -464,31 +464,10 @@ We reserve the right to amend this privacy policy. The current version of the pr
 
 Last update: July 2024
 
-LanguageEnglish
+English
 
-* [Deutsch](https://www.deepl.com/de/privacy "Deutsch")
-* [English](https://www.deepl.com/en/privacy "English")
-* [Español](https://www.deepl.com/es/privacy "Español")
-* [日本語](https://www.deepl.com/ja/privacy "日本語")
-* [Français](https://www.deepl.com/fr/privacy "Français")
-* [Italiano](https://www.deepl.com/it/privacy "Italiano")
-* [Bahasa Indonesia](https://www.deepl.com/id/privacy "Bahasa Indonesia")
-* [한국어](https://www.deepl.com/ko/privacy "한국어")
-* [Nederlands](https://www.deepl.com/nl/privacy "Nederlands")
-* [Čeština](https://www.deepl.com/cs/privacy "Čeština")
-* [Svenska](https://www.deepl.com/sv/privacy "Svenska")
-* [Polski](https://www.deepl.com/pl/privacy "Polski")
-* [Português (Brasil)](https://www.deepl.com/pt-BR/privacy "Português (Brasil)")
-* [Português](https://www.deepl.com/pt-PT/privacy "Português")
-* [Türkçe](https://www.deepl.com/tr/privacy "Türkçe")
-* [Русский](https://www.deepl.com/ru/privacy "Русский")
-* [简体中文](https://www.deepl.com/zh/privacy "简体中文")
-* [Українська](https://www.deepl.com/uk/privacy "Українська")
-* [العربية](https://www.deepl.com/ar/privacy "العربية")
-
-[![DeepL](https://static.deepl.com/img/_optimized/footer/deeplLogo.svg)](https://www.deepl.com/en/translator)
-
-* Resources
+* ### Resources
+    
 * [Help Center](https://support.deepl.com/hc/en-us)
 * [Blog](https://www.deepl.com/en/blog)
 * [API documentation](https://developers.deepl.com/docs)
@@ -497,7 +476,8 @@ LanguageEnglish
 * [Privacy policy](https://www.deepl.com/en/privacy)
 * [Terms & Conditions](https://www.deepl.com/en/pro-license)
 
-* Product
+* ### Product
+    
 * [**NEW:** Arabic translator](https://www.deepl.com/en/translator/l/en/ar)
 * [Free translator](https://www.deepl.com/en/translator)
 * [Features](https://www.deepl.com/en/features)
@@ -507,7 +487,8 @@ LanguageEnglish
 * [Apps](https://www.deepl.com/en/app)
 * [Document Translation](https://www.deepl.com/en/features/document-translation)
 
-* Download
+* ### Download
+    
 * [DeepL for Android](https://www.deepl.com/en/android-app)
 * [DeepL for ChromeOS](https://www.deepl.com/en/android-app)
 * [DeepL for iPhone](https://www.deepl.com/en/ios-app)
@@ -522,10 +503,13 @@ LanguageEnglish
 * [DeepL for Microsoft 365](https://www.deepl.com/en/microsoft-365)
 * [DeepL Integrations](https://www.deepl.com/en/integrations)
 
-* Company
+* ### Company
+    
 * [Contact Sales](https://www.deepl.com/en/contact-us)
 * [Press](https://www.deepl.com/en/press)
 * [Careers](https://www.deepl.com/careers?source=DeepLFooter)
 * [Publisher](https://www.deepl.com/en/publisher)
 
-[![twitter](https://static.deepl.com/img/_optimized/footer/twitterLogo.svg)](https://twitter.com/DeepLcom)[![facebook](https://static.deepl.com/img/_optimized/footer/facebookLogo.svg)](https://www.facebook.com/DeepLcom/)[![linkedin](https://static.deepl.com/img/_optimized/footer/linkedinLogo.svg)](https://www.linkedin.com/company/linkedin-com-company-deepl/)[![github](https://static.deepl.com/img/_optimized/footer/githubLogo.svg)](https://github.com/DeepLcom)[![instagram](https://static.deepl.com/img/_optimized/footer/instagramLogo.svg)](https://www.instagram.com/deeplhq/)
+[](https://www.deepl.com/en/translator)
+
+[](https://twitter.com/DeepLcom)[](https://www.facebook.com/DeepLcom/)[](https://www.linkedin.com/company/linkedin-com-company-deepl/)[](https://github.com/DeepLcom)[](https://www.instagram.com/deeplhq/)
