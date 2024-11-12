@@ -1304,8 +1304,8 @@ No unauthorized access
 
 Offer ends December 3rd
 
-Get 80% OFF all our Premium Plans
----------------------------------
+Get an exclusive discount!
+--------------------------
 
 Special offer: store files in privacy for less.
 
