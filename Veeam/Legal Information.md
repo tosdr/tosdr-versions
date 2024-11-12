@@ -81,6 +81,15 @@ Menu
     * [Backup _for Microsoft Azure_](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-portfolio)
     * [Backup _for Google Cloud_](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-products-portfolio)
     
+           ![Banner vdp illustration](https://cdn.veeam.com/content/dam/veeam/en/public/images/illustration_announcement_vdc_vault_v2.png.web.1920.1920.webp?ck=1730921225605)
+    
+    ### **Hello Veeam Vault. So long bill shock.**
+    
+    Secure cloud storage that’s just a few clicks away.    
+    Predictable, all-inclusive pricing now starting at $14 per TB
+    
+    [Start saving now](https://www.veeam.com/products/veeam-data-cloud/cloud-storage-vault.html?ad=menu-products-vdp)
+    
     Data Resilience By Veeam
     
     [Comprehensive data resilience for hybrid, multi-cloud and SaaS data](https://www.veeam.com/products/veeam-portfolio.html?ad=menu-products-portfolio-data-resilience)
@@ -333,7 +342,6 @@ Menu
     * [Press Releases](https://www.veeam.com/company/press-release.html?ad=menu-company)
     * [Recognition](https://www.veeam.com/company/awards.html?ad=menu-company)
     * [Brand Resource Center](https://www.veeam.com/company/brand-resource-center.html?ad=menu-company)
-    * [Veeam Data Resilience Awards](https://www.veeam.com/company/veeam-data-resilience-awards.html?ad=menu-company)
     
     Trust Center
     
