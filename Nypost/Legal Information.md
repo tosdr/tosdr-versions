@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Verizon Fios internet outages impact millions on East Coast](https://nypost.com/2024/11/12/us-news/verizon-fios-internet-outages-impact-millions-on-east-coast/)
+
 Privacy Notice Highlights
 =========================
 
