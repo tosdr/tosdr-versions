@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Empires: 2024 REVIVED IC (310)](https://forum.nationstates.net/viewtopic.php?t=557841&f=31&view=unread#unread ""Empires: 2024 REVIVED IC" (310 posts)")
-* [The country game(a roleplay) (8,438)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (8,438 posts)")
-* [American Politics: Turnabout Trump (3,535)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,535 posts)")
-* [\[Abortion Thread\] To rules? To conseq… (1,657)](https://forum.nationstates.net/viewtopic.php?t=549913&f=20&view=unread#unread ""[Abortion Thread] To rules? To consequences!" (1,657 posts)")
-* [Where do Democrats go from here? (578)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (578 posts)")
+* [The Collective Security League Assemb… (1,429)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,429 posts)")
+* [Using the AN's flag, how do they deal… (8,727)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,727 posts)")
+* [Rewrite AN's motto based on their...… (728)](https://forum.nationstates.net/viewtopic.php?t=542020&f=25&view=unread#unread ""Rewrite AN's motto based on their... banner?" (728 posts)")
+* [American Politics: Turnabout Trump (3,628)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (3,628 posts)")
+* [How dangerous is AN to world peace? (605)](https://forum.nationstates.net/viewtopic.php?t=554384&f=25&view=unread#unread ""How dangerous is AN to world peace?" (605 posts)")
 
 Advertisement
 
