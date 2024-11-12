@@ -603,6 +603,7 @@ Sign up and enjoy these benefits!
 * [Trademarks](https://www.netgear.com/about/trademarks/)
 * [Webinars](https://www.netgear.com/about/webinars/)
 * [Partners](https://www.netgear.com/about/partners/)
+* [Service Providers](https://www.netgear.com/about/partner-solutions/)
 * [Warranty Information](https://www.netgear.com/about/warranty/)
 * [UK Tax Strategy](https://www.netgear.com/about/tax-strategy/)
 * [Legacy Arlo Products](https://www.netgear.com/about/legacyarloproducts/)
