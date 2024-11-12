@@ -100,9 +100,9 @@ Starting at
 
 $0.2/GB](https://www.webshare.io/verified-proxy)
 
-[Compare Our plans
+[Compare Products
 
-"Explore and Choose the Best Proxy Plan for Your Needs"](https://www.webshare.io/product-comparison)
+Find the Best Plan for Your Needs](https://www.webshare.io/product-comparison)
 
 Features
 
