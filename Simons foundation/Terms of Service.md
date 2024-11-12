@@ -71,10 +71,11 @@ About
     * [Presents](https://www.simonsfoundation.org/sf-events/?type=simons-foundation-presents)
 * About
     * [About Us](https://www.simonsfoundation.org/about)
+    * [Annual Report](https://www.simonsfoundation.org/annual-reports)
+    * [Leadership](https://www.simonsfoundation.org/leadership)
+    * [Our History](https://www.simonsfoundation.org/about/our-history)
     * [Media Relations](https://www.simonsfoundation.org/media-relations)
     * [Brand Portal](https://www.simonsfoundation.org/about/brand-portal)
-    * [Leadership](https://www.simonsfoundation.org/leadership)
-    * [Annual Report](https://www.simonsfoundation.org/annual-reports)
     * [Diversity, Equity & Inclusion](https://www.simonsfoundation.org/diversity-equity-inclusion)
     * [Careers](https://www.simonsfoundation.org/careers)
     * [Summer at Simons](https://www.simonsfoundation.org/summer-at-simons)
@@ -836,13 +837,15 @@ Continue
     
     * [About Us](https://www.simonsfoundation.org/about/)
         
-    * [Media Relations](https://www.simonsfoundation.org/media-relations/)
-        
-    * [Brand Portal](https://www.simonsfoundation.org/about/brand-portal/)
+    * [Annual Report](https://www.simonsfoundation.org/annual-reports/)
         
     * [Leadership](https://www.simonsfoundation.org/leadership/)
         
-    * [Annual Report](https://www.simonsfoundation.org/annual-reports/)
+    * [Our History](https://www.simonsfoundation.org/about/our-history/)
+        
+    * [Media Relations](https://www.simonsfoundation.org/media-relations/)
+        
+    * [Brand Portal](https://www.simonsfoundation.org/about/brand-portal/)
         
     * [Diversity, Equity & Inclusion](#)
         
