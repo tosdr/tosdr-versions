@@ -29,15 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1731348416.png.pagespeed.ic.hQETp6pFjB.png)
+[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
 
-MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1731370671.png.pagespeed.ce.4K26pX4nDP.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
+feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![KoalaServers](plugins/MineCraft/icons/25x25xKoalaServers_1717903318.png.pagespeed.ic.D0QllTPRc1.png)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!](https://minecraft-server.net/details/KoalaServers/ "KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!") [BuildixMC](https://minecraft-server.net/details/Buildix1/ "BuildixMC")
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+
+1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -123,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.064 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06853 - Created by [Debaucus](https://debauc.us/)
