@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Swirling Polar Vortices Likely Exist On the Sun](https://www.sciencedaily.com/releases/2024/11/241111155235.htm)
 * [Universal Scale: Testing Einstein's Predictions](https://www.sciencedaily.com/releases/2024/11/241111123136.htm)
 * [Secret Behind Corpse Flower's Famous Stench](https://www.sciencedaily.com/releases/2024/11/241111122833.htm)
 * [Storm in a Laser Beam](https://www.sciencedaily.com/releases/2024/11/241111123307.htm)
@@ -238,7 +239,6 @@ this hour
 * [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
 * [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
 * [Denisovans Interbred With Modern Humans](https://www.sciencedaily.com/releases/2024/11/241108113302.htm)
-* [Elephant Turns Hose Into Showering Tool](https://www.sciencedaily.com/releases/2024/11/241108113209.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[K-12 Education](https://www.sciencedaily.com/news/mind_brain/k-12_education/)
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
-[Bird Flu](https://www.sciencedaily.com/news/health_medicine/bird_flu/)
+[K-12 Education](https://www.sciencedaily.com/news/mind_brain/k-12_education/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,15 +261,15 @@ this week
 
 [Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
-[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
+[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
-
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+
+[Veterinary Medicine](https://www.sciencedaily.com/news/plants_animals/veterinary_medicine/)
 
   
 
