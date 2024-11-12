@@ -338,6 +338,7 @@ Company
 * [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
+* [Sponsoring Open Source Projects](https://www.dotcom-monitor.com/sponsoring-open-source-projects/)
 
 Menu
 
@@ -348,6 +349,7 @@ Menu
 * [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
+* [Sponsoring Open Source Projects](https://www.dotcom-monitor.com/sponsoring-open-source-projects/)
 
 [![Google Play Download](https://www.dotcom-monitor.com/wp-content/uploads/android-download-app.png)](https://play.google.com/store/apps/details?id=com.dotcom_monitor.monitor)
 
@@ -410,6 +412,7 @@ Company
 * [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
+* [Sponsoring Open Source Projects](https://www.dotcom-monitor.com/sponsoring-open-source-projects/)
 
 * [About](https://www.dotcom-monitor.com/about/)
 * [Contact Us](https://www.dotcom-monitor.com/contact/)
@@ -418,6 +421,7 @@ Company
 * [Partners and Integrations](https://www.dotcom-monitor.com/integrations/)
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
+* [Sponsoring Open Source Projects](https://www.dotcom-monitor.com/sponsoring-open-source-projects/)
 
 RESOURCES
 
