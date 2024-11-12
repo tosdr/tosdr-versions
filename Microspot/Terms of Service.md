@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/3819.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -123,11 +123,11 @@ Gadgets](https://www.microspot.ch/fr/cms/gadget)
 
 Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
-![CM4_300x150_Fitness.png](/medias/CM4-300x150-Fitness.png?context=bWFzdGVyfGNtc3wxMTc2fGltYWdlL3BuZ3xZMjF6TDJnME1DOW9aak12UTAwMFh6TXdNSGd4TlRCZlJtbDBibVZ6Y3k1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdWNHNW58MjE1NjE0Njg0ZDk4YzMzYmE4Mzk1N2M3YzUyODdkYjMwZTM4MmY4NzBjMWNiY2YwODM1YjgyZmM5NTJhMWE2NQ)
+[![CM4_300x150_Fitness.png](/medias/CM4-300x150-Fitness.png?context=bWFzdGVyfGNtc3wxMTc2fGltYWdlL3BuZ3xZMjF6TDJnME1DOW9aak12UTAwMFh6TXdNSGd4TlRCZlJtbDBibVZ6Y3k1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdWNHNW58MjE1NjE0Njg0ZDk4YzMzYmE4Mzk1N2M3YzUyODdkYjMwZTM4MmY4NzBjMWNiY2YwODM1YjgyZmM5NTJhMWE2NQ)
 
 Bouger
 
-Se lever. Bouger. Faire de l’exercice.
+Se lever. Bouger. Faire de l’exercice.](https://www.microspot.ch/fr/cms/fitness)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
 
@@ -213,13 +213,13 @@ Achetez comme vous aimez
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
+[Commandé aujourd'hui avant 20h
+
+livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
 [Garantie Plus
 
 prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
