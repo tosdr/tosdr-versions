@@ -1,45 +1,189 @@
-![Pobox Logo](https://www.pobox.com/images/logo.png)
+[Home](https://www.pobox.com/)
 
-We're signing off!
-==================
+ Open menu Hide menu
 
-Pobox is becoming part of Fastmail! You can see our [help page about this](https://www.fastmail.help/hc/en-us/articles/9822848635919-Guide-to-Fastmail-for-Pobox-users) for more information. Right now, we're doing the final bit of work needed to finish the transition. Soon, this page will direct you to Fastmail and you can log into Fastmail with your Pobox credentials.
+* [Product tour](https://www.pobox.com/features/)
+* [For business](https://www.pobox.com/business/)
+* Support & Resources
+    
+    * Support
+        
+        * [Help center](https://fastmail.help/hc/en-us/)
+        * [Contact us](https://support.fastmail.com/support/)
+        * [System status](https://fastmailstatus.com/)
+        * [Report a security issue](https://www.pobox.com/bug-bounty/)
+    * How to
+        
+        * [Move from Gmail](https://www.pobox.com/how-to/move-from-gmail/)
+        * [Move from Outlook](https://www.pobox.com/how-to/move-from-outlook/)
+        * [Move from Yahoo](https://www.pobox.com/how-to/move-from-yahoo/)
+        * [Move from Proton](https://www.pobox.com/how-to/move-from-proton/)
+        * [Move from HEY](https://www.pobox.com/how-to/move-from-hey/)
+        * [Get email for your domain](https://www.pobox.com/how-to/email-for-your-domain/)
+        * [Stop spam](https://www.pobox.com/how-to/stop-spam/)
+        * [Achieve inbox zero](https://www.pobox.com/how-to/inbox-zero/)
+    * Resources
+        
+        * [Blog](https://www.pobox.com/blog/)
+        * [Podcast](https://www.pobox.com/digitalcitizen/)
+        * [About us](https://www.pobox.com/company/about/)
+        * [Our values](https://www.pobox.com/company/values/)
+        * [API Documentation](https://www.pobox.com/dev/)
+    * Download the app
+        
+        * [App Store Download Fastmail on the App Store](https://apps.apple.com/us/app/fastmail-email-calendar/id931370077)
+        * [Google Play Download Fastmail on Google Play](https://play.google.com/store/apps/details?id=com.fastmail.app)
+    
+* [Pricing](https://www.pobox.com/pricing/)
+* [Log in](https://app.fastmail.com/)[Try for free](https://app.fastmail.com/signup/)
 
-💙 See you there!
+* [Try for free](https://app.fastmail.com/signup/)
+* [Log in](https://app.fastmail.com/)
 
-* * *
+Pobox is now part of Fastmail
+=============================
 
-##### Services
+Pobox has been discontinued as a separate service, and all existing customers moved to the Fastmail platform.
 
-[Features](https://www.pobox.com/features)  
-[Personal Domains](https://www.pobox.com/domains)  
-[FAQs](https://www.pobox.com/faq)
+[Try free for 30 days](https://app.fastmail.com/signup/)
 
-##### Pricing
+No obligation, no credit card required.
 
-[Individuals](https://www.pobox.com/pricing)  
-[Groups](https://www.pobox.com/pricing-group#groups)
+![](/assets/images/Pobox-fXGl1C63nF-816.png) ![](/assets/images/Pobox-Sml-wkIPcD4B6_-963.png)
 
-##### Sign Up
+![](/assets/images/Pobox-vKxPNyVEs7-1480.png) ![](/assets/images/Pobox-Sml-GCbDDlJuEw-1024.png)
 
-[Create an Account](https://www.pobox.com/signup)  
-[Log In](https://www.pobox.com/login)
+We’re confident that your email experience will be richer, more secure, and more powerful than ever before.
+-----------------------------------------------------------------------------------------------------------
 
-##### Legal
+[### Are you a previous Pobox customer?
 
-[User Agreement](https://www.fastmail.com/policies/terms-of-service/)  
-[Privacy Policy](https://www.fastmail.com/policies/privacy/)
+We’ve emailed you everything you need to know, and you can read more about what this means for you.
 
-##### Help
+Learn more](https://www.fastmail.help/hc/en-us/articles/9822848635919-Guide-to-Fastmail-for-Pobox-users)[### Looking for a great new email address?
 
-[Contact Us](https://www.pobox.com/support)  
-[Help Section](https://www.pobox.help/hc/en-us)
+Sign up for a Fastmail account today and get a professional @pobox.com email address.
 
-##### Our Services
+Sign up](https://app.fastmail.com/signup/)
 
-[About Us](https://www.pobox.com/about)  
-[Fastmail Hosted Email](https://www.fastmail.com/)  
-[Topicbox Group Email](http://www.topicbox.com/)
+Mail
 
-Pobox Lifetime Email — In Love with Email Since 1995 • A member of the [Fastmail](https://www.fastmail.com/) family  
-Copyright © 1995-2024 IC Group; Fastmail Pty Ltd. All rights reserved.
+Contacts
+
+Calendar
+
+![](/assets/images/hero-pink-circle-xByO5ejY1o-1184.svg)
+
+![](/assets/images/hero-yellow-circle-jlapewW8LB-368.svg)
+
+![](/assets/images/hero-shapes-H_FJjwcKlj-1480.svg)
+
+![Screenshot of the Fastmail mail app](/assets/images/Mail-x1hgGorTMU-964.png) ![Screenshot of the Fastmail mail app](/assets/images/Mail-DM-vZq8sYdTKg-964.png)
+
+![Screenshot of the Fastmail contacts app](/assets/images/Contacts-VqNYywSbIt-964.png) ![Screenshot of the Fastmail contacts app](/assets/images/Contacts-DM-K5l7kZyYfw-964.png)
+
+![Screenshot of the Fastmail calendar app](/assets/images/Calendar-WT0_nC7W9P-964.png) ![Screenshot of the Fastmail calendar app](/assets/images/Calendar-DM-a7iAd_Mg70-964.png)
+
+![Screenshot of the Fastmail mail app](/assets/images/Mail-MPLlaZVg2M-468.png) ![Screenshot of the Fastmail mail app](/assets/images/Mail-DM-a65bdY14MA-468.png)
+
+![Screenshot of the Fastmail contacts app](/assets/images/Contacts-rugnv6kfYn-468.png) ![Screenshot of the Fastmail contacts app](/assets/images/Contacts-DM-6nuNfWk89F-468.png)
+
+![Screenshot of the Fastmail calendar app](/assets/images/Calendar-NuH9Dhyxz1-468.png) ![Screenshot of the Fastmail calendar app](/assets/images/Calendar-DM-iaywox8UHq-468.png)
+
+“I have used Fastmail for years and never had one problem. Not one.”
+
+“I migrated from Google Workspace to Fastmail and would never go back.”
+
+“I've been using Fastmail for more than ten years. I couldn't be happier.”
+
+Better isn’t easy to describe, but you know it when you see it
+--------------------------------------------------------------
+
+> Best alternative to Gmail and iCloud for email, calendars, and contacts!
+
+Jon Henshaw
+
+Founder of Coywolf
+
+![Profile picture of Jon Henshaw](/assets/images/jon-dYRma2b9cJ-177.png)
+
+> I have used Fastmail for years and found them consistently excellent.
+
+Dylan Beattie
+
+Creator of the Rockstar programming language
+
+![Profile picture of Dylan Beattie](/assets/images/dylan-PMASxJ4slF-177.png)
+
+> Fastmail rocks! It’s secure, private, independent, and has a Gmail transfer tool. You won’t regret the move.
+
+Vicky Brasseur
+
+Open source expert and author
+
+![Profile picture of Vicky Brasseur](/assets/images/vicky-0Xx3WRo1hN-177.png)
+
+mail app calendar app contacts app
+
+Take control of your inbox
+--------------------------
+
+Easily migrate your mail, calendars, and contacts.
+
+[Try free for 30 days](https://app.fastmail.com/signup/)
+
+Footer navigation
+-----------------
+
+Email and calendar made better
+
+### Product
+
+* [Product tour](https://www.pobox.com/features/)
+* [For business](https://www.pobox.com/business/)
+* [Pricing](https://www.pobox.com/pricing/)
+* [Security](https://www.pobox.com/features/security/)
+* [Privacy](https://www.pobox.com/features/privacy/)
+
+### How to
+
+* [Move from Gmail](https://www.pobox.com/how-to/move-from-gmail/)
+* [Move from Outlook](https://www.pobox.com/how-to/move-from-outlook/)
+* [Move from Yahoo](https://www.pobox.com/how-to/move-from-yahoo/)
+* [Move from Proton](https://www.pobox.com/how-to/move-from-proton/)
+* [Move from HEY](https://www.pobox.com/how-to/move-from-hey/)
+* [Get email for your domain](https://www.pobox.com/how-to/email-for-your-domain/)
+* [Stop spam](https://www.pobox.com/how-to/stop-spam/)
+* [Achieve inbox zero](https://www.pobox.com/how-to/inbox-zero/)
+
+### Support & Resources
+
+* [Blog](https://www.pobox.com/blog/)
+* [Podcast](https://www.pobox.com/digitalcitizen/)
+* [Help center](https://fastmail.help/hc/en-us/)
+* [Contact us](https://support.fastmail.com/support/)
+* [API Documentation](https://www.pobox.com/dev/)
+* [Report a security issue](https://www.pobox.com/bug-bounty/)
+
+### Company
+
+* [About us](https://www.pobox.com/company/about/)
+* [Our values](https://www.pobox.com/company/values/)
+* [Careers](https://apply.workable.com/fastmail-1/)
+* [Open source and standards](https://www.pobox.com/company/open-source/)
+* [Partner with us](https://www.pobox.com/company/partners/)
+* [Policies](https://www.pobox.com/policies/)
+* [Media kit](https://www.pobox.com/media-kit/)
+
+* © 2024 Fastmail Pty Ltd. All rights reserved.
+* [System status](https://fastmailstatus.com/)
+* [Terms of service](https://www.pobox.com/policies/terms-of-service/)
+* [Privacy policy](https://www.pobox.com/policies/privacy/)
+
+* [Mastodon](https://mastodon.social/@fastmail)
+* [X](https://twitter.com/Fastmail)
+* [LinkedIn](https://www.linkedin.com/company/fastmail)
+* [Facebook](https://www.facebook.com/Fastmail/)
+
+* [![Google Play](/assets/images/play-store-xVSTSrGeMY-135.svg)](https://play.google.com/store/apps/details?id=com.fastmail.app)
+* [![App Store](/assets/images/app-store-E13IYxQxPU-120.svg)](https://apps.apple.com/us/app/fastmail-email-calendar/id931370077)
