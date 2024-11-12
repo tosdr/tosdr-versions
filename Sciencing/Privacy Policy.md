@@ -14,6 +14,7 @@
     * [Electronics](https://sciencing.com/category/electronics/)
 * [Features](https://sciencing.com/category/features/)
 
+* [](https://flipboard.com/@Sciencing2024 "Flipboard")
 * [](https://sciencing.com/feed/ "RSS")
 * [Advertise](https://static.com/advertise "Advertise")
 
@@ -32,6 +33,7 @@ Privacy Policy
 
 [Science](https://sciencing.com/category/science/) [Math](https://sciencing.com/category/math/) [Technology](https://sciencing.com/category/technology/) [Features](https://sciencing.com/category/features/)
 
+* [](https://flipboard.com/@Sciencing2024 "Flipboard")
 * [](https://sciencing.com/feed/ "RSS")
 * [Advertise](https://static.com/advertise "Advertise")
 
