@@ -188,11 +188,11 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Building Stuff: Reach It! Preview** | NOVA](https://video.nhpbs.org/video/building-stuff-reach-it-promo-o7sbok?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 4 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-4-scene-uuxbqy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Republicans closer to winning control of House and Senate** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1731361865?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Male Vote: The Dems' "Fatal Miscalculation" and What Trump Got Right** | Amanpour and Company](https://video.nhpbs.org/video/the-male-vote-the-dems-fatal-miscalculation-and-what-trump-got-right-ewkbjc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Porsche 911 Dakar & 2024 Hyundai Kona EV** | MotorWeek](https://video.nhpbs.org/video/2024-porsche-911-dakar-2024-hyundai-kona-ev-i0h5i0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Making of a Griot United States of Comedy, Ep 1** | Independent Lens](https://video.nhpbs.org/video/united-states-of-comedy-episode-1-bcjv5m?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Shorts: In Her Lane** | POV](https://video.nhpbs.org/video/pov-shorts-in-her-lane-b01awc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Atul Gawande on Leonardo's Scientific Genius** | Leonardo da Vinci](https://video.nhpbs.org/video/unum-chat-atul-gawande-xebbze?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Henry Mancini 100 at the Hollywood Bowl Preview** | Great Performances](https://video.nhpbs.org/video/henry-mancini-100-at-the-hollywood-bowl-preview-axuu8h?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
