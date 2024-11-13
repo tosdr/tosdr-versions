@@ -64,7 +64,7 @@ Häufig gesucht
 Hauptnavigation
 ---------------
 
-* [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de) 
+* [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de)
 * ### [Schwerpunkte der Bundesregierung](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung)  
     
 * ### [Bundeskanzler](https://www.bundeskanzler.de/bk-de "Externer Link: Internetseite des Bundeskanzlers (Öffnet neues Fenster)")
@@ -307,7 +307,7 @@ Beitrag teilen
 * [X per X teilen, Datenschutzhinweis](https://x.com/intent/post?text=Datenschutzhinweis&url=https://www.bundesregierung.de/breg-de/service/datenschutzhinweis/datenschutzhinweis-1532578&hashtags=Scholz,BuReg "per X teilen, Datenschutzhinweis")
 * Link kopieren
 
-1. [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de) 
+1. [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de)
 2. [Service](https://www.bundesregierung.de/breg-de/service)
 3. [Datenschutzhinweis](https://www.bundesregierung.de/breg-de/service/datenschutzhinweis)
 
