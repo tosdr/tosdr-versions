@@ -720,10 +720,10 @@ Unlock your PC's gaming potential. And yours too.
 
 * Products
     * [BlueStacks 5](https://www.bluestacks.com/bluestacks-5.html)
-    * [Windows 11 Knowledge Hub](https://windows11.bluestacks.com/)
-    * [Android 11](https://www.bluestacks.com/android-11.html)
-    * [nowbux](https://www.bluestacks.com/products/nowbux.html)
     * [Deals](https://www.bluestacks.com/products/deals.html)
+    * [Store](https://www.bluestacks.com/products/store.html)
+    * [nowbux](https://www.bluestacks.com/products/nowbux.html)
+    * [Android 11](https://www.bluestacks.com/android-11.html)
     * [Games](https://www.bluestacks.com/apps.html)
         * [All Games](https://www.bluestacks.com/apps.html)
         * [Top Games](https://www.bluestacks.com/top-games.html)
@@ -783,4 +783,4 @@ Unlock your PC's gaming potential. And yours too.
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
 
-[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy) | Do Not Sell My Information
+[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy)
