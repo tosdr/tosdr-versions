@@ -1,5 +1,3 @@
-[**Subscriptions to "Premium Option" will end very soon!** Click here for more information!](https://minecraft-mp.com/servers/premium/)
-
 General Terms And Conditions of Sale
 ====================================
 
