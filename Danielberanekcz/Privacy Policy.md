@@ -746,7 +746,7 @@ Křenová 313/79
 Česká republika  
 Web: [https://danielberanek.cz](https://danielberanek.cz/)  
 E-mail: danielberanek@gmail.com  
-Telefonní číslo: 724501041
+Phone number: 724501041
 
 [SEO?](https://danielberanek.cz/seo/)
 
