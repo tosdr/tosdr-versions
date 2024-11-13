@@ -177,4 +177,4 @@ Community
 
 [Terms of Use](http://www.growthbook.io/legal/website-user-tou/01-16-2024)[Privacy Notice](http://www.growthbook.io/legal/privacy-policy/12-05-2023)
 
-[](https://growthbookusers.slack.com/join/shared_invite/zt-25yiffda9-t39CS9_sGS7Q3PndiPTKxQ#/shared-invite/email)[](https://www.linkedin.com/company/growthbook/)[](https://twitter.com/growth_book)[](https://github.com/growthbook/)[](https://www.youtube.com/@growthbook5891)
+[](https://growthbookusers.slack.com/join/shared_invite/zt-25yiffda9-t39CS9_sGS7Q3PndiPTKxQ#/shared-invite/email)[](https://www.linkedin.com/company/growthbook/)[](https://twitter.com/growth_book)[](https://github.com/growthbook/)[](https://www.youtube.com/@growthbook-ab)
