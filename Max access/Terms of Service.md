@@ -4,7 +4,6 @@
 * [Features](https://maxaccess.io/features/)
 * [Pricing](https://maxaccess.io/pricing/)
 * [Plus](https://maxaccess.io/plus/)
-* [Demo](https://maxaccess.io/demo/)
 
 * [Home](https://maxaccess.io/)
 * [Contact](https://maxaccess.io/contact/)
@@ -177,7 +176,6 @@ The Terms of Service and the other documents specifically incorporated herein co
 If you need to contact us, please use the website [https://maxaccess.io/contact/](https://maxaccess.io/contact), or send us a letter at: 207 E 5th Ave, Suite 240 Eugene, Oregon 97401.
 
 * [Sign Up for Free](https://maxaccess.io/free/)
-* [Demo](https://maxaccess.io/demo/)
 * [Features](https://maxaccess.io/features/)
 * [Pricing](https://maxaccess.io/pricing/)
 * [Plus](https://maxaccess.io/plus/)
