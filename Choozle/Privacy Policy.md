@@ -376,6 +376,7 @@ Solution
 * [Managed + Self Service](https://choozle.com/managed-self-service)
 * [Retail Media](https://choozle.com/retail-media)
 * [Omnichannel](https://choozle.com/omnichannel/)
+* [Amazon DSP](https://choozle.com/amazon-dsp/)
 
 Channels
 
