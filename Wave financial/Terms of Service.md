@@ -97,6 +97,8 @@ For Canadian Businesses
 
 [Wave Payments](https://www.waveapps.com/legal/wave-payments-terms-of-service-canada) If you use Wave Payments, these terms apply.
 
+[FCAC Complaint Policy](https://www.waveapps.com/legal/fcac-complaint-handling) - If you have a complaint with respect to the [Code of Conduct for the Payment Card Industry in Canada](https://www.canada.ca/en/financial-consumer-agency/services/industry/laws-regulations/credit-debit-code-conduct.html), please review our policy.
+
 [Wave Payments Customers](https://www.waveapps.com/legal/wave-payment-service-ca) If you’re paying an invoice through Wave’s platform, these terms apply.
 
 [Wave Payroll](https://www.waveapps.com/legal/wave-payroll-terms-of-service-canada) If you use Wave Payroll, these terms apply.
