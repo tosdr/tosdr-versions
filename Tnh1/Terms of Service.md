@@ -41,6 +41,7 @@
 * [Saúde](https://www.tnh1.com.br/noticias/editoria/saude)
 * [Tecnologia](https://www.tnh1.com.br/noticias/editoria/tecnologia)
 * [Turismo](https://www.tnh1.com.br/noticias/editoria/turismo)
+* [Últimas](https://www.tnh1.com.br/noticias/ultimas/)
 * [Vídeos](https://www.tnh1.com.br/noticias/editoria/videos)
 * [Viver +](https://www.tnh1.com.br/noticias/editoria/viver)
 
