@@ -710,7 +710,7 @@ Language:EnglishDeutsch日本語FrançaisEspañol (España)Español (México)Ita
 
 [UK Statement of Investment Principles](https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/Conde_Nast_SIP_2023_8f829dedba.pdf)
 
-[Vendor Code of Conduct](https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/VENDOR_CODE_OF_CONDUCT_CN_0276cb44aa.pdf)
+[Vendor Code of Conduct](https://www.condenast.com/vendor-code-of-conduct)
 
 Condé Nast New York  
 1 World Trade Center  
