@@ -464,16 +464,16 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ##### Newsletters
 
-* [The Capitals](https://www.euractiv.com/newsletters)
+* [The Capitals](https://www.euractiv.com/the-capitals/)
+* [The Brief](https://www.euractiv.com/the-brief/)
 * [Europa Kompakt](https://www.euractiv.com/newsletters)
 * [L'Expresso](https://www.euractiv.com/newsletters)
 * [Le Capitali](https://www.euractiv.com/newsletters)
-* [Agrifood](https://www.euractiv.com/newsletters)
-* [Health](https://www.euractiv.com/newsletters)
-* [Technology](https://www.euractiv.com/newsletters)
-* [Energy, Environment and Transport](https://www.euractiv.com/newsletters)
+* [Agrifood Pro Brief](https://www.euractiv.com/euractiv-pro)
+* [Energy, Environment and Transport Pro Brief](https://www.euractiv.com/euractiv-pro)
+* [Health Pro Brief](https://www.euractiv.com/euractiv-pro)
+* [Technology Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Jobletter](https://www.euractiv.com/newsletters)
-* [Podcast](https://www.euractiv.com/newsletters)
 
 ##### Services
 
