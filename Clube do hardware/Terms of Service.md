@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1898519043_menu)
+ [Compartilhar](#elShareItem_277724182_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_420730429_menu)
+ [Compartilhar](#elShareItem_1383753011_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,6 +365,76 @@ Mais opções...
 
 * ### Últimos tópicos
     
+    * [![RapGusta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255925.thumb.jpeg.1980ff246bc29f137ccb97cc297a7189.jpeg)](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")
+        
+        0
+        
+        [Memória Xpg ou Kingston](https://www.clubedohardware.com.br/forums/topic/1702265-mem%C3%B3ria-xpg-ou-kingston/?do=getNewComment "Memória Xpg ou Kingston")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [RapGusta](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")  
+        1 hora atrás
+        
+    * [![alexxnunes](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4af%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/615193-alexxnunes/ "Ir ao perfil de alexxnunes")
+        
+        0
+        
+        [Recomendação de fonte barata e boa](https://www.clubedohardware.com.br/forums/topic/1702264-recomenda%C3%A7%C3%A3o-de-fonte-barata-e-boa/?do=getNewComment "Recomendação de fonte barata e boa")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [alexxnunes](https://www.clubedohardware.com.br/profile/615193-alexxnunes/ "Ir ao perfil de alexxnunes")  
+        1 hora atrás
+        
+    * [![Thallisson Colins](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/imported-photo-1143718.thumb.jpeg.a4439c8c00f4defa02f3f63fefdef80d.jpeg)](https://www.clubedohardware.com.br/profile/1143718-thallisson-colins/ "Ir ao perfil de Thallisson Colins")
+        
+        0
+        
+        [Sugestão de melhor Placa de Vídeo Custo beneficio para um Ryzen 5](https://www.clubedohardware.com.br/forums/topic/1702263-sugest%C3%A3o-de-melhor-placa-de-v%C3%ADdeo-custo-beneficio-para-um-ryzen-5/?do=getNewComment "Sugestão de melhor Placa de Vídeo Custo beneficio para um Ryzen 5")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Thallisson Colins](https://www.clubedohardware.com.br/profile/1143718-thallisson-colins/ "Ir ao perfil de Thallisson Colins")  
+        3 horas atrás
+        
+    * [![Space_Cadet](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255980.thumb.jpeg.67f93ce73e89930910cd65956e59386e.jpeg)](https://www.clubedohardware.com.br/profile/1255980-space_cadet/ "Ir ao perfil de Space_Cadet")
+        
+        2
+        
+        [Orçamento até R$5.200,00. Devo montar PC Gamer AM4 ou AM5?](https://www.clubedohardware.com.br/forums/topic/1702261-or%C3%A7amento-at%C3%A9-r520000-devo-montar-pc-gamer-am4-ou-am5/?do=getNewComment "Orçamento até R$5.200,00. Devo montar PC Gamer AM4 ou AM5?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Space\_Cadet](https://www.clubedohardware.com.br/profile/1255980-space_cadet/ "Ir ao perfil de Space_Cadet")  
+        4 horas atrás
+        
+    * [![João Victor ghard](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255982.thumb.png.b6b5300ad5389808496e9f8df5f89eae.png)](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")
+        
+        1
+        
+        [Ryzen 7 3700X, RX 7600 e Biostar B450MH com baixo desempenho em jogos](https://www.clubedohardware.com.br/forums/topic/1702260-ryzen-7-3700x-rx-7600-e-biostar-b450mh-com-baixo-desempenho-em-jogos/?do=getNewComment "Ryzen 7 3700X, RX 7600 e Biostar B450MH com baixo desempenho em jogos")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [João Victor ghard](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")  
+        4 horas atrás
+        
+    * [![leorauber](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2383c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255978-leorauber/ "Ir ao perfil de leorauber")
+        
+        0
+        
+        [arquivos estranhos na inicialização do sistema](https://www.clubedohardware.com.br/forums/topic/1702259-arquivos-estranhos-na-inicializa%C3%A7%C3%A3o-do-sistema/?do=getNewComment "arquivos estranhos na inicialização do sistema")
+        
+        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
+        Por [leorauber](https://www.clubedohardware.com.br/profile/1255978-leorauber/ "Ir ao perfil de leorauber")  
+        5 horas atrás
+        
+    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
+        
+        1
+        
+        [Como retirar esses pinos?](https://www.clubedohardware.com.br/forums/topic/1702258-como-retirar-esses-pinos/?do=getNewComment "Como retirar esses pinos?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
+        5 horas atrás
+        
     * [![Luiz Fernando Vieira](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-846421.thumb.jpeg.e89243418087f9e4e418f97bb5f31ba3.jpeg)](https://www.clubedohardware.com.br/profile/846421-luiz-fernando-vieira/ "Ir ao perfil de Luiz Fernando Vieira")
         
         0
@@ -373,7 +443,7 @@ Mais opções...
         
         [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
         Por [Luiz Fernando Vieira](https://www.clubedohardware.com.br/profile/846421-luiz-fernando-vieira/ "Ir ao perfil de Luiz Fernando Vieira")  
-        9 minutos atrás
+        6 horas atrás
         
     * [![Kleitom](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243020.thumb.jpeg.05d57f2d35a4731c2fccb7d6891932a4.jpeg)](https://www.clubedohardware.com.br/profile/1243020-kleitom/ "Ir ao perfil de Kleitom")
         
@@ -383,87 +453,17 @@ Mais opções...
         
         [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [Kleitom](https://www.clubedohardware.com.br/profile/1243020-kleitom/ "Ir ao perfil de Kleitom")  
-        18 minutos atrás
+        6 horas atrás
         
     * [![somavilla](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255973.thumb.jpeg.52b0ca4f9712017810ea1c6d9afb9ffb.jpeg)](https://www.clubedohardware.com.br/profile/1255973-somavilla/ "Ir ao perfil de somavilla")
         
-        2
+        4
         
         [Posso utilizar uma fonte de 500W com a RTX 3060 1-click OC?](https://www.clubedohardware.com.br/forums/topic/1702251-posso-utilizar-uma-fonte-de-500w-com-a-rtx-3060-1-click-oc/?do=getNewComment "Posso utilizar uma fonte de 500W com a RTX 3060 1-click OC?")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [somavilla](https://www.clubedohardware.com.br/profile/1255973-somavilla/ "Ir ao perfil de somavilla")  
-        23 minutos atrás
-        
-    * [![IuryChan12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1209319.thumb.png.8ef568b4e500a5b48bf0dc91cb082734.png)](https://www.clubedohardware.com.br/profile/1209319-iurychan12/ "Ir ao perfil de IuryChan12")
-        
-        0
-        
-        [achar um software de design de pcb específico](https://www.clubedohardware.com.br/forums/topic/1702249-achar-um-software-de-design-de-pcb-espec%C3%ADfico/?do=getNewComment "achar um software de design de pcb específico")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [IuryChan12](https://www.clubedohardware.com.br/profile/1209319-iurychan12/ "Ir ao perfil de IuryChan12")  
-        27 minutos atrás
-        
-    * [![Mayer18](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1201724.thumb.jpeg.ef08fc121e6a91146eaf0af009163e47.jpeg)](https://www.clubedohardware.com.br/profile/1201724-mayer18/ "Ir ao perfil de Mayer18")
-        
-        0
-        
-        [Montagem de computador até R$3.700,00 para jogos História/MMO/FPS](https://www.clubedohardware.com.br/forums/topic/1702247-montagem-de-computador-at%C3%A9-r370000-para-jogos-hist%C3%B3riammofps/?do=getNewComment "Montagem de computador até R$3.700,00 para jogos História/MMO/FPS")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Mayer18](https://www.clubedohardware.com.br/profile/1201724-mayer18/ "Ir ao perfil de Mayer18")  
-        29 minutos atrás
-        
-    * [![Negrox](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1058961.thumb.jpeg.e6e34d21da425f20b4182dddde75fa2a.jpeg)](https://www.clubedohardware.com.br/profile/1058961-negrox/ "Ir ao perfil de Negrox")
-        
-        6
-        
-        [Monitor Aoc Destiny 240hz não pega o Hz máximo dele](https://www.clubedohardware.com.br/forums/topic/1702246-monitor-aoc-destiny-240hz-n%C3%A3o-pega-o-hz-m%C3%A1ximo-dele/?do=getNewComment "Monitor Aoc Destiny 240hz não pega o Hz máximo dele")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Negrox](https://www.clubedohardware.com.br/profile/1058961-negrox/ "Ir ao perfil de Negrox")  
-        1 hora atrás
-        
-    * [![Amilton Hamada](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/asian-man-40-years-old-260nw-2492766195.thumb.webp.b83b5aa44257860cb04dfcc76f66feb2.webp)](https://www.clubedohardware.com.br/profile/1255970-amilton-hamada/ "Ir ao perfil de Amilton Hamada")
-        
-        0
-        
-        [bios da yon h6-g578](https://www.clubedohardware.com.br/forums/topic/1702245-bios-da-yon-h6-g578/?do=getNewComment "bios da yon h6-g578")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Amilton Hamada](https://www.clubedohardware.com.br/profile/1255970-amilton-hamada/ "Ir ao perfil de Amilton Hamada")  
-        1 hora atrás
-        
-    * [![Black Borel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255968.thumb.jpeg.f70b74f68a64e8042772bb134d55ea17.jpeg)](https://www.clubedohardware.com.br/profile/1255968-black-borel/ "Ir ao perfil de Black Borel")
-        
-        0
-        
-        [Processador em gargalo Radeon RX550 + Core i5 3570](https://www.clubedohardware.com.br/forums/topic/1702244-processador-em-gargalo-radeon-rx550-core-i5-3570/?do=getNewComment "Processador em gargalo Radeon RX550 + Core i5 3570")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Black Borel](https://www.clubedohardware.com.br/profile/1255968-black-borel/ "Ir ao perfil de Black Borel")  
-        1 hora atrás
-        
-    * [![FlaviN](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255967.thumb.png.7440f68b49eb83e30c045f24c8245a4a.png)](https://www.clubedohardware.com.br/profile/1255967-flavin/ "Ir ao perfil de FlaviN")
-        
-        2
-        
-        [como ativar o turbo boost no Core i5 9400f com a h310mhp](https://www.clubedohardware.com.br/forums/topic/1702243-como-ativar-o-turbo-boost-no-core-i5-9400f-com-a-h310mhp/?do=getNewComment "como ativar o turbo boost no Core i5 9400f com a h310mhp")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [FlaviN](https://www.clubedohardware.com.br/profile/1255967-flavin/ "Ir ao perfil de FlaviN")  
-        1 hora atrás
-        
-    * [![xeonlover](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/jonsnow.thumb.jpg.6dfa78a3865966965807ff8c18825176.jpg)](https://www.clubedohardware.com.br/profile/1255963-xeonlover/ "Ir ao perfil de xeonlover")
-        
-        1
-        
-        [PC até R$5.000,00. Ryzen 5 7600, RX 6750XT e B650M Aorus Elite valem a pena?](https://www.clubedohardware.com.br/forums/topic/1702242-pc-at%C3%A9-r500000-ryzen-5-7600-rx-6750xt-e-b650m-aorus-elite-valem-a-pena/?do=getNewComment "PC até R$5.000,00. Ryzen 5 7600, RX 6750XT e B650M Aorus Elite valem a pena?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [xeonlover](https://www.clubedohardware.com.br/profile/1255963-xeonlover/ "Ir ao perfil de xeonlover")  
-        1 hora atrás
+        6 horas atrás
         
     
 
