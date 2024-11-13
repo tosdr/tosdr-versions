@@ -165,65 +165,83 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Back to Genesis
+More Astronomy
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/ToothedFishFoss.jpg)](https://www.icr.org/article/toothed-fish-fossil-reveals)
+[![](/i/Main%20Stage%20-%201400x1050/Venus_Active_1400x1050.jpg)](https://www.icr.org/article/venus-may-be-geologically-active)
 
-[Toothed Fish Fossil Rewrites Evolutionary Fish Story](https://www.icr.org/article/toothed-fish-fossil-reveals/)
+[Venus May Be Geologically Active](https://www.icr.org/article/venus-may-be-geologically-active/)
 
-Once again, research into the fossil record has provided evidence that a creature “originated far earlier than previously believed”—...
+Using computer simulations, a team of researchers has concluded the planet Venus could still be geologically active.1,2 The scientists used...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/Titan_Receding_1400x1050.jpg)](https://www.icr.org/article/titan-receding-from-saturn-faster-than-expected)
+
+[Titan Receding from Saturn Faster than Expected](https://www.icr.org/article/titan-receding-from-saturn-faster-than-expected/)
+
+Data obtained from the Cassini space probe show that Saturn’s largest moon, Titan, is receding away from Saturn a hundred times faster than scientists...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/Sahara_Dust_1400x1050.jpg)](https://www.icr.org/article/saharan-dust-cloud-strikes-united-states)
+
+[Saharan Dust Cloud Strikes United States](https://www.icr.org/article/saharan-dust-cloud-strikes-united-states/)
+
+Recently, the southeastern United States was hit by a huge cloud of dust from the Sahara desert that drifted across the Atlantic Ocean. A second such cloud...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+More Biblical Creation Confirmed
+
+[![](/i/radio/images/impact_solar_system_wide.jpg)](https://www.icr.org/article/biblical-creation-confirmed-podcast)
+
+[Biblical Creation Confirmed \[Podcast\]](https://www.icr.org/article/biblical-creation-confirmed-podcast/)
+
+How can Christians confidently defend biblical creation in an increasingly skeptical culture? What creation evidence does our own solar system display?...
+
+BY: [JASON LISLE, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=217)
+
+[![](/i/radio/images/lock_key_248.jpg)](https://www.icr.org/article/ultimate-proof-of-creation)
+
+[The Ultimate Proof of Creation](https://www.icr.org/article/ultimate-proof-of-creation/)
+
+Who has time to memorize the overwhelming lines of evidence confirming creation? Isn’t there an easier way to communicate with a skeptic?...
+
+BY: [JASON LISLE, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=217)
+
+[![](/i/radio/images/key_to_genome_reg_wide.jpg)](https://www.icr.org/article/science-confirms-biblical-creation)
+
+[Science Confirms Biblical Creation](https://www.icr.org/article/science-confirms-biblical-creation/)
+
+Ironically, many scientists attempt to disprove the Bible using disciplines like genetics and geology. But these fields continue to produce research...
+
+BY: [JASON LISLE, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=217)
+
+More Radio Program
+
+[![](/i/radio/images/celebrating%20broken%20climate%20pacemaker.jpg)](https://www.icr.org/article/celebrating-broken-climate-pacemaker)
+
+[Celebrating a Broken Climate "Pacemaker"](https://www.icr.org/article/celebrating-broken-climate-pacemaker/)
+
+There is strong geological evidence for one ice age. Yet, secular scientists published an iconic technical paper that detailed multiple ice ages...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/radio/images/physics_explains_universe_wide.jpg)](https://www.icr.org/article/universe-nothing)
+
+[A Universe from Nothing?](https://www.icr.org/article/universe-nothing/)
+
+Many famous secular physicists claim we don’t need a Creator to explain the universe’s origin. They say “the laws of physics...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/radio/images/working_honey_bees_wide.jpg)](https://www.icr.org/article/bees)
+
+[Bees](https://www.icr.org/article/bees/)
+
+There are 20,000 known species of bees! These industrious insects possess incredible skills for creating orderly and efficient honeycombs. How...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/symbiotic_lichen.jpg)](https://www.icr.org/article/symbiotic-lichens-showcase-our-creators-ingenuity)
-
-[Symbiotic Lichens Showcase Our Creator's Ingenuity](https://www.icr.org/article/symbiotic-lichens-showcase-our-creators-ingenuity/)
-
-Lichens resemble plants or fungi, with elaborate branches like ocean coral, tiny cup-like structures, or leaf-like fronds. They can be found growing...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/created_cuttlebone.jpg)](https://www.icr.org/article/created-cuttlebones-sweet-spot)
-
-[Created Cuttlebone's Sweet Spot](https://www.icr.org/article/created-cuttlebones-sweet-spot/)
-
-God created Earth during the creation week just thousands of years ago. This includes its marvelous oceans—128 million square miles of salt water....
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
-
-Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
-
-Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
-
-$4.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
-
-The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
-
-$14.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
-
-The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
-
-Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
-
-$14.99
-
-$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
