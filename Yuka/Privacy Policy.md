@@ -32,7 +32,7 @@ Personal Data processed for the following purposes and using the following servi
         
     * ### Analytics
         
-        * ### Google Analytics for Firebase
+        * ### Google Analytics for Firebase (for apps)
             
             Personal Data: Application opens; Application updates; device information; first launches; geography/region; In-app purchases; number of sessions; number of Users ; operating systems; session duration; Usage Data
             
@@ -40,13 +40,15 @@ Personal Data processed for the following purposes and using the following servi
             
             Personal Data: Cookies; Usage Data
             
-        * ### Wordpress Stats
+        * ### WordPress Stats
             
             Personal Data: Tracker; Usage Data
             
         * ### Google Analytics 4
             
             Personal Data: number of Users; session statistics; Trackers; Usage Data
+            
+        * ### Call-out by email
             
         
     * ### Beta Testing
@@ -137,7 +139,7 @@ Personal Data processed for the following purposes and using the following servi
             
             Personal Data: email address; first name
             
-        * ### SendinBlue Email
+        * ### Brevo email
             
             Personal Data: Cookies; email address; Usage Data
             
@@ -148,7 +150,7 @@ Personal Data processed for the following purposes and using the following servi
         
     * ### Platform services and hosting
         
-        * ### Apple App Store and Google Play Store
+        * ### App Store Connect and Google Play Store
             
             Personal Data: Usage Data
             
@@ -161,7 +163,7 @@ Personal Data processed for the following purposes and using the following servi
             
         * ### Facebook Authentication
             
-            Personal Data: various types of Data as specified in the privacy policy of the service
+            Personal Data: Trackers; various types of Data as specified in the privacy policy of the service
             
         
     * ### Social features
@@ -173,7 +175,7 @@ Personal Data processed for the following purposes and using the following servi
         
     * ### User database management
         
-        * ### SendinBlue Marketing Automation
+        * ### Brevo marketing automation
             
             Personal Data: Cookies; email address; Usage Data
             
@@ -321,7 +323,7 @@ Personal Data is collected for the following purposes and using the following se
     
     #### Facebook account access (Meta Platforms, Inc.)
     
-    This service allows Yuka to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
+    This service allows Yuka to connect with the User's account on the Facebook social network, provided by Meta Platforms, Inc.
     
     Permissions asked: About Me; Contact email.
     
@@ -333,10 +335,9 @@ Personal Data is collected for the following purposes and using the following se
     
     The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
     
-    #### Google Analytics for Firebase (Google LLC)
+    #### Google Analytics for Firebase (for apps) (Google LLC)
     
-    Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google LLC.  
-    **In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/)**.
+    Google Analytics for Firebase (for apps) or Firebase Analytics is an analytics service provided by Google LLC. **In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/)**.
     
     Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.
     
@@ -346,7 +347,7 @@ Personal Data is collected for the following purposes and using the following se
     
     Personal Data processed: Application opens; Application updates; device information; first launches; geography/region; In-app purchases; number of sessions; number of Users ; operating systems; session duration; Usage Data.
     
-    Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy).
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/).
     
     Category of Personal Information collected according to the CCPA: commercial information; internet or other electronic network activity information; geolocation data.
     
@@ -356,10 +357,9 @@ Personal Data is collected for the following purposes and using the following se
     
     #### Google Analytics (Universal Analytics) (Google LLC)
     
-    Google Analytics (Universal Analytics) is a web analysis service provided by Google LLC (“Google”). Google utilizes the Data collected to track and examine the use of Yuka, to prepare reports on its activities and share them with other Google services.  
-    Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+    Google Analytics (Universal Analytics) is a web analysis service provided by Google LLC (“Google”). Google utilizes the Data collected to track and examine the use of Yuka, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
     
-    In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
     
     Personal Data processed: Cookies; Usage Data.
     
@@ -371,9 +371,9 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in the United States
     
-    #### Wordpress Stats (Aut O’Mattic A8C Ireland Ltd.)
+    #### WordPress Stats (Aut O’Mattic A8C Ireland Ltd.)
     
-    Wordpress Stats is an analytics service provided by Aut O’Mattic A8C Ireland Ltd.
+    WordPress Stats is an analytics service provided by Aut O’Mattic A8C Ireland Ltd.
     
     Personal Data processed: Tracker; Usage Data.
     
@@ -396,6 +396,10 @@ Personal Data is collected for the following purposes and using the following se
     Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
     
     Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
+    #### Call-out by email
+    
+    Personal Data: email adress; email signature
     
 * ### Beta Testing
     
@@ -502,9 +506,9 @@ Personal Data is collected for the following purposes and using the following se
     
     Unless otherwise specified, Yuka processes any payments by credit card, bank transfer or other means via external payment service providers. In general and unless where otherwise stated, Users are requested to provide their payment details and personal information directly to such payment service providers. Yuka isn't involved in the collection and processing of such information: instead, it will only receive a notification by the relevant payment service provider as to whether payment has been successfully completed.
     
-    #### Stripe (Stripe Inc)
+    #### Stripe (Stripe, Inc.)
     
-    Stripe is a payment service provided by Stripe Inc.
+    Stripe is a payment service provided by Stripe, Inc.
     
     Personal Data processed: various types of Data as specified in the privacy policy of the service.
     
@@ -636,13 +640,13 @@ Personal Data is collected for the following purposes and using the following se
     This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
     It is recommended to log out from the respective services in order to make sure that the processed data on Yuka isn’t being connected back to the User’s profile.
     
-    #### Facebook Like button and social widgets (Facebook Ireland Ltd)
+    #### Facebook Like button and social widgets (Meta Platforms Ireland Limited)
     
-    The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Ireland Ltd
+    The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Meta Platforms Ireland Limited.
     
     Personal Data processed: Tracker; Usage Data.
     
-    Place of processing: Ireland – [Privacy Policy](https://www.facebook.com/about/privacy/).
+    Place of processing: Ireland – [Privacy Policy](https://www.facebook.com/privacy/policy/) – [Opt out](https://www.facebook.com/help/247395082112892).
     
     Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
     
@@ -654,9 +658,7 @@ Personal Data is collected for the following purposes and using the following se
     
     #### Non-continuous geolocation (Yuka)
     
-    Yuka may collect, use, and share User location Data in order to provide location-based services.  
-    Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by Yuka.  
-    The geographic location of the User is determined in a manner that isn't continuous, either at the specific request of the User or when the User doesn't point out its current location in the appropriate field and allows the application to detect the position automatically.
+    Yuka may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by Yuka. The geographic location of the User is determined in a manner that isn't continuous, either at the specific request of the User or when the User doesn't point out its current location in the appropriate field and allows the application to detect the position automatically.
     
     Personal Data processed: geographic position.
     
@@ -671,13 +673,13 @@ Personal Data is collected for the following purposes and using the following se
     This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
     These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
     
-    #### Mailchimp (The Rocket Science Group LLC)
+    #### Mailchimp (Intuit Inc.)
     
-    Mailchimp is an email address management and message sending service provided by The Rocket Science Group LLC.
+    Mailchimp is an email address management and message sending service provided by Intuit Inc.
     
     Personal Data processed: email address; first name.
     
-    Place of processing: United States – [Privacy Policy](https://mailchimp.com/legal/privacy/).
+    Place of processing: United States – [Privacy Policy](https://www.intuit.com/privacy/statement/).
     
     Category of Personal Information collected according to the CCPA: identifiers.
     
@@ -692,7 +694,7 @@ Personal Data is collected for the following purposes and using the following se
     
     Personal Data processed: email address; first name.
     
-    Place of processing: United States – [Privacy Policy](https://mailchimp.com/legal/privacy/).
+    Place of processing: United States – [Privacy Policy](https://www.intuit.com/privacy/statement/).
     
     Category of Personal Information collected according to the CCPA: identifiers.
     
@@ -701,13 +703,13 @@ Personal Data is collected for the following purposes and using the following se
     * a Sale in California
     * a Sharing in California
     
-    #### SendinBlue Email (SendinBlue SAS)
+    #### Brevo email (SendinBlue SAS)
     
-    SendinBlue is an email address management and message sending service provided by SendinBlue SAS.
+    Brevo email is an email address management and message-sending service provided by SendinBlue SAS.
     
     Personal Data processed: Cookies; email address; Usage Data.
     
-    Place of processing: France – [Privacy Policy](https://www.sendinblue.com/legal/privacypolicy/).
+    Place of processing: France – [Privacy Policy](https://www.brevo.com/legal/privacypolicy/).
     
     Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
     
@@ -731,13 +733,11 @@ Personal Data is collected for the following purposes and using the following se
     These services have the purpose of hosting and running key components of Yuka, therefore allowing the provision of Yuka from within a unified platform. Such platforms provide a wide range of tools to the Owner – e.g. analytics, user registration, commenting, database management, e-commerce, payment processing – that imply the collection and handling of Personal Data.  
     Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
     
-    #### Apple App Store (Apple Inc.)
+    #### App Store Connect (Apple Inc.)
     
     Yuka is distributed on Apple's App Store, a platform for the distribution of mobile apps, provided by Apple Inc.
     
-    By virtue of being distributed via this app store, Apple collects basic analytics and provides reporting features that enables the Owner to view usage analytics data and measure the performance of Yuka. Much of this information is processed on an opt-in basis.
-    
-    Users may opt-out of this analytics feature directly through their device settings. More information on how to manage analysis settings can be found on [this page](https://support.apple.com/en-us/HT202100).
+    App Store Connect enables the Owner to manage Yuka on Apple's App Store. Depending on the configuration, App Store Connect provides the Owner with analytics data on user engagement and app discovery, marketing campaigns, sales, in-app purchases, and payments to measure the performance of Yuka. App Store Connect only collects such data from Users who have agreed to share them with the Owner. Users may find more information on how to opt out via their device settings [here](https://support.apple.com/en-gb/HT202100).
     
     Personal Data processed: Usage Data.
     
@@ -772,7 +772,7 @@ Personal Data is collected for the following purposes and using the following se
     
     Personal Data processed: email address; first name.
     
-    Place of processing: United States – [Privacy Policy](https://policies.google.com/privacy).
+    Place of processing: United States – [Privacy Policy](https://business.safety.google/privacy/).
     
     Category of Personal Information collected according to the CCPA: identifiers.
     
@@ -780,15 +780,15 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in California
     
-    #### Facebook Authentication (Facebook, Inc.)
+    #### Facebook Authentication (Meta Platforms, Inc.)
     
-    Facebook Authentication is a registration and authentication service provided by Facebook, Inc. and is connected to the Facebook social network.
+    Facebook Authentication is a registration and authentication service provided by Meta Platforms, Inc. and is connected to the Facebook social network.
     
-    Personal Data processed: various types of Data as specified in the privacy policy of the service.
+    Personal Data processed: Trackers; various types of Data as specified in the privacy policy of the service.
     
-    Place of processing: United States – [Privacy Policy](https://www.facebook.com/help/405977429438260).
+    Place of processing: United States – [Privacy Policy](https://www.facebook.com/privacy/policy/) – [Opt out](https://www.facebook.com/help/247395082112892).
     
-    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
     
     This processing constitutes:
     
@@ -815,13 +815,13 @@ Personal Data is collected for the following purposes and using the following se
     This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to Yuka, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving Yuka.  
     Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on Yuka.
     
-    #### SendinBlue Marketing Automation (SendinBlue SAS)
+    #### Brevo marketing automation (SendinBlue SAS)
     
-    SendinBlue is a User database management service provided by SendinBlue SAS.
+    Brevo marketing automation is a User database management service provided by SendinBlue SAS.
     
     Personal Data processed: Cookies; email address; Usage Data.
     
-    Place of processing: France – [Privacy Policy](https://www.sendinblue.com/legal/privacypolicy/).
+    Place of processing: France – [Privacy Policy](https://www.brevo.com/legal/privacypolicy/).
     
     Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
     
@@ -963,7 +963,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** first name, email address, About Me, Contact email, Universally unique identifier (UUID), Crash information, device information, Cookies, Usage Data, various types of Data as specified in the privacy policy of the service
+    **Personal Information collected or disclosed:** first name, email address, About Me, Contact email, Universally unique identifier (UUID), Crash information, device information, Cookies, Usage Data, various types of Data as specified in the privacy policy of the service, Trackers
     
     **Purposes:**
     
@@ -982,13 +982,13 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Google LLC, Meta Platforms, Inc., SendinBlue SAS, The Rocket Science Group LLC
+    **Third-parties:** Google LLC, Meta Platforms, Inc., SendinBlue SAS, Intuit Inc., The Rocket Science Group LLC
     
     **Service providers or contractors:** Yuka, Google LLC
     
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Usage Data, various types of Data as specified in the privacy policy of the service, Camera permission, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, Cookies, Universally unique identifier (UUID), Crash information, email address, Tracker, Trackers, number of Users, session statistics, device logs
+    **Personal Information collected or disclosed:** Usage Data, various types of Data as specified in the privacy policy of the service, Camera permission, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, Cookies, Universally unique identifier (UUID), Crash information, email address, Trackers, Tracker, number of Users, session statistics, device logs
     
     **Purposes:**
     
@@ -1013,7 +1013,7 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Google LLC, Stripe Inc, DigitalOcean Inc., SendinBlue SAS, Facebook, Inc., Aut O’Mattic A8C Ireland Ltd., Google Ireland Limited, Apple Inc., Facebook Ireland Ltd, Bugsnag Inc.
+    **Third-parties:** Google LLC, Stripe, Inc., DigitalOcean Inc., SendinBlue SAS, Meta Platforms, Inc., Aut O’Mattic A8C Ireland Ltd., Google Ireland Limited, Apple Inc., Meta Platforms Ireland Limited, Bugsnag Inc.
     
     **Service providers or contractors:** Yuka
     
@@ -1219,6 +1219,6 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to Yuka, if not stated otherwise within this document.
 
-Latest update: November 12, 2024
+Latest update: November 13, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
