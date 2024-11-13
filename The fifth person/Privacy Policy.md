@@ -1,4 +1,4 @@
-Wednesday, November 13 2024
+Thursday, November 14 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -249,6 +249,18 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677829)
+    
+    [Darren Yeo](https://fifthperson.com/trump-us-economy-portfolio/#comment-677829)
+    
+    Thanks for sharing, Jonathan. You’re absolutely right, the l...
+    
 * [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677750)
@@ -266,8 +278,6 @@ Quick Guides
     I am on learning state to know how that I can make money by...
     
 * [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676596)
     
@@ -287,6 +297,8 @@ Quick Guides
     
     ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676536)
     
     [Darren Yeo](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676536)
@@ -302,6 +314,8 @@ Quick Guides
     Hi Darren, thank you for your analysis. Very useful. How can...
     
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -326,16 +340,6 @@ Quick Guides
     [Steve Davies](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-676295)
     
     I'm glad to hear you enjoyed our article and hope it provide...
-    
-* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676130)
-    
-    [Adam Wong](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676130)
-    
-    Hi Daniel, 1. Foreigners who invest in Irish-domiciled secur...
     
 
 Advertisement
