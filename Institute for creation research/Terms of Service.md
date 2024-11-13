@@ -165,63 +165,97 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Features
+More God's Design Is an Engineering Wonder
 
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_rainbows.jpg)](https://www.icr.org/article/kids-edition-2023-rainbows)
+[![](/i/Main%20Stage%20-%201400x1050/rnavirusesocean-1400x1050)](https://www.icr.org/article/rna-viruses-ocean)
 
-[Kids Edition 2023: Rainbows](https://www.icr.org/article/kids-edition-2023-rainbows/)
+[New RNA Viruses Discovered in Ocean Water Samples](https://www.icr.org/article/rna-viruses-ocean/)
 
-Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
+An international team of scientists onboard the schooner Tara is conducting an ongoing oceanic global study. The research is part of the Tara Oceans Consortium...
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/LessonMtStHelens_1400x1050.jpg)](https://www.icr.org/article/lessons-from-mount-st-helens-eruption)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[Lessons from the Mount St. Helens Eruption](https://www.icr.org/article/lessons-from-mount-st-helens-eruption/)
+[![](/i/Main%20Stage%20-%201400x1050/dna_tech_1400x1050.jpg)](https://www.icr.org/article/latest-dna-tech-still-light-years-behind)
 
-Purpose Nothing put a damper on uniformitarianism like the Mount St. Helens eruption did on May 18, 1980. Prior to this eruption, strict uniformitarianism...
+[Latest DNA Tech Still Light-Years Behind](https://www.icr.org/article/latest-dna-tech-still-light-years-behind/)
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+Let’s say you recorded a library of books onto DNA. Hundreds of books could fit on your fingertip, but how would you find the one book you wanted? As...
 
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1222_space.jpg)](https://www.icr.org/article/kids-edition-space)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[Kids Edition 2022: Space](https://www.icr.org/article/kids-edition-space/)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/theory_biological_design_1400x1050.jpg)](https://www.icr.org/article/applying-theory-biological-design-optimal)
 
-Hi, kids! We created a special Acts & Facts just for you! We hope you have fun doing the activities while learning how God designed creation...
+[Applying the Theory of Biological Design to Optimal Owl.,.](https://www.icr.org/article/applying-theory-biological-design-optimal/)
+
+by Randy J. Guliuzza, P.E., M.D., and Aaron T. Guliuzza, P.E.\*   If the greatest writers had been well-versed in fields of science,...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/PlantDefense_1400x1050)](https://www.icr.org/article/amazing-plant-defense)
+
+[An Amazing Plant Defense](https://www.icr.org/article/amazing-plant-defense/)
+
+Although plants are not alive in the biblical sense,1 scientists continue to discover just how complex they are.2 It has been...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/MidEarGills_1400x1050.jpg)](https://www.icr.org/article/middle-ear-fish-gills)
+
+[Did Our Middle Ear Evolve from Fish Gills?](https://www.icr.org/article/middle-ear-fish-gills/)
+
+A recent SciTechDaily article begins by saying, “Embryonic and fossil evidence proves that the human middle ear evolved from the spiracle of fishes”1...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/originforecholocation_1400x1050.jpg)](https://www.icr.org/article/modern-echolocation-bats)
+
+[An ''Early'' Origin for Modern Echolocation in Bats](https://www.icr.org/article/modern-echolocation-bats/)
+
+As flying mammals, bats continue to amaze zoologists with their incredible abilities.1,2 But their origin continues to be an enigma for conventional...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/34464783/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
 
-Chimps and Humans](https://store.icr.org/chimps-and-humans.html)
-
-$19.99
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
-
-Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
+The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
 
 $4.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
+$9.99
 
-Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
 
-$14.99
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
 
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
-
-Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+$7.99
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
 
-The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
+Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
 
-$29.99
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+
+$16.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
