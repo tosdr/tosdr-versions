@@ -20,7 +20,7 @@
     
 * About ADISC
     
-    [Community Rules](https://www.adisc.org/forum/threads/the-rules.697/) [Introduction & FAQs](https://www.adisc.org/forum/threads/adisc-introduction-faq.1926/) [Other Guides](https://www.adisc.org/forum/forums/about-adisc.52/)
+    [Community Rules](https://www.adisc.org/forum/threads/the-rules.697/) [Introduction & FAQs](https://www.adisc.org/forum/threads/adisc-introduction-faq.1926/) [Leveling Up on ADISC](https://www.adisc.org/forum/threads/leveling-up-on-adisc.131782/) [Other Rules & Policies](https://www.adisc.org/forum/forums/rules-policies.69/) [Other Articles About ADISC](https://www.adisc.org/forum/forums/about-adisc.52/)
     
 
 [Log in](https://www.adisc.org/forum/login/) [Register](https://www.adisc.org/forum/login/register)
@@ -221,7 +221,7 @@ Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 1 other person
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1731437075) [LinkedIn](#_xfUid-1-1731437075) [Reddit](#_xfUid-1-1731437075) [Pinterest](#_xfUid-1-1731437075) [Tumblr](#_xfUid-1-1731437075) [WhatsApp](#_xfUid-1-1731437075) [Email](#_xfUid-1-1731437075) [Share](#_xfUid-1-1731437075) [Link](#_xfUid-1-1731437075)
+[X (Twitter)](#_xfUid-1-1731458657) [LinkedIn](#_xfUid-1-1731458657) [Reddit](#_xfUid-1-1731458657) [Pinterest](#_xfUid-1-1731458657) [Tumblr](#_xfUid-1-1731458657) [WhatsApp](#_xfUid-1-1731458657) [Email](#_xfUid-1-1731458657) [Share](#_xfUid-1-1731458657) [Link](#_xfUid-1-1731458657)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -246,7 +246,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731437075%2Ca010cffd6d13b367f2a34b861c1ea7a6) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731437075%2Ca010cffd6d13b367f2a34b861c1ea7a6)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731458657%2Cea3a69d74356c834401200bc348bb248) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731458657%2Cea3a69d74356c834401200bc348bb248)
     
     * Essential cookies
     
