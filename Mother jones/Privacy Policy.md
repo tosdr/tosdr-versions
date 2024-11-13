@@ -8,10 +8,10 @@
 
 *  
     
-* [Poll Workers](https://www.motherjones.com/politics/2024/11/disability-poll-worker-election-ballot-accessibility/)
-* [Trump](https://www.motherjones.com/politics/2024/11/press-freedom-groups-trump-threat/)
-* [Elon Musk’s “Election Integrity Community”](https://www.motherjones.com/politics/2024/11/elon-musk-election-integrity-community-arizona/)
-* [Private Prisons](https://www.motherjones.com/politics/2024/11/the-other-big-election-winners-private-prisons/)
+* [Trump Picks](https://www.motherjones.com/politics/2024/11/trump-marco-rubio-secretary-of-state-war-hawks-ukraine-gaza-russia-israel/)
+* [Christian Nationalism](https://www.motherjones.com/politics/2024/11/don-jr-s-new-gig-an-investment-firm-connected-to-christian-nationalists/)
+* [Robert F. Kennedy Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-national-institutes-of-health/)
+* [Election Conspiracy Theories](https://www.motherjones.com/politics/2024/11/2024-election-conspiracy-theories/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Poll Workers](https://www.motherjones.com/politics/2024/11/disability-poll-worker-election-ballot-accessibility/)
-* [Trump](https://www.motherjones.com/politics/2024/11/press-freedom-groups-trump-threat/)
-* [Elon Musk’s “Election Integrity Community”](https://www.motherjones.com/politics/2024/11/elon-musk-election-integrity-community-arizona/)
-* [Private Prisons](https://www.motherjones.com/politics/2024/11/the-other-big-election-winners-private-prisons/)
+* [Trump Picks](https://www.motherjones.com/politics/2024/11/trump-marco-rubio-secretary-of-state-war-hawks-ukraine-gaza-russia-israel/)
+* [Christian Nationalism](https://www.motherjones.com/politics/2024/11/don-jr-s-new-gig-an-investment-firm-connected-to-christian-nationalists/)
+* [Robert F. Kennedy Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-national-institutes-of-health/)
+* [Election Conspiracy Theories](https://www.motherjones.com/politics/2024/11/2024-election-conspiracy-theories/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
