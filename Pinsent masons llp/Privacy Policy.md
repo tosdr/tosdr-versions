@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 2. Privacy Policy [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy) 
