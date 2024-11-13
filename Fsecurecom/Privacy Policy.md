@@ -212,10 +212,9 @@ F‑Secure makes every digital moment more secure, for everyone.
 * [For retail](https://www.f-secure.com/en/partners/resellers)
 * [For banks](https://www.f-secure.com/en/partners/banking)
 * [For insurers](https://www.f-secure.com/en/partners/insurance)
-* [For utilities](https://www.f-secure.com/en/partners/utilities)
 * [Affiliate program](https://www.f-secure.com/en/partners/affiliate-program)
 * [Newsroom](https://www.f-secure.com/en/partners/newsroom)
-* [Contact sales](https://www.f-secure.com/en/partners/contact-sales)
+* [Contact us](https://www.f-secure.com/en/partners/contact-us)
 
 [Company](https://company.f-secure.com/en)
 
