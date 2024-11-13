@@ -94,6 +94,7 @@ Discover CNBCTV18
 
 * [![androidIcon](/static/images/common/ggl_play_store.png?impolicy=website&width=95&height=30 "CNBC TV18 Play Store")](https://play.google.com/store/apps/details?id=com.network18.cnbctv18&pli=1 "CNBCTV18")
 * [NewGlobal leadership Summit](https://www.cnbctv18.com/global-leadership-summit/?utm_source=cnbc&utm_medium=navigation "Global leadership Summit")
+* [LiveAssembly Elections](https://www.cnbctv18.com/assembly-elections-results "Assembly Elections")
 * [NewStartup Gurukul](https://hindi.cnbctv18.com/startup-gurukul?utm_source=cnbc_hp&utm_medium=website_redirect&utm_campaign=startup_gurukul "Startup Gurukul")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
 * [NewCalculators](https://www.cnbctv18.com/calculators/ "Calculators")
