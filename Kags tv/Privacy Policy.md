@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/e4074ecb-0589-440a-a11e-0612593c7e86/20241112T200745/e4074ecb-0589-440a-a11e-0612593c7e86_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e4074ecb-0589-440a-a11e-0612593c7e86/20241112T200745/e4074ecb-0589-440a-a11e-0612593c7e86_360x203.jpg)](https://www.kagstv.com/article/news/crime/arnoldo-romero-sentenced-nov-2024/500-9ce72140-9cea-42cf-9bb4-e7f77a93ee41)
+        
+        #### [Man sentenced for 65 years for 2020 shooting in Bryan while on parole](https://www.kagstv.com/article/news/crime/arnoldo-romero-sentenced-nov-2024/500-9ce72140-9cea-42cf-9bb4-e7f77a93ee41)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/b70fbc22-fcc9-450d-866a-6e2edc00ca2e/20241112T151139/b70fbc22-fcc9-450d-866a-6e2edc00ca2e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/b70fbc22-fcc9-450d-866a-6e2edc00ca2e/20241112T151139/b70fbc22-fcc9-450d-866a-6e2edc00ca2e_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-a-m-u/tx-tribune-tamu-lgbtq-studies-minor-and-low-producing-programs-cut/499-c185406e-403b-4848-af65-ad76b5cd6cdc)
         
         #### [Texas A&M regents overrule faculty, cut 52 “low-producing” programs including LGBTQ+ studies minor](https://www.kagstv.com/article/news/local/texas-a-m-u/tx-tribune-tamu-lgbtq-studies-minor-and-low-producing-programs-cut/499-c185406e-403b-4848-af65-ad76b5cd6cdc)
-        
-    *  [![](https://media.kagstv.com/assets/KFSM/images/54749894-625c-4686-b969-700d3b88302e/54749894-625c-4686-b969-700d3b88302e_16x9.jpg) ![](https://media.kagstv.com/assets/KFSM/images/54749894-625c-4686-b969-700d3b88302e/54749894-625c-4686-b969-700d3b88302e_360x203.jpg)](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
-        
-        #### [Samples from water wells in Navasota test positive for E. coli bacteria](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-83°
+68°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
