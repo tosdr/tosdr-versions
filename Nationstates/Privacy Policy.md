@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Lothar (MT-FT, OPEN) (183)](https://forum.nationstates.net/viewtopic.php?t=554934&f=5&view=unread#unread ""Lothar (MT-FT, OPEN)" (183 posts)")
-* [Empires: 2024 REVIVED IC (328)](https://forum.nationstates.net/viewtopic.php?t=557841&f=31&view=unread#unread ""Empires: 2024 REVIVED IC" (328 posts)")
-* [Intimacy boycotts (4B movement) (136)](https://forum.nationstates.net/viewtopic.php?t=558243&f=20&view=unread#unread ""Intimacy boycotts (4B movement)" (136 posts)")
-* [How disturbing is AN? (95)](https://forum.nationstates.net/viewtopic.php?t=556696&f=25&view=unread#unread ""How disturbing is AN?" (95 posts)")
-* [Ask BN a question and edit it when th… (237)](https://forum.nationstates.net/viewtopic.php?t=556146&f=25&view=unread#unread ""Ask BN a question and edit it when they answer II" (237 posts)")
+* [AN Out of Context III (4,078)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,078 posts)")
+* [American Politics: Turnabout Trump (4,173)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (4,173 posts)")
+* [I may have misgendered someone on LGT… (3)](https://forum.nationstates.net/viewtopic.php?t=558316&f=16&view=unread#unread ""I may have misgendered someone on LGTB thread" (3 posts)")
+* [MAGAthread: Welcome Back To Mar-A-Lago! (68)](https://forum.nationstates.net/viewtopic.php?t=558233&f=20&view=unread#unread ""MAGAthread: Welcome Back To Mar-A-Lago!" (68 posts)")
+* [2025 CCA Leaders Summit \[In-Character… (17)](https://forum.nationstates.net/viewtopic.php?t=558317&f=5&view=unread#unread ""2025 CCA Leaders Summit [In-Character - CCA ONLY]" (17 posts)")
 
 Advertisement
 
