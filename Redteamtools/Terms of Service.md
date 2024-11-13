@@ -2,7 +2,7 @@
 
 [Toggle menu](#)
 
-[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/94ac2660-7dde-013d-2eb6-6adc74966bf7/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png) ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/94ac2660-7dde-013d-2eb6-6adc74966bf7/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png)](https://www.redteamtools.com/)  
+[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/a271bfd0-8429-013d-4970-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png) ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/a271bfd0-8429-013d-4970-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png)](https://www.redteamtools.com/)  
 
 Search  Search
 
@@ -13,8 +13,6 @@ Close ×
 Search  Search
 
 Close ×
-
-Prev
 
 * [New Products](https://www.redteamtools.com/new-products/)
 * [About Us](https://www.redteamtools.com/about-us/)
@@ -30,8 +28,6 @@ Prev
 
 * [Sign in](https://www.redteamtools.com/login.php) or [Register](https://www.redteamtools.com/login.php?action=create_account)
 * [Gift Certificates](https://www.redteamtools.com/giftcertificates.php)
-
-Next
 
 1. [Home](https://www.redteamtools.com/)
 2. [Terms & Conditions](https://www.redteamtools.com/terms-conditions/)
@@ -67,7 +63,7 @@ Email Address
 Footer Start
 ------------
 
-[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/94ac2660-7dde-013d-2eb6-6adc74966bf7/e/b4382370-1605-013d-2256-62b8f9cadea7/img/footer-logo.png)](https://www.redteamtools.com/) 
+[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/a271bfd0-8429-013d-4970-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/footer-logo.png)](https://www.redteamtools.com/) 
 
 * [Home](https://www.redteamtools.com/)
 * [Shop All Products](https://www.redteamtools.com/shop-all/)
