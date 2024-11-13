@@ -302,15 +302,15 @@ Meist verkaufte Produkte
     
      1
     
-* [NASENSPRAY AL 0,1%](https://www.medikamente-per-klick.de/nasenspray-al-0-1-10ml-03929274)
-    
-    2,47 €\*
-    
-     1
-    
 * [NASENSPRAY-ratiopharm Kinder kons.frei](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-kinder-kons-frei-10ml-00999854)
     
     1,85 €\*
+    
+     1
+    
+* [NASENSPRAY AL 0,1%](https://www.medikamente-per-klick.de/nasenspray-al-0-1-10ml-03929274)
+    
+    2,47 €\*
     
      1
     
@@ -664,4 +664,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=ajenhahdktgyjwptsfuvioxhelsitnox&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=otorzbbbbwilusoykeashofhdquffjwj&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
