@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)4°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![stratus fréquent](https://www.watson.ch/fr/_watsui/static/img/weather/w-5.svg)2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [France](https://www.watson.ch/fr/france/)
-* [Allemagne](https://www.watson.ch/fr/allemagne/)
-* [People](https://www.watson.ch/fr/people/)
-* [Presse](https://www.watson.ch/fr/presse/)
-* [Iran](https://www.watson.ch/fr/iran/)
-* [Viol](https://www.watson.ch/fr/viol/)
-* [Elon Musk](https://www.watson.ch/fr/elon-musk/)
-* [famille royale britannique](https://www.watson.ch/fr/famille-royale-britannique/)
 * [Climat](https://www.watson.ch/fr/climat/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Police](https://www.watson.ch/fr/police/)
 * [Formule 1](https://www.watson.ch/fr/formule-1/)
 * [Abus sexuel](https://www.watson.ch/fr/abus-sexuel/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Police](https://www.watson.ch/fr/police/)
-* [Justice](https://www.watson.ch/fr/justice/)
 * [Royauté](https://www.watson.ch/fr/royaute/)
+* [Elon Musk](https://www.watson.ch/fr/elon-musk/)
+* [famille royale britannique](https://www.watson.ch/fr/famille-royale-britannique/)
+* [People](https://www.watson.ch/fr/people/)
 * [Football](https://www.watson.ch/fr/football/)
+* [Presse](https://www.watson.ch/fr/presse/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Viol](https://www.watson.ch/fr/viol/)
+* [Allemagne](https://www.watson.ch/fr/allemagne/)
+* [Valais](https://www.watson.ch/fr/valais/)
+* [France](https://www.watson.ch/fr/france/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
