@@ -20,16 +20,16 @@ Wednesday, November 13 2024
 
 Latest
 
-* [Will the CHIPS Act survive a Trump presidency? – Computerworld](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
-* [The M1, M2, and M3 MacBook Airs Are All on Sale Right Now](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
-* [How to stay safe online](https://digitpatrox.com/how-to-stay-safe-online/)
-* [Don’t Rush Into an 84-Month Car Loan](https://digitpatrox.com/dont-rush-into-an-84-month-car-loan/)
-* [Today’s NYT Connections Hints and Answer for November 12 (#520)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-12-520/)
-* [Features, Pricing, Pros and Cons](https://digitpatrox.com/features-pricing-pros-and-cons-2/)
-* [I tried astrophotography on my Pixel 9 Pro XL to shoot galaxies, nebulas and star clusters — here’s the results](https://digitpatrox.com/i-tried-astrophotography-on-my-pixel-9-pro-xl-to-shoot-galaxies-nebulas-and-star-clusters-heres-the-results/)
-* [Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://digitpatrox.com/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
-* [Monster Hunter is getting an open-world RPG spinoff for mobile](https://digitpatrox.com/monster-hunter-is-getting-an-open-world-rpg-spinoff-for-mobile/)
-* [Today’s Wordle Answer and Hints (November 13, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-13-2024/)
+* [Silo Season 1 Recap: Everything You Should Know Before Season 2](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
+* [NatWest just banned staff from using WhatsApp at work – here’s why](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
+* [OpenAI’s SimpleQA tool for discerning genAI accuracy — right message, wrong messenger – Computerworld](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
+* [Here’s How Much It Costs to Fix a Pixel 9 Pro Fold Display](https://digitpatrox.com/heres-how-much-it-costs-to-fix-a-pixel-9-pro-fold-display/)
+* [Best Counter-Depth Refrigerators of 2024, Tested by Our Expe](https://digitpatrox.com/best-counter-depth-refrigerators-of-2024-tested-by-our-expe/)
+* [A Beginner’s Guide to Editing Text Files With Vi](https://digitpatrox.com/a-beginners-guide-to-editing-text-files-with-vi/)
+* [Databarracks snaps up Commvault solution provider COOLSPIRiT](https://digitpatrox.com/databarracks-snaps-up-commvault-solution-provider-coolspirit/)
+* [Apple’s Geo-Blocking Practices Could Violate EU Rules](https://digitpatrox.com/apples-geo-blocking-practices-could-violate-eu-rules/)
+* [Netflix’s new crime drama is now streaming — and it’s one of the year’s most surprising movies](https://digitpatrox.com/netflixs-new-crime-drama-is-now-streaming-and-its-one-of-the-years-most-surprising-movies/)
+* [D-Link won’t fix critical bug in 60,000 exposed EoL modems](https://digitpatrox.com/d-link-wont-fix-critical-bug-in-60000-exposed-eol-modems/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601464-0-03685300-1731409349-Intel-New-Mexico-Fabs-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Juliette-Nichols-in-season-2.jpg)](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
     
-    [Will the CHIPS Act survive a Trump presidency? – Computerworld](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
+    [Silo Season 1 Recap: Everything You Should Know Before Season 2](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
     
-    51 mins ago
+    4 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HRWJHQMADEADSWPAB7Z7G7JW/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
+* [![](https://cdn.mos.cms.futurecdn.net/52jDDZYBjbnBY8QebT8ayH-1200-80.jpg)](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
     
-    [The M1, M2, and M3 MacBook Airs Are All on Sale Right Now](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
-    
-    1 hour ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Black-Friday-scams_-How-to-stay-safe.jpg)](https://digitpatrox.com/how-to-stay-safe-online/)
-    
-    [How to stay safe online](https://digitpatrox.com/how-to-stay-safe-online/)
-    
-    1 hour ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1692196030/prod/content/dam/CRO-Images-2023/08August/Cars/CR-Cars-Inlinehero-84-month-car-loan-0823)](https://digitpatrox.com/dont-rush-into-an-84-month-car-loan/)
-    
-    [Don’t Rush Into an 84-Month Car Loan](https://digitpatrox.com/dont-rush-into-an-84-month-car-loan/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-12-520/)
-    
-    [Today’s NYT Connections Hints and Answer for November 12 (#520)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-12-520/)
+    [NatWest just banned staff from using WhatsApp at work – here’s why](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3603749-0-64352000-1731495802-wrong_way_road_sign_neonbrand_cc0_via_unsplash_1200x800-100753508-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
+    
+    [OpenAI’s SimpleQA tool for discerning genAI accuracy — right message, wrong messenger – Computerworld](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
+    
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JCH592S8K0XJX1XW3C0DY2QN/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/heres-how-much-it-costs-to-fix-a-pixel-9-pro-fold-display/)
+    
+    [Here’s How Much It Costs to Fix a Pixel 9 Pro Fold Display](https://digitpatrox.com/heres-how-much-it-costs-to-fix-a-pixel-9-pro-fold-display/)
+    
+    2 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1672958546/prod/content/dam/CRO-Images-2023/01January/Home/CR-Home-InlineHero-Best-Counter-Depth-Refrigerators-0123)](https://digitpatrox.com/best-counter-depth-refrigerators-of-2024-tested-by-our-expe/)
+    
+    [Best Counter-Depth Refrigerators of 2024, Tested by Our Expe](https://digitpatrox.com/best-counter-depth-refrigerators-of-2024-tested-by-our-expe/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [51 mins ago
+* [4 mins ago
     
-    ### Will the CHIPS Act survive a Trump presidency? – Computerworld](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
-* [1 hour ago
+    ### Silo Season 1 Recap: Everything You Should Know Before Season 2](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
+* [2 hours ago
     
-    ### The M1, M2, and M3 MacBook Airs Are All on Sale Right Now](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
-* [1 hour ago
+    ### NatWest just banned staff from using WhatsApp at work – here’s why](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
+* [2 hours ago
     
-    ### How to stay safe online](https://digitpatrox.com/how-to-stay-safe-online/)
+    ### OpenAI’s SimpleQA tool for discerning genAI accuracy — right message, wrong messenger – Computerworld](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
 
 Most Popular Topics
 
-* [September 23, 2024
+* [September 28, 2024
     
-    ### Shark Cordless PowerDetect Clean & Empty Vacuum System review](https://digitpatrox.com/shark-cordless-powerdetect-clean-empty-vacuum-system-review/)
-* [September 13, 2024
+    ### Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
+* [September 24, 2024
     
-    ### Partnerships are Oracle’s key to success in the “multi-cloud era”](https://digitpatrox.com/partnerships-are-oracles-key-to-success-in-the-multi-cloud-era/)
-* [August 15, 2024
+    ### Three Nintendo Switch Deals to Consider Before the Holiday Rush](https://digitpatrox.com/three-nintendo-switch-deals-to-consider-before-the-holiday-rush/)
+* [7 days ago
     
-    ### Cisco layoffs cut deeper than expected as firm ramps up AI focus](https://digitpatrox.com/cisco-layoffs-cut-deeper-than-expected-as-firm-ramps-up-ai-focus/)
+    ### Internet access returns to Mozambique – but social media remains blocked](https://digitpatrox.com/internet-access-returns-to-mozambique-but-social-media-remains-blocked/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### I tried astrophotography on my Pixel 9 Pro XL to shoot galaxies, nebulas and star clusters — here’s the results](https://digitpatrox.com/i-tried-astrophotography-on-my-pixel-9-pro-xl-to-shoot-galaxies-nebulas-and-star-clusters-heres-the-results/)
 * [3 hours ago
     
-    ### Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://digitpatrox.com/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
-* [4 hours ago
+    ### Databarracks snaps up Commvault solution provider COOLSPIRiT](https://digitpatrox.com/databarracks-snaps-up-commvault-solution-provider-coolspirit/)
+* [3 hours ago
     
-    ### Monster Hunter is getting an open-world RPG spinoff for mobile](https://digitpatrox.com/monster-hunter-is-getting-an-open-world-rpg-spinoff-for-mobile/)
+    ### Apple’s Geo-Blocking Practices Could Violate EU Rules](https://digitpatrox.com/apples-geo-blocking-practices-could-violate-eu-rules/)
+* [3 hours ago
+    
+    ### Netflix’s new crime drama is now streaming — and it’s one of the year’s most surprising movies](https://digitpatrox.com/netflixs-new-crime-drama-is-now-streaming-and-its-one-of-the-years-most-surprising-movies/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
