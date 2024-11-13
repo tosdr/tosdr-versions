@@ -75,33 +75,33 @@ Latest commented posts
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 953 1
+0 970 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/shep-directed-by-anonymous-director/)
+[](https://yiff-party.com/yiff/abigail-created-by-nefitail/)
 
-[shep directed by anonymous director](https://yiff-party.com/yiff/shep-directed-by-anonymous-director/)
+[abigail created by nefitail](https://yiff-party.com/yiff/abigail-created-by-nefitail/)
 
 0 2 0
 
-November 12, 2024
+November 13, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-corsetlover69-7/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-noxynot/)
 
-[directed by corsetlover69](https://yiff-party.com/yiff-ai-premium/directed-by-corsetlover69-7/)
+[nintendo and etc created by noxynot](https://yiff-party.com/yiff/nintendo-and-etc-created-by-noxynot/)
 
-0 31 0
+0 97 0
 
-October 13, 2024
+October 14, 2024
 
-[](https://yiff-party.com/yiff/created-by-shirokoma/)
+[](https://yiff-party.com/yiff-gif/kris-and-susie-undertale-series-and-etc-created-by-jackofak/)
 
-[created by shirokoma](https://yiff-party.com/yiff/created-by-shirokoma/)
+[kris and susie (undertale (series) and etc) created by jackofak](https://yiff-party.com/yiff-gif/kris-and-susie-undertale-series-and-etc-created-by-jackofak/)
 
-0 35 0
+0 237 0
 
-October 13, 2024
+October 14, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
