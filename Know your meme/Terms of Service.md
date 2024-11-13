@@ -97,6 +97,18 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/612/tuff.jpg "What Is The 'Homer Sharingan' Meme On TikTok? The Viral 'Simpsons x Naruto' Crossover Memes Explained")
+    
+    What Is The 'Homer Sharingan' Meme On TikTok? The Viral 'Simpsons x Naruto' Crossover Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-the-homer-sharingan-meme-on-tiktok-the-viral-simpsons-x-naruto-crossover-memes-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/611/fruitsnacks-explainer.jpg "Who Is 'Fruitsnacks' On TikTok? The Viral E-Girl And Underground Rap Influencer Explained")
+    
+    Who Is 'Fruitsnacks' On TikTok? The Viral E-Girl And Underground Rap Influencer Explained](https://knowyourmeme.com/editorials/guides/who-is-fruitsnacks-on-tiktok-the-viral-e-girl-and-underground-rap-influencer-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/610/cover9.jpg "'The Humble Apostrophe' And 'The Nefarious Anglerfish': The Grandiloquent Caption Memes Explained")
+    
+    'The Humble Apostrophe' And 'The Nefarious Anglerfish': The Grandiloquent Caption Memes Explained](https://knowyourmeme.com/editorials/guides/the-humble-apostrophe-and-the-nefarious-anglerfish-the-grandiloquent-caption-memes-explained)
+    
 * [![Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws](https://i.kym-cdn.com/featured_items/icons/wide/000/026/609/cover1.jpg "Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws")
     
     Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws](https://knowyourmeme.com/memes/humongous-sword-guy)
@@ -105,22 +117,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-memes-about-a-leopards-eating-peoples-faces-political-party-memes-about-face-eating-leopards-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/606/ocda-explainer.jpg "What Is 'OCDA,' AKA 'Occupational Cares Diversity Affairs'? TikToker Calimar White's Boss-Hating Complaints Company Explained")
-    
-    What Is 'OCDA,' AKA 'Occupational Cares Diversity Affairs'? TikToker Calimar White's Boss-Hating Complaints Company Explained](https://knowyourmeme.com/editorials/guides/what-is-ocda-aka-occupational-cares-diversity-affairs-tiktoker-calimar-whites-boss-hating-complaints-company-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/608/clevee.jpg "What's A 'Cleveland Steamer'? The Gross Slang Term Popularized By 'Family Guy' Explained")
-    
-    What's A 'Cleveland Steamer'? The Gross Slang Term Popularized By 'Family Guy' Explained](https://knowyourmeme.com/editorials/guides/whats-a-cleveland-steamer-the-gross-slang-term-popularized-by-family-guy-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/607/you-digging-in-me-explainer.jpg "What's The 'You Digging In Me' Meme? The TikTok Sound From A LoveAndLightTv Video Explained")
-    
-    What's The 'You Digging In Me' Meme? The TikTok Sound From A LoveAndLightTv Video Explained](https://knowyourmeme.com/editorials/guides/whats-the-you-digging-in-me-meme-the-tiktok-sound-from-a-loveandlighttv-video-explained)
-    
 
 ##### Also Trending:
 
-[Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)")
+[Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Leopards Eating People's Faces Party](https://knowyourmeme.com/memes/leopards-eating-peoples-faces-party "Leopards Eating People's Faces Party") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [RadiaActive "No Violations of the Dress Code"](https://knowyourmeme.com/memes/vtuber-radiaactives-no-violations-of-the-dress-code "RadiaActive "No Violations of the Dress Code"") [Gender-reversed 'Polite' Compliments Comic](https://knowyourmeme.com/memes/gender-reversed-polite-compliments-comic "Gender-reversed 'Polite' Compliments Comic") [Nick Fuentes Doxxing](https://knowyourmeme.com/memes/events/nick-fuentes-doxxing "Nick Fuentes Doxxing") [Humongous Sword Guy](https://knowyourmeme.com/memes/humongous-sword-guy "Humongous Sword Guy")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
