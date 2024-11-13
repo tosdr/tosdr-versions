@@ -8,6 +8,10 @@ Close
 
                                                         [SKIP TO MAIN CONTENT](#skipToMain)
 
+ **Due to scheduled maintenance, Mobile and Online banking, After Hours Phone Center and ATMs (limited) will NOT be available Sunday, November 17 from 3am to 7am PST.** 
+
+Close Alert
+
 We use cookies on our site to provide the optimum user experience. By using this website, you agree to the use of cookies on this site. [Read our privacy policy.](https://www.lafcu.org/privacypolicies)
 
 Close Alert
@@ -67,7 +71,7 @@ About Us
 * [Apply: Real Estate](https://borrower-portal.lafcu.org/#/get-started)
 * [Apply: Personal](https://app.loanspq.com/pl/PersonalLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
 
-As of 11-12-24
+As of 11-13-24
 
 Privacy Policy
 ==============
