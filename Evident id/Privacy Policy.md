@@ -847,11 +847,11 @@ Teams
 Learning Center
 
 * [Blog](https://www.evidentid.com/resources/?keyword=&topics=&types=blog)
-* Videos
+* [Videos](https://www.evidentid.com/resources/?keyword=&topics=&types=videos)
 * [Reports](https://www.evidentid.com/resources/?keyword=&topics=&types=reports)
 * [Case Studies](https://www.evidentid.com/case-studies/)
 * [Webinars](https://www.evidentid.com/resources/?keyword=&topics=&types=webinars)
-* Whitepapers
+* [Whitepapers](https://www.evidentid.com/resources/?keyword=&topics=&types=white-paper)
 
 Company
 
