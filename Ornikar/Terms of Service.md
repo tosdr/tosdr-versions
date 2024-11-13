@@ -1796,7 +1796,7 @@ Aide & Contact
 
 AUTO-ÉCOLE & ASSURANCE
 
-[Série de code offerte](https://app.ornikar.com/inscription)[Devis assurance auto gratuit](https://www.ornikar.com/assurance-auto/souscription)[Devis assurance habitation gratuit](https://habitation.ornikar.com/subscribe/ornikar_mrh)[Actualités et réformes](https://www.ornikar.com/actualites)
+[Auto-écoles à proximité](https://www.ornikar.com/auto-ecole)[Série de code offerte](https://app.ornikar.com/inscription)[Devis assurance auto gratuit](https://www.ornikar.com/assurance-auto/souscription)[Devis assurance habitation gratuit](https://habitation.ornikar.com/subscribe/ornikar_mrh)[Actualités et réformes](https://www.ornikar.com/actualites)
 
 ENSEIGNANTS
 
