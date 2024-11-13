@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/b3aab810-9afc-4ff5-9be6-08202899dbd5/20241113T161403/b3aab810-9afc-4ff5-9be6-08202899dbd5_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b3aab810-9afc-4ff5-9be6-08202899dbd5/20241113T161403/b3aab810-9afc-4ff5-9be6-08202899dbd5_360x203.jpg)](https://www.kagstv.com/article/news/crime/missing-person-remains-found-in-buffalo-tx-lead-to-arrest-of-man-in-laredo-tx/500-e79b5471-7150-4a57-ab83-d157c010d7e8)
+        
+        #### [Remains of missing person found in Buffalo lead to arrest of man suspected of murder in Laredo](https://www.kagstv.com/article/news/crime/missing-person-remains-found-in-buffalo-tx-lead-to-arrest-of-man-in-laredo-tx/500-e79b5471-7150-4a57-ab83-d157c010d7e8)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/ff91cf38-3516-413f-97c6-c7ff3f9769a3/ff91cf38-3516-413f-97c6-c7ff3f9769a3_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/ff91cf38-3516-413f-97c6-c7ff3f9769a3/ff91cf38-3516-413f-97c6-c7ff3f9769a3_360x203.jpg)](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
         
         #### [Water wells in Navasota that tested positive for E. coli bacteria return negative test result](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/e4074ecb-0589-440a-a11e-0612593c7e86/20241112T200745/e4074ecb-0589-440a-a11e-0612593c7e86_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e4074ecb-0589-440a-a11e-0612593c7e86/20241112T200745/e4074ecb-0589-440a-a11e-0612593c7e86_360x203.jpg)](https://www.kagstv.com/article/news/crime/arnoldo-romero-sentenced-nov-2024/500-9ce72140-9cea-42cf-9bb4-e7f77a93ee41)
-        
-        #### [Man sentenced for 65 years for 2020 shooting in Bryan while on parole](https://www.kagstv.com/article/news/crime/arnoldo-romero-sentenced-nov-2024/500-9ce72140-9cea-42cf-9bb4-e7f77a93ee41)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-62°
+84°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
