@@ -388,7 +388,9 @@ We reserve the right to modify and update this Agreement at our sole discretion,
 
 GET IN TOUCH
 
-[![](https://images.smartproxy.com/support_icon_footer_4b408c63fa/support_icon_footer_4b408c63fa.svg)](https://direct.lc.chat/12092754)[\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection)[![](https://images.smartproxy.com/skype_1_c22723b656/skype_1_c22723b656.png?format=webp)](https://join.skype.com/invite/bZDHw4NZg2G9)[![](https://images.smartproxy.com/telegram_app_1_7575238128/telegram_app_1_7575238128.svg)](https://t.me/smartproxy_com)
+[![](https://images.smartproxy.com/support_icon_footer_4b408c63fa/support_icon_footer_4b408c63fa.svg)](https://direct.lc.chat/12092754)[\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection)[![](https://images.smartproxy.com/skype_1_c22723b656/skype_1_c22723b656.png?format=webp)](https://join.skype.com/invite/bZDHw4NZg2G9)
+
+![](https://images.smartproxy.com/telegram_app_1_7575238128/telegram_app_1_7575238128.svg)
 
 FOLLOW US
 
