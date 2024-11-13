@@ -1,6 +1,6 @@
-EARNINGS CALL - illumin's Q3 earnings call is Nov 8
+WEBINAR Nov 19 - Measuring ROI and Impact in Drive-to-Store Advertising
 
-[Register](https://illumin.com/investor-information/earnings-call/)
+[Register](https://illumin.com/insights/podcasts-webinars/webinar-measuring-roi-impact-data-drive-store-ads/)
 
  [![logo-white](https://illumin.com/wp-content/uploads/2024/09/logo-white.svg) ![logo black](https://illumin.com/wp-content/uploads/2024/09/logo-1.svg)](https://illumin.com/)
 
@@ -16,13 +16,13 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [illumin for Brands](https://illumin.com/illumin-for-brands/)
         * [illumin for Political](https://illumin.com/illumin-for-political/)
         * [illumin for Health](https://illumin.com/illumin-for-health/)
-    * ![](https://illumin.com/wp-content/uploads/2024/08/illumin_InsideScoop-Blog-2-1.jpg)
+    * ![Inside Scoop - adsquare](https://illumin.com/wp-content/uploads/2024/11/illumin_InsideScoop-Blog-2.png)
         
-        Webinar
+        Webinar - Nov 19
         
-        Watch the recording of our 2024 retail advertising trends webinar with Rockerbox!
+        Tracking ad exposure with real-time mobile and foot traffic data.
         
-        [Register](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
+        [Register](https://illumin.com/insights/podcasts-webinars/webinar-measuring-roi-impact-data-drive-store-ads/)
         
 * [Insights](https://illumin.com/insights/)
     * [Insights](#)
