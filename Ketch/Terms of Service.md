@@ -1,6 +1,7 @@
-[**🆕 Are hidden website trackers putting your brand at risk? Find out now! 🔎**
+[**🆕 Partner with Ketch to redefine privacy, permissioning, and consent for the AI era  
+**
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://content.ketch.com/privacy-stress-test)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/partnerships)
 
 [![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671a5cb463dbb74061221ee1_sail.svg)](https://www.ketch.com/)
 
