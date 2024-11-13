@@ -260,14 +260,10 @@ Nous offrons des solutions de paiement rapides et flexibles.
 
 * [Commercial Lending](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/commercial/)
 * [CMHC Lending](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/cmhc/)
-* [Conventional Commercial Mortgages](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/conventional-commercial-mortgages/)
-* [Loan Calculator](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/loan-calculator/)
 * [Find an Expert](https://www.peoplestrust.com/en/peoples-trust/mortgage-services/lending/find-an-expert/)
 
 * [Prêts hypothécaires commerciaux](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/commercial/)
 * [Prêts de la SCHL](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/cmhc/)
-* [Prêts hypothécaires ordinaires pour immeubles commerciaux](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/prets-hypothecaires-ordinaires-pour-immeubles-commerciaux/)
-* [Calculatrice de prêt](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/calculatrice-de-pret/)
 * [Trouver un expert](https://www.peoplestrust.com/fr/compagnie-de-fiducie-peoples/hypotheques/prets-hypotheciares/trouver-un-expert/)
 
 * [Merchant Acquiring Services](https://www.peoplestrust.com/en/peoples-payment-solutions/merchant-acquiring-services/)
