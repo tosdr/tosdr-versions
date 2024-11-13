@@ -183,6 +183,7 @@ Footer
 * [Our history](https://www.nationaltheatre.org.uk/about-us/our-history/)
 * [Press](https://www.nationaltheatre.org.uk/communications/)
 * [Modern Slavery Statement](https://www.nationaltheatre.org.uk/modern-slavery-statement/)
+* [Safeguarding Policy](https://www.nationaltheatre.org.uk/policies/safeguarding-policy/)
 
 * [What’s on](https://www.nationaltheatre.org.uk/whats-on/)
 * [Your visit](https://www.nationaltheatre.org.uk/your-visit/)
