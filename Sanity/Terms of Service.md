@@ -365,7 +365,7 @@ Stay connected
 --------------
 
 * [GitHub](https://github.com/sanity-io)
-* [Slack](https://slack.sanity.io/)
+* [Community](https://slack.sanity.io/)
 * [X.com](https://x.com/sanity_io)
 * [Bluesky](https://bsky.app/profile/sanity.io)
 * [YouTube](https://www.youtube.com/channel/UCGz69JwGRptteFAaX8hSKCQ)
