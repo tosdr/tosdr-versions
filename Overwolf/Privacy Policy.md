@@ -12,8 +12,10 @@
 * [Français](https://www.overwolf.com/fr/docs/overwolf/website/privacy-policy)
 * [Italiano](https://www.overwolf.com/it/docs/overwolf/website/privacy-policy)
 * [日本語](https://www.overwolf.com/ja/docs/overwolf/website/privacy-policy)
+* [한국어](https://www.overwolf.com/ko/docs/overwolf/website/privacy-policy)
 * [Polski](https://www.overwolf.com/pl/docs/overwolf/website/privacy-policy)
 * [Português](https://www.overwolf.com/pt/docs/overwolf/website/privacy-policy)
+* [简体中文](https://www.overwolf.com/zh/docs/overwolf/website/privacy-policy)
 
 Search
 
