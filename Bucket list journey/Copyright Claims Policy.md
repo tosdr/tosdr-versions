@@ -243,6 +243,44 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[If you’re heading to Point Reyes National Seasho ![If you’re heading to Point Reyes National Seashore in  #northerncalifornia, these are my favorite places to eat to add to your bucket list.
+(💫 SAVE for planning your trip to Northern #California💫)
+POINT REYES, CALIFORNIA RESTAURANTS
+1️⃣ Route One Bakery & Kitchen: Outdoor pizza slices and sourdough olive bread—yes, please! @routeonebakeryandkitchen
+2️⃣ Hog Island Oyster Farm: the famous fresh oysters everyone talks about! @hogislandoysterfarm
+3️⃣ The Marshall Store: Smoked oysters & chowder by the water @the.marshall.store 
+4️⃣ Nick’s Cove: Cozy seafood by the pier @nickscove
+5️⃣ Tony’s Seafood: Classic fish tacos, fried oysters and seafood stew (it’s a part of the Hog Island Oyster Co. family)
+6️⃣ Cafe Reyes: Wood-fired pizza with a local twist 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area.  @cafereyes_94956 
+7️⃣ Side Street Kitchen: Farm to table dining in  Point Reyes Station. @sidestreet_prs
+8️⃣ The Farmer’s Wife: Must-try tuna melt with chips on it! Plus lots of other yummy choices @thefarmersxwife
+9️⃣ Station House Cafe: popular brunch spot with local, seasonal food @stationhousecafe
+1️⃣0️⃣ Due West Tavern: Trendy spot for clam chowder locally sourced seafood & steak 🥩@duewestpointreyes
+1️⃣1️⃣ Tap Room: Craft beer & local burger vibes with a special menu that changes every night @invernessparkmarket
+1️⃣2️⃣ Saltwater Oyster Depot: Fresh oysters & seafood chowder @saltwateroysterdepot 
+1️⃣3️⃣ BoVida: Smoothies & acai bowls for a lighter bite @bovidabolinas 
+1️⃣4️⃣ Parkside Cafe: Seafood & sandwiches steps away from Stinson Beach @parksidecafestinsonbeach
+#pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia #california #travelbucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![If you’re heading to Point Reyes National Seashore in  #northerncalifornia, these are my favorite places to eat to add to your bucket list.
+(💫 SAVE for planning your trip to Northern #California💫)
+POINT REYES, CALIFORNIA RESTAURANTS
+1️⃣ Route One Bakery & Kitchen: Outdoor pizza slices and sourdough olive bread—yes, please! @routeonebakeryandkitchen
+2️⃣ Hog Island Oyster Farm: the famous fresh oysters everyone talks about! @hogislandoysterfarm
+3️⃣ The Marshall Store: Smoked oysters & chowder by the water @the.marshall.store 
+4️⃣ Nick’s Cove: Cozy seafood by the pier @nickscove
+5️⃣ Tony’s Seafood: Classic fish tacos, fried oysters and seafood stew (it’s a part of the Hog Island Oyster Co. family)
+6️⃣ Cafe Reyes: Wood-fired pizza with a local twist 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area.  @cafereyes_94956 
+7️⃣ Side Street Kitchen: Farm to table dining in  Point Reyes Station. @sidestreet_prs
+8️⃣ The Farmer’s Wife: Must-try tuna melt with chips on it! Plus lots of other yummy choices @thefarmersxwife
+9️⃣ Station House Cafe: popular brunch spot with local, seasonal food @stationhousecafe
+1️⃣0️⃣ Due West Tavern: Trendy spot for clam chowder locally sourced seafood & steak 🥩@duewestpointreyes
+1️⃣1️⃣ Tap Room: Craft beer & local burger vibes with a special menu that changes every night @invernessparkmarket
+1️⃣2️⃣ Saltwater Oyster Depot: Fresh oysters & seafood chowder @saltwateroysterdepot 
+1️⃣3️⃣ BoVida: Smoothies & acai bowls for a lighter bite @bovidabolinas 
+1️⃣4️⃣ Parkside Cafe: Seafood & sandwiches steps away from Stinson Beach @parksidecafestinsonbeach
+#pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia #california #travelbucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCRnq6FJ3XV/) 
+
 [Here’s to you if you stepped out of your comfort ![Here’s to you if you stepped out of your comfort zone today—even just a little! Bucket lists aren’t always about jumping out of planes or climbing mountains—though if you did, you’re amazing! 👏
 Sometimes, it’s about the small victories, like trying a new recipe, signing up for a dance class, or saying yes to something you almost talked yourself out of. 🌟 So if you tried something new today, this glass of Zinfandel is for YOU! 
 What little adventure did you have today?
@@ -300,34 +338,6 @@ Not up for all those stairs? No worries! There’s a great viewing platform near
 ⚡️Save for your trip to Northern California⚡️
 @pointreyesnps @visitcalifornia
 #PointReyes #pointreyescalifornia #PointReyesLighthouse #california #northern california #BucketListAdventures #visitcalifornia #lighthouse #travelbucketlist](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBrAOgyvE34/) 
-
-[If you’re heading to the #NorthernCalifornia t ![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
-(💫 SAVE for planning your trip to Northern #California💫)
-SEBASTOPOL, CALIFORNIA RESTAURANTS
-1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
-2️⃣ @khom_loi_sonoma 🌶️ Spicy Thai eats with local Sonoma ingredients. Don’t skip the drunken noodles, it was my favorite thing we ate! 
-3️⃣ @goldfinch.sebastopol 🍤 California bistro with seasonal dishes and ballpark fries you’ll crave forever. If you’re a seafood lover, do yourself a favor and order the halibut ceviche!
-4️⃣ @handline.sebastopol 🌮 Retro vibes with fish tacos and dreamy soft-serve ice cream. Best enjoyed on the patio! 
-5️⃣ @fernbar.sebastopol 🍹 Cocktails that wow, plus a fried chicken sandwich and mushroom umami bomb you’ll drool over for days. 
-6️⃣ @thefarmersxwife 🥪 Their tuna melt with chips *inside* will change your life—trust me.  Plus, the Farm Market Salad is loaded with fresh ingredients.
-7️⃣ @piala.winebar 🥟 Georgian comfort food, including cheesy khachapuri, perfect for a cozy meal. 
-8️⃣ @oyster_sebastopol🦪 Fresh oysters, Oyster Po’Boys, baked oysters and lots of other yummy fish. 
-@visitsonoma @visitcalifornia
-#Sebastopol #sebastopolCalifornia #california #sonomacounty #northerncalifornia #BucketListAdventures #travelbucketlist #bucketlist #sonomacountyfood](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
-(💫 SAVE for planning your trip to Northern #California💫)
-SEBASTOPOL, CALIFORNIA RESTAURANTS
-1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
-2️⃣ @khom_loi_sonoma 🌶️ Spicy Thai eats with local Sonoma ingredients. Don’t skip the drunken noodles, it was my favorite thing we ate! 
-3️⃣ @goldfinch.sebastopol 🍤 California bistro with seasonal dishes and ballpark fries you’ll crave forever. If you’re a seafood lover, do yourself a favor and order the halibut ceviche!
-4️⃣ @handline.sebastopol 🌮 Retro vibes with fish tacos and dreamy soft-serve ice cream. Best enjoyed on the patio! 
-5️⃣ @fernbar.sebastopol 🍹 Cocktails that wow, plus a fried chicken sandwich and mushroom umami bomb you’ll drool over for days. 
-6️⃣ @thefarmersxwife 🥪 Their tuna melt with chips *inside* will change your life—trust me.  Plus, the Farm Market Salad is loaded with fresh ingredients.
-7️⃣ @piala.winebar 🥟 Georgian comfort food, including cheesy khachapuri, perfect for a cozy meal. 
-8️⃣ @oyster_sebastopol🦪 Fresh oysters, Oyster Po’Boys, baked oysters and lots of other yummy fish. 
-@visitsonoma @visitcalifornia
-#Sebastopol #sebastopolCalifornia #california #sonomacounty #northerncalifornia #BucketListAdventures #travelbucketlist #bucketlist #sonomacountyfood](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBY8VPtvX2n/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
