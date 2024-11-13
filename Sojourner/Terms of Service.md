@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-8e0700ac132386c563d6b9042536d636
+6b5ca7a52e3a3ef4b44abfb98099e36b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Onyx box clasp](https://sojourner.biz/images/cache/SKU0005variations.200.jpg)](https://sojourner.biz/clasps/semi-precious/onyx-box-clasp.html "Onyx box clasp")
+[![4 mm dark peacock seed pearls](https://sojourner.biz/images/cache/pearls/PE0227.200.jpg)](https://sojourner.biz/beads/pearls/4-mm-dark-peacock-seed-pearls.html "4 mm dark peacock seed pearls")
 
-#### [Onyx box clasp](https://sojourner.biz/clasps/semi-precious/onyx-box-clasp.html "Onyx box clasp")
+#### [4 mm dark peacock seed pearls](https://sojourner.biz/beads/pearls/4-mm-dark-peacock-seed-pearls.html "4 mm dark peacock seed pearls")
 
-$23.50
+$10.00
 
 ### Best Sellers
 
@@ -160,16 +160,16 @@ $23.50
     $15.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
+6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Large oval pearl clasp](https://sojourner.biz/clasps/pearl/large-oval-pearl-clasp.html "Large oval pearl clasp")  
-    $35.00
+10. [Gray pearl toggle clasp](https://sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
+    $28.00
 
 [Top](#)
 
