@@ -151,6 +151,7 @@ Latest reactions
 Latest forum posts
 
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
+* [Kernel.tmp Mega-SCSI](https://www.msx.org/forum/msx-talk/software/kerneltmp-mega-scsi?page=1 "Kernel.tmp Mega-SCSI")
 * [μ·PACK pronounciation](https://www.msx.org/forum/msx-talk/general-discussion/%CE%BC%C2%B7pack-pronounciation?page=1 "μ·PACK pronounciation")
 * [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
 * [Yamaha YIS-503 II Power supply Unit pinout information](https://www.msx.org/forum/msx-talk/hardware/yamaha-yis-503-ii-power-supply-unit-pinout-information "Yamaha YIS-503 II Power supply Unit pinout information")
@@ -162,7 +163,6 @@ Latest forum posts
 * [Omega keyboard switch for spacebar](https://www.msx.org/forum/msx-talk/hardware/omega-keyboard-switch-for-spacebar "Omega keyboard switch for spacebar")
 * [3D-printable Omega MSX cartridge slot guide](https://www.msx.org/forum/msx-talk/general-discussion/3d-printable-omega-msx-cartridge-slot-guide "3D-printable Omega MSX cartridge slot guide")
 * [\[FUSION-C\] Call to FUSION-C users & coders](https://www.msx.org/forum/msx-talk/software/fusion-c-call-to-fusion-c-users-coders?page=4 "[FUSION-C]  Call to FUSION-C users & coders ")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=75 "WonderTANG! Who wants to juice up your MSX?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
