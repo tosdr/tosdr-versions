@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Alphabet Fun!](https://www.myabandonware.com/game/alphabet-fun-szx)
-* [Mogura Rebirth](https://www.myabandonware.com/game/mogura-rebirth-szu)
-* [Gone to the Dogs](https://www.myabandonware.com/game/gone-to-the-dogs-szt)
-* [Codename Silver](https://www.myabandonware.com/game/codename-silver-szs)
-* [Read & Spell: In the Days of Knights and Castles](https://www.myabandonware.com/game/read-spell-in-the-days-of-knights-and-castles-szr)
+* [Bible Crossword Puzzles](https://www.myabandonware.com/game/bible-crossword-puzzles-tou)
+* [Berušky](https://www.myabandonware.com/game/berusky-tot)
+* [Battle of the Elements](https://www.myabandonware.com/game/battle-of-the-elements-tos)
+* [Barbarian](https://www.myabandonware.com/game/barbarian-tor)
+* [Ballistic](https://www.myabandonware.com/game/ballistic-toq)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [GigaWing Generations](https://www.myabandonware.com/game/gigawing-generations-t87)
-* [Harihari Seal Paradise](https://www.myabandonware.com/game/harihari-seal-paradise-sxl)
-* [Revenge of the Mutant Camels II](https://www.myabandonware.com/game/revenge-of-the-mutant-camels-ii-mgp)
+* [Puzzle Bobble 2X & Space Invaders](https://www.myabandonware.com/game/puzzle-bobble-2x-space-invaders-qjo)
+* [Time Pilot '84](https://www.myabandonware.com/game/time-pilot-84-rjr)
+* [Marvel vs. Capcom 2: New Age Of Heroes](https://www.myabandonware.com/game/marvel-vs-capcom-2-new-age-of-heroes-sox)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
