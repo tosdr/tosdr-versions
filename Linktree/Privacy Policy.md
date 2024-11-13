@@ -1,3 +1,5 @@
+Privacy Notice | Linktree              
+
 [![](https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg)![](https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/666b48ad59add9f2777bb76f_download-2.svg)](https://linktr.ee/)
 
 [Templates](https://linktr.ee/s/templates/)[Marketplace](https://linktr.ee/marketplace)
