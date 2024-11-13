@@ -52,9 +52,9 @@
     
     By Function
     
-    * [E-commerce](https://cloudinary.com/solutions/e-commerce-teams)
     * [CX Professionals](https://cloudinary.com/solutions/cx-professionals)
     * [Developers](https://cloudinary.com/developers)
+    * [E-commerce](https://cloudinary.com/solutions/e-commerce-teams)
     * [IT Teams](https://cloudinary.com/solutions/it-teams)
     * [Marketers](https://cloudinary.com/solutions/marketing-teams)
     * [Product and Engineering](https://cloudinary.com/solutions/product-and-engineering-teams)
