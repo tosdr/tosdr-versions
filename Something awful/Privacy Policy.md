@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Never Played a Video Game? Here's Everything You Need to Know](https://www.somethingawful.com/video-game-article/how-video-game/)
-* [You fudge with me, you fudge with the best!](https://www.somethingawful.com/awfulvision/wrestling-furries-scarface/1/)
-* [Pet Disasters!](https://www.somethingawful.com/photoshop-phriday/pet-disasters-byob/1/)
-* [Flames from the Truth Media BioShock Review](https://www.somethingawful.com/truth-media-reviews/bioshock-flames/1/)
-* [MiSTer FPGA - Tinker, Tailor, Solder, Sprite](https://www.somethingawful.com/video-game-article/mister-fpga-core/)
+* [Worst Goon Gifts \[Receiving\]: (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/worst-goon-gifts/1/)
+* [AD&D 2nd Edition Planescape Monstrous Compendium Appendix III (1998)](https://www.somethingawful.com/dungeons-and-dragons/planescape-inner-planes/1/)
+* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
+* [Bugs Bunny's Crazy Castle](https://www.somethingawful.com/rom-pit/nes-bugs-bunny/)
+* [20 Alternate Titles for I Have No Mouth, and I Must Scream](https://www.somethingawful.com/news/harlan-ellison-alternatives/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Who has a good baby?](http://forums.somethingawful.com/showthread.php?threadid=4075223 "Who has a good baby?")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Avoid fifth glyph. It is bad.](http://forums.somethingawful.com/showthread.php?threadid=4075230 "Avoid fifth glyph. It is bad.")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Who has a good baby?](http://forums.somethingawful.com/showthread.php?threadid=4075223 "Who has a good baby?")
 
 ### Random Articles
 
-* [The Best Jeopardy Stories](https://www.somethingawful.com/news/jeopardy-trebek-stories/)
-* [Chicken Sunday](https://www.somethingawful.com/news/chicken-sunday/1/)
-* [5 Essential Tips for Mass Transit Travel](https://www.somethingawful.com/news/train-riding-tips/)
-* [Knight Online World](https://www.somethingawful.com/mmo-roulette/knightonlineworld/1/)
-* [Initiations Makes Me Hazy](https://www.somethingawful.com/news/initiations-makes-me/)
+* [Hercolubus!!](https://www.somethingawful.com/awful-links/awful-link-2563/)
+* [MEN IN ONE-PIECE SWIMSUITS SITE](https://www.somethingawful.com/awful-links/awful-link-1747/)
+* [August 13, 2013](https://www.somethingawful.com/twitter-tuesday/tt08-13-13/)
+* [Television and Movie Forums](https://www.somethingawful.com/weekend-web/television-movie-forums/1/)
+* [A Tribute to Master Cheung](https://www.somethingawful.com/news/tribute-master-cheung/)
 
 [Random!](https://www.somethingawful.com/random/)
 
