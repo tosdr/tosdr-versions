@@ -259,14 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Suspended sentence for Derry man convicted of harassment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man convicted of harassment")](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
-
-Derry Magistrate's Court
+[![Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous")](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Suspended sentence for Derry man convicted of harassment](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
 
@@ -275,14 +273,14 @@ Derry Magistrate's Court
 [Derry Death Notices - Wednesday, November 13, 2024](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Dessie McAleese retires from McKay Family Butchers ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dessie McAleese retires from McKay Family Butchers ")](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
+[![Man arrested as police seize quantity of suspected Class B drugs in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested as police seize quantity of suspected Class B drugs in Derry")](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
 
-Dessie McAleese retires from McKay Family Butchers
+PSNI
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Long serving butcher Dessie hangs up his apron](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested as police seize quantity of suspected Class B drugs in Derry](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Magherafelt firm takes the steer on new £13.5M DVA test centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt firm takes the steer on new £13.5M DVA test centre")](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
 
@@ -293,55 +291,57 @@ An artist's impression of how the new state-of-the-art building will look.
 [Magherafelt firm takes the steer on new £13.5M DVA test centre](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards")](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
+[![Derry man charged with attempting to commit grievous bodily harm returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with attempting to commit grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
 
-Aaron McGrath and Paul Donnelly proudly accept the Medium Independent Dealer award from Shannon Baker, Affiliation & Partnerships Manager at Codeweavers, category sponsor.
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with attempting to commit grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park")](https://www.derrynow.com/news/national-news/1654147/watch-he-hasn-t-lost-it-paul-mescal-returns-to-his-gaa-roots-to-tog-out-at-croke-park.html)
+[![Leading Derry dissident republican charged with breaches of counter-terrorism legislation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading Derry dissident republican charged with breaches of counter-terrorism legislation")](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Leading Derry dissident republican charged with breaches of counter-terrorism legislation](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
+
+Paddy Tally is set to become te new Derry manager.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Paddy Tally set to be named as new Derry senior football manager](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New RTÉ kids show stars Derry YouTuber Adam B](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New RTÉ kids show stars Derry YouTuber Adam B")](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+
+Pictured: Rathdowney comedian Mary Claire Fitzpatrick
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Olivia Rodrigo to spill her 'GUTS' as she returns for Summer concert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Olivia Rodrigo to spill her 'GUTS' as she returns for Summer concert")](https://www.derrynow.com/news/national-news/1653616/olivia-rodrigo-to-spill-her-guts-as-she-returns-for-summer-concert.html)
+
+Tickets are set to go on sale Friday, November 15 at 8am on Ticketmaster,
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park](https://www.derrynow.com/news/national-news/1654147/watch-he-hasn-t-lost-it-paul-mescal-returns-to-his-gaa-roots-to-tog-out-at-croke-park.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Olivia Rodrigo to spill her 'GUTS' as she returns for Summer concert](https://www.derrynow.com/news/national-news/1653616/olivia-rodrigo-to-spill-her-guts-as-she-returns-for-summer-concert.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New Foyle Hospice shop to open in Ballykelly next week](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New Foyle Hospice shop to open in Ballykelly next week")](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
+[![Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge")](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
 
-Foyle Hospice volunteer Teresa pictured in one of the charity's shops.
-
-[Home](https://www.derrynow.com/)
-
-[New Foyle Hospice shop to open in Ballykelly next week](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous")](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
+Acorn Farm Kids from Nazareth House School outside Gate Lodge
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry charity launches new ‘Movember’ campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry charity launches new ‘Movember’ campaign")](https://www.derrynow.com/news/local-news/1653807/derry-charity-launches-new-movember-campaign.html)
-
-Group pictured at the unveiling of Hive's new Movember billboard at Free Derry Corner.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry charity launches new ‘Movember’ campaign](https://www.derrynow.com/news/local-news/1653807/derry-charity-launches-new-movember-campaign.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry singer and songwriter Joe Kelly nominated for three awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry singer and songwriter Joe Kelly nominated for three awards")](https://www.derrynow.com/news/what-s-on/1653493/county-derry-singer-and-songwriter-joe-kelly-nominated-for-three-awards.html)
-
-Dungiven singer/songwriter Joe Kelly
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[County Derry singer and songwriter Joe Kelly nominated for three awards](https://www.derrynow.com/news/what-s-on/1653493/county-derry-singer-and-songwriter-joe-kelly-nominated-for-three-awards.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,57 +523,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man arrested as police seize quantity of suspected Class B drugs in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested as police seize quantity of suspected Class B drugs in Derry")](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
+[![Education Minister invited to visit St Brigid's College in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Education Minister invited to visit St Brigid's College in Derry")](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
 
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man arrested as police seize quantity of suspected Class B drugs in Derry](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
-
-Paddy Tally is set to become te new Derry manager.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Paddy Tally set to be named as new Derry senior football manager](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous")](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
+Education Minister Paul Givan has been invited to visit St Brigid’s College.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Education Minister invited to visit St Brigid's College in Derry](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Limavady High School surpasses fundraising goal with £60,000 for Air Ambulance NI](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Picture8-1731495588023.png--.png?1731495588087 "Limavady High School surpasses fundraising goal with £60,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1654545/limavady-high-school-surpasses-fundraising-goal-with-60-000-for-air-ambulance-ni.html)
-
-Kevin O’Neill, Ellie Smyth, Mr Ian Crowe MBE, Mr. Mornin present the cheque to Briege Mulholland.
+[![Still time to share views on Northern Trust’s proposals for general surgery services](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Still time to share views on Northern Trust’s proposals for general surgery services")](https://www.derrynow.com/news/home/1655218/still-time-to-share-views-on-northern-trusts-proposals-for-general-surgery-services.html)
 
 [Home](https://www.derrynow.com/)
 
-[Limavady High School surpasses fundraising goal with £60,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1654545/limavady-high-school-surpasses-fundraising-goal-with-60-000-for-air-ambulance-ni.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Still time to share views on Northern Trust’s proposals for general surgery services](https://www.derrynow.com/news/home/1655218/still-time-to-share-views-on-northern-trusts-proposals-for-general-surgery-services.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates](https://www.derrynow.com/resizer/165/93/true/2024_11_13/MixCollage-13-Nov-2024-11-06-AM-9211-1731496089466.jpg--.jpg?1731496089527 "Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates")](https://www.derrynow.com/news/home/1654557/get-your-pink-back-hilarious-irish-comedian-diona-doherty-announces-derry-dates.html)
-
-Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates
-
-[Home](https://www.derrynow.com/)
-
-[Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates](https://www.derrynow.com/news/home/1654557/get-your-pink-back-hilarious-irish-comedian-diona-doherty-announces-derry-dates.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/resizer/165/93/true/1598981489699.jpg--.jpg?1598981489000 "New RTÉ kids show stars Derry YouTuber Adam B")](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
-
-Pictured: Rathdowney comedian Mary Claire Fitzpatrick
+[![Forgotten wartime sites from North Down to the North Coast collated](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_13/1731506721690_0.jpg--.jpg?1731506721725 "Forgotten wartime sites from North Down to the North Coast collated")](https://www.derrynow.com/news/local-news/1655076/forgotten-wartime-sites-from-north-down-to-the-north-coast-collated.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+[Forgotten wartime sites from North Down to the North Coast collated](https://www.derrynow.com/news/local-news/1655076/forgotten-wartime-sites-from-north-down-to-the-north-coast-collated.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Almost 9,000 emergency food parcels distributed in Foyle in last year ](https://www.derrynow.com/resizer/165/93/true/2024_11_13/foodparcels-1731510491364.jpg--.jpg?1731510491438 "Almost 9,000 emergency food parcels distributed in Foyle in last year ")](https://www.derrynow.com/news/local-news/1654905/almost-9-000-emergency-food-parcels-distributed-in-foyle-in-last-year.html)
+
+Almost 9,000 emergency food parcels distributed in Foyle in last year
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Almost 9,000 emergency food parcels distributed in Foyle in last year](https://www.derrynow.com/news/local-news/1654905/almost-9-000-emergency-food-parcels-distributed-in-foyle-in-last-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with attempting to commit grievous bodily harm returned for trial](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man charged with attempting to commit grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with attempting to commit grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Acorn_Farm_Kids_from_Nazareth_House_School_outside_Gate_Lodge-1731497541391_1731497564.JPG--.JPG?1731497564540 "Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge")](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
+
+Acorn Farm Kids from Nazareth House School outside Gate Lodge
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
