@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [labile](https://www.merriam-webster.com/word-of-the-day)
+#### [bevy](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of labile](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of labile")
+[![Listen to the pronunciation of bevy](/dist-cross-dungarees/2024-11-12--19-32-38-yrxwe/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of bevy")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
