@@ -117,61 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Wish I started ages ago!
 > ------------------------
 > 
-> Thanks Adriaan...
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> You guys even work on Sundays?
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
 > 
-> I’m impressed!!
+> I just wish I started using Invoices Online ages ago.
 
-Johan Botha - Brand Xplosion
+Terri Winfield
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=158703162)  
-Moving Made Easy (PTY) Ltd
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=130214692)  
+TIGERDSL
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=96170831)  
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=175745979)  
+Abandoned Vehicle and Truck Solutions
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=29504573)  
+Highlands Auto Engineering
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=168848278)  
+Konsortium Operations (PTY) LTD
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=54681364)  
+Vplay Letsheng Mall
+
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=72663066)  
 Lindani Protection Services & Projects
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=155327992)  
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=33525596)  
+Hydroworld T/A Milliqua
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=208520671)  
+Firstweb Hosting & Design
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=67509410)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=61813643)  
+VIR Electrical (PTY) LTD
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=10239749)  
+Electro-Heat
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=94319294)  
+Lion Software Develepment
+
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=44370794)  
+SafeTclip
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=196207420)  
+Skinz Printing & Branding
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=47443262)  
 Oukraal Merino's
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=46564450)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=187975675)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=48629529)  
-NIMAWELL
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=213625409)  
-Kainos (Pty) Ltd
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=201198747)  
-United Paintball Federation
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=78299394)  
-Little Nutty Professors
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=199393507)  
-FX ACCOUNTING
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=202162951)  
-J.M. HUMAN RESOURCES
-
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=193250607)  
-Wiselink Broadband Vryheid
-
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=142561471)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=158389714)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=171406791)  
-IYD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
