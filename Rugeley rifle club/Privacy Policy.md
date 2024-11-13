@@ -226,5 +226,6 @@ If you have any questions about this Privacy Policy, please contact us by email:
 * [facebook](https://www.facebook.com/rugeleyrifleclub/ "Facebook")
 * [rss](https://www.rugeleyrifleclub.org.uk/feed "RSS")
 * [mastodon](http://%40rugeleyrifleclub@www.rugeleyrifleclub.org.uk/ "Mastodon")
+* [instagram](https://www.instagram.com/rugeleyrifleclub/ "Instagram")
 
 Copyright Rugeley Rifle Club © 2024 All Rights Reserved. [Website Privacy Policy](https://www.rugeleyrifleclub.org.uk/website-privacy-policy)
