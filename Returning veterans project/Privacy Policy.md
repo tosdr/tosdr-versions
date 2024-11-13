@@ -185,14 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Randy, Shawn, Kyle and Jacob Hester](https://cdn.returningveterans.org/images/honor/Jacob_Hester.JPG)  
+![The US Navy](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Randy, Shawn, Kyle and Jacob Hester**  
-United States Air Force  
-United States Army  
+**In Honor of The US Navy**  
 United States Navy  
-United States Marine Corps  
-Submitted by Michael Hester](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Kyle Foreman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -214,13 +211,11 @@ Returning Veterans Project
 * [](https://www.instagram.com/returningveteransproject/ "See what we're up to on Instagram")
 * [_Subscribe to Our Newsletter_](https://returningveterans.org/about/stay-connected/stay-connected/534)
 
-[](https://www.guidestar.org/profile/20-4034255)
+[Candid Platinum Transparency 2024](https://www.guidestar.org/profile/20-4034255)
 
 [![America's Warrior Partnership](https://cdn.returningveterans.org/images/site/logo-awp.png)](https://www.americaswarriorpartnership.org/community-integration)
 
 [![Veteran Ready](https://cdn.returningveterans.org/images/site/veteran-ready.png)](https://psycharmor.org/certified-organizations/)
-
-[![National Association of Veteran-Serving Organizations](https://cdn.returningveterans.org/images/site/navso.png)](https://www.navso.org/)
 
 [![Combined Federal Campaign](https://cdn.returningveterans.org/images/site/logo-cfc.png)](https://cfcgiving.opm.gov/welcome)
 
@@ -235,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/13/24 - 7:23:36  
+Printed 11/13/24 - 1:39:18  
 © 2024 Returning Veterans Project
