@@ -23,9 +23,9 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 91 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 89 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 91 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-91-flaws/)
+        Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 89 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-89-flaws/)
     * [![iPhones now auto-restart to block access to encrypted data after long idle times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         iPhones now auto-restart to block access to encrypted data after long idle times](https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
@@ -36,18 +36,18 @@
         
         Volt Typhoon rebuilds malware botnet following FBI disruption](https://www.bleepingcomputer.com/news/security/volt-typhoon-rebuilds-malware-botnet-following-fbi-disruption/)
     
+    * [![Critical bug in EoL D-Link NAS devices now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Critical bug in EoL D-Link NAS devices now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-bug-in-eol-d-link-nas-devices-now-exploited-in-attacks/)
+    * [![New Google Pixel AI feature analyzes phone conversations for scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Google Pixel AI feature analyzes phone conversations for scams](https://www.bleepingcomputer.com/news/google/new-google-pixel-ai-feature-analyzes-phone-conversations-for-scams/)
+    * [![New ShrinkLocker ransomware decryptor recovers BitLocker password](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New ShrinkLocker ransomware decryptor recovers BitLocker password](https://www.bleepingcomputer.com/news/security/new-shrinklocker-ransomware-decryptor-recovers-bitlocker-password/)
     * [![This AI-powered voice recorder deal makes every meeting memorable](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This AI-powered voice recorder deal makes every meeting memorable](https://www.bleepingcomputer.com/offer/deals/this-ai-powered-voice-recorder-deal-makes-every-meeting-memorable/)
-    * [![Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
-    * [![Microsoft Exchange adds warning to emails abusing spoofing flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft Exchange adds warning to emails abusing spoofing flaw](https://www.bleepingcomputer.com/news/security/unpatched-microsoft-exchange-server-flaw-enables-spoofing-attacks/)
-    * [![D-Link won’t fix critical bug in 60,000 exposed EoL modems](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        D-Link won’t fix critical bug in 60,000 exposed EoL modems](https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-bug-in-60-000-exposed-eol-modems/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
