@@ -1,3 +1,112 @@
+Sections
+
+[![Action News Jax Logo](/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=859)](https://www.actionnewsjax.com/ "Action News Jax Logo")
+
+[WATCH](https://www.actionnewsjax.com/video/)
+
+[73°
+
+![Fair](/pf/resources/images/weather/status-icons/33.png?d=859)](https://www.actionnewsjax.com/weather/)
+
+[WATCH](https://www.actionnewsjax.com/video/)
+
+   [News](https://www.actionnewsjax.com/news/)   [Video](https://www.actionnewsjax.com/video/)   [First Alert Weather](https://www.actionnewsjax.com/weather/)   [Hurricane Center](https://www.actionnewsjax.com/weather/hurricane/)   [Investigates](https://www.actionnewsjax.com/news/investigates/)   [Sports](https://www.actionnewsjax.com/sports/)   [Election 2024](https://www.actionnewsjax.com/news/politics/)   [Family Focus](https://www.actionnewsjax.com/family-focus/)   [Florida Lottery](https://www.actionnewsjax.com/florida-lottery/)   [Steals and Deals(Opens in new window)](https://www.actionnewsjax.com/sponsored/local-steals-and-deals/)   [Share Your Pics!](https://www.actionnewsjax.com/share-your-pics/)   [Advertise With Us(Opens in new window)](https://www.actionnewsjax.com/advertise-with-us/)
+
+* [News](https://www.actionnewsjax.com/news/)
+    
+    * [Vote In Our Poll](https://www.actionnewsjax.com/vote/)
+    * [Photo Galleries](https://www.actionnewsjax.com/photos/)
+    * [Election 2024](https://www.actionnewsjax.com/news/politics/)
+    * [This Week in the 904](https://www.actionnewsjax.com/news/thisweekinthe904/)
+    * [Action Button Links](https://www.actionnewsjax.com/news/action-button-links/)
+    * [Newsletter Sign-up(Opens in new window)](https://membercenter.actionnewsjax.com/newsletters/)
+    * [Clark Howard](https://www.actionnewsjax.com/news/consumer/clark-howard/)
+    
+* [Video](https://www.actionnewsjax.com/video/)
+    
+    * [Watch Live: Action News Jax NOW](https://www.actionnewsjax.com/video/live-stream/)
+    * [Action Sports Jax 24/7](https://www.actionnewsjax.com/video/action-sports-jax-livestream/)
+    * [Action News Jax 24/7 News](https://www.actionnewsjax.com/live-breaking/)
+    * [Weather 24/7 Stream](https://www.actionnewsjax.com/live-weather/)
+    * [Social Media](https://www.actionnewsjax.com/socialmedia/)
+    * [What's on CBS47 & FOX30](https://www.actionnewsjax.com/about-us/cbs47listings/)
+    * [The $pend $mart Stream](https://www.actionnewsjax.com/video/spend-smart-livestream/)
+    * [Cheddar](https://www.actionnewsjax.com/video/cheddar-news-livestream/)
+    * [Law & Crime](https://www.actionnewsjax.com/video/law-crime-livestream/)
+    * [Curiosity NOW](https://www.actionnewsjax.com/video/curiosity-now-livestream/)
+    * [Gusto TV](https://www.actionnewsjax.com/video/gusto-tv-livestream/)
+    
+* [First Alert Weather](https://www.actionnewsjax.com/weather/)
+    
+    * [Hurricane Center](https://www.actionnewsjax.com/weather/hurricane/)
+    * [Talking the Tropics](https://www.actionnewsjax.com/weather/talking-the-tropics/)
+    * [Dog Walk Forecast](https://www.actionnewsjax.com/dogwalkforecast/)
+    * [First Alert Neighborhood Weather Stations](https://www.actionnewsjax.com/weather/first_alert_neighborhood_weather_stations/)
+    * [Buresh Blog](https://www.actionnewsjax.com/weather/buresh/)
+    * [First Alert Doppler HD](https://www.actionnewsjax.com/weather/doppler/)
+    * [Interactive Radar](https://www.actionnewsjax.com/weather/interactive-radar/)
+    * [First Alert Wx App(Opens in new window)](https://wjaxweatherapp.com/)
+    * [Sky Cams](https://www.actionnewsjax.com/weather/skycams/)
+    * [Hour by Hour](https://www.actionnewsjax.com/weather/hour-by-hour/)
+    * [7-Day Forecast](https://www.actionnewsjax.com/weather/7day/)
+    * [Weekend Forecast](https://www.actionnewsjax.com/weather/weekend-forecast/)
+    * [Sunrise & Sunset Shots](https://www.actionnewsjax.com/sunrise/)
+    * [Eclipse 2024](https://www.actionnewsjax.com/eclipse/)
+    
+* [Share Your Pics!](https://www.actionnewsjax.com/share-your-pics/)
+* [Investigates](https://www.actionnewsjax.com/news/investigates/)
+    
+    * [Priced Out Of Jax](https://www.actionnewsjax.com/pricedoutofjax/)
+    * [Restaurant Report](https://www.actionnewsjax.com/news/restaurantreport/)
+    * [Send Ben](https://www.actionnewsjax.com/investigates/send-ben/)
+    
+* [Sports](https://www.actionnewsjax.com/sports/)
+    
+    * [Jacksonville Jaguars](https://www.actionnewsjax.com/sports/jaguars/)
+    * [College Sports](https://www.actionnewsjax.com/college-sports/)
+    * [THE PLAYERS Championship](https://www.actionnewsjax.com/theplayers/)
+    * [Friday Night Blitz](https://www.actionnewsjax.com/sports/fridaynightblitz/)
+    * [Dream 18](https://www.actionnewsjax.com/dream18/)
+    
+* [Family Focus](https://www.actionnewsjax.com/family-focus/)
+    
+    * [Tenikka's Books for Kids](https://www.actionnewsjax.com/tb4k/)
+    * [Community Calendar](https://www.actionnewsjax.com/family-focus/community-calendar/)
+    * [Partners](https://www.actionnewsjax.com/family-focus/partners/)
+    
+* [Gets Real](https://www.actionnewsjax.com/getsreal/)
+* [Steals and Deals](https://www.actionnewsjax.com/sponsored/local-steals-and-deals/)
+* [First Alert Traffic](https://www.actionnewsjax.com/traffic/)
+    
+    * [Gas Prices(Opens in new window)](https://www.actionnewsjax.com/traffic/gasprices/)
+    * [FlightAware(Opens in new window)](https://flightaware.com/)
+    
+* [Telemundo Jacksonville](https://www.actionnewsjax.com/telemundo_jacksonville/)
+* [Advertise With Us](https://www.actionnewsjax.com/advertise-with-us/)
+* [About Us](https://www.actionnewsjax.com/about-us/)
+    
+    * [Contests](https://www.actionnewsjax.com/contests/)
+    * [Action News Jax Team](https://www.actionnewsjax.com/about-us/)
+    * [Contact Us](https://www.actionnewsjax.com/contact-us/)
+    * [MeTV on MyTVJax(Opens in new window)](https://www.metv.com/)
+    * [Jobs at Cox Media Group(Opens in new window)](https://careers.cmg.com/?utm_source=careersite)
+    * [Submit Events](https://www.actionnewsjax.com/family-focus/community-calendar/)
+    * [Visitor Agreement](https://www.actionnewsjax.com/visitor-agreement/)
+    * [Privacy Policy](https://www.actionnewsjax.com/privacy-policy/)
+    
+* [About WJAX](https://www.actionnewsjax.com/wjax-cbs47/)
+* [More](https://www.actionnewsjax.com/more/)
+    
+    * [Jax Home Experts](https://www.actionnewsjax.com/jaxhomeexperts/)
+    * [Around Town](https://www.actionnewsjax.com/more/around-town/)
+    
+
+Action News Jax Now
+
+Resize:
+
+Drag to Resize Video
+
 Visitor Agreement
 -----------------
 
@@ -239,3 +348,36 @@ This Agreement has been made in and shall be construed in accordance with the la
 [](https://www.actionnewsjax.com/florida-lottery/)
 
 #### Latest Trending
+
+[News](https://www.actionnewsjax.com/news)
+
+* [Local](https://www.actionnewsjax.com/news/local)
+* [Video](https://www.actionnewsjax.com/video)
+* [First Alert Traffic](https://www.actionnewsjax.com/traffic)
+
+[First Alert Weather](https://www.actionnewsjax.com/weather)
+
+* [Interactive Radar](https://www.actionnewsjax.com/weather/interactive-radar/)
+* [First Alert Doppler HD](https://www.actionnewsjax.com/weather/doppler/)
+
+[About Us](https://www.actionnewsjax.com/about-us)
+
+* [What's on CBS47/ FOX30](https://www.actionnewsjax.com/about-us/cbs47listings)
+* [WFOX Public File](https://publicfiles.fcc.gov/tv-profile/wfox-tv)
+* [WFOX EEO Statement](https://www.actionnewsjax.com/eeoc)
+* [WFOX FCC Applications](https://www.actionnewsjax.com/station/wfox-tv-fcc-applications/LVG6BHNJZBD77PJS24SM634AUA/)
+* [WJAX Public File](https://publicfiles.fcc.gov/tv-profile/wjax-tv)
+* [WJAX FCC Applications](https://www.actionnewsjax.com/station/wjax-tv-fcc-applications/FEAD6VZ6VZF7LD3UCHASXNVU3I/)
+* [Jobs at Cox Media Group](https://careers.cmg.com/?utm_source=careersite)
+
+### Follow Us
+
+[Action News Jax facebook feed(Opens a new window)](https://www.facebook.com/ActionNewsJacksonville)
+
+[Action News Jax twitter feed(Opens a new window)](https://twitter.com/ActionNewsJax/)
+
+[Action News Jax youtube feed(Opens a new window)](https://www.youtube.com/channel/UC5mg__JG9m5lypJUZbcWTOw/)
+
+**© 2024 [Cox Media Group](https://www.coxmediagroup.com/).** By using this website, you accept the terms of our **[Visitor Agreement](https://www.actionnewsjax.com/visitor-agreement/)** and **[Privacy Policy](https://www.actionnewsjax.com/privacy-policy/)**, and understand your options regarding **[Ad Choices](https://www.actionnewsjax.com/privacy-policy/#ad-choices)**.
+
+WFOX-TV, FOX30 is part of Cox Media Group Television. Learn about **[careers](https://cmg.jobs.net/)** at Cox Media Group.
