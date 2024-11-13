@@ -274,8 +274,8 @@ Carly Gino
 
 ![The Atlas Society](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5ea1ba1c06d5f8f5a227235b_atlas.png)
 
-22001 Northpark Drive - Ste 250  
-Kingwood, TX 77339
+1038 Miwok Dr  
+Lodi, CA 95240
 
 [editor@atlassociety.org](#)
 
