@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 13, 2024 | Media News Daily: Top Stories for 11/12/2024](https://mediabiasfactcheck.com/2024/11/13/media-news-daily-top-stories-for-11-12-2024-2/ "Media News Daily: Top Stories for 11/12/2024")
+* [November 13, 2024 | MBFC’s Daily Vetted Fact Checks for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/mbfcs-daily-vetted-fact-checks-for-11-13-2024/ "MBFC’s Daily Vetted Fact Checks for 11/13/2024")
 * [November 12, 2024 | Media News Daily: Top Stories for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/media-news-daily-top-stories-for-11-12-2024/ "Media News Daily: Top Stories for 11/12/2024")
 * [November 12, 2024 | MBFC’s Daily Vetted Fact Checks for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/mbfcs-daily-vetted-fact-checks-for-11-12-2024/ "MBFC’s Daily Vetted Fact Checks for 11/12/2024")
 * [November 11, 2024 | Media News Daily: Top Stories for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/media-news-daily-top-stories-for-11-11-2024/ "Media News Daily: Top Stories for 11/11/2024")
-* [November 11, 2024 | MBFC’s Daily Vetted Fact Checks for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/mbfcs-daily-vetted-fact-checks-for-11-11-2024/ "MBFC’s Daily Vetted Fact Checks for 11/11/2024")
-* [November 10, 2024 | MBFC’s Daily Vetted Fact Checks for 11/10/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/10/mbfcs-daily-vetted-fact-checks-for-11-10-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/10/2024 (Weekend Edition)")
 
 Search for:  
 
@@ -186,6 +186,8 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [TruthOut – Bias and Credibility](https://mediabiasfactcheck.com/truth-out/ "View TruthOut – Bias and Credibility") - November 13, 2024
+    
 * [Redacted – Bias and Credibility](https://mediabiasfactcheck.com/redacted-bias/ "View Redacted – Bias and Credibility") - November 12, 2024
     
 * [Big Country 99.5 – Tulsa – Bias and Credibility](https://mediabiasfactcheck.com/big-country-99-5-tulsa-bias/ "View Big Country 99.5 – Tulsa – Bias and Credibility") - November 12, 2024
@@ -204,8 +206,6 @@ No related posts.
     
 * [RT News (RT.Com) – Bias and Credibility](https://mediabiasfactcheck.com/rt-news/ "View RT News (RT.Com) – Bias and Credibility") - November 12, 2024
     
-* [Benton Times – Bias and Credibility](https://mediabiasfactcheck.com/benton-times/ "View Benton Times – Bias and Credibility") - November 12, 2024
-    
 
 #### Today’s Top Page Views
 
@@ -215,8 +215,8 @@ No related posts.
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [MBFC's Daily Vetted Fact Checks for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/mbfcs-daily-vetted-fact-checks-for-11-12-2024/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
