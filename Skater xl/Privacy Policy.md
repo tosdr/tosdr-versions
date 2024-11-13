@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (41) \- 92% of the 41 user reviews in the last 30 days are positive.
+Very Positive (41) \- 90% of the 41 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,139) \- 86% of the 18,139 user reviews for this game are positive.    
+Very Positive (18,141) \- 86% of the 18,141 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,139) All Time
+Very Positive (86% of 18,141) All Time
 
 Recent Reviews:
 
-Very Positive (92% of 41) Recent
+Very Positive (90% of 41) Recent
 
 ![](https://store.fastly.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -456,7 +456,7 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,139 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,141 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
@@ -464,20 +464,20 @@ Very Positive (41 reviews) ![](https://store.fastly.steamstatic.com/public/share
 
 Review Type
 
- All (19,282)  
- Positive (16,595)  
- Negative (2,687)
+ All (19,284)  
+ Positive (16,596)  
+ Negative (2,688)
 
 Purchase Type
 
- All (19,282)  
- Steam Purchasers (18,139) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,284)  
+ Steam Purchasers (18,141) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,143) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,282)  
- Your Languages (13,320) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,284)  
+ Your Languages (13,321) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
