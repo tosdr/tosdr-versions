@@ -72,7 +72,10 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
     * [Website policies and notices](https://www.usa.gov/website-policies-and-notices)
         * [Privacy and security](https://www.usa.gov/privacy)
         * [Accessibility policy](https://www.usa.gov/accessibility)
-        * [Linking policy](https://www.usa.gov/linking-policy)
+        * current page
+            
+            Linking policy
+            
         * [How to cite USA.gov](https://www.usa.gov/how-to-cite)
         * [Free commercial downloads](https://www.usa.gov/free-commercial-downloads)
         * [Paperwork Reduction Act statements](https://www.usa.gov/paperwork-reduction-act-statements)
