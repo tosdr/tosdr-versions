@@ -144,8 +144,6 @@ Search
 * [![Languages](../assets/images/flags/25/en.png)](# "Language")
 * [Try it now](https://www.mozaweb.com/en/portal.php?cmd=tryit)
 
-**Scheduled maintenance: 12 November 2024 at 22:00 CET to 13 November 2024 at 02:00 CET**
-
 End-User Licence Agreement
 ==========================
 
