@@ -1,10 +1,10 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111900-mid-day-digest-2024-11-12?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111942-mid-day-digest-2024-11-13?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,13 +108,13 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111900-mid-day-digest-2024-11-12?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111942-mid-day-digest-2024-11-13?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111931-historic-2024-11-13)
+     [](https://patriotpost.us/memes/111943-the-photo-id-map-2024-11-13)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander The Demos’ Widening Voter Disconnect and Divide](https://patriotpost.us/alexander/111946-the-demos-widening-voter-disconnect-and-divide-2024-11-13)
 *      [Christine Flowers Other Americans Get to Vote, Too](https://patriotpost.us/opinion/111922-other-americans-get-to-vote-too-2024-11-13)
 *      [Rich Lowry Trans Moralism Is Killing the Democrats](https://patriotpost.us/opinion/111920-trans-moralism-is-killing-the-democrats-2024-11-13)
 *      [Stephen Moore Climate Change Was the Big Election Loser](https://patriotpost.us/opinion/111917-climate-change-was-the-big-election-loser-2024-11-13)
@@ -137,7 +138,9 @@ Last Updated: November 15, 2011.
 *      [Byron York The Case for Mass Deportations](https://patriotpost.us/opinion/111911-the-case-for-mass-deportations-2024-11-13)
 *      [Betsy McCaughey Trump’s Promising Health Agenda](https://patriotpost.us/opinion/111910-trumps-promising-health-agenda-2024-11-13)
 *      [Tim Graham Why Is PBS Allowed to Be Mangle-MAGA TV?](https://patriotpost.us/opinion/111909-why-is-pbs-allowed-to-be-mangle-maga-tv-2024-11-13)
+*      [The Washington Stand American Dream 2.0: The Remarkable Rise of J.D. Vance](https://patriotpost.us/opinion/111945-american-dream-2-dot-0-the-remarkable-rise-of-jd-vance-2024-11-13)
 *      [The Babylon Bee Newsom Assures Californians They Will Be Safe From All the Trump Administration’s Prosperity, Safety, Lower Prices](https://patriotpost.us/opinion/111923-newsom-assures-californians-they-will-be-safe-from-all-the-trump-administrations-prosperity-safety-lower-prices-2024-11-13)
+*      [Guest Commentary Bigger BRICS in Russia](https://patriotpost.us/opinion/111944-bigger-brics-in-russia-2024-11-13)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -151,7 +154,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
