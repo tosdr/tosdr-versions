@@ -136,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/two-alternative-artworks-for-terminal-world-2-tw02/ "Two Alternative Artworks For Terminal World 2 [TW02]")
+[](https://ygorganization.com/whereishal-con/ "Halloween Returns with “Nekroz” Support [TW02]")
 
-#### [Two Alternative Artworks For Terminal World 2 \[TW02\]](https://ygorganization.com/two-alternative-artworks-for-terminal-world-2-tw02/)
+#### [Halloween Returns with “Nekroz” Support \[TW02\]](https://ygorganization.com/whereishal-con/)
 
-November 4, 2024
+November 7, 2024
 
-[](https://ygorganization.com/airtosky/ "Take To The Sky With “Air Hummingbird” And “Sky Neos”! [RD/KP19]")
+[](https://ygorganization.com/gradyfears/ "Harness The Darkside of “Roadstar”! [RD/KP19]")
 
-#### [Take To The Sky With “Air Hummingbird” And “Sky Neos”! \[RD/KP19\]](https://ygorganization.com/airtosky/)
+#### [Harness The Darkside of “Roadstar”! \[RD/KP19\]](https://ygorganization.com/gradyfears/)
 
-November 4, 2024
+November 7, 2024
 
-[](https://ygorganization.com/redalertlaudryplushie/ "[MERCHANDISE] Yu-Gi-Oh! Card Game 25th Anniversary × Don Quijote collaboration part 4")
+[](https://ygorganization.com/jump-festa-2025-merchandise/ "Jump Festa 2025 Merchandise")
 
-#### [\[MERCHANDISE\] Yu-Gi-Oh! Card Game 25th Anniversary × Don Quijote collaboration part 4](https://ygorganization.com/redalertlaudryplushie/)
+#### [Jump Festa 2025 Merchandise](https://ygorganization.com/jump-festa-2025-merchandise/)
 
-November 4, 2024
+November 7, 2024
 
-[](https://ygorganization.com/cards-from-episode-132-go-rush/ "Cards from Episode 132 [GO RUSH!!]")
+[](https://ygorganization.com/master-duel-november-7th-update/ "[Master Duel] November 7th Update")
 
-#### [Cards from Episode 132 \[GO RUSH!!\]](https://ygorganization.com/cards-from-episode-132-go-rush/)
+#### [\[Master Duel\] November 7th Update](https://ygorganization.com/master-duel-november-7th-update/)
 
-November 3, 2024
+November 7, 2024
 
-[](https://ygorganization.com/cdp_vampiredelta/ "CDP: Vampire’s Ghost Fusion, ft. Delta of Temptation and Flying Mary, the Wandering Ghost Ship")
+[](https://ygorganization.com/herewefindthewildcarnovorusinitsnaturalhabitat/ "[VJMP] Rekindle Dinosaurs with Burial Bicorn Carnovorus")
 
-#### [CDP: Vampire’s Ghost Fusion, ft. Delta of Temptation and Flying Mary, the Wandering Ghost Ship](https://ygorganization.com/cdp_vampiredelta/)
+#### [\[VJMP\] Rekindle Dinosaurs with Burial Bicorn Carnovorus](https://ygorganization.com/herewefindthewildcarnovorusinitsnaturalhabitat/)
 
-November 3, 2024
+November 6, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
