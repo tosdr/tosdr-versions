@@ -61,9 +61,11 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
 * [Voting and elections](https://www.usa.gov/voting-and-elections)
 
 1. [Home](https://www.usa.gov/) 
-2. [About USAGov](https://www.usa.gov/about) 
-3. [Website policies and notices](https://www.usa.gov/website-policies-and-notices) 
-4. Linking policy 
+2. [Travel](https://www.usa.gov/travel) 
+3. [Travel to or within the U.S.](https://www.usa.gov/travel-to-within-us) 
+4. [Visit the U.S. as a tourist](https://www.usa.gov/visit-united-states) 
+5. [Extend your stay in the U.S.](https://www.usa.gov/extend-visa) 
+6. USA.gov linking policy 
 
 * [About USAGov](https://www.usa.gov/about)
     * [USAGov's mission and history](https://www.usa.gov/mission-history)
