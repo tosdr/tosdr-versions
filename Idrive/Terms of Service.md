@@ -26,7 +26,7 @@ Terms of Service
 Terms of Service
 ----------------
 
-Last Updated:  September 09, 2024
+Last Updated:  November 13, 2024
 
 ### Please carefully read the following Terms of Service before registering for and using the IDrive® Service.
 
@@ -111,8 +111,6 @@ We endeavor to restrict access to the data and files you store or retrieve from 
 
 Encryption System  
 IDrive® supports 256-bit AES data encryption before transmission from your computer using either (i) a default key or (ii) an optional user defined private key created by you. Based on your privacy and security needs, you need to make an appropriate encryption key choice. This encryption process encrypts the data contained within the file and not the file-name itself. Certain metadata related to files including file thumb derivatives may not be encrypted. These metadata and derivatives are necessary for faster display and search. For web and mobile based data transfers, data is sent over an encrypted channel with server side AES 256-bit encryption.
-
-If you choose the default encryption option, the system chooses a key for encrypting your data. While your data is still encrypted, IDrive® personnel may still be able to decrypt your data using your Registration Information if such a situation should ever arise.
 
 **Note for BMR accounts:**  
 IDrive® BMR secures data at rest, both local and on the cloud, with AES 256 CCM encryption.
