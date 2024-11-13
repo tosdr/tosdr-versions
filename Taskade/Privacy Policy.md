@@ -176,7 +176,7 @@ Tools![](/static_images/landing/dropdown-caret.svg)
 
 [All Converters](https://www.taskade.com/convert/categories)
 
-[AI GPT Agents](https://www.taskade.com/agents)![](/static_images/landing/dropdown-caret.svg)
+[AI Agents](https://www.taskade.com/agents)![](/static_images/landing/dropdown-caret.svg)
 
 [Marketing Agents](https://www.taskade.com/agents/marketing)
 
@@ -224,6 +224,8 @@ Tools![](/static_images/landing/dropdown-caret.svg)
 * [Privacy](https://www.taskade.com/privacy)
 * [Terms](https://www.taskade.com/terms)
 * [Contact](https://www.taskade.com/contact)
+
+Last Updated: August 27, 2023
 
 Privacy Policy
 ==============
@@ -525,7 +527,7 @@ See all ▼
 
 [AI Designer](https://www.taskade.com/ai/designer)[AI Mind Map](https://www.taskade.com/ai/mind-map)[AI Marketing](https://www.taskade.com/ai/marketing)[AI Developers](https://www.taskade.com/ai/developer)[AI for Startups](https://www.taskade.com/ai/startups)[AI for Education](https://www.taskade.com/ai/education)[AI for Nonprofits](https://www.taskade.com/ai/nonprofits)
 
-[GPT Agents](https://www.taskade.com/agents)[Project Management](https://www.taskade.com/agents/project-management)[Productivity](https://www.taskade.com/agents/productivity)[Marketing](https://www.taskade.com/agents/marketing)[Translator](https://www.taskade.com/agents/translator)[Content](https://www.taskade.com/agents/content)[Workflow](https://www.taskade.com/agents/workflow)[Research](https://www.taskade.com/agents/research)
+[AI Agents](https://www.taskade.com/agents)[Project Management](https://www.taskade.com/agents/project-management)[Productivity](https://www.taskade.com/agents/productivity)[Marketing](https://www.taskade.com/agents/marketing)[Translator](https://www.taskade.com/agents/translator)[Content](https://www.taskade.com/agents/content)[Workflow](https://www.taskade.com/agents/workflow)[Research](https://www.taskade.com/agents/research)
 
 See all ▼
 
