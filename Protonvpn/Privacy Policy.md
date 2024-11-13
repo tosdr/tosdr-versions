@@ -116,7 +116,7 @@ Get started
 Didn’t find what you were looking for?
 --------------------------------------
 
-[Get help](https://protonvpn.com/support-form)
+[Get help](https://protonvpn.com/support/contact)
 
 General contact[contact@proton.me](mailto:contact@proton.me)
 
@@ -192,7 +192,7 @@ Geneva, Switzerland
     * [Business sales](https://protonvpn.com/business/contact?ref=ftrlnk)
     * [Partners and affiliates(new window)](https://proton.me/partners?ref=pvpncom)
     * [Press and media(new window)](https://proton.me/media?ref=pvpncom)
-    * [Contact us](https://protonvpn.com/support-form)
+    * [Contact us](https://protonvpn.com/support/contact)
     * [Live chat
         
         For customers](https://account.protonvpn.com/dashboard?chat=true)
