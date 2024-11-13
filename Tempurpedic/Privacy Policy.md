@@ -7,7 +7,7 @@
 * Error Please enable Javascript
     
 
- ![Hamburger navigation icon](/static/a7f98115/img/nav/bars.5e7f19faf6f7.svg) ![Close icon](/static/a7f98115/img/nav/x.ec10ec9cbff0.svg)
+ ![Hamburger navigation icon](/static/779c249c/img/nav/bars.5e7f19faf6f7.svg) ![Close icon](/static/779c249c/img/nav/x.ec10ec9cbff0.svg)
 
 [Tempur-Pedic Tempur-Pedic Logo](https://www.tempurpedic.com/ "Tempur-Pedic")
 =============================================================================
@@ -22,7 +22,7 @@
     
 * [Offers](https://www.tempurpedic.com/offers/ "Offers")
 
-![Rich Navigation Toggle](/static/a7f98115/tsicommon_cms/rich-navigation/x-close.7549ecc09af8.svg)
+![Rich Navigation Toggle](/static/779c249c/tsicommon_cms/rich-navigation/x-close.7549ecc09af8.svg)
 
 Shop
 ----
@@ -340,7 +340,7 @@ More Ways to Shop
 
 ​
 
-[![An Accessible360 badge sharing that we've partnered with an industry-leading ADA vendor who maintains our site is in good standing with accessibility.](/static/a7f98115/img/icons/badge-A360.1a8882546925.png)](https://allyant.com/)
+[![An Accessible360 badge sharing that we've partnered with an industry-leading ADA vendor who maintains our site is in good standing with accessibility.](/static/779c249c/img/icons/badge-A360.1a8882546925.png)](https://allyant.com/)
 
 * © 2024 Tempur-Pedic North America, LLC. All Rights Reserved.
 * [Terms of Use](https://www.tempurpedic.com/customer-service/terms-of-use/ "Terms of Use")
@@ -395,19 +395,19 @@ Improve Your Shopping Experience
 You’re using an unsupported web browser.  
 A list of the most popular browsers can be found below. Just click on an icon to visit the download page.
 
-* [![Get Google Chrome](/static/a7f98115/tsicommon_cms/img/chrome_32x32.78250de97890.png "Get Google Chrome")
+* [![Get Google Chrome](/static/779c249c/tsicommon_cms/img/chrome_32x32.78250de97890.png "Get Google Chrome")
     
       
     Google Chrome](http://www.google.com/chrome "Get Google Chrome")
-* [![Get Mozilla Firefox](/static/a7f98115/tsicommon_cms/img/firefox_32x32.f82f0993390a.png "Get Mozilla Firefox")
+* [![Get Mozilla Firefox](/static/779c249c/tsicommon_cms/img/firefox_32x32.f82f0993390a.png "Get Mozilla Firefox")
     
       
     Mozilla Firefox](http://www.firefox.com/ "Get Mozilla Firefox")
-* [![Get Apple Safari](/static/a7f98115/tsicommon_cms/img/safari_32x32.e3c4df1dc5de.png "Get Apple Safari")
+* [![Get Apple Safari](/static/779c249c/tsicommon_cms/img/safari_32x32.e3c4df1dc5de.png "Get Apple Safari")
     
       
     Apple Safari](http://www.apple.com/safari/download "Get Apple Safari")
-* [![Get Microsoft Edge](/static/a7f98115/tsicommon_cms/img/edge_32x32.7a279e6d7a74.png "Get Microsoft Edge")
+* [![Get Microsoft Edge](/static/779c249c/tsicommon_cms/img/edge_32x32.7a279e6d7a74.png "Get Microsoft Edge")
     
       
     Microsoft Edge](https://www.microsoft.com/en-us/edge "Get Microsoft Edge")
