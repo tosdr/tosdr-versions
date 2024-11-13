@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/10/the_thinker.jpg)](https://www.conservativedailynews.com/2024/11/a-nappy-solution-for-a-common-problem/)
+    
+    [A Nappy Solution for a Common Problem](https://www.conservativedailynews.com/2024/11/a-nappy-solution-for-a-common-problem/)
+    
+    November 13, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/elon-musk-6222396_640-220x150.jpg)](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
     
     [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
@@ -172,15 +178,11 @@ Recent Posts
     
     November 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/07/John-Ratcliffe.jpg)](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/)
-    
-    [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/)
-    
-    November 12, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [How Trump can restore American justice in just days](https://www.thegunpage.com/how-trump-can-restore-american-justice-in-just-days/10611838)
+* [Review: GP Arms Patriot 4.8-Inch For Action-Pistol Competition](https://www.thegunpage.com/review-gp-arms-patriot-4-8-inch-for-action-pistol-competition/10611837)
 * [TFB Interview: Sami Hautamäki – World Champion IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-sami-hautamaki-world-champion-ipsc-rifle-world-shoot/10611834)
 * [POTD: Danish Soldiers With Gevær M/10 C8IUR + Thermals, M60E6 and C20s](https://www.thegunpage.com/potd-danish-soldiers-with-gevaer-m-10-c8iur-thermals-m60e6-and-c20s/10611835)
 * [HOT GAT or FUDD CRAP? Pistol Grip or Hope It Doesn’t Slip?](https://www.thegunpage.com/hot-gat-or-fudd-crap-pistol-grip-or-hope-it-doesnt-slip/10611836)
@@ -189,8 +191,6 @@ Recent Posts
 * [Savage Introduces The Stance XR Micro 9mm](https://www.thegunpage.com/savage-introduces-the-stance-xr-micro-9mm/10611826)
 * [New: Troy Kryptos 5.56 Over The Barrel Suppressor](https://www.thegunpage.com/new-troy-kryptos-5-56-over-the-barrel-suppressor/10611827)
 * [Republicans Retain U.S. House Majority](https://www.thegunpage.com/republicans-retain-u-s-house-majority/10611825)
-* [Collegiate Rifle: TCU Defeats Alaska-Fairbanks, WVU Rises To No. 1 After Taking Down Army, John Jay](https://www.thegunpage.com/collegiate-rifle-tcu-defeats-alaska-fairbanks-wvu-rises-to-no-1-after-taking-down-army-john-jay/10611833)
-* [The Magpul FMG-9 is FINALLY HERE: The Magpul/ZEV FDP & FDC](https://www.thegunpage.com/the-magpul-fmg-9-is-finally-here-the-magpul-zev-fdp-fdc/10611822)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
